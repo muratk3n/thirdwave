@@ -1,7 +1,6 @@
-## Yo
+## Blog
 
-New blog posts will be here until otherwise announced.
+[English](/en/)
 
-## Latest
+[TR](/tr/)
 
-[Da Collapse, Macro Investing, McCollough](/en/2018/12/macro-mccollough.md)
