@@ -1,4 +1,4 @@
-## AMK
+## Yeni
 
 Yeni blog yazilari buradan paylasilacak.
 
