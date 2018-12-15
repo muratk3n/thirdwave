@@ -1,4 +1,4 @@
-# Quads
+# Da Collapse, Macro Investing, McCollough
 
 Been looking at Keith McCollough's rate-of-change paradigm. He uses
 two general macro variables, inflation, growth, for investing. The
