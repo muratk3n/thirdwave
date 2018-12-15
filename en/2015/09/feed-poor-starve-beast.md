@@ -1,0 +1,39 @@
+# Feed the Poor, Starve the Beast
+This fall [.. Swiss a]ctivists delivered 125,000 signatures — enough to trigger a Swiss public referendum, this time on providing a monthly income to every citizen, no strings attached. Every month, every Swiss person would receive a check from the government, no matter how rich or poor, how hardworking or lazy, how old or young. Poverty would disappear. [..]
+
+Go to a cocktail party in Berlin, and there is always someone spouting off about the benefits of a basic income, just as you might hear someone talking up Robin Hood taxes in New York or single-payer health care in Washington. And it’s not only in vogue in wealthy Switzerland. Beleaguered and debt-wracked Cyprus is weighing the implementation of basic incomes, too. They even are whispered about in the United States, where certain wonks on the libertarian right and liberal left have come to a strange convergence around the idea — some prefer an unconditional “basic” income that would go out to everyone, no strings attached; others a means-tested “minimum” income to supplement the earnings of the poor up to a given level.
+
+The case from the right is one of expediency and efficacy. Let’s say that Congress decided to provide a basic income through the tax code or by expanding the Social Security program. Such a system might work better and be fairer than the current patchwork of programs, including welfare, food stamps and housing vouchers. A single father with two jobs and two children would no longer have to worry about the hassle of visiting a bunch of offices to receive benefits. And giving him a single lump sum might help him use his federal dollars better. Housing vouchers have to be spent on housing, food stamps on food. Those dollars would be more valuable — both to the recipient and the economy at large — if they were fungible.
+
+Even better, conservatives think, such a program could significantly reduce the size of our federal bureaucracy. It could take the place of welfare, food stamps, housing vouchers and hundreds of other programs, all at once: Hello, basic income; goodbye, H.U.D. Charles Murray of the conservative American Enterprise Institute has proposed a minimum income for just that reason — feed the poor, and starve the beast. “Give the money to the people,” Murray wrote in his book “In Our Hands: A Plan to Replace the Welfare State.” He suggested guaranteeing $10,000 a year to anyone meeting the following conditions: be American, be over 21, stay out of jail and — as he once quipped — “have a pulse.”
+
+The left is more concerned with the power of a minimum or basic income as an anti-poverty and pro-mobility tool. There happens to be some hard evidence to bolster the policy’s case. In the mid-1970s, the tiny Canadian town of Dauphin ( the “garden capital of Manitoba” ) acted as guinea pig for a grand experiment in social policy called “Mincome.” For a short period of time, all the residents of the town received a guaranteed minimum income. About 1,000 poor families got monthly checks to supplement their earnings.
+
+Evelyn Forget, a health economist at the University of Manitoba, has done some of the best research on the results. Some of her findings were obvious: Poverty disappeared. But others were more surprising: High-school completion rates went up; hospitalization rates went down. “If you have a social program like this, community values themselves start to change,” Forget said [..]
+
+There’s a deeper, scarier reason that arguments for guaranteed incomes have resurfaced of late. Wages are stagnant, unemployment is high and tens of millions of families are struggling in Europe and here at home. Despite record corporate earnings and skyrocketing fortunes for the college-educated and already well-off, the job market is simply not rewarding many fully employed workers with a decent way of life. Millions of households have had no real increase in earnings since the late 1980s.
+
+
+
+
+
+
+
+at
+
+September 18, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+# Markets, Leverage, Hedge Funds
+On January 21, 1994 Federal Reserve Chairman Alan Greenspan made his way over to the White House. [The economy had] grown smoothly for thirty-four consecutive months, but now Greenspan was visiting President Clinton and his entourage to deliver an unwelcome message. Even though inflation was quiescent, it was time to preempt its resurgence with a small rate hike. By acting early, Greenspan hoped to avoid the overheating that would force him to slam on the brakes later. He aimed to pilot the economy toward a “soft landing.”
+
+[.. Answering a question by Al Gore, Greenspan answers that t]he possibility that a rate hike might cause a nasty Wall Street backlash was one he had certainly considered, but he was focused above all on the reaction in the stock market. Having entered record territory in 1993, the S&P 500 index appeared ripe for a correction. The bond market seemed to be of secondary importance.
+
+Greenspan assured Gore that long-term interest rates [they call long-term bond rates as 'long-term interest rates', they are not set by the gov, the market decides] were governed mainly by inflation
+expectations. If the Fed raised short rates, it would signal that the authorities were going to be vigilant on price pressures.  The result would be lower inflation expectations, which in turn ought to mean lower long-term interest rates. The rate hike that Greenspan proposed should be bullish for the bond market [..].
+
+In the era before shadowbanking, Greenspan’s reassurances might have proved justified. But the new shadowbanks were not as focused on inflation as the Fed chairman expected. The way the shadowbankers saw things, the first Fed hike in half a decade created uncertainty, and uncertainty meant risk; and because even a small fall in the bond market could wipe out the[ir] thin capital base [..] the mere possibility of a fall forced them to reduce risk by selling part of their holdings.  The new logic of leverage changed the central-banking game. In response to the rate hike, the shadowbanks dumped bonds and forced long-term interest rates up—the opposite of what Greenspan had expected.
+
+---
+
+Hah! Not even (!) the FED could not tell which direction the bond market would move towards.
+
+Some excerpts about the bond market are below. The Big Short (the book) did a great job by focusing on the bond market emphasizing that mortgages are mortgage bonds. The bond market is essentially an over-the-counter market whose transactions do not go through exchanges.
+
+The Bond Book
+
+While people speak of the bond market as if it were one market, in reality there is not one central place or exchange where bonds are bought and sold. In fact, there are not even several exchanges where bonds are traded and prices for each trade are posted. Rather, the bond market is a gigantic over-the-counter market [..] Most U.S. Treasury securities, for example, are sold through a network of "primary dealers" who sell directly to large institutions and to large broker-dealer firms. The broker-dealer firms, in turn, resell the bonds to the investing public and to smaller institutional investors. Municipals are sold by dealers, by banks, and by brokerage firms [..] Whereas stocks sell ultimately in one of three independent exchanges (the New York Stock Exchange, the American Stock Exchange, or the Nasdaq), most bonds are sold dealer to dealer.
+
+This market is so vast that its size is difficult to imagine. Although the financial press reports mainly on the stock market, the bond market is several times larger. Overwhelmingly, this is an institutional market. It raises debt capital for the largest issuers of debt, such as the U.S. government, state and local governments, and the largest corporations. The buyers of that debt are primarily large institutional investors such as pension funds, insurance companies, banks, corporations, and, increasingly, mutual funds. These buyers and sellers routinely trade sums that appear almost unreal to a nonfinance professional. U.S. government bonds trade in blocks of $1 million, and $100 million trades are routine. The smallest blocks are traded in the municipal market, where a round lot is $100,000. Another way of characterizing this market is to call it a wholesale market.
+
+
+Whaley, Derivatives, Markets, Valuation and Risk Management
+
+Among the disadvantages of OTC markets, however, is that willing buyers and sellers must spend time identifying each other. [..] Another disadvantage of OTC derivatives is credit risk, that is, the
+risk that a counterparty will renege on his contractual obligation. Perhaps the most colorful example of this type of risk involves forward and option contracts on tulip bulbs.
+
+In what can be characterized as a speculative bubble, rare and beautiful tulips became collectors’ items for the upper class in Holland in the early 17th century.  Prices soared to incredible levels. Homes, jewels, livestock—nothing was too precious that it could not be sacrificed for the purchase of tulip bulbs. In an attempt to cash in on this craze, it was not uncommon for tulip bulb dealers to sell bulbs for future delivery. They did so based on call options provided by tulip bulb growers. In this way, if bulb prices rose significantly prior to delivery, the dealers would simply exercise their options and acquire the bulbs to be delivered on the forward commitments at a fixed (lower) price. The tulip bulb growers also engaged in risk management by buying put options from the dealers. In this way, if prices fell, the growers could exercise their puts and sell their bulbs at a price higher than that prevailing in the market. In retrospect, both the tulip bulb dealers and growers were managing the risk of their positions quite sensibly.
+
+Everything could have worked out just fine, except that the bubble burst in the winter of 1637 when a gathering of bulb merchants could not get the usual inflated prices for their bulbs. Panic ensued. Prices sank to levels of 1/100th of what they had once been. This set off an unfortunate chain of events. Individuals who had agreed to buy bulbs from dealers did not do so. Consequently, dealers did not have the cash necessary to buy the bulbs when the growers attempted to exercise their puts. Some legal attempts were made to enforce the contracts, but the bottom line was that it was “as difficult to get blood out of a tulip bulb as out of a turnip.”  These contract defaults left an indelible mark on OTC derivatives trading.
+
+By the 1800s, the pendulum had swung from undisciplined derivatives trading in OTC markets toward more structured and secured trading on organized exchanges. The first derivatives exchange in the United States was the Chicago Board of Trade (CBT) [..] In 1865, the CBT made three important changes to the structure of its grain trading market. First, it introduced the use of standardized contracts called futures contracts. [.. T]he terms of futures contracts are set by the exchange and are standardized with respect to quality, quantity, and time and place of delivery for the underlying commodity. By concentrating hedging and speculative demands on fewer contracts, the depth and liquidity of the market are enhanced. This facilitates position unwinding.
+
+If a party to a trade wants to exit his position prior to the delivery date of the contract, he need only execute an opposite trade (i.e., reverse his trade) in the same contract. There is no need to seek out the counterparty of the original trade and attempt to negotiate the contract’s termination.  The second and third changes were made in an effort to promote market integrity. The second was the introduction of
+a clearinghouse to stand between the buyer and the seller and guarantee the performance of each party. This crucial step eliminated the counterparty risk that had plagued OTC trading. In the event a buyer defaults, the clearinghouse “makes good” on the seller’s position, and then holds the buyer’s clearing firm liable for the consequences. The buyer’s clearing firm, in turn, passes the liability onto the buyer’s broker, and ultimately the buyer. Note that, at any point in time, the clearinghouse has no net position since there are as many long contracts outstanding as there are short. The third change was the introduction of a margining system. When the buyer and seller enter a futures position, they are both required to deposit good-faith collateral designed to show that they can fulfill the terms of the contract.
+
+---
+
+The failed structures around the tulip craze sound similar to  toxic mortgage bond based derivatives; investment banks could create any derivative they liked, over-the-counter, person-to-person, which led to their ruin. The conflicted nature of their companies also created added confusion on detecting risk. Hedge funds in comparison fared better being more focused on one aspect of finance.
+
+More on hedge funds below:
+
+More Money Than God
+
+Hedge-fund incentives are not perfect. The managers keep a fifth of the profit in a good year but don’t give back a fifth of their losses in a bad year; therefore they may be tempted to gamble recklessly. But hedge funds have a powerful advantage. Their managers generally have their own wealth in their funds, which gives them a strong reason to control risks effectively. By contrast, bank proprietary traders do not risk their personal savings in the pools of money that they manage.  Instead, bank traders often own company stock. But the value of that stock is driven by a variety of different profit centers within the bank. If the prop desk loses money, its errors will be diluted by the other business lines. The stock may react marginally or not at all. The effect is too weak to change prop traders’ incentives.
+
+This contrast points to a third reason why the banks fared poorly in the credit bubble: Those multiple profit centers distracted executives. The banks’ proprietary trading desks coexisted alongside departments that advised on mergers, underwrote securities, and managed clients’ funds; sometimes the scramble for fees from these advisory businesses blurred the banks’ investment choices. Again, the subprime story illustrated this problem. Merrill Lynch is said to have sold $70 billion worth of subprime collateralized debt obligations, or CDOs, earning a fee of 1.25 percent each time, or $875 million. Merrill’s bosses obsessed about their standing in the mortgage league tables: The chief executive, Stan O’Neal, was prepared to finance home lenders at no profit in order to be first in line to buy their mortgages. To feed their CDO production lines, Merrill and its rivals kept plenty of mortgage bonds on hand; so when demand for CDOs collapsed in early 2007, the banks were stuck with billions of unsold inventory that they had to take onto their balance sheets. The banks therefore became major investors in mortgages as an unintended by-product of their mortgage-packaging business. When the scramble for commissions distorts investment choices in this way, it is hardly surprising that the investment choices are horrendous.
+
+The final explanation for the banks’ fate hinges on their culture. Hedge funds are paranoid outfits, constantly in fear that margin calls from brokers or redemptions from clients could put them out of business. They live and die by their investment returns, so they focus on them obsessively. They are generally run by a charismatic founder, not by a committee of executives: If they see a threat to their portfolio, they can flip their positions aggressively. Banks are complacent by comparison. They have multiple streams of revenue and their funding seems secure: Deposit-taking banks have sticky capital that enjoys a government guarantee, while investment banks felt (wrongly, as it turned out) that their access to funding from the equity and bond markets made them all but impreg- nable. The contrast between hedge-fund paranoia and bank complacency emerged most clearly in the years after Russia’s default and the Long-Term Capital crisis in 1998. For the most part, hedge funds responded to that shock by locking up investors for longer periods and negotiating guarantees from brokers to stabilize their capital. Meanwhile, banks trended in the opposite direction: Their buffers of equity capital fell by about a third between the mid-1990s and the mid-2000s. Even in 2006 and 2007, when the mortgage bubble was bursting, many banks were too sluggish to adjust. They sold John Paulson billions of dollars of mortgage insurance via the new ABX index, but they did not stop to ask themselves what Paulson’s buying might tell them.
+
+The contrast between banks and hedge funds was summed up by the story of Bear Stearns, even though there was a twist to it. Bear Stearns had a reputation as a vigilant manager of its trading risks; it was exactly the kind of institution that would not be expected to buy poisonous mortgage securities. But by the mid-2000s, Bear had emerged as the number one packager of mortgage-backed securities on Wall Street, up from the third slot in 2000; and to keep the sausage factory going, Bear had bought up subsidiaries that made subprime loans directly to home buyers, both in the United States and in Britain. Inevitably, this expansion shifted managers’ attention: They were less focused on what mortgages might be worth than on how to create lots of them. Meanwhile, in 2003, Bear devised an ambitious “10 in 10” strategy for its asset-management division: Revenues and profits from this unit would rise to 10 percent of Bear’s total by the year 2010, never mind the fact that Bear’s asset-management subsidiary was starting down this road from a position of insignificance. Again, this pursuit of fee income helped to seal Bear’s fate. The bank hurriedly assigned unqualified executives to build out its asset-management business by launching internal hedge funds, and some of these funds loaded up on subprime debt. That misjudgment set Bear on the path that led to its collapse the following year—and to the Federal Reserve being forced to absorb $29 billion of Bear’s toxic securities. 
+
+----
+
+I guess the verdict on these investment banks is that not only they became Too Big To Tail, but also Too Byzantine Not To. Low interest rates, complicated internal structures, regulators dropping the ball not watching leverage ratios, toxic mortgage bonds sometimes sold to others sometimes kept by internal hedge funds, over-the-counter nature of the whole thing set the groundwork for major fail. 
+
+
+
+
+
+
+
+at
+
+March 07, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+# Syria
+normal?
+
+At a time when both sides are suspiciously 
+eyeing eachother, a military jet flying recoinnassance missions is 
+normal. Whether the jet entered the Syrian airspace is besides the 
+point. It might have. But, Syrian regime took a step
+ that it thought get them something. That something is giving 
+Turkey a black eye, while at the same time giving a message to the Free 
+Syrian Army. They did this on the cheap: Turkey's policy position was 
+caught between neutrality accompanied by tough talk generated mainly for
+ domestic consumption, with this action Syrian regime showed the fragile
+ stance of the Turkish government.
+
+The worst case 
+scenario for Syria is already utter, total collapse. Nothing is worse 
+than this, so shooting down a plane while claiming this and that isn't 
+really a big deal. They do try to spin this however, as a country 
+(regime) wronged by outside forces, and Putin (of the Russia-Iran-Syria 
+bloc)  seemed to want to reenforce this outlook by all of a sudden 
+showing a renewed interest in the Palestenian cause. The message: we are
+ always on the side of the weak, and oppressed. 
+
+But in the end, all
+ such little games are futile... These people need to understand -- there 
+are forces bigger than you. All the realpolitik, all the maneuvers will 
+not change the fact that people are not happy in Syria. Yes Russia's 
+reach of influence that starts from Iran, through her, Iraq and Lebanon 
+is threatened. So Iraq being ruled by majority was good for them 
+increasing Iranian influence. But you cannot pick and choose now. It 
+might just happen that the majority in Syria may opt out of your punk 
+ass block. If that is so bad, lest not forget, the pain of that loss is 
+also entirely on you. You shouldn't have spent decades under a system 
+that turned your country into a basket case. You fucked up. And you will
+ pay the price.
+
+
+
+
+
+
+
+at
+
+June 28, 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
