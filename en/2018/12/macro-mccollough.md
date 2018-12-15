@@ -21,10 +21,15 @@ except golds, bonds, and dollar.
 In Quad4 growth and inflation go down at the same time. In Quad4 you want to be
 
 long dollar
+
 long low beta defensives, utilities, consumer staples
+
 long bonds
+
 short momentum
+
 short growth
+
 short technology
 
 Quad 3 is stagflation, that's what central bankers do when they
