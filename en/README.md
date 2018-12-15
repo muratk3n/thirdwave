@@ -8,6 +8,6 @@ New blog posts will be here until otherwise announced.
 
 ## Contribute
 
-1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH
+1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
 
 
