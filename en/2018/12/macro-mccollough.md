@@ -47,26 +47,24 @@ able to bet on 10-yr yields falling (in Quad 4 inflation would be
 falling, and the 10yr follows that like a glove), whereas "some
 others" were getting everyone worked up on Apocalypse Now which would
 result in yields shooting through the roof. That did not happen. US is
-slowing in Quad 4, it has nothing to do with the trade deal, this or that.
+slowing in Quad 4, it has nothing to do with the China trade deal.
 
 Since these two variables have the utmost importance, for future
 determination KM and his company take great care trying to predict
 them. Their prediction method is within 20 basis points of the real
-GDP and inflation.
-
-As a point of reference, FED's success rate is 200 basis points. Yes
-the frickin Federal Reserve.
+GDP and inflation. As a point of reference, FED's success rate is 200
+basis points. Yes the Federal Reserve.
 
 I was able to replicate historical quads, [code](quads.md),
-[graph](quads.png). Took a stab on prediction as well (same doc), it
-seems there is a pattern. For more, follow Hedgeye.
+[graph](quads.png). Took a stab on prediction as well (same doc),
+looks like there is a pattern. For more, follow Hedgeye.
 
-In terms of politics, growth slowing gives Rep oppo a chance. With 3%
-there was no chance. Now with growth slowing and sufficient message
-that carries contrast (other than crimes, innuendo, or blowjob, a
-favorite for centrist Democrats) in terms of policy, combined with
-Dubya level campaigning can bring -read left- into the White
-House. Fingers crossed.
+In terms of politics, growth slowing gives Rep oppo a chance whereas
+with 3% growth there was no chance. Now with econ slowing and
+sufficiently strong message that carries a contrast (other than
+crimes, innuendo, blowjob, i.e. staples for centrist Democrats) in
+terms of policy. Combined with Dubya level campaigning a progressive
+can make it into the White House.
 
 Links
 
