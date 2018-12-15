@@ -10,9 +10,10 @@ KM looks at YoY GDP growth (comparing Jan of 2018 to Jan of 2017),
 which gives the first derivative, another difference is the second
 derivative. Same is applied to inflation.
 
-So we can have one variable increasing, the other decreasing, both
-increasing, etc. The combination gives 4 different outcomes which KM
-maps to "Quads" - Quad 1, Quad 2, so forth.
+So we can have one variable accelerating, the other decelerating, both
+accelerating, etc. (very important, not simply increase, 'accelerate'
+meaning increase of the increase). The combination gives 4 different
+outcomes which KM maps to "Quads" - Quad 1, Quad 2, so forth.
 
 Quad1 is good, and Quad2 is really good. In both growth is going
 up. In Quad2 growth and inf going up at the same time. Everyone wins
