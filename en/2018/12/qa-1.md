@@ -86,10 +86,10 @@ So identity politics (ethnic presence for the fuck of it), Rep-Dem
 similarities working against Dems, all there.
 
 Then after it was all over, Gore grows the beard and goes off to be
-the "environment savior". The stupid issue that should not even be an
-issue but with Rep-Dem similarities pushing both sides to seek
-contrasts elsewhere, on moronic places, environment (and blowjobs)
-being one of them. 
+the "environment savior". Yes the environment, that stupid issue that
+should not even be an issue but with Rep-Dem similarities both sides
+seeking contrasts elsewhere, on moronic places, it (and blowjobs)
+becomes an issue which people "attack" or "defend".
 
 2000 had it all.
 
