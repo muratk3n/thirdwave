@@ -69,8 +69,8 @@ Oh but you can't time the market - yes you can. This is precisely what
 these guys are doing. "Not timing the market", relying on other
 signals, as it turns out, is just another approach, technique. 
 
-In terms of politics, growth slowing gives Rep oppo a chance whereas
-with 3% growth there was no chance. Now with econ slowing and
+In terms of politics, growth slowing gives Rep oppo a slight chance
+whereas with 3% growth there was no chance. Now with econ slowing and
 sufficiently strong message that carries a contrast (other than
 crimes, innuendo, blowjob, i.e. staples for centrist Democrats) in
 terms of policy. Combined with Dubya level campaigning a progressive
