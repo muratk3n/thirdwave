@@ -93,8 +93,6 @@ becomes an issue which people "attack" or "defend".
 
 2000 had it all.
 
-The cancer awaits its cure.
-
 Q: But Gore was challanged from the left during the primaries.
 
 A: You mean by Bill Bradley?
