@@ -19,7 +19,7 @@ If u can do that, H2 is e-z.
 
 Many taxi drivers did this because oil was too expensive, the
 economics of LNG somehow worked out.  Note: they say natgas is one of
-the clear fossil fuel options out there, and on paper that's true. But
+the clean fossil fuel options out there, and on paper that's true. But
 the fumes create a burning sensation in the nostrils which is
 unpleasant. With H2 there is no smell. Plus drinking water comes out
 of the exhaust.
