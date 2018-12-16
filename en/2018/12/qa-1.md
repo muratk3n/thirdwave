@@ -35,11 +35,12 @@ A: Sad
 Q: If the world switches from natgas to something else what happens to existing infrastructure?
 
 A: They are screwed. But I hear Russians started researching
-natgas-clean hydrogen conversion through another green process.
+natgas-clean hydrogen conversion through a green process. So RU has a
+flame lite under its ass, that is good.
 
 On the consumer end, you can pipe H2 through the same natgas
-infrastructure, for homes, transportation. So RU has a flame lite
-under its ass, that is good.
+infrastructure, for homes, transportation. So it looks like existing
+infrastructure can be used for H2.
 
 Q: Why did you switch from Blogger to Github?
 
