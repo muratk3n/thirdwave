@@ -88,9 +88,9 @@ similarities working against Dems, all there.
 Then after it was all over, Gore grows the beard and goes off to be
 the "environment savior". The stupid issue that should not even be an
 issue but with Rep-Dem similarities pushing both sides to seek
-contrasts elsewhere, on moronic places, envrironment (and blowjobs)
-becomes one of them. 
+contrasts elsewhere, on moronic places, environment (and blowjobs)
+being one of them. 
 
 2000 had it all.
 
-The cancer is still waiting its cure.
+The cancer awaits its cure.
