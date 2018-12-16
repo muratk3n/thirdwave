@@ -99,11 +99,12 @@ Q: But Gore was challanged from the left during the primaries.
 
 A: You mean by Bill Bradley?
 
-An excerpt from a Lance Selfa book: [Bradley's] speeches “parrot[ed],
+An excerpt from a Lance Selfa book: "[Bradley's] speeches parrot[ed],
 sometimes virtually verbatim, background material produced by the
 Pharmaceutical Research and Manufacturers of America, the industry’s
-chief lobbying group". He was bought and paid for. Another
-corporatist.
+chief lobbying group".
+
+He was bought and paid for. Another corporatist.
 
 
 
