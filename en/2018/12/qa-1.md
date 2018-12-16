@@ -34,7 +34,7 @@ A: Sad
 
 Q: If the world switches from natgas to something else what happens to existing infrastructure?
 
-A: They are screwed. But I hear Russiams started researching
+A: They are screwed. But I hear Russians started researching
 natgas-clean hydrogen conversion through another green process.
 
 On the consumer end, you can pipe H2 through the same natgas
