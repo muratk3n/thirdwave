@@ -71,7 +71,7 @@ in the middle).
 He chose Donna Brazille as campaign manager. Donna Brazille?? You
 don't chose a **sista** as CM u f-ing moron. If I had 100 engineers
 working for me I'd want at least 15 black, 15 Hispanics there. But the
-**one** person to help elect the **one** President, you chose the
+*one* person to help elect the *one* President, you chose the
 boring white guy who looks like a potato with its top sawed off who
 has a man-crush on the candidate. IOW u want [this
 guy](https://pbs.twimg.com/media/CvdlcHQXYAABEfg.jpg:large).
