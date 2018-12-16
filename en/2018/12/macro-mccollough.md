@@ -78,13 +78,13 @@ can make it into the White House.
 
 Links
 
-https://www.youtube.com/watch?v=hS-JOXZrcdU
+[https://www.youtube.com/watch?v=hS-JOXZrcdU](https://www.youtube.com/watch?v=hS-JOXZrcdU)
 
-https://www.youtube.com/watch?v=2NvNGAIvcb0
+[https://www.youtube.com/watch?v=2NvNGAIvcb0](https://www.youtube.com/watch?v=2NvNGAIvcb0)
 
-https://www.youtube.com/watch?v=V-uoyDj0tKs
+[https://www.youtube.com/watch?v=V-uoyDj0tKs]*https://www.youtube.com/watch?v=V-uoyDj0tKs)
 
-https://www.youtube.com/watch?v=27SQ5mYf38k
+[https://www.youtube.com/watch?v=27SQ5mYf38k](https://www.youtube.com/watch?v=27SQ5mYf38k)
 
 
 
