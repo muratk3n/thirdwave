@@ -54,10 +54,10 @@ need to point-and-click. It gets in the way actually.
 
 Q: Why did Al Gore lose?
 
-A: I talked abt Dubya's hail-marry. Everything that had to go wrong
-did go wrong for Gore, everything that had to go right, did go right
-for W. Excellent campaigning on W's part, but it is becoming clear
-there is more.
+A: I talked abt Dubya's Hail-Mary game. Everything that had to go
+wrong did go wrong for Gore, everything that had to go right, did go
+right for W. Excellent campaigning on W's part, but it is becoming
+clear there is more.
 
 It turns out the signature event of the century, fittingly, occured at
 the beginning of it, smack on 1999/2000. The backdrop is the cancer
