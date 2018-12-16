@@ -39,8 +39,8 @@ natgas-clean hydrogen conversion through a green process. So RU has a
 flame lit under its ass, that is good.
 
 On the consumer end, you can pipe H2 through the same natgas
-infrastructure, for homes, transportation. So it looks like existing
-infrastructure can be used for H2.
+infrastructure, for homes, transportation. So there might be chance
+for the existing infrastructure, it could be used for H2.
 
 Q: Why did you switch from Blogger to Github?
 
