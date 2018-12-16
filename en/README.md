@@ -12,6 +12,3 @@ New blog posts will be here until otherwise announced.
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
 
-
-
-

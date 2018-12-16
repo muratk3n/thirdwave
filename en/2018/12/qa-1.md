@@ -1,7 +1,7 @@
 ## Q&A - 16/12
 
 Q: If ammonia or regular temparature liquid H2 was not deployed, how
-easy is it for cars to use tanks?
+easy is it for cars to use H2 tanks (for pressurized containment)?
 
 A: Easy
 
