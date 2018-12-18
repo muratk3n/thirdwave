@@ -4,7 +4,7 @@
 
 Also:
 
-[Money](/2012/01/money.md)
+[Money](../../2012/01/money.md)
 
 [Inflation](https://www.youtube.com/watch?v=gi7jx5IJtik)
 
