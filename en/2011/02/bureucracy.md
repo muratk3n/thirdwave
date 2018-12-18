@@ -1,28 +1,7 @@
 # Bureucracy
 
+[Bureucracy - 1](bureucracy-part-i.md)
 
-
-
-
-
-
-
-
-at
-
-February 26, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Bureucracy - 2](bureucracy-part-ii.md)
 
 

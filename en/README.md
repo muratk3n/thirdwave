@@ -16,6 +16,8 @@ New blog posts will be here until otherwise announced.
 
 [The Fundamentals of Industrial Ideologies](/2011/04/fundamentals-of-industrial-ideologies.md)
 
+[Bureucracy](/2011/02/bureucracy.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
