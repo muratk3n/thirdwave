@@ -1,29 +1,6 @@
-# Nations and Nationalism
-Nations and Nationalism - 4
-Nations and Nationalism - 5
+# Nations and Nationalism 
 
+[Nations and Nationalism - 1](2013/03/allegience-of-pion.md)
 
-
-
-
-
-
-
-at
-
-February 25, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Nations and Nationalism - 2](2013/03/allegience-of-peon-4.md)
 

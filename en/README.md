@@ -10,7 +10,10 @@ New blog posts will be here until otherwise announced.
 
 15/12 - [Da Collapse, Macro Investing, McCollough](/2018/12/macro-mccollough.md)
 
+## Reference
+
+[Nations and Nationalism](2013/02/allegiance-of-peon.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
-
