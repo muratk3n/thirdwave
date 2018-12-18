@@ -4,6 +4,8 @@ New blog posts will be here until otherwise announced.
 
 ## Latest
 
+18/12 - [Lincoln Was Bi](/2018/12/linc-bi.md)
+
 16/12 - [BDS](/2018/12/bds.md)
 
 16/12 - [Q&A - 16/12](/2018/12/qa-1.md)
