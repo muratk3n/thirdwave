@@ -26,8 +26,10 @@ Pakistan is 34 times larger than that of Singapore. At market prices
 their GDPs are similar since Singapore is 38 times richer than
 Pakistan in per capita terms. Under the classification we use in this
 Atlas, they both export a similar number of different products, about
-133. How can products tell us about the conspicuous differences in the
-level of development that exist between these two countries? Pakistan
+133.
+
+How can products tell us about the conspicuous differences in the
+level of development that exist between these two countries?  Pakistan
 exports products that are on average exported by 28 other countries
 (placing Pakistan in the 60 th percentile of countries in terms of the
 average ubiquity of their products), while Singapore exports products
