@@ -1,27 +1,14 @@
 # Patents
-Welcome to Software Patents - 1
 
-Welcome to Software Patents - 2
+[The Case Against Patents](../../2018/10/the-case-against-patents.md)
 
+[Welcome to Software Patents - 1]
 
-Trolls
+[Welcome to Software Patents - 2]
 
-John Oliver on Patents
+[Trolls]
 
-
-
-
-
-
-
-
-at
-
-September 30, 2018
-
-
-
-
+[John Oliver on Patents]
 
 
 
