@@ -24,6 +24,8 @@ New blog posts will be here until otherwise announced.
 
 [The Fabric of Creativity](/2012/05/fabric-of-creativity.md)
 
+[Religion](/2015/04/q-274.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
