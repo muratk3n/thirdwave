@@ -26,6 +26,8 @@ New blog posts will be here until otherwise announced.
 
 [Religion](/2015/04/q-274.md)
 
+[Democracy](/2016/11/democracy.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
