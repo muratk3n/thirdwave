@@ -43,7 +43,7 @@ creative people? Goodwin’s Lincoln offers the following counsel:
 Listen more and blame less. Also: Be sure to relax now and then. Also:
 Don’t hold grudges.
 
-[Then ..] during the 2008 election season, after Team of Rivals was
+[Then ..] during the 2008 election season [..] Team of Rivals was
 endorsed by Barack Obama. That’s when it occurred to pundit after
 pundit that the book was about something that should properly warm the
 heart of every American: bipartisanship [..]
