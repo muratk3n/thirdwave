@@ -178,6 +178,6 @@ Spielberg.. this mothe.f..ka started to piss me off. *Schindler's
 List* was idolizing a capitalist after all, who purportedly saved
 Jews, film made black-and-white to make it more "genuine". Is this
 art? Going to whichever direction the wind blows? Or maybe he is
-saying I'm the m..f..ing wind up in this m...f..ka G. Hey I respect
+saying I'm the m..f..ing wind up in this m...f..ka. Hey I respect
 that. As long as we know he is peddling crack, not cotton candy.
 
