@@ -6,34 +6,8 @@
 
 [Concentration](../../2011/03/fundamentals-of-industrial-ideologies_15.md)
 
-Maximization
+[Maximization](../../2011/03/fundamentals-of-industrial-ideologies_16.md)
 
-Centralization
+[Centralization](../../2011/03/fundamentals-of-industrial-ideologies_17.md)
 
-The Integrators
-
-
-
-
-
-
-
-
-at
-
-April 03, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[The Integrators](../../2011/03/integrators.md)
