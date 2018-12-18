@@ -1,6 +1,13 @@
-## Yo
 
-New blog posts will be here until otherwise announced.
+Industrial Age society, the Second Wave began in Western Europe with
+the Industrial Revolution, and subsequently spread across the
+world. Key aspects of Second Wave society are the nuclear family, a
+factory-type education system and the corporation. The Third Wave is
+the post-industrial society based on hi-tech with all its benefits and
+adverse effects causing major attitude shifts in society. Institutions
+are built around methods of production, so when a new wave arrives,
+older structures around governance, education, health start to crumble
+despite the best efforts of people working in them.
 
 ## Latest
 
