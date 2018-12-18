@@ -22,6 +22,8 @@ New blog posts will be here until otherwise announced.
 
 [Patents](/2018/09/patents.md)
 
+[The Fabric of Creativity](/2012/05/fabric-of-creativity.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)

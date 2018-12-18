@@ -1,93 +1,99 @@
 # The Fabric of Creativity
-When Fast Company set out to find the most innovative 
-company in America, we wanted to rely on objective measurements, but 
-that proved daunting. How can you quantify something as intangible as 
-innovation? You can count up patents and discover that IBM is the 
-leader, with a record 3,415 awarded in 2003. But patents have come to 
-mean a lot less than they used to. The most creative companies of the 
-Internet era -- Amazon, Google, Yahoo, eBay -- have only a few patents 
-apiece. You can look at who spends the most on R&D, but a torrent of
- cash hardly guarantees breakthrough innovation. Over the past decade, 
-Microsoft has poured $5 billion or more a year into research, but its 
-vast expenditures still haven't yielded the next big thing [..]
+
+[Link](https://www.fastcompany.com/51733/fabric-creativity)
+
+When Fast Company set out to find the most innovative company in
+America, we wanted to rely on objective measurements, but that proved
+daunting. How can you quantify something as intangible as innovation?
+You can count up patents and discover that IBM is the leader, with a
+record 3,415 awarded in 2003. But patents have come to mean a lot less
+than they used to. The most creative companies of the Internet era --
+Amazon, Google, Yahoo, eBay -- have only a few patents apiece. You can
+look at who spends the most on R&D, but a torrent of cash hardly
+guarantees breakthrough innovation. Over the past decade, Microsoft
+has poured $5 billion or more a year into research, but its vast
+expenditures still haven't yielded the next big thing [..]
 
 So we gave up on crunching numbers and focused on other criteria. For
- starters, we looked for a company with a long history of innovation. We
- needed proof of sustained inventiveness through multiple waves of 
-technological and economic change. That knocked out Amazon, Google, and 
-the other Silicon Valley startups. We also wanted a company that is as 
-adept at product innovation as it is at process innovation. That 
-eliminated Dell, which is highly innovative at making its operations 
-incredibly efficient -- but not at bringing original and inspiring 
-offerings to consumers. Apple, on the other hand, keeps coming out with 
-dazzling new technologies, but count it out for process: The company 
-relies too much on the inscrutable instincts of one man. What if Steve 
-Jobs wasn't there anymore? It's a possibility that investors 
-contemplated recently when Jobs underwent emergency surgery for 
-pancreatic cancer. We wanted a company where innovation is resilient and
- doesn't depend on the ingenuity of a single individual or even a small 
-cadre of geniuses. That led us to a few big operations that have hatched
- countless new products over the decades -- justly famous names such as 
-3M and General Electric.
+ starters, we looked for a company with a long history of
+ innovation. We needed proof of sustained inventiveness through
+ multiple waves of technological and economic change. That knocked out
+ Amazon, Google, and the other Silicon Valley startups. We also wanted
+ a company that is as adept at product innovation as it is at process
+ innovation. That eliminated Dell, which is highly innovative at
+ making its operations incredibly efficient -- but not at bringing
+ original and inspiring offerings to consumers. Apple, on the other
+ hand, keeps coming out with dazzling new technologies, but count it
+ out for process: The company relies too much on the inscrutable
+ instincts of one man. What if Steve Jobs wasn't there anymore? It's a
+ possibility that investors contemplated recently when Jobs underwent
+ emergency surgery for pancreatic cancer. We wanted a company where
+ innovation is resilient and doesn't depend on the ingenuity of a
+ single individual or even a small cadre of geniuses. That led us to a
+ few big operations that have hatched countless new products over the
+ decades -- justly famous names such as 3M and General Electric.
 
-But then we found an outfit that does it all, without the 
-overwhelming size and awesome resources of a GE. In other words, a 
-company that proves that brains beat brawn. Pound for pound, the most 
-innovative company in America is W.L. Gore & Associates [..].
+But then we found an outfit that does it all, without the overwhelming
+size and awesome resources of a GE. In other words, a company that
+proves that brains beat brawn. Pound for pound, the most innovative
+company in America is W.L. Gore & Associates [..].
 
-Gore, a privately owned company, doesn't release its annual financial 
-data, but a spokesperson says that the company has had "double digit" 
-revenue growth for the past couple of years. In many businesses, Gore 
-has come out of nowhere and seized the market lead [..] When Gore's people think they can create a much better 
-product, they're fearless about attacking new markets.
+Gore, a privately owned company, doesn't release its annual financial
+data, but a spokesperson says that the company has had "double digit"
+revenue growth for the past couple of years. In many businesses, Gore
+has come out of nowhere and seized the market lead [..] When Gore's
+people think they can create a much better product, they're fearless
+about attacking new markets.
 
-Gore is a strikingly contradictory company: a place where nerds can 
-be mavericks; a place that's impatient with the standard way of working,
- but more than patient with nurturing ideas and giving them time to 
-flourish; a place that's humble in its origins, yet ravenous for 
-breakthrough ideas and, ultimately, growth. Gore's uniqueness comes from
- being as innovative in its operating principles as it is in its diverse
- product lines. This is a company that has kicked over the rules that 
-most other organizations live by. It is tucked away in the mid-Atlantic 
-countryside, 3,000 miles from Silicon Valley and even further (in its 
-mind-set) from Wall Street. And in its quietly revolutionary way, it is 
-doing something almost magical: fostering ongoing, consistent, 
-breakthrough creativity.
+Gore is a strikingly contradictory company: a place where nerds can be
+mavericks; a place that's impatient with the standard way of working,
+but more than patient with nurturing ideas and giving them time to
+flourish; a place that's humble in its origins, yet ravenous for
+breakthrough ideas and, ultimately, growth. Gore's uniqueness comes
+from being as innovative in its operating principles as it is in its
+diverse product lines. This is a company that has kicked over the
+rules that most other organizations live by. It is tucked away in the
+mid-Atlantic countryside, 3,000 miles from Silicon Valley and even
+further (in its mind-set) from Wall Street. And in its quietly
+revolutionary way, it is doing something almost magical: fostering
+ongoing, consistent, breakthrough creativity.
 
-What really distinguishes Gore is its culture, which goes back to 
-1958, when Wilbert ("Bill") L. Gore left DuPont, where he had worked as 
-an engineer for 17 years, and launched his startup. Bill liked to say 
-that "communication really happens in the car pool." At a hierarchical 
-company, the car pool is the only place where people talk to one another
- freely without regard for the chain of command. He also observed that 
-when there's a crisis, a company creates a task force and throws out the
- rules. That's when organizations take risks and make big breakthroughs.
- Why, he wondered, should you have to wait for a crisis?
+What really distinguishes Gore is its culture, which goes back to
+1958, when Wilbert ("Bill") L. Gore left DuPont, where he had worked
+as an engineer for 17 years, and launched his startup. Bill liked to
+say that "communication really happens in the car pool." At a
+hierarchical company, the car pool is the only place where people talk
+to one another freely without regard for the chain of command. He also
+observed that when there's a crisis, a company creates a task force
+and throws out the rules. That's when organizations take risks and
+make big breakthroughs.  Why, he wondered, should you have to wait for
+a crisis?
 
-So Bill Gore threw out the rules. He created a place with hardly any 
-hierarchy and few ranks and titles. He insisted on direct, one-on-one 
-communication; anyone in the company could speak to anyone else. In 
-essence, he organized the company as though it were a bunch of small 
-task forces. To promote this idea, he limited the size of teams -- 
-keeping even the manufacturing facilities to 150 to 200 people at most. 
-That's small enough so that people can get to know one another and what 
-everyone is working on, and who has the skills and knowledge they might 
-tap to get something accomplished -- whether it's creating an innovative
- product or handling the everyday challenges of running a business [..].
+So Bill Gore threw out the rules. He created a place with hardly any
+hierarchy and few ranks and titles. He insisted on direct, one-on-one
+communication; anyone in the company could speak to anyone else. In
+essence, he organized the company as though it were a bunch of small
+task forces. To promote this idea, he limited the size of teams --
+keeping even the manufacturing facilities to 150 to 200 people at
+most.  That's small enough so that people can get to know one another
+and what everyone is working on, and who has the skills and knowledge
+they might tap to get something accomplished -- whether it's creating
+an innovative product or handling the everyday challenges of running a
+business [..].
 
-Consider the case of Diane Davidson, whom the company hired to work 
-on Citywear, an effort that has persuaded designers such as Prada, Hugo 
-Boss, and Polo to use Gore-Tex fabrics in clothing that people can wear 
-to the office or out to a party. Nothing in Davidson's 15 years of 
-experience as a sales executive in the apparel industry, including a 
-stint at Bostonian, prepared her for life in a place where there are no 
-bosses and no clear-cut roles.
+Consider the case of Diane Davidson, whom the company hired to work on
+Citywear, an effort that has persuaded designers such as Prada, Hugo
+Boss, and Polo to use Gore-Tex fabrics in clothing that people can
+wear to the office or out to a party. Nothing in Davidson's 15 years
+of experience as a sales executive in the apparel industry, including
+a stint at Bostonian, prepared her for life in a place where there are
+no bosses and no clear-cut roles.
 
-"I came from a very traditional male-dominated business -- the men's 
-shoe business," she recalls. "When I arrived at Gore, I didn't know who 
-did what. I wondered how anything got done here. It was driving me 
-crazy." Like all new hires, Davidson was given a "starting sponsor" at 
-Gore -- a mentor, not a boss. But she didn't know how to work without 
+"I came from a very traditional male-dominated business -- the men's
+shoe business," she recalls. "When I arrived at Gore, I didn't know
+who did what. I wondered how anything got done here. It was driving me
+crazy." Like all new hires, Davidson was given a "starting sponsor" at
+Gore -- a mentor, not a boss. But she didn't know how to work without
 someone telling her what to do.
 
 "Who's my boss?" she kept asking.
