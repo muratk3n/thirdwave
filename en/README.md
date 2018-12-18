@@ -34,6 +34,8 @@ New blog posts will be here until otherwise announced.
 
 [Globalization](/2018/09/the-myth-of-liberal-international-order.md)
 
+[The Culture Code](/2014/06/the-culture-code.md)
+
 [TR](../tr)
 
 ## Contribute
