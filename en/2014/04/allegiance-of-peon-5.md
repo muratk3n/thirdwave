@@ -1,4 +1,4 @@
-# Nations and Nationalism - 5
+# Nations and Nationalism - 3
 
 Ernest Gellner
 
@@ -150,31 +150,4 @@ insulated cultural breathing tanks comes into being. It could be
 called the principle of barriers to communication, barriers based on
 previous, pre-industrial cultures; and it operates with special force
 during the early period of industrialization.
-
-
-
-
-
-
-
-
-
-
-at
-
-April 18, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,9 +1,10 @@
 # The Fundamentals of Industrial Ideologies
-Specialization
 
-Synchronization
+[Specialization](../../2011/03/fundamentals-of-industrial-ideologies_14.md)
 
-Concentration
+[Synchronization](../../2011/03/fundamentals-of-industrial-ideologies_5220.md)
+
+[Concentration](../../2011/03/fundamentals-of-industrial-ideologies_15.md)
 
 Maximization
 

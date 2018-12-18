@@ -14,6 +14,8 @@ New blog posts will be here until otherwise announced.
 
 [Nations and Nationalism](/2013/02/allegiance-of-peon.md)
 
+[The Fundamentals of Industrial Ideologies](/2011/04/fundamentals-of-industrial-ideologies.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
