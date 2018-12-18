@@ -12,7 +12,7 @@ New blog posts will be here until otherwise announced.
 
 ## Reference
 
-[Nations and Nationalism](2013/02/allegiance-of-peon.md)
+[Nations and Nationalism](/2013/02/allegiance-of-peon.md)
 
 ## Contribute
 
