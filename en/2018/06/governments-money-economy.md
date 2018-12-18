@@ -45,7 +45,7 @@ Countries need foreign direct investment to grow.
 
 Wrong
 
-Paper
+[Paper](https://eprints.soton.ac.uk/418719/1/20_03_2018_Does_Forei.pdf)
 
 Question
 
@@ -92,7 +92,8 @@ topic for another day.
 
 Question
 
-So they are not trying to grow the economy through low rates but crush smaller actors?
+So they are not trying to grow the economy through low rates but crush
+smaller actors?
 
 Yes
 

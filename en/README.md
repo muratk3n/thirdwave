@@ -30,6 +30,10 @@ New blog posts will be here until otherwise announced.
 
 [Money](/2018/05/quantity-theory-of-money.md)
 
+[Globalization](/2018/09/the-myth-of-liberal-international-order.md)
+
+[TR](../tr)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
