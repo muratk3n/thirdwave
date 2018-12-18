@@ -18,6 +18,8 @@ New blog posts will be here until otherwise announced.
 
 [Bureucracy](/2011/02/bureucracy.md)
 
+[Education](2017/09/education.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
