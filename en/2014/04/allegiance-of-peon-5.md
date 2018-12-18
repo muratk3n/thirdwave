@@ -1,7 +1,9 @@
 # Nations and Nationalism - 5
+
+Ernest Gellner
+
 A characteristic scenario of the evolution of a nationalism [..] ran
 something like this:
-
 
 The Ruritanians were a peasant population speaking a group of related
 [..] dialects, and inhabiting a series of discontinuous but not very
@@ -12,14 +14,13 @@ than these peasants.  The aristocracy and officialdom spoke the
 language of the Megalomanian court, which happened to belong to a
 language group different from the one of which the Ruritanian dialects
 were an offshoot. Most, but not all, Ruritanian peasants belonged to a
-church whose liturgy was taken from another linguistic group again, and
-many of the priests, especially higher up in the hierarchy, spoke a
-language which was a modem vernacular version of the liturgical
+church whose liturgy was taken from another linguistic group again,
+and many of the priests, especially higher up in the hierarchy, spoke
+a language which was a modem vernacular version of the liturgical
 language of this creed, and which was also very far removed from
 Ruritanian.  The petty traders of the small towns serving the
 Ruritanian countyside were drawn from a different ethnic group and
 religion still, and one heartily detested by the Ruritanian peasantry.
-
 
 In the nineteenth century a population explosion occurred at the same
 time as certain other areas of the Empire of Megalomania - but not
@@ -39,15 +40,15 @@ come to explore Ruritania. The continuing labour migration,
 increasingly widespread elementary education and conscription provided
 these Ruritanian awakeners with a growing audience.
 
-
 Of course, it was perfectly possible for the Ruritanians, if they
 wished to do so (and many did), to assimilate into the dominant
 language of Megalomania. No genetically transmitted trait, no deep
-religious custom, differentiated an educated Ruritanian from a similar Megalomanian. In fact, many did assimilate, often without
-bothering to change their names, and the telephone directory of the
-old capital of Megalomania (now the Federal Republic of Megalomania)
-is quite full of Ruritanian names, though often rather comically spelt
-in the Megalomanian manner, and adapted to Megalomanian phonetic
+religious custom, differentiated an educated Ruritanian from a similar
+Megalomanian. In fact, many did assimilate, often without bothering to
+change their names, and the telephone directory of the old capital of
+Megalomania (now the Federal Republic of Megalomania) is quite full of
+Ruritanian names, though often rather comically spelt in the
+Megalomanian manner, and adapted to Megalomanian phonetic
 expectations. The point is that after a rather harsh and painful start
 in the first generation, the life chances of the offspring of the
 Ruritanian labour migrant were not unduly bad, and probably at least
@@ -56,7 +57,6 @@ non-Ruritanian Megalomanian fellow citizens. So these offspring shared
 in the eventually growing prosperity and general embourgeoisement of
 the region. Hence, as far as individual life chances went, there was
 perhaps no need for a virulent Ruritanian nationalism.
-
 
 Nonetheless something of the kind did occur. It would, I think, be
 quite wrong to attribute conscious calculation to the participants in
@@ -117,7 +117,6 @@ Ruritania did mean the eventual fostering and protection of industries
 in the area, and in the end drastically diminished the need for labour
 migration from it.
 
-
 What all this amounts to is this: during the early period of
 industrialization, entrants into the new order who are drawn from
 cultural and linguistic groups that are distant from those of the more
@@ -144,7 +143,6 @@ Ruritanian national movement did indeed bring relief of the ills which
 had helped to engender it. The relief would perhaps have come anyway;
 but in this national form, it also brought forth a new high culture
 and its guardian state.
-
 
 This is one of the two important principles of fission which determine
 the emergence of new units, when the industrial world with its
