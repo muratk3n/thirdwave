@@ -28,6 +28,8 @@ New blog posts will be here until otherwise announced.
 
 [Democracy](/2016/11/democracy.md)
 
+[Money](/2018/05/quantity-theory-of-money.md)
+
 ## Contribute
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
