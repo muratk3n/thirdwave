@@ -28,6 +28,8 @@ başlar.
 
 [Yaratıcılığın Kumaşı](/2009/04/yaratclgn-kumas.md)
 
+[Roma](/2018/10/roma.md)
+
 ## Pamuk Eller Cebe 
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)

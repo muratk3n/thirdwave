@@ -1,25 +1,35 @@
 # Asterix
-Asterix kulliyati 50 yasina basmis; kutlariz. Bu hikaye daha once bahsettigimiz Roma / Ortacag kulturel fay hatti ile birebir uyumlu. Asterix hikayesinde Roma tum Fransa'yi ele gecirmistir, "tek bir koy haric". O koyun buyucusu ihtiyar bir iksir yaratir, boylece koydekiler super guclere sahip olurlar, Roma'ya direnirler, vs.vs.Bu  altyapidan pek cok hikaye cikacaktir tabii ki, biz de zevkle bunlari okuduk. Bir hikayede Asterix ve (Turkcesi) Hopdediks'in Sezar'in onunde durup herkes Roma (Nazi) selamini cakarken "n'ber moruk!" demeleri ilginc anlardan biriydi mesela. Kahramanlar Ave Ceasar (Heil Hitler) dememislerdi, "direnmislerdi".Fakat, ne yazik ki tarihte boyle bir koy olmadi, olamadi. Roma bugun Fransa denen yeri tamamen isgal etti. O zaman Asterix hikayesi gunumuz Fransizlarinin bilincaltini disa vurmasi acisindan onemli bir veri noktasi... Fransizlar tamamen ele gecirildiler, ama "keske ele gecirilmeseydik", "Romalilasmasaydik" hissiyatlari Asterix uzerinden disa vuruyor olmali.Dipnot olarak belirtmek gerekir: Fransizca dili aslinda zamaninda orada konuslanmis olan Roma askerlerinin konustugu "kaba Latincenin" bir turevidir, bir tur sokak agzidir. "Romantik" bir dil deniyor (romantik icindeki Roma vurgusunu dikkati cekerek devam ediyoruz) "hissiyati kuvvetli bir dil" baglaminda sunu soylemek gerekir, bizce bu dil son derece kaba, igrenc tinilara sahip;  kusmakta olan bir insanin cikardigi sesleri cagristiriyor. Neyse.. zevkler ve renkler.Fransa'nin ana kulturel fay hatti "seckinlik / esitlik (ozgurluk)" izlerini acaba Asterix hikayesi icinde bulabilir miyiz? Roma tarafindan tamamen ele gecirilen bu ulke, seckinlik tarafini "Roma" ile eslestirmis, ve onun karsiti olan tarafini, "esitligi / ozgurlugu" Avrupa'nin "Ortacag" noktasi ile birlesiyor olabilir mi? Olabilir. Dusunmeye deger.
 
-
-
-
-
-
-
-zaman:
-
-Ekim 18, 2009
-
-
-
-
-
-
-
-
-
+Asterix külliyatı 50 yaşına basmış; kutlarız. Bu hikaye daha önce
+bahsettiğimiz Roma / Ortaçağ kültürel fay hattı ile birebir
+uyumlu. Asterix hikayesinde Roma tüm Fransa'yı ele geçirmiştir, "tek
+bir köy hariç". O koyun büyücüsü ihtiyar bir iksir yaratır, böylece
+köydekiler süper güçlere sahip olurlar, Roma'ya direnirler, vs.vs.Bu
+altyapıdan pek çok hikaye çıkacaktır tabii ki, biz de zevkle bunları
+okuduk. Bir hikayede Asterix ve (Türkçesi) Hopdediks'in Sezar'ın
+önünde durup herkes Roma (Nazi) selamını çakarken "n'ber moruk!"
+demeleri ilginç anlardan biriydi mesela. Kahramanlar Ave Ceasar (Heil
+Hitler) dememişlerdi, "direnmişlerdi".Fakat, ne yazık ki tarihte böyle
+bir köy olmadı, olamadı. Roma bugün Fransa denen yeri tamamen işgal
+etti. O zaman Asterix hikayesi günümüz Fransızlarının bilinçaltını
+dışa vurması açısından önemli bir veri noktası... Fransızlar tamamen
+ele geçirildiler, ama "keşke ele geçirilmeseydik", "Romalılaşmasaydık"
+hissiyatları Asterix üzerinden dışa vuruyor olmalı.Dipnot olarak
+belirtmek gerekir: Fransızca dili aslında zamanında orada konuşlanmış
+olan Roma askerlerinin konuştuğu "kaba Latincenin" bir türevidir, bir
+tür sokak ağzıdır. "Romantik" bir dil deniyor (romantik içindeki Roma
+vurgusunu dikkati çekerek devam ediyoruz) "hissiyatı kuvvetli bir dil"
+bağlamında şunu söylemek gerekir, bizce bu dil son derece kaba, iğrenç
+tınılara sahip; kusmakta olan bir insanın çıkardığı sesleri
+çağrıştırıyor. Neyse.. zevkler ve renkler.Fransa'nın ana kültürel fay
+hattı "seçkinlik / eşitlik (özgürlük)" izlerini acaba Asterix hikayesi
+içinde bulabilir miyiz? Roma tarafından tamamen ele geçirilen bu ülke,
+seçkinlik tarafını "Roma" ile eşleştirmiş, ve onun karşıtı olan
+tarafını, "eşitliği / özgürlüğü" Avrupa'nın "Ortaçağ" noktası ile
+birleşiyor olabilir mi? Olabilir. Düşünmeye değer.
 
 ![](astrix.jpeg)
+
 ![](asterix_1.jpg)
+
 ![](asterix_2.jpg)
