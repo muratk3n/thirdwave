@@ -86,13 +86,15 @@ dictatorship, the military size is 100K, out of which a junta of size
 10 rules the country, then S=100K and W=10. But this kind of data is
 hard to collect, the authors decided to use another dataset's base
 variables to derive W and S. This formula is educational on its
-own. The dataset is Polity IV, famous for capturing some base
-variables on countries' democratic development which also has its own
-democracy variable that BBM et. al did not use directly, the variables
-used for W derivation are RegimeType, xrcomp, xropen, parcomp.
+own. The dataset is [Polity
+IV](http://www.systemicpeace.org/inscrdata.html), famous for capturing
+some base variables on countries' democratic development which also
+has its own `democracy` variable that BBM et. al did not use directly,
+the variables used for W derivation are `RegimeType`, `xrcomp`, `xropen`,
+`parcomp`.
 
-Among these parcomp was interesting for me, getting a 5 on that adds a
-1 to your score, and many countries including Turkland has a 4, and
+Among these `parcomp` was interesting for me, getting a 5 on that adds
+a 1 to your score, and many countries including Turkland has a 4, and
 you look up the description for that in Polity manual which says: (4)
 Transitional: Any transitional arrangement from [1,2,3] patterns to
 fully [5] patterns [..]. Transitional arrangements are accommodative
@@ -108,11 +110,4 @@ better job in capturing the essence of a regime.
 
 The research in this book appears to have evolved into The Dictator's
 Handbook, again by BBM.
-
-
-
-
-
-
-
 
