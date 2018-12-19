@@ -1,4 +1,5 @@
 
+## Hakkinda
 
 Endüstriyel Çağ toplumu, 2. Dalga, Batı Avrupa'da başladı ve ardından
 Endüstri Devrimi ile tüm dünyaya yayıldı. İkinci Dalga toplumunun
@@ -19,13 +20,9 @@ başlar.
 
 ## Referans
 
-Test
-
 [Bürokrasi](/2009/04/burokrasi_22.md)
 
 [Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri_2605.md)
-
-Test
 
 ## Pamuk Eller Cebe (Bitcoin)
 
