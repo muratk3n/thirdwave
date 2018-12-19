@@ -30,6 +30,10 @@ başlar.
 
 [Roma](/2018/10/roma.md)
 
+## Gez
+
+[Seneye Gore](years.md)
+
 ## Pamuk Eller Cebe 
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
