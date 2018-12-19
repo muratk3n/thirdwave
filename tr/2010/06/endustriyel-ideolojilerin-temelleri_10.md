@@ -1,4 +1,5 @@
 # Endüstriyel İdeolojilerin Temelleri: Maksimizasyon
+
 Bölünmüş üretim / tüketim, 2. dalga toplumlarında "makro manyaklığı" denebilecek, büyüklük ve büyümeye olan Teksasvarı bir bağımlılığın, bir tür hastalığın da ortaya çıkmasına sebep oldu. Düşünce şöyleydi: madem ki fabrikalarda bir malın üretim süresinin, miktarının arttırılması (longer production runs) daha az birim fiyatı anlamına geliyordu, o zaman ölçeğin büyütülmesi diğer aktivitelerde aynı şekilde kazanımlar sağlayabilirdi. Bu mantık "büyük" kelimesi ile "daha verimli" kelimesini eşanlamlı görmeye başlayacaktı. Sonuçta maksimizasyon 2. dalganın 5. ana prensibi haline geldi.
 
 Şehirler ve ülkeler en yüksek gökdelene, en büyük baraja, dünyanın en büyük mini-golf sahasına sahip olmakla övünüyorlardı. Bunun ötesinde büyüklük, büyümenin bir sonucu olduğuna göre, çoğu endüstriyel devlet, holding ve diğer organizasyonlar büyüme idealinin fanatik takipçileri haline geldiler.

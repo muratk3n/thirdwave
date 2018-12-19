@@ -1,23 +1,16 @@
 # Endüstriyel İdeolojilerin Temelleri
-Tek Alanda Calismak 
 
-Standardizasyon
+[Tek Alanda Calismak](endustriyel-ideolojilerin-temelleri-tek.md)
 
-Senkronizasyon
+[Standardizasyon](endustriyel-ideolojilerin-temelleri_05.md)
 
-Maksimizasyon
+[Senkronizasyon](endustriyel-ideolojilerin-temelleri_06.md)
 
-Merkezilestirme
+[Maksimizasyon](endustriyel-ideolojilerin-temelleri_10.md)
 
+[Merkezilestirme](endustriyel-ideolojilerin-temelleri_12.md)
 
-
-
-
-
-
-zaman:
-
-Haziran 12, 2010
+[Konstrasyon](endustriyel-ideolojilerin-temelleri.md)
 
 
 

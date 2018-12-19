@@ -1,4 +1,5 @@
 # Endüstriyel İdeolojilerin Temelleri: Merkezileştirme
+
 En son olarak, tüm endüstriyel devletler merkezileştirmeyi bir sanat dalı haline getirdiler. Muhakkak 1. dalgadaki [tarım bazlı] toplumların yöneticileri ve kilise gibi odaklar gücü merkezileştirmeyi biliyordu, ama endüstriyel toplumları baştan aşağı merkesileştiren nesle kıyasla onlar kaba birer amatör sayılırdı. Zaten eski çağlardaki yöneticiler çok daha az karmaşık topluluklarla meşguldüler.
 
 Tüm çetrefil toplulukların işleyişinde operasyonlar merkezi ve gayri-merkezi yaklaşımların bir karışımıdır. Fakat her yerel bölgenin kendi ihtiyaçlarını temin etmesiyle sorumlu olduğu çoğunlukla gayri merkezi olan 1. dalga düzeninden, aşırı entegre 2. dalga milli ekonomisine geçiş, gücü merkezileştirme açısından tamamen değişik metotlara ihtiyaç duymuştur. Bu ihtiyaç şirketler, endüstriler ve tüm genel ekonomi bazında ortaya çıkmıştır.

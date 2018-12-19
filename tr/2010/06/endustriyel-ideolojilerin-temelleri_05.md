@@ -1,4 +1,5 @@
 # Endüstriyel İdeolojilerin Temelleri: Standardizasyon
+
 Pek çok kişinin en iyi bildiği 2. dalga kavramı "standardizasyon" kavramıdır. Endüstriyel toplumların birbirine benzeyen milyonlarca mal ürettiğini herkes bilir. Fakat pek az kişi, piyasa önem kazanmaya başladıktan sonra Coca-Cola şişeleri, elektrik ampulleri ve araba akşamından daha fazlasını standardize ettiğimizin farkındadır. Biz bu prensibi hayatın pek çok diğer alanına da uyguladık; bu akımın öncülerinden biri de ATT şirketini bir dev haline getiren Theodore Vail'den başkası değildi. 
 
 1860 yılında günlük işi tren hatlarından mektup ulaştırmak olan Vail, mektupların hiçbir zaman sonuç adresine aynı yollardan gitmediğini farketti. Çuvallarca mektup ileri, geri hareket ediyor, bazen sonuca varması aylar alabiliyordu. Vail, standardize edilmiş ulaşım yolu kavramını keşfetti, ki böylece aynı adrese giden her mektup hep aynı yolu takip edecekti. Bu sayede Vail postane kavramına devrimsel bir değişiklik getirdi. ATT'yi kurduktan sonra amacı Amerika'daki her eve aynı tip telefonu koymak olacaktı [..]

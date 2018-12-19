@@ -1,4 +1,5 @@
 # Endüstriyel İdeolojilerin Temelleri: Senkronizasyon
+
 Üretim ve tüketim arasındaki sürekli büyüyen mesafe, insanların zamana bakışında büyük değişimlere sebep oldu. Serbest olsun, kontrollü olsun, piyasanın hakim olduğu her toplumda zaman = para desturu hakim olmuştur, çünkü endüstriyel ekonomilerde büyük paralar ödenmiş makinaların boş durmasına izin verilemezdi. Bu makinalar da, eşyanın tabiatına göre, kendi ritimlerine göre hareket ediyorlardı; işte bu faktör, 2. dalga için önemli bir prensibin daha ortaya çıkmasına sebep olmuştur: Senkronizasyon.
 
 Aslında en erken insan topluluklarında bile işin belli bir zaman akışı içinde organize edilmesi kavramı yabancı değildi. Mesela avcıların bir avı yakalaması için, balıkçıların ağları, kürekleri çekmesi için birbirlerine zamansal olarak uyumlu halde çalışmaları gerekiyordu [..] Fakat, en azından 2. dalga'nın makinaları gelinceye kadar, toplumlardaki çoğu senkronizasyon organik ve doğal olarak ortaya çıkmıştır. Bu senkronizasyon mevsimlerin değişimi, dünyanın dönüşü, kalp atışı gibi biyolojik süreçlerin ritmini takip etmiştir.
