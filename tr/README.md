@@ -26,6 +26,8 @@ başlar.
 
 [Ulus-Devletler ve Milliyetçilik](/2013/10/piyonun-aidiyeti.md)
 
+[Yaratıcılığın Kumaşı](yaratclgn-kumas.md)
+
 ## Pamuk Eller Cebe 
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)

@@ -30,21 +30,3 @@ Son
 [1] Bu gozlem Toffler'in gozlemiyle birebir uyusuyor. Ne demisti? Burokratik / hiyerarsik ortamlarda bilgi (rapor) yukari dogru birlestirilir (yatay olarak bolusturulur).
 
 
-
-
-
-
-
-zaman:
-
-Nisan 29, 2009
-
-
-
-
-
-
-
-
-
-
