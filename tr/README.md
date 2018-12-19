@@ -26,7 +26,7 @@ başlar.
 
 [Ulus-Devletler ve Milliyetçilik](/2013/10/piyonun-aidiyeti.md)
 
-[Yaratıcılığın Kumaşı](yaratclgn-kumas.md)
+[Yaratıcılığın Kumaşı](/2009/04/yaratclgn-kumas.md)
 
 ## Pamuk Eller Cebe 
 
