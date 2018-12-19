@@ -1,6 +1,4 @@
 
-## Hakkinda
-
 Endüstriyel Çağ toplumu, 2. Dalga, Batı Avrupa'da başladı ve ardından
 Endüstri Devrimi ile tüm dünyaya yayıldı. İkinci Dalga toplumunun
 anahtar özellikleri çekirdek aile, fabrika usulü bir eğitim sistemi ve
