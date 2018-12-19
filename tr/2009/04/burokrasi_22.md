@@ -1,25 +1,5 @@
 # Bürokrasi
 
-Bürokrasi - 2
+[Bürokrasi - 1](burokrasi.md)
 
-
-
-
-
-
-
-
-
-zaman:
-
-Nisan 22, 2009
-
-
-
-
-
-
-
-
-
-
+[Bürokrasi - 2](burokrasi-ii.md)
