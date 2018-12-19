@@ -22,6 +22,10 @@ başlar.
 
 [Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri_2605.md)
 
-## Pamuk Eller Cebe (Bitcoin)
+[Kültür Kodları](/2006/07/kltr-kodlar.md)
 
-1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH
+[Ulus-Devletler ve Milliyetçilik](/2013/10/piyonun-aidiyeti.md)
+
+## Pamuk Eller Cebe 
+
+1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
