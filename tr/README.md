@@ -19,15 +19,10 @@ başlar.
 
 ## Referans
 
-[Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri_2605.md)
-
 [Bürokrasi](/2009/04/burokrasi_22.md)
+
+[Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri_2605.md)
 
 ## Pamuk Eller Cebe (Bitcoin)
 
 1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH
-
-
-
-
-
