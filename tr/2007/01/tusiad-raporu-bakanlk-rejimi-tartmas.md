@@ -1,19 +1,134 @@
 # TUSIAD Raporu: Başkanlık Rejimi Tartışması
 
+Türkiye’de Turgut Özal’ın başbakanlığı döneminden bu yana başkanlık (ya da yarı başkanlık) rejiminin benimsenmesi yönünde öneriler artmıştır. Başkanlık hükümeti sistemi, başkanın halk tarafından seçilmesi, ilke olarak sorumsuzluğu, tek başlı yürütme, yaşama ve yürütme arasındaki organik ve işlevsel ayrılık, fesih ve düşürme gibi silahların bulunmaması şeklinde özellikler gösterir. Bu sistem, ABD Kurucu Atalarının tercihlerinden doğmuş olup, bir federasyonda merkezi birliği sağlama ihtiyacından da kaynaklanmıştır. ABD’de partilerin gevşek disiplinli ve çok az ideolojik karakterli olmaları da dikkati çeken bir husustur.
+
+ABD'de kullanılmakta olan sistem, kurucuları ve bugünkü elitleri tarafından değişik isimlerle anilmaktadir: Dengeler ve kontroller sistemi (system of checks and balances), kuvvetler ayrılığı sistemi (seperation of powers) ya da güçler dengesi (balance of power) bu isimlerden bazılarıdır. ABD sistemi Türkiye'de en çok Özal tarafından gündeme tasindigi için hep "onun istediği bir şey" olarak zihinlerde kalmış, ve bu sistemin öne surulmesinde itici istek (motive) olarak hep "Özal'in bu sistemde cikarinin ne olacağı" düşüncesi elitlerde akıllara gelir olmuştur. Bu, tabii ki, gayet yüzeysel bir şekilde hemen "daha fazla güç" kelimelerini akla getirmektedir, fakat bu yapılırken ABD sisteminin gerçekten nasıl işlediği aydınlar tarafından yeterince irdelenmemektedir. Aynen basınçla yüksek ısı yaratan alete onu icat eden yabancıların "basınç pisiricisi (pressure cooker)" ismini vermesi ama aynı alete Türk'lerin "düdüklü tencere" demesi gibi, ABD yönetim olgusuna sadece yüzeysel ve "dışarıdan görünen" haliyle yaklasilmaktadir. Dış dünyaya gözüken baskandir, dış gezilere o gider, anlaşmaları o imzalar, o zaman bu "başkanlık sistemidir". Bu çok büyük bir yanilgidir.
+
+Aslında ABD modeli başkanlık sistemi, demokrasi ile kişisel yönetim sentezinin bir ifadesidir. Burada 'kişisel yönetim’ kanadı İngiltere monarşisinin Kuzey Amerika'daki karşılığı olarak Başkan’ın şahsında billurlaşır. Bir başka deyişle 'Monark yerine seçilmiş Başkan’, sistemin karakteristiğidir. Theodore Roosevelt bunu şöyle dile getirmişti: 'Bir kral ve bir başbakan aynı kişide birleşiyor’.
+
+ABD'nin sisteminin ana fikri, "mutlak yönetime hep şüphe ile bakmak" sözü ile özetlenebilir. Burada, ABD kurucu babaların en çok etkilendikleri filozofun John Locke olması bir faktördür. Locke'in üstüne bastığı en önemli kavram olan "yöneten ve yönetilen arasında bir kontrakt olması" kavramı, ABD sistemini temelden etkilemistir; Bu kontrakt, hem başkanın seçilme dönemleri, hem de başkanın meclis ile dengelenmesi aksiyonlarinda billurlasir.
+
+Bu yanlarıyla başkanlık sisteminin, demokrasiye ters sonuçlar doğurabilmesine yetecek epey sakıncayı bünyesinde taşıdığı açıktır. Zaten sistemin demokratik sonuçlar verdiği tek mekan ABD’dir. Hatta denir ki, ABD demokrasisi başkanlık sistemi sayesinde değil, ona rağmen demokrasidir.
+
+Erkler ayrılığı (ERA) sisteminin Latin Amerika'da son zamanlardaki başarısı bu dayanikliliga bir örnek tesgil etmektedir. Brezilya, Lula ile çok sallantılı bir dönemden geçmiş, ama bu dönemi sisteminin kuvveti ile atlatabilmeyi başarmıştır. Türkiye'de sürekli politikacılardan "özveri" bekleyen sistem açıkları, şu anda Brezilya'da mevcut değildir. Aynı şekilde Venezuella, ABD'nin dışişleri ve CIA'nin tüm denemelerine rağmen halen hiç sevmedikleri Hugo Chavez'i yerinden sallamayi başaramamışlardır.
+
+ERAS'ın Latin Amerika'da işlemediği durumlarda ise başkana gereğinden fazla yetki verildiği gözlenmiştir.
+
+Türkiye’de başkanlık rejimi savunusu ve önerisi demokratikleşmeyi geliştirmek için değil, yönetimde etkinlik ve istikrarı sağlamak için ileri sürülmüştür. Kuşkusuz, yönetimde istikrar ve etkinlik, sonuçta demokrasi için de lehte bir unsurdur. Ancak, önerilen modelin sunduğu tehlikelere de işaret etmek gerekir.
+
+ERA sisteminin sorumsuz bir yoneticiyi istikrarlı bir şekilde dengelerken bunu demokratik olarak yapabilmesi ilgi çekicidir. Başkan kanun geçirerek yönetir, ve eğer her 2 senede bir değişen kongre içeriği ona karşı partiden olursa (ya da başkan populerliligini yitirip kendi partisinden olan üyeleri ikna edememeye başlarsa), o zaman gücü büyük miktarda azalmaktadır. ABD elitleri, başkanın esas gücünün "ikna gücü" olduğunu söylerler, bu seçimden seçime fikri sorulan seçmenlerin demokrasisi'nden bile daha ileri bir kavramdır. Her 2 senede bir secilmek meclis üyelerini sürekli diken üstünde tutmakta (iyi bir şey) ve gözlerini sürekli en son ankette ve bilahere halkın hissiyatinda tutmalarini sağlamaktadır. Buna göre, ABD sisteminin daha demokratik bir sistem olduğu açıktır.
+
+Bunlar; genel oyla seçilen başkanla parlamento arasında meşruluk krizleri doğması, seçilen başkanın görev süresini tamamlayana kadar değiştirilmesinin adeta imkansız olması, tarafsız bir hakeme duyulabilecek ihtiyacı karşılayamaması ve nihayet kolayca kişisel yönetim heveslerine savrulabilmesi gibi ciddi olasılıklardır. Özellikle demokratik deneyim birikiminin zayıf olduğu ülkeler için bu tehlikeler fazlasıyla geçerlidir. Başkanlık modelini benimsedikten sonra, 'başkancı’ sapmalara uğrayan ve oradan da askeri-bürokratik rejimlere yatay geçiş yapan Latin Amerika ülkelerinin serüvenleri, bu olasılıkların hiç de yabana atılmaması gerektiğini öğreten derslerle doludur.
+
+ERA sisteminde bazı önemli subaplar da mevcuttur. Eğer bir başkan görevini kötüye kullanırsa, kongre çoğunluğu ile düşürülebilir (impeachment). Bunun örneklerinden biri, Watergate skandalı sebebiyle düşürülecek olan Başkan Nixon'dur. Bu utanç verici olay olmadan önce istifa etmiş olması, eğer etmese başkanlığını kaybedecek olması gerçeğini degistirmemistir. Aynı şekilde Monica Lewinsky skandalı sırasında dusurulme tehlikesi yaşayan Clinton, bu sefer "subabin sübabı" olan halk hissiyati (public opinion) ve meclisin kendi kendini dengelemesi sayesinde kurtulmustur. Meclisteki yobaz ve ahlak polisliği yapmakta olan Cumhuriyetçi kanat, senato'daki üyelerin düşürmenin gerekliliğine ikna edememis, ve Clinton görev süresini zamanında tamamlamıştır.
+
+Ayrıca Türkiye federal yapılı bir sisteme sahip olmadığı için, merkezi güçlendirecek başkanlık formüllerine de ihtiyaç duymamaktadır. Hatta ülkenin sorunu merkezi değil, yerel yönetim güçlerini geliştirmektir. Ülkedeki partilerin oldukça katı disiplinli, lider hakimiyetli ve lidere tabi yapıları da başkanlık modelini demokrasiden uzaklaştırabilecek unsurlarıdır.
+
+ERA sisteminin, her topluluk için kullanabilecek kadar esnek olmasının belki de en iyi ispatı, ABD'nin tüm eyaletlerinde, merkezi sistemin ufaltilmis bir kopyasının kullanılmasıdır. Mesela Texas eyaletinin alt eyaletleri yoktur, fakat vali bir başkan gibi, eyalet kongresi merkezi kongre gibi, eyalet anayasa mahkemesi ise yüksek anayasa mahkemesi (supreme court) gibi çalışmakta, secilmekte ve dengelenmektedir. Demek ki bu sistem, her türlü yerel/merkezi şekilde kullanilabilmektedir. ABD sistemi, merkeziyetcilik derecesini belirlemez. Bunu belirleyen, kanunlaridir.
+
+Başkan ve meclis aynı siyasal çoğunluktan olduğunda, kişisel yönetim ve çoğunluk diktası eğilimleri cesaret alır. Bunlar ayrı siyasal cenahlardan olduklarında ise, çatışmalı bir siyasal yapının ek güçlükleri yaşanır.
+
+Tüm bunlara kıyasla, parlementer sistemde çoğunluğu kazanan hem yaşama hem yürütmeye aynı anda hakim olmaktadır. Ayrıca her iki erkin değişimi için aynı süreyi beklemek gerekmektedir. Bu, çoğunluk diktasi kavramını gündeme getirmektedir, ki ABD ilk yardımcı başkanı ve 2. cumhurbaşkanı olan John Adams'in Fransız Devrimi'nden sonraki Fransa'daki siyasi sisteme yönelttiği en büyük eleştiri de budur: "Mutlakiyeti (kralı) yıkmayı başardılar, ama yerine çoğunluğun mutlakiyetini getirdiler". Akabinde Fransa'da sistemin islemezliginin belki de tasdiki olarak parlamento'yu fesedip başa gelen diktatör (Napolyon), bu tarihi deneyin ne kadar başarısız olduğunu gözler önüne sermistir.
+
+ABD, hem başkan meclisin seçimlerini ayırıp meclis üyelerini diken üzerinde tutacak "2 senelik ömür" ile onların başkana olan sadakatini azaltmış, hem de fikirleri aynı olmadığı zaman onları "kitlenecek şekilde" yetkilerle donatarak onları konsensüs yapmaya zorlamistir. Bu kitlenme korkusu, tarafları garip bir şekilde "kitlenme olmadan anlaşma" yoluna doğru itmektedir. Reagan neredeyse tüm başkanlığının karşı parti çoğunluğunda gecirmistir, ve trend halen bu yönde gözükmektedir.
+
+Eger kitlenme, sistemin tum iteklemesine ragmen çözülmüyorsa, o zaman bu kilitlenme, toplumdaki bir kitlenmenin yansıması demektir, ve bu durumda zaten bir mutabakat saglanmadan herhangi bir yone dogru gidilmesi yanlış olurdu. Nasıl olsa en cok iki sene icinde secmen sandığa gidecek, bu kilidi ya biri ya da oteki parti yonünde çözecektir. Burada Jefferson'un "en iyi devlet, en az yoneten devlettir" sözü de hatirlanmalidir.
+
+Ayrıca bu sistemde yürütmenin yaşa hazırlamak ve önermek gibi bir yetkisi bulunmadığından, kural koyma işlevinde önemli sıkıntılar doğabilir. Ortaya çıkabilecek olasılıkların hiçbiri cazip değildir. öyle ki, ya meclisin hareketsizliği nedeniyle yaşama ve yaşa boşlukları doğabilir ya da yürütme organı bunları kendi olanaklarını zorlayarak kapatma yoluna gider ve sonuçta yaşama yetkisinin gaspı burgacı na sürüklenir.
+
+Sistemin belki de en önemli özelliği, ABD'de "kanun yapıcı (lawmaker)" adı verilen meclis üyelerinin hakikaten görevlerinin bu olmasıdır. Her meclis üyesi, hangi taraftan olursa olsun, kanun tasarısı sunabilirler. Hatta bir meclis üyesi, unlenmek (ve bilahere yeniden secilmek) için yapması gereken en iyi aksiyonun bir şekilde bir kanuna imzasını atmak olduğunu bilir. Bu sistemde meclise büyük bir yetki verilmiştir, ve bu isabetli bir sistem kararı olmuştur. Başkan, kanun yapmak istediğine bunu partisinde kendisine yakın herhangi bir meclis üyesi/leri üzerinden yapabilir. Eğer teklif karşı taraftan geliyorsa, başkan vetosu ile sürekli fikri danisilmasi gereken ve böylece sürece dahil edilmesi gereken bir "merkezi" temsil eder, ama popüler olan bir konuya veto koymak, bir daha secilmek isteyen bir başkan için pek mantıklı olmadığı için, başkan da halk hissiyatının esareti altında girmiş olmaktadır - başkan bu hissiyati dinlememeyi secerse, gereken kanun her zaman (bu yüzden seçimi kaybedecek olan ve yerine gelecek) yeni başkan zamanında tekrar gündeme taşınabilir.
+
+Türkiye'deki gibi bir parlementer sistemde, kıyasla, muhalefet partisinin dikkate alınacak bir kanun tasarısı sunması neredeyse imkansız hale getirilmiştir.
+
+Başkanlık sisteminin avantajları arasında, tek insanın birleştirici rolüne, özellikle karmaşık nüfuslu toplumlarda bunun yararlarına değinilmektedir. Türkiye’nin, ABD ya da benzeri bir başka ülke kadar büyük ve karmaşık nüfuslu olmayışı gerçeği bir yana, tek insandan birleştiricilik rolleri beklemek de pek sağlıklı değildir. Bu tarz tekilleştirmelerin birleşmeyi değil çatışmayı teşvik ettiği daha çok görülmüştür. Güç merkezlerinin daraltılması ve en aza indirilmesi uzlaşmayı değil, bu hayatı makam için kıyasıya çatışmayı gündeme getirir. Çünkü hedef iyice küçülmüştür; kazanan çok şey kazanacak, kaybeden de çok şey kaybedecektir.
+
+Tüm bunlara bakınca, ABD başkanının aslında Türkiye basbakanindan daha az yetkisinin olduğu ortaya çıkmaktadır. Aynı şekilde Fransız cumhurbaşkanı'da ABD başkanına nispeten daha az denetime tabi'dir, ve daha kral'varidir. Burada Fransa'nin "otokrat, merkeziyetci" bir yapıda olmasının büyük etkileri vardır. ABD'de baskanlar, "kazanan hepsini alır" sistemi sebebiyle iki kişinin sona kalması sebebiyle olabildiğince büyük yelpazeye erişmeye ugrasirlar, ve bu ikilik, pek çok marjinal, buyuklu, ufaklı siyasi akımların hepsini iki secmenden ya biri, ya ötekinin altında birleşmeye zorlamaktadir. Ayrıca adaylar, yelpazeyi her zaman daha da buyukmek için birbirlerinden konu (issue) çalmaya başlarlar, ki ABD başkanları gitgide görüş olarak birbirine benzemeye başlaması buna bir örnektir. Çünkü marjinal, "tek tabanca" görüşlerin hiçbiri tek başına yönetime gelmeye yetmemektedir. Bu yüzden ABD başkanı hep "ortacidir".
+
+Öte yandan başkanlık sistemi çok farklı ve güçlü bir siyasal-kültürel altyapıyı gerektirir. Sistemin yozlaşmaması için bu şarttır. Parlamenter rejimin dengeleri kendini yenileme ve yeniden üretme konusunda da vaatkarken, aynı şey başkanlık modeli için sözkonusu değildir. Türkiye’nin siyasal geçmişi ve deneyimi ise, iyi ya da kötü parlamenter rejim aranışları içinde geçmiştir. Başkanlık sistemi kültürü, eğer monarşi dönemini örnek göstermek gibi bir hata işlemezsek, son derece zayıftır.
+
+İki parti sistemi, ülkede her zaman "aynı iki parti" olacağı anlamına gelmemektedir. Tam tersine, ABD siyasi yelpazelerinde tıkanıklık olduğu zaman yeni partiler çıktığı, bazılarının birleştiği, eskilerin tarihe karışarak ABD'de yeni bir dinamikligin ortaya çıktığı zamanlar olmuştur. Mesela Whig, Free-Soil Party bugün yokolmuş, yerine onların hatta bazı Demokratlar ile beraber oluşturduğu Cumhuriyetçi Parti gelmiştir. 1996 seçimlerinde, üçüncü parti olarak seçimlere katılan Reform Parti, belki de as partilerden çaldığı oy ile seçimin sonucunu belirleyici parti olmuştur. Aynı şekilde Ralph Nader ve partisi Yeşil Parti, her zaman Demokrat'larin başının üstünde bir Demokles'in Kılıcı gibi sallanmaktadir. Nader eğer bir Demokrat Parti başkanlık adayını yeterince liberal (solcu) bulmazsa, başkanlık seçimine katılma ve Demokratlardan %4-5 oy çalma potansiyeli ile "kral yapıcı (kingmaker)" pozisyonunu pekistirmistir.
+
+Nitekim bu sistemi savunanların sistem konusundaki bilgilerinde görülen zaaşar da kültürel hazırlıksızlığı ortaya koymaktadır. Örneğin, başkanın parlamentoyu feshedebilmesinden ya da başbakanı görevden alabilmesinden bahsetmek, bu sistemi hiç bilmemekle eşanlamlıdır. Çünkü başkanlık sisteminde başbakan olmadığı gibi, başkanın parlamentoyu fesih yetkisi de olamaz. Sistemin temel dayanakları en başta bu 'iki olmazlar’ üzerinde kuruludur. Aynı şekilde, 'Cumhurbaşkanı’yla başbakan arasındaki sürtüşmeleri ortadan kaldırmak için halk tarafından seçilmiş başkanlık sistemi getirilmelidir’ görüşü de, bu rejimin özünü bilmemek anlamına gelir.
+
+Başkanlık rejimini savunmak için yakın tarihten de örnekler getirilmekte ve Türkiye’nin hep 'fiili başkanlık’ altında yaşadığı ileri sürülmektedir (Atatürk, İnönü, Bayar, Evren, Özal). Atatürk ve İnönü dönemlerinin tek partili rejimlerinin çoğulcu demokrasiye bu konuda örnek olması düşünülemez. DP döneminde ise 'fiili başkan’ın Bayar mı, yoksa başbakan mı olduğu çok tartışmalı olduğu gibi, bu dönem de çoğunluk diktasına sahne olmuştur. Evren dönemi (1980-83) askeri rejim aralığıdır, demokratik bir model olan başkanlık sistemiyle kıyaslanamaz. Nihayet Özal dönemi bir lider başbakan dönemi olup, başkanlık sistemiyle bağlantılı değildir.
+
+Demek ki, Türkiye cumhurbaşkanına ya çok yetki (Atatürk, İnönü) vermesi ya da aşırı sembolik, (kağıt üzerinde) yetkisiz ve sorumsuz bırakması (Bayar, Evren, Özal) yerine, artık bir karar vererek hem yetkili, hem dengelenen, hem de sorumlu bir başkan secebildigi bir döneme geçmesi gerekmektedir,
+
+İşte bu gibi nesnel sakıncalar ve öznel zaaşardır ki, başkanlık sistemi gibi bambaşka bir modelin denenmesini iyice sakıncalı hale getirmektedir. Türkiye’ye önerilmesi makul olan, yepyeni ve sınanmamış modeller değil, içinde pişmeye başladığı parlamenter rejimin hakkını verdirmeye çalışmaktır.
+
+.. ve bu geçiş zannedilenden daha acısız olacaktır, çünkü erklerden biri olan kongre (yani meclis) zaten Türkiye politika geleneğinin önemli bir parçasıdır. ERA sistemi ile yeri iyice kuvvetlenecek olan meclis, yeri hem daha belirgin, hem daha istikrarlı, hem daha dengelenen bir başkan ile çok daha verimli bir ilişki içine girebilecektir. "Sembolik veto" tarihe karışacak çünkü Cumhurbaşkanının vetosunun bir anlamı, bir kuvveti olacaktır. Bu durum, Çankaya ile Meclis arasındaki diyaloğu arttiracak bir etki olacaktır.
+
+Geçerken ve az sonra yeniden dönmek üzere belirtelim ki, başkanlık rejimi ile parlamenter rejim arası bir kırma model olan yarı başkanlık sistemi de, bütün melez modeller gibi, uygulanması daha zor bir formüldür. Bunun hayata geçirildiği Fransa’da, siyasal ve kültürel açıdan varolan olgunluğa rağmen çetrefil sorunlarla karşılaşıldığı meydandadır. Tek başına 'cohabitation’ sorunu bile bunların boyutlarını kavramaya yeterlidir.
+
+ERA sistemi, "ya hep, ya hiç" olarak ele alınması gereken bir modeldir. Bu sistemin garabet bir melezi olan Fransız versiyonu, Cumhurbaskanina çok fazla yetki vermekte, çok "kralvari" tutmakta, ve süresini fazla uzun tutmaktadır.
+
+Ve en son olarak hükümet dışarıdan kurulacagi için, seçim barajlarının tamamen kalkması mümkün olacaktır. Bu, istikrarsizlik getirmeyecektir, çünkü istikrar zaten tek başkanın ayrı seçimle gelmesi ile sağlanmış olacaktır.
+
+Ayrica ABD sisteminde diğer bir guzellik olan "direk demokrasi" adinda, uzerinde yeterince imza toplanan her konunun oya (ballot measures) sunulabilmesi (ve kabul edilirse takip edilmesinin mecbur olmasi), imkanlarinin da halka saglanmasi sayesinde, halkin oy vermek haricinde diger bir subap olarak sistemde is gorebilmesi saglanabilecektir. ABD'de bu sekildeki "halk tekliflerinin" uzerinde hicbir kisitlama yoktur. Vergi dusurulmesi, kriminal konular, sevilmeyen bir vali, politikaci degisimi (California'da gecende olan ve Arnold'u basa getiren surec gibi) uçan kaçan her konu yeteri kadar imza ile oya sunulabilir. Bu sistemi hem daha iyi kontrol edecek, hem de ona olan guveni arttiracaktir.
+
+"Temkinli güven" ve hatta bir ölçüde "güvensizlik" üzerine kurulmuş ERA sistemi, bu temkini sebebiyle ve ABD'deki haliyle bir Afrika kabilesinde bile kullanılabilir. Çünkü insanlar, psikolojik olarak bu temkinli sorumluluğu çok iyi anlamaktadirlar. ABD, işte bu güvensiz, yetki veren, ama kısa sürede sorumlu tutan yapısıyla, bu dengeyi çok iyi tutturmuş, ve bir iç savaş, bir dünya savaşı, ve bir soğuk savaş, sayısız ekonomik ve toplumsal krizden hiç kesintisiz, darbesiz ve bölünmeden günümüze kadar ulaşmıştır. Dünya üzerinde hiçbir demokrasi, bu kadar uzun süreli değildir ve ABD, yeni tarihine rağmen, dünyadaki en eski demokrasisi olma ünvanını elinde tutmaktadır.
+zaman: Ocak 30, 2007
+Bunu E-postayla Gönder
+BlogThis!
+Twitter'da Paylaş
+Facebook'ta Paylaş
+Pinterest'te Paylaş
+Etiketler: tahlil
+
+
+Pazar, Ocak 28, 2007
+PISA 2003
+PISA, Programme for International Student Assessment, yani "uluslararası öğrenci seviye ölçüm programı" kelimelerinin baş harflerinden oluşan bir kısaltma. PISA, OECD'nin bir alt programıdır, ve 2000, 2003 yıllarında üyesi olan her ülkede 15 yaşindaki öğrencilerin seviyesini ölçüp sonuçlarını rapor etmiştir (program her uc senede olcum yapmaya devam ediyor). Türkiye aktif olarak 2003 ve 2006 sınavına katilmistir. 2003 sonuçları bellidir, 2006'nin sonuçları Aralık 2007'de belli olacaktır.
+
+Bizim burada analiz edeceğimiz sonuçları, 2003 raporu temelli. Sonuclarin, verilerle sunulmuş orijinalini burada (PDF - 5.67 MB) bulabilirsiniz. MEB sitesinde de kısa ve pek detaylı olmayan bir analiz mevcut. Biz, her zaman yaptığımız gibi, probleme detaylı verilerle saldırıp, sesi sonuna kadar açmaya çalışacağız.
+
+Durum
+
+Pekalaaa... Nasildir halet-i maarif-i umumiye? "Bizim çocuğun durumu nasıl öğretmen bey?". Çocuğun durumunu söyleyeyim: 2003 itibariyle durumu TKF. Yani Tek Kelimeyle Felaket. Yani, durum gelişmekte olan bir ülke için o kadar rezalettir ki, açıkça söyleyeyim ne yapsak bundan daha kötü olamayız. Hiçbir şey yapılmasa, belki şans eseri ilerlemiş olunurdu; Durum o kadar berbattir. Ya da, 2003'teki durum o kadar diptedir ki, nereye gitsek, yukarı çıkıyoruz demektir. Umarım halimizi tarif edebilmisimdir.
+
+PISA testi, her ülkede rasgele seçilen okulların öğrencileri için hazırlanmıştır. Sinavdaki her sorunun zorluğuna ve verilen cevap yeterliligine değişik puan ağırlıkları olabilmektedir, ve bu puanlar en sonda toplanıp öğrenci seviyesi belirlenmektedir. Sınav sonucunda öğrenciler 6 değişik seviyeden birine verilmiştir, 6 en yüksek seviyedir.
+
+Sorularin mahiyetini anlayalım diye örneklerini göstereceğiz, fakat bazı ilk rakamları hemen paylasalim. Eğer rapordaki Figur 2.16a'ya bakarsanız, Türkiye'nin ortalama olarak matematikte 40 ülke arasında 35. olduğunu göreceksiniz. Bu kötü ama eğer tüm ülkelerin notları yüksek olsaydı, bu bir anlam ifade etmeyebilirdi. Sonuclarin derinliğine inince, iş daha iyi ortaya çıkmaya başlıyor. Çünkü bilgi ekonomisinde lazım olacak türden düşüncenin varlığını test eden bu sınavda, Türk öğrencilerinin takriben yarısının daha 1. seviyeyi bile gecemedigi belli oluyor! Alarm zilleri çalmaya başladı mi? Calmadiysa, fikriniz olsun diye 1.'yi bırakın, 4. seviyedeki sorulara bir örnek veriyorum:
+
+"Televizyon yorumcusu alttaki grafiği gösterdi ve şunu söyledi:
+
+Bu grafige bakarsak, y şehrindeki soygunlarda 1998'den 1999'a büyük bir artış olduğunu görüyoruz.
+
+Bu yorumcunun söylediklerine katılıyor musunuz? Cevabinizi açıklayın ve destekleyici argümanlar ortaya koyun".
+Grafige bakıyorsunuz: Y eksenindeki skala 505'ten başladığı için aslında artış fazla değil. Bunu bile söylemek size 4. seviyeye getirecek puan kazandırıyor. Eğer artışın yüzde olarak hesabını yaparsanız, 6. seviyede bir cevap vermiş oluyorsunuz. Peki üstteki sorunun en basit cevabının bile sizi taşıyacağı 4. seviyeye kaç kişi gelebilmis? Ya da kaç kişi gelememis, ona bakalım:
+
+Cevap: Türk öğrencilerinin %88'i!
+
+Düşünebiliyor musunuz? Adamın en basit grafige bakarak, çok basit bazı sonuçlara bile varamadigi gozukmektedir! Efendim ikna olmadım. Bir örnek daha vereyim.
+
+"Alttaki resim, bir insanın ayak izlerini göstermektedir. Adım büyüklüğü P yanyana basılmış iki ayak izin arkalarinin uzakligina bakılarak hesaplanmıştır. Erkekler için n/p=140 formülü n ile p arasında bir ilişki kurmuştur, ve "n = bir dakikada atılan adım sayısı" ve "p = her adımın metre olarak ölçüsü'dur. O zaman, eğer Hasan adım ölçüsünün 0.8 metre olduğunu biliyorsa, ve formül Hasan için geçerli ise, Hasan'in metre/dakika ve kilometre/saat olarak olarak yürüyüş hızı nedir?"
 
 
 
+Bu soru, çok basit bir formuldeki yerlere koyma ve sonucu bulma işlemine bir örnektir. Düşünce çizgisi n / 0.8 = 140 diye başlayacak, sonra n = 140 x 0.8 = 112 olarak devam edecektir. Bu bile sizi 4. seviyeye ulastirmaktadir. Bu ilk çıkan 112 adım/dakika sonucunu, adamın adım ölçüsü bilindigine göre, metre/dakika ve kilometre/saate cevirebilirseniz (ki çok kolaydır) bu sizi 6. seviyeye ulastirmaktadir. Bu soruda matematiksel model oluşturmayı geciniz, mevcut model üzerinden hesap yapmanız istenmiştir. Ve, üzülerek söylüyorum, yuzdelerimize bakılırsa bu soru türlerini 4. seviyede bile cevaplayamayan öğrencilerimizin oranı yukarıda belirtildiği gibidir.
 
-zaman:
+Diğer Rakamlar
 
-Ocak 30, 2007
+PISA sınavında en iyi sonuç alan milletlerin Finlandiya, Çin, Kore ve Kanada olduğu gözükmektedir. Bu ülkeler öğrencilerinin yarısından daha fazlasını 4. seviye ve yukarısında tutmayı basarmislardir. Türkiye'nin ise öğrencisi ağırlıklı olarak 3. seviye ve altındadır. Aslında bu sonuçlar şu anki iş gücümüzün hikayesini de anlatmaktadır. Az sayıda uzman vardır, ve "ne iş olursa yaparım abi" havasindaki insanlar çoğunluktadır. 1. seviyeye bile "gelememis" (yani seviyesiz) insanların sayısının Türkiye'de %27.7 olması durumu pek güzel açıklıyor zannediyoruz! Bu öğrencilerin matematiksel düşüncenin m'sini almamış oldukları ve bilgi ekonomisinde geride kalacakları kaçınılmaz olacaktır. Bizi bu alanda geçen yegane ülkelerin Meksika, Brezilya, Indonezya olması bizi rahatlatmamali.. Yunanistan hem alt seviyelerde bizden az, hem üst seviyelerde bizden fazla öğrenci seviyesi ile bizden daha iyi bir konuma gelmeyi başarmıştır (ama onlarinda yapacak çok işi var tabii). En üst seviyede %2.4 ile ABD'nin %2.1'inden daha iyi bir sonuç almamız güzeldir, fakat ABD'nin 4. ve 5. seviyelerdeki öğrencileri bizden çok daha fazladır, ve en alt seviyelerdeki öğrencileri bizden daha az sayidadir. Yani ufak bir yerde istatistiki eşitlik genele bakılınca olan durumu telafi etmemektedir. Eğitim, aynen sağlık gibi, satha yayılması gereken bir hizmettir - tek tük adamı kurtararak ilerlemek mümkün değildir. Ayrıca Türkiye'nin Amerika gibi dışarıdan eğitilmiş beyinleri "ithal etme" şansı nispeten daha azdır.
 
-
-
-
-
+İlginç bir grafik ise, milli gelir ile PISA sınav notu arasındaki korelasyon (büyük hali için tıklayın):
 
 
 
+Bu grafige göre kişi başına milli gelir ile PISA başarısı arasında direk bir ilişki (correlation) olduğu gözüküyor. Fakat hemen uyaralim, iki değişken arasında korelasyon olması, o parametrelerden birinin her zaman diğerinin sebebi olduğu anlamına gelmez, belki ortada iki parametrenin dayandığı bir üçüncü parametre vardır, ve korelasyon aslında bu diğer saklı korelasyonu göstermektedir, bu üçüncü korelasyonun olup olmadığı eğitim ve sosyalbilimcilerin işidir, fakat her halükarda, aradaki direk bağlantı dikkat çekicidir. Bu grafige bakarak varilacak bir diğer sonuç, Türkiye'nin milli gelirine oranla hakettiği puanı alamamış olmasıdır (eğer milli gelirin hakettiği sonuç alinsaydi, Türkiye veri noktası çizgiye yakın olurdu), ve belkide bir sonraki grafik bunu aciklamaktadir (büyük hali için tıklayın).
 
+
+Bu grafik her milletin eğitim için öğrenci başına harcadığı para ile PISA sonuçlarının grafigidir, yine arada korelasyon mevcuttur, ve Türkiye (demek ki) harcadığı müthiş cuzi miktar sebebiyle, grafige köşesinden bile dahil olmayı basaramamistir. Yani, hem GSMH düşüktür, evet, ama bir yandan da GSMH'nin gereken oranı eğitime harcanmamaktadir.
+
+Final Analiz
+
+Şimdi işin yapılacaklar ve sorumluluklar kısmına gelelim. İtiraf etmek gerekir ki, PISA 2003 sınav sonuçlarının sorumlusu AKP hükümeti değil, 2000/1 ve öncesi başta olan hukumetlerdir, ya da daha geniş bağlamda 2003'te 15 yaşında olan çocuğun eğitim hayatı boyunca başta olmuş her milli eğitim bakanligidir. 2006'daki sinavin sonuçlarının sorumlusu olan AKP olacaktır. Bu sonucu merakla bekliyoruz.
+
+Milli Eğitim Bakanlığı, PISA sınavına aktif olarak katıldığı, okul seçiminde, sinavlarin tercumesinde yardım sağladığı için sonuçlardan birinci derecede haberdar olmalidir; Önemli olan, bu sonuçlara göre ne kadar icraat yapıldığı/yapacakları, ve ne kadar rota değişikliği olacağı, olmuş olduğu sorusudur.
+
+PISA sinavinin ruhu hakkında biraz daha bilgi vermek gerekirse, amaçlarının matematiğin günlük/teknik hayata uyarlanması, okunanin anlanmasi, modelleme, grafik yorumlama, veri analizi gibi modern ekonomide lazım olacak konular olduğundan bahsetmiştik. PISA'nin yapmadığı, matematik derslerinde çoğunlukla yapılan "f(x)'in turevini al" gibi mekanik, artık bilgisayarların (bile) yaptığı sorulardan kaçmak, bundan ziyade, hiçbir metot ve mantık zinciri "rengini belli etmeden" sadece teknik bir sorunun, bir şekilde, kullanılabilir bir teknik cevabını beklemektir. Bu mentaliteyi mastır öğrencileri için en güzel GRE sınavı test ediyor. Hele hele grafik analiz, korelasyon görme, modelleme gibi konuların üstüne ne kadar bassak az olur. Bu konu (modelleme hariç) daha yüksek seviyede GRE tarafından çok güzel şekilde test edilmektedir.
+
+Mufredat gelistirmesinde, eğer hala yapilmadiysa, OECD ile ortaklık muhakkak faydalı sonuçlar doğuracaktır. Bunu yapan pek çok (hatta gelişmiş) ülke mevcuttur. Herhalde bizde de üniversite sinavlarindaki soru tiplerinin değişmiş olmasının sebebi PISA sonuçları idi, inşallah bunun meyvelerinin 2006 yılındaki sınavda göreceğiz.
+
+Ayrıca, daha ilerisi için, mufredatlarda yetenekli öğrencilere daha fazla seçenekler, "illa analiz (calculus)" yerine daha geniş yelpazede matematik - lineer cebir, olasılık ve istatistik gibi konularının tanitilmasinin gelecek nesil yeni ekonomi çalışanları için faydalı olacağını zannediyoruz.
 
