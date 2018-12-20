@@ -1,19 +1,24 @@
 # Ek Noktalar
 
+* Sn. Mehmet Barlas bir tartisma programinda "laiklik kavraminin, sanayi devriminden gelmedigi" gibi bir intibayi yaratti. Uc Akim teorisine gore, tam tersi gecerlidir. Buna gore ikinci akimda olan endustriyel devrim zaman, mekan, sebep gibi tum sorulara kendine gore bir cevap verip, insanlarin hayatini buna gore duzenlemeye talip oldugu icin, "kilise" ile direk bir catismaya girer. Ve tarihe gore kilise, bu catismayi buyuk olcude kaybetmistir. Demek ki Bati anlaminda laiklik, sanayisel bir kavramdir.
 
+* Ufak yerlesim merkezleri, ve ozellikle koylulerin olusturdugu ufak yerlesim merkezleri yobazlik uretir. Bu insanlarin yasayis sekli donemsel, cok yavas ve insanlararasi alakalari de gereginden fazla oldugu icin hangi din olursa olsun onun yobazlasmis bir versiyonu ortaya cikar. Turkiye'nin kullen bir din problemi yoktur, sehirlinin sevmedigi koylu Islam'idir. Taliban, koylu Islam'idir. Bilgi/servis ekonomisinin gelismesi ve sehirlesmenin artmasi ile bu Islam turu azalacaktir. Sehirler, insanlara bir "anonimlik" zirhi, "kalabalik icinde yanlizlik" secenegi verdigi icin, insanlarin birbirinin isine karisma sansi azalmaktadir bu dolayli yoldan her turlu yobazligin engellenmesine yardim eder.
 
+* Son zamanlarda, laikligin iyice dejenere olmus bir uc noktasi olan "militan ateizm"'in sanayilesmenin en eski oldugu ulke olan Ingiliz vatandaslari tarafindan temsil ediliyor olmasi da katiyen raslanti degildir. Richard Dawkins, Christopher Hitches birer Ingiliz'dir ve gecende bir Amerikan kult dini olan Scientology'yi (kimseye bir zararlari yok, bir alt kulturden ibaretler, Tom Cruise uyelerinden biri) arastirmasi sirasinda rasgeldigi bir uyeye bagirip cagiran bir spikerin BBC'den olmasi, sanayilesmek/dinler arasindaki kavgayi dogrulamaktadir.
 
+Cunku sanayilesmis bir ulkede, fabrika banti hayati kontrol eder. Bant, 9:00'dan 17:00'ye kadar calisacaksa, orada calisan insanin istedigi anda ara verip baska seyler, mesela ibadet ile ugrasmasi mumkun degildir. Bu sebeple sanayi, dinleri dumduz eder. Fakat 3. dalga insanlarin kendi zamanlarini, yerlerini belirlemede daha fazla ozgurluk verecegi icin, kisisel inanclar, yasam bolgeleri geri gelir.
 
-zaman:
+*Sanayi devrimi demokrasi gerektirmez. Toffler'in kitaplarinin Cin de bu kadar tutmasinin sebebi bu gozlemdir, ve simdiye kadar bu destur dogru cikmistir. Gelismekte olan ulkeler arasinda sanayici Cin'in otokrat, bilgisayar programciliginda daha ileri olan Hindistan'in bir demokrat olmasi katiyen bir raslanti degildir. Fakat Cin'de son zamanlarda bazi kipirtilar olmakta - kendi resmi kayitlarina gore ulkede yilda 80,000 (cogu siddet iceren) protesto olmaktadir
 
-Mayıs 17, 2007
+*Amerika'da Kuzey ve Guney arasindaki ic savas, I. akimin parcasi olan Guney ile 2. akimin parcasi olan Kuzey arasinda verilmistir, yani akimlararasi bir savastir. Guney, toprak bazli ekonomiye devam etmek istiyor ve "merkezden bagimsiz" olmak istiyor, fakat Kuzey ise "merkezlestirmek", endustriyi yaymak istiyordu (sanayinin merkeziyetciligi getirdiginden bahsetmistik). Sonucta endustrinin urettigi silahlar sayesinde savasi Kuzey kazandi. Fakat "ayrilma" istegi Guney'de halen yokolmamistir. Bugun bile Teksas'a gitseniz, uzerinde koca harflerle SECEDE (ayrilik) yazilmis yaka rozetleri satin alabilirsiniz. Neyse ki ABD, eyaletlere verdigi genis ozgurlukler sayesinde bu akimlarin atesine benzin atmaktan kurtulmustur.
 
+* Sanayilesme standartlasmayi getirir, bu sebeple bir ikinci akim hareketi olan Fransiz Devrimi'nin ilk yaptigi is metreyi standartlastirmak olmustur. Fakat artik ucuncu akimin yayilmasi ile yerelligin onemi artmaktadir, bu baglamda Ingiltere ve ABD'nin hicbir zaman metrik sistemine gecmeyecegini dusunmek yanlis olmaz. Turkiye Cumhuriyeti'nin de ilk yaptigi islerden biri de metrik sistemi getirmek idi.
 
+* Kuresellesme, bir 3. degil, 2. akim kavramidir. Entegrasyon, senkronizasyon sanayi devriminin ihtiyaci olan olgulardir. Piyasa tum dunyayi entegre eder, ve bir "merkez" olusturulur, ABD FED'i boyle bir "merkez" olmaya aday gibi gozukmekedir. Bu sistemde merkez iyidir, herkes merkez olmak ister. Mesele Londra ile New York bu amacla boyle bir merkez olmak icin kiyasiya carpisabilirler (top, tufekle degil, ama alttan alta baska sekillerde). Fakat bunlar 2. dunyanin parcasidir.
 
+* Uluslararasi dev holdingler yukselisi, ulus devletleri zayiflatip, 3. akimi rahatlatan bir kavram haline donusebilir. Ama kuresellesme, yine de bir sanayi kavramidir. Olmasi gerektigi kadari, zaten olacaktir. Aslinda denebilir ki, belki de yaklasik 300 yillik sanayilesmenin dunyaya tek mirasi, "dunyanin ikmal hattini birlestirmek" olmustur (bunun neredeyse sonuna geliyoruz). 2. akimin diger "bazi miraslari takriben 1 milyar insani ac birakmak, milyonlarca insani emperyalizm ile ezmek, yerel kulturlerini dumduz etmek, ve kendi icinde bile muthis bir vahsete sebep olmaktir. Ileride geri donup baktigimizda, insanlik tarihinde ufacik bir blip olan bu an hakkinda herhalde pek iyi duygular beslemeyecegiz. Bize verdigi avantajlari (omru uzatmak, bazi cetin hastaliklari yenmis olmak, refah seviyesini nispeten arttirmak) alip, yolumuza devam edecegiz.
 
+* Sinirlar ve vizeler, ulus/devlet ve savas merkezli olduklari icin 3. akimda ortadan kalkacaktir.
 
-
-
-
-
+* Avrupa Birligi projesi, bir 2. akim projesidir. Ne var: Birlesme, entegrasyon, standardizasyon (Bruksel'deki ultra burokratlar uzerinden). Esas temeli, Almanya'nin dis politikadaki kuvvetini arttirmaktir. Ic ve dis politika amacli biz de bunu kullanabiliriz, ve zaten kullaniyoruz, fakat AB, endustriyelligini azaltmak yerine, o kavramlara daha siki sarilmak istermis gibi bir durumdadir. Avrupa, bir sanayi toplumudur, fakat bilgi toplumuna geciste buyuk zorluklar yasamaktadir. Bilgi Islemde tanimlanan "Lizbon Hedeflerinin" hepsi iskalanmistir.
 

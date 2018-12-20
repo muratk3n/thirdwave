@@ -1,19 +1,43 @@
 # Yerel, Kuresel Dusunceler
 
+Bir ziraat muhendisi taniyordum. Belki de cumhuriyetin ilk ziraat muhendislerinden biri olan bu zat, tam tekmilli Kemalist bir egitimden gecmis, ve ogrendiklerini daha az sansli "ulus" bireylerine asilamak icin yurda salinmis neferlerden biriydi. Kendisi egitildigi "inkilap" donemin tum ozelliklerini tasiyor, yazimiza onu inceleyerek baslayalim. Kendisine Toffler lensi ile bakacagiz.
 
+Sn. Muhendis, egitildikten sonra koylere salinmis. Oralarda egitmen olmasi icin gorev verilmis, amaci koylulere daha etkili tarim yontemlerini gostermesi. Bunlari anlatirken, yana sikistirdigi yorumlar cok ilginc: "Biz hem bunlari ogretiyorduk, hem de bir yandan esim giyimiyle onlarin hanimlarina ornek oluyordu". Alin bakalim. McDonalds'a atfedilen sozde oldugu gibi: "Yaninda patates te ister misiniz?"
 
+Bu cumle muhakkak III. akimda sacma olarak kulagimiza caliniyor. Fakat, durum aslinda ondan da vahim, cunku cumle aslinda II. akim icin bile sacma bir cumle ne yazik ki... Toffler burada ne derdi? Eger hayat tarzlarinda, egitimde, dunyaya bakista degisim yaratan gucler sirasiyla organize tarim, sanayilesme, bilgi toplumu ise, koylu daha endustrinin parcasi olmamasi sebebiyle hayat tarzinda da degisiklik yapma ihtiyacini tabii ki hissetmeyecektir. Nitekim, hissetmemistir. Onu oraya "egitmesi" icin gonderilmis Kemalist, bu sebeple bosuna kurek cekmektedir.
 
+Zannediyorum anlasilmasi gereken daha buyuk nokta su olacaktir. Evet, Cumhuriyet bir sanayilesme projesiydi, yanliz, tarihin bir cilvesi olarak bu projeyi gudenler bu projenin "sanayi" kisminin esas degisimleri yaratmasi gerektigini gorememislerdir. Disarida gordukleri sanayi'nin, bir yasam tarzinin "sebebi" oldugunu zannetmis olmalari, onlari bu yanlisa iten sebep olmali, yani kurucular her nasilsa sonucu sebeple karistiriverdiler.
 
-zaman:
+Ornegimize donersek, eger ilkokul/lise egitimi fabrika bantina insan yetistiriyorsa, fabrikaya yakin olmasi icin cekirdek aile peydahlaniyorsa, bunlarin hicbirine tabi olmayan koylunun degismesini beklemek beyhude olacakti cunku topyekun degisim, teker teker, "ornek" olunarak, "atom" seviyesinde yapilacak bir is degildir. Buyuk rakamlari yerinden oynatacak tek kuvvet, ekonomik duzendir, hayatta kalma ihtiyaci uzerinde yukselen ekonomik gerekliliklerdir. Buyuk sayida insan gruplarini baska yontemle motive etmek mumkun degildir.
 
-Mayıs 13, 2007
+Turkiye'de III. Akim
 
+Gunumuze yaklasalim: Bilgi/servis ekonomisi Turkiye'ye ne zaman gelmistir? Bu tarihi Ozal iktidarinin baslangici olarak saptamak yanlis olmayacaktir. Eger sanayi devrinin "ana makinasi" buharli motor ise, bilgi devrinin makinasi bilgisayardir, ve bu makinanin ulkede genis capta kullanimi evlere girmesi Ozal donemine rastgelmektedir. Rahmetli Ozal'in bu harika alete olan hayranligi herkes tarafindan bilinen bir gercekti.
 
+III. akim icin bilgisayar niye bu kadar onemlidir? Cunku bilgiyi bir hammedde gibi depolayip, isleyip, aktarma ozelligini tasiyan, ve bunu ardi ardina seri bir sekilde yapan yegane alet (simdilik) bilgisayardir. Veri, ve ondan cikan bilgi, ancak bu seri islenebilirliligi sayesinde III. akimin ana gucu haline gelebilir.
 
+Bu akimda sanayi III. dalganin ileri seviyelerinde bile hala mevcuttur, fakat bilinen anlamda sanayiyle ugrasan fabrikalar, aletler otomize olacaklari icin artik "toplumu tanimlayici" olma ozelliklerini kaybederler. Hatta yakin gelecekte nanoteknolojinin gelismesiyle, bugun aynen yazicidan kagit uzerine yazi basabildiginiz gibi, ileride "3 boyutlu bir yazicidan" esya basmaniz mumkun olacaktir. Bunun cok onemli ekonomik, etik etkilerinin olacagini dusunmek pek hayal olmaz.
 
+Ideoloji
 
+Ozal zamani, oncesi ve sonrasini tartisirken ideolojiden bahsetmiyor olmamiz, dikkat cekici gelmis olabilir. Bunun sebebi, ideolojiden daha onemli olan ustideolojiye (superideology) onem veriyor olmamizdir. Bu bakista sol,sag kavramlari onemsizdir. Sag gorusu ile Amerika ne kadar sanayilesmis ise, sol gorusu ile Sovyet Sosyalist Cumhuriyetler Birligi'da o kadar sanayilesmisti ve toplumu buna gore sekillenmisti. Sovyletlerde piyasa serbest olmayabilirdi, ama bir piyasa vardi cunku piyasa, uretimin tuketimden bosandigi her ortamda olusan bir kavramdir. Sovyetler, Amerika gibi, sanayilesmenin gerektirdigi ic entegrasyon, tek tiplesme, toplu-egitim basamaklarinin hepsinden teker teker gecmistir. Hammadde ihtiyacinin bir uzantisi olan emperyalizm bile Sovyetler tarafindan o isim altinda takip edilmemis olsa bile, efektif olarak baska kiliflar altinda vuku bulmustur - eski komunist ulkeler hammadde acisindan talan edilmistir. Yani bu acidan bakilirsa, ABD ve Sovyetler birbirinin aynisidir. Marx'in sanayi sevgisi bilinen bir tarihi gercektir.
 
+III. Akimin Farki
 
+Bir arastirmaci/programci (researcher/programmer) olarak bilgisayar benim as aletim. Bilgi islem sektorunde uzun yillar calistim, su anda otomasyon, yapay zeka gibi konularla hasir nesirim. Bunlara dayanarak soyleyebilirim ki, bizim grubumuz digerlerinden cok net ayrilan bir "mentalite"'ye sahip. Her gun, bizim diger insanlardan farkli oldugunu hissediyorum. Bunu su sekilde analiz etmeye basladim.
 
+Bilgisayar programlari yazmak, aslinda bir fabrika kurmaya benzer. Maddi hammadde yoktur, hammaddemiz bilgidir. Ve bu bilginin islenmesi, ne hizla islenecegi, nasil islenecegi gibi konular bas ugrasilarimizdir. Fabrika analojisinden tek (ama cok onemli) bir fark ise, bilgi fabrikasini programda yapabilecegim tek bir degisiklik, birkac tus hareketi ile aninda degistirebilecek olmamdir. Bu degisikligi yaparken, baz bir takim sabitler haricinde, beni sinirlayan neredeyse hicbir limit yoktur. Kurallari koyarim, begenmezsem kurallari degistiririm. Bunlari bilgisayari kullanici olarak kullananlar tam anlamayabilir. Siz, kurallara tabisiniz. O kurallari istedigi gibi oturtan biziz.
 
+Bu tur bir "tanrisal" durusun, pek cok yan etkilerinin olmasi kacinilmazdir. Kurallarin degistirilip, isler/islemez sonuclari aninda gordugumuz icin, softa -izm takipciligi bizim grup icin kolay gelmez. Fikirler aninda somutlastirilabildikleri icin, yeni fikirlere olan anlayis artar. Degisim, surekli uygulandigi icin, sabitlik garip gelir, tek tiplilik yokolur.
 
+Yani bizim grubumuzun bireylerine "su, soyle soyle" yapilacak/yapilir demek cok zordur. Biz kurallari koydugumuz icin, baskalarinin sosyal standartlari bizim icin anlamsiz gelmeye baslar. "Optimallik" onemlidir, ama bu optimallik zaman Darwinizim seviyesine gelmez. Isleyen pek cok degisik yol vardir, herhangi birisi olabilir, tabii "cok kotuler" ile "iyiler" arasinda fark bilinir, bunlarin hangi alanlarda oldugu, ne derecelerde oldugu bellidir, ama degisik yollar mumkundur.
+
+Tum bunlarin sonucu olarak, kurallari koymaya alismak, yollari gormek gunluk hayatiniza yansimaya baslar. Eger turbanli bir programciysaniz, bunun program yazmaniza etki etmedigini gordugunuz icin, baskalarinin size kural koymasi garip gelecektir. Bu baglamda millet meclisine giren ilk turbanli vekilin bir bilgisayar muhendisi olmasi katiyen bir raslanti olmamalidir. Bayan Merve Kavakci, III. akim uyesi olarak II. akimin startardlastirma, tek tiplestirmesine karsi bas kaldirmistir (ya da daha cok sacma sapan buldugu icin sallamamistir) ama II. akimi savunan sistem, bu tepkiyi kategori edemedigi icin, anlamayarak, I. akima verecegi tepkiyi vermis bu insani dislamistir.
+
+Turkiye'de henuz anlasilamayan, yeni III. akim teknolojilerinin gitgide bireyi kuvvetlendiriyor olmasidir. Teknolojiler calisma sekillerini, calisma sekilleri ise sosyal yapilari direk etkiler. Alvin Toffler bir ulkeyi ziyaret ettiginde ulke insanlarini anlamak icin hep onlarin nasil calistigini inceledigini anlatir ve yeni akimda calisma yontemlerini direk etki eden konular 1) fiziksel yer 2) (endustriyel usul) lineer zaman 3) ve bu iki ogenin direk etkiledigi senkronizasyon, anlamini kaybetmeye baslamaktadir. Surekli ayakta, surekli bagli olan Internet'te asenkron, ama yine de is bitiren oluslar artik mumkundur, bunlarin sosyal anlamdaki tektonik etkileri daha yakinen incelenmis degildir. Fakat kacinilmaz yon, bu yone dogru bir gidistir. II. akimdan III.'e akima hizli bir gecis olacaktir.
+
+Bu gecisi yapan Turkiyeli hic gormemis olsak, karamsar olabilirdik, fakat en yobaz Kemalist'in bile degistigine sahit olduk.
+
+Ozel lisemize ogretmek olarak gelen bir Turkce ogretmeni bayan (Turkce standartlastirma, tek tiplestirme araci olarak Kemalist'lerin en favori konularindandi, tarihten sonra), o karanlik, asiri sinirli, degistirmeci gorusunun 2 sene icinde yokoldugunu, bu sahsin hayattan zevk almaya basladigini ve bakisini genislettigini gozlemledik. Bu durumu birbirimize "kadin sanki nefes almaya basladi" diye anlatirdik.
+
+Darisi tum Kemalist'lerin basina.
