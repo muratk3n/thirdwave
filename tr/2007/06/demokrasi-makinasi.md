@@ -1,19 +1,63 @@
 # Demokrasi Makinasi
 
+Endustriyel toplumlarda, demokratik olsun olmasin, guc entegrator elitin elindedir.
 
+Bu elitin kendi icinde ise her zaman ust-orta-alt kademelenmesi vardir. Bu "yemlenme sirasi (pecking order)" hep ortaya cikar - toplumda darbeler, devrimler yapabilirsiniz, fakat hemen arkasinda bir oncekine benzer ust-orta-alt elit kademelenmesi kendiliginden olusacaktir. Ayrica bir sanayi toplumunu demokrasiden otokrasiye, sonra tekrar geriye cok rahat bir sekilde gecirebilirsiniz cunku elit her halukarda isleri yurutmeye devam edecektir.
 
+Bir kere kurulduktan sonra entegrator elit genislemek istemez, daha dogrusu, bunu "tercih" etmez. Fakat eger bu yonde cok baski gorurse, genislemeyi sececektir - o zaman yonetime dahil etmek istedigi gruptan belli bir "temsilciyi" icine alarak yemlenme sirasinda bir seviyeye dahil eder. Bati'da bu durum, mesela isci hareketleri sonrasi vuku bulmustur: Ilk basta elit tarafindan cok sert tepki goren, dayak attirilan iscilerin icinden bir "temsilci" (sendika lideri kimliginde) elit tabakasina dahil edilerek "tek bir nokta" uzerinden sistem dahil edilmesi saglanmistir. Boylece isci hareketi elit icinde erimistir.
 
+Girdi
 
-zaman:
+Bu grup, demokrasiyle yonetilen toplumlarda halkin tepkilerini karar mekanizmasina "girdilerden sadece biri" olarak gorur, bu yuzden halkin isteklerinin direk degil, her zaman "filtrelenerek" sisteme dahil edilmesini tercih eder. Zaten oy vermek "surekli" vuku bulan bir olus degildir - ABD basta olmak uzere tum demokratik ulkelerde "demokrasi makinasi" arada sirada acilip ardindan hemen kapatilan bir alet oldugu icin makina kapatildiginda elit diger cikarlari gozetebilecektir. Yanlis anlasilmasin: Demokrasi "her kisiye bir oy" kavrami sayesinde, sayica her zaman daha fazla olan fakir insanlarin sistemden baska hicbir sekilde alamayacaklari yardim, servis ve parayi koparabilmelerini saglamistir - bu acidan demokrasi alternatiflerinden her zaman daha yegdir. Fakat endustriyel ulkelerde tam anlamiyla demokrasiden hicbir zaman bahsedilemeyecektir.
 
-Haziran 27, 2007
+ABD'de, baskanlik secimi bile bir filtrelemeye tabi tutulmustur - iki buyuk parti sistemi tesvik edilerek, "istenmeyen" adaylarin daha halk onune cikmadan parti icinde elenebilmesinin onu acilmistir. Yakin tarihte Demokrat Parti'de ikinci dalganin cikarlarina uymayan Howard Dean hareketi, elit+toptan medya'nin birlesik harekati sayesinde halk onune cikmadan parti icinde bu sayede notralize edilebilmisti.
 
+Fakat bu ikinci dalga yapisinin eksikleri, gittikce karmasiklasan hayatin ihtiyaclarini karsiliyamamasi sebebiyle ABD'de sarsilmaktadir. Toptan medya'nin sagindan solundan cirit atilabilmesini ve fikirlerin iletilmesini hizlandiran Internet sayesinde, zaten gayri merkeziyetciligi genlerinde tasiyan Amerikalilari daha cok katilim istemesini tesvik etmistir. Kendini hic bir partiye baglamayan ve kendini "bagimsiz" olarak goren insanlarin sayisindaki fahis artislarin arkasindaki sebep, bu olgunun gostergesi sayilmalidir.
 
+Cunku yeni dalga, gitgide daha fazla katilim istemektedir. Bu yeni neslin en bariz, en eglenceli, hatta gecimini su anda tamamen eski dalganin islemezliklerini alaya alarak kazanmakta olan komedyen Jon Stewart, (nadir) ciddi ifade ile verdigi roportajlarinin birinde Irak Savasi ve buyuk kararlarda artik yeni neslin "surekli fikrinin sorulmasini" beklentisini yansitmistir. Bu nesil, "halka sorulur, baskan secilir -> baskan kararlar verir -> kararlar basarisiz ise halka tekrar sorulur" gibi bir zinciri anlamsiz, yavas, ve yetersiz buldugunu soylemektedir. Yeni nesil, buyuk kararlarda surekli fikrinin sorulmasinin beklentisindedir.
 
+Turkiye'de Entegrator Elit
 
+Turkiye'deki elit tabakasi da sanayilesme projesinin gerektirdigi sekilde kendini merkezi sekilde orgutlemistir. Bu elit, zamaninda guclu sanayici olmamasi sebebiyle oncelikle burokrat/asker cevresinde temerkuz etmis, daha sonra hiyerarsisine "politikaciyi" eklemis ve en son adimda buyuk isadamlari da "kismen" icine dahil etmistir. Zincirde, tum elit tabakalarinda oldugu gibi, herkesin yeri, yemlenme sirasi ortadadir - bu zincir uzun sure asker+burokrat -> politikaci -> isadami olarak planlamistir. Mesela Suleyman Demirel'in 90'lardaki basbakanligi sirasinda kendisine muhalif gorus beyan eden TUSIAD hakkinda "vakitsiz oten horozu keserler" seklindeki bir tepkisini bu zincirdeki net siralamaya verebiliriz.
 
+O zaman, tum bunlari goz onune alarak Cumhurbaskanligi secimi sirasinda vuku bulan gerilimleri soyle analiz etmemiz mumkun olacaktir. Su anda Turkiye'de entegrator elit uzerinde 3 cesit baski mevcuttur.
 
+1) Genisleme Baskisi: Ikinci dalganin kendi (geri ama normal) ic gelisimine uygun olarak, sistemde yeni bir aktor belirmistir. "Anadolu sermayesi" olarak betimlenen bu grup, mutevazi gecmise sahip, oldukca aktif girisimci yapisiyla basari kazanmis ve artik karar mekanizmasina dahil olmak istegindedir. Bu insanlar, ayrica geldikleri Anadolu arka planlari sebebiyle daha muhafazakar yapidadirlar.
 
+2) Ucuncu Dalga Baskisi: Yeni bilgi teknolojilerin tetikledigi "bilgilenebilme", insanlari daha "haberdar" yapmis ve eski "merkezi" "toptan medya" kanallari haricinde bilgi alabilmelerini saglamistir. Bu durum, "bilgi tekelini" elinde tutan entegrator elitin kacinilmaz olarak iktidarini torpulemektedir.
 
+3) Yabanci Entegrator Elit Baskisi: Sanayilesmis ulkelerin, icte standartlastirip, merkezilestirip, tek-tiplestirdikten sonra kacinilmaz olarak disariya uzanacaklarini biliyoruz. Bu durum, Rusya, AB ve ABD entegrator elitlerinin hepsinin bir sekilde "entegre etmek" istedigi Turkiye icin de muhakkak gecerlidir. Tabii Turkiye burada pasif/gariban bir ulke olarak sayilmamalidir cunku yerel elitin de muhakkak kendi capinda "entegre etmek" cabalari ve yonu vardi.
 
+Bu olusumlarin hicbiri, dogal olmayan ve korkulacak olusumlar degillerdir, risk seviyeleri idare edilir boyutta bile olabilirler. Ama Turkiye'de gerilimi katlayarak arttiran faktor 1) tum baskilarin ayni anda olmasi 2) entegrator elitin pergelini sasirip degirmenler ile savasmayi secmis olmasidir.
 
+1. baskida belirtilen baskiya karsi verilmesi gayet normal tepkiler, ulkemizde de endustrinin dinler ile (tabii ki) kavgaya girmesi, ama bu topraklara ozel olarak yerel sanayimizin Islam gibi yasami daha cok kontrol eden bir dini ezemeyecek olmasi sebebiyle, istedigini bulamamis/endiseli (frustrated) hissiyat uzerinden sadece koylu Islam'ina verilecek bir karalama kampanyasini baslatma sonucunu vermistir. Bu yonlendirme, art niyetli bir dezenformasyon kampanyasi bile olmayabilir. Hissedilen gercek bir korku ve o korkunun Jung'un "golge" olarak belirttigi ic mekanizma uzerinden "sinire" donusmesi durumudur.
+
+2. baski, Amerika'daki elitlerin de hissettigi ve bilgi/servis ekonomisinin kacinilmaz bir sonucu olarak temerkuz etmektedir. Buradaki endise, birakin elitin yonetimi yeni "bir" aktorle paylasmasini, iktidarin "tum halkla" paylasilmasini gerektirdigi icin, entegrator eliti gerecektir.
+
+3. baski, Turkiye'nin cogragi konum itibariyle uzerinde olan her yondeki entegre isteklerinden, ve bunlarin bazen cekisen yonlerinden ortaya cikmaktadir. Bu durum, yerimizi degistirmek soz konusu olmadigi icin ortadan kaybolmayacak sabitlerden biridir.
+
+Elitimizin kendi disa donuk entegrasyonu ise cografik talihsizliklere kurban olmustur. Sanayinin Ortagodu'da ve bizde yeterince yesermemis olmasi sebebiyle bizim ikinci akimin entegrasyon isteklerinin bir bacaginin hem topal kalmistir. 1. ve 2. Sah zamanlarinda Iran yonunde denenen cabalar, Batili ulkelerin fosil yakit odakli bolgeye surekli mudaheleleri sebebiyle bu ulkeler ile sanayici usulu bir entegrasyonu imkansiz kilmistir. Bu yuzden "uzanamayan" entegrator elitimiz, iceride sikismis, ve ustune birkac yonden gelen entegrasyon isteklerinin arasinda bocalamaktadir. Kendi tek-tiplesme, uluslasma amacina uygun olan tek acilimi "Hazar denizinden Cin Seddine Turk dunyasi" gibi hamasi bir cikisla bir sure denemis olsa da, bu asiri sesli soylem bolgedeki tum ciddi aktorleri gereksiz sekilde korkutmus, onlari defansif olmaya itmis, ve soylemin buyuk iddasinin imkansizligi ile ici bos kalmistir.
+
+Ayrica bu istekler tek basina idare edilecek boyutlarda olmasina ragmen, negatif etkileri arttiran durum hepsinin ayni anda vuku bulmasidir. Ustune ustluk sanayilesmenin ulkemizdeki tarihinin kisa tarihi sebebiyle entegrator elit tabakasi koflanmaya basladigi ulkelerdeki boyutlara ve "dogru" hiyerarsik bile yapiya erismis degildir (mesela isadami->burokrat+politikaci->asker). Kuzey Irak operasyonunun asker tarafindan istenmesi ama TUSIAD tarafindan geri cevirilmesi bu kopuklugun (ya da duzelmeye baslamanin) bir isaretidir - Huntington'un Turkiye'ye bakarak "bolunmus ulke" sozunu soylemesinin bir sebebi olmalidir: Huntington icinden geldigi sanayici cenahin tipik ozelligi olarak bir ulkede hemen entegrator elite bakmakta, ama bu eliti bolunmus gordugu icin ulkeyi de "bolunmus" olarak yargilamaktadir [1].
+
+AK Parti
+
+Peki AKP hukumeti bu baskilarin hangisini temsil etmektedir? Cevap: Hepsini.
+
+Entegrator elit ile kendi sorunlarini yasamis olan AKP, bundan daha da onemlisi halkin buyuk cogunluguna dayanan bir hareketi temsil etmesi sebebiyle dahil olma ihtiyaci ile yukaridaki baskilarin hepsinde bir taraftir. Fakat bunun kolay izlenebilecek bir secim oldugunun zannedilmemelidir: Bu baskilarin kendi ic catismasi olmasi gayet mumkundur - AKP, o noktada, bu baskilarin arasinda bir duzenleyici/secici (arbitrar) islevini yurutmeyi secmistir. Mesela AB ve ABD entegrator elitin cikarlari catistiginda (ornek, tezkere) taraflardan birinin secilmis ve halka iliskilerde oteki tarafa sicak mesajlar verilmeye ugrasilmistir - tezkerede AB'nin (ve ayrica ulkenin) cikarlarina oncelik verilmistir. Burada Tayyip Erdogan'in "tezkerenin cikmasini istiyordum" mesaji bu dengeleme gayretinin gostergesi sayilmalidir - eger hukumetin tercihleri aksi yonde olsa tezkerenin cikacagindan suphe yoktur.
+
+AKP, Islami gecmisinin sanayi ile surtusmesi ve uluscu merkeziyetciligin ulkenin butunlesmesini tehdit ettigi gozleminden hareketle ucuncu dalga yonunde atilimlar da yapmistir. Turkiyeli soylemi, Cumhuriyet tarihinin en liberal kadin haklari yasasi, Internet baglantilarina getirdigi ucuzluklar, kolayliklar, okullara bilgisayar alimi gibi atilimlar bu merkezden gelen icraatlarin sonucudur.
+
+Elit
+
+Entegrator elit, mevcut tum baskilarin sonucu olarak hakli olarak gucunun bir kismini kaybedecegini gormektedir. Bu, daha palazlanamadan yarida kesilmis bir elit yapilanmasi olacaktir fakat bilgi cagina adapte olmasi gereken, bolgesi ile sifir sorun yasamak isteyen bir Turkiye'nin onunde baska bir secenek gozukmemektedir. Bu hedef baglaminda ulkemizin su anki Cumhurbaskaninin sergiledigi disislerinin mutfakta pisirdigi bir strateji cercevesinde bile bir komsu ulke lideri ile gorusmeme gibi hariciyesel hatalari yapmak luksu yoktur. Bu sekilde davranislarda bulunacak ikinci bir Cumhurbaskaninin gelmemesi bolge cikarlarimiz acisindan onemli olacaktir.
+
+Elitin onunde onemli bir secim vardir, ya genisleyecek ya da ulkenin gelismesini baltalayacaktir. Ne yazik ki bu secimi rasyonel bir sekilde yapacagi halen belli degildir - baskilarin ezici psikolojik etkisi ile bu grup, listelenen kalemler arasinda paranoyak baglantilar kurmaktadir: Mesela 1. ile 3. baski arasinda bir baglanti hayal ederek, tezkerenin gecmemesi icin aktif olarak ugrasmis olan Abdullah Gul hakkinda ABDullah Gul yakistirmasi yapmak, ya da 2. ve 3. baski arasinda bir baglanti ile ucuncu dalganin parcasi olan tek-tiplesmenin bozulmasini yabanci entegratorun "ulkeyi ele gecirdigi" gibi bir gozlemi tetiklemesi sayilabilir. Sanki entegrator elit, korku icinde yagan yagmur ve yuruyen bir tavuk gormekte, ve "tavuk yurudugu icin yagmur yagiyor" sonucuna varmaktadir. Bu ciddi bir zihin bulanmasinin isaretidir.
+
+Ozet
+
+Sanayinin gerektirdigi muthis ic entegrasyon (cunku piyasalar birlestigi, standartlastigi surece etkilidir), ulus-devleti ve entegrator elit tabakasini dogurur. Turkiye'de sanayi oncesi yarim olusmus bu grup su anda genisleme, dis elit ve bilgi caginda marjinalize olma baskisi altindadir. AKP, cagin gerektirdigi tum ruzgarlari Turkiye'ye yoneltmistir ve bunlarin arasinda bir dengeleyici rolunu surdurmektedir. Ucunucu dalganin etkisi AKP'nin kendi yetkilerini azaltacak olmasindan kendileri endiseli gozukmemektedirler - burada zannediyoruz Cin yonetimi ile ayni hissiyati paylasiyorlar. Toffler Cin'i en son ziyaretinde ona "x sayida insan birinci, y kadar insan ikinci, z kadar insan ucuncu dalgada yasiyor" diye ona rapor veren Cin yonetimi aslinda baska bir kararini daha belli etmistir: Bilgi/servis ekonomisi ve onun yonetimsel gereklilikleri sonuna kadar yerine getirilecektir, bu kendi yetkilerinin kacinilmaz sekilde azalmasi demek olsa bile.
+
+Umudumuz ulkenin daha katilimci, ucuncu dalgaya yakisan bir sisteme kavusmasidir.
+
+[1] Huntington bu gozlemleri yaparken kendi ulkesinde halk bazindaki bolunmeyi goz ardi etmektedir ve esas bolunme budur. Cunku ABD'de akimlararasi cekisme daha ileridedir fakat Huntington anahtar sadece "gozunun gordugu yerde" aramaktadir.
