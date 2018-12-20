@@ -30,6 +30,8 @@ başlar.
 
 [Roma](/2018/10/roma.md)
 
+[Askerlik](/2007/08/askerlik.md)
+
 ## Gez
 
 [Seneye Gore](years.md)
