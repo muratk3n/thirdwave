@@ -1,19 +1,5 @@
 # Hiciv Gazetesi Yeni Baski
 
-
-
-
-
-zaman:
-
-Ocak 18, 2008
-
-
-
-
-
-
-
-
+http://www.geocities.com/davut61/gazete-1.5.zip
 
 

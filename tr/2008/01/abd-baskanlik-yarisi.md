@@ -1,19 +1,15 @@
 # ABD Baskanlik Yarisi
 
+ABD'de kuzey/guney savasinin tortulari halen kendini baskanlik yarislarinda belli eder. Kaybeden guney, kuyruk acisi sebebiyle savasin ardindan gelen secimlerde habire "guneyli, emekli general"' bir karakteri baskan olarak secmistir. Tum guney eyaletleri sanki koordine edilmis gibi ayni guneyliye oy vermis, kuzeylilerin secimi boylece etkili olmamistir.
 
+Bu sebeple "guney" stratejisi her baskan adayi icin cok onemlidir. Ayrica dini hassasiyetlerin geri gelmesi ve bu hassasiyetlerin en cok guney eyaletlerinde var olmasi, her adaya bu stratejiyi iyi planlamalari icin bir insiyatif sunmaktadir. Mesela George W Bush'un son iki secimdeki plani tamamen guney uzerineydi. W, kendini has guneyli olarak satti (ki babasina kiyasla oyledir), kovboy cizmeleri ile gezdi, en favori filminiz nedir deyince "Forest Gump" cevabini verdi, ki bu filmde cok akilli olmayan bir guneyli "dogru" seyleri yaparak, ve iyi odaklanarak (bunu hakikaten iyi yapiyordu) ve sansinin ek kuvvetiyel inanilmaz isler basariyordu. Tam guneylilerin tutacagi turden bir filmdi. Rakibi Al Gore ise favori film sorusuna cevap olarak "John Malkovich Olmak" cevabini vermisti - ucuk ama seyredilir bir filmdir fakat bu cevap secmene Gore'un ucuk ve absurd bir adam oldugu mesajini vermistir.
 
+Diger stratejiler arasinda W kampanyasindan basina sizdirilan "kuzeyli bir zuppenin W'ya soyledikleri" gibi hikayeler vardir, bu hikayeye gore zuppelerden biri genc W'ya babasinin kaybettigi secimde "daha iyi olan erkek kazandi" demis olmasidir. W kizmistir. Baska bir hikayede, bazen W takiminin kuzeyli olarak betimledigi baba Bush ile teenage bir W'nun kavga edecek duruma gelmesi anlatilir - W babasina "mano a mano yapmak ister misin" der. Texas usulu. Butun bunlar guneyli imaji suslemek icin yapilmistir.
 
+Ek olarak, Cumhuriyetciler tarihi olarak guneyde guclu, Demokratlar tarihi olarak kuzeyde (ozellikle buyuk sehirler ve eyaletlerde -New York, Chicago gibi-) gucludur. California valisi Reagan, Cumhuriyetci oldugu icin guney eyaletlerinden oy alabilir, guneyli eski vali Bill Clinton kuzeyden kabul gorebilir.
 
-zaman:
+Demek ki, Demokratlar icin baskanlik yarisinda sansli kisinin guneyde mevcudiyet gosterebilen bir kisi olmasi gerekir - bu kisi guneyde olmasada guney kafasinda olan Iowa onsecimini kazanmis Obama'dir. Cumhuriyetciler icin ise kuzey onseciminde varlik gosterebilmis (New Hampshire) Mc Cain ismi one cikmaktadir.
 
-Ocak 13, 2008
+Bu modele gore final secimin Obama / Mc Cain arasinda sekillenecegi soylenebilir. Tabi cok erken, Clinton ciftinin eli bos durmuyor, Demokrat orgutu ile iyi ve eski iliskileri var.
 
-
-
-
-
-
-
-
-
-
+Entegrator elit ne ister? Hillary Clinton'a gecis vizesi verdiler - kocasi zamaninda onlara bol kemik atmisti, Obama ile daha az anlasabileceklerdir. Obama fazla "halka yakin (grassroots)" bir kampanya yurutuyor. Kampanyanin ilerleyen aylarinda aynen Howard Dean'i kitlesel medya kanallari ile alasagi ettikleri gibi Obama'yi da alasagi edebilirler. Fakat entegrator elitin gucu azalmaya basladi, Dean, bu arada Demokrat Parti yoneticisi oldu ve boyle katakkullilere izin vermeyebilir.
