@@ -1,19 +1,21 @@
 # Avrupa / Amerika
 
+Cogu Avrupalinin duygusal ilkesi bir insanin devlete ait, dogal, metafizik olarak belirlenen kaderine uygun olarak kullanilan bir mulkiyet oldugu hissidir. Tipik bir Avrupali belli bir devleti onaylamayabilir; ve tipki daha iyi hizmet edecek, daha iyi bir sahip arayan kole gibi, daha iyi oldugunu dusundugu bir devleti hedefleyerek isyan edebilir; fakat yuce olanin kendisi, hizmetci olanin devlet oldugu fikri onun bilincinde hicbir duygusal gerceklige sahip degildir. O devlete hizmeti, nihai bir ahlaki yaptirim, bir onur olarak gorur ve eger siz ona hayatinin kendi basina bir amac oldugunu soylerseniz, o kendine hakaret edilmis, dislanmis ve kafasi karismis hissedecektir. Devletci felsefe ile yetistirilmis ve buna gore hareket etmis olan nesiller, bu fikri akillarina cocuklugun en erken olusum yillarinda yerlestirmislerdir.
 
+Tipik bir Amerikali boyle bir fikri tam olarak asla anlayamaz, bu insan bagimsiz bir kimliktir. "Itilip kakilma"ya karsi protesto etmek, itilip kakilmanin kendi dogal durumlari oldugunu inanan Avrupalilar icin duygusal olarak anlasilamaz bir seydir. En temel seviyede Amerikali hic kimse icin hicbir hizmet (veya kulluk) kavramina sahip degildir. Orduya kaydolursa ve bunu "ulkesine hizmet" olarak adlandirsa da, o tehlikeli bir isi yapmayi tercih eden maceraci bir aristokratin hislerini tasir. Avrupali bir asker ise sadece gorevini yaptigini hisseder.
 
+"Benim param su adaminki kadar iyi degil mi?" yaygin bir Amerikan ifadesidir. Bu Avrupa'da yaygin olamaz: Iyi olmasi icin bir servetin eski olmasi ve devletten gelen ozel bir lutuftan kaynaklanmis olmasi gerekir; bir Avrupali icin kisisel caba ile kazanilan para adi, kaba veya bir sekilde saygideger olmayan anlamindadir.
 
+Amerikalilar basariya hayrandirlar, onun neye mal oldugunu bilirler. Avrupalilar basariya kotu niyetli bir suphe ve kiskanclik ile yaklasirlar. Kiskanclik, burada yaygin bir duygu degildir (simdilik); ancak o, Avrupada asiri olcude egemen bir duygudur.
 
-zaman:
+Hangi seviyede olursa olsun bir Avrupali, baskalarinca yapilmis bir dunyada duygusal olarak yasamakadir (kimin tarafindan yapilmis oldugunu asla acik olarak bilmez) ve bu dunya icinde yerini arar ve kabul eder. ABD tutumu en iyi sekilde bir siir ile anlatilir: "Dunya ben dogdugumda basladi, ve benim kazanmam icindir".
 
-Şubat 29, 2008
+Amerika'nin en iyi beyinleri bilime, teknolojiye ve sanayiye gittiler ve pek cok basari seviyeleri yakaladilar. Peki onlar niye Avrupai anlamda "fikir", "entellektuel" alani ihmal ettiler? Cunku bu alanlar buradaki insanlara hicbir istekli aktif insanin girmeye tenezzul etmeyecegi, bir tur temizlenmesi gereken ahır gibi bir yeri ifade ediyordu. Zamanlama acisindan Amerika'nin cocukluk evresi, Kant'in Avrupa felsefesindeki etkisinin yukselisi ve sonucta Avrupa kulturunun cokusu ile eszamanli olmustur [2]. Bu sebeple zaten ortada imrenilecek pek bir sey kalmamisti.
 
+Bir diger fark ta var: Sartre bu ulkeyi ziyaret ederken, bir Amerikali ile yaptigi bir diyalogu anlatir. Karsisindaki kisi, tum uluslararasi problemlerin eger insanlar rasyonel olarak tartisip anlasirlarsa cozulebileceginde israr etmektedir. Sartre ayni fikirde degildir, ve bir muddet sonra aralarindaki tartisma imkansiz hale gelmistir. Sartre "ben kotulugun varligina inaniyordum, fakat o inanmiyordu" demekteydi. Bu aciklama aslinda durumun daha kibar bir aciklamasidir - cunku Avrupalinin inandigi kotulugun sadece varligi degil, ayni zamanda onun gucudur. Amerikalilar kotulugun gucune inanmazlar ve onun tabiatini anlamazlar. Bu tutumun ilk kismi (felsefi acidan) dogrudur, fakat ikincisi onlari bazen savunmaz hale getirebilir. Eger onlar, kotulugun yetersizliginin sebebini, yani onun akilsiz, korku dolu, kiskanclikla kemirilen kucuklugunu anladiklari gun, yerli ve yabanci tarihteki tum insan dusmani dalaverecilerin etkisinden kurtulacaklardir.
 
+---
 
+[1] Ayn Rand, Philosophy: Who Needs It
 
-
-
-
-
-
-
+[2] Yazar, Kant felsefesinin mistisizmi, ortacagda yenildikten sonra, Avrupa kulturune tekrar arka kapidan soktugunu soylemektedir. Ona gore son yuzyillarda ortaya cikan akilci karsiti her turlu felsefesenin (bilinemezlik hakkinda laf geveleyip duran herhangi bir felsefe) ustunu biraz kazirsaniz, alttan Kant felsefesi cikacaktir.
