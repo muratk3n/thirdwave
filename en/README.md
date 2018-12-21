@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+21/12 - [Slack](/2018/12/slack.md)
+
 18/12 - [Lincoln Was Bi](/2018/12/linc-bi.md)
 
 16/12 - [BDS](/2018/12/bds.md)
