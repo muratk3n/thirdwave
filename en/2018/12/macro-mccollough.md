@@ -86,6 +86,14 @@ Links
 
 [https://www.youtube.com/watch?v=27SQ5mYf38k](https://www.youtube.com/watch?v=27SQ5mYf38k)
 
+Volatility
+
+[youtube.com/watch?v=FwpckOfUyRk](youtube.com/watch?v=FwpckOfUyRk)
+
+[youtube.com/watch?v=-WJtepxbQbE](youtube.com/watch?v=-WJtepxbQbE)
+
+[youtube.com/watch?v=USrojq9tgzs](youtube.com/watch?v=USrojq9tgzs)
+
 Notes:
 
 When irates go up and u r in Quad2, bonds go down. When irates go down
