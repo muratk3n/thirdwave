@@ -94,10 +94,6 @@ Volatility
 
 [youtube.com/watch?v=USrojq9tgzs](youtube.com/watch?v=USrojq9tgzs)
 
-Notes:
-
-When irates go up and u r in Quad2, bonds go down. When irates go down
-and u r in Quad4 bonds go up. 
 
 
 
