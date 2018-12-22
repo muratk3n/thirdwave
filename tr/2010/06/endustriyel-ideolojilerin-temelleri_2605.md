@@ -12,7 +12,7 @@
 
 [Konstrasyon](endustriyel-ideolojilerin-temelleri.md)
 
-
+[Endustriyel Adam](../../2008/03/endustriyel-adam.md)
 
 
 
