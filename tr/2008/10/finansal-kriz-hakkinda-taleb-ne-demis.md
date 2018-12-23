@@ -1,19 +1,23 @@
 # Taleb'in Mali Kriz Tahmini
 
+Aciklama: Siyah Kugu terimi, Nassim Nicholas Taleb'in bilinmeyen bilinmezleri tarif etmek icin kullandigi bir metafordur. Alttaki satirlar Taleb'in 2007 yilinda yayinladigi ayni adli kitabindan tercume edilmistir. Bu satirlarda yazarin icinde oldugumuz mali krizi dogru sekilde tahmin ettigini goruyoruz.
 
+Evet, [uzun vadede] gittigimiz yeni duzen karisikliga dogru bir gidistir ama bu iyi turden bir karisiklik olacaktir. Bu duzunde sakin ve kipirtisiz periyotlar olacak ve bunlari ufak sayida, konsantre olmus Siyah Kugular takip edecektir.
 
+Eski savaslarin tabiatini hatirlayalim; 20. yuzyil (yuzde bazinda) en oldurucu yuzyil degildi belki, fakat bu yuzyil yeni bir sey ortaya cikardi: Uc nokta (extremistan) savaslarin baslangici. Bu savaslarda, olasiligi dusuk bir catisma tum insan irkini yoketme kapasitesine sahip daha buyuk bir savasa donusebiliyordu, ve dunyanin hicbir yeri boyle bir catismada guvenli degildi.
 
+Gunumuzde benzer bir etki ekonomik hayatta goruluyor. Evet kuresellesme burada/kapimizda, fakat kuresellesme tamamen iyi bir kavram olarak betimlenemez. Kuresellesme ulkelerin birbiriyle asiri fazla bagliligindan ileri gelen yeni bir tur "kirilganlik" ortaya cikartmistir. Evet, bir yandan dalgalanmalari (volatility) azaltmistir fakat bu sahte bir stabilite goruntusu verebilmektedir [1]. Diger bir anlatimla, bu tur yapilar mahvedici Siyah Kugular yaratirlar. Insanlik simdiye kadar hic kuresel bir cokus tehdidi altinda yasamamisti. Finans kurumlarinin surekli birleserek az sayida ama cok buyuk bankalara donustugunu goruyoruz. Artik bankalarin neredeyse tamami muthis derecede birbiriyle bagli. Bana gore, finans ekosistemi icten ice kanayip sisen bir yara gibi devasa, burokratik bankalara donusuyor ve bu olusumlarin hepsinin risk olcum yontemi Gaussian (normal) dagilimi kullaniyor [2]. Riski iyi hesaplayamayan bu kurumlardan biri duserse, hepsi dusecektir.
 
-zaman:
+Evet, finansta "konsentrasyonun" artmasi bir krizin "olasiligini" azaltmis olabilir, ama ayni konsentrasyon, bir krizin cikma durumunda, o krizin hem kuresel olmasini ve tahrip gucunun cogalmasina sebep olacaktir. Cok cesitlilik gosteren, hepsinin kendine gore degisik kredi politikasi olan ufak bankalardan olusan bir ekolojiden, homojen bir altyapida hepsi birbirine benzeyen finans kurumlarina gectik. Dedigim gibi, bu durum krizleri azaltti ama o kriz bir olursa ... bunu dusunmek bana korku veriyor.
 
-Ekim 31, 2008
+Boyle bir krizin nasil cikabilecegini de biliyoruz. [Finansal yapinin bir ag (network) mimarisine benzemesinden hareketle] network'lerin az sayida cok bagli, ve cok sayida az bagli olan nod'lar iceren bir yapida organize olmaya meyilleri vardir. Bu sekilde bir yapi sadece Internet'e has degil, insan iliskileri de benzer kaliplari takip ediyor. Bu tur baglantilar bir network'u saldiriya daha dayanikli hale getiriyor - network'e rasgele sekilde yapilan saldirilarin cogu az derecede bagli olan nod'lardan birini bulacaktir, ve network'un tamamina zarar vermeyecektir. Ama bu tur yapilar, network'un Siyah Kugu'ya acik olmasi sonucunu getiriyor. Cok bagli bir nod'da problem cikinca ne olacagini bir dusunun. ABD'nin kuzeydogusunda 2003 yilinda meydana gelen buyuk elektrik kesintisini, ve arkasindan cikan karmasayi hatirlayin. Bu kesinti, eger buyuk bankalarimizdan biri cokse olacaklarin bir resmidir.
 
+Ve emin olun ki, bankalarin durumu Internet ile karsilastirilamayacak kadar kotudur. Finansal endustride "az bagli cok sayida" nodlarin sayisi iyice azalmistir! Degisik bir ekolojide, yani ufak kuruluslarin arada sirada cokup, yerine yenilerin geldigi bir ekolojide yasiyor olsaydik bu cok daha iyi olurdu, bu Internet'in kendisine ve ekonomisine daha benzer dayanikli bir yapi olurdu. Ne yazik ki boyle bir yapida yasamiyoruz.
 
+Tum bunlar yetmezmis gibi, bankalarimiz Siyah Kugu'lara artik eskisinden oldugundan cok daha aciklar. Mesela su koca sirket J.P.Morgan'in yaptigina bakin, 90'li yillarda RiskMetrics adli sacma sapan bir metot kullanan bir programi risk yonetmek icin hizmete koydu. Bu sirket, bu hareketiyle tum dunyayi riske sokmustur (diger sacma sapan ve baglantili bir metot "value-at-risk" metotudur, bu da yangin gibi hizla kurumlarimizda yayilmaktadir). Ayni sekilde devletin sponsor ettigi bir kurulus olan Fanny Mae'nin riskine ben baktigim zaman, bu kurumun bir dinamit ficisi uzerinde durdugunu gormustum, en ufak bir hickiriga kurban gidebilecekleri apacik ortada. Oh, ama hic supheniz olmasin, bir oda dolusu bilim adami onlara bu tur hickiriklarin "olasiliginin dusuk" oldugunu muhakkak pek cok kez soylemistir.
 
+---
 
+[1] Yazar kitabin diger kisimlarinda en korktugu yatirimlari "guvenli" olarak bilinen, cok uzun sure bu sekilde stabil giden, fakat bu sahte guvenilirlik altinda beklenmez durum ve krizlere karsi cok acik olan yatirimlarin oldugunu belirtmistir.
 
-
-
-
-
-
+[2] Taleb'e gore uc nokta olaylari modellemek icin Gaussian, yani "normal" dagilim (adi ustunde!) son derece uygunsuz bir matematiksel yontemdir. Ama kitabi boyunca yerden yere vurdugu finans analizcileri surekli bu tur metotlari kullanmaktadirlar.
