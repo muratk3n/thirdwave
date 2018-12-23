@@ -1,19 +1,9 @@
 # Ugur Mumcu
 
 
+Bir zamanlar bu konulardan bahsetmek tehlikeliymis demek
+ki... Komplo teorisi yapmak gibi olmasin.
 
-
-
-zaman:
-
-Mayıs 20, 2008
-
-
-
-
-
-
-
-
+https://youtu.be/HbEYGTXlPMA
 
 

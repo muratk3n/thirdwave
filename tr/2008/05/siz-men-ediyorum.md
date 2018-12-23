@@ -1,19 +1,4 @@
 # Sizi men ediyorum!
 
-
-
-
-
-zaman:
-
-Mayıs 14, 2008
-
-
-
-
-
-
-
-
-
+[Emre Kongar ve Cengiz Candar arasinda gecen tartisma]
 
