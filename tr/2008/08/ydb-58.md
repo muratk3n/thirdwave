@@ -1,16 +1,123 @@
 # YDB - 5/8
-Cengiz CandarIrak’ta niçin savaş oldu? Kestirme cevapların hiçbiri  geçerli değil. Kestirme cevapların başında “petrol” geliyor. “Amerikan  emperyalizmi, Irak petrollerini konmak istedi”. Amerika, gelişmiş ülkeler  arasında Ortadoğu petrollerine en az bağımlı ülke. Kendisi petrol üreticisi  olmaktan gayrı, ithal ettiği petrolde Körfez pek az yer tutuyor. 2 trilyon  dolara kadar tırmanacak yıkıcı bir bilanço ve bunun ortaya çıkartacağı fatura  göz önüne alınırsa, bu iddia havada kalıyor. Irak’ın eski petrol bakanı ve  şu ara Başbakan Maliki’nin “Danışmanlar Kurulu”nun başında olan Tamir  Gadban, bir süre önce İstanbul’daydı. Tamir Gadban, siyasi kimliği pek  olmayan bir teknokrat, zaten Saddam döneminde de görevde imiş ve “Petrol  İşleri Genel Müdürü” sıfatını taşıyormuş. Kendisine, “Savaş gerekçesi  olarak petrolün payı”nı sormuştum. “Varsa bile, pek aşağı sıradadır”  karşılığını verdi.Kuyruklu yalanSn. Candar kizmasin ama, Amerika konusuna gelince biraz eski solculuktan kalma "saftirik " hallere donuyor galiba - bir de,  ideolojik olarak uzun zaman yanlis tarafta kalanlar "karsi taraftan" yedigi dayak sonrasi bu sefer "kullen oteki tarafa biat" halinde acaip bir ruh haline dusebiliyorlar.  Stockholm Sendromunun degisik bir hali bu.. Sn. Candar'in fazla defosu yok, bu geride kalan en buyuk defolarindan sayilabilir.Eveet, simdi tokatlamaya baslayalim: Amerika'nin Irak'a girmesinin en onemli sebebi petroldur. En son olarak Greenspan'in agzindan dokulen bu itiraf ve bunun arkasindaki gerekcelendirmeleri, surada [1,2,3,4,5] yeterince isledik.ABD kendi uretiminde "tepe noktasini (peak oil)" 70'li yillarda yasamistir ve ondan sonra petrol ithalati artarak kendi uretimini gecmistir. 2000 itibariyle ABD petrolunun %55 disaridan gelmekteydi ve Irak + Suudi petrolu bu ithalatta en buyuk kalemdir. Irak seceneginden daha fazla faydalanilmasi "petrolun bitmez tukenmez oldugu" gibi bir "ilk yalan" uzerinde anlamsiz gelebilir, ama "kaynagin azalmaya basladigi ve bunun bilindigi" gerceginden baslayarak dusunurseniz, o zaman daha hala cikarilmamis cok fazla petrolu olan Irak'in "kapilmasinin" niye onemli oldugunu anlayabilirsiniz. Dunya petrol uretiminin azalacagini Dick Cheney kendisi de itiraf etmistir.  Irak Savasi'ndan once. Ingiltere icin benzer bir durum gecerli; Kuzey Denizi petrol uretimi 90'li yillarda tepe yapmistir ve Tony Blair basbakanliginin ilk buyuk krizini petrol sebebinden yasamistir! Ufak bir grevin tetikledigi krizin en kotu gunlerinin birinde "Erime Noktasina 7 Gun Kala" gibi basliklar atan Ingiliz gazetelerine bir bakmanizi oneririm, ve boyle bir tecrubenin yeni bir basbakan uzerinde ne bicim bir etki birakacagini soyle bir dusunmenizi salik veririm. Bu sebepledir ki, II. George "Irak'a yine girecegim" deyince,  Blair yaninda hazirola gecivermistir. Bunun ustune, BP'nin Rusya'da kazik yeme ihtimaline ragmen nasil petrol uretim hakki icin ortama baliklama daldigini da bir bakiverin. Lord Browne'i oralarda nasil babalara getirdiler, bir anlayin.Genel bir tavsiye:Dunya olaylarina (ve hayatin her alaninda) bakista, hicbir kor nokta birakmamak gerekir.Zihni durusunuz;1- Onkabulsuz baslayacagim2- Temel bazi zihni dusturlari  ve mantigi veriye uygulayarak beni ulastiracagi yere bakacagimolmalidir. Eger (mesela) ABD'yi ilgilendiren konularda,1- ABD'yi her zaman hakli cikaracagim2- Emin olmadigim zaman 1. kurala basvuracagimderseniz, ustte yaptiginiz gibi cuvallarsiniz. Hobi blogcularindan dayak yersiniz, komik duruma dusersiniz.Mantik ve verinin sizi ulastiracagi yer hic hosunuza gitmeyebilir (benim gitmedi) ama GERCEKLERI ortaya koymak gerekir. ABD ile ilgili her sey "ya hep ya hic" kistasiyla olculemez (diger pek cok irdelemede oldugu gibi). Ekonomisi gayet dinamik, bilgi toplumu olmakta en hizla ilerleyen bu ulkenin basarilarini ve onu bu acidan ornek almak, hicbir sekilde dis iliskilerde karanlik entegrator elitinin  ve onlara yatan baskanlarinin yaptiklarini gormemek anlamina gelmez. O Albright'larla filan toplantilarda oturup  "hello what do you do yatti uyudu" gibi bir takim laflar geveliyorsunuz ama yaninizdaki insanin elinde kan oldugunu da bilmeniz gerekiyor. 90'li yillardaki o  komik Irak ambargolari yuzunden  Irak'ta kac tane cocugun can verdiginden haberiniz olmasi gerekli. "Neredeyse Amerika agziyla konusan yazar" kontenjanindan bir nemalanma durumundasiniz ama "bilmek" "hep hakli gormek" anlamina gelmemelidir. Olabilir; zamaninda icinde oldugunuz salak solcu grubu bunun tam ziddiydi, onlar da surekli "bilmemne Amerika" diye gereksiz sloganlar atip duruyordu... O gunleri gecelim.. Bunlar artik geride kalmistir.Mutlu TonbekiciDünyaya en çok zarar vermiş şey nedir diye sorsalar “din” derimYanlisTum Hristiyan Hacli Seferleri 58,000-133,000 arasinda insan oldurdu.Dinle alakasi olmayan Ateist Komunizm takriben 85 MILYON insan oldurdu! (gayet muhafazakar bir tahmindir). Takriben 25 milyon Bolsevikler/Stalin tarafindan Rusya'da, 65 milyon Mao Zedong tarafindan Cin'de. Bunun Kambodiya'si da var.. Cok hazin bir tablodur. Ve dinle alakasi yoktur. Dunyada en cok insan kaybina sebep olmus (zararin nihai olcutu) hem ideoloji hem bu ideolojinin silahlarini saglayabilmis olan sey endustriyellesmedir. Sadece I. ve II. Dunya Savaslarinda hayatini kaybeden milyonlarla, tum dini savaslarinda olenleri kiyaslayamazsiniz bile..  Endustriyellesme hem "otekinin" kim oldugunu tanimlamis hem kaynak yarisini kizistirmis, hem de kitle imhayi gerceklestirecek silahlari saglamistir.I.,II. Dunya Savaslarini gecin (ki yarattigi olu sayisi onlarca milyonlarca olculur), isterseniz ondan oncesine, 1898 yilina gidelim. Nil Nehrinin karsisinda Omdurman diye bir bolgede Ingiliz askerleri ilk kez Maxim adinda bir makineli tufegi, kendilerine isyan eden Mahdi liderligindeki Dervis savascilarina karsi kullandilar. Bu makineli silahtan sadece 6 tane getirilmisti. Sonuc: 28 Ingiliz olusune karsiliik 11,000 Dervis askeri hayatini kaybetmistir! Muharebeyi (!) seyreden bir gozlemci, "buna carpisma demek mumkun degil, bu dupeduz bir idamdi" yorumunu hatiralarina yazmistir. Ve bu sadece ufacik bir savas sahnesiydi. Gokhan OzgunAma bir uzlaşma yapılacaksa artık onun neyin uzlaşması olacağı belli. Artık bütün temel yalanların, Kürt Türk’tür, Ermeni değil Osmanlı mazlumdur, şeriat başucumuzdadır, Alevilik Sünni bir mezheptir, vesaire vesaire. Bütün anayalanların hükmünün bittiği bir döneme girdik. Ya, anayasamızın mahkemesinin de muhakemesinin de artık taşıyamadığı bu anayalanları unutacağız ve ortak gerçekler üzerinde anlaşacağız. Yeni anayasayı yalanlar değil, gerçekler üzerine kuracağız. Temel gerçeklerde uzlaşacağız. Ve ‘öngörülebilir rasyonel’ bir devlet olacağız.KatiliyorumBravo.Mehmet BarlasAyrıca meskun mahallerde, insanların uykuda oldukları saatlerde, amplifikatörün sonuna kadar açılması şart mıdır? Neticede ezan bir vakit uyarısıdır. Namaz kılmak için kalkmayacak insanların uyandırılması, bebeklerin çığlık çığlığa ağlatılması ne kadar doğrudur?KatiliyorumDurumu duzeltmek icin Sn. Barlas "teypten calinsin" diyor; Bence hic okunmasa daha iyi olur, cunku "zaman hatirlatmak icin" yapilan bir eylemin yerine artik herkesin kisisel saati, benzer aygiti vardir; Isteyen cep telefonuna namaz saatindan "ezan alarmi" koyar, o saatte o kisinin "kisisel ezani" okunmaya baslarsa, bu baskasini ilgilendirmez. Herkes mutlu olur.Evet, ezanin okunmasinda muhakkak bir "kulturel motif" durumu var... Bunu yadsimiyoruz. Ama o bizce o motifin yeri, turistik mekanlardir. Mesela Sultanahmet Camii'nde en becerikli muezzinler ciksinlar, okusunlar, dinlemek icin istedigimiz zaman biz de gidelim, dinleyelim, gonlumuz acilsin.. Turistler dinlesin, hayran olsun, vs.. Ama su "kullen", "kitlesel" ve "hali bombalamasi (carpet bomb)" usulu milletin tepesine ayni saatte indirilen "ses terorunden" kurtulalim.
 
+Cengiz Candar
 
+Irak’ta niçin savaş oldu? Kestirme cevapların hiçbiri  geçerli değil. Kestirme cevapların başında “petrol” geliyor. “Amerikan  emperyalizmi, Irak petrollerini konmak istedi”. Amerika, gelişmiş ülkeler  arasında Ortadoğu petrollerine en az bağımlı ülke. Kendisi petrol üreticisi  olmaktan gayrı, ithal ettiği petrolde Körfez pek az yer tutuyor. 2 trilyon  dolara kadar tırmanacak yıkıcı bir bilanço ve bunun ortaya çıkartacağı fatura  göz önüne alınırsa, bu iddia havada kalıyor. Irak’ın eski petrol bakanı ve  şu ara Başbakan Maliki’nin “Danışmanlar Kurulu”nun başında olan Tamir  Gadban, bir süre önce İstanbul’daydı. Tamir Gadban, siyasi kimliği pek  olmayan bir teknokrat, zaten Saddam döneminde de görevde imiş ve “Petrol  İşleri Genel Müdürü” sıfatını taşıyormuş. Kendisine, “Savaş gerekçesi  olarak petrolün payı”nı sormuştum. “Varsa bile, pek aşağı sıradadır”  karşılığını verdi.
 
+Kuyruklu yalan
 
+Sn. Candar kizmasin ama, Amerika konusuna gelince biraz eski
+solculuktan kalma "saftirik " hallere donuyor galiba - bir de,
+ideolojik olarak uzun zaman yanlis tarafta kalanlar "karsi taraftan"
+yedigi dayak sonrasi bu sefer "kullen oteki tarafa biat" halinde acaip
+bir ruh haline dusebiliyorlar.  Stockholm Sendromunun degisik bir hali
+bu.. Sn. Candar'in fazla defosu yok, bu geride kalan en buyuk
+defolarindan sayilabilir.Eveet, simdi tokatlamaya baslayalim:
+Amerika'nin Irak'a girmesinin en onemli sebebi petroldur. En son
+olarak Greenspan'in agzindan dokulen bu itiraf ve bunun arkasindaki
+gerekcelendirmeleri, surada [1,2,3,4,5] yeterince isledik.ABD kendi
+uretiminde "tepe noktasini (peak oil)" 70'li yillarda yasamistir ve
+ondan sonra petrol ithalati artarak kendi uretimini gecmistir. 2000
+itibariyle ABD petrolunun %55 disaridan gelmekteydi ve Irak + Suudi
+petrolu bu ithalatta en buyuk kalemdir. Irak seceneginden daha fazla
+faydalanilmasi "petrolun bitmez tukenmez oldugu" gibi bir "ilk yalan"
+uzerinde anlamsiz gelebilir, ama "kaynagin azalmaya basladigi ve bunun
+bilindigi" gerceginden baslayarak dusunurseniz, o zaman daha hala
+cikarilmamis cok fazla petrolu olan Irak'in "kapilmasinin" niye onemli
+oldugunu anlayabilirsiniz. Dunya petrol uretiminin azalacagini Dick
+Cheney kendisi de itiraf etmistir.  Irak Savasi'ndan once. Ingiltere
+icin benzer bir durum gecerli; Kuzey Denizi petrol uretimi 90'li
+yillarda tepe yapmistir ve Tony Blair basbakanliginin ilk buyuk
+krizini petrol sebebinden yasamistir! Ufak bir grevin tetikledigi
+krizin en kotu gunlerinin birinde "Erime Noktasina 7 Gun Kala" gibi
+basliklar atan Ingiliz gazetelerine bir bakmanizi oneririm, ve boyle
+bir tecrubenin yeni bir basbakan uzerinde ne bicim bir etki
+birakacagini soyle bir dusunmenizi salik veririm. Bu sebepledir ki,
+II. George "Irak'a yine girecegim" deyince, Blair yaninda hazirola
+gecivermistir. Bunun ustune, BP'nin Rusya'da kazik yeme ihtimaline
+ragmen nasil petrol uretim hakki icin ortama baliklama daldigini da
+bir bakiverin. Lord Browne'i oralarda nasil babalara getirdiler, bir
+anlayin.Genel bir tavsiye:Dunya olaylarina (ve hayatin her alaninda)
+bakista, hicbir kor nokta birakmamak gerekir.Zihni durusunuz;1-
+Onkabulsuz baslayacagim2- Temel bazi zihni dusturlari ve mantigi
+veriye uygulayarak beni ulastiracagi yere bakacagimolmalidir. Eger
+(mesela) ABD'yi ilgilendiren konularda,1- ABD'yi her zaman hakli
+cikaracagim2- Emin olmadigim zaman 1. kurala basvuracagimderseniz,
+ustte yaptiginiz gibi cuvallarsiniz. Hobi blogcularindan dayak
+yersiniz, komik duruma dusersiniz.Mantik ve verinin sizi ulastiracagi
+yer hic hosunuza gitmeyebilir (benim gitmedi) ama GERCEKLERI ortaya
+koymak gerekir. ABD ile ilgili her sey "ya hep ya hic" kistasiyla
+olculemez (diger pek cok irdelemede oldugu gibi). Ekonomisi gayet
+dinamik, bilgi toplumu olmakta en hizla ilerleyen bu ulkenin
+basarilarini ve onu bu acidan ornek almak, hicbir sekilde dis
+iliskilerde karanlik entegrator elitinin ve onlara yatan baskanlarinin
+yaptiklarini gormemek anlamina gelmez. O Albright'larla filan
+toplantilarda oturup "hello what do you do yatti uyudu" gibi bir takim
+laflar geveliyorsunuz ama yaninizdaki insanin elinde kan oldugunu da
+bilmeniz gerekiyor. 90'li yillardaki o komik Irak ambargolari yuzunden
+Irak'ta kac tane cocugun can verdiginden haberiniz olmasi
+gerekli. "Neredeyse Amerika agziyla konusan yazar" kontenjanindan bir
+nemalanma durumundasiniz ama "bilmek" "hep hakli gormek" anlamina
+gelmemelidir. Olabilir; zamaninda icinde oldugunuz salak solcu grubu
+bunun tam ziddiydi, onlar da surekli "bilmemne Amerika" diye gereksiz
+sloganlar atip duruyordu... O gunleri gecelim.. Bunlar artik geride
+kalmistir.
 
+Mutlu Tonbekici
 
+Dünyaya en çok zarar vermiş şey nedir diye
+sorsalar “din” derim
 
-zaman:
+Yanlis
 
-Ağustos 05, 2008
-
+Tum Hristiyan Hacli Seferleri 58,000-133,000 arasinda insan
+oldurdu.Dinle alakasi olmayan Ateist Komunizm takriben 85 MILYON insan
+oldurdu! (gayet muhafazakar bir tahmindir). Takriben 25 milyon
+Bolsevikler/Stalin tarafindan Rusya'da, 65 milyon Mao Zedong
+tarafindan Cin'de. Bunun Kambodiya'si da var.. Cok hazin bir
+tablodur. Ve dinle alakasi yoktur. Dunyada en cok insan kaybina sebep
+olmus (zararin nihai olcutu) hem ideoloji hem bu ideolojinin
+silahlarini saglayabilmis olan sey endustriyellesmedir. Sadece I. ve
+II. Dunya Savaslarinda hayatini kaybeden milyonlarla, tum dini
+savaslarinda olenleri kiyaslayamazsiniz bile..  Endustriyellesme hem
+"otekinin" kim oldugunu tanimlamis hem kaynak yarisini kizistirmis,
+hem de kitle imhayi gerceklestirecek silahlari
+saglamistir.I.,II. Dunya Savaslarini gecin (ki yarattigi olu sayisi
+onlarca milyonlarca olculur), isterseniz ondan oncesine, 1898 yilina
+gidelim. Nil Nehrinin karsisinda Omdurman diye bir bolgede Ingiliz
+askerleri ilk kez Maxim adinda bir makineli tufegi, kendilerine isyan
+eden Mahdi liderligindeki Dervis savascilarina karsi kullandilar. Bu
+makineli silahtan sadece 6 tane getirilmisti. Sonuc: 28 Ingiliz
+olusune karsiliik 11,000 Dervis askeri hayatini kaybetmistir!
+Muharebeyi (!) seyreden bir gozlemci, "buna carpisma demek mumkun
+degil, bu dupeduz bir idamdi" yorumunu hatiralarina yazmistir. Ve bu
+sadece ufacik bir savas sahnesiydi. Gokhan OzgunAma bir uzlaşma
+yapılacaksa artık onun neyin uzlaşması olacağı belli. Artık bütün
+temel yalanların, Kürt Türk’tür, Ermeni değil Osmanlı mazlumdur,
+şeriat başucumuzdadır, Alevilik Sünni bir mezheptir, vesaire
+vesaire. Bütün anayalanların hükmünün bittiği bir döneme girdik. Ya,
+anayasamızın mahkemesinin de muhakemesinin de artık taşıyamadığı bu
+anayalanları unutacağız ve ortak gerçekler üzerinde anlaşacağız. Yeni
+anayasayı yalanlar değil, gerçekler üzerine kuracağız. Temel
+gerçeklerde uzlaşacağız. Ve ‘öngörülebilir rasyonel’ bir devlet
+olacağız.KatiliyorumBravo.Mehmet BarlasAyrıca meskun mahallerde,
+insanların uykuda oldukları saatlerde, amplifikatörün sonuna kadar
+açılması şart mıdır? Neticede ezan bir vakit uyarısıdır. Namaz kılmak
+için kalkmayacak insanların uyandırılması, bebeklerin çığlık çığlığa
+ağlatılması ne kadar doğrudur?KatiliyorumDurumu duzeltmek icin
+Sn. Barlas "teypten calinsin" diyor; Bence hic okunmasa daha iyi olur,
+cunku "zaman hatirlatmak icin" yapilan bir eylemin yerine artik
+herkesin kisisel saati, benzer aygiti vardir; Isteyen cep telefonuna
+namaz saatindan "ezan alarmi" koyar, o saatte o kisinin "kisisel
+ezani" okunmaya baslarsa, bu baskasini ilgilendirmez. Herkes mutlu
+olur.Evet, ezanin okunmasinda muhakkak bir "kulturel motif" durumu
+var... Bunu yadsimiyoruz. Ama o bizce o motifin yeri, turistik
+mekanlardir. Mesela Sultanahmet Camii'nde en becerikli muezzinler
+ciksinlar, okusunlar, dinlemek icin istedigimiz zaman biz de gidelim,
+dinleyelim, gonlumuz acilsin.. Turistler dinlesin, hayran olsun,
+vs.. Ama su "kullen", "kitlesel" ve "hali bombalamasi (carpet bomb)"
+usulu milletin tepesine ayni saatte indirilen "ses terorunden"
+kurtulalim.
 
 
 

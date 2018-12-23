@@ -1,22 +1,4 @@
 # Vur Tayyip
 
-
-
-
-
-
-
-
-zaman:
-
-Eylül 08, 2008
-
-
-
-
-
-
-
-
-
+![](bitch-slap-dogan.JPG)
 
