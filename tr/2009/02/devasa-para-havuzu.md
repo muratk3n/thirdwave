@@ -1,19 +1,11 @@
 # Devasa Para Havuzu
 
+Chicago Kamu Radyosundan kuresel kriz hakkinda guzel bir belgesel radyo programi yayinlandi. Paylasilan bir istatistik cok ilginc; Dunyada yatirim icin kendine yer arayan tasarruf miktari yaklasik 70 trilyon dolar. 70 trilyon! Bu para, en gelismis olarak gordugu ABD finans sistemine hucum etti, ve saglam mortgage kontrakt temelli yatirimlari bitirince daha egzotik (saglam olmayan) mortgage borclarina dogru yoneldi. Arka planda finanscilar borc vermenin standartini iyice dusurduler; oyle dusurduler ki bir sure sonra birinin borclanma tarihine bakilmadan borc verilmeye baslandi. Bu durumun en trajikomik orneklerinden biri Ohio'da 23 olunun bile borc alabilmis olmasiydi.
 
+70 trilyonu perspektife koymak icin su bilgi paylasiliyor: Tum 2008 yili boyunca dunyada alinan, satilan herseyi toplasaniz, yine de 70 trilyon dolardan daha az olurdu.
 
+Devasa boyutlardaki ac yatirim parasi, sistemin tum vidalarini cikartmis gibi gozukuyor. Ve, ben burada, yine kapitalizm eksikligini sucluyorum. Bu sefer ABD'deki eksikligi degil, dunyadaki eksikligini. Cin gibi devletler muthis tasarruf biriktiriyorlar, peki bu tasarrufu degerlendirebilecek finans sistemini niye kurmuyorlar? Cin'de borsa var fakat Cin devleti haldir huldur bu borsaya girip cikiyor. Boyle borsa mi olur kardesim? Dunya capindaki yarim yamalak isletilen kapitalizmin bedeli odeniyor galiba. Tabii su da var: Kriz sonucu mortgage temelli yatirimlarda kaybedilen para ne kadar? Ingiliz Mirror gazetesine gore 2.8 trilyon dolar. Bu, kuresel tasarrufa, 70 trilyona kiyasla hala nispeten daha az, fakat tek bir ulke icin cok buyuk bir rakam. Uretim, yatirim kuresel boyutta, fakat tuketim, yatirimin degerlendirilmesi gibi islerin orantisiz sekildeki bir kismini ABD ustlenmis. Diger ulkelerdeki yarim yamalak kapitalizmin boslugu ABD ile doldurulmaya ugrasilmis. Bedelini orantisiz sekilde ABD odeyecek, ama zincirleme sekilde (yine bozuk kapitalizmin yuzunden orantisiz sekilde) tuketim kismini ustlenmis ABD'ye ihrac edenler de zarar gorecek/goruyor.
 
+NPR'dan bir radyo programi da kredi reyting sirketleri hakkinda. Bu sirketler de krizden once fena cuvalladilar. Bunlar ozel sirketler fakat borc veren bankalarla ayni yataga girmisler (sahipleri ayni sirket/kisi). Bu ne is!
 
-zaman:
-
-Şubat 02, 2009
-
-
-
-
-
-
-
-
-
-
+http://www.thislife.org/Radio_Episode.aspx?episode=355

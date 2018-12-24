@@ -1,19 +1,7 @@
 # Afganistan, Pakistan Oyunlari
 
+Cin'in uzun vade stratejisi acik: Afganistan'da en fazla yatirim yapan ulke su anda Cin; Iran ile devasa Aynak bakir madenlerini birlestirmek icin uzun bir karayolu insa ettiriyorlar. Cinliler ayni zamanda Pakistan'in Arap Denizinde, Gwadar'da bir derin deniz limanini finans etmeye basladilar. Bu arada, uzun zamandir Wahabbi camilerine ve Taliban'a miktari halen bilinmeyen seviyelerde para yardimi yapmis Suudi Arabistan, Taliban ile Afganistan'daki Karzai rejimi arasinda gorusmelerde arabuluculuk gorevini ustlenmis durumda. Iran, Pakistan'daki elektrik acigini telafi etmek icin santrallar insa ediyor. Daha da onemlisi, Iran eskiden gundemde olan Iran-Pakistan-Hindistan dogal gaz hattinin insasini tekrar gundeme getirip, insaya gecmek istiyor. Bu hat, hem Pakistan, hem Hindistan tarafindan cok ihtiyac duyulan bir hat. Pakistan'da elektrik kesintileri artisa gecti, ve artik eski tahmin edilir ritimlerinin de disina cikti.
 
+--
 
-
-
-zaman:
-
-Şubat 09, 2009
-
-
-
-
-
-
-
-
-
-
+Suradaki yazidan tercume edilmistir. Holbroke'un bolgeye gorusmeci olarak atanmasiyla ilgili yazilmis bir yazi... Eski yorumcular bakiyorlar, zannediyorlar ki bolgeye "superstar" atanacak, o bolgeye gidecek, herkes agzi acik bu durumu seyredecek, cicekler acacak, inekler ucmaya baslayacak. Gercek durum ise soyle; Mesafelerin kisalmasi ve merkezin parcalanmasi anlamindaki kuresellesme sonucu, kimsenin "merkezdeki" adamin ne yaptigini ipledigi yok. Herkes kendi ilgi, etki alanini yaratmak, genisletme cabalarini tam gaz surduruyor. Eski "kible" ise yaramiyor, artik pek cok kibleler var, hatta ulkeler kendileri nacizane kible olmak icin bolgelerinde at kosturuyorlar. Ingiltere, BBC belgeselinde tum dunyayi icine alan bir tarih mefrumu yaratirken, o belgeselde allanip pullanan ulkelerden biri Cin ile finans krizinden kurtulmak icin anlasma yapiyor. Dunun "bariyer ulkesi" Turkiye, korsanlara karsi Somaliye savas gemisi gonderiyor. Iran uzaya uydu koyuyor.

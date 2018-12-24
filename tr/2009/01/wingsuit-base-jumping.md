@@ -1,19 +1,4 @@
 # Wingsuit Base Jumping
 
-
-
-
-
-zaman:
-
-Ocak 10, 2009
-
-
-
-
-
-
-
-
-
+http://vimeo.com/1778399
 
