@@ -1,5 +1,16 @@
 # TRT Mars Açıldı
 
-TRT Ses, TRT Turk kanallarindan sonra TRT Mars yayina basladi. Hukumet Mars'ta gurbetci olmamasina ragmen ileride olma durumu icin simdiden yayina baslamayi sectiklerini belirtti. Kanalin ayni zamanda Jupiter, Saturn ve Andromeda Galaksisine dogru da yayin yapmasi bekleniyor. "Komsularla sifir problem" prensibinden hareketle uzaylilar dunyaya gelmeden iliskilerin onceden gelistirilmesi amaclaniyor. Kanalda sadece uzaylilarin iyi sekilde gosterildigi filmler yayinlanacak, UFO tarafindan kacirildigini iddia eden ama bundan mutlu oldugunu soyleyen kisilerle roportajlara yer verilecek.
+TRT Ses, TRT Türk kanallarından sonra TRT Mars yayına başladı. Hükümet
+Mars'ta gurbetçi olmamasına rağmen ileride olma durumu için şimdiden
+yayına başlamayı seçtiklerini belirtti. Kanalın aynı zamanda Jüpiter,
+Satürn ve Andromeda Galaksisine doğru da yayın yapması
+bekleniyor. "Komşularla sıfır problem" prensibinden hareketle
+uzaylılar dünyaya gelmeden ilişkilerin önceden geliştirilmesi
+amaçlanıyor. Kanalda sadece uzaylıların iyi şekilde gösterildiği
+filmler yayınlanacak, UFO tarafından kaçırıldığını iddia eden ama
+bundan mutlu olduğunu söyleyen kişilerle röportajlara yer verilecek.
 
-Kanali basbakan Tayyip Erdogan "Qaplah" sozuyle acti, bu kelimenin Uzay Yolu dizisindeki Klingon irkinin dilinden alindigi bildirildi.
+Kanalı başbakan Tayyip Erdoğan "Qaplah" sözüyle açtı, bu kelimenin
+Uzay Yolu dizisindeki Klingon ırkının dilinden alındığı bildirildi.
+
+

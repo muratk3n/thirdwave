@@ -1,19 +1,11 @@
 # Yeni Egitim - 3
 
+Fast Company makalesi, 2007, Elizabeth Sovoboda
 
+Culliane kullandıkları eğitim tekniklerini ve onu alternatifiyle kıyaslayan bir Bartelsmann araştırmasından bahsediyor: Test edilen tekniklerden biri "ayağa kalkıp ders anlatmak" diğeri ise daha serbest şekilde ders vermek, bol bol dijital yardımcı kullanmak, öğrencileri sürekli derse katılmaya cesaretlendirmek. Culliane şöyle sorar: "Bilin bakalım hangi denek grubu daha başarılı çıktı?". Cevap ilginç: her iki grup iki farklı eğitim tekniği sonunda sorulan sorulardan eşit seviyede başarılı çıkmıştır. Fakat, bu gruplar aynı konulardan bir sene sonra tekrar test edildiğinde, klasik metotla öğretim görenlerin neredeyse hiçbir şey hatırlamadığı gözlenmiş, katılımcı, dijital metotlu eğitimi alanların hem öğretilenleri hatırladığı, hem de o bilgiyi genişlettikleri, detaylandırmaya başladıkları gözlenmiştir. Bir öğretmen hangisini tercih eder? Her öğretmen arkada birşeyler bırakmak, öğrettiklerinin hatırlanmasını istemez mi? Microsoft'un insan kaynaklarında ise almaktan sorumlu birisi, hangi gruptaki çocuğu ise almayı tercih edecektir?
 
+Bu araştırma sonucunun verileri Geleceğin Okulu'nun temel taşını, ve devrimsel potansiyelinin merkezini oluşturur. Bu sebeple Philadelphia eğitim bölgesi ayağa kalk ders anlat yöntemini dinamitlemeye ve sıfırdan başlamaya karar vermiştir. George W. Bush'un kanunlaştırdığı "Geride Çocuk Kalmasın" atılımı altında tek yapılan, çocukları belli standart testlerden iyi notlar almaları için şekillendirmeye uğraşmaktır - ki bu şekillendirme hem öğretim tekniklerine, hem de eyalet bazında verilen testlere yansımıştır. Bu sistem, fabrika usulü eğitimin üstüne atılmış bir boya katmanından ibarettir. Geleceğin Okulu sistematiğine göre bu anlaşılabilir değildir; 3 R eğitimi bir boşlukta öğretmek, hiç uygulama örneği göstermeden pratikliğe hiç önem vermemek birine hiçbir açıklama, eğitimsiz bir golf sopası verip onun Tiger Woods olmasını beklemeye benzer.
 
+Bazılarını rahatsız edecek kadar çok araştırma sonucu bu görüşü desteklemektedir. Üstte tarif edilen Bartelsmann araştırmasına ek olarak 1990'da Vanderbilt Üniversite'sinde yapılan Jasper-Woodbury araştırmasında, önlü yaşlardaki (teenage) çocuklara, onları "disiplinler-arası" düşünmeye zorlayacak gerçek dünya problemleri verilmiştir. (Bir senaryoda doğada yürüyüş yapan biri dağda sakatlanmış bir kartal -kuşu- bulur. Bu bölgeye sadece bir özel uçakla erişilebilmektedir. Çocuklar takımlar halinde çalışarak bu yaralı kuşu kurtarmanın en iyi yolunu bulmaya çalışırlar, verilen sabitler rüzgar hızı, uçağın yakıt kapasitesi gibi değerlerdir). Klasik matematik teknikleriyle eğitilen çocuklara kıyasla Jasper usulü eğitilen çocukların "genel problem çözme" yeteneğinin daha iyi olduğu ölçülmüştür. Diğer bir ölçüt metadolojisi aynı çocukları yaratıcılık testinden tabi tuttuğunda yine diğerlerine kıyasla daha yüksek notlar aldığını görmüştür.
 
-zaman:
-
-Mayıs 18, 2009
-
-
-
-
-
-
-
-
-
-
+İşte bu araştırmalardan ilham alan Salçıto ve Culliane ve Philadelphia eğitim heyeti eski "kutulardan" oluşan sistemi bir kenara itti ve yerine, konuların daha "üçü açık" başlıkların altında toplandığı bir sistem kurdu. Bazı başlıklar: "Kimliklerimiz nasıl oluşur?", "Amerika kuş gribi hakkında endişelenmeli mi?" gibi başlıklardır ve klasik "disiplinler" bu geniş soruların cevaplanmasında gerektikçe kullanılır. Bunu yaparken sistem, öğrencilerin yazma, hesaplama, ve analitik becerilerinin hepsini, aynı anda egzersiz eder. Ayrıca Microsoft'un eğitim yeterlilik kıstasının tanımladığı daha kariyer merkezli yetenekler de egzersiz edilir, bunlar planlayabilme, organize edebilme, başkalarını motive edebilme, belirsizlik ile başa çıkabilmek, bir takım ortamında çalışabilmek gibi becerilerdir.

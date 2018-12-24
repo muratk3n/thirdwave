@@ -1,19 +1,13 @@
 # Yeni Egitim - 1
 
+Fast Company makalesi, 2007, Elizabeth Sovoboda
 
+Philadelphia eğitim bakanlığı bürosu ve Microsoft şirketinin ortaklaşa çabası sayesinde hayata geçen "geleceğin lisesi" büyük ilgi altında açıldı. Gazetelerde bu okul hakkında yazılanlar bir Jetsons senaryosunu andırıyordu: İnteraktif tahtalar! Şifresiz kitlenebilen öğrenci dolapları! Her öğrenci için bir laptop! Devlet radyosu NPR okul hakkında "Philadelphia'daki Geleceğin Okulunda Kitaplar 20. Yüzyılda Kaldı" başlığıyla bir yayın hazırlayacaktı ve öğrencilerin üzerinde çip olan akıllı kartları ve Wi-Fi erişimi üzerinde abartılı sözler söylenecekti ve tüm bu teknolojik oyuncakların eğitimi nasıl ilerleteceğinden bahsedip durulacaktı.
 
+Fakat bu haberler hikayenin sadece bir bölümünü anlatıyordu. Hatta, aslında hikayenin en az önemli bölümüne odaklanmışlardı. Geleceğin Okulu projesi eski okul müfredatının üzerine atılmış bir "yüksek teknoloji" sivası değildir. Bu proje eski müfredatın tamamen parçalanması, değiştirilmesi anlamına gelen bir değişikliktir. Yeni sistemde "3 R" ortadan kaybolmuştur [1]; bilim, yazmak, İngilizce, matematik ve geri kalan diğer konular ayrı ayrı "disiplinler" olarak öğretilmemektedir. Bilakis tüm bu araçlar, gerçek dünyadaki bir problemi anlamak için birbiriyle bağlı bir şekilde, aynı anda kullanılan araçlar haline gelmiştir.
 
+Microsoft'un Eğitim Destek bölümü direktörü Mary Culliane'e göre eski "ayağa kalk ders anlat" usülü eğitim artık bir evrim geçirmelidir. Culliane, "Çocukları koca bir et makinasına tıkıyoruz, ondan sonra bu sistem işlemeyince şaşırıp kalıyoruz" diyor. Culliane, ta 1997 yılında New Jersey'de bir Katolik lisesinin teknoloji idarecisiydi, bu okulda her öğrencinin kablosuz erişime sahip bir laptop'a sahip olmasını sağlamıştı ve bu yaptığı "Her Çocuğa Bir Laptop" cümlesi kullanıma girmeden çok önceydi. Şimdi (3 sene sonra) Microsoft'a çalışıyor ve şirketin Geleceğin Okulu atılımının şirketteki baş temsilcisi. Artık Microsoft'un devasa kaynakları da arkasında olduğu için yapmak istediklerini gerçekleştirme yönünde daha da şanslı. Ama Culliane projeyi ifade edişi çok pragmatik aslında: "Microsoft'un eğitime olan ilgisi tamamen şahsi çıkarıyla alakalı" diyor "her geçen gün daha fazla şirket ileride kendilerine gerekecek o beceri sahibi işgücünü bulamayacakları hakkında endişe duymaya başladı; bizde o şirketlerden biriyiz".
 
-zaman:
+--
 
-Mayıs 14, 2009
-
-
-
-
-
-
-
-
-
-
+[1] 3 R Okuma (Reading), Yazma (Writing), Aritmetik (Arithmetic). Tüm kelimelerin baş harfi R değil ama telafuz sırasında 'r' sesi ön plana çıkıyor. Aslında garabet bir kısaltma bana sorarsanız (aynen temsil ettiği eğitim sistemi gibi).

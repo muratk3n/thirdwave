@@ -18,4 +18,14 @@
 
 [Damal Tapinagi Rahipleri](/2009/01/damal-tapinagi-rahipleri.md)
 
+[TRT Mars Açıldı](/2009/05/trt-mars-acld.md)
+
 [CHP açılımlari birbirine karıştı](/2009/02/chp-aclmlari-birbirine-karst.md)
+
+[Uzaylı magdur edildi](/2009/05/uzayli-magdur-edildi.md)
+
+
+
+
+
+

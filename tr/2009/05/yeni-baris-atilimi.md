@@ -1,19 +1,9 @@
 # Yeni Baris Atilimi
 
+Yeni Israil basbakani Benjamin Netehyahu ABD'ye yeni (yine) Ortadogu baris atilimi icin bir ziyaret yapti. Bunun arkasinda hangi realpolitik itici kuvvetler var? Bir kere her ne kadar Obama hukumeti "Israil'e yakin" olarak gorunen bir goruntude olsa da, destekleri Bush II zamaninda oldugu gibi "sonsuz" degil. Ek olarak Obama'nin etrafinda, disislerinde Clinton zamaninda calismis pek cok kisi bulunuyor ve bu kisiler acik bir sekilde Netenyahu'ya gicik kapiyorlar. Netenyahu hafiften "okuz" bir karakter, Clinton zamaninda pek cok kisinin ayagina basmis, canini yakmistir. Her ne kadar uluslararasi konjenktur Israil'in "tercih ettigi" bir zaman degilse de, Obama'nin "degisim mesajinin" yaninda gozukmek, ozellikle Netenyahu zamaninda, onlar icin goruntuyu duzeltecek ve fayda getirecek bir zorunluluk haline gelmistir.
 
+Israil genellikle "karsisindaki" Araplarin en zayif oldugu anda baris anlasmasina gitmeyi tercih eder; 90'li yillardaki atilim Araplarin en bolunmus, en zayif oldugu zamanda baslatilmistir. Fakat, bu kazan/kaybet politikasi hicbir yere varamadi. Umariz ki bu yeni caba "PR" goruntusu haricinde fayda getirir, tabii Davutoglu'nun konuda yazdiklarini unutmamak lazim, Filistin'i, Kudus'u ilgilendiren her tartisma tum Islam dunyasini ilgilendirir, bu "netameli" gorev salt Filistinlilerin basina yikilamaz. ABD bu konuda tum Islam dunyasini karar mekanizmasina dahil etmeye ne kadar yanasacaktir, bu gorulecek. Bu istek/isteksizlik ayni zamanda bu cabanin basari/basarisizlik gidisatini da belirleyecektir.
 
+Obama'nin soyleminden Clinton zamanindaki denemelerden ders aldigi goruluyor; aslinda o cabalarin patlamasinin onemli bir sebebi Clinton'un fazla Israil yanlisi olarak gozukmesiydi. Bakalim Obama bu konuda bir duzelme saglayabilecek mi? Ailesinde musluman insanlar olan birinin bu konuda "tarafsizlik" durusunun baslangictan arti hanesinde oldugu barizdir.
 
-
-zaman:
-
-Mayıs 18, 2009
-
-
-
-
-
-
-
-
-
-
+Basarilar diliyoruz.
