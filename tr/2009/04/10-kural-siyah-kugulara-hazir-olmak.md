@@ -1,16 +1,9 @@
 # 10 Kural: Siyah Kugulara Hazir Olmak
 
 
+[10 Kural: Siyah Kugulara Hazir Olmak - 1](10-kural-siyah-kugulara-hazir-olmak-i.md)
 
-
-
-zaman:
-
-Nisan 10, 2009
-
-
-
-
+[10 Kural: Siyah Kugulara Hazir Olmak - 2](10-kural-siyah-kugulara-hazir-olmak-ii.md)
 
 
 

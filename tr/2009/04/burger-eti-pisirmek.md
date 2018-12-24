@@ -1,19 +1,11 @@
 # Burger Pisirmek
 
+Tercume edebildigim kadar ettim; bu tur deyimleri aktarmak zor olabiliyor. Kelimenin Ingilizce orijinali flipping burgers sozu/deyimidir; cogunlukla, bir servis ekonomisinde en alt seviye isleri temsil etmek icin kullanilir.
 
+Hikayeye gelelim: Heidi ve Alvin Toffler, Beyaz Ev'deki bir toplantiya cagirilmistir, masada Reagan, Bush I oturmaktadir, bazi bakanlar da mevcuttur. Ekonominin gidisati tartisilmaktadir. Toffler'lar toplumun sanayi temelinden bilgi/servis temelli olmaya dogru gittigini anlatirken bakanlardan biri patlar: "Ne yani hepimiz burger mi pisirecegiz?!" :)
 
+Bunu niye paylastim; cunku sanayi uretimi ve sanayisel bir toplum olma arasindaki farki anlatmak istiyorum. Heidi Toffler'in o gunku cevabi soyledir: "Efendim, endustriyel uretim azalmayacak, sadece o tur islerde calisan insan sayisi azalacak". Burger eti pisirenler de olacak tabii ki, fakat o isin bir bolumunde bir musteriyle iliski tarafi var, tam monoton sayilmaz, ayrica bir servis ekonomisinde burada sayilamayacak kadar is kollari olacaktir. Avukatlar, yatirimcilar, yazilimcilar, kose yazarlari, turizmciler... Var da var. Tum servis ekonomisini burger pisirmeye indirgemek abesle istigal.
 
+Pur servis bazli islerin onemini ne kadar vurgulasak az. Japonya ornegine bakiniz: 90'li yillarin Japonlar icin kayip yil olmasinin pek cok sebebi var, fakat servis bazli dallara odaklanamalari burada en onemli bir faktordur. Gidin Japonya'ya hala dogru durust programci bulamazsiniz. Ve girecekleri bu durgunluk Powershift kitabinda 1990 yilinda ustad tarafindan tahmin edilmistir; sadece bahsettigimiz parametrelere bakarak. Ne oldu? Japonlar sanayi uretimini becerdiler (Deming Japonya'ya gidip bu isleri bizzat onlara ogretti), ama ekonominin bir sonraki seye evrilmesini saglayamadilar. O yapinin gerektirdigi kurumlari kuramadilar.
 
-zaman:
-
-Nisan 05, 2009
-
-
-
-
-
-
-
-
-
-
+Muhakkak bu donusum hicbir toplum tarafindan tamamlanamadi, Amerika bile bu donusumu yasamakta ve onun krizleriyle ugrasiyor. "Sanayi sonrasi medeniyet" diye bir sey halen olusmadi. Herkes bu geciste, ve o gecisin sonuclarini goguslemekle mesgul. Her ulkede cekismeler degisik kodlar uzerinden yasaniyor; Turkiye'de Kurt sorunu, turban sorunu, vs. seklinde tezahur ederken, baska yerlerde kurtaj, ahlak yozlasmasi, sanatta siddet gibi problem alanlari doguyor. Sag ve sol ayrimlari yokoluyor, yeni cagda -izm'ini kaybetmis zavalli insanciklar "yeni sag", "yeni sol" gibi kelimelerin pesinde kosmaya ugrasiyor ama gelmeyecek bir treni bekliyorlar; hepsi bir boslukta. Tum bu sorunlarin hepsinin altinda tek bir temel kirilma noktasi var.
