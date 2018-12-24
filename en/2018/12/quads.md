@@ -186,3 +186,18 @@ print (df6[['gdpyoy','ypred']].tail(20))
 285  2.580414  0.336008
 286  2.869807  0.145337
 ```
+
+```python
+import random
+plt.xlim(-1.0,1.0)
+plt.ylim(-1.0,1.0)
+plt.grid()
+res = df[['Q','cpidiff','gdpdiff']].tail(14)
+for (q,x,y) in np.array(res):
+    plt.plot(x,y,'rd')
+    xa = random.choice(np.linspace(0,0.05,3))
+    plt.text(x+xa,y+xa,q)
+plt.savefig('quads.png')    
+```
+
+
