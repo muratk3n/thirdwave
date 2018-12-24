@@ -1,19 +1,27 @@
 # Sekil ve Esas
 
+Ortada bir ironi var: Turban gibi seklen onemli ama esasen (tehdit baglaminda) onemsiz bir ozgurlugu engellemek icin Anayasa Mahkemesi seklen denetleme yetkisini asarak esasa girmistir! Sekil ve esas arasindaki bu kafa karisikligi, Turkiye'nin icinde oldugu zihni durumu guzel bir sekilde ozetliyor aslinda.
 
+Gelisim tarihimiz esas ve sekil arasinda gidip gelen bir resim cizmektedir. Bu tarihi anlamak icin Japon gelismesine bakanlar, Turkiye'nin Japonya gibi bir ada devleti olmadigini goz ardi ediyorlar. Japonya once Cin'den, sonra Avrupa'dan istediklerini gayet dar bir kanaldan alarak, kendi kabuguna cekilip onu kendi ile harmanlama sansina sahipti. Turkiye ise cografi konumu itibariyle dis dunya ile cok daha fazla, hatta gereginden fazla angaje olmasi sebebiyle bu avantaja sahip olamamistir. Ek olarak "kuculerek" eski etki alanindan uzaklastirilmis bir imparatorluk varisi olarak, Propaganda filminde harika bir sekilde resmedildigi gibi eski topraklarla olan baglantilarindan da "esasen" kopmamistir. Hatta Bati ve Dogu ile arasindaki bu surekli baglantilar ulkenin nevrozlarina eklenen bir yeni parametre haline gelmistir. Esas ve sekil bu karmasa icinde surekli kaybolmakta, ve anlasilmaz bir hal almaktadir.
 
+Cografi sabitleri degistiremeyecegimize gore, elimizde olan ile ileriye bakmak durumundayiz. Karsilastirma yapacagimiz ulkeleri bu sebeple iyi secmeye mecburuz.
 
+Cografi durum iki yonludur: Bati'ya olan yakinlik hem icinde olma, hem onunla savaslarda kazanmak/kaybetmek cercevesinde "disinda olma" dinamiklerini beraberinde getirmistir. Bu dinamiklerin sonucu olarak bir gazetenin, ayni gunde, on sayfasinda "yasasin Avrupalilik (AB uyeligine yaklasildigi bir gun)" basligi ile arka futbol sayfasinda "Avrupa duy sesimizi" turunden hamasi basligini gormek normal karsilanmaktadir. Bu sekilde hasmane/hamasi/hayranlik hissiyatlari, cografi parametrelerimizin pek cok benzerlik icerdigi Rusya'ya aslinda daha cok benzemektedir. Bu ulke, ayni Turkiye gibi, hem uzaktan, hem yakindan bakarak Avrupa ile kendine has bir etkilesim icinde olmustur. Bu sebeple Deli Petro'nun Batililasma hamlesi ile Cumhuriyetin bazi uygulamalari, bilgi teknolojilerini oven Gorbacov ile bilgisayar hastasi Ozal'in birbirine olan paralelligi, Putin Rusya'si ile gunumuzdeki T-tipi (totaliter) Kemalistlerin arasindaki benzerlige daha belirginlesmektedir.
 
-zaman:
+Fakat benzerliklerin durdugu noktayi da gormek gerekiyor cunku bu benzerlikler, tekrar cografyanin getirdigi ayriliklari gundeme getirmektedir. Rusya, Putin usulu otoriterligi yurutebilecek manivelalara sahip olan bir ulkedir - petrol ve dogalgaz ureticisi konumundadir, bu manivelalar ile mesela petrodollar hakimiyetini kirmak icin petroruble oyunlarini oynayabilir. Kivrak bir takim hamleler ile kendini G-8'e dahil edebilir. Nukleer bir guctur. Askeri gucu kisitli olsa da, askeri ve uzay teknoloji know-how'ina sahiptir.
 
-Haziran 10, 2008
+Turkiye benzer manivelalara sahip olamamistir. Turizm haricinde isleyecek dogal kaynagi olmayan ulkemiz, ekonomisini ucuz petrol ile besleyemez, ve devlet merkezli bir komut/kontrol ekonomisini hem verimli tutup hem surekli subvansiyon altinda idare edecek durumda degildir. Yani Turkiye Putinizm yolunda degil, Ozal/Presteroika paralelliginin yolunda ilerlemeye mecburdur. Ozal/Presteroika yolu ise son son hizla bilgi/innovasyon ekonomisi olunmasini gerektirmekte, acik toplum olmadan bilgi toplumu olmaya ugrasan Cin orneginden bile uzak durulmasini bir mecburiyet haline getirmektedir. Bunu yapmak icin ise insanlari alim/satim/uretim karari verebilen, bu ozgurluge sahip insanlar olarak gorulmesi bir numarali gerekliliktir.
 
+Esasimiz bu olmali, geri kalanlar ise sekli teferruatlar haline gelmelidir, cunku esasinda gunluk hayati masa basinda calismak, eglenmek, dizisini seyretmek, tatile cikmaktan olusan "modernite sonrasi" insanin, kof bir merkezi "ele gecirmek" icin ne vakti, ne de istegi vardir. Ters yonden ise yeni hayatin ona sagladigi sekli ozgurluklerin engellenmesi, o bireyin "esasen" mesgul oldugu hayatinda rahatsizlik olusturur, bu ise butunun verimliligini tehdit eden optimalite karsiti davranislar olarak uzak durulmasi gereken secimlerdir.
 
+Karisiklik
 
+Turkiye, endustriyellesen Avrupa'nin tokadi ile dagilmis oldugu icin, acziyetin getirdigi o vahim psikolojik nevrozu cercevesinde "dusmani gibi olma" hastaligina yakalanmis, "esas" ile "sekli" bu karmasa icinde karistirmis, surekli angaje olmasini gerektiren konumu ise, ona kabuguna cekilip olan biteni harmanlama sansi vermemistir. Kant felsefesinin icten ice curuttugu Avrupa'nin endustriyellesmesinin kendi kendini yokettigi zamanlarda, bunlari arka arkaya goren, surekli takip etmeye calisan, ve tarihi bir zamanlama talihsizligi yuzunden o dinamikleri Avrupanin cokusunden "az once" alip kanunlarinda, elit tabakasinda kodifiye eden ulkemiz, ileriye donuk esnekligini bazi insanlarin nedzinde geri gelmemek uzere kaybetmistir. Daha uzaklarda bir yerlerde olan ABD ise, zamanlama sansi sayesinde tarim -> endustri gecisinin tam ortasinda dunyaya gelerek muthis bir esneklik kazanmis, ama yokolan bir ideolojinin mirascisi ulkemiz olmekte olan kavramlara siki sikiya sarilarak gunumuzde yasadigimiz nevrozlara baslangic noktasi saglamistir.
 
+Avrupanin kendisi bile, en azindan, yasamis oldugu cokusun temel dinamiklerini ureten yer oldugu icin, "neyin kotu oldugunu" deneme/yanilma ile gorebilme sansini sahip olmustur. Aristonun akilciligini Kant felsefesi ile kendi kendine dinamitlerken kollektif pek cok ideolojinin dogmasini saglayan bu kita, en azindan Nazizm ideolojilerin acisini bizzat yasayarak ogrenmis, ve totaliter milliyetcilikten uzak durmayi ogrenmistir [1].
 
+Turkiye ise "yanlis zamanda", "seklen" aldigi pek cok kavrami, hem "esasen" takip edemeyerek, hem de yenileyemeyerek, tarihi kafa karisikliginin pencesinde suruklenmeye devam etmektedir.
 
+---
 
-
-
-
+[1] Ironik bir sekilde Nazizm'den en cok ceken ulke Fransa, ona yenildigi icin aynen Turkiyenin yasadigi nevroz gibi "onun gibi olma" hastaligini bir sure, hatta kismen bu gun bile yasamaktadir. Hitler'in kapitalizm, finans sistemine karsi olan retorigin benzeri, bugun Fransa'da aktif bir sekilde egitim sisteminde, sokaktaki insanin hissiyatinda beyinlere kazinmistir. "Liberal" kelimesi, aynen Turkiye'de bir kesimde oldugu gibi kufur mahiyetinde kullanilir (Turkiyeli F-tipi Kemalistlerinin bu retorigi Fransa'dan kopyalamis olmalari bu mantiga gore neredeyse kesindir).

@@ -1,23 +1,5 @@
 # Star Trek ve Freud
+
 Daha once Star Trek dizisinin benzetmelerle dolu oldugundan bahsetmistim. Bunlara biraz daha devam edelim. Bir kulturu ve genre'yi tanimak icin bunlar onemli manivelalar aslinda.Star Trek Freud'u cok memnun edecek sembollerle dolu. Bir kere, Turkceye cok guzel bir sekilde cevrilmis olan uzay gemisi Atilgan'in bir erkek uzvuna benzedigini soylemistik. Devam edelim: Bu gemi, kara bir bosluk olan uzaya dogru gidiyor/giriyor. Hoppala. Hatta geminin Turkce tercumesini (Atilgan) de kullanmak gerekirse, bu bosluga dogru "atliyor". Cevirmenlerimiz farkinda olmadan cok guzel bir espriyi yakalamislar.Ama bununla da kalmiyor. Dizi baslarken arka planda / fonda bir konusma var: Once Kaptan Kirk'u oynayan William Shatner, sonra Kaptan Picard'i oynayan Patrick Stewart tarafindan seslendirilen bu giris konusmasi ne diyor? "Misyonumuz hic bir erkegin gitmedigi yerlere cesurca gitmektir! (to baldly go where no man has gone before) ".  Hoppala! Nereye "gidiyoruz" yahu? :) Her ne kadar gunun politik hassasiyetleri (political correctness) icin sonradan "hicbir erkek (no man)" sozunu cinsiyetsiz olan "hic kimse (noone)" haline cevirdilerse de, dizinin genel Freudian cagrisimlari bariz sekilde ortada... Uzay sanki iliskiye girilecek bir hanim gibi gosterilmis, ve ilginc bir sekilde kurgulanmis gemi ile oraya dogru "atlaniyor".Tabi bunu soylerken, bu dizinin diger politik hatta bazen utopik, sofistike durusunu golgelemek istemem. Trek evreni hakikaten insanin olmayi hayal edebilecegi bir evrendir... Replicator teknolojisi ile tasarimdan uretime gitmenin bedeli neredeyse sifira inmistir, enerji ucuzdur, insaniyet pek cok gezegene yayilmistir. Daha guzeli insanlar sadece kendilerini gelistirmek icin yasamaktadirlar, pek cok diger irk Federasyon catisi altinda baris icinde yasamaktadir (bu arada Federasyon Amerikayi temsil eder). Muhakkak oteki baska buyuk gruplasmalar ile savaslar vardir, bunun sebebi de dizide dram yaratmak icin gerekli malzeme saglamaktir.Star Trek dizisinin ilk versiyonu televizyonlara ciktiginda ABD'de 60'li yillarda  zenci/beyaz surtusmesi cok travmatik bir sekilde yasanmaktaydi - ve Star Trek gayet innovatif bir sekilde zamaninin pek cok "hassas" konusunu "ileride" gecen ve bu sebeple daha guvenli olan bir ortamda allegori kullanip adresleyerek, bizce zamaninin politik ortamina cok olumlu faydalar saglamistir. 80/90'li yillarda baslayan Star Trek Next Generation da bu gelenege devam etti.Bu dizi hakkinda daha sayfalarca yazabiliriz: Su acaip politik ortam bir duzelsin, buralara da gireriz belki.Trek konusunda bazi kisa haberler, Star Trek XI isimli yeni bir film yakinda cikacak, yonetmen Lost dizisinin produktoru J.J. Abrahams. Film, ilk Trek evreni uzerine kurulu (Spock'un oynadiklari) ve Kirk'u geri getirmediler ama daha genc bir Spock buldular: Heroes dizisinde kotu adami oynayan Zachary Quinto. Quinto tabii ki esmer, Ortadogulu gorunumlu (ama Yahudi degil Italyan asilli -deniyor-).
 
-
-
-
-
-
-
-zaman:
-
-Haziran 26, 2008
-
-
-
-
-
-
-
-
-
-
-![](images.jpg)
+![](trek.jpg)
