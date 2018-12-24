@@ -1,19 +1,3 @@
 # Obamanuf Already
 
-
-
-
-
-zaman:
-
-Mart 10, 2009
-
-
-
-
-
-
-
-
-
-
+Yahu su Obama'nin ismini rahat birakin kardesim.. Sayin ABD medyasi ve yazar cizerleri: Isim Anglo Sakson isimlerinden farkli, Jones, Smith degil, fakat illa orasina burasina ekleme yaparak isi gariplestirmek gerekmiyor. Obamamania ve Obamanomics vardi basta, fena degildi, ilgincti. Sonra insanlar kendini tutamadi Obama'nin konusma yaptigi bir yerde satilan Obama temali takilara, "memorabilia"'lara, "Obamabilia" diyorlar. En son, garabet, mahlukat, vs. anlamina gelen "abomination" kelimesini "Obamanation yapmislar". Yahu yeter artik !:) Simdi normal Anglo isimlerden bize komik gelenler var... Sunoco, Amoco.. .. Bir de Al Gore var. Neyi aliyor sonra ne yapiyor?.. Ne bicim isimler bunlar..

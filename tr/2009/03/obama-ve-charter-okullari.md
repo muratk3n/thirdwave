@@ -1,19 +1,23 @@
 # Obama ve Charter Okullari
 
+2008 baskanlik yarisi sirasinda ucuncu (en son) tartisma programini seyrediyorum. Egitimden soz acildi, bakalim hangisi 'charter okullarindan' bahsedecek diye beklemeye basladim. Bahseden McCain oldu. Bu anlasilir cunku Cumhuriyetci partinin icinde liberteryen, ozgurlukcu cok kisi vardir. Oteki turlu tipler de var muhakkak; ama onlar her iki partiye neredeyse esit sekilde dagilmis durumdalar. Farkli gozukseler de ayni sistemin adamlaridir. Bir tarafta petrolcu, diger tarafta sendikaci olabilirler. Matrix'teki ajan karakteri gibi, herkes ve hersey olabilirler, ama aslinda tek seydirler. Onlar sistemdir, onlar makinanin ta kendisidir.
 
+McCain konuyu charter okullarindan acinca baktim, Obama dikkatle dinliyordu. Genelde politikacilar karizma yapmak icin oteki konusurken saga sola filan bakarlar (seni takmiyorum mesaji -bir de yanyana olunca birbirlerine uzakta bir sey gosterirler, iste, gosterdim bakti havalari-); Neyse, demek ki Obama secilirse bu konularda birseyler yapar diye dusundum.
 
+Secildikten sonra Obama ilk meclis konusmasinda hakikaten charter okullarindan bahsetti. Charter okullari esnek mufredatli okullar oluyorlar; sinifsiz, senkronize anlatan ogretmen / dinleyen ogrenci kavramlarini degistiriyor bazilari, ogrencilerde laptop oluyor vs. Amerika'nin devlet (public) okul sistemi efektif olarak cokmus halde, Rubber Room yazimiz bunun canli ornegi; Fakat Amerika'da cogulculuk kulturu oldugu icin charter sistemi 'alternatif' cozumler kenarda kosede kendilerine oksijen bulabiliyorlar. Bakarsiniz bu deneylerden biri tutar ve basarisi hizla kopyalanir [1].
 
+Obama charter okullarindan bahsedince, baktim, hemen eski sistemin kopekleri havlamaya basladi. Kim bunlar? Ogretmen sendikalari. Daha once bahsettik, zorunlu egitim sisteminden nemalanan bir diger topluluk ise 'isci sendikasi' olmustur. Is gucunde kendilerine rakip olabilecek kisileri okula tikarak, kendilerinin daha az sayida ve daha el ustunde olmasini garanti etmeye ugrasmislardir. Bu nokta onemlidir; derece sahibi kisinin degil, 'okula giden' cocugun olmasi icin bastirmislardir.
 
-zaman:
+Obama, Demokrat Parti'den bir baskan olarak bu sendikalari susturabilir mi? Sendikalar DP'nin arka bahcesi sayiliyor ama sendikalarin gucu her gecen gun azalmakta; altlarindaki geri kalmis uretim sistemi yavas yavas cozulmekte. Bir de, aynen fi tarihinde "Cin'e sadece Nixon gidebilirdi [2]" denildigi gibi, "sendikalari sadece Obama ikna edebilir" gibi bir soz de soylenebilir.
 
-Mart 12, 2009
+Acilen egitim sisteminde degisiklik gerekmekte. Eski sistem, 'bazi iyi okullar', ve 'bazi iyi hocalara' sahip olabilir. Problem, bu iyi okullar ve hocalari ihtiyac duyulduklari oranda olcekleyemeyecek (scale) olmamizdir. Eger nufusun cogunlugu bilgi/servis sektorunde calisacaksa, sadece nufusun 'azinligi' iyi egitime sahip olamaz. Su anki teknolojiyle bile, alaninda en iyi bilinen hocalarin derslerini dijital ortamda kaydedip her okulda Internet'ten seyrettirebilmek, ve sinif kavramindan kurtulmak mumkundur. Kanyon AVM gibi bir mekan dusunelim, dukkanlar yerine oturma / calisma / dinlenme alanlari olsun, ic mimarisi rahat koltuklarla bir nevi Starbucks'a benzesin. Bu komplekse giren 'ogrenci'nin annesi babasi nerede oldugunu bilecektir, cocuk iceride istedigi gibi ogrenim isiyle ugrasabilir. Tek zorunluluk belli 'tur' testleri belli araliklarla almasi olur. Ayrica, her cocugun boyle bir yere 'devam etmesi' gerekmez. Cocuklar 'ev isinde (ufak programlama islerinde mesela)' yardim bile edebilirler.
 
+Eski sistemin bir diger zayif bacagi, ogrencilerin tek tur bir yontemle ogrenebildigini varsaymasidir. Dinleyerek. Halbuki en az 5 degisik ogrenme sekli oldugunu biliyoruz: Okuyarak, dinleyerek, yazarak, konusarak, yaparak. Okulda inek diye bilinen cocuklar 'dinleyici' kategorisinden gelirler, diger tum kategoriler kendi haline birakilir. Istisnasiz tum unlu yazarlarin okul sistemiyle problem yasamis olmasi raslanti degildir. Bu kisiler yazarak ogrenmek istemektedirler. Daha fazla kategorinin olmasi da mumkun bunlar su anki pedagoji bilgisinin bize soyledikleri...
 
+Bakalim Amerika ve Obama ne yapacak?
 
+--
 
+[1] Efendim bu Turkiye'de olmaz, sunlar bunlar dinciler kendi baska seyler ogretir diyenlere sunu soylemek lazim. O ima ettikleri, mesela Salak Tasarimci tiplerin kullisi Amerika'da. Buna ragmen alternatifler ile deney yapiyorlarsa, ve gercek bilim ogretebiliyorlarsa, burada bir sey var demektir.
 
-
-
-
-
-
+[2] Cin'e acilimi Nixon yapabilir deniyordu cunku politika arenada en sahin politikaci Nixon idi. Yani barisci politikaci acilimi yapsa 'zayif adam bilmemne' denecekti ama Nixon icin bu soylenemezdi.
