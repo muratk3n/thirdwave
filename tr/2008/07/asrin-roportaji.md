@@ -1,6 +1,6 @@
 # Asrin roportaji
 
-![])(ozkok.JPG)
+![](ozkok.JPG)
 
 Gücün Fahisesi: Hosgeldiniz Sn. Basbakan. Nasilsiniz? Roportaja, uzlasmaya hazir misiniz?
 
