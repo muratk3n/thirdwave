@@ -1,19 +1,9 @@
 # Bankalar
 
+Bankalar diger ticari tesekkullere gore her zaman ozel bir yere sahip olmustur. Halkin tasarruflarini alip muhafaza ettikleri icin iflas durumlari tum halkin finansal durumunu ilgilendirirler, tum halki ilgilendiren seyler de dogal olarak o halkin "yoneticilerini" ilgilendirir. Ikincisi bankalar bu topladiklari tasarruflar ile borc verirler, bu baglamda ekonominin carklarinin donmesinin onemli bir bacagidirlar.
 
+Banka kurtarma operasyonlari yeni degildir; Roma Imparatorlugu zamaninda da bankalar vardir, bu bankalar batmistir. Bu batislarin birinde Imparator seferdeyken haberi alir, geri doner, bankalar kurtarilir.
 
+Ilginctir; Amerikan baskanlarinin bankalara bakislari birbirinden farkli renkler gosterir. Bu "gerekli seytan"' ve onu yoneten bankacilar, mesela, 2. baskan John Adams tarafindan hic sevilmezdi. JA. ayrica spekulatorlerden hic hazzetmiyordu. Oglu John Quincy Adams (o da baskan oldu) spekulatorlere kotu gozle bakmazdi, ama bankacilara kil olurdu. Washington (bilahere Hamilton) karsi degildi. Degisik dedik.
 
-
-zaman:
-
-Mayıs 28, 2009
-
-
-
-
-
-
-
-
-
-
+Onceki yazi Lending Club banka sisteminin "odakli" oldugundan bahsetti. Fakat bir suru banka var, nasil odakli oluyor? Soyle: Bu "ozel durumlari" sebebiyle politik liderler kendilerini bankalari yakinen gozetimde tutmak mecburiyetinde hissediyorlar.. Bunun sonucu olarak bankalari "standardize" ediyorlar. Basel II bunun ornegidir. Fakat bu "standardizasyon" bilinen bir dunyada bilinen problemlere karsi bilinen sekilde sizi korur. Ustelik beklenmeyen bir problem cikinca, tum bankalarin TAMAMININ, AYNI ANDA b.ka batmasi ihtimali vardir, ki buna sistemik risk deniyor. Iste bankalar pek cok olmasina ragmen, korkulara karsi onlara giydirilen gomlegin bazen "dar gelmesi" problem ortaya cikartabilir. Halbuki Nassim Taleb ve Arnold Kling'i dinlersek, bir sistemin "super saglam" olmak yerine "cabuk tamir edilebilir" olmasi daha iyi olabilir; ki bu da homojen degil hetrojen bir banka sistemiyle daha mumkundur. Tabii politikacilar korkularindan kurtulamayacaklar, o zaman onlarin disinda bir mecrada bir borc verme/alma sisteminin ortaya cikmasi daha iyidir. Lending Club boyle bir yapilanmayi temsil ediyor.

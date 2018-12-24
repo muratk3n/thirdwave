@@ -1,19 +1,9 @@
 # Trystorming
 
+Bu kelime İngilizce "brainstorming" kelimesinden türetilmiş, Amazon.com yöneticisi Jeff Bezos tarafından kullanıldığı soyleniyor. Brainstorming'de sürekli yeni fikirler sansürsüz şekilde ortaya atılıp, tartışılır; Trystorming'de ise hızlı bir şekilde pek çok çözüm arka arkaya denenir. Kavram yazılım dünyasında programcılar tarafından 'hacking (kurcalama, parçalama, birleştirme)" çerçevesinde iyi bilinir. Bir program rahat değiştirilebilir bir şey olduğu için özellikle bu tür deneme-yanılma-tekrar deneme döngüsüne açıktır. Ekonomi daha hızlı, bilgisel olmaya başladıkça, bu kavram girişimciler tarafından daha fazla kullanılmaya başlıyor anlaşılan.
 
+Başarının dinamikleri hakkında okuduğum bir kitapta "şansın önemi"'ne dikkat çekilmişti. Trystorming kavramı ile şansın öneminin şu şekilde bağlanabilir: Hem işleyen bir çözüme, hem de şansın denk geleceği ana (ki başarı orada gelecektir) hazır olmak için sürekli denemek gerekir; hatta bazı tur "şansların" bazı tur deneme çabaları sırasında gelmesi kolaydır. Bu bağlamda Pastor'un "şansı" sIk kullanılan örneklerden biridir.
 
+Aynı kavrama bir diğer isim fail-forward, fast (ileri doğru hızla başarısızlıklara başla) düşüncesi. Bir alanda yapılmak istenen kabaca tanımlanmış bir odak çerçevesinde hemen ileri doğru başarısızlıklar dizisi (bilahere denemeler) arka arkasına gelmelidir, tabii bunu yapan "illa başarısız olacağım" diye uğraşmaz, ama dener. Doğal olarak denemelerden bazıları işlemez, ama kişi her çabasından bir sonrakine bazı tecrübeler aktarır. Sonunda işleyen bir kombinasyona gelinmeye uğraşılır.
 
-
-zaman:
-
-Nisan 05, 2009
-
-
-
-
-
-
-
-
-
-
+Üstteki fikirler ile serbest piyasalar, demokrasi ve evrim arasındaki bağlantıyı görmemek imkansız. "Doğa deneyicilerin / kurcalayıcıların daniskasıdır (nature iş the ultimate tinkerer)" deyişi önemlidir. Piyasada fiyatlar, demokraside yönetimler denenir. Bilinmez bir gelecek ile boğuşmak için en iyi çözüm bu olmalıdır. Bireysel özgürlüklerin varlığı ise, şirketler içinde, ya da ülkeler içinde, bu "deneme sahasının" açık olması ile yakından ilgili olacaktır. Gelecek bilinemez, demek ki çözümler tanımlanamaz, o zaman toplum oluşturulamaz. Deneme/yanılma ile ileride doğru başarısızlıklar ittirilerek trystorming uygulanmalıdır.
