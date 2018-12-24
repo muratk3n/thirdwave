@@ -1,19 +1,3 @@
 # Chavez
 
-
-
-
-
-zaman:
-
-Mart 22, 2009
-
-
-
-
-
-
-
-
-
-
+Bu renkli Latin Amerika kisiligi hakkinda gecende biri 'narsisist-Leninist' tabirini kullandi ve bunu duyunca bayagi guldum. Bu tabir L. Amerika'da pek cok kez peydahlanmis lider tipini de tarif ediyor aslinda. Dan-dun konusan, atesli, "halkci", ulkesi sefalet icinde... eger petrolu yoksa. Bir diger tanim "fakirleri seviyor ve oyle kalmalarini istiyor" tanimi. Chavez bazi isleri dogru anladi ama su piyasa karsiti retorikten vazgecse iyi edecek. 2. dunya ulkeleri icin basari ve basarisizlik arasindaki fark, cogu zaman guclu bir liderdir cunku bu ulkelerin kurumlari tipik olarak zayiftir. Chavez ulkesi icin bu guclu adam olabilir. Sili'yi ornek almali ama onun akli baska yerlere kayiyor bazen...
