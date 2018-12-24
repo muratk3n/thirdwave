@@ -1,8 +1,10 @@
 ## Hiciv
 
+*halen yapım aşamasında*
+
 [Hiciv Gazetesi](/2008/01/hiciv-gazetesi-yeni-baski.md)
 
-[Denemeler](/2008/01/hiciv-denemeleri.md)
+[Denemeler](/2008/07/hiciv-denemeleri.md)
 
 [Olay Haber Hurriyet'ten](/2008/09/olay-haber-hurriyetten.md)
 

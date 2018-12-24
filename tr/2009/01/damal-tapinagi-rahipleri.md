@@ -1,37 +1,40 @@
 # Damal Tapınağı  Rahipleri
 
 
-Blogumuz bir habercilik basarisina daha imza atti; muhabirlerimiz son
-derece gizli bir orgutu gun isigina cikardilar. Bu orgut, Ata'mizin
-her sene golgesinin gorundugu Damal'da insa edilmis olan bir tapinakta
-saklaniyor... Tapinaktaki rahipler cok gizli ve olumcul, "Damal-Fu"
-adinda bir savas sanatini ogreniyorlar. Bu topluluk, kisaca Damal
+Bloğumuz bir habercilik başarısına daha imza attı; muhabirlerimiz son
+derece gizli bir örgütü gün ışığına çıkardılar. Bu örgüt, Ata'mızın
+her sene gölgesinin göründüğü Damal'da inşa edilmiş olan bir tapınakta
+saklanıyor... Tapınaktaki rahipler çok gizli ve ölümcül, "Damal-Fu"
+adında bir savaş sanatını öğreniyorlar. Bu topluluk, kısaca Damal
 Tapınağı Rahipleri olarak biliniyor.
 
 ![](damalshaolin2.jpg)
 
-En ust seviye Damal-Fu hocasinin Onder Sav oldugu ortaya cikti. Sav,
-ogrencileri arasinda "Sifu Sav" olarak aniliyor. Sanatta, Ata'mizin
-gunluk esyalarini silah olarak kullanmak en usta tekniklerden
-sayiliyor; Bunlar kultablasi firlatmak, burna ve kulaga leblebi
-sokmak, kafaya raki bosaltip kibrit cakmak olarak sayilabilir. Altta,
-Sifu Sav tekniklerden bazilarini gosteriyor.
+En üst seviye Damal-Fu hocasının Önder Sav olduğu ortaya çıktı. Sav,
+öğrencileri arasında "Sıfu Sav" olarak anılıyor. Sanatta, Ata'mızın
+günlük eşyalarını silah olarak kullanmak en usta tekniklerden
+sayılıyor; Bunlar kültablası fırlatmak, burna ve kulağa leblebi
+sokmak, kafaya rakı boşaltıp kibrit çakmak olarak sayılabilir. Altta,
+Sıfu Sav tekniklerden bazılarını gösteriyor.
 
 ![](sav-all.jpg)
 
-Damal Tapinagi Rahiplerinin rutbeleri var: Bunlar kaz, okuz, kabiz,
-geyik, duduk, ve sifu olarak siralaniyor. CHP genel baskani Deniz
-Baykal rahiplerden biri fakat su anda okuz seviyesinde. Rahipler
-gizliliklerini surdurmek icin dis dunyada rutbeler tersine cevriliyor;
-En ust seviye olan Sifu Sav'a CHP'de "yardimci" rolu verilmis ve
-Baykal "baskan" seviyesine getirilmis. Halbuki tapinaktaki rutbeler
-bunun tam tersi. Bu Sav'i korumak icin yapilmis.  Ergenekon
-yapilanmasinin Damal Tapinaginin alt islerinden sadece bir tanesi
-oldugu bildirildi. Demek ki rahiplerin rutbelerine gore Onder Sav
-Ergenekon'da "1 Numara". Ele gecirilen bir diger belgeye gore Deniz
-Baykal'in orgutlenmede "100 Numara" oldugu ortaya cikti.
-Muhabirlerimiz arastirmalarina devam ediyor... Yeni bilgileri
-okuyucularimizla hemen paylasacagiz.  Ucuncu Dalga Geliyor Blog."Ilk
-bilen siz olun".
+Damal Tapınağı Rahiplerinin rütbeleri var: Bunlar kaz, öküz, kabız,
+geyik, düdük, ve sıfu olarak sıralanıyor. CHP genel başkanı Deniz
+Baykal rahiplerden biri fakat şu anda öküz seviyesinde. Rahipler
+gizliliklerini sürdürmek için dış dünyada rütbeler tersine çevriliyor;
+En üst seviye olan Sıfu Sav'a CHP'de "yardımcı" rolü verilmiş ve
+Baykal "başkan" seviyesine getirilmiş. Halbuki tapınaktaki rütbeler
+bunun tam tersi. Bu Sav'i korumak için yapılmış.  Ergenekon
+yapılanmasının Damal Tapınağının alt işlerinden sadece bir tanesi
+olduğu bildirildi. Demek ki rahiplerin rütbelerine göre Önder Sav
+Ergenekon'da "1 Numara". Ele geçirilen bir diğer belgeye göre Deniz
+Baykal'ın örgütlenmede "100 Numara" olduğu ortaya çıktı.
+Muhabirlerimiz araştırmalarına devam ediyor... Yeni bilgileri
+okuyucularımızla hemen paylaşacağız.
+
+Üçüncü Dalga Geliyor Blog.
+
+"İlk bilen siz olun".
 
 ![](sav-NsaKidsKungFu02.jpg)

@@ -1,19 +1,19 @@
 # Baykal: Darbe olmaliydi
 
-Anayasa Mahkemesi kararindan memnun olmayan Baykal soyle bir yorum
-yapti: "Bekledigimiz darbe gerceklesmedi". Anayasa Mahkemesinin darbe
-yetkisi olmadigini hatirlatan bir gazeteciye sinirlenen Baykal: "Biz
-senin isine karisiyor muyuz?" diye ters bir yorum yapti. Yanik teniyle
-dikkatleri ceken politikaci, bir diger gazetecinin "Rusya
-bilimadamlari Baykal golune dalgic gonderdi, ne diyorsunuz?" sorusuna
-"ben senin golune atliyor muyum sen benimkine atliyorsun?" diye cevap
-verdi. Turkiye'nin ve ailesinin kisilik haklarinin ihlal edildigini
-belirten Baykal sunu ekledi: "Kendimi igfal edilmis
-hissediyorum". Ailesinin Rusya'nin Baykal gol bolgesinden geldiginin
-belirten politikaci, bundan sonra irticacilarin Suudi Arabistan'a,
-Kamalistlerin Fransa'ya, kendisini sevenlerin Baykal golune gitmesini
-soyledi. Onder Sav'in nereye gidecegi sorusu cevapsiz kaldi. Telefonu
-mesgul calan Sav, yorum icin erisilemedi.
+Anayasa Mahkemesi kararından memnun olmayan Baykal şöyle bir yorum
+yaptı: "Beklediğimiz darbe gerçekleşmedi". Anayasa Mahkemesinin darbe
+yetkisi olmadığını hatırlatan bir gazeteciye sinirlenen Baykal: "Biz
+senin işine karışıyor muyuz?" diye ters bir yorum yaptı. Yanık teniyle
+dikkatleri çeken politikaçı, bir diğer gazetecinin "Rusya
+bilimadamları Baykal golüne dalgıç gönderdi, ne diyorsunuz?" sorusuna
+"ben senin golüne atlıyor muyum sen benimkine atlıyorsun?" diye cevap
+verdi. Türkiye'nin ve ailesinin kişilik haklarının ihlal edildiğini
+belirten Baykal şunu ekledi: "Kendimi iğfal edilmiş
+hissediyorum". Ailesinin Rusya'nın Baykal gol bölgesinden geldiğinin
+belirten politikacı, bundan sonra irticacıların Suudi Arabistan'a,
+Kamalistlerin Fransa'ya, kendisini sevenlerin Baykal golüne gitmesini
+söyledi. Önder Sav'ın nereye gideceği sorusu cevapsız kaldı. Telefonu
+meşgul çalan Sav, yorum için erişilemedi.
 
 
 
