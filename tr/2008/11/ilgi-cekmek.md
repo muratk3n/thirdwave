@@ -1,20 +1,3 @@
 # Ilgi cekmek
 
-
-
-
-
-
-zaman:
-
-Kasım 02, 2008
-
-
-
-
-
-
-
-
-
-
+[Yeni kose yazisi](fahise3.zip)

@@ -1,19 +1,9 @@
 # Hindistan, Cin ve Kultur Kodlari
 
+Hindistan ile iliskilerimizin gelistirilmesi isabetli karar. Burada Kultur Kodlari adli kitabin yazari Rapaille'den bazi gozlemler aktarmak yerinde; Rapaille gectigimiz birkac yili Hindistan ve Cin'de arastirma yaparak gecirdi, ve edindigi bulgulara gore, Hindistan, yatirimcilar icin Cin'e gore daha tercih edilir bir yer.
 
+Ustada gore bunun sebepleri Konficyus'un tanimladigi ve Cin'de hala etkili olan, insanlar arasi iliskileri tanimlayan kultur kodunda: Bu koda gore Cin'de insan (ve milletler arasi) iliskilerin kultur kodu KARSILIK VERMEK (RECIPROCITY) kelimesidir. Bunun ustune Cin'lilerin tarihini nasil gordugune yakindan bakinca Cin'in daha az tercih edilir olmasi anlasiliyor. Bir Cin'liye gore tarihinde derin bir haksizliga ugramis olma durumu mevcuttur, aslinda her seyi o kesfetmistir, Avrupa'lilar gelip her seyi onlardan gasp ederek almislardir. Cin'in son zamanlardaki gelisimi ise, ona gore, eskiden yapilanlara bir "karsilik vermek" ve "hakkini geri alma" halidir.
 
+Bu aciklamaya gore yabanci sirketlerin Cin'de 10 yillik gibi uzun vadelerde yatirim yapmasi yanlistir. Rapaille, hatta, bir noktada Komunist Parti'nin birdenbire yabanci sirketleri devletlestirip mallarina el koymasinin bile "imkansiz olmadigini" soylemektedir. Bu Cin'linin kultur kodlarina uygun olacaktir, cunku kendinden alinanin "karsiligini vermistir". Rapaille 90'li yillarda Chavez oncesi zamanda yaptigi arastirmalarda Venezuela'da benzer egilimleri gormus, ve yabanci sirketlere derhal cikmalarini tavsiye etmistir. Hakli ciktigini hepimiz goruyoruz.
 
-
-zaman:
-
-Kasım 22, 2008
-
-
-
-
-
-
-
-
-
-
+Hindistan ise bambaska bir hikaye. Ulkenin altyapisi tam bir karmasa icinde, ama Hindistan'in kultur kodlarinda Cin'deki yabancilara karsi o derin guvensizlik ve saldirganlik yok. Hindistan yakin vade yatirim icin daha riskli olabilir, fakat uzun vadede cok daha iyi getirilerin olacagi dusunulmektedir.
