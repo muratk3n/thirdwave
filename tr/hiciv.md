@@ -24,7 +24,7 @@
 
 [Uzaylı magdur edildi](/2009/05/uzayli-magdur-edildi.md)
 
-
+[Baykal soyadını degistiriyor](/2009/06/baykal-soyadini-degistiriyor.md)
 
 
 

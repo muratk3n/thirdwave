@@ -1,19 +1,19 @@
 # Edge
 
+John Brockman, Edge.org hakkinda
 
+"Üçüncü kültür verişel/sayısal (empiriçal) iş yapan ve çalışmaları, yazdıkları ile artık klasik entellektüellerin yerine geçmeye başlayan bilim adamları ve diğer düşünürlerden olusuyor. Bu kişiler hayatımızın derin anlamlarını ortaya çıkarıyorlar, ne ve kim olduğumuzu tekrar tanımlıyorlar".
 
+Geçtiğimiz birkaç sene içinde Amerika'daki entellektüel oyun sahasında bir kayma meydana geldi. Klasik entellektüeller gittikçe marjinalize oluyorlar. Artık 1950 model Freud, Marx ve modernite eserlerini hatim etmiş olmak, 90 sonrası yıllarda entellektüel olmak için yeterli değil. Hakikaten de klasik entellektüeller bu sebepten dolayı gittikçe reaksiyoner bir havaya bürünmekteler; onlar çağımızın entellektüel gelişimlerden habersiz oldukları gibi bu bilmemezlikten sapkın bir şekilde neredeyse övünüyorlar. Bilimi hiç dikkate almayan kültürleri, çoğunlukla verişel değil (nönempiriçal); bu kültür kendine has bir jargon kullanıyor, kendi kirli çamaşırını kendisi yıkıyor.. Yorumları yorumlayan, yorum üstüne yorum içinde kendi kendini boğan ve sonunda gerçek dünyayla bağlantısını tamamen kaybeden bir tartışma usulü bu kültürün en karakteristik özelliğidir [1].
 
+1959 yılında Ç. P. Snow "İki Kültür" diye bir eser yayınladı. Bir tarafta edebi entellektüeller vardı, diğer tarafta bilim adamları vardı. Snow kendine inanılmaz gelen bir gözlemi de bu kitapta paylaştı; 1930 yıllarında edebi entellektüeller çaktırmadan kendilerini "tek entellektüel sınıf" olarak tanımlamışlardı - sanki başka entellektüeller yokmuş gibi. Bu yeni tanım astronom Edward Hubble, matematikçi Von Neumann, sibernetikçi Norbert Wiener, ve fizikçiler Albert Einstein, Niels Bohr, ve Werner Heisenberg'ü tamamen dışarıda bırakıyordu [..].
 
-zaman:
+Daha sonra Snow 1963 yılında kitabının ikinci baskısını yayınladı. Bu baskıda "İki Kültür: İkinci Bir Bakış" adlı yeni bir yazı vardı ve bu yazıda Snow iyimser bir şekilde bir "Üçüncü Kültür"ün ortaya çıkacağını, ve iki kültürün arasındaki boşluğu dolduracağını iddia ediyordu. Snow'un bu üçüncü kültüründe edebi ve bilimsel entellektüeller birbirleri ile konuşabilecekti. Fakat biz burada Snow'un kelimelerini ödünç almış olsak bile, üçüncü kültürün onun tahmin ettiği şekilde ortaya çıkmadığını eklememiz gerekiyor. Edebi entellektüeller hala bilim adamlarıyla konuşmuyorlar. Bilimsel entellektüeller halka direk konuşmaya başladılar. Geleneksel entellektüel medya, hep yatay bir oyun oynayagelmiştir; bu oyunda gazeteciler yukarı doğru, profosörler aşağı doğru yazardı. Bugün, üçüncü kültür düşünürleri orta tabakayı eş geçerek en derin düşüncelerini kafası çalışan okuyan halka hitap edecek şekilde, direk kendileri dile getiriyorlar.
 
-Haziran 21, 2009
+Ağır konular içeren ciddi bilim kitaplarının satış başarıları sadece klasik düşünürleri şaşırttı [2]. Onlara göre bu tür kitaplar bir "anormallik" idi. Bu kitaplar alınıyor ama "okunmuyordu". Bu görüşe kesinlikle karşıyım. Ortaya çıkan bu yeni üçüncü kültür aktivitesi insanların yeni entellektüel fikirlere karşı ne kadar büyük bir açlık hissettiklerini ispatıdır ve kendilerini eğitmek için gösterebilecekleri eforun bir göstergesidir.
 
+--
 
+[1] Belki bu "gerçekten kaçışın" önemli sebeplerinden biri, modern hayatın son derece sıkıcı, monoton bir yer olmasıdır (ya da iki dünya savaşının ispatladığı gibi dehşet verici berbat bir yer). Fakat yeni çağda artık gerçeklik tekrar ilginç hale gelmeye başladı, ayrıca yapılacak çok iş var! Herkesin bu işin bir tarafından tutması gerekiyor.
 
-
-
-
-
-
-
-
+[2] Burada iyi örneklerden biri Stephen Hawking'in A Brief History of Time kitabıdır. Kitap son derece derin konulardan bahsediyor olsa da müthiş bir satış başarısı yakaladı. Günlük işlerinde sürekli "sembolik" düşünen bilgi toplumu için, artık bu tür entellektüel egzersizler artık "erişilebilir" hale gelmiştir. Satış grafikleri arasında korelasyon arayan, pazarlama amaçlı anketleri gözleyen, istatistiklere bakan, hatta sofistike bilgisayar programları yazan "normal beyaz yakalı vatandaş" artık bu kavramları anlayabilir, en azından onlara karşı bir merak, açlık beşler hale gelmiştir.
