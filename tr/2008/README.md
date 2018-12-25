@@ -6,6 +6,8 @@
 
 [Bilgi](01/bilgi.md)
 
+[Kose yazisi](09/kaynak.md)
+
 [Bir Hikaye](01/bir-hikaye.md)
 
 [Gates ve Jobs](01/gates-ve-jobs.md)

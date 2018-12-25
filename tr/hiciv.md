@@ -30,5 +30,5 @@
 
 [Demeclerin arkasındaki sır perdesi](/2009/10/demeclerin-arkasindaki-sir-perdesi.md)
 
-
+[Tapınak rahatsız](/2009/10/tapnak-rahatsz.md)
 
