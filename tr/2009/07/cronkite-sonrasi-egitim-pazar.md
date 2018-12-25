@@ -1,19 +1,15 @@
 # Cronkite Sonrasi, Egitim, Pazar
 
+o Birlesmis Milletlerin baslattigi "Halkin Universitesi" atilimi gelecegin okulunun vizyonlarindan bir tanesi. HU kar amaci gutmeyen bir kurulus, ogrenciler dersleri Internet uzerinden video olarak seyrediyorlar, testler icin cuzi bir bedel oduyorlar. Bu daha onceki Bedava yazisinda bahsettigimiz kavramlar burada mevcut; bilgi iletimi (derslern aktarimi) artik Internet uzerinden sifira inebilir, para kazanilabilecek olan belki derecelendirmedir . Bunu yuksek olceklerde (merkezi, odakli, "hocaya" bagli olmadan) yapmak mumkun olursa, iyi bir model ortaya cikabilir. Su yazida bu alanda diger atilimlardan bahsediliyor, Obama yonetimi devletin satin alip Mahalle Kolejleri (Community College) sistemi uzerinden bedava herkese acabilecegi online dersler ile ilgileniyor. Rivayete gore bu is icin belli miktar bir para ayrilmis durumda.
 
+o TED konusmalari fenomeni ses getirmeye basladi. TED, "hic bitmeyen bir tur Davos" olarak gorulebilir, konusmalar bedava yayinlaniyor, ve konusmalar "icerigi daha yogun" olmasi icin bilerek sure olarak kisitlaniyor. Bu sayede konusma yapacak kisi, etki yaratabilecek en onemli fikirlerini hizla ortaya koymak icin tesvik edilmis oluyor. Ingilizce blog'da Stewart Brand adli bir cevrecinin konusmasini yayinlamistik. Adamimiz Parag Khanna da gecende cagrildi, videoyu cikinca burada yayinlariz. "Turkiye, boru hatlari sayesinde, AB uyesi olmadan Avro-Turkiye supergucunun bir parcasi zaten" demis. Konusmanin ana temasi "ticaretin sinirlari sekillendirdigi, altyapinin (boru hatti gibi) birlestirdigi, sinirlari deldigi" vurgusu.
 
+o Walter Cronkite sonrasi en guvenilen haberci kim? sorusunun cevabi anketlerden ortaya cikti: Yuzde 44 ile Comedy Central The Daily Show programinin sunucusu Jon Stewart. Stewart'tan ve kafadar arkadasi Stephen Colbert'ten daha once bahsettik. Colbert'in tum kariyeri zaten Bill O'Reilly ile kafa gecmek uzerine kurulu: O'Reilly neo-con cevresinin adami, Colbert aynen onun gibi asiri yorumlar yapip, bunlari abartarak (bunun icin fazla ugrasmasi gerekmiyor) iyi komedi cikartiyor. Daily Show kitle medyasi gibi "hep ortada" degil. Sorunlara tekil sekilde (case by case basis) bakiyorlar, yapilanlara bakip, elestirilecek kim varsa onu elestiriyorlar. DS ozellikle universite ogrencileri arasinda cok yaygin, cocuklar normal haber programi seyretmeyip, haberleri aslen bir komedi programi olan Daily Show'dan aliyorlar. Bu, kitlesel medyanin acinacak halinin bir diger gostergesi aslinda.
 
+o Stewart Brand konusmasi dunyanin hizla sehirlestiginden bahsediyor. Brand'a gore gecekonular onemli ekonomik tesekkullerdir! Jeomuhendislik hakkinda soylediklerine de katiliyoruz, "yobaz yesilcilere" dokundurmalarina ayni sekilde. Brand Afrika'ya yapilan yardimlarin uzun sure Greenpeace gibi organizasyonlar tarafindan illa "organik tarim" vurgusu tasidigini ve sonuc olarak tarimin negatif yonde etkiledigini soyledi. Neyse ki artik Afrika da bu yobazlarin etkisinden kurtulmaya basladi, ve genetik olarak degistirilmis tohumlar sayesinde tarim verimi artmaya basladi. Ustte bahsedilen turden tepkiler Fransa ve Almanya'da bolca mevcuttur (cikis noktasi zaten orasidir) [1], neyse ki Almanya'da duzelme belirtileri varmis.
 
-zaman:
+o Salak Fransizlar nihayet hafta sonu alisverisini yasaklayan kanunu biraz daha liberize etmeye karar vermisler. Bu degisikligi isteyen Sarkozy, kanunun gerekliliginden bahsederken Obama cifti Fransa'ya geldiginde Michelle Obama'nin Pazar gunu alisveris yapabilmesi icin magaza sahiplerini arayarak isyerlerine acmalarini istemeye mecbur oldugunu ve bunun "normal olmadigin"dan bahsetmis. Dogru. Hizlanan hayat eski gelenekleri degistiriyor. Calisma sekilleri, zamanlari, aliskanliklari degisen nufus, modern hayatta oldugu gibi "kompartmantalize" edilmis hayat bicimlerine, sekillerine girmiyorlar. Yeni bilgi ekonomisi 24x7 ayaktadir. Insanlar surekli hareket, degisim halindedirler. Modern toplumlar buna ayak uydurup degiseceklerdir.
 
-Temmuz 25, 2009
+--
 
-
-
-
-
-
-
-
-
-
+[1] Fransa ve Almanya'da bu tur kisiler genetik olarak degistirilmis yiyeceklere, Frankenstein karakterinden esinlenerek, "Frankenyiyecekler" diyerek karsi cikiyorlar... Endustri sonrasi teknolojiye karsi bu yobazlik dalgalararasi cekismenin en guzel orneklerinden; zamaninda sanayilesmede en ileri ziplamis olan toplumlardan olan Fransa ve Almanya, yeni teknoloji karsisinda urkek ve korkak bir hale dusuyor. Brand konusmasinda genetiksel olarak iyilestirilmis tohumlarin daha az ilac, daha az su, ve topraga gereksinim duyarak daha iyi verim getirdigini belirtiyor. Yobazlar bunu anlamiyorlar.

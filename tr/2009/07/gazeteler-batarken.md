@@ -1,19 +1,11 @@
 # Gazeteler Batarken
 
+Bu blog'da pek cok kez isledigimiz bir konu; Kitlesel uretim, kitlesel tuketim patlarken, dogal olarak onun ilgili yan ogelerindem biri olan kitlesel habercilik batiyor. Mitch Kapor sunlari yazmis:
 
+Bildigimiz halleriyle gazetelerin gunleri sayili. Is modellerini destekleyen sartlar artik mevcut degil. Bu durum, gazetecilik isindekiler ve gazeteleri sevenler icin muhakkak uzuntu verici bir durum, ama gazetelerin olumunu haberciligin olumu ile bir tutmamak gerekir. Bu tur "yakin iliskilendirmeler" haberciligin Internet caginda nasil tekrar yaratilacagi ve hangi is modeli ile calismasi gerekecegi konularini bulandiriyor.
 
+Kendi tecrubemizi bir veri noktasi olarak almamiz gerekirse, su anda 54 tane blog takip ediyoruz. RSS uzerinden tabii, ve bu kadar sayida blog listede olunca, hergun 4-5 tanesinde muhakkak yeni bir seyler oluyor. Google kurucusu Sergey Brin, Linus Torvalds gibi karakterler yaninda bizim arastirma yaptigimiz alanlarda at kosturan bilim adamlari, diger dusunurler, hatta normal vatandaslar var (simdilik sadece iki tanesi TR blog'u). Sabah kalkip RSS okuyucusunu acmak bir nevi gazete acip okumaya benziyor, ustelik haberleri cogu zaman onunla en ilgili kisiden direk alabiliyorsunuz.. Son zamanlarda daha hizli gunluk olaylar icin Twitter rotasyona girdi. MJ olum haberi buradan geldi. Iran olaylarini zaten buradan takip ettik.
 
+Bu rutin icinde dandik gazetelere yer yok. Begendigimiz tek tuk kalan kose yazarlarini "nokta saldiri" ile gidip okuyup cikiyoruz (bunu son zamanlarda iyice azalttik); Bunun ustune Google News'in birlestirdigi (aggregate) haber basliklarin icinden ilginc gozukenlere tikliyoruz. Bu birlesim icindeki haberlerin nereden geldigi de umurumuzda degil, son derece demokratik bir ortam aslinda, Google toparlayici (spider) algoritmalari icin bir blog ile koca (!) bir gazetenin icerigi ayni onemdedir.
 
-zaman:
-
-Temmuz 01, 2009
-
-
-
-
-
-
-
-
-
-
+Son zamanlarda gazetelerin olumu konusunun daha fazla islendigi malum, cunku San Fransisco hic bir gazeteye sahip olmayan ilk sehir olma yolunda emin adimlarla ilerliyor. New York Times zaten son 6 senedir kazancinin yuzde 70 civarini kaybetti. "Yazi artik duvarda" denir Amerikanca. Kitlesel "modern" gazetelerin gelecegi hic parlak degil. Blog'da paylastigimiz Clay Shirky yazisinin dogrulugu bir kez daha ortaya cikmis oluyor.

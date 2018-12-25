@@ -1,19 +1,14 @@
 # Toplum Kelimesi
 
+Sosyalizm, Ludwig von Mises, sf. 125
 
+Toplum kelimesi, ona eslik eden "sosyal" sifati ile birlikte, uc ayri anlama sahiptir. Toplum, ilk olarak, sosyal munasebetlere iliskin sosyal dusunceyi, ikinci olarak, bizzat bireylerden mutesekkil bir birlige iliskin somut bir mefhumu ima eder. Keskin bir sekilde birbirinden farkli bu iki anlam arasinda, ucuncusu, gundelik konusmada iki seyin arasina sıkıstırılmıstır: Soyut toplum; "beseri toplum", "sivil toplum" gibi ifadelerle kisilestirilmis olarak tasavvur edilir.
 
+Marx, terimi butun bu anlamlariyla kullanir. Bu, ayrimi butunuyle berrak hale getirdigi surece mesele olmayacaktir. Ama o tam tersini yapar. Ne zaman ona uygun gibi gozukurse, bir sihirbaz yetenegiyle onlari birbiriyle degistirir. Kapitalist uretimin sosyal niteliginden soz ettiginde, sosyal terimini soyut anlaminda kullaniyor. Krizlerden yakinan toplumlarda soz ettiginde, insanlardan mutesekkil kisilestirilmis toplumu kasteder. Ama kamulastiranlari kamulastirmasi ve uretim araclarini sosyallestirmesi gereken toplumdan soz ettiginde, gercek bir sosyal birlige isaret eder. Ve butun bu anlamlar, ne zaman ispat edilemez bir seyi ispatlamaya ugrasmak zorundaysa, iddiasinin baglantilarinda birbiriyle yer degistirir. Butun bunlarin sebebi, devlet veya onun muadili terimi kullanmadan kacinmaktir; zira bu kelime, destegine Marksist'in bastan yabancilasmak / uzak durmak istemedigi hurriyet ve demokrasiyi seven herkes icin nahos bir ses / tiniya sahiptir. Genel sorumlulugu ve butun uretimin yonlendirilmesinin devlete verecek bir programin, bu cevrelerde kabul gorme ihtimali yoktur. Bundan dolayi Marksistler, surekli olarak programin esasini gizleyen bir cumle bilimi / ifade tarzi bulmak zorundadir; bu da, demokrasi ve sosyalizmi ayirt eden kapatilamaz ucurumu gizlemede basarili olur, bu mugalatin ic yuzunu anlamayan Dunya Savasinin hemen oncesindeki on yillarda yasamis insanlarin algilamasi icin cok fazla bir sey soylemez.
 
+Modern devlet ogretisi, "devlet" kelimesinden otoriter bir terimi, sadece amaclariyla degil ayni zamanda sekliyle de ayirt edilen bir zorlama aracini anlar. Ama Marksizm, keyfi bir sekilde, devlet kelimesinin anlamini sınırlandırmıstır. Soyle ki: Onlara gore devlet kelimesi, sosyalist devleti ihtiva etmez. Ancak sosyalist yazarlarda hosnutsuzluk uyandiran devletler ve devlet teskilatlanmasi bicimleri, devlet olarak adlandirilir. Onlarin siddetle arzuladiklari gelecekteki teskilat icin bu terim, haysiyet kırıcı ve kucuk dusurucu oldugu gercekcesiyle ofkeyle reddedilir. Soz konusu teskilat, "toplum" olarak adlandirilir. Bu yolla Marksist sosyal demokrasi, bir butun halinde ve ayni zamanda, butun anarsik hareketlerle azimle savasan halihazirdaki devlet makinesinin tahribini tasarlayabilir ve son derece guclu bir devlete goturen bir politikayi takip edebilir.
 
-zaman:
+Ilgili yazilar:
 
-Temmuz 28, 2009
-
-
-
-
-
-
-
-
-
+Demagoji ve Marks, Sosyalizm, Marksizm, Sosyalizm Hakkinda, Sosyalizm ve Demokrasi, Tarihin Tozlu Raflari, Dayanisma Ideolojisi
 

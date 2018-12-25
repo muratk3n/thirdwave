@@ -1,60 +1,62 @@
 # Cuneyt Arkın Kürt açılımını destekliyor
 
-Bugun unlu sinema sanatcisi Cuneyt Arkin ile roportajimizi sunacagiz. Kendisine Kurt acilimi, AB gibi konular hakkinda sorularimiz oldu.
+![](cuneyt.jpg)
 
-UDG: Cuneyt Bey merhaba, hosgeldiniz.
+Bugün ünlü sinema sanatçısı Cüneyt Arkın ile röportajımızı sunacağız. Kendisine Kurt açılımı, AB gibi konular hakkında sorularımız oldu.
 
-Cuneyt Arkin: [cevap]
+UDG: Cüneyt Bey merhaba, hoşgeldiniz.
 
-UDG: Kurt acilimini desteklediginiz haberini aldik. Bunlar dogru mu acaba?
+Cuneyt Arkin: [[cevap](nosbulduk.wav)]
+
+UDG: Kürt açılımını desteklediğiniz haberini aldık. Bunlar doğru mu acaba?
 
 CA: Evet destekliyorum.
 
-UDG: Ama hep Turk kahramanlari oynadiniz filmlerinizde.
+UDG: Ama hep Türk kahramanları oynadınız filmlerinizde.
 
-CA: Evet ama Kurt kahramanlari da olabilir. Dilaveroglu, Necirvan Gazi, Newroz Pasa.
+CA: Evet ama Kürt kahramanları da olabilir. Dilaveroğlu, Necirvan Gazi, Newroz Paşa.
 
-UDG: Bazilari Turkiye bolunur diyor, evham yaratiyorlar.
+UDG: Bazıları Türkiye bölünür diyor, evham yaratıyorlar.
 
-CA: [cevap]
+CA: [[cevap](cahil.wav)]
 
-UDG: Bu sozlerinize tepki gosterirlerse ne yapacaksiniz?
+UDG: Bu sözlerinize tepki gösterirlerse ne yapacaksınız?
 
-CA: [cevap]
+CA: [[cevap](pence.wav)]
 
-UDG: Bu filmi hatirladim, pence takmistiniz..
+UDG: Bu filmi hatırladım, pençe takmıştınız..
 
-CA: Evet pencelerle karate yaptim
+CA: Evet pençelerle karate yaptım
 
 UDG: Unutulmaz bir klasik
 
-CA: Oyle..
+CA: Öyle..
 
 UDG: AB'ye girelim mi ne diyorsunuz?
 
-CA: AB taraftari degilim
+CA: AB taraftarı değilim
 
-UDG: Ama para, yatirim gelecek
+UDG: Ama para, yatırım gelecek
 
-CA: [cevap]
+CA: [[cevap](azpara.wav)]
 
-UDG: Katilim sureci filan iyi olmuyor mu?
+UDG: Katılım süreci filan iyi olmuyor mu?
 
-CA: [cevap]
+CA: [[cevap](sasirt.wav)]
 
-UDG: AB Bizans mi?
+UDG: AB Bizans mı?
 
-CA: Bosverin AB'yi.. onlar bize yolu sasirtacak..
+CA: Boşverin AB'yi.. onlar bize yolu şaşırtacak..
 
-UDG: Kurt acilimina tepkili olanlara ne diyorsunuz?
+UDG: Kürt açılımına tepkili olanlara ne diyorsunuz?
 
 CA: Faşo diyorum
 
 UDG: O ne?
 
-CA: Onu en iyi rahmetli Kemal Sunal soylemisti. [cevap]
+CA: Onu en iyi rahmetli Kemal Sunal söylemişti. [[cevap](faso.wav)]
 
-UDG: Tesekkurler Cuneyt Bey
+UDG: Teşekkürler Cüneyt Bey
 
 CA: N'rica n'ederim.
 
@@ -64,17 +66,3 @@ CA: N'rica n'ederim.
 
 
 
-zaman:
-
-Ağustos 24, 2009
-
-
-
-
-
-
-
-
-
-
-![](cuneyt.jpg)
