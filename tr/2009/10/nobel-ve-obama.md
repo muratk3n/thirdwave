@@ -1,19 +1,9 @@
 # Nobel ve Obama
 
+Obama Nobel Baris odulunu hak etmis miydi? Dis politikada dogru 'yone' gitmis olmaya basladigi dogru, fakat o durumda bile odul icin erken oldugu bir gercek. O zaman niye odul? Durum soyle cereyan etmis olabilir: Biraz geriye gidelim: Obama Olimpiyat'i misafir etmesi icin icin Chicago sehrine destek vermek amaciyla haldir huldur ortaliga atlamisti, "yildiz gucunu (star power)" ortaya koydu [1], fakat Chicago basarili olamadi. Simdi, bir de sunu hatirlayayalim, ABD'de Obama "Amerika'nin disaridaki imajini duzeltecegim" diye kendini satiyordu, ve son zamanlardaki genel kanaat Obama'nin disari cok sevildigi ve sayildigi uzerineydi.. Fakat Olimpiyat isi yatinca, karizma hasara ugramis oldu. Bunun uzerine ulkesindeki muhalefet hemen tingirtiya basladi, vay gittin oralara rezil ettin bizi, vs. Avrupalilar bunun uzerine telasa kapilip apar topar Obama'yi kurtarmak icin boyle bir harekette bulunmus olabilirler. Cunku Obama dis politikasi onlar icin de neo-con alternatife gore "daha iyi", o yonu "desteklemek" onlarin isine gelir. Karsi tarafa koz kaptirmamak gerekiyor.
 
+Nihai analizde Obama'nin Olimpiyat icin ortaya atlamasi bir hataydi. Herkesin kisilik olarak bir gelisme yonu vardir, kimisi baskalari yerine kendine odaklanmali, kimisi sorumluluk/risk almali, kimisi baskalarini desteklemeyi ogrenmeli, aykiri olmali, kimisi merkez sahneyi almak icin ugrasmalidir. Boyle asagi yukari 10-15 ana karakter yapisi oldugunu tahmin ediyoruz. Psikolojik analizine gore O. en sonuncusu, yani merkez sahneyi almasi gerekenlerden. Fakat dunya bir tek sizden ibaret degil; o zaman bu kisiler (ve diger tum karakterler) eger "akli olarak" dogru pozisyondalar ise "gelisim yonu" ek olarak dogru istikameti gosterecektir. Yoksa, surekli her akillarina estiklerinde bu kisiler "sadece ortaya atlayarak" tum problemleri cozemeyecektir. Aykiri olmus olmak icin olunmaz, merkez sahneyi almis olmak icin merkez sahne alinmaz. Kafayi da kullanmak gerekiyor.
 
+---
 
-
-zaman:
-
-Ekim 11, 2009
-
-
-
-
-
-
-
-
-
-
+[1] The Economist analizi bu baglamda dogrudur.

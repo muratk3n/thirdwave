@@ -1,26 +1,4 @@
-# [img]
-
-
-
-
-
-
-
-
-
-
-
-zaman:
-
-Ekim 27, 2009
-
-
-
-
-
-
-
-
-
+# Ulu Onder Soros
 
 ![](soros-bust.jpg)
+

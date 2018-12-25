@@ -1,20 +1,3 @@
 # Onemli telefon konuşması
 
-
-
-
-
-
-zaman:
-
-Ekim 30, 2009
-
-
-
-
-
-
-
-
-
-
+Ilgili kose yazisi [surada](fahise4.zip)
