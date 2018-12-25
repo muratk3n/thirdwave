@@ -32,6 +32,7 @@ başlar.
 
 [Askerlik](/2007/08/askerlik.md)
 
+[Dogu](/2009/09/dogu.md)
 
 ## Gez
 

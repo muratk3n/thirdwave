@@ -392,8 +392,6 @@
 
 [Hamidiye](09/hamidiye.md)
 
-[Khanna TED Konusmasi](09/khanna-ted-konusmasi.md)
-
 [Krugman ve Cochrane](09/krugman-ve-cochrane.md)
 
 [Kurt Bolgeleri](09/kurt-bolgeleri.md)
