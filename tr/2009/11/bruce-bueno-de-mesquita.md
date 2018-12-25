@@ -1,19 +1,7 @@
 # Bruce Bueno de Mesquita
 
+CIA icin yabanci devletlerin belli konularda politik kararlarini tahmin eden Bruce Bueno de Mesquita'nin TED konusmasi. Gelecek tahmini soz konusu olunca hemen belirtelim: Hayat tabii ki karmasiktir, kaostur, fakat burada hayattan degil politikadan bahsediyoruz. Tahmin edilen ya anlik, ya da cok kisa bir kesit uzerinde verilecek kararlar, bu kararlara girdi olarak gelen inanclar, duruslar, pozisyonlar o an icin biliniyor ve secimleri yapacak, etkileyecek aktorler o an icin belli. Muhakkak bu kararin verilisi, kisitli aktor arasinda geciyor olsa bile, cok karmasik (cunku mesela 10 aktor icin aradaki potansiyel iliski sayisi 3 milyon uzerinde -10 sayisinin faktoryel degeri-), ama o tur karmasa bilgisayarlarin halledebilecegi bir sey. Mesquita, Oyun Teorisini kullanarak bu tur kararlari, bir sonraki statustko'nun ne olacagini tahmin edebiliyor. Modele veri olarak girilen aktorlerin inanclari, motivasyonu, vs. gibi degerleri iyi bir izleyici kendi tahminlerini kullanarak bile girebilmekte, sonra bu verinin uzerinden programi atesliyorsunuz. Sonuc geliyor.
 
+CIA'nin gecende gizliligi kaldirilmis (declassified) kendi belgelerine gore Mesquita'nin basari orani yuzde 90. Foreign Policy dergisinde hakkinda guzel bir yazi cikti.
 
-
-
-zaman:
-
-Kasım 06, 2009
-
-
-
-
-
-
-
-
-
-
+Iran hakkinda tahminleri soyle: Iran nukleer silah yerine nukleer silah kalitesinde yakit imal edip "ulusal onurunu" tatmin edecektir, ama silahtan kacinacaktir. Politik baglamda Qum sehrindeki "sessiz imamlarin", "sermaye odaklarinin" gucu artacak, ve Ahmedinejat'in gucu gittikce torpulenecek.

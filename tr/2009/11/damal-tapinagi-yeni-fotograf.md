@@ -1,15 +1,11 @@
 # Damal Tapinagi - Yeni Fotograf
-Muhabirimiz Damal tapinagindaki rahiplerin yeni bir fotografini ele gecirdi. Yayinliyoruz.Ucuncu Dalga Geliyor Blog."Ilk bilen siz olun"
 
+Muhabirimiz Damal tapınağındaki rahiplerin yeni bir fotoğrafını ele
+geçirdi. Yayınlıyoruz.
 
+Üçüncü Dalga Geliyor Blog.
 
-
-
-
-
-zaman:
-
-Kasım 23, 2009
+"Ilk bilen siz olun"
 
 
 

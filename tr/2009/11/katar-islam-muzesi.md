@@ -1,23 +1,24 @@
 # Katar Islam Muzesi
-Katar Islam Muzesini ziyaret ettik. Mimarisi, ic dekoru cok guzel olmus (tasarimci unlu mimar I. M. Pei). Icinde denize dogru uzanan, gemide hissi veren bir manzarasi var. Biz pek muze gezmeyiz, ama binayi  gorme acisindan iyi oldu. Katarlilari da seyrettik. Muze girisinde portatif, ufak bir bilgisayar veriliyor, bilgisayar muze eserlerini kodunu girince gosteriyor, bir yandan eser hakkindaki bilgi de aktariyor. Bizim arkadas bakti, orada gezen Katarli Arap cocuklardan biri aleti kurcalayip alttaki isletim sistemine (windows) girmis, muze programi disindaki oteki programlarla oynuyor. Cocuklar her yerde ayni; kurcalamaya meraklilar. Biz de oyle yaptik; muze gezerken Paint programinda sekiller cizdik :) Girise de masa basinda gorevli iki Ingiliz koymuslar (Katarlilar hicbir is yapmiyor, butun islerde yabancilar istihdam edilmis), aletleri geri verince 'ooh goosh' havasinda Ingilizvari bir takim teatrel yorumlar yaptilar.Islam'da tarihi bilimsel eserler bize en ilginc gelen bolumdu. 7. yuzyildan baslayarak, 3 kitadan, pek cok milletten eserler goruluyor. Anadolu'dan cok sey var bu arada..Tavsiye ederim.
-
-
-
-
-
-
-
-zaman:
-
-Kasım 30, 2009
-
-
-
-
-
-
-
-
-
 
 ![](museum-of-islamic-art1.jpg)
+
+Katar İslam Müzesini ziyaret ettik. Mimarisi, iç dekoru çok güzel
+olmuş (tasarımcı ünlü mimar I. M. Pei). İçinde denize doğru uzanan,
+gemide hissi veren bir manzarası var. Biz pek müze gezmeyiz, ama
+binayı görme açısından iyi oldu. Katarlıları da seyrettik. Müze
+girişinde portatif, ufak bir bilgisayar veriliyor, bilgisayar müze
+eserlerini kodunu girince gösteriyor, bir yandan eser hakkındaki bilgi
+de aktarıyor. Bizim arkadaş baktı, orada gezen Katarlı Arap
+çocuklardan biri aleti kurcalayıp alttaki işletim sistemine (windows)
+girmiş, müze programı dışındaki öteki programlarla oynuyor. Çocuklar
+her yerde aynı; kurcalamaya meraklılar. Biz de öyle yaptık; müze
+gezerken Paint programında şekiller çizdik :) Girise de masa başında
+görevli iki İngiliz koymuşlar (Katarlılar hiçbir iş yapmıyor, bütün
+işlerde yabancılar istihdam edilmiş), aletleri geri verince 'ooh
+goosh' havasında İngilizvarı bir takım teatrel yorumlar
+yaptılar.
+
+İslam'da tarihi bilimsel eserler bize en ilginç gelen
+bölümdü. 7. yüzyıldan başlayarak, 3 kitadan, pek çok milletten eserler
+görülüyor. Anadolu'dan çok şey var bu arada..Tavsiye ederim.
+

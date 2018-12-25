@@ -1,19 +1,27 @@
 # Iste Osmanli
 
+Grillo'nun Pluralism and the Politics of Difference kitabindan derlenmistir
 
+Eger 'yonetimden' stabil bir idari sisteminin oldugu kastediliyorsa, 14. yuzyilin sonunda tum Balkanlarin Osmanli yonetiminde oldugunu iddia etmek oldukca zordur. Bu periyotta Osmanli hegemonyasi bir 'vassallik' sistemi uzerinden egzersiz ediliyordu, ki sistemin 15. yuzyilin basinda kendini fazla genis satha yaydigi anlasildi, I. Beyazit'in Ankara Savasi'nda yenilmesiyle Avrupa ve Anadolu'daki vassal ulkeleri bagimsizliklarini tekrar ilan ettiler [sf 77].
 
+Pek cok acidan Osmanli Imparatorlugu tipik bir patrimonyal devletidir. Weber Osmanli'yi bahsettigimiz kategoriye ornek olarak secmisti, ve zaten devletin kendini tarif edis sekli, yaptigi vurgu, sultanin mutlak pozisyonunu ve sarayin varligini sosyal iliskiler icin ornek gosteren bir haldedir. Sultan yonettigi halkin "cobanidir", ve yonettikleri onun "sürüsüdür". Osmanli tebasina verilen isim "reaya"nin Arapca dilindeki orijinal anlami "otlaktaki koyun sürüsü" kelimeleridir. Halk, ayrica daha genis anlamda da sultanin kolesidir (reayanin ve topraklarin sultana ait olmasi temel bir Osmanli kanunudur), ve reaya bu toprak uzerinde zenginlik uretmeye "mecbur" durumdadir. Bu zenginlik devleti ve onun yoneticisini idame etmek icin kullanilacaktir. Boylece, bir "adalet cemberi" olusturulur (o zamanki ismiyle), bu cembere gore, yoneticiler halka "adalet" servisi saglar [..] ve karsilik olarak, yonetilenler devletin hayatta kalmasi icin gerekli zenginligi uretirler [sf 79].
 
+Osmanli uygulamalari, cogunlukla toplumun temelini olusturdugunu ettigini iddia ettigi prensipleri kendisi cigner durumdaydi. Seriata gore musluman ulkeler arasinda savas yasakti fakat Osmanlilar bariz sekilde komsu muslumanlarin topraklarini isgal edip ele gecirmistir, hatta bu eylemleri fetwalar uzerinden legalize etmeye de ugrasmistir. Seriat, ayni sekilde, kardes muslumanlarin kolelestirilmemesini ve gayri-muslumlerin musluman yonetici altinda haklarini garanti ediyordu [..] fakat Osmanlilar devsirme sistemi uzerinden yonetimleri altindaki hristiyan halklari rutin olarak kolelik sistemine sokmaktaydi. [..] Bu uygulama 17. yuzyila kadar devam etti [sf. 82].
 
-zaman:
+14. ve 15. yuzyilin ilk bolumlerinde sultan basvezirlerini zamanin onde gelen musluman ailelerinden secmistir, mesela musluman elit icinde anahtar bir konumda olan Candarli ailesinden [2] 1359-1499 arasinda toplam alti kisi vezirlik gorevi yapmistir. Istanbul'un fethinden sonra isler degisti: bu pozisyona kapikulu seviyesinden kisiler getirilmeye baslandi [sf 84].
 
-Kasım 13, 2009
+Millet sisteminin yaptigi, ya da yapmaya calistigi, mevcut pek cok etnik / dini gruplari konsolide edip, uc veya dort genis kategoriye indirgeyerek, bir politik kontrol ve eylem sistemi yaratmakti. Bu toparlamanin kategorilenen gruplarin kendi iclerinde aslinda varolan farkliliklarini degistirmekte etkisi neredeyse sifir oldu. Mesela Ermeni milleti kategorisine sapkinlarin (heretics) dahil edilmis olmasi bu iki grup arasinda onceden mevcut, aktif kimlik hissiyatlarini hic degistirmedi. Ayni sekilde Ortadoksluk altinda Yunan ve Slavik rituellerin birlesimi Ortadoks kitle icindeki farkliligi azaltamamistir.
 
+Muslum ve gayri-muslumler, yonetilenler olarak, Osmanli yonetiminin esitsizligini paylasiyorlardi, fakat bazilari resmi olarak bazilarindan daha az 'esit' idi. [..] Gayri-muslumler onlari inananlardan ayiran degisik giysiler giymek zorundaydi, ayrica ata binmeleri ve silah tasimalari yasakti. Ek olarak, kiliselerinin camiye cevirilme ihtimali olmasina (ve bunun pek cok kez olmasina) ragmen, kendilerinin yeni kilise yapmasi yasakti. Tek yapabildikleri curumekte olan mevcut kiliseleri onarabilmekten ibaretti.
 
+Ingrao'ya gore Osmanli sultanlari arketipik oriyental despotlardi. Teoride hersey ve herkes hakkinda mutlak gucleri oldugunu iddia ediyorlar, ama pratikte imparatorlugun nasil isledigi hakkinda ilgi gostermiyorlardi [3], onlari tek ilgilendiren yonettikleri yerlerin onlara kesintisiz gelir ve asker saglamalariydi. Yonetim "normatif" olmaktan ziyade "cikarimci (extractive)" bir yapidaydi. [..]
 
+Bu ilgisizlik, Ingrao'ya gore iki seye sebep oldu: her yere yayilan ve 20. yuzyila kadar etkisini sureduren bir geri kalmislik, yolsuzluk (rusvet) ve dilsel, kulturel obeklesme / sekteryenlik. [Fakat] I. Dunya Savasi sonunda ulus-devlet sisteminin, islemedigi tamamen ispatlanmis (discredited) Osmanli modelinin yerine gecmesindeki asil sebep, cok etnikli bir yapida insanlarin bir sekilde beraber yasiyabilmeleri degil, artik o modelin diger, herkesce bilinen diger ogesi, kangrenlesmis / bozulmus / islemez (patently disfunctional) Turk politik kurumlariyla ozdeslestirilmis olmasiydi [sf 96].
 
+---
 
+[1] Yolsuzlugun ve sistemik curumuslugun bir gostergesi, yangin sondurmekle gorevli yenicerilerdir. Osmanli sisteminde eger yangin sonrasi ev sahibinin kurtarilmis mali varsa, yeniceriler o malda hak talebinde bulunabiliyorlardi. Bu kural yangini yeniceriler icin bir gelir kaynagi haline getirmekteydi; bu sebeple yenicerilerin bilerek yangin cikardigi da oluyordu. Sistemin diger yolsuzluk kaynagi 'adalet dagitan' kadilardir. Kadilik sisteminin urettigi yolsuzluk Anadolu'da halk turkulerine konu olacak kadar yaygin ve sistemiktir.
 
+[2] Osmanli, kontrolu surekli daha fazla saray merkezli yapmaya ugrasmistir. Fatih Sultan Mehmet'in icraati bunun tipik bir ornegidir. Fatih yonetimde danistigi, beraber oldugu musluman ailelerden hic hazzetmiyordu, bu aileler icinde en cekemedigi Candarli ailesi, ve bu ailedeki Candarli Halil Pasa'ydi. Fatih, Istanbul'un fethi sonrasi Candarli Halil hakkinda "aslinda Istanbul'un fethedilmesini istemedigi" ve "Bizans'tan rusvet aldigi" seklinde dedikodular yaydi ve Candarli Halil'i oldurttu.
 
-
-
-
+[3] Bu ilgisizligin tipik orneklerinden biri 4. Mehmet'tir. 24 Temmuz 1661'de Istanbul'da buyuk bir yangin cikti. Yangin uc gun uc gece surdu, 80200 ev, 300 saray ve konak, 40 hamam, carsilarda 10 bine yakin dukkan, neredeyse tum firinlar yandi. Sehrin gunluk hayati felce ugradi. 4. Mehmet bunlari hic umursamadan Edirne'de avlanmaya gitmistir.

@@ -38,7 +38,13 @@
 
 [Ata geri geldi!](/2009/11/ata-geri-geldi.md)
 
+[Beavis and Butt-head Do Turkey](/2009/11/beavis-and-butthead-do-turkey.md)
 
+[Damal Tapinagi - Yeni Fotograf](/2009/11/damal-tapinagi-yeni-fotograf.md)
+
+[Kamyoncular derneginden](/2009/11/kamyoncular-derneginden.md)
+
+[Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
 
 
 
