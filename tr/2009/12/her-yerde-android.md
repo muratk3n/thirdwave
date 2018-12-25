@@ -1,19 +1,7 @@
 # Her Yerde Android
 
+Su yazida belirtildigi uzere Google'in acik kaynakli cep telefonlari icin yazdigi isletim sistemi Android, Cin'den, Japonya'ya, cep telefonlarindan, arabalara, e-kitap okuyuculara kadar genis bir yelpazede kendini gostermeye basladi. Bu sistemi kullanmak donanim ureticilerinin cikarlarina uyuyor. Niye? Isletim sistemi acik kaynakli oldugu icin 1) hicbir sirkete 'kitlenmemis' oluyorlar, eger kafalarina eserse kodu alip kendi istedikleri farkli bir yone gidebilirler 2) acik bir platform programcilar (biz) icin cazip oldugu icin (cunku yazilan kod, beceri dagarcigi pek cok urun icin gecerli olur, boylece ogrenim icin harcanan zamandan tasarruf edilir), bu piyasa icin gelistirilen programlardan otomatik olarak faydalanabilecekler.
 
+Acaba Turkiyeli sirketlerin bu alandaki firsatlardan haberi var mi? Vestel, Android temelli bir cep telefonu ile piyasaya cikamaz mi? Oto sirketleri gomulu sistemlerde bu sistemden faydalaniyor mu?
 
-
-
-zaman:
-
-Aralık 30, 2009
-
-
-
-
-
-
-
-
-
-
+Ozellikle bahsediyorum, cunku bu sistem uzerinden "mevcut oyunculara karsi" bu alana girmek isteyebilecek sirketler icin rekabetsel bir avantaj var. Cinli ureticilerin sistemin uzerine atlamasi bir raslanti degil. Yazilim sistemi, ve onun arkasindaki ekosistem hazir olunca, bu bir is modelini hazir hale getiriyor, ve Cinli bir ureticinin Nokia gibi bir devin oldugu Avrupa piyasasina girebilmesini sagliyor. Alici hic taninmaz edilmez bir telefonu almaktan korkmuyor cunku nasil olsa icinde Android olacagini biliyor. Boylece ayni yazilim piyasasindaki urunlerden faydalanabiliyor. Surada o da anlatiliyor.

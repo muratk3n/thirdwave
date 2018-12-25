@@ -1,19 +1,4 @@
 # Danseeet
 
-
-
-
-
-zaman:
-
-Aralık 10, 2009
-
-
-
-
-
-
-
-
-
+![](5N1K-travolta.jpg)
 

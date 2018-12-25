@@ -46,6 +46,8 @@
 
 [Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
 
+[Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
 
+[16 Devlet, 25 Parti](/2009/12/16-devlet.md)
 
 

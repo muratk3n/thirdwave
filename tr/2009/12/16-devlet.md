@@ -4,20 +4,4 @@
 
 
 
-
-
-
-zaman:
-
-Aralık 12, 2009
-
-
-
-
-
-
-
-
-
-
 ![](devlet-parti.jpg)

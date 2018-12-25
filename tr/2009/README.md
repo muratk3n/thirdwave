@@ -572,8 +572,6 @@
 
 [Iran ve de Mesquita Ongorusu](12/iran-ve-de-mesquita-ongorusu.md)
 
-[Model](12/model.md)
-
 [Ocalan'in Yakalanmasi](12/ocalanin-yakalanmasi.md)
 
 [Ostpolitik](12/ostpolitik.md)
