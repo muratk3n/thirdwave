@@ -1,19 +1,4 @@
 # SI Tablet
 
-
-
-
-
-zaman:
-
-Aralık 11, 2009
-
-
-
-
-
-
-
-
-
+https://youtu.be/ntyXvLnxyXk
 

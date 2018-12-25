@@ -50,4 +50,4 @@
 
 [16 Devlet, 25 Parti](/2009/12/16-devlet.md)
 
-
+[Yeni bildiri](/2009/12/yeni-bildiri.md)

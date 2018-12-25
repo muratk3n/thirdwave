@@ -1,19 +1,5 @@
 # Ostpolitik
 
+Ahmet Davutoglu Turkiye'nin dis politikasina ornek vermek icin birlesmeden onceki Bati Almanya'nin Ostpolitik doktrininden bahsetmis. Biraz tarih: 1949-69 yillari arasinda Almanya Dogu Almanya ile iliski, irtibattan kaciniyordu. Fakat 69 secimiyle basa gelen Brandt hukumeti doguya yapilacak bir acilim baglaminda ticari, kulturel irtibatin komunist rejimin cokmesini uzun vadede daha kolaylastirabilecegini savundu. Brandt, ayrica Ostpolitik'in Bati Avrupa ve NATO ile iliskilerini zedelemeyecegini savundu. Davutoglu da TR acilimindan bahsederek asagi yukari ayni vurgulari yapti. Komsularla iyi iliskiler, Bati ile iliskiler acisindan "ya o, ya bu (mutually exclusive)" turunden bir iliski degildir.
 
-
-
-
-zaman:
-
-Aralık 02, 2009
-
-
-
-
-
-
-
-
-
-
+Ilginctir; bugun Turkiye'nin acilimina karsi yapilan tingirtilar, eskiden Ostpolitik icin, ayni aktorler tarafindan yine yapilmisti (Davutoglu'nun bu ornegi secmis olmasi, bir yandan bir mesaj da iceriyor). Hatta bu kisiler, 69 oncesi 20 yillik suren izolasyon politikasinin fazla kati oldugunu soyleyen ayni kisilerdir! (Kissenger bu listede) Korku, "eyvah bu sefer fazla mi guclu olacaklar" korkusu tabii. Muhakkak Bati Almanya bu acilimi yaparken etki alanini genisletmeyi de hedefliyordu, komunist rejimin cokmesi iyi bir 'yan etki' olacakti. Bir 20 sene sonra o cokus te vuku buldu, o noktaya gelinmesinde yardimci olan pek cok faktor arasinda Ostpolitik'in de oldugu iddia edilebilir.
