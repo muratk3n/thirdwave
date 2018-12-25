@@ -52,3 +52,7 @@
 
 [Ne Mutlu Soroscuyum Diyene](/2010/01/ne-mutlu-soroscuyum-diyene.md)
 
+[Son darbe planı: Darbuka](/2010/01/son-darbe-plan-darbuka.md)
+
+[Ata'nın gemisi inis yaptı!](/2010/02/atann-gemisi-inis-yapt.md)
+
