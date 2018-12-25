@@ -1,19 +1,15 @@
 # 0-3 Yas Arasi
 
+This American Life programindan okul oncesi egitim hakkinda ilginc bilgiler. Bilgi ekonomisinin hukum surdugu (gittikce fazlalasan) ulkelerde fakirligin en onemli sebebi egitimsizlik. Hicbir anne baba "cocugum buyuyunce koylu, isci olsun" demiyor. Hepsi "cocugum buyuyunce doktor, muhendis, vs olsun" diyorlar... Bunlar beyaz yakali isler. O zaman, cocuklarin gelecekteki beyaz yakali isleri elde edebilmesi icin ihtiyac duyduklari egitim icin, acaba okullar yeterli midir?
 
+TAL programina gore, egitim aslinda cocuk 0-3 yas arasindayken basliyor. Bu yas ozellikle fakir cocuklar icin kritik, cunku egitmen olarak anne, babalari haricinde baska kimse yok. Ve fakir aile durumunda anne, bana ne yazik ki cahil olmasi sebebiyle bu egitimi verebilecek durumda degil. Bu anneler, babalar, profosyonel orta sinif ailelerin artik neredeyse normal gordugu bazi tekniklerden habersizler.
 
+Bu teknikler cocuga kitap okumak, hata yapinca cocuga dayak yerine "mola" verdirmek (odanin bir yerinde bir tur yari-hapis durumu, 5-10 dk suruyor) gibi seyler, ve bu uygulamalar orta seviye aileler tarafindan artik surekli kullaniliyor, iyi biliniyor.
 
+Jeffrey Canada adli bir yardimsever ABD New York sehrindeki Harlem bolgesinde bir bebek koleji kurmus, ve cocuklara yardim etmek icin cocuklarla beraber anneleri, babalari da egitme amacini guduyor. Cunku anne / baba egitilebilirse, cocuga "ilk egitimi" dogru sekilde verebilir.
 
-zaman:
+80'li yillarda yapilmis bir arastirmanin sonucu inanilmaz: Arastirmacilar iki gruba ayirdiklari aileleri incemisler, bu ailelerin biri fakir aileler, digerleri profosyonel islere sahip olan aileler. Arastirmaya gore bu iki grup arasindaki en buyuk farkin "kullanilan dil" oldugu ortaya cikti. Profosyonel islere sahip olan bebekler ilk uc senesinde fakir olanlara kiyasla 20 milyon daha fazla kelime isitiyorlar, bu kelimeler ebeveynlerin cocuklarina konustuklari genelgecer sozler, ama cocuk uzerinde cok buyuk bir etki yaratiyor. Bu bulgu pek cok kisiyi sasirtti; bir cocugun ilerideki hayatinda basarisini tanimlayacak olan ebeveynlerinin parasi degil, kullandigi kelime sayisindaydi.
 
-Kasım 05, 2009
+Is bulma amacli egitim programlari veren bir kisinin gozlemleri de ilginc: Ona gore problem bir issizin sonraki isi icin ihtiyaci olan "o tek" beceriye sahip olup olmamasi degil, cogunlukla cok baz baska bir problem: Motive olamama, iyi iletisim yetenegine sahip olamama, yeni fikirlere acik olmama, kendini kontrol edememek, sabirsizlik gibi faktorler. Bu faktorler ise anaokul oncesi, cok kucuk yaslarda ogreniliyor, ve ilerleyen yaslarda gittikce ogrenilmesi daha zor hale geliyorlar.
 
-
-
-
-
-
-
-
-
-
+Fakir ve profosyonel ailelerin arasindaki farklar bununla bitmiyor: Profosyonel bir ailede cocuk 0-3 yas arasi onu cesaretlendiren, odullendiren (encouragement) icin 500,000, onu paylayan 80,000 soz duyuyor. Fakir ailelerde bu rakamlar neredeyse tepetaklak: 80,000 odul veren soz, ve 200,000 kere ceza ve paylama. Ayni arastirmaya gore sozel ve fiziksel cezalar cocugun gelisimi uzerinde cok kotu etkiler yaratiyor ve fakir ailelerin bu bulgulardan da haberi yok.

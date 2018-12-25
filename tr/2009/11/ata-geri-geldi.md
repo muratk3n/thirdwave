@@ -1,24 +1,16 @@
 # Ata geri geldi!
-Bir mucize gerceklesti. Ata'miz bir UFO ile dunyaya geri dondu. UFO, bir CHP tapinma seansi sirasinda Damal'da goruldu, olayi ilk gorenlerden biri Deniz Baykal oldu.Ata'miz goruldugu uzere iki uzayli ile ulkeye donus yapti. Yanindaki kisiler inis kulesine kendilerini "Hamdi" ve "Hakkı" olarak tanittilar. Turklerin Mu Kitasindan geldigi biliniyor, Mu Kitasina ayrica Sirius galaksisinden ziyaretciler gelmisti, demek ki uzaylilarin bizim gibi Turk olma olasiligi yuksek.UFO daha inis yapmadi, yaptiktan sonra haberleri herkes ile paylasacagiz.
 
-
-
-
-
-
-
-zaman:
-
-Kasım 24, 2009
-
-
-
-
-
-
-
-
+Bir mucize gerçekleşti. Ata'miz bir UFO ile dünyaya geri döndü. UFO,
+bir CHP tapınma seansı sırasında Damal'da görüldü, olayı ilk
+görenlerden biri Deniz Baykal oldu. Ata'miz görüldüğü üzere iki uzaylı
+ile ülkeye dönüş yaptı. Yanındaki kişiler iniş kulesine kendilerini
+"Hamdi" ve "Hakkı" olarak tanıttılar. Türklerin Mu Kıtasından geldiği
+biliniyor, Mu Kıtasına ayrıca Sırıus galaksisinden ziyaretçiler
+gelmişti, demek ki uzaylıların bizim gibi Türk olma olasılığı
+yüksek. UFO daha iniş yapmadı, yaptıktan sonra haberleri herkes ile
+paylaşacağız.
 
 
 ![](baykal-ufo.jpeg)
+
 ![](ata-ufo.jpg)
