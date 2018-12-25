@@ -88,11 +88,11 @@ Links
 
 Volatility
 
-[youtube.com/watch?v=FwpckOfUyRk](youtube.com/watch?v=FwpckOfUyRk)
+[https://youtube.com/watch?v=FwpckOfUyRk](https://youtube.com/watch?v=FwpckOfUyRk)
 
-[youtube.com/watch?v=-WJtepxbQbE](youtube.com/watch?v=-WJtepxbQbE)
+[https://youtube.com/watch?v=-WJtepxbQbE](https://youtube.com/watch?v=-WJtepxbQbE)
 
-[youtube.com/watch?v=USrojq9tgzs](youtube.com/watch?v=USrojq9tgzs)
+[https://youtube.com/watch?v=USrojq9tgzs](https://youtube.com/watch?v=USrojq9tgzs)
 
 
 
