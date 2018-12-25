@@ -2,7 +2,11 @@
 
 *halen yapım aşamasında*
 
+[Benzerlikler](/2009/12/benzerlikler.md)
+
 [Hiciv Gazetesi](/2008/01/hiciv-gazetesi-yeni-baski.md)
+
+[Kose yazisi](/2008/09/kaynak.md)
 
 [Denemeler](/2008/07/hiciv-denemeleri.md)
 

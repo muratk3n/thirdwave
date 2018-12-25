@@ -38,3 +38,5 @@ okuyucularımızla hemen paylaşacağız.
 "İlk bilen siz olun".
 
 ![](sav-NsaKidsKungFu02.jpg)
+
+(Arka plan [muzigi](https://www.dropbox.com/s/hc4i5abpnc8lkge/kungfufighting.mp3?dl=0))

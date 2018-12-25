@@ -21,7 +21,7 @@ tutulmuştu, fakat son durumun açılıyeti sebebiyle teknikler şu yüzüne
 ![](sav-new-moves2.jpg)
 
 İlk teknik Kuğu Balesi uygulanırken rakip güldürülüyor, sonra Kart
-Kürt ile şaşkınlığa uğratılıyor. En son darbe "Engerekon" ile rakip
+Kurt ile şaşkınlığa uğratılıyor. En son darbe "Engerekon" ile rakip
 etkisiz hale getiriliyor.
 
 Üçüncü Dalga Geliyor Blog.

@@ -1,16 +1,6 @@
 # Benzerlikler
-Link
 
-
-
-
-
-
-
-
-zaman:
-
-Aralık 23, 2009
+[Link](benz.html)
 
 
 
