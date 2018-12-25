@@ -46,8 +46,9 @@
 
 [Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
 
-[Krizden cıkış G şeklinde olacak](/2009/11/krizden-cks-g-seklinde-olacak.md)
-
 [16 Devlet, 25 Parti](/2009/12/16-devlet.md)
 
 [Yeni bildiri](/2009/12/yeni-bildiri.md)
+
+[Ne Mutlu Soroscuyum Diyene](/2010/01/ne-mutlu-soroscuyum-diyene.md)
+

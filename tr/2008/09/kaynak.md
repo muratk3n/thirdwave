@@ -4,37 +4,37 @@
 
 Araya KAYNAR
 
-Son zamanlarda kargasa ve karmasa goruluyor. Herkes olanlara bir sebep
-ariyor. Ben ortadan, alttan, ve ustten eszamanli olarak yaklasarak
-yeni olusuma bir model cikartmaya ugrasiyorum. Buna sag, sol, penalti,
+Son zamanlarda kargaşa ve karmaşa görülüyor. Herkes olanlara bir sebep
+arıyor. Ben ortadan, alttan, ve üstten eşzamanlı olarak yaklaşarak
+yeni oluşuma bir model çıkartmaya uğraşıyorum. Buna sağ, sol, penaltı,
 gol modeli diyorum.
 
-Herkesin beklentilerini soyle formullestirebiliriz. Dis gucler. Ulus
-devlet ve ulusotesi futbol kulupleri arasinda bir bilek guresine sahit
-oluyoruz. Herkes olaylarin kendi lehine gozukmesini istiyor ve
-mutfakta ona gore yemek yapiyor. Ben ana yemekler yerine aperatifleri
-dusunuyorum. Rus salatasi mi, Amerikan salatasi mi? Operasyonlar bu
-sekilde planlaniyor. Kimse sormuyor: "bu olanlar kime yarar?",
-"enistem beni niye optu?". Belki o sabah iyi bir tras oldun, ondan
-optu. Bunu kimse dusunmuyor.
+Herkesin beklentilerini şöyle formülleştirebiliriz. Dış güçler. Ulus
+devlet ve ulusötesi futbol kulüpleri arasında bir bilek güreşine şahit
+oluyoruz. Herkes olayların kendi lehine gözükmesini istiyor ve
+mutfakta ona göre yemek yapıyor. Ben ana yemekler yerine aperatifleri
+düşünüyorum. Rus salatası mı, Amerikan salatası mı? Operasyonlar bu
+şekilde planlanıyor. Kimse sormuyor: "bu olanlar kime yarar?",
+"eniştem beni niye öptü?". Belki o sabah iyi bir traş oldun, ondan
+öptü. Bunu kimse düşünmüyor.
 
-Soguk Savas doneminde sag sola, sol saga donuk istihbarat
-toplardi. Artik sol soldan, sag sagdan istihbarat toplamaya
-basladi. Bu karisik bir durum. Yani iki taraf ayni taraf. Benim bile
-kafam karisti. Dis gucler ic guclerle ic ice, icerisi disarida. Neler
+Soğuk Savaş döneminde sağ sola, sol sağa dönük istihbarat
+toplardı. Artık sol soldan, sağ sağdan istihbarat toplamaya
+başladı. Bu karışık bir durum. Yani iki taraf aynı taraf. Benim bile
+kafam karıştı. Dış güçler iç güçlerle iç içe, içerisi dışarıda. Neler
 oluyor? Bir salata.
 
-Istihbarat orgutlerinin takip ettigi planlar bellidir. Biri devre disi
-birakilacaksa, yurudugu yola bir muz parcasi birakilir. Bu kisi kayip
-dusunce yere basini carpar ve bundan dis orgutler faydalanir. Iki
-turlu proje vardir. A projesi, B projesi. Bu harflerin icini dis
-gucler doldurur. Zamana gore bu anlamlar degisebilir, ic gucler dis
-gucler olabilir. Ama bu harfler degismez. Muhakkak birileri
-faydalanir.
+İstihbarat örgütlerinin takip ettiği planlar bellidir. Biri devre dışı
+bırakılacaksa, yürüdüğü yola bir muz parçası bırakılır. Bu kişi kayıp
+düşünce yere basını çarpar ve bundan dış örgütler faydalanır. İki
+turlu proje vardır. A projesi, B projesi. Bu harflerin içini dış
+güçler doldurur. Zamana göre bu anlamlar değisebilir, iç güçler dış
+güçler olabilir. Ama bu harfler değişmez. Muhakkak birileri
+faydalanır.
 
-Ulkemiz artik projesi tanimlanan degil, projesini "tanimlattiran" ulke
-seviyesine gelmelidir. Ben buna C plani diyorum. Dusunce kuruluslari
-bu konu hakkinda dusunceler kurmali, bezirgan davranislardan kacinarak
-tek boyutlu siyaset yerine cok boyutlu siyasete yaklasmaliyiz.
+Ülkemiz artık projesi tanımlanan değil, projesini "tanımlattıran" ülke
+seviyesine gelmelidir. Ben buna C planı diyorum. Düşünce kuruluşları
+bu konu hakkında düşünceler kurmalı, bezirgan davranışlardan kaçınarak
+tek boyutlu siyaset yerine çok boyutlu siyasete yaklaşmalıyız.
 
 Not: Mahir Kaynak hicivlemesi, Allah rahmet eylesin

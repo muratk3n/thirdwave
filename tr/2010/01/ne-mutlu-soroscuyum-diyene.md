@@ -1,23 +1,12 @@
 # Ne Mutlu Soroscuyum Diyene
-Ulu Onder, yuce kisilik, ornek insan ulu Soros'un piyasada ilk milyon dolarini kazandigi 4 Ocak gunu torenlerle kutlandi. "Kuresel Bayram" gunu ilan edilen bu gunde, siirler okundu, ABD darphane binasina celenk birakildi, borsada spekulasyon yapildi. 'Soros cocuklari' denen grup yuruyus yaparak bir gunluk Soros'un koltuguna oturdular, o sirada bir ulkede pembe devrim bir baskasinda kur dalgalanmasi oldu. Soros cocuklarla ilgilenip harclik olarak borsa tuyosu verdi.
 
-
-
-
-
-
-
-zaman:
-
-Ocak 04, 2010
-
-
-
-
-
-
-
-
+Ulu Önder, yüce kişilik, örnek insan ulu Soros'un piyasada ilk milyon
+dolarını kazandığı 4 Ocak günü törenlerle kutlandı. "Küresel Bayram"
+günü ilan edilen bu günde, şiirler okundu, ABD darphane binasına
+çelenk bırakıldı, borsada spekülasyon yapıldı. 'Soros çocukları' denen
+grup yürüyüş yaparak bir günlük Soros'un koltuğuna oturdular, o sırada
+bir ülkede pembe devrim bir başkasında kur dalgalanması oldu. Soros
+çocuklarla ilgilenip harçlık olarak borsa tüyosu verdi.
 
 
 ![](money_usd1_10112005390_final.png)
