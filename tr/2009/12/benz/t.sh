@@ -1,5 +1,3 @@
-wget http://4.bp.blogspot.com/_HOY4UBjLVKg/SzNv0jLc3eI/AAAAAAAAAr0/0cbBsf64X6Y/s1600-h/180px-SarumanLOTR.jpg
-wget http://4.bp.blogspot.com/_HOY4UBjLVKg/SzNv7nmEafI/AAAAAAAAAr8/WDf-WDg7h5Y/s1600-h/hayrettin_karaman.jpg
 wget http://1.bp.blogspot.com/_HOY4UBjLVKg/SzNt7e1O0RI/AAAAAAAAArk/ZNf9Ksy1QXQ/s1600-h/falk.jpg
 wget http://3.bp.blogspot.com/_HOY4UBjLVKg/SzNuB3revhI/AAAAAAAAArs/nEmfEY9zwEc/s1600-h/mumtazer-turkone.jpg
 wget http://mediamass.net/jdd/public/documents/celebrities/810.jpg
