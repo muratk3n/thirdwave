@@ -1,19 +1,9 @@
 # Sehir Tercihi - 1
 
+The Technium Blog, Kevin Kelly makalesi
 
+Şehirler aslında teknolojik ürünlerdir; hatta onlara insanoğlunun ürettiği en büyük teknolojik ürün denebilir. Şehirlerin dünyada yarattığı etkiyle, içlerinde yaşayan insan sayısı birbirine oldukça orantısızdır, su grafikte gösterildiği gibi. Bu grafiğe göre tarih boyunca tüm dünyada şehirde yaşayan insanların yüzdesi %1, ya da %2 civarında seyredegelmiştir. Fakat diğer yandan tarihte "kültür" denecek neredeyse her şeyin şehirlerin içinde doğduğunu biliyoruz. Ne de olsa, konuşma dilinde şehir (city) ve medeniyet (civilization) kelimeleri aynı kökten geliyor. Ama bunu söylerken günümüzdeki innovasyon merkezlerini (technium) ortaya çıkaran dehşet boyutlarda kentleşmenin, daha doğrusu kırsal alanın şehire dönüşmesinin (urbanization) çok yeni bir oluş olduğunu belirtmeliyiz. Grafikler ilginç: Bu inovasyon merkezlerini inceleyen pek çoğunda iki yüz sene pek bir değişim görmüyorsunuz, fakat birdenbire nüfus patlıyor, inovasyon tavana vuruyor, bilgi hızla yukarı çıkıyor, özgürlükler artıyor ve şehir tepe pozisyona çıkıyor.
 
+Şehirler inovasyonun motoru olmasına rağmen, herkes şehirlerin, özellikle şu kenarlarından etrafa doğru iştahla yayılan bugünün megapolislerinin, 'güzel' olduğu fikrinde değil. Bu şehirler sanki vahşi tabiatı aç bir şekilde yiyen bir tür makina görüntüsü veriyor, ve bazılarının bu makinanın bizi de yiyip yemediği hakkında bazı düşünceleri var. Soru şu: Son zamanlarda görülen ve büyük ölçeklerde meydana gelen şehirlere göç bir ihtiyaç mı, yoksa bir gereklilik mi? İnsanlar şehirleri daha iyi fırsatlar sunduğu için mi çekici buluyor, yoksa başka bir seçeneği kalmadığı için çaresizlikten mi seçiyor? Bir insan köyün kokularını, havasını bırakıp, kötü kokulu, tavanı akan gecekonduya gelmişse, bunu mecbur olduğu için mi yapmış demektir?
 
-
-zaman:
-
-Ağustos 06, 2009
-
-
-
-
-
-
-
-
-
-
+Başlamadan önce hemen belirtelim: Her şehir hayatına bir gecekondu mahallesi olarak başlamıştır.

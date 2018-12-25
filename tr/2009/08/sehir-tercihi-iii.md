@@ -1,19 +1,9 @@
 # Sehir Tercihi - 3
 
+The Technium Blog, Kevin Kelly makalesi
 
+Eskinin fakir gecekondu mahalleleri yeni fakir gecekondu mahalleleriyle aynı yolu takip ediyorlar. Bu mahallelere ilk bakış, her insanda bir 'kirlilik' ve 'kalabalık' duygusu uyandırıyor. 1000 sene önceki bir gettoda ya da bugünkü bir mahallede barınaklar, plansız ve bozuk. Her yerden keşif kokular geliyor. Aynı zamanda her yerde enerjik, canlı bir ekonomik aktivite var. Her mahallede yiyecek yerler (eateries) mevcut, barlar bile görülüyor. Çoğunda kalacak yer, ya da bir kiralık yatak ayarlamak mümkün. Canlı hayvan, taze süt, marketler, berberler, sıfacılar, şifalı ot satanlar, tamirciler, "güvenlik" hizmeti satan güçlü silahlı kişiler.. hepsi burada. Gecekondu şehirleri hep bir tür "gerçek şehrin gölgesi" olagelmişlerdir, onlara paralel bir evrende yaşayan alternatif şehirler bile denebilir; ama bizce, bu durum onları daha az şehir yapmaz.
 
+Bu tür göçebe anlık oluşturulan şehirlerin ortaya çıkardığı yaratıcı enerjiler oldukça çekici aslında. Öyle ki, onları sadece o yabanı, uymaz, dağınık ruhlarının verdiği zevk için bazen suni şekilde yaratıyoruz. Nevada çölünde her sene düzenlenen sanat festivali Burning Man'ı ele alalım. Bu festival tam anlamıyla yarı-legal olarak içinde yaşayanları tarafından kurulan ve idare edilen anlık bir göçebe şehridir. Portatif tuvaletlere sahip olan bir gecekondu mahallesidir. Burning Man şehri her sene 40,000 kişiyi kendine çekiyor, insanlar çadırlarda, derme çatma kulübelerde, barınaklarda kalıyorlar ve her gecekondu mahallesinde olduğu gibi birbirleri ile alışveriş, pazarlık yapıyorlar, az olan eşyalarını ya da becerilerini başkaları ile paylaşıyorlar. Sakinlerinin oluşturduğu bu yapı ve ortaya çıkan hediye ekonomisi gerçekten heyecan verici. Burning Man fütüristik gecekondu yapılanması hem geçici hem de çok yoğun olduğu için hayatımda gördüğüm en yüksek konstrasyondaki yaratıcılık potansiyeline sahip bir yer.
 
-
-zaman:
-
-Ağustos 18, 2009
-
-
-
-
-
-
-
-
-
-
+Stewart Brand'in yeni kitabi Tum Dunya Disiplini'nin "Şehir Gezegen" adlı bölümünde "şehirler zenginlik üreten yerlerdir, hep böyle olmuştur" söylemi önemli. [..] "Dünyadaki 40 megaşehir nüfusun yüzde 18'ine sahip olmasına rağmen, ekonomik üretimin üçte ikisini, ve patent edilmiş 10 inovasyondan 9'una ev sahipliği yapıyor". Bir Kanadalı demografi uzmanına göre GDP büyümesinin yüzde 80 ila 90 arası şehirlerde gerçekleşiyor. Bir şehrin en yabanı (rugged) kısimleri çoğunlukla en üretken sakinlerini barındırıyor. Mike Davis'in Gecekondu Gezegeni adlı kitabında belirttiği gibi "kaldırımlarda gezinen tipik bir Hintli fakirin streotipik algılanışı aç, bilaç, kırsal kesimden yeni gelmiş, ve paraşıtık dilenme ile yaşayan bir köylü tiplemesidir. Fakat yeni bir araştırma bu kişilerin evlerinin yüzde 97'sinde ekmek parası kazanan biri olduğunu ve yüzde 70'sini en az 6 senedir şehirde yaşadığını" ortaya koymuştur. Gecekondu sakinleri genelde yakınlarındaki zengin mahallelerinde bulunan az ödeyen servis işlerinde çalışmaktadırlar, aslında paraları vardır fakat gecekondu mahallesinde yaşarlar çünkü orası işlerine yakındır. Bu kişiler pratik / yaratıcı (industrious) oldukları için hızlı ilerlerler. Bir Birleşmiş Milletler raporuna Bangkok'ta nispeten eski sayılabilecek bir gecekondu mahallesinde her evde ortalama 1.6 televizyon, 1.5 cep telefonu, bir buzdolabı, ve bu evlerin üçte ikisinde çamaşır makinası, CD-çalar, yarısında telefon hattı, ve motorsikleti olduğunu ortaya çıkarmıştır. Rio'nun "favelas (gecekondu mahallesi)" bölgesinde birinci nesil gecekondu sakinlerinin okuma / yazma oranı yüzde 5 iken, çocuklarının okuma yazma oranının yüzde 97 olduğu görülmektedir.

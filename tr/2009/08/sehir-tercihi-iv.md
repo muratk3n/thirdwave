@@ -1,19 +1,11 @@
 # Şehir Tercihi - 4
 
+The Technium Blog, Kevin Kelly makalesi
 
+Bu gelişimin bir bedeli var tabii ki; şehirler her ne kadar canlı, enerjik ve dinamik olsalar da, etekleri rahatsız edici olabiliyor. Bir varoşa girmek için çoğunlukla "kaka yolu"ndan geçmeniz gerekiyor... Kaldırımda dışkı, kenarda üst üste yığılmış toplanmamış çöpler görülmekte.. gelişmekte olan ülkelerin bu tür mahallelerine çok gittim ve bu görüntülerin eğlenceli olmadığını söylemeliyim, özellikle oraların sakinleri için. Dışarıdaki bu kirliliği telafi etmek için çoğunlukla varoş evlerinin içi şaşırtıcı derecede ferah ve sakinleştirici olur. Etraftan toplanmış / geri dönüşümü yapılmış (recycled) materyaller duvarlara konmuştur, her yer rengarenktir, ufak tefek dekoratif cisimlerin durduğu bir yer komforlu bir hava yaratır; Tabii çoğunlukla tek bir odada, normalde orada olabilecekten daha fazla insan bulunur, ama bir varoş evi çoğunlukla bir köy kulübesinden daha fazla komfor içerir. Çalıntı elektrik sürekli işlemiyor olabilir, ama en azından elektrik vardır. Suyun aktığı tek musluk önünde sıra olabilir ama köydeki kuyudan daha yakındır. Tıbbi ilaç pahalıdır ama mevcuttur. Mahallelerinde öğretmenleri "okula gelen" okullar bulunmaktadır.
 
+Bunun bir ütopya olduğu iddia edilemez. Yağmur yağdığı zaman varoşlar bir "çamur şehrine" dönüşür. Akla gelebilecek her şey için rüşvet istenmesi, verilmesi üzüntü vericidir. Buna ek olarak gecekonducuların evlerinin daha diğerlerine göre düşük, kalitesiz seviyede olmasından duydukları utanç vardır. Maksimum Şehir adlı kitabın yazarı Suketa Mehta'nın söylediği gibi "bir insan köydeki manzaralı, tuğla evini bırakıp niye buralara gelir?". Kendi sorusunu şöyle cevaplıyor: "gelir çünkü oğlunun şehrin kuzeyinde bir yerlerde iki odalı bir ev alabileceğini hayal eder. Daha küçük çocuğunun daha da ileri gidip belki New Jersey'e taşınabileceğini umar. Şimdilik rahatsızlık çekiyor olabilir, ama o bu rahatsızlığı bir yatırım olarak görür".
 
+Mehta şöyle devam ediyor: "Hint köyündeki bir genç için Mümbai'nin çekiciliği sadece parayla ilgili değildir, özgürlük ile de alakalıdır". [..] Aktivist Kavita Ramdaş şunu ekler: "Köydeki bir kadının tek yapabileceği akrabalarının ve kocasının emrine uymak, yemek hazırlamak ve şarkı söylemektir. Ama kasabaya gelirse, iş sahibi olabilir, iş başlatabilir, ve çocuklarının eğitim alabilmesini sağlar".
 
-zaman:
-
-Ağustos 25, 2009
-
-
-
-
-
-
-
-
-
-
+Araplı Bedeviler bir zamanlar dünyanın en serbest, en gezgin insanları olarak bilinirdi. Bu insanlar büyük çölleri istedikleri anda geçer, yıldızın altında istedikleri yerde kurdukları bir çadır altında konaklar, hiç kimseyi patron tanımadan yaşarlardı. Fakat Bedeviler de artık göçebe hayatlarını terkedip Arap körfez ülkelerinin hızla büyüyen gettolarında yapılan apartman dairelerine taşınıyorlar [.]. Bedeviler de şehirlerin çekiciliğine kapılıyorlar, ama oraya doğru "çekiliyorlar" kimse onları oraya doğru "itmiyor". "Her zaman eski hayatımıza dönebiliriz" diyor bir Bedevi, ama ekliyor "fakat bu hayat eskisinden daha iyi. Önceki hayatımızda tıbbi yardım yoktu, çocuklarımız için okul yoktu". 80 yaşındaki bir Bedevi lideri en iyisini söyledi: "[Böylece] çocuklarımız büyüdüklerinde daha fazla seçeneğe sahip olacaklar".

@@ -1,19 +1,16 @@
 # Şehir Tercihi - 5
 
+The Technium Blog, Kevin Kelly makalesi
 
+Göçmenlerin şehre gelmeleri gerekmiyor. Ama milyonlar üstüne milyonlar, köylerinden, çöllerden, arazilerinden çıkıp geliyorlar. Niye geldiklerini onlara sorarsanız, Mümbai'nin varoşlarındaki insanların ya da Bedevilerin verdikleri cevabın aynısını alıyorsunuz: Fırsatlar için geliyorlar. Aslında eski yerlerinde kalabilirler. Her sezon olagelmiş kuraklıklar, seller buralarda tarihin kendisi kadar eski. Dağ yamaçlarında tarım yapmanın kadim zorlukları bilinen şeyler.. Doğanın müthiş güzelliği, ailenin daha yakın olması ve yakın çevrenin sıcak desteği aynı şekilde. Eğer fırsatlar haricinde geri kalan tüm faktörler her iki tarafta eşit olsaydı, kim bir Yunan adasını, Himalaya köyünü, güney Çin'in yemyeşil bahçelerini bırakmak isterdi ki? Genç kadın ve erkekler köydeki evlerinde kalıp tarımın o tanıdık ritmlerine, annelerinin, babalarının takip ettiği küçük yerlerde kabul gören türden el işi, zanaate adapte olabilirlerdi. Bu araçlar hala geçerli. Eski gelenek hala aynı eski iyi sonuçları üretiyor. Kırsal kesimde çok az şey değişti. Yanlız artık gençlerin televizyonu var, daha büyük kasabalara ziyaretler var, ve nelerin mümkün olduğunu biliyorlar. Kalabilirlerdi. Fakat köydeki seçeneklerinin azalmamış olmasına rağmen, koyun dışında, şehirlerde seçenekler o kadar fazlalaştı ki bu durum kıyasla köylerin bir hapishane gibi görünmesine yol açıyor. Evet Amish gibi yaşamak mümkün. Ya da Wendel Berry gibi. Binlerce yıl ataların yaşadığı gibi minimalist bir şekilde yaşanabilir, kalıp teknoloji kullanımını arttırmamak mümkün. Ama onlar, gayet istekli, iştahlı bir şekilde şehirlere doğru koşuyorlar.
 
+Yani bu insanlar arkada ne bıraktıklarının gayet iyi farkında olarak sonu açık bir ortam olan şehre doğru akın ettiler. [..]
 
+Bir kere bir Himalaya köyündeki kerpiçten yapılmış bir Sherpa evinin duvarında Manhattan metrosunun haritasının kazılmış olduğunu görmüştüm. Herhalde şaka yapmak isteyen bir seyahatçı teknolojik uyumsuzluğa atıf için bu resmi oraya koymuştu. Ama Afrika'nın ve Asya'nın çoğu yerinde country-western [1] müziğini sessiz bir sokakta duymak o kadar 'uyumsuz' değil. Bu müziğin beklenmedik bir enternasyonel alıcısı var. Kenya'da bir numaralı şarkıcı Kenny Rogers. Bu ülkede birden fazla pür country çalan radyo istasyonu var. Dolly Parton Güney Afrika'da satış rekorları kırıyor. Johnny Cash'in yorumlanmış, değiştirilmiş şarkıları Afganistan'da duyulabiliyor - insanların kırsal kesimi terkettiği her yerde country müziğini beğenenler oluyor. Yani tüm dünyada. Anlaşılıyor ki daha iyi günler hakkında acılı nağmeler, müziğin sözlerini anlamasanızda, evrensel bir şekilde insanlar tarafından anlaşılabiliyor. O ağlamaklı sesler çıkaran slide gitar, kent eteklerindeki yeni evinde oturan milyonlarca insanın hissettiği nostaljiye en iyi arkadaş. Arkada bıraktıkları kırsal ortamı özlüyorlar ve bu özlemi Kenny Rogers'ın şarkılarında duyabiliyorlar. Country müziğin Amerika'da ortaya çıkışı, canlı çiftlik şehirlerinin çözülerek kent banliyösüne (suburb) dönüştüğü zamana denk gelir. Şehirlerarası yollarda, işçilerin arasında ve şehir eteklerindeki düşük kiralı evlerin olduğu yerlerde çalınıp, geride kalanları yadeden rahatlatıcı bir hatıra görevi görür. Belki de bu şarkılar bu insanlar için daha fazla aksiliği uzak tutan bir tür nazar boncuğu. Şehiri ve teknolojinin faydaları bedava değil, bu bedeli insanlar acılı müzik eşliğinde iç geçirerek ödüyor.
 
-zaman:
+Fakat bugün de, aynen geçmişte olduğu gibi, şehire doğru olan kitlesel göçün öncüleri yerleşik düzeni olan, ama daha fazla fırsat ve özgürlük için rahatsızlığı göze alarak varoşlara gelen insanlardır. Fakirlerin şehire gelişinin sebebi, zenginlerin teknolojik bir geleceğe doğru gidişinin sebebiyle tıpatıp aynı: Daha fazla seçeneğe ve daha fazla özgürlüğe sahip olmak.
 
-Ağustos 28, 2009
+---
 
-
-
-
-
-
-
-
-
+[1] Country müzik Amerika'nın arabeski olarak adlandırılabilir. Bilinen espri şu: "Bir country şarkısını geriye doğru çalarsan ne olur? Cevap: Köpeğin iyileşir, araban kendiliğinden tamir olur, seni terkeden karın geri gelir". Country müziğinde de ağlamaklı, "acılı" sözler, nağmeler vardır.
 

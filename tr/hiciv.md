@@ -26,6 +26,6 @@
 
 [Baykal soyadını degistiriyor](/2009/06/baykal-soyadini-degistiriyor.md)
 
-
+[Cuneyt Arkın Kürt açılımını destekliyor](/2009/08/cuneyt-arkin-kurt-acilimini-destekliyor.md)
 
 

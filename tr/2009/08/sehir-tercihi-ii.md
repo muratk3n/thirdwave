@@ -1,19 +1,13 @@
 # Sehir Tercihi - 2
 
+The Technium Blog, Kevin Kelly makalesi
 
+Her şehir hayatına gecekondu mahallesi olarak başlar. Bir bölgede önce bir sezonsal bir kamp oluşur, paranın, alışverişin, ticaretin, yaşamın serbestçe, ihtiyaca göre şekillendiği bir tür kamptır burası. Rahatlığına düşkün olanlar böyle yerlere gelmez, çünkü kötü kalite, kirlilik istisna değil kaidedir. Avcılar, öncüler, tüccarlar, kendine yerleşecek yer arayan gezginler burada birkaç gece kalacak konaklama bulurlar. Eğer bu kamp iyi bir yerde ise, dağınık bir köye, ya da komforsuz bir kale / hisarıcı yerleşim birimine dönüşebilir. Eğer koyun yeri büyümeye elverişli ise merkezin etrafında halkalar halinde gecekondular oluşur, ve büyümeye başlar, bu durum köy bir kasabaya dönüşünceye kadar devam eder. Kasaba zenginleştikçe idari, dini bir merkez (center) edinir, ve şehrin etekleri idare edilemez, plansız bir şekilde uzamaya devam eder. Hangi çağda, hangi yüzyılda olduğu hiç farketmez, bir şehrin o sürekli aktif 'ciğeri', şehrin yerleşik eski yaşayanlarını rahatsız ve şok eder. Yeni gelenlere kötü gözle bakma hissiyatı, dünyadaki ilk şehrin tarihi kadar eskidir. Romalılar kasabalarının eteklerindeki "çürümüş, ıslanmaktan şişmiş, dökülen, bozuk" gecekondulardan, kulübelerden aynen bu kelimeleri kullanarak şikayet etmiştir, hatta bu evleri yıkmak için asker gönderdikleri bile olmuştur. Fakat birkaç hafta sonra bu evlerin aynı yerde tekrar yapıldığını, ya da yakın başka bir yere taşındığını gözlemlemişlerdir.
 
+Babıl, Londra, ve New York şehirlerinin hepsi bu tür 'istenmeyenler, dışarıdan gelenler' tarafından yapılmış ve bazen içinde şaibeli tiplerin de gezindiği, iş yaptığı gettoları, gecekondu mahalleleri olmuştur. Tarihçi Bronislaw Geremek'e göre Orta Çağ'da Paris'in büyük bir kısmını fakir bozuk mahalleler oluşturuyordu. Paris'in en şaşalı zamanı 1780'li yıllarda bile şehrin yüzde 20'sinin ev denebilecek bir yerleşim birimi yoktu; insanlar derme çatma kulübelerde yaşıyorlardı.
 
+San Fransisco zaten gecekonducuların kurduğu bir şehirdir. Rob Neuwirth'in kitabı Gölge Şehirleri'nde çok güzel işlediği gibi 1855'te bu şehirde yapılan bir araştırma "şehir sakinlerinin yüzde 95'i oturdukları yerin kanuni izinine sahip olmadığını" ortaya çıkarmıştır. Neuwirth durumu şöyle anlatır: "Etraftan gelip bir yerlere yerleşen insanlar her yerdeydi.. çolluk yerlere, askeri alanlara, her yere yerleşiyorlardı. Bir görgü tanığına göre bir gün bomboş olan bir alan, ertesi gün yarım düzine gecekondu ve çadırla dolmuştu".
 
-zaman:
+Philadelphia için durum farklı değildi; bu şehir aynı şekilde bir gecekonducular şehridir. Ya da Shangai'da, 1940 tarihine kadar her 5 kişiden 1'i gecekonduda yaşıyordu. Bu bir milyon kişi içinde yaşadıkları mahalleyi sürekli iyileştirdiler, inşa ettiler (upgrade) ve sadece bir nesil içinde yaşadıkları o derme çatma kent, 21. yüzyılın ilk şehirlerinden biri haline dönüştü.
 
-Ağustos 12, 2009
-
-
-
-
-
-
-
-
-
-
+Süreç şöyle işliyor: Zaman geçtikçe gecekondu mahalleleri kalıcı hale geliyor. O andaki ihtiyaç için hemen kurulan barınaklar iyileştiriliyor, altyapı uzatılıyor, ve geçici sağlanan servisler resmi hale geliyor. Fakir, gayri-resmi ekonomide bazen şaibeli işlerle çalışan insanların yeri, birkaç nesil sonra zengin, gayri-resmi ekonomide bazen şaibeli işlerle çalışan insanların yeri haline geliyor. Gecekonduları doğurmak şehirlerin yaptığı bir iştir, ve şehirleri büyüten zaten bu gecekonulardaki yaşamdır. Dünyanın her modern şehrinin her mahallesi, aslında başarılı olmuş eski bir gecekondu mahallesidir. Bugünün derme çatma kenar mahalleleri yarının anlı şanlı semtleri haline geleceklerdir.
