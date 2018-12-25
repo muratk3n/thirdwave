@@ -1,19 +1,5 @@
 # Keynes, Hayek Hip-Hop
 
-
-
-
-
-zaman:
-
-Şubat 09, 2010
-
-
-
-
-
-
-
-
+https://youtu.be/d0nERTFo-Sk
 
 

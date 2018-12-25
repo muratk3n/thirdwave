@@ -1,19 +1,5 @@
 # Banka Yerine Cep Telefonu
 
+Newscientist makalesi
 
-
-
-
-zaman:
-
-Şubat 19, 2010
-
-
-
-
-
-
-
-
-
-
+[Dogu Afrika'da] SMS teknolojisini kullanarak basit telefonlar ile para transferi yapilabiliyor, boylece bir banka hesabi, kredi karti olmayan insanlar telefonlarini bir elektronik cuzdan olarak kullanabiliyorlar. Dunyada yaklasik 2.5 milyar civari insanin banka servislerine erisimi yok. Fakat cep telefonu olanlar icin mobil para iyi bir secenek. Sistem soyle isliyor: yerel mobil para gorevlisine (cogunlukla bir kose bakkali) mobil hesabiniza nakit vererek para yuklettiriyorsunuz, gorevli guvenli bir SMS mesaji ile bunu hallediyor. Bundan sonra bu para diger hesabi olanlara yine SMS ile odeme icin kullanilabiliyor. Eger odemeyi alacak kisinin mobil para hesabi yoksa, sistem onlara ozel bir kodu text halinde gonderiyor; bu kodu herhangi bir yerel gorevlisine gosterince, karsiligi olan nakit parayi alabiliyorsunuz. [..] Kenya Merkez Bankasina gore 2008'de gunde $13 milyonluk odeme, mobil sistem ile yapildi, bu miktar ayni yildaki kredi kart islemleriyle ayni seviyedeydi. Banka, 2010 yilinda mobil para ile odemelerin kredi kart kullanimini asmasini bekliyor.
