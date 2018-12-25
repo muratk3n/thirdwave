@@ -28,4 +28,7 @@
 
 [Cuneyt Arkın Kürt açılımını destekliyor](/2009/08/cuneyt-arkin-kurt-acilimini-destekliyor.md)
 
+[Demeclerin arkasındaki sır perdesi](/2009/10/demeclerin-arkasindaki-sir-perdesi.md)
+
+
 

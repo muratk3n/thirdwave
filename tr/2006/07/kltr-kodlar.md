@@ -68,6 +68,8 @@ Bu kodlara bakarak, her ülkenin ne kadar değişik renklerinin olduğunu anlam�
 
 Burada kaybedenin kimin olduğu açıkca ortadadır. Bu olayin ertesinde Rapaille Amerika'ya göç etti ve akademik araştırmalarına dayanan büyük şirketini orada başlattı.
 
+Not: Turkiye kultur kodlari icin [bkz](../../2009/09/turkiye-kultur-kodlari.md). 
+
 ----
 
 [1] Belki de bu bulgu isiginda "Transformers" filminin ABD'de niye bu kadar populer oldugunu anlayabiliyoruz. Bu cizgi filmin kurgusuna gore bazi ozel arabalar "degiserek" kollu bacakli konusan robotlar haline donusmektedirler. Arabalarin bir "kimligi" vardir. Film arabanin kultur koduna uygun tasarlandigi icin begenilmistir.

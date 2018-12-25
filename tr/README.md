@@ -34,6 +34,8 @@ başlar.
 
 [Dogu](/2009/09/dogu.md)
 
+[Egitim](/2018/10/egitim.md)
+
 ## Gez
 
 [Seneye Gore](years.md)
