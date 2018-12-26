@@ -1,23 +1,8 @@
 # Pazartesi roportaji
-Nese Duzel Pazartesi gunu roportajlarinda bir cigir acarak ilk kez kendisiyle roportaj yapti. Iki taraf surekli soru sordugu icin roportaj 7 gunde tamamlanamadi, roportajin sonraki Pazartesi gunune kadar sarkmasi bekleniyor.
 
-
-
-
-
-
-
-zaman:
-
-Mart 09, 2010
-
-
-
-
-
-
-
-
-
+Neşe Düzel Pazartesi günü röportajlarında bir çığır açarak ilk kez
+kendisiyle röportaj yaptı. İki taraf sürekli soru sorduğu için
+röportaj 7 günde tamamlanamadı, röportajın sonraki Pazartesi gününe
+kadar sarkması bekleniyor.
 
 ![](neseduzel.jpg)

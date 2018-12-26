@@ -68,7 +68,11 @@ Bu kodlara bakarak, her ülkenin ne kadar değişik renklerinin olduğunu anlam�
 
 Burada kaybedenin kimin olduğu açıkca ortadadır. Bu olayin ertesinde Rapaille Amerika'ya göç etti ve akademik araştırmalarına dayanan büyük şirketini orada başlattı.
 
-Not: Turkiye kultur kodlari icin [bkz](../../2009/09/turkiye-kultur-kodlari.md). 
+Not: Turkiye kultur kodlari icin
+
+[TR](../../2009/09/turkiye-kultur-kodlari.md).
+
+[Baba](../../2010/05/baba.md)
 
 ----
 
