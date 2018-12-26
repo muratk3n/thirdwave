@@ -94,9 +94,3 @@ Volatility
 
 [https://youtube.com/watch?v=USrojq9tgzs](https://youtube.com/watch?v=USrojq9tgzs)
 
-
-
-
-
-
-
