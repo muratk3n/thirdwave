@@ -1,19 +1,6 @@
 # Grafiti..
 
-
-
-
-
-
-
-
-zaman:
-
-Haziran 05, 2010
-
-
-
-
+![](grafiti-israil.jpg)
 
 
 
