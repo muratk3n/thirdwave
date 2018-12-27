@@ -37,6 +37,7 @@ Fikir savunmak: ISYAN EDIYORUM
 Hakli olan: EZILEN KIM
 
 Kimligini vurgulamak: TERSINI SOYLEMEK
+
 Gencler: YONTULACAK ODUN
 
 Hayat kalitesi: TEMIZLIK

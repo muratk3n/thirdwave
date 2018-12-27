@@ -12,3 +12,4 @@
 
 [Roma Mirası](../../2010/03/roma-mirasi.md)
 
+[Barbarlar](../../2010/08/barbarlar.md)

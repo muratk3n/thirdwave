@@ -70,7 +70,7 @@ Burada kaybedenin kimin olduğu açıkca ortadadır. Bu olayin ertesinde Rapaill
 
 Not: Turkiye kultur kodlari icin
 
-[TR](../../2009/09/turkiye-kultur-kodlari.md).
+[TR](../../2009/09/turkiye-kultur-kodlari.md)
 
 [Baba](../../2010/05/baba.md)
 
