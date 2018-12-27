@@ -71,3 +71,6 @@
 [Mesaj..](/2010/07/mesaj.md)
 
 [Yaverleri tanıyalım](/2010/07/yaverleri-tanyalm.md)
+
+[Soros "evet" dedi](/2010/08/soros-evet-dedi.md)
+
