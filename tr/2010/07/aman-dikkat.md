@@ -1,19 +1,3 @@
 # Aman Dikkat
 
-
-
-
-
-zaman:
-
-Temmuz 17, 2010
-
-
-
-
-
-
-
-
-
-
+En yenilikci bile olsalar, sol gecmisli olanlar dusunce hayatlarina handikapli basliyorlar. Ve bunun acisini surekli olarak cekiyorlar. Bir tanesi diyebiliyor "ulkeyi TUSIAD yonetsin (tercume: konsantrasyon). Bir baskasi diyor ki "kose yazarlari derece sahibi olmali (tercume: standardizasyon)". Sol gecmisten gelenler bu "ruhlarindaki karanligi" cok iyi gormeliler. Bu karanlik modernitenin pisligidir. Dunyada kurucu, herseyi goren, bilen (omnipresent, omnipotent) bir duzenleyici (ulke) aramak ta bu hastaligin gostergesidir. Endustriyel ideolojilerin temellerinden biri "merkezilestirme" ogesidir, ama yeni cagda bu prensip yerle bir oldu. Dunyada artik tek merkez kalmamistir. "Tek en iyi" yerini "pek cok en iyi"ye birakiyor.

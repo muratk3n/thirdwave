@@ -64,5 +64,9 @@
 
 (Taksim'de Soros büstü)(/2010/05/taksimde-soros-bustu.md)
 
+[Brekisefal Degil](/2010/07/brekisefal-degil.md)
 
+[Kılıçdaroğlu çömelmedi](/2010/07/klcdaroglu-comelmedi.md)
+
+[Mesaj..](/2010/07/mesaj.md)
 

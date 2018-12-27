@@ -1,19 +1,13 @@
 # Sanayi Sonrası Toplum Kuramları
 
+Mustafa Kemal Şan, Bilgi Toplumu blog'undan
 
+Lyotard, Baudrillard, Jameson, Foucault, Touraine ve Bell gibi modernliğin eleştiricileri, gelişmiş ileri Batı toplumlarındaki modernliğin dönüşüm eşiğinde olduğunu, modernlikten bir kopuşun yaşanmakta olduğunu, yeni bir dönemin ortaya çıktığını savunmaktadırlar. Buna karşın, Habermas, Giddens ve Gellner, iddia edildiği gibi yeni bir dönemden bahsedilemeyeceği, ancak içinde bulunduğumuz dönemin modernliğin ileri bir biçimi olduğu konusunda hemfikirdirler. [..]
 
+Büyük ölçüde kültürel alandan kaynaklanıp gelişen postmodernizm kavramı, gittikçe yaygınlaşıp daha birçok alanı kapsar hale geldi. Yalnızca postmodern resim, mimari, edebiyat ve sinemadan değil, aynı zamanda postmodern felsefe, postmodern politika, postmodern ekonomi, postmodern aile hatta postmodern kişiden söz edildiği görülmektedir. Bu durum sanayi toplumlarının yeni bir nitelendirmeyi hak edecek kapsamlı bir dönüşümden geçtiklerini ima etmektedir. Böylece yalnız postmodern bir kültürden değil, gitgide postmodern olan bir toplumda yaşamakta olduğumuz sorusu ortaya çıkıyor.
 
+Endüstriyel toplumların siyasal-kültürel mantığına şekil veren modernite teorilerinin adeta kitle üretimi düşüncesine uygun olarak savundukları homojen toplum tezlerine, postmodern söylemle karşı çıkılmaktadır. Dolayısıyla modernizmin, her yerde geçerli olabileceği yöndeki büyük boy kuramlar (büyük anlatılar) geçerliliklerini kaybetmeye başlamıştır. Öte yandan modern/endüstriyel toplumlarda homoeconomicusa indirgenen insanın diğer boyutları yeniden keşfedilmeye başlanmıştır. Üretim/yönetim sürecinde insan faktörünün önem kazanması yanısıra toplumsal sorumluluğu da artmıştır.
 
-zaman:
+Postmodernleşme iki düzlemde kendini ortaya koymaktadır. Gücün [gayri merkezilesmesi] ve çatışmaların ekonomik zeminden kopması. Modernitede politik süreç esas olarak sınıfsal ve ulusal nitelikte iken; postmodernitede sınıfsal farklar çözülmekte; ulusüstü organlar ortaya çıkmakta; global kültürel geçişler önem kazanmaktadır. Bir yandan da üretimin fiziksel araçları birikim süreci içindeki önemlerini yitirmekte; mental aktivitenin göstergesi olan bilgi yeni üretici güç olarak öne çıkmaktadır.
 
-Temmuz 05, 2010
-
-
-
-
-
-
-
-
-
-
+Bauman'a göre, postmodern [..] entelektüeller, evrensel hakikat ve akıl konusundaki her hangi bir anlayıştan hareketle topluma mutlak kurallar ve standartlar biçmekten ibaret bir rol oyna[ya]mayacaklarını artık kavramaya başlamışlardır. [..] Entelektüeller daha ılımlı bir rol oynamayı, toplulukların birbirini anlamalarına yardımcı olmak üzere bir gelenek ve görenek yorumcusu rolünü kabul etmeliler. Bu modernist yasa koyucuların yüksek konumundan bir düşüş gibi görününebilirse de, daha gerçekçi olmakla kalmayıp aynı zamanda bireylere ahlaki tercih ve sorumluluğu yeniden teslim etme avantajlarına sahiptir. Bireyler ve toplumlar kendi kaderlerine şekil verme bakımından, modernliğe ilişkin klasik toplum kuramının onlara izin verdiğinden çok daha fazla özgür olup çok daha az [tanimlanir haldedirler].

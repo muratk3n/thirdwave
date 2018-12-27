@@ -1,23 +1,11 @@
 # Brekisefal Degil
-Daha once bu olcumu Isik Kosaner icin yapmistik, simdi de "Turk kani" kavramindan bahseden Ilker Basbug icin yapiyoruz. 1930'lu yillarda Mustafa Kemal'in tesvikiyle olusturulan Turk Tarih Tezine gore Turkler brekisefal kafatasina sahiptir. Bu yapiya gore kafatasinin eninin boyuna orani 0.85'ten buyuk olmalidir. Basbug icin piksel bazli yaptigimiz olcumlere gore sonuc 69 / 110 = 0.62 cikiyor. Bu sayi 0.85'ten kucuktur, demek ki TTT'ye gore Ilker Basbug Turk degildir.
 
-
-
-
-
-
-
-zaman:
-
-Temmuz 17, 2010
-
-
-
-
-
-
-
-
-
+Daha önce bu ölçümü Isik Koşaner için yapmıştık, şimdi de "Türk kanı"
+kavramından bahseden İlker Başbuğ için yapıyoruz. 1930'lu yıllarda
+Mustafa Kemal'in teşvikiyle oluşturulan Türk Tarih Tezine göre Türkler
+brekisefal kafatasına sahiptir. Bu yapıya göre kafatasının eninin
+boyuna oranı 0.85'ten büyük olmalıdır. Başbuğ için piksel bazlı
+yaptığımız ölçümlere göre sonuç 69 / 110 = 0.62 çıkıyor. Bu sayı
+0.85'ten küçüktür, demek ki TTT'ye göre İlker Başbuğ Türk değildir.
 
 ![](basbug.jpg)
