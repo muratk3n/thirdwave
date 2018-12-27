@@ -1,12 +1,9 @@
 # Güven Tazeleme Ritueli
 
 
+[Güven Tazeleme Ritueli - 1](guven-tazeleme-ritueli-1.md)
 
-
-
-zaman:
-
-Temmuz 15, 2011
+[Güven Tazeleme Ritueli - 2](guven-tazeleme-ritueli-2.md)
 
 
 

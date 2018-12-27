@@ -104,7 +104,7 @@
 
 [Cumhuriyet ilelebet payidar kalacaktır](/2011/07/cumhuriyet-ilelebet-payidar-kalacaktr.md)
 
-
+[Everything is something happened](/2011/07/everything-is-something-happened.md)
 
 
 
