@@ -74,3 +74,4 @@
 
 [Soros "evet" dedi](/2010/08/soros-evet-dedi.md)
 
+[S tipi hareket](/2010/09/s-tipi.md)
