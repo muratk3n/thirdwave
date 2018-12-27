@@ -11,7 +11,7 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-[Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
+27/12 - [Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
 
 26/12 - [Green Train](/2018/12/train.md)
 
