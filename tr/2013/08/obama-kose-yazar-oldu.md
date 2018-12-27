@@ -1,6 +1,6 @@
 # Obama köşe yazarı oldu
 
-
+![](images.jpeg)
 
 Türkiye'nin değerli okuyucuları; Mayıs ayında Sabah gazetesinde yayınlanan yazımın çok ilgi çekmesi üzerine, bu gazeteden köşe yazılarına devam etmem için teklif aldım. Teklifi kabul ettim ve bundan böyle Sabah'ın sayfalarında yazılarımla sizle beraber olmanın mutluluğunu yaşayacağım.
 
@@ -60,18 +60,3 @@ Barack Obama
 
 
 
-
-zaman:
-
-Ağustos 31, 2013
-
-
-
-
-
-
-
-
-
-
-![](images.jpeg)

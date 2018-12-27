@@ -1,4 +1,5 @@
 # Uzlaşılan maddeler açıklandı
+
 1) Türkiye'nin üç tarafı denizlerle çevrilidir.
 
 2) Yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer.
