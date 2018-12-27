@@ -1,10 +1,10 @@
 # Galaksi çapında bir röportaj - 2
 
 
+![](nese-hamdi1.jpeg)
 
-
-Neşe Düzel: Ata'nın yaveri Hamdi Türkedön ile röportajımızın ikinci bölümüne uzay gemisinde devam ediyoruz.
-
+Neşe Düzel: Ata'nın yaveri Hamdi Türkedön ile röportajımızın ikinci
+bölümüne uzay gemisinde devam ediyoruz.
 
 Hamdi Bey, şimdi geminizdeyiz. Buraya nasıl geldik? Bir parlaklık oldu, sonra sandalyem ile buraya geldim. Işınlandık mı?
 
@@ -127,20 +127,3 @@ Ben teşekkür ederim
 
 
 
-
-
-
-zaman:
-
-Temmuz 13, 2012
-
-
-
-
-
-
-
-
-
-
-![](nese-hamdi1.jpeg)

@@ -1,25 +1,21 @@
 # Senkronizasyon
-Kuzey KoreAlmanya19 Mayıs  - TürkiyeIlgili: Endustriyel Ideolojilerin Temelleri
 
-
-
-
-
-
-
-zaman:
-
-Aralık 21, 2011
-
-
-
-
-
-
-
-
-
+Kuzey Kore
 
 ![](images.jpeg)
+
+Almanya
+
 ![](nazi.jpeg)
+
+19 Mayıs  - Türkiye
+
 ![](images2.jpeg)
+
+Ilgili: Endustriyel Ideolojilerin Temelleri
+
+
+
+
+
+

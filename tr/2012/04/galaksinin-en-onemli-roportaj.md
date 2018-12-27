@@ -1,7 +1,6 @@
 # Galaksi çapında bir röportaj - 1
 
-
-
+![](neseturk2.jpeg)
 
 Neşe Düzel - Sirius Galaksisinden dünyayı ziyarete gelen Ata'nın yaverleri Hamdi Türkedön ve Hakkı Daum ile irtibata geçtik, Hamdi Bey bize röportaj için zaman ayıracağını belirtti. Röportajda dünya, galaksi ve evrensel konulara değinildi. 
 
@@ -84,24 +83,3 @@ Bu söz ne demek istiyor, anlayamadım,  mantık dışı bir ifade. Herkes Türk
 Teşekkür ederim Hamdi Bey.
 
 Ben teşekkür ederim. 
-
-
-
-
-
-
-
-zaman:
-
-Nisan 22, 2012
-
-
-
-
-
-
-
-
-
-
-![](neseturk2.jpeg)

@@ -1,19 +1,5 @@
 # Eğitim Sansürü
 
+Evrim teorisini anlatan bazı Web sayfaları Türkiye'nin İnternet'i kontrol eden bir kurumu tarafından "çocuklar için uygunsuz" olarak etiketlendi [ve erişimi engellendi ..] Medya ve akademisyenlerden gelen tepkiler üzerine erişim tekrar sağlandı, fakat son raporlara göre bu sitelere erişim okullarda hala yasak.
 
-
-
-
-zaman:
-
-Aralık 24, 2011
-
-
-
-
-
-
-
-
-
-
+Ilgili: Ozel Olmayan Insanlik, Salak Tasarım

@@ -1,6 +1,6 @@
 # Galaksi çapında bir röportaj - 3
 
-
+![](nese-hakki.jpeg)
 
 Neşe Düzel - röportaj dizimize bugün farklı bir konukla devam ediyoruz - Hakkı Daum. Kendisiyle galaksi-ötesi yayın dizimize farklı bir açıdan yaklaşmaya çalışacağız.
 
@@ -19,8 +19,6 @@ Biz daha önce Hamdi Bey ile söyleşi yaptık sizden çok bahsedildi, kulağın
 Soyadınız Daum.. Fenerbahçeli misiniz?
 
 Ben Belediyespor taraftarıyım. Annem aslında hasta Fenerli, ondan bana böyle bir soyadı verildi.. Bu konunun detaylarını başka bir röportajda anlatmıştım.
-
-
 
 Sirius'ta herkes Fenerli değil mi? Hamdi Bey'den öyle bir intiba aldım sanki..
 
@@ -68,6 +66,7 @@ Dikkat edeyim peki.. Son sorum: Ata ile seyahat etmek nasıl?
 
 Kendisi ile seyahat edebilmek tam bir seref bizim icin. O  en büyük Türk dinimizin peygamberi ölümsüz Ata'mız [ayağa fırlar]
 
+```
 Atam!
 Oydu Met’lerde, Oğuz Kağan’larda
 Oydu Orhun yazıtları’ndaki destan
@@ -77,6 +76,7 @@ Karşısında onu buldu her düşman.
 Çökmedikçe üstümüze mavi gök
 Göçmedikçe altımızda yağız yer,
 Durdukça evren uzar gider uzayda Atatürk
+```
 
 İlginç bir şiir.
 
@@ -92,18 +92,3 @@ Ben teşekkür ederim. Mistik Türk Gücü sizinle olsun.
 
 
 
-
-zaman:
-
-Eylül 02, 2012
-
-
-
-
-
-
-
-
-
-
-![](nese-hakki.jpeg)

@@ -1,19 +1,17 @@
 # Üniversite 2.0
 
+Eğitimde güzel gelişmeler oluyor. Google'ın şoförsüz araç (ABD'de Zafer Çağlayan'ı gezdiren otomobil) projesinin mimarı Alman profosör Sebastian Thrun, Stanford Üniversite'sinde bu ve benzer teknikleri Yapay Zeka (YZ) diye bir derste anlatan bir hocaydı. Geçtiğimiz sene dersi Internet üzerinden anlatmaya başladı, derslerin kaydını basit bir video ile evinde bir kağıt üzerine yazarak yapmış [video]. Dersi bir yandan da sınıfta öğretmeye devam etmiş.
 
+İlginc olan su ki ders video'ları Internet'ten paylaşılınca normal sınıftaki birkaç yüz olan öğrencilerin sayısı birdenbire 20'ye düşmüş. Stanford öğrencileri bile "sizi video formatında tercih ediyoruz hocam" demişler. Video'nun ilk bariz avantajı anlaşılmayan bir nokta olursa geri sarılabilmesi.
 
+Fakat Thrun'u en çok etkileyen, dersi ABD ve dünyanın her yerinden takip etmeye başlayan onbinler ve hocaya gönderdikleri mesajlar. Öğrenciler, Afganistan'da sabah bombalardan kaçan kontrol noktalarından gecmeye uğraşıp akşam nihayet vakit bulunca YZ dersini seyredip ödevini yapan kişiden, elinde bebek mutfak masasında ders takip eden anneye kadar genis, cesitli bir kitle.. Thrun insanların öğrenmeye olan açlıklarını, ve yeni teknolojiyle ne kadar fazla insana erişebileceğini farketmiş ki, Stanford'daki işinden istifa ettiğini acıkladı [1]. Udemy adlı bir şirket başlattı, bu bir eğitim sitesi, Thrun ve diğer hocalar burada derslerini görsel, yazılı tüm materyelleri ile beraber İnternet üzerinden paylaşacaklar, ve erişim bedava olacak.
 
+Bir diğer atılım Fakulte Projesi. Bu proje, benzer bir şekilde, alanında ünlü, bilinen hocalara gidip, derslerini kaydetmeleri icin teklif götürüyor. Hoca kabul ederse teknik altyapı sağlanıyor ve dersleri İnternet üzerinden paylaşılıyor.
 
-zaman:
+Bizim konu hakkındaki pozisyonumuz net: araştırma ile uğraşmayan tüm öğretmenler işten atılmalıdır. Her konu hakkında alanında en iyi hocaların kaydedeceği dersler İnternet üzerinden milyonlara servis edilebilir, tahta önünde ders anlatan onu dinleyen öğrenci devri bitmiştir. Eski yöntem kaliteyi herkese eriştirememesi sebebiyle hem eksik, hem de kalitesizliği, averajlığı çok fazla kişiye ulaştırması açısından tehlikelidir.
 
-Ocak 30, 2012
+Liseler, üniversiteler aslında pek çok farklı işi aynı anda yapmaya uğraşıyorlar; dersin öğretilmesi, öğrencinin bilgisinin kontrol edilmesi / sertifikasyon. Fakat bu iki işi de doğru dürüst yapamıyorlar, öğretme işi yeterince hocayı, yeterince kaliteyi servis edemiyor, endüstriyel ölçüm tekniği de (notlar) işlemiyor. Khanacademy kurucusu Salman Khan'ın söylediği gibi "bisiklete binmeyi öğretirken cocuga 'geçer' not vermediğimize göre -ki çocuk sonra motorsiklete geçip kafasını kıracak-, niye diğer derslerde de amaç çocuğu tam başarıya eriştirmek olmasın?" Şu anda bu yapılamıyor, çünkü eğitim senkronize ve standardize. Ders başlıyor, bitiyor, hoca geliyor, gidiyor, öğrenci orada olmalı, orada anlamalı, yoksa kaçırıyor, herkes aynı şablona sokuluyor. Bu çağda bu düzen gereksiz, yetersiz ve aptalca.
 
+--
 
-
-
-
-
-
-
-
-
+[1] Thrun'un istifa ettiği pozisyon ABD üniversitelerinde "tenure" adı verilen sözleşmeli bir pozisyon, tenure sahibi olan hocalar ya çok uzun süreli, ya da ömür boyu iş garantisine sahiptir. Tam bir akademik, finansal özgürlük anlaşılacağı gibi. Thrun'un Google'daki pozisyonu sebebiyle finansal korkusu yok tabii ama yine de Stanford'daki tenure pozisyonunu bırakmak için hakikaten iyi bir sebep olması gerekir.
