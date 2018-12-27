@@ -60,9 +60,9 @@
 
 [Pazartesi roportaji](/2010/03/pazartesi-roportaji.md)
 
-(Damalische Kamalismus und Faschismus)(/2010/05/damalische-kamalismus-und-faschismus.md)
+[Damalische Kamalismus und Faschismus](/2010/05/damalische-kamalismus-und-faschismus.md)
 
-(Taksim'de Soros büstü)(/2010/05/taksimde-soros-bustu.md)
+[Taksim'de Soros büstü](/2010/05/taksimde-soros-bustu.md)
 
 [Brekisefal Degil](/2010/07/brekisefal-degil.md)
 
