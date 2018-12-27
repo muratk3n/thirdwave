@@ -1,19 +1,9 @@
 # Bir Lojistik Destek Mekanizması Olarak Piyasa
 
+Link ve Graeber kitabindan
 
+Yönetimler niye vergi toplarlar? Bu sorulması pek alışık olunmayan bir sorudur [..] Diyelim ki bir kralın aktif 50,000 kişilik bir orduyu beslemesi, desteklemesi gerekiyor. Eğer hareket halinde değillerse, kadim, ortaçağ şartlarında böyle büyük bir insan grubunu beslemek çok zordur, onları desteklemek için neredeyse ordudaki asker sayısı kadar hayvan ve çalışan insan olması gerekir. Fakat bu problemin kolay bir çözümü vardır. Eğer kral askerlere bastığı paraları verirse, sonra kraliyetteki tüm ailelerin ona vergi vermesini ve bu vergiyi verirken askerlere dağıtılan paraları kullanmasını şart koşarsa, tek bir kalemde tüm ulusal ekonomi bir askeri lojistik destek makinesi haline döner, çünkü o noktadan sonra krallıktaki her aile bir şekilde askerlere verilen paraları elde etmek zorundadır, ve bunu için onlara yiyecek, içecek satmak için yarışacaktır. [Sadece] bir yan etki olarak piyasa ortaya çıkar [..].
 
+Bu çok detaylı bir tarif olarak görülmeyebilir, fakat tarihi kayıtlara göre piyasanın, pazarların eski ordular etrafında birden bire peydahlandığı bir gerçektir. Kautilya'nın Arthasasatra'sı, Sasanilerin "egemenlik halkası", ya da Çinlilerin "Tuz ve Demir Hakkında Düşünceler" eserleri / kavramlarına bir göz atmak bunu anlamak için yeterlidir. Bu eserlere bakınca anlarız ki kadim yöneticiler maden ocakları, askerler, vergiler, yiyecek konuları hakkında çok kafa patlatmışlardır [..] Demek ki Adam Smith'e dayanan ve güya "devlet ve piyasanın birbirine ters olduğunu" düşünen pür serbest piyasacı görüşün aksine, tarihi kayıtlara göre aslında tam tersi vuku bulmuştur.
 
-
-zaman:
-
-Kasım 25, 2011
-
-
-
-
-
-
-
-
-
-
+Benzer şekilde modern banka sistemi Avrupa savaşlarını finanse etmek için kurulmuştur. Sonra Merkez Bankaları bu sistemi kurumsallaştırdılar çünkü idare ettikleri borç devletin savaş borcuydu. Bu hep böyle olmuştur. Hatta işin ucu ta 1694' uzanıyor, o zaman Kral William II ona Fransa'yla savaş için £1.2 milyon borç vermiş bazı Londralı tüccarlara kendilerine "İngiliz Bankası" deme hakkını tanıdı, ve kralın tüccarlara olan borcunu resmi kağıt para olarak başkalarına borç verebilmesi imkanını tanıdı. Bu sayede mevcut para sistemi doğdu. Modern para sistemi aslında devletin savaş borcudur.

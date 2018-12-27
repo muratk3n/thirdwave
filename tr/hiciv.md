@@ -112,9 +112,9 @@
 
 [Garga gak dedi](/2011/09/garga-gak-dedi.md)
 
+[Flaş.. flaş..](/2011/11/flasflas.md)
 
-
-
+[Vicdani ret](/2011/11/vicdani-ret.md)
 
 
 
