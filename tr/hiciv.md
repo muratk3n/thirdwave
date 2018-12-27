@@ -84,3 +84,6 @@
 
 [Mesaj..](/2011/01/mesaj.md)
 
+[20 Soru](/2011/20-soru.md)
+
+
