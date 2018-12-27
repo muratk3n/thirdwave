@@ -90,8 +90,10 @@
 
 [Mesaj..](/2011/03/mesaj.md)
 
+[Japonya'daki ırkdaşlarımız hayatta](/2011/04/japonyadaki-irkdaslarimiz-hayatta.md)
 
+[Secilen yer düsündürücü](/2011/04/secilen-yer-dusundurucu.md)
 
-
+[YSK: Tepkileri anlamiyoruz](/2011/04/ysk-ilgi-gosterdik.md)
 
 

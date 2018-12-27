@@ -1,19 +1,7 @@
 # Bağlantıcı Elit
 
+[Baglantici Elit - 1](baglantc-elit-1.md)
 
-
-
-
-zaman:
-
-Haziran 24, 2011
-
-
-
-
-
-
-
-
+[Baglantici Elit - 2](baglantici-elit-2.md)
 
 

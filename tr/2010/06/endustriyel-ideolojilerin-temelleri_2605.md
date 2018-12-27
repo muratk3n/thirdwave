@@ -14,7 +14,7 @@
 
 [Endustriyel Adam](../../2008/03/endustriyel-adam.md)
 
-
+[Bağlantıcı Elit](../../2011/06/baglantc-elit.md)
 
 
 
