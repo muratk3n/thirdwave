@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+[Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
+
 26/12 - [Green Train](/2018/12/train.md)
 
 21/12 - [Slack](/2018/12/slack.md)
