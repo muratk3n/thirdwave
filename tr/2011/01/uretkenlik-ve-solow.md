@@ -1,19 +1,5 @@
 # Uretkenlik ve Solow
 
-
-
-
-
-zaman:
-
-Ocak 13, 2011
-
-
-
-
-
-
-
-
-
-
+Nobel odullu ekonomist Robert Solow 1987 yilinda soyle der:
+"Bilgisayar caginin izlerini her yerde goruyorsunuz, sadece
+[ekonomistlerin] uretkenlik istatistiklerinde goremiyorsunuz".
