@@ -1,5 +1,20 @@
 # Uzakdoğu'da ülkücü genclik
-Türkcülügün etkileri tüm dünyaya yayılmaya devam ediyor: Japonya'da ilk kez  bir ülkücü ocagı acıldıgı haberi alındı. Basına bildiri veren grup sozcusu Takanoda Sokanomu "biz nihayet kökümüzü kesfettik, tarihimizi inceleyince, aslında 'Ada Türkleri' oldugumuzu anladık" yorumunu yaptı.Sokanomu "tum hayatımızı Türkcülük prensiplerine gore tanzim ediyoruz, sushiyi kımızla yiyoruz, aynı anda kafayı da buluyoruz; boylece sakeye ihtiyacimiz kalmadı, Ulu Turk Ulus'una ait olmak butcemizi de rahatlattı" yorumunu yapti. Genclik kültürünü korumak icin bazi film calismalarini destekleyecek. Japon tarihindeki gelmis gecmis ilk Samuray'i egitenin Battal Gazi oldugu biliniyor; bu tarihi olayi konu alan, basrolde unlu sanatcılar Tako Watanabe ve Abe Ito'nun rol alacagı "Battal Gazi'nin Babasının Oglu" adlı bir film cekilecek, Japonlara gercek kulturlerini anlatacak senlikler hazirlanacak.
+
+Türkçülüğün etkileri tüm dünyaya yayılmaya devam ediyor: Japonya'da
+ilk kez bir ülkücü ocağı açıldığı haberi alındı. Başına bildiri veren
+grup sözcüsü Takanoda Sokanomu "biz nihayet kokumuzu keşfettik,
+tarihimizi inceleyince, aslında 'Ada Türkleri' olduğumuzu anladık"
+yorumunu yaptı.Sokanomu "tüm hayatımızı Türkçülük prensiplerine göre
+tanzim ediyoruz, sushiyi kimızla yiyoruz, aynı anda kafayı da
+buluyoruz; böylece sakeye ihtiyacımız kalmadı, Ulu Türk Ulus'una ait
+olmak bütçemizi de rahatlattı" yorumunu yaptı.
+
+Gençlik kültürünü korumak için bazı film çalışmalarını
+destekleyecek. Japon tarihindeki gelmiş geçmiş ilk Samuray'ı eğitenin
+Battal Gazi olduğu biliniyor; bu tarihi olayı konu alan, başrolde ünlü
+sanatçılar Tako Watanabe ve Abe İto'nun rol alacağı "Battal Gazi'nin
+Babasının Oğlu" adlı bir film çekilecek, Japonlara gerçek kültürlerini
+anlatacak şenlikler hazırlanacak.
 
 
 
