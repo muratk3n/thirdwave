@@ -106,8 +106,11 @@
 
 [Everything is something happened](/2011/07/everything-is-something-happened.md)
 
+[Alex: Tüm planlardan haberim vardı](/2011/08/alex-tum-planlardan-haberim-vard.md)
 
+(Mesaj..)[/2011/08/mesaj.md)
 
+[Garga gak dedi](/2011/09/garga-gak-dedi.md)
 
 
 
