@@ -1,19 +1,7 @@
 # Wikileaks - 6
 
+04ANKARA7106 kodlu sizinti, sene 2004
 
+Turk[iye] Devleti'nin tarihten ne kadar korktugunun orneklerinden biri Ankara'dan JITEM'e bir gun verilen "Ermeni ayirimciligiyla mucadele edilmesi" emridir herhalde. Kontagimizin JITEM'de tanidiklari bu emirin yerine getirilmesinde niye ustelendigini anlayamadiklarini, kafalarini karistigini soylemisler cunku Guneydogu'da bugun itibariyle zaten bir avuc Ermeni kalmis durumda. Bu emiri yerine getirmek zorunda olanlar basarisiz olacaklarindan emin bir sekilde ise baslamislar, sonra bolgede bir "Ermeni ayrimciligi" bulmaya ugrasirken farketmisler ki Ankara aslinda suphesini cok detayli bir sekilde tutulan ve Turkiye'de, ozellikle dogu ve guneydogu gibi belli bolgelerde vatandaslarinin kacinin Ermeni asilli oldugunu gosteren bir nufus kutugune dayandiriyor. Kayitta Ermeniler Osmanli gorevlileri tarafindan toplu sekilde goc ettirilip, olduruldukleri zamanda gonullu ya da zorlu olarak donmus olanlari detayli sekilde gosteriliyor. Uzakta kalmis ve gizlenen bu Ermeni baglantisi o kadar yaygin ki kontagimiza aktarildigina gore JITEM bir defasinda Ermeni asilli bir koy imami ile bile karsilasmis [..]
 
-
-
-zaman:
-
-Haziran 20, 2011
-
-
-
-
-
-
-
-
-
-
+Nufus kutugu Osmanli sisteminin devamini ispatlar nitelikte. Kayit [Avrupa'da] yerel kiliselerin baptizm amacli tuttugu kayitlara benziyor ama daha merkezi ve detayli, ve onun bugun bile muhafaza edilmesi aslinda insanlarin arasinda suregelen "yabanci olana" asiri boyutlardaki dikkat ve hatta ondan duyulan bir tur korkuyu da gozler onune seriyor.
