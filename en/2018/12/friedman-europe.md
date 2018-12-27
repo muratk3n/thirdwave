@@ -1,6 +1,6 @@
 # Friedman on US, Europe, The World
 
-[![](http://img.youtube.com/vi/ael-tJmrODCZmmw/0.jpg)](http://www.youtube.com/watch?v=tJmrODCZmmw)
+[![](http://img.youtube.com/vi/tJmrODCZmmw/0.jpg)](http://www.youtube.com/watch?v=tJmrODCZmmw)
 
 Great talk. Key takeaways:
 
