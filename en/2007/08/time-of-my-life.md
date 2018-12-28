@@ -1,24 +1,9 @@
 # Time of My Life
 
+I am lovin' the show called How I Met Your Mother! I guess stars aligned just right so people at my age at the peak of their "single" spending power get a show geared towards directly at them. It must have been time.. I mean, who else can enjoy the through dress down exercised on Dirty Dancing? All the Patrick Swayze references? I am so really enjoying (part of) Holywood and the showland at this point. I used to read Spiderman, now I have the movie with all bells and whistles. I used to watch Simpsons, now I have two hours worth of it! Cool^2 bro!
 
+Back to HIMYM. In episode "First Time In New York". Everyone recounts their "first time" doing "you know what". The person who is least expected to have his first time beyond his 20s happens to be Barney, the womenizer/player-in-chief who tries to hide that fact and whenever asked, starts telling story of the movie Dirty Dancing - "we were in love, but his dad would not approve. I would say it was the time of our lives" [here they play the soundtrack Time of Our Lives]. I mean , I was on the floor laughing. It doesn't get any better than this. Why does 80s get me cracking up so bad? Secretly, I miss those times I guess. It was so plastic. You know, like shiny, plastic, and fake. Like shiny robots (see Slap Bet of HIMYM). It was innocent, stupid and fun. It was part of my generation's history..
 
+But in any case, all Holywood, TVland, direct-to-DVD productions. Hear this: Do whatever you do, just keep'em coming as fast as you can. When the time comes you make nostalgic movies about Ashlee's, Paris' and whatever other skanks there are - I will stop watching then. By that time, I will probably have my own VR gaming company who lets people enjoy their dream world through an interface hooked up through their brain - which will make art production irrelevant and hence any acting useless, but until then, please keep doing whatever you are doing.
 
-
-at
-
-August 02, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Plus, just in case this civilization goes defunct, you gotta have some place to have all your social references stored. Come on. Gotta think long term.

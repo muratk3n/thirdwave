@@ -1,24 +1,21 @@
 # Discontinuity
 
+"Wasn't he a big deal some time ago?"
 
+I am sitting across someone couple decades older than me, and I just got this reply after mentioning Toffler's works and his future vision. I received getting this reply quite a few times that I finally decided to address the issue here, as it betrays some misconceptions about our current framework and how we got here and why.
 
+Point #1: Through reverse engineering of my acquittance's mind, I can tell with certainty that the "some time ago" usually means the 90s. That point, in turn, betrays another train of thought in the questioner's mind: "Oh he must be one of those consultant cum self-help gurus that flashed and burned during that era" and "I am sure there are others like him now". Well, I cannot decide where to start addressing this thought pattern, so I will just start applying the technique I use to fix old transistor radios - by kicking it from the side.
 
+Toffler came to the fore, by which I mean common men's consciousness (such as the one I mentioned above), during the 90s - because, during that time two things happened that were directly related to him. One, his followers came to power in big numbers from both sides of the isle, White House, Congress and the Senate all at once. Two, Internet bubble began to grow which bases itself on knowledge economy which is something Toffler predicted back in 80s. The fact that the bubble burst later is irrelevant as people in US are still part of knowledge/service economy dealing with intangibles more than the tangibles and are following a different mode of production instead of the old industry style "massified" production.
 
-at
+The students: The biggest follower of all is good ol' Newt. Yes, that Newt. I know, to Clintonites, he was the root of all evil, prince of Darkness, etc, but listen to him closely. When I was in US, I could never put my finger on the enigma that was Newt - he was painted as ultra-conservative, neo-fascist right winger, but you see the man on TV and he is using words such as "Coke is in the presentation business. Their product never changes, water with sugar. What they have to do, therefore, is finding different presentation methods for this same product and create consumer excitement". Not bad isn't it? This is pretty deep analysis and a sign of someone who is on the outside looking in, rather than part of such-and-such ideology and bowing in front of gods of the Republican money machine. I knew than he was different, these "outliers" had stuck to my mind for a long time until I saw who was interviewing the master on C-SPAN for his latest book: Newt.
 
-August 22, 2007
+There is more. Al Gore, and through him the Clinton White House, and ex-secretary of state Willian Cohen were all avid readers of Third Wave.
 
+Point #2: Toffler's vision in 80s put knowledge economy to forefront but Future Shock talked about the hyper accelerated results (and its adverse effects) of new "de-massified" economy back in 70s. Toffler continued and expanded this line of work in Revolutionary Wealth in 2000s.
 
+Future Shock and Third Wave were big hits when they came out before .com, CNN, biotechnology. These books effected so many people and helped to guide US (and China, and Japan, and Singapore, and South Korea) in such a big way that the ideas became like the air we breathe - they became part of our daily lives in US, we know they are there, but don't see them, don't feel them anymore because at some level, we don't have to. They are just there.
 
+Which puts our generation at an awkward position. The vision in Third Wave has ingrained itself in current life so predominantly that we have a hard time describing it to someone else who is from a different country or from a different age group who still has not come in contact with this new economy (there are still some). Therefore we have a hard time describing the reality we are living to such people.
 
-
-
-
-
-
-
-
-
-
-
-
+That's why, I think, it's essential people get steeped in Third Wave, Revolutionary Wealth because the new mode of economy needs to spread, it needs to be described to neophyte in no-uncertain terms. Backward countries must understand they cannot win on a "second wave only" strategy anymore using old fashioned mode of production with side effects such as mass education, mass entertainment and heavy bureaucratization. They must know indust-reality will give them a "democracy charade" that is two parts integrator elite one part mass voting, which also brings about with it heavy centralization. No, such countries must be able to produce artifacts for knowledge economy instead of simply using the fruits of them, stop plundering their environment and leaving a darkened future for their children. They must see as number of people who has written a single line of computer code in their lives increase, it will mean radical change in thinking, living and expectation of democracy, economy and governing structure of these people and their society in general which will effect their countries' future.
