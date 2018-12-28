@@ -1,24 +1,13 @@
 # T4 Was Good
 
+I saw Terminator Salvation today; it was an enjoyable movie. McG has done a good job. He managed to push the story forward with enough interesting characters and twists, taking all involved 'out of their element' and putting them into situations, exploring what they would do to overcome those difficulties. Superb. 'The universe' created for T4 was interesting too. [spoiler] You have mototerminators, hydrabots, etc. essentially representing army, navy, air forces in real world, with the only difference being that in T4 these forces are completely controlled by machines.
 
+I like the fact that John Connor isn't just some military leader barking orders left and right; he is a kind of a hacker, a tech dude, snatching a mototerminator when he needs a ride, sharing gems of knowledge about how to disable a terminator, knowing his enemy inside out.
 
+But the best part of all was seeing Ahnuld the Terminator "back" in T4. I was like: "Is this the real Ahnuld?". He looked very young, sort of as his T2-self; I did some search and it turns out those images were taken from earlier Terminator movies and inserted into this movie using some CGI magic, and for the body work they used another "bodybuiler turned actor" from Austria no less; so a combinaton of all of that made Arnie the Governator come alive. Those scenes weren't long though, director made sure Arnie outer layer is blasted with some sort of heat weapon so that only the metal insides remain, no more Arnie CGI after that point. It was a nice touch though.
 
+Before I saw the movie I was worried about the reviews and previews hinting that it would be some kind of hi-tech Mad Max; T4 certainly has elements of that, but there is also more to T4 than short-haired version of Mel Gibson runnin around in a motorcycle. You could argue sometimes the movie becomes a Transformers knock-off, but I don't think anyone can claim ownership of the "huge killer bots gone wild" genre - Terminator was there long before anyone dared to tread, so it can do any robot oriented action scene it pleases while still claiming authenticity.
 
-at
+But let me say this; the Terminator universe and story base is so rich that you could make 10 alternate versions of T4 if you wanted to. Imagine the technologies you could let humans have, let them discover so they can utilize them.
 
-June 05, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Another wish of mine is that final Terminator trilogy to accomplish what Matrix trilogy could not; waging an all out war against Skynet and in the last installation, showing us its total destruction brought about by humans. That would be a satisfactory conclusion.

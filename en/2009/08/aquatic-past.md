@@ -1,24 +1,5 @@
 # Aquatic Past?
 
+An interesting disagreement in evolutionary theory is about our distant ancestors: Some claim we have an aquatic past, meaning our real ancestors lived in water, that we did actually descend from the land apes. This theory sounds interesting and plausable in many levels. Apparently skills such as mastering speech requires concious control of your breath, which land apes cannot, but a creature living in water would need to. There is also the issue of nakedness; land based evolutionary theory suggests that we shed our hair once we lost the use for it - however aquatic theory says all naked animals, such as rhinos, elephants have an aquatic past, and if our evolutionary path followed their pattern, it would mean our ancestors did not shed their hair, the claim is we never had it to begin with. In water hair would be of no use.
 
-
-
-
-at
-
-August 02, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Aquatic ape theory has been brought to conciousness by Alister Hardy, and popularized further by Elaine Morgan. Her TED talk can be watched here. It's an interesting idea. I have to say, seeing creatures like Michael Phelps, I am tempted to aggree with this view.. The man is a fish! :)

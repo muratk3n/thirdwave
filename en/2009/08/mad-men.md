@@ -1,24 +1,9 @@
 # Mad Men
 
+Advertising. 60s. Politics. Big City. Put it all together, you get one of the hottest dramas in TV land today; Mad Men. The show revolves around a successful advertising guru Don Draper, a character created specificaly to reflect on a society torn between two waves. Through Draper, we witness life in an economy whose main actors are now white collar workers. Advertisers "dream up" new ways to sell, they analyze society, try to exploit its wishes, its language, past. It is no coincidence the show starts off with Draper working on a challenging project, in a restaurant no less, on a napkin. Meanwhile he strikes a conversation with his waiter, who is black, he is asking him why likes certain product he uses and what would it take him to switch to his customers' product. Right there, we have "mind work" which can be achieved in a restaurant, on a napkin (mobile work), and en environment that brings, needs to bring, all aspects of society together; Draper is talking to a black man. The fact that this is seen a "taboo" back then is painfully made aware to us through a restaurant manager who chides the waiter for "talking too much" to a (white) customer.
 
+But bigger forces are at play here. For Draper, the waiter is not black, nor white; he is a potential customer. His wishes, preferences are important to him, and once we hear them, we understand they are not much different from our's after all. The man is a human. He has a wife, kids, and money he can spend. We get to know one another, understand the world little better.
 
+First episode is full of similar storylines. A faster paced economy brought all aspects of society together who never came into contact before. A Jewish businesswoman, an owner of a department store in Manhattan, has bigger plans for her father's business. Her father sold to Jewish people alone, she wants to sell to everyone. All kinds of prejudices come to surface during their first meeting; Male / female, majority / minority relations are all there in bare display.
 
-
-at
-
-August 20, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+But most interesting character is, still, the show's intended focus, Draper. He is fairminded and least prejudiced among anyone around him. He is respectful to women as much a man in that age can be, is open minded, and overall, curious about things around him which is why he is probably successful in his business to begin with. While his co-workers are on womanizing, ethnobashing, caveman bonding trips, he talks to people, wants to understand what makes them tick. He is an ideal of sorts, someone safe to associate with, and through him we start exploring the beginnings of a world that carried much of the seeds of what we are still grappling with today. Drape is torn; first part of the first episode we are made to believe he is some sort of fast living bachelor, drinking, smoking, sleeping with women, but before the show closes, we find out he is married, has two kids, living in suburbia in a post-war, 2. wave industrial nuclear family setting that is awefully familiar to us.. Drape has two lives, and it is perfectly fitting that his character is created at such a crossroad in a society who is leaving something behind and walking towards unfamiliar territory. The starting sequence of a man falling through high-rise buildings says it all: The show is about post-modern man looking for his soul.
