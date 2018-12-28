@@ -1,24 +1,14 @@
 # The Godfather
 
+Here is the secret of The Godfather's success: It captures the European cultural division between Rome and Jesus, war and piece. We all know subconciously what the Corleone family represent: They are Rome. They carry the remnants of the Empire, they act, think, earn money the same way. Roman Empire, Byzantium, and the Ottomans were all examples of organized thuggery; they were simply industrial size Mafia.
 
+That today's Mafia is usually associated with countries such as Italy, Turkey (or Russia -- who had a similar despotic past) is no coincidence. Rome is still living inside cultural codes of these countries, because it ruled over (or was based in them) the longest.
 
+Roman Catholic Church plays an important part in The Godfather trilogy, and again, this fits with the historical pattern. Catholic Church as a centralized force was part of Rome's power structure, after the latter's collapse, the former preserved and transmitted ceremonies, cultural and ideological stances of the Empire. The Church, the Empire (and the Mafia) are all male hegemonic organizations for instance. Or a typical ceremony involving the Pope has direct relations to ones performed for Roman emperors.
 
+The Godfather I and III are heavy with Roman Catholic references. The climactic scenes that switch back and forth between a baptism ceremony and assasinations who are organized by Michael Corleone in Part I is but one example. Part III goes even further; in the third episode Micheal Corleone is now in business with the Catholic Church -- just like a normal (Christian) Roman emperor would be in their times.
 
-at
+These are the cultural buttons that the director presses: We go back and forth between militarism / piece, Rome and Europe (or America in this case). Part I starts with Michael's girlfriend Kay Adams (Diane Keaton) who is "outside looking in" -- we have a classic fish out of its bowl setting, but a Germanic looking actress is selected for Kay Adams role; The obvious reference is a WASP girlfriend and non-WASP Italian boyfriend, but the better reference is Germenic looking female looking into Mediterrenian Rome; Germenic tribes, by some historical and geographic luck were never colonized by Rome, so someone from that descent is the perfect outsider for this movie.
 
-October 17, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Kay Adams / Corleone relationship is problematic from the start. Michael always promises he doesn't want to be his family but ends up becoming that anyway. Part I ends with the door being shut on Kay, Part III has Michael utter the classic line "just when I try to get out, they pull me back in! (mocked perfectly in The Sopranos). Kay was clearly was "not" from Michael's world, and not accepted. Same could be said for the postmodern us, who cannot be this past, be comfortably associated with it. The Godfather paints Corleones as a fringe example and something different, weird for today's world. This division certainly makes for great entertainment, and is analytically dead-on. Noone can live on thuggery, barbaric archaic codes from the past any longer. We are not Rome.
 
