@@ -1,24 +1,5 @@
 # Charter Cities
 
+Paul Romer has been talking about this for quite a while; and I like the idea. In some countries cities are very badly managed, and starting from scratch, in a carefully managed manner is a great idea. If we are entering (or, already in) an age of hyper-customization, it should be no surprise that the most important aspect of our life, the city we live in, can be customized to our needs. I imagine different "types" of communities around newly built charter cities mushroom all around the globe. One city might have a "single, scientists city" theme, another "married sports freak city" theme, and each could have buildings, structures, people that are appropiate for them. Entry requirements for each city would reflect their corresponding themes. I dont like to be around children, constant crying, screaming pisses me off, so I should be able to choose a city where there isnt a single child in sight. I dont give a flying fuck about historical buildings either, so a city with none would be a boon for me.
 
-
-
-
-at
-
-November 04, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I hear of countries building such cities, such as in South Korea, and Hamburg; I could see myself moving to one of these cities if they mature enough, with lots of people in them.

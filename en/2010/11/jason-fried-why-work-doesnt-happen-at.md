@@ -1,24 +1,4 @@
 # Jason Fried: Why work doesn't happen at work
 
-
-
-
-
-at
-
-November 29, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/5XD2kNopsUs
 
