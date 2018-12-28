@@ -1,24 +1,3 @@
 # Did You Know?
 
-
-
-
-
-at
-
-June 11, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/EOpA9kNb3fk

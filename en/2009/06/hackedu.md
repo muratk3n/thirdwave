@@ -1,24 +1,5 @@
 # #hackedu
 
+There is an interesting discussion going on under Twitter hashtag #hackedu. I learned about this from the Time article on Twitter by Steven Johnson; Apparently the hastag was created for a meeting on education reform which took place in March; however during the meeting people started tweeting under the said hastag, then others outside the meeting room got a wind of it and they started to pile on their ideas, soon the whole thing became a brainstorming shabang on streoids through the Net. Power of the Web in full display.
 
-
-
-
-at
-
-June 08, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In any case, I am feeding all my 3rd Wave related content related to education into this discussion. Every civilization has its own kind of education; Agrarian societies relied on family or outside tutors to educate their kids, industrial societies relied on public education to educate "blue collor workers (not analytic, free, independent thinkers -very important-)" . Knowledge based societies will need their own kind of education. This is what we are discussing.

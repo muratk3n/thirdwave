@@ -1,24 +1,3 @@
 # Ali G and Religion
 
-
-
-
-
-at
-
-June 20, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://www.funnyordie.com/videos/0518a0731a/ali-g-religion-roundtable-from-aligshow_fan

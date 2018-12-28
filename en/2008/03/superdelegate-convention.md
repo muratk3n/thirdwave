@@ -1,24 +1,13 @@
 # Superdelegate Convention
 
+This is a good idea...I am talking about the so-called Superdelegate Convention proposed by some governor in the Democratic Party. According to this plan, DP would hold a convention for superdelegates well before its time, ahead of remaining primaries for DP presidential nomination. The aim of this vote would be to decide the nomination once and for all, without dragging the fight any further, giving the nominee, whoever s/he is, longer time to prepare himself/herself for the upcoming presidential fight.
 
+This plan makes perfect sense. First of all, there is already a Republican nominee and the man is already acting like a president! Going to Iraq, talking about the economy without addressing any specific opponent.. obviously he can't do that because there is no clear opponent from DP yet! This is working against DP's advantage, so I hope they realize this, smell the coffee and go ahead with the superdelegate convention, decide on someone (and make it Barrack ;))
 
+It is possible that the remaining primary state(s) in DP nomination might feel cheated with this plan - they could complain their votes had no effect on the final nomination since superdelegates would have decided the nomination well before their turn in voting. But this argument could be true even if there were no superdelegates in the picture. In primaries sometimes a candidate gets so many votes from regular delegates early enough that they wrap up the nomination before the last vote in the last state is ever counted.
 
+The more infighting takes place, the more damaged the final nominee will be at the end of this nomination race. Hence it is imperative the Clinton/Obama saga ends as soon as possible. I believe Obama has won already - in order for Clinton to remain in the picture, she would completely destroy Obama in every remaining state, which is very unlikely. Clinton has ran a campaign that assumed the air of royalty, "a sure winner" which so far, she has failed to deliver on.
 
-at
+There is more - there is a genuine feeling out there that the times moved past Clinton's, that a new generation is readier to take the reins. The irony here is that Clinton's were considered young not so long ago during 90s, but the times are moving so fast that young couple at the White House in 90s are finding themselves out of touch with a swath of voters that seem to have made up their mind on Obama, and these voters will not vote for anyone but Obama on the presidential ballot. This complicates things for Clintons a little more. Bill must be pretty upset because Reagan's legacy was enough to elect him twice, his vice president once, and his veep's son twice.
 
-March 27, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Bill's legacy doesn't seem to help anyone get elected, but himself.

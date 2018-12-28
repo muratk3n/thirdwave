@@ -1,24 +1,9 @@
 # More Education Links
 
+More stuff collected from #hackedu.
 
+Hacking Education (cont'd) by A VC: Discussion on spaces for learning is interesting. Is Starbucks the new library? My view on the matter is that the answer will depend on the age of the "student". Even with parents who have flexible working arrangements with their companies, and/or are self-employed, they still might like to "drop the kid somewhere" where they know the child will be safe. This place, the new living/learning center, not a "school", can be designed as a place with lots of open space, rooms that can be turned into lecture halls if needed but are not "classrooms", with activities organized for which people can join or choose not to. This place can also serve as a conduit where experienced professionals choose to donate their time to, in order to be together with kids who might have questions that pertain to a problem in real world. Such service can be voluntary or as a result of a court order (that is, as a punishment -better than picking up leaves on the street is it not?-)
 
+Manifesto: This long treatise needs to be read a few times (I know I will); I liked the analogy between the (dismal) state of education today with how the software development used to be some decades back. Naysayers from all sides were saying noone could go against companies like Microsoft, a group of hackers, disconnected, from all parts of the world, not working for a company could not produce software. Well, the fact that I am writing these from a Linux laptop proves them all wrong. Yahoo, Google all run on open source software.
 
-
-at
-
-June 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The call for more marketization is also right on the money (pun intended). We need to turn teachers into rock stars, whose "performances" can be watched by many, who can gather "followings". An effective incentive mechanism can do that, plus being able to "replay" the performance on-demand can scale the performance to thousands maximizing the returns gained on a teacher's performance. I wrote on the foreign language version of this blog that, if for 20 million kids, 20 kids per classroom we need 1 million quality teachers, then we already failed in our task before we even started and the knowledge economy will need precisely that many quality teachers because we need to educate precisely that many kids for their future white collar jobs. Using industrial logic, the said task is impossible. With digitization it is doable.
