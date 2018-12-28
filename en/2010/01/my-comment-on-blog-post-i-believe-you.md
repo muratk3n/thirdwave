@@ -1,24 +1,12 @@
 # On Avatar
 
+My comment on blog post
+I believe you missed the point of the movie; Starting with an annoyance of childishness displayed by Jake Sully (which also annoyed me a little) you damned the entire movie on the basis that the opposite of Sully's childishness, "modernity" could be something we might need or want.
 
+Modernity is by no means the end of our species' evolution. We are not stuck with industrial age development and all its ills. Going after concentrated resources is an unsustainable modern problem, to which various different alternatives will exist.
 
+Pandora is trying to imagine a post-modern world, where humans can connect to every other being through their bio-hair-thingies (Internet anyone?) and there is an ecobalance in the planet. The non-growing humanoid population is a bit idealized and, with a planet actually able to attack "the company" it borders on ecoterorism, Postmodernism with a big P, however the opposite of Gaia/Pandora is also idealized, that is, turned into an dark, unmistakable evil in order to offer a starker contrast IMHO. Some stuff I did not like? The "return" of savior storyline for example.. I mean, the way American scifi so often falls into religionistic, savior/Jesus/prophet fervor does not always appeal to me, but in this case, it wasn't enough to mess things up that I did not enjoy the storytelling or the visual effects of the rest of the movie.
 
+Furthermore, I do not agree with the selfishness argument at all. JS has every incentive to go get his legs, and return to his normal life. But instead he goes back to Pandora, to a new family, new life. There is also a subtle criticism of post modern world here, that we still have not figured out how to make sense of our ultra-fast living, that someone like JS finds a connection somewhere, and that's where he settles (he 'does' change tribes however, apparently he feels better about the quality of the connection in Pandora). We still have not figured out how to do that, a new social order is still lacking, is behind our technological prowess.
 
-at
-
-January 03, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+At the end of the day, I ask myself: has it been a boon a movie like Avatar was made? My answer is yes. Would I watch it again? Yes again. The movie with all its frills, message was enough entertainment for me. Also: the story's paralels to Iraq War is unmistakable. On that factor alone, this movie had enough enticement to pull me to movie theather, as a last visit on year 2009.

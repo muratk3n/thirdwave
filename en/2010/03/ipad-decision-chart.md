@@ -1,25 +1,6 @@
 # iPad Decision Chart
 
-
-
-
-
-
-
-
-at
-
-March 29, 2010
-
-
-
-
-
-
-
-
-
-
+![](ipad-flowchart.jpg)
 
 
 
