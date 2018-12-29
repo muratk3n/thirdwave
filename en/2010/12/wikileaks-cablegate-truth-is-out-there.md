@@ -1,24 +1,3 @@
 # Wikileaks' Cablegate: the truth is out there
 
-
-
-
-
-at
-
-December 20, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/hl4NlA97GeQ

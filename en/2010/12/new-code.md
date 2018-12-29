@@ -1,24 +1,4 @@
 # A New Code
 
-
-
-
-
-at
-
-December 22, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The US culture code for foreign countries is PLAYGROUND.
 
