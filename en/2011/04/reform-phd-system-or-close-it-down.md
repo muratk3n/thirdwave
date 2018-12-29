@@ -1,24 +1,11 @@
 # Reform the PhD system or close it down
 
+From Nature
 
+The system of PhD education in the United States and many other countries is broken and unsustainable, and needs to be reconceived.[..] The academic job market collapsed in the 1970s, yet universities have not adjusted their admissions policies, because they need graduate students to work in laboratories and as teaching assistants. But once those students finish their education, there are no academic jobs for them [..].
 
+The necessary changes are both curricular and institutional. One reason that many doctoral programmes do not adequately serve students is that they are overly specialized, with curricula fragmented and increasingly irrelevant to the world beyond academia. Expertise, of course, is essential to the advancement of knowledge and to society. But in far too many cases, specialization has led to areas of research so narrow that they are of interest only to other people working in the same fields, subfields or sub-subfields. Many researchers struggle to talk to colleagues in the same department, and communication across departments and disciplines can be impossible [..].
 
+If doctoral education is to remain viable in the twenty-first century, universities must tear down the walls that separate fields, and establish programmes that nourish cross-disciplinary investigation and communication. They must design curricula that focus on solving practical problems, such as providing clean water to a growing population [..].
 
-at
-
-April 27, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Higher education in the United States has long been the envy of the world, but that is changing. The technologies that have transformed financial markets and the publishing, news and entertainment industries are now disrupting the education system. In the coming years, growing global competition for the multibillion-dollar education market will increase the pressure on US universities, just when public and private funding is decreasing. Although significant change is necessary at every level of higher education, it must start at the top, with total reform of PhD programmes in almost every field. The future of our children, our country and, indeed, the world depends on how well we meet this challenge.

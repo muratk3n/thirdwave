@@ -1,24 +1,9 @@
 # Kevin Kelly
 
+In his new book What Tehnology Wants Kelly argues technology is a near living, breathing organism and has a certain direction, and wants. I am a firm believer that techology is the main driver of societal change, and "we shape our tools and then be shaped by them", so forth. But Kelly's argument seems to be just somewhat more extreme than my position.
 
+I do understand and emphatize fully with what he is saying, and in fact, have entertained such thoughts myself at certain periods. As someone who is involved in programming, mathematics, I do intuitively "feel" sometimes there is a way a piece of code "should be", would be "better" when it reaches that stage, and bothered when my small creation is not there yet.
 
+But that uneasy feeling has nothing to do with technology itself, it has everything to do with me, and human pedagogy in general. It is hard to describe, but if I had to quantify it somehow, I would say good solutions have certain economy to them, they do as much as possible with as little as possible. In that sense, coding, modeling is no different from anything else in nature; and nature loves conserving energy (that's why we see lots of round shapes in the universe such as water drops, planets, etc). Since human beings are part of nature, and we have survived millions of years of evolution, we are aware of such "natural" optimizations ourselves, in fact they must be deeply ingrained in us.
 
-
-at
-
-April 19, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hence the "direction" of technology. The winners are determined not only by the creators themselves, but also by the consumers, maintainers, improvers of our creations. Everyone votes on a product's pedagogical excellence, if it's too hard to remember, too hard to maintain, too hard to understand, it is simply forgotten, so it "dies". If that creation was alive, near-living, I am sure it would not want to die. But it does.

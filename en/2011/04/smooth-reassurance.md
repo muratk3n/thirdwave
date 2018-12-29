@@ -1,24 +1,7 @@
 # Smooth Reassurance
 
+Link
 
+[Fareed] Zakaria is all smooth reassurance: the American economy remains dynamic, and the US is as competitive and technologically innovative as any European country. The politicians in Washington may be know-nothings, but the country’s major research universities are still the best, attracting talent from all over the world. Besides, ‘the rise of the rest is a consequence of American ideas and actions.’ [..]
 
-
-
-at
-
-April 04, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Zakaria first came to prominence with a 7000-word article called ‘The Politics of Rage: Why Do They Hate Us?’, published in Newsweek a few weeks after 9/11. Something of the glamour of Kennan’s Long Telegram now attaches to this article: New York magazine described it as ‘a defining piece on the meaning of the terror attacks’ in a profile studded with praise from Henry Kissinger which also proposed Zakaria as America’s first Muslim secretary of state. Tina Brown called him ‘New York’s hot brainiac of choice’. Zakaria’s article appeared during the moment of primitive fury that overcame even ‘liberal’ commentators. Amid the clamour for retribution, Zakaria sounded calm and judicious. Read now, however, his article seems notable mostly for its evasions: he was careful not to say anything that might get him stigmatised as a radical. Blaming the Arabs for their failure to modernise, he didn’t mention the American obsession with energy security, which has shaped the politics of the Middle East for more than half a century. He found space in his paragraph on Iran to mock ‘fashionable’ supporters of the Islamist upsurge in London and Paris, but didn’t bring up the Anglo-American coup against Mossadegh in 1953 or the American mollycoddling of the shah. He wrote about the collaboration between the Pakistani dictator Zia-ul-Haq and the Saudi Islamists, but left out the middleman in the affair, the CIA.
