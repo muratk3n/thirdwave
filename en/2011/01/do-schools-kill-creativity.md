@@ -1,27 +1,3 @@
 # Do schools kill creativity?
 
-
-
-
-
-
-
-
-at
-
-January 25, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/iG9CE55wbtY
