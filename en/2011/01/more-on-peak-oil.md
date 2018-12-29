@@ -1,24 +1,3 @@
 # More on Peak Oil
 
-
-
-
-
-at
-
-January 10, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/UUmwy0VTnqM

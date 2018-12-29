@@ -1,24 +1,6 @@
 # Obama Impression
 
+This guy is really good. He even does the "thinking stop" move Obama
+does. Hillarious.
 
-
-
-
-at
-
-January 10, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/rot1yguplr8

@@ -8,9 +8,9 @@
 
 [PhD and Graduate Studies](../../2011/10/phd-graduate-studies.md)
 
+[Average Teachers](../../2011/02/average-teachers.md)
 
-
-
+[Fire All Teachers](fire-all-teachers.md)
 
 
 
