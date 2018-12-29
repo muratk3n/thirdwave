@@ -1,24 +1,13 @@
 # Sudburry Valley
 
+From Psychology Today article
 
+The Sudbury Valley School has, for the past forty years, been the best-kept secret in American education. Most students of education have never heard of it. Professors of education ignore it, not out of malice but because they cannot absorb it into their framework of educational thought. The Sudbury Valley model of education is not a variation of standard education. It is not a progressive version of traditional schooling. It is not a Montessori school or a Dewey school or a Piagetian constructivist school. It is something entirely different. To understand the school one has to begin with a completely different mindset from that which dominates current educational thinking. One has to begin with the thought: Adults do not control children's education; children educate themselves.
 
+But the secret is getting out, spread largely by students and others who have experienced the Sudbury Valley School directly. Today at least two dozen schools throughout the world are modeled after Sudbury Valley. I predict that fifty years from now, if not sooner, the Sudbury Valley model will be featured in every standard textbook of education and will be adopted by many public school systems. In fifty years, I predict, today's approach to education will be seen by many if not most educators as a barbaric remnant of the past. People will wonder why the world took so long to come to grips with such a simple and self-evident idea as that upon which the Sudbury Valley School is founded: Children educate themselves; we don't have to do it for them.
 
+No staff members at the school have tenure. All are on one-year contracts, which must be renewed each year through a secret-ballot election. As the student voters outnumber the staff by a factor of 20 to 1, the staff who survive this process and are re-elected year after year are those who are admired by the students.
 
-at
+Students are free, all day, every day, to do what they wish at the school, as long as they don't violate any of the school's rules. The rules, all made by the School Meeting, have to do with protecting the school and protecting students' opportunities to pursue their own interests unhindered by others.
 
-February 06, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+None of the school's rules have to do with learning. The school gives no tests. It does not evaluate or grade students' progress.[1] There is no curriculum and no attempt to motivate students to learn. Courses occur only when students take the initiative to organize them, and they last only as long as the students want them. Many students at the school never join a course, and the school sees no problem with that. The staff members at the school do not consider themselves to be teachers. They are, instead, adult members of the community who provide a wide variety of services, including some teaching. Most of their "teaching" is of the same variety as can be found in any human setting; it involves answering sincere questions and presenting ideas in the context of real conversations.
