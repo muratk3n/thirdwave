@@ -1,24 +1,3 @@
 # Quantitative Easing Explained
 
-
-
-
-
-at
-
-November 15, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/PTUY16CkS-k
