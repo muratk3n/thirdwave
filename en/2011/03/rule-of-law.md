@@ -1,24 +1,23 @@
 # Rule of Law
 
+Barack Obama in The Audacity of Hope
 
+But most of the time, legislation is a murky brew, the product of one hundred compromises large and small, a blend of legitimate policy aims, political grandstanding, jerry-rigged regulatory schemes, and old-fashioned pork barrels. Often, as I read through the bills coming to the floor my first few months in the Senate, I was confronted with the fact that the principled thing was less clear than I had originally thought; that either an aye vote or a nay vote would leave me with some trace of remorse. Should I vote for an energy bill that includes my provision to boost alternative fuel production and improves the status quo, but that’s wholly inadequate to the task of lessening America’s dependence on foreign oil? Should I vote against a change in the Clean Air Act that will weaken regulations in some areas but strengthen regulation in others, and create a more predictable system for corporate compliance? What if the bill increases pollution but funds clean coal technology that may bring jobs to an impoverished part of Illinois?
 
+Again and again I find myself poring over the evidence, pro and con, as best I can in the limited time available. My staff will inform me that the mail and phone calls are evenly divided and that interest groups on both sides are keeping score. As the hour approaches to cast my vote, I am frequently reminded of something John F. Kennedy wrote fifty years ago in his book Profiles in Courage:
 
+"Few, if any, face the same dread finality of decision that confronts a Senator facing an important call of the roll. He may want more time for his decision—he may believe there is something to be said for both sides—he may feel that a slight amendment could remove all difficulties—but when that roll is called he cannot hide, he cannot equivocate, he cannot delay—and he senses that his constituency, like the Raven in Poe’s poem, is perched there on his Senate desk, croaking “Nevermore” as he casts the vote that stakes his political future."
+Alvin Toffler in The Third Wave
+This de-massification of political life, reflecting all the deep trends we have discussed in technology, production, communications, and culture, further devastates the politicians' ability to make vital decisions. Accustomed to juggling a few well-organized and clearly organized constituencies, they suddenly find themselves besieged. On all sides, countless new constituencies, fluidly organized, demand simultaneous attention to real but narrow and unfamiliar needs.
 
-at
+Specialized demands flood in to legislatures and bureaucracies through every crack, with every mailbag and messenger, over the transom and under the door. This tremendous pile-up of demands leaves no time for deliberation. Furthermore, because society is changing at an accelerating pace and a decision delayed may be far worse than no decision at all, everyone demands instant response. Congress, as a result, is kept so busy, according to Representative N. Y. Mineta, a California Democrat, that "guys meet each other coming and going. It doesn't allow for a coherent train of thought".
 
-March 02, 2011
+Circumstances differ from country to country, but what does not differ is the revolutionary challenge posed by the Third Wave to obsolete Second Wave institutions—too slow to keep up with the pace of change and too undifferentiated to cope with the new levels of social and political diversity. Designed for a much slower and simpler society, our institutions are swamped and out of synch. Nor can this challenge be met by merely tinkering with the rules.
 
+Too many decisions, too fast, about too many strange and unfamiliar problems—not some imagined "lack of leadership"—explain the gross incompetence of political and governmental decisions today. Our institutions are reeling from a decisional implosion.
 
+Working with out-of-date political technology, our capacity for effective governmental decision-making is deteriorating rapidly. "When all the decisions had to be made in the White House,' wrote William Shawcross in Harper's magazine, discussing the Nixon-Kissinger Cambodian policy, "there was little time for considering fully any one of them." In fact, the White House is so squeezed for decisions—on everything from air pollution, hospital costs, and nuclear power to the elimination of hazardous toys (!)—-that one presidential adviser confided to me, "We are all suffering from future shock here!"
 
+Nor are the executive agencies much better off. Each department is crushed under the mounting decision load. Each is compelled to enforce countless regulations and to generate vast numbers of decisions daily, under tremendous accelerative pressures.
 
-
-
-
-
-
-
-
-
-
-
-
+Thus, a recent investigation of the U.S. National Endowment for the Arts found that its council spent all of four and a half minutes considering each class of grant applications. "The number of applications . . . have far outstripped the ability of the NBA to make quality decisions," the report declared.
