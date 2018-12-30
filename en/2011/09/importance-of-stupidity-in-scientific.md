@@ -1,24 +1,11 @@
 # The importance of stupidity in scientific research
 
+Biologist.org
 
+I'd like to suggest that our Ph.D. programs often do students a disservice in two ways. First, I don't think students are made to understand how hard it is to do research. And how very, very hard it is to do important research. It's a lot harder than taking even very demanding courses. What makes it difficult is that research is immersion in the unknown. We just don't know what we're doing [..].
 
+Second, we don't do a good enough job of teaching our students how to be productively stupid – that is, if we don't feel stupid it means we're not really trying. I'm not talking about `relative stupidity', in which the other students in the class actually read the material, think about it and ace the exam, whereas you don't. I'm also not talking about bright people who might be working in areas that don't match their talents.
 
+Science involves confronting our `absolute stupidity'. That kind of stupidity is an existential fact, inherent in our efforts to push our way into the unknown. Preliminary and thesis exams have the right idea when the faculty committee pushes until the student starts getting the answers wrong or gives up and says, `I don't know'. The point of the exam isn't to see if the student gets all the answers right. If they do, it's the faculty who failed the exam. The point is to identify the student's weaknesses, partly to see where they need to invest some effort and partly to see whether the student's knowledge fails at a sufficiently high level that they are ready to take on a research project.
 
-at
-
-September 15, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Productive stupidity means being ignorant by choice. Focusing on important questions puts us in the awkward position of being ignorant. One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time. No doubt, this can be difficult for students who are accustomed to getting the answers right. No doubt, reasonable levels of confidence and emotional resilience help, but I think scientific education might do more to ease what is a very big transition: from learning what other people once discovered to making your own discoveries. The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries.

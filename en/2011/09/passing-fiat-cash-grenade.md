@@ -1,27 +1,3 @@
 # Passing Fiat Cash Grenade
 
-
-
-
-
-
-
-
-at
-
-September 12, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/Xj6G90-_Ov0

@@ -1,24 +1,11 @@
 # Pairings
 
+How'bout pairings, relationships between MBTI types? Statistically speaking one of the most important one would be Guardian - Artisan relationship. Since they are present ~ 40% and 45% in the human population respectively, the chances of them occuring is pretty high. There are many examples of it, especially in father - son relationships, regularly captured in movies, such as in Dead Poets Society, or in a more recent one, Thor. In Dead Poets Society, the SJ father was the disciplinarian, the SP son was the artsy type, who rebelled. In Thor, there is the protector father, and the hotheaded, young warrior son who wants to "enjoy himself", and "live in the moment", so on. Note: Artisans (SPs) need not be "artists" per se; this inclination can show up in sports, warfare just as easily as in art.
 
+In terms of marriage, SP - SP seems to be a disaster. That's why there are lots of failed marriages in Holywood, yes the country average is 50%, as happily married Kevin Bacon points out, but let's look at it another way. Here is a group of people who have access to all kinds of financial / material means, are living in better than average surroundings, and yet, they still get manage to get divorced at the country average. Keirsey says SP - SP marriages don't work bcz the energy of this relationship is exhausting for both sides, and after the divorce, the second SP marriage is almost always to a Guardian (SJs).
 
+SJs are good husband - wifes to NTs. I saw Downey Jr with his nice ol' lady -- a cute little SJ. Some tidbits: Wife tells Downey to "take care of himself, and drive carefully" before he leaves home, and Downey goes "why wouldnt I?". That is the typical NT response, she just said something that was redundant, the comment does not compute. "Why wouldnt I take care of myself, whaddaya think I'm an idiot?" That is exactly how an NT things. An SJ tho is transmitting a "taking care of you" message. She is guarding things.
 
+Rational - Idealist relationship is fine. NFs appreciate the individuality of the NTs, want to replicate it since they long for an identity themselves, and both types like exercising "future possibilities". The preference of both of processing intellectual input (N) rather than tactile, sensory input (S) is a big common as well.
 
-at
-
-September 24, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Guardian - Guardian relationships are very boring, but they do exist. This is the ultimate parental unit in terms of husband - wife, no frills, no whistles, but shit gets done. No bullshit.

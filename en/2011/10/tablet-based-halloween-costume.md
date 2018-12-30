@@ -1,27 +1,3 @@
 # Tablet Based Halloween Costume
 
-
-
-
-
-
-
-
-at
-
-October 31, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/V6p5mbp_M98
