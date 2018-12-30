@@ -1,24 +1,11 @@
 # Future of Work
 
+From Quora
 
+For quite a while we've been at a stage of technological evolution where most people don't have to work. The reason we're not living that life of leisure, trying to come up with fun and meaningful things to do, is not technological. We could say that it is economic, but really it is a large scale scam, perpetuated through a symbiotic relationship between big business and big government. This economy is based on keeping most people busy, so they can make money, so they can buy products. Most jobs are busy work. People do what they're expected to do, more or less, but in the bigger picture most of makes no sense. It only makes sense in response to the work of others, doing stuff that doesn't really make sense either. Advertising is big business, needed to get people to buy other stuff than they would if they were well informed. Lawyers get paid well for writing the small print in contracts or on product packaging which nobody reads. Tax accountants earn their living by being very fluent in a labyrinth of rules that change every year. Law makers earn their keep by coming up with more rules, or changing the ones that are there. The actual production is a very small percentage of all of it.
 
+The system will resist its transformation into a more sane and efficient arrangement. Right now, if more of the human work gets done by machines, there will be increased unemployment and a crisis. Then somebody will invent some more busy work, or start a war, or loan out more money, and make it look like everything is buzzing. No, the whole thing would have to be changed, so the economy no longer even pretends to be based on human work and hourly wages. It needs to be based on measuring actual value, and maximizing it for all of us.
 
+Then, what would we do, if we had a different kind of economy and we no longer had to do that kind of work? We'd become free to discover how to really add value. How to do something actually worthwhile. That has never been to be an accountant all your life. The real stuff to do in life is the stuff you're burning for. That won't just be idle entertainment. Most people, if they really, really had a choice, would choose to do something good and constructive, not just for themselves, but for their family, their community and for the world. The things to do would no longer be just mechanical work functions, doing what you're told, showing up for 8 hours per day. No, we're talking about more creative stuff. And, even if there are machines that can do all the heavy lifting, there's still plenty to do, to design things, to make them more enjoyable, more useful, more fun. There's art, there is science, there's certainly no lack of things to do that are worthwhile. There are many problems to solve. We'd be working on those, instead of living fake work lives for the sake of the economy.
 
-at
-
-June 15, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Also see Jobless recovery, the Luddite fallacy and the 4-hour workweek
