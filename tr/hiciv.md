@@ -134,6 +134,8 @@
 
 [Mesaj..](/2013/08/mesaj.md)
 
+[Obama köşe yazarı oldu](/2013/08/obama-kose-yazar-oldu.md)
+
 [AMK](/2013/09/amk.md)
 
 [Uzlaşılan maddeler açıklandı](/2013/11/uzlaslan-maddeler-ackland.md)

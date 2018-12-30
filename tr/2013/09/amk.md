@@ -1,6 +1,6 @@
 # AMK
 
-
+![](images.jpeg)
 
 Değerli Türkiye okurları; Sabah gazetesinde yeni bir yazımla sizle bulaşmaktan kıvanç duyuyorum. Bir önceki yazımdan beri dünyada çok değişiklikler oldu. Bu konulardan daha detaylı bir şekilde bahsedeceğim. 
 
@@ -16,20 +16,3 @@ Barack Obama
 
 
 
-
-
-
-zaman:
-
-Eylül 29, 2013
-
-
-
-
-
-
-
-
-
-
-![](images.jpeg)
