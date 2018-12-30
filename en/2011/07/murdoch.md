@@ -1,24 +1,8 @@
 # Murdoch
 
+FT
 
+Murdoch-bashing has, until very recently, generally been a disreputable activity, chiefly engaged in by the envious, the far-left, and the commercially uncompetitive, all almost incapable of disinterested comment – but not always. It is, on this subject at last, a time for truth. For decades Britain’s establishment professed to despise Mr Murdoch but appeased and grovelled to him, (“I thoroughly disapprove of Rupert, but I quite like him,” was the tedious refrain), as when it became clear that most of opinionated London expected him to prevail over the Daily Telegraph in the price war that he launched in 1993 [..]
 
-
-
-at
-
-July 13, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Although his personality is generally quite agreeable, Mr Murdoch has no loyalty to anyone or anything except his company. He has difficulty keeping friendships; rarely keeps his word for long; is an exploiter of the discomfort of others; and has betrayed every political leader who ever helped him in any country, except Ronald Reagan and perhaps Tony Blair. All his instincts are downmarket; he is not only a tabloid sensationalist; he is a malicious myth-maker, an assassin of the dignity of others and of respected institutions, all in the guise of anti-elitism. He masquerades as a pillar of contemporary, enlightened populism in Britain and sensible conservatism in the US, though he has been assiduously kissing the undercarriage of the rulers of Beijing for years. His notions of public entertainment and civic values are enshrined in the cartoon television series The Simpsons: all public officials are crooks and the public is an ignorant lumpenproletariat. There is nothing illegal in this, and it has amusing aspects, but it is unbecoming someone who has been the subject of such widespread deference and official preferments.
 

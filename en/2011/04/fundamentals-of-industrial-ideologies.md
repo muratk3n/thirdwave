@@ -11,3 +11,9 @@
 [Centralization](../../2011/03/fundamentals-of-industrial-ideologies_17.md)
 
 [The Integrators](../../2011/03/integrators.md)
+
+[The Reassurance Ritual](../../2011/07/reassurance-ritual.md)
+
+
+
+
