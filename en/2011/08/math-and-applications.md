@@ -1,24 +1,24 @@
 # Math and Applications
 
+Mumford and Garfunkel article
 
+There is widespread alarm in the United States about the state of our math education.[..] The truth is that different sets of math skills are useful for different careers, and our math education should be changed to reflect this fact.
 
+A math curriculum that focused on real-life problems would still expose students to the abstract tools of mathematics, especially the manipulation of unknown quantities. But there is a world of difference between teaching “pure” math, with no context, and teaching relevant problems that will lead students to appreciate how a mathematical formula models and clarifies real-world situations [..]
 
+Imagine replacing the sequence of algebra, geometry and calculus with a sequence of finance, data and basic engineering. In the finance course, students would learn the exponential function, use formulas in spreadsheets and study the budgets of people, companies and governments. In the data course, students would gather their own data sets and learn how, in fields as diverse as sports and medicine, larger samples give better estimates of averages. In the basic engineering course, students would learn the workings of engines, sound waves, TV signals and computers. Science and math were originally discovered together, and they are best learned together now.
 
-at
+Traditionalists will object that the standard curriculum teaches valuable abstract reasoning, even if the specific skills acquired are not immediately useful in later life. A generation ago, traditionalists were also arguing that studying Latin, though it had no practical application, helped students develop unique linguistic skills. We believe that studying applied math, like learning living languages, provides both useable knowledge and abstract skills.
 
-August 31, 2011
+--
 
+Mumford is one of the perfect people to write about this; not only does he deal with theory, but he also deals with applications, and he is someone who will go beyond tradiational applications such as mechanics and physics. I know him through his work in image processing; there is the famous Mumford-Shah functional that everyone who uses partial differential equations in vision will come across one way or another. Functionals are 18th century math going back to Euler, and image processing is a field so new that it did not exist 50 years ago -- so Mumford knows what he is talking about. This view needs to be taken into consideration.
 
+Let me finish with another quote from Gleick's Genius
 
+"Feynman had developed an appetite for new problems—any problems. He would stop people he knew in the corridor of the physics building and ask what they were working on. They quickly discovered that the question was not the usual small talk. Feynman pushed for details. He caught one classmate, Monarch Cutler, in despair. Cutler had taken on a senior thesis problem based on an important discovery in 1938 by two professors in the optics laboratory. They found that they could transform the refracting and reflecting qualities of lenses by evaporating salts onto them, forming very thin coatings, just a few atoms thick. Such coatings became essential to reducing unwanted glare in the lenses of cameras and telescopes. Cutler was supposed to find a way of calculating what happened when different thin films were applied, one atop another. His professors wondered, for example, whether there was a way to make exceedingly pure color filters, passing only light of a certain wavelength. Cutler was stymied. Classical optics should have sufficed—no peculiarly quantum effects came into play—but no one had ever analyzed the behavior of light passing through a parade of mostly transparent films thinner than a single wavelength.
 
+Cutler told Feynman he could find no literature on the subject. He did not know where to start. A few days later Feynman returned with the solution: a formula summing an infinite series of reflections back and forth from the inner surfaces of the coatings. He showed how the combinations of refraction and reflection would affect the phase of the light, changing its color. Using Feynman’s theory and many hours on the Marchant calculator, Cutler also found a way to make the color filters his professors wanted. Developing a theory for reflection by multiple-layer thin films was not so different for Feynman from math team in the now-distant past of Far Rockaway. He could see, or feel, the intertwined infinities of the problem, the beam of light resonating back and forth between the pair of surfaces, and then the next pair, and so on, and he had a giant mental kit bag of formulas to try out. Even when he was fourteen he had manipulated series of continued fractions the way a pianist practices scales. Now he had an intuition for the translating of formulas into physics and back, a feeling for the rhythms or the spaces or the forces that a given set of symbols implied".
 
-
-
-
-
-
-
-
-
-
+This is the kind of mathematical ability we should strive for in education.
 
