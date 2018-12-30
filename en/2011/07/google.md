@@ -1,24 +1,5 @@
 # Google+
 
+Google's chances of overtaking Facebook are not slim. Yes apps like Facebook live on the "network effect"; the more people use the app, the more useful the app becomes, hence it pulls more people in as a result, on it goes. The # of users create a "barrier to entry" for this market. On the other hand, FB doesnt have a lot of algorithmic add-on, it's a simple database app. As a result another big company with its own huge user base who has already figured out how to work on gigantic scale (hint: Google) can overtake Facebook. I'd rather they did actually. This space needs some innovation, and I'm tired of maintaining multiple accounts for multiple needs, "friends" are in place, "people I'd like watch" are somewhere else, and email in yet another. Google is also more developer friendly. If I ever come up with some algorithmic add-on for this space, I'd rather see it deployed through Google's services than Facebook's.
 
-
-
-
-at
-
-July 07, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note: It was kinda fun to watch Zuckerberg trying to respond with its own video thing -- brutha was sweatin' !!
