@@ -1,4 +1,5 @@
 # Geotechnology
+
 To understand and frame the ever-shifting nature of international 
 relations, analysts have traditionally relied upon both geopolitics and 
 geoeconomics. The discipline of geopolitics dates to nineteenth-century 

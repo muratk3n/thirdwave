@@ -1,4 +1,7 @@
 # The Empire Strikes Back
+
+Aaron Schwartz, mentioned here and one of the main actors in the fight against SOPA, has been found guilty and was facing 35 years in jail for downloading academic articles. He committed suicide. From link
+
 --
 
 Was Aaron a terrorist? Or a cracker trying to profit from stolen goods? Or was this something completely different? Early on, and to its great credit, JSTOR figured “appropriate” out: They declined to pursue their own action against Aaron, and they asked the government to drop its. MIT, to its great shame, was not as clear, and so the prosecutor had the excuse he needed to continue his war against the “criminal” who we who loved him knew as Aaron.
@@ -12,33 +15,8 @@ For remember, we live in a world where the architects of the financial crisis re
 In that world, the question this government needs to answer is why it was so necessary that Aaron Swartz be labeled a “felon.” For in the 18 months of negotiations, that was what he was not willing to accept, and so that was the reason he was facing a million dollar trial in April — his wealth bled dry, yet unable to appeal openly to us for the financial help he needed to fund his defense, at least without risking the ire of a district court judge. And so as wrong and misguided and fucking sad as this is, I get how the prospect of this fight, defenseless, made it make
 sense to this brilliant but troubled boy to end it.
 
-Fifty years in jail, charges our government. Somehow, we need  to get beyond the “I’m right so I’m right to nuke you” ethics that dominates our time. That begins with one word: Shame.
+Fifty years in jail, charges our government. Somehow, we need  to get beyond the “I’m right so I’m right to nuke you” ethics that dominates our time. That begins with one word: Shame.
 
 --
 
 Again we see a fight between waves - an act (downloading academic articles) that closely aligns with 3rd Wave, is absolutely behind the realm of possibility for 2nd Wave. There is a irreconcilable disconnect here.
-
-
-
-
-
-
-
-at
-
-January 13, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

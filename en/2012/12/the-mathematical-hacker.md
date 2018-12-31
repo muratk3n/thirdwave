@@ -1,9 +1,16 @@
 # The Mathematical Hacker
-The programming profession is blessed with a number of gifted essayists. Today I  will pick on [..] my favorites — Eric Raymond, Paul Graham [..] — because they all seem to disagree about why (and whether) mathematics is relevant to the practicing programmer. Their attitudes might be summarized as:
 
-Eric Raymond: Mathematics is unnecessary except in specialized fields such as 3D graphics or scientific computing.
+The programming profession is blessed with a number of gifted
+essayists. Today I  will pick on [..] my favorites — Eric Raymond,
+Paul Graham [..] — because they all seem to disagree about why (and
+whether) mathematics is relevant to the practicing programmer. Their
+attitudes might be summarized as:
 
-Paul Graham: Mathematics is a sort of Zen garden from which to draw inspiration [..].
+Eric Raymond: Mathematics is unnecessary except in specialized fields
+such as 3D graphics or scientific computing.
+
+Paul Graham: Mathematics is a sort of Zen garden from which to draw
+inspiration [..].
 
 All of these views, I think, are myopic.
 
@@ -31,29 +38,6 @@ The usual textbook solution is recursive: one calculates the number of interest 
 But rarely in these discussions will you find relevant mathematical considerations. If the goal is to compute a Fibonacci number or a factorial, the proper solution is not a recursive function, but rather knowledge of mathematics [..] No recursion (or looping) is required because an analytic solution has been available since the 17th century [..].
 
 [N]o recursion is required as long as one knows that a factorial is actually a special case of the gamma function. (The implementation of log-gamma is usually a polynomial approximation which requires constant time to evaluate.)Despite the aesthetic virtues ascribed to functional programming, I find the preceding solutions to be more beautiful than their recursive counterparts. They run in constant (rather than linear) time, and they are easily adapted to work with non-integer inputs. More importantly, they encourage the programmer to ask and investigate the questions: why does the Fibonacci equation involve the square root of five? What does it mean to take a factorial of a fraction? These questions have fascinating answers which are not easily admitted by the recurrence relation alone. 
-
-
-
-
-
-
-
-
-at
-
-December 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

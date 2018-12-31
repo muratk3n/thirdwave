@@ -1,4 +1,5 @@
 # Research and Industry
+
 Link 
 
 In general, research is about expanding the breadth of human 
@@ -65,20 +66,6 @@ challenges that academics face are enormous and the resources meager,
 but there is unbridled enthusiasm to explore the problems and a 
 willingness to try different approaches. For me no other job (and I have
  had more than a few) has the same level of personal reward.
-
-
-
-
-
-
-
-
-at
-
-January 18, 2013
-
-
-
 
 
 

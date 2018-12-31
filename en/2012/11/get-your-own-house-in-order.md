@@ -1,10 +1,11 @@
 # Getting Your Own House In Order
-Turkish, Syrian, and Iraqi Kurds (at least the ones that live in 
-Iraq’s northwest, across the borders with Turkey and Syria) are 
-linguistically united. These Kurds speak the Kurmanchi variety of 
-Kurdish, as opposed to Iranians and northeastern Iraqi Kurds. They speak
- the Sorani variety of Kurdish, which is more different from Kurmanchi 
-than Portuguese is from Spanish.
+
+Turkish, Syrian, and Iraqi Kurds (at least the ones that live in
+Iraq’s northwest, across the borders with Turkey and Syria) are
+linguistically united. These Kurds speak the Kurmanchi variety of
+Kurdish, as opposed to Iranians and northeastern Iraqi Kurds. They
+speak the Sorani variety of Kurdish, which is more different from
+Kurmanchi than Portuguese is from Spanish.
 
 Syria’s Kurds would likely turn to Turkey for support [..] This presents Turkey with a crucial choice. It has traditionally been
  hostile to an independent Kurdish state or entity anywhere in the 

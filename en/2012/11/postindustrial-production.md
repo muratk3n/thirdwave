@@ -1,4 +1,5 @@
 # Post-industrial Production
+
 As anyone who rides Amtrak between New York and Washington knows, the trip can be a dissonant experience [..] The weirdness [..] is hardly acknowledged anymore, 
 because we’ve all had a few decades to get used to it. But for most of 
 the 180 or so years of the train line’s existence, the endpoints of this
@@ -41,16 +42,6 @@ But one more look out the Amtrak window reveals something else: the shiny new bu
 They’re in the broad service sector, in the anonymous office centers 
 that bloomed out of nowhere. 
 
-
-
-
-
-
-
-
-at
-
-November 04, 2012
 
 
 

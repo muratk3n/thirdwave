@@ -1,19 +1,6 @@
 # Memorial
 
-
-
-
-
-
-
-
-
-
-
-at
-
-January 27, 2013
-
+https://youtu.be/x3Fz1V3LZtw
 
 
 

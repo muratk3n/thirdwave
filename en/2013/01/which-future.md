@@ -1,4 +1,5 @@
 # Which Future?
+
 [In] Doctorow’s book [.. r]eputation, like capital, can be accumulated 
 in an unequal and self-perpetuating way, as those who are already 
 popular gain the ability to do things that get them more attention and 
@@ -37,17 +38,6 @@ right to choose whether or not to sell it to you or drink it myself. But
 Excellent comment
 
 Knowledge likes to spread, it likes to combine with other knowledge. This inherent tendency makes it very different from other forms of "property", then, the controls needed to fit knowledge based goods into a second wave straight-jacket must be much, much more draconian. The defenders of the old system still do not fully grasp this fact. 
-
-
-
-
-
-
-
-at
-
-January 28, 2013
-
 
 
 

@@ -1,9 +1,21 @@
 # Symbiosis
-Although most academic research is funded by the public, universities all but force their scholars to publish their results in journals that take ownership of the work and place it behind expensive pay walls. 
 
-Centuries ago, when printing and mailing paper journals was the  most efficient way to disseminate new knowledge, a symbiotic relationship developed between scholars, who had ideas they wanted to share, and publishers, who had printing presses and the means to convey printed works to a wide audience. Transferring copyright to publishers, which protected their ability to recover costs and profit from their investment, was a reasonable price for authors to pay to further their disseminating mission.
+Although most academic research is funded by the public, universities
+all but force their scholars to publish their results in journals that
+take ownership of the work and place it behind expensive pay walls.
 
-But with the birth of the internet, scholars no longer needed publishers to distribute their work. As NYU’s Clay Shirky has noted, publishing went from being an industry to being a button.
+Centuries ago, when printing and mailing paper journals was the  most
+efficient way to disseminate new knowledge, a symbiotic relationship
+developed between scholars, who had ideas they wanted to share, and
+publishers, who had printing presses and the means to convey printed
+works to a wide audience. Transferring copyright to publishers, which
+protected their ability to recover costs and profit from their
+investment, was a reasonable price for authors to pay to further their
+disseminating mission.
+
+But with the birth of the internet, scholars no longer needed
+publishers to distribute their work. As NYU’s Clay Shirky has noted,
+publishing went from being an industry to being a button.
 
 Had the leaders of major research universities reacted to this 
 technological transformation with any kind vision, [Aaron] Swartz’s dream of 
@@ -24,17 +36,6 @@ everything in our power to make sure no papers ever end up behind pay
 walls again. We have to demand that our universities alter their policies to reward, 
 rather than punish, free scholarly publishing, and that they stop 
 cutting the checks that keep this immoral system afloat.
-
-
-
-
-
-
-
-
-at
-
-January 23, 2013
 
 
 
