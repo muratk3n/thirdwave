@@ -1,26 +1,3 @@
 # Yo
 
-
-
-
-
-
-
-at
-
-February 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/gLDYtH1RH-U
