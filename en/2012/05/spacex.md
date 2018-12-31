@@ -19,23 +19,3 @@ The company’s prototype rocket, Falcon 1, was the first privately developed li
 
 
 
-
-
-at
-
-May 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

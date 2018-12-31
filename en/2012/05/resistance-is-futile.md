@@ -1,7 +1,6 @@
 # Resistance Is Futile
 
-
-
+![](borg.png)
 
 It was interesting throughout the run of Star Trek Next Generation (TNG), when the creators of the show needed an enemy so vicious, so bad, and so opposite of the Federation, conciously or subconciously they ended up creating an enemy like the Borg. If TNG was supposed to be our future, or at least how we thought our future was going to be, then we perhaps understand ourselves little better by inspecting this mhytical Federation and its greatest enemy, the Borg.
 
@@ -26,27 +25,3 @@ Looking at the larger trend, it seems dealing with issues around authority, cent
 [2] None of what we say obviously means individuality and skill should be deemphasized. What we are suggesting is that the pressure around being "always on" needs to be lessened, and expectations around what people can deliver, and when, needs to be readjusted. Especially undeserving rockstars (almost all  them, falling off like flies each day around us due to the turbulent nature of our age) need to get out of an individual's way. 
 
 
-
-
-
-
-
-at
-
-May 17, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](borg.png)

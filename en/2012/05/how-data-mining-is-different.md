@@ -1,4 +1,5 @@
 # How Data Mining is Different
+
 Much of the important scientific and technological development of the last four hundred years comes from a style of investigation, probably best described by Karl Popper, based on controlled experiments. Researchers construct hypotheses inductively, but usually guided by anomalies in existig explanations of ‘how things work’. Such hypotheses should have more explanatory power than existing theories, and should be easier to falsify. Suppose a new hypothesis predicts that cause A is responsible for effect B. A controlled experiment sets up two situations, one in which cause A is present and the other in which it is not. The two situations are, as far as possible, matched with respect to all of the other variables that might influence the presence or absence of effect B. The experiment then looks at whether effect B is present only in the first situation.
 
 Of course, few dependencies of effect on cause are perfect, so we might expect that effect B is not present in some situations where cause A is present, and vice versa. A great deal of statistical machinery has been developed to help determine how much discrepancy can exist and still be appropriate to conclude that there is a dependency of effect B on cause A. If an experiment fails to falsify a hypothesis then this adds credibility to the hypothesis, which may eventually be promoted to a theory. Theories are not considered to be ground truth, but only approximations with useful predictiveness. This approach to understanding the universe has been enormously successful.
@@ -18,18 +19,6 @@ Controlled experiments require very precise collection of data, capturing the pr
 In natural experiments, it may often be more difficult to make sure that the values of other variables or attributes are properly matched, but this can be compensated for, to some extent, by the availability of a larger amount of data than could be collected in a controlled experiment. More sophisticated methods for arguing that dependencies imply causality are also needed.
 
 Data mining provides techniques for this second kind of analysis, of systems too complex or inaccessible for controlled experiments. 
-
-
-
-
-
-
-
-
-
-at
-
-May 19, 2012
 
 
 

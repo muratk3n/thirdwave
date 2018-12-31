@@ -1,4 +1,5 @@
 # The Structural Revolution
+
 [We] believe the core problems are structural, not cyclical. The recession 
 grew out of and exposed long-term flaws in the economy. Fixing these 
 structural problems should be the order of the day, not papering over 
@@ -71,23 +72,6 @@ In the United States, there are almost no politicians willing to embrace
 Structuralists don’t have a perfect champion either. President Obama is 
 too minimalist. He doesn’t seem to believe America’s structural problems
  are that big, making his reform ideas small.  
-
-
-
-
-
-
-
-
-
-
-at
-
-May 11, 2012
-
-
-
-
 
 
 

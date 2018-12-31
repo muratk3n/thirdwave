@@ -1,19 +1,19 @@
 # Information Is Your Salvation
+
 Greece, as you may recall, was facing bankruptcy this spring [.. and] getting roughly 100,000 bondholders scattered around the globe [..] to sign off on the deal on a 
 tight deadline was going to be a logistical nightmare.
 
 [Bondholder Communication Group manager] Bob Apfel  says, "so I bought 100 iPads." 
 
-The Apple (AAPL)
- tablets, equipped with a custom-made debt-restructuring app, were 
-handed out to the leadership team, including representatives from the 
-Finance Ministry, the Hellenic Exchange (the Greek equivalent of the 
-NYSE), the Bank of Greece (their version of the Federal Reserve) and the
- three external banks that managed the deal, Deutsche Bank, HSBC and 
-Lazard.
-The idea was to give the participants a rich set of analytic tools 
-and real-time, secure connections to both the global clearing systems 
-and the back offices of banks around the world.
+The Apple (AAPL) tablets, equipped with a custom-made
+ debt-restructuring app, were handed out to the leadership team,
+ including representatives from the Finance Ministry, the Hellenic
+ Exchange (the Greek equivalent of the NYSE), the Bank of Greece
+ (their version of the Federal Reserve) and the three external banks
+ that managed the deal, Deutsche Bank, HSBC and Lazard.  The idea was
+ to give the participants a rich set of analytic tools and real-time,
+ secure connections to both the global clearing systems and the back
+ offices of banks around the world.
 
 "During the lead-up to the launch," says Apfel, "members of the 
 financial leadership team were spending over half their time on the 
