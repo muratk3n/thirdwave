@@ -1,4 +1,5 @@
 # The Seven Lesson Schoolteacher
+
 Call me Mr. Gatto, please. Twenty-six years ago, having nothing better to do at the time, I tried my hand at schoolteaching. The license I hold certifies that I am an instructor of English language and English literature, but that isn't what I do at all. I don't teach English, I teach school -- and I win awards doing it.
 
 Teaching means different things in different places, but seven lessons are universally taught from Harlem to Hollywood Hills [..]
@@ -27,18 +28,6 @@ discussion in our national school hysteria about failing academic
 performance misses the point. Schools teach exactly what they are 
 intended to teach and they do it well: how to be a good Egyptian and 
 remain in your place in the pyramid.
-
-
-
-
-
-
-
-
-at
-
-July 05, 2013
-
 
 
 

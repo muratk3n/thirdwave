@@ -1,4 +1,5 @@
 # How to motivate your team
+
 Indoctrinate them with the big picture. Everybody wants to be 
 part of something big. They want to know why their work matters. Make it
  important to your people by telling them why it's important to 
@@ -33,27 +34,6 @@ everyone has to operate exactly the same way. People are individuals.
 They need some freedom to do their best.
 
 Be human. Show some empathy, humility and a sense of humor. It'll go a long way. 
-
-
-
-
-
-
-
-at
-
-July 05, 2013
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,4 +1,5 @@
 # #doublefacepalm
+
 The unlimited nature of the records being handed over to the NSA is extremely unusual [..] The order directs Verizon to "continue production on an ongoing daily basis thereafter for the duration of this order". It specifies that the records to be produced include "session identifying information", such as "originating and terminating number", the duration of each call, telephone calling card numbers, trunk identifiers, International Mobile Subscriber Identity (IMSI) number, and "comprehensive communication routing information".
 
 The information is classed as "metadata", or transactional information, rather than communications, and so does not require individual warrants to access.
@@ -12,19 +13,6 @@ Al Gore
 Is it just me, or is secret blanket surveillance obscenely outrageous?
 
 It is
-
-
-
-
-
-
-
-
-at
-
-June 10, 2013
-
-
 
 
 

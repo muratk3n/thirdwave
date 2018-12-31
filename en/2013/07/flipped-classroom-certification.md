@@ -5,31 +5,4 @@ This term was used by Salman Khan before - instead of "stand and deliver" style 
 Some stats - "85% of teachers who’ve flipped their classroom have seen improved grades".
 
 
-
-
-
-
-
-
-
-
-
-at
-
-July 02, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](Screenshotfrom2013-07-02094653.png)
+![](4653.png)

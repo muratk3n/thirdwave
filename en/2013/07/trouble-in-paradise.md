@@ -1,9 +1,11 @@
 # Trouble in Paradise
-It is crucial that we don’t see the Turkish protests merely as a secular
- civil society rising up against an authoritarian Islamist regime 
-supported by a silent Muslim majority. What complicates the picture is 
-the protests’ anti-capitalist thrust: protesters intuitively sense that 
-free-market fundamentalism and fundamentalist Islam [..]
+
+It is crucial that we don’t see the Turkish protests merely as a
+ secular civil society rising up against an authoritarian Islamist
+ regime supported by a silent Muslim majority. What complicates the
+ picture is the protests’ anti-capitalist thrust: protesters
+ intuitively sense that free-market fundamentalism and fundamentalist
+ Islam [..]
 
 You don't know what  you are talking about
 
@@ -27,7 +29,11 @@ That actually spells more  trouble for The Integrators. What that means is that 
 
 ---
 
-[1] The  point of the polemic is that it has to be / sound obnoxious, rubbing certain people off the wrong the way, in the right direction. But Gezi went beyond that, was an actual act, became the last drop that brought all the other stupidity in focus. The rest is snowball effect (more insect calculation) through police brutality. 
+[1] The point of the polemic is that it has to be / sound obnoxious,
+rubbing certain people off the wrong the way, in the right
+direction. But Gezi went beyond that, was an actual act, became the
+last drop that brought all the other stupidity in focus. The rest is
+snowball effect (more insect calculation) through police brutality.
 
 
 

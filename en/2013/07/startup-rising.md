@@ -1,4 +1,5 @@
 # Startup Rising
+
 Despite the world's elation at the Arab Spring, shockingly little has 
 changed politically in the Middle East; even frontliners Egypt and 
 Tunisia continue to suffer repression, fixed elections, and bombings, 
@@ -18,16 +19,6 @@ the predictions of these tech giants to offer a surprising and timely
 look at the second stealth revolution in the Middle East—one that 
 promises to reinvent it as a center of innovation and progress.
 
-
-
-
-
-
-
-
-at
-
-July 09, 2013
 
 
 

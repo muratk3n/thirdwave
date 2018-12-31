@@ -15,22 +15,7 @@ The Xbox One will allow the sale of used games, at "participating retailers", bu
 There are restrictions on how you can "give" and "loan" your games away. What's more, lending won't be available at launch, with Microsoft still "exploring the possibilities with our partners".
 In response Sony records this video:
 
-
-
-
-
-
-
-
-
-
-
-
-
-at
-
-June 11, 2013
-
+https://youtu.be/kWSIFh8ICaA
 
 
 

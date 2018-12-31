@@ -1,4 +1,5 @@
 # Mmmm
+
 Morsi and his party received __ percent of the vote, so ..
 
 Well..
@@ -11,16 +12,6 @@ This was the political make-up Egypt found itself with right after Tahrir 1.
 
 So there isn't much point to play with percentages in the case of Egypt. The real numbers, percentages came out on the street in the millions for Tahrir 2, letting their protest known. 
 
-
-
-
-
-
-
-
-at
-
-July 22, 2013
 
 
 

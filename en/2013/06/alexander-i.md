@@ -1,4 +1,5 @@
 # Alexander I
+
 Forced to accept liberal constitutions modeled on that of
 revolutionary France some thirty years earlier, the kings of both
 [Spain and Naples] had reason to fear that they also faced the
@@ -126,23 +127,14 @@ guise of submitting to him."
 
 --
 
-The moral of the story is: Dear Russians, so basically your boy was had. That fool was played like an old bonjo. How stupid do you have to be to be convinved of the exact opposite of your initial idea man? What kind of dumb-ass idioacy is this? This guy not only manages to kill liberalism in Russia, but also  set it back in other parts of Europe as well.
+The moral of the story is: Dear Russians, so basically your boy was
+had. That fool was played like an old bonjo. How stupid do you have to
+be to be convinved of the exact opposite of your initial idea man?
+What kind of dumb-ass idioacy is this? This guy not only manages to
+kill liberalism in Russia, but also set it back in other parts of
+Europe as well.
 
 Russian people have many accomplishments, generated good literature and great science.  However it seems there is a peculiar way they  (s)elect their leaders. Just take a look at some of the more recent ones:  a mass murderer, a wide-eyed idealist -who cannot execute-, a bumbling drunk, and  now, a thug. And believe me, I was happy for Russians when the thug came in. Such seems to be the dynamics of political life in Russia.
-
-
-
-
-
-
-
-
-at
-
-June 02, 2013
-
-
-
 
 
 
