@@ -1,4 +1,5 @@
 # The ‘Busy’ Trap
+
 Almost everyone I know is busy. They feel anxious and guilty when they 
 aren’t either working or doing something to promote their work. [..] I recently wrote a friend to ask if he wanted to 
 do something this week, and he answered that he didn’t have a lot of 
@@ -39,29 +40,4 @@ cat or a boa constrictor in a Richard Scarry book I’m not sure I believe
  it’s necessary. I can’t help but wonder whether all this histrionic 
 exhaustion isn’t a way of covering up the fact that most of what we do 
 doesn’t matter.
-
-
-
-
-
-
-
-
-at
-
-April 04, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

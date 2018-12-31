@@ -1,13 +1,14 @@
 # Patent Trolls
-Barnes & Noble alone has been
- sued by “non practicing entities”—a/k/a patent trolls—well over 
-twenty-five times and received an additional twenty-plus patent claims 
-in the last five years. The claimants do not have products and are not 
-competitors. They assert claims for the sole purpose of extorting money.
- Companies like Barnes & Noble have to choose between paying 
-extortionate ransoms and settling the claim, or fighting in a judicial 
-system ill equipped to handle baseless patent claims at costs that 
-frequently reach millions of dollars [..].
+
+Barnes & Noble alone has been sued by “non practicing entities”—a/k/a
+ patent trolls—well over twenty-five times and received an additional
+ twenty-plus patent claims in the last five years. The claimants do
+ not have products and are not competitors. They assert claims for the
+ sole purpose of extorting money.  Companies like Barnes & Noble have
+ to choose between paying extortionate ransoms and settling the claim,
+ or fighting in a judicial system ill equipped to handle baseless
+ patent claims at costs that frequently reach millions of dollars
+ [..].
 
 Something must change. Common sense and the elimination of this blight 
 on the economy are not the only reasons why. There is also a 
@@ -35,15 +36,6 @@ litigations have carried on actively for years.
 
 
 
-
-
-
-
-
-
-at
-
-May 03, 2013
 
 
 

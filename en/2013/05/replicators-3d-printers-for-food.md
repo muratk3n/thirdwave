@@ -9,13 +9,11 @@ So the space agency
 has funded research for what could be the ultimate nerd solution: a 3D 
 printer that creates entrees or desserts at the touch of a button.
 
-
 Yes, it's another case
  of life imitating Star Trek (remember the food replicator?). In this 
 case, though, the creators hope there is an application beyond 
 deep-space pizza parties. The technology could also be used to feed 
 hungry populations here on Earth.
-
 
 Texas-based Systems 
 and Materials Research has been selected for a $125,000 grant from NASA 
@@ -25,7 +23,6 @@ recipe," the printers will combine powders to produce food that has the
 structure and texture of, well, actual food.
 
 Including smell [..].
-
 
 Theoretically, 
 homesick astronauts could even get a care package from Mom: The printer 
@@ -38,17 +35,6 @@ daughter prints out a cookie at Christmas," Contractor said in his
 presentation.
 
 
-
-
-
-
-
-
-
-
-at
-
-May 28, 2013
 
 
 

@@ -1,4 +1,5 @@
 # #huh
+
 The hilariously named "Commission on the Theft of American Intellectual Property" has finally released its report, an 84-page tome
  that's pretty bonkers. But amidst all that crazy, there's a bit that 
 stands out as particularly insane: a proposal to legalize the use of 
@@ -11,19 +12,6 @@ when they deploy ransomware.
 
 It's just more evidence that copyright enforcers' network strategies are
  indistinguishable from those used by dictators and criminals.
-
-
-
-
-
-
-
-
-at
-
-May 27, 2013
-
-
 
 
 

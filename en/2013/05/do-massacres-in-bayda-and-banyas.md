@@ -1,4 +1,5 @@
 # Do the Massacres in Bayda and Banyas Portend Ethnic Cleansing to Create an Alawite State?
+
 This question is taken up in two thoughtful articles by Hassan Hassan 
 and Michael Young. Hassan Hassan argues that “sectarian cleansing is not
  being conducted for the purpose of establishing a potential state, but 
@@ -59,23 +60,6 @@ the Alawites.
 --
 
 This guy is good. Another article is here.
-
-
-
-
-
-
-
-
-at
-
-May 14, 2013
-
-
-
-
-
-
 
 
 

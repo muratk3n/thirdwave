@@ -1,4 +1,5 @@
 # Elsevier is still not getting it
+
 Greg Martin, a number theorist at UBC (the University of British Columbia in Vancouver) [..] decided to resign from the editorial board of Elsevier’s Journal of Number Theory [..letter below] 
 
 Dear colleagues,
@@ -19,22 +20,6 @@ It might well be that a commercial company such as Elsevier is simply unable to 
 budget into the closed coffers of commercial publishers [..].
 
 Sincerely yours,
-
-
-
-
-
-
-
-
-at
-
-May 28, 2013
-
-
-
-
-
 
 
 

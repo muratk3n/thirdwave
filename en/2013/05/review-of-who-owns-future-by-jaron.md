@@ -1,4 +1,5 @@
 # Review of “Who Owns the Future?” By Jaron Lanier
+
 As he has done in the past, Lanier celebrates technology as a tool of
  creativity [..] but he 
 confesses that creating a “mass market for ordinary people” rests on the
@@ -26,16 +27,6 @@ Great review.There are a lot of nuances Lanier is missing; First, the Net allows
 
 But the masses, on the general kinds of things that the masses can do, for themselves and others, will cause a lot of change through this ultra-democratized medium as well. We are only seeing the tip of the icerberg here. 
 
-
-
-
-
-
-
-
-at
-
-May 16, 2013
 
 
 
