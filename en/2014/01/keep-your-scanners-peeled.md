@@ -15,38 +15,10 @@ information to take the next step: program automated responses.
 
 That's all fine but, will I be able to do this?  
 
-
-
-
 (!)
 
 The Hoff!
 
 (That's how the actor is known in Germany, where he is still quite popular, even though, as his last name might suggest he is not of German descent -that's what he claims anyway according to his autobiography, but again, you never know-).
-
-
-
-
-
-
-
-
-at
-
-January 01, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![](BbX1_W3CUAAFEyF.png)

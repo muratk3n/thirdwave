@@ -18,28 +18,4 @@ Now intuitively it makes sense when these dimensions are in the thousands, milli
 And sometimes there are cases when the output of the processing is big; Google computes a rank for all pages on the Net, in that case the input is big because the output is big. 
 
 
-
-
-
-
-
-
-at
-
-February 10, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](Screenshotfrom2014-01-20101818.png)

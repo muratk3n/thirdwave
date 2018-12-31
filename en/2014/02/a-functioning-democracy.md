@@ -1,4 +1,5 @@
 # A Functioning Democracy
+
 Although I don't aim to be a political writer, politics does often 
 provide the most tangible examples of mad mobs. US politics, to take a 
 large example, has [a lot of negatives] and has produced 

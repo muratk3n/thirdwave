@@ -1,19 +1,8 @@
 # Brilliant Commercial
 
+Saw this commercial at a Berlin movie theater yesterday. Very nice.
 
-
-
-
-
-
-
-
-at
-
-January 20, 2014
-
-
-
+https://youtu.be/jFi5oyjARdQ
 
 
 
