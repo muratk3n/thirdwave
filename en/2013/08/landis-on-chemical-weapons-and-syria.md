@@ -1,4 +1,5 @@
 # Landis on Chemical Weapons and Syria
+
 In response to question: If it is Determined that the Assad Regime Used Chemical Weapons Against Civilians, Should the United States and its Allies Attack Syria?
 
 The US must respond to the use of chemical weapons in a forceful manner, but should not launch a broader intervention in Syria. Preserving the widely respected international norm banning the use of chemical weapons is a clear interest of the US and international community. 
@@ -28,18 +29,6 @@ solution.
 --
 
 Interesting.. Let's see if US acts along the lines described above.. The thing is though, any kind of US attack on Syrian regime will provide the opposition a morale boost, it can trigger a unification of sorts.
-
-
-
-
-
-
-
-at
-
-August 30, 2013
-
-
 
 
 

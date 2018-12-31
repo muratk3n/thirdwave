@@ -2,8 +2,6 @@
 
 While I was studying subjects on analytics, calculus  my side-reading was what one could call "grand explanation" books, on subjects ranging from history, strategy and the future. First book I picked  was written by a Thomas Barnett, a strategist, where he talks about his  "the core and the gap"  theory. The gap? Basically what this guy did was plotting all trouble spots in the world and coming up with a huge "gap" on his map:
 
-
-
 The sophistication of this analysis was sadly at the level of "bro -  there is like a hole in there maaan! juust looook!", so I quickly moved on to other theories.  
 
 The Tipping Point, Black Swan, Critical Mass were next. Critical Mass was interesting, written by Peter Ball, an ex-physicist, he looks (and finds) a lot of power laws in society, events that cannot be neatly explained by bell curves, linear correlations. A for effort, many anectodes, was a nice read. Same with TTP.
@@ -27,20 +25,6 @@ More recent example:
 Situation in the Middle East. Street vendor in Tunisia sets himself on fire, and we have dictators falling in the region. A tipping point? Did that minor (though sad) event truly cause everything else that followed? When we look at phases, instead of transitions, we see this: Wikileaks (technology) had arrived, ubiquituous use of cell phones, the Net (technology) had been increasing. Plus there is the backdrop of illegitimate  Arab rulers (decaying old rule based on old technology), what do we have? Temparature (tech) comes in, first we see one crystal (guy sets himself on fire), and another, then another, at the end there is a different kind of society. 
 
 To sum up: we need to focus on the phases that are long lasting and distinctly seperate from eachother and treat freak events as occurences / projections of the transition in a brief moment. Icicles form, seeming randomly, unexpectedly, which point turns into ice first? Who cares? After a few degrees of change it will all become ice. It might seem one icicle is causing another, that is an illusion, or at best, irrelevant. Any part of the ice would do as a starting point, what matters is the end state, not the temporary, the transitional.
-
-
-
-
-
-
-
-
-at
-
-August 12, 2013
-
-
-
 
 
 

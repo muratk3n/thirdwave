@@ -1,4 +1,5 @@
 # Hindsight Visionary
+
 More often than not, founders, early employees, and investors of the largest tech companies will tell you that the product that took off was never part of (at least not fully) the original “plan.” Twitter spun out of Odeo, Instagram was a Burbn pivot, BuzzFeed evolved from one of many “for fun” experiments — the  list goes on and on. Heck, even Facebook was originally Facemash.
 
 By and large, innovative products aren’t strategically imagined ahead of time – they’re stumbled upon while experimenting on-the-go.
@@ -8,16 +9,6 @@ Furthermore, even when the game-changing idea is discovered, the founders and ea
 In other words, “vision” is a popular industry narrative applied after-the-fact.
 
 Despite these patterns, investors require conviction and grandiosity from budding entrepreneurs. As a result, most “dumb” and “small” ideas never make it to pitch meetings or even prototyping, and instead die in the heads of talented builders. Unless you’re someone like Kevin Rose, you can’t walk into an investor meeting and say, “We’re not really sure what we’re building,” or “We’re not really sure how this idea evolves and gets really big yet,” and expect to receive funding. Which is a shame, given that Facebook, Twitter, Airbnb, Dropbox and the like were all initially “dumb” and “small.”
-
-
-
-
-
-
-
-at
-
-August 07, 2013
 
 
 
