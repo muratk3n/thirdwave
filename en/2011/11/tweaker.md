@@ -1,24 +1,19 @@
 # The Tweaker
 
+Malcolm Gladwell
 
+Steve Jobs, Isaacson’s biography makes clear, was a complicated and exhausting man. “There are parts of his life and personality that are extremely messy, and that’s the truth,” Powell tells Isaacson. “[..] Jobs, we learn, was a bully. “He had the uncanny capacity to know exactly what your weak point is, know what will make you feel small, to make you cringe,” a friend of his tells Isaacson. Jobs gets his girlfriend pregnant, and then denies that the child is his. He parks in handicapped spaces. He screams at subordinates. He cries like a small child when he does not get his way. He gets stopped for driving a hundred miles an hour, honks angrily at the officer for taking too long to write up the ticket, and then resumes his journey at a hundred miles an hour. He sits in a restaurant and sends his food back three times. He arrives at his hotel suite in New York for press interviews and decides, at 10 P.M., that the piano needs to be repositioned, the strawberries are inadequate, and the flowers are all wrong: he wanted calla lilies. (When his public-relations assistant returns, at midnight, with the right flowers, he tells her that her suit is “disgusting.”) [..]
 
+One of the great puzzles of the industrial revolution is why it began in England.[..] In an article published earlier this year, however, the economists Ralf Meisenzahl and Joel Mokyr focus on a different explanation: the role of Britain’s human-capital advantage—in particular, on a group they call “tweakers.” They believe that Britain dominated the industrial revolution because it had a far larger population of skilled engineers and artisans than its competitors: resourceful and creative men who took the signature inventions of the industrial age and tweaked them—refined and perfected them, and made them work [..]
 
+Was Steve Jobs a Samuel Crompton or was he a Richard Roberts? In the eulogies that followed Jobs’s death, last month, he was repeatedly referred to as a large-scale visionary and inventor. But Isaacson’s biography suggests that he was much more of a tweaker. He borrowed the characteristic features of the Macintosh—the mouse and the icons on the screen—from the engineers at Xerox PARC, after his famous visit there, in 1979. The first portable digital music players came out in 1996 [..]
 
-at
+Jobs’s sensibility was editorial, not inventive. His gift lay in taking what was in front of him—the tablet with stylus—and ruthlessly refining it [..] The point of Meisenzahl and Mokyr’s argument is that this sort of tweaking is essential to progress. James Watt invented the modern steam engine, doubling the efficiency of the engines that had come before. But when the tweakers took over the efficiency of the steam engine swiftly quadrupled.
 
-November 07, 2011
+Jobs’s friend Larry Ellison, the founder of Oracle, had a private jet, and he designed its interior with a great deal of care. One day, Jobs decided that he wanted a private jet, too. He studied what Ellison had done. Then he set about to reproduce his friend’s design in its entirety—the same jet, the same reconfiguration, the same doors between the cabins. Actually, not in its entirety. Ellison’s jet “had a door between cabins with an open button and a close button,” Isaacson writes. “Jobs insisted that his have a single button that toggled. He didn’t like the polished stainless steel of the buttons, so he had them replaced with brushed metal ones.” Having hired Ellison’s designer, “pretty soon he was driving her crazy.” Of course he was. The great accomplishment of Jobs’s life is how effectively he put his idiosyncrasies—his petulance, his narcissism, and his rudeness—in the service of perfection. “I look at his airplane and mine,” Ellison says, “and everything he changed was better.” [..]
 
+The angriest Isaacson ever saw Steve Jobs was when the wave of Android phones appeared, running the operating system developed by Google. Jobs saw the Android handsets, with their touchscreens and their icons, as a copy of the iPhone. He decided to sue. As he tells Isaacson:
 
+Our lawsuit is saying, “Google, you fucking ripped off the iPhone, wholesale ripped us off.” Grand theft. I will spend my last dying breath if I need to, and I will spend every penny of Apple’s $40 billion in the bank, to right this wrong [..] .
 
-
-
-
-
-
-
-
-
-
-
-
-
+Jobs was someone who took other people’s ideas and changed them. But he did not like it when the same thing was done to him.

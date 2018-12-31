@@ -1,24 +1,13 @@
 # Continuous Rules
 
+Longnow.org
 
+One day when I was having lunch with Richard Feynman, I mentioned to him that I was planning to start a company to build a parallel computer with a million processors. His reaction was unequivocal, "That is positively the dopiest idea I ever heard." For Richard a crazy idea was an opportunity to either prove it wrong or prove it right. Either way, he was interested. By the end of lunch he had agreed to spend the summer working at the company [..]
 
+The technical side of the project was definitely stretching our capacities. We had decided to simplify things by starting with only 64,000 processors, but even then the amount of work to do was overwhelming [..]
 
+Feynman's insistence on looking at the details helped us discover the potential of the machine for numerical computing and physical simulation. We had convinced ourselves at the time that the Connection Machine would not be efficient at "number-crunching," because the first prototype had no special hardware for vectors or floating point arithmetic. Both of these were "known" to be requirements for number-crunching. Feynman decided to test this assumption on a problem that he was familiar with in detail: quantum chromodynamics [..] According to Feynman's calculations, the Connection Machine, even without any special hardware for floating point arithmetic, would outperform a machine that CalTech was building for doing QCD calculations.By the end of that summer of 1983, Richard had completed his analysis of the behavior of the router, and much to our surprise and amusement, he presented his answer in the form of a set of partial differential equations. To a physicist this may seem natural, but to a computer designer, treating a set of boolean circuits as a continuous, differentiable system is a bit strange. Feynman's router equations were in terms of variables representing continuous quantities such as "the average number of 1 bits in a message address." I was much more accustomed to seeing analysis in terms of inductive proof and case analysis than taking the derivative of "the number of 1's" with respect to time. Our discrete analysis said we needed seven buffers per chip; Feynman's equations suggested that we only needed five. We decided to play it safe and ignore Feynman.
 
-at
+The decision to ignore Feynman's analysis was made in September, but by next spring we were up against a wall. The chips that we had designed were slightly too big to manufacture and the only way to solve the problem was to cut the number of buffers per chip back to five. Since Feynman's equations claimed we could do this safely, his unconventional methods of analysis started looking better and better to us. We decided to go ahead and make the chips with the smaller number of buffers.
 
-November 09, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Fortunately, he was right. When we put together the chips the machine worked.

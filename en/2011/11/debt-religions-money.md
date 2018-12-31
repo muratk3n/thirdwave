@@ -1,24 +1,25 @@
 # Debt, Religions, Money
 
+P2PFoundation Collection of interviews with David Graeber
 
+Back in ancient Mesopotamia, people didn't go to the bar or market with tiny bits of silver; they put things on the tab [..] Commerce meant trust. What we now think of as cash, in contrast -– gold and silver coinage, and with them, impersonal, cash markets –- was basically invented much later, mostly to pay soldiers, and as a side-effect of military operations.
 
+If you look at the last five thousand years of history, what you find is an alternation of periods where money basically means credit, periods of mostly virtual money, and periods where it's assumed to be a physical thing. It starts as credit.
 
+Then around the 7th century BC, you see, simultaneously in Greece, India, and China, the invention of coinage -– and for maybe a thousand years after that, vast empires, with huge standing armies paid in cash, cash markets, where they're among other things selling all the slaves conquered in the wars, most of whom end up working in the mines producing more gold and silver to pay the troops with.
 
-at
+In the Middle Ages it all shifts back again –- the great religions, which really started as anti-war movements, take over, the armies are disbanded, cash disappears, people go back to virtual money (both checks and paper money for instance were Medieval inventions.)
 
-November 23, 2011
+Then, after 1492 it swings the other way, again –- we're back to gold and silver money, vast empires, slavery comes back (and some might argue its still here –- if Plato or Aristotle were alive today I doubt they'd see much distinction between selling yourself and renting yourself, so they'd probably see most Americans as, effectively, slaves). That's the period of history that's just ending now. This is epochal. Changes on this scale only happen once every 500 or even 1000 years [..]. In the ancient Near East, they used to simply declare periodic debt cancellations. The Medieval religious authorities tended to ban interest payments outright. Always there was some kind of overarching institution, usually bigger than any government, to protect debtors, to prevent the bulk of the population from simply being reduced to slaves (which, of course, is how most indebted Americans feel most of the time.) [..]
 
+[T]his time around, the first thing we did was create the IMF, a vast overarching institution designed basically to protect creditors [..] I think it's significant that growing opposition to the "debt crises" being inflicted on people in Europe, in places like Greece and Spain, is a call for "real democracy." What they're effectively saying is, "In 2008, the financial elites let the cat out of the bag when they refused to let their banks fail like the textbooks say they were supposed to. As a result, we learned that the story about capitalism we'd been hearing for all these years wasn't really true. Markets don't really run themselves, and debts can be finagled out of existence if you really want them to be.
 
+"But if that's true, if debt is just a promise and promises can be renegotiated, then if democracy is going to mean anything, it has to mean that it’s us, the public, that gets the ultimate say over how that happens – not some hedge fund manager.” [..]
 
+I find it somewhat amusing that a lot of conventional thinkers, when they hear me talk about ancient clean slates, Jubilees and whatnot, respond “but that couldn’t really be true! It would have a terrible effect on economic activity.”
 
+Well, perhaps, but what they don’t take into account is that “economic activity” of that sort, the sort which was based on cash or precisely quantified, legally enforced loans (rather than relations based on honor and trust between people with genuine moral relations with one another)—well, for most of human history, that was largely a side-effect of military operations. Coinage is invented to pay soldiers, and markets that used them tended to crop up alongside military camps.
 
+Similarly the modern banking system arises to help fund European wars. Central banks, in turn, institutionalized that system, since the debts they manage are basically government war debt, and always have been—at least back to 1694, when King William II offered some London merchants who’d made a loan of £1.2 million to fight a war in France the right to call themselves “The Bank of England” and loan that money he owed them to others in the form of banknotes, thus bringing our current currency system into existence. Modern money is still basically government war debt [..].
 
-
-
-
-
-
-
-
-
-
+The great Classicist Moses Finley suggested that there was basically one single revolutionary program in all of antiquity: “abolish the debts, and redistribute the land.” The interesting thing is this is still much more true than we imagine. Take the recent revolutions in the Middle East. One of the biggest factors in the Egyptian revolution, hardly talked about, is microcredit. Gamal Mubarak [Hosni Mubarak's son], who used to work for Bank of America, decided he wanted to move away from the old welfare state model to a microcredit development model; since no one had any collateral to repossess, the police then became the guys who showed up to break your legs. Hence the universal outrage over police brutality.

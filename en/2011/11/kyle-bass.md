@@ -1,24 +1,3 @@
 # Kyle Bass
 
-
-
-
-
-at
-
-November 16, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Bass is one of the few investors who predicted and bet against subprime mortgage mess. An interview below:
