@@ -22,21 +22,7 @@ and practices in the research community for software and data citation
 and attribution, so that data producers, software and tool developers, 
 and data curators are credited for their contributions.
 
-
-
  Note: Perez is the creator of the iPython Notebook technology. 
-
-
-
-
-
-
-
-at
-
-April 16, 2014
-
-
 
 
 

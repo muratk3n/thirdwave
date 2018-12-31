@@ -1,7 +1,21 @@
 # Namecoin
-On Saturday, I registered [his site] elidourado.bit using Namecoin and pointed it to the IP address of the webserver that hosts my website. If you have access to a suitably-configured DNS server (or know how to use a Namecoin proxy), when you browse to http://elidourado.bit, it will redirect you to elidourado.com, the canonical name of the site [..].
 
-For an Internet governance nerd like me, this is exciting. Many of the political battles over Internet governance have really been about the Internet Assigned Numbers Authority, which is the function of ICANN that is nominally overseen by the US Department of Commerce. Although much of the architecture of the Internet is decentralized, the domain name system isn’t, and at the top of the hierarchy sit ICANN, IANA, and the US government.
+http://theumlaut.com/2014/02/05/namecoin-icann/
+
+On Saturday, I registered [his site] elidourado.bit using Namecoin and
+pointed it to the IP address of the webserver that hosts my
+website. If you have access to a suitably-configured DNS server (or
+know how to use a Namecoin proxy), when you browse to
+http://elidourado.bit, it will redirect you to elidourado.com, the
+canonical name of the site [..].
+
+For an Internet governance nerd like me, this is exciting. Many of the
+political battles over Internet governance have really been about the
+Internet Assigned Numbers Authority, which is the function of ICANN
+that is nominally overseen by the US Department of Commerce. Although
+much of the architecture of the Internet is decentralized, the domain
+name system isn’t, and at the top of the hierarchy sit ICANN, IANA,
+and the US government.
 
 Actual US oversight of IANA is mostly theoretical—the US didn’t interfere technically, for instance, when ICANN added .xxx to the list of top-level domains even though the US opposed the move—but it has nevertheless become a powerful symbol for other governments, all of whom have come to rely on a resource that is theoretically under the control of the US [..]. 
 

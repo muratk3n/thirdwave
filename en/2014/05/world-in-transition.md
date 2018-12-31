@@ -1,15 +1,6 @@
 # World In Transition
 
-
-
-
-
-
-
-at
-
-May 12, 2014
-
+https://youtu.be/NP0P2BT0vTc
 
 
 

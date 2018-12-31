@@ -2,17 +2,7 @@
 
 It sounds unreal. Hope the cost is manageable. Very cool.
 
-
-
-
-
-
-
-at
-
-May 28, 2014
-
-
+https://youtu.be/qlTA3rnpgzU
 
 
 
