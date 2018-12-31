@@ -1,4 +1,5 @@
 # New Study Finds Revealing Patterns in Chinese Internet Censorship
+
 Instead of simply censoring topics critical of the government or that make China look bad, the study finds, the country’s human censors specifically target posts that could lead to protests or other forms of collective action, leaving ample room for China’s web users to criticize its government [..].
  
 
@@ -17,17 +18,6 @@ light.” [..]
 
 The average Chinese netizen can use clever wordplay and wit to skirt 
 these first two mechanisms, Mr. King says [..]
-
-
-
-
-
-
-
-at
-
-June 15, 2012
-
 
 
 

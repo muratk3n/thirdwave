@@ -1,6 +1,5 @@
 # #slam
 
-
 One of the fundamental rules of criticism is to 
 review a work within the expectations and standards of its genre. I 
 can’t do that with Prometheus, because it didn’t fit within a genre. And
@@ -48,20 +47,6 @@ In the end, I found that I had watched a big vision film diluted by its
  diversions into monsterdom. Or perhaps a monster film that was diluted 
 by the hubris of trying to make us think Big Vision Thoughts. Either 
 way, it didn’t work for me.
-
-
-
-
-
-
-
-
-
-
-
-at
-
-June 25, 2012
 
 
 

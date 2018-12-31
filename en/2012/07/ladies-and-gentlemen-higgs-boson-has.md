@@ -1,4 +1,5 @@
 # Ladies and Gentlemen, the Higgs Boson has been found!
+
 I know that I should probably not be doing this but I am too excited not to: I have it on very
  good authority from a prominent experimental physicist in the middle of
  the action that CERN will indeed be announcing the discovery of the 

@@ -1,4 +1,5 @@
 # Is hardware getting soft?
+
 Everyone now knows how easy it’s become to launch a software startup. 
 You can do it for virtually no capital, by just learning the skills of 
 coding and using widely available infrastructure services [..]

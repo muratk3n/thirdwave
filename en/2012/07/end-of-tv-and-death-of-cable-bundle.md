@@ -1,5 +1,7 @@
 # The End of TV and the Death of the Cable Bundle
-Two small pieces of news yesterday could make for a big headache for TV.
+
+Two small pieces of news yesterday could make for a big headache for
+TV.
 
 First,
  Viacom yanked its 19 channels -- including Nickelodeon, MTV and Comedy 

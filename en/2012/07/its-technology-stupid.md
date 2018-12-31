@@ -1,4 +1,5 @@
 # It’s the Technology, Stupid!
+
 Just four years ago during America’s presidential election, outsourcing to India and China’s currency manipulation were the bogeymen, the former blamed for the loss of jobs and the latter for the 
 weakness of exports. But increasingly the culprit is the robot. 
 Automation now removes as many manufacturing jobs from the economy as 

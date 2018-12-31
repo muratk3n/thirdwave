@@ -1,4 +1,5 @@
 # Labor’s Decline and Wage Inequality
+
 The decline in organized labor’s power and membership has played a 
 larger role in fostering increased wage inequality in the United States 
 than is generally thought. [.. T]wo professors found that the decline of organized labor held down wages in union and nonunion workplaces alike. Many nonunion employers — especially decades ago, when unions represented more than 30 percent of the private sector work force — raised wages to help avert the threat of union organizing.
@@ -17,15 +18,6 @@ Unions sadly became just another layer of management, and worse, with unclear re
 The Left in US needs to think less blue-collar, less (20th century) industrial and more hi-tech, and white collar. I understand at one point in your history you were "lost in the wilderness" for which you needed the current line-up of tactical operators that would save you -- these people were able to adapt to the current "realities", managed the day-day better, provided more action, and less thinking, which was good for you considering how messed up your thinking was in the past. But now you seem to be reverting back to type thinking maybe there were some  "gems" in the good ol' days. IMHO both of these roads are defunct, and will take you nowhere. Better (and different) ideas are needed.
 
 
-
-
-
-
-
-
-at
-
-June 09, 2012
 
 
 
