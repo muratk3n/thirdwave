@@ -1,17 +1,6 @@
-# Forget the new iPhone
+# Forget the new iPhone, Phonebloks
 
-
-
-
-
-
-
-
-
-at
-
-September 13, 2013
-
+https://youtu.be/oDAw7vW7H0c
 
 
 

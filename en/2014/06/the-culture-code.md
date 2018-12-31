@@ -83,5 +83,9 @@ Related
 
 [Codes, Axel Boldt Article](../../2011/11/codes-axel-boldt-article.md)
 
+[What is Legitimacy?](../../2013/09/what-is-legitimacy.md)
+
+
+
 
 

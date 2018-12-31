@@ -1,4 +1,5 @@
 # School is a prison — and damaging our kids
+
 Parents send their children to school with the best of intentions, 
 believing that’s what they need to become productive and happy adults. 
 Many have qualms about how well schools are performing, but the 
@@ -20,21 +21,6 @@ Moreover, the more scientists have learned about how children naturally
 learn, the more we have come to realize that children learn most deeply 
 and fully, and with greatest enthusiasm, in conditions that are almost 
 opposite to those of school.
-
-
-
-
-
-
-
-
-
-at
-
-September 06, 2013
-
-
-
 
 
 
