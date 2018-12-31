@@ -1,7 +1,10 @@
 # #wha?
-Matters have been not helped by the American media’s characterization of
- the Obama administration’s relative rebalancing of focus toward Asia as
- a “pivot” (a word never used by the president)
+
+Brezinski article
+
+Matters have been not helped by the American media’s characterization
+ of the Obama administration’s relative rebalancing of focus toward
+ Asia as a “pivot” (a word never used by the president)
 
 Actually it was
 
@@ -20,18 +23,6 @@ Did EU ask Britain to get involved more in that effort since it has a more exper
 Just brainstorming here on some strategery. In the end though, this is all small-time stuff. Much larger forces are in play now.
 
 But, I do agree we are in a way, in the Post-Hegemonic Age.
-
-
-
-
-
-
-
-
-at
-
-February 14, 2013
-
 
 
 

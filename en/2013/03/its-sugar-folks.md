@@ -1,4 +1,5 @@
 # It’s the Sugar, Folks
+
 Sugar is indeed toxic. It may not be the only problem with the Standard American Diet, but it’s fast becoming clear that it’s the major one. [.. T]he researchers found that increased sugar in a population’s food supply was linked to higher diabetes rates independent of rates of obesity.
 
 In other words, according to this study, it’s not just obesity that can cause diabetes: sugar can cause it, too, irrespective of obesity. And obesity does not always lead to diabetes.
@@ -19,18 +20,6 @@ Montignac's explanation of weight gain is entirely different. There are bad carb
 Then, ingesting fat (lipids) on their own will not cause weight gain. 
 
 I heard of variations of M.'s approach, Atkins Diet, Paleolithic Diet, etc. None of these variations are entirely on par with Montignac's teaching, it's not about eliminating grains entirely - there are good grains. Montignac does not say "eat proteins all the time" either which a lot of Atkins followers seem to  do. 
-
-
-
-
-
-
-
-at
-
-March 03, 2013
-
-
 
 
 

@@ -1,4 +1,5 @@
 # Citizen Soldiers
+
 Napoleon had disturbed the the European balance of power fundamentally, and the French ideals of revolution and individual rights threathened the ancient  regimes everywhere [..]
 
 Battles of Napoleonic era had a higher ratio of casualties than those of the eighteenth century because the nature of armies had changed. In the eighteenth century, armies were, in effect, royal possession, their officers drawn from the aristocracy with a personal alligence to the monarch. Most wars, therefore, did not involve the great population combatants hardly at all. Troops were professional soldiers, mercenaries, and foreigners. Desertion was high.
@@ -16,21 +17,6 @@ We keep pointing at the twin-headed development of ideas in the past three hundr
 --- 
 
 [1] Why didnt we have decentralized tech, such the Internet, before centralized tech, such as nuclear weapons? The answer to this question has to do with the natural progression of tech. There is no way you can jump from steam engines to microprocessors and AI in a decade. You need to develop in steps. Along the way, naturally, you will have half-baked tech which requires manual input at various degrees, hence you have the second wave factory, assembly-line, single channel TV, centrally controlled telegraph. There is no way around this. But one day, you get the transistor, and that changes everything.
-
-
-
-
-
-
-
-at
-
-February 03, 2013
-
-
-
-
-
 
 
 

@@ -1,5 +1,23 @@
 # Startup Sovereigns
-Statehood ain’t what it used to be.The competition for authority within and between states is as intense as ever in history [..]. Historically, technological revolutions [..] have catalyzed tensions over authority, as new communities seize opportunities for control. It is now happening again, allowing alternative authorities to flourish — and in some places, even directly challenge state sovereignty.And yet mainstream international relations thinking continues to overemphasize military might and other traditional tools of state power. The prevailing literature on the evolution of governance, for instance, assumes a state-centric order and widely neglects the role of technology. Francis Fukuyama’s most recent volume, Origins of Political Order, is emblematic of these oversights: As it sweeps across the centuries, it presumes a constant quest for statehood even into the 21st century, ignoring the potential for novel forms of transnational communities. But now, as the current Information Revolution spreads around the world, aspirant communities are building economic and social capital, acquiring varying degrees of autonomy, and accruing authority [..]
+
+Statehood ain’t what it used to be.The competition for authority
+within and between states is as intense as ever in history
+[..]. Historically, technological revolutions [..] have catalyzed
+tensions over authority, as new communities seize opportunities for
+control. It is now happening again, allowing alternative authorities
+to flourish — and in some places, even directly challenge state
+sovereignty.And yet mainstream international relations thinking
+continues to overemphasize military might and other traditional tools
+of state power. The prevailing literature on the evolution of
+governance, for instance, assumes a state-centric order and widely
+neglects the role of technology. Francis Fukuyama’s most recent
+volume, Origins of Political Order, is emblematic of these oversights:
+As it sweeps across the centuries, it presumes a constant quest for
+statehood even into the 21st century, ignoring the potential for novel
+forms of transnational communities. But now, as the current
+Information Revolution spreads around the world, aspirant communities
+are building economic and social capital, acquiring varying degrees of
+autonomy, and accruing authority [..]
 
 All the traditional tools of state power — the monopoly over arms and 
 violence, dominance over tools of communication, and external 
@@ -34,18 +52,6 @@ central governments is diminished in favor of technologically enabled
 horizontal networks of consumers and civic groups, as well as the 
 technology providers whose software allows them to evade government 
 control. 
-
-
-
-
-
-
-
-
-
-at
-
-February 15, 2013
 
 
 

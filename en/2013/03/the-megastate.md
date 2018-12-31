@@ -1,4 +1,5 @@
 # The Megastate
+
 The shift from the national state to the Megastate began in the last decades of the nineteenth century. The first small step toward the Megastate was Bismarck’s invention in the 1880s of the Welfare State. Bismarck’s goal was to combat the rapidly rising socialist tide. It was a response to the threat of class war. Government had previously been perceived exclusively as a political agency. Bismarck made government into a social agency. His own welfare measures health insurance, insurance against industrial accidents, old-age pensions (followed thirty years later, after World War I, by the British invention of unemployment insurance)—were modest enough. But the principle was radical; and it is the principle that has had far greater effect than the individual actions taken in its name. [So the welfare state was born ..].
   
 The Great Depression gave rise to the belief that the national government is—and should be—in control of the economic weather. The English economist John Maynard Keynes [..]  claimed that [the] national economy is totally determined by governmental policy, to whit, by government spending. However much today’s economists otherwise differ from each other, all of them: Friedmanites, supply-siders, and the other post-Keynesians all follow Keynes in these two tenets. They all consider the nation-state and its government the master of the national economy and the controller of its economic weather. [Manager state is born].
@@ -19,16 +20,6 @@ Defense, it was implicit in the [argument] no longer means keeping the warfare a
 But even after World War II, the United States for a few short years tried to revert to a “normal” peacetime state. It tried to disarm as fast as possible, and as completely as possible. The coming of the Cold War in the Truman and Eisenhower years changed all this. Since then, the Cold War State has been the dominant organization of international politics.
 
 By 1960, the Megastate had become a political reality in developed countries in all its aspects: as social agency; as master of the economy; as fiscal state; and in most countries as Cold War State.
-
-
-
-
-
-
-
-at
-
-March 28, 2013
 
 
 

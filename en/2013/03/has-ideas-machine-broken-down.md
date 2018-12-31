@@ -1,12 +1,14 @@
 # Has the ideas machine broken down?
-[I]t may come as a surprise that some in Silicon Valley think the place is 
-stagnant, and that the rate of innovation has been slackening for 
-decades. Peter Thiel, a founder of PayPal, an internet payment company, 
-and the first outside investor in Facebook, a social network, says that 
-innovation in America is “somewhere between dire straits and dead" [..] Mr Cowen is more willing to imagine big technological gains ahead, but 
-he thinks there are no more low-hanging fruit. Turning terabytes of 
-genomic knowledge into medical benefit is a lot harder than discovering 
-and mass producing antibiotics.
+
+[I]t may come as a surprise that some in Silicon Valley think the
+place is stagnant, and that the rate of innovation has been slackening
+for decades. Peter Thiel, a founder of PayPal, an internet payment
+company, and the first outside investor in Facebook, a social network,
+says that innovation in America is “somewhere between dire straits and
+dead" [..] Mr Cowen is more willing to imagine big technological gains
+ahead, but he thinks there are no more low-hanging fruit. Turning
+terabytes of genomic knowledge into medical benefit is a lot harder
+than discovering and mass producing antibiotics.
 
 Pfff..
 
@@ -48,15 +50,6 @@ revolutionary changes—which could be a lot more likely than flying cars.
 
 EXACTLY
 
-
-
-
-
-
-
-at
-
-March 19, 2013
 
 
 

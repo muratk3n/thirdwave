@@ -1,9 +1,24 @@
 # Your Massively Open Offline College Is Broken
-I wrote a thing last fall about massive open online courses (MOOCs, in the parlance), and the challenge that free or cheap online classes pose to business as usual in higher ed. In that piece, I compared the people running colleges today to music industry executives in the age of Napster [..]
 
-[An opponent]'s answers seem to be that in the world of higher education, things are going fine, mostly, and that the parts that aren’t going fine can largely be fixed with tax dollars. (Because if there’s one group you'd pin your hopes for an American renaissance on, it would be state legislators.) I have a different answer: School is broken and everyone knows it.
+I wrote a thing last fall about massive open online courses (MOOCs, in
+the parlance), and the challenge that free or cheap online classes
+pose to business as usual in higher ed. In that piece, I compared the
+people running colleges today to music industry executives in the age
+of Napster [..]
 
-That sentiment is the first sentence of Kio Stark’s forthcoming book, Don’t Go Back to School. It’s a guide for people taking the advice in the title; Stark interviewed almost hundred people who dropped out or took a pass on everything from high school to grad school, but still figured out how to learn what they needed to learn, in order to do what they wanted to do [..].
+[An opponent]'s answers seem to be that in the world of higher
+education, things are going fine, mostly, and that the parts that
+aren’t going fine can largely be fixed with tax dollars. (Because if
+there’s one group you'd pin your hopes for an American renaissance on,
+it would be state legislators.) I have a different answer: School is
+broken and everyone knows it.
+
+That sentiment is the first sentence of Kio Stark’s forthcoming book,
+Don’t Go Back to School. It’s a guide for people taking the advice in
+the title; Stark interviewed almost hundred people who dropped out or
+took a pass on everything from high school to grad school, but still
+figured out how to learn what they needed to learn, in order to do
+what they wanted to do [..].
 
 Forget private school. Tuition and fees at public four-year colleges went up 72% last decade, even as the market value of a bachelor's degree fell by 15%.
 
@@ -47,20 +62,6 @@ For all our good will, college in the U.S. has gotten worse for nearly everyone 
 The competition from upstart organizations will make things worse for many of us. (I like the experiments we’ve got going at NYU, but I don’t fantasize that we'll be unscathed.) After two decades of watching, though, I also know that that’s how these changes go. No industry has ever organized an orderly sharing of power with newcomers, no matter how interesting or valuable their ideas are, unless under mortal threat.
 
 Instead, like every threatened profession, I see my peers arguing that we, uniquely, deserve a permanent bulwark against insurgents, that we must be left in charge of our destiny, or society will suffer the consequences. Even the record store clerks tried that argument, back in the day. In the academy, we have a lot of good ideas and a lot of practice at making people smarter, but it’s not obvious that we have the best ideas, and it is obvious that we don’t have all the ideas. For us to behave as if we have—or should have—a monopoly on educating adults is just ridiculous.
-
-
-
-
-
-
-
-
-at
-
-February 08, 2013
-
-
-
 
 
 

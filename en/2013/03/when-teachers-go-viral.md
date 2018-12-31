@@ -1,4 +1,5 @@
 # When Teachers Go Viral
+
 Here’s the future of college: Most degrees will be granted online, the 
 best teachers will become rock stars, and eventually students become 
 largely untethered. They will demand that universities let them mix and 
@@ -75,17 +76,6 @@ Nice.
 My $0.02, it will be beneficial for teachers, universities to leave all the course material on the Net, available at all times (also good for public). There will be no "enrolling to the course" to view material, the class will not "start" or "end". The class will always be on. Money (or whatever its replacement is in the post-industrial world) is made for certification, for grading and additional help.
 
 The evaluators dont even have to be associated directly with the teachers and universities either, evaluation / certification could be a whole different, parallel market. A student could follow an ML course from Stanford, have his knowledge evaluated in Shangai by an evaluator who is known for evaluating that course, and is local to the student.
-
-
-
-
-
-
-
-at
-
-March 17, 2013
-
 
 
 

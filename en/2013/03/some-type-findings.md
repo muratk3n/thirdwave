@@ -1,4 +1,5 @@
 # Some Type Findings
+
 ESTP comedian idolizes ESTP Eddie Murphy, ESFP Bill Clinton idolizes ESFP Kennedy, NTP Bam INTP Lincoln, ESTP Erdogan ISTP Putin, INTJ Zuckerberg INTJ Gates. There is a band of INTJ economists who hang on "The Master" Keynes for dear life, who was an INTJ. Ditto for Greenspan and Ayn Rand (Marx apparently was also an INTJ). 
 
 A related note: the theoretical bent of the INTJs appears to be not too strong. Or rather INTJ has a way of cutting off information (empirical evidence, more cases) at certain point and declare the theory "done", and avoid pursuing it further. The intuitive function of INTJs, Ni, can be surprisingly convergent too - 
@@ -17,8 +18,6 @@ So here is a great STPs figure!  But let's not forget after the war the electora
 
 
 "You have enemies? Good. That means you've stood up for something, sometime in your life." [stressing courage]
-
-
 
 "Courage is rightly esteemed the first of human qualities." [again]
 
@@ -39,18 +38,6 @@ While reading these older texts though, I cannot help but think how much ahead w
 [1] A Functioning Society, pg. 36
 
 [2] Ayn Rand's incessant rants on this man is also quite annoying BTW.
-
-
-
-
-
-
-
-
-at
-
-March 30, 2013
-
 
 
 

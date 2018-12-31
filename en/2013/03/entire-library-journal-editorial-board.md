@@ -1,4 +1,5 @@
 # Entire library journal editorial board resigns
+
 In a dramatic show of support for the open access movement, the 
 editor-in-chief and entire editorial board of the Journal of Library 
 Administration announced their resignation last week.

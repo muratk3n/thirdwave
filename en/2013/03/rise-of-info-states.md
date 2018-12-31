@@ -1,4 +1,5 @@
 # Rise of the Info-States
+
 Edging toward the sweet spot of new-century governance, the 
 info-state represents a growing number of dynamic and entrepreneurial 
 cities, city-states or small nations scattered around the world that 
@@ -34,17 +35,6 @@ other sectors. Israel has also made economic diversification into
 technology sectors a national priority, distributing so much funding for
  small-scale entrepreneurs that it has earned the title ‘start-up 
 nation.’ 
-
-
-
-
-
-
-
-
-at
-
-March 14, 2013
 
 
 
