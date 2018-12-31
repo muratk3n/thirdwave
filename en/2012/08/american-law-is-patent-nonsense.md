@@ -1,4 +1,5 @@
 # American law is patent nonsense
+
 The season of US election conventions is upon us. Politicians will issue sentimental proclamations about their faith in America. Meanwhile, from California, we have an object lesson in why that faith has been eroding. A supposed pillar of the nation’s capitalist vigour has been revealed in all its decadence [..].
 
 
@@ -22,19 +23,6 @@ Another  thing:
 The reason that it, sorta, kinda seemed that the patent system worked until now is precisely for the  opposite reason than people might expect. The system seemingly worked because not many people gave much damn about it.  If Xerox Parc sued Apple for infringing its ideas during the 80s, Apple would never become today's Apple and ironically one day be able to successfully sue Samsung for the same crime. If Parc took the hammer to then growing Apple and beat the living shit out of it, then Apple fanboys all around the world would not have had shiny little toys to play with today.
 
 Food for thought.
-
-
-
-
-
-
-
-at
-
-August 29, 2012
-
-
-
 
 
 

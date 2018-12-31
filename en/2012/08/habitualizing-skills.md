@@ -1,4 +1,5 @@
 # Habitualizing Skills
+
 An M.I.T. neuroscientist named Ann Graybiel told me that she and her colleagues began exploring habits [..] While each animal wandered through the maze, 
 its brain was working furiously. Every time a rat sniffed the air or 
 scratched a wall, the neurosensors inside the animal’s head exploded 
@@ -17,26 +18,9 @@ in your mouth. Some, like making the kids’ lunch, are a little more
 complex. Still others are so complicated that it’s remarkable to realize
  that a habit could have emerged at all. 
 
-
 ---
 
 The article above and this are talking about the same thing
-
-
-
-
-
-
-
-
-at
-
-August 16, 2012
-
-
-
-
-
 
 
 

@@ -1,4 +1,5 @@
 # University applications decline is a 'storm warning'
+
 It emerged that the total number of people applying to English
 universities has fallen from 421,448 to 384,170 – a drop of almost
 nine per cent.
@@ -19,29 +20,4 @@ student choices.
 ---
 
 Oh yeeaahhh
-
-
-
-
-
-
-
-
-at
-
-September 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

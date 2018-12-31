@@ -1,4 +1,5 @@
 # Economics In Denial
+
 In an exasperated outburst, just before he left the
 presidency of the European Central Bank, Jean-Claude Trichet
 complained that, “as a policymaker during the crisis, I found the
@@ -23,18 +24,6 @@ crisis was not predicted because economic theory predicts that
 such events cannot be predicted.
 
 So all is well.
-
-
-
-
-
-
-
-
-at
-
-August 28, 2012
-
 
 
 

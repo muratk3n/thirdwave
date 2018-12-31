@@ -1,4 +1,5 @@
 # Obama’s Changed Hope
+
 He floats above. He holds back. And that rankles his allies 
 and even some of his intimates not just because it wounds their vanity 
 (though of course it does) but because it hampers his effectiveness. He 
@@ -23,31 +24,4 @@ The reason I objected to Rational label for Bam for sometime is .. well, I know 
 Weak (but present) Si would also imply a battle with the old way and new way of doing things.
 
 An INTP certainly takes his / her sweet time before "getting started". They like to explore options more than going ahead with the final implementation. Albert Einstein (not that each INTP is on par with the man) certainly took his sweet time before coming up with his theories - at one point (before his final discovery) he even made a presentation where, among other guests, mathematician Hilbert was also present. That m-f-ker immediately latched on to the ideas he heard -the man had a frightening intellect- and started forming the theory of relativity on his own. At the end something must have lit a fire under Einstein (Hilbert or something else), so he finally finished the theory himself. But the point is, he took his sweeeeet time getting there. INTP is known to do this. 
-
-
-
-
-
-
-
-
-
-
-at
-
-September 26, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,4 +1,5 @@
 # Realtechnik, Nausea and Technological Longing
+
 The story of barbed wire is one of the most instructive ones in the 
 history of technology.  The short version is this: barbed wire 
 (developed between 1860 to 1873) helped close the American frontier, 

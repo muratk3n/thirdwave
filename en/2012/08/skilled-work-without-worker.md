@@ -1,4 +1,5 @@
 # Skilled Work, Without the Worker
+
 DRACHTEN, the Netherlands — At the Philips Electronics factory on the 
 coast of China, hundreds of workers use their hands and specialized 
 tools to assemble electric shavers. That is the old way. At a sister factory here in the Dutch countryside, 128 robot arms do the

@@ -1,16 +1,6 @@
 # Patent Violation
 
-
-
-
-
-
-
-
-at
-
-September 04, 2012
-
+https://youtu.be/rAtje5weAU0
 
 
 

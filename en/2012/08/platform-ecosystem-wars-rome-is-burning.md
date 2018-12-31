@@ -1,4 +1,5 @@
 # Platform Ecosystem Wars: Rome Is Burning
+
 It is either a good week to be having a CrunchUp
  focusing on the faltering Facebook ecosystem or it is a terrible week. 
 Either way it is a compelling and interesting week, and whether it is 

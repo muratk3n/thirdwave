@@ -1,8 +1,5 @@
 # No Classrooms in Sweden
 
-
-
-
 Link 
 
 There’s a whole new classroom model and it’s a sight to behold. The
@@ -27,28 +24,5 @@ based on their level and not age.
 Most of all, admission to the school is free as long as one of the
 child’s parents pays taxes in Sweden and the child has a ‘personal
 number’ which is like a social security number to our U.S. readers.
-
-
-
-
-
-
-
-at
-
-September 18, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

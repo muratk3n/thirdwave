@@ -1,4 +1,7 @@
 # Status, Legitimacy
+
+A Functioning Society, Peter Drucker
+
 No society can function as a society unless it gives the individual member social status and function, and unless the decisive social power is legitimate power [..]
 
 Social status and function of the individual is the equation of the relationship between the group and the individual member. It symbolizes the integration of the individual with the group, and that of the group with the individual. It expresses the individual purpose in terms of the society, and the social purpose in terms of the individual. It thus makes comprehensible and rational individual existence from the point of the group, and group existence from that of the individual [..] Lack of social status and function, and absence of a functional relationship between society and individual are at the bottom of every persecution of minorities which either are without social status and function—that is, not integrated into society [..]
@@ -26,19 +29,6 @@ Illegitimate power is a power which does not derive its claim from the basic bel
 No illegitimate ruler can possibly be a good or wise ruler. Illegitimate power invariable corrupts; for it can be only “might,” never authority. It cannot be a controlled, limited, responsible, or rationally determinable power. And it has been an axiom of politics—ever since Tacitus in his history of the Roman emperors gave us one case study after another—that no human being, however good, wise or judicious, can wield uncontrolled, irresponsible, unlimited or rationally not determinable power without becoming very soon arbitrary, cruel, inhuman and capricious—in other words, a tyrant.
 
 For all these reasons a society in which the socially decisive power is illegitimate power cannot function as a society. It can only be held together by sheer brute force—tyranny, slavery, civil war. Of course, force is the ultimate safeguard of every power; but in a functioning society it is not more than a desperate remedy for exceptional and rare diseases. In a functioning society power is exercised as authority, and authority is the rule of right over might. But only a legitimate power can have authority and can expect and command that social self-discipline which alone makes organized institutional life possible. Illegitimate power, even if wielded by the best and the wisest, can never depend upon anything but the submission to force. On that basis a functioning, institutional organization of social life cannot be built. Even the best tyrant is still a tyrant.
-
-
-
-
-
-
-
-at
-
-August 19, 2012
-
-
-
 
 
 

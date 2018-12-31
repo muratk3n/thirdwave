@@ -1,4 +1,7 @@
 # What-ever
+
+Link
+
 There is a quote attributed to the futurist Alvin Toffler that captures 
 this new reality: In the future “illiteracy will not be defined by those
  who cannot read and write, but by those who cannot learn and relearn.” [..] You have to work harder and smarter and develop new skills faster.
@@ -16,21 +19,6 @@ Change but WHAT KIND? The man wrote hundreds of pages to explain you what that i
 Anyway; I found out about the comical "New Rules" link from here. I'll let him do the rest of the bitchslapping from here on. 
 
 Also see here about working hard.
-
-
-
-
-
-
-
-
-at
-
-September 16, 2012
-
-
-
-
 
 
 

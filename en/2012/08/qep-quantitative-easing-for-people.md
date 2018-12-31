@@ -1,5 +1,17 @@
 # Q.E.P - Quantitative Easing for the People
-Through an almost astrological coincidence of timing, the European Central Bank, the Bank of England and the U.S. Federal Reserve Board all held their policy meetings this week immediately after Wednesday’s publication of the weakest manufacturing numbers for Europe and America since the summer of 2009. With the euro-zone and Britain clearly back in deep recession and the U.S. apparently on the brink, the central bankers all decided to do nothing, at least for the moment. They all restated their unbreakable resolution to do “whatever it takes” – to prevent a breakup of the euro, in the case of the ECB, or, for the Fed and the BoE, to achieve the more limited goal of economic recovery. But what exactly is there left for the central bankers to do? [..]
+
+Through an almost astrological coincidence of timing, the European
+Central Bank, the Bank of England and the U.S. Federal Reserve Board
+all held their policy meetings this week immediately after Wednesday’s
+publication of the weakest manufacturing numbers for Europe and
+America since the summer of 2009. With the euro-zone and Britain
+clearly back in deep recession and the U.S. apparently on the brink,
+the central bankers all decided to do nothing, at least for the
+moment. They all restated their unbreakable resolution to do “whatever
+it takes” – to prevent a breakup of the euro, in the case of the ECB,
+or, for the Fed and the BoE, to achieve the more limited goal of
+economic recovery. But what exactly is there left for the central
+bankers to do? [..]
 
 One [..] radical [alternative] measure is too controversial for any policymaker to 
 mention publicly, although some have discussed it in private: Instead of
@@ -23,15 +35,6 @@ windfalls decided to spend them on extra consumption or save them and
 reduce debts.
 
 
-
-
-
-
-
-
-at
-
-August 10, 2012
 
 
 

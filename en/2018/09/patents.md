@@ -14,7 +14,7 @@
 
 [Shuttleworth on Patents](../../2011/08/shuttleworth-on-patents.md)
 
-
+[When Patents Attack!](../../2012/08/when-patents-attack.md)
 
 
 
