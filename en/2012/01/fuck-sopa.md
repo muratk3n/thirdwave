@@ -1,27 +1,4 @@
 # Fuck SOPA
 
-
-
-
-
-
-
-
-at
-
-January 20, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/9h2dF-IsH0I
 
