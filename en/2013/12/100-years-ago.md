@@ -1,4 +1,5 @@
 # 100 Years Ago
+
 100 years ago last week [..] the Federal Reserve system was born.
 
 The Fed was born out of the Panic of 1907. The collapse of the Knickerbocker Trust Company triggered a run on banks across the United States which was only stemmed by the deliberately high profile intervention of famed financier JP Morgan. He assembled and led a consortium of leading financiers to put their own money into the system.
@@ -18,18 +19,6 @@ As a result of this fresh infusion of liquidity, currently running at about $85 
 The reverse happened a day later. When the results of a US consumer confidence survey came in “far worse than expected” stock markets rallied and now the Telegraph headline read “Wall Street edges higher on disappointing data”. Stock markets are supposed to be driven by the expectations of the profitability (or not) of the stocks being traded, not the pursuit of speculative gains caused by the monetary manipulations of central bankers. We now appear to be in a position where the interests of financial markets are precisely at odds with the interests of the rest of the economy; where the good news for us is bad news for them and bad news for us is good news for them.
 
 The one way bet of the Greenspan Put maintained, so far, by Ben Bernanke, has created a market of monetary-punch-drunk liquidityholics. On its 100th birthday the Federal Reserve has the tricky task of sneaking the punch bowl out of the party, a task it seems they’ll struggle to manage without starting a riot. They may have printed themselves into a corner.
-
-
-
-
-
-
-
-at
-
-December 26, 2013
-
-
 
 
 

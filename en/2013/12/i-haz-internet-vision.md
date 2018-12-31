@@ -1,5 +1,18 @@
 # I Haz Internet Vision
-After two decades online, I'm perplexed. It's not that I haven't had a gas of a good time on the Internet. I've met great people and even caught a hacker or two. But today, I'm uneasy about this most trendy and oversold community. Visionaries see a future of telecommuting workers, interactive libraries and multimedia classrooms. They speak of electronic town meetings and virtual communities. Commerce and business will shift from offices and malls to networks and modems. And the freedom of digital networks will make government more democratic. Baloney. 
+
+Clifford Stoll, 1995
+
+http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306
+
+After two decades online, I'm perplexed. It's not that I haven't had a
+gas of a good time on the Internet. I've met great people and even
+caught a hacker or two. But today, I'm uneasy about this most trendy
+and oversold community. Visionaries see a future of telecommuting
+workers, interactive libraries and multimedia classrooms. They speak
+of electronic town meetings and virtual communities. Commerce and
+business will shift from offices and malls to networks and modems. And
+the freedom of digital networks will make government more
+democratic. Baloney.
 
 Ha ha
 
@@ -22,18 +35,6 @@ As we watched Mr. Scott being roasted here, the editor of The Guardian, Alan Rus
 Have you people gone completely mad? 
 
 Seriously. What the frack is going on over there? 
-
-
-
-
-
-
-
-
-at
-
-December 14, 2013
-
 
 
 

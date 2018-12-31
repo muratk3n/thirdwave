@@ -1,4 +1,5 @@
 # An Accident to be Corrected: Mass Media
+
 When it comes to the traditional media business, there is often a pervasive nostalgia for “the good old days,” when a handful of newspapers and TV networks ruled over the media landscape and profitability was so taken for granted that huge family dynasties with names like Sulzberger and Bancroft were built on that foundation. Many media executives no doubt dream about magically returning to such a time. But what if those days were just an illusion — a kind of accident of history? What would that mean for the future of media? [..]
 
 As Humphreys describes it, her research shows that if you look at human communication over a longer period than just the past generation or two, it becomes obvious that one-way, broadcast-style “mass media” isn’t the norm at all — instead, the norm is interpersonal or multi-directional communication that shares a lot more with social media such as blogs, Twitter and Facebook. Rather than creating a new communication style, we are actually returning to one.
@@ -14,20 +15,6 @@ This was one great, hunking structure, with its mass production, mass consumptio
 [1] I read somewhere the show Breaking Bad finale drew ~10 million viewers, and that this was some kind of big achievement. Well - the famous 50s  show I Love Lucy used to draw 4 times as much, for a normal, regular episode. Lucy Goes to the Hospital ep was watched by 44 million viewers. This was the 50s. 
 
 Let Them Sink
-
-
-
-
-
-
-
-
-at
-
-November 01, 2013
-
-
-
 
 
 

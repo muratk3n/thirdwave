@@ -1,5 +1,12 @@
 # Innovation, Tech, Labs
-[It used to be this way]: To any one particular technology pertains one and only one industry, and conversely, to any one particular industry pertains one and only one technology. This means that all technology needed to make steel is peculiar to the steel industry; and conversely, that whatever technology is being used to make steel comes out of the steel industry itself. The same applies to the paper industry, to agriculture or to banking and commerce.
+
+[It used to be this way]: To any one particular technology pertains
+one and only one industry, and conversely, to any one particular
+industry pertains one and only one technology. This means that all
+technology needed to make steel is peculiar to the steel industry; and
+conversely, that whatever technology is being used to make steel comes
+out of the steel industry itself. The same applies to the paper
+industry, to agriculture or to banking and commerce.
 
 On this assumption were founded the industrial research labs, beginning with Siemens’s, started in Germany in 1869, and ending with IBM’s, the last of the great traditional labs, founded in America in 1952. Each of them concentrated on the technology needed for a single industry, and each assumed that its discoveries would be applied in that industry.
 
@@ -20,20 +27,6 @@ Practically no product or service any longer has either a single specific end-us
 Yes a lot of the big software companies, such as Google, Facebook, Microsoft have "labs", however these companies themselves are a concoction of diverse products / interests, hence the output of the lab can be utilized in multitude of ways, and research can proceed in multiple directions. A new finding in MS lab can come in handy for the AI of an X-box game, or its handheld Os.
 
 Also, increasingly big and small software companies are publicizing the results of their research, open sourcing their software to receive input from outside. 
-
-
-
-
-
-
-
-at
-
-December 31, 2013
-
-
-
-
 
 
 

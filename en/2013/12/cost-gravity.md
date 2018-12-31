@@ -1,5 +1,18 @@
 # Cost Gravity
-For fifty years, Moore's Law has reliably predicted the exponential upward trend of our silicon future. Yet every now and then, technology tabloids warn that Moore's Law is about to end. It can't last, we're told, and when it ends, the future will fall into darkness and uncertainty. But inevitably and without fail, scientists find yet another way to extend it, and we collectively sigh in relief. Moore's Law isn't a mythical beast that magically materialized in 1965 and threatens to unpredictably vanish at any moment. In fact, it's part of a broader ancient mechanism that has no intention of stopping. This mechanism, which I call cost gravity, pulls down the price of technology by about half every two years [..]. 
+
+[Pieter Hintjens](http://github.com/hintjens/swsi/en)
+
+For fifty years, Moore's Law has reliably predicted the exponential
+upward trend of our silicon future. Yet every now and then, technology
+tabloids warn that Moore's Law is about to end. It can't last, we're
+told, and when it ends, the future will fall into darkness and
+uncertainty. But inevitably and without fail, scientists find yet
+another way to extend it, and we collectively sigh in relief. Moore's
+Law isn't a mythical beast that magically materialized in 1965 and
+threatens to unpredictably vanish at any moment. In fact, it's part of
+a broader ancient mechanism that has no intention of stopping. This
+mechanism, which I call cost gravity, pulls down the price of
+technology by about half every two years [..].
 
 What Happened to Wall Street? [..]
 

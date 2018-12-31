@@ -1,4 +1,5 @@
 # Litecoin
+
 At more than $900, the price of Bitcoin is now so great that it threatens to shut out some mainstream users.
 
 You may be wondering whether there were ever any mainstream users in the first place. But Charlie Lee, a former Googler and MIT grad, recognized such an audience did exist. In 2011, two years after the birth of Bitcoin, the former Googler and MIT grad decided to create a version of Bitcoin that would make it more accessible.
@@ -36,15 +37,6 @@ Ancient king takes over mines, makes money, employs army, gives the army the coi
 
 A Third Wave / democratized currency would have to follow the same principles, albeit little differently. All we need, in order for a currency to be effective, is for the currency to be 1) rare enough and 2) people are willing (or forced in ancient case) to use it. Bitcoin / Litecoin fullfill these two requirements. They are "mined" digitally, but that is just a process to delay their creation and spread them uniformly throughout the populace (Litecoin is apparently better at this then Bitcoin). And wanting it? Well, if there are enough people using the new currency, more people may want the new currency. Network effect.
 
-
-
-
-
-
-
-at
-
-November 29, 2013
 
 
 

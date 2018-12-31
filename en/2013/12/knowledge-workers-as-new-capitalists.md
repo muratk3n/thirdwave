@@ -1,4 +1,5 @@
 # Knowledge Workers, the New Capitalists
+
 Attracting [knowledge workers] and holding them will become the central task of people management. We already know what does not work: bribery. In the past ten or fifteen years many businesses in America have used bonuses or stock options to attract and keep knowledge workers. It always fails.
 
 Of course knowledge workers need to be satisfied with their pay, because dissatisfaction with income and benefits is a powerful disincentive. 
@@ -12,17 +13,6 @@ Knowledge workers, collectively, are the new capitalists. Knowledge has become t
 --
 
 Read along with this article, I believe the economy, the nature of work will go to the way of Gore Associates. That is, of course, for work that has not disappeared already in which case (and also because of this), wide social safety need is needed. Our preference is through a digital currency rather than a centrally managed bureucracy. 
-
-
-
-
-
-
-
-at
-
-December 31, 2013
-
 
 
 

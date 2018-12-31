@@ -1,5 +1,8 @@
 # Bubbles
-I think most bubbles are twenty-twenty hindsight. Now after the fact you always find people who said before the fact that prices are too high. People are always saying that prices are too high [..]
+
+I think most bubbles are twenty-twenty hindsight. Now after the fact
+you always find people who said before the fact that prices are too
+high. People are always saying that prices are too high [..]
 
 [It is easy] to say after the fact that things were wrong. But at 
 the time those buying them didn’t think they were wrong. It isn’t as if 
@@ -48,18 +51,6 @@ run with new insurance.
 In the long run, we are all dead, right? 
 
 Sorry. Could not resist.
-
-
-
-
-
-
-
-
-at
-
-November 10, 2013
-
 
 
 

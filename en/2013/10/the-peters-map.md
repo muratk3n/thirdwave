@@ -25,31 +25,5 @@ South America, Africa, Arabia, and India.
 
 [The Peters Map is below]
 
-
-
-
-
-
-
-
-
-
-
-at
-
-October 15, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](PetersMap.jpg)
 
