@@ -1,22 +1,6 @@
 # Halftime in America
 
-
-
-
-
-
-
-
-at
-
-February 08, 2012
-
-
-
-
-
-
-
+https://youtu.be/-j_8qCbHsUA
 
 
 

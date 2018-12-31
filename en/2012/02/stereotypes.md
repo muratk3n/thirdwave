@@ -1,24 +1,7 @@
 # Stereotypes
 
+Knowing someone, at a certain level, is about being able to peg them. If you see behaviour X a hundred times, 101th time you expect it, somewhat different way -with some sauce-, then you feel like you know that person. Culturally, in US, and relationship-wise between subcultures, minorities and majorities, a form of this pegging happens all the time. Distance is a major factor in the country, so people need to form connection fast and efficiently over vast distances [1], between varying subgroups; so categorizing someone becomes ever more important.
 
+Surely stereotypes can have a bad side, US culture balances that through its "letting go / prohibition" code.. This tug-of-war works fine on this issue, most of the time; The mainstream stance of prohibiting oneself on racial, stereotypical issues is the rule, while, as the exception, an undercurrent of comedy, art, silly talk between friends manages to play with this hot potato, dancing on the issue, and still make some substantial statements, while at the same time giving people a funny group to belong to.
 
-
-
-at
-
-February 27, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In terms of comedy some of the best jokes I heard in US were on racial, stereotypical issues. It seems the more comical the stereotype is, the more it is embraced, and that perhaps pushes the uglier, bad forms of stereotyping away from society; Examples are many: Mexicans can't park, black people love fried chicken, etc. This process is part of "creating culture" in US. I once watched an Italian-American comedian in a comedy club, his jokes would start about himself, how guido his friends are, then move on to black men, then to oral sex, after which he would just drop the bomb: "Brothers won't eat that shit unless it's fried!". A comedy club full of all ethnicities would just explode in laughter.

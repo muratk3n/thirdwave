@@ -1,24 +1,9 @@
 # Sonderweg
 
+Peter Watson, The German Genius, pg. 30-32
 
+This book is a cultural history [of Germany] -- it examines Germany's achievements in what ordinary British, French, Italian, Dutch or American readers understand as "culture". It is important say at the outset that, among Germans, the concept of "culture" has traditionally been very different from what other nationalities mean by that word. In fact, there are those who argue that this very difference in the historical understanding of "culture" actually comprises Germany's real "Sonderweg" [..]
 
+Embedded in the German word 'culture' was a non-political and perhaps even anti-political bias symptomatic of the recurrent feeling among the German middle-class elites that politics and the affairs of the state represented the area of their humiliation and lack of freedom, while culture represented of their freedom and their pride. During the eighteenth and part of the nineteenth ceturies, the anti-political bias of the middle-class concept of 'culture' was directed against the politics of autocratic princes... At a later stage, this anti-political bias was turned against the parliamentary politics of a democratic state. And this showed itself in a German obsession for distinquishing between "civilization" and "culture". In German usage, Zivilisation means something which is indeed useful, but nevertheless only a value of the second rank [italics added], comprising only the outer appearance of human beings, the surface of human existence. The word through which Germans interpret themselves, which more than any other expresses their pride in their own achievement and their own being, is Kultur. Lepenies adds: "Whereas French as well as the English concept of culture can also refer to politics and to economics, to technology and sports, to moral and social facts, the German word Kultur refers essentially to intellectual, artistic and religious facts, and has a tendency to draw sharp dividing line between facts of this sort, on the one side, and political, economic and social facts, on the other [..].
 
-
-at
-
-January 09, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The appeal of "culture" in Germany Lepenies says, accompanied as it is by a "scorn" for everyday politics, has been based on a belief in the "deeply apolitical nature of the 'German soul'" and this, he insists, nurtured Germany's claim, as a Kulturnation, to superiority over the merely "civilized" West from the late nineteenth century on. The resulting "strange indifference" to politics has been much more in evidence in Germany than anywhere else, he says, and involvement in culture at the expense of, and as a substitute for, politics "has remained a prevailing attitude throughout German history--from the glorious days in eighteenth- and nineteenth-century Weimar through, though now in considerably weaker form, the re-unification of the two Germanies after the fall of communism". Germany's cultural achievements, the belief that it was traveling a special path, a Sonderweg, "was always a point of pride in the land of poets and thinkers". The inward realm established by German Idealism, the classic literature of Weimar, and the Classical and Romantic styles in music preceeded the founding of the political nation by more than a hundred years. They gave a special dignity to the withdrawal of the individual from politics into the spheres of culture and private life. Culture was seen as a noble substitute for politics.

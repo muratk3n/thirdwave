@@ -1,24 +1,15 @@
 # I have a bad feeling about this
 
+Link
 
+In hardware, minicomputers disrupted mainframes. Then microcomputers disrupted minicomputers. Now phones and tablets are disrupting microcomputers. With each wave, a hardy band of rebels fought against everything the industry threw up in their way. Waves of salespeople spreading FUD. Rigged government procurement deals. Lobbyists in the halls of power passing laws against them. The battle cry of the empire has always been that a victory by the rebels would cost the economy everything, that jobs would vanish and chaos would reign. But each victory by the rebels actually created more jobs, more wealth, and more freedom.
 
+Now in the next century, what [do we] observe? That everything old is new again. The “intellectual property cartels” act like the hardware giants of old, buying politics by the pound and telling everyone who will listen that they need more protection for their patent portfolio, more protection for their cartoon characters, more protection for even the depiction of sporting events.
 
+They tell us that only a “managed economy” for intellectual “property” will preserve jobs, and that if the serfs have more “freedom,” this will actually lead to slavery. The warn us that roving bands of pirates are living it up like drug barons on movie downloads. They explain how they need the senate to grant them special, temporary powers to download the contents of your phone or laptop when you cross the border, they explain why they need to send violent special forces police to arrest and extradite the owners of a file downloading business, they explain why they need to monitor the entire world’s tweets looking for jokes in poor taste.
 
-at
+And that’s just how they run politics. If you want to create the future, the possibility of successfully navigating a patent minefield is approximately 3,720 to 1. And I noticed earlier, the electoral motivator has been damaged [..].
 
-February 09, 2012
+Some of you will agree with me that surrender is a perfectly acceptable alternative in extreme circumstances. But others will [..] continue the fight, harassing and wounding the entrenched interests until the whole thing collapses under the weight of its own corruption. The future of our economy really does depend on the rebels succeeding. At every point in the last forty years, wealth, health, and happiness in our economy have been built on the freedom to disrupt the entrenched powers, not the preservation of their rent-seeking monopolies.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+More jobs and businesses have been created by VCRs than destroyed by them. More jobs and businesses have been created by the breakup of AT&T than destroyed by it. More jobs and businesses have been created by the decline of IBM than lost in Armonk. More jobs and businesses have been created by the stagnation of Microsoft than lost in Redmond. And it will be the same with the RIAA, the MPAA, Intellectual Ventures, and everyone else scheming to enthral the people with digital “rights” management and criminal prosecution of “file sharing.” In the destruction of the monopolization of ideas, lie the seeds of a new revolution, one that will bring wealth, freedom, and jobs.
