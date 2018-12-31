@@ -1,25 +1,8 @@
 # Rick Ross
 
- Rick Ross - The Devil is A Lie HD (Explicit) ft. Jay Z from Ashley Smith Films on Vimeo.
+Hilarious clip - featuring two Catholic priests.
 
-
-
-
-
-
-
-
-at
-
-February 16, 2014
-
-
-
-
-
-
-
-
+[Video](https://vimeo.com/82985780)
 
 
 
