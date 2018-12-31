@@ -1,4 +1,5 @@
 # Let Them Sink
+
 Nobody in their right mind believes the future of the news business involves paper and ink rather than pixels on a screen. We all know where the news business is headed, and what's more, we've known it for at least a decade. So why on earth are people talking about a bailout for newspapers? [..] It's like introducing legislation to save horse-drawn carriages, or steam engines, or black-and-white TV. It's stupid. It's pointless. It won't work.
 
 The fact is, all this hysteria has nothing to do with saving the news, or saving jobs. Nor is it about saving democracy, which is what the red-in-the-face newspaper lovers always get themselves huffed about, as if newspapers and democracy were inextricably linked. Democracy existed long before newspapers did, and it will survive without them. And plenty of countries that don't have democracy do have newspapers. Nor would a bailout help readers. In fact, it would only slow down our shift to the Internet, which is a far better medium for delivering information.
@@ -16,21 +17,6 @@ Instead of giving newspapers bailouts, we should be hastening their demise. The 
 Meanwhile, all of us need to get over this pious notion about the sanctity of the newspaper. I've been a journalist for 27 years, and I love that romantic old notion of the newsroom as much as the next guy. But I recently canceled my two morning papers—The New York Times and The Wall Street Journal—because I got tired of carrying them from the front porch to the recycling bin, sometimes without even looking at them. Fact is, I only care about a tiny percentage of what those papers publish, and I can read them on my computer or my iPhone. And I can rely on blogs and Twitter to steer me to articles worth reading.
 
 As for all the hand-wringing about the great "in-depth" information that only a newspaper can provide, let's be honest: the typical daily newspaper does a lousy job. It tries to provide a little bit of everything—politics, sports, business, celebrity stuff—and as a result it doesn't do anything particularly well. Ask anyone who's an expert in anything—whether it's bicycle racing or brain surgery—what they think when they read a newspaper article about their field. Chances are they cringe, because the material is so dumbed-down, and because it's so clear that whoever wrote the article has no real expertise on  this topic.
-
-
-
-
-
-
-
-at
-
-October 21, 2012
-
-
-
-
-
 
 
 
