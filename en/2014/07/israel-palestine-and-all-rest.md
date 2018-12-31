@@ -1,4 +1,5 @@
 # Israel, Palestine, and all the rest
+
 The [death] of three settlers in the West Bank has given Israel the excuse it was waiting for to set a huge military operation in motion [..].
 
 Israel has not taken kindly to the Palestinian Authority’s moves to join international organizations and sign international treaties [..] This would give the I.C.C. jurisdiction in Palestinian territory and thus give victims of war crimes, or crimes against humanity, access to international justice [..]
@@ -60,18 +61,6 @@ Dick Cheney
 Maybe
 
 But today was a good time as any for a withdrawal, as what happened today would surely have happened later.
-
-
-
-
-
-
-
-
-
-at
-
-July 05, 2014
 
 
 

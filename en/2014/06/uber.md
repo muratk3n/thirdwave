@@ -1,7 +1,8 @@
 # Uber
-[L]et's take my favorite quote from Manhattan, where Woody 
-Allen's character pays his date this ultimate compliment in the back of a
- cab: "You look so beautiful, I can hardly keep my eyes on the meter."
+
+[L]et's take my favorite quote from Manhattan, where Woody Allen's
+character pays his date this ultimate compliment in the back of a cab:
+"You look so beautiful, I can hardly keep my eyes on the meter."
 
 In a smartphone world, meters have no reason to exist. Here's what I'm like in the back of an Uber X: relaxed, enjoying the ride, watching the world go by, enjoying a friendly chat with a friendly driver. [.. P]aying a few extra dollars is completely worth it for that joyous moment of getting out of the back of a car without having to figure out a tip, fiddle with a credit card, or take an utterly pointless, wasteful paper receipt.
 
@@ -20,20 +21,6 @@ Dear [old-style] taxi driver: [..] Your protests against the launch of these ser
 To describe Uber's service -- anyone, with any kind of car, can become an Uber "taxicab". Old system is syncronized, concentrated, specialized - typical 2nd wave. "Taxi driver", a person with a predefined job function, waits somewhere or drives around to get customers to perform that specific function. However Uber software and cell phones allow asynch cab getting behaviour to occur; Anyone anywhere can sign-up, anyone can get a cab, people can use their regular car for carrying customers. Ratings for both driver and customer are kept,  system is peer-to-peer. Perfect  3rd Wave.
 
 Taxi drivers, unions protest; Check. 
-
-
-
-
-
-
-
-
-at
-
-June 12, 2014
-
-
-
 
 
 

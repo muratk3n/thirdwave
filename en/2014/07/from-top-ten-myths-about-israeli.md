@@ -1,5 +1,7 @@
 # Myth #10
-The U.S. is an honest broker and has sought to bring about peace in the Middle East.
+
+The U.S. is an honest broker and has sought to bring about peace in
+the Middle East.
 
 Rhetoric aside, the U.S. supports Israel’s policies, including its illegal occupation and other violations of international humanitarian law. It supports Israel’s criminal policies financially, militarily, and diplomatically.
 
@@ -18,17 +20,6 @@ As Israel was waging Operation Cast Lead, the U.S. delayed the passage of a reso
 When the U.N. Human Rights Council officially adopted the findings and recommendations of its investigation into war crimes during Operation Cast Lead, headed up by Richard Goldstone, the U.S. responded by announcing its intention to block any effort to have the Security Council similarly adopt its conclusions and recommendations. The U.S. Congress passed a resolution rejecting the Goldstone report because it found that Israel had committed war crimes.
 
 Through its virtually unconditional support for Israel, the U.S. has effectively blocked any steps to implement the two-state solution to the Israeli-Palestinian conflict. The so-called “peace process” has for many decades consisted of U.S. and Israeli rejection Palestinian self-determination and blocking of any viable Palestinian state.
-
-
-
-
-
-
-
-
-at
-
-July 22, 2014
 
 
 

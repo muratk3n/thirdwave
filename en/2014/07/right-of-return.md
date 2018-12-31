@@ -1,14 +1,6 @@
 # Right of Return
 
-
-
-
-
-
-
-at
-
-July 15, 2014
+https://youtu.be/etXAm-OylQQ
 
 
 

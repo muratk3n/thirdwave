@@ -1,4 +1,5 @@
 # Vlad
+
 Putin's main profile attribute is called High Horse. As the name suggests, a feeling of specialness, feeling superior to others, ordering people around is part of their character build-up, and something they need to get away from as it is the  suboptimal route. It can easily lead them to ruin.
 
 Sometimes we also call this the Ataturk Profile -- because  it was shared by a certain Kemal A., the founder of Turkland. This makes pointing out the negatives on P somewhat easier -- everything that was wrong Kemal is wrong with this guy. KA was also given to bouts of authoritarian tendencies, shifting things around just to exercise authority (they feel like it), and known for being stubborn and headstrong. There is another similarity as it relates to the man and his country, but we'll  get to that at the end.
@@ -20,18 +21,6 @@ More might follow on this. Here is our BC address. Let's hear some ka-ching! 1N4
 ---
 
 [1] To his credit, Kemal also managed to pull himself out of the limelight most of the time later in his reign and empower his comrade in arms and friend Ismet as PM. Internationally he also tried to create win/win situations (something an HH needs to strive for). 
-
-
-
-
-
-
-
-
-at
-
-July 28, 2014
-
 
 
 

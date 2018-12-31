@@ -1,4 +1,5 @@
 # Myth #3
+
 The Arabs missed an opportunity to have their own state in 1947
 
 The U.N. recommendation to partition Palestine was rejected by the Arabs. Many commentators today point to this rejection as constituting a missed “opportunity” for the Arabs to have had their own state. But characterizing this as an “opportunity” for the Arabs is patently ridiculous. The Partition plan was in no way, shape, or form an “opportunity” for the Arabs.
@@ -16,18 +17,6 @@ When the idea of partition was first raised years earlier, for instance, Ben-Gur
 ---
 
 There are a lot of fairy tales around this issue, whether Palestenians can even negotiate or not; the belief  is so wide-spread in fact it became a thing on the Israeli side (or should I say "schtick"?). They'll say "Palestenians never miss an opportunity to miss an opportunity"; I heard this sentence being uttered by many Israelis. It's funny, haha, sure but is it true? Did Palestenians miss an opportunity in 1947? Did Arafat really miss an opportunity during Camp David talks?  
-
-
-
-
-
-
-
-
-at
-
-July 29, 2014
-
 
 
 

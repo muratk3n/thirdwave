@@ -1,5 +1,11 @@
 # Entrepreneurship and Jobs (not Steve)
-On one hand, blockbuster acquisitions [such as the WhatsApp purchase] inspire millions of Americans to try entrepreneurship every year. Conversely, WhatsApp and Twitch employ fewer than 200 people combined, reminding us that entrepreneurs, even when they create enormous value, do not always create enormous numbers of jobs, particularly for the middle class.
+
+On one hand, blockbuster acquisitions [such as the WhatsApp purchase]
+inspire millions of Americans to try entrepreneurship every
+year. Conversely, WhatsApp and Twitch employ fewer than 200 people
+combined, reminding us that entrepreneurs, even when they create
+enormous value, do not always create enormous numbers of jobs,
+particularly for the middle class.
 
 This reality doesn't square with rhetoric about the crucial link between entrepreneurship and job creation. Yet Washington is cranking out legislation, and nearly every state has programs, such as tax credits for investors, to cultivate entrepreneurship.
 

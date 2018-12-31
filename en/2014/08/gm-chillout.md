@@ -1,4 +1,5 @@
 # #gm #chillout
+
 I'm amazed at just how much objection genetically modified foods are receiving.
 
 It smacks of the fear factor that exists at every new emergent science, where people don't fully understand it or don't fully know or embrace its consequences and are therefore rejecting it. What most people don't know, but should, is that practically every food you buy in a store for consumption by humans is genetically modified food.
@@ -8,18 +9,6 @@ There are no wild seedless watermelons; there's no wild cows…You list all the 
 We have systematically genetically modified all the foods, the vegetables and animals that we have eaten ever since we cultivated them. It's called artificial selection. That's how we genetically modify them. So now that we can do it in a lab, all of a sudden you're going to complain?
 
 We are creating and modifying the biology of the world to serve our needs. I don't have a problem with that, because we've been doing that for tens of thousands of years. So chill out,’ he said.
-
-
-
-
-
-
-
-at
-
-August 05, 2014
-
-
 
 
 
