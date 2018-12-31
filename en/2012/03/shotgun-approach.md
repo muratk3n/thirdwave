@@ -1,24 +1,5 @@
 # The Shotgun Approach
 
+There are many new initiatives in education, and this is great news. Coursera, Udacity, MITx -- all great. I'd like to say few things about Udacity if I may; I hope they are not watering down their content. For example can a lecture "Learning to Build Robotic Car in 8 Weeks" truly transmit everything Sebastian Thrun knows about robotic cars? I am a close follower of his work and dissected his book Probabilistic Robotics for many months. Can a 8 week lecture course transmit that book completely? I doubt it can. [tech details, skip if you want] PR shows how to derive Kalman Filters, an in-depth discussion on SLAM, talks about how to see sensor data probabilistically, how to select the appropiate distribution for outlier readings, etc [/tech details]. Does the lecture get into all of this?
 
-
-
-
-at
-
-March 21, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I am sure there are many expectations from a class such as this, especially one that is suitable for hands-on programming. However, there is a kind of student that needs both theory and application, both in great depth. Such students will be the next researchers in his field. So my suggestion is a so-called shotgun approach. Teacher dumps all they know to videos, down to its tiniest detail. Then parts of the course can be taken out, or "filtered" to offer packages with varying content.

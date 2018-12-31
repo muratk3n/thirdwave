@@ -1,24 +1,5 @@
 # Italy
 
+An Italian IT worker acquintance tells me that he left Italy for Germany. He worked in his home country as a freelancer for a while where he was taxed at 50%. He complains after all that tax burden, what he also sees government services such as health, justice taking a nose dive. And the dysfunction in government services is exploited by others which makes things worse: freelancer and client agree on a price but after the work is finished, the client does not pay, trusting that taking the matter to court will take years to resolve. But the suck does not end there; freelancer is forced to settle for less, while paying taxes on the previously agreed upon price. What kind of bullshit is this? Getting the agreed upon price in freelance work is not unheard of (in fact it happens in US too) but the tax thing is completely idiotic. Acquintance told me he actually saw the number zero in his bank account after his freelance experience.
 
-
-
-
-at
-
-March 25, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+There is a groving dissatisfaction in Italy, the perception is the current political class (and they are a class) have imploded, and went fubar. The system screws the very people it needs, the people who create value at the same time, making exploiters, the parasites rich.

@@ -20,21 +20,6 @@ passenger-death record in the 47-year history of Japan's high-speed Shinkansen s
 
 
 
-at
-
-April 22, 2012
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
