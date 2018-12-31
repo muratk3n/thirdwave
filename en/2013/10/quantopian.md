@@ -1,4 +1,5 @@
 # Quantopian
+
 Wall Street trading is no longer about financiers boiling businesses down to their operating fundamentals [..] 
 
 Quantopian, a Boston-based algorithmic trading platform startup, aims to close this information advantage gap and give individual quants – like engineers, developers, mathematicians, and data scientists in other industries – the tools necessary to compete against Wall Street. Today, the company is announcing $6.7 million in Series A financing from Khosla Ventures and existing investor Spark Capital to fuel its growth toward this goal [..]
@@ -21,15 +22,6 @@ Wise choice. I like the way they think.
 
 The programming environment is Python based, another plus. 
 
-
-
-
-
-
-
-at
-
-October 04, 2013
 
 
 

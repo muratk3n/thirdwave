@@ -1,17 +1,6 @@
 # #goodshit
 
-
-
-
-
-
-
-
-
-at
-
-October 20, 2013
-
+https://youtu.be/JK_DOJa99oo
 
 
 
