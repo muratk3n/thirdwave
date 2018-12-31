@@ -1,24 +1,5 @@
 # Creeping Fascism
 
+Link
 
-
-
-
-at
-
-December 23, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Among other provisions that seek to control the sharing of copyrighted material on the Internet, SOPA, if enacted, would call upon the U.S. government to require that Internet service providers remove from their DNS servers the names of any sites that either infringe copyright directly or merely “facilitate” copyright infringement. So, for example, the government could require that ISPs remove the name “twitter.com” from their DNS servers if twitter.com was not being sufficiently aggressive in preventing its users from tweeting information about places to download copyrighted materials. This practice is known as DNS filtering. DNS filtering is one of the most common modes of Internet-based censorship. As we and our collaborators in the OpenNet Initiative have shown over the past decade, practices of this sort are used extensively in autocratic countries, including China and Iran, to prevent access to a range of sites offensive to the governments of those countries.

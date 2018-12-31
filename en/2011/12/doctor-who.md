@@ -1,24 +1,13 @@
 # Doctor Who
 
+Scott Brown article
 
+Bargain-basement BBC production values? Alien monsters made from trash cans and toilet plungers? Anachronous kibitzing with Shakespeare and Dickens? That’s my flavor, mate. It’s the sort of thing that’s hard to find on this side of the pond [..]. I suppose US culture simply isn’t advanced enough to appreciate the longest-running, most successful (and, yes, also the cheesiest and chintziest) science fiction series in television history. And by advanced, I mean defeated. Luckily, that may be changing [..].
 
+There’s a fix I just don’t get from mainstream American science fiction, perhaps because of its grinding obsession with the imperialistic (and its depressive sibling, the dystopic), not to mention its wearisome push for ever-shinier effects. Like its not-so-distant cousin American religion, American sci-fi is fixated on final battles, ultimate judgment (particularly on questions of control and leadership), and an up-or-down vote on the whole good/evil issue. Even the most morally restless imaginings — the Losts and Battlestars — eventually prolapse into Bruckheimer-esque excerpts from the Book of Revelation. As an antidote, I turn to the Doctor — a fussy 900-year-old neurotic who’s part Ancient Mariner, part Oxford don, with a whimsical fashion sense, a close acquaintance with defeat and futility, and a tendency to rattle on. He subscribes to no Force-like creed. No enlightened military Federation stands behind him, photon torpedoes at the ready — indeed, his race, the Time Lords, is more or less extinct. His signature gizmo isn’t a blaster or a phaser but a souped-up screwdriver. His Millennium Falcon? The Tardis, which looks to the unschooled like an old telephone booth. It’s actually a police call box, a relic from the ’50s, and the ship’s most spectacular feature isn’t artillery; it’s feng shui: It’s bigger on the inside.The Doctor is courageous and heroic, sure, but in the Mèdecins Sans Frontiéres vein. Oh so Euro! [..]
 
+Sound familiar, America? [..] Fair enough: Enjoy your Transformers and the baby-faced club kids of the new Enterprise. But I’d highly recommend a field trip to Whoville.
 
-at
+--
 
-December 07, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Excellent article. In scifi, ideas matter, and most of these ideas, if bright enough, do not require much CGI at all. For example in Who universe there are the "quantum locked" monster / statue beings that stay put if they are looked at, but move toward their victim when not. So in order to shoot them the only "camera effect" you will ever need is between takes someone literally moving the statue. And it's a brilliant idea, it makes great scifi. It is ideas like these that make Dr. Who different and as the article suggests, a breath of fresh air in the scifi land.

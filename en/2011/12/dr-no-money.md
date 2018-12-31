@@ -1,24 +1,11 @@
 # Dr. No Money
 
+Link
 
+Ever since Johannes Kepler traipsed over half of Europe wooing aristocratic patrons, scientists have grumbled about money. But their complaints these days go beyond the familiar griping about being underpaid and underappreciated. They amount to a powerful case that the system for funding science is broken—that it hinders scientific progress and fails to deliver the most bang for the buck. Fixing the system can no longer be put off.
 
+Most scientists finance their laboratories (and often even their own salaries) by applying to government agencies and private foundations for grants. The process has become a major time sink. In 2007 a U.S. government study found that university faculty members spend about 40 percent of their research time navigating the bureaucratic labyrinth, and the situation is no better in Europe [..].
 
+A vicious cycle has developed. With more and more people applying for each grant, an individual’s chances of winning decrease, so scientists must submit ever more proposals to stay even. Between 1997 and 2006 the National Science Foundation found that the average applicant had to submit 30 percent more proposals to garner the same number of awards. Younger scientists are especially hard-pressed: the success rate for first-time National Science Foundation applications fell from 22 percent in 2000 to 15 percent in 2006.
 
-at
-
-December 09, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Not only does the current system make inefficient use of scientists’ time, it discourages precisely the kind of research that can most advance our knowledge. Many politicians go so far as to accuse scientists—particularly in politically contentious areas such as climate science—of cooking data to win government grants. They have yet to produce any evidence to support these claims, however. The real problem is more subtle. Inundated with proposals, agencies tend to favor worthy but incremental research over risky but potentially transformative work. Nobelist Mario R. Capecchi and other prominent scientists say they had trouble getting grants to make their breakthroughs. In 2009 a New York Times article quoted leading cancer researchers who said the war on cancer would make more progress if funders took more risks.
