@@ -1,4 +1,5 @@
 # The Hoax
+
 Many honorable people have dedicated the bulk of their professional lives to the tedious minutiae and sad diplomatic history of the Palestinian-Israeli morass. Sadly, none of those efforts have brought any resolution whatsoever to a gangrenous issue ― in many respects one of the major roots of so many of the Middle East’s contemporary ills.
 
 The trouble is that, apart from a few dedicated diplomats and scholars who had hopes of one day truly accomplishing something, the two-state solution in practice is essentially a fraud. Yes, a few wiser Israeli leaders in the past just possibly might have believed in that ideal, but for decades now the “two-state scheme” has simply been cynically exploited by newer Israeli leaders, especially by Bibi Netanyahu ― one of the longer-serving and most right-wing prime ministers in Israel’s history. [..] Netanyahu has been backed by a formidable and wealthy pro-Zionist cheering section in the U.S. The goal is to conceal their true agenda ― the ultimate Israeli annexation of all of Palestine. They themselves as hard-line Zionists have been subtly but systematically torpedoing the two-state solution behind the scenes to that end.
@@ -20,17 +21,6 @@ The true historical task of Israel, with the support of the world, is now to beg
 The challenge to Israelis and Palestinians is huge. It entails a deep Palestinian rethink of their options and their future destiny in a new order, and the need to fight for those democratic rights in a binational state. It involves Israeli evolution away from “God-given rights” in a state solely for Jews and Judaism that can only be forever oppressive and undemocratic as it now stands. The process will be a slow and difficult one. But it also represents an evolution consonant with emerging contemporary global values.
 
 We expect a democratic multicultural state from Germany and France, or from Britain, Canada and the United States ― why not from Israel?
-
-
-
-
-
-
-
-at
-
-February 23, 2017
-
 
 
 

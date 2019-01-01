@@ -1,4 +1,5 @@
 # Checks and Balances
+
 The American presidency is a paradox. It is the most noted position in the world, imbued by observers with all the power inherent to the world’s most powerful country. [..] At the same time, the American president is among the weakest institutional leaders in Euro-American civilization. He can do some things unilaterally, particularly in foreign policy, but Congress can block them. He can do some things by executive order, but the Supreme Court can overrule them. He can pass certain programs that require cooperation from states, but the states can refuse to cooperate. At every step, as the founders intended, his ability to act unilaterally is severely limited. The difference between how presidential power appears and how it is applied in reality is enormous.
 
 So now, the most important question is not, what does Trump intend to do… but instead, what will Congress do? Both chambers have Republican majorities. Republican control of the House of Representatives is overwhelming. Republican control of the Senate, though, is not.
@@ -34,18 +35,6 @@ If the latter happens, the Democrats in the Senate would effectively be able to 
 The president can achieve some things with an executive order, assuming the Supreme Court doesn’t step in. But broader policies like infrastructure development won’t get passed without congressional support.
 
 That battleground will be within the Republican Party in the Senate. The result will depend on whether Trump’s approval ratings increase above 37%. Just holding there won’t do it, as that number has been “Death Valley” for other presidencies… although we have no way to benchmark a presidency that starts at this level.
-
-
-
-
-
-
-
-
-
-at
-
-February 01, 2017
 
 
 

@@ -1,4 +1,5 @@
 # #jpl
+
 Two weeks ago, Sidd Bikkannavar flew back into the United States after spending a few weeks abroad in South America. An employee of NASA’s Jet Propulsion Laboratory (JPL)[..] Bikkannavar is a seasoned international traveller — but his return home to the US this time around was anything but routine. Bikkannavar left for South America on January 15th, under the Obama Administration. He flew back from Santiago, Chile to the George Bush Intercontinental Airport in Houston, Texas on Monday, January 30th, just over a week into the Trump Administration.
 
 Bikkannavar says he was detained by US Customs and Border Patrol and pressured to give the CBP agents his phone and access PIN. Since the phone was issued by NASA, it may have contained sensitive material that wasn’t supposed to be shared. Bikkannavar’s phone was returned to him after it was searched by CBP, but he doesn’t know exactly what information officials might have taken from the device.[..]
@@ -12,20 +13,6 @@ Courts have upheld customs agents' power to manually search devices at the borde
 Nevertheless, Bikkannavar was not allowed to leave until he gave CBP his PIN. The officer insisted that CBP had the authority to search the phone. The document given to Bikkannavar listed a series of consequences for failure to offer information that would allow CBP to copy the contents of the device. “I didn’t really want to explore all those consequences,” he says. “It mentioned detention and seizure.” Ultimately, he agreed to hand over the phone and PIN. The officer left with the device and didn’t return for another 30 minutes.
 
 Eventually, the phone was returned to Bikkannavar, though he’s not sure what happened during the time it was in the officer’s possession. When it was returned he immediately turned it off because he knew he had to take it straight to the IT department at JPL. Once he arrived in Los Angeles, he went to NASA and told his superiors what had happened. Bikkannavar can’t comment on what may or may not have been on the phone, but he says the cybersecurity team at JPL was not happy about the breach.
-
-
-
-
-
-
-
-
-
-
-at
-
-February 13, 2017
-
 
 
 
