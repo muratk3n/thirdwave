@@ -1,4 +1,5 @@
 # The Second Machine Age
+
 Could [globalization]  be the reason that median wages have stagnated in the United States and other advanced economies? A number of thoughtful economists have made exactly that argument. The story is one of factor price equalization. This means that in any single market, competition will tend to bid the prices of the factors of production—such as labor or capital—to a single, common price. Over the past few decades, lower transaction in communication costs have helped create one big global market for many products and services.
 
 Businesses can identify and hire workers with skills they need anywhere in the world. If a worker in China can do the same work as an American, then what economists call “the law of one price” demands that they earn essentially the same wages, because the market will arbitrage away differences just as it would for other commodities. That’s good news for the Chinese worker, and for overall economic efficiency. But is not good news for the American worker who now faces low-cost competition. A number of economists have made exactly this argument. Michael Spence, in his brilliant book The Next Convergence, explains how the integration of global markets is leading to enormous dislocations, especially in labor markets.
@@ -16,25 +17,6 @@ the most cost-effective source for ‘labor.’
 If you look at the types of tasks that have been offshored in the past twenty years, you see that they tend to be relatively routine, well-structured tasks. Interestingly, these are precisely the tasks that are easiest to automate. If you can give precise instructions to someone else on exactly what needs to be done, you can often write a precise computer program to do the same task. In other words, offshoring is often only a way station on the road to automation.
 
 In the long run, low wages will be no match for Moore’s Law. Trying to fend off advances in technology by cutting wages is only a temporary protection. It is no more sustainable than asking folk legend John Henry to lift weights to better compete with a steam-powered hammer.
-
-
-
-
-
-
-
-
-
-
-at
-
-June 27, 2016
-
-
-
-
-
-
 
 
 

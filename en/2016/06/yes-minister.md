@@ -1,20 +1,6 @@
 # Yes Minister
 
-
-
-
-
-
-
-
-
-
-at
-
-June 08, 2016
-
-
-
+https://youtu.be/37iHSwA1SwE
 
 
 

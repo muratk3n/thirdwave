@@ -1,4 +1,5 @@
 # AR-15 - Part 2
+
 Greed, legislative cowardice, advanced technology — that is how we got here. The United States has been pummeled by gun violence since the assault weapons ban expired in 2004. This year, mass shootings have already claimed 61 lives. One class of gun, semiautomatic rifles, is largely responsible. But this nation cannot be a hostage of fear. We can make it stop.
 
 Some of the largest investors in gun companies are average Americans who own index funds in their workplace retirement plans. If you have a 401(k) plan with Vanguard Group, in all likelihood you own gun stocks — and you’ve done well off it.[..]
@@ -18,26 +19,6 @@ And they are that way for one reason. Capacity.
 I can go out right now and buy a 100 round magazine for my AR-15. It costs only $119. I could buy two. For barely over $300 I could buy three and carry 300 rounds on me attached to a tactical vest. I would barely ever have to reload. I could hold off police. I could shoot anyone who charged me and tried to stop me. There would be no respite and break where I would have to take a few seconds to stop and change magazines. If they were close enough together then I could kill hundreds in minutes.
 
 See, this is the dirty secret that gun owners know. We know that, for the most part, non-gun owners don’t understand guns. We know that you don’t know how to deter these shootings. We know that non-gun owners will call for psych evals (the government can’t force people to go to the doctor to exercise a constitutional right), insurance (you can’t pass a law that alienates the poor from their constitutional rights), confiscation (who wants to be the first in line to confiscate 350 million weapons even if Congress did repeal the 2nd Amendment). We know that it is the things that cannot happen that will be the things gun control advocates will call for.
-
-
-
-
-
-
-
-
-at
-
-June 16, 2016
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,26 +1,6 @@
 # #vp
 
-
-
-
-
-
-
-
-
-
-at
-
-June 23, 2016
-
-
-
-
-
-
-
-
-
+https://youtu.be/QP0i4YAs9vA
 
 
 

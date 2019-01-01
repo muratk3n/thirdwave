@@ -1,33 +1,8 @@
 # Happy Birthday
 
-
-
-
-
-
 And an offer...
 
-
-
-
-
-
-
-
-
-
-at
-
-June 21, 2016
-
-
-
-
-
-
-
-
-
+https://youtu.be/P3kvZvQvjW8
 
 
 
