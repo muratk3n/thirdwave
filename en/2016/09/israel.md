@@ -1,4 +1,5 @@
 # Israel
+
 The annual $3.8 billion, more money than the U.S. gives to any other country, will fund the continuing Israeli military occupation of Palestinian lands, now in its fifth decade.
 
 Israel exercises complete control over every aspect of Palestinian life in the West Bank, East Jerusalem and Gaza. That includes borders, airspace, ingress and egress of people and goods, and the seashore and waters off the coast of Gaza. The occupation violates fundamental human rights of the Palestinians.
@@ -14,16 +15,6 @@ As I said before: Israel can be a force for good in the region, it should remain
 It is unrealistic to continue to wish to be a "blah state" in today's world; it is untenable in every part of the globe. Look at Poland: a country which is 99% white, and 99% Catholic. Even Poland today is not unified, cannot claim homogeneity they used to.
 
 Yeah some new citizens of Israel might cause trouble, attack here there etc. But Israeli public and the elites must "grin and bear it". After all, Israel took the land from the original owners, caused death, suffering, innumerable pain on these people. The least they could do is suffer a little.
-
-
-
-
-
-
-
-at
-
-September 30, 2016
 
 
 

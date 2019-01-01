@@ -1,4 +1,5 @@
 # Snowden
+
 More than three years ago, former Central Intelligence Agency and National Security Agency contractor Edward Snowden blew the whistle on the U.S. intelligence community, releasing thousands of documents showing the government had been spying on and storing American telecommunications.
 
 Since then, Snowden’s been in exile in Russia after being charged under the Espionage Act. As President Barack Obama’s second and final term comes to a close, how to handle a possible Snowden return stateside remains a hot-button issue in Washington and around the country. Some want Snowden, 33, charged the fullest extent of the law, which could be one of treason, while others admit Snowden did commit a crime but shouldn’t spend the rest of his life behind bars.
@@ -10,18 +11,6 @@ Sanders joined a number of politicians, actors, musicians and other notable figu
 ---
 
 I agree with Sanders.
-
-
-
-
-
-
-
-
-at
-
-September 15, 2016
-
 
 
 
