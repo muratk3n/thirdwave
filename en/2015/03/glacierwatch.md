@@ -1,29 +1,4 @@
 # #glacierwatch
 
-
-
-
-
-
-
-
-
-
-at
-
-March 11, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/hC3VTgIPoGU
 

@@ -1,4 +1,5 @@
 # II Leopold II's
+
 [King Leopold] II, remembered today as Belgium’s Builder King, reigned from 1865 to 1909. A constitutional monarch who, like many of his contemporaries, longed for the bygone days of absolute power, he was nonetheless an unusually influential and activist king who helped make Belgians free, prosperous, and secure.
 
 Belgium’s good works during Leopold’s reign are almost uncountable. He oversaw the expansion of political freedom with the adoption of universal adult male suffrage in competitive elections, putting his country on a firm footing to become a modern democracy. On the economic front, he encouraged free-trade policies that guided Belgium to remarkable growth. In little Belgium, coal production, the engine of industry in nineteenth-century Europe, rose to such heights that it almost equaled that of France. Social policy too moved briskly ahead. Primary education became compulsory, and with the 1881 School Law, girls were assured access to secondary education. Moreover, Leopold’s policies provided greater protection for women and children than was then the norm in most of Europe. Thanks to legislation passed in 1889, children under twelve could not be put to work, and after they turned twelve their workdays were limited to twelve hours, a radical departure from prevailing policy of the time [..].
@@ -24,21 +25,6 @@ It so happens that leaders who are really good at giving their people life, libe
 It’s my claim, and it may seem controversial, that kleptocratic leaders are not inherently evil—at least not necessarily so—and that those who do a great job for their people in hopes of reelection are hardly fit for sainthood. They’re all doing the right things if they want to stay in power as long as possible. Leopold, despicable as he was, did what worked best for him in the politically unconstrained environment of the Congo, and he did what worked best for him in the constitutionally limiting environment of Belgium [..].
 
 The difference between doing a good job and doing a lousy job is driven by how many people a leader has to keep happy. Why doesn’t every leader allow cronies to loot and steal the way the Force Publique did? Large-scale democratic leaders can’t—they have to reward too many people to make theft and corruption work for them. In other words, the system does not effectively incentivize that strategy. Virtually all long-lasting (read authoritarian) leaders, however, really depend only on a very small number of generals, senior civil servants, and their own families for support. Because they rely on so few people to keep them in power, they can afford to bribe them handsomely. 
-
-
-
-
-
-
-
-
-at
-
-March 23, 2015
-
-
-
-
 
 
 

@@ -1,7 +1,5 @@
 # The Glass Cage: Automation and Us
 
-
-
 Link - The term for what happens when human workers are replaced by 
 machines was coined by John Maynard Keynes in 1930 in the essay 
 “Economic Possibilities for our Grandchildren.” He called it 
@@ -24,21 +22,6 @@ Since replacing human labor with machine labor is not simply the collateral dama
 ---
 
 We cannot rely on new tech to "create" a job for everyone because the nature of tech demands precisely the opposite. "But I'll sell my old shoes on eBay and make money that way" argument might fly to make some extra money on the side, but this won't constitute an income, and cannot form the basis of  any economy / society. The pace of change, of life is just to great to rely on such superfluous arrangements. Eric Bryjdfjkghsjdhson and Andrew McAffee are right - while tech advances are astounding, they might not benefit everyone equally. 
-
-
-
-
-
-
-
-
-at
-
-March 19, 2015
-
-
-
-
 
 
 

@@ -2,9 +2,6 @@
 
 Link
 
-
-
-
 In the past year or so, a new trend has emerged in the world of Bitcoin in the form of digital currency debit cards. Several companies are trying to make a name for themselves in this market, with the likes of Xapo and ANX being two of the major names. E-coin, a UK-based company, may have a leg up on their competitors though as their Bitcoin debit card is available right now for a very small fee.
 
 E-coin offers a Bitcoin debit card – from the Visa brand – to their users, as the small fee of US$10 per card – that includes free worldwide shipping. Delivery of the card takes 2-3 business days for European residents and 1-2 weeks for other countries [..]
@@ -21,27 +18,4 @@ Considering the fact that e-Coin’s Bitcoin debit card can be used both online 
 
 I was wondering if banks would innovate and push out CC companies, or upstarts working with CC brands push out banks. It seems second option is more likely. Bitcoin stores my money becoming my bank, while new companies innovate in connecting this money with the outside world, interfacing with various "legacy" systems and/or new technologies. I'd like to see peer-to-peer payment, between two smart phones with a simple  touch for example. Then there would not even a need for ATMs. Well.. one thing at a time. 
 
-
-
-
-
-
-
-at
-
-March 28, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](E-Coin-1-300x192.jpg)

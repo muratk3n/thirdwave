@@ -1,23 +1,6 @@
 # Jim Jefferies
 
-
-
-
-
-
-
-
-
-
-at
-
-March 12, 2015
-
-
-
-
-
-
+https://youtu.be/fP3HJVp3n9c
 
 
 
