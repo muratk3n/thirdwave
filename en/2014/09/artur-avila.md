@@ -1,5 +1,7 @@
 # Artur Avila
-Avila is the new Field Medal (mathematicians' Nobel Prize) recipient from Brazil, marking a first for his country. 
+
+Avila is the new Field Medal (mathematicians' Nobel Prize) recipient
+from Brazil, marking a first for his country. 
 
 A major focus at IMPA [an institute even Brasilians themselves
  are surprised it exists -as most schools in the country are mired in 
@@ -22,23 +24,8 @@ His work “cannot be reduced to ‘one big theorem’ as Artur has so many deep
 
 --
 
-Losing 7:1 in a World Cup soccer game, then winning the Fields Medal? It is interesting times for Brazil.
-
-
-
-
-
-
-
-
-
-at
-
-September 03, 2014
-
-
-
-
+Losing 7:1 in a World Cup soccer game, then winning the Fields Medal?
+It is interesting times for Brazil.
 
 
 

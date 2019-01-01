@@ -13,7 +13,7 @@ SELECT count(1) FROM [gdelt-bq:full.events]
 
 Received result
 
-266301241
+`266301241`
 
 Cool.
 

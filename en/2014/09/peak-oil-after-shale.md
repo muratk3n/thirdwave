@@ -4,8 +4,7 @@ How much did the "US Shale Oil Revolution" change the peak oil scenarios? The fa
 
 US scientist Hubbard had correctly predicted US peak oil years as 1965-1970.  His  curve, the so-called Hubbard curve function,
 
-
-
+![](prev001.png)
 
 takes into account new oil resources becoming harder and harder to find and exploit. We applied his formula to world crude oil production data, and before shale oil "revolution" the peak oil year was 2004. Now peak oil year is at 2011. 
 
@@ -13,28 +12,41 @@ A post talking about the difference shale made (basically covering up the peak o
 
 Python code
 
-import pandas as pd, mathimport scipy.linalg as linimport lmfitdef find_peak(df,cminit,bcinit,tmcinit):    minyear = df['year'].min()    df['year'] = df['year'] - minyear    def err(w):        cm=w['cm'].value;bc=w['bc'].value;tmc=w['tmc'].value        tmp = (1.+np.cosh(bc*(df['year']-tmc)))        yfit = 2.0 * cm /  tmp        return df['production']-yfit    p = lmfit.Parameters()    p.add_many(('cm', cminit), ('bc', bcinit),('tmc', tmcinit))    mi = lmfit.minimize(err, p)    lmfit.printfuncs.report_fit(mi.params)    print mi.params['tmc'].value + minyear    return mi
+```
+import pandas as pd, math
+import scipy.linalg as lin
+import lmfit
+
+def find_peak(df,cminit,bcinit,tmcinit):
+    minyear = df['year'].min()
+    df['year'] = df['year'] - minyear
+    def err(w):
+	 cm=w['cm'].value;bc=w['bc'].value;tmc=w['tmc'].value
+	 tmp = (1.+np.cosh(bc*(df['year']-tmc)))
+	 yfit = 2.0 * cm /  tmp
+	 return df['production']-yfit
+
+     p = lmfit.Parameters()
+     p.add_many(('cm', cminit), ('bc', bcinit),('tmc', tmcinit))
+     mi = lmfit.minimize(err, p)
+     lmfit.printfuncs.report_fit(mi.params)
+     print mi.params['tmc'].value + minyear
+     return mi
 
 
-world = pd.read_csv('world.csv',sep='\s')minyear = world['year'].min()resworld = find_peak(world.copy(),0,0,0)
+world = pd.read_csv('world.csv',sep='\s')
+minyear = world['year'].min()
+resworld = find_peak(world.copy(),0,0,0)
 
-ciworld = lmfit.conf_interval(resworld)for ci in ciworld['tmc']: print ci
+ciworld = lmfit.conf_interval(resworld)
+for ci in ciworld['tmc']: print ci
 
 print [minyear+56, minyear+68]
+```
 
-The 95% onfidence interval is [2006, 2018]. 
+The 95% onfidence interval is [2006, 2018].
 
-Data, CSV
-
-
-
-
-
-
-
-at
-
-September 14, 2014
+[Data](http://www.eia.gov/cfapps/ipdbproject/iedindex3.cfm?tid=5&pid=53&aid=1&cid=ww,&syid=1980&eyid=2013&unit=TBPD), [CSV](world.csv)
 
 
 
@@ -46,8 +58,3 @@ September 14, 2014
 
 
 
-
-
-
-
-![](prev001.png)

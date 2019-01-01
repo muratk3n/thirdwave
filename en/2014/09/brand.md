@@ -1,17 +1,8 @@
 # Brand
+
 This guy is hilarious..
 
-
-
-
-
-
-
-
-at
-
-September 09, 2014
-
+https://youtu.be/5YK-kb2LsYE
 
 
 

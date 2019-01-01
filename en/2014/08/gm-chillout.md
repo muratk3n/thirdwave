@@ -1,6 +1,11 @@
 # #gm #chillout
 
-I'm amazed at just how much objection genetically modified foods are receiving.
+Neil deGrasse Tyson
+
+http://www.dailymail.co.uk/sciencetech/article-2711861/Chill-GM-food-Neil-deGrasse-Tyson-defends-GMOs-claiming-weve-modified-crops-thousands-years.html
+
+I'm amazed at just how much objection genetically modified foods are
+receiving.
 
 It smacks of the fear factor that exists at every new emergent science, where people don't fully understand it or don't fully know or embrace its consequences and are therefore rejecting it. What most people don't know, but should, is that practically every food you buy in a store for consumption by humans is genetically modified food.
 
