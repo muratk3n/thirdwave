@@ -1,31 +1,5 @@
 # #politics #britain
 
+![](outp.jpg)
 
-
-
-
-
-
-
-
-
-at
-
-July 01, 2016
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](out.jpg)
 ![](cart.gif)

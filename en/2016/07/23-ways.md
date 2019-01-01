@@ -1,29 +1,6 @@
 # 23 Ways
 
-
-
-
-
-
-
-
-
-
-at
-
-July 14, 2016
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/U_VaNhI4CLo
 
 
 

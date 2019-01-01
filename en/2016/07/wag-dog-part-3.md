@@ -1,4 +1,5 @@
 # Wag the Dog - Part 3
+
 Pity the Turkish president, Recep Tayyip Erdogan, in his labyrinth.
 
 It’s a large labyrinth. As he drifts from room to room — and there are about 1,000 of them in his new Ankara palace — Erdogan no doubt has time to reflect on Turkey’s travails and perhaps ponder how events can escape the control of even the most megalomaniacal ruler.
@@ -18,18 +19,6 @@ Prickly and erratic, he has perceived enemies everywhere — in the press (whose
 ---
 
 Also see part 1, part 2. 
-
-
-
-
-
-
-
-at
-
-July 01, 2016
-
-
 
 
 

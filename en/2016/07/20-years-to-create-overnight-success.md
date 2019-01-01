@@ -1,4 +1,5 @@
 # 20 Years to Create an Overnight Success
+
 This week, the Pokémon Go app has broken all records, with 10 million+ downloads in the first week, exceeding Twitter in daily active users, and with higher average user time than Facebook, Snapchat, Instagram & WhatsApp.
 
 How did John Hanke create such a massive overnight craze? Here’s the 10 times he levelled up in his lifetime to reach Pokémon Go:
@@ -26,24 +27,6 @@ How did John Hanke create such a massive overnight craze? Here’s the 10 times 
 10th Level: John and his team launched Pokémon Go on July 6th in USA, Australia and New Zealand. Since its launch, Nintendo’s share price has risen $12 billion, and the app is already generating over $2 million daily in in-app purchases, making it an overnight phenomenon.
 
 The overnight success of Pokémon Go has taken John Hanke 20 years to create. Throughout these 20 years, while he had a big vision of a game layer over the world, he didn’t know what form it would take. At every step, he just focused at his next level up.
-
-
-
-
-
-
-
-
-at
-
-July 22, 2016
-
-
-
-
-
-
-
 
 
 
