@@ -1,26 +1,3 @@
 # Hintjens on Open Source
 
-
-
-
-
-
-
-at
-
-May 19, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://vimeo.com/68236487

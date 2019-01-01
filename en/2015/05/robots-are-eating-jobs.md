@@ -1,4 +1,7 @@
 # Robots Eating Jobs
+
+Barbara Ehrenreich, NYT
+
 [T]he human consequences of robotization are already upon us, and 
 skillfully chronicled [in the book]. Although the unemployment rate has fallen to
  officially acceptable levels, long-term unemployment persists, and 

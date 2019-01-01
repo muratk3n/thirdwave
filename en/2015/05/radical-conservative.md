@@ -1,4 +1,7 @@
 # Radical Conservative
+
+Tim Harford
+
 [O]n the off chance that we ever see an economically radical Tory party, what policies might I suggest they embrace?
 
 Step one is to replace the benefit system with a more libertarian form of redistribution. Scrap all the mainstream benefit payments — for example, child benefit, jobseeker’s allowance, housing benefit, winter fuel allowance and even the state pension. Scrap the income tax allowance too. Give all long-term UK residents a taxable basic income of £8,000 a year and charge a flat 40 per cent income tax rate on every penny. The basic income can be phased in on a residency basis over 10 years, ensuring that recent immigrants pay a larger net contribution to the exchequer.
@@ -16,21 +19,6 @@ That should do the trick for the first term but a Conservative government should
 There you have it: a smaller, less bureaucratic state, innovation in education, redistribution to the poorest, a lower but more transparent income tax to attract the rich, an economic boom on the back of much-needed home-building and affordable housing for all.
 
 Conservative Central Office can thank me later.
-
-
-
-
-
-
-
-
-at
-
-May 11, 2015
-
-
-
-
 
 
 
