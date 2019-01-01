@@ -1,4 +1,5 @@
 # A Greek on Greece
+
 If you've ever driven a car in my gorgeous birth country, you may have observed a truly fascinating phenomenon as you prepare to make a left turn: While you patiently wait in line for the left-turn light to turn green, those who arrive immediately after you at that same intersection don't actually line up behind you. Instead, they pass you on the right, cut in front of the entire queue of cars and proudly gain a few seconds at your expense. It doesn't matter that they cheated and trampled on your rights a tiny little bit -- that's standard practice in the busy streets of Athens, part of everyone's daily quest to get ahead. Literally.
 
 That tiny little daily violation of each other's rights is perfectly symbolic of the prevailing national culture in Greece: My freedom does not end where yours begins; it extends indefinitely, unless I'm caught or stopped. It is considered perfectly normal to jump ahead of you at the traffic lights, to smoke where I'm not supposed to smoke, to cheat on my taxes [..]. Those who insist on respecting the rules are considered a little less smart, a little less "Greek" -- and they're often told they are the losers.
@@ -12,31 +13,5 @@ But until that happens, Greece -- just like any angry, drug-addicted, desperate 
 Just like millions of other Greeks around the world, I have always been incredibly proud of my heritage and incurably confident in my compatriots' abilities. But unlike many of them right now, I am deeply embarrassed by their anger [..], disheartened by their resistance to change [..]
 
 It's time for an enormous dose of tough love, so we can finally turn the most beautiful country in the world into a viable, democratic [..] society.
-
-
-
-
-
-
-
-
-
-
-at
-
-July 15, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

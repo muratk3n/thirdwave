@@ -1,23 +1,6 @@
 # The Magnus Effect
 
-
-
-
-
-
-
-
-
-
-at
-
-July 19, 2015
-
-
-
-
-
-
+https://youtu.be/2OSrvzNW9FE
 
 
 

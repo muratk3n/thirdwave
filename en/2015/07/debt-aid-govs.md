@@ -1,5 +1,12 @@
 # Debt, Aid, Govs
-[W]e saw the paradoxical result that as Nigeria’s oil revenues grew so did its debt. It wasn’t that the oil itself encouraged borrowing—autocrats always want to borrow more. Rather revenues from oil meant that Nigeria could service a larger debt and so people were more willing to lend. [..]
+
+Bruce. B. de Mesquita, The Dictator's Handbook
+
+[W]e saw the paradoxical result that as Nigeria’s oil revenues grew so
+did its debt. It wasn’t that the oil itself encouraged
+borrowing—autocrats always want to borrow more. Rather revenues from
+oil meant that Nigeria could service a larger debt and so people were
+more willing to lend. [..]
 
 Although the large coalition size in a democracy places some restrictions on the level of borrowing, democratic leaders are still inclined to be financially irresponsible. Remember, while the debt is paid by all, the benefits disproportionately flow to coalition members. Over the last ten years the economies of many Western nations boomed. This would have been a perfect time to reduce debt. Yet in many cases this did not happen. [..]
 

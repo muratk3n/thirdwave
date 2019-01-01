@@ -1,29 +1,5 @@
 # Food Waste
 
-
-
-
-
-
-
-
-
-
-at
-
-July 20, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/i8xwLWb0lLY
 
 

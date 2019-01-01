@@ -1,5 +1,23 @@
 # Economics of Abundance
-The prospect of [people] financing the generation of their own green energy and overseeing its use and distribution with their own wireless devices at near zero marginal cost has come a step closer to reality with the recent recommendation of free Wi-Fi for everyone. In February 2013, the Federal Communications Commission (FCC), the oversight body that regulates the U.S. [telecom] industry, dropped a bombshell. The commission published a proposal that would create “super Wi-Fi networks” across America, making wireless connection free for everyone. The FCC plan is to require television stations and other broadcasters to sell back to the government unused airwaves so they can be reemployed for public Wi-Fi networks. The reused broadcast frequencies would have a reach of a mile or more, be able to penetrate walls and enclosures, and allow users to make free calls from their mobile phones on the Internet, as well as use the Wi-Fi connection in their homes and businesses for free, slashing the cost of Internet bills.
+
+Jeremy Rifkin, The Zero Marginal Cost Society
+
+The prospect of [people] financing the generation of their own green
+energy and overseeing its use and distribution with their own wireless
+devices at near zero marginal cost has come a step closer to reality
+with the recent recommendation of free Wi-Fi for everyone. In February
+2013, the Federal Communications Commission (FCC), the oversight body
+that regulates the U.S. [telecom] industry, dropped a bombshell. The
+commission published a proposal that would create “super Wi-Fi
+networks” across America, making wireless connection free for
+everyone. The FCC plan is to require television stations and other
+broadcasters to sell back to the government unused airwaves so they
+can be reemployed for public Wi-Fi networks. The reused broadcast
+frequencies would have a reach of a mile or more, be able to penetrate
+walls and enclosures, and allow users to make free calls from their
+mobile phones on the Internet, as well as use the Wi-Fi connection in
+their homes and businesses for free, slashing the cost of Internet
+bills.
 
 The harnessing of near zero marginal cost communications to manage near zero marginal cost renewable energy gives society the critical operating platform to [..] change the economic paradigm. The controversial FCC proposal has pitted the wireless carriers of the nation’s great telecommunications companies, including AT&T, T-Mobile, Intel, and Verizon, against the equally formidable Internet and IT companies like Google and Microsoft. The former, which have paid out billions of dollars to secure FCC spectrum licenses, risk heavy losses to their $178 billion wireless industry. [..] Google is already providing free Wi-Fi in the Chelsea section of Manhattan and in some neighborhoods in Silicon Valley.
 
@@ -18,29 +36,4 @@ We are waking up to a new reality that is difficult to fathom. We have been so c
 ---
 
 Yes, please a-please let's replace the carrier services... These people are engaged in grandt-theft of people's money simply making use of their entrenched position in infrastructure that is stuck in a limbo, in no small part due to their existence. Free Wifi in cities would fix a lot of problems. 
-
-
-
-
-
-
-
-
-at
-
-July 04, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

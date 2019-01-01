@@ -1,4 +1,5 @@
 # Rivalry Check
+
 Why would this rivalry exist? More importantly, for the data investigation, how would this rivalry leave its mark in data so it can be caught?
 
 Let's look at the  evolutionary landscape: we are transitioning to a supersymbolic economy in which the most precious resource is talent. US wants talent, does not want to lose it to EU. Talent wants nice cities, safe environment, nice parks. That means if US suffers a terror attack of any kind, it would have a bad image for talent. Then, the theory goes US' shadowy pukes would instigate an attack  in Europe in short time, in response, to balance their image. 
@@ -18,26 +19,6 @@ The wait times were smaller than even for US-South America pairing where one wou
 In conclusion though, using the assumptions above, the hypothesis is disproved.
 
 Other methods to use here: time-series analysis to identify dependence between time-lagged EU vs US attack data. I cannot get into that at the moment, as I have no time.
-
-
-
-
-
-
-
-
-at
-
-July 06, 2015
-
-
-
-
-
-
-
-
-
 
 
 
