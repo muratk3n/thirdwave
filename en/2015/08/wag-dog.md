@@ -1,4 +1,7 @@
 # Wag the Dog
+
+HuffPost
+
 In 1997, the movie Wag the Dog told the tale of an American President who created a fictitious war against Albania to distract from domestic scandals, ensuring reelection. Turkey's President Recep Tayyip Erdogan must have seen it, as he's following the same script against the Kurds in order to boost his party's flagging fortunes. But will it work?
 
 Like the embattled chief executive 1997 movie, Erdogan is in trouble in Turkey. A flagging economy is taking its toll on the Turkish lira. Erdogan's authoritarian style is starting to wear out its welcome after a dozen years. He's arrested people he doesn't like, and turns water cannons on peaceful protesters who tried to keep Gezi Park from closing.
@@ -22,23 +25,6 @@ The thinking behind these theories is that an embattled leader can distract the 
 Western pundits expected Erdogan might do something like this against ISIS in Syria, or something against the Assad regime, to reverse his political fortunes. But going after the Kurds, trying to link the PKK insurgents with HDP, is election politics by other means. [..] Immediately, speculation was that the HDP would be weakened, the AKP would be strengthened. And why not? Erdogan and his allies probably feel that the Turkish people are no smarter than the gullible American audience in the film.
 
 But Erdogan and the AKP didn't count on Turks catching on to this game. Polls show that the HDP and other opposition parties are gaining, at the expense of the AKP. I found the Turks to be a pretty politically savvy population, able to see what's going on.
-
-
-
-
-
-
-
-
-at
-
-August 24, 2015
-
-
-
-
-
-
 
 
 
