@@ -1,28 +1,5 @@
 # E:D Cockpit
 
+Crazy gamers. Guy built it for the computer game Elite: Dangerous
 
-
-
-
-
-
-
-
-at
-
-November 20, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/PUFIFL7zwXQ
