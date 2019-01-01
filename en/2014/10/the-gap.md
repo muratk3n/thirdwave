@@ -1,4 +1,5 @@
 # The Gap
+
 [The  realisation on income inequality] has now spread to institutions that would not normally be accused of socialism [..] According to the Federal Reserve, the upper 3 per cent of the income distribution received 30.5 per cent of total incomes in 2013. The next 7 per cent received just 16.8 per cent. This left barely over half of total incomes to the remaining 90 per cent. The upper 3 per cent was also the only group to have enjoyed a rising share in incomes since the early 1990s. Since 2010, median family incomes fell, while the mean rose. Inequality keeps rising. The Morgan Stanley study lists among causes of the rise in inequality: the growing proportion of poorly paid and insecure low-skilled jobs; the rising wage premium for educated people; and the fact that tax and spending policies are less redistributive than they used to be a few decades ago. 
 
 ---
@@ -9,16 +10,6 @@ This, of course, is a (temporary) side effect of knowledge-based production; We 
 
 That is why, as a short-term solution, we keep saying basic income should be considered. Not minimum wage (a solution that would not help the 21% unemployed people in US for example). 
 
-
-
-
-
-
-
-
-at
-
-October 02, 2014
 
 
 

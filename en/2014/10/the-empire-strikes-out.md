@@ -1,17 +1,8 @@
 # The Empire Strikes Out
+
 Funny stuff..
 
-
-
-
-
-
-
-
-at
-
-October 17, 2014
-
+https://youtu.be/TiAPvuMDB0c
 
 
 

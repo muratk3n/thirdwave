@@ -1,4 +1,5 @@
 # Q&A - 7/10
+
 If 3W is about more decentralization, isnt more countries breaking up a good thing?
 
 Not necessarily
@@ -36,15 +37,6 @@ Yes they might
 .. but unfortunately,  trickle-down economics gets all out of balance in a knowledge economy as well; Let's say a billionaire wanted to invest in a company; which one would she or he invest in? A, B, or C.. so many choices. Say he chose WhatsApp - a 19 billion dollar company with  exactly 55 employees. I dont think such an investment would dent unemployment numbers much. Surely there are companies employing hundreds, or a thousand employees. Is thousand  a big number? Maybe. But comparatively, in 1913 Henry Ford employed up to 1000 people simply to move material in his company [1]. Compared to 2W, the numbers of today seem measly (oh, and we have more people, let's not forget). 
 
 
-
-
-
-
-
-
-at
-
-October 07, 2014
 
 
 
