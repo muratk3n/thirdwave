@@ -1,4 +1,5 @@
 # Ad Astra
+
 Elon Musk pulled his children out of an established school after discovering they weren't receiving the quality of education catered to their abilities. So how does an entrepreneurial billionaire effect change? By building his own school. Even hiring one of his kids’ former instructors to help start the small academy of mostly SpaceX employee parents.
 
 Known as Ad Astra, or Latin for "to the stars", the small school only had 14 students for the 2014-2015 academic year, but enrollment is expected to grow to 20 in the fall. Business Insider reports the father wants to eliminate grades and focus on the important elements of each subject and course. There's no "assembly line" for kids to fall in line.

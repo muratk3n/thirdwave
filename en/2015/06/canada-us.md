@@ -1,27 +1,6 @@
 # #canada #us
 
-
-
-
-
-
-
-
-
-
-at
-
-June 28, 2015
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/HcZ031DSvac
 
 
 

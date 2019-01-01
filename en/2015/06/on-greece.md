@@ -1,4 +1,7 @@
 # On Greece
+
+Jeremy Warner
+
 In looking for areas of common ground between Germany and Greece - quite a search, I can tell you - I eventually stumbled across the following, shared experience; that of hyperinflation. Both of them have relatively recent experience of this economically and socially crippling phenomenon.
 
 Indeed, according to a comprehensive league table of hyperinflation compiled by Steve Hanke, professor of applied economics at The John Hopkins University, Greece and Germany are among the worst such inflations of the modern age.
@@ -35,24 +38,6 @@ For everyone’s sake, this needs to end.
 Among its many other benefits, EU membership and the euro is a strategic asset for the Greek Integrators - it's one club which Turkey is not member of, for example (this is part of an  extremely useless and pointless rivalry IMHO, but it's there). Geostrategy is why people who suggested Grexit when the Greek crisis started now did a U-turn. Roubini did, and he justified himself by saying "the Russian-uh bear-uh will get da Greeks-uh" -- in his Italian accent. So strategery rather than economics is driving much of this stuff. If seperation happens,  it would help to speed up the decision making process, and stop the blame game as well.
 
 I watched a Varoufakis speech at Brookings Insititute some time ago -- he was presented by Kemal Dervis, the TR economist who became finance minister to solve his country's crisis in 2001. Later during Q&A he told Varoufakis "I had your job", what he did not elaborate on was that he was finance minister during a severe crisis just like the one Varoufakis was battling with. But Dervis enjoyed certain advantages, he was the first troubleshooter, not the second in the scene, TR was not part of the Euro or any other restricting mechanism. Also Dervis had worked at World Bank, knew the ropes well, so he analyzed locally, decided locally, hooked up with his friends at the IMF and WB to secure a loan, fixed the banking system, and it was done.
-
-
-
-
-
-
-
-
-
-at
-
-June 24, 2015
-
-
-
-
-
-
 
 
 

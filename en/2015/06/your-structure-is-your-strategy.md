@@ -1,4 +1,5 @@
 # Your Structure Is Your Strategy
+
 The theme of [General McChrystal's] book is that in the Information Age, hierarchical organizations cannot keep up with networked organizations. Those in a hierarchy may work as hard as they can, but the structure of their organization—with information going up the ladder and orders coming down—simply make them too slow to react in time [..].
 
 McChrystal [..] first fought in Iraq and then became the American commander in Afghanistan [..  His book] reminds me of a similarly humble book by another general, William Slim’s Defeat Into Victory, (Cooper Square Press, 2000) his account of being pushed out of Burma by the Japanese, retraining his force, and then going back into Burma and ousting the Japanese. In both cases, the heart of the story is sober self-examination by a general: What am I doing wrong? What assumptions of mine are wrong? I have good soldiers, so why are we ineffective?
@@ -28,19 +29,6 @@ Just as the Industrial Revolution required the invention of a new military struc
 [M]aking these changes is almost certainly necessary. Successful militaries reflect the means of power in their time. The ships that carried the wealth of newfound lands to Europe were protected by other, faster ships carrying cannons. The railroads that drove 19th century economies also transformed the movement of militaries. Nowadays we derive much of our energy from nuclear power, which also provides the core of the most powerful weapon of our time.
 
 Hence as we dive deeper into the Information Age, the familiar military organizations of the industrial era are likely to be forced to change. To do so, the first thing for the regular military to understand is that a network is not anarchy. It still has a leader, but instead of sitting atop a ladder, he or she is the central node in a distributed network. Envision a spider in her web, feeling every tug of every thread, overseeing it all, making sure the web is strong. Judging by this book, that will be the model for the successful military leader of the future; the one who harnesses the power of our age.
-
-
-
-
-
-
-
-
-at
-
-June 08, 2015
-
-
 
 
 
