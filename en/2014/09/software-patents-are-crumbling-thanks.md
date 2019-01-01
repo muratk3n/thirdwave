@@ -1,7 +1,21 @@
 # Software patents are crumbling, thanks to the Supreme Court
-The Supreme Court's June ruling on the patentability of software — its first in 33 years — raised as many questions as it answered. One specific software patent went down in flames in the case of Alice v. CLS Bank, but the abstract reasoning of the decision didn't provide much clarity on which other patents might be in danger.
 
-Now a series of decisions from lower courts is starting to bring the ruling's practical consequences into focus. And the results have been ugly for fans of software patents. By my count there have been 11 court rulings on the patentability of software since the Supreme Court's decision — including six that were decided this month.  Every single one of them has led to the patent being invalidated. [This means] that the pendulum of patent law is now clearly swinging in an anti-patent direction. Every time a patent gets invalidated, it strengthens the bargaining position of every defendant facing a lawsuit from a patent troll.
+The Supreme Court's June ruling on the patentability of software — its
+first in 33 years — raised as many questions as it answered. One
+specific software patent went down in flames in the case of Alice
+v. CLS Bank, but the abstract reasoning of the decision didn't provide
+much clarity on which other patents might be in danger.
+
+Now a series of decisions from lower courts is starting to bring the
+ruling's practical consequences into focus. And the results have been
+ugly for fans of software patents. By my count there have been 11
+court rulings on the patentability of software since the Supreme
+Court's decision — including six that were decided this month.  Every
+single one of them has led to the patent being invalidated. [This
+means] that the pendulum of patent law is now clearly swinging in an
+anti-patent direction. Every time a patent gets invalidated, it
+strengthens the bargaining position of every defendant facing a
+lawsuit from a patent troll.
 
 The end of "do it on a computer" patents
 
@@ -12,20 +26,6 @@ The Supreme Court invalidated a patent like that in its decision this year. The 
 ---
 
 Great.. There is hope for US yet. Nice going.
-
-
-
-
-
-
-
-
-at
-
-September 17, 2014
-
-
-
 
 
 
