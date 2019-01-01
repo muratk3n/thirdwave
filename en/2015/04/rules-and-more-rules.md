@@ -1,4 +1,7 @@
 # Rules and More Rules
+
+Link
+
 Another month, another terrible and bizarre aircraft incident.
 
 As far as the media are reporting, Andreas Lubitz decided it would be a great idea to fly a fully functional A320 in to the side of a mountain and kill 150 people a few days ago.
@@ -50,20 +53,6 @@ There are bunch of rules round central banks, regular banks, what Presidents can
 Speed: Yes life is moving much faster, Toffler studied this in Future Shock. Knowledge-based economy tends to move fast because, well, it can. Then changes collide with existing set of rules causing headache. Changes themselves coupled with this collision creates stress because human brain processes differences / changes, with increase of such stimuli (everything changes) this causes psychological ailments, stress, or worse.
 
 Obviously all rules that that conflict with optimality need to go. As for the change itself an increase of social help will makes things better. But this help must be simple, tied to individual, and portable, without any additional rules.
-
-
-
-
-
-
-
-
-at
-
-April 01, 2015
-
-
-
 
 
 

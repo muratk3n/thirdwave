@@ -1,7 +1,24 @@
 # Foreign Aid
-There is general agreement that foreign aid has been relatively ineffective in promoting economic growth, improved education or health care [..]. Debate rages between those who think the problem is that too little money is spent on aiding the world’s poor (Sachs 2005) and those who think the money is incorrectly targeted at recipient governments that too often divert it for corrupt purposes (Easterly 2002; 2006).
 
-There is a third view, which follows from a political economy approach to aid. [It] suggests that donor governments are not so naive as to fail to understand that much of their government-to-government aid will be diverted to the private uses of recipient elites. This view indicates that foreign aid is used effectively to promote its purpose, with that purpose being to trade money for policy concessions from recipient governments [..]. In the view that sees aid-for-policy deals, we can understand why, for example, the United States gives so much aid to illiberal regimes. Leaders of such regimes rely on small coalitions [this is BBMs selectorate theory], who remain loyal to the incumbent in exchange for private rewards.
+There is general agreement that foreign aid has been relatively
+ineffective in promoting economic growth, improved education or health
+care [..]. Debate rages between those who think the problem is that
+too little money is spent on aiding the world’s poor (Sachs 2005) and
+those who think the money is incorrectly targeted at recipient
+governments that too often divert it for corrupt purposes (Easterly
+2002; 2006).
+
+There is a third view, which follows from a political economy approach
+to aid. [It] suggests that donor governments are not so naive as to
+fail to understand that much of their government-to-government aid
+will be diverted to the private uses of recipient elites. This view
+indicates that foreign aid is used effectively to promote its purpose,
+with that purpose being to trade money for policy concessions from
+recipient governments [..]. In the view that sees aid-for-policy
+deals, we can understand why, for example, the United States gives so
+much aid to illiberal regimes. Leaders of such regimes rely on small
+coalitions [this is BBMs selectorate theory], who remain loyal to the
+incumbent in exchange for private rewards.
 
 Foreign aid provides money for private rewards. It is given by rich democracies whose incumbents are more likely to be maintained in power at the margin by obtaining policy concessions from foreign powers. Autocrats can grant those concessions more easily than can democrats, making autocrats attractive foreign aid recipients. It turns out that even the Scandinavian countries disproportionately give aid to small coalition, petty dictatorships and seemingly acquire trade concessions in return. Thus, American foreign aid turns out to look much like foreign aid giving by other well-to-do governments. In each case, policy concessions are obtained at the lowest price possible (this may be why foreign aid represents so little money). Poor autocracies with valuable policy concessions to offer are most likely to receive aid and, conditional on receiving aid, the more valuable the policy concession, the richer the recipient, and the larger the coalition on which the recipient relies, the more total aid it receives. Thus, countries like Egypt that have granted a major policy concession – peace with Israel – get a lot of aid while countries with less valuable policy concessions to offer, as is true for most of Africa today, receive relatively little aid whether from the United States, Japan, Scandinavia, or other donors.
 
@@ -16,18 +33,6 @@ The same pattern of reinforcing petty dictators is found following military inte
 --
 
 That's very interesting about Egypt and Israel; so US gives over a $1 billion a year to Egypt to buy piece with Israel. Does that punk, Netenyahu, know that? And you say daddy doesnt love ya! So not true! 
-
-
-
-
-
-
-
-
-at
-
-April 14, 2015
-
 
 
 

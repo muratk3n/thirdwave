@@ -6,7 +6,7 @@
 
 [Not an Empire](../../2015/01/not-empire.md)
 
-
+[Poor Egypt](../../2015/04/poor-egypt.md)
 
 
 

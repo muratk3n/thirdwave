@@ -1,4 +1,7 @@
 # Robotics Eating Jobs
+
+Link
+
 2011 [Masterchef] winner Tim Anderson has spent the last two years helping to devise the ultimate kitchen gadget – a pair of robotic arms which can whip up any meal with the skill and flair of a professional chef.
 
 Although it is currently just a prototype which uses the hob, developers Moley Robotics are planning commercial versions which will link up to the fridge, oven and even the dishwasher, so it can clean up afterwards.
@@ -22,21 +25,6 @@ The mass-market product will be supported by a digital library of over 2000 dish
 Home chefs will also be able to upload their favourite recipes too [..].
 
 “Whether you love food and want to explore different cuisines, or fancy saving a favourite family recipe for everyone to enjoy for years to come, the Automated Kitchen can do this,” he said.
-
-
-
-
-
-
-
-at
-
-April 14, 2015
-
-
-
-
-
 
 
 

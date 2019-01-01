@@ -1,5 +1,13 @@
 # Great Thinker Confusion
-[P]olitics is not terribly complicated. But by the same measure, history’s most revered political philosophers haven’t explained it very well. The fact is, people like Niccolò Machiavelli, Thomas Hobbes, James Madison, and Charles-Louis de Secondat (that is, Montesquieu), not to forget Plato and Aristotle, thought about government mostly in the narrow context of their times.
+
+The Dictator's Handbook, pg 33
+
+[P]olitics is not terribly complicated. But by the same measure,
+history’s most revered political philosophers haven’t explained it
+very well. The fact is, people like Niccolò Machiavelli, Thomas
+Hobbes, James Madison, and Charles-Louis de Secondat (that is,
+Montesquieu), not to forget Plato and Aristotle, thought about
+government mostly in the narrow context of their times.
 
 Hobbes sought the best form of government. His search, however, was blinded by his experience of the English civil war, the rise of Cromwell, and his fear of rule by the masses. Fearing the masses, Hobbes saw monarchy as the natural path to order and good governance. Believing in the necessary benevolence of an absolute leader, the Leviathan, he also concluded that, “no king can be rich, nor glorious, nor secure, whose subjects are either poor, or contemptible, or too weak through want, or dissension, to maintain a war against their enemies." Taking a bit of liberty with Hobbes’s more nuanced philosophy, we must wonder how R. Rizzo [a corrupt small charter charter town -Bell- politician who, affirming BBM's theory of small winning coalition, stole bunch of money], by Hobbesian lights, could grow so rich when his subjects, the citizens of Bell, were so demonstrably poor.
 

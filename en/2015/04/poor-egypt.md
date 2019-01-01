@@ -1,4 +1,7 @@
 # Poor Egypt
+
+Daron Acemoglu, *Why Nations Fail*
+
 [Egyptians] recognize that the roots of these problems are political. All the economic impediments they face stem from the way political power in Egypt is exercised and monopolized by a narrow elite. This, they understand, is the first thing that has to change.
 
 Yet, in believing this, the protestors of Tahrir Square have sharply diverged from the conventional wisdom on this topic.
