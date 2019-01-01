@@ -1,5 +1,10 @@
 # Cellnet
-Most of us know that our phones can connect to the WiFi hotspots around us [..] What few people realize is that two phones can often see each other, and chat, over these hotspots. In other words, without using any broadband, and without any traffic going out over the public Internet.
+
+Most of us know that our phones can connect to the WiFi hotspots
+around us [..] What few people realize is that two phones can often
+see each other, and chat, over these hotspots. In other words, without
+using any broadband, and without any traffic going out over the public
+Internet.
 
 This is called a "client-to-client" connection. Client-to-client connections work on most WiFi access points (that is, the little box with antennas that creates the hotspot) that you buy, and most that you'll find in cities. There are exceptions. For example the AT&T hotspots in Starbucks across the US do not allow client-to-client connections.
 
@@ -22,17 +27,6 @@ All of this is possible today, in software, and could take advantage of improvem
 The Cellnet would be extremely hard to spy on or disrupt. It is possible to capture WiFi traffic by being physically very close. However it's also quite easy to secure traffic between two peers to the extent that it cannot be read or modified or faked. The only way to get information is then to seize the phone itself. While physical seizures (including the old "beat them until they talk" technique) are always an option, they do not scale to billions of people. The spy state can still tap into traffic that goes across the Internet, by acting as Cellnet nodes. However it can get very little useful from it, and crucially, cannot tie activity back to individual actors.
 
 The Cellnet isn't fully resistant. One can attack WiFi hotspots by sending out jamming signals. However this will disrupt more than just smartphones, and it means having equipment in the right place at the right time. That is difficult and costly, and security is always about raising the costs to attackers.
-
-
-
-
-
-
-
-
-at
-
-February 17, 2015
 
 
 

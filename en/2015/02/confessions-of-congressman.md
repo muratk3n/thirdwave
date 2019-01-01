@@ -1,5 +1,11 @@
 # Confessions of a Congressman
-I am a member of Congress [..] It's a frustrating, even disillusioning job. The public pretty much hates us [..They]  know something is wrong. But they often don't know exactly what is wrong. And sometimes, the things they think will fix Congress — like making us come home every weekend — actually break it further.  So here are some things I wish the voters knew about the people elected to represent them.
+
+I am a member of Congress [..] It's a frustrating, even disillusioning
+job. The public pretty much hates us [..They] know something is
+wrong. But they often don't know exactly what is wrong. And sometimes,
+the things they think will fix Congress — like making us come home
+every weekend — actually break it further.  So here are some things I
+wish the voters knew about the people elected to represent them.
 
 1) Congress is not out of touch with folks back home
 
