@@ -1,18 +1,6 @@
 # What Would It Take?
 
-
-
-
-
-
-
-
-
-
-at
-
-August 16, 2016
-
+https://youtu.be/v2IVTM0N2SE
 
 
 

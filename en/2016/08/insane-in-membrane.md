@@ -1,4 +1,5 @@
 # Insane in the Membrane
+
 IBM Research in Zurich has created the world's first artificial nanoscale stochastic phase-change neurons. IBM has already created a population of 500 of these artificial neurons and used them to process a signal in a brain-like (neuromorphic) way.  This breakthrough is particularly notable because the phase-change neurons are fashioned out of well-understood materials that can scale down to a few nanometres, and because they are capable of firing at high speed but with low energy requirements. Also important is the neurons' stochasticity—that is, their ability to always produce slightly different, random results, like biological neurons [..]
 
 [T]hese phase-change neurons are the closest we've come to creating artificial devices that behave like biological neurons, perhaps leading us towards efficient, massively parallel computer designs that apply neuromorphic approaches to decision-making and processing sensory information [..]
@@ -10,20 +11,6 @@ There's no reason to stop there, though. Now it's time put thousands of these ph
 ---
 
 Fascinating..
-
-
-
-
-
-
-
-
-at
-
-August 03, 2016
-
-
-
 
 
 

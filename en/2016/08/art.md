@@ -1,18 +1,6 @@
 # #art
 
-
-
-
-
-
-
-
-
-
-at
-
-August 03, 2016
-
+https://youtu.be/fD2T45mjslw
 
 
 
