@@ -1,23 +1,6 @@
 # iEverything
 
-
-
-
-
-
-
-
-
-
-at
-
-October 05, 2016
-
-
-
-
-
-
+https://youtu.be/UqESogRgrYw
 
 
 

@@ -1,22 +1,12 @@
 # Mahna Mahna
 
+This is hilarious. 
 
+https://youtu.be/vZnlz-b2NnY
 
-This is hilarious. Another one here.
+Another one here.
 
-
-
-
-
-
-
-at
-
-October 20, 2016
-
-
-
-
+https://www.youtube.com/watch?v=POwj9V4yNrM
 
 
 
