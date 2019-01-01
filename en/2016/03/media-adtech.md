@@ -1,20 +1,6 @@
 # Media, AdTech
 
-
-
-
-
-
-
-
-
-at
-
-March 25, 2016
-
-
-
-
+https://youtu.be/oXBqzpExvrk?list=PLKof9YSAshgxXWeBcfbN5M7W9jNsgf9Pv&t=433
 
 
 

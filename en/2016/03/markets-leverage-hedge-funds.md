@@ -1,4 +1,5 @@
 # Markets, Leverage, Hedge Funds
+
 On January 21, 1994 Federal Reserve Chairman Alan Greenspan made his way over to the White House. [The economy had] grown smoothly for thirty-four consecutive months, but now Greenspan was visiting President Clinton and his entourage to deliver an unwelcome message. Even though inflation was quiescent, it was time to preempt its resurgence with a small rate hike. By acting early, Greenspan hoped to avoid the overheating that would force him to slam on the brakes later. He aimed to pilot the economy toward a “soft landing.”
 
 [.. Answering a question by Al Gore, Greenspan answers that t]he possibility that a rate hike might cause a nasty Wall Street backlash was one he had certainly considered, but he was focused above all on the reaction in the stock market. Having entered record territory in 1993, the S&P 500 index appeared ripe for a correction. The bond market seemed to be of secondary importance.
@@ -19,7 +20,6 @@ The Bond Book
 While people speak of the bond market as if it were one market, in reality there is not one central place or exchange where bonds are bought and sold. In fact, there are not even several exchanges where bonds are traded and prices for each trade are posted. Rather, the bond market is a gigantic over-the-counter market [..] Most U.S. Treasury securities, for example, are sold through a network of "primary dealers" who sell directly to large institutions and to large broker-dealer firms. The broker-dealer firms, in turn, resell the bonds to the investing public and to smaller institutional investors. Municipals are sold by dealers, by banks, and by brokerage firms [..] Whereas stocks sell ultimately in one of three independent exchanges (the New York Stock Exchange, the American Stock Exchange, or the Nasdaq), most bonds are sold dealer to dealer.
 
 This market is so vast that its size is difficult to imagine. Although the financial press reports mainly on the stock market, the bond market is several times larger. Overwhelmingly, this is an institutional market. It raises debt capital for the largest issuers of debt, such as the U.S. government, state and local governments, and the largest corporations. The buyers of that debt are primarily large institutional investors such as pension funds, insurance companies, banks, corporations, and, increasingly, mutual funds. These buyers and sellers routinely trade sums that appear almost unreal to a nonfinance professional. U.S. government bonds trade in blocks of $1 million, and $100 million trades are routine. The smallest blocks are traded in the municipal market, where a round lot is $100,000. Another way of characterizing this market is to call it a wholesale market.
-
 
 Whaley, Derivatives, Markets, Valuation and Risk Management
 
@@ -54,23 +54,6 @@ The contrast between banks and hedge funds was summed up by the story of Bear St
 ----
 
 I guess the verdict on these investment banks is that not only they became Too Big To Tail, but also Too Byzantine Not To. Low interest rates, complicated internal structures, regulators dropping the ball not watching leverage ratios, toxic mortgage bonds sometimes sold to others sometimes kept by internal hedge funds, over-the-counter nature of the whole thing set the groundwork for major fail. 
-
-
-
-
-
-
-
-at
-
-March 07, 2016
-
-
-
-
-
-
-
 
 
 

@@ -1,23 +1,6 @@
 # #encryption
 
-
-
-
-
-
-
-
-
-
-at
-
-March 14, 2016
-
-
-
-
-
-
+https://youtu.be/i8xaCdL2_9E
 
 
 

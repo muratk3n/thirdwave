@@ -1,20 +1,6 @@
 # The Inner Flame
 
-
-
-
-
-
-
-
-
-
-at
-
-January 29, 2016
-
-
-
+https://youtu.be/3NGRpzQ9vCE
 
 
 

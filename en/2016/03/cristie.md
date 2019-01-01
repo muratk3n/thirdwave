@@ -1,23 +1,6 @@
 # #christie
 
-
-
-
-
-
-
-
-
-
-at
-
-March 07, 2016
-
-
-
-
-
-
+https://youtu.be/zeYj1rx5Fz0
 
 
 

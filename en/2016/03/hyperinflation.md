@@ -1,4 +1,5 @@
 # Hyperinflation
+
 Currency War I began in 1921 in Weimar Germany when the Reichsbank, Germany’s central bank, set about to destroy the value of the German mark through massive money printing and hyperinflation. Presided over by Reichsbank head Dr. Rudolf von Havenstein, a Prussian lawyer-turned-banker, the inflation proceeded primarily through the Reichsbank’s purchases of bills from the German government to supply the government with the money needed to fund budget deficits and government spending [sounds like QE?]. This was one of the most destructive and pervasive monetary debasements ever seen in a major developed economy [..].
 
 A myth has persisted ever since that Germany destroyed its currency to get out from under onerous war reparations demanded by England and France in the Treaty of Versailles. In fact, those reparations were tied to “gold marks,” defined as a fixed amount of gold or its equivalent in non-German currency, and subsequent treaty protocols were based on a percentage of German exports regardless of the paper currency value. Those gold- and export-related specifications could not be inflated away. However, the Reichsbank did see an opportunity to increase German exports by debasing its currency both to make German goods more affordable abroad—one typical reason for a debasement—as well as to encourage tourism and foreign investment. These methods could provide foreign exchange needed to pay reparations without diminishing the amount of reparations directly.
@@ -22,37 +23,13 @@ Mallaby, More Money Than God
 German unification did not merely cause the Bundesbank to act in a [..] predictable manner. It exposed the central bank’s conflicted role as the anchor of the deutsche mark and simultaneously of Europe’s exchange-rate mechanism. This system had been set up in 1979 to dampen currency fluctuations within Europe, allowing companies to invest and trade without worrying that wild exchange rate swings would upend their business models. For more than a decade, the mechanism worked well, stabilizing currencies without going to the extreme of unifying them. Participating currencies were allowed to move against one another within narrow bands; and if that flexibility was not enough, a country could negotiate devaluation with its European partners. These rules afforded national governments some room to use interest rates to manage their economic cycles. The system balanced the objectives of exchange-rate stability on the one hand and interest-rate flexibility on
 the other.
 
-
-
-
 German unification strained this compromise. It created inflationary pressure within Germany, pushing the Bundesbank to raise interest rates. But the German rate hikes came at a time when other European economies were experiencing a recession that cried out for lower interest rates. High interest rates in Germany coupled with relatively low rates elsewhere caused money to flow into deutsche marks; as a result, the weaker European currencies, notably the Italian lira and the British pound, traded near the bottom of the band permitted by the exchange-rate mechanism—and threatened to break out of it. This presented Europe’s governments with two options. Germany could cut its rates in order to attract less capital, while the Italians and British did the opposite. Or central banks could intervene in the currency markets, selling marks and buying lire and pounds. If both interest-rate adjustment and currency intervention failed, Italy and Britain would be forced into devaluation [..].
-
-
 
 Ever since the hyperinflation that had fueled Hitler’s rise, the Germans had prized monetary stability. In the United States, the Federal Reserve’s statutory mandate requires it to target both low inflation and full employment; in Germany, the Bundesbank’s mission was exclusively to fight inflation. For this reason, it was clear that the Germans’ first instinct would be to refuse to cut interest rates so long as the costs of reunification were causing budget deficits; and if Germany hung tough, the pressure on sterling would grow ever greater [..BB did hung tough, sterling is attacked by speculators -sold at incredible amounts, led by Soros' Quantum Fund-, finally Britain gives up]
 
-
 That evening, [British official] Lamont called a press conference in the Treasury’s central courtyard. At 7:30 p.m., facing a massive battery of TV cameras from all over the world, he announced Britain’s exit from the exchange-rate mechanism [..]
 
-
 [Soros protege] Druckenmiller’s coup also served to show that currency pegs were vulnerable in a world of deep and liquid markets. During the 1950s and 1960s, the system of fixed currencies worked well because regulations restricted the flow of capital across borders; but now that these controls were gone, it was time for governments to accept the limits to their power over money. They could either use interest rates to manage the value of their currency, so dampening exchange-rate swings, or they could use them to manage their economic ups and downs, so dampening recessions. Attempts to have it both ways via “flexible pegs” such as the exchange-rate mechanism were likely to backfire [..] The implications of a world featuring [..] macro investors were not immediately absorbed by policy makers. As happens after every financial crisis, the first instinct was to vilify the markets rather than to learn the awkward lessons that they teach: in this case, that currency pegs were dangerous.
-
-
-
-
-
-
-
-
-
-
-at
-
-March 06, 2016
-
-
-
-
 
 
 

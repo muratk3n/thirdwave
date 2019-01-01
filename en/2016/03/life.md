@@ -1,4 +1,5 @@
 # Life
+
 Life's early appearance on earth demands a theory of its chemical origin. Among the earliest ones is the "primordial soup" theory, usually credited to Alexander Oparin and J. B. S. Haldane [..] who
 wrote about it in the 1920s [..] The primordial soup remained speculation for decades, until 1952, when it received a huge boost from Stanley Miller, a graduate student in the laboratory of Nobel
 laureate Harold Urey at the University of Chicago. Based on an informed guess at the composition of the gases that were present in the early atmosphere, Miller sealed these gases in a container, showered them with electric sparks to simulate primordial lightning, and washed the mixture in a rainfall of condensing water. After mere days, many organic molecules—those normally created by living organisms—had appeared in Miller’s miniature world. This was a monumental discovery, for it showed how organic molecules could have emerged from inorganic matter during the turbulent youth of our planet. And Miller’s primordial ocean produced not just any organic molecules. It created amino acids such as glycine and alanine, basic building blocks of modern proteins. Later experiments produced many other of life’s construction materials, including sugars and parts of DNA. But even more important was that Miller’s experiments moved life’s origin from philosophical speculation to the realm of hard, experimental science.
@@ -13,22 +14,6 @@ The Murchison meteorite, it is important to know, iş not a freak of nature. Sim
 Life’s simpler building blocks are so prevalent in the universe that molecules from space may have seeded life on earth itself. Meteorites and comets, especially those that bombarded the early earth, discharged ten times more water than currently fills all of the earth’s oceans, and a thousand times more gases than its present-day atmosphere.
 
 What is more, they also delivered the rich buffet of organic molecules we find in interstellar space, and in a staggering number of servings. At least ten trillion tons of organic carbon, and perhaps a hundred times as much, have entered our atmosphere from outer space. That is at least ten times more than all the carbon that circulates in living cells today [..]
-
-
-
-
-
-
-
-
-
-
-at
-
-March 28, 2016
-
-
-
 
 
 

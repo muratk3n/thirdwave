@@ -1,4 +1,5 @@
 # Blockchain as an Exchange
+
 It's the sort of deal that could revolutionise markets. Salt Lake City online retailer Overstock is trying to prove it can do without stock exchanges and hangers-on like brokers by issuing bonds and shares on its own blockchain-based exchange.
 
 The move suggests blockchain, the new version of the most boring bit of finance – the general ledger that records transactions – might be even more profound than the hype suggests.[..]
