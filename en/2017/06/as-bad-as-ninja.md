@@ -1,4 +1,5 @@
 # As Bad As Ninja
+
 [Ninja: No Income, No Job, No Assets. Term coined during subprime loan era]
 
 Mirella Casares has what used to be considered the keystone of economic security: a job. But even a reliable paycheck no longer delivers a reliable income.
@@ -32,20 +33,6 @@ The ubiquity of the phenomenon has frequently been masked by annual measures of 
 The number of Americans living comfortably or doing all right financially has grown since the recession. Still, the new Fed report found that 30 percent — roughly 73 million adults — say they are finding it difficult to get by financially, or are just getting by.
 
 To Mr. Morduch and his co-author, Rachel Schneider, the rise in income volatility is an indication of how businesses in an era of advancing technology and global competition have shifted risk onto employees.
-
-
-
-
-
-
-
-at
-
-June 28, 2017
-
-
-
-
 
 
 

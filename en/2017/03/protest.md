@@ -1,4 +1,5 @@
 # #protest
+
 March and Rally!
 
 Defeat Trump/Ryan Budget Plans! Universal Health Care Now!
@@ -11,17 +12,11 @@ Paul Ryan and Donald Trump--and their assault on the people of the United States
 
 ---
 
-Great - go for it. Unless people demand it, status-quo defending politicians will never get off their ass and give the citizens proper healthcare. This must be focus #1. Do not get sidetracked by other issues, you know, the other frivolous "hot button" stuff. Healthcare first.
-
-
-
-
-
-
-
-at
-
-March 22, 2017
+Great - go for it. Unless people demand it, status-quo defending
+politicians will never get off their ass and give the citizens proper
+healthcare. This must be focus #1. Do not get sidetracked by other
+issues, you know, the other frivolous "hot button" stuff. Healthcare
+first.
 
 
 

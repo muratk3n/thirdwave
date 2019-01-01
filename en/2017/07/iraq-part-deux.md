@@ -1,4 +1,5 @@
 # Iraq Part Deux
+
 The reason for the [Iraq] war was complex and difficult to explain. The process of public explanation undermined the war's utility. If the President was to say that the reason for invading Iraq was to prove that the United States was really much tougher than people thought, and that the occupation of Iraq was intended to intimidate neighboring countries, it would undermine the United States's ability to attain either goal. During World War II, for example, the core American strategy was to allow the Soviets to bleed the Germans dry so that the United States could then land in France and defeat a weakened Germany. It was certainly true, but it was not something that could be said publicly. Roosevelt preferred to speak in terms of the Four Freedoms and the United Nations rather than publicly embrace the actual strategy. Indeed, his strategy and his ideals were not incompatible. Nevertheless, explaining his strategy was not something to be done in polite company.
 
 All nations, especially democratic ones, are torn between the realities of foreign policy and the need to mobilize public opinion around ideals. This is made even more complex when it is simultaneously necessary to build a coalition of foreign nations while attempting to influence the behavior of enemies. It is frequently impossible to publicly reveal the strategic purpose for taking action, and necessary to invoke powerful symbols to justify them. In the best circumstances, the realities of strategy and the symbols invoked are not incompatible [..].
@@ -20,17 +21,6 @@ On alliances: now Israel + SA + US + Egypt formed a powerful alliance, and this 
 The key from American perspective will be not to push anyone into a corner, that they feel so threathened that they lash out. Iranians are being balanced, but with Iraq pacified, "Shiitized" they feel more secure. If they are not pushed into a corner, peace can ensue. But Pakis can feel threathened, India buddy-buddy with US is huge (I wish Pakis never seperated from India - such a shame).
 
 On the Russian front, US seems to want an "entente" with Russia? Well.. Germany partnered up with China to balance Russia, so that puts it at odds with US. Is that why there is all this friction lately? 
-
-
-
-
-
-
-
-at
-
-July 13, 2017
-
 
 
 

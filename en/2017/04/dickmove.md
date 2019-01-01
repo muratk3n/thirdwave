@@ -1,24 +1,8 @@
 # #dickMove
 
-
-
 Also this.
 
-
-
-
-
-
-
-at
-
-April 10, 2017
-
-
-
-
-
-
+https://youtu.be/P2QXMGYluzo
 
 
 

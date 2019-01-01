@@ -1,4 +1,5 @@
 # The Best vs. The Rest
+
 In this paper, we aim to bring the debate on the global productivity slowdown – which has largely been
 conducted from a macroeconomic perspective – to a more micro-level. We show that a particularly striking
 feature of the productivity slowdown is not so much a lower productivity growth at the global frontier, but
@@ -21,15 +22,6 @@ extensive, suggesting that policy weaknesses may be stifling diffusion in OECD e
 
 Interesting. IIUC productivity growth has not slowed, the top dogs innovate madly, the "lower" tier companies is where the slowdown occured. Paper says policy is at fault. 
 
-
-
-
-
-
-
-at
-
-May 30, 2017
 
 
 

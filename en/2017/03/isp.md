@@ -1,4 +1,3 @@
 # #isp
 
-
-![](out.jpg)
+![](outi.jpg)

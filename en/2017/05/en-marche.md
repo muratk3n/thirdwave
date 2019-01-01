@@ -1,30 +1,5 @@
 # En Marche !
 
-
-
 Very cool.. Totally psyched for France. 
 
-
-
-
-
-
-
-at
-
-May 09, 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](Macron-thumbs-up-800x450.jpg)

@@ -1,19 +1,6 @@
 # #MTPGA
 
-
-
-
-
-
-
-
-
-
-at
-
-July 07, 2017
-
-
+https://youtu.be/am-SrXtTvjU
 
 
 

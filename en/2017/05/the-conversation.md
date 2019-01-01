@@ -1,4 +1,5 @@
 # The Conversation
+
 Work today is gasping for breath: labor force participation by men ages 25–54 has fallen 10 percent from a peak of 98 percent in the 1950s. Official measures of unemployment understate the severity of today’s crisis by not including those who have given up trying to find work. [..] Just look at the example of longshoremen as documented in the new podcast Containers.
 
 Meanwhile a great deal of work valued by our society is poorly paid, such as eldercare, childcare, and teaching. In all, the present state of work in America is a mess. [..]
@@ -27,25 +28,9 @@ Many towering questions remain. How do we reconcile a basic income with American
 
 But the conversation is happening now. If we do raise the economic floor in America, it will likely take decades to agree on a new way. In the coming years work will shift. Our families may hold together differently. Our politics might take a ninety-degree turn. We need to honor those who do necessary work for which they are unpaid or underpaid. We struggle to predict the future, so we must prepare for it and address the crisis we already face today.
 
-
-
 ---
 
-
-
 True. There are some errant culture codes that get in the way of providing relief for society; In US the culture code for work is WHO YOU ARE - work confers (or so it is believed) an identity on people, which is bunk. Cultures are full of such hot air - they need to be cleansed thoroughly before any rational decision can be made. You see a person drive a 4 x 4 off-road SUV, in Manhattan (not Montana, Manhattan New York), there is probably a cultural virus is in play. Or when people associate money with PROOF (of a person's value, status, etc), health with MOVEMENT, or quality being equated with something "just working".
-
-
-
-
-
-
-
-
-at
-
-May 16, 2017
-
 
 
 

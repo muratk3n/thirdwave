@@ -1,29 +1,6 @@
 # Wringing out Water on the ISS
 
-
-
-
-
-
-
-
-
-
-at
-
-March 27, 2017
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/o8TssbmY-GM
 
 
 
