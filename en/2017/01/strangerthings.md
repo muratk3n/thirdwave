@@ -1,18 +1,6 @@
 # #strangerthings
 
-
-
-
-
-
-
-
-
-
-at
-
-January 31, 2017
-
+https://youtu.be/veLOQLrQfNU
 
 
 
