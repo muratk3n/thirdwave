@@ -1,4 +1,5 @@
 # Mystery Meat
+
 The business environment after the summer of 2007 was tough [..]. One solution, according to management, was to go elephant hunting [..] In good times, transparent, flat-fee commission business was steady and paid the bills; it was a volume business. But if the register wasn’t ringing, as was now the case, new types of business had to be found. What could make up the fastest for lost revenue? Products that were quick hits, that had very high margin embedded in them. As a general rule on Wall Street, the less transparent a product is, the more money is in it for the firm. Over-the-counter derivatives (OTC, meaning not listed on an exchange) and structured products (complex, nontransparent derivatives with all sorts of bells and whistles) were the trades to go for [..].
 
 [After the subprime crisis] Goldman didn’t go down. But the storm kept raging. [One way to survive] was to try to convince your clients to buy structured derivative products (black boxes) that might temporarily give them some hope: [..] Since these structured products were created by the bank that sold them and not widely traded, they came with the markup one expects from any bespoke product. These kinds of murky promises were legally okay, because in the twenty pages of disclaimers on the document, somewhere there would be a line that read, “This may or may not be accurate; we may or may not believe what we’re telling you; we may or may not have the opposite view…” [..]
@@ -13,27 +14,11 @@ I saw many sales leaders in different product groups [worrying about the questio
 
 What made matters worse, and even murkier, was the fact that a well-known Goldman Sachs strategist had come out with a semisecret report that went to only a select number of clients. [..] In his commentary, the strategist painted a particularly dire picture and suggested that European banks might need to raise $1 trillion in capital. He suggested some derivatives plays to capitalize on (or hedge against) this turmoil. During the same time period that a Goldman strategist was predicting the implosion of the European banking system, there were many days that our trading desk wanted to convince clients that today is a day to buy [..] It was all too much. We had advised Greece all those years ago how to cover up its debt by trading a derivative. Now that the chickens had come home to roost, we were [advising on how to profit from it ..].
 
-
-
 --
-
-
 
 Smith's book is a continuation of his op-ed piece on NYT published on the day he left GS.
 
-
 The arrival of the 3W is causing problems for old financial firms, as concentration, centralization gives way to decentralization, it's no surprise they start to lose their edge. Electronic brokerages today provide cheap and easy access to markets, anyone can trade equities, options, futures, and even compose their own brand of portfolios. With that kind of competition out there, firms like GS increasingly had to go towards OTC route, became predatory, especially on other "concentrated" institutions such as municipal governments, sovereign banks, but causing risky entanglements in the process that are even more concentrated.  
-
-
-
-
-
-
-
-
-at
-
-March 14, 2016
 
 
 

@@ -1,4 +1,5 @@
 # Wall Street, Main Street
+
 A clarification is in order: Finance is not just "stocks", and it's not just about banks. There are hedge funds which in their entire history, never needed tax payer money to be bailed out. There are many other financial instruments without which Main Street could not survive.
 
 Let's take future contracts. They tie a buyer and a seller around a commodity transaction; corn, metals, oil, what-not whereby the seller *must* deliver a specific item in a specific quantity at an agreed price at a specific time. This is important (and different from stocks) - the price is agreed upon beforehand. This way the seller "locks" a price, and sleeps easier at night. The seller could be a farmer, producing corn. There is a standardized corn contract; he sells it, and goes about his business without being bothered whether the price of corn will be $10 or $1000 in 6 months.
@@ -14,19 +15,6 @@ There are some services the investment banks are good at of course; for example 
 Coming back to the hedge funds: they come in different shapes of forms, but they are mostly technical in nature, extremely algorithmic in some cases. There are the "macro" guys like Soros and his protege, they look at interest rates, countries, currencies, central banks, there are the "pair traders" who "hedge" one stock with another (this is where the name hedge fund comes from but this is not the only approach anymore), there are information theory / statistics gurus like Jim Simons - this guy is revered like some kind of mystic, he made boat loads of money even during the last crisis. And there are the stock pickers of course, and value investors like Buffett. They deal long-term and are mentally contrarians in nature.
 
 So, I am loving the show Billions -Damian Lewis and Paul Giamatti in the same show? What can go wrong?-, but some of the items in the backdrop are not reflective of recent events. Yeah writers take an artistic license sometimes - we need a "rich guy", "a financier", and a government guy, both characters fight, fine. But Lewis' character is running a hedge fund using insider information, this is a rare event, there have been only very few instances where hedge funds have been involved in such matters, mainly such approaches are out of their "area of expertise". The sausage makers at the investment banks would be much better at that because the walls between their myriad departments get leaky. 
-
-
-
-
-
-
-
-at
-
-March 08, 2016
-
-
-
 
 
 
