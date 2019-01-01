@@ -1,16 +1,8 @@
 # Free Lunchism
+
 Duncan Watts is a researcher in Network Theory.
 
-
-
-
-
-
-
-
-at
-
-December 16, 2014
+https://youtu.be/Va5LDhIF9hI
 
 
 

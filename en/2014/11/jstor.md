@@ -1,4 +1,5 @@
 # JSTOR
+
 [The image] is from page 4 of more than 3K pages of internal emails 
 from ITHAKA.org, which is the non-profit responsible for the JSTOR 
 digital library (whose mission is “to foster widespread access to the world’s body of scholarly knowledge”).
@@ -16,19 +17,6 @@ no longer had an interest in further proceedings. The US Gov’t didn’t
 stop, however [..] The FBI
  had much worse in mind for him (and succeeded in doing) for the act of 
 downloading PDFs. It culminated in the unnecessary loss of his life.
-
-
-
-
-
-
-
-
-at
-
-November 11, 2014
-
-
 
 
 

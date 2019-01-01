@@ -2,18 +2,7 @@
 
 To be fair others in the panel (even the audience) were pretty active in the debate as well.
 
-
-
-
-
-
-
-
-at
-
-December 12, 2014
-
-
+[![](http://img.youtube.com/vi/Q2RSKJC-ugk/0.jpg)](http://www.youtube.com/watch?v=Q2RSKJC-ugk)
 
 
 
