@@ -1,14 +1,6 @@
 # Geoengineering
 
-
-
-
-
-
-
-at
-
-December 23, 2016
+https://vimeo.com/194855994
 
 
 

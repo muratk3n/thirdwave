@@ -1,4 +1,5 @@
 # Cigs
+
 It is increasingly common for governments to give poor people money. Rather than grant services or particular goods to those in poverty, such as food or housing, governments have found that it is more effective and efficient to simply hand out cash. [..]
 
 For decades, policymakers have been concerned that poor people will waste free money by using it on cigarettes and alcohol. A report on the perception of stakeholders in Kenya about such programs found a “widespread belief that cash transfers would either be abused or misdirected in alcohol consumption and other non-essential forms of consumption.”
@@ -12,21 +13,6 @@ In addition to looking at results from individual studies, the researchers also 
 Why on earth would this be? Evans and Popova highlight several possibilities.
 
 One, the cash transfers may change a poor household’s economic calculus. Before receiving the cash, any spending on education or health might have seemed futile, but afterwards, parents might decide that a serious investment in their children’s school was sensible. To make this happen, it might mean cutting back on booze and smoking.
-
-
-
-
-
-
-
-
-
-
-at
-
-December 13, 2016
-
-
 
 
 

@@ -1,23 +1,8 @@
 # #conan
 
-
-
 And another; some bashing is overboard but it's funny..
 
-
-
-
-
-
-
-at
-
-November 14, 2016
-
-
-
-
-
+https://youtu.be/rh_4U65hp88
 
 
 

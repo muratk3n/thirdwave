@@ -1,18 +1,6 @@
 # #meyers
 
-
-
-
-
-
-
-
-
-
-at
-
-November 04, 2016
-
+https://youtu.be/tWXP6GbZXYM
 
 
 
