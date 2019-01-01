@@ -1,4 +1,5 @@
 # DNA as Hard Drive
+
 DNA can fit almost 1 billion terabytes of data into just one gram. That makes it far more efficient than any other known form of computer storage.
 
 And it also manages to last for a long time, as can be seen in the fact that the DNA of woolly mammoths has stayed accessible tens of thousands of years after they died. Experts suggest that storing data in DNA would allow it to last for 2,000 years or more, making it far more long-lasting than traditional data storage.
@@ -15,15 +16,6 @@ Microsoft says that initial trials of the technology have seen all of the data s
 
 Fascinating.  
 
-
-
-
-
-
-
-at
-
-April 28, 2016
 
 
 

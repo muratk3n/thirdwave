@@ -1,4 +1,5 @@
 # A Subversive Proposal
+
 Stevan Harnad’s “Subversive Proposal” came of age last year [an Internet posting by Harnad on 1994  calling on all authors of research writings to archive their articles for free for everyone online]. I’m now teaching students younger than Stevan’s proposal, and yet, very little has actually changed in these 21 years. On the contrary, one may even make the case that while efforts like institutional repositories (green OA), open access journals (gold OA) or preprint archives have helped to make some of the world’s scholarly literature more accessible (estimated to now be at more than 40% of newly published papers), we are now facing problems much more pernicious than lacking access: most of our data and essentially all of our scientific source code is not being archived nor shared, our incentive structure still rewards sloppy or fraudulent scientists over meticulous, honest ones, and the ratchet of competing for grants just to keep the lights in the lab on is driving the smartest young minds out of academia, while GlamHumping marketeers accumulate.
 
 While one may not immediately acknowledge the connection between access to the literature and the more pernicious problems I’ve alluded to, I’d argue that by ceding our control over our literature to commercial publishers, we have locked ourselves into an anachronistic system which is the underlying cause for most if not all our current woes. If that were indeed the case, then freeing us from this system is the key to solving all the associated problems.
@@ -13,21 +14,6 @@ Let that accomplishment sink in for a minute.
 Of course it isn’t all global cheering and party everywhere. Obviously, the publishers complain that she used her site, Sci-Hub, to ‘steal their content‘ – with their content being of course the knowledge of the world that they have been holding hostage for a gigantic ransom. For 20 years this industry has thrived at the public teat, parasitizing an ever-increasing stream of tax-funded subsidies to climb from record profits to record profits, financial crises be damned. Of course, they are very happy to seize on this opportunity to distract from the real problems we’re facing, by staging a lawsuit to keep their doomed business practices running for yet a little longer. Perhaps more amusingly, one suggestion from the publishers of how to respond to Sci-Hub is to make access even more restrictive and expensive. I’ve only been around the OA movement for 10 years, but the ignorance, the gall and the sheer greed of publishers has astounded me time and time again.
 
 Essentially, in my experience, the only reply we ever got from publishers to our different approaches to reform our infrastructure, has been one big raised middle finger. Clearly, two decades of negotiations, talks and diplomacy have led us nowhere. In my opinion, the time to be inclusive has come and passed. Publishers have opted to remain outside of the scholarly community and work against it, rather than with it. Actions of civil disobedience like those of Aaron Swartz and Alexandra Elbakyan are a logical consequence of two decades of stalled negotiations and failed reform efforts.
-
-
-
-
-
-
-
-
-
-at
-
-April 25, 2016
-
-
-
 
 
 

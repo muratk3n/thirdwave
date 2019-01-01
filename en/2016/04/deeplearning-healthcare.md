@@ -1,19 +1,6 @@
 # #deeplearning #healthcare
 
-
-
-
-
-
-
-
-
-
-at
-
-April 29, 2016
-
-
+https://youtu.be/2Shx0cW1bMI?list=PLnDbcXCpYZ8kc5Un4x5-lzRHmWQgmJhEc
 
 
 

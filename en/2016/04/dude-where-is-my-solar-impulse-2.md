@@ -2,9 +2,6 @@
 
 Link
 
-
-
-
 A solar-powered airplane reached the San Francisco Bay area and performed a fly-by over the Golden Gate Bridge on Saturday afternoon, some 56 hours after leaving Oahu as part of its journey around the world.
 
 Solar Impulse 2 took off from Kalaeloa Airport early Thursday morning.
@@ -14,17 +11,6 @@ Solar Impulse 2 took off from Kalaeloa Airport early Thursday morning.
 ---
 
 Blinkety blink motherblinking abso-blinking-lutely blinking awesome.
-
-
-
-
-
-
-
-at
-
-April 24, 2016
-
 
 
 
