@@ -1,4 +1,5 @@
 # Tendermint
+
 Satoshi created a spark with Bitcoin, but the future is in Tendermint. Research in decentralized consensus algorithms has been in progress since the early '80s. Today we have the ubiquitous and powerful computing network to run a decentralized blockchain ledger, and thanks to Bitcoin and the cryptocurrency community all the pieces are in place to redefine the nature of finance.
 
 What makes Tendermint special?
@@ -26,19 +27,6 @@ Tendermint is both a decentralized organization as well as a foundational techno
 We believe that the future is comprised of many interconnected-but-sovereign blockchains that serve different purposes for a variety of communities. Tendermint will be the leader driving innovation to bring interoperability.
 
 Tendermint the decentralized organization is comprised of all the users and contributors of this foundational blockchain technology. Our first prototype network will be a blockchain ledger that represents our community. 
-
-
-
-
-
-
-
-at
-
-January 07, 2015
-
-
-
 
 
 

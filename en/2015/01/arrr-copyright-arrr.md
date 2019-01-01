@@ -1,4 +1,5 @@
 # Arrr! Copyrright! Arrr!!
+
 Strangely unreported by mainstream media, there is a major revision of the copyright monopoly underway in the European Union. And the person in charge, Julia Reda, is a Pirate Party representative. The tide is turning.
 
 For years – nay, for decades – net activists and freedom-of-speech activists have been fighting against the copyright industry’s corrupt initiatives. In country after country, the copyright industry was practically calling out for mail-order legislation, and receiving it every time.
@@ -14,18 +15,6 @@ In 2006, did I imagine that a pirate would be writing the European Parliament’
 ---
 
 Very cool... Go EU.
-
-
-
-
-
-
-
-
-at
-
-January 05, 2015
-
 
 
 

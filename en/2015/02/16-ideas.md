@@ -1,4 +1,7 @@
 # 16 Ideas
+
+From Marc Andreessen
+
 1) More Montessori & Montessori-style, free-form, and/or project-based K-8 public & private schools.
 
 2) Entrepreneurship magnet/charter schools — specifically designed to produce entrepreneurs, vs cogs in the industrial machine.
@@ -30,26 +33,6 @@
 15) Eliminate tax credits for corporate debt, and implement tax credits for corporate equity.
 
 16) Zero capital gains tax for equity held for 5+ years, paid for by higher capital gains tax for equity held for <2 years.
-
-
-
-
-
-
-
-at
-
-February 24, 2015
-
-
-
-
-
-
-
-
-
-
 
 
 
