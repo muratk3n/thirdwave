@@ -2,29 +2,12 @@
 
 I have to admit - very cute.
 
+https://youtu.be/2hh9lWK-iwc
 
+Another one, a monkey sees a magic trick and he starts to
+laugh. Incredible.
 
-
-Another one, a monkey sees a magic trick and he starts to laugh. Incredible.
-
-
-
-
-
-
-
-
-
-
-at
-
-December 23, 2015
-
-
-
-
-
-
+https://youtu.be/FIxYCDbRGJc
 
 
 

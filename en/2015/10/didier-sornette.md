@@ -1,28 +1,13 @@
 # Didier Sornette
 
+[![](http://img.youtube.com/vi/C_eFjLZqXt8/0.jpg)](http://www.youtube.com/watch?v=C_eFjLZqXt8)
 
-
-
-Great TED talk on seeing extreme events as precursors to phase transitions, not as "unknowable outliers".
+Great TED talk on seeing extreme events as precursors to phase
+transitions, not as "unknowable outliers".
 
 Related: Financial Crisis Observatory
 
-
-
-
-
-
-
-
-at
-
-October 12, 2015
-
-
-
-
-
-
+http://www.er.ethz.ch/financial-crisis-observatory.html
 
 
 

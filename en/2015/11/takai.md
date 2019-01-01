@@ -1,4 +1,5 @@
 # #takai
+
 On Wednesday, David Bowers, the mayor of Roanoke, VA., piled onto the backlash against Syrian refugees led by state governors, in the wake of last week's terrorist attacks in Paris that killed 129 people. Mayor Bowers requested that all local agencies "suspend and delay any further Syrian refugee assistance until these serious hostilities and atrocities end...and normalcy is restored." Then he attempted to draw this historical parallel:
 
 "I'm reminded that President Franklin D. Roosevelt felt compelled to sequester Japanese foreign nationals after the bombing of Pearl Harbor, and it appears that the threat of harm to America from ISIS is just as real and serious as that from our enemies then".
@@ -22,18 +23,6 @@ Mayor Bowers, one of the reasons I am telling our story on Broadway eight times 
 --
 
 At best the gov might have, in part, thought up this internment business in order to protect Japanese Americans from potential hate attacks... but imprisonment is imprisonment. It sucks. The society would have managed without it, and be better for it at the end.
-
-
-
-
-
-
-
-at
-
-November 20, 2015
-
-
 
 
 

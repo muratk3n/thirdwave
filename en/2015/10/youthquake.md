@@ -1,4 +1,5 @@
 # Youthquake
+
 2015 represents a generational shift in Canadian politics. Voters woke up on Tuesday morning to find that the most powerful people in their government were all under 45. Voter turnout surged seven percent this election, which is shocking for an election not contested on a central national issue like the conduct of a war or the implementation of a major economic policy.
 
 The source of those votes is even more shocking. In one advance poll project, 70,000 students turned out. It is perhaps perfectly Canadian that nobody noticed its "youthquake" until it was over. Nonetheless, that is what happened. The boomers no longer control Canada. That fact is, in and of itself, a transformation to the underlying structure of Canadian political life.
@@ -8,25 +9,6 @@ Youth wanted the old Canada back, it turns out. Political strategy led the Conse
 --
 
 I love it. Harper tried very hard to "pull a Netanyahu" for this election, but it didn't work. Lovely.
-
-
-
-
-
-
-
-
-at
-
-October 23, 2015
-
-
-
-
-
-
-
-
 
 
 

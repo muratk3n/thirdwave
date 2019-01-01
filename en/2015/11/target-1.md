@@ -1,4 +1,5 @@
 # Target #1
+
 Most actors in Syria have other priorities besides destroying the Islamic State. Almost all rebel groups insist on destroying Assad before the Islamic State. They refuse to be drawn into what they call a “sahwa.” They do not want to become “agents of America” and so forth. The vast majority want nothing to do with the fight against ISIS before they have defeated Assad. Many members of the Coalition that are fighting ISIS also have other priorities. That is a big problem for both for the Russians and for the U.S. Indeed, the US has other priorities as well. We saw in Palmyra, Deir ez-Zor and elsewhere, the US would not attack ISIS if it believed Assad and his military would benefit. It preferred to have ISIS take Palmyra than to be seen to be helping Assad.
 
 [Question: So, why does the West keep supporting those rebels? For the West it’s not a fight about removing Assad rather than fighting Islamic State]

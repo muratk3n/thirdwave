@@ -1,27 +1,6 @@
 # #toofunny
 
-
-
-
-
-
-
-
-
-
-at
-
-December 15, 2015
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/NKXGA-AU50w
 
 
 

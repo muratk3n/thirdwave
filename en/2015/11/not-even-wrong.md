@@ -1,4 +1,5 @@
 # Woit
+
 The story of how the discovery of the principles of special relativity and quantum mechanics revolutionised twentieth-century physics is by now a rather old one. By 1973, physicists had in place what was to become a fantastically successful theory of fundamental particles and their interactions, a theory that was soon to acquire the name of the 'standard model'. Since that time, the overwhelming triumph of the standard model has been matched by a similarly overwhelming failure to find any way to make further progress on fundamental questions [..]
 
 [On String Theory] Since physicists continue to take seriously the idea of a supersymmetric extension of the standard model, they must have a reason to believe that it may be possible to overcome the severe difficulties explained in detail in the last section. The most popular hope of this kind is that superstring theory will do the trick. This hope has motivated an unprecedented quantity of work by a very large number of the most prominent theoretical physicists for more than twenty years, but after all this time and effort the whole project remains nothing more than a hope. Not a single experimental prediction has been made, nor are there any prospects for this situation to change soon.
@@ -21,22 +22,6 @@ Since 1973 no change eh? Very interesting that year: 1973.
 BTW the title of the book is a jab utilizing Popper's falsifiability dictum, according to Woit SS theory does not propose anything falsifiable therefore is  dubious in terms of science. 
 
 Changing the model to go to whatever direction that makes it prettier and better fit - this is an odd form of theoretical overfitting it seems to me; overfitting is well known in statistics, you keep adding more knobs, more flexibility to the model until it "explains" the data perfectly, but it's ability to predict suffers as a result. 
-
-
-
-
-
-
-
-
-at
-
-November 26, 2015
-
-
-
-
-
 
 
 
