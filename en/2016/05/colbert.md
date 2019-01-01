@@ -1,29 +1,6 @@
 # #colbert
 
-
-
-
-
-
-
-
-
-
-at
-
-May 26, 2016
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/jp2ggZ7s4OI
 
 
 

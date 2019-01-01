@@ -1,25 +1,6 @@
 # #TTIP #Chomsky
 
-
-
-
-
-
-
-
-
-
-at
-
-May 31, 2016
-
-
-
-
-
-
-
-
+https://youtu.be/4abS3S0PzpQ
 
 
 

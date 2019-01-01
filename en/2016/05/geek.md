@@ -1,30 +1,7 @@
 # #geek
 
+A little geek for Friday.  (For non-techies, in the last box he just
+made a reference to a ready-made package). 
 
-
-A little geek for Friday.  (For non-techies, in the last box he just made a reference to a ready-made package). 
-
-
-
-
-
-
-
-at
-
-May 13, 2016
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](CYiILC5WQAIMFS1.jpg)
 
