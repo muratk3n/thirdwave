@@ -1,28 +1,6 @@
 # $
 
-
-
-
-
-
-
-
-
-
-at
-
-September 07, 2015
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/1BI413YkYTw
 
 
 

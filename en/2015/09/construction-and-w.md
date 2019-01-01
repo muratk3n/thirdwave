@@ -1,5 +1,7 @@
 # Construction
 
+Bruce B. de Mesquita, TLPS
+
 The ease with which graft can be hidden in construction projects makes
 this industrial activity unusually attractive as a way for leaders to
 indulge in cronyism and nepotism. Every society requires construction,
@@ -43,22 +45,6 @@ conjunction with either of the 3 parties were able to form a
 coalition. At the same time there have been allegations around AK over
 inappropriate dealings related to the construction
 sector. Coincidence?
-
-
-
-
-
-
-
-at
-
-September 03, 2015
-
-
-
-
-
-
 
 
 

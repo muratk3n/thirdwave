@@ -1,4 +1,5 @@
 # Feed the Poor, Starve the Beast
+
 This fall [.. Swiss a]ctivists delivered 125,000 signatures — enough to trigger a Swiss public referendum, this time on providing a monthly income to every citizen, no strings attached. Every month, every Swiss person would receive a check from the government, no matter how rich or poor, how hardworking or lazy, how old or young. Poverty would disappear. [..]
 
 Go to a cocktail party in Berlin, and there is always someone spouting off about the benefits of a basic income, just as you might hear someone talking up Robin Hood taxes in New York or single-payer health care in Washington. And it’s not only in vogue in wealthy Switzerland. Beleaguered and debt-wracked Cyprus is weighing the implementation of basic incomes, too. They even are whispered about in the United States, where certain wonks on the libertarian right and liberal left have come to a strange convergence around the idea — some prefer an unconditional “basic” income that would go out to everyone, no strings attached; others a means-tested “minimum” income to supplement the earnings of the poor up to a given level.
@@ -12,28 +13,6 @@ The left is more concerned with the power of a minimum or basic income as an ant
 Evelyn Forget, a health economist at the University of Manitoba, has done some of the best research on the results. Some of her findings were obvious: Poverty disappeared. But others were more surprising: High-school completion rates went up; hospitalization rates went down. “If you have a social program like this, community values themselves start to change,” Forget said [..]
 
 There’s a deeper, scarier reason that arguments for guaranteed incomes have resurfaced of late. Wages are stagnant, unemployment is high and tens of millions of families are struggling in Europe and here at home. Despite record corporate earnings and skyrocketing fortunes for the college-educated and already well-off, the job market is simply not rewarding many fully employed workers with a decent way of life. Millions of households have had no real increase in earnings since the late 1980s.
-
-
-
-
-
-
-
-at
-
-September 18, 2015
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

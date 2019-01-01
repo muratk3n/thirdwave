@@ -1,4 +1,5 @@
 # GIIPS and BELLs
+
 Economists lament that they cannot conduct scientific experiments on national economies because many variables cannot be controlled and processes cannot be replicated. But certain cases have enough controlled variables to produce telling results when divergent polices are pursued under similar conditions. Two such quasi-experiments involving the BELLs have played out recently. The first contrasts the BELLs and the GIIPS; the second contrasts each BELLs member to the others.
 
 Experiments are typically conducted by controlling certain variables among all participants and measuring differences in the factors that are not controlled. The first control variable in this real-world experiment is that neither the BELLs [Bulgaria, Estonia, Latvia, and Lithuania] nor the GIIPS [Greece, Ireland, Italy, Portugal, and Spain] devalued their currencies. The BELLs have maintained a local currency peg to the euro and have not devalued. Indeed, Estonia actually joined the euro on January 1, 2011, at the height of anti-euro hysteria, and Latvia joined on January 1, 2014.
@@ -10,21 +11,6 @@ The GIIPS initially continued so-called economic stimulus and made only slight c
 In contrast, the BELLs took immediate, drastic measures to put their fiscal houses in order, and strong growth resumed as early as 2010 and is now the highest in the EU. The turnaround was dramatic. [..] The BELLs’ success in quickly restoring growth and competitiveness contrasts sharply with the GIIPS, which have stretched the process out over six years and still have a considerable way to go to achieve fiscal sustainability.
 
 If not a perfectly controlled experiment, the contrast between the BELLs’ and the GIIPS’ policy choices is a powerful case study. The findings show that economic prudence works and Keynesian-style stimulus fails. The results are not surprising, given Keynesianism’s dismal track record over the decades and the lack of empirical support for its claims.
-
-
-
-
-
-
-
-
-
-
-at
-
-September 07, 2015
-
-
 
 
 

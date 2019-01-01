@@ -1,4 +1,5 @@
 # GOOG, AMZN
+
 Today, at an interview sponsored by the Benchmark-portfolio company Sailthru, legendary [venture capitalist] Bill Gurley appeared on stage [..]
 
 Gurley evoked a “reversal of funnel” concept, saying that for nearly two decades Google has enjoyed a perch at the top, where “you do the least amount of work” and the money is easy. Meanwhile, lower in this metaphorical funnel — where you see the “nitty gritty, the hard work, the touching of physical goods,” he said — Amazon has been clawing its way upward with every transaction that solidifies its consumers’ trust in its pricing and its ability to deliver when it says it will.
@@ -12,26 +13,6 @@ As for where e-commerce startups would be smart to compete:
 Two words, said Gurley: “Anxiety relief. Humans love it when you remove [anxiety].”
 
 “When [Uber CEO] Travis [Kalanick] started Uber, he insisted there not be a [option for a tip built into the app]. He didn’t want the user experience to include this anxious moment of, ‘What should [the tip] be?'”
-
-
-
-
-
-
-
-at
-
-September 16, 2015
-
-
-
-
-
-
-
-
-
-
 
 
 
