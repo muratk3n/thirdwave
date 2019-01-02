@@ -1,5 +1,4 @@
-
-###################################################################
+# EU Greece code
 
 0 Debt Relief, No Reform
 30 Debt Relief, Half Reform

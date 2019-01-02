@@ -1,17 +1,6 @@
 # #russia #russia #russia
 
-
-
-
-
-
-
-
-
-
-at
-
-June 16, 2018
+https://youtu.be/nlgrOhcajDY
 
 
 

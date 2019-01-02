@@ -19,7 +19,6 @@ screw the savers". Ultra-low interest rates not only created a bubble
 in the financial markets but also punished
 [thrift](https://www.ft.com/content/de61140c-b68b-11e8-a1d8-15c2dd1280ff).
 
-
 [Richard Werner](https://eprints.soton.ac.uk/418719/1/20_03_2018_Does_Forei.pdf)
 
 [From *The New Paradigm in Macroeconomics*] Without fully reflecting

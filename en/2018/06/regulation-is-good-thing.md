@@ -1,4 +1,5 @@
 # Regulation is a Good Thing
+
 (As of 2017, South Korea had the fastest average internet connection in the world at 28.6 Mbit/s).
 
 The last several months have been a lonely time for FCC Chairman and anti-net neutrality campaigner Ajit Pai. His one-man charm offensive has seen him emerge as the most prominent voice in favor of Net Neutrality repeal. But despite his best efforts, Pai seems genuinely surprised that both he and the recent repeal are incredibly unpopular.
@@ -18,21 +19,6 @@ It is here that Pai should look for inspiration in his bid to remake America’s
 By utilizing regulatory power to ensure competition and guarantee a rules-based digital ecosystem, South Korea has embraced a vision of government and corporate interests working in tandem that should make conservatives in America blush. Unfortunately, Pai has chosen to go in the opposite direction, opening up ground on the left to those calling for municipal broadband or even a nationalized internet that is treated as a public utility.
 
 Instead of stifling competition and innovation through a series of reforms that will protect established ISPs and tech firms, Pai could achieve the impact he claims to want by creating a level playing field that gives startups an opportunity to disrupt the status quo. Many of Silicon Valley’s biggest names trace their origins to little more than a dimly lit garage and a few friends that shared a common vision. But the FCC’s Net Neutrality repeal threatens all that made this era of innovation possible. The public would be better served by an FCC that enhances competitiveness by following the South Korean blueprint.
-
-
-
-
-
-
-
-
-
-
-at
-
-June 22, 2018
-
-
 
 
 

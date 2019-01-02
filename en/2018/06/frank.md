@@ -1,20 +1,6 @@
 # #frank
 
-
-
-
-
-
-
-
-
-
-at
-
-June 24, 2018
-
-
-
+https://youtu.be/4xPCMhwyHy0
 
 
 

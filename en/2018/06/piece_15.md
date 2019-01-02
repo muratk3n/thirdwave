@@ -1,19 +1,6 @@
 # #piece
 
-
-
-
-
-
-
-at
-
-June 15, 2018
-
-
-
-
-
+https://youtu.be/HH-vUgLGo20
 
 
 
