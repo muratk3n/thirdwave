@@ -1,20 +1,9 @@
 # Buffett: Single-Payer
 
+https://youtu.be/r75Mi2B0YXE
 
 
 Go Buffy
-
-
-
-
-
-
-
-at
-
-September 10, 2017
-
-
 
 
 

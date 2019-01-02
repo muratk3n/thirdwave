@@ -1,4 +1,5 @@
 # The Uninhabitable Earth
+
 Even when we train our eyes on climate change, we are unable to comprehend its scope. This past winter, a string of days 60 and 70 degrees warmer than normal baked the North Pole[..] Until recently, permafrost was not a major concern of climate scientists, because, as the name suggests, it was soil that stayed permanently frozen. But Arctic permafrost contains 1.8 trillion tons of carbon, more than twice as much as is currently suspended in the Earth’s atmosphere. When it thaws and is released, that carbon may evaporate as methane, which is 34 times as powerful a greenhouse-gas warming blanket as carbon dioxide when judged on the timescale of a century; when judged on the timescale of two decades, it is 86 times as powerful. In other words, we have, trapped in Arctic permafrost, twice as much carbon as is currently wrecking the atmosphere of the planet, all of it scheduled to be released at a date that keeps getting moved up, partially in the form of a gas that multiplies its warming power 86 times over.[..]
 
 Most people talk as if Miami and Bangladesh still have a chance of surviving; most of the scientists I spoke with assume we’ll lose them within the century, even if we stop burning fossil fuel in the next decade. Two degrees of warming used to be considered the threshold of catastrophe: tens of millions of climate refugees unleashed upon an unprepared world. Now two degrees is our goal, per the Paris climate accords, and experts give us only slim odds of hitting it. The U.N. Intergovernmental Panel on Climate Change issues serial reports, often called the “gold standard” of climate research; the most recent one projects us to hit four degrees of warming by the beginning of the next century, should we stay the present course. But that’s just a median projection. The upper end of the probability curve runs as high as eight degrees — and the authors still haven’t figured out how to deal with that permafrost melt.
@@ -15,15 +16,6 @@ Some back-of-the-envolope calculations: Earth atmosphere is about 10 billion km^
 
 Actually I like this approach better than some of the other geoengineering ideas, like sprinkling tiny particles in high atmo trying to reflect back sunlight.
 
-
-
-
-
-
-
-at
-
-September 04, 2017
 
 
 

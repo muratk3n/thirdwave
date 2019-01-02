@@ -1,18 +1,6 @@
 # Drones
 
-
-
-
-
-
-
-
-
-
-at
-
-August 28, 2017
-
+https://youtu.be/dJYLx9cRfCI
 
 
 

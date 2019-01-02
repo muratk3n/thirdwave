@@ -1,20 +1,6 @@
 # Science Tricks
 
-
-
-
-
-
-
-
-
-
-at
-
-August 14, 2017
-
-
-
+https://youtu.be/H9PuZQVrh74
 
 
 

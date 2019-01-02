@@ -1,5 +1,17 @@
 # The Nordic Theory of Everything
-In Finland, in the decade-plus of my working life as a newspaper and magazine writer and editor, I’d lived a comfortable middle-class existence, as had all my friends. I’d always had enough disposable income after taxes to eat out, travel, and enjoy myself, as well as a nice cushion to set aside in savings every year besides. I’d never had to pay extra for things like health insurance, and medical treatment of any kind had only ever cost me small sums, if anything. If I were ever to get seriously ill in Finland, not only would I be treated at no significant cost to me, I would also get up to a year of paid sick leave with job security, and more help after that if I needed it. [..]
+
+Anu Partanen, from the book with the same name
+
+In Finland, in the decade-plus of my working life as a newspaper and
+magazine writer and editor, I’d lived a comfortable middle-class
+existence, as had all my friends. I’d always had enough disposable
+income after taxes to eat out, travel, and enjoy myself, as well as a
+nice cushion to set aside in savings every year besides. I’d never had
+to pay extra for things like health insurance, and medical treatment
+of any kind had only ever cost me small sums, if anything. If I were
+ever to get seriously ill in Finland, not only would I be treated at
+no significant cost to me, I would also get up to a year of paid sick
+leave with job security, and more help after that if I needed it. [..]
 
 Among the less privileged, meanwhile, American marriage appeared to be in a state of full-blown crisis. A much-discussed study had found that among white people in their thirties and forties, less than half of those with only a high-school education were tying the knot. Critics debated the causes of this reality, but what was remarkable to me was that this discussion, too, ultimately circled around the financial axis [..] In America, if you were contemplating getting married and starting a family, you first needed to think very carefully about your finances. How much debt did you have in student loans? Could you afford health insurance? For that matter, how much would it cost just to give birth? The maternity benefits of different health-insurance plans varied dramatically. I was stunned when I learned of a young couple who had health insurance, and nevertheless had ended up owing the hospital twenty thousand dollars for the birth of their baby. [..]
 
@@ -20,12 +32,6 @@ The fast-paced, stressful nature of modern life in a globalized world might be i
 
 
 
-
-
-
-at
-
-August 06, 2017
 
 
 

@@ -1,20 +1,6 @@
 # Sanders on the Democratic Party
 
-
-
-
-
-
-
-
-
-
-at
-
-August 03, 2017
-
-
-
+https://youtu.be/LZv-0f46Abw
 
 
 

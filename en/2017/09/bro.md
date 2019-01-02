@@ -1,4 +1,5 @@
 # Bro
+
 When news broke that the price of Daraprim, a 62-year-old life-saving drug often prescribed to AIDS patient, had been raised from $13.50 a tablet to $750, outrage ensued [..] Turing’s CEO, former hedge fund manger Martin Shkreli, publicly defended his decision to raise the drug price saying that the new profit would be invested in further research and the drug’s new cost was more in line with that of other life-saving drugs. But he eventually gave in and announced a price revision.
 
 While insults of all kinds have been thrown at “Pharma Bro,” he is not the real villain but rather someone trying to do his job, which is to make a profit. The villain is the system.
@@ -24,17 +25,6 @@ I have another explanation: The old new left has failed, they are generating zer
 Except that you haven't. Unless the system / the incentives are fixed the problem will not go away.
 
 US either fixes these systemic problems, otherwise, forget the bros, you get the wrecking ball.
-
-
-
-
-
-
-
-at
-
-September 25, 2017
-
 
 
 

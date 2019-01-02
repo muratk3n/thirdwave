@@ -172,8 +172,6 @@
 
 [#tesla](07/tesla.md)
 
-[###](08/blog-post.md)
-
 [Both Sides](08/both-sides.md)
 
 [Drones](08/drones.md)

@@ -1,18 +1,6 @@
 # The History of Medical Billing
 
-
-
-
-
-
-
-
-
-
-at
-
-August 03, 2017
-
+https://youtu.be/CeDOQpfaUc8
 
 
 

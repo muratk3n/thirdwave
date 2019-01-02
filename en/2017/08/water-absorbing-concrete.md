@@ -1,19 +1,6 @@
 # Water-Absorbing Concrete
 
-
-
-
-
-
-
-
-
-
-at
-
-August 09, 2017
-
-
+https://youtu.be/LWiq0NbJmaw
 
 
 
