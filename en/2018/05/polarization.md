@@ -1,4 +1,5 @@
 # Polarization
+
 Question
 
 What did politicians think about the polarization during the 90s? What were their conclusions?
@@ -47,14 +48,6 @@ Immediately after the civil war the president was assassinated allowing his vice
 
 
 
-
-
-
-
-
-at
-
-May 30, 2018
 
 
 

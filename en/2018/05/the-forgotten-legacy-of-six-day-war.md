@@ -1,4 +1,7 @@
 # The Forgotten Legacy of the Six-Day War
+
+G. Friedman
+
 Forty-nine years ago this week, Israel fought Egypt, Syria and Jordan in the Six-Day War. As a result of this war, Israel captured the West Bank (which had belonged to Jordan), the Golan Heights (which had belonged to Syria) and the Sinai Peninsula (which had belonged to Egypt).
 
 Israel waged the perfect war, as much as this is possible. It had superb intelligence, struck with strategic and tactical surprise, rapidly broke the Egyptian command structure, and then systematically secured both the West Bank and the Golan Heights. In doing this, Israel secured something it never had: strategic depth. It forced Egypt across the Suez Canal, drove Jordan behind the Jordan River and forced Syria back off the Golan Heights and out of artillery range of Israeli settlements.
@@ -36,28 +39,4 @@ All armies have weaknesses, but Israel assumes its army is invincible. Its victo
 The Israelis have a fine military. But regardless of what it achieved in 1967, its other victories were flawed, as are most victories. Therefore, assuming that the Israel Defense Forces can guarantee the security of Israel in a sea of enemies is dangerous.
 
 Israel is a small country with a good army. It cannot always succeed and should not only pursue a military solution. But Israel’s strategy assumes it will always perform as it did in 1967. 
-
-
-
-
-
-
-
-at
-
-May 16, 2018
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,22 +1,6 @@
 # #dccc #badabim #badaboom
 
-
-
-
-
-
-
-
-
-
-at
-
-April 28, 2018
-
-
-
-
-
+https://youtu.be/9mySXaG05Gw
 
 
 

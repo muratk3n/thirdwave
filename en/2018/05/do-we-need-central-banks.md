@@ -1,4 +1,7 @@
 # Do We Need Central Banks?
+
+Werner
+
 I. The Central Bank Narrative
 
 For more than the past four decades, public policy discourse, especially when touching on macroeconomic and monetary policy, has been dominated by the views held and actively sponsored by the central banks, particularly in Europe and North-America, as well as Japan.
@@ -186,23 +189,6 @@ The key principle of such decentralization is local autonomy, self-determination
 The German banking system is dominated by 1,500 community banks, which are also the majority of banks in the entire EU. This means that 80% of German banks are not-for-profit, which has strengthened the German economy for the past 200 years. A banking system consisting of many small banks is also far less prone to boom-bust cycles and it creates more jobs per given amount of loan than large banks. Thus community banks also result in a more equal income and wealth distribution.
 
 Local banking is highly popular in Germany, because SMEs get access to finance that would not be serviced by large banks. The community banks provide their services at competitive rates and support their customers also during recessions. With community banks, the wider community gets a bank whose goals are aligned with theirs, banks that pay taxes, banks that support local growth and jobs. At the same time community banks offer customers a place to put their money where it can benefit the local community, not far-flung projects or speculators.
-
-
-
-
-
-
-
-
-at
-
-May 10, 2018
-
-
-
-
-
-
 
 
 

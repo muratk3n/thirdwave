@@ -1,21 +1,8 @@
 # Settlements, Explained
 
+https://youtu.be/E0uLbeQlwjw
 
-
-
-
-
-
-
-
-
-
-
-at
-
-May 18, 2018
-
-
+https://youtu.be/B6L9mS9ti6o
 
 
 

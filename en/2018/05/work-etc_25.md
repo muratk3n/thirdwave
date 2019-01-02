@@ -1,4 +1,5 @@
 # Work, etc
+
 https://www.psychologytoday.com/intl/blog/ulterior-motives/201404/why-having-the-choice-do-nothing-is-so-important
 
 This lesson would resonate in Gore Associates, our preferred org style. In GA noone has a boss, leaders need to recruit followers per task, employees find / create their own work, decide on what to do themselves.
@@ -24,21 +25,6 @@ For an employee, in the small, there is the task. Those todos, tasks comes out o
 Reviews
 
 Any kind of additional structure employees would rather not do, is shit. The favorites of HR in that sense are development goals that are prepared by the employeee, filed away as soon as it is done, unless extra paper is needed at the shitter. With GA model since company trusts employees to be self-motivated, development goals are unnecessary. Checking is necessary of course, but that kind of review by the employees peers annually is enough, that can happen without much paperwork or "planning" ahead. Peers simply get together, and rate the person involved. 
-
-
-
-
-
-
-
-at
-
-May 25, 2018
-
-
-
-
-
 
 
 

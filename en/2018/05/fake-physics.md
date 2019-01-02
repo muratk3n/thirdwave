@@ -4,9 +4,7 @@
 
 University press offices and grant agencies put out irresponsible hype about the work of one their faculty or grantees. In this case, it’s Taming the multiverse: Stephen Hawking’s final theory about the big bang from Cambridge, and Stephen Hawking’s last paper, co-authored with ERC grantee Thomas Hertog, proposes a new cosmological theory, in which universe is less complex and finite from the European Research Council.
 
-
 This gets distributed via services that either just reprint such press releases (phys.orgor EurekAlert! in this case), or rewrite with added hype (Stephen Hawking’s Final Theory About Our Universe Has Just Been Published, And It Will Melt Your Brain).
-
 
 Journalists then write stories based on these press releases, which appear all over the place (see here, here, here, here, here and here for example). At this point, whatever was in the original press releases that tried to add caveats or stick to reality gets abandoned, and a completely misleading headline gets slapped on at a final level of the hype machine.
 
@@ -16,10 +14,7 @@ This is rather depressing, making one feel that there’s no way to fight this k
 
 ---
 
-
-
 The thing is - mainstream media always used to follow fads like this when they thought the origin of the story was genuine. If they deem a source "trusted" they simply transmit the news coming from it. According to Isaacson's book Einstein, starting from 1931 and for two decades, Einstein kept announcing, theory after another, that he finally solved the unified theory puzzle in physics, when in fact he hadn't (theories fell apart after a few years of scrutiny), see pg 773. MM happily reported all of them, because the source was Einstein. That is nothing new.
-
 
 The reason MM is under the gun lately is that there is a diverse non-mainstream alternative media now that hold them to account.
 

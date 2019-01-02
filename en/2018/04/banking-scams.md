@@ -1,24 +1,8 @@
 # Banking Scams
 
+Danish politician Mads Palsvig
 
-
-
-
-
-
-
-
-
-
-at
-
-April 28, 2018
-
-
-
-
-
-
+https://youtu.be/G0Pr-Uk2yRw
 
 
 
