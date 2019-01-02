@@ -1,4 +1,5 @@
 # GroKo
+
 [GRoKo = Große Koalition (Grand Coalition)] By governing in a national coalition with center-right Christian Democrats for eight of the last 12 years, Social Democrats have often had to compromise against the interests of their traditional working-class base. Tainted — some would say corrupted — by power, they have become both less pure and less effective as a progressive movement in German politics. [..] In the eyes of many voters, the SPD has become just another centrist establishment party. And if that is the case, why not just vote for the real thing, i.e., Merkel’s CDU?
 
 The SPD is now being forced to consider what role, if any, it is going to play in the next German government. The answer it settles on could determine the fate of the party — and the future of Europe’s broader social democratic movement.
@@ -32,18 +33,6 @@ A Social Democratic Policy Agenda Is Possible In A Minority Government
 Of course an uncooperative SPD would make it an easy scapegoat for both Steinmeier as president and Merkel as chancellor. That is why it would be important for the SPD to announce a progressive agenda up front, both domestically and with respect to the European Union. This is where the SPD gets to set the agenda. In many ways, it can do so more easily from outside a coalition than from working inside the ministries. The goal should be to chart the broad direction of policy rather than to invest too much effort and attention on the implementation. This time around — and in contrast to what happened in the last two grand coalition governments — the SPD can take credit for the successes and leave the Christian Democrats to explain the policy failures.
 
 Germany is one of those rare countries with a bit of a budget surplus. The SPD could insist its support in the Bundestag for a Merkel-led minority Cabinet depends on much of that surplus to either go to public investment in infrastructure or targeted tax cuts for the working classes. [..]
-
-
-
-
-
-
-
-
-at
-
-February 05, 2018
-
 
 
 

@@ -1,22 +1,8 @@
 # #secularStagnation
 
+https://youtu.be/_zvmnKVGMKc
 
 
-
-
-Also see this
-
-
-
-
-
-
-
-
-
-at
-
-March 09, 2018
 
 
 

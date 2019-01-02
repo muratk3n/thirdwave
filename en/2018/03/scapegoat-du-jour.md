@@ -1,4 +1,5 @@
 # Scapegoat du Jour
+
 I take a certain mordant pleasure in watching Mark Zuckerberg and his minions scapegoated for the political failures of late-Obama-era liberalism. But the liberal establishment’s fixation on Facebook’s 2016 sins [..] still feels like a classic example of blaming something new because it’s new when it’s the old thing that mattered more. Or of blaming something new because you thought that “new” meant “good,” that the use of social-media data by campaigns would always help tech-savvy liberals and not their troglodytic rivals — and the shock of discovering otherwise obscures the more important role that older forms of media played in making the Trump era a reality.
 
 No doubt all the activity on Facebook and the apparent use of Facebook’s data had some impact, somewhere, on Trump’s surprise victory. But the media format that really made him president, the one whose weaknesses and perversities and polarizing tendencies he brilliantly exploited, wasn’t Zuckerberg’s unreal kingdom; it wasn’t even the Twitter platform where Trump struts and frets and rages daily. It was that old pre-internet standby, broadcast and cable television, and especially TV news.
@@ -38,17 +39,6 @@ Sure, but . . . mightn’t the Cambridge Analytica data have given Donald Tr
 ---
 
 The Time for Change model I used predicted a non-Democrat win. The outcome could have changed if Dems campaigned at Dubya levels, but that was not in the cards. In terms of politicking, it was a tie - no easy feat for a political upstart like Trump, effectively tying the Clinton machinery that way. Her organization was better, his messaging had an advantage. In the absence of political winner, time for change effect was in full-swing - the incumbent party had lost its glitter. Why? Democrats keep wanting to be like Republicans.
-
-
-
-
-
-
-
-at
-
-March 26, 2018
-
 
 
 

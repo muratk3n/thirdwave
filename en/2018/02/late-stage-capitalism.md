@@ -1,17 +1,6 @@
 # Late-Stage Capitalism
 
-
-
-
-
-
-
-
-
-
-at
-
-February 25, 2018
+https://youtu.be/bbmsBBch8nU
 
 
 

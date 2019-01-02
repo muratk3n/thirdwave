@@ -1,18 +1,6 @@
 # #bernie #cnn
 
-
-
-
-
-
-
-
-
-
-at
-
-March 08, 2018
-
+https://youtu.be/j-Ir6zxJwI0
 
 
 

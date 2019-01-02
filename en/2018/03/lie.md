@@ -1,29 +1,3 @@
 # #msnbc
 
-
-
-
-
-
-
-
-
-
-at
-
-March 17, 2018
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://youtu.be/IYSOmD5LyYs

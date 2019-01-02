@@ -1,20 +1,6 @@
 # #skeptics
 
-
-
-
-
-
-
-
-
-
-at
-
-March 30, 2018
-
-
-
+https://youtu.be/Oc8wvAucS9o
 
 
 

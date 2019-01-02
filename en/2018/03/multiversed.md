@@ -12,33 +12,7 @@ Their calculations inspire them to state: “… we conjecture that eternal infl
 
 But.. but..  in scifi people go to a different universe all the time. Evil Spock comes in with a goatee wearing leather pants with a butt cutout. You are telling me this is not possible?
 
-
-
+![](spock.jpg)
 
 The moral of the story is - don't believe everything you read, especially if it is on mainstream media.
 
-
-
-
-
-
-
-at
-
-March 21, 2018
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](Spock_%2528mirror%2529.jpg)

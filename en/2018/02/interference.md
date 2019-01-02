@@ -1,4 +1,5 @@
 # Interference
+
 Yeltsin was deeply unpopular at that time in Russia, polling no more than 8% and widely blamed for the rise of the gangster oligarchs, the collapse of infrastructure and the looting of Russia’s once state-owned natural resources. The Communists were resurgent, taking a lot of new seats in the elections to the Duma in the winter of ’95-6. The Communist presidential candidate, Gennadi Zyuganov, was poised to ride this wave. If left to their own devices, Time says, the Russians could easily have voted a Red back into the Kremlin.
 
 Obviously this could not be permitted to happen.
@@ -9,18 +10,7 @@ What Time means by “reform” is the vastly illegal and ethically barbarous lo
 
 Here is Biden boasting about interfering in Ukraine's legal system.
 
-
-
-
-
-
-
-at
-
-February 20, 2018
-
-
-
+https://www.youtube.com/watch?v=xMoX11Ver_k
 
 
 

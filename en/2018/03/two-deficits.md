@@ -8,31 +8,11 @@ For a time, home ownership offered the middle class and even some of the poor an
 
 Financial liberalization thus compensated for an era of fiscal consolidation and public austerity. Individual debt replaced public debt, and individual demand, constructed for high fees by a rapidly growing money-making industry, took the place of state-governed collective demand in supporting employment and profits in construction and other sectors (Figure 2.4). These dynamics accelerated after 2001, when the Federal Reserve switched to very low interest rates to prevent an economic slump and the return of high unemployment this implied. In addition to unprecedented profits in the financial sector, privatized Keynesianism sustained a booming economy that became the envy not least of European labour movements. In fact, Alan Greenspan’s policy of easy money supporting the rapidly growing indebtedness of American society was held up as a model by European trade-union leaders, who noted with great excitement that, unlike the European Central Bank, the Federal Reserve was bound by law not just to provide monetary stability but also high levels of employment. All of this, of course, ended in 2008 when the international credit pyramid on which the prosperity of the late 1990s and early 2000s had rested suddenly collapsed.
 
-
-
 ---
-
-
 
 Ah but let's not talk about these uncomfortable things.. let's talk about Russia. Russia Russia Russia..!
 
-
-
 There is an electoral "upset" in Italy? It's Russia.. 
-
-
-
-
-
-
-
-
-at
-
-March 07, 2018
-
-
-
 
 
 
