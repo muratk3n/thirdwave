@@ -1,19 +1,6 @@
 # #voterShaming
 
-
-
-
-
-
-
-
-
-
-at
-
-August 18, 2018
-
-
+https://youtu.be/lWurVlHdSWA
 
 
 

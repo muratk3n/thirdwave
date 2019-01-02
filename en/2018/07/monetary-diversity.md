@@ -1,22 +1,10 @@
 # Monetary Diversity
 
-
-
-
+https://youtu.be/T9EI2PrDpmw
 
 And here is your moment of Zen...
 
-
-
-
-
-
-
-at
-
-July 05, 2018
-
-
+https://www.youtube.com/watch?v=Q6nL9elK0EY
 
 
 

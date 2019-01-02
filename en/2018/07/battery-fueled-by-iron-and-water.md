@@ -1,19 +1,6 @@
 # Battery Fueled by Iron and Water
 
-
-
-
-
-
-
-
-
-
-at
-
-July 17, 2018
-
-
+https://youtu.be/HmtI8Wat7rY
 
 
 

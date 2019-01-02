@@ -144,8 +144,6 @@
 
 [Battery Fueled by Iron and Water](07/battery-fueled-by-iron-and-water.md)
 
-[#tooLeft](07/change-what-me.md)
-
 [#koch](07/koch.md)
 
 [#meghan #joy](07/meghan-mccain.md)

@@ -1,18 +1,6 @@
 # #koch
 
-
-
-
-
-
-
-
-
-
-at
-
-July 31, 2018
-
+https://youtu.be/pyC4grL-Uag
 
 
 
