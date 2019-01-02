@@ -1,4 +1,5 @@
 # EaaS - Education as a Service
+
 When I started posting video lessons on YouTube [KhanAcademy], it became clear that many students around the world were using them to learn outside of a formal classroom. What was more surprising was that I soon got letters and comments from teachers. Some were pointing their students to the videos as a supplemental tool. Others, however, were using them to rethink their class­ rooms altogether.
 
 These teachers saw that I had already made available lec­tures that students could watch at their own time and pace. So the teachers decided to stop giving lectures themselves. Instead, they used scarce class time for the type of problem­ solving more normally done as homework. Students could then watch the videos at home. This solved two problems at once.
@@ -12,21 +13,6 @@ They then go home and attempt to do homework, which raises another set of concer
 Some day in the future we will look back at previous modes of schooling and wonder how humanity even survived this barbaric style of teaching.
 
 The learning speed Khan refers to might also be indirectly related to different sytles of learning; according to Drucker there are four: learning by doing, teaching, writing, listening. The "good students" of now are almost always "listener learners". They are able to keep their listening attention for long periods of time. But others learn differently. EaaS like Khanacademy can help other learning styles to thrive. Plus, the old style is already incredibly inefficient even what for what it is engineered to do. We need to move on. Time to rock-n-roll. Look at this guy. How can any teacher compete with that? Do they have to?
-
-
-
-
-
-
-
-at
-
-January 22, 2018
-
-
-
-
-
 
 
 

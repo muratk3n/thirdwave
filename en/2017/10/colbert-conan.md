@@ -1,27 +1,8 @@
 # #colbert #conan
 
+https://youtu.be/rfxCy0wj4uw
 
-
-
-
-
-
-
-
-
-
-
-at
-
-October 04, 2017
-
-
-
-
-
-
-
-
+https://youtu.be/TaxAsHhex10
 
 
 

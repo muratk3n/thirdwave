@@ -1,19 +1,6 @@
 # #tax
 
-
-
-
-
-
-
-
-
-
-at
-
-October 02, 2017
-
-
+https://youtu.be/g23w7WPSaU8
 
 
 

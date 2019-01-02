@@ -6,11 +6,21 @@ Let's look at the  evolutionary landscape: we are transitioning to a supersymbol
 
 My plan was I would get terror attack data, look at US-EU pairing first, for each US attack, calculate the difference in days to the closest EU attack. These collection of numbers are "waiting times" for this supposed tit-for-tat scenario. Then I calculate the same numbers for US-South America, US-China so forth. Now we have bunch of numbers for each pairing representing their distributions. We then check if US-EU numbers are smaller than all the rest of the regional waiting times, and if that smallness is statistically significant. [geek] The statistical test to use for this is two sample Wilcoxon test, as the waiting time data is distributed non-normally -exponentially- [/geek].
 
-First I wanted to use GDELT data in this analysis, Google provides access to it, but  it turns out GDELT has a lot of repeats, i.e. for Charleston attack people mourning about it, commenting etc. would appear  as data points with an incorrect status code indicating an actual attack. The GDELT option would need a lot of dedup code. So I looked for other data sources, and found GTD available in Excel format covering attacks between 1970-2014. I converted it into CSV and zipped it, code and data below:
+First I wanted to use GDELT data in this analysis, Google provides
+access to it, but  it turns out GDELT has a lot of repeats, i.e. for
+Charleston attack people mourning about it, commenting etc. would
+appear as data points with an incorrect status code indicating an
+actual attack. The GDELT option would need a lot of dedup code. So I
+looked for other data sources, and found
+[GTD](http://www.start.umd.edu/gtd/) available in Excel format
+covering attacks between 1970-2014. I converted it into CSV and zipped
+it, code and data below:
 
-Data, Notebook
+Data, [Notebook](gtd_us.md)
 
-[geek]Me not like binary formats like Excel, oddly it turns out zipped up CSV is smaller than xlsx, and processed by Python Pandas at the same speed [/geek].
+[geek]Me not like binary formats like Excel, oddly it turns out zipped
+up CSV is smaller than xlsx, and processed by Python Pandas at the
+same speed [/geek].
 
 The analysis showed, at first, looking at all data, US-EU attack delays are smaller than all the rest, and the difference was significant.
 

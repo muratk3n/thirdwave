@@ -1,32 +1,9 @@
 # #debt
 
-
-
+![](45-48.png)
 
 Also related (by M. Blyth)
 
+Also related (by M. Blyth)
 
-
-
-
-
-
-at
-
-October 05, 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](Screenshot%2Bfrom%2B2017-10-05%2B08-45-48.png)
+https://soundcloud.com/watsoninstitute/quick-off-the-mark#t=3:20

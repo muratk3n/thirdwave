@@ -1,4 +1,5 @@
 # Palestine
+
 [T]he Ottomans, who had allied with Germany, were defeated in World War I. To the victors went the spoils, which included the extensive Ottoman province known as Syria. A secret wartime deal between the British and the French, the Sykes-Picot agreement, had divided this territory between the two allies on a line running roughly from Mount Hermon due west to the sea. The area to the north was to be placed under French control; the area to the south was to be placed under the control of the British. Further divisions gave rise not only to the modern country of Syria but to Lebanon, Jordan, and Israel as well.
 
 The French had sought to be an influence in this region since the days of Napoleon. [..] As a state, then, Lebanon had no prior reality. Its main unifying feature was that its people felt an affinity with France. The British area to the south was divided along similarly arbitrary lines. During World War I, the Muslim clan that ruled the western Hejaz region of the Arabian Peninsula, the Hashemites [today's Jordanians], had supported the British. In return, the British promised to install this group as rulers of Arabia after the war. But London made commitments to other tribes as well. Based in Kuwait, a rival clan, the Saud, had launched a war against the Turks in 1900, trying to take control of the eastern and central parts of the Arabian Peninsula. In a struggle that broke out shortly after World War I, the Sauds defeated the Hashemites, so the British gave Arabia to them—hence today’s Saudi Arabia.
@@ -39,33 +40,13 @@ It should be obvious from this summary that the moral argument that rages about 
 
 Apart from dealing with this incredibly convoluted history, which weighs on any moral judgment, U.S. policy in this region must accommodate two other basic facts. First, whatever the Israelis’ historical claim, from a twentieth-century perspective, the Jews were settlers from another continent who displaced the natives.
 
-
-
 ---
 
-
-
 Also see Myth #3. 
-
-
 
 No wonder this issue still unresolved. Palestine is, nationally speaking, a superfluous entity, most neighbors are hostile or indifferent to them. But people's right to live there is no less real than Israel's. Then, and considering the power dynamics, I still maintain one-state solution is the way to go for Palestinians. "But they will be second-class citizens in Israel". Fine. Women, all sorts of minorities were once second-class citizens in many places, that situation can improve later. The key is for Palestinians to integrate to a well-to-do society, instead of being harassed at checkpoints. That is worse than being legally second-class.
 
 If Jews are too worried about losing their Jewishess, well, then keep election of non-Jews at local level. Mandate that all top dogs have to be Jew. It is already a religious / theological state no? Why not? During Pakistani president's swearing-in ceremony he has to put his hand on the good book and say "I am Moslem". It will be similar. 
-
-
-
-
-
-
-
-
-at
-
-December 27, 2017
-
-
-
 
 
 
