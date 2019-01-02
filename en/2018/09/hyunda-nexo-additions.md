@@ -1,9 +1,6 @@
 # Hyundai Nexo
 
 
-
-
-
 Hyundai jumped onto HFC bandwagon, with its Nexo. The car also has Level 4 autonomous driving capability, and 600 km range on a full tank.
 
 A promo vid.
@@ -23,21 +20,6 @@ Toyota bet big on HFC. They released all their related patents for everyone 
 Some additional info on the economics, logistics and the tech.
 
 How does PEM work? An educational kit teaching PEM  HFC, also a toy car. The nice part of the design is it can be used both for fuel (hydrogen) generation, and burning (using) of the fuel once it is generated.
-
-
-
-
-
-
-
-
-
-
-at
-
-September 30, 2018
-
-
 
 
 

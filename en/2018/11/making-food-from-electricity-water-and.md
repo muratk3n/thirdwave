@@ -1,4 +1,5 @@
 # Making Food from Electricity, Water and Air - Solarfoods
+
 A Finnish company called Solar Foods plans next month to start making a kilo of food a day from nothing but electricity, water and air [with plans to scale].
 
 The company will electrolyze water to produce hydrogen that is used, along with carbon dioxide and small amounts of trace elements, to feed microbes.
@@ -13,22 +14,9 @@ A full-scale plant would resemble a brewery, he said. Unlike a brewery, though, 
 
 “This is a fundamental difference compared to any of the foods on the market, or technologies or ways to produce food,” said Vainikka. “This way, we can disconnect from land use completely.”
 
-
 ---
 
 They are also "teaming up with the European Space Agency to create a bioreactor that can make food on Mars".
-
-
-
-
-
-
-
-
-at
-
-November 21, 2018
-
 
 
 

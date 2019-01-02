@@ -1,4 +1,5 @@
 # Public Education
+
 Here is a way to both keep PE and have it work better. The new aproach is based on the following tenets.
 
 1) Course content is created by reputable professors, called originators, who are selected by the Department of Education (DOE). The lectures are delivered to students through tablets owned by the school.

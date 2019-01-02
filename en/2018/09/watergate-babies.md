@@ -1,4 +1,5 @@
 # Watergate Babies
+
 It was January 1975, and the Watergate Babies had arrived in Washington looking for blood. The Watergate Babies—as the recently elected Democratic congressmen were known—were young, idealistic liberals who had been swept into office on a promise to clean up government, end the war in Vietnam, and rid the nation’s capital of the kind of corruption and dirty politics the Nixon White House had wrought. Richard Nixon himself had resigned just a few months earlier in August. But the Watergate Babies didn’t just campaign against Nixon; they took on the Democratic establishment, too. Newly elected Representative George Miller of California, then just 29 years old, announced, “We came here to take the Bastille.”
 
 One of their first targets was an old man from Texarkana: a former cotton tenant farmer named Wright Patman who had served in Congress since 1929. He was also the chairman of the U.S. House Committee on Banking and Currency and had been for more than a decade. Antiwar liberal reformers realized that the key to power in Congress was through the committee system; being the chairman of a powerful committee meant having control over the flow of legislation. The problem was: Chairmen were selected based on their length of service. So liberal reformers already in office, buttressed by the Watergate Babies’ votes, demanded that the committee chairmen be picked by a full Democratic-caucus vote instead.
@@ -18,20 +19,6 @@ Indeed, a revolution had occurred. But the contours of that revolution would not
 Over the next 40 years, this Democratic generation fundamentally altered American politics. They restructured “campaign finance, party nominations, government transparency, and congressional organization.” They took on domestic violence, homophobia, discrimination against the disabled, and sexual harassment. They jettisoned many racially and culturally authoritarian traditions. They produced Bill Clinton’s presidency directly, and in many ways, they shaped President Barack Obama’s.          
 
 The result today is a paradox. At the same time that the nation has achieved perhaps the most tolerant culture in U.S. history, the destruction of the anti-monopoly and anti-bank tradition in the Democratic Party has also cleared the way for the greatest concentration of economic power in a century. This is not what the Watergate Babies intended when they dethroned Patman as chairman of the Banking Committee. But it helped lead them down that path. The story of Patman’s ousting is part of the larger story of how the Democratic Party helped to create today’s shockingly disillusioned and sullen public, a large chunk of whom is now marching for Donald Trump.
-
-
-
-
-
-
-
-
-at
-
-September 06, 2018
-
-
-
 
 
 

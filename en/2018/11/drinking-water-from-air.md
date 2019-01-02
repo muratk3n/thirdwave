@@ -1,4 +1,5 @@
 # Drinking Water from Air
+
 Imagine you could quench your thirst with water that doesn't originate from a river, spring or lake but comes directly out of the blue sky, from the air that surrounds you. What sounds like a science fiction movie is already a reality, and it is potentially for everyone.
 
 The new technology, developed by Watergen, an Israel-based tech company, is currently being showcased in Vietnam’s capital city Hanoi.
@@ -13,26 +14,9 @@ Watergen wants to take its technology even further: "Our scientists already deve
 
 The running vehicle will generate the power for the atmospheric water generator, to provide drinking water on the go anywhere at any time. Mirilashvili also points out that the use of atmospheric water generators could drastically reduce plastic waste.
 
-
-
 --
 
-
-
 EPA was interested in the tech. 
-
-
-
-
-
-
-
-
-at
-
-November 09, 2018
-
-
 
 
 

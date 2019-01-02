@@ -1,4 +1,5 @@
 # Going Bi
+
 This is how you get triangulation in politics, black-white president, healthcare that is both right and left, and delusional science who keeps talking about cats who are dead and alive, two major parties agreeing on all major things.
 
 What people do not realize is this has a cost. There is a natural order of things, inclusivity of all, in concepts, in ideas will lead to major outburst elsewhere.
@@ -43,22 +44,9 @@ A: Not likely. Among the things Reps are toting for fears of being displaced, is
 
 "[W]hen general social conditions make for standardized, homogeneous, centrally sustained high cultures, pervading entire populations [..] a situation arises in which well-defined educationally sanctioned and unified cultures constitute very nearly the only kind of unit with which men willingly and often ardently identify. The cultures now seem to be the natural repositories of political legitimacy [during modern times]. Only then does it come to appear that any defiance of their boundaries by political units constitutes scandal"
 
-
 So if multiple cultures are fighting, that will end a nation.
 
 All of that, entirely the fault of the centrist fucking Democrats.
-
-
-
-
-
-
-
-at
-
-November 24, 2018
-
-
 
 
 

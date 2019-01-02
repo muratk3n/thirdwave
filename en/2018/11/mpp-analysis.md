@@ -1,4 +1,5 @@
 # MPP Analysis
+
 [T]he blue wave [as meek as it is] is a corporate wave that has swept in the same kind of Democratic politicians that drove working people into Donald Trump’s arms after eight years of Obama. When Democrats busy themselves serving the wealthy again, the result will be an even sharper lurch to the authoritarian right. Progressives cannot do the same thing year after year, charging headlong into the Democratic Party, and expect different results. Breaking the cycle means changing your approach.
 
 With 80 percent of Americans living paycheck to paycheck, health care costs rising, and student debt piling up, Americans live more precarious lives than they have in generations. Confidence in government and institutions is at historic lows.
@@ -12,17 +13,6 @@ Change happens quickly when conditions reach a certain urgency. Just this year L
 ---
 
 Tactically speaking at the very least you are looking to shake the environment, like here and here . The good news is these frakkers are all after the same vote, and they will succeed in dividing it perfectly. That gives an advantage to the 3rd party to do some serious damage, and be pandered to, in the future, ideologically, causing a change in the mainstream.
-
-
-
-
-
-
-
-
-at
-
-November 10, 2018
 
 
 
