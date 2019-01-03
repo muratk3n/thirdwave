@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+3/1 - [Capitalism Eating Itself](/2019/01/capitalism.md)
+
 27/12 - [Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
 
 26/12 - [Green Train](/2018/12/train.md)
