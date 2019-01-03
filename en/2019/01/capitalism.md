@@ -53,5 +53,12 @@ supported it.
 
 ----
 
-Yes we need balance. Capitalism is not a [religion](https://m.youtube.com/watch?v=mSuQ-AyiicA).
+Yes we need balance. Capitalism is not a
+[religion](https://m.youtube.com/watch?v=mSuQ-AyiicA), it's a tool.
 
+Simplest example: family takes care of education, basic health of its
+members. Your mother teaches you how to walk, to talk, how to take a
+shit. Huge amount amount of unpaid "social" work in other words, that
+supplies a worker to the economy. If capitalism harms this process by
+creating too much stress in society, it harms the very process that
+gives it workers. Destroy healthcare, you have no healthy buyers. Etc.
