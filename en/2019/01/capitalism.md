@@ -54,7 +54,7 @@ supported it.
 ----
 
 Yes we need balance. Capitalism is not a
-[religion](https://m.youtube.com/watch?v=mSuQ-AyiicA?t=4h18m), it's a
+[religion](https://m.youtube.com/watch?v=mSuQ-AyiicA?t=4m18s), it's a
 tool.
 
 Simplest example: family takes care of education, basic health of its
