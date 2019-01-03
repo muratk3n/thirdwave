@@ -8,7 +8,7 @@ historical wall. As far as inequality is concerned, people may get
 used to it, especially with the help of public entertainment and
 political repression. Furthermore, examples abound of governments
 being re-elected that cut social spending and privatize public
-services [..]. Concerning environmental deteriora-tion, it proceeds
+services [..]. Concerning environmental deterioration, it proceeds
 only slowly compared to the human lifespan, so one can deny it while
 learning to live with it. Technological advances with which to buy
 time, such as fracking, can never be ruled out, and, if there are
@@ -54,7 +54,8 @@ supported it.
 ----
 
 Yes we need balance. Capitalism is not a
-[religion](https://m.youtube.com/watch?v=mSuQ-AyiicA), it's a tool.
+[religion](https://m.youtube.com/watch?v=mSuQ-AyiicA?t=4h18m), it's a
+tool.
 
 Simplest example: family takes care of education, basic health of its
 members. Your mother teaches you how to walk, to talk, how to take a
