@@ -1,6 +1,6 @@
 # Capitalism Eating Itself
 
-Wolfgang Streck, *How Will Capitalism End*
+Wolfgang Streeck, *How Will Capitalism End*
 
 At first glance, there is indeed much that speaks against pronouncing
 capitalism dead, regardless of all the ominous writing on the
