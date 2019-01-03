@@ -8,20 +8,19 @@ historical wall. As far as inequality is concerned, people may get
 used to it, especially with the help of public entertainment and
 political repression. Furthermore, examples abound of governments
 being re-elected that cut social spending and privatize public
-services, in pursuit of sound money for the owners of
-money. Concerning environmental deteriora- tion, it proceeds only
-slowly compared to the human lifespan, so one can deny it while
+services [..]. Concerning environmental deteriora-tion, it proceeds
+only slowly compared to the human lifespan, so one can deny it while
 learning to live with it. Technological advances with which to buy
-time, such as fracking, can never be ruled out, ,and, if there are
+time, such as fracking, can never be ruled out, and, if there are
 limits to the pacifying powers of consumerism, we clearly are nowhere
-near them.  Moreover, adapting to more time-consuming' and·
+near them. Moreover, adapting to more time-consuming and
 life-consuming, work regimes can be taken as a competitive-challenge,
 an opportunity for personal achievement. Cultural definitions of the
 good life have always been highly malleable and might well be
 stretched further to match the onward march of commodification at
 least as long as radical or religious challenges to pro-capitalist
 re-education can be suppressed, ridiculed or otherwise marginalized.
-Finally, most of today's stagnati9n theories apply only to the West,
+Finally, most of today's stagnation theories apply only to the West,
 or just to the U.S., not to China, Russia,.India or Brazil - countries
 to which the frontier of economic growth may be about to migrate, with
 vast virgin,lands waiting to be made available for capitalist
