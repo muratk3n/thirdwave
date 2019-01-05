@@ -36,12 +36,10 @@ greatly from the rise of counter-movements against the rule of profit
 and of the market. Socialism and trade unionism, by putting a brake on
 commodification; prevented capitalism from destroying its
 non-capitalist foundations - trust, good faith, altruism, solidarity
-within families and communities, and the like. Under Keynesianism and
-Fordism, capitalism's more or less loyal opposition secured and helped
-stabilize aggregate demand, especially in recessions. Where
-circumstances were favourable, working-class organization even served
-as a 'productivity whip' by forcing capital to embark on more advanced
-production concepts.
+within families and communities, and [..] where circumstances were
+favourable, working-class organization even served as a 'productivity
+whip' by forcing capital to embark on more advanced production
+concepts.
 
 It is in this sense that Geoffrey Hodgson has argued that capitalism
 can survive only as long as it is not completely capitalist - as it
