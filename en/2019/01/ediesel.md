@@ -15,7 +15,7 @@ then refined to generate e-diesel. E-diesel is considered to be a
 carbon-neutral fuel as it does not extract new carbon and the energy
 sources to drive the process are from carbon-neutral sources"
 
-https://m.dw.com/en/can-clean-synthetic-diesel-fuels-succeed/a-40135876
+[https://m.dw.com/en/can-clean-synthetic-diesel-fuels-succeed/a-40135876](https://m.dw.com/en/can-clean-synthetic-diesel-fuels-succeed/a-40135876)
 
 There is some activity around Sunfire. They pulled in new money for
 investment, it was in the
@@ -23,9 +23,9 @@ investment, it was in the
 
 Investing in (the right) clean tech can be quite profitable. 
 
-https://mobile.twitter.com/h2investors/status/1080628748142239744
+[https://mobile.twitter.com/h2investors/status/1080628748142239744](https://mobile.twitter.com/h2investors/status/1080628748142239744)
 
-A portfolio of the tickers I could pull,
-BLDP,ITM,PLUG,HYG,FCEL,SAND,HYSR would have made a 30% return for the
-year 2018.
+A portfolio of the tickers I could pull based on the list above,
+BLDP,ITM,PLUG,HYG,FCEL,SAND,HYSR would have generated a 30% return for
+the year 2018.
 
