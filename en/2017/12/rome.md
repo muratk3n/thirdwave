@@ -8,7 +8,7 @@
 
 [Poor Egypt](../../2015/04/poor-egypt.md)
 
-
+[Ghazi Warfare](../../2018/01/ghazi-warfare.md)
 
 
 
