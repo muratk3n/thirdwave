@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+7/1 - [E-Diesel](/2019/01/ediesel.md)
+
 3/1 - [Capitalism Eating Itself](/2019/01/capitalism.md)
 
 27/12 - [Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
@@ -24,8 +26,6 @@ despite the best efforts of people working in them.
 16/12 - [BDS](/2018/12/bds.md)
 
 16/12 - [Q&A - 16/12](/2018/12/qa-1.md)
-
-15/12 - [Da Collapse, Macro Investing, McCollough](/2018/12/macro-mccollough.md)
 
 ## Reference
 
