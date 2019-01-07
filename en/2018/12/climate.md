@@ -4,7 +4,7 @@ What Can I Do?
 
 [Power by Solid H2](../../2018/11/powered-by-solid-h2_26.md)
 
-[The surprising resurgence of hydrogen fuel](../../2018/11/pthe-surprising-resurgence-of-hydrogen.md)
+[The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.md)
 
 [ZH2](../../2018/10/zh2.md)
 

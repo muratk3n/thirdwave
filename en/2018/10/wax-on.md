@@ -1,14 +1,22 @@
 # Wax On
 
-[R]esearch reported in the nature journal Scientific Reports has discovered that the storage of hydrogen in, and rapid evolution from, paraffin wax could be the solution.
+[Link](https://www.gasworld.com/wax-waged-as-hydrogen-storage-solution/2011584.article)
 
-The research team, cited as Gonzalez-Cortes, S. et al., has developed highly selective catalysts with the assistance of microwave irradiation, which can extract hydrogen from hydrocarbons instantly through a non-oxidative dehydrogenation process.
+[R]esearch reported in the nature journal Scientific Reports has
+discovered that the storage of hydrogen in, and rapid evolution from,
+paraffin wax could be the solution.
 
-The wax material is safe, efficient and could facilitate its application in a HFCV. Most Importantly, hydrogen storage materials made of wax can be manufactured through completely sustainable processes utilising biomass or other renewable feedstocks.
+The research team, cited as Gonzalez-Cortes, S. et al., has developed
+highly selective catalysts with the assistance of microwave
+irradiation, which can extract hydrogen from hydrocarbons instantly
+through a non-oxidative dehydrogenation process.
 
-Link
+The wax material is safe, efficient and could facilitate its
+application in a HFCV. Most Importantly, hydrogen storage materials
+made of wax can be manufactured through completely sustainable
+processes utilising biomass or other renewable feedstocks.
 
-http://www.greencarcongress.com/2016/10/20161020-wax.html
+[Link](http://www.greencarcongress.com/2016/10/20161020-wax.html)
 
 Researchers at the universities of Oxford, Cambridge and Cardiff in
 the UK, and the [..] Saudi Arabia have shown that benign,
@@ -21,10 +29,10 @@ This discovery, reported in an open-access paper in Scientific Reports, offers a
 
 --
 
-Also see Reuters. The material mentioned there, alane, is aluminum hydride (AlH3) providing another storage method. Interesting new developments in this space.
-
-
-
+Also see
+[Reuters](https://www.reuters.com/article/us-usa-military-industry/trump-says-pentagon-to-produce-lithium-sea-water-batteries-idUSKCN1MG01V). The
+material mentioned there, alane, is aluminum hydride (AlH3) providing
+another storage method. Interesting new developments in this space.
 
 
 
