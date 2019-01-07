@@ -25,7 +25,7 @@ Investing in (the right) clean tech can be quite profitable.
 
 [Link](https://www.twitter.com/h2investors/status/1080628748142239744)
 
-A portfolio of the tickers I could pull based on the list above, `BLDP`,
-`ITM`, `PLUG`, `HYG`, `FCEL`, `SAND`, `HYSR` would have generated a
->30% return for the year 2018.
+A portfolio of the tickers I could pull based on the list above,
+`BLDP`, `ITM`, `PLUG`, `HYG`, `FCEL`, `SAND`, `HYSR` would have
+generated over 30% return for the year 2018.
 
