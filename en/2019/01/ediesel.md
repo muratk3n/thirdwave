@@ -1,7 +1,7 @@
 # E-Diesel
 
-They also call it *blue crude*. A company called Sunfire can generate
-a synthetic crude using renewable sources that can be used in existing
+They also call it *blue crude*. A company named Sunfire can generate a
+synthetic crude using renewable sources which can be used in existing
 diesel engines.
 
 [Wikipedia](https://en.m.wikipedia.org/wiki/E-diesel): "E-diesel is the
@@ -17,7 +17,7 @@ sources to drive the process are from carbon-neutral sources"
 
 [Link](https://m.dw.com/en/can-clean-synthetic-diesel-fuels-succeed/a-40135876)
 
-There is some activity around Sunfire. They pulled in new money for
+There is some buzz around Sunfire. They pulled in new money for
 investment, it was in the
 [news](https://fuelcellsworks.com/news/paul-wurth-becomes-new-lead-investor-in-sunfire-with-25m-for-green-hydrogen).
 
@@ -25,7 +25,7 @@ Investing in (the right) clean tech can be quite profitable.
 
 [Link](https://www.twitter.com/h2investors/status/1080628748142239744)
 
-A portfolio of the tickers I could pull based on the list above,
-`BLDP`, `ITM`, `PLUG`, `HYG`, `FCEL`, `SAND`, `HYSR` would have
+A portfolio consisting of tickers I could pull based on the list
+above, `BLDP`, `ITM`, `PLUG`, `HYG`, `FCEL`, `SAND`, `HYSR` would have
 generated over 30% return for the year 2018.
 
