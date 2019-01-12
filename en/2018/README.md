@@ -1,12 +1,3 @@
-[](12/quads.md)
-
-[Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
-
-[Q&A - 16/12](12/qa-1.md)
-
-[BDS](12/bds.md)
-
-[Lincoln Was Bi](12/linc-bi.md)
 
 [Bernie Sanders' Medicare for All Town Hall](01/bernie-sanders-medicare-for-all-town.md)
 
