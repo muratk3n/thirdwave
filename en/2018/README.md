@@ -242,3 +242,17 @@
 
 [The surprising resurgence of hydrogen fuel](11/the-surprising-resurgence-of-hydrogen.md)
 
+[BDS](12/bds.md)
+
+[Friedman on US, Europe, The World](12/friedman-europe.md)
+
+[Lincoln Was Bi](12/linc-bi.md)
+
+[Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
+
+[Q&A - 16/12](12/qa-1.md)
+
+[Slack](12/slack.md)
+
+[Green Train](12/train.md)
+

@@ -111,7 +111,6 @@ df['cpidiff'] = df.cpi.diff()
 df = df.dropna()
 ```
 
-
 x-axis 2Y average of yoy real gdp growth rate
 y-axis marginal rate of change of the yoy real gdp
 
