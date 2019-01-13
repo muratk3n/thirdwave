@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+12/1 - [X3 Ion Thruster](/2019/01/x3.md)
+
 7/1 - [E-Diesel](/2019/01/ediesel.md)
 
 3/1 - [Capitalism Eating Itself](/2019/01/capitalism.md)
