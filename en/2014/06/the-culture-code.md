@@ -85,7 +85,5 @@ Related
 
 [What is Legitimacy?](../../2013/09/what-is-legitimacy.md)
 
-
-
-
+[Stuff White People Like](https://stuffwhitepeoplelike.com)
 

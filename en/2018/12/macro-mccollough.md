@@ -19,7 +19,8 @@ Quad1 is good, and Quad2 is really good. In both growth is going
 up. In Quad2 growth and inf going up at the same time. Everyone wins
 except golds, bonds, and dollar.
 
-In Quad4 growth and inflation go down at the same time. In Quad4 you want to be
+In Quad4 growth and inflation go down at the same time. In Quad4 you
+want to be
 
 long dollar
 
