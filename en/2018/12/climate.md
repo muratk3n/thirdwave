@@ -16,7 +16,7 @@ What Can I Do?
 
 [Ammonia](../../2018/10/ammonia.md)
 
-[Fracked Up (and Ammonia)](10/fracked-up.md)
+[Fracked Up (and Ammonia)](../../2018/10/fracked-up.md)
 
 [Hydrogen Cars](../../2018/09/hydrogen-cars.md)
 
