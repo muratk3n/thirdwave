@@ -1,6 +1,6 @@
 # Battery Fueled by Iron and Water
 
-https://youtu.be/HmtI8Wat7rY
+[![](http://img.youtube.com/vi/HmtI8Wat7rY/0.jpg)](http://www.youtube.com/watch?v=HmtI8Wat7rY)
 
 
 
