@@ -133,7 +133,7 @@
 
 [#######################################################################3](06/werner.md)
 
-[Battery Fueled by Iron and Water](07/battery-fueled-by-iron-and-water.md)
+[Battery Fueled by Iron and Water, Flow Batteries](07/battery-fueled-by-iron-and-water.md)
 
 [#koch](07/koch.md)
 
