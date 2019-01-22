@@ -28,6 +28,8 @@ What Can I Do?
 
 [Battery Fueled by Iron and Water, Flow Batteries](../../2018/07/battery-fueled-by-iron-and-water.md)
 
+[Carbon Capture, Fuel Generation](../../2019/01/carboncapture.md)
+
 Is It Real?
 
 [Q&A - 22/8](../../2015/08/q-218.md)
