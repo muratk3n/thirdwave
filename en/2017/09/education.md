@@ -10,7 +10,7 @@
 
 [Average Teachers](../../2011/02/average-teachers.md)
 
-[Fire All Teachers](fire-all-teachers.md)
+[Fire All Teachers](../../2011/02/fire-all-teachers.md)
 
 
 
