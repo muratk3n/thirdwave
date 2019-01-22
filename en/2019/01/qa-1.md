@@ -46,7 +46,7 @@ MP: Your comment was extremely patronizing..
 A: Ha ha
 
 Interviewer was right. Brit politicians dropped the ball by asking ppl
-something that is extremely technical and is their **fucking job to
+something that is extremely technical and their **fucking job to
 decide**. As if populists, they asked for a solution when ppl are
 imbeciles on policies they don't experience firsthand.
 
@@ -102,7 +102,4 @@ lot
 
 ![](davos.jpeg)
 
-A: Ha ha
-
-
-
+A: Ouch
