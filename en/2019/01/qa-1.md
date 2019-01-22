@@ -26,6 +26,14 @@ the derractors sensed this, and campaigned in a do-or-die mode bcz it
 was abt their survival which ironically increased their effectiveness,
 they sold their message (read: lied) better. Now here we are.
 
+Q: Where is the line between representation and direct democracy?
+
+A: In a modern context they should be kept seperate
+
+Industrial and post-industrial contexts are like oil and water. They
+cannot mix. You can't have a little bit of this a little bit of that.
+If you do, you end up with Brexit. 
+
 [Comment](https://mobile.twitter.com/garrygolden/status/1084927765806284802:)
 
 Example below of plug-in EVs falling short. System mgmt and
