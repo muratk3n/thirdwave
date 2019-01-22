@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+12/22 - [](/2019/01/qa-1.md)
+
 12/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
 
 12/1 - [X3 Ion Thruster](/2019/01/x3.md)
