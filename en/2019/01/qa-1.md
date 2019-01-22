@@ -23,17 +23,17 @@ Satoshi Nakamoto?
 A: Most likely Hal Finney. He was the #2 Bitcoin user, its first
 tester. He sadly passed away.
 
-Hal was hard-core crypto guy himself. And: dude named Satoshi N. lived
-nearby him. So he could be the real Satoshi. Writing analysis showed
-Finney's writing most closely resembled Satoshi's.
+Writing analysis showed Finney's writing most closely resembled
+Satoshi's.
 
 One thing he said shortly before his death had always bothered me.. 'I
 have no worries my legacy is secure'. Ask any profiler: this is not
 something the #2 guy would say before his death.
 
-The Nakamoto living close to HF was burned during mortgage crisis. So
-I bet HF saw his predicament, and planned BTC as a way to correct the
-sys which burned his neighbor and many others.
+Hal was hard-core crypto guy himself. And: dude named Satoshi N. lived
+nearby him. The Nakamoto living close to HF was burned during mortgage
+crisis. So I bet HF saw his predicament, and planned BTC as a way to
+correct the sys which burned his neighbor and many others.
 
 CNN Conversation:
 
