@@ -1,5 +1,7 @@
 # Carbon Capture, Fuel Generation
 
+[Link](https://newatlas.com/hybrid-co2-capture-hydrogen-system/58145/)
+
 If we're going to reach the goal of keeping Earth from warming more
 than 1.5° C (2.7° F) this century, it's not enough to just reduce our
 carbon dioxide emissions – we need to actively clean it out of the
