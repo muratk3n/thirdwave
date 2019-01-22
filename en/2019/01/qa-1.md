@@ -1,39 +1,5 @@
 # QA - 22/1
 
-CNN Conversation:
-
-MP: People voted to get out of EU
-
-CNN interviewer: they did not know what they were voting for
-
-MP: Your comment was extremely patronizing..
-
-A: Ha ha
-
-Interviewer was right. Brit politicians dropped the ball by asking ppl
-something that is extremely technical and is their **fucking job to
-decide**. As if populists, they asked for a solution when ppl are
-imbeciles on policies they don't experience firsthand.
-
-"Oh but asking ppl was democratic". Well that decision was made by
-politicians, who are elected by the people, so if they *didn't* ask,
-that decision would still be democratic. 
-
-And let's be honest here, Cameron got into all this not bcz he wanted
-to 'ask the people', but because he wanted to crush his detractors
-inside the party. The vote was supposed to be a layup, remember?. But
-the derractors sensed this, and campaigned in a do-or-die mode bcz it
-was abt their survival which ironically increased their effectiveness,
-they sold their message (read: lied) better. Now here we are.
-
-Q: Where is the line between representation and direct democracy?
-
-A: In a modern context they should be kept seperate
-
-Industrial and post-industrial contexts are like oil and water. They
-cannot mix. You can't have a little bit of this a little bit of that.
-If you do, you end up with Brexit. 
-
 [Comment](https://mobile.twitter.com/garrygolden/status/1084927765806284802:)
 
 Example below of plug-in EVs falling short. System mgmt and
@@ -68,6 +34,41 @@ something the #2 guy would say before his death.
 The Nakamoto living close to HF was burned during mortgage crisis. So
 I bet HF saw his predicament, and planned BTC as a way to correct the
 sys which burned his neighbor and many others.
+
+CNN Conversation:
+
+MP: People voted to get out of EU
+
+CNN interviewer: they did not know what they were voting for
+
+MP: Your comment was extremely patronizing..
+
+A: Ha ha
+
+Interviewer was right. Brit politicians dropped the ball by asking ppl
+something that is extremely technical and is their **fucking job to
+decide**. As if populists, they asked for a solution when ppl are
+imbeciles on policies they don't experience firsthand.
+
+"Oh but asking ppl was democratic". Well that decision was made by
+politicians, who are elected by the people, so if they *didn't* ask,
+that decision would still be democratic. 
+
+And let's be honest here, Cameron got into all this not bcz he wanted
+to 'ask the people', but because he wanted to crush his detractors
+inside the party. The vote was supposed to be a layup, remember?. But
+the derractors sensed this, and campaigned in a do-or-die mode bcz it
+was abt their survival which ironically increased their effectiveness,
+they sold their message (read: lied) better. Now here we are.
+
+Q: Where is the line between representation and direct democracy?
+
+A: In a modern context they should be kept seperate
+
+Industrial and post-industrial contexts are like oil and water. They
+cannot mix. You can't have a little bit of this a little bit of that.
+If you do, you end up with Brexit. 
+
 
 Q: What are the energy densities of different energy storage methods?
 
