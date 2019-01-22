@@ -11,7 +11,7 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-12/22 - [](/2019/01/qa-1.md)
+12/22 - [QA - 22/1](/2019/01/qa-1.md)
 
 12/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
 
