@@ -95,7 +95,7 @@ In 2011 there were 115 billionaires in China. Since then, 72 have
 died, with 15 murders, 17 suicides, 7 accidental deaths, and 19 from
 illness. Another 14 were executed.
 
-A: Sucks to be a Chinese billionaire?
+A: Sucks to be a Chinese billionaire heh?
 
 Q: Companies that regularly attend Davos underperform the S&P 500 by a
 lot
