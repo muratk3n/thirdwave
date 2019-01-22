@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+12/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
+
 12/1 - [X3 Ion Thruster](/2019/01/x3.md)
 
 7/1 - [E-Diesel](/2019/01/ediesel.md)
@@ -24,10 +26,6 @@ despite the best efforts of people working in them.
 21/12 - [Slack](/2018/12/slack.md)
 
 18/12 - [Lincoln Was Bi](/2018/12/linc-bi.md)
-
-16/12 - [BDS](/2018/12/bds.md)
-
-16/12 - [Q&A - 16/12](/2018/12/qa-1.md)
 
 ## Reference
 
