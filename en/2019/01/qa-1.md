@@ -57,7 +57,7 @@ that decision would still be democratic.
 And let's be honest here, Cameron got into all this not bcz he wanted
 to 'ask the people', but because he wanted to crush his detractors
 inside the party. The vote was supposed to be a layup, remember?. But
-the derractors sensed this, and campaigned in a do-or-die mode bcz it
+the detractors sensed this, and campaigned in a do-or-die mode bcz it
 was abt their survival which ironically increased their effectiveness,
 they sold their message (read: lied) better. Now here we are.
 
