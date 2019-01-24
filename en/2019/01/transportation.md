@@ -28,7 +28,7 @@ Countries with lots of sunshine, Australia, Saudi Arabia, can now
 generate and export ammonia.
 
 Countries like Russia can generate hydrogen and pipe it through the
-same network used for natural gas. Britain has experiments underway to
+same network used for natural gas. Britain has experiments [underway](https://www.northerngasnetworks.co.uk/2018/11/29/hydrogen-to-heat-homes-14-9m-for-uks-first-trials-on-public-gas-network/) to
 use H2 as heating at homes.
 
 So we dont frickin die in a few decades, air and water is clean, no
