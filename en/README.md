@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+25/1 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
+
 12/22 - [QA - 22/1](/2019/01/qa-1.md)
 
 12/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
@@ -24,10 +26,6 @@ despite the best efforts of people working in them.
 27/12 - [Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
 
 26/12 - [Green Train](/2018/12/train.md)
-
-21/12 - [Slack](/2018/12/slack.md)
-
-18/12 - [Lincoln Was Bi](/2018/12/linc-bi.md)
 
 ## Reference
 
