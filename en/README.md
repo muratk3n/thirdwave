@@ -11,11 +11,11 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-25/1 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
+1/25 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
 
-12/22 - [QA - 22/1](/2019/01/qa-1.md)
+1/22 - [QA - 22/1](/2019/01/qa-1.md)
 
-12/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
+1/22 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
 
 12/1 - [X3 Ion Thruster](/2019/01/x3.md)
 
