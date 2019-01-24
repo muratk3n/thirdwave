@@ -5,19 +5,20 @@
 To reiterate, cars can run longer range on same amt of fuel with H2
 than gasoline.
 
-Tank is filled in 5 minuts.
+Tank is filled in 5 minutes.
 
 Hydrogen Fuel cell tech is already here.
 
 H2 can be produced at gas stations. 
 
-If not, the fuel can be transported to stations to get benefits of
-scale. Transporting hydrogen was somewhat harder, but with the CSIRO
-invention H2 can simply be taken out of NH3, on site. Where is the
-ammonia come from? Ammonia is already produced in huge amounts in our
-economy, transported easily as liquid at room temparature. We do need
-to make sure tho the production of ammonia is green as well, but this is
-already [doable](../../2018/10/fracked-up.md).
+If not, the fuel can be transported to stations in order to get the
+benefits of scale. Transporting hydrogen was somewhat harder, but with
+the CSIRO invention mentioned above H2 can simply be taken out of NH3,
+on site. Where is the ammonia come from? Ammonia is already produced
+in huge amounts in our economy, transported easily as liquid at room
+temparature. We do need to make sure tho the production of ammonia is
+green as well, but this is already
+[doable](../../2018/10/fracked-up.md).
 
 All this seems like slam-dunk. What is left is enterpreneurial, policy
 push to implement it at scale. CSIRO probably has a patent on the
