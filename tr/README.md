@@ -40,8 +40,6 @@ başlar.
 
 [Seneye Gore](years.md)
 
-[Ara](search.html)
-
 [Hiciv](hiciv.md)
 
 ## Pamuk Eller Cebe 
