@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+29/1 - [Solar Ammonia](/2019/01/solarammonia.md)
+
 25/1 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
 
 22/1 - [QA - 22/1](/2019/01/qa-1.md)
