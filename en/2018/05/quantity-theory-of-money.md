@@ -22,7 +22,7 @@ Also:
 
 [Why Gold?](../../2012/01/why-gold.md)
 
-
+[Keen Model](../../2018/02/q-182.md)
 
 
 
