@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+4/3 - [H2@Scale](/2019/03/h2scale.md)
+
 28/2 - [#brexitexit](/2019/02/brexitexit.md)
 
 15/2 - [#yang #ubi](/2019/02/yang.md)
@@ -28,10 +30,6 @@ despite the best efforts of people working in them.
 7/1 - [E-Diesel](/2019/01/ediesel.md)
 
 3/1 - [Capitalism Eating Itself](/2019/01/capitalism.md)
-
-27/12 - [Friedman on US, Europe, The World](/2018/12/friedman-europe.md)
-
-26/12 - [Green Train](/2018/12/train.md)
 
 ## Reference
 
