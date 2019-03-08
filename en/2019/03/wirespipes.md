@@ -48,9 +48,9 @@ and BEV logic comes from "I have a battery on my laptop why can't I,
 like, put that on a car?". I guarantee it, the sophistication behind
 that choice is nothing more than this.
 
-But when you run the numbers this the choice becomes clear. From
-energy density during transport, to storage "molecules" come out on
-top. 
+But when you run the numbers the pipe advantage becomes clear. From
+energy density during transport, to storage to consumption,
+"molecules" come out on top everytime.
 
 
 
