@@ -41,12 +41,12 @@ compressed natural gas already is.
 
 -----
 
-The main push for the "electrifying everything" comes mainly from ppl
-with computer science background, who are not familiar with chemistry,
-and materials. Fuels are seen as "ew - that's like liquid man, so
-dirty", and BEV logic comes from "I have a battery on my laptop why
-can't I, like, put that on a car?". I guarantee it, the sophistication
-behind that choice is nothing more than this.
+The main push for "electrifying everything" comes mainly from ppl with
+computer science background, who are not familiar with chemistry, and
+materials. Fuels are seen as "ew - that's like liquid man, so dirty",
+and BEV logic comes from "I have a battery on my laptop why can't I,
+like, put that on a car?". I guarantee it, the sophistication behind
+that choice is nothing more than this.
 
 But when you run the numbers this the choice becomes clear. From
 energy density during transport, to storage "molecules" come out on
