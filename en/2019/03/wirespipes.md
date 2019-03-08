@@ -1,6 +1,56 @@
 # Pipes vs Wires
 
+[Link](https://physicsworld.com/a/rethinking-power-pipes-versus-wires/)
 
+Underlying the policy debate on energy is a fault line – a chasm
+between two basically different approaches. Not the usual one between
+big centralized and small decentralized energy, although that is part
+of it. This goes deeper. It concerns the basic, often unspoken,
+assumption that electricity is the key energy vector. We have the idea
+that electrification is modernization. It’s not just Lenin who said
+that, it’s everyone ever since, everywhere. It made sense. Electricity
+was clean, fast, controllable, and it has become increasingly valuable
+[..].
+
+However, there is another viewpoint from which these possible new
+electric-power-demand-boosting developments do not look such good
+news. It’s based on a rival assessment of what makes sense in terms of
+meeting energy needs — the use of gas as an energy vector. This option
+is claimed to be more efficient and less costly than electricity for
+heating, and possibly for other purposes [..].
+
+It is certainly easier to transmit gas with lower energy losses. And
+it can be stored, unlike electricity. In the UK gas is the main source
+of heat. With heating demand being high at times, the UK gas grid
+carries about four times more energy than the electric power
+grid. That is why some say it is foolish to try to switch over to
+electric heating — the power grid could not cope without massive
+expansion [..].
+
+We have a polarity of views – essentially between backers of “pipes”
+and “wires”. Moving the context to the climate debate, the electric
+wire lobby says the energy system can best be decarbonized by sending
+power from wind, solar and other renewables to energy users down
+wires, including for heating and for charging electric vehicles
+(EVs). The pipe lobby says that, for heating, it makes more sense to
+stay with the gas grid and standard appliances but switch over to
+green gas. That way, you don’t have to make many changes whereas to
+use electricity efficiently you would have to install expensive heat
+pumps in every house. Green gas can also be used for vehicles, as
+compressed natural gas already is. 
+
+-----
+
+The main push for the "electrifying everything" comes mainly from ppl
+with computer science background, who are not familiar with chemistry,
+and materials. Fuels are seen as "ew - that's like liquid man, so
+dirty", and BEV logic comes from "I have a battery on my laptop why
+can't I, like, put that on a car?". I guarantee it, the sophistication
+behind that choice is nothing more than this.
+
+But when you run the numbers this the choice becomes clear. From
+energy density during transport, to storage "molecules" come out on
+top. 
 
 
 
