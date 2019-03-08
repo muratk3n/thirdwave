@@ -54,3 +54,10 @@ through a power bank, any on the market will do.
 
 How about tent, sleeping? Do I have to answer everything? Okay: REI
 Camp Dome 2 Plus, and Thermarest NeoAir All Season.
+
+Fire 
+
+Using a can (low tech but still)
+
+https://m.youtube.com/watch?v=deCzUOZyII8
+
