@@ -1,5 +1,5 @@
 
-8/3 - [Pipes vs Wires](03/wirespipes.md)
+8/3 - [Wires vs Pipes](03/wirespipes.md)
 
 4/3 - [H2@Scale](03/h2scale.md)
 

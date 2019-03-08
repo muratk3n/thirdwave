@@ -1,4 +1,4 @@
-# Pipes vs Wires
+# Wires vs Pipes
 
 [Link](https://physicsworld.com/a/rethinking-power-pipes-versus-wires/)
 

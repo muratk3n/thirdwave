@@ -11,7 +11,7 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-8/3 - [Pipes vs Wires](/2019/03/wirespipes.md)
+8/3 - [Wires vs Pipes](/2019/03/wirespipes.md)
 
 4/3 - [H2@Scale](/2019/03/h2scale.md)
 
