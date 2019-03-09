@@ -19,7 +19,7 @@
 
 7/1 - [E-Diesel](01/ediesel.md)
 
-[Capitalism Eating Itself](01/capitalism.md)
+5/1 - [Capitalism Eating Itself](01/capitalism.md)
 
-[E-Diesel](01/ediesel.md)
+
 
