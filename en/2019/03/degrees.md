@@ -132,10 +132,11 @@ Montreal, clashing with police and triggering the Quebec legislature’s
 passage of Bill 78, which placed strict limitations on Canada’s
 traditional freedom of assembly. What motivated this demonstration,
 among the biggest acts of civil disobedience in Canadian history?
-Financial malfeasance? Another war in Iraq? No and no. What brought
-the vast throng to the barricades was a proposed increase in Quebec’s
-college tuition rate, from an annual average of about $2,100 to
-$3,700.
+Financial malfeasance? Another war in Iraq?
+
+No and no. What brought the vast throng to the barricades was a
+proposed increase in Quebec’s college tuition rate, from an annual
+average of about $2,100 to $3,700.
 
 Americans could only observe this spectacle with bewilderment. For
 decades, we have sat by placidly while the average price of college
