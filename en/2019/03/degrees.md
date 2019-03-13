@@ -1,5 +1,7 @@
 # A Matter of Degrees
 
+T. Frank, *Rendezvous with Oblivion*
+
 We begin with utopia—the utopia known as the American university
 system. It is the finest educational institution in the world,
 everyone tells us. Indeed, to judge by the praise that is heaped upon
