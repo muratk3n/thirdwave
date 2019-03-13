@@ -1,4 +1,6 @@
 
+13/3 - [A Matter of Degrees](03/degrees.md)
+
 8/3 - [Wires vs Pipes](03/wirespipes.md)
 
 4/3 - [H2@Scale](03/h2scale.md)
