@@ -26,19 +26,15 @@ Articles 11 and 13.
 
 ---
 
-I was uploading a video of a wedding the other day, of a video I shot
+I was uploading a video of a wedding the other day, a video I shot
 myself, but because of the music playing in the background
 (commercial! copyright!) it was flagged by YT.
 
 When I walk by a house where music is playing, I overhear music, does
-it get flagged? This is insanity. Copyrights, as well as patents need
-to be abolished. You can't police this stuff effectively in the
-knowledge-age, in a preemptive fashion. Instead of filtering
+this music it get flagged? This is insanity. Copyrights, as well as
+patents need to be abolished. You can't police this stuff effectively
+in the knowledge-age, in a preemptive fashion. Instead of filtering
 beforehand, we need to incentivize rewards / likes afterhand, after
 the release of content.
 
 So protest, great. Smash.
-
-
-
-
