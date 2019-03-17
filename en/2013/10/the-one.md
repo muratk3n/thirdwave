@@ -32,28 +32,15 @@ they they take will turn into something of biblical proportions. That
 has to be it. Combine that with others stepping back when they step
 in, this can give the illusion that they are somehow special.
 
-In many ways they are. But the root of it all is driven something they
-lack, not some preexisting condition. One could say "ah let them live
-like this, if it makes them succeed, why let them live this way", then
-the feeling becomes psychological equivalent of placebo - you believe
-in it, because you do, it happens. Well, call me a conservative but
-I'd like to err on the side of less delusion, not more. There are
-other LtCBs first of all (nearly 10% of the population), so prophetic
-specialness needs to be watched with care.
+In many ways they are. But the root of it all is driven by something
+they lack, not some positive preexisting condition. One could say "ah
+let them live like this, if it makes them succeed, why let them live
+this way", then the feeling becomes psychological equivalent of
+placebo - you believe in it, because you do, it happens. Well, call me
+a conservative but I'd like to err on the side of less delusion, not
+more. There are other LtCBs first of all (nearly 10% of the
+population), so prophetic specialness needs to be watched with care.
 
 In terms of MBTI, LtCB mixes well with STJ (Merkel), NTJ (a great
 researcher I know), NTP (both Google founders). SPs would have a much,
 much harder time.
-
-
-
-
-
-
-
-
-
-
-
-
-
