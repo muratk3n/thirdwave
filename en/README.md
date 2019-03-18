@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+18/3 - [Q&A - 18/3](/2019/03/qa-183.md)
+
 14/3 - [Article 13](/2019/03/article13.md)
 
 13/3 - [A Matter of Degrees](/2019/03/degrees.md)
@@ -27,15 +29,6 @@ despite the best efforts of people working in them.
 
 25/1 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
 
-22/1 - [QA - 22/1](/2019/01/qa-1.md)
-
-22/1 - [Carbon Capture, Fuel Generation](/2019/01/carboncapture.md)
-
-12/1 - [X3 Ion Thruster](/2019/01/x3.md)
-
-7/1 - [E-Diesel](/2019/01/ediesel.md)
-
-3/1 - [Capitalism Eating Itself](/2019/01/capitalism.md)
 
 ## Reference
 
