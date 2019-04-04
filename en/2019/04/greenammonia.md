@@ -10,12 +10,12 @@ nitrogen), which feeds Haldor Topsoe’s existing technology: the
 Haber-Bosch plant. The product is ammonia, made from air, water, and
 renewable electricity.
 
-The “SOC4NH3” project was recently awarded funds from the Danish
-Energy Agency, allowing Haldor Topsoe to demonstrate the system with
-its academic partners, and to deliver a feasibility study for a small
+The SOC4NH3 project was recently awarded funds from the Danish Energy
+Agency, allowing Haldor Topsoe to demonstrate the system with its
+academic partners, and to deliver a feasibility study for a small
 industrial-scale green ammonia pilot plant, which it hopes to build by
 2025. There are two dimensions to this technology that make it so
-important: its credibility and its efficiency.
+important; its credibility and its efficiency.
 
 First, the technology owner: Haldor Topsoe is a highly respected
 technology development company, and it commands a global
