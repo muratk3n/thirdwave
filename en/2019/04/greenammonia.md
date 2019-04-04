@@ -1,4 +1,4 @@
-# Green Ammonia:
+# Green Ammonia
 
 [Link](https://ammoniaindustry.com/haldor-topsoes-solid-oxide-electrolyzer/)
 
