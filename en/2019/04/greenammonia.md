@@ -165,25 +165,24 @@ work at high-temparatures.
 Ammonia (NH3) angle is interesting; I write about these options in
 case there is complaining about hydrogen storage; it is already
 possible to build an H2 economy based on known storage technologies,
-but it's good to know about the options.
+but it's good to know about the options. NH3 can be stored,
+transported at room temparature. It can be reformed at fueling
+stations, to get H2 right away. Or, as Haldor Topsoe will demonstrate,
+NH3 can be used directly in a fuel-cell to generate electricity from
+ammonia.
 
-NH3 can be stored, transported at room temparature. It can be reformed
-at fueling stations, to get H2 right away. Or, as Haldor Topsoe will
-demonstrate, NH4 can be used directly in a fuel-cell to generate
-electricity from ammonia.
-
-Obviously the energy density of NH4 is high; much higher than Li-On
-based tech which is an inferior technology, and always will be.
+Obviously the energy density of ammonia is high; much higher than
+current battery tech. 
 
 The word Haber-Bosch can sound familiar, this process is the
 breakthrough technology that allowed the production of fertilizers,
 more than 5-fold increase in agriculture output.
 
 And a word to fossil-fuel companies; with either H2 or NH3 based
-economy, there is a fuel here, and its transportation, storage can
-utilize your existing infrastructure and expertise with
-fossil-fuels. There is a place for you in this future and it can be
-profitable, and you can make this switch.
+economy, there is a fuel, and its transportation, storage can utilize
+your existing infrastructure and expertise with fossil-based
+fuels. There is a place for you in this future and it can be
+profitable, you can make this switch.
 
 Otherwise, teeny-weeny, peppy little [Tesla fans](https://m.youtube.com/watch?feature=youtu.be&t=274)
 are coming for you.
