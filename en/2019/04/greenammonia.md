@@ -174,7 +174,7 @@ current battery tech.
 
 The word Haber-Bosch can sound familiar, this process is the
 breakthrough technology that allowed the production of fertilizers,
-more than 5-fold increase in agriculture output.
+and thereby more than 5-fold increase in agriculture output.
 
 And a word to fossil-fuel companies; with either H2 or NH3 based
 economy, there is a fuel, and its transportation, storage can utilize
