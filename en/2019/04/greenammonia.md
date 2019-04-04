@@ -13,9 +13,7 @@ renewable electricity.
 The SOC4NH3 project was recently awarded funds from the Danish Energy
 Agency, allowing Haldor Topsoe to demonstrate the system with its
 academic partners, and to deliver a feasibility study for a small
-industrial-scale green ammonia pilot plant, which it hopes to build by
-2025. There are two dimensions to this technology that make it so
-important; its credibility and its efficiency.
+industrial-scale green ammonia pilot plant [..]
 
 First, the technology owner: Haldor Topsoe is a highly respected
 technology development company, and it commands a global
