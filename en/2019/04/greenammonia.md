@@ -184,7 +184,7 @@ your existing infrastructure and expertise with fossil-based
 fuels. There is a place for you in this future and it can be
 profitable, you can make this switch.
 
-Otherwise, teeny-weeny, peppy little [Tesla fans](https://m.youtube.com/watch?feature=youtu.be&t=274)
+Otherwise, teeny-weeny, peppy little [Tesla fans](https://m.youtube.com/watch?feature=youtu.be&t=274&v=D-fbNrJtwVI)
 are coming for you.
 
 
