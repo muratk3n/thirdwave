@@ -28,7 +28,8 @@ P: Because it's so much more mysterious that way. Like, you just dont know. And 
 
 R: Aye aye Sir [starts to walk away]
 
-P: Wil. I have one more order for you. While you take a number two, try not to pass any gas. Can you do that?
+P: Wil. I have one more order for you. While you take a number two,
+try not to pass any gas. Can you do that?
 
 R: Is that even possible?
 
