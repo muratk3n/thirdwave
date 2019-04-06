@@ -28,7 +28,6 @@ despite the best efforts of people working in them.
 28/2 - [#brexitexit](/2019/02/brexitexit.md)
 
 
-
 ## Reference
 
 [Nations and Nationalism](/2013/02/allegiance-of-peon.md)
