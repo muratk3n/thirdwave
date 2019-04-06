@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+16/4 - [Q&A - 16/4](/2019/04/qa-0604.md)
+
 4/4 - [Green Ammonia](/2019/04/greenammonia.md)
 
 19/3 - [Q&A - 19/3](/2019/03/qa-0193.md)
@@ -25,11 +27,6 @@ despite the best efforts of people working in them.
 
 28/2 - [#brexitexit](/2019/02/brexitexit.md)
 
-15/2 - [#yang #ubi](/2019/02/yang.md)
-
-29/1 - [Solar Ammonia](/2019/01/solarammonia.md)
-
-25/1 - [Transportation Infrastructure, NH3](/2019/01/transportation.md)
 
 
 ## Reference
