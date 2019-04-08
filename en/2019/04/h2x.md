@@ -47,8 +47,10 @@ money for whatever. U'd literally be making money out of thin air.
 Note: We mentioned similar tech
 [here](../../2018/11/powered-by-solid-h2_26.md), by another Japanese
 company called Chiyoda. Same article mentions nanopowders (from
-Kuwait). There is [paraffin wax](../../2018/10/wax-on.md). There is
-ammonia.
+Kuwait). There is also [paraffin wax](../../2018/10/wax-on.md). There
+is ammonia. [Aluminum hydride](https://www.army.mil/article/155461/army_engineer_awarded_for_advancements_in_soldier_power_lightening_load).
+
+
 
 
 
