@@ -7,13 +7,13 @@ when it achieved the first export of a small quantity of clean, green
 hydrogen produced in Australia from renewable energy, to Japanese
 energy giant JXTG – proving that it was in fact possible.
 
+---
+
 Other links
 
 [ABC](https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806)
 
 [Manufacturers' Monthly](http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan/)
-
----
 
 The actors involved; JXTG, is Japan’s largest petroleum
 conglomerate. QUT provided solar panels that can work with salt
