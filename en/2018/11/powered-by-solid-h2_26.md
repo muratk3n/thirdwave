@@ -1,4 +1,4 @@
-EV powered by Solid H2
+# EV powered by Solid H2
 
 [Link](https://fuelcellsworks.com/news/kuwaits-kisr-launches-first-electric-vehicle-powered-by-solid-hydrogen-fuel/)
 
@@ -21,7 +21,7 @@ vehicle powered by solid hydrogen fuel emitted from Nanopowders.
 induced magnesium hydride adsorption by ultra-smooth granules of the
 glass alloy (ZrNiPd)," Al-Sayegh added.
 
-`------`
+------
 
 Phonemonal. Good to see Gulf countries researching new energy, it
 looks like they landed on all fours again, blessed first with fossil
