@@ -9,9 +9,9 @@ energy giant JXTG – proving that it was in fact possible.
 
 Other links
 
-[https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806](https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806)
+[ABC](https://www.abc.net.au/radionational/programs/breakfast/australias-first-green-hydrogen-export/10973806)
 
-[http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan](http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan/)
+[Manufacturers' Monthly](http://www.manmonthly.com.au/news/queensland-celebrates-first-shipment-of-green-hydrogen-to-japan/)
 
 ---
 
