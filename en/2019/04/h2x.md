@@ -40,7 +40,7 @@ toluene is then available for re-use in the transportation cycle."
 Australia has the sunshine, ports, expertise and logistics in
 transportation. The process described above uses a proprietry tech
 developed by JXTG. If I was a country with lots of sunshine, I'd
-invite them to set up shop in my country, let them produce H2 from
-sunshine, tax their ass, and use the money for whatever. U'd literally
-be making money out of thin air.
+invite them to set up shop in my country, let them produce, export H2
+(to themselves in Japan) from sunshine, tax their ass, and use the
+money for whatever. U'd literally be making money out of thin air. 
 
