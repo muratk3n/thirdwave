@@ -2,6 +2,10 @@
 
 What Can I Do? 
 
+[First Export, Element One](../../2019/04/h2x.md)
+
+[Green Ammonia](../../2019/04/greenammonia.md)
+
 [Power by Solid H2](../../2018/11/powered-by-solid-h2_26.md)
 
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.md)
