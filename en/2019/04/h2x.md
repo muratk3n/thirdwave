@@ -44,3 +44,11 @@ invite them to set up shop in my country, let them produce, export H2
 (to themselves in Japan) from sunshine, tax their ass, and use the
 money for whatever. U'd literally be making money out of thin air. 
 
+Note: We mentioned similar tech
+[here](../../2018/11/powered-by-solid-h2_26.md), by another Japanese
+company called Chiyoda. Same article mentions nanopowders (from
+Kuwait). There is [paraffin wax](../../2018/10/wax-on.md). There is
+ammonia.
+
+
+
