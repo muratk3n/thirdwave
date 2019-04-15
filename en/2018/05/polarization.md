@@ -3,7 +3,8 @@
 Question
 
 What did politicians think about the polarization during the 90s? What were their conclusions?
-Nada
+
+A: Nada
 
 Take Bill Clinton himself, who was at the center of all that shitstorm, a masterful politician, right? I've read all the bios, autobios.. He didnt have a fucking clue. In one account he is with Bob Dole, he asks him (bcz the issue is bothering him, a burning question if you will) "is politics more clean or less clean today?". Dole says "more clean". Then Bill says "then what is all this vitriol all about?" [paraphrasing]. He had no idea. But the reason was staring all of them in the face.
 
