@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+18/4 - [Q&A - 18/4](/2019/04/qa-1804.md)
+
 8/4 - [First Export, Element One](/2019/04/h2x.md)
 
 6/4 - [Q&A - 6/4](/2019/04/qa-0604.md)
