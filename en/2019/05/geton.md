@@ -8,7 +8,7 @@ ROFL?
 
 "Get on with it" is a common phrase heard among the Brexiter
 citizens. "Ok, we voted and now you do your job" kinda
-statement. Except such citizens need to understand that UK officials
+statement. Except, such citizens need to understand, UK officials
 *didn't* do their job by framing a question too much for your dumbass
 to handle. This is a perfect example of an idiom seemingly suggesting
 a course of action, but the action is shit. "Get on with it" - what
