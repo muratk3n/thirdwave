@@ -10,7 +10,7 @@ ROFL?
 citizens. "Ok, we voted and now you do your job" kinda
 statement. Except such citizens need to understand that UK officials
 *didn't* do their job by framing a question too much for your dumbass
-to handle. This is a perfect example of a case where an idiom suggests
+to handle. This is a perfect example of an idiom seemingly suggesting
 a course of action, but the action is shit. "Get on with it" - what
 the fuck does that even mean?  Byzantine rules, regulations, gazillion
 different interests pullling to all different directions. You cant
