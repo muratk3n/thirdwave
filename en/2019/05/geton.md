@@ -8,9 +8,10 @@ ROFL?
 
 "Get on with it" is a common phrase heard among the Brexiter
 citizens. "Ok, we voted and now you do your job" kinda
-statement. Except UK officials *didn't* do their job by framing a
-question too much for your dumbass to handle. This is a perfect
-example of a case where an idiom suggests a course of action, but the
-action is shit. "Get on with it" - what the fuck does that even mean?
-Byzantine rules, regulations, gazillion different interests pullling
-to all different directions. You cant just "get on with it" dimwit.
+statement. Except such citizens need to understand that UK officials
+*didn't* do their job by framing a question too much for your dumbass
+to handle. This is a perfect example of a case where an idiom suggests
+a course of action, but the action is shit. "Get on with it" - what
+the fuck does that even mean?  Byzantine rules, regulations, gazillion
+different interests pullling to all different directions. You cant
+just "get on with it" dimwit.
