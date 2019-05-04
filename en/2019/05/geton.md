@@ -14,4 +14,4 @@ to handle. This is a perfect example of an idiom seemingly suggesting
 a course of action, but the action is shit. "Get on with it" - what
 the fuck does that even mean?  Byzantine rules, regulations, gazillion
 different interests pullling to all different directions. You cant
-just "get on with it" dimwit.
+just "get on with it". If they could they would have by now.
