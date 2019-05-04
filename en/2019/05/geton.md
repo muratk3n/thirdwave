@@ -2,7 +2,7 @@
 
 ![](geton.jpg)
 
-The percentages shows are from the recent UK local elections, gains /
+The percentages shown are from the recent UK local elections, gains /
 losses, for each party. What net acronym should I use here? LMAO?
 ROFL?
 
