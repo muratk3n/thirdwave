@@ -3,9 +3,9 @@
 Excellent talk by Bezos. The vision is solid; even renewable energy
 (the only kind that matters) will not suffice for population growth
 forever, we have to increase our options. How? Large, habitable
-O'Neill stations are one way that can collect their own energy, have
-artificial gravity. To get there, we need to build infrastructure; our
-generation's work.
+O'Neill stations are one way that can collect their own energy, and
+have artificial gravity. To get there, we need to build
+infrastructure; our generation's work.
 
 [![](http://img.youtube.com/vi/GQ98hGUe6FM/0.jpg)](http://www.youtube.com/watch?v=GQ98hGUe6FM)
 
