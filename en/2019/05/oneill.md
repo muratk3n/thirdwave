@@ -11,10 +11,10 @@ house a billion. They could be placed at any sufficiently close
 distances to Earth, it'll work.
 
 I direct attn attention to the mention of liquid hydrogen; truly the
-fuel of the future. It is good for rockets, it is good for heating,
-electricity, anything we can think of. Basically any place we humans
-are interested in will have water anyway, with electrolysis we can
-turn that water into fuel, using solar panels.
+energy storage mechanism of the future. It is good for rockets, it is
+good for heating, electricity, anything we can think of. Basically any
+place we humans are interested in will have water anyway, with
+electrolysis we can turn that water into fuel, using solar panels.
 
 So we are not leaving Earth, simply stepping outside it for more
 options, and even, for a little exercise. It's good to get used to
