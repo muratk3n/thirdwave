@@ -7,6 +7,8 @@ O'Neill stations are one way that can collect their own energy, have
 artificial gravity. To get there, we need to build infrastructure; our
 generation's work.
 
+[![](http://img.youtube.com/vi/GQ98hGUe6FM/0.jpg)](http://www.youtube.com/watch?v=GQ98hGUe6FM)
+
 Makes sense, with a million ppl per, a thousand of these things could
 house a billion. They could be placed at any sufficiently close
 distances to Earth, it'll work.
@@ -27,6 +29,4 @@ few of these things would probably make it.
 Blue Origin rockets, built for reuse, and the moon, a perfect
 playground, is suitable for the task. It all seems to line up with WH
 return-to-moon announcement, that'll work for their favor. Thumbs up.
-
-[![](http://img.youtube.com/vi/GQ98hGUe6FM/0.jpg)](http://www.youtube.com/watch?v=GQ98hGUe6FM)
 
