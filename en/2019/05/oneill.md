@@ -3,8 +3,9 @@
 Excellent talk by Bezos. The vision is solid; even renewable energy
 (the only kind that matters) will not suffice for population growth
 forever, we have to increase our options. How? Large, habitable
-O'Neill stations are one way that can have artificial gravity. To get
-there, we need to build infrastructure; our generation's work.
+O'Neill stations are one way that can collect their own energy, have
+artificial gravity. To get there, we need to build infrastructure; our
+generation's work.
 
 Makes sense, with a million ppl per, a thousand of these things could
 house a billion. They could be placed at any sufficiently close
@@ -22,6 +23,10 @@ being in space, with bigger and bigger steps each time. Also these
 stations will be Earth-like, not too far from Earth, best of both
 worlds so to speak. Killer asteroid? Covered! Even with Earth gone a
 few of these things would probably make it.
+
+Blue Origin rockets, built for reuse, and the moon, a perfect
+playground, is suitable for the task. It all seems to line up with WH
+return-to-moon announcement, that'll work for their favor. Thumbs up.
 
 [![](http://img.youtube.com/vi/GQ98hGUe6FM/0.jpg)](http://www.youtube.com/watch?v=GQ98hGUe6FM)
 
