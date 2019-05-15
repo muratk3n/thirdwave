@@ -23,18 +23,20 @@ df2 = pd.read_csv('/tmp/quandl-inf.csv',index_col=0,parse_dates=True)
 df1['gdpyoy'] = (df1.Value - df1.Value.shift(4)) / df1.Value.shift(4) * 100.0
 
 print ('GDP YOY')
-print (df1.gdpyoy.tail(1))
+print (df1.gdpyoy.tail(2))
 print ('Inflation YOY')
-print (df2.Value.tail(1))
+print (df2.Value.tail(2))
 ```
 
 ```text
 GDP YOY
 Date
+2018-10-01    2.971385
 2019-01-01    3.210894
 Name: gdpyoy, dtype: float64
 Inflation YOY
 Date
+2019-03-31    1.863
 2019-04-30    1.996
 Name: Value, dtype: float64
 ```
