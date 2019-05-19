@@ -44,6 +44,3 @@ başlar.
 
 [Hiciv](hiciv.md)
 
-## Pamuk Eller Cebe 
-
-1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)

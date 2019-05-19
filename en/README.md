@@ -65,9 +65,6 @@ despite the best efforts of people working in them.
 
 [Search](search.html)
 
-## Contribute
-
-1GMq5we58oJq4ccAskmPUvpR2hacQzXhSH (Bitcoin)
 
 
 				   
