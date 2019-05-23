@@ -144,12 +144,12 @@ could live on this thing for a very long time.
 
 Gas grid is much more cost-effective than an electricity grid: for the
 same investment a gas pipe can transport 10-20 times more energy than
-an electricity cable
+an electricity cable.
 
-That's the other thing
+That's the other thing..
 
 Since molecules are much more efficient energy carriers (and be
-converted into electricity easily with FCs), why have a seperate
-electric grid at all? We can have pipes everywhere. All electric these
-cable lines could be a collosal waste.
+converted into electricity easily through FCs), why have a seperate
+electric grid at all? There could be pipes going to everywhere. All
+these electric cable lines could be a collosal waste.
 
