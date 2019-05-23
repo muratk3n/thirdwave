@@ -57,14 +57,12 @@ multiple-units. The contract worth around €500 million
 A team of engineers at UD is among the 40 awardees of the ARPA-E
 OPEN2018, and has been awarded $1,979,998 in funding to build a fuel
 cell system fabricated with inexpensive catalysts and structural
-materials. [..] So called hydroxide exchange membrane fuel cells [..]
-cannot use direct supply of ambient air, because the carbon dioxide in
-the air reduces their performance. An efficient and cost-effective way
-to generate a CO2-free air stream, would open the door for wide
-introduction of this desirable fuel cell technology. To address this
-challenge, the UD team is developing a simple and cost effective cell
-serving as “electrochemical pump,” capable of removing carbon dioxide
-from a stream of ambient air.
+materials. [..] So called hydroxide exchange membrane fuel cells
+[..need CO2-free air..] and a cost-effective way to generate a
+CO2-free air stream [..] to address this challenge, the UD team is
+developing a simple and cost effective cell serving as
+“electrochemical pump,” capable of removing carbon dioxide from a
+stream of ambient air.
 
 Nice
 
