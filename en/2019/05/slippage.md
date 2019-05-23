@@ -148,5 +148,5 @@ store it, ship it, use it cleanly. All sorts of product, logistical
 companies who have expertise in any form of chemical product,
 including fossil fuels, can make the transition into this new economy
 and prosper. In terms of consumption, the cars we see outside, the
-planes wizzing by on our heads *can work* in an 100% clean and silent
-fashion.
+planes wizzing by over our heads *can work* in an 100% clean and
+silent fashion.
