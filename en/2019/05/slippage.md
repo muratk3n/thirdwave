@@ -122,7 +122,7 @@ make the fuel they need from sea water, the wind, and the sun.
 
 Want
 
-The boat looks scifi. Fantatic design. To reemphasize, this boat, the
+The boat looks scifi. Fantastic design. To reemphasize, this boat, the
 Energy Observer, does not need external refueling. It generates its
 own fuel (from sun, stored as H2). This is reality. Right now. Other
 needs; for water, it could be distilled, food, make from air, or
