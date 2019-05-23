@@ -17,11 +17,11 @@ release.
 Bad
 
 LNG is the cleanest fossil fuel out there, but that is also hampered
-with problems. I don't think there is space for anything other than H2
-in all steps of the energy processs, except maybe in the beginning,
-where fossil is reformed into H2. Other than that, and considering
-tooling, infrastructure issues, a form of clean H2 carrier in all
-steps is necessary.
+with problems at large scale for common use. I don't think there is
+space for anything other than H2 in all steps of the energy processs,
+except maybe in the beginning, where fossil is reformed into H2. Other
+than that, and considering tooling, infrastructure issues, a form of
+clean H2 carrier in all steps is necessary.
 
 [Post](https://chinadialogueocean.net/8170-china-uniquely-placed-to-green-shipping/#.XOQkavaAzzs.twitter)
 
