@@ -40,6 +40,8 @@ hydrogen as an onboard ship fuel – a major breakthrough.
 
 [Riversimple](https://twitter.com/riversimple/status/1130862811691802624)
 
+[video]
+
 UK is such an innovative place. Too bad the country has been hampered
 with the recent political events lately (100% elite failure).
 
