@@ -75,7 +75,24 @@ plt.ylim(0,30)
 plt.savefig('fin_unemploy.png')
 ```
 
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
 
+start=datetime.datetime(1950, 1, 1)
+end=datetime.datetime(2019, 6, 1)
+cols = ['LABSHPUSA156NRUG']
+df4 = data.DataReader(cols, 'fred', start, end)
+df4.columns = ['labor_wage_share']
+print (df4.tail(4))
+```
 
-
+```text
+            labor_wage_share
+DATE                        
+2011-01-01          0.599838
+2012-01-01          0.602019
+2013-01-01          0.600111
+2014-01-01          0.603597
+```
 
