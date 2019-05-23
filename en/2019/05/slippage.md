@@ -139,5 +139,5 @@ That's the other thing..
 Since molecules are much more efficient energy carriers (and be
 converted into electricity easily through FCs), why have a seperate
 electric grid at all? There could be pipes going to everywhere. All
-these electric cable lines could be a collosal waste.
+these electric cable lines could be a collosal waste. #killTheGrid
 
