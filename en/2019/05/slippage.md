@@ -1,6 +1,6 @@
 # Slippage, H2, the Transition
 
-Post
+[Post](https://chinadialogueocean.net/8170-china-uniquely-placed-to-green-shipping/#.XOQkavaAzzs.twitter)
 
 Liquefied natural gas for instance, while great at reducing air
 pollution, has little to no benefit in reducing greenhouse gas
@@ -23,7 +23,7 @@ where fossil is reformed into H2. Other than that, and considering
 tooling, infrastructure issues, a form of clean H2 carrier has to be 
 used. 
 
-Post
+[Post](https://chinadialogueocean.net/8170-china-uniquely-placed-to-green-shipping/#.XOQkavaAzzs.twitter)
 
 In Belgium, the 120-year-old container shipping company CMB is
 trialling fuel cells on one of its container ships, and later this
