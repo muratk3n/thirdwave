@@ -107,5 +107,36 @@ domestic product" Crazy!
 
 It is crazy
 
+[Article](https://www.wired.com/story/energy-observer-renewable-energy-voyage/amp)
 
+Victorien Erussard, an experienced ocean racer from the city of
+Saint-Malo in the north of France, was halfway through a dash across
+the Atlantic when he lost all power. Sails kept the boat moving, but
+Erussard relied on an engine and generator to keep the electronics
+running. He temporarily lost his autopilot and his navigation systems,
+jeopardizing his chances of winning the 2013 Transat Jaques Vabre
+race.
+
+Never again, he thought. “I came up with the idea to create a ship
+that uses different sources of energy,” he says. The plan was
+bolstered by the pollution-happy cargo ships he saw while crossing the
+oceans. "These are a threat to humanity because they use heavy fuel
+oil."
+
+Five years on, that idea has taken physical form in the Energy
+Observer, a catamaran that runs on renewables. In a mission
+reminiscent of the Solar Impulse 2, the solar-powered plane that
+Bertrand Picard and André Borschberg flew around the world a few years
+back, Erussard and teammate Jérôme Delafosse are planning to sail
+around the planet, without using any fossil fuel. Instead, they'll
+make the fuel they need from sea water, the wind, and the sun.
+
+Want
+
+The boat looks scifi. Fantatic design.
+
+To reemphasize, this boat, the Energy Observer, does not need external
+refueling. It generates its own fuel (from sun, stored as H2). This is
+already reality. Other needs; distill water, make food from air, you
+could live on this thing for a very long time.
 
