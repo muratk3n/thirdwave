@@ -38,15 +38,6 @@ world’s largest engine manufacturers, announced in December it had
 successfully developed the technology to use cryogenically cooled
 hydrogen as an onboard ship fuel – a major breakthrough.
 
-Great news
-
-In a way the speed of FC, H2 tech developments should not be
-surprising. Hydrogen caught the attention of the markets a few times
-before, so I am sure companies were sitting on a lot of dormant tech
-from those times. When I was looking for FC based powerbank and
-expecting to see DIY solutions, I saw someone had a product for it, in
-2010! Now it's on, and the pace of developments is fantastic.
-
 [Riversimple](https://twitter.com/riversimple/status/1130862811691802624)
 
 UK is such an innovative place. Too bad the country has been hampered
