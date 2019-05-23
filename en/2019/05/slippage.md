@@ -144,9 +144,9 @@ these electric cable lines could be a collosal waste. #killTheGrid
 ---
 
 We have a path forward ladies and gents. We have a fuel, we can store
-it, ship it, use it cleanly. Fossil fuel companies, and all sorts of
-logistical companies who have expertise in any form of chemical
-product, including fossil fuels can make the transition into this new
-economy and prosper. In terms of consumption, the cars we see outside,
-the planes wizzing by on our heads *can work* in an 100% clean and
-silent fashion. 
+it, ship it, use it cleanly. All sorts of product, logistical
+companies who have expertise in any form of chemical product,
+including fossil fuels, can make the transition into this new economy
+and prosper. In terms of consumption, the cars we see outside, the
+planes wizzing by on our heads *can work* in an 100% clean and silent
+fashion.
