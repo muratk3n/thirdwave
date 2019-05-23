@@ -143,8 +143,8 @@ these electric cable lines could be a collosal waste. #killTheGrid
 
 ---
 
-We have a path forward ladies and gents. We have a fuel, we can store
-it, ship it, use it cleanly. All sorts of product, logistical
+We have a path forward ladies and gentlemen. We have a fuel, we can
+store it, ship it, use it cleanly. All sorts of product, logistical
 companies who have expertise in any form of chemical product,
 including fossil fuels, can make the transition into this new economy
 and prosper. In terms of consumption, the cars we see outside, the
