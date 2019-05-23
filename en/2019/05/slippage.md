@@ -20,8 +20,8 @@ LNG is the cleanest fossil fuel out there, but that is also hampered
 with problems. I don't think there is space for anything other than H2
 in all steps of the energy processs, except maybe in the beginning,
 where fossil is reformed into H2. Other than that, and considering
-tooling, infrastructure issues, a form of clean H2 carrier has to be 
-used. 
+tooling, infrastructure issues, a form of clean H2 carrier in all
+steps is necessary.
 
 [Post](https://chinadialogueocean.net/8170-china-uniquely-placed-to-green-shipping/#.XOQkavaAzzs.twitter)
 
@@ -41,11 +41,11 @@ hydrogen as an onboard ship fuel – a major breakthrough.
 Great news
 
 In a way the speed of FC, H2 tech developments should not be
-surprising. Hydrogen caught the attention of the market a few times
+surprising. Hydrogen caught the attention of the markets a few times
 before, so I am sure companies were sitting on a lot of dormant tech
-from those times. When I was looking for FC based powerbank, I saw
-someone had a product for it, in 2010! Now it's on, and the pace of
-developments is fantastic.
+from those times. When I was looking for FC based powerbank and
+expecting to see DIY solutions, I saw someone had a product for it, in
+2010! Now it's on, and the pace of developments is fantastic.
 
 [Riversimple](https://twitter.com/riversimple/status/1130862811691802624)
 
