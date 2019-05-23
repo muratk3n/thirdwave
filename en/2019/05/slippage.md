@@ -140,3 +140,16 @@ refueling. It generates its own fuel (from sun, stored as H2). This is
 already reality. Other needs; distill water, make food from air, you
 could live on this thing for a very long time.
 
+[Post](https://twitter.com/GasNaturally/status/1125736725928644608)
+
+Gas grid is much more cost-effective than an electricity grid: for the
+same investment a gas pipe can transport 10-20 times more energy than
+an electricity cable
+
+That's the other thing
+
+Since molecules are much more efficient energy carriers (and be
+converted into electricity easily with FCs), why have a seperate
+electric grid at all? We can have pipes everywhere. All electric these
+cable lines could be a collosal waste.
+
