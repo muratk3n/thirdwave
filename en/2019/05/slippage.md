@@ -86,7 +86,7 @@ BEVs with their environment polluting lithium-ion-cobalt solution, now
 there are bunch of other harder problems. I hear BEVevenglists started
 to grow a liking for nuclear power recently, IMO because their
 second-rate solution requires huge amounts of readily available online
-power, all the time. So even nuclear starts looking attractive.
+power, all the time. To them even nuclear starts looking attractive.
 
 [David Connoly](https://twitter.com/davconnolly/status/1129685070825054208)
 
