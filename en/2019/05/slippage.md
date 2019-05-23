@@ -77,8 +77,8 @@ problem of how to get hydrogen to remote locations
 
 I am a big fan of ammonia
 
-Once that first decision right, the rest it easier; we have a fuel
-based on the first element, simple, with immense energy. Then we
+Once that first decision is made right, the rest it easier; we have a
+fuel based on the first element, simple, with immense energy. Then we
 consider storage, transportation options, of which there are many.
 
 On the other hand, the first decision is faulty, as in the case of
