@@ -77,18 +77,16 @@ problem of how to get hydrogen to remote locations
 
 I am a big fan of ammonia
 
-This is what we get once we make that first decision right; we have a
-fuel based on the first element, simple, with immense energy. Then we
+Once that first decision right, the rest it easier; we have a fuel
+based on the first element, simple, with immense energy. Then we
 consider storage, transportation options, of which there are many.
 
-On the other hand, if you make the first decision wrong, as in the
-case of BEVs with their environment polluting lithium-ion-cobalt
-solution, now you run into bunch of other insurmountable problems. I
-hear BEVevenglists started to grow a liking for nuclear power
-recently, IMO because their second-rate solution requires huge amounts
-of readily available online power, all the time. So nuclear starts
-looking attractive (it is not, the tech is still riddled with
-problems).
+On the other hand, the first decision is faulty, as in the case of
+BEVs with their environment polluting lithium-ion-cobalt solution, now
+there are bunch of other harder problems. I hear BEVevenglists started
+to grow a liking for nuclear power recently, IMO because their
+second-rate solution requires huge amounts of readily available online
+power, all the time. So even nuclear starts looking attractive.
 
 [David Connoly](https://twitter.com/davconnolly/status/1129685070825054208)
 
