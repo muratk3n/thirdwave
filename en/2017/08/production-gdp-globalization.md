@@ -43,17 +43,22 @@ held in each of these countries.
 
 Nice
 
-Hidalgo is a statistical physicist, who also wrote Why Information
-Grows. He uses a country's diversity of exported products as a
+Hidalgo is a statistical physicist, who also wrote *Why Information
+Grows*. He uses a country's diversity of exported products as a
 stand-in for the knowledge networks present in that country. He then
 uses a modeling jujutsu to find the economic complexity index (ECI) of
-a country. I replicated it
+a country. In summary, comparative advantage is false; what matters is
+the diversity, the total opposite of comparative advantage style
+specialization, of a countries products. Because that diversity can
+drive even more innovation, and more products.
+
+I replicated Hidalgo's research
 [here](https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1),
-data, Python code included. The move is excellent. Economists, take
-note. All I hear from them is "if this goes up, that comes down, this
-comes down the other thing goes up". Angle of the dangle is inversely
-proportional to the heat of the
-meat. [Heheheheh](https://youtu.be/F3NtIgunIc4?t=52).Seriously. More
+data, Python code included. The jujitsi move is excellent. Economists,
+take note. All I hear from them is "if this goes up, that comes down,
+this comes down the other thing goes up". Angle of the dangle is
+inversely proportional to the heat of the
+meat. [Eheheheh](https://youtu.be/F3NtIgunIc4?t=52).Seriously. More
 physicist in economics! Economists apparently have physics envy, so if
 there are more physicist in economics, they are already physicist,
 they won't have any envy.
@@ -77,10 +82,9 @@ say, a new car battery, would you be better off being in proximity to
 defense contractors, solar panel, drone makers, or rice farmers, and
 bottlers of Coca Cola?
 
-USA is in good shape in this sense. Yeah there are income
-inequalities, no universal healthcare, but these problems are easy to
-fix. You tar and feather couple politicians, kick'em around little
-bit, you get what you need.
+USA is in good shape in this sense. Sure there are income
+inequalities, no universal healthcare, but these problems are
+technically easy to fix.
 
 Tacit knowledge is key. As someone who worked / works on transfering
 massive knowledge to others I can attest to this. We know more than we
@@ -100,7 +104,9 @@ critical.
 
 Question
 
-The idea of comparative advantage says country A should specialize on product X, country B on product Y. They trade with eachother and both would be better for it.
+The idea of comparative advantage says country A should specialize on
+product X, country B on product Y. They trade with eachother and both
+would be better for it.
 
 Wrong
 
@@ -111,8 +117,8 @@ producing X and Y can come up with product Z.
 
 [Blog](http://www.enlightenmenteconomics.com/blog/index.php/2015/06/the-information-economy/)
 
-I very much enjoyed reading Cesar Hidalgo’s Why Information Grows: The
-evolution of order, from atoms to economies. It’s a very original
+I very much enjoyed reading Cesar Hidalgo’s *Why Information Grows:
+The evolution of order, from atoms to economies*. It’s a very original
 perspective on the process of secular economic growth, bringing
 together not only several strands of the economics literature – growth
 theory, institutional economics, social capital etc – but also
@@ -129,9 +135,6 @@ chunk of all products, the economy runs on information. This is a
 radical departure from industrial age when unskilled labor was a major
 input into the economy. The entire 3W canon aims to dissect the
 repercussions of this fact.
-
-
-
 
 
 
