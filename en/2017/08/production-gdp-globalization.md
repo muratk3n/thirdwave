@@ -48,9 +48,9 @@ Grows*. He uses a country's diversity of exported products as a
 stand-in for the knowledge networks present in that country. He then
 uses a modeling jujutsu to find the economic complexity index (ECI) of
 a country. In summary, comparative advantage is false; what matters is
-the diversity, the total opposite of comparative advantage style
-specialization, of a countries products. Because that diversity can
-drive even more innovation, and more products.
+the diversity of products, the exact opposite of comparative advantage
+style specialization on products. Because diversity allows the
+invention of more products, a country gets richer.
 
 I replicated Hidalgo's research
 [here](https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1),
