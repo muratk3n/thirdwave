@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+9/6 - [(For members) Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
+
+9/6 - [(For members) Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
+
 23/5 - [Slippage, H2, the Transition](/2019/05/slippage.md)
 
 13/5 - [Unfettered Capitalism](/2019/05/unfettered.md)
@@ -24,8 +28,6 @@ despite the best efforts of people working in them.
 8/4 - [First Export, Element One](/2019/04/h2x.md)
 
 6/4 - [Q&A - 6/4](/2019/04/qa-0604.md)
-
-4/4 - [Green Ammonia](/2019/04/greenammonia.md)
 
 
 ## Reference
