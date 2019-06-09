@@ -1,4 +1,7 @@
 
+9/6 - [(For members) Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
+
+9/6 - [(For members) Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
 
 10/5 - [Infrastructure for Space](/2019/05/oneill.md)
 
