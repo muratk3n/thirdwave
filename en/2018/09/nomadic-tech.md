@@ -3,7 +3,7 @@
 Ideally you should be able to "generate" your food by taking soil,
 some plants, some water and out comes powder that u can eat (or
 store). I hear Rhinehart of Soylent is working on this. Pie in the
-sky? How about pie in powder! 
+sky? How about pie in powder!
 
 Some history: It turns out storable powder food is nothing new. Native
 Americans produced something called pemmican by drying bison meat and
@@ -12,7 +12,17 @@ time (one video said that 'it will outlast you'). Pemmican was a major
 source of food in America, the white-man jumped into its trade
 naturally, through different companies. Funny story here is the
 competition got out of hand and certain factions fought a war over
-pemmican. Brits had to step in and merge the two companies. Blimey. 
+pemmican. Brits had to step in and merge the two companies. Blimey.
+
+Apparently "soldier of Otto" brought something called tarhana with
+them on military campaigns. Couple this with some meat, it can keep a
+person well fed for a while. Tarhana is actually a Turco soup, cooked
+in many homes, I never had much liking for it, but I understand now,
+it is made to carry a bomb of vitamins, nutrients in it. If it is good
+for warmongering plunderers, it is good enough for me! TR supermarkets
+sell a ready-made versions in powder form, some even with dried
+meat. Considering how cheap they are, they could simple purchased /
+stored as-is and your food while on-the-go is solved!
 
 Combatting world hunger
 
@@ -20,7 +30,7 @@ Beyond its nomadic uses, powder based durable food can be transported
 to long distances. It is cheap. You could airdrop this to anywhere in
 the world.
 
-More geekiness: 
+More geekiness:
 
 Always wanted to develop on a mobile phone by using my notebook / PC
 tools. So phone becomes the primary programming env, plus, existing
@@ -42,22 +52,31 @@ connect. An experience here using Termux + DeX.
 
 Linux on Galaxy
 
-Termux is still a contained environment however. Samsung is working on the big-daddy - Linux on Galaxy, which will be the bodankadonk of Linux based development on mobile . It is work-in-progress. 
+Termux is still a contained environment however. Samsung is working on
+the big-daddy - Linux on Galaxy, which will be the bodankadonk of
+Linux based development on mobile . It is work-in-progress. 
 
 Power
 
-U r wondering how do I power all this while on-the-go? Solar
-panels. The larger, the better. There is a foldable panel deck on the
+Wondering how do I power all this while on-the-go? Solar panels. The
+larger, the better (stay away from Waka Waka, the small little thing
+will never charge properly). There is a foldable panel deck on the
 market, in TR it goes by the name Juo. It makes sense to buy panel
 product seperately from storage product. Storage will be handled
 through a power bank, any on the market will do.
 
-How about tent, sleeping? Do I have to answer everything? Okay: REI
-Camp Dome 2 Plus, and Thermarest NeoAir All Season.
+How about tent, sleeping? Do I have to answer everything? Okay: REI
+Camp Dome 2 Plus. But even better using a simple tarp for everything; 
+
+How to make a tent with floor (bottom covered) with a tarp, DD 3x3 meter tarp.
+
+https://youtu.be/d8WrtQyXipI?t=617
 
 Fire 
 
 Using a can (low tech but still)
 
 https://m.youtube.com/watch?v=deCzUOZyII8
+
+Keywords: camping, tent
 
