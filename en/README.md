@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+9/6 - [(For members) Tweets - 0906](https://thirdwave-members.herokuapp.com/view/tweets-0906.md)
+
 9/6 - [(For members) Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
 
 9/6 - [(For members) Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
