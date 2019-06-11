@@ -9,13 +9,17 @@ are built around methods of production, so when a new wave arrives,
 older structures around governance, education, health start to crumble
 despite the best efforts of people working in them.
 
+## For Members
+
+10.6 [Tweets - 10/6](https://thirdwave-members.herokuapp.com/view/tweets-1006.md)
+
+9/6 - [Tweets - 9/6](https://thirdwave-members.herokuapp.com/view/tweets-0906.md)
+
+9/6 - [Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
+
+9/6 - [Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
+
 ## Latest
-
-9/6 - [(For members) Tweets - 9/6](https://thirdwave-members.herokuapp.com/view/tweets-0906.md)
-
-9/6 - [(For members) Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
-
-9/6 - [(For members) Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
 
 23/5 - [Slippage, H2, the Transition](/2019/05/slippage.md)
 
