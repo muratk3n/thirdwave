@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## For Members
 
+10/6 - [Podcast - 12/6](https://thirdwave-members.herokuapp.com/view/podcast.md)
+
 10/6 - [Tweets - 10/6](https://thirdwave-members.herokuapp.com/view/tweets-1006.md)
 
 9/6 - [Tweets - 9/6](https://thirdwave-members.herokuapp.com/view/tweets-0906.md)
