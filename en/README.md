@@ -13,13 +13,11 @@ despite the best efforts of people working in them.
 
 12/6 - [Podcast - 12/6](https://thirdwave-members.herokuapp.com/view/podcast.md)
 
-10/6 - [Tweets - 10/6](https://thirdwave-members.herokuapp.com/view/tweets-1006.md)
-
-9/6 - [Tweets - 9/6](https://thirdwave-members.herokuapp.com/view/tweets-0906.md)
-
 9/6 - [Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
 
 9/6 - [Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
+
+9/6 - [Tweets - Week 24](https://thirdwave-members.herokuapp.com/view/week24.md)
 
 ## Latest
 
