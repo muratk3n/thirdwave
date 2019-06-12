@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## For Members
 
+13/6 - [GE Unleashing a Hydrogen Gas Power Future](https://thirdwave-members.herokuapp.com/view/ge-h2.md)
+
 12/6 - [Podcast - 12/6](https://thirdwave-members.herokuapp.com/view/podcast.md)
 
 9/6 - [Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
