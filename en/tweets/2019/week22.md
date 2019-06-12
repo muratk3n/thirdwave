@@ -63,3 +63,79 @@ Having held previous office is a must, media exp if not. People need
 to see u deciding, leading on stuff. Odd but DJT on the Appr was
 that. Most top cands have held office.
 
+Still silently rooting for Yang of course but always keep an eye on
+the polls. On the way down I kick a man down, and pile on. If doing
+good I'll cheer and be a follower. Am very opportunistic that way.
+
+---
+
+More data fitting. So tired of this monkey shit.
+
+"Google AI system proves over 1200 mathematical theorems"
+
+---
+
+@goodfellow_ian
+
+"Whoa! It turns out that famous examples of NLP systems succeeding and failing were very misleading. “Man is to king as woman is to queen” only works if the model is hardcoded not to be able to say “king” for the last word."
+
+Hinton spun up a good tale around this biz, hinting this "statistical stuff" is as good as building a GI on, as if we had any meaningful algebra around the subject the way pysicists had Calculus.
+
+---
+
+https://www.zdnet.com/article/hydrogen-powered-air-taxi-yup-its-real/
+
+"Liquid #h2 has 200x greater energy density than Li-ion batteries by weight"
+
+---
+
+https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground
+
+"More natural gas isn’t a “middle ground” — it’s a climate disaster"
+
+Yeah centrists liked natgas it was like a "middle-ground", but methane leakage kills that arg. And this article says even the carbon part is no good news.
+
+---
+
+Keine Fahrvergnugen
+
+---
+
+https://twitter.com/SheepleAnalytic/status/1134069887503147008
+
+"Sorry to the athlete who worked her whole life to become the best only to finish in 2nd place at the NCAA Championships because she was racing a man. Better luck next time."
+
+---
+
+Worldwide effort required to convert fossil->H2 near to the point of production, than distribute H2 using the existing gas network. The longer energy remains fossil throughout transport, storage, the larger the chances of it polluting the environment.
+
+If nothing is done on this, sabotage on key fossil fuel infrastructure will be thought by extremists. Let's reform this stuff before things get there.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What people die from, What they Google, What the media covers..... <a href="https://t.co/bPyigxFM7H">pic.twitter.com/bPyigxFM7H</a></p>&mdash; Mark Ritson (@markritson) <a href="https://twitter.com/markritson/status/1133794330513235968?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
