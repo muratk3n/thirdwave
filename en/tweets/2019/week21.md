@@ -78,3 +78,25 @@ flat-earther (as in a globosapien)?
 
 ---
 
+Yes
+
+"May [..] was trapped less by her personal flaws than by the structural flaw within Brexit itself"
+
+---
+
+The only possible "decisive" Brexit deal is a no-deal Brexit. I cant stress enough how nonchalant the EU is on a UK leave. Juncker was like "if you want to leave, leave. If you want to stay, stay". It is comical really.
+
+"May paves way for more decisive Brexit deal"
+
+---
+
+Yey. 
+
+But to be fair none of the latest shit show is her fault. Cameron is the one who dropped the ball. 
+
+She was brought in to do a job, which turned out to be impossible (well some knew it was but cons found out too)
+
+"Britain's May says she will step down on June 7"
+
+---
+

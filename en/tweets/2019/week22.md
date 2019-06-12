@@ -118,6 +118,76 @@ If nothing is done on this, sabotage on key fossil fuel infrastructure will be t
 
 ---
 
+https://twitter.com/kaffjamesnewtow/status/1133698731809923072
+
+"Is Audi breaking ranks with VW Group over hydrogen strategy?"
+
+"Schot told journalists fuel cells appeared superior to EVs at Geneva. One of the PRs told me he almost fell off his chair when he heard it."
+
+Ha ha
+
+---
+
+Celebrating 4 EU, nice... One little addition though: nats can do some freaky shite, but u cant impose national governments who they let in who not. EU cannot tell Hungary to take in _x_ many refugees.
+
+---
+
+Cremation diamonds: seriously. 
+
+We are carbon, dia is carbon, so u can someone into diamond from their ashes after death. Freaky.
+
+---
+
+"Tusk says Brexit served as 'vaccine' against eurosceptic EU vote"
+
+---
+
+EU vote: "Europe Shrugged. Historical results for Greens in Germany, Belgium, Finland and Ireland; Social Democrats emerge from their ashes in some countries; The opponents of Europe and the extreme right did not get what they expected"
+
+---
+
+"The demonisation of carbon dioxide is just like the demonisation of the poor Jews under Hitler" - William Happer
+
+Hmmm...
+
+---
+ 
+@hellakale
+
+"Every time a dude says he’s a Libertarian I do the jerkoff motion but with the invisible hand of the free market"
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How Tesla (TSLA)&#39;s greedy bankers ripped Tesla’s face off <a href="https://t.co/hojCLoYQPe">https://t.co/hojCLoYQPe</a></p>&mdash; Larry Sabin (@LarrySabin1) <a href="https://twitter.com/LarrySabin1/status/1133238672860491776?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Blair banging on the drum 
+
+https://youtu.be/w_4hL2Xw5qU 
+
+I still want Corbyn as PM. His angle probably is  pullimg himself out of any controversial pos so Cons destroy themselves thorougly.. Hopefully this doesnt harm Labor in the process.
+
+---
+
+https://twitter.com/kaffjamesnewtow/status/1133408952891400192
+
+"Nikola Founder Trevor Milton Wants to Build iPhone of Trucks"
+
+"We stopped taking preorders after $14 billion of orders, and I’m sold out for eight years right now."
+
+".. We refunded all of our deposits because we didn’t want people to think we were using their money to fund our company. We have no debt. That was an important thing to me."
+
+H2 is not only a better form of energy storage, it also attracts non-charlatans, solid thinkers.
+
+---
+
+
+
+
+
+
 
 
 
