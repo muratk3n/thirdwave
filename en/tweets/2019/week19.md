@@ -237,9 +237,64 @@ USD being the reserve curr is helpful too of course. Foreign countries constantl
 
 ---
 
+Khaaaaaaaaan!
 
+https://www.youtube.com/watch?v=-MTRxRO5SRA&feature=youtu.be
 
+"Let's teach for mastery -- not test scores | Sal Khan"
 
+---
+
+I appreciate the pro public, left positions of Corbyn. And I wish he was more gutsy on Brexit. He should have presented Brexit as an hapless Con party abdicating its responsibility to govern and hammer them on that night and day. Labor got hit pretty bad on local elections
+
+I saw him on one recent interview, they asked what he voted for, he was like with a hat-in-hand sheepishness "I voted for remain" with lowered head and everythg. "I'll clean shoes for a pence mam.." Like what? U need to be swingin it and slam it on the table, bam! Remain biatch!
+
+---
+
+Judging by the Hedges interview new Taibi book Hate Inc is probably covering Third Wave changes in media.
+
+---
+
+That's partly true but you _helped_ make that block what it is (IMO US also encouraged a UK inside EU). While in, they gave u the best deal ever. On and on
+
+"Ok u say UK better off in EU. But if out we have to follow its rules, that's unfair, we are being bullied by larger block"
+
+---
+
+@_JohnMola
+
+"Finishing a PhD is like finishing a group project where your partner made a ton of mistakes at the beginning of the assignment. Except your partner is just you 4 years ago."
+
+---
+
+Yang's UBI will be given _together_ with M4A, if u opt-in for UBI single-payer is not lost.
+
+---
+
+BTW, M4A is actually _better_ than the Canadian single-payer system in many ways. So it's both cheaper than the existing US system (if u can call it that) and will give better results (see Canada).
+
+---
+
+The comment is patently false. Not denying healthcare is the centerpiece of Sanders' plan. 
+
+I am sure that news item terrified FN viewers. 
+
+"Single-payer health care means you might be denied surgery for being too fat" - Fox News
+
+---
+
+@cxptainflint
+
+"Fun fact: RDJ has been geeking about nanotech since years and it was
+actually a part of Iron Man 2 (you can see the deleted scenes) but it
+was cut because too complicated. He said during an interview that Tony
+probably made Bruce nano pants"
+
+---
+
+Isrl / Pal is a slow moving war anyway. Noone should be surprised when rockets fly sometimes.
+
+---
 
 
 
