@@ -227,3 +227,19 @@ Public op is fickle. Plus ppl are morons on policy anyway, the way I am about de
 
 ---
 
+Yang Shapiro debate on  circums., not a good move for AY. Now u'll be associated with balls  n dicks and n ass hair. I understand wanting to get publicity bit this is not a good one.
+
+---
+
+Golan recog; I dont care. It's already the status quo, Israel would never give it up short of a loss during a war anyway. It wouldnt be part of any Pal rel nego with these "swaps" we are hearing abt, so whatever. Syria is in no position to take it back, after yrs of civil war.
+
+---
+
+At my hotel room's wall
+
+![](hotelwalldream.jpg)
+
+#dubrovnik
+
+---
+
