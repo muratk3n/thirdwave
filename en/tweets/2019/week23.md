@@ -1,4 +1,31 @@
 
+Or maybe Blyth is right, Corbyn doesnt care if Labour is hurt a
+little, as long as Cons are destroyed totally. This is a one-time back
+bencher who must have had a terrible time during the 80s with
+Theatcher in UK and Reagan in US.
+
+---
+
+Planet 369? Yeeeah.. I dig it ✌ The theory goes some1 high up met an
+alien. How do we know? A time traveler said so. Far out.
+
+---
+
+"Wall St. climbs as weak private jobs data boost rate cut hopes" :| 
+
+---
+
+Peter Altmaier of DE was pro-BEV? That fat-lipped son of a bitch. They
+say he also had a hand in Germany's Syrian refugee crisis in 2015.
+
+---
+
+"In a shift towards greener aviation, @NASA will fund research in an
+electric aircraft platform that uses cryogenic liquid #hydrogen to
+store #energy."
+
+---
+
 "“It’s market competition that delivers these benefits, not advances in technology," says EFF's @EFFFalcon about the hype surrounding 5G."
 
 Haha.. this is better. "Battle for 5G" is hiding a bigger suck.
@@ -156,6 +183,19 @@ nytimes.com/2019/06/02/world/middleeast/crown-prince-mohammed-bin-zayed.html
 warontherocks.com/2019/05/exporting-the-gulf-crisis/
 
 
+----
 
+Bootyjudge talking abt college debt: be careful son you might get
+confused for a progressive. What will come of your image then? :o
+
+---
+
+https://twitter.com/DoveyWan/status/1131372473482711040
+
+I remembered clearly how I turned from a physics hater into a lover after my dad bought me the  Feynman Lectures on Physics and played with me on some intriguing optics experiments
+
+Able to read  and experiment  are the best tutor of all
+
+---
 
 
