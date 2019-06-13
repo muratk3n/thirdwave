@@ -117,13 +117,113 @@ gesticulating when answering ppl #venice
 
 ---
 
+Some1 needs to go to these folks w carbon capture tech and install it for them. Most new ones are in China too, as brother Birol says, the new ones r the big problem.
 
+Then there is methane..
 
+@DriveH2
 
+"This is a great reminder as to why we need to invest in #CleanAir initiatives. "In blow to climate, coal plants emitted more than ever in 2018." @washingtonpost"
 
+---
 
+@hodgestar
 
+Essentially everything I've seen, heard or read since I was born is copyrighted and will remain so until after I die. The sum of my experiences, I am one giant walking unlicensed derivative work.
 
+---
 
+Weinstein saz bboomers created a bubble in all things; r. estate, stock market, media, and most of all, in physics. I was thinking the same a while back. Str. Thry is nuttin but a Ponzi scheme to lull more and more suckers in, as it grows, it seems even more import., n on n on..
 
+---
+
+What would it to design, mass produce foldable H2 kick scooter  I wonder. The tank would be a little canister, fillable thru electrolysis from a wall plug, or exchangable canisters at gas stations..
+
+---
+
+@CodeWisdom
+
+“As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be.” - Jeff Atwood
+
+---
+
+Counterpart cancelled - great. Show was dreary and ppl looked old as f--k. Another multiverse show bites the dust.
+
+---
+
+Android on PC -; I am fine with this. Termux changed
+everything.. Android everywhere is now palatable. If G. allowed
+multilang support for native app dev as well, it would be even
+better. Serving apps over Termux / Flask is fine 4 now, sayin just in
+case.
+
+https://www.youtube.com/watch?v=UgKFBgcyyAo
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s times like this with Jack that I feel justified in my decision to not  explain animal behaviour with stuff like insight, reasoning and higher-order cognitive processes.. <a href="https://t.co/HpIFl5Ej1G">pic.twitter.com/HpIFl5Ej1G</a></p>&mdash; Mark Haselgrove (@MarkHaselgrove) <a href="https://twitter.com/MarkHaselgrove/status/1110799705800355841?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Sad
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Back at the day job <a href="https://twitter.com/bhgreeley?ref_src=twsrc%5Etfw">@bhgreeley</a> and I grabbed a great interview with Bill Rhodes, the man behind the Rhodes Center for International Economics at Brown. He wrote the book on sov debt negotiations. So we talked Venezuela and what comes next. <a href="https://t.co/AgBQ18Xz7n">https://t.co/AgBQ18Xz7n</a></p>&mdash; Mark Blyth (@MkBlyth) <a href="https://twitter.com/MkBlyth/status/1110708162179551232?ref_src=twsrc%5Etfw">March 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"But see EU passed Article 13, it is censorship, we [UK] are getting out on time"
+
+UK has nanny laws of its own, so u r in no better position outside than inside. You belong together in more ways than u know.
+
+---
+
+@SenSanders
+
+The Senate Republican Budget: 
+
+- Throws 32 million off healthcare 
+- Cuts Medicare and Medicaid 
+- Kicks 175,000 kids off Head Start 
+- Denies nutrition assistance to 5 million pregnant moms and babies 
+- Provides more tax breaks to the Top 1%
+
+---
+
+"China’s Hydrogen Economy Is Coming"
+
+https://www.bloomberg.com/opinion/articles/2019-03-23/now-china-wants-to-lead-the-world-in-hydrogen-fuel-cells?utm_content=buffer86b02&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+---
+
+Gerbs is on cnbc, saying Apple is  "relatively cheap".
+
+---
+
+@Andrew_Adonis
+
+Striking similarity between end of poll tax & end of Brexit. In weeks before Thatcher’s fall ever more absurd & convoluted attempts were made to keep it alive. But only viable course was to scrap it entirely & remove Thatcher
+
+Revoke Article 50. Remove May. It’s that simple
+
+---
+
+1000 km? Are you kidding me?
+
+That means you could nearly cover Texas from one end to the other on a single tank.
+
+"@grove_auto brand launched today with presentation of the Obsidian Development car.  #hydrogenFuelCell mobility, >1,000 km range"
+
+---
+
+I'd ban referandums triggered by politicians using a Constitutional amendment. 
+
+Only people should be able to trigger a referandum, the way the recall election was triggered in California.
+
+When pols trigger ref, they chose a time, the issue favorable to them. This is not democratic. 
+
+Public op is fickle. Plus ppl are morons on policy anyway, the way I am about dentistry or beekeeping.
+
+---
 
