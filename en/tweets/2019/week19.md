@@ -296,7 +296,30 @@ Isrl / Pal is a slow moving war anyway. Noone should be surprised when rockets f
 
 ---
 
+Hailey is wrong abt that. That kid (Un) controlled all aspects of that ascelation, and got a face to face with DJT. He did all that to be seen as a respectable partner. Then he ended up with "denuke or else". A let down.
 
+"NK came to the table bcz we were tough with sanctions".
+
+---
+
+@andrewchen
+
+"1/ Hypothesis: The primary way that techy bicoastal millennials interact with the vast underclass of millions of hourly workers is in Uber cars. Riders talking to drivers. Uber is creating the forum for folks to learn about each other, and what we’re learning disappoints us"
+
+"2/ In turn, this emotion is redirected at the company, when in fact we all need to get smarter about what’s going on in our economy. There are 80 million hourly workers, who don’t have benefits and income security. Their jobs turn over 100%+ annually. They have zero savings."
+
+"10/ It’s something we have to figure out, because the majority of the economy actually looks like this, not just Uber. And as many of you know, automation, robotics, and technology will just accelerate this even further. This is something that needs to get figured out"
+
+"11/ The conversations you’re having in your Uber cars — that’s just the medium. The message is deeper, and more profound: 80 million hourly workers without benefits. $38k in debt. Can’t cover $400 in expenses. 100%+ turnover in their work. Think about that.'
+
+---
+
+It's unbelieable at first, the first black President, the first genuine modern left, and a reality show star with by then zero political experience all came to prom. / reached high office after running against Hillary. I guess it's true what they say many find her unlikeable.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Rich kids are way more likely to grow up to be artists. And that&#39;s because capitalism doesn&#39;t give us all the freedom to reach our creative potentials. <a href="https://t.co/SK2ViQ2gI8">https://t.co/SK2ViQ2gI8</a></p>&mdash; Jacobin (@jacobinmag) <a href="https://twitter.com/jacobinmag/status/1124720348761432064?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
