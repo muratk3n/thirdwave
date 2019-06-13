@@ -279,6 +279,187 @@ Finally for once I can smirk when ppl who didnt read the books on a series ask a
 
 ---
 
+https://twitter.com/robertghrist/status/1123401220687896577
+
+why learn differential forms & stokes' theorem? 
+besides the usual applications in physics, there are some lovely novel applications in data science...
+it's time for the grand finale from the calculus BLUE project...
+1/15
+
+---
+
+@stucchio
+
+At @getsimpl we're almost done porting all our data processing from Spark to @dask_dev. Our daily parsing runs twice as fast, in spite of the #dask version doing extra work. 
+
+Don't understimate the cost of java -> pyspark serialization/IPC.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I remember this as if it was yesterday. It was the beginning of Bosch realisation of the future of electrification. <a href="https://t.co/NCuWFz0Jl8">https://t.co/NCuWFz0Jl8</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1123337492680384514?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+There is no democracy in Venezuella. If that's your jam, all bets are off. You go, I dont care.
+
+Morsi is elected, great. Does not act democratically, toppled, I dont care. New guy, fine. Building democracy, has elections? Great. If not, toppled, you guessed it, dont care.
+
+---
+
+@zerohedge
+
+“I do not recall a society that printed its currency at a rate faster than the productive power of its economy and not encounter a rapturous inflation which ended in tears” - Harley Bassman, inventor of MOVE
+
+---
+
+All landfills (for garbage) need  to have a methanol production facility. I would give that tech freely to any country who needs it, India, China..?
+
+---
+
+@InternetHippo
+
+"REPUBS: 18 people should own this country, everyone else can eat shit and die
+
+DEMS (staring at dry erase board): What should our message be"
+
+---
+
+Wut? I heard this from a politico didnt believe at 1st. He said more polling is needed for detail. But if true.. damn.
+
+"Trump's job approval among Latinos and Hispanics has risen to 50 percent, according to a PBS/NPR poll."
+
+It's almost as if citizen Latinos dont want other illegal Lationos. 
+
+That self reliance, land of oppo shit is all fine, but he take one look at his white citizen brother on opis and thinking that m..f..ka is me or my offspring after a few gens.
+
+Then they gon wipe him out wit more open borders while he goes bankrupt from catching a cold. Yeah it kinda makes sense actually.
+
+---
+
+Yea that T. Pool guy is kinda annoying. But he was the right guy to grill Dorsey. Good choice.
+
+---
+
+@stochastician
+
+Salesforce really is the Emacs of CRMs. Impossibly old, incredibly configurable, has its own embedded scripting language, all sorts of apps written on top of it (ServiceCloud is GNUs! ) and power users can play it like a piano but new users can’t figure out how to save a file.
+
+---
+
+"The largest auto-parts supplier in The World, Robert Bosch, is placing a bet on the future of #H2 #fuelcells used for mobility."
+
+---
+
+Aaah Feynman does some stuff with the ammonia molecule in Lecs Vol 3 (calculates the Hamiltonian).
+
+---
+
+"Bosch abandoned #battery cell production and now invests in production of #fuelcells - interesting strategic move"
+
+https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html
+
+---
+
+It takes leadership to start those grassroot campaigns doesn't it? ;)
+
+---
+
+Single-use plastic: ban. No questions asked.
+
+Farting cows: no more cows, cow meat. Synthetic meat, gobble gobble meat, etc.
+
+Nuclear, fossil fuel: slowly unplug.
+
+Kill the grid. Pipes not wires.
+
+Planes, buses switch to H2 immediately.
+
+---
+
+I wonder if High Horse types gravitate toward half-assed dimwit
+solutions bcz deep down they want to exercise their "regal muscle" and
+want to see how many they can lead even into a stupid solution (the
+type is a king who cannot be).
+
+---
+
+Hear hear goldcuck ... (Kyle Bass on gold)
+
+https://www.youtube.com/watch?v=IZP7FIu_O2I&feature=youtu.be&t=1316
+
+---
+
+Interesting. "Did you know that anything created by American federal government employees can’t be copyrighted? - EFF"
+
+---
+
+Some sneer at Silicon Valley "solutionism". I like their spirit and the solutions when they work. But some are in the vain of "well there is inequality so .. Im gonna build a robotic arm to .. with AI .. on the blockchain.. [blah]". This is the "solutionism" ppl dont like.
+
+---
+
+Ja aber hallo arschloch. Falsche technologie.
+
+"Audi hat Produktionsprobleme beim e-tron"
+
+Keine Fahrvergnugen fur dich
+
+---
+
+Physicist have all the tricks #math
+
+Weinstein is right; these are some of the smartest ppl in the world, who in their free time invented molecular chemistry.
+
+---
+
+Booorrriiiiing
+
+https://muratk3n.github.io/thirdwave/en/2018/12/linc-bi.html
+
+Rep. Eric Swalwell: "I pledge to lead our country with a team of rivals"
+
+https://twitter.com/thehill/status/1117616280473874437
+
+---
+
+Learned something from Endgame. If you want to solve time travel, you calculate the eigenvectors of a Mobius strip 
+
+---
+
+This is Barbara Streisand-ish platitudism. "Why are there two parties can't they get along and agree?" No bitch. Haven't the Clinton era taught you anything?
+
+https://twitter.com/LukewSavage/status/1122297767324307456
+
+@GeorgeTakei
+
+"Will you join me in pledging not to speak negatively about any of our candidates? We don’t know who the nominee will be, but they need to be as strong as they can be going into the election against Trump."
+
+---
+
+"Most of us don’t know what a geometric modeling kernel or solid modeling kernel is, but every CAD or design application uses one to create shapes. It’s the underlying infrastructure that allows someone to do the math of CAD design"
+
+https://twitter.com/chr1sa/status/1122219434301485057
+
+---
+
+I appreciate the intent but the tweets by the Mrs are too much like the messaging of the Just Say No campaign by Nancy Reagan. 
+
+Wouldnt it be better to go after corps who pay zero tax, and not give them a tax cut which they would use to buy back their stock anyway?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
