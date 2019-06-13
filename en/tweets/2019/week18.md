@@ -148,12 +148,136 @@ ppl now cannot touch - the stock market and real estate.
 
 ---
 
+Hard left is hard left. If there is industrial →, there should be
+industrial ←. Min wage, etc. I wont stand in the way of that. Should
+inmates vote or not? Butt-a-geek says no, Kamala is like "let's think
+abt this (lukewarm nonsense)", Bernie says YES. That's ←.
 
+---
 
+@peteronyisi1
 
+"I must admit to a certain unease when particle physics schools spend more time on machine learning than on how detectors work"
 
+---
 
+I also see sabotage on key fossil fuel infrastructure.. It  might get pretty bad.murat k. added,
 
+@billmckibben
+
+"We're getting close to the moment for all-ages climate striking. Keep your eyes peeled, and thanks to the youth for being out front!"
+
+---
+
+@H2Bjorn
+
+“We know battery math about as good as anyone in the world,” Milton said.  
+
+“The battery costs have gone up 25% to 30%. They’re not coming down. The more people who jump in, the more expensive it gets.” 
+
+“It’s not one silver bullet,”
+
+---
+
+In case of bankruptcy bond holders are served first. Equity holders nearly dead last. 
+
+It still pays to pick good companies for bonds of course, bond investors can lose too, if the collapse is big enough.
+
+"Why buy debt when you can buy equities?"
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thing is, you cant even physically fit 120 cars at a servicestation. Anyway, great to see UK MPs getting it. Kämpa <a href="https://twitter.com/IsabellaLovin?ref_src=twsrc%5Etfw">@IsabellaLovin</a> <a href="https://twitter.com/IbrahimBaylan_?ref_src=twsrc%5Etfw">@IbrahimBaylan_</a> <a href="https://twitter.com/svanteaxelsson?ref_src=twsrc%5Etfw">@svanteaxelsson</a> ! <a href="https://t.co/8Bg9g12roa">https://t.co/8Bg9g12roa</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1124013466883432448?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Some1 organizes a coup in Venezuella (other than my own country) and Maduro goes - dont care. Live by the sword (nondemocracy) die by the sword (coup). No need to outrage over "oh no Maduro cant go!".
+
+---
+
+Zombies Time of the Season keyb solo, not bad..
+
+https://www.youtube.com/watch?v=qzpPy9hJYA8&feature=youtu.be&t=159
+
+Almost as good as
+
+https://www.youtube.com/watch?v=LCnebZnysmI&feature=youtu.be&t=238
+
+#music
+
+---
+
+Fahrvergnugen
+
+@ANativeAngeleno
+
+"Daimler conducted an environmental check on the Mercedes-Benz GLC F-CELL, in which the environmental effects of the car are examined over the entire lifecycle. More at  http://ow.ly/fL0E50rsoFA .  #driveH2 #fuelcell #hydrogen"
+
+---
+
+Finding water, organic matter, o2, etc in space does not surprise me. That stuff mostly came from space to Earth anyway. We are all aliens.
+
+---
+
+You know nothing abt the countries you speak about. This ain't a theoretic exercise. These ppl live in hell with some 10% having fled the country already #venezuella
+
+---
+
+A coup is the same thing as the absence of democracy, left. Why do you care if it happens?
+
+---
+
+@zerohedge
+
+"Dear chair Powell: how do thousands of zombie companies and cashflow negative disrupters which exist only thanks to ultra low interest rates and constantly cut prices to gain market share, impact inflation?"
+
+---
+
+"This is “office hours” for a CS class at Cornell. Demand & supply of CS educators here totally out of wack. I assume many schools are facing the same problems with the sudden uptick of interest in the CS major."
+
+https://twitter.com/juliankoh/status/1123334738608099328
+
+@pkedrosky
+
+"If only there were other ways of learning computer science than via
+professors and lecture theaters."
+
+---
+
+Uwww terrible "Joe Biden took his son Hunter on official trip to China – ten days before communist regime's bank signed deal with private equity firm Biden jnr runs with John Kerry's son"
+
+China: here, have a BILLION dollars. Let our govs be on the up and up, okay? Gr8. Nice to do business with you. 
+
+Money be FLOWIN up in this m..f..ka.
+
+Bernie is well positioned for an attack from this direction. And Trump, pfff, he'll light him up like a Christmas tree.
+
+---
+
+I feel bad for brother Bama. Everybody's having a feast but he is not eatin? I guess they figured post Prez he can cash in with books and such..
+
+---
+
+Yeah open season on this guy. He needs to be limpin to that convention, if he ever gets that far #biden
+
+---
+
+I read somewhere there isnt enough Lithium in the world for the amount of storage needed for a Li-on battery oriented solution. This so-called approach is already DOA.
+
+---
+
+Using Stokes Thm (essentially an integral) to compute which time series frontruns the other? Sheeeet. Imma drink that math like fine wine foo.
+
+---
+
+Foundation series in the works. TV land, dont f..k this up for me.
+
+https://m.imdb.com/title/tt0804484/?ref_=fn_al_tt_0
+
+Finally for once I can smirk when ppl who didnt read the books on a series ask a question.
+
+---
 
 
 
