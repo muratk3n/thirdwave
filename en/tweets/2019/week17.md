@@ -248,9 +248,79 @@ That's why when that bio guy at Google "speaks his mind" you fire the son of a b
 
 ---
 
+Best casting was on Battlestar Galactica. Moore said his criteria was "not caring" abt race, gender at all. That's where you want to be, getting the best actor for the job. And it shows.
 
+---
 
+I wonder John Wick is a way for Dem liberals to deal.. a part minority race character killing everyone (pro immig message, showing strength)? Espec. JW 2 and 3, both post 2016.
 
+Maybe the Matrix had some of that too.. a Woke cast? I never saw it that way but some ppl might have.
+
+---
+
+I do talk about greater access, say on ed. But my point for greater access is to reach untapped off-the-charts talent. Not to reach some average schmoe (on certain topic, on others s/he could be genius).
+
+---
+
+Marketing. Shit sells better if you pander to the crowd. Tubers are the worst. They have to fill time, pander to crowd, act like the viewers are wonky, intelligent pol ops, when in fact they really aren't. You lay out minutae, help filtering, you _become_ their political leader.
+
+---
+
+Buttigieg didn't say Bernie and Trump supporters are the same. He said they were the result of ppl's misery. Did not call one good, the other bad, left that somewhat opaque, did not automatically praise Bernie... Hey, he is running for prez himself; why should he?
+
+---
+
+Gaylord Focker
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">classical applications of green&#39;s to area have a modern update: consider a swarm of drones that detect the boundary of a region (say, a forest or a forest-fire). can they estimate the area in a decentralized manner? yes, and the formula is a path integral over the boundary. <br>2/13 <a href="https://t.co/LR4LPGp6zN">pic.twitter.com/LR4LPGp6zN</a></p>&mdash; robert ghrist (@robertghrist) <a href="https://twitter.com/robertghrist/status/1120314720446242816?ref_src=twsrc%5Etfw">April 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Goldwater Republicans.. Au H2O! I cant think of any... Aahhnuld and McCain maybe?
+
+---
+
+"'I find it unsatisfactory to 'classify' PDEs: this is possible in two variables, but creates the false impression that there is some kind of general and useful classification scheme available in general.' -- Lawrence Evans"
+
+---
+
+Zizek: That was masterful explanation with Bhagavad Gita, Himmler (Peters. debate).
+
+---
+
+Dude says he can go 10 km on 1 ltr lng. IN A 3 TON CAR. 
+
+So >200 km on single butane can for <100 kg checks out IMO.
+
+---
+
+D. Miller was on top form.. He calls Biden "the third guy in the car in the Sonic commercial", "he looks like the guy who thinks bottled water tastes better once you shake it".
+
+---
+
+The guy who spearheaded a lot of the H2 use in US was tigga. But there is only one H2 station in Istanbul. Sad.
+
+---
+
+BEV blows. Oh wait...
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">More video of the exploding <a href="https://twitter.com/search?q=%24tsla&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$tsla</a> in Shanghai <a href="https://t.co/n6NotMzlw9">pic.twitter.com/n6NotMzlw9</a></p>&mdash; BertelSchmitt™ 🎩🎩🎩🎩🎩 (@BertelSchmitt) <a href="https://twitter.com/BertelSchmitt/status/1120146258461507584?ref_src=twsrc%5Etfw">April 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Really? So someone can just read Vol II Ch 19 and just GET Lagrangians, the principle of least action? 
+
+The exp is very good sure; but u need to know diff eqns to appreciate it IMO.
+
+"[In his Fey Lecs on Pys] Feynman explained physics in a way anyone can understand"
+
+---
+
+I wonder what the energy carrier efficiency of a long-distance electrical wire is and how it compares to a gas pipeline. If pipeline is better I will LMAO.
 
 
 

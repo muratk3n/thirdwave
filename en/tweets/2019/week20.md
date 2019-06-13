@@ -347,8 +347,9 @@ https://www.youtube.com/watch?v=4-rj1gVl6vs&feature=youtu.be&t=1420
 
 ---
 
+Much was made by Gingrich's temper tantrum during the 95 budget debacle. To many the event sounded petty, deplaning from a different door, not fit 4 their position, being a cry baby etc. But the thing was final drop IMO on a series of events. He was not consulted on a budget deal
 
-
+"We got this all covered, now all that is left for you others (Reps) to show up and vote yey to what we say". Centrists dont realize this drives others insane and they do all they can to undermine you.
 
 
 
