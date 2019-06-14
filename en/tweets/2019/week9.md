@@ -225,24 +225,170 @@ This is the film industry's highest 'honour' for an actor of Middle Eastern orig
 
 ---
 
+Hmm.. code for work is WHO YOU ARE; but if ppl are working on what they like, wout pay, I wonder if that still counts. So UBI could be fine in that sense.
 
+The code for money is PROOF tho, so that could be a problem. Unless money eventually received from work while being supported by UBI is sold as a positive.
 
+This is how you deal with codes; u dont solve based on them, only morons do that, think culturally. U sell to them.
 
+---
 
+There is no way 1st attack was triggered by Imran Khan.
 
+---
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The automation of labor has been going on for years. We automated away 4 million manufacturing jobs starting in 2000. Many of those workers left the workforce and our labor participation rate dropped. Today it is around 63.2%, near a multi-decade low and the same as Ecuador. <a href="https://t.co/HRfcSIzfqd">pic.twitter.com/HRfcSIzfqd</a></p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1100769852577509376?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
+“Experiments in Robotic Catching” (1991-1995)
 
+Cool work done by Jean-Jacques Slotine's Nonlinear Systems Laboratory at MIT more than 20 years ago. Their website also looks like it was created at around that time: http://web.mit.edu/nsl/www/ 
 
+---
 
+https://twitter.com/A50Challenge/status/1100776260421206016
 
+“May’s lawyer admits the EU referendum was unlawful” 
 
+"Well. 
 
+That’s fucking awkward. 
 
+Do please RT."
 
+---
 
+@markcadams
 
+Anyone know whatever happened to the Axis of Evil? Those guys used to be huge.
+
+---
+
+People of cold or mountaineous places arent better against cold or good at climbing. They dress better, and learn to orient.
+
+---
+
+Haha.. good move - very kung-fu. 
+
+https://youtu.be/LUolzAltwKI?t=32
+
+AY is Taiwanese-American (2nd gen), not mainland Chinese. 
+
+Looking better every day, this guy.. good good.
+
+---
+
+Goldcuck, sorry goldbug, is right on one thing. US looks like a colony of China, where US sends raw, farm products, and in return gets finished, manufactured products. 
+
+Did manufacturing come back to US lately? Will the new deal allow exporting of services? Kinda hard but maybe.
+
+---
+
+@H2Europe
+
+"Belgian scientists are cracking the code for affordable #greenhydrogen: Researchers from the @LeuvenU have succeeded in developing a special #solar panel that makes #hydrogen gas from the moisture in the air. (article in NL) #HydrogenNow @KU_Leuven"
+
+---
+
+@HexagonASA
+
+We are excited to announce that Audi has selected us for a #hydrogen development project
+
+---
+
+Orienteering 
+
+http://www.diva-portal.org/smash/get/diva2:1230037/FULLTEXT01.pdf
+
+Of course it's a thing in Norway.
+
+---
+
+"In 1959 Swiss men took part in a referendum on whether women should
+be allowed to vote in general elections. Two-thirds said no. Women
+didn't get the vote until 1971"
+
+---
+
+Yeah you did ... 
+
+So I have a friend, he thinks u did the announce, then grabbed it.
+
+"When Satoshi announced the first release of the software, I grabbed it right away" - Finney
+
+https://twitter.com/joeydiblasi/status/1100335635330752512
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The teens who listen to &quot;mallwave&quot; are nostalgic for an experience they’ve never had -- <a href="https://twitter.com/HKesvani?ref_src=twsrc%5Etfw">@HKesvani</a>/<a href="https://twitter.com/WeAreMel?ref_src=twsrc%5Etfw">@WeAreMel</a> <a href="https://t.co/dyiM4SNatq">https://t.co/dyiM4SNatq</a></p>&mdash; Digg (@digg) <a href="https://twitter.com/digg/status/1091104592425877505?ref_src=twsrc%5Etfw">January 31, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Great gif
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For all you fucksticks who spewed shit at me, my dog, my mom, my mom’s dog, my dog&#39;s mom, my head size, body size, intelligence, my mom’s intelligence all because I missed a couple hammer locks save your ridiculous fuckin insults for shit that matters in life. <a href="https://t.co/7CaZtSvmq2">pic.twitter.com/7CaZtSvmq2</a></p>&mdash; 🤑 MIKEY LOCKS 🤑 (@Mikey_Locks) <a href="https://twitter.com/Mikey_Locks/status/1096128438224605184?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+World is getting freakier but occasionaly, it is hilarious.
+
+---
+
+@myusuf3
+
+"you fools who like mayo with their fries must be loving this. long ketchup."
+
+@bkjones
+
+Replying to @myusuf3 @KraftHeinzCo
+
+The SEC no doubt caught wind of “mayochup”.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">you fools who like mayo with their fries must be loving this. long ketchup. <a href="https://t.co/u1QrNDsnd9">pic.twitter.com/u1QrNDsnd9</a></p>&mdash; Mahdi Yusuf (@myusuf3) <a href="https://twitter.com/myusuf3/status/1099064152482471936?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Mot..f..ka u didnt know a goddamn thing abt any of that. Who u
+bullshitting now? Here talk to the hand ✋. It'll listen to you.
+
+"When I voted 4 Brexit I was fine with WTO terms"
+
+---
+
+https://slate.com/technology/2019/01/5g-mobile-wireless-network-hype-consumers-fcc.html
+
+"Telecom Companies Are Seriously Overhyping 5G Networks
+
+The marketing gimmicks would be hilarious if they didn’t come with potentially major consequences."
+
+---
+
+Pervasive computing is not all abt AI BTW. Being able to do scientific computing at scale, on the go is. U can compute some crazy PDE on mobile now.. fluid dynamics, heat eqn, wavefront dynamics (which can be used as shortest path algo). How cool is dat?
+
+---
+
+Right; US has Blackwater. And Russia has Wagner Group.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you can&#39;t tie your shoes because they got an update: you deserve this</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1100104876456140800?ref_src=twsrc%5Etfw">February 25, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;the sneaker can’t be tightened or properly worn&quot; because there&#39;s a bug in an update<br><br>what a time to be alive <br><br> <a href="https://t.co/RnApmNGsi6">https://t.co/RnApmNGsi6</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1100098686170947587?ref_src=twsrc%5Etfw">February 25, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Most observers believe Maduro’s dictatorship collapses soon. Millions of Venezuelan expatriates eagerly hope for his demise. Millions in the country starve or face military oppression and death. https://buff.ly/2tEpLLA  #Venezuela #Cuba #Maduro #Guiado
+
+---
 
 
 

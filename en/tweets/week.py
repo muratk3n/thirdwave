@@ -1,2 +1,2 @@
 import datetime
-print (datetime.date(2019, 3, 1).isocalendar()[1])
+print (datetime.date(2019, 2, 24).isocalendar()[1])
