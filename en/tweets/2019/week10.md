@@ -128,3 +128,69 @@ Good idea
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+
+Books like Black Swan by "Habib Tabibi", or Tipping Point, Blink came out at a point when US was feeling down on itself, and seeking "alternatives" in thinking. The need might have been justified but it ended up with lota weirdos.
+
+---
+
+Uww
+
+@moonpolysoft
+
+"kuberbetes is just websphere for millennials. I shan't be reading any replies,"
+
+---
+
+Interesting
+
+@chr1sa
+
+"Another weekend, another ho-hum VR experience. We've tried every VR/AR
+device made for the past 10 years--every version of Oculus, Hololens,
+Magic Leap, Microsoft Mixed Reality, Google DayDream, Vive, PS VR--and
+the kids have given up.
+
+It's as bad as 3D TV. Pointlessly gimmicky"
+
+---
+
+No Bernie "did not lose his way" by (also) starting to pay attn on identity stuff. He already has command and cred on the economic ineq area;  now he can push his way toward the other dir 1) to gain Dem nomination 2) they are not completely a nonissue
+
+---
+
+OOOooooOo #UK gov recently cancelled its plan to electrify their train lines and the reason for it is a new way to electrify - #Hydrogen & #fuelcells
+
+---
+
+"In Saudi Arabia, men can download a wife-tracking app on their phones. Created by the Saudi government, the app will send out a text alert if a wife heads for the airport, or the border."
+
+---
+
+"A few degree changes. why does that matter?" I dont know... do you want to keep Miami? Shangai? With 3C change, they are both gone.
+
+---
+
+UAE is making some moves on electrolysis
+
+---
+
+Dont fight what is easy with tech. Make it easier.
+
+"EFF: Studies Keep Showing That the Best Way to Stop Piracy Is to Offer
+Cheaper, Better Alternatives"
+
+---
+
+"so that we are viewed as.."
+
+Sad.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Amazing ad, really. <a href="https://t.co/6k1L6utcrK">https://t.co/6k1L6utcrK</a></p>&mdash; (((ل()(ل() &#39;yoav)))) (@yoavgo) <a href="https://twitter.com/yoavgo/status/1101946621166866432?ref_src=twsrc%5Etfw">March 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+
+
+
+
