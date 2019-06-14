@@ -231,7 +231,160 @@ population doctrine"
 
 https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990
 
+---
 
+Thiel fashions himself a philosopher but he really isnt that smart. He regurgitates known points albeit from a different angle making sure he comes across "contrarian", as "the rebel".
+
+But the alphabet is limited. If all u have is A,B,C u can rearrange these letters in so many different ways before u run out of options.  He dont got D,E,F, so PT is mostly running in circles. 
+
+Then there is Musk.
+
+If these two fockers are the best SV got, there is a big problem
+
+---
+
+Tories need to cancel Brexit, call for a general election and suffer the consequences if necessary. They need to take one for the team. All this nonsense is their fault anyway.
+
+---
+
+Replace socalism with centrism, I agree
+
+@MiaFarrow
+
+Elizabeth Warren has called for ending the Electoral College. I agree.  It once served a legitimate purpose- that time has long passed #EndElectoralCollege
+ 
+@rcwhalen
+
+Replying to @MiaFarrow
+
+"Nope. Do we want to be ruled by the festering urban cauldrons of socialism? Electoral college protects non-urban America from crazed metro tyranny...."\
+
+---
+
+@gabrielamadej
+
+you are not your job, you're not how much money you have in the bank. you are not the car you drive. you're not the contents of your wallet. you are not your fucking khakis. 
+
+you are entirely defined by the quality of your tweets
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone today said I’m campaigning for the Federation.</p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1107775352351477760?ref_src=twsrc%5Etfw">March 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Typing \C-x\C-c on Termux Emacs through cell phone keyboard (there is an icon for  CTRL!) is an absolute gas. Lovin this thing.
+
+---
+
+@jelani9
+
+One point that the college admissions scandal reminds me of: actual
+imposters almost never suffer from imposter syndrome.
+
+---
+
+Interpreting physics news: if something sounds too scifi to be true, it probably is.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Once again: Scientists did not &quot;reverse time&quot; and did not &quot;break a law of physics&quot;. <br><br>Correct story: Some processes are reversible. Entropy can decrease locally. We have known this for a long time. Great experiment - yes - but no time reversal. <a href="https://twitter.com/hashtag/StopHype?src=hash&amp;ref_src=twsrc%5Etfw">#StopHype</a><a href="https://t.co/fmztAvBLHS">https://t.co/fmztAvBLHS</a></p>&mdash; Sabine Hossenfelder (@skdh) <a href="https://twitter.com/skdh/status/1107906567033245696?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+https://fuelcellsworks.com/news/stanford-researchers-create-hydrogen-fuel-from-seawater/
+
+Stanford Researchers Create Hydrogen Fuel from Seawater
+
+---
+
+@ANativeAngeleno
+
+"Hyundai, one of the companies backing hydrogen power as an alternative to battery technology, says switching to hydrogen also prevents the destruction of component jobs that would be lost by moving to electric cars. http://ow.ly/gtjR30o4YOL   #driveH2 @CaFCP"
+
+---
+
+@orla_barry
+
+France’s EU minister names her cat 'Brexit' because ‘he meows loudly to be let out but just stands there when I open the door’
+
+---
+
+Mot..f..ka.. Serbian...  Croatian... Montanegrin. It's all the same
+language. You think I'm a fool don't you?
+
+---
+
+At the country featured in Casino Royale. Where am I?
+
+---
+
+Marco.....Polo
+
+Nikola...Tesla
+
+"Nikola Motors is currently suing Tesla for $2 billion over the Tesla Semi, claiming that it copied Nikola’s design)."
+
+---
+
+@torahhorse
+
+did you know you only use 10% of your brain. god uses the other 90% to mine bitcoin
+
+---
+
+@pati_gallardo
+
+Hot take: Object Orientation was a mistake. It optimizes towards creating state, which probably should be minimized.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A nice fact I like: Every matrix corresponds to a graph, and so familiar things (e.g. matrix multiplication) have nice pictures! Another nice fact: joint probability distributions *also* correspond to graphs. They have telling pictures, too. New blog post! <a href="https://t.co/EP67IhGAr0">https://t.co/EP67IhGAr0</a> <a href="https://t.co/tqdqImhX9P">pic.twitter.com/tqdqImhX9P</a></p>&mdash; Tai-Danae Bradley (@math3ma) <a href="https://twitter.com/math3ma/status/1103328155429949440?ref_src=twsrc%5Etfw">March 6, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+I disagree strongly with both actually because of f'''(a)(x-a)^3/6.
+
+Ow slam! 
+
+@karpathy
+
+When a person says that f(x) = f(a) + f’(a)(x - a) and someone
+disagrees strongly because of f’’(a)(x - a)^2/2
+
+---
+
+"Ch. of Audi Board of Mgmt Schot, announced that the automaker would be increasing its investment in FC tech [..] scarcity of raw materials for batteries and increased supply will eventually push any automaker serious about electrification toward hydrogen as a fuel source"
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Air pollution causes more deaths than smoking <a href="https://t.co/m5ycqSYttY">https://t.co/m5ycqSYttY</a> <a href="https://t.co/thu0WLfola">pic.twitter.com/thu0WLfola</a></p>&mdash; New York Post (@nypost) <a href="https://twitter.com/nypost/status/1107477004977348608?ref_src=twsrc%5Etfw">March 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Interesting..
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1of x: BEST analysis of what really is happening on the <a href="https://twitter.com/hashtag/Boeing737Max?src=hash&amp;ref_src=twsrc%5Etfw">#Boeing737Max</a> issue from my brother in law <a href="https://twitter.com/davekammeyer?ref_src=twsrc%5Etfw">@davekammeyer</a>, who’s a pilot, software engineer &amp; deep thinker. Bottom line don’t blame software that’s the band aid for many other engineering and economic forces in effect.👇🎖🤔</p>&mdash; Trevor Sumner (@trevorsumner) <a href="https://twitter.com/trevorsumner/status/1106934362531155974?ref_src=twsrc%5Etfw">March 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Chelsea Clinton?
+
+There is a Rush Hour clip 4 every situation
+
+https://www.youtube.com/watch?v=LlDfEMzFyGo&feature=youtu.be&t=36
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tonight, I had an 82-year old Madeira.<br><br>Reader, I wept. <a href="https://t.co/vZar7lQuHB">pic.twitter.com/vZar7lQuHB</a></p>&mdash; Jeremy Bowers (@jeremybowers) <a href="https://twitter.com/jeremybowers/status/1107115798076764160?ref_src=twsrc%5Etfw">March 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 
 
