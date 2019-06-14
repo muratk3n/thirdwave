@@ -279,5 +279,43 @@ Doosan Corp is a BUY.
 
 ---
 
+Good point. 50% of ecommerce retail, but 5% of all retail.
+
+@benedictevans
+
+Reminder: Amazon has a low single digit percentage share of US retail.
+
+---
+
+That might happen; but the problem with Brexit aint that... It is whether Britain still has a ruling elite who can take advantage of a situation that is working for them while it is working for them. 
+
+It's like you are a byciclist. CAN YOU STILL RIDE A BIKE?
+
+"If EU collapses Brexiteers will be vindicated"
+
+---
+
+Some are disputing that but it is still effin hilarious.
+
+"Mere skin contact with elephant tranquilizer will give you OD"
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
