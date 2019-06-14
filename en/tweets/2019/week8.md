@@ -336,4 +336,3 @@ Is this place a dump or what? Feels like an outpost, rather than a city #lefkosa
 
 
 
-
