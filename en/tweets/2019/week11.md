@@ -187,13 +187,97 @@ Just heard someone use the word "Brextension" and I think I finally lost the wil
 
 ---
 
+So the left needs to prepare itself for the most likely outcome. When centrist implode thru Biden, you want to be far away from that so none of the shit spills on you. 
 
+That means distancing urself from the "moderates". Given a choice btw bashing them or the rightz, u bash them
 
+.. if they have a shortcoming, you bring it up. Dont wait for the "other side" to do it.
 
+---
 
+Zizek on ideology
 
+<iframe width="505" height="284" src="https://www.youtube.com/embed/TVwKjGbz60k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
+@MaxB8778
+
+"In the last 11 days we’ve learned $TSLA cannot afford to keep their stores open, but they also cannot afford to close them. #bullish"
+
+---
+
+How do artists make money wout copyright? I guarantee it Stephen King would still become a millionaire by the "lightning likes" he'll get for his books, made available freely on the Net.
+
+He would be on UBI while struggling for his first book
+
+Come to think of it, JK Rowling was on gov welfare while she wrote her first Harry Potter book.
+
+---
+
+@Rainmaker1973
+
+According to historian Yuval Noah Harari, it's been 125,000 generations since the emergence of human species, 7,500 since human physiology reached its current state, 500 since the agricultural revolution, and only 20 since the scientific revolution http://ow.ly/7xYC30nZIDb
+
+---
+
+U forgot to mention where inflation comes from - from printing
+money. If oil money is not paying for programs u cut programs. If you
+print money u create inflation ur currency collapses. #venezuella
+
+youtu dot be/OUltZmKqfmM
+
+---
+
+@shravanvasishth
+
+"MIT Open Courseware long preceded the MOOC boom, and having done some
+MOOC courses on Coursera etc., I must say the MIT model is far
+superior. It doesn't compromise (45 min or longer lectures recorded),
+and it is much closer to a real classroom experience."
+
+---
+
+And sneeze with his eyes open
+
+@timfarr23
+
+"I'm reminded that its Chuck Norris' birthday. 
+
+Remember that Chuck Norris can sharpen a pen."
+
+---
+ 
+@mkruz
+
+"The closer a restaurant is to the ocean (Slide 1: on a pier) or the sky (Slide 2: top of a tower) the worse it will be.
+
+This is my TED talk, thank you."
+
+---
+
+DJT win would be because of incumb, popularity, econ on his
+watch. Elections are about incumbents, about people, leaders not about
+the pretty "ideas" anyone puts forward. But the dumbass centrist
+spewing will coincide with the pummeling in ppls minds, so it will be
+discredited.
+
+---
+
+Actually the most likely outcome is still good for
+progressives. Frontrunner Biden gets nom, proceeds to election spewing
+his dumbass centrist bullshit, but even with econ slowdown (growth
+near 1%) gets pummeled to the ground by Trump (pred is
+clear). "Moderates" are discredited
+
+Of course I'd like Bernie getting nom (likely) and the Hail Mary win
+of presidency. That'd be a BIG Hail Mary.
+
+---
+
+Doosan Corp is a BUY.
+
+---
 
 
 
