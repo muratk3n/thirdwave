@@ -214,6 +214,102 @@ Will someone explain to me what Patreon spent $107m on—and it's not enough? Li
 
 ---
 
+No need for "smart grid" that is supposedly based on "DC energy" and will reroute energy to where it is needed. This is 90s style old-skool Al Gore environmentalism. There is already an energy carrier based on molecules, with xport infrastructure to take it where it's needed.
+
+---
+
+Hypersolar is a BUY
+
+---
+
+Yeeaa.. I'm gonna RBF, Gaussian bump ur ass m..f..ka. Just wait.
+
+![](cleohill.jpg)
+
+---
+
+Yes I dislike TFG too. And like the Orville.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We’ll take it!<a href="https://t.co/9qv6gWuFxT">https://t.co/9qv6gWuFxT</a></p>&mdash; Seth MacFarlane (@SethMacFarlane) <a href="https://twitter.com/SethMacFarlane/status/1092273154607722497?ref_src=twsrc%5Etfw">February 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Downsample to 3%, data for 1 huge grid becomes 2 MB. Sheeeeet
+
+---
+
+If u have continous func, u can get elevation data at any
+resolution. This is key for flattest path algo.
+
+Next, next step; seeing if heat flow PDE can be used to find
+path. Higher elev can be seen less thermal conductvity, start pos is
+heat source, target is sink 
+
+---
+
+Imma fit Gaussian bumps on elevation data w RBF to have smooth, continous funcs as mountains. 
+
+However 100m corresponds to 0.001 change on lat/lon. A box (20,30),(21,31) has 1 mil pts. Solution: downsample. Dude did it, reports good results on the fit.
+
+---
+
+TV guy said "Martin Luther Coon"? What a jackass..
+
+Funny story with that word. First time I heard it was during OJ
+trials. There was an OJ joke for everything. This one goes "one day OJ
+comes to the courtroom, in a Hawaii shirt, summer outfit. His lawyer
+asks him 'what is going on OJ? Why r u dressed like this?'
+
+OJ says 'I thought you said we was going to Cancun'. Lawyer says 'no,
+I said you are going to the can, coon'". Joke was triggered bcz we
+were going to Cancun.
+
+Guy who told us the joke was racially .. everything, except black,
+hence the joke I guess.
+
+Funnier thing is the same guy ran someone over with his car, while
+drunk, killing him, and went to the slammer himself for 10 years for
+manslaughter :| How's that 4 a story?
+
+---
+
+Samulelson Big Band - Boba #music
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A brilliant illustration of how much public space we&#39;ve surrendered to cars <a href="https://t.co/N5jV7T9AvK">pic.twitter.com/N5jV7T9AvK</a></p>&mdash; Farbod Saraf (@farbodsaraf) <a href="https://twitter.com/farbodsaraf/status/1091875190542348288?ref_src=twsrc%5Etfw">February 3, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+I bet she'll pay for it too
+
+'Nancy Pelosi will be begging for a wall' - Trump
+
+---
+
+Too funny
+
+"Funding for Tesla’s China factory not secured"murat k. added,
+
+---
+
+Networked termostat. Stupidest f--ing thing ever.
+
+@slavin_fpo
+
+"Why am I awakened by a freezing house in 14 degree weather? Furnace is working. Vents are well maintained. 
+
+Oh, I see why. 
+
+The goddamn @ecobee server for the networked thermostat is down. And what could go wrong, in depending on the internet to keep the child warm?"
+
+---
+
+
+
+
 
 
 
