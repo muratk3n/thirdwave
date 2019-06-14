@@ -167,3 +167,59 @@ ROFL. Rush rockin it with robes. Kinda scifi. I dig it
 
 ---
 
+Hm. RBF'd that bih m..t..kaaa.. (that was very high pitched, w lots of
+attitude).
+
+This interpolation used 600 pts. Not bad. The hill in prev photo is
+the little guy closest to viewer. It's very hilly here.
+
+![](elev3.jpg
+
+---
+
+No you cant create a cabal member, secret society, ___insert weirdness__ out of Tusk. He is a knuckle head from the streets of Warsaw. He said what he said bcz he is truly pissed at Brits and Brexiteers.
+
+What is infuriating for the EU is the curr arrangement was best for UK. Now they are asked to give some imaginative 'better' when they can't do the old best anymore.
+
+---
+
+Powercell is a BUY.
+
+I'd wait until 4 Eur tho.
+
+---
+
+R u kidding me? I get data in degree blocks based on integer part of
+lat, lon, the mountain I want is in 31.99999 and I have 32-33 ?
+
+---
+
+Dude WTF
+
+@DEFCONWSALERTS
+
+"Within the past 24 hours, France, Russia, & the US have all conducted test launches of unarmed nuclear missiles.
+
+France:  1 missile launch from a warplane
+
+Russia: 1 ICBM Yars from Plesetsk Cosmodrome
+
+US: 1 Minuteman III from Vandenberg AFB"
+
+---
+
+@librarythingtim
+
+Will someone explain to me what Patreon spent $107m on—and it's not enough? Literally, how does their simple service cost that much to make and run? Okay, I'm cheap as hell in how I run mine, but seems off by an order of magnitude to what I'd consider sufficient for the job.
+
+---
+
+
+
+
+
+
+
+
+
+
