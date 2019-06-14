@@ -74,5 +74,5 @@ despite the best efforts of people working in them.
 
 [Search](search.html)
 
-[Tweets][/tweets/]
+[Tweets](/tweets/)
 
