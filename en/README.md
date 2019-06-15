@@ -13,15 +13,13 @@ despite the best efforts of people working in them.
 
 13/6 - [GE Unleashing a Hydrogen Gas Power Future](https://thirdwave-members.herokuapp.com/view/ge-h2.md)
 
-12/6 - [Podcast - 12/6](https://thirdwave-members.herokuapp.com/view/podcast.md)
-
-9/6 - [Bancor](https://thirdwave-members.herokuapp.com/view/bancor.md)
-
-9/6 - [Q&A - 9/6](https://thirdwave-members.herokuapp.com/view/qa-0906.md)
-
-9/6 - [Tweets - Week 24](https://thirdwave-members.herokuapp.com/view/week24.md)
-
 ## Latest
+
+15/6 - [Bancor](/thirdwave/en/2019/06/bancor.md)
+
+15/6 - [Q&A - 9/6](/thirdwave/en/2019/06/qa-0906.md)
+
+15/6 - [Tweets - Week 24](/thirdwave/en/tweets/week24.md)
 
 23/5 - [Slippage, H2, the Transition](/2019/05/slippage.md)
 
@@ -30,13 +28,6 @@ despite the best efforts of people working in them.
 10/5 - [Infrastructure for Space](/2019/05/oneill.md)
 
 4/5 - [Get On With It](/2019/05/geton.md)
-
-18/4 - [Q&A - 18/4](/2019/04/qa-1804.md)
-
-8/4 - [First Export, Element One](/2019/04/h2x.md)
-
-6/4 - [Q&A - 6/4](/2019/04/qa-0604.md)
-
 
 ## Reference
 

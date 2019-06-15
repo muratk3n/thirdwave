@@ -45,3 +45,5 @@
 
 [Week 23](week23.md)
 
+[Week 24](week24.md)
+
