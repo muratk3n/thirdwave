@@ -451,7 +451,7 @@ From https://youtu.be/xEWby7DhMcQ?t=151
 
 ---
 
-https://mobile.twitter.com/pmddomingos/status/1138646526228672512
+[Link](https://mobile.twitter.com/pmddomingos/status/1138646526228672512)
 
 True
 
