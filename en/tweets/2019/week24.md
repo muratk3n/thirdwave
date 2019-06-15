@@ -614,7 +614,7 @@ To which I say, the only union you will ever need in the 21st century is the Gov
 
 ---
 
-https://mobile.twitter.com/dmichie66/status/1137524319561478144
+[Link](https://mobile.twitter.com/dmichie66/status/1137524319561478144)
 
 @dmichie66
 
