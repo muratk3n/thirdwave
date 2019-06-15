@@ -54,6 +54,8 @@ minority, as the culture is repugnant and revolting. Catholicism,
 Ottoman Caliphate as cultures are all extensions of this which need to
 be culturally cleansed.
 
+Australians apparently still are somewhat nomadic and human.
+
 @hexsteph
 
 "Being in LA is like having to completely relearn basic social interaction. Australians are known for being laid back but I would say we are also quite reserved. I can't handle so many conversations with strangers. In the lift, in a queue, in a shop - people just keen to chat 24/7
