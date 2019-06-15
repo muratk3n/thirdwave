@@ -793,7 +793,7 @@ There is exactly zero reasons to go on the BEV route; if you haven't completely 
 
 Good info on physics jobs but also studying the subject in general
     
-https://mobile.twitter.com/lpfeed/status/1137896454977150978
+[Link](https://mobile.twitter.com/lpfeed/status/1137896454977150978)
 
 *2019-6-10 6:10:17*
 
