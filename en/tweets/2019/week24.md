@@ -10,7 +10,7 @@
 
 "If vehicle penetration increases up to 20 million vehicles in the base case scenario, a battery charging infrastructure would cost around € 51 billion, making it more expensive than hydrogen infrastructure, which comes in at around € 40 billion"
 
-https://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/News/InfrastructureAnalysis/article.html
+[Link](https://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/News/InfrastructureAnalysis/article.html)
 
 *2019-6-15 13:40:22*
 
@@ -66,8 +66,7 @@ Makes me feel like a cynical dickhead by comparison but also: I didn't sign up f
 
 ---
 
-
-https://cnn.com/cnn/2019/06/14/politics/first-democratic-debate-stages-2020/index.html
+[CNN](https://cnn.com/cnn/2019/06/14/politics/first-democratic-debate-stages-2020/index.html)
 
 They did the kid table thing again..
 
@@ -107,7 +106,7 @@ That's crazy. Really?
 
 "US Military Drops a Bomb Every 12 Minutes, and No One Is Talking About It"
 
-https://www.truthdig.com/articles/trumps-military-drops-a-bomb-every-12-minutes-and-no-one-is-talking-about-it/
+[Link](https://www.truthdig.com/articles/trumps-military-drops-a-bomb-every-12-minutes-and-no-one-is-talking-about-it/)
 
 
 *2019-6-14 18:18:33*
@@ -124,7 +123,7 @@ weather)."
 "Study shows electric cars lose 41% of range in ‘icy temperature’,
 Tesla disputes the claim"
 
-https://electrek.co/2019/02/07/study-electric-cars-lose-range-temperature-tesla-disputes/
+[Fanboy Site Electrek](https://electrek.co/2019/02/07/study-electric-cars-lose-range-temperature-tesla-disputes/)
 
 *2019-6-14 15:49:17*
 
@@ -149,7 +148,7 @@ It feels like this mall is built around the Apple store in it. The store is huge
 
 ---
 
-https://slate.com/technology/2019/01/5g-mobile-wireless-network-hype-consumers-fcc.html
+[Link](https://slate.com/technology/2019/01/5g-mobile-wireless-network-hype-consumers-fcc.html)
 
 "Telecom Companies Are Seriously Overhyping 5G Networks
 
@@ -239,7 +238,7 @@ Yea that sucks. A chink in your armor.
 
 But it is smart politics in the context of what she is trying to do. 
 
-https://theintercept.com/2014/08/28/elizabeth-warren-speaks-israelgaza-sounds-like-netanyahu/
+[Link](https://theintercept.com/2014/08/28/elizabeth-warren-speaks-israelgaza-sounds-like-netanyahu/)
 
 "Elizabeth Warren Finally Speaks on Israel/Gaza, Sounds Like Netanyahu"
 
@@ -263,7 +262,7 @@ Now I know why I keep seeing this guy (Rajan) at honco meetings. He became India
 
 ---
 
-https://twitter.com/LukewSavage/status/1138879111752011777
+[Link](https://twitter.com/LukewSavage/status/1138879111752011777)
 
 Sanders argues we need to rethink the meaning freedom: "Are you truly free when you spend half your income on housing? Are you truly free when you are 70 years old and lack a pension to retire?"
 
@@ -301,7 +300,7 @@ Yes, this thing can become huge. It can work.
 
 "Ditch the tribalism and go for mosaic of propulsion solutions"
 
-https://www.driving.co.uk/news/features/hyundai-hydrogen-must-part-future/
+[Link](https://www.driving.co.uk/news/features/hyundai-hydrogen-must-part-future/)
 
 Yea that's fine bcz "ditch tribalism" talk at gov level right now helps H2. In an even playing field we'll bust a cap on their ass. 
 
@@ -320,7 +319,7 @@ I hate to retweet frickin Davos. But they got this one right.
 
 ---
 
-https://mobile.twitter.com/MkBlyth/status/1138479409927720960
+[Link](https://mobile.twitter.com/MkBlyth/status/1138479409927720960)
 
 "Long ago I was captivated by a seductively intuitive idea, one many of my wealthy friends still subscribe to: that both poverty and rising inequality are largely consequences of America’s failing education system. Fix that, I believed, and we could cure much of what ails America.
 
@@ -333,17 +332,17 @@ Bulls eye. Hanauer is a billionaire, constantly talks about redistribution.
 
 ---
 
-https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/
+[Link](https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/)
 
 "Verizon throttled fire department’s “unlimited” data during Calif. wildfire"
 
-Uwwww 😖
+Uwwww :|
 
 *2019-6-11 19:58:37*
 
 ---
 
-https://mobile.twitter.com/garrygolden/status/1138465581240389634
+[Link](https://mobile.twitter.com/garrygolden/status/1138465581240389634)
 
 H2 combustion engine? Why not? I was actually curious why that did not catch on first rather then fuel cells that go from H2 to electric.
  
@@ -363,7 +362,7 @@ H2 combustion engine? Why not? I was actually curious why that did not catch on 
 
 Specifics r important; I dont think the advent of Prime was due to turning that one crank.
 
-https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping
+[Link](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping)
 
 *2019-6-11 22:43:44*
 
@@ -403,7 +402,7 @@ Peter Douche moves to left? It's a new world indeed.
 
 ---
 
-http://www.donga.com/en/article/all/20190612/1758513/1/Hydrogen-economy-two-years-behind-Japan
+[Link](http://www.donga.com/en/article/all/20190612/1758513/1/Hydrogen-economy-two-years-behind-Japan)
 
 "Hydrogen economy, two years behind Japan
 
