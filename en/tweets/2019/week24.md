@@ -598,7 +598,7 @@ Rough deal. Fine for me. I want US-TR partnership.
 
 ---
 
-https://mobile.twitter.com/ChristinaMcMc/status/1138355371901444097
+[Link](https://mobile.twitter.com/ChristinaMcMc/status/1138355371901444097)
 
 Ha ha..
 
