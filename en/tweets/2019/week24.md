@@ -827,7 +827,7 @@ from truck driving to being a programmer today?
 
 ---
 
-https://twitter.com/billmckibben/status/1136811836203053056
+[Link](https://twitter.com/billmckibben/status/1136811836203053056)
 
 "Good story by @LFFriedman with a lousy headline by some copy desk
 guy. The real story here is that @MikeBloomberg , who's been fighting
