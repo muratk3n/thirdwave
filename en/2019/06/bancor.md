@@ -1,9 +1,9 @@
 # Bancor
 
-[Bancor was proposed as an international money invented by Keynes
+(Bancor was proposed as an international money invented by Keynes
 post-WW2. This idea was not accepted / pursued in a conference called
 Bretton Woods, instead a dollar based system was envisaged, spurred by
-the US, which remains the system today].
+the US, which remains the system today).
 
 BW [1] adopted a national currency as international money.  Systematic
 balance of payments deficits for the country issuing the international
