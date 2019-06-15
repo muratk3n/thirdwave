@@ -19,7 +19,7 @@ despite the best efforts of people working in them.
 
 15/6 - [Q&A - 9/6](/2019/06/qa-0906.md)
 
-15/6 - [Tweets - Week 24](/tweets/week24.md)
+15/6 - [Tweets - Week 24](/tweets/2019/week24.md)
 
 23/5 - [Slippage, H2, the Transition](/2019/05/slippage.md)
 
