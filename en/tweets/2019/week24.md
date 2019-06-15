@@ -42,6 +42,18 @@ From Crashed by Tooze:
 
 LA feels like a "village"; I hate the place already.
 
+Village is an agrarian concept, closely knit gathering, which
+basically means everyone's finger is up someone else's ass. Jesus, his
+teaching, is left, against the "village" and Rome.
+
+Gov (left) help to people will decrease connections, will make us more
+human, that is a spread out populace with intermitten
+connectivity. People who like to have sex with goat and sheep can
+still do that of course, but I am thinking they will be in the
+minority, as the culture is repugnant and revolting. Catholicism,
+Ottoman Caliphate as cultures are all extensions of this which need to
+be culturally cleansed.
+
 @hexsteph
 
 "Being in LA is like having to completely relearn basic social interaction. Australians are known for being laid back but I would say we are also quite reserved. I can't handle so many conversations with strangers. In the lift, in a queue, in a shop - people just keen to chat 24/7
