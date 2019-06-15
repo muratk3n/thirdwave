@@ -336,7 +336,7 @@ Bulls eye. Hanauer is a billionaire, constantly talks about redistribution.
 
 "Verizon throttled fire department’s “unlimited” data during Calif. wildfire"
 
-Uwwww :|
+Uwwww 
 
 *2019-6-11 19:58:37*
 
@@ -368,7 +368,7 @@ Specifics r important; I dont think the advent of Prime was due to turning that 
 
 ---
 
-https://twitter.com/PhysicsToday/status/1138533810860167168
+[Link](https://twitter.com/PhysicsToday/status/1138533810860167168)
 
 "Historically, physicists have played a major role in developing diagnostic and treatment tools for cancer. Now they're increasingly delving into understanding the disease"
 
@@ -423,7 +423,7 @@ Article also says there is fierce competition to be the leader on hydrogen betwe
 
 Yep
 
-<iframe width="400" height="360" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="360" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *2019-6-12 10:15:26*
 
