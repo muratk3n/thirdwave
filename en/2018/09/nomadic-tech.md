@@ -72,6 +72,8 @@ How to make a tent with floor (bottom covered) with a tarp, DD 3x3 meter tarp.
 
 https://youtu.be/d8WrtQyXipI?t=617
 
+https://youtu.be/b4uz1CDHGyU (3x3 DD Tarp)
+
 Fire 
 
 Using a can (low tech but still)
