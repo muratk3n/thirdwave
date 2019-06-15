@@ -15,11 +15,11 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-15/6 - [Bancor](/thirdwave/en/2019/06/bancor.md)
+15/6 - [Bancor](/2019/06/bancor.md)
 
-15/6 - [Q&A - 9/6](/thirdwave/en/2019/06/qa-0906.md)
+15/6 - [Q&A - 9/6](/2019/06/qa-0906.md)
 
-15/6 - [Tweets - Week 24](/thirdwave/en/tweets/week24.md)
+15/6 - [Tweets - Week 24](/tweets/week24.md)
 
 23/5 - [Slippage, H2, the Transition](/2019/05/slippage.md)
 
