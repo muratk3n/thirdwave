@@ -73,7 +73,7 @@ They did the kid table thing again..
 
 Centrists must have been scared Warren would steal Biden votes more than Bernie votes. 
 
-Beto is in the kid's table, Bootyjudge made it through!
+Beto is in the kid's table, Bootyjudge made it through apparently.
 
 *2019-6-15 2:57:1*
 
