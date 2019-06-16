@@ -49,11 +49,6 @@ Al Gore: "Australia can become the renewable energy superpower of the 21st centu
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Society was a mistake <a href="https://t.co/C2ImcGbsJg">https://t.co/C2ImcGbsJg</a></p>&mdash; Luke Savage (@LukewSavage) <a href="https://twitter.com/LukewSavage/status/1137038827971907585?ref_src=twsrc%5Etfw">June 7, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 On this Huawei stuff everyone seems to be repeating what they heard from eachother. The originator of the real concern has not stepped forward yet. I am looking for you wigga. Reveal yourself.
 
 ---
