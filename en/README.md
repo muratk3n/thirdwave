@@ -11,6 +11,9 @@ despite the best efforts of people working in them.
 
 ## For Members
 
+
+17/6 - [AI and Functions](https://thirdwave-members.herokuapp.com/view/ai.md)
+
 16/6 - [Q&A - 16/6](https://thirdwave-members.herokuapp.com/view/qa-1606.md)
 
 16/6 - [Tweets - Week 25](https://thirdwave-members.herokuapp.com/view/week25.md)
