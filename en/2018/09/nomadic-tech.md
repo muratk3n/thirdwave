@@ -68,9 +68,11 @@ through a power bank, any on the market will do.
 How about tent, sleeping? Do I have to answer everything? Okay: REI
 Camp Dome 2 Plus. But even better using a simple tarp for everything; 
 
-How to make a tent with floor (bottom covered) with a tarp, DD 3x3 meter tarp.
+How to make a tent with floor (bottom covered) 
 
 https://youtu.be/d8WrtQyXipI?t=617
+
+Another simple tarp tent, larger inside, but bottom open
 
 https://youtu.be/b4uz1CDHGyU (3x3 DD Tarp)
 
