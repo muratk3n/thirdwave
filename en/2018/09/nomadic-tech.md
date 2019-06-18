@@ -72,9 +72,13 @@ How to make a tent with floor (bottom covered)
 
 https://youtu.be/d8WrtQyXipI?t=617
 
-Another simple tarp tent, larger inside, but bottom open
+Other simple tarp tents, larger inside, but bottom open
 
 https://youtu.be/b4uz1CDHGyU (3x3 DD Tarp)
+
+https://youtu.be/4W76LyJdNYU?t=881
+
+https://youtu.be/AiCUkb-UQ8I?t=133
 
 Fire 
 

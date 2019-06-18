@@ -179,7 +179,8 @@ It's all in the turtleneck
 
 @jwangARK
 
-"I still don't understand how people straight out of school can become "management consultants"."
+"I still don't understand how people straight out of school can become
+"management consultants"."
 
 ---
 

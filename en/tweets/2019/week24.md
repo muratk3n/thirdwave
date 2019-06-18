@@ -308,15 +308,6 @@ Forbes
 
 ---
 
-Yes, this thing can become huge. It can work.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/ 6 PREDICTIONS about what <a href="https://twitter.com/facebook?ref_src=twsrc%5Etfw">@Facebook</a>&#39;s <a href="https://twitter.com/hashtag/cryptocurrency?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrency</a> means. Grab the popcorn bc I analyzed publicly disclosed info to make 6 predictions, of which 2 will be controversial (#2 and #6). <a href="https://twitter.com/ForbesCrypto?ref_src=twsrc%5Etfw">@ForbesCrypto</a> <a href="https://twitter.com/hashtag/Libra?src=hash&amp;ref_src=twsrc%5Etfw">#Libra</a> <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> <a href="https://t.co/6EI55eyvUA">https://t.co/6EI55eyvUA</a></p>&mdash; Caitlin Long 🔑 (@CaitlinLong_) <a href="https://twitter.com/CaitlinLong_/status/1137830469637218305?ref_src=twsrc%5Etfw">June 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-6-10 18:52:0*
-
----
-
 "Ditch the tribalism and go for mosaic of propulsion solutions"
 
 [Link](https://www.driving.co.uk/news/features/hyundai-hydrogen-must-part-future/)
