@@ -167,11 +167,11 @@ incentives. Change the incentives, change the game.
 Bancor requires no anchor (it rhymes!); that part I especially
 like. There are a certain group of econs out there who have an odd
 infatuation with gold (Keynes despised it, called it a barbaric
-relic). The yellow is nothing special. We *imbue* moneyness on things
-ourselves, from the beginning of ancient times (money is created by
-armies. King deploys soldiers to get slaves to dig x out of the
-ground, gives x to the soldiers as minted money, and taxes ordinary
-people in x [2]).
+relic). The yellow metal is nothing special. We *imbue* moneyness on
+things ourselves, from the beginning of ancient times (money is
+created by armies. King deploys soldiers to get slaves to dig x out of
+the ground, gives x to the soldiers as minted money, and taxes
+ordinary people in x [2]).
 
 I like that bancor discourages both creditors and debtors, PLUS
 adjusts the exchange rate depending on the status of countries,
