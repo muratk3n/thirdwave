@@ -35,10 +35,13 @@ results = smf.ols(regr, data=df).fit()
 conf = results.conf_int()
 pred = [1., 2.0, -11.0, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
+pred = [1., 0.0, -11.0, 0]
+print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
 [49.73937141 53.28163696] 51.51050418692104
+[49.09061549 51.61086215] 50.350738818591935
 ```
 
 
