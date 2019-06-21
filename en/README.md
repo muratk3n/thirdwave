@@ -17,7 +17,7 @@ despite the best efforts of people working in them.
 
 21/6 - [Q&A - 16/6](/2019/06/qa-1606.md)
 
-21/6 - [Tweets - Week 25](/thirdwave/en/tweets/2019/week25.md)
+21/6 - [Tweets - Week 25](/tweets/2019/week25.md)
 
 21/6 - [GE Unleashing a Hydrogen Gas Power Future](/2019/06/ge-h2.md)
 
