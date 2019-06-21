@@ -24,9 +24,9 @@ There really is no more you can say confidently.
 
 Trump's net approval is at -11%. But still it's not enough. 
 
-https://projects.fivethirtyeight.com/trump-approval-ratings/
+[538](https://projects.fivethirtyeight.com/trump-approval-ratings/)
 
-https://muratk3n.github.io/thirdwave/en/2019/05/calcdata.html
+[Link](https://muratk3n.github.io/thirdwave/en/2019/05/calcdata.html)
 
 His predicted elec. college vote share is btw 49.73% ad 53.28%,
 assuming 2% gdp growth. With 0% gdp growth he still has advantage but
