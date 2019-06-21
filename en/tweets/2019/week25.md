@@ -250,7 +250,14 @@ https://youtu.be/75AXINUL47g?t=165
 
 ---
 
-I wonder if the IR Prez actually wants a US attack so internal politics is "rearranged". He doesn't get along with the mullahs who watch over the politicians and constantly keep them at bay. I read Rouhani was asked abt a certain indirect criticism mullahs made toward him and when asked 'who did the grand ayatollah meant by that?' reportedly he deadpanned 'Himself', and ppl laughed. That comes as close to flipping the bird in Iranian politics and raised eyebrows. What's going on in there?
+I wonder if the IR Prez actually wants a US attack so internal
+politics is "rearranged". He doesn't get along with the mullahs who
+watch over the politicians and constantly keep them at bay. I read
+Rouhani was asked abt a certain indirect criticism mullahs made toward
+him and when asked 'who did the grand ayatollah meant by that?'
+reportedly he deadpanned 'Himself', and ppl laughed. That comes as
+close to flipping the bird in Iranian politics as anything and raised
+eyebrows. What's going on in there?
 
 "@DEFCONWSALERTS Iran says that it will break the uranium stockpile limit set by its nuclear deal with world powers in the next 10 days"
 
