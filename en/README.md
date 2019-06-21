@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## For Members
 
+21/6 - [Hope for Jaded Green Investors](https://thirdwave-members.herokuapp.com/view/jaded-h2.md)
+
 ## Latest
 
 21/6 - [AI and Functions](/2019/06/ai.md)
