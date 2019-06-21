@@ -28,7 +28,9 @@ https://projects.fivethirtyeight.com/trump-approval-ratings/
 
 https://muratk3n.github.io/thirdwave/en/2019/05/calcdata.html
 
-His predicted elec. college vote share is btw waaaaiiiittttt for ittttttttttt filler fillter filler  49.73% ad 53.28%, assuming 2% gdp growth. With 0% gdp growth he still has advantage but the other side has some chance. 
+His predicted elec. college vote share is btw 49.73% ad 53.28%,
+assuming 2% gdp growth. With 0% gdp growth he still has advantage but
+the other side has some chance.
 
 
 *2019-6-20 13:56:7*
@@ -41,11 +43,12 @@ This says
 
 "[T]he image was the result of 500 pictures being taken on a video camera. Those pictures were then combined using software that took out the effects of the Earth's atmosphere."
 
-https://www.stuff.co.nz/national/78996741/saturn-as-seen-from-a-dunedin-back-garden
+[Link](https://www.stuff.co.nz/national/78996741/saturn-as-seen-from-a-dunedin-back-garden)
 
 Still, crazy.
 
-How do you even pinpoint the thing? U know u move the telescope a milimeter, it'll miss the target.. 
+How do you even pinpoint the thing? U know u move the telescope a
+milimeter, it'll miss the target..
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is Saturn. Picture taken at 12:36am this morning (NZ time) using a 150mm refractor I set up in my back garden. <a href="https://twitter.com/hashtag/saturn?src=hash&amp;ref_src=twsrc%5Etfw">#saturn</a> <a href="https://twitter.com/hashtag/beauty?src=hash&amp;ref_src=twsrc%5Etfw">#beauty</a> <a href="https://twitter.com/hashtag/NewZealand?src=hash&amp;ref_src=twsrc%5Etfw">#NewZealand</a> <a href="https://t.co/v7BoqleDoI">pic.twitter.com/v7BoqleDoI</a></p>&mdash; Ian Griffin (@iangriffin) <a href="https://twitter.com/iangriffin/status/1141099347280424961?ref_src=twsrc%5Etfw">June 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
