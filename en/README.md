@@ -13,13 +13,13 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-17/6 - [AI and Functions](/2019/06/ai.md)
+21/6 - [AI and Functions](/2019/06/ai.md)
 
-16/6 - [Q&A - 16/6](/2019/06/qa-1606.md)
+21/6 - [Q&A - 16/6](/2019/06/qa-1606.md)
 
-16/6 - [Tweets - Week 25](/thirdwave/en/tweets/2019/week25.md)
+21/6 - [Tweets - Week 25](/thirdwave/en/tweets/2019/week25.md)
 
-13/6 - [GE Unleashing a Hydrogen Gas Power Future](/2019/06/ge-h2.md)
+21/6 - [GE Unleashing a Hydrogen Gas Power Future](/2019/06/ge-h2.md)
 
 15/6 - [Bancor](/2019/06/bancor.md)
 
