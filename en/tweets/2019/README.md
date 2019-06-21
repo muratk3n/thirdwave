@@ -47,3 +47,5 @@
 
 [Week 24](week24.md)
 
+[Week 25](week25.md)
+
