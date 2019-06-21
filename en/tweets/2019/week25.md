@@ -13,9 +13,9 @@ Make of it what you will, but fantasification is as likely as the real thing.
 
 Do I believe UFOs? 
 
-I could not refute it easily based on this data - https://muratk3n.github.io/thirdwave/en/2015/08/q-38.html
+I could not refute it easily based on [this data](https://muratk3n.github.io/thirdwave/en/2015/08/q-38.html)
 
-There really is no more you can say confidently.
+There really isn't one much oe can say confidently on the subject IMO.
 
 *2019-6-21 9:27:38*
 
