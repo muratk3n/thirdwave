@@ -9,10 +9,6 @@ are built around methods of production, so when a new wave arrives,
 older structures around governance, education, health start to crumble
 despite the best efforts of people working in them.
 
-## For Members
-
-[Articles](https://thirdwave-members.herokuapp.com/articles)
-
 ## Latest
 
 21/6 - [AI and Functions](/2019/06/ai.md)
@@ -27,6 +23,9 @@ despite the best efforts of people working in them.
 
 15/6 - [Q&A - 9/6](/2019/06/qa-0906.md)
 
+## For Members
+
+[Articles](https://thirdwave-members.herokuapp.com/articles)
 
 ## Reference
 
