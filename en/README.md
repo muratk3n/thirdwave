@@ -11,7 +11,7 @@ despite the best efforts of people working in them.
 
 ## For Members
 
-21/6 - [Articles](https://thirdwave-members.herokuapp.com/articles)
+[Articles](https://thirdwave-members.herokuapp.com/articles)
 
 ## Latest
 
