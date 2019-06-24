@@ -85,7 +85,7 @@ Makes me feel like a cynical dickhead by comparison but also: I didn't sign up f
 
 ---
 
-[CNN](https://cnn.com/cnn/2019/06/14/politics/first-democratic-debate-stages-2020/index.html)
+[CNET](https://www.cnet.com/how-to/2020-democratic-primary-debate-candidates-start-time-how-to-watch-live/)
 
 They did the kid table thing again..
 
