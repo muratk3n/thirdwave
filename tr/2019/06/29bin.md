@@ -1,4 +1,4 @@
-# 29 bin Yetmedi mi?
+# 29 Bin Yetmedi mi?
 
 O zaman 810 bin...
 
