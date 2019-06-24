@@ -689,13 +689,6 @@ from food production.
 *2019-6-8, 17:46:53*
 
 ---
-
-Is time travel or multiple universes more likely?  They are both effin
-crazy but time travel is probably more likely.
-
-*2019-6-8, 17:46:53*
-
----
     
 Wut? U can't say Nazi on YouTube videos anymore?
 When the hell did that happen?
