@@ -65,5 +65,5 @@ despite the best efforts of people working in them.
 
 [Search](search.html)
 
-[Tweets](/tweets/README.md)
+[Tweet Archive](/tweets/README.md)
 
