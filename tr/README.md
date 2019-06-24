@@ -14,6 +14,8 @@ başlar.
 
 ## En Son
 
+24/6 - [29 bin Yetmedi mi?](/2019/06/29bin.md)
+
 1/10 - [Hidrojen](/2018/10/hidrojen.md)
 
 ## Referans
