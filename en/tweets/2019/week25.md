@@ -22,7 +22,8 @@ There really isn't one much one can say confidently on the subject IMO.
 ---
 
 
-Trump's net approval is at -11%. But still it's not enough. 
+Trump's net approval is at -11% (approval at %42 minus disproval at
+53%). But still it's not enough.
 
 [538](https://projects.fivethirtyeight.com/trump-approval-ratings/)
 
