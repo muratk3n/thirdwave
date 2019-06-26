@@ -52,12 +52,11 @@ the diversity of products, the exact opposite of comparative advantage
 style specialization on products. Because diversity allows the
 invention of more products, a country gets richer.
 
-I replicated Hidalgo's research
-[here](https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1),
-data, Python code included. The jujitsi move is excellent. Economists,
-take note. All I hear from them is "if this goes up, that comes down,
-this comes down the other thing goes up". Angle of the dangle is
-inversely proportional to the heat of the
+I replicated Hidalgo's research [here](eci.md), data, Python code
+included. The jujitsi move is excellent. Economists, take note. All I
+hear from them is "if this goes up, that comes down, this comes down
+the other thing goes up". Angle of the dangle is inversely
+proportional to the heat of the
 meat. [Eheheheh](https://youtu.be/F3NtIgunIc4?t=52).Seriously. More
 physicist in economics! Economists apparently have physics envy, so if
 there are more physicist in economics, they are already physicist,

@@ -44,12 +44,6 @@ They have one example where everything 4 the demo is in one file. Simple. Keepin
 
 ---
 
-Yeah Bastiat was a moron. Liberterians love this guy tho. When goods dont cross..? Guess who was Germany's biggest trading partner before the world wars. It starts with F, ends with rance.
-
-"When goods don't cross borders, armies will" - Bastiat
-
----
-
 https://twitter.com/ChemistryNews/status/1132034049260658688
 
 "Comet inspires chemistry for making breathable oxygen on Mars"
