@@ -1,8 +1,13 @@
 # Tweets - Week 26
 
-Haha.. Swalvel landed a punch on Bootyjudge, so did Partypooper Hickenlooper. Here is the thing, Hick is probably the more capable mayor and he'd handle the sit better than Booty who just looks good on TV. 
+Haha.. Swalvel landed a punch on Bootyjudge, so did Partypooper
+Hickenlooper. Here is the thing, Hick is probably the more capable
+mayor and he'd handle the sit better than Booty who just looks good on
+TV.
 
-People are going after Bootyjudge his 4-5% looks good, they want to take some of that. Like Beto who undeservedly has some pop. When in doubt hit the media boy.
+People are going after Bootyjudge his 4-5% must be mouthwatering to
+them, they want to take some of that. Like Beto who undeservedly has
+some pop. When in doubt hit the media boy.
 
 \#demdebate2
 
