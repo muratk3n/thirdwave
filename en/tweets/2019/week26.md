@@ -4,6 +4,8 @@ Haha.. Swalvel landed a punch on Bootyjudge, so did Partypooper Hickenlooper. He
 
 People are going after Bootyjudge his 4-5% looks good, they want to take some of that. Like Beto who undeservedly has some pop. When in doubt hit the media boy.
 
+\#demdebate2
+
 *2019-6-28 9:33:24*
 
 ---
@@ -12,7 +14,9 @@ Kamala.. full of fire. Like it.
 
 Bernie is doing good; Biden plays it stoic, no mistakes so far. It's all abt how things look, so he looks Presidential even if you wrote down the his words on paper and read them he'd come across inebriated. 
 
-Yang seems prepared. 
+Yang seems prepared.
+
+\#demdebate2
 
 *2019-6-28 9:4:33*
 
@@ -23,6 +27,8 @@ Then what's the difference, dumbass? Consumers pays no difference, fossil compan
 Was that John Delaney? Has 0.5%. That is TOO MUCH. U need to drop out son.
 
 "I will credit consumers for the carbon tax I will levy on fossil companies [who will surely pass the cost on to the consumers]". 
+
+\#demdebate2
 
 *2019-6-27 18:13:28*
 
@@ -36,7 +42,7 @@ So say we all
 
 They are all fine people obviously, no doubt there. Except maybe Beto. haha
 
-\#demdebate
+\#demdebate1
 
 *2019-6-27 13:28:58*
 
@@ -46,7 +52,7 @@ They are all fine people obviously, no doubt there. Except maybe Beto. haha
 
 Cory your Spanish is somehow worse than Beto’s"
 
-\#demdebate
+\#demdebate1
 
 *2019-6-27 13:9:5*
 
@@ -75,7 +81,7 @@ I just saw it in my mind's eye.. I don't know what final votes BdB gets, but if 
 
 It's great de Blasio banging on the point the Democratic Party lost its way. No pandering, no nothing. Just smash. Very good.
 
-\#demdebate
+\#demdebate1
 
 *2019-6-27 12:23:57*
 
@@ -83,7 +89,7 @@ It's great de Blasio banging on the point the Democratic Party lost its way. No 
 
 I am not for Russiagate but when de Blasio hits Trump on Russia, it cracks me up. Is that bias?
 
-\#demdebate
+\#demdebate1
 
 *2019-6-27 10:29:24*
 
@@ -98,7 +104,7 @@ healthcare. "Let the markets decide [on who lives, dies, how drugs are
 priced in a world of research subsidies, patent monopolies]". Yeah,
 good luck with that.
 
-\#demdebate
+\#demdebate1
 
 *2019-6-27 10:6:47*
 
