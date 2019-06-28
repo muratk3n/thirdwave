@@ -454,9 +454,7 @@ not two but in three major works! Not even Darth Vader pulled that off
 ---
 
 Good... no more of that burgeois look bitch. Looking little more
-nomadic this time;
-
-I like it aw-lot.
+nomadic this time; I like it aw-lot.
 
 *2019-6-22 20:21:37*
 
