@@ -17,7 +17,7 @@ despite the best efforts of people working in them.
 
 28/6 - [Underactuated](/2019/06/underactuated.md)
 
-28/6 - [Tweets - Week 26](/2019/06/week26.md)
+28/6 - [Tweets - Week 26](/tweets/2019/week26.md)
 
 21/6 - [AI and Functions](/2019/06/ai.md)
 
