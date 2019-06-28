@@ -447,7 +447,7 @@ you believe all kinds of fantastic, phonemonal things about these
 people when in fact they were simply large land owners, the enemy of
 Moses, of Jesus and people. The pharaoh was the bad guy in not one, in
 not two but in three major works! Not even Darth Vader pulled that off
-(he was in a mere two, he was kinda partly good the third).
+(he was in a mere two, he was kinda, partly good in the third).
 
 *2019-6-22 20:32:55*
 
