@@ -1,9 +1,9 @@
-# Title 2
+# Title 3
 
 lksdjflkasdf
 
 <p>
-$$x^2$$
+$ x^2 $
 </p>
 
 alsdkjflkasdf
