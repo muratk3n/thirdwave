@@ -1,11 +1,14 @@
 
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <script type="text/x-mathjax-config">
    MathJax.Hub.Config({
       tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
  });
 </script>
-
 <script type="text/javascript" src="/inc/MathJax.js?config=TeX-AMS_HTML-full"></script>
+</head>
 
 $$x^2$$
 
