@@ -1,12 +1,8 @@
 # Title 3
 
-lksdjflkasdf
+alsdkjflkasdf $ x^2 $ ldjflajsdkjflkasd
 
-<p>
-$ x^2 $
-</p>
-
-alsdkjflkasdf
+33333333333333
 
 
 
