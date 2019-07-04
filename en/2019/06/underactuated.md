@@ -17,8 +17,8 @@ In many ways Asimo is overly controlled. Humans and many species in
 nature evolved to be *underactuated*, that is guiding their system
 with minimal control, making use (based on our prediction of) the
 larger dynamics. It is more energy efficient that way; when we walk we
-don't baby sit *all* our actions, what actually perform controlled
-falling.
+don't baby sit *all* our actions, what we actually perform is
+controlled falling.
 
 In a way, we are like surfers. The outcomes a surfer achieves are in
 obscene proportion compared to the control input s/he applies. With
