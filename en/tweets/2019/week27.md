@@ -239,12 +239,6 @@ A reminder not to use ds, dx, dy of integration as if they are 'variables'; doin
 
 ---
 
-Hill/Harris poll, at national level nothing changed. What's the sit on early prim states? I have a feeling they'll be the same. Debate might have changed nothing. 
-
-*2019-7-2 12:28:35*
-
----
-
 Nuke is the kind of solution you propose when u want to come across as
 a "measured and balanced kinda guy". "Look I've weighed all the
 options here, some pros, some cons dude, and with heavy heart and shit
