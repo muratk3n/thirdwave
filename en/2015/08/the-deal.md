@@ -2,7 +2,14 @@
 
 HuffPost
 
-Benjamin Netanyahu is laying siege to the Congress of the United States, not for the first time. He has thrown his voice and channeled his influence into the arena of American legislative politics, to abort the nuclear P5+1 settlement with Iran, which was signed on July 14 by the US, Britain, France, Germany, China, and Russia. The Israeli strong man's latest intervention is in keeping with the rest of his political career. Netanyahu owes all his importance and his success to actions that have been purely destructive.
+Benjamin Netanyahu is laying siege to the Congress of the United
+States, not for the first time. He has thrown his voice and channeled
+his influence into the arena of American legislative politics, to
+abort the nuclear P5+1 settlement with Iran, which was signed on July
+14 by the US, Britain, France, Germany, China, and Russia. The Israeli
+strong man's latest intervention is in keeping with the rest of his
+political career. Netanyahu owes all his importance and his success to
+actions that have been purely destructive.
 
 He was first elected in 1996 on the wave of Israeli settler chauvinism that followed the signing of the Oslo Accords. His rise came in the wake of the assassination of his opponent, a courageous defender of the accords, Yitzhak Rabin. A public memorandum detailing the strategy for Netanyahu as leader of Israel was written by the neoconservative war propagandist Richard Perle, along with a small committee of others. The strategy document, "A Clean Break," called for Israel to free itself from the tedious demands of diplomacy once and for all, curtail its efforts to negotiate with Palestinians toward the creation of a state, and give up the idea of joining a neighborhood of nations in the Middle East. With American help, instead, Israel could stand alone as the dominant power, a position it should never compromise by bargaining for peace. To achieve this end, three countries had to be undermined, subdivided, or destroyed: Iraq, Syria, and Iran.
 

@@ -1,6 +1,14 @@
 # Palestine
 
-[T]he Ottomans, who had allied with Germany, were defeated in World War I. To the victors went the spoils, which included the extensive Ottoman province known as Syria. A secret wartime deal between the British and the French, the Sykes-Picot agreement, had divided this territory between the two allies on a line running roughly from Mount Hermon due west to the sea. The area to the north was to be placed under French control; the area to the south was to be placed under the control of the British. Further divisions gave rise not only to the modern country of Syria but to Lebanon, Jordan, and Israel as well.
+[T]he Ottomans, who had allied with Germany, were defeated in World
+War I. To the victors went the spoils, which included the extensive
+Ottoman province known as Syria. A secret wartime deal between the
+British and the French, the Sykes-Picot agreement, had divided this
+territory between the two allies on a line running roughly from Mount
+Hermon due west to the sea. The area to the north was to be placed
+under French control; the area to the south was to be placed under the
+control of the British. Further divisions gave rise not only to the
+modern country of Syria but to Lebanon, Jordan, and Israel as well.
 
 The French had sought to be an influence in this region since the days of Napoleon. [..] As a state, then, Lebanon had no prior reality. Its main unifying feature was that its people felt an affinity with France. The British area to the south was divided along similarly arbitrary lines. During World War I, the Muslim clan that ruled the western Hejaz region of the Arabian Peninsula, the Hashemites [today's Jordanians], had supported the British. In return, the British promised to install this group as rulers of Arabia after the war. But London made commitments to other tribes as well. Based in Kuwait, a rival clan, the Saud, had launched a war against the Turks in 1900, trying to take control of the eastern and central parts of the Arabian Peninsula. In a struggle that broke out shortly after World War I, the Sauds defeated the Hashemites, so the British gave Arabia to them—hence today’s Saudi Arabia.
 

@@ -57,6 +57,8 @@ despite the best efforts of people working in them.
 
 [Climate Change](/2018/12/climate.md)
 
+[The Middle East](/2019/07/middleeast.md)
+
 [TR](../tr)
 
 ## Browse

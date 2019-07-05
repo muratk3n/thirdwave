@@ -1,12 +1,32 @@
 # Israel, Palestine, and all the rest
 
-The [death] of three settlers in the West Bank has given Israel the excuse it was waiting for to set a huge military operation in motion [..].
+The [death] of three settlers in the West Bank has given Israel the
+excuse it was waiting for to set a huge military operation in motion
+[..].
 
-Israel has not taken kindly to the Palestinian Authority’s moves to join international organizations and sign international treaties [..] This would give the I.C.C. jurisdiction in Palestinian territory and thus give victims of war crimes, or crimes against humanity, access to international justice [..]
+Israel has not taken kindly to the Palestinian Authority’s moves to
+join international organizations and sign international treaties [..]
+This would give the I.C.C. jurisdiction in Palestinian territory and
+thus give victims of war crimes, or crimes against humanity, access to
+international justice [..]
 
-Israel [also] rejects the recent internal Palestinian political reconciliation between Fatah and Hamas and the formation of a Palestinian unity government. Israel was counting on a continuing schism to promote its own version of a solution to the Palestinian issue: a state in Gaza and other Palestinian cantons under de facto Israeli rule in the West Bank. For that plan to come to fruition, the political separation between the Gaza Strip and the West Bank would have to continue [..]
+Israel [also] rejects the recent internal Palestinian political
+reconciliation between Fatah and Hamas and the formation of a
+Palestinian unity government. Israel was counting on a continuing
+schism to promote its own version of a solution to the Palestinian
+issue: a state in Gaza and other Palestinian cantons under de facto
+Israeli rule in the West Bank. For that plan to come to fruition, the
+political separation between the Gaza Strip and the West Bank would
+have to continue [..]
 
-All of this worries Israel because it suggests that the unanimous and unquestioning support the country has grown accustomed to receiving from Western nations is decreasing. The success of the boycott, divestment and sanctions movement in countries previously sympathetic to Israel is a testament to this shift at a grass-roots level. Israel was desperately seeking a pretext to turn the spotlight away from its weaknesses. In the disappearance and killing of the three settlers, it has found one.  
+All of this worries Israel because it suggests that the unanimous and
+unquestioning support the country has grown accustomed to receiving
+from Western nations is decreasing. The success of the boycott,
+divestment and sanctions movement in countries previously sympathetic
+to Israel is a testament to this shift at a grass-roots level. Israel
+was desperately seeking a pretext to turn the spotlight away from its
+weaknesses. In the disappearance and killing of the three settlers, it
+has found one. 
 
 True
 
