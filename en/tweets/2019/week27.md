@@ -489,7 +489,7 @@ wants to run a stealth air training effort in airspace S400 monitors."
 --- 
 
 
-25 C. So good. 
+25 C. Aaaahhhh
 
 *2019-6-30 12:48:38*
 
