@@ -87,7 +87,7 @@ BTW there is no link btw this so-called Euro right and austerity. Victor Orban h
 
 True. Columbus, even ancient ppl did not think Earth was flat.
 
-[Video](https://youtu.be/JWfwBvYqnS8)
+[Video](https://youtu.be/JWfwBvYqnS8?t=43)
 
 *2019-7-4 7:48:5*
 
