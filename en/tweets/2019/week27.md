@@ -7,7 +7,7 @@
 
 ---
 
-Not much life left in Beto, and other up-start. Boot-Edge-Edge, or
+Not much life left in Beto, and other up-starts. Boot-Edge-Edge, or
 Gaylord Focker, is in the top tier cands but very far from
 front-runners. Kamala, Bernie, Warren doing well. The race is shaping
 up.
