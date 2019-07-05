@@ -206,7 +206,7 @@ else. Intellect comes last. This is science.
 Abramovitz: a vague popularity, incumbency and econ effects vote.
 
 It's all jumbled images. For a black vote, Biden was VP, of a black
-president. Though: "I be black, Biden good". Now Kamala attacks, a
+president. Voter: "I be black, Biden good". Now Kamala attacks, a
 black person with formerly high office, on a black issue, "he is
 disrespecting him, so maybe Biden does not deserve such respect. Biden
 be not good".
