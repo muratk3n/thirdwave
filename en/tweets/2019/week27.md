@@ -306,7 +306,7 @@ Right; Euler-Lagrange eqn is a generalized formula for certain Calculus of Varia
 
 ---
 
-I hear P. Schiff is losing customers hand over fist (another
+I hear P. Schiff is losing customers left and right (another
 goldcuck). That's what you get for getting stuck on one idea. How can u
 even predict the 10yr properly if keep waiting for major crash for the
 past 10 years?  Customers pay u to get it right in 6, 12, 24 months
