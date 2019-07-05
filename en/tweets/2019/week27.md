@@ -702,7 +702,7 @@ who is been saying that for 40 yrs to fix it.
 
 ---
 
-South African telecoms companies are hit by higher operating costs
+"South African telecoms companies are hit by higher operating costs
 whenever load-shedding strikes. GenCell CEO Rami Reshef has argued
 that using hydrogen as a backup energy solution has the potential to
 greatly reduce the impact.
@@ -715,7 +715,7 @@ Rethink Technology and GenCell in 2018 estimated that a mobile
 operator in South Africa implementing the GenCell backup product on
 1,000 of its sites could save $200m over ten years compared with
 diesel. Reshef says he is in negotiations with several mobile
-operators in South Africa.
+operators in South Africa."
 
 [Link](https://www.theafricareport.com/14654/hydrogen-offers-businesses-a-safeguard-against-south-africas-unreliable-grid/)
 
