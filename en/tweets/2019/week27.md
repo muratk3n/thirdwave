@@ -64,12 +64,6 @@ Biiiaaaaatch
 
 ---
 
-Bezos space plan is completely doable, and he mapped it all out (as much as possible anyway). This is what leadership looks like. Follow. 
-
-*2019-7-4 12:46:30*
-
----
-
 "@AWeigmannn Total keeps an eye on “very interesting” German H2 projects. The production of green #hydrogen with renewable power has become a hot topic in German industry, and a whole range of projects are dedicated to the development of the technology."
 
 *2019-7-4 8:12:58*
