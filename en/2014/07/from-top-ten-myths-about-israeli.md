@@ -1,5 +1,7 @@
 # Myth #10
 
+[Link](http://www.palestinechronicle.com/top-ten-myths-about-the-israeli-palestinian-conflict/)
+
 "The U.S. is an honest broker and has sought to bring about peace in
 the Middle East".
 

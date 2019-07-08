@@ -1,5 +1,7 @@
 # Myth #3
 
+[Link](http://www.palestinechronicle.com/top-ten-myths-about-the-israeli-palestinian-conflict/)
+
 "The Arabs missed an opportunity to have their own state in 1947"
 
 The U.N. recommendation to partition Palestine was rejected by the
