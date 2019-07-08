@@ -49,3 +49,7 @@
 
 [Week 25](week25.md)
 
+[Week 26](week26.md)
+
+[Week 26](week26.md)
+
