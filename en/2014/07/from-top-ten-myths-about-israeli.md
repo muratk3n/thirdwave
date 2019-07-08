@@ -1,7 +1,7 @@
 # Myth #10
 
-The U.S. is an honest broker and has sought to bring about peace in
-the Middle East.
+"The U.S. is an honest broker and has sought to bring about peace in
+the Middle East".
 
 Rhetoric aside, the U.S. supports Israel’s policies, including its
 illegal occupation and other violations of international humanitarian

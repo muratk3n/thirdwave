@@ -1,6 +1,6 @@
 # Myth #3
 
-The Arabs missed an opportunity to have their own state in 1947
+"The Arabs missed an opportunity to have their own state in 1947"
 
 The U.N. recommendation to partition Palestine was rejected by the
 Arabs. Many commentators today point to this rejection as constituting
