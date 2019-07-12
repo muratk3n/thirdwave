@@ -375,9 +375,9 @@ fan” "
 
 ---
 
-Oh yeah..! Smoke it up monkey boy..
+Oh yeah.. Smoke it up monkey boy..
 
-<img width="300"  src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
+<img width="200"  src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
 
 *2019-7-8 12:56:2*
 
