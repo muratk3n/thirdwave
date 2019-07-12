@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+12/7 - [Q&A - 12/7](/2019/07/qa-0607.md)
+
+12/7 - [Tweets - Week 28](/tweets/2019/week28.md)
+
 5/7 - [Q&A - 1/7](/2019/07/qa-0107.md)
 
 5/7 - [Tweets - Week 27 ](/tweets/2019/week27.md)
@@ -19,9 +23,6 @@ despite the best efforts of people working in them.
 
 28/6 - [Q&A - 25/6](/2019/06/qa-2506.md)
 
-28/6 - [Underactuated](/2019/06/underactuated.md)
-
-28/6 - [Tweets - Week 26](/tweets/2019/week26.md)
 
 ## For Members
 
