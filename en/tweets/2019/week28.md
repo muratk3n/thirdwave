@@ -585,12 +585,6 @@ imagine tank tech being more expensive than LPG tanks.
 
 ---
 
-<iframe width="300" src="https://player.cnbc.com/p/gZWlPC/cnbc_global?playertype=synd&byGuid=7000087680&size=530_298" width="300" type="application/x-shockwave-flash" allowFullScreen="true" bgcolor="#131313"></iframe><p><a href="https://www.cnbc.com/video/2019/07/05/shell-says-the-time-of-hydrogen-is-coming-in-the-next-10-years.html?__source=cnbcembedplayer">Shell says 'the time of hydrogen' is coming in the next 10 years</a> from <a href="//www.cnbc.com/?__source=cnbcembedplayer">CNBC</a>.</p>
-
-*2019-7-5 14:30:24*
-
----
-
 Summers is one confused son of a bitch. After crisis says "Minsky
 explains it", then "a chronic shortfall in the demand for investment
 relative to the supply of savings". Now you are lost. If you continued
