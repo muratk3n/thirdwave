@@ -117,7 +117,7 @@ patents](https://muratk3n.github.io/thirdwave/en/2014/06/welcome-to-software-pat
 Great! Push for fast payments. I Dont care how we get there. Good job
 Ms Presley.
 
-[Link](https://youtu.be/ZvfYmpUhqRI)
+[Link](https://youtu.be/ZvfYmpUhqRI?t=20)
 
 *2019-7-10 23:15:6*
 
