@@ -352,7 +352,7 @@ No it wasn't. You can find true north by just looking at the
 sun. Remember the tilt of the Earth, so "at noon, it looms in the
 middle of the horizon and directly south. That means when you're
 facing the sun at noon, walking directly toward it will take you
-south".
+south". At nights there are other methods. 
 
 <img width="300" src="http://media.opencurriculum.org/images/uploads/1140-resource_1.jpg"/>
 
