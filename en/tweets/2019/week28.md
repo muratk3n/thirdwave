@@ -243,10 +243,8 @@ achieve sustainable development.
 
 Yang is Just Do It Nike Man type. When in doubt, act (obviously don't
 act for the f--k of it either). These ppl lock themselves into
-inaction overthinking stuff.
-
-They also worry too much about saying what others expect them to say
-(in the negative). Weird. 
+inaction overthinking stuff. They also worry too much about saying
+what others expect them to say (in the negative). 
 
 *2019-7-9 13:31:29*
 
