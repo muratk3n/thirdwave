@@ -2,7 +2,7 @@
 
 Maudin, time travel not possible. 
 
-https://youtu.be/Yfb_q05eLwQ?t=72
+[Video](https://youtu.be/Yfb_q05eLwQ?t=72)
 
 *2019-7-12 8:59:40*
 
@@ -27,7 +27,7 @@ The Fed has been tremendously successful at making the rich richer while destroy
 
 Great rendition of *All Along the Watchtower* for BSG s03e20, 
 
-https://youtu.be/BigolJfoANw?t=199
+[Link](https://youtu.be/BigolJfoANw?t=199)
 
 *2019-7-11 20:24:0*
 
@@ -39,7 +39,7 @@ https://youtu.be/BigolJfoANw?t=199
 
 ---
 
-Why we became bipedal - https://youtu.be/IBa9VzC4s48?t=100
+Why we became bipedal - [Link](https://youtu.be/IBa9VzC4s48?t=100)
 
 *2019-7-11 10:24:7*
 
@@ -51,19 +51,27 @@ I was referring to NYT Brooks last week.
 
 ---
 
-I needed linearization around stable point derivation, who had it? Strogatz Nonlin Dyn classes of course, lecture 6. Ma man. 
+I needed linearization around stable point derivation, who had it?
+Strogatz Nonlin Dyn classes of course, lecture 6. Ma man.
 
 *2019-7-11 8:50:35*
 
 ---
 
-"SINGAPORE — Horizon Fuel Cell Technologies has announced the signing of an MOU to supply 1,000 units of 100kW and higher automotive fuel cell systems for heavy duty trucks within three years, with the first units to be delivered in the second half of 2019. This represents one of the largest deployments of fuel cell heavy vehicles globally."
+"SINGAPORE — Horizon Fuel Cell Technologies has announced the signing
+of an MOU to supply 1,000 units of 100kW and higher automotive fuel
+cell systems for heavy duty trucks within three years, with the first
+units to be delivered in the second half of 2019. This represents one
+of the largest deployments of fuel cell heavy vehicles globally."
 
 *2019-7-11 8:33:20*
 
 ---
 
-"@jacobinmag Centrists claim free college is a giveaway to the rich. But durable social-democratic programs have to be universal, covering even the wealthy. Plus we're going to raise their taxes to pay for it, anyway."
+"@jacobinmag Centrists claim free college is a giveaway to the
+rich. But durable social-democratic programs have to be universal,
+covering even the wealthy. Plus we're going to raise their taxes to
+pay for it, anyway."
 
 *2019-7-11 8:28:8*
 
@@ -76,9 +84,12 @@ I needed linearization around stable point derivation, who had it? Strogatz Nonl
 
 ---
 
-Dropout is patented? One of the most basic building blocks of deep learning. If Goog goes after ppl bcz of this patent, it will not be cool. 
+Dropout is patented? One of the most basic building blocks of deep
+learning. If Goog goes after ppl bcz of this patent, it will not be
+cool.
 
-[End software patents](https://muratk3n.github.io/thirdwave/en/2014/06/welcome-to-software-patents.html)
+[End software
+patents](https://muratk3n.github.io/thirdwave/en/2014/06/welcome-to-software-patents.html)
 
 "@chipro Google's dropout patent went active [today](https://twitter.com/chipro/status/1148481062403596293) and we should all be worried"
 
@@ -86,9 +97,10 @@ Dropout is patented? One of the most basic building blocks of deep learning. If 
 
 ---
 
-Great! Push for fast payments. I Dont care how we get there. Good job Ms Presley.
+Great! Push for fast payments. I Dont care how we get there. Good job
+Ms Presley.
 
-https://youtu.be/ZvfYmpUhqRI
+[Link](https://youtu.be/ZvfYmpUhqRI)
 
 *2019-7-10 23:15:6*
 
@@ -310,9 +322,7 @@ that hard.
 
 Without women we're just bunch of f--ing brutes. Look at this teacher,
 she's so nice. The toy plastered top left on the blackboard is her TA
-(announced in the 1st lecture). Isnt that nice?
-
-https://youtu.be/aNiPDunyXt0
+(announced in the 1st lecture). Isnt that nice? https://youtu.be/aNiPDunyXt0
 
 *2019-7-9 10:20:12*
 
@@ -410,7 +420,7 @@ match, a pattern.
 ---
 
 
-So Idlib is going under the gun?
+So Idlib is going under the knife?
 
 "At least 544 civilians have been killed and over 2,000 people injured since a Russian-led assault on the last rebel bastion in northwestern Syria began two months ago, rights groups and rescuers said on Saturday. "
 
