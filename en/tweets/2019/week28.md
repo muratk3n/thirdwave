@@ -22,7 +22,7 @@ Really? Why are Aussies so into Huawei?
 effectiveness [in Washington], they cannot make her effective on its
 own. What counts is having a clear objective, and pursuing it in every
 possible way. France has been single-minded about the Iran deal,
-Australia about Huawei."
+Australia about Huawei." [Link](https://www.theatlantic.com/ideas/archive/2019/07/how-uk-fell-out-step-dc/593692/)
 
 ---
 
