@@ -484,7 +484,7 @@ the lyrics keep saying "if he dies, he dies", repeating I. Drago
 line. The scene shows another black man brutalized "pushed down by the
 white man"..
 
-https://youtu.be/EiTYwecY41c?t=111
+[Video](https://youtu.be/EiTYwecY41c?t=111)
 
 *2019-7-6 17:33:22*
 
