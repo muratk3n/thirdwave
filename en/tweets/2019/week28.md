@@ -6,6 +6,23 @@ Maudin, time travel not possible.
 
 *2019-7-12 8:59:40*
 
+---
+
+Dang they say 7.1 will take your bed and throw it out the window? Kill
+half of Stanpoli? Id like to finish what I started before this thing
+hits man. 
+
+*2019-7-12 8:59:40*
+
+---
+
+Really? Why are Aussies so into Huawei?
+
+"But although more cash and more staff can multiply an ambassador’s
+effectiveness [in Washington], they cannot make her effective on its
+own. What counts is having a clear objective, and pursuing it in every
+possible way. France has been single-minded about the Iran deal,
+Australia about Huawei."
 
 ---
 
