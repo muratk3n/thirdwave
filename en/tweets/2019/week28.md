@@ -146,9 +146,7 @@ x, y, z = symbols('x y z')
 
 m = Matrix([sin(x) + y, cos(y) + x, z])
 
-j = m.jacobian([x, y, z])
-
-pprint (j)
+pprint (m.jacobian([x, y, z]))
 ```
 ```text
 ⎡cos(x)     1     0⎤
