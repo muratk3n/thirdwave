@@ -481,7 +481,7 @@ Iron Man for fuel cells, now this? It's good!
 
 Haha..dude wrote a hip-hop song referencing a famous Rocky 4 scene,
 the lyrics keep saying "if he dies, he dies", repeating I. Drago line
-cuz in the scene there is another black man brutalized "pushed down by
+cuz in the scene shows another black man brutalized "pushed down by
 the white man"..
 
 [Video](https://youtu.be/EiTYwecY41c?t=111)
