@@ -596,14 +596,14 @@ https://twitter.com/H2Europe/status/1147065738097823744
 
 "This needs to be a people's revolution", etc. Bernie does say these
 things but let's not forget this is coming from a leftist who's been
-pushed outside the system for 40 years. He is worried "what will
-happen to this movement if I wasn't around as a leader?". He is
-worried the left being overrun by the right again.
+pushed outside the system for decades. He is worried "what will happen
+to this movement if I wasn't around as a leader?". He is worried the
+left being overrun by the right again.
 
 But personally I don't think a repeat of post-Berlin Wall situation is
-possible; There was a euphoria, the victory, an evil empire gone,
-these things are unlikely to repeat near-to-mid future. The left is
-here to stay.
+possible; That euphoria, with a sense of victory, an evil empire gone,
+these things are unlikely to be repeated near-to-mid future. The left
+is here to stay.
 
 I'd worry more about Dems being corrupted past the point of no-return,
 failing to provide a home for left thereby creating a vacuum in the
