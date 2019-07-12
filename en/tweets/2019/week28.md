@@ -313,16 +313,14 @@ The state of sci education is obnoxiously bad. How much effort does it
 take to do a write up on math, code that shows simple physical
 systems. It turns out noone thought of it.
 
-I could toot my horn and say I am the *1st* but this shit really isnt
-that hard.
-
 *2019-7-9 11:7:56*
 
 ---
 
-Without women we're just bunch of f--ing brutes. Look at this teacher,
-she's so nice. The toy plastered top left on the blackboard is her TA
-(announced in the 1st lecture). Isnt that nice? https://youtu.be/aNiPDunyXt0
+Without women we're just bunch of brutes. Look at this teacher, so
+nice. The toy plastered top left on the blackboard is her TA
+(announced in the 1st lecture). Isnt that nice?
+https://youtu.be/aNiPDunyXt0
 
 *2019-7-9 10:20:12*
 
