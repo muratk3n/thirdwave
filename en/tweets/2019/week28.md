@@ -588,7 +588,7 @@ on credit.
 
 Darn.. Nazis going green. 
 
-https://twitter.com/H2Europe/status/1147065738097823744
+[Link](https://twitter.com/H2Europe/status/1147065738097823744)
 
 *2019-7-5 13:49:7*
 
