@@ -503,6 +503,8 @@ the bulk of its forces. That forecast seems roughly on track"
 
 ---
 
+Wut?
+
 "@Intel_sky High Expected strike will be made by #IAF & #USAF in Syria very soon".
 
 *2019-7-6 13:21:25*
