@@ -439,7 +439,7 @@ this summer and are predicted to worsen in coming years, creating a
 possible humanitarian crisis as large parts of the country potentially
 become too hot to be inhabitable.
 
-https://edition-m.cnn.com/2019/07/03/asia/india-heat-wave-survival-hnk-intl/index.html?r=https%3A%2F%2Ft.co%2FvBt11SU27O
+[Link](https://edition-m.cnn.com/2019/07/03/asia/india-heat-wave-survival-hnk-intl/index.html?r=https%3A%2F%2Ft.co%2FvBt11SU27O)
 
 *2019-7-7 9:32:16*
 
@@ -457,7 +457,7 @@ Too funny. All my favorite buzzwords in one place.
 intelligence, machine learning and the cross-sectoral push for
 electrification (..) Those tipping points have likely got ..."
 
-https://www.pv-magazine.com/2019/07/05/ey-blog-warns-grid-operators-the-clock-is-ticking/?utm_source=Twitter&utm_medium=Organic&utm_content=EY_clock_ticking_Post_Twitter&utm_campaign=GenCell_Social
+[Link](https://www.pv-magazine.com/2019/07/05/ey-blog-warns-grid-operators-the-clock-is-ticking/?utm_source=Twitter&utm_medium=Organic&utm_content=EY_clock_ticking_Post_Twitter&utm_campaign=GenCell_Social)
 
 *2019-7-7 9:23:28*
 
@@ -505,9 +505,7 @@ the bulk of its forces. That forecast seems roughly on track"
 
 ---
 
-Wut?
-
-"@Intel_sky 🚨 High Expected strike will be made by #IAF 🇮🇱 & #USAF 🇺🇸 in Syria very soon".
+"@Intel_sky High Expected strike will be made by #IAF & #USAF in Syria very soon".
 
 *2019-7-6 13:21:25*
 
