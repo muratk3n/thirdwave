@@ -347,7 +347,7 @@ On other times, use watch,
 
 <img width="300"  src="https://cdn.hswstatic.com/gif/watch2.jpg"/>
 
-https://adventure.howstuffworks.com/survival/wilderness/true-north2.htm
+[Link](https://adventure.howstuffworks.com/survival/wilderness/true-north2.htm)
 
 *2019-7-9 9:36:9*
 
