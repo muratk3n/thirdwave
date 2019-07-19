@@ -539,9 +539,10 @@ Dude. Motherlode. \#python \#science
 [Link](https://www.amazon.com/Dynamical-Systems-Applications-using-Python/dp/3319781448)
 
 8.4.3, The Belousov-Zhabotinski (BZ) Reaction looks interesting, has
-code.
+the model, has code. Chemistry, DEs, and Python, and much more.
 
-Chemistry, DEs, and Python! And much more.
+The book is riffing on the Strogatz lectures in a major way, I
+remember the BZ reaction from vids.
 
 *2019-7-15 9:36:40*
 
