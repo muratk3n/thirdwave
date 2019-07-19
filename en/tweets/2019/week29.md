@@ -580,9 +580,9 @@ https://defconwarningsystem.com/2019/07/14/china-likely-tested-missiles-that-can
 ---
 
 Now I started to feel bad for the cretens of NYT. If you are not
-connected to tech / science personally, hands-on, as a creator it's
-really tough to comment abt a lot of major soc change that is related
-to tech (nearly everything).
+connected to tech / science in a personal, hands-on way, it's really
+really hard to comment abt a lot of major soc change that is related
+to tech (which is nearly everything).
 
 *2019-7-15 8:33:32*
 
@@ -642,7 +642,9 @@ to
 
 ---
 
-There is non-locality for pilot waves too - https://youtu.be/RlXdsyctD50?t=555 - akin to Cop QM entanglement
+There is non-locality for pilot waves too akin to Cop QM entanglement
+
+[Link](https://youtu.be/RlXdsyctD50?t=555)
 
 *2019-7-13 21:27:51*
 
