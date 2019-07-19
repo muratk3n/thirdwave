@@ -484,8 +484,8 @@ sluggish, sceloritic Mediterrenians, maybe they will innovate more.
 "@Nlitsardopoulos
 
 For the first time in recent memory a small hurricane hit Greece this
-year... large temperature differences typically not seen in
-Mediteraneo are increasingly the new normal."
+year... large temperature differences typically not seen in Mediterane
+are increasingly the new normal."
 
 *2019-7-15 14:0:56*
 
