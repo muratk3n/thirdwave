@@ -243,20 +243,6 @@ sultan.
 
 ---
 
-.. meaning she totally botched it up as Merkel successor now she is
-being demoted upward, probably some1 else will become party head as
-the "new successor".
-
-My 2 cents? Make sure it isn't a Catholic next time.
-
-"Annegret Kramp-Karrenbauer, a close ally of German Chancellor Angela
-Merkel and head of her Christian Democrat party, will succeed Ursula
-von der Leyen as defence minister"
-
-*2019-7-17 9:30:37*
-
----
-
 Testing new superfood concoction; milk powder with iron and calcium,
 oats with dried fruits, dried kidney beans, all ground in a blender
 turned into powder.
