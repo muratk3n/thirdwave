@@ -11,6 +11,12 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+19/7 - [QA - 15/7](/2019/07/qa-1507.md)
+
+19/7 - [GenCell and Ammonia](/2019/07/gencell.md)
+
+19/7 - [Tweets - Week 29](/tweets/2019/week29.md)
+
 12/7 - [Q&A - 12/7](/2019/07/qa-0607.md)
 
 12/7 - [Tweets - Week 28](/tweets/2019/week28.md)
@@ -18,10 +24,6 @@ despite the best efforts of people working in them.
 5/7 - [Q&A - 1/7](/2019/07/qa-0107.md)
 
 5/7 - [Tweets - Week 27 ](/tweets/2019/week27.md)
-
-28/6 - [Hope for Jaded Green Investors ](/2019/06/jaded-h2.md)
-
-28/6 - [Q&A - 25/6](/2019/06/qa-2506.md)
 
 
 ## For Members
