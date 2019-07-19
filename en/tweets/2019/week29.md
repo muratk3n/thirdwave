@@ -422,7 +422,7 @@ Democracy revolution in China
 
 War in the Middle East. Russia / US rel becomes worse bcz of it
 
-Cons likely lose in the general, new Labor PM, tho may not be Corbyn
+Cons likely lose in the general, new Labor PM, so not Corbyn
 
 Merkel leaves
 
