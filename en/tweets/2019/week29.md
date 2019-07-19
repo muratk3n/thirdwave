@@ -84,7 +84,7 @@ Melania Trump..
 Is she a paisan? She's got that Sophie Louren thing going on. Cat
 girl.. Meow.
 
-Uh Dough-nald, uh let's do it in uh the Roosevelt uh room uh.
+Uh-Dough-nald, uh let's do it in uh Roosevelt uh room uh.
 
 *2019-7-18 15:47:19*
 
