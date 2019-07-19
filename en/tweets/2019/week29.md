@@ -157,9 +157,9 @@ hori less, minimize cost functional, find ODE, solve, get traj.
 
 ---
 
-Year 2019 and I heard the words "anti-ciziten" as a political label
-(in an attack but still). It's a thing, the attack has some
-substance. It is mind boggling to me that it is a thing.
+Year 2019 and I heard the words "anti-citizen" as a political label
+(in an attack but still). It's a thing, the attack has some substance
+(generally speaking). It is mind boggling to me that this is a thing.
 
 *2019-7-18 9:46:42*
 
