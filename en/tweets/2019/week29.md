@@ -423,9 +423,9 @@ Cons likely lose in the general, new Labor PM, tho may not be Corbyn
 
 ---
 
-My most favorite drone design so far
-
 ![](https://images-na.ssl-images-amazon.com/images/I/712umy5RlRL._SY355_.jpg)
+
+My most favorite drone design so far
 
 A hexacopter! Looks like a UFO! UDI U845 WiFi Voyager.
 
