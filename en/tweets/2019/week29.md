@@ -444,8 +444,8 @@ Kamala surely seems to support M4A by mistake, a lot.
 ---
 
 He/Him/His Beto finds slaveholders in ancestry. Here is an idea, do
-you own reperations. Take some of that wealth and give some of it to
-the ancestors of those slaves?
+your own reperations. Take some of that wealth (apparenty based on
+slavery) and give some of it to the ancestors of those slaves?
 
 *2019-7-16 10:53:5*
 
@@ -470,7 +470,7 @@ at point t, can u feed ppl or not? Yes. Then we can get them the goods
 and services. You just rearrange the middle part to fit the rest, not
 the other way around.
 
-Don't be an imbecile, a dildo could connect these dots. 
+Don't be an imbecile. A dildo could connect these dots. 
 
 "The fertility rate of the population is not enough to sustain itself"
 
@@ -478,7 +478,7 @@ Don't be an imbecile, a dildo could connect these dots.
 
 ---
 
-Actually I kinda like that hood getting wilder, it'll shake-up
+Actually I kinda like the hood getting wilder, it'll shake-up
 sluggish, sceloritic Mediterrenians, maybe they will innovate more.
 
 "@Nlitsardopoulos
