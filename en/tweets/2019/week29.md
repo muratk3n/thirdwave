@@ -401,7 +401,7 @@ had that internal machinery for socdyn prediction.
 ---
 How do I know "the psycic" actually *computes* his findings? Because
 from the way he explains them, I can see he has basic grasp on soc
-interaction, timings, value of actions, etc. So he has already has the
+interaction, timings, value of actions, etc. So he already has the 
 framework, based on that, you can compute if you have that ability as
 well (which he does). Then call it a dream, a vision, u go to sleep
 wake up and the computation output is there waiting for you, it really
