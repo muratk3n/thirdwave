@@ -79,10 +79,8 @@ What 50% is DJT talking abt? Approve is 42 disprove 52. Net = -10.
 
 ---
 
-Melania Trump..
-
-Is she a paisan? She's got that Sophie Louren thing going on. Cat
-girl.. Meow.
+Melania Trump.. Is she a paisan? She's got that Sophie Louren thing
+going on. Cat woman.. Meow.
 
 Uh-Dough-nald, uh let's do it in uh Roosevelt uh room uh.
 
