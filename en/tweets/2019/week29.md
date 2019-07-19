@@ -394,13 +394,23 @@ Some funny answers in the thread too.. (4IR is "4th Indust Rev").
 
 ---
 
-How do I know this guy actually computes these findings? Because from
-the way he explains them, I can see he has basic grasp on soc
+Some ppl do have mad skillz on predictive socdyn. Bruce B. de Mesquita
+has a game theoretic model which has insane prediction accuract on
+group decisions (e.g. who will India elect as the PM? Will NK come to
+piece table, etc). When he puts the algo up for competition against IR
+analysts, he saw some ppl consistenly tied the machine. So some ppl
+have an internal machinery for socdyn prediction. 
+
+*2019-7-16 12:11:42*
+
+---
+How do I know "the psycic" actually *computes* his findings? Because
+from the way he explains them, I can see he has basic grasp on soc
 interaction, timings, value of actions, etc. So he has already has the
-framework, based on that, you can compute, if you have that as well
-(which he does). Then call it a dream, a vision, u go to sleep wake up
-and the computation output is there waiting for you, it really doesn't
-matter. 
+framework, based on that, you can compute if you have that ability as
+well (which he does). Then call it a dream, a vision, u go to sleep
+wake up and the computation output is there waiting for you, it really
+doesn't matter.
 
 *2019-7-16 12:11:42*
 
@@ -418,6 +428,8 @@ Democracy revolution in China
 War in the Middle East. Russia / US rel becomes worse bcz of it
 
 Cons likely lose in the general, new Labor PM, tho may not be Corbyn
+
+Merkel leaves
 
 *2019-7-16 12:11:42*
 
