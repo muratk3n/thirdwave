@@ -397,9 +397,9 @@ Some funny answers in the thread too.. (4IR is "4th Indust Rev").
 Some ppl do have mad skillz on predictive socdyn. Bruce B. de Mesquita
 has a game theoretic model which has insane prediction accuract on
 group decisions (e.g. who will India elect as the PM? Will NK come to
-piece table, etc). When he puts the algo up for competition against IR
+piece table, etc). When he put the algo up for competition against IR
 analysts, he saw some ppl consistenly tied the machine. So some ppl
-have an internal machinery for socdyn prediction. 
+have an internal machinery for socdyn prediction.
 
 *2019-7-16 12:11:42*
 
