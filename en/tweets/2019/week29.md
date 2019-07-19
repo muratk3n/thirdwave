@@ -706,22 +706,6 @@ Bernie: "20% are in jail bcz they cannot afford cash bail". Crazy.
 
 ---
 
-Bill is IaC. By default they dont listen to anything, so polls might
-have been his systemic way of offsetting that shortcoming. I remember
-that era, coincidentally CRM was a huge buzzword back then perhaps
-partly due to that.
-
-How important is listening actually..? Depends. How much did Steve
-Jobs listen? Did he give customers what he wanted, or what they
-thought they wanted?
-
-"But isnt it important to poll ppl to find out what they think on spec
-items? Experienced pols like Clinton polled all the time".
-
-*2019-7-13 10:25:12*
-
----
-
 *Crashed*
 
 "During the height of the crisis in 2008–2009, the West was, frankly,
@@ -734,10 +718,11 @@ dividing. Then, in 2013, the EU sleepwalked into confrontation with
 Putin ​over Ukraine. And all of this at a moment when the Obama
 administration was pushing TPP, seen in Beijing as aggressive
 containment, and Japan and China were confronting each other over
-rocky islands in the East China Sea. No doubt the Trump administration
-is unpredictable, but it was on Obama’s watch, with Hillary Clinton as
-secretary of state, that relations with Russia and China escalated to
-this degree".
+rocky islands in the East China Sea.
+
+No doubt the Trump administration is unpredictable, but it was on
+Obama’s watch, with Hillary Clinton as secretary of state, that
+relations with Russia and China escalated to this degree".
 
 *2019-7-13 10:22:0*
 
