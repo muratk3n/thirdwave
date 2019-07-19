@@ -44,7 +44,7 @@ and refueling system"
 
 Wut? J. Bamber is a Brit? Damn Brit actors do American accent too
 well. I heard the guy on diff show w genuine Brit accent, I tho "no
-American does Brit accent that well". Turns out the fake accent was
+American does Brit accent that good". Turns out the fake accent was
 the 1st one (on BSG).
 
 *2019-7-18 17:52:34*
