@@ -547,7 +547,8 @@ Chemistry, DEs, and Python! And much more.
 
 ---
 
-Isn't <a href="https://youtu.be/RlXdsyctD50?t=267">this</a> much more straightforward? \#pilotwave
+Isn't <a href="https://youtu.be/RlXdsyctD50?t=267">this</a> so much
+more straightforward? \#pilotwave
 
 *2019-7-15 9:35:40*
 
@@ -567,7 +568,7 @@ nine-dashed line encloses some 80-90 percent of the South China Sea,
 including not just contested Spratly and Paracel islands, atolls, and
 reefs"
 
-https://defconwarningsystem.com/2019/07/14/china-likely-tested-missiles-that-can-kill-aircraft-carriers-in-the-south-china-sea/
+[Link](https://defconwarningsystem.com/2019/07/14/china-likely-tested-missiles-that-can-kill-aircraft-carriers-in-the-south-china-sea/)
 
 *2019-7-15 8:55:4*
 
