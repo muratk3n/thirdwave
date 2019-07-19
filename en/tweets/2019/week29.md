@@ -79,6 +79,17 @@ What 50% is DJT talking abt? Approve is 42 disprove 52. Net = -10.
 
 ---
 
+Melania Trump..
+
+Is she a paisan? She's got that Sophie Louren thing going on. Cat
+girl.. Meow.
+
+Uh Dough-nald, uh let's do it in uh the Roosevelt uh room uh.
+
+*2019-7-18 15:47:19*
+
+---
+
 Continuous rocks.
 
 "[A Feynman story] The router of the Connection Machine [a startup
