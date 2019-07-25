@@ -38,6 +38,8 @@ başlar.
 
 [Egitim](/2018/10/egitim.md)
 
+[Fisleme](/2018/12/fisleme.html)
+
 ## Gez
 
 [Seneye Gore](years.md)
