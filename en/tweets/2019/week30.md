@@ -38,8 +38,8 @@ The Everly Brothers - Leave My Woman Alone \#music
 
 Good profiling trick: look at intense disagg, conflict - usually the
 two sides of the conf have the same type. Like Varoufuckis vs
-Schauble, both are Mellow Meadow. Who gets the best digs into Trump?
-Colbert. Etc..
+Schauble, both are Mellow Meadow. Who gets the most brutal digs into
+Trump?  Colbert. Etc..
 
 Whatever we might know of other types, we only truly now our own
 kind.
