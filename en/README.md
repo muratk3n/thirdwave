@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+26/7 - [The Math for Greenhouse Effect and Global Warming](/2019/07/greenhouse-effect-math.md)
+
+26/7 - [Tweets - Week 30](/tweets/2019/week30.md)
+
 19/7 - [QA - 15/7](/2019/07/qa-1507.md)
 
 19/7 - [GenCell and Ammonia](/2019/07/gencell.md)
@@ -21,9 +25,6 @@ despite the best efforts of people working in them.
 
 12/7 - [Tweets - Week 28](/tweets/2019/week28.md)
 
-5/7 - [Q&A - 1/7](/2019/07/qa-0107.md)
-
-5/7 - [Tweets - Week 27 ](/tweets/2019/week27.md)
 
 
 ## For Members
