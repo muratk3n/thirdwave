@@ -6,12 +6,10 @@ SB is a total 3W company; stores are geared for knowledge workers.
 
 ---
 
-Starbucks. I am a huge fan. 
-
-I been to so many stores in so many different countries that if there
-was an award for this sort of thing, I am sure I'd win it. I seek them
-out whereever I go too.. I could be in Philippenes Cebu City and I'll
-find the SB there.
+I been to so many Sbucks stores in so many different countries that if
+there was an award for this sort of thing, I am sure I'd win it. I
+seek them out whereever I go too.. I could be in Philippenes Cebu City
+and I'll find the SB there.
 
 *2019-7-25 15:19:31*
 
