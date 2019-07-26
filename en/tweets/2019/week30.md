@@ -176,8 +176,8 @@ a Hat in a tutu in a Russian Doll, in a box. On and on it'll go..
 SM will travel back in time, go to a different universe, travel
 forward in time, and back to the first universe, so nothing will have
 changed. And he'll do it so fast you wont see he did it. That scene
-will be just that one shot on SM, that's it. No reason why to do the
-move. It just dazzles you, and the movie pulls you in more at that
+will be just that one shot on SM, that's it. No reason is given for
+the move. It just dazzles you, and the movie pulls you in more at that
 point. Complete immersion.
 
 *2019-7-24 10:11:18*
