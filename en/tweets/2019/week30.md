@@ -175,9 +175,9 @@ a Hat in a tutu in a Russian Doll, in a box. On and on it'll go..
 
 SM will travel back in time, go to a different universe, travel
 forward in time, and back to the first universe, so nothing will have
-changed. But he'll do it so fast you wont see the difference. That
-scene will be just that one shot on SM, that's it. No reason why to do
-the move. It just dazzles you, and the movie pulls you in more at that
+changed. And he'll do it so fast you wont see he did it. That scene
+will be just that one shot on SM, that's it. No reason why to do the
+move. It just dazzles you, and the movie pulls you in more at that
 point. Complete immersion.
 
 *2019-7-24 10:11:18*
@@ -186,9 +186,11 @@ point. Complete immersion.
 
 Superman will be flying around randomly, he'll say 'woah... I am so
 confused right now...?'. There'll be bunch of unresolved plot lines
-for random mystery. People will constantly run into eachother for no
+for random confusion. People will constantly run into eachother for no
 reason. 'Batman? What are you doing in this telephone booth..? I'm,
-like, here too. So mystified'.
+like, here too.
+
+So mystified'.
 
 *2019-7-24 10:0:29*
 
