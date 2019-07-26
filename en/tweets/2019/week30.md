@@ -534,14 +534,6 @@ research? Pfff
 
 ---
 
-The math for greenhouse effect, global warming
-
-[Video](https://www.youtube.com/watch?v=Le0n4mCRkzY)
-
-*2019-7-22 8:44:3*
-
----
-
 Mechanics is all about differential equations. Then you look at analog circuits, they too are all about differential equations. I wonder if ppl used circuits to "solve" DEs. Because you could theoretically solder a circuit for the formula you want to solve. There is a thing for integration, you could do addition... 
 
 *2019-7-22 8:39:13*
