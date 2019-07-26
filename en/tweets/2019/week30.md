@@ -166,8 +166,8 @@ learning. Automatic differentiation for instance.
 ---
 
 Aw man, Green Lantern too? .. Perfect char for Jar Jar actually. GL
-now will be ring-creating Cat in a Hat, Cat in a Hat in a tutu, Cat in
-a Hat in a tutu in a Russian Doll, in a box. On and on it'll go..
+now ring-create Cat in a Hat, Cat in a Hat in a tutu, Cat in a Hat in
+a tutu in a Russian Doll, in a box. On and on it'll go..
 
 *2019-7-24 10:11:18*
 
