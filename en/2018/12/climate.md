@@ -40,3 +40,5 @@ Is It Real?
 
 [January Temperatures](../../2018/01/january-temperatures.md)
 
+[The Math for Greenhouse Effect and Global Warming](../../2019/07/greenhouse-effect-math.md)
+
