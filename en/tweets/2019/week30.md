@@ -373,6 +373,17 @@ Anglo American Platinum announced on Monday: 'We are screening opportunities to 
 
 ---
 
+Hah. Just noticed the name is like "crystal ball".
+
+Nice job parents. At least it's not one of those hippie boomer parent
+names; I know a Jennifer with double 'n' intead of double 'f'. Way to
+be 'out of the ordinary', 'rebellious', 'bucking the system'
+boomers. Enjoy your price-inflated real-estate.
+
+*2019-7-22 17:50:26*
+
+---
+
 Krystal Ball is foxy. Rrrrrr
 
 *2019-7-22 17:50:26*
@@ -477,7 +488,7 @@ Little puzzley "math" gems do not interest me at all. "Possible to divide any po
 
 ---
 
-Dude! 1200$ a month for a bunk bed. 
+Woha. 1200$ a month for a bunk bed. 
 
 SF is fukked.
 
@@ -511,7 +522,7 @@ Dried and ground vegetables - they have spinach, even broccoli.
 
 [Link](https://www.kuruyesildukkan.com/Sebze-Tozlari)
 
-.. and these ppl have green peppers
+Green peppers
 
 [Link](https://www.kurucum.com/kurutulmus-yesil-biber.html)
 
