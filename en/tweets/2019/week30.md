@@ -522,11 +522,10 @@ Dried and ground vegetables - they have spinach, even broccoli.
 ---
 
 Scientist in US was measuring the temparature of the moon, from all
-the way on Earth, in 1885. Can you see how f--ing cool that is?
-Instead of looking for mystery in backward-ass Egyptian tech
-(pyramids!) the real mystery is within a few hundred years. Then
-another dude takes that research uses it for his greenhouse effect
-research? Pfff
+the way on Earth, in 1885. How f--ing cool is that?  Instead of
+looking for mystery in backward-ass Egyptian tech (pyramids!) the real
+mystery is within a few hundred years. Then another dude takes that
+research uses it for his greenhouse effect research? Pfff
 
 [Link](https://youtu.be/Le0n4mCRkzY?t=599)
 
