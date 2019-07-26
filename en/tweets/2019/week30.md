@@ -686,9 +686,8 @@ deserve) so he is sadly the "front man" for this historical moment.
 ---
 
 Some said TG movie feels like a commercial rather than a movie. It's
-true. You could take any 5 second sequence from most of it, and
-mumbble the name of a product afterwards and it would be like a
-commercial. 
+true. You could take any 5 second sequence from most of it, and mumble
+the name of some product afterwards and it would be like a commercial.
 
 *2019-7-20 9:15:35*
 
