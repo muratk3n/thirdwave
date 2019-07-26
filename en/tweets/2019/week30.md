@@ -665,9 +665,10 @@ company is headquartered in Israel "
 ---
 
 Johnson and Nixon did more for moon landing than JFK. Johnson
-recommended moonlanding as a goal to him. But JFK looks good on TV
-(and is a LTCB type like Beto always getting more accolades than they
-deserve) so he is sadly the "front man" for this historical moment.
+recommended moonlanding as a goal to begin with. But JFK looks good on
+TV (and is a LTCB type like Beto always getting more accolades than
+they deserve) so he is sadly the "front man" for this historical
+moment.
 
 *2019-7-20 11:42:55*
 
