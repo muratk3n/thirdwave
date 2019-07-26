@@ -147,8 +147,8 @@ up Steve for an adoption at a young age.
 
 Also his bio father has a PhD.
 
-(I am not saying non-PhD ppl are not worthy but you might want to pick
-another example for "signaling").
+(I am not saying non-PhD ppl are not worthy but the original commenter
+might want to pick another example for his "signaling").
 
 "Guy curses at Syrians while holding an iPhone [thanks to a Syrian he
 is trying to say, implying Steve Jobs].. so we should have open
