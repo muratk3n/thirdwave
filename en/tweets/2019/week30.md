@@ -373,12 +373,12 @@ Anglo American Platinum announced on Monday: 'We are screening opportunities to 
 
 ---
 
-Hah. Just noticed the name is like "crystal ball".
+Hah. Just noticed her name is like "crystal ball".
 
 Nice job parents. At least it's not one of those hippie boomer parent
 names; I know a Jennifer with double 'n' intead of double 'f'. Way to
-be 'out of the ordinary', 'rebellious', 'bucking the system'
-boomers. Enjoy your price-inflated real-estate.
+be 'out of the ordinary', 'rebellious' boomers, 'bucking the
+system'. Enjoy your price-inflated real-estate.
 
 *2019-7-22 17:50:26*
 
