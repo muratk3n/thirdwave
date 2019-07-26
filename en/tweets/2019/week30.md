@@ -151,7 +151,7 @@ Also his bio father has a PhD.
 another example for "signaling").
 
 "Guy curses at Syrians while holding an iPhone [thanks to a Syrian he
-is trying to say as in Steve Jobs].. so we should have open borders".
+is trying to imply Steve Jobs].. so we should have open borders".
 
 *2019-7-24 10:39:38*
 
