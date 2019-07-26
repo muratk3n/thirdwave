@@ -618,16 +618,6 @@ Scifi TV: "Yes/No decisions are the easiest for AI"
 
 ---
 
-Here is the deal; you can argue with a model, but it is hard to argue
-with an ML result. More data would have made it better maybe? Should I
-have added another layer in my NN? The the test data supposedly tells
-you that but again you are back to the data. ML is captive to it cuz
-at the end of the day it has nothing else.
-
-*2019-7-21 10:41:38*
-
----
-
 He is right. Sethian works with PDEs (used in phy) on all kinds of
 interesting problems. We need more of this, but instead a lot of brain
 power is wasted on the "statistical thing", where practitioners mainly
