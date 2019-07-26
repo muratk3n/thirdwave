@@ -738,3 +738,5 @@ That is one pissed off Swede..
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Berkeley Earth&#39;s temperature update is out, supporting <a href="https://twitter.com/NASAGISS?ref_src=twsrc%5Etfw">@NASAGISS</a> and <a href="https://twitter.com/CopernicusECMWF?ref_src=twsrc%5Etfw">@CopernicusECMWF</a> in finding that June 2019 was the warmest June on record at 1.19C (± 0.08C) above the 1850-1900 average. Via <a href="https://twitter.com/RARohde?ref_src=twsrc%5Etfw">@RARohde</a>: <a href="https://t.co/PkaO6JBqP2">pic.twitter.com/PkaO6JBqP2</a></p>&mdash; Zeke Hausfather (@hausfath) <a href="https://twitter.com/hausfath/status/1151621521518936065?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+
