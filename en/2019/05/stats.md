@@ -129,23 +129,26 @@ from pandas_datareader import data
 
 start=datetime.datetime(1950, 1, 1)
 end=datetime.datetime(2019, 6, 1)
-cols = ['LABSHPUSA156NRUG']
+cols = ['PRS85006173']
 df4 = data.DataReader(cols, 'fred', start, end)
-df4.columns = ['labor_wage_share']
+df4.columns = ['labor_share_of_income']
+print (df4.labor_share_of_income.max())
+df4.ix[:,'labor_share_of_income'] = df4.labor_share_of_income / df4.labor_share_of_income.max()
 print (df4.tail(4))
 ```
 
 ```text
-            labor_wage_share
-DATE                        
-2014-01-01          0.594415
-2015-01-01          0.596133
-2016-01-01          0.594474
-2017-01-01          0.596918
+117.495
+            labor_share_of_income
+DATE                             
+2018-04-01               0.847032
+2018-07-01               0.847508
+2018-10-01               0.843364
+2019-01-01               0.840921
 ```
 
 ```python
-df4['labor_wage_share'].plot()
+df4['labor_share_of_income'].plot()
 plt.savefig('labor_share.png')
 ```
 
