@@ -252,7 +252,7 @@
 
 [One More Thing](07/one-more-thing.md)
 
-[Uncertainty](07/uncertainty.md)
+[Uncertainty, Clockwork, Science](07/uncertainty.md)
 
 [#lol](07/wimp.md)
 
