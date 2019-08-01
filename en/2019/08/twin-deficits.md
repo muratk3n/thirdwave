@@ -68,7 +68,7 @@ done was to enable George W Bush and right-wing class war, and his
 push for greater after-tax, income equality". Then further on fiscal
 responsibility "it takes two to tango" and for this tangoing, the GOP
 doesn't want to dance, Democrats can't afford to take sole
-responsibility".
+responsibility.
 
 And, this for me the absolutely killer line, "surplus creating fiscal
 policies established by Robert Rubin and company would have been very
