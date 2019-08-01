@@ -107,15 +107,15 @@ particular political vantage point.
 The only problem with it is, it's not what happened. It is absolutely
 not what happened because the Chinese actually held steady, flip one
 type of investment to another, and the dollar in fact increases in
-value against foreign currencies over the course of the crisis in
-2008. It turns out what is going to blindside us in 2007/8 is not this
-hyper politicized drama of public balance sheets, a government debt of
-the interrelationship between China and the United States. What's
-going to blindside us is simply the meltdown of financial capitalism
-in its core between the United States and Europe, precisely in the
-deep politicized realm of market transactions where everything is
-really basically supposed to have been taken care of, by means of
-derivatives those risks are going to be hedged away.
+value against foreign currencies over the course of the crisis
+in 2008. It turns out what is going to blindside us in 2007-8 is not
+this hyper politicized drama of public balance sheets, a government
+debt of the interrelationship between China and the United
+States. What's going to blindside us is simply the meltdown of
+financial capitalism in its core between the United States and Europe,
+precisely in the deep politicized realm of market transactions where
+everything is really basically supposed to have been taken care of, by
+means of derivatives those risks are going to be hedged away.
 
 What doesn't do well is the global banking system, the banking system
 centered on the United States and Europe which is melting down. And by
