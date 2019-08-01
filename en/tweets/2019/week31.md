@@ -67,7 +67,7 @@ Analysts do it continuously and smoothly."
 
 ---
 
-U gotta love freedom of speech. Random guy; first commenter of that tweet.
+U gotta love freedom of speech. Random guy; first commenter on that tweet.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">fuck off</p>&mdash; Tom (@teafenn) <a href="https://twitter.com/teafenn/status/1156655448906489856?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -596,8 +596,8 @@ I hope Dem strategists are reading Tooze well; the bailouts after 2008
 created a rift between corp Reps and rank-and-file Reps; TARP passed
 thanks to Dems in Congress, Reps sat it out. For a Republican admin!
 McCain could not reach the rank-and-file, years later Trump did. But
-Trump kowtowed to corporate power too, so the rift exists. The Dem
-nominee can hit that.
+Trump kowtowed to corporate power too, so the rift exists. The 2020
+Dem nominee can hit that.
 
 *2019-7-29 15:52:20*
 
