@@ -38,8 +38,7 @@ on its major future geopolitical antagonist China.
 
 All of this is already apparent in the early 2000s and becomes the
 object of a rather obsessive amour discourse [some Reps picked up on
-this as well, and wrote books like with words like "Chinamerica" in
-them).
+this as well, and wrote books with words like "Chinamerica" in them).
 
 [..] Larry Summers used the term the balance of terror at a talk in DC
 at the Peterson Institute in 2003, the idea that the financial
