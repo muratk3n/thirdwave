@@ -1,14 +1,15 @@
 # Tweets - Week 31
 
-This debate has less gimmicks, bitchy Spanish, weird exchanges. At least in terms of overall flair, it is better. 
+This debate has less gimmicks, bitchy Spanish, weird exchanges. At
+least in terms of overall flair, it is better.
 
 *2019-8-1 10:53:17*
 
 ---
 
-Biden looks tired, mellow; but when young, with more energy, that's when he was doing all that dumb stuff. So now he looks like shit was kicked out of him, but perversely, he is making less mistakes, because he is having less fun. 
-
-So guy is actually half-dead, but that comes across as "seriousness". 
+Biden looks tired, mellow; but when young, with more energy, that's
+when he was doing all that dumb stuff. So now he looks like shit was
+kicked out of him, but perversely, he is making less mistakes of that.
 
 \#demdebate
 
@@ -26,7 +27,7 @@ de Blasio, good job. Kamala didn't disappoint.
 
 ---
 
-Blah blah, number 1. Blah blah number 2. Broken record. 
+Blah blah, number 1. Blah blah number 2. Very tired formula.
 
 \#demdebate
 
