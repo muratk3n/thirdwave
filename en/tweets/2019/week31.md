@@ -922,23 +922,16 @@ Sad
 
 ---
 
-"@BernieSanders
-
-'Bernie was fighting for a woman's right to choose before I was born'
-
-[Link](https://mobile.twitter.com/BernieSanders/status/1154577578113585153)
-
-*2019-7-28 10:32:25*
-
----
-
 [facepalm]
 
-'@dmonett
+"@dmonett
 
-A "worrying analysis":
+A 'worrying analysis':
 
-"18 [#deeplearning] algorithms ... presented at top-level research conferences ... Only 7 of them could be reproduced w/ reasonable effort ... 6 of them can often be outperformed w/ comparably simple heuristic methods.'
+18 [#deeplearning] algorithms ... presented at top-level research
+conferences ... Only 7 of them could be reproduced w/ reasonable
+effort ... 6 of them can often be outperformed w/ comparably simple
+heuristic methods"
 
 [Link](https://mobile.twitter.com/dmonett/status/1154876433564655616)
 
