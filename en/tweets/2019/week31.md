@@ -66,7 +66,7 @@ Analysts do it continuously and smoothly."
 
 ---
 
-U gotta love freedom of speech
+U gotta love freedom of speech. Random guy; first commenter of that tweet.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">fuck off</p>&mdash; Tom (@teafenn) <a href="https://twitter.com/teafenn/status/1156655448906489856?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
