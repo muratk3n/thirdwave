@@ -1,6 +1,6 @@
 # Twin Deficits, GFC
 
-[Tooze](https://www.youtube.com/watch?v=TFuDbc3ZbJ4)
+[Tooze](https://youtu.be/TFuDbc3ZbJ4?t=291)
 
 *Transcript taken from the video*
 
