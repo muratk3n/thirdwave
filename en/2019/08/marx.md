@@ -55,4 +55,4 @@ Related
 [Chomsky](https://youtu.be/d_LPraj3_s4?t=231): There was no socialism
 in Russia, after 1918. The "revolutionists" called themselves
 socialists, the West liked they used that word, because now the right
-in the West could now associate authoritarinism with socialism.
+in the West could associate authoritarinism with socialism.
