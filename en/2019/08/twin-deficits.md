@@ -4,15 +4,15 @@
 
 *Transcript taken from the video*
 
-Within the United States of course itself an increasing anxiety and
-discontent begins to emerge in response to the increasingly obvious
-fiasco of the policy in Afghanistan, in Iraq, and what this does I
-would argue is to help to shape a macroeconomic critique of the
-political economy, the geopolitics, the geoeconomics of the Bush
-administration.
+[Before 2008 crisis] Within the United States of course itself an
+increasing anxiety and discontent begins to emerge in response to the
+increasingly obvious fiasco of the policy in Afghanistan, in Iraq, and
+what this does I would argue is to help to shape a macroeconomic
+critique of the political economy, the geopolitics, the geoeconomics
+of the Bush administration.
 
 This [analysis] is very powerful it's very influential, and these are
-people [Dems, Rubinites, Clinton pukes] who are in fact predicting a
+people [Dems, Rubinites, Clinton pukes] are in fact predicting a
 crisis, but they're projecting the wrong crisis.
 
 But nevertheless the influence of this group, Democratic Party aligned
