@@ -11,20 +11,19 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-26/7 - [The Math for Greenhouse Effect and Global Warming](/2019/07/greenhouse-effect-math.md)
+1/8 - [Anti-Zionism, Anti-Semitism](/2019/08/zionism-antisemitism.md)
 
-26/7 - [Tweets - Week 30](/tweets/2019/week30.md)
+1/8 - [Twin Deficits, GFC](/2019/08/twin-deficits.md)
 
-19/7 - [QA - 15/7](/2019/07/qa-1507.md)
+1/8 - [1.8 Trillion $ Theft](/2019/08/trillion-dollar-theft.md)
 
-19/7 - [GenCell and Ammonia](/2019/07/gencell.md)
+1/8 - [Marx](/2019/08/marx.md)
 
-19/7 - [Tweets - Week 29](/tweets/2019/week29.md)
+1/8 - [Tweets - Week 31](/tweets/2019/week31.md)
 
 12/7 - [Q&A - 12/7](/2019/07/qa-0607.md)
 
 12/7 - [Tweets - Week 28](/tweets/2019/week28.md)
-
 
 
 ## For Members
