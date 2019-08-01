@@ -3,6 +3,8 @@
 This debate has less gimmicks, weird exchanges. At least in terms of
 overall flair, it is better.
 
+\#demdebate
+
 *2019-8-1 10:53:17*
 
 ---
