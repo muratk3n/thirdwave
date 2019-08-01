@@ -44,15 +44,6 @@ Medicare by nearly $30 billion over the past three years alone"
 
 ---
 
-I am like Borg. Constantly after new tech, new analytic angle. I find
-one, I assimilate. If not interesting, it gets dropped.
-
-Resistance is futile. 
-
-*2019-8-1 2:43:29*
-
----
-
 Very mature guys. 
 
 "[@masonporter](https://twitter.com/masonporter/status/1156705511561031681)
