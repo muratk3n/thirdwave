@@ -1,10 +1,6 @@
 # Anti-Zionism, Anti-Semitism
 
-"Is there a country in the world that attracts so much criticism as
-Israel? Studies consistently show Israel to be one of the most
-disliked nations in the world (along with Iran and North Korea). But
-how much of this is to do with genuine concern about Israel’s actions,
-and how much is actually a cover for the age-old hatred of the Jews?"
+Intelligence Squared Debate. 
 
 The motion was crushed BTW; noone thinks anti-Zionism is anti-Semitism.
 
