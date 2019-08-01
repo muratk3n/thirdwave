@@ -50,7 +50,7 @@ centrists, romantics of Rome, or a Caliphate, muppets of all stripes
 still clinging to ideas that have absolutely nothing to offer for
 today's world.
 
-Links
+Related
 
 [Chomsky](https://youtu.be/d_LPraj3_s4?t=231): There was no socialism
 in Russia, after 1918. The "revolutionists" called themselves
