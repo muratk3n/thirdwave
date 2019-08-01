@@ -94,7 +94,9 @@ Grand. Steel production makes up around 7% of total global emissions. Kill that 
 
 Summary: Europeans want to switch to H2 for steelmaking, but it needs to come from renewable sources, Sweden has advantage here. 
 
-For steel prod, there are no clean alternatives to H2. They use the gas directly in the furnace to create very high temparatures.
+BTW: for steel prod, there are no clean alternatives to H2. They use
+the gas directly in the furnace to create a flame at very high
+temparatures.
 
 [Bloomberg](https://www.bloomberg.com/news/articles/2019-07-30/fossil-free-energy-supply-gives-sweden-edge-in-green-steel-race)
 
