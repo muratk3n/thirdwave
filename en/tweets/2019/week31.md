@@ -9,7 +9,8 @@ least in terms of overall flair, it is better.
 
 Biden looks tired, mellow; but when young, with more energy, that's
 when he was doing all that dumb stuff. So now he looks like shit was
-kicked out of him, but perversely, he is making less mistakes of that.
+kicked out of him, but perversely, he is making less mistakes because
+of that.
 
 \#demdebate
 
