@@ -1021,10 +1021,11 @@ creates tension.
 --- 
 
 US founders were not white supremacists. Jefferson and GW did hold
-slaves, but were for eventual equality. New Englanders like John Adams
-(the second President) abhorred it. They wanted to abolish it outright
-but saw it would cause problems with the South. So they tabled the
-issue for 80 years. When the issue came back the Civil War ensued.
+slaves, but were for eventual equality. Slaveholders in the first
+Congress were minority. New Englanders like John Adams (the second
+President) abhorred it. They wanted to abolish it outright but saw it
+would cause problems with the South. So they tabled the issue for 80
+years. When the issue came back the Civil War ensued.
 
 *2019-7-27 11:2:20*
 
