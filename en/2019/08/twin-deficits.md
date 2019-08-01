@@ -276,13 +276,10 @@ that gov deficit spending does in fact crowds out private investment,
 thereby reducing growth. Spending does not drive an economy,
 investment does. All forms of money giving, gov programs need to be
 dressed in a form of social help, not "economic growth" which it does
-not help directly. Not even UBI.
+not help directly. Not even UBI. There is money for M4A. There is
+money for UBI [link](trillion-dollar-theft.md).
 
-There is money for M4A. There is money for UBI
-[link](trillion-dollar-theft.md). 1.8 trillion $'s is being
-transferred to top %1, annually. This is theft, in broad
-daylight. Maybe this fact alone, coupled with the absence of basic
-healthcare will trigger a revolution one day (unless we die of climate
-change first).
-
-
+Overall, one can say, terrorists succeeded in hitting America with
+more than just planes. They also caused decision makers make a
+mistake. The mistake of Greenspan, and many others that followed drove
+US and the world into a ditch. 
