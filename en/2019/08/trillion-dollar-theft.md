@@ -14,5 +14,5 @@ Where to find the money for UBI, M4A? There it is.
 
 From [BLS](https://www.bls.gov/opub/ted/2017/labor-share-of-output-has-declined-since-1947.htm)
 
-![](https://muratk3n.github.io/thirdwave/en/2015/12/labor_share.png)
+![](https://muratk3n.github.io/thirdwave/en/2015/12/labor_share.png = 300x)
 
