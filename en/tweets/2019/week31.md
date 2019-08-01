@@ -1018,7 +1018,9 @@ creates tension.
 
 *2019-7-27 12:2:20*
 
---- US founders were not white supremacists. Jefferson and GW did hold
+--- 
+
+US founders were not white supremacists. Jefferson and GW did hold
 slaves, but were for eventual equality. New Englanders like John Adams
 (the second President) abhorred it. They wanted to abolish it outright
 but saw it would cause problems with the South. So they tabled the
