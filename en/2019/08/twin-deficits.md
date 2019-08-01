@@ -105,7 +105,7 @@ particular political vantage point.
 
 The only problem with it is, it's not what happened. It is absolutely
 not what happened because the Chinese actually held steady, flip one
-type of investment to another, and the dollar in fact increases in
+type of investment to another, and the dollar in fact increased in
 value against foreign currencies over the course of the crisis
 in 2008. It turns out what is going to blindside us in 2007-8 is not
 this hyper politicized drama of public balance sheets, a government
