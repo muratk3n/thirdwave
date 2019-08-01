@@ -265,28 +265,25 @@ sides.
 
 It's funny (on the deficits, and Reps); so a balanced budget for Reps
 is not only good for keeping their own base in check, it is also good
-Democrats to check Dem opposition, who will spend even more in
-response.
+for Democrats to check other Democrats, who would spend even more in
+response to Reps overspending.
 
-Reps used to slam "tax-and-spend" Democrats. Now they sort of turned
-into "don't-tax-but-spend" Republicans. Sad.
+Republicans used to slam "tax-and-spend" Democrats. Now they sort of
+turned into "spend-but-don't-tax" Republicans. Sad.
 
 A balanced budget is preferable; Richard Werner
 [proved](https://muratk3n.github.io/thirdwave/en/2018/05/werner.html)
 that gov deficit spending does in fact crowds out private investment,
-thereby reducing growth.
-
-Spending does not drive an economy, investment does. All forms of
-money giving, gov programs need to be dressed in a form of social
-help, not "economic growth" which it does not help directly. Not even
-UBI.
+thereby reducing growth. Spending does not drive an economy,
+investment does. All forms of money giving, gov programs need to be
+dressed in a form of social help, not "economic growth" which it does
+not help directly. Not even UBI.
 
 There is money for M4A. There is money for UBI
-[link](https://youtu.be/tJoe_daP0DE?t=1749). 1.8 trillion $'s is being
+[link](trillion-dollar-theft.md). 1.8 trillion $'s is being
 transferred to top %1, annually. This is theft, in broad
 daylight. Maybe this fact alone, coupled with the absence of basic
 healthcare will trigger a revolution one day (unless we die of climate
 change first).
-
 
 
