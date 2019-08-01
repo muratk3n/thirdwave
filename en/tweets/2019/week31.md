@@ -1,7 +1,7 @@
 # Tweets - Week 31
 
-This debate has less gimmicks, bitchy Spanish, weird exchanges. At
-least in terms of overall flair, it is better.
+This debate has less gimmicks, weird exchanges. At least in terms of
+overall flair, it is better.
 
 *2019-8-1 10:53:17*
 
