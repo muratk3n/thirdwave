@@ -31,7 +31,7 @@ of that.
 
 de Blasio, good job. Kamala didn't disappoint.
 
-[https://www.taxthehell.com]([https://www.taxthehell.com)
+[https://www.taxthehell.com](https://www.taxthehell.com)
 
 \#demdebate
 
