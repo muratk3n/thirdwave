@@ -9,7 +9,7 @@ People are going after Bootyjudge his 4-5% must be mouthwatering to
 them, they want to take some of that. Like Beto who undeservedly has
 some pop. When in doubt hit the media boy.
 
-\#demdebate2
+\#demdebate
 
 *2019-6-28 9:33:24*
 
@@ -21,7 +21,7 @@ Bernie is doing good; Biden plays it stoic, no mistakes so far. It's all abt how
 
 Yang looks prepared.
 
-\#demdebate2
+\#demdebate
 
 *2019-6-28 9:4:33*
 
@@ -33,7 +33,7 @@ Was that John Delaney? Has 0.5%. That is TOO MUCH. U need to drop out son.
 
 "I will credit consumers for the carbon tax I will levy on fossil companies [who will surely pass the cost on to the consumers]". 
 
-\#demdebate2
+\#demdebate
 
 *2019-6-27 18:13:28*
 

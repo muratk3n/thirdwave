@@ -670,7 +670,7 @@ Good point on the stopping
 
 [Video](https://youtu.be/MWW0zQZAReo?t=857)
 
-\#demdebate2
+\#demdebate
 
 *2019-6-28 15:53:31*
 
@@ -680,7 +680,7 @@ Haha.. Kamala did great, but this guy really doesn't like her, this was funny
 
 [Video](https://youtu.be/MWW0zQZAReo?t=1106)
 
-\#demdebate2
+\#demdebate
 
 *2019-6-28 15:52:18*
 
