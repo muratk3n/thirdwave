@@ -42,7 +42,7 @@ Today's Marx to many is a mascot; with the big beard, looking
 philosophical, who is *somehow* related to the idea of a
 revolution. For people who want to pursue such route, and in this era
 of image making, his can be a useful image. But these paragraphs are
-not for the flame throwers on the streets, they are for people who
+not for the molotof throwers on the streets, they are for people who
 should know better. Anyone who wants to develop any global
 understanding of the world such as it is today, you are confronted
 with an amalgamation of failures, Marxist, libertards, goldcucks,
