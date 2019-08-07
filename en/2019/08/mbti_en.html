@@ -40,7 +40,7 @@
          var j = i+1;
          res = $("input[name='group"+j+"']:checked").val();
          if (res == undefined) {
-           	$('#mbtierror').html("Soru " + j + " cevaplanmamis");
+           	$('#mbtierror').html("Question " + j + " not answered");
            	return;
            }
        }    
