@@ -38,7 +38,7 @@ To me it seems like Cop QM people developed "a theory of
 shadows". What do I mean by that? Let's imagine for a moment aliens
 discover us from afar, and start observing us with a telescope. But
 let's also imagine for a moment all they can see is our shadows,
-nothing else, they have on concept of 3D people, etc.
+nothing else, and they have on concept of 3D people, etc.
 
 ![](https://muratk3n.github.io/thirdwave/en/2019/08/shadows.jpeg)
 
@@ -97,15 +97,15 @@ theories. Art, interpretation of everything around us, degrade. Soon
 you go cuckoo and start watching stuff like
 [this](https://youtu.be/pCWvRI8G5s4).
 
-In terms of personality if there is to be someone to fix the current
-state of affairs, Smolin is probably the right guy (or someone like
-him). First of all the fixer has to be an American; that's where the
-energy was and has been for decades on theoretical physics and for
-some other cultural reasons, at least for the era we are in. "The guy"
-would have rubbed shoulders with the greats, and Smolin has, with
-Penrose, Feynman (he asked Feynman about the initial version of his
-theory, he reportedly replied 'not crazy enough to be right' - vintage
-F).
+For the future of physics and in terms of personality if there is to
+be someone to fix the current state of affairs, Smolin is probably the
+right guy (or someone like him). First of all the fixer has to be an
+American; that's where the energy was and has been for decades on
+theoretical physics and for some other cultural reasons, at least for
+the era we are in. "The guy" would have rubbed shoulders with the
+greats, and Smolin has, with Penrose, Feynman (he asked Feynman about
+the initial version of his theory, he reportedly replied 'not crazy
+enough to be right' - vintage F).
 
 Beyond the findings, I agree with LS emphasis on _where_ and _how_ to
 look for the grail - background independence, reciprocity (u effect
