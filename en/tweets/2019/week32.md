@@ -959,19 +959,6 @@ Hayao Miyazaki motherfucker
 
 ---
 
-Kamala's healthcare push seems genuine. I dont care how you frame
-things to placate Bamites, centrists, or amoeba.
-
-"But will her plan ban private insurance"?. It seems to ban
-employer-offered insurance. That's like, most of the private insurance
-(see [FN](https://youtu.be/SI-H2ZBpe34?t=2321)). So it sounds like
-"I'm kinda in the middle, here and there, AC/DC" but we miss the
-policy-fu jab going for the insurers.
-
-*2019-8-2 11:25:10*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Vacation. You&#39;ve just invented vacation.&quot; <a href="https://t.co/j4wn4QM4yo">https://t.co/j4wn4QM4yo</a></p>&mdash; Mike Davidson (@mikeindustries) <a href="https://twitter.com/mikeindustries/status/1156713768027471872?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Related: [Reinventing the train](https://twitter.com/gin_and_tacos/status/1082434944582979586)
