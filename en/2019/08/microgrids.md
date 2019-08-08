@@ -66,7 +66,7 @@ zones](https://microgridknowledge.com/opportunity-zones-microgrid/).
 
 "Opportunity zones, created in the US as part of the 2017 Tax Cut and
 Jobs Act, are making a splash among green energy and microgrid
-investors."
+investors.
 
 'Opportunity zones create tax incentives for investors in real estate,
 businesses and assets in areas that might not otherwise draw
