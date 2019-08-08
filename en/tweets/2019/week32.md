@@ -133,7 +133,8 @@ before that arrival.
 
 Language, schmlanguage.. Whichever language is used as main language
 isn't that important. Brits and Americans both speak English, but are
-they similar? US is more similar to Germans than to Brits.
+they similar? US is more similar to Germans than to Brits who speak a
+different language.
 
 "Are TR-Kurd issue (citizenship, cultural unity) related to
 Hispanic-US issue, both cases have a minority whose ethnic breathren
