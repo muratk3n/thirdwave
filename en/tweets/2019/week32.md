@@ -21,7 +21,12 @@ autonomy. "
 
 ---
 
-"The Opec comparison is not a pie in the sky - and the company does not even have to look for allies because of its market power. It is not without irony that the technology that is supposed to push back oil is even more critical than the black gold."
+Some dirty Cobalt talk. 
+
+"The Opec comparison is not a pie in the sky - and the company does
+not even have to look for allies because of its market power. It is
+not without irony that the technology that is supposed to push back
+oil is even more critical than the black gold."
 
 [Link](https://mobile.twitter.com/william_sw/status/1159384716547698688)
 
