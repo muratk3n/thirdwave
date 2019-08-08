@@ -52,6 +52,6 @@ room is full of trolls, chaos, the receiving end is still the singular
 executive - not a functioning solution. 
 
 Until there is a complete new way of governance, I'd say remaining at
-second wave might be better, with all the colors in the political
-spectrum covered and represented fully.
+second wave for key pieces might be better, with all the colors in the
+political spectrum covered and represented fully.
 
