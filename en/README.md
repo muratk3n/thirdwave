@@ -13,9 +13,9 @@ despite the best efforts of people working in them.
 
 8/8 - [Focus-Group Democracy](/2019/08/focus-group-democracy.md)
 
-8/8 - [microgrids.md](/2019/08/microgrids.md)
+8/8 - [Microgrids](/2019/08/microgrids.md)
 
-8/8 - [smolin.md](/2019/08/smolin.md)
+8/8 - [Smolin](/2019/08/smolin.md)
 
 8/8 - [Tweets - Week 32](/tweets/2019/week32.md)
 
