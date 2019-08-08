@@ -34,11 +34,11 @@ Interview with Smolin
 
 [Jim Rutt](https://twitter.com/jim_rutt/status/1154701707537989632)
 
-It seems to me Cop QM people developed "a theory of shadows". What do
-I mean by that? Let's imagine for a moment aliens discover us from
-afar, and start observing us with a telescope. But let's also imagine
-for a moment all they can see is our shadows, nothing else, they have
-on concept of 3D people, etc.
+To me it seems like Cop QM people developed "a theory of
+shadows". What do I mean by that? Let's imagine for a moment aliens
+discover us from afar, and start observing us with a telescope. But
+let's also imagine for a moment all they can see is our shadows,
+nothing else, they have on concept of 3D people, etc.
 
 ![](https://muratk3n.github.io/thirdwave/en/2019/08/shadows.jpeg)
 
