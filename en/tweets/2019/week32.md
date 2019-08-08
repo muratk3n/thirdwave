@@ -1,6 +1,6 @@
 # Tweets - Week 32
 
-"Why should a feudal lord give up his land for a simple person" is
+"Why should a feudal lord give up his land for a regular person" is
 this guy's message basically. Go suck some root retard.
 
 *2019-8-8 22:12:1*
