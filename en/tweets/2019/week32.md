@@ -375,11 +375,11 @@ attributes of a king or queen, or another of a surgent... These could
 be interpreted as these ppl *played* a king or queen in earlier games
 (now they are trying something else). 
 
-Lota people do feel there is something ancient, persistent inside of
-them, that even predates their birth, this could be it. Like the
-mystic says "there is another me inside of me (Y. Emre)". That could
-be loosely refering to a shadow-reversal as in *Was That Really Me?*
-(by Quenk), but maybe also a more persistent type attribute which is
+I am sure a lot of people feel there is something ancient, persistent
+inside of them, that even predates their birth, this could be it. Like
+the mystic says "there is another me inside of me (Y. Emre)", could be
+loosely refering to a shadow-reversal as in *Was That Really Me?* (by
+Quenk) maybe? But maybe also a more persistent type attribute which is
 from an "earlier game".
 
 *2019-8-6 12:21:51*
