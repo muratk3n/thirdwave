@@ -721,7 +721,7 @@ challenging, and they often stagger in at 2 or 3 in the morning."
 
 ---
 
-Real-estate bubble, stock market bubble, String Theory, Elon Musk -
+Real-estate bubble, stock market bubble, String Theory, Tesla -
 all bubbles, results of a delusional system awarding delusions.
 
 *2019-8-4 14:52:27*
