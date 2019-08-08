@@ -350,9 +350,9 @@ How is this guy still on TV?
 
 How is
 [this](https://muratk3n.github.io/thirdwave/en/2018/11/powered-by-solid-h2_26.html)
-tech coming along? Solid H2 using magnes + nano, from Kuwait? C'mon,
-commercialize, scale. What are you waiting for? Another Saddam to
-invade your ass?
+tech coming along? Solid H2 using magnes + nano, from Kuwait?
+Commercialize, scale, chop chop! What are you waiting for? Another
+Saddam to invade your ass?
 
 *2019-8-6 13:10:12*
 
