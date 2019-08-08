@@ -76,12 +76,10 @@ like electrification etc.
 "Fantastic news for FCHEA member @PlugPowerInc Along with increasing
 revenue, Plug has shipped over 28,000 #fuelcells and has become the
 world's largest user of liquid #hydrogen, utilizing 15 tons daily,
-more than NASA.
+more than NASA. Plug Power revenue rises in Q2 — and it teases 3 more
+big announcements in 2019"
 
-Plug Power revenue rises in Q2 — and it teases 3 more big
-announcements in 2019"
-
-https://www.bizjournals.com/albany/news/2019/08/06/plug-power-revenue-increase-q2-2019.html
+[Link](https://www.bizjournals.com/albany/news/2019/08/06/plug-power-revenue-increase-q2-2019.html)
 
 *2019-8-7 22:34:48*
 
