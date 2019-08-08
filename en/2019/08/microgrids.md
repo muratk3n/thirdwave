@@ -26,17 +26,17 @@ provide a host of other benefits too – the modern [fuel cell](https://www.genc
 
 We should not depend on centralized power distribution, especially not
 purely electric power distribution. If the City of New York invested
-in microgrids it would not experience the recent blackout it
-experienced recently.
+in microgrids it would not experience the blackout it experienced
+recently.
 
-The product mentioned above is Gencell A5 is an off-grid power
-solution and it uses an inexpensive liquid fuel, ammonia. Emission
-free, and when its source production method is green, is itself green.
-Ammonia can be transported easily and is the densest hydrogen
-carrier. The off-grid power installation can be supplied its fuel
-through regular transport, efficient, carrying lots of energy in
-bulk. Some solution have the modules produce their own fuel from water
-electrolysis, and store it for emergency.
+The product mentioned above is Gencell A5 - an off-grid power solution
+and it uses an inexpensive liquid fuel, ammonia. Emission free, and
+when its source production method is green, is itself green.  Ammonia
+can be transported easily and is the densest hydrogen carrier. The
+off-grid power installation can be supplied its fuel through regular
+transport, efficient, carrying lots of energy in bulk. Some solution
+have the modules produce their own fuel from water electrolysis, and
+store it for emergency.
 
 Even better we can remove electric grids completely from the equation,
 make even centralized power distribution H2 gas based. Then backup
