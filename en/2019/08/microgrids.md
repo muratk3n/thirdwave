@@ -30,17 +30,17 @@ in microgrids it would not experience the blackout it experienced
 recently.
 
 The product mentioned above is Gencell A5 - an off-grid power solution
-and it uses an inexpensive liquid fuel, ammonia. Emission free, and
-when its source production method is green, is itself green.  Ammonia
+which uses an inexpensive liquid fuel, ammonia. Emission free, and
+when its source production method is green, itself green.  Ammonia
 can be transported easily and is the densest hydrogen carrier. The
 off-grid power installation can be supplied its fuel through regular
 transport, efficient, carrying lots of energy in bulk. Some solution
 have the modules produce their own fuel from water electrolysis, and
-store it for emergency.
+store that for emergency.
 
-Even better we can remove electric grids completely from the equation,
-make even centralized power distribution H2 gas based. Then backup
-would store the gas itself as backup fuel.
+Even better the electric grids can be removed completely from the
+equation, making even centralized power distribution H2 gas based. The
+backup then would store the gas itself as backup fuel.
 
 Microgrids are catching on: Here is [news](https://microgridknowledge.com/municipal-microgrids-connecticut-grants/) from Conneticut: 
 
