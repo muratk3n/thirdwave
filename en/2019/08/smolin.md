@@ -8,9 +8,9 @@ seperate research on his own and recently published a book called
 
 In it he describes his ensemble approach, or temporal relativism which
 does away with space, makes time essential and posits behind the
-curtain the only essential is the concept of a relationship graph with
-nodes and connections. A certain interpretation of these graphs is
-what creates space; closeness means having similar views (as in
+curtain the only thing needed is the concept of a relationship graph
+with nodes and connections. A certain interpretation of these graphs
+is what creates space; closeness means having similar views (as in
 neighbors), and the system always tries to maximize variety of
 views. Macro objects like people would have less change to have
 similar views, but small objects can and do have similar views such as
