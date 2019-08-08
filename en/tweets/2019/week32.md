@@ -68,12 +68,11 @@ Yes. Daughter of late Brzezinski, the strategist.
 
 ---
 
-\#energytwitter is the perfect example of what would happen if
-"people" were relied on to solve huge technical problems. The tag is
-mostly for monkeys throwing darts at the board; second, third
-derivative of what's already being talked abt in policy circles, and
-not even the good parts of those circles, buffonish, show-biz parts,
-like electrification etc.
+\#energytwitter is the perfect example of what would happen if people
+were relied on to solve huge technical problems. The tag mostly has
+second, third derivative of what's already being talked abt in policy
+circles, and not even the good parts of those circles, the show-biz
+parts, like electrification etc.
 
 *2019-8-8 10:19:33*
 
