@@ -706,7 +706,7 @@ Stop whining centrist Democrat. The blood is still on your hands.
 
 ---
 
-The Nordics apparently are more connnected to our hunter-gatherer
+The Nordics apparently are more connected to our hunter-gatherer
 past. Sadly some other cultures' traditions revolve around losing
 virginity to a goat. 
 
