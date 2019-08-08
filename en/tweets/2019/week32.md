@@ -35,7 +35,7 @@ I wrote tutorials on a lot of subjects; I look at the way the high-level categor
 
 ---
 
-Mika Brezikinskinsinky-Ska, Shabatsky..? Kibitzen? 
+Mika Brezikinskinsinky-Ska. Shabatsky..? Kibitzen? 
 
 Yes. Daughter of late Brzezinski, the strategist.
 
