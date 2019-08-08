@@ -226,7 +226,7 @@ firing their employee for speaking out abt genders!"
 
 "@g8ge
 
-Thoughtful essay by Tom Hanna: 'Consulting has made me a better scientist'
+Thoughtful essay by Tom Hanna: 'Consulting has made me a better scientist'"
 
 [Link](https://www.linkedin.com/pulse/consulting-has-made-me-better-scientist-thomas-hanna)
 
