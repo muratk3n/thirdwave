@@ -236,8 +236,8 @@ Thoughtful essay by Tom Hanna: 'Consulting has made me a better scientist'
 
 Fueling a car is like sex; ya take the pump, stick it in there, liquid
 comes out... arrrarrrrrrghgghhh... with little convulsion, u see the
-whites of my eyes.. Total bomb. I dont think u get the same
-experience with a BEV. It'd be a weak experience.
+whites of the eyes.. Total bomb. I dont think u get the same
+experience with a BEV. It'd be weak IMO.
 
 \#fuelcell \#H2 
 
