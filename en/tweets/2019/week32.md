@@ -1,5 +1,12 @@
 # Tweets - Week 32
 
+"Why should a feudal lord give up his land for a simple person" is
+this guy's message basically. Go suck some root retard.
+
+*2019-8-8 22:12:1*
+
+---
+
 Funny I was thinking abt a drone design the other day and thought, for
 a cheap design, "remote automation" (as in within 1 km) could be
 possible; Drone is in constant radio contact, relays sensor, takes
