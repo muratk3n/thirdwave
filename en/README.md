@@ -11,13 +11,13 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-8/8 - [Focus-Group Democracy](/2019/08/focus-group-democracy.md)
-
 8/8 - [Microgrids](/2019/08/microgrids.md)
 
 8/8 - [Smolin](/2019/08/smolin.md)
 
 8/8 - [Tweets - Week 32](/tweets/2019/week32.md)
+
+8/8 - [Focus-Group Democracy](/2019/08/focus-group-democracy.md)
 
 1/8 - [Anti-Zionism, Anti-Semitism](/2019/08/zionism-antisemitism.md)
 
