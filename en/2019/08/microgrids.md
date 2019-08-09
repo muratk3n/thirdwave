@@ -42,7 +42,7 @@ Even better the electric grids can be removed completely from the
 equation, making even centralized power distribution H2 gas based. The
 backup then would store the gas itself as backup fuel.
 
-Microgrids are catching on: Here is [news](https://microgridknowledge.com/municipal-microgrids-connecticut-grants/) from Conneticut: 
+Microgrids are catching on: Here is [news](https://microgridknowledge.com/municipal-microgrids-connecticut-grants/) from Connecticut: 
 
 "Three microgrid projects are advancing through the final stages of
 review, approval and funding in the fourth and final round of
