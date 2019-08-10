@@ -2,9 +2,9 @@
 
 I always heard Smolin's name associated with Loop Quantum Gravity, an
 alternate group of physicists looking for the Holy Grail - unification
-of relativity and quantum mechanics. But Smolin apparently has a
-seperate research on his own and recently published a book called
-*Einstein's Unfinished Revolution*. 
+of all forces of nature and quantum mechanics. But Smolin apparently
+has a seperate research on his own and recently published a book
+called *Einstein's Unfinished Revolution*.
 
 In it he describes his ensemble approach, or temporal relativism which
 does away with space, makes time essential and posits behind the
