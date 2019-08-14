@@ -147,13 +147,15 @@ So we reach ODE
 \dot{\lambda}=  \lambda \bigg[ 
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 \bigg]
-``` (3)
+(3)
+``` 
 
-$$ 
+```
 \dot{d} = d \bigg[
 r - \frac{\kappa(1-\omega-rd)}{v} + \alpha 
 \bigg] + \kappa(1-\omega-rd) - (1-\omega)
-$$ (4)
+(4)
+```
 
 Some constants, funcs, will be used later
 
