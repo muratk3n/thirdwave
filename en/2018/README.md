@@ -7,8 +7,6 @@
 
 [January Temperatures](01/january-temperatures.md)
 
-[Preachers on a Plane](01/jesus-on-plane.md)
-
 [#MRI](01/mri.md)
 
 [Q&A - 23/1](01/q-231.md)

@@ -1,6 +1,5 @@
 
-
-https://www.weather.gov/media/okx/Climate/CentralPark/monthlyannualtemp.pdf
+[Doc](https://www.weather.gov/media/okx/Climate/CentralPark/monthlyannualtemp.pdf)
 
 ```python
 import pandas as pd
@@ -22,13 +21,6 @@ plt.savefig('nytemp.png')
 3  28.8  1872
 4  28.6  1873
 ```
-
-
-
-
-
-
-
 
 #####################################3
 Some scraping code
