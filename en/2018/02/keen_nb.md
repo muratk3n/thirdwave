@@ -38,31 +38,31 @@ payments, which equal the interest rate r times the debt level.
 
 Core Definitions
 
-1. The employment rate: the number of people with a job (L) divided by the total
+1) The employment rate: the number of people with a job (L) divided by the total
 population (N). De ne  $\lambda = L/N$.
 
-2. The wages share of output: the total wage bill (W) divided by GDP (Y). De ne  
+2) The wages share of output: the total wage bill (W) divided by GDP (Y). De ne  
 $\omega = W/Y$.
 
-3. The private debt to GDP ratio: Private Debt (D) divided by GDP (Y). De ne $d =
+3) The private debt to GDP ratio: Private Debt (D) divided by GDP (Y). De ne $d =
 D/Y$.
 
 Differentiate them with respect to time. Since the definitions are
 true by definition, so are these dynamic re-statements of them:
 
-1. The (percentage) employment rate will grow if the (percentage) rate
+1) The (percentage) employment rate will grow if the (percentage) rate
 of real (in ation-adjusted) economic growth exceeds the sum of the
 rate of population growth plus the rate of growth of labour
 productivity (after log differentiation)
 
 $$ \frac{\dot{\omega}}{\omega} = \frac{\dot{W}}{W} - \frac{\dot{Y}}{Y} $$
 
-2. The wages share of output will grow if wage growth exceeds the
+2) The wages share of output will grow if wage growth exceeds the
 growth in labour productivity; and
 
 $$ \frac{\dot{d}}{d} = \frac{\dot{D}}{D} - \frac{\dot{Y}}{Y} $$
 
-3. The private debt to GDP ratio will rise if debt rises faster than
+3) The private debt to GDP ratio will rise if debt rises faster than
 the rate of economic growth.
 
 $$ \frac{\dot{\lambda}}{\lambda} =  \frac{\dot{L}}{L} - \frac{\dot{N}}{N} $$
