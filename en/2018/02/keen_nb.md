@@ -55,89 +55,92 @@ of real (in ation-adjusted) economic growth exceeds the sum of the
 rate of population growth plus the rate of growth of labour
 productivity (after log differentiation)
 
-$$ \frac{\dot{\omega}}{\omega} = \frac{\dot{W}}{W} - \frac{\dot{Y}}{Y} $$
+` \frac{\dot{\omega}}{\omega} = \frac{\dot{W}}{W} - \frac{\dot{Y}}{Y} `
 
 2) The wages share of output will grow if wage growth exceeds the
 growth in labour productivity; and
 
-$$ \frac{\dot{d}}{d} = \frac{\dot{D}}{D} - \frac{\dot{Y}}{Y} $$
+` \frac{\dot{d}}{d} = \frac{\dot{D}}{D} - \frac{\dot{Y}}{Y} `
 
 3) The private debt to GDP ratio will rise if debt rises faster than
 the rate of economic growth.
 
-$$ \frac{\dot{\lambda}}{\lambda} =  \frac{\dot{L}}{L} - \frac{\dot{N}}{N} $$
+` \frac{\dot{\lambda}}{\lambda} =  \frac{\dot{L}}{L} - \frac{\dot{N}}{N} `
 
 Note:
 
 Log differentiation is used a lot, which in general form is,
 
-$$ f(x) = \frac{g(x)}{h(x)}$$
+` f(x) = \frac{g(x)}{h(x)}`
 
-$$ \ln (f(x)) = \ln \bigg( \frac{g(x)}{h(x)} \bigg) = 
-\ln(g(x)) - \ln(f(x)) $$
+```
+ \ln (f(x)) = \ln \bigg( \frac{g(x)}{h(x)} \bigg) = 
+\ln(g(x)) - \ln(f(x)) 
+```
 
-$$ \frac{f'(x)}{f(x)} = \frac{g'(x)}{g(x)} - \frac{h'(x)}{h(x)}$$
+` \frac{f'(x)}{f(x)} = \frac{g'(x)}{g(x)} - \frac{h'(x)}{h(x)}`
 
 Moving on, trying to reach an ODE
 
 \#1
 
-$$  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{Y}}{Y} $$
+`  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{Y}}{Y} `
 
-$$  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{L}}{L} - \alpha $$
+`  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{L}}{L} - \alpha `
 
-$$ \frac{\dot{\omega}}{\omega} = \frac{\dot{w}}{w} - \alpha = \Phi(\lambda)-\alpha$$
+` \frac{\dot{\omega}}{\omega} = \frac{\dot{w}}{w} - \alpha = \Phi(\lambda)-\alpha`
 
 \#2
 
-$$ \dot{D} = I - \Pi = \kappa(1 - \omega - rd) Y - (1-\omega-rd)Y $$
+` \dot{D} = I - \Pi = \kappa(1 - \omega - rd) Y - (1-\omega-rd)Y `
 
 \#3
 
-$$ 
+```
 \frac{\dot{D}}{D} = \frac{ \kappa(1 - \omega - rd)}{d} 
 - \frac{(1-\omega-rd)}{d}
-$$
+```
 
-$$ 
+```
 = \frac{ \kappa(1 - \omega - rd) - (1-\omega-rd) }{d} 
-$$
+```
 
 Calculate $\dot{Y}/Y$, bcz $\dot{Y}/Y = \dot{K}/K$
 
-$$ 
+```
 \dot{Y}/Y = \dot{K}/K = \frac{\kappa(1 - \omega - rd) Y - \delta K}{K}
-$$
+```
 
-$$ 
+```
  = \frac{\kappa(1 - \omega - rd) }{v}- \delta 
-$$ (1)
+(1)
+```
 
-$$  
+```
 \frac{\dot{D}}{D} - \frac{\dot{Y}}{Y} =
 \frac{ \kappa(1 - \omega - rd) - (1-\omega-rd) }{d} 
 - \frac{\kappa(1 - \omega - rd) }{v} + \delta
-$$
+```
 
-#3
+\#3
 
-$$  =  \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta $$
+`  =  \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta `
 
-$$ Y = L \cdot a $$
+`Y = L \cdot a `
 
-$$ 
+```
 \frac{\dot{Y}}{Y} = \frac{\dot{L}}{L} + \frac{\dot{a}}{a}
 = \frac{\dot{L}}{L} + \alpha
-$$
+```
 
-$$ \frac{\dot{\lambda}}{\lambda} = \frac{\dot{Y}}{Y} - \alpha - \beta $$
+`\frac{\dot{\lambda}}{\lambda} = \frac{\dot{Y}}{Y} - \alpha - \beta `
 
 Use (1) $\dot{Y}/Y$
 
-$$ 
+```
 \frac{\dot{\lambda}}{\lambda} = 
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
-$$
+```
 
 So we reach ODE
 
