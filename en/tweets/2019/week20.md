@@ -211,7 +211,10 @@ Funny u say that, I was thinking the same thing today bcz it is exactly like the
 
 ---
 
-"An international team of researchers [..] has discovered a new material made from manganese hydride that [..can..] be used to make molecular sieves within fuel tanks—which store the hydrogen [..] The material, called KMH-1 would enable [better] tanks"
+"An international team of researchers [..] has discovered a new
+material made from manganese hydride that [..can..] be used to make
+molecular sieves within fuel tanks—which store the hydrogen [..] The
+material, called KMH-1 would enable [better] tanks"
 
 https://m.phys.org/news/2019-05-material-potential-hydrogen-powered-vehicle.html
 

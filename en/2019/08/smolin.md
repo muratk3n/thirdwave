@@ -38,7 +38,7 @@ To me it seems like Cop QM people developed "a theory of
 shadows". What do I mean by that? Let's imagine for a moment aliens
 discover us from afar, and start observing us with a telescope. But
 let's also imagine for a moment all they can see is our shadows,
-nothing else, and they have on concept of 3D people, etc.
+nothing else, and they have no concept of 3D people, etc.
 
 ![](https://muratk3n.github.io/thirdwave/en/2019/08/shadows.jpeg)
 
