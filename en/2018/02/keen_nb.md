@@ -1,3 +1,5 @@
+# Keen Derivation
+
 Terms
 
 $\alpha$: productivity growth rate, $\frac{\ud a}{\ud t} = \alpha a$
