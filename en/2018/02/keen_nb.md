@@ -139,18 +139,18 @@ $$
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 $$
 
-So we reach ODE..
+So we reach ODE
 
-$$ \dot{\omega} = \omega \[ \Phi(\lambda)-\alpha \]$$  (2)
+`\dot{\omega} = \omega \[ \Phi(\lambda)-\alpha \]  (2)`
 
 $$ 
-\dot{\lambda}=  \lambda \bigg\[ 
+\dot{\lambda}=  \lambda \bigg[ 
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 \bigg]
 $$ (3)
 
 $$ 
-\dot{d} = d \bigg\[
+\dot{d} = d \bigg[
 r - \frac{\kappa(1-\omega-rd)}{v} + \alpha 
 \bigg] + \kappa(1-\omega-rd) - (1-\omega)
 $$ (4)
