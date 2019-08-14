@@ -57,14 +57,14 @@ its maximum from the worst adds to per capita more than $3,000.
 
 [geek]
 
-I ran the regressions [myself](lops1.tex), both as ordinary linear
+I ran the regressions [myself](lops1.md), both as ordinary linear
 regression and as a multilevel model using region/year as the group. I
 was able to reproduce results close to what BBM reports, I say close
 because I left out some variables (the stuff that BBM ended up finding
 unimportant). In kleptocracy model for example R^2 is 20% (BBM gets
 over 40%) which is very good. All variables are significant.
 
-[Here](lops2.tex) is how to reproduce W from scratch.
+[Here](lops2.md) is how to reproduce W from scratch.
 
 There is some mad skillz displayed in accounting for "traditional
 democratic" effects that could be seperate from W and S. For that, BBM
