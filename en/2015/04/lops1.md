@@ -1,7 +1,5 @@
 # Codebook 1
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 Run this first, then you can skip to other parts
 
 ```python
@@ -14,8 +12,6 @@ df = df.sort_index(by=['ccode','year'],ascending=True)
 resdem = smf.ols('democ ~ W + S', data=df).fit()
 df['demres'] = resdem.resid
 ```
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Growth and lagged change in W
 
@@ -31,9 +27,9 @@ df2 = df2[df2.dummy == 0]
 print len(df2)
 ```
 
-\begin{verbatim}
+```
 19059
-\end{verbatim}
+```
 
 ```python
 import statsmodels.formula.api as smf
@@ -41,7 +37,7 @@ results = smf.ols('WB_growth ~ W + S + DW20 + polchange + np.log(pop)', data=df2
 print results.summary()
 ```
 
-\begin{verbatim}
+```
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:              WB_growth   R-squared:                       0.005
@@ -68,14 +64,13 @@ Prob(Omnibus):                  0.000   Jarque-Bera (JB):             4176.816
 Skew:                          -0.006   Prob(JB):                         0.00
 Kurtosis:                       8.385   Cond. No.                         99.7
 ==============================================================================
-\end{verbatim}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 ```python
 %load_ext rpy2.ipython
 %R library(lme4)
 ```
+
 ```python
 import pandas as pd
 df['Klepto'] = (df['TAXGDP']-df['Expenditure']).abs()
@@ -88,7 +83,7 @@ results = smf.ols('Klepto ~ W + S + aid_gdp + np.log(pop)', data=df).fit()
 print results.summary()
 ```
 
-\begin{verbatim}
+```
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                 Klepto   R-squared:                       0.205
@@ -114,8 +109,7 @@ Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3672.715
 Skew:                           2.179   Prob(JB):                         0.00
 Kurtosis:                      11.176   Cond. No.                         141.
 ==============================================================================
-
-\end{verbatim}
+```
 
 ```python
 import statsmodels.formula.api as smf
@@ -124,7 +118,7 @@ print results.summary()
 ```
 
 
-\begin{verbatim}
+```
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                 lrgdpc   R-squared:                       0.993
@@ -152,7 +146,7 @@ Skew:                          -0.635   Prob(JB):                         0.00
 Kurtosis:                       9.086   Cond. No.                         221.
 ==============================================================================
 
-\end{verbatim}
+```
 
 
 ```python
@@ -162,7 +156,7 @@ Kurtosis:                       9.086   Cond. No.                         221.
 print res
 ```
 
-\begin{verbatim}
+```
 Linear mixed model fit by REML ['lmerMod']
 Formula: Klepto ~ W + S + log(pop) + aid_gdp + (1 | regyr)
    Data: df
@@ -194,7 +188,7 @@ S        -0.171 -0.651
 log(pop) -0.903  0.195 -0.033       
 aid_gdp  -0.417  0.071  0.043  0.329
 
-\end{verbatim}
+```
 
 ```python
 %R -i df
@@ -203,7 +197,7 @@ aid_gdp  -0.417  0.071  0.043  0.329
 print res
 ```
 
-\begin{verbatim}
+```
 Linear mixed model fit by REML ['lmerMod']
 Formula: lrgdpc ~ W + S + log(pop) + aid_gdp + laglrgdpc + (1 | regyr)
    Data: df
@@ -237,10 +231,7 @@ log(pop)  -0.678  0.086 -0.044
 aid_gdp   -0.580 -0.058  0.044  0.453       
 laglrgdpc -0.918 -0.296  0.122  0.370  0.472
 
-\end{verbatim}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 Construction
 
@@ -250,7 +241,7 @@ results = smf.ols('build ~ W + np.log(pop) + rgdpch + demres', data=df).fit()
 print results.summary()
 ```
 
-\begin{verbatim}
+```
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                  build   R-squared:                       0.047
@@ -276,6 +267,6 @@ Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1421.627
 Skew:                           1.436   Prob(JB):                    1.98e-309
 Kurtosis:                       6.741   Cond. No.                     5.21e+04
 ==============================================================================
-\end{verbatim}
+```
 
 

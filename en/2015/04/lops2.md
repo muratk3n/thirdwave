@@ -30,7 +30,7 @@ W(df2)
 print df2[['worldbankcode','RegimeType','xrcomp','xropen','parcomp','year','W','W2','S']]
 ```
 
-\begin{verbatim}
+```
       worldbankcode  RegimeType  xrcomp  xropen  parcomp  year     W    W2  S
 10228           RUS           1     NaN     NaN      NaN  1981  0.75  0.25  1
 10229           RUS           1     NaN     NaN      NaN  1982  0.75  0.25  1
@@ -51,22 +51,19 @@ print df2[['worldbankcode','RegimeType','xrcomp','xropen','parcomp','year','W','
 10244           RUS           1       3       4        4  1997  0.75  0.75  1
 10245           RUS           1       3       4        4  1998  0.75  0.75  1
 10246           RUS           1       3       4        4  1999  0.75  0.75  1
-\end{verbatim}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 ```python
 df['WS'] = df['W']/(np.log((df['S']+1)*10)/3)
 ```
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ```python
 df2['S2'] = df2['Legselec'] / 2.
 print df2[['year','legselec','S','S2']]
 ```
 
-\begin{verbatim}
+```
        year  legselec   S  S2
 15018  1981         0   0   0
 15019  1982         0   0   0
@@ -88,7 +85,7 @@ print df2[['year','legselec','S','S2']]
 15035  1998       NaN   1   1
 15036  1999       NaN   1   1
 15037  2000       NaN NaN NaN
-\end{verbatim}
+```
 
 ```python
 pol = pd.read_csv('polity4v2013.csv')
@@ -98,7 +95,7 @@ W(pol2)
 print pol2[['scode','year','xrcomp','xropen','parcomp','W2']]
 ```
 
-\begin{verbatim}
+```
       scode  year  xrcomp  xropen  parcomp    W2
 12558   RUS  2001       2       4        4  0.75
 12559   RUS  2002       2       4        4  0.75
@@ -113,16 +110,16 @@ print pol2[['scode','year','xrcomp','xropen','parcomp','W2']]
 12568   RUS  2011       2       4        4  0.75
 12569   RUS  2012       2       4        4  0.75
 12570   RUS  2013       2       4        4  0.75
-\end{verbatim}
+```
 
 ```python
 a = 0.029
 print 10*1000 * ((1+a)**10.)
 ```
 
-\begin{verbatim}
+```
 13309.2550483
-\end{verbatim}
+```
 
 ```python
 df = pd.read_csv('bdm2s2_nation_year_data_may2002.csv')
@@ -130,7 +127,7 @@ df = df[(df['S'] == 0.5) & (df['year'] > 1950)]
 print df[['country','year','xrcomp','xropen','parcomp','W','S']]
 ```
 
-\begin{verbatim}
+```
            country  year  xrcomp  xropen  parcomp     W    S
 2439     NICARAGUA  1980     -77     -77      -77  0.00  0.5
 2440     NICARAGUA  1981       0       0        2  0.00  0.5
@@ -195,7 +192,7 @@ print df[['country','year','xrcomp','xropen','parcomp','W','S']]
 19678        TONGA  1999     NaN     NaN      NaN  0.75  0.5
 
 [270 rows x 7 columns]
-\end{verbatim}
+```
 
 
 
