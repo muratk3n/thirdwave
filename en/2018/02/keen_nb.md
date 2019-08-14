@@ -80,7 +80,7 @@ $$ \frac{f'(x)}{f(x)} = \frac{g'(x)}{g(x)} - \frac{h'(x)}{h(x)}$$
 
 Moving on, trying to reach an ODE
 
-#1
+\#1
 
 $$  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{Y}}{Y} $$
 
@@ -88,11 +88,11 @@ $$  = \frac{\dot{w}}{w} + \frac{\dot{L}}{L} - \frac{\dot{L}}{L} - \alpha $$
 
 $$ \frac{\dot{\omega}}{\omega} = \frac{\dot{w}}{w} - \alpha = \Phi(\lambda)-\alpha$$
 
-#2
+\#2
 
 $$ \dot{D} = I - \Pi = \kappa(1 - \omega - rd) Y - (1-\omega-rd)Y $$
 
-#3
+\#3
 
 $$ 
 \frac{\dot{D}}{D} = \frac{ \kappa(1 - \omega - rd)}{d} 
@@ -141,16 +141,16 @@ $$
 
 So we reach ODE
 
-$$ \dot{\omega} = \omega [ \Phi(\lambda)-\alpha ]$$  (2)
+$$ \dot{\omega} = \omega \[ \Phi(\lambda)-\alpha \]$$  (2)
 
 $$ 
-\dot{\lambda}=  \lambda \bigg[ 
+\dot{\lambda}=  \lambda \bigg\[ 
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 \bigg]
 $$ (3)
 
 $$ 
-\dot{d} = d \bigg[
+\dot{d} = d \bigg\[
 r - \frac{\kappa(1-\omega-rd)}{v} + \alpha 
 \bigg] + \kappa(1-\omega-rd) - (1-\omega)
 $$ (4)
