@@ -95,7 +95,7 @@ the escapism aspect of course which must be why the general public is
 [so interested](https://youtu.be/NGH8Rt_SNy8?t=1706) in such
 theories. Art, interpretation of everything around us, degrade. Soon
 you go cuckoo and start watching stuff like
-[this](https://youtu.be/pCWvRI8G5s4).
+[this](https://youtu.be/R6G3-Zc9mtM).
 
 For the future of physics and in terms of personality if there is to
 be someone to fix the current state of affairs, Smolin is probably the
