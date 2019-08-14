@@ -74,8 +74,7 @@ Log differentiation is used a lot, which in general form is,
 ` f(x) = \frac{g(x)}{h(x)}`
 
 ```
- \ln (f(x)) = \ln \bigg( \frac{g(x)}{h(x)} \bigg) = 
-\ln(g(x)) - \ln(f(x)) 
+\ln (f(x)) = \ln \bigg( \frac{g(x)}{h(x)} \bigg) =  \ln(g(x)) - \ln(f(x)) 
 ```
 
 ` \frac{f'(x)}{f(x)} = \frac{g'(x)}{g(x)} - \frac{h'(x)}{h(x)}`
