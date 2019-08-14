@@ -139,7 +139,7 @@ $$
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 $$
 
-So we reach ODE
+So we reach ODE..
 
 $$ \dot{\omega} = \omega \[ \Phi(\lambda)-\alpha \]$$  (2)
 
