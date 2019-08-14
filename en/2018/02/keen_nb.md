@@ -141,13 +141,13 @@ $$
 
 So we reach ODE
 
-`\dot{\omega} = \omega \[ \Phi(\lambda)-\alpha \]  (2)`
+` \dot{\omega} = \omega [ \Phi(\lambda)-\alpha ]  (2)`
 
-$$ 
+```
 \dot{\lambda}=  \lambda \bigg[ 
 \frac{\kappa(1-\omega-rd)}{v} - \alpha - \beta - \delta
 \bigg]
-$$ (3)
+``` (3)
 
 $$ 
 \dot{d} = d \bigg[
