@@ -1,3 +1,4 @@
+# Patent Codebook
 
 https://www.dropbox.com/s/jng88xaqq8u4uue/CapitalRentalPriceIndex2000.dta?dl=1
 
@@ -34,7 +35,7 @@ print (dfcomp.columns)
 print (dfcs.columns)
 ```
 
-```text
+```
 Index([u'naics', u'yr1987', u'yr1988', u'yr1989', u'yr1990', u'yr1991',
        u'yr1992', u'yr1993', u'yr1994', u'yr1995', u'yr1996', u'yr1997',
        u'yr1998', u'yr1999', u'yr2000', u'yr2001', u'yr2002', u'yr2003',
