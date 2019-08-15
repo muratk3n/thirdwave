@@ -173,7 +173,7 @@ than non-democracy regimes.
 
 Issues, ppl (mostly) don't know shit about, but choosing ppl they are
 not bad at, and also, what truly matters is leaders' fear of losing an
-elenction which pushes them in a benev direction.
+election which pushes them in a benev direction.
 
 BdM found democracies not only are richer, but also fight better;
 because for fear of losing an election, democracies must mobilize
