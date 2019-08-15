@@ -445,8 +445,8 @@ not do anything.
 
 ---
 
-Multi-millionaire, multi-billionaires keep blessing the rest of us
-with their "inequality contemplation". On the solutions, they are like
+Multi-millionaire, multi-billionaires keep blessing the rest with
+their "inequality contemplation". On the solutions, they are like
 "uhhh, education". Please save your empty thinkification to yourself.
 
 *2019-8-13 9:56:4*
