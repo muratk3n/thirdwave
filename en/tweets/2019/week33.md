@@ -491,7 +491,7 @@ the other day and realized I hadn't done that for like 10 yrs.
 ---
 
 It has to be tough being POTUS. Stuff going haywire all the
-time. "Allies not cooperating, I have flaspoints everywhere, I got
+time. "Allies not cooperating, I have flashpoints everywhere, I got
 Macron crawling up my ass, Russia gone nutz, SK-Japan probs"... You
 could complain all day long if you wanted to.
 
