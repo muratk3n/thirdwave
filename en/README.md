@@ -11,6 +11,12 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
+
+15/8 - [The Memristor](/2019/08/memristors.md)
+
+15/8 - [Tweets - Week 33](/tweets/2019/week33.md)
+
 8/8 - [Microgrids](/2019/08/microgrids.md)
 
 8/8 - [Smolin](/2019/08/smolin.md)
@@ -19,9 +25,6 @@ despite the best efforts of people working in them.
 
 8/8 - [Focus-Group Democracy](/2019/08/focus-group-democracy.md)
 
-1/8 - [Anti-Zionism, Anti-Semitism](/2019/08/zionism-antisemitism.md)
-
-1/8 - [Twin Deficits, GFC](/2019/08/twin-deficits.md)
 
 ## For Members
 
