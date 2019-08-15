@@ -215,17 +215,18 @@ and \#fuelcell cell equipment"
 
 ---
 
-The economics Nobel prize is called Riksbank prize in economic
-sciences in honour of Alfred Nobel. It was abbreviated to Nobel Prize
-later. Alfred Nobel was a chemist, engineer, inventor, who liked
-blowing shit up (he invented the dynamite). There is no way he would
-have authorized giving money to economics which wasn't even considered
-a proper science then. Some would argue of course, it still isn't one
-now.
+Aahh Riksbank.. Some bad smells coming outa there.. BTW the economics
+Nobel prize is called Riksbank prize in economic sciences in honour of
+Alfred Nobel. It was abbreviated to Nobel Prize later. Alfred Nobel
+was a chemist, engineer, inventor, who liked blowing shit up (he
+invented the dynamite). There is no way he would have authorized
+giving money to economics which wasn't even considered a proper
+science then. Some would argue of course, it still isn't one now.
 
 "@adam_tooze
 
-How Sweden’s Riksbank pionneered negative rates and why its governor now needs bodyguards."
+How Sweden’s Riksbank pionneered negative rates and why its governor
+now needs bodyguards."
 
 [Link](https://twitter.com/adam_tooze/status/1161593537672241157)
 
