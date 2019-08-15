@@ -722,8 +722,8 @@ and forth on the issue at various times. The question is why is the
 practice strictly forbidden in Catholicism? 
 
 Because the Roman army needs soldiers, that's why. You need the
-numbers that's how you further the interests of the mafia. This is
-organized religion in service of organized crime.
+numbers that's how you further the interests of the mafia. Organized
+religion in service of organized crime.
 
 *2019-8-11 12:10:22*
 
@@ -1203,15 +1203,6 @@ never-ending Ponzi scheme.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Japan?src=hash&amp;ref_src=twsrc%5Etfw">#Japan</a> and <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> join forces to launch $350 million sustainable energy trade project to convert coal to <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>, and ship it in liquefied form between the two nations <a href="https://t.co/R7cdqmX1cu">https://t.co/R7cdqmX1cu</a> 🇦🇺🇯🇵🛳️ <a href="https://t.co/C1dFe9AsLV">pic.twitter.com/C1dFe9AsLV</a></p>&mdash; CHFCA (@PoweringNow) <a href="https://twitter.com/PoweringNow/status/1159219779435036672?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-8-8 22:1:54*
-
----
-
-Canadian, with life-long healthcare tells US audience that "no need
-for change, all is fine". 
-
-Yeah - go back to Canada and get mounted by a mounty, asshole.
-
-*2019-8-8 21:41:58*
 
 ---
 
