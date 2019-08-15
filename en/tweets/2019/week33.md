@@ -157,7 +157,7 @@ Boy that 10 yr yield went down like a rock
 Old McGyver says he doesn't like the new one. "They kill people left
 and right" saz he. Another militarized show. McG used to be about
 ingenuity, discovery, thinking on your feet. Very forager and
-Jesus-like, Greek. Now it's militarized Rome.
+Jesus-like. Now it's militarized Rome.
 
 *2019-8-14 17:12:58*
 
