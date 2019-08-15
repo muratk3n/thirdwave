@@ -18,7 +18,7 @@ Get ready being Blair style poodle. Chlorine chicken, four eyed fish,
 all coming your way boy!
 
 Partnering with US is not a bad thing; but in such an alternative-less
-way UK will have to do it.. not good.
+way UK has to do it.. not good.
 
 "@OleRyborg
 
