@@ -38,7 +38,7 @@ learning, but u can read that as "scientific computation").
 
 From what I read so far, it seems memristor allow analog computation,
 not just binary. Here is another article talking abt how memristor can
-model the brain works better.
+model the brain in a better way, almost naturally.
 
 [Link](https://phys.org/news/2018-12-brain-like-memristor-mimics-synapses.html)
 
