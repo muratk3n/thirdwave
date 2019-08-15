@@ -14,7 +14,11 @@ It sounds like this could be a major voting block, no?
 
 ---
 
-Get ready being US' bitch. Chlorine chicken, four eyed fish, all coming your way boy!
+Get ready being US' bitch. Chlorine chicken, four eyed fish, all
+coming your way boy!
+
+Partnering with US is not a bad thing; but in such an alternative-less
+way UK will have to do it.. not good.
 
 "@OleRyborg
 
