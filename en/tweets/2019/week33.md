@@ -815,11 +815,11 @@ on him than anything else.
 
 ---
 
-I am not talking about gold as an investment, dit. I am talking about
-the gold standard, as in, a gold backed currency. The latter is
-unworkable. In a narrow sense, for right now, in the little sandbox
-they created for you that is the fin system, go buy your gold, marry
-it, have children with it - who cares?
+I am not talking about gold as an investment, lost person. I am
+talking about the gold standard, as in, a gold backed currency. The
+latter is unworkable. In a narrow sense, for right now, in the little
+sandbox they created for you that is the fin system, go buy your gold,
+marry it, have children with it - who cares?
 
 
 *2019-8-11 0:40:3*
