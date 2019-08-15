@@ -64,5 +64,5 @@ hydrogen fuel technologies
 Cheap, allows storage four times as much as current tech. What's not
 to like? 
 
-I see Chrysler is in the list of funders. Can utilize the tech soon?
-Any cars in the works using this?
+I see Chrysler is in the list of funders. Can they utilize the tech
+soon? Any cars in the works using this?
