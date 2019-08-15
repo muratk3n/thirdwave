@@ -55,6 +55,7 @@ point? VN arch talks about memory and processing as seperate units.
 
 It's funny I kept thinking abt analog circuits and how they can
 compute DE's (as they are modeled with DE's). And how our brains are
-analog. This is a combination of those ideas; now we can create analog
-computers that can be faster and smaller. Forget the transistor, hail
-the memristor!
+analog. This is the continuation of that thought; apparently we can
+now create analog computers that can be faster and smaller. 
+
+Forget the transistor, hail the memristor!
