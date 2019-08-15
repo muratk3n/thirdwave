@@ -32,7 +32,7 @@ US producers use chlorine wash on chickens and use hormone in beef. Both illegal
 ---
 
 Fuckin Fukishima, this guy.. He actually reflected a common
-misconception of 90s, even in science. Statehood is done. Physics was
+misconception of 90s, even in science. Statecraft is done. Physics was
 done. "We just need to figure out this little thing here and there.."
 It happens all the time, Kelvin said the same thing during
 1800s. "Physics is done.. except a few dark clouds in the
