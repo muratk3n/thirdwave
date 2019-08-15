@@ -6,7 +6,7 @@ Some call memristor "The Fourth Element" because after the widely
 known elements resistor, capacitor, inductor, the memristor would be
 the the fourth, and in a way, the missing element. Its founder
 actually discovered it because he postulated *it had to be there*; the
-first three are all results of various relationss between voltage,
+first three are all results of various relations between voltage,
 current, charge, flux; one relation and its circuit element was
 missing - that turned out to be the memristor. And the last element
 added is perhaps the most important one with far-reaching consequences
