@@ -717,9 +717,9 @@ Christian, Islam branches, major sects that allow it, some going back
 and forth on the issue at various times. The question is why is the
 practice strictly forbidden in Catholicism? 
 
-Because the Roman army needs soldiers. You need the numbers that's how
-you further the interests of the mafia. This is organized religion in
-service of organized crime.
+Because the Roman army needs soldiers, that's why. You need the
+numbers that's how you further the interests of the mafia. This is
+organized religion in service of organized crime.
 
 *2019-8-11 12:10:22*
 
