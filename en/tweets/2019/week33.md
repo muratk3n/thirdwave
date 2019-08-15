@@ -33,8 +33,8 @@ done. "We just need to figure out this little thing here and there.."
 It happens all the time, Kelvin said the same thing during
 1800s. "Physics is done.. except a few dark clouds in the
 horizon". Those clouds turned out the starting of major changes (now
-there is dark energy, matter, just a little fudge here and there, no
-biggie).
+there is dark energy, matter -just a little fudge here and there, no
+biggie-).
 
 *2019-8-15 12:50:17*
 
@@ -95,7 +95,7 @@ Pump and dump rant
 
 ---
 
-Doing stuff. Handling things... haaandling everything. So disgusting.
+Doing stuff. Handling things... haaandling everything. Crass.
 
 *2019-8-14 23:52:22*
 
@@ -300,7 +300,7 @@ everything.
 
 ---
 
-Restaurants close for lunch in France? 8-|
+Restaurants close for lunch in France? :-o
 
 *2019-8-13 21:52:57*
 
