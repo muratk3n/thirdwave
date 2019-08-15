@@ -21,25 +21,34 @@ Get ready being US' bitch. Chlorine chicken, four eyed fish, all coming your way
 UK must accept US food standards in trade deal, says US farm chief. 
 US producers use chlorine wash on chickens and use hormone in beef. Both illegal in the EU."
 
-https://twitter.com/OleRyborg/status/1161902140446715905
+[Link](https://twitter.com/OleRyborg/status/1161902140446715905)
 
 *2019-8-15 12:57:24*
 
 ---
 
-Fuckin Fukishima, this guy.. He actually reflected a common misconception of 90s, even in science. Statehood is done. Physics was done. "We just need to figure out this little thing here and there.." It happens all the time, Kelvin said the same thing during 1800s. "Physics is done.. except a few dark clouds in the horizon". Those clouds turned out the starting of major changes (now there is dark energy, matter, just a little fudge here and there, no biggie). 
+Fuckin Fukishima, this guy.. He actually reflected a common
+misconception of 90s, even in science. Statehood is done. Physics was
+done. "We just need to figure out this little thing here and there.."
+It happens all the time, Kelvin said the same thing during
+1800s. "Physics is done.. except a few dark clouds in the
+horizon". Those clouds turned out the starting of major changes (now
+there is dark energy, matter, just a little fudge here and there, no
+biggie).
 
 *2019-8-15 12:50:17*
 
 ---
 
-.. and when they look at the encylopedia item "who contributed to the cratering of Iraq" they will see your name next to it. 
+.. and when they look at the encylopedia item "who contributed to the
+cratering of Iraq" they will see your name next to it.
 
 How's that End of History coming along?
 
 "@FukuyamaFrancis
 
-When future historians ask “who lost Hong Kong” they will be able to point to DJT.
+When future historians ask “who lost Hong Kong” they will be able to
+point to DJT.
 
 *2019-8-15 12:9:36*
 
@@ -47,7 +56,8 @@ When future historians ask “who lost Hong Kong” they will be able to point t
 
 "@jlounsbury59
 
-Don't forget that the year started with the 10-year around 3.2% with many expecting it to go to 3.5% (or even 4%) in 2019."
+Don't forget that the year started with the 10-year around 3.2% with
+many expecting it to go to 3.5% (or even 4%) in 2019."
 
 *2019-8-15 10:15:15*
 
