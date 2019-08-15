@@ -1,5 +1,14 @@
 # Tweets - Week 33
 
+If HK's special status (with US) is revoked CH is in deep doodoo says
+Bass. 
+
+A massacre would be terrible.
+
+*2019-8-15 18:49:8*
+
+---
+
 Snazzy
 
 *2019-8-15 13:23:11*
