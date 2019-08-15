@@ -706,15 +706,6 @@ I am telling you, this is it - the silver bullet.
 
 ---
 
-Funny thing is if HK experiences a crisis, they'd be desparate for
-outside help which can strenghten Chi position. HK providing an
-interface to outside world might not matter much if HK itself is in
-crisis, while Chi-US rel is also degrading.
-
-*2019-8-11 13:27:23*
-
----
-
 Abortion doesn't have anything to do with religion per se. There are
 Christian, Islam branches, major sects that allow it, some going back
 and forth on the issue at various times. The question is why is the
