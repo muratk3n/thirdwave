@@ -998,10 +998,9 @@ Finally [something](https://twitter.com/zei_nabq/status/1159777132924559361) cog
 ---
 
 Hariri book has two parts; one is about foragers, farmers, good
-stuff. Then he talks about "stories" for nations, but nationalism and
-modernity are not mainstays of what is, and will be, only fleeting
-constructs like a the build-up of a fart. Eventually u fart and it
-will go away.
+stuff. Then he talks about "stories" but nationalism and modernity are
+not mainstays of what is, and will be, only fleeting constructs like a
+the build-up of a fart. Eventually u fart and it will go away.
 
 Stories are mostly abt culture codes and second wave. Any thinker
 worth his salt needs to go beyond them.
