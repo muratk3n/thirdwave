@@ -157,8 +157,9 @@ plt.savefig('labor_share.png')
 
 ![]('labor_share.png')
 
-<a name="pmi"></a>
+## PMI
 
+<a name="pmi"></a>
 
 ```python
 import quandl, os, datetime
