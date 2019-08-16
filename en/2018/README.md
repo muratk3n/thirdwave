@@ -127,9 +127,9 @@
 
 [#westbank](06/westbank.md)
 
-[](06/eu_greece.md)
+[EU / Greece Codebook](06/eu_greece.md)
 
-[#######################################################################3](06/werner.md)
+[Werner Code, Math](06/werner.html)
 
 [Battery Fueled by Iron and Water, Flow Batteries](07/battery-fueled-by-iron-and-water.md)
 

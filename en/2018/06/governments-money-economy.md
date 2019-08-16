@@ -536,9 +536,9 @@ Yes
 From New Paradigm in Macroeconomics, "In other words, given the amount of credit creation produced by the banking system, an autonomous increase in government expenditure g must result in an equal reduction in private demand. As the government issues bonds to fund increased fiscal stimulation, private sector investors (such as life insurance companies) that purchase the bonds must withdraw purchasing power elsewhere from the economy. With an unchanged national income pie (whose growth is restricted by [increase in credit going to productive enterprise] , the total amount of new purchasing power created – the overarching budget constraint on the economy), any increases in government spending must shrink the private sector share of the pie. The same applies (more visibly) to tax-financed government spending. With unchanged credit creation, every $ in additional government spending reduces private sector activity by one $".
 
 The derivation and empirical test is here
--[Code](werner.md),[Data](crowd.csv). The coefficient has to be -1 for
-verification, ours is around -0.57, could be due to data collection
-issues. Werner finds -1 for Japan.
+-[Code](/en/2018/05/werner.html),[Data](crowd.csv). The coefficient
+has to be -1 for verification, ours is around -0.57, could be due to
+data collection issues. Werner finds -1 for Japan.
 
 Question
 
