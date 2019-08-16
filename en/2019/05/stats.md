@@ -33,9 +33,13 @@ regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
 results = smf.ols(regr, data=df).fit()
 
 conf = results.conf_int()
-pred = [1., 2.0, -11.0, 0]
+
+gdg_growth = 2.0
+pred = [1., gdg_growth, -11.0, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
-pred = [1., 0.0, -11.0, 0]
+
+gdg_growth = 0.0
+pred = [1., gdg_growth, -11.0, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
