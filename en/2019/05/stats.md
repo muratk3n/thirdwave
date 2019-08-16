@@ -44,7 +44,6 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [49.09061549 51.61086215] 50.350738818591935
 ```
 
-
 ## Financial Summary Data
 
 ```python
@@ -153,4 +152,37 @@ plt.savefig('labor_share.png')
 ```
 
 ![]('labor_share.png')
+
+
+```python
+import quandl, os, datetime
+from datetime import timedelta
+
+bdays = int(180)
+today = datetime.datetime.now()
+end_d=datetime.datetime(today.year, today.month, today.day)
+start_d = end_d - timedelta(days=bdays)
+today = datetime.datetime.now()
+df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
+                returns="pandas",
+                start_date=start_d.strftime('%Y-%m-%d'),
+                end_date=today.strftime('%Y-%m-%d'),
+                authtoken=open(".quandl").read())
+
+df['PMI'].plot()
+plt.savefig('pmi.png')
+```
+
+![](pmi.png)
+
+
+
+
+
+
+
+
+
+
+
 
