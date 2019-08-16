@@ -884,7 +884,7 @@ But could't a 2D "cell" could take another cell inside, temporarily
 breaking its outside shell, than close, eating it? Bon apetit? It
 could work.
 
-Hawking pushed his shares of bull in his time BTW, like String Theory.
+Hawking pushed his share of bull in his time BTW, like String Theory.
 
 *2019-8-10 22:30:25*
 
