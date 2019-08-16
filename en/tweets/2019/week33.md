@@ -60,8 +60,8 @@ How's that End of History coming along?
 
 "@FukuyamaFrancis
 
-When future historians ask “who lost Hong Kong” they will be able to
-point to DJT.
+When future historians ask 'who lost Hong Kong' they will be able to
+point to DJT."
 
 *2019-8-15 12:9:36*
 
@@ -197,7 +197,7 @@ says the [grapevine](https://www.youtube.com/watch?v=jPnZZTVp_2A)-)
 
 ---
 
-Training quadcopter with RF. So sad. 
+Training quadcopter with ReinfL. So sad. 
 
 [Link](https://www.linkedin.com/pulse/using-openai-gym-ros-ricardo-tellez)
 
