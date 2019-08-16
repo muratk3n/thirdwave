@@ -52,7 +52,7 @@ the diversity of products, the exact opposite of comparative advantage
 style specialization on products. Because diversity allows the
 invention of more products, a country gets richer.
 
-I replicated Hidalgo's research [here](eci.md), data, Python code
+I replicated Hidalgo's research [here](hidalgo.html), data, Python code
 included. The jujitsi move is excellent. Economists, take note. All I
 hear from them is "if this goes up, that comes down, this comes down
 the other thing goes up". Angle of the dangle is inversely
