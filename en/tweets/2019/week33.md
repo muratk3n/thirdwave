@@ -1040,7 +1040,7 @@ created once?
 ---
 
 Haha.. SJW Dr. Who in trouble? Rumor is director created a female
-Dalek (major villains) in a weird shape, bad for merch sales.
+Dalek (major villain) in a weird shape, bad for merch sales.
 
 [Vid](https://youtu.be/ySVxs7bRjh8?t=111)
 
