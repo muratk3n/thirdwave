@@ -1,8 +1,8 @@
 # Calculations, Data
 
-## Potus, Incumbent Elec. College Percentage Prediction
-
 <a name="prez"></a>
+
+## Potus, Incumbent Elec. College Percentage Prediction
 
 Latest net-aproval = -11.8 % (approval 42 % minus 53.8 % disproval)
 
@@ -125,9 +125,9 @@ plt.savefig('labor_share.png')
 
 ![]('labor_share.png')
 
-## PMI
-
 <a name="pmi"></a>
+
+## PMI
 
 ```python
 import quandl, os, datetime
@@ -150,9 +150,9 @@ plt.savefig('pmi.png')
 
 ![](pmi.png)
 
-# GDP YoY
-
 <a name="gdpyoy"></a>
+
+# GDP YoY
 
 ```python
 import pandas as pd, datetime
@@ -182,10 +182,5 @@ DATE
 2019-01-01  18927.281  2.652241
 2019-04-01  19023.820  2.288859
 ```
-
-
-
-
-
 
 
