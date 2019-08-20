@@ -11,7 +11,9 @@ This is pussyxploitation. Just like blaxploitation movies of 70s..
 
 "Part Devil, Part Legend, All Man!!"
 
-It's crass stuff and probably even worse than its older counterpart. At least they tried to appeal to some. STD... is weird. All agenda, top to bottom.
+It's crass stuff and probably even worse than its older
+counterpart. At least they tried to appeal to some. STD... is
+weird. All agenda, top to bottom.
 
 *2019-4-29 15:38:40*
 

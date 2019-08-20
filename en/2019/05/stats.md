@@ -182,7 +182,38 @@ plt.savefig('pmi.png')
 
 ![](pmi.png)
 
+# GDP YoY
 
+<a name="gdpyoy"></a>
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1950, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['GDPC1']
+df = data.DataReader(cols, 'fred', start, end)
+
+df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
+print (df.tail(10))
+```
+
+```text
+                GDPC1    gdpyoy
+DATE                           
+2017-01-01  17925.256  2.098424
+2017-04-01  18021.048  2.163513
+2017-07-01  18163.558  2.416026
+2017-10-01  18322.464  2.795257
+2018-01-01  18438.254  2.861873
+2018-04-01  18598.135  3.202294
+2018-07-01  18732.720  3.133538
+2018-10-01  18783.548  2.516496
+2019-01-01  18927.281  2.652241
+2019-04-01  19023.820  2.288859
+```
 
 
 
