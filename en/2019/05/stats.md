@@ -2,7 +2,7 @@
 
 ## Trump
 
-Latest net-aproval = -11.0 %
+Latest net-aproval = -11.8 % (approval 42 % minus 53.8 % disproval)
 
 ```python
 from io import StringIO
@@ -33,24 +33,25 @@ regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
 results = smf.ols(regr, data=df).fit()
 
 conf = results.conf_int()
+net_approv = -11.8
 
 gdg_growth = 2.0
-pred = [1., gdg_growth, -11.0, 0]
+pred = [1., gdg_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
 gdg_growth = 1.0
-pred = [1., gdg_growth, -11.0, 0]
+pred = [1., gdg_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
 gdg_growth = 0.0
-pred = [1., gdg_growth, -11.0, 0]
+pred = [1., gdg_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
-[49.73937141 53.28163696] 51.51050418692104
-[49.41499345 52.44624956] 50.93062150275649
-[49.09061549 51.61086215] 50.350738818591935
+[49.6962248  53.16687853] 51.431551669024834
+[49.37184684 52.33149113] 50.85166898486028
+[49.04746888 51.49610372] 50.27178630069573
 ```
 
 ## Financial Summary Data
@@ -219,6 +220,7 @@ DATE
 2019-01-01  18927.281  2.652241
 2019-04-01  19023.820  2.288859
 ```
+
 
 
 
