@@ -38,6 +38,10 @@ gdg_growth = 2.0
 pred = [1., gdg_growth, -11.0, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
+gdg_growth = 1.0
+pred = [1., gdg_growth, -11.0, 0]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+
 gdg_growth = 0.0
 pred = [1., gdg_growth, -11.0, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
@@ -45,6 +49,7 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 ```text
 [49.73937141 53.28163696] 51.51050418692104
+[49.41499345 52.44624956] 50.93062150275649
 [49.09061549 51.61086215] 50.350738818591935
 ```
 
@@ -214,10 +219,6 @@ DATE
 2019-01-01  18927.281  2.652241
 2019-04-01  19023.820  2.288859
 ```
-
-
-
-
 
 
 
