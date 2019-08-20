@@ -1,6 +1,6 @@
 # Calculations, Data
 
-## Trump
+## Potus, Incumbent Elec. College Percentage Prediction
 
 <a name="prez"></a>
 
