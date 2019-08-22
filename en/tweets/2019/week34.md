@@ -497,7 +497,7 @@ Former Comm. Director Anthony Buttofuoco is from the managerial class
 of Reps, they are they are as Tooze says seperate form rank-and-file;
 took him long enough to break with DJT.
 
-AFAIK he started pol as fundraiser for Mitt (like I said, managerial class).
+AFAIK he started pol as fundraiser for Mitt (managerial class).
 
 *2019-8-19 15:49:27*
 
