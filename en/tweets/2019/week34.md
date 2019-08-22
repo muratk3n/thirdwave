@@ -685,11 +685,9 @@ plenty there, Yankees will get rich off this trade. Long fish.
 Kinetic energy is 1/2 m V**2. To increase energy, the effect of the
 hit, u either increase V (velocity, hitting "fast"), or increase m
 (mass). Increasing m is much easier than increasing V. Just put your
-body behind hit. Which means legs. Same for arm twists; with the whole
-body.
-
-Plus this approach will work at an older age u might get slow as f*ck,
-but u'll still have body mass.
+body behind hit. Which means legs. Same for arm twists; rotating with
+the whole body. Plus such approaches will work at an older age u might
+get slow as f*ck, but u'll still have body mass. Gonbatte godasai bitch.
 
 "But I cannot hit faster then!"
 
@@ -701,8 +699,6 @@ Work on your legs. Leg strength is more important then upper body
 str. 
 
 A good boxer can fight on one leg. 
-
-Gonbatte godasai
 
 "What body section should I exercise on to further my self-def
 skills?"
