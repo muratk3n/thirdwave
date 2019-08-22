@@ -235,7 +235,7 @@ mouthwatering to some.
 
 ---
 
-I'm doing bunch of shit for ed thinking there'll ppl around. WTF.
+I'm doing bunch of shit for ed thinking there'll be ppl around. WTF.
 
 *2019-8-20 21:48:1*
 
