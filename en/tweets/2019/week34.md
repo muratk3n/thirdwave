@@ -798,8 +798,8 @@ nothing).
 
 ---
 
-ja ha.. Apparently some fixes were made for this prob during 90s, but
-things became even hairier. 
+ha ha.. Apparently some fixes were made for this problem during 90s,
+but then things became even hairier.
 
 "String Theory initially proposed to unify all the particles and
 forces in nature. But as it was studied in the decade following the
