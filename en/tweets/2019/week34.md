@@ -670,13 +670,12 @@ Yang > Bootyjudge? That makes sense.
 
 ---
 
-\#brexit Oh yea, you can't tax Google, and now you have to eat
-chlorine chicken, and four eyed fish.. They're gonna fish'em right out
-of the Hudson River, and send them to you, and u'll have to eat them
-bcz u have no other choice. 
-
-Nothing lives in NY Hudson River except four eyed fish, so there's
-plenty there, Yankees will get rich off this trade. Long fish.
+\#brexit Yep. You can't tax Google, and you'll have to eat chlorine
+chicken, and four eyed fish.. They're gonna fish'em right out of the
+Hudson River, and send them to you, and u'll have to eat them bcz u
+have no other choice. Nothing lives in NY Hudson River except four
+eyed fish, there's plenty there, Yankees will get rich off this
+trade. Long fish.
 
 *2019-8-18 11:37:28*
 
