@@ -410,12 +410,11 @@ Same guy working on a [miniseries](https://www.youtube.com/watch?v=Ey68aMOV9gc&f
 
 Siemens
 [working](https://twitter.com/Siemens_Energy/status/1162985042496380929)
-on hydrogen directly in turbines (no fuel-cell, no
-electricity). Interesting. GE
+on hydrogen directly in turbines (seperate from electr tech). GE
 [has](https://muratk3n.github.io/thirdwave/en/2019/06/ge-h2.html) some
-know-how on that too.
+know-how on that.
 
-BTW - there are some acct allegations on GE? Is it real or a hit
+BTW - there are some accounting allegations on GE? Real or a hit
 job...?  U have to be careful around these fossil motherfuckers.
 
 *2019-8-20 9:13:14*
