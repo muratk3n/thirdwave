@@ -662,6 +662,14 @@ Yang > Bootyjudge? That makes sense.
 
 ---
 
+Trump Tower is a few blocks away from the Hudson River, so Trump
+himself will get in on the trade. Fishing from at the top of TT. NYC
+will have a boom.
+
+*2019-8-18 11:37:28*
+
+---
+
 \#brexit Yep. You can't tax Google, and you'll have to eat chlorine
 chicken, and four eyed fish.. They're gonna fish'em right out of the
 Hudson River, and send them to you, and u'll have to eat them bcz u
@@ -850,7 +858,7 @@ would love to shop in a store with zero human workers.
 
 ---
 
-PMI is a good sign of demand. Down like a rock.
+PMI is a good sign of demand. Down like a rock. \#US
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi)
 
