@@ -738,10 +738,10 @@ Europe, deflationary spiral
 
 ---
 
-I listen to Brit cons talk abt Corbyn, their tone is always painting
-him as unacceptable, even unconcienable as a choice for PM. This is
-left-over feistiness from Thatcher era and beyond. I hope they end up
-eating those words.
+I listen to Brit cons talk abt Corbyn, their tone is always in a
+manner painting C as unacceptable, even unconcienable as a choice for
+PM. This has to be leftover feistiness from Thatcher era and beyond. I
+hope they end up eating those words.
 
 *2019-8-17 23:1:49*
 
