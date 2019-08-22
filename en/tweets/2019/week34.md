@@ -789,8 +789,7 @@ Grigori Volovik" -- Smolin.
 
 Smol psyics joke. String Theory was thought to be a "theory of
 everything" then it became a "theory of anything" (bcz u can push and
-pull it to any direction which is bad cuz then the theory says
-nothing).
+pull it to any direction, not good, cuz then the theory says nothing).
 
 "A Theory of Anything"
 
