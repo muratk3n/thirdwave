@@ -212,7 +212,9 @@ for it was trying to communicate IMO Roots did okay.
 
 "@mattdelmont
 
-Ronald Reagan, for example, said of Roots: “Very frankly, I thought the bias of all the good people being one color and all the bad people being another was rather destructive.”"
+Ronald Reagan, for example, said of Roots: 'Very frankly, I thought
+the bias of all the good people being one color and all the bad people
+being another was rather destructive.'"
 
 *2019-8-21 9:28:11*
 
@@ -220,7 +222,7 @@ Ronald Reagan, for example, said of Roots: “Very frankly, I thought the bias o
 
 "@kareem_carr
 
-when you’re the only statistician in a room full of data scientists"
+When you’re the only statistician in a room full of data scientists"
 
 [Link](https://twitter.com/kareem_carr/status/1163551872457805825)
 
@@ -236,14 +238,14 @@ mouthwatering to some.
 
 ---
 
-I'm doing bunch of shit for ed thinking there'll ppl around. WTF?
+I'm doing bunch of shit for ed thinking there'll ppl around. WTF.
 
 *2019-8-20 21:48:1*
 
 ---
 
-No ice at either pole.. that happened before that's true. 33 million
-yrs ago.
+No ice at either pole.. this has happened before, that's true. 33
+million yrs ago.
 
 *2019-8-20 21:45:38*
 
@@ -261,7 +263,8 @@ Scientist Says"
 
 ---
 
-I saw the future man.. all cars had these blue lights on them using H2 wizzing by with no smell and sound.
+I saw the future man.. all cars had these blue lights on them using H2
+wizzing by with no smell and sound, and no emissions.
 
 *2019-8-20 19:15:0*
 
@@ -287,9 +290,8 @@ transportation, & utilization of H2".
 
 Gov funding some cool stuff
 
-"First Programmable Memristor Computer: Wednesday, July 31,
-2019(Funded by the Defense Advanced Research Projects Agency and the
-National Science Foundation)"
+"First Programmable Memristor Computer. Funded by the Defense Advanced
+Research Projects Agency and the National Science Foundation"
 
 *2019-8-20 16:12:40*
 
