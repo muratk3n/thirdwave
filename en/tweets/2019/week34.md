@@ -611,7 +611,7 @@ in a lot of areas then stopped. But I believe after that things
 expanded horizontally, not vertically. No more moon, but lots of
 satellites, GPS, hell velcro. No new psy discoveries, but applying QM
 to electronics, molecular chemistry. Nothing higher than ST, but many
-more othe skyscrapers. It's fine. Just a different emphasis.
+more other skyscrapers. It's fine. Just a different emphasis.
 
 *2019-8-18 21:19:51*
 
