@@ -342,8 +342,6 @@ coming from?"
 
 ---
 
-It's bad all around. 
-
 "But [Einstein's] revolution was not finished. The standard model of particle physics was certainly the triumph of this pragmatic style of
 doing physics, but its triumph seems now to have also marked its limit. The standard model, and just possibly inflation, is about as far
 as we could go with normal science. Since then, we have been mired, because what we need is a return to a revolutionary kind of science. Once again, we need a few seers. The problem is that there are now very few around, as a result of science having been done so long in a way that rarely recognized and barely tolerated them.
@@ -355,7 +353,7 @@ powerful parts of our community have forgotten how to make one."
 
 ---
 
-Ha ha. Did not know Brit academia was so welcoming. 
+Cool.. Did not know Brit academia was so welcoming. 
 
 "That's nice, but the idea is nuts — really nuts. It disagrees with
 both special and general relativity. There is no other word for it but
