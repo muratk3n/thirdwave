@@ -686,7 +686,7 @@ hit, u either increase V (velocity, hitting "fast"), or increase m
 (mass). Increasing m is much easier than increasing V. Just put your
 body behind hit. Which means legs. Same for arm twists; rotating with
 the whole body. Plus such approaches will work at an older age u might
-get slow as f*ck, but u'll still have body mass. Gonbatte godasai bitch.
+get slow as f\*ck, but u'll still have body mass. Gonbatte godasai bitch.
 
 "But I cannot hit faster then!"
 
