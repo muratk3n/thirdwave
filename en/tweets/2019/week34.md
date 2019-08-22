@@ -378,7 +378,7 @@ This one, with 1% GDP growth shows a toss up, even a tiny disadvantage
 for Rep. With 2%, Reps have a little advantage. 
 
 I reran 2016, shows (confirms) the obnoxious Dem loss. Growth was meager,
-Dems were two terms in. 
+Dems were two terms in. Incumbent party lost, it failed to energize. 
 
 *2019-8-20 12:42:33*
 
@@ -456,7 +456,7 @@ make fun of one the Oligarch's foot soldiers."
 
 ---
 
-Karaze. Great idea.
+Karaze. Awesome.
 
 "Scientists testing method to pump oxygen into tar sands to extract
 hydrogen gas (keeping carbon in the ground)"
@@ -469,7 +469,8 @@ hydrogen gas (keeping carbon in the ground)"
 
 Ha ha
 
-"Tweet 1: "Our Economy is very strong" 
+"
+Tweet 1: 'Our Economy is very strong' 
 
 Tweet 2: We need four rate cuts and maybe some quantitative easing, too"
 
@@ -479,7 +480,7 @@ Tweet 2: We need four rate cuts and maybe some quantitative easing, too"
 
 ---
 
-What is this an open laundromat? Ah no it's BEV owners charging their bitch BEV.
+What is this an open laundromat? Ah no it's BEV owners charging their bitch BEVs.
 
 <img width="400" src="https://pbs.twimg.com/media/ECWNovcXsAI52PR?format=jpg" />
 
