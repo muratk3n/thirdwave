@@ -749,8 +749,8 @@ eating those words.
 
 That's the other crazy thing abt ST; u can have an obscene number of
 them, all seperate versions. So what Feynman said abt ST in 80s still
-applies today; the theory itself should tell u how many dims, which
-version is the correct one. But it doesn't.
+applies today; the theory itself should tell u how many dimensions
+there are, which version is the correct one. But it doesn't.
 
 *2019-8-17 22:15:36*
 
