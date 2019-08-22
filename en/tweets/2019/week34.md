@@ -563,8 +563,8 @@ try to match ever-changing consumer demands"
 
 I like how he judges labor, wages for inflation.
 
-Also says gold is a commodity. It's not important. Surely cant form
-the basis of a world currency system. 
+Also says gold is a commodity, nothing more. It surely cannot form the
+basis of a world currency system.
 
 "2 years ago I went to a very conservative conference where most of
 the speakers said the USA was bankrupt and that high inflation was
