@@ -917,11 +917,11 @@ stymie them"
 
 ---
 
-A story on phycist Edward Teller: at the start of season, 1st class,
-he is talking abt administrative details, points to his TA, says "this
-is my TA John, his room number is .. what was it John..? (he says
-120).. okay, you divide by 2, and add 5, mine is 65. You see, I can't
-remember but I can derive". 
+A story on phycist Edward Teller: at the start of the semester, 1st
+class, he is talking abt administrative details, points to his TA,
+says "this is my TA John, his room number is .. what was it John..?
+(he says 120).. okay, you divide by 2, and add 5, mine is 65. You see,
+I can't remember but I can derive".
 
 Story relayed by another physicist who was a grad student then, who
 says he learned an important lesson that day, how deriving can
@@ -958,9 +958,8 @@ The right answer is the last one.
 
 ---
 
-Hey man; just create another universe, model will fit there. In this
-universe there is an evil Picard who fits all broken models to any
-data. 
+Hey man; just create another universe, there is an evil Picard in that
+universe fitting all broken models to any data. 
 
 Problem. Solved.
 
@@ -971,9 +970,9 @@ Problem. Solved.
 ---
 
 Ba dum tss. Sounds like a joke.. Dude is talking about "controlling
-randomness" to help his model fit better. Hello?
+randomness" to help his model fit better. [facepalm]
 
-\#deepdodo \#reinf
+\#deepdoodoo \#reinf
 
 "Actually the seed is also a hyper-parameter"
 
