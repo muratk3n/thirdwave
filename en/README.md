@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+22/8 - [Tweets - Week 34](/tweets/2019/week34.md)
+
 15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
 
 15/8 - [The Memristor](/2019/08/memristors.md)
@@ -22,8 +24,6 @@ despite the best efforts of people working in them.
 8/8 - [Smolin](/2019/08/smolin.md)
 
 8/8 - [Tweets - Week 32](/tweets/2019/week32.md)
-
-8/8 - [Focus-Group Democracy](/2019/08/focus-group-democracy.md)
 
 
 ## For Members
