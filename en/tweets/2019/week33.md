@@ -76,13 +76,13 @@ many expecting it to go to 3.5% (or even 4%) in 2019."
 
 ---
 
-@paulg
+"@paulg
 
 I was talking to the CEO of a startup whose customers are local governments.
 
 Me: What features do people in local government want most? What excites them?
 
-CEO: Going home at 5
+CEO: Going home at 5"
 
 *2019-8-15 8:12:46*
 
@@ -688,7 +688,7 @@ it's just another hop in the graph. It is because in the emergent
 space some thing become "far" that we are shocked at the comm at a
 "long distance".
 
-There is no spooky action: "at a distance", cuz there is no distance
+There is no spooky action "at a distance", cuz there is no distance
 (behind the curtain).
 
 *2019-8-11 20:43:4*

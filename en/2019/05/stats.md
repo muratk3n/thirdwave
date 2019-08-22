@@ -42,6 +42,10 @@ conf = results.conf_int()
 conf = results.conf_int()
 net_approv = -11.8
 
+gdg_growth = 3.0
+pred = [1., gdg_growth, net_approv, 0]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+
 gdg_growth = 2.0
 pred = [1., gdg_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
@@ -56,6 +60,7 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
+[46.81763238 55.80082374] 51.30922806106811
 [46.61402821 54.19870793] 50.406368068424605
 [46.41042404 52.59659212] 49.5035080757811
 [46.20681986 50.9944763 ] 48.600648083137585
