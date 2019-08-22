@@ -999,10 +999,13 @@ We’re in this era of Big Data and we’re missing Big Theory"
 
 ---
 
-"The world’s largest rocket welding tool is right here in New
-Orleans. Crews at \#NASAMichoud are already using the Vertical
-Assembly Facility to produce the liquid hydrogen tank for \#Artemis
-2." -- NASA admin Beidenstein
+"The world’s largest rocket [welding
+tool](https://www.nasa.gov/press/2014/september/nasa-unveils-worlds-largest-spacecraft-welding-tool-for-space-launch-system/)
+is right here in New Orleans. Crews at \#NASAMichoud are already using
+the Vertical Assembly Facility to produce the liquid hydrogen tank for
+\#Artemis 2."
+
+-- NASA admin Beidenstein
 
 
 [Link](https://mobile.twitter.com/JimBridenstine/status/1162126672008794112/photo/2)
@@ -1011,7 +1014,7 @@ Assembly Facility to produce the liquid hydrogen tank for \#Artemis
 
 ---
 
-Some fly responses. "Arschgeigekandidatwahlangst".
+"Arschgeigekandidatwahlangst" saz one. Hah.
 
 Biden is not a sure thing obviously.
 
