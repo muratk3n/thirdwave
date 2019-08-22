@@ -681,7 +681,7 @@ trade. Long fish.
 
 ---
 
-Kinetic energy is 1/2 m V**2. To increase energy, the effect of the
+Kinetic energy is 1/2 m V\*\*2. To increase energy, the effect of the
 hit, u either increase V (velocity, hitting "fast"), or increase m
 (mass). Increasing m is much easier than increasing V. Just put your
 body behind hit. Which means legs. Same for arm twists; rotating with
@@ -782,9 +782,9 @@ Grigori Volovik" -- Smolin.
 
 ---
 
-Smol psyics joke. String Theory was thought to be a "theory of
-everything" then it became a "theory of anything" (bcz u can push and
-pull it to any direction, not good, cuz then the theory says nothing).
+String Theory was thought to be a "theory of everything" then it
+became a "theory of anything" (bcz u can push and pull it to any
+direction, not good, cuz then the theory says nothing). [facepalm]
 
 "A Theory of Anything"
 
