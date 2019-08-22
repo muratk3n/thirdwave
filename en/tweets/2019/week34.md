@@ -848,15 +848,6 @@ its partners, not easier -- as the entire block lacked demand."
 
 ---
 
-Walked back from store, heavy rain. Great trip. So rough.. up the hill
-both ways... 
-
-Nah juz kidding.
-
-*2019-8-17 14:3:48*
-
----
-
 "@AWeigmannn
 
 Clean \#hydrogen, which South Africa is ideally placed to produce
@@ -900,7 +891,8 @@ PMI is a good sign of demand. Down like a rock.
 
 Not being supportive on "transgender athlete equality" is not a
 rightist position. The stance is literally dumb, so it doesn't belong
-anywhere in the spectrum. There is no right or left connotation to it.
+anywhere in the spectrum. There is no right or left connotation to
+this issue.
 
 *2019-8-16 13:53:0*
 
@@ -920,16 +912,17 @@ stymie them"
 A story on phycist Edward Teller: at the start of the semester, 1st
 class, he is talking abt administrative details, points to his TA,
 says "this is my TA John, his room number is .. what was it John..?
-(he says 120).. okay, you divide by 2, and add 5, mine is 65. You see,
-I can't remember but I can derive".
+(TA says 120).. okay, you divide by 2, and add 5, mine is 65. 
+
+You see, I can't remember but I can derive".
 
 Story relayed by another physicist who was a grad student then, who
 says he learned an important lesson that day, how deriving can
 actually help you remember. Surely Teller was being somewhat
-tongue-in-cheek about it, but this does reflect how the greats
+tongue-in-cheek about it, but this does reflect how good scientists
 think. U need to be able to derive from first principles. It will help
-you not only understand, also to remember by deriving it if
-necessary. Oh I forgot "integration by parts". Fine. Did you know IBP
+you not only understand, also to remember, by deriving it if
+necessary. Oh I forgot "integration by parts". Well.. did you know IBP
 formula is just an expanded, rearranged form of d(f(t)g(t))/dt?
 
 *2019-8-16 11:13:34*
