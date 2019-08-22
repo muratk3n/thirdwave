@@ -53,12 +53,6 @@ relationship, among other steps, if Hong Kong’s autonomy is eroded"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Asking what debt deflation means...? <a href="https://t.co/rISAs2P2lO">https://t.co/rISAs2P2lO</a></p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1163821250784813057?ref_src=twsrc%5Etfw">August 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-21 17:2:58*
-
----
-
 US has no trouble pulling inv as it holds worlds reserve curr \#irate
 
 *2019-8-21 16:50:1*
@@ -73,7 +67,8 @@ US has no trouble pulling inv as it holds worlds reserve curr \#irate
 ---
 
 
-Fin show idea; Fifty Shades of Ponzi. Fin ppl sit around and talk abt Ponzi schemes, pump n dump, and Tesla.
+Fin show idea; Fifty Shades of Ponzi. Fin ppl sit around and talk abt
+Ponzi schemes, pump n dump, and Tesla.
 
 *2019-8-21 16:12:38*
 
@@ -115,8 +110,8 @@ that are based on matrix operations"
 
 ---
 
-There is a town in TR called Batman (no meaning in local lang). There
-is another called Lice.
+There is a TR town called Batman (no meaning in local lang). There is
+another called Lice.
 
 Owl is called "Mister Bird", *baykuş*. Owls crack me up anyway, the
 name is even better.
@@ -126,7 +121,7 @@ name is even better.
 ---
 
 Biden looks 20 years older than Bernie. The batteries ran out on this
-guy - finito. No joke.
+guy - finito. No joke. \#DNR
 
 *2019-8-21 11:33:37*
 
@@ -166,10 +161,10 @@ Whitehall warnings of shortages in medicine, fuel and food, the
 Miliband era looks enviable. You could quarrel and quibble with the
 man, of course; you could pick holes all day long. But knowing what
 was to come, how the next couple of episodes were to play out, would
-you still have gone for the chillaxing blunderer who landed us in a
-historic mess then grabbed the thick end of a million quid from some
-poor sap of a publisher to stick his trotters up in a £25,000 shed and
-yawn out a memoir?"
+you still have gone for the chillaxing blunderer [Cameron] who landed
+us in a historic mess then grabbed the thick end of a million quid
+from some poor sap of a publisher to stick his trotters up in a
+£25,000 shed and yawn out a memoir?"
 
 [Link](https://www.theguardian.com/commentisfree/2019/aug/20/jeremy-corbyn-moral-ed-miliband)
 
@@ -180,8 +175,9 @@ yawn out a memoir?"
 I dont completely blame them; the thinkspace is such a blithering
 mess, it takes a regular person a lifetime to sort it out. Look at
 science, instead of providing a half-sane theory for an odd
-observation, they came up with an entire frickin multiverse.. This is
-science, imagine what's going on in other places.
+observation, they came up with an entire frickin multiverse.. 
+
+This is science, how can other parts of analysis have any chance?
 
 "Milenials are still immature"
 
@@ -195,24 +191,23 @@ When do I get my first memristor notebook?
 
 ---
 
-Impresions; I can do Richard Pryor, but not him directly, I do Eddie
+Impressions; I can do Richard Pryor - but not him directly, I do Eddie
 Murphy doing Pryor. EM tells story when he was a kid, he did a joke
 abt taking a dump, told in Pryor's voice: "You know that sometimes,
 you are in bathroom, you are strainin, and strainin, and a little
-pebble shit come out? Whatz up with dat m..t..ka?". 
-
-Clinton, Ahnuld, too.
+pebble shit come out? Whatz up with dat m..t..ka?". Full of skillz I
+am. Clinton, Ahnuld, too.
 
 *2019-8-21 9:35:42*
 
 ---
 
-It's not a complete airheaded comment; but directors make choices, and
-for it was trying to communicate IMO Roots did okay.
+It's not a completely airheaded comment; but directors make choices,
+and for it was trying to communicate IMO Roots did okay.
 
 "@mattdelmont
 
-Ronald Reagan, for example, said of Roots: 'Very frankly, I thought
+Ronald Reagan, for example, said of *Roots*: 'Very frankly, I thought
 the bias of all the good people being one color and all the bad people
 being another was rather destructive.'"
 
