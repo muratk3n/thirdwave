@@ -652,13 +652,6 @@ psycho effects).
 
 ---
 
-DJT got played on that native Am thing. Warren had the response she
-wanted. Brilliant move.
-
-*2019-8-18 15:19:39*
-
----
-
 Prediction markets; I dont know abt the top echelon, but there is no
 doubt Warren is doing okay. 
 
