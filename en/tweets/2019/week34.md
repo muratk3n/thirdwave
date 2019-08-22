@@ -565,7 +565,8 @@ try to match ever-changing consumer demands"
 
 I like how he judges labor, wages for inflation.
 
-Also says gold is a commodity. 
+Also says gold is a commodity. It's not important. Surely cant form
+the basis of a world currency system. 
 
 "2 years ago I went to a very conservative conference where most of
 the speakers said the USA was bankrupt and that high inflation was
@@ -582,10 +583,11 @@ I told everyone they should buy...US government bonds."
 Fitting ODE to data; why the hell not?
 Mayochup. Cockamouse. OdeFit. People do it. It's a thing.
 
-Actually not a bad idea.
+(Actually not a bad idea)
 
 (geek) Solving ODE over and over, searching for optimal missing vars.. that's
-what the shooting methods (for TPBVP) does at the end of the day, no?
+what the shooting methods (for TPBVP) does at the end of the day,
+isn't it?
 
 [Link 1](https://kitchingroup.cheme.cmu.edu/pycse/pycse.html#orga222818)
 
