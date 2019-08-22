@@ -492,8 +492,8 @@ What is this an open laundromat? Ah no it's BEV owners charging their bitch BEVs
 ---
 
 Former Comm. Director Anthony Buttofuoco is from the managerial class
-of Reps, they are they are as Tooze says seperate form rank-and-file;
-took him long enough to break with DJT.
+of Reps, they are as Tooze says seperate form rank-and-file; took him
+long enough to break with DJT.
 
 AFAIK he started pol as fundraiser for Mitt (managerial class).
 
