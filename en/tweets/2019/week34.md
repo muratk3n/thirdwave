@@ -319,8 +319,8 @@ Buffalo Gals/Leather Britches/Leslie’s Reel \#music
 them constantly?" asks tuber. Good question. You are entertainment,
 for one. But more important, you are now a political leader. That's
 something... Plus you might be supplying me oppo and "some other
-people" might take that. So keep doing what your doing, just don't get
-deluded about context.
+people" might take that from me :) So keep doing what your doing, just
+don't get deluded about context.
 
 *2019-8-20 15:9:11*
 
