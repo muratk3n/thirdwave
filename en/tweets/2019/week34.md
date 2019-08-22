@@ -634,10 +634,10 @@ differential equations.
 ---
 
 I bet biz cycle with irate effect (as a control parameter) can be
-modeled with second rate differential eqn ay''+by'+c = u(t), the
+modeled with second order differential eqn ay''+by'+c = u(t), the
 solution to this eqn would be periodic - "the cycle". Then test irate
 effects through its seperate coefficient, see how it fits to data
-(tseries of gdp, irate). 
+(tseries of gdp, irate).
 
 You could jive off of the pendulum ODE too; there is a g there,
 gravity, as in 'economic gravity', the control parameter irate would
