@@ -1,6 +1,5 @@
 # Tweets - Week 34
 
-
 "Merkel Announces Hydrogen Strategy for Aviation: 'This should be
 worked out by the end of the year', said Merkel on Wednesday at the
 event at Leipzig airport. 'Flying is the most climate-damaging way of
@@ -1058,11 +1057,3 @@ Also I'd think abt moving Minksy to Github.
 
 ---
 
-
-If HK's special status (with US) is revoked CH is in deep doodoo says Bass.
-
-A massacre would be terrible.
-
-*2019-8-15 18:49:8*
-
----
