@@ -626,8 +626,7 @@ essentials.
 
 ---
 
-No it's not "just a sine curve" dumbass. U need to model this with
-differential equations. 
+No it's not "just a sine curve" dumbass. The model needs DEs.
 
 *2019-8-18 19:45:25*
 
@@ -646,7 +645,7 @@ central bankers? Modify gravity?).
 
 The result will most likely show no effect, which is Richard Werner's
 claim. Macro effects irate, not the other way around (except for some
-psycho effects). 
+psych effects). 
 
 *2019-8-18 18:45:25*
 
