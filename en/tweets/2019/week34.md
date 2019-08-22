@@ -76,12 +76,6 @@ Ponzi schemes, pump n dump, and Tesla.
 
 ---
 
-Financier is like "high rates effected my mortgage, I see they have effect on econ". If you got into debt and spent that money in real-estate, you already are outside the "real" economy. Your pain is of no concern for what is known as productive growth. 
-
-*2019-8-21 15:50:34*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When people ask &quot;what&#39;s going on in the economy?&quot; and a pundit waffles on about technical minutiae...this is what to remember: Too much debt, too much credit, too much leverage so subsequently not enough liquidity. QE bought time to fix structural issues but chose not to. Simple.</p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1163854358817255424?ref_src=twsrc%5Etfw">August 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-8-21 15:4:29*
