@@ -10,18 +10,6 @@ getting around'"
 
 ---
 
-WH souring on Boeing after that plane debacle? The Boeing guy,
-gone. Boeing contract, canceled.
-
-"WASHINGTON: The Pentagon is canceling a multi-billion dollar contract
-with Boeing for a new ballistic missile interceptor, putting a stop to
-an effort that had been riddled with problems and drawn the ire of
-defense officials".
-
-*2019-8-21 21:31:42*
-
----
-
 Bernie is up in two states now. Colorado and NH.
 
 *2019-8-21 19:50:14*
