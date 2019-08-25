@@ -68,9 +68,8 @@ US has no trouble pulling inv as it holds worlds reserve curr \#irate
 
 ---
 
-
-Fin show idea; Fifty Shades of Ponzi. Fin ppl sit around and talk abt
-Ponzi schemes, pump n dump, and Tesla.
+Fin show idea; Fifty Shades of Ponzi. Finance ppl sit around and talk
+abt Ponzi schemes, pump n dump, and Tesla.
 
 *2019-8-21 16:12:38*
 
@@ -488,7 +487,7 @@ Former Comm. Director Anthony Buttofuoco is from the managerial class
 of Reps, they are as Tooze says seperate form rank-and-file; took him
 long enough to break with DJT.
 
-AFAIK he started pol as fundraiser for Mitt (managerial class).
+AFAIK he started pol as fundraiser for Mitt (= managerial class).
 
 *2019-8-19 15:49:27*
 
