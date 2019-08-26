@@ -712,14 +712,6 @@ angle; they didnt want to make it a love letter to war.
 
 ---
 
-He has his fans but Dalio sounds really f-ing stupid. The guy cant
-string five words together properly. What he has dyslexia, lisp,
-whatever? Naaah, I think he is just dumb.
-
-*2019-7-19 18:50:7*
-
----
-
 Hananuer is a billionaire in favor of redistribution. So not "education will fix inequality" type of billionaire, like R Dalio.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is no room for moderation any more in the Democratic Party. If we cannot unambiguously and materially improve the economic circumstances of the majority of citizens, then the party has no place in society. Let’s all just be republicans and grab what we can now.</p>&mdash; Nick Hanauer (@NickHanauer) <a href="https://twitter.com/NickHanauer/status/1152184802084343808?ref_src=twsrc%5Etfw">July 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
