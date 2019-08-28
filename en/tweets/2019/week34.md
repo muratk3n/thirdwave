@@ -618,12 +618,6 @@ essentials.
 
 ---
 
-No it's not "just a sine curve" dumbass. The model needs DEs.
-
-*2019-8-18 19:45:25*
-
----
-
 I bet biz cycle with irate effect (as a control parameter) can be
 modeled with second order differential eqn ay''+by'+c = u(t), the
 solution to this eqn would be periodic - "the cycle". Then test irate
