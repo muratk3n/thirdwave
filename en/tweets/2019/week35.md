@@ -897,13 +897,7 @@ Wut? VW wants to buy TSLAQ?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hong Kong legislator suggesting capital controls. The pressure is mounting on Hong Kong’s withering leadership. <a href="https://twitter.com/hashtag/HKexit?src=hash&amp;ref_src=twsrc%5Etfw">#HKexit</a> <a href="https://twitter.com/hashtag/noelab?src=hash&amp;ref_src=twsrc%5Etfw">#noelab</a> <a href="https://t.co/sBRG7UBoIB">https://t.co/sBRG7UBoIB</a></p>&mdash; Kyle Bass (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1165116246813237248?ref_src=twsrc%5Etfw">August 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-24 7:47:19*
-
----
-
-\#thebible
+\#thebible \#trump
 
 [Link](https://mobile.twitter.com/Mauerback/status/1164905721756078083)
 
@@ -922,7 +916,7 @@ Who is directing? &#128552;
 
 ---
 
-&#128518;&#128518;&#128518;&#128518;
+Ave Ceasar
 
 "All Italian professors in [US], including Enrico Fermi (with exception of 6
 or so) pledged personal oath of allegiance to Il Duce"
@@ -973,7 +967,7 @@ take a much more active role in power markets"
 
 ---
 
-Why should DJT fire Powell? He needs to pin the slowdown on someone.
+Why would DJT fire Powell? He needs to pin the slowdown on someone.
 
 *2019-8-23 20:5:22*
 
@@ -1026,7 +1020,7 @@ Christians (aren't they referred to as a 'religious cult' in the
 movie?'), Luke is Jesus. The emperor is the Roman emperor, which makes
 Vader the pope. He represents centralized religion in the service of
 the empire.. just as in Byzantium, the Otto gobble-gobble with its
-ulema - the head "religion guy", sehulislam, all same shit.
+ulema - the head "religion guy", sehulislam. All the same shit.
 
 *2019-8-22 16:51:34*
 
