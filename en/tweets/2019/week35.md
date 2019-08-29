@@ -787,8 +787,8 @@ nat firebrand Oktay S. was involved in "normal science". He talks a
 big game in his books but what he's done is basically appyling the
 Standard Model (mostly Cop QM) to different areas, such as molecular
 biology, chemistry, he did not push further in the frontier on what's
-been started in 1910. Still a fine scientist though... The Teller
-story came from him.
+been started in 1910. A fine scientist though... The Teller story came
+from him.
 
 *2019-8-24 20:49:5*
 
@@ -805,27 +805,18 @@ practice of "blood letting"."
 
 ---
 
-People outside of historically mafia (sorry, "civilization") lands
-cannot even comprehend the tyrannical dingbatness of these
-places. Here is an example: when they asked Mussolini how he defined
-fascism this is what he said: "fascism is whatever's going through my
-mind at that point in time". Can u *believe* that shite? This is
-beyond patriarchal, tautological statement like parents use on their
-children, "why do I have to do this?","because I tell you so". No this
-is not just that, there is a spur-of-the-moment, flighty, sadistic
-side to it. Tyrants could be tryannical at least based on some
-rules. Not this. It is *whatever* going through my mind, *right there
-and then*.
+People outside of historically mafia lands cannot even comprehend the
+tyrannical dingbatness of these places. Here is an example: when they
+asked Mussolini how he defined fascism this is what he said: "fascism
+is whatever's going through my mind at that point in time". Can u
+*believe* that shite? This is beyond patriarchal, tautological
+statement like parents use on their children, "why do I have to do
+this?","because I tell you so". No this is not just that, there is a
+spur-of-the-moment, flighty, sadistic side to it. Tyrants could be
+tryannical at least based on some rules. Not this. It is *whatever*
+going through my mind, *right there and then*.
 
 *2019-8-24 20:21:41*
-
----
-
-Added emoji support for my content editor 😆 😆 😊
-
-🖖
-
-*2019-8-24 20:9:24*
 
 ---
 
