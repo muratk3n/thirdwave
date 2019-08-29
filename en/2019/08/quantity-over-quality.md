@@ -56,8 +56,11 @@ and tyranny.” In short, we went for quantity over quality.
 *---*
 
 War, empires, all results of agriculture. I don't think it could be
-stopped tho; the idea is emergent, you give enough time ppl will start
-figuring it out. The rest will be history.
+stopped though; the idea is emergent, you give enough time ppl will
+start figuring it out. The rest will be history. Preferring quantity
+is not too bad in itself (increases chances of survival), we just need
+to come to terms with what happened, the culture that was created
+afterwards (and destroy it). 
 
 
 
