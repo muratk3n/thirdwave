@@ -1,6 +1,14 @@
 # Tweet Log
 
 
+It's all about the G. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The value of g and its effect on Earth, Moon and Mars [bonus: Dave Scott Apollo 15 hammer &amp; feather experiment] <a href="https://t.co/UE2ZwDM6Dc">https://t.co/UE2ZwDM6Dc</a> [source of the gif: <a href="https://t.co/YvcXzrJKLZ">https://t.co/YvcXzrJKLZ</a>] <a href="https://t.co/uORCFi7nEn">pic.twitter.com/uORCFi7nEn</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1166953712952197121?ref_src=twsrc%5Etfw">August 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2019-8-29 9:45:57*
+
+---
+
 [It's true](https://www.quandl.com/data/MULTPL/SHILLER_PE_RATIO_MONTH-Shiller-PE-Ratio-by-Month). 
 
 "The US stock market is heavily overvalued, as bad or worse than 1929 ... (according to Shiller's CAPE)" 
