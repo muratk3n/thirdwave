@@ -1041,12 +1041,12 @@ ulema - the head "religion guy", sehulislam, all same shit.
 So basically constants in physics are akin to coefficients in
 statistics or weights in machine learning. In stats these can reach
 tens, hundreds, in Deep ML models millions. Weights are set by looking
-at the data, but more adjustable knobs give you more freedom, but then
-the model starts losing its expressiveness. They are a fudge
-essentially; A neural-net even after training, is an incomprehensible
-mess; it just "works", that is feed a new data point, it can answer
-based on previous points (which effect the formation of the weights),
-but that's all.
+at the data, more adjustable knobs give you more freedom, but then the
+model starts losing its expressiveness. They are a fudge essentially;
+A neural-net even after training, is an incomprehensible mess; it just
+"works", that is feed a new data point, it can answer based on
+previous points (which effect the formation of the weights), but
+that's all.
 
 "SU(5) is the most elegant way imaginable of unifying quarks with
 leptons, and it leads to a codification of the properties of the
