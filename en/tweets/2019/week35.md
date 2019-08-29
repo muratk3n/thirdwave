@@ -607,15 +607,6 @@ Solar Panels Spontaneously Ignited"
 
 ---
 
-Plus there are ppl paid by government right now who need to be fired
-and be replaced by a centrally managed content delivery system. Why do
-we let ppl with average teaching ability, or worse, imbeciles teach
-our children?
-
-*2019-8-25 17:00:14*
-
----
-
 That can now be interpreted as doing public works while in crisis and
 giving people money, as in social help (spending does not stimulate
 the economy).
