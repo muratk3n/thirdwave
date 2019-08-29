@@ -321,10 +321,10 @@ Many-Worlds - Barf.
 
 ---
 
-Dwayne J, funny guy. He's doing a show about stunt actors, how hard
+Dwayne J, funny dude. He's doing a show about stunt actors, how hard
 their job is, etc. Somewhere he starts talking abt action, and Ahnuld
-movies, and he breaks into a dead-on impression "aggghh, I played in
-Batman". Total clown.
+movies, and he breaks into a dead-on impression "arrrgh, I played in
+Batman". Hysterical.
 
 *2019-8-26 13:55:28*
 
@@ -337,7 +337,8 @@ Nah. What he's talking abt is more along the lines of SDR, an IMF
 project backed by gold (= really stupid idea) in virtual form. Maybe
 he is angling for an IMF job, who knows, his name is being floated for
 the top job... But with bad ideas like that I can definitely say he is
-the wrong man for it. Or maybe the right man for the evil job. Who knows?
+the wrong man for it. Or maybe the right man for the wrong job. Who
+knows?
 
 Dum-dum dum-dum, dum-dum dum-dum (guy in *Mission Impossible* is an
 agent of IMF, no?)
@@ -452,7 +453,7 @@ considering a representative ant [a dig into economists and their
 
 ---
 
-Haha \#walsh
+\#walsh
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It says something about our time, that the man who endorsed on Who Is America arming 4 year olds with machine guns, mortars and grenades, is now pitching himself as the sensible alternative to Trump - and not a single person can dispute it.</p>&mdash; Sacha Baron Cohen (@SachaBaronCohen) <a href="https://twitter.com/SachaBaronCohen/status/1165827032309092357?ref_src=twsrc%5Etfw">August 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -530,9 +531,9 @@ It weighs 29 kilos! \#ebike
 ---
 
 Just when CH is doing some good stuff on energy, they'll go belly up..
-Are US requests so obscene?  What were in those 45 pages that were
-rejected in the 150 page doc? Noone f--ing knows... What the f--k is
-going on?
+Are US trade requests so obscene?  What were in those 45 pages that
+were rejected in the 150 page doc? Noone f--ing knows... What the f--k
+is going on?
 
 *2019-8-25 19:53:24*
 
