@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+29/8 - [Quantity over Quality](/2019/08/quantity-over-quality.md)
+
+29/8 - [Tweets - Week 35](/tweets/2019/week35.md)
+
 22/8 - [Tweets - Week 34](/tweets/2019/week34.md)
 
 15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
@@ -20,10 +24,6 @@ despite the best efforts of people working in them.
 15/8 - [Tweets - Week 33](/tweets/2019/week33.md)
 
 8/8 - [Microgrids](/2019/08/microgrids.md)
-
-8/8 - [Smolin](/2019/08/smolin.md)
-
-8/8 - [Tweets - Week 32](/tweets/2019/week32.md)
 
 
 ## For Members
