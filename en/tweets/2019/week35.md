@@ -3,7 +3,7 @@
 
 [It's true](https://www.quandl.com/data/MULTPL/SHILLER_PE_RATIO_MONTH-Shiller-PE-Ratio-by-Month). 
 
-"The US stock market is heavily overvalued, as bad or worse than 1929 and 2000 (according to Shiller's CAPE)" -- Keen
+"The US stock market is heavily overvalued, as bad or worse than 1929 ... (according to Shiller's CAPE)" 
 
 *2019-8-29 8:56:4*
 
@@ -150,12 +150,12 @@ and orders are already coming in"
 
 ---
 
-The trick is knowing the difference between new money and existing
-money, this is one part of economics that is still valid. If you do
-not print new money existence you cannot create inflation \#UBI. They
+\#UBI The trick is knowing the difference between new money and
+existing money, this is one part of economics that is still valid. If
+you do not print new money existence you cannot create inflation. They
 can't sell me Coke for 1000 dollars because now they __know__ I have
 1000 dollars in my pocket. Coke still has to compete against Pepsi,
-Dr. Pepper.
+Dr. Pepper. Gatorade? What else was there.. Zima?
 
 *2019-8-28 14:0:28*
 
