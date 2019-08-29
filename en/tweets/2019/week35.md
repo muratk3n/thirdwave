@@ -35,7 +35,8 @@ Wut?
 
 ---
 
-They are probably leaving to save themselves the humiliation of being left out of the debates.
+Dems quitting are probably leaving to save themselves the humiliation
+of being left out of the debates.
 
 "JUST IN: New York Senator Kirsten Gillibrand drops out of 2020 presidential race"
 

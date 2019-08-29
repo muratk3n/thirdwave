@@ -458,8 +458,7 @@ hydrogen gas (keeping carbon in the ground)"
 
 Ha ha
 
-"
-Tweet 1: 'Our Economy is very strong' 
+"Tweet 1: 'Our Economy is very strong' 
 
 Tweet 2: We need four rate cuts and maybe some quantitative easing, too"
 
