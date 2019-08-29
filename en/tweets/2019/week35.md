@@ -824,7 +824,7 @@ something already looking like human, chimps evolved from that too. We
 became less violent. 
 
 Darwin was wrong, not on the evolution process, but abt how he thought
-that evolution took place (he had only a few fossils to work with).
+that evolution took place (he had only a few fossils to work with). 
 
 "She and her kin were slightly different from the other apes that
 lived at the same time: there was something unusual about their hips
@@ -834,14 +834,6 @@ later...[they] would dig up her fossilized bones [naming her Lucy]."
 -- Phillips, *Humans*
 
 *2019-8-24 20:1:10*
-
----
-
-O Boi.. Now Nader is on this thing..
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">See: Center for Auto Safety (<a href="https://twitter.com/Ctr4AutoSafety?ref_src=twsrc%5Etfw">@Ctr4AutoSafety</a>) and Consumer Watchdog (<a href="https://twitter.com/ConsumerWD?ref_src=twsrc%5Etfw">@ConsumerWD</a>) Renew Their Call for the FTC and State Attorneys General to Investigate Tesla for Deceptive Practices After Another Autopilot-Related Death <a href="https://t.co/wHU5HYy93c">https://t.co/wHU5HYy93c</a></p>&mdash; Ralph Nader (@RalphNader) <a href="https://twitter.com/RalphNader/status/1164555281017245702?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-24 18:48:36*
 
 ---
 
