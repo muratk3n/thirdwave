@@ -329,15 +329,6 @@ Many-Worlds - Barf.
 
 ---
 
-Dwayne J, funny dude. He's doing a show about stunt actors, how hard
-their job is, etc. Somewhere he starts talking abt action, and Ahnuld
-movies, and he breaks into a dead-on impression "arrrgh, I played in
-Batman". Hysterical.
-
-*2019-8-26 13:55:28*
-
----
-
 Owww is this another high profile endorsement for virtual currs? Me so
 happy.
 
