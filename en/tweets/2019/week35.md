@@ -885,12 +885,6 @@ Good expl on Palestinians.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let me be blunt:<br><br>If we stick to a &quot;middle ground&quot; approach or half measures when it comes to the climate crisis, our children and grandchildren will not have a livable planet.<br><br>Those are the stakes of this moment.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1164988223044640769?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-24 10:9:46*
-
----
-
 Wut? VW wants to buy TSLAQ?
 
 *2019-8-24 8:10:53*
