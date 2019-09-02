@@ -2,7 +2,7 @@
 
 Talk on the West Bank, Palestine on TYT
 
-[Video](https://youtu.be/BPd41EJicVI)
+[Video](https://youtu.be/E0uLbeQlwjw)
 
 Informative videos on the West Bank
 
