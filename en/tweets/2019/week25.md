@@ -286,7 +286,9 @@ The Last Ship second season was fantastic too. But it's not a contest.
 
 ---
 
-Libertards provide the "happy place" for the cons; they go there to feel better about themselves. Aaaah wouldn't it be nice to peg it all to gold, have sound money..? Maybe we'll do it one day. 
+Libertards provide the "happy place" for the cons; they go there to
+feel better about themselves. Aaaah wouldn't it be nice to peg it all
+to gold, have sound money..? Maybe we'll do it one day.
 
 *2019-6-17 16:42:48*
 
@@ -316,7 +318,12 @@ Is Japan private debt mosty household debt? No. I checked. Most of the private d
 
 ---
 
-The problem is too much private debt. There was some deleveraging but not nearly enough. Companies are servicing debt with debt rather than creating value. BOJ needs to increase rates to, say 5%, watch zombie companies die, bankruptcies will clear away junk and their debt, so new companies can borrow and create value. Textbook says with low growth decrease rates but u r off textbook territory now.
+The problem is too much private debt. There was some deleveraging but
+not nearly enough. Companies are servicing debt with debt rather than
+creating value. BOJ needs to increase rates to, say 5%, watch zombie
+companies die, bankruptcies will clear away junk and their debt, so
+new companies can borrow and create value. Textbook says with low
+growth decrease rates but u r off textbook territory now.
 
 [Japan's deflation problem](https://www.reuters.com/investigates/special-report/boj-kuroda-economy/?_ga=2.134200457.605687331.1554542001-1539180100.1539852795)
 
