@@ -87,7 +87,7 @@ head passing thru airports, cafes, restaurants, with TV in the
 background, and CM on TV yelling "theeese peeople aaaare exaaactly the
 saaame!".
 
-These people aren't totally stupid. They see what's going on.
+MSM types aren't all idiots. Some if not most see what's going on.
 
 *2019-9-4 9:32:15*
 
