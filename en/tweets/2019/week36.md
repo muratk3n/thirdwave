@@ -158,7 +158,7 @@ DIY Band Secretly Wishes Somebody Else Would DI"
 
 ---
 
-Blair is seeing to much diabolical smartness where there isn't any. He
+Blair is seeing too much diabolical smartness where there isn't any. He
 is of the type of left who wanted too much to be like the other side
 anyway, so it's understanable he is still agog by their moves. 
 
