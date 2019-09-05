@@ -625,10 +625,12 @@ celebrate the departure of these tedious puritanical nutjobs?"
 
 ---
 
-Interesting. Looking at the [Politico poll](https://morningconsult.com/2020-democratic-primary/) (taken in early primary states,
-which includes just voters who live in Iowa, New Hampshire, South
-Carolina, or Nevada). Biden, Bernie, Warren [votes](https://twitter.com/muratk3n/status/1168259420838649864).
-I looked at the time series correlation (who takes from who), I see
+Interesting. Looking at the [Politico
+poll](https://morningconsult.com/2020-democratic-primary/) (taken in
+early primary states, which includes just voters who live in Iowa, New
+Hampshire, South Carolina, or Nevada). Biden, Bernie, Warren votes are
+[here](https://twitter.com/muratk3n/status/1168259420838649864).  I
+looked at the time series correlation (who takes from who), I see
 
 ```python
 import scipy.stats
@@ -834,12 +836,12 @@ the money supply, velocity began to jump around." --Appelbaum
 
 ---
 
-Researchers from the Moscow Institute of Physics and Technology have
+"Researchers from the Moscow Institute of Physics and Technology have
 created a device that acts like a synapse in the living brain, storing
 information and gradually forgetting it when not accessed for a long
 time. Known as a second-order memristor, the new device is based on
 hafnium oxide and offers prospects for designing analog neurocomputers
-imitating the way a biological brain learns
+imitating the way a biological brain learns"
 
 [Link](https://m.phys.org/news/2019-08-physicists-device-imitating-biological-memory.html)
 
