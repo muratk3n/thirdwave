@@ -384,7 +384,7 @@ judge it based on where it comes from.
 
 ---
 
-"OooOO and they BIG PLANS with GOLD they are SECRETLY BUYING."
+"OooOO and they have BIG PLANS with GOLD they are SECRETLY BUYING."
 
 Fuuuckkk ooooffff
 
