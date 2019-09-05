@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
+
+5/9 - [Microgrids](/2019/09/ted-talk-thurnberg.md)
+
 29/8 - [Tweets - Week 35](/tweets/2019/week35.md)
 
 29/8 - [Quantity over Quality](/2019/08/quantity-over-quality.md)
@@ -20,11 +24,6 @@ despite the best efforts of people working in them.
 15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
 
 15/8 - [The Memristor](/2019/08/memristors.md)
-
-15/8 - [Tweets - Week 33](/tweets/2019/week33.md)
-
-8/8 - [Microgrids](/2019/08/microgrids.md)
-
 
 ## For Members
 
