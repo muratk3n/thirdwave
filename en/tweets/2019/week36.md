@@ -10,7 +10,7 @@
 last three decades, it was made possible by a Syrian order in Lebanon
 blessed by the U.S. and accepted for a long time by Israel"
 
-[Link](https://mobile.twitter.com/BeirutCalling/status/1169287878637248519}
+[Link](https://mobile.twitter.com/BeirutCalling/status/1169287878637248519)
 
 *2019-9-5 6:52:33*
 
