@@ -6,6 +6,16 @@
 
 ---
 
+"Hariri is right. If you want to to talk about Hezbollah’s rise in the
+last three decades, it was made possible by a Syrian order in Lebanon
+blessed by the U.S. and accepted for a long time by Israel"
+
+[Link](https://mobile.twitter.com/BeirutCalling/status/1169287878637248519}
+
+*2019-9-5 6:52:33*
+
+---
+
 "@NaomiAKlein
 
 Biden just confirmed he opposes banning fracking on the state and national level. A measure Germany and France introduced long ago.
