@@ -859,7 +859,8 @@ Another site on Tesla deaths:
 
 ---
 
-Lesson learned: \#heroku in case of fail dont do anything. The thing is so hands off it'll be back when it' back.
+Lesson learned: \#heroku in case of fail dont do anything. The thing
+is so hands off it'll be back when it's back.
 
 *2019-9-1 11:7:51*
 
