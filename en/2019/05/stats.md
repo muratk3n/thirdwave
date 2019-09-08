@@ -160,7 +160,7 @@ df3['unempl'].plot()
 plt.savefig('unemploy.png')
 ```
 
-![]('unemploy.png')
+![](unemploy.png)
 
 
 ```python
