@@ -260,4 +260,27 @@ DATE
 2019-04-01  19023.820  2.288859
 ```
 
+<a name="#infyoy"></a>
 
+```python
+import quandl
+df = quandl.get("RATEINF/INFLATION_USA-Inflation-YOY-USA", 
+                returns="pandas",authtoken=open(".quandl").read())
+print (df.tail(10))
+
+```
+
+```text
+            Value
+Date             
+2018-10-31  2.522
+2018-11-30  2.177
+2018-12-31  1.910
+2019-01-31  1.551
+2019-02-28  1.520
+2019-03-31  1.863
+2019-04-30  1.996
+2019-05-31  1.790
+2019-06-30  1.648
+2019-07-31  1.811
+```
