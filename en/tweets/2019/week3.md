@@ -116,7 +116,9 @@ That's even worse.
 
 ---
 
-I thought deGrasse declassified Pluto. It was Michael Brown from Caltech. MB also proved mathematically Planet 9 exists. A planet 10 times the size of Earth and further than Pluto.
+I thought deGrasse declassified Pluto. It was Michael Brown from
+Caltech. MB also proved mathematically Planet 9 exists. A planet 10
+times the size of Earth and further than Pluto.
 
 ---
 

@@ -636,8 +636,6 @@ def p_corr(df1, df2):
     p = 1-scipy.stats.t.cdf(abs(t),N-2)  # one-tailed
     return corr, t, p
 
-import pandas as pd
-
 df = pd.read_csv('politico08.csv')
 ```
 
