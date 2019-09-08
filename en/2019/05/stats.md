@@ -177,22 +177,6 @@ df4.ix[:,'labor_share_of_income'] = df4.labor_share_of_income / df4.labor_share_
 print (df4.tail(4))
 ```
 
-```text
-117.495
-            labor_share_of_income
-DATE                             
-2018-04-01               0.847032
-2018-07-01               0.847508
-2018-10-01               0.843364
-2019-01-01               0.840921
-```
-
-```python
-df4['labor_share_of_income'].plot()
-plt.savefig('labor_share.png')
-```
-
-![]('labor_share.png')
 
 <a name="pmi"></a>
 
