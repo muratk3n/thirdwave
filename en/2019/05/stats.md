@@ -133,7 +133,9 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [49.04746888 51.49610372] 50.27178630069573
 ```
 
-## Unemp
+## Wages and Unemployment
+
+<a name="unemp"></a>
 
 ```python
 import pandas as pd, datetime
@@ -141,33 +143,23 @@ from pandas_datareader import data
 
 start=datetime.datetime(1950, 1, 1)
 end=datetime.datetime(2019, 6, 1)
-cols = ['ECIWAG','LNS12300060','UNRATE']
+cols = ['ECIWAG','CIVPART']
 df3 = data.DataReader(cols, 'fred', start, end)
 df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
-df3['unemp_real'] = 100. - df3.LNS12300060
+df3['unempl'] = 100.0 - df3.CIVPART
 ```
 
 ```python
-print (df3.wagegrowth.tail(1))
-print (df3.unemp_real.tail(1))
-```
-
-```text
-DATE
-2019-01-01    2.954545
-Freq: 3MS, Name: wagegrowth, dtype: float64
-DATE
-2019-01-01    20.1
-Freq: 3MS, Name: unemp_real, dtype: float64
-```
-
-```python
-df3.unemp_real.plot()
-#plt.ylim(0,30)
+plt.figure(figsize=(14, 5))
+plt.subplot(121)
+df3['wagegrowth'].plot() 
+plt.subplot(122)
+df3['unempl'].plot() 
 plt.savefig('unemploy.png')
 ```
+
 ![]('unemploy.png')
 
 
