@@ -237,6 +237,8 @@ DATE
 2019-04-01  19023.820  2.288859
 ```
 
+# Inflation
+
 <a name="#infyoy"></a>
 
 ```python
