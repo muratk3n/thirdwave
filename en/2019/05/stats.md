@@ -66,7 +66,7 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [46.20681986 50.9944763 ] 48.600648083137585
 ```
 
-## 2012 Re-run
+## 2016 Re-run
 
 ```python
 bama_net_approv = 9.0
@@ -151,10 +151,11 @@ df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
 df3['unempl'] = 100.0 - df3.CIVPART
 ```
 
+
 ```python
 plt.figure(figsize=(14, 5))
 plt.subplot(121)
-df3['wagegrowth'].plot() 
+df3['wagegrowth'].plot()
 plt.subplot(122)
 df3['unempl'].plot() 
 plt.savefig('unemploy.png')
