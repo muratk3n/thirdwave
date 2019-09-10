@@ -164,21 +164,6 @@ plt.savefig('unemploy.png')
 ![](unemploy.png)
 
 
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-start=datetime.datetime(1950, 1, 1)
-end=datetime.datetime(2019, 6, 1)
-cols = ['PRS85006173']
-df4 = data.DataReader(cols, 'fred', start, end)
-df4.columns = ['labor_share_of_income']
-print (df4.labor_share_of_income.max())
-df4.ix[:,'labor_share_of_income'] = df4.labor_share_of_income / df4.labor_share_of_income.max()
-print (df4.tail(4))
-```
-
-
 <a name="pmi"></a>
 
 ## PMI
@@ -237,9 +222,9 @@ DATE
 2019-04-01  19023.820  2.288859
 ```
 
-# Inflation
-
 <a name="#infyoy"></a>
+
+# Inflation
 
 ```python
 import quandl
