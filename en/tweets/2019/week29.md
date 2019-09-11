@@ -399,36 +399,6 @@ had that internal machinery for socdyn prediction.
 *2019-7-16 12:11:42*
 
 ---
-How do I know "the psycic" actually *computes* his findings? Because
-from the way he explains them, I can see he has basic grasp on soc
-interaction, timings, value of actions, etc. So he already has the 
-framework, based on that, you can compute if you have that ability as
-well (which he does). Then call it a dream, a vision, u go to sleep
-wake up and the computation output is there waiting for you, it really
-doesn't matter.
-
-*2019-7-16 12:11:42*
-
----
-
-From the psycic (who really isnt one IMO, just a guy with good socdyn skills) 
-
-Brexit happens, it is hard, but they will manage to line up some
-deals, starting with US, then India, etc.
-
-Boris stays PM until the next general
-
-Democracy revolution in China
-
-War in the Middle East. Russia / US rel becomes worse bcz of it
-
-Cons likely lose in the general, new Labor PM, so not Corbyn
-
-Merkel leaves
-
-*2019-7-16 12:11:42*
-
----
 
 ![](https://images-na.ssl-images-amazon.com/images/I/712umy5RlRL._SY355_.jpg)
 
