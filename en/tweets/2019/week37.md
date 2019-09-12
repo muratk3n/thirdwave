@@ -730,10 +730,10 @@ believes IBM is really an innovation leader within tech"
 
 ---
 
-Yes "back in the day", for a while, Biden was known was for his
-anti-Iraq War stance. But it [turns
-out](https://youtu.be/yTXA9vck7sg?t=36) his ducks weren't exactly in
-order on the issue. He dropped the ball when it mattered most.
+Yes back in the day for a while, Biden was known was for his anti-Iraq
+War stance. But it [turns out](https://youtu.be/yTXA9vck7sg?t=36) his
+ducks weren't exactly in order on the issue. He dropped the ball when
+it mattered most.
 
 *2019-9-9 6:43:20*
 
