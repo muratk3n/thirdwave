@@ -110,7 +110,7 @@ profoundly threatened by the expansion of government".
 
 So an artificially created fear of gov is used as a glue between two
 faction of Reps. A side-effect could lead to the gun issue, bcz "fear
-gov, buy guns", "fear gov, oppose backgr checks, licensing bcz gov is
+gov, buy guns", "fear gov, oppose backgr checks, licensing bcz gov's
 gonna git you".
 
 Centrist Dems are culprit \#1 for cuckoo Reps, item above could be
