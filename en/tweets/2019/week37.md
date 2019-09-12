@@ -653,7 +653,8 @@ volunteering time at nearby school for kids learning physics from
 frickin FEYNMAN (videos). 
 
 I am sure he is a good enough teacher and passionate abt it, but we
-can't scale his passion. 
+can't scale his passion. Systemic vs. one-shot, "heroic" solution -
+systemic wins everytime.
 
 "My Lyft driver was the kindest and smartest man who was a former
 Boeing aerospace engineer who decided to become a high school physics
