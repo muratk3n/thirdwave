@@ -49,6 +49,27 @@ amazing. But so far it doesn’t"
 
 ---
 
+What's going on over there? It seems centrists took a big dump in that
+place, and their CEO is powerless to do anything, essentially a
+figurehead.
+
+"@dancohen3000
+
+Twitter just suspended the accounts of the biggest media outlets in
+Cuba and has given no reason. This is the equivalent of silencing CNN,
+Fox, WaPo and NPR’s accounts, but Cuba is a target of the empire so
+these arbitrary suspensions don’t generate outrage"
+
+*2019-9-12 8:5:12*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not just the Irish. I have a former colleague who has dual Polish and British nationality and she&#39;ll have more freedoms post Brexit than my angry relative who wants to leave - while simultaneously wishing to retire to a holiday home in Spain</p>&mdash; Otto English (@Otto_English) <a href="https://twitter.com/Otto_English/status/1171893361588023296?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2019-9-12 8:1:53*
+
+---
+
 @NorthmanTrader
 
 $SPX is less than 1% from all time human history highs and therefore in dire need of central bank intervention.
