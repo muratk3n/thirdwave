@@ -497,7 +497,7 @@ Dude's last name is Iceman in Kraut.
 
 Eisman (of *The Big Short* fame) on rates.
 
-[Video](https://youtu.be/5Nr8DjP7L44?t=105)
+[Video](https://youtu.be/5Nr8DjP7L44?t=125)
 
 *2019-9-9 22:47:3*
 
