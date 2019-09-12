@@ -11,7 +11,7 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-5/9 - [Tweets - Week 37](/tweets/2019/week37.md)
+12/9 - [Tweets - Week 37](/tweets/2019/week37.md)
 
 5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
 
