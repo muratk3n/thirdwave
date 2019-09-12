@@ -113,8 +113,8 @@ fraction of Reps. A side-effect could lead to the gun issue, bcz "fear
 gov, buy guns", "fear gov, oppose backgr checks, licensing bcz gov is
 gonna git you".
 
-Centrist Dems are culprit \#1 for cuckoo Reps, this could be \#2,
-perhaps related to \#1.
+Centrist Dems are culprit \#1 for cuckoo Reps, item above could be
+\#2, perhaps related to \#1.
 
 *2019-9-11 19:30:15*
 
