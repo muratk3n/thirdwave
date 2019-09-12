@@ -49,9 +49,9 @@ amazing. But so far it doesn’t"
 
 ---
 
-What's going on over there? It seems centrists took a big dump in that
-place, and their CEO is powerless to do anything, essentially a
-figurehead.
+Twitter.. What's going on over there? It seems centrists took a big
+dump in the place, and their CEO is powerless to do anything,
+essentially a figurehead.
 
 "@dancohen3000
 
