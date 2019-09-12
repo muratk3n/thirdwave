@@ -515,10 +515,10 @@ Eisman (of *The Big Short* fame) on rates.
 
 ---
 
-You are a financier, libertard, so you are literally the last person
-who can justfully make that comment.
+This guy is a financier, fine; but are you adding so much more value
+than, say, a parent? 
 
-"New generation wants to earn money without adding value"
+"New generation wants to earn money without [a job]"
 
 *2019-9-9 22:50:47*
 
