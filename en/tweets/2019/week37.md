@@ -345,9 +345,10 @@ of Canada)
 
 ---
 
-Dialectic is unsuitable as a systemic approach for science. See
-[Popper](https://www.vordenker.de/ggphilosophy/popper_what-is-dialectic.pdf). Popper
-is famous for defining the modern philosophy of science.
+Dialectic considered unsuitable as a systemic approach for science.
+[Popper](https://www.vordenker.de/ggphilosophy/popper_what-is-dialectic.pdf)
+wrote about it who is famous for defining the modern philosophy of
+science.
 
 Sure Marx used dialectic but let's not forget Marx "had issues" in the
 realm of hard-sciences. You don't "synthesize" for the new thing, you
