@@ -409,10 +409,11 @@ Exactly. Look at Brexit.
 No. For judging the weight of something, we already have experience
 there... During our lives we have handled, touched, carried things, so
 looking at an object we can make weight guesses. The estimate will
-have noise but it won't be far off from the truth.
+have noise but it won't be far off from the truth which can be
+corrected statistically.
 
 But most people do not deal with, create policy throughout their
-lives, so their estimates here will not be as good. This is a
+lives, so their estimates here are worthless. This is a
 garbage-in-garbage-out situation. Averaging won't fix anything.
 
 But averaging / combining the views of multiple policymakers who know
@@ -435,7 +436,7 @@ visual-look-weight connection on many items, their guesses will have a
 certain amount of noise associated, but then averaging many guesses
 will fix that error. Makes sense.
 
-"At a country fair ..800 people participated in a contest to estimate
+"At a country fair .. 800 people participated in a contest to estimate
 the weight of a slaughtered and dressed ox. Statistician Francis
 Galton observed that the median guess, 1207 pounds, was accurate
 within 1% of the true weight of 1198 pound"
@@ -446,7 +447,8 @@ within 1% of the true weight of 1198 pound"
 
 ---
 
-Julius Ceasar dabbled in banking before he became genocider-in-chief. 
+Interesting: Julius Ceasar dabbled in banking before he became
+genocider-in-chief.
 
 *2019-9-9 22:47:3*
 
@@ -474,8 +476,8 @@ Eisman (of *The Big Short* fame) on rates.
 
 ---
 
-But you are a financier, libertard, so you are literally the last
-person who can justfully make that comment.
+You are a financier, libertard, so you are literally the last person
+who can justfully make that comment.
 
 "New generation wants to earn money without adding value"
 
@@ -497,6 +499,9 @@ left.
 
 Time idx 27:56, he says he was tasked with firing Greenspan while at a
 bank. Haha.
+
+Hudson crossed paths with some strange of characters, he has great
+stories.
 
 *2019-9-9 22:47:3*
 
@@ -522,7 +527,7 @@ developments in neural nets?"
 
 Hey that Carroll article wasn't half-bad. The points he makes are
 verbatim to Smolin's, and (thankfully) he doesn't go into his own
-little pet theory which is a boondoggle.
+little pet theory, alternative QM which is a boondoggle.
 
 "Even Physicists Don’t Understand Quantum Mechanics... Our best
 attempts to understand fundamental physics have reached something of
@@ -1080,7 +1085,7 @@ for — they were data that most of us had never expected.
 A good theory should surprise us; it means that whoever invented it
 was doing their job. But when an observation surprises us, theorists
 worry. No observation in the last thirty years has been more upsetting
-than the discovery of the dark energy in 1998"
+than the discovery of the dark energy in 1998" -- Smolin
 
 *2019-9-7 18:38:16*
 
