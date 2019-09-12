@@ -349,10 +349,10 @@ Dialectic is unsuitable as a systemic approach for science. See
 [Popper](https://www.vordenker.de/ggphilosophy/popper_what-is-dialectic.pdf). Popper
 is famous for defining the modern philosophy of science.
 
-Sure Marx used dialectic but let's not forget Marx was "mentally
-challenged". You don't "synthesize" for the new thing, you smash one
-theory (falsify), and build another (falsiable) theory in its
-place. You might pick up some pieces of the broken model here and
+Sure Marx used dialectic but let's not forget Marx "had issues" in the
+realm of hard-sciences. You don't "synthesize" for the new thing, you
+smash one theory (falsify), and build another (falsiable) theory in
+its place. You might pick up some pieces of the broken model here and
 there, but you don't usually combine "the finished theory 1" with
 "finished theory 2" and come up with "better finished theory number
 3".
