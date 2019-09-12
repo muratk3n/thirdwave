@@ -456,9 +456,7 @@ garbage-in-garbage-out situation. Averaging won't fix anything.
 But averaging / combining the views of multiple policymakers who know
 about policy .. hmm that could work. I have an idea - I'll call it the
 *frickin parliament*, where multiple policymakers come together and
-contribute to policymaking.. Would that work?
-
-I am freestyling here.
+contribute to policymaking.. Would that work? 
 
 "Can't we use the same idea for policy, like millions making policy?"
 
