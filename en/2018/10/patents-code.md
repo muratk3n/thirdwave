@@ -1,18 +1,12 @@
 # Patent Codebook
 
-[Link 1](https://www.dropbox.com/s/jng88xaqq8u4uue/CapitalRentalPriceIndex2000.dta?dl=1)
-
-[Link 2](https://www.dropbox.com/s/t6mq5q9b4jhug59/compinn_BLS.dta?dl=1)
-
-[Link 3](https://www.dropbox.com/s/gi6ycrj0hmupr9l/NAICS_list.dta?dl=1)
-
-[Link 4](https://www.dropbox.com/s/a89qtnmesz8w75r/Paper_cato.do?dl=1)
-
-[Link 5](https://www.dropbox.com/s/hikdr0x58xdpjmq/Paper_Juan_BLS.do?dl=1)
-
-[Link 6](https://www.dropbox.com/s/0bdtgius04hnmgf/Paper_Juan_pat_manuf.do?dl=1)
-
-[Link 7](https://www.dropbox.com/s/59i9ywemg1475sj/PatentsCompustatImportsRPI.dta?dl=1)
+[File 1](https://www.dropbox.com/s/jng88xaqq8u4uue/CapitalRentalPriceIndex2000.dta?dl=1),
+[File 2](https://www.dropbox.com/s/t6mq5q9b4jhug59/compinn_BLS.dta?dl=1),
+[File 3](https://www.dropbox.com/s/gi6ycrj0hmupr9l/NAICS_list.dta?dl=1),
+[File 4](https://www.dropbox.com/s/a89qtnmesz8w75r/Paper_cato.do?dl=1),
+[File 5](https://www.dropbox.com/s/hikdr0x58xdpjmq/Paper_Juan_BLS.do?dl=1),
+[File 6](https://www.dropbox.com/s/0bdtgius04hnmgf/Paper_Juan_pat_manuf.do?dl=1),
+[File 7](https://www.dropbox.com/s/59i9ywemg1475sj/PatentsCompustatImportsRPI.dta?dl=1)
 
 
 TFP is total factor productivity - the portion of output not explained
