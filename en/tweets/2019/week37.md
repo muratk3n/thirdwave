@@ -206,13 +206,10 @@ racist anti-BDS zionist propaganda and calling it an "ad""
 "@davidallengreen
 
 The Scottish court decision shows that Johnson and Cummings cannot
-even abuse the UK constitution competently
-
-The absence of a witness statement as to true motive for prorogation
-was telling
-
-A political decision, clumsily executed by those not as clever as they
-think they are"
+even abuse the UK constitution competently. The absence of a witness
+statement as to true motive for prorogation was telling. A political
+decision, clumsily executed by those not as clever as they think they
+are"
 
 *2019-9-11 15:47:0*
 
