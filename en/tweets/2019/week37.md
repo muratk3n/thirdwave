@@ -748,7 +748,7 @@ Yes turning accel data into abs orientation is hard.
 
 Python on a little board. Has acc, grav, magneto, even IR comm. 
 
-[Link](https://www.adafruit.com/product/3501)
+[Link](https://www.adafruit.com/product/3333)
 
 \#curcuit \#electronics
 
