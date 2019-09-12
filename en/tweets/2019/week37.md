@@ -512,7 +512,7 @@ Eisman (of *The Big Short* fame) on rates.
 ---
 
 This guy is a financier, fine; but are you adding so much more value
-than, say, a parent, who work for free?
+than, say, a parent, who works for free?
 
 "New generation wants to earn money without [a job]"
 
