@@ -157,7 +157,7 @@ THE KING
 ---
 
 And you had the queen sign that thing.. This is what I am talking abt
-delegitimation effect. End this charade NOW!
+with delegitimation effect. End this charade NOW!
 
 "Brexit in chaos after court rules PM's suspension of parliament was
 unlawful"
