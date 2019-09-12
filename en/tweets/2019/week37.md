@@ -176,6 +176,13 @@ broke the ground"
 
 ---
 
+\#UBI is also about rewarding non-paid social work, like fathers and
+mothers. Making every mother a government worker would be hard.
+
+*2019-9-11 17:46:0*
+
+---
+
 "@ra
 
 It is f[@#$] wild that @Twitter's business model involves pushing
