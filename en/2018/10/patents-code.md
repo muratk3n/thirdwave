@@ -16,7 +16,7 @@ production.
 
 Needs Python 3
 
-pip install linearmodels
+Do `pip install linearmodels`
 
 
 ```python
