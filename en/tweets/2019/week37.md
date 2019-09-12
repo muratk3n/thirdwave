@@ -6,7 +6,7 @@
 
 ---
 
-“It’s estimated that the Deepeater Horizon oil spill resulted in the
+“It’s estimated that the Deepwater Horizon oil spill resulted in the
 loss of more than 10 million user-days of beach fishing and boating
 activities... If you Drill, you spill.”
 
