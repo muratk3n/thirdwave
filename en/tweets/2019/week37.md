@@ -109,7 +109,7 @@ conservatives who feared for their property values both felt
 profoundly threatened by the expansion of government".
 
 So an artificially created fear of gov is used as a glue between two
-fraction of Reps. A side-effect could lead to the gun issue, bcz "fear
+faction of Reps. A side-effect could lead to the gun issue, bcz "fear
 gov, buy guns", "fear gov, oppose backgr checks, licensing bcz gov is
 gonna git you".
 
