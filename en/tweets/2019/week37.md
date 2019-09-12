@@ -181,7 +181,7 @@ Bolton's removal can also help how WH is viewed; guy was such a
 hard-ass, his presence slanted a lot of perception IMO. Maybe the
 Taliban can make a deal, also Iran; but anything coming from WH is
 viewed thru the prism, "if the hard-ass okayed it, maybe [whatever
-deal] is not good for us". There are still plenty of hawks at WH.
+deal] is not good for us". 
 
 *2019-9-11 17:46:0*
 
