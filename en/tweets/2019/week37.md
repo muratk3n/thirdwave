@@ -138,8 +138,9 @@ Licensing considered better for the gun issue
 
 Haha.. that's good. Is there any chance of reviving that?
 
-"Did you know in 2010, @nntaleb tried to sue the @riksbanken because
-the prize winners theories contributed to the #2008FinancialCrash?"
+"Did you know in 2010, @nntaleb tried to sue the [Sweden CB Riksbank]
+because the prize winners theories contributed to the
+#2008FinancialCrash?"
 
 [Link](https://twitter.com/themintmag/status/1171810829508993025)
 
