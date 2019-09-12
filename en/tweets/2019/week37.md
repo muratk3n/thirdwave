@@ -177,6 +177,17 @@ broke the ground"
 
 ---
 
+Bolton's removal can also help how WH is viewed; guy was such a
+hard-ass, his presence slanted a lot of perception IMO. Maybe the
+Chinese can make a deal, so can the Taliban and Iran; but anything
+coming from WH is viewed thru the prism, "if the hard-ass okayed it,
+maybe [whatever deal] is not good for us". There are still plenty of
+hawks around WH. No need for this one guy.
+
+*2019-9-11 17:46:0*
+
+---
+
 \#UBI is also about rewarding non-paid social work, like fathers and
 mothers. Making every mother a government worker would be hard.
 
