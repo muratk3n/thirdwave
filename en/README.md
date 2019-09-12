@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+5/9 - [Tweets - Week 37](/tweets/2019/week37.md)
+
 5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
 
 5/9 - [School Strike for Climate](/2019/09/ted-talk-thurnberg.md)
@@ -23,7 +25,6 @@ despite the best efforts of people working in them.
 
 15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
 
-15/8 - [The Memristor](/2019/08/memristors.md)
 
 ## For Members
 

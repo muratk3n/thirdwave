@@ -260,7 +260,8 @@ reportedly he deadpanned 'Himself', and ppl laughed. That comes as
 close to flipping the bird in Iranian politics as anything and raised
 eyebrows. What's going on in there?
 
-"@DEFCONWSALERTS Iran says that it will break the uranium stockpile limit set by its nuclear deal with world powers in the next 10 days"
+"@DEFCONWSALERTS Iran says that it will break the uranium stockpile
+limit set by its nuclear deal with world powers in the next 10 days"
 
 *2019-6-17 21:47:24*
 
