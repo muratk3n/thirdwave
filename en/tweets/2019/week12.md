@@ -378,7 +378,9 @@ Chelsea Clinton?
 
 There is a Rush Hour clip 4 every situation
 
-https://www.youtube.com/watch?v=LlDfEMzFyGo&feature=youtu.be&t=36
+[Link](https://www.youtube.com/watch?v=LlDfEMzFyGo&feature=youtu.be&t=36)
+
+\#rushhour
 
 ---
 

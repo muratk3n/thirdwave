@@ -25,9 +25,15 @@ trivial."
 
 ---
 
-Ok, that for-tax guy on Fox (Tucker) might have been somewhat on edge bcz he was on Fox. I see lefties on Fox sometimes, they look really stiff, always expecting a punch from somewhere. I don't blame them.
+Ok, that for-tax guy on Fox (Tucker) might have been somewhat on edge
+bcz he was on Fox. I see lefties on Fox sometimes, they look really
+stiff, always expecting a punch from somewhere. I don't blame them.
 
-https://www.youtube.com/watch?v=lq2j1ER1DHs&feature=youtu.be&t=51
+They remind me of this scene. 
+
+[Link](https://www.youtube.com/watch?v=lq2j1ER1DHs&feature=youtu.be&t=51)
+
+\#rushhour
 
 ---
 

@@ -223,8 +223,8 @@ Too funny. And not. \#SJW
 
 No wonder Star Trek Disco, or STD is ground-zero for lots of this
 non-sense.  BTW the actor who "told on" Kevin Spacey is from this
-shit-show (literally, a show that is shit). I watching a Spacey mov
-the other day, and wondered, was that accusation made-up? 
+shit-show (literally, a show that is shit). I was watching a Spacey
+mov the other day, and wondered, was that accusation made-up?
 
 [Link](https://www.hollywoodreporter.com/live-feed/walter-mosley-quits-star-trek-discovery-using-n-word-writers-room-1237489)
 
