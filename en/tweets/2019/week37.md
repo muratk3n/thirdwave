@@ -535,7 +535,7 @@ left.
 Time idx 27:56, he says he was tasked with firing Greenspan while at a
 bank. Haha.
 
-Hudson crossed paths with some strange of characters, he has great
+Hudson crossed paths with some strange characters, he has great
 stories.
 
 *2019-9-9 22:47:3*
