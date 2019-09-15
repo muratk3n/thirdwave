@@ -109,10 +109,6 @@ https://www.reuters.com/article/us-autoshow-shanghai-electric-insight/the-uphill
 
 ---
 
-Stallman: "Facebook doesnt have users, it has used's". :)
-
----
-
 Fantastic. I can't wait existing approaches going belly up
 
 "Silicon Valley's Next Target: Disrupt the Construction and Real Estate Industries"

@@ -775,13 +775,6 @@ a result.
 
 ---
 
-How did I forget G. Van Rossum, the inventor of Python itself, and
-Stallman?  Add to the list of "open sourcerers" deserving a medal.
-
-*2019-8-11 10:13:19*
-
----
-
 Brutal 
 
 [Vid](https://youtu.be/aknbxPj6JGI)
