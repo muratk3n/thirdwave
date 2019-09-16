@@ -561,8 +561,8 @@ developments in neural nets?"
 ---
 
 Hey that Carroll article wasn't half-bad. The points he makes are
-verbatim to Smolin's, and (thankfully) he doesn't go into his own
-little pet theory, alternative QM which is a boondoggle.
+verbatim to Smolin's. Thankfully he doesn't go into his own little pet
+theory, alternative QM, which is a boondoggle.
 
 "Even Physicists Don’t Understand Quantum Mechanics... Our best
 attempts to understand fundamental physics have reached something of
