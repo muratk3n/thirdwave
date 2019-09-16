@@ -669,14 +669,6 @@ only a few miles."
 
 ---
 
-One more vote for \#yang
-
-[Link](https://twitter.com/stacyherbert/status/1170773127132921856)
-
-*2019-9-9 13:49:54*
-
----
-
 "@trevornoren
 
 Debt owed by governments, businesses and households around the globe
