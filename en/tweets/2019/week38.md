@@ -878,11 +878,11 @@ the deal would let the combined company sell shoes at lower prices,
 and that would place its smaller competitors at a disadvantage”".
 
 The ruling is still about economic efficiency actually; the difference
-is on what timeframe... If we let competition die for cheaper prices
-now, we might get somewhat of an efficiency immediately, but would
-lose long term efficiency later. After the competition is wiped out,
-there'll be less innovation, and the dominant company might even raise
-prices because they are not threatened by others anymore.
+is on what timeframe... If we let competition die for "better
+service", we might get somewhat of an efficiency immediately, but
+would lose long term efficiency later. After the competition is wiped
+out, there'll be less innovation, and the dominant company might even
+raise prices because they are not threatened by others anymore.
 
 *2019-9-13 11:45:50*
 
