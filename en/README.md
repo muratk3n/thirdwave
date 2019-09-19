@@ -25,13 +25,6 @@ despite the best efforts of people working in them.
 
 29/8 - [Tweets - Week 35](/tweets/2019/week35.md)
 
-29/8 - [Quantity over Quality](/2019/08/quantity-over-quality.md)
-
-22/8 - [Tweets - Week 34](/tweets/2019/week34.md)
-
-15/8 - [Manganese Hydride](/2019/08/manganese-hydride.md)
-
-
 ## For Members
 
 [Articles](https://thirdwave-members.herokuapp.com/articles)
