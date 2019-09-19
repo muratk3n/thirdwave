@@ -255,9 +255,9 @@ was Trek, SGate, then nothing.. BSG, show'em how it's done.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good to know 👍🏻😉 Excited to see what you come up with. 🚀</p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1174164332080271361?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 \#BSG
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good to know 👍🏻😉 Excited to see what you come up with. 🚀</p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1174164332080271361?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-9-17 16:29:46*
 
