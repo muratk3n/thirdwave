@@ -819,13 +819,14 @@ flying machines'"
 
 ---
 
-This all comes form a moronic need to *fight* orange Hitler. You
-didn't have to do __anything__. In its own pace things were improving
+This all comes form a moronic need to fight orange Hitler. You don't
+have to do _anything_. In its own pace things were improving
 already. But that's not the real problem is it? The real problem is
-the top 20%, corporatists / centrists Democrats need this to reaffirm
-their political status which does not care about economical issues
-anymore, and this sorry piece of shit is all they have left. It not
-only does not work, it triggers an adverse reaction on the other side.
+the top 20%, corporatists / centrists Democrats need these issues to
+reaffirm their political status which does not care about economics
+anymore, and this sorry piece of shit is all they have left. Said
+approach not only does not work, it triggers an adverse reaction on
+the other side.
 
 *2019-9-13 15:42:44*
 
