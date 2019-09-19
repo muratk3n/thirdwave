@@ -25,7 +25,7 @@ alane. The process used significantly less pressure, only about 5,000
 PSI (or 30 times less pressure), to create alane than that needed for
 equilibrium methods.
 
-And from [link](https://www.tdworld.com/generation-and-renewables/next-chapter-story-hydrogen-power)
+[TdWorld](https://www.tdworld.com/generation-and-renewables/next-chapter-story-hydrogen-power)
 
 Ardica specializes in the production of Alane, a highly stable,
 extremely lightweight hydrogen powder now used by a select set of

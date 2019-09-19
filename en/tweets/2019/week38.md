@@ -439,6 +439,8 @@ demand, or something..?
 
 ---
 
+Brutal.
+
 Voit writes a blog called *Not Even Wrong*; the name is a dig into
 String Theory, because a theory must be falsifiable, you can't twist
 and bend with every experiment ("well it could say that too"), you
@@ -483,6 +485,14 @@ will pay ANYTHING maybe even for defective unit blocks.."
 
 ---
 
+On a different note, all attacks on fossil infrastructure are
+awesome. I'd love to see some *Independence Day* level shit done to
+these effers.
+
+*2019-9-16 0:31:30*
+
+---
+
 "Irish teenager wins global science award for removing microplastics
 from water"
 
@@ -503,14 +513,6 @@ Greenspan. It feels like a lifetime ago.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Once the industry scales up, renewable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> could be produced from <a href="https://twitter.com/hashtag/wind?src=hash&amp;ref_src=twsrc%5Etfw">#wind</a> or <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> power for the same price as natural gas in most of Europe and Asia&quot;<a href="https://t.co/G3Fzh94GN4">https://t.co/G3Fzh94GN4</a></p>&mdash; Stéphane Jéhanno (@stejeh) <a href="https://twitter.com/stejeh/status/1173214874249375744?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-9-15 19:14:13*
-
----
-
-On a different note, all attacks on fossil infrastructure are
-awesome. I'd love to see some *Independence Day* level shit done to
-these effers.
-
-*2019-9-15 17:45:17*
 
 ---
 
@@ -776,7 +778,7 @@ and cheaper batteries, and we don’t know when or if we will.
 Already making a movie on that college admission scandal..? Michael
 Shanks (of TV Stargate fame) is in it. Who plays Felicity Hoffman?
 That actress from *Desparate Housewives* could totally play her.. Oh
-wait, that was F. Hoffman. 🙃
+wait, that was F. Hoffman. 😐
 
 [Link](https://www.hollywoodreporter.com/amp/live-feed/penelope-ann-miller-mia-kirshner-star-lifetime-college-scandal-movie-1230840?__twitter_impression=true)
 
@@ -818,7 +820,7 @@ flying machines'"
 ---
 
 This all comes form a moronic need to *fight* orange Hitler. You
-didn't have to do _anything_. In its own pace things were improving
+didn't have to do __anything__. In its own pace things were improving
 already. But that's not the real problem is it? The real problem is
 the top 20%, corporatists / centrists Democrats need this to reaffirm
 their political status which does not care about economical issues
