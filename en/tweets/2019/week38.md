@@ -824,9 +824,9 @@ have to do _anything_. In its own pace things were improving
 already. But that's not the real problem is it? The real problem is
 the top 20%, corporatists / centrists Democrats need these issues to
 reaffirm their political status which does not care about economics
-anymore, and this sorry piece of shit is all they have left. Said
-approach not only does not work, it triggers an adverse reaction on
-the other side.
+anymore, and this sorry excuse of "social policy" is all they have
+left. Said approach not only does not work, it triggers an adverse
+reaction on the other side.
 
 *2019-9-13 15:42:44*
 
