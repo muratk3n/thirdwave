@@ -1,8 +1,8 @@
 # Aluminum Trihydride - Alane
 
-Team discovers way to make alane a better hydrogen fuel option for vehicles.
-
 [Link](https://phys.org/news/2016-09-team-alane-hydrogen-fuel-option.amp)
+
+Team discovers way to make alane a better hydrogen fuel option for vehicles.
 
 "Alane is great because it meets all of the criteria put forth by the
 Department of Energy for hydrogen fuel cell vehicles for energy
@@ -44,6 +44,4 @@ recycled and regenerated"
 
 ---
 
-Government has the best toyz. They are using this thing *right
-now*. Imagine being an officer loading this stuff onto a truck. If you
-had some sci know, wouldn't that get some gears turning?
+Government has the best toyz, best recent tech, no doubt.
