@@ -83,7 +83,7 @@ better, bisexual transgender character. Have a nice sleep.
 "@lucyleid
 
 Today I learned Disney has a bedtime hotline you can call where you
-can speak to a Disney character (including Yoga and Spiderman) and
+can speak to a Disney character (including Yoda and Spiderman) and
 they'll tell your kid to go to sleep. If that's not vertical
 integration I don't know what is"
 
