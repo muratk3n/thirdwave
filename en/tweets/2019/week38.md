@@ -324,8 +324,8 @@ mostly end up on the same plane with other planets, essentially on a
 ---
 
 Most planet systems are coplanar, so 1st you get on nearest planet
-system's plane. Then maybe the galaxy manual says starboard facing
-first planet's rotation.. is up? :D
+system's plane. Then maybe the galaxy manual says right-hand rule on
+starboard facing first planet's rotation.. is up? :D
 
 I am a problem solver.
 
