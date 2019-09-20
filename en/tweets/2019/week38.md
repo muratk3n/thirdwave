@@ -77,7 +77,7 @@ Press 1 for Spiderman, 2 for Yoda. And press 3 for Jar Jar universe
 Hi there [name], thanks for pressing 3. Story begins..Spiderman is
 pregnant he doesn't know why, Yoda is bitten by radioactive spider, he
 becames Hulk, they are both depressed for not being PC in their life
-choices. The also badly want to play a sidekick to a female, or
+choices. They also badly want to play a sidekick to a female, or
 better, bisexual transgender character. Have a nice sleep.
 
 "@lucyleid
