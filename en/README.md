@@ -21,8 +21,6 @@ despite the best efforts of people working in them.
 
 5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
 
-5/9 - [School Strike for Climate](/2019/09/ted-talk-thurnberg.md)
-
 29/8 - [Tweets - Week 35](/tweets/2019/week35.md)
 
 ## For Members

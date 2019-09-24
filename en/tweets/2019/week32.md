@@ -78,12 +78,6 @@ parts, like electrification etc.
 
 --- 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preliminary new German heat record.. 42,6 °C! Over 2° warmer than the old record. <br>Which was yesterday.... <a href="https://t.co/i4OuL5VLu7">https://t.co/i4OuL5VLu7</a></p>&mdash; Greta Thunberg (@GretaThunberg) <a href="https://twitter.com/GretaThunberg/status/1154451084737490945?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-7 22:42:54*
-
----
-
 "Fantastic news for FCHEA member @PlugPowerInc Along with increasing
 revenue, Plug has shipped over 28,000 #fuelcells and has become the
 world's largest user of liquid #hydrogen, utilizing 15 tons daily,

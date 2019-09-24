@@ -975,3 +975,5 @@ according to officials with knowledge of the matter.
 
 ---
 
+<img width="500" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/muratk3n.png"/>
+
