@@ -558,25 +558,6 @@ zones elsewhere" --Toffler, *Future Shock*
 
 ---
 
-It's unbelievable a little girl with a positive message has
-detractors.
-
-Sadly US cornered [itself](https://muratk3n.github.io/thirdwave/en/2018/05/polarization.html) into this position. We can all thank
-corporate Democrats for that.
-
-"@matthaig1
-
-A big fuck you to the journalists still picking on a school kid who is
-trying to protect the planet we live on. You aren't just on the wrong
-side of history. You are on the wrong side of the present. The wrong
-side of science.
-
-And you're the ones who need to go back to school"
-
-*2019-9-2 7:30:26*
-
----
-
 Hayhoe.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I turned this thread below, that explains the science on how climate change affects hurricanes, into a FB post. I tried to boost it. Guess what <a href="https://twitter.com/facebook?ref_src=twsrc%5Etfw">@Facebook</a> said. Yet again. Clean energy, climate, science ... to Facebook, all inconvenient facts are “political”. <a href="https://t.co/qjZy2Ai4JL">https://t.co/qjZy2Ai4JL</a> <a href="https://t.co/ePMtOpih3k">pic.twitter.com/ePMtOpih3k</a></p>&mdash; Katharine Hayhoe (@KHayhoe) <a href="https://twitter.com/KHayhoe/status/1168282924594147328?ref_src=twsrc%5Etfw">September 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
