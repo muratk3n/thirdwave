@@ -323,8 +323,8 @@ sudden *gets out*. They controlled all their emo, lived with
 path is to deal with that, cant go back to convent, cant control, wont
 like being controlled, etc.
 
-The problem is, BJ, EU is not your fucking convent. Whatever odd feels
-u associate with this org are unfounded. 
+The problem is EU is not your fucking convent BJ. Whatever odd feels u
+associate with this org are unfounded.
 
 "@JimMFelton
 
