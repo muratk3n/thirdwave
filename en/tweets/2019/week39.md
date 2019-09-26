@@ -469,7 +469,7 @@ curve](https://math.libretexts.org/@api/deki/files/21/Line_integral_of_scalar_fi
 ---
 
 The good news is the Left finally showed up in the Democratic race. I
-remember Bill Bradley who challenged Al Gore "from the left" (aughts
+remember Bill Bradley who challenged Al Gore "from the left" ('00
 primary) - that mot..f..ka used to parrot literature written for him
 by Pharmaceutical Research and Manufacturers of America, a lobbying
 group for big pharma. This was "left" of its time.
