@@ -776,6 +776,8 @@ The $2.5 trillion reason we can’t rely on batteries to clean up the grid
 
 Continental is fourth in the global auto parts market.
 
+And this is [number one](https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html).
+
 "Forget going battery electric, says Continental, the real future is
 in the hydrogen revolution"
 
