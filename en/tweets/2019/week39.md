@@ -784,7 +784,7 @@ Most in media are followers. They talk about things only when it's
 
 Continental is fourth in the global auto parts market.
 
-And this is [number one](https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html).
+This is [number one](https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html).
 
 "Forget going battery electric, says Continental, the real future is
 in the hydrogen revolution"
