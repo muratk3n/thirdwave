@@ -20,7 +20,7 @@ Third senior German official resigns from ECB"
 ---
 
 Everything H2 related is blue colored these days; I like it. It is
-becoming brand-like almost, looks awesome.
+becoming a brand thing almost, looks fly
 
 *2019-9-25 21:51:42*
 
