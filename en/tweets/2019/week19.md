@@ -256,9 +256,12 @@ Judging by the Hedges interview new Taibi book Hate Inc is probably covering Thi
 
 ---
 
-That's partly true but you _helped_ make that block what it is (IMO US also encouraged a UK inside EU). While in, they gave u the best deal ever. On and on
+That's partly true but you _helped_ make that block what it is (IMO US
+also encouraged a UK inside EU). While in, they gave u the best deal
+ever. On and on
 
-"Ok u say UK better off in EU. But if out we have to follow its rules, that's unfair, we are being bullied by larger block"
+"Ok u say UK better off in EU. But if out we have to follow its rules,
+that's unfair, we are being bullied by larger block"
 
 ---
 

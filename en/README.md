@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+26/9 - [Tweets - Week 39](/tweets/2019/week39.md)
+
 19/9 - [Tweets - Week 38](/tweets/2019/week38.md)
 
 19/9 - [Aluminum Trihydride - Alane](/2019/09/alane.md)
@@ -20,8 +22,6 @@ despite the best efforts of people working in them.
 12/9 - [Tweets - Week 37](/tweets/2019/week37.md)
 
 5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
-
-29/8 - [Tweets - Week 35](/tweets/2019/week35.md)
 
 ## For Members
 
