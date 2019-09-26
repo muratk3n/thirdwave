@@ -115,7 +115,10 @@ financial crisis. Hopefully not yet"
 
 "@mtracey
 
-Trump reportedly plans to release both the whistleblower complaint and the phone call transcript, but Democrats decided to let the impeachment train out of the station before getting basic details about the conduct they're alleging is impeachable. Smart"
+Trump reportedly plans to release both the whistleblower complaint and
+the phone call transcript, but Democrats decided to let the
+impeachment train out of the station before getting basic details
+about the conduct they're alleging is impeachable. Smart"
 
 *2019-9-25 19:33:54*
 
@@ -123,7 +126,8 @@ Trump reportedly plans to release both the whistleblower complaint and the phone
 
 None of that is Deep Shit BTW.
 
-"First, Atlas the robot backflipped. Then, it could do parkour. Now, this  @BostonDynamics machine can do a gymnastic routine"
+"First, Atlas the robot backflipped. Then, it could do parkour. Now,
+this @BostonDynamics machine can do a gymnastic routine"
 
 [Link](https://mobile.twitter.com/WIRED/status/1176497063116324865)
 
