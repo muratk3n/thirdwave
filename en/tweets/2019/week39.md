@@ -262,7 +262,8 @@ Impeachment? This will cause more trash on Biden to come out.
 As far as I know, the motherfucker's tip-top
 
 [With higher pitched voice near the end, with little attitude, like
-wha?, and getting lower in volume in the finish.. Okay - Im done]
+wha?, and getting higher in volume in the finish.. Little standoffish
+not too terse. Okay - Im done]
 
 *2019-9-24 21:2:13*
 
