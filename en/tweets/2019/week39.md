@@ -540,8 +540,8 @@ Team Says Fed Has To Buy More Debt"
 
 Please do not project your small, personalized existence to the whole
 of humanity. Improving on listening is your shit. The general rule:
-people who know something abt the issue listen to
-eachother. Parliament, see the grievance, debate, make law.
+people who know something abt the issue listen to eachother. In
+broader soc, parliament / exec, see the grievance, debate, make law.
 
 IaC: "We need to listen to every indiv on everything before making
 decisions"
