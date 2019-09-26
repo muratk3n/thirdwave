@@ -247,7 +247,7 @@ boycott ⁦"
 
 ---
 
-[Investigate the Bidens](https://youtu.be/YBB56IJ39PY?t=48)
+[Investigate Biden](https://youtu.be/YBB56IJ39PY?t=48)
 
 *2019-9-24 22:10:23*
 
