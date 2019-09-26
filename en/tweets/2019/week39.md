@@ -365,6 +365,12 @@ relying on a complete black box with one call.
 
 ---
 
+Much happens in a week!
+
+*2019-9-24 12:34:51*
+
+---
+
 Budget surplus - great. Dont touch the irate. I'd raise it to 4% to
 bust the zombies even. Slowdown is part of the cycle. I'd speed up the
 recovery instead of remaining in zombie-land for decades like Japan.
