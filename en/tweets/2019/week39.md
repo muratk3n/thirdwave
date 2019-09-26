@@ -337,15 +337,6 @@ two."
 
 ---
 
-Tamam ama geçmişinde Kanuni gibi bir o--pu çocuğu olan yönetim
-kültürünün böbürlenme şansı yoktur. Sen köpeksin. Köpek gibi
-havlamadan önce geçmişteki hatalarının muhasebesini yapmanı tavsiye
-ederim.
-
-*2019-9-24 13:2:28*
-
----
-
 *Terry Jones' Barbarians*. Highly recommended.
 
 *2019-9-24 13:2:28*
