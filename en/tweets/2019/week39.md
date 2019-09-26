@@ -76,7 +76,8 @@ sword that cuts Biden too, two birds with one stone. Trigger crisis
 (slowdown is already a sure thing), Trump loses. Warren or someone
 else other than Biden wins.
 
-I dont think "they" want Biden. MSM hasn't caught on yet.
+I dont think "they" want Biden (guy is senile). MSM hasn't caught on
+yet.
 
 *2019-9-25 19:53:2*
 
@@ -84,10 +85,10 @@ I dont think "they" want Biden. MSM hasn't caught on yet.
 
 "@scientificecon
 
-.. Normally the central bank ensures there is no such spike in rates,
-which is entirely within their powers. Hence we can only conclude the
-Fed purposely created this scare, possibly to trigger the next
-financial crisis. Hopefully not yet"
+.. Normally the central bank ensures there is no such spike in
+[overnight] rates, which is entirely within their powers. Hence we can
+only conclude the Fed purposely created this scare, possibly to
+trigger the next financial crisis. Hopefully not yet"
 
 [Link](https://mobile.twitter.com/scientificecon/status/1175488755534323718)
 
