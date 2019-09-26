@@ -35,6 +35,8 @@ nearby him. The Nakamoto living close to HF was burned during mortgage
 crisis. So I bet HF saw his predicament, and planned BTC as a way to
 correct the sys which burned his neighbor and many others.
 
+<a name="brexit"></a>
+
 CNN Conversation:
 
 MP: People voted to get out of EU
