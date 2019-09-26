@@ -3,10 +3,6 @@
 That's true. Incentives, rules define outcome. Dems allowed private interests have free reign, and when these ppl do what they do, some complain. 
 Do not "implore" ppl for the right behaviour. Want different outcomes? Change the game.
 
-*2019-9-26 7:15:40*
-
----
-
 "@Renegade_Inc
 
 Big Pharma CEO: ‘We’re in Business of Shareholder Profit, Not Helping The Sick’"
@@ -75,12 +71,16 @@ sided with Trump here include Gardner, McSally and Tillis"
 
 ---
 
-I am starting to see a possible plan; hit DJT with Ukraine, but that's
-a double-edged sword that cuts Biden too, two birds with one
-stone. Trigger crisis (slowdown is already a sure thing), Trump
-loses. Warren or someone else other than Biden wins.
+Sceneario: establ. hits DJT with Ukraine, but that's a double-edged
+sword that cuts Biden too, two birds with one stone. Trigger crisis
+(slowdown is already a sure thing), Trump loses. Warren or someone
+else other than Biden wins.
 
-I dont think the establ wants Biden. MSM hasn't caught on yet.
+I dont think "they" want Biden. MSM hasn't caught on yet.
+
+*2019-9-25 19:53:2*
+
+---
 
 "@scientificecon
 
