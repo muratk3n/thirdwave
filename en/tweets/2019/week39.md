@@ -58,19 +58,6 @@ new bus road map by @CaFCP. \#hydrogen"
 
 ---
 
-GREAT. No monkeying around with money shit - Congress controls the
-purse strings. Period. Show your POWAH.
-
-"@jacobpramuk
-
-Senate votes 54-41 to block Trump's national emergency declaration
-used to get border wall funding. Vulnerable Republicans up in 2020 who
-sided with Trump here include Gardner, McSally and Tillis"
-
-*2019-9-25 20:30:46*
-
----
-
 Sceneario: establ. hits DJT with Ukraine, but that's a double-edged
 sword that cuts Biden too, two birds with one stone. Trigger crisis
 (slowdown is already a sure thing), Trump loses. Warren or someone

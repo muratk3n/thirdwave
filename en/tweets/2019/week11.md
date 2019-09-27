@@ -58,7 +58,8 @@ Right. Maybe to show she can buddy up. Or whatever.
 
 ---
 
-Imma find a way to charge u parachutin moth..f..kas. Yeaah, u just wait.. Frickin A-list visitors brutha not getting paid? Sheet.
+Imma find a way to charge u parachutin moth..f..kas. Yeaah, u just
+wait.. Frickin A-list visitors brutha not getting paid? Sheet.
 
 ---
 
