@@ -966,6 +966,8 @@ politically. The Dudley rant illustrates the collective madness."
 
 ---
 
+<a name="transistorPatent"/>
+
 One more nail in the patent lover's coffin.
 
 "OooOO but patents work so well, look at what happened with
