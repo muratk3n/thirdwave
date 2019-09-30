@@ -19,11 +19,18 @@ If politics were not a concern, I'd replace socsec with UBI, completely, paying 
 
 ---
 
-Jordanson Peterson... hiding behind his laptop like a little bitch.. Watching the Zizek debate. It's glorious.
+Jordanson Peterson... hiding behind his laptop like a little
+bitch.. Watching the Zizek debate. It's glorious.
 
-I don't want to be too unfair on Jordanson Peterson. It's a general attack laid on cons that they are idiots. It's sad they have to defend themselves on intellectual grounds so much bcz the other side keeps attacking them that way. Their angle was never intellectual.
+I don't want to be too unfair on Jordanson Peterson. It's a general
+attack laid on cons that they are idiots. It's sad they have to defend
+themselves on intellectual grounds so much bcz the other side keeps
+attacking them that way. Their angle was never intellectual.
 
-The con stance, which comes naturally to a lot of ppl, with its family, country, etc. is almost the absence of intellectualism. Some parts of the left attack them from that direction tho bcz they are devoid of ideas themselves.
+The con stance, which comes naturally to a lot of ppl, with its
+family, country, etc. is almost the absence of intellectualism. Some
+parts of the left attack them from that direction tho bcz they are
+devoid of ideas themselves.
 
 ---
 
