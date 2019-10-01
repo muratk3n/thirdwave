@@ -183,8 +183,17 @@ df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index",
                 end_date=today.strftime('%Y-%m-%d'),
                 authtoken=open(".quandl").read())
 
+print (df['PMI'].tail(3))
 df['PMI'].plot()
 plt.savefig('pmi.png')
+```
+
+```text
+Date
+2019-07-01    51.2
+2019-08-01    49.1
+2019-09-01    47.8
+Name: PMI, dtype: float64
 ```
 
 ![](pmi.png)
