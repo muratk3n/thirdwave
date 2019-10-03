@@ -201,12 +201,6 @@ Volkswagen.. the same VW of the cheating scandal isn't it? It's funny
 
 ---
 
-PMI is not just for "manufacturing". It's a proxy for overall demand. 
-
-*2019-10-1 19:34:27*
-
----
-
 Down... Down.. Down...
 
 [PMI](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi)
