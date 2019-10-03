@@ -871,7 +871,7 @@ networks can’t"
 ---
 
 Royalty watching (or the modern version celeb watching) is solidly
-n1st wave. Land-owning, agro, mafia, mafia shaking down farmers ->
+1st wave. Land-owning, agro, mafia, mafia shaking down farmers ->
 royalty. Eng royalty is labeled as "landed gentry". The peasant (with
 small land) is always fascinated by ağa (bigger land). Game of Thrones
 builds on similar kind of fascination. Some repugnant shit.
