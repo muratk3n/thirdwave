@@ -698,7 +698,8 @@ Let’s not let this get lost in this crazy week of news: Trump appointed a form
 
 "@EFF
 
-As governments ramp up efforts to counter online extremism, we remind them that quick “solutions” all too often lead to censorship"
+As governments ramp up efforts to counter online extremism, we remind
+them that quick “solutions” all too often lead to censorship"
 
 *2019-9-29 1:6:16*
 
@@ -874,6 +875,15 @@ networks can’t"
 
 ---
 
+Royalty watching (or the modern version celeb watching) is 1st
+wave. Land-owning, agro, mafia, mafia shaking down farmers -> royalty
+is the end result. Eng royalty is labeled as "landed gentry". Game of
+Thrones is the same kind of fascination. Some repugnant shit.
+
+*2019-9-27 22:37:56*
+
+---
+
 I wish your readers well, don't die a terrible death, and don't break
 a leg. Don't go eff yourself, ever.
 
@@ -949,7 +959,7 @@ of landing.
 See helicopter works bcz Titan has dense atmo. Rotors have air to push
 to create lift. The same task is much harder on Mars.
 
-And this article saz terraforming is at least possible? 🖖
+And this article saz terraforming Titan is at least possible? 🖖
 
 [Link](https://www.universetoday.com/128532/terraform-saturns-moons/)
 
@@ -1015,7 +1025,9 @@ The Conservative government shut down parliament illegally for over two weeks an
 
 ---
 
-Hey that's ot bad, no? It could circle all around (earlier versions in fact did), but this one just goes up a little and down. 
+Hey that's ot bad, no? It could circle all around (earlier versions in
+fact did), but this one just goes up a little and down. Parametrized
+polynomial curve optimized for line integral over scalar field. 
 
 <img src="https://pbs.twimg.com/media/EFdV26nU8AATCx2?format=png&name=small" width="400"/>
 
@@ -1054,7 +1066,10 @@ Fila Brazillia - The Bugs Will Bite \#music
 
 "@acgrayling
 
-Johnson’s ‘bull in china shop’ act & the hysterical screeching of the far-right foreign-owned newspapers are signs of panic. They are cornered rats. Their precioussss tax-avoiding Brexit dream is in danger. Keep opposing: reason & right are on Remain’s side"
+Johnson’s ‘bull in china shop’ act & the hysterical screeching of the
+far-right foreign-owned newspapers are signs of panic. They are
+cornered rats. Their precioussss tax-avoiding Brexit dream is in
+danger. Keep opposing: reason & right are on Remain’s side"
 
 *2019-9-26 13:30:35*
 
@@ -1062,7 +1077,11 @@ Johnson’s ‘bull in china shop’ act & the hysterical screeching of the far-
 
 "@Jkylebass
 
-The HK exchange bid for the LSE is rooted in the fact that the LSE owns FTSE indicies. Chinese bonds aren’t currently in the FTSE. The crafty Chinese are thinking that a $39billion bid for the exchange can net them $200 billion in capital flows once they force inclusion \#china"
+The HK exchange bid for the LSE is rooted in the fact that the LSE
+owns FTSE indicies. Chinese bonds aren’t currently in the FTSE. The
+crafty Chinese are thinking that a $39 billion bid for the exchange
+can net them $200 billion in capital flows once they force inclusion
+\#china"
 
 *2019-9-26 13:29:37*
 
