@@ -3,7 +3,14 @@
 Lean theorem prover - I hear good things about it -
 https://leanprover.github.io/about
 
-Tom Hales presentation on it was great.
+Tom Hales presentation on it was great. Codifying all math axioms,
+theorems in software.
+
+Last thing I'd read on this top was [this](https://www.wired.com/2015/05/will-computers-redefine-roots-math/).
+
+Good [Vice](https://www.vice.com/en_asia/article/8xwm54/number-theorist-fears-all-published-math-is-wrong-actually) article. 
+
+[Another](https://www.ias.edu/ideas/2014/voevodsky-origins)
 
 *2019-10-2 21:47:42*
 
@@ -102,7 +109,7 @@ IMO funny names are universal.. in one class prof talked about a
 researcher named ...  Fukui.
 
 Fukui. That's a funny f--ing name.. Everyone laughed, mostly
-international students.
+international students too.
 
 *2019-10-2 15:33:15*
 
@@ -772,13 +779,11 @@ Uranium investing! 😶
 ---
 
 Unfortunately much of "futurism" is co-opted by rabid free-marketers -
-libertards, centrists, even right-wingers (like Newt, a total
-dumbass). Toffler's futurism was about outlining the evolution of tech
-and pointing to downsides of that tech and the need for a new social
-contract. Most of that analysis fell on deaf ears.
-
-It feels odd telling Americans about this stuff - Toff is not my
-jigger. He is yours.
+libertards, centrists, goldcucks, even right-wingers. Toffler's
+futurism was about outlining the evolution of tech and pointing to
+downsides of that tech and the need for a new social contract. Most of
+that analysis fell on deaf ears. It feels odd telling Americans about
+this stuff - Toff is not my jigger. He is yours.
 
 *2019-9-28 8:45:4*
 
@@ -807,8 +812,8 @@ life.
 ---
 
 Haha.. While near bankruptcy Trump sees homeless guy tells daughter
-"see that man, he is 8 million richer than me". Cuz he is zero, and he
-is millions in debt? so negative? That's funny.
+"see that man, he is 8 million richer than me". Cuz the homeless guy
+is zero, and he is millions in debt? so negative? That's funny.
 
 *2019-9-28 8:44:12*
 
