@@ -9,7 +9,10 @@ Tom Hales presentation on it was great.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ministers and delegates from more than 30 nations, regions and organizations pledged in Tokyo to introduce 10 million <a href="https://twitter.com/hashtag/FCEV?src=hash&amp;ref_src=twsrc%5Etfw">#FCEV</a> trucks, buses and other hydrogen-powered systems, as well as 10,000 hydrogen refueling stations, globally over the next 10 years - <a href="https://t.co/eB5XVK1fdG">https://t.co/eB5XVK1fdG</a>.</p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1179461061625438210?ref_src=twsrc%5Etfw">October 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Ministers and delegates pledge to introduce 10 million fuel cell
+vehicles globally over 10 years at Japan conference"
+
+[Link](https://www.japantimes.co.jp/news/2019/09/25/business/ministers-delegates-pledge-introduce-10-million-fuel-cell-vehicles-globally-10-years-japan-conference/#.XZWO4t9fjrd)
 
 *2019-10-2 21:47:42*
 
