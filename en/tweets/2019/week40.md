@@ -252,8 +252,7 @@ No shit.
 ---
 
 Don't get too happy on Ukrainegate.. Remember Kosovo? Some say it was
-a "just war", but it was also during another impeachement. Don't
-corner the exec.
+a "just war", but it was also during another impeachement. 
 
 *2019-10-1 18:37:26*
 
