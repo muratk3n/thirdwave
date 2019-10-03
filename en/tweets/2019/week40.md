@@ -725,15 +725,6 @@ dried bread (sold in stores), mix and blend.
 
 ---
 
-I took the gradient of the freakiest function that I wrote with
-`autograd`, gave that gradient to scipy optimizer which accepted it and
-kindly optimized over it. This changes everything, how optimization is
-taught in classes.
-
-*2019-9-28 21:18:13*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota Kirloskar Motor Pvt Ltd (TKML), the Indian subsidiary of Japan’s <a href="https://twitter.com/ToyotaMotorCorp?ref_src=twsrc%5Etfw">@ToyotaMotorCorp</a> is testing their <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelcellNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelcellNow</a> electric car <a href="https://twitter.com/hashtag/Mirai?src=hash&amp;ref_src=twsrc%5Etfw">#Mirai</a> in India - <a href="https://t.co/as3Rgw1lfz">https://t.co/as3Rgw1lfz</a></p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1177996408437301249?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-9-28 21:0:36*
@@ -1029,17 +1020,6 @@ The Conservative government shut down parliament illegally for over two weeks an
 *2019-9-26 16:39:51*
 
 ---
-
-Hey that's ot bad, no? It could circle all around (earlier versions in
-fact did), but this one just goes up a little and down. Parametrized
-polynomial curve optimized for line integral over scalar field. 
-
-<img src="https://pbs.twimg.com/media/EFdV26nU8AATCx2?format=png&name=small" width="400"/>
-
-*2019-9-26 16:37:39*
-
----
-
 
 That doesn't indicate shit. Quite the opposite, implicit in the fact
 the government triggered the referendum communicated to the people
