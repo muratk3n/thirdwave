@@ -1,4 +1,4 @@
-# Tweetss - Week 40
+# Tweets - Week 40
 
 Lean theorem prover - I hear good things about it -
 https://leanprover.github.io/about
