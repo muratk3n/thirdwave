@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+3/10 - [Tweets - Week 40](/tweets/2019/week40.md)
+
 26/9 - [Tweets - Week 39](/tweets/2019/week39.md)
 
 19/9 - [Tweets - Week 38](/tweets/2019/week38.md)
@@ -20,8 +22,6 @@ despite the best efforts of people working in them.
 19/9 - [The Most Powerful Greenhouse Gas Known to Man](/2019/09/sf6.md)
 
 12/9 - [Tweets - Week 37](/tweets/2019/week37.md)
-
-5/9 - [Tweets - Week 36](/tweets/2019/week36.md)
 
 ## For Members
 
