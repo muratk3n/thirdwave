@@ -512,7 +512,7 @@ Fall is the new summer.
 
 ---
 
-No it won't... What is, Alice in Wonderland? If gov did not force AT&T
+No it won't... What is this, Alice in Wonderland? If gov did not force AT&T
 to
 [share](http://muratk3n.github.io/thirdwave/en/tweets/2019/week37.html#transistorPatent)
 its intellectual property with other US companies during 50s, there
