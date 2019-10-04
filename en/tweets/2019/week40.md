@@ -648,8 +648,8 @@ German public opinion was pro-immigration before Syrian refugees, now
 against it. Public op is fickle, this should not be a surprise because
 they dont know much. They elect the politician for the long term, so
 pols should act for that long-term too. It makes sense electorally to
-prepare for that distant vote too. If DE politician went with public
-op on immigration then, they would be paying the price for it now.
+prepare for that distant vote. If DE politician went with public op on
+immigration then, they would be paying the price for it now.
 
 Act the speed of your institution. Forget this socmed bullshit. 
 
