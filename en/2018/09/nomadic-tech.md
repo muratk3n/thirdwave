@@ -80,6 +80,12 @@ https://youtu.be/4W76LyJdNYU?t=881
 
 https://youtu.be/AiCUkb-UQ8I?t=133
 
+Outfit
+
+Don't try too much to get rain-proof everything, rain-proof pants,
+jacket, etc. Rain-proof enough is good-enough. For true rain
+protection, you get a [pancho](https://www.decathlon.com.tr/arpenaz-10l-panco-id_8084715.html).
+
 Fire 
 
 Using a can (low tech but still)
