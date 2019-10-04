@@ -6,7 +6,7 @@ https://leanprover.github.io/about
 Tom Hales presentation on it was great. Codifying all math axioms,
 theorems in software.
 
-Last thing I'd read on this top was [this](https://www.wired.com/2015/05/will-computers-redefine-roots-math/).
+Last thing I'd read on this topic was [this](https://www.wired.com/2015/05/will-computers-redefine-roots-math/).
 
 Good [Vice](https://www.vice.com/en_asia/article/8xwm54/number-theorist-fears-all-published-math-is-wrong-actually) article. 
 
