@@ -152,18 +152,3 @@ plt.savefig('bubble_01.png')
 
 ![](bubble_01.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

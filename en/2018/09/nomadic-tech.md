@@ -83,8 +83,12 @@ https://youtu.be/AiCUkb-UQ8I?t=133
 Outfit
 
 Don't try too much to get rain-proof everything, rain-proof pants,
-jacket, etc. Rain-proof enough is good-enough. For true rain
-protection, you get a [pancho](https://www.decathlon.com.tr/arpenaz-10l-panco-id_8084715.html).
+jacket, etc. Somewhat rain-proof jacket is good-enough. For true rain
+protection, that'll cover everything, get a
+[pancho](https://www.decathlon.com.tr/arpenaz-10l-panco-id_8084715.html). Then
+any kind of clothing is covered when it rains. They are foldable, fits
+into almost any bag once folded. Obviously your bag needs its own rain
+protection.
 
 Fire 
 
