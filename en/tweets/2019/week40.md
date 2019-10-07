@@ -99,7 +99,8 @@ the dealings around it, US motherfrackers, the whole shabang.
 
 "@peoplevsoil
 
-"Just 10% of fossil fuel subsidy cash could pay for green transition. Just saying"
+Just 10% of fossil fuel subsidy cash could pay for green
+transition. Just saying"
 
 *2019-10-2 15:41:13*
 
