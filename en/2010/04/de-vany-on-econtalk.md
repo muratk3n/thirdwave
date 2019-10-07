@@ -1,9 +1,5 @@
 # De Vany on Econtalk
 
-De Vany on Econtalk
-
-My comments on Econtalk
-
 When it comes to dieting, De Vany got part of the picture right
 although he is describing is a diet suitable for blood type O. This
 blood type is the oldest type, therefore has hunter gatherer
