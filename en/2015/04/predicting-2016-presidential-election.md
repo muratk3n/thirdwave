@@ -1,6 +1,6 @@
 # Predicting the 2016 Presidential Election
 
-One of the better known models in this area is the Time for Change
+One of the better known models in this area is the *Time for Change*
 Model designed by A. Abramowitz. The model uses three factors—the
 incumbent president’s net approval rating at the end of June (approval
 minus disapproval), the change in real GDP for Q2 (as percentage) of
@@ -109,8 +109,7 @@ Based on this, you get
 For the first scenario Hillary's chances of winning are between 43%
 and 52%, likely loss. The second one at 3% growth and net popularity
 10 makes it a toss-up, better campaigner, the one with the better plan
-can win (or you can pull a Dubya and steal the election). Third is
-better for Dems.
+can win. Third is better for Dems.
 
 It is interesting to note that Bill Clinton, known as a good
 campaigner, had significant advantages going into the 1992
