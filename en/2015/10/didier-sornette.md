@@ -5,9 +5,8 @@
 Great TED talk on seeing extreme events as precursors to phase
 transitions, not as "unknowable outliers".
 
-Related: Financial Crisis Observatory
+Related: [Financial Crisis Observatory](http://www.er.ethz.ch/financial-crisis-observatory.html)
 
-http://www.er.ethz.ch/financial-crisis-observatory.html
 
 
 
