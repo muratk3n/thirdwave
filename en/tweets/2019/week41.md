@@ -351,7 +351,8 @@ correct the sizing and placement of the figures." To which I say:
 
 @funnymaths
 
-what do you call it when someone steals n dollars from your bank account, and then immediately deposits n dollars back in?
+what do you call it when someone steals n dollars from your bank
+account, and then immediately deposits n dollars back in?
 
 the identity theft"
 
@@ -360,7 +361,7 @@ the identity theft"
 ---
 
 So a combo of internal politics (losing local elecs) and wanting to
-displace Kurds near the border (cuz they are all terrorists) are the
+displace Kurds near the border (cuz they are all "terrorists") are the
 reason for the incursion. Here's the
 [about-face](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
 done around nationalism.
