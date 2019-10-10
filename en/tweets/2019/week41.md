@@ -56,7 +56,9 @@ Much better than the lone tuber screaming his head off between bouts of beating 
 
 ---
 
-It's great to have a progressive and professional looking show which heavy hitters can come to - very awesome *The Hill Rising*. 
+Great to have a solidly progressive and professional looking show
+which heavy hitters can come to as guests, with pro players - very
+awesome *The Hill Rising*.
 
 *2019-10-9 22:21:12*
 
