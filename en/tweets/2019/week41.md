@@ -220,7 +220,7 @@ becomes so successful the business eventually gets broken up!
 ---
 
 Since it is set to replace fossil fuels I wouldnt be surprised. Oil
-and gas drilling alone is 2 bil $ business. 
+and gas drilling alone is 2 trillion $ business. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big turnout for the European Commission’s hydrogen conference. Some predict hydrogen power is set to become a multi trillion dollar industry. <a href="https://t.co/sBTljyXPW5">pic.twitter.com/sBTljyXPW5</a></p>&mdash; justin stares (@EUmaritimewatch) <a href="https://twitter.com/EUmaritimewatch/status/1181913715693834240?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
