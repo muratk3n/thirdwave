@@ -44,7 +44,7 @@ MathJax my friend.. that LaTeX 2 HTML thing really doesn't work well. Especially
 
 ---
 
-Nothing against the lone tuber (or beating off) - some are good.
+Nothing against the lone tuber (or beating off) - some lone tubers are good.
 
 *2019-10-9 22:24:37*
 
