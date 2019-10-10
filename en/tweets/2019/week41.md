@@ -25,19 +25,6 @@
 
 ---
 
-Tigga plan is moronic as usual.
-
-"And the plan is a godsend to the United States’ adversaries in
-Syria—Russia, Iran, and the Assad regime—who believe they can stand by
-while the Turkish incursion prompts a complete U.S. withdrawal, only
-to recapture the area and kick out Turkey later on"
-
-[Link](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
-
-*2019-10-9 23:40:53*
-
----
-
 MathJax my friend.. that LaTeX 2 HTML thing really doesn't work well. Especially on mobile formulas come out all weird.
 
 *2019-10-9 22:43:3*
