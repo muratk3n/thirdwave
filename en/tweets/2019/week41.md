@@ -25,7 +25,8 @@
 
 ---
 
-MathJax my friend.. that LaTeX 2 HTML thing really doesn't work well. Especially on mobile formulas come out all weird.
+MathJax my friend.. that LaTeX 2 HTML thing really doesn't work
+well. Especially on mobile formulas come out all weird.
 
 *2019-10-9 22:43:3*
 
@@ -360,8 +361,7 @@ the identity theft"
 
 So a combo of internal politics (losing local elecs) and wanting to
 displace Kurds near the border (cuz they are all terrorists) are the
-reason for the incursion. It's childish obviously - guy is a
-man-child. Here's the
+reason for the incursion. Here's the
 [about-face](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
 done around nationalism.
 
