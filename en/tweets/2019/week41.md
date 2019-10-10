@@ -358,8 +358,15 @@ the identity theft"
 
 ---
 
-Incursion has nothing to do with security. It is simply for internal
-politics. 
+"Northeastern Syria is not a no-man’s land. A March 1 Washington
+Institute for Near East Policy article says, 'According to
+[geographer] Fabrice Balanche, around 850,000 people currently reside
+in the proposed 20-mile-deep zone bounded by the Euphrates River on
+the west and the Tigris River on the east. They include 650,000 Kurds
+(76%), 180,000 Sunni Arabs (21%), 10,000 Turkmens (1%), and 10,000
+Christians (1%).'"
+
+[Link](https://www.al-monitor.com/pulse/originals/2019/09/turkey-syria-united-states-erdogan-plans-for-east-euphrates.html)
 
 *2019-10-8 21:34:1*
 
