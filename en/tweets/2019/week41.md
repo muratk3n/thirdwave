@@ -358,6 +358,13 @@ the identity theft"
 
 ---
 
+So a combo of internal politics (losing local elecs) and wanting to
+displace Kurds near the border (cuz they are all terrorists) are the
+reason for the incursion. It's childish obviously - guy is a
+man-child. Also on the
+[about-face](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
+done around nationalism.
+
 "Northeastern Syria is not a no-man’s land. A March 1 Washington
 Institute for Near East Policy article says, 'According to
 [geographer] Fabrice Balanche, around 850,000 people currently reside
