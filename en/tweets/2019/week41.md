@@ -83,7 +83,7 @@ think of I dump here. I hope it's not too much.
 
 ---
 
-Good to see even some Dem centrists being alarmed by the situation. 
+Seeing even some Dem centrists are now alarmed by the situation.
 
 *2019-10-9 21:22:56*
 
@@ -296,8 +296,8 @@ used as an indication of future volatility.
 
 ---
 
-HE uses implied vol (reverse engineered from options) as predictor for
-future vol, no? There is some good math here, Black-Scholes,
+HEye uses implied vol (reverse engineered from options) as predictor
+for future vol, no? There is some good math here, Black-Scholes,
 reverse-engineer with little root-finding.. whazzuuuup!
 
 And this is [vol usage](https://youtu.be/CBCenp7_j_M?t=896) for bear /
@@ -324,7 +324,7 @@ Now [that's](https://i.pinimg.com/originals/19/ed/c7/19edc78b4d79695e13c6201a686
 I want to see more boring people, innovating quietly. Gov can lead the
 way, funding, de-patenting. Much of that energy is stll alive today,
 USG can still fund some cool stuff, and spur innovation. We only need
-to shut the cacerolada that is around the fake center-of-gravity /
+to shut the cacerolada that is around the fake center-of-gravity,
 celebrity.
 
 *2019-10-9 11:53:16*
@@ -449,9 +449,8 @@ Conservancy. The winning prediction from Horgan was:
 
 ---
 
-The model is similar to Abramovitz model (the one I use), this paper
-says the success of both [are
-equal](http://www.forecastingprinciples.com/files/13KeysbyArmstrong&Cuzan.pdf).
+The model is similar to Abramovitz model (the one I use), [this paper](http://www.forecastingprinciples.com/files/13KeysbyArmstrong&Cuzan.pdf)
+says the success of both are equal.
 
 *2019-10-8 13:42:2*
 
@@ -508,8 +507,8 @@ schizophrenic state any longer, made a (bad) choice, and need to pay
 the price. I remember well into the '14,'15, Cameron talking with both
 sides of mouth, one day saying I'll talk tough to EU, blah blah, next
 day chiding his party for "keep banging on about the EU". Who could
-hold two such differing views at party level? Chewing gum and singing
-La Bamba at the same time?
+hold two such differing views at party level? Can't chew gum and
+sing La Bamba at the same time...
 
 *2019-10-8 10:28:5*
 
@@ -854,7 +853,7 @@ is from 2019 October [PDF](https://ethz.ch/content/dam/ethz/special-interest/mte
 
 ---
 
-Or 1 can simply buy whey protein (sold in powder form) which is
+Or 1 can simply buy *whey* protein (sold in powder form) which is
 fittingly extracted from the cheese making process. 1 might notice the
 compound tastes strangely like the meal replacement powders, like
 XLS. So these powders probably just use whey. 
@@ -1031,8 +1030,8 @@ LOVE IT
 
 What's the point of Mars again? It cannot be terraformed so you have
 to live in closed encampments, just like on the Moon. Why travel for
-frickin months to get the same experience? Pointless IMO. We need to
-focus on planets, or "planetary bodies" that have a future.
+frickin months to get the same experience? Pointless. We need to focus
+on planets, or "planetary bodies" that have a future.
 
 If Mars is "done", i.e. flagpole, footprints on the ground kinda deal,
 I'd close that chapter, and shift the focus to Titan.
@@ -1178,9 +1177,10 @@ There are rivers on Titan made up of methane. Methane!
 
 ---
 
-The gipper was consistent - he did not like big _anything_,
-including the government. The government grew of course, even during
-his time, but I don't think this was a dynamic [anyone could fight](https://muratk3n.github.io/thirdwave/en/2011/03/integrators.html). 
+The gipper was consistent - he did not like big _anything_, including
+the government (the government grew of course, even during his time,
+but I don't think this was a dynamic [anyone could
+fight](https://muratk3n.github.io/thirdwave/en/2011/03/integrators.html)).
 
 *2019-10-3 21:47:20*
 
@@ -1189,7 +1189,7 @@ his time, but I don't think this was a dynamic [anyone could fight](https://mura
 Yes Reagan broke up AT&T, and there were baby bells. And apparently
 the break-up was their
 [idea](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System) (to
-avoid the worse punishment)
+avoid worse punishment)
  
 >This vertical integration [with Western Electric] led AT&T to have almost total control over communication technology in the country, which led to the antitrust case, United States v. AT&T. The plaintiff in the court complaint asked the court to order AT&T to divest ownership of Western Electric. Feeling that it was about to lose the suit, AT&T proposed an alternative: its breakup
 
