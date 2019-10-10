@@ -166,7 +166,7 @@ yoghurt too, and call it "Greek Yoghurt".
 Interesting take on China. Sounds like a static culture to which
 change comes to, rather than the other way around.
 
-[Link](https://www.youtube.com/watch?v=_DjB4J1fvrg&app=desktop)
+[Link](https://youtu.be/_DjB4J1fvrg?t=19)
 
 *2019-10-9 17:42:50*
 
