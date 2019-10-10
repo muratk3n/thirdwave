@@ -368,7 +368,7 @@ nats (feral popsuckers), to corner Erdo.
 So a combo of internal politics (losing local elecs) and wanting to
 displace Kurds near the border (cuz they are all terrorists) are the
 reason for the incursion. It's childish obviously - guy is a
-man-child. Also on the
+man-child. Here's the
 [about-face](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
 done around nationalism.
 
