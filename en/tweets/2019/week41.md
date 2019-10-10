@@ -1129,18 +1129,6 @@ Obviously the bag needs its own rain protection.
 
 ---
 
-Bernie is *Mellow Meadow*. 
-
-*2019-10-4 8:51:4*
-
----
-
-Heart is the same - joy in life. 
-
-*2019-10-3 23:59:9*
-
----
-
 <img width="500" src="https://pbs.twimg.com/media/EF-iijGWkAUCP2S?format=jpg&name=small"/>
 
 *2019-10-3 22:55:35*
