@@ -358,6 +358,13 @@ the identity theft"
 
 ---
 
+Some claim even the faux coup attempt was engineered by Russkie loving
+nats (feral popsuckers), to corner Erdo. 
+
+*2019-10-8 21:34:1*
+
+---
+
 So a combo of internal politics (losing local elecs) and wanting to
 displace Kurds near the border (cuz they are all terrorists) are the
 reason for the incursion. It's childish obviously - guy is a
