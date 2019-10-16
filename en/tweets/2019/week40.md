@@ -1,7 +1,8 @@
 # Tweets - Week 40
 
-Lean theorem prover - I hear good things about it -
-https://leanprover.github.io/about
+Lean theorem prover - I hear good things [about
+it](https://leanprover.github.io/about), more
+[here](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/)
 
 Tom Hales presentation on it was great. Codifying all math axioms,
 theorems in software.

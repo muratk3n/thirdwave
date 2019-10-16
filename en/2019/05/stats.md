@@ -246,8 +246,6 @@ print (df.tail(10))
 ```text
             Value
 Date             
-2018-10-31  2.522
-2018-11-30  2.177
 2018-12-31  1.910
 2019-01-31  1.551
 2019-02-28  1.520
@@ -256,6 +254,8 @@ Date
 2019-05-31  1.790
 2019-06-30  1.648
 2019-07-31  1.811
+2019-08-31  1.750
+2019-09-30  1.711
 ```
 
 <a name="#cpyoy"></a>
@@ -278,6 +278,20 @@ df = quandl.get("MULTPL/SP500_EARNINGS_MONTH-S-P-500-Earnings-by-Month",
 
 
 df['epsyoy'] = (df.Value - df.Value.shift(12)) / df.Value.shift(12) * 100.0
+```
+
+```python
+print (df.tail(5).epsyoy)
+```
+
+```text
+Date
+2018-11-30    18.339070
+2018-12-31    18.233494
+2019-01-31    17.267618
+2019-02-28    15.960355
+2019-03-31    14.290529
+Name: epsyoy, dtype: float64
 ```
 
 ```python
