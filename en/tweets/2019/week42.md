@@ -351,8 +351,8 @@ i.e. Protestan looking. Stocky, butt-close-to-the-ground peasant types
 don't do so good. You have to look nomadic. Even subconciously ppl
 seek that.
 
-In terms of general-demenaor, can't be too stiff, too britle... U need
-to come across like some stuff can just slide off you, in a
+In terms of general-demenaor, can't be too stiff, too brittle... U
+need to come across like some stuff can just slide off you, in a
 backslapping, guys-guy kinda way. You have to be somewhat of an oaf,
 bonehead - but not much. This is true even for women, maybe for them
 we can call it tomboy-ishness. If we are to compare women, Warren does
