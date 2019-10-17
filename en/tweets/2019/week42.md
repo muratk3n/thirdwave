@@ -316,9 +316,9 @@ broken up (let loose) then the keys are aggregated at other nodes
 *2019-10-14 13:10:30*
 
 The main tug-of-war in US is between containing (prohibition) and
-letting go. This is at cultural brain level which is at lower
--stronger- level to analytical thinking. When they conflct, culture
-wins.
+allowing, letting it loose. This is at cultural brain level which is
+at lower -stronger- level to analytical thinking. When they conflct,
+culture wins.
 
 *2019-10-14 13:10:30*
 
