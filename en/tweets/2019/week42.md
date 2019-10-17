@@ -128,6 +128,10 @@ anymore have no idea.
 Ironically their presence is also killing democracy outside China,
 on stateside, at their home turf.
 
+Plus the reason they were in China to begin with was precisely because
+of that non-presence of democracy, making use of that cheap slave
+labor that could only be controlled through an autocratic state.
+
 "Gen. Spalding (paraph) 'businessman, billionaires go to China, then
 tell us democracy is dead, look at China'"
 
