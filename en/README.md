@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+17/10 - [Tweets - Week 42](/tweets/2019/week42.md)
+
+17/10 - [Terry Jones' Barbarians](/2019/10/terry-jones-barbarians.md)
+
 10/10 - [Tweets - Week 41](/tweets/2019/week41.md)
 
 10/10 - [Science Is Not about Getting More "Likes"](/2019/09/science-likes.md)
@@ -20,10 +24,6 @@ despite the best efforts of people working in them.
 26/9 - [Tweets - Week 39](/tweets/2019/week39.md)
 
 19/9 - [Tweets - Week 38](/tweets/2019/week38.md)
-
-19/9 - [Aluminum Trihydride - Alane](/2019/09/alane.md)
-
-19/9 - [The Most Powerful Greenhouse Gas Known to Man](/2019/09/sf6.md)
 
 ## For Members
 
