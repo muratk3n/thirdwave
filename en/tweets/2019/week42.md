@@ -614,7 +614,7 @@ onions or without onions". Huge discussion. This *is* Rome. The
 transition to post-empire, food-style-fashion economy (as in Italy)
 should have happened already, wholesale, but partly the country is
 stil old Rome, looking for genocide, expansion, etc. Timescale on that
-part needs to be sped up - or culturally removed.
+part needs to be sped up - or its culture removed.
 
 *2019-10-12 19:48:28*
 
