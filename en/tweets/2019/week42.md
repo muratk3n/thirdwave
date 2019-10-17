@@ -744,11 +744,11 @@ back to the world scene" in the traditional sense.
 
 ---
 
-Kemal tried to change this feeling, so ppl identified with the larger
-humanity, its advance, not the loss of petty old rulers. Sadly after
-the TR fascist coup of 1980, combined with the "Green Belt" strategy
-of US all that shit came back. Most of these Pol Pot type punks you
-see walking around today are the products of that era.
+Kemal tried to change this feeling, so ppl identified with the most
+recent state, its advance, not the loss of petty old rulers. Sadly
+after the TR fascist coup of 1980, combined with the "Green Belt"
+strategy of US all that shit came back. Most of these Pol Pot type
+punks you see walking around today are the products of that era.
 
 *2019-10-11 22:38:55*
 
