@@ -570,7 +570,7 @@ The United States of Blackwater."
 ---
 
 Ah interior point methods.. they are the barrier methods after all.
-They are the 1984 replacement for simplex I'd heard much about evem
+They are the 1984 replacement for simplex I'd heard much about even
 for LPs. Fascinating area.
 
 *2019-10-13 5:43:21*
