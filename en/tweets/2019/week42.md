@@ -116,7 +116,7 @@ BIDEN:
 ---
 
 I remember a Newsweek article yrs ago, it was about a Lindsay Lohan
-arrest and the title was: "Like, Busted".
+arrest, and the title was: "Like, Busted".
 
 What happened to these publications. I dont seek them anymore, not
 sure of their faith.
