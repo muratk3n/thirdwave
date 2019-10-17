@@ -292,8 +292,8 @@ get shoved in there, being processed.. these networks etc.. that can
 work.
 
 Code 4 presidency - MOSES. POTUS is someone who leads ppl to the
-promised land. A good candidate needs to be seen as a man on a mission
-- moving somewhere and asking others to follow him.
+promised land. A good candidate needs to be seen as a man on a
+mission, moving somewhere and asking others to follow him.
 
 Code US gives itself - HOPE. That's why 1992 Clinton campaign was
 brilliant - "I still believe in a place called 'hope'". This word
