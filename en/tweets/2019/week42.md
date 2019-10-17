@@ -175,7 +175,7 @@ agenda. Criticizing M4A..? Don't you have better things to do?
 
 "You got the Iraq War done". Boom! 💥 👊
 
-\# bernie \#demdebate
+\#demdebate \#bernie 
 
 *2019-10-16 9:3:43*
 
