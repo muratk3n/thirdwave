@@ -45,7 +45,7 @@ Don't leave us Bernieee
 
 ---
 
-Arteries represent joy, having fun (per Iris Hay). Bernie's not having
+Arteries represent joy, having fun (per Louise Hay). Bernie's not having
 fun. Being challenger was more fun - now a lot of ppl are fighting
 him, even from the left.
 
