@@ -303,11 +303,3 @@ plt.savefig('earn.png')
 
 ![](earn.png)
 
-
-
-
-
-
-
-
-

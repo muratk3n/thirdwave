@@ -364,7 +364,7 @@ we can call it tomboy-ishness. If we are to compare women, Warren does
 this better than Hillary. The folksy can-opening, drinking video in
 the beginning of campaign is a guys-gal move. Even for women voter
 that is more preferable than brittle, static, Catholic-like, "the
-punisher" *hamımağa*.
+punisher" *hanımağa*.
 
 It makes sense how a little touch of oaf is attractive for the
 die-hard followers, volunteers as well; they need to be comfortable
