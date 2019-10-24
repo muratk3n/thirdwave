@@ -812,8 +812,8 @@ be political genuises all around us already. U need take that [extra
 step](https://muratk3n.github.io/thirdwave/en/2018/12/linc-bi.html),
 if not more.
 
-Now there is some backbone, social awereness among open-source folks -
-but you won't come across to any of them in polite company.
+Now there is some backbone, social awereness in open-source circles -
+but you won't come across to these guys in polite company.
 
 *2019-10-18 10:1:12*
 
