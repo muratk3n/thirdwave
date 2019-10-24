@@ -592,7 +592,7 @@ The worst DJT net approval reached was -20, check the date, says Aug
 
 ---
 
-Vanity Fair insider trade thing analysis... (thread)
+Vanity Fair insider trade claims, analysis... (thread)
 
 [Link](https://mobile.twitter.com/i/status/1185166766651121664)
 
