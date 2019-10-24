@@ -778,9 +778,9 @@ true-left challenge against the establishment)
 ---
 
 Yeah. So all that stuff they had him
-[say](https://youtu.be/m4yVlPqeZwo?t=1399), they never use. These are
-computer science interview questions, asked and never heard from
-again, until the next interview.
+[say](https://youtu.be/m4yVlPqeZwo?t=1399), they never use, or even
+think about. These are computer science interview questions, asked,
+and never heard of again - until the next interview.
 
 *2019-10-18 10:1:12*
 
