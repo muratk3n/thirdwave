@@ -306,7 +306,7 @@ manifestation of the something else - a rebellion against inequality.
 ---
 
 Ex-Prez endorsements are tricky. What if he endorses someone and that
-person loses? Than the Prez image takes a hit. Usually not
+person loses? Then the Prez image takes a hit. Usually not
 done.. Reagan, and after his death Nancy Reagan would just endorse
 whoever won the nom. Same with others AFAIK.
 
