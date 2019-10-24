@@ -375,7 +375,7 @@ Re-share. Brexiters up to no good on healthcare.
 
 ---
 
-HAha thatz hilarious.
+:) \#dog \#rap
 
 [Link](https://twitter.com/dogfather/status/1185711394420740096)
 
