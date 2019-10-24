@@ -784,7 +784,7 @@ interview questions, asked and never heard from again.
 ---
 
 Which other profession does software work resemble most? It's probably
-more like construction than rocket science,. I already talked abt 90%
+more like construction than rocket science. I already talked abt 90%
 of SV do not use math, or even computer science. They are usually
 dealing with shuffling shit around, trying to build artificats that
 are maintainable, with good enough foundation, and look good - all
