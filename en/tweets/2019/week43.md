@@ -728,9 +728,9 @@ for Hillary. But DJT was playing a different game.
 ---
 
 The off-seasons are bad.. so if you are an ineffective campaigner,
-tried bunch of times, that's your slot. During on-season, they'll find
-that suave shiny brother with a big smile to swoop in and take it from
-you. 
+tried bunch of times before, that's your slot. During on-season,
+they'll find that suave shiny brother with a big smile to swoop in and
+take it from you.
 
 *2019-10-18 10:51:47*
 
@@ -777,7 +777,8 @@ true-left challenge against the establishment)
 
 Yeah. So all that stuff they had him
 [say](https://youtu.be/m4yVlPqeZwo?t=1399), they never use. These are
-interview questions, asked and never heard from again. 
+computer science interview questions, asked and never heard from
+again, until the next interview.
 
 *2019-10-18 10:1:12*
 
