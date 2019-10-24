@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+24/10 - [Tweets - Week 43](/tweets/2019/week43.md)
+
 17/10 - [Tweets - Week 42](/tweets/2019/week42.md)
 
 17/10 - [Terry Jones' Barbarians](/2019/10/terry-jones-barbarians.md)
@@ -23,7 +25,6 @@ despite the best efforts of people working in them.
 
 26/9 - [Tweets - Week 39](/tweets/2019/week39.md)
 
-19/9 - [Tweets - Week 38](/tweets/2019/week38.md)
 
 ## For Members
 
