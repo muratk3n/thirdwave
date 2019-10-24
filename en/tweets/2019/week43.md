@@ -23,9 +23,11 @@ public (and shareholders).
 
 ---
 
-I think there are too many aristocrats in the world. You are dead weight son
+I think there are too many aristocrats in the world. You are dead
+weight son.
 
-He is in his 30s isnt he? This is a weird kind of millenial.. A bizarro millenial.
+He is in his 30s isnt he? This is a strange kind of millennial.. A
+bizarro millennial.
 
 "Prince William warns that there are too many people in the world"
 
