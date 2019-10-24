@@ -120,10 +120,11 @@ but that person is there to be advertised to because of other users.
 Then, it might be a good idea to force comps to share their entire
 user graph, and the easiest way to do that would be to break them up,
 same user should be able to login from FB1, FB2 and see their all
-friends. Hell distribute traffic from main domain name to either 1 or
-2 to give the second comp a headstart (e-z to implement at
-load-balancing or even DNS level)... Then the third, fourth company
-would have an easier time to join in.
+friends. Well maybe this is more of a cloning, than a break-up. Hell
+distribute traffic from main domain name to either 1 or 2 to give the
+second comp a headstart (e-z to implement at load-balancing or even
+DNS level)... Then the third, fourth company would have an easier time
+to join in.
 
 *2019-10-23 9:4:17*
 
