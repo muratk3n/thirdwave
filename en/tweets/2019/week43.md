@@ -316,7 +316,7 @@ whoever won the nom. Same with others AFAIK.
 
 ---
 
-On healtcare spending Buff says "healthcare spending is already
+On healtcare spending Warr Buffy says "healthcare spending is already
 approaching 20 cents on the dollar. There is only 100 cents on the
 dollar". Dude how bout just saying **percent**? People need to do more
 to communicate the situation - cuz it is dire.
