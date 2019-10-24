@@ -77,8 +77,8 @@ Guy on Twitter working for psyop team \#dore
 ---
 
 On a different note, fact-checking political ads are ludicrous. Some
-people are throwing up their hands in useless exasperation as if fake
-advertising has never existed on TV. 
+people are throwing up their hands in useless exasperation as if such
+advertising never existed on TV.
 
 *2019-10-23 9:40:17*
 
