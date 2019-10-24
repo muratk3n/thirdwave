@@ -1,9 +1,9 @@
 # Tweets - Week 43
 
-@GeoffreySupran
+"@GeoffreySupran
 
 Exxon is now misleading the public about its history of misleading the
-public (and shareholders).
+public (and shareholders)"
 
 [Link](https://mobile.twitter.com/GeoffreySupran/status/1186746748145934337)
 
