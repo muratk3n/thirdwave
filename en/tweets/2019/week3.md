@@ -18,7 +18,9 @@ crop nutrients ending up in the meat we eat is horrifically low"
 
 @GoodFoodInst
 
-"Technology will soon give us the ability to eat ‘meat’ without killing." @TheOxStugives gives a great overview of the #cellbasedmeat industry.
+"Technology will soon give us the ability to eat ‘meat’ without
+killing." @TheOxStugives gives a great overview of the #cellbasedmeat
+industry.
 
 ---
 

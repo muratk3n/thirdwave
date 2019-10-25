@@ -278,9 +278,6 @@ df = quandl.get("MULTPL/SP500_EARNINGS_MONTH-S-P-500-Earnings-by-Month",
 
 
 df['epsyoy'] = (df.Value - df.Value.shift(12)) / df.Value.shift(12) * 100.0
-```
-
-```python
 print (df.tail(5).epsyoy)
 ```
 

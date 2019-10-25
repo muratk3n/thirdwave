@@ -37,14 +37,6 @@ bizarro millennial.
 
 ---
 
-Trump on Syria - let's hope the ceasefire sticks. 
-
-[Link](https://www.youtube.com/watch?v=AidHNf-jYZE)
-
-*2019-10-23 11:54:27*
-
----
-
 Complaints about China notwithstanding, in the West things might be,
 not as bad, but close.
 

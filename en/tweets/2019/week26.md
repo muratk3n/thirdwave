@@ -168,7 +168,9 @@ End product completely recyclable. Elastics, other plastics are next I guess. Gr
 
 ---
 
-I am convinced that eating the occasional meat makes someone happy, and helps you sleep better, and helps in repairing damaged tissue / whatever. Magic food.  
+I am convinced that eating the occasional meat makes someone happy,
+and helps you sleep better, and helps in repairing damaged tissue /
+whatever. Magic food.
 
 *2019-6-26 14:38:9*
 
