@@ -14,3 +14,8 @@
 
 [The West Bank](../../2018/06/westbank.md)
 
+[Israel-TR](../../2018/07/q-127.html#israeltr)
+
+
+
+
