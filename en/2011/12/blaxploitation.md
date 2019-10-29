@@ -9,11 +9,9 @@ movie's slogan goes:
 
 "White Man's Town.. Black Man's Law".
 
-Hillarious. Note: I guess the N word was not politically incorrect at
-this time. Not sure when this word became a slur actually; Richard
-Pryor was using it during 70s, he was both pissing off some people,
-but he wasnt really aware that he was... So I guess the society took
-some deciding the issue.
+About the N word; Richard Pryor was using it during 70s, he was both
+pissing off some people, but he wasnt really aware that he was... So I
+guess the society took some deciding the issue.
 
 ![](220px-BossNiggerPoster.jpg)
 
