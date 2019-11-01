@@ -4,5 +4,5 @@
 
 [Drugs, Immigrants](../../2017/08/drugs-immigrants.md)
 
-[Baltimore](../../tweets/2019/week.31.html#baltimore)
+[Baltimore](../../tweets/2019/week31.html#baltimore)
 
