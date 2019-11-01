@@ -16,6 +16,23 @@ But he's telling his own voters (who he needs to elect him next year) he'll make
 
 ---
 
+I liked the old/new mov on its own... it's no T2 but watchable. Davis
+is a fine lead.
+
+*2019-11-1 8:30:9*
+
+---
+
+Just watched the Herminator. It is basically a reboot sold as
+continuation, and a different movie using all parts of the old, with
+the same general outline. So odd.. My first thought was why not create
+a new storyline with new characters, and finish the T2 storyline as
+is? Fight with Skynet, humanity wins. The end.
+
+*2019-11-1 8:21:39*
+
+---
+
 @thehill
 
 Keystone pipeline spills over 350,000 gallons of oil in North Dakota http://hill.cm/arMMhv7
