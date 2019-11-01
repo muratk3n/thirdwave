@@ -11,6 +11,12 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+1/11 - [Tweets - Week 44](/tweets/2019/week44.md)
+
+1/11 - [Hacking the Constitution](/2019/11/constitution.md)
+
+1/11 - [Faux Ambassadors ](/2019/11/faux-ambassadors.md)
+
 24/10 - [Tweets - Week 43](/tweets/2019/week43.md)
 
 17/10 - [Tweets - Week 42](/tweets/2019/week42.md)
@@ -18,13 +24,6 @@ despite the best efforts of people working in them.
 17/10 - [Terry Jones' Barbarians](/2019/10/terry-jones-barbarians.md)
 
 10/10 - [Tweets - Week 41](/tweets/2019/week41.md)
-
-10/10 - [Science Is Not about Getting More "Likes"](/2019/09/science-likes.md)
-
-3/10 - [Tweets - Week 40](/tweets/2019/week40.md)
-
-26/9 - [Tweets - Week 39](/tweets/2019/week39.md)
-
 
 ## For Members
 
