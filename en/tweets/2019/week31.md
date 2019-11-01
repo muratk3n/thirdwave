@@ -275,6 +275,8 @@ stuff, than you hand it over to.. the shit.
 
 ---
 
+<a name='#baltimore'/>
+
 Baltimore's problems are not the making of Cummings obviously; they
 are the result of the so-called "drug war". DJT's thing is "if you can
 me hit with some stuff, I can hit you with some stuff" which, looking

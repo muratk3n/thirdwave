@@ -43,6 +43,8 @@ despite the best efforts of people working in them.
 
 [Patents](/2018/09/patents.md)
 
+[War on Drugs](/2019/11/war-on-drugs.md)
+
 [The Fabric of Creativity](/2012/05/fabric-of-creativity.md)
 
 [Religion](/2015/04/q-274.md)
