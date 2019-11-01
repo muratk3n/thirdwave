@@ -60,8 +60,8 @@ Rethinking the Role of Banks in Economics Education by Keen.
 That software can generate running code BTW from the differential
 equations those diagrams are based on. Econs, check it out.
 
-And f--in Krugman still thinks "banks lend deposits they receive from
-other customers". Dude - wake up.
+F--in Krugman still thinks "banks lend deposits they receive from
+other customers". What a douche.
 
 [Link](https://youtu.be/3g6-hPFFS_0?t=73)
 
