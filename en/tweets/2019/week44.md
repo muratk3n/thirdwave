@@ -1,10 +1,4 @@
 # Tweets - Week 44
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our path to victory is not through big money. It’s through millions of people chipping in what they can before tonight&#39;s monthly deadline. Will you chip in to stand with Bernie? <a href="https://t.co/oHM2jWkAsF">https://t.co/oHM2jWkAsF</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1190045786857463808?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-1 7:13:55*
-
----
  
 "@Femi_Sorry
 
