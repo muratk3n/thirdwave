@@ -69,10 +69,10 @@ other customers". Dude - wake up.
 
 ---
 
-I don't pay attn to these atomic analysis'. Supermarkets may not make
-money by selling bread either (low margins, maybe), but customers
-would want it, and they'd buy many other things while they are in the
-store.
+Supermarkets may not make money by selling bread either (low margins,
+maybe), but customers would want it, and they'd buy many other things
+while they are in the store. I don't pay attn to these atomic,
+single-use explanations. 
 
 "Facebook: We have no motive around pol ads, we don't make money from them"
 
