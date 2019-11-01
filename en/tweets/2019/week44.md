@@ -584,8 +584,8 @@ more mystery here than the E.T.
 
 Great. More left. Left everywhere.
 
-We need more vacillation between true left and right - instead of
-going between Mush \#1, Mush \#2, etc.. True left brings healthcare if
+We need more switches between true left and right - instead of going
+between Mush \#1, Mush \#2, etc.. True left brings healthcare if
 missing, true right can deregulate if too much, it goes on.. Mush
 provides no selection. It's policy positions are a mush; a little bit
 of everything, which means nothing. Same shit policies with different
