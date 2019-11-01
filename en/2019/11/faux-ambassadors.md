@@ -171,12 +171,12 @@ single black kid having to hear those words.
 
 Addend. 9:
 
-Another aspect of this whole thing is, if there is an unformtable
+Another aspect of this whole thing is, if there is an unconformtable
 topic, talking about it, through comedy, making light of it as much as
 possible, so it is not talked about uncomfortably in other parts of
 society. This too would be very American. But the act can start having
 a life of its own, impinge on other parts of culture. At the very
-least, watch out. 
+least, watch out.
 
 Related: [The Culture Code](https://muratk3n.github.io/thirdwave/en/2014/06/the-culture-code.html)
 
