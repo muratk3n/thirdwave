@@ -13,10 +13,10 @@ privacy of American citizens in the digital age, each of these
 branches failed in its own way, causing the entire system to halt and
 catch fire.  The legislative branch, the two houses of Congress,
 willingly abandoned its supervisory role: even as the number of IC
-government employees and private contractors was exploding, the number
-of congresspeople who were kept informed about the IC’s capabilities
-and activities kept dwindling, until only a few special committee
-members were apprised in closed-door hearings.
+[Intelligence Community] government employees and private contractors
+was exploding, the number of congresspeople who were kept informed
+about the IC’s capabilities and activities kept dwindling, until only
+a few special committee members were apprised in closed-door hearings.
 
 Even then they were only informed of some, but not all, of the IC’s
 activities. When rare public hearings on the IC were held, the NSA’s
