@@ -487,8 +487,8 @@ player). First wrote abt this movie
 [here](https://muratk3n.github.io/thirdwave/en/2011/12/blaxploitation.html).
 
 How much of a slur was the N-word in the movie? The deputy (also
-black) locks up a man for using it in public. It was kinda slur, but
-everyone kept using it. Kinda like now I guess. 
+black) locks up a man for using it in public. It was a slur, but then
+everyone kept using it. Sort of like now I guess.
 
 [Movie](https://youtu.be/mlKt8o_aSlo?t=293)
 
@@ -562,10 +562,10 @@ fine. We'll kick their ass on equal ground.
 
 ---
 
-Spoke too soon. DJT net popularity sank to -14%. Approval 40%,
-disproval 54% (from 438). But this one came back from -16%.
+DJT net popularity fell to -14%. Approval 40%, disproval 54% (from
+438). But this one came back from -16%. 
 
-Gallup looks worse.
+Gallup looks bad.
 
 The Kurdish thing might have effected things; Ukraine by itself could
 be defended but two two big events may be eating into his popul. 
