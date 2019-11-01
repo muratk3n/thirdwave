@@ -80,8 +80,9 @@ store.
 
 ---
 
-Twitter bans political ads. That is their prerogative. Fine. Allowing
-ads not filtering, or no ads, both are fine.
+Twitter bans political ads. That is their prerogative.
+
+Allowing ads and not filtering, or no ads. 
 
 *2019-10-31 9:34:16*
 
@@ -112,12 +113,12 @@ more left than US), who did not care, so on.
 
 ---
 
-No need for anything magical.. IMO it is the law of averages. We all
-know the average, conciously or subconsiously, on many types of
-behaviours. Say risk taking, listening, controlling.. Then we see ppl
-who are worse than average on these things, a small fraction of the
-soc in large, and we act accordingly, automatically pushing ppl to
-where they need to be.
+No need for anything magical as explanation.. IMO it is the law of
+averages. We all know the average, conciously or subconsiously, on
+many types of behaviours. Say risk taking, listening,
+controlling.. Then we see ppl who are worse than average on these
+things, a small fraction of the soc in large for each type, and we act
+accordingly, automatically pushing ppl to where they need to be.
 
 "U say sometimes it looks as if everyone conspires to push people in
 their development path. How is that possible?"
@@ -250,10 +251,10 @@ Holy hell, do u have enough bikes in that motorcade butch?
 
 ---
 
-Epstein thing was an gone rogue, they thought he could be used for a
-certain thing but it was realized pretty quickly the effer ingratiated
-himself in too many places, right/left, up/down.. so he was taken out
-of the picture.
+Epstein thing was an op gone rogue, they thought he could be used for
+a certain thing but it was realized pretty quickly the effer
+ingratiated himself in too many places, right/left, up/down.. so he
+was taken out of the picture.
 
 *2019-10-30 17:16:48*
 
