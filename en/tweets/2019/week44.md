@@ -512,6 +512,36 @@ Hyundai debuts HDC-6 NEPTUNE Concept, a hydrogen-powered Class 8 heavy duty truc
 
 ---
 
+I want to believe 😇😇😇👽👽👽 
+
+*2019-10-28 20:49:32*
+
+---
+
+E.T. existence is not unlikely. I could not disprove it easily from
+[data](https://muratk3n.github.io/thirdwave/en/2015/08/ufo.html).
+
+E.T. hiding from humans actually explains the absence of contact, the
+so-called Fermi Paradox.
+
+*2019-10-29 13:51:6*
+
+---
+
+I follow Steven Greer sometimes (the UFOlogist), and about some event
+he'll say "the E.T. will not allow it!". This one topic was about
+nukes in space, apparently we tried to put nukes there, E.T. destroyed
+it. So they don't allow nukes in space.
+
+Now I find myself trying to figure out the politics of E.T. What would
+they be for? Would they be for tax cuts? Or against tax cuts?  They
+are not climate skeptics apparently (so says SG). I think there is
+more mystery here than the E.T.
+
+*2019-10-29 13:51:6*
+
+---
+
 If that birth is correct, it's date would be September 11, 1973. You
 read that correctly, 9/11. In fact Chileans call that day "our 9/11".
 
@@ -566,36 +596,6 @@ so convincingly, he's silenced my inner skeptic"
 [Link](https://mobile.twitter.com/ValaAfshar/status/1188471534148567043)
 
 *2019-10-29 7:42:45*
-
----
-
-I want to believe 😇😇😇👽👽👽 
-
-*2019-10-28 20:49:32*
-
----
-
-E.T. existence is not unlikely. I could not disprove it easily from
-[data](https://muratk3n.github.io/thirdwave/en/2015/08/ufo.html).
-
-E.T. hiding from humans actually explains the absence of contact, the
-so-called Fermi Paradox.
-
-*2019-10-28 20:49:32*
-
----
-
-I follow Steven Greer sometimes (the UFOlogist), and about some event
-he'll say "the E.T. will not allow it!". This one topic was about
-nukes in space, apparently we tried to put nukes there, E.T. destroyed
-it. So they don't allow nukes in space.
-
-Now I find myself trying to figure out the politics of E.T. What would
-they be for? Would they be for tax cuts? Or against tax cuts?  They
-are not climate skeptics apparently (so says SG). I think there is
-more mystery here than the E.T.
-
-*2019-10-28 20:49:32*
 
 ---
 
