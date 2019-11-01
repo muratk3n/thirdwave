@@ -65,15 +65,15 @@ their faux identities do not hold on to anymore.
 
 There is no denying people might have been attacked, or discriminated
 against due to ethnic outward differences. But in those cases it's
-their job to remind others they are citizens, not some shoddy copy
-whose origin as-is is dubious. Also was the attack just plain dumb?
-"In high-school they called me bunch of names with my ethnicity". They
-call everyone names in high school (many Americans are traumatized in
-high-school). Whatever is different, they'll pick on it. Someone I
-know whose name, say rhimes with Beggio, was named Beg, Beggerboy,
-Bag-over-your-moms-head, Beck, Dick (??) and it goes progressively
-worse after that. Beg was ethnically German-Scottish. Everyone gets
-it.
+their job to remind others they are citizens, not cower behind a faux
+identity, some shoddy copy whose origin as-is is dubious. Also was the
+attack just plain dumb?  "In high-school they called me bunch of names
+with my ethnicity". They call everyone names in high school (many
+Americans are traumatized in high-school). Whatever is different,
+they'll pick on it. Someone I know whose name, say rhimes with Beggio,
+was named Beg, Beggerboy, Bag-over-your-moms-head, Beck, Dick (??) and
+it goes progressively worse after that. Beg was ethnically
+German-Scottish. Everyone gets it.
 
 Addend. 1:
 
