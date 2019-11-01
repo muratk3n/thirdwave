@@ -445,7 +445,8 @@ J. D. Powell was the man in this area.
 
 Wrote abt flow batteries a year ago [here](https://muratk3n.github.io/thirdwave/en/2018/07/battery-fueled-by-iron-and-water.html).
 Interesting tech, using cheap materials, and works well at scale. 
-Li-On tech slapped down again, labeled as dangerous for the environment, toxic.
+Li-On tech slapped down again, labeled as dangerous for the environment, toxic., suffering
+from capacity fading.
 
 "@LoganGoldieScot
 
