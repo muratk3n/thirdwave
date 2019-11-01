@@ -1,10 +1,6 @@
 # Tweets - Week 44
 
-
-Epstein thing was an gone rogue, they thought he could be used for a
-certain thing but it was realized pretty quickly the effer ingratiated
-himself in too many places, right/left, up/down.. so he was taken out
-of the picture.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our path to victory is not through big money. It’s through millions of people chipping in what they can before tonight&#39;s monthly deadline. Will you chip in to stand with Bernie? <a href="https://t.co/oHM2jWkAsF">https://t.co/oHM2jWkAsF</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1190045786857463808?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-11-1 7:13:55*
 
@@ -232,6 +228,15 @@ Down.. down.. down.
 Holy hell, do u have enough bikes in that motorcade butch?
 
 [Link](https://mobile.twitter.com/Rschooley/status/1189360977608732672)
+
+*2019-10-30 17:16:48*
+
+---
+
+Epstein thing was an gone rogue, they thought he could be used for a
+certain thing but it was realized pretty quickly the effer ingratiated
+himself in too many places, right/left, up/down.. so he was taken out
+of the picture.
 
 *2019-10-30 17:16:48*
 
