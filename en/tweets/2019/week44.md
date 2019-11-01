@@ -447,7 +447,10 @@ Wrote abt flow batteries a year ago [here](https://muratk3n.github.io/thirdwave/
 
 "@LoganGoldieScot
 
-@ESS_info raises $30m in Series C. Flow batteries continue to attract interest and venture capital. Lithium-ion remains the one to beat, but if one of these firms does break through - this will provide an additional option for developers"
+@ESS_info raises $30m in Series C. Flow batteries continue to attract
+interest and venture capital. Lithium-ion remains the one to beat, but
+if one of these firms does break through - this will provide an
+additional option for developers"
 
 *2019-10-29 18:58:9*
 

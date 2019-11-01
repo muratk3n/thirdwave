@@ -1,6 +1,6 @@
 # Battery Fueled by Iron and Water, Flow Batteries
 
-[Video](http://www.youtube.com/watch?v=HmtI8Wat7rY)
+[Video](https://youtu.be/HmtI8Wat7rY?t=189)
 
 The battery mentioned above is a flow battery, or redox flow battery.
 
