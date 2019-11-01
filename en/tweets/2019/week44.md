@@ -33,9 +33,11 @@ is? Fight with Skynet, humanity wins. The end.
 
 ---
 
-@thehill
+"@thehill
 
-Keystone pipeline spills over 350,000 gallons of oil in North Dakota http://hill.cm/arMMhv7
+Keystone pipeline spills over 350,000 gallons of oil in North Dakota"
+
+[Link](http://hill.cm/arMMhv7)
 
 *2019-11-1 6:53:45*
 
