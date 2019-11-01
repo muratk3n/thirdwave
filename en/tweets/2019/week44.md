@@ -408,7 +408,7 @@ In terms of technology: electrification needs to take a backseat, wire
 based tech needs to be abandoned. Transmission of energy should be
 based on renewable-gas through pipes underground.
 
-And also, yes, this utility need to be "municipalized". 
+And also, yes, this utility needs to be "municipalized". 
 
 "PG&E admits it may have ignited wildfire in California wine country;
 tens of thousands evacuate LA area"
