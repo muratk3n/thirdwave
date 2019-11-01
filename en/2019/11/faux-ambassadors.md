@@ -104,7 +104,7 @@ unacceptable.
 
 (Through plastic surgeries MJ was also turning into Diana Ross, a
 black woman. The guy was just weird basically... What kind of normal
-person writes *Billy Jean* anyway?)
+person can write *Billy Jean* anyway?)
 
 Addend. 3:
 
