@@ -190,8 +190,6 @@
 
 [Seriously](05/seriously.md)
 
-[SpaceX](05/spacex.md)
-
 [The Structural Revolution](05/structural-revolution.md)
 
 [The 100,000-student classroom](06/100000-student-classroom.md)

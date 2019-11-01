@@ -116,8 +116,6 @@
 
 [#huh](05/huh.md)
 
-[Musk On a Roll](05/musk-on-roll.md)
-
 [Patent Trolls](05/patent-trolls.md)
 
 [Centrifugal Effect](05/pressure-from-war.md)

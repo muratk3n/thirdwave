@@ -44,29 +44,40 @@ states.” [..] They have all come to believe that there are no economic
 limits to what government can tax or borrow and, therefore, no
 economic limits to what government can spend [..]
 
-The last of the mutations that created the megastate, the Cold War State, was a response to technology. 
+The last of the mutations that created the megastate, the Cold War
+State, was a response to technology.
 
-Since 1500 or so, when the knight had become obsolete, warfare increasingly was waged with weapons produced in ordinary peacetime facilities with the minimum of delay or adaptation. In the American Civil War, cannons were still being produced in peacetime workshops and factories hastily adapted after hostilities had broken out. Textile mills switched production practically overnight from civilian clothing to uniforms. Indeed, the two major wars fought during the second half of the nineteenth century, the American Civil War (1861-65) and the Franco-Prussian War (1870-71), were still largely fought by civilians who had put on their uniforms only a few weeks before engaging in combat.
+Since 1500 or so, when the knight had become obsolete, warfare
+increasingly was waged with weapons produced in ordinary peacetime
+facilities with the minimum of delay or adaptation. In the American
+Civil War, cannons were still being produced in peacetime workshops
+and factories hastily adapted after hostilities had broken
+out. Textile mills switched production practically overnight from
+civilian clothing to uniforms. Indeed, the two major wars fought
+during the second half of the nineteenth century, the American Civil
+War (1861-65) and the Franco-Prussian War (1870-71), were still
+largely fought by civilians who had put on their uniforms only a few
+weeks before engaging in combat.
 
-Modern technology [it was argued] had changed all this. The wartime economy could no longer be an adaptation of the peacetime economy. The two had to be separate. Both weapons and fighting men had to be made available, in large quantities, before the outbreak of hostilities. To produce either required increasingly long lead times.
+Modern technology [it was argued] had changed all this. The wartime
+economy could no longer be an adaptation of the peacetime economy. The
+two had to be separate. Both weapons and fighting men had to be made
+available, in large quantities, before the outbreak of hostilities. To
+produce either required increasingly long lead times.
 
-Defense, it was implicit in the [argument] no longer means keeping the warfare away from civilian society and civilian economy. Under conditions of modern technology, defense means a permanent wartime society and a permanent wartime economy. It means the “Cold War State.”
+Defense, it was implicit in the [argument] no longer means keeping the
+warfare away from civilian society and civilian economy. Under
+conditions of modern technology, defense means a permanent wartime
+society and a permanent wartime economy. It means the “Cold War
+State.”
 
-But even after World War II, the United States for a few short years tried to revert to a “normal” peacetime state. It tried to disarm as fast as possible, and as completely as possible. The coming of the Cold War in the Truman and Eisenhower years changed all this. Since then, the Cold War State has been the dominant organization of international politics.
+But even after World War II, the United States for a few short years
+tried to revert to a “normal” peacetime state. It tried to disarm as
+fast as possible, and as completely as possible. The coming of the
+Cold War in the Truman and Eisenhower years changed all this. Since
+then, the Cold War State has been the dominant organization of
+international politics.
 
-By 1960, the Megastate had become a political reality in developed countries in all its aspects: as social agency; as master of the economy; as fiscal state; and in most countries as Cold War State.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+By 1960, the Megastate had become a political reality in developed
+countries in all its aspects: as social agency; as master of the
+economy; as fiscal state; and in most countries as Cold War State.

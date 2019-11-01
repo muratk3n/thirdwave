@@ -18,19 +18,8 @@ availability, the ad pictured a bridge over a river and sold the idea
 that “cement” is a service that connects people by building bridges
 between them. Concrete as a service? A very [postmodern] idea.
 
-Access to electrical or mechanical power is no longer the criterion for suc­cess.  [.. D]ata about customer interactions is the new waterpower; knowledge drives the turbines of the service economy and, since the line between service and  manufacturing is getting blurry, much of the manufacturing economy as well. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Access to electrical or mechanical power is no longer the criterion
+for suc­cess.  [.. D]ata about customer interactions is the new
+waterpower; knowledge drives the turbines of the service economy and,
+since the line between service and  manufacturing is getting blurry,
+much of the manufacturing economy as well.
