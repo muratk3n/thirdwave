@@ -6,11 +6,13 @@
 
 ---
  
-@Femi_Sorry
+"@Femi_Sorry
 
-Trump is now telling British voters (who he needs to support Brexit so he can do a UK deal) that he's not after our NHS.
+Trump is now telling British voters (who he needs to support Brexit so
+he can do a UK deal) that he's not after our NHS.
 
-But he's telling his own voters (who he needs to elect him next year) he'll make our NHS pay more for medicines
+But he's telling his own voters (who he needs to elect him next year)
+he'll make our NHS pay more for medicines"
 
 *2019-11-1 6:58:54*
 
