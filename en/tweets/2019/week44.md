@@ -649,7 +649,7 @@ Hong-Kong. Wonder what he thinks now, because the protestors in HK
 find mainland CH system as illegitimate, their old system as
 better. JC owes much of his fame and success to Hong-Kong. System-wise
 and culturally, Taiwan, HK are the free Chinese, and the mainland CH
-are the outsiders in this picture, illegitimate, unwanted.
+are the outsiders in this picture, seen as illegitimate.
 
 *2019-10-28 10:28:16*
 
@@ -710,14 +710,14 @@ says they can’t"
 
 ---
 
-Strange feeling these "followers of Otto" have been supported by
+Have a feeling these "followers of Otto" have been supported by
 Germany for a long time, owing to the WWI alliance back in the day?
-"Pan-Otto" ideals were supported by DE than bcz they were hoping it
+"Pan-Otto" ideals were supported by DE then bcz they were hoping it
 would destabilize the British in Asia. Hopefully this support
 ends. It'll lead nowhere good. There are as many Kurds as tigger in
 Germany, and their clashes can
 [harm](thelocal.de/20191019/we-are-sitting-on-a-powderkeg-germanys-turks-and-kurds-in-uneasy-stand-off)
-regular citizens. 
+regular citizens.
 
 *2019-10-27 11:10:37*
 
@@ -739,10 +739,9 @@ speak louder to make themselves heard. It's physics.
 
 ---
 
-Bin Laden was also "served" when time was right. He was found
-dead-close to Pakistani military barracks. "Oh but that's the best
-place to hide, in plain sight". No it isn't. That's just movie
-bullshit.
+Bin Laden was also "served" when time was right. He was found close to
+Pakistani military barracks. "Oh but that's the best place to hide, in
+plain sight". No it isn't. That's just movie bullshit.
 
 *2019-10-27 10:59:52*
 
@@ -794,15 +793,15 @@ military officer in the country
 
 ---
 
-NDGT is a good educator obviously, an entertainer even - an
+NDGT is a good educator, an entertainer even - an
 "edutainer"?. Popularizing science is a good thing. Being the final
-authority on everything scientific is something else. 
+authority on everything scientific ... something else.
 
 *2019-10-27 10:13:58*
 
 ---
 
-@plutokiller Mike Brown of CalTech is the professor who killed Pluto
+Mike Brown, @plutokiller, of CalTech is the professor who killed Pluto
 BTW (hence his Twitter handle), he de-classified it from its planet
 status, not de Grasse Tyson.
 
@@ -870,7 +869,7 @@ Great article by Zizek
 ---
 
 The thing abt Greta is she is old enough to have figured out some
-stuff, but she still somewhat looks childish, has that fat face, round
+stuff, but she still looks somewhat childish, has that fat face, round
 head, etc. So it's like 'we are failing this infant'. That is the most
 disturbing thing abt her.
 
