@@ -495,8 +495,6 @@ How much of a slur was the N-word in the movie? The deputy (also
 black) locks up a man for using it in public. It was a slur, but then
 everyone kept using it. Sort of like now I guess.
 
-[Movie](https://youtu.be/mlKt8o_aSlo?t=293)
-
 *2019-10-29 18:34:47*
 
 ---

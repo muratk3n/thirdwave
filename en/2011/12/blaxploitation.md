@@ -15,4 +15,3 @@ guess the society took some deciding the issue.
 
 ![](220px-BossNiggerPoster.jpg)
 
-[Movie](https://youtu.be/mlKt8o_aSlo?t=293)

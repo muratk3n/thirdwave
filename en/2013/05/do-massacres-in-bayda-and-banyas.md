@@ -11,7 +11,13 @@ to lose, but for the time being, he suggests that “ethnic cleansing” may
  not have been the intended result, but the massacres did serve as a 
 shot across the bow of the Sunni population of the coast.
 
-Turkey’s Foreign Minister Davutoglu claimed that Syria’s army has begun ethnically cleansing Banyas because it is losing elsewhere in the country. But Assad’s forces are not losing. According to both Liz Sly of the Washington Post and Reuters reports Assad’s forces are gaining ground in Syria, at least for the time being. This can only be cold comfort to the Sunnis along the coast who speak of their fear of ethnic cleansing.
+Turkey’s Foreign Minister Davutoglu claimed that Syria’s army has
+begun ethnically cleansing Banyas because it is losing elsewhere in
+the country. But Assad’s forces are not losing. According to both Liz
+Sly of the Washington Post and Reuters reports Assad’s forces are
+gaining ground in Syria, at least for the time being. This can only be
+cold comfort to the Sunnis along the coast who speak of their fear of
+ethnic cleansing.
 
 The fighting in al-Bayda began when a bus carrying pro-regime 
 militants, or Shabiha, was attacked, by rebel militiamen, killing at 
@@ -44,18 +50,21 @@ Orthodox Anatolians were driven out of Anatolia following the defeat of
 Greek forces which sought to conquer Anatolia in the early 1920s in an 
 effort to resurrect the Byzantine Empire [..].
 
-Ethnic cleansing may turn against the Alawites, as easily as it may against Sunnis. If Sunni militias win in their struggle against the regime and penetrate into the Alawite Mountains, Alawites will flee before them, rather than be vanquished [..]
+Ethnic cleansing may turn against the Alawites, as easily as it may
+against Sunnis. If Sunni militias win in their struggle against the
+regime and penetrate into the Alawite Mountains, Alawites will flee
+before them, rather than be vanquished [..]
 
-Western policy planners have gamed out these possibilities, making them 
-reluctant to arm rebel militias for a total victory. Although opposition
- leaders plead for more and better weapons to bring them a speedy 
-victory, Western leaders have held back. The fear that three million 
-Alawites could flee into Lebanon, destabilizing the country for decades,
- undoubtedly plays a role in Western reticence.  This sort of population
- transfer could be as disruptive to the region, as was the expulsion of 
-Palestinians in 1948. Just as the Palestinians have not been permitted 
-to return to their ancestral land, neither, in all probability, would 
-the Alawites.
+Western policy planners have gamed out these possibilities, making
+them reluctant to arm rebel militias for a total victory. Although
+opposition leaders plead for more and better weapons to bring them a
+speedy victory, Western leaders have held back. The fear that three
+million Alawites could flee into Lebanon, destabilizing the country
+for decades, undoubtedly plays a role in Western reticence.  This sort
+of population transfer could be as disruptive to the region, as was
+the expulsion of Palestinians in 1948. Just as the Palestinians have
+not been permitted to return to their ancestral land, neither, in all
+probability, would the Alawites.
 
 --
 
