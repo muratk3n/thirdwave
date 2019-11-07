@@ -642,31 +642,31 @@ usually messing up. He categorized they guy as "bureucrat just trying
 to cover his ass", and didn't listen.
 
 >Susskind, *The 1 Percent Doctrine*
-
+>
 >"The 'what ifs' can kill you.
-
+>
 >Something missed. A failure of will. A turn in one direction when the
 other way was the right path.
-
+>
 >Over time, people tend to get past them. We did what we could, they
 say, and move on.
-
+>
 >But, in terms of the tragedy of 9/11, a particular regret lingers for
 those who might have made a difference.
-
+>
 >The alarming August 6, 2001, memo from the CIA to the President--"Bin
 Laden Determined to Strike in US"--has been widely noted in the past
 few years.
-
+>
 >But, also in August, CIA analysts flew to Crawford to personally brief
 the President--to intrude on his vacation with face-to-face alerts.
-
+>
 >The analytical arm of CIA was in a kind of panic mode at this
 point. Other intelligence services, including those from the Arab
 world, were sounding an alarm. The arrows were all in the red. They
 didn't know place or time of an attack, but something was coming. The
 President needed to know.
-
+>
 >Verbal briefings of George W. Bush are acts of almost inestimable
 import in the affairs of the nation--more so than is the case for
 other recent presidents. He's not much of a reader, this President,
@@ -690,18 +690,18 @@ heavy lifting, and the President tries to gauge how "certain" they are
 of what they say, even if the issues may be unfamiliar to him. Do they
 seem nervous or unsure? Are they fudging? Why do they think what they
 do…and what do they think of him? That last part is very important.
-
+>
 >The trap, of course, is that while these tactile, visceral markers can
 be crucial--especially in terms of handling the posturing of top
 officials--they sometimes are not. The thing to focus on, at certain
 moments, is what someone says, not who is saying it, or how they're
 saying it.
-
+>
 >And, at an eyeball-to-eyeball intelligence briefing during this urgent
 summer, George W. Bush seems to have made the wrong choice.
-
+>
 >He looked hard at the panicked CIA briefer.
-
+>
 >'All right,' he said. 'You've covered your ass, now.'"
 
 *2019-11-3 21:4:58*
