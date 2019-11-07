@@ -505,8 +505,8 @@ But some countries are better at this than others. The US narrative
 taught in schools.. "Why did we seperate from England?". "Because
 ruling from a distance was not effective". It is not non-sense.
 
-Here is what TR text says abt it lost in WWI. Uh, like, our big ally
-Germany lost, so we lost, indirectly, by *association*.
+Here is what TR text says abt why it lost in WWI. Uh, like, our big
+ally Germany lost, so we lost, indirectly, by *association*.
 
 Now that sounds like a load of bunk. It's like a tough guy story,
 "yeah I've would have done some shit, but, they held me back son, I
