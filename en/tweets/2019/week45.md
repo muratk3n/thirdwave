@@ -37,13 +37,13 @@ That's like, a Tom Clancy novel dude. *Clear and Present Danger*,
 ---
 
 That's weird. I'd just recently watched a
-[docu](https://youtu.be/LpIyaIHsJbc?t=343) on them;
-apparently there is a big Mormon presence there, and they fell into
-some trouble w drug gangs. Mitt's family is from this region.. Anyway
-I thought docu was going to say after losing some members to gang
-killing they'd turn the other cheek while reaching to that can
-of... WHOOP-ASS!  No. That didnt happen, docu showed bunch of guard
-posts..  whatever.
+[docu](https://youtu.be/LpIyaIHsJbc?t=343) on them; apparently there
+is a big Mormon presence there, and they fell into some trouble w drug
+gangs. Mitt's family is from this region.. Anyway I thought docu was
+going to say after losing some members to gang killing they'd turn the
+other cheek while reaching to that can of... WHOOP-ASS!  No. That
+didnt happen, docu showed bunch of guard posts..  at least not at the
+scale the gangs threathened them. But the Mormons there are armed. 
 
 "On Monday, gunmen killed three women and six children from a
 Mexican-American Mormon family in northern Mexico"
