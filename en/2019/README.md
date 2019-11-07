@@ -1,4 +1,20 @@
 
+7/11 - [A Post-Scarcity World](11/post-scarcity.md)
+
+1/11 - [Drug War](11/war-on-drugs.md)
+
+1/11 - [Faux Ambassadors](11/faux-ambassadors.md)
+
+1/11 - [Hacking the Constitution](11/constitution.md)
+
+19/10 - [Terry Jones' Barbarians](10/terry-jones-barbarians.md)
+
+19/9 - [The Most Powerful Greenhouse Gas Known to Man](09/sf6.md)
+
+9/9 - [Science Is Not about Getting More "Likes"](09/science-likes.md)
+
+19/9 - [Aluminum Trihydride - Alane](09/alane.md)
+
 21/7 - [Focus-Group Democracy](08/focus-group-democracy.md)
 
 21/7 - [Manganese Hydride](08/manganese-hydride.md)
