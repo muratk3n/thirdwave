@@ -459,7 +459,7 @@ agree on one thing – the vote should never have happened"
 
 ---
 
-I bet mainland Chink history is full of some dumbass shit too.
+I bet mainland Chink "history" is full of some dumbass shit too.
 
 *2019-11-4 22:3:50*
 
