@@ -349,7 +349,7 @@ port. They had no other choice. See
  victors would share the spoils among themselves. Thus it was vital
  for the Empire to conclude an alliance with a strong industrial and
  military power, which would serve as a protector after the war.
-
+>
 >Finding allies was easier said than done: the Empire seemed to have
  nothing to offer either economically or militarily. Russia declined
  the offer; France did likewise. Germany, however, accepted: alliance
