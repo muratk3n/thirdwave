@@ -51,7 +51,7 @@ Mexican-American Mormon family in northern Mexico"
 
 ---
 
-Stop bitchin.. You not H.N.I.C. Double M.P.... I.D.D.Q.D.
+Stop bitchin.. You not H.N.I.C. Double M.G.... I.D.D.Q.D.
 
 The HNIC is at MIT teaching ODE. Nam sayin'?
 
