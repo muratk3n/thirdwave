@@ -635,7 +635,7 @@ was a snap.
 
 ---
 
-That's where he effed up; *Typical I Am CRM* - listening is the
+That's where he effed up; Typical *I Am CRM* - listening is the
 weakness, area of development. Then, the question is who to listen,
 how much to listen, when to listen.. they fumble around these things,
 usually messing up. He categorized they guy as "bureucrat just trying
