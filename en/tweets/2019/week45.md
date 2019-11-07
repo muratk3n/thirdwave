@@ -476,10 +476,11 @@ I hear Russkie narrative is quite moronic too. Talked abt it briefly
 It's all about finding that happy path it seems, a narrative that will
 show you a winner most of the time (if a loser, u redirect it to
 behing held down, it's never your fault). "Tigger came from Central
-Asia" says one -completely false, some came but melted away- which
-probably has to do wanting to associate with something outside the
-current own region, and conveniently blame the loss of Balkans, and
-other regional troubles on "others" who were "the wrong Turks anyway".
+Asia" says one -completely false, some punk mo..f..kers came but
+melted away- which probably has to do wanting to associate with
+something outside the current own region, and conveniently blame the
+loss of Balkans, and other regional troubles on "others" who were "the
+wrong Turks anyway".
 
 I think psychologists are wasting their time analyzing singular
 people. They should focus on national psyches exclusively. There is
