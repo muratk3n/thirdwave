@@ -515,8 +515,8 @@ was gonna bring it. Kick some ass.. Yeah!". Or like a boxer, "well, I
 beat the other guy, but the referee, that guy man, did not give me
 points. It was a technical loss.. that's what it was".
 
-The narrative indirectly admits it was the junior partner in the war
-effort, but the general outline is still somewhat 'lacking'.
+At least the narrative indirectly admits it was the junior partner in
+the war effort, but the general outline is still somewhat 'lacking'.
 
 😒😒😒😒😒
 
