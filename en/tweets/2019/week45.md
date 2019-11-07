@@ -385,10 +385,6 @@ Owls crack me up.
 
 ---
 
-That's very cool.. So theoretically u can shut off all headlights,
-pitch dark outside, but the computer could still drive using its
-sensors.
-
 "@SmallpixelCar
 
 Something only a Lidar car can do: running autonomously in dark"
