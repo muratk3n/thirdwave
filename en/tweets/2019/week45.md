@@ -144,8 +144,8 @@ Fire those retro-rockets, shoot the fruton torpidos, and like uhhh-uhhh make us 
 ---
 
 They do? AFAIK all deep net models are automatically differentiable
-(as good as symbolic differentiation). If this is true they are
-dealing with freaky cost functions.
+(as good as symbolic differentiation). If this is true, this person
+(whoever they are) must be dealing with freaky cost functions.
 
 "Most machine learning tasks — from natural language processing to
 image classification to translation and many others — rely on

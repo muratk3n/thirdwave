@@ -270,7 +270,7 @@ today = datetime.datetime.now()
 end_d=datetime.datetime(today.year, today.month, today.day)
 start_d = end_d - timedelta(days=bdays)
 today = datetime.datetime.now()
-df = quandl.get("MULTPL/SP500_DIV_YIELD_MONTH-S-P-500-Dividend-Yield-by-Month", 
+df = quandl.get("MULTPL/SP500_EARNINGS_MONTH-S-P-500-Earnings-by-Month", 
                 returns="pandas",
                 #end_date=today.strftime('%Y-%m-%d'),
                 authtoken=open(".quandl").read())
@@ -282,11 +282,11 @@ print (df.tail(5).epsyoy)
 
 ```text
 Date
-2019-07-31    2.173913
-2019-08-31    8.241758
-2019-09-30    9.444444
-2019-10-31    2.631579
-2019-11-01   -4.591837
+2018-11-30    18.339070
+2018-12-31    18.233494
+2019-01-31    17.267618
+2019-02-28    15.960355
+2019-03-31    14.290529
 Name: epsyoy, dtype: float64
 ```
 
