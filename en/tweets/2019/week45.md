@@ -1,6 +1,7 @@
 # Tweets - Log
 
-Oliphant saz protocol overloading (like the + operator) is one of the key reasons why he chose Python over other langs. 
+Oliphant saz protocol overloading (like the + operator) is one of the
+key reasons why he chose Python over other langs.
 
 [Link](https://www.youtube.com/watch?v=6PY-Y3t4oxg)
 
@@ -36,7 +37,7 @@ That's like, a Tom Clancy novel dude. *Clear and Present Danger*,
 ---
 
 That's weird. I'd just recently watched a
-[docu](https://www.youtube.com/watch?v=LpIyaIHsJbc) on them;
+[docu](https://youtu.be/LpIyaIHsJbc?t=343) on them;
 apparently there is a big Mormon presence there, and they fell into
 some trouble w drug gangs. Mitt's family is from this region.. Anyway
 I thought docu was going to say after losing some members to gang
