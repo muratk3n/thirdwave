@@ -42,9 +42,9 @@ is a big Mormon presence there, and they fell into some trouble w drug
 gangs. Mitt's family is from this region.. Anyway I thought docu was
 going to say after losing some members to gang killing they'd turn the
 other cheek while reaching to that can of... WHOOP-ASS!  No. That
-didnt happen, docu showed bunch of guard posts..  There was some
-whoop-ass but not at the scale the gangs threathened them. Anyway the
-Mormons there are armed. 
+didnt happen, docu showed bunch of guard posts..  The Mormons have
+some arms, there was some whoop-ass but not at the scale the gangs
+threathened them.
 
 "On Monday, gunmen killed three women and six children from a
 Mexican-American Mormon family in northern Mexico"
