@@ -1,4 +1,4 @@
-g# A Post-Scarcity World
+# A Post-Scarcity World
 
 Murray Bookchin
 
