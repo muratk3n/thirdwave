@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+7/11 - [A Post-Scarcity World](/2019/11/post-scarcity.md)
+
+7/11 - [Tweets - Week 45](/tweets/2019/week45.md)
+
 1/11 - [Tweets - Week 44](/tweets/2019/week44.md)
 
 1/11 - [Hacking the Constitution](/2019/11/constitution.md)
@@ -20,10 +24,6 @@ despite the best efforts of people working in them.
 24/10 - [Tweets - Week 43](/tweets/2019/week43.md)
 
 17/10 - [Tweets - Week 42](/tweets/2019/week42.md)
-
-17/10 - [Terry Jones' Barbarians](/2019/10/terry-jones-barbarians.md)
-
-10/10 - [Tweets - Week 41](/tweets/2019/week41.md)
 
 ## For Members
 
