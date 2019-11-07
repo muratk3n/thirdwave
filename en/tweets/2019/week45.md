@@ -328,7 +328,7 @@ pedal.
 
 ---
 
-No, German-"Otto" alliance was the result of a single "unexpected"
+No, German-"Otto" alliance was not the result of a single "unexpected"
 event, organized by a small cadre through the
 [bombing](https://en.wikipedia.org/wiki/Black_Sea_Raid) of a Russian
 port. They had no other choice. See
