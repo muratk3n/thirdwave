@@ -40,7 +40,7 @@ That's weird. I'd just recently watched a
 apparently there is a big Mormon presence there, and they fell into
 some trouble w drug gangs. Mitt's family is from this region.. Anyway
 I thought docu was going to say after losing some members to gang
-killing they'd turn the other cheek, while reaching to that can
+killing they'd turn the other cheek while reaching to that can
 of... WHOOP-ASS!  No. That didnt happen, docu showed bunch of guard
 posts..  whatever.
 
