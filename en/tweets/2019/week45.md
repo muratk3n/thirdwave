@@ -97,16 +97,18 @@ Don't make kick your ass TG.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Guardian Media Group,publisher of the Guardian and Observer,sold the remaining 50.1% of its stake to Apax Partners,who now own 100%. Whatever the Guardian used to be in terms of being &#39;left wing&#39;, it certainly isn&#39;t now. A quick look at &#39;Apax Partners&#39; will immediately show that!</p>&mdash; TheMasses (@HopePM4) <a href="https://twitter.com/HopePM4/status/1192110609984299008?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-6 19:43:48*
+*2019-11-6 15:27:24*
 
 ---
-
-I guess I was thinking of chiseling as in scraping.
 
 From Urbandictionary: "'Fo shizzle my nizzle' means 'I concur with you
 whole heartedly my Africian american brother'" 
 
-*2019-11-6 15:17:32*
+*2019-11-6 15:17:3*
+
+I guess I was thinking of chiseling as in scraping.
+
+*2019-11-6 15:19:2*
 
 ---
 
@@ -115,7 +117,7 @@ lay down the law. Bring in the hurt. How to chizzle the shizzle
 
 (I dont even know what that means)
 
-*2019-11-6 15:17:32*
+*2019-11-6 15:18:0*
 
 ---
 
@@ -124,14 +126,6 @@ Taking little samples of the Rosenbrock bitch
 <img src="https://pbs.twimg.com/media/EIsG3lBXkAIL0XA?format=png&name=small" width="400"/>
 
 *2019-11-6 15:17:32*
-
----
-
-Number One, I order you go take a Number Two. 
-
-\#butthead \#trek
-
-*2019-11-6 14:30:48*
 
 ---
 
