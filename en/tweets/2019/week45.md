@@ -464,6 +464,12 @@ agree on one thing – the vote should never have happened"
 
 ---
 
+I bet mainland Chink history is full of some dumbass shit too.
+
+*2019-11-4 22:3:50*
+
+---
+
 I hear Russkie narrative is quite moronic too. Talked abt it briefly
 [here](https://muratk3n.github.io/thirdwave/en/2014/10/alex.html)
 
