@@ -473,8 +473,8 @@ show you a winner most of the time (if a loser, u redirect it to
 behing held down, it's never your fault). "Tigger came from Central
 Asia" says one -completely false, some punk motherfuckers came but
 melted away- which probably has to do wanting to associate with
-something outside the current own region, and conveniently blame the
-loss of Balkans, and other regional troubles on "others" who were "the
+something outside the current region, and conveniently blame the loss
+of Balkans, and other regional troubles on "others" who were "the
 wrong Turks anyway".
 
 I think psychologists are wasting their time analyzing singular
