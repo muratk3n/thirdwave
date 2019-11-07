@@ -108,6 +108,8 @@ whole heartedly my Africian american brother'"
 
 *2019-11-6 15:17:3*
 
+---
+
 I guess I was thinking of chiseling as in scraping.
 
 *2019-11-6 15:19:2*
