@@ -258,7 +258,7 @@ That’s our Brexit policy"
 
 ---
 
-That looks phenomenal. I'd want one and live out of that thing.
+That looks fantastic. Awesome tech.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[<a href="https://twitter.com/hashtag/HMG?src=hash&amp;ref_src=twsrc%5Etfw">#HMG</a>] Introducing the first-ever all-hydrogen Hyundai HDC-6 Neptune truck, showing a possible future of hydrogen fuel-cell commercial vehicles. <a href="https://twitter.com/hashtag/Hyundai?src=hash&amp;ref_src=twsrc%5Etfw">#Hyundai</a> <a href="https://twitter.com/hashtag/NEPTUNE?src=hash&amp;ref_src=twsrc%5Etfw">#NEPTUNE</a> <a href="https://twitter.com/hashtag/FCEV?src=hash&amp;ref_src=twsrc%5Etfw">#FCEV</a> <a href="https://twitter.com/hashtag/CommercialVehicle?src=hash&amp;ref_src=twsrc%5Etfw">#CommercialVehicle</a> <a href="https://twitter.com/hashtag/NACVShow2019?src=hash&amp;ref_src=twsrc%5Etfw">#NACVShow2019</a> <a href="https://t.co/aw4a4IvBbR">pic.twitter.com/aw4a4IvBbR</a></p>&mdash; Hyundai Motor Group (@HMGnewsroom) <a href="https://twitter.com/HMGnewsroom/status/1191202455242952704?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -476,11 +476,10 @@ I hear Russkie narrative is quite moronic too. Talked abt it briefly
 It's all about finding that happy path it seems, a narrative that will
 show you a winner most of the time (if a loser, u redirect it to
 behing held down, it's never your fault). "Tigger came from Central
-Asia" says one -completely false, some pygmy motherfuckers came but
-melted away- which probably has to do wanting to associate with
-something outside the current own region, and conveniently blame the
-loss of Balkans, and other regional troubles on "others" who were "the
-wrong Turks anyway".
+Asia" says one -completely false, some came but melted away- which
+probably has to do wanting to associate with something outside the
+current own region, and conveniently blame the loss of Balkans, and
+other regional troubles on "others" who were "the wrong Turks anyway".
 
 I think psychologists are wasting their time analyzing singular
 people. They should focus on national psyches exclusively. There is
