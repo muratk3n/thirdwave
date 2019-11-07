@@ -204,8 +204,8 @@ either, clearly, so why do they keep making them?
 ---
 
 Faux innovators of Silicon Valley.. who cares about what they think of
-anything? Did Paypal revolutionize electronic payments? If it did why
-there would be an entire crypto space trying solve the same problem?
+anything? Did Paypal revolutionize electronic payments? If it did
+would there be an entire crypto space trying solve the same problem?
 
 "@mozilla
 
@@ -316,10 +316,11 @@ we realise: it is sexy, says German economy minister @peteraltmaier"
 
 ---
 
-Not surprising at all.. rats can walk, navigate, which means they can
-form control actions between visual output, goal, obstacles. Pushing
-against the ground for actuating is not that different (in fact
-harder) than turning some wheel and pressing a pedal.
+Not surprising at all.. many animals can walk, navigate, which means
+they can form control actions between visual output, goal,
+obstacles. Pushing against the ground for actuating is not that
+different (in fact harder) than turning some wheel and pressing a
+pedal.
 
 "[R]ats learned to drive tiny cars for science"
 
