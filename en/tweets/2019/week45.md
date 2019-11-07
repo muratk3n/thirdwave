@@ -502,9 +502,8 @@ bullshit, it is top-down, created by others. As Gellner
  served as well [..].
 
 But some countries are better at this than others. The US narrative
-taught in schools isn't that bad. "Why did we seperate from
-England?". "Because ruling from a distance was not effective". It is
-not non-sense.
+taught in schools.. "Why did we seperate from England?". "Because
+ruling from a distance was not effective". It is not non-sense.
 
 Here is what TR text says abt it lost in WWI. Uh, like, our big ally
 Germany lost, so we lost, indirectly, by *association*.
@@ -602,7 +601,7 @@ era.
 
 ---
 
-Hah. In TV show *Stargate* one of the worst villians, named Aschen, is
+Hah. In TV show *Stargate* one of the worst villians, named Aschen, are
 space-faring farm folk. They biologically exterminate entire planets,
 and use it as farm land. Some Roman level genocidal shit.
 
