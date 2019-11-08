@@ -315,7 +315,7 @@ we realise: it is sexy, says German economy minister @peteraltmaier"
 ---
 
 Not surprising at all.. many animals can walk, navigate, which means
-they can form control actions between visual output, goal,
+they can form control actions between visual input, goal,
 obstacles. Pushing against the ground for actuating is not that
 different (in fact harder) than turning some wheel and pressing a
 pedal.
