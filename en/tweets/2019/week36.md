@@ -600,6 +600,8 @@ celebrate the departure of these tedious puritanical nutjobs?"
 
 ---
 
+<a name='corr'/>
+
 Interesting. Looking at the [Politico
 poll](https://morningconsult.com/2020-democratic-primary/) (taken in
 early primary states, which includes just voters who live in Iowa, New
