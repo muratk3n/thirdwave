@@ -856,6 +856,8 @@ freedom, and thus cannot be punished for seeking it"
 
 ---
 
+Medicare for Those Who Want It.. Haha.. Was that a Bootyjudge plan?
+
 Medicare For Libertards.
 
 Medicare For Freedom
