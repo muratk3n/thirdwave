@@ -964,15 +964,15 @@ Zero emission, zero noise, what's not to like?"
 
 ---
 
-@knighton_bob
+"@knighton_bob
 
-Honestly my only academic goal is to become Edward Witten
+Honestly my only academic goal is to become Edward Witten"
 
 *2019-11-8 14:52:13*
 
 ---
 
-One more lane will fix it 
+"One more lane will fix it "
 
 [Link](https://twitter.com/urbanthoughts11/status/1191295205187686400)
 
@@ -1010,22 +1010,21 @@ z, z^z , z^z^z, ..."
 
 ---
 
-
-@BESTmag_news @ESS_info secures $30M in new funding as it accelerates
+"@BESTmag_news @ESS_info secures $30M in new funding as it accelerates
 towards its 1GWh iron flow battery technology goal— expansion requires
 an "extremely low capital costs to set up the manufacturing of battery
-modules compared to lithium-ion" say the firm
+modules compared to lithium-ion" say the firm"
 
 *2019-11-8 6:0:30*
 
 ---
 
-@stacyherbert
+"@stacyherbert
 
 Las Vegas ‘bans’ homeless from sleeping on the street. If caught
 violating ban, you get $1,000 fine or six months prison? So obviously
 it would be prison for which taxpayers would have to pay @ $25,000
-... 🤔 #math
+... 🤔 #math"
 
 *2019-11-8 5:53:32*
 
@@ -1063,8 +1062,8 @@ for"
 
 ---
 
-Japan is building the world's largest #hydrogen plant in #Fukushima as
-part of efforts to create a hydrogen-fueled society
+"Japan is building the world's largest #hydrogen plant in #Fukushima as
+part of efforts to create a hydrogen-fueled society"
 
 [Link](https://mobile.twitter.com/JapanGov/status/1192444078299832320)
 
