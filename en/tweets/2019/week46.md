@@ -869,7 +869,7 @@ can fit in.
 
 Medicare for Those Who Want It.. Haha.. Was that a Bootyjudge plan?
 
-Medicare For Libertards.
+Medicare For Libertards
 
 Medicare For Freedom
 
