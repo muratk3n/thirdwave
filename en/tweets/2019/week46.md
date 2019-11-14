@@ -863,7 +863,7 @@ that million dollar insurance to helicopter in a doctor for common
 cold.
 
 Sshhhh, but let's not talk about that stuff, we'll sell this issue
-using libertard overtones, choice, the market, etc..
+using libertard overtones, choice, the market, "freedom", etc..
 
 *2019-11-8 20:22:37*
 
