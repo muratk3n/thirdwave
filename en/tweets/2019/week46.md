@@ -856,6 +856,16 @@ freedom, and thus cannot be punished for seeking it"
 
 ---
 
+Medicare For Libertards.
+
+Medicare For Freedom
+
+Medicare For Loaded People But Ashamed To Say So
+
+*2019-11-8 20:22:37*
+
+---
+
 Cant believe with uneven coverage, out-of-control costs, defenders of
 status-quo think they are the grown-ups in the room. Maybe they worry
 with private coverage being replaced by gov, they wont be able to get
