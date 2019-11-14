@@ -40,13 +40,13 @@ I've already lost 200km+ of range due to cold weather"
 
 [Link](https://twitter.com/kerooke/status/1194350147486044160)
 
-*2019-11-13 20:12:47*
+*2019-11-13 20:32:3*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lol, let&#39;s face it: at this point <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> is just a trading sardine on an air pocket, with only the dumbest of the dumb (that would be YOU, Baillie Gifford) thinking it&#39;s anything more than that.</p>&mdash; Mark B. Spiegel (@markbspiegel) <a href="https://twitter.com/markbspiegel/status/1194583824056934400?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-13 20:12:47*
+*2019-11-13 20:22:7*
 
 ---
 
@@ -56,7 +56,7 @@ is worrying, for leakage.  I stick to the position where fossil
 converted into H2 at the source, then all the way down the line fuel
 stays clean. This is the safest choice.
 
-*2019-11-13 20:12:47*
+*2019-11-13 20:15:28*
 
 ---
 
@@ -272,7 +272,7 @@ Japan for use in fuel cell electric vehicles and power generation"
 
 [Link](https://www.vice.com/en_us/article/ywajkw/todays-electric-car-batteries-will-be-tomorrows-e-waste-crisis-scientists-warn)
 
-*2019-11-11 22:24:2*
+*2019-11-11 22:34:33*
 
 ---
 
@@ -878,7 +878,7 @@ cold.
 Sshhhh, but let's not talk about that stuff, we'll sell this issue
 using libertard overtones, choice, "freedom", etc..
 
-*2019-11-8 20:22:37*
+*2019-11-8 20:35:14*
 
 ---
 
@@ -887,7 +887,7 @@ advisor.
 
 And of course he is centrist twat, against M4A. 
 
-*2019-11-8 20:22:37*
+*2019-11-8 20:30:57*
 
 ---
 
@@ -901,7 +901,7 @@ unknown (!), and the next mayor pulled the plug.
 You got off easy Chicago - NY was not [so
 lucky](https://www.wkbw.com/news/local-news/new-allegations-against-telsas-solarcity-deal).
 
-*2019-11-8 20:22:37*
+*2019-11-8 20:24:34*
 
 ---
 
