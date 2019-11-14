@@ -513,6 +513,19 @@ win a state-wide race. His record as mayor is not exactly stellar"
 
 ---
 
+
+That's hilarious
+
+"@lopp
+
+In Iceland it is not a crime to escape from prison: the law recognizes
+that inmates, like all human beings, are naturally entitled to
+freedom, and thus cannot be punished for seeking it"
+
+*2019-11-10 19:18:54*
+
+---
+
 "@ProfRayWills
 
 Unbelievable
@@ -841,18 +854,6 @@ even worse, imploring ppl in the DP to be more centrist just so *they*
 can fit in.
 
 *2019-11-8 21:11:56*
-
----
-
-That's hilarious
-
-"@lopp
-
-In Iceland it is not a crime to escape from prison: the law recognizes
-that inmates, like all human beings, are naturally entitled to
-freedom, and thus cannot be punished for seeking it"
-
-*2019-11-8 20:25:54*
 
 ---
 
