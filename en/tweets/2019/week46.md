@@ -1,5 +1,15 @@
-# Tweets - Log
+# Tweets - Week 46
 
+Boom.
+
+"Leaked documents from the Ukrainian General Prosecutor’s office
+indicate complex money transfers from foreign sources into the control
+of a “slush fund” owned and operated by Devon Archer, John Kerry
+Senior, John Kerry Junior, Heinz Jr, and Hunter Biden."
+
+*2019-11-14 11:21:28*
+
+---
 
 Store energy, desalinate at the same time. Crazy.
 
