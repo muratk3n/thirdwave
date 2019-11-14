@@ -366,7 +366,7 @@ Seinfeld is right - Bernie Mac was one of the best. Definitely top 5.
 
 ---
 
-Number One, I order you go take a Number Two.
+Number One, I order you to go take a Number Two.
 
 <img width="250" src="https://pbs.twimg.com/media/EJE5HXjW4AIRXWq?format=png&name=small"/>
 
