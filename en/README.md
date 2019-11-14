@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+14/11 - [Tweets - Week 46](/tweets/2019/week46.md)
+
 7/11 - [Tweets - Week 45](/tweets/2019/week45.md)
 
 7/11 - [A Post-Scarcity World](/2019/11/post-scarcity.md)
@@ -23,7 +25,6 @@ despite the best efforts of people working in them.
 
 24/10 - [Tweets - Week 43](/tweets/2019/week43.md)
 
-17/10 - [Tweets - Week 42](/tweets/2019/week42.md)
 
 ## For Members
 
