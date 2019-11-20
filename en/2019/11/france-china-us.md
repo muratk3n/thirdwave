@@ -1,11 +1,11 @@
 # France - China - US
 
+Friedman, *America's Secret War*
+
 Donald Rumsfeld had said, just before September 11, that the
 United States was going to reorient its entire defense policy to focus
 on Asia—which meant to counter the growth of Chinese power.  This was
 the last thing China needed.
-
-Friedman, *America's Secret War*
 
 In that sense, September 11 was a welcome relief for China, since it
 diverted American attention and relieved pressure on China. At the
