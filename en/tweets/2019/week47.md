@@ -251,7 +251,7 @@ a natural result of its decay. Now it's time to tune; fixing the
 narrative, admitting to past mistakes, and handle problems within
 borders (they *all* come from within the borders).
 
-*2019-11-19 16:36:29*
+*2019-11-19 16:50:3*
 
 ---
 
@@ -259,14 +259,14 @@ The narrative defines how the state sees its citizens and how it will
 act towards them. So broad stupidity at this level needs urgent care,
 sadly a chronic condition in Russia, Tiggerland and similar places.
 
-*2019-11-19 16:36:29*
+*2019-11-19 16:44:2*
 
 ---
 
 Culture is not narrative. The latter can be changed, and quite
 fast. 
 
-*2019-11-19 16:36:29*
+*2019-11-19 16:42:53*
 
 ---
 
@@ -278,15 +278,16 @@ disturbs the newcomers into the fold from the periphery, they'll feel
 like a dumbass when they arrive and find out central narrative is not
 taken seriously.
 
-(The transmission of the NN is kind of like the telephone game - but in
-reverse. As the message gets to the edges, it gets stronger not
+(The transmission of the NN is kind of like the telephone game - but
+in reverse. As the message gets to the edges it gets stronger, not
 weaker. The poor sod at the end of the line believes the shit, and
-believes hard. In the center, ppl are much more fluid with NN,
-especially if it is moronic)
+believes hard. Exactly as it's written in the beginning of the
+line. In the center, ppl are much more fluid with NN, especially if it
+is moronic)
 
 So be truthful. That is the best strategy.
 
-*2019-11-19 16:36:29*
+*2019-11-19 16:39:2*
 
 ---
 
