@@ -1049,8 +1049,8 @@ more. Look at Jesus, a great leftist politician. Very popular.
 
 While Bolivia having half the world's lithium (used in bitch
 batteries) might not have directly created this mess, it surely
-contributed to some unrest. We need to do more to communicate the need
-for renewable fuels that are not based on rare earth materials.
+contributed to some unrest. We need renewable fuels that are not based
+on rare earth materials.
 
 *2019-11-14 23:34:4*
 
