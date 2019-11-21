@@ -398,7 +398,7 @@ started expanding again 🤔
 
 Not QE
 
-<img src="https://pbs.twimg.com/media/EJrpSPqWwAATQ7R?format=jpg&name=medium" width="500"/>
+<img src="https://pbs.twimg.com/media/EJ4hgz4WkAAOmLB?format=jpg&name=medium" width="500"/>
 
 *2019-11-18 23:19:1*
 
