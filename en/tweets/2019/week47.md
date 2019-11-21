@@ -1034,14 +1034,10 @@ chose not to.
 ---
 
 It is also looking like Morales might have wanted to hold on to power
-a little too long, somewhat undemocratically. Not cool. Left needs to
-stand for democracy, and know when it's time to go.
+a little too long, somewhat undemocratically. 
 
 Sure it's hard especially given so many previous US interventions in
-the area.
-
-Lula is the model. Was wronged, increased his popularity even
-more. Look at Jesus, a great leftist politician. Very popular.
+the area. Respect the process.
 
 *2019-11-14 23:44:2*
 
