@@ -294,8 +294,8 @@ class citizens.
 
 ---
 
-Recent rediscovery of eigenvector calculation from
-eigenvalues.. [Dude](https://twitter.com/AlanEdelman1/status/1195819794609659906)
+Was big news on the recent (re)discovery of eigenvector calculation
+from eigenvalues.. This [dude](https://twitter.com/AlanEdelman1/status/1195819794609659906)
 wrote the code in a fringe language. Here is one in Py.
 
 ```python
