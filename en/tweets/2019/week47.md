@@ -618,9 +618,7 @@ on his HTML, took the geo coords as text, wrote them in a GPX file
 download, view, store locally etc.
 
 Files, folders, command-line - that's what it's all about. The Unix
-Way.
-
-That's what it's all about. K.I.S.S.
+Way. 
 
 *2019-11-18 11:34:28*
 
@@ -629,10 +627,10 @@ That's what it's all about. K.I.S.S.
 True on the balance of manufacturing and services. There is a
 hard-limit to how much of an economy can be manuf. Most countries
 already produce more shit than its citizens can buy. For US case
-"bring back manufacturing" is fine (to keep know-how in-house, even
-that know-how already existed, plus labor will not increase as a
-result), but still, US will not be a "manufacturing economy" at the
-end. Services will dominate.
+"bring back manufacturing" is fine (to keep know-how in-house, for US
+tho that know-how already existed, plus labor will not increase as a
+result), but US will not be a "manufacturing economy" at the
+end. Services will dominate. 
 
 [Link](https://youtu.be/Qc3ZFuUHXsU?t=766)
 
@@ -643,7 +641,7 @@ end. Services will dominate.
 We do not need vast lands for crops anymore. With vertical farming 1
 can make better use of space. Plus we already make better use of
 existing space (20-fold increase). Then the space-agro-mafia equation
-no longer exists.
+no longer exists. 
 
 *2019-11-18 10:59:42*
 
@@ -651,9 +649,9 @@ no longer exists.
 
 AI Aliens. Yes!
 
-(Was the title of a YT video in my feed)
-
 👽👽👽👽🤖🤖🤖🤖🤖
+
+(Was the title of a YT video in my feed)
 
 *2019-11-18 10:29:49*
 
