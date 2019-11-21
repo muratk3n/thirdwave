@@ -1039,6 +1039,9 @@ a little too long, somewhat undemocratically.
 Sure it's hard especially given so many previous US interventions in
 the area. Respect the process.
 
+Lula is a good example. He governed, carried legitimacy, was wronged,
+but now more popular than ever.
+
 *2019-11-14 23:44:2*
 
 ---
