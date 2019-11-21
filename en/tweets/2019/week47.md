@@ -420,7 +420,7 @@ Jupiter's moon Europa.
 
 ---
 
-If complete renewable fuel transition is complete I'd want a
+If complete renewable fuel transition is done I'd want a
 self-sustaining caravan (PV-to-gas).
 
 *2019-11-18 20:25:13*
