@@ -331,6 +331,12 @@ print (evecs[j,i]**2)
 
 ---
 
+FDR did deliver, helped a lot of people, and ppl voted for the man until he died.
+
+*2019-11-19 6:42:1*
+
+---
+
 They will be whereever the f#$k you lead them to be at.
 
 That means leadership needs to make a decision to present a
