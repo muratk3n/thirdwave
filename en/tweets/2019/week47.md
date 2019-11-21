@@ -651,7 +651,7 @@ no longer exists.
 
 AI Aliens. Yes!
 
-(Just saw the title of a YT video, did not watch)
+(Was the title of a YT video in my feed)
 
 👽👽👽👽🤖🤖🤖🤖🤖
 
@@ -673,7 +673,7 @@ Smooth over the data, singular days can be noisy. What does the
 trend say? I [looked](https://muratk3n.github.io/thirdwave/en/2018/01/january-temperatures.html)
 at NYC January temparatures, the trend is up.
 
-"But how come it is still cold? It is getting colder. Coldest day ever today"
+"Denier: But how come it is still cold? It is getting colder. Coldest day ever today"
 
 *2019-11-17 23:57:48*
 
@@ -703,7 +703,7 @@ Brunkebergstorg 11 103 37 Stockholm Sweden
 
 59.331783, 18.065663
 
-I am even giving you the address here.
+I am even giving you the address.
 
 Drop. THE BOMB.
 
@@ -816,7 +816,7 @@ Forbes"
 
 ---
 
-TV show Star Trek Enterprise (not TNG, not DS9, not Voyager, the other
+TV show *Star Trek Enterprise* (not TNG, not DS9, not Voyager, the other
 one, with Bakula) aired on Sep 2001, two weeks after 9/11. The event
 probably cut the legs from under the show little bit. And I bet
 C. Trinnier was cast to be a stand-in for W (casting decision made
@@ -912,7 +912,7 @@ decentral economy and innovation work.
 
 Stoller, *Goliath*
 
-In the 1940s, the FCC and the Department of Justice’s Antitrust
+"In the 1940s, the FCC and the Department of Justice’s Antitrust
 Division split up RCA, which owned two national broadcasters, the
 National Broadcasting Company (NBC) and the Blue Network. The Blue
 Network was spun off, and renamed the American Broadcasting Company
@@ -925,7 +925,7 @@ independent filmmakers and artists to create and sell their work, and
 broke the ability of movie moguls to control the careers of
 actors. New Dealers sought to ensure that communications technology,
 whether in film, TV, radio, or over the phone, would not be controlled
-by a monopolistic or coercive business model.
+by a monopolistic or coercive business model"
 
 *2019-11-16 14:19:40*
 
