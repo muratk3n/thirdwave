@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+21/11 - [Tweets - Week 47](/tweets/2019/week47.md)
+
 14/11 - [Tweets - Week 46](/tweets/2019/week46.md)
 
 7/11 - [Tweets - Week 45](/tweets/2019/week45.md)
@@ -22,8 +24,6 @@ despite the best efforts of people working in them.
 1/11 - [Hacking the Constitution](/2019/11/constitution.md)
 
 1/11 - [Faux Ambassadors ](/2019/11/faux-ambassadors.md)
-
-24/10 - [Tweets - Week 43](/tweets/2019/week43.md)
 
 
 ## For Members
