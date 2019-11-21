@@ -1,9 +1,9 @@
 # Tweets - Week 47
 
-Dude slams McConnell now, but after 2008 he was the onee who put his
-party on that multicultural, multiracial diet bcz the idea was "that's
-where the voters were". Turned out some1 could mobilize, sell other
-configurations..
+Dems slam McConnell now, but after 2008 he was the one who put his
+party on that multicultural, multiracial coalition diet (bcz the idea
+was "that's where the voters were"). Turned out some1 could mobilize,
+sell other configurations, focusing on econ issues. 
 
 *2019-11-21 8:52:2*
 
