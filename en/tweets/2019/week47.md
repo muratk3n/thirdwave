@@ -1,79 +1,5 @@
 # Tweets - Week 47
 
-Dems slam McConnell now, but after 2008 he was the one who put his
-party on that multicultural, multiracial coalition diet (bcz the idea
-was "that's where the voters were"). Turned out some1 could mobilize,
-sell other configurations, focusing on econ issues. 
-
-*2019-11-21 8:52:2*
-
----
-
-Stoller, *Goliath*
-
-"Though mainstream economists didn’t care about Hayek’s views, he and
-Simons began collaborating on the possibility of putting together the
-Free Market Study. Both men were fiercely anticorporate, seeing
-private corporate power as an equally dangerous form of central
-planning"
-
-*2019-11-21 8:51:55*
-
----
-
-Stoller, *Goliath*
-
-"Still, as exciting as the project might be in 1946, returning to a
-pre–New Deal world seemed impossible. To reconstruct the system over
-which Andrew Mellon reigned required an architecture with three
-components.
-
-The first component was the ability to rule an entire market through a
-specific corporate monopoly, or shared control of a market through a
-small set of corporations (which was known as an oligopoly rather than
-a monopoly). Each monopolistic company would be a mini-government,
-governing the prices, quality, labor, and supply chain of an
-industrial product or service, such as aluminum, oil, steel, ships,
-and magnesium. But during the New Deal, robust antitrust enforcement
-kept concentration and monopolization at bay.
-
-Each company had in turn been controlled by one of a small number of
-oligarchs or banks, such as the House of Morgan, DuPont, Rockefeller,
-or Mellon himself. This was done through the second component, the
-connective power that turned each monopoly into a networked whole,
-with mechanisms to discipline wayward corporate structures. This was
-Wall Street, with tools such as holding companies, interlocking
-directorates, stock watering, debt issuance, and various forms of
-financial instruments. Wall Street, however, was deeply constrained by
-financial rules.
-
-The third piece was the rhetorical machinery, a set of intellectual
-concepts and political institutions that would protect financial
-empires from democratic influence. Money would be necessary, money to
-develop and sell this ideology, not only to fund new academic
-departments, but to buy politicians and lawyers, to influence voters
-and newspapers, to set up institutions to persuade judges and
-professors. Even more critical was rhetoric to explain the world in
-ways that would organize citizens to seek not freedom from capital,
-but freedom ​for capital. But this was difficult to imagine, as New
-Dealers seemed to rule the centers of cultural capital, the newspapers
-and academic institutions.
-
-It was their task to imagine it nonetheless. They saw themselves as up
-against the world, and they were going to conquer it. The Free Market
-Study, and then the Antitrust Project, would serve as the intellectual
-testing ground for the set of ideas that would eventually burst out of
-the academy and generate a political and financial revolution"
-
-*2019-11-21 8:51:45*
-
----
-
-Corbyn's glasses look dorky. I'd lose them \#ukdebate
-
-*2019-11-20 14:8:56*
-
----
 
 Reminder: The largest software project ever created by mankind, Linux,
 was not built using object-oriented programming. This ain't the
@@ -148,7 +74,7 @@ Kraut.. BW's childhood was shortly after the end of WWII, mom is
 German, so they were apparently harrassed little bit, called names,
 the "N-word" dropped on.. A somber BW comments in an interview now "it
 was racism, really...". He said this in a such soft understated tone
-of his tho, it was funny..
+of his, it was hilarious..
 
 *2019-11-20 9:37:16*
 
@@ -164,7 +90,7 @@ And he feels right at home in the Democratic Party.
 
 While activists are thrown out of courtrooms where he is present.
 
-Great.
+Keep the status quo - it's great.
 
 "George E. Norcross .. is an American businessman and a Democratic
 Party leader in New Jersey. Norcross is executive chairman of Conner
@@ -191,7 +117,7 @@ and affiliated organizations in Camden to the tune of $1.1 billion"
 Right - they could even extract space tech from him if he has been
 captured badly enough. If US wants to keep its lead in space, I'd
 watch out who is in the list of favored companies. He could take from
-NASA, and the Chinese could take from him.
+NASA, then the Chinese take from him.
 
 "@georgia_orwell_
 
@@ -204,9 +130,6 @@ more about what is going on in the Xinjiang region and HK"
 
 ---
 
-Yeah that needs to end. In terms of the whole lifecycle a BEV might be
-as environmentally damaging as a fossil fuel car anyway.
-
 "A recent study by the nonpartisan Congressional Research Service
 shows that nearly 80 percent of the maximum $7,500 federal tax credit
 for electric vehicles now goes to families earning more than $100,000"
@@ -217,9 +140,9 @@ for electric vehicles now goes to families earning more than $100,000"
 
 ---
 
-Face of the moon is full of holes, bcz of small meteors. Had me
-thinking what if one hit you while u r on the Moon? No atmo no
-protection. U'd get it right on the head bro..! Not cool.
+Face of the moon is full of holes, bcz of small meteors. What if one
+hit you while u r on the Moon? No atmo no protection. U'd get it right
+on the head bro..! :|
 
 *2019-11-19 22:52:43*
 
@@ -229,7 +152,7 @@ Besides stuff that works and known it works that is passed down, I
 care nothing abt the past. All the historical buildings could
 collapse, I would not bat an eye.
 
-I dont think ppl want to live with so much of this shoddy, crypt-like
+I dont think ppl want to live with so much of this shoddy, crypty
 "history" either. Why would Egyptians build an entire new Cairo
 outside the 'old' Cairo now?  Dont they loove their history? No. Noone
 gives a shit. Some f--ing billionaire (of his time) built some shoddy
