@@ -594,18 +594,15 @@ which is non-visual. Coding, as in "code" is something shorter, "code
 for something else".
 
 In unis, the culture is all about open source, and Unix. When I
-started consulting, the culture was the same. Microsoft tools,
-projects were seen as bastard children, especially for server-side
-stuff.
+started consulting, same culture. Microsoft tools, projects were seen
+as bastard children, especially for server-side stuff.
 
 But I was curious, so I joined a MS Solution Provider to see how they
-work. Picked one that had received an award as top MSSP in that
-particular year.
-
-They were using something called MTS, programmers drop a 'component'
-in a visual tool, becomes a green ball in the tool, and when the
+work. Picked one that had received an award as top MSSP actually. At
+the time they were using something called MTS, programmers drop a
+'component' in a visual tool, becomes a green ball, and when the
 component is called, the green ball would just start rotating. I was
-like you mo..f..kas have no idea how this shit works do you?
+like you mo..f..kas have no idea how this works do you? 
 
 *2019-11-18 11:39:2*
 
