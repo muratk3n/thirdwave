@@ -1020,7 +1020,7 @@ measures on climate change - CNN
 
 Maduro is still a punk.
 
-*2019-11-14 23:30:23*
+*2019-11-14 23:50:8*
 
 ---
 
@@ -1029,7 +1029,7 @@ faced with massive protests the bureucracy got scared, and removed
 him. They should've returned to democracy afterwards, unfortunately
 chose not to.
 
-*2019-11-14 23:30:23*
+*2019-11-14 23:46:3*
 
 ---
 
@@ -1043,7 +1043,7 @@ the area.
 Lula is the model. Was wronged, increased his popularity even
 more. Look at Jesus, a great leftist politician. Very popular.
 
-*2019-11-14 23:30:23*
+*2019-11-14 23:44:2*
 
 ---
 
@@ -1052,7 +1052,7 @@ batteries) might not have directly created this mess, it surely
 contributed to some unrest. We need to do more to communicate the need
 for renewable fuels that are not based on rare earth materials.
 
-*2019-11-14 23:30:23*
+*2019-11-14 23:34:4*
 
 ---
 
@@ -1077,7 +1077,7 @@ YoY earnings are flat. 90% of SP500 published, 10% more to go.
 ---
 
 Mechanical pencil that has a tip like wood pencil. 0.x mechs break too
-e-z.
+e-z. This thing is like a rock
 
 <img width="400" src="https://pbs.twimg.com/media/EJVFx0cW4AA_u6w?format=png&name=small"/>
 
@@ -1117,8 +1117,8 @@ up to Number #1, currently at #2.
 
 ---
 
-I get a cheap phone and Termux works on it like a snap. Seeing Unix
-command line on my phone is kick ass.
+I get a cheap phone and Termux works on it like a snap. Unix command
+line on smartphone - kick ass.
 
 *2019-11-14 11:8:41*
 
@@ -1146,7 +1146,7 @@ can't be returned to again.  So unearth the phrase, and shove it up
 his ass. B4 election ends, every1 should know US will sell UK
 chlorinated chicken.
 
-*2019-11-14 9:22:19*
+*2019-11-14 9:30:13*
 
 ---
 
