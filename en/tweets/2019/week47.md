@@ -290,8 +290,9 @@ So be truthful. That is the best strategy.
 
 ---
 
-I see; I might have to update the Hessian during GD procedure instead
-of recalculating it from a new quad approx at each new point.
+There are methods that can update the Hessian during min opt procedure
+instead of recalculating it from a new quad approx at each new
+point. Nice. Even starting from ident matrix they work.
 
 *2019-11-19 16:36:29*
 
@@ -421,7 +422,7 @@ will lose in the long run.
 
 ---
 
-Yes. The only solution that can solve steel. 
+Yes. The only green solution that can solve steel. 
 
 "It’s the most nettlesome problem in the quest to ditch fossil fuels:
 how can you get thousand-degree heat used in factory furnaces without
@@ -474,7 +475,7 @@ Not QE
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For those who say stocks follow earnings, in 2019 US EPS are down for the year and the S&amp;P is up 24%</p>&mdash; zerohedge (@zerohedge) <a href="https://twitter.com/zerohedge/status/1196401743443177472?ref_src=twsrc%5Etfw">November 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-18 23:6:50*
+*2019-11-18 23:10:5*
 
 ---
 
@@ -533,7 +534,7 @@ yardstick for others to judge a company on. Plus all that weird spending.
 
 ---
 
-Oat based milk? 👍
+Oat based milk 👍
 
 [Link](https://youtu.be/3FcNucHbMck)
 
@@ -567,15 +568,15 @@ to bring the price down to just $7 to $8 per pound in a few years"
 
 ---
 
-Nice.. film named *Artifishal*, about rivers, and the fight for the
-future of wild fish.
+Film called *Artifishal*, about rivers, and the fight for the future
+of wild fish. 
 
 *2019-11-18 14:10:58*
 
 ---
 
-Full-blown Python science stack on my phone. The cheapest Samsung, it
-runs everything. 
+Full-blown Python science stack on pers phone. Cheapest Samsung, runs
+everything.
 
 <img width="300" src="https://pbs.twimg.com/media/EJpTGqBX0AEIgNp?format=jpg&name=small"/>
 
@@ -602,7 +603,7 @@ work. Picked one that had received an award as top MSSP actually. At
 the time they were using something called MTS, programmers drop a
 'component' in a visual tool, becomes a green ball, and when the
 component is called, the green ball would just start rotating. I was
-like you mo..f..kas have no idea how this works do you? 
+like you mo..f..kas have no idea how this shit works do you?
 
 *2019-11-18 11:39:2*
 
