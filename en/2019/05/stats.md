@@ -155,9 +155,9 @@ df3['unempl'] = 100.0 - df3.CIVPART
 ```python
 plt.figure(figsize=(14, 5))
 plt.subplot(121)
-df3['wagegrowth'].plot()
+df3['wagegrowth'].plot(title='Wave Growth')
 plt.subplot(122)
-df3['unempl'].plot() 
+df3['unempl'].plot(title='Unemployment') 
 plt.savefig('unemploy.png')
 ```
 
@@ -190,9 +190,9 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-07-01    51.2
 2019-08-01    49.1
 2019-09-01    47.8
+2019-10-01    48.3
 Name: PMI, dtype: float64
 ```
 
@@ -245,7 +245,6 @@ print (df.tail(10))
 ```text
             Value
 Date             
-2018-12-31  1.910
 2019-01-31  1.551
 2019-02-28  1.520
 2019-03-31  1.863
@@ -255,6 +254,7 @@ Date
 2019-07-31  1.811
 2019-08-31  1.750
 2019-09-30  1.711
+2019-10-31  1.764
 ```
 
 <a name="#cpyoy"></a>
@@ -282,11 +282,11 @@ print (df.tail(5).epsyoy)
 
 ```text
 Date
-2018-11-30    18.339070
-2018-12-31    18.233494
-2019-01-31    17.267618
-2019-02-28    15.960355
-2019-03-31    14.290529
+2019-02-28    15.965167
+2019-03-31    14.288120
+2019-04-30    12.103388
+2019-05-31    10.383361
+2019-06-30     8.653846
 Name: epsyoy, dtype: float64
 ```
 
