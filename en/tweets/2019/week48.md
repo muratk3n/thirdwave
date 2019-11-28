@@ -254,6 +254,27 @@ China on track to increase production of hydrogen fuel-cell vehicles by 53% in 2
 
 ---
 
+
+Very important point. Wout "free stuff" (Linux) libertard goldcucks
+would not have the "commercial stuff" (Android phones). iPhones have
+similar levels of free, publicly-funded research in them. 
+
+*2019-11-26 13:41:5*
+
+---
+
+So bug fixes, new features, for many projects were flying through the
+Internet over this mechanism. Apache (>50% of web servers today),
+Linux (the core of all Android phones), u name it.
+
+Text based. Code. Not rotating balls. That's how it works.
+
+[Link](https://linuxacademy.com/blog/linux/introduction-using-diff-and-patch/)
+
+*2019-11-26 13:31:4*
+
+---
+
 A lot of open source in the early days worked through "patch
 files". Say I have a file (it could be a piece of code), `originalfile`
 
@@ -312,25 +333,10 @@ These still are just a few words.
 One word is worth thousand pictures
 ```
 
-Very important point. Wout "free stuff" (Linux) libertard goldcucks
-would not have the "commercial stuff" (Android phones). iPhones have
-similar levels of free, publicly-funded research in them. 
-
-*2019-11-26 13:1:58*
+*2019-11-26 13:10:8*
 
 ---
 
-So bug fixes, new features, for many projects were flying through the
-Internet over this mechanism. Apache (>50% of web servers today),
-Linux (the core of all Android phones), u name it.
-
-Text based. Code. Not rotating balls. That's how it works.
-
-[Link](https://linuxacademy.com/blog/linux/introduction-using-diff-and-patch/)
-
-*2019-11-26 13:1:58*
-
----
 
 One possible civilization could be "locally-mobile" comm based (mesh
 networks), mobile computing, sustance through one very basic /
