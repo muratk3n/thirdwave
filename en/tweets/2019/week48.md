@@ -233,7 +233,7 @@ pause and reflect.” - Mark Twain
 
 ---
 
-😂😂😨
+😂😂😯
 
 "@htsfhickey
 
