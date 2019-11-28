@@ -180,17 +180,17 @@ powers... And he was unwilling to acknowledge the existence of a
 legitimate opposition, perpetually vilifying his adversaries as
 traitors.In recent years, as Morales’s support among the Bolivian
 people began to slip, his attacks on democracy became more
-blatant. [H]e [illegally] ran for a fourth term as president. And when
-he seemed to fall short of the necessary majority to win election in
-the first round, he engaged in what the Organization of American
-States decried as a “clear manipulation” of the vote. Among other
-measures, he tampered with the electronic tally and halted the
-count.His attempt to steal the election cost Morales the support of a
-large number of Bolivians, including many trade unionists, indigenous
-people, and longtime members of his own political party. As protesters
-took to the street to demand his resignation, and police forces across
-the country refused to use force to quash dissent, Morales was forced
-into exile in Mexico"
+blatant. [H]e [.. unconstitutionally .. ] ran for a fourth term as
+president. And when he seemed to fall short of the necessary majority
+to win election in the first round, he engaged in what the
+Organization of American States decried as a “clear manipulation” of
+the vote. Among other measures, he tampered with the electronic tally
+and halted the count. His attempt to steal the election cost Morales
+the support of a large number of Bolivians, including many trade
+unionists, indigenous people, and longtime members of his own
+political party. As protesters took to the street to demand his
+resignation, and police forces across the country refused to use force
+to quash dissent, Morales was forced into exile in Mexico"
 
 [THE END]
 
