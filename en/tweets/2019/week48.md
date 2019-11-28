@@ -842,9 +842,9 @@ nearly an hour"
 
 The picture album keeps growing
 
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"></img>
+<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
 
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_cyber.jpg"></img>
+<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_cyber.jpg"/>
 
 *2019-11-22 22:26:53*
 
