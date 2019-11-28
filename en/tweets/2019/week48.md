@@ -158,7 +158,7 @@ nickel, and lithium"
 
 ---
 
-Phosphoric acid fuel cells. Interesting..
+Interesting..
 
 <img width="400" src="https://comps.canstockphoto.com/phosphoric-acid-fuel-cell-image_csp48425070.jpg"/>
 
