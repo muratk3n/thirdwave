@@ -940,7 +940,7 @@ Kinda like this guy, no?
 
 Australia - very good. 
 
-<iframe width="400" height="315" src="https://www.youtube.com/embed/ygLrTYCR1J8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" src="https://www.youtube.com/embed/ygLrTYCR1J8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *2019-11-22 13:46:0*
 
