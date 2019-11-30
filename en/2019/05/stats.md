@@ -231,7 +231,7 @@ DATE
 2019-07-01  19112.542  2.027586
 ```
 
-<a name="#infyoy"></a>
+<a name="infyoy"></a>
 
 # Inflation
 
@@ -257,7 +257,7 @@ Date
 2019-10-31  1.764
 ```
 
-<a name="#cpyoy"></a>
+<a name="cpyoy"></a>
 
 # Profits
 
