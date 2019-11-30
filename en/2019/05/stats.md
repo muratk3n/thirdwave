@@ -270,12 +270,12 @@ start=datetime.datetime(1950, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['CPROFIT']
 df = data.DataReader(cols, 'fred', start, end)
-df['profits'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
+df['cpyoy'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
 print (df.tail(4))
 ```
 
 ```text
-             CPROFIT   profits
+             CPROFIT     cpyoy
 DATE                          
 2018-10-01  2085.603  4.208611
 2019-01-01  2006.864 -2.212810
@@ -284,7 +284,7 @@ DATE
 ```
 
 ```python
-df.tail(60).profits.plot()
+df.tail(60).cpyoy.plot()
 plt.grid(True)
 plt.savefig('profit.png')
 ```
