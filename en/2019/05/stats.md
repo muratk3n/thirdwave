@@ -259,43 +259,35 @@ Date
 
 <a name="#cpyoy"></a>
 
-# Earnings
+# Profits
 
 ```python
-import quandl, os, datetime
-from datetime import timedelta
+import pandas as pd, datetime
+from pandas_datareader import data
 
-bdays = int(180)
 today = datetime.datetime.now()
-end_d=datetime.datetime(today.year, today.month, today.day)
-start_d = end_d - timedelta(days=bdays)
-today = datetime.datetime.now()
-df = quandl.get("MULTPL/SP500_EARNINGS_MONTH-S-P-500-Earnings-by-Month", 
-                returns="pandas",
-                #end_date=today.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
-
-
-df['epsyoy'] = (df.Value - df.Value.shift(12)) / df.Value.shift(12) * 100.0
-print (df.tail(5).epsyoy)
+start=datetime.datetime(1950, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['CPROFIT']
+df = data.DataReader(cols, 'fred', start, end)
+df['profits'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
+print (df.tail(4))
 ```
 
 ```text
-Date
-2019-02-28    15.965167
-2019-03-31    14.288120
-2019-04-30    12.103388
-2019-05-31    10.383361
-2019-06-30     8.653846
-Name: epsyoy, dtype: float64
+             CPROFIT   profits
+DATE                          
+2018-10-01  2085.603  4.208611
+2019-01-01  2006.864 -2.212810
+2019-04-01  2082.711  1.278730
+2019-07-01  2087.305 -0.804521
 ```
 
 ```python
-df.tail(100).epsyoy.plot()
+df.tail(100).profits.plot()
 plt.grid(True)
-plt.title('SP500 Earnings Per Share YoY  Change Monthly')
-plt.savefig('earn.png')
+plt.savefig('profit.png')
 ```
 
-![](earn.png)
+![](profit.png)
 
