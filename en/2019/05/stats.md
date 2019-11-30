@@ -284,7 +284,7 @@ DATE
 ```
 
 ```python
-df.tail(100).profits.plot()
+df.tail(60).profits.plot()
 plt.grid(True)
 plt.savefig('profit.png')
 ```
