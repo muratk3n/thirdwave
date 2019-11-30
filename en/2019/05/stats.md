@@ -70,13 +70,13 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 ```python
 bama_net_approv = 9.0
-gdg_growth = 1.34
-pred = [1., gdg_growth, net_approv, 1]
+gdp_growth = 1.34
+pred = [1., gdp_growth, bama_net_approv, 1]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
-[39.16599345 51.68073777] 45.423365606517535
+[40.0733668  55.07939153] 47.57637916830154
 ```
 
 ## Potus, Incumbent Elec. College Percentage Prediction (Old)
