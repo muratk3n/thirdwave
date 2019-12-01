@@ -70,13 +70,13 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 ```python
 bama_net_approv = 9.0
-gdg_growth = 1.34
-pred = [1., gdg_growth, net_approv, 1]
+gdp_growth = 1.34
+pred = [1., gdp_growth, bama_net_approv, 1]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
-[39.16599345 51.68073777] 45.423365606517535
+[40.0733668  55.07939153] 47.57637916830154
 ```
 
 ## Potus, Incumbent Elec. College Percentage Prediction (Old)
@@ -155,9 +155,9 @@ df3['unempl'] = 100.0 - df3.CIVPART
 ```python
 plt.figure(figsize=(14, 5))
 plt.subplot(121)
-df3['wagegrowth'].plot()
+df3['wagegrowth'].plot(title='Wave Growth')
 plt.subplot(122)
-df3['unempl'].plot() 
+df3['unempl'].plot(title='Unemployment') 
 plt.savefig('unemploy.png')
 ```
 
@@ -190,9 +190,9 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-07-01    51.2
 2019-08-01    49.1
 2019-09-01    47.8
+2019-10-01    48.3
 Name: PMI, dtype: float64
 ```
 
@@ -231,7 +231,7 @@ DATE
 2019-07-01  19112.542  2.027586
 ```
 
-<a name="#infyoy"></a>
+<a name="infyoy"></a>
 
 # Inflation
 
@@ -245,7 +245,6 @@ print (df.tail(10))
 ```text
             Value
 Date             
-2018-12-31  1.910
 2019-01-31  1.551
 2019-02-28  1.520
 2019-03-31  1.863
@@ -255,47 +254,40 @@ Date
 2019-07-31  1.811
 2019-08-31  1.750
 2019-09-30  1.711
+2019-10-31  1.764
 ```
 
-<a name="#cpyoy"></a>
+<a name="cpyoy"></a>
 
-# Earnings
+# Profits
 
 ```python
-import quandl, os, datetime
-from datetime import timedelta
+import pandas as pd, datetime
+from pandas_datareader import data
 
-bdays = int(180)
 today = datetime.datetime.now()
-end_d=datetime.datetime(today.year, today.month, today.day)
-start_d = end_d - timedelta(days=bdays)
-today = datetime.datetime.now()
-df = quandl.get("MULTPL/SP500_EARNINGS_MONTH-S-P-500-Earnings-by-Month", 
-                returns="pandas",
-                #end_date=today.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
-
-
-df['epsyoy'] = (df.Value - df.Value.shift(12)) / df.Value.shift(12) * 100.0
-print (df.tail(5).epsyoy)
+start=datetime.datetime(1950, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['CPROFIT']
+df = data.DataReader(cols, 'fred', start, end)
+df['cpyoy'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
+print (df.tail(4))
 ```
 
 ```text
-Date
-2018-11-30    18.339070
-2018-12-31    18.233494
-2019-01-31    17.267618
-2019-02-28    15.960355
-2019-03-31    14.290529
-Name: epsyoy, dtype: float64
+             CPROFIT     cpyoy
+DATE                          
+2018-10-01  2085.603  4.208611
+2019-01-01  2006.864 -2.212810
+2019-04-01  2082.711  1.278730
+2019-07-01  2087.305 -0.804521
 ```
 
 ```python
-df.tail(100).epsyoy.plot()
+df.tail(60).cpyoy.plot()
 plt.grid(True)
-plt.title('SP500 Earnings Per Share YoY  Change Monthly')
-plt.savefig('earn.png')
+plt.savefig('profit.png')
 ```
 
-![](earn.png)
+![](profit.png)
 
