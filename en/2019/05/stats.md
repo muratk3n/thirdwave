@@ -190,9 +190,9 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-08-01    49.1
 2019-09-01    47.8
 2019-10-01    48.3
+2019-11-01    48.1
 Name: PMI, dtype: float64
 ```
 
