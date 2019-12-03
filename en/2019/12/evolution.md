@@ -3,20 +3,16 @@
 Owen Lovejoy, [Video](https://youtu.be/RzWNh9ZpOCw)
 
 Ardipithecus was found in the mid 90s but it was in very poor
-condition comes from about farting about 40 miles away from where lucy
-was found but it's 4.4 million so it's more than a million years older
-than Lucy took about three or four years just to clean the specimen
-because the bones are so soft everybody thinks as a fossil of being
-some sort of hard rock but in this case the fossil was more fragile
-and softer than the material around it so it took a lot of intense
-preparation it had been damaged in a number of ways those had to be
-corrected and we've been working on it for the past ten years the
-exciting thing about it is that it's more complete than Lucy and it
-has more informative parts than Lucy had. Lucy had no hands or feet
-but Ardipithecus has both so it tells us a great deal about how humans
-evolved in terms of locomotion. But in terms of how they manipulated
-the world and most importantly how we differ from the way chimpanzees
-and gorillas evolved.
+condition. It comes from about about 40 miles away from where lucy was
+found, but it's 4.4 million [years old] so it's more than a million
+years older than Lucy. It took about three or four years just to clean
+the specimen because the bones are so soft. .. We've been working on
+it for the past ten years the exciting thing about it is that it's
+more complete than Lucy and it has more informative parts than Lucy
+had. Lucy had no hands or feet but Ardipithecus has both, so it tells
+us a great deal about how humans evolved in terms of locomotion. But
+in terms of how they manipulated the world and most importantly how we
+differ from the way chimpanzees and gorillas evolved.
 
 The most striking thing is is that everybody in the world up to now
 has thought that we evolved something that was generally chimpanzee
