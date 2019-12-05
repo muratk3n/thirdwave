@@ -840,7 +840,7 @@ from that as well.
 
 ---
 
-Profits are [down]((https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#cpyoy) -0.8% YoY - [link](https://twitter.com/KeithMcCullough/status/1200394586008489984)
+Profits are [down](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#cpyoy) -0.8% YoY - [link](https://twitter.com/KeithMcCullough/status/1200394586008489984)
 
 *2019-11-30 8:8:7*
 
