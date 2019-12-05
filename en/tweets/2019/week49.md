@@ -1066,8 +1066,8 @@ to reach Japan’s city of Kawasaki on December 15"
 
 ---
 
-H2 is spreading the way new, solid tech should - slowly, organically,
-and surely. 
+H2 is spreading the way new, solid tech should - slow but surely, and
+organically.
 
 *2019-11-28 21:42:43*
 
