@@ -300,9 +300,10 @@ during good times!
 I remember a Clinton speech after 9/11 talking about data collection,
 by "(paraphrasing) "making use of the kind of data the credit card
 companies already collect on us everyday". "Watch for patterns in the
-data, outside the normal, up to no good". Well, when primo fucko is
-saying all this stuff, why not go ahead and built the biggest
-spying network known to mankind? Which is what they did.
+data, normal behaviour fine, outside the normal, up to no good". Well,
+when the primo fucko is saying all this stuff, why not go ahead and
+built the biggest spying network known to mankind? Which is what they
+did.
 
 And remember the Clipper chip?
 
