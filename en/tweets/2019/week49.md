@@ -171,6 +171,17 @@ full time"
 
 ---
 
+Centrist is so confused: "but why are Reps blocking everything we
+do?". BECAUSE YOU ARE TRYING TO BE LIKE THEM you buffoon. No political
+party will sit idly by watching you supplant them. You think they are
+morons? (He doesn't, so he himself is a moron).
+
+So trying to find that "common ground" triggers the exact opposite.
+
+*2019-12-3 17:28:17*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plug Power Selected by ENGIE to Deliver Refueling System for World’s Largest <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a>-Powered Mine Truck-<a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> to provide a custom refueling system for truck, which is set to begin operation next year-<a href="https://t.co/aTPTZQltmI">https://t.co/aTPTZQltmI</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/Lmt9PDZhYl">pic.twitter.com/Lmt9PDZhYl</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1201860403044724736?ref_src=twsrc%5Etfw">December 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-3 17:28:17*
