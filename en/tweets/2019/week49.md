@@ -647,7 +647,7 @@ Time for a political revolution"
 
 ---
 
-Tetris in Emacs on Termux on a Samsung. I reached Walhalla.
+Tetris in Emacs on Termux on a Samsung. I've reached Walhalla.
 
 <img width="200" src="https://pbs.twimg.com/media/EKokWnSXkAAKZcV?format=jpg&name=medium"/>
 
