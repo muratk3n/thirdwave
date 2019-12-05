@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+5/12 - [Tweets - Week 44](/tweets/2019/week49.md)
+
+5/12 - [Evolution](/2019/12/evolution.md)
+
 28/11 - [Tweets - Week 48](/tweets/2019/week48.md)
 
 21/11 - [Tweets - Week 47](/tweets/2019/week47.md)
@@ -20,10 +24,6 @@ despite the best efforts of people working in them.
 7/11 - [Tweets - Week 45](/tweets/2019/week45.md)
 
 7/11 - [A Post-Scarcity World](/2019/11/post-scarcity.md)
-
-1/11 - [Tweets - Week 44](/tweets/2019/week44.md)
-
-1/11 - [Hacking the Constitution](/2019/11/constitution.md)
 
 
 ## For Members
