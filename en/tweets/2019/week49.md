@@ -145,8 +145,8 @@ formats. I have it read with a Brit accent works great.
 
 "Being in the moment" is okay as a temporary coping mechanism, but the
 larger issue is the modern structures unsuitable for our needs. If the
-entire structure is pushing one to prepare for future, there is only
-so much "being in the moment" u can do.
+entire structure is pushing one into a frantic future preperation,
+there is only so much "being in the moment" u can do.
 
 *2019-12-3 19:55:50*
 
