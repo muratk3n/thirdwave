@@ -570,14 +570,16 @@ plt.savefig('inf10yr.png')
 
 ---
 
-Dude. YoY inflation 1.76, T10YR at 1.72.
+YoY inflation 1.76, T10YR at 1.72.
 
 "Aaww but we are in debt yields gonna blow!" Not happening (yet). The
 biggest risk for bonds is inflation risk (principal, coupons are paid,
 guaranteed, but if money is worth less, problem). HOWEVER if USD is
 dropped as world's reserve curr, massive debt monetization, then there
 might be inflation - but this event is hard to predict. Might as well
-make some $ until it happens.
+make some $ until it happens. I see ideological goldcucks making that
+call, and they've been making that call for the past 10 years.. Some
+of these morons have customers too, so they are being misinformed. 
 
 *2019-11-30 21:40:36*
 
