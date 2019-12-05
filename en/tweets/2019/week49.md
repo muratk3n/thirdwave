@@ -715,13 +715,13 @@ and expectations on them, abandoning them when they most need help"
 
 ---
 
-Trump might be a closet liberterian. Penchant for gold,
+Trump looks like a closet liberterian sometimes. Penchant for gold,
 check. Spending worries (which he does nothing about, but great lip
 service), check. Libertard friend (Thiel), check. Libertard pol
 supporter (Rand Paul), check. Tea Party connection (Palin, Pence),
 check.
 
-Note: Most ppl don't know Pence is a huge TP-head. He keeps boasting
+Note: Most ppl don't know Pence is a huge TP-head. He kept saying
 "I was Tea Party before there was a Tea Party"
 
 *2019-11-30 13:23:28*
