@@ -298,7 +298,7 @@ during good times!
 ---
 
 I remember a Clinton speech after 9/11 talking about data collection,
-by "(paraphrasing) "making use of the kind of data the credit card
+by "(paraphrasing) making use of the kind of data the credit card
 companies already collect on us everyday". "Watch for patterns in the
 data, normal behaviour fine, outside the normal, up to no good". Well,
 when the primo fucko is saying all this stuff, why not go ahead and
