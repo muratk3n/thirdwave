@@ -6,19 +6,6 @@
 
 ---
 
-"@Jkylebass
-
-Study says Chinese government lies to the world about its murderous
-'involuntary' organ 'donors'. 'The conclusion shows that very many
-people have died indescribably hideous deaths..' Why even engage with
-a regime this evil?! We need to decouple"
-
-[Link](https://mobile.twitter.com/Jkylebass/status/1195286210467553280)
-
-*2019-12-4 22:57:3*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientists have just announced the first discoveries from <a href="https://twitter.com/hashtag/ParkerSolarProbe?src=hash&amp;ref_src=twsrc%5Etfw">#ParkerSolarProbe</a>’s daring mission to the Sun. What they’ve learned has changed our understanding of the way the Sun releases material and particles, influencing Earth and the entire solar system: <a href="https://t.co/3WFfZStojM">https://t.co/3WFfZStojM</a> <a href="https://t.co/Q3BZAV7lrT">pic.twitter.com/Q3BZAV7lrT</a></p>&mdash; NASA Sun &amp; Space (@NASASun) <a href="https://twitter.com/NASASun/status/1202288533224009729?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-4 21:57:45*
@@ -398,6 +385,29 @@ the biggest constraint"
 [Link](https://youtu.be/5LhWFGtD26o?t=929)
 
 *2019-12-2 10:38:17*
+
+---
+
+I wonder if it can be done - completely isolating China behind
+something like Soviet Iron Curtain.. or hell, the Great Wall..
+
+These ppl are already used to living in enclosed spaces, not
+exploring, just killing eachother in huge numbers.
+
+*2019-12-2 9:32:14*
+
+---
+
+"@Jkylebass
+
+Study says Chinese government lies to the world about its murderous
+'involuntary' organ 'donors'. 'The conclusion shows that very many
+people have died indescribably hideous deaths..' Why even engage with
+a regime this evil?! We need to decouple"
+
+[Link](https://mobile.twitter.com/Jkylebass/status/1195286210467553280)
+
+*2019-12-2 9:30:1*
 
 ---
 
