@@ -360,6 +360,11 @@ an hunter-gatherer society.
 
 ---
 
+Like I said, religion at its root is anti-establishment, against
+landed, mafia interests.
+
+Donner also mentions they can't find any traces for a "conquest".
+
 "[T]he Prophet Muhammad he encountered a lot of opposition in his home
 community in Mecca, for one thing the meccans as many pagan societies
 tend to be engaged in a lot of sort of ancestor worship they tended to
@@ -511,8 +516,8 @@ Why do they always use the "remote surgery" example while explaining
 Or maybe 5G isnt really all that's cracked up to be, and they r having
 a hard time to shine the turd.
 
-Wout proper insurance u would effin die anyway, b4 that spiffy robotic
-arm can do any good.
+Wout proper insurance the patient would die anyway, before that spiffy
+robotic arm can do any good.
 
 Reminder: Insurance is a 300 year old invention.
 
