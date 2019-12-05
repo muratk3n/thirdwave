@@ -872,8 +872,6 @@ somewhere else.
 
 ---
 
-I am in that 70%
-
 "~70% retail still takes place offline"
 
 [Link](https://www.youtube.com/watch?v=Tr7ZSwCvy2M)
