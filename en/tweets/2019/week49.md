@@ -940,8 +940,9 @@ Eisenhower called 'the military-industrial complex.'"
 ---
 
 Different..? Let's see 🙄 .. Limited number of people with British
-origin on a huge landmass, that's like, Australia! Which has free
-healthcare, and gun control.
+origin on a huge landmass.
+
+That's like, Australia! Which has free healthcare, and gun control.
 
 What __is__ different about US is the way its politicians have been
 the victim of corporate capture. The war between public and private
