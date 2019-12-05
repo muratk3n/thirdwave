@@ -950,9 +950,9 @@ resulted with the public losing. Yes that particular war was probably
 more intense in US bcz it is the seat of the empire, empire as in the
 military-industrial complex Eisenhower warned about.
 
-Plus centrist twats try so hard to become like Republicans, this
+(Plus centrist twats try so hard to become like Republicans, this
 pushes Reps to extreme, making them intractable on issues that could
-be solved easily.
+be solved easily)
 
 "But US is a huge country, so the dynamics to survive on it made them
 different, that's why they have to have guns, and healthcare cannot be
