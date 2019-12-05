@@ -304,7 +304,7 @@ data, outside the normal, up to no good". Well, when primo fucko is
 saying all this stuff, why not go ahead and built the biggest
 spying network known to mankind? Which is what they did.
 
-Ah also that Clipper chip idea.
+And remember the Clipper chip?
 
 *2019-12-2 20:51:18*
 
