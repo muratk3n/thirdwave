@@ -7,11 +7,14 @@
 
 ---
 
-@Jkylebass
+"@Jkylebass
 
-Study says Chinese government lies to the world about its murderous “involuntary” organ “donors”. “The conclusion shows that very many people have died indescribably hideous deaths..” Why even engage with a regime this evil?! We need to decouple. 
+Study says Chinese government lies to the world about its murderous
+'involuntary' organ 'donors'. 'The conclusion shows that very many
+people have died indescribably hideous deaths..' Why even engage with
+a regime this evil?! We need to decouple"
 
-https://mobile.twitter.com/Jkylebass/status/1195286210467553280
+[Link](https://mobile.twitter.com/Jkylebass/status/1195286210467553280)
 
 *2019-12-4 22:57:3*
 
@@ -84,7 +87,7 @@ tells you what the universe thinks about it.'"
 
 ---
 
-Oh yeah? Got panchant for pa-kojj? Ok.
+Oh yeah? Got a panchant for pa-kojj? Ok.
 
 That's the French pronounciation for 'package' BTW 😆😆 Just kidding..
 
@@ -231,8 +234,7 @@ Spark Plug Rain - Profane Saints \#music
 
 ---
 
-PMI [flat](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi)
- - not good. 
+PMI [flat](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi). Not good. 
 
 *2019-12-3 11:40:1*
 
@@ -305,7 +307,7 @@ data, outside the normal, up to no good". Well, when primo fucko is
 saying all this stuff, why not go ahead and built the biggest
 spying network known to mankind? Which is what they did.
 
-BC was known to float the Clipper chip idea in his day too.
+Ah also that Clipper chip idea.
 
 *2019-12-2 20:51:18*
 
