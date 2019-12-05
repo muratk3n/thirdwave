@@ -1,5 +1,28 @@
 # Tweets - Week 49
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What the establishment used to say about our ideas:<br><br>Raising the minimum wage to a living wage—too radical.<br>Guaranteeing health care to all—too radical.<br>Aggressively combating climate change—too radical.<br>Not having a super PAC—too radical.<br><br>None of these are &quot;radical&quot; anymore.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1202285454160257026?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2019-12-4 22:57:3*
+
+---
+
+@Jkylebass
+
+Study says Chinese government lies to the world about its murderous “involuntary” organ “donors”. “The conclusion shows that very many people have died indescribably hideous deaths..” Why even engage with a regime this evil?! We need to decouple. 
+
+https://mobile.twitter.com/Jkylebass/status/1195286210467553280
+
+*2019-12-4 22:57:3*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientists have just announced the first discoveries from <a href="https://twitter.com/hashtag/ParkerSolarProbe?src=hash&amp;ref_src=twsrc%5Etfw">#ParkerSolarProbe</a>’s daring mission to the Sun. What they’ve learned has changed our understanding of the way the Sun releases material and particles, influencing Earth and the entire solar system: <a href="https://t.co/3WFfZStojM">https://t.co/3WFfZStojM</a> <a href="https://t.co/Q3BZAV7lrT">pic.twitter.com/Q3BZAV7lrT</a></p>&mdash; NASA Sun &amp; Space (@NASASun) <a href="https://twitter.com/NASASun/status/1202288533224009729?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2019-12-4 21:57:45*
+
+---
+
 "Groupe Michelin has formed a joint venture with Faurecia to develop
 and market hydrogen fuel cell systems for light vehicles and
 commercial trucks"
@@ -63,7 +86,7 @@ tells you what the universe thinks about it.'"
 
 Oh yeah? Got panchant for pa-kojj? Ok.
 
-(That's the French pronounciation for 'package' 😋 )
+That's the French pronounciation for 'package' BTW 😆😆 Just kidding..
 
 *2019-12-4 16:17:1*
 
