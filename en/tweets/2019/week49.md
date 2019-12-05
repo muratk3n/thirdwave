@@ -1,6 +1,5 @@
 # Tweets - Week 49
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What the establishment used to say about our ideas:<br><br>Raising the minimum wage to a living wage—too radical.<br>Guaranteeing health care to all—too radical.<br>Aggressively combating climate change—too radical.<br>Not having a super PAC—too radical.<br><br>None of these are &quot;radical&quot; anymore.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1202285454160257026?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-4 22:57:3*
