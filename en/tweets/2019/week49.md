@@ -360,7 +360,7 @@ an hunter-gatherer society.
 Like I said, religion at its root is anti-establishment, against
 landed, mafia interests.
 
-Donner also mentions they can't find any traces for a "conquest".
+Donner also mentions archeologists can't find any traces for a "conquest".
 
 "[T]he Prophet Muhammad he encountered a lot of opposition in his home
 community in Mecca, for one thing the meccans as many pagan societies
