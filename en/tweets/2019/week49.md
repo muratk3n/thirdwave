@@ -962,8 +962,6 @@ free"
 
 ---
 
-The old model is broken in many ways. We need a new system.
-
 From Navarro's book *Death by China*,
 
 >[The] process begins when you or I walk into a store like Walmart and
@@ -1000,6 +998,8 @@ attacks, act similarly.
 Also selling debt can allow a country to recycle old debt with new
 debt, allowing it to obtain dollars, covering up the real value of a
 currency = distortion.
+
+The old model is broken in many ways. We need a new system.
 
 "Why aren't exchange rates adjusting themselves automatically
 according to trade deficits?"
