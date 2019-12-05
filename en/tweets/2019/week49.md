@@ -176,7 +176,7 @@ do?". BECAUSE YOU ARE TRYING TO BE LIKE THEM you buffoon. No political
 party will sit idly by watching you supplant them. You think they are
 morons? (He doesn't, so he himself is a moron).
 
-So trying to find that "common ground" triggers the exact opposite.
+So trying to find that "common ground" triggers the exact opposite outcome.
 
 *2019-12-3 17:28:17*
 
