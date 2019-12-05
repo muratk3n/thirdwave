@@ -720,7 +720,7 @@ The UK's oddest [place names](https://pbs.twimg.com/media/EKkJPt3WwAYEpoX?format
 
 ---
 
-True. [Related](https://muratk3n.github.io/thirdwave/en/2019/12/the-nordic-theory-of-everything.html)
+True. [Related](https://muratk3n.github.io/thirdwave/en/2017/08/the-nordic-theory-of-everything.html)
 
 "Many progressive European societies have policies that replicate
 hunter-gatherer parenting values by assuring community support for
