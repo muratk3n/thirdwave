@@ -73,7 +73,7 @@ tells you what the universe thinks about it.'"
 
 ---
 
-Oh yeah? Got a panchant for pa-kojj? Ok.
+Oh yeah? Got a penchant for pa-kojj? Ok.
 
 That's the French pronounciation for 'package' BTW 😆😆 Just kidding..
 
