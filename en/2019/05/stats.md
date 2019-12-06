@@ -142,7 +142,7 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 start=datetime.datetime(1950, 1, 1)
-end=datetime.datetime(2019, 6, 1)
+end=datetime.datetime(2019, 11, 1)
 cols = ['ECIWAG','CIVPART']
 df3 = data.DataReader(cols, 'fred', start, end)
 df3 = df3.dropna()
