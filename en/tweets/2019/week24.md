@@ -171,7 +171,8 @@ It feels like this mall is built around the Apple store in it. The store is huge
 
 "Telecom Companies Are Seriously Overhyping 5G Networks
 
-The marketing gimmicks would be hilarious if they didn’t come with potentially major consequences."
+The marketing gimmicks would be hilarious if they didn’t come with
+potentially major consequences."
 
 *2019-6-14 13:27:58*
 

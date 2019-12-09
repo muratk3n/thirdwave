@@ -26,7 +26,8 @@ store #energy."
 
 ---
 
-"“It’s market competition that delivers these benefits, not advances in technology," says EFF's @EFFFalcon about the hype surrounding 5G."
+"“It’s market competition that delivers these benefits, not advances
+in technology," says EFF's @EFFFalcon about the hype surrounding 5G."
 
 Haha.. this is better. "Battle for 5G" is hiding a bigger suck.
 

@@ -141,6 +141,40 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 import pandas as pd, datetime
 from pandas_datareader import data
 
+today = datetime.datetime.now()
+start=datetime.datetime(1950, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['PAYEMS']
+df = data.DataReader(cols, 'fred', start, end)
+df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(4)) / df.PAYEMS.shift(4) * 100.0
+print (df.tail(7))
+```
+
+```text
+            PAYEMS    nfpyoy
+DATE                        
+2019-05-01  151074  0.323401
+2019-06-01  151252  0.404267
+2019-07-01  151418  0.412478
+2019-08-01  151637  0.413874
+2019-09-01  151830  0.500417
+2019-10-01  151986  0.485283
+2019-11-01  152252  0.550793
+```
+
+```python
+df.tail(600).nfpyoy.plot()
+plt.grid(True)
+plt.title('Non-Farm Payroll YoY Change %')
+plt.savefig('nfp.png')
+```
+
+![](nfp.png)
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
 start=datetime.datetime(1950, 1, 1)
 end=datetime.datetime(2019, 11, 1)
 cols = ['ECIWAG','CIVPART']
@@ -162,7 +196,6 @@ plt.savefig('unemploy.png')
 ```
 
 ![](unemploy.png)
-
 
 <a name="pmi"></a>
 
@@ -290,4 +323,5 @@ plt.savefig('profit.png')
 ```
 
 ![](profit.png)
+
 
