@@ -183,8 +183,20 @@ df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
 df3['unempl'] = 100.0 - df3.CIVPART
+print (df3['ECIWAG2'].tail(7))
 ```
 
+```text
+DATE
+2018-01-01    128.2
+2018-04-01    129.0
+2018-07-01    130.0
+2018-10-01    130.8
+2019-01-01    132.0
+2019-04-01    132.8
+2019-07-01    133.9
+Freq: 3MS, Name: ECIWAG2, dtype: float64
+```
 
 ```python
 plt.figure(figsize=(14, 5))
