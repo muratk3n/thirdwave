@@ -95,7 +95,7 @@ Bring It On - 77 El Deora \#music
 
 ---
 
-M. Douglas on Gecko \#wallstreet 
+M. Douglas on Gekko \#wallstreet 
 
 [Link](https://youtu.be/bbfMmyWotOI?t=541)
 
@@ -103,7 +103,7 @@ M. Douglas on Gecko \#wallstreet
 
 ---
 
-Crazy. Some Gordon Gecko level shit.
+Crazy. Some Gordon Gekko level shit.
 
 <iframe width="320" src="https://www.youtube.com/embed/UatnTSwEUoc?start=315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
