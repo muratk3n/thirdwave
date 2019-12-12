@@ -540,7 +540,7 @@ protected Intel throughout the 1980s from Japanese competition"
 *2019-12-8 9:51:49*
 
 ---
-`
+
 "As with Rockefeller leveraging the network of railroads to monopolize
 the oil industry, entrepreneurs used the exploding personal computer
 market to seize monopoly power around key bottlenecks. Spreadsheets,
