@@ -437,15 +437,6 @@ uses barely any energy to stay running"
 
 ---
 
-It doesnt make sense for Saudis to trigger sleeper in US when the US
-partnership is tight. It makes sense for "the other side" to somehow
-get that guy do that bcz they r in trouble. The refinery attack was
-the same way. Iran is in chaos.
-
-*2019-12-8 21:1:17*
-
----
-
 "Today, Google has eight products with more than a billion users
 apiece. It knows what you think through its much larger “database of
 intentions.' It knows where you go in the physical world through its
