@@ -593,7 +593,7 @@ UK, Blair's Third Way did not seem to effect cons"
 ---
 
 Bill Bradley. The "challenger" "from the left" against Al Gore during
-99 primary. Aaahh.. Those were the days.
+99 primary.. Those were the days...
 
 "New Democrats saw cooperation between business and government as a
 compelling alternative to Reaganism, and as a means of addressing
@@ -645,7 +645,7 @@ Barney Frank too...? Ths Frank of Dodd-Frank? Sad.
 G. Stephanaopopololopopous got his start under Gephart. GS says that
 later in his career "leftists" like him felt stabbed in the back when
 Clint said "the era of big gov is over". I guess the surprising thing
-was that he was surprised at all.
+was that he was surprised.
 
 "A young operative named Al From organized the political operation of
 the New Democrats. From had worked in the Carter White House. After
