@@ -155,7 +155,7 @@ can hem and haw and cut from this corner, that corner, but still, it
 is mostly decided).
 
 Ironically some of the issue-non-issues now became real issues because
-of neglect - that's what you get for ur faux divisions - even tiny
+of neglect - that's what you get for faux divisions - even tiny
 problems can grow and metastasize.
 
 "Dems acting like Reps pushed Reps further right ..."
