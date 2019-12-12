@@ -318,16 +318,6 @@ us?"
 
 ---
 
-Have no fear. There is surely a universe where I'm giving the money to
-you, and you do ur research, find holy grail, (right, per the
-theory?). So why worry.
-
-"But we have to explore all avenues in science no matter how unlikely"
-
-*2019-12-9 14:47:5*
-
----
-
 These are [deep issues](https://vignette.wikia.nocookie.net/memoryalpha/images/7/7e/Data_wearing_a_beard.jpg/revision/latest?cb=20121212024612&path-prefix=en). I don't think we can do them justice here. 
 
 *2019-12-9 14:37:0*
