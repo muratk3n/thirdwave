@@ -213,7 +213,7 @@ snowflake" - turns out there is a company called Snowflake 😶
 
 "Snowflake CEO on taking company public ... "
 
-*2019-12-9 21:43:20*
+*2019-12-9 21:48:2*
 
 ---
 
@@ -241,7 +241,7 @@ I'd look at the experience of Postmodernists - they started with the
 QM Uncertainty Principle and now they are in lala land,
 ultra-subjective, and worse, anti-science.
 
-*2019-12-9 20:13:33*
+*2019-12-9 20:19:8*
 
 ---
 
@@ -318,6 +318,12 @@ us?"
 
 ---
 
+These are [deep issues](https://vignette.wikia.nocookie.net/memoryalpha/images/7/7e/Data_wearing_a_beard.jpg/revision/latest?cb=20121212024612&path-prefix=en). I don't think we can do them justice here. 
+
+*2019-12-9 14:37:0*
+
+---
+
 And all this avenue of research contributed to SU(5) which led
 nowhere.
 
@@ -342,7 +348,7 @@ the gauge principle, give rise to the forces of nature, it leads to
 the differences in their properties." -- Smolin, *Trouble with
 Physics*
 
-*2019-12-9 14:7:30*
+*2019-12-9 14:27:3*
 
 ---
 
