@@ -2,9 +2,10 @@
 
 Burn 🔥🔥🔥
 
-@WKCosmo
+"@WKCosmo
 
-The first rule of string cosmology club is that nobody has the faintest idea what the rules of string cosmology club are.
+The first rule of string cosmology club is that nobody has the
+faintest idea what the rules of string cosmology club are"
 
 *2019-12-12 1:2:12*
 
