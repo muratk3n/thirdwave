@@ -570,6 +570,15 @@ end of the Cold War, Clinton took neoliberalism global"  -- Stoller, *Goliath*
 
 ---
 
+Right. So cons in UK even lost that issue-non-issue to chew on (at
+least US cons have that), so what are you left with? The European Union.
+
+"Cameron was pro environment"
+
+*2019-12-7 17:40:45*
+
+---
+
 Hasn't it though? What is Brexit if it isn't cons gone apeshit? Sure
 the right in UK were always a little off kilter, crackpot-ish, but the
 latest mess tops them all.
