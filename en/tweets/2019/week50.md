@@ -818,16 +818,9 @@ forever..
 
 ---
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Appears there are some issues with the new hot of the press LFP batteries. - Technical problems for the electric coach, Flixbus pilot in Germany is stopped. - <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> to the rescue. <a href="https://t.co/vVbHpzXqMP">https://t.co/vVbHpzXqMP</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1202658668233338880?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-5 21:43:14*
-
----
-
-US is a mess
-
-*2019-12-5 20:41:45*
 
 ---
 
