@@ -393,7 +393,9 @@ that stats page and I'd know exactly where the econ was.
 
 Non-Farm Payroll YoY change \# part of the
 [pattern](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unemp)
-of the late-cycle. Wages accelerate profits decrease.
+of the late-cycle. The sharp falls in the graph are obviously
+recessions. They extended the latest block as far as they could, with
+laughing gas and [cowbell](https://youtu.be/cVsQLlk-T0s?t=86). Mooooarrr... Moooaaarrrr....
 
 *2019-12-9 9:34:1*
 
