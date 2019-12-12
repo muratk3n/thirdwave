@@ -143,7 +143,7 @@ Actress from SGate having trouble with
 everything bcz on pro-corp, cartel politics they agree.
 
 The issues they went further right have certain characteristic - stuff
-that used to be non-flammatory, easy-to-agree-on, like guns, now is
+that used to be secondary, easy-to-agree-on issues, like guns, now is
 not. Reagan was pro-gun control (this is the guy who made money
 holding a gun and shooting people on screen for entertainment
 remember), but now no Rep will touch it. Or the issue have been mostly
