@@ -208,7 +208,7 @@ not a contradiction w culture code"
 
 ---
 
-Reading too much pol flamatory content - I was like "oh yea, what a
+Reading too much pol inflammatory content - I was like "oh yea, what a
 snowflake" - turns out there is a company called Snowflake 😶
 
 "Snowflake CEO on taking company public ... "
