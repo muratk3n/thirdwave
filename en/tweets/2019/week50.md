@@ -570,8 +570,9 @@ end of the Cold War, Clinton took neoliberalism global"  -- Stoller, *Goliath*
 
 ---
 
-Right. So cons in UK even lost that issue-non-issue to chew on (at
-least US cons have that), so what are you left with? The European Union.
+Exactly. So cons in UK even lost that issue-non-issue to chew on (at
+least US cons still have that), so what are you left with? The
+European Union.
 
 "Cameron was pro environment"
 
