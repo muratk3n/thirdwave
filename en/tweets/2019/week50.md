@@ -57,6 +57,8 @@ Some motherfuckers are aaalways trying to skate up the hill.
 
 ---
 
+ARTIFICIAL ISLAND! 
+
 "Denmark is moving forward with plans to build an artificial island
 tying in power from offshore wind farms of up to 10 gigawatts (GW) of
 capacity, more than enough to supply all households ...
@@ -141,20 +143,20 @@ Actress from SGate having trouble with
 everything bcz on pro-corp, cartel politics they agree.
 
 The issues they went further right have certain characteristic - stuff
-that used to be non-flammatory, easy-to-agree-on, like guns now is
-not. Reagan was pro-gun control (remember this is the guy who made
-money holding a gun and shooting people on screen for entertainment!),
-but now no Rep will touch it. Or the issue have been mostly decided
-and safely out of legislative harms way, like abortion. SCOTUS dropped
-the hammer in 1973 and abortion became legal, hence this
+that used to be non-flammatory, easy-to-agree-on, like guns, now is
+not. Reagan was pro-gun control (this is the guy who made money
+holding a gun and shooting people on screen for entertainment
+remember), but now no Rep will touch it. Or the issue have been mostly
+decided and safely out of legislative harms way, like abortion. SCOTUS
+dropped the hammer in 1973 and abortion became legal, hence this
 "issue-non-issue" is now something u can safely jump up and down
 about, "differentiating" youself, wout causing undue damage (surely u
-can ham and haw and cut this corner, that corner, but still, it is
-mostly decided).
+can hem and haw and cut from this corner, that corner, but still, it
+is mostly decided).
 
 Ironically some of the issue-non-issues now became real issues because
-of idiotic divisions causing undue neglect - that's what you get for
-ur faux divisions - even tiny problems can grow and metastasize.
+of neglect - that's what you get for ur faux divisions - even tiny
+problems can grow and metastasize.
 
 "Dems acting like Reps pushed Reps further right ..."
 
@@ -196,7 +198,7 @@ keep their 10x leverage and Dimon can buyback JPM stock"
 ---
 
 It is - and I was kidding. BJ is 100% English, in fact comically so,
-they say every streotypical vart ppl assoc with Englanders is in this
+they say every streotypical wart ppl assoc with Englanders is in this
 guy.
 
 "You said Boris J is a tigger bcz of his distant heritage. Isn't that
