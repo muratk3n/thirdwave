@@ -644,7 +644,7 @@ funding from the city mayor Sadiq Khan"
 
 ---
 
-Barney Frank too...? Ths Frank of Dodd-Frank? Sad.
+Barney Frank too...? The Frank of Dodd-Frank? Sad.
 
 G. Stephanaopopololopopous got his start under Gephart. GS says that
 later in his career "leftists" like him felt stabbed in the back when
