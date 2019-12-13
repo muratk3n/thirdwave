@@ -555,13 +555,13 @@ the free-market system"  -- Stoller, *Goliath*
 
 ---
 
-"As a candidate, Clinton’s Democratic platform called for a “Revolution
-of 1992,” capturing the anger of the moment. But the platform was
-written by Al From, and for the first time since 1880 there was no
-mention of antitrust or corporate power, despite a decade with the
-worst financial manipulation America had seen since the 1920s. This
-revolution would be against government, in government, around
-government.
+"As a candidate, Clinton’s Democratic platform called for a
+'Revolution of 1992', capturing the anger of the moment. But the
+platform was written by Al From, and for the first time since 1880
+there was no mention of antitrust or corporate power, despite a decade
+with the worst financial manipulation America had seen since the
+1920s. This revolution would be against government, in government,
+around government.
 
 When Clinton took office, the Democrats finally had a majority in the
 House, a majority in the Senate, and the presidency. Clinton not only
