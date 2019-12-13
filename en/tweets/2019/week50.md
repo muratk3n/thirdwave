@@ -537,7 +537,7 @@ monopolies" -- Stoller, *Goliath*
 
 So the aging Ginsburg is no "bulwark" against anything, against Trump,
 whatever. Maybe it is good she is on her way out, no? With the right
-lens lota heroes become zero.
+lens lota heroes become zeros.
 
 "Clinton also appointed pro-monopoly judges. When Clinton appointed
 Supreme Court justices, he picked Stephen Breyer and Ruth Bader
