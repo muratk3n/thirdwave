@@ -501,7 +501,7 @@ yeah'"
 spurred by hopelessness and corruption among pharmaceutical monopolies
 ... the life span of white men and women without a college education
 began dropping as suicide, alcoholism, and drug addiction caused a
-die-off, what policymakers began calling “deaths of despair.” ....
+die-off, what policymakers began calling 'deaths of despair.' ....
 
 At the ballot box, Americans voted for change in 2006, 2008, 2010,
 2014, and 2016, veering from party to party in a desperate search for
