@@ -350,7 +350,8 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['DTWEXM']
 df = data.DataReader(cols, 'fred', start, end)
 print (df.tail(4))
-print (df.mean())
+m,s = df.mean(),df.std()
+print (np.array([m-s,m+s]))
 ```
 
 ```text
@@ -360,8 +361,17 @@ DATE
 2019-12-04  92.1132
 2019-12-05  91.8797
 2019-12-06  92.2380
-DTWEXM    85.200511
-dtype: float64
+[[74.56937244]
+ [95.83165032]]
+```
+
+```python
+
+```
+
+```text
+[[ 63.93823351]
+ [106.46278925]]
 ```
 
 ```python
