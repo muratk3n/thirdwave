@@ -290,7 +290,6 @@ print (df.tail(10))
 ```text
             Value
 Date             
-2019-01-31  1.551
 2019-02-28  1.520
 2019-03-31  1.863
 2019-04-30  1.996
@@ -300,6 +299,7 @@ Date
 2019-08-31  1.750
 2019-09-30  1.711
 2019-10-31  1.764
+2019-11-30  2.051
 ```
 
 <a name="cpyoy"></a>
@@ -335,5 +335,49 @@ plt.savefig('profit.png')
 ```
 
 ![](profit.png)
+
+# Dollar
+
+<a name="dollar"></a>
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(2001, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['DTWEXM']
+df = data.DataReader(cols, 'fred', start, end)
+print (df.tail(4))
+print (df.mean())
+```
+
+```text
+             DTWEXM
+DATE               
+2019-12-03  92.2354
+2019-12-04  92.1132
+2019-12-05  91.8797
+2019-12-06  92.2380
+DTWEXM    85.200511
+dtype: float64
+```
+
+```python
+df.DTWEXM.plot()
+plt.grid(True)
+plt.savefig('dollar.png')
+```
+
+![](dollar.png)
+
+
+
+
+
+
+
+
 
 
