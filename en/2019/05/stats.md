@@ -366,15 +366,6 @@ DATE
 ```
 
 ```python
-
-```
-
-```text
-[[ 63.93823351]
- [106.46278925]]
-```
-
-```python
 df.DTWEXM.plot()
 plt.grid(True)
 plt.savefig('dollar.png')
