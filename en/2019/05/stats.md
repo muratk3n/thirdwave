@@ -351,7 +351,7 @@ cols = ['DTWEXM']
 df = data.DataReader(cols, 'fred', start, end)
 print (df.tail(4))
 m,s = df.mean(),df.std()
-print (np.array([m-s,m+s]))
+print (np.array([m-s,m+s]).T)
 ```
 
 ```text
@@ -361,8 +361,7 @@ DATE
 2019-12-04  92.1132
 2019-12-05  91.8797
 2019-12-06  92.2380
-[[74.56937244]
- [95.83165032]]
+[[74.56937244 95.83165032]]
 ```
 
 ```python
