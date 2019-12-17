@@ -171,6 +171,7 @@ plt.savefig('nfp.png')
 
 ![](nfp.png)
 
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
@@ -372,9 +373,24 @@ plt.savefig('dollar.png')
 
 ![](dollar.png)
 
+<a name="wagepayroll"></a>
 
+# Difference Between Wage Growth YoY and Payrolls (Hiring)
 
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
 
+today = datetime.datetime.now()
+start=datetime.datetime(1986, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['PAYEMS','AHETPI']
+df = data.DataReader(cols, 'fred', start, end)
+df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
+df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
+df[['wageyoy','nfpyoy']].plot()
+plt.savefig('pay-wage.png')
+```
 
 
 
