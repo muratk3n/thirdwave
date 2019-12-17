@@ -392,6 +392,7 @@ df[['wageyoy','nfpyoy']].plot()
 plt.savefig('pay-wage.png')
 ```
 
+![](pay-wage.png)
 
 
 
