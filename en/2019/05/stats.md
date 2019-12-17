@@ -142,28 +142,28 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1950, 1, 1)
+start=datetime.datetime(1986, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['PAYEMS']
 df = data.DataReader(cols, 'fred', start, end)
-df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(4)) / df.PAYEMS.shift(4) * 100.0
+df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 print (df.tail(7))
 ```
 
 ```text
             PAYEMS    nfpyoy
 DATE                        
-2019-05-01  151074  0.323401
-2019-06-01  151252  0.404267
-2019-07-01  151418  0.412478
-2019-08-01  151637  0.413874
-2019-09-01  151830  0.500417
-2019-10-01  151986  0.485283
-2019-11-01  152252  0.550793
+2019-05-01  151074  1.565767
+2019-06-01  151252  1.506641
+2019-07-01  151418  1.496799
+2019-08-01  151637  1.451825
+2019-09-01  151830  1.507605
+2019-10-01  151986  1.424072
+2019-11-01  152252  1.468863
 ```
 
 ```python
-df.tail(600).nfpyoy.plot()
+df.nfpyoy.plot()
 plt.grid(True)
 plt.title('Non-Farm Payroll YoY Change %')
 plt.savefig('nfp.png')
