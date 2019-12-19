@@ -38,7 +38,7 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 
 ---
 
-<iframe width="340" height="260" src="https://www.youtube.com/embed/6ciRBXg20jQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="260" src="https://www.youtube.com/embed/6ciRB,Xg20jQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *2019-12-18 22:10:37*
 
@@ -57,7 +57,8 @@ In the past 30+ yrs we've seen the opposite (of Corb) from the left
 leaders - Clinton, Blair, Bama - suave, hipters who can get elected,
 but cannot deliver left leaving an electoral disaster behind (it is
 the policy execution that has staying power, not lip biting). Corbyn
-was stiff who probably could deliver left. Ideally u want both.
+was stiff who probably could deliver left. Ideally u want both (speak
+left, be hip, get elected, then deliver left).
 
 *2019-12-18 20:43:6*
 
