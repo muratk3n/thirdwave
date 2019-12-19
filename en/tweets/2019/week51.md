@@ -47,8 +47,8 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 In the past 30+ yrs we've seen the opposite from the left leaders -
 Clinton, Blair, Bama - suave, hipters who can get elected, but cannot
 deliver left leaving an electoral disaster behind (it is the policy
-execution that is lasting, not lip biting). Corbyn was stiff who
-probably could deliver left. Ideally u want both.
+execution that has staying power, not lip biting). Corbyn was stiff
+who probably could deliver left. Ideally u want both.
 
 *2019-12-18 20:43:6*
 
