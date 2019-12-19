@@ -1,11 +1,4 @@
 
-
-#yang
-
-![](yang1.png)
-
----
-
 Cuomo saz he'll run if Biden doesnt?.. hmm
 
 Bloomberg is out. Great.
