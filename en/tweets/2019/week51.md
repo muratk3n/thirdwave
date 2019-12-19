@@ -434,7 +434,7 @@ there, now you have a national security problem. Cant do that.
 
 ---
 
-Emilia Clarke looks great in GoT when she doesnt make too many facial
+Emilia Clarke looks good in GoT when she doesnt make too many facial
 expressions. In real life, the actress, when she starts moving those
 eyebrows, oh-boi. Keep them still girl.
 
