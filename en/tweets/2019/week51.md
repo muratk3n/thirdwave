@@ -541,15 +541,14 @@ btw 74 and 95, it is now closer to 95.
 
 ---
 
-Ok.. there is some
-[inflation](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#infyoy)
-- 2.0% YOY.
+Ok.. there is some [inflation](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#infyoy):
+2.0% YOY.
 
 *2019-12-15 17:16:30*
 
 ---
 
-Next leader? The psycic says Yvette Cooper.
+Next Labour leader? The psycic says Yvette Cooper.
 
 But I think the psycic really wants a centrist ;)
 
@@ -614,12 +613,6 @@ change" -- The Guardian
 
 ---
 
-Expanse S04 dropped 👽👽👽
-
-*2019-12-15 10:59:54*
-
----
-
 "What the world needs is a big reset of the system where leveraged
 firms default, solvent firms pick up the pieces and get to earn excess
 returns due to their past fiscal sobriety. Since we live in a
@@ -661,16 +654,15 @@ vocabulary. Like issue-non-issue. Or in finance the good news that is
 bad news. Watch a finance show u hear them argue all the time "this
 was good news, but is good news good news or bad news 😶 [for the stock
 market, bcz good news can cause FED to raise rates that'll lower the
-laughing gas, causing the market go down]". Everything is garbled,
-mixed up, upside down, crooked.
+laughing gas, causing the market go down]". 
 
 *2019-12-14 20:40:43*
 
 ---
 
-Interesting analysis. Yes BJ succeeded in painting others as the ones
-stopping Brexit, "the will of the ppl (meaning the shit cake he
-previously sold them on)" and rode that to victory. 
+BJ succeeded in painting others as the ones stopping Brexit, "the will
+of the ppl (meaning the shit cake he previously sold them on)" and
+rode that to victory.
 
 Brexit.. What an issue-non-issue. US cons could only dream about
 something like this. It keeps on giving.
@@ -728,7 +720,7 @@ I am definitely studying this subject irreverently (per Feynman)
 What happens if, in a society, ppl who do not buy into the national
 narrative, are culturally different and focused in one region? It can
 happen, see [Gellner](https://muratk3n.github.io/thirdwave/en/2013/03/allegience-of-peon-4.html)
-who wrote the book on nations,
+who wrote the book on nationhood,
 
 >People can be categorized as tall and short, as fat and thin, dark and light, and in many other ways. Clearly, there is simply no limit to the number of ways in which people can be classified. Most of the possible classifications will be of no interest whatever. But some of them become socially and politically very important. They are those which I am tempted to call entropy-resistant.
 >
@@ -763,9 +755,9 @@ $749 million. Seriously.
 
 "@AppiaPay
 
-'...Uber paid $749 million in credit card processing fees in 2017.'
-
-Every day #businesses are paying substantial #CardFees to financial gatekeepers and middlemen"
+'...Uber paid $749 million in credit card processing fees in
+2017.'. Every day #businesses are paying substantial #CardFees to
+financial gatekeepers and middlemen"
 
 *2019-12-12 15:49:9*
 
