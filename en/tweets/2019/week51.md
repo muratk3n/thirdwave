@@ -237,10 +237,9 @@ random symbols off the top of my head
 
 ---
 
-"Learning" statistically as in deep nets vs. formulating the problem
-somehow starting from principles - is the root of the argument. A
-similar version of this fight actually [took
-place](https://www.tor.com/2011/06/21/norvig-vs-chomsky-and-the-fight-for-the-future-of-ai/)
+The fight. "Learning" statistically as in deep nets vs. formulating
+the problem somehow starting from principles... A similar version of
+this fight actually [took place](https://www.tor.com/2011/06/21/norvig-vs-chomsky-and-the-fight-for-the-future-of-ai/)
 between Chomsky and Norvig (of Google) a while back on natural
 language processing. Chomsky does not like ML methods. I'd say he is
 right on this one.
