@@ -341,7 +341,7 @@ fossil fuel free steel-making process, which will replace coking coal
 with hydrogen, and if successful can reduce Sweden's total carbon
 emissions by 10%"
 
-[Link](https://cnn/videos/business/2019/12/13/steel-sweden-carbon-dioxide-emissions-ssab-vattenfall-lkab-stewart.cnn)
+[Link](https://www.google.com/amp/s/amp.cnn.com/cnn/videos/business/2019/12/13/steel-sweden-carbon-dioxide-emissions-ssab-vattenfall-lkab-stewart.cnn)
 
 *2019-12-17 1:27:25*
 
