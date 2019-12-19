@@ -58,7 +58,7 @@ leaders - Clinton, Blair, Bama - suave, hipters who can get elected,
 but cannot deliver left leaving an electoral disaster behind (it is
 the policy execution that has staying power, not lip biting). Corbyn
 was stiff who probably could deliver left. Ideally u want both (speak
-left, be hip, get elected, then deliver left).
+left, be a closer, get elected, then deliver left).
 
 *2019-12-18 20:43:6*
 
