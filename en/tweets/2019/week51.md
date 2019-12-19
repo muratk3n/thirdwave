@@ -186,7 +186,7 @@ totally wrong.
 What is a low correlation portfolio and why is it good?
 
 It's simple - prices form a time series, then low or negative
-correlation would mean one is down when the other is up, vica
+correlation would mean one is down when the other is not, vica
 versa. So if one instrument took a hit, the others would save you. The
 "bad"s cancel out, and, if tests show, overall, the portfolio
 generates returns, we are a-ok.
