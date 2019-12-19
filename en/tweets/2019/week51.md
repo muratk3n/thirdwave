@@ -38,12 +38,6 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 
 ---
 
-<iframe width="340" height="260" src="https://www.youtube.com/embed/6ciRB,Xg20jQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*2019-12-18 22:10:37*
-
----
-
 (Of course according to *Time for Change* model, both Clinton and Bam
 had a major advantage going into their elections -the incumbent was
 unpopular due to his delivery-, but, at least they didn't lose like
