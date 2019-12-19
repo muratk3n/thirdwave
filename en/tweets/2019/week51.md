@@ -89,11 +89,11 @@ hurt working people".
 [geek] Noticed that didn't you. Very good. Yes, it looks like an
 objective, a target. Even better that is a *convex* target which have
 certain guarantees in opt. So now we can calculate the best weights
-that'll give the minimum internal correlation [/geek]
+that'll give the minimum internal correlation.
 
-Hell u could this procedure to filter out unwanted stocks even. Start
+Hell 1 could use this procedure to filter out unwanted stocks even. Start
 with many, many symbols and the optimization could zero out some,
-indicating they are no good, so they are left out.
+indicating they are no good, so they are left out  [/geek]
 
 "[geek] I noticed the `w'H w` from optimization - it looks like a
 objective func [/geek]"
@@ -122,13 +122,6 @@ science content?
 
 "Stone Age chewing gum holds clues to the life of a young girl who
 lived 5,700 years ago" -- CNN
-
-*2019-12-17 22:6:57*
-
----
-
-Every week I am like WTF am I gonna talk about next week? Then I have
-a boat load of stuff to talk about next week 🤔
 
 *2019-12-17 22:6:57*
 
