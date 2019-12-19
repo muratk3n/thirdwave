@@ -45,8 +45,9 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 ---
 
 (Of course according to *Time for Change* model, both Clinton and Bam
-had a major advantage going into their elections, but, at least they
-did not lose it like Gore)
+had a major advantage going into their elections -the incumbent was
+unpopular due to his delivery-, but, at least they didn't lose like
+Gore)
 
 *2019-12-18 20:49:9*
 
