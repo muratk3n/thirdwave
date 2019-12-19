@@ -308,7 +308,7 @@ mama's boys. They have a "left" too, and it is in the free, open source crowd.
 
 ---
 
-Removed my app's GMaps static map api integration. 
+Removed the GMaps static map api integration 🤮
 
 *2019-12-17 11:30:2*
 
@@ -385,7 +385,9 @@ Peak start-up
 
 ---
 
-C'mon NYT, dont be a corporate slut. [Related](https://muratk3n.github.io/thirdwave/en/tweets/2019/week49.html#nike).
+NYT being a corporate slut. [Related](https://muratk3n.github.io/thirdwave/en/tweets/2019/week49.html#nike).
+
+"Nike’s Fastest Shoes May Give Runners an Even Bigger Advantage Than We Thought"
 
 [Link](https://twitter.com/TStellingwerff/status/1205715912306782210)
 
@@ -451,11 +453,11 @@ their side and they voted for him, again and again until he died.
 ---
 
 First theory still holds - EU and Japan (bcz of their banks / corps)
-are in debt deflation territory, low rates, slow growth persists.
+fell into debt deflation territory post 00, w low rates, slow growth.
 
 In US during '08 crisis the FED took the toxic assets off the banks'
-balance sheet fixing their debt problem so they in turn start lending
-again. EU did not follow the same course. 
+balance sheet fixing their debt problem so they started lending. EU /
+Japan did not follow the same course.
 
 "[Paraphr] There are three theories of recent meager growth [and he
 thinks he debunked the 1st]"
