@@ -45,10 +45,12 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 ---
 
 Basically the motto is get elected, somehow, then deliver left, ppl
-will feel the diff and vote for you. People who did not do that have
-been disappearing - we talk a lot abt US, UK but in Germany too, bcz
-of Schroder SPD cratered. Not good. Clinton, Blair hipsterism will
-only carry you so far.
+will feel the diff and vote for you. Parties who did not do that have
+been disappearing - we talk a lot abt US, UK, how Dems are miserable
+there, but in Germany too, bcz of Schroder SPD cratered. Clinton,
+Blair hipsterism will only carry you so far.
+
+\#ukelection
 
 *2019-12-18 20:33:36*
 
@@ -57,7 +59,8 @@ only carry you so far.
 "Taiwan has massive amount of motorcycles contributing to high level
 of particulate matter (PM2.5), & air quality continues to
 deteriorate. #zeroemission scooter to reduce air pollution"
--http://bit.ly/2PzfHze
+
+[Link](http://bit.ly/2PzfHze)
 
 *2019-12-18 19:11:25*
 
