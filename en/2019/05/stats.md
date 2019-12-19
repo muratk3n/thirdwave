@@ -395,6 +395,3 @@ plt.savefig('pay-wage.png')
 ![](pay-wage.png)
 
 
-
-
-
