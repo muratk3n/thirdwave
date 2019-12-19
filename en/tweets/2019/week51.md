@@ -295,14 +295,15 @@ Just realized zombie movies hark back to forager-like conditions too
 (you try to evade, run, hunt, gather), they create these conditions in
 a modern albeit in a post apocalyptic backdrop. Instead of wild nature
 u get broken arch (forage 4 food in abandoned supermarket) and
-ppl who are now monsters.
+ppl who are now monsters (wild animals).
 
 *2019-12-17 11:40:1*
 
 ---
 
 You see, tech, white-collar world is not only about inbread centrist
-mama's boys. They have a "left" too, and it is in the free, open source crowd.
+mama's boys. They have a "left" too, and it is in the free, open
+source crowd.
 
 *2019-12-17 11:39:34*
 
