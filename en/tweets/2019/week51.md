@@ -177,14 +177,13 @@ What is a low correlation portfolio and why is it good?
 
 It's simple - prices form a time series, then low or negative
 correlation would mean one is down when the other is up, vica
-versa. So if one instrument took a hit, the others would save
-you. Bads cancel out, and, if tests show, overall, the portfolio
+versa. So if one instrument took a hit, the others would save you. The
+"bad"s cancel out, and, if tests show, overall, the portfolio
 generates returns, we are a-ok.
 
-Correlation between two series is known to many.
-
-How about correlation of 3 or more? For that, there is the correlation
-matrix. Say we have Apple, IBM, and Exxon, 
+Correlation between two series is known to many. How about correlation
+of 3 series or more? For that, there is the correlation matrix. Say we
+have Apple, IBM, and Exxon,
 
 ```python
 import pandas as pd, pandas_datareader.data as web, datetime
@@ -208,11 +207,9 @@ score to judge to portfolio by.  `w` is the weights, how we allocate /
 distribute money to each instrument. For simplicity we picked
 equal. 1/3, 1/3, 1/3.
 
-In this examples we see intra-correlation is high (1 would be
-highest).
-
-Can we do better? There are two tech stocks in there, AAPL and
-IBM. How about we replace IBM with a retail-ish tech stock? Say
+In this example we see intra-correlation is high (1 would be
+highest). Can we do better? There are two tech stocks in there, AAPL
+and IBM. How about we replace IBM with a retail-ish tech stock? Say
 Amazon?
 
 ```python
@@ -252,7 +249,7 @@ applaud) are in the category of weak AI. This is the first level of
 pattern recognition - especially for to/fro conversion type tasks if
 you remain in the same domain, e.g. speech sounds to text of those
 sounds u can do some damage, the "AI" methods can work. But
-interprating that speech, translating its ideas are still far out of
+interpreting that speech, translating its ideas are still far out of
 reach.
 
 We also talked about clean formulas vs. constants before (which DL ppl
