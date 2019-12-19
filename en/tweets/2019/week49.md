@@ -1,5 +1,29 @@
 # Tweets - Week 49
 
+<a name="nike"/>
+
+"In *Born to Run*, his 2009 bestseller, Christopher McDougall explains
+how Nike convinced generations of joggers to ignore the evolved
+biomechanics of the human body to run in an unnatural, debilitating
+way that required the purchase of their expensive, utterly unnecessary
+products. ...  McDougall quotes a financial columnist who thought
+Nike’s plan was 'brilliant.' '[They] created a market for a product
+and then created the product itself. ..” You may think it’s unfair to
+focus on Nike, but McDougall disagrees. “Blaming the running injury
+epidemic on big, bad Nike seems too easy,” he writes, “but that’s
+okay, because it’s largely their fault.'
+
+Nike’s 'deftest move,' McDougall writes, 'was advocating a new style
+of running that was only possible in [its] new style of shoe [which]
+allowed people to run in a way no humans safely could before: by
+landing on their bony heels.' ...  Before the advent of these shoes in
+1972, Lieberman has noted, “People ran in very thin-soled shoes, had
+strong feet, and had much lower incidence of knee injuries.'"
+
+*2019-12-4 23:57:52*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What the establishment used to say about our ideas:<br><br>Raising the minimum wage to a living wage—too radical.<br>Guaranteeing health care to all—too radical.<br>Aggressively combating climate change—too radical.<br>Not having a super PAC—too radical.<br><br>None of these are &quot;radical&quot; anymore.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1202285454160257026?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-4 22:57:3*
@@ -448,30 +472,6 @@ Hah - Moore's Law is actually Mead's Law
 man who did, Caltech professor Carver Mead" - C. Anderson, *Free*
 
 *2019-12-2 8:45:38*
-
----
-
-<a name="nike"/>
-
-"In *Born to Run*, his 2009 bestseller, Christopher McDougall explains
-how Nike convinced generations of joggers to ignore the evolved
-biomechanics of the human body to run in an unnatural, debilitating
-way that required the purchase of their expensive, utterly unnecessary
-products. ...  McDougall quotes a financial columnist who thought
-Nike’s plan was 'brilliant.' '[They] created a market for a product
-and then created the product itself. ..” You may think it’s unfair to
-focus on Nike, but McDougall disagrees. “Blaming the running injury
-epidemic on big, bad Nike seems too easy,” he writes, “but that’s
-okay, because it’s largely their fault.'
-
-Nike’s 'deftest move,' McDougall writes, 'was advocating a new style
-of running that was only possible in [its] new style of shoe [which]
-allowed people to run in a way no humans safely could before: by
-landing on their bony heels.' ...  Before the advent of these shoes in
-1972, Lieberman has noted, “People ran in very thin-soled shoes, had
-strong feet, and had much lower incidence of knee injuries.'"
-
-*2019-12-1 21:22:4*
 
 ---
 
