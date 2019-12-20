@@ -7,33 +7,33 @@ they may be severely secular, can be profoundly distorting and
 deceptive.
 
 The basic deception and self-deception practised by nationalism is
- this: nationalism is, essentially, the general imposition of a high
- culture on society, where previously low cultures had taken up the
- lives of the majority, and in some cases of the totality, of the
- population. It means that generalized diffusion of a school-mediated,
- academy-supervised idiom, codified for the requirements of reasonably
- precise bureaucratic and technological communication. It is the
- establishment of an anonymous, impersonal society, with mutually
- substitutable atomized individuals, held together above all by a
- shared culture of this kind, in place of a previous complex structure
- of local groups, sustained by folk cultures reproduced locally and
- idiosyncratically by the micro-groups themselves. That is what really
- happens.
+this: nationalism is, essentially, the general imposition of a high
+culture on society, where previously low cultures had taken up the
+lives of the majority, and in some cases of the totality, of the
+population. It means that generalized diffusion of a school-mediated,
+academy-supervised idiom, codified for the requirements of reasonably
+precise bureaucratic and technological communication. It is the
+establishment of an anonymous, impersonal society, with mutually
+substitutable atomized individuals, held together above all by a
+shared culture of this kind, in place of a previous complex structure
+of local groups, sustained by folk cultures reproduced locally and
+idiosyncratically by the micro-groups themselves. That is what
+*really* happens.
 
 But this is the very opposite of what nationalism affirms and what
- nationalists fervently believe. Nationalism usually conquers in the
- name of a putative folk culture. Its symbolism is drawn from the
- healthy, pristine, vigorous life of the peasants, of the Volk, the 
- narod. There is a certain element of truth in the nationalist
- self-presentation when the narod or Volk is ruled by officials of
- another, an alien high culture, whose oppression must be resisted
- first by a cultural revival and reaffirmation, and eventually by a
- war of national liberation. If the nationalism prospers it eliminates
- the alien high culture, but it does not then replace it by the old
- local low culture; it revives, or invents, a local high (literate,
- specialist-transmitted) culture of its own, though admittedly one
- which will have some links with the earlier local folk styles and
- dialects [on the surface].
+nationalists fervently believe. Nationalism usually conquers in the
+name of a putative folk culture. Its symbolism is drawn from the
+healthy, pristine, vigorous life of the peasants, of the Volk, the 
+narod. There is a certain element of truth in the nationalist
+self-presentation when the narod or Volk is ruled by officials of
+another, an alien high culture, whose oppression must be resisted
+first by a cultural revival and reaffirmation, and eventually by a war
+of national liberation. If the nationalism prospers it eliminates the
+alien high culture, but it does not then replace it by the old local
+low culture; it revives, or invents, a local high (literate,
+specialist-transmitted) culture of its own, though admittedly one
+which will have some links with the earlier local folk styles and
+dialects [on the surface].
 
 The transition from agrarian to industrial society has a kind of
 entropy quality, a shift from pattern to systematic
