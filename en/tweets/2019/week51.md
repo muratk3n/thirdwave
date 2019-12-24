@@ -1,5 +1,29 @@
 # Tweets - Week 51
 
+There is a top-level domain name .wtf. U cld have whatever.wtf. There
+is internet.wtf.
+
+*2019-12-24 8:23:58*
+
+---
+
+Interesting.
+
+Signed by HW
+
+"[Since] 1992 Energy Policy Act, hydrogen is considered an alternate
+fuel and is thus eligible for tax credits"
+
+*2019-12-23 22:48:1*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This mind-bending timelapse with the Milky Way stabilized shows the Earth is spinning through space. <a href="https://t.co/mSEAKA8MaP">pic.twitter.com/mSEAKA8MaP</a></p>&mdash; Physics &amp; Astronomy Zone🔭 (@ZonePhysics) <a href="https://twitter.com/ZonePhysics/status/1209134019109101568?ref_src=twsrc%5Etfw">December 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2019-12-23 22:44:43*
+
+---
+
 Same issue again. Sine waves would be *modeling* - too much work
 
 *2019-12-19 0:49:48*

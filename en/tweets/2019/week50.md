@@ -50,7 +50,7 @@ UK elecs are short and sweet. Good.
 
 ---
 
-Some motherfucker's are aaalways trying to ice skate uphill.
+Some motherfuckers are aaalways trying to ice skate uphill.
 
 "There are still those who think batteries are a viable storage solution"
 
