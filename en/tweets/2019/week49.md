@@ -18,7 +18,7 @@ of running that was only possible in [its] new style of shoe [which]
 allowed people to run in a way no humans safely could before: by
 landing on their bony heels.' ...  Before the advent of these shoes in
 1972, Lieberman has noted, “People ran in very thin-soled shoes, had
-strong feet, and had much lower incidence of knee injuries.'"
+strong feet, and had much lower incidence of knee injuries.'" \#civilizedToDeath
 
 *2019-12-4 23:57:52*
 

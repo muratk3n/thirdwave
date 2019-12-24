@@ -60,8 +60,8 @@ left, be a closer, get elected, then deliver left).
 
 Basically the motto is get elected, somehow, then deliver left, ppl
 will feel the diff and vote for you. Parties who did not do that have
-been disappearing - we talk a lot abt US, UK, how Dems are miserable
-there, but in Germany too, bcz of "Third Way" Schroder SPD
+been disappearing - we talk a lot abt US, UK, how Dem equivalents are
+miserable there, but in Germany too, bcz of "Third Way" Schroder SPD
 cratered. Clinton, Blair hipsterism will only carry you so far.
 
 \#ukelection
