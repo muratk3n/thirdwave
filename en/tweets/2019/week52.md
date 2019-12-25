@@ -618,8 +618,8 @@ This is the game - mostly about how things look.
 ---
 
 Two Star Wars fans I've seen were *disturbed* after this last
-one. Like Whhhhaaaat da f%%$% was DAT? Like long face, all down and
-everything. I didnt think anyone could make a movie that bad.
+one. Like Whhhhaaaat da f%%$% was DAT? With long face, looking down
+and everything. I didnt think anyone could make a movie that bad.
 
 *2019-12-20 15:56:13*
 
