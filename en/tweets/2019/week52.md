@@ -637,7 +637,7 @@ about that time I got chewed out by Bernie.
 
 ---
 
-Bootyjudge just got chewed out by his one-time hero, right?
+Bootyjudge was just slam dunked by his one-time hero, right?
 
 \#demdebate
 
