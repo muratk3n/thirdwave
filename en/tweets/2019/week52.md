@@ -401,7 +401,7 @@ Craig and Kathryn Hall, are longtime party donors; Kathryn was an
 ambassador to Austria under President Bill Clinton. This battle might
 be about money in progressive politics, but it’s also part of a much
 larger war over American wealth, fought in part because of what the
-internet has illuminated about the nation’s inequality" - The Atlantic
+internet has illuminated about the nation’s inequality" -- The Atlantic
 
 [Link](https://www.theatlantic.com/health/archive/2019/12/why-people-hated-mayor-petes-wine-cave-fundraiser/604009/)
 
@@ -427,8 +427,7 @@ overthrow bad ones, with limited detours to explore the consequential
 backstory of the main hero and main villain. Upon this sturdy spine,
 Lucas and his team draped exquisite set pieces set in interesting
 locations. The characters lingered in snow bases and treetop
-villages. The journey was absolutely as important as the destination"
-- The Atlantic
+villages. The journey was absolutely as important as the destination" -- The Atlantic
 
 [Link](https://www.theatlantic.com/entertainment/archive/2019/12/star-wars-rise-skywalker-gives-world-building/604000)
 
