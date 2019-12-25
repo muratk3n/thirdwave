@@ -619,7 +619,9 @@ This is the game - mostly about how things look.
 
 Two Star Wars fans I've seen were *disturbed* after this last
 one. Like Whhhhaaaat da f%%$% was DAT? With long face, looking down
-and everything. I didnt think anyone could make a movie that bad.
+and everything. I didnt think anyone could make a movie that bad.  I
+never thought I'd think fondly of the prequels. The latest shit makes
+them look like masterpieces!
 
 *2019-12-20 15:56:13*
 
