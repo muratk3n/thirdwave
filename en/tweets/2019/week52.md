@@ -578,7 +578,7 @@ way too far gone to analyze the world anymore?
 ---
 
 This is odd. Two EU members (France and Italy) backing different sides
-in in Libyan civil war.
+in Libyan civil war.
 
 "In Libya, where dozens of rival militias have been fighting for
 supremacy since the 2011 NATO war, the two EU members are conducting a
