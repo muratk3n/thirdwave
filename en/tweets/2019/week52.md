@@ -369,7 +369,7 @@ Out[1]: 95.0
 
 Now we know for sure
 
-<img width="340" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Empirical_Rule.PNG/450px-Empirical_Rule.PNG"/>
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/Empirical_Rule.PNG/450px-Empirical_Rule.PNG"/>
 
 *2019-12-22 20:34:4*
 
