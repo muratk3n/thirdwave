@@ -425,12 +425,6 @@ revealing. It bodes poorly for the future on a number of levels"
 
 ---
 
-Someone just said Cuck Todd. C'mon. Is this guy that much of a firebrand?
-
-*2019-12-29 19:27:40*
-
----
-
 Kirchner is back in Argentina. Great. She'd done her bit previously,
 then the next guy as imcumb faceplanted, now she is back (as
 VP). Great. No shananigans. I support left by default if there are no
@@ -513,14 +507,6 @@ They're ALL happening.
 
 
 *2019-12-29 11:14:45*
-
----
-
-😊 Lovely
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Me: I’m not here to be your friend<br>8yo: what??<br>Me: I mean, I’m here to be your parent<br>Me: to take care of you<br>Me: and sometimes I’ll make choices that upset you<br>Me: and it’s ok if you sometimes don’t like me<br>8yo: ....<br>8yo: well I’M here to be YOUR friend</p>&mdash; Anne Thériault (@anne_theriault) <a href="https://twitter.com/anne_theriault/status/1210721558760587264?ref_src=twsrc%5Etfw">December 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-29 0:47:13*
 
 ---
 
