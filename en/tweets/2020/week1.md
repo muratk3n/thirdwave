@@ -169,8 +169,8 @@ successes there) and desalination at the same time.
 
 ---
 
-Have to. Really? Especially when the connection btw work and outcome
-are so disconnected.
+Have to. Really? Especially when the work and outcome are so
+disconnected.
 
 I think subconciously they are feeling the creakiness of the current
 structures. Since young age being expsed to tech a lot of the
