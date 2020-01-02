@@ -243,8 +243,6 @@ Cookieee
 
 ---
 
-Too much centralization not a good thing.
-
 "@byuu_san
 
 My site was flagged again. Therefore, all downloads have been removed
@@ -426,9 +424,9 @@ revealing. It bodes poorly for the future on a number of levels"
 ---
 
 Kirchner is back in Argentina. Great. She'd done her bit previously,
-then the next guy as imcumb faceplanted, now she is back (as
-VP). Great. No shananigans. I support left by default if there are no
-shananigans. No funkiness. 
+then the guy after her as imcumb faceplanted, now she is back (as
+VP). Great. No shananigans. I support left by default as long as there
+are no shananigans
 
 *2019-12-29 18:14:3*
 
@@ -468,7 +466,8 @@ leaving the country.  'Is it the Brexit thing?'  Yes"
 ---
 
 Interesting. Weapon designers like this kind of weaknesses right? They
-might get enough of an opportunity to shoot an HS missile down.
+might get enough of an opportunity during that slowdown to shoot the HS
+missile down.
 
 Lit saz hypersonic requires better targeting, hence satellite
 guidance. Is this why US now has a Space Force now?
@@ -476,8 +475,8 @@ guidance. Is this why US now has a Space Force now?
 "@aaronstein1
 
 Turning at very high speeds [for hypersonics] puts considerable stress
-on metal, so [hypersonic] Avangard reentry is — wait for it — slower
-than a normal Russian ICBM"
+on metal, so Avangard reentry is — wait for it — slower than a normal
+Russian ICBM"
 
 *2019-12-29 11:37:40*
 
