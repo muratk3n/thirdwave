@@ -25,7 +25,7 @@ gains. Who'd have guessed?
 
 ---
 
-Yeah nice try dumbass.. [See](https://www.downtoearth.org.in/news/science-&-technology/amp/three-body-problem-needs-real-and-not-artificial-solution-67592). "The problem is that AI works for only a finite length of time, and one doesn’t know in advance how much time it would take if a particular three-body problem hasn’t been studied before"
+Yeah nice try..  [See](https://www.downtoearth.org.in/news/science-&-technology/amp/three-body-problem-needs-real-and-not-artificial-solution-67592). "The problem is that AI works for only a finite length of time, and one doesn’t know in advance how much time it would take if a particular three-body problem hasn’t been studied before"
 
 "A neural net solves the three-body problem 100 million times faster"
 
