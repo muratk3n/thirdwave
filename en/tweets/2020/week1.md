@@ -35,15 +35,6 @@ Yeah nice try dumbass.. [See](https://www.downtoearth.org.in/news/science-&-tech
 
 ---
 
-F#$K PENCILD$@#$K M#@$F(#KA IMMA #$# UP AND DOWN THAT
-ASS #$@# C#$ SCREW
-
-But... with smiles.. harp music  😁😁😁😁♪♬♪♬
-
-*2020-1-1 15:49:3*
-
----
-
 So.. new year new decade.. Should I adapt kinder gentler tone? Imagine
 I m smiling more while I write this and there is a gentle harp music
 in the background 😁😁😁😁♪♬♪♬
