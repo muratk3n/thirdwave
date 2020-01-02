@@ -76,7 +76,7 @@ screwed. Gordon Brown, Gore, Hillary all paid that price.
 
 It'd be great if he left it at that... Then why do all the "top-up
 fee" stuff, worse, the Iraq War? Dubya had not even asked him to join
-(it's true TB jumped in head first, noone was calling on Britain to do
+(it's true TB inserted himself in there, noone was calling on Britain to do
 anything).
 
 "But Blair did some left moves while in gov, like funding the NHS"
@@ -100,7 +100,7 @@ Redouche: When a person keep making same douchy mistake, over and over again.
 ---
 
 After a few dead links and major searchification found the matfart
-code. Guess what'll happen to it next. Oh yes 🐍. 
+code. Guess what'll happen to it next 🐍. 
 
 *2020-1-1 11:55:9*
 
@@ -141,20 +141,6 @@ My favorite slogan is 'Nice graphics always wins", but now my second
 slogan is "Nice documentation always wins'"
 
 *2019-12-31 22:11:52*
-
----
-
-I go back and forth btw intense survival level activity to intense
-relaxed state.
-
-*2019-12-31 20:7:58*
-
----
-
-Green tomato sauce. 1st time I heard of that m-f-ka and I grew up near
-a tomato paste production plant.
-
-*2019-12-31 19:55:34*
 
 ---
 
