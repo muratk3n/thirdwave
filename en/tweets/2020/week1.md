@@ -76,9 +76,11 @@ anything).
 
 ---
 
-Overdouche: When you are so douche it extends beyond any definition of douche.
+Overdouche: When you are so douche it extends beyond any definition of
+douche.
 
-Redouche: When a person keep making same douchy mistake, over and over again.
+Redouche: When a person keeps making same douchy mistake, over and over
+again.
 
 *2020-1-1 13:8:15*
 
