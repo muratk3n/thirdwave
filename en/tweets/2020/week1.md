@@ -449,7 +449,7 @@ might get enough of an opportunity during that slowdown to shoot the HS
 missile down.
 
 Lit saz hypersonic requires better targeting, hence satellite
-guidance. Is this why US now has a Space Force now?
+guidance. Is this why US now has a Space Force?
 
 "@aaronstein1
 
