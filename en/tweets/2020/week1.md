@@ -1,11 +1,5 @@
 # Tweets - Week 1
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You did it. <a href="https://t.co/p1lHVr2VIj">pic.twitter.com/p1lHVr2VIj</a></p>&mdash; Tim Tagaris (@ttagaris) <a href="https://twitter.com/ttagaris/status/1212435053449555971?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-1 20:58:1*
-
----
-
 The man. The legend.
 
 <blockquote class="twitter-tweet"><p lang="nl" dir="ltr">&gt;&gt;&gt; greetings = [&quot;world hello&quot;, &quot;nieuwjaar gelukkig&quot;, &quot;happy year new&quot;]<br>&gt;&gt;&gt; for g in greetings:<br>... words = sorted(g.split())<br>... print(&quot; &quot;.join(words).title())<br>... <br>Hello World<br>Gelukkig Nieuwjaar<br>Happy New Year<br>&gt;&gt;&gt;</p>&mdash; Guido van Rossum (@gvanrossum) <a href="https://twitter.com/gvanrossum/status/1212404308169261056?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
