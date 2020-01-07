@@ -469,7 +469,7 @@ For Apple the data URL would be
 https://financialmodelingprep.com/api/v3
 /financials/income-statement/AAPL?period=quarter
 
-The output text based a so-called JSON format. Useful stuff... For
+The output is text based, a so-called JSON format. Useful stuff... For
 TSLA YoY revenue
 
 ```python
