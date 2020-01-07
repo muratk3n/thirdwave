@@ -380,7 +380,7 @@ And wait until 19Q4 GDP comes out. Near zero will make ppl's eyes go pop 👀
 
 ---
 
-Portugal has found an antidote to right wing populism
+"Portugal has found an antidote to right wing populism"
 
 [Link](https://kontrast.at/portugal-economy-right-wing/amp/?fbclid=IwAR0tIXdPeXiSjClCLnxCfyUave5grijLOLhvwPUBmDaXzSLNPd1o0L7gp70)
 
