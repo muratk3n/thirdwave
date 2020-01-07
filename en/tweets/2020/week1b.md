@@ -121,14 +121,14 @@ good thing.
 
 ---
 
-Lit saz piecewise splines are implemented with `c0 + c1*max(0,x-a) +
-c2*max(x-b) + ...`. U can get bunch of connected line this way
+Lit saz piecewise splines are implemented with `c0 + c1*max(0,u-a) +
+c2*max(u-b) + ...`. U can get bunch of connected lines this way
 wiggling any way you want.. a,b are knots.
 
-So `max` is just a switch. I thinks I can smootha dat, `def sig(x,a):
-return (x-k)*1/(1+np.exp(-rho*(x-k)))`, little smooth func that flips
-gentler instead of max, nam sayin'? Then `c0 + c1*sig(x,a) +
-c2*sig(x-b) + ...`. Sheeee-iiit
+So `max` is just a switch. I thinks I can smootha dat, `def s(u,b):
+return (u-k)*1/(1+exp(-tau*(u-k)))`, little smooth func that flips
+gentler instead of max, nam sayin'? Then `c0 + c1*s(x,a) +
+c2*s(x-b) + ...`. Sheeee-iiit
 
 Works really well. Even in parametrized form over `t`. But I cant find
 uses of this anywhere.. I cant be the 1st jagoff who thought of this
