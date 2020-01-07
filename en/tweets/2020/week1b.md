@@ -206,7 +206,7 @@ go to the bathroom. Hurry
 
 ---
 
-If we can get fast, energy efficient payments, there are gazillion
+If we can get fast payments done, there are gazillion
 possibilities. Payments for artists can become extremely
 efficient. Say I am listening to a song, *War*, I can send a payment
 to that name, to that song, laser like. That name will be placeholder,
