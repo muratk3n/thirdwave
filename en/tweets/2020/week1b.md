@@ -209,8 +209,8 @@ go to the bathroom. Hurry
 If we can get fast payments done, there are gazillion
 possibilities. Payments for artists can become extremely
 efficient. Say I am listening to a song, *War*, I can send a payment
-to that name, to that song, laser like. That name will be placeholder,
-all $$ to that name is distributed to all stakeholders behind that
+to that name, to that song, direct. That name will be placeholder, all
+$$ to that name is distributed to all stakeholders behind that
 name. It could be Edwin Starr, the Tempations, James Brown, or Chris
 Tucker and JChan for singing it that one time in a movie - I dont
 care. People can argue among themselves in courts who needs to be part
