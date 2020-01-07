@@ -272,7 +272,7 @@ concepts. Even space station wastes could be fed to such a thruster"
 ---
 
 Yes enough with this singular effort bull. Billionaires, individuals
-through "personal empowerement" are asked to solve things that are
+through "personal empowerment" are asked to solve things that are
 mostly the (intended) effects of a system.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe. But I think &quot;humans&quot; are embedded in systems that are beyond their control, like termites, ants, flocking birds, schooling fish, and so on. We have much less control than most of us think. <a href="https://t.co/8LwxrfeGyo">https://t.co/8LwxrfeGyo</a></p>&mdash; Christopher Ryan (@ThatChrisRyan) <a href="https://twitter.com/ThatChrisRyan/status/1213701980800946177?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
