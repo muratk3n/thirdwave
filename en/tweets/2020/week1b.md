@@ -372,7 +372,7 @@ Study: Cold Weather Has Significant Impact On Electric Bus Range
 ---
 
 PMI [fell](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#pmi) *again*.
-It's been down since Aug '19, sub which was sub 50. 
+It's been down since Aug '19, sub 50. 
 
 And wait until 19Q4 GDP comes out. Near zero will make ppl's eyes go pop 👀
 
