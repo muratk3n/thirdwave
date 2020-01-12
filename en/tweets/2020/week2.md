@@ -343,7 +343,7 @@ Iran - an Axis of Evil country let's not forget (the others were Iraq
 During Iran-Iraq War both sides tied. So it would be reasonable to
 expect that Iran War would be as hard as the Iraq War.
 
-"Iran would be much worse (to fight against than Iran)"
+"Iran would be much worse (to fight against) than Iran"
 
 *2020-1-9 21:17:30*
 
