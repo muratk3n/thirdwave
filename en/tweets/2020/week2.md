@@ -143,9 +143,8 @@ NASA: Study Confirms Climate Models are Getting Future Warming Projections Right
 
 ---
 
-Need to close better. I'd do a research and find key applications in
-each domain and hit the execs with examples from their domain when
-they come to visit
+Need to close better. I'd do a research and find key applications and
+hit the execs with examples from their domain when they come to visit
 
 "[Rant from Opt Prof, about how diff it is to sell his field] The
 Dean, in his office, is receiving a delegation from a prominent firm,
