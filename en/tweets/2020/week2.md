@@ -153,8 +153,8 @@ institutions. The goal is to pair a technical contact from the firm
 with a faculty member from the university... Once, when I was younger
 and more naive, I figured I might as well make the industrialist
 happy.  During one of these meetings, after a couple of iterations of
-“what application field do you work on?”  followed by “this is really
-the wrong question”, I had decided to break the monotony and
+'what application field do you work on?'  followed by 'this is really
+the wrong question', I had decided to break the monotony and
 hopelessness of the exchange by stating I work on shortest paths in
 road networks.
 
