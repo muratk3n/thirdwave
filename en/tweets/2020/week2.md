@@ -37,7 +37,7 @@ spread. You would use it bcz it gives money. Then it is snowball
 effect, also ideology. Once enough people prefer it, say NanoX, do not
 transact with a anything other than that currency, some will choose it
 for ideological reasons bcz they want to be "with those folks over
-there". I'll go to barber bcz he takes NanoX.
+there". 
 
 *2020-1-12 11:38:9*
 
@@ -73,7 +73,7 @@ from FOMO [fear of missing out]...
 
 ---
 
-You need to __close__ morose moth-f-ka. That's what you need to do.
+You need to __close__ morose moth..f.ka. That's what you need to do.
 
 \#ABC
 
@@ -246,8 +246,8 @@ up to no good. Sold their soul to the Chinese too.
 
 ---
 
-'Designed by clowns': Boeing employees ridicule 737 MAX, regulators in
-internal messages -- Reuters
+"'Designed by clowns': Boeing employees ridicule 737 MAX, regulators in
+internal messages" -- Reuters
 
 *2020-1-10 20:1:4*
 
