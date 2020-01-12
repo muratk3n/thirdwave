@@ -88,9 +88,9 @@ their chosen successor take their place.
 
 ---
 
-Australia is ramping up investment in the nascent hydrogen energy
+"Australia is ramping up investment in the nascent hydrogen energy
 industry, with a $370 million fund for new projects gaining support at
-Friday's meeting of state and federal ministers in Perth.
+Friday's meeting of state and federal ministers in Perth"
 
 [Link](https://www.smh.com.au/politics/federal/hydrogen-stimulus-package-to-power-australian-energy-exports-20191122-p53d7c.html)
 
