@@ -121,7 +121,7 @@ Wins Landslide Re-election" -- @zerohedge
 
 Who shares code in HTML with weird breaks in formatting..?
 
-It feels like I am on an archeological dig on a long-dead
+It feels like I am on an archeological dig for a long-dead
 civilization
 
 *2020-1-11 19:8:5*
