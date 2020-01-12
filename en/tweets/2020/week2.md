@@ -73,7 +73,7 @@ from FOMO [fear of missing out]...
 
 ---
 
-You need to __close__ morose moth..f.ka. That's what you need to do.
+You need to __close__, morose moth..f.ka. That's what you need to do.
 
 \#ABC
 
