@@ -147,8 +147,9 @@ Need to close better. I'd do a research and find key applications in
 each domain and hit the execs with examples from their domain when
 they come to visit
 
-"The Dean, in his office, is receiving a delegation from a prominent
-firm, with the aim of promoting a partnership between the two
+"[Rant from Opt Prof, about how diff it is to sell his field] The
+Dean, in his office, is receiving a delegation from a prominent firm,
+with the aim of promoting a partnership between the two
 institutions. The goal is to pair a technical contact from the firm
 with a faculty member from the university... Once, when I was younger
 and more naive, I figured I might as well make the industrialist
