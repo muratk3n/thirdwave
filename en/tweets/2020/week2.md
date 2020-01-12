@@ -80,7 +80,7 @@ You need to __close__, morose moth..f.ka. That's what you need to do.
 That is the game for challengers. Incumbent needs to deliver. The
 delivery will seep through pocketbook, a rough popularity measure,
 opinion leaders - then pol might just get reelected, and even, have
-their chosed successor take their place.
+their chosen successor take their place.
 
 "Politician: People dont vote for me. What can I do?"
 
