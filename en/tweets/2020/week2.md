@@ -191,7 +191,7 @@ Maybe the new Trudeau beard killed him
 
 ---
 
-Peirt as in of Rush, from Canada
+Peart as in of Rush, from Canada
 
 *2020-1-11 10:31:2*
 
