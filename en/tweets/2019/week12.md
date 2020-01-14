@@ -1,6 +1,8 @@
 
 
-[Link](If you are, like me, often ponder over the question of why DNN with so many parameters can generalize without severe overfitting, check this out:)
+[Link](If you are, like me, often ponder over the question of why DNN
+with so many parameters can generalize without severe overfitting,
+check this out:)
 
 "If you are, like me, often ponder over the question of why DNN with so
 many parameters can generalize without severe overfitting, check this
@@ -9,11 +11,13 @@ out"
 Many parameters create many optimal points that are equivalent but
 gives more chances to the optimizer to reach them
 
-[Video](https://youtu.be/8zdo6cnCW2w?t=1050)
+[Video](https://youtu.be/8zdo6cnCW2w?t=1136)
 
 ---
 
-Now that I think abt it, even a regular grid is really a stupid f--ing idea. Bunch of lines all over the country that needs maintanance..? Dude.
+Now that I think abt it, even a regular grid is really a stupid f--ing
+idea. Bunch of lines all over the country that needs maintanance..?
+Dude.
 
 ---
 
