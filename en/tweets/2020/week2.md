@@ -379,19 +379,6 @@ live alone in the woods,"
 
 ---
 
-Good shit
-
-"@joelwatsonfish
-
-Just in case you want a quick way to convince your calculus students
-that the trig sum formulas are true."
-
-<img width="340" src="https://pbs.twimg.com/media/ENtg0MRXkAwpM2V?format=png&name=900x900"/>
-
-*2020-1-9 15:8:55*
-
----
-
 Great story on Dantzig (shared
 [here](https://muratk3n.github.io/thirdwave/en/2016/08/dantzig.html)
 before) - he comes late to class copying down the problems on the
