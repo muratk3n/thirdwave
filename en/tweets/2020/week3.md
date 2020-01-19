@@ -76,7 +76,7 @@ Burrito is sorta ethnic, is this MAGA diversity? 😶😶
 
 ---
 
-Wasn't the original wording with sandwich?"
+Wasn't the original wording with sandwich?
 
 *2020-1-18 10:10:0*
 
