@@ -1,5 +1,16 @@
 # Tweets - Week 3
 
+Told ya. With EU relationship weakening, u r powned by US ow. Next up is
+a full, hearty, nice stew of chlorinated chicken, and four-eyed fish
+right out of Hudson River.
+
+"Trump threatened UK with 25% car tariffs unless it agreed to accuse
+Iran of breaking nuclear deal"
+
+*2020-1-19 9:42:45*
+
+---
+
 "AI" might be heading toward the same direction, with bigger and
 bigger Nets, more and more computing power.
 
@@ -631,6 +642,16 @@ we minimize the smooth function by an efficient gradient method"
 [Link](http://www.lx.it.pt/~mtf/Afonso_BioucasDias_Figueiredo_twocolumn_v7.pdf)
 
 *2020-1-13 14:9:27*
+
+---
+
+"In the third year of the Trump presidency, which has not been
+particularly supportive of renewables, U.S. clean energy investment
+set a new record by a country mile"
+
+[Link](https://twitter.com/business/status/1217797816585728000)
+
+*2020-1-13 14:1:7*
 
 ---
 
