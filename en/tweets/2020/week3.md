@@ -361,6 +361,14 @@ Société Générale +2
 
 ---
 
+Eugen Illin - Madison Square 1 \#music
+
+[Link](https://youtu.be/jNYxKdMG4r8)
+
+*2020-1-15 18:32:5*
+
+---
+
 A big fan of approximation, smoothing. Second func is approx version
 of 1st. But the 2nd func is twice differentiable. 
 
