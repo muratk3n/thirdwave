@@ -40,9 +40,11 @@ primary reasons:
   and bio fuels
 
 * Improving efficiency and reducing energy use beyond what will occur
-under “business as usual” ‍ The shifts above would reduce end-use
-energy by 57.1%, reduce private energy costs to $6.8T per year, and
-reduce social costs to $6.8T per year
+under “business as usual” ‍
+
+The shifts above would reduce end-use energy by 57.1%, reduce private
+energy costs to $6.8T per year, and reduce social costs to $6.8T per
+year
 
 The net job creation from this plan would be 28.6M
 
