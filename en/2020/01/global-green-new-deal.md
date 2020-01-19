@@ -49,8 +49,8 @@ year
 The net job creation from this plan would be 28.6M
 
 Gains would occur in construction of generation, storage, and
-transmission, EV manufacturing, the electrification/maintenance of all
-vehicles ranging from lawn mowers to airplanes, solar and wind
+transmission, [FC]EV manufacturing, the electrification/maintenance of
+all vehicles ranging from lawn mowers to airplanes, solar and wind
 maintenance, etc...  The biggest job losses would be in mining,
 transporting, and processing fossil fuels as well as the opportunity
 costs of not constructing generation plants powered by fossil fuels,
@@ -89,7 +89,7 @@ Regulators and politicians would be well-served in helping their
 constituents understand that we are making a multi-generational
 investment into our future while incentivizing the private sector to
 tackle these problems in the way they have done with wind, solar and
-EV’s.
+[FC]EV’s.
 
 Overall, it’s clear that the transition is a net positive one
 regardless of the climate and social gains as a result of it
