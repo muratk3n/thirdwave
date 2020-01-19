@@ -595,9 +595,8 @@ social safety net as it is, that adding BI on top clogs the agenda.
 ---
 
 That's the spirit. Instead of going to bizarro land to handle
-non-differentiability, approximate with smooth func, and use
-well-behaving methods on differentiable funcs. Fu#$in Russkie
-motherf--ker. Good job.
+non-differentiability, approximate with smooth func, and use robust,
+well-behaving methods on differentiable funcs. 
 
 Yurii Nesterov: "Historically, the subgradient methods were the first
 numerical schemes for non-smooth convex minimization .. We present a
