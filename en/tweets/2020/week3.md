@@ -1,6 +1,6 @@
 # Tweets - Week 3
 
-Told ya. With EU relationship weakening, u r powned by US ow. Next up is
+Told ya. With EU relationship weakening, u r p'owned by US now. Next up is
 a full, hearty, nice stew of chlorinated chicken, and four-eyed fish
 right out of Hudson River.
 
