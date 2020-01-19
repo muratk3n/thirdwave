@@ -482,7 +482,9 @@ Kaleeefornia. Sacramento is not all comatose
 
 "@Lecocq_dom
 
-🇺🇸 California is looking to use #hydrogen-powered buses and trucks to cut pollution from transport, the giant state’s largest source of carbon emissions"
+California is looking to use #hydrogen-powered buses and trucks to cut
+pollution from transport, the giant state’s largest source of carbon
+emissions"
 
 *2020-1-14 19:27:47*
 
