@@ -541,13 +541,13 @@ Toyota’s City Of The Future"
 Exec ability is most easily proven through service in goverment
 (contrary to pop belief, it still matters). Boris J was not too suave
 but he is enough of oaf, with some presence, and was the mayor of a
-large city once. If that managerial skill is seen in action, that is
+large city once. If that managerial skill is seen on media, that is
 okay too; people saw Trump acting as an executive on a show, that was
 good. Hell, the current Ukrainian President merely *played* a
 President on TV, even that was proof enough of managerial ability.
 
 The rest is media / mind manipulation - at a cultural level - second
-level in the brain (issues, policies come dead last, the third level)
+level in the brain, stronger than intellect
 
 *2020-1-14 13:18:41*
 
