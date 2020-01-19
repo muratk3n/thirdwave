@@ -596,8 +596,8 @@ social safety net as it is, that adding BI on top clogs the agenda.
 
 That's the spirit. Instead of going to bizarro land to handle
 non-differentiability, approximate with smooth func, and use
-tried-and-true, well-behaving methods on differentiable funcs. Fu#$in
-Russkie motherf--ker. Good job.
+well-behaving methods on differentiable funcs. Fu#$in Russkie
+motherf--ker. Good job.
 
 Yurii Nesterov: "Historically, the subgradient methods were the first
 numerical schemes for non-smooth convex minimization .. We present a
@@ -616,8 +616,6 @@ we minimize the smooth function by an efficient gradient method"
 *2020-1-13 18:7:38*
 
 ---
-
-Well put. 
 
 "In [a certain] class of problems, a noisy indirect observation y, of an original image x, is modeled as y = Bx + n .. It is well known that the problem of estimating x from y is ill-posed, thus this inverse problem can only be solved satisfactorily by adopting some sort of regularization"
 
@@ -692,7 +690,7 @@ all along'"
 ---
 
 Hah. Policy is a skill, can be taught, improved etc. Not something
-random guy of the street can do. Shocking.
+random guy off the street can do. Shocking.
 
 "The Australian Science Policy Fellowship Pilot Program gives
 scientists the opportunity to work in a Commonwealth Government
@@ -716,9 +714,9 @@ policy practitioners"
 '@jmpalmieri
 
 Congratulations to @BernieSanders and his campaign bc, if I am not
-mistaken, the person who has led this poll [The De Moines Register
-poll] has gone on to be nominee in last six cycles. Leading this poll
-is momentous"
+mistaken, the person who has led this poll [The De Moines Register]
+has gone on to be nominee in last six cycles. Leading this poll is
+momentous"
 
 *2020-1-12 22:55:54*
 
