@@ -29,9 +29,7 @@ The shift to Wind-Water-Solar reduces end-use energy consumption for 5
 primary reasons:
 
 * Efficiency of electricity and hydrogen over combustion in
-  transportation
-
-...
+  transportation ...
 
 * Efficiency of moving low-temperature building air and water hear
   with heat pumps
