@@ -1,11 +1,11 @@
 # A Global Green New Deal
 
+[Link](https://www.kevindstevens.com/post/a-global-green-new-deal)
+
 Right before Christmas, researchers from Stanford and Berkley,
 published a 119-page report on the impact of a global GND on grid
 stability, costs, jobs, health and climate across 143 countries
 grouped into 24 regions.
-
-https://www.kevindstevens.com/post/a-global-green-new-deal
 
 The plan would require an investment of about $73T USD over the next
 30 years, but the research shows that a payback period, adjusted for
