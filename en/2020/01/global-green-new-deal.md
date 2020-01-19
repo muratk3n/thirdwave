@@ -31,8 +31,6 @@ primary reasons:
 * Efficiency of electricity and hydrogen over combustion in
   transportation
 
-* Efficiency of electricity over combustion for industrial heat
-
 * Efficiency of moving low-temperature building air and water hear
   with heat pumps
 
