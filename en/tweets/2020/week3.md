@@ -563,13 +563,13 @@ Again, gotta be part oaf, cool, not crass, with provably present
 executive ability....
 
 "People who voted for [X] said that 'I could imagine haing having a
-bear with him'"
+beer with him'"
 
 *2020-1-14 13:12:4*
 
 ---
 
-Israeli left-wing merges b4 next election 
+Israeli left-wing merges before the next election 
 
 [Link](https://youtu.be/8SiXk68CbBU)
 
