@@ -673,7 +673,8 @@ hard time selling electric cars in Europe"
 
 Yes. See the same video.
 
-"Are deep nets non-convex?"
+"Are deep nets (that is, their objective functions for data fitting)
+non-convex?"
 
 *2020-1-13 12:35:15*
 

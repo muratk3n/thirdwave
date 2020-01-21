@@ -8,14 +8,6 @@ This guy lost it, killed himself \#SNL
 
 ---
 
-Linux Deploy - another option for true Unix on Android.
-
-Great, bcz scipy was having some probs on latest Termux.
-
-*2020-1-12 12:51:6*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Amazing scenes of protest in Tehran tonight. While thousand have been on the streets in months past, Tehran tended to shy away from protests. Not now. Incompetence of regime in downing the plane is just too much. <a href="https://t.co/UFJXX7Yx6c">pic.twitter.com/UFJXX7Yx6c</a></p>&mdash; Bessma Momani (@b_momani) <a href="https://twitter.com/b_momani/status/1216033477151191042?ref_src=twsrc%5Etfw">January 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-12 12:9:39*
