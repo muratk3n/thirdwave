@@ -615,22 +615,6 @@ social safety net as it is, that adding BI on top clogs the agenda.
 
 ---
 
-That's the spirit. Instead of going to bizarro land to handle
-non-differentiability, approximate with smooth func, and use robust,
-well-behaving methods on differentiable funcs. 
-
-Yurii Nesterov: "Historically, the subgradient methods were the first
-numerical schemes for non-smooth convex minimization .. We present a
-systematic way to approximate the initial non-smooth objective
-function by a function with Lipschitz-continuous gradient. After that
-we minimize the smooth function by an efficient gradient method"
-
-[Link](https://www.math.ucdavis.edu/~sqma/MAT258A_Files/Nesterov-2005.pdf)
-
-*2020-1-13 19:24:19*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia, Japan Sign Hydrogen Agreement: An Exciting Step Towards <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Future-Using hydrogen as clean, affordable &amp; sustainable source of energy is another step closer after Australia signed a joint statement of cooperation with Japan-<a href="https://t.co/yKDtQmortm">https://t.co/yKDtQmortm</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://t.co/zD8ZnK39nt">pic.twitter.com/zD8ZnK39nt</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1216736062359441409?ref_src=twsrc%5Etfw">January 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-13 18:7:38*
