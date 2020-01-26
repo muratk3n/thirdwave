@@ -6,8 +6,8 @@
 
 ---
 
-Yes yes I know the complaints about the budgetary issues. Isn't SF
-more worthwhile than frickin Afganistan tho?
+Yes yes lots of spending... Isn't SF more worthwhile than invading
+frickin Afganistan tho?
 
 *2020-1-25 23:4:28*
 
