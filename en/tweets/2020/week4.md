@@ -182,7 +182,7 @@ openly published). Freakin archeolog over here.
 
 New US company
 
-<img width=="340" src="https://pbs.twimg.com/card_img/1220474181566988290/Alnabpoa?format=jpg&name=small"/>
+<img width="340" src="https://pbs.twimg.com/card_img/1220474181566988290/Alnabpoa?format=jpg&name=small"/>
 
 *2020-1-24 16:0:52*
 
