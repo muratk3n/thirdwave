@@ -753,7 +753,8 @@ Avoidance of carbon leakage through borders - hard core.
 
 ---
 
-I hate to say it, the European Green Deal looks better than the US GND.
+I hate to say it, the [European Green Deal](https://muratk3n.github.io/thirdwave/en/2020/01/european-green-deal.html)
+looks better than the US GND.
 
 \#EUGND
 
