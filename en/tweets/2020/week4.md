@@ -513,17 +513,7 @@ That was water -> electrolysis -> hydrogen-ammonia -> shipping
 
 ---
 
-<font size=240px">
-⚡💧🚢
-</font>
-
-*2020-1-23 18:0:19*
-
----
-
-<font color="green" size=240px">
 GREEN AMMONIA FOR SHIPPING 
-</font>
 
 *2020-1-23 17:54:5*
 
