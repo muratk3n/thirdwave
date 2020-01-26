@@ -339,7 +339,7 @@ Balkans, ME, you kinda need your past to come from "somewhere
 else". Then, when the new state needs secularism (read: not-Islam),
 all of a sudden these mythical ancestors are following some
 shamaninism, praying to cat and dogs, porcupine, hyena... whatever's
-walking around basically. Loads of nonsense. This is utilitarian
+walking around basically. This is utilitarian
 history (re)construction.
 
 *2020-1-23 23:03:4*
