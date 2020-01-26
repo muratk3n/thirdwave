@@ -737,7 +737,7 @@ policy supports both. In the long term H2 will win, just like the VHS
 (vs Betamax).
 
 (But it is okay to say that 'both is needed' it will lull bitch
-batttery bitch BEV lovers into complacency)
+batttery, bitch BEV lovers into complacency)
 
 \#EUGND
 
