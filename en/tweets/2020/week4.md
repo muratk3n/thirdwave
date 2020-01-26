@@ -513,7 +513,7 @@ That was water -> electrolysis -> hydrogen-ammonia -> shipping
 
 ---
 
-<font align="center" size=240px">
+<font size=240px">
 ⚡💧🚢
 </font>
 
