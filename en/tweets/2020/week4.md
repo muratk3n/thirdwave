@@ -778,7 +778,7 @@ Know it or lose it.
 The forager vs modern man / farmer analysis appears in a few sources,
 but each enmeshed with other things, with some "unnecessary"
 noise. Ian Morris buried the main message in a book abt the West and
-the Rest, in a analysis on who is up who is down. Chris Ryan talks
+the Rest, in an analysis on who is up who is down. Chris Ryan talks
 about polygamy, monogamy at some length. Hariri gets into this
 national narrative business which in terms of origin and priority is
 essentially wrong.
