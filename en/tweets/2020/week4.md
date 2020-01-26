@@ -188,15 +188,6 @@ New US company
 
 ---
 
-Don't feel so superior to MSM, tuber. Most MSM ppl are smarter than
-you. They only have chosen to exist in a certain system with its own
-do's and don'ts. But they definitely see political angles better -
-even if it is not talked about much. 
-
-*2020-1-24 15:54:8*
-
----
-
 I trawl.. it's what I do. I trawl many places for pol analysis
 ideas. The Bernie-Warr-Biden poll time series correlation idea partly
 came from Dick Morris actually (he has a YT channel, now behind paypal
