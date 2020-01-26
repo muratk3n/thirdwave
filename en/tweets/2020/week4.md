@@ -305,11 +305,11 @@ lockdown
 
 [Link](https://reut.rs/2tL3nnh)
 
-Yo - looks like dude checked out?
-
 *2020-1-24 1:17:1*
 
 ---
+
+Yo - looks like dude checked out?
 
 [Link](https://twitter.com/QTRResearch/status/1220520065021435904)
 
