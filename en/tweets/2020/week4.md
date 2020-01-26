@@ -225,14 +225,10 @@ failure. This defeat of a classic working-class tactic no doubt fed
 the frustration that would produce the yellow vest movement...
 
 The anger of those living in the French periphery is so deep, issues
-from so many different layers of society, and springs from such a wide
-array of complaints that the traditional schemas of the left simply no
-longer apply. Shop owners and the self-employed play a significant
-role among the yellow vests. The left had answers—or thought it
-did—for an uprising of the workers, but not for one of the workers and
-shopkeepers. A seething anger has finally exploded, and the left is no
-longer its vehicle or interpreter. The anger now floats freely,
-striking where and when it will"
+from so many different layers of society... The left [has no answers]
+for one of the workers and shopkeepers. A seething anger has finally
+exploded, and the left is no longer its vehicle or interpreter. The
+anger now floats freely, striking where and when it will"
 
 [Link](https://www.foreignaffairs.com/articles/europe/bankruptcy-french-left)
 
