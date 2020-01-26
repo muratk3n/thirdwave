@@ -307,6 +307,10 @@ lockdown
 
 Yo - looks like dude checked out?
 
+*2020-1-24 1:17:1*
+
+---
+
 [Link](https://twitter.com/QTRResearch/status/1220520065021435904)
 
 *2020-1-24 1:16:15*
