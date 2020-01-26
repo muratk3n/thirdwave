@@ -190,7 +190,7 @@ New US company
 
 I trawl.. it's what I do. I trawl many places for pol analysis
 ideas. The Bernie-Warr-Biden poll time series correlation idea partly
-came from Dick Morris actually (he has a YT channel, now behind paypal
+came from Dick Morris actually (he has a YT channel, now behind paywall
 -bad for him-). He looked at the sum of Bernie-Biden poll counts, saw
 the sum did not change much indicating shared votes base (one's loss
 other's gain). Guy is a pro, thinking empirically - always looking for
