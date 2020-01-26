@@ -613,7 +613,7 @@ from you"
 
 ---
 
-Green Swan :|
+Green Swan !
 
 "@MichaelRoddan
 
