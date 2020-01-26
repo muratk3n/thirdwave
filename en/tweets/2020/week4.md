@@ -259,7 +259,7 @@ wealthy"
 
 ---
 
-👍 Bernie endorsement \#rogan 
+👍 \#bernie \#rogan 
 
 [Link](https://twitter.com/BernieSanders/status/1220445820505546755)
 
