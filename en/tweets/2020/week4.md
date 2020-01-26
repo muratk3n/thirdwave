@@ -521,7 +521,7 @@ That was water -> electrolysis -> hydrogen-ammonia -> shipping
 
 ---
 
-<font align="center" color="green" size=240px">
+<font color="green" size=240px">
 GREEN AMMONIA FOR SHIPPING 
 </font>
 
