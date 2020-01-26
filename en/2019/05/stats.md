@@ -293,7 +293,6 @@ print (df.tail(10))
 ```text
             Value
 Date             
-2019-02-28  1.520
 2019-03-31  1.863
 2019-04-30  1.996
 2019-05-31  1.790
@@ -303,6 +302,7 @@ Date
 2019-09-30  1.711
 2019-10-31  1.764
 2019-11-30  2.051
+2019-12-31  2.285
 ```
 
 <a name="cpyoy"></a>
@@ -391,7 +391,26 @@ df = data.DataReader(cols, 'fred', start, end)
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 df['wageyoy'] = (df.AHETPI - df.AHETPI.shift(12)) / df.AHETPI.shift(12) * 100.0
 df[['wageyoy','nfpyoy']].plot()
+print (df['wageyoy'].tail(5))
+print (df['nfpyoy'].tail(5))
 plt.savefig('pay-wage.png')
+```
+
+```text
+DATE
+2019-08-01    3.508772
+2019-09-01    3.543307
+2019-10-01    3.624454
+2019-11-01    3.392779
+2019-12-01    3.031615
+Freq: MS, Name: wageyoy, dtype: float64
+DATE
+2019-08-01    1.451825
+2019-09-01    1.507605
+2019-10-01    1.421402
+2019-11-01    1.459533
+2019-12-01    1.402762
+Freq: MS, Name: nfpyoy, dtype: float64
 ```
 
 ![](pay-wage.png)

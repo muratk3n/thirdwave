@@ -11,6 +11,10 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+26/1 - [Tweets - Week 4](/tweets/2020/week4.md)
+
+26/1 - [The European Green Deal](/2020/01/european-green-deal.md)
+
 19/1 - [Tweets - Week 3](/tweets/2020/week3.md)
 
 19/1 - [A Global Green New Deal](/2020/01/global-green-new-deal.md)
@@ -20,10 +24,6 @@ despite the best efforts of people working in them.
 2/1 - [Tweets - Week 1](/tweets/2020/week1.md)
 
 26/12 - [Tweets - Week 52](/tweets/2019/week52.md)
-
-19/12 - [Tweets - Week 51](/tweets/2019/week51.md)
-
-12/12 - [Tweets - Week 50](/tweets/2019/week50.md)
 
 ## For Members
 
