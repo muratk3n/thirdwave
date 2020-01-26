@@ -583,7 +583,7 @@ electric charging parks'"
 
 ---
 
-Greenwald is charged? GG did a lot helping Snowden to get his message
+Greenwald is charged? GG did a lot for Snowden to get his message
 out. Not good optics for Bolsonaro gov. If u did not tolerate
 [Goebbels](https://boingboing.net/2020/01/18/wagner-the-dog.html) u
 shouldnt tolerate this.
