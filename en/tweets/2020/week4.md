@@ -499,12 +499,6 @@ undertaken by Prototech"
 
 ---
 
-HTML is allowed in markdown kewl
-
-*2020-1-23 18:5:31*
-
----
-
 GREEN AMMONIA FOR SHIPPING 
 
 *2020-1-23 17:54:5*
