@@ -769,8 +769,6 @@ Campaign managers nowadays are always chosen from among ppl who know
 how things "play" in the media / voters' emotional brain much stronger
 than atomic issues.
 
-Know it or lose it.
-
 *2020-1-20 22:40:10*
 
 ---
