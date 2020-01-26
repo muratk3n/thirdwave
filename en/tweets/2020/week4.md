@@ -505,14 +505,6 @@ HTML is allowed in markdown kewl
 
 ---
 
-That was water -> electrolysis -> hydrogen-ammonia -> shipping
-
-(Increased font size also makes emoticons bigger. Hah)
-
-*2020-1-23 18:3:32*
-
----
-
 GREEN AMMONIA FOR SHIPPING 
 
 *2020-1-23 17:54:5*
