@@ -1,5 +1,7 @@
 # The European Green Deal
 
+[Link](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1576150542719&uri=COM%3A2019%3A640%3AFIN)
+
 These policy reforms will help to ensure effective carbon pricing
 throughout the economy. This will encourage changes in consumer and
 business behaviour, and facilitate an increase in sustainable public
@@ -12,8 +14,6 @@ to use the provisions in the Treaties that allow the European
 Parliament and the Council to adopt proposals in this area through the
 ordinary legislative procedure by qualified majority voting rather
 than by unanimity.
-
-[Link](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1576150542719&uri=COM%3A2019%3A640%3AFIN)
 
 As long as many international partners do not share the same ambition
 as the EU, there is a risk of carbon leakage, either because
@@ -69,15 +69,3 @@ The EU should in parallel ramp-up the production and deployment of
 sustainable alternative transport fuels. By 2025, about 1 million
 public recharging and refuelling stations will be needed for the 13
 million zero- and low-emission vehicles expected on European roads.
-
-
-
-
-
-
-
-
-
-
-
-
