@@ -762,7 +762,7 @@ but he delivered. DM is all about the media play.
 
 ---
 
-The war room concept in politis is related to culture code / media
+The war room concept in politics is related to culture code / media
 manipulation.
 
 Campaign managers nowadays are always chosen from among ppl who know
