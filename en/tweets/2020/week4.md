@@ -301,7 +301,7 @@ So many famous ppl dying
 
 "A video shared by a Wuhan resident shows empty shelves at
 supermarkets as people stock up in the city of 11 million under
-lockdown
+lockdown"
 
 [Link](https://reut.rs/2tL3nnh)
 
