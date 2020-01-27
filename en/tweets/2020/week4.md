@@ -829,7 +829,7 @@ Flipped classroom should be about total absence of "teaching" unless
 they are asked abt something - so in essence they would not be a
 teacher, they would be some sort of guide. Curriculum makes lots of
 material available, among which one package becomes official, cleared
-by DoE. The guide is certified on that, can answer questions on
+by DoED. The guide is certified on that, can answer questions on
 it. The "games" if there are any, can be described in the material but
 not enforced.
 
