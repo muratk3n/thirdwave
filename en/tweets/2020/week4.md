@@ -670,7 +670,7 @@ What does that mean? That means any company even a few steps removed
 from the their econ could be held liable for their emissions now, and
 fall under reg scrutiny. EU GND follows the same spirit.
 
-\#EUGND
+\#EUGreenDeal
 
 [Link](https://twitter.com/AssaadRazzouk/status/1208643081056276480)
 
@@ -715,7 +715,7 @@ policy supports both. In the long term H2 will win, just like the VHS
 (But it is okay to say that 'both is needed' it will lull bitch
 batttery, bitch BEV lovers into complacency)
 
-\#EUGND
+\#EUGreenDeal
 
 *2020-1-21 10:40:47*
 
@@ -723,7 +723,7 @@ batttery, bitch BEV lovers into complacency)
 
 Avoidance of carbon leakage through borders - hard core. 
 
-\#EUGND
+\#EUGreenDeal
 
 *2020-1-21 10:40:9*
 
@@ -732,7 +732,7 @@ Avoidance of carbon leakage through borders - hard core.
 I hate to say it, the [European Green Deal](https://muratk3n.github.io/thirdwave/en/2020/01/european-green-deal.html)
 looks better than the US GND.
 
-\#EUGND
+\#EUGreenDeal
 
 *2020-1-21 10:39:48*
 

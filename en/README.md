@@ -13,7 +13,7 @@ despite the best efforts of people working in them.
 
 26/1 - [Tweets - Week 4](/tweets/2020/week4.md)
 
-26/1 - [The European Green Deal](/2020/01/european-green-deal.md)
+26/1 - [The EU Green Deal](/2020/01/european-green-deal.md)
 
 19/1 - [Tweets - Week 3](/tweets/2020/week3.md)
 
