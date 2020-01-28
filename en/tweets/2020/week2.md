@@ -211,15 +211,6 @@ now 1.50%,..,1.45%,1.40%. The decrease of increase \#hedgeye
 
 ---
 
-I hear NHTSA started looking at TSLA more closely. These f--kers are
-up to no good. Sold their soul to the Chinese too.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another day, another <a href="https://twitter.com/Tesla?ref_src=twsrc%5Etfw">@tesla</a> runs a red light (Autopilot?), kills the driver of another car, and catches fire<a href="https://t.co/ubVFEZWFk0">https://t.co/ubVFEZWFk0</a></p>&mdash; &quot;Elon Says&quot; (@ElonBachman) <a href="https://twitter.com/ElonBachman/status/1215730948073017355?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-11 8:44:58*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will do everything I can to stop a war with Iran.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1215683861289558019?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-10 21:20:4*
