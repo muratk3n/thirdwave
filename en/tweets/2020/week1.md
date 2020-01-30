@@ -352,18 +352,6 @@ pissed. It can all end up in a duel at high noon.
 
 ---
 
-😆 Fresh
-
-"What does the bass guitar tell the five fingers? Slap!
-
-I am Rick James bitch!"
-
-\#chapelle
-
-*2020-1-4 18:29:10*
-
----
-
 Study: Cold Weather Has Significant Impact On Electric Bus Range
 
 [Link](https://insideevs.com/news/390589/study-cold-weather-effects-electric-bus-range/amp/)

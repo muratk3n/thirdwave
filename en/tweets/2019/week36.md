@@ -338,22 +338,6 @@ certainly doesn't deserve to be in charge.
 
 ---
 
-\#chapelle \#louisck
-
-[Link](https://youtu.be/rKzgcvJmngw?t=154)
-
-*2019-9-3 7:25:47*
-
----
-
-My fav Chappele stand-up is still the one in the movie *Nutty
-Professor*. "Women be shoppin!". With that voice, the whole
-outfit.. Hysterical.
-
-*2019-9-3 7:25:47*
-
----
-
 "@medialens
 
 How on earth could the primary purpose of corporate political
