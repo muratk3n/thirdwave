@@ -695,12 +695,6 @@ The fin advice part is really dumb but at least they talked abt the problem
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our nowcast for 4Q19E US Headline GDP ticked down to 0.36% after this morning’s Retail Sales data…</p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1205547813431578625?ref_src=twsrc%5Etfw">December 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-13 21:26:11*
-
----
-
 "@PGourevitch
 
 Imagine having a passport that allows you to move freely between, live

@@ -454,16 +454,6 @@ Wuhan lockdown. A city with millions. How bad is this thing?
 
 ---
 
-January 30: GDP number comes out (will be near zero). 
-
-3 February: Iowa Primary. 
-
-Watch for the fireworks.
-
-*2020-1-23 18:29:57*
-
----
-
 Prototech AS. A Norwegian company. First time I am hearing of these
 guys. They will install an ammonia fuel-cell on the ship. Good to know
 this tech is (or will be soon) available. Will it do H2 conversion first?

@@ -856,14 +856,6 @@ The picture album keeps growing
 
 ---
 
-😶 that would be a major fall from the already low 2.0% for Q3.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Weekly GDP Nowcast: <a href="https://t.co/hSGXo6rV8j">https://t.co/hSGXo6rV8j</a> <br>Q4 2019 → 0.7%</p>&mdash; New York Fed (@NewYorkFed) <a href="https://twitter.com/NewYorkFed/status/1197915601609601024?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-22 22:19:37*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most artistic protest witness video I’ve ever seen. So real it almost feels choreographed! <a href="https://twitter.com/hashtag/iran?src=hash&amp;ref_src=twsrc%5Etfw">#iran</a> <a href="https://t.co/cTz6rvcqeE">pic.twitter.com/cTz6rvcqeE</a></p>&mdash; Hossein Derakhshan (@h0d3r) <a href="https://twitter.com/h0d3r/status/1197855775311446017?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-11-22 22:9:58*
