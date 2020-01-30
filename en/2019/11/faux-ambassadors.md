@@ -95,12 +95,11 @@ remains American. Ssshh, keep quiet on that.
 Addend. 2:
 
 Much revolved around MJ; References to him go all the way back to
-E. Murphy to Chapelle today. He is referred to because he as a symbol
-had to be addressed, handled. By others IMO he was too quickly
-condemned, not bcz of whatever odd acts he may have been involved in,
-but as the result of the cultural discourse. He was was condemned bcz
-what he represented in terms of racial relations was deemed
-unacceptable.
+E. Murphy. He is referred to because he as a symbol had to be
+addressed, handled. By others IMO he was too quickly condemned, not
+bcz of whatever odd acts he may have been involved in, but as the
+result of the cultural discourse. He was was condemned bcz what he
+represented in terms of racial relations was deemed unacceptable.
 
 (Through plastic surgeries MJ was also turning into Diana Ross, a
 black woman. The guy was just weird basically... What kind of normal
