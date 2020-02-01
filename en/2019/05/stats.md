@@ -236,7 +236,6 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-08-01    49.1
 2019-09-01    47.8
 2019-10-01    48.3
 2019-11-01    48.1
@@ -414,5 +413,43 @@ Freq: MS, Name: nfpyoy, dtype: float64
 ```
 
 ![](pay-wage.png)
+
+<a name="gdpism"></a>
+
+# GDP vs ISM
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+import quandl
+
+today = datetime.datetime.now()
+start=datetime.datetime(1992, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['GDPC1']
+df = data.DataReader(cols, 'fred', start, end)
+
+df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
+
+df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
+                returns="pandas",
+                start_date=start.strftime('%Y-%m-%d'),
+                end_date=end.strftime('%Y-%m-%d'),
+                authtoken=open(".quandl").read())
+
+df['pmi'] = df2.PMI
+plt.figure(figsize=(12,5))
+ax1 = df.pmi.plot(color='blue', grid=True, label='ISM')
+ax2 = df.gdpyoy.plot(color='red', grid=True, label='GDP',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+plt.savefig('gdp-ism.png')
+```
+
+![](gdp-ism.png)
+
+
+
 
 
