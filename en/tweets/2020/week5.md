@@ -154,12 +154,10 @@ Undercover Ren :) \#SNL
 ---
 
 It turns out manufacturing PMI (below) is a good indicator, so use
-it. This is a fulcrum point.
-
-This ain't school, where student is expected to cover all bases going
-through some list defined by others. This is a hunt, a foraging party,
-for survival where one need tries to get an advantage. Science too is
-very much conducted this way.
+it. This is a fulcrum point. This ain't school where student is
+expected to cover all bases going through some list defined by
+others. This is a hunt where one tries to get an advantage. Science
+too is very much conducted this way.
 
 Be too cool for school.
 
