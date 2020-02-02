@@ -3,8 +3,8 @@
 Excellent. More of this. Total job killer.
 
 But, I have to make this clear, this is still an example of weak AI,
-not a "thinking machine". The task sounds very focused, which is good
-for Deep Shit approaches u can get training data easily. 
+not a "thinking machine". The task sounds very focused, which suits
+Deep Shit approaches so 1 can get training data easily.
 
 "But several months ago, a new worker joined the team. Stationed behind
 protective glass, a robot using three suction cups at the end of its
