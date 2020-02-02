@@ -720,6 +720,12 @@ the mouths of the locals thing"
 
 ---
 
+We need more technocrats. Speficially we need more left technocrats, like Bernie. 
+
+*2020-1-28 1:4:3*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Vietnam, wind and solar met goal of providing 10% of power in 2030 10 YEARS AHEAD of schedule - and are rapidly eating into the 43% share allotted to coal<br><br>Why? Cheaper, cleaner, more popular and far quicker to build<br><br>Fossil fuels are so 20th century<a href="https://t.co/G2ZzedaKAu">https://t.co/G2ZzedaKAu</a></p>&mdash; Assaad Razzouk (@AssaadRazzouk) <a href="https://twitter.com/AssaadRazzouk/status/1221779405225152513?ref_src=twsrc%5Etfw">January 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-28 0:41:13*
