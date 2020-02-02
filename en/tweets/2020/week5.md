@@ -153,12 +153,6 @@ Undercover Ren :) \#SNL
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Estimates: multiple sources: 500,000+ infected:China. R0 2.5-3+ Doubling time 3 days. Unprecedented speed. Fatality rate range .1-1%+: truly unknown. 2-14 day incubation. 20% diagnosed at hospital need critical care. If sustained transmission, could infect 15-20 percent world.</p>&mdash; Robert Nelsen (@rtnarch) <a href="https://twitter.com/rtnarch/status/1223274733015195648?ref_src=twsrc%5Etfw">January 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-31 23:47:1*
-
----
-
 It turns out manufacturing PMI (below) is a good indicator, so use
 it. This is a fulcrum point.
 
