@@ -49,20 +49,6 @@ fuels extractors"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OJ Simpson is allowed on Twitter</p>&mdash; Quoth the Raven (@QTRResearch) <a href="https://twitter.com/QTRResearch/status/1223453318988673024?ref_src=twsrc%5Etfw">February 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-1 17:58:9*
-
----
-
-Seriously. 
-
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Bloomberg indicates <a href="https://twitter.com/zerohedge?ref_src=twsrc%5Etfw">@zerohedge</a> is permantely suspended.<br><br>This decision should be reversed. Zerohedge is an indispensable part of the <a href="https://twitter.com/hashtag/fintwit?src=hash&amp;ref_src=twsrc%5Etfw">#fintwit</a> community offering valuable, variant &amp; yes controversial information.<a href="https://twitter.com/hashtag/freespeech?src=hash&amp;ref_src=twsrc%5Etfw">#freespeech</a> <a href="https://twitter.com/jack?ref_src=twsrc%5Etfw">@jack</a> please <a href="https://twitter.com/hashtag/FreeZerohedge?src=hash&amp;ref_src=twsrc%5Etfw">#FreeZerohedge</a> <a href="https://t.co/UMzxBkRa8W">https://t.co/UMzxBkRa8W</a> <a href="https://t.co/PSvSQ8ZUsX">https://t.co/PSvSQ8ZUsX</a></p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1223539539156905985?ref_src=twsrc%5Etfw">February 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-1 17:29:3*
-
----
-
 Wut? Fighters in Idlib are digging in for a (last?) stand? U know
 they'll bomb that place out of existence \#Syria
 
