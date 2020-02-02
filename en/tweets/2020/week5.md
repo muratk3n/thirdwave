@@ -408,9 +408,9 @@ screening when they arrived at Pearson International Airport.
 
 ---
 
-GDP YoY is 2.3%, is it "juiced"? Treasuries are saying one thing, GDP
-another. FED's nowcast was expecting near zero. Did Kudlow snort some
-cocaine and went haywire on this thing?
+GDP YoY is 2.3%, is it "juiced"? Treasuries, earnings are saying one
+thing, GDP another. FED's nowcast was expecting near zero. Did Kudlow
+snort some cocaine and went haywire on this thing?
 
 If the number is real, it means growth slowing, not as bad as
 previously thought (for now, unless there is revision).
