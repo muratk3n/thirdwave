@@ -70,7 +70,7 @@ bomb that place out of existence \#Syria
 
 ---
 
-😆😆 Pedo CCP
+😆😆 Dr. Pedo CCP
 
 (Hey it's only fair after he slandered the real hero of the Thai cave
 [rescue](https://www.thesun.co.uk/news/6792661/who-vernon-unsworth-thai-cave-paedo-guy-elon-musk/)
