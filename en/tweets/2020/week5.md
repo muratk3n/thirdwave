@@ -119,8 +119,8 @@ closer to its goal of reaching $1 billion in revenue by 2024"
 ---
 
 There is no capitalism in Roddenberry Trek either my friend. HTF can
-can there be markets if there is no money, with prevalent 3D printing,
-and abundant energy?
+there be markets if there is no money, with prevalent 3D printing, and
+abundant energy?
 
 *2020-2-1 9:9:4*
 
