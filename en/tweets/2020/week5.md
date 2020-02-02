@@ -880,7 +880,7 @@ market (stocks). Right off the bat we see fin shows are not there to
 inform, but to entertain and to pander. If they talked about
 Eurodollar futures, then u have to do a song and dance abt what that
 is, blah blah.. then the viewer checked out dude! The ratings are
-down. Like, bummer. Back to stocks.
+down. Bummer. Back to stocks.
 
 *2020-1-27 9:29:44*
 
