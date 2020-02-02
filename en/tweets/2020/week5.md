@@ -401,16 +401,6 @@ previously thought (unless there is revision later).
 
 ---
 
-The senator is right
-
-"@zerohedge
-
-Senator Calls For Immediate Shut Down Of All Flights From China To US"
-
-*2020-1-30 19:47:43*
-
----
-
 \#tbtv \#bloomberg
 
 [Link](https://youtu.be/PtPHpUkhJWY?t=484)
