@@ -92,7 +92,9 @@ and expected media adulation, and not getting it)
 
 ---
 
-😁 Good one 
+😁 Good one
+
+(There are discussios around fishing rights btw UK and EU)
 
 "Fish are chips in post-Brexit trade bargaining"
 
