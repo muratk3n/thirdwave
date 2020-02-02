@@ -884,15 +884,6 @@ Bad news means bad news (u have to add that these days)
 
 ---
 
-
-African Buffolo Optimization 😶
-
-"Solving the Traveling Salesman's Problem Using the African Buffalo Optimization"
-
-*2020-1-27 7:58:3*
-
----
-
 "@torp_ulrik
 
 Waiting to fuel. Good thing it only takes 3 minutes. A Nexo also
