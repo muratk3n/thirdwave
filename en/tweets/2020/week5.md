@@ -10,7 +10,7 @@ protective glass, a robot using three suction cups at the end of its
 long arm does the .. sifting through parts with surprising speed and
 accuracy"
 
-https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html
+[Link](https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html)
 
 *2020-2-1 21:51:2*
 
