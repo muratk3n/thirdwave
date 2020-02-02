@@ -63,8 +63,8 @@ Seriously.
 
 ---
 
-Wut? Fighters in Idlib are digging in for a stand? U know they'll bomb
-that place out of existence \#Syria
+Wut? Fighters in Idlib are digging in for a (last?) stand? U know
+they'll bomb that place out of existence \#Syria
 
 *2020-2-1 17:8:8*
 
