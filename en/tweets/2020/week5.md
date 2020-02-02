@@ -798,10 +798,10 @@ Hitting Baydın on social security is a first layer, reptilian level
 attack
 ([see](https://muratk3n.github.io/thirdwave/en/2014/06/the-culture-code.html)
 Rapaille) Reptilian level is the fight-or-flight, survival level stuff
-- the strongest, stronger than culture even, certainly stronger than
-analytical intellect (policy). The attack says the money you now
-__have__ will be __taken__ by __that guy__, then you might __die__ bcz
-you will have __no money__.
+-- the strongest, stronger than culture even, and intellect
+(policy). The attack says the money you now __have__ will be __taken__
+by __that guy__, then you might __die__ bcz you will have __no
+money__.
 
 😨😨😨😨😨
 
