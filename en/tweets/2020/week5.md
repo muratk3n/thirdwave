@@ -1,8 +1,8 @@
 # Tweets - Week 5
 
 F-ing libertards. I dont trust these people with government. Why dont
-u to your patch of land and pleasure yourself with your goldbars
-asshole
+u go back to your patch of land and pleasure yourself with your
+goldbars asshole
 
 "Rand Paul Used to Be a Whistleblower’s Hero. Now He Wants to Out
 Them"
