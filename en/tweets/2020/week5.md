@@ -230,7 +230,7 @@ Europe is now ahead of the U.S. in ad tech!"
 
 Bernie is likable. Bernie is cool.. I just saw two ladies at Fox News
 watching the "our opposition is nervous" speech - one of them said "I
-like it when he gets hammy".
+like it when he gets hammy" 😆
 
 *2020-1-31 18:06:9*
 
@@ -409,11 +409,12 @@ screening when they arrived at Pearson International Airport.
 ---
 
 GDP YoY is 2.3%, is it "juiced"? Treasuries, earnings are saying one
-thing, GDP another. FED's nowcast was expecting near zero. Did Kudlow
-snort some cocaine and went haywire on this thing?
+thing, GDP another. FED's nowcast was expecting near zero.
+
+Did Kudlow snort some cocaine and went haywire on this thing?
 
 If the number is real, it means growth slowing, not as bad as
-previously thought (for now, unless there is revision).
+previously thought (unless there is revision later).
 
 *2020-1-31 4:58:43*
 
