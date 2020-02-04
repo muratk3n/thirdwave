@@ -193,13 +193,13 @@ print (df3['ECIWAG2'].tail(7))
 
 ```text
 DATE
-2018-01-01    128.2
 2018-04-01    129.0
 2018-07-01    130.0
 2018-10-01    130.8
 2019-01-01    132.0
 2019-04-01    132.8
 2019-07-01    133.9
+2019-10-01    134.9
 Freq: 3MS, Name: ECIWAG2, dtype: float64
 ```
 
@@ -350,28 +350,27 @@ plt.savefig('profit.png')
 import pandas as pd, datetime
 from pandas_datareader import data
 
-today = datetime.datetime.now()
-start=datetime.datetime(2001, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['DTWEXM']
-df = data.DataReader(cols, 'fred', start, end)
+import quandl
+df = quandl.get("CHRIS/ICE_DX1-US-Dollar-Index-Futures-Continuous-Contract", 
+                returns="pandas",authtoken=open(".quandl").read())
+df = df['Settle']		
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
 ```
 
 ```text
-             DTWEXM
-DATE               
-2019-12-26  91.9234
-2019-12-27  91.4593
-2019-12-30  91.1403
-2019-12-31  90.8221
-[[74.602144   95.84257204]]
+Date
+2020-01-29    97.819
+2020-01-30    97.706
+2020-01-31    97.213
+2020-02-03    97.625
+Name: Settle, dtype: float64
+[ 81.77157796 102.7397775 ]
 ```
 
 ```python
-df.DTWEXM.plot()
+df.plot()
 plt.grid(True)
 plt.savefig('dollar.png')
 ```
