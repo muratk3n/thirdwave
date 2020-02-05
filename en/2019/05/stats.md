@@ -214,7 +214,7 @@ plt.savefig('unemploy.png')
 
 ![](unemploy.png)
 
-<a name="wagepayroll"></a>
+<a name="claims"></a>
 
 # 4-Week Moving Average of Initial Unemployment Claims 
 
@@ -234,7 +234,6 @@ plt.savefig('initial-claims.png')
 ```
 
 ![](initial-claims.png)
-
 
 <a name="pmi"></a>
 
