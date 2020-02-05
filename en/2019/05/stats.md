@@ -223,11 +223,13 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1990, 1, 1)
+start=datetime.datetime(1995, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['IC4WSA']
 df = data.DataReader(cols, 'fred', start, end)
 df.IC4WSA.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('initial-claims.png')
 ```
 
