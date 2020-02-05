@@ -214,6 +214,26 @@ plt.savefig('unemploy.png')
 
 ![](unemploy.png)
 
+<a name="wagepayroll"></a>
+
+# 4-Week Moving Average of Initial Unemployment Claims 
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1990, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['IC4WSA']
+df = data.DataReader(cols, 'fred', start, end)
+df.IC4WSA.plot()
+plt.savefig('initial-claims.png')
+```
+
+![](initial-claims.png)
+
+
 <a name="pmi"></a>
 
 ## PMI
@@ -290,16 +310,12 @@ DATE
 import quandl
 df = quandl.get("RATEINF/INFLATION_USA-Inflation-YOY-USA", 
                 returns="pandas",authtoken=open(".quandl").read())
-print (df.tail(10))
+print (df.tail(6))
 ```
 
 ```text
             Value
 Date             
-2019-03-31  1.863
-2019-04-30  1.996
-2019-05-31  1.790
-2019-06-30  1.648
 2019-07-31  1.811
 2019-08-31  1.750
 2019-09-30  1.711
