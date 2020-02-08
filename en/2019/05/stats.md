@@ -469,7 +469,25 @@ plt.savefig('gdp-ism.png')
 
 ![](gdp-ism.png)
 
+<a name="p2s"></a>
 
+# SP 500 Price to Sales Ratio
 
+```python
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+df = quandl.get("MULTPL/SP500_PSR_QUARTER-S-P-500-Price-to-Sales-Ratio-by-Quarter", 
+                returns="pandas",
+                start_date=start.strftime('%Y-%m-%d'),
+                end_date=end.strftime('%Y-%m-%d'),
+                authtoken=open(".quandl").read())
+
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('price-sales.png')
+```
+
+![](price-sales.png)
 
 
