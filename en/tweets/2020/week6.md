@@ -358,7 +358,7 @@ incorporated into their updated plan"
 ---
 
 I like it the article mentions two of three waves. While reading I was
-thinking "but would these args apply to a diff wave" when I saw the
+thinking "but would these args apply to a diff wave" then I saw the
 paragraph below.
 
 Article says there is a confluence of tech and people, open to abuse,
