@@ -572,17 +572,17 @@ know them. "So you get shit-faced and pass out on the door mat before
 u even make it in your house right?!!  Right!!!!. Hahahahhaaha..! So
 Irish"
 
-This is non-sense. 
+This is f-ing non-sense. 
 
 *2020-2-5 13:48:8*
 
 ---
 
 You know, that would be even funnier if you were Italian. But you are
-not. This guy.. If you really want to fall under a category, it can be
-'a jock', at best. You go to a psychologist too? Do you.. :( do
-you.. :( tell her your problems? Do you cry like a little bitch? Booo
-hooo hoooo boooo ... they call me Fredo .. booo hoo
+not. If you really want to fall under a category, it can be 'a jock',
+at best. This guy.. goes to a psychologist too? Do you.. do you..
+tell her your problems? Do you cry like a little bitch? Booo hooo
+hoooo boooo ... they call me Fredo .. booo hoo
 
 "The word 'Fredo' is like the N-word for my people"
 
@@ -617,7 +617,7 @@ Oersted A/S is a BUY
 
 ---
 
-Haha.. Nancy ripping up speech, etc. Theather 
+Haha.. Nancy ripping up speech. Theather
 
 \#sotu
 
