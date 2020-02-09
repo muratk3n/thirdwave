@@ -508,7 +508,7 @@ Une scène apocalyptique!!!
 
 ---
 
-Howard Dean would still be undone by "the scream" today. He wasn't
+Howard Dean would still be undone today by "the scream" . He wasn't
 knocked down bcz he acted "inapropriately". He got knocked down bcz he
 looked uncool. He was running as a tough guy but the scream was
 bitchy.
