@@ -424,7 +424,7 @@ vehicles running on "alternative means" of which H2 will be one.
 ---
 
 Bootyfudge trying to stand out through age, saying "represents a wish
-for change" for his generation. But per this poll he couldn't sell it.
+for change" for his generation. See poll,
 
 "@EmersonPolling
 
@@ -456,20 +456,10 @@ Bootyjudge is now Bootyfudge
 
 ---
 
-That's another reason why I never believed this Russia bullshit
-because I knew H herself believed her campaign was in trouble. The RU
-stuff later would've been an excuse, a way of trying to unite the
-Dems. It sorta worked.. but it also took a life of its own, might have
-hampered some positive policy.
-
-*2020-2-5 20:14:4*
-
----
-
 Nope. Hillary was not "surprised" that she lost in 2016. She knew she
 was in trouble as the end neared - pneumonia is a sign of desperation
-(cancer is of supressed anger, tooth problems a sign of hesitation,
-etc). See Louisa Hay. 
+That's another reason why I never believed this Russia bullshit
+because I knew H herself believed her campaign was in trouble.
 
 *2020-2-5 20:13:5*
 
@@ -518,17 +508,19 @@ Une scène apocalyptique!!!
 
 ---
 
-Would Howard Dean still be undone by "the scream" today? Yes. He wasnt
+Howard Dean would still be undone by "the scream" today. He wasn't
 knocked down bcz he acted "inapropriately". He got knocked down bcz he
-looked uncool. HD was running as a tough guy but the scream was
-bitchy. Trump didnt change the rules of the game as much. He just
-found a new way of projecting a different form of charisma.
+looked uncool. He was running as a tough guy but the scream was
+bitchy.
+
+Trump didn't change the rules of the game that much. He just found a
+different way of charisma projection. 
 
 *2020-2-5 18:26:0*
 
 ---
 
-Some lines from the show *Avenue 5*
+From the show *Avenue 5*
 
 "We're gonna run rings around Saturn"
 
@@ -903,8 +895,8 @@ Cassini–Huygens mission and became the first spacecraft to land on
 Titan and the farthest landing from Earth a spacecraft has ever made.
 
 The Cassini part of the mission was US AFAIK, the probe itself was
-EU. Brits played a major role too, so will this kind of thing happen
-after Brexit?
+EU. Brits played a major role too, I wonder if this kind of thing will
+happen after Brexit.
 
 <iframe width="340" height="158" src="https://www.youtube.com/embed/msiLWxDayuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
