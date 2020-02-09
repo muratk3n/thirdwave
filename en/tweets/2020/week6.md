@@ -635,7 +635,7 @@ of a party falls.
 
 ---
 
-Refusal of handshake? Well she went ahead with impeachement which says
+Refusal of handshake? Well she went ahead with impeachment which says
 "I do not recognize your Presidency". The optics are she doesnt
 respect him in that post, why should he shake hands?
 
