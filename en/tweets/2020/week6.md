@@ -22,9 +22,7 @@ more attractive the investment."
 
 ---
 
-You can get a lot of exercise this way. Better than just sitting down
-and clicking on stuff. A way to reconnect with our inner forager while
-at home.
+Exercise while at home through games. 
 
 [Link](https://mobile.twitter.com/Whatleydude/status/1226172790761574408)
 
