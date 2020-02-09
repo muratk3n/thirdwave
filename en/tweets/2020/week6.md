@@ -738,7 +738,7 @@ shoving a goldbar up their ass). People don't know shit so cannot act
 rationally in econ. Why do some ppl assume otherwise in politics? It
 is a single, simple decision is based on very rough perceptions, their
 own pocketbook, few other traits, in the aggregate works better than
-the the alternatives thing. That's it.
+the alternatives. That's it.
 
 *2020-2-4 15:41:2*
 
