@@ -532,7 +532,7 @@ From the show *Avenue 5*
 
 Unemployment initial [claims](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims) -
 sign of unemployment, a "report that measures the number of new jobless claims filed by individuals
-seeking to receive unemployment". 
+seeking to receive unemployment [benefits]". 
 
 The dangerous point is not when UIC is at a low level - it is when,
 after a bottom, it starts going up __that's__ when the bomb goes off.
