@@ -151,7 +151,7 @@ The relationship between the diversity of products produced by a
 country and its GDP is shown below (math and code). Hidalgo (a
 statistical physicst) also theorized that product diversity is related
 to the "know-how network" of that country, and such networks can only
-form in close proximity.
+form in close proximity. All of that contribute positively to growth. 
 
 [Link](https://muratk3n.github.io/thirdwave/en/2017/08/hidalgo.html)
 
