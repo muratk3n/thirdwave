@@ -325,7 +325,7 @@ US has around 170,000 fueling stations for 272 MILLION vehicles.  Today Californ
 
 That pop / econ analysis is deficient. Industrial tech allowed for
 explosive popul growth. The causal effect points in the opposite
-direction. "And 2% more ppl getting 2% more haircuts" is not a
+direction. And "2% more ppl getting 2% more haircuts" is not a
 significant observation.
 
 "@JTSEO9
