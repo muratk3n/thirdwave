@@ -186,7 +186,7 @@ five days, writes a research team from Greifswal"
 
 "@TuckerCarlson
 
-We’re rooting for Glenn Greenwald.
+We’re rooting for Glenn Greenwald"
 
 [Link](https://twitter.com/TuckerCarlson/status/1220173312216698882")
 
