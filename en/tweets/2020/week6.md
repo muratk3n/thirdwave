@@ -508,10 +508,10 @@ Une scène apocalyptique!!!
 
 ---
 
-Howard Dean would still be undone by "the scream" if it happened
-today. He wasn't knocked down bcz he acted "inapropriately". He got
-knocked down bcz he looked uncool. He was running as a tough guy but
-the scream was bitchy.
+Howard Dean would still be undone today by "the scream". He wasn't
+knocked down bcz he acted "inapropriately". He got knocked down bcz he
+looked uncool. He was running as a tough guy but the scream was
+bitchy.
 
 Trump didn't change the rules of the game that much. He just found a
 different way of charisma projection. 
