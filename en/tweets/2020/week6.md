@@ -22,7 +22,7 @@ more attractive the investment."
 
 ---
 
-Exercise while at home through games. 
+Exercise while at home through games. Cool
 
 [Link](https://mobile.twitter.com/Whatleydude/status/1226172790761574408)
 
@@ -111,7 +111,7 @@ AAPI? Man these labels are proliferating..
 
 ---
 
-I am now pretty sure now 9/11 was the work of US "allies.
+I am now pretty sure now 9/11 was the work of US "allies".
 
 They did not want US leave ME. US was abt to do its pivot to Asia
 then. Also the Pentagon missing money became a thing, an audit was
