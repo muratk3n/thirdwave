@@ -508,10 +508,10 @@ Une scène apocalyptique!!!
 
 ---
 
-Howard Dean would still be undone today by "the scream" . He wasn't
-knocked down bcz he acted "inapropriately". He got knocked down bcz he
-looked uncool. He was running as a tough guy but the scream was
-bitchy.
+Howard Dean would still be undone by "the scream" if it happened
+today. He wasn't knocked down bcz he acted "inapropriately". He got
+knocked down bcz he looked uncool. He was running as a tough guy but
+the scream was bitchy.
 
 Trump didn't change the rules of the game that much. He just found a
 different way of charisma projection. 
@@ -731,15 +731,14 @@ Brexit will never end....
 Yes there is such a thing as low-information voter. I have to add
 though, almost __all__ voters are low-information voters. Econ
 recently started talking abt a similar concept, i.e. individual actors
-lacking information, there are behavioural economists so
-forth. Austrians too have a few things to say on this issue (they have
-their moments when they are not busy shoving a goldbar up their ass).
-
-People don't know shit so cannot act rationally in econ. Why do some
-ppl assume otherwise in politics? If single decision is based on very
-rough perceptions, their own pocketbook, incumbency, leadership traits
-displayed, personally or previous office, in the aggregate
-representative democracy works better than the next thing. That's it.
+lacking information, so cannot make rational decisions, there are now
+behavioural economists so forth. Austrians too have a few things to
+say on this issue (so they have their moments when they are not busy
+shoving a goldbar up their ass). People don't know shit so cannot act
+rationally in econ. Why do some ppl assume otherwise in politics? If
+single decision is based on very rough perceptions, their own
+pocketbook, few other traits, in the aggregate democracy works better
+than the next thing. That's it.
 
 *2020-2-4 15:41:2*
 
