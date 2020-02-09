@@ -736,7 +736,10 @@ forth. Austrians too have a few things to say on this issue (they have
 their moments when they are not busy shoving a goldbar up their ass).
 
 People don't know shit so cannot act rationally in econ. Why do some
-ppl assume otherwise in politics?
+ppl assume otherwise in politics? If single decision is based on very
+rough perceptions, their own pocketbook, incumbency, leadership traits
+displayed at a personal level, in the aggregate democracy works better
+than the next thing. That's it.
 
 *2020-2-4 15:41:2*
 
