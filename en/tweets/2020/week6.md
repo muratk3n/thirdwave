@@ -810,7 +810,7 @@ Most features attributed to subcultures, say, in the positive, is
 placebo. Keep saying "my people" are [certain way], u can start acting
 that way, bcz u'd be pushing self as such. It has been proven in the
 negative. When kids were reminded of their historically disadvantaged
-minority status during tests their scores goes down.
+minority status during tests their scores went down.
 
 *2020-2-3 22:27:31*
 
