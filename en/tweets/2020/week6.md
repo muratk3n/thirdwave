@@ -114,9 +114,9 @@ AAPI? Man these labels are proliferating..
 I am now pretty sure now 9/11 was the work of US "allies".
 
 They did not want US leave ME. US was abt to do its pivot to Asia
-then. Also the Pentagon missing money became a thing, an audit was
+then. Also Pentagon missing money issue became a thing, an audit was
 coming, in fact this was the last thing Rummy said publicly before
-9/11, the day before, on 9/10.
+9/11 (actually on 9/10, the day before).
 
 If allies can trigger a whole new insurgency in the form ISIS, couldnt
 they knock down a few buildings? Not necessarily the known leaders of
