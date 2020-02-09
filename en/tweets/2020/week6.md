@@ -732,9 +732,8 @@ Yes there is such a thing as low-information voter. I have to add
 though, almost __all__ voters are low-information voters. Econ
 recently started talking abt a similar concept, i.e. individual actors
 lacking information, there are behavioural economists so
-forth. Austrians too have a few things to say on this issue - they're
-not complete idiots, they have their moments when they are not busy
-pleasuring themselves with a goldbar.
+forth. Austrians too have a few things to say on this issue (they have
+their moments when they are not busy shoving a goldbar up their ass).
 
 *2020-2-4 15:41:2*
 
@@ -847,7 +846,7 @@ Ah - got the wrong Tibshirani. Father and son both statisticians!
 
 I knew that name was familiar and Ryan looked too young. Turns out the
 Tibs of the famous ESL book is the father. The opt lectures are by the
-son. Really good stuff.
+son. Quality lectures. 
 
 *2020-2-3 19:52:39*
 
