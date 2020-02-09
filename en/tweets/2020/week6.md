@@ -116,13 +116,11 @@ I am now pretty sure now 9/11 was the work of US "allies".
 They did not want US leave ME. US was abt to do its pivot to Asia
 then. Also the Pentagon missing money became a thing, an audit was
 coming, in fact this was the last thing Rummy said publicly before
-9/11 (he said it in 9/10).
+9/11, the day before on 9/10.
 
 If allies can trigger a whole new insurgency in the form ISIS, couldnt
-they knock down a few buildings?
-
-Ok - maybe not the known leaders of allies, but definitely a combo of
-their deep states.
+they knock down a few buildings? Not necessarily the known leaders of
+allies, but possibly a combo of their deep states.
 
 *2020-2-8 9:0:53*
 
@@ -149,11 +147,11 @@ and inert.
 
 ---
 
-The relationship between the diversity of products a country produces
-and GDP is below. Math and code included. Hidalgo (a statistical
-physicst) theorized that product diversity is related to the "know-how
-network" of that country, bcz such networks can only form in close
-proximity.
+The relationship between the diversity of products produced by a
+country and its GDP is shown below (math and code). Hidalgo (a
+statistical physicst) also theorized that product diversity is related
+to the "know-how network" of that country, and such networks can only
+form in close proximity.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2017/08/hidalgo.html)
 
