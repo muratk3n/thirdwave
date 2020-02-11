@@ -241,11 +241,11 @@ Bernie did great in Iowa. Onwards to New Hampshire!
 
 ---
 
-@jenniferatntd
+"@jenniferatntd
 
 [How many deaths?] One leaked Chinese source says over 20 K, but got
 deleted soon... No way to verify, as the \#CCP doesn't tell you the
-truth. But definitely much, much more than the official number.
+truth. But definitely much, much more than the official number"
 
 *2020-2-7 17:38:52*
 

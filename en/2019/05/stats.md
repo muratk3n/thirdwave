@@ -169,6 +169,9 @@ DATE
 ```python
 df.nfpyoy.plot()
 plt.grid(True)
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.title('Non-Farm Payroll YoY Change %')
 plt.savefig('nfp.png')
 ```
@@ -188,19 +191,19 @@ df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
 df3['unempl'] = 100.0 - df3.CIVPART
-print (df3['ECIWAG2'].tail(7))
+print (df3['wagegrowth'].tail(7))
 ```
 
 ```text
 DATE
-2018-04-01    129.0
-2018-07-01    130.0
-2018-10-01    130.8
-2019-01-01    132.0
-2019-04-01    132.8
-2019-07-01    133.9
-2019-10-01    134.9
-Freq: 3MS, Name: ECIWAG2, dtype: float64
+2018-04-01    2.945736
+2018-07-01    3.000000
+2018-10-01    3.134557
+2019-01-01    2.954545
+2019-04-01    2.936747
+2019-07-01    2.987304
+2019-10-01    2.965159
+Freq: 3MS, Name: wagegrowth, dtype: float64
 ```
 
 ```python
@@ -228,9 +231,19 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['IC4WSA']
 df = data.DataReader(cols, 'fred', start, end)
 df.IC4WSA.plot()
+print (df.tail(4))
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('initial-claims.png')
+```
+
+```text
+            IC4WSA
+DATE              
+2020-01-11  216500
+2020-01-18  216250
+2020-01-25  214750
+2020-02-01  211750
 ```
 
 ![](initial-claims.png)
