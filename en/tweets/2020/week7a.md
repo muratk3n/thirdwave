@@ -577,12 +577,12 @@ df1 = pd.read_csv('mex.csv',index_col=0)
 df['immig'] = df1.immig
 df = df.interpolate()
 chg = df.pct_change()
-print (chg[df.index < 1993].mean())
+print (chg[df.index <= 1993].mean())
 print (chg[df.index > 1993].mean())
 ```
 
 ```text
-immig    0.040631
+immig    0.041256
 dtype: float64
 immig    0.030101
 dtype: float64
