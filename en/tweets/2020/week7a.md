@@ -33,6 +33,13 @@ BERNIE WINS NEW HAMPSHIRE
 
 ---
 
+BEVs have a demand problem - and they'll always have a demand
+problem. The tech is moronic.
+
+*2020-2-12 9:1:9*
+
+---
+
 From US Energy department [energy.gov](https://afdc.energy.gov/laws/350)
 
 "A tax credit of up to $8,000 is available for the purchase of qualified light-duty fuel cell vehicles, depending on the vehicle's fuel economy"
