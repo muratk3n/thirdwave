@@ -435,12 +435,12 @@ around the movie, which I ignored). JL was lovely, Pratt did great.
 
 ---
 
-Nano on [Wikipedia](https://en.wikipedia.org/wiki/Nano_\(cryptocurrency\)).
-
 Great. Now let's add the automafic-money-creation-per-user,
 digital-basic-income feature so money base expands, everyone has money
 for basics, we can then have the digital currency of the future.
 
+Nano on
+[Wikipedia](https://en.wikipedia.org/wiki/Nano_\(cryptocurrency\)):
 "Nano is a decentralized, open-source, peer-to-peer cryptocurrency
 released under the FreeBSD License. It facilitates feeless and
 fast-settling transactions without intermediaries by utilizing a
