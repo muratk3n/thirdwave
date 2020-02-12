@@ -165,7 +165,7 @@ Exactly.
 Credit card debt nearly doubled since the 08 crisis. Now it is over 4
 __trillion__. Did ppl's income double? No. 
 
-That is 13K $ debt per person, per man, woman, child, on ppl who
+That is 13K $ debt per person - man, woman, and child, where most ppl
 cannot come up with $500 for an emergency. The interest rate on this
 debt is not favorable - per @RaoulGMI. So it cannot be paid. Someone
 will burn. In a post 08 world, I dont think it will be ordinary people
