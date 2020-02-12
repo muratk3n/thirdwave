@@ -435,7 +435,7 @@ around the movie, which I ignored). JL was lovely, Pratt did great.
 
 ---
 
-Great. Now let's add the automafic-money-creation-per-user,
+Great. Now let's add the automagic-money-creation-per-user,
 digital-basic-income feature so money base expands, everyone has money
 for basics, we can then have the digital currency of the future.
 
