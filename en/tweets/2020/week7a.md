@@ -337,6 +337,10 @@ visual.
 
 ---
 
+Right - if space is emergent, an illusion, that solves nonlocality of
+entanglement. There is no "spooky action at a distance" because there
+is no distance.
+
 Smolin: "If locality is not absolute, if it is the contingent result
 of dynamics, it will have defects and exceptions. And indeed, this
 appears to be the case: how else are we to understand quantum
@@ -347,10 +351,6 @@ primordial stage, before space emerges"
 *2020-2-10 19:7:37*
 
 ---
-
-Right - if space is emergent, an illusion, that solves nonlocality of
-entanglement. There is no "spooky action at a distance" because there
-is no distance.
 
 Smolin: "I drew a lesson from a survey of approaches to quantum
 foundations, which is that space and time cannot both be
