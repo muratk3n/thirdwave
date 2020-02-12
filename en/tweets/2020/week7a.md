@@ -573,19 +573,16 @@ NAFTA. I don't see an increase.
 ```python
 import pandas as pd
 df = pd.DataFrame(index=np.arange(1910,2010))
-df1 = pd.read_csv('mex.csv',index_col=0)
-df['immig'] = df1.immig
+df['immig'] = pd.read_csv('mex.csv',index_col=0).immig
 df = df.interpolate()
 chg = df.pct_change()
-print (chg[df.index <= 1993].mean())
-print (chg[df.index > 1993].mean())
+print (np.round(np.float(chg[df.index <= 1993].mean()),2))
+print (np.round(np.float(chg[df.index >  1993].mean()),2))
 ```
 
 ```text
-immig    0.041256
-dtype: float64
-immig    0.030101
-dtype: float64
+0.04
+0.03
 ```
 
 [Link](https://www.migrationpolicy.org/programs/data-hub/charts/mexican-born-population-over-time?width=900&height=850&iframe=true)
