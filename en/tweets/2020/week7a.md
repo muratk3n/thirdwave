@@ -121,15 +121,16 @@ Apple is worth 1.3 Trillion...
 
 ---
 
-Did not know LeBron could act. Haider did good too, in *Trainwreck*. 
+Did not know LeBron could act. He was hilarious in fact. Haider did
+good too, in *Trainwreck*.
 
 *2020-2-11 17:45:3*
 
 ---
 
-This tech is so moronic.. Straight up. Almost nothing else
-compares. Hula Chair, Fake Ponytails, or Clippy may come close, but
-still not this dumb.
+This tech is moronic.. Straight up. Almost nothing else compares. Hula
+Chair, Fake Ponytails, or Clippy may come close, but still not this
+dumb.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you thought smoking at a gas pump was dangerous.... <a href="https://t.co/CyV5KVA7vt">pic.twitter.com/CyV5KVA7vt</a></p>&mdash; Point E. Elbo (@ElboNeverDies) <a href="https://twitter.com/ElboNeverDies/status/1226992821984546816?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
