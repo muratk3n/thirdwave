@@ -39,9 +39,10 @@ From US Energy department [energy.gov](https://afdc.energy.gov/laws/350)
 
 There doesnt seem to be any limits on how many cars are supported.
 
-And the new [bill](https://www.greencarcongress.com/2019/04/20190411-bill.html)
-being proposed, Drive America Forward act which is looking to extend
-the HFC credit for another 10 years. The BEV part looks seperate..?
+The proposed
+[bill](https://www.greencarcongress.com/2019/04/20190411-bill.html)
+Drive America Forward act is looking to extend the HFC credit for
+another 10 years. The BEV part is seperate..? 
 
 
 
