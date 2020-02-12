@@ -636,7 +636,7 @@ the real world. In other words, the relationship between algae and
 bacteria could use industrial waste and dirty water to produce
 hydrogen"
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"><a href="https://t.co/kNxqDMoiYu">https://t.co/kNxqDMoiYu</a></p>&mdash; Hydrogen Energy (@EnergyHy2) <a href="https://twitter.com/EnergyHy2/status/1226410464046977024?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://twitter.com/EnergyHy2/status/1226410464046977024)
 
 *2020-2-9 12:40:27*
 
