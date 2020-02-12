@@ -428,8 +428,8 @@ transport in Sweden"
 
 ---
 
-I liked *Passangers*, what a nice movie.. (there was another "outrage"
-around the movie, which I ignored). JL was lovely, Pratt did great.
+I liked *Passangers* (there was another "outrage" around it, which I
+ignored). JL was lovely, Pratt did great.
 
 *2020-2-10 14:54:9*
 
