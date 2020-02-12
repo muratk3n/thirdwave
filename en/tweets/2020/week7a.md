@@ -213,7 +213,7 @@ mowed down by rapid machine gun fire from a rooftop, or a nearby
 drone. First warning shot goes to your leg, you will fall on the
 ground with your chicken sandwich splattered around, and you'll have
 to beg to the drone not to kill you, pledging profusely to remain in
-your fat quota. If the face recognition algo believes, you will
+your fat quota. If the software believes you, you will
 live. Otherwise, the next shot goes right between the eyes.
 
 "@PpollingNumbers
