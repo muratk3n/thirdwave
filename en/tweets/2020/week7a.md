@@ -309,11 +309,10 @@ Honey is great - they say it has healing effects.
 
 ---
 
-This Sean Carroll.. what a jerkoff. This guy is everywhere trying to
-sell his shit, I guess attempting to do through popular media what he
-can't do in theoretical science. His particular slant is perfect for
-movies, would come across pleasing to drugged-up guru seeking sponge
-brains. 
+Sean Carroll.. what a jerkoff. This guy is everywhere trying to sell
+his shit, I guess attempting to do through popular media what he can't
+do in theoretical science. His particular slant is perfect for movies,
+would come across pleasing to drugged-up guru seeking sponge brains.
 
 *2020-2-10 19:13:10*
 
