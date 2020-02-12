@@ -524,7 +524,7 @@ Scales. Automation & design optimisation as strategic leverage"
 
 ---
 
-Looking at just this poll, looks like there is overlap btw Booty and
+Looking at just this poll, seems like there is overlap btw Booty and
 Biden voters. Booty took a big bite out of that Biden cake. Now the JB
 attack video makes sense. He lost voters to Mayo.
 
