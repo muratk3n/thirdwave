@@ -545,15 +545,6 @@ Biden 12% (-13)"
 
 ---
 
-CH high population must be an act of subconcious, collective
-self-preservation. Their culture memory would know the state regularly
-kills them in large numbers. How many died during the so-called
-Cultural Revolution? Wanna survive? Increase your numbers.
-
-*2020-2-9 20:54:9*
-
----
-
 CCP performs population control?
 
 Scenario: China's place as the world's cheap labor is coming to an
