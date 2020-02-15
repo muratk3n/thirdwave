@@ -186,18 +186,6 @@ asked the police to arrest him"
 
 ---
 
-I am learning Bernie's accent now.
-
-Cuafee
-
-Novembah
-
-[Link](https://youtu.be/waeXBCUkuL8?t=105)
-
-*2020-2-14 15:13:13*
-
----
-
 Some say "Boutee-Cheech"...? I am confused - howd u pronounce this
 f-ing guy's name?
 
@@ -549,6 +537,18 @@ Boy did subgradients, subdifferentials took over the field of
 optimization. Last time I was studying opt there was no such thing
 
 *2020-2-12 12:16:19*
+
+---
+
+I am learning Bernie's accent now.
+
+Cuafee
+
+Novembah
+
+[Link](https://youtu.be/waeXBCUkuL8?t=105)
+
+*2020-2-12 12:13:9*
 
 ---
 
