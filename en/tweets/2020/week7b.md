@@ -1,5 +1,12 @@
 # Tweets - Week 7b
 
+I feel sorry for serious people who come here having to read politics
+next to a comment about an ass crack 🤷‍♂️
+
+*2020-2-15 14:53:1*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie lands coveted &quot;the former CEO of Goldman Sachs is nervous&quot; endorsement <a href="https://t.co/j81UibEdpe">https://t.co/j81UibEdpe</a></p>&mdash; JP (@jpbrammer) <a href="https://twitter.com/jpbrammer/status/1227457817201848320?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-2-15 14:53:1*
