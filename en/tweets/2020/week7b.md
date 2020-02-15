@@ -444,7 +444,7 @@ Germany wants to import massive amounts of green hydrogen from Africa!"
 
 Partially watched debate among 4 futures prospective Labour leaders
 three ladies and a bloke. Bloke is an idiot, can't close. The
-*hausfrau* wont do. The third lady has no presence, has that OMG face,
+*hausfrau* wont do. The other lady has no presence, has that OMG face,
 like they are discussing the most regular topic camera shows her face
 it says OMG. OMG! 🙀 She has no chance in the general. So my pick:
 Rebecca Long-Bailey.  She comes across more of a closer - talked about
