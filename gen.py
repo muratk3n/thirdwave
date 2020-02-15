@@ -1,6 +1,5 @@
 import glob, os, sys
 
-#d = 'en/2007'
 d = sys.argv[1] # param is like en/2007
 for f in sorted(glob.glob(d + '/*/*.md')):
     fin = open(f)
