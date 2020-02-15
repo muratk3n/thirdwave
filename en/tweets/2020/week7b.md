@@ -33,6 +33,8 @@ having a gas at your Xpense.
 
 ---
 
+Yeah - the guinea really f-ked it all up.
+
 "Maintaining [Rome's] infrastructure and population in a
 non-equilibrium state [ruling over bunch ppl, centrally is inherently
 unstable] required large amounts of energy. Its energy regime,
