@@ -24,7 +24,7 @@ Klobooshar - she looks like a wicked witch. U have no chance woman,
 go home. You were a cop and annoying as turd noone likes that.
 
 Where the f--k did she come from anyway? U know every1 pushing u is
-having a gas at your Xpense.
+having a gas at your xpense.
 
 [Link](https://youtu.be/VELspu8vxvc?t=531)
 
