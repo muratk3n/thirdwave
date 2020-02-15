@@ -34,16 +34,16 @@ having a gas at your Xpense.
 ---
 
 "Rome was experiencing the harsh realities imposed by the laws of
-thermodynamics. Maintaining its infrastructure and population in a
-non-equilibrium state required large amounts of energy. Its energy
-regime, however, was becoming exhausted. With no other alternative
-sources of energy available, Rome put even more pressure on its
-dwindling energy legacy. By the fifth century, the size of the
-government and military bureaucracy had doubled. To pay for it, taxes
-were increased, further impoverishing the population, especially the
-dwindling farm population. The empire, writes Joseph Tainter, began
-consuming its own capital in the form of “producing lands and peasant
-populations.”
+[disorder]. Maintaining its infrastructure and population in a
+non-equilibrium state [ruling over bunch ppl, centrally is inherently
+unstable] required large amounts of energy. Its energy regime,
+however, was becoming exhausted. With no other alternative sources of
+energy available, Rome put even more pressure on its dwindling energy
+legacy. By the fifth century, the size of the government and military
+bureaucracy had doubled. To pay for it, taxes were increased, further
+impoverishing the population, especially the dwindling farm
+population. The empire, writes Joseph Tainter, began consuming its own
+capital in the form of “producing lands and peasant populations.”
 
 Weakened by a depleted energy regime, the empire began to
 crumble. Basic services dwindled. The immense Roman infrastructure
@@ -69,9 +69,9 @@ would not recover for another 600 years"
 
 ---
 
-Some "civilizations"
+Some "civilization"
 
-Later in history, our forebears captured and “harnessed” one another
+Later in history, our forebears captured and 'harnessed' one another
 as energy-producing power plants—a process that continued apace until
 the latter part of the 19th century—and used human slavery as a means
 to increase energy flow. Slave labor built the great pyramids of
@@ -177,15 +177,6 @@ asked the police to arrest him"
 [Link](https://youtu.be/bST58qV_rlI?t=143)
 
 *2020-2-14 16:25:8*
-
----
-
-A lot of the humor shared here are the kind to decompress with for
-tech people; when you are extremely focused on technical details, the
-best thing to take your mind off things is, say a rapping dog. Or a
-stupid meme. Karate monkey, whatever.
-
-*2020-2-14 16:24:2*
 
 ---
 
@@ -373,7 +364,7 @@ course, unlimited war chest.
 
 Still no guarantee though all that will work against Trump. DJT showed
 an ability to bypass usual channels and reach people. The contrast
-angle doesn't work either. Two uber-rich people, both from Manhattan.
+angle doesn't work either. Two uber-rich people, both from Manhattan. 
 
 *2020-2-13 20:27:1*
 
@@ -397,7 +388,7 @@ Bloom fockery info
 
 ---
 
-This is true. It is said US was born between two waves.
+Yes, US was born between two waves.
 
 "James Watt patented his steam engine on the eve of the American
 Revolution, consummating a relationship between coal and the new
@@ -417,7 +408,7 @@ Bloomberg is paying 23yo field organizers $6000/month & rallies have
 free food & swag; he’s spending just as extravagantly on field as TV
 
 Conventional wisdom is $ doesn’t buy elections, especially at the prez
-level, but no one has tested this ..."
+level, but no one has tested this.."
 
 *2020-2-13 18:14:37*
 
