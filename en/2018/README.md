@@ -1,3 +1,4 @@
+# 2018
 
 [Bernie Sanders' Medicare for All Town Hall](01/bernie-sanders-medicare-for-all-town.md)
 
@@ -8,6 +9,8 @@
 [January Temperatures](01/january-temperatures.md)
 
 [#MRI](01/mri.md)
+
+[](01/nytemp.md)
 
 [Q&A - 23/1](01/q-231.md)
 
@@ -109,6 +112,8 @@
 
 [#AGI](06/agi.md)
 
+[EU Greece code](06/eu_greece.md)
+
 [#frank](06/frank.md)
 
 [Governments, Money, Economy](06/governments-money-economy.md)
@@ -125,11 +130,7 @@
 
 [#russia #russia #russia](06/russia-russia-russia.md)
 
-[#westbank](06/westbank.md)
-
-[EU / Greece Codebook](06/eu_greece.md)
-
-[Werner Code, Math](06/werner.html)
+[The West Bank](06/westbank.md)
 
 [Battery Fueled by Iron and Water, Flow Batteries](07/battery-fueled-by-iron-and-water.md)
 
@@ -193,6 +194,8 @@
 
 [Fracked Up (and Ammonia)](10/fracked-up.md)
 
+[Patent Codebook](10/patents-code.md)
+
 [Q&A - 14/10](10/q-1410.md)
 
 [Q&A - 27/10](10/q-2710.md)
@@ -204,8 +207,6 @@
 [Wax On](10/wax-on.md)
 
 [ZH2](10/zh2.md)
-
-[](10/patents-code.md)
 
 [Drinking Water from Air](11/drinking-water-from-air.md)
 
@@ -221,7 +222,7 @@
 
 [MPP Analysis](11/mpp-analysis.md)
 
-[powered by Solid H2](11/powered-by-solid-h2_26.md)
+[EV powered by Solid H2](11/powered-by-solid-h2_26.md)
 
 [Q&A - 17/11](11/q-1711.md)
 
@@ -233,6 +234,8 @@
 
 [BDS](12/bds.md)
 
+[Climate Change](12/climate.md)
+
 [Friedman on US, Europe, The World](12/friedman-europe.md)
 
 [Lincoln Was Bi](12/linc-bi.md)
@@ -240,6 +243,8 @@
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
 
 [Q&A - 16/12](12/qa-1.md)
+
+[](12/quads.md)
 
 [Slack](12/slack.md)
 
