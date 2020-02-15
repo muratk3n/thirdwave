@@ -1,7 +1,7 @@
 # Tweets - Week 7b
 
 Bernie isnt a pacifist. BTW, neither was FDR. He fought the WW2 bitch!
-He even let Pearl Harbor happen so US could get into WW2!
+He even let Pearl Harbor happen so US could get into the war!
 
 *2020-2-15 14:50:7*
 
