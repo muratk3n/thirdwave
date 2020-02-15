@@ -325,7 +325,7 @@ wanna help yourself?  Knock out Libya, you sell more of your product.
 Below is oil production data for the world and Libya. Since 2011
 Libyan civil war their production was hammered, but world production
 went upwards, unscatched. Clearly someone picked up the slack and that
-someone else benefited.
+someone benefited.
 
 When it comes to oil chicanery, "taking the oil" may not be the only
 game in town. "Denying the oil to someone else", "crippling oil
