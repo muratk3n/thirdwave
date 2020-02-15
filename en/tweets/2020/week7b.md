@@ -18,11 +18,8 @@ when they saw my shitty wallet. Not first or last time \#MyBloombergStory"
 
 ---
 
-Klobooshar - she looks like a wicked witch. U have no chance woman,
-go home. You were a cop and annoying as turd noone likes that.
-
-Where the f--k did she come from anyway? U know every1 pushing u is
-having a gas at your xpense.
+Klobooshar - she looks like a wicked witch. U have no chance woman, go
+home. You were a cop and annoying noone likes that.
 
 [Link](https://youtu.be/VELspu8vxvc?t=531)
 
