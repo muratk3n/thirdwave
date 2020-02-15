@@ -33,8 +33,7 @@ having a gas at your Xpense.
 
 ---
 
-"Rome was experiencing the harsh realities imposed by the laws of
-[disorder]. Maintaining its infrastructure and population in a
+"Maintaining [Rome's] infrastructure and population in a
 non-equilibrium state [ruling over bunch ppl, centrally is inherently
 unstable] required large amounts of energy. Its energy regime,
 however, was becoming exhausted. With no other alternative sources of
