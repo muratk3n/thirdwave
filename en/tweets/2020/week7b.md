@@ -18,16 +18,6 @@ when they saw my shitty wallet. Not first or last time \#MyBloombergStory"
 
 ---
 
-Klobooshar - she looks like a wicked witch. U have no chance woman, go
-home. You were a cop and annoying noone likes that.
-
-[Link](https://youtu.be/VELspu8vxvc?t=531)
-
-
-*2020-2-15 11:45:41*
-
----
-
 Yeah - the guinea really f-ked it all up.
 
 "Maintaining [Rome's] infrastructure and population in a
