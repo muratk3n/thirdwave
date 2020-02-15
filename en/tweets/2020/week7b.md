@@ -42,7 +42,7 @@ legacy. By the fifth century, the size of the government and military
 bureaucracy had doubled. To pay for it, taxes were increased, further
 impoverishing the population, especially the dwindling farm
 population. The empire, writes Joseph Tainter, began consuming its own
-capital in the form of “producing lands and peasant populations.”
+capital in the form of 'producing lands and peasant populations'.
 
 Weakened by a depleted energy regime, the empire began to
 crumble. Basic services dwindled. The immense Roman infrastructure
