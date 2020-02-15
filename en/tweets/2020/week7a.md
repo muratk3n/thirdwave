@@ -633,8 +633,3 @@ hydrogen"
 
 ---
 
-Mind boggling amt of money but it will spur more activity in H2 area
-so .. fine. One of the better ways to spend that kind of $$.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👍👍 <a href="https://twitter.com/BillGates?ref_src=twsrc%5Etfw">@BillGates</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> makes a lot of sense see these guys are experts at how it’s done. <a href="https://twitter.com/energy_observer?ref_src=twsrc%5Etfw">@energy_observer</a> <a href="https://t.co/1rtUfkRhNj">https://t.co/1rtUfkRhNj</a></p>&mdash; Jon Hunt (@JontheHunt) <a href="https://twitter.com/JontheHunt/status/1226285807054524417?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
