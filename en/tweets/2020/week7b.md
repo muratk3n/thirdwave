@@ -513,11 +513,12 @@ Fantastic 🏋️‍♀️⛹️‍♀️🏊‍♀️🏂🏇🤺
 
 ---
 
-No wonder public sphere is overcrowding with drama queens. Most lowest
-hanging fruit one-step solutions are tried already. The remaining ones
-are moronic and hard, so it takes a lot of energy and drama to
-mobilize towards them. Then there is drama afterwards when things
-invariably fail because the direction was dumb in the first place.
+A side effect to the such is public sphere overcrowding with drama
+queens. Lowest hanging fruit, one-step solutions are tried
+already. The remaining ones are moronic and intractable, so it takes a
+lot of energy and drama to mobilize towards them. Then there is drama
+afterwards when things invariably fail because the direction was dumb
+in the first place.
 
 All that could be avoided with a little foresight. Not much, just a
 little.
