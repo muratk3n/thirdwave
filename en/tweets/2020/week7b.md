@@ -12,9 +12,7 @@ He even let Pearl Harbor happen so US could get into WW2!
 When I was 16 I was running home after getting off the subway cause I
 was late for curfew. A group of cops stopped me, threw me against the
 wall so hard that it bruised my face. Made fun of me for being poor
-when they saw my shitty wallet. Not first or last time
-
-\#MyBloombergStory"
+when they saw my shitty wallet. Not first or last time \#MyBloombergStory"
 
 *2020-2-15 13:25:7*
 
