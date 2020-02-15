@@ -1,5 +1,12 @@
 # Tweets - Week 7b
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie lands coveted &quot;the former CEO of Goldman Sachs is nervous&quot; endorsement <a href="https://t.co/j81UibEdpe">https://t.co/j81UibEdpe</a></p>&mdash; JP (@jpbrammer) <a href="https://twitter.com/jpbrammer/status/1227457817201848320?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-2-15 14:53:1*
+
+---
+
+
 Bernie isnt a pacifist. BTW, neither was FDR. He fought the WW2 bitch!
 He even let Pearl Harbor happen so US could get into the war!
 
@@ -469,12 +476,6 @@ grinding toward victory"
 [Link](https://www.rollingstone.com/politics/political-commentary/bernie-sanders-new-hampshire-2020-democratic-primary-2016-trump-951614)
 
 *2020-2-12 20:19:5*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie lands coveted &quot;the former CEO of Goldman Sachs is nervous&quot; endorsement <a href="https://t.co/j81UibEdpe">https://t.co/j81UibEdpe</a></p>&mdash; JP (@jpbrammer) <a href="https://twitter.com/jpbrammer/status/1227457817201848320?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-12 19:42:45*
 
 ---
 
