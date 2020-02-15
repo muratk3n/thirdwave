@@ -1,109 +1,116 @@
+# 2019
 
-7/11 - [A Post-Scarcity World](11/post-scarcity.md)
+[Capitalism Eating Itself](01/capitalism.md)
 
-1/11 - [Drug War](11/war-on-drugs.md)
+[Carbon Capture, Fuel Generation](01/carboncapture.md)
 
-1/11 - [Faux Ambassadors](11/faux-ambassadors.md)
+[E-Diesel](01/ediesel.md)
 
-1/11 - [Hacking the Constitution](11/constitution.md)
+[QA - 22/1](01/qa-1.md)
 
-19/10 - [Terry Jones' Barbarians](10/terry-jones-barbarians.md)
+[Solar Ammonia](01/solarammonia.md)
 
-19/9 - [The Most Powerful Greenhouse Gas Known to Man](09/sf6.md)
+[Transportation Infrastructure, NH3](01/transportation.md)
 
-9/9 - [Science Is Not about Getting More "Likes"](09/science-likes.md)
+[X3 Ion Thruster](01/x3.md)
 
-19/9 - [Aluminum Trihydride - Alane](09/alane.md)
+[#brexitexit](02/brexitexit.md)
 
-21/7 - [Focus-Group Democracy](08/focus-group-democracy.md)
+[#yang #ubi](02/yang.md)
 
-21/7 - [Manganese Hydride](08/manganese-hydride.md)
+[Article 13](03/article13.md)
 
-21/7 - [Marx](08/marx.md)
+[A Matter of Degrees](03/degrees.md)
 
-21/7 - [The Memristor](08/memristors.md)
+[H2@Scale](03/h2scale.md)
 
-21/7 - [Microgrids](08/microgrids.md)
+[Q&A - 19/3](03/qa-0193.md)
 
-21/7 - [Lee Smolin](08/smolin.md)
+[Wires vs Pipes](03/wirespipes.md)
 
-21/7 - [1.8 Trillion $ Theft](08/trillion-dollar-theft.md)
+[Green Ammonia](04/greenammonia.md)
 
-21/7 - [Twin Deficits, GFC](08/twin-deficits.md)
+[First Export, Element One](04/h2x.md)
 
-21/7 - [Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.md)
+[Q&A - 6/4](04/qa-0604.md)
 
-15/7 - [GenCell and Ammonia](07/gencell.md)
+[Q&A - 18/4](04/qa-1804.md)
 
-15/7 - [The Math for Greenhouse Effect and Global Warming](07/greenhouse-effect-math.md)
+[Get On With It](05/geton.md)
 
-15/7 - [The Middle East, Israel, Palestine](07/middleeast.md)
+[Infrastructure for Space](05/oneill.md)
 
-1/7  - [Q&A - 1/7](07/qa-0107.md)
+[Slippage, H2, the Transition](05/slippage.md)
 
-6/7  - [QA - 6/7](07/qa-0607.md)
+[Calculations, Data](05/stats.md)
 
-15/7 - [QA - 15/7](07/qa-1507.md)
+[Unfettered Capitalism](05/unfettered.md)
 
-28/6 - [Hope for Jaded Green Investors ](06/jaded-h2.md)
+[AI and Functions](06/ai.md)
 
-28/6 - [Q&A - 25/6](06/qa-2506.md)
+[Bancor](06/bancor.md)
 
-28/6 - [Underactuated](06/underactuated.md)
+[GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.md)
 
-21/6 - [AI and Functions](06/ai.md)
+[Hope for Jaded Green Investors](06/jaded-h2.md)
 
-21/6 - [Q&A - 16/6](06/qa-1606.md)
+[Q&A - 9/6](06/qa-0906.md)
 
-21/6 - [GE Unleashing a Hydrogen Gas Power Future](06/ge-h2.md)
+[Q&A - 16/6](06/qa-1606.md)
 
-21/6 - [Q&A - 9/6](06/qa-0906.md)
+[Q&A - 25/6](06/qa-2506.md)
 
-21/6 - [Bancor](06/bancor.md)
+[Underactuated](06/underactuated.md)
 
-10/5 - [Unfettered Capitalism](2019/05/unfettered.md)
+[GenCell and Ammonia](07/gencell.md)
 
-10/5 - [Slippage, H2, the Transition](2019/05/slippage.md)
+[The Math for Greenhouse Effect and Global Warming](07/greenhouse-effect-math.md)
 
-10/5 - [Infrastructure for Space](2019/05/oneill.md)
+[The Middle East, Israel, Palestine](07/middleeast.md)
 
-4/5 - [Get On With It](2019/05/geton.md)
+[Q&A - 1/7](07/qa-0107.md)
 
-18/4 - [Q&A - 18/4](04/qa-1804.md)
+[QA - 6/7](07/qa-0607.md)
 
-8/4 - [First Export, Element One](04/h2x.md)
+[QA - 15/7](07/qa-1507.md)
 
-6/4 - [Q&A - 6/4](04/qa-0604.md)
+[Focus-Group Democracy](08/focus-group-democracy.md)
 
-4/4 - [Green Ammonia](04/greenammonia.md)
+[Manganese Hydride](08/manganese-hydride.md)
 
-19/3 - [Q&A - 19/3](03/qa-0193.md)
+[Marx](08/marx.md)
 
-14/3 - [Article 13](03/article13.md)
+[The Memristor](08/memristors.md)
 
-13/3 - [A Matter of Degrees](03/degrees.md)
+[Microgrids](08/microgrids.md)
 
-8/3 - [Wires vs Pipes](03/wirespipes.md)
+[Quantity over Quality](08/quantity-over-quality.md)
 
-4/3 - [H2@Scale](03/h2scale.md)
+[Lee Smolin](08/smolin.md)
 
-28/2 - [#brexitexit](02/brexitexit.md)
+[1.8 Trillion $ Theft](08/trillion-dollar-theft.md)
 
-15/2 - [#yang #ubi](02/yang.md)
+[Twin Deficits, GFC](08/twin-deficits.md)
 
-29/1 - [Solar Ammonia](01/solarammonia.md)
+[Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.md)
 
-25/1 - [Transportation Infrastructure, NH3](01/transportation.md)
+[Aluminum Trihydride - Alane](09/alane.md)
 
-22/1 - [QA - 22/1](01/qa-1.md)
+[Science Is Not about Getting More "Likes"](09/science-likes.md)
 
-22/1 - [Carbon Capture, Fuel Generation](01/carboncapture.md)
+[The Most Powerful Greenhouse Gas Known to Man](09/sf6.md)
 
-12/1 - [X3 Ion Thruster](01/x3.md)
+[Terry Jones' Barbarians](10/terry-jones-barbarians.md)
 
-7/1 - [E-Diesel](01/ediesel.md)
+[Hacking the Constitution](11/constitution.md)
 
-5/1 - [Capitalism Eating Itself](01/capitalism.md)
+[Faux Ambassadors](11/faux-ambassadors.md)
 
+[France - China - US](11/france-china-us.md)
 
+[A Post-Scarcity World](11/post-scarcity.md)
+
+[Drug War](11/war-on-drugs.md)
+
+[Evolution](12/evolution.md)
 
