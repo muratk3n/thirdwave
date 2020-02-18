@@ -240,10 +240,10 @@ plt.savefig('initial-claims.png')
 ```text
             IC4WSA
 DATE              
-2020-01-11  216500
 2020-01-18  216250
 2020-01-25  214750
-2020-02-01  211750
+2020-02-01  212000
+2020-02-08  212000
 ```
 
 ![](initial-claims.png)
@@ -274,10 +274,11 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-09-01    47.8
-2019-10-01    48.3
+2019-09-01    48.2
+2019-10-01    48.5
 2019-11-01    48.1
-2019-12-01    47.2
+2019-12-01    47.8
+2020-01-01    50.9
 Name: PMI, dtype: float64
 ```
 
@@ -330,12 +331,12 @@ print (df.tail(6))
 ```text
             Value
 Date             
-2019-07-31  1.811
 2019-08-31  1.750
 2019-09-30  1.711
 2019-10-31  1.764
 2019-11-30  2.051
 2019-12-31  2.285
+2020-01-31  2.487
 ```
 
 <a name="cpyoy"></a>
@@ -391,12 +392,12 @@ print (np.array([m-s,m+s]).T)
 
 ```text
 Date
-2020-02-04    97.809
-2020-02-05    98.158
-2020-02-06    98.381
-2020-02-07    98.571
+2020-02-11    98.594
+2020-02-12    98.922
+2020-02-13    98.958
+2020-02-14    99.003
 Name: Settle, dtype: float64
-[ 81.77593163 102.74089272]
+[ 81.78151066 102.7428386 ]
 ```
 
 ```python
@@ -502,5 +503,34 @@ plt.savefig('price-sales.png')
 ```
 
 ![](price-sales.png)
+
+<a name="junkbond"></a>
+
+# B-Grade Junk Bond Yields
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+import quandl
+
+today = datetime.datetime.now()
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['BAMLH0A2HYBEY']
+df = data.DataReader(cols, 'fred', start, end)
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('junkbond.png')
+```
+
+![](junkbond.png)
+
+
+
+
+
+
+
 
 
