@@ -12,9 +12,9 @@ yapısında olması gerekir, yani kafatasının eninin boyuna olan oranı
 
 ![](jgko_isikkosaner_all.JPG)
 
-Yani bu ölçümlere göre ve TTT'ye göre Sn. Koşaner Türk değil.Neyse: Bu
-saçmalıklar tabii ki bizim umrumuzda değil. Bizce, bir insanın işinde
-yükselmesi için tek önemli kıstas meritokrasidir yani o kişinin
+Yani bu ölçümlere göre ve TTT'ye göre Sn. Koşaner Türk değil. Neyse:
+Bu saçmalıklar tabii ki bizim umrumuzda değil. Bizce, bir insanın
+işinde yükselmesi için tek önemli kıstas meritokrasi yani o kişinin
 kabiliyeti ve becerisi.
 
 
