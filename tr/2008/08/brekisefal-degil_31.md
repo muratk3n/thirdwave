@@ -1,7 +1,5 @@
 # Brekisefal Degil
 
-![](jgko_isikkosaner_all.JPG)
-
 Org. Koşaner malum devir-teslim töreninde bizi pek derin felsefi
 görüşleri ile aydınlattı. Madem ulusalcı ideolojiyi bu kadar
 hatmetmiş, etnikçilikten, cemaatlerden bahsetmiş, kendisi acaba bir
@@ -11,6 +9,8 @@ yapısında olması gerekir, yani kafatasının eninin boyuna olan oranı
 0.85'ten daha yüksek olmalıdır. Piksel bazında bizim yaptığımız
 ölçümlere göre Koşaner, enine 82 px boyuna 112 px ölçülerde ve bu iki
 ölçümün oranı 0.73 çıkıyor.
+
+![](jgko_isikkosaner_all.JPG)
 
 Yani bu ölçümlere göre ve TTT'ye göre Sn. Koşaner Türk değil.Neyse: Bu
 saçmalıklar tabii ki bizim umrumuzda değil. Bizce, bir insanın işinde
