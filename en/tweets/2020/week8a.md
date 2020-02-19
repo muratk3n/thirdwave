@@ -28,7 +28,7 @@ driven by a virus.
 ---
 
 To get better idea on mortality rate of nCOV, I'd watch democracies
-near China who got virus, like South Korea.
+near China who also reported cases on it, like South Korea.
 
 [Link](https://www.statista.com/statistics/1095848/south-korea-confirmed-and-suspected-coronavirus-cases/)
 
@@ -71,7 +71,7 @@ Slam...
 might think Democrats are bitterly polarized over Bernie Sanders’s
 presidential bid... Since the beginning of the year, news organization
 after news organization has speculated that Sanders’s success may set
-off a Democratic “civil war.”
+off a Democratic 'civil war.'
 
 But polls of Democratic voters show nothing of the sort. Among
 ordinary Democrats, Sanders is strikingly popular, even with voters
