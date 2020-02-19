@@ -186,7 +186,7 @@ B-grade junk bond yields are way down, like __way__
 Peeps are hungry for yield and flooding this area too of course.
 
 But..if we go by this graph's relation to recessions, next one does
-not seem imminent 😶
+not seem imminent.
 
 *2020-2-18 9:49:6*
 
