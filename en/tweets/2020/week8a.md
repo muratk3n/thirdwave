@@ -165,7 +165,8 @@ socialism, so the emphasis is squarely on that term. This is the best
 way to draw a contrast between himself and the establishment whose
 meager middle-ground centrism drove the Dems to the ground. 
 
-"Why does Bernie call himself democratic socialism when he is a social democrat"
+"Why does Bernie call himself democratic socialist when he is actually
+a social democrat if we go by policies"
 
 *2020-2-18 10:41:3*
 
