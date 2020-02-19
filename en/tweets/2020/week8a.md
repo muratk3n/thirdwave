@@ -469,9 +469,8 @@ over, u need to get the f--k outa there.
 ---
 
 Gerard t Hooft (Nobel Prize winner) is in the same wavelength as
-Smolin - saying QM needs to be derived.  Also says whatever gives rise
-to it is probably sitting at Plank scale... that's where the "code"
-resides.
+Smolin, QM needs to be derived.  Also says whatever gives rise to it
+is probably sitting at Plank scale... that's where the "code" resides.
 
 *2020-2-17 10:57:37*
 
@@ -635,7 +634,7 @@ the allies gets stronger.
 
 Who protested most abt the Iraq War? SA, UAE, EG, Israel...
 
-Who protested most abt Iran Nuke deal? Same ppl.
+Who protested most abt Iran Nuke deal? Same.
 
 Rightfully so from their POV BTW
 
