@@ -284,14 +284,15 @@ would just get a photo of them, [measure their
 head](https://muratk3n.github.io/thirdwave/tr/2008/08/brekisefal-degil_31.html),
 and look at the ratio (of height to width). It is always less than
 0.85, *not brachycephalic*, then I'd say "well you do not belong to
-the Turk race".  Nats start jumping up and down.. These ppl are lost.
+the Turk race".  Nats start jumping up and down.. These ppl are deeply
+delusional. Which describes nationalism well actually - a shared delusion.
 
 *2020-2-17 22:39:24*
 
 ---
 
-But then how would some people manage to come across "outside of
-mainstream", as "bucking -blah-". You are taking away their toy man...
+But then how would some people manage to come across so "outside of
+mainstream", as "bucking etc". You are taking away their toy man...
 
 "@davecurtis314
 
