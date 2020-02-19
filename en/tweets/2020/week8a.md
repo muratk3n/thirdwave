@@ -60,6 +60,8 @@ Wut
 AAPL is moving to Taiwan? Makes sense. Foxconn would gladly move to
 keep AAPL as customer of course. Are their workers as cheap?
 
+Better (for US) would be move to US (and automate as much as possible).
+
 *2020-2-18 22:54:24*
 
 ---
