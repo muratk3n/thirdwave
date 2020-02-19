@@ -9,8 +9,7 @@
 Great. F the teachers (except the ones on video)
 
 Also all online source material should be downloadable, so we also
-need offline for that online. I guess in short we need digital
-learning.
+need offline for that online. I guess in short digital learning.
 
 "@wolfejosh
 
