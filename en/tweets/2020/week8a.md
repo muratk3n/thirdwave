@@ -105,10 +105,10 @@ country was right after 9/11, stayed like that for months.
 
 ---
 
-This current world is probably a version of be-all end-all dream world
-for boomers. Products in markets, bunch of roads, cars, etc,
-especially in 2nd, 3rd world - they didn't have any of these things in
-such abundance when they were young. Boy did they get what they
+This current world is probably a version of be-all end-all dream for
+boomers. Products in markets, bunch of roads, cars, etc, especially in
+2nd, 3rd world - they didn't have any of these things in such
+abundance when they were young. Boy did they get what they
 (uncarefully) wished for...
 
 They are about abundance of shit.. not quality. U'd think by now would
@@ -163,7 +163,7 @@ messages. They are about __selling__, especially for the challenger
 I am glad Bernie is using a label that specifically ends with the word
 socialism, so the emphasis is squarely on that term. This is the best
 way to draw a contrast between himself and the establishment whose
-meager middle-ground centrism drove the Dems to the ground. 
+meager middle-ground centrism drove Dems to the ground. 
 
 "Why does Bernie call himself democratic socialist when he is actually
 a social democrat if we go by policies"
