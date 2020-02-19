@@ -629,9 +629,9 @@ nuke deal quashed hopes. Enter ISIS.
 
 Maybe Dubya did Iraq bcz he knew the allies f-d him. He was punishing
 them. Why Iraq? "Doing" Iraq can only have one outcome, majority
-Shites gain power after minority leader Saddam is gone, and neighbor
-(Shite) Iran's influence will increase. The mortal enemy of the allies
-gets stronger.
+Shites of Iraq gain power after minority leader Saddam is gone, and
+neighbor (Shite) Iran's influence will increase. The mortal enemy of
+the allies gets stronger.
 
 Who protested most abt the Iraq War? SA, UAE, EG, Israel...
 
@@ -670,7 +670,7 @@ cooperation is the only option"
 
 Haha.. Olmert saz "Netanyahu's English is better than his
 Hebrew". Boom. That's the former PM talking abt the sitting PM.. You
-need to assimilate into your own country bitch! Whaddaya waiting for?
+need to assimilate into your own country bitch! 
 
 *2020-2-15 18:12:4*
 
