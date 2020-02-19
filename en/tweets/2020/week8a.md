@@ -97,7 +97,8 @@ Buybacks, recession
 ---
 
 The last time when voters were satisfied with the direction of the
-country was right after 9/11, stayed like that for months. 
+country was right after 9/11, stayed like that for months. Voters
+don't know much.
 
 "Voters are so-so, lukewarm abt the direction of the country according to polls"
 
