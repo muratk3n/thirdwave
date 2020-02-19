@@ -368,9 +368,8 @@ In many ways Warren's strategy, path to nom was the hardest.. Her plan
 hinged on taking progressives from Bernie (they shared a base) which
 she succeeded for a while, use that momentum to gobble up centrists,
 reach the goal. It all depended on Bernie not showing up, but when he
-did, it was game over. Not to rag on her, she obviously has prog
-creds. But Bernie is more of a known quantity having ran against
-Hillary 2016. 
+did, it was game over. Not to nag, she obviously has prog creds. But
+Bernie is more of a known quantity having ran against Hillary 2016.
 
 *2020-2-17 18:52:4*
 
