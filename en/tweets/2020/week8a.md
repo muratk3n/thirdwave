@@ -478,8 +478,8 @@ is probably sitting at Plank scale... that's where the "code" resides.
 
 Yeah u cld go the other direction, start from QM, using entaglement,
 like Mark Van Raamsdonk, and through wormhole similarity, construct
-spacetime based on some ideas from Hawk, t Hooft. But then QM entang
-is assumed as given. Where TF does that come from?
+spacetime based on some ideas from Hawk, t Hooft. But then isn't
+entanglement assumed as given? 
 
 *2020-2-17 10:57:34*
 
