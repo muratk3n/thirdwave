@@ -185,8 +185,8 @@ B-grade junk bond yields are way down, like __way__
 [down](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#junkbond).
 Peeps are hungry for yield and flooding this area too of course.
 
-If we go by this graph's relation to recessions, next one doesn't seem
-that close 😶
+But..if we go by this graph's relation to recessions, next one does
+not seem imminent 😶
 
 *2020-2-18 9:49:6*
 
