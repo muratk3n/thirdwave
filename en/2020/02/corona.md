@@ -32,7 +32,6 @@ import cartopy.feature as cfeature
 fig = plt.figure(figsize=(10, 5))
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 ax = plt.axes(projection=ccrs.PlateCarree())
-ax.stock_img()
 ax.coastlines()
 shp = shpreader.natural_earth(resolution='10m',category='cultural',
                               name='admin_0_countries')
@@ -41,7 +40,7 @@ for n in reader.records() :
     if n.attributes['ADM0_A3'] in col_dict:
         c = col_dict[n.attributes['ADM0_A3']]
         if ('str' in str(type(c))): ax.add_geometries(n.geometry, ccrs.PlateCarree(), facecolor=col_dict[n.attributes['ADM0_A3']])
-plt.savefig('corona.png')
+plt.savefig('corworld.png')
 ```
 
 ![](corworld.png)
