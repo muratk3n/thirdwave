@@ -1,8 +1,7 @@
 
-https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
 
 ```python
-import pandas as pd, csv
+import pandas as pd
 
 df1 = pd.read_csv('corona.csv',sep='\t')
 d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
@@ -17,53 +16,36 @@ for c in d1['Confirmed'].keys():
     
 df = pd.DataFrame(res)
 
-bins = [0, 50, 100, 200, 500, 2000, 5000, 10000]
+bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
 colors = ["mistyrose","lightsalmon","salmon","lightcoral","tomato","red","firebrick"]
 df['colors'] = pd.cut(np.array(df[0]), bins=bins, labels=colors)
 col_dict = df.set_index(1)['colors'].to_dict()
-col_dict
 ```
 
-```text
-Out[1]: 
-{'ARE': 'mistyrose',
- 'AUS': 'mistyrose',
- 'BEL': 'mistyrose',
- 'CAN': 'mistyrose',
- 'CHN': nan,
- 'DEU': 'mistyrose',
- 'EGY': 'mistyrose',
- 'ESP': 'mistyrose',
- 'FIN': 'mistyrose',
- 'FRA': 'mistyrose',
- 'GBR': 'mistyrose',
- 'HKG': 'lightsalmon',
- 'IND': 'mistyrose',
- 'ISR': 'mistyrose',
- 'ITA': 'lightsalmon',
- 'JPN': 'salmon',
- 'KHM': 'mistyrose',
- 'KOR': 'lightcoral',
- 'LBN': 'mistyrose',
- 'LKA': 'mistyrose',
- 'MYS': 'mistyrose',
- 'NPL': 'mistyrose',
- 'PHL': 'mistyrose',
- 'RUS': 'mistyrose',
- 'SGP': 'lightsalmon',
- 'SWE': 'mistyrose',
- 'THA': 'mistyrose',
- 'TWN': 'mistyrose',
- 'USA': 'mistyrose',
- 'VNM': 'mistyrose'}
+```python
+import matplotlib.pyplot as plt
+import cartopy.io.shapereader as shpreader
+import cartopy.crs as ccrs
+import cartopy.feature as cfeature
+
+ax = plt.axes(projection=ccrs.PlateCarree())
+ax.stock_img()
+ax.coastlines()
+shp = shpreader.natural_earth(resolution='10m',category='cultural',
+                              name='admin_0_countries')
+reader = shpreader.Reader(shp)
+for n in reader.records() :
+    if n.attributes['ADM0_A3'] in col_dict:
+        c = col_dict[n.attributes['ADM0_A3']]
+        if ('str' in str(type(c))): ax.add_geometries(n.geometry, ccrs.PlateCarree(), facecolor=col_dict[n.attributes['ADM0_A3']])
+plt.savefig('corona.png')
 ```
 
+![](corona.png)
 
+Data
 
-
-
-
-
+https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
 
 
 
