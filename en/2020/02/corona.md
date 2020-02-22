@@ -59,9 +59,7 @@ Updated: 2020-02-23 00:26:44.109368
 
 [corona.csv](corona.csv)
 
-Data
-
-https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
+[Reference - Wiki](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
 
 
 
