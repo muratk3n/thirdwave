@@ -123,7 +123,7 @@ patch in the Pacific Ocean.
 
 *2020-2-18 15:5:57*
 
-------------------
+---
 
 Twistor theory does not incorporate most of GR. No hope there. Penrose
 is great but that direction seems dead.
