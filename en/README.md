@@ -13,9 +13,7 @@ despite the best efforts of people working in them.
 
 19/2 - [Tweets - Week 8a](/tweets/2020/week8a.md)
 
-15/2 - [Tweets - Week 7b](/tweets/2020/week7b.md)
-
-12/2 - [Tweets - Week 7a](/tweets/2020/week7a.md)
+15/2 - [Tweets - Week 7b](/tweets/2020/week7.md)
 
 9/2 - [Tweets - Week 6](/tweets/2020/week6.md)
 
