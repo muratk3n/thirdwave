@@ -46,6 +46,20 @@ plt.savefig('corona.png')
 
 ![](corworld.png)
 
+```python
+import datetime
+print ('Total Confirmed', df[0].sum())
+print ('\nUpdated:',datetime.datetime.now())
+```
+
+```text
+Total Confirmed 77312.0
+
+Updated: 2020-02-23 00:26:44.109368
+```
+
+[corona.csv](corona.csv)
+
 Data
 
 https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
