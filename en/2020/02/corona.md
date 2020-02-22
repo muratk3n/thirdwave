@@ -17,7 +17,8 @@ for c in d1['Confirmed'].keys():
 df = pd.DataFrame(res)
 
 bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
-colors = ["mistyrose","lightsalmon","salmon","lightcoral","tomato","red","firebrick"]
+colors = ["mistyrose","lightsalmon","salmon", \
+          "lightcoral","tomato","red","firebrick"]
 df['colors'] = pd.cut(np.array(df[0]), bins=bins, labels=colors)
 col_dict = df.set_index(1)['colors'].to_dict()
 ```
@@ -28,6 +29,8 @@ import cartopy.io.shapereader as shpreader
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature
 
+fig = plt.figure(figsize=(10, 5))
+ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 ax = plt.axes(projection=ccrs.PlateCarree())
 ax.stock_img()
 ax.coastlines()
@@ -41,7 +44,7 @@ for n in reader.records() :
 plt.savefig('corona.png')
 ```
 
-![](corona.png)
+![](corworld.png)
 
 Data
 
