@@ -208,8 +208,8 @@ yesterday, and not the RuAF"
 "@JTSEO9
 
 Campaigns and the media are making the same mistake they made with
-Trump.  During 2016 we had to hear "ceiling of support" "core base of
-deplorables", etc.  It's a mistake to assume Democrat voters would
+Trump.  During 2016 we had to hear 'ceiling of support' 'core base of
+deplorables', etc.  It's a mistake to assume Democrat voters would
 shift to Bloomberg/Buttplug with less candidates"
 
 *2020-2-22 18:24:11*
@@ -447,8 +447,8 @@ Woha. All carbon stays underground? Ingenious if it works as advertised.
 "@StephanParlow
 
 The recyclability of Ballard fuel cells is really impressive. This
-should be shown to the next Tesla fanboy who starts with "but the
-efficiency!"  Fuel cells as a component of a renewable energy system
+should be shown to the next Tesla fanboy who starts with 'but the
+efficiency!'. Fuel cells as a component of a renewable energy system
 are unbeatable in terms of sustainability"
 
 *2020-2-20 19:8:27*
