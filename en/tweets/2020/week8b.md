@@ -4,7 +4,6 @@ BERNIE WINS NEVADA
 
 <img width="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmmCXU4_30u5uy1utLIGTv-H7XJthmGBzMBnJJoiYsctpOeu29"/>
 
-
 *2020-2-23 9:18:2*
 
 ---
@@ -299,7 +298,7 @@ accountable to higher-ups for overall guidance"
 
 ---
 
-Strentgh becoming weakness
+Strength becoming weakness
 
 \#el-arian
 
@@ -313,7 +312,7 @@ Strentgh becoming weakness
 the entire strategy of the war revolved around controlling vital oil
 supplies...
 
-[Hitler] set its sights on a two-pronged approach to securing oil:
+[Hitler] set [his] sights on a two-pronged approach to securing oil:
 first, developing a synthetic-fuel industry at home; and second,
 pushing into a war with Russia to secure access to the rich oil fields
 at Baku in central Asia"
@@ -390,9 +389,6 @@ business-interruption policies—a post-SARS legacy. 'Insurers are in
 the business of covering risks they can understand.'"
 
 *2020-2-21 14:56:57*
-
----
-
 
 ---
 
