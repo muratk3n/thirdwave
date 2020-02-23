@@ -18,7 +18,7 @@ BERNIE WINS NEVADA
 "Biden revived his campaign"? He did terrible. Took only half the
 votes as Bernie.
 
-*2020-2-23 14:22:1*
+*2020-2-23 9:09:22*
 
 ---
 
@@ -30,7 +30,7 @@ this is how second wave ends - death-by-flu.
 The new flu has an affinity for institutions. Prisons, hospitals, army
 groups, churches .."
 
-*2020-2-23 14:11:13*
+*2020-2-23 9:08:7*
 
 ---
 
@@ -42,7 +42,7 @@ Undercutting the Bern?
 The Ways and Means Committee passed bipartisan legislation to protect
 patients, improve transparency, and end surprise medical billing"
 
-*2020-2-23 13:50:12*
+*2020-2-23 9:05:1*
 
 ---
 
@@ -52,7 +52,7 @@ Dr. Brett Sutton, chief health officer in Australia's Victoria: 'It's
 clear that with local transmission in several countries that a
 pandemic is very likely, if not inevitable'"
 
-*2020-2-23 13:38:52*
+*2020-2-23 9:04:8*
 
 ---
 
@@ -62,13 +62,15 @@ Not bad either..
 
 [Link](https://www.veganbakkal.com.tr/product/inulinli-yuksek-lifli-meyve-ve-kuru-yemis-bari-30g-rawmygod/)
 
-*2020-2-23 13:23:17*
+*2020-2-23 9:01:3*
 
 ---
 
 First CH corona numbers were fake
 
 [Link](https://youtu.be/3kz54wBKi2c)
+
+*2020-2-23 9:00:1*
 
 ---
 
