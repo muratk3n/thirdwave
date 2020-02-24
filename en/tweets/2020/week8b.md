@@ -57,9 +57,9 @@ pandemic is very likely, if not inevitable'"
 
 Not bad either..
 
-<img width="240" src="https://www.veganbakkal.com.tr/wp-content/uploads/2020/01/inulinli-yuksek-lifli-kuruyemis-ve-meyve-bari-30-gr-rawmygod-rawsome.jpg"/>
+<img width="240" src="https://www.veganbakkal.com.tr/wp-content/uploads/2020/01/ketojenik-ketogenic-dusuk-sekerli-kuruyemis-ve-meyve-bari-40-gr-rawmygod-rawsome.jpg"/>
 
-[Link](https://www.veganbakkal.com.tr/product/inulinli-yuksek-lifli-meyve-ve-kuru-yemis-bari-30g-rawmygod/)
+[Link](https://www.veganbakkal.com.tr/product/ketogenic-low-sugar-kuru-yemis-bari-40g-rawmygod/)
 
 *2020-2-23 9:01:3*
 
@@ -510,9 +510,9 @@ Conciousness and quantum wave function collapse
 
 ---
 
-@russian_market
+"@russian_market
 
-China is shutting down internet in Wuhan
+China is shutting down internet in Wuhan"
 
 *2020-2-20 16:58:6*
 
@@ -537,7 +537,10 @@ I'd love to see them try and watch hoardes of voters leave the "Democratic" part
 
 ---
 
-It's not just about the methane Bloomy.. they use potable water for the fracking process which is wasted, and more, what comes out is toxic. If this toxic water seeps into ground it will poison its nearby area for decades.
+It's not just about the methane Bloomy.. they use potable water for
+the fracking process which is wasted, and more, what comes out is
+toxic. If this toxic water seeps into ground it will poison its nearby
+area for decades.
 
 *2020-2-20 9:2:17*
 
