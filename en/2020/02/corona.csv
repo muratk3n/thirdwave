@@ -1,31 +1,40 @@
-Country	Confirmed	Deaths	Recoveries[b]
- China	76,291	2,345	21,061
- Others	634	2	1
- South Korea	433	2	18
- Japan	134	1	22
- Singapore	89	0	49
- Hong Kong	70	2	11
- Italy	62	2	2
- United States	35	0	6
- Thailand	35	0	20
- Iran	28	5	–
- Taiwan	26	1	2
- Malaysia	22	0	17
- Australia	21	0	11
- Germany	16	0	14
- Vietnam	16	0	15
+Country	Confirmed	Deaths	Recoveries
+ China	77,660	2,663	27,624
+ South Korea	977	11	22
+International conveyance[d]	691	4	1
+ Italy	326	11	2
+ Japan	161	1	27
+ Iran	95	16	25
+ Singapore	91	0	58
+ Hong Kong	85	2	18
+ United States	57	0	6
+ Thailand	37	0	22
+ Taiwan	31	1	5
+ Bahrain	23	0	–
+ Australia	22	0	11
+ Malaysia	22	0	18
+ Germany	17	0	14
+ Vietnam	16	0	16
+ France	14	1	12
  United Arab Emirates	13	0	3
- France	12	1	7
- Macau	10	0	6
- Canada	9	0	3
- United Kingdom	9	0	8
+ United Kingdom	13	0	8
+ Canada	11	0	8
+ Macau	10	0	7
+ Kuwait	9	0	–
+ Spain	6	0	2
+ Iraq	5	0	–
+ Oman	4	0	–
  Philippines	3	1	2
  India	3	0	3
+ Austria	2	0	–
+ Israel	2	0	–
  Russia	2	0	2
- Spain	2	0	2
- Israel	1	0	–
+ Afghanistan	1	0	–
+ Algeria	1	0	–
+ Croatia	1	0	–
  Lebanon	1	0	–
  Sweden	1	0	–
+ Switzerland	1	0	–
  Belgium	1	0	1
  Cambodia	1	0	1
  Egypt	1	0	1

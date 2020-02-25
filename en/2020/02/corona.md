@@ -52,9 +52,9 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 77312.0
+Total Confirmed 79624.0
 
-Updated: 2020-02-23 00:26:44.109368
+Updated: 2020-02-26 00:48:01.852311
 ```
 
 [corona.csv](corona.csv)
