@@ -878,7 +878,9 @@ think I've found _da_ bar.
 
 Honey is great - they say it has healing effects.
 
-<img width="340" src="https://daac0riatyc2o.cloudfront.net/seyhanlar/products/7961/tadim-30gr-sportif-bar-544730001550479649.jpg"/>
+<img width="340" src="https://www.tadim.com/timthumb.php?src=uploads/urunresim/153788443-.png&w=184&zc=1"/>
+
+[Link](https://www.tadim.com/urun/karisik-kuruyemis-bar/317)
 
 *2020-2-10 19:15:0*
 
