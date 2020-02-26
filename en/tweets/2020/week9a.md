@@ -56,7 +56,7 @@ things, and Steyer came across okay.
 
 ---
 
-It wasn't such bad debate. 
+It wasn't such a bad debate. 
 
 *2020-2-26 9:21:4*
 
