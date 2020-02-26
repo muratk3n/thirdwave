@@ -1,9 +1,5 @@
 # Tweets - Week 9a
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 They are all trying to close - I respect that. Feeling the \#Bern.
 
 \#demdebate
