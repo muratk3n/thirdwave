@@ -157,8 +157,8 @@ population increase.. see calc below (assumed 10 ppl per building,
 some could be one-family, some could be entire apartments).
 
 Can we say low rates caused speculation on apt prices, turned them
-into gambling tools for banks, and the rich. Ordinary people were
-screwed, now cant find housing.
+into gambling tools for banks, and the rich? Likely. Ordinary people
+were screwed, cant find housing.
 
 <img width="340" src="https://pbs.twimg.com/media/ERo7nfHW4AAw725?format=png&name=small"/>
 
