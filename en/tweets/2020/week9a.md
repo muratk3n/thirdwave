@@ -216,9 +216,9 @@ Corporatocracy 👊
 
 ---
 
-Got lota camping food I could for weeks wout grocs. Have a fine knife
-and other good stuff... Hell I have portable solar panels. If elec
-shuts off can at least charge a phone.
+Got lota camping food I could go for weeks wout grocs. Have a fine
+knife and other good stuff... Hell I have portable solar panels. If
+elec shuts off can at least charge a phone.
 
 *2020-2-25 18:34:51*
 
@@ -226,7 +226,7 @@ shuts off can at least charge a phone.
 
 Screenplay: the entire Earth population dies from virus, only ones
 left are in ISS. Movie is about them trying to land on their own then
-exploring Earth starying new life. Maybe a few zombies too.
+exploring Earth, starting new life. Maybe a few zombies too.
 
 *2020-2-25 18:29:56*
 
