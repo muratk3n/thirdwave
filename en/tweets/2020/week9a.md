@@ -74,8 +74,8 @@ electability, hence chances during the primary.
 
 ---
 
-Wars have gotten weirder and weirder.. Almost none are being fought
-for the reasons claimed.
+Wars have gotten weirder and weirder.. Almost none is being fought for
+the reasons claimed.
 
 *2020-2-26 1:39:10*
 
