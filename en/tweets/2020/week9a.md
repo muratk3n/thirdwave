@@ -65,7 +65,7 @@ It wasn't such a bad debate.
 If peeps think the angle on guns will work on Sandahs you are sorely
 mistaken. He did just fine that with 'mom-and-pop gunstores' line in
 2016; it was a line that would work nationally (taking away a bullshit
-hot-button issue from any Reps) and therefore, would increase his
+hot-button issue from Reps) and therefore, would increase his
 electability, hence chances during the primary.
 
 \#demdebate
