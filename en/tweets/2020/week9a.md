@@ -691,10 +691,11 @@ looking for new energy types.'"
 ---
 
 
-People don't seem to appreciate what modernity does its citizens. You
-get thrown around, from one concentrated institution to another, in a
-constant game of musical chairs. You are constantly interacting,
-moving, and need to adapt to the common language to survive. From
+People don't seem to appreciate what modernity does to its
+citizens. You get thrown around, from one concentrated institution to
+another, in a constant game of musical chairs. You are constantly
+interacting, moving, and need to adapt to the common language to
+survive. From
 [Gellner](https://muratk3n.github.io/thirdwave/en/2013/03/allegience-of-pion.html),
 
 >Men located within [modernity] cannot generally rest in the same
