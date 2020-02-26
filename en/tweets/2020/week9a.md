@@ -740,8 +740,8 @@ know-how, organization ability, culture beat them, not your funky
 hats. And now there are Jews from Moscow, St. Petersburg and guess
 what? They are Russians.
 
-"Netanyahu: Jews came back to their homeland and we are proud to
-maintain our culture. We were never assimilated"
+"Netanyahu: [Parap] Jews came back to their homeland and we are proud
+to maintain our culture. We were never assimilated"
 
 *2020-2-23 15:22:9*
 
