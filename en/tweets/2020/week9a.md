@@ -732,13 +732,13 @@ Israelis like US so much.
 
 ---
 
-You were, actually. With the exception of those Hassidic guys, or ones
-who truly isolated themselves, the rest were assimilated.. So what
-"came back" to the "homeland" were not Jews but Germans, Americans,
-etc. How the f--k would u beat Arabs otherwise? German, European
-know-how, organization ability, culture beat them, not your funky
-hats. And now there are Jews from Moscow, St. Petersburg and guess
-what? They are Russians.
+You were, actually. With the exception of maybe those Hassidic guys,
+or ones who truly isolated themselves, the rest were assimilated.. So
+what "came back" to the "homeland" were not Jews but Germans,
+Americans, etc. How the f--k would u beat Arabs otherwise? German,
+European know-how, organization ability, culture beat them, not your
+funky hats. And now there are Jews from Moscow, St. Petersburg and
+guess what? They are Russians.
 
 "Netanyahu: [Parap] Jews came back to their homeland and we are proud
 to maintain our culture. We were never assimilated"
