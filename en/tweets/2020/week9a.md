@@ -1,5 +1,14 @@
 # Tweets - Week 9a
 
+"@Nate_Cohn
+
+Can we just pause to note that somehow Bloomberg managed to be on the
+'Politburo not so bad' side of a debate with Bernie Sanders"
+
+*2020-2-26 10:26:17*
+
+---
+
 "@davidsirota
 
 The 'revolutionary politics of the 1960s' gave us Medicare, Medicaid
