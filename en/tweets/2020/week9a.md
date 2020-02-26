@@ -211,10 +211,9 @@ Corporatocracy 👊
 
 ---
 
-With current levels of camping food I can probably go on for two
-weeks. Have a fine knife and other good stuff. Hell I have portable
-solar panels. If elec shuts off can at least charge a phone (and code
-on it too).
+Got lota camping food I could for weeks wout grocs. Have a fine knife
+and other good stuff... Hell I have portable solar panels. If elec
+shuts off can at least charge a phone.
 
 *2020-2-25 18:34:51*
 
