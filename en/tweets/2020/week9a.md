@@ -1,5 +1,18 @@
 # Tweets - Week 9a
 
+"@davidsirota
+
+The 'revolutionary politics of the 1960s' gave us Medicare, Medicaid
+and civil rights laws.
+
+This is what Bernie was doing in the 1960s 👇🏻"
+
+<img width="340" src="https://pbs.twimg.com/media/ERrjoDkUYAIwnoE?format=jpg&name=small"/>
+
+*2020-2-26 10:22:32*
+
+---
+
 They are all trying to close - I respect that. Feeling the \#Bern.
 
 \#demdebate
