@@ -105,7 +105,7 @@ Natural Gas" -- theintercept.com
 
 ---
 
-Ideally I'd support all kinds of shit. But Israel made OSS all but
+Ideally I'd support all kinds of shit. But Israel made TSS all but
 impossible by turning the West Bank into swiss cheese by allowing
 settlers. They won the war took that land fine. But then they were
 indecisive abt what to do with it, Israeli citizens started slowly to
