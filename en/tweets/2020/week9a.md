@@ -106,18 +106,6 @@ two-state solution in Palestine then?"
 
 ---
 
-Aaagg I played in Batman
-
-*2020-2-25 19:14:5*
-
----
-
-Homelessness in Kal-ee-fornia? This is why.
-
-*2020-2-25 19:12:2*
-
----
-
 I'll drink to that
 
 [Link](https://pbs.twimg.com/media/ERohFWAXYAE32ui?format=jpg&name=small)
@@ -143,9 +131,8 @@ Burn 🔥
 
 Median sale price of houses in US below.
 
-Look at that meteoric rise. From 70s to now housing prices went up over tenfold!!
-
-Did wages increase by that much? No.
+Look at that meteoric rise. From 70s to now housing prices went up
+over tenfold!! Did wages increase by that much? No.
 
 New buildings as perc of population seems to be enough to satisfy
 population increase.. see calc below (assumed 10 ppl per building,
@@ -153,7 +140,7 @@ some could be one-family, some could be entire apartments).
 
 Can we say low rates caused speculation on apt prices, turned them
 into gambling tools for banks, and the rich. Ordinary people were
-screwed, now cant find housing?
+screwed, now cant find housing.
 
 <img width="340" src="https://pbs.twimg.com/media/ERo7nfHW4AAw725?format=png&name=small"/>
 
