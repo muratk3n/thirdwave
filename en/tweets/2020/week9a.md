@@ -324,7 +324,7 @@ to an actual death cult? It's called \#Shincheonji"
 
 ---
 
-Maybe better wording "right after a delay" and "more right on some
+Maybe better wording is "right after a delay" and "more right on some
 instruments than others". But at any given time sure, it may not be.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The biggest public fallacy is that the market is always right. The market is nearly always wrong. I can assure you of that.&quot;</p>&mdash; Jim Rogers (@JimRogerBlogs) <a href="https://twitter.com/JimRogerBlogs/status/1222564697733382145?ref_src=twsrc%5Etfw">January 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
