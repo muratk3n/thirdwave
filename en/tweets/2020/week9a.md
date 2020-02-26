@@ -304,13 +304,7 @@ Open borders my ass. We need even less travel than we have today.
 
 ---
 
-Death cults sounds like those post-forager, village-dwelling farmer
-religions where they sacrificied live humans, and worshipped ancestor
-bones and shit. F-ing weirdos.
-
-*2020-2-25 10:9:9*
-
----
+Some weird shit
 
 😶😶😶
 
