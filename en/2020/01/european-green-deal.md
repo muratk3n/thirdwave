@@ -1,4 +1,4 @@
-# The EU Green Deal
+# European Green Deal
 
 [Link](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1576150542719&uri=COM%3A2019%3A640%3AFIN)
 

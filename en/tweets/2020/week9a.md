@@ -1,5 +1,22 @@
 # Tweets - Week 9a
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/EV?src=hash&amp;ref_src=twsrc%5Etfw">#EV</a> performance can drop by 50% in cold weather. Learn more: <a href="https://t.co/Whye0RkM1P">https://t.co/Whye0RkM1P</a> <a href="https://twitter.com/hashtag/electricvehicles?src=hash&amp;ref_src=twsrc%5Etfw">#electricvehicles</a> <a href="https://t.co/58a5bO5qt8">pic.twitter.com/58a5bO5qt8</a></p>&mdash; Ballard Power (@BallardPwr) <a href="https://twitter.com/BallardPwr/status/1231913165144940545?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-2-27 13:25:52*
+
+---
+
+"@GuillaumeBerre
+
+William Grove invented the fuel cells in Cardiff in 1838. He was
+reincarnated today and tested the Pragma Hydrogen bike during the
+opening ceremony of the Welsh Hydrogen &Fuel Cell Association"
+
+*2020-2-27 13:6:5*
+
+---
+
 "@Nate_Cohn
 
 Can we just pause to note that somehow Bloomberg managed to be on the
@@ -262,7 +279,7 @@ hacked [says knows this from solid source but cannot disclose]
 
 ---
 
-Speedometer - Same Old Thing
+Speedometer - Same Old Thing \#music
 
 [Link](https://youtu.be/zrg3hkMae28)
 
