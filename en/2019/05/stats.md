@@ -518,10 +518,22 @@ start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['BAMLH0A2HYBEY']
 df = data.DataReader(cols, 'fred', start, end)
+print (df.tail(6))
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('junkbond.png')
+```
+
+```text
+            BAMLH0A2HYBEY
+DATE                     
+2020-02-20           4.99
+2020-02-21           4.98
+2020-02-24           5.30
+2020-02-25           5.42
+2020-02-26           5.51
+2020-02-27           5.86
 ```
 
 ![](junkbond.png)
