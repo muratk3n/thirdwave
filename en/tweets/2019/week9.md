@@ -309,7 +309,8 @@ Yeah you did ...
 
 So I have a friend, he thinks u did the announce, then grabbed it.
 
-"When Satoshi announced the first release of the software, I grabbed it right away" - Finney
+"When Satoshi announced the first release of the software, I grabbed
+it right away" - Finney
 
 https://twitter.com/joeydiblasi/status/1100335635330752512
 

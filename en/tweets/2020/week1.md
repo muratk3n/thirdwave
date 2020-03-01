@@ -450,46 +450,6 @@ increase with financial repression"
 
 ---
 
-Sounds pretty bad.
-
-Overall how bad? I found this API site for financial data.
-For Apple the data URL would be
-
-https://financialmodelingprep.com/api/v3
-/financials/income-statement/AAPL?period=quarter
-
-The output is text based, a so-called JSON format. Useful stuff... For
-TSLA YoY revenue
-
-```python
-from urllib.request import urlopen
-import json, pandas as pd
-html = urlopen('https://financialmodelingprep.com/api/v3/financials/income-statement/TSLA?period=quarter')
-json_res = json.loads(html.read().decode('utf-8'))
-res = []
-for x in json_res['financials']:
-     res.append((x['date'],float(x['Revenue'])))
-df = pd.DataFrame(res)
-df.columns=['Date','Rev']
-df['revyoy'] = (df['Rev'] - df['Rev'].shift(-4)) / df['Rev'].shift(-4) * 100.0
-print (df.head(1))
-```
-
-```text
-         Date    ...       revyoy
-0  2019-09-30    ...    -7.634818
-```
-
-7% revenue decline 19Q3 YoY. Not good.
-
-"[TSLA] U.S. revenue was down forty percent in Q3 y/y."
-
-[Link](https://mobile.twitter.com/CGrantWSJ/status/1212780872652460034)
-
-*2020-1-3 8:12:5*
-
----
-
 Soleimani was Iran's go-to person, whenever they needed something done
 the mullahs would send in this guy. Like triggering an insurgency in
 Iraq against US.
