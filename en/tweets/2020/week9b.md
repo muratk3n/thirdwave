@@ -107,8 +107,8 @@ from yahoofinancials import YahooFinancials
 ticker = 'AAPL'
 yahoo_financials = YahooFinancials(ticker)
 all_statement_data_qt =  yahoo_financials.get_financial_stmts('quarterly', ['income', 'cash', 'balance'])
-revenu = all_statement_data_qt['incomeStatementHistoryQuarterly']['AAPL'][0]['2019-12-28']['totalRevenue']
-revenu / 1e9
+rev = all_statement_data_qt['incomeStatementHistoryQuarterly']['AAPL'][0]['2019-12-28']['totalRevenue']
+rev / 1e9
 ```
 
 ```text
