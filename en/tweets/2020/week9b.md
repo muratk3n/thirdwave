@@ -83,8 +83,8 @@ govt has responded to >3 weeks of requests"
 
 When shit is overvalued something always "happens".
 
-"Aw but if it wasn't for (wuflu, trade war, politics, insert your
-excuse), markets would have been fine"
+"Aw but if [wuflu, trade war, politics, insert your excuse] did not
+happen, markets would have been fine"
 
 *2020-2-29 8:11:5*
 
