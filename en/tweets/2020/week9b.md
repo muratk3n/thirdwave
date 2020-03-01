@@ -1042,8 +1042,8 @@ long time in US.
 
 Because he was born in TR, I could try to claim him as one of my own,
 my tigga, a homeboy.. But that would be a mistake, he didn't spend
-much time there. He a Jew? Where was he at when he grew up?  In Italy
-- hence the accent. That's the answer: he's a guinea. Real guinea, not
+much time there. He a Jew? Where was he at when he grew up?  In Italy,
+hence the accent. That's the answer: he's a guinea. Real guinea, not
 like ones in US who are Americans but try to cling to a faux identity
 because of their moronic parents so they wildly gesticulate trying to
 look a certain way but fail. No, this guy is a legit guinea. Problem
