@@ -100,7 +100,7 @@ initial claims, junk bonds say not imminent.
 
 ---
 
-Another Py package for company financial data, `yahoofinancials`.
+Another Py package for company financial data, `yahoofinancials`
 
 ```python
 from yahoofinancials import YahooFinancials
@@ -141,8 +141,9 @@ protect itself from this kind of virus"
 
 ---
 
-Coronav update - 6K more in 3 days, now it is in Latin America, Europe
-got worse. Iran is *slammed*. Boy did the mullahs get it.
+Coronav update - 6K more in 3 days, total >85K, now it is in Latin
+America, Europe got worse. Iran is *slammed*. Boy did the mullahs get
+it.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
@@ -156,7 +157,7 @@ got worse. Iran is *slammed*. Boy did the mullahs get it.
 
 ---
 
-Go Pope. I like this guinea (he is a Jesuit, they are fine, Js are a
+Go Pope. I like this guinea (he is a Jesuit, they are fine, J are a
 Renaissance institution).
 
 "@fuelcellsworks
