@@ -1,10 +1,5 @@
 # Tweets - Log
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Coronavirus epidemy in Iran has past the crisis level. The country is imploding - law and order to disappear in the next days. A number of officials already died and mass infection among hospital staff and police forces reported.</p>&mdash; Ali (@aliostad) <a href="https://twitter.com/aliostad/status/1233668766124400640?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-1 7:38:1*
-
----
 
 @kai_newkirk
 
@@ -77,6 +72,12 @@ NYCDOH labs, using kits locally developed. He claims nobody in federal
 govt has responded to >3 weeks of requests"
 
 *2020-2-29 12:19:34*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Coronavirus epidemy in Iran has past the crisis level. The country is imploding - law and order to disappear in the next days. A number of officials already died and mass infection among hospital staff and police forces reported.</p>&mdash; Ali (@aliostad) <a href="https://twitter.com/aliostad/status/1233668766124400640?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-2-29 12:17:4*
 
 ---
 
