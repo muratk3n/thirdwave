@@ -930,7 +930,7 @@ The third of Novambah - a day of celebration, hopefully
   <tr >
     <td>Puerto Rico</td>
 
-    <td'></td><td>Primary</td>
+    <td></td><td>Primary</td>
   </tr>
   <tr>
     <td valign='top'>July 13 - 16</td><td valign='top'
@@ -950,9 +950,9 @@ The third of Novambah - a day of celebration, hopefully
     <td valign='top'>November 3</td><td valign='top'  colspan='3'>2020 Presidential Election
   </td>
   </tr>
-
   
 </table>
+
 
 
 *2020-2-27 11:13:7*
