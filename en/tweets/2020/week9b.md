@@ -367,7 +367,9 @@ crimes... will be a moment for the ages"
 "@divitiaenow
 
 Helicopter Money begins. Another interesting chapter in evolution of
-monetary policy"
+monetary policy
+
+'Hong Kong to give cash gift of $1,200 to residents'"
 
 [Link](https://twitter.com/divitiaenow/status/1233006317113049091)
 
@@ -421,18 +423,6 @@ good in other ST states as well Bernie can catapult his way towards
 the big prize. California would be a big push.
 
 *2020-2-27 19:29:43*
-
----
-
-Zustandssumme
-
-*2020-2-27 19:2:9*
-
----
-
-Verursachegeratenheit 
-
-*2020-2-27 19:1:3*
 
 ---
 
