@@ -1,27 +1,6 @@
 # Tweets - Log
 
 
-@kai_newkirk
-
-According to South Carolina exit polls, 
-@BernieSanders won:
-
-- 40% of Black voters under 30, beating Biden
-
-- 34% of voters under 45, beating Biden
-
-- 31% of working class whites, beating Biden
-
-*2020-3-1 7:36:43*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/JoeBiden?ref_src=twsrc%5Etfw">@JoeBiden</a> for a well-earned victory. But <a href="https://twitter.com/Robt_Gibbs?ref_src=twsrc%5Etfw">@Robt_Gibbs</a> <a href="https://twitter.com/MSNBC?ref_src=twsrc%5Etfw">@MSNBC</a> makes crucial point: from now on this is a national election. The person who consistently leads in national polls + key March 3 states is <a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a>. The person who beats Trump in most polls: <a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a></p>&mdash; Bill de Blasio (@BilldeBlasio) <a href="https://twitter.com/BilldeBlasio/status/1233919054223683585?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-1 7:34:19*
-
----
-
 @lil_morgy
 
 i saw the best minds of my generation destroyed by pretending to be passionate about web development as a means to secure healthcare
