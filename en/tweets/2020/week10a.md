@@ -623,6 +623,8 @@ Jew?) 🙄🙄🙄 C'mon guy. This is getting ridiculous.
 
 Culturally speaking though, he was German.
 
+*2020-3-2 15:3:3*
+
 ---
 
 Hah
