@@ -113,16 +113,6 @@ No East Coast, no West Coast - it's Middle East Coast hip-hop baby
 
 ---
 
-People are like their environment. So parents, children are indirectly
-alike *because of the environment*. The calculus changes if A is born
-somewhere, children B is born somewhere else.
-
-"But aren't most people like their parents?"
-
-*2020-3-4 14:12:8*
-
----
-
 I didn't have immigrant parents, but now many immig families and I've
 been an expat, a foreigner for long periods of time in foreign lands,
 though under very favorable conditions, I can see the life is not for
