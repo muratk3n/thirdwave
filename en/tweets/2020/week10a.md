@@ -696,8 +696,7 @@ of Shincheonji Church, with manslaughter"
 ---
 
 What was that saying? FB is for the people you used to know, TWTR is
-ppl you would like to know. No wonder comm is better in TWTR land
-albeit itself mired in bouts of trolling.
+ppl you would like to know? Hence better convo on TWTR...
 
 "@RaoulGMI
 
