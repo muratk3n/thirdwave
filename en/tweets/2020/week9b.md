@@ -159,23 +159,6 @@ insisted it should be kept open as a 'house for cure'"
 
 ---
 
-Libertard, goldcucks are sad.
-
-This thing will never be the foundation of a new world currency
-system. Neither is Bitcoin BTW. 
-
-"@GreekFire23
-
-Gold getting crushed! It’s not a safe haven play, never was. It’s a
-negative real rates play until there is panic and then it gets sold
-too like in 2008. The only safe haven is treasuries, which is why
-advisor hacks on CNBC obsessing about its low yield always sounded
-ridiculous"
-
-*2020-2-28 19:58:1*
-
----
-
 <iframe width="340"  src="https://www.youtube.com/embed/1Ne5Y1dzJWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *2020-2-28 19:50:5*
@@ -195,12 +178,6 @@ depressing. Everyone's running on health care, but no one will admit
 that Obamacare was a \*disaster.\*"
 
 *2020-2-28 19:3:22*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thoughts and prayers to GDX/NUGT holders.</p>&mdash; Jin SEO (@JTSEO9) <a href="https://twitter.com/JTSEO9/status/1233407534888820736?ref_src=twsrc%5Etfw">February 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-28 18:42:51*
 
 ---
 
