@@ -105,7 +105,8 @@ No East Coast, no West Coast - it's Middle East Coast hip-hop baby
 
 🤓🤓🤓🤓🤓
 
-"We will now see that the Primal-dual algorithm is, essentially, a disguised version of Dijkstra's hortest path algorithm"
+"We will now see that the Primal-dual algorithm is, essentially, a
+disguised version of Dijkstra's shortest path algorithm"
 
 [PDF](http://home.cse.ust.hk/~golin/COMP572/Notes/Primal_Dual_Examples.pdf)
 
@@ -129,7 +130,7 @@ necessarily.. Kids can feel that and want to help their folks, act a
 certain way but they will always be different, local. If that sits
 badly parents shouldn't have left their shithole country.
 
-"Why would immigrant parents expect[ their kids act like them even tho
+"Why would immigrant parents expect their kids act like them even tho
 the kids are now local to their country?"
 
 *2020-3-4 14:4:5*
