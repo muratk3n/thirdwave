@@ -3,7 +3,12 @@
 ```python
 import pandas as pd
 
-df1 = pd.read_csv('corona.csv',sep='\t')
+#df1 = pd.read_csv('corona.csv',sep='\t')
+
+df = pd.read_csv('corona.csv',sep=r'\t',header=None)
+df1 = df[[0,1,3,5]]
+df1.columns = ['Country','Confirmed','Deaths','Recovered']
+
 d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
 df2 = pd.read_csv('alpha3country.csv',sep=',', skipinitialspace=True)
 d2 = df2[['Country','Alpha-3 code']].set_index('Country').to_dict()
@@ -52,14 +57,14 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 85273.0
+Total Confirmed 96151.0
 
-Updated: 2020-02-29 21:27:46.926808
+Updated: 2020-03-05 19:35:20.194924
 ```
 
 [corona.csv](corona.csv)
 
-[Reference - Wiki](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
+[Data](https://www.worldometers.info/coronavirus/)
 
 
 
