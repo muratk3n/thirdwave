@@ -3,8 +3,6 @@
 ```python
 import pandas as pd
 
-#df1 = pd.read_csv('corona.csv',sep='\t')
-
 df = pd.read_csv('corona.csv',sep=r'\t',header=None)
 df1 = df[[0,1,3,5]]
 df1.columns = ['Country','Confirmed','Deaths','Recovered']
@@ -57,9 +55,9 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 96151.0
+Total Confirmed 96266.0
 
-Updated: 2020-03-05 19:35:20.194924
+Updated: 2020-03-05 22:07:22.003782
 ```
 
 [corona.csv](corona.csv)
