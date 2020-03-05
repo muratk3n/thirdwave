@@ -400,7 +400,7 @@ cars'"
 
 "@joshua_landis
 
-"... Turkey is on the brink of disaster in Syria" - by Simon Tisdall
+'... Turkey is on the brink of disaster in Syria' - by Simon Tisdall"
 
 [Link](https://mobile.twitter.com/joshua_landis/status/1234608216463507457)
 
