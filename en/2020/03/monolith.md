@@ -1,6 +1,6 @@
 # Are Black People a Monolith?
 
-It's okay if most blacks act as a monolith politically.  See from 
+It's okay if most blacks act as a monolith politically.  See [article](https://www.theatlantic.com/ideas/archive/2019/06/why-black-voters-will-vote-biden/592573)
 
 "There are good reasons why, even in Democratic presidential primary
 campaigns, large majorities of black voters do end up supporting the
@@ -13,5 +13,4 @@ be disenfranchised and oppressed. Black Americans have been made
 acutely aware that their individual fates are linked to the wellbeing
 of the whole group"
 
-[Link](https://www.theatlantic.com/ideas/archive/2019/06/why-black-voters-will-vote-biden/592573/)
 
