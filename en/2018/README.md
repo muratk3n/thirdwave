@@ -206,8 +206,6 @@
 
 [Wax On](10/wax-on.md)
 
-[ZH2](10/zh2.md)
-
 [Drinking Water from Air](11/drinking-water-from-air.md)
 
 [Going Bi](11/going-bi_24.md)

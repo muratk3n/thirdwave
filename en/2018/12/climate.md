@@ -10,8 +10,6 @@ What Can I Do?
 
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.md)
 
-[ZH2](../../2018/10/zh2.md)
-
 [Wax On](../../2018/10/wax-on.md)
 
 [Element One](../../2018/10/element-one.md)

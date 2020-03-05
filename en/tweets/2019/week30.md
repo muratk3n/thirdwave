@@ -510,20 +510,6 @@ SF is fukked.
 
 ---
 
-He also says "[their] fate is sealed". 
-
-"It appears that former GM Vice Chairman Bob Lutz has done a
-180-degree-turn on Tesla. Just a month after praising the Model 3’s
-improving quality and the company’s leadership, the former GM
-executive changed gears, declaring Tesla’s impending doom over what he
-argued was the company’s “hopeless” situation".
-
-[Link](https://www.teslarati.com/elon-musk-is-a-genius-but-tesla-is-doomed-says-bob-lutz)
-
-*2019-7-22 9:52:33*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tesla fast charge: 15 min/car gives 4 cars/h. 4 x 24 = 96 cars/day. 15 min of charge gives around 200 km range. Hydrogen: One dispenser, 4 min/car gives 15 cars/h. 15 x 24 = 360 cars / day. 4 min of charge gives around 600 km range. FCEV is around 11 times more efficient than BEV</p>&mdash; Carl Koinberg Henrikson (@CarlKoinberg) <a href="https://twitter.com/CarlKoinberg/status/1152845277147074560?ref_src=twsrc%5Etfw">July 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-7-22 9:47:33*
