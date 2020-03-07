@@ -5,10 +5,10 @@ our faux issue! That issue is the only reason we are here! That's how
 we eat! It needs to stay in its current form forever! We need this
 shit!  Do you know what you are dealing with!"
 
-It's so sad. A politician being reduced to this. The inept Dem
-centrism lead to this, both sides needing a dividing issue so bad,
-they created this mess, and now they are shocked it can actually take
-a life of its own. Guns are the same way.
+It's so sad. A politician being reduced to this. Inept Dem centrism
+lead all here, both sides needing a dividing issue so bad, they
+created this mess, and now they are shocked it can actually take a
+life of its own. Same with guns.
 
 *2020-3-7 16:47:59*
 
