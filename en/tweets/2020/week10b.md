@@ -19,7 +19,7 @@ leg for those [covid] tests, who will pay for them".
 
 "Mexico will pay for them". 😂😂😂😂
 
-Europeans having a gas at our expense US pols..
+Europeans having a gas at your expense US pols..
 
 
 
