@@ -33,7 +33,7 @@ demand. Such demand will create inefficiencies in the market if such
 good is marketable.
 
 I am not talking abt social services, but stuff that is already part
-of the market econ. Like a ttoilet seat maker. There is crisis, gov
+of the market econ. Take a toilet seat maker. There is crisis, gov
 steps in starts buying toilet seats... But it can pay 1000$ for f-ing
 toilet seat! It happened at the Pentagon before!
 
