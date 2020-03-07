@@ -43,7 +43,7 @@ toilet seat! It happened at the Pentagon before!
 
 "A draft interim report from Ethiopian crash investigators
 ... concludes the March 2019 crash of a Boeing Co 737 MAX was caused
-by the plane's design, two people briefed on the matter said Friday"
+by the plane's design"
 
 *2020-3-7 13:47:11*
 
