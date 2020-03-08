@@ -552,7 +552,7 @@ from pandas_datareader import data
 today = datetime.datetime.now()
 start=datetime.datetime(2000, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-cols = ['VIXCLS']
+cols = ['VXOCLS']
 df = data.DataReader(cols, 'fred', start, end)
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -562,13 +562,13 @@ plt.savefig('vix.png')
 ```
 
 ```text
-            VIXCLS
+            VXOCLS
 DATE              
-2020-02-28   40.11
-2020-03-02   33.42
-2020-03-03   36.82
-2020-03-04   31.99
-2020-03-05   39.62
+2020-02-28   46.60
+2020-03-02   33.14
+2020-03-03   40.13
+2020-03-04   32.29
+2020-03-05   42.33
 ```
 
 ![](vix.png)
