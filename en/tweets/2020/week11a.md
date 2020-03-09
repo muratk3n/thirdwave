@@ -562,7 +562,7 @@ renewable energy"
 ---
 
 Long-distance shipping of hydrogen will not require wildly new,
-untested tech. We already ship liquidied natural gas (LNG) at minus
+untested tech. We already ship liquified natural gas (LNG) at minus
 160 Celcius. Go down 90 more that gets you H2 storage.
 
 Then of course there is ammonia, storage at room temparature converted
