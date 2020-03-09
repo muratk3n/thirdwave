@@ -547,13 +547,12 @@ DATE
 
 ```python
 import pandas as pd, datetime
-from pandas_datareader import data
+import pandas_datareader.data as web
 
 today = datetime.datetime.now()
 start=datetime.datetime(2000, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-cols = ['VXOCLS']
-df = data.DataReader(cols, 'fred', start, end)
+df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
@@ -562,17 +561,16 @@ plt.savefig('vix.png')
 ```
 
 ```text
-            VXOCLS
-DATE              
-2020-02-28   46.60
-2020-03-02   33.14
-2020-03-03   40.13
-2020-03-04   32.29
-2020-03-05   42.33
+Date
+2020-03-02    33.419998
+2020-03-03    36.820000
+2020-03-04    31.990000
+2020-03-05    39.619999
+2020-03-06    41.939999
+Name: Adj Close, dtype: float64
 ```
 
 ![](vix.png)
-
 
 
 
