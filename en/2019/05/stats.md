@@ -491,6 +491,8 @@ plt.savefig('gdp-ism.png')
 # SP 500 Price to Sales Ratio
 
 ```python
+import datetime, quandl
+today = datetime.datetime.now()
 start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = quandl.get("MULTPL/SP500_PSR_QUARTER-S-P-500-Price-to-Sales-Ratio-by-Quarter", 
@@ -498,11 +500,22 @@ df = quandl.get("MULTPL/SP500_PSR_QUARTER-S-P-500-Price-to-Sales-Ratio-by-Quarte
                 start_date=start.strftime('%Y-%m-%d'),
                 end_date=end.strftime('%Y-%m-%d'),
                 authtoken=open(".quandl").read())
+print (df.tail(5))
 
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('price-sales.png')
+```
+
+```text
+            Value
+Date             
+2019-09-30   2.14
+2019-11-01   2.25
+2019-12-31   2.32
+2020-01-31   2.32
+2020-02-28   2.12
 ```
 
 ![](price-sales.png)
