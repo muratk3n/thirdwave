@@ -218,7 +218,7 @@ Here is the idea of interaction for most. Bunch of people standing
 around, they come together, and everyone turns to the person to their
 right, puts a finger up the ass. Everyone else does the same. Now you
 formed a circle, and the circle is __connected__. Then they turn this
-circle and start sing Kumbaya... This is the ideal for most people.
+circle and start singing Kumbaya... This is the ideal for most people.
 
 *2020-3-9 9:55:58*
 
