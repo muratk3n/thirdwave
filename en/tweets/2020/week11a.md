@@ -353,7 +353,7 @@ Content creators know that I'm a free rider, will  not pay for ur shit. Go behin
 
 HFC tractor from Netherlands
 
-[Link](https://mobile.twitter.com/Carlholthausen/status/1236709267576676354)
+[Link](https://mobile.twitter.com/Carlholthausen/status/1236204628737429504)
 
 *2020-3-8 21:6:8*
 
