@@ -1,5 +1,9 @@
+# Week 19
 
-His opening move was not bad; Choosing Charlotesville, race issues, he made a play for Obama fans among Dems (they say "the base" still likes Bam), at the same time positioned himself as the most un-Trump bcz those events were seen as vile
+His opening move was not bad; Choosing Charlotesville, race issues, he
+made a play for Obama fans among Dems (they say "the base" still likes
+Bam), at the same time positioned himself as the most un-Trump bcz
+those events were seen as vile
 
 "Biden is a strong candidate - Tracey"
 
@@ -7,14 +11,10 @@ His opening move was not bad; Choosing Charlotesville, race issues, he made a pl
 
 @VonkLevi
 
-"This is nothing new, but - as someone doing a PhD at an elite institution - I cannot emphasize enough how much "intelligence" is just repeated exposure to particular forms of knowledge and the opportunity to perform this knowledge in publ"
-
----
-
-There is some thinking to be done on whether break-up of a platform
-company would be beneficial or not, but my brain refuses to go
-there. It's like it's in "go f--k yourself" mode, meaning the entire
-sector.
+"This is nothing new, but - as someone doing a PhD at an elite
+institution - I cannot emphasize enough how much "intelligence" is
+just repeated exposure to particular forms of knowledge and the
+opportunity to perform this knowledge in publ"
 
 ---
 
