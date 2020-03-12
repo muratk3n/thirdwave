@@ -520,6 +520,13 @@ evidence-driven while sell-offs are all about psychology"
 
 ---
 
+F..ing Guinea. They f...ed it up for everyone again. The Roman Empire
+wasn't bad enough? Here have some corona.
+
+*2020-3-10 19:29:4*
+
+---
+
 "@JasmineLBrown
 
 The Atlantic: "Coronavirus: The Case for Canceling Everything. Social
@@ -612,9 +619,3 @@ Great name - Sunfire
 
 ---
 
-F..ing Guinea. They f...ed it up for everyone again. The Roman Empire
-wasn't bad enough? Here have some corona.
-
-*2020-3-10 10:9:1*
-
----
