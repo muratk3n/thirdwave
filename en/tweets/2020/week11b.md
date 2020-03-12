@@ -198,12 +198,12 @@ reliable voice?
 
 ---
 
-People are locally minded - and that's fine. There has been constant
-intnl news abt cov19, there were cases all around Tiggerland but
-nothing in Tiggerland. Clearly the inbred officials were hiding it. No
-peep from people tho.. It wasnt until gov announced the 1st case, then
-tigger started talking about it, see ppl at the markets etc. It's
-important to realize this - people __rely__ on governance,
+People are so locally minded (and that's fine). There has been
+constant intnl news abt cov19, there were cases all around Tiggerland
+but nothing in Tiggerland. Clearly the inbred officials were hiding
+it. No peep from people tho.. It wasnt until gov announced the 1st
+case, then tigger started talking about it, see ppl at the markets
+etc. It's important to realize this - people __rely__ on governance,
 nationally. Especially at times of despair.
 
 *2020-3-12 10:4:25*
