@@ -408,7 +408,7 @@ put off blacks.
 ---
 
 The left needs to drop its need for orgasm from people agreeing with
-them (also the turning-off they get from disagreement). "Agreement" on
+them (also the turn-off they get from disagreement). "Agreement" on
 issues might not equate to electoral success. Watch hot button issues,
 even create them, get elected. Then implement issues and be judged on
 the success of them.
