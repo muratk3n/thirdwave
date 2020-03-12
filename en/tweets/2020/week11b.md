@@ -190,9 +190,9 @@ imbued with all this emergency capab, tax dollars, etc.
 ---
 
 One might think "but wouldnt info spread, like peer-to-peer dude, and
-everyone would know and act?". Nope. Expertise matters. A Whatsapp
-group, the random tuber jumping up and down has a voice, but is it a
-reliable voice?
+everyone would know and act?". Nope. Expertise, gov matters. A
+Whatsapp group, the random tuber jumping up and down has a voice, but
+is it a reliable voice?
 
 *2020-3-12 10:7:51*
 
