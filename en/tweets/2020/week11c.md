@@ -71,9 +71,9 @@ Phantogram - You Don’t Get Me High Anymore \#music
 
 ---
 
-@tweetstar10
+'@tweetstar10
 
-it's not the bottom until Warren Buffet wrangles a big bank into a shit OTC deal
+it's not the bottom until Warren Buffet wrangles a big bank into a shit OTC deal"
 
 *2020-3-13 14:45:38*
 
@@ -156,7 +156,7 @@ gone"
 ---
 
 Reminder: none of BD control is done through Deep Shit, sorry Deep
-Learning, "neural" archs which ppl assume are synanamous with "AI"
+Learning, "neural" archs which ppl assume are synonymous with "AI"
 these days.
 
 *2020-3-12 20:35:3*
