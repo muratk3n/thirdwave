@@ -63,11 +63,11 @@ Updated: 2020-03-13 15:44:05.190074
 Death Rate
 
 ```python
-5082. / (70719+5082.)
+5082. / (70719+5082.) * 100.0
 ```
 
 ```text
-Out[1]: 0.06704397039616891
+Out[1]: 6.704397039616891
 ```
 
 [corona.csv](corona.csv)
@@ -75,5 +75,4 @@ Out[1]: 0.06704397039616891
 [alpha3country.csv](alpha3country.csv)
 
 [Data](https://www.worldometers.info/coronavirus/)
-
 
