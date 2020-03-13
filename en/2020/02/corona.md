@@ -55,34 +55,24 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 113008.0
+Total Confirmed 137471.0
 
-Updated: 2020-03-09 21:17:07.898970
+Updated: 2020-03-13 15:44:05.190074
 ```
-
-[corona.csv](corona.csv)
-
-[Data](https://www.worldometers.info/coronavirusp/)
 
 Death Rate
 
 ```python
-4000. / (63000+4000.)
+5082. / (70719+5082.)
 ```
 
 ```text
-Out[1]: 0.05970149253731343
+Out[1]: 0.06704397039616891
 ```
 
+[corona.csv](corona.csv)
 
+[alpha3country.csv](alpha3country.csv)
 
-
-
-
-
-
-
-
-
-
+[Data](https://www.worldometers.info/coronavirus/)
 
