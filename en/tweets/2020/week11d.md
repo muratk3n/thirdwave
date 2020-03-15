@@ -258,7 +258,7 @@ they do not want as Biden's VP pick
 ---
 
 "Nation's Nerds Wake Up In Utopia Where Everyone Stays Inside, Sports
-Are Canceled, Social Interac...  babylonbee.com"
+Are Canceled, Social Interaction Forbidden"  -- babylonbee.com
 
 *2020-3-14 16:34:59*
 
