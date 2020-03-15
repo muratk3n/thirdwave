@@ -1,6 +1,6 @@
 # Tweets - Week 11d
 
-Corona update 24K in 2 days, death rate 7.3%
+Corona update - 24K more in 2 days, death rate 7.3%
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
