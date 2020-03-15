@@ -256,25 +256,23 @@ DATE
 import quandl, os, datetime
 from datetime import timedelta
 
-bdays = int(180)
 today = datetime.datetime.now()
-end_d=datetime.datetime(today.year, today.month, today.day)
-start_d = end_d - timedelta(days=bdays)
+start=datetime.datetime(1996, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
 today = datetime.datetime.now()
 df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
                 returns="pandas",
-                start_date=start_d.strftime('%Y-%m-%d'),
+                start_date=start.strftime('%Y-%m-%d'),
                 end_date=today.strftime('%Y-%m-%d'),
                 authtoken=open(".quandl").read())
 
-print (df['PMI'].tail(8))
+print (df['PMI'].tail(4))
 df['PMI'].plot()
 plt.savefig('pmi.png')
 ```
 
 ```text
 Date
-2019-10-01    48.5
 2019-11-01    48.1
 2019-12-01    47.8
 2020-01-01    50.9
@@ -584,26 +582,3 @@ Name: Adj Close, dtype: float64
 ```
 
 ![](vix.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

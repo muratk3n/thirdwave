@@ -14,7 +14,7 @@ Pic has him shaking hands with DJT
 
 Brazilian President Jair Bolsonaro tests positive for coronavirus"
 
-[Link](https://mobile.twitter.com/businessinsider/status/1238466016289619969)
+[Link](https://image.cnbcfm.com/api/v1/image/106441784-15841049150872020-03-12t190431z_2058224813_rc2jif9j6448_rtrmadp_3_usa-trump.jpg?v=1584105008&w=630&h=354)
 
 *2020-3-13 17:29:7*
 
