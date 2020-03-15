@@ -242,13 +242,6 @@ and was labeled a "populist".
 
 ---
 
-These fuckers don't just go around a person - they destroy him. No
-wonder left stalled for such a long time inside the "Democratic" party. 
-
-*2020-3-14 16:57:9*
-
----
-
 Remember John Edwards.? A hand brushed him aside at the right moment
 so swiftly I couldnt help but be amazed. They cleared the path for
 brother Bam.
