@@ -1,133 +1,157 @@
-China	80,815	+22	3,177	+8	64,152	13,486	4,020	56.1
-Italy	15,113		1,016		1,258	12,839	1,153	250.0
-Iran	11,364	+1,289	514	+85	3,529	7,321		135.3
-South Korea	7,979	+110	71	+5	510	7,398	93	155.6
-Spain	3,958	+812	91	+5	189	3,678	190	84.7
-Germany	3,117	+372	7	+1	46	3,064	9	37.2
-France	2,876		61		12	2,803	129	44.1
-United States	1,832	+135	41		31	1,760	10	5.5
-Switzerland	1,135	+267	7		4	1,124		131.1
-Norway	879	+79	1		1	877		162.1
-Denmark	785	+111			1	784	2	135.5
-Sweden	733	+46	1		1	731	2	72.6
-Japan	701	+10	19		118	564	29	5.5
-Diamond Princess	696		7		325	364	32	
-Netherlands	614		5		2	607	1	35.8
-United Kingdom	609	+19	10		18	581	20	9.0
-Belgium	556	+157	3		1	552	2	48.0
-Austria	428	+67	1		6	421	1	47.5
-Qatar	262					262		90.9
-Bahrain	210	+13			44	166	1	123.4
-Australia	199	+43	3		26	170	1	7.8
-Singapore	187				96	91	12	32.0
-Canada	158	+16	1		11	146	1	4.2
-Malaysia	158				32	126	3	4.9
-Finland	155	+46			1	154		28.0
-Hong Kong	132	+1	4	+1	77	51	4	17.6
-Israel	126	+17			4	122	2	14.6
-Greece	117		1		2	114	2	11.2
-Czechia	117	+1				117	2	10.9
-Iceland	117					117		
-Portugal	112	+34			1	111	1	11.0
-Slovenia	96					96		46.2
-Brazil	85	+8				85	2	0.4
-UAE	85				20	65	2	8.6
-Iraq	83		8		24	51		2.1
-India	81	+7	1		4	76		0.1
-Egypt	80		2		27	51		0.8
-Kuwait	80				5	75	4	18.7
-San Marino	77	+5	5			72	3	
-Lebanon	77	+9	3		1	73	3	11.3
-Thailand	75	+5	1		35	39	1	1.1
-Ireland	70		1			69	6	14.2
-Romania	70	+11			7	63	1	3.6
-Indonesia	69	+35	4	+3	5	60		0.3
-Saudi Arabia	62	+17			1	61		1.8
-Poland	61	+10	1			60	3	1.6
-Philippines	52		5		2	45	1	0.5
-Taiwan	50	+1	1		20	29		2.1
-Vietnam	44				16	28		0.5
-Estonia	41	+14				41		30.9
-Brunei	37	+12				37		
-Palestine	35	+4				35		6.9
-Russia	34				3	31		0.2
-Albania	33	+10	1			32		11.5
-Chile	33					33		1.7
-Argentina	31		1			30	1	0.7
-Croatia	31	+4			1	30		7.6
-Serbia	31	+7				31	1	3.5
-Panama	27	+13	1			26		6.3
-Algeria	26		2		10	14		0.6
-Luxembourg	26					26	1	
-Georgia	25					25	1	6.3
-Bulgaria	23		1			22		3.3
-Costa Rica	23					23	1	4.5
-Pakistan	22	+1			2	20		0.1
-Peru	22					22		0.7
-Belarus	21				3	18		2.2
-Slovakia	21					21		3.8
-Ecuador	19	+2				19	1	1.1
-Oman	19	+1			9	10		3.7
-Hungary	19	+3				19		2.0
-Latvia	17	+1			1	16		9.0
-South Africa	16					16		0.3
-Azerbaijan	15		1		3	11		1.5
-Cyprus	14	+4				14		11.6
-Tunisia	13					13	2	1.1
-Mexico	12				4	8	1	0.1
-Malta	12	+3			1	11		
-Bosnia and Herzegovina	11					11		3.4
+China	80,849	+25	3,199	+10	66,931	10,719	3,226	56.2
+Italy	21,157		1,441		1,966	17,750	1,518	349.9
+Iran	13,938	+1,209	724	+113	4,590	8,624		165.9
+South Korea	8,162	+76	75	+3	834	7,253	59	159.2
+Spain	7,753	+1,362	291	+95	517	6,945	272	165.8
+Germany	5,426	+827	11	+2	46	5,369	2	64.8
+France	4,499	+30	91		12	4,396	300	68.9
+United States	3,083	+140	60	+3	56	2,967	10	9.3
+Switzerland	2,217	+842	14	+1	4	2,199		256.2
+Norway	1,206	+97	3		1	1,202	27	222.5
+United Kingdom	1,140		21		18	1,101	20	16.8
+Netherlands	1,135	+176	20	+8	2	1,113	45	66.2
+Sweden	1,024	+63	2		1	1,021	2	101.4
+Belgium	886	+197	4		1	881	33	76.4
+Denmark	864	+28	2	+1	1	861	2	149.2
+Austria	860	+205	1		6	853	1	95.5
+Japan	814	+10	24	+2	144	646	35	6.4
+Diamond Princess	696		7		456	233	15	
+Malaysia	428	+190			42	386	9	13.2
+Qatar	337				4	333		117.0
+Australia	300	+52	5	+2	27	268	1	11.8
+Canada	255	+3	1		11	243	1	6.8
+Portugal	245	+76			2	243	9	24.0
+Finland	244	+19			10	234		44.0
+Czechia	231	+42				231	2	21.6
+Greece	228		4	+1	8	216	5	21.9
+Singapore	226	+14			105	121	11	38.6
+Slovenia	219	+38	1			218	3	105.3
+Bahrain	214	+2			60	154	2	125.8
+Israel	200	+7			4	196	2	23.1
+Iceland	161					161	1	
+Hong Kong	145	+3	4		81	60	4	19.3
+Philippines	140	+29	11	+3	2	127	1	1.3
+Romania	139	+16			9	130	1	7.2
+Estonia	135	+20			1	134		101.8
+Ireland	129		2		1	126	6	26.1
+Brazil	121				1	120	2	0.6
+Poland	119	+15	3		13	103	3	3.1
+Indonesia	117	+21	5		8	104		0.4
+Thailand	114	+32	1		35	78	1	1.6
+Kuwait	112	+8			9	103	4	26.2
+Iraq	111	+1	10		26	75		2.8
+Egypt	110		2		27	81		1.1
+India	108	+8	2		10	96		0.1
+Saudi Arabia	103				2	101		3.0
+San Marino	101		5		4	92	3	
+Lebanon	99	+6	3		1	95	3	14.5
+UAE	86	+1			20	66	2	8.7
+Russia	63	+4			8	55		0.4
+Chile	61					61		3.2
+Luxembourg	59	+8	1			58		
+Taiwan	59	+6	1		20	38		2.5
+Vietnam	56	+3			16	40		0.6
+Slovakia	54	+10				54		9.9
+Pakistan	53	+20			2	51		0.2
+Bulgaria	51	+10	2			49		7.3
+South Africa	51	+13				51		0.9
+Brunei	50	+10				50		
+Croatia	49	+10			2	47		11.9
+Algeria	48	+9	4	+1	10	34		1.1
+Serbia	46				1	45	1	5.3
+Argentina	45		2			43	1	1.0
+Panama	43		1			42		10.0
+Peru	43					43		1.3
+Albania	42	+4	1			41	2	14.6
+Mexico	41	+15			4	37	1	0.3
+Palestine	38					38		7.4
+Colombia	34	+10				34		0.7
+Georgia	33	+3			1	32	1	8.3
+Hungary	32	+2	1	+1	1	30		3.3
+Latvia	30	+4			1	29		15.9
+Ecuador	28		2			26	1	1.6
+Morocco	28	+10	1		1	26	1	0.8
+Belarus	27				3	24		2.9
+Costa Rica	27					27	1	5.3
+Cyprus	26					26		21.5
+Senegal	24				2	22		1.4
+Azerbaijan	23	+4	1		6	16		2.3
+Armenia	23	+3				23		7.8
+Moldova	23	+11				23		5.7
+Oman	22	+2			9	13		4.3
+Bosnia and Herzegovina	21					21		6.4
+Malta	21	+3			2	19		
+North Macedonia	19				1	18		9.1
+Tunisia	18					18	2	1.5
+Afghanistan	16	+5			1	15		0.4
+Maldives	13	+3				13		
+Lithuania	12	+3			1	11		4.4
+Dominican Republic	11					11		1.0
+Sri Lanka	11	+1			1	10		0.5
+Faeroe Islands	11	+1				11		
 Macao	10				10	0		
-Senegal	10				2	8		0.6
-North Macedonia	9				1	8		4.3
-Colombia	9					9		0.2
-Jamaica	8	+6				8		2.7
-Maldives	8					8		
-Morocco	7	+1	1			6	1	0.2
-Afghanistan	7					7		0.2
-Armenia	6					6		2.0
-Lithuania	6	+3				6		2.2
-French Guiana	6					6		
-Moldova	6					6		1.5
-Paraguay	6					6	1	0.8
-Cambodia	5				1	4		0.3
-Dominican Republic	5					5		0.5
-New Zealand	5					5		1.0
-Réunion	5	+1				5		
-Liechtenstein	4					4		
-Sri Lanka	3				1	2		0.1
-Ukraine	3					3		0.1
-Bangladesh	3					3		
-Bolivia	3					3		0.3
+Bolivia	10					10		0.9
+Martinique	10					10		
+Venezuela	10	+8				10		0.4
+New Zealand	8					8		1.7
+Jamaica	8					8		2.7
+Kazakhstan	8	+2				8		0.4
+Cambodia	7				1	6		0.4
+Jordan	7	+6			1	6		0.7
+French Guiana	7					7		
+Liechtenstein	7	+3				7		
+Paraguay	7					7	1	1.0
+Réunion	7	+1				7		
+Ghana	6	+4				6		0.2
+Turkey	6					6		0.1
+Uruguay	6					6		1.7
+Bangladesh	5				2	3		
+Guyana	4	+3	1			3		
+Ivory Coast	4	+2				4		0.2
+Cuba	4					4		0.4
+Puerto Rico	4					4		1.4
+Ukraine	3		1			2		0.1
+Burkina Faso	3	+1				3		0.1
 Channel Islands	3					3		
-Cuba	3					3		0.3
-Faeroe Islands	3	+1				3		
-French Polynesia	3	+2				3		
-Martinique	3					3		
+French Polynesia	3					3		
+Guadeloupe	3					3		
+Guam	3	+3				3		
+Honduras	3					3		0.3
+Kenya	3	+2				3		0.1
 Monaco	2					2		
-Nigeria	2					2		
-Burkina Faso	2					2		0.1
+Nigeria	2				1	1		
+Aruba	2					2		
 Cameroon	2					2		0.1
-DRC	2	+1				2		
-Ghana	2					2		0.1
-Honduras	2					2		0.2
-Kazakhstan	2	+2				2		0.1
+Curaçao	2					2		
+DRC	2					2		
+Namibia	2					2		0.8
+Saint Lucia	2	+1				2		
 Saint Martin	2					2		
-Turkey	2	+1				2		
-Guyana	1		1			0		
+Seychelles	2					2		
+Trinidad and Tobago	2					2		1.4
+Sudan	1		1			0		
 Andorra	1					1		
-Jordan	1					1		0.1
 Nepal	1				1	0		
+Antigua and Barbuda	1					1		
 Bhutan	1					1		
-Cayman Islands	1	+1				1		
-Ivory Coast	1					1		
-Ethiopia	1	+1				1		
+Cayman Islands	1					1		
+CAR	1	+1				1		0.2
+Congo	1	+1				1		0.2
+Equatorial Guinea	1					1		0.7
+Ethiopia	1					1		
+Gabon	1					1		0.4
 Gibraltar	1				1	0		
-Guadeloupe	1	+1				1		
+Guatemala	1					1		0.1
+Guinea	1					1		0.1
 Vatican City	1					1		
-Kenya	1	+1				1		
+Mauritania	1					1		0.2
+Mayotte	1					1		
 Mongolia	1					1		0.3
+Rwanda	1					1		0.1
 St. Barth	1					1		
 St. Vincent Grenadines	1					1		
+Suriname	1					1		
+Eswatini	1					1		0.9
 Togo	1					1		0.1
-Trinidad and Tobago	1					1		0.7
+U.S. Virgin Islands	1					1		
+Uzbekistan	1	+1				1		
