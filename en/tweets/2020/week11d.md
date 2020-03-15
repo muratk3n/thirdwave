@@ -242,12 +242,6 @@ and was labeled a "populist".
 
 ---
 
-B. Maher's show is cursed. Anyone who's been it is done.
-
-*2020-3-14 16:59:4*
-
----
-
 These fuckers don't just go around a person - they destroy him. No
 wonder left stalled for such a long time inside the "Democratic" party. 
 
