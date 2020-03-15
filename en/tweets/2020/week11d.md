@@ -215,14 +215,14 @@ The Italian model the aims to stop infection. The UKs wants infection BUT of par
 
 ---
 
-@MarkYusko
+"@MarkYusko
 
 Public Service Announcement 
 
 Everyone does realize what happened yesterday when \#Fed committed to
 spend $1.5 TRILLION they don’t have, right?
 
-They bailed out Citadel & Millennium
+They bailed out Citadel & Millennium"
 
 *2020-3-14 17:50:30*
 
