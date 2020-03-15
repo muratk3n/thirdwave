@@ -366,9 +366,9 @@ TO LACK OF PARTS - SPOKESMAN"
 
 ---
 
-@evebitdap
+"@evebitdap
 
-FIAT WORKERS AT PLANT NEAR DETROIT REFUSE WORK ON VIRUS CONCERN
+FIAT WORKERS AT PLANT NEAR DETROIT REFUSE WORK ON VIRUS CONCERN"
 
 *2020-3-13 21:10:7*
 
@@ -380,7 +380,7 @@ FIAT WORKERS AT PLANT NEAR DETROIT REFUSE WORK ON VIRUS CONCERN
 
 ---
 
-Shoulda stayed away from that Castro bullshit. TOLD YA.
+Shoulda stayed away from that Castro bullshit. Told ya
 
 "@PpollingNumbers
 
@@ -410,18 +410,6 @@ preparing to retain hydrogen among the industrial priorities of its
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> Philippe Boucly, Président de l&#39;<a href="https://twitter.com/afhypac?ref_src=twsrc%5Etfw">@afhypac</a> dans <a href="https://twitter.com/LaTribune?ref_src=twsrc%5Etfw">@LaTribune</a> <a href="https://t.co/FM8WflNBdB">https://t.co/FM8WflNBdB</a></p>&mdash; Symbio (@SymbioFCell) <a href="https://twitter.com/SymbioFCell/status/1238487559359082497?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-13 18:38:53*
-
----
-
-"@Nouriel
-
-Black Swan: Bolsonaro has been tested & waiting for result but
-Brazilian press reporting he's positive. So quite possible that both
-Trump & Pence have it too (& Trump looked awful on TV). If both Trump
-& Pence incapacitated next 1 in line of command 2 become Prez is Nancy
-Pelosi!"
-
-*2020-3-13 18:16:41*
 
 ---
 
