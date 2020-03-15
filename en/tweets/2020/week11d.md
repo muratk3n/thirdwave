@@ -250,8 +250,8 @@ brother Bam.
 
 ---
 
-The Gillum thing is about the establishment voting for who they do not
-want as Biden's VP pick
+The Gillum thing could be about the establishment "voting" for who
+they do not want as Biden's VP pick
 
 *2020-3-14 16:54:3*
 
