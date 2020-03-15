@@ -8,11 +8,12 @@ Corona update 24K in 2 days, death rate 7.3%
 
 ---
 
-I like how Picard was dismissive of the pyramids labeling them as "vanity projects" in the new show. 
+The new Picard show: I like how Picard was dismissive of the pyramids
+labeling them as "vanity projects".
 
 The tone is against AI Doomsday, fine. 
 
-But they cld go easier on the Mary Sue. Too many bad bitches isnt just too blatant agenda, it is also not believable.
+But they cld go easier on the Mary Sue. 
 
 *2020-3-15 17:20:18*
 
