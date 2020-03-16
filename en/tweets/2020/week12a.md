@@ -74,23 +74,6 @@ away.
 
 ---
 
-Trump should call him to the Oval Off and beat the shit out of him. He
-can, legally speaking.
-
-These ppl are one-trick ponies. They only have one thing in their
-heads and keep executing on it.
-
-"@matthewstoller
-
-Trump is a lightning rod for criticism, but one of the key figures
-structuring the lack of response in the U.S. so far is Senator Mitch
-McConnell. McConnell really doesn't want the government to function,
-even in a pandemic"
-
-*2020-3-16 20:22:37*
-
----
-
 "@ClementYChow
 
 [From a covid19 patient] Basically had a low grade fever for a few
