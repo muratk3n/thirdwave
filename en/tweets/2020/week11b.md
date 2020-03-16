@@ -39,17 +39,6 @@ kool-aid magic kebab.
 
 ---
 
-"@justinhendrix
-
-One thing many people have hoped is that the warm weather may slow the
-spread of coronavirus. But in Australia, where temperatures are still
-in the 60s, 70s and 80s Farenheit, the virus is still spreading. As of
-yesterday it is in all provinces"
-
-*2020-3-12 16:16:1*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">MethFuel – Subproject “Flexible PEM Electrolysis” Awarded “Gigawatt Winner” at Energy Storage Europe 2020--1 MW PEM electrolysis operable up to 200 percent of nominal capacity--<a href="https://t.co/WuJkSAYeoD">https://t.co/WuJkSAYeoD</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/df16FylyHd">pic.twitter.com/df16FylyHd</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1238069995478933505?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-12 15:54:46*
