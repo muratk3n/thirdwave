@@ -285,7 +285,8 @@ leaders. Rightfully so too. Do I know about dentristy? Bee-keeping? No.
 
 ---
 
-I'd like to go back to my weekly Tweet log releases. Shit is happening too fast. 
+I'd like to go back to my weekly Tweet log releases. Stuff is
+happening way too fast.
 
 *2020-3-16 10:15:28*
 
