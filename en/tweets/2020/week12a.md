@@ -279,14 +279,6 @@ leaders. Rightfully so too. Do I know about dentristy? Bee-keeping? No.
 
 ---
 
-"@datagod
-
-The scary thing is we have a very large Italian community and a large Iranian community here [in Canada]. Travel still not restricted from those countries. Pray for us please"
-
-*2020-3-16 10:38:48*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Second Hydrogen Station to be Built in Quebec --Quebec is continuing its <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> program by investing in the construction of a second hydrogen refueling station in the Montreal-Quebec city <a href="https://t.co/2q6ujvnPN5">https://t.co/2q6ujvnPN5</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> #h2#decarbonise <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/zRKsiefofS">pic.twitter.com/zRKsiefofS</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1239455107319824384?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-16 10:37:35*
