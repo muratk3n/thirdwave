@@ -381,11 +381,6 @@ first place"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Correction: An earlier version of this article included an inaccurate description of France&#39;s coronavirus patients. Of the 300 in critical condition, half are under 60, not under 50. We’ve deleted a tweet that also included this error. <a href="https://t.co/8nl6fgswK3">https://t.co/8nl6fgswK3</a></p>&mdash; The New York Times (@nytimes) <a href="https://twitter.com/nytimes/status/1239208513504784392?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-15 19:32:30*
-
----
 
 
 
