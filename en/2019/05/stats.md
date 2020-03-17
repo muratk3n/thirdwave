@@ -630,3 +630,41 @@ Name: Adj Close, dtype: float64
 ```
 
 ![](vix.png)
+
+
+# Yield Curve
+
+<a name="curve"></a>
+
+10 Year Treasury Yield - 3 Month Bills
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['DGS10','DGS3MO']
+df = data.DataReader(cols, 'fred', start, end)
+df['Yield Curve'] = df.DGS10 - df.DGS3MO
+
+df['Yield Curve'].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('yield-curve.png')
+```
+
+![](yield-curve.png)
+
+
+
+
+
+
+
+
+
+
+
