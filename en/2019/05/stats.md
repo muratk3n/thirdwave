@@ -240,10 +240,10 @@ plt.savefig('initial-claims.png')
 ```text
             IC4WSA
 DATE              
-2020-02-08  212250
 2020-02-15  209250
 2020-02-22  209750
-2020-02-29  213000
+2020-02-29  212750
+2020-03-07  214000
 ```
 
 ![](initial-claims.png)
@@ -386,22 +386,19 @@ df = df['Settle']
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
+df.tail(1000).plot()
+plt.grid(True)
+plt.savefig('dollar.png')
 ```
 
 ```text
 Date
-2020-03-10    96.389
 2020-03-11    96.492
 2020-03-12    97.464
 2020-03-13    98.764
+2020-03-16    98.240
 Name: Settle, dtype: float64
-[ 81.80274211 102.74757008]
-```
-
-```python
-df.tail(1000).plot()
-plt.grid(True)
-plt.savefig('dollar.png')
+[ 81.8038263  102.74784694]
 ```
 
 ![](dollar.png)
@@ -593,12 +590,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-05           6.10
 2020-03-06           6.63
 2020-03-09           7.69
 2020-03-10           7.61
 2020-03-11           7.92
 2020-03-12           8.81
+2020-03-13           8.72
 ```
 
 ![](junkbond.png)
