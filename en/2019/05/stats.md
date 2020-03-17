@@ -518,6 +518,37 @@ Date
 
 ![](price-sales.png)
 
+<a name="sp500prof"></a>
+
+# SP 500 vs Corporate Profits
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1990, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['CP']
+df = data.DataReader(cols, 'fred', start, end)
+
+import pandas_datareader.data as web
+df2 = web.DataReader("^GSPC", 'yahoo', start, end)
+df2 = df2[['Adj Close']]
+
+df2['CP'] = df['CP']
+df2 = df2.interpolate().dropna()
+df2.columns = ['SP500','Corporate Profits']
+df2.plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('sp500-profits.png')
+```
+
+![](sp500-profits.png)
+
+
 <a name="junkbond"></a>
 
 # Junk Bond Yields
