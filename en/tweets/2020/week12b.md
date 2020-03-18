@@ -6,7 +6,7 @@
 
 ---
 
-We might realize soon modern life that was mind of artificial and
+We might realize soon modern life that was kind of artificial and
 fake. Get up every day go to the same distant place to get
 paycheck.. It's weird. 
 
