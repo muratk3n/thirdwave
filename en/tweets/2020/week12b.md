@@ -170,9 +170,9 @@ THAT GO BEYOND HOUSE ECONOMIC RELIEF BILL"
 ---
 
 Hah. Building factories, trying to to look "so eager to work (risking
-disease to build u see, knowing full well it'd be not allowed)", is
-for the image "trying to meet demand bro". A media tactic, attempting
-to create an illusion of demand. 
+disease to build u see, knowing full well it'd create drama)", is for
+the image "trying to meet demand bro". A media tactic, attempting to
+create an illusion of demand.
 
 There is no demand. Another con by Mux.
 
