@@ -28,8 +28,8 @@ I am loading up on Nano
 
 ---
 
-I might hunt for working spots outaide cafes which are closed but
-still, or parks, away from third parties of course. Have camping
+I might hunt for working spots outside cafes which are closed but
+still, or parks, away from third parties of course. Have light camping
 equip, food already. Added coffe supply today and we r ready to knock
 out some content.
 
@@ -173,9 +173,9 @@ THAT GO BEYOND HOUSE ECONOMIC RELIEF BILL"
 Hah. Building factories, trying to to look "so eager to work (risking
 disease to build u see, knowing full well it'd be not allowed)", is
 for the image "trying to meet demand bro". A media tactic, attempting
-to create an illusion of demand.
+to create an illusion of demand. 
 
-There is no demand.
+There is no demand. Another con by Mux.
 
 Batteries are an inferior technology.
 
