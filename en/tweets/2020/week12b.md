@@ -1,5 +1,13 @@
 # Tweets - Week 12b
- 
+
+Junk Bond yields at 9.76% Daaaaaaaam!
+
+[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#junkbond)
+
+*2020-3-18 0:49:59*
+
+---
+
 *Why We Can't Afford the Rich* by A. Sayer. ROFL. Great book title. 
 
 *2020-3-18 0:49:59*
