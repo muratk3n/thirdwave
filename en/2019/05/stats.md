@@ -648,12 +648,23 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['DGS10','DGS3MO']
 df = data.DataReader(cols, 'fred', start, end)
 df['Yield Curve'] = df.DGS10 - df.DGS3MO
-
+print (df['Yield Curve'].tail(6))
 df['Yield Curve'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('yield-curve.png')
+```
+
+```text
+DATE
+2020-03-09    0.21
+2020-03-10    0.32
+2020-03-11    0.40
+2020-03-12    0.55
+2020-03-13    0.66
+2020-03-16    0.49
+Freq: B, Name: Yield Curve, dtype: float64
 ```
 
 ![](yield-curve.png)
