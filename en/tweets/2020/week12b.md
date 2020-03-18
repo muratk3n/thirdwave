@@ -1,6 +1,6 @@
 # Tweets - Week 12b
  
-*Why We Can't Afford the Rich*. ROFL by A. Sayer. Great book title. 
+*Why We Can't Afford the Rich* by A. Sayer. ROFL. Great book title. 
 
 *2020-3-18 0:49:59*
 
