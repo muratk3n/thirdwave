@@ -63,6 +63,22 @@ S&P500"
 
 ---
 
+"A normal or up-sloped yield curve indicates yields on longer-term
+bonds may continue to rise, responding to periods of economic
+expansion. When investors expect longer-maturity bond yields to become
+even higher in the future, many would temporarily park their funds in
+shorter-term securities [buying them decreasing yield] in hopes of
+purchasing longer-term bonds later [selling them decreasing yield,
+difference, the curve goes higher] for higher yields...  In a rising
+interest rate environment, it is risky to have investments tied up in
+longer-term bonds"
+
+[Link](https://www.investopedia.com/terms/y/yieldcurve.asp)
+
+*2020-3-17 21:3:6*
+
+---
+
 It's true. [Recreated](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#curve).
 
 "@carlquintanilla
