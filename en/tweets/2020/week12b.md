@@ -295,7 +295,7 @@ credit card from inside the app.
 Nano requires no mining (a stupid idea anyway).
 
 My only criticism of non-expanding monetary base notwithstanding (also
-true for all other coins), N$ looks very much like a second generation
+true for all other coins), N$ looks very much like a third generation
 coin, much better than "Satoshi" Hal Finney's Bitcoin.
 
 *2020-3-17 12:5:6*
