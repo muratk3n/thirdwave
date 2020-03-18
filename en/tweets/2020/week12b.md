@@ -88,8 +88,7 @@ interest rate environment, it is risky to have investments tied up in
 longer-term bonds".
 
 Rising IR environment is obviously the result of growth, so "the
-curve" in many ways represents investors' overall view on growth and
-recession.
+curve" represents investors' overall view on growth and recession.
 
 [Link](https://www.investopedia.com/terms/y/yieldcurve.asp)
 
