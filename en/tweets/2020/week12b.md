@@ -71,7 +71,11 @@ shorter-term securities [buying them decreasing yield] in hopes of
 purchasing longer-term bonds later [selling them decreasing yield,
 difference, the curve goes higher] for higher yields...  In a rising
 interest rate environment, it is risky to have investments tied up in
-longer-term bonds"
+longer-term bonds".
+
+Rising IR environment is obviously the result of growth, so "the
+curve" in many ways represents investors' overall view on growth and
+recession.
 
 [Link](https://www.investopedia.com/terms/y/yieldcurve.asp)
 
