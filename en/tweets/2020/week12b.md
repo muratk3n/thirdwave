@@ -184,7 +184,7 @@ replace fossil fuels.
 Worth of TSLA, the company is exactly zero.
 
 The Chinese love him because guy is cancer. A bad effect on the
-Western world. Wouldn't you want your enemy have cancer?
+Western world. Wouldn't you want your enemy to have cancer?
 
 "Tesla told to shut down Fremont factory operations to help fight the
 pandemic"
