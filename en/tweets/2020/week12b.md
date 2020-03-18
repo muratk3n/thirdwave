@@ -20,7 +20,7 @@ I am loading up on Nano
 
 ---
 
-I might hunt for working spots outaide cafes which are coosed but
+I might hunt for working spots outaide cafes which are closed but
 still, or parks, away from third parties of course. Have camping
 equip, food already. Added coffe supply today and we r ready to knock
 out some content.
