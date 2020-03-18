@@ -102,12 +102,6 @@ was never _different this time_'"
 
 ---
 
-Yeah. Peaceful rise my ass
-
-*2020-3-17 20:26:49*
-
----
-
 <img width="340" src="https://media0.giphy.com/media/voOhKPgzYsyPu/giphy.gif"/>
 
 ---
