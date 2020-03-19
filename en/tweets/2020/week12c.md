@@ -32,9 +32,11 @@ get Federal support"
 
 ---
 
-@ScottMinerd
+"@ScottMinerd
 
-The US Govt is able to sustain this #economy using extreme measures, but it has to come to the table like a distressed investor. Demand good collateral and warrants for the upside once this crisis passes.
+The US Govt is able to sustain this \#economy using extreme measures,
+but it has to come to the table like a distressed investor. Demand
+good collateral and warrants for the upside once this crisis passes"
 
 *2020-3-19 16:59:44*
 
@@ -78,11 +80,11 @@ More math muthafakka!
 
 ---
 
-@howardfineman
+"@howardfineman
 
 Some good news on the virus treatment front: a combo of drugs
 concocted in France that had a six-day, 100 percent cure rate in tight
-new test.
+new test"
 
 *2020-3-19 17:2:8*
 
@@ -206,12 +208,6 @@ Oh no
 The new initial claims number will be epic.
 
 *2020-3-19 8:3:53*
-
----
-
-More fall predicted by futures, for 19th.. 
-
-*2020-3-19 8:2:47*
 
 ---
 
