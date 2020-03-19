@@ -2,7 +2,11 @@
 
 ```python
 import util, pandas as pd
-df, df1, col_dict = util.retrieve_cor_data()
+
+bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
+colors = ["mistyrose","lightsalmon","salmon", "lightcoral",\
+          "tomato","red","firebrick"]	      
+df, col_dict = util.retrieve_cor_data(bins,colors)
 ```
 
 ```python
@@ -29,21 +33,21 @@ plt.savefig('corworld.png')
 
 ```python
 import datetime
-print ('Total Confirmed', df1['Confirmed'].str.replace(",","").astype(np.float).sum() )
+print ('Total Confirmed', df['Confirmed'].str.replace(",","").astype(np.float).sum() )
 print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
 Total Confirmed 220313.0
 
-Updated: 2020-03-19 12:27:23.089107
+Updated: 2020-03-19 12:48:56.721072
 ```
 
 Death Rate
 
 ```python
-recov = df1['Recovered'].str.replace(",","").astype(np.float).sum() 
-death = df1['Deaths'].str.replace(",","").astype(np.float).sum()
+recov = df['Recovered'].str.replace(",","").astype(np.float).sum() 
+death = df['Deaths'].str.replace(",","").astype(np.float).sum()
 print ( 'Death Rate =', np.round(  death / (death + recov) * 100.0, 2) , '%')
 ```
 
@@ -56,7 +60,7 @@ pd.set_option('display.max_columns', 10)
 pd.set_option('display.max_rows', 10000)
 pd.set_option('precision', 2)
 pd.set_option('display.float_format', lambda x: '%.3f' % x) 
-print (df1.set_index('Country').fillna('-'))
+print (df.set_index('Country').fillna('-'))
 ```
 
 ```text
