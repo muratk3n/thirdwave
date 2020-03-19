@@ -346,12 +346,15 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1950, 1, 1)
+start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['CPROFIT']
 df = data.DataReader(cols, 'fred', start, end)
 df['cpyoy'] = (df.CPROFIT - df.CPROFIT.shift(4)) / df.CPROFIT.shift(4) * 100.0
 print (df.tail(4))
+df.cpyoy.plot()
+plt.grid(True)
+plt.savefig('profit.png')
 ```
 
 ```text
@@ -361,12 +364,6 @@ DATE
 2019-01-01  2006.864 -2.212810
 2019-04-01  2082.711  1.278730
 2019-07-01  2077.979 -1.247722
-```
-
-```python
-df.tail(60).cpyoy.plot()
-plt.grid(True)
-plt.savefig('profit.png')
 ```
 
 ![](profit.png)
@@ -590,12 +587,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-10           7.61
 2020-03-11           7.92
 2020-03-12           8.81
 2020-03-13           8.72
 2020-03-16           9.76
 2020-03-17           9.98
+2020-03-18          10.86
 ```
 
 ![](junkbond.png)
@@ -659,11 +656,11 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2020-03-12    75.470001
 2020-03-13    57.830002
 2020-03-16    82.690002
 2020-03-17    75.910004
 2020-03-18    76.449997
+2020-03-19    70.010002
 Name: Adj Close, dtype: float64
 ```
 
