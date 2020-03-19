@@ -245,7 +245,6 @@ Eswatini                       1      -         -
 Togo                           1      -         -
 ```
 
-
 [corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Data](https://www.worldometers.info/coronavirus/)

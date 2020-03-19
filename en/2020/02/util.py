@@ -27,4 +27,5 @@ def retrieve_cor_data(bins,colors):
 
     df['colors'] = pd.cut(np.array(df[0]), bins=bins, labels=colors)
     col_dict = df.set_index(1)['colors'].to_dict()
+    
     return df1, col_dict
