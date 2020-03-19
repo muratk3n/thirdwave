@@ -4,8 +4,8 @@
 import util, pandas as pd
 
 bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
-colors = ["mistyrose","lightsalmon","salmon", "lightcoral",\
-          "tomato","red","firebrick"]	      
+colors = ["mistyrose","lightsalmon","salmon",
+          "lightcoral","tomato","red","firebrick"]	      
 df, col_dict = util.retrieve_cor_data(bins,colors)
 ```
 
