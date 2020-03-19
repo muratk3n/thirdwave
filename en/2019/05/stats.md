@@ -152,6 +152,13 @@ cols = ['PAYEMS']
 df = data.DataReader(cols, 'fred', start, end)
 df['nfpyoy'] = (df.PAYEMS - df.PAYEMS.shift(12)) / df.PAYEMS.shift(12) * 100.0
 print (df.tail(7))
+df.nfpyoy.plot()
+plt.grid(True)
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.title('Non-Farm Payroll YoY Change %')
+plt.savefig('nfp.png')
 ```
 
 ```text
@@ -164,16 +171,6 @@ DATE
 2019-12-01  151998  1.423281
 2020-01-01  152271  1.423395
 2020-02-01  152544  1.604556
-```
-
-```python
-df.nfpyoy.plot()
-plt.grid(True)
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.title('Non-Farm Payroll YoY Change %')
-plt.savefig('nfp.png')
 ```
 
 ![](nfp.png)
@@ -590,47 +587,15 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-09           7.69
 2020-03-10           7.61
 2020-03-11           7.92
 2020-03-12           8.81
 2020-03-13           8.72
 2020-03-16           9.76
+2020-03-17           9.98
 ```
 
 ![](junkbond.png)
-
-<a name="vix"></a>
-
-# VIX
-
-```python
-import pandas as pd, datetime
-import pandas_datareader.data as web
-
-today = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
-df.plot()
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-print (df.tail(5))
-plt.savefig('vix.png')
-```
-
-```text
-Date
-2020-03-11    53.900002
-2020-03-12    75.470001
-2020-03-13    57.830002
-2020-03-16    82.690002
-2020-03-17    75.910004
-Name: Adj Close, dtype: float64
-```
-
-![](vix.png)
-
 
 # Yield Curve
 
@@ -658,17 +623,48 @@ plt.savefig('yield-curve.png')
 
 ```text
 DATE
-2020-03-09    0.21
 2020-03-10    0.32
 2020-03-11    0.40
 2020-03-12    0.55
 2020-03-13    0.66
 2020-03-16    0.49
+2020-03-17    0.83
 Freq: B, Name: Yield Curve, dtype: float64
 ```
 
 ![](yield-curve.png)
 
+
+<a name="vix"></a>
+
+# VIX
+
+```python
+import pandas as pd, datetime
+import pandas_datareader.data as web
+
+today = datetime.datetime.now()
+start=datetime.datetime(2000, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+print (df.tail(5))
+plt.savefig('vix.png')
+```
+
+```text
+Date
+2020-03-12    75.470001
+2020-03-13    57.830002
+2020-03-16    82.690002
+2020-03-17    75.910004
+2020-03-18    76.449997
+Name: Adj Close, dtype: float64
+```
+
+![](vix.png)
 
 
 

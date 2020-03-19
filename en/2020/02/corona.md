@@ -1,29 +1,8 @@
 # The Coronavirus Map
 
 ```python
-import pandas as pd
-
-df = pd.read_csv('corona.csv',sep=r'\t',header=None)
-df1 = df[[0,1,3,5]]
-df1.columns = ['Country','Confirmed','Deaths','Recovered']
-
-d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
-df2 = pd.read_csv('alpha3country.csv',sep=',', skipinitialspace=True)
-d2 = df2[['Country','Alpha-3 code']].set_index('Country').to_dict()
-
-res = []
-for c in d1['Confirmed'].keys():
-    code = d2['Alpha-3 code'].get(c.strip())
-    val = float(d1['Confirmed'][c].replace(",",""))
-    if code: res.append([val, code])
-    
-df = pd.DataFrame(res)
-
-bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
-colors = ["mistyrose","lightsalmon","salmon", \
-          "lightcoral","tomato","red","firebrick"]
-df['colors'] = pd.cut(np.array(df[0]), bins=bins, labels=colors)
-col_dict = df.set_index(1)['colors'].to_dict()
+import util
+df, col_dict = util.retrieve_cor_data()
 ```
 
 ```python
@@ -55,19 +34,19 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 161656.0
+Total Confirmed 217909.0
 
-Updated: 2020-03-15 18:46:02.160759
+Updated: 2020-03-19 09:12:36.591380
 ```
 
 Death Rate
 
 ```python
-6069. / (76219+6069.) * 100.0
+8970 / (8970+85745) * 100.0
 ```
 
 ```text
-Out[1]: 7.37531596344546
+Out[1]: 9.47051681359869
 ```
 
 ```python
@@ -241,9 +220,7 @@ Uzbekistan                               1      -         -
 ```
 
 
-[corona.csv](corona.csv)
-
-[alpha3country.csv](alpha3country.csv)
+[corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Data](https://www.worldometers.info/coronavirus/)
 
