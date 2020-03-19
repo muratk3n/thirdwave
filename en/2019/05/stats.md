@@ -254,7 +254,7 @@ import quandl, os, datetime
 from datetime import timedelta
 
 today = datetime.datetime.now()
-start=datetime.datetime(1996, 1, 1)
+start=datetime.datetime(1985, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 today = datetime.datetime.now()
 df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
@@ -265,6 +265,9 @@ df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index",
 
 print (df['PMI'].tail(4))
 df['PMI'].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('pmi.png')
 ```
 
