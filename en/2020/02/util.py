@@ -6,9 +6,16 @@ def retrieve_cor_data():
     df = pd.read_csv('corona.csv',sep=r'\t',header=None)
     df1 = df[[0,1,3,5]]
     df1.columns = ['Country','Confirmed','Deaths','Recovered']
-
+    df1['Country'] = df1['Country'].str.replace("S. Korea","South Korea")
+    df1['Country'] = df1['Country'].str.replace("USA","United States")
+    df1['Country'] = df1['Country'].str.replace("UAE","United Arab Emirates")
+    df1['Country'] = df1['Country'].str.replace("UK","United Kingdom")
+    df1['Country'] = df1['Country'].str.replace("Czechia","Czech Republic")
+    
     d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
     df2 = pd.read_csv('alpha3country.csv',sep=',', skipinitialspace=True)
+
+    
     d2 = df2[['Country','Alpha-3 code']].set_index('Country').to_dict()
 
     res = []
@@ -24,4 +31,4 @@ def retrieve_cor_data():
               "lightcoral","tomato","red","firebrick"]
     df['colors'] = pd.cut(np.array(df[0]), bins=bins, labels=colors)
     col_dict = df.set_index(1)['colors'].to_dict()
-    return df, col_dict
+    return df, df1, col_dict
