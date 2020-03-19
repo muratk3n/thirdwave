@@ -216,7 +216,9 @@ plt.savefig('unemploy.png')
 
 <a name="claims"></a>
 
-# 4-Week Moving Average of Initial Unemployment Claims 
+# Initial Unemployment Claims
+
+4-Week Moving Average of 
 
 ```python
 import pandas as pd, datetime
@@ -237,13 +239,44 @@ plt.savefig('initial-claims.png')
 ```text
             IC4WSA
 DATE              
-2020-02-15  209250
-2020-02-22  209750
-2020-02-29  212750
-2020-03-07  214000
+2020-02-22  210000
+2020-02-29  214000
+2020-03-07  215750
+2020-03-14  232250
 ```
 
 ![](initial-claims.png)
+
+<a name="claims2"></a>
+
+Initial Claims Raw
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1995, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['ICSA']
+df = data.DataReader(cols, 'fred', start, end)
+df.ICSA.plot()
+print (df.tail(4))
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('icsa.png')
+```
+
+```text
+              ICSA
+DATE              
+2020-02-22  220000
+2020-02-29  217000
+2020-03-07  211000
+2020-03-14  281000
+```
+
+![](icsa.png)
 
 <a name="pmi"></a>
 
