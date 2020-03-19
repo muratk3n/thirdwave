@@ -333,7 +333,7 @@ for nothing, teachers don't rush, 'the lecture' is always on.
 Some teachers might have an issue with that especially if they have a
 personality defect whereby through "standing up and delivering" in
 front of others they get their identity confirmed. We shouldnt create
-a whole bloody system around their deficiencies. A "consultant" for
+a whole bloody system around such deficiencies. A "consultant" for
 questions here and there is very different from creator / performer /
 grader of all things.
 
