@@ -9,7 +9,7 @@ general. Good politics.
 
 ---
 
-👍👊 Go Trump
+👍👊 Very awesome
 
 "@morningmoneyben
 
