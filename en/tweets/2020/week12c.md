@@ -64,10 +64,25 @@ started spreading around the world, including to the United States"
 
 ---
 
+More math muthafakka!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Most notably the view that supervised ML is more like an S-curve than a Moore&#39;s Law curve. As you get further and further into edge cases, it becomes harder and harder to find data to solve them. <a href="https://t.co/vhmc3EVo4b">pic.twitter.com/vhmc3EVo4b</a></p>&mdash; Shayle Kann (@shaylekann) <a href="https://twitter.com/shaylekann/status/1240683661965414400?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-3-19 17:4:5*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Better than bankruptcy. It&#39;s good to see CEOs acting like businessmen than Stock Buyback specialists. <a href="https://t.co/6aUVdRh2Az">https://t.co/6aUVdRh2Az</a></p>&mdash; Jin SEO (@JTSEO9) <a href="https://twitter.com/JTSEO9/status/1240684439023296512?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-3-19 17:3:1*
+
+---
 
 @howardfineman
 
-Some good news on the virus treatment front: a combo of drugs concocted in France that had a six-day, 100 percent cure rate in tight new test.
+Some good news on the virus treatment front: a combo of drugs
+concocted in France that had a six-day, 100 percent cure rate in tight
+new test.
 
 *2020-3-19 17:2:8*
 
@@ -335,3 +350,4 @@ grader of all things.
 *2020-3-18 10:59:16*
 
 ---
+
