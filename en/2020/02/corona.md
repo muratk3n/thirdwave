@@ -55,31 +55,6 @@ print ( 'Death Rate =', np.round(  death / (death + recov) * 100.0, 2) , '%')
 Death Rate = 10.5 %
 ```
 
-
-```python
-! wget https://raw.githubusercontent.com/datasets/covid-19/master/time-series-19-covid-combined.csv
-! zip corona-time.zip time-series-19-covid-combined.csv
-! rm time-series-19-covid-combined.csv
-```
-
-```python
-import pandas as pd
-import zipfile
-with zipfile.ZipFile('corona-time.zip', 'r') as z:
-    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=True)
-df = df[['Date','Confirmed']]
-df = df.set_index('Date')
-confirmed = df.groupby('Date').sum()
-confirmed.plot()
-plt.savefig('timeseries.png')
-```
-
-![](timeseries.png)
-
-
-
-
-
 ```python
 pd.set_option('display.max_columns', 10)
 pd.set_option('display.max_rows', 10000)
@@ -276,6 +251,30 @@ Sint Maarten                   1      -         -
 Somalia                        1      -         -
 Eswatini                       1      -         -
 ```
+
+Time Series
+
+
+```python
+! wget https://raw.githubusercontent.com/datasets/covid-19/master/time-series-19-covid-combined.csv
+! zip corona-time.zip time-series-19-covid-combined.csv
+! rm time-series-19-covid-combined.csv
+```
+
+```python
+import pandas as pd
+import zipfile
+with zipfile.ZipFile('corona-time.zip', 'r') as z:
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=True)
+df = df[['Date','Confirmed']]
+df = df.set_index('Date')
+confirmed = df.groupby('Date').sum()
+confirmed.plot()
+plt.savefig('timeseries.png')
+```
+
+![](timeseries.png)
+
 
 Files - [corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
