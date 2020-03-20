@@ -71,7 +71,7 @@ df = df[['Date','Confirmed']]
 df = df.set_index('Date')
 confirmed = df.groupby('Date').sum()
 confirmed.plot()
-plt.savefig('timseries.png')
+plt.savefig('timeseries.png')
 ```
 
 ![](timeseries.png)
