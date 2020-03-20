@@ -112,15 +112,9 @@ King Dollar coming up on 2016 highs @PeterSchiff"
 
 ---
 
-Free advice: education will fix all your problems.
+Education will fix all your problems.
 
 *2020-3-19 15:29:5*
-
----
-
-That guy is a total spaz
-
-*2020-3-19 15:28:55*
 
 ---
 
