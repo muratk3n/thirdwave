@@ -265,7 +265,7 @@ Time Series
 import pandas as pd
 import zipfile
 with zipfile.ZipFile('corona-time.zip', 'r') as z:
-    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=True)
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 df = df[['Date','Confirmed']]
 df = df.set_index('Date')
 confirmed = df.groupby('Date').sum()
@@ -274,7 +274,6 @@ plt.savefig('timeseries.png')
 ```
 
 ![](timeseries.png)
-
 
 Files - [corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
