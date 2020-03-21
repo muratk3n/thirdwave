@@ -275,7 +275,7 @@ plt.savefig('timeseries.png')
 
 ![](timeseries.png)
 
-Files - [corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
+Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Reference](https://www.worldometers.info/coronavirus/)
 
