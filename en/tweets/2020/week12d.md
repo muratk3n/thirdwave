@@ -104,7 +104,7 @@ fatality rate"
 
 ---
 
-Dude. Trump is now on EVERYDAY. For cor beiefing. Some serious shit.
+Dude. Trump is now on EVERYDAY. For cor briefing. Some serious shit.
 
 *2020-3-20 19:32:16*
 
