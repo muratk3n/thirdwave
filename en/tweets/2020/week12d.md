@@ -177,6 +177,13 @@ Couchin
 
 ---
 
+Brian Greene is also a stringer..  Moderate some effin panel, talk up
+science fine, but another failure in that grand picture. 
+
+*2020-3-20 17:55:3*
+
+---
+
 Right. Verlinde's model has no free parameters. A good thing. \#physics
 
 *2020-3-20 17:54:13*
