@@ -184,8 +184,8 @@ Right. Verlinde's model has no free parameters. A good thing. \#physics
 ---
 
 \#voit \#physics "It seems to be very hard to get some people to
-understand that the number of “tests of string theory” is not “very
-few” but zero, for the simple reason that there are no predictions of
+understand that the number of 'tests of string theory' is not 'very
+few' but zero, for the simple reason that there are no predictions of
 string theory, generic or otherwise"
 
 [Link](https://www.math.columbia.edu/~woit/wordpress/?p=11675)
