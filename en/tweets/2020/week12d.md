@@ -2,7 +2,7 @@
 
 <img width="340" src="https://pbs.twimg.com/media/ETlcYoJX0AETr9f?format=jpg&name=medium"/>
 
-(Log scale)
+(Log scale, watch the scale of the y-axis)
 
 [Link](https://mobile.twitter.com/JTSEO9/status/1241122963119902726)
 
