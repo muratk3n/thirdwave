@@ -180,7 +180,7 @@ Couchin
 ---
 
 Brian Greene is also a stringer..  Moderate some effin panel, talk up
-science fine, but another failure in that grand picture. 
+science fine, but another failure... No cigar.
 
 *2020-3-20 17:55:3*
 
