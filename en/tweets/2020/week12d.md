@@ -2,6 +2,8 @@
 
 <img width="340" src="https://pbs.twimg.com/media/ETlcYoJX0AETr9f?format=jpg&name=medium"/>
 
+(Log scale)
+
 [Link](https://mobile.twitter.com/JTSEO9/status/1241122963119902726)
 
 *2020-3-21 10:11:9*
