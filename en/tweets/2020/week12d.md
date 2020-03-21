@@ -81,9 +81,9 @@ Trump said he will "demand" no stock buybacks for companies receiving aid $SPY
 
 Corona: 39K more cases in one day, death rate 10.5 %.
 
-I added time series retrieval section (at the bottom), with an
-aggregate plot. The raw data has more detailed, country level
-confirmed numbers tho.
+I added a time series section (at the bottom), with an aggregate
+plot. The raw data has more detailed, country level confirmed numbers
+tho.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
