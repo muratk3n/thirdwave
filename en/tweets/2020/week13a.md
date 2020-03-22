@@ -11,7 +11,7 @@ Media play and policy are two different things. This punk should not
 be part of policy. He helped current gov to sell the thing that shall
 not be named, [cough! Brexit]!, sorry the cough was supposed to cover
 the next word there, but anyway, other than that, the spinner can
-cause serious damage. Limit access.
+cause serious damage. 
 
 [story about Cummins fuckup]
 
@@ -223,17 +223,6 @@ Governor handled the Coronavirus"
 [Link](https://mobile.twitter.com/KySportsRadio/status/1241360418565689346)
 
 *2020-3-21 19:49:14*
-
----
-
-Billionaires are on a basic income if you think abt it. Most of them
-arent really that smart, their money makes money. Get to a critical
-mass with some chicanery, off you go.. I mean who is a million times
-smarter than the next guy? Noone. Then that free money is a
-handout. Factor in all the regulatory, legal framework that allows
-them to keep it..
-
-*2020-3-21 19:14:34*
 
 ---
 
