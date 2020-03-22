@@ -13,7 +13,9 @@ not be named, [cough! Brexit]!, sorry the cough was supposed to cover
 the next word, but anyway, other than that, the spinner can cause
 serious damage. Limit access.
 
-[Link](https://mobile.twitter.com/paul__johnson/status/1241643814739206145)3
+[story about Cummins fuckup]
+
+[Link](https://mobile.twitter.com/paul__johnson/status/1241643814739206145)
 
 *2020-3-22 16:3:56*
 
