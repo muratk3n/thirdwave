@@ -19,75 +19,123 @@ print (len(df))
 ```python
 df2 = df.set_index('Date')
 confirmed = df2.groupby('Date').sum()
-print (confirmed)
 confirmed.plot()
 plt.savefig('timeseries2.png')
 ```
 
-```text
-            Confirmed
-Date                 
-2020-01-22          7
-2020-01-23         10
-2020-01-24         21
-2020-01-25         28
-2020-01-26         43
-2020-01-27         50
-2020-01-28         69
-2020-01-29         79
-2020-01-30         93
-2020-01-31        125
-2020-02-01        147
-2020-02-02        157
-2020-02-03        165
-2020-02-04        185
-2020-02-05        195
-2020-02-06        230
-2020-02-07        281
-2020-02-08        306
-2020-02-09        321
-2020-02-10        408
-2020-02-11        416
-2020-02-12        462
-2020-02-13        473
-2020-02-14        527
-2020-02-15        617
-2020-02-16        711
-2020-02-17        824
-2020-02-18        925
-2020-02-19       1020
-2020-02-20       1120
-2020-02-21       1273
-2020-02-22       1578
-2020-02-23       1943
-2020-02-24       2327
-2020-02-25       2659
-2020-02-26       3229
-2020-02-27       4154
-2020-02-28       5192
-2020-02-29       6655
-2020-03-01       8437
-2020-03-02      10170
-2020-03-03      12579
-2020-03-04      14734
-2020-03-05      17345
-2020-03-06      21094
-2020-03-07      25051
-2020-03-08      28972
-2020-03-09      32701
-2020-03-10      37705
-2020-03-11      44944
-2020-03-12      47411
-2020-03-13      64248
-2020-03-14      75117
-2020-03-15      86443
-2020-03-16     100494
-2020-03-17     116084
-2020-03-18     133808
-2020-03-19     161552
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exp_fit = curve_fit(exponential_model,x,np.array(confirmed.T)[0],p0=[10.,10.,10.])
+
+https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d
+
+https://stackoverflow.com/questions/23004374/how-to-calculate-the-likelihood-of-curve-fitting-in-scipy
+
+```python
+import pandas as pd
+import zipfile
+with zipfile.ZipFile('/home/burak/Documents/thirdwave/en/2020/02/corona-time.zip', 'r') as z:
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=True)
+df = df[['Date','Confirmed']]
+df = df.set_index('Date')
+confirmed = df.groupby('Date').sum()
+```
+
+```python
+
+from scipy.optimize import curve_fit
+
+x = np.linspace(0,1,len(confirmed))
+#x = np.arange(0,len(confirmed))
+
+def exponential(x,a,b,c):
+    return a*np.exp(b*(x-c))
+
+y = np.array(confirmed.T)[0]
+
+popt1, pcov1 = curve_fit(exponential,x,y,p0=[1.,1.,1.])
+
+def logistic(v, m, n, a, t):
+    return a * (1 + m * np.exp(-v/t))/(1 + n * np.exp(-v/t))
+
+popt2, pcov2 = curve_fit(logistic,x,y,p0=[0,1,1,1])    
+```
+
+```python
+plt.figure()
+plt.plot(x, confirmed)
+plt.plot(x, exponential(x, *popt1))
+plt.savefig('out1.png')
+
+plt.figure()
+plt.plot(x, confirmed)
+plt.plot(x, logistic(x, *popt2))
+plt.savefig('out2.png')
 ```
 
 
 
+```python
+print (pcov1)
+print (pcov2)
+```
 
+```text
+[[5.11661400e+13 9.43496099e+03 2.30414669e+12]
+ [9.43512620e+03 1.34688058e-02 4.24908213e+02]
+ [2.30414669e+12 4.24900778e+02 1.03761823e+11]]
+[[ 3.27722923e-02  4.91336583e+12  1.55388104e+17 -1.95848249e-03]
+ [ 4.91336728e+12 -2.84498906e+27 -8.99745047e+31 -6.56094901e+12]
+ [ 1.55388150e+17 -8.99745047e+31 -2.84549828e+36 -2.07493964e+17]
+ [-1.95848021e-03 -6.56094839e+12 -2.07493944e+17 -9.50329886e-03]]
+```
+
+
+```python
+print ('rmse exp', np.sqrt(((y-exponential(x, *popt1))**2).mean()))
+print ('rmse log', np.sqrt(((y-logistic(x, *popt2))**2).mean()))
+```
+
+```text
+rmse exp 14143.538264147179
+rmse log 13708.525652536877
+```
+
+```python
+plt.hist((y-exponential(x, *popt1))**2,50)
+plt.savefig('res1.png')
+```
+
+```python
+plt.hist((y-logistic(x, *popt2))**2,50)
+plt.savefig('res2.png')
+```
 
