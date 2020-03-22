@@ -10,8 +10,8 @@
 Media play and policy are two different things. This punk should not
 be part of policy. He helped current gov to sell the thing that shall
 not be named, [cough! Brexit]!, sorry the cough was supposed to cover
-the next word, but anyway, other than that, the spinner can cause
-serious damage. Limit access.
+the next word there, but anyway, other than that, the spinner can
+cause serious damage. Limit access.
 
 [story about Cummins fuckup]
 
