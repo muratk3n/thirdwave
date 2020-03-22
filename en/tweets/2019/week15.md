@@ -45,10 +45,12 @@ On related news; not psyched but not pissed Netanyahu won again; in an "only Nix
 
 ---
 
-Saw an H2 catalyst paper, "Catalyst structure optimization for the oxygen reduction reaction on Pt and Au". 
+Saw an H2 catalyst paper, "Catalyst structure optimization for the
+oxygen reduction reaction on Pt and Au".
 
 There is a Github repo on it 
-https://github dot com/VlachosGroup/ORR-Optimization
+
+https://github.com/VlachosGroup/ORR-Optimization
 
 Code looked like network / graph computation? 
 
