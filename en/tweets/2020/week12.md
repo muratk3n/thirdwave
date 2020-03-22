@@ -1,4 +1,4 @@
-# Tweets - Week 12a
+# Tweets - Week 12
 
 <img width="340" src="https://pbs.twimg.com/media/ETlcYoJX0AETr9f?format=jpg&name=medium"/>
 

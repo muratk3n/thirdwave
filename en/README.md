@@ -21,9 +21,6 @@ despite the best efforts of people working in them.
 
 1/3 - [Tweets - Week 9](/tweets/2020/week9.md)
 
-23/2 - [Tweets - Week 8](/tweets/2020/week8.md)
-
-15/2 - [Tweets - Week 7](/tweets/2020/week7.md)
 
 ## For Members
 
