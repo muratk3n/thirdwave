@@ -67,7 +67,7 @@ are now leading the country? And just as well.
 ---
 
 Which Asimov charathecter would I like to be? Demerzel was awesome,
-and he was Daneel. But Cogressman Trevize might is more similar, and
+and he was Daneel. But Councilman Trevize might is more similar, and
 he had that cool spaceship.
 
 *2020-3-22 11:40:33*
