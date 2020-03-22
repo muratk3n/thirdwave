@@ -57,10 +57,10 @@ Good
 
 Decentralization 👍
 
-@barriecassidy
+"@barriecassidy
 
 Has anybody yet picked up on the fact that the [Australian] premiers
-are now leading the country? And just as well.
+are now leading the country? And just as well"
 
 *2020-3-22 12:56:58*
 
