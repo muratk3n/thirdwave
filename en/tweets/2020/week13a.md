@@ -227,10 +227,11 @@ Governor handled the Coronavirus"
 ---
 
 Billionaires are on a basic income if you think abt it. Most of them
-arent really that smart, their money makes money. I mean who is a
-million times smarter than the next guy? Noone. Then that free money
-is a handout. Factor in all the regulatory, legal framework that
-allows them to keep it..
+arent really that smart, their money makes money. Get to a critical
+mass with come chicanery, off you go.. I mean who is a million times
+smarter than the next guy? Noone. Then that free money is a
+handout. Factor in all the regulatory, legal framework that allows
+them to keep it..
 
 *2020-3-21 19:14:34*
 
