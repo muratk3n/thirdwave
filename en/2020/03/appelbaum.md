@@ -61,7 +61,7 @@ even further
 
 * * *
 
-<a name="corp'/>
+<a name="corp"/>
 
 Proponents of faith in markets also developed a close relationship
 with the corporate elite, which was not as inevitable as it may seem
