@@ -30,13 +30,6 @@ Stawks!! Stawks!!
 
 ---
 
-Finally some tasteful music from upstairs.. Nearly everything from
-these muppets is tasteless.
-
-*2020-3-23 18:13:41*
-
----
-
 Triage is a bitch.
 
 Sad.
