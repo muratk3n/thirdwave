@@ -38,9 +38,9 @@ print ('\nUpdated:',datetime.datetime.now())
 ```
 
 ```text
-Total Confirmed 259684.0
+Total Confirmed 396236.0
 
-Updated: 2020-03-20 20:08:40.818544
+Updated: 2020-03-24 18:08:27.625802
 ```
 
 Death Rate
@@ -52,7 +52,7 @@ print ( 'Death Rate =', np.round(  death / (death + recov) * 100.0, 2) , '%')
 ```
 
 ```text
-Death Rate = 10.5 %
+Death Rate = 14.26 %
 ```
 
 ```python

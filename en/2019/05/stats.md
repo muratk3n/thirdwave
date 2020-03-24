@@ -1,4 +1,4 @@
-# Calculations, Data
+y# Calculations, Data
 
 Note: In order for Quandl retrieval to work, you need to get an API
 key from Quandl, and place the key in a `.quandl` file in the same
@@ -390,12 +390,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2020-03-16     98.152
-2020-03-17     99.804
 2020-03-18    101.543
 2020-03-19    103.605
+2020-03-20    103.502
+2020-03-23    103.240
 Name: Settle, dtype: float64
-[ 81.80734641 102.75072203]
+[ 81.80973039 102.75339709]
 ```
 
 ![](dollar.png)
@@ -587,12 +587,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-12           8.81
-2020-03-13           8.72
 2020-03-16           9.76
 2020-03-17           9.98
 2020-03-18          10.86
 2020-03-19          11.51
+2020-03-20          11.66
+2020-03-23          12.39
 ```
 
 ![](junkbond.png)
@@ -656,11 +656,11 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2020-03-16    82.690002
-2020-03-17    75.910004
 2020-03-18    76.449997
 2020-03-19    72.000000
 2020-03-20    66.040001
+2020-03-23    61.590000
+2020-03-24    54.220001
 Name: Adj Close, dtype: float64
 ```
 
