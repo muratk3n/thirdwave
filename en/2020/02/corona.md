@@ -269,7 +269,7 @@ Time Series
 
 
 ```python
-! wget https://raw.githubusercontent.com/datasets/covid-19/master/time-series-19-covid-combined.csv
+! wget https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 ! zip corona-time.zip time-series-19-covid-combined.csv
 ! rm time-series-19-covid-combined.csv
 ```
@@ -282,11 +282,30 @@ with zipfile.ZipFile('corona-time.zip', 'r') as z:
 df = df[['Date','Confirmed']]
 df = df.set_index('Date')
 confirmed = df.groupby('Date').sum()
+print (confirmed.tail(4))
 confirmed.plot()
 plt.savefig('timeseries.png')
 ```
 
+```text
+            Confirmed
+Date                 
+2020-03-20     272164
+2020-03-21     304519
+2020-03-22     337089
+2020-03-23     378547
+```
+
 ![](timeseries.png)
+
+
+```python
+confirmed.diff().plot()
+plt.savefig('rate.png')
+```
+
+![](rate.png)
+
 
 Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
