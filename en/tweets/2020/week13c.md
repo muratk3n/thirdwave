@@ -64,10 +64,8 @@ describe them"
 
 An Asterix image.. Looks like the Heil Hitler salute doesn't it?
 
-That's what these fuckers were man.. the original Nazis.
-
-Rome 1,2 and 3. And the Han. This ghosts of these cultures still
-haunts us all. They are the ultimate pest. 
+That's what they were.. the original Nazis. Rome 1,2 and 3. And the
+Han. This ghosts of these cultures still haunts us all. 
 
 <img widht="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUuuSvXOKnnrcepXX61NvahgQL2bKoVoS0LUSt-UUMav5pdT_B"/>
 
