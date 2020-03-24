@@ -3,9 +3,10 @@
 ```python
 import util, pandas as pd
 
-bins = [0, 20, 50, 100, 200, 1000, 2000, 100000]
-colors = ["mistyrose","lightsalmon","salmon",
-          "lightcoral","tomato","red","firebrick"]	      
+bins = [0, 20, 50, 100, 200, 1000, 2000, 10000, 100000,200000]
+colors = ["mistyrose","lightsalmon","salmon",\
+          "lightcoral", "tomato","red",\
+	  "indianred","firebrick","maroon"]
 df, col_dict = util.retrieve_cor_data(bins,colors)
 ```
 
@@ -311,3 +312,4 @@ Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3cou
 
 [Reference](https://www.worldometers.info/coronavirus/)
 
+[Colors](https://matplotlib.org/3.1.0/gallery/color/named_colors.html)
