@@ -64,9 +64,9 @@ is hilarious.
 Just listening to the Senate floor. It's a line of Republican Senators
 accusing Democrats of treason with an occasional Democratic Senator
 sometimes giving a speech on how bipartisan everyone is being and
-telling the GOP not to lose heart"
+telling the GOP not to lose heart.
 
-Bizarro land.
+Bizarro land"
 
 *2020-3-24 20:17:10*
 
