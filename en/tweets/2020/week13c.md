@@ -9,8 +9,8 @@ Corona update: 136K more in 4 days. Death rate now at 14.26 %.
 ---
 
 We all wish all this badness would go away with a great speech. That
-ship has sailed my friend... Substantial changes, pronto. Otherwise we
-are screwed.
+ship has sailed... Substantial changes, pronto. Otherwise we are
+screwed.
 
 *2020-3-24 18:7:4*
 
