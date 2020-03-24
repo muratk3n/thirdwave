@@ -9,9 +9,9 @@
 
 "@GeorgeGammon
 
-Right pointing backhand index Some say reaction to CV is worse than CV (Bc Econ damage)
+Some say reaction to CV is worse than CV (Bc Econ damage)
 
-I get it, but remember, CV didn’t force: Down pointing backhand index
+I get it, but remember, CV didn’t force: 
 
 1. Mkt cap/gdp 150%+
 
