@@ -301,7 +301,7 @@ Date
 
 
 ```python
-confirmed.pct_change().plot()
+(confirmed.pct_change()*100.0).plot()
 plt.title('Daily % Change')
 plt.savefig('rate.png')
 ```
