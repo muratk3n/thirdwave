@@ -570,7 +570,6 @@ plt.savefig('wilshire.png')
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
-import quandl
 
 today = datetime.datetime.now()
 start=datetime.datetime(1980, 1, 1)
@@ -650,21 +649,65 @@ df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-print (df.tail(5))
+print (df.tail(7))
 plt.savefig('vix.png')
 ```
 
 ```text
 Date
+2020-03-17    75.910004
 2020-03-18    76.449997
 2020-03-19    72.000000
 2020-03-20    66.040001
 2020-03-23    61.590000
-2020-03-24    54.220001
+2020-03-24    61.669998
+2020-03-25    61.099998
 Name: Adj Close, dtype: float64
 ```
 
 ![](vix.png)
+
+<a name="oil"></a>
+
+# Oil
+
+Futures, Continuous Contract, Front Month
+
+```python
+import datetime, quandl
+today = datetime.datetime.now()
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+df = quandl.get("CHRIS/CME_CL1-Crude-Oil-Futures-Continuous-Contract-1-CL1-Front-Month", 
+                returns="pandas",
+                start_date=start.strftime('%Y-%m-%d'),
+                end_date=end.strftime('%Y-%m-%d'),
+                authtoken=open(".quandl").read())
+df = df['Settle']
+print (df.tail(5))
+
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('oil.png')
+```
+
+```text
+Date
+2020-03-18    20.37
+2020-03-19    25.22
+2020-03-20    22.43
+2020-03-23    23.36
+2020-03-24    24.01
+Name: Settle, dtype: float64
+```
+
+
+
+
+
+
+
 
 
 
