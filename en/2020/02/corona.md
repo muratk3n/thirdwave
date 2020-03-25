@@ -309,6 +309,16 @@ plt.savefig('rate.png')
 ![](rate.png)
 
 
+```python
+avg_since_mar1 = confirmed[confirmed > '2020-03-01'].pct_change().mean()
+print ('avg daily chg since march', np.round(np.float(avg_since_mar1 * 100.0),2), '%')
+```
+
+```text
+avg daily chg since march 12.23 %
+```
+
+
 Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Reference](https://www.worldometers.info/coronavirus/)
