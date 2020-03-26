@@ -28,14 +28,6 @@ Dude that line upwards has no paralel. Effin freaky shit!
 
 ---
 
-Very good
-
-[Link](https://mobile.twitter.com/HoarseWisperer/status/1242879985024741382)
-
-*2020-3-26 15:56:14*
-
----
-
 Desync ASAP. Otherwise soc is bunch of ppl standing around with
 fingers up eachother's ass forming a circle fine for kumbaya not for
 anything else
