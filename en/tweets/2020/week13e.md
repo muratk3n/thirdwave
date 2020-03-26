@@ -8,7 +8,7 @@
 
 Corona update, 93K in 2 days. Death rate 15.85 %. 
 
-Average daily increase since March 1, 12.23 %.
+Average daily increase since March 1 is 12.23 %.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
