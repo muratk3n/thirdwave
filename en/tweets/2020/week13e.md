@@ -82,42 +82,6 @@ gotta climb down first and move over to the other mountain.
 
 ---
 
-Great Depression SP500 Overlay. Red 2020, blue 1929.
-
-<img width="340" src="https://pbs.twimg.com/media/EUA-NN9XsAAcq1k?format=png&name=small"/>
-
-Interesting, in terms of percentages what happened during Depression
-happened much faster now. Because we are talking bigger market caps,
-changes in absolute numbers are huge.
-
-
-```python
-import pandas as pd, datetime
-import pandas_datareader.data as web
-
-today = datetime.datetime.now()
-start=datetime.datetime(1920, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader("^GSPC", 'yahoo', start, end)[['Adj Close']]
-df2 = df.copy()
-df2 = df[df.index > '1929-09-01']
-df2 = df2.head(1000)
-df2 = df2.reset_index()
-tmp = np.array(df[df.index > '2020-01-01'])
-df2.ix[range(len(tmp)),'dep2'] = tmp
-df2 = df2.set_index('Date')
-df2.columns = ['Depression 1','Depression 2']
-ax1 = df2['Depression 1'].plot(color='blue', grid=True)
-ax2 = df2['Depression 2'].plot(color='red', grid=True, secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.savefig('dep.png')
-```
-
-*2020-3-25 21:10:8*
-
----
-
 @RheaButcher
 
 2004: don’t eat French fries or else you hate America 
