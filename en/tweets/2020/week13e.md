@@ -1,6 +1,6 @@
 # Tweets - Log
 
-<img width="240" src="https://iruntheinternet.com/lulzdump/images/seinfeld-kramer-screaming-blood-transplant-hospital-1415053295A.gif".>
+<img width="240" src="https://iruntheinternet.com/lulzdump/images/seinfeld-kramer-screaming-blood-transplant-hospital-1415053295A.gif">
 
 *2020-3-26 16:28:52*
 
