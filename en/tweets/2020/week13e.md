@@ -114,6 +114,10 @@ h2, l2 = ax2.get_legend_handles_labels()
 plt.savefig('dep.png')
 ```
 
+*2020-3-25 21:10:8*
+
+---
+
 @RheaButcher
 
 2004: don’t eat French fries or else you hate America 
