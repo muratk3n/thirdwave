@@ -1,6 +1,16 @@
 # Tweets - Week 13f
 
+"@teatotalitarian
 
+The damage without intervention is incalcuable.  You can't sell to
+people with no $ or jobs.  The economy was struggling post fires. You
+cant stimulate an economy by saddling all with more private debt. Be
+like NZ 80% subsidies and rent mortgage/freezes. NZ will emerge
+unscathed"
+
+*2020-3-27 14:24:1*
+
+---
 Former Fed Chair Ben Bernanke: “Nothing is going to work, the Fed is
 not going help, fiscal policy is not going to help, if we don’t get
 the public health right — if we don’t solve the problem of the virus."
