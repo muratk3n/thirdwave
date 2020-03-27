@@ -1,5 +1,4 @@
-# Tweets - Log
-
+# Tweets - Week 13d
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the problem you&#39;re solving for is &quot;why won&#39;t they take my money,&quot; you are doing a bad job negotiating. <a href="https://t.co/kR7xZ5JXhG">https://t.co/kR7xZ5JXhG</a></p>&mdash; Corey Frayer (@csfrayer) <a href="https://twitter.com/csfrayer/status/1242514766821818372?ref_src=twsrc%5Etfw">March 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
