@@ -1,5 +1,14 @@
 # Tweets - Week 13f
 
+
+Goldtards, libertards are eagerly waiting for a dollar collapse - will
+it be our time..? Is it now? Bitcointards are right next to them,
+hoping to get some spoils.
+
+*2020-3-27 14:26:9*
+
+---
+
 "@teatotalitarian
 
 The damage without intervention is incalcuable.  You can't sell to
@@ -11,6 +20,7 @@ unscathed"
 *2020-3-27 14:24:1*
 
 ---
+
 Former Fed Chair Ben Bernanke: “Nothing is going to work, the Fed is
 not going help, fiscal policy is not going to help, if we don’t get
 the public health right — if we don’t solve the problem of the virus."
