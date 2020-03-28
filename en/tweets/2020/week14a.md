@@ -110,6 +110,8 @@ Rather than raising taxes on billionaires to deal with a budget
 shortfall, @NYGovCuomo is instead trying to cut Medicaid during a
 lethal pandemic"
 
+*2020-3-28 10:02:4*
+
 ---
 
 He says states are mandated to balance their budgets. Tax revenue
