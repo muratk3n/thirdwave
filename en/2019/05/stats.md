@@ -141,6 +141,8 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 
 <a name="cycle"/>
 
+![](cycle.png)
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
@@ -149,31 +151,24 @@ today = datetime.datetime.now()
 start=datetime.datetime(1970, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 
-df = data.DataReader(['GDPC1'], 'fred', start, end)
-df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-
-print (df[['gdpyoy']].tail(6))
-
 fig, axs = plt.subplots(2)
 
+df = data.DataReader(['GDPC1'], 'fred', start, end)
+df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
 df['gdpyoy'].plot(ax=axs[0])
-
 axs[0].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+print (df[['gdpyoy']].tail(6))
 
 df = data.DataReader(['CPIAUCNS'], 'fred', start, end)
-
 df['infyoy'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
-
 df['infyoy'].plot(ax=axs[1])
-
 axs[1].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[1].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-      
 print (df[['infyoy']].tail(6))
-      
+            
 plt.savefig('cycle.png')
 ```
 
@@ -195,8 +190,6 @@ DATE
 2020-01-01  2.486572
 2020-02-01  2.334874
 ```
-
-![](cycle.png)
 
 
 ## Wages and Unemployment
