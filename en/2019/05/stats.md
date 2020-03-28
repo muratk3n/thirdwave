@@ -155,7 +155,7 @@ fig, axs = plt.subplots(2)
 
 df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-df['gdpyoy'].plot(ax=axs[0])
+df['gdpyoy'].plot(ax=axs[0],title="GDP and Inflation YoY")
 axs[0].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
