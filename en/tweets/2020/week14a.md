@@ -51,7 +51,7 @@ Is this correct? To simplify matters I'd just send the money to
 everyone. Sure rich ppl would get it too but there arent that many of
 them anyway (isnt that part of the problem to begin with?) so no harm
 done. Hell even some of the rich can end up poor after recent changes
-in the markets maybe they wld need that check soon! Wouldnt that be
+in the markets maybe they'd need that check soon! Wouldnt that be
 something?
 
 *2020-3-28 14:56:17*
