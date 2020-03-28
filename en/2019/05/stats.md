@@ -144,7 +144,6 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
-import quandl
 
 today = datetime.datetime.now()
 start=datetime.datetime(1970, 1, 1)
@@ -705,10 +704,28 @@ Name: Settle, dtype: float64
 
 ![](oil.png)
 
+<a name="credit"/>
 
+# Credit to GDP
 
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
 
+today = datetime.datetime.now()
+start=datetime.datetime(1960, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
 
+df = data.DataReader(['GDPC1','QUSPAMUSDA'], 'fred', start, end)
+df['Credit to GDP'] = (df.QUSPAMUSDA / df.GDPC1)*100.0
+df['Credit to GDP'].plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('creditgdp.png')
+```
+
+![](creditgdp.png)
 
 
 
