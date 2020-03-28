@@ -710,7 +710,7 @@ Name: Settle, dtype: float64
 
 <a name="credit"/>
 
-# Credit to GDP
+# Private Debt to GDP Ratio
 
 ```python
 import pandas as pd, datetime
