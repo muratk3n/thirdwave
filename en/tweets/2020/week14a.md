@@ -102,7 +102,7 @@ It's proven that:
 
 ---
 
-Money running out due to so many emergencies?
+Money running out.. ?
 
 "@davidsirota
 
