@@ -40,8 +40,8 @@ Massie was flamed by Kerry. They have history apparently. From Wiki
 >responded, "Are you serious? I mean this is really a serious happening
 >here?"
 
-Massie comes cross as climate deniertard but then he built himself
-house running on solar. Weird.
+Guy comes cross as climate deniertard but then he built himself house
+running on solar. Weird.
 
 *2020-3-28 15:31:43*
 
