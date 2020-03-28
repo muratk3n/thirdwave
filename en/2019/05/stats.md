@@ -608,13 +608,15 @@ DATE
 import pandas as pd, datetime
 from pandas_datareader import data
 
+pd.set_option('display.max_columns', 10)
+
 today = datetime.datetime.now()
 start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['DGS10','DGS3MO']
 df = data.DataReader(cols, 'fred', start, end)
 df['Yield Curve'] = df.DGS10 - df.DGS3MO
-print (df['Yield Curve'].tail(6))
+print (df.tail(6))
 df['Yield Curve'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -623,14 +625,14 @@ plt.savefig('yield-curve.png')
 ```
 
 ```text
-DATE
-2020-03-12    0.55
-2020-03-13    0.66
-2020-03-16    0.49
-2020-03-17    0.83
-2020-03-18    1.16
-2020-03-19    1.08
-Freq: B, Name: Yield Curve, dtype: float64
+            DGS10  DGS3MO  Yield Curve
+DATE                                  
+2020-03-19   1.12    0.04         1.08
+2020-03-20   0.92    0.05         0.87
+2020-03-23   0.76    0.02         0.74
+2020-03-24   0.84    0.01         0.83
+2020-03-25   0.88    0.00         0.88
+2020-03-26   0.83    0.00         0.83
 ```
 
 ![](yield-curve.png)
