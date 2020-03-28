@@ -144,7 +144,7 @@ owed something"
 
 ---
 
-A shoddy institution of modernity. A glorofied day care center for
+A shoddy institution of modernity. A glorified day care center for
 parents to park their kids in while they are off in their useless rat
 race.
 
