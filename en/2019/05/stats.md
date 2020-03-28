@@ -154,7 +154,7 @@ df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
 
 print (df[['gdpyoy']].tail(6))
 
-fig, axs = plt.subplots(2,sharex=True)
+fig, axs = plt.subplots(2)
 
 df['gdpyoy'].plot(ax=axs[0])
 
