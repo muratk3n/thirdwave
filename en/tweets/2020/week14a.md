@@ -145,7 +145,7 @@ owed something"
 ---
 
 A shoddy institution of modernity. A glorified day care center for
-parents to park their kids in while they are off in their useless rat
+parents to park their kids in while they are off to their useless rat
 race.
 
 "@PereGrimmer
