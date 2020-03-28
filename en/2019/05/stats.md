@@ -137,6 +137,60 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 [49.04746888 51.49610372] 50.27178630069573
 ```
 
+## The Cycle
+
+<a name="cycle"/>
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+import quandl
+
+today = datetime.datetime.now()
+start=datetime.datetime(1970, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+
+df = data.DataReader(['GDPC1','CPIAUCNS'], 'fred', start, end)
+
+df = df.dropna()
+
+df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
+
+df['infyoy'] = (df.CPIAUCNS - df.CPIAUCNS.shift(4)) / df.CPIAUCNS.shift(4) * 100.0
+
+fig, axs = plt.subplots(2,sharex=True)
+
+df['gdpyoy'].plot(ax=axs[0])
+
+axs[0].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+axs[0].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+axs[0].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+
+df['infyoy'].plot(ax=axs[1])
+
+axs[1].axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+axs[1].axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+axs[1].axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+
+print (df[['gdpyoy','infyoy']].tail(6))
+      
+plt.savefig('cycle.png')
+```
+
+```text
+              gdpyoy    infyoy
+DATE                          
+2018-07-01  3.133538  2.949515
+2018-10-01  2.516496  2.522470
+2019-01-01  2.652241  1.551235
+2019-04-01  2.278320  1.996440
+2019-07-01  2.073335  1.811465
+2019-10-01  2.334074  1.764043
+```
+
+![](cycle.png)
+
+
 ## Wages and Unemployment
 
 <a name="unemp"></a>
@@ -282,60 +336,7 @@ Name: PMI, dtype: float64
 
 ![](pmi.png)
 
-<a name="gdpyoy"></a>
 
-# GDP YoY
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-
-today = datetime.datetime.now()
-start=datetime.datetime(1950, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['GDPC1']
-df = data.DataReader(cols, 'fred', start, end)
-
-df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-print (df.tail(10))
-```
-
-```text
-                GDPC1    gdpyoy
-DATE                           
-2017-07-01  18163.558  2.416026
-2017-10-01  18322.464  2.795257
-2018-01-01  18438.254  2.861873
-2018-04-01  18598.135  3.202294
-2018-07-01  18732.720  3.133538
-2018-10-01  18783.548  2.516496
-2019-01-01  18927.281  2.652241
-2019-04-01  19021.860  2.278320
-2019-07-01  19121.112  2.073335
-2019-10-01  19220.490  2.326195
-```
-
-<a name="infyoy"></a>
-
-# Inflation
-
-```python
-import quandl
-df = quandl.get("RATEINF/INFLATION_USA-Inflation-YOY-USA", 
-                returns="pandas",authtoken=open(".quandl").read())
-print (df.tail(6))
-```
-
-```text
-            Value
-Date             
-2019-09-30  1.711
-2019-10-31  1.764
-2019-11-30  2.051
-2019-12-31  2.285
-2020-01-31  2.487
-2020-02-29  2.335
-```
 
 <a name="cpyoy"></a>
 
