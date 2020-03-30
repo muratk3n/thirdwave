@@ -379,7 +379,7 @@ pushed me over edge”. Does Corona effectively end the rush to cities?"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EUOXuFwUEAEVDk5?format=jpg&name=small"/>
+<img width="240" src="https://pbs.twimg.com/media/EUOXuFwUEAEVDk5?format=jpg&name=small"/>
 
 *2020-3-29 0:49:13*
 
@@ -407,7 +407,7 @@ GM was saved by Obama admin, for its electric car Bolt. Then GM
 continued on that idiotic path, so now the idiot investor chasing
 "value" looks out there and sees these options... But that particular
 palette of choices were created for you friend. Spoon fed to you by
-Obama, picking your "winner" for you. 
+Obama, picking your "winner" for you. How's that feel?
 
 *2020-3-29 0:43:6*
 
