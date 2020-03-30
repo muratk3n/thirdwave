@@ -403,6 +403,16 @@ before travel was restricted (NYT).
 
 ---
 
+GM was saved by Obama admin, for its electric car Bolt. Then GM
+continued on that idiotic path, so now the idiot investor chasing
+"value" looks out there and sees these options... But that particular
+palette of choices were created for you friend. Spoon fed to you by
+Obama, picking your "winner" for you. 
+
+*2020-3-29 0:43:6*
+
+---
+
 Right, high yield came back from 12.39% down to 10.64%. 
 
 *2020-3-28 23:37:8*
@@ -439,21 +449,4 @@ the daily press - luckily"
 *2020-3-28 21:44:15*
 
 ---
-
-GM was saved by Obama admin, for its electric car Bolt. Then GM
-continued on that idiotic path, so now the idiot investor chasing
-"value" looks out there and sees these options. But that particular
-palette of choices were created for you, my friend. Spoon fed to you
-by Obama, picking your "winner" for you. Free-market hot shot..
-you?
-
-*2020-3-28 21:41:5*
-
----
-
-
-
-
-
-
 
