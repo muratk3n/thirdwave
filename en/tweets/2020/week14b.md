@@ -274,11 +274,10 @@ it strangle the economy"
 
 "@zacharylipton
 
-Why is ML 'taking over' so many adjacent fields, stealing the
-spotlight & overshadowing (often-comparable) work? The rapid pace of
-innovation? The talent? The tooling? I'm inclined to think the major
-(unsung?) factor might just be the universality of \*\*\*open-access
-publishing\*\*\*.
+Why is ML [machine learning] .. stealing the spotlight & overshadowing
+(often-comparable) work? The rapid pace of innovation? The talent? The
+tooling? I'm inclined to think the major (unsung?) factor might just
+be the universality of \*\*\*open-access publishing\*\*\*.
 
 I've tried for hours today to access a desired chapter in a philosophy
 volume that is relevant to my work. Eventually gave up. This pay-wall
