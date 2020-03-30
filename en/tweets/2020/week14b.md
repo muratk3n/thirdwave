@@ -250,7 +250,7 @@ coronavirus'"
 
 ---
 
-[Michael Hudson] "You talked about the current generation having to pay
+Michael Hudson: "You talked about the current generation having to pay
 off the depths of their predecessors. They’re not going to pay them
 off, these debts cannot be paid off. They can go bankrupt, they can
 starve, they can die sooner, but they cannot pay off the
