@@ -62,12 +62,10 @@ get lighter, eventually hopefully all clean.
 
 Death rate: now that China's new cases slowed the fate of most of the
 patients became clear, and if we believe their numbers, death rate is
-near 4%.
-
-It sure as shit is not 1%...
+near 4%. It sure as shit is not 1% tho...
 
 As comparison the Spanish Flu death rate was 2%, it killed 50 million
-among population less in numbers at the time.
+in a population much less in numbers compared to now.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
