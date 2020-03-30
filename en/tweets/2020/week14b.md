@@ -201,12 +201,7 @@ had @Bloom_Energy get to work fixing them"
 ---
 
 OooooOoooo putting the Bern to task are we? Well he could say
-
-[Link](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK_UJ4Ju62DWoUuRVM2Yqq6_Y5QfCuexjfeBa6FpV3UYib2Xz_)
-
-*2020-3-29 21:55:39*
-
----
+[this](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK_UJ4Ju62DWoUuRVM2Yqq6_Y5QfCuexjfeBa6FpV3UYib2Xz_)
 
 "@BenLaBolt
 
