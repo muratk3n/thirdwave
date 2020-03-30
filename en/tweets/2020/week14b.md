@@ -185,7 +185,7 @@ Bloom Energy is a BUY.
 
 ---
 
-That's a good move by GN - to get stuff done go to fuel-cell
+That's a good move by GN. Want to get stuff done, go to fuel-cell
 guys. They are smart. __That's why they are into fuel-cells__.
 
 "@GavinNewsom
