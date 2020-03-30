@@ -135,7 +135,7 @@ designed the test"
 
 Heard "there is deceleration of new covid cases in New York". Checked,
 there is some slowdown. Still I wouldnt call this flattening of the
-curve. Daily percent changes calculated below:
+curve. Daily percent changes calculated below. Made use of NYT data. 
 
 ```python
 import pandas as pd, os
