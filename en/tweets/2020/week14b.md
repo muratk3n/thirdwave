@@ -334,7 +334,7 @@ be public anyway. Post-CV feature request.
 ---
 
 Read somewhere the EU coronabond debate morphed into a continuation of
-the Eurobonds debate. The Nordics do not want either.
+the Eurobonds debate. "The North" do not want either.
 
 *2020-3-29 8:9:6*
 
