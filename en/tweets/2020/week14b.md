@@ -230,9 +230,9 @@ Enterprise Value / EBITDA to check bubbleness. Good stuff. [@Hedgeeye](https://t
 Values over 10 near 20 signals bubbleness.
 
 ```python
-import yahoofinancials2
-print (yahoofinancials2.get_EVEbit('AAPL'))
-print (yahoofinancials2.get_EVEbit('MSFT'))
+import yf
+print (yf.get_EVEbit('AAPL'))
+print (yf.get_EVEbit('MSFT'))
 ```
 
 ```text
