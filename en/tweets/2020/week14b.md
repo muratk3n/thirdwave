@@ -240,7 +240,7 @@ print (yf.get_EVEbit('MSFT'))
 17.79
 ```
 
-New util [code](yahoofinancials2.py), other scraper fails.
+New util [code](yf.py), other scraper fails.
 
 *2020-3-29 20:35:3*
 
