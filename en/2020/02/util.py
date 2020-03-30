@@ -11,16 +11,24 @@ def retrieve_cor_data(bins,colors):
     df1['Country'] = df1['Country'].str.replace("UAE","United Arab Emirates")
     df1['Country'] = df1['Country'].str.replace("UK","United Kingdom")
     df1['Country'] = df1['Country'].str.replace("Czechia","Czech Republic")
+
+    df1['Confirmed'] = df1['Confirmed'].str.replace(",","").astype(np.float)
+    df1['Deaths'] = df1['Deaths'].str.replace(",","").astype(np.float)
+    df1['Recovered'] = df1['Recovered'].str.replace(",","").astype(np.float)    
+    df1['NewCases'] = df1.Confirmed - (df1.Deaths+df1.Recovered)
     
-    d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
+    #d1 = df1[['Country','Confirmed']].set_index('Country').to_dict()
+    d1 = df1[['Country','NewCases']].set_index('Country').to_dict()
     df2 = pd.read_csv('alpha3country.csv',sep=',', skipinitialspace=True)
     
     d2 = df2[['Country','Alpha-3 code']].set_index('Country').to_dict()
 
     res = []
-    for c in d1['Confirmed'].keys():
+    #for c in d1['Confirmed'].keys():
+    for c in d1['NewCases'].keys():
         code = d2['Alpha-3 code'].get(c.strip())
-        val = float(d1['Confirmed'][c].replace(",",""))
+        #val = float(d1['Confirmed'][c].replace(",",""))
+        val = d1['NewCases'][c]
         if code: res.append([val, code])
 
     df = pd.DataFrame(res)
