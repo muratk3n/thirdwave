@@ -119,8 +119,8 @@ still don't GET IT"
 
 ---
 
-Haha.. not V, L, W but diminishing sine wave.. Japanification?  This
-is probably where US is headed unless it gets rid of its debt
+Haha.. not V, L, W but diminishing sine.. Very funny. Japanification?
+This is probably where US is headed unless it gets rid of its debt
 overhang.
 
 "@tracyalloway 
@@ -183,8 +183,6 @@ on till something eventually gives"
 *2020-3-31 0:41:58*
 
 ---
-
-If lawmakers had some spine, this would get fixed yesterday.
 
 "@matthewstoller
 
