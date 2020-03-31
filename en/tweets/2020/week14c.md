@@ -12,7 +12,8 @@ decision-makers, etc. Important job.
 
 ---
 
-COV, 113K in 1 day. Mongolia is doing grrreeeat.
+COV, 113K in 1 day. Mongolia is the place to be - not much going on,
+ride your horses eat your General Genghis Khan's Chicken. 
 
 There is a global deceleration tho.. good. Down to 8.6% daily chg from
 13% 4 days ago.
