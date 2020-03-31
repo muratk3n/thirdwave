@@ -253,12 +253,6 @@ Live by capitalism die by capitalism
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NBC News: 14% of the NYPD&#39;s uniformed members are out sick today. That&#39;s 5,208 members out sick, 5x the daily normal, a senior NYPD official says. <br><br>In total, 930 members of the Department have tested positive. That&#39;s 824 uniformed members and 106 civilians.</p>&mdash; Tom Winter (@Tom_Winter) <a href="https://twitter.com/Tom_Winter/status/1244661478961164289?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 19:38:40*
-
----
-
 This is not the same as electronic banking. With elec banking u have
 to figure out the myriad ways your bank allows electronic access. With
 crypto, receiving payments is as easy as receiving a chat message.
