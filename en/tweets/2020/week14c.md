@@ -29,26 +29,6 @@ There is a global deceleration tho.. good. Down to 8.6% daily chg from
 
 ---
 
-"New York Governor Andrew Cuomo has long had an uneasy relationship
-with both the media and the overwhelmingly Democratic residents of his
-state. He has let the vital New York City subway fall into ruin,
-actively connived with Republicans to give them control of the state
-Senate, and generally been a thorn in the side of anyone who wants to
-do anything good. But now, thanks to the novel coronavirus outbreak,
-suddenly everyone loves him. He's getting breathless (even lustful)
-media coverage, and his approval rating has jumped by 27 points.
-
-Don't be fooled, though: Cuomo has royally messed up the coronavirus
-outbreak, just like he has everything else. If you want an example of
-effective crisis leadership, look to Washington state Governor Jay
-Inslee"
-
-[Link](https://theweek.com/articles-amp/905612/washington-gov-jay-inslee-what-real-coronavirus-leadership-looks-like)
-
-*2020-3-31 19:20:38*
-
----
-
 "@plutokiller
 
 A hopeful article on how we might already be seeing benefits of social distancing"
@@ -121,7 +101,7 @@ still don't GET IT"
 
 Haha.. not V, L, W but diminishing sine.. Very funny. Japanification?
 This is probably where US is headed unless it gets rid of its debt
-overhang.
+overhang. 
 
 "@tracyalloway 
 
