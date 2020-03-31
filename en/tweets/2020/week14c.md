@@ -14,6 +14,9 @@ decision-makers, etc. Important job.
 
 COV, 113K in 1 day. Mongolia is doing grrreeeat.
 
+There is a global deceleration tho.. good. Down 8.6% daily chg from
+13% 4 days ago.
+
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
 *2020-3-31 20:57:20*

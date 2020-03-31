@@ -288,32 +288,35 @@ plt.savefig('timeseries.png')
 ```text
             Confirmed
 Date                 
-2020-03-23     378235
-2020-03-24     418045
-2020-03-25     467653
-2020-03-26     529591
+2020-03-27   593291.0
+2020-03-28   660706.0
+2020-03-29   720117.0
+2020-03-30   782365.0
 ```
 
 ![](timeseries.png)
 
 
 ```python
-(confirmed.pct_change()*100.0).plot()
+chg = confirmed.pct_change()*100.0
+chg.plot()
+print (chg.tail(5))
 plt.title('Daily % Change')
 plt.savefig('rate.png')
 ```
 
+```text
+            Confirmed
+Date                 
+2020-03-26  13.244436
+2020-03-27  12.028150
+2020-03-28  11.362889
+2020-03-29   8.992048
+2020-03-30   8.644151
+```
+
 ![](rate.png)
 
-
-```python
-avg_since_mar1 = confirmed[confirmed > '2020-03-01'].pct_change().mean()
-print ('avg daily chg since march', np.round(np.float(avg_since_mar1 * 100.0),2), '%')
-```
-
-```text
-avg daily chg since march 12.21 %
-```
 
 County Level Data (NYT)
 
