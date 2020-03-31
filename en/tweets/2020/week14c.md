@@ -265,11 +265,11 @@ crypto, receiving payments is as easy as receiving a chat message.
 
 *2020-3-30 19:30:29*
 
---
+---
 
-It's so effin sad. So much more can be done technologicallly. Open a
-Nano acct, register that address with the government and they can wire
-any payment to you at the speed of light. This technology exists.
+Sad. So much more can be done technologicallly. Open a Nano acct,
+register that address with the government and they can wire any
+payment to you at the speed of light. This technology exists.
 
 *2020-3-30 19:27:21*
 
