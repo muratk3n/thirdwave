@@ -230,15 +230,6 @@ to their cold weather.
 
 ---
 
-I'd read a gushing tweetpinion on Governor Fredo the other day by a
-fin guy I could not make sense of it.. Now it makes sense. Guy is rich
-and in NY, Fredo did not raise his taxes, so he is happy. Simple as
-that.
-
-*2020-3-30 21:26:17*
-
----
-
 Live by capitalism die by capitalism
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;By the end of the day, roughly 280 million masks from warehouses around the U.S. had been purchased by foreign buyers and were earmarked to leave the country, according to the broker — and that was in one day.&quot; <a href="https://t.co/6pqntPKfF0">https://t.co/6pqntPKfF0</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1244675351676178432?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
