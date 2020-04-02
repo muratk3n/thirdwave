@@ -1,7 +1,9 @@
 # Tweets - Week 14d
 
 COV update, 109K more new confirmed cases in 2 days. Daily inc rate is
-down around 8%. 
+down around 8%.
+
+[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
 *2020-4-2 13:2:27*
 
