@@ -45,7 +45,7 @@ Total Confirmed 946875.0
 Updated: 2020-04-02 12:58:56.913111
 ```
 
-Sympotatic Death Rate
+Symptomatic Death Rate
 
 ```python
 recov = df['Recovered'].sum() 
