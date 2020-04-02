@@ -26,9 +26,8 @@ will die.
 ---
 
 OK.. let's play. Let's say the 20% kill rate is among the
-symptomatic. Then how do we get the the ratio of ppl who 1) get
-infected in the entire population 2) if they are infected, become
-symptomatic.
+symptomatic. Then how do we get the ratio of ppl who 1) get infected
+in the entire population 2) if they are infected, become symptomatic.
 
 Remember those cruise ships? They are great petri dishes. You know the
 virus reached everyone it could in those ships. From [CNN](https://edition.cnn.com/2020/03/24/us/diamond-princess-cruise-ship-asymptomatic-tests/index.html)
