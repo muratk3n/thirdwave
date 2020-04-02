@@ -1,7 +1,11 @@
 # Tweets - Week 14d
 
-COV update, 109K in 2 days, 
+COV update, 109K more new confirmed cases in 2 days. Daily inc rate is
+down around 8%. 
 
+*2020-4-2 13:2:27*
+
+---
 
 "We dont know the real divisor of the virus infected to calculate the
 real death rate". OK.. let's play. Let's say the 20% kill rate is
