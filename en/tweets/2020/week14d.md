@@ -17,8 +17,8 @@ RIP. TTUD was a good movie.
 
 ---
 
-What does Spanish Flu levels death mean? It is said most ppl actively
-have 200 ppl in their immediate network. 10 of them will die.
+What does Spanish Flu levels death rate mean? A stat says most ppl
+actively have 200 ppl in their immediate network. 4 of them will die.
 
 *2020-4-2 13:0:4*
 
