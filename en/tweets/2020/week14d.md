@@ -25,7 +25,7 @@ will die.
 
 ---
 
-1.7 is a baseline BTW. Didn't Merkel say this thing will reach 70% of
+1.7% is a baseline BTW. Didn't Merkel say this thing will reach 70% of
 Germany? I dont know which model was used there, but take that for the
 whole world, then
 
