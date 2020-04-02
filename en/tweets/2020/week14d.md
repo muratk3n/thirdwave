@@ -7,7 +7,7 @@ down around 8%.
 
 ---
 
-Good movie. RIP.
+RIP. TTUD was a good movie. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There would be no Playtone without Adam Schlesinger, without his That Thing You Do! He was a One-der. Lost him to Covid-19. Terribly sad today. Hanx</p>&mdash; Tom Hanks (@tomhanks) <a href="https://twitter.com/tomhanks/status/1245507869618737152?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
