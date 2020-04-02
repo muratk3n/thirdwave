@@ -242,6 +242,8 @@ the Job in Colorado
 Unpayable Corporate Debt: A Brady Bond Solution for America’s Economic
 Crisis
 
+\#hudson
+
 [Link](https://michael-hudson.com/2020/03/unpayable-corporate-debt-a-brady-bond-solution-for-americas-economic-crisis/)
 
 *2020-4-1 9:29:28*
