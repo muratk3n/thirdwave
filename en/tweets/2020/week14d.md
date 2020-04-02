@@ -24,10 +24,9 @@ have 200 ppl in their immediate network. 10 of them will die.
 
 ---
 
-"We dont know the real divisor of the virus infected to calculate the
-real death rate". OK.. let's play. Let's say the 20% kill rate is
-among the symptomatic. Then how do we get the the ratio of ppl who 1)
-get infected in the entire population 2) if they are infected, become
+OK.. let's play. Let's say the 20% kill rate is among the
+symptomatic. Then how do we get the the ratio of ppl who 1) get
+infected in the entire population 2) if they are infected, become
 symptomatic.
 
 Remember those cruise ships? They are great petri dishes. You know the
@@ -64,6 +63,9 @@ Some say, okay, but in those cruise ships there was too much
 contact. Well that's why you reduce contact because it is as bad as
 the FRICKIN SPPANISH FLU. We gain time, reduce deaths, in the meantime
 work on treatment etc.
+
+"We dont know the real divisor of the virus infected to calculate the
+real death rate".
 
 *2020-4-2 7:57:11*
 
