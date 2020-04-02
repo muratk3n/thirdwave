@@ -205,20 +205,6 @@ Independent Spirit' and 'Say No' to Unions"
 
 ---
 
-There are cats, stray dogs all arond in Tiggerland, ppl are still
-village minded, they like seeing animals around, probably to have sex
-with them later if needed. People leave food around for them to
-eat. They tolerate ravens who are loud as shit.  Dogs get marked by
-muni but these are still dogs form bands bark at other dogs, customers
-are like WTF? Now we find out cats can transmit COVID.
-
-Tigger is patently an imbecil. If you think your culture is bad think
-again - there is always worse.
-
-*2020-4-1 14:23:1*
-
----
-
 Cats!
 
 "We found that SARS-CoV-2 replicates poorly in dogs, pigs, chickens,
