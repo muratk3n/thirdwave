@@ -5,7 +5,7 @@ down around 8%.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
-*2020-4-2 13:2:27*
+*2020-4-2 13:8:1*
 
 ---
 
@@ -13,13 +13,31 @@ RIP. TTUD was a good movie.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There would be no Playtone without Adam Schlesinger, without his That Thing You Do! He was a One-der. Lost him to Covid-19. Terribly sad today. Hanx</p>&mdash; Tom Hanks (@tomhanks) <a href="https://twitter.com/tomhanks/status/1245507869618737152?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-2 13:1:24*
+*2020-4-2 13:5:4*
 
 ---
 
 What does Spanish Flu levels death rate mean? A stat says most ppl
 actively have 200 ppl in their immediate network. Then 4 ppl you know
 will die.
+
+*2020-4-2 13:3:1*
+
+---
+
+1.7 is a baseline BTW. Didn't Merkel say this thing will reach 70% of
+Germany? I dont know which model was used there, but take that for the
+whole world, then
+
+```python
+np.round((0.5 * 0.70 * 0.20) * 100.0, 2)
+```
+
+```text
+Out[1]: 7.0
+```
+
+7% global death rate. A crazy number.
 
 *2020-4-2 13:0:4*
 
