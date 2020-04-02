@@ -244,6 +244,12 @@ df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
 df3['unempl'] = 100.0 - df3.CIVPART
 print (df3['wagegrowth'].tail(7))
+plt.figure(figsize=(14, 5))
+plt.subplot(121)
+df3['wagegrowth'].plot(title='Wave Growth')
+plt.subplot(122)
+df3['unempl'].plot(title='Unemployment') 
+plt.savefig('unemploy.png')
 ```
 
 ```text
@@ -256,15 +262,6 @@ DATE
 2019-07-01    2.987304
 2019-10-01    2.965159
 Freq: 3MS, Name: wagegrowth, dtype: float64
-```
-
-```python
-plt.figure(figsize=(14, 5))
-plt.subplot(121)
-df3['wagegrowth'].plot(title='Wave Growth')
-plt.subplot(122)
-df3['unempl'].plot(title='Unemployment') 
-plt.savefig('unemploy.png')
 ```
 
 ![](unemploy.png)
@@ -290,12 +287,12 @@ plt.savefig('icsa.png')
 ```
 
 ```text
-                 ICSA
-DATE                 
-2020-02-29        NaN
-2020-03-07   211000.0
-2020-03-14   282000.0
-2020-03-21  3283000.0
+               ICSA
+DATE               
+2020-03-07   211000
+2020-03-14   282000
+2020-03-21  3307000
+2020-03-28  6648000
 ```
 
 ![](icsa.png)
@@ -328,10 +325,10 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-11-01    48.1
 2019-12-01    47.8
 2020-01-01    50.9
 2020-02-01    50.1
+2020-03-01    49.1
 Name: PMI, dtype: float64
 ```
 
@@ -391,12 +388,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2020-03-24    102.247
-2020-03-25    100.997
-2020-03-26     99.453
-2020-03-27     98.537
+2020-03-27    98.537
+2020-03-30    99.281
+2020-03-31    99.092
+2020-04-01    99.753
 Name: Settle, dtype: float64
-[ 81.814331   102.75611532]
+[ 81.8177226  102.75757055]
 ```
 
 ![](dollar.png)
@@ -697,11 +694,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-03-23    23.36
-2020-03-24    24.01
-2020-03-25    24.49
 2020-03-26    22.60
 2020-03-27    21.51
+2020-03-30    20.09
+2020-03-31    20.48
+2020-04-01    20.31
 Name: Settle, dtype: float64
 ```
 
