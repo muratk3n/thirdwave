@@ -256,7 +256,7 @@ Crisis
 
 ---
 
-Chris Isaak – You Owe Me Some Kind Of Love Lyrics \#music
+Chris Isaak – You Owe Me Some Kind Of Love \#music
 
 [Link](https://www.youtube.com/watch?v=lvYxG7OEtcM)
 
@@ -276,7 +276,7 @@ Cold Hearted - Paula Abdul \#music
 
 *2020-4-1 7:12:45*
 
---
+---
 
 <img width="340" src="https://pbs.twimg.com/media/EUb5uvqXQAMQlsl?format=jpg&name=small"/>
 
