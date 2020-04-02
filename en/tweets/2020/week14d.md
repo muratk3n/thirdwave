@@ -82,8 +82,8 @@ contact. Well that's why you reduce contact because it is as bad as
 the FRICKIN SPPANISH FLU. We gain time, reduce deaths, in the meantime
 work on treatment etc.
 
-"We dont know the real dividing number / denominator of the virus
-infected to calculate the real death rate".
+"We dont know the real divisor of the virus infected to calculate the
+real death rate".
 
 *2020-4-2 7:57:11*
 
