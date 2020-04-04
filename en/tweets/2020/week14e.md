@@ -46,7 +46,7 @@ I have to say ppl 3D printing filters, masks is awesome.
 ---
 
 [JNK](https://screener.fidelity.com/ftgw/etf/goto/snapshot/portfolioComposition.jhtml?symbols=JNK),
-BKLN, .. are corp credit ETFs.
+[BKLN](https://screener.fidelity.com/ftgw/etf/goto/snapshot/portfolioComposition.jhtml?symbols=BKLN), .. are corp credit ETFs.
 
 *2020-4-4 10:37:48*
 
