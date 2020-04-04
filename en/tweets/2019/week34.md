@@ -1015,7 +1015,7 @@ findings compared to what was found until 73.
 
 I re-did Keen's math in MathJax so math is viewable in HTML.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2018/02/keen_nb.html)
+[Link](https://muratk3n.github.io/thirdwave/en/2018/02/keen_math.html)
 
 BTW, if Keen wants his ideas to spread more stuff like this would be
 helpful, with running Py code and math that shows all the steps of its

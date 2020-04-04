@@ -182,7 +182,7 @@ The government’s hydrogen strategy was officially unveiled on Monday
 
 ---
 
-Haha.. very much on character as in *MacKey vs Mrs Miller*.
+Haha.. very much on character as in *MacKay vs Mrs Miller*.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe they spelled “influenza” wrong?</p>&mdash; Kate Hewlett (@katehewlett) <a href="https://twitter.com/katehewlett/status/1245909434754310145?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
