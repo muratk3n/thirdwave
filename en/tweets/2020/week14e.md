@@ -157,7 +157,7 @@ a weapon into the wormhole but the Chief figures out with the help of
 Ferrengi engineer Ram turns the tables on the alien.
 
 Wonderful ep. Why dont we have more ST shows like this anymore? The ep
-was abt characters, smart, made sense, roles were likable.
+was abt characters, smart, made sense, most chars were likable.
 
 *2020-4-3 18:23:51*
 
