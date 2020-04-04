@@ -1,5 +1,13 @@
 # Tweets - Log
 
+Update on econ numbers. VIX is down to 46. 
+
+[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
+
+*2020-4-4 11:40:6*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-4 11:38:26*
@@ -59,7 +67,7 @@ of the past week into the close today, here are the returns: LQD
 ---
 
 COV: 170K more confirmed in two days. The trend down in daily inc
-continued. 
+continued. Over 8% is still bad of course.
 
 ```
 2020-03-31       9.60
