@@ -108,7 +108,7 @@ health measure"
 
 Cash is trash?
 
-You need eduation my brother..
+You need education my brother..
 
 Bloomberg: "Bridgewater’s Main Hedge Fund Loses About 20% in First
 Quarter"
