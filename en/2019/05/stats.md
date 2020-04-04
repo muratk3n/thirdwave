@@ -1,4 +1,4 @@
-y# Calculations, Data
+# Calculations, Data
 
 Note: In order for Quandl retrieval to work, you need to get an API
 key from Quandl, and place the key in a `.quandl` file in the same
