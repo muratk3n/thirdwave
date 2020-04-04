@@ -1,13 +1,5 @@
 # Tweets - Log
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-4 11:38:26*
@@ -368,7 +360,11 @@ compartments that even Titanic had"
 
 ---
 
+<center>
+<p>
 Third Wave
-
+</p>
 <img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
 
