@@ -73,7 +73,7 @@ continued.
 
 ---
 
-Haha.. Hardball
+Hardball 😆😆 I am lovin it man..
 
 "@spectatorindex
 
@@ -100,6 +100,8 @@ health measure"
 
 Cash is trash?
 
+You need eduation my brother..
+
 Bloomberg: "Bridgewater’s Main Hedge Fund Loses About 20% in First
 Quarter"
 
@@ -123,18 +125,19 @@ It's true. We are the virus.
 
 ---
 
-Liam is short for William. Huh.
+Liam is short for William. 
 
 *2020-4-3 19:4:5*
 
 ---
 
 Maybe it's about stakes.. I mean the stakes the writers, creators of
-these shows lived in their lives. Roddenberry was a trained fighter
-pilot, even in civilian life once his plane came down in Syrian Desert
-guy broke two ribs but dragged injured passengers out of a plane and
-led the group to get help. This guy's life was scifi. How can the
-uppity, LA crackhead, bland-life writer compete with this? 
+these shows experienced in their lives. Roddenberry was a trained
+fighter pilot, even in civilian life once his plane came down in
+Syrian Desert guy broke two ribs but dragged injured passengers out of
+a plane and led the group to get help. His personal life was adventure
+/ scifi. How can the uppity, LA crackhead, bland-life writer compete
+with this?
 
 *2020-4-3 18:24:1*
 
@@ -145,16 +148,16 @@ wants to destroy enemy aliens in a wormhole. She has the Chief to fire
 a weapon into the wormhole but the Chief figures out with the help of
 Ferrengi engineer Ram turns the tables on the alien.
 
-Wonderful ep. Why dont we have more ST eps like this anymore? IT was
-abt characters, it was smart, made sense, roles were likable.
+Wonderful ep. Why dont we have more ST shows like this anymore? The ep
+was abt characters, smart, made sense, roles were likable.
 
 *2020-4-3 18:23:51*
 
 ---
 
 I have a feeling years of especially Rep driven push to gut the
-government worked, the gov is gutted. The bureucratic fail we hear
-recenty must be the ultimate result.
+government worked, the gov is gutted. Any bureucratic fail I hear
+recenty I attribute to them.
 
 *2020-4-3 18:4:15*
 
@@ -188,7 +191,7 @@ Haha.. very much on character as in *MacKey vs Mrs Miller*.
 
 ---
 
-ArXiv is awesome 👍
+ArXiV is awesome 👍
 
 "@HigherGeometer
 
@@ -241,8 +244,9 @@ DIE MOTHERFRACKERS
 "@Nouriel
 
 Beginning of the great shale debt crisis and domino of
-bankruptcies...it will become a tsunami and lead to contagion in HY
-from energy other highly leveraged sectors....worse than 2015-16!
+bankruptcies...it will become a tsunami and lead to contagion in
+[high-yield] from energy other highly leveraged sectors....worse than
+2015-16!
 
 'Shale group Whiting files for Chapter 11'"
 
