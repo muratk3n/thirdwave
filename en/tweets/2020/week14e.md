@@ -252,7 +252,7 @@ from energy other highly leveraged sectors....worse than 2015-16!
 
 The sad thing is rents and mortages could be frozen as easily as other
 countries have done it. But in US so much finance downstream depends
-on that cash flow whose interrruption could cause mayhem that they wld
+on that cash flow whose interruption could cause mayhem that they wld
 rather supplement that flow rather than freeze it in any way.
 
 *2020-4-2 21:8:31*
