@@ -144,8 +144,8 @@ these shows experienced in their lives. Roddenberry was a trained
 fighter pilot, even in civilian life once his plane came down in
 Syrian Desert guy broke two ribs but dragged injured passengers out of
 a plane and led the group to safety. His personal life was scifi,
-adventure. How can the uppity, LA crackhead, bland-life writer compete
-with this?
+adventure. How can the uppity, LA crackhead, bland-life, cossetted
+cuck writer compete with this?
 
 *2020-4-3 18:24:1*
 
