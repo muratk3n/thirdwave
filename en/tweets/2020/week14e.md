@@ -133,7 +133,7 @@ It's true. We are the virus.
 
 ---
 
-Liam is short for William. 
+Liam is short for William?
 
 *2020-4-3 19:4:5*
 
@@ -143,8 +143,8 @@ Maybe it's about stakes.. I mean the stakes the writers, creators of
 these shows experienced in their lives. Roddenberry was a trained
 fighter pilot, even in civilian life once his plane came down in
 Syrian Desert guy broke two ribs but dragged injured passengers out of
-a plane and led the group to get help. His personal life was adventure
-/ scifi. How can the uppity, LA crackhead, bland-life writer compete
+a plane and led the group to safety. His personal life was scifi,
+adventure. How can the uppity, LA crackhead, bland-life writer compete
 with this?
 
 *2020-4-3 18:24:1*
