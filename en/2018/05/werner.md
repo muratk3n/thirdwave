@@ -1,4 +1,4 @@
-# Richard Werner's Model
+# Quantity Theory of Credit, Richard Werner
 
 Crowding out
 
