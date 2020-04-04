@@ -1,4 +1,4 @@
-# Product-Item, Country Competitiveness Index, Hidalgo
+# Product-Item, Economic Complexity, Country Competitiveness, Hidalgo
 
 Data From
 
