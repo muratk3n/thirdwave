@@ -1,5 +1,4 @@
 theme:
-  #jekyll-theme-slate
-  custom
+  jekyll-theme-slate
 plugins:
 - jekyll-seo-tag201~
