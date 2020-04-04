@@ -14,7 +14,7 @@ Update of econ numbers. VIX is down to 46. Dollar >100.
 
 ---
 
-Of course it did. He was right, he just couldn't sell it.
+Of course he was right. He just couldn't sell it.
 
 The Atlantic: "The Goldwater experience—that electoral defeat does not
 mark the end of a movement—has implications today, and not only for
