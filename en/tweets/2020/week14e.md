@@ -16,19 +16,16 @@ Update of econ numbers. VIX is down to 46. Dollar >100.
 
 Of course he was right. He just couldn't sell it.
 
-The Atlantic: "The Goldwater experience—that electoral defeat does not
-mark the end of a movement—has implications today, and not only for
-the conservative right.Even before the coronavirus outbreak, many on
-the “populist,” or “radical,” left insisted that globalization,
-climate change, automation, and inequality were creating the
-conditions for their own political resurgence, despite their
-leaders—Bernie Sanders in the United States, Jeremy Corbyn in
-Britain—being rejected at the ballot box. Now, in a world where
-governments are nationalizing wages and public services just to keep
-their economies afloat, such claims no longer seem
-far-fetched. Indeed, Corbyn, who will be replaced as Labour leader
-today, said the emergency economic measures being taken in Britain
-have proved him 'absolutely right'"
+The Atlantic: "Even before the coronavirus outbreak, many on the
+“populist,” or “radical,” left insisted that globalization, climate
+change, automation, and inequality were creating the conditions for
+their own political resurgence, despite their leaders—Bernie Sanders
+in the United States, Jeremy Corbyn in Britain—being rejected at the
+ballot box. Now, in a world where governments are nationalizing wages
+and public services just to keep their economies afloat, such claims
+no longer seem far-fetched. Indeed, Corbyn, who will be replaced as
+Labour leader today, said the emergency economic measures being taken
+in Britain have proved him 'absolutely right'"
 
 [Link](https://www.theatlantic.com/international/archive/2020/04/jeremy-corbyn-labour-bernie-sanders-democrats/609397/)
 
