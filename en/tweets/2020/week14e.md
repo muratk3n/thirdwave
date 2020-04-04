@@ -1,4 +1,4 @@
-# Tweets - Log
+# Tweets - Week 14e
 
 Update of econ numbers. VIX is down to 46. Dollar >100.
 
