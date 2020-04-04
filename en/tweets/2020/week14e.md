@@ -81,7 +81,7 @@ continued. Over 8% is still bad of course.
 
 ---
 
-Hardball 😆😆 I am lovin it man..
+Hardball 😆😆 I am lovin it
 
 "@spectatorindex
 
