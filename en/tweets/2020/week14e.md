@@ -1,6 +1,6 @@
 # Tweets - Log
 
-Update on econ numbers. VIX is down to 46. 
+Update of econ numbers. VIX is down to 46. Dollar >100.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
 
