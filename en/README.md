@@ -11,15 +11,7 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-4/4 - [Tweets - Week 14e](/tweets/2020/week14e.md)
-
-2/4 - [Tweets - Week 14d](/tweets/2020/week14d.md)
-
-31/3 - [Tweets - Week 14c](/tweets/2020/week14c.md)
-
-30/3 - [Tweets - Week 14b](/tweets/2020/week14b.md)
-
-28/3 - [Tweets - Week 14a](/tweets/2020/week14a.md)
+4/4 - [Tweets - Week 14](/tweets/2020/week14.md)
 
 27/3 - [Tweets - Week 13](/tweets/2020/week13.md)
 
