@@ -3,10 +3,7 @@
 Main equation
 
 $$ 
-\ln(p(t)) = A + B(t_c - t)^\beta 
-$$
-$$
-\quad \big[ 1 + C \cos (\omega \ln(t_c-t) + \phi )  \big] 
+\ln(p(t)) = A + B(t_c - t)^\beta \big[ 1 + C \cos (\omega \ln(t_c-t) + \phi )  \big] 
 $$
 
 Simplified form derivation below: start with logistic equation,
