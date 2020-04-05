@@ -4,6 +4,8 @@ Main equation
 
 $$ 
 \ln(p(t)) = A + B(t_c - t)^\beta 
+$$
+$$
 \big[ 1 + C \cos (\omega \ln(t_c-t) + \phi )  \big] 
 $$
 
@@ -38,7 +40,7 @@ $$ p(t) = p_0 (t_c - t)^\alpha $$
 For fitting it is better to use
 
 
-$$ p(t) = A + B(t_c - t)^z \quad (2) $$
+$$ p(t) = A + B(t_c - t)^z $$
 
 Install lmfit==0.8.3
 
