@@ -2,18 +2,18 @@
 
 Data From
 
-http://atlas.media.mit.edu/en/resources/data/
+[Link](http://atlas.media.mit.edu/en/resources/data/)
 
-Our curated version,
+Curated version,
 
-https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1
+[Link](https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1)
 
-What we try to do below is create a model representing a country's
+What is tried below is creating a model that represents a country's
 economy based on the products it produces, and the complexity of those
 products. "Complexity" of both the country and products it produces
-will essentially be based on the number of different product types a
-country produces, but the chicken-egg aspect of the deeper model will
-be teased out of the product export raw data using the method below.
+will essentially be based on the number of different product *types*,
+but the chicken-egg aspect of the deeper model will be teased out of
+the product export raw data using the method below.
 
 Model
 
