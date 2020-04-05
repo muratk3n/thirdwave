@@ -264,7 +264,7 @@ Freq: 3MS, Name: wagegrowth, dtype: float64
 
 <a name="claims"></a>
 
-# Initial Unemployment Claims
+## Initial Unemployment Claims
 
 ```python
 import pandas as pd, datetime
@@ -333,7 +333,7 @@ Name: PMI, dtype: float64
 
 <a name="cpyoy"></a>
 
-# Profits
+## Profits
 
 ```python
 import pandas as pd, datetime
@@ -362,7 +362,7 @@ DATE
 
 ![](profit.png)
 
-# Dollar
+## Dollar
 
 <a name="dollar"></a>
 
@@ -396,7 +396,7 @@ Name: Settle, dtype: float64
 
 <a name="wagepayroll"></a>
 
-# Difference Between Wage Growth YoY and Payrolls (Hiring)
+## Difference Between Wage Growth YoY and Payrolls (Hiring)
 
 ```python
 import pandas as pd, datetime
@@ -439,7 +439,7 @@ Freq: MS, Name: nfpyoy, dtype: float64
 
 <a name="gdpism"></a>
 
-# GDP vs ISM
+## GDP vs ISM
 
 ```python
 import pandas as pd, datetime
@@ -474,7 +474,7 @@ plt.savefig('gdp-ism.png')
 
 <a name="p2s"></a>
 
-# SP 500 Price to Sales Ratio
+## SP 500 Price to Sales Ratio
 
 ```python
 import datetime, quandl
@@ -508,7 +508,7 @@ Date
 
 <a name="sp500prof"></a>
 
-# SP 500 vs Corporate Profits
+## SP 500 vs Corporate Profits
 
 ```python
 import pandas as pd, datetime
@@ -536,7 +536,7 @@ plt.savefig('sp500-profits.png')
 
 <a name="wilshire"></a>
 
-# Total Market Cap / GDP
+## Total Market Cap / GDP
 
 ```python
 import pandas as pd, datetime
@@ -559,7 +559,7 @@ plt.savefig('wilshire.png')
 
 <a name="junkbond"></a>
 
-# Junk Bond Yields
+## Junk Bond Yields
 
 ```python
 import pandas as pd, datetime
@@ -590,7 +590,7 @@ DATE
 
 ![](junkbond.png)
 
-# Yield Curve
+## Yield Curve
 
 <a name="curve"></a>
 
@@ -632,7 +632,7 @@ DATE
 
 <a name="vix"></a>
 
-# VIX
+## VIX
 
 ```python
 import pandas as pd, datetime
@@ -665,7 +665,7 @@ Name: Adj Close, dtype: float64
 
 <a name="oil"></a>
 
-# Oil
+## Oil
 
 Futures, Continuous Contract, Front Month
 
@@ -702,7 +702,7 @@ Name: Settle, dtype: float64
 
 <a name="credit"/>
 
-# Private Debt to GDP Ratio
+## Private Debt to GDP Ratio
 
 ```python
 import pandas as pd, datetime
