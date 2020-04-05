@@ -1,8 +1,4 @@
-# Econ Calculations, Data
-
-Note: In order for Quandl retrieval to work, you need to get an API
-key from Quandl, and place the key in a `.quandl` file in the same
-directory as this file.
+# Economy, Calculations, Data
 
 <a name="prezyoy"></a>
 
@@ -737,6 +733,8 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 
 ![](creditgdp.png)
 
+Note: for Quandl retrieval get the API key from Quandl, and place the
+key in a `.quandl` file in the same directory as this file.
 
 
 
