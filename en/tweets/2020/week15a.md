@@ -30,9 +30,10 @@ There is zero point in convincing Europeans guns are good because we realize the
 
 ---
 
-Wow. Did not know Kiefer was left royalty! Military-media conplex must
-have enjoyed having Tommy Douglas' grandson run around with a gun and
-do fascistic shit in 24.
+Wow. Did not know Kiefer was practically left royalty!
+
+Military-media conplex must have enjoyed having Tommy Douglas'
+grandson run around with a gun and do fascistic shit in 24.
 
 "Actress-activist Shirley Douglas, daughter of medicare's Tommy
 Douglas, mother of actor Kiefer Sutherland, dead at 86"
