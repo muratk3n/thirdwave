@@ -153,12 +153,11 @@ $$
 $$
 
 $$
-{\small
+\scriptstyle
 \dot{d} = d \bigg[
 r - \frac{\kappa(1-\omega-rd)}{v} + \alpha 
 \bigg] + \kappa(1-\omega-rd) - (1-\omega)
 (4)
-}
 $$
 
 Some constants, funcs, will be used later
@@ -238,12 +237,14 @@ $$ d = \frac{1-\overline{\pi}_1-\omega}{r} $$
 Plug into (4), 
 
 $$ 
+\scriptstyle
 0 =  \frac{1-\overline{\pi}_1-\omega}{r} \bigg[
 r - \frac{v (\alpha + \beta + \delta)}{v} + \delta
 \bigg] + v (\alpha + \beta + \delta)- 1+\omega
 $$
 
 $$ 
+\scriptstyle
 -\omega =  \bigg(\frac{1}{r}-\frac{\overline{\pi}_1}{r}-\frac{\omega}{r}\bigg) \bigg(
 r - \alpha - \beta 
 \bigg) + v (\alpha + \beta + \delta)- 1
