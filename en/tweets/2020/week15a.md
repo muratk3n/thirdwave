@@ -1,5 +1,17 @@
 # Tweets - Week 15a
 
+
+"@sid8998
+
+Disinfectant concentrations and contact times proven to reduce
+\#coronaviruses by 99.99%. Studies on various coronaviruses including
+one @hkumed on \#SARSCoV2.  Summary: alcohol-based disinfectants good
+for skin. Chloroxylenol or diluted bleach good for surfaces"
+
+*2020-4-6 9:31:10*
+
+---
+
 Now that the dollar sign is reserved for math symbols I need to watch
 for the use of dollar sign, otherwise the rest is interpreted as math,
 effs up all the content.
