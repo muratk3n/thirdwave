@@ -236,11 +236,11 @@ y = a e ^{b x}
 $$
 
 $$
-log(y) = log(a eb x) 
+\log(y) = \log(a eb x) 
 $$
 
 $$
-= log(a) + log(eb x) = log(a) + b x
+= \log(a) + \log(eb x) = \log(a) + b x
 $$
 
 Now the slope of the curve is $b$, the param that defines the exp growth. 
