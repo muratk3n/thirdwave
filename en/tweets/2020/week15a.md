@@ -232,7 +232,8 @@ for now, am looking at the data with two seperate exp regions.
 
 ---
 
-Analyzing data as exponential fit.. We take "log" because of this,
+Analyzing data as exponential fit.. The formulas below are why we take 
+"the log" of the $y$ values,
 
 $$
 y = a e ^{b x}
