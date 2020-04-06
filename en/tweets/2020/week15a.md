@@ -272,11 +272,12 @@ plt.savefig('states.png')
 <img width="340" src="https://pbs.twimg.com/media/EU5VNE_WoAAa-Ex?format=png&name=small"/>
 
 X-axis is number of days after 100th case, so all three states start
-from equal footing. Between the 10th and 15th days it went sideways
+from equal footing. The second week afterwards things went sideways
 for Governor Fredo, growth took off seriously then. Ohio did well.
+
 Now NY is doing as good as WA (same slope). Was the NY fail bcz of
 significantly more air travel it gets, which was not stopped early? Or
-he Fred effed up himself?
+Fredo effed up himself?
 
 [Air Traffic](https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States#Busiest_US_airports_by_total_passenger_boardings)
 
