@@ -232,7 +232,7 @@ for now, am looking at the data with two seperate exp regions.
 
 ---
 
-Analyzig data as exponential fit.. We take "log" because of this,
+Analyzing data as exponential fit.. We take "log" because of this,
 
 $$
 y = a e ^{b x}
