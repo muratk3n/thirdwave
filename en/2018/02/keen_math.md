@@ -123,7 +123,10 @@ $$
 
 \#3
 
-$$=  \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta$$
+$$
+\scriptstyle
+= \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta
+$$
 
 $$Y = L \cdot a$$
 
