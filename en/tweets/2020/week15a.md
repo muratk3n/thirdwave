@@ -247,7 +247,8 @@ $$
 = \log(a) + \log(eb x) = \log(a) + b x
 $$
 
-Now the slope of the curve is $b$, the param that defines the exp growth. 
+Now the slope of the curve is $b$, the param that defines a particular
+exp growth.
 
 Let's analyze some state data. How did NY do? So let's compare NY,
 Washingon, and Ohio.
