@@ -1354,9 +1354,9 @@ Right, high yield came back from 12.39% down to 10.64%.
 
 Bruce Richards (on credit). "Moody is behind the curve, massive
 downgrades are coming. BBB credit market had grown 5-fold to reach 3.4
-trillion dol since 08, even before latest crisis, that 10% of that would
-fall to junk, simply due to the end of the credit cycle, 340 bil dol
-worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
+trillion dol since 08, even before latest crisis, that 10% of that
+would fall to junk, simply due to the end of the credit cycle, 340 bil
+dol worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
 rated B. Coming into this those guys had 5 times debt to EBITDA ratio
 which means single B."
 
