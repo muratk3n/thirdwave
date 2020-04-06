@@ -7,7 +7,7 @@ out the use of dollar sign, otherwise the rest is interpreted as math.
 
 ---
 
-So the cons have a higher God after all - the market.
+So some cons have a higher God after all - the market.
 
 *2020-4-6 7:27:28*
 
