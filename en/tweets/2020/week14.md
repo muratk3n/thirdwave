@@ -8,6 +8,12 @@ Update of econ numbers. VIX is down to 46. Dollar >100.
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-4 11:38:26*
+
+---
+
 Of course he was right. He just couldn't sell it.
 
 The Atlantic: "Even before the coronavirus outbreak, many on the
@@ -118,7 +124,7 @@ It's true. We are the virus.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">China’s Hebei Approves 1.2 bln dollar Hydrogen Production &amp; Consumption Projects-43 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects for production, equipment manufacturing, hydrogen stations &amp; <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>=8.75 billion yuan (1.23 billion dollar)-<a href="https://t.co/VmY0W4H26Z">https://t.co/VmY0W4H26Z</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/DfVDrWGEvE">pic.twitter.com/DfVDrWGEvE</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1246112708648411137?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">China’s Hebei Approves $1.2 bln Hydrogen Production &amp; Consumption Projects-43 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects for production, equipment manufacturing, hydrogen stations &amp; <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>=8.75 billion yuan ($1.23 billion)-<a href="https://t.co/VmY0W4H26Z">https://t.co/VmY0W4H26Z</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/DfVDrWGEvE">pic.twitter.com/DfVDrWGEvE</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1246112708648411137?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-3 19:34:15*
 
@@ -330,12 +336,6 @@ eating of cats and dogs"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-2 19:53:0*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why the fuck did I buy a 2020 planner</p>&mdash; Pete Blackburn (@PeteBlackburn) <a href="https://twitter.com/PeteBlackburn/status/1245124277868822529?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-2 19:53:45*
@@ -369,6 +369,298 @@ compartments that even Titanic had"
 
 ---
 
+COV update, 109K more new confirmed cases in 2 days. Daily inc rate is
+down around 8%.
+
+[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+
+*2020-4-2 13:8:1*
+
+---
+
+RIP. TTUD was a good movie. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There would be no Playtone without Adam Schlesinger, without his That Thing You Do! He was a One-der. Lost him to Covid-19. Terribly sad today. Hanx</p>&mdash; Tom Hanks (@tomhanks) <a href="https://twitter.com/tomhanks/status/1245507869618737152?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-2 13:5:4*
+
+---
+
+What does Spanish Flu levels death rate mean? A stat says most ppl
+actively have 200 ppl in their immediate network. Then 4 ppl you know
+will die.
+
+*2020-4-2 13:3:1*
+
+---
+
+1.7% is a baseline BTW. Didn't Merkel say this thing will reach 70% of
+Germany? I dont know which model was used there, but take that for the
+whole world, then
+
+```python
+np.round((0.5 * 0.70 * 0.20) * 100.0, 2)
+```
+
+```text
+Out[1]: 7.0
+```
+
+7% global death rate. A crazy number.
+
+*2020-4-2 13:0:4*
+
+---
+
+OK.. let's play. Let's say the 20% kill rate is among the
+symptomatic. Then how do we get the ratio of ppl who 1) get infected
+in the entire population 2) if they are infected, become symptomatic.
+
+Remember those cruise ships? They are great petri dishes. You know the
+virus reached everyone it could in those ships. From [CNN](https://edition.cnn.com/2020/03/24/us/diamond-princess-cruise-ship-asymptomatic-tests/index.html)
+
+>The CDC's report [.. detailed the] cruise ship, the Grand Princess,
+>which was in limbo for days off the coast of California. Of the 469
+>people with available test results on that ship, 78 -- or 17% -- of
+>them tested positive for coronavirus
+
+and
+
+>Nearly half of the Diamond Princess cruise ship passengers and crew
+>who tested positive for the novel coronavirus were asymptomatic
+
+So the virus can infect 17% of a population, out of those 50% will be
+symptomatic. Let's assume it is those ppl will show up as confirmed
+cases in global tallies that we read about everyday, out of which 20%
+will die.
+
+Then the population death rate will be
+
+```python
+np.round((0.5 * 0.17 * 0.20) * 100.0, 2)
+```
+
+```text
+Out[1]: 1.7
+```
+
+This is Spanish Flu territory.
+
+Some say, okay, but in those cruise ships there was too much
+contact. Well that's why you reduce contact because it is as bad as
+the FRICKIN SPPANISH FLU. We gain time, reduce deaths, in the meantime
+work on treatment etc.
+
+"We dont know the real divisor of the virus infected to calculate the
+real death rate".
+
+*2020-4-2 7:57:11*
+
+---
+
+1918 and 1929 happening all at once. 
+
+*2020-4-2 7:57:11*
+
+---
+
+California Love - Tupac Shakur \#music
+
+[Link](https://www.youtube.com/watch?v=5wBTdfAkqGU)
+
+*2020-4-2 7:53:56*
+
+---
+
+Air Liquide.. Capable company. Ah and they [do
+H2](https://energies.airliquide.com/resources-planet-hydrogen/fuel-cell). See,
+never fails
+
+*2020-4-1 19:39:22*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Un exemple parmi tant d’autres de ce que notre industrie française est capable de faire ! <a href="https://twitter.com/hashtag/FranceUnie?src=hash&amp;ref_src=twsrc%5Etfw">#FranceUnie</a> <a href="https://t.co/44mUmgkeUI">pic.twitter.com/44mUmgkeUI</a></p>&mdash; Emmanuel Macron (@EmmanuelMacron) <a href="https://twitter.com/EmmanuelMacron/status/1245059547812597760?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 19:41:2*
+
+---
+
+Good good..
+
+[Link](https://fuelcellsworks.com/news/china-weichai-group-officially-launches-its-20000-hydrogen-fuel-cell-engine-plant/)
+
+*2020-4-1 18:36:42*
+
+---
+
+"@adamcchang
+
+Here's what happened in the Czech Republic after they imposed
+mandatory mask-wearing on March 18th. The daily increase in cases has
+dropped from over 20% before the #masks4all rule to just 6%"
+
+<img width="340" src="https://pbs.twimg.com/media/EUe9vKEWAAEIgsL?format=png&name=small"/>
+
+[Link](https://twitter.com/adamcchang/status/1245174086847741952)
+
+*2020-4-1 18:10:40*
+
+---
+
+"@BCAppelbaum
+
+It's illegal for most people but Congress has effectively decided that
+it's fine for Congress to engage in insider trading"
+
+*2020-4-1 17:48:14*
+
+---
+
+Bailing Out the Bailout
+
+\#taibbi
+
+[Link](https://www.rollingstone.com/politics/political-commentary/coronavirus-fed-bank-bailout-disaster-976086/amp)
+
+*2020-4-1 17:19:50*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Proudly South African hydrogen breakthrough with Shell’s backing--Hydrox Holdings unique <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> electrolyzer tech promises to lower production price of hydrogen &amp; serves as a disruptive <a href="https://twitter.com/hashtag/hydrogeneconomy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogeneconomy</a> enabler-<a href="https://t.co/R8j76rnoED">https://t.co/R8j76rnoED</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/cGA9DQWJEm">pic.twitter.com/cGA9DQWJEm</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1245344084224552960?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 16:48:19*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So. Q1 was fun.</p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1245078170568732672?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 16:2:23*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wärtsilä Advances Future Fuel Capabilities with First Ammonia Tests--<a href="https://twitter.com/wartsilacorp?ref_src=twsrc%5Etfw">@wartsilacorp</a> is developing ammonia storage &amp; supply systems as part of the EU project ShipFC to install ammonia <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> on Eidesvik Offshore’s supply vessel--<a href="https://t.co/uUHUySKPng">https://t.co/uUHUySKPng</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/i5JD0F0z1c">pic.twitter.com/i5JD0F0z1c</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1245334864905281547?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 16:1:22*
+
+---
+
+Hah! That's a great idea.
+
+"@koeppelmann
+
+Testing capacity in Germany will be increased by up to factor 10 to up
+to 400,000 a day (!) by doing pooled testing. E.g mix 16 samples and
+if negative - all are negative, otherwise binary search for the
+positve(s). Could of course be used worldwide"
+
+*2020-4-1 15:17:54*
+
+---
+
+"@Peston
+
+@michaelgove said just now that the difficulty in increasing number of
+COVID19 tests was due to a shortage of the relevant 'chemcial
+reagents'. Well I've just talked to the Chemical Industries
+Association, which represents the UK's very substantial chemicals
+industry. It has contacted its members, and they've said there is no
+shortage of the relevant reagents"
+
+*2020-4-1 15:15:52*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A waverider glider will be launched by Brazilian rocket to the high atmosphere, where it will ride its own shock waves at seven times the speed of sound - the HEXAFLY-INT programme with <a href="https://twitter.com/EU_Commission?ref_src=twsrc%5Etfw">@EU_Commission</a> is our <a href="https://twitter.com/hashtag/ESATech?src=hash&amp;ref_src=twsrc%5Etfw">#ESATech</a> image of the week <a href="https://t.co/mngo9cfTRf">https://t.co/mngo9cfTRf</a> <a href="https://t.co/FY1X9NNwSx">pic.twitter.com/FY1X9NNwSx</a></p>&mdash; ESA Technology (@ESA_Tech) <a href="https://twitter.com/ESA_Tech/status/1245254229750689792?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 14:31:35*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re never self-isolated if you’ve got Jesus in your heart</p>&mdash; Scott Morrison PM of Australia (parody) (@ScottyFromMktg) <a href="https://twitter.com/ScottyFromMktg/status/1245265050476007424?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 14:27:18*
+
+---
+
+.. so I can exploit you independently.
+
+"@Renegade_Inc
+
+Richard Branson in Anti-Union Video to Employees: 'Protect your
+Independent Spirit' and 'Say No' to Unions"
+
+*2020-4-1 14:26:31*
+
+---
+
+Cats!
+
+"We found that SARS-CoV-2 replicates poorly in dogs, pigs, chickens,
+and ducks, but efficiently in ferrets and cats"
+
+[Link](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
+
+*2020-4-1 10:45:43*
+
+---
+
+After 10 Workers Get COVID-19, 1,000 Immigrant Meatpackers Walk Off
+the Job in Colorado
+
+[Link](https://paydayreport.com/1000-immigrant-meatpackers-walk-off-the-job-in-colorado/)
+
+*2020-4-1 9:43:2*
+
+---
+
+Unpayable Corporate Debt: A Brady Bond Solution for America’s Economic
+Crisis
+
+\#hudson
+
+[Link](https://michael-hudson.com/2020/03/unpayable-corporate-debt-a-brady-bond-solution-for-americas-economic-crisis/)
+
+*2020-4-1 9:29:28*
+
+---
+
+Chris Isaak – You Owe Me Some Kind Of Love \#music
+
+[Link](https://www.youtube.com/watch?v=lvYxG7OEtcM)
+
+*2020-4-1 7:38:34*
+
+---
+
+Cold Hearted - Paula Abdul \#music
+
+[Link](https://www.youtube.com/watch?v=Wj4j95CTlqI)
+
+*2020-4-1 7:24:17*
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Turns out my top three hobbies are:<br>1) restaurants <br>2) bars<br>3) non-essential businesses</p>&mdash; Natalie Gregerson (@nattygeeee) <a href="https://twitter.com/nattygeeee/status/1244709966327336960?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-1 7:12:45*
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EUb5uvqXQAMQlsl?format=jpg&name=small"/>
+
+*2020-4-1 6:57:29*
+
+---
+
+Brit royal Philip: “If it has got four legs and it is not a chair, if
+it has got two wings and it flies but is not an aeroplane, and if it
+swims and it is not a submarine, the Cantonese will eat it.”
+
+*2020-4-1 6:38:32*
+
+---
+
 Journalism fills that gap in modernity; As Toffler said once society
 is broken up into many pieces someone had to put it together
 again. The Integrators, the managerial class performed most of that
@@ -411,7 +703,7 @@ A hopeful article on how we might already be seeing benefits of social distancin
 Interesting scenario.. corp bonds go trash then they are accepted less
 and less as collat in repo. People hoard treasuries and dollars, hey
 instead of losing money isnt it better to keep your money at zero IR
-or straight up cash? Which means dollar demand, \$ goes up, shortage
+or straight up cash? Which means dollar demand, $ goes up, shortage
 everywhere.
 
 [Link 1](https://alhambrapartners.com/2020/03/25/collateral-shortage-goes-global-hinting-at-the-way-the-eurodollar-reaches-its-eventual-end/)
@@ -437,282 +729,7 @@ Woha
 
 "@kevinhorgan
 
-Conservative Australian PM announced a \$3000 / month, flat rate, UBI
-for full time & part-time workers, a 6-month moratorium on Tenant
-evictions & effective Nationalisation of private hospitals. Best way
-to sustain economy?"
-
-*2020-3-31 16:39:12*
-
----
-
-"@PatHartman_
-
-You know what's weird? After years of using "viral" to describe
-something that quickly grows to outrageously large numbers... people
-still don't GET IT"
-
-*2020-3-31 16:31:30*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you heard the news? We&#39;re pleased to have received funding from the US Department of Energy for the development of a novel <a href="https://twitter.com/hashtag/electrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#electrolyser</a> cell stack approach for higher efficiency, low cost <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> generation. Learn more from our press release: <a href="https://t.co/eyGpDTzFev">https://t.co/eyGpDTzFev</a> <a href="https://t.co/aNU7FNgIUr">pic.twitter.com/aNU7FNgIUr</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1244883281990037504?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-31 13:10:35*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It doesn’t serve the properties of an electronic cash system. It’s either too slow or too expensive to have a competitive advantage. There are several systems that have all these properties and several serve much better as electronic cash; faster, less expensive, less wasteful.</p>&mdash; Colin LeMahieu (@ColinLeMahieu) <a href="https://twitter.com/ColinLeMahieu/status/1244757726284087298?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-31 9:50:26*
-
----
-
-Haha.. not V, L, W but diminishing sine.. Very funny. Japanification?
-This is probably where US is headed unless it gets rid of its debt
-overhang. 
-
-"@tracyalloway 
-
-Of course, you can't beat the 'diminishing sine wave' shaped-recovery
-that Deutsche Bank was talking about back in 2009 after the financial
-crisis"
-
-<img width="240" src="https://pbs.twimg.com/media/EUZhjbGUMAA4QF0?format=png&name=small"/>
-
-*2020-3-31 7:47:17*
-
----
-
-"@nntaleb
-
-The @WHO shd be renamed WDO (World Disease Organization): had they not
-existed many lives would have been spared.
-
-Friends are smelling conspiracy in WHO's claims ("evidence
-based"conflation of absence of evidence for evidence).
-
-No, it's only incompetence.
-
-Criminal incompetence"
-
-*2020-3-31 7:35:30*
-
----
-
-Greeks, Romans, Ottocucks knew nothing abt tomatoes. Well Otto found
-out later bcz these dits actually managed to make it to 20th century,
-limpin and all, but what I am saying is the phenomenon is recent
-relatively speaking.
-
-*2020-3-31 7:33:0*
-
----
-
-Tomatoes were discovered in America and brought back to Europe, near
-history. So they are very much American 
-
-*2020-3-31 7:31:3*
-
----
-
-"@IcarusGlider
-
-This will go on for the rest of the year. 30 more days is wishful
-thinking. Renters without jobs cant pay rent. Landlords without rent
-cant pay mortgages. Banks without payments cant pay... on and on and
-on till something eventually gives"
-
-*2020-3-31 7:31:26*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Seems like people wanted to win, and thought Biden was most electable. In other words, ideology had nothing to do with it. This is why, for example, you saw exit polls showing Biden winning with “very liberal” voters or those that preferred Medicare for all. <a href="https://t.co/U5eiq4UtKd">https://t.co/U5eiq4UtKd</a></p>&mdash; Every Billionaire Is A Policy Failure (@DanRiffle) <a href="https://twitter.com/DanRiffle/status/1244630959313600513?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-31 0:41:58*
-
----
-
-"@matthewstoller
-
-So private equity is taking advantage of surprise billing loopholes in
-the bailout legislation to gouge people getting tested for
-\#coronavirus.
-
-Who could have seen this coming except everyone?"
-
-[Link](https://twitter.com/matthewstoller/status/1244731010505375746)
-
-*2020-3-31 0:32:24*
-
----
-
-ORMS = Operations Research and Management Science. Deals with resource
-planning, optimization of production, logistics, etc. 
-
-"@ILjubic
-
-Attention French #orms colleagues: 
-
-The ministry of defense launched the call for proposals for innovative projects to fight #COVIDー19 :
-
-Supply chain and logistics solutions are in high demand.
-
-Contact Christian Artigues (director of GDR RO @CNRS"
-
-[Link](https://defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
-
-*2020-3-31 0:12:53*
-
----
-
-And Canada hunkers down, like ppl do during cold weather.. I believe
-Canada's culture code assigned to itself was TO KEEP (says
-Rapaille). They are about preservation, in large part, I am sure, due
-to their cold weather.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Funny how characteristically each country reacts to the coronavirus. China tracks its citizens&#39; every move. Hungary becomes a dictatorship. The US gives money to businesses. The Japanese conceal the problem. The British bravely but stupidly seek herd immunity.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1244690931946831876?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 22:50:10*
-
----
-
-Live by capitalism die by capitalism
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;By the end of the day, roughly 280 million masks from warehouses around the U.S. had been purchased by foreign buyers and were earmarked to leave the country, according to the broker — and that was in one day.&quot; <a href="https://t.co/6pqntPKfF0">https://t.co/6pqntPKfF0</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1244675351676178432?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 20:20:24*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Indeed the &quot;missing puzzle piece&quot; to getting to 100% renewables is reliable, scalable, dispatchable <a href="https://twitter.com/hashtag/EnergyStorage?src=hash&amp;ref_src=twsrc%5Etfw">#EnergyStorage</a> and <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> is several times better than <a href="https://twitter.com/hashtag/conventionalchemistrybatteries?src=hash&amp;ref_src=twsrc%5Etfw">#conventionalchemistrybatteries</a> including <a href="https://twitter.com/hashtag/lithiumion?src=hash&amp;ref_src=twsrc%5Etfw">#lithiumion</a> .<a href="https://twitter.com/hashtag/renewablegas?src=hash&amp;ref_src=twsrc%5Etfw">#renewablegas</a> <a href="https://twitter.com/hashtag/powertogas?src=hash&amp;ref_src=twsrc%5Etfw">#powertogas</a> <a href="https://twitter.com/hashtag/PTG?src=hash&amp;ref_src=twsrc%5Etfw">#PTG</a><a href="https://t.co/yxVp7MWbe2">https://t.co/yxVp7MWbe2</a></p>&mdash; Hydrogen is the battery (@BatteryH2) <a href="https://twitter.com/BatteryH2/status/1244672131503276044?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 20:9:59*
-
----
-
-This is not the same as electronic banking. With elec banking u have
-to figure out the myriad ways your bank allows electronic access. With
-crypto, receiving payments is as easy as receiving a chat message.
-
-*2020-3-30 19:30:29*
-
----
-
-Sad. So much more can be done technologicallly. Open a Nano acct,
-register that address with the government and they can wire any
-payment to you at the speed of light. This technology exists.
-
-*2020-3-30 19:27:21*
-
----
-
-Modelers unite
-
-[Link](https://epcced.github.io/ramp/)
-
-*2020-3-30 18:53:16*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never been more jealous of a curve in my life. Man they nailed it. <br>Via Time. <a href="https://t.co/sktEp8booM">https://t.co/sktEp8booM</a> <a href="https://t.co/soPhg4iceJ">pic.twitter.com/soPhg4iceJ</a></p>&mdash; Ben White (@morningmoneyben) <a href="https://twitter.com/morningmoneyben/status/1244626949894520833?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 18:14:15*
-
----
-
-Easy recipe: Throw some sp into bowl, dice half onion into it, add
-olive oil, little water. Cook it medium heat for 5 mins. Cool it, mix
-plain yoghurt, serve.
-
-*2020-3-30 18:2:52*
-
----
-
-*2020-3-30 17:58:18*
-
-Big spinach eater here. I am talking some Popeye level shit. Thing is
-full of useful ingreds. 
-
-*2020-3-30 18:1:2*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BMW Group Reaffirms its Ongoing Commitment to <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Technology--Collaboration with <a href="https://twitter.com/Toyota?ref_src=twsrc%5Etfw">@Toyota</a> continues <a href="https://twitter.com/hashtag/Fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcell</a> system for the powertrain for the <a href="https://twitter.com/BMW?ref_src=twsrc%5Etfw">@BMW</a> i Hydrogen NEXT generates up to 125 kW (170 hp)-<a href="https://t.co/rKzBrMtolE">https://t.co/rKzBrMtolE</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/PGkZQPWv5m">pic.twitter.com/PGkZQPWv5m</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1244621744473812992?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 16:55:13*
-
----
-
-Journalism fills that gap in modernity; As Toffler said once society
-is broken up into many pieces someone had to put it together
-again. The Integrators, the managerial class performed most of that
-task. But more was needed, in Western, democratic context, that more
-was the journalists. They carried the gossip, assigned merit and
-demerit, poked, informed (as much as they could), worked to front-run
-decision-makers, etc. Important job.
-
-*2020-3-31 21:03:0*
-
----
-
-COV, 113K in 1 day. Mongolia is the place to be - not much going on,
-ride your horses eat your General Genghis Khan's Chicken...?  There is
-a global deceleration tho.. good. Down to 8.6% in daily chg from 13%
-four days ago.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-31 20:57:20*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know <a href="https://twitter.com/hashtag/electrolysers?src=hash&amp;ref_src=twsrc%5Etfw">#electrolysers</a> play a role on submarines? We&#39;re pleased to announce a purchase order from the UK Navy for <a href="https://twitter.com/hashtag/PEM?src=hash&amp;ref_src=twsrc%5Etfw">#PEM</a> <a href="https://twitter.com/hashtag/electrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#electrolyser</a> stacks for use onboard submarines, providing life support oxygen for the crews. See our press release for details: <a href="https://t.co/BZLIvdWPcQ">https://t.co/BZLIvdWPcQ</a> <a href="https://t.co/uBLvzCZXUU">pic.twitter.com/uBLvzCZXUU</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1245009070429528064?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-31 20:52:36*
-
----
-
-"@plutokiller
-
-A hopeful article on how we might already be seeing benefits of social distancing"
-
-[Link](https://www.latimes.com/california/story/2020-03-31/coronavirus-social-distancing-west-coast-california-new-york-covid)
-
-*2020-3-31 17:40:15*
-
----
-
-Interesting scenario.. corp bonds go trash then they are accepted less
-and less as collat in repo. People hoard treasuries and dollars, hey
-instead of losing money isnt it better to keep your money at zero IR
-or straight up cash? Which means dollar demand, \$ goes up, shortage
-everywhere.
-
-[Link 1](https://alhambrapartners.com/2020/03/25/collateral-shortage-goes-global-hinting-at-the-way-the-eurodollar-reaches-its-eventual-end/)
-
-[Link 2](https://www.youtube.com/watch?v=XPlvXuDqxBc)
-
-*2020-3-31 17:32:31*
-
----
-
-👍
-
-"@9NewsAdel
-
-South Australian schools are preparing to move more classes online for
-Term 2, which could have a big impact on staff, students and parents"
-
-*2020-3-31 16:43:17*
-
----
-
-Woha 
-
-"@kevinhorgan
-
-Conservative Australian PM announced a \$3000 / month, flat rate, UBI
+Conservative Australian PM announced a $3000 / month, flat rate, UBI
 for full time & part-time workers, a 6-month moratorium on Tenant
 evictions & effective Nationalisation of private hospitals. Best way
 to sustain economy?"
@@ -923,7 +940,6 @@ and mobile coffee.
 
 ---
 
-
 "@fuelcellsworks
 
 Mitsubishi Corporation Signs MoU with Singaporean Companies on
@@ -937,7 +953,7 @@ Singapore"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Air Products Signs Agreements to Acquire Five Operating Hydrogen Plants for 530 Million dollar and Long-Term <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Supply to PBF Energy--<a href="https://t.co/s3XYrFproi">https://t.co/s3XYrFproi</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/airproducts?ref_src=twsrc%5Etfw">@airproducts</a> <a href="https://twitter.com/hashtag/hydrogeneconomy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogeneconomy</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/aavEHgy9Ge">pic.twitter.com/aavEHgy9Ge</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1244607421680627713?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Air Products Signs Agreements to Acquire Five Operating Hydrogen Plants for $530 Million and Long-Term <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Supply to PBF Energy--<a href="https://t.co/s3XYrFproi">https://t.co/s3XYrFproi</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/airproducts?ref_src=twsrc%5Etfw">@airproducts</a> <a href="https://twitter.com/hashtag/hydrogeneconomy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogeneconomy</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/aavEHgy9Ge">pic.twitter.com/aavEHgy9Ge</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1244607421680627713?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-30 16:2:17*
 
@@ -1338,8 +1354,8 @@ Right, high yield came back from 12.39% down to 10.64%.
 
 Bruce Richards (on credit). "Moody is behind the curve, massive
 downgrades are coming. BBB credit market had grown 5-fold to reach 3.4
-trillion \$ since 08, even before latest crisis, that 10% of that would
-fall to junk, simply due to the end of the credit cycle, 340 bil \$
+trillion $ since 08, even before latest crisis, that 10% of that would
+fall to junk, simply due to the end of the credit cycle, 340 bil $
 worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
 rated B. Coming into this those guys had 5 times debt to EBITDA ratio
 which means single B."
@@ -1536,7 +1552,7 @@ SOUTH AFRICA MILITARY CURFEW"
 
 ---
 
-\$1200 payment is a good thing, even more for families, congrats on
+$1200 payment is a good thing, even more for families, congrats on
 that.
 
 *2020-3-27 21:4:3*
