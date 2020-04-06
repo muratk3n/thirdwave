@@ -2,84 +2,9 @@
 
 <a name="prezyoy"></a>
 
-## Potus, Incumbent Elec. College Percentage Prediction (GDP YoY)
+## Potus, Incumbent Elec. College Percentage Prediction 
 
-```python
-from io import StringIO
-import statsmodels.formula.api as smf
-import pandas as pd
-
-s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
-2012,2.3,-0.8,0,52
-2008,1.09,-37,1,46.3
-2004,4.2,-0.5,0,51.2
-2000,5.2,19.5,1,50.3
-1996,4.0,15.5,0,54.7
-1992,3.1,-18,1,46.5
-1988,4.4,10,1,53.9
-1984,7.9,20,0,59.2
-1980,-0.77,-21.7,0,44.7
-1976,6.1,5,1,48.9
-1972,5.2,26,0,61.8
-1968,5.5,-5,1,49.6
-1964,6.18,60.3,0,61.3
-1960,2.05,37,1,49.9
-1956,2.40,53.5,0,57.8
-1952,3.60,-27,1,44.5
-"""
-df = pd.read_csv(StringIO(s))
-regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
-results = smf.ols(regr, data=df).fit()
-print (results.rsquared)
-conf = results.conf_int()
-```
-
-```text
-0.8503762798952246
-```
-
-```python
-conf = results.conf_int()
-net_approv = -11.8
-
-gdg_growth = 3.0
-pred = [1., gdg_growth, net_approv, 0]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-
-gdg_growth = 2.0
-pred = [1., gdg_growth, net_approv, 0]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-
-gdg_growth = 1.0
-pred = [1., gdg_growth, net_approv, 0]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-
-gdg_growth = 0.0
-pred = [1., gdg_growth, net_approv, 0]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-```
-
-```text
-[46.81763238 55.80082374] 51.30922806106811
-[46.61402821 54.19870793] 50.406368068424605
-[46.41042404 52.59659212] 49.5035080757811
-[46.20681986 50.9944763 ] 48.600648083137585
-```
-
-## 2016 Re-run
-
-```python
-bama_net_approv = 9.0
-gdp_growth = 1.34
-pred = [1., gdp_growth, bama_net_approv, 1]
-print (np.dot(pred, conf), np.dot(pred, results.params))
-```
-
-```text
-[40.0733668  55.07939153] 47.57637916830154
-```
-
-## Potus, Incumbent Elec. College Percentage Prediction (Old)
+GDP growth is taken perc growth of Q2 EO June compared to previous year's Q2 GDP
 
 Latest net-aproval = -11.8 % (approval 42 % minus 53.8 % disproval)
 
@@ -111,6 +36,7 @@ df = pd.read_csv(StringIO(s))
 regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
 results = smf.ols(regr, data=df).fit()
 
+print ('R^2', results.rsquared)
 conf = results.conf_int()
 net_approv = -11.8
 
@@ -128,6 +54,7 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
+R^2 0.9011858911763367
 [49.6962248  53.16687853] 51.431551669024834
 [49.37184684 52.33149113] 50.85166898486028
 [49.04746888 51.49610372] 50.27178630069573
