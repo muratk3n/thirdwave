@@ -250,7 +250,7 @@ $$
 Now the slope of the curve is $b$, the param that defines a particular
 exp growth.
 
-Let's analyze some state data. How did NY do? So let's compare NY,
+Let's analyze some state data. How did NY do? Let's compare NY,
 Washingon, and Ohio.
 
 
