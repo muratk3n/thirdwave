@@ -124,7 +124,7 @@ It's true. We are the virus.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">China’s Hebei Approves $1.2 bln Hydrogen Production &amp; Consumption Projects-43 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects for production, equipment manufacturing, hydrogen stations &amp; <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>=8.75 billion yuan ($1.23 billion)-<a href="https://t.co/VmY0W4H26Z">https://t.co/VmY0W4H26Z</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/DfVDrWGEvE">pic.twitter.com/DfVDrWGEvE</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1246112708648411137?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">China’s Hebei Approves 1.2 bln dol Hydrogen Production &amp; Consumption Projects-43 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects for production, equipment manufacturing, hydrogen stations &amp; <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>=8.75 billion yuan (1.23 billion dol)-<a href="https://t.co/VmY0W4H26Z">https://t.co/VmY0W4H26Z</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/DfVDrWGEvE">pic.twitter.com/DfVDrWGEvE</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1246112708648411137?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-3 19:34:15*
 
@@ -703,7 +703,7 @@ A hopeful article on how we might already be seeing benefits of social distancin
 Interesting scenario.. corp bonds go trash then they are accepted less
 and less as collat in repo. People hoard treasuries and dollars, hey
 instead of losing money isnt it better to keep your money at zero IR
-or straight up cash? Which means dollar demand, $ goes up, shortage
+or straight up cash? Which means dollar demand, dollar goes up, shortage
 everywhere.
 
 [Link 1](https://alhambrapartners.com/2020/03/25/collateral-shortage-goes-global-hinting-at-the-way-the-eurodollar-reaches-its-eventual-end/)
@@ -729,7 +729,7 @@ Woha
 
 "@kevinhorgan
 
-Conservative Australian PM announced a $3000 / month, flat rate, UBI
+Conservative Australian PM announced a 3000 dol / month, flat rate, UBI
 for full time & part-time workers, a 6-month moratorium on Tenant
 evictions & effective Nationalisation of private hospitals. Best way
 to sustain economy?"
@@ -953,7 +953,7 @@ Singapore"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Air Products Signs Agreements to Acquire Five Operating Hydrogen Plants for $530 Million and Long-Term <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Supply to PBF Energy--<a href="https://t.co/s3XYrFproi">https://t.co/s3XYrFproi</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/airproducts?ref_src=twsrc%5Etfw">@airproducts</a> <a href="https://twitter.com/hashtag/hydrogeneconomy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogeneconomy</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/aavEHgy9Ge">pic.twitter.com/aavEHgy9Ge</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1244607421680627713?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Air Products Signs Agreements to Acquire Five Operating Hydrogen Plants for 530 dol Million and Long-Term <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Supply to PBF Energy--<a href="https://t.co/s3XYrFproi">https://t.co/s3XYrFproi</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/airproducts?ref_src=twsrc%5Etfw">@airproducts</a> <a href="https://twitter.com/hashtag/hydrogeneconomy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogeneconomy</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/aavEHgy9Ge">pic.twitter.com/aavEHgy9Ge</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1244607421680627713?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-30 16:2:17*
 
@@ -1354,8 +1354,8 @@ Right, high yield came back from 12.39% down to 10.64%.
 
 Bruce Richards (on credit). "Moody is behind the curve, massive
 downgrades are coming. BBB credit market had grown 5-fold to reach 3.4
-trillion $ since 08, even before latest crisis, that 10% of that would
-fall to junk, simply due to the end of the credit cycle, 340 bil $
+trillion dol since 08, even before latest crisis, that 10% of that would
+fall to junk, simply due to the end of the credit cycle, 340 bil dol
 worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
 rated B. Coming into this those guys had 5 times debt to EBITDA ratio
 which means single B."
@@ -1552,7 +1552,7 @@ SOUTH AFRICA MILITARY CURFEW"
 
 ---
 
-$1200 payment is a good thing, even more for families, congrats on
+1200 dol payment is a good thing, even more for families, congrats on
 that.
 
 *2020-3-27 21:4:3*
