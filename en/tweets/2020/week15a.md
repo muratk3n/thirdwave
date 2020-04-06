@@ -72,7 +72,7 @@ population that considers their authority legitimate"
 ---
 
 Bad times, and as if on cue, weather is also bad.. Or were we changing
-the weather even daily with out activity? 
+the weather even daily with our activity? 
 
 *2020-4-5 18:56:4*
 
