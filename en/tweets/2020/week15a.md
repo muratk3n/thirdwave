@@ -321,9 +321,9 @@ Just redid Keen's [math](https://muratk3n.github.io/thirdwave/en/2018/02/keen_ma
 ---
 
 
-Added math symbol rendering support to my markdown pages. If you are using
-Github Pages explained [here](https://github.com/cjerdonek/gh-pages-theme-slate),
-add a`/_layouts/default.html` in root dir, copy contents of
+Added math symbol rendering support to my markdown pages. If Github
+Pages users, changes r explained [here](https://github.com/cjerdonek/gh-pages-theme-slate).
+Add a`/_layouts/default.html` in root dir, copy contents of
 [this](https://github.com/pages-themes/slate/blob/master/_layouts/default.html),
 for MathJax add
 
