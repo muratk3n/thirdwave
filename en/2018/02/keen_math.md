@@ -422,7 +422,8 @@ C: Inflation
 "Wage share rises if money wage demands greater than labor productivity and
 the inflation rate"
 
-$$ 
+$$
+\scriptstyle
 \frac{\dot{d}}{d} = 
 \underbrace{\frac{\left( \frac{I_{fn}(\pi_r)}{v} \right) - \pi_s }{d}}_{A} - 
 \left[ 
