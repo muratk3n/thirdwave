@@ -39,7 +39,7 @@ grandson run around with a gun and do fascistic shit in *24*.
 "Actress-activist Shirley Douglas, daughter of medicare's Tommy
 Douglas, mother of actor Kiefer Sutherland, dead at 86"
 
-[Link](https://mobile.twitter.com/docdanielle/status/1246979132266815493))
+[Link](https://mobile.twitter.com/docdanielle/status/1246979132266815493)
 
 *2020-4-6 6:56:57*
 
