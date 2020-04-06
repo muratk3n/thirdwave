@@ -1,7 +1,8 @@
 # Tweets - Week 15a
 
 Now that the dollar sign is reserved for math symbols I need to watch
-out the use of dollar sign, otherwise the rest is interpreted as math.
+for the use of dollar sign, otherwise the rest is interpreted as math,
+effs up all the content.
 
 *2020-4-6 8:0:13*
 
