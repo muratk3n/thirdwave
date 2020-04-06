@@ -411,7 +411,7 @@ A hopeful article on how we might already be seeing benefits of social distancin
 Interesting scenario.. corp bonds go trash then they are accepted less
 and less as collat in repo. People hoard treasuries and dollars, hey
 instead of losing money isnt it better to keep your money at zero IR
-or straight up cash? Which means dollar demand, $ goes up, shortage
+or straight up cash? Which means dollar demand, \$ goes up, shortage
 everywhere.
 
 [Link 1](https://alhambrapartners.com/2020/03/25/collateral-shortage-goes-global-hinting-at-the-way-the-eurodollar-reaches-its-eventual-end/)
@@ -437,7 +437,7 @@ Woha
 
 "@kevinhorgan
 
-Conservative Australian PM announced a $3000 / month, flat rate, UBI
+Conservative Australian PM announced a \$3000 / month, flat rate, UBI
 for full time & part-time workers, a 6-month moratorium on Tenant
 evictions & effective Nationalisation of private hospitals. Best way
 to sustain economy?"
@@ -686,7 +686,7 @@ A hopeful article on how we might already be seeing benefits of social distancin
 Interesting scenario.. corp bonds go trash then they are accepted less
 and less as collat in repo. People hoard treasuries and dollars, hey
 instead of losing money isnt it better to keep your money at zero IR
-or straight up cash? Which means dollar demand, $ goes up, shortage
+or straight up cash? Which means dollar demand, \$ goes up, shortage
 everywhere.
 
 [Link 1](https://alhambrapartners.com/2020/03/25/collateral-shortage-goes-global-hinting-at-the-way-the-eurodollar-reaches-its-eventual-end/)
@@ -712,7 +712,7 @@ Woha
 
 "@kevinhorgan
 
-Conservative Australian PM announced a $3000 / month, flat rate, UBI
+Conservative Australian PM announced a \$3000 / month, flat rate, UBI
 for full time & part-time workers, a 6-month moratorium on Tenant
 evictions & effective Nationalisation of private hospitals. Best way
 to sustain economy?"
@@ -1338,8 +1338,8 @@ Right, high yield came back from 12.39% down to 10.64%.
 
 Bruce Richards (on credit). "Moody is behind the curve, massive
 downgrades are coming. BBB credit market had grown 5-fold to reach 3.4
-trillion $ since 08, even before latest crisis, that 10% of that would
-fall to junk, simply due to the end of the credit cycle, 340 bil $
+trillion \$ since 08, even before latest crisis, that 10% of that would
+fall to junk, simply due to the end of the credit cycle, 340 bil \$
 worth of fallen angels. Out of 900 bil BBB- 1/3 should already be
 rated B. Coming into this those guys had 5 times debt to EBITDA ratio
 which means single B."
@@ -1536,7 +1536,7 @@ SOUTH AFRICA MILITARY CURFEW"
 
 ---
 
-$1200 payment is a good thing, even more for families, congrats on
+\$1200 payment is a good thing, even more for families, congrats on
 that.
 
 *2020-3-27 21:4:3*
