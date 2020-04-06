@@ -280,18 +280,16 @@ plt.savefig('states.png')
 X-axis is number of days after 100th case, so all three states start
 from equal footing. The second week, things went sideways for Governor
 Fredo, growth took off. Ohio did well. Now NY is doing as good as WA
-(same slope). NY fail was bcz of its significantly more air travel
+(same slope). NY fail was bcz of its significantly more [air travel](https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States#Busiest_US_airports_by_total_passenger_boardings)
 which was not stopped early? Or Fredo effed up himself?
-
-[Air Traffic](https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States#Busiest_US_airports_by_total_passenger_boardings)
 
 *2020-4-4 14:30:7*
 
 ---
 
 Keir Starmer the new Labour leader? I hope he does well.. he didnt
-come across too leadership-y in one debate I saw him on, I hope I am
-wrong.
+come across too leadership-y to me in one debate I saw him in, I hope
+I am wrong.
 
 *2020-4-4 14:27:57*
 
