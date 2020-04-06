@@ -8,12 +8,6 @@ Update of econ numbers. VIX is down to 46. Dollar >100.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-4 11:38:26*
-
----
-
 Of course he was right. He just couldn't sell it.
 
 The Atlantic: "Even before the coronavirus outbreak, many on the
@@ -336,6 +330,12 @@ eating of cats and dogs"
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">18 USC §1865 &amp; 36 CFR §10.4 make it a federal crime to take surplus buffaloes from Yellowstone on a train unless they are each in separate crates, but not if you take them away in a truck.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1246260277928235008?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-2 19:53:0*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why the fuck did I buy a 2020 planner</p>&mdash; Pete Blackburn (@PeteBlackburn) <a href="https://twitter.com/PeteBlackburn/status/1245124277868822529?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-2 19:53:45*
@@ -632,13 +632,9 @@ plain yoghurt, serve.
 *2020-3-30 17:58:18*
 
 Big spinach eater here. I am talking some Popeye level shit. Thing is
-full of useful ingreds. I looked for a snack bar with it and tada
+full of useful ingreds. 
 
-<img width="240" src="https://www.zuberlezzetler.com/media/product/10/100081/z/zuberispanaklikayisili.png"/>
-
-4% spinach - probably measured in dried form, as weight, fresh spinach
-is 90% water, so this amt is not bad.. Now part of my breakfast. That
-and mobile coffee.
+*2020-3-30 18:1:2*
 
 ---
 
