@@ -204,7 +204,7 @@ $$  \lambda^2 - 2\lambda + 1 - \frac{\phi_1}{ \alpha + \phi_0} =0$$
 Find roots
 
 ```
-res = np.roots([1, -2, 1-(phi1/(alpha+phi0))   ])
+res = np.roots([1, -2, 1-(phi1/(alpha+phi0))])
 lambda1 = res[1]
 print (res)
 ```
