@@ -116,6 +116,7 @@ $$
 $$
 
 $$
+\scriptstyle
 \frac{\dot{D}}{D} - \frac{\dot{Y}}{Y} =
 \frac{ \kappa(1 - \omega - rd) - (1-\omega-rd) }{d} 
 - \frac{\kappa(1 - \omega - rd) }{v} + \delta
@@ -124,7 +125,6 @@ $$
 \#3
 
 $$
-\scriptstyle
 = \frac{\dot{L}}{L} - \frac{\dot{a}}{a} = \frac{\dot{L}}{L} - \beta
 $$
 
