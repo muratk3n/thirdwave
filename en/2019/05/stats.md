@@ -1,6 +1,6 @@
 # Economy, Calculations, Data
 
-<a name="prezyoy"></a>
+<a name="prez"></a>
 
 ## Potus, Incumbent Elec. College Percentage Prediction 
 
