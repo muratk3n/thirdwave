@@ -4,14 +4,10 @@
 
 ## Potus, Incumbent Elec. College Percentage Prediction 
 
-Time for Change model
-
-https://pollyvote.com/en/components/models/hybrid/time-for-change-model/
+Time for Change [model](https://pollyvote.com/en/components/models/hybrid/time-for-change-model/).
 
 GDP is taken as annualized quarterly growth rate, quarter growth compared to
-previous quarter, annualized. Formula described below:
-
-https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx
+previous quarter, [annualized](https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx). 
 
 
 ```python
