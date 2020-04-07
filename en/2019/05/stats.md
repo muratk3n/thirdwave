@@ -4,7 +4,40 @@
 
 ## Potus, Incumbent Elec. College Percentage Prediction 
 
-GDP growth is taken perc growth of Q2 EO June compared to previous year's Q2 GDP
+Time for Change model
+
+https://pollyvote.com/en/components/models/hybrid/time-for-change-model/
+
+GDP is taken as annualized quarterly growth rate, quarter growth compared to
+previous quarter, annualized. Formula described below:
+
+https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx
+
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1945, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+
+fig, axs = plt.subplots(2)
+
+df = data.DataReader(['GDPC1'], 'fred', start, end)
+df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
+print (df[pd.DatetimeIndex(df.index).year == 1984]['growann'])
+# look at Q2, 04-01 date
+```
+
+```text
+DATE
+1984-01-01    8.051348
+1984-04-01    7.092351
+1984-07-01    3.912381
+1984-10-01    3.324102
+Name: growann, dtype: float64
+```
 
 Latest net-aproval = -11.8 % (approval 42 % minus 53.8 % disproval)
 
@@ -64,6 +97,7 @@ R^2 0.9011858911763367
 [49.04746888 51.49610372] 50.27178630069573
 [47.79232524 48.29461332] 48.04346928199075
 ```
+
 
 ## The Cycle
 
