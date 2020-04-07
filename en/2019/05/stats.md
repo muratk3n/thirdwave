@@ -32,8 +32,6 @@ DATE
 Name: growann, dtype: float64
 ```
 
-Latest net-aproval = -11.8 % (approval 42 % minus 53.8 % disproval)
-
 ```python
 from io import StringIO
 import statsmodels.formula.api as smf
