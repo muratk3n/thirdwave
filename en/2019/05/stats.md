@@ -51,6 +51,10 @@ print (np.dot(pred, conf), np.dot(pred, results.params))
 gdg_growth = 0.0
 pred = [1., gdg_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
+
+gdg_growth = -5.0
+pred = [1., gdg_growth, -5, 0]
+print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
@@ -58,6 +62,7 @@ R^2 0.9011858911763367
 [49.6962248  53.16687853] 51.431551669024834
 [49.37184684 52.33149113] 50.85166898486028
 [49.04746888 51.49610372] 50.27178630069573
+[47.79232524 48.29461332] 48.04346928199075
 ```
 
 ## The Cycle
