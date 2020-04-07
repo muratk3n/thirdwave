@@ -17,9 +17,6 @@ from pandas_datareader import data
 today = datetime.datetime.now()
 start=datetime.datetime(1945, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-
-fig, axs = plt.subplots(2)
-
 df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
 print (df[pd.DatetimeIndex(df.index).year == 1984]['growann'])
