@@ -1,5 +1,7 @@
 # Coronavirus Math
 
+The SIR Model
+
 $$
 \frac{ds}{dt} = -\beta s i
 $$
@@ -73,6 +75,7 @@ MSE 0.12442312407662531
 
 ![](R0fit.png)
 
+References
 
 https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
