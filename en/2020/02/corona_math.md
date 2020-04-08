@@ -52,7 +52,7 @@ y_data = np.array(df.groupby('Date').sum()).T[0]
 y_data = y_data / y_data.max()
 x_data = np.arange(0, len(y_data), 1)
 
-params, params_covariance = optimize.curve_fit(fn, x_data, y_data, p0=[2.0, 2.0], bounds=((0,0),(3,2.0)))
+params, params_covariance = optimize.curve_fit(fn, x_data, y_data, p0=[1.0, 1.0], bounds=((0,0),(2,2)))
 
 beta, gamma = params
 print ('R0',beta / gamma)
@@ -69,8 +69,8 @@ plt.savefig('R0fit.png')
 ```
 
 ```text
-R0 5.520820206702226
-MSE 0.12442312407662531
+R0 5.52041369594885
+MSE 0.12442312589429806
 ```
 
 ![](R0fit.png)
