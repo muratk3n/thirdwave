@@ -28,7 +28,7 @@ bullshit - they dont care. Bring the goods, pronto.
 
 ---
 
-Still see some being adamantly agajnst red meat. Yeah go ahead, do
+Still see some being adamantly against red meat. Yeah go ahead, do
 that. I'll eat mine than I'll kick your ass. I'll kick your ass and
 take your wife. I'll rename your children, Eenie, Meenie, Mo. Or A, B,
 C.. however I like it.. Then you'll understand you made big
