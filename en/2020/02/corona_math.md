@@ -27,7 +27,7 @@ import zipfile
 pd.set_option('display.max_columns', 10)
 with zipfile.ZipFile('corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
-df = df[df['Country/Region']=='Korea, South']
+df = df[df['Country/Region']=='China']
 df = df[['Date','Recovered']]
 df = df[df['Recovered'] > 0.0]
 
@@ -68,8 +68,8 @@ plt.savefig('R0fit.png')
 ```
 
 ```text
-R0 3.0565307847824994
-0.15757317950285088
+R0 8.048231733490757
+0.10011468618017062
 ```
 
 ![](R0fit.png)
