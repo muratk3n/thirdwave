@@ -19,17 +19,8 @@ $$
 
 ```python
 import scipy.integrate as spi
-import numpy as np
-import pylab as pl
-
 import pandas as pd
 import zipfile
-pd.set_option('display.max_columns', 10)
-with zipfile.ZipFile('corona-time.zip', 'r') as z:
-    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
-df = df[df['Country/Region']=='China']
-df = df[['Date','Recovered']]
-df = df[df['Recovered'] > 0.0]
 
 def fn(t_range, beta, gamma):
     S0=1-1e-6
@@ -47,6 +38,14 @@ def fn(t_range, beta, gamma):
     return RES[:,2]
 
 from scipy import optimize
+with zipfile.ZipFile('corona-time.zip', 'r') as z:
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
+
+#print (df['Country/Region'].unique())
+#df = df[df['Country/Region']=='Korea, South']
+df = df[df['Country/Region']=='Italy']
+df = df[['Date','Recovered']]
+df = df[df['Recovered'] > 0.0]
 y_data = np.array(df.groupby('Date').sum()).T[0]
 y_data = y_data / y_data.max()
 x_data = np.arange(0, len(y_data), 1)
@@ -60,7 +59,7 @@ import matplotlib.pyplot as plt
 
 y_data_mod = fn(x_data, beta, gamma)
 
-print (np.sum((y_data-y_data_mod)**2))
+print ('MSE', np.mean(np.sum((y_data-y_data_mod)**2)))
 
 plt.plot(x_data, y_data, 'r.')
 plt.plot(x_data, y_data_mod, '.')
@@ -68,8 +67,8 @@ plt.savefig('R0fit.png')
 ```
 
 ```text
-R0 8.048231733490757
-0.10011468618017062
+R0 5.520820206702226
+MSE 0.12442312407662531
 ```
 
 ![](R0fit.png)
