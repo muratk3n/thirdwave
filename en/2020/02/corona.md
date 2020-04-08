@@ -341,7 +341,6 @@ County Level Data (NYT)
 ! rm us-counties.csv
 ```
 
-
 Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Colors](https://matplotlib.org/3.1.0/gallery/color/named_colors.html)

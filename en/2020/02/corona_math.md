@@ -17,61 +17,64 @@ R_0 = \frac{\beta}{\gamma}
 $$
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 import scipy.integrate as spi
 import numpy as np
 import pylab as pl
 
-beta=1.4247
-gamma=0.14286
-TS=1.0
-ND=70.0
-S0=1-1e-6
-I0=1e-6
-INPUT = (S0, I0, 0.0)
+import pandas as pd
+import zipfile
+pd.set_option('display.max_columns', 10)
+with zipfile.ZipFile('corona-time.zip', 'r') as z:
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
+df = df[df['Country/Region']=='China']
+#df = df[df['Country/Region']=='Korea, South']
+#df = df[df['Country/Region']=='Italy']
+df = df[['Date','Recovered']]
+df = df[df['Recovered'] > 0.0]
 
-def diff_eqs(INP,t):
-    '''The main set of equations'''
-    Y=np.zeros((3))
-    V = INP
-    Y[0] = - beta * V[0] * V[1]
-    Y[1] = beta * V[0] * V[1] - gamma * V[1]
-    Y[2] = gamma * V[1]
-    return Y   # For odeint
+def fn(t_range, beta, gamma):
+    S0=1-1e-6
+    I0=1e-6
+    INPUT = (S0, I0, 0.0)
+    def diff_eqs(INP,t):
+        Y=np.zeros((3))
+        V = INP
+        Y[0] = - beta * V[0] * V[1]
+        Y[1] = beta * V[0] * V[1] - gamma * V[1]
+        Y[2] = gamma * V[1]
+        return Y   # For odeint
 
-t_start = 0.0; t_end = ND; t_inc = TS
-t_range = np.arange(t_start, t_end+t_inc, t_inc)
-RES = spi.odeint(diff_eqs,INPUT,t_range)
+    RES = spi.odeint(diff_eqs,INPUT,t_range)
+    return RES[:,2]
 
-#print (RES)
-print 
+from scipy import optimize
+y_data = np.array(df.groupby('Date').sum()).T[0]
+y_data = y_data / y_data.max()
+x_data = np.arange(0, len(y_data), 1)
 
-#Ploting
-pl.plot(RES[:,0], '-bs', label='Susceptibles')  # I change -g to g--  # RES[:,0], '-g',
-pl.plot(RES[:,2], '-g^', label='Recovereds')  # RES[:,2], '-k',
-pl.plot(RES[:,1], '-ro', label='Infectious')
-pl.legend(loc=0)
-pl.title('SIR epidemic without births or deaths')
-pl.xlabel('Time')
-pl.ylabel('Susceptibles, Recovereds, and Infectious')
-pl.savefig('out.png')
+params, params_covariance = optimize.curve_fit(fn, x_data, y_data, p0=[2.0, 2.0], bounds=((0,0),(3,2.0)))
+
+beta, gamma = params
+print ('R0',beta / gamma)
+
+import matplotlib.pyplot as plt
+
+y_data_mod = fn(x_data, beta, gamma)
+
+print (np.sum((y_data-y_data_mod)**2))
+
+plt.plot(x_data, y_data, 'r.')
+plt.plot(x_data, y_data_mod, '.')
+plt.savefig('R0fit.png')
 ```
 
+```text
+R0 8.048231733490757
+0.10011468618017062
+```
 
+![](R0fit.png)
 
 
 https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
