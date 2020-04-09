@@ -153,7 +153,7 @@ with covid-19 who receive ventilator support will die.'"
 
 ---
 
-We used hi-tech all wrong. We used to extend the "village"; we need
+We used hi-tech all wrong. We used it to extend the "village"; we need
 seek brand new structures that are only possible with tech.
 
 "@Schuldensuehner
