@@ -335,12 +335,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2020-04-02    100.271
 2020-04-03    100.677
 2020-04-06    100.755
 2020-04-07     99.914
+2020-04-08    100.170
 Name: Settle, dtype: float64
-[ 81.82236981 102.76031804]
+[ 81.82352548 102.76095664]
 ```
 
 ![](dollar.png)
@@ -531,12 +531,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-30          10.04
 2020-03-31           9.99
 2020-04-01          10.39
 2020-04-02          10.51
 2020-04-03          10.76
 2020-04-06          10.65
+2020-04-07          10.29
 ```
 
 ![](junkbond.png)
@@ -570,12 +570,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2020-03-30   0.70    0.12         0.58
 2020-03-31   0.70    0.11         0.59
 2020-04-01   0.62    0.09         0.53
 2020-04-02   0.63    0.09         0.54
 2020-04-03   0.62    0.10         0.52
 2020-04-06   0.67    0.15         0.52
+2020-04-07   0.75    0.14         0.61
 ```
 
 ![](yield-curve.png)
@@ -602,13 +602,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2020-03-30    57.080002
 2020-03-31    53.540001
 2020-04-01    57.060001
 2020-04-02    50.910000
 2020-04-03    46.799999
 2020-04-06    45.240002
 2020-04-07    46.700001
+2020-04-08    43.349998
 Name: Adj Close, dtype: float64
 ```
 
@@ -641,11 +641,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-04-01    20.31
 2020-04-02    25.32
 2020-04-03    28.34
 2020-04-06    26.08
 2020-04-07    23.63
+2020-04-08    25.09
 Name: Settle, dtype: float64
 ```
 
@@ -664,6 +664,7 @@ start=datetime.datetime(1960, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 
 df = data.DataReader(['GDPC1','QUSPAMUSDA'], 'fred', start, end)
+df = df.interpolate()
 df['Credit to GDP'] = (df.QUSPAMUSDA / df.GDPC1)*100.0
 df['Credit to GDP'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
@@ -678,15 +679,11 @@ DATE
 2019-01-01    164.956789
 2019-04-01    165.978921
 2019-07-01    166.998080
-2019-10-01           NaN
+2019-10-01    166.121839
 Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 ```
 
 ![](creditgdp.png)
-
-Note: for Quandl retrieval get the API key from Quandl, and place the
-key in a `.quandl` file in the same directory as this file.
-
 
 # Total Consumer Credit Outstanding as % of GDP
 
@@ -724,6 +721,10 @@ Freq: MS, Name: debt, dtype: float64
 ![](debt.png)
 
 
+---
+
+Note: for Quandl retrieval get the API key from Quandl, and place the
+key in a `.quandl` file in the same directory as this file.
 
 
 
