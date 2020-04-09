@@ -56,6 +56,9 @@ def fn(t_range, beta, gamma):
         return Y   # For odeint
 
     RES = spi.odeint(diff_eqs,INPUT,t_range)
+    # fit works on recovered numbers, indirectly assumes they
+    # reached plateau, u can tweak this to fit other parts of
+    # the model
     return RES[:,2]
 
 from scipy import optimize
