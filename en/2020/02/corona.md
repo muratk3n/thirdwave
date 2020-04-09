@@ -50,11 +50,11 @@ Symptomatic Death Rate
 ```python
 recov = df['Recovered'].sum() 
 death = df['Deaths'].sum()
-print ( 'Symp. Death Rate =', np.round(  death / (death + recov) * 100.0, 2) , '%')
+print ( np.round(  death / (death + recov) * 100.0, 2) , '%')
 ```
 
 ```text
-Symp. Death Rate = 21.51 %
+21.51 %
 ```
 
 ```python
