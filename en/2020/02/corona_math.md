@@ -24,7 +24,7 @@ $$
 Rearrange
 
 $$
-\frac{\beta s i }{\gamma} > i
+\frac{\beta s }{\gamma} > i
 $$
 
 At the beginning of the epidemic everyone is susceptible, so $s
