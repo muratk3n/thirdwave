@@ -688,4 +688,38 @@ Note: for Quandl retrieval get the API key from Quandl, and place the
 key in a `.quandl` file in the same directory as this file.
 
 
+# Total Consumer Credit Outstanding as % of GDP
+
+<a name="debt"/>
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+pd.set_option('display.max_columns', 10)
+today = datetime.datetime.now()
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['TOTALSL','GDP']
+df = data.DataReader(cols, 'fred', start, end)
+df = df.interpolate()
+df['debt'] =   df.TOTALSL / df.GDP * 100.0
+print (df.tail(4))
+df.debt.plot()
+plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('debt.png')
+```
+
+```text
+               TOTALSL        GDP       debt
+DATE                                        
+2019-11-01  4170.13549  21729.124  19.191457
+2019-12-01  4191.13218  21729.124  19.288086
+2020-01-01  4203.19197  21729.124  19.343587
+2020-02-01  4225.52270  21729.124  19.446355
+```
+
+![](debt.png)
 
