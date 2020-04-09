@@ -62,7 +62,7 @@ from scipy import optimize
 with zipfile.ZipFile('corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 
-#print (df['Country/Region'].unique())
+#df = df[df['Country/Region']=='China']
 #df = df[df['Country/Region']=='Korea, South']
 df = df[df['Country/Region']=='Italy']
 df = df[['Date','Recovered']]
