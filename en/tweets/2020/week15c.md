@@ -64,19 +64,18 @@ week later, one of these politicians was diagnosed with Covid-19.)"
 
 ---
 
-Yees I did a fit on an ODE calc. Why not? ODE "integrations" are like
-any other numerical calculation, they have certain parameters, they
-are completely deterministic, so a fitting procedure can work with
-that.
+Yees I fit an ODE numerical calculation. Why not? ODE "integrations"
+are like any other numerical calculation, they have certain
+parameters, they are completely deterministic, so a fitting procedure
+can work with that.
 
 *2020-4-8 19:40:3*
 
 ---
 
-I did a fit on the differential eqn for the SIR model, if we use Italy
-numbers, a rough estimate gives a 5.2. Different countries give
-different results however. I get an 8 from China, if we believe their
-numbers.
+I fit the differential eqn for the SIR model, if we use Italy numbers,
+a rough estimate gives a 5.2. Different countries give different
+results however. I get an 8 from China, if we believe their numbers.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona_math.html)
 
