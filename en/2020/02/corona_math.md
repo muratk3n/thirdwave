@@ -18,10 +18,10 @@ Where does $R_0$ come from? Epidemic occurs if \# of infected ppl
 increase, meaning $di / dt > 0$. That means (from 2nd eq above)
 
 $$
-\beta si - \gamma i > 0, \quad \frac{\beta s i }{\gamma} > i
+\beta si - \gamma i > 0  \implies \frac{\beta s i }{\gamma} > i
 $$
 
-Rearrange
+Then,
 
 $$
 \frac{\beta s }{\gamma} > 1
