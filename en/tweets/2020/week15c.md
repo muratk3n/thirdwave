@@ -74,7 +74,7 @@ can work with that.
 ---
 
 I fit the differential eqn for the SIR model, if we use Italy numbers,
-a rough estimate gives a 5.2. Different countries give different
+a rough estimate gives a 5.5. Different countries give different
 results however. I get an 8 from China, if we believe their numbers.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona_math.html)
