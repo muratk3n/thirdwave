@@ -48,7 +48,7 @@ rain here in LA and I DON'T EVEN UNDERSTAND THE WORLD ANYMORE"
 
 ---
 
-[Lessons from Italy, HBR article]: "Recognize your cognitive
+(Lessons from Italy, HBR article): "Recognize your cognitive
 biases. In its early stages, the Covid-19 crisis in Italy looked
 nothing like a crisis. The initial state-of-emergency declarations
 were met by skepticism by both the public and many in policy circles —
