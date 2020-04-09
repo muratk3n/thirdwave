@@ -702,9 +702,9 @@ start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['TOTALSL','GDP']
 df = data.DataReader(cols, 'fred', start, end)
-df = df.interpolate()
+df = df.interpolate(method='linear')
 df['debt'] =   df.TOTALSL / df.GDP * 100.0
-print (df.tail(4))
+print (df.debt.tail(4))
 df.debt.plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -713,13 +713,23 @@ plt.savefig('debt.png')
 ```
 
 ```text
-               TOTALSL        GDP       debt
-DATE                                        
-2019-11-01  4170.13549  21729.124  19.191457
-2019-12-01  4191.13218  21729.124  19.288086
-2020-01-01  4203.19197  21729.124  19.343587
-2020-02-01  4225.52270  21729.124  19.446355
+DATE
+2019-11-01    19.191457
+2019-12-01    19.288086
+2020-01-01    19.343587
+2020-02-01    19.446355
+Freq: MS, Name: debt, dtype: float64
 ```
 
 ![](debt.png)
+
+
+
+
+
+
+
+
+
+
 
