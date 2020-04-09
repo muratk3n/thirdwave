@@ -23,7 +23,7 @@ H2 activity per country (Forbes)
 
 "@normonics
 
-Will the "economy pause is more deadly" bros please tell me how many
+Will the 'economy pause is more deadly' bros please tell me how many
 so far have been lost to the economy pause?"
 
 *2020-4-9 7:25:31*
@@ -48,18 +48,15 @@ rain here in LA and I DON'T EVEN UNDERSTAND THE WORLD ANYMORE"
 
 ---
 
-
-"[Lessons from Italy, HBR article] 
-
-Recognize your cognitive biases. In its early stages, the Covid-19
-crisis in Italy looked nothing like a crisis. The initial
-state-of-emergency declarations were met by skepticism by both the
-public and many in policy circles — even though several scientists had
-been warning of the potential for a catastrophe for weeks. Indeed, in
-late February some notable Italian politicians engaged in public
-handshaking in Milan to make the point that the economy should not
-panic and stop because of the virus. (A week later, one of these
-politicians was diagnosed with Covid-19.)"
+[Lessons from Italy, HBR article]: "Recognize your cognitive
+biases. In its early stages, the Covid-19 crisis in Italy looked
+nothing like a crisis. The initial state-of-emergency declarations
+were met by skepticism by both the public and many in policy circles —
+even though several scientists had been warning of the potential for a
+catastrophe for weeks. Indeed, in late February some notable Italian
+politicians engaged in public handshaking in Milan to make the point
+that the economy should not panic and stop because of the virus. (A
+week later, one of these politicians was diagnosed with Covid-19.)"
 
 [Link](https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus)
 
