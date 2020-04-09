@@ -64,10 +64,10 @@ week later, one of these politicians was diagnosed with Covid-19.)"
 
 ---
 
-Yees bitch I did a fit on an ODE calc. Why not? ODE "integrations" are
-like any other numerical calculation, they have certain parameters,
-they are completely deterministic, so a fitting procedure can work
-with that.
+Yees I did a fit on an ODE calc. Why not? ODE "integrations" are like
+any other numerical calculation, they have certain parameters, they
+are completely deterministic, so a fitting procedure can work with
+that.
 
 *2020-4-8 19:40:3*
 
