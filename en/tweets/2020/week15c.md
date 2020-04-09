@@ -67,10 +67,10 @@ politicians was diagnosed with Covid-19.)"
 
 ---
 
-Yees bitch I did a fit on an ODE calc. Whazup?! And why not? ODE
-"integrations" are like any other numerical calculation, they have
-certain parameters, they are completely deterministic, so a fitting
-procedure can work with that.
+Yees bitch I did a fit on an ODE calc. Why not? ODE "integrations" are
+like any other numerical calculation, they have certain parameters,
+they are completely deterministic, so a fitting procedure can work
+with that.
 
 *2020-4-8 19:40:3*
 
@@ -95,6 +95,8 @@ New higher R0 from CDC reanalysis... it’s a 5.7!"
 *2020-4-8 19:36:39*
 
 ---
+
+\#Bernie
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a good campaign against the odds in every single way &amp; has clearly changed the course of history for the better. Feel bad but also feel proud — and feel hopeful that Trump will be defeated and the movement for real change will grow. It will. <a href="https://twitter.com/hashtag/InThisTogether?src=hash&amp;ref_src=twsrc%5Etfw">#InThisTogether</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1247911732669898757?ref_src=twsrc%5Etfw">April 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -127,9 +129,9 @@ separation of church and state"
 ---
 
 U could do minwage 3.6 dollar/hour instead of 7.25 of today. That's
-the amount if everyone is given 1000 dollars a month tax exempt
-cash. I believe companies would be more willing to hire workers if
-they have to pay less.
+the reduction u'd get if everyone is given 1000 dollars a month tax
+exempt cash. I believe companies would be more willing to hire workers
+if they have to pay less.
 
 Also, if M4A takes the burden of this insurance fuckery off their
 backs, they'd be even happier. All this stuff is GOOD FOR BUSINESS.
