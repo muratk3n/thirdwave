@@ -14,9 +14,28 @@ $$
 \frac{dr}{dt} = \gamma i
 $$
 
+Where does $R_0$ come from? Epidemic occurs if \# of infected ppl
+increase, meaning $di / dt > 0$. That means (from 2nd eq above)
+
 $$
-R_0 = \frac{\beta}{\gamma}
+\beta si - \gamma i > 0
 $$
+
+Rearrange
+
+$$
+\frac{\beta s i }{\gamma} > i
+$$
+
+At the beginning of the epidemic everyone is susceptible, so $s
+\approx 1$. Substitute $s=1$
+
+$$
+\frac{\beta}{\gamma} = R_0 > 1
+$$
+
+To find $R_0$ from data, we fit the differential equation system above
+to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
 
 ```python
