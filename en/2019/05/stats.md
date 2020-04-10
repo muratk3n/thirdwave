@@ -730,6 +730,43 @@ Freq: MS, Name: debt, dtype: float64
 ![](debt.png)
 
 
+<a name="gini"/>
+
+# Inequality - GINI Index
+
+[Data](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3,2019.4)
+
+```python
+import finutil
+
+wealth = [[1992, 5.69, 8.16, 8.32, 0.95],
+          [1996, 8.18, 9.79, 9.89, 1.24],
+       	  [2000, 12.59, 14.56, 13.86, 1.45],
+	  [2004, 14.26, 18.33, 17.57, 1.26],
+	  [2008, 18.99, 24.60, 19.73, 1.17],
+	  [2012, 19.80, 26.25, 20.33, 0.38],
+	  [2016, 27.27, 33.29, 25.43, 1.00],
+	  [2019, 34.54, 40.12, 30.90, 1.67]]
+	  
+p = [0.01, 0.09, 0.40, 0.50]
+gini = [finutil.gini(p, r[1:]) for r in wealth]
+yrs = [r[0] for r in wealth]
+plt.ylim(0,1)
+plt.bar(yrs, gini)
+print (gini)
+plt.savefig('gini.png')
+```
+
+```text
+[0.401, 0.39, 0.41, 0.438, 0.463, 0.503, 0.485, 0.472]
+```
+
+![](gini.png)
+
+
+
+
+
 ---
 
 Note: for Quandl retrieval get the API key from Quandl, and place the
