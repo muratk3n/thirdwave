@@ -112,7 +112,7 @@ on Jan. 23 — but not from Hubei to the rest of the world?"
 
 ---
 
-Doctor Who Tenant era was great. My fav companion Billy Piper. 
+Doctor Who Tennant era was great. My fav companion Billie Piper. 
 
 *2020-4-9 20:21:31*
 
