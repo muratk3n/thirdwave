@@ -494,15 +494,24 @@ import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
+start=datetime.datetime(1995, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['WILL5000IND']
 df = data.DataReader(cols, 'fred', start, end)
 df.plot()
-plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
+print (df.tail(4))
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('wilshire.png')
+```
+
+```text
+            WILL5000IND
+DATE                   
+2020-04-03       116.53
+2020-04-06       124.83
+2020-04-07       124.75
+2020-04-08       129.19
 ```
 
 ![](wilshire.png)
@@ -531,12 +540,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-03-31           9.99
 2020-04-01          10.39
 2020-04-02          10.51
 2020-04-03          10.76
 2020-04-06          10.65
 2020-04-07          10.29
+2020-04-08          10.24
 ```
 
 ![](junkbond.png)
@@ -570,12 +579,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2020-03-31   0.70    0.11         0.59
 2020-04-01   0.62    0.09         0.53
 2020-04-02   0.63    0.09         0.54
 2020-04-03   0.62    0.10         0.52
 2020-04-06   0.67    0.15         0.52
 2020-04-07   0.75    0.14         0.61
+2020-04-08   0.77    0.22         0.55
 ```
 
 ![](yield-curve.png)
@@ -641,11 +650,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-04-02    25.32
 2020-04-03    28.34
 2020-04-06    26.08
 2020-04-07    23.63
 2020-04-08    25.09
+2020-04-09    22.76
 Name: Settle, dtype: float64
 ```
 
@@ -685,9 +694,9 @@ Freq: QS-OCT, Name: Credit to GDP, dtype: float64
 
 ![](creditgdp.png)
 
-# Total Consumer Credit Outstanding as % of GDP
-
 <a name="debt"/>
+
+# Total Consumer Credit Outstanding as % of GDP
 
 ```python
 import pandas as pd, datetime
@@ -725,12 +734,4 @@ Freq: MS, Name: debt, dtype: float64
 
 Note: for Quandl retrieval get the API key from Quandl, and place the
 key in a `.quandl` file in the same directory as this file.
-
-
-
-
-
-
-
-
 
