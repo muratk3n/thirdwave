@@ -34,7 +34,7 @@ reality"
 
 ---
 
-Yeah - thanks for the obvious, jerkoff
+Yeah - thanks for the obvious, guy
 
 Con: "It might have been better to go into this crisis with universal
 health coverage"
