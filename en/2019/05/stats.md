@@ -751,7 +751,7 @@ wealth = [[1992, 5.69, 8.16, 8.32, 0.95],
 p = [0.01, 0.09, 0.40, 0.50]
 gini = [finutil.gini(p, r[1:]) for r in wealth]
 yrs = [r[0] for r in wealth]
-plt.ylim(0,1)
+plt.ylim(0.3,0.6)
 plt.bar(yrs, gini)
 print (gini)
 plt.savefig('gini.png')
