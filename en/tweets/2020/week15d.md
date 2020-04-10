@@ -1,6 +1,7 @@
 # Tweets - Week 15d
 
-Inequality - Gini plot, with more data.
+Inequality - Gini plot update, utilizing more granular data from Fred
+per wealth percentile blocks.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini)
 
