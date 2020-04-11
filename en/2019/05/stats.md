@@ -774,7 +774,9 @@ Freq: QS-OCT, dtype: float64
 
 ![](gini.png)
 
+---
 
+Code - [finutils.py](finutils.py)
 
 ---
 
