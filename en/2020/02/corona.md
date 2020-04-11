@@ -297,7 +297,7 @@ with zipfile.ZipFile('corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 df = df[['Date','Confirmed']]
 df = df.set_index('Date')
-confirmed = df.groupby('Date').sum()
+confirmed = df.groupby('Date').sum() / 1e6
 print (confirmed.tail(4))
 confirmed.plot()
 plt.savefig('timeseries.png')
@@ -306,10 +306,10 @@ plt.savefig('timeseries.png')
 ```text
             Confirmed
 Date                 
-2020-04-04    1197405
-2020-04-05    1272115
-2020-04-06    1345101
-2020-04-07    1426096
+2020-04-07       1.43
+2020-04-08       1.51
+2020-04-09       1.60
+2020-04-10       1.69
 ```
 
 ![](timeseries.png)
@@ -327,11 +327,11 @@ plt.savefig('rate.png')
 ```text
             Confirmed
 Date                 
-2020-04-03       8.15
-2020-04-04       9.26
-2020-04-05       6.24
 2020-04-06       5.74
 2020-04-07       6.02
+2020-04-08       5.96
+2020-04-09       5.58
+2020-04-10       6.04
 ```
 
 ![](rate.png)
