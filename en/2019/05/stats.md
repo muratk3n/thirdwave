@@ -738,8 +738,6 @@ Freq: MS, Name: debt, dtype: float64
 
 # Inequality - GINI Index
 
-[Data](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3,2019.4)
-
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
