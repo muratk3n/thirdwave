@@ -93,19 +93,19 @@ Asian Pacific American Experience in Seattle is devoted to him.[Read:
 Meet Gary Locke, America’s new ambassador to China]In other words:
 Locke is not a Chinese official, as the Trump campaign made him out to
 be, apparently because of the way he looks and because he was standing
-next to a Chinese flag.“It is racial stereotyping at its worst. Asian
+next to a Chinese flag.'It is racial stereotyping at its worst. Asian
 Americans—whether you’re second-, third-, or fourth-generation, will
-always be viewed as foreigners,” Locke told me today. “We don’t say
+always be viewed as foreigners,' Locke told me today. 'We don’t say
 that about second- or third-generation Irish Americans or Polish
 Americans. No one would even think to include them in a picture when
-you’re talking about foreign government officials.”
+you’re talking about foreign government officials.'
 
 Locke is justifiably bewildered by being thrown into the middle of the
 campaign. “For a lot of Asian Americans, it’s not surprising, but it
 is disheartening,” he said.[Read: The other problematic
 outbreak]Locke’s father was part of the Normandy invasion, then was
 ordered along with the rest of the Fifth Armored Division to the
-Battle of the Bulge.
+Battle of the Bulge"
 
 [Link](https://www.theatlantic.com/politics/archive/2020/04/trumps-attacks-gary-locke/609844/)
 
