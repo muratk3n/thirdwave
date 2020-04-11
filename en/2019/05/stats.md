@@ -742,7 +742,7 @@ from pandas_datareader import data
 import finutil
 
 today = datetime.datetime.now()
-start=datetime.datetime(1945, 1, 1)
+start=datetime.datetime(1989, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
 df = data.DataReader(cols, 'fred', start, end)
@@ -750,6 +750,14 @@ p = [0.01, 0.09, 0.40, 0.50]
 gini = df.apply(lambda x: finutil.gini(p,x),axis=1)
 print (gini.tail(4))
 gini.plot()
+plt.axvspan('1993-01-01','1993-01-01',color='y')
+plt.axvspan('2001-01-01','2001-01-01',color='y')
+plt.axvspan('2009-01-01','2009-01-01',color='y')
+plt.axvspan('2017-01-01','2017-01-01',color='y')
+plt.text('1989-01-01',0.44,'HW')
+plt.text('1994-01-01',0.46,'Clinton')
+plt.text('2003-01-01',0.47,'Bush')
+plt.text('2011-01-01',0.44,'Obama')
 plt.savefig('gini.png')
 ```
 
