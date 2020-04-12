@@ -287,30 +287,30 @@ Time Series
 
 ```python
 ! wget https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
-! zip $HOME/Downloads/corona-time.zip time-series-19-covid-combined.csv
+! zip /tmp/corona-time.zip time-series-19-covid-combined.csv
 ! rm time-series-19-covid-combined.csv
 ```
 
 ```python
-import pandas as pd, zipfile, os
+import pandas as pd, zipfile
 
-with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/corona-time.zip', 'r') as z:
+with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 df = df[['Date','Confirmed']]
 df = df.set_index('Date')
-confirmed = df.groupby('Date').sum() / 1e6
+confirmed = (df.groupby('Date').sum() / 1e6).round(3)
 print (confirmed.tail(4))
-confirmed.plot()
+confirmed.plot() # in millions
 plt.savefig('timeseries.png')
 ```
 
 ```text
             Confirmed
 Date                 
-2020-04-08   1.511104
-2020-04-09   1.595350
-2020-04-10   1.691719
-2020-04-11   1.771514
+2020-04-08       1.51
+2020-04-09       1.59
+2020-04-10       1.69
+2020-04-11       1.77
 ```
 
 ![](timeseries.png)
@@ -342,7 +342,7 @@ County Level Data (NYT)
 
 ```python
 ! wget https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
-! zip $HOME/Downloads/corona-county.zip us-counties.csv
+! zip /tmp/corona-county.zip us-counties.csv
 ! rm us-counties.csv
 ```
 
