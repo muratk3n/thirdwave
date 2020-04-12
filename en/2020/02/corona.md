@@ -287,14 +287,14 @@ Time Series
 
 ```python
 ! wget https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
-! zip corona-time.zip time-series-19-covid-combined.csv
+! zip $HOME/Downloads/corona-time.zip time-series-19-covid-combined.csv
 ! rm time-series-19-covid-combined.csv
 ```
 
 ```python
-import pandas as pd
-import zipfile
-with zipfile.ZipFile('corona-time.zip', 'r') as z:
+import pandas as pd, zipfile, os
+
+with zipfile.ZipFile(os.environ['HOME'] + '/Downloads/corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 df = df[['Date','Confirmed']]
 df = df.set_index('Date')
@@ -307,10 +307,10 @@ plt.savefig('timeseries.png')
 ```text
             Confirmed
 Date                 
-2020-04-07       1.43
-2020-04-08       1.51
-2020-04-09       1.60
-2020-04-10       1.69
+2020-04-08   1.511104
+2020-04-09   1.595350
+2020-04-10   1.691719
+2020-04-11   1.771514
 ```
 
 ![](timeseries.png)
@@ -328,11 +328,11 @@ plt.savefig('rate.png')
 ```text
             Confirmed
 Date                 
-2020-04-06       5.74
 2020-04-07       6.02
 2020-04-08       5.96
 2020-04-09       5.58
 2020-04-10       6.04
+2020-04-11       4.72
 ```
 
 ![](rate.png)
@@ -346,7 +346,7 @@ County Level Data (NYT)
 ! rm us-counties.csv
 ```
 
-Files - [corona.csv](corona.csv), [corona-time.zip](corona-time.zip), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
+Files - [corona.csv](corona.csv), [alpha3country.csv](alpha3country.csv), [util.py](util.py)
 
 [Colors](https://matplotlib.org/3.1.0/gallery/color/named_colors.html)
 
