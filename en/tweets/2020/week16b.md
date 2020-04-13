@@ -26,7 +26,7 @@ Italy wasn’t suppose to be in the Eurozone"
 
 ---
 
-Yep. And that bending over backwards does not sit well w progs they
+Yep. And if that bending over backwards does not sit well w progs they
 can start a new party
 
 "@LemieuxLGM
