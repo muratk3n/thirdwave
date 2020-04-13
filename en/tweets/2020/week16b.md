@@ -251,6 +251,10 @@ perfectly in line with pre-Jesus, Moses paganist rituals when the
 majority worshipped ancestor bones due to inheritance worries, again,
 farm related and sacrificed young children. 
 
+*2020-4-11 18:23:7*
+
+---
+
 "'The Christianity we know today is not the Christianity of Jesus,'
 says Professor Hudson.  Indeed the Judaism that we know today is not
 the Judaism of Jesus either. The economist told Renegade Inc the
