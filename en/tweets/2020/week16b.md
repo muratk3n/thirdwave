@@ -89,7 +89,7 @@ Tom Noble - Dancing Hard \#music
 
 "@IcarusGlider
 
-Funny how folks observe the thing uhuJesus didnt say to observe, and
+Funny how folks observe the thing Jesus didnt say to observe, and
 ignore what he did say to observe"
 
 *2020-4-12 19:15:7*
