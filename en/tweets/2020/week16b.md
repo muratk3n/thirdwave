@@ -222,7 +222,8 @@ lost and confused.
 
 ---
 
-Covid-__Wuhan__ update: 242K more in 3 days. Daily change % down to 4.72.
+Covid-*Wuhan* update: 242K more in 3 days. Daily change % down to
+4.72.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
