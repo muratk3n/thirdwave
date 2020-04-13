@@ -89,7 +89,7 @@ Tom Noble - Dancing Hard \#music
 
 "@IcarusGlider
 
-Funny how folks observe the thing Jesus didnt say to observe, and
+Funny how folks observe the thing uhuJesus didnt say to observe, and
 ignore what he did say to observe"
 
 *2020-4-12 19:15:7*
@@ -230,8 +230,9 @@ Covid-__Wuhan__ update: 242K more in 3 days. Daily change % down to 4.72.
 
 ---
 
-The emperor himself did not order the execution of Jesus, but Pontius
-Pilate, his governor did. 
+"But Jesus was not killed by the emperor himself..!".  Sure, but
+Pontius Pilate, his governor ordered his execution - so the system
+killed him.
 
 *2020-4-11 19:25:6*
 
