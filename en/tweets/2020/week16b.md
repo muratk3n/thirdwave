@@ -241,11 +241,11 @@ killed him.
 
 This confirms my thesis that Jesus, Moses were political leaders, and
 speficially left politicians of their day. The billionaires, the ppl
-in power at the time were the pharoah, the ceasar - i.e. ancient
-mafia.  Jesus, Moses butted heads with this system, and were promptly
-persecuted. An unfair system can only be possible with large
-landowners present BTW, a direct extension of an agrarian structures -
-a 60K year old construction at max.
+in power at the time were the pharoah, the ceasar, Ottocroc sultan -
+i.e. ancient mafia.  Jesus, Moses butted heads with this system, and
+were promptly persecuted. An unfair system can only be possible with
+large landowners present BTW, a direct extension of an agrarian
+structures - a 60K year old construction at max.
 
 These left leaders spoke of economic matters, but later their message
 was coopted by "elders", morphing the message into moralistic issues,
