@@ -144,7 +144,7 @@ are barking up the wrong tree - this thing is just another commodity
 (perhaps even worse than some other commodities), you buy it when the
 price seems favorable, and sell if there are enough morons willing to
 pay. But there is no value in it, if enough ppl favored sock puppets,
-sock puppets could be a currency.
+sock puppets could be a 'store of value'.
 
 "Gordon Brown [.. 1999-2002] UK Chancellor of the Exchequer (who later
 became Prime Minister) ...  decided to sell approximately half of the
