@@ -48,13 +48,13 @@ party"
 
 ---
 
-Basis $x^3$? Same deal. 
+Basis $r^3$? Same deal. 
 
 *2020-4-12 21:52:8*
 
 ---
 
-Yeah... $e^{-x}$ is convex but $e^{-x^2}$ is not.. Sorry no cigar. So
+Yeah... $e^{-r}$ is convex but $e^{-r^2}$ is not.. Sorry no cigar. So
 sums of these, as in RBFS, would not guarantee global convergence. No
 luck my tegro.
 
