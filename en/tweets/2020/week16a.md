@@ -176,3 +176,8 @@ We're [US] not the only ones with a self-conception of
 *2020-4-10 14:3:22*
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
