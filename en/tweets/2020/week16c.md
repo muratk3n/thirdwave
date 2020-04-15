@@ -1,6 +1,7 @@
 # Tweets - Week 16c
 
-COV update, 280K in 4 days. Daily chg rate down to 3.07%. Pattern
+COV update, 280K more cases in 4 days. Daily chg rate down to
+3.07%. Pattern
 
 ```
 2020-04-11       4.72
@@ -15,7 +16,7 @@ COV update, 280K in 4 days. Daily chg rate down to 3.07%. Pattern
 
 ---
 
-Hey.. A.C. bad or good, more interest is a good thing.
+Hey.. if A.C. is on this thing, watch out
 
 "One of the most attractive features of hydrogen technology as an energy carrier is its adaptability and versatility. Furthermore, existing infrastructure can produce, store, and transport energy in multiple ways, and hydrogen can be extracted from renewable and non-renewable resources. Hydrogen can also be converted to methane and electricity to power homes, or transformed into fuel for mobility. Hydrogen is one of the preferred options for storing excess energy produced from renewables—using water electrolysis technology, excess renewable electricity is used to split water into oxygen and hydrogen, which can then be stored in tanks. Hydrogen gas has the highest energy content of any fuel, as it has the capability to store substantial amounts of energy in a small amount of hydrogen. As a result, the technology is projected to be a low-cost option for energy storage over extended periods of time, making renewables a more attractive energy source for widespread adoption"
 
@@ -25,8 +26,8 @@ Hey.. A.C. bad or good, more interest is a good thing.
 
 ---
 
-NY so glad Im not in dat effin dump. Wuz there for 9/11. One calamity
-is more than enough.
+so glad Im not in dat effin dump. Was there for 9/11. One calamity is
+more than enough.
 
 *2020-4-15 12:36:4*
 
@@ -127,7 +128,7 @@ demonstrated before in hydrogen ion flow batteries"
 
 Woa... shortest path problems are indeed solveable as LPs - just
 solved one. And LP's internally use continuous methods, as in interior
-point styles..barrier, do Newton.. So a discrete prob solveable in
+point styles..barrier, do Newton.. So a discrete prob solvable in
 continuous realm. No need for discreteness, loops, stacks and queues
 and shit.. Very awesome 🖖.
 
