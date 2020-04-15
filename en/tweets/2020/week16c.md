@@ -26,13 +26,6 @@ Hey.. if A.C. is on this thing, watch out
 
 ---
 
-so glad Im not in dat effin dump. Was there for 9/11. One calamity is
-more than enough.
-
-*2020-4-15 12:36:4*
-
----
-
 "The state [of NY] has now had more diagnosed cases of the virus than
 any single country"
 
