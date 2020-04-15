@@ -153,7 +153,7 @@ a while.
 
 Too bad.. power bars have short exp date.. New approach using base
 ingredients..  Dried apricot, chestnut, almonds, dried berry, puffed
-rice for volume (very light too).
+rice for volume.
 
 *2020-4-14 9:45:17*
 
