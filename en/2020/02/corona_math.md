@@ -62,7 +62,7 @@ def fn(t_range, beta, gamma):
     return RES[:,2]
 
 from scipy import optimize
-with zipfile.ZipFile('corona-time.zip', 'r') as z:
+with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 
 #df = df[df['Country/Region']=='China']
@@ -96,6 +96,40 @@ MSE 0.12442312589429806
 ```
 
 ![](R0fit.png)
+
+<a name="r0est"/>
+
+## R0 Estimate
+
+```python
+import pandas as pd, zipfile
+
+with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
+    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
+#df = df[df['Country/Region']=='Korea, South']
+#df = df[df['Country/Region']=='US']
+df = df[['Date','Confirmed']]
+conf = df.groupby('Date').sum()
+ahead = 7
+conf['ma'] = conf.rolling(ahead).mean()
+conf['ah'] = conf.ma.shift(-ahead)
+conf['R0'] = conf.ah / conf.ma
+conf.R0.plot()
+print (conf.R0.dropna().tail(5))
+plt.savefig('R0est.png')
+```
+
+```text
+Date
+2020-04-05    1.546034
+2020-04-06    1.513327
+2020-04-07    1.484892
+2020-04-08    1.457720
+2020-04-09    1.434696
+Name: R0, dtype: float64
+```
+
+![](R0est.png)
 
 References
 
