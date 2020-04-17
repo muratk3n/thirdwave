@@ -131,7 +131,7 @@ The global spread of democracy began leveling off some 15 years ago"
 
 ---
 
-Haha there is a famour archeolog called Michael Shanks the same name
+Haha there is a famous archeolog called Michael Shanks the same name
 of an actor who played an archeologist on *Stargate*, the TV show.
 
 *2020-4-16 19:23:20*
