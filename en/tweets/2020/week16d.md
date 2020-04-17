@@ -100,18 +100,25 @@ A crazy year. A lot of things ended, collapsed, etc.
 
 ---
 
-It hasn't actually. Democracy has been strengthening.
+Haas.. the name sounds familiar. Isn't u some kind of hot shot bro?
+How can u eff this simplest observation up?
 
-To see that clearly, look at the data. The Polity data set is
-excellent in that regard.
+*2020-4-16 20:30:0*
+
+---
+
+That is actually incorrect. Democracy has been strengthening around
+the world. To see that clearly, let's look at the data. The Polity
+data set.
 
 [Main Page](http://www.systemicpeace.org/inscrdata.html), [Data](http://www.systemicpeace.org/inscr/p4v2018.xls), [Data - Local](p4v2018.xls)
 
-Their `DEMOC` and `AUTOC` columns carry the respective insititutional
-leanings of a country, the `POLITY` columns is one subtracted from the
+Their `DEMOC` and `AUTOC` columns contain the level of insititutional
+leanings of a country, `POLITY` column is one subtracted from the
 other, it ranges btw -10 and +10, the latter being full democracy.
 
-If we group per year and average each country, to see where the world is heading,
+If we group per year and average each country, we see where the world
+is heading,
 
 
 ```python
