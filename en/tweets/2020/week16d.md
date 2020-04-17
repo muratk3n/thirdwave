@@ -1,18 +1,5 @@
 # Tweets - Week 16d
 
-"@JordanUhl
-
-Struggling to graph the psychopathy of a snake oil salesman posing as
-a medical expert going on Hannity's show and arguing that 2—3%
-mortality rate from sending kids back to school is a "tradeoff" some
-will be willing to consider to get the economy open"
-
-[Link](https://mobile.twitter.com/JordanUhl/status/1250815999835848708)
-
-*2020-4-17 13:14:8*
-
----
-
 "@YorukIsik
 
 Kommersant: .. there are reports that Russia is recruiting Syrian
