@@ -99,7 +99,7 @@ MSE 0.12442312589429806
 
 <a name="r0est"/>
 
-## R0 Estimate
+## Reproduction Rate Estimate
 
 ```python
 import pandas as pd, zipfile
