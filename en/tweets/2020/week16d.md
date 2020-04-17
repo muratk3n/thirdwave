@@ -298,10 +298,7 @@ COV) the Free Will Theorem sounds like bunch of mental masturbation. I
 think he confused noncomputability of universe with nonpredictability
 imbuing the latter with "free will". Universe computes, it computes
 itself - so to predict it to its tiniest element u'd need a computer
-as large as the universe, see t' Hooft. And concepts like propagation
-of information btw experimenters / surroundings, we still dont know
-where we are in the simulation. If outside merely hooked up noone can
-know speed of information there.
+as large as the universe, see t' Hooft. 
 
 *2020-4-16 7:30:3*
 
