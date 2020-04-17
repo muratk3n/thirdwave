@@ -113,7 +113,7 @@ conf = df.groupby('Date').sum()
 ahead = 7
 conf['ma'] = conf.rolling(ahead).mean()
 conf['ah'] = conf.ma.shift(-ahead)
-conf['R0'] = conf.ah / conf.ma
+conf['R0'] = (conf.ah - conf.ma) / conf.ma
 conf.R0.plot()
 print (conf.R0.dropna().tail(5))
 plt.savefig('R0est.png')
@@ -121,11 +121,11 @@ plt.savefig('R0est.png')
 
 ```text
 Date
-2020-04-05    1.546034
-2020-04-06    1.513327
-2020-04-07    1.484892
-2020-04-08    1.457720
-2020-04-09    1.434696
+2020-04-05    0.546034
+2020-04-06    0.513327
+2020-04-07    0.484892
+2020-04-08    0.457720
+2020-04-09    0.434696
 Name: R0, dtype: float64
 ```
 
