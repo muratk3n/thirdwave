@@ -110,7 +110,7 @@ with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
 #df = df[df['Country/Region']=='US']
 df = df[['Date','Confirmed']]
 conf = df.groupby('Date').sum()
-ahead = 7
+ahead = 10
 conf['ma'] = conf.rolling(ahead).mean()
 conf['ah'] = conf.ma.shift(-ahead)
 conf['R0'] = (conf.ah - conf.ma) / conf.ma
@@ -121,11 +121,11 @@ plt.savefig('R0est.png')
 
 ```text
 Date
-2020-04-05    0.546034
-2020-04-06    0.513327
-2020-04-07    0.484892
-2020-04-08    0.457720
-2020-04-09    0.434696
+2020-04-02    1.080244
+2020-04-03    1.001685
+2020-04-04    0.927791
+2020-04-05    0.863704
+2020-04-06    0.810089
 Name: R0, dtype: float64
 ```
 

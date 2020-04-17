@@ -23,14 +23,14 @@ the Libyan National Army"
 
 ---
 
-Attempted at an R0 estimate, if we [go by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002118/)
-"[t]he epidemiologicaldefinition of R0 is the average number of
-secondary cases produced by one infected individual introduced into a
-population of susceptible individuals", then say it takes 7 days for
-the symptoms to occur after infection, then average of last 7 days
-would effect the average of next 7 days, new cases then divided by the
-past average can give an R0 estimate. The estimate shows the world is
-below 1, R0 < 1.
+Attempted at an R0 estimate, if we [go
+by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002118/) "[t]he
+epidemiologicaldefinition of R0 is the average number of secondary
+cases produced by one infected individual introduced into a population
+of susceptible individuals", then say it takes N days for the symptoms
+to occur after infection, then average of last N days would effect the
+average of next N days, new cases then divided by the past average can
+give an R0 estimate. The estimate shows the world has now R0 < 1.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona_math.html#r0est)
 
@@ -328,7 +328,7 @@ IDENTIFYING AN INCOMING WORLDKILLER ASTEROID AND NUKING IT TO SHREDS?"
 
 ---
 
-Output cuts won't offset market rout: IEA
+"Output cuts won't offset market rout": IEA
 
 *2020-4-15 14:45:22*
 
