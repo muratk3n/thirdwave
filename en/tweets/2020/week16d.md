@@ -87,13 +87,6 @@ collapsed, etc.
 
 ---
 
-Haas.. the name sounds familiar. Isn't u some kind of hot shot bro?
-How can u eff this simplest observation up?
-
-*2020-4-16 20:30:0*
-
----
-
 That is actually incorrect. Democracy has been strengthening around
 the world. To see that clearly, let's look at the data, the Polity
 data set.
