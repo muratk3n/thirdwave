@@ -39,7 +39,7 @@ is not out of the woods (R0 around 1.2 but decreasing trend).
 
 ---
  
-1st batch of green plums of the year. 
+1st batch of green plums of the year. 🍏
 
 *2020-4-17 7:37:11*
 
@@ -75,8 +75,7 @@ Make It Cause Autism"
 ---
 
 I just saw this on the Polity data page; gov cut their funding? AFAIK
-this data set is well-known in academia, and pretty useful for many
-ppl.
+this data set is well-known in academia, and useful for many researchers.
 
 "NOTICE
 
@@ -92,9 +91,8 @@ Force); that financial support was terminated on 29 February 2020"
 ---
 
 1973 was the lowest point for democracy for the *entire* 20th
-century. It holds the record.
-
-A crazy year. A lot of things ended, collapsed, etc.
+century. It holds the record. A crazy year. A lot of things ended,
+collapsed, etc.
 
 *2020-4-16 20:39:1*
 
