@@ -30,7 +30,8 @@ cases produced by one infected individual introduced into a population
 of susceptible individuals", then say it takes N days for the symptoms
 to occur after infection, then average of last N days would effect the
 average of next N days, new cases then divided by the past average can
-give an R0 estimate. The estimate shows the world has now R0 < 1.
+give an R0 estimate. The estimate shows the world has now R0 < 1. US
+is not out of the woods (R0 around 1.2 but decreasing trend).
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona_math.html#r0est)
 
