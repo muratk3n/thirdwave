@@ -111,7 +111,7 @@ is heading,
 ```python
 import pandas as pd
 df = pd.read_excel('p4v2018.xls')
-df = df[df.polity > -10.0]
+df = df[df.polity > -10.0] # remove spec code -88
 polity = df.groupby('year')['polity'].mean()
 polity.plot()
 plt.savefig('polity.png')
