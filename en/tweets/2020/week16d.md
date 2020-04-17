@@ -10,7 +10,7 @@ the Libyan National Army"
 
 ---
 
-Attempted at an R0, or up-to-date $R_t$ estimate, if we [go
+Attempted at an $R_0$, or up-to-date $R_t$ estimate, if we [go
 by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002118/) "[t]he
 epidemiological definition of $R_t$ is the average number of secondary
 cases produced by one infected individual introduced into a population
