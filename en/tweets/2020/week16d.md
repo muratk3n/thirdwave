@@ -95,7 +95,7 @@ How can u eff this simplest observation up?
 ---
 
 That is actually incorrect. Democracy has been strengthening around
-the world. To see that clearly, let's look at the data. The Polity
+the world. To see that clearly, let's look at the data, the Polity
 data set.
 
 [Main Page](http://www.systemicpeace.org/inscrdata.html), [Data](http://www.systemicpeace.org/inscr/p4v2018.xls), [Data - Local](p4v2018.xls)
