@@ -188,7 +188,7 @@ only a problem when you didn't help spread it?"
 
 ---
 
-If there are systems in place to handle new cases, fine, but.. are the
+If there are systems in place to handle new cases, fine, but.. are they
 in place?
 
 "@KelseyTuoc
@@ -285,7 +285,8 @@ ammonia into pure hydrogen gas"
 
 ---
 
-👍 Moon is pro for my favorite first element in the periodic table.
+Moon is pro for my favorite first element in the periodic table 👍 Glad
+he won.
 
 "South Korea's coronavirus battle propels Moon's party to election win"
 
