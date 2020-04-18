@@ -21,13 +21,6 @@ Cheers was a holodeck program"
 
 ---
 
-All these analysis, $R_t$, econ stats etc. can be targeted, 4 any
-state, country. Per request and Benjamins.
-
-*2020-4-18 17:23:3*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gas Storage Method Could Help Next-Generation Clean Energy Vehicles-Tremendous amounts of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> can be stored in nanoscopic pores. 1-gram of <br>material (with a v.olume of six M&amp;Ms) has surface area to cover 1.3 football fields-<a href="https://t.co/K5ru9tP3Dc">https://t.co/K5ru9tP3Dc</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/MRG3mIHHt7">pic.twitter.com/MRG3mIHHt7</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1251502595006480390?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-18 17:22:23*
@@ -70,7 +63,7 @@ was Lula's hand-picked successor obviously.
 And, I have to add what followed as part of that "Car Wash" thing was
 truly disgusting.
 
-*2020-4-18 15:31:5*
+*2020-4-18 15:39:5*
 
 ---
 
@@ -104,6 +97,13 @@ Year
 ```
 
 *2020-4-18 15:26:47*
+
+---
+
+All analysis, $R_t$, econ stats etc. can be targeted, 4 any state,
+country. Per request and Benjamins.
+
+*2020-4-18 17:25:3*
 
 ---
 
