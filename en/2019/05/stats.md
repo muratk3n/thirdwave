@@ -536,6 +536,7 @@ cols = ['BAMLH0A2HYBEY']
 df = data.DataReader(cols, 'fred', start, end)
 print (df.tail(6))
 df.plot()
+plt.plot(df.tail(1).index, df.tail(1),'ro')
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('junkbond.png')
@@ -610,6 +611,7 @@ df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 print (df.tail(7))
+plt.plot(df.tail(1).index, df.tail(1),'ro')
 plt.savefig('vix.png')
 ```
 
