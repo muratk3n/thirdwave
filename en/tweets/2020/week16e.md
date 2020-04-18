@@ -67,8 +67,8 @@ in GDP before that, coupled with commodity troubles, due to cycle
 ending, things can go sideways easily, which happened for her. Dilma
 was Lula's hand-picked successor obviously.
 
-And, I have to add what followed as part of that "Car Wash" thing
-afterwards was truly disgusting.
+And, I have to add what followed as part of that "Car Wash" thing was
+truly disgusting.
 
 *2020-4-18 15:31:5*
 
