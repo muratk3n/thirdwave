@@ -22,7 +22,7 @@ Cheers was a holodeck program"
 ---
 
 All these analysis' $R_t$, econ stats etc. can be targeted , 4 any
-state, country. Per request and Benjamins, along w profiling services.
+state, country. Per request and Benjamins.
 
 *2020-4-18 17:23:3*
 
