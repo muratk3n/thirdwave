@@ -1,6 +1,6 @@
 # Tweets - Week 16e
 
-[Q's human girlfriend]: It's over Q, you are arrogant, overbearing and
+(Q's human girlfriend): It's over Q, you are arrogant, overbearing and
 you think you know everything"
 
 Q: But .. I do know everything"
