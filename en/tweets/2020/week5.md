@@ -108,8 +108,8 @@ Hazer Group Ltd is a BUY
 "@AWeigmannn 
 
 @PlugPowerInc has signed a contract to install 2,000 fuel cells that
-will power forklifts at 12 U.S. distribution centers .. pushing $PLUG
-closer to its goal of reaching $1 billion in revenue by 2024"
+will power forklifts at 12 U.S. distribution centers .. pushing PLUG
+closer to its goal of reaching 1 billion dol in revenue by 2024"
 
 *2020-2-1 13:32:46*
 
@@ -125,9 +125,9 @@ abundant energy?
 
 "@moetkacik
 
-Boeing debt now $27.3 billion on 'increased commercial paper
+Boeing debt now 27.3 billion dol on 'increased commercial paper
 borrowings' which is a great way to fund gratuitous dividends. Even
-with maximum cash extraction policies in place debt was only $10.8
+with maximum cash extraction policies in place debt was only 10.8 dol
 billion pre-MAX. No wonder this company can't afford to develop a
 decent plane"
 
@@ -507,7 +507,7 @@ dollar" in a Ned Flanders Am accent it was funny
 
 ---
 
-Holy $%#@ shit. -5.29% decrease on the 10yr. A sign of reduced inflation /
+Holy %#@ shit. -5.29% decrease on the 10yr. A sign of reduced inflation /
 and growth expectation
 
 <img width="340" src="https://pbs.twimg.com/media/EPdsQlwX0AA2C5h?format=png&name=small"/>
@@ -543,7 +543,7 @@ instruments are social relations not commodities"
 
 But I was told tax cuts would pay for themselves
 
-'U.S. deficit to eclipse $1 trillion in 2020, CBO says, as fiscal
+'U.S. deficit to eclipse 1 trillion dol in 2020, CBO says, as fiscal
 imbalance continues to widen washingtonpost.com'"
 
 *2020-1-29 14:50:15*
@@ -560,10 +560,10 @@ Suspecting Chinese food is a bit too much IMO
 
 "@AWeigmannn
 
-Air Liquide Arabia on Tuesday began pumping hydrogen through its $400
-million pipeline network in Saudi Arabia’s Red Sea city of Yanbu and
-will supply a Saudi Aramco refinery as the kingdom seeks to shift from
-oil towards cleaner fuel"
+Air Liquide Arabia on Tuesday began pumping hydrogen through its 400
+dol million pipeline network in Saudi Arabia’s Red Sea city of Yanbu
+and will supply a Saudi Aramco refinery as the kingdom seeks to shift
+from oil towards cleaner fuel"
 
 *2020-1-29 13:42:52*
 
