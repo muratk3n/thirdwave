@@ -36,7 +36,7 @@ a coronavirus, looks more like HIV which suggests bioengineering.
 "Uncanny similarity of unique inserts in the 2019-nCoV spike protein
 to HIV-1 gp120 and Gag"
 
-[Link](https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1)
+[Link](https://www.researchgate.net/publication/338957445_Uncanny_similarity_of_unique_inserts_in_the_2019-nCoV_spike_protein_to_HIV-1_gp120_and_Gag)
 
 *2020-2-1 20:16:19*
 
