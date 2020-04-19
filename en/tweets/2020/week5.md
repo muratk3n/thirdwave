@@ -28,6 +28,8 @@ Them"
 
 ---
 
+<a name="hivcov"/>
+
 Theory is nCoV is a bioweapon which escaped lab - it doesnt look like
 a coronavirus, looks more like HIV which suggests bioengineering.
 
