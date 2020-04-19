@@ -33,11 +33,6 @@ Them"
 Theory is nCoV is a bioweapon which escaped lab - it doesnt look like
 a coronavirus, looks more like HIV which suggests bioengineering.
 
-Or the oppo figured out what they were working on, took it and turned it on them
-
-This is the post 911 world - every1 is on hair trigger abt WMD in any
-shape or form. CH better watch out
-
 "Uncanny similarity of unique inserts in the 2019-nCoV spike protein
 to HIV-1 gp120 and Gag"
 
