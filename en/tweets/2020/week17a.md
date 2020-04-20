@@ -76,7 +76,8 @@ another. It was the perfect weapon to hit Trump with if u think abt
 it, the timing makes sense too. You see the man as the existential
 threat, sacrifice some of your own to kill the enemy - isn't that how
 war is conducted?  You know your dictatorial state can handle the
-shutdowns, quick, but US wld have a harder time...
+shutdowns, quick (especially since u r the ones who f-ing started it),
+but US wld have a harder time...
 
 *2020-4-19 21:17:3*
 
