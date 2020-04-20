@@ -11,15 +11,9 @@ despite the best efforts of people working in them.
 
 ## Latest
 
-18/4 - [Tweets - Week 16e](/tweets/2020/week16e.md)
+20/4 - [Tweets - Week 17a](/tweets/2020/week17a.md)
 
-17/4 - [Tweets - Week 16d](/tweets/2020/week16d.md)
-
-15/4 - [Tweets - Week 16c](/tweets/2020/week16c.md)
-
-13/4 - [Tweets - Week 16b](/tweets/2020/week16b.md)
-
-11/4 - [Tweets - Week 16a](/tweets/2020/week16a.md)
+18/4 - [Tweets - Week 16](/tweets/2020/week16.md)
 
 10/4 - [Tweets - Week 15](/tweets/2020/week15.md)
 
@@ -28,10 +22,6 @@ despite the best efforts of people working in them.
 27/3 - [Tweets - Week 13](/tweets/2020/week13.md)
 
 21/3 - [Tweets - Week 12](/tweets/2020/week12.md)
-
-15/3 - [Tweets - Week 11](/tweets/2020/week11.md)
-
-7/3 - [Tweets - Week 10](/tweets/2020/week10.md)
 
 ## For Members
 
