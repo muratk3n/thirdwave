@@ -126,7 +126,7 @@ the mainstream was too great"
 Teacher gets 30 students on Zoom for class. Now that's a perfect waste of net bandwidth.
 
 We are still placing tech paint on the existing system. We need to
-rethink the system.
+rethink the entire system.
 
 *2020-4-19 20:43:54*
 
