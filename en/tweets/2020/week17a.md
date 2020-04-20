@@ -1,5 +1,34 @@
 # Tweets - Week 17a
 
+
+<img width="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKvSfr9PKIoPxQ94xOHMc9giwM-5Yb5e7Dp0j3RRfbJBcnKCbK&usqp=CAU"/>
+
+*2020-4-20 13:10:23*
+
+---
+
+"@nytimes
+
+Other nations, including the United States, are still struggling to
+test for infections. But Germany is doing that and more. It is aiming
+to sample the entire population for antibodies in coming months"
+
+*2020-4-20 13:7:33*
+
+---
+
+"@ClimateBen
+
+Did you know?
+
+1. The vast North China Plain, one of China’s main food growing regions and currently home to about 400 million people, is set to become almost uninhabitable due to unsurvivable heat waves as we zoom beyond 2.5°C of global warming.
+
+2. India faces the same threat"
+
+*2020-4-20 13:4:29*
+
+---
+
 "With the coronavirus pandemic and the shutdown of big parts of the
 European economy, the 2x40GW Green Hydrogen Initiative can serve as a
 blueprint for a bigger EU recovery, Hydrogen Europe Secretary General
