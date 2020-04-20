@@ -158,7 +158,9 @@ rethink the system.
 
 ---
 
-From Bild to Xi PinPing.
+From *Bild* to Xi PingPing. Bad news for CH bcz DE-CH rels are usually
+ok. *Bild* is one of the largest newspapers in Europe. Seifert is its
+chief ed.
 
 [Link](https://m.bild.de/politik/international/bild-international/bild-chief-editor-responds-to-the-chinese-president-70098436,view=amp.bildMobile.html)
 
@@ -184,7 +186,7 @@ between cartels created growth and then bubble.
 
 ---
 
-*Japan's Economic Dilemna*, Gao (on Japan's bubble, and following stagnation0
+*Japan's Economic Dilemna*, Gao (on Japan's bubble, and following stagnation)
 
 "The dilemma in Japanese corporate governance between, on the one hand,
 strong coordination and, on the other hand, weak control and
