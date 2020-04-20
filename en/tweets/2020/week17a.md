@@ -176,7 +176,9 @@ real money on this, you will lose your shirt!
 ---
 
 I keep revisiting Japan, bcz no explanation I've heard so far sounds
-complete. 
+complete. Werner is all about window guidance. Others are too focused
+on trade issues. This guy says the over-competitive environment
+between cartels created growth and then bubble.
 
 *2020-4-19 8:39:6*
 
