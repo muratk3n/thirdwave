@@ -325,10 +325,8 @@ DATE
 import pandas as pd, datetime
 from pandas_datareader import data
 
-import quandl
-df = quandl.get("CHRIS/ICE_DX1-US-Dollar-Index-Futures-Continuous-Contract", 
-                returns="pandas",authtoken=open(".quandl").read())
-df = df['Settle']		
+import pandas_datareader.data as web
+df = web.DataReader("DX-Y.NYB", 'yahoo', start, end)['Adj Close']
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
@@ -339,12 +337,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2020-04-14     98.885
-2020-04-15     99.486
-2020-04-16    100.100
-2020-04-17     99.836
-Name: Settle, dtype: float64
-[ 81.83032821 102.76402955]
+2020-04-16    100.029999
+2020-04-17     99.779999
+2020-04-20     99.959999
+2020-04-21    100.162003
+Name: Adj Close, dtype: float64
+[ 80.55044059 111.64303548]
 ```
 
 ![](dollar.png)
@@ -512,10 +510,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2020-04-13       129.99
 2020-04-14       133.90
 2020-04-15       130.86
 2020-04-16       131.54
+2020-04-17       135.18
 ```
 
 ![](wilshire.png)
@@ -545,12 +543,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-04-09           9.22
 2020-04-10            NaN
 2020-04-13           9.00
 2020-04-14           8.65
 2020-04-15           8.86
 2020-04-16           8.83
+2020-04-17           8.58
 ```
 
 ![](junkbond.png)
@@ -584,12 +582,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2020-04-09   0.73    0.25         0.48
 2020-04-10    NaN     NaN          NaN
 2020-04-13   0.76    0.26         0.50
 2020-04-14   0.76    0.20         0.56
 2020-04-15   0.63    0.14         0.49
 2020-04-16   0.61    0.14         0.47
+2020-04-17   0.65    0.12         0.53
 ```
 
 ![](yield-curve.png)
@@ -617,13 +615,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2020-04-08    43.349998
 2020-04-09    41.669998
 2020-04-13    41.169998
 2020-04-14    37.759998
 2020-04-15    40.840000
 2020-04-16    40.110001
 2020-04-17    38.150002
+2020-04-20    43.830002
 Name: Adj Close, dtype: float64
 ```
 
@@ -636,16 +634,12 @@ Name: Adj Close, dtype: float64
 Futures, Continuous Contract, Front Month
 
 ```python
-import datetime, quandl
+import pandas_datareader.data as web, datetime
 today = datetime.datetime.now()
 start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-df = quandl.get("CHRIS/CME_CL1-Crude-Oil-Futures-Continuous-Contract-1-CL1-Front-Month", 
-                returns="pandas",
-                start_date=start.strftime('%Y-%m-%d'),
-                end_date=end.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
-df = df['Settle']
+df = web.DataReader("CL=F", 'yahoo', start, end)
+df = df['Close']
 print (df.tail(5))
 
 df.plot()
@@ -656,12 +650,12 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-04-13    22.41
-2020-04-14    20.11
-2020-04-15    19.87
-2020-04-16    19.87
-2020-04-17    18.27
-Name: Settle, dtype: float64
+2020-04-16    19.900000
+2020-04-17    18.120001
+2020-04-19    17.040001
+2020-04-20    -2.720000
+2020-04-21     0.010000
+Name: Close, dtype: float64
 ```
 
 ![](oil.png)
