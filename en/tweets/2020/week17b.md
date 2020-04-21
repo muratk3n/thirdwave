@@ -34,7 +34,7 @@ save lives in the process"
 
 Descendants of mafia-agro-empires, unite.
 
-Take Egypt, tigger with you, then u have one fucknut cultural /
+Take Egypt, tigger with you, then u have one fucknut of a cultural /
 historical bloc.
 
 "In one survey this month, 59% of respondents [in Italy] said the EU
