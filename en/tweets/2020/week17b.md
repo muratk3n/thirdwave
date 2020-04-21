@@ -48,7 +48,7 @@ enemy"
 
 ---
 
-Schmidhuber is mad.
+A-uh. Schmidhuber is angry.
 
 [Link](https://twitter.com/SchmidhuberAI/status/1252494225880596480)
 
