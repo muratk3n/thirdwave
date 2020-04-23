@@ -47,13 +47,13 @@ from a commenter that is really maddening,
 >[@wfithian] I am alarmed at their sloppy behavior. The confidence
 >interval calculation in their preprint made demonstrable math errors
 >- *not* just questionable methodological choices...
-
+>
 >I can't redo the whole calculation myself because parts were not
 >described anywhere, but I have low confidence that those parts were
 >done correctly; if not, the corrected confidence interval for
 >prevalence in Santa Clara County might well stretch all the way to
 >include zero.
-
+>
 >The authors said by email that they used a built-in Stata function and
 >aren't sure themselves how the software used the input weights. I
 >suspect they misapplied that function"
