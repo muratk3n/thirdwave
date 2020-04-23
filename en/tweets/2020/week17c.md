@@ -59,9 +59,9 @@ from a commenter that is really maddening,
 >suspect they misapplied that function"
 
 Mot..f..ka; used "a built-in Stata function"? What is this, the dark
-ages? The software used is shit (and closed-source), code availability
-duplication is shit. And they dont even have their code available
-which uses the closed-source shit.
+ages? The software used is shit (and closed-source), duplication is
+shit. And they dont even have their code available which uses the
+closed-source shit.
 
 What is going on here is serious mentality and toolkit fail. Akin to
 still using Cobol in that gov office to process unemployment claims,
