@@ -72,9 +72,9 @@ and a prevalent lack of slickness in using modern tools.
 ---
 
 He doesn't report his model success, the $R^2$. He did not share code
-nor the data. "Made av on request" is a punt. Either you have files
+nor data. "Made av on request" is a punt. Either you have files
 available or not. Nowadays everyone in this space has data / code on
-Github. 
+Github.
 
 "[Reportedly according to his stats model] There is no empirical
 evidence for these lockdowns" - Wilford Riley
