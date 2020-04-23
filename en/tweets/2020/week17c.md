@@ -45,8 +45,8 @@ passage](https://mobile.twitter.com/wfithian/status/1252692357788479488)
 from a commenter that is really maddening,
 
 >[@wfithian] I am alarmed at their sloppy behavior. The confidence
->interval calculation in their preprint made demonstrable math errors
->- \*not\* just questionable methodological choices...
+>interval calculation in their preprint made demonstrable math errors,
+>\*not\* just questionable methodological choices...
 >
 >I can't redo the whole calculation myself because parts were not
 >described anywhere, but I have low confidence that those parts were
