@@ -229,8 +229,7 @@ Haha.. a tweet says UK PM BJ is "hors de combat".
 
 ---
 
-Jobs, sure, are in AU.. But that line of thinking goes on saving on
-everything on sight.
+Jobs, sure, are in AU.. But that u save everything on sight.
 
 *2020-4-22 7:46:0*
 
