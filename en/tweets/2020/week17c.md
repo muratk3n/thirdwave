@@ -229,14 +229,6 @@ Haha.. a tweet says UK PM BJ is "hors de combat".
 
 ---
 
-I think u got that backwards. 
-
-"Airline industry to be hit hard by oil price plunge"
-
-*2020-4-22 8:32:8*
-
----
-
 Jobs, sure, are in AU.. But that line of thinking goes on saving on
 everything on sight.
 
