@@ -1,7 +1,9 @@
 # Tweets - Week 17c
 
-"@WarWithTheDinos We’re thrilled to announce our film, AT WAR WITH THE
-DINOSAURS, is available for pre-order today"
+"@WarWithTheDinos
+
+We’re thrilled to announce our film, AT WAR WITH THE DINOSAURS, is
+available for pre-order today"
 
 [Link](http://apple.co/2wYetqH)
 
