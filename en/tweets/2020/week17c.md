@@ -244,16 +244,18 @@ everything on sight.
 
 ---
 
-Really? I just heard something on the radio the other day. Singapore,
-UAE, China are all stakeholders in VA. Web says main owners are
-Nanshan Group, HNA Group, Singapore Airlines and Etihad
-Airways. Branson remains as a 10% shareholder. And AU is like' there
-are so many stakeholders here some with deep pockets - why is it up to
-us to save them?'. Cant say I disagree.
+Really? I just heard something on the radio on this the other
+day. Singapore, UAE, China are all stakeholders in VA. Web says main
+owners are Nanshan Group, HNA Group, Singapore Airlines and Etihad
+Airways. Branson remains as a 10% shareholder.
 
-This is another downside to globalized markets - when u are in
-trouble, which country do you go to, where does company really belong
-to?
+So then AU gov is naturally like' there are some stakeholders here
+with deep pockets - why is it up to us to save them?'. Cant say I
+disagree.
+
+This is another downside to globalized markets - when shit hits the
+fan for comps, which country do you go to? Where do you really belong
+to? 
 
 "Richard Branson throws shade at Australian government for refusing bailout"
 
