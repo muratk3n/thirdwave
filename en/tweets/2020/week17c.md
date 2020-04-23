@@ -76,7 +76,8 @@ nor the data. "Made av on request" is a punt. Either you have files
 available or not. Nowadays everyone in this space has data / code on
 Github. 
 
-"There is no empirical evidence for these lockdowns" - Wilford Riley
+"[Reportedly according to his stats model] There is no empirical
+evidence for these lockdowns" - Wilford Riley
 
 *2020-4-22 21:59:3*
 
