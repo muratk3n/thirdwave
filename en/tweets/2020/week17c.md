@@ -17,10 +17,10 @@ then it fed on itself - ppl, orgs formed around it who benefited from
 this preferential system. After a while ppl forgot how it started. Who
 would research its basis? People like Thomas Friedman are too fucking
 stupid to question those assumptions. This is the guy who will write
-the narrative for you after it happened, within the existing
+the narrative for you after the fact, within the existing bubble /
 reality. He doesnt have the necessary constitution to dig any
 deeper. Same for most of the Washington think-tank crowd. The ones who
-could, had the skills somehow stayed out, I guess also bcz of inertia.
+could, had the skills somehow stayed out, I guess again bcz of inertia.
 
 *2020-4-23 10:11:6*
 
