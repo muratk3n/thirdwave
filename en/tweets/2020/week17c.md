@@ -46,7 +46,7 @@ from a commenter that is really maddening,
 
 >[@wfithian] I am alarmed at their sloppy behavior. The confidence
 >interval calculation in their preprint made demonstrable math errors
->- *not* just questionable methodological choices...
+>- \*not\* just questionable methodological choices...
 >
 >I can't redo the whole calculation myself because parts were not
 >described anywhere, but I have low confidence that those parts were
@@ -130,7 +130,7 @@ That sign in the background. Wow - Nashville, Tennesee
 ---
 
 Governor Fredo's brother... I guess the "illness" did not help
-ratings, so "he got better". Got it.
+ratings, so "he got better". Understood.
 
 "Chris Cuomo returns from his basement quarantine"
 
