@@ -130,7 +130,7 @@ That sign in the background. Wow - Nashville, Tennesee
 ---
 
 Governor Fredo's brother... I guess the "illness" did not help
-ratings, so "he got better". Right on.
+ratings, so "he got better". Understood.
 
 "Chris Cuomo returns from his basement quarantine"
 
