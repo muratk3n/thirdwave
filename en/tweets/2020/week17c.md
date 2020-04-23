@@ -130,7 +130,7 @@ That sign in the background. Wow - Nashville, Tennesee
 ---
 
 Governor Fredo's brother... I guess the "illness" did not help
-ratings, so "he got better". Understood.
+ratings, so "he got better". Right on.
 
 "Chris Cuomo returns from his basement quarantine"
 
@@ -196,8 +196,8 @@ Fully stocked.
 
 ---
 
-Just realized that Pikkety book came out in '13, around the peak year
-of inequality in US.
+Just realized that Pikkety book came out in '13, around peak year of
+US inequality.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini)
 
