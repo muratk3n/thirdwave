@@ -126,6 +126,15 @@ That sign in the background. Wow - Nashville, Tennesee
 
 ---
 
+Governor Fredo's brother. The "illness" did not help ratings, so "he
+got better". Right.
+
+"Chris Cuomo returns from his basement quarantine"
+
+*2020-4-22 16:55:9*
+
+---
+
 Here is mine
 
 NANO
