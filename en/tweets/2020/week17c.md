@@ -17,7 +17,7 @@ then it fed on itself - ppl, orgs formed around it who benefited from
 this preferential system. After a while ppl forgot how it started. Who
 would research its basis? People like Thomas Friedman are too fucking
 stupid to question those assumptions. This is the guy who will write
-the narrative for you after something happened, within the existing
+the narrative for you after it happened, within the existing
 reality. He doesnt have the necessary constitution to dig any
 deeper. Same for most of the Washington think-tank crowd. The ones who
 could, had the skills somehow stayed out, I guess also bcz of inertia.
