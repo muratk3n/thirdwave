@@ -20,7 +20,7 @@ US $R_t$ is below 1. Congrats.
 
 ---
 
-Looks like some scifi mov poster
+Looks like a scifi movie poster.
 
 \#congress
 
