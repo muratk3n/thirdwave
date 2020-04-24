@@ -184,7 +184,7 @@ Yes I've heard of some cases where the unemployed refused job offer
 bcz they did not want to lose their unemployment checks. Some. But
 Imma use this opp to stress the need for UBI; With UBI ppl wld never
 be in fear of losing if employed, whatever employer pays increases
-worker's already existing income by that much.
+worker's already existing income by that much. Win win.
 
 *2020-4-23 21:5:8*
 
