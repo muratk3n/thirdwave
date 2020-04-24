@@ -182,10 +182,9 @@ rise to the Federation"
 
 Yes I've heard of some cases where the unemployed refused job offer
 bcz they did not want to lose their unemployment checks. Some. But
-Imma use this opp to stress the need for UBI anyway; If such a thing
-was functional, ppl wld never be in fear of losing it, and if
-employed, whatever employer pays increases worker's already existing
-income by that much. 
+Imma use this opp to stress the need for UBI; With UBI ppl wld never
+be in fear of losing if employed, whatever employer pays increases
+worker's already existing income by that much.
 
 *2020-4-23 21:5:8*
 
@@ -208,7 +207,7 @@ states is where you draw the line?
 
 ---
 
-AKE FTW!
+AKE FTW
 
 "Ashai Kasei Engineering received an order for its 10MW large alkaline
 water electrolysis system from Toshiba Energy Systems Corporation and
