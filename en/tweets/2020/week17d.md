@@ -45,6 +45,8 @@ energy consumption .... with the projected expansion of desalination
 capacities, the energy consumption .. is expected to reach to 2.4
 Gigawatt hours (GWh) in 2030 as compared to only 1.4 GWh in 2018"
 
+*2020-4-24 9:45:9*
+
 ---
 
 "Presently, 150 countries are operating over 19,500 desalination plants
