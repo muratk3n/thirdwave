@@ -16,8 +16,6 @@
 
 [#brexitexit](02/brexitexit.md)
 
-[#yang #ubi](02/yang.md)
-
 [Article 13](03/article13.md)
 
 [A Matter of Degrees](03/degrees.md)
