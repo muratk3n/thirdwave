@@ -142,9 +142,9 @@ the theory, because it was so flexible"
 
 ---
 
-I didn't mean to but now I know two different ways of solving the
-assignment problem, and three different computational methods to do it
-with.
+I didn't mean to but now I know two different ways of looking at the
+assignment problem, and three different computational methods to solve
+it.
 
 *2020-4-23 21:18:47*
 
