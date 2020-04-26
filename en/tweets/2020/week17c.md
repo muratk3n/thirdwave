@@ -267,6 +267,8 @@ regions in Europe, CH and surrounding area, Australia.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
+*2020-4-22 7:41:0*
+
 ---
 
 No 1918 flu was not "Kansan" - there is nothing conclusive about that
