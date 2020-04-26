@@ -1,6 +1,6 @@
 # Tweets - Week 17e
 
-haha
+Haha
 
 "Earlier in the month, Fauci joked to CNN that Pitt should play him on
 the sketch comedy show [SNL]. Saturday Night Live kicked off its
