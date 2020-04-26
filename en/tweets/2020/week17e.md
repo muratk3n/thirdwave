@@ -57,9 +57,9 @@ v = Ri, \quad p = vi = v \left[ \frac{v}{R} \right] =
 \frac{v^2}{R}
 $$
 
-Addnly there are ppl running the generators who try to predict demand
-on hourly basis so they run turbines on a schedule to generate energy
-at acceptable levels.
+Additionally there are ppl running the generators who try to predict
+demand on hourly basis so they run turbines on a schedule to generate
+energy at acceptable levels.
 
 But IMO gas / pipeline based grids wld be able to regulate themselves
 much better.
