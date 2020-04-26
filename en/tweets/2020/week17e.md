@@ -147,7 +147,7 @@ worse, if the bat doesn't lose half its capacity before that due to
 
 ---
 
-Summary, the issue is debt
+Summary, the issue is private debt
 
 The Great Stagnation, Plantenberg: "With interest rates hitting zero,
 the Bank of Japan's only way to induce money growth [was] to keep
