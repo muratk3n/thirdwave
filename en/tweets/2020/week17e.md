@@ -24,7 +24,9 @@ immediately deliver $10,000 to all American citizens in exchange for a
 
 ---
 
-COV: Major improvement East Europe, Finland, Norway. 364K more in 4 days. 
+COV: Improvement East Europe, Finland, Norway. 364K more in 4 days.
+
+[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
 *2020-4-26 9:8:1*
 
