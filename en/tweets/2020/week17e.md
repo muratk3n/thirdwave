@@ -143,16 +143,15 @@ worse, if the bat doesn't lose half its capacity before that due to
 Summary, the issue is debt
 
 The Great Stagnation, Plantenberg: "With interest rates hitting zero,
-the Bank of Japan's only way to induce money growth is to keep
-printing money.But the BOJ has already bought government bonds, and
+the Bank of Japan's only way to induce money growth [was] to keep
+printing money. But the BOJ has already bought government bonds, and
 thus created money, on a large scale. The monetary base has increased
-at an annual rate of almost 25 percent over the two years to 2003 (The
-Economist, June 19, 2003). Yet this has not led to higher growth in
-broad money. Instead, bank lending has continued to fall. Banks are
-reluctant to lend, as they are already piled up with bad loans, a
-problem that is only slowly being overcome. Moreover indebted firms
-are unwilling to borrow as long as the deflation environment
-persists."
+at an annual rate of almost 25 percent over the two years to 2003
+.. Yet this has not led to higher growth in broad money. Instead, bank
+lending has continued to fall. Banks are reluctant to lend, as they
+are already piled up with bad loans, a problem that is only slowly
+being overcome. Moreover indebted firms are unwilling to borrow as
+long as the deflation environment persists."
 
 *2020-4-25 13:16:2*
 
