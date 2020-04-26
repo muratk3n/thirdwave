@@ -83,7 +83,7 @@ GWh/h)). This high transmission capacity is of particular advantage
 for H2 production from RES considering that many of these sources are
 far from the major load centres"
 
-[Link](https://setis.ec.europa.eu/system/files/2013TechnologyMap.pdf)
+[PDF](https://setis.ec.europa.eu/system/files/2013TechnologyMap.pdf)
 
 *2020-4-25 19:37:13*
 
