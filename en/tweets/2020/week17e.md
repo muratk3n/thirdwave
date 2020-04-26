@@ -139,6 +139,12 @@ worse, if the bat doesn't lose half its capacity before that due to
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I remember falling for the precious metals hype in 08. Bought into the dollar hyperinflation doomsday. <br><br>Ride crypto, dont die crypto. <a href="https://t.co/tCdf8Gpvp7">https://t.co/tCdf8Gpvp7</a></p>&mdash; Mica Busch (@IcarusGlider) <a href="https://twitter.com/IcarusGlider/status/1254204114428461056?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-4-25 13:24:5*
+
+---
+
 Summary, the issue is debt
 
 The Great Stagnation, Plantenberg: "With interest rates hitting zero,
