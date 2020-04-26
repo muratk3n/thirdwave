@@ -38,8 +38,8 @@ COV: Improvement East Europe, Finland, Norway. 364K more in 4 days.
 
 ---
 
-"HydroSil is stable and non-toxic and uses the same logistic as
-conventional liquid fuels"
+"HydroSil [an H2 carrier] is stable and non-toxic and uses the same
+logistic as conventional liquid fuels"
 
 [Link](https://hysilabs.com/)
 
