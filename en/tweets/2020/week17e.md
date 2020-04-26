@@ -130,9 +130,9 @@ What is a typical battery capacity for bitch BEV? 100 KWh? Hyundai
 capacity of 6.33 kg, the energy density of H2 fuel is 33.3 kWh/kg,
 multiply the two you get ~ 210 kWh. 100 vs 210. FC got you beat
 son. Nexo can travel 756 km on a full tank BTW. Typical BEV performs
-worse, if its bitch battery doesn't lose half its capacity before that
-due to "fast charging" and/or simply stops working due to cold or
-other "extreme" weather conditions.
+worse, if the bat doesn't lose half its capacity before that due to
+"fast charging" and/or simply stops working due to cold or other
+"extreme" weather conditions.
 
 "How do battery and fuel-cell capacities compare?"
 
