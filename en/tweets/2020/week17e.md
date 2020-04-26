@@ -62,9 +62,8 @@ demand on hourly basis so they run turbines on a schedule to generate
 energy at acceptable levels.
 
 But IMO gas / pipeline based grids wld be able to regulate themselves
-much better.
-
-Hell individual homes could store H2 in huge amt if they wanted to.
+much better. Hell individual homes could store excess H2 energy
+themselves in huge amt if they wanted to.
 
 "What happens to [AC] electricity [in the grid] that is not needed"
 
