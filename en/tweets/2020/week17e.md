@@ -116,9 +116,8 @@ decrease (decay) so to speak.
 ---
 
 Price is coming down fast for FCs. But I wouldnt worry abt price on
-consumer side too much bcz "[a]utomakers include ..  years of hydrogen
-fuel with the sale or lease of a vehicle". Nikola has a similar plan
-AFAIK
+consumer side too much bcz automakers usually include a few years of
+fuel with the sale or lease of a vehicle. 
 
 [Link](https://cafcp.org/content/cost-refill)
 
