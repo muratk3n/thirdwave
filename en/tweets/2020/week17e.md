@@ -1,5 +1,18 @@
 # Tweets - Week 17e
 
+haha
+
+"Earlier in the month, Fauci joked to CNN that Pitt should play him on
+the sketch comedy show [SNL]. Saturday Night Live kicked off its
+second "At Home" edition with a guest appearance from Brad Pitt, who
+took on the role of infectious disease expert Dr. Anthony Fauci. "
+
+[Link](https://twitter.com/i/events/1254260903379259393)
+
+*2020-4-26 9:10:34*
+
+---
+
 "@Jkylebass
 
 Working with a senior government official on The Eagle Plan.  It will
