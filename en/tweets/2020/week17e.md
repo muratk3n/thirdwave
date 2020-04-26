@@ -46,9 +46,9 @@ conventional liquid fuels"
 ---
 
 [Answer](https://www.thenakedscientists.com/forum/index.php?PHPSESSID=1r9ofdb99kfsoj8sefkhadua81&topic=20992.msg267387#msg267387).
-Summary: voltage fluctuate in that case across households (-/+ less
+Summary: voltage fluctuate in that case across households -/+ less
 amps required within same wattage gives different voltage, since $p =
-iv$, and that is okay within a certain window. 
+iv$, and that is okay within a certain window.
 
 Dude said "power used is proportional to voltage squared" which is true. 
 
