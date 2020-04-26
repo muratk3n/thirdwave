@@ -115,9 +115,10 @@ decrease (decay) so to speak.
 
 ---
 
-Price is coming down fast for FCs. But I wouldnt worry abt bcz
-"[a]utomakers include three years of hydrogen fuel with the sale or
-lease of a vehicle". Nikola has a similar plan AFAIK
+Price is coming down fast for FCs. But I wouldnt worry abt price on
+consumer side too much bcz "[a]utomakers include ..  years of hydrogen
+fuel with the sale or lease of a vehicle". Nikola has a similar plan
+AFAIK
 
 [Link](https://cafcp.org/content/cost-refill)
 
