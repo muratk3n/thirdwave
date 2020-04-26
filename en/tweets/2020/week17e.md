@@ -97,7 +97,7 @@ far from the major load centres"
 
 How to use sewage net for covid testing.
 
-Guy is right, the search (testing) steps be near log2 bcz you keep
+Guy is right, the search (testing) steps can be near log2 bcz you keep
 dividing the search space into two, the area gets small very fast. I
 guess this is the reverse of exponential growth, a reverse exp
 decrease (decay) so to speak.
