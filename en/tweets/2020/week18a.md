@@ -7,7 +7,7 @@
 
 ---
 
-Interesting they still thought there'd be waiters in the future 
+Interesting they thought there'd still be waiters in the future 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">PHOTO OF THE DAY. A vision of the future from a German Magazine (1930). <a href="https://t.co/DpeOy6NQ6B">pic.twitter.com/DpeOy6NQ6B</a></p>&mdash; Professor Frank McDonough (@FXMC1957) <a href="https://twitter.com/FXMC1957/status/1254688521404678145?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
