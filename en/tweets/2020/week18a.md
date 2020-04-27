@@ -85,7 +85,7 @@ education will decline by $23bn over the next academic year"
 ---
 
 I bet momentum trading strategies did well for so long bcz chasing the
-FED paid off handsomely. That's what these things to, go after the
+FED paid off handsomely. That's what these things do, go after the
 herd, and FED created the perfect trend to follow.
 
 *2020-4-26 21:56:29*
