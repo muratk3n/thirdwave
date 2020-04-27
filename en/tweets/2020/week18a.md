@@ -115,7 +115,7 @@ The NBER [paper](http://www.nber.org/papers/w21967.pdf)
 
 ---
 
-An NBER paper issued last year concluded that changes to federal
+"An NBER paper issued last year concluded that changes to federal
 student loans are more than sufficient to explain tuition increases at
 private nonprofit colleges...
 
@@ -123,7 +123,7 @@ Unlike most other student loan programs, PLUS loans are not
 capped—parents may borrow up to the cost of attendance, which is
 determined by the college. This creates incentives for colleges to
 increase student charges, since the federal government will make sure
-all eligible parents have access to the money.
+all eligible parents have access to the money"
 
 [Link](https://www.forbes.com/sites/prestoncooper2/2017/02/22/how-unlimited-student-loans-drive-up-tuition/#1166275352b6)
 
