@@ -172,12 +172,12 @@ Canada!
 
 ---
 
-@adam_tooze
+"@adam_tooze
 
-"If Germany borrows money on capital markets, including from wealthy
+If Germany borrows money on capital markets, including from wealthy
 Italians, and then channels that money to Italy by way of the EU
 budget what does it amount to? A eurobond but one controlled by
-Germany!" Great from @KeineWunder
+Germany! Great from @KeineWunder"
 
 *2020-4-26 16:13:48*
 
