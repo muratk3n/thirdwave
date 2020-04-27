@@ -132,8 +132,8 @@ all eligible parents have access to the money"
 ---
 
 GS underwriting wld increase the appeal of these bonds of course,
-investors get fleeced. GS did not see that? Not the smartest guys in
-the room per article.
+investors get fleeced. But that would hurt GS reputation - they didn't
+see that? Not the smartest ppl in the room per article.
 
 "@mtaibbi
 
