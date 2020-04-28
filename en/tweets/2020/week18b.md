@@ -94,8 +94,8 @@ tons of liquid \#hydrogen, enough to fuel 100,000"
 
 ---
 
-*The Expanse* last season sucked. They shouldn't have saved it (almost
- canceled, last year)
+*The Expanse* last season sucked. They shouldn't have saved this show
+ (almost got canceled, last year)
 
 *2020-4-28 17:5:8*
 
