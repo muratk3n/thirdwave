@@ -10,7 +10,7 @@ coordinated rent strike in nearly a century, to begin on May 1"
 
 ---
 
-New breakfast regime goimg well, almonds, walnuts, dried apricot,
+New breakfast regime going well, almonds, walnuts, dried apricot,
 etc.. Extremely durable stuff. Tested bags of it in camp gear for
 weeks, shit wont go bad. I can imagine going whole day on such breakf,
 in outdoor conditions.
