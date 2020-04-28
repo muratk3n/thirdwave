@@ -1013,15 +1013,6 @@ that cause treasury yields to go up? 🤔
 
 ---
 
-Roubini is right - world will have a supply shock not a demand
-shock. The former cannot be fixed with stimulus.
-
-[Link](https://youtu.be/I0qzkFZDKQ0?t=106)
-
-*2020-2-26 10:21:3*
-
----
-
 "@Nate_Cohn
 
 Can we just pause to note that somehow Bloomberg managed to be on the
