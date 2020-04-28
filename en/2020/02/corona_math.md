@@ -108,6 +108,7 @@ with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
     df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
 #df = df[df['Country/Region']=='Korea, South']
 #df = df[df['Country/Region']=='US']
+#df = df[df['Country/Region']=='Germany']
 df = df[['Date','Confirmed']]
 conf = df.groupby('Date').sum()
 ahead = 10
@@ -121,11 +122,11 @@ plt.savefig('R0est.png')
 
 ```text
 Date
-2020-04-10   0.64
-2020-04-11   0.60
-2020-04-12   0.56
 2020-04-13   0.53
 2020-04-14   0.51
+2020-04-15   0.49
+2020-04-16   0.46
+2020-04-17   0.44
 Name: R0, dtype: float64
 ```
 
