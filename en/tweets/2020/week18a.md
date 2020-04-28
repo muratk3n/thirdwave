@@ -147,11 +147,9 @@ see that? Not the smartest ppl in the room per article.
 
 ---
 
-Of course, David Hewlett. He called ZPM Zed-PM! So f-ing funny!
+Of course, David Hewlett. He called ZPM Zed-PM! 
 
-Effin Canada!
-
-Good job.
+Go ZED! Good job.
 
 *2020-4-26 19:44:48*
 
