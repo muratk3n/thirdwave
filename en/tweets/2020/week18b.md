@@ -57,10 +57,8 @@ is pretty much the exact same process as for a gasoline car"
 ---
 
 COV: 178K in 2 days. Daily % change down to 2.33. Some reports
-indicated Germany R is up to 1 - this is not true.
-
-US turned blue - sorry bout that, I am running out of shades of red,
-sadly, so had to switch to something new.
+indicated Germany R is up to 1 - this is not true. US turned gray -
+sadly.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
 
