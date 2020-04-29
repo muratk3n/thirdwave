@@ -65,7 +65,7 @@ again..?  But Carter lost. -8% GDP growth, net popularity -21%!
 
 ---
 
-Q1 GDP growth 0.32% YoY, -4.78% QoQ annualized. :|
+Q1 GDP growth 0.32% YoY, -4.78% QoQ annualized. 😶
 
 Trump's net approval is down to its abysmal low again, at -10%. If
 this situation persists for Q2, even a sock puppet will win as a
