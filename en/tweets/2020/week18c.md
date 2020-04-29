@@ -146,9 +146,11 @@ Daam. What's next? Cat in a Hat?
 Caged Bird Sings' by Maya Angelou, 'Catch-22' by Joseph Heller, 'The
 Things They Carried' by Tim O'Brien, 'The Great Gatsby' by F. Scott
 Fitzgerald, and 'Invisible Man' by Ralph Ellison were all taken off an
-approved list... 'If I were to read these in a corporate environment,
-in an office environment, I would be dragged into EO,' an equal
-opportunity complaint proceeding, Hart said....
+approved list...
+
+'If I were to read these in a corporate environment, in an office
+environment, I would be dragged into EO,' an equal opportunity
+complaint proceeding, Hart said....
 
 [Link](https://www.nbcnews.com/news/amp/ncna1194436)
 
