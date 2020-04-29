@@ -19,16 +19,18 @@ start=datetime.datetime(1945, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = data.DataReader(['GDPC1'], 'fred', start, end)
 df['growann'] = (  (  (1+df.pct_change())**4  )-1.0  )*100.0
-print (df[pd.DatetimeIndex(df.index).year == 1984]['growann'])
+#print (df[pd.DatetimeIndex(df.index).year == 1984]['growann'])
+print (df['growann'].tail(5))
 # look at Q2, 04-01 date
 ```
 
 ```text
 DATE
-1984-01-01    8.051348
-1984-04-01    7.092351
-1984-07-01    3.912381
-1984-10-01    3.324102
+2019-01-01    3.096140
+2019-04-01    2.013819
+2019-07-01    2.103507
+2019-10-01    2.126630
+2020-01-01   -4.783095
 Name: growann, dtype: float64
 ```
 
@@ -63,24 +65,24 @@ results = smf.ols(regr, data=df).fit()
 print ('R^2', results.rsquared)
 conf = results.conf_int()
 
-net_approv = -11.8; gdp_growth = 2.0
+net_approv = -10.0; gdp_growth = 0.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
-net_approv = -11.8; gdp_growth = 1.0
+net_approv = -10.0; gdp_growth = -2.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
-net_approv = -4.0; gdp_growth = -4.0
+net_approv = -10.0; gdp_growth = -5.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
 
 ```text
 R^2 0.9011858911763367
-[49.6962248  53.16687853] 51.431551669024834
-[49.37184684 52.33149113] 50.85166898486028
-[48.17063647 49.27344876] 48.72204261352556
+[49.14454875 51.75431018] 50.4494294659622
+[48.49579282 50.08353537] 49.28966409763309
+[47.52265893 47.57737316] 47.550016045139444
 ```
 
 
