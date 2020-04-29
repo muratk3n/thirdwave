@@ -29,7 +29,7 @@ medicine"
 
 ---
 
-Hah. Interesting history. Former pharma lobbyst too (of course).
+Hah. Interesting history. And former pharma lobbyst - of course.
 
 "After law school [HHS Sec Azar] served as a law clerk under late
 Supreme Court Justice Antonin Scalia... Azar moved on to work for
