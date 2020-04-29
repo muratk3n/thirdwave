@@ -832,21 +832,6 @@ and shit.. Very awesome 🖖.
 
 ---
 
-Good [dataset](https://github.com/treselle-systems/customer_churn_analysis)
-for churn analysis.
-
-Churn can be seen another case of survival analysis, or time-to-event
-statistics... Like a person dying or recovering after treatment,
-lightbulb going bust, or crisis happening, etc.
-
-Challenging field bcz some of the data is "right-censored", the
-failure event did not take place yet, and it might not take place for
-a while.
-
-*2020-4-14 13:12:34*
-
----
-
 Too bad.. power bars have short exp date.. New approach using base
 ingredients..  Dried apricot, chestnut, almonds, dried berry, puffed
 rice for volume.
