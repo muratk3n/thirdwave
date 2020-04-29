@@ -61,7 +61,7 @@ again..?  But Carter lost. -8% GDP growth, net popularity -21%!
 
 "But the econ crisis was the effect of something external"
 
-*2020-4-29 16:25:1*
+*2020-4-29 16:35:1*
 
 ---
 
