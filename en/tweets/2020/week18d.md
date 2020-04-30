@@ -16,7 +16,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 BTW - who names a health insurance after one of the most deadliest
-snakes known to mankind? I think there is a message here.
+snakes in the world? These ppl are f-ing pshycopaths.
 
 *2020-4-30 21:30:24*
 
