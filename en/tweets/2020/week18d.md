@@ -1,19 +1,4 @@
-# Tweets - Log
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+# Tweets - Week 18d
 
 BTW - who names a health insurance after one of the most deadliest
 snakes in the world? These ppl are f-ing pshycopaths.
