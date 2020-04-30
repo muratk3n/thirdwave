@@ -4,15 +4,17 @@ One of the better known models in this area is the *Time for Change*
 Model designed by A. Abramowitz. The model uses three factors—the
 incumbent president’s net approval rating at the end of June (approval
 minus disapproval), the change in real GDP for Q2 (as percentage) of
-the election year, and a first term incumbency advantage (two terms
-for the incumbent party becomes a disadvantage), to predict the winner
-of the national popular vote.
+the election year [annualized](https://www.fool.com/knowledge-center/how-to-calculate-the-annual-growth-rate-for-real-g.aspx),
+and a first term incumbency advantage (two terms for the incumbent
+party becomes a disadvantage), to predict the winner of the national
+popular vote, which can also be used as stand-in for electoral
+collage.
 
-Here is some crazy code. We will use this model to predict past
-elections (by canceling out that year's so it cannot tilt the
-prediction in any way). We will also use it for the 2016 election
-prediction. [geek] The fit is crazy good, Prob F near zero, R^2 at
-90%, all predictors are significant [/geek].
+Code is below. We will use this model to predict past elections (by
+canceling out that year's so it cannot tilt the prediction in any
+way). We will also use it for the 2016 election prediction. The fit is
+crazy good, Prob F near zero, R^2 at 90%, all predictors are
+significant.
 
 ```
 from StringIO import StringIO
