@@ -28,9 +28,9 @@ managed directly by gov, reports to PM). Johnson keeps saying how they
 try to flatten the curve bcz "we had to prevent out NHS from being
 overwhelmed" - now that's a thing a politician can observe and
 optimize on, bcz it is directly under their purview in UK, which turns
-out something useful for the populace at large as well - they die
-less. It is always good to have the right incentives in place... So
-pol can do things to protect NHS which in turn protects the public.
+out something useful for the populace at large. It is always good to
+have the right incentives in place... So pol can do things to protect
+NHS which in turn protects the public.
 
 In US federal pols could be like ... meh.. I dont know.. there are
 bunch of hospitals out there and stuff, ppl can go there.. and like,
