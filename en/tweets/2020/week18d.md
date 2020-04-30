@@ -79,7 +79,7 @@ Opportunities" 😆😆😆
 
 3.8 M more in jobless claims.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
+[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)
 
 ---
 
