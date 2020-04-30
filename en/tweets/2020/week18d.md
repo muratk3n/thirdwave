@@ -12,10 +12,10 @@ humane care but maybe UK method is even better (all health is managed
 directly by gov, reports to PM). Johnson keeps saying how they work
 hard to flatten the curve bcz "we had to prevent our NHS from being
 overwhelmed" - now that's a thing a politician can observe and
-optimize on, bcz it is directly under their purview in UK, which turns
-out something useful for the populace at large. It is always good to
-have the right incentives in place... So pol can do things to protect
-NHS which in turn protects the public.
+optimize on, bcz it is directly under their purview in UK, which it
+turns out to be something useful for the populace at large. It is
+always good to have the right incentives in place... So pol can do
+things to protect NHS which in turn protects the public.
 
 In US federal pols could be like ... meh.. I dont know.. there are
 bunch of hospitals out there and stuff, ppl can go there.. and like,
