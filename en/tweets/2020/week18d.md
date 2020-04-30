@@ -1,7 +1,7 @@
 # Tweets - Week 18d
-
+t
 BTW - who names a health insurance after one of the most deadliest
-snakes in the world? These ppl are f-ing pshycopaths.
+snakes in the world? These ppl are pshycopaths.
 
 *2020-4-30 21:30:24*
 
