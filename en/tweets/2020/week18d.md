@@ -15,6 +15,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
+BTW - who names a health insurance after one of the most deadliest
+snakes known to mankind? I think there is a message here.
+
+*2020-4-30 21:30:24*
+
+---
+
 I was thinking M4A a good compromise solution for affordable and
 humane care but maybe UK method could even be better (all health is
 managed directly by gov, reports to PM). Johnson keeps saying how they
