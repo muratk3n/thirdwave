@@ -8,7 +8,7 @@ snakes in the world? These ppl are pshycopaths.
 ---
 
 I was thinking M4A a good compromise solution for affordable and
-humane care but maybe UK method could even be better (all health is
+humane care but maybe UK method is even  better (all health is
 managed directly by gov, reports to PM). Johnson keeps saying how they
 try to flatten the curve bcz "we had to prevent out NHS from being
 overwhelmed" - now that's a thing a politician can observe and
