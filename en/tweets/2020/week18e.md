@@ -49,18 +49,6 @@ Looks fun
 
 ---
 
-Italians killed Jesus, not the Jews. The other narrative is the
-biggest propaganda shtick even constructed in history, to push
-teachings of Jesus under centralized state control. Goebbels would
-have been impressed - but then again, their Heil Hitler salute was
-taken from Romans.
-
-"I don't like Jews because they killed Jesus"
-
-*2020-5-1 11:42:3*
-
---
-
 You got that [backwards](https://muratk3n.github.io/thirdwave/en/2020/05/roman-anatolia.html)
 
 "Paraphrasing: the arriving ppl from Central As changed Anatolia"
