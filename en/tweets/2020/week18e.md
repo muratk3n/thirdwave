@@ -152,14 +152,14 @@ World oil [production](https://www.eia.gov/outlooks/steo/xls/Fig6.xlsx), from [I
 
 I guess data for production before April are real, but the rest is
 projection. It'd be great to supply data as one CSV, and a CSV per
-concept, like `world-production.csv`. 
+concept, like `world-production.csv` with simple format so ppl dont
+have to dig through the cells like I did.
 
 ```python
 # Unit million bbls per day
 import pandas as pd
 df = pd.read_excel('/tmp/Fix6.xlsx')
 arr = np.array(df)[25:50,3:5]
-#arr = arr[25:50,3:5]
 df2 = pd.DataFrame(arr)
 df2.columns = ['date','oil']
 df2['oil'] = df2.oil.astype(float)
