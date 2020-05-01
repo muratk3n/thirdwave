@@ -148,7 +148,8 @@ describing all the columns.
 
 ---
 
-There is data from Quandl on this but time series stops at 2018 for some reason.
+There is data from Quandl on this but time series stops at 2018 for
+some reason. Ideally I'd like to get it from them.
 
 *2020-5-1 7:38:0*
 
