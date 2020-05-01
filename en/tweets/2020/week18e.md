@@ -148,6 +148,12 @@ describing all the columns.
 
 ---
 
+There is data from Quandl on this but time series stops at 2018 for some reason.
+
+*2020-5-1 7:38:0*
+
+---
+
 World oil [production](https://www.eia.gov/outlooks/steo/xls/Fig6.xlsx), from [IEA](https://www.eia.gov/outlooks/steo/data.php) 
 
 I guess data for production before April are real, but the rest is
