@@ -6,7 +6,7 @@ people who came were assimilated into the existing culture of Anatolia
 which is an extension of Rome and Byzantium whose culmination was the
 Ottomans that is correctly labeled as Third Rome by some.
 
-There are reason why these so-called Turks are marked as "outsiders"
+There is a reason why these so-called Turks are marked as "outsiders"
 in the current nationalist narrative. As Gellner (who wrote the book
 on nationalism) [says](https://muratk3n.github.io/thirdwave/en/2013/03/allegience-of-pion.html),
 
