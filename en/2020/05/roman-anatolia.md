@@ -6,9 +6,9 @@ people who came were assimilated into the existing culture of Anatolia
 which is an extension of Rome and Byzantium whose culmination was the
 Ottomans that is correctly labeled as Third Rome by some.
 
-There is a reason why these so-called Turks are marked as "outsiders"
-in the current nationalist narrative. As Gellner (who wrote the book
-on nationalism) [says](https://muratk3n.github.io/thirdwave/en/2013/03/allegience-of-pion.html),
+There is a reason why these so-called Turks are marked the "real ancestors" in
+the current nationalist narrative. As Gellner (who wrote the book on
+nationalism) [says](https://muratk3n.github.io/thirdwave/en/2013/03/allegience-of-pion.html),
 
 >Nationalism is not what it seems, and above all it is not what it
  seems to itself. The cultures it claims to defend and revive are
