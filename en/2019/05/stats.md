@@ -279,14 +279,49 @@ plt.savefig('pmi.png')
 
 ```text
 Date
-2019-12-01    47.8
 2020-01-01    50.9
 2020-02-01    50.1
 2020-03-01    49.1
+2020-04-01    41.5
 Name: PMI, dtype: float64
 ```
 
 ![](pmi.png)
+
+
+<a name="gdpism"></a>
+
+## GDP vs ISM
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+import quandl
+
+today = datetime.datetime.now()
+start=datetime.datetime(1992, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['GDPC1']
+df = data.DataReader(cols, 'fred', start, end)
+
+df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
+
+df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
+                returns="pandas",
+                start_date=start.strftime('%Y-%m-%d'),
+                end_date=end.strftime('%Y-%m-%d'),
+                authtoken=open(".quandl").read())
+
+plt.figure(figsize=(12,5))
+ax1 = df2.PMI.plot(color='blue', grid=True, label='ISM')
+ax2 = df.gdpyoy.plot(color='red', grid=True, label='GDP',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+plt.savefig('gdp-ism.png')
+```
+
+![](gdp-ism.png)
 
 
 <a name="cpyoy"></a>
@@ -340,12 +375,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2020-04-24    100.379997
-2020-04-27    100.040001
-2020-04-28     99.870003
-2020-04-29     99.685997
+2020-04-28    99.870003
+2020-04-29    99.570000
+2020-04-30    99.019997
+2020-05-01    98.800003
 Name: Adj Close, dtype: float64
-[ 80.55704291 111.64116987]
+[ 81.87796215 102.46290063]
 ```
 
 ![](dollar.png)
@@ -392,41 +427,6 @@ Freq: MS, Name: nfpyoy, dtype: float64
 ```
 
 ![](pay-wage.png)
-
-<a name="gdpism"></a>
-
-## GDP vs ISM
-
-```python
-import pandas as pd, datetime
-from pandas_datareader import data
-import quandl
-
-today = datetime.datetime.now()
-start=datetime.datetime(1992, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-cols = ['GDPC1']
-df = data.DataReader(cols, 'fred', start, end)
-
-df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
-
-df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
-                returns="pandas",
-                start_date=start.strftime('%Y-%m-%d'),
-                end_date=end.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
-
-df['pmi'] = df2.PMI
-plt.figure(figsize=(12,5))
-ax1 = df.pmi.plot(color='blue', grid=True, label='ISM')
-ax2 = df.gdpyoy.plot(color='red', grid=True, label='GDP',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('gdp-ism.png')
-```
-
-![](gdp-ism.png)
 
 <a name="p2s"></a>
 
@@ -513,10 +513,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2020-04-24       133.72
 2020-04-27       136.08
 2020-04-28       135.55
 2020-04-29       139.47
+2020-04-30       137.86
 ```
 
 ![](wilshire.png)
@@ -546,12 +546,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-04-22           9.16
 2020-04-23           9.20
 2020-04-24           9.39
 2020-04-27           9.42
 2020-04-28           9.40
 2020-04-29           9.23
+2020-04-30           8.38
 ```
 
 ![](junkbond.png)
@@ -585,12 +585,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2020-04-22   0.63    0.12         0.51
 2020-04-23   0.61    0.11         0.50
 2020-04-24   0.60    0.12         0.48
 2020-04-27   0.67    0.12         0.55
 2020-04-28   0.62    0.11         0.51
 2020-04-29   0.63    0.10         0.53
+2020-04-30   0.64    0.09         0.55
 ```
 
 ![](yield-curve.png)
@@ -618,13 +618,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2020-04-22    41.980000
 2020-04-23    41.380001
 2020-04-24    35.930000
 2020-04-27    33.290001
 2020-04-28    33.570000
 2020-04-29    31.230000
 2020-04-30    34.150002
+2020-05-01    37.189999
 Name: Adj Close, dtype: float64
 ```
 
@@ -653,11 +653,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-04-27    12.34
-2020-04-28    13.40
-2020-04-29    12.34
-2020-04-30    15.06
-2020-05-01    19.34
+2020-04-27    12.340000
+2020-04-28    13.400000
+2020-04-29    12.340000
+2020-04-30    15.060000
+2020-05-01    19.690001
 Name: Close, dtype: float64
 ```
 
