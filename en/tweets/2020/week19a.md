@@ -119,8 +119,8 @@ Anything below 50 is bad.
 
 Since Manuf PMI is a [leading
 indicator](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gdpism)
-of GDP, expect that to fall further as well. So that red line will
-follow that blue line. Then it is ka-booom.
+of GDP, expect that to fall further as well. So, that red line will
+follow that blue line. Then we get ka-booom.
 
 *2020-5-2 9:43:51*
 
