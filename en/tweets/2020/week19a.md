@@ -66,11 +66,11 @@ Wut - black ppl are dying at higher rates?
 ---
 
 Effin Russkies. We all know it, there is this sheer mental rawpower
-coming out of RU, it is a joke almost in science circles. Boyd from
-Stanford was talking about a new area, says 'one day someone will find
-a result for it..' then says 'and I bet that person will be a Russian'
-half-jokingly and laughs. It's true. Is it the extreme cold..? Nothing
-else to do, either drink vodka or study.
+coming out of these muthafukkas, it is a joke almost in science
+circles. Boyd from Stanford was talking about a new area, says 'one
+day someone will find a result for it..' then says 'and I bet that
+person will be a Russian' half-jokingly and laughs. It's true. Is it
+the extreme cold..? Nothing else to do, either drink vodka or study.
 
 *2020-5-2 9:49:9*
 
