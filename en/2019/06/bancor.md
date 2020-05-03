@@ -18,21 +18,19 @@ the rest of the world needs that currency, but the boss cannot do that
 without being in deficit, which might contradict with its internal
 politics]
 
-[More problems] According to a theory of international trade that goes
-back at least to David Hume, any disequilibrium is doomed to be
-reabsorbed by automatic adjustment mechanisms. In a system of freely
-fluctuating exchange rates, a trade surplus ought to determine an
-appreciation of the currency of the surplus country, thus reducing its
-competitiveness and contributing to rebalance its foreign trade.  If a
-country throws sand in the mechanism, for example by piling up foreign
-exchange reserves in order to keep its exchange rate low, this will
-obviously hinder the correction and perpetuate the imbalance (at least
-until a rebalancing is achieved, more slowly and indirectly, by a
-greater inflation in the surplus country, or by a greater deflation in
-the deficit country, so as to eventually devalue the currency of the
-latter in real terms, if not in nominal terms).
-
-[..]
+According to a theory of international trade that goes back at least
+to David Hume, any disequilibrium is doomed to be reabsorbed by
+automatic adjustment mechanisms. In a system of freely fluctuating
+exchange rates, a trade surplus ought to determine an appreciation of
+the currency of the surplus country, thus reducing its competitiveness
+and contributing to rebalance its foreign trade.  If a country throws
+sand in the mechanism, for example by piling up foreign exchange
+reserves in order to keep its exchange rate low, this will obviously
+hinder the correction and perpetuate the imbalance (at least until a
+rebalancing is achieved, more slowly and indirectly, by a greater
+inflation in the surplus country, or by a greater deflation in the
+deficit country, so as to eventually devalue the currency of the
+latter in real terms, if not in nominal terms). ...
 
 A third reason for persistent imbalances is of a completely different
 nature, and has to do with the functioning of international capital
@@ -49,9 +47,7 @@ sustainability of its liabilities, while the creditor can go on
 indefinitely accumulating reserves and assets; the adjustment is more
 painful for the debtor, who is forced to enforce restrictive monetary
 and fiscal policies, than for the creditor, who is asked to adopt
-expansionary policies.
-
-[..]
+expansionary policies...
 
 This claim is based on the fact that the international monetary system
 envisaged by Keynes, unlike the one that was established at BW,
@@ -62,9 +58,7 @@ distinct from all national currencies; a symmetric distribution of the
 burden of readjustment between debtor and creditor countries; a
 criterion to detect chronic disequilibria and to correct exchange
 rates accordingly.  Let us see what kind of international monetary
-architecture Keynes planned to build on these three pillars.
-
-[..]
+architecture Keynes planned to build on these three pillars...
 
 The Clearing Union was conceived as a bank with the task of financing
 temporary disequilibria in the balance of trade between countries. In
@@ -95,21 +89,21 @@ its credit in bancor not only with B, but with any other member
 country; and B could reduce its debit by exporting towards any other
 country.  In this way, the Clearing Union would be able, in principle,
 to finance international trade and its expansion, without the need of
-any given amount of money.
+any given amount of money. ...
 
-[..] Bancor is not a fiat money. To be sure, it is created ex
-nihilo. And yet its creation does not depend on the decision of a
-central authority.  The amount of bancor balances is not decided by
-the Clearing Union.  Bancor can only be created in conjunction with
-the transfer of real goods from a surplus country to a deficit
-country. Moreover [..] bancor does not only come from nothing, but it
+Bancor is not a fiat money. To be sure, it is created ex nihilo. And
+yet its creation does not depend on the decision of a central
+authority.  The amount of bancor balances is not decided by the
+Clearing Union.  Bancor can only be created in conjunction with the
+transfer of real goods from a surplus country to a deficit
+country. Moreover ...  bancor does not only come from nothing, but it
 also goes back to nothing; it is not only created, but it is also
 destroyed, every time a transfer of goods occurs in the opposite
 direction, from a deficit to a surplus country.
 
 [.. In this] international bank designed by Keynes, not only debtors
 would have to pay an interest on their debts, but also creditors would
-have to pay an interest on their credits [..]
+have to pay an interest on their credits ...
 
 This might appear startling and vexatious towards creditors, since we
 are used to seeing them as virtuous savers that deserve to be
@@ -123,9 +117,9 @@ worth paying for. Just as the Clearing Union allows deficit countries
 to purchase goods that they otherwise would not have been able to
 afford, in exactly the same way and in the same measure it allows
 surplus countries to sell goods that they would have otherwise not
-have been able to sell.
+have been able to sell...
 
-[..] Here comes into play the third distinctive feature of Keynes’s
+Here comes into play the third distinctive feature of Keynes’s
 proposal: the correction of exchange rate misalignments.  In case a
 country should have a systematic deficit (or surplus), its currency
 would be devalued (or revalued) accordingly, in order to increase (or
@@ -136,9 +130,7 @@ devaluating to deficit countries is sufficient to rule out
 this sort of measure as a way to boost exports. In fact, the
 disequilibria that would justify such corrections would be clearly
 defined in terms of a certain proportion of the quota for a certain
-number of years.
-
-[..]
+number of years...
 
 A similar clearing system could be set up in Europe to face the
 current sovereign debt problems.  As I have already observed, the
@@ -155,41 +147,19 @@ misalignments.
 
 *--------------*
 
-The last part is very interesting; it suggests a changing of the Euro
-from what it is today into a *European bancor*. Most of the problems
-the author talks about internationally has occured already inside the
-European Union between Greece and other debtor countries. This was a
-systemic problem, and we can't fix systemic problems by asking
-creditor nations to be "more mindful" and "be more
-European". Incentives are everything, any system is a collection of
-incentives. Change the incentives, change the game.
+Bancor requires no anchor; There are a certain group of econs out
+there who have an odd infatuation with gold (Keynes despised it,
+called it a barbaric relic). The yellow metal is nothing special. We
+*imbue* moneyness on things ourselves, from the beginning of ancient
+times (money is created by armies. King deploys soldiers to get slaves
+to dig x out of the ground, gives x to the soldiers as minted money,
+and taxes ordinary people in x [2]).
 
-Bancor requires no anchor (it rhymes!); that part I especially
-like. There are a certain group of econs out there who have an odd
-infatuation with gold (Keynes despised it, called it a barbaric
-relic). The yellow metal is nothing special. We *imbue* moneyness on
-things ourselves, from the beginning of ancient times (money is
-created by armies. King deploys soldiers to get slaves to dig x out of
-the ground, gives x to the soldiers as minted money, and taxes
-ordinary people in x [2]).
-
-I like that bancor discourages both creditors and debtors, PLUS
-adjusts the exchange rate depending on the status of countries,
-whether on the plus side, or the minus side of the ledger. In essence
-what should have happened through "floating" currency exchanges,
-happens through bancor.
-
-Some say the IMF has plans to make SDR the world's reserve currency,
-when the next crisis hits, they will reveal this plan. This is an
-incredibly bad idea, SDR is anchored, tied to gold, and IMF is bunch
-of non-elected officials who should not make decisions that effect
-everyone globally. Bancor is the way to go.
-
-Could crypto be a global currency? I would not wait on this, crypto is
-and will be an excellent medium of exchange (as an lightning fast
-electronic payment system), but the pressing need for a global
-currency that somehow ties all national currencies, exchange rates,
-trade imbalances is here with us, and needs to be solved ASAP.
+Bancor discourages both creditors and debtors, PLUS adjusts the
+exchange rate depending on the status of countries, whether on the
+plus side, or the minus side of the ledger. In essence what should
+have happened through "floating" currency exchanges, happens through
+bancor.
 
 Refs
 
