@@ -164,21 +164,6 @@ understanding'"
 
 ---
 
-Sadly my niggers are on the right-hand side of this picture.
-
-"@Brad_Setser
-
-One thing that I liked about @TheEconomist vulnerability index is that
-the countries at the top of the list map well to the set of countries
-with what I have called "fortress" balance sheets (more fx reserves
-than fx denominated external debt)"
-
-<img width="340" src="https://pbs.twimg.com/media/EW4RLZbWAAoU9fN?format=png&name=900x900"/>
-
-*2020-5-3 18:2:19*
-
----
-
 "@biotequity
 
 CCP19: Want to know the truth?  DEMAND THE LAB NOTEBOOKS FROM WUHAN -
@@ -343,9 +328,25 @@ eventually blurted our 'The Good Place, but computers.'"
 April, but now I can’t,' a domestic worker said at the end of last
 month. Now, she is holding rent-strike meetings for nearly 200 renters"
 
-*2020-5-3 9:4:47*
+*2020-5-3 9:22:47*
 
 ---
+
+Sadly my niggers are on the right-hand side of this picture.
+
+"@Brad_Setser
+
+One thing that I liked about @TheEconomist vulnerability index is that
+the countries at the top of the list map well to the set of countries
+with what I have called "fortress" balance sheets (more fx reserves
+than fx denominated external debt)"
+
+<img width="340" src="https://pbs.twimg.com/media/EW4RLZbWAAoU9fN?format=png&name=900x900"/>
+
+*2020-5-3 9:3:9*
+
+---
+
 
 "@joshua_landis
 
