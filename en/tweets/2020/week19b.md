@@ -228,8 +228,8 @@ generation ability from that remote repo from markdown, but that func
 can be replicated elsewhere. The point is I own all the base
 content. It's all based on simple files.
 
-Reading Snowden's book made me remember the good old times of the Net
-- I am also very much a product of that era as he is.
+Reading Snowden's book made me remember the good old times of the Net,
+I am also very much a product of that era as he is.
 
 Snowden, *Permanent Record* - "Now, it was the creative Web that
 collapsed [after 90s], as countless beautiful, difficult,
