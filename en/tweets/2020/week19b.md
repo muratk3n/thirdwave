@@ -212,7 +212,7 @@ North Korea and South Korea exchange fire"
 
 "@raoulGMI
 
-We’re about to have deflation and the market hasn’t figure it out yet"
+We’re about to have deflation and the market hasn’t figured it out yet"
  
 [Link](https://mobile.twitter.com/RealVision/status/1256342758178119689)
 
