@@ -102,13 +102,13 @@ that her interests are at odds with ours"
 Education? All u need is a tablet with teaching material on it. Video
 lectures, ebooks, problems with solutions.
 
-There can be a "school" but in this reincarnation it would mostly be a
-loungy area, a cross between a Stabucks and a mall. There can be play
-areas, study areas where some professional grown-ups can donate time
-as "groundkeepers" making sure kids are silent in study areas. They
-can be certified by on the e-material as well, by the DOeD, so they
-can answer questions. But they should not teach. Feynman should teach
-your children not some random average jerkoff.
+There can be a "school" but in a postmodern reincarnation it would
+mostly be a loungy area, a cross between a Stabucks and a mall. There
+can be play areas, study areas where some professional grown-ups can
+donate time as "groundkeepers" making sure kids are silent in study
+areas. They can be certified by on the e-material as well, by the
+DOeD, so they can answer questions. But they should not teach. Feynman
+should teach your children not some random average jerkoff.
 
 More [here](https://muratk3n.github.io/thirdwave/en/2018/09/public-education.html)
 
@@ -130,7 +130,7 @@ Seems like a usable camping light - The Fenix CL20R. Have been looking
 for something light, rechargable, and durable 4 some time... Went
 through many, one hi-tech prod sold as "chargable by sunlight" was
 totally not (inno funded by the Clinton Foundation, it figures), and
-two more weirdo gismos later, it's the Fenix
+two more weirdo gismos later, this looks good.
 
 <img width="140" src="https://media.knivesandtools.com/Exact675x450/21628/fecl20r-o$01-fenix-fecl20r-o-01.jpg"/>
 
