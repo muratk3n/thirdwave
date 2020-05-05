@@ -1,5 +1,4 @@
-import pandas as pd
-import numpy as np
+import pandas as pd, zipfile, numpy as np
 import matplotlib.pyplot as plt
 
 def retrieve_cor_data(bins,colors):
