@@ -106,7 +106,7 @@ There can be a "school" but in a postmodern reincarnation it would
 mostly be a loungy area, a cross between a Starbucks and a mall. There
 can be play areas, study areas where some professional grown-ups can
 donate time as "groundkeepers" making sure kids are silent. They can
-be certified by on the e-material as well, by the DOeD, so they can
+be certified on the e-material as well, by the DOeD, so they can
 answer questions. But they should not teach. Feynman should teach your
 children not some random average jerkoff.
 
