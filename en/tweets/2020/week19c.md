@@ -151,13 +151,12 @@ knew of "their identity". He starts easy, first asks them about the
 sultan, the Caliph, etc. The soldiers weren't really sure, many were
 confused, they thought sultan was prophet, Caliph was God, etc.  the
 answers were a big mess. Frustrated, the officer asks "but aren't we
-all Turks!??". They knew the answer for this one. The responded, in
-unison with *Estağfurullah*.
-
-Let me try to translate what this means... Say your friend drops
-something, or makes a mistake, and says "ah I'm such a putz", and this
-is the word you use. It's like "oh c'mon", "don't sell yourself
-short", forgive urself. IT CAN'T BE THAT BAD.
+all Turks!??". They knew the answer to this one. The responded, in
+unison with the word *Estağfurullah*. Let me try to translate what
+this means... Say your friend drops something, or makes a mistake, and
+says "ah I'm such a putz", and this is the word you use. It's like "oh
+c'mon", "don't sell yourself short", forgive urself. IT CAN'T BE THAT
+BAD.
 
 This ethnicity, rightfully so, was known to be marginal, a few
 villages here and there, at a particular location. After decades of
