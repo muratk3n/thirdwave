@@ -105,10 +105,10 @@ lectures, ebooks, problems with solutions.
 There can be a "school" but in a postmodern reincarnation it would
 mostly be a loungy area, a cross between a Starbucks and a mall. There
 can be play areas, study areas where some professional grown-ups can
-donate time as "groundkeepers" making sure kids are silent in study
-areas. They can be certified by on the e-material as well, by the
-DOeD, so they can answer questions. But they should not teach. Feynman
-should teach your children not some random average jerkoff.
+donate time as "groundkeepers" making sure kids are silent. They can
+be certified by on the e-material as well, by the DOeD, so they can
+answer questions. But they should not teach. Feynman should teach your
+children not some random average jerkoff.
 
 More [here](https://muratk3n.github.io/thirdwave/en/2018/09/public-education.html)
 
