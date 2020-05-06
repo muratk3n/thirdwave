@@ -1,15 +1,5 @@
 # Tweets - Week 19d
 
-Booeeiinnnggggggggg
-
-"Government scientist Neil Ferguson resigns after breaking lockdown rules to meet his married lover"
-
-<img width="200" src="https://www.telegraph.co.uk/content/dam/news/2020/05/05/2020-05-05_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=960"/>
-
-*2020-5-6 19:1:34*
-
----
-
 \#Scotland is uniquely placed to produce \#hydrogen at a scale much
 cheaper and efficiently than most other countries”
 
@@ -50,7 +40,17 @@ a circus stunt..not a real fighting vessel"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">it has come to this <a href="https://t.co/ioZyp1XGwr">pic.twitter.com/ioZyp1XGwr</a></p>&mdash; Felix Salmon (@felixsalmon) <a href="https://twitter.com/felixsalmon/status/1257706835764826113?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-6 16:42:48*
+*2020-5-6 16:48:48*
+
+---
+
+Booeeiinnnggggggggg
+
+"Government scientist Neil Ferguson resigns after breaking lockdown rules to meet his married lover"
+
+<img width="200" src="https://www.telegraph.co.uk/content/dam/news/2020/05/05/2020-05-05_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=960"/>
+
+*2020-5-6 16:46:8*
 
 ---
 
