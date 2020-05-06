@@ -31,9 +31,12 @@ cheaper and efficiently than most other countries”
 
 ---
 
-@Jkylebass
+"@Jkylebass
 
-The Ukrainian “junk carrier” the CCP bought through a front company is now conducting “operations” in the SCS. The junk carrier can only launch 8 planes before the first plane has to land again!  It’s quite a circus stunt..not a real fighting vessel.
+The Ukrainian 'junk carrier' the CCP bought through a front company is
+now conducting “operations” in the SCS. The junk carrier can only
+launch 8 planes before the first plane has to land again!  It’s quite
+a circus stunt..not a real fighting vessel"
 
 *2020-5-6 17:9:43*
 
