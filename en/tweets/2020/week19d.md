@@ -4,7 +4,7 @@ Booeeiinnnggggggggg
 
 "Government scientist Neil Ferguson resigns after breaking lockdown rules to meet his married lover"
 
-<img width="240" src="https://www.telegraph.co.uk/content/dam/news/2020/05/05/2020-05-05_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=960"/>
+<img width="200" src="https://www.telegraph.co.uk/content/dam/news/2020/05/05/2020-05-05_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=960"/>
 
 *2020-5-6 19:1:34*
 
