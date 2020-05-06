@@ -34,7 +34,7 @@ cheaper and efficiently than most other countries”
 "@Jkylebass
 
 The Ukrainian 'junk carrier' the CCP bought through a front company is
-now conducting “operations” in the SCS. The junk carrier can only
+now conducting 'operations' in the SCS. The junk carrier can only
 launch 8 planes before the first plane has to land again!  It’s quite
 a circus stunt..not a real fighting vessel"
 
@@ -112,7 +112,7 @@ with...'
 
 Mitt Romney just came out of the GOP lunch carrying a poster board
 with a bar graf on it and the title: 'Blue states aren’t the only ones
-getting screwed'
+getting screwed'"
 
 <img width="240" src="https://pbs.twimg.com/media/EXRjoZOWoAI6bMW.jpg"/>
 
