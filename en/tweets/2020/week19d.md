@@ -97,7 +97,11 @@ Pierini: "[O]ne can’t ignore economic fundamentals. Turkey is a deficit countr
 
 ---
 
-Mitt be diggin that grave, he is waitin, biding his time.. 
+Mitt be diggin that grave, he is waitin, biding his time.. He wants to
+be there when it ends. He'll be there, he'll be like 'you were all up
+in my grill, now Im up in your grill'.
+
+When they axe 'what say you Mitt' he wants to go like 👎. 
 
 "@lindsaywise
 
