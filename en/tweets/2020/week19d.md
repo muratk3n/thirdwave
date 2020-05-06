@@ -104,9 +104,9 @@ Mitt be diggin that grave, he is waitin, biding his time.. He wants to
 be there when it ends. He'll be there, he'll be like 'you were all up
 in my grill, Imma be up in your grill'. 
 
-When they axe 'what say you Mitt' he wants to go like 👎. Dead! Yeah
+When they axe 'what say you Mitt' he wants to go like 👎. Dead! 'Yeah
 Imma moonwalk up and down your ass mofoka. U dont know who you messed
-with.
+with...'
 
 "@lindsaywise
 
