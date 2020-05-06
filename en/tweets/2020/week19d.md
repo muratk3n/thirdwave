@@ -127,6 +127,20 @@ getting screwed'"
 
 ---
 
+7 of 9 was on *Picard*. Or 2 of 2 nam sayin?
+
+Boiinnnggggggggg.
+
+They made her a lizzziiie, but little side comment she was straight on
+*Voyager* she got it on with the first ethnic US Indian. Now you made
+it to be like she was so turned off the bro she turned lesbo.
+
+See you try too hard on Woke you go broke.
+
+*2020-5-5 23:50:5*
+
+---
+
 <img width="240" src="https://i.chzbgr.com/full/9478393088/h88109C64/something-always-carry-with-no-matter-where-go-bj-sutton-prettybadlefty-young-student-loan-debt"/>
 
 *2020-5-5 23:21:33*
@@ -144,18 +158,6 @@ turning into shit.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Selling my house and living in a van down by the river would also allow me to pay the bills next month. <br>So would a tiny tax on unjustly and unimaginably large fortunes that would not affect the standard of living of the people who hoard those fortunes. <a href="https://t.co/byZQc6mm3A">https://t.co/byZQc6mm3A</a></p>&mdash; Every Billionaire Is A Policy Failure (@DanRiffle) <a href="https://twitter.com/DanRiffle/status/1257713525272784898?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-5-5 19:6:14*
-
----
-
-7 of 9 was on *Picard*. Or 2 of 2 nam sayin?
-
-Boiinnnggggggggg.
-
-They made her a lizzziiie, but little side comment she was straight on
-*Voyager* she got it on with the first ethnic US Indian. Now you made
-it to be like she was so turned off the bro she turned lesbo.
-
-See you try too hard on Woke you go broke.
 
 ---
 
