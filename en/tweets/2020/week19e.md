@@ -45,10 +45,10 @@ that the current account reaches a level compatible with that
 equilibrium.
 
 The logic goes backward, not forward—similar to the argument one
-sometimes hears: "We have a current account deficit. A deficit cannot
+sometimes hears: 'We have a current account deficit. A deficit cannot
 go on forever but must revert to balance (or to some long-run
 equilibrium) one day. Therefore, the exchange rate needs to
-depreciate." Most economics students find it hard to under­stand why
+depreciate.' Most economics students find it hard to under­stand why
 speculators in the foreign exchange market should at all be bothered
 to please macroeconomists and to restore macroeconomic equilibrium in
 this fashion.  And they are probably not alone."
