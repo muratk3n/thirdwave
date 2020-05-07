@@ -192,7 +192,7 @@ Obi Wan: Died in childbirth, literally nothing could be done"
 
 I never took 911 too seriously. A few thousand dead? Sad but no WW
 level. Turned out it was an inside job anyway. Inside, as in "ally"
-(and some US deepsters)
+(and some US deepsters). This thing much more deadly and serious.
 
 *2020-5-6 21:0:11*
 
