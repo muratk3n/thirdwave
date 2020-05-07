@@ -19,8 +19,6 @@ $$
 \dot{q} \approx \xi c_1(t), \qquad (5)
 $$
 
-First model takes this to be $\dot{q} \approx \xi c(t)$.
-
 We assume that the real exchange rate is the major driving force
 behind the trade balance and therefore behind the current account,
 $z(t)$. An appreciated real exchange rate leads to a deterioration of
@@ -67,7 +65,8 @@ $$
 
 Model 1
 
-(5) and (6a)
+Use (5) and (6a). First model takes (5) to be $\dot{q} \approx \xi c(t)$.
+
 
 $$
 q(0) = 0, z(0) = 1
