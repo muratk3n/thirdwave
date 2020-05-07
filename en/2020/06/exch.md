@@ -130,4 +130,4 @@ References
 
 [1] Muller-Plantenberg, [PhD Dissertation](http://etheses.lse.ac.uk/2681/)
 
-[2] Muller-Plantenberg, [Balance of payments accounting and exchange rate dynamics](https://isiarticles.com/bundles/Article/pre/pdf/79576.pdf)
+[2] Muller-Plantenberg, [Balance of payments accounting and exchange rate dynamics](https://www.researchgate.net/publication/46490787_Balance_of_payments_accounting_and_exchange_rate_dynamics)
