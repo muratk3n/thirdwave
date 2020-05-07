@@ -65,7 +65,7 @@ $$
 
 Model 1
 
-Use (5) and (6a). First model takes (5) to be $\dot{q} \approx \xi c(t)$.
+Use (5) and (6a). First model takes (5) to be $\dot{q} = \xi c(t)$.
 
 
 $$
