@@ -147,7 +147,7 @@ backlash over virus"
 
 Tutorializing everything while learning helps. Then, for a new topic,
 check the existing tutorials support the new concept. If not there,
-major existing content reorientation begins. 	      
+major existing content reorientation, until it is.
 
 *2020-5-6 22:15:7*
 
