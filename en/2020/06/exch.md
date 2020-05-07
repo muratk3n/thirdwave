@@ -133,6 +133,3 @@ References
 
 [2] Muller-Plantenber, [Balance of payments accounting and exchange rate dynamics](https://isiarticles.com/bundles/Article/pre/pdf/79576.pdf)
 
-
-
-
