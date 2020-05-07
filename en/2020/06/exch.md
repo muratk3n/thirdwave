@@ -129,9 +129,9 @@ plt.savefig('neer-jp.png')
 
 References
 
-[1] Muller-Plantenber, PhD Dissertation, http://etheses.lse.ac.uk/2681/
+[1] Muller-Plantenber, [PhD Dissertation](http://etheses.lse.ac.uk/2681/)
 
-[2] Muller-Plantenber, Balance of payments accounting and exchange rate dynamics, https://isiarticles.com/bundles/Article/pre/pdf/79576.pdf
+[2] Muller-Plantenber, [Balance of payments accounting and exchange rate dynamics](https://isiarticles.com/bundles/Article/pre/pdf/79576.pdf)
 
 
 
