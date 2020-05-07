@@ -62,7 +62,7 @@ $$
 All models use the following constants,
 
 $$
-\xi = 0.1, \quad \phi_1 = 0.03, \quad \phi_2 = 0.06, \quad \phi_3 = 0.1, \eta = 0.05
+\xi = 0.1, \phi_1 = 0.03, \phi_2 = 0.06, \phi_3 = 0.1, \eta = 0.05
 $$
 
 Model 1
