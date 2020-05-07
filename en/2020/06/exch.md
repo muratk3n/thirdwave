@@ -10,7 +10,7 @@ $k(t)$: Autonomous capital flows
 
 $r(t)$: Official sales of foreign reserves
 
-$d(t)$: Accommodating” capital flows, under normal circumstances,
+$d(t)$: "Accommodating" capital flows, under normal circumstances,
 current account imbalances are financed by it.
 
 $c(t)$: International payment flows
@@ -132,4 +132,3 @@ References
 [1] Muller-Plantenber, [PhD Dissertation](http://etheses.lse.ac.uk/2681/)
 
 [2] Muller-Plantenber, [Balance of payments accounting and exchange rate dynamics](https://isiarticles.com/bundles/Article/pre/pdf/79576.pdf)
-
