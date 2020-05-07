@@ -16,7 +16,7 @@ financed by “accommodating” capital flows
 $c(t)$: International payment flows
 
 $$
-\dot{q} \approx \xi c_1(t), \quad (5)
+\dot{q} \approx \xi c_1(t), \qquad (5)
 $$
 
 We assume that the real exchange rate is the major driving force
@@ -28,13 +28,13 @@ hand, strengthens the trade balance. The parameter $\phi_1$ determines
 the speed with which the current account reverts to equilibrium
 
 $$
-\dot{z}(t) = -\phi_1 z(t)  - \phi_2 q(t) \quad (6a)
+\dot{z}(t) = -\phi_1 z(t)  - \phi_2 q(t) \qquad (6a)
 $$
 
 Balance of payments identity in our model can be stated as
 
 $$
-z(t) + d(t) + k(t) + c(t) + r(t) = 0 \quad (8)
+z(t) + d(t) + k(t) + c(t) + r(t) = 0 \qquad (8)
 $$
 
 Absent official intervention in the foreign exchange market,
