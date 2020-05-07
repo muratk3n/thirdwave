@@ -1,6 +1,6 @@
 # Tweets - Week 19e
 
-Exchange rate model from Muller-Plantenberg, first model. TBC
+Exchange rate model from Muller-Plantenberg, first stab. TBC
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
 
