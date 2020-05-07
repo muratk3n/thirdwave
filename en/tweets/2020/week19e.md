@@ -1,6 +1,7 @@
 # Tweets - Week 19e
 
-Exchange rate model from Muller-Plantenberg, model 1. TBC
+Exchange rate model from Muller-Plantenberg, model 1. TBC. These ODEs
+are not complicated at all.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
 
