@@ -1,6 +1,6 @@
 # Exchange Rate
 
-Excerpts from [1]. For now only model 1. 
+Based on excerpts from [1]. First some definitions,
 
 $z(t)$: Current account
 
