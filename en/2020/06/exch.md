@@ -93,9 +93,9 @@ plt.savefig('mod1.png')
 
 ![](mod1.png)
 
-## NEER
+### NEER
 
-From https://www.investopedia.com/terms/n/neer.asp
+https://www.investopedia.com/terms/n/neer.asp
 
 The nominal effective exchange rate (NEER) is an unadjusted weighted
 average rate at which one country's currency exchanges for a basket of
@@ -104,9 +104,7 @@ of domestic currency needed to purchase foreign currency. In
 economics, the NEER is an indicator of a country's international
 competitiveness in terms of the foreign exchange (forex) market
 
-Data is at, for every country goes back to 70s
-
-https://www.bruegel.org/publications/datasets/real-effective-exchange-rates-for-178-countries-a-new-database
+[Data](https://www.bruegel.org/publications/datasets/real-effective-exchange-rates-for-178-countries-a-new-database) (for every country goes back to 70s),
 
 ```python
 import pandas as pd, zipfile
