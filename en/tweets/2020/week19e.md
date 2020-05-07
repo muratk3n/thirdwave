@@ -58,6 +58,12 @@ this fashion.  And they are probably not alone."
 
 ---
 
+Econ is a different beast of course. They are fukked
+
+*2020-5-7 13:11:3*
+
+---
+
 At high echelons of science if you have something good you will get
 your audience. If you didnt, there is something wrong with your
 theory, or something wrong with you. Don't try to appeal "to the
