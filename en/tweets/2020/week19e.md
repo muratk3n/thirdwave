@@ -58,7 +58,7 @@ this fashion.  And they are probably not alone."
 
 ---
 
-Econ is a different beast of course. They are fukked
+Econ is a different beast of course. They are fukked at every level.
 
 *2020-5-7 13:11:3*
 
