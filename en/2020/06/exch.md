@@ -10,14 +10,16 @@ $k(t)$: Autonomous capital flows
 
 $r(t)$: Official sales of foreign reserves
 
-$d(t)$: Under normal circumstances, current account imbalances are
-financed by “accommodating” capital flows
+$d(t)$: Accommodating” capital flows, under normal circumstances,
+current account imbalances are financed by it.
 
 $c(t)$: International payment flows
 
 $$
 \dot{q} \approx \xi c_1(t), \qquad (5)
 $$
+
+First model takes this to be $\dot{q} \approx \xi c(t)$.
 
 We assume that the real exchange rate is the major driving force
 behind the trade balance and therefore behind the current account,
