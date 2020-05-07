@@ -1,4 +1,4 @@
-# Exchange Rate
+# Exchange Rates
 
 Based on excerpts from [1]. First some definitions,
 
@@ -97,14 +97,13 @@ plt.savefig('mod1.png')
 
 ### NEER
 
-https://www.investopedia.com/terms/n/neer.asp
-
-The nominal effective exchange rate (NEER) is an unadjusted weighted
-average rate at which one country's currency exchanges for a basket of
-multiple foreign currencies. The nominal exchange rate is the amount
-of domestic currency needed to purchase foreign currency. In
-economics, the NEER is an indicator of a country's international
-competitiveness in terms of the foreign exchange (forex) market
+[Def](https://www.investopedia.com/terms/n/neer.asp): The nominal
+effective exchange rate (NEER) is an unadjusted weighted average rate
+at which one country's currency exchanges for a basket of multiple
+foreign currencies. The nominal exchange rate is the amount of
+domestic currency needed to purchase foreign currency. In economics,
+the NEER is an indicator of a country's international competitiveness
+in terms of the foreign exchange (forex) market
 
 [Data](https://www.bruegel.org/publications/datasets/real-effective-exchange-rates-for-178-countries-a-new-database) (for every country goes back to 70s),
 
