@@ -112,6 +112,8 @@ in terms of the foreign exchange -forex- market
 [Data](https://www.bruegel.org/publications/datasets/real-effective-exchange-rates-for-178-countries-a-new-database),
 for every country goes back to 70s,
 
+Let's look at Germany current account and exchange rate,
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
