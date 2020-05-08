@@ -116,12 +116,6 @@ Facebook, so when that broke, they all started crashing.)"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you really want a God who won&#39;t help people because they&#39;re in the control group? <a href="https://t.co/u5GD7qdR4V">https://t.co/u5GD7qdR4V</a></p>&mdash; Tamar Haspel (@TamarHaspel) <a href="https://twitter.com/TamarHaspel/status/1256559313335836674?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-7 2:37:33*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Today’s <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> applications need to make it out of field testing and into the real economy .... this is the only way Europe can become climate-neutral by 2050&quot; <a href="https://t.co/CZSqXD2fiB">https://t.co/CZSqXD2fiB</a></p>&mdash; Graham Cooley (@GrahamCooley4) <a href="https://twitter.com/GrahamCooley4/status/1256590822641991681?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-5-6 23:33:10*
