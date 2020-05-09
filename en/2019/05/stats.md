@@ -147,6 +147,8 @@ DATE
 
 ## Wages and Unemployment
 
+<a name="nfp"/>
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
