@@ -234,7 +234,9 @@ DATE
 
 <a name="unempl"></a>
 
-## Unemployment (UnEmployment-to-Population Ratio)
+## Unemployment
+
+Reverse of Employment-to-Population Ratio
 
 ```python
 import pandas as pd, datetime
@@ -247,21 +249,19 @@ cols = ['CLF16OV','LFWA64TTUSM647S']
 df = data.DataReader(cols, 'fred', start, end)
 df = df.interpolate()
 df['ratio'] = 100.0 - ((df.CLF16OV*1000.0 / df.LFWA64TTUSM647S) * 100.0)
-print (df.tail(5))
+print (df.ratio.tail(5))
 df.ratio.plot()
 plt.savefig('unemploy.png')
 ```
 
 ```text
-            CLF16OV    ...          ratio
-DATE                   ...               
-2019-12-01   164556    ...      20.288003
-2020-01-01   164606    ...      20.119110
-2020-02-01   164546    ...      20.156965
-2020-03-01   162913    ...      20.745325
-2020-04-01   156481    ...      23.874394
-
-[5 rows x 3 columns]
+DATE
+2019-12-01    20.288003
+2020-01-01    20.119110
+2020-02-01    20.156965
+2020-03-01    20.745325
+2020-04-01    23.874394
+Freq: MS, Name: ratio, dtype: float64
 ```
 
 
