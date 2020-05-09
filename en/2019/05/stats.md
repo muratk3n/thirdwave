@@ -193,12 +193,19 @@ df3 = data.DataReader(cols, 'fred', start, end)
 df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
-df3['unempl'] = 100.0 - df3.CIVPART
 print (df3['wagegrowth'].tail(4))
 df3['wagegrowth'].plot(title='Wage Growth')
 plt.savefig('wages.png')
 ```
 
+```text
+DATE
+2019-01-01    2.954545
+2019-04-01    3.012048
+2019-07-01    2.987304
+2019-10-01    2.965159
+Name: wagegrowth, dtype: float64
+```
 ![](wages.png)
 
 <a name="claims"></a>
