@@ -269,6 +269,8 @@ DATE
 Freq: MS, Name: ratio, dtype: float64
 ```
 
+![](unemploy.png)
+
 <a name="pmi"></a>
 
 ## PMI
