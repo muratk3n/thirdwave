@@ -206,11 +206,10 @@ DATE
 2019-10-01    2.965159
 Name: wagegrowth, dtype: float64
 ```
+
 ![](wages.png)
 
 <a name="claims"></a>
-
-## Initial Unemployment Claims
 
 ```python
 import pandas as pd, datetime
@@ -223,6 +222,7 @@ cols = ['ICSA']
 df = data.DataReader(cols, 'fred', start, end)
 df.ICSA.plot()
 print (df.tail(4))
+plt.title("Initial Unemployment Claims")
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
 plt.savefig('icsa.png')
@@ -241,9 +241,7 @@ DATE
 
 <a name="unempl"></a>
 
-## Unemployment
-
-Reverse of Employment-to-Population Ratio
+Unemployment: Reverse of Employment-to-Population Ratio
 
 ```python
 import pandas as pd, datetime
@@ -270,8 +268,6 @@ DATE
 2020-04-01    23.874394
 Freq: MS, Name: ratio, dtype: float64
 ```
-
-
 
 <a name="pmi"></a>
 
