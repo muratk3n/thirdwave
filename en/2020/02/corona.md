@@ -3,8 +3,8 @@
 ```python
 import util, pandas as pd
 
-bins = [0, 50, 100, 200, 1000, 2000, 10000, 100000, 800000, 1200000]
-colors = ["lightsalmon","salmon","lightcoral", "tomato","red",\
+bins = [0, 100, 200, 1000, 2000, 10000, 100000, 800000, 1200000]
+colors = ["lightsalmon","lightcoral", "tomato","red",\
 	  "indianred","firebrick","maroon","dimgray"]
 df, col_dict = util.retrieve_cor_data(bins,colors)
 df = df.sort_values(by='Confirmed',ascending=False)

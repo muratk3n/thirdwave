@@ -145,10 +145,7 @@ DATE
 2020-03-01  1.539327
 ```
 
-
 ## Wages and Unemployment
-
-<a name="unemp"></a>
 
 ```python
 import pandas as pd, datetime
@@ -171,15 +168,15 @@ plt.savefig('nfp.png')
 ```
 
 ```text
-            PAYEMS    nfpyoy
-DATE                        
-2019-09-01  151368  1.352546
-2019-10-01  151553  1.340029
-2019-11-01  151814  1.423675
-2019-12-01  151998  1.423281
-2020-01-01  152212  1.384097
-2020-02-01  152487  1.566590
-2020-03-01  151786  1.000785
+            PAYEMS     nfpyoy
+DATE                         
+2019-10-01  151553   1.340029
+2019-11-01  151814   1.423675
+2019-12-01  151998   1.423281
+2020-01-01  152212   1.384097
+2020-02-01  152442   1.536617
+2020-03-01  151572   0.858386
+2020-04-01  131072 -12.904340
 ```
 
 ![](nfp.png)
@@ -191,34 +188,18 @@ from pandas_datareader import data
 
 start=datetime.datetime(1950, 1, 1)
 end=datetime.datetime(2019, 11, 1)
-cols = ['ECIWAG','CIVPART']
+cols = ['ECIWAG']
 df3 = data.DataReader(cols, 'fred', start, end)
 df3 = df3.dropna()
 df3['ECIWAG2'] = df3.shift(4).ECIWAG
 df3['wagegrowth'] = (df3.ECIWAG-df3.ECIWAG2) / df3.ECIWAG2 * 100.
 df3['unempl'] = 100.0 - df3.CIVPART
-print (df3['wagegrowth'].tail(7))
-plt.figure(figsize=(14, 5))
-plt.subplot(121)
-df3['wagegrowth'].plot(title='Wave Growth')
-plt.subplot(122)
-df3['unempl'].plot(title='Unemployment') 
-plt.savefig('unemploy.png')
+print (df3['wagegrowth'].tail(4))
+df3['wagegrowth'].plot(title='Wage Growth')
+plt.savefig('wages.png')
 ```
 
-```text
-DATE
-2018-04-01    2.945736
-2018-07-01    3.000000
-2018-10-01    3.134557
-2019-01-01    2.954545
-2019-04-01    2.936747
-2019-07-01    2.987304
-2019-10-01    2.965159
-Freq: 3MS, Name: wagegrowth, dtype: float64
-```
-
-![](unemploy.png)
+![](wages.png)
 
 <a name="claims"></a>
 
@@ -250,6 +231,40 @@ DATE
 ```
 
 ![](icsa.png)
+
+<a name="unempl"></a>
+
+## Unemployment (UnEmployment-to-Population Ratio)
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+today = datetime.datetime.now()
+start=datetime.datetime(1980, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['CLF16OV','LFWA64TTUSM647S']
+df = data.DataReader(cols, 'fred', start, end)
+df = df.interpolate()
+df['ratio'] = 100.0 - ((df.CLF16OV*1000.0 / df.LFWA64TTUSM647S) * 100.0)
+print (df.tail(5))
+df.ratio.plot()
+plt.savefig('unemploy.png')
+```
+
+```text
+            CLF16OV    ...          ratio
+DATE                   ...               
+2019-12-01   164556    ...      20.288003
+2020-01-01   164606    ...      20.119110
+2020-02-01   164546    ...      20.156965
+2020-03-01   162913    ...      20.745325
+2020-04-01   156481    ...      23.874394
+
+[5 rows x 3 columns]
+```
+
+
 
 <a name="pmi"></a>
 
@@ -411,18 +426,18 @@ plt.savefig('pay-wage.png')
 
 ```text
 DATE
-2019-11-01    3.521739
 2019-12-01    3.248159
 2020-01-01    3.331891
-2020-02-01    3.363519
-2020-03-01    3.393471
+2020-02-01    3.320397
+2020-03-01    3.436426
+2020-04-01    7.672525
 Freq: MS, Name: wageyoy, dtype: float64
 DATE
-2019-11-01    1.423675
-2019-12-01    1.423281
-2020-01-01    1.384097
-2020-02-01    1.566590
-2020-03-01    1.000785
+2019-12-01     1.423281
+2020-01-01     1.384097
+2020-02-01     1.536617
+2020-03-01     0.858386
+2020-04-01   -12.904340
 Freq: MS, Name: nfpyoy, dtype: float64
 ```
 
