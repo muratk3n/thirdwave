@@ -590,6 +590,7 @@ cols = ['DGS10','DGS3MO']
 df = data.DataReader(cols, 'fred', start, end)
 df['Yield Curve'] = df.DGS10 - df.DGS3MO
 print (df.tail(6))
+plt.plot(df.tail(1).index, df.tail(1)['Yield Curve'],'ro')
 df['Yield Curve'].plot()
 plt.axvspan('01-09-1990', '01-07-1991', color='y', alpha=0.5, lw=0)
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
@@ -600,12 +601,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2020-04-29   0.63    0.10         0.53
 2020-04-30   0.64    0.09         0.55
 2020-05-01   0.64    0.12         0.52
 2020-05-04   0.64    0.13         0.51
 2020-05-05   0.66    0.13         0.53
 2020-05-06   0.72    0.12         0.60
+2020-05-07   0.63    0.11         0.52
 ```
 
 ![](yield-curve.png)
@@ -659,7 +660,7 @@ end=datetime.datetime(today.year, today.month, today.day)
 df = web.DataReader("CL=F", 'yahoo', start, end)
 df = df['Close']
 print (df.tail(5))
-
+plt.plot(df.tail(1).index, df.tail(1),'ro')
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
@@ -672,7 +673,7 @@ Date
 2020-05-05    25.790001
 2020-05-06    23.780001
 2020-05-07    23.590000
-2020-05-08    24.850000
+2020-05-08    24.629999
 Name: Close, dtype: float64
 ```
 
