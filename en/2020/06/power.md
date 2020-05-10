@@ -2,8 +2,8 @@
 
 Power is measured in Watts, energy transferred per unit time (Joule
 per second). We say someone is powerful, indicates transferring energy
-(kick) to someone (the ass) in a short time, say in a second. That's a
-sign of power. Person can kick some ass, has wattage.
+(kick) to someone (the ass) in a short time. Boom, ass-kicked. In unit
+(short) time. 
 
 How long can this person keep kicking ass? His capacity, IOW. How long
 can a battery last? Same idea. This is Wh, Watt-hours. How many watts
