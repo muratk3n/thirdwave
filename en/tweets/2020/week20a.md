@@ -69,7 +69,7 @@ Due to prohibition-freedom culture tug-of-war probably.
 That trip is 4200 km long. It used 9160.8kWh, a Nexo tank being 210
 kWh, that's like 43 tanks.
 
-"Solar / H2 boat Energy Observer's made a trip from St. Petersburg in
+"[Solar / H2 boat Energy Observer] made a trip from St. Petersburg in
 Russia to Spitsbergen in Norway on August 10th. During the 24-day
 jaunt, the boat produced 9,160.8kWh of energy, 52 percent of which
 came from the sun... Of the total power, 59 percent propelled the
