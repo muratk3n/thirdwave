@@ -5,7 +5,7 @@ per second). We say someone is powerful, indicates transferring energy
 (kick) to someone (the ass) in a short time. Boom, ass-kicked. In unit
 (short) time. 
 
-How long can this person keep kicking ass? His capacity, IOW. How long
+How long can this person keep kicking ass? That is capacity. How long
 can a battery last? Same idea. This is Wh, Watt-hours. How many watts
 can be given in one hour.
 
