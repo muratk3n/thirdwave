@@ -143,7 +143,7 @@ That’s why he had let the whole industry know that one time"
 ---
 
 
-Eeeww bur priv sector is the only source of innovation bro...
+Eeeww but priv sector is the only source of innovation bro...
 
 "Frontier’s Bankruptcy Reveals Why Big ISPs Choose to Deny Fiber to So
 Much of America"
