@@ -17,7 +17,7 @@ is reptilian. Fight or flight trumps culture.
 
 ---
 
-So maybe Reps decided the outcome of COVID can be politically
+Maybe Reps decided the outcome of COVID can be politically
 damaging, so it was time to press some buttons to create cultural
 divisions, to change the focus, shift blame. What better way to do
 that then to rekindle some culture codes? If there is cultural
