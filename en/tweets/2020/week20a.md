@@ -199,6 +199,14 @@ Philadelphia"
 
 ---
 
+The letters VW now makes me remember the Van Wilders
+[movie](https://lh3.googleusercontent.com/proxy/B4Rh0ndQeWSg9-Ob6qg1lyFbp5pUU3P1UVWAOnUPT-FszcDIDcEGsVQTm-Hcn2E9XalAtZQHcuw7i2DIrymnu8FMVylmjAOY79xkQx3WzfdQ) I cant help
+it.
+
+*2020-5-9 14:40:1*
+
+---
+
 K.. VW isnt completely gone.
 
 "[T]ruck manufacturer Scania, owned by Volkswagen, has developed a
