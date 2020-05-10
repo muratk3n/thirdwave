@@ -196,8 +196,8 @@ Philadelphia"
 
 ---
 
-Now whenever I see the letters VW now I think of that stupid Ryan
-Reynolds movie [Van Wilders movie](https://lh3.googleusercontent.com/proxy/AIDESFsmICNwnimsaZdG5GG-uWxK7C4d3hr7Gpg29vNSNJkxhUhX2gMX7AgkuqjorEaFwjQZpTZhAjgdRiMiMKC4JynJhCRlE6mtQhQEFyn_tNZIiLvKTqWZs6rBlEztkbSJh7F3idlyuAGr)
+Now whenever I see the letters VW I think of that stupid Ryan
+Reynolds movie [Van Wilders](https://lh3.googleusercontent.com/proxy/AIDESFsmICNwnimsaZdG5GG-uWxK7C4d3hr7Gpg29vNSNJkxhUhX2gMX7AgkuqjorEaFwjQZpTZhAjgdRiMiMKC4JynJhCRlE6mtQhQEFyn_tNZIiLvKTqWZs6rBlEztkbSJh7F3idlyuAGr)
 
 *2020-5-9 14:40:1*
 
