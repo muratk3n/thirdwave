@@ -249,7 +249,7 @@ position"
 😆😆😆 Kung-fu virus. I like this one. I think I am going to use it.
 
 "Resolution being voted on by San Antonio City Council this morning
-labels terms "Chinese Virus" and "Kung Fu Virus" as hate speech"
+labels terms 'Chinese Virus' and 'Kung Fu Virus' as hate speech"
 
 *2020-5-8 21:2:45*
 
