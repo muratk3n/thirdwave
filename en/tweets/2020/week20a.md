@@ -72,11 +72,8 @@ kWh, that's like 43 tanks.
 "Solar / H2 boat Energy Observer's made a trip from St. Petersburg in
 Russia to Spitsbergen in Norway on August 10th. During the 24-day
 jaunt, the boat produced 9,160.8kWh of energy, 52 percent of which
-came from the sun, [wind contributed]  42 percent, around 3,717.82kWh,
-in terms of the aerodynamic aid it offered the boat. And the remaining
-six percent was from hydrogen. Of the total power, 59 percent
-propelled the boat, with the remaining 41 percent going to life
-support"
+came from the sun... Of the total power, 59 percent propelled the
+boat, with the remaining 41 percent going to life support"
 [Link](https://www.engadget.com/2019-10-08-energy-observer-solar-hydrogen-power-boat.html),
 [Link](https://www.yachtcruisecompany.com/wp-content/uploads/2019/09/Northern-Europe-Hidden-Baltic-Scandinavia.jpg)
 
