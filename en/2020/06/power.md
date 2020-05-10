@@ -1,18 +1,18 @@
 # Power
 
 Power is measured in Watts, energy transferred per unit time (Joule
-per second). We say someone is powerful, indicates ass-kicking, and
-that indicates transferring energy (kick) to someone (his ass) in a
-short time, say in a second. That's a sign of power. Person has some
-wattage.
+per second). We say someone is powerful, indicates transferring energy
+(kick) to someone (the ass) in a short time, say in a second. That's a
+sign of power. Person can kick some ass, has wattage.
 
 How long can this person keep kicking ass? His capacity, IOW. How long
 can a battery last? Same idea. This is Wh, Watt-hours. How many watts
 can be given in one hour.
 
 Now the marking on batteries can be weird. Another way to get to Watt
-is Voltage * Ampere. But you will see batteries are usually only
-marked in mAh (mili ampere hour). Where is the volt?
+is Voltage times Ampere (per unit time thing is inside Ampere so it
+works out). But you will see batteries are usually only marked in mAh
+(mili ampere hour). Where is the volt?
 
 https://www.bixpower.com/Battery-Cell-Chemistry-Comparison-s/2392.htm
 
