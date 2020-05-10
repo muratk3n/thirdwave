@@ -199,7 +199,7 @@ Philadelphia"
 
 ---
 
-K.. VW isnt full of complete morons.
+K.. VW isnt completely gone.
 
 "[T]ruck manufacturer Scania, owned by Volkswagen, has developed a
 fuel cell garbage truck with funding help from the EU’s Fuel Cells and
