@@ -26,9 +26,9 @@ time 3.6 (or 3.7), then divided by 1000, it will be its accurate
 Watt-hour capacity. For example, a 10,000mAh battery actual capacity
 is 10000 x 3.6 /1000 = 36 Watt-hour.
 
-I talked about my camping light, Fenix CL20R. It has 1600mAh
-battery. Voltage, not sure. It says it compares with 7 AAA
-batteries. Bats have 1.5 V, in series, 10.5 Volts.
+Ex: my camping light, Fenix CL20R. It has 1600mAh battery. Voltage,
+not sure. It says it compares with 7 AAA batteries. Bats have 1.5 V,
+in series, 10.5 Volts.
 
 How long will my light last? Light level measured in lumens,
 
