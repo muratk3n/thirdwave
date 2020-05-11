@@ -198,7 +198,7 @@ Bullshit job!
 ---
 
 
-F-ing dumbass 
+dumbass 
 
 "@Gizmodo
 
