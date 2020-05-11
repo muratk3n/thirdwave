@@ -151,14 +151,6 @@ Da fuq?
 
 ---
 
-F-ing Venezuella. That motherf..ker is still there? I wouldnt want any
-country to interject but I am not glad Madu is still there stinking up
-the place.
-
-*2020-5-10 19:32:0*
-
----
-
 They even had a guy in jail while some were in the bunker... Perfect
 modern setup. Like Toffler
 [says](https://muratk3n.github.io/thirdwave/en/2011/03/fundamentals-of-industrial-ideologies_15.html)
