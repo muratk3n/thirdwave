@@ -214,17 +214,7 @@ plt.savefig('mod2.png')
 
 ![](mod2.png)
 
-### Model 3
 
-$$
-k(t) = \left\\{ \begin{array}{l}
-0.05 t \quad 0 \le t < 20,  \\\\
-2 -0.05t \quad  20 \le t < 40 \\\\
-r0 \quad 40 \le t 	
-\end{array} \right.
-$$
-
-TBC
 
 References
 
