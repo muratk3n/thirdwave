@@ -176,9 +176,9 @@ d(t) = -(z(t) + k(t)) - \gamma D(t)
 $$
 
 where $D(t)$ contains an integral that computes all debt until time
-$t$ of which a $\gamma$ portion is paid out. We need $\dot{d}(t)$ and
-can assume all debt until $t$ is $d(t)$, then a decaying formulation
-on that is easy. Together with $z(t)$ and $k(t) = 0$, it becomes,
+$t$ of which a portion $\gamma$ is paid off. We can assume all debt
+until $t$ is $d(t)$, then a decaying formulation for $\dot{d}$ is
+easy. Together with $z(t)$ and $k(t) = 0$, it becomes,
 
 $$
 \dot{d} = -\dot{z}-\gamma d(t)
@@ -214,6 +214,17 @@ plt.savefig('mod2.png')
 
 ![](mod2.png)
 
+### Model 3
+
+$$
+k(t) = \left\\{ \begin{array}{l}
+0.05 t \quad 0 \le t < 20,  \\\\
+2 -0.05t \quad  20 \le t < 40 \\\\
+r0 \quad 40 \le t 	
+\end{array} \right.
+$$
+
+TBC
 
 References
 
