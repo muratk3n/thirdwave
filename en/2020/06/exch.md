@@ -44,7 +44,7 @@ international payment flows, $c(t)$, are driven by the sum of a
 country's current account and its financial balance
 
 $$
-c(t) = -z(t) - k(t) - d(t)
+c(t) = -z(t) - k(t) - d(t) \qquad (9)
 $$
 
 However, when a country wants to stabilize its exchange rate, it needs
@@ -65,7 +65,7 @@ $$
 \xi = 0.1, \phi_1 = 0.03, \phi_2 = 0.06, \phi_3 = 0.1, \gamma = 0.05
 $$
 
-Model 1
+### Model 1
 
 Use (5) and (6a). 
 
@@ -152,8 +152,40 @@ plt.savefig('neer-de.png')
 ![](neer-de.png)
 
 
-Model 2
+### Model 2
 
+What happens when part of the current account transactions are
+financed by debt? Then (9) becomes (with $k(t)$ still zero),
+
+$$
+c(t) = -z(t) - d(t) 
+$$
+
+So (5) is expanded to
+
+$$
+\dot{q} \approx -\xi c(t) = -\xi (z(t) + d(t))
+$$
+
+The question is what to do with debt, $d(t)$, or how to model it
+within ODE system as $\dot{d}(t)$. The $d(t)$ formulation in [1] is
+somewhat cumbersome, put forth for analytic solution which we do not need,
+
+$$
+d(t) = -(z(t) + k(t)) - \gamma D(t)
+$$
+
+where $D(t)$ contains an integral that computes all debt until time
+$t$ of which a $\gamma$ portion is paid out. We need $\dot{d}(t)$ and
+can assume all debt until $t$ is $d(t)$, then a decaying formulation
+on that is easy. Together with $z(t)$ and $k(t) = 0$, it becomes,
+
+$$
+\dot{d} = -\dot{z}-\gamma d(t)
+$$
+
+Using this formulation, and with somewhat different constants, the
+integration looks like,
 
 ```python
 from scipy.integrate import odeint
@@ -181,7 +213,6 @@ plt.savefig('mod2.png')
 ```
 
 ![](mod2.png)
-
 
 
 References
