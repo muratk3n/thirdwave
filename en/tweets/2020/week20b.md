@@ -10,10 +10,10 @@ Tweets - Week 20b
 that scary. Liberal scaremongering?
 
 "The New Trump App Is a Death Star of Fake News—and It Reaches More
-People Than Daytime Cable News
+People Than Daytime Cable News.
 
 President Trump’s campaign manager has called what he’s built a
-“juggernaut” and is likening his digital infrastructure to a Death
+'juggernaut' and is likening his digital infrastructure to a Death
 Star. In reality, what he's built is a trap.
 
 And users are encouraged by a points system to share all of this
