@@ -28,7 +28,7 @@ and acknowledgement. It’s Candy Crush, but for politics"
 
 ---
 
-Twitter trends part of psyop? Something fishy going on here... 
+Little psyop on twitter trends? Something fishy going on here...
 
 *2020-5-11 12:34:56*
 
