@@ -159,8 +159,9 @@ the place.
 
 ---
 
-They even had a guy in jail during the bunker shows... Perfect modern
-setup. Like Toffler [says](https://muratk3n.github.io/thirdwave/en/2011/03/fundamentals-of-industrial-ideologies_15.html)
+They even had a guy in jail while some were in the bunker... Perfect
+modern setup. Like Toffler
+[says](https://muratk3n.github.io/thirdwave/en/2011/03/fundamentals-of-industrial-ideologies_15.html)
 
 >Nor was it only energy and work that were concentrated. Writing in the
 >British social science journal New Society, Stan Cohen has pointed out
