@@ -181,7 +181,7 @@ setup. Like Toffler [says](https://muratk3n.github.io/thirdwave/en/2011/03/funda
 
 ---
 
-The shot *Lost* was abt hunter-gatherer life, the island is our "early
+The show *Lost* was abt hunter-gatherer life, the island is our "early
 ideal". When the main characters left the island to go back to their
 previous lives, outside, temporaril later in the series, they were
 miserable.
