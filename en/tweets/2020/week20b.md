@@ -52,7 +52,7 @@ laboratory-designed chemical pathway to turn CO₂ into sugar"
 
 ---
 
-Most of what is pure info based can be commodotized. Forget this wanky
+Most of what is pure info based can be commodatized. Forget this wanky
 stuff. Do more basic science, math, and build stuff.
 
 *2020-5-11 9:8:7*
