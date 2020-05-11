@@ -126,12 +126,12 @@ confirmed coronavirus deaths"
 
 ---
 
-@davidsirota
+"@davidsirota
 
 Gotta say this about Resistance Libs on Twitter: they are committed to
 just tweeting & sneering at Medicare for All & progressives even as
 thousands die in a pandemic. I thought they might change — but their
-commitment to partisan nihilism is astonishingly unwavering.
+commitment to partisan nihilism is astonishingly unwavering"
 
 *2020-5-10 19:46:21*
 
