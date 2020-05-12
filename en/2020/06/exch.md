@@ -257,7 +257,7 @@ Derivative over $t$,
 $$
 \dot{k}(t) = \left\{ \begin{array}{l}
 0.05  \quad 0 \le t < 20,  \\
--0.05 \quad  20 \le t < 40 \
+-0.05 \quad  20 \le t < 40 \\
 0 \quad 40 \le t 	
 \end{array} \right.
 $$
