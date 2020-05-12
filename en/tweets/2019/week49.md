@@ -743,55 +743,6 @@ getting ahead of themselves"
 
 ---
 
-"Civilization may be the greatest bait-and-switch that ever was. It
-convinces us to destroy what is free so an overpriced, inferior copy
-can be sold to us later—often financed with the money we’ve earned
-hastening the destruction of the free version. Contaminate streams,
-rivers, lakes, and aquifers with industrial waste, pesticide runoff,
-and fracking chemicals, and then sell us “pure spring water” (often
-just tap water) in plastic bottles that break down into microplastics
-that find their way to oceans, whales’ stomachs, and our own
-bloodstreams. Work hard now so you can afford to relax later...
-
-The voices of civilization fill us with manufactured yearnings and
-then sell us prepackaged dollops of transitory satisfaction that
-evaporate on the tongue.  Some throw up their hands and blame it all
-on human nature. But that’s a mistake. It’s not human nature that
-makes us engage in this blind destruction of our world and
-ourselves. For hundreds of ​thousands of years, human beings thrived on
-this planet without doing it in. No, this is not the nature of our
-species—it is the nature of civilization, an emergent social structure
-in which our species is presently trapped"
-
-\#civilizedToDeath
-
-*2019-11-30 11:49:16*
-
----
-
-"[Some say i]f war is an ​expression of something embedded so deeply in
-us that it goes back millions of years to before our ancestors
-diverged from the line leading to chimps (who sometimes engage in
-lethal group aggression), then war must be innate to our species.  But
-there are serious problems here. First, it’s subtly, if deeply,
-misleading to describe chimps as 'our closest primate cousin' without
-mentioning bonobos—our other, equally intimately related primate
-cousin. ...
-
-But the biggest inconvenience occasioned by bonobos may be the utter
-absence of lethal aggression among them. No war. No murder. No raping
-or pillaging. No infanticide. No support, in other words, for the
-primate origins of human war. ...
-
-Chimps and bonobos both descended from the same common ancestor that
-split from our line, so if one is our 'cousin,' both are"
-
-\#civilizedToDeath
-
-*2019-11-30 10:55:3*
-
----
-
 Chimpanzee is not our ancestor. We did not descend from chimps, we
 descended from something already looking like human, chimps evolved
 from that as well.
@@ -884,23 +835,6 @@ pay their fair share"
 
 ---
 
-"Almost a century ago, Russell recognized that most of the hours human
-beings spend working are a total waste of time, noting that “only a
-foolish asceticism, usually vicarious, makes us continue to insist on
-work in excessive quantities now that the need no longer exists.” He
-ties the problem to the facts that “the idea that the poor should have
-leisure has always been shocking to the rich” and that the industrial
-labor mobilized for World War I was never demobilized. Of course, a
-decade after his essay was published, another mobilization was under
-way, on a much larger scale, ultimately congealing into what President
-Eisenhower called 'the military-industrial complex.'"
-
-\#civilizedToDeath
-
-*2019-11-29 14:30:4*
-
----
-
 Different..? Let's see 🙄 .. Limited number of people with British
 origin on a huge landmass.
 
@@ -971,43 +905,6 @@ according to trade deficits?"
 
 ---
 
-"Richard Dawkins is one of the most famous scientists alive ... In
-*River Out of Eden*, Dawkins describes animal life as an operatic
-ordeal of starvation, misery, and pitiless indifference. 'The total
-amount of suffering per year in the natural world is beyond all decent
-contemplation,' he writes with trembling hand. 'During the minute that
-it takes me to compose this sentence, thousands of animals are being
-eaten alive, many others are running for their lives, whimpering with
-fear, others are slowly being devoured from within by rasping
-parasites, thousands of all kinds are dying of starvation, thirst, and
-disease' ...
-
-We’ve all witnessed such scenes many times on TV, and it’s hard to
-argue against the cruelty of nature when you’re watching the flapping
-tail of a seal disappear down the throat of a sea monster, or an
-antelope twitching in the grip of a cold-eyed lioness. 'Thank God I’m
-safe,' we think, 'sitting here on my sofa, with my Cheez Doodles and
-Big Gulp.' ...
-
-But I’ve had occasion to hang around some seals in my time, and they
-never struck me as particularly anxious animals. Every seal I’ve
-encountered was either snoozing on a warm rock or frolicking in the
-water with other seals. They looked happy, fit, and relaxed to
-me. Skeptical that a seal’s lot in nature could be as bad as that
-slow-motion terror porn implied, I ran some numbers. It turns out that
-harbor seals live about thirty years. The gory death on that nature
-special took a few seconds in real time. So the ratio ​breaks down to
-roughly thirty years of hanging out with friends, eating fresh fish,
-and soaking up the sun followed by a sudden, unanticipated, nearly
-painless demise. Even if that particular seal died in her prime—at
-fifteen or twenty years of age—the ratio of pleasure to pain in her
-life was better than what most of us can expect"
-
-\#civilizedToDeath
-
-*2019-11-28 22:4:29*
-
----
 
 H2 comes from Brunei’s hydrogenation plant which converts LNG into
 H2.
