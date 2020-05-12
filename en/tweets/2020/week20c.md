@@ -39,7 +39,7 @@ Bernie Sanders, WaPo
 Haha. Found a doc "Development of Virtual Blade Model for Modelling
 Helicopter Rotor in OpenFOAM", it says "Unclassified" at the top.
 
-Well thx ppl at Oz gov, this doc can be helpful.
+Well thx ppl at Oz gov. The info can be helpful.
 
 *2020-5-12 13:9:2*
 
