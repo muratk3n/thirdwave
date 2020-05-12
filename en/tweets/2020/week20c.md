@@ -145,15 +145,11 @@ amid oil dispute"
 
 ---
 
-[Video](https://youtu.be/KERlriXscN4?t=245)
-
-*2020-05-11 21:17:57*
-
----
-
 The equiv hardware with bitch batteries weigh at least 3 times as
 much, and I see warnings like "can only be charged 3000 times"
-etc. This tech is obscenely inferior. 
+etc. This tech is obscenely inferior.
+
+[Video](https://youtu.be/KERlriXscN4?t=245)
 
 *2020-05-11 21:14:49*
 
