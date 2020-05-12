@@ -205,16 +205,16 @@ Lößnig"
 
 ---
 
-@tixhonjm
+"@tixhonjm
 
-Rotterdam Boosts Hydrogen Economy with New Infrastructure
+Rotterdam Boosts Hydrogen Economy with New Infrastructure"
 
 *2020-5-11 19:16:55*
 
 ---
 
-So true. Hal Finney, "Satoshi" wasn't all that great. Make way for the
-new generation \#NANO
+So true. Hal Finney, "Satoshi" wasn't all that great... Make way for
+the new generation \#NANO
 
 *2020-5-11 19:14:5*
 
