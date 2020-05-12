@@ -266,15 +266,16 @@ power plant in Germany is being built in Mecklenburg-Vorpommern'
 
 Globalization, outsourcing when it started, was a major boon for big
 corporations. Specifically for them bcz they had the structure to work
-those wheels. So glob would give them an advantage against SMB, then
-one could predict in the heydays of glob that once outsourcing started
-to help SMB, it would seize to exist...
+that mechanisms... Then, glob gave them an advantage, say against SMB
+who would not be that adapt to use it due to their size.
 
-few years ago I started hearing Chinese factories taking orders from
-such companies, "send a CAD model we'll produce X number of
--whatever-". Well now that's no advantage now for the corps is it?
+Then one could see in the heydays of glob that once outsourcing
+started to help SMB, it would seize to exist... And, few years ago I
+started hearing Chinese factories taking orders from such companies,
+"send a CAD model we'll produce X number of -whatever-". Well now
+that's no advantage now for the corps is it?
 
-And guess what, glob as we know it is ending.
+Then guess what, glob as we know is coming to an end.
 
 *2020-5-11 13:18:6*
 
