@@ -84,7 +84,7 @@ regenerated"
 
 ---
 
-Exch. rates, with autonomous capital flows
+Exch. rate dyn, with autonomous capital flows
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
 
