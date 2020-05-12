@@ -70,13 +70,3 @@ only wrong because of what we know today. It's a perfectly good
 theory.  It's just the ugly facts that we've discovered, but you know,
 that's the way science proceeds, its disproving what you used to think
 was correct.
-
-
-
-
-
-
-
-
-
-

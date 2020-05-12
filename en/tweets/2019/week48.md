@@ -25,36 +25,6 @@ elites who used monotheistic religion to lock in their power"
 
 ---
 
-"Modern dentistry? We’ll see that the cavities and gum diseases so
-many of us suffer from didn’t arise until the advent of grain-based
-diets of civilization and monoculture. Scientists analyzing remains
-from modern-day Sudan found that less than 1 percent of the
-hunter-gatherers living in the area suffered from tooth decay. Once
-they adopted agriculture, the rate shot up to around 20 percent.
-
-Most of the dangers civilization claims to protect us from are, in
-fact, created or amplified by civilization itself. Pointing to
-antibiotics and bypass surgery in this context amount to extolling the
-virtues of seat belts and air bags without mentioning that our ancient
-ancestors were in no danger of auto collisions. If you’ve set my house
-on fire, don’t expect me to be grateful when you show up later with a
-bucket of water.
-
-​If it’s making us unhealthy, unhappy, overworked, humiliated, and
-frightened, what’s all this progress really worth? We know more or
-less what it costs: nearly everything. We can tabulate the forests
-destroyed, topsoil eroded, fisheries depleted, aquifers fouled, the
-atmosphere pumped full of carbon, the cancers, the stress, the
-desperate refugees, and more. People used to talk about leaving a
-better world for their children. Now we just hope they’ll somehow
-survive the mess"
-
-\#civilizedToDeath
-
-*2019-11-27 22:7:42*
-
----
-
 @Discovery
 
 Crossing Antarctica alone was only the beginning.
@@ -400,89 +370,6 @@ the Bolsonaro government..
 
 ---
 
-"Before I started studying evolution, I was under the impression that
-ancient Greece was a long time ago. It’s 'ancient' after all. But
-ancient Greece was only about three thousand years ago. Rome, two
-thousand. The very earliest signs of agriculture and fixed human
-settlements appeared roughly ten thousand years ago. These are all
-very recent developments"
-
-\#civilizedToDeath
-
-*2019-11-25 21:45:29*
-
----
-
-"Here’s the story we’ve all been told about who we are and where we
-came from:
-
->We are descended from prehistoric ancestors whose lives were a
-constant struggle against starvation, disease, predators, and each
-other. Only the strongest, cleverest, most anxious, and most ruthless
-survived to pass their genes into the future—and even these lucky ones
-lived only to the age of thirty-five or so. Then, about ten thousand
-years ago, some forgotten genius invented agriculture, and thus
-delivered our species from animal desperation into civilized
-abundance, leisure, sophistication, and plenitude. Despite occasional
-setbacks, things have been getting better ever since.
-
-In 1651, Thomas Hobbes described human life before the advent of the
-state as “solitary, poor, nasty, brutish, and short.” Three and a half
-centuries later, it remains one of the most famous phrases in the
-English language, and this Hobbesian vision of our precivilized past
-persists as the central premise of the story of civilization. This
-Narrative of Perpetual Progress (NPP) claims to explain the
-superiority of civilization while taking it as a given. Inasmuch as
-faith in “progress” is just another way of saying today is ipso facto
-better than yesterday, the notion of progress is to be taken on faith,
-and cannot be questioned without inviting the wrath of the true
-believers. But the NPP poisons our minds, bodies, and relationships as
-assuredly as it does the air, water, and soil. It justified millennia
-of slavery and centuries of colonialism. ​It generates deep distrust of
-ourselves and each other, shame and disgust toward our animal bodies,
-and irrational fear and hostility toward the natural world we are told
-is out to get us. It insists that we should be grateful for all this
-progress we’ve made because, by definition, the here and now is the
-best time ever to be alive.
-
-The clear implication is that any discontent or despair you may be
-experiencing must be due to some fault of your own—certainly not to
-the civilization you were born into. You aren’t working hard enough,
-consuming the right products, taking the right supplements, following
-the right exercise regimen, driving the right car, or drinking enough
-water"
-
-\#civilizedToDeath
-
-*2019-11-25 21:33:8*
-
----
-
-"The widespread belief that noncivilized human life was and is a
-desperate struggle for survival resonates with the haughty dismissal
-of uncivilized 'savages' common to previous centuries. But beyond its
-inaccuracy and racist undertones, this view has disastrous
-consequences in the present. Life-and-death medical decisions are
-misinformed by false assumptions about the capacities of the human
-body, relationships fall short of unrealistic expectations, legal
-systems based on inaccurate notions of human nature generate the very
-suffering they’re meant to avert, educational institutions smother the
-innate curiosity of students, and so on. Indeed, nearly every aspect
-of our lives (and our deaths) is distorted by a misinformed sense of
-what kind of animal *Homo sapiens* really is.  Dr. Jonas Salk, famous
-for having invented the polio vaccine, put it memorably: 'It is
-necessary now not only to know thyself, but also to know thy species
-and to understand the wisdom of nature, and especially living nature,
-if we are to understand and help man develop his own wisdom in a way
-that will lead to life of such quality as to make living a desirable
-and fulfilling experience.'"
-
-\#civilizedToDeath
-
-*2019-11-25 21:21:25*
-
----
-
 Corbyn talking smack to Bezos. Gold.
 
 [Link](https://twitter.com/jeremycorbyn/status/1198725492792270856)
@@ -565,18 +452,6 @@ unknowingly hit a nerve. Current env is some 1984 level shit
 \#civilizedToDeath
 
 *2019-11-25 10:16:28*
-
----
-
-"Life before hunter-gatherers was solitary, poor, nasty, brutish, and
-short. It turns out none of those things are true. Hunter-gatherers
-worked 20 hours a week ... in some very harsh environment [even]
-.. and what anthropologists call 'work' in these studies are things we
-do in vacation - like hunting, fishing, picknicking.. "
-
-\#civilizedToDeath
-
-*2019-11-25 9:50:13*
 
 ---
 
