@@ -186,7 +186,7 @@ US always has to insert that commercg shit in there somewhere.
 Goldcucks think with their precious gold, there is no centralized
 printing. Wrong. The reason gold came into being as money was
 precisely because it could be printed!  By the king! Gold became what
-it is because it could be dug (printed) only someone with huge
+it is because it could be dug (printed) only someone with lots of
 resources who could employ people at mines, to unearth this rare
 looking metal that was hard to fake that made it a perfect currency --
 for a while.
