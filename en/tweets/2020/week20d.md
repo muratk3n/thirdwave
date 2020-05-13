@@ -199,9 +199,9 @@ never form the basis of a currency, let alone a world currency.
 
 ---
 
-I maintain that any digital currency needs to expand its monetary
-base, ideally printint the money into everyone's account, weekly or
-monthly, as a form of digital basic income. It will generate little
+I maintain that any digital currency continually needs to expand its
+monetary base, ideally print the money into everyone's account, weekly
+or monthly, as a form of digital basic income. It will generate little
 inflation, reduce the incentive to store / stash etc. and devalue curr
 shifting some wealth from rich to poor. The excess doesn't even need
 to be inflationary, new, inventive ways of lending can be formed, the
