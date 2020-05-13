@@ -163,8 +163,8 @@ prepared for launch in 2022"
 
 ---
 
-Unix and Adversarial Interoperability: The ‘One Weird Antitrust Trick’
-That Defined Computing
+"Unix and Adversarial Interoperability: The ‘One Weird Antitrust Trick’
+That Defined Computing"
 
 [Link](https://www.eff.org/deeplinks/2020/05/unix-and-adversarial-interoperability-one-weird-antitrust-trick-defined-computing)
 
@@ -193,9 +193,9 @@ for a while.
 
 There is always printing. With no printing, there is deflation. Now
 that we figured out printing other currencies and back it with
-governments, and/or trust networks, gold and similar items today
-become side-shows, commodities but can never form the basis of a
-currency, let alone a world currency.
+governments and/or trust networks, gold and similar items today become
+side-shows, commodities but can never form the basis of a currency,
+let alone a world currency.
 
 *2020-5-12 16:33:1*
 
