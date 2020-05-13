@@ -175,7 +175,7 @@ That Defined Computing
 
 Interesting.
 
-US always has to insert that commercg shit in there somewhere.
+US always has to insert that commerc shit in there somewhere.
 
 [Link](https://youtu.be/HaraFkhonFo?t=248)
 
