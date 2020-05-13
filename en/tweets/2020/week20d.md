@@ -191,8 +191,8 @@ resources who could employ people at mines, to unearth this rare
 looking metal that was hard to fake that made it a perfect currency --
 for a while.
 
-There is always printing. With no printing, there is deflation. Now
-that we figured out printing other currencies and back it with
+There is always printing. With no printing, there is deflation. But
+now that we figured out printing other currencies and back it with
 governments and/or trust networks, gold and similar items today become
 side-shows, commodities but can never form the basis of a currency,
 let alone a world currency.
