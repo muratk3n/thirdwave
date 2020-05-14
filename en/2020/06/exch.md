@@ -245,17 +245,17 @@ In the simulated model $k(t)$ can be defined through an auxilary
 function, with its derivative,
 
 $$
-k(t) = \left\\{ \begin{array}{l}
-0.05 t \quad 0 \le t < 20,  \\\\
-2 -0.05t \quad  20 \le t < 40 \\\\
+k(t) = \left\{ \begin{array}{l}
+0.05 t \quad 0 \le t < 20,  \\
+2 -0.05t \quad  20 \le t < 40 \\
 0 \quad 40 \le t 	
 \end{array} \right.,
 $$
 
 $$
-\dot{k}(t) = \left\\{ \begin{array}{l}
-0.05  \quad 0 \le t < 20,  \\\\
--0.05 \quad  20 \le t < 40 \\\\
+\dot{k}(t) = \left\{ \begin{array}{l}
+0.05  \quad 0 \le t < 20,  \\
+-0.05 \quad  20 \le t < 40 \\
 0 \quad 40 \le t 	
 \end{array} \right.
 $$
