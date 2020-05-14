@@ -88,7 +88,7 @@ existing sound. Is it that simple?
 
 ---
 
-How very curious Emperor penguins in Antarctica took an unintentional selfie
+Emperor penguins in Antarctica took an unintentional selfie
 
 [Link](https://twitter.com/Rainmaker1973/status/1260571364601233415)
 
