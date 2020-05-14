@@ -82,7 +82,7 @@ A scifi stock photo apparently, not a movie, or a book.
 ---
 
 Noise cancelling; take the sound wave, invert it and play on top of
-existing sound. Is it that simple? Could be.
+existing sound. Is it that simple? 
 
 *2020-05-14 01:15:05*
 
