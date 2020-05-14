@@ -174,8 +174,8 @@ Commercial Steel Production for the First Time w H2
 ---
 
 Dude talent sources in econ must be bone dry. This is the second time
-I asked a simple ques to a prof and dude's like wanna do research wtih
-on any future topic? WTF?
+I asked a simple ques to a prof and dude's like wanna do research wit on
+any future topic? WTF?
 
 *2020-5-13 21:17:47*
 
