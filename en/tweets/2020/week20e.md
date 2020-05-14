@@ -16,7 +16,7 @@ in public without a face covering"
 
 ---
 
-That's not why. If you are *really* looking for something, you need to
+That's not why. If you are really looking for something, you need to
 look for an inherent trait that goes way back. What is a major diff
 between man and woman historically?  Having to carry and care a
 child. That's it; caring for offspring would drastically reorient
