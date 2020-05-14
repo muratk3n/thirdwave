@@ -336,47 +336,41 @@ import pandas as pd
 from scipy.integrate import odeint
 import pandas as pd
 
-def efun(t):
-    if t >= 0 and t<20.0: return 0.05*t
-    if t >= 20.0 and t<40.0: return 2.0-0.05*t
-    else: return 0
-
-def defun(t):
-    if t >= 0 and t<20.0: return 0.05 
-    if t >= 20.0 and t<40.0: return -0.05
-    else: return 0
-
 def drfun(rr,t):
     if t <= 40: return rr
     elif t > 40 and t<50: return -0.07
     else: return 0
 
-a=0.1; b=0.03;eta1=0.01;eta2=0.22
-g=0.05;h=2.0;kk=0;omega=3.142;phi1=0.03;phi2=0.06;phi3=0.1
-psi1=0.05;psi2=0.05
-idx = 50
+#a=0.1; b=0.03;eta1=0.01;eta2=0.22
+#g=0.05;h=2.0;kk=0;omega=3.142;phi1=0.03;phi2=0.06;phi3=0.1
+#psi1=0.05;psi2=0.05
+
+phi1 = 0.03
+phi2 = 0.06
+phi3 = 0.1
+gamma = 0.1
+xi = 0.05
+
 ts = np.linspace(0, 140, 200)
-#print (ts[idx])
 
 def dmod4(y, t):
-    z, x, d, e, r = y
-    c = -z - d - e - r
-    xdot = -0.01*c
-    zdot = -b*z - b*h*x - phi3*e
-    edot = defun(t) 
-    ddot = -zdot-edot-0.1*d
-    rdot = drfun(-zdot -ddot - edot, t)
-    return [zdot, xdot, ddot, edot, rdot ]
+    z, q, d, k, r = y
+    c = -z - d - k - r
+    qdot = -0.01*c
+    zdot = -phi1*z - phi2*q - phi3*k
+    kdot = dk(t) 
+    ddot = -zdot-kdot-gamma*d
+    rdot = drfun(-zdot -ddot - kdot, t)
+    return [zdot, qdot, ddot, kdot, rdot ]
 
 y0 = [0.0, 0.0, 0, 0.0, 0.0]
 sol = odeint(dmod4, y0, ts)
 df = pd.DataFrame( sol )
-df.columns = ['z','x','d','e','r']
+df.columns = ['z','q','d','k','r']
 df['t'] = ts
 df = df.set_index('t')
-df[['z','x','e','r']].plot(grid=True)
+df[['z','q','k','r']].plot(grid=True)
 plt.savefig('mod4.png')
-df.r.cumsum().to_csv('/tmp/out.csv')
 ```
 
 ![](mod4.png)
