@@ -66,7 +66,7 @@ for your money, etc"
 
 ---
 
-I like the picture (from [this](https://theconversation.com/science-fiction-builds-mental-resiliency-in-young-readers-135513) article).
+Cool pic (from [here](https://theconversation.com/science-fiction-builds-mental-resiliency-in-young-readers-135513) article).
 A scifi stock photo apparently, not a movie, or a book.
 
 <img width="340" src="https://images.theconversation.com/files/333753/original/file-20200508-49556-2riaio.jpg?ixlib=rb-1.1.0&rect=0%2C14%2C3190%2C1782&q=45&auto=format&w=926&fit=clip"/>
