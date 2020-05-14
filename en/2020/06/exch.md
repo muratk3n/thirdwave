@@ -18,7 +18,7 @@ $c(t)$: International payment flows
 International cash is a central determinant of the exchange rate.
 
 $$
-\dot{q} \approx -\xi c(t), \qquad (5)
+\dot{q} \approx -\xi c(t) \qquad (5)
 $$
 
 We assume that the real exchange rate is the major driving force
