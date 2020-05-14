@@ -19,10 +19,10 @@ in public without a face covering"
 That's not why. If you are really looking for something, you need to
 look for an inherent trait that goes way back. What is a major diff
 between man and woman historically?  Having to carry and care for a
-child. That's it; caring for offspring would drastically reorient
-risk/reward calculus, safety of the child would be paramount. If there
-is anything inherently better with women around COVID crisis fighting,
-it has to be this.
+child. That would be it; caring for offspring would drastically
+reorient risk/reward calculus, safety of the child would be
+paramount. If there is anything inherently better with women around
+COVID crisis fighting, it has to be this.
 
 If you are *really* looking for something. 
 
