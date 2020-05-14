@@ -24,7 +24,7 @@ reorient risk/reward calculus, safety of the child would be
 paramount. If there is anything inherently better with women around
 COVID crisis fighting, it has to be this.
 
-If you are *really* looking for something. 
+If you are *really* looking for a reason to qualify this (true) leadership success. 
 
 "@ProSyn
 
