@@ -17,6 +17,8 @@ agriculturalists faced drastic increases in social inequality, much
 more violence in the form of organized conflict, and self-appointed
 elites who used monotheistic religion to lock in their power. ..
 
+<a name="teeth"/>
+
 Modern dentistry? We’ll see that the cavities and gum diseases so many
 of us suffer from didn’t arise until the advent of grain-based diets
 of civilization and monoculture. Scientists analyzing remains from
@@ -185,7 +187,7 @@ makes us engage in this blind destruction of our world and
 ourselves. For hundreds of ​thousands of years, human beings thrived on
 this planet without doing it in. No, this is not the nature of our
 species—it is the nature of civilization, an emergent social structure
-in which our species is presently trapped. ...\
+in which our species is presently trapped. ...
 
 [Some say i]f war is an ​expression of something embedded so deeply in
 us that it goes back millions of years to before our ancestors
