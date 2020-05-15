@@ -134,7 +134,7 @@ checked for that week, untrue.
 
 Yes, but your tone is in arrears, jerkoff. This talk needs to come
 from a place of caution, not "they said don't dance, but I want to
-dance!" ala Kevin Bacon in *Footlose*.
+dance!" ala Kevin Bacon in *Footloose*.
 
 "But many others say, we need to return to normal, reopen"
 
