@@ -110,7 +110,7 @@ Facebook's head of AI says Elon Musk 'has no idea what he is talking about'"
 
 ---
 
-A-A! Let's not get mad. I know [Italian karate](https://youtu.be/n-ENUWAxzc0). I am warning you.
+A-A! Let's not get mad. I know [Italian karate](https://youtu.be/n-ENUWAxzc0). Watch out
 
 ---
 
