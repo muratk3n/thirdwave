@@ -108,8 +108,8 @@ if we are to understand and help man develop his own wisdom in a way
 that will lead to life of such quality as to make living a desirable
 and fulfilling experience.' ...
 
-"Life before hunter-gatherers was solitary, poor, nasty, brutish, and
-short. It turns out none of those things are true. Hunter-gatherers
+'Life before hunter-gatherers was solitary, poor, nasty, brutish, and
+short'. It turns out none of those things are true. Hunter-gatherers
 worked 20 hours a week ... in some very harsh environment [even]
 .. and what anthropologists call 'work' in these studies are things we
 do in vacation - like hunting, fishing, picknicking.. " ...
@@ -217,7 +217,7 @@ decade after his essay was published, another mobilization was under
 way, on a much larger scale, ultimately congealing into what President
 Eisenhower called 'the military-industrial complex.' ...
 
-"Richard Dawkins is one of the most famous scientists alive ... In
+Richard Dawkins is one of the most famous scientists alive ... In
 *River Out of Eden*, Dawkins describes animal life as an operatic
 ordeal of starvation, misery, and pitiless indifference. 'The total
 amount of suffering per year in the natural world is beyond all decent
