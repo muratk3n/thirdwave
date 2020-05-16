@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def retrieve_cor_data(bins,colors):
     df = pd.read_csv('corona.csv',sep=r'\t',header=None)
-    df1 = df[[0,1,3,5]]
+    df1 = df[[1,2,4,6]]
     df1.columns = ['Country','Confirmed','Deaths','Recovered']
     df1['Country'] = df1['Country'].str.replace("S. Korea","South Korea")
     df1['Country'] = df1['Country'].str.replace("USA","United States")
