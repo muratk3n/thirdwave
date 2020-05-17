@@ -25,8 +25,9 @@ Python interface"
 
 ---
 
-Hmm CFD could be overkill. All I need is some molecules
-jigglin.. LAMMPS?
+CFD could be overkill.. All I need is some molecules jigglin..
+
+LAMMPS?
 
 *2020-5-17 9:53:57*
 
