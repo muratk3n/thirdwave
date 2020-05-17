@@ -41,7 +41,7 @@ Forbes: "Strange Bedfellows? Maybe Not…"
 ---
 
 
-Haha.. "Craig Wright says I wrote Harry Potter". 
+"Craig Wright says I wrote Harry Potter". Haha
 
 [Link](https://mobile.twitter.com/MartinAudley/status/1261803670657740803)
 
