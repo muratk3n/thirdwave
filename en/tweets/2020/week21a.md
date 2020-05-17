@@ -242,7 +242,7 @@ Coronavirus Wasn’t That Deadly"
 
 ---
 
-Putin Puppets
+PUTIN PUPPETS
 
 "U.S. Syria Representative [Jeffreys] Says His Job Is to Make the War a
 'Quagmire' for Russia"
