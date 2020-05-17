@@ -258,7 +258,7 @@ Anson Mount, great actor.
 Showrunners, producers, writers; don't botch this one up. Don't make
 it cuck. Don't make it too woke. *Battlestar Galactica*, or *Lost*
 level would be just fine, and these shows were progressive
-already. Please keep the Orange Hitler alagories to yourself. Don't
+already. Please keep the Orange Hitler allegories to yourself. Don't
 get mad at us for saying these things, we are not your
 competition. Your competition is *The Orville*, the Trek TNG show with
 fart jokes. They are kicking your ass, dragging it across the room and
