@@ -637,26 +637,6 @@ system. Petrodollar, dollar dom should end, we need bancor, where each
 country has its own monetary policy, trade deficits are balanced
 through bancor.
 
-Tooze, Crashed
-
-"Over the summer of 2015 the Fed prevaricated, but at the September
-FOMC meeting the question could no longer be dodged. The majority of
-analysts expected the Fed to move rates up a notch. But then came the
-shock devaluation of the yuan and the second slide in the Shanghai
-Stock Exchange.  Whatever the limitations on the Fed’s mandates,
-markets were global. They could not ignore the threat from China. On
-August 24 America’s Dow Jones lost 1,000 points and the Fed pulled
-back. The normalization of US monetary policy was put on hold and
-Janet Yellen made no secret of the board’s reasoning. Instability in
-China was the key. In the press conference on September 18, 2015, as
-she explained the FOMC’s decision, journalists counted Yellen making
-six references to China and ten to “global” factors. Unlike in 2013,
-when it had been India and Turkey under pressure, the risk of
-spillback from China to the United States was too important to be
-ignored. Indeed, the effect of Chinese deflation on the world economy
-was so powerful that there was no need for the Fed to pile on with its
-own interest rate increase."
-
 *2019-7-29 13:20:49*
 
 ---

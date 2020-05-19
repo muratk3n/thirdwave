@@ -687,29 +687,9 @@ Bernie: "20% are in jail bcz they cannot afford cash bail". Crazy.
 
 ---
 
-*Crashed*
 
-"During the height of the crisis in 2008–2009, the West was, frankly,
-neglectful of Eastern Europe, despite the fact that talk of NATO
-expansion had led to a war with Russia in Georgia only weeks before
-the outbreak of the crisis in August 2008. In 2009, significantly, it
-was veterans of the George H. W. Bush administration who were warning
-that Eastern and Western Europe were once more at risk of
-dividing. Then, in 2013, the EU sleepwalked into confrontation with
-Putin ​over Ukraine. And all of this at a moment when the Obama
-administration was pushing TPP, seen in Beijing as aggressive
-containment, and Japan and China were confronting each other over
-rocky islands in the East China Sea.
-
-No doubt the Trump administration is unpredictable, but it was on
-Obama’s watch, with Hillary Clinton as secretary of state, that
-relations with Russia and China escalated to this degree".
-
-*2019-7-13 10:22:0*
-
----
-
-Finally finished reading the awesomeness that was Crashed. What a great piece of work. Will probably reread it soon.
+Finally finished reading the awesomeness that was Crashed. What a
+great piece of work. Will probably reread it soon.
 
 *2019-7-13 10:21:1*
 

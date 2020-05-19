@@ -537,67 +537,6 @@ Ammonia, fertilizers, H2 - the lay of the land
 
 ---
 
-Fuckin Krugman. 
-
-From *Crashed*
-
-"Against the backdrop of the TARP debacle and the shambles in Europe,
-Gordon Brown’s scheme looked like a breakthrough. From New York, Paul
-Krugman lavished praise on Britain’s Labour government. Britain’s
-Social Democrats had figured out how to rescue financial
-capitalism. It certainly helped that the Labour government was less
-averse to nationalization than Hank Paulson was. Less charitably it
-might be said that since the 1990s, New Labour, like the Democrats in
-the United States, had entered into an enthusiastic partnership with
-the City of London. It was, therefore, ​no coincidence that it was now
-Labour in Britain and the Democrats in the United States who were
-showing such energy in the struggle to fix the banking crisis. It was
-a monster they had helped to create"
-
-*2019-6-15 23:47:0*
-
----
-
-Interesting... well DJT made a play for that base and won. Maybe this
-is another reason McCain was mad at him, Trump did what he could not
-do (cancer is repressed anger, bcz of Trump).
-
-This reaffirms the *Time for Change* model, how everything is tied to
-the incumbent. You are running during Dubya's presidency, your
-candidacy will be in that mold. The model catches this.
-
-From *Crashed*
-
-"With the Republicans deeply divided, on September 24 McCain suspended
-his campaign and announced he was returning to Washington to take the
-lead in “fixing” the crisis. In the Treasury and the White House this
-caused panic. The markets were in a febrile mood. No one knew what
-McCain had in mind. What was certain was that it would stir up the
-Republican base. Startled at the news, Paulson screamed into his
-Motorola, demanding that the White House get a grip on “their”
-candidate. Bernanke was so alarmed by the intensity of the political
-power play that he thought it better to withdraw to the safety of the
-Fed. In the end it took interventions by the White House chief of
-staff and major Republican donors, including Henry Kravis, the private
-equity billionaire, J.P. Morgan vice chair James Lee and John Thain of
-Merrill Lynch, to hold McCain in line. But this left McCain
-tongue-tied, torn between the demands of “the system” and the populist
-groundswell that Palin was rallying to his cause. In the climactic
-meeting of the two candidates with the Bush administration on
-September 25, a meeting called at McCain’s request, the Republican
-candidate literally had nothing to say."
-
-*2019-6-15 23:10:1*
-
----
-
-Getting paid
-
-
-*2019-6-15 21:59:17*
-
----
-
 Go for it!
 
 @GrahamCooley4
@@ -616,38 +555,6 @@ Stork or crow? In terms of sound. Dude; they are both effin loud but
 storks, any day of the week.
 
 *2019-6-15 20:18:6*
-
----
-
-
-From *Crashed*
-
-"[T]he United States was set back on track. The leadership of American
-finance renewed itself. Even when viewed narrowly in accounting terms,
-many of the Treasury and Fed support programs made a profit for the
-American taxpayer. The benefits of preventing a second Great
-Depression were vast. [..] But its economic merits are not so obvious
-as its proponents presume.  And it offered no comfort to the advocates
-of laissez-faire.
-
-Gone were the days when economic policy was about shrinking the state
-to set free the spontaneous order of market liberty. No longer did
-wisdom lie in devising predictable rules to curtail the arbitrary
-discretion of policy makers. [..T]here was a political price to pay.
-The crisis fighting of 2008–2009 scrambled American politics. The Bush
-administration lost the backing of much of the congressional
-Republican Party. The crisis snapped the fragile bond between the
-GOP’s managerial, big-business elite and its right- wing mass base. As
-the popular wing of the party, backed by maverick oligarch donors,
-moved increasingly toward indignant anti-establishment opposition,
-mainline conservatives like Bernanke and Paulson were left to complain
-that it was not they who left the party, but the party that left
-them. The Bush administration’s crisis-fighting effort was carried by
-the Democratic Party’s majorities in Congress. [..T]he fracture of the
-American Right would in due course have profound consequences both for
-America and for the wider world."
-
-*2019-6-15 19:48:22*
 
 ---
 

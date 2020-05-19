@@ -312,7 +312,10 @@ Hah. Monkey boy used picture of Moon in his poster for Mars and gets slapped dow
 
 ---
 
-"@adam_tooze While China's surplus grew by $2 trillion from 2009 to 2018, its external assets rose by only $740 billion in the same period. What explains the $1.2 trillion difference? “Net errors & omissions” and disguised capital flight?"
+"@adam_tooze While China's surplus grew by $2 trillion from 2009 to
+2018, its external assets rose by only $740 billion in the same
+period. What explains the $1.2 trillion difference? “Net errors &
+omissions” and disguised capital flight?"
 
 *2019-6-24 12:24:3*
 
@@ -537,14 +540,6 @@ guest. Let them speak, tell their story man!
 
 ---
 
-From *Crashed*
-
-"52 percent of the mortgage-backed securities sold to the Fed under QE
-were sold by foreign banks, with Europeans far in the lead."
-
-*2019-6-22 11:58:34*
-
----
 
 Not pious, not a serial philanderer, with some or no mishaps along the
 way, not fascinated by new sexual choices, but lets them be. What am

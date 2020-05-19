@@ -34,26 +34,6 @@ Whaddayaknow? Werner is right. Credit flowing to wrong places is more
 dangerous than "surplus countries" and "deficit
 countries". Varoufuckis take note.
 
-From *Crashed* by Tooze:
-
-"Germany’s savings appear as the counterpart to Spain’s trade
-deficit. ​But accounting identity is not the same as causal
-relationship. It wasn’t Germany’s excess savings, or its exports, that
-produced the boom in Spain. It was the lopsided credit-fueled boom
-that produced the demand imbalances, the trade flows and the savings
-imbalances. Europe’s banking system provided elastic
-intermediation. Had Germany’s domestic economy been in more robust
-shape, Germany’s demand for imports would have been larger, and the
-trade imbalances within the eurozone might have been smaller. A
-somewhat larger fraction of the Spanish economy might have been
-directed toward producing goods for export to Germany rather than
-supplying the domestic boom. But there is no reason to think that a
-smaller flow of net savings from a more rapidly growing Germany would
-have done much to slow the credit-fueled upswing in Ireland or
-Spain. In modern finance, credit is not a fixed sum constrained by the
-“fundamentals” of the “real economy.” It is an elastic quantity, which
-in an asset price boom can easily become self-expanding on a
-transnational scale".
 
 *2019-6-15 10:14:23*
 
