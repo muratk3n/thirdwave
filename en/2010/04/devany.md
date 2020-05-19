@@ -74,7 +74,16 @@ your body’s repair mechanisms. So, doing without the occasional
 feeding is a powerful way to slow ageing. I skip one dinner a week,
 chosen at random. On those nights, I go to bed early. You burn fat
 while you sleep, so the more sleep you get, the leaner you will
-be. Sometimes I skip breakfast and lunch but enjoy a big dinner.
+be. Sometimes I skip breakfast and lunch but enjoy a big dinner. ...
+
+Intermittent fasting ... has been found to decrease the incidence of
+tumours and kidney disease, and can increase resistance to dysfunction
+and degeneration in stroke and those who suffer with Alzheimer’s,
+Parkinson’s and Huntington’s diseases.  Intermittent fasting enhances
+resistance to oxidative, metabolic and other types of stress. It is
+nice to know that our obsession with eating so regularly is so
+completely wrong. Go ahead and skip that meal, and reap the rewards of
+better metabolism and enhanced resistance to stress and disease.
 
 <a name='jog'/>
 
