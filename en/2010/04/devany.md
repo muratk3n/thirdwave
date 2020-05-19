@@ -22,6 +22,8 @@ carbohydrate in the diet is anchored totally in the modern idea of
 eating.  This is really an argument over fads, because virtually every
 modern diet is just a small variation on bad nutritional thinking. ...
 
+<a name="fast"/>
+
 Contemporary hunter-gatherers have legendary endurance even though
 they eat little carbohydrate and certainly do not carbo-load before an
 event the way modern athletes do. Members of the Aché tribe of
@@ -87,30 +89,6 @@ better metabolism and enhanced resistance to stress and disease.
 
 <a name='jog'/>
 
-As in all exercise, intermittency and variety are the goals in aerobic
-workouts. You want to stop and start, go in an instant from walking to
-running at top speed for forty or fifty yards, then amble along until
-the urge to sprint overtakes you again. When you do this, you exercise
-all the different types of muscle fibre, whereas joggers work only the
-slow- and intermediate-twitch kinds.  Jogging also wastes time because
-you need to do it for long periods to see any benefit. Mixing up
-sprints with walks is safer for your heart, too. And there’s less
-stress on your knees, ankles, hips, feet and back.
-
-You are getting a good cardio workout just by lifting weights as I
-suggest, without much of a break between sets or stations.  Your heart
-should be pumping and your lungs working when you do it vigorously and
-with a sense of purpose. If you still feel the need for more aerobic
-exercise, find a game to play.  Tennis, squash and rollerblading, for
-instance, are intense, stop-and-start activities, meaning they burn
-all three kinds of muscle fibre. And they have the added advantage of
-being fun. ...
-
-Your brain and body expect you to live a life of movement and action,
-of challenge and response, of variety and adaptation. Your brain still
-‘sees’ sensory inputs as though you are a hunter-gatherer and, at the
-instinctive level, directs your actions accordingly.
-
 Variety and play are the essential human attributes. By keeping your
 workouts brief and exhilarating you won’t get bored. By adding lots of
 outdoor activity and play, you will enjoy the power and fitness you
@@ -154,5 +132,29 @@ by chasing down, killing and carrying away an adult gazelle. The lion
 doesn’t try to maintain a steady output of moderate energy. It knows
 better.  There are people at my gym who waste hours on treadmills and
 stairmasters, trudging away but never really pushing themselves to
-intensity.
+intensity. ...
+
+As in all exercise, intermittency and variety are the goals in aerobic
+workouts. You want to stop and start, go in an instant from walking to
+running at top speed for forty or fifty yards, then amble along until
+the urge to sprint overtakes you again. When you do this, you exercise
+all the different types of muscle fibre, whereas joggers work only the
+slow- and intermediate-twitch kinds.  Jogging also wastes time because
+you need to do it for long periods to see any benefit. Mixing up
+sprints with walks is safer for your heart, too. And there’s less
+stress on your knees, ankles, hips, feet and back.
+
+You are getting a good cardio workout just by lifting weights as I
+suggest, without much of a break between sets or stations.  Your heart
+should be pumping and your lungs working when you do it vigorously and
+with a sense of purpose. If you still feel the need for more aerobic
+exercise, find a game to play.  Tennis, squash and rollerblading, for
+instance, are intense, stop-and-start activities, meaning they burn
+all three kinds of muscle fibre. And they have the added advantage of
+being fun. ...
+
+Your brain and body expect you to live a life of movement and action,
+of challenge and response, of variety and adaptation. Your brain still
+‘sees’ sensory inputs as though you are a hunter-gatherer and, at the
+instinctive level, directs your actions accordingly.
 
