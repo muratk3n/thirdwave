@@ -68,6 +68,21 @@ as well. Story goes Abraham Lincoln used to sit up late at night and
 stare outside for hours on end, like a crazy person. Maybe he
 experienced some intervention.. ?
 
+Soon after their founding religions were co-opted by the state. In the
+case of Rome, Jesus was incorporated into the imperial power
+structure. The Catholic Church emphasized not his human incarnation
+but his transcendent magisterial authority, his right to judge the
+living and the dead and to determine their fate for all
+eternity. Basically, the terrible power of Roman authority was
+presented as being derived from the even more terrible power of Jesus,
+a looming supreme God painted on the apse ceiling over the altar where
+his blood was to be drunk and his body eaten.
+
+There were, and have been other interpretations. The Arian Church
+slant for example; their Jesus was not the same as the all-powerful
+God; he was rather less threatening, and wasn't identified with the
+state. 
+
 
 
 
