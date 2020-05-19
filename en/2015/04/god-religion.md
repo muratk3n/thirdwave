@@ -37,8 +37,8 @@ their time. Jesus was killed by the Roman Empire, Moses was hounded by
 the Pheroah.
 
 When we switched to farming, villagers fell into bad habits. We
-domesticated plants, but they also domesticated us - see Sapient, and
-Why the West Rules by Morris. The village became a Disneyland -
+domesticated plants, but they also domesticated us - see *Sapient*,
+and *Why the West Rules* by Morris. The village became a Disneyland -
 shut-in, isolated, full of gossiping neighbors, imaginery make-belief
 totems, where ppl survived even thrived, but also started sacrificing
 humans for better harvest. Inheritance, of land (because you would
@@ -46,11 +46,11 @@ farm on it) became important, ppl would literally worship the bones of
 their ancestors.
 
 Religion is nothing but a few smart people saying "dont worship some
-bones you dumb fuck". All the rest is add-ons. Fasting replicates the
-day of a hunter-gatherer. He wakes up, hunts, feasts at the end of the
-day. Notice how alert you get when you are hungry. Your eye sight gets
-better. You hear clearer. It is good to connect with that part of us
-because evolution is slow and we still carry hunter-gatherer
+bones you dumb fuck". Fasting replicates the day of a
+hunter-gatherer. He wakes up, hunts, feasts at the end of the day (or
+not). Notice how alert you get when you are hungry. Your eye sight
+gets better. You hear clearer. It is good to connect with that part of
+us because evolution is slow and we still carry hunter-gatherer
 instincts.
 
 Some say "the West invented no religion, the Middle East invented no
@@ -61,7 +61,12 @@ you are engaged in politics. The fact that message was carried by the
 left in the West, Moses / Jesus / Mohammed in the East really makes no
 difference.
 
-
+Divine intervention? Depending whether one believes in a creator or
+not, divine intervention for prophets could be explainable. Such
+explanation could continue to other historical, non-religious figures
+as well. Story goes Abraham Lincoln used to sit up late at night and
+stare outside for hours on end, like a crazy person. Maybe he
+experienced some intervention.. ?
 
 
 
