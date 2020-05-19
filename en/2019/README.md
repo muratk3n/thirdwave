@@ -102,7 +102,7 @@
 
 [Hacking the Constitution](11/constitution.md)
 
-[Faux Ambassadors](11/faux-ambassadors.md)
+[Cultures, Identities, Something Dash Something Americans](11/faux-ambassadors.md)
 
 [France - China - US](11/france-china-us.md)
 

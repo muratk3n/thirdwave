@@ -728,49 +728,6 @@ two more weirdo gismos later, this looks good.
 
 *2020-5-4 20:8:3*
 
----
-
-When the state came up with its delusional origin story, some ppl took
-as their lastname something Turkic, to make themselves friendly to the
-state. The lastnames are quite comical, walking turk, born soldier, or
-my favorite: soldier turk.
-
-However the state made a mistake by choosing that particular ethnicity
-as its base. The word was actually a slur, even 100 years ago. An
-officer in the Otto army tested this, the new identity was circulating
-among the cadres, and he wanted to check how much the regular soldiers
-knew of "their identity". He starts easy, first asks them about the
-sultan, the Caliph, etc. The soldiers weren't really sure, many were
-confused, they thought sultan was prophet, Caliph was God, etc.  the
-answers were a big mess. Frustrated, the officer asks "but aren't we
-all Turks!??". They knew the answer to this one. The responded, in
-unison with the word *Estağfurullah*. Let me try to translate what
-this means... Say your friend drops something, or makes a mistake, and
-says "ah I'm such a putz", and this is the word you use. It's like "oh
-c'mon", "don't sell yourself short", forgive urself. IT CAN'T BE THAT
-BAD.
-
-This ethnicity, rightfully so, was known to be marginal, a few
-villages here and there, at a particular location. After decades of
-adapting certain narrative, a good amount of amnesia, and state
-education, the identity became what it is, but it is, sadly, still
-hollow. It is built on quicksand.
-
-Then, by implication, the Turkic lastnames can be taken to indicate a
-certain unawareness of history on the part of that family, due to lack
-of education, being far from the center, etc.
-
-I am certain once the descendants realize how moronic their ancestors
-have been to chose these stupid shit of names, they will rush to legal
-services __en masse__ to have them changed. One day.
-
-"Why do we hear some lastnames that have the word "Turk" in them in
-TR?"
-
-
-*2020-5-4 20:12:0*
-
----
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As the cost of making <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> becomes cheaper, the hydrogen economy looks more and more like the path to <a href="https://twitter.com/hashtag/decarbonization?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonization</a>. <a href="https://t.co/3hszedzNaO">https://t.co/3hszedzNaO</a> <a href="https://twitter.com/hashtag/energytransition?src=hash&amp;ref_src=twsrc%5Etfw">#energytransition</a></p>&mdash; Ballard Power (@BallardPwr) <a href="https://twitter.com/BallardPwr/status/1257278822535356417?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -1,4 +1,4 @@
-# Faux Ambassadors 
+# Cultures, Identities, Something Dash Something Americans, Immigrants
 
 Outside of US, in the EU and the near countries everybody likes
 Michael Jackson. Noone much cares or hears about the other stuff, just
@@ -75,7 +75,9 @@ Bag-over-your-moms-head, Beck, Dick (??) and it goes progressively
 worse after that. Beg was ethnically German-Scottish. Everyone gets
 it.
 
-Addend. 1:
+Additions
+
+1)
 
 What happens to older, pilgrim level Americans in this mix?  They have
 no "real" ethnicity to fall back on, it is so far back they don't
@@ -92,7 +94,7 @@ becomes bad, doing the biznitch, with the shiznit. Lots of prose, lots
 of great art - but underneath it all, the message, the delivery
 remains American. Ssshh, keep quiet on that.
 
-Addend. 2:
+2)
 
 Much revolved around MJ; References to him go all the way back to
 E. Murphy. He is referred to because he as a symbol had to be
@@ -105,7 +107,7 @@ represented in terms of racial relations was deemed unacceptable.
 black woman. The guy was just weird basically... What kind of normal
 person can write *Billy Jean* anyway?)
 
-Addend. 3:
+3)
 
 If culture is shared, is imprinted even, and the root of US culture is
 Protestanism, that means even the Catholics of US would act Protestan
@@ -113,7 +115,7 @@ whether they like it or not. This is in fact true. The faux
 ambassadorship, acting out streotypes aside, ppl act and think like
 Protestans. Huntington talked abt this in one of his books.
 
-Addend. 4:
+4)
 
 We now arrive at the mystery that is the Governator - the ultimate
 foreigner... So foreign in fact that after you watch his movie, you
@@ -123,14 +125,14 @@ whatever. Ahnuld kept this act going for decades now (noone holds on
 to an accent unless they want to), and it has been hilarious. He is of
 course Germanic in culture being outside US before age 7.
 
-Addend. 5:
+5)
 
 Some people's internal make-up is so strongly in certain direction
 that no matter the culture they were born into, they may not belong to
 that culture. These edge cases do happen.  In this case Rapaille's
 answer is simple: buy a plane ticket, and leave.
 
-Addend. 6:
+6)
 
 The cultural subnations are fake. It takes a lot of make-belief,
 acting, subterfuge to bring them to life, on real world and on
@@ -144,7 +146,7 @@ guy outside the village looking in, watching all the rituals, sheep
 fucking that goes on in there. The faux ambassadors get it from them
 the most, and rightfully so.
 
-Addend. 7:
+7)
 
 In *Raw* E. Murphy has tells a story where he gets out from *Rocky 3*
 and sees "Italians", all proud, acting tough, hollering at blacks. So
@@ -159,7 +161,7 @@ jungle, hunting, etc. Stallone acts as nomadic, Protestan
 American. Even when he receives blessings from a priest, it is done
 remotely, while he is running in *Rocky*.
 
-Addend. 8:
+8)
 
 Fake subnations and their ambassadors helped create a lot of comedy,
 and in the positive, even maybe a "safe-space" for people (which I
@@ -168,7 +170,7 @@ point where now "a black kid with a book is called acting white" as
 Bama said correctly, for once. I'd rather not have the comedy than a
 single black kid having to hear those words.
 
-Addend. 9:
+9)
 
 Another aspect of this whole thing is, if there is an unconformtable
 topic talking about it, through comedy, making light of it as much as
@@ -176,6 +178,50 @@ possible, so it is not talked about uncomfortably in other parts of
 society. This too would be very American. But the act can start having
 a life of its own, impinge on other parts of culture. Watch out.
 
+10)
+
+"Does religion matter for subcultures? No. Rituals do not create
+culture. Culture has to do with codes, embedded in emotional brain
+which are transmitted through osmosis, and they effect
+*decisions*. Putting a funky hat on, playing with some beads, mumbling
+some nonsense is not culture.
+
+Look at this [person](https://youtu.be/ttBWXH-ihL0). She is right,
+where you are born matters. She is French. People who tell her
+otherwise need to shut the flack up, and she should remind them of
+that.
+
+Parents - stop telling children abt their "home country". They ain't
+iyou, they'll never be you. You made that decision for them when you
+moved your punk ass to where you are now from your (very likely)
+shithole country. They won't belong to your original homeland just for
+the virtue of being your children.
+
+11)
+
+Which brings us to Jews. I heard Netanyahu say once [parap] "Jews came
+back to their homeland and we are proud to maintain our culture. We
+were never assimilated".
+
+You were, actually. With the exception of maybe those Hassidic guys,
+or ones who truly isolated themselves, the rest were assimilated.. So
+what "came back" to the "homeland" were not Jews but Germans,
+Americans, etc. How the f--k would u beat Arabs otherwise? German,
+European know-how, organization ability, culture beat them, not your
+funky hats. And now there are Jews from Moscow, St. Petersburg and
+guess what? They are Russians.
+
+The trick Jewish people did best was, like the French lady's example
+above, the parents, and parent's parents managed to keep the
+"homeland" idea alive. Then, sold on this idea, some went "back" when
+time was appropriate. But, in a way, they were fooled.
+
+Now together in the new country, as any group can reach some kind of
+merger, the new arrivals are creating a new culture (people born into
+it would become automatically part of that culture). Not necessarily
+ancient Jewish per se, but a combo of all nationalities who arrived
+there, Russians, Polaks, Germans, etc. enmeshed with the realities of
+the region. In a way they are much like United States. No wonder
+Israelis like US so much.
+
 Related: [The Culture Code](https://muratk3n.github.io/thirdwave/en/2014/06/the-culture-code.html)
-
-
