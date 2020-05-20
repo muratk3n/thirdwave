@@ -363,26 +363,6 @@ the price part of the equation"
 
 ---
 
-Tigger chose not to do that in 2015 and paying the price ever since.
-A Kurdish party received 12% which could make them a kingmaker, they
-could have received some concessions this way, leading to more
-democratization. Instead oppo trampled on parliamentary mechanisms
-(triggering chaos, then sys change), and now the country is a
-shithole.
-
-*2020-5-17 20:16:9*
-
----
-
-The choices voters make in choosing reps has good sense in it. The gov
-make-up suggested within parliament should be respected. Israeli
-voters choice implied Gantz and Netan to form gov, it took a while but
-it was done.
-
-*2020-5-17 20:13:49*
-
----
-
 Gov formed in Israel, finally. Unity gov with Gantz. 
 
 There was lota heckling during his parliament speech.
@@ -494,3 +474,8 @@ yourself. Freeeedomm.
 *2020-5-17 13:01:34*
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
