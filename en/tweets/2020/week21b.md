@@ -303,7 +303,7 @@ uncertainty that had included dual inauguration ceremonies"
 
 ---
 
-Interesting, started a new thing without no net, but already have
+Interesting, started a new thing with no net, but already have
 enough material offline *in da stash* so chugging along
 
 *2020-05-18 17:03:07*
