@@ -3,14 +3,15 @@
 Hah -- I read Dalia Lama said 'if robots are advanced enough, you will
 be able to reincarnate into them'.
 
-Yes. If reincarnation is taken as 'entering the game again', it makes
-total sense. As a game player, wouldn't you play a sufficiently
-advanced bot? Sure, why not?
+Yes. If reincarnation is taken as 'entering the game over and over
+again', makes sense. As a player in a normal computer game, wouldn't
+we play a sufficiently advanced bot? Sure, why not? People even play
+hamster, rabbit, fish in games!
 
 Then there is the answer for the conciousness question; can a robot be
-concious?  Well, a concious player will be in one, so yes.
+concious?  Well, a concious player can be in one, so yes.
 
-DL -- that guy knows some shit. tiz all I gotta say.
+DL -- that guy knows some shit, tiz all I gotta say.
 
 *2020-05-19 14:53:24*
 
@@ -286,7 +287,7 @@ are unwilling to borrow as long as the deflation environment persists"
 
 I'm a big fan of these repeat names, Abdullah Abdullah. Boutros
 Boutros... Whats ur name? Abdullah. What's ur first name?
-Abdullah. 
+Abdullah. It's fly.
 
 *2020-05-18 17:13:1*
 
@@ -322,18 +323,6 @@ believe.”
 
 ---
 
-"Much more threatening was Huey Long of Louisiana. The populist—and
-wildly popular—governor and then senator quickly abandoned Roosevelt
-as too cautious, mounting his more redistributive “Share Our Wealth”
-program. Long reached millions through a national network of clubs and
-his own radio broadcasts. Roosevelt feared Long as a dangerous
-demagogue until his assassination in September 1935, but Long’s
-indisputable popularity likely pushed FDR leftward"
-
-*2020-05-18 08:15:19*
-
----
-
 "Roosevelt and his advisers were far from the clairvoyant visionaries
 of legend. They never had a master plan [Roos certainly did not win on
 any 'plan' as challenger]. Rather, in the administration’s first 100
@@ -352,13 +341,13 @@ Social Security, unemployment insurance, and public housing emerge"
 
 ---
 
-"The House of Representatives has introduced new COVID-19 emergency
-response legislation to address the largest public health and economic
-calamity the United States has faced in generations. Like the crisis
-it is meant to address, the bill is massive. One provision deserves
-particular attention: guaranteeing free Internet access if you have
-been economically harmed by COVID-19 (as originally envisioned in
-legislation promoted by Congressman Marc Veasey). ...
+EFF: "The House of Representatives has introduced new COVID-19
+emergency response legislation to address the largest public health
+and economic calamity the United States has faced in generations. Like
+the crisis it is meant to address, the bill is massive. One provision
+deserves particular attention: guaranteeing free Internet access if
+you have been economically harmed by COVID-19 (as originally
+envisioned in legislation promoted by Congressman Marc Veasey). ...
 
 As various parts of it are renegotiated, Congress must keep in mind
 that Internet access is vital and cannot be bargained away.
@@ -377,8 +366,8 @@ the price part of the equation"
 Tigger chose not to do that in 2015 and paying the price ever since.
 A Kurdish party received 12% which could make them a kingmaker, they
 could have received some concessions this way, leading to more
-democratization. Instead dumb nats trampled on the parliament
-(triggering attacks, than sys change), and now the country is a
+democratization. Instead oppo trampled on parliamentary mechanisms
+(triggering chaos, then sys change), and now the country is a
 shithole.
 
 *2020-5-17 20:16:9*
@@ -387,8 +376,8 @@ shithole.
 
 The choices voters make in choosing reps has good sense in it. The gov
 make-up suggested within parliament should be respected. Israeli
-voters suggested Gantz and Netan to form gov, it took a while but it
-was done. 
+voters choice implied Gantz and Netan to form gov, it took a while but
+it was done.
 
 *2020-5-17 20:13:49*
 
@@ -436,7 +425,7 @@ projects, with the wolves howling out in the night"
 ---
 
 Yeah SV was madly behind this thing (OO). If u need any proof how much
-useless work SV is engaged in, this is it.
+useless shit SV is engaged in, look no further.
 
 [Link](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
 
