@@ -91,6 +91,8 @@ our big ally Germany lost, so we lost, indirectly, *by association*.
 This sounds like a B-movie tough guy routine. I wanted-a smash-a but
 they would not-a let meeee! It is not only wrong, it is childish. 
 
+<a name='wolf'/>
+
 Let's not get into stories around wolves, weird treks out of nowhere
 to f-ck knows where, whose at least wolf part sound awefully like the
 Romulus and Remus story, two lost babies who were suckled by a

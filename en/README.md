@@ -51,7 +51,7 @@ despite the best efforts of people working in them.
 
 [Democracy](/2016/11/democracy.md)
 
-[Money](/2018/05/quantity-theory-of-money.md)
+[Economy](/2018/05/economy.md)
 
 [Globalization](/2018/09/the-myth-of-liberal-international-order.md)
 
