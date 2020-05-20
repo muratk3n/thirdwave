@@ -209,12 +209,12 @@ Richard Werner
 (From *New Paradigm in Macroeconomics*) The representation of banks as
 mere intermediaries [..] depict it as a process of successive lending
 of already existing purchasing power  [..] Bank A receives a new
-deposit of US$100. If the reserve requirement is 1%, textbooks say
-that the bank will lend out US$99, and deposit US$1 with the central
-bank as reserve. The US$99 will, however, be deposited with another
+deposit of USD 100. If the reserve requirement is 1%, textbooks say
+that the bank will lend out USD 99, and deposit USD 1 with the central
+bank as reserve. The USD 99 will, however, be deposited with another
 bank, Bank B, which will also be able to lend out 99% of that amount
-(US$98.01), and keep 1% as reserve. This process continues until in
-the end a total of US$9900 has been lent out [..]
+(USD 98.01), and keep 1% as reserve. This process continues until in
+the end a total of USD 9900 has been lent out [..]
 
 While even this description does conclude that the overall banking
 system creates money, credit creation seems to be the result of a
@@ -229,20 +229,20 @@ not far-fetched and most economists do consider banks merely an
 alternative channel to capital market or other intermediation.
 
 [A] more accurate presentation of credit creation [..] depicts the
-balance sheet of a bank that receives a new deposit of US$1, recorded
-as a new liability of the bank. Instead of lending out US$99, as the
-textbooks tell us, the bank will use the US$100 as reserve with the
-central bank (entered as asset on its balance sheet). The US$100 can
+balance sheet of a bank that receives a new deposit of USD 1, recorded
+as a new liability of the bank. Instead of lending out USD 99, as the
+textbooks tell us, the bank will use the USD 100 as reserve with the
+central bank (entered as asset on its balance sheet). The USD 100 can
 now become the 1% on the basis of which the bank can lend out 99 times
 as much. Thus this very first bank can grant a new loan amounting to
-US$9900. The moment the loan is granted, the bank simultaneously
-increases its assets by US$9900 (the amount of the loan, which is an
-asset for the bank) and its deposits by US$9900 – the per- son or
-company who receives the loan of US$9900 will actually obtain a book
-entry of US$9900 in his or her deposit account – money that can now be
-spent on transactions. The money the bank has created, US$9900, is 99%
-of the increase in the bank balance sheet (US$100 new deposit plus
-US$9900 in loans/deposits).  Thus the reserve requirement is met.
+USD 9900. The moment the loan is granted, the bank simultaneously
+increases its assets by USD 9900 (the amount of the loan, which is an
+asset for the bank) and its deposits by USD 9900 – the per- son or
+company who receives the loan of USD 9900 will actually obtain a book
+entry of USD 9900 in his or her deposit account – money that can now be
+spent on transactions. The money the bank has created, USD 9900, is 99%
+of the increase in the bank balance sheet (USD 100 new deposit plus
+USD 9900 in loans/deposits).  Thus the reserve requirement is met.
 
 Right
 
@@ -533,7 +533,20 @@ change. Is this true?
 
 Yes
 
-From New Paradigm in Macroeconomics, "In other words, given the amount of credit creation produced by the banking system, an autonomous increase in government expenditure g must result in an equal reduction in private demand. As the government issues bonds to fund increased fiscal stimulation, private sector investors (such as life insurance companies) that purchase the bonds must withdraw purchasing power elsewhere from the economy. With an unchanged national income pie (whose growth is restricted by [increase in credit going to productive enterprise] , the total amount of new purchasing power created – the overarching budget constraint on the economy), any increases in government spending must shrink the private sector share of the pie. The same applies (more visibly) to tax-financed government spending. With unchanged credit creation, every $ in additional government spending reduces private sector activity by one $".
+From New Paradigm in Macroeconomics, "In other words, given the amount
+of credit creation produced by the banking system, an autonomous
+increase in government expenditure g must result in an equal reduction
+in private demand. As the government issues bonds to fund increased
+fiscal stimulation, private sector investors (such as life insurance
+companies) that purchase the bonds must withdraw purchasing power
+elsewhere from the economy. With an unchanged national income pie
+(whose growth is restricted by [increase in credit going to productive
+enterprise] , the total amount of new purchasing power created – the
+overarching budget constraint on the economy), any increases in
+government spending must shrink the private sector share of the
+pie. The same applies (more visibly) to tax-financed government
+spending. With unchanged credit creation, every dollar in additional
+government spending reduces private sector activity by one dollar".
 
 The derivation and empirical test is here
 -[Code](/en/2018/05/werner.html),[Data](crowd.csv). The coefficient
