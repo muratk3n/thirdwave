@@ -81,7 +81,9 @@ Alternatives
 
 One viable alternative to Bitcoin is Nano which does not require
 mining and does not require off-chain solutions to make transactions
-cheap or fast. 
+cheap and fast. Coupled with the fact that Bitcoin mining is
+incredibly wasteful, it is looking like the future lies in one of the
+challenger coins which are green and fast out-of-the-box.
 
 
 
