@@ -91,7 +91,7 @@ origin.
 ---
 
 Don't [jog](https://muratk3n.github.io/thirdwave/en/2010/04/devany.html#jog).
-Outside is fine.
+Outside, great.
 
 "I miss jogging, being outside"
 
