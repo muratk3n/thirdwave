@@ -319,6 +319,8 @@ stigma or vilification is what accusers require from the public
 sphere, not masses of people taking to social media to proclaim, “I
 believe.”
 
+[Link](https://www.theatlantic.com/ideas/archive/2020/05/dont-anguish-over-whom-to-believe/611662/)
+
 *2020-05-18 17:03:02*
 
 ---
@@ -336,6 +338,8 @@ quickly developed alternatives, including the National Labor Relations
 Act (known as the Wagner Act), which offered a clearer path to
 unionization.Not until after 1935 did the New Deal’s welfare state of
 Social Security, unemployment insurance, and public housing emerge"
+
+[Link](https://www.theatlantic.com/ideas/archive/2020/05/how-rebuild-nation/611704/)
 
 *2020-05-18 08:15:16*
 
