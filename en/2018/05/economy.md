@@ -20,7 +20,7 @@
 
 [Why Gold?](../../2012/01/why-gold.md)
 
-[Keen Model](../../2018/02/q-182.md)
+[Keen Model](../../2018/02/keen_math.md)
 
 [Exchange Rates, Current Account](../../2020/06/exch.md)
 
