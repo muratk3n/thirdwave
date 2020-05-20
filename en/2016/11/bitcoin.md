@@ -71,15 +71,17 @@ but maybe he lost them. He came across sort of forgetful /
 mad-scientist throughout this ordeal, and one looks at Satoshi's
 writings, he is a very deliberate, careful person. Lately it also
 surfaced that CW does not own any BTC that Satoshi owns either, so
-chances that he is the real Satoshi is becoming very slim.
+chances that he is the real Satoshi is becoming very slim. But if we
+follow enough threads we land on Hal Finney who was the "number two"
+in Bitcoin land whose "Running bitcoin [for the first time]" tweet is
+still around today. Finney had a next door neighbor whose name was
+Satoshi Nakamoto who was burned by the 2008 crisis.
 
 Alternatives
 
-There are alternatives to Bitcoin following the similar basis but
-offering additional features on top. One is Ethereum which makes
-construction of distributed programs easier. Creating smart contracts
-that live on the blockchain was already possible with Bitcoin,
-Ethereum takes it one step further.
+One viable alternative to Bitcoin is Nano which does not require
+mining and does not require off-chain solutions to make transactions
+cheap or fast. 
 
 
 
