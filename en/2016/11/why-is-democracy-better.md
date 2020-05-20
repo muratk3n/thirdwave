@@ -128,8 +128,8 @@ democracies? The answer is parliamentary system is better. See
 by McManus et al.
 
 I dont have the time to dig into this yet (to replicate it in Python)
-- here is [the data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
-(from Dr. McManus). 
+-- here is [the data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
+(from Dr. McManus).
 
 
 References
