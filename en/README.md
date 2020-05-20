@@ -35,7 +35,7 @@ despite the best efforts of people working in them.
 
 ## Reference
 
-[Nations and Nationalism](/2013/02/allegiance-of-peon.md)
+[Nations and Nationalism, Culture, Narratives](/2013/02/nations-and-nationalism.md)
 
 [The Fundamentals of Industrial Ideologies](/2011/04/fundamentals-of-industrial-ideologies.md)
 
@@ -49,15 +49,13 @@ despite the best efforts of people working in them.
 
 [The Fabric of Creativity](/2012/05/fabric-of-creativity.md)
 
-[Religion](/2015/04/q-274.md)
+[Religion](/2015/04/god-religion.md)
 
 [Democracy](/2016/11/democracy.md)
 
 [Money](/2018/05/quantity-theory-of-money.md)
 
 [Globalization](/2018/09/the-myth-of-liberal-international-order.md)
-
-[The Culture Code](/2014/06/the-culture-code.md)
 
 [Rome](/2017/12/rome.md)
 

@@ -83,9 +83,3 @@ slant for example; their Jesus was not the same as the all-powerful
 God; he was rather less threatening, and wasn't identified with the
 state. 
 
-
-
-
-
-
-
