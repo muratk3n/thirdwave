@@ -18,3 +18,5 @@
 
 [Crashed by Tooze](06/tooze-crashed.md)
 
+[Turks, Culture, National Narrative](06/turks-culture-national-narrative.md)
+
