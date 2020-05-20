@@ -989,19 +989,6 @@ them directly, not to the companies.
 
 ---
 
-Who does better for the economy? Presidents versus parliamentary
-democracies? The answer is parliamentary system is better. See
-[paper](https://link.springer.com/article/10.1007/s11127-018-0552-2)
-by McManus et al.
-
-I dont have the time to dig into this yet (to replicate it in 🐍) -
-here is [the data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip) (from Dr. McManus).
-Have at it.
-
-*2019-11-28 11:17:15*
-
----
-
 Science is still in its dark ages. Most papers still do not share data
 and code. Clearly journals are not beacons of progress, if they were,
 they'd make it mandatory to get a Jupyter notebook, or at least
