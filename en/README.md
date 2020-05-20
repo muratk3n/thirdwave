@@ -61,8 +61,6 @@ despite the best efforts of people working in them.
 
 [The Middle East](/2019/07/middleeast.md)
 
-[Economics Stats](/2019/05/stats.md)
-
 [TR](../tr)
 
 ## Browse
