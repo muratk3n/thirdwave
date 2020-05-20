@@ -39,8 +39,6 @@ despite the best efforts of people working in them.
 
 [The Fundamentals of Industrial Ideologies](/2011/04/fundamentals-of-industrial-ideologies.md)
 
-[Bureucracy](/2011/02/bureucracy.md)
-
 [Education](2017/09/education.md)
 
 [Patents](/2018/09/patents.md)
