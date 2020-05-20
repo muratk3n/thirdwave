@@ -48,12 +48,13 @@ Another hypothesis is there is positive relationship between W and
 income, countries with larger winning-coalitions are richer, and this
 is also confirmed. With everything else the same a country going from
 W=0 to W=1 would add 3.0% growth to per capita income. This could seem
-small, but if you take per capita income $10,000 in 10 years,
+small, but if you take per capita income 10,000 dollars in 10 years,
 
 `R=0.03; print 10*1000 * ((1+R)**10.)`
 
-it becomes a whopping $13,439. So increasing the winning coalition to
-its maximum from the worst adds to per capita more than $3,000.
+it becomes a whopping 13,439 dollars. So increasing the winning
+coalition to its maximum from the worst adds to per capita more than
+3,000 dollars.
 
 [geek]
 
