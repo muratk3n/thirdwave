@@ -10,6 +10,8 @@
 
 [Are Black People a Monolith?](03/monolith.md)
 
+[Turks, Culture, National Narrative](04/turks-culture-national-narrative.md)
+
 [Roman "Turks"](05/roman-anatolia.md)
 
 [Exchange Rates](06/exch.md)
@@ -18,5 +20,4 @@
 
 [Crashed by Tooze](06/tooze-crashed.md)
 
-[Turks, Culture, National Narrative](06/turks-culture-national-narrative.md)
 
