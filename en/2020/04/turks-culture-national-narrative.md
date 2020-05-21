@@ -17,7 +17,7 @@ The codes are cemented near age 7 and locked in.
 
 National narrative is something else, it is but a weak paint on top of
 existing structure. It can be changed, ignored, it can help or hinder
-a national narrative. Nationalism is second-wave, so narrative
+a national conversation. Nationalism is second-wave, so narrative
 inescapably carries certain central, concentrated tendencies -- it is
 in a country's interest to make this narrative as sensible as
 possible, and it should be compatible with the culture codes of a
