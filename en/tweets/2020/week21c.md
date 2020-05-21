@@ -57,8 +57,9 @@ of certain types of meditation, the hard-core kind, bcz they
 ultimately lead to "the death of the socially learned self". You cld
 burn a fuse tho, watch out. Krishna almost died. Krishnamurti did
 okay, but he had many others helping him. Some high level teachers
-even, tough mofos spent a few years not being able to keep food down
-and lived on freaking jello, yoghurt. This shit can kill you. Beware.
+even, tough mofos, spent a few years not being able to keep food down
+and lived on freaking jello, simple yoghurt. The shit can kill
+you. Beware.
 
 "Can you get rid of your culture codes?"
 
