@@ -101,6 +101,8 @@ they would not mobilize to end the fight in the first place. If your
 press sucks, you dont fear backlash through it, you fight like a
 cobsucker that you are.
 
+*2020-05-21 13:01:2*
+
 ---
 
 Bass: "On May 22, China's leaders will convene for their annual
