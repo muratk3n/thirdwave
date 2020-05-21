@@ -98,7 +98,7 @@ for very rational reasons.
 Conversely one could say countries with less democracies will be worse
 at war. Because they know they can hide, linger in a place, a region,
 they would not mobilize to end the fight in the first place. If your
-press sucks, you dont fear backlash on press, you fight like a
+press sucks, you dont fear backlash through it, you fight like a
 cobsucker that you are.
 
 ---
