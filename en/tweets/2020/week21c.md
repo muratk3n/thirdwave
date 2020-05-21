@@ -224,7 +224,7 @@ way from left to right across the diagram"
 
 ---
 
-Motorcycles, cars -- So 2D
+Motorcycles, cars.. So 2D
 
 *2020-05-20 18:53:20*
 
@@ -235,6 +235,8 @@ Motorcycles, cars -- So 2D
 *2020-5-20 17:38:3*
 
 ---
+
+😆😆😆😆
 
 "@AlexRubalcava
 
