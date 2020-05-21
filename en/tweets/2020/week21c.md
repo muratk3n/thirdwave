@@ -45,7 +45,8 @@ will not fit in their home country. Clotaire Rapaille says in that
 case, the solution is simple, get a plane ticket and leave (he was
 born French and could not live there).
 
-"Is it possible due to freak accident you never got the codes?"
+"Is it possible due to freak accident you never got the culture codes
+of your country?"
 
 *2020-05-21 13:34:05*
 
