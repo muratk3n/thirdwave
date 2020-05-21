@@ -38,11 +38,11 @@ Everyone who came to these lands, assimilated into this culture.
 
 The national narrative is the more crooked part. 1923 was probably the
 worst time to found a Republic. Ethnic nationalism was on the rise,
-WWI was over, WWII was not (so Hitler is not around yet), and here is
-the Anatolians trying to tailor a new national narrative for
-themselves. The existing structures around Ottomans had imploded along
-with the empire. Balkans, Middle Eastern "vassals" were gone, each
-worrying about their own nationalities. The founders needed an
+WWI was over, WWII was not (so Mussolini, Hitler are not around yet),
+and here is the Anatolians trying to tailor a new national narrative
+for themselves. The existing structures around Ottomans had imploded
+along with the empire. Balkans, Middle Eastern "vassals" were gone,
+each worrying about their own nationalities. The founders needed an
 identity to inspire people, to make them forget about the "here and
 now" so they chose something "outside". This was the Turk. He was from
 Central Asia, and he was the ideal, the pure.
