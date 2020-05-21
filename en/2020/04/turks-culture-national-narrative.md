@@ -157,5 +157,5 @@ reality. Pick a different name, Anatolians, New Galatians, South
 Eurasians, whatever. Decentralize. Even Germany has states which enjoy
 certain levels of autonomy. And these people lived through Hitler! The
 identity needs to be something that signifies *the place*, instead of
-a weird ethnicity, distant past that noone can truly define.
+an oddball ethnicity, distant past that noone can truly define.
 
