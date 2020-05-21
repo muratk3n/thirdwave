@@ -147,8 +147,8 @@ of these fairy tales first, they must have said "waaat we come from
 central whaaat? I don't __think__ so". That bullshit would never fly
 with them. Some groups could go along, ignore, lip sync to it, but
 Kurds definitely could not. Which made them the odd man out. Coupled
-with the centralization / decentralization needs of the region, Kurds
-are hounded ever since. These problems are not their fault.
+with the decentralization needs of the region, Kurds are hounded ever
+since. These problems are not their fault.
 
 The solution
 
