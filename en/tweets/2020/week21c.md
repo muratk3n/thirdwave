@@ -150,7 +150,7 @@ Des'ree - Life \#music
 
 As governments in Western Europe respond to an unprecedented crisis
 with massive spending to pay for everyone’s salaries, a handful of US
-senators is proposing a... $4,000 refundable tax-credit for jobs
+senators is proposing a... 4,000 dollar refundable tax-credit for jobs
 training for people who were laid off"
 
 *2020-05-21 07:05:18*
@@ -200,7 +200,7 @@ keep people on the insurance plans they just lost"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> transaction fees are becoming a meme, that&#39;s how bad it&#39;s getting.<a href="https://twitter.com/hashtag/JustUseNano?src=hash&amp;ref_src=twsrc%5Etfw">#JustUseNano</a> <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> <a href="https://t.co/fDKhAgMgLA">https://t.co/fDKhAgMgLA</a></p>&mdash; Nano Seagull ⋰·⋰ (@nanoseagull) <a href="https://twitter.com/nanoseagull/status/1262696971854327809?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> transaction fees are becoming a meme, that&#39;s how bad it&#39;s getting.<a href="https://twitter.com/hashtag/JustUseNano?src=hash&amp;ref_src=twsrc%5Etfw">#JustUseNano</a> <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">NANO</a> <a href="https://t.co/fDKhAgMgLA">https://t.co/fDKhAgMgLA</a></p>&mdash; Nano Seagull ⋰·⋰ (@nanoseagull) <a href="https://twitter.com/nanoseagull/status/1262696971854327809?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-5-20 17:41:8*
 
