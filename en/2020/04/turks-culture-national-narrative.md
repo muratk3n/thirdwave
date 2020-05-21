@@ -135,20 +135,20 @@ tendency is to get back to it, as if moving away from bizarreness
 wasn't the right thing to do to begin with. Since shit is always wrong
 in TR, such returns are common. The most recent flare-up happened
 after the 80 fascist coup, admin doubled down on crazy, even added
-some of its own -- now Otto past was fine along wolves, and meandering
-treks, so niggers were both from outside, and not.
+some of its own -- now Otto past was fine along wolves, meandering
+treks, so niggers are now both from outside, and not.
 
-That's why the objection "well if the narrative works, keep it". All
-indications are it stopped working long ago. A portion of the country
-did not embrace the identity which is seen as a prerequisite for
-citizenship, that puts these ppl at odds with the state. Kurds are the
-best example, I am sure when their elites heard of these fairy tales
-first, they must have said "waaat we come from central whaaat? I don't
-__think__ so". That bullshit would never fly with them. Some groups
-could go along, ignore, lip sync to it, but Kurds definitely could
-not. Which made them the odd man out. Coupled with the centralization
-/ decentralization needs of the region, Kurds are hounded ever
-since. These problems are not their fault.
+That's why the objection "well if the narrative works, keep it" is
+moot. All indications are it stopped working long ago. A portion of
+the country did not embrace the identity which is seen as a
+prerequisite for citizenship, that puts these ppl at odds with the
+state. Kurds are the best example, I am sure when their elites heard
+of these fairy tales first, they must have said "waaat we come from
+central whaaat? I don't __think__ so". That bullshit would never fly
+with them. Some groups could go along, ignore, lip sync to it, but
+Kurds definitely could not. Which made them the odd man out. Coupled
+with the centralization / decentralization needs of the region, Kurds
+are hounded ever since. These problems are not their fault.
 
 The solution
 
