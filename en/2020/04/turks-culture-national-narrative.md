@@ -154,7 +154,8 @@ The solution
 
 The solution lies in the identity being rebuilt based on historic
 reality. Pick a different name, Anatolians, New Galatians, South
-Eurasians, whatever. It needs to be something that signifies *the
-place*, instead of a weird ethnicity, distant past that noone can
-truly define.
+Eurasians, whatever. Decentralize. Even Germany has states which are a
+certain level of autonomy. And they lived through Hitler! The identity
+needs to be something that signifies *the place*, instead of a weird
+ethnicity, distant past that noone can truly define.
 
