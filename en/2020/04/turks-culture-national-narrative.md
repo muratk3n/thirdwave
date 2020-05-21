@@ -31,12 +31,12 @@ to do so), so it carries some of that baggage, but also has some
 decentralized airs being away from most "ancient" centers in the
 beginning of written history. Its governance culture is inescapably
 Roman however, bcz it was smack in the middle of Rome II and III,
-Byzantium and Ottomans which also infected the people through a
-peasant/palace dynamic.
+Byzantium and Ottomans, infecting people through a peasant/palace
+dynamic.
 
 Everyone who came to these lands, assimilated into this culture. 
 
-The national narrative is the most crooked part. 1923 was probably the
+The national narrative is the more crooked part. 1923 was probably the
 worst time to found a Republic. Ethnic nationalism was on the rise,
 WWI was over, WWII was not (so Hitler is not around yet), and here is
 the Anatolians trying to tailor a new national narrative for
@@ -69,17 +69,7 @@ means... Say your friend drops something, or makes a mistake, and says
 c'mon", "don't sell yourself short", forgive urself. IT CAN'T BE THAT
 BAD.
 
-This identity is hallow. One could say "well if it works keep it". One
-could go along with that, but a portion of the country did not embrace
-the identity which is seen as a prerequisite for citizenship, that
-puts these ppl at odds with the state. Kurds are the best example, I
-am sure when their elites heard of these fairy tales first, they must
-have said "waaat we come from central whaaat? I don't __think__
-so". That bullshit would never fly with them. Some groups could go
-along, ignore, lip sync to it, but Kurds definitely could not. Which
-made them the odd man out. Coupled with the centralization /
-decentralization needs of the region, Kurds are hounded ever
-since. These problems are not their fault.
+This identity is hallow. In the need of major change.
 
 How does the narrative compare to other countries? Some countries do
 better than others. Russia nat stories are a crock. US does better;
@@ -100,8 +90,6 @@ she-wolf, which was the beginning of the Roman legend (as much as a
 lie as anything). Delusional nats today making a variation of the
 heavy metal sign extended two mid fingers (wolves nose) are on this
 particular drug. Sadly, not even my people's fairy tales are original.
-
-Addition
 
 Question: Why do we hear some lastnames that have the word "Turk" in
 them in TR?"
@@ -126,6 +114,8 @@ line. The people at the beginning, closer to circle, know the nuances,
 warts, ignore and get around stuff. The guy at the end drinks the
 Kool-Aid, he is the true believer. He doesn't know any better.
 
+<a name='whyfix'/>
+
 Obivously one of the founders Kemal took the name Ataturk (Father of
 all Turks) himself, so he was setting an example. But he was always
 more into this stuff than others in his circle. He reportedly told an
@@ -147,6 +137,18 @@ in TR, such returns are common. The most recent flare-up happened
 after the 80 fascist coup, admin doubled down on crazy, even added
 some of its own -- now Otto past was fine along wolves, and meandering
 treks, so niggers were both from outside, and not.
+
+That's why the objection "well if the narrative works, keep it". All
+indications are it stopped working long ago. A portion of the country
+did not embrace the identity which is seen as a prerequisite for
+citizenship, that puts these ppl at odds with the state. Kurds are the
+best example, I am sure when their elites heard of these fairy tales
+first, they must have said "waaat we come from central whaaat? I don't
+__think__ so". That bullshit would never fly with them. Some groups
+could go along, ignore, lip sync to it, but Kurds definitely could
+not. Which made them the odd man out. Coupled with the centralization
+/ decentralization needs of the region, Kurds are hounded ever
+since. These problems are not their fault.
 
 The solution
 
