@@ -120,7 +120,7 @@ Obivously one of the founders Kemal took the name Ataturk (Father of
 all Turks) himself, so he was setting an example. But he was always
 more into this stuff than others in his circle. He reportedly told an
 American journalist who was visiting "you are also a Turk (because
-everyone was)" which flummuxed the man. Kemal went to some odd places
+everyone was)" which flummoxed the man. Kemal went to some odd places
 with these theories, the last thing he came up was a
 Sun-Language-Theory that many researchers could not make heads or
 tails of, after his death the theory was quitely shelved. A minister
