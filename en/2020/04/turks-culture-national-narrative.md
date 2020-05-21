@@ -88,7 +88,7 @@ to f-ck knows where, whose at least wolf part sound awefully like the
 Romulus and Remus story, two lost babies who were suckled by a
 she-wolf, which was the beginning of the Roman legend (as much as a
 lie as anything). Delusional nats today making a variation of the
-heavy metal sign extended two mid fingers (wolves nose) are on this
+heavy metal sign extended two mid fingers (wolve's nose) are on this
 particular drug. Sadly, not even my people's fairy tales are original.
 
 Question: Why do we hear some lastnames that have the word "Turk" in
