@@ -33,17 +33,17 @@ distinctive work"
 
 "@ThePoke
 
-BREAKING: "Clothes becoming inexplicably tighter just another
-mysterious effect of lockdown", say scientists"
+BREAKING: 'Clothes becoming inexplicably tighter just another
+mysterious effect of lockdown', say scientists"
 
 *2020-05-21 14:4:01*
 
 ---
 
 Yes. It's rare but happens. Some people are wired so differently they
-will not fit in their home country. Clotaire Rapaille says in that
-case, the solution is simple, get a plane ticket and leave (he was
-born French and could not live there).
+will not fit in. Clotaire Rapaille says in that case the solution is
+simple, buy a plane ticket and leave (he was born French and could not
+live there).
 
 "Is it possible due to freak accident you never got the culture codes
 of your country?"
