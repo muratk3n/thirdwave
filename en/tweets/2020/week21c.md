@@ -176,7 +176,8 @@ technology — originally developed for @NASA"
 
 [Answer](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html#wolf)
 
-"Why do TR nats, its mob make a heavy metal sign, what does that mean?"
+"Why do TR nats, its mob, make a heavy metal sign, what does that
+mean?"
 
 *2020-05-20 19:58:25*
 
