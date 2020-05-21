@@ -1,4 +1,4 @@
-# Why Is Democracy Better?
+# Why Are Democracies Better?
 
 B. de Mesquita's research indicates democratic nations are richer, and
 they are richer because of democracy. The relationship is not mere
@@ -101,6 +101,8 @@ parliamentary race: half of half of the voters, or one quarter in
 total. France’s runoff system is even more demanding. Election
 requires that a candidate win a majority in the final, two-candidate
 runoff."
+
+<a name='war'/>
 
 War
 
