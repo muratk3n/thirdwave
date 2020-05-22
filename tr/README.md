@@ -26,7 +26,7 @@ başlar.
 
 [Kültür Kodları](/2006/07/kltr-kodlar.md)
 
-[Ulus-Devletler ve Milliyetçilik](/2013/10/piyonun-aidiyeti.md)
+[Ulus-Devletler ve Milliyetçilik](/2013/09/ulus-devletler-ve-milliyetcilik.md)
 
 [Yaratıcılığın Kumaşı](/2009/04/yaratclgn-kumas.md)
 
