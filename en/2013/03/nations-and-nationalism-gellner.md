@@ -1,4 +1,4 @@
-# Nations and Nationalism - 1
+# Nations and Nationalism
 
 Ernest Gellner
 
