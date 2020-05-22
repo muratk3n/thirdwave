@@ -20,9 +20,7 @@ başlar.
 
 ## Referans
 
-[Bürokrasi](/2009/04/burokrasi_22.md)
-
-[Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri_2605.md)
+[Endüstriyel İdeolojilerin Temelleri](/2010/06/endustriyel-ideolojilerin-temelleri.md)
 
 [Kültür Kodları](/2006/07/kltr-kodlar.md)
 
@@ -34,11 +32,11 @@ başlar.
 
 [Askerlik](/2007/08/askerlik.md)
 
-[Dogu](/2009/09/dogu.md)
+[Doğu](/2009/09/dogu.md)
 
-[Egitim](/2018/10/egitim.md)
+[Eğitim](/2018/10/egitim.md)
 
-[Fisleme](/2018/12/fisleme.html)
+[Fişleme](/2018/12/fisleme.html)
 
 ## Gez
 
