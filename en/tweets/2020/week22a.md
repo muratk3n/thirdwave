@@ -210,9 +210,9 @@ I realize everything is a computer now but c'mon'"
 
 ---
 
-There is a point when I start the new thing I remember what was left
-over in the old thing, so in the beginning of the new thing a lot of
-old stuff gets done. 🤷‍♂️
+There is a point when I start the new thing I realize more what looks
+more unfinished in the old thing, so in the beginning of the new
+thing a lot of old stuff gets done. 🤷‍♂️
 
 *2020-05-22 10:15:48*
 
