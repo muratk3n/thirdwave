@@ -143,8 +143,7 @@ F-word is not being used".
 
 "@crhanep
 
-Robert Iger (@Disney chairman and ex-CEO) implied in his book, and I
-concur from personal experience, that socializing with colleagues
+.. I concur from personal experience, that socializing with colleagues
 outside of work does not improve relationships nor
 productivity. Working with my remote team over last 9 years has been
 A+"
