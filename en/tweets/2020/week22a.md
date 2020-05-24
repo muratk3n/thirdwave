@@ -2,11 +2,14 @@
 
 Reducing econ follows
 
-*2020-05-24 07:45:18*
+*2020-05-24 09:01:56*
 
 ---
 
 :) "Dream on, Klingon" 
+
+
+*2020-05-24 09:01:52*
 
 ---
 
@@ -20,6 +23,8 @@ H2 will push gas out of the coveted industrial energy marketplace,
 too"
 
 [Link](https://cleantechnica.com/2020/05/18/bp-smacks-exxon-upside-head-with-new-green-hydrogen-scheme)
+
+*2020-05-24 07:45:18*
 
 ---
 
