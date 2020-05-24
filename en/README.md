@@ -25,8 +25,6 @@ despite the best efforts of people working in them.
 
 18/4 - [Tweets - Week 16](/tweets/2020/week16.md)
 
-10/4 - [Tweets - Week 15](/tweets/2020/week15.md)
-
 ## For Members
 
 [Articles](https://thirdwave-members.herokuapp.com/articles)
