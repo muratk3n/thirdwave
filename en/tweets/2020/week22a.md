@@ -121,8 +121,8 @@ COVID..?  IS THIS THE END OF EU?
 
 Mate, the union (and it is a *very* light union) is there bcz it is
 beneficial to all parties involved. It will end the moment it stops
-being beneficial to all parties. To pinpoint that time, 1 needs to
-grok what made them to come together to begin with..
+being beneficial to those parties. To pinpoint that time, 1 needs to
+analyze what made them to come together to begin with..
 
 *2020-05-22 21:36:50*
 
