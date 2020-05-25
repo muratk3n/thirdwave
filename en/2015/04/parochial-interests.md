@@ -14,7 +14,7 @@ winning-coalition size and the selectorate size.
 
 [Original Dataset](http://www.nyu.edu/gsas/dept/politics/data/)
 
-[My CSV Version](https://www.dropbox.com/s/b84uw3l4qk8jmi1/bdm2s2_nation_year_data_may2002.csv.zip?dl=1)
+[My CSV Version](https://drive.google.com/open?id=13QdSpzbPaJXTr50fuwdKjHpS3iBD6n-c)
 
 Winning coalition W is # of ppl whose support a leader needs to rule,
 this is the group of people he needs to keep happy to stay in power,

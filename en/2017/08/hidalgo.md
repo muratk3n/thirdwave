@@ -6,7 +6,7 @@ Data From
 
 Curated version,
 
-[Link](https://www.dropbox.com/s/1n3hu9cpzu71z37/hidalgo.zip?dl=1)
+[Link](https://drive.google.com/open?id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
 
 What is tried below is creating a model that represents a country's
 economy based on the products it produces, and the complexity of those
