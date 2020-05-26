@@ -2,9 +2,7 @@
 
 [Palestine, Lebanon, Hashemites](../../2017/12/palestine.md)
 
-[Myth #3](../../2014/07/myth-3.md)
-
-[Myth #10](../../2014/07/from-top-ten-myths-about-israeli.md)
+[Some Myths about the Israeli-Palestinian Conflict](../../2014/07/israeli-myths-hammond.md)
 
 [Alex](../../2014/10/alex.md)
 
