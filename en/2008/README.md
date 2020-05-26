@@ -1,6 +1,3 @@
-[Google](01/google.md)
-
-[Gore Will Endorse Obama](03/gore-will-endorse-obama.md)
 
 [Superdelegate Convention](03/superdelegate-convention.md)
 

@@ -11,5 +11,4 @@
 
 [Lost](09/lost.md)
 
-[The O.C.](12/oc.md)
 
