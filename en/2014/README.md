@@ -166,17 +166,13 @@
 
 [UKIP: White face, blue collar, grey hair](06/white-face-blue-collar-grey-hair.md)
 
-[Myth #10](07/from-top-ten-myths-about-israeli.md)
-
 [How the West Chose War in Gaza](07/how-west-chose-war-in-gaza.md)
 
 [Israel, Palestine, and all the rest](07/israel-palestine-and-all-rest.md)
 
-[Myth #3](07/myth-3.md)
+[Some Myths about the Israeli-Palestinian Conflict](07/israeli-myths-hammond.md)
 
 [No More Excel Sheets for That Man](07/no-more-excel-sheets-for-that-man.md)
-
-[Right of Return](07/right-of-return.md)
 
 [Spaceship Game Played through Occulus Rift Brings a Man To Tears](07/spaceship-game-played-through-occulus.md)
 
