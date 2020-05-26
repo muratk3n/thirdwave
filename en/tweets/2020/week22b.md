@@ -150,26 +150,22 @@ thus continued unabated"
 
 ---
 
-"Despite the historical evidence that the Jews who lived in
-eighteenth-century Palestine rejected the notion of a Jewish state, as
-did the Orthodox Jews in the late nineteenth century, this was
-rejected out of hand in the twentieth century. ... Israeli educational
-textbooks now carry the same message of the right to the land based on
-a biblical promise. According to a letter sent by the education
-ministry in 2014 to all schools in Israel: “the Bible provides the
-cultural infrastructure of the state of Israel, in it our right to the
-land is anchored.” Bible studies are now a crucial and expanded
-component of the curriculum—with a particular focus on the Bible as
-recording an ancient history that justifies the claim to the land. The
-biblical stories and the national lessons that can be learned from
-them are fused together with the study of the Holocaust and of the
-creation of the state of Israel in 1948. There is a direct line from
-this 2014 letter back to the evidence given by David Ben-Gurion in
-1937 to the Royal Peel Commission (the British inquiry set up to try
-to find a solution to the emerging conflict). In the public
-discussions on the future of Palestine, Ben-Gurion waved a copy of the
-Bible at the members of the committee, shouting: '... our right to
-Palestine does not come from the Mandate Charter, the Bible is our
+"Israeli educational textbooks now carry the same message of the right
+to the land based on a biblical promise. According to a letter sent by
+the education ministry in 2014 to all schools in Israel: “the Bible
+provides the cultural infrastructure of the state of Israel, in it our
+right to the land is anchored.” Bible studies are now a crucial and
+expanded component of the curriculum—with a particular focus on the
+Bible as recording an ancient history that justifies the claim to the
+land. The biblical stories and the national lessons that can be
+learned from them are fused together with the study of the Holocaust
+and of the creation of the state of Israel in 1948. There is a direct
+line from this 2014 letter back to the evidence given by David
+Ben-Gurion in 1937 to the Royal Peel Commission (the British inquiry
+set up to try to find a solution to the emerging conflict). In the
+public discussions on the future of Palestine, Ben-Gurion waved a copy
+of the Bible at the members of the committee, shouting: '... our right
+to Palestine does not come from the Mandate Charter, the Bible is our
 Mandate Charter.'"
 
 \#10myths
