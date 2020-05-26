@@ -350,9 +350,9 @@ be used for cheaper hydrogen fuel cell production"
 ---
 
 Listening to a debate between a BJP rep (nationalist party in India),
-and a lady from oppo. At some pt she angrily says, ref the Moslem
-minority, "I will not let you turn them into a bogey". She must have
-been aiming for 'boogeyman' came out that way, and with the accent it
+and a lady from oppo. At some pt she angrily says, referring to the
+Moslem minority, "I will not let you turn them into a bogey". She
+probably meant 'boogeyman' came out that way, but with the accent it
 was funny. Good-funny.
 
 *2020-05-24 13:53:9*
