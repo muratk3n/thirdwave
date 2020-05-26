@@ -283,8 +283,7 @@ Christianity and then to Islam".
 
 ---
 
-Gen Spalding, major CH skeptic voice, is on TRT World (TR Eng news
-channel). 
+CH skeptic Gen Spalding is on TRT World (TR Eng news channel).
 
 *2020-05-25 08:06:27*
 
