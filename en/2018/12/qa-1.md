@@ -104,6 +104,3 @@ chief lobbying group".
 
 He was bought and paid for. Another corporatist.
 
-
-
-

@@ -234,7 +234,7 @@
 
 [Friedman on US, Europe, The World](12/friedman-europe.md)
 
-[Lincoln Was Bi](12/linc-bi.md)
+[The Road to Oblivion](12/the-road-to-oblivion.md)
 
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
 
