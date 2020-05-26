@@ -12,12 +12,11 @@ millions"
 
 ---
 
+"CH troops challenge India at multiple locations in eastern Ladakh,
+standoff continues.. troops crossed 3 km into what India perceives to
+be its territory South East of the Galwan Valley in eastern Ladakh"
 
-"@DEFCONWSALERTS
-
-Chinese forces cross into India-claimed territory"
-
-[Link](https://twitter.com/DEFCONWSALERTS/status/1265094512470192129)
+[Link](https://theprint.in/defence/chinese-troops-challenge-india-at-multiple-locations-in-eastern-ladakh-standoff-continues/428304/)
 
 *2020-05-25 09:12:5*
 
