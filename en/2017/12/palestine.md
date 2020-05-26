@@ -1,4 +1,4 @@
-# Palestine
+# Palestine, Lebanon, Hashemites
 
 [T]he Ottomans, who had allied with Germany, were defeated in World
 War I. To the victors went the spoils, which included the extensive

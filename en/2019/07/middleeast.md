@@ -1,6 +1,6 @@
 # The Middle East, Israel, Palestine
 
-[Palestine](../../2017/12/palestine.md)
+[Palestine, Lebanon, Hashemites](../../2017/12/palestine.md)
 
 [Myth #3](../../2014/07/myth-3.md)
 
