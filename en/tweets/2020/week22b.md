@@ -52,7 +52,7 @@ would also, as he was well aware, strengthen the hand of those who
 regarded the armed struggle against Israel as the only way to liberate
 Palestine. At any given moment, Israel could have stopped the Second
 Intifada, but the army needed a show of 'success'; only when this was
-achieved through the barbaric operation of “Defensive Shield” in 2002
+achieved through the barbaric operation of 'Defensive Shield' in 2002
 and the building of the infamous “apartheid wall” did they succeed
 temporarily in quelling the uprising"
 
