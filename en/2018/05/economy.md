@@ -14,8 +14,6 @@
 
 [Credit Theory of Money](../../2011/11/credit-theory-of-money.md)
 
-[Governments, Money, Economy](../../2018/06/governments-money-economy.md)
-
 [Hyperinflation](../../2016/03/hyperinflation.md)
 
 [Why Gold?](../../2012/01/why-gold.md)
