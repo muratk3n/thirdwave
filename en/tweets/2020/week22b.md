@@ -81,7 +81,7 @@ swift"
 
 ---
 
-Leaders, experts are small in number in any field
+Leaders, experts are small in numbers in any field
 
 "@emollick
 
