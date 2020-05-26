@@ -2,10 +2,23 @@
 
 BBC
 
-The story begins when the Galilean rebel Jesus rides into Jerusalem on a donkey, deliberately fulfilling a prophecy in the Hebrew Bible about the coming of the Messiah. [..] The next day Jesus raids the Temple, the heart of the Jewish religion, and attacks money-changers for defiling a holy place. The leaders of the Jewish establishment realise that he threatens their power, and so do the Romans, who fear that Jesus has the charisma to lead a guerrilla uprising against Imperial Rome.
+The story begins when the Galilean rebel Jesus rides into Jerusalem on
+a donkey, deliberately fulfilling a prophecy in the Hebrew Bible about
+the coming of the Messiah. [..] The next day Jesus raids the Temple,
+the heart of the Jewish religion, and attacks money-changers for
+defiling a holy place. The leaders of the Jewish establishment realise
+that he threatens their power, and so do the Romans, who fear that
+Jesus has the charisma to lead a guerrilla uprising against Imperial
+Rome.
 
-Caiaphas was a supreme political operator and one of the most influential men in Jerusalem [..]. Jesus threatened Caiaphas's authority [..]. Caiaphas' power base was the Sanhedrin, the supreme council of Jews which controlled civil and religious law [..] Sanhedrin only ruled because the Romans allowed them to and the way to keep the Romans happy was to maintain order in society. Caiaphas himself was a Roman appointment, so he needed to keep cosy with the governor, Pilate, if he wanted to stay in power and preserve his luxurious way of life.
+Caiaphas was a supreme political operator and one of the most
+influential men in Jerusalem [..]. Jesus threatened Caiaphas's
+authority [..]. Caiaphas' power base was the Sanhedrin, the supreme
+council of Jews which controlled civil and religious law [..]
+Sanhedrin only ruled because the Romans allowed them to and the way to
+keep the Romans happy was to maintain order in society. Caiaphas
+himself was a Roman appointment, so he needed to keep cosy with the
+governor, Pilate, if he wanted to stay in power and preserve his
+luxurious way of life.
 
----
 
-Then, Jesus was killed by Rome and the system they set up, not by Jews. An entire people being blamed in this way, labeled as Godkiller and such is an example of stunningly successful piece of propaganda perpetrated by the Roman Catholic Church, over hundreds of years, to shift blame from themselves, their "heritage" to another party. That someone else being a competing religion must have be an added bonus. We have to give them credit, they are very good at propaganda, and this too, they inherited from the Romans, along with a propensity for "partying" with little boys.
