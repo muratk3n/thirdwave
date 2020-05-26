@@ -1,8 +1,6 @@
 
 [Man of Steel.. And the Third Wave?](05/man-of-steel-and-third-wave.md)
 
-[Give Me My Civilization](06/give-me-my-civilization.md)
-
 [Postmodernism](07/postmodernism.md)
 
 [Discontinuity](08/discontinuity.md)
