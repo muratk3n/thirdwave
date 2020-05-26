@@ -53,7 +53,7 @@ regarded the armed struggle against Israel as the only way to liberate
 Palestine. At any given moment, Israel could have stopped the Second
 Intifada, but the army needed a show of 'success'; only when this was
 achieved through the barbaric operation of 'Defensive Shield' in 2002
-and the building of the infamous “apartheid wall” did they succeed
+and the building of the infamous 'apartheid wall' did they succeed
 temporarily in quelling the uprising"
 
 \#10myths
@@ -120,7 +120,7 @@ in the process of cleansing the population:
 >Destruction of villages (setting fire to, blowing up, and planting
  mines in the debris), especially those population centers which are
  difficult to control continuously …
-
+>
 >Mounting search and control operations according to the following
  guidelines: encirclement of the village and conducting a search
  inside it. In the event of resistance, the armed force must be
