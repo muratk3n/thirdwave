@@ -158,7 +158,7 @@ textbooks now carry the same message of the right to the land based on
 a biblical promise. According to a letter sent by the education
 ministry in 2014 to all schools in Israel: “the Bible provides the
 cultural infrastructure of the state of Israel, in it our right to the
-land is anchored.”26 Bible studies are now a crucial and expanded
+land is anchored.” Bible studies are now a crucial and expanded
 component of the curriculum—with a particular focus on the Bible as
 recording an ancient history that justifies the claim to the land. The
 biblical stories and the national lessons that can be learned from
