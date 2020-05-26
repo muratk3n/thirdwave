@@ -180,36 +180,3 @@ weighs on any moral judgment, U.S. policy in this region must
 accommodate two other basic facts. First, whatever the Israelis’
 historical claim, from a twentieth-century perspective, the Jews were
 settlers from another continent who displaced the natives.
-
----
-
-Also see Myth #3. 
-
-No wonder this issue still unresolved. Palestine is, nationally
-speaking, a superfluous entity, most neighbors are hostile or
-indifferent to them. But people's right to live there is no less real
-than Israel's. Then, and considering the power dynamics, I still
-maintain one-state solution is the way to go for Palestinians. "But
-they will be second-class citizens in Israel". Fine. Women, all sorts
-of minorities were once second-class citizens in many places, that
-situation can improve later. The key is for Palestinians to integrate
-to a well-to-do society, instead of being harassed at
-checkpoints. That is worse than being legally second-class.
-
-If Jews are too worried about losing their Jewishess, well, then keep
-election of non-Jews at local level. Mandate that all top dogs have to
-be Jew. It is already a religious / theological state no? Why not?
-During Pakistani president's swearing-in ceremony he has to put his
-hand on the good book and say "I am Moslem". It will be similar. 
-
-
-
-
-
-
-
-
-
-
-
-
