@@ -150,8 +150,6 @@
 
 [Entrepreneurship Insurance](08/entrepreneurship-insurance.md)
 
-[#mate](08/mate.md)
-
 [Movement for a People's Party](08/movement-for-peoples-party.md)
 
 [#nra](08/nra.md)
