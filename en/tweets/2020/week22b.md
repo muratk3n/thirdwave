@@ -23,16 +23,6 @@ Chinese forces cross into India-claimed territory"
 
 ---
 
-Listening to a debate between a BJP, nationalist party in India, rep
-and a lady from oppo. At some pt she angrily says, ref the Moslem
-minority, "I will not let you turn them into a bogey". She must have
-been aiming for 'boogeyman' came out that way, and with the accent it
-was funny. Good-funny.
-
-*2020-05-25 09:8:3*
-
----
-
 "Hamas became a significant player on the ground in part thanks to the
 Israeli policy of encouraging the construction of an Islamic
 educational infrastructure in Gaza as a counterbalance to the grip of
@@ -340,13 +330,13 @@ error-correction is beyond reach"
 
 <img width="340" src="https://pbs.twimg.com/media/EYwyfThWsAcBL53?format=jpg&name=small"/>
 
-*2020-05-24 13:17:58*
+*2020-05-24 14:10:58*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We could hardly believe it when we got a message from Jos Baart telling us that Europe&#39;s biggest owl, the Eurasian eagle-owl, had made a nest in a planter in front of his window. Not only that, she had also hatched three giant chicks!<a href="https://twitter.com/hashtag/vroegevogels?src=hash&amp;ref_src=twsrc%5Etfw">#vroegevogels</a> <a href="https://twitter.com/hashtag/springwatch?src=hash&amp;ref_src=twsrc%5Etfw">#springwatch</a> <a href="https://twitter.com/hashtag/owl?src=hash&amp;ref_src=twsrc%5Etfw">#owl</a> <a href="https://t.co/gz1odkFLYC">pic.twitter.com/gz1odkFLYC</a></p>&mdash; Vroege Vogels (@VroegeVogels) <a href="https://twitter.com/VroegeVogels/status/1262331156818771973?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-05-24 13:17:56*
+*2020-05-24 14:9:8*
 
 ---
 
@@ -356,12 +346,22 @@ be used for cheaper hydrogen fuel cell production"
 
 [Link](https://www.h2-view.com/story/platinum-free-catalysts-could-make-cheaper-hydrogen-fuel-cells/)
 
-*2020-05-24 13:17:53*
+*2020-05-24 14:1:1*
+
+---
+
+Listening to a debate between a BJP, nationalist party in India, rep
+and a lady from oppo. At some pt she angrily says, ref the Moslem
+minority, "I will not let you turn them into a bogey". She must have
+been aiming for 'boogeyman' came out that way, and with the accent it
+was funny. Good-funny.
+
+*2020-05-24 13:53:9*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At a time when we need hard hitting reporting more than ever, we’ve launched this new journalism project and have been breaking some solid stories. Pitch in to help us expand by becoming a supporting subscriber — and please retweet! <a href="https://t.co/bhrAPu1jlk">https://t.co/bhrAPu1jlk</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1264353479490859009?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-05-24 13:17:49*
+*2020-05-24 13:11:49*
 
 ---
