@@ -18,6 +18,8 @@
 
 [Why Gold?](../../2012/01/why-gold.md)
 
+[Princes of Mayhem](princes-of-mayhem.md)
+
 [Keen Model](../../2018/02/keen_math.md)
 
 [Exchange Rates, Current Account](../../2020/06/exch.md)
