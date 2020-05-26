@@ -12,7 +12,12 @@ millions"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chinese forces cross into India-claimed territory - <a href="https://t.co/4lZVhu5f5u">https://t.co/4lZVhu5f5u</a></p>&mdash; DEFCONWarningSystem (@DEFCONWSALERTS) <a href="https://twitter.com/DEFCONWSALERTS/status/1265094512470192129?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+"@DEFCONWSALERTS
+
+Chinese forces cross into India-claimed territory"
+
+[Link](https://twitter.com/DEFCONWSALERTS/status/1265094512470192129)
 
 *2020-05-25 09:12:5*
 
