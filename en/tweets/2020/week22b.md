@@ -137,7 +137,7 @@ control, and the confrontations with the Arab armies occurred on
 borders of these rural areas not inside them. In one case where the
 Jordanians could have helped the Palestinians, in Lydd and Ramleh, the
 British commander of the Jordanian army, Sir John Glubb, decided to
-withdraw his forces and avoided confrontation with the Israeli army.28
+withdraw his forces and avoided confrontation with the Israeli army.
 Finally, the Arab military effort was woefully ineffective and short
 lived. After some success in the first three weeks, its presence in
 Palestine was a shambolic story of defeat and hasty withdrawal. After
