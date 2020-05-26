@@ -1,4 +1,3 @@
-[Here we go..](04/here-we-go.md)
 
 [Man of Steel.. And the Third Wave?](05/man-of-steel-and-third-wave.md)
 
