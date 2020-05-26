@@ -61,16 +61,16 @@ temporarily in quelling the uprising"
 
 ---
 
-"Yet within weeks of the joint signature on the White House lawn, the
-writing was on the wall. By the end of September, the Accord’s vague
-principles had already been translated into a new geopolitical reality
-on the ground under the terms of what was called the Oslo II (or
-Taba4) agreement. This included not just partitioning the West Bank
-and the Gaza Strip between “Jewish” and “Palestinian” zones, but
-partitioning further all the Palestinian areas into small cantons or
-Bantustans. The peace cartography of 1995 amounted to a bisected
-series of Palestinian zones that resembled, in the words of quite a
-few commentators, a Swiss cheese.
+"Yet within weeks of the joint signature on the White House lawn [of
+93 Oslo Accord], the writing was on the wall. By the end of September,
+the Accord’s vague principles had already been translated into a new
+geopolitical reality on the ground under the terms of what was called
+the Oslo II (or Taba4) agreement. This included not just partitioning
+the West Bank and the Gaza Strip between “Jewish” and “Palestinian”
+zones, but partitioning further all the Palestinian areas into small
+cantons or Bantustans. The peace cartography of 1995 amounted to a
+bisected series of Palestinian zones that resembled, in the words of
+quite a few commentators, a Swiss cheese.
 
 Once this program became clear, the decline of the negotiations was
 swift"
