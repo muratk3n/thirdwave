@@ -176,11 +176,11 @@ Now that I think abt it, the Libyan mess is also Obama's 1st term.
 
 ---
 
-Likely pattern in the GINI (inequality) plot..? GINI starts getting
-worse, starting from the beginning of second Clinton term, until the
-end of 1st Bam term. It's almost a straight line from Clinton to
-Obama.  What went wrong in that 2nd Clinton term? W was a mess sure,
-but degredation continued throghout Bama's 1st term.
+Likely pattern in the GINI (inequality) plot..? Starting from the
+beginning of second Clinton term, until the end of 1st Bam term GINI
+becomes worse. It's almost a straight line from Clinton to Obama.
+What went wrong in that 2nd Clinton term? W was a mess sure, but
+degredation continued throghout Bama's 1st term.
 
 What were the changes for his 2nd term?  I know a lot of Clinton types
 were gone by then, including "the Clinton" herself, Summers, f-ing
