@@ -263,8 +263,7 @@ Ottoman Empire"
 ---
 
 Riight.. "When we arrived there was noone here". Sounds familiar..
-(in tigger case even the arrival itself that had lasting effect is a
-hoax, "the outsiders" are deluded insiders).
+(in tigger case "the outsiders" are actually deluded insiders).
 
 "Palestine was an empty land [when Jews 'came back']. In this story,
 by 1800 Palestine had become a desert, where farmers who did not
