@@ -170,6 +170,13 @@ group premises"
 
 ---
 
+Not to let Bam off the hook; whatever improved in 2nd term, it still
+wasn't enough. 
+
+*2020-05-26 15:35:1*
+
+---
+
 Now that I think abt it, the Libyan mess is also Obama's 1st term.
 
 *2020-05-26 15:34:4*
