@@ -136,6 +136,10 @@ controversy"
 
 ---
 
+It's that parallel universe story.. The moment I saw it I knew it was
+a crock. Then I waited to see who'd come down on it. Peter Woit didn't
+disappoint.
+
 "I never thought I would see this happen: a university PR department
 correcting media hype about its research. You might have noticed this
 comment here a week ago, about a flurry of media hype about neutrinos
