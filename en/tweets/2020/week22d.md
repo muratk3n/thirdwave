@@ -1,10 +1,10 @@
 # Tweets - Week 22d
 
 If you think u can parachute on the Dem nomination, u are even dumber
-than your father Fredo... And lemme tell you that guy was dumb.. He
-was mostly known for his "oratory skills". He gave an ok speech at the
-92 Dem convention, so he might have contributed to the election of
-Bill F-ing Clinton with his "oratory".
+than your father Fredo... And that guy was pretty effin dumb lemme
+tell you.. He was mostly known for his "oratory skills". He gave an ok
+speech at the 92 Dem convention, so he might have contributed to the
+election of Bill F-ing Clinton with his "oratory".
 
 *2020-05-29 14:01:16*
 
