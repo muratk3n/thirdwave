@@ -157,7 +157,7 @@ and parallel universes. ..  The main offender was New Scientist, "
 
 ---
 
-Sweet!
+Sweet
 
 "The National Science Foundation (NSF) would get a sweeping
 remake—including a new name, a huge infusion of cash, and
