@@ -219,8 +219,8 @@ releasing a 'Trank Cut'"
 ---
 
 A certain focus on essentials, deriving from base theories; this I
-usually get from Europeans. For a certain derivation, I found it on a
-book written by a Dane based on lecs in Denmark.
+usually get from Europeans. For a derivation I was looking for, I
+found it on a book written by a Dane based on lecs in Denmark. 
 
 *2020-05-27 13:57:9*
 
