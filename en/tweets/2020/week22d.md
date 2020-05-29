@@ -2,9 +2,9 @@
 
 If you think u can parachute on the Dem nomination, u are even dumber
 than your father Fredo... And lemme tell you that guy was dumb.. He
-was known for his "oratory skills", mostly. He gave an ok speech for
-92 Dem convention, so he prob contributed the election of Bill F-ing
-Clinton, with his "oratory".
+was mostly known for his "oratory skills". He gave an ok speech at the
+92 Dem convention, so he might have contributed to the election of
+Bill F-ing Clinton with his "oratory".
 
 *2020-05-29 14:01:16*
 
