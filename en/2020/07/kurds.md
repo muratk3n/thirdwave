@@ -69,6 +69,14 @@ scared, did not speak the language at home, did not mention the
 identity to him with the fear of him slipping up, didn't let their
 children know, so it went.
 
+1990s
+
+The hell of 90s.. I have friends who served in the campaigns of the
+South East, met actual shell-shocked soldiers after the war. It's not
+pretty. Sadly same errors are being repeated today, with continuous
+declerations of "we finally quashed terror", a slogan that repeats
+verbatim every 5-10 years. 
+
 2015
 
 A Kurdish party HDP led by Selahattin Demirtaş would gain >10% of the
