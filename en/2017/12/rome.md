@@ -8,3 +8,4 @@
 
 [Ghazi Warfare](../../2018/01/ghazi-warfare.md)
 
+[Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
