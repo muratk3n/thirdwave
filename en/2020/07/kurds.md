@@ -87,7 +87,7 @@ rights, strengthen localities, and be represented in the greater body
 politic. The nationalists clearly did not want this route, terror
 attacks were triggered likely by deep state actors, scaring regular
 people and voters, which raised the votes of the party in
-gov. Election was repeated in a disgusting theather of democracy,
+gov. Election was repeated in a disgusting show of phony democracy,
 which gave the gov back its majority. Since this method worked,
 trading democracy for votes in an atmosphere of scaremongering, it
 continued, even intensified resulting with the eventual jailing of
