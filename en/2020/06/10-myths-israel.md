@@ -1,6 +1,6 @@
 # 10 Myths about Israel
 
-Pappe, *10 Myths About Israel*
+By Ilan Pappe
 
 The myth insists that the Jews who arrived in 1882 were the
 descendants of the Jews expelled by the Romans around 70 CE. The
