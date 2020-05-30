@@ -75,8 +75,9 @@ The hell of 90s.. I have friends who served in the campaigns of the
 South East, met actual shell-shocked soldiers after the war. It's not
 pretty. Sadly same errors are being repeated today, with continuous
 declerations of "we finally quashed terror", a slogan that repeats
-verbatim every 5-10 years. The sin is just too great and the
-punishment will not end until one absolves self of sin. 
+verbatim every 5-10 years. The sin is just too great for that ever to
+be real, the punishment will not end until one absolves self of
+sin. The greatest sin of all, uncalled, unjustified war.
 
 2015
 
