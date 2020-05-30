@@ -262,25 +262,3 @@ Ottoman Empire"
 
 ---
 
-Riight.. "When we arrived there was noone here". Sounds familiar..
-(in TR case "the outsiders" are actually deluded insiders).
-
-"Palestine was an empty land [when Jews 'came back']. In this story,
-by 1800 Palestine had become a desert, where farmers who did not
-belong there somehow cultivated parched land that was not theirs. The
-same land appeared to be an island, with a significant Jewish
-population .. . Every passing year the land became more barren,
-deforestation increased, and farmland turned to desert. Promoted
-through an official state website this fabricated picture is
-unprecedented. ..  Quite a few [researchers], such as David Grossman
-(the demographer not the famous author), Amnon Cohen, and Yehoushua
-Ben-Arieh, have indeed successfully challenged it. Their research
-shows that, over the centuries, Palestine, rather than being a desert,
-was a thriving Arab society—mostly Muslim, predominantly rural, but
-with vibrant urban centers"
-
-\#10myths
-
-*2020-05-26 10:49:1*
-
----

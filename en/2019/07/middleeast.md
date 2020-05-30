@@ -4,6 +4,8 @@
 
 [Some Myths about the Israeli-Palestinian Conflict](../../2014/07/israeli-myths-hammond.md)
 
+[10 Myths about Israel by Pappe](../../2020/06/10-myths-israel.md)
+
 [Alex](../../2014/10/alex.md)
 
 [The Private Security State](../../2018/08/the-security-state.md)
