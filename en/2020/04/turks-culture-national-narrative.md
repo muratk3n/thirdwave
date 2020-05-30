@@ -36,6 +36,8 @@ dynamic.
 
 Everyone who came to these lands, assimilated into this culture. 
 
+<a name='identity'/>
+
 The national narrative is the more crooked part. 1923 was probably the
 worst time to found a Republic. Ethnic nationalism was on the rise,
 WWI was over, WWII was not (so Mussolini, Hitler are not around yet),
