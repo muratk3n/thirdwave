@@ -75,13 +75,14 @@ A Kurdish party HDP led by Selahattin Demirtaş would gain >10% of the
 votes, putting them in a kingmaker position. If democracy was followed
 they could extract some concessions in return for some cultural
 rights, strengthen localities, and be represented in the greater body
-politic. The nationalists refused, along with deep state actors terror
-attacks were triggered, scaring regular people and voters, which
-raised the votes of the party in gov. Election was repeated in a after
-a disgusting theather, which gave the gov back its majority. Since
-this method worked, trading democracy for votes in an atmosphere of
-scaremongering, they continued, even intensified resulting with the
-eventual jailing of Demirtaş, and many of his party members.
+politic. The nationalists clearly did not want this route, terror
+attacks were triggered likely by deep state actors, scaring regular
+people and voters, which raised the votes of the party in
+gov. Election was repeated in a after a disgusting theather, which
+gave the gov back its majority. Since this method worked, trading
+democracy for votes in an atmosphere of scaremongering, they
+continued, even intensified resulting with the eventual jailing of
+Demirtaş, and many of his party members.
 
 
 Reference
