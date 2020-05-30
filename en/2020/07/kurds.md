@@ -57,15 +57,17 @@ are tortured, whose suffering would fuel the PKK backlash many times
 over. "The hell of 90s" in terms of their counterattack would be
 fueled with the opression felt throughout the 80s.
 
-Among the regular public during this time the coup would opress even
-the mention of the word Kurd, in any publication. Growing up in this
-era I can attest; I did not even know Kurds *existed* until well in my
-teens, perhaps twenties. I laughed many years later when I heard a
-politician named Selahattin Demirtaş reported the same experience,
-this is (tragic) funny because Demirtaş himself is a Kurd!  I guess
-his parents were scared, did not speak the language at home, did not
-mention the identity to him with the fear of him slipping up, didn't
-let their children know, so it went.
+<a name='opressword'/>
+
+Among the regular public the coup would opress even the mention of the
+word Kurd, in any publication. Growing up in this era I can attest; I
+did not even know Kurds *existed* until well in my teens, perhaps
+twenties. I laughed many years later when I heard a politician named
+Selahattin Demirtaş reported the same experience, this is (tragic)
+funny because Demirtaş himself is a Kurd!  I guess his parents were
+scared, did not speak the language at home, did not mention the
+identity to him with the fear of him slipping up, didn't let their
+children know, so it went.
 
 2015
 
@@ -82,14 +84,6 @@ scaremongering, they continued, even intensified resulting with the
 eventual jailing of Demirtaş, and many of his party members.
 
 
+Reference
+
 [1] McDowall, A Modern History of the Kurds, 3rd Edition
-
-
-
-
-
-
-
-
-
-
