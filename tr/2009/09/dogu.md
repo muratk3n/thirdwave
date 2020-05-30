@@ -8,5 +8,3 @@
 
 [Kürt Bölgeleri](kurt-bolgeleri.md)
 
-
-
