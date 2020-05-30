@@ -25,23 +25,22 @@ young Kurdish student Dengir Firat reports, who did not care much of
 his ethnic origin during those days, did not speak the language, was
 from an affluent Kurdish family would see a poster one day carrying
 the words of the then President that read "whoever says I am a Kurd,
-spit on his face!". He would decide he learn Kurdish the next day, and
+spit on his face!". He would decide to learn Kurdish the next day, and
 also pursue politics shortly thereafter.
 
 1977
 
 An armed leftist terrorist organization named PKK is formed. Tho their
 roots and methods were Marxist they were largely influenced by ethnic
-encroachement by their hegemon country in their region,
-Kurdistan. From [1, pg. 421]; "It is also possible that the PKK's
-nationalism was all the more virulent because its founders sought to
-recreate an identity they felt they had lost. They were not alone:
-across the Middle East religious and ethnic groups that felt the loss
-of traditional identity through modernization or state attempts to
-homogenize society, sought to rediscover it through a revivalism that
-invoked an imaginary past. For the PKK the intensity of Kurdish
-national feeling was accentuated by the loss of spoken Kurdish among
-its founding members.
+encroachement by the hegemon country in their region, Kurdistan. From
+[1, pg. 421]; "It is also possible that the PKK's nationalism was all
+the more virulent because its founders sought to recreate an identity
+they felt they had lost. They were not alone: across the Middle East
+religious and ethnic groups that felt the loss of traditional identity
+through modernization or state attempts to homogenize society, sought
+to rediscover it through a revivalism that invoked an imaginary
+past. For the PKK the intensity of Kurdish national feeling was
+accentuated by the loss of spoken Kurdish among its founding members.
 
 In 1977 [.. they..] identified the enemies of the Kurdish people as
 the fascists (Greywolves and similar groups); agents of the state and
@@ -88,9 +87,9 @@ rights, strengthen localities, and be represented in the greater body
 politic. The nationalists clearly did not want this route, terror
 attacks were triggered likely by deep state actors, scaring regular
 people and voters, which raised the votes of the party in
-gov. Election was repeated in a after a disgusting theather, which
-gave the gov back its majority. Since this method worked, trading
-democracy for votes in an atmosphere of scaremongering, they
+gov. Election was repeated in a disgusting theather of democracy,
+which gave the gov back its majority. Since this method worked,
+trading democracy for votes in an atmosphere of scaremongering, it
 continued, even intensified resulting with the eventual jailing of
 Demirtaş, and many of his party members.
 
