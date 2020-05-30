@@ -1,4 +1,4 @@
-# Kurds
+# Kurds in Anatolia
 
 1920s
 
@@ -16,7 +16,10 @@ After 1925 Sheikh Said rebellion and subsequent reforms, by 1933 Kemal
 would utter the words *ne mutlu türküm diyene* (happy is who can say I
 am a turk) in a speech with clear subtext that ppl who could not make
 such claims would perhaps be unhappy (?) and take the last name
-Ataturk himself in 1934, cementing ethnic nationalism in TR.
+Ataturk himself in 1934, cementing ethnic nationalism in TR. The
+identity of course is a concoction of [fairy
+tales](../../2020/05/roman-anatolia.md) per the dictates of
+[nationalism](../../2013/03/nations-and-nationalism-gellner.md#invention).
 
 1960s
 
