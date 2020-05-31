@@ -98,4 +98,4 @@ Demirtaş, and many of his party members.
 
 Reference
 
-[1] McDowall, A Modern History of the Kurds, 3rd Edition
+[1] McDowall, *A Modern History of the Kurds, 3rd Edition*
