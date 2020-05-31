@@ -42,14 +42,14 @@ Not all of it bad..
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a> for sharing the story of H2OzBus bringing 100 <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> buses to Australia to enable emission-free public transit! <a href="https://twitter.com/gencell?ref_src=twsrc%5Etfw">@gencell</a> seeks to enhance this use case &amp; reduce its costs with <a href="https://twitter.com/hashtag/ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#ammonia</a>. Read more:<a href="https://t.co/s2ydRdYXfs">https://t.co/s2ydRdYXfs</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/CleanFueling?src=hash&amp;ref_src=twsrc%5Etfw">#CleanFueling</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1267109856462454785?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 *2020-05-31 19:24:43*
 
-@lizzieohreally
+---
+
+"@lizzieohreally
 
 I feel the soundtrack of last few months for New Yorkers has been
-constant sirens, just different reasons.
+constant sirens, just different reasons"
 
 *2020-05-31 19:24:41*
 
