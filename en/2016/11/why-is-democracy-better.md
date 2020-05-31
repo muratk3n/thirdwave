@@ -76,18 +76,17 @@ People do not judge candidates by looking at the totality of their
 policy positions (hmm I assign a number from 1 to 10 to each position,
 then average them all, compare both candidates,that is the likelihood
 of my vote). People are much better deciding on people, not on
-issues. On the other hand if a politicians wins, all of his or her
-policy positions are not immediately validated, since people did not
-give a shit about them. Taking the vote as a confirmation of all
-previously positions, locking them in, or thinking people are some
-kind of magical policy oracle is a fallacy. Everyone has a job to do -
-modernity is based on this. If politicians bitch and moan too loudly
-on that, we can definitely arrange that they do not have to do much of
-anything.
+issues. This also implies that a win does not validate a politician's
+all policy positions, since people mostly did not give a shit about
+them. Taking the vote as a confirmation of all previously positions,
+locking them in, or thinking people are some kind of magical policy
+oracle is a fallacy. Everyone has a job to do - modernity is based on
+the division of labor. Post-modernity could be something else, we are
+not there yet.
 
-Which election system is best? The French run-off system, being more
-demanding, and requiring bigger W, looks to be it. From BdM's The
-Dictator's Handbook:
+Which election system is best? BdM has good things to say on the
+French run-off system, being more demanding. From BdM's The Dictator's
+Handbook:
 
 "It is worth observing that the United States has one of the world’s
 biggest winning coalitions both in absolute numbers and as a
@@ -101,6 +100,17 @@ parliamentary race: half of half of the voters, or one quarter in
 total. France’s runoff system is even more demanding. Election
 requires that a candidate win a majority in the final, two-candidate
 runoff."
+
+On the other hand, another research, which looked at parliamentary vs
+presidential systems in terms of economy, came up with a different
+answer: purely parliamentary system.
+
+[Paper](https://link.springer.com/article/10.1007/s11127-018-0552-2) by McManus et al.
+
+I dont have the time to dig into this yet (to replicate it in Python)
+-- here is [the
+data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
+(from Dr. McManus).
 
 <a name='war'/>
 
@@ -121,18 +131,6 @@ more effectively and fight to finish. This makes them better
 fighters. Autocrats can hide the goings-on of a war, so they would
 never feel the pressure to finish, hence do not fight in a way that'll
 help them do so. The war drags on.
-
-Parliamentary vs Presidential System
-
-Who does better for the economy? Presidents versus parliamentary
-democracies? The answer is parliamentary system is better. See
-[paper](https://link.springer.com/article/10.1007/s11127-018-0552-2)
-by McManus et al.
-
-I dont have the time to dig into this yet (to replicate it in Python)
--- here is [the data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
-(from Dr. McManus).
-
 
 References
 
