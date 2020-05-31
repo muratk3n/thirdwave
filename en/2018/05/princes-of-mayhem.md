@@ -218,7 +218,7 @@ From Reconsidering Monetary Policy: An Empirical Examination of the
 Relationship Between Interest Rates and Nominal GDP Growth in the
 U.S., U.K., Germany and Japan
 
-https://www.sciencedirect.com/science/article/pii/S0921800916307510
+[Link](https://www.sciencedirect.com/science/article/pii/S0921800916307510)
 
 ```python
 import statsmodels.tsa.stattools as t
