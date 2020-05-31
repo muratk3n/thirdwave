@@ -5,10 +5,9 @@
 During TR's foundation there were some warm signals sent towards Kurds
 who were, at least on paper, seen as equal founders of the
 Republic. Such closeness would not be surprising since both peoples
-fought in the war of liberation and even partook in the "bad events"
-that "befell" the Armeanians in the East. But, as any astute observer
-at the time could point out, knowing the ethnic nationalistic roots of
-the new Republic and some of its most visible founders, things would
+fought in the war of liberation. But, as any astute observer at the
+time could point out, knowing the ethnic nationalistic roots of the
+new Republic and some of its most visible founders, things would
 evolve to a different point later on. Evolve to a different point they
 soon did.
 
