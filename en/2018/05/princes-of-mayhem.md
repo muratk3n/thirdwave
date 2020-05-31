@@ -94,7 +94,9 @@ $$
 
 $$ 
 \Delta (c_t + i_t + nx_t) = 
-\alpha + \beta_0 \Delta g_t + \beta_1 \Delta GDP_{t-1} + 
+\alpha + \beta_0 \Delta g_t + \beta_1 \Delta GDP_{t-1} +
+$$
+$$
 \gamma_0 \Delta C_{Rt-1} + \gamma_3 \Delta C_{Rt-2} + \epsilon_t 
 $$
 
