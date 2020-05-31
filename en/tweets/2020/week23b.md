@@ -29,8 +29,10 @@ themselves"
 
 Not all of it bad..
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">police take a knee with protesters<br>miami, fl <a href="https://t.co/D2ETA4BW1L">pic.twitter.com/D2ETA4BW1L</a></p>&mdash; kylee (@tomakeupwityou) <a href="https://twitter.com/tomakeupwityou/status/1266920442671124480?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-*2020-05-31 19:24:54*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Demonstrators &amp; Police Chiefs from Miami Dade County kneel and say a prayer following the death of <a href="https://twitter.com/hashtag/GeorgeFloyd?src=hash&amp;ref_src=twsrc%5Etfw">#GeorgeFloyd</a> <a href="https://twitter.com/wsvn?ref_src=twsrc%5Etfw">@wsvn</a> <a href="https://twitter.com/hashtag/MiamiDade?src=hash&amp;ref_src=twsrc%5Etfw">#MiamiDade</a> <a href="https://twitter.com/hashtag/7News?src=hash&amp;ref_src=twsrc%5Etfw">#7News</a> <a href="https://twitter.com/hashtag/wsvn?src=hash&amp;ref_src=twsrc%5Etfw">#wsvn</a> <a href="https://twitter.com/OfficialJoelF?ref_src=twsrc%5Etfw">@OfficialJoelF</a> <a href="https://t.co/TurQB2C36y">pic.twitter.com/TurQB2C36y</a></p>&mdash; Franklin White (@FranklinWSVN) <a href="https://twitter.com/FranklinWSVN/status/1266863303978074112?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*2020-05-31 19:25:1*
 
 ---
 
