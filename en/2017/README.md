@@ -214,7 +214,7 @@
 
 [Buffett: Single-Payer](09/buffett-single-payer.md)
 
-[Education](09/education.md)
+[Education, Workplace](09/education-workplace.md)
 
 [The Uninhabitable Earth](09/forget-asteroids.md)
 
