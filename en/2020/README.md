@@ -12,8 +12,6 @@
 
 [Turks, Culture, National Narrative](04/turks-culture-national-narrative.md)
 
-[Roman "Turks"](05/roman-anatolia.md)
-
 [Exchange Rates](06/exch.md)
 
 [Power](06/power.md)
