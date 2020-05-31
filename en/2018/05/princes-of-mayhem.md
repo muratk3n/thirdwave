@@ -87,7 +87,9 @@ $$ \Delta GDP_t = - \Delta GDP_{t-1} + \Delta C_{Rt-1} + \Delta C_{Rt-2}  $$
 Assign coefficients
 
 $$ \Delta GDP_t = 
-\alpha + \beta_1 \Delta GDP_{t-1} + 
+\alpha + \beta_1 \Delta GDP_{t-1} +
+$$
+$$
 \gamma_0 \Delta C_{Rt-1} + \gamma_3 \Delta C_{Rt-2} + \epsilon_t 
 $$
 
