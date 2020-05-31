@@ -91,15 +91,6 @@ You don't know what ur [talking about](https://muratk3n.github.io/thirdwave/en/2
 
 ---	    
 
-"@inteldotwav
-
-NATIONAL GUARD UNABLE TO MAINTAIN CONTROL IN MINNEAPOLIS AND IS
-PREPARING TO LEAVE (per scanner)"
-
-*2020-05-30 16:42:31*
-
----
-
 "@bartbiebuyck
 
 Seven European countries ministers are expressing their joint support
