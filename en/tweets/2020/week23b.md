@@ -140,7 +140,7 @@ cast suspicion on Black protestors. If you pushed the infantilizing
 
 ---
 
-If u paid attn to the man instead of shouting him down u'd me in much
+If u paid attn to the man instead of shouting him down u'd be in much
 pos today wouldnt you? \#cap
 
 *2020-05-31 11:48:9*
