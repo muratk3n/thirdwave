@@ -61,18 +61,6 @@ constant sirens, just different reasons"
 
 ---
 
-"@evanmcmurry
-
-MORE: Biden leads by 56-39% among registered independents, often a
-swing group in presidential elections; that’s shifted from a dead heat
-among independents two months ago"
-
-[Link](http://abcn.ws/3eAvZl3)
-
-*2020-05-31 19:24:35*
-
----
-
 "@StevieOakley
 
 I bet Canada feels like they live in the Apartment above a Meth Lab
