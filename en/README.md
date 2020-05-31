@@ -35,13 +35,11 @@ despite the best efforts of people working in them.
 
 [The Fundamentals of Industrial Ideologies](/2011/04/fundamentals-of-industrial-ideologies.md)
 
-[Education](2017/09/education.md)
+[Education, Workplace](2017/09/education-workplace.md)
 
 [Patents](/2018/09/patents.md)
 
 [War on Drugs](/2019/11/war-on-drugs.md)
-
-[The Fabric of Creativity](/2012/05/fabric-of-creativity.md)
 
 [Religion](/2015/04/god-religion.md)
 
