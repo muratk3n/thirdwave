@@ -189,12 +189,6 @@ violence: all 'terrorism.'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This was to be an apartment complex at the old Rainbow grocery store site in Minneapolis, an already-expensive city with the worst housing disparities by race in the United States. By a lot.<br><br>The protesters know what they&#39;re doing. <a href="https://t.co/zI9wC2dINW">https://t.co/zI9wC2dINW</a></p>&mdash; Douglas Williams (@ClassHuggle) <a href="https://twitter.com/ClassHuggle/status/1266232340189192192?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-29 21:40:59*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean hydrogen is one of the top priorities in our energy transition. Europe is, and can remain, a world leader if we get our investments right. <a href="https://twitter.com/hashtag/GreenRecovery?src=hash&amp;ref_src=twsrc%5Etfw">#GreenRecovery</a> <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> <a href="https://t.co/rsryiQGChP">pic.twitter.com/rsryiQGChP</a></p>&mdash; Frans Timmermans (@TimmermansEU) <a href="https://twitter.com/TimmermansEU/status/1265944672519798784?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-05-29 20:55:55*
