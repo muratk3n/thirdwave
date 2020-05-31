@@ -86,11 +86,10 @@ $$ \Delta GDP_t = - \Delta GDP_{t-1} + \Delta C_{Rt-1} + \Delta C_{Rt-2}  $$
 
 Assign coefficients
 
-$$ \Delta GDP_t = 
-\alpha + \beta_1 \Delta GDP_{t-1} +
+$$ \Delta GDP_t = \alpha + \beta_1 \Delta GDP_{t-1} + \gamma_0 \Delta C_{Rt-1} + 
 $$
 $$
-\gamma_0 \Delta C_{Rt-1} + \gamma_3 \Delta C_{Rt-2} + \epsilon_t 
+\gamma_3 \Delta C_{Rt-2} + \epsilon_t 
 $$
 
 $$ 
@@ -163,7 +162,12 @@ $$ \log \left( \frac{P_2}{P_1} \right) =
 \log \left( \frac{V_2}{V_1} \right) 
 $$
 
-$$    = \log(M_2) - \log(M_1) + \log(Y_1) - \log(Y_2)  + \log(V_2) - \log(V_1) $$
+$$
+= \log(M_2) - \log(M_1) + \log(Y_1) - \log(Y_2)  + 
+$$
+$$
+\log(V_2) - \log(V_1)
+$$
 
 Drop V differences bcz if V's are costant, that diff is a constant as well. 
 
