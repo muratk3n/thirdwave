@@ -432,8 +432,6 @@
 
 [Basin Titanige Benziyor](10/basin-titanige-benziyor.md)
 
-[Bizim Roma](10/bizim-roma.md)
-
 [Burokrasi / Medya Kompleksi](10/burokrasi-medya-kompleksi.md)
 
 [Demeclerin arkasındaki sır perdesi](10/demeclerin-arkasindaki-sir-perdesi.md)
