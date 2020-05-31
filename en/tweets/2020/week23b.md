@@ -102,7 +102,7 @@ Sleeping Satellite - Tasmin Archer \#music
 The race problems due to pol brutality and ppl wondering how to fix it
 always reminds me that joke with patient going to doctor saying 'Doc
 it hurts when I move my arm this way'. What does the doctor say?  Tho
-flippant it may be that's ur answer.
+flippant that's the answer.
 
 ---
 
@@ -140,13 +140,13 @@ ultimately helped secure the legislation’s passage"
 
 ---
 
-@kthalps
+"@kthalps
 
 The \#Russiagate narrative fosters brain worms, & anti-liberal group
-think & reverence of "intelligence community." & it's weaponized to
+think & reverence of 'intelligence community.' & it's weaponized to
 cast suspicion on Black protestors. If you pushed the infantilizing
-"Russians tricked Black people" narrative you helped do this
-\#GeorgeFloyd
+'Russians tricked Black people' narrative you helped do this
+\#GeorgeFloyd"
 
 *2020-5-31 13:18:26*
 
