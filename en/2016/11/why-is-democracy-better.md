@@ -72,6 +72,8 @@ has can only be based on existing accomplishments (through these
 general variables), that's why the vote is based incumbent, i.e. the
 person on whom people have the best available data.
 
+<a name='policy'/>
+
 People do not judge candidates by looking at the totality of their
 policy positions (hmm I assign a number from 1 to 10 to each position,
 then average them all, compare both candidates,that is the likelihood
