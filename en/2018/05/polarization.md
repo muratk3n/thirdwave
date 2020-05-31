@@ -98,31 +98,8 @@ The Clinton Presidency was an important marker in history then?
 
 Of course
 
-This was the first Democratic president after the fall of the Berlin Wall. Everyone watched closely what they would do.. Dems started something with him, I guess it is fitting that era ending with another Clinton.
-
-
-Question
-
-Outside of the Civil War, has the US ever been so divided?
-
-Yes
-
-Immediately after the civil war the president was assassinated allowing his vice-president and actual worst US president ever to take over and then pardon most of the confederates and allow American apartheid to continue
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This was the first Democratic president after the fall of the Berlin
+Wall. Everyone watched closely what they would do.. Dems started
+something with him, I guess it is fitting that era ending with another
+Clinton.
 
