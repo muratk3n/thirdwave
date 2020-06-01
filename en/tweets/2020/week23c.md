@@ -284,6 +284,8 @@ transitions, we are talking about the clean energy transitions. Hence,
 investment in hydrogen, carbon capture, and storage will be critically
 important'"
 
+[Link](https://energy.economictimes.indiatimes.com/amp/news/renewable/wont-take-long-for-clean-energy-investments-to-rebound-fatih-birol-iea/76072687)
+
 *2020-05-31 22:02:4*
 
 ---
