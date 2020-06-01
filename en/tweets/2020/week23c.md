@@ -136,20 +136,9 @@ are free Palestine supporters"
 
 ---
 
-"@ThisGuyGetsLit
-
-Hey guys. President and CEO of Antifa here. I tried to change our name
-to avoid the presidents classification as a terrorist group, but the
-name I chose was al-Nusra Front and then the CIA immediately gave us
-500 BGM-TOW antitank missiles and 2 Bearcats. I regret the error"
-
-*2020-05-31 22:05:1*
-
----
-
 "@H2Bjorn
 
-Fathi Birol said, '...We are not talking about the clean electricity
+Fatih Birol said, '...We are not talking about the clean electricity
 transitions, we are talking about the clean energy transitions. Hence,
 investment in hydrogen, carbon capture, and storage will be critically
 important'"
@@ -228,14 +217,6 @@ It's time. Almost three years after Charlottesville, the Rizzo statue
 will come down - and the fight for greater justice must continue"
 
 *2020-05-31 21:26:39*
-
----
-
-"Rumsfeld: Looting is transition to freedom"
-
-[Link](https://www.upi.com/Defense-News/2003/04/11/Rumsfeld-Looting-is-transition-to-freedom/63821050097983/)
-
-*2020-05-31 21:25:36*
 
 ---
 
