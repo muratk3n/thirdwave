@@ -194,13 +194,6 @@ data. A thread"
 
 ---
 
-That song was one old-skool rap... Good rhymes, but boring notes. I
-almost prefer mumble rap. Foh dat biih..
-
-*2020-05-31 21:28:1*
-
----
-
 "@HelenGymPHL
 
 It's time. Almost three years after Charlottesville, the Rizzo statue
@@ -286,6 +279,7 @@ NWA"
 *2020-05-31 21:27:41*
 
 ---
+
 
 "Rumsfeld: Looting is transition to freedom"
 
