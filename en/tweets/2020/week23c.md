@@ -182,18 +182,6 @@ weaponry to local police departments"
 
 ---
 
-"@samswey
-
-For those who are interested in research-based solutions to stop
-police violence, here’s what you need to know - based on the facts and
-data. A thread"
-
-[Link](https://twitter.com/samswey/status/1180655701271732224)
-
-*2020-05-31 21:29:53*
-
----
-
 "@HelenGymPHL
 
 It's time. Almost three years after Charlottesville, the Rizzo statue
