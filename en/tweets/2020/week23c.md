@@ -201,16 +201,6 @@ almost prefer mumble rap. Foh dat biih..
 
 ---
 
-"@ZakkFlash
-
-Somebody stole an encrypted Chicago police radio and is disrupting
-their communications by blasting 'Fuck the Police' by the legendary
-NWA"
-
-*2020-05-31 21:27:41*
-
----
-
 "@HelenGymPHL
 
 It's time. Almost three years after Charlottesville, the Rizzo statue
@@ -294,15 +284,6 @@ their communications by blasting 'Fuck the Police' by the legendary
 NWA"
 
 *2020-05-31 21:27:41*
-
----
-
-"@HelenGymPHL
-
-It's time. Almost three years after Charlottesville, the Rizzo statue
-will come down - and the fight for greater justice must continue"
-
-*2020-05-31 21:26:39*
 
 ---
 

@@ -178,12 +178,3 @@ of 1071 AD. Whatever number of ppl arrived, were little in numbers, and
 melted away in the existing population.
 
 
-
-
-
-
-
-
-
-
-
