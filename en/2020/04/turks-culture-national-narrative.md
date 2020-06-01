@@ -171,9 +171,9 @@ Population of Asia Minor from Demography, Part 1 by Vinogradov
 
 As is seen the population hovers mostly around 7 million, it was 8
 million at 1025, 7.2 million on 1300, 7 million 1500... There is no
-noticable effect of people arriving here. Whatever number arrived,
-were little in numbers, and melted away in the existing
-population.
+noticable effect of people arriving here, especially at the famed date
+1071. Whatever number of ppl arrived, were little in numbers, and
+melted away in the existing population.
 
 
 
