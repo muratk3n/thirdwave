@@ -233,7 +233,7 @@ name I chose was al-Nusra Front and then the CIA immediately gave us
 
 "@H2Bjorn
 
-Fathi Birol said, '...We are not talking about the clean electricity
+Fatih Birol said, '...We are not talking about the clean electricity
 transitions, we are talking about the clean energy transitions. Hence,
 investment in hydrogen, carbon capture, and storage will be critically
 important'"
