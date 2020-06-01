@@ -161,3 +161,27 @@ certain levels of autonomy. And these people lived through Hitler! The
 identity needs to be something that signifies *the place*, instead of
 an oddball ethnicity, distant past that noone can truly define.
 
+Addendums
+
+<a name='population'/>
+
+Population of Asia Minor from Demography, Part 1 by Vinogradov
+
+![](pop-asia-minor.png)
+
+As is seen the population hovers mostly around 7 million, it was 8
+million at 1025, 7.2 million on 1300, 7 million 1500... There is no
+noticable effect of people arriving here. Whatever number arrived,
+were little in numbers, and melted away in the existing
+population.
+
+
+
+
+
+
+
+
+
+
+
