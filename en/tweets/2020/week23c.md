@@ -85,13 +85,6 @@ question. See above.
 
 ---
 
-Trump was never the guy to calm things down. He was the agent of chaos
-himself.. But I dont think that's the US Presidency.
-
-*2020-06-01 7:41:49*
-
----
-
 "@uncrushedvelvet
 
 a government that can’t mobilize to house and feed us during a
