@@ -7,8 +7,8 @@
 ---
 
 I have two other methods to run that difference, significance check,
-and probably dig up a third. Interested parties need to learn this
-shit before talking shop on cause and effect.
+and could probably dig up a third. Interested parties need to learn
+this shit before talking shop on cause and effect.
 
 *2020-06-01 12:08:38*
 
@@ -76,7 +76,7 @@ numbers are different. So impeachement helped Trump by 2% points.
 
 ---
 
-Look at the data and run statistical tests to answer that
+One needs to look at the data and run statistical tests to answer that
 question. See above.
 
 "Impeachement hurt Trump"
