@@ -244,17 +244,6 @@ important'"
 
 ---
 
-@justinamash
-
-“No justice, no peace.” Is this a threat? A call to violence? No. It
-is an acknowledgment that without justice, peace is illusory. There is
-no state of peace in a society that condones injustice. The victims of
-such injustice, though they may remain silent, do not live in peace.
-
-*2020-05-31 21:59:1*
-
----
-
 [Revelation 17](https://www.biblegateway.com/passage/?search=Revelation+17&version=NIV)
 
 >The seven heads are seven hills on which the woman sits. They are
