@@ -136,17 +136,6 @@ are free Palestine supporters"
 
 ---
 
-"@H2Bjorn
-
-Fatih Birol said, '...We are not talking about the clean electricity
-transitions, we are talking about the clean energy transitions. Hence,
-investment in hydrogen, carbon capture, and storage will be critically
-important'"
-
-*2020-05-31 22:02:4*
-
----
-
 "@justinamash
 
 'No justice, no peace.' Is this a threat? A call to violence? No. It
