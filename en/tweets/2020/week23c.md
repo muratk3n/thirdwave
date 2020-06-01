@@ -266,7 +266,7 @@ days.
 
 ---
 
-I bet [you can't]("@ThisGuyGetsLit
+"@ThisGuyGetsLit
 
 Hey guys. President and CEO of Antifa here. I tried to change our name
 to avoid the presidents classification as a terrorist group, but the
