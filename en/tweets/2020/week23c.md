@@ -92,20 +92,20 @@ himself.. But I dont think that's the US Presidency.
 
 ---
 
-@uncrushedvelvet
+"@uncrushedvelvet
 
 a government that can’t mobilize to house and feed us during a
 pandemic but can mobilize to beat us whenever we rise up tells you
-exactly where their priorities are
+exactly where their priorities are"
 
 *2020-06-01 7:41:46*
 
 ---
 
-@tobaccodad
+"@tobaccodad
 
 There's a neo Nazi serving life plus 400 years for doing exactly what
-I've seen multiple videos of cops doing in different cities right now
+I've seen multiple videos of cops doing in different cities right now"
 
 *2020-05-31 22:12:3*
 
