@@ -253,19 +253,6 @@ protester. \#DallasProtests"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Salt Lake City cops shove down an elderly man with a cane for the crime of standing along the street: <a href="https://t.co/PCLkHqQtJg">pic.twitter.com/PCLkHqQtJg</a></p>&mdash; Timothy Burke (@bubbaprog) <a href="https://twitter.com/bubbaprog/status/1266908354821206016?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-31 21:23:29*
-
----
-
-Man I feel for Americans.. Getting hit from all directions these
-days.
-
-*2020-05-31 21:22:26*
-
----
-
 "@ThisGuyGetsLit
 
 Hey guys. President and CEO of Antifa here. I tried to change our name
