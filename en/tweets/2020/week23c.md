@@ -172,16 +172,6 @@ politics. Guy is talking about Rome in disguise, straight up.
 
 ---
 
-"@brianschatz
-
-I will be introducing an amendment to the National Defense
-Authorization Act to discontinue the program that transfers military
-weaponry to local police departments"
-
-*2020-05-31 21:58:6*
-
----
-
 "@HelenGymPHL
 
 It's time. Almost three years after Charlottesville, the Rizzo statue
@@ -212,20 +202,6 @@ important'"
 [Link](https://energy.economictimes.indiatimes.com/amp/news/renewable/wont-take-long-for-clean-energy-investments-to-rebound-fatih-birol-iea/76072687)
 
 *2020-05-31 22:02:4*
-
----
-
-[Revelation 17](https://www.biblegateway.com/passage/?search=Revelation+17&version=NIV)
-
->The seven heads are seven hills on which the woman sits. They are
->also seven kings. Five have fallen, one is, the other has not yet
->come; but when he does come, he must remain for only a little
->while.  The beast who once was, and now is not, is an eighth king
-
-Daaaaam. Like I said religion is politics, and is against Roman
-politics. Guy is talking about Rome, straight up.
-
-*2020-05-31 21:58:45*
 
 ---
 
