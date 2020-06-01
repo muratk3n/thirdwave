@@ -163,9 +163,11 @@ an oddball ethnicity, distant past that noone can truly define.
 
 Addendums
 
-<a name='population'/>
+Population
 
-Population of Asia Minor from Demography, Part 1 by Vinogradov
+Population of Asia Minor from Demography, Part 1 by Vinogradov,
+
+<a name='population'/>
 
 ![](pop-asia-minor.png)
 
