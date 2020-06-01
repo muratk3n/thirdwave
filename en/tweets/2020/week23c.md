@@ -239,20 +239,6 @@ will come down - and the fight for greater justice must continue"
 
 ---
 
-Bloody hell.. Looks bad
-
-"@KevinRKrause
-
-She says she was walking home with her groceries when police fired
-some sort of pellet in her face. Says she’s not a
-protester. \#DallasProtests"
-
-[Link](https://mobile.twitter.com/KevinRKrause/status/1266898396339675137)
-
-*2020-05-31 21:24:31*
-
----
-
 "@ThisGuyGetsLit
 
 Hey guys. President and CEO of Antifa here. I tried to change our name
