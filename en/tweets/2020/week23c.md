@@ -177,7 +177,7 @@ such injustice, though they may remain silent, do not live in peace.
 >while.  The beast who once was, and now is not, is an eighth king
 
 Daaaaam. Like I said religion is politics, and is against Roman
-politics. Guy is talking about Rome, straight up.
+politics. Guy is talking about Rome in disguise, straight up.
 
 *2020-05-31 21:58:45*
 
