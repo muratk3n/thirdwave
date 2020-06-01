@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+1/6 - [Tweets - Week 23c](/tweets/2020/week23c.md)
+
 31/5 - [Tweets - Week 23b](/tweets/2020/week23b.md)
 
 31/5 - [Tweets - Week 23a](/tweets/2020/week23a.md)
