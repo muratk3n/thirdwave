@@ -43,7 +43,7 @@ thousand, and patterns of massive overkill everywhere ...
 Police are trained to behave like occupiers, which is why they
 increasingly dress like they’ve been sent to clear houses in Mosul"
 
-https://taibbi.substack.com/p/where-did-policing-go-wrong
+[Link](https://taibbi.substack.com/p/where-did-policing-go-wrong)
 
 ---
 
