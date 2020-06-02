@@ -1,6 +1,6 @@
 # Tweets - Week 23d
 
-Cafe is nearly empty. I'd pay fricking extra for everything to have
+Cafe is nearly empty. I'd pay fricking extra for every place to have
 this level of sparseness all the time.
 
 *2020-06-02 12:19:58*
