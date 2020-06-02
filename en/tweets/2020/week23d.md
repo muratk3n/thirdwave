@@ -18,11 +18,11 @@ confused themselves.
 
 I wonder if gov can "embed" social workers in every pol patrol. These
 workers wld have completely diff training, wout guns, be there in
-every situation. I'd give them some serious pull like a a few demerits
+every situation. I'd give them some serious pull like a few demerits
 from them sends u straight to IA. I'd setup a complete seperate
 hierarchy for them, seperate from Mayor.
 
-If police is acting too dug as we keep seeing, w bunker mentality,
+If police is acting too dug in as we keep seeing, w bunker mentality,
 can't reform, u need to crack open that wall let fresh eyes inside.
 
 Two seperate hierarchies are actually used in some gov / militaries to
