@@ -28,10 +28,10 @@ prevent junta formation.
 
 ---
 
-"The early American police forces evolved out of slave patrols in the
-South, and “progressed” to enforce the Black Codes from the Civil War
-period and beyond, on to Jim Crow through the late sixties if not
-longer. ...
+Taibbi: "The early American police forces evolved out of slave
+patrols in the South, and “progressed” to enforce the Black Codes from
+the Civil War period and beyond, on to Jim Crow through the late
+sixties if not longer. ...
 
 Because they’re constantly throwing those people against walls, ..
 modern cops correctly perceive that they’re hated. As a result, many
