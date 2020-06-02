@@ -24,7 +24,7 @@ If police is acting too dug as we keep seeing, w bunker mentality,
 can't reform, u need to crack open that wall let fresh eyes inside.
 
 Two seperate hierarchies are actually used in some gov / militaries to
-prevent junta formation.
+prevent junta formations.
 
 ---
 
