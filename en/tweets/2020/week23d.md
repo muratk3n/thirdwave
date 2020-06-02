@@ -12,6 +12,8 @@ confused themselves.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What the hell? <a href="https://t.co/zbAuvkjJJV">pic.twitter.com/zbAuvkjJJV</a></p>&mdash; Las Vegas Locally 🌴 (@LasVegasLocally) <a href="https://twitter.com/LasVegasLocally/status/1267210841595604992?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+*2020-06-02 10:1:34*
+
 ---
 
 I wonder if gov can "embed" social workers in every pol patrol. These
@@ -25,6 +27,8 @@ can't reform, u need to crack open that wall let fresh eyes inside.
 
 Two seperate hierarchies are actually used in some gov / militaries to
 prevent junta formations.
+
+*2020-06-02 09:6:7*
 
 ---
 
@@ -44,6 +48,8 @@ Police are trained to behave like occupiers, which is why they
 increasingly dress like they’ve been sent to clear houses in Mosul"
 
 [Link](https://taibbi.substack.com/p/where-did-policing-go-wrong)
+
+*2020-06-02 08:56:17*
 
 ---
 
