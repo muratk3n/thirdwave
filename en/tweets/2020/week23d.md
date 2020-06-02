@@ -20,8 +20,8 @@ every situation. I'd give them some serious pull like a a few demerits
 from them sends u straight to IA. I'd setup a complete seperate
 hierarchy for them, seperate from Mayor.
 
-If police is acting too dug in like this, w bunker mentality, can't
-reform, u need to crack open that wall let fresh eyes inside.
+If police is acting too dug as we keep seeing, w bunker mentality,
+can't reform, u need to crack open that wall let fresh eyes inside.
 
 Two seperate hierarchies are actually used in some gov / militaries to
 prevent junta formation.
