@@ -41,8 +41,6 @@ approach exploits these second, third and higher order differences to
 create measures that approximate the amount of productive knowledge
 held in each of these countries.
 
-Nice
-
 Hidalgo is a statistical physicist, who also wrote *Why Information
 Grows*. He uses a country's diversity of exported products as a
 stand-in for the knowledge networks present in that country. He then
@@ -127,13 +125,16 @@ and I found it largely persuasive [..]
 Economic order comes about through information embodied in things
 (‘crystallised imagination’) [..]
 
-Exactly
-
 It's all about information. Nowadays knowledge constitutes a bigger
 chunk of all products, the economy runs on information. This is a
 radical departure from industrial age when unskilled labor was a major
 input into the economy. The entire 3W canon aims to dissect the
 repercussions of this fact.
+
+Here is another [paper](../../2020/07/austerity.md) that says
+"moreover, it seems that trade openness and population growth do not
+have a statistically significant impact on growth"
+
 
 
 
