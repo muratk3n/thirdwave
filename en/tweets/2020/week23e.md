@@ -60,7 +60,7 @@ of hundreds of black, poor and working-class people"
 
 ---
 
-That is the shit.. Mix of red pepper, aubergine.. Bosnian style
+This is the shit.. Mix of red pepper, aubergine.. Bosnian style
 
 <img width="240" src="https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/09035764/09035764-18bf40.jpg"/>
 
