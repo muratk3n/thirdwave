@@ -66,7 +66,7 @@ That is the shit.. Mix of red pepper, aubergine.. Bosnian style
 
 ---
 
-Yes do it. F#%k history. Of any kind.
+Yes do it. F#%k history. 
 
 "Adolf Hitler house to be 'neutralised', Austria says.  The government
 unveils plans to turn Adolf Hitler's birthplace into a police station"
