@@ -24,7 +24,7 @@ minutes compared to just 20 minutes with its battery power pack.”
 
 ---
 
-This is mental. Good stuff \#dirtyLoops
+This is mental. Good stuff 
 
 Dirty Loops - Work Shit Out \#music
 
