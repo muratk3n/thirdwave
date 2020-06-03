@@ -18,17 +18,17 @@ minutes compared to just 20 minutes with its battery power pack.”
 
 ---
 
-"Biden's Proposals for Police Reform Include Banning Chokeholds and 'Weapons of War' for Cops"
+"Sanders unveils proposal for massive overhaul of criminal justice system"
 
-[Link](https://www.newsweek.com/bidens-proposals-police-reform-include-banning-chokeholds-weapons-war-cops-1508158)
+[Link](https://www.politico.com/story/2019/08/18/bernie-sanders-criminal-justice-overhaul-proposal-1466995)
 
 *2020-06-03 09:30:1*
 
 ---
 
-"Sanders unveils proposal for massive overhaul of criminal justice system"
+"Biden's Proposals for Police Reform Include Banning Chokeholds and 'Weapons of War' for Cops"
 
-[Link](https://www.politico.com/story/2019/08/18/bernie-sanders-criminal-justice-overhaul-proposal-1466995)
+[Link](https://www.newsweek.com/bidens-proposals-police-reform-include-banning-chokeholds-weapons-war-cops-1508158)
 
 *2020-06-03 09:25:2*
 
