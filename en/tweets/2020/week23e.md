@@ -8,13 +8,29 @@ A retrospectively fitted 2.4kW mounted onto a DJI M600PRO frame with a
 9L 300Bar hydrogen cylinder, could achieve a flight time of over 80
 minutes compared to just 20 minutes with its battery power pack.”
 
-*2020-06-03 09:23:37*
+*2020-06-03 09:43:37*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">UK-based <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> engineering company <a href="https://twitter.com/intellenergy?ref_src=twsrc%5Etfw">@intellenergy</a> has established a formal distribution agreement with Korean-based <a href="https://twitter.com/hashtag/UAV?src=hash&amp;ref_src=twsrc%5Etfw">#UAV</a> solutions company <a href="https://twitter.com/hashtag/HogreenAir?src=hash&amp;ref_src=twsrc%5Etfw">#HogreenAir</a>.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/WRI29dn0ha">https://t.co/WRI29dn0ha</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1267839008140386304?ref_src=twsrc%5Etfw">June 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-06-03 09:23:35*
+*2020-06-03 09:43:35*
+
+---
+
+"Biden's Proposals for Police Reform Include Banning Chokeholds and 'Weapons of War' for Cops"
+
+[Link](https://www.newsweek.com/bidens-proposals-police-reform-include-banning-chokeholds-weapons-war-cops-1508158)
+
+*2020-06-03 09:30:1*
+
+---
+
+"Sanders unveils proposal for massive overhaul of criminal justice system"
+
+[Link](https://www.politico.com/story/2019/08/18/bernie-sanders-criminal-justice-overhaul-proposal-1466995)
+
+*2020-06-03 09:25:2*
 
 ---
 
