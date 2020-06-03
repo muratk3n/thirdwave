@@ -18,4 +18,6 @@
 
 [Crashed by Tooze](06/tooze-crashed.md)
 
+[Austerity](07/austerity.md)
+
 
