@@ -108,12 +108,12 @@ Wasnt sure guy was playing but rest of the thread suggests he might be serious
 
 ---
 
-@kevinbaker
+"@kevinbaker
 
 I don't think you can count on mayors and city councils to do the
 right thing, so the trick is going to be making them more afraid of
 protests than they are of cops and cop unions. There's evidence that
-this is already starting to happen in some cities.
+this is already starting to happen in some cities"
 
 *2020-06-04 07:25:59*
 
