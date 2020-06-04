@@ -54,8 +54,8 @@ fuelling stations"
 
 ---
 
-Yeah. Someone up the chain dropped the ball so we still study all of
-that up in this mot..f..ka.
+Yeah. Someone up the chain dropped the ball here so we still study all
+of that up in this mot..f..ka.
 
 (2nd US Prez) John Adams: "I must study politics and war that my sons
 may have liberty to study mathematics and philosophy. My sons ought to
