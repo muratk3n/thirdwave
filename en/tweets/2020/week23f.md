@@ -176,8 +176,9 @@ aren't connected to an app or the internet"
 
 ---
 
-I've taken to saying made-up bad guy lines from Bond movies... My
-latest: "Your intransigence is perplexing Mr. Bond".
+I've taken to saying made-up bad guy lines from Bond movies with that
+generic accent... My latest: "Your intransigence is perplexing
+Mr. Bond".
 
 That could be a good line.. 
 
