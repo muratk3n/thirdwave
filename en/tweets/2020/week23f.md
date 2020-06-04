@@ -246,8 +246,8 @@ countries.  The United States moves on and flourishes"
 ---
 
 Mountains are natural borders. Why do Indians and the Chinese look so
-differently even tho they are neighbors? I believe these peoples were
-isolated from one another for a long time. It's tough to have an
+different even tho they are neighbors? I believe these peoples were
+isolated from one another for a long time. It's tough to have
 interactions, or war over those mountains. CH seems to be trying very
 hard at that Pangong lake in Ladakh tho.
 
