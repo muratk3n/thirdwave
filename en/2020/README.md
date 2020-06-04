@@ -20,4 +20,6 @@
 
 [Austerity](07/austerity.md)
 
+[Rome by Rifkin](07/rome-rifkin.md)
+
 
