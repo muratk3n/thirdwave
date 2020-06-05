@@ -177,8 +177,18 @@ noticable effect of people arriving here, especially at the famed date
 of 1071 AD. Whatever number of ppl arrived, were little in numbers, and
 melted away in the existing population.
 
-A recent research
-[concludes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
-biologically only 9% of genetic structure (95% CI 7-11) of today's
-Anatolia is Central Asian.
+<a name='gene'/>
 
+A recent research [concludes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
+biologically only 9% of genetic structure (95% CI 7-11) of today's
+Anatolia is Central Asian. This fits to other numbers, if we consider
+the nationalist claim a 1071 war after migrants settled in Anatolia,
+TR side had maximum 80K troops, assuming hailing from familities of
+avg of 5-6, roughly arriving half a million. Anatolia at this point
+already had 7-8 million.
+
+There are claims of 1 million, but if we follow them to their original
+source, we reach B. Lewis, an historian oddball who is a TR
+nationalist (but American), married to an Otto female royalty (whose
+family fled TR, settled in UK after being kicked out by Kemal). Lewis
+is also an avid Armenian Holocoust denier.
