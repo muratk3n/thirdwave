@@ -46,18 +46,6 @@ achievements attributed to the Romans themselves. Now, however, we are
 beginning to realize that the story of a descent from the light of
 Rome to the darkness of Barbarian dominion is completely false ...
 
-The sacks of Rome by the Goths and Vandals were not great acts of
-destruction. The Goths destroyed only one building, the Vandals none
-at all. Both were armies of Christians. But the Roman Empire itself
-had already adopted a particular form of Christianity – Catholicism –
-and, being Rome, it was trying to impose this form of the religion on
-everyone else. The Catholic Church triumphed, and – again in the great
-Roman tradition – did all it could to remake people and history as it
-wanted them. The Church decided which documents would survive and
-which would not: all our sources come to us from medieval Catholic
-copyists. So again, our picture of the past has been given to us in a
-very particular way ...
-
 What we know of Celtic law comes from the Irish Brehon Laws, the rules
 of a legal system of self-help without courts or police, and which
 depended on communal respect. These laws respect individuals more than
@@ -105,6 +93,38 @@ killing them. The word for property in slaves [mancipia] is derived
 from the fact that they are captured from the enemy by force of arms
 [manu capiuntur]' ...
 
+The sacks of Rome by the Goths and Vandals were not great acts of
+destruction. The Goths destroyed only one building, the Vandals none
+at all. Both were armies of Christians. But the Roman Empire itself
+had already adopted a particular form of Christianity – Catholicism –
+and, being Rome, it was trying to impose this form of the religion on
+everyone else. The Catholic Church triumphed, and – again in the great
+Roman tradition – did all it could to remake people and history as it
+wanted them. The Church decided which documents would survive and
+which would not: all our sources come to us from medieval Catholic
+copyists. So again, our picture of the past has been given to us in a
+very particular way ...
 
+The Catholic version of Jesus, with the same nature as God himself,
+was a kind of transcendent emperor. A mosaic in the apse of the church
+of Santa Pudenziana in Rome from about 390 shows Theodosius' new
+imperial Christ, haloed, bearded like Jupiter and, like the old Roman
+god, sitting on a throne facing the onlooker. He has replaced Jupiter
+as the Empire's protector. The Arch of Constantine in the city shows
+the Emperor seated on a throne with a halo – which at the time was the
+symbol not of sanctity, but of imperial authority. The figures around
+him raise their arms in supplication, just like the disciples in the
+Church mosaic. As Ambrose put it, Christ was now at the head of the
+legions. ...
 
+There may well have been a whiff of popular discontent in people's
+reluctance to attend Catholic churches, possibly connected with the
+incorporation of Jesus into the imperial power structure. The Catholic
+Church emphasized not his human incarnation but his transcendent
+magisterial authority, his right to judge the living and the dead and
+to determine their fate for all eternity. Basically, the terrible
+power of Roman authority was presented as being derived from the even
+more terrible power of Jesus, a looming supreme God painted on the
+apse ceiling over the altar where his blood was to be drunk and his
+body eaten.
 
