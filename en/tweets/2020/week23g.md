@@ -1,5 +1,15 @@
 # Tweets - Week 23g
 
+Elvis impersonator singing a Nirvana song. WTF dude
+
+The King - Come as you are \#music
+
+[Link](https://youtu.be/qkbd8mMIXKI)
+
+*2020-06-05 14:29:05*
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A state of emergency has been declared after some 20 000 tonnes of diesel oil leaked into a river within the <a href="https://twitter.com/hashtag/ArcticCircle?src=hash&amp;ref_src=twsrc%5Etfw">#ArcticCircle</a>. The <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> mission shows the extent of the spill, reported to have leaked to 12 km from the accident site. <a href="https://t.co/uUOsYPiVfr">https://t.co/uUOsYPiVfr</a> <a href="https://t.co/BqWiSQwcRN">pic.twitter.com/BqWiSQwcRN</a></p>&mdash; ESA EarthObservation (@ESA_EO) <a href="https://twitter.com/ESA_EO/status/1268805251634774016?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
