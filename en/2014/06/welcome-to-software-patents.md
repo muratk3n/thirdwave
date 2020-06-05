@@ -1,6 +1,6 @@
 # Welcome to Software Patents
 
-[Pietern Hintjens](https://github.com/hintjens/swsi)
+Pieter Hintjens
 
 If you know me, you know that I take my work seriously [..] So imagine
 my shock [..] when I discovered first-hand that my lifelong profession

@@ -177,4 +177,8 @@ noticable effect of people arriving here, especially at the famed date
 of 1071 AD. Whatever number of ppl arrived, were little in numbers, and
 melted away in the existing population.
 
+A recent research
+[concludes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
+biologically only 9% of genetic structure (95% CI 7-11) of today's
+Anatolia is Central Asian.
 
