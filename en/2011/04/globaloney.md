@@ -38,15 +38,15 @@ common language than if they do not, 47% more if both belong to a
 trading block, 114% more if they have a common currency and 188% more
 if they have a common colonial past [..].
 
-That FDI fell from nearly $2 trillion in 2007 to $1 trillion in 2009
-can be put down to the global financial crisis. But other trends
-suggest that globalisation is reversible. Nearly a quarter of North
-American and European companies shortened their supply chains in 2008
-(the effect of Japan’s disaster on its partsmakers will surely prompt
-further shortening). It takes three times as long to process a
-lorry-load of goods crossing the Canadian-American border as it did
-before September 11th 2001. Even the internet is succumbing to this
-pattern of regionalisation [..]
+That FDI fell from nearly 2 trillion dollar in 2007 to 1 trillion
+dollar in 2009 can be put down to the global financial crisis. But
+other trends suggest that globalisation is reversible. Nearly a
+quarter of North American and European companies shortened their
+supply chains in 2008 (the effect of Japan’s disaster on its
+partsmakers will surely prompt further shortening). It takes three
+times as long to process a lorry-load of goods crossing the
+Canadian-American border as it did before September 11th 2001. Even
+the internet is succumbing to this pattern of regionalisation [..]
 
 Mr Ghemawat also explodes the myth that the world is being taken over
 by a handful of giant companies [..] He also refutes the idea that
