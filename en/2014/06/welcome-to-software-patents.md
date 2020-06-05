@@ -64,24 +64,24 @@ education: today I know more about patent and copyright law than even
 most specialized lawyers [..]
 
 Let's explore some figures. I'm writing this in late 2011. In March,
-Microsoft paid Nokia about $1 billion for a deal that gave Microsoft
-access to Nokia's patents. A little later, HTC bought S3 for $300
-million, to get access to S3's patents, mainly because Microsoft and
-Apple were attacking it. Then in July, a group of firms (Apple,
-Microsoft, Oracle, RIM, Sony, EMC, Ericsson) paid $4.5 billion for a
-set of patents from Nortel. Google bid somewhat less, and lost the
-auction. In October, Sony paid $1.45 billion for Ericsson's patent
-portfolio. Then in November, Google got Motorola Mobility, and its
-patents, for $12.5 billion.
+Microsoft paid Nokia about 1 billion dollars for a deal that gave
+Microsoft access to Nokia's patents. A little later, HTC bought S3 for
+300 million dollars, to get access to S3's patents, mainly because
+Microsoft and Apple were attacking it. Then in July, a group of firms
+(Apple, Microsoft, Oracle, RIM, Sony, EMC, Ericsson) paid 4.5 billion
+dollars for a set of patents from Nortel. Google bid somewhat less,
+and lost the auction. In October, Sony paid 1.45 billion dollars for
+Ericsson's patent portfolio. Then in November, Google got Motorola
+Mobility, and its patents, for 12.5 billion dollars.
 
-What's staggering here is that in 2011, firms paid about $20 billion
-for patent rights. In 2010, Apple spent $1.8 billion in R&D. Google
-spent about $4 billion. The total for the whole software industry
-can't be much more than that $20 billion.
+What's staggering here is that in 2011, firms paid about 20 billion
+dollars for patent rights. In 2010, Apple spent 1.8 billion dollars in
+R&D. Google spent about 4 billion dollars. The total for the whole
+software industry can't be much more than that 20 billion dollars.
 
 Yet those patents are just for mobile phones, essentially yesterday's
-technology. My guesstimate of $20 billion for R&D is mostly for cloud
-computing, social networks, and the rest of tomorrow's
+technology. My guesstimate of 20 billion dollars for R&D is mostly for
+cloud computing, social networks, and the rest of tomorrow's
 infrastructure. The patent wars for one segment of technology are
 costing as much as R&D into the future of all software technology
 combined.
