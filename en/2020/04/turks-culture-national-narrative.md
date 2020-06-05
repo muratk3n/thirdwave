@@ -187,8 +187,8 @@ TR side had maximum 80K troops, assuming hailing from familities of
 avg of 5-6, roughly arriving half a million. Anatolia at this point
 already had 7-8 million.
 
-There are claims of 1 million, but if we follow them to their original
-source, we reach B. Lewis, an historian oddball who is a TR
-nationalist (but American), married to an Otto female royalty (whose
-family fled TR, settled in UK after being kicked out by Kemal). Lewis
-is also an avid Armenian Holocoust denier.
+There are claims of 1 million, but if we follow the references up to
+its original source, we reach a B. Lewis, an historian oddball who is
+quite fond of a TR nationalist (but is American), married to an Otto
+female royalty (whose family fled TR, settled in UK after being kicked
+out by Kemal), and also known as an avid Armenian Holocoust denier.
