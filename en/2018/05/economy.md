@@ -22,7 +22,5 @@
 
 [Keen Model](../../2018/02/keen_math.md)
 
-[Exchange Rates, Current Account](../../2020/06/exch.md)
-
 [Economics Stats](../../2019/05/stats.md)
 
