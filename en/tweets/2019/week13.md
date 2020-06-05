@@ -1,6 +1,6 @@
+# Week 13
 
-
-See Ian Morris book
+[See Ian Morris book](https://muratk3n.github.io/thirdwave/en/2020/2017/10/foragers-farmers-morris.html)
 
 Exactly - so what is considered "conservatism"  by many is basically
 this goat-f...er culture, trying to outlive its past-due date.  But
