@@ -185,7 +185,7 @@ Anatolia is Central Asian. This fits to other numbers, if we consider
 the nationalist claim a 1071 war after migrants settled in Anatolia,
 TR side had maximum 80K troops, assuming hailing from familities of
 avg of 5-6, roughly arriving half a million. Anatolia at this point
-already had 7-8 million.
+already abt 7 million.
 
 There are claims of 1 million, but if we follow the references up to
 its original source, we reach a B. Lewis, an historian oddball who is
