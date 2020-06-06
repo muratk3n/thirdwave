@@ -105,6 +105,8 @@ which would not: all our sources come to us from medieval Catholic
 copyists. So again, our picture of the past has been given to us in a
 very particular way ...
 
+<a name='religion'/>
+
 The Catholic version of Jesus, with the same nature as God himself,
 was a kind of transcendent emperor. A mosaic in the apse of the church
 of Santa Pudenziana in Rome from about 390 shows Theodosius' new
