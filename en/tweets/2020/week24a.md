@@ -10,7 +10,7 @@ Not a single cop at the North East LA protest today. Couple thousand of us. Enti
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">MINNEAPOLIS: Several MPD police cruisers drive by peaceful demonstrators and pepper spray them from moving vehicles for no reason. <a href="https://twitter.com/hashtag/BLUEFALL?src=hash&amp;ref_src=twsrc%5Etfw">#BLUEFALL</a><a href="https://t.co/aQQMbyYD17">pic.twitter.com/aQQMbyYD17</a></p>&mdash; Chad Loder (@chadloder) <a href="https://twitter.com/chadloder/status/1268955152750264320?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">MINNEAPOLIS: Several MPD police cruisers drive by peaceful demonstrators and pepper spray them from moving vehicles for no reason. <a href="https://twitter.com/hashtag/BLUEFALL?src=hash&amp;ref_src=twsrc%5Etfw">#BLUEFALL</a><a href="https://t.co/aQQMbyYD17">pic.twitter.com/aQQMbyYD17</a></p>&mdash; Chad Loder (@chadloder) <a href="https://twitter.com/chadloder/status/1268955152750264320?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
