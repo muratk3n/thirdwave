@@ -159,10 +159,6 @@ Guess who set at the commitee for that research -- Issac F..ing Newton.
 
 ---
 
-Of course guy works in the military.
-
----
-
 DOE is looking for energy storage skillz
 
 [Link](https://www.zintellect.com/Opportunity/Details/DOE-EERE-STP-HFTO-2020-1801)
