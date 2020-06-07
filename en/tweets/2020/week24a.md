@@ -75,8 +75,7 @@ with some tech sprinkled on top.
 
 ---
 
-Way to go Bawston. I guess now everyone knows where to paak the
-caah. Go straight to Newburry St. 
+Way to go Bawston. Wanna paak the caah? Go straight to Newburry St.
 
 "In Boston’s toniest neighborhood, large military presence stands
 guard - The Boston Globe"
