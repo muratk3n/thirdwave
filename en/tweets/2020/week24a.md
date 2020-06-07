@@ -20,7 +20,7 @@ is a 'very energy-intensive' process.
 
 'As an example ... in order to produce [a 100kWh battery] battery, it
 will take around 20 tonnes of CO2,' he said. 'A typical battery lasts
-for 150,000 miles, so that equates to around 83g/km of CO2'
+for 150,000 miles, so that equates to around 83g/km of CO2'"
 
 [Link](https://jalopnik.com/toyota-still-thinks-hydrogen-fuel-cells-are-the-future-1843928962/amp?__twitter_impression=true)
 
