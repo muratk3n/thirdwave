@@ -40,7 +40,7 @@ assignments, cogs in a machine, almost everyone worked for someone
 else. We'll see what follows next in a post-industrial society.
 
 (Postindustrial doesn't mean there is no industrial production, just
-like there is still agriculture in a post-agro world)
+like in a post-agro world there is still agriculture production)
 
 "Should work change depending on tech?"
 
