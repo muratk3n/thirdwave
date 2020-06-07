@@ -4,9 +4,10 @@
 
 ---
 
-@Rouell3
+"@Rouell3
 
-Not a single cop at the North East LA protest today. Couple thousand of us. Entirely peaceful. Wonder what did the trick 
+Not a single cop at the North East LA protest today. Couple thousand
+of us. Entirely peaceful. Wonder what did the trick"
 
 ---
 
