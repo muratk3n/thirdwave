@@ -4,6 +4,19 @@
 
 ---
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">MINNEAPOLIS: Several MPD police cruisers drive by peaceful demonstrators and pepper spray them from moving vehicles for no reason. <a href="https://twitter.com/hashtag/BLUEFALL?src=hash&amp;ref_src=twsrc%5Etfw">#BLUEFALL</a><a href="https://t.co/aQQMbyYD17">pic.twitter.com/aQQMbyYD17</a></p>&mdash; Chad Loder (@chadloder) <a href="https://twitter.com/chadloder/status/1268955152750264320?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;As the Commander of Pacific Air Forces, a senior leader in our Air Force, and an African-American, many of you may be wondering what I’m thinking about the current events surrounding the tragic death of George Floyd. Here’s what I’m thinking about...&quot; - Gen. CQ Brown, Jr. <a href="https://t.co/I2sf1067L6">pic.twitter.com/I2sf1067L6</a></p>&mdash; PACAF (@PACAF) <a href="https://twitter.com/PACAF/status/1268794618461618177?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Barclays Investment Bank says <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> sector will be worth $1 trillion by 2050 <a href="https://t.co/9ujLpTi9U0">https://t.co/9ujLpTi9U0</a></p>&mdash; Marchmaine #cleantechexpert (@biogasconsult) <a href="https://twitter.com/biogasconsult/status/1269252048488366081?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@vexedinthecity
 
 Y'all notice how all of your 'libertarian' friends on social media
