@@ -12,7 +12,7 @@ they hate so much if they did this minimal thing.
 
 ---
 
-Give ppl free hwalth insurance and enough money so they dont have to
+Give ppl free health insurance and enough money so they dont have to
 work in these shit jobs unless they have to.
 
 ---
