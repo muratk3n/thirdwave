@@ -37,7 +37,7 @@ they are "working class", "wage earners"?
 
 The ease of payment coupled w ppls wish to reward wld generate massive
 revenue at a scale not seen in our lifetimes. Patreon, Youtube ad rev
-are not the rigt model. Destroy the gatekeepers.
+are not insufficient models. Destroy the gatekeepers.
 
 ---
 
