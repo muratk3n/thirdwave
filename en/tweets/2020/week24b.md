@@ -7,8 +7,8 @@ slave owner in the very river where his slave ships used to dock"
 
 ---
 
-Centrist are so insanely stupid. They cld rid themselves of thoae bros
-they hate so much if they did this minimal thing.
+Centrist are so insanely stupid. They cld rid themselves of those bros
+they hate so much if they did a minimal thing.
 
 ---
 
