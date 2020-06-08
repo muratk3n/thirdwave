@@ -82,11 +82,11 @@ Breaking News: A veto-proof majority of the Minneapolis City Council pledged to 
 
 "Eric Garner died from a chokehold in 2014. They were banned in NY in 1993"
 
-https://statmodeling.stat.columbia.edu/2020/06/07/the-seventy-two-percent-solution-to-police-violence/
+[Link](https://statmodeling.stat.columbia.edu/2020/06/07/the-seventy-two-percent-solution-to-police-violence/)
 
 ---
 
-https://pbs.twimg.com/media/EZ4XFTtWkAEsfKZ?format=jpg&name=medium
+<img width="340" src="https://pbs.twimg.com/media/EZ4XFTtWkAEsfKZ?format=jpg&name=small"/>
 
 ---
 
