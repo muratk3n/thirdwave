@@ -57,9 +57,9 @@ Old system sprinkled w some tech buzz. Wont work.
 
 ---
 
-Responsibility for all lies with govs at every level. Have to manage
-risk, at the right stage, and not allow one crisis to morph into
-another. Now enjoy your grand fuck up.
+Responsibility lies with govs, at every level. Have to manage risk, at
+the right stage, and not allow one crisis to morph into another. Now
+enjoy your grand fuck up.
 
 ---
 
