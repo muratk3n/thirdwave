@@ -37,7 +37,7 @@ they are "working class", "wage earners"?
 
 The ease of payment coupled w ppls wish to reward wld generate massive
 revenue at a scale not seen in our lifetimes. Patreon, Youtube ad rev
-are not insufficient models. Destroy the gatekeepers.
+are not sufficient models. Destroy the gatekeepers.
 
 ---
 
@@ -168,7 +168,7 @@ imagination unconstrained by evidence.'"
 reconnaissance aircraft were reported in the sky south of Idlib, in
 conjunction with the arrival of huge SAA military force near the
 confrontation lines. Activists in Idlib say Syria army prepare a
- military operation"
+military operation"
 
 ---
 
