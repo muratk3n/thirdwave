@@ -86,7 +86,7 @@ Breaking News: A veto-proof majority of the Minneapolis City Council pledged to 
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EZ4XFTtWkAEsfKZ?format=jpg&name=small"/>
+<img width="240" src="https://pbs.twimg.com/media/EZ4XFTtWkAEsfKZ?format=jpg&name=small"/>
 
 ---
 
