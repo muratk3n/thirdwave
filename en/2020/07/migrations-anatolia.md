@@ -1,4 +1,4 @@
-# National Narratives, Migrations, Anatolia
+# Tolay, National Narratives, Migrations, Anatolia
 
 [Juliette Tolay](https://pennstate.pure.elsevier.com/en/publications/rewriting-national-narratives-through-the-study-of-past-migration)
 
@@ -184,8 +184,8 @@ Turkish people tend to be proud of their experiences as migrants and
 as hosts of immigrants (Tolay, 2014). However, such normative
 appreciation of the history of Turks and migration is also based on a
 truncated view of history, that tends to ignore or silence narratives
-emphasizing negative experience with migration, such as the history
-of forced migration over the last millennium of Turkish history. The
+emphasizing negative experience with migration, such as the history of
+forced migration over the last millennium of Turkish history. The
 history of migrations outlined above offers a glimpse into what an
 alternative, more comprehensive, national narrative could look like.
 What is troubling about the current truncated national narrative is
@@ -194,8 +194,8 @@ negative experience, and could be a source of pride: pre-Turk
 Anatolian migrations tell a formidable history of humanity that
 connects today’s population of Turkey (including self-perceived ethnic
 Turks who are likely to be of mix origins) to a succession of
-successful civilizations and enriching migrations. Recasting
-Turkey’s history by affirming that Turkey today is the descendant of
+successful civilizations and enriching migrations. Recasting Turkey’s
+history by affirming that Turkey today is the [partial] descendant of
 both the history of Turkic tribes from Central Asia and people who had
 immigrated to Anatolia before them could be a great opportunity to
 reconcile the diverse identities of Turkey today, while claiming the
