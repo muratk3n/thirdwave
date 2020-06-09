@@ -134,6 +134,8 @@ better.  There are people at my gym who waste hours on treadmills and
 stairmasters, trudging away but never really pushing themselves to
 intensity. ...
 
+<a name='run'/>
+
 As in all exercise, intermittency and variety are the goals in aerobic
 workouts. You want to stop and start, go in an instant from walking to
 running at top speed for forty or fifty yards, then amble along until
