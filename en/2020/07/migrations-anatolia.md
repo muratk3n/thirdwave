@@ -54,13 +54,13 @@ Congress was convened and the ‘Main themes of Turkish History’ were
 presented, heavily relying on the ‘Turkish History Thesis.’ The
 Turkish history thesis
 
-contended that the Turks were a great and ancient race [...]. In
-Central Asia, they had created a bright civilization around an inner
-sea. [...] When the inner sea dried up due to climatic changes, the
-Turks left their original home and moved in all directions to civilize
-the rest of the world. They went to China to the East; to India to the
-South; and to Egypt, Mesopotamia, Persia, Anatolia, Greece, and Italy
-to the West. (Çağ aptay, 2006, p. 51)
+>contended that the Turks were a great and ancient race [...]. In
+>Central Asia, they had created a bright civilization around an inner
+>sea. [...] When the inner sea dried up due to climatic changes, the
+>Turks left their original home and moved in all directions to
+>civilize the rest of the world. They went to China to the East; to
+>India to the South; and to Egypt, Mesopotamia, Persia, Anatolia,
+>Greece, and Italy to the West. (Çağaptay, 2006, p. 51)
 
 [T]his formative period succeeded in creating a vision of the history
 of Turkey that had to go back before the Ottoman Empire onto the
