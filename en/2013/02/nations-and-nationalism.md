@@ -1,5 +1,7 @@
 # Nations and Nationalism, Culture, Narratives
 
+[Up](../..)
+
 [Nations and Nationalism](../../2013/03/nations-and-nationalism-gellner.md)
 
 [Cultures, Identities, Something Dash Something Americans, Immigrants](../../2019/11/faux-ambassadors.md)
