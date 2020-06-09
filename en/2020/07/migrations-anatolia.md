@@ -1,17 +1,17 @@
 # National Narratives, Migrations, Anatolia
 
-Juliette Tolay
+[Juliette Tolay](https://pennstate.pure.elsevier.com/en/publications/rewriting-national-narratives-through-the-study-of-past-migration)
 
 The other important concept at stake when understanding the
 constructed nature of the nation is the idea of a historical national
 narrative and the control over the memory of the past, so as to either
 ‘protect’ or ‘create’ a certain idea of the nation. History plays
 indeed a central role in the idea of nation, not only because of the
-precedents that it docu- ments, but also because of the central role
+precedents that it documents, but also because of the central role
 that history plays discursively in defining a common identity. Studies
 of nation and nationalism have highlighted how the construction of
 nations was predicated on framing particular events in the past in a
-way that will high- light, if not create, the glorious past of a
+way that will highlight, if not create, the glorious past of a
 particular group (Anderson, 1991; Gellner, 1983).  Historical events
 and figures become a symbol and references of ‘who we are.’ So while
 history can never be fully objective, the subjectivity of national
@@ -20,11 +20,11 @@ shreds and patches used by nationalism are often arbitrary historical
 inventions.[ ... ] The cultures [nationalism] claims to defend and
 revive are often its own inventions, or are modified out of all
 recognition’ (Gellner, 1983, p. 56). National historical narratives
-involve processes of voicing and silencing par- ticular events, in a
+involve processes of voicing and silencing particular events, in a
 way that truly makes history a ‘social construction,’ constrained only
 partially by the academic knowledge of what we know about this history
 (Berger, Donovan, & Passmore, 2002). This intentional process of
-construction of a national narra- tive is one that reflects more the
+construction of a national narrative is one that reflects more the
 politics of the present than our knowledge of the past: ‘To write the
 story of the nation demands that we articulate that archaic
 ambivalence that informs modernity’ (Bhabha, 1990, p. 294). There are
@@ -38,7 +38,7 @@ Turkish historiography offers a particularly interesting example of
 such a construction of a ‘Turkish’ identity through inclusion and
 exclusion of particular events (Çağ aptay, 2006).  There was no
 self-perceived ‘Turkish nation’ before the nineteenth century. The
-broader inten- tional and unintentional process of creating a Turkish
+broader intentional and unintentional process of creating a Turkish
 identity started indeed with the late Ottoman empire, and the
 emergence of reformist and nationalist groups in the Empire (such as
 the Young Ottomans in the last nineteenth century or the Young Turks
@@ -72,23 +72,23 @@ the first Turkic tribes arrived around the turn of the
 first-millennium CE and the broader history of the populations with
 which these Turkic tribes mixed when they settled into Anatolia
 (Greeks, Armenians, Assyrians, Arabs, Kurds, etc.). This vision, in
-turn, would give a pro- minent place to some historical migrations,
+turn, would give a prominent place to some historical migrations,
 but not to others.
 
 conducted semi-structured interviews with Turkish citizens between
 2008 and 2013, to gauge the level of knowledge regarding immigration
 into Turkey. 1 During the interviews, it became clear that respondents
-were aware of a number of migratory experi- ences in Turkish history,
+were aware of a number of migratory experiences in Turkish history,
 but were not about others, or rather that others were not conceived as
 a migratory experience. When appropriate, this information is
-triangulated with second- ary sources, the scholarly literature on
+triangulated with secondary sources, the scholarly literature on
 this topic, as well as a quick analytical overview of the official
 Turkish history curriculum in primary and secondary education. 
 
 During the interviews, respondents generally affirmed that migration
 has always played an important role in Turkish history. More
 specifically, three migratory experiences came up regularly during the
-interviews: (1) Turkish people have always been mobile, as nomad- ism
+interviews: (1) Turkish people have always been mobile, as nomadism
 is their original way of life (roughly referring to Turk’s Central
 Asian past), (2) Turkish people have welcomed many migrants and
 accommodated the ensuing diversity (roughly referring to the Ottoman
@@ -96,9 +96,9 @@ Empire) and (3) Turkish people have also become migrants and exiles
 themselves (roughly referring to the twentieth century).
 
 According to respondents, the first experience with migration and
-mobility that character- izes Turkish history is one that assumes a
+mobility that characterizes Turkish history is one that assumes a
 fundamental relationship with mobility, having been a nomadic people
-who have been on the move for centuries. Examples of such state- ments
+who have been on the move for centuries. Examples of such statements
 are:
 
 >The direction of Turkey for thousands of years has always been to move
@@ -142,7 +142,7 @@ The history of migration and settlement in Anatolia—or Asia Minor
 —before the arrival of Turks ..  is a history of rich and
 breath-taking civilizations occupying this strategically centred piece
 of land situated between the Aegean, the Mediterranean and the Black
-Sea, and opened on the East to Meso- potamia and the broader Eurasian
+Sea, and opened on the East to Mesopotamia and the broader Eurasian
 continent ...
 
 And indeed, the Anatolia found by the first Turkish nomads was already
@@ -152,24 +152,24 @@ a formidable centre of cultural diversity. According to Hoerder:
 >emperors, had been the scene of both manifold involuntary population
 >transfers and voluntary migrations involving numerous peoples:
 >Christian refugees from Arab lands; Greek Cypriots; demobilized
->soldiers of Frankish, Russian, English, Norman, German, Bul- garic,
+>soldiers of Frankish, Russian, English, Norman, German, Bulgaric,
 >Saracen, or Albanian background; as well as Kurdish, Georgian, Syrian
 >and Armenian peoples. ...
 
 The Persian dominance in Anatolia until Alexander the Great’s
 conquests in 380 BCE had a great impact on the political structure of
-the area (satrap system), but did not funda- mentally alter the
-overwhelmingly Hellenic culture of Anatolia. In spring 334 BCE, Alex-
-ander crossed the Dardanelles and undertook the conquest of Anatolia
-(Strassler, Romm, Mensch, & Cartledge, 2010, pp. 2–54). A number of
-Hellenistic kingdoms (Pergamum, Lycia, Bithynia, Galatia, Pontus,
-Cappadocia) succeeded to the Empire of Alexander the Great, with the
-Greek Seleucid Empire dominating most of Anatolia. In the east, the
-Arme- nian kingdom was established reaching the Caspian, Black Sea and
-Mediterranean Sea (Mossé et al., 2005). ...
+the area (satrap system), but did not fundamentally alter the
+overwhelmingly Hellenic culture of Anatolia. In spring 334 BCE,
+Alexander crossed the Dardanelles and undertook the conquest of
+Anatolia (Strassler, Romm, Mensch, & Cartledge, 2010, pp. 2–54). A
+number of Hellenistic kingdoms (Pergamum, Lycia, Bithynia, Galatia,
+Pontus, Cappadocia) succeeded to the Empire of Alexander the Great,
+with the Greek Seleucid Empire dominating most of Anatolia. In the
+east, the Armenian kingdom was established reaching the Caspian,
+Black Sea and Mediterranean Sea (Mossé et al., 2005). ...
 
 There seems to be three complementary explanations to why specific
-migratory experi- ences have been included or excluded in Turkey
+migratory experiences have been included or excluded in Turkey
 national narrative. One is about the ‘homogeneity’ requirement of
 nationalist discourses: nationalism is typically conceived around a
 single identity and a single ancestor. In many European nation-states,
@@ -184,7 +184,7 @@ Turkish people tend to be proud of their experiences as migrants and
 as hosts of immigrants (Tolay, 2014). However, such normative
 appreciation of the history of Turks and migration is also based on a
 truncated view of history, that tends to ignore or silence narratives
-empha- sizing negative experience with migration, such as the history
+emphasizing negative experience with migration, such as the history
 of forced migration over the last millennium of Turkish history. The
 history of migrations outlined above offers a glimpse into what an
 alternative, more comprehensive, national narrative could look like.
@@ -194,38 +194,38 @@ negative experience, and could be a source of pride: pre-Turk
 Anatolian migrations tell a formidable history of humanity that
 connects today’s population of Turkey (including self-perceived ethnic
 Turks who are likely to be of mix origins) to a succession of
-successful civilizations and enriching migrations. Recast- ing
+successful civilizations and enriching migrations. Recasting
 Turkey’s history by affirming that Turkey today is the descendant of
 both the history of Turkic tribes from Central Asia and people who had
 immigrated to Anatolia before them could be a great opportunity to
-reconcile the diverse identities of Turkey today, while claim- ing the
+reconcile the diverse identities of Turkey today, while claiming the
 glorious past of some the oldest and greatest civilizations.
 
 On the other hand, rehabilitating the history of forced migration,
 because of its negative connotation, is somewhat more problematic,
 albeit more essential. There are indeed many arguments showing how the
-continuous denial of past violence is harmful and counter-pro-
-ductive. Not only does such denial silences, disempowers and denies
-closure to populations that are victim of such (forced) migrations,
-but it also has a deep negative impact on the broader
+continuous denial of past violence is harmful and
+counter-productive. Not only does such denial silences, disempowers
+and denies closure to populations that are victim of such (forced)
+migrations, but it also has a deep negative impact on the broader
 population. Göçek, using Giesen and Zerabuvel, shows how denial of
 collective violence also creates a trauma for the perpetrating
 society, as it distorts the relationship to reality, challenges
 notions of ethics and morality and normalizes violence in the
 society. Hence, from denial of collective violence stems autocratic
 tendencies and lack of democracy (Göçek, 2015). ‘Only when we
-understand and come to terms with such col- lective violence embedded
-in all of our pasts can we create a better future for our descen-
-dants’ (Göçek, 2015, p. 478). Accordingly, recognizing a violent past
-can be significantly rewarding. Being sober, modest, self-critical,
-and eventually true-to-one’s values, is indeed a great feature to gain
-and showcase. Germany is typically used as a successful example of a
+understand and come to terms with such collective violence embedded in
+all of our pasts can we create a better future for our descendants’
+(Göçek, 2015, p. 478). Accordingly, recognizing a violent past can be
+significantly rewarding. Being sober, modest, self-critical, and
+eventually true-to-one’s values, is indeed a great feature to gain and
+showcase. Germany is typically used as a successful example of a
 country that has gained reputation and a healthier relationship with
 democracy through its recognition of guilt (Olick, 2007). In addition,
 recognizing that the victims are an integral part of the nation (by
-recognizing their history as well) can also help mitigate the recog-
-nition of past violence, by seeing the nation as being simultaneously
-perpetrator and victim.
+recognizing their history as well) can also help mitigate the
+recognition of past violence, by seeing the nation as being
+simultaneously perpetrator and victim.
 
 
 
