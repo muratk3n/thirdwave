@@ -72,18 +72,18 @@ the first Turkic tribes arrived around the turn of the
 first-millennium CE and the broader history of the populations with
 which these Turkic tribes mixed when they settled into Anatolia
 (Greeks, Armenians, Assyrians, Arabs, Kurds, etc.). This vision, in
-turn, would give a prominent place to some historical migrations,
-but not to others.
+turn, would give a prominent place to some historical migrations, but
+not to others. ...
 
-conducted semi-structured interviews with Turkish citizens between
+[I] conducted semi-structured interviews with Turkish citizens between
 2008 and 2013, to gauge the level of knowledge regarding immigration
-into Turkey. 1 During the interviews, it became clear that respondents
+into Turkey. During the interviews, it became clear that respondents
 were aware of a number of migratory experiences in Turkish history,
 but were not about others, or rather that others were not conceived as
 a migratory experience. When appropriate, this information is
-triangulated with secondary sources, the scholarly literature on
-this topic, as well as a quick analytical overview of the official
-Turkish history curriculum in primary and secondary education. 
+triangulated with secondary sources, the scholarly literature on this
+topic, as well as a quick analytical overview of the official Turkish
+history curriculum in primary and secondary education.
 
 During the interviews, respondents generally affirmed that migration
 has always played an important role in Turkish history. More
@@ -226,28 +226,4 @@ recognizing that the victims are an integral part of the nation (by
 recognizing their history as well) can also help mitigate the
 recognition of past violence, by seeing the nation as being
 simultaneously perpetrator and victim.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
