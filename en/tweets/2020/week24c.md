@@ -83,7 +83,7 @@ Haha "providing new perspectives for this often misunderstood nation"
 says TR English station...
 
 I think they understand you *really well*. But you continue to
-misunderstand their understanding... Isn't that more likely?
+misunderstand their understanding... 
 
 ---
 
