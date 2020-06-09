@@ -14,6 +14,7 @@
 
 [The Fabric of Creativity](../../2012/05/fabric-of-creativity.md)
 
+[[⇪Up]](../..)
 
 
 

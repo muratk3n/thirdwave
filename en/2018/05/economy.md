@@ -24,3 +24,4 @@
 
 [Economics Stats](../../2019/05/stats.md)
 
+[[⇪Up]](../..)

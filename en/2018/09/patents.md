@@ -14,3 +14,4 @@
 
 [When Patents Attack!](../../2012/08/when-patents-attack.md)
 
+[[⇪Up]](../..)

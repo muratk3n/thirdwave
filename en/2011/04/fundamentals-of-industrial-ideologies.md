@@ -16,6 +16,6 @@
 
 [Bureucracy](../../2011/02/bureucracy.md)
 
-
+[[⇪Up]](../..)
 
 
