@@ -1,6 +1,6 @@
 # Nations and Nationalism, Culture, Narratives
 
-[Up](../..)
+[⇪Up](../..)
 
 [Nations and Nationalism](../../2013/03/nations-and-nationalism-gellner.md)
 
