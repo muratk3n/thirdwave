@@ -104,8 +104,10 @@ are:
 >The direction of Turkey for thousands of years has always been to move
 >towards the West. We came from Central Asia to Vienna’s door, and now
 >onto Western Europe and soon Brussels. 
+>
 >We came from Central Asia a thousand year ago. We come from a
 >geography of migrations. This is who we are. 
+>
 >From a cultural perspective. Because of the migrations in Central
 >Asia, you know, migration is something normal for us. 
 
@@ -113,16 +115,16 @@ And indeed, as was mentioned earlier, under the influence of the
 ‘Turkish History Thesis,’ Turkish students were taught about early
 pre-historical, Neolithic migrations of the Turkish people, who had
 earlier created and dispatched civilization to the four corners of the
-world.  While the specifics of this approach were abandoned, the
-overall image of early great Turkish migrations became engrained in
-the Turkish consciousness: ‘This is a history deeply conscious of its
-Asian origins, of its peregrination, and which continuously expresses
-its intention to settle in Anatolia’ (my translation, Copeaux, 1997,
-p. 230). The current social science and history curriculum in primary
-and secondary education indicates that Turkish migrations from Central
-Asia are covered pervasively in 6th, 9th and again in 11th grade, with
-an emphasis on both the nomadic way of life and culture of the Turkic
-population, and the migration routes they took up through Eurasia.
+world.  ... [this] overall image of early great Turkish migrations
+became engrained in the Turkish consciousness: ‘This is a history
+deeply conscious of its Asian origins, of its peregrination, and which
+continuously expresses its intention to settle in Anatolia’ (my
+translation, Copeaux, 1997, p. 230). The current social science and
+history curriculum in primary and secondary education indicates that
+Turkish migrations from Central Asia are covered pervasively in 6th,
+9th and again in 11th grade, with an emphasis on both the nomadic way
+of life and culture of the Turkic population, and the migration routes
+they took up through Eurasia.
 
 As was mentioned above, the creation of the idea of Turkish nation has
 made extensive use of history as a means to instil a feeling of
