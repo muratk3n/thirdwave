@@ -74,9 +74,6 @@ crimes against US citizens based on outright disinformation"
 an American on the Anatolian history. She emphasized many of the same point
 that I had, hell she even used a Gellner reference.
 
-So others understand you __very well__. Do not be under any
-illusions. Pull your head out of your ass.
-
 ---
 
 Haha "providing new perspectives for this often misunderstood nation"
