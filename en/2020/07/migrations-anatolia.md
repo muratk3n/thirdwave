@@ -195,7 +195,7 @@ Anatolian migrations tell a formidable history of humanity that
 connects today’s population of Turkey (including self-perceived ethnic
 Turks who are likely to be of mix origins) to a succession of
 successful civilizations and enriching migrations. Recasting Turkey’s
-history by affirming that Turkey today is the [small] descendant of
+history by affirming that Turkey today is the [marginal] descendant of
 both the history of Turkic tribes from Central Asia and people who had
 immigrated to Anatolia before them could be a great opportunity to
 reconcile the diverse identities of Turkey today, while claiming the
