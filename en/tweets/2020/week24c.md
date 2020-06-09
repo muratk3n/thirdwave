@@ -112,7 +112,7 @@ Germany have unveiled the world's most ambitious green recovery of any
 government, earmarking a budget of a cool 130bn Euros for
 emission-lowering projects and technologies"
 
-[Link](www.bloomberg.com/amp/news/articles/2020-06-05/germany-s-recovery-fund-gets-green-hue-with-its-focus-on-climate)
+[Link](http://www.bloomberg.com/amp/news/articles/2020-06-05/germany-s-recovery-fund-gets-green-hue-with-its-focus-on-climate)
 
 ---
 
