@@ -18,3 +18,5 @@
 
 [Not An Empire](../../2015/01/not-empire.md)
 
+[[⇪Up]](../..)
+
