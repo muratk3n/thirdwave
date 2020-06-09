@@ -6,6 +6,8 @@
 
 [Turks, Culture, National Narrative](../../2020/04/turks-culture-national-narrative.md)
 
+[Tolay, National Narratives, Migrations, Anatolia](../../2020/07/migrations-anatolia.md)
+
 [Ghazi Warfare](../../2018/01/ghazi-warfare.md)
 
 [Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
