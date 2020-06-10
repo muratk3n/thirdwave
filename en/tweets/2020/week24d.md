@@ -76,7 +76,7 @@ Hoover... he was a body remover.
 
 ---
 
-RATM was a good choice for [this movie](https://youtu.be/aTL4qIIxg8A).
+RATM was a great choice for [this movie](https://youtu.be/aTL4qIIxg8A).
 The song playing a minute in is theirs.
 
 ---
