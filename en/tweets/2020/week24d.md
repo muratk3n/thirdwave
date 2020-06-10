@@ -123,8 +123,3 @@ transition from fossil fuels"
 
 ---
 
-I do not condone the use of dot as in $\dot{m}$ to represent rate,
-like mass flow rate in unit time. The dot notation represent
-infinitesimalness, and a certain type of math, Calculus.
-
----
