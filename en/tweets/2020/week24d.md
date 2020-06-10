@@ -39,9 +39,9 @@ user" logs in to his node. Caching mechanisms, async messaging can be
 easily implemented to speed this up.
 
 This Open Twitter, Open Facebook can be open source based, u download
-their code from Github, to your node, and run it. But most users wont
-deal with that, they will simply get their apps preinstalled on the
-node, or choose apps through a simple Web interface (which in the
+social net code from Github, to your node, and run it. But most users
+wont deal with that, they will simply get their apps preinstalled on
+the node, or choose apps through a simple Web interface (which in the
 background would know which code to get from Github).
 
 Censoring open, peer-to-peer apps will be harder. There is no single
