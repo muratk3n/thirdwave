@@ -1,5 +1,28 @@
 # Tweets - Week 24d
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear everyone who is uncomfortable right now: that’s the point.</p>&mdash; Sam Sanders (@samsanders) <a href="https://twitter.com/samsanders/status/1270417225028009984?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK&#39;s progress on green energy is mindblowing - from total dependency on coal 8 years ago, to now going many months without using any at all <a href="https://t.co/QcxAaaF0vQ">pic.twitter.com/QcxAaaF0vQ</a></p>&mdash; John Cope (@john_cope) <a href="https://twitter.com/john_cope/status/1270399620737359872?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Walls.. they keep coming up dont they? 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sea walls are not a climate solution.</p>&mdash; Edgar McGregor🌎🌴 (@edgarrmcgregor) <a href="https://twitter.com/edgarrmcgregor/status/1270400505794027520?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@tressiemcphd
+
+The publishing industry is now about to give exactly two black people
+a ridiculous advance to shut y'all up and it will be like Ben Carson
+Jr and Condoleezza's creative niece"
+
+---
+
 How do you create a peer-to-peer Twitter? Or Facebook?
 
 All u need is your own node. A company or gov can provide that.
@@ -101,6 +124,12 @@ Republicans Defunded The Police We Need
 *Space Force* the TV show, thumbs down. What a waste of talent.
 
 ---
+
+F..ing Rahm
+
+---
+
+😆😆😆
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">LOL <a href="https://t.co/jVUCFfxO6j">https://t.co/jVUCFfxO6j</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1270201036595007488?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
