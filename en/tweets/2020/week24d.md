@@ -129,7 +129,7 @@ F..ing Rahm
 
 ---
 
-😆😆😆
+😆
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">LOL <a href="https://t.co/jVUCFfxO6j">https://t.co/jVUCFfxO6j</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1270201036595007488?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
