@@ -115,7 +115,7 @@ like Turkey and Brazil to spread authoritarianism and fascism there"
 
 ---
 
-Republicans Defunded The Police We Need 
+Sirota: "Republicans Defunded The Police We Need "
 
 [Link](https://sirota.substack.com/p/republicans-defunded-the-police-we)
 
