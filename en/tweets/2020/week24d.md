@@ -34,6 +34,21 @@ reenter the US quickly"
 
 ---
 
+"The city, home to a population about 17% of Minneapolis' size,
+dissolved its police department in 2012 and replaced it with an
+entirely new one after corruption rendered the existing agency
+unfixable.
+
+Before its police reforms, Camden was routinely named one of the most
+violent cities in the US.
+
+Now, seven years after the old department was booted, the city's crime
+has dropped by close to half"
+
+[Link](https://amp.cnn.com/cnn/2020/06/09/us/disband-police-camden-new-jersey-trnd/index.html)
+
+---
+
 Hoover... he was a body remover.
 
 ---
@@ -84,21 +99,6 @@ Republicans Defunded The Police We Need
 ---
 
 *Space Force* the TV show, thumbs down. What a waste of talent.
-
----
-
-"The city, home to a population about 17% of Minneapolis' size,
-dissolved its police department in 2012 and replaced it with an
-entirely new one after corruption rendered the existing agency
-unfixable.
-
-Before its police reforms, Camden was routinely named one of the most
-violent cities in the US.
-
-Now, seven years after the old department was booted, the city's crime
-has dropped by close to half"
-
-[Link](https://amp.cnn.com/cnn/2020/06/09/us/disband-police-camden-new-jersey-trnd/index.html)
 
 ---
 
