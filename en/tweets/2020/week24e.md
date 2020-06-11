@@ -38,9 +38,9 @@ is this to understand?
 
 People revolt, react -- they are not policy experts, this is what they
 do. Sure their anger can push leadership, but that's kind of late at
-that point isn't it? Isn't the point of political leadership is so
-that things do not get to that in the first place? Revolt indicates
-failure of politics.
+that point isn't it? Isn't the point of political leadership is that
+things do not get there in the first place? Revolt indicates failure
+of politics.
 
 ---
 
