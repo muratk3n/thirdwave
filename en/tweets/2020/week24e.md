@@ -1,5 +1,14 @@
 # Tweets - Week 24e
 
+"@EmmaVigeland
+
+The Democratic D.C. mayor who painted "Black Lives Matter" on the
+street won’t reconsider police funding.
+
+The Democratic Party in a nutshell"
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Europe keep powering up Hydrogen trains. Is the U.S next? <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/zeroemsission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemsission</a> <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a> <a href="https://twitter.com/hashtag/wecantwait?src=hash&amp;ref_src=twsrc%5Etfw">#wecantwait</a> <a href="https://t.co/JpEJkQ0PFo">https://t.co/JpEJkQ0PFo</a></p>&mdash; RyseHydrogen #wecantwait (@RyseHydrogen) <a href="https://twitter.com/RyseHydrogen/status/1270949760913100801?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
