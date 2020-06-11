@@ -64,9 +64,10 @@ I love it when the units line up.
 
 ---
 
-Being "tough on crime". Sounded so great on paper and on TV but did
-these "tough" policies work? Were their potential side effects thought
-through? 
+Being "tough on crime". Sounded so great on paper and on TV esp when u
+delivered it with a half open-mouth second-rate channeling of
+R. Redford, but did these "tough" policies work? Were their potential
+side effects thought through?
 
 ---
 
