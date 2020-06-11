@@ -301,14 +301,6 @@ February) lost their jobs in March"
 
 ---
 
-Exchange rate model, currency crises
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
-
-*2020-5-14 0:31:2*
-
----
-
 "[FCs] are scalable so you can have them small enough for a cellphone
 tower or large enough for a building. In the U.S., fuel-cell forklifts
 have already become a commercial product and are replacing
@@ -681,14 +673,6 @@ regenerated"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">👉<a href="https://t.co/gPyC7BVJF0">https://t.co/gPyC7BVJF0</a> aims at developing <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> storage tank with use of solid-state H2 carrier in large scale. It is based on an <a href="https://twitter.com/hashtag/innovative?src=hash&amp;ref_src=twsrc%5Etfw">#innovative</a> concept 💡 Coupling H2 and <a href="https://twitter.com/hashtag/heatstorage?src=hash&amp;ref_src=twsrc%5Etfw">#heatstorage</a> for stationary <a href="https://twitter.com/hashtag/storage?src=hash&amp;ref_src=twsrc%5Etfw">#storage</a> of <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a>. <a href="https://twitter.com/hashtag/RSCPoster?src=hash&amp;ref_src=twsrc%5Etfw">#RSCPoster</a> <a href="https://twitter.com/hashtag/RSCEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#RSCEnergy</a> <a href="https://twitter.com/hashtag/RSCEnv?src=hash&amp;ref_src=twsrc%5Etfw">#RSCEnv</a> <a href="https://twitter.com/hashtag/RSCMat?src=hash&amp;ref_src=twsrc%5Etfw">#RSCMat</a> <a href="https://twitter.com/hashtag/RSCEng?src=hash&amp;ref_src=twsrc%5Etfw">#RSCEng</a> <a href="https://t.co/09aj5StSlm">pic.twitter.com/09aj5StSlm</a></p>&mdash; HyCARE Project (@HycareP) <a href="https://twitter.com/HycareP/status/1234821682310844418?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-12 8:58:28*
-
----
-
-Exch. rate dyn, with autonomous capital flows
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
 
 *2020-5-12 8:58:28*
 

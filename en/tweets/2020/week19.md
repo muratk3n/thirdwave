@@ -1,14 +1,6 @@
 # Tweets - Week 19a
 
 
-Exchange rate doc - more graphs
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
-
-*2020-5-8 17:44:45*
-
----
-
 "@MaartenvSmeden
 
 Depressing to read so many COVID-19 prediction modeling studies done
@@ -208,15 +200,6 @@ Nel reiterates positive long-term outlook in Q1 2020 results
 [Link](https://www.h2-view.com/story/nel-reiterates-positive-long-term-outlook-in-q1-2020-results/)
 
 *2020-5-7 19:1:25*
-
----
-
-Exchange rate model from Muller-Plantenberg, model 1. TBC. These ODEs
-are not complicated at all.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
-
-*2020-5-7 17:34:1*
 
 ---
 
