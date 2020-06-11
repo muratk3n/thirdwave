@@ -46,7 +46,7 @@ your superior bcz he knows dentistry better than you.
 
 People revolt, react -- they are not policy experts, this is what they
 do. Sure their anger can push leadership, but that's kind of late at
-that point isn't it? Isn't the point of political leadership is that
+that point isn't it? Isn't the point of political leadership that
 things do not get there in the first place? Revolt indicates failure
 of politics.
 
