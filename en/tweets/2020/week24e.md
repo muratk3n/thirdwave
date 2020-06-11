@@ -40,8 +40,7 @@ Want: >3000 Watt portable H2-fueled energy generator <20 kg in hardware.
 Real change happens top-down, not bottom-up.
 
 Top, bottom are a bit misleading words though.. Your dentist is not
-your superior bcz he knows dentistry better than you. How f-ing hard
-is this to understand?
+your superior bcz he knows dentistry better than you. 
 
 ---
 
