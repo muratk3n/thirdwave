@@ -27,7 +27,7 @@ hearing kicks off at noon Eastern (16:00 UTC)"
 
 Blacksplaining!
 
-Just kidding.. good stuff
+Just kidding.. 
 
 "@thEMANacho
 
