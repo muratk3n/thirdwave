@@ -56,7 +56,7 @@ That's right. He probably saw foraging soc who had no need for it. You
 get pagan religion if u r a peasant, worshipping bones, ancestors, and
 fucking a sheep on the side. Then you need religion as politics
 against the landowner class, mafia empires, against inequality. Wout
-these two things why the need for religion? Arent u already in Eden?
+agro, no Rome, no sheep, no need for religion. U already are in Eden.
 
 "Beyond the fact that they have no church, no religion, and are not
 idolaters, what more can I say?” -- Vespucci on Native Americans
