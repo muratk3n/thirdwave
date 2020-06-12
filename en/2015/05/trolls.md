@@ -18,11 +18,11 @@ on startup founders.
 
 And then there's the exorbitant legal cost regardless of whether the
 defending company wins at trial. Average defense cost in a patent case
-is reportedly over $1.5 million through the end of discovery and about
-$2.8 million through final disposition. It's an amount few startups
-can afford. In fact, extorting settlements with threat of high
-litigation cost is exactly the strategy employed by patent trolls in
-almost all cases.
+is reportedly over 1.5 million dollar through the end of discovery and
+about 2.8 million dollar through final disposition. It's an amount few
+startups can afford. In fact, extorting settlements with threat of
+high litigation cost is exactly the strategy employed by patent trolls
+in almost all cases.
 
 
 
