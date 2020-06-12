@@ -75,7 +75,7 @@ R&D for power generation"
 
 ---
 
-Well that's the job isn't it? Random, wanton violence
+Well that's the job isn't it? Random ass kicking
 
 "@mdslock
 
