@@ -9,7 +9,7 @@ in sunlight: 90% gone in 6 min in summer"
 
 ---
 
-Bundestagsabgeordneter. Right on dude.
+Bundestagsabgeordneter. Right on dude 👍
 
 ---
 
