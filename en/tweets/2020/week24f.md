@@ -75,8 +75,7 @@ R&D for power generation"
 
 ---
 
-Well that's the job isn't it? Watch for the self-chokehold tho, dont
-want to kill yourself.
+Well that's the job isn't it? Random, wanton violence
 
 "@mdslock
 
