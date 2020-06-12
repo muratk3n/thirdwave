@@ -169,10 +169,6 @@ Finance, Sales, etc.. these are all bureucracies within companies.
 
 ---
 
-Motherfucker realizing ignorance was bliss
-
----
-
 "@HislopMD
 
 Doctors are AMAZED at these 10 ways to BOOST your immune system:
