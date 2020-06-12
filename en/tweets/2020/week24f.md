@@ -9,7 +9,7 @@ in sunlight: 90% gone in 6 min in summer"
 
 ---
 
-Bundestagsabgeordneter. Right on.. right there with you.
+Bundestagsabgeordneter. Right on.. 
 
 ---
 
