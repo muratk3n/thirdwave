@@ -99,7 +99,7 @@ now in Ukraine seeking payback.. . He'd like Western media attn.
 *The Atlantic*: "As extraordinary as the decision by the Minneapolis
 City Council was, the prospect of dismantling a police force—even one
 with tens of thousands of officers—isn’t novel. In the Republic of
-Georgia, it has already been done.At the turn of the 21st century,
+Georgia, it has already been done. At the turn of the 21st century,
 Georgia was one of the most corrupt places on Earth. Bribery in the
 country, which lies in the Caucasus and shares a border with Russia,
 was rampant, and its police force, which was both a beneficiary and an
