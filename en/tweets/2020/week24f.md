@@ -89,8 +89,10 @@ protesters 'The cop in me wants to kick my own ass.'"
 
 ---
 
-From the man himself.. He had a kirkuffle w Putin, the word is he is
-now in Ukraine seeking payback.. . He'd like Western media attn.
+From the man himself..
+
+Later he had a kirkuffle w Putin, the word is he is now in Ukraine
+seeking payback.. . 
 
 [Link](https://foreignpolicy.com/2020/06/11/abolish-police-georgia-brutality-crime/)
 
