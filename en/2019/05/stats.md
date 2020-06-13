@@ -31,7 +31,7 @@ DATE
 2019-04-01    2.013819
 2019-07-01    2.103507
 2019-10-01    2.126630
-2020-01-01   -4.783095
+2020-01-01   -5.047091
 Name: growann, dtype: float64
 ```
 
@@ -137,12 +137,12 @@ DATE
 2020-01-01  0.250543
               infyoy
 DATE                
-2019-11-01  2.051278
 2019-12-01  2.285130
 2020-01-01  2.486572
 2020-02-01  2.334874
 2020-03-01  1.539327
 2020-04-01  0.329097
+2020-05-01  0.117926
 ```
 
 ## Wages and Unemployment
@@ -231,7 +231,7 @@ plt.savefig('icsa.png')
 ```
 
 ```text
-               ICSA
+ICSA
 DATE               
 2020-05-09  2687000
 2020-05-16  2446000
@@ -286,10 +286,10 @@ start=datetime.datetime(1985, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 today = datetime.datetime.now()
 df = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
-                returns="pandas",
-                start_date=start.strftime('%Y-%m-%d'),
-                end_date=today.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
+returns="pandas",
+start_date=start.strftime('%Y-%m-%d'),
+end_date=today.strftime('%Y-%m-%d'),
+authtoken=open(".quandl").read())
 
 print (df['PMI'].tail(4))
 df['PMI'].plot()
@@ -329,10 +329,10 @@ df = data.DataReader(cols, 'fred', start, end)
 df['gdpyoy'] = (df.GDPC1 - df.GDPC1.shift(4)) / df.GDPC1.shift(4) * 100.0
 
 df2 = quandl.get("ISM/MAN_PMI-PMI-Composite-Index", 
-                returns="pandas",
-                start_date=start.strftime('%Y-%m-%d'),
-                end_date=end.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
+returns="pandas",
+start_date=start.strftime('%Y-%m-%d'),
+end_date=end.strftime('%Y-%m-%d'),
+authtoken=open(".quandl").read())
 
 plt.figure(figsize=(12,5))
 ax1 = df2.PMI.plot(color='blue', grid=True, label='ISM')
@@ -367,7 +367,7 @@ plt.savefig('profit.png')
 ```
 
 ```text
-             CPROFIT     cpyoy
+CPROFIT     cpyoy
 DATE                          
 2019-04-01  2082.711  1.278730
 2019-07-01  2077.979 -1.247722
@@ -460,10 +460,10 @@ today = datetime.datetime.now()
 start=datetime.datetime(1980, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = quandl.get("MULTPL/SP500_PSR_QUARTER-S-P-500-Price-to-Sales-Ratio-by-Quarter", 
-                returns="pandas",
-                start_date=start.strftime('%Y-%m-%d'),
-                end_date=end.strftime('%Y-%m-%d'),
-                authtoken=open(".quandl").read())
+returns="pandas",
+start_date=start.strftime('%Y-%m-%d'),
+end_date=end.strftime('%Y-%m-%d'),
+authtoken=open(".quandl").read())
 print (df.tail(5))
 
 df.plot()
@@ -473,7 +473,7 @@ plt.savefig('price-sales.png')
 ```
 
 ```text
-            Value
+Value
 Date             
 2020-03-31   1.83
 2020-04-01   1.77
@@ -533,7 +533,7 @@ plt.savefig('wilshire.png')
 ```
 
 ```text
-            WILL5000IND
+WILL5000IND
 DATE                   
 2020-06-01       145.81
 2020-06-02       147.01
@@ -566,7 +566,7 @@ plt.savefig('junkbond.png')
 ```
 
 ```text
-            BAMLH0A2HYBEY
+BAMLH0A2HYBEY
 DATE                     
 2020-05-29           7.16
 2020-05-31           6.95
@@ -606,7 +606,7 @@ plt.savefig('yield-curve.png')
 ```
 
 ```text
-            DGS10  DGS3MO  Yield Curve
+DGS10  DGS3MO  Yield Curve
 DATE                                  
 2020-05-28   0.70    0.15         0.55
 2020-05-29   0.65    0.14         0.51
@@ -640,15 +640,142 @@ plt.savefig('vix.png')
 ```
 
 ```text
-Date
-2020-05-28    28.590000
-2020-05-29    27.510000
-2020-06-01    28.230000
-2020-06-02    26.840000
-2020-06-03    25.660000
-2020-06-04    25.809999
-2020-06-05    24.520000
-Name: Adj Close, dtype: float64
+
+gaierrorTraceback (most recent call last)
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connection.py in _new_conn(self)
+    159             conn = connection.create_connection(
+--> 160                 (self._dns_host, self.port), self.timeout, **extra_kw)
+    161 
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/util/connection.py in create_connection(address, timeout, source_address, socket_options)
+     56 
+---> 57     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+     58         af, socktype, proto, canonname, sa = res
+
+/usr/lib/python3.5/socket.py in getaddrinfo(host, port, family, type, proto, flags)
+    731     addrlist = []
+--> 732     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+    733         af, socktype, proto, canonname, sa = res
+
+gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+NewConnectionErrorTraceback (most recent call last)
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connectionpool.py in urlopen(self, method, url, body, headers, retries, redirect, assert_same_host, timeout, pool_timeout, release_conn, chunked, body_pos, **response_kw)
+    602                                                   body=body, headers=headers,
+--> 603                                                   chunked=chunked)
+    604 
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connectionpool.py in _make_request(self, conn, method, url, timeout, chunked, **httplib_request_kw)
+    343         try:
+--> 344             self._validate_conn(conn)
+    345         except (SocketTimeout, BaseSSLError) as e:
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connectionpool.py in _validate_conn(self, conn)
+    842         if not getattr(conn, 'sock', None):  # AppEngine might not have  `.sock`
+--> 843             conn.connect()
+    844 
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connection.py in connect(self)
+    315         # Add certificate verification
+--> 316         conn = self._new_conn()
+    317         hostname = self.host
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connection.py in _new_conn(self)
+    168             raise NewConnectionError(
+--> 169                 self, "Failed to establish a new connection: %s" % e)
+    170 
+
+NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7f5216b92da0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+MaxRetryErrorTraceback (most recent call last)
+~/Documents/env3/lib/python3.5/site-packages/requests/adapters.py in send(self, request, stream, timeout, verify, cert, proxies)
+    448                     retries=self.max_retries,
+--> 449                     timeout=timeout
+    450                 )
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/connectionpool.py in urlopen(self, method, url, body, headers, retries, redirect, assert_same_host, timeout, pool_timeout, release_conn, chunked, body_pos, **response_kw)
+    640             retries = retries.increment(method, url, error=e, _pool=self,
+--> 641                                         _stacktrace=sys.exc_info()[2])
+    642             retries.sleep()
+
+~/Documents/env3/lib/python3.5/site-packages/urllib3/util/retry.py in increment(self, method, url, response, error, _pool, _stacktrace)
+    398         if new_retry.is_exhausted():
+--> 399             raise MaxRetryError(_pool, url, error or ResponseError(cause))
+    400 
+
+MaxRetryError: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /quote/%5EVIX/history?filter=history&interval=1d&frequency=1d&period2=1592009999&period1=946692000 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f5216b92da0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+During handling of the above exception, another exception occurred:
+
+ConnectionErrorTraceback (most recent call last)
+<ipython-input-1-d310e47ba4b4> in <module>
+      7 start=datetime.datetime(2000, 1, 1)
+      8 end=datetime.datetime(today.year, today.month, today.day)
+----> 9 df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
+     10 df.plot()
+     11 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+
+~/Documents/env3/lib/python3.5/site-packages/pandas_datareader/data.py in DataReader(name, data_source, start, end, retry_count, pause, session, access_key)
+    308                                 adjust_price=False, chunksize=25,
+    309                                 retry_count=retry_count, pause=pause,
+--> 310                                 session=session).read()
+    311 
+    312     elif data_source == "google":
+
+~/Documents/env3/lib/python3.5/site-packages/pandas_datareader/base.py in read(self)
+    208         if isinstance(self.symbols, (compat.string_types, int)):
+    209             df = self._read_one_data(self.url,
+--> 210                                      params=self._get_params(self.symbols))
+    211         # Or multiple symbols, (e.g., ['GOOG', 'AAPL', 'MSFT'])
+    212         elif isinstance(self.symbols, DataFrame):
+
+~/Documents/env3/lib/python3.5/site-packages/pandas_datareader/yahoo/daily.py in _read_one_data(self, url, params)
+    127         url = url.format(symbol)
+    128 
+--> 129         resp = self._get_response(url, params=params)
+    130         ptrn = r'root\.App\.main = (.*?);\n}\(this\)\);'
+    131         try:
+
+~/Documents/env3/lib/python3.5/site-packages/pandas_datareader/base.py in _get_response(self, url, params, headers)
+    130             response = self.session.get(url,
+    131                                         params=params,
+--> 132                                         headers=headers)
+    133             if response.status_code == requests.codes.ok:
+    134                 return response
+
+~/Documents/env3/lib/python3.5/site-packages/requests/sessions.py in get(self, url, **kwargs)
+    544 
+    545         kwargs.setdefault('allow_redirects', True)
+--> 546         return self.request('GET', url, **kwargs)
+    547 
+    548     def options(self, url, **kwargs):
+
+~/Documents/env3/lib/python3.5/site-packages/requests/sessions.py in request(self, method, url, params, data, headers, cookies, files, auth, timeout, allow_redirects, proxies, hooks, stream, verify, cert, json)
+    531         }
+    532         send_kwargs.update(settings)
+--> 533         resp = self.send(prep, **send_kwargs)
+    534 
+    535         return resp
+
+~/Documents/env3/lib/python3.5/site-packages/requests/sessions.py in send(self, request, **kwargs)
+    644 
+    645         # Send the request
+--> 646         r = adapter.send(request, **kwargs)
+    647 
+    648         # Total elapsed time of the request (approximately)
+
+~/Documents/env3/lib/python3.5/site-packages/requests/adapters.py in send(self, request, stream, timeout, verify, cert, proxies)
+    514                 raise SSLError(e, request=request)
+    515 
+--> 516             raise ConnectionError(e, request=request)
+    517 
+    518         except ClosedPoolError as e:
+
+ConnectionError: HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /quote/%5EVIX/history?filter=history&interval=1d&frequency=1d&period2=1592009999&period1=946692000 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f5216b92da0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
 ```
 
 ![](vix.png)
@@ -676,11 +803,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2020-06-01    35.459999
-2020-06-02    37.259998
-2020-06-03    36.910000
-2020-06-04    37.250000
-2020-06-05    38.970001
+2020-06-08    38.590000
+2020-06-09    38.389999
+2020-06-10    38.730000
+2020-06-11    35.790001
+2020-06-12    36.599998
 Name: Close, dtype: float64
 ```
 
