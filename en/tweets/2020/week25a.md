@@ -168,7 +168,18 @@ TV Show COPS canceled?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">US response is coming. Hope you CCP tabloids are ready for what’s next. You will not extinguish the freedoms that have burned for over a century. Global Times propaganda should be labeled as such. Big red letters. <a href="https://twitter.com/hashtag/chinazi?src=hash&amp;ref_src=twsrc%5Etfw">#chinazi</a> <a href="https://twitter.com/hashtag/china?src=hash&amp;ref_src=twsrc%5Etfw">#china</a> <a href="https://twitter.com/hashtag/ChinaLiedPeopleDied?src=hash&amp;ref_src=twsrc%5Etfw">#ChinaLiedPeopleDied</a> <a href="https://twitter.com/hashtag/StandWithHongKong?src=hash&amp;ref_src=twsrc%5Etfw">#StandWithHongKong</a> <a href="https://t.co/1Gw0eO1AK2">https://t.co/1Gw0eO1AK2</a></p>&mdash; 🇺🇸Kyle Bass🇺🇸 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1271356758817112064?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"US response is coming. Hope you CCP tabloids are ready for what’s
+next. You will not extinguish the freedoms that have burned for over a
+century. Global Times propaganda should be labeled as such. Big red
+letters. 
+
+'@globaltimesnews
+
+As more external forces are involved in #HK's internal affairs,
+#China's determination to legislate national security laws for
+\#HongKong becomes stronger. China has expressed its strong
+dissatisfaction to the \#UK over its six-monthly report on HK: Chinese
+FM'"
 
 ---
 
