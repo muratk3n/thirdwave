@@ -225,18 +225,16 @@ deal with his anger issues, some past killings.
 Germany's culture code for itself is ORDNUNG. This is their
 "body-image", how they see themselves, want to be. The code can
 conjure up images of people walking in a single file, like automatons
-but ORDER isn't necessarily that. It can also be an absence of
-chaos. For an orderly process, you need to know the fundamentals of a
-situation, then a system can be designed to handle it which works in a
-way that makes it look easy.
-
-Take Berlin U-Bahn, there is no charge at the station entrance. You
-just freely walk in hop on the train. You have to have a ticket on you
-when you are on the train, but there is no stringent check at early
-entrance. This speeds up entry, exits. There are / can be checkers in
-the trains, enough of them that if you make a habit of not paying
-you'll eventually get caught. So everyone buys a ticket. Fast,
-"orderly". No chaos.
+but ORDER isn't necessarily that. It could simply be absence of
+chaos. Also for an unchaotic process, you need to know the
+fundamentals of a situation, then a system can be designed to handle
+it. Take Berlin U-Bahn, there is no charge at the station
+entrance. You just freely walk in hop on the train. You have to have a
+ticket on you when you are on the train, but there is no stringent
+check at early entrance. This speeds up entry, exits. There are / can
+be checkers in the trains, enough of them that if you make a habit of
+not paying you'll eventually get caught. So everyone buys a
+ticket. No chaos.
 
 ---
 
