@@ -252,8 +252,8 @@ constable, and, at times, to special committees"
 
 I met Weckl on Sam Ash NYC, had a drum head signed.
 
-Never got to meet the great Peart though, too bad. And now the man has
-assed away.
+Never got to meet the great Peart though, too bad. And now he passed
+away. 
 
 ---
 
