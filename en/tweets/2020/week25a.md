@@ -75,15 +75,6 @@ Hitler would be too I am sure
 
 ---
 
-"@mviser
-
-Joe Biden with a warning about municipal budgets and big problems on
-the horizon: 'Every town you work in, they have a budget. And they
-cannot deficit spend. The only operation in the world that can do that
-is the federal government.'"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alternative energy company MBR Global has announced plans to integrate <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelcellNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelcellNow</a> in its micro-grid project that will supply power to two remote villages in Malaysia. MBRG has ordered FCM801 and FCM802 fuel cell modules from <a href="https://twitter.com/intellenergy?ref_src=twsrc%5Etfw">@intellenergy</a> <a href="https://t.co/dx1GZ8rBHX">https://t.co/dx1GZ8rBHX</a>.</p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1271856119389007873?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
