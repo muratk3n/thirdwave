@@ -99,9 +99,9 @@ That's one less junk info on the Internet. You are welcome.
 
 ---
 
-Great; guy corrected his rough drone aerodynamics calc after I told
-him his doc on the Net was effed up.  He was doing the amateur thing,
-"Imma think this through on my own", "uh, like air, has mass, goes
+Great; guy corrected his drone aerodynamics calc after I told him his
+doc on the Net was effed up.  He was doing the amateur thing, "Imma
+think this through on my own", "uh, like air, has mass, goes
 down.. uhhh uhhh" disregarding years of knowhow, the concept of a
 *slipstream*. Expertise matters. U can choose to ignore broken stuff
 but have to know what the F they are first.
