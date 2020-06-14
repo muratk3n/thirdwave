@@ -124,7 +124,8 @@ Celebrating the physics of all that flows"
 
 ---
 
-Watched *Rampage* in a foreign language. Looks like a good movie.
+Watched *Rampage* in a foreign language. Looked fine. No idea what
+they talked about.
 
 ---
 
