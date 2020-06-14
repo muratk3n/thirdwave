@@ -95,7 +95,9 @@ villain was a variation of a Nazi and they constantly brought up WWII
 
 ---
 
-That's one less junk info on the Internet. You are welcome.
+That's one less junk info on the Internet.
+
+You are welcome.
 
 ---
 
