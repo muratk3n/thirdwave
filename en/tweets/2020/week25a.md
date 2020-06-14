@@ -159,7 +159,7 @@ on Fox, was less surprising"
 
 ---
 
-♪♬ Bad boys .. bad boys ♪♬ .. watcha gonna doo? Watcha gonna do when
+♪♬ Bad boys .. Bad boys ♪♬ .. Watcha gonna doo? Watcha gonna do when
 they come for you? ♪♬
 
 ---
