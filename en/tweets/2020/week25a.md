@@ -1,8 +1,8 @@
 # Tweets - Week 25a
 
-Was in DE when that Nokia pivot to MS happened, lots of Unix, open
-source ppl were upset abt that. Nokia should've gone forward with that
-MeeGo build their own thing, in Europe.
+When that Nokia pivot to MS happened, lots of Unix, open source ppl I
+knew were upset... Nokia should've gone forward with that MeeGo build
+their own thing, in Europe.
 
 ---
 
