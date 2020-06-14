@@ -135,16 +135,16 @@ I was reminded of this detail when Officer Tou Thao of the Minneapolis
 Police Department cracked, 'This is why you don’t do drugs, kids,' to
 the assembled crowd watching the killing of George Floyd in real
 time. The line struck me as something someone might say if they had
-grown up watching Cops, and had absorbed the show’s motifs as emblems
-of police work. In Cops’ world, the police are by default the good
+grown up watching *Cops*, and had absorbed the show’s motifs as emblems
+of police work. In *Cops*’ world, the police are by default the good
 guys, because theirs is the only point of view the camera
-follows. Fleeing suspects must be captured because—on Cops—they’re
+follows. Fleeing suspects must be captured because—on *Cops*—they’re
 always guilty of something. And the structure of the show’s acts,
 punctuated by ad breaks, means that the good guys unfailingly capture
 and overpower the bad guys in a matter of minutes.Never have these
 qualities felt so out of touch.
 
-That Cops was still in production shocked some people this week, given
+That *Cops* was still in production shocked some people this week, given
 how much it seemed like a relic of the late ’80s and ’90s, something
 unearthed from a time capsule alongside The Tracey Ullman Show and the
 'Just Say No' antidrug campaign. But that the series was finally
