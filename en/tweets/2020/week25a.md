@@ -190,8 +190,7 @@ required to wear masks while interacting with customers.'"
 ---
 
 It doesn't sound like Jesse has it in him. The environ arnd him
-doesn't look like conducive for a run either... More likely now race
-will be btw Biden and Trump.
+doesn't look like conducive for a run either. 
 
 ---
 
