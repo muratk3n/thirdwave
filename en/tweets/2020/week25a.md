@@ -162,7 +162,9 @@ TV Show COPS canceled?
 
 ---
 
-"US response is coming. Hope you CCP tabloids are ready for what’s
+"@jkylebass
+
+US response is coming. Hope you CCP tabloids are ready for what’s
 next. You will not extinguish the freedoms that have burned for over a
 century. Global Times propaganda should be labeled as such. Big red
 letters. 
