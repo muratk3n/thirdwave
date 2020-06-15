@@ -91,8 +91,8 @@ Interesting study \#H2
 
 ---
 
-Remember a tweet exch, dude named Chris was protesting a someone's
-name bcz it was Islam, saying 'it is overtly religious', then someone
+Remember a tweet exch, dude named Chris was protesting someone's name
+bcz it was Islam, saying 'it is overtly religious', then someone
 responds, "Okay, CHRISTIAN". Some funny shit.
 
 ---
