@@ -85,15 +85,7 @@ BE) has returned 16.3% YTD and -17.1% over the past 12 months"
 
 ---
 
-Within 5 YEARS! That's just swell..
-
-California Energy Commission Study: "Stakeholders interviewed for this
-study show a strong consensus that, for the hydrogen transportation
-sector to be self-sustaining without subsidy, the pump price of
-hydrogen needs to reach price parity with gasoline on a
-fuel-economy-adjusted basis. Price points suggested were in the range
-of 6 dollar to 8 dollar per kilogram, with the view that this price
-range must be achieved within three to five years"
+Interesting study \#H2
 
 [PDF](https://cafcp.org/sites/default/files/Roadmap-for-Deployment-and-Buildout-of-RH2-UCI-CEC-June-2020.pdf)
 
