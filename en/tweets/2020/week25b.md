@@ -111,9 +111,7 @@ responds, "Okay, CHRISTIAN". Some funny shit.
 Vulcans have only one name..? Spock, and Mr. Spock, never hear any
 other name...
 
-The man needs a first name. Like Jake, or Todd. 
-
-\#Trek 
+The man needs a first name. Like Jake, or Todd. \#Trek 
 
 ---
 
