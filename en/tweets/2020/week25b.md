@@ -26,7 +26,8 @@ too"
 
 I dont think some of the con justices are the boogeyman they are made
 out to be. Most are strict constitutionalist and know the spirit of
-the doc well, and the arrow of dev in US goes for more freedom. 
+the doc well, and the arrow of dev in US goes for more freedom. Trust
+me, ur founders did a good job. 
 
 "@Vicky_ACAB
 
