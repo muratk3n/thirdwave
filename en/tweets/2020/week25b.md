@@ -1,5 +1,9 @@
 # Tweets - Week 25b
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Without a doubt the coolest thing I will see today!<br><br>Clip of an <a href="https://twitter.com/hashtag/AiaaAviation?src=hash&amp;ref_src=twsrc%5Etfw">#AiaaAviation</a> presentation showing vortex shedding &amp; breakdown from sims of a rotor in hover. Mesmerizing visualization from Dr. Jennifer Abras &amp; the HPCMP CREATE team. <a href="https://twitter.com/hashtag/AvGeek?src=hash&amp;ref_src=twsrc%5Etfw">#AvGeek</a> <a href="https://twitter.com/aiaa?ref_src=twsrc%5Etfw">@aiaa</a> <a href="https://twitter.com/AeroWomen?ref_src=twsrc%5Etfw">@AeroWomen</a> <a href="https://twitter.com/fyfluiddynamics?ref_src=twsrc%5Etfw">@fyfluiddynamics</a> <a href="https://t.co/WJfYLK1zeX">pic.twitter.com/WJfYLK1zeX</a></p>&mdash; Christopher Combs (@DrChrisCombs) <a href="https://twitter.com/DrChrisCombs/status/1272551523600478209?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@davidsirota
 
 NEWS: Trump just quietly gave private equity a huge gift that could
@@ -8,10 +12,6 @@ billionaires.
 
 The move followed a $3 MILLION super PAC donation from the private
 equity mogul pushing for the change"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Without a doubt the coolest thing I will see today!<br><br>Clip of an <a href="https://twitter.com/hashtag/AiaaAviation?src=hash&amp;ref_src=twsrc%5Etfw">#AiaaAviation</a> presentation showing vortex shedding &amp; breakdown from sims of a rotor in hover. Mesmerizing visualization from Dr. Jennifer Abras &amp; the HPCMP CREATE team. <a href="https://twitter.com/hashtag/AvGeek?src=hash&amp;ref_src=twsrc%5Etfw">#AvGeek</a> <a href="https://twitter.com/aiaa?ref_src=twsrc%5Etfw">@aiaa</a> <a href="https://twitter.com/AeroWomen?ref_src=twsrc%5Etfw">@AeroWomen</a> <a href="https://twitter.com/fyfluiddynamics?ref_src=twsrc%5Etfw">@fyfluiddynamics</a> <a href="https://t.co/WJfYLK1zeX">pic.twitter.com/WJfYLK1zeX</a></p>&mdash; Christopher Combs (@DrChrisCombs) <a href="https://twitter.com/DrChrisCombs/status/1272551523600478209?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
