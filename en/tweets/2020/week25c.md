@@ -24,7 +24,7 @@ Info from T. Milton on Nikola
 ---
 
 Plus there is that annoying detail that US played a huge part turning
-China what it is today. 
+China into what it is today. 
 
 ---
 
