@@ -23,6 +23,11 @@ Info from T. Milton on Nikola
 
 ---
 
+Plus there is that annoying detail that US played a huge part turning
+China what it is today. 
+
+---
+
 Even if you were correct, that CH is doing well, and here I'll give
 you the Fareed Zakaria response; what if you are not China? Get it?
 He is trying to say 'what if you are one of those countries who for
