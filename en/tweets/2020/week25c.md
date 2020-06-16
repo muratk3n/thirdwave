@@ -35,7 +35,7 @@ whatever reason do not have capable ppl at the helm but now you are
 stuck, bcz u have no democracy, you cannot change them'.
 
 The results [I
-shared](https://muratk3n.github.io/thirdwave/en/2016/11/why-is-democracy-better.md)
+shared](https://muratk3n.github.io/thirdwave/en/2016/11/why-is-democracy-better.html)
 on democracy show clearly, with all things considered, overall,
 democracy works, so by default countries should prefer that. I dont
 think anyone can replicate China's freak experiment.
