@@ -104,7 +104,7 @@ Excellent. If you were back at those times, there'd come a time,
 within a span of ~50 yrs, before / after of the place would look
 drastically different. Before would be carriages, slow life, hand-sewn
 clothing, after, train, steam ships, manufactured clothing, much
-faster life. Diff between 1st and 2nd waves. They are always drastic.
+faster life. Diff between two waves. They are always drastic.
 
 ---
 
