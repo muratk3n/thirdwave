@@ -35,7 +35,7 @@ on democracy show clearly, with all things considered, overall,
 democracy works, so by default countries should prefer that. I dont
 think anyone can replicate China's freak experiment.
 
-"If democracy is so well, look at China, they are managing"
+"If democracy works so well, look at China, they are managing"
 
 ---
 
