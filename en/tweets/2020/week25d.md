@@ -105,7 +105,7 @@ culturally native, and say "you are Amish!", "fuck you if you dont say
 you are Amish".  The Japanese looking dude would balk, he'd say I'm
 pretty sure I am not f-ing Amish, and this guy is ragging on me, maybe
 I should start *learning Japanese* (see how it backfires), bcz I cant
-be whatever fuck these ppl want me to be. And the downslide begins.
+be whatever these ppl want me to be. And the downslide begins.
 
 "But then should we tell ppl to supress their 'identity' as deluded as
 it might be, like in TR?"
