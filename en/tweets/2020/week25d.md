@@ -127,9 +127,9 @@ it might be, like in TR?"
 
 ---
 
-Dumbass talking abt tomatoe sauce thinking it is Italian when in fact
-tomato is very much American, it was brought back to Europe from the Americas.
-[Faux Ambassadors](https://muratk3n.github.io/thirdwave/en/2019/11/faux-ambassadors.html).
+Dumbass talking abt tomato sauce thinking it is Italian when in fact
+tomato is very much American, it was brought back to Europe from the
+Americas.  [Faux Ambassadors](https://muratk3n.github.io/thirdwave/en/2019/11/faux-ambassadors.html).
 
 
 ---
@@ -138,9 +138,9 @@ My niggers...
 
 "Anatolian people never seem to have been big fans of [Otto] wars or
 military life. According to the historian Erik-Jan Zürcher, by the end
-of the first World War the number of deserters ..  had “increased to
+of the first World War the number of deserters ..  had 'increased to
 nearly half a million, a number far higher than that of the soldiers
-remaining in the field"
+remaining in the field'
 
 [Link](https://lareviewofbooks.org/article/turkeys-glorious-hat-revolution/)
 
