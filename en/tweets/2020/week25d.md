@@ -144,8 +144,8 @@ Piketty says tax the rich at 80%.
 Yeah but bcz of [Broken Windows](https://taibbi.substack.com/p/where-did-policing-go-wrong)
 mentality he kept going at the guy.. Cop is thinking 'why is the dude
 sleeping there..  there has to be more to this... lemme probe some
-more..  some more..' and the guy snaps. So which training is more
-important?
+more..  some more..' and the guy snaps. IMO that was the training in play
+there.
 
 "@AJRoss_TV
 
