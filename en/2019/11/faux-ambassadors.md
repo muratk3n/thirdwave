@@ -88,26 +88,13 @@ remains American. Ssshh, keep quiet on that.
 
 2)
 
-Much revolved around MJ; References to him go all the way back to
-E. Murphy. He is referred to because he as a symbol had to be
-addressed, handled. By others IMO he was too quickly condemned, not
-bcz of whatever odd acts he may have been involved in, but as the
-result of the cultural discourse. He was was condemned bcz what he
-represented in terms of racial relations was deemed unacceptable.
-
-(Through plastic surgeries MJ was also turning into Diana Ross, a
-black woman. The guy was just weird basically... What kind of normal
-person can write *Billy Jean* anyway?)
-
-3)
-
 If culture is shared, is imprinted even, and the root of US culture is
 Protestanism, that means even the Catholics of US would act Protestan
 whether they like it or not. This is in fact true. The faux
 ambassadorship, acting out streotypes aside, ppl act and think like
 Protestans. Huntington talked abt this in one of his books.
 
-4)
+3)
 
 We now arrive at the mystery that is the Governator - the ultimate
 foreigner... So foreign in fact that after you watch his movie, you
@@ -117,14 +104,14 @@ whatever. Ahnuld kept this act going for decades now (noone holds on
 to an accent unless they want to), and it has been hilarious. He is of
 course Germanic in culture being outside US before age 7.
 
-5)
+4)
 
 Some people's internal make-up is so strongly in certain direction
 that no matter the culture they were born into, they may not belong to
 that culture. These edge cases do happen.  In this case Rapaille's
 answer is simple: buy a plane ticket, and leave.
 
-6)
+5)
 
 The cultural subnations are fake. It takes a lot of make-belief,
 acting, subterfuge to bring them to life, on real world and on
@@ -138,7 +125,7 @@ guy outside the village looking in, watching all the rituals, sheep
 fucking that goes on in there. The faux ambassadors get it from them
 the most, and rightfully so.
 
-7)
+6)
 
 In *Raw* E. Murphy has tells a story where he gets out from *Rocky 3*
 and sees "Italians", all proud, acting tough, hollering at blacks. So
@@ -153,7 +140,7 @@ jungle, hunting, etc. Stallone acts as nomadic, Protestan
 American. Even when he receives blessings from a priest, it is done
 remotely, while he is running in *Rocky*.
 
-8)
+7)
 
 Fake subnations and their ambassadors helped create a lot of comedy,
 and in the positive, even maybe a "safe-space" for people (which I
@@ -162,7 +149,7 @@ point where now "a black kid with a book is called acting white" as
 Bama said correctly, for once. I'd rather not have the comedy than a
 single black kid having to hear those words.
 
-9)
+8)
 
 Another aspect of this whole thing is, if there is an unconformtable
 topic talking about it, through comedy, making light of it as much as
@@ -170,7 +157,7 @@ possible, so it is not talked about uncomfortably in other parts of
 society. This too would be very American. But the act can start having
 a life of its own, impinge on other parts of culture. Watch out.
 
-10)
+9)
 
 "Does religion matter for subcultures? No. Rituals do not create
 culture. Culture has to do with codes, embedded in emotional brain
@@ -189,7 +176,7 @@ moved your punk ass to where you are now from your (very likely)
 shithole country. They won't belong to your original homeland just for
 the virtue of being your children.
 
-11)
+10)
 
 Which brings us to Jews. I heard Netanyahu say once [parap] "Jews came
 back to their homeland and we are proud to maintain our culture. We
