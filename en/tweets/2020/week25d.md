@@ -61,7 +61,7 @@ issues. Listen below"
 
 ---
 
-That's crazy..
+Awesome
 
 "The PlayStation 4 may be the latest and greatest video game console,
 but the chip from the original PlayStation has gone where no video
