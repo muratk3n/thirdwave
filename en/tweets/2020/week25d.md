@@ -128,7 +128,9 @@ it might be, like in TR?"
 ---
 
 Dumbass talking abt tomatoe sauce thinking it is Italian when in fact
-tomato is very much American. [Faux Ambassadors](https://muratk3n.github.io/thirdwave/en/2019/11/faux-ambassadors.html).
+tomato is very much American, it was brought back to Europe from the Americas.
+[Faux Ambassadors](https://muratk3n.github.io/thirdwave/en/2019/11/faux-ambassadors.html).
+
 
 ---
 
