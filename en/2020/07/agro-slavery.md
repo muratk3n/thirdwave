@@ -10,13 +10,13 @@ identify slaves if they were in different color, that could have been
 another reason for black slavery in America. But otherwise there was
 slavery of all kinds around the Mediterranean - white or black.
 
-[Link](From https://www.ducksters.com/history/ancient_rome/slaves.php)
+[Link](https://www.ducksters.com/history/ancient_rome/slaves.php)
 
-A fairly large percentage of the people living in Rome and Italy were
-slaves. Historians aren't sure of an exact percentage but somewhere
-between 20% and 30% of the people were slaves. During the early parts
-of the Roman Empire, as many as one third of the people in Rome were
-slaves.
+[During the years of the Roman Empire a] fairly large percentage of
+the people living in Rome and Italy were slaves. Historians aren't
+sure of an exact percentage but somewhere between 20% and 30% of the
+people were slaves. During the early parts of the Roman Empire, as
+many as one third of the people in Rome were slaves.
 
 Rifkin
 
