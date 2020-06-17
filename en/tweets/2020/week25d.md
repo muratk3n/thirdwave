@@ -41,7 +41,7 @@ That's a lot of non-Muslims.. Sad so many are gone.
 
 ---
 
-Cornel West: "[I]]n 313, and Christianity became the official religion
+Cornel West: "[I]n 313, and Christianity became the official religion
 of the Roman Empire under Theodotius the First, his successor. And of
 course, this is the same Roman Empire that put Jesus to death. So one
 of the real ironies is here you have the cross, the bloody cross which
