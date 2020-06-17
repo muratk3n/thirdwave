@@ -12,7 +12,8 @@ No, it's an [1st Wave concept](https://muratk3n.github.io/thirdwave/en/2020/07/a
 
 ---
 
-Non-Muslims during Otto days, 1884, data from [here](http://psi424.cankaya.edu.tr/uploads/files/Shaw,%20Ott%20Census%20System%20and%20Pop,%201831-1914%20%281978%29.pdf)
+Non-Muslims as percentage of the population during Otto days, in 1884,
+data from [here](http://psi424.cankaya.edu.tr/uploads/files/Shaw,%20Ott%20Census%20System%20and%20Pop,%201831-1914%20%281978%29.pdf)
 
 ```python
 print (np.round(4553 / 17143. * 100.),'%')
