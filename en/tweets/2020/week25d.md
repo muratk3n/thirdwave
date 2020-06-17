@@ -1,5 +1,10 @@
 # Tweets - Week 25d
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The fastest decentralized currency just got another upgrade. Let’s finish the digital money revolution. <a href="https://t.co/StrY9CSBG3">https://t.co/StrY9CSBG3</a></p>&mdash; Colin LeMahieu (@ColinLeMahieu) <a href="https://twitter.com/ColinLeMahieu/status/1272992872015544321?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "Mitsui invests $25m in FirstElement Fuel"
 
 [Link](https://www.h2-view.com/story/mitsui-invests-25m-in-firstelement-fuel/)
