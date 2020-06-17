@@ -51,6 +51,8 @@ are governed well no more than necessary. The "more" of this extra
 construction can involve shady dealings and that part is caught by the
 regression.
 
+[Code](../../2015/04/parochial-interests.md)
+
 Elections
 
 US elections (most likely elections in other democratic countries as
