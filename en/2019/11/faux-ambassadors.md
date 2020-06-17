@@ -1,32 +1,24 @@
 # Cultures, Identities, Something Dash Something Americans, Immigrants
 
-Outside of US, in the EU and the near countries everybody likes
-Michael Jackson. Noone much cares or hears about the other stuff, just
-enjoy the man's music which is legendary. So it was a shock for me
-when I came to US to see many ppl were hating on Mike. During this
-time MJ was getting whiter and whiter too, to the point that a black
-friend after seeing MJ on TV would comment to us with disbelief
-"look at Mike, he is *white*".
+Arriving to US, one of the biggest shocks was expecting to find
+Americans in US, but finding bunch of Italians, Polish, Irish and
+Germans. It seemed people were obsessed with their ethnic
+compositions, "I am 20% Irish, 3% Polish, 30% Italian, and .." would
+say one, while I was trying to compute how those percentages could
+come about arithmetically, another would jump and say 50%/%50%
+German-Irish bitch! 
 
-Another shock was expecting to find Americans in US, but finding bunch
-of Italians, Polish, Irish and Germans. It seemed people were obsessed
-with their ethnic compositions, "I am 20% Irish, 3% Polish, 30%
-Italian, and .." would say one, while I was trying to compute how
-those percentages could come about arithmetically, another would jump
-and say 50%/%50% German-Irish bitch! I did not further analyze all
-this, put it on the backburner to come back to, one day.
-
-Now I am thinking maybe during this time, when US thought how they
-wanted to be, they looked at extreme cases like MJ and said "we
-definitely don't want *that*". Combined with some other movements,
-this could be how US arrived to being non-American Americans, to being
-Polish, Irish, Italians.. I must heard from so many that they were
-Italians at some point that when I met someone in NY and the guy said
-"I am Italian", even tho I could tell he was off the boat I paused for
-a second. Sensing my hesitation the friend helpfully continued,
-leaning forward for better emphasis, "*from Italy*". The subtext was
-clear: not from *New Jersey*. He probably was shocked as I was seeing
-so many of his "countrymen" in US who were clearly not like him.
+I believe this movement came from a want to handle the diversity
+triggered by Third Wave changes, but went haywire. Combined with some
+other movements, this could be how US arrived to being non-American
+Americans, to being Polish, Irish, Italians.. I must heard from so
+many that they were Italians at some point that when I met someone in
+NY and the guy said "I am Italian", even tho I could tell he was off
+the boat I paused for a second. Sensing my hesitation the friend
+helpfully continued, leaning forward for better emphasis, "*from
+Italy*". The subtext was clear: not from *New Jersey*. He probably was
+shocked as I was seeing so many of his "countrymen" in US who were
+clearly not like him.
 
 So maybe US wanted to move away from sights of extreme assimilation,
 then developed "national subgroups", Scottish, Polaks, ..  who become
