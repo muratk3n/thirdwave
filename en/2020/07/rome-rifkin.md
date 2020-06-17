@@ -1,5 +1,7 @@
 # Rome by Rifkin
 
+*The Emphatic Civilization*, Rifkin
+
 Plant cultivation—aided by irrigation systems—greatly increased the
 yield per unit of human energy or labor expended. Agricultural
 surpluses also freed at least some people from toil on the

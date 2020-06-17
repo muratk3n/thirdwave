@@ -1,6 +1,5 @@
 # Tweets - Week 25d
 
-
 "@vonderleyen
 
 Today we are presenting our European Vaccine Strategy. Joint action at
