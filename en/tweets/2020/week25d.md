@@ -111,7 +111,7 @@ in US, here is how it would go.
 US founders, bcz for whatever reason, they were shellshocked by the
 [here-and-now](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html)
 of their time, etc. would pick some marginal identity to get away from
-it all. Say they pick "being Amish" as the new identity. They'd say
+it all. Say they pick .. the Amish as the new identity. They'd say
 "happy are those who say they are Amish", and that, "everyone in the
 world is Amish they just don't know it yet". They'd rename the country
 Amishland, then many years later, confused citizens would turn to
