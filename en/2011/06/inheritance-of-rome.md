@@ -12,33 +12,22 @@ opposite, it was a time when violence was commonplace, even seen as
 entertainment (as in gladiator games). If you did not belong to the
 elite, violent punishment could be doled out to you in public in a
 most "barbaric" way possible. There was (of course) slavery and the
-society rife with corruption.On the issue of historical and
-archeological research the book's message is more hopeful. It states
-research on Middle Ages has vastly improved due to a sea change in how
-such studies are now pursued, especially in archeology. Traditional
-archeology was mostly about unearthing, categorizing "pots and pans",
-new approach looks at the spatial configuration of the artifacts,
-sites and the many relationships that can be hypothesized from
-them. New approach puts greater focus on economic and social issues
-that lead to better understanding of this age.On this we add -- it is
-quite normal that modernist mentality secretly romanticizing
-Rome. Modernity is really a historical aberration (it lasted only few
-hundred years after all), but unfortunately its adherents saw the
-period as "final", or "the end", which later pushed them to justify
-its existence. So these people looked into their past, trying to find
-another period that was similar, as maximalist and as centrist as
-their own. And voila: they found exactly what they were looking for in
-Rome.
+society rife with corruption. On the issue of historical and
+archeological research the book's message is more hopeful.
 
+It states research on Middle Ages has vastly improved due to a sea
+change in how such studies are now pursued, especially in
+archeology. Traditional archeology was mostly about unearthing,
+categorizing "pots and pans", new approach looks at the spatial
+configuration of the artifacts, sites and the many relationships that
+can be hypothesized from them. New approach puts greater focus on
+economic and social issues that lead to better understanding of this
+age.On this we add -- it is quite normal that modernist mentality
+secretly romanticizing Rome. Modernity is really a historical
+aberration (it lasted only few hundred years after all), but
+unfortunately its adherents saw the period as "final", or "the end",
+which later pushed them to justify its existence. So these people
+looked into their past, trying to find another period that was
+similar, as maximalist and as centrist as their own. And voila: they
+found exactly what they were looking for in Rome.
 
-
-
-
-
-
-
-
-
-
-
-![](The-Inheritance-of-Rome-b-002.jpg)

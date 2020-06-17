@@ -18,5 +18,9 @@
 
 [Not An Empire](../../2015/01/not-empire.md)
 
+[The Inheritance of Rome](../../2011/06/inheritance-of-rome.md)
+
+[Slavery](../../2020/07/agro-slavery.md)
+
 [[⇪Up]](../..)
 

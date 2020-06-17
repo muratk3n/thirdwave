@@ -279,25 +279,6 @@ vehicles are surging, Ten fold"
 
 ---
 
-Slavery had [nothing to do with
-race](https://muratk3n.github.io/thirdwave/en/2018/01/q-231.html#slavery).
-
-Think about it; could there be slavery pre-agro? Let's say you wanted
-to make a fellow forager a slave.. u pick a little guy, your mini-me,
-u smack'em around, he makes you laugh... But now you have to take care
-of this other person, need to hunt twice as much to obtain food. If he
-hunted, foraged by himself, he can't be slaved. So economically,
-slavery before farming makes no sense. Only through landowning,
-farming you can create a surplus some of which you can use to hire
-guards, overseers, managing labor which then creates even more
-surplus.
-
-"I want reperations! US founders were racist!"
-
-*2019-9-3 11:24:2*
-
----
-
 😆😆😆
 
 When May was making those speeches, there was always a protestor out
