@@ -6,7 +6,7 @@
 
 ---
 
-No, it's an [1st Wave concept](https://muratk3n.github.io/thirdwave/en/2020/07/agro-slavery.html).
+No, it's a [1st Wave concept](https://muratk3n.github.io/thirdwave/en/2020/07/agro-slavery.html).
 
 "Slavery is a black concept"
 
