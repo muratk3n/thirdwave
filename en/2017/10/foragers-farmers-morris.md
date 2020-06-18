@@ -28,8 +28,6 @@ By imposing such mental structures on their world, Hilly Flankers
 were, we might say, domesticating themselves. They even remade what
 love meant. [..]
 
-<a name='hierarchy'/>
-
 To do well, people now needed property—a house, fields, and flocks,
 not to mention investments like wells, walls, and tools. [..] Life
 increasingly focused on small family groups, probably the basic unit
@@ -52,6 +50,8 @@ in a holy aura, justifying why some people owned more than
 others. People may also have used skulls for necromancy, summoning
 ancestors to ask when to plant, where to hunt, and whether to raid
 neighbors [..]
+
+<a name='hierarchy'/>
 
 [H]ierarchy developed fastest within households. I have already
 observed that men and women had had different roles in foraging
@@ -80,20 +80,6 @@ lands and flocks would marry others in the same happy situation,
 consolidating holdings. The rich got richer.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
