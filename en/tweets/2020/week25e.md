@@ -2,7 +2,7 @@
 
 File Brazillia, La Boulangerie Digitale \#music
 
-[Link](https://youtu.be/1ZskFge3Udg)
+[Link](https://youtu.be/1ZskFge3Udg?t=32)
 
 ---
 
