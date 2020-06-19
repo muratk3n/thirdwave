@@ -38,8 +38,8 @@ color as she withdraws from the VP race"
 
 
 Some famous ppl got whiter in hair under lockdown and I was like that
-mofo *aged* from the fear son.. Than I thought nah he just didnt get
-his hairdresser visit for his routine hair coloring.
+mofo-ka *aged* from the fear son.. Than I thought nah he just didnt
+get his hairdresser visit for his routine hair coloring.
 
 ---
 
