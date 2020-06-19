@@ -76,7 +76,7 @@ And this is Gaetz as Robin in his early career with the nipple-suit Batman
 
 ---
 
-Hand-craft shit mathematically; so much more fun (plus higher chance
+Hand-craft it mathematically; so much more fun (plus higher chance
 of success)
 
 ---
