@@ -66,7 +66,7 @@ effects of many genes)"
 
 ---
 
-And this is Gaetz as Robin in an his early career with the nipple-suit Batman
+And this is Gaetz as Robin in his early career with the nipple-suit Batman
 
 <img width="340" src="https://i0.wp.com/www.thestopbutton.com/wp-content/uploads/2016/03/Batman-Robin-1997-tt0118688.jpg?fit=672%2C228&ssl=1"/>
 
