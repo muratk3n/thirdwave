@@ -757,7 +757,7 @@ Freq: MS, Name: debt, dtype: float64
 
 <a name="gini"/>
 
-# Inequality - GINI Index
+# Wealth Inequality - GINI Index
 
 ```python
 import pandas as pd, datetime
