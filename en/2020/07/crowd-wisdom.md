@@ -36,5 +36,5 @@ garbage-in-garbage-out situation. Averaging won't fix anything.
 But averaging / combining the views of multiple policymakers who know
 about policy .. hmm that could work. I have an idea - I'll call it the
 *frickin parliament*, where multiple policymakers come together and
-contribute to policymaking.. 
+contribute to policymaking? Just spitballing here.. 🤷‍♂️
 
