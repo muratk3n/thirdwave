@@ -48,6 +48,7 @@ print (wattperPerson * pop / 1e12, 'Terrawatts')
 will be needed for everyone. How much does the Sun supply?
 
 [Link](https://ag.tennessee.edu/solar/Pages/What%20Is%20Solar%20Energy/Sun's%20Energy.aspx)
+
 "At the upper reaches of our atmosphere, the energy density of solar
 radiation is approximately 1368 W/m2 (watts per square meter).  At the
 Earth's surface, the energy density is reduced to approximately 1000
@@ -68,12 +69,10 @@ Even with 50% panel efficiency, an area of Texas can supply more than
 four times the energy needed.
 
 Important point 10 KW / person is a first-world number. Not everyone
-in the world is there yet.
-
-Plus currently we live in luxurious consumption, and waste. Imagine
-how much energy is wasted in commuting. People travel distances daily
-that would be unthinkable 100 years ago, and it isn't advance. It is
-waste.
+in the world is there yet. Plus first world is living in luxurious
+consumption mode, and lots of waste. Imagine how much energy is wasted
+in commuting. People travel distances daily that would be unthinkable
+100 years ago, which isn't necessarily advance. It is waste.
 
 No need to go to space for energy, because in space energy gain
 becomes 1368 W/m2, from 1000 W/m2. It isn't doubling, or tripling
