@@ -256,25 +256,6 @@ partisan power contest as a whistleblower" -- Taibbi
 
 ---
 
-Wisdom of the crowds (or, as I call it, averaging estimates of ppl who
-know a few things about a subject) is a great thing..
-
-It even works internally sometimes. Some call this "[the wisdom of the
-crowd
-within](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)".
-
-"[Researchers] asked participants for point estimates of continuous
-quantities associated with general world knowledge, such as '[w]hat
-percentage of the world's airports are in the United States?' [then]
-half of the participants were immediately asked to make a second,
-different guess in response to the same question [..t]he average of a
-participant's two guesses was more accurate than either individual
-guess"
-
-*2019-10-9 13:20:39*
-
----
-
 So ppl who trade options use a volatility assumption for their
 pricing, whose average (once reverse-engineered from the price) can be
 used as an indication of future volatility. 

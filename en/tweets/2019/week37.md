@@ -458,53 +458,6 @@ Work L vans with a hydrogen power plant by 2020."
 
 ---
 
-Exactly. Look at Brexit.
-
-"But millions deciding on complex policy worked. Look at Brexit!"
-
-*2019-9-10 7:51:32*
-
----
-
-No. For judging the weight of something, we already have experience
-there... During our lives we have handled, touched, carried things, so
-looking at an object we can make weight guesses. The estimate will
-have noise but it won't be far off from the truth which can be
-corrected statistically.
-
-But most people do not deal with, create policy throughout their
-lives, so their estimates here are worthless. This is a
-garbage-in-garbage-out situation. Averaging won't fix anything.
-
-But averaging / combining the views of multiple policymakers who know
-about policy .. hmm that could work. I have an idea - I'll call it the
-*frickin parliament*, where multiple policymakers come together and
-contribute to policymaking.. Would that work? 
-
-"Can't we use the same idea for policy, like millions making policy?"
-
-
-*2019-9-10 7:51:32*
-
----
-
-
-Yes. People already have built-in knowledge about the
-visual-look-weight connection on many items, their guesses will have a
-certain amount of noise associated, but then averaging many guesses
-will fix that error. Makes sense.
-
-"At a country fair .. 800 people participated in a contest to estimate
-the weight of a slaughtered and dressed ox. Statistician Francis
-Galton observed that the median guess, 1207 pounds, was accurate
-within 1% of the true weight of 1198 pound"
-
-[Link](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
-
-*2019-9-10 7:50:17*
-
----
-
 Interesting: Julius Ceasar dabbled in banking before he became
 genocider-in-chief.
 
