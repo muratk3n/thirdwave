@@ -570,10 +570,6 @@ November"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I need this. <a href="https://t.co/Lco6r0ENcy">pic.twitter.com/Lco6r0ENcy</a></p>&mdash; Hard Guy ➐ (@Eslawal) <a href="https://twitter.com/Eslawal/status/1272152515501531136?ref_src=twsrc%5Etfw">June 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Without a doubt the coolest thing I will see today!<br><br>Clip of an <a href="https://twitter.com/hashtag/AiaaAviation?src=hash&amp;ref_src=twsrc%5Etfw">#AiaaAviation</a> presentation showing vortex shedding &amp; breakdown from sims of a rotor in hover. Mesmerizing visualization from Dr. Jennifer Abras &amp; the HPCMP CREATE team. <a href="https://twitter.com/hashtag/AvGeek?src=hash&amp;ref_src=twsrc%5Etfw">#AvGeek</a> <a href="https://twitter.com/aiaa?ref_src=twsrc%5Etfw">@aiaa</a> <a href="https://twitter.com/AeroWomen?ref_src=twsrc%5Etfw">@AeroWomen</a> <a href="https://twitter.com/fyfluiddynamics?ref_src=twsrc%5Etfw">@fyfluiddynamics</a> <a href="https://t.co/WJfYLK1zeX">pic.twitter.com/WJfYLK1zeX</a></p>&mdash; Christopher Combs (@DrChrisCombs) <a href="https://twitter.com/DrChrisCombs/status/1272551523600478209?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -755,10 +751,6 @@ save you. Breonna Taylor was asleep in her own bed"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can they do the electric slide?</p>&mdash; crummy (@crummysaint) <a href="https://twitter.com/crummysaint/status/1271947781683523585?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I knew it. <a href="https://t.co/ON97u8GSqd">https://t.co/ON97u8GSqd</a></p>&mdash; S.E. Cupp (@secupp) <a href="https://twitter.com/secupp/status/1272002060184100866?ref_src=twsrc%5Etfw">June 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
