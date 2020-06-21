@@ -63,7 +63,7 @@ penalizes risk taking and experimentation"
 Damn. Slave owners demanded one last harvest before emancipation,
 Juneteenth.
 
-F-ing farmers.
+Freaking farmers.
 
 [Link](https://mobile.twitter.com/etanthomas36/status/1273923025507844097)
 
