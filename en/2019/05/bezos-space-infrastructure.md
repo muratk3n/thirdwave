@@ -69,21 +69,24 @@ Even with 50% panel efficiency, an area of Texas can supply more than
 four times the energy needed.
 
 Important point 10 KW / person is a first-world number. Not everyone
-in the world is there yet. Plus first world is living in luxurious
-consumption mode, and lots of waste. Imagine how much energy is wasted
+in the world is there yet. Plus first world is in luxurious
+consumption mode, w lots of waste. Imagine how much energy is wasted
 in commuting. People travel distances daily that would be unthinkable
-100 years ago, which isn't necessarily advance. It is waste.
+to our ancestors <100 years ago, which isn't necessarily advance. It
+is waste.
 
-No need to go to space for energy, because in space energy gain
-becomes 1368 W/m2, from 1000 W/m2. It isn't doubling, or tripling
-gain. World population will double in 70 years with 1% annual
+Going to space to get that 1368 W/m2, from 1000 W/m2 is
+overkill. World population will double in 70 years with 1% annual
 population growth.  Until then, and for a long time, we can just
-increase panel area.
+increase panel area. Sure leave Earth collect energy in their own
+solar panel area outside Earth is fine. But the real selling point is
+escaping extinction level event rather than "Earth running out of energy". 
 
 Also there is such a thing as carrying capacity; in population models
 this number is the threshold beyond which more life cannot be
-supported, and there is no harm in that. That regulation will happen
-on its own, we don't have to lose our minds thinking about it.
+supported, and there is no harm in that. This self-regulation
+mechanism runs on its own, we don't have to lose our minds thinking
+about it.
 
 
 
