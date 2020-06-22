@@ -10,7 +10,7 @@ I hate to say it, Mustache is right on this one. Especially for *I Am
 CRM* types, the advice is __not__ to rely on instinct, conceptualize
 things and act through them.
 
-Bolton: "I came to understand that he believed he could run the
+Bolton: "I came to understand that [DJT] believed he could run the
 Executive Branch and establish national- security policies on
 instinct, relying on personal relationships with foreign leaders, and
 with made-for-television showmanship always top of mind.  Now,
