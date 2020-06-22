@@ -97,7 +97,7 @@ A psycic dolphin? This movie rocks man..
 
 ---
 
-Haha a precher who is a hitman
+Haha a preacher who is a hitman
 
 \#mnemonic
 
