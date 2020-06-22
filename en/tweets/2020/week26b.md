@@ -128,7 +128,7 @@ Plug-in sockets in the head? Seriously.
 ---
 
 Movie starts a lot like *The Matrix*. And after *Speed* I think Reeves
-was a shoe-in for this.
+was a shoe-in for that role.
 
 \#mnemonic
 
