@@ -115,7 +115,7 @@ The monologue ..  "I want room service!" :)
 
 ---
 
-People with masks and shit in Beijing. Prescient or something
+People with masks and shit in Beijing. Prescient 
 
 \#mnemonic
 
