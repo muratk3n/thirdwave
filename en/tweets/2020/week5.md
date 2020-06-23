@@ -789,8 +789,7 @@ Canada, Thailand, Germany... No India relation. That makes sense.
 ---
 
 Hitting Baydın on social security is a first layer, reptilian level
-attack
-([see](https://muratk3n.github.io/thirdwave/en/2014/06/the-culture-code.html)
+attack ([see](../../2014/06/the-culture-code.md)
 Rapaille) Reptilian level is the fight-or-flight, survival level stuff
 -- the strongest, stronger than culture even, and intellect
 (policy). The attack says the money you now __have__ will be __taken__

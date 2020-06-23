@@ -227,7 +227,7 @@ Daam. That celeb day was a big deal in RU, no?
 
 COV: 244K more in 3 days.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-18 10:54:51*
 
@@ -397,7 +397,7 @@ effect the average of next N days, new cases then divided by the past
 average can give an R estimate. The estimate shows the world has now R
 < 1. US is not out of the woods (R around 1.2 but decreasing trend).
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona_math.html#r0est)
+[Link](../../2020/02/corona_math.md#r0est)
 
 *2020-4-17 8:40:52*
 
@@ -713,7 +713,7 @@ COV update, 280K more cases in 4 days. Daily chg rate down to
 2020-04-14       3.07
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-15 13:19:57*
 
@@ -1109,7 +1109,7 @@ lost and confused.
 Covid-*Wuhan* update: 242K more in 3 days. Daily change % down to
 4.72.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-11 19:29:6*
 
@@ -1439,10 +1439,10 @@ probably go down.
 ---
 
 Labeled administrations on the [Gini
-plot](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini). Ineq
-rose under W, net gain only under HW and DJT (so far). Granted Obama
-admin began during GFC aftermath, things improved later starting '12,
-but looking at the net he finished in the red. Same for Clinton.
+plot](../../2019/05/stats.md#gini). Ineq rose under W, net gain
+only under HW and DJT (so far). Granted Obama admin began during GFC
+aftermath, things improved later starting '12, but looking at the net
+he finished in the red. Same for Clinton.
 
 *2020-4-11 8:53:52*
 

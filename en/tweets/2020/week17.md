@@ -26,7 +26,7 @@ immediately deliver $10,000 to all American citizens in exchange for a
 
 COV: Improvement East Europe, Finland, Norway. 364K new cases in 4 days.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-26 9:8:1*
 
@@ -483,7 +483,7 @@ states is where you draw the line?
 
 4.4 M more claims. 
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)
+[Link](../../2019/05/stats.md#claims)
 
 *2020-4-23 20:59:14*
 
@@ -742,7 +742,7 @@ Fully stocked.
 Just realized that Pikkety book came out in '13, around peak year of
 US inequality.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#gini)
+[Link](../../2019/05/stats.md#gini)
 
 *2020-4-22 13:25:46*
 
@@ -799,7 +799,7 @@ fan for comps, which country do you go to? Where do you really belong?
 298K in 4 days. Colors started getting lighter in some areas, few
 regions in Europe, CH and surrounding area, Australia.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-22 7:41:0*
 
@@ -972,7 +972,7 @@ Daaaaaam \#oil
 2020-04-21     0.010000
 ```
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#oil)
+[Link](../../2019/05/stats.md#oil)
 
 *2020-4-21 6:40:30*
 
@@ -1180,8 +1180,8 @@ we could eliminate these sequences and as a result stop the pandemic"
 
 ---
 
-I mentioned this [early Feb](https://muratk3n.github.io/thirdwave/en/tweets/2020/week5.html#hivcov),
-that Indian research, but there wasn't any follow-up. 
+I mentioned this [early Feb](week5.md), that Indian research, but
+there wasn't any follow-up.
 
 "According to Professor Luc Montagnier, winner of the Nobel Prize for
 Medicine in 2008 for discovering HIV as the cause of the AIDS epidemic

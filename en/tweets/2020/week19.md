@@ -635,7 +635,7 @@ yet its creation does not depend on the decision of a central
 authority"
 
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/06/bancor.html)
+[Link](../../2019/06/bancor.md)
 
 *2020-5-4 23:41:27*
 
@@ -685,7 +685,7 @@ be certified on the e-material as well, by the DOeD, so they can
 answer questions. But they should not teach. Feynman should teach your
 children not some random average jerkoff.
 
-More [here](https://muratk3n.github.io/thirdwave/en/2018/09/public-education.html)
+More [here](../../2018/09/public-education.md)
 
 *2020-5-4 20:42:3*
 
@@ -820,7 +820,7 @@ O(V^2)"
 
 ---
 
-We need [bancor](https://muratk3n.github.io/thirdwave/en/2019/06/bancor.html)
+We need [bancor](../../2019/06/bancor.md)
 
 *2020-5-4 7:50:0*
 

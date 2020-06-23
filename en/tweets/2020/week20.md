@@ -52,7 +52,7 @@ we should start by protecting at least 30% of it by 2030"
 
 ---
 
-Lots of problems are caused by civilization [itself](https://muratk3n.github.io/thirdwave/en/2019/12/civilized-to-death.html#teeth)
+Lots of problems are caused by civilization [itself](../../2019/12/civilized-to-death.md#teeth)
 
 "@ProSyn
 
@@ -949,14 +949,6 @@ NYT: "The Results Are In for the Sharing Economy. They Are Ugly."
 
 ---
 
-Debt added to exchange rate dynamics
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/exch.html)
-
-*2020-5-11 6:39:5*
-
----
-
 "@LegionHoops
 
 SHAQ on the NBA season: 'I think we should scrap the season. Everybody
@@ -1002,8 +994,7 @@ Da fuq?
 ---
 
 They even had a guy in jail while some were in the bunker... Perfect
-modern setup. Like Toffler
-[says](https://muratk3n.github.io/thirdwave/en/2011/03/fundamentals-of-industrial-ideologies_15.html)
+modern setup. Like Toffler [says](../../2011/03/fundamentals-of-industrial-ideologies_15.md)
 
 >Nor was it only energy and work that were concentrated. Writing in the
 >British social science journal New Society, Stan Cohen has pointed out
@@ -1059,8 +1050,7 @@ Portable panels charged portable camp light in 3 hours.
 ---
 
 So if we could cut CO2 emissions in half we'd fix the problem (granted
-we fix methane, and that freaky
-[SF6](https://muratk3n.github.io/thirdwave/en/2019/09/sf6.html)
+we fix methane, and that freaky [SF6](../../2019/09/sf6.md)
 thing).
 
 Demirel, *Green Energy and Technology*: "The burning of fossil fuels
@@ -1238,7 +1228,7 @@ will eventually be nonsensical. It's just a matter of when'"
 
 Power, Watts, mAh, etc
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/06/power.html)
+[Link](../../2020/06/power.md)
 
 *2020-5-9 20:11:5*
 

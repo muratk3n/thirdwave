@@ -553,7 +553,7 @@ crimes against US citizens based on outright disinformation"
 
 ---
 
-[Here is](https://muratk3n.github.io/thirdwave/en/2020/07/migrations-anatolia.html)
+[Here is](../../2020/07/migrations-anatolia.md)
 an American on the Anatolian history. She emphasized many of the same point
 that I had, hell she even used a Gellner reference.
 

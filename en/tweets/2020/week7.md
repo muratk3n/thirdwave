@@ -272,7 +272,7 @@ df2.plot(ax=axs[1])
 plt.savefig('oil-world-libya.png')
 ```
 
-<img wdith="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/oil-world-libya.png"/>
+<img wdith="340" src="oil-world-libya.png"/>
 
 *2020-2-13 20:29:9*
 

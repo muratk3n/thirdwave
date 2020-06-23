@@ -933,7 +933,7 @@ been doing, albeit in a little different setting.
 It's weird, Reps didn't have to end up being such corporate
 sluts. Appelbaum on why that could have happened.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/03/appelbaum.html#corp)
+[Link](../../2020/03/appelbaum.md#corp)
 
 *2020-3-23 9:40:3*
 

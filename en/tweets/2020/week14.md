@@ -2,7 +2,7 @@
 
 Update of econ numbers. VIX is down to 46. Dollar >100.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
+[Link](../../2019/05/stats.md)
 
 *2020-4-4 11:40:6*
 
@@ -72,7 +72,7 @@ continued. Over 8% is still bad of course.
 2020-04-02       8.64
 2020-04-03       8.17
 ```
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-4-4 9:7:37*
 

@@ -109,7 +109,7 @@ was black"
 
 ---
 
-[7-11%](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html#gene).
+[7-11%](../../2020/04/turks-culture-national-narrative.md#gene).
 That makes sense.
 
 *2020-06-05 08:24:1*
@@ -1068,7 +1068,7 @@ days.
 
 ---
 
-I bet [you can't](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html#population)
+I bet [you can't](../../2020/04/turks-culture-national-narrative.md#population)
 
 "Tigger: But I bet I can find our nat roots in the population data"
 
@@ -1320,7 +1320,7 @@ private health insurance"
 
 ---
 
-You don't know what ur [talking about](https://muratk3n.github.io/thirdwave/en/2020/07/kurds-anatolia.html#opressword)...
+You don't know what ur [talking about](../../2020/07/kurds-anatolia.md#opressword)...
 
 "You say TR identity is used in an opressive way. It can't be that bad.."
 

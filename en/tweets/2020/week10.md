@@ -755,7 +755,8 @@ The market right after the FED cut
 
 ---
 
-Nikola Motors listing on the stock market? Great news. Talked about this company [before](https://muratk3n.github.io/thirdwave/en/2018/09/nikola.html). 
+Nikola Motors listing on the stock market? Great news. Talked about
+this company [before](../../2018/09/nikola.md).
 
 This stock will be a BUY.
 

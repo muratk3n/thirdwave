@@ -132,7 +132,7 @@ Aahh, the right keyword makes all the difference; "variable pitch".
 
 ---
 
-No. It's a [First Wave](https://muratk3n.github.io/thirdwave/en/2017/10/foragers-farmers-morris.html#hierarchy)
+No. It's a [First Wave](../../2017/10/foragers-farmers-morris.md#hierarchy)
 thing.
 
 "Womens being treated as second-class citizens in history all around
@@ -265,7 +265,7 @@ necessary volumes at a good price in the EU and beyond."
 
 ---
 
-No, it's a [1st Wave concept](https://muratk3n.github.io/thirdwave/en/2020/07/agro-slavery.html).
+No, it's a [1st Wave concept](../../2020/07/agro-slavery.md).
 
 "Slavery is a black concept"
 
@@ -354,7 +354,7 @@ works well.. 10 times better than the TR approach. If TR appr was used
 in US, here is how it would go.
 
 US founders, bcz for whatever reason, they were shellshocked by the
-[here-and-now](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html)
+[here-and-now](../../2020/04/turks-culture-national-narrative.md)
 of their time, etc. would pick some marginal identity to get away from
 it all. Say they pick .. the Amish as the new identity. They'd say
 "happy are those who say they are Amish", and that, "everyone in the
@@ -374,7 +374,7 @@ it might be, like in TR?"
 
 Dumbass talking abt tomato sauce thinking it is Italian when in fact
 tomato is very much American, it was brought back to Europe from the
-Americas.  [Faux Ambassadors](https://muratk3n.github.io/thirdwave/en/2019/11/faux-ambassadors.html).
+Americas.  [Faux Ambassadors](../../2019/11/faux-ambassadors.md).
 
 
 ---
@@ -465,8 +465,7 @@ He is trying to say 'what if you are one of those countries who for
 whatever reason do not have capable ppl at the helm but now you are
 stuck, bcz u have no democracy, you cannot change them'.
 
-The results [I
-shared](https://muratk3n.github.io/thirdwave/en/2016/11/why-is-democracy-better.html)
+The results [I shared](../../2016/11/why-is-democracy-better.html)
 on democracy show clearly, with all things considered, overall,
 democracy works, so by default countries should prefer that. I dont
 think anyone can replicate China's freak experiment.

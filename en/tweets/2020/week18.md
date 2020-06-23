@@ -49,7 +49,7 @@ Looks fun
 
 ---
 
-You got that [backwards](https://muratk3n.github.io/thirdwave/en/2020/05/roman-anatolia.html)
+You got that [backwards](../../2020/05/roman-anatolia.md)
 
 "Paraphrasing: the arriving ppl from Central As changed Anatolia"
 
@@ -548,7 +548,7 @@ is pretty much the exact same process as for a gasoline car"
 COV: 178K in 2 days. Daily % change down to 2.33. US turned gray -
 sadly.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.html)
 
 *2020-4-28 20:12:35*
 

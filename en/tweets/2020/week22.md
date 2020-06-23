@@ -801,7 +801,7 @@ A+"
 
 ---
 
-Like [this one](https://muratk3n.github.io/thirdwave/en/2020/03/monolith.html),
+Like [this one](../../2020/03/monolith.md),
 it was bang on. 
 
 *2020-05-22 19:12:7*

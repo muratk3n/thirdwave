@@ -76,7 +76,7 @@ Good good..
 
 ---
 
-[Answer](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html#whyfix)
+[Answer](../../2020/04/turks-culture-national-narrative.md#whyfix)
 
 "Why fix TR identity?"
 
@@ -84,7 +84,7 @@ Good good..
 
 ---
 
-[Answer](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html)
+[Answer](../../2020/04/turks-culture-national-narrative.md)
 
 "How is culture different from national narrative?"
 
@@ -93,7 +93,7 @@ Good good..
 ---
 
 I wouldn't f--k with democracies son. They'll whoop ur ass. They are
-[better at war](https://muratk3n.github.io/thirdwave/en/2016/11/why-is-democracy-better.html#war),
+[better at war](../../2016/11/why-is-democracy-better.md#war),
 for very rational reasons.
 
 Conversely one could say countries with less democracies will be worse
@@ -177,7 +177,7 @@ technology — originally developed for @NASA"
 
 ---
 
-[Answer](https://muratk3n.github.io/thirdwave/en/2020/04/turks-culture-national-narrative.html#wolf)
+[Answer](../../2020/04/turks-culture-national-narrative.md#wolf)
 
 "Why do TR nats, its mob, make a heavy metal sign, what does that
 mean?"
@@ -317,9 +317,8 @@ DL -- that guy knows some shit, tiz all I gotta say.
 
 ---
 
-You can [prove](https://muratk3n.github.io/thirdwave/en/2015/04/god-religion.html)
-a creator is more likely, which in a simulation/game angle
-would be the programmer. Not so far-fetched.
+You can [prove](../../2015/04/god-religion.md) a creator is more likely,
+which in a simulation/game angle would be the programmer. Not so far-fetched.
 
 "But you cannot prove God exists".
 
@@ -332,7 +331,7 @@ during Nixon admin was inevitable.
 
 Gold or any other finite amount currency cannot be world currency. 
 
-We need [bancor](https://muratk3n.github.io/thirdwave/en/2019/06/bancor.html).
+We need [bancor](../../2019/06/bancor.md).
 Keynes was a smart guy. 
 
 Gao, Japan's Econ Dilemma: "After World War II, advanced
@@ -382,7 +381,7 @@ origin.
 
 ---
 
-[Fast](https://muratk3n.github.io/thirdwave/en/2010/04/devany.html#fast)
+[Fast](../../2010/04/devany.md#fast)
 
 "I am fat"
 
@@ -390,8 +389,7 @@ origin.
 
 ---
 
-Don't [jog](https://muratk3n.github.io/thirdwave/en/2010/04/devany.html#jog).
-Outside, great.
+Don't [jog](../../2010/04/devany.md#jog). Outside, great.
 
 "I miss jogging, being outside"
 
