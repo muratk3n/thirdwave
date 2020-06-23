@@ -22,5 +22,7 @@
 
 [Slavery](../../2020/07/agro-slavery.md)
 
+[Ancient](../../2020/07/ancient.md)
+
 [[⇪Up]](../..)
 

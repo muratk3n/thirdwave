@@ -7,9 +7,9 @@ agriculture the longest, because only then you can have a mafia
 which later generations as tourist can look and gawk at. 
 
 However, and in the light of agriculture being the root ills of many
-of our current predicaments as we now know, such regions, countries
-who were at the center of these developments would clearly be worse
-off. And they are. The Han, Ottocuck, Egypt, Sassanid,
+of our current predicaments [as we now know](../../2017/12/rome.md),
+such regions, countries who were at the center of these developments would
+clearly be worse off. And they are. The Han, Ottocuck, Egypt, Sassanid,
 Rome... agro-centric centralized mafia empires, through their
 peasant/tax/opress cycle created a toxic culture that still lingers,
 like a bad fart, which is impeding the progress of their
