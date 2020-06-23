@@ -80,9 +80,8 @@ knew shortages were so bad that even doctors couldn't get enough""
 
 ---
 
-Tommy Lee Jones was in the '95 movie? Dude did that guy always look
-old? Al Gore's roommate.. I saw a pic as student, he still looked
-old as fuck.
+Tommy Lee Jones was in the '95 movie? Did that guy always look old? Al
+Gore's roommate.. I saw a pic as student, he still looked old as fuck.
 
 ---
 
