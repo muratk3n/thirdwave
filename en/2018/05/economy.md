@@ -22,6 +22,8 @@
 
 [Keen Model](../../2018/02/keen_math.md)
 
+[Austerity](../../2020/07/austerity.md)
+
 [Economics Stats](../../2019/05/stats.md)
 
 [[⇪Up]](../..)
