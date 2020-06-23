@@ -90,13 +90,14 @@ Interesting take.. I never liked the Nolan stutff
 
 "@zachdcarter
 
-Unpopular Opinion: Batman Forever is a much better movie than The Dark
-Knight or The Dark Knight Rises. Batman Begins ...
+Unpopular Opinion: *Batman Forever* is a much better movie than *The Dark
+Knight* or *The Dark Knight Rises* ...
 
-Batman Forever is fun and good. Christopher Nolan nailed Batman Begins
-but ran out of things to say and delivered The Dark Knight, which
-pretends to be a fancy intellectual film but is really vague fascism
-with cartoon characters. The Dark Knight Rises is just a bad movie"
+*Batman Forever* is fun and good. Christopher Nolan nailed *Batman
+Begins* but ran out of things to say and delivered *The Dark Knight*,
+which pretends to be a fancy intellectual film but is really vague
+fascism with cartoon characters. *The Dark Knight Rises* is just a bad
+movie"
 
 ---
 
