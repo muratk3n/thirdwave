@@ -335,11 +335,6 @@ naturally want to see it crash and burn, out of spite.
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yes, it’s all Mueller’s fault <a href="https://t.co/f6IMpPNioO">https://t.co/f6IMpPNioO</a></p>&mdash; Aaron Maté (@aaronjmate) <a href="https://twitter.com/aaronjmate/status/1086480817642262528?ref_src=twsrc%5Etfw">January 19, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 @girlziplocked
 
 What's a dirty secret that everybody in your industry knows about but

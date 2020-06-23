@@ -32,12 +32,6 @@ COV: Improvement East Europe, Finland, Norway. 364K new cases in 4 days.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In case anyone is still unaware, the story that dominated US politics for 3+ years was a complete scam, and anyone who peddled it without now acknowledging that fact is a scam artist. <a href="https://t.co/lYQfuIOnZg">https://t.co/lYQfuIOnZg</a></p>&mdash; Aaron Maté (@aaronjmate) <a href="https://twitter.com/aaronjmate/status/1254125897021562881?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-26 8:48:18*
-
----
-
 "HydroSil [an H2 carrier] is stable and non-toxic and uses the same
 logistic as conventional liquid fuels"
 

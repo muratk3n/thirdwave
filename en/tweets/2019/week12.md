@@ -64,12 +64,6 @@ Dem: "Mueller failed us, how can he not find anything?"
 
 ---
 
-@aaronjmate
-
-"One overlooked casualty of the Mueller era is liberal American late-night comedy"
-
----
-
 These are two different concepts. People have been judging other people for hundreds of thousands of years.
 
 @EPoe187
