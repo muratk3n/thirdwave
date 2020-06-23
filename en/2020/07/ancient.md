@@ -4,16 +4,17 @@ When people praise a region, a country being "ancient", "had
 civilization" what they mean is that region had contact with
 agriculture the longest, because only then you can have a mafia
 (empire) who can tax, raise armies, kill others and built aquedacts
-which later generations as tourist can look and gawk at. 
+which later generations as tourist can gape at like idiots.
 
 However, and in the light of agriculture being the root ills of many
 of our current predicaments [as we now know](../../2017/12/rome.md),
-such regions, countries who were at the center of these developments would
-clearly be worse off. And they are. The Han, Ottocuck, Egypt, Sassanid,
-Rome... agro-centric centralized mafia empires, through their
-peasant/tax/opress cycle created a toxic culture that still lingers,
-like a bad fart, which is impeding the progress of their
-descendants. Lets's look at data.
+such regions, one could guess countries who were at the center of
+these "ancient" developments would clearly be worse off. And they
+are. The Han, Ottocuck, Egypt, Sassanid, Rome... agro-centric
+centralized mafia empires, through their peasant/tax/opress cycle
+created a toxic culture that still lingers in these regions, like a
+bad fart, which is impeding the progress of their descendants. Lets's
+look at data.
 
 We compare China, Italy, Turkey, Greece, Egypt, Iran vs others.
 
@@ -44,7 +45,7 @@ Democratic progress, them versus the entire world,
 
 ```python
 import pandas as pd
-df = pd.read_excel('p4v2018.xls')
+df = pd.read_excel('../../tweets/2020/p4v2018.xls')
 df = df[df.polity > -10.0] # remove junk code -88
 print ('Mafia',np.round(df[df.country.isin(anc)].polity.mean(),2))
 print ('Others',np.round(df[df.country.isin(anc) == False].polity.mean(),2))
