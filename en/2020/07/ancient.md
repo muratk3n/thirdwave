@@ -78,8 +78,8 @@ while the rest made significant advances.
 The conclusion
 
 There is nothing to be proud of for these countries... "Ancient"
-simply means people people f those regions would have more chance to
-be around a cocksucker like Julius Ceasar or Otto Soleiman which would
+simply means people people of those regions would have more chance to
+be around a c--ksucker like Julius Ceasar or Otto Soleiman which would
 poison the governance cultures of these lands irrevocably. I still
 remember with horror when BBC reported that Egypt, until the 2012
 election did not have a single day of democracy in its past. Think
