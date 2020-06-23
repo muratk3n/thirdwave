@@ -150,7 +150,7 @@ EU-China summit
 
 ---
 
-It's like they have built-in stabilization software
+It's like they have built-in head stabilization software
 
 <img width="340" src="https://i.imgur.com/bHA8ep8.gif"/>
 
