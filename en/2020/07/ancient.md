@@ -84,5 +84,5 @@ poison the governance cultures of these lands irrevocably. I still
 remember with horror when BBC reported that Egypt, until the 2012
 election did not have a single day of democracy in its past. Think
 about that.. Would you rather have "ancient" grand pyramids, or a day
-of democracy in your history.. I'd opt for the latter.
+of democracy in your past.. I'd opt for the latter.
 
