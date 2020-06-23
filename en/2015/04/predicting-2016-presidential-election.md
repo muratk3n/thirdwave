@@ -10,16 +10,12 @@ party becomes a disadvantage), to predict the winner of the national
 popular vote, which can also be used as stand-in for electoral
 collage.
 
-Code is below. We will use this model to predict past elections (by
-canceling out that year's so it cannot tilt the prediction in any
-way). We will also use it for the 2016 election prediction. The fit is
-crazy good, Prob F near zero, R^2 at 90%, all predictors are
-significant.
+Code is below. The fit is crazy good, Prob F near zero, R^2 at 90%,
+all predictors are significant.
 
-```
-from StringIO import StringIO
-import statsmodels.formula.api as smf
-import pandas as pd
+```python
+import io, statsmodels.formula.api as smf, pandas as pd
+
 s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
 2012,1.3,-0.8,0,52
 2008,1.3,-37,1,46.3
@@ -39,48 +35,16 @@ s="""year,gdp_growth,net_approval,two_terms,incumbent_vote
 1952,0.4,-27,1,44.5
 1948,7.5,-6,1,52.4
 """
-df = pd.read_csv(StringIO(s))
+
+df = pd.read_csv(io.StringIO(s))
 regr = 'incumbent_vote ~ gdp_growth + net_approval + two_terms'
 results = smf.ols(regr, data=df).fit()
-
-def f(year):
-    df2 = df[df['year'] != year]
-        results2 = smf.ols(regr, data=df2).fit()
-	    conf = results2.conf_int()
-	        pred = np.array(df[df['year'] == year])[0][:-1]; pred[0] = 1.
-		    return np.dot(pred, conf)
-		    print 'bush/clinton'; print f(1992)
-		    print 'gore/bush'; print f(2000)
-		    print 'bush/kerry'; print f(2004)
-		    print 'mccain/obama'; print f(2008)
-		    print 'obama/romney'; print f(2012)
+print ('R^2',results.rsquared)
 ```
 
-Once you run this on past elections, and using 95% confidence interval
-for the coefficients, the results for the popular vote percentage is,
-
+```text
+R^2 0.9011858911763367
 ```
-bush/clinton
-[ 43.68  52.47]
-gore/bush
-[ 48.31  60.68]
-bush/kerry
-[ 50.66  55.79]
-mccain/obama
-[ 41.05  46.15]
-obama/romney
-[ 49.81  54.45]
-```
-
-Bush / Clinton guess [43% 52%] points to a likely Bush loss. Clinton
-won. Bush/Kerry points to a definite Bush win, he won. Mccain / Obama
-says definite McCain loss, he lost. Bama / Romney, definite Bama win,
-he did.
-
-The freak event is Bush / Gore. Two things there - there was some
-possibility for Bush win, and second, well.. the election was
-stolen. Plus, Gore won the popular vote (that's what the model
-predicts).
 
 For the future, we ran couple of scenarios.
 
@@ -90,28 +54,27 @@ adminstration come June; These are growth 1% net popularity 0, growth
 are pretty out there, yes; Right now Bam has 0 net popularity. We
 based this on here and here. GDP can get better - maybe.
 
-```
-conf = results.conf_int()
-pred = [1., 1.0, 0., 1]
-print np.dot(pred, conf), np.dot(pred, results.params)
-pred = [1., 3.0, 10., 1]
-print np.dot(pred, conf), np.dot(pred, results.params)
-pred = [1., 5.0, 30., 1]
-print np.dot(pred, conf), np.dot(pred, results.params)
-```
-
 Based on this, you get
 
+```python
+conf = results.conf_int()
+pred = [1., 1.0, 0., 1]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+pred = [1., 2.0, 5., 1]
+print (np.dot(pred, conf), np.dot(pred, results.params))
+pred = [1., 3.0, 10., 1]
+print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
-[ 43.48  51.95] 47.71
-[ 44.66  55.06 ] 49.86
-[ 46.39   59.60] 52.99
+
+```text
+[43.48008619 51.95566396] 47.71787507411282
+[44.07413046 53.50829153] 48.79121099512867
+[44.66817473 55.0609191 ] 49.864546916144526
 ```
 
 For the first scenario Hillary's chances of winning are between 43%
-and 52%, likely loss. The second one at 3% growth and net popularity
-10 makes it a toss-up, better campaigner, the one with the better plan
-can win. Third is better for Dems.
+and 52%, likely loss. The second one at 2% growth and net popularity
+5 is also likely loss. The third is a toss up.
 
 It is interesting to note that Bill Clinton, known as a good
 campaigner, had significant advantages going into the 1992
@@ -123,3 +86,6 @@ makes sense; if a party stays in da house too long, people want to
 throw you outa there, if there is no growth, the incumbent is not
 popular, the climb for the candidate from that party becomes steeper
 and steeper.
+
+[Past Elections Check](prez-loo.md)
+
