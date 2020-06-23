@@ -115,8 +115,8 @@ hot shit, he did so badly nationally".
 That's why Tesla's technology is so retarded; they tried to create
 something wout gov seriously invervening (except some tax breaks which
 simply pushed the inferior battery tech further). BEVs are based
-partially on the dipshit Silicon Valley guy going "I could put my
-notebook battery on a car duuuude", but also having no infrastructure.
+partially on the Silicon Valley dork going "I could put my notebook
+battery on a car duuuude", but also having no infrastructure.
 
 In the modern world, real change happens top-down. Through gov
 action.
