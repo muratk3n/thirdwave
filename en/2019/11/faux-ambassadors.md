@@ -92,7 +92,7 @@ If culture is shared, is imprinted even, and the root of US culture is
 Protestanism, that means even the Catholics of US would act Protestan
 whether they like it or not. This is in fact true. The faux
 ambassadorship, acting out streotypes aside, ppl act and think like
-Protestans. Huntington talked abt this in one of his books.
+Protestans. Huntington talked about this in *Who Are We?*.
 
 3)
 
