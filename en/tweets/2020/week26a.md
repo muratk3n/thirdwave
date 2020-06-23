@@ -113,9 +113,9 @@ will run out of panel space, etc etc)
 
 ---
 
-Not much; Markowitz model has $R^2$ 96% , conf intervals on the
+Not much; Markowitz model has $R^2$ 90% , conf intervals on the
 [prediction](https://muratk3n.github.io/thirdwave/en/2015/04/predicting-2016-presidential-election.html)
-are usually tight. 
+are usually tight.
 
 Gelman: "How unpredictable is the 2020 election?"
 
