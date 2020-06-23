@@ -66,7 +66,7 @@ tank-destroyer program"
 lift or doom McCain (the latter happened). The Bama team kept their
 side of things light on details, not much policy, and focused on the
 McCain / W connection (voted with W 90% of the time, etc etc). It was
-well done it got to McCain, he even joked [about
+well done that it got to McCain, he even joked [about
 it](https://youtu.be/pq4zrOoHXeg?t=547).
 
 ---
