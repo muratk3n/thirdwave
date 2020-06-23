@@ -798,8 +798,7 @@ libertardism, sometimes centrism. The best politically-aware coworker
 I knew could drop that spiffy *Team of Rivals* reference, but that
 just means you read the *New York Times*. If that were enough there'd
 be political genuises all around us already. U need take that [extra
-step](https://muratk3n.github.io/thirdwave/en/2018/12/linc-bi.html),
-if not more.
+step](../../2018/12/the-road-to-oblivion.md), if not more.
 
 Now there is some backbone, social awereness in open-source circles -
 but you won't come across to these guys in polite company.

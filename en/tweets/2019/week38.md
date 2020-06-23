@@ -347,7 +347,7 @@ I am a problem solver.
 
 ---
 
-Still tho, nothing can beat [this movie](https://muratk3n.github.io/thirdwave/en/2012/10/president-by-day-vampire-hunter-by-night.html)
+Still tho, nothing can beat [this movie](../../2012/10/president-by-day-vampire-hunter-by-night.md)
 
 *2019-9-17 3:19:34*
 

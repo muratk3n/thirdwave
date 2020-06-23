@@ -282,7 +282,7 @@ works well. It is perfectly good algorithm, and it certainly explains
 a certain aspect, but are not interested in and have no idea on number
 theory, sets, or functions.
 
-Also see a theory of [shadows](https://muratk3n.github.io/thirdwave/en/2019/08/smolin.html).
+Also see a theory of [shadows](../../2019/08/smolin.md).
 
 "Quantum Mechanics works (computes) but it has no ontology"
 

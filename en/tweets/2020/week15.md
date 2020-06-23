@@ -1129,15 +1129,15 @@ for private jets? Of course it did"
 
 ---
 
-[Hidalgo](https://muratk3n.github.io/thirdwave/en/2017/08/hidalgo.html)
+[Hidalgo](../../2017/08/hidalgo.md)
 
-[Sornette](https://muratk3n.github.io/thirdwave/en/2017/03/bubble_nb.html)
+[Sornette](../../2017/03/bubble_nb.md)
 
 *2020-4-4 13:59:9*
 
 ---
 
-Just redid Keen's [math](https://muratk3n.github.io/thirdwave/en/2018/02/keen_math.html)
+Just redid Keen's [math](../../2018/02/keen_math.md)
 
 *2020-4-4 13:56:1*
 

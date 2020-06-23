@@ -14,4 +14,7 @@
 
 [When Patents Attack!](../../2012/08/when-patents-attack.md)
 
+[Government for De-Patenting](government-for-depatenting.md)
+
 [[⇪Up]](../..)
+

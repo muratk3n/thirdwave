@@ -1,38 +1,5 @@
 # Tweets - Week 37
 
-<a name="transistorPatent"/>
-
-One more nail in the patent lover's coffin.
-
-"OooOO but patents work so well, look at what happened with
-transistors". Well apparently government went *against* the very
-concept of patents, and that's how the transistor revolutionized the
-economy.
-
-"In April 1952, dozens of engineers from some of the world’s largest
-companies .. boarded buses in New York City and headed [to AT&T]. They
-were guests of AT&T, which had patented a new electronic device called
-a transistor just a few months earlier, and had invited its potential
-rivals to spend nine days learning exactly how they could make
-transistors, too. ...
-
-There was a simple explanation for AT&T’s generosity: the federal
-government forced the company to share its inventions as part of an
-aggressive, carefully considered, and wide-ranging campaign to prevent
-large and powerful companies from hoarding innovations...
-
-The mythology of the computer revolution, of libertarians developing
-ideas in Silicon Valley garages, is usually narrated without any
-mention of the role played by government. It was antitrust regulation
-that opened the market and allowed those ideas to bloom.
-
-Limiting the market power of large corporations was a distinctly
-American tradition" \#appelbaum
-
-*2019-9-12 6:52:21*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Timber!” <a href="https://t.co/D9bzs5tplU">https://t.co/D9bzs5tplU</a></p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1171990287444586498?ref_src=twsrc%5Etfw">September 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-9-12 6:52:21*

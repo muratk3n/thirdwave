@@ -109,12 +109,12 @@ OUT.
 Double-check on Bezos energy projections / fears (10 KW / person, we
 will run out of panel space, etc etc)
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/bezos-space-infrastructure.html#energy)
+[Link](../../2019/05/bezos-space-infrastructure.md#energy)
 
 ---
 
 Not much; Markowitz model has $R^2$ 90% , conf intervals on the
-[prediction](https://muratk3n.github.io/thirdwave/en/2015/04/predicting-2016-presidential-election.html)
+[prediction](../../2015/04/predicting-2016-presidential-election.md)
 are usually tight.
 
 Gelman: "How unpredictable is the 2020 election?"
@@ -129,12 +129,12 @@ whether he is richer or poorer. Incumbency for >1 terms or not; that
 is a fact. This leaves popularity of the incumbent, the only thing
 where a judgement is applied. It works bcz the measure is coarse
 (individuals judgement will have errors, normally distributed which
-can be [corrected](https://muratk3n.github.io/thirdwave/en/2020/07/crowd-wisdom.html)
+can be [corrected](../../2020/07/crowd-wisdom.md)
 through an average).
 
 ---
 
-Elections are a vote on the incumbent, on three [broad parameters](https://muratk3n.github.io/thirdwave/en/2015/04/predicting-2016-presidential-election.html).
+Elections are a vote on the incumbent, on three [broad parameters](../../2015/04/predicting-2016-presidential-election.md).
 
 "GOP fears Biden's low-key campaign is paying off"
 

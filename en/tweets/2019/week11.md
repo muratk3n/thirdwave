@@ -32,16 +32,6 @@ Why is Beto running for president in 2003? the democratic base today is hardened
 
 ---
 
-Last I checked on NK, US would be fine w existing nuke pile, there'd be no more tests, no expansion of nukes. If more nukes US attacks, if not, piece.  
-
-As Friedman saz here https://muratk3n.github.io/thirdwave/en/2018/12/friedman-europe.html
-
-What changed since then dunno. US cant sell e. pile/piece? Playing hard to get?
-
-Wout knowing the twists and turns I really cant say anymore on this issue.
-
----
-
 For an "hacker" from the "alternative culture" he sure became a lukewarm mainstream waffler. Do people know this guy's voting record? Or are they being led by the nose through one media sensation after another? #beto
 
 ---

@@ -2,21 +2,20 @@
 
 Thomas Frank
 
-[The title is a joke. Of course he wasn't]. There have been an
-estimated sixteen thousand books written about Abraham Lincoln. Like
-the lives of the wealthy and the secrets of self-improvement, a
-fascination with the Great Emancipator seems to be an unchanging
-feature of American literary taste. Few of these volumes, however,
-have had the resilience of Doris Kearns Goodwin’s *Team of Rivals: The
-Political Genius of Abraham Lincoln*. In 2005, when the book first
-appeared, it was the subject of “vast critical acclaim” and remained
-on the New York Times bestseller list for some twenty-seven weeks,
-according to the press release that accompanied my copy. Three years
-later, a junior senator from Illinois named Barack Obama anointed Team
-of Rivals one of his favorite books, once again pushing it into the
-glare of public adulation. When Steven Spielberg transformed it into
-his movie Lincoln in 2012, the book climbed the charts for a third
-time.
+There have been an estimated sixteen thousand books written about
+Abraham Lincoln. Like the lives of the wealthy and the secrets of
+self-improvement, a fascination with the Great Emancipator seems to be
+an unchanging feature of American literary taste. Few of these
+volumes, however, have had the resilience of Doris Kearns Goodwin’s
+*Team of Rivals: The Political Genius of Abraham Lincoln*. In 2005,
+when the book first appeared, it was the subject of “vast critical
+acclaim” and remained on the New York Times bestseller list for some
+twenty-seven weeks, according to the press release that accompanied my
+copy. Three years later, a junior senator from Illinois named Barack
+Obama anointed Team of Rivals one of his favorite books, once again
+pushing it into the glare of public adulation. When Steven Spielberg
+transformed it into his movie Lincoln in 2012, the book climbed the
+charts for a third time.
 
 Despite having triggered these sequential booms in Lincolniana, Team
 of Rivals is profoundly uninspiring. [..]

@@ -10,4 +10,6 @@
 
 [Crowd Wisdom](../../2020/07/crowd-wisdom.md)
 
+[Polarization](../../2018/05/polarization.md)
+
 [[⇪Up]](../..)

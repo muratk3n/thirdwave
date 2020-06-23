@@ -1004,8 +1004,7 @@ There. Is. No. TIIIIIIIMMMEEEEEEE !
 
 At the expense of their neighbors? The way these ppl spread is
 crab-like... Itsy bitsy bitchy moves towards their sides, toward their
-neighbors... Slowly, bit by bit, starting with
-[skirmishes](https://muratk3n.github.io/thirdwave/en/2018/01/ghazi-warfare.html)...
+neighbors... Slowly, bit by bit, starting with [skirmishes](../../2018/01/ghazi-warfare.md)...
 the moves resembling the spread of .. virus. Or __cancer__.
 
 "But isn't it good these one-time has-been static medi-fuck cultures
