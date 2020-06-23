@@ -19,7 +19,7 @@ look at data.
 We compare China, Italy, Turkey, Greece, Egypt, Iran vs others.
 
 GDP per capita, them vs others (data from World Bank,
-[GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita),
+[GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita), 
 [Population](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)),[CSV](gdpw.csv))
 
 
@@ -74,6 +74,8 @@ Others 4.73
 
 Mafia improved only __tiny__ bit while still being in the red (< 0),
 while the rest made significant advances.
+
+The conclusion
 
 There is nothing to be proud of for these countries... "Ancient"
 simply means people people f those regions would have more chance to
