@@ -2,7 +2,7 @@
 
 Corona update - 24K more in 2 days, death rate 7.3%
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-3-15 18:38:45*
 
@@ -167,7 +167,7 @@ United Kingdom and Ireland added to Coronavirus travel ban - VP Pence"
 
 ---
 
-Yeah [VIX](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#vix) has seen 75, and is generally above 50. Thanks but no thanks.
+Yeah [VIX](../../2019/05/stats.html#vix) has seen 75, and is generally above 50. Thanks but no thanks.
 
 Junk bond rate on 03-12, 8.81%, it was 6.10% a week ago.
 
@@ -472,7 +472,7 @@ Widening the pipes > paying rent-seeking miners for priority on slow networks"
 
 COVID19 map update: 24K more cases in 4 days. Death rate 6.7%
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../../2020/02/corona.md)
 
 *2020-3-13 15:45:18*
 
@@ -978,7 +978,7 @@ Businesses to receive $500 hand outs. More details to come..."
 
 Junk bond rates are in the upswing, yield at 7.69% from 6.10% on Mar 5.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#junkbond)
+[Link](../../2019/05/stats.md#junkbond)
 
 *2020-3-11 8:30:52*
 
@@ -1038,9 +1038,7 @@ mistakes on war and piece.. What mattered was the one hot button grand
 issue, personality, and previous experience. Trump beat Hillary,
 indirectly Obama, trampled on everything Dems hold dear including
 sensibilities on race, now they want revenge -> Obama's VP. Biden
-positioned
-[himself](https://muratk3n.github.io/thirdwave/en/tweets/2019/week19.html)
-for that and is winning.
+positioned himself for that and is winning.
 
 *2020-3-11 6:12:0*
 
@@ -1252,7 +1250,7 @@ Corona: 5K more in 4 days. Confirmed 113008.
 
 Death rate: 6%. Very high. Not good.
 
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
+[Link](../..2020/02/corona.md)
 
 *2020-3-9 21:17:45*
 
@@ -1443,8 +1441,7 @@ circle and start singing Kumbaya... This is the ideal for most people.
 
 Deaths due to war, disease etc are directly proportional to the
 density of a population. I wrote about it on 2011,
-[here](https://muratk3n.github.io/thirdwave/en/2011/11/logistic-equation.html)
-and [here](https://muratk3n.github.io/thirdwave/en/2011/12/more-on-logistic-equation.html).
+[here](../../2011/11/logistic-equation.md) and [here](../../2011/12/more-on-logistic-equation.md).
 
 Logistic equation, the best predictor of population growth, works well
 because it includes a death rate inversely proportional to the density
@@ -1583,9 +1580,9 @@ HFC tractor from Netherlands
 ---
 
 
-Volality Index 
+Volatity Index 
 
-[Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#vix)
+[Link](../../2019/05/stats.md#vix)
 
 *2020-3-8 19:2:15*
 
