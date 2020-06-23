@@ -114,7 +114,7 @@ hot shit, he did so badly nationally".
 
 That's why Tesla's technology is so retarded; they tried to create
 something wout gov seriously invervening (except some tax breaks which
-pushed the inferior battery tech even further). BEVs are based
+simply pushed the inferior battery tech further). BEVs are based
 partially on the dipshit Silicon Valley guy going "I could put my
 notebook battery on a car duuuude", but also having no infrastructure.
 
@@ -139,7 +139,7 @@ New Trek does both, no? Starting with that 2009 reboot? Which was
 okay-ish, then everything went downhill.
 
 "@timmaughan another day another scifi book description that starts
-with "SPACEBOI'S HOME PLANET HAS BEEN DESTROYED" we need a moratorium
+with 'SPACEBOI'S HOME PLANET HAS BEEN DESTROYED' we need a moratorium
 on using genocide as character motivation, it's lazy and gross"
 
 ---
