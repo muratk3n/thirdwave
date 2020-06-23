@@ -64,9 +64,9 @@ tank-destroyer program"
 
 2008 election was about Dubya, the incumbent.. His popularity would
 lift or doom McCain (the latter happened). The Bama team kept their
-side of things light on details, not much policy, and focused on the
-McCain / W connection (voted with W 90% of the time, etc etc). It was
-well done that it got to McCain, he even joked [about
+side of things light on details, not much policy, just emphasized the
+McCain-W connection (voted with W 90% of the time, etc etc). It worked
+(how could it not?), McCain he even joked [about
 it](https://youtu.be/pq4zrOoHXeg?t=547).
 
 ---
