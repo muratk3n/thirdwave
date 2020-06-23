@@ -160,11 +160,12 @@ It's like they have built-in stabilization software
 
 ---
 
-Powell says FED accounts cld work too well (destroying private banks'
-business). Well I cant blame a guy for not wanting to destroy the
-system he's tasked to run. FED sits at the [center](../../2011/03/fundamentals-of-industrial-ideologies_17.md) of a
-[concentrated](../../2011/03/fundamentals-of-industrial-ideologies_15.md) system
-of other banks.
+Powell says FED accounts could work too well (destroying private
+banks' business). Well I cant blame a guy for not wanting to destroy
+the system he's tasked to run. FED sits at the
+[center](../../2011/03/fundamentals-of-industrial-ideologies_17.md) of a
+[concentrated](../../2011/03/fundamentals-of-industrial-ideologies_15.md)
+system of other banks.
 
 This is why *wave changes* are so great. All individual waves have an
 intricate web of internal structures, contracts that hold it
