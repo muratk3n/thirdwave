@@ -536,28 +536,6 @@ will gang up on the Chinese. I'd watch out if I were them.
 
 ---
 
-The rel worked when it did I guess.. made sense for both sides.
-
-"In 1970, one year after China ominously detonated two hydrogen bombs
-near its Russian border, Mao sent a message to President Richard Nixon
-inviting him to visit China. In Washington, this was seen as an
-intriguing opening. Nixon and his Cold Warrior secretary of state
-Henry Kissinger saw the opportunity to work with China as a way to
-further destabilize and isolate the USSR...
-			
-Mao and the CCP—having extracted all they could from the Soviets, who
-were ​clearly losing ground to Western technological and economic
-developments...
-			
-They found [another state] with the deepest pockets, the best research
-and design infrastructure, the most innovative technology, and the
-strongest armed forces in the world: the United States of America"
--- Spalding, *Stealth War*
-
-*2019-10-7 21:48:18*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I would allocate my capital like <a href="https://twitter.com/search?q=%24ARKK&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ARKK</a> <a href="https://t.co/kVGjLkvv7w">https://t.co/kVGjLkvv7w</a> <a href="https://t.co/xC1aLDMevw">pic.twitter.com/xC1aLDMevw</a></p>&mdash; Pivotal Capital (@Pivotal_Capital) <a href="https://twitter.com/Pivotal_Capital/status/1181244227860287489?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-10-7 20:11:35*

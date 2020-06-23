@@ -133,7 +133,7 @@ of the non-presence of democracy, making use of that cheap slave labor
 that could only be controlled through an autocratic state.
 
 "Gen. Spalding (paraph) 'businessman, billionaires go to China, then
-tell us democracy is dead, look at China'"
+tell us democracy is dead, look at China'" ...
 
 *2019-10-16 9:3:43*
 
@@ -507,43 +507,6 @@ Deal phase 1 any good ?
 
 ---
 
-"Combatting China’s economic warfare will require business unusual—a
-radical change in how our society thinks about fiduciary
-responsibility. Regulators need to reorder the incentive system so
-Wall Street, corporate America, and institutional investors will
-change the current culture and ​mind-set that focuses on profits,
-growth, and stock valuation as the only measures of success. That
-isn’t to say the rules and motives of trade must be radically
-altered. It’s to say that providing capital to China is a fool’s game
-and, until things change, not only wastes money but incentivizes our
-competitors, who seek to co-opt US market share and earnings. Billions
-and billions of investor dollars are tied up in China. I’ve already
-told you the story of the banker who lies awake at night wondering how
-we will get our money back.
-
-He is not alone. Corporations—huge multinational institutions—that
-have leapt headfirst into China are faced with the same problem. They
-don’t discuss the fact that they can’t actually move millions of
-dollars out of China because if they did, that would upset
-shareholders and result in lower—sometimes much lower—valuations. That
-kind of thing costs CEOs their jobs. It also will cost investors
-billions in losses. Seen in this light, it becomes clear that pouring
-money into the Ponzi scheme of China abdicates fiduciary
-responsibility. Profits that exist only in China and can’t be
-converted into transferable currency are not, in any traditional
-sense, profits.
-			
-There are other reasons powerful companies need to take their
-operations out of China. By moving research, development, and
-manufacturing there, they cede control of their intellectual property,
-which, as the past thirty years have demonstrated, will be stolen or
-co-opted. This, in effect, devalues the company" -- Spalding, *Stealth
-War*
-
-*2019-10-13 11:48:4*
-
----
-
 Is Ellen really trying to fight montages of her with Abu Graib
 pictures in the background using copyright claims? Unbelievable...
 
@@ -645,63 +608,6 @@ is like whatev.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germany: 9 out of 10 Companies in the Renewable Energy Industry want <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> to be Developed Further--Renewable Energies Hamburg Cluster Agency Survey held among about its 200 member companies--<a href="https://t.co/6X4Asq6ftJ">https://t.co/6X4Asq6ftJ</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/dCR2kCnjF2">pic.twitter.com/dCR2kCnjF2</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1183019007173115904?ref_src=twsrc%5Etfw">October 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-10-12 17:45:20*
-
----
-
-"The portfolios of the fifty states’ public pension systems are filled
-with stocks and bonds backing Chinese companies that should be flagged
-as bad actors—companies that build missiles or warships. These
-investments have national security implications, and investment
-managers need to start acting responsibly. This issue needs to become
-part of the national dialogue. Would American investors have invested
-in Germany during World War II? China’s brutal human rights
-abuses—forced internment, denial of assembly, brainwashing—are eerily
-reminiscent of Nazi behavior. And with the use of relentless digital
-surveillance to persecute a population because of its faith, this
-oppressive governmental strategy actually deserves a new designation:
-post-Nazi" ---- Spalding, *Stealth War*
-
-*2019-10-12 17:30:27*
-
----
-
-"[Robinson] wrote attention-grabbing articles about the trans-Siberian
-oil pipeline. His alarming projections regarding the future completion
-of the pipeline caught the attention of William (Bill) Clark, Ronald
-Reagan’s closest adviser ... [He] predicted that when the pipeline
-became fully operational, it would provide 70 percent of Western
-Europe’s energy needs. That would bolster the Soviet Union’s depleted
-coffers—exhausted by a deadly war in Afghanistan and efforts to match
-the massive US military buildup and the West’s onslaught of
-technological innovation. It would also simultaneously increase
-Western Europe’s dependence on the Eastern Bloc. Robinson joined the
-NSC, where, .. he hatched a multipronged offensive to not only stop
-the pipeline but erode the Soviet economy.
-			
-'There were only about twelve people in the United States who were
-aware of this economic and financial offensive,' Robinson says. 'It
-was based on not just killing the second strand of the Siberian gas
-pipeline, but delaying the first strand by about three years and then
-denying official and, eventually, private credit access to Moscow.'
-[they sabotaged the pipeline]
-			
-'There was also a secret agreement with the Saudis to pump
-two million barrels of oil and decontrol domestic prices at the
-wellhead to drop oil to $10 a barrel.' Indeed, with oil prices
-plummeting from $37.42 a barrel in 1980 ($114, adjusted for inflation)
-to such bargain prices, a vital source of hard currency income dried
-up for the Soviets. Meanwhile, Robinson and the government actively
-opposed any plans to permit the Soviets from issuing sovereign bonds,
-further depriving our rivals of urgently needed cash [..]
-			
-​Limited access to much-needed foreign credit, an economy unable to
-compete in new technology, and the strategic erosion of the empire on
-so many fronts made it impossible for the Soviets to sustain their
-sovereignty. In 1991, the country defaulted on $96 billion in hard
-currency debt. Two days later, the Soviet Union collapsed" --
-Spalding, *Stealth War*
-
-*2019-10-12 16:11:17*
 
 ---
 
