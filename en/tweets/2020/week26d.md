@@ -99,8 +99,8 @@ NOWPayments"
 
 ---
 
-There is a lot of discontent with the state of affairs in US, that
-should stick on the incumbents who are mostly centrists. 
+There is a lot of discontent in US, that can stick on the
+centrists. Campaign well these ppl can be beaten.
 
 ---
 
