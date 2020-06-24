@@ -161,7 +161,7 @@ development (R&D) activities and is subject to appropriations"
 
 Purely text based blogging (markdown) and my editor extension for
 running code in docs (markdown or TeX) were two of the simplest things
-I've ever coded. But they changed everything for my work.
+I've ever coded. But they changed everything, within context of my work.
 
 ---
 
