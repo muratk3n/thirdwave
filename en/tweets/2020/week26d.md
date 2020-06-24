@@ -41,6 +41,12 @@ can be beaten.
 
 ---
 
+Still in the long-term Mars is a bad idea. Cannot be
+terraformed. Better off with one of those Jupiter moons or large
+stations near Earth.
+
+---
+
 Coaxial propeller design, very cool; maximum lift for given blade
 size, power.
 
