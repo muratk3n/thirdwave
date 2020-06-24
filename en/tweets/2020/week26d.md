@@ -99,8 +99,9 @@ NOWPayments"
 
 ---
 
-There is a lot of discontent in US, that can stick on the
-centrists. Campaign well these ppl can be beaten.
+There is a lot of discontent in US, that can stick on the centrists
+who have the incumbent ideology. Campaign well these ppl can be
+beaten.
 
 ---
 
