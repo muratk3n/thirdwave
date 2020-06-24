@@ -8,13 +8,13 @@ armies, kill others and build arenas, roads which later generations as
 tourist can gape at like morons.
 
 However, and in the light of agriculture being the root ill of many of
-our predicaments that was to follow [as we now know](../../2017/12/rome.md),
-one could guess countries who were at the center of these "ancient"
-developments would clearly be worse off. And they are. The Han, Ottocuck,
-Egypt, Sassanid, Rome... agro-centric centralized mafia empires, through their
-peasant/tax/opress cycle created a toxic culture that still lingers in
-these regions, like a bad fart, which is impeding the progress of
-their descendants. Lets's look at data.
+the later predicaments [as we now know](../../2017/12/rome.md), one
+could guess countries who were at the center of these "ancient"
+developments would clearly be worse off. And they are. The Han,
+Ottocuck, Egypt, Sassanid, Rome... agro-centric centralized mafia
+empires, through their peasant/tax/opress cycle created a toxic
+culture that still lingers in these regions, like a bad fart, which is
+impeding the progress of their descendants. Lets's look at data.
 
 We compare China, Italy, Turkey, Greece, Egypt, Iran vs others.
 
