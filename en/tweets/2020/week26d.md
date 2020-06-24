@@ -12,13 +12,15 @@ Thinking about how the Congressional Black Caucus endorsed Engel"
 
 ---
 
-@PpollingNumbers
+Bowman is the progressive likely to unseat a centrist. Very cool.
+
+"@PpollingNumbers
 
 \#NY16 Dem Primary Results (91.5% In)
 
 Bowman 60.9%
 
-Engel (-Inc) 35.6%
+Engel (-Inc) 35.6%"
 
 ---
 
