@@ -4,8 +4,8 @@ When people praise a region, a country being "ancient", "had
 civilization" what they mean is that region had contact with
 agriculture the longest, because only then you can have a mafia
 (empire) who can tax (peasant is tied to land, can't run away), raise
-armies, kill others and build gladiator arenas, statues which later
-generations as tourist can gape at like morons.
+armies, kill others and build arenas, roads which later generations as
+tourist can gape at like morons.
 
 However, and in the light of agriculture being the root ill of many of
 our predicaments that was to follow [as we now know](../../2017/12/rome.md),
