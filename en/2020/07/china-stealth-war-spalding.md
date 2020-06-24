@@ -1,4 +1,4 @@
-# China by General Spalding
+# Stealth War, China by General Spalding
 
 In 1970, one year after China ominously detonated two hydrogen bombs
 near its Russian border, Mao sent a message to President Richard Nixon
@@ -48,20 +48,20 @@ pipeline, but delaying the first strand by about three years and then
 denying official and, eventually, private credit access to Moscow.'
 [they sabotaged the pipeline]
 			
-'There was also a secret agreement with the Saudis to pump
-two million barrels of oil and decontrol domestic prices at the
-wellhead to drop oil to $10 a barrel.' Indeed, with oil prices
-plummeting from $37.42 a barrel in 1980 ($114, adjusted for inflation)
-to such bargain prices, a vital source of hard currency income dried
-up for the Soviets. Meanwhile, Robinson and the government actively
+'There was also a secret agreement with the Saudis to pump two million
+barrels of oil and decontrol domestic prices at the wellhead to drop
+oil to 10 dollar a barrel.' Indeed, with oil prices plummeting from
+37.42 dollar a barrel in 1980 (114 dollar, adjusted for inflation) to
+such bargain prices, a vital source of hard currency income dried up
+for the Soviets. Meanwhile, Robinson and the government actively
 opposed any plans to permit the Soviets from issuing sovereign bonds,
 further depriving our rivals of urgently needed cash [..]
 			
 ​Limited access to much-needed foreign credit, an economy unable to
 compete in new technology, and the strategic erosion of the empire on
 so many fronts made it impossible for the Soviets to sustain their
-sovereignty. In 1991, the country defaulted on $96 billion in hard
-currency debt. Two days later, the Soviet Union collapsed  ...
+sovereignty. In 1991, the country defaulted on 96 billion dollars in
+hard currency debt. Two days later, the Soviet Union collapsed ...
 
 Combatting China’s economic warfare will require business unusual—a
 radical change in how our society thinks about fiduciary
