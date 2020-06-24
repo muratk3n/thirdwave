@@ -12,7 +12,7 @@ Thinking about how the Congressional Black Caucus endorsed Engel"
 
 ---
 
-Bowman is the progressive likely to unseat a centrist. Very cool.
+Bowman is a progressive likely to unseat a centrist. 
 
 "@PpollingNumbers
 
