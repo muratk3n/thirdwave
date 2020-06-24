@@ -114,10 +114,12 @@ can be beaten.
 ---
 
 I hate to say it, the man was a hero, but Ike, having seen war up
-close, might have leaned little too heavy on spycraft during his
-Presidency. The Mosdaddeq thing one example... He also went for
-"pactomania" which is fine.. But the spycraft would have countries,
-esp developing world always looking over their shoulders. Not good.
+close, and wanting to keep fighting on the cheap might have leaned
+little too heavy on spycraft during his Presidency. The Mosdaddeq
+thing might have been an outgrowth of that... There was also
+"pactomania" during his time in office, prob for the same
+reasons.. But the spycraft would have countries, esp developing world
+always looking over their shoulders. Funny thing is 
 
 ---
 
