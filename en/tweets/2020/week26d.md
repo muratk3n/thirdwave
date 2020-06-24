@@ -33,6 +33,12 @@ we lost faith in our public institutions to do so"
 
 ---
 
+There is a lot of discontent in US, that can stick on the centrists
+who are the incumbent group within the party. Campaign well these ppl
+can be beaten.
+
+---
+
 Coaxial propeller design, very cool; maximum lift for given blade
 size, power.
 
@@ -99,12 +105,6 @@ NOWPayments"
 
 ---
 
-There is a lot of discontent in US, that can stick on the centrists
-who are the incumbent group within the party. Campaign well these ppl
-can be beaten.
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giving money to people who desperately need it is good policy. Who could have possibly known? <a href="https://t.co/B3e0pk1agg">https://t.co/B3e0pk1agg</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1275426194561748992?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -119,7 +119,8 @@ little too heavy on spycraft during his Presidency. The Mosdaddeq
 thing might have been an outgrowth of that... There was also
 "pactomania" during his time in office, prob for the same
 reasons.. But the spycraft would have countries, esp developing world
-always looking over their shoulders. Funny thing is 
+always looking over their shoulders. Funny thing is they always say
+that abt Russia that they leaned so much on spycraft. 
 
 ---
 
