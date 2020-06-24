@@ -155,7 +155,7 @@ nonetheless"
 Subject to appropriations.. how fast is that happening
 
 "The US Department of Energy (DOE) has announced its intention to
-invest up to $100m over five years in two new DOE National
+invest up to 100m dollars over five years in two new DOE National
 Laboratory-led consortia to advance hydrogen and fuel cell
 technologies.
 
