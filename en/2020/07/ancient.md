@@ -18,9 +18,7 @@ impeding the progress of their descendants. Lets's look at data.
 
 We compare China, Italy, Turkey, Greece, Egypt, Iran vs others.
 
-GDP per capita, them vs others (data from World Bank,
-[GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita), 
-[Population](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)),[CSV](gdpw.csv))
+GDP per capita, them vs others (data from World Bank, [GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita), [Population](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)),[CSV](gdpw.csv))
 
 
 ```python
