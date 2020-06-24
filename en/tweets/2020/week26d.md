@@ -120,7 +120,7 @@ thing might have been an outgrowth of that... There was also
 "pactomania" during his time in office, prob for the same
 reasons.. But the spycraft would have countries, esp developing world
 always looking over their shoulders. Funny thing is they always say
-that abt Russia that they leaned so much on spycraft. 
+that abt Russia that they leaned so much on spycraft.
 
 ---
 
