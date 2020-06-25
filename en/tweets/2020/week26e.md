@@ -79,6 +79,10 @@ I saw that paper. Genius.
 
 ---
 
+<img width="140"  src="https://pbs.twimg.com/media/DJkR1VEXgAQIypa.jpg"/>
+
+---
+
 Jackass
 
 "@RexChapman
