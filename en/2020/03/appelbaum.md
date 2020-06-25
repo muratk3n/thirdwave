@@ -13,9 +13,7 @@ the safety of automobiles. In a nation with three big automakers,
 where driving had long passed from luxury to necessity for most
 people, Nader recognized the need to find another way of forcing
 companies to make safer products. He recognized the need for
-regulation
-
-* * *
+regulation ...
 
 In 1960, the top four firms had brewed 27 percent of the beer; by
 1980, the top four firms brewed 67 percent. And economists pointed out
@@ -29,9 +27,7 @@ The rise of the Japanese economy also began to shift public
 debate. Japan treated industrial conglomerates as a source of
 strength, not a threat to society and the state. American corporations
 argued consolidation was necessary to compete, and some politicians
-began to sound sympathetic notes
-
-* * *
+began to sound sympathetic notes ...
 
 In April 1952, dozens of engineers from some of the world’s largest
 companies .. boarded buses in New York City and headed [to AT&T]. They
@@ -51,15 +47,11 @@ mention of the role played by government. It was antitrust regulation
 that opened the market and allowed those ideas to bloom.
 
 Limiting the market power of large corporations was a distinctly
-American tradition
-
-* * *
+American tradition ...
 
 It was the Kennedy admin who started dismantling progressive
 taxation, Carter started dismantling econ regulation, Clintons went
-even further
-
-* * *
+even further ...
 
 <a name="corp"/>
 
@@ -70,9 +62,7 @@ close friend George Stigler initially expressed fear of corporate
 power and argued that restraining corporate concentration was one of
 the few legitimate functions of government. Some conservative
 economists still do. But many decided to make common cause with
-corporations against government power.
-
-* * *
+corporations against government power. ...
 
 Friedman [an economic conservative], and other leading economists,
 also expressed views that pained social conservatives, including
