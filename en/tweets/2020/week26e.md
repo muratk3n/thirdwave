@@ -109,7 +109,7 @@ for a ban"
 ---
 
 Haha Kissenger said of Flynn "he'll be gone within a year" when he
-took the job said he's the wrong type of person for it. Whatever u
+took the job. Said he's the wrong type of person for it. Whatever u
 might think of the man he knows gov work, and its characters.
 
 ---
