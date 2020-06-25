@@ -45,7 +45,9 @@ to follow their same bad habits and discriminatory tactics."
 
 "@charstarlene
 
-Arrest the cops who killed Breonna Taylor. Attorney General: Daniel Cameron
+Arrest the cops who killed Breonna Taylor.
+
+Attorney General: Daniel Cameron
 
 attorney.general@ag.ky.gov 
 
