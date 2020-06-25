@@ -14,7 +14,7 @@ primary"
 ---
 
 Dude trying to pronounce Afghanistan with a "guh" sound like
-"Af-guh-nistan" thinking he is with it, knows the "local" ways,
+"Uf-guh-nistan" thinking he is with it, knows the "local" ways,
 virtue-signaling that he is cultured, "knows shit". What a f-ing
 retard. I've seen cases when other person did not understand bcz of
 this retarded pronunciation. Do you want to communicate, or just
