@@ -1,6 +1,5 @@
 # Tweets - Week 26e
 
-
 From The U.S. Commission on International Religious Freedom (USCIRF)
 
 [Link](https://www.uscirf.gov/news-room/press-releases-statements/uscirf-condemns-turkish-military-operations-in-northern-iraq)
