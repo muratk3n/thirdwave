@@ -79,7 +79,7 @@ I saw that paper. Genius.
 
 ---
 
-<img width="140"  src="https://pbs.twimg.com/media/DJkR1VEXgAQIypa.jpg"/>
+<img width="240"  src="https://pbs.twimg.com/media/DJkR1VEXgAQIypa.jpg"/>
 
 ---
 
