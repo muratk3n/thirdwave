@@ -73,7 +73,8 @@ distributed teams"
 
 ---
 
-Dude is varying motor speed within same cycle. Got game.
+Dude is varying motor speed within same cycle to obtain pitch and
+roll. Got game.
 
 ---
 
