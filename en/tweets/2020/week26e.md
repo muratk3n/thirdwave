@@ -73,6 +73,10 @@ distributed teams"
 
 ---
 
+Dude is varying motor speed within same cycle. Got game.
+
+---
+
 I saw that paper. Genius. 
 
 [Link](https://youtu.be/d80oXSCcHTk?t=49)
