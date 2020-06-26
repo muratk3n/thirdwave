@@ -61,7 +61,7 @@ but lost to Keir) asked to step down, for sharing an article?
 
 ---
 
-Gobble gobble version is like \#6.
+Gobble gobble version is like \#1.
 
 Dane version is odd
 
@@ -69,17 +69,17 @@ Dane version is odd
 
 Names for people who read a lot:
 
-6) Bookworm (English)
+1) Bookworm (English)
 
-5) Book flea (Indonesian)
+2) Book flea (Indonesian)
 
-4) Library mouse (Romanian)
+3) Library mouse (Romanian)
 
-3) Read-rat (German)
+4) Read-rat (German)
 
-2) Ink drinker (French)
+5) Ink drinker (French)
 
-1) Reading horse (Danish)"
+6) Reading horse (Danish)"
 
 ---
 
