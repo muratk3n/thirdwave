@@ -981,3 +981,8 @@ Lota cons look dazed, confused, as if woke up wout much sleep middle
 of the night. These protest must be their worst nightmare.
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
