@@ -1,5 +1,6 @@
 # Tweets - Week 26f
 
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> is putting its money where its mouth is with yet another JV in the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> space: <a href="https://twitter.com/_NPROXX?ref_src=twsrc%5Etfw">@_NPROXX</a>, The JV will provide clients with <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> and compressed natural gas storage products for both on-highway and rail applications. <a href="https://twitter.com/Truckinginfo?ref_src=twsrc%5Etfw">@Truckinginfo</a> <a href="https://t.co/O13OZrcHu6">https://t.co/O13OZrcHu6</a> <a href="https://t.co/Fk73IvHzlq">pic.twitter.com/Fk73IvHzlq</a></p>&mdash; Hydrogen &amp; Fuel Cell Pilot (@FuelCellPilot) <a href="https://twitter.com/FuelCellPilot/status/1276362103876714496?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -90,7 +91,7 @@ Names for people who read a lot:
 
 Mandrillus Sphynx - The Drill \#music
 
-[Link](https://youtu.be/fMWtlGwfEFU?t=38)
+[Link](https://youtu.be/fMWtlGwfEFU?t=100)
 
 ---
 
