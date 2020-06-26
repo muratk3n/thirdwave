@@ -94,6 +94,14 @@ Mandrillus Sphynx - The Drill \#music
 
 ---
 
+"@JStein_WaPo
+
+Joe Biden notes in speech today that many people are losing their
+health insurance during the pandemic because it is tied to their
+employment"
+
+---
+
 "@wendellpotter
 
 Amid America's \#COVID19 disaster, I must come clean about a lie I
