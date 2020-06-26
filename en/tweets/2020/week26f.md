@@ -96,9 +96,9 @@ Mandrillus Sphynx - The Drill \#music
 "@wendellpotter
 
 Amid America's \#COVID19 disaster, I must come clean about a lie I
-spread as a health insurance exec: We spent big $$ to push the idea
-that Canada's single-payer system was awful & the U.S. system much
-better. It was a lie"
+spread as a health insurance exec: We spent big [dollars] to push the
+idea that Canada's single-payer system was awful & the U.S. system
+much better. It was a lie"
 
 [Link](https://mobile.twitter.com/wendellpotter/status/1276158510955401216)
 
