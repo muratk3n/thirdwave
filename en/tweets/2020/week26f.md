@@ -126,9 +126,9 @@ issue.  But, who prepares the information? The knowledge in a briefing
 could influence a decision..
 
 It's like jury work in US, random citizens are selected to decide on
-court case. That duty is no cakewalk, ppl cram into a room and spend
-hours in there, listen to witnesses, lawyers, so in a way become a
-mini-expert on the issue themselves before they decide. 
+court case. That duty is no cakewalk BTW, ppl cram into a room and
+spend hours in there, listen to witnesses, lawyers, so in a way become
+a mini-expert on the issue themselves before they decide.
 
 "How will postmodern governance look like?" 
 
