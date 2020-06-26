@@ -5,6 +5,20 @@
 
 ---
 
+"@ashleymoirDC
+
+FOX NEWS POLL
+
+FL: Biden 49, Trump 40
+
+GA: Biden 47, Trump 45
+
+NC: Biden 47, Trump 45
+
+TX: Biden 45, Trump 44"
+
+---
+
 "@radleybalko
 
 Percentage of tickets issued by NYPD officers that went to black or
