@@ -91,7 +91,7 @@ Names for people who read a lot:
 
 Mandrillus Sphynx - The Drill \#music
 
-[Link](https://youtu.be/fMWtlGwfEFU?t=100)
+[Link](https://youtu.be/fMWtlGwfEFU?t=80)
 
 ---
 
