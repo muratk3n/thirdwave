@@ -89,12 +89,6 @@ Names for people who read a lot:
 
 ---
 
-Mandrillus Sphynx - The Drill \#music
-
-[Link](https://youtu.be/fMWtlGwfEFU?t=80)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Health care is a right for all — not a privilege for the few.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1276172044925722625?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
