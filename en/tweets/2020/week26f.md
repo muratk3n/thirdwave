@@ -57,7 +57,8 @@ services”
 ---
 
 Rebecca Long Bailey (shadow sec, tried to get Lab nomination herself
-but lost to Keir) asked to step down, for sharing an article?
+but lost to Keir) asked to step down, for sharing an "anti-semitic"
+article?
 
 ---
 
