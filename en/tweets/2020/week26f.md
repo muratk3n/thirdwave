@@ -136,10 +136,6 @@ Fat Jon - In Position \#music
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Americans love to complain about the media they love to consume.<br><br>They also claim that, instead, they&#39;d like to consume media that demands intellectual effort and challenges their beliefs.<br><br>However, they aren&#39;t willing to make any effort, and hate to see their beliefs challenged. <a href="https://t.co/I9zKGuyKmY">https://t.co/I9zKGuyKmY</a></p>&mdash; Alberto Cairo (@AlbertoCairo) <a href="https://twitter.com/AlbertoCairo/status/1276114648723599360?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Noone knows. There have been some experiments with modified form of
 issue based voting; They sample a group of people from the population,
 get them the necessary information on an issue, hoping that these
