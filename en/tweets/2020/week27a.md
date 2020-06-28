@@ -72,9 +72,10 @@ about Starbuck being a woman...she was just Starbuck 🤷🏼‍♀️"
 No. I am for expertise. Go to Wash, get better at what you
 do. Journalists, keep pols in check. That term limit concept, along
 with a lot of "populist", "people governance" biz is now coming to an
-end, it seems. See Jesse Ventura (for term limits).. Good guy but
-nothing going on there.. tone is like Trump's (who actually along with
-McCain copied his style), and DJT himself might check out soon? 
+end, it seems. See Jesse Ventura (for term limits, ousider etc).. Good
+guy but nothing going on there.. tone is like Trump's (who actually
+along with McCain copied his style), and DJT himself might check out
+soon?
 
 "Are you for term limits?"
 
