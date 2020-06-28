@@ -142,9 +142,10 @@ DJT net popul -15.5%
 
 ---
 
-Ud be shocked to see how not available straight forward / medium lev
-simulations are. Pacman level shit, all there. Neophytes be running RL
-on that garbage all day long. Anything more complicated, MIA.
+Ud be shocked to see how not available straight forward, beyond intro
+level simulations are. Pacman level shit, all there. Neophytes be
+running RL on that garbage all day long. Anything more complicated,
+MIA.
 
 ---
 
