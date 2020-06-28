@@ -9,10 +9,6 @@ egalitarian values?"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=small"/>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">import numpy as scipy</p>&mdash; Hassan Najjar (@hknajjar) <a href="https://twitter.com/hknajjar/status/1276981031497654272?ref_src=twsrc%5Etfw">June 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -47,6 +43,10 @@ local businesses. Will it work?"
 Kasparov: "AI is a tool. This is why the phrase 'AI ethics' bothers
 me, because it feels too much like an attempt to blame a tool – humans
 must always remain responsible for the bad decisions."
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=small"/>
 
 ---
 
