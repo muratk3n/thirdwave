@@ -141,7 +141,7 @@ DJT net popul -15.5%
 
 Ud be shocked to see how not available straight forward / medium lev
 simulations are. Pacman level shit, all there. Neophytes be running RL
-on that garbage all day long. Anything more complicated, AWOL.
+on that garbage all day long. Anything more complicated, MIA.
 
 ---
 
@@ -171,7 +171,7 @@ Californians lacking high-speed broadband"
 ---
 
 Fan of Michelle Hurd. Great on *Picard*. Spotted her on *Hawaii Five
-0*, and I swear saw her on *Doctor Who* as some kind of cat/alien.
+0*, and I swear saw her on *Doctor Who* as some kind of cat alien.
 
 ---
 
