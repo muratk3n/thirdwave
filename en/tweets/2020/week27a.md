@@ -260,11 +260,3 @@ at-scale decarbonisation"
 
 ---
 
-The original was Depeche Mode wasn't it?
-
-Sonata Arctica - World in my Eyes \#music
-
-[Link](https://youtu.be/PYNh5ez6ZTA)
-
----
-
