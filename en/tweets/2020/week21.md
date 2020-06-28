@@ -599,40 +599,6 @@ Auto-LaTeX in Google Docs is neither Auto nor LaTeX"
 
 ---
 
-How does the dynamics of culture code manipulation work? Say, bcz
-there is one-party system in US, and I am a Dem (or Rep) and don't
-want real issues to be talked about bcz I am for same fukking thing as
-the other guy, but I still need some issues to differentiate myself,
-so I decide to press some buttons at cultural level.
-
-Observe: now I am going to take a mother's health issue, and make it
-hot-button. I say,
-
-"Prohibit yourself from fucking (if not married). "
-
-And
-
-"If you do fuck, and have a baby, prohibit yourself from ending the
-pregnancy".
-
-Now the brain snaps to attention. No matter the issue, you lace it
-with prohibition/freedom division, the cultural mind wants to take a
-side on that. The analytical brain is overridden. Mission
-accomplished. I just created the "abortion issue". Now you can have
-ppl fight over these divisions, which puts you at the center of that
-division, and corporations buying out US and the world (and Dems/Reps
-not doing anything about it) are forgotten.
-
-Guns are same way, this time prohibition is on the liberal side, cons
-are for "freedom", gay/straight, drugs/no-drugs, masks/no-masks,
-stay-at-home/not, you could go on... Notice how all these issues are
-conventiently formed around the same axis. Prohibit self. Or freeeee
-yourself. Freeeedomm.
-
-*2020-5-17 13:01:34*
-
----
-
 "Why Rain Constantly Fell for Two Million Years During the Earth’s Late
 Triassic Period"
 

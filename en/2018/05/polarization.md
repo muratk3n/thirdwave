@@ -1,11 +1,4 @@
-# Polarization
-
-Question
-
-I still don't understand why there was so much polarization in US
-during 90s..
-
-To recap..
+# US Polarization
 
 Let's rewind to the beginning.. The Berlin Wall came down in 1989,
 capitalism had won, the Earth would become flat, globalization
@@ -60,12 +53,7 @@ with their token diversity initiatives token candidates, but it isn't
 enough. It will never be enough. Until the ideological void is filled,
 this "shitshow" will continue.
 
-Question
-
-What did politicians think about the polarization during the 90s? What
-were their conclusions?
-
-A: Nada
+What did politicians think about the polarization during the 90s?
 
 Take Bill Clinton himself, who was at the center of all that
 shitstorm, a masterful politician, right? I've read all the bios,
@@ -92,14 +80,44 @@ became more law-and-order to create that contrast. Now they want to
 make mere mention of police brutality a taboo. All bcz Democrats would
 not stick to their natural constituency.
 
-Question
-
-The Clinton Presidency was an important marker in history then?
-
-Of course
-
-This was the first Democratic president after the fall of the Berlin
+Note: Clinton Presidency was an important marker in history .This was
+the first Democratic president after the fall of the Berlin
 Wall. Everyone watched closely what they would do.. Dems started
 something with him, I guess it is fitting that era ending with another
 Clinton.
+
+<a name='codes'/>
+
+Utilization of Culture Codes
+
+How does the dynamics of culture code manipulation work? There is now
+a one-party system in US, and I am a Dem (or Rep) and don't want real
+issues to be talked about bcz I am for same fukking thing as the other
+guy, but I still need some issues to differentiate myself, so I decide
+to press some buttons at cultural level.
+
+Observe: now I am going to take a mother's health issue, and make it
+hot-button. I say,
+
+"Prohibit yourself from fucking (if not married). "
+
+And
+
+"If you do fuck, and have a baby, prohibit yourself from ending the
+pregnancy".
+
+Now the brain snaps to attention. No matter the issue, you lace it
+with prohibition/freedom division, the cultural mind wants to take a
+side on that. The analytical brain is overridden. Mission
+accomplished. I just created the "abortion issue". Now you can have
+ppl fight over these divisions, which puts you at the center of that
+division, and corporations buying out US and the world (and Dems/Reps
+not doing anything about it) are forgotten.
+
+Guns are same way, this time prohibition is on the liberal side, cons
+are for "freedom", gay/straight, drugs/no-drugs, masks/no-masks,
+stay-at-home/not, you could go on... Notice how all these issues are
+conventiently formed around the same axis. Prohibit self. Or freeeee
+yourself. Freeeedomm.
+
 
