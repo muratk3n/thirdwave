@@ -224,7 +224,7 @@ preyed upon and bribed by the CCP should default in a chain-reaction.
 
 OBOR is the chinese Communist’s method of bribing local officials to
 take on crippling debt for overpriced projects that are then built by
-chinese slave labor. The chinese workers are brought into “work camps”
+chinese slave labor. The chinese workers are brought into 'work camps'
 and fed by the CCP. There is next to zero local positive GDP impact
 
 And the CCP expects payments on the projects to be made in USD. It’s
@@ -250,7 +250,8 @@ the study reveals"
 ---
 
 And whatever can handle big scale will win the small. There will be a
-lot of incentives to one solution for everything.
+lot of incentives to use one solution for everything. Alts will become
+Betamax.
 
 "In the next 10 years [H2] will prove that it is the best choice for
 at-scale decarbonisation"
