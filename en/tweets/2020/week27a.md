@@ -46,6 +46,8 @@ must always remain responsible for the bad decisions."
 
 ---
 
+\#geekJoke
+
 <img width="340" src="https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=small"/>
 
 ---
