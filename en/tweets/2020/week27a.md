@@ -136,8 +136,8 @@ Via \#UsefulIdiots
 
 HAha.. Too good..
 
-"Tesla competitor Nikola will utilize fuel cell water for the Badger's
-built-in drinking fountain"
+"Nikola will utilize fuel cell water for the Badger's built-in
+drinking fountain"
 
 ---
 
