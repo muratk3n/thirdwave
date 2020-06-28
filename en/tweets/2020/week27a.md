@@ -95,7 +95,8 @@ growing stronger"
 ---
 
 It's probably [cultural](../../2020/07/robot-frankenstein.md). Fine 4
-you, but at policy level that's moronic.
+you, but at policy level morons think culturally. You can *sell*
+culturally but that's different.
 
 "But I'm scared of human-like robots"
 
