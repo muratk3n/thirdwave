@@ -122,6 +122,8 @@ Locust.. OKay
 
 ---
 
+via \#UsefulIdiots
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fifty years of research suggests ”Escalating force by police leads to more violence, not less, and tends to create feedback loops, where protesters escalate against police, police escalate even further, and both sides become increasingly angry and afraid.” <a href="https://t.co/rM4RNjmvDv">https://t.co/rM4RNjmvDv</a></p>&mdash; Omar Wasow (@owasow) <a href="https://twitter.com/owasow/status/1276535855306309632?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 ---
 
