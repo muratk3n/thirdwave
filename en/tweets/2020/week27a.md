@@ -7,7 +7,9 @@ to reinforce class hierarchies and there is no renaming or diversity
 initiative that can possibly recast the project as compatible with
 egalitarian values?"
 
-[Link](https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=medium)
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=small"/>
 
 ---
 
