@@ -1,11 +1,11 @@
 # Tweets - Week 27a
 
-@mattyglesias
+"@mattyglesias
 
 What if I told you the core function of selective private colleges is
 to reinforce class hierarchies and there is no renaming or diversity
 initiative that can possibly recast the project as compatible with
-egalitarian values?
+egalitarian values?"
 
 [Link](https://pbs.twimg.com/media/EbiUw3TUcAESLZf?format=jpg&name=medium)
 
