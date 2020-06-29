@@ -145,13 +145,6 @@ DJT net popul -15.5%
 
 ---
 
-Ud be shocked to see how not available straight forward, beyond intro
-level simulations are. Pacman level shit, all there. Neophytes be
-running RL on that garbage all day long. Anything more complicated,
-MIA.
-
----
-
 Udacity; coulda added a little object icon for the thing moving in
 physics_sim and make 3D plotting explicit. And all that RL
 junk.. Barf. You bastardized the main topic of that example.
