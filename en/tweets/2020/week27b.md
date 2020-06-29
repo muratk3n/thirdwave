@@ -66,7 +66,7 @@ If they chose to, fine; But if it turns out they are culturally so
 different, and they are concentrated in a certain region, then local
 governance..? In Germany south is Catholic, north is Protestan, and
 guess what, local loc gov is strong. Conservatives of both regions
-don't even compete against eachother. Con of south CSU and con north
+don't even compete against eachother. Con of south CSU and con of north
 CDU govern together if elected, during elections stay out of
 eachother's way.
 
