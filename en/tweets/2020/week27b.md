@@ -62,6 +62,22 @@ realism in today’s culture"
 
 ---
 
+If they chose to, fine; But if it turns out they are culturally so
+different, and they are concentrated in a certain region, then local
+governance..? In Germany south is Catholic, north is Protestan, and
+guess what, local loc gov is strong. Conservatives of both regions
+don't even compete against eachother. Con of south CSU and con north
+CDU govern together if elected, during elections stay out of
+eachother's way.
+
+Not sure what TR minorities will do .. The only state response these
+people ever saw was one authoritarian regime after another.
+
+"You said US acceptance of subcultures makes their assimilation
+easier. Do you want TR Kurds to assimilate?"
+
+---
+
 "@oliviasolon
 
 Wondering how many tech workers have realized, in the absence of all
@@ -155,18 +171,3 @@ that’s true are blinded by shiny objects.
 '@paulbraren Our Long Range AWD (barely) handles winter & 100
 miles-each-way drives to NYC & Boston w/ no charging'"
 
----
-
-If they chose to, fine; But if it turns out they are culturally so
-different, and they are concentrated in a certain region, then local
-governance..? In Germany south is Catholic, north is Protestan, and
-guess what, local loc gov is strong. Conservatives of both regions
-don't even compete against eachother. Con of south CSU and con north
-CDU govern together if elected, during elections stay out of
-eachother's way.
-
-Not sure what TR minorities will do .. The only state response these
-people ever saw was one authoritarian regime after another.
-
-"You said US acceptance of subcultures makes their assimilation
-easier. Do you want TR Kurds to assimilate?"
