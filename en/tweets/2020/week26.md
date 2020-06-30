@@ -46,13 +46,6 @@ documentation"
 
 ---
 
-Fantastic. Mitch might face a progressive in the Senate election after
-all.
-
-<img width="340" src="https://pbs.twimg.com/media/EbXdVVZX0AIC1iD?format=jpg&name=small"/>
-
----
-
 Creality CR10 S4 3D printer < 1000 dollars. Incredible.
 
 [Link](https://youtu.be/zM-IxgED9zw)
