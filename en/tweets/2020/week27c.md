@@ -33,9 +33,9 @@ Cons always see the absence of belief as another belief system.
 
 "@mjs_DC
 
-Police cars revolving lightBy a 5–4 decision, the Supreme Court's
-conservatives rule that Montana must fund private religious schools if
-it funds private secular schools"
+By a 5–4 decision, the Supreme Court's conservatives rule that Montana
+must fund private religious schools if it funds private secular
+schools"
 
 ---
 
