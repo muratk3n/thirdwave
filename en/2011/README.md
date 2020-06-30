@@ -308,8 +308,6 @@
 
 [Patent 5,893,120](07/patent-5893120.md)
 
-[The Reassurance Ritual](07/reassurance-ritual.md)
-
 [Rome Killed Jesus](07/rome-killed-jesus.md)
 
 [Sadly He Did Not Succeed](07/sadly-he-did-not-succeed.md)
