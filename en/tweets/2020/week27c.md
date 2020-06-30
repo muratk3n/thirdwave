@@ -23,22 +23,6 @@ that"
 
 ---
 
-No
-
-"But isn't it?"
-
----
-
-Cons always see the absence of belief as another belief system.
-
-"@mjs_DC
-
-By a 5–4 decision, the Supreme Court's conservatives rule that Montana
-must fund private religious schools if it funds private secular
-schools"
-
----
-
 "@Jkylebass
 
 It appears that Communist China is beginning to stir the pot in
