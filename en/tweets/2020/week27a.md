@@ -184,10 +184,6 @@ growing at a CAGR of 34.0% during 2021-2026"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kentucky deserves a Senator who unwaveringly believes that healthcare is a human right.<br><br>My name is Charles Booker, and I fully support Medicare for All.</p>&mdash; Charles Booker (@Booker4KY) <a href="https://twitter.com/Booker4KY/status/1276326383199846412?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "The US Department of Treasury’s imposition this June of the so-called
 Caesar Civilian Protection Act, a draconian set of economic sanctions
 on Syria, amounts to a medieval-style siege on all Syrians living
