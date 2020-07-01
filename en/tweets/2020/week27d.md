@@ -30,7 +30,7 @@ greedy scammer"
 ---
 
 Author says he might have been suffering from "hip certainty" when he
-comdemned Nix too quickly. 
+comdemned Nix too quickly in his younger days. 
 
 "He inherited the catastrophic Lyndon Johnson-concocted Vietnam War
 inside the Cold War, and yet Nixon found ways to get out of Southeast
