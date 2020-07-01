@@ -1,8 +1,8 @@
 # Tweets - Week 27d
 
-I remember that case, the way it was talked abt in press and among ppl
-was an example of overlitigation of US, as in some ambulance chaser
-lawyer was now using coffee burns to make money.
+I remember that case, the way it was talked abt in corporate press and
+among ppl was an example of overlitigation of US, as in some ambulance
+chaser lawyer was now using coffee burns to make money.
 
 "@kokoinkorea
 
