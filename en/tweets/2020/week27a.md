@@ -203,14 +203,6 @@ itself'"
 
 ---
 
-"@davidsirota
-
-The Democratic establishment is now absolutely panicking about the
-prospect of progressive @Romanoff2020 defeating fossil fuel ally
-@Hickenlooper in the Democratic Senate primary here in Colorado"
-
----
-
 "@Jkylebass
 
 Now that the predatory 'no-bid' OBOR contract with the Chinese has

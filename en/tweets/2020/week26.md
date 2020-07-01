@@ -1040,17 +1040,6 @@ company poses a challenge to national security.'"
 
 ---
 
-"@davidsirota
-
-NEWS: Dem leaders in Washington are trying to buy primaries to prevent
-a progressive Senate - they are now spending $1 million to try to
-crush progressive @Romanoff2020 & rescue Medicare for All opponent
-@Hickenlooper, whose campaign is engulfed in scandal"
-
-[Link](https://sirota.substack.com/p/beltway-dems-are-trying-to-prevent)
-
----
-
 "@STOPFLEXIN
 
 you know what law never made sense to me? the fact that it’s illegal
