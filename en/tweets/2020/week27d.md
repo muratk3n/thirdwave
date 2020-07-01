@@ -57,8 +57,8 @@ hooked on the left for vertical.
 
 ---
 
-Aaaah found a short-term soln now, but I'd wanted to see this
-working.. maybe later.
+Aaaah found a short-term soln now, but I wanted to see this
+working too.. maybe later.
 
 <img width="180" src="https://pbs.twimg.com/media/EbyHnB4XgAANVCT?format=png&name=small"/>
 
