@@ -64,7 +64,7 @@ working too.. maybe later.
 
 ---
 
-A generous rich person who wants to be taxed
+A generous rich guy who wants to be taxed?
 
 "@megangailey
 
