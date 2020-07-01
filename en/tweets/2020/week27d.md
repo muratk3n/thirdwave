@@ -48,12 +48,13 @@ Reuters, space mining
 
 ---
 
-360 deg rotation bitch. Top mount for horiz, the cross inside ring for
-vertical. 
+360 deg rotation bitch. Top mount for horiz, the cross inside ring
+hooked on the left for vertical.
 
 ---
 
-Aaaah found a short-term soln, but I wanted to see this working.. maybe later.
+Aaaah found a short-term soln now, but I'd wanted to see this
+working.. maybe later.
 
 <img width="180" src="https://pbs.twimg.com/media/EbyHnB4XgAANVCT?format=png&name=small"/>
 
