@@ -32,11 +32,11 @@ greedy scammer"
 Author says he might have been suffering from "hip certainty" when he
 comdemned Nix too quickly. 
 
-"[Nixon] inherited the catastrophic Lyndon Johnson-concocted Vietnam
-War inside the Cold War, and yet Nixon found ways to get out of
-Southeast Asia, invent détente with Leonid Brezhnev’s Soviet Union,
-open dialogue with Mao Zedong’s China and manage nuclear brinksmanship
-in South Asia and in the Middle East"
+"He inherited the catastrophic Lyndon Johnson-concocted Vietnam War
+inside the Cold War, and yet Nixon found ways to get out of Southeast
+Asia, invent détente with Leonid Brezhnev’s Soviet Union, open
+dialogue with Mao Zedong’s China and manage nuclear brinksmanship in
+South Asia and in the Middle East"
 
 [Link](https://www.thedailybeast.com/how-ive-learned-to-appreciate-nixon)
 
@@ -118,7 +118,7 @@ and man, we really did this bullshit every day?"
 
 ---
 
-FUCK YEAH
+FUCK YEAH	
 
 <img width="340" src="https://pbs.twimg.com/media/EbeVcEPXYAAho78?format=jpg&name=small"/>
 
