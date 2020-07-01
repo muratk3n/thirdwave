@@ -6,10 +6,10 @@ chaser lawyer was now using coffee burns to make money.
 
 "@kokoinkorea
 
-[let's] remember that McDonalds served their coffee at 190 degrees,
-which is hot enough to leave 3rd degree burns in just 3 seconds of
-contact with skin. They knew this and decided to serve the coffee at
-190 degrees because it had ...
+[In 1994 let's] remember that McDonalds served their coffee at 190
+degrees, which is hot enough to leave 3rd degree burns in just 3
+seconds of contact with skin. They knew this and decided to serve the
+coffee at 190 degrees because it had ...
 
 a longer shelf life than serving it at the standard 160 degrees. They
 calculated that burn related law suits would cost less than just
