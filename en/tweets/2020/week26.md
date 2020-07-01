@@ -394,12 +394,6 @@ we lost faith in our public institutions to do so"
 
 ---
 
-There is a lot of discontent in US, that can stick on the centrists
-who are the incumbent group within the party. Campaign well these ppl
-can be beaten.
-
----
-
 Still in the long-term Mars is a bad idea. Cannot be
 terraformed. Better off with one of those Jupiter moons or large
 station near Earth. After footprint on the ground I'd ditch Mars.
@@ -637,12 +631,6 @@ movie"
 RIP
 
 "Joel Schumacher, director of Batman films, dies at 80"
-
----
-
-Hickenlooper was probably hurt by his perf at the national Dem
-primaries. His state must have thought well "he doesn't look like some
-hot shit, he did so badly nationally".
 
 ---
 
