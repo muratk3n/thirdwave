@@ -118,6 +118,8 @@ and man, we really did this bullshit every day?"
 
 ---
 
+FUCK YEAH
+
 <img width="340" src="https://pbs.twimg.com/media/EbeVcEPXYAAho78?format=jpg&name=small"/>
 
 ---
