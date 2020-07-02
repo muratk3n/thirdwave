@@ -20,7 +20,7 @@ where leadership matters.
 ---
 
 Part of the reason for the prevalence of this word "populism" is
-because it provides cover to cons doing bunch of "leftist shit". All
+because it provides cover for cons "doing bunch of leftist shit". All
 of a sudden some of them started talking about worker rights, worker
 paychecks, but they can't quite bring themselves to say these things
 are leftist having demonized the word for so long, so they need a
