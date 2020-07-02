@@ -92,9 +92,12 @@ Utilization of Culture Codes
 
 How does the dynamics of culture code manipulation work? There is now
 a one-party system in US, and I am a Dem (or Rep) and don't want real
-issues to be talked about bcz I am for same fukking thing as the other
+issues to be talked about bcz I am for same effin thing as the other
 guy, but I still need some issues to differentiate myself, so I decide
-to press some buttons at cultural level.
+to press some buttons at cultural level. In US there is a cultural
+tug-of-war between prohibition and "freedom", you just reframe the any
+issue arounnd prohibition-freedom axis, and you got yourself a nice
+little bruhaha.
 
 Observe: now I am going to take a mother's health issue, and make it
 hot-button. I say,
