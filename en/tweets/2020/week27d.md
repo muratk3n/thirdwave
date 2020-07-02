@@ -134,11 +134,9 @@ Nikola Badger \#fox
 
 ---
 
+🙄
+
 It's crazy if u think abt it... 
-
----
-
-🙄🙄🙄
 
 "Europe and Mexico are suffering from a carbon dioxide shortage"
 
