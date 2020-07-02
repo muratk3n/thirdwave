@@ -77,8 +77,8 @@ remember a single tab I had open
 ---
 
 Aaah you were doing fine so far tech person, but now swept up by
-politics, and started to shar that centrist DNC junk. That's a
-straight Unfollow. 
+politics, and started sharing that centrist DNC junk... That's a
+straight Unfollow.
 
 ---
 
