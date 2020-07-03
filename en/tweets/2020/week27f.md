@@ -44,7 +44,7 @@ context of that which went before."
 
 Shoulda gone for clean fuel, but no reason to beat up on this
 guy. This particular fanboi runs on excitement alone, got nothing
-else. 
+else. Deep down he has to know the tech is inferior. 
 
 "@RebuildsRich
 
