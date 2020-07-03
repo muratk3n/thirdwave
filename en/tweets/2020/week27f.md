@@ -50,8 +50,11 @@ hive"
 ---
 
 I hear you on the Sodium borohydride, but word is it is expensive to
-make.  $NaBH_4 + 2 H_2 O → NaBO_2 + 4H_2$ is cool... no
-doubt. $NaBH_4$ looks inert as fuck too..
+make.
+
+$NaBH_4 + 2 H_2 O → NaBO_2 + 4H_2$
+
+is cool... no doubt. $NaBH_4$ looks inert as fuck too..
 
 ---
 
