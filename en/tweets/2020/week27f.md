@@ -42,6 +42,10 @@ context of that which went before."
 
 ---
 
+Shoulda gone for clean fuel, but no reason to beat up on this
+guy. This particular fanboi runs on excitement alone, got nothing
+else. 
+
 "@RebuildsRich
 
 The Tesla fanboys formed like Voltron and ganged up to flag my video
