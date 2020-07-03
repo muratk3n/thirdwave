@@ -9,10 +9,13 @@ Oh now all of a sudden it’s my body my choice?? Interesting"
 
 ---
 
-"University of NSW researchers led by Kondo-Francois Aguey-Zinsou say
+"UNSW researchers report mass hydrogen storage
+breakthrough. [R]esearchers led by Kondo-Francois Aguey-Zinsou say
 they have developed metal alloys capable of storing surplus
 electricity in the form of hydrogen much more cheaply than lithium
 batteries to take advantage of the renewables rush"
+
+<img width="340" src="https://pbs.twimg.com/media/Eb_HCZHWAAA2iaD?format=png&name=small"/>
 
 [Link](https://amp.theage.com.au/environment/climate-change/alchemy-of-energy-breakthrough-offers-mass-hydrogen-storage-options-20200702-p558dj.html)
 
