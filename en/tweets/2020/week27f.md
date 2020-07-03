@@ -42,6 +42,8 @@ context of that which went before."
 
 ---
 
+Shoulda gone for clean fuel, but hey, why beat up on this guy
+
 "@RebuildsRich
 
 The Tesla fanboys formed like Voltron and ganged up to flag my video
