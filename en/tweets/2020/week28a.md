@@ -118,8 +118,8 @@ this econ. Spain, Greece, Italy, Anatolia... Export energy as H2 to
 the rest of the world.
 
 "Currently, the European hydrogen economy has a turnover of €2
-billion. The EC’s has set an ambitious goal of €140 billion by
-2030. Besides the obvious geopolitical and technical advantages, some
+billion. The EC’s has set an ambitious goal of €140 billion by 2030 .
+Besides the obvious geopolitical and technical advantages, some
 140.000 jobs could be created along the way.
 
 Although previously similar efforts have been made, strong support
