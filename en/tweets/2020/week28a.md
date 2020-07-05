@@ -144,7 +144,7 @@ Matter](https://www.nydailynews.com/opinion/ny-oped-blue-lies-matter-20200703-sg
 ---
 
 David McKay.. cant say enough how shortsighted that son of a bitch
-was... His climate book is full of hot air. 
+was... His climate book is full of hot air. Yes I said he "was". He dead.
 
 ---
 
