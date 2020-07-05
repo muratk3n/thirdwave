@@ -177,7 +177,7 @@ on the former, w Patterson.. Patman? Affleck was good.
 
 Hey this is a great idea \#starwars
 
-[Link](https://youtu.be/DvPAhn1CTw0?t=426)
+[Link](https://youtu.be/DvPAhn1CTw0?t=445)
 
 ---
 
