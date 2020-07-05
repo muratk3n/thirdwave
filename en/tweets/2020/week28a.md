@@ -213,10 +213,10 @@ have 30 dogs and cats and live a simple peaceful life?"
 
 ---
 
-I bet quadchoppa became big because most work is done at control level
-and that control, though excessive in terms of compute, can be done
-through simple PID coding ('tuning' means finding constants for the
-PID of the choppa).
+I bet quadchoppa became common because most work is done at control
+level and that control, though excessive in terms of compute, can be
+done through simple PID coding ('tuning' means finding constants for
+the PID of the choppa).
 
 ---
 
