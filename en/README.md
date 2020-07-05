@@ -25,9 +25,7 @@ despite the best efforts of people working in them.
 
 ## For Members
 
-[Articles](https://thirdwave-members.herokuapp.com/articles)
-
-[Latest Tweets](https://thirdwave-members.herokuapp.com/tweets)
+[Link](https://thirdwave-members.herokuapp.com)
 
 ## Reference
 
