@@ -224,8 +224,8 @@ the PID of the choppa).
 
 ---
 
-Actually if u make it an artificial island, floating and can move,
-even submergable in case of emergy, I'll pay double.
+And if u make it an artificial island, floating and can move, even
+submergable in case of emergy, I'll pay double.
 
 ---
 
