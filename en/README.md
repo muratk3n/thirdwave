@@ -11,6 +11,8 @@ despite the best efforts of people working in them.
 
 ## Latest
 
+5/7 - [Tweets - Week 28a](/tweets/2020/week28a.md)
+
 4/7 - [Tweets - Week 27](/tweets/2020/week27.md)
 
 26/6 - [Tweets - Week 26](/tweets/2020/week26.md)
@@ -20,8 +22,6 @@ despite the best efforts of people working in them.
 12/6 - [Tweets - Week 24](/tweets/2020/week24.md)
 
 5/6 - [Tweets - Week 23](/tweets/2020/week23.md)
-
-29/5 - [Tweets - Week 22](/tweets/2020/week22.md)
 
 ## For Members
 
