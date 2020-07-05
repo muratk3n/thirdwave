@@ -171,7 +171,7 @@ screaming past us, life is good"
 ---
 
 I actually do like Snyder movies, even the Bat vs SM. Why go emo on
-the former, w Patterson, or Patman? Afflect was good.
+the former, w Patterson, or Patman? Affleck was good.
 
 ---
 
