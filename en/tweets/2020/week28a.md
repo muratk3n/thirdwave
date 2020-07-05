@@ -150,8 +150,8 @@ was... His climate book is full of hot air.
 
 "@RyseHydrogen
 
-Great to hear Prime Minister @BorisJohnson committing to "invest
-massively in hydrogen" at PMQs this week"
+Great to hear Prime Minister @BorisJohnson committing to 'invest
+massively in hydrogen' at PMQs this week"
 
 ---
 
