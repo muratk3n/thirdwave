@@ -150,7 +150,7 @@ was... His climate book is full of hot air. Yes I said he "was". He dead.
 
 "@RyseHydrogen
 
-Great to hear Prime Minister @BorisJohnson committing to 'invest
+Great to hear Prime Minister @BorisJohnson committing to 'invest
 massively in hydrogen' at PMQs this week"
 
 ---
