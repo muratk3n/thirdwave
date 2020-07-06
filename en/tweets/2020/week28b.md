@@ -114,7 +114,8 @@ print (np.round(h2mass * 4 / 1e9), 'Billion USD / day')
 That green area can generate 9 billion dollars of revenue per day.
 
 Do a tenth of the area, increase efficiency a little, you get 1 Bil
-USD / day, >300 Bil annually, more than a third of the country's GDP.
+USD / day, >300 Bil annually, more than a third of the country's
+GDP. That's a lota dough son.. 
 
 ---
 
