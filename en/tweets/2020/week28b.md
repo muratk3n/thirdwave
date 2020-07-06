@@ -112,6 +112,9 @@ print (np.round(h2mass * 4 / 1e9), 'Billion USD / day')
 
 That green area can generate 9 billion dollars of revenue per day.
 
+Do a tenth of the area, increase efficiency a little, you get 1 Bil
+USD / day, >300 Bil annually, more than a third of the country's GDP.
+
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My dog was so freaked last night! The birds in my neighborhood were flipping as well!</p>&mdash; SJK (@groove6150) <a href="https://twitter.com/groove6150/status/1279765451048988673?ref_src=twsrc%5Etfw">July 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
