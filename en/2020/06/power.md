@@ -67,10 +67,3 @@ Out[1]: 5.6
 
 Description seems correct. 
 
-
-
-
-
-
-
-
