@@ -96,7 +96,7 @@ The green area seen on the map is 100 km x 100 km
 
 In Europe gasoline is 3.51 dollar/kg, let's say H2 is sold at 4
 dollar/kg by mass producers. As a conservative estimate, I give 50%
-efficiency to the entire whole process.
+efficiency to the entire process.
 
 ```python
 eff = 0.50
