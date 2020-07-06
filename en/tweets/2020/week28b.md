@@ -64,8 +64,8 @@ Haha. He comes across 100% culturally American of course, I mean the
 actor himself.. which is also true for most [minorities in
 US](../../2019/11/faux-ambassadors.md). He acts a certain streotype
 well though.. the take is somewhat comical most likely based on
-impressions he gleaned growing up among real Italians, u know, the
-ones *truly* off the boat.
+impressions he gleaned while growing up among real Italians, u know,
+the ones *truly* off the boat.
 
 "@KFILE
 
