@@ -16,7 +16,8 @@ empires, through their peasant/tax/opress cycle created a toxic
 culture that still lingers in these regions, like a bad fart, which is
 impeding the progress of their descendants. Lets's look at data.
 
-We compare China, Italy, Turkey, Greece, Egypt, Iran vs others.
+We compare China, Italy, so-called Turkey, Greece, Egypt, Iran vs
+others.
 
 GDP per capita, them vs others (data from World Bank, [GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita), [Population](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)),[CSV](gdpw.csv))
 
