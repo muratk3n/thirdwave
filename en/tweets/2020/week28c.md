@@ -116,7 +116,7 @@ cell and \#hydrogen technologies.
 
 ---
 
-Wits lots of energy many things can become possible. Desalination at mass scale?
+With lots of energy many things can become possible. Desalination at mass scale?
 
 ---
 
