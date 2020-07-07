@@ -1,7 +1,7 @@
 # Tweets - Week 28c
 
 I'll be damned.. The blue of the EU flag looks like advertisment for
-blue hydrogen now.  Great coincidence.
+blue hydrogen now.  Nice coincidence.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;...we welcome with open arms the opportunity <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> presents to accelerate the sustainable energy transition...&quot; <a href="https://twitter.com/wartsilacorp?ref_src=twsrc%5Etfw">@wartsilacorp</a>&#39;s Björn Ullbro told <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a>. <a href="https://t.co/JrRiZL9f4M">https://t.co/JrRiZL9f4M</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1280414473229123587?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
