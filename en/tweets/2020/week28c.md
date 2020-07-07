@@ -56,6 +56,10 @@ recruited me promised me free stuff"
 
 ---
 
+Re-share -- [Ancient](../../2020/07/ancient.md)
+
+---
+
 Is the Chink really this dumb? Losing all these people to the West,
 and elsewhere?  Just democratize. Stop being a cobsucker. Your history
 is a repugnant piece of shit.  But you can exceed it. You can do
