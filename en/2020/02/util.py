@@ -1,6 +1,8 @@
 import pandas as pd, zipfile, numpy as np
 import matplotlib.pyplot as plt
 
+import pandas as pd, zipfile
+    
 def retrieve_cor_data(bins,colors):
     df = pd.read_csv('corona.csv',sep=r'\t',header=None)
     df1 = df[[1,2,4,6]]

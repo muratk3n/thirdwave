@@ -15,7 +15,9 @@ Personal Consumption
 
 HFC Cars
 
-A Nexo tank carries 210 kWh of energy. The car can travel 756 km on a full tank.
+A Nexo tank carries 210 kWh of energy. The car can travel 756 km on a
+full tank [3], the tank capacity is 6.33 kg. There are actually three
+tanks, each at 10,000 psi [4]. 
 
 Solar panels
 
@@ -45,3 +47,10 @@ References
 [1] https://en.wikipedia.org/wiki/Electrolysis_of_water
 
 [2] https://en.wikipedia.org/wiki/Desalination#Energy_consumption
+
+[3] https://h2.live/en/wasserstoffautos/hyundai-nexo
+
+[4] https://www.extremetech.com/extreme/280219-2019-hyundai-nexo-review-380-miles-on-hydrogen-can-your-ev-go-that-far
+
+
+
