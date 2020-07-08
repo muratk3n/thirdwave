@@ -6,7 +6,7 @@
 ---
 
 How? Through Don Cheadle in [Golden Girls](https://youtu.be/BGDfMo-LX2Q)?
-Yeah. Brrr 
+Yeah. Brrr 😶
 
 Great of course *that* also gets talked about. 
 
