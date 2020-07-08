@@ -160,10 +160,6 @@ solar w/no storage facilities (for example hydrogen) available
 
 ---
 
-Let's see if I can reduce posts to every other day
-
----
-
 Laurie Johnson "Jason King Theme" \#music
 
 [Link](https://youtu.be/2hPj4jthKxQ)
