@@ -5,6 +5,15 @@
 
 ---
 
+How? Through Don Cheadle in [Golden Girls](https://youtu.be/BGDfMo-LX2Q)?
+Yeah. Brrr 
+
+Great of course *that* also gets talked about. 
+
+"But US kept on criticizing that flag"
+
+---
+
 Absolutely. Imagine, a side fights, and *loses* a war, and the other
 side allows them to keep their statues, flags, and even send the
 occasional President to Washington. And keep on this policy until it
