@@ -18,9 +18,10 @@ Absolutely. Imagine, a side fights, and *loses* a war, and the other
 side allows them to keep their statues, flags, and even send the
 occasional President to Washington. And keep on this policy until it
 literally couldn't, which is probably now. Letting shit be, this is
-America. It lets "Italians", "Polish", etc to say whatev frack they
-want to call themselves, albeit delusional, they can say it, just like
-Confederate states live with their symbols as if they won the war.
+America. It lets "Italians", "Polish", etc to say, call whatev the
+frack they want to call themselves, albeit delusional, they can say
+it, just like Confederate states live with their symbols as if they
+won the war.
 
 "You said US lets subcultures be, allows to be how they are, as a form
 of light assimilation. Were Confedarate symbols part of that?"
