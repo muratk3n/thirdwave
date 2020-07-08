@@ -100,10 +100,10 @@ Taibbi: "[R]ather than confronting how they contribute to systematic
 racism, companies tend to force their employees into trainings with
 outside academics like DiAngelo. 
 
-'This is how corporate America views the race problem, it views it as
+This is how corporate America views the race problem, it views it as
 an individual issue that where racism is is sort of inexorably stuck
 in all of us and the only way that we can combat it is through
-relentlessly listening to corporate consultants'
+relentlessly listening to corporate consultants"
 
 [Link](https://thehill.com/hilltv/rising/505699-matt-taibbi-slams-bestseller-white-fragility-as-corporate-vision-on-racism?amp#click=https://t.co/XEYD07xC4G)
 
