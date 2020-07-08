@@ -100,11 +100,12 @@ relentlessly listening to corporate consultants'
 
 ---
 
-And to find guide posts on where to go for that theory of two things,
-it's probably instructive to look at the last big thing. What was the
-last big thing? Black holes. Hawking. Information. t Hooft (Nobel
-laurate) did bunch of stuff there also (who is apparently Verlinde's
-*master* thesis advisor).
+And to find the guide posts on which direction to go to, for that
+theory of two things, it's probably instructive to look at the last
+big thing. What was the last big thing? Black
+holes. Hawking. Information. t Hooft (Nobel laurate) did bunch of
+stuff there also (who is apparently Verlinde's *master* thesis
+advisor).
 
 ---
 
