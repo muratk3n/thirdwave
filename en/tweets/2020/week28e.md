@@ -145,7 +145,7 @@ Tech infrastructure, homes.. these are good things. Hope he pulls it off.
 
 ---
 
-And here is the "Tory PM" [annoucing](https://youtu.be/0qZ_FpIEhGY?t=1173)
+And here is the "Tory PM" [announcing](https://youtu.be/0qZ_FpIEhGY?t=1173)
 the British New Deal.
 
 ---
