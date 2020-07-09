@@ -34,7 +34,7 @@ same. But I double worry bcz it's a Chink app. India banned the shit FYI
 
 ---
 
-I like it... thinking like a closer. 
+Thinking like a closer. V good
 
 \#ABC
 
@@ -146,7 +146,7 @@ Tech infrastructure, homes.. these are good things. Hope he pulls it off.
 ---
 
 And here is the "Tory PM" [announcing](https://youtu.be/0qZ_FpIEhGY?t=1173)
-the British New Deal.
+the British NEW DEAL.
 
 ---
 
