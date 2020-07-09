@@ -27,7 +27,7 @@ that he's outraged by noncompete agreements"
 
 ---
 
-TikTok is a Chink app isnt it? Yes FB and other app are prob doing the
+TikTok is a Chink app isnt it? Yes FB and other apps are prob doing the
 same. But I double worry bcz it's a Chink app. India banned the shit FYI
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A guy on reddit reversed engineered <a href="https://twitter.com/hashtag/TikTok?src=hash&amp;ref_src=twsrc%5Etfw">#TikTok</a><br><br>Here’s what he found on the data it collects on you<br><br>It’s far worse than just stealing what’s on your clipboard: <a href="https://t.co/oqaQyYDXT2">pic.twitter.com/oqaQyYDXT2</a></p>&mdash; Dan Okopnyi 🇺🇦 (@d1rtydan) <a href="https://twitter.com/d1rtydan/status/1277081198624337920?ref_src=twsrc%5Etfw">June 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
