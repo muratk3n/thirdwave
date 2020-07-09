@@ -57,6 +57,8 @@ margins. The next time a @Booker4KY, or @JCisnerosTX, or
 @cristinafortx declares their candidacy, we should have their backs on
 day one"
 
+[Link](https://twitter.com/kartpath/status/1280874087917682688)
+
 ---
 
 Tired of "apps", "web sites", or even "platforms"; the next big thing
