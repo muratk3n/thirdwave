@@ -1,7 +1,7 @@
 # Tweets - Week 28e
 
 
-<img width="340" src="https://pbs.twimg.com/media/Ecb4viSWsAAF9Ya?format=jpg&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/EcdreWjXsAA9f_t?format=jpg&name=small"/>
 
 ---
 
