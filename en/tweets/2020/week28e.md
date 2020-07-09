@@ -151,7 +151,7 @@ the British New Deal.
 ---
 
 Talked abt the "original sin"; starting with fall of the Berlin Wall,
-left went right, right went insane, and now, in the final phase where
+left went right, right went insane, and now, in the final phase
 "outsiders" are jumping in con parties, doing leftist work in there as
 the need for such approaches never went away, that some label
 "populist".
