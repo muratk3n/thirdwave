@@ -15,7 +15,7 @@ like a sinking in of the idea that nothing is going to be normal for
 
 "A Congressional Budget Office report commissioned by Sen. Bernie
 Sanders and published Wednesday found the amount of unpaid taxes from
-2011 to 2013 averaged around $381 billion per year, a revenue
+2011 to 2013 averaged around 381 billion dollars per year, a revenue
 shortfall the Vermont senator called an 'absolute outrage'"
 
 [Link](https://www.commondreams.org/news/2020/07/09/absolute-outrage-sanders-rips-wealthy-tax-cheats-cbo-estimates-381-billion-annual)
