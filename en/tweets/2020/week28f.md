@@ -44,10 +44,11 @@ no 'add post' button. There is no 'publish' button. Just files, and
 
 ---
 
-Just watched *The Outpost*. They made it sound like USG built the
-outpost in an indefensible position by mistake. Cld be
-intentional. The place was a like a honey pot, pulling Tali fighters
-in.
+Just watched *The Outpost* (based on a true story). They made it sound
+like USG built the outpost in an indefensible position by mistake. Cld
+be intentional. The place was a like a honey pot, pulling Tali
+fighters in. At a bad night mil lost what, 7 ppl?, other side close to
+hundred. 
 
 ---
 
