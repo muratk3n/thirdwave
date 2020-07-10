@@ -36,7 +36,9 @@ cuts to the IRS enforcement budget"
 
 ---
 
-The last of my blogspot blog hits the dust. All in markdown now.
+The last of my blogspot blog hits the dust. All in markdown now. There
+is no 'add post' button. There is no post button. Just files, and `git
+push`.
 
 <img width="340" src="https://user-images.githubusercontent.com/57039079/67622173-2b835e80-f807-11e9-821d-bfbb688bc329.gif"/>
 
