@@ -45,7 +45,7 @@ no 'add post' button. There is no 'publish' button. Just files, and
 ---
 
 Just watched *The Outpost*. They made it sound like USG built the
-outpost in an indefensible position by mistake. I bet it was
+outpost in an indefensible position by mistake. Cld be
 intentional. The place was a like a honey pot, pulling Tali fighters
 in.
 
