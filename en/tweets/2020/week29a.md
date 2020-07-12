@@ -76,8 +76,9 @@ Obama's low popularity.
 ---
 
 Dukakis was destroyed by that image. At least that was the conclusion
-at the time. Reagan was "the cowboy" along with HW had won the Cold
-War and here is this guy looking like a wimp..  Clinton must have woved never to be in that position..
+at the time. Reagan "the cowboy" along with HW had won the Cold War
+and here is this guy looking like a wimp..  Clinton must have woved
+never to be in that position..
 
 However it's not clear Dukakis lost simply bcz of that image. HW had
 advantage going in (Reagan popularity was high), Duka was a bad
