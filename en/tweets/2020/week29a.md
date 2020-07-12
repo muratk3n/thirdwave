@@ -80,13 +80,6 @@ at the time. Reagan "the cowboy" along with HW had won the Cold War
 and here is this guy looking like a wimp..  Clinton must have woved
 never to be in that position..
 
-However it's not clear Dukakis lost simply bcz of that image. HW had
-advantage going in (Reagan popularity was high), Duka was a bad
-candidate (clearly), ended up with nom bcz heavy hitters sat it out
-during down season for Dems. Kinda like Hillary's situation 2016, u
-dont lose bcz not you cannot close per se, but meager campaigners end
-up in bad slots, then they lose. 
-
 ---
 
 Why did Dems become interventionist? Why did left start acting right
