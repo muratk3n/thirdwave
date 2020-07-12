@@ -1,6 +1,8 @@
 # Tweets - Week 29a
 
-For the study, researchers asked a group of overweight and obese
+Blueberry is healthy eh? The study sounds legit.
+
+"For the study, researchers asked a group of overweight and obese
 adults between 50 and 75 years old to either consume one cup of
 freeze-dried blueberry powder, one placebo that looked like a
 blueberry, or a mix that was half freeze-dried blueberry powder and
@@ -8,7 +10,7 @@ half placebo once per day for six months, Sharecare.com reports. In
 the end, those who ate a full cup of blueberries per day “had less
 arterial stiffness, improved vascular function,” and a higher “good”
 cholesterol level than those who either ate fewer or no blueberries at
-all.
+all"
 
 ---
 
