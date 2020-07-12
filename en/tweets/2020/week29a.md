@@ -69,12 +69,6 @@ you’ll get it to run"
 
 ---
 
-The irony is the Clintons created the conditions for some of Bam's
-policies, so in effect they torpidoed themselves, indirectly through
-Obama's low popularity. 
-
----
-
 Dukakis was destroyed by that image. At least that was the conclusion
 at the time. Reagan "the cowboy" along with HW had won the Cold War
 and here is this guy looking like a wimp..  Clinton must have woved
