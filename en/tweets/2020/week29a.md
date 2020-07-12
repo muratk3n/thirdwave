@@ -60,10 +60,7 @@ number is 74 million"
 Projects .. Perhaps you’re in a line of work where security is a must,
 or a hard-core Linux enthusiast, or perhaps you’ve just got enough of
 Android and iOS and you’re ready for something else – the PinePhone
-may be the next Phone for you. Powered by the same Quad-Core ARM
-Cortex A53 64-Bit SOC used in our popular PINE A64 Single Board
-Computer, the PinePhone runs mainline Linux as well as anything else
-you’ll get it to run"
+may be the next Phone for you"
 
 [Link](https://www.pine64.org/pinephone/)
 
