@@ -25,7 +25,7 @@ history. And we're continuing to pay the price"
 
 ---
 
-Aaauuuwww. Slam.
+OOooowww. Slam.
 
 Caitlin Johnstone: "And that’s why liberals hate the true left: because
 leftists are a constant reminder that liberals aren’t what they
