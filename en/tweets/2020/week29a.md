@@ -1,20 +1,6 @@
 # Tweets - Week 29a
 
-Blueberry is healthy eh? The study sounds legit.
-
-"For the study, researchers asked a group of overweight and obese
-adults between 50 and 75 years old to either consume one cup of
-freeze-dried blueberry powder, one placebo that looked like a
-blueberry, or a mix that was half freeze-dried blueberry powder and
-half placebo once per day for six months, Sharecare.com reports. In
-the end, those who ate a full cup of blueberries per day “had less
-arterial stiffness, improved vascular function,” and a higher “good”
-cholesterol level than those who either ate fewer or no blueberries at
-all"
-
----
-
-The asshole who took it off in front of crowd yelling I CANT BREATHE!
+The asshole who took it off in front of crowd yelling "I CANT BREATHE!"
 tops my list.
 
 "@DavidAFrench
@@ -141,6 +127,20 @@ it’s a poisonous contributor to this anti-knowledge era"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">32,000 people in New York have died <a href="https://t.co/KMbmOpRo8c">https://t.co/KMbmOpRo8c</a></p>&mdash; Georgia (@nationalparke) <a href="https://twitter.com/nationalparke/status/1281677788571930626?ref_src=twsrc%5Etfw">July 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Blueberry is healthy eh? The study sounds legit.
+
+"For the study, researchers asked a group of overweight and obese
+adults between 50 and 75 years old to either consume one cup of
+freeze-dried blueberry powder, one placebo that looked like a
+blueberry, or a mix that was half freeze-dried blueberry powder and
+half placebo once per day for six months, Sharecare.com reports. In
+the end, those who ate a full cup of blueberries per day “had less
+arterial stiffness, improved vascular function,” and a higher “good”
+cholesterol level than those who either ate fewer or no blueberries at
+all"
 
 ---
 
