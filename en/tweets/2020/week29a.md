@@ -25,8 +25,6 @@ history. And we're continuing to pay the price"
 
 ---
 
-OOooowww. Slam.
-
 Caitlin Johnstone: "And that’s why liberals hate the true left: because
 leftists are a constant reminder that liberals aren’t what they
 pretend to be. That they are just conservatives wearing a fake plastic
