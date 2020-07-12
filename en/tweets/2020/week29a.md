@@ -1,7 +1,11 @@
 # Tweets - Week 29a
 
-The asshole who took it off in front of crowd yelling "I CANT BREATHE!"
-tops my list.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Glad to write an op-ed together with <a href="https://twitter.com/flacamera?ref_src=twsrc%5Etfw">@flacamera</a> from <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> about the future of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> &amp; the opportunities it brings! <a href="https://twitter.com/hashtag/hydrogenstrategy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenstrategy</a> <br><br>Read it here👇<a href="https://t.co/JaOj4qK5or">https://t.co/JaOj4qK5or</a> <a href="https://t.co/mIbJBWUQH3">pic.twitter.com/mIbJBWUQH3</a></p>&mdash; Kadri Simson (@KadriSimson) <a href="https://twitter.com/KadriSimson/status/1281925369612980231?ref_src=twsrc%5Etfw">July 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+The asshole who took his mask off in front of crowd yelling "I CANT
+BREATHE!" tops the list.
 
 "@DavidAFrench
 
@@ -33,10 +37,6 @@ Yesterday, the amount of land the Federal government officially
 recognized as Indian Country--as under the jurisdiction of tribes--was
 just 55 million acres. Only 2% of all land in the US. Today, that
 number is 74 million"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Glad to write an op-ed together with <a href="https://twitter.com/flacamera?ref_src=twsrc%5Etfw">@flacamera</a> from <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> about the future of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> &amp; the opportunities it brings! <a href="https://twitter.com/hashtag/hydrogenstrategy?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenstrategy</a> <br><br>Read it here👇<a href="https://t.co/JaOj4qK5or">https://t.co/JaOj4qK5or</a> <a href="https://t.co/mIbJBWUQH3">pic.twitter.com/mIbJBWUQH3</a></p>&mdash; Kadri Simson (@KadriSimson) <a href="https://twitter.com/KadriSimson/status/1281925369612980231?ref_src=twsrc%5Etfw">July 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
