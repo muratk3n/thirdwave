@@ -110,7 +110,7 @@ cooperation"
 Ammonia cracking looks to be simpler proc than I thought.. 
 
 "Trials have shown that AFC's proprietary fuel cell system can use
-"off the shelf" ammonia cracking technology"
+'off the shelf' ammonia cracking technology"
 
 [Link](https://www.proactiveinvestors.com/companies/news/211982/afc-energy-tapped-into-growth-of-hydrogen-fuel-use-211982.html)
 
