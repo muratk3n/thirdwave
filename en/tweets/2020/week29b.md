@@ -188,8 +188,8 @@ businesses"
 
 
 His father killed a man, you know.. In South Africa.. Most likely a
-black person too. That's right. SO thy guy is a psycho, and the father
-was a psycho. The apple fell right by the tree. Nam sayin? This guy is
+black person too. That's right. SO guy is a psycho, and the father was
+a psycho. The apple fell right by the tree. Nam sayin? This guy is
 guiding your energy policy America, wake up.
 
 "Elon Musk is unbalanced, weird"
