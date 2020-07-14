@@ -6,6 +6,24 @@ Jazz Quintet, David Pastor & Smoothtime \#music
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/UDbdcfBgdk">pic.twitter.com/UDbdcfBgdk</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1283086411034394626?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@EmmanuelMacron
+
+France can once again become a great industrial nation thanks to
+ecology. Let's stop importing materials from the other side of the
+world and start producing again in our French regions!"
+
+---
+
+"The Crucial ‘Jigsaw’ Piece For Green Microgrids"
+
+[Link](https://www.forbes.com/sites/kensilverstein/2020/07/12/hydrogen-may-be-the-crucial-jigsaw-piece-for-green-microgrids/amp/)
+
+---
+
 OS makers; I understand trying to be 'helpful' with regional
 options. Time zone selection somehow alerted th OS I want my months in
 Greek. Ιουλ? Malaka?
