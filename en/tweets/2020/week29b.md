@@ -6,10 +6,6 @@ Jazz Quintet, David Pastor & Smoothtime \#music
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/UDbdcfBgdk">pic.twitter.com/UDbdcfBgdk</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1283086411034394626?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@EmmanuelMacron
 
 France can once again become a great industrial nation thanks to
@@ -260,4 +256,9 @@ razor-thin margin, Chris Collins — who would go on to plead guilty to
 two felonies, be sentenced to prison, and resign from Congress — won
 the election"
 
+---
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/UDbdcfBgdk">pic.twitter.com/UDbdcfBgdk</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1283086411034394626?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
