@@ -31,8 +31,8 @@ Fantastic piece of equipment for <400 dollars. This thing is a beast.
 ---
 
 Saw a nice Huewei notebook today, coulda bought it, but didn't bcz of
-security fears. Not saying this to bash. Considered it, but a
-Taiwanese hardware maker got the business instead.
+potential 'security hazard'. Not saying this to bash. Considered it,
+but a Taiwanese hardware maker got the business instead.
 
 ---
 
