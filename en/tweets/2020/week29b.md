@@ -1,6 +1,6 @@
 # Tweets - Week 29b
 
-Jazz Quintet | David Pastor & Smoothtime \#music
+Jazz Quintet, David Pastor & Smoothtime \#music
 
 [Link](https://youtu.be/HS6L99Zf7kI?t=3200)
 
