@@ -20,9 +20,9 @@ world and start producing again in our French regions!"
 
 ---
 
-OS makers; I understand trying to be 'helpful' with regional
-options. Time zone selection somehow alerted th OS I want my months in
-Greek. Ιουλ? Malaka?
+OS makers; I understand r trying to be 'helpful' with regional
+options. But time zone selection somehow alerted th OS I want my
+months in Greek. Ιουλ? Malaka?
 
 ---
 
