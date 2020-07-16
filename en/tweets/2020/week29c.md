@@ -39,7 +39,7 @@ Senate Democrats’ Machine Spent $15 Million To Destroy Progressive Primary Can
 
 The EU and India must work together on fighting \#climatechange. We
 agreed to soon hold the next Climate Change Dialogue, created in
-2016. \#EUIndia"
+2016"
 
 ---
 
