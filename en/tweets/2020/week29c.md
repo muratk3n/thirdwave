@@ -15,7 +15,7 @@ Trump since securing nomination as independents abandon president"
 
 ---
 
-Deutsche Well: "EU, India move closer to free trade deal"
+Deutsche Welle: "EU, India move closer to free trade deal"
 
 ---
 
