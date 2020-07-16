@@ -4,6 +4,20 @@
 
 ---
 
+The Independent: "Joe Biden opens up biggest national poll lead over
+Trump since securing nomination as independents abandon president"
+
+---
+
+Deutsche Well: "EU, India move closer to free trade deal"
+
+---
+
+The Guardian: "Hopeful news about a Covid-19 vaccine developed by US
+government researchers and Moderna Inc has buoyed expectations"
+
+---
+
 @H2Standard
 
 "Introducing \#hydrogen to microgrids solves the problem of seasonal or
