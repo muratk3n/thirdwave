@@ -18,6 +18,21 @@ government researchers and Moderna Inc has buoyed expectations"
 
 ---
 
+Very important, that "win". Signified a beginning of an era. 
+
+The Atlantic: "Nevertheless, [Ingraham] still occasionally reconfirms,
+on her television programs or in public speeches, the main thing I
+associated her with in the 1990s: a devotion to Ronald Reagan and
+Reaganism, the same devotion that would have been shared, back then,
+by all of those people at Brock’s cocktail party [with other neo
+f--ktards]. Or perhaps devotion to Reagan is a bit too specific. What
+really held that group together—and what drew me to it as well—was a
+kind of post–Cold War optimism, a belief that 'we had won,'"
+
+[Link](https://www.theatlantic.com/ideas/archive/2020/07/laura-ingrahams-descent-into-despair/614245/)
+
+---
+
 @H2Standard
 
 "Introducing \#hydrogen to microgrids solves the problem of seasonal or
