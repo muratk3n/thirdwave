@@ -78,8 +78,8 @@ Free speech =/= you get to publicly say what you believe and never face any crit
 
 ---
 
-This is how people trying to talk to me about tech, or lately
-politics sometimes sounds like ...
+Sometimes this is how people trying to talk to me about tech, or
+lately politics sounds like ...
 
 [Link](https://youtu.be/weSc9fNfHzk)
 
