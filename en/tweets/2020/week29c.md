@@ -50,14 +50,6 @@ fucking scam designed to keep us down"
 
 ---
 
-[Unemployment](../../2019/05/stats.md) 
-
-```
-2020-06-01    22.37%
-```
-
----
-
 "@\_brohrer\_
 
 The deeper I dive into neural networks the less they look like
@@ -101,6 +93,14 @@ speed...
 Got my mouse right click back. Yes, that is mouse click through keyboard.
 
 Key codes change across models...? So says `xev`.
+
+---
+
+[Unemployment](../../2019/05/stats.md) 
+
+```
+2020-06-01    22.37%
+```
 
 ---
 
