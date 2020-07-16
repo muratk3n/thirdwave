@@ -117,12 +117,6 @@ Key codes change across models...? So says `xev`.
 
 ---
 
-Sofi Tukker - Purple Hat \#music
-
-[Link](https://youtu.be/ozG0O5DOmPk?t=46)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen is growing in the truck industry in Australia. Trucks have a range of approx 400km and use the same hydrogen tech that powers the fleet of Hyundai Nexo hydrogen cars that will soon be used by Government in Canberra.<br><br>Read more here: <a href="https://t.co/AqZeTJD9T4">https://t.co/AqZeTJD9T4</a> <a href="https://t.co/0gYel30nW6">pic.twitter.com/0gYel30nW6</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1283174722818244609?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
