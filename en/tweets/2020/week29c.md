@@ -100,7 +100,7 @@ lately politics sounds like ...
 ---
 
 
-Got my mouse right click back. Yes, that is mouse click through
+Got my right mouse "click-key" back. Yes, that is mouse click through
 keyboard (I have remapped cert keys to be 'mouse clicks'. It's all
 geared for speed...)
 
