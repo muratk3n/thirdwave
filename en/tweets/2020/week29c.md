@@ -1,6 +1,10 @@
 # Tweets - Week 29c
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">&quot;Hyperion XP-1 : la supercar électrique fonctionnant à l’hydrogène&quot;<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a><a href="https://t.co/6zOhFy4ub0">https://t.co/6zOhFy4ub0</a></p>&mdash; Hydrogen Energy (@EnergyHy2) <a href="https://twitter.com/EnergyHy2/status/1283693674715590659?ref_src=twsrc%5Etfw">July 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@EnergyHy2
+
+Hyperion XP-1 : la supercar électrique fonctionnant à l’hydrogène"
+
+<img width="340" src="https://pbs.twimg.com/card_img/1283635515842011136/xgW3JSN6?format=png&name=small"/>
 
 ---
 
