@@ -39,6 +39,12 @@ kind of post–Cold War optimism, a belief that 'we had won,'"
 
 ---
 
+The TWTR hackers made 100K within minutes? Damn.
+
+[Link](https://youtu.be/qm0CVgZrs_k?t=37)
+
+---
+
 "@H2Standard
 
 Introducing \#hydrogen to microgrids solves the problem of seasonal or
