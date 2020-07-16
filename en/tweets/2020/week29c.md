@@ -85,12 +85,11 @@ lately politics sounds like ...
 
 ---
 
-I have remapped a few keys to be 'mouse clicks'. It's all geared for
-speed... 
 
----
+Got my mouse right click back. Yes, that is mouse click through
+keyboard (I have remapped cert keys to be 'mouse clicks'. It's all
+geared for speed...)
 
-Got my mouse right click back. Yes, that is mouse click through keyboard.
 
 Key codes change across models...? So says `xev`.
 
