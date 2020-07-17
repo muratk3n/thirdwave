@@ -29,7 +29,7 @@ Thatcher: "There is no alternative"
 
 ---
 
-Yeah you keep on partying like it's 1999
+You keep on partying like it's 1999
 
 ---
 
