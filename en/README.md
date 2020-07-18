@@ -88,6 +88,8 @@ Bow down to the power of Q
 
 Head of NYPD union gives Fox News interview with QAnon mug in background"
 
+[Link](https://twitter.com/KFILE/status/1284320255238639621)
+
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eleven European gas infrastructure companies from nine EU member states have today unveiled a plan for a dedicated <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> transport infrastructure. <a href="https://t.co/ea8HYfqrQz">https://t.co/ea8HYfqrQz</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1284046238430703622?ref_src=twsrc%5Etfw">July 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
