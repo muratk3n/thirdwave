@@ -83,16 +83,6 @@ Companies' (of SP500) earnings decreased by 2.7% so far.
 
 ---
 
-Hit Biden on the man of the ppl thing. He took major money from Wall Street. 
-
-"Executives at Wall Street's biggest banks have begun throwing financial support to their early favorites in the 2020 Democratic presidential field: Joe Biden, Kamala Harris and Pete Buttigieg"
-
-[Link](https://www.google.com/amp/s/www.cnbc.com/amp/2019/07/25/biden-harris-and-buttigieg-rack-up-donations-from-wall-street-executives.html)
-
-*2019-11-6 19:43:48*
-
----
-
 Wut?? Is this true? *The Guardian* lost it?
 
 Don't make kick your ass TG.

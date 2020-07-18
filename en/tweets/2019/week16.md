@@ -69,10 +69,6 @@ Damn. Now that's what I'm talking bout.. the true path to AGI...
 
 ---
 
-All Obama / Clinton money is going to Kamala... That's a huge demerit from me; but that means she is in play. The earlier pred I heard can still be valid - uncle Joe has too many skeletons, is hit, retires early, Kamala carries California, goes up against Bernie.
-
----
-
 I still think Un wants to keep his existing pile (US can sell that) and only negotiate on further development. Hence his hints on restarting development recently. If he times escalation for 2020, it will be major pain in the ass for the WH.
 
 ---

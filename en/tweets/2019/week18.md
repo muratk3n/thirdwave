@@ -150,13 +150,6 @@ ppl now cannot touch - the stock market and real estate.
 
 ---
 
-Hard left is hard left. If there is industrial →, there should be
-industrial ←. Min wage, etc. I wont stand in the way of that. Should
-inmates vote or not? Butt-a-geek says no, Kamala is like "let's think
-abt this (lukewarm nonsense)", Bernie says YES. That's ←.
-
----
-
 @peteronyisi1
 
 "I must admit to a certain unease when particle physics schools spend more time on machine learning than on how detectors work"

@@ -942,9 +942,21 @@ the few scifi shows u had seen?
 
 ---
 
-"The Renewable Energy Extension Act of 2019 would provide a 5-year extension of the Investment Tax Credit (ITC) and residential renewable energy tax credit for solar, delaying the incremental phase out that Congress passed in 2015. In addition to solar, the bill extends the ITC for other clean energy technologies set to phase out, such as fiber-optic solar, fuel cells, small wind, microturbines, combined heat and power, and geothermal heat pumps
+"The Renewable Energy Extension Act of 2019 would provide a 5-year
+extension of the Investment Tax Credit (ITC) and residential renewable
+energy tax credit for solar, delaying the incremental phase out that
+Congress passed in 2015. In addition to solar, the bill extends the
+ITC for other clean energy technologies set to phase out, such as
+fiber-optic solar, fuel cells, small wind, microturbines, combined
+heat and power, and geothermal heat pumps
 
-Senators Sheldon Whitehouse (D-R.I.), Jeff Merkley (D-Ore.), Cory Booker (D-N.J.), Tom Udall (D-N.M.), Amy Klobuchar (D-Minn.), Chris Van Hollen (D-Md.), Richard Blumenthal (D-Conn.), Dianne Feinstein (D-Calif.), Michael Bennet (D-Colo.), Jack Reed (D-R.I.), Kirsten Gillibrand (D-N.Y.), Jacky Rosen (D-Nev.), Kamala D. Harris (D-Calif.), Chris Coons (D-Del.), and Tammy Baldwin (D-Wis.) joined Cortez Masto in introducing this legislation".
+Senators Sheldon Whitehouse (D-R.I.), Jeff Merkley (D-Ore.), Cory
+Booker (D-N.J.), Tom Udall (D-N.M.), Amy Klobuchar (D-Minn.), Chris
+Van Hollen (D-Md.), Richard Blumenthal (D-Conn.), Dianne Feinstein
+(D-Calif.), Michael Bennet (D-Colo.), Jack Reed (D-R.I.), Kirsten
+Gillibrand (D-N.Y.), Jacky Rosen (D-Nev.), Kamala D. Harris
+(D-Calif.), Chris Coons (D-Del.), and Tammy Baldwin (D-Wis.) joined
+Cortez Masto in introducing this legislation".
 
 [Link](https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-introduces-renewable-energy-extension-act)
 

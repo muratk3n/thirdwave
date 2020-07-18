@@ -15,8 +15,6 @@ some pop. When in doubt hit the media boy.
 
 ---
 
-Kamala.. full of fire. Like it. 
-
 Bernie is doing good; Biden plays it stoic, no mistakes so far. It's all abt how things look, so he looks Presidential even if you wrote down the his words on paper and read them he'd come across inebriated. 
 
 Yang looks prepared.

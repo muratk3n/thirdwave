@@ -212,14 +212,6 @@ Some genuine talk on UBI. Grand.
 
 ---
 
-Owww... You shouldna step into that firing range Kamala. Bad bad
-bad.. (The big tech thing).
-
-\#demdebate
-
-*2019-10-16 9:1:13*
-
----
 
 Biden is subdued, not as much fire and brimstone anymore. Some others
 came to his defense, but it won't matter.

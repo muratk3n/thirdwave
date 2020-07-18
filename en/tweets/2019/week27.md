@@ -676,16 +676,6 @@ Good point on the stopping
 
 ---
 
-Haha.. Kamala did great, but this guy really doesn't like her, this was funny
-
-[Video](https://youtu.be/MWW0zQZAReo?t=1106)
-
-\#demdebate
-
-*2019-6-28 15:52:18*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie won with his 45 second closing statement alone.<br><br>No one else on the stage seemed to understand that what we lack is not ideas, or civility, or gravitas, or clever quips.<br><br>But political courage and power—power that must be identified and seized.</p>&mdash; Kaniela Ing (@KanielaIng) <a href="https://twitter.com/KanielaIng/status/1144466323826626560?ref_src=twsrc%5Etfw">June 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-6-28 14:50:45*
