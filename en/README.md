@@ -109,7 +109,7 @@ The little alien is annoying
 
 ---
 
-Always curious who steals from who
+Always curious abt who steals from who
 
 \#LIS
 
