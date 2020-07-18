@@ -50,16 +50,17 @@ F#$% Monday
 
 ---
 
-What is free abt a trade when it is actively encouraged, mostly abt
-slave labor, and the other side of a trade isnt honored (fin is open
-to CH close to US)
-
----
 
 This confirms my general view that libertard is a cosseted cuck. His
 "free" society has to be constructed around him, so he can play house
 in his little utopia. All that's required is things generally look /
 sound free. Ish.
+
+---
+
+What is free abt a trade when it is actively encouraged, mostly abt
+slave labor, and the other side of a trade isnt honored (fin is open
+to CH close to US)
 
 ---
 
