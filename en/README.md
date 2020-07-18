@@ -59,7 +59,7 @@ to CH close to US)
 This confirms my general view that libertard is a cosseted cuck. His
 "free" society has to be constructed around him, so he can play house
 in his little utopia. All that's required is things generally look /
-sound free (enough).
+sound free. Ish.
 
 ---
 
