@@ -12,7 +12,7 @@ and easily transportable.
 
 I remember reading fuel shortage was a major reason of DE losing the
 war. But I seem to recall they could not produce enough of it. This
-article says otherwise. It was just bombed.
+article says otherwise. The facilities were bombed.
 
 "The leaders of World War II, on both sides, knew that an army's
 lifeblood was petroleum. Ironically, before the War, experts had
