@@ -6,7 +6,7 @@ exercises"
 
 ---
 
-Germany has a long history with synthetic fuels...  So they extracted
+Germany had a long history with synthetic fuels...  So they extracted
 this thing, a gasoline-like fuel from coal, denser in energy no doubt
 and easily transportable.
 
