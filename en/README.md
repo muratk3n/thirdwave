@@ -1,4 +1,5 @@
 
+Last updated on *2020-07-19 23:02*
 
 Hah. Some are saying it is going towards India for the situation at
 Ladakh. We'll find out soon enough.
