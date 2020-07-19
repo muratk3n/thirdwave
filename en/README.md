@@ -28,8 +28,8 @@ bazookas. Even the beginnings of a computer.
 
 ---
 
-Simply trying risky stuff wont lead to optimal results. Taking
-moderate risk on obscure things might be a better road to
+Simply trying risky stuff might not lead to opt results. Taking
+moderate risk on obscure things cld be a better road to
 success. Obscurity cld have to do with many things.. Fashion is one of
 them.  Certain things fall out of fashion, therefore taken out of the
 realm of possibilities altogether. What leaders need to do then is not
