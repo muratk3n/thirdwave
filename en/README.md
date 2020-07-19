@@ -140,7 +140,7 @@ RIP
 Even though I was arrested, I smiled bc I was on the right side of
 history. Find a way to get in the way \#goodtrouble"
 
-<img width="200" src="https://pbs.twimg.com/media/CKTJmvUVAAAZWys?format=jpg&name=small"/>
+<img width="180" src="https://pbs.twimg.com/media/CKTJmvUVAAAZWys?format=jpg&name=small"/>
 
 ---
 
