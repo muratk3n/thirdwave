@@ -173,7 +173,7 @@ Chris Joss - Optical \#music
 
 ---
 
-40% efficiency..? Inefficient as fuck.
+40% efficiency..? Inefficient as fuck. Moving molecules is much better.
 
 ---
 
