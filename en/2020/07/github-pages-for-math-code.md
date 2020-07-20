@@ -3,7 +3,15 @@
 For any repo on Github, go to Settings, enable Github Pages for that
 repo. Any markdsown under that repo will be published to
 https://username.github.io/repo, where test.md will be accessed as
-test.html
+test.html. You can mark code with
+
+\`\`\`python
+
+code goes here
+
+\`\`\`
+
+and it will be colored appropriately.
 
 For MathJax, changes r explained [here](https://github.com/cjerdonek/gh-pages-theme-slate).
 Add a`/_layouts/default.html` in root dir, copy contents of
