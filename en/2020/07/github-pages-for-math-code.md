@@ -31,4 +31,4 @@ for MathJax add
 
 in the meta. Now between `$$` or inline `$`  you can use math.
 
-
+As easy as $\pi$.
