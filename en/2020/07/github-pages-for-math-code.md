@@ -11,7 +11,7 @@ code goes here
 
 \`\`\`
 
-and it will be colored appropriately.
+and it will be colored appropriately. 
 
 For MathJax, changes r explained [here](https://github.com/cjerdonek/gh-pages-theme-slate).
 Add a`/_layouts/default.html` in root dir, copy contents of
