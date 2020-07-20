@@ -64,10 +64,10 @@ titles"
 
 ---
 
-Yes yes.. I know all the twists and turns of polemic... But the fact
-remains, fascists did enact left policies sometimes. It should not be
-surprising, they are trying to help people! (then organize them to
-kill others, but that's later).
+Yes yes.. I know all the twists and turns of that polemic... But the
+fact remains, fascists did enact left policies sometimes. It should
+not be surprising, they are trying to help people! (then organize them
+to kill others, but that's later).
 
 "But that's an old debate, later conservatives said 'look Nazis were
 also socialist to bash the left"
