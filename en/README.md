@@ -6,6 +6,10 @@ there is national socialism.
 
 ---
 
+I am not saying Trump is Hitler
+
+---
+
 Here's how it works; shit goes bad. Existing structures fail to help.
 New leaders rise to help, run the gamut around left and right, left
 bcz ppl need it, but ultimately the nationalist part which is
