@@ -20,7 +20,8 @@ blow smoke up your ass with the word "populism" bcz Reaganism has been
 banging on the other word decades.
 
 But action speaks louder than words. Trump did promise not to touch
-social security, Medicare, and promised to end wars.
+social security, Medicare, and promised to end wars during the 2016
+campaign.
 
 ---
 
