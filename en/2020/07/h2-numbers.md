@@ -29,7 +29,15 @@ Electrolysis
 
 Current best processes for water electrolysis (PEM or alkaline
 electrolysis) have an effective electrical efficiency of 70–80%,
-producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity [1].
+producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity
+[1]. Solar to H2 eff 30% [5].
+
+
+
+BEV
+
+The EV has an overall efficiency of about 60%. Electric grid
+efficiency is 40%, 60% x 40% gives a total of 24%. 
 
 Desalination
 
@@ -52,5 +60,5 @@ References
 
 [4] https://www.extremetech.com/extreme/280219-2019-hyundai-nexo-review-380-miles-on-hydrogen-can-your-ev-go-that-far
 
-
+[5] https://www.nature.com/articles/ncomms13237
 
