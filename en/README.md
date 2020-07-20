@@ -77,8 +77,8 @@ also socialist to bash them"
 Yes. By a party who called itself **Na**tionalso**zi**alistisch.
 National socialists of Germany.
 
-"Right adapts left politics too, you said, but does not refer them as
-such. Did this happen in history before?"
+"Right adapts left politics too, you said, but does not refer to it
+excessively. Did this happen in history before?"
 
 ---
 
