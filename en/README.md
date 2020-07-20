@@ -69,7 +69,7 @@ remains, fascists did enact left policies sometimes. It should not be
 surprising, they are trying to help people! (then organize them to
 kill others, but that's later).
 
-"But that's an old debate, later liberterians said 'look Nazis were
+"But that's an old debate, later conservatives said 'look Nazis were
 also socialist, etc etc"
 
 ---
