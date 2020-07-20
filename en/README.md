@@ -46,7 +46,7 @@ resentments, and passions widely shared in Germany at that time. His
 views and those of his comrades also reflected the fact that Germany
 was already a nation with a great deal of egalitarianism baked into
 its political culture.  Almost without exception, the Nazis emphasized
-all kinds of socialist attitudes, to be sure a socialism “cleansed” of
+all kinds of socialist attitudes, to be sure a socialism 'cleansed' of
 international Marxism and communism. Indeed, when he looked back from
 1941, Hitler said of the NSDAP in the 1920s that “90 ninety percent of
 it was made up by left-wing people.' He also thought it was “decisive”
