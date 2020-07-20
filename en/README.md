@@ -49,7 +49,7 @@ its political culture.  Almost without exception, the Nazis emphasized
 all kinds of socialist attitudes, to be sure a socialism 'cleansed' of
 international Marxism and communism. Indeed, when he looked back from
 1941, Hitler said of the NSDAP in the 1920s that “90 ninety percent of
-it was made up by left-wing people.' He also thought it was “decisive”
+it was made up by left-wing people.' He also thought it was 'decisive'
 that he had recognized early in his career that solving the social
 question was essential, and he insisted that he hated the closed world
 in which he grew up, where social origins determined a person’s
