@@ -70,7 +70,7 @@ surprising, they are trying to help people! (then organize them to
 kill others, but that's later).
 
 "But that's an old debate, later conservatives said 'look Nazis were
-also socialist, etc etc"
+also socialist to bash them"
 
 ---
 
