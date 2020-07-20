@@ -14,7 +14,7 @@ New leaders rise to fill the void, run the gamut around left and
 right, left bcz ppl need it, but ultimately the nationalist part which
 is incompatible spills over its borders, war ensues.
 
-Nationalists do not say use the L word bcz during 40s it is associated
+Nationalists do not use the L word bcz during 40s it is associated
 with internationalism, or [shudder], Jews. It's not used now, but blow
 a smoke up your ass with the word "populism" bcz Reaganism has been
 banging on the other word decades.
