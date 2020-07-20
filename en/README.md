@@ -15,7 +15,7 @@ right, left bcz ppl need it, but ultimately the nationalist part which
 is incompatible spills over its borders, war ensues.
 
 Nationalists do not use the L word bcz during 40s it is associated
-with internationalism, or [shudder], Jews. It's not used now, but blow
+with internationalism, or [shudder], Jews! It's not used now, but blow
 a smoke up your ass with the word "populism" bcz Reaganism has been
 banging on the other word decades.
 
