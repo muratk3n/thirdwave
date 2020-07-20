@@ -1,8 +1,7 @@
 *Last updated on 2020-07-20 23:07*
 
 The moral of the story is existing parties, cover all bases, help as
-much as possible bcz if all fails, ppl feel the hurt too much, then
-there is national socialism. 
+much as possible bcz if all fails, then you get national socialism.
 
 ---
 
