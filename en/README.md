@@ -10,9 +10,9 @@ I am not saying Trump is Hitler
 ---
 
 Here's how it works; shit goes bad. Existing structures fail to help.
-New leaders rise to help, run the gamut around left and right, left
-bcz ppl need it, but ultimately the nationalist part which is
-incompatible spills over its borders, war ensues.
+New leaders rise to fill the void, run the gamut around left and
+right, left bcz ppl need it, but ultimately the nationalist part which
+is incompatible spills over its borders, war ensues.
 
 Nationalists do not say use the L word bcz during 40s it is associated
 with internationalism, or [shudder], Jews. It's not used now, but blow
