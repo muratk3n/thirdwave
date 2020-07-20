@@ -19,8 +19,8 @@ with internationalism, or [shudder], Jews! It's not used now, but they
 blow smoke up your ass with the word "populism" bcz Reaganism has been
 banging on the other word decades.
 
-But the action speaks louder than words. Trump did promise not to
-touch social security, Medicare, and promised to end wars. 
+But action speaks louder than words. Trump did promise not to touch
+social security, Medicare, and promised to end wars.
 
 ---
 
