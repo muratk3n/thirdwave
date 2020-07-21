@@ -1,210 +1,143 @@
-*Last updated on 2020-07-20 23:07*
-
-The moral of the story is existing parties, cover all bases, help as
-much as possible bcz if all fails, then you get national socialism.
+*Last updated on 2020-07-21 18:15*
 
 ---
 
-I am not saying Trump is Hitler
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eight International Standards Adopted by Australia for a Hydrogen Future-Standards adopted by <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> to help shape the future of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> across the country as it continues to focus on a cleaner, more affordable energy future-<a href="https://t.co/b52VgRT8Lo">https://t.co/b52VgRT8Lo</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/QZgWoytilU">pic.twitter.com/QZgWoytilU</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1285588218545606658?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Here's how it works; shit goes bad. Existing structures fail to help.
-New leaders rise to fill the void, run the gamut around left and
-right, left bcz ppl need it, but ultimately the nationalist part which
-is incompatible spills over its borders, war ensues.
+Dude.
 
-Nationalists do not use the L word bcz during 40s it is associated
-with internationalism, or [shudder], Jews! It's not used now, but they
-blow smoke up your ass with the word "populism" bcz Reaganism has been
-banging on the other word decades.
+"@Helldritch
 
-But action speaks louder than words. Trump did promise not to touch
-social security, Medicare, and promised to end wars during the 2016
-campaign.
+I was curious about where the word 'dude' came from and I found out
+about this guy. The King of the Dudes"
+
+[Link](https://mobile.twitter.com/Helldritch/status/1285097211731173376)
 
 ---
 
-"Fascism developed the Italian social security system, aimed at a
-comprehensive restructuring of the relationships between factors of
-production in a 'corporatist' fashion, and nationalized banks and
-businesses. The second feature of the regime did not survive its end
-(though one may argue that its legacy has long impacted the Italian
-economy). But some version of social security and nationalized banks
-and companies did"
+"@ayyitsjameslmao
 
-[Link](https://www.econlib.org/how-socialist-was-national-socialism/)
+all I’ve had today is 2 iced coffees 
 
----
+no water 
 
-From *Hitler's True Believers*, "Insofar as Hitler had fixed ideas at
-the end of the Great War in 1918, high on the list was nationalism, in
-spite of the aspersions cast against it by mutinous sailors and
-rebellious soldiers tired of the fighting. Some aspects of what became
-his doctrine or ideology stemmed from the cluster of ideas,
-resentments, and passions widely shared in Germany at that time. His
-views and those of his comrades also reflected the fact that Germany
-was already a nation with a great deal of egalitarianism baked into
-its political culture.  Almost without exception, the Nazis emphasized
-all kinds of socialist attitudes, to be sure a socialism 'cleansed' of
-international Marxism and communism. Indeed, when he looked back from
-1941, Hitler said of the NSDAP in the 1920s that '90 ninety percent of
-it was made up by left-wing people.' He also thought it was 'decisive'
-that he had recognized early in his career that solving the social
-question was essential, and he insisted that he hated the closed world
-in which he grew up, where social origins determined a person’s
-chances in life.
+no food 
 
-That Germany on the eve of Hitler’s appointment as chancellor in
-January 1933 continued to have a socialist-oriented political culture
-can be illustrated by pointing to the last free elections of the
-Weimar Republic the previous November. No less than 71.6 percent of
-the vote went to parties with 'socialist' or 'communist' in their
-titles"
+I have evolved past the need for sustenance or hydration 
+
+I need only the Bean Juice 
+
+Witness me"
 
 ---
 
-Yes yes.. I know all the twists and turns of that polemic... But the
-fact remains, fascists did enact left policies sometimes. It should
-not be surprising, they are trying to help people! (then organize them
-to kill others, but that's later).
+So the electric grid is 40% efficient (reducing the overall efficiency
+of BEVs, 60% x 40% gives 24%, making it closer to a fossil fuel
+powered car. One might ask, how efficient is a gas pipeline? It's over
+97%. Loss in thay scenario is a bug, not a feature, you plug the leaks
+once found, the normal operation you send molecule from one end, you
+expect to receive it on the other. The H2 pipelines whe finished will
+have the same characteristics. 
 
-"But that's an old debate, later conservatives said 'look Nazis were
-also socialist to bash the left"
-
----
-
-Yes. By a party who called itself **Na**tionalso**zi**alistisch.
-National socialists of Germany.
-
-"Right adapts left politics too, you said, but does not refer to it
-excessively. Did this happen in history before?"
+[Link](https://www.scientificamerican.com/article/how-much-natural-gas-leaks/)
 
 ---
 
-"The biophysicist Jeremy England made waves in 2013 with a new theory
-that cast the origin of life as an inevitable outcome of
-thermodynamics. His equations suggested that under certain conditions,
-groups of atoms will naturally restructure themselves so as to burn
-more and more energy, facilitating the incessant dispersal of energy
-and the rise of 'entropy' or disorder in the universe. England said
-this restructuring effect, which he calls dissipation-driven
-adaptation, fosters the growth of complex structures, including living
-things. The existence of life is no mystery or lucky break, he told
-Quanta in 2014, but rather follows from general physical principles
-and “should be as unsurprising as rocks rolling downhill.'"
+"Dutch glass producer Celsian to develop tech required for gradual
+transition from natural gas"
 
-[Link](https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-20170726/)
+[Link](https://mobile.twitter.com/fuelcellsworks/status/1285544855192641537)
 
 ---
 
-Maybe he'll grill them to be more efficient at their job
-
-"@damiangarde
-
-Rep. Joseph Kennedy III, tasked with grilling five pharma companies at
-a hearing tomorrow, owns ~$1.7 million of stock in three of them"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unemployment laws have been rigged to cut workers off benefits if they refuse to return to Covid-plagued workplaces. <br><br>That means lifting stay-at-home orders in the name of “freedom” gives corporations the freedom to force workers to die in the pandemic. <a href="https://t.co/XlHOUHUhev">https://t.co/XlHOUHUhev</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1285572283470241792?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The reality of producing and storing CO2-free <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> energy using rooftop solar panels to power homes is a step closer with the signing of a contract between professional services firm <a href="https://twitter.com/GHDspeaks?ref_src=twsrc%5Etfw">@GHDspeaks</a> and its client, Providence Asset Group. <a href="https://t.co/jNZS6rSVDS">https://t.co/jNZS6rSVDS</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285179229722877953?ref_src=twsrc%5Etfw">July 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@BatteryH2
+
+\#Kudos to @GM and @Honda for the collaboration and partnership to
+advance the #hydrogeneconomy"
+
+[Link](https://media.chevroletarabia.com/media/me/en/gm/news/news_archive.detail.html/content/Pages/news/us/en/2020/jul/0716-statement.html)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">why niggas never just rushed Batman? He can’t whoop everybody ass</p>&mdash; Marcus (@STOPFLEXIN) <a href="https://twitter.com/STOPFLEXIN/status/1279859398152794113?ref_src=twsrc%5Etfw">July 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Haha E. Verlinde has an identical twin brother, also a physicst
+
+<img width="200" src="https://pbs.twimg.com/media/EddUsO7WoAADwHO?format=jpg&name=small"/>
 
 ---
 
-There is the planned H2 network. I see three major lines going to Africa. 
+"@BreeNewsome
 
-<img width="340" src="https://pbs.twimg.com/media/EdX54C3WkAA9VB7?format=png&name=small"/>
-
----
-
-Holy f--ing shit. That is a track left by a moving city. 
-
-<img width="340" src="https://pbs.twimg.com/media/EdYqCp9WsAIV4C2?format=jpg&name=medium"/>
-
-\#MoEn
+They’re gonna rename a bridge after John Lewis and pat themselves on
+the back while police are still beating folks in the streets and we
+don’t have a voting rights act"
 
 ---
 
-They speak of old tech like it's the best thing ever
+16 Bit Lolita's ‎– Trading Places \#music
 
-\#MoEn
- 
----
-
-R. Sheehan looks kinds of like J. Trudeau
-
-\#MoEn
+[Link](https://youtu.be/2AdApttFHUg)
 
 ---
 
-*Mortal Engines*,  good scifi. Moving cities!
+"@bennyjohnson
 
-\#MoEn
+Joe Biden: 'I wish we taught more in our schools about the Islamic faith'"
 
----
-
-"While a resurgence in coronavirus cases in Texas has brought many
-businesses to a screeching halt, eight robots have kept All Axis
-Machining's metal fabrication facility in Dallas humming.
-
-The small, nimble robots perform multiple jobs, such as
-machine-tending, sanding, deburring, part inspection and laser
-marking, leaving owner Gary Kuzmin far less dependent on manual
-labor. When all the workers on one shift went into self-quarantine
-last month, it had no impact on the facility's productivity"
-
-[Link](https://mobile.reuters.com/article/amp/idUSKCN24L18T?taid=5f15c0b2977e0100010f1195)
+[Link](https://twitter.com/bennyjohnson/status/1285356163987656705)
 
 ---
 
-Chris Joss - Rififi Rococo \#music
+"@fuelcellsworks
 
-[Link](https://youtu.be/6GjgdPF0Bf8)
+Tetramer Wins DOE Grant to Develop High-Performance Water Vapor
+Membranes to Improve \#FuelCells"
 
----
-
-Chris Joss - Optical \#music
-
-[Link](https://youtu.be/_AoXgACPuUY)
+[Link](https://bit.ly/3fP4iG9 )
 
 ---
 
-40% efficiency..? Inefficient as fuck. Moving molecules is much better.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a> will push forward 18 projects that support the H2@Scale vision for affordable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production, storage, distribution and use, with $64m in Fiscal Year 2020 funding. <a href="https://t.co/NZ5Zfws7nk">https://t.co/NZ5Zfws7nk</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285484640816566273?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"An example is the comparison between an electric vehicle (EV) and a
-fossil fuel powered car. The EV has an overall efficiency of about 60%
-while the fuel powered car is about 20% (or less) efficient. When one
-considers the total path from primary energy, the efficiency of the
-electric car is 60% x 40% (grid efficiency) for a total of 24% while
-the fuel powered car has an efficiency of about 20%. When the bigger
-picture is considered, the two forms of transportation are not all
-that different"
-
-[Link](https://energycentral.com/c/ec/grid-efficiency-opportunity-reduce-emissions)
+But it all helped US in the end; von Braun worked in the V-2 program,
+but after the war, him along with dozens of DE scientists were brought
+to US through the operaton Paperclip, and with the help of VB the US
+landed on the Moon. 
 
 ---
 
-An energy corridor will run from Africa to the EU rather than Russia
-to EU? It'll get Africa money, richer continent will not migrate, EU
-gets its energy, dependency on RU reduced.
+.. which pushed the development of the V rockets. Amazing tidbit of history. 
+
+"The Versailles peace treaty limited the German army to 100,000 men; it
+was forbidden to have aircraft or antiaircraft guns, or field
+artillery of more than 3-inch caliber. This may explain why the German
+army took an early interest in rocket development; the treaty of
+Versailles didn't mention rockets at all"
+
+[Link](https://maritime.org/doc/missile/index.htm)
 
 ---
 
-They r doing this thing. Awesome
+Thunderball - Rio Mescalito \#music
+
+[Link](https://youtu.be/jqQY5v00re4)
 
 ---
 
-"Shares of Bloom Energy surged nearly 35 percent on Wednesday"
+"@AdamParkhomenko
 
-[Link](https://www.greentechmedia.com/articles/read/bloom-energy-stock-price-soars-after-launch-into-green-hydrogen-market)
+51 years ago America landed on the moon. Now we’re not even allowed in
+the fucking Bahamas"
 
 ---
+
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
