@@ -1,7 +1,5 @@
 ## Tweets
 
-*Last updated on 2020-07-21 18:15*
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eight International Standards Adopted by Australia for a Hydrogen Future-Standards adopted by <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> to help shape the future of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> across the country as it continues to focus on a cleaner, more affordable energy future-<a href="https://t.co/b52VgRT8Lo">https://t.co/b52VgRT8Lo</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/QZgWoytilU">pic.twitter.com/QZgWoytilU</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1285588218545606658?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -142,6 +140,9 @@ the fucking Bahamas"
 
 ---
 
+*Last updated on 2020-07-21 18:15*
+
+---
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
