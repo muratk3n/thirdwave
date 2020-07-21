@@ -85,6 +85,10 @@ don’t have a voting rights act"
 
 ---
 
+WaPo: "Vice President Biden criticizes crackdown on dissent in Turkey"
+
+---
+
 "@bennyjohnson
 
 Joe Biden: 'I wish we taught more in our schools about the Islamic faith'"
