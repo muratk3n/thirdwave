@@ -38,8 +38,8 @@ of BEVs, 60% x 40% gives 24%, making it closer to a fossil fuel
 powered car. One might ask, how efficient is a gas pipeline? It's over
 97%. Loss in thay scenario is a bug, not a feature, you plug the leaks
 once found, the normal operation you send molecule from one end, you
-expect to receive it on the other. The H2 pipelines whe finished will
-have the same characteristics. 
+expect to receive it on the other. The H2 pipelines, when finished,
+will have the same characteristics.
 
 [Link](https://www.scientificamerican.com/article/how-much-natural-gas-leaks/)
 
