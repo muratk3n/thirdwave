@@ -57,4 +57,29 @@
 
 [Week 29](week29.md)
 
+[Week 30](week30.md)
+
+[Week 31](week31.md)
+
+[Week 32](week32.md)
+
+[Week 33](week33.md)
+
+[Week 34](week34.md)
+
+[Week 35](week35.md)
+
+[Week 36](week36.md)
+
+[Week 37](week37.md)
+
+[Week 38](week38.md)
+
+[Week 39](week39.md)
+
+[Week 40](week40.md)
+
+[Week 41](week41.md)
+
+[Week 42](week42.md)
 
