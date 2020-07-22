@@ -1,146 +1,148 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eight International Standards Adopted by Australia for a Hydrogen Future-Standards adopted by <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> to help shape the future of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> across the country as it continues to focus on a cleaner, more affordable energy future-<a href="https://t.co/b52VgRT8Lo">https://t.co/b52VgRT8Lo</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/QZgWoytilU">pic.twitter.com/QZgWoytilU</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1285588218545606658?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@garrygolden
+
+.. Like every global automotive OEM, GM understands that 'electric'
+vehicle refers to the motor not a battery. Despite \#energytwitter
+aspirations, massive EV adoption is a 2030-40s story. OEMs see
+\#fuelcells benefits on supply chain risks/complexity, cost-to-mass,
+cost curves"
 
 ---
 
-Dude.
-
-"@Helldritch
-
-I was curious about where the word 'dude' came from and I found out
-about this guy. The King of the Dudes"
-
-[Link](https://mobile.twitter.com/Helldritch/status/1285097211731173376)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK Government has today announced £139m to cut emissions in heavy industry by supporting the transition from natural gas to clean <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> power. <a href="https://t.co/nIZKrO0APJ">https://t.co/nIZKrO0APJ</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285870515668815877?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@ayyitsjameslmao
-
-all I’ve had today is 2 iced coffees 
-
-no water 
-
-no food 
-
-I have evolved past the need for sustenance or hydration 
-
-I need only the Bean Juice 
-
-Witness me"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK Government has launched a Hydrogen Advisory Council as part of its decarbonisation efforts. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/7rlAeOpVzL">https://t.co/7rlAeOpVzL</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285870323691401218?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-So the electric grid is 40% efficient (reducing the overall efficiency
-of BEVs, 60% x 40% gives 24%, making it closer to a fossil fuel
-powered car). One might ask, how efficient is a gas pipeline? It's
-over 97%. Loss in that scenario is a bug, not a feature, you plug the
-leaks once found, the normal operation you send molecule from one end,
-you expect to receive it on the other. The H2 pipelines, when
-finished, will have the same characteristics.
+"@NanoSUNH2
 
-[Link](https://www.scientificamerican.com/article/how-much-natural-gas-leaks/)
+... \#newnormal!
 
----
-
-"Dutch glass producer Celsian to develop tech required for gradual
-transition from natural gas"
-
-[Link](https://mobile.twitter.com/fuelcellsworks/status/1285544855192641537)
+'@GraHod A \#hydrogen first for me today - eating my breakfast
+listening to BBC Radio4 & UK transport secretary @grantshapps was
+chatting in a sensible manner about the Jet Zero Council and option of
+\#hydrogenfuel for aviation'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unemployment laws have been rigged to cut workers off benefits if they refuse to return to Covid-plagued workplaces. <br><br>That means lifting stay-at-home orders in the name of “freedom” gives corporations the freedom to force workers to die in the pandemic. <a href="https://t.co/XlHOUHUhev">https://t.co/XlHOUHUhev</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1285572283470241792?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Hostage siege ends after Ukrainian president endorses Joaquin Phoenix
+film... Gunman surrenders after video recommending 2005’s Earthlings
+posted on Facebook"
+
+[Link](https://www.theguardian.com/world/2020/jul/21/hostage-siege-ends-after-ukrainian-president-endorses-joaquin-phoenix-film)
 
 ---
 
-"@BatteryH2
-
-\#Kudos to @GM and @Honda for the collaboration and partnership to
-advance the #hydrogeneconomy"
-
-[Link](https://media.chevroletarabia.com/media/me/en/gm/news/news_archive.detail.html/content/Pages/news/us/en/2020/jul/0716-statement.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Houston fire and police respond to reports of documents being burned at Consulate General of China - The plot thickens...video shows consulate workers intentionally burning documents and possibly even hard drives. <a href="https://twitter.com/hashtag/MakeChinaPay?src=hash&amp;ref_src=twsrc%5Etfw">#MakeChinaPay</a> <a href="https://twitter.com/hashtag/Decouple?src=hash&amp;ref_src=twsrc%5Etfw">#Decouple</a> <a href="https://twitter.com/hashtag/Texas?src=hash&amp;ref_src=twsrc%5Etfw">#Texas</a> <a href="https://t.co/OVCmhPkNRl">https://t.co/OVCmhPkNRl</a></p>&mdash; 🇺🇸Kyle Bass🇺🇸 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1285801551924285440?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Haha E. Verlinde has an identical twin brother, also a physicst
 
-<img width="200" src="https://pbs.twimg.com/media/EddUsO7WoAADwHO?format=jpg&name=small"/>
-
----
-
-"@BreeNewsome
-
-They’re gonna rename a bridge after John Lewis and pat themselves on
-the back while police are still beating folks in the streets and we
-don’t have a voting rights act"
+The classic Gnome desktop actually started giving problems on new
+Ubuntu's. Well fine, Unity desktop is usable enough.
 
 ---
 
-16 Bit Lolita's ‎– Trading Places \#music
+"World’s Largest Green Hydrogen Project Will build in NOEM Smart City,
+Saudi Arabia"
 
-[Link](https://youtu.be/2AdApttFHUg)
+<img width="340" src="https://solaredition.com/wp-content/uploads/2020/07/Saudi-Arabia_Website-678x381.png"/>
+
+[Link](https://solaredition.com/worlds-largest-green-hydrogen-project-will-build-in-noem-smart-city-saudi-arabia/?utm_source=dlvr.it&utm_medium=twitter)
 
 ---
 
-WaPo: "Vice President Biden criticizes crackdown on dissent in Turkey"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">capital-gains tax cut <a href="https://t.co/15NmzSDdlz">https://t.co/15NmzSDdlz</a></p>&mdash; Matt Pearce 🦅 (@mattdpearce) <a href="https://twitter.com/mattdpearce/status/1285717071788224513?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@bennyjohnson
+"@davidsirota
 
-Joe Biden: 'I wish we taught more in our schools about the Islamic faith'"
+TMI is a grassroots-funded journalism project. We broke these stories
+open in just the last 24 hours. We are doing this work day in and day
+out. Please become a supporting subscriber to help us expand this
+work
 
-[Link](https://twitter.com/bennyjohnson/status/1285356163987656705)
+http://sirota.substack.com/subscribe"
 
 ---
 
 "@fuelcellsworks
 
-Tetramer Wins DOE Grant to Develop High-Performance Water Vapor
-Membranes to Improve \#FuelCells"
-
-[Link](https://bit.ly/3fP4iG9 )
+Uniper and General Electric Sign a Cooperation Agreement"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a> will push forward 18 projects that support the H2@Scale vision for affordable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production, storage, distribution and use, with $64m in Fiscal Year 2020 funding. <a href="https://t.co/NZ5Zfws7nk">https://t.co/NZ5Zfws7nk</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285484640816566273?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I posted this before, [here is](../../2020/07/github-pages-for-math-code.md)
+in article form, how to publish code and math through Markdown / Github. 
 
 ---
 
-But it all helped US in the end; von Braun worked in the V-2 program,
-but after the war, him along with dozens of DE scientists were brought
-to US through the operaton Paperclip, and with the help of VB the US
-landed on the Moon. 
+The thing abt the Mustache book is I dont think it is written with
+malice in mind. There are passages in there showing a public servant
+kind of bummed he couldnt help a President. "Things cld have been
+setup to expediate this and that.." Sad. But also what u get when u r
+an outsider.
+
+---
+ 
+Diamond inher is a coding thing, as in "inheriting" code, but through
+multiple paths, the graph looks like a diamond
 
 ---
 
-.. which pushed the development of the V rockets. Amazing tidbit of history. 
-
-"The Versailles peace treaty limited the German army to 100,000 men; it
-was forbidden to have aircraft or antiaircraft guns, or field
-artillery of more than 3-inch caliber. This may explain why the German
-army took an early interest in rocket development; the treaty of
-Versailles didn't mention rockets at all"
-
-[Link](https://maritime.org/doc/missile/index.htm)
+Yesss C++.. Mmm hm... I was the C++ f-ing master in my time. I ax you
+a diamond inheritance interview question, you'll go into a epileptic
+shock
 
 ---
 
-Thunderball - Rio Mescalito \#music
-
-[Link](https://youtu.be/jqQY5v00re4)
-
----
-
-"@AdamParkhomenko
-
-51 years ago America landed on the moon. Now we’re not even allowed in
-the fucking Bahamas"
+Chrono coding setup through Py actually looks like a pain. I might
+just do this through C++.
 
 ---
 
-*Last updated on 2020-07-21 18:15*
+Oh yeah... knock it down bruh!
+
+<img width="340" src="https://pbs.twimg.com/media/EdeVKKAXkAIUbyy?format=png&name=small"/>
+
+---
+
+3D physics simulation... Chrono looks good
+
+---
+
+Woolsey lines on SG Atlantis crack me up. Writers wrote him as this
+last-word freak, stuck-up, busy body suit, and it's really funny.
+
+---
+
+Well that'll work for sure
+
+'@nypost
+
+Colombian cartels executing people who break coronavirus lockdown"
+
+[Link](https://trib.al/H7Iy9Kl)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Nation&#39;s <a href="https://twitter.com/kenklippenstein?ref_src=twsrc%5Etfw">@kenklippenstein</a> discusses the leaked documents that reveal CBP as the federal agency detaining protesters in Portland.<br>W/ <a href="https://twitter.com/jaisalnoor?ref_src=twsrc%5Etfw">@jaisalnoor</a><a href="https://twitter.com/hashtag/PortlandProtests?src=hash&amp;ref_src=twsrc%5Etfw">#PortlandProtests</a> <a href="https://twitter.com/hashtag/NoSecretPolice?src=hash&amp;ref_src=twsrc%5Etfw">#NoSecretPolice</a> <a href="https://t.co/kWEHKQwfZF">https://t.co/kWEHKQwfZF</a></p>&mdash; The Real News (@TheRealNews) <a href="https://twitter.com/TheRealNews/status/1285598530426621953?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+It does seem like US can / does fight for ideology. I know there are
+other explanations too, but it fought for ideology three times so
+far. The Civil War on slavery, WWII was a left leader fighting
+fascists, Cold War was a rightist leader fighting communists. 
+
+---
+
+*Last updated on 2020-07-22 14:52*
 
 ---
 
