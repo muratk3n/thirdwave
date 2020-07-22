@@ -79,7 +79,7 @@ Uniper and General Electric Sign a Cooperation Agreement"
 
 ---
 
-I posted this before, [here is](../../2020/07/github-pages-for-math-code.md)
+I posted this before, [here is](https://muratk3n.github.io/thirdwave/en/2020/07/github-pages-for-math-code.html)
 in article form, how to publish code and math through Markdown / Github. 
 
 ---
