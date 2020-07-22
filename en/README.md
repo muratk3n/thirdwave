@@ -29,6 +29,8 @@ chatting in a sensible manner about the Jet Zero Council and option of
 
 ---
 
+So weird
+
 "Hostage siege ends after Ukrainian president endorses Joaquin Phoenix
 film... Gunman surrenders after video recommending 2005’s Earthlings
 posted on Facebook"
