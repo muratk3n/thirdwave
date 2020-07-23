@@ -1,150 +1,136 @@
 # Tweets
 
-"@garrygolden
 
-.. Like every global automotive OEM, GM understands that 'electric'
-vehicle refers to the motor not a battery. Despite \#energytwitter
-aspirations, massive EV adoption is a 2030-40s story. OEMs see
-\#fuelcells benefits on supply chain risks/complexity, cost-to-mass,
-cost curves"
+Now I got the song stuck in my head
+
+"bitch better have my money!"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK Government has today announced £139m to cut emissions in heavy industry by supporting the transition from natural gas to clean <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> power. <a href="https://t.co/nIZKrO0APJ">https://t.co/nIZKrO0APJ</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285870515668815877?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We welcome the EU Hydrogen Strategy and Roadmap released today. We, at Airbus, are committed to developing sustainable flight and believe hydrogen is one of the most viable solutions. <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> <a href="https://t.co/M25nmSdXlN">https://t.co/M25nmSdXlN</a></p>&mdash; Guillaume Faury (@GuillaumeFaury) <a href="https://twitter.com/GuillaumeFaury/status/1280846469680050176?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK Government has launched a Hydrogen Advisory Council as part of its decarbonisation efforts. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/7rlAeOpVzL">https://t.co/7rlAeOpVzL</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1285870323691401218?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Glenn Llewellyn, vice president of zero-emissions technology at Airbus
+(speaking at a panel), says company is excited about green fuels.
 
 ---
 
-"@NanoSUNH2
+Haha "Mitch Better Have My Money" 
 
-... \#newnormal!
+I guess slogan is a riff on [this song](https://www.youtube.com/watch?v=qHkpGJcB0HU)
 
-'@GraHod A \#hydrogen first for me today - eating my breakfast
-listening to BBC Radio4 & UK transport secretary @grantshapps was
-chatting in a sensible manner about the Jet Zero Council and option of
-\#hydrogenfuel for aviation'"
+[Link](https://wjla.com/news/local/protesters-march-to-mitch-mcconnells-dc-home-demanding-extension-of-benefits)
 
 ---
 
-So weird
+This is wild
 
-"Hostage siege ends after Ukrainian president endorses Joaquin Phoenix
-film... Gunman surrenders after video recommending 2005’s Earthlings
-posted on Facebook"
-
-[Link](https://www.theguardian.com/world/2020/jul/21/hostage-siege-ends-after-ukrainian-president-endorses-joaquin-phoenix-film)
+[Link](https://mobile.twitter.com/artbaenayy/status/1285780381065793537)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Houston fire and police respond to reports of documents being burned at Consulate General of China - The plot thickens...video shows consulate workers intentionally burning documents and possibly even hard drives. <a href="https://twitter.com/hashtag/MakeChinaPay?src=hash&amp;ref_src=twsrc%5Etfw">#MakeChinaPay</a> <a href="https://twitter.com/hashtag/Decouple?src=hash&amp;ref_src=twsrc%5Etfw">#Decouple</a> <a href="https://twitter.com/hashtag/Texas?src=hash&amp;ref_src=twsrc%5Etfw">#Texas</a> <a href="https://t.co/OVCmhPkNRl">https://t.co/OVCmhPkNRl</a></p>&mdash; 🇺🇸Kyle Bass🇺🇸 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1285801551924285440?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Leaving the house is so exhausting. And you&#39;re telling me I used to do this every day???</p>&mdash; indy scarletti (@paper_indy) <a href="https://twitter.com/paper_indy/status/1285899019089133568?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
+Boris Johnson unveils £350m to fuel decarbonisation of industry
 
-The classic Gnome desktop actually started giving problems on new
-Ubuntu's. Well fine, Unity desktop is usable enough.
-
----
-
-"World’s Largest Green Hydrogen Project Will build in NOEM Smart City,
-Saudi Arabia"
-
-<img width="340" src="https://solaredition.com/wp-content/uploads/2020/07/Saudi-Arabia_Website-678x381.png"/>
-
-[Link](https://solaredition.com/worlds-largest-green-hydrogen-project-will-build-in-noem-smart-city-saudi-arabia/?utm_source=dlvr.it&utm_medium=twitter)
+[Link](https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/boris-johnson-unveils-350m-to-fuel-decarbonisation-of-industry/amp/)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">capital-gains tax cut <a href="https://t.co/15NmzSDdlz">https://t.co/15NmzSDdlz</a></p>&mdash; Matt Pearce 🦅 (@mattdpearce) <a href="https://twitter.com/mattdpearce/status/1285717071788224513?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Joking aside, Arduino usage can get obtuse. ALso not pure X.
+
+---
+
+Arduiono is guinea. Go north, whenever u can, for all things...
+
+"Why not Arduiono instrad of Pi?"
+
+---
+
+Foldable, light keyboard.. Looks good
+
+<img width="240" src="https://pbs.twimg.com/media/EdmKJH7WAAAHeAz?format=jpg&name=small"/>
+
+Maybe I should shift my uber-portable-light computing setup from phone
+to a Raspberry Pi based one, over foldable keyb. Phones will never be
+Unix enough for me, Pi is pure X out-of-the-box.
+
+---
+
+Interesting read...
+
+"Belgium and Ireland argued for and succeeded in getting a 5 billion
+Brexit fund that will support the countries worst-hit by Brexit. The
+fund is a reminder that the Brexit negotiations are not on track and
+there is no sign of real progress"
+
+[Link](https://www.irishtimes.com/opinion/shape-of-eu-s-new-political-dynamic-becomes-clearer-1.4310017)
+
+---
+
+You look at work done, vs power expanded, the ratio is efficiency. In
+order to move a 1000 kg car to overcome friction have it go at
+reasonable speed you need to apply constantly 200 Newtons of
+[force](http://www.cimt.org.uk/projects/mepres/alevel/mechanics_ch6.pdf).
+Take a bitch [BEV](https://en.wikipedia.org/wiki/Tesla_Model_S)
+with 426 km (265 mile) range and 85kWh battery gross weight 2000kg.
+Work done is Newton-meters, equaling Joules, which is 1/3600
+Watt-hours, Force is 400 Newtons for 2000 kg car,
+
+```python
+work = (426*1000*400) / 3600.
+print (np.round(work / 85000 * 100), '%')
+```
+
+```text
+56.0 %
+```
+
+"How can you calculate BEV efficiency as 60%?"
 
 ---
 
 "@davidsirota
 
-TMI is a grassroots-funded journalism project. We broke these stories
-open in just the last 24 hours. We are doing this work day in and day
-out. Please become a supporting subscriber to help us expand this
-work
-
-http://sirota.substack.com/subscribe"
+BREAKING: A major Wall Street scandal just exploded in Kentucky -- the
+newly elected GOP Attorney General is suing the world's largest
+financial firms & targeting the billionaire CEO who bankrolls Trump
+and McConnell's national Republican machine"
 
 ---
 
-"@fuelcellsworks
+"@nikolamotor
 
-Uniper and General Electric Sign a Cooperation Agreement"
+How do we pay for the hydrogen infrastructure? Listen to this few
+seconds of a clip"
 
----
-
-I posted this before, [here is](https://muratk3n.github.io/thirdwave/en/2020/07/github-pages-for-math-code.html)
-in article form, how to publish code and math through Markdown / Github. 
+[Link](https://mobile.twitter.com/nikolamotor/status/1284911491867607041)
 
 ---
 
-The thing abt the Mustache book is I dont think it is written with
-malice in mind. There are passages in there showing a public servant
-kind of bummed he couldnt help a President. "Things cld have been
-setup to expediate this and that.." Sad. But also what u get when u r
-an outsider.
-
----
- 
-Diamond inher is a coding thing, as in "inheriting" code, but through
-multiple paths, the graph looks like a diamond
+<img width="340" src="https://pbs.twimg.com/media/EddWEqUXgAEUrEh?format=jpg&name=small"/>
 
 ---
 
-Yesss C++.. Mmm hm... I was the C++ f-ing master in my time. I ax you
-a diamond inheritance interview question, you'll go into a epileptic
-shock
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Material Can Generate Hydrogen from Salt and Polluted Water--Scientists of Tomsk Polytechnic University have developed a new 2D material to produce <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>--<a href="https://t.co/kkC4mlwmPX">https://t.co/kkC4mlwmPX</a> <a href="https://twitter.com/hashtag/Hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a> <a href="https://t.co/kUNHUOu1qx">pic.twitter.com/kUNHUOu1qx</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1285912187760971782?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Chrono coding setup through Py actually looks like a pain. I might
-just do this through C++.
+Cramer says he is now fuel-cell believer (Mad Money interview with
+Plug Power CEO).
 
 ---
 
-Oh yeah... knock it down bruh!
+I heard of this dude in Istanbul back when l he went from the European
+side to Asian, and the trip was so arduous, adventerous for him that
+he wrote a book about it. A trip that can be done in a few hours by
+train today.
 
-<img width="340" src="https://pbs.twimg.com/media/EdeVKKAXkAIUbyy?format=png&name=small"/>
 
----
-
-3D physics simulation... Chrono looks good
-
----
-
-Woolsey lines on SG Atlantis crack me up. Writers wrote him as this
-last-word freak, stuck-up, busy body suit, and it's really funny.
-
----
-
-Well that'll work for sure
-
-'@nypost
-
-Colombian cartels executing people who break coronavirus lockdown"
-
-[Link](https://trib.al/H7Iy9Kl)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Nation&#39;s <a href="https://twitter.com/kenklippenstein?ref_src=twsrc%5Etfw">@kenklippenstein</a> discusses the leaked documents that reveal CBP as the federal agency detaining protesters in Portland.<br>W/ <a href="https://twitter.com/jaisalnoor?ref_src=twsrc%5Etfw">@jaisalnoor</a><a href="https://twitter.com/hashtag/PortlandProtests?src=hash&amp;ref_src=twsrc%5Etfw">#PortlandProtests</a> <a href="https://twitter.com/hashtag/NoSecretPolice?src=hash&amp;ref_src=twsrc%5Etfw">#NoSecretPolice</a> <a href="https://t.co/kWEHKQwfZF">https://t.co/kWEHKQwfZF</a></p>&mdash; The Real News (@TheRealNews) <a href="https://twitter.com/TheRealNews/status/1285598530426621953?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-It does seem like US can / does fight for ideology. I know there are
-other explanations too, but it fought for ideology three times so
-far. The Civil War on slavery, WWII was a left leader fighting
-fascists, Cold War was a rightist leader fighting communists. 
-
----
-
-*Last updated on 2020-07-22 14:52*
+*Last updated on 2020-07-23 11:59*
 
 ---
 
