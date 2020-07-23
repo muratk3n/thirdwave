@@ -124,7 +124,7 @@ Plug Power CEO).
 
 ---
 
-I heard of this dude in Istanbul back when l he went from the European
+I heard of this dude in Istanbul back when he went from the European
 side to Asian, and the trip was so arduous, adventerous for him that
 he wrote a book about it. A trip that can be done in a few hours by
 train today.
