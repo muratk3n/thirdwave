@@ -54,9 +54,9 @@ Foldable, light keyboard.. Looks good
 
 <img width="240" src="https://pbs.twimg.com/media/EdmKJH7WAAAHeAz?format=jpg&name=small"/>
 
-Maybe I should shift my uber-portable-light computing setup from phone
-to a Raspberry Pi based one, over foldable keyb. Phones will never be
-Unix enough for me, Pi is pure X out-of-the-box.
+RPi + foldable keyb.. hmm.. Maybe I should shift my
+uber-portable-light computing setup from phone to this. Phones will
+never be Unix enough for me, Pi is pure X out-of-the-box.
 
 ---
 
