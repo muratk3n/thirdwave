@@ -1,5 +1,16 @@
 # Tweets
 
+Mapping info was right. Open source intel bitch
+
+"@alert5
+
+Watch the Nimitz Carrier Strike Group conducting cooperative exercises
+with the Indian Navy"
+
+[Link](https://mobile.twitter.com/alert5/status/1286460632947019776)
+
+---
+
 "@LibertyBlitz
 
 I hope the entire concept of commuting for an hour just to sit in a
