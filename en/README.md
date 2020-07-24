@@ -62,7 +62,7 @@ People
 
 --
 
-<img width="340" src="https://pbs.twimg.com/media/EZeN7XyUwAIFQ2v?format=jpg&name=small"/>
+<img width="200" src="https://pbs.twimg.com/media/EZeN7XyUwAIFQ2v?format=jpg&name=small"/>
 
 ---
 
