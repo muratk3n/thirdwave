@@ -70,7 +70,7 @@ People
 
 ---
 
-CHROME COUNT THE DEAD
+CROM COUNT THE DEAD
 
 ---
 
