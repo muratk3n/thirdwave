@@ -84,7 +84,7 @@ The snapshot [for the Arctic Vault] will include every repo with any
 commits between the announcement at GitHub Universe on November 13th
 and 02/02/2020, every repo with at least 1 star and any commits from
 the year before the snapshot (02/03/2019 - 02/02/2020), and every repo
-with at least 250 stars.
+with at least 250 stars"
 
 ---
 
