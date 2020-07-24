@@ -1,6 +1,6 @@
 # Tweets
 
-Mapping info was right. Open source intel bitch
+Bingo. Nimitz was going that direction. Open source intel bitch
 
 "@alert5
 
