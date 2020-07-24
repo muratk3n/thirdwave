@@ -54,7 +54,7 @@ So was MLK BTW.
 
 People
 
-"J. Lewis and "good trouble" were very unpopular with people back in the day"
+"J. Lewis and 'good trouble' were very unpopular with people back in the day"
 
 ---
 
