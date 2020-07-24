@@ -66,10 +66,6 @@ People
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone making a mistake at a company thousands of miles away can brick your thermostat with an update.<br><br>Damn, the future rules. <a href="https://t.co/ggr1IDMgYq">https://t.co/ggr1IDMgYq</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1286336241168941058?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 CROM COUNT THE DEAD
 
 ---
