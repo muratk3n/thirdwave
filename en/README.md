@@ -76,11 +76,9 @@ For the most part, if you shill for corporate power, you’re never canceled for
 
 ---
 
-So it's all in the smell...
-
-Where is the nonlinear regression (sorry, "AI") model to replicate
-this? If there are smell sensors accurate enough as dog's nose then
-the rest would be doable
+So it's all in the smell.. Where is the nonlinear regression (sorry,
+"AI") model to replicate this? If there are smell sensors accurate
+enough as dog's nose then the rest would be doable
 
 "@KevinWhitelaw1
 
