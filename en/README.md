@@ -65,8 +65,8 @@ Suranne Jones, wonderful as the female Tardis.
 
 ---
 
-Yes orchestra conducting is fine. As long as the horns get their turn
-as much as the cellos
+Coalition mgmt as orchestra conducting, fine. As long as the horns get
+their turn as much as the cellos
 
 ---
 
