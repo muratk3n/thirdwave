@@ -122,8 +122,6 @@ it on too thick and expect it to be a good movie.
 
 ---
 
-Did I get that right?
-
 Macron: "Stress support for Cyprus and Greece on TR incursions into
 your territory, territorial threats against a EU member state is
 unacceptable, transgressing side needs to be punished"
