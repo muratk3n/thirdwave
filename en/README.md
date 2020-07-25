@@ -31,8 +31,8 @@ Nobodys that dumb. Not even the Army
 
 Honeypot. Guaranteed.
 
-"But I still cant believe that post would been placed there
-intentionally. It has to be a mistake"
+"But I still cant believe that post was placed there intentionally. It
+has to be a mistake"
 
 ---
 
