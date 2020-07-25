@@ -36,7 +36,7 @@ has to be a mistake"
 
 ---
 
-Jake Tapper wrote the book on which *Tbe Outpost* movie was based?
+Jake Tapper wrote the book on which *The Outpost* movie was based?
 Not bad...
 
 Finally someone with half a brain at CNN!!
