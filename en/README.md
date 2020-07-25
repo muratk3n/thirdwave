@@ -152,8 +152,8 @@ Oz 👍👍👍
 
 ---
 
-That amt of lithium can destabilize lithium producing countries. This
-tech needs to be buried. Not fit for use anything other than quick
+That amt of lithium can destabilize countries (Bolivia?). This tech
+needs to be buried. Not fit for use anything other than quick
 buffering of energy, in small amounts.
 
 ---
