@@ -139,6 +139,8 @@ achieved through the barbaric operation of 'Defensive Shield' in 2002
 and the building of the infamous 'apartheid wall' did they succeed
 temporarily in quelling the uprising ...
 
+<a name="hamas"/>
+
 Hamas became a significant player on the ground in part thanks to the
 Israeli policy of encouraging the construction of an Islamic
 educational infrastructure [most likely teaching a variation of
