@@ -111,10 +111,8 @@ peddling influence.
 
 *The Atlantic*: "Keeping Arizona red shouldn’t be a challenge; the
 state has long been a Republican stronghold. But Arizona is changing
-rapidly, and right now, the forecast for the GOP looks grim: In 2018,
-Kyrsten Sinema became the first Democrat to win a Senate race in the
-state since the 1980s, and Joe Biden has been leading in the
-presidential polls there for weeks"
+rapidly, and right now, the forecast for the GOP looks grim .. Joe
+Biden has been leading in the presidential polls there for weeks"
 
 [Link](https://www.theatlantic.com/politics/archive/2020/07/trump-turning-arizona-blue/614572/)
 
