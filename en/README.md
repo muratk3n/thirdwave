@@ -159,7 +159,7 @@ my early AI posts are in Lisp, GH caught that. Very good.
 
 😂😂😂
 
-Guy is chucking up a lung over here 
+Guy is coughing up a lung over here 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have never endorsed you <a href="https://twitter.com/joekennedy?ref_src=twsrc%5Etfw">@joekennedy</a>.<br><br>Also, the majority of our endorsement slate is filled with challengers, not incumbents.<br><br>Young people have spoken, and we want <a href="https://twitter.com/EdMarkey?ref_src=twsrc%5Etfw">@EdMarkey</a> in the Senate, not you. <a href="https://twitter.com/hashtag/MASen?src=hash&amp;ref_src=twsrc%5Etfw">#MASen</a><a href="https://t.co/S2o1jfjFi8">pic.twitter.com/S2o1jfjFi8</a></p>&mdash; Sunrise Movement 🌅 (@sunrisemvmt) <a href="https://twitter.com/sunrisemvmt/status/1287552375125729280?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
