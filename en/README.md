@@ -12,9 +12,11 @@ emissions"
 
 ---
 
-\#disruptTheGrid
+Let's do this. The grid is inefficient as hell. De-electrification!
 
-Let's do this. The grid is inefficient as hell. De-electrification is needed.
+---
+
+\#disruptTheGrid
 
 "I'm most interested in seeing how Bloom Energy can potentially solve
 two problems at once with a new strategy. The company recently
