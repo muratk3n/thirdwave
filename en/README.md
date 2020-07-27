@@ -12,7 +12,7 @@ emissions"
 
 ---
 
-Let's do this. The grid is inefficient as hell. De-electrification!
+The grid is inefficient as hell. De-electrification is needed.
 
 ---
 
