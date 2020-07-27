@@ -35,6 +35,7 @@ use this fuel for its backup markets, but it could also be used in
 large ships currently being developed by Samsung Heavy Industries and
 Bloom Energy. This could disrupt shipping as well as the grid"
 
+[Link](https://www.fool.com/investing/2020/07/24/hydrogen-stocks-are-hot-heres-what-to-buy-now.aspx)
 
 ---
 
