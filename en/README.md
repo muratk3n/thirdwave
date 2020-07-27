@@ -53,7 +53,7 @@ Mm.. word is he botched the corona response
 
 ---
 
-This is awesome man :) He gets pages mailed to him..? Class.
+This is awesome man :) He gets web pages mailed to him..? Class.
 
 And boy did the recent events prove his "paranoia" right.
 
