@@ -104,7 +104,7 @@ to power an average household for approximately three days"
 ---
 
 Cold War is not a bad idea. Better than a hot war, right? One think is
-for sure I dont want these cocksuckers at my door, or anyone else's,
+for sure I dont want these c@\#ksuckers at my door, or anyone else's,
 peddling influence.
 
 ---
