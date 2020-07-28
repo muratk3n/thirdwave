@@ -11,7 +11,7 @@ Pinned Tweet
 
 Kool & The Gang - Be My Lady (House Funk Remix) \#music
 
-[Link](https://youtu.be/OLSWvAdTuF0)
+[Link](https://youtu.be/OLSWvAdTuF0?t=58)
 
 ---
 
