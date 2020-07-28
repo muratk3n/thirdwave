@@ -125,10 +125,6 @@ use Nano"
 
 ---
 
-<img width="200" src="https://shichaoji.com/wp-content/uploads/2017/01/20141008050747496.gif"/>
-
----
-
 *Last updated 2020-07-28 19:42*
 
 ---
