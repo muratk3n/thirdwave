@@ -114,7 +114,7 @@ a plan; it just didn’t work out the way they expected"
 
 Lightning.. what a joke. Layers upon layers of crud.
 
-Bitcoin is the COBOL of cryptocurrencies!! 
+Bitcoin is the COBOL of cryptocurrencies? 😶
 
 "@patrickluberus
 
