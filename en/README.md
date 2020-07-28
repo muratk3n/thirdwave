@@ -4,168 +4,132 @@ Pinned Tweet
 
 <iframe width="340" src="https://www.youtube.com/embed/a-KWihHnAVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
-"@Jkylebass
-
-TikTok IS the Communist Party of China's Trojan Horse. Please read
-this piece..."
-
-[Link](https://twitter.com/Jkylebass/status/1287802582019256321)
+<img width="340" src="https://media.tenor.com/images/5c2b5639ea6781404cead2a4d25b8063/tenor.gif"/>
 
 ---
 
-"Israeli Opposition Leader Yair Lapid"
+Kool & The Gang - Be My Lady (House Funk Remix) \#music
 
-[Link](https://youtu.be/o2Oly6TZ4Bc)
-
----
-
-What a f--ing clown show.
+[Link](https://youtu.be/OLSWvAdTuF0)
 
 ---
 
-This aint like talking shit on CNN with your American accent is it
-Netan?
-
-"Hamas! Hamas!" he used to say, on US TV, all the time.. Now we know
-Hamas is [their creation](2020/06/10-myths-israel.md#hamas).
+Hah! Got gazillions of SQLs for this baby. 
 
 ---
 
-Mm.. word is he botched the corona response
-
-"Netanyahu losing ground, as Bennett and Lapid rise in the polls"
-
-[Link](https://www.jpost.com/israel-elections/netanyahu-losing-ground-as-bennett-and-lapid-rise-in-the-polls-636148)
+Chinook Sample DB is it? The new Northwind they say. 
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">this was such a good year to move to melbourne</p>&mdash; essential oils pyramid scheme (@mcdonaldskhole) <a href="https://twitter.com/mcdonaldskhole/status/1287577256030638080?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Give old knowledge, gain new knowledge. Knowledge karma bitch. It exists.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have a networking joke about UDP, but I don&#39;t want to tell it because I&#39;m afraid some people won&#39;t get it.</p>&mdash; Joshua Ulrich (@joshua_ulrich) <a href="https://twitter.com/joshua_ulrich/status/1287735020199849984?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
----       
-
-[See](2013/08/great-picture.md) (from 2013). 
+I did lota gobble gobble tutorials on the ER model, rel DB, SQL, but
+never showed too many subquerying, mad join-fu. Adding that now, while
+I wait for other stuff.
 
 ---
 
-This is awesome man :) He gets web pages mailed to him..? Class.
+Blackpink -- How You Like That \#music
 
-And boy did the recent events prove his "paranoia" right.
-
-Richard Stallman: "I am careful in how I connect to the
-internet. Specifically, I refuse to connect through portals that would
-require me to identify myself, or to run any nontrivial nonfree
-Javascript code. I use LibreJS to prevent nonfree Javascript code from
-running..
-
-I usually fetch web pages from other sites by sending mail to a
-program (see https://git.savannah.gnu.org/git/womb/hacks.git) that
-fetches them, much like wget, and then mails them back to me. Then I
-look at them using a web browser, unless it is easy to see the text in
-the HTML page directly. I usually try lynx first, then a graphical
-browser if the page needs it"
-
-[Link](https://stallman.org/stallman-computing.html)
+[Link](https://youtu.be/1R6PDeZLThE)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">?In New York City, one-quarter of all renters haven?t paid their landlords since March.?<br><br>The Coronavirus Recession Is a Housing Crisis <a href="https://t.co/nlk1RjQyzM">https://t.co/nlk1RjQyzM</a></p>&mdash; Gloria Pazmino (@GloriaPazmino) <a href="https://twitter.com/GloriaPazmino/status/1287577843359272966?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> makes <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> breakthrough in quest to <a href="https://twitter.com/hashtag/power?src=hash&amp;ref_src=twsrc%5Etfw">#power</a> data centers with <a href="https://twitter.com/hashtag/renewable?src=hash&amp;ref_src=twsrc%5Etfw">#renewable</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a>&quot;<a href="https://twitter.com/hashtag/hydrog%C3%A8ne?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogène</a> <a href="https://twitter.com/hashtag/hydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenNow</a><a href="https://twitter.com/hashtag/ClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateEmergency</a><a href="https://t.co/wS456uuRM1">https://t.co/wS456uuRM1</a></p>&mdash; Hydrogen Energy (@EnergyHy2) <a href="https://twitter.com/EnergyHy2/status/1288019638274711553?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@doctorow
-
-Few people have had a more profound impact on tech's data-hoovering
-propensities than @maxschrems, who, as a law student, sued over
-Facebook's data-handling and won, leading to the passage of the \#GDPR"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Kennedy voted for PROMESA, a law that is hollowing out the island of Puerto Rico. I voted against it.<br> <br>The bill revokes Puerto Ricans&#39; fundamental right to self-governance.<br> <br>I kept my promise to the Puerto Rican people. Joe kept his promise to the greedy bondholders. <a href="https://twitter.com/hashtag/MASen?src=hash&amp;ref_src=twsrc%5Etfw">#MASen</a></p>&mdash; Ed Markey (@EdMarkey) <a href="https://twitter.com/EdMarkey/status/1287530399841779712?ref_src=twsrc%5Etfw">July 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/SymbioBiz?src=hash&amp;ref_src=twsrc%5Etfw">#SymbioBiz</a> Le PDG de <a href="https://twitter.com/GroupePSA?ref_src=twsrc%5Etfw">@GroupePSA</a> Carlos Tavares a testé le prototype de voiture de course LMPH2G ! Il est équipé en système <a href="https://twitter.com/hashtag/hydrog%C3%A8ne?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogène</a> par Symbio, dans le cadre du programme <a href="https://twitter.com/MissionH24?ref_src=twsrc%5Etfw">@MissionH24</a> dont nous sommes partenaires avec <a href="https://twitter.com/Michelin?ref_src=twsrc%5Etfw">@Michelin</a>. <a href="https://t.co/dQuvpxeAha">https://t.co/dQuvpxeAha</a></p>&mdash; Symbio (@SymbioFCell) <a href="https://twitter.com/SymbioFCell/status/1287663343524876288?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@clairej_H2
+
+Incredible to see >5GW of announced electrolyser capacity, which based
+on recent @WoodMackenzie analysis represents over half of all global
+commitments"
 
 ---
 
-"@JoSamps92
-
-@PowrInnovations has successfully powered a full data centre sever
-load for 48 continuous hours with #hydrogen fuel cells"
-
-[Link](https://twitter.com/JoSamps92/status/1287684174699274241)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hearing stories from my friends about this magical covid-free place... called Queensland. It&#39;s meant to be beautiful one day, perfect the next... I hope one day I live to see this incredible place...</p>&mdash; dan nolan (@dannolan) <a href="https://twitter.com/dannolan/status/1287975563894730752?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re pleased to announce we&#39;ve been awarded a grant by the DOE to develop a novel <a href="https://twitter.com/hashtag/electrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#electrolyser</a> stack, enabling lower cost <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> generation. Learn more from our press release: <a href="https://t.co/Q7jZv0le7I">https://t.co/Q7jZv0le7I</a> <a href="https://t.co/6y3yfjXqxB">pic.twitter.com/6y3yfjXqxB</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1287678930263121922?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Hah. A virologist from that Wuhan lab is nicknamed “Bat Woman”.
 
 ---
 
-Being in the same acknowledgements paragraph with David Blei,
-Thibshirani.. 😆😆  This is a gas 
+"The rivalry between Europe and China in emission-free hydrogen
+technologies could become one of the defining business stories in the
+global effort to stop climate change.
+
+Scarred by its painful experience in solar PV manufacturing, which was
+developed in Europe at high cost only to later move to China, Europe
+is not taking any chances with hydrogen.
+
+In a bid to outcompete China and fulfil its ambition to become
+climate-neutral, Europe has launched a massive green hydrogen push to
+decarbonise industry and aviation and secure promising export
+opportunities"
+
+[Link](https://reneweconomy.com.au/europe-vies-with-china-for-clean-hydrogen-superpower-status-89077/amp/)
 
 ---
 
-That's right, he is talking about being "hood rich". You can be rich,
-but how rich? Hood rich, may not be enough.
+I guess the previous announcement by Power Innovations was for Microsoft. V cool.
 
-[Link](https://youtu.be/P2T48VYoVjY?t=140)
+"Microsoft tests hydrogen fuel cells for backup power at
+datacenters. In a worldwide first that could jumpstart a long-forecast
+clean energy economy built around the most abundant element in the
+universe, hydrogen fuel cells have powered a row of datacenter servers
+for 48 consecutive hours, Microsoft announced Monday"
 
----
-
-"@H2NewsGlobal
-
-Russia is the next country to unveil their road map to a \#hydrogen
-economy as gas giant Gazprom will begin testing and producing \#H2
-starting next year. Russia plans to export hydrogen to Japan"
+[Link](https://news.microsoft.com/innovation-stories/hydrogen-datacenters/)
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EdtCktXWoAg-7fJ?format=jpg&name=small"/>
-
-[Link](https://lnkd.in/gNYdzJg)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Infinite Blue Energy has today revealed plans for a network for 17 green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> fuelling stations at key locations on major road transport routes Eastern Australia. <a href="https://t.co/Y2YXXFnBJ1">https://t.co/Y2YXXFnBJ1</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1288012669887361024?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Nice.. Github lists the computer languages used in your repo in percentage.
-My tutorial repo has roughly,
+"The formulation that slavery was tolerated as a necessary evil at the
+time of the Founding, and that the Founders expected
+(overoptimistically) that it was on an inevitable path to extinction,
+is a fairly standard one, and mostly an accurate way of putting the
+more complicated story of Founding-era slavery and anti-slavery into a
+nutshell.... The Founders’ optimism was misplaced. But they *did* have
+a plan; it just didn’t work out the way they expected"
 
-
-TeX  71.0%
- 
-Python 12.2%
- 
-Java 11.1%
- 
-MATLAB 2.0%
- 
-Common Lisp 1.3%
- 
-JavaScript 0.3%
-
-
-That's exactly right. TeX is high in the list, obviously, the whole
-thing is written in LaTeX. Python is next up, the main language of all
-computations. Java is from the sub-blog, the non-math, tech part. Some
-my early AI posts are in Lisp, GH caught that. Very good.
+[Link](https://www.nationalreview.com/corner/founding-era-antislavery-and-the-overheated-freakout-over-tom-cottons-history-of-slavery/)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germany could be taking the lead in <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> technology, with a 7 billion euro plan last month for its domestic hydrogen industry. So it&#39;s no surprise <a href="https://twitter.com/BMW?ref_src=twsrc%5Etfw">@BMW</a> have announced their Hydrogen SUV is going into production <a href="https://twitter.com/hashtag/ukhydrogenstrategynow?src=hash&amp;ref_src=twsrc%5Etfw">#ukhydrogenstrategynow</a> <a href="https://twitter.com/hashtag/greenrecovery?src=hash&amp;ref_src=twsrc%5Etfw">#greenrecovery</a><a href="https://t.co/iXXYBe00gL">https://t.co/iXXYBe00gL</a></p>&mdash; RyseHydrogen #wecantwait (@RyseHydrogen) <a href="https://twitter.com/RyseHydrogen/status/1287655553666355200?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have a Python joke, but I don&#39;t think this is the right environment.</p>&mdash; Caitlin Hudon 👩🏼‍💻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1287797396471193601?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-😂😂😂
+Lightning.. what a joke. Layers upon layers of crud.
 
-Guy is coughing up a lung over here 
+Bitcoin is the COBOL of cryptocurrencies!! 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have never endorsed you <a href="https://twitter.com/joekennedy?ref_src=twsrc%5Etfw">@joekennedy</a>.<br><br>Also, the majority of our endorsement slate is filled with challengers, not incumbents.<br><br>Young people have spoken, and we want <a href="https://twitter.com/EdMarkey?ref_src=twsrc%5Etfw">@EdMarkey</a> in the Senate, not you. <a href="https://twitter.com/hashtag/MASen?src=hash&amp;ref_src=twsrc%5Etfw">#MASen</a><a href="https://t.co/S2o1jfjFi8">pic.twitter.com/S2o1jfjFi8</a></p>&mdash; Sunrise Movement 🌅 (@sunrisemvmt) <a href="https://twitter.com/sunrisemvmt/status/1287552375125729280?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@patrickluberus
+
+The Bitcoin LightningNetwork subreddit over the last 24 hours. Just
+use Nano"
+
+<img width="340" src="https://pbs.twimg.com/media/Ed-tB2uX0AAw1DH?format=jpg&name=medium"/>
 
 ---
 
-*Last updated 2020-07-28 01:57*
+<img width="200" src="https://shichaoji.com/wp-content/uploads/2017/01/20141008050747496.gif"/>
+
+---
+
+*Last updated 2020-07-28 19:42*
 
 ---
 
