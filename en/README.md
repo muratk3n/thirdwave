@@ -80,7 +80,7 @@ opportunities"
 
 ---
 
-I guess the previous announcement by Power Innovations was for Microsoft. V cool.
+I guess the previous announcement by Power Innovations was for Microsoft. Awesome
 
 "Microsoft tests hydrogen fuel cells for backup power at
 datacenters. In a worldwide first that could jumpstart a long-forecast
