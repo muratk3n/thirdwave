@@ -23,7 +23,7 @@ Chinook Sample DB is it? The new Northwind they say.
 
 ---
 
-Give old knowledge, gain new knowledge. Knowledge karma bitch. It exists.
+Give old knowledge, gain new knowledge. Knowledge karma bitch. 
 
 ---
 
