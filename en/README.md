@@ -157,7 +157,7 @@ despite the best efforts of people working in them.
 
 [Religion](/2015/04/god-religion.md)
 
-[Democracy](/2016/11/democracy.md)
+[Democracy, Parties](/2016/11/democracy.md)
 
 [Economy](/2018/05/economy.md)
 

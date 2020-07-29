@@ -12,4 +12,8 @@
 
 [Polarization](../../2018/05/polarization.md)
 
+[Left Acting Right](../../2020/07/left-acting-right.md)
+
+[Right Acting Left](../../2020/07/right-acting-left.md)
+
 [[⇪Up]](../..)

@@ -1,20 +1,48 @@
 # Going Bi
 
-This is how you get triangulation in politics, black-white president, healthcare that is both right and left, and delusional science who keeps talking about cats who are dead and alive, two major parties agreeing on all major things.
+This is how you get triangulation in politics, black-white president,
+healthcare that is both right and left, and delusional science who
+keeps talking about cats who are dead and alive, two major parties
+agreeing on all major things.
 
-What people do not realize is this has a cost. There is a natural order of things, inclusivity of all, in concepts, in ideas will lead to major outburst elsewhere.
+What people do not realize is this has a cost. There is a natural
+order of things, inclusivity of all, in concepts, in ideas will lead
+to major outburst elsewhere.
 
-Parties define themselves through contrasts. Democratic process is setup through rivalry (natural order). Then, if one party agrees with another on all major issues, this will be read by the latter as an attempt to displace which will push them to define themselves on other, secondary issues. The former party can succeed in the attempt, but there will be a cost (Clinton could become a second Reagan, but not before the entire country burns). We are seeing the side-effects all around us. US is a mess.
+Parties define themselves through contrasts. Democratic process is
+setup through rivalry (natural order). Then, if one party agrees with
+another on all major issues, this will be read by the latter as an
+attempt to displace which will push them to define themselves on
+other, secondary issues. The former party can succeed in the attempt,
+but there will be a cost (Clinton could become a second Reagan, but
+not before the entire country burns). We are seeing the side-effects
+all around us. US is a mess.
 
-There has to be a choice on major things. These choices need to be respected even if not given the nod at all times. A choiceless environment is only preferred by weak-minded people who are scared of making them.
+There has to be a choice on major things. These choices need to be
+respected even if not given the nod at all times. A choiceless
+environment is only preferred by weak-minded people who are scared of
+making them.
 
-This is why it is hilarious to hear Republicans talk about niceties, cooperation, pervading bi-partisanship. Dubya's "I'm a uniter not a divider" comes to mind, he even scored some points against Gore during a debate to "end fighting in Washington". The fighting is created by both sides, so they need it and actively fan the flames. But Republicans can use the line "end the fighting" because the kerkuffle is on their home turf, it's like saying "they agree with us everything else anyway, so there must be something wrong with this guy because he keeps on bitchin on I don't know what". Seemingly concillatory but fighting words while inside the fight. Vintage post Berlin Wall politics. Dubya was truly the master at this shit.
+This is why it is hilarious to hear Republicans talk about niceties,
+cooperation, pervading bi-partisanship. Dubya's "I'm a uniter not a
+divider" comes to mind, he even scored some points against Gore during
+a debate to "end fighting in Washington". The fighting is created by
+both sides, so they need it and actively fan the flames. But
+Republicans can use the line "end the fighting" because the kerkuffle
+is on their home turf, it's like saying "they agree with us everything
+else anyway, so there must be something wrong with this guy because he
+keeps on bitchin on I don't know what". Seemingly concillatory but
+fighting words while inside the fight. Vintage post Berlin Wall
+politics. Dubya was truly the master at this shit.
 
 Q&A
 
-Q: U say inclusivity but then Alex Jones is not included, that's good no?
+Q: U say inclusivity but then Alex Jones is not included, that's good
+no?
 
-A: AJ needs to be given the right to stay apart, be seperate, needs to be given the right not to be included in the goo, in the mush that is today's politics.
+A: AJ needs to be given the right to stay apart, be seperate, needs to
+be given the right not to be included in the goo, in the mush that is
+today's politics.
 
 Q: Why are we here (besides the Berlin Wall and the 'win' of capitalism)?
 
@@ -36,13 +64,26 @@ A: Left gets elected, enacts M4A, regulates. Right is elected, de-regulates. It 
 
 Q: Do big corporations like the current choiceless environment?
 
-A: Yes. It's good business, they have a stake in keeping it the way it is.
+A: Yes. It's good business, they have a stake in keeping it the way it
+is.
 
 Q: But maybe the current kerkuffle can last for a while than go away
 
-A: Not likely. Among the things Reps are toting for fears of being displaced, is culture (vote for me because I am like you, culturally). Culture defines nations (nationalism is something you half-mouth things abt and make jerkoff comments about it later, in post-modern world it has no place, but it is still somewhat there due to inertia), and therefore, there can only be one. Gellner says,
+A: Not likely. Among the things Reps are toting for fears of being
+displaced, is culture (vote for me because I am like you,
+culturally). Culture defines nations (nationalism is something you
+half-mouth things abt and make jerkoff comments about it later, in
+post-modern world it has no place, but it is still somewhat there due
+to inertia), and therefore, there can only be one. Gellner says,
 
-"[W]hen general social conditions make for standardized, homogeneous, centrally sustained high cultures, pervading entire populations [..] a situation arises in which well-defined educationally sanctioned and unified cultures constitute very nearly the only kind of unit with which men willingly and often ardently identify. The cultures now seem to be the natural repositories of political legitimacy [during modern times]. Only then does it come to appear that any defiance of their boundaries by political units constitutes scandal"
+"[W]hen general social conditions make for standardized, homogeneous,
+centrally sustained high cultures, pervading entire populations [..] a
+situation arises in which well-defined educationally sanctioned and
+unified cultures constitute very nearly the only kind of unit with
+which men willingly and often ardently identify. The cultures now seem
+to be the natural repositories of political legitimacy [during modern
+times]. Only then does it come to appear that any defiance of their
+boundaries by political units constitutes scandal"
 
 So if multiple cultures are fighting, that will end a nation.
 
