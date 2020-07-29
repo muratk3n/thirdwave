@@ -110,7 +110,7 @@ produce anything testable I bet.
 
 ---
 
-Watching Theory of Everything the live stream
+Watching Theory of Everything live stream
 
 \#theoryOfEverything
 
