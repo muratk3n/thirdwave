@@ -4,128 +4,154 @@ Pinned Tweet
 
 <iframe width="340" src="https://www.youtube.com/embed/a-KWihHnAVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
-<img width="340" src="https://media.tenor.com/images/5c2b5639ea6781404cead2a4d25b8063/tenor.gif"/>
+First it's simple circuitry.
+
+Then it's [this](https://i2.wp.com/bunker158.com/wp-content/uploads/2018/03/Terminator-Statue-1-2-T800-Endoskeleton-105-cm-prime1-7.jpg?fit=707%2C1000&ssl=1)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> makes <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> breakthrough in quest to <a href="https://twitter.com/hashtag/power?src=hash&amp;ref_src=twsrc%5Etfw">#power</a> data centers with <a href="https://twitter.com/hashtag/renewable?src=hash&amp;ref_src=twsrc%5Etfw">#renewable</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a>&quot;<a href="https://twitter.com/hashtag/hydrog%C3%A8ne?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogène</a> <a href="https://twitter.com/hashtag/hydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenNow</a><a href="https://twitter.com/hashtag/ClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateEmergency</a><a href="https://t.co/wS456uuRM1">https://t.co/wS456uuRM1</a></p>&mdash; Hydrogen Energy (@EnergyHy2) <a href="https://twitter.com/EnergyHy2/status/1288019638274711553?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+And it begins..
+
+<img width="240" src="https://pbs.twimg.com/media/EeHDUKIX0AEiVWc?format=jpg&name=small"/>
 
 ---
 
-Kool & The Gang - Be My Lady (House Funk Remix) \#music
+But.. but.. how about the gold-yuan or yuan-gold, with a future
+contract or something...?
 
-[Link](https://youtu.be/OLSWvAdTuF0?t=58)
-
----
-
-Hah! Got gazillions of SQLs for this baby. 
+These are all junk speculations... The reserve currency is the dollah
 
 ---
 
-Chinook Sample DB is it? The new Northwind they say. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“A good punch to the enemy will save yourself from hundreds of punches from your enemies.” The United States holds all of the cards in relation to China’s economic survival given their dependency on the US dollar. One thing this report has correct is... <a href="https://t.co/lnn5gElyhs">https://t.co/lnn5gElyhs</a></p>&mdash; 🇺🇸Kyle Bass🇺🇸 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1288434420702216195?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Give old knowledge, gain new knowledge. Knowledge karma bitch. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m sure it&#39;s nothing. <a href="https://t.co/iCRppPPjbz">https://t.co/iCRppPPjbz</a></p>&mdash; James Morrow (@pwafork) <a href="https://twitter.com/pwafork/status/1288231614300880896?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I did lota gobble gobble tutorials on the ER model, rel DB, SQL, but
-never showed too many subquerying, mad join-fu. Adding that now, while
-I wait for other stuff.
+Temparature 33.31, but feels like: 31.04? No, bitch. It's 33.31 and
+feels like 40!
 
 ---
 
-Blackpink -- How You Like That \#music
-
-[Link](https://youtu.be/1R6PDeZLThE)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know there’s a hotel in Kawasaki City, Japan that creates <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> from waste plastics to supply about 30% of its energy needs? <a href="https://t.co/NkzaPRQkc7">https://t.co/NkzaPRQkc7</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1288419756874309634?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Kennedy voted for PROMESA, a law that is hollowing out the island of Puerto Rico. I voted against it.<br> <br>The bill revokes Puerto Ricans&#39; fundamental right to self-governance.<br> <br>I kept my promise to the Puerto Rican people. Joe kept his promise to the greedy bondholders. <a href="https://twitter.com/hashtag/MASen?src=hash&amp;ref_src=twsrc%5Etfw">#MASen</a></p>&mdash; Ed Markey (@EdMarkey) <a href="https://twitter.com/EdMarkey/status/1287530399841779712?ref_src=twsrc%5Etfw">July 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+😂😂😂
+
+This is good. 
+
+"@stephanie_murr
+
+Joe Kennedy’s camp is brushing off the Globe endorsement of Ed Markey
+as 'something we fully anticipated' & an example of the establishment
+protecting the status quo for the paper's 'disproportionately white,
+well-off, well-educated readers.'"
+
+[Link](https://twitter.com/stephanie_murr/status/1288441937490575360)
 
 ---
 
-"@clairej_H2
+CEO of the Port of Rotterdam Authority: "\#Hydrogen is the energy
+carrier of the 21st century"
 
-Incredible to see >5GW of announced electrolyser capacity, which based
-on recent @WoodMackenzie analysis represents over half of all global
-commitments"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hearing stories from my friends about this magical covid-free place... called Queensland. It&#39;s meant to be beautiful one day, perfect the next... I hope one day I live to see this incredible place...</p>&mdash; dan nolan (@dannolan) <a href="https://twitter.com/dannolan/status/1287975563894730752?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://www.h2-view.com/story/port-of-rotterdam-the-first-port-to-join-hydrogen-council/)
 
 ---
 
-Hah. A virologist from that Wuhan lab is nicknamed “Bat Woman”.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The reason we say “all cops are bastards” is because you will *never* see a cop speak out publicly against actions like this. They will always side with another cop over you. And until that changes, they’re all just as bad as the worst of them.</p>&mdash; Illy Bocean (@IllyBocean) <a href="https://twitter.com/IllyBocean/status/1288292883389272067?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"The rivalry between Europe and China in emission-free hydrogen
-technologies could become one of the defining business stories in the
-global effort to stop climate change.
+@EFF
 
-Scarred by its painful experience in solar PV manufacturing, which was
-developed in Europe at high cost only to later move to China, Europe
-is not taking any chances with hydrogen.
-
-In a bid to outcompete China and fulfil its ambition to become
-climate-neutral, Europe has launched a massive green hydrogen push to
-decarbonise industry and aviation and secure promising export
-opportunities"
-
-[Link](https://reneweconomy.com.au/europe-vies-with-china-for-clean-hydrogen-superpower-status-89077/amp/)
+Earlier this month, Mexico passed a catastrophic new \#copyright law,
+virtually overnight, without adequate consultation or debate. They did
+it as part of Donald Trump's \#USMCA treaty.
 
 ---
 
-I guess the previous announcement by Power Innovations was for Microsoft. Awesome
+Hah! Max Tegmark says exactly this, "Popper didn't say the totality of
+any theory, but it should lead to stuff that you can test".
 
-"Microsoft tests hydrogen fuel cells for backup power at
-datacenters. In a worldwide first that could jumpstart a long-forecast
-clean energy economy built around the most abundant element in the
-universe, hydrogen fuel cells have powered a row of datacenter servers
-for 48 consecutive hours, Microsoft announced Monday"
+I see Keating shaking his head, like he heard something
+earth-shattering.
 
-[Link](https://news.microsoft.com/innovation-stories/hydrogen-datacenters/)
+That CERN guy too.
 
----
+R u *kidding* me man..? u needed someone to say this?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Infinite Blue Energy has today revealed plans for a network for 17 green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> fuelling stations at key locations on major road transport routes Eastern Australia. <a href="https://t.co/Y2YXXFnBJ1">https://t.co/Y2YXXFnBJ1</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1288012669887361024?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+\#ToE
 
 ---
 
-"The formulation that slavery was tolerated as a necessary evil at the
-time of the Founding, and that the Founders expected
-(overoptimistically) that it was on an inevitable path to extinction,
-is a fairly standard one, and mostly an accurate way of putting the
-more complicated story of Founding-era slavery and anti-slavery into a
-nutshell.... The Founders’ optimism was misplaced. But they *did* have
-a plan; it just didn’t work out the way they expected"
+Theorists should be able to find something testable. Giving up this is
+insane.
 
-[Link](https://www.nationalreview.com/corner/founding-era-antislavery-and-the-overheated-freakout-over-tom-cottons-history-of-slavery/)
+\#ToE
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have a Python joke, but I don&#39;t think this is the right environment.</p>&mdash; Caitlin Hudon 👩🏼‍💻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1287797396471193601?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This guy has to be a Stringer. Nobody is dumb and desparate
+
+\#ToE
 
 ---
 
-Lightning.. what a joke. Layers upon layers of crud.
+Guy is questioning Popper bcz whatever theory he is peddling cannot
+produce anything testable I bet. 
 
-Bitcoin is the COBOL of cryptocurrencies? 😶
-
-"@patrickluberus
-
-The Bitcoin LightningNetwork subreddit over the last 24 hours. Just
-use Nano"
-
-<img width="340" src="https://pbs.twimg.com/media/Ed-tB2uX0AAw1DH?format=jpg&name=medium"/>
+\#ToE
 
 ---
 
-*Last updated 2020-07-28 19:42*
+Watching Theory of Everything the live stream
+
+\#theoryOfEverything
+
+[Link](https://youtu.be/_izocEgArtQ)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Microsoft used <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> to power a data center for two days straight and is considering the possibility of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered long-haul vehicles to reach its carbon-neutral goals: <a href="https://t.co/eEkQkvxGTE">https://t.co/eEkQkvxGTE</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1288139458563510274?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Remember when a Google search used to lead you somewhere? <br><br>Now it increasingly just keeps you on Google. In fact, Google results take up 62.6% of the first screen of search results in a sample of 15,000 searches.<a href="https://t.co/6bUqEjE29o">https://t.co/6bUqEjE29o</a></p>&mdash; Julia Angwin (@JuliaAngwin) <a href="https://twitter.com/JuliaAngwin/status/1288082865432002560?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Amidst the coronavirus pandemic, McPhy has reported a strong
+commercial dynamic and increased cash flow as it shares its results
+for the first half of the year.
+
+The French hydrogen company today reported a revenue increase of 24%
+compared to the first half of 2019, rising to €5.4m, without
+jeopardising the medium-term growth outlook"
+
+[Link](https://www.h2-view.com/story/mcphy-reports-half-year-results/)
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/Ed978F5XsAEv0l6?format=png&name=small"/>
+
+---
+
+"Spanish energy company Iberdrola plans to build a 100 MW solar park,
+a storage facility, and a H2 production station in Puertollano,
+central Spain. The €150 million project is scheduled to be operational
+next year"
+
+[Link](https://www.pv-magazine.com/2020/07/28/europes-largest-solar-storage-hydrogen-project/)
+
+---
+
+*Last updated 2020-07-29 20:28*
 
 ---
 
