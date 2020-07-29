@@ -97,7 +97,7 @@ insane.
 
 ---
 
-This guy has to be a Stringer. Nobody is dumb and desparate
+This guy has to be a Stringer. Nobody is this dumb and desparate
 
 \#ToE
 
