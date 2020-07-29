@@ -1,18 +1,15 @@
 # Right Acting Left
 
-Right can adapt left politics too, but does not refer to it
-excessively. Did this happen in history before?
+Right can adapt left politics too, but they do not refer to it
+excessively. Did this happen in history before? Yes. By a party who
+called itself **Na**tionalso**zi**alistisch.  National socialists of
+Germany.
 
-Yes. By a party who called itself **Na**tionalso**zi**alistisch.
-National socialists of Germany.
-
-"But that's an old debate, later conservatives said 'look Nazis were
-also socialist to bash the left"
-
-Yes yes.. I know all the twists and turns of that polemic... But the
-fact remains, fascists did enact left policies sometimes. It should
-not be surprising, they are trying to help people! (then organize them
-to kill others, but that's later).
+"Well that's an old debate, later conservatives said 'look Nazis were
+also socialist to bash the left". Yes yes.. I know all the twists and
+turns of that polemic... But the fact remains, fascists did enact left
+policies sometimes. It should not be surprising, they are trying to
+help people! (then organize them to kill others, but that's later).
 
 From *Hitler's True Believers*, "Insofar as Hitler had fixed ideas at
 the end of the Great War in 1918, high on the list was nationalism, in
@@ -65,3 +62,4 @@ campaign.
 
 The moral of the story is existing parties, cover all bases, help as
 much as possible bcz if all fails, then you get national socialism.
+
