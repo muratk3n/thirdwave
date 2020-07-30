@@ -39,9 +39,9 @@ Cummins is a leader. Was absolutely thrilled to hear their entry into the market
 
 ---
 
-Looks like control logic is the part that scares flight hobbiests ppl
-the most; the hardware has a certain pull, connecting stuff, then
-there comes control; which I especially like. I'll follow that math to
+Looks like control logic is the part that scares flight hobbiests the
+most; the hardware has a certain pull, connecting stuff, then there
+comes control; which I especially like. I'll follow that math to
 whereever the f it goes -- not kidding.
 
 ---
