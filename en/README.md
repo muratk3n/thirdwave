@@ -8,7 +8,7 @@ Pinned Tweet
 
 hoolllyy shooot brroooo... 
 
-Annunalized GDP growth Q2
+Annunalized GDP growth Q2 %
 
 ```
 2020-04-01   -32.904137
