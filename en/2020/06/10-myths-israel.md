@@ -152,13 +152,15 @@ Hamas began to gain power in the late 1980s, and was responsible for
 religious affairs in the occupied territories, told the Wall Street
 Journal, 'the Hamas, to my great regret, is Israel’s creation.' ...
 
-Palestine was an empty land [when Jews 'came back']. In this story,
-by 1800 Palestine had become a desert, where farmers who did not
-belong there somehow cultivated parched land that was not theirs. The
-same land appeared to be an island, with a significant Jewish
-population .. . Every passing year the land became more barren,
-deforestation increased, and farmland turned to desert. Promoted
-through an official state website this fabricated picture is
+Palestine was an empty land [when Jews 'came back'].
+
+In this story, by 1800 Palestine had become a desert, where farmers
+who did not belong there somehow cultivated parched land that was not
+theirs. The same land appeared to be an island, with a significant
+Jewish population .. . Every passing year the land became more barren,
+deforestation increased, and farmland turned to desert.
+
+Promoted through an official state website this fabricated picture is
 unprecedented. ..  Quite a few [researchers], such as David Grossman
 (the demographer not the famous author), Amnon Cohen, and Yehoushua
 Ben-Arieh, have indeed successfully challenged it. Their research
