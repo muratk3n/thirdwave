@@ -71,7 +71,7 @@ One word is worth thousands of pictures.
 
 ---
 
-Haha he also says pharma needs decision theory was more than it needs
+Haha he also says pharma needs decision theory more than it needs
 "machine learning".
 
 ---
