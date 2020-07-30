@@ -6,8 +6,6 @@ Pinned Tweet
 
 ---
 
-hoolllyy shooot brroooo... 
-
 Annunalized GDP growth Q2 %
 
 ```
