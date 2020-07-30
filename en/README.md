@@ -90,8 +90,8 @@ to fall into; politicians (therefore the people) naturally gravitate
 towards certain blocks bcz of certain optimality. A hard-ass parent,
 tough, strict with their children, would this person be more "work
 till you die" type of person in his economics, or otherwise? The
-categories arise naturally. If this natural division does not exist,
-take that as sa sign of fail in the system.
+categories arise naturally. If the natural categories are not
+followed, take that as sa sign of fail in the system. 
 
 ---
 
