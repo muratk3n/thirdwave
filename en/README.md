@@ -102,7 +102,6 @@ followed, take that as a sign of fail, artificiality in the system.
 ---
 
 Caring less abt the market is left, see [right acting left](2020/07/right-acting-left.md).
-These are empty categorizations. Hollow.
 
 "@arabbitorduck
 
