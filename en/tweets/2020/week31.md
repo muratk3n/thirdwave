@@ -144,7 +144,7 @@ This aint like talking shit on CNN with your American accent is it
 Netan?
 
 "Hamas! Hamas!" he used to say, on US TV, all the time.. Now we know
-Hamas is [their creation](2020/06/10-myths-israel.md#hamas).
+Hamas is [their creation](../../2020/06/10-myths-israel.md#hamas).
 
 ---
 
@@ -164,7 +164,7 @@ Mm.. word is he botched the corona response
 
 ---       
 
-[See](2013/08/great-picture.md) (from 2013). 
+[See](../../2013/08/great-picture.md) (from 2013). 
 
 ---
 
