@@ -86,12 +86,12 @@ Haha he also says pharma needs decision theory was more than it needs
 ---
 
 Noone sits around and defines these nice little categories for people
-to fall into; politicians naturally gravitate towards certain block
-bcz of certain optimality. A hard-ass parent, tough, strict with their
-children, would this person be more "work till you die" type of person
-in his economics, or otherwise? The categories arise naturally. If
-this natural division does not exist, take that as sa sign of fail in
-the system.
+to fall into; politicians (therefore the people) naturally gravitate
+towards certain blocks bcz of certain optimality. A hard-ass parent,
+tough, strict with their children, would this person be more "work
+till you die" type of person in his economics, or otherwise? The
+categories arise naturally. If this natural division does not exist,
+take that as sa sign of fail in the system.
 
 ---
 
