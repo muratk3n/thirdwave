@@ -112,7 +112,7 @@ cares less abt the market]"
 ---
 
 Example of [left acting right](2020/07/left-acting-right.md).
-Corporatism is one of its main tenets. As long as you are wairing a
+Corporatism is one of its main tenets. As long as you are wearing a
 rainbow shirt, have a few black friends, and fighting sexism, racism
 *especially* at a personal level where you are constantly naval gazing
 for someone else's real or imagined past sins, it's okay to let
