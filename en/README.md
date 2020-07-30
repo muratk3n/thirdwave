@@ -85,13 +85,19 @@ Haha he also says pharma needs decision theory was more than it needs
 
 ---
 
+That's more like it
+
+"Right populism sounds like fascism"
+
+---
+
 Noone sits around and defines these nice little categories for people
 to fall into; politicians (therefore the people) naturally gravitate
 towards certain blocks bcz of certain optimality. A hard-ass parent,
 tough, strict with their children, would this person be more "work
 till you die" type of person in his economics, or otherwise? The
 categories arise naturally. If the natural categories are not
-followed, take that as sa sign of fail in the system. 
+followed, take that as sa sign of fail, artificiality in the system. 
 
 ---
 
