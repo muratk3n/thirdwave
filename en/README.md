@@ -6,159 +6,130 @@ Pinned Tweet
 
 ---
 
-Annunalized GDP growth Q2 %
-
-```
-2020-04-01   -32.904137
-```
-
-Ouch.
-
-With net approval -15, and this GDP the conf interval of win prob is
-(24% %38).
-
-If right side was above 50%, candidate wld have some chance. No chance here.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a>’s Trevor Milton Says Future of Trucking Is <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Based <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/EnergyTransition?src=hash&amp;ref_src=twsrc%5Etfw">#EnergyTransition</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> <a href="https://t.co/pr1JMS9GuV">https://t.co/pr1JMS9GuV</a></p>&mdash; BayoTech On-Site Hydrogen Generation (@H2Bayo) <a href="https://twitter.com/H2Bayo/status/1289192357594718210?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@OregonGovBrown
-
-I think we’ve had enough political grandstanding from DC. The
-President’s plan to "dominate" the streets of American cities has
-failed. And today, federal troops are preparing to leave downtown
-Portland. We will protect free speech and the right to protest
-peacefully"
+Diana remote mind attack. Doesnt work.
 
 ---
 
-Cummins is a leader. Was absolutely thrilled to hear their entry into the market.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen fuel cell power marks the latest entry in our portfolio of power solutions. Check out the latest in <a href="https://twitter.com/FreightWaves?ref_src=twsrc%5Etfw">@FreightWaves</a> and learn how hydrogen has the potential to transform mobility and fueling infrastructure to make fuel cells accessible on a large scale. <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://t.co/u1qKZUbYOP">https://t.co/u1qKZUbYOP</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1288888543188746247?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Data replica is dropped somewhere. In ST scifi Datas are hard to come by. HTF? 
 
 ---
 
-Looks like control logic is the part that scares flight hobbiests the
-most; the hardware has a certain pull, connecting stuff, then there
-comes control; which I especially like. I'll follow that math to
-whereever the f it goes -- not kidding.
+That's the thing abt this movie; nothing connects. Shinz all good all
+of a sudden turns evil. \#nemesis
 
 ---
 
-Then copy over ur public key to `.ssh` and u get passwordless
-login, remote script ex.
+No build up for the fight between Number 1's. Except some maddogging
+from Riker literally seconds before they start fighting
+
+\#fail \#nemesis
 
 ---
 
-First thing I do with Pi is enabling SSH and switch to "headless"
-mode; no display. Remote connect from diff machine and type away... No
-clickety click...
-
-One word is worth thousands of pictures.
+"US oil company signs deal with Syrian Kurds"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doing some research tonight &amp; stumbled onto this story of <a href="https://twitter.com/EdMarkey?ref_src=twsrc%5Etfw">@EdMarkey</a> being one of the few Dems who had the guts to stand up to Wall Street. <br><br>“Markey could bid fair claim to being farther ahead of the curve on the financial crisis than almost any elected official in Washington.” <a href="https://t.co/2oziHO9wrS">pic.twitter.com/2oziHO9wrS</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1288700118657507328?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+New scifi show idea: *Young Picard*, starring Tom Hardy.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The subtext of this hearing is that the Justice Department&#39;s antitrust division hasn&#39;t done its job for a very long time. <a href="https://t.co/9S3gI1u0UV">https://t.co/9S3gI1u0UV</a></p>&mdash; Binyamin Appelbaum (@BCAppelbaum) <a href="https://twitter.com/BCAppelbaum/status/1288582660038811649?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyundai Motors Delivers Hydrogen <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Powered Bus to Jeonju City-<a href="https://twitter.com/Hyundai_Global?ref_src=twsrc%5Etfw">@Hyundai_Global</a> plans to supply <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> buses to transportation companies operating in Jeonju, including Jeonju Express &amp; Honam <a href="https://t.co/EPqpxEpcGB">https://t.co/EPqpxEpcGB</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1288859650843119616?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"It also needs people who know how to develop long-term datasets..."
+"The Institute for Advanced Composites Manufacturing Innovation (IACMI)
+is set to receive $2.7m from the US Department of Energy (DOE) to
+develop and validate technology that will reduce the cost of
+manufacturing high-performance carbon fibre to make composite natural
+gas or hydrogen fuel tanks to power cars and trucks"
+
+[Link](https://www.h2-view.com/story/iacmi-receives-grant-for-hydrogen-tank-development/)
 
 ---
 
-Haha he also says pharma needs decision theory more than it needs
-"machine learning".
+😂😂😂
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“It sends a concerning message to businesses and investors that the Australian government will intervene instead of letting the market work,” Mel Silva, managing director of Google Australia and New Zealand, said in a statement.<br><br>Hilarious.<a href="https://t.co/G7N3kyRg5D">https://t.co/G7N3kyRg5D</a></p>&mdash; Alec Thomas (@alecthomas) <a href="https://twitter.com/alecthomas/status/1289122725215125505?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A+🤩⭐️🌟 for including &quot;blockchain&quot;. <a href="https://t.co/00Vml25DcQ">https://t.co/00Vml25DcQ</a></p>&mdash; Krzysztof Sakrejda (@sakrejda) <a href="https://twitter.com/sakrejda/status/1288623081603440640?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Europe Looks To Become The Global Leader In Hydrogen"
+
+[Link](https://oilprice.com/Alternative-Energy/Fuel-Cells/Europe-Looks-To-Become-The-Global-Leader-In-Hydrogen.amp.html?__twitter_impression=true)
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i&#39;m tired of designing i don&#39;t want to solve problems anymore i want to create them</p>&mdash; joanne (@joannemagbits) <a href="https://twitter.com/joannemagbits/status/1288352101261881344?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-That's more like it
-
-"Right populism sounds like fascism"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/hazergroupltd?ref_src=twsrc%5Etfw">@hazergroupltd</a> today revealed that its Board has approved the final investment decision to proceed with its biogas to green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production facility, to be located in Western Australia. <a href="https://t.co/NTKAd4nMzo">https://t.co/NTKAd4nMzo</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1289101881378250752?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Noone sits around and defines these nice little categories for people
-to fall into; politicians (therefore the people) naturally gravitate
-towards certain blocks bcz of certain optimality. A hard-ass parent,
-tough, strict with their children, would this person be more "work
-till you die" type of person in his economics, or otherwise? The
-categories arise naturally. If the natural categories are not
-followed, take that as a sign of fail, artificiality in the system. 
+People are fickle, mostly stupid abt politics, they only care abt
+themselves -- which is fine, representetive democracy works just fine
+this way.
+
+So understand..? No. UK electorate could have 'understood' WWII
+situation and vote for the guy who won it, but they
+didn't. Churchill's ass was grass.
+
+The decision for a candidate is in general terms, a combo of 'how am I
+doing', 'do I like this guy', and 'did he stay too long'. 
+
+"Shouldn't people 'understand' that there was a pandemic which
+effected econ and not care abt the GDP fall, still vote for Trump?"
 
 ---
 
-Caring less abt the market is left, see [right acting left](2020/07/right-acting-left.md).
+"@sakrejda
 
-"@arabbitorduck
-
-Right-wing populism? I'll take it [he shared a graph which shows it
-cares less abt the market]"
+Why do companies post positions that are \*clearly\* a terrible match
+for ML/AI and \*specifically\* ask for ML/AI?"
 
 ---
 
-They were MIA. Example of [left acting right](2020/07/left-acting-right.md).
-Corporatism is one of its main tenets. As long as you are wearing a
-rainbow shirt, have a few black friends, and fighting "sexism", "racism"
-*especially* at a personal level where you are constantly naval gazing
-for someone else's real or imagined past sins, it's okay to let
-corporations buy America.
-
-"Where was Clinton's DOJ abt that lady spilling coffee on herself"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NextEra utility Florida Power &amp; Light is proposing a $65 million, 20 MW electrolysis project to make &quot;green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>&quot; from <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> electricity <a href="https://t.co/t5ijPGrJjx">https://t.co/t5ijPGrJjx</a></p>&mdash; JesseJenkins (@JesseJenkins) <a href="https://twitter.com/JesseJenkins/status/1288863648505569280?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@prosehaikus
+"@drvox
 
-'Reagan Foundation asks Trump and RNC to stop using Ronald Reagan's
-name in campaign.'
-
-Those of us who voted for Reagan second that emotion"
-
----
-
-Al Gore probably invented that too
-
-"@EFF
-
-Tim Cook said before the app store, software was distributed on 'CDs
-[that] had to be shipped.'
-
-Apple didn’t invent Internet distribution"
+Herman Cain mocked masks & mask mandates. Then he went to a Trump
+event with no masks, caught the coronavirus, and died. We shouldn't be
+insensitive -- there's nothing funny about it -- but we also shouldn't
+ignore the fact that ..  ignorance is getting people killed"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes correlation is causation. <a href="https://t.co/ydeX0PmG16">pic.twitter.com/ydeX0PmG16</a></p>&mdash; Leo Sadovy (@leosadovy) <a href="https://twitter.com/leosadovy/status/1288544838812655617?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width=340" src="https://www.dropbox.com/s/w6sjqlquqta1ush/devil1.gif?dl=1"/>
+     
+---
+
+Need to change the old bih for a new bih
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For thousands of years, humans have relied on agriculture for food. Our Earth is already stretched to breaking point, and to feed all 9 billion of us by 2050, we need a real <a href="https://twitter.com/hashtag/transformation?src=hash&amp;ref_src=twsrc%5Etfw">#transformation</a>.<br><br>It is time to tell a new story of food production. <a href="https://t.co/3SlFaVY723">https://t.co/3SlFaVY723</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1283287506683932672?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Wil Smith. Daam.
 
 ---
 
-"@OregonGovBrown
+Seems to work
 
-After my discussions with VP Pence and others, the federal government
-has agreed to withdraw federal officers from Portland. They have acted
-as an occupying force & brought violence. Starting tomorrow, all
-Customs and Border Protection & ICE officers will leave downtown
-Portland"
+<img width="340" src="https://pbs.twimg.com/media/EeNFSO4XoAEd9jK?format=png&name=small"/>
 
 ---
 
+Saw in post from 08, draw the symbol get the LaTeX symbol. Site still
+up
 
-*Last updated 2020-07-30 21:08*
+[Link](https://detexify.kirelabs.org/classify.html)
+
+---
+
+*Last updated 2020-07-31 17:31*
 
 ---
 
