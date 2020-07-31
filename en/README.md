@@ -6,6 +6,10 @@ Pinned Tweet
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> will be key in the future <a href="https://twitter.com/hashtag/energysector?src=hash&amp;ref_src=twsrc%5Etfw">#energysector</a>, a truly clean alternative for natural gas + transportation fuels. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a>’s unique advantages make it an especially attractive investment opportunity for <a href="https://twitter.com/hashtag/heavyduty?src=hash&amp;ref_src=twsrc%5Etfw">#heavyduty</a> vehicles, &amp; the world is beginning to notice<a href="https://t.co/UVLCUtOxW7">https://t.co/UVLCUtOxW7</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1287755192247689224?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@BCAppelbaum
 
 The final $600 payments are for the week ending July 25. Nobody's
