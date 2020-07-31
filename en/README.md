@@ -15,7 +15,7 @@ Diana remote mind attack. Doesnt work.
 ---
 
 Data replica is dropped somewhere. In ST arent Datas hard to come
-by/
+by?
 
 ---
 
@@ -43,9 +43,9 @@ New scifi show idea: *Young Picard*, starring Tom Hardy.
 
 ---
 
-"The Institute for Advanced Composites Manufacturing Innovation (IACMI)
-is set to receive $2.7m from the US Department of Energy (DOE) to
-develop and validate technology that will reduce the cost of
+"The Institute for Advanced Composites Manufacturing Innovation
+(IACMI) is set to receive 2.7m dollar from the US Department of Energy
+(DOE) to develop and validate technology that will reduce the cost of
 manufacturing high-performance carbon fibre to make composite natural
 gas or hydrogen fuel tanks to power cars and trucks"
 
@@ -92,7 +92,7 @@ for ML/AI and \*specifically\* ask for ML/AI?"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NextEra utility Florida Power &amp; Light is proposing a $65 million, 20 MW electrolysis project to make &quot;green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>&quot; from <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> electricity <a href="https://t.co/t5ijPGrJjx">https://t.co/t5ijPGrJjx</a></p>&mdash; JesseJenkins (@JesseJenkins) <a href="https://twitter.com/JesseJenkins/status/1288863648505569280?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NextEra utility Florida Power &amp; Light is proposing a 65 million, 20 MW electrolysis project to make &quot;green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>&quot; from <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> electricity <a href="https://t.co/t5ijPGrJjx">https://t.co/t5ijPGrJjx</a></p>&mdash; JesseJenkins (@JesseJenkins) <a href="https://twitter.com/JesseJenkins/status/1288863648505569280?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
