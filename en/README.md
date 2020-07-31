@@ -77,8 +77,8 @@ So understand..? No. UK electorate could have 'understood' WWII
 situation and vote for the guy who won it, but they
 didn't. Churchill's ass was grass.
 
-The decision for a candidate is in general terms, a combo of 'how am I
-doing', 'do I like this guy', and 'did he stay too long'. 
+The decision to keep the incumbent is in very general terms, a combo
+of 'how am I doing', 'do I like this guy', and 'did he stay too long'.
 
 "Shouldn't people 'understand' that there was a pandemic which
 effected econ and not care abt the GDP fall, still vote for Trump?"
