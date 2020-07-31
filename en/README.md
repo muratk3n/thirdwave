@@ -70,7 +70,7 @@ gas or hydrogen fuel tanks to power cars and trucks"
 ---
 
 People are fickle, mostly stupid abt politics, they only care abt
-themselves -- which is fine, representetive democracy works just fine
+themselves -- which is fine, representative democracy works just fine
 this way.
 
 So understand..? No. UK electorate could have 'understood' WWII
