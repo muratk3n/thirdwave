@@ -14,7 +14,8 @@ Diana remote mind attack. Doesnt work.
 
 ---
 
-Data replica is dropped somewhere. In ST scifi Datas are hard to come by. HTF? 
+Data replica is dropped somewhere. In ST arent Datas hard to come
+by/
 
 ---
 
