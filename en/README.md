@@ -12,8 +12,8 @@ Pinned Tweet
 
 "@BCAppelbaum
 
-The final $600 payments are for the week ending July 25. Nobody's
-getting $600 for being unemployed this week. And even if Congress
+The final D600 payments are for the week ending July 25. Nobody's
+getting D600 for being unemployed this week. And even if Congress
 passed a new deal today, it would take weeks for the money to start
 reaching the unemployed"
 
