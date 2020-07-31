@@ -19,14 +19,14 @@ Data replica is dropped somewhere. In ST scifi Datas are hard to come by. HTF?
 ---
 
 That's the thing abt this movie; nothing connects. Shinz all good all
-of a sudden turns evil. \#nemesis
+of a sudden turns evil. 
 
 ---
 
 No build up for the fight between Number 1's. Except some maddogging
 from Riker literally seconds before they start fighting
 
-\#fail \#nemesis
+\#fail \#nemesis \#trek
 
 ---
 
