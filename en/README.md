@@ -111,7 +111,7 @@ Seems to work
 
 ---
 
-Saw in post from 08, draw the symbol get the LaTeX symbol. Site still
+Saw in post from 08, draw the symbol get the LaTeX code for it. Site still
 up
 
 [Link](https://detexify.kirelabs.org/classify.html)
