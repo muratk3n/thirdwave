@@ -105,18 +105,6 @@ ignore the fact that ..  ignorance is getting people killed"
 
 ---
 
-<img width=340" src="https://www.dropbox.com/s/w6sjqlquqta1ush/devil1.gif?dl=1"/>
-     
----
-
-Need to change the old bih for a new bih
-
----
-
-Wil Smith. Daam.
-
----
-
 Seems to work
 
 <img width="340" src="https://pbs.twimg.com/media/EeNFSO4XoAEd9jK?format=png&name=small"/>
