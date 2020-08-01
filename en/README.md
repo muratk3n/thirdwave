@@ -36,8 +36,6 @@ around' while doing police work"
 
 ---
 
-He just talkin shit..
-
 "Trump cannot postpone the election or the next presidential
 inauguration; he has no means to do either of those things. Those
 dates are set by law or in the text of the Constitution.Nor can Trump
