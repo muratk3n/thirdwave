@@ -6,130 +6,155 @@ Pinned Tweet
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> will be key in the future <a href="https://twitter.com/hashtag/energysector?src=hash&amp;ref_src=twsrc%5Etfw">#energysector</a>, a truly clean alternative for natural gas + transportation fuels. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a>’s unique advantages make it an especially attractive investment opportunity for <a href="https://twitter.com/hashtag/heavyduty?src=hash&amp;ref_src=twsrc%5Etfw">#heavyduty</a> vehicles, &amp; the world is beginning to notice<a href="https://t.co/UVLCUtOxW7">https://t.co/UVLCUtOxW7</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1287755192247689224?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Congress panel concludes GAFA companies [Goog, Amazon, FB, Appl] have
+monopoly power"
+
+[Link](https://youtu.be/9lNrE0YNAho?t=98)
 
 ---
 
-"@BCAppelbaum
-
-The final D600 payments are for the week ending July 25. Nobody's
-getting D600 for being unemployed this week. And even if Congress
-passed a new deal today, it would take weeks for the money to start
-reaching the unemployed"
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a>’s Trevor Milton Says Future of Trucking Is <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Based <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/EnergyTransition?src=hash&amp;ref_src=twsrc%5Etfw">#EnergyTransition</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> <a href="https://t.co/pr1JMS9GuV">https://t.co/pr1JMS9GuV</a></p>&mdash; BayoTech On-Site Hydrogen Generation (@H2Bayo) <a href="https://twitter.com/H2Bayo/status/1289192357594718210?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OFFICIAL: Report into first week of Dublin pedestrianisation trials around Grafton St finds:<br><br>1. Traders&#39; income up 40%-100%.<br><br>2. 96% say it&#39;s improved streets in public survey.<br><br>3. 90%+ say it should be made permanent.<br><br>4: Highest footfall in the area since early March. <a href="https://t.co/RE81DhnEpD">pic.twitter.com/RE81DhnEpD</a></p>&mdash; Michael Pidgeon (@Pidge) <a href="https://twitter.com/Pidge/status/1288870974809677824?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Diana remote mind attack. Doesnt work.
+Wow. BTW tough to encounter such winds away from the oceans. Around
+Medi it's mostly soft winds.. Gentle breeze. That's why ppl sit
+around, eat gabagol, get fat and lazy.
+
+"The strongest sustained winds my body can probably withstand without
+getting blown away is around 100 km/h"
 
 ---
 
-Data replica is dropped somewhere. In ST arent Datas hard to come
-by?
+"On Twitter, Tom Scharpling, an executive producer for Monk, lamented
+that he had 'contributed to the larger acceptance that cops are
+implicitly the good guys.' The former Law & Order: SVU showrunner Neal
+Baer expressed regret [his detective character] 'was smacking people
+around' while doing police work"
+
+[Link](https://www.theatlantic.com/culture/archive/2020/07/the-end-of-the-television-cop/614629/)
 
 ---
 
-That's the thing abt this movie; nothing connects. Shinz all good all
-of a sudden turns evil. 
+He just talkin shit..
+
+"Trump cannot postpone the election or the next presidential
+inauguration; he has no means to do either of those things. Those
+dates are set by law or in the text of the Constitution.Nor can Trump
+somehow cling to power after Inauguration Day once the electoral vote
+is certified against him. If the Electoral College certifies Joe Biden
+the winner when its votes are counted in Washington, D.C., on January
+6, then at noon on January 20, Donald Trump ceases to be president"
+
+[Link](https://www.theatlantic.com/ideas/archive/2020/07/how-2020-election-could-go-wrong/614842/)
 
 ---
 
-No build up for the fight between Number 1's. Except some maddogging
-from Riker literally seconds before they start fighting
-
-\#fail \#nemesis \#trek
+"McConnell signal to Republican Senate candidates: Distance from Trump if necessary"
 
 ---
 
-"US oil company signs deal with Syrian Kurds"
+
+"@thepointsguy
+
+One of the first ships to resume cruising is having a COVID outbreak"
 
 ---
 
-New scifi show idea: *Young Picard*, starring Tom Hardy.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The online advertising practice of real-time bidding spreads our detailed, private information across an array of shadowy companies. We&#39;re glad that ten senators and representatives are calling for an investigation into this common, dangerous, and unregulated practice. <a href="https://t.co/qtwEuPzxDI">pic.twitter.com/qtwEuPzxDI</a></p>&mdash; EFF (@EFF) <a href="https://twitter.com/EFF/status/1289347329498034176?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyundai Motors Delivers Hydrogen <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Powered Bus to Jeonju City-<a href="https://twitter.com/Hyundai_Global?ref_src=twsrc%5Etfw">@Hyundai_Global</a> plans to supply <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> buses to transportation companies operating in Jeonju, including Jeonju Express &amp; Honam <a href="https://t.co/EPqpxEpcGB">https://t.co/EPqpxEpcGB</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1288859650843119616?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did he think it was a hoax to the end? <a href="https://t.co/GL43tNeQ7U">https://t.co/GL43tNeQ7U</a></p>&mdash; Krzysztof Sakrejda (@sakrejda) <a href="https://twitter.com/sakrejda/status/1289258769935990784?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"The Institute for Advanced Composites Manufacturing Innovation
-(IACMI) is set to receive 2.7m dollar from the US Department of Energy
-(DOE) to develop and validate technology that will reduce the cost of
-manufacturing high-performance carbon fibre to make composite natural
-gas or hydrogen fuel tanks to power cars and trucks"
-
-[Link](https://www.h2-view.com/story/iacmi-receives-grant-for-hydrogen-tank-development/)
-
----
-
-😂😂😂
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“It sends a concerning message to businesses and investors that the Australian government will intervene instead of letting the market work,” Mel Silva, managing director of Google Australia and New Zealand, said in a statement.<br><br>Hilarious.<a href="https://t.co/G7N3kyRg5D">https://t.co/G7N3kyRg5D</a></p>&mdash; Alec Thomas (@alecthomas) <a href="https://twitter.com/alecthomas/status/1289122725215125505?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Representative democracy might have some staying power left in it
+yet... The reason wld be ppl disliking eachother more than they
+dislike politicians. I mean, c'mon, would anyone like to be governed,
+even partially, by their next door neighbor who is likely a jagoff?
+The one w the loud dog, or the one who doesnt like dogs.. take your
+pick. Or the one with the f-in .. whatever.
 
 ---
 
-"Europe Looks To Become The Global Leader In Hydrogen"
-
-[Link](https://oilprice.com/Alternative-Energy/Fuel-Cells/Europe-Looks-To-Become-The-Global-Leader-In-Hydrogen.amp.html?__twitter_impression=true)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Throughput (tps) on <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> is limited only by the network infrastructure, find out if the hardware underpinning your node meets the minimum recommended specs in the Nano documentation. <a href="https://t.co/JIl7Yq7bpF">https://t.co/JIl7Yq7bpF</a></p>&mdash; Nano (@nano) <a href="https://twitter.com/nano/status/1289222062674857984?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/hazergroupltd?ref_src=twsrc%5Etfw">@hazergroupltd</a> today revealed that its Board has approved the final investment decision to proceed with its biogas to green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production facility, to be located in Western Australia. <a href="https://t.co/NTKAd4nMzo">https://t.co/NTKAd4nMzo</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1289101881378250752?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stage of feudalism is this? <a href="https://t.co/cCUjLKu1yf">https://t.co/cCUjLKu1yf</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1289243954156728320?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-People are fickle, mostly stupid abt politics, they only care abt
-themselves -- which is fine, representative democracy works just fine
-this way.
-
-So understand..? No. UK electorate could have 'understood' WWII
-situation and vote for the guy who won it, but they
-didn't. Churchill's ass was grass.
-
-The decision to keep the incumbent is in very general terms, a combo
-of 'how am I doing', 'do I like this guy', and 'did he stay too long'.
-
-"Shouldn't people 'understand' that there was a pandemic which
-effected econ and not care abt the GDP fall, still vote for Trump?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Paccar stepping up <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> and <a href="https://twitter.com/hashtag/electric?src=hash&amp;ref_src=twsrc%5Etfw">#electric</a> truck production.&quot; ---&gt; <a href="https://t.co/JjLUC8aukK">https://t.co/JjLUC8aukK</a> <a href="https://t.co/rU9JUJchEc">pic.twitter.com/rU9JUJchEc</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1289234247077650433?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@sakrejda
+Everyone from Joe Biden, the Democrats’ presumptive presidential
+nominee, to Saudi Aramco, the world’s largest oil company, is
+ostensibly on board with hydrogen.
 
-Why do companies post positions that are \*clearly\* a terrible match
-for ML/AI and \*specifically\* ask for ML/AI?"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NextEra utility Florida Power &amp; Light is proposing a 65 million, 20 MW electrolysis project to make &quot;green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>&quot; from <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> electricity <a href="https://t.co/t5ijPGrJjx">https://t.co/t5ijPGrJjx</a></p>&mdash; JesseJenkins (@JesseJenkins) <a href="https://twitter.com/JesseJenkins/status/1288863648505569280?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@drvox
-
-Herman Cain mocked masks & mask mandates. Then he went to a Trump
-event with no masks, caught the coronavirus, and died. We shouldn't be
-insensitive -- there's nothing funny about it -- but we also shouldn't
-ignore the fact that ..  ignorance is getting people killed"
+Biden’s recently expanded climate and energy plan supports using
+renewable energy to make 'carbon-free hydrogen' at the same cost it
+does from making it with natural gas.
 
 ---
 
-Seems to work
+"As the world seeks to rebuild from the coronavirus pandemic, support
+is pouring in for hydrogen energy to cut carbon emissions ....
 
-<img width="340" src="https://pbs.twimg.com/media/EeNFSO4XoAEd9jK?format=png&name=small"/>
+Of the $54 billion in economic stimulus funding approved in countries
+around the world (but mostly Europe) that’s going toward clean energy,
+19% of that is for hydrogen. ...
+
+In just the past month…
+
+The European Union, which is proposing an additional $500 billion or
+more for green energy as part of its recovery, unveiled a sweeping
+hydrogen strategy and targets for hydrogen made from renewable energy.
+
+The U.S.-based conglomerate Air Products & Chemicals announced
+plans to build in Saudi Arabia what it says will be the world’s
+largest hydrogen plant powered by renewable energy.
+
+The U.S. Energy Department announced 64 million worth dollars of
+funding for hydrogen projects earlier this month and plans to invest
+up to 100 million dollar over five years for two new research efforts
+on hydrogen.
+
+'In my view, hydrogen is today where solar was 10 years ago,' Birol
+said. He expects costs to decline as governments grow policies
+supporting it like they did with solar"
+
+[Link](https://www.axios.com/hydrogen-support-growing-5ee4cfbb-ee83-4494-8561-c172467b7e5e.html)
 
 ---
 
-Saw in post from 08, draw the symbol get the LaTeX code for it. Site still
-up
+A few months after Laquan McDonald was murdered by Rahm Emanuel's
+police department, Elon Musk funneled $50,000 to @RahmEmanuel 's
+reelection campaign"
 
-[Link](https://detexify.kirelabs.org/classify.html)
+[Link](https://twitter.com/davidsirota/status/1287838364427673600)
 
 ---
 
-*Last updated 2020-07-31 17:31*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Turkey?src=hash&amp;ref_src=twsrc%5Etfw">#Turkey</a> macro eerily resembles <a href="https://twitter.com/hashtag/Lebanon?src=hash&amp;ref_src=twsrc%5Etfw">#Lebanon</a>. A) Banks saddled with huge $ deposits that are increasingly parked at CB; B) tourism collapse is leading to $ shortages; C) explosive TL liquidity is adding to $ demand; &amp; D) FX intervention is causing negative net reserves. Can’t end well</p>&mdash; Amer Bisat (@abisat) <a href="https://twitter.com/abisat/status/1288949984784781313?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/devil1.gif"/>
+
+---
+
+Switch the old bih for a new bih?
+
+---
+
+Wil Smith. Daam.
+
+---
+
+*Last updated 2020-08-01 16:51*
 
 ---
 
