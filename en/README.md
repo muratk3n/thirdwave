@@ -128,6 +128,8 @@ supporting it like they did with solar"
 
 ---
 
+"@davidsirota
+
 A few months after Laquan McDonald was murdered by Rahm Emanuel's
 police department, Elon Musk funneled $50,000 to @RahmEmanuel 's
 reelection campaign"
