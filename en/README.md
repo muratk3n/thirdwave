@@ -74,7 +74,7 @@ yet... The reason wld be ppl disliking eachother more than they
 dislike politicians. I mean, c'mon, would anyone like to be governed,
 even partially, by their next door neighbor who is likely a jagoff?
 The one w the loud dog, or the one who doesnt like dogs.. take your
-pick. Or the one with the f-in .. whatever.
+pick. 
 
 ---
 
