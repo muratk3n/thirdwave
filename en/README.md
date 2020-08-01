@@ -18,8 +18,7 @@ monopoly power"
 ---
 
 Wow. BTW tough to encounter such winds away from the oceans. Around
-Medi it's mostly soft winds.. Gentle breeze. That's why ppl sit
-around, eat gabagol, get fat and lazy.
+Medi it's mostly soft winds.. Gentle breeze. 
 
 "The strongest sustained winds body can probably withstand without
 getting blown away is around 100 km/h"
