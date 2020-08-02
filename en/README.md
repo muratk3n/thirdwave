@@ -89,8 +89,10 @@ something else but don't want to use that something else in name.
 ---
 
 There is no Judeo-Christian identity in US, there is only Christian
-identity, and specifically Protestan identity. Even atheists or Jews
-or others get it through osmosis.
+identity, and specifically Protestan identity (there are other
+elements in the culture code too, but insofar a religion has effect it
+is Protestanism). Even atheists or Jews or others get it through
+osmosis.
 
 "Except that tradition never existed.The 'Judeo-Christian tradition'
 was one of 20th-century America’s greatest political inventions. An
