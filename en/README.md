@@ -59,7 +59,7 @@ takes huge effort.
 ---
 
 Received the first Github pull request for sci tutorial content. Was
-losing hope there.. no tiggers reading math?
+losing hope there.. niggers in Anatolia cant read math?
 
 ---
 
