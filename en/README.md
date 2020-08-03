@@ -1,128 +1,184 @@
 # Tweets
 
-Pinned Tweet
+The "let the market decide" finance guy who is a Trump
+supporter...
 
-<iframe width="340" src="https://www.youtube.com/embed/a-KWihHnAVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-*Armageddon* movie mistake, liquid oxygen is not a fuel, used in
-conjunction with fuel.
+You were a sucka. You was had son. Don't even deny it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">IOT companies extorting for subscriptions is my new favorite genre <a href="https://t.co/lk0JkNP29C">https://t.co/lk0JkNP29C</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1289893569713643530?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Thrift Shop -- Macklemore & Ryan Lewis ft. Wanz
+
+[Link](https://youtu.be/RN80yiz9VaY?t=25)
 
 ---
 
-Russian couple got stuck in Israel, at least they have a nice view
+😊 😊 🔥 🔥 🔥 
 
-[Link](https://youtu.be/cvq-TGZssy8)
-
----
-
-"@its_willyu
-
-'We came out here in t-shirts, they started gassing us. We came back
-with respirators, they started shooting us. We came back with vests,
-they started aiming for the head... And now they call us
-terrorists. Who’s escalating this? It’s not us.'  @MacSmiff"
-
-[Link](https://twitter.com/its_willyu/status/1288679475366912000)
+Anonymous: "I knew [the recent Twitter hack] was a scam when I saw
+Jeff Bezos saying he was giving back"
 
 ---
 
-Private security firm. Of course.
+People have the wrong idea abt how these people come about. The
+expectation is President "Mountain Dew" Herbert Camacho shows up with
+a machine gun, talks tough, all the time.
 
-[Link](https://youtu.be/sZ7qi-Gka4g?t=77)
+No. After WWI Germany was beaten down, economy in ruins, in a terrible
+state. You can't be like Camacho. Fascist then first says **let me
+help you brother**. Much later it's like let's kill some people over
+there.
 
----
-
-"This just broke my concept of reality"
-
-[Link](https://twitter.com/BFriedmanDC/status/1289283118730534912)
-
----
-
-DJT net popularity "rose" to -13.6%. Could have been due to change in
-general demeanor... Cant keep effin up that badly, that long -- it
-takes huge effort.
+"But I cant believe fascism had some left, leftists in it"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Below. Model-minded <a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> is reluctantly debating: is Hydrogen ready?!. Meanwhile Europe, Asia-Pac have committed. Now, Texas hydrocarbon industry sees inevitability and market size of green molecules (natgas + electrolysis). I guess industry has different models. <a href="https://t.co/Czs6ataVQT">https://t.co/Czs6ataVQT</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1289580730792783875?ref_src=twsrc%5Etfw">August 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Creative destruction: the COVID-19 economic crisis is accelerating the
+demise of fossil fuels"
+
+[Link](https://menafn.com/1100578872/Creative-destruction-the-COVID-19-economic-crisis-is-accelerating-the-demise-of-fossil-fuels)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since she&#39;s the only cat small enough and light enough to shimmy the whole length of our AC duct, Miss Daisy likes to occasionally wake us up with her Die Hard re-enactments. You never heard 4 pounds make so much racket. <a href="https://t.co/oMkk8XAQ5a">pic.twitter.com/oMkk8XAQ5a</a></p>&mdash; Tom and Lorenzo (@tomandlorenzo) <a href="https://twitter.com/tomandlorenzo/status/1289582759233695744?ref_src=twsrc%5Etfw">August 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"There are a myriad of start-ups racing to turn trash into clean
+hydrogen. CA-based Ways2H doesn’t believe we need landfills. With all
+of the waste available throughout the world, they want to use waste as
+the raw feedstock to produce hydrogen, which could power our homes,
+planes, car and more"
+
+[Link](https://www.waste360.com/waste-energy/turning-waste-clean-hydrogen-fuel)
 
 ---
 
-Received the first Github pull request for sci tutorial content. Was
-losing hope there.. niggers in Anatolia cant read math?
+"@zerohedge
+
+ByteDance Caves To Trump, Agrees To Sell 100% Of TikTok To Microsoft"
 
 ---
 
-"Trevor Milton Featured on Barron's Roundtable"
-
-[Link](https://youtu.be/nbrgQj4xlbk?t=288)
-
----
-
-600 million 😶
-
-"Daimler and Volvo truck divisions partner on fuel cells. As part of
-the deal, Daimler will invest its current fuel cell technology in the
-joint venture while Volvo Group will invest 600 million euros
-(approximately $652 million), with each entity receiving a 50-percent
-stake. Daimler already has a fuel cell vehicle in production, in this
-case the Mercedes-Benz GLC F-Cell"
-
-[Link](https://www.motorauthority.com/news/1128008_daimler-and-volvo-truck-divisions-partner-on-fuel-cells)
+Automatic silencing is suboptimal along with "autopilot defense" for
+someone quitting, or losing their job. Dont silence Alex Jones,
+Zerohedge. But that jerkoff bio guy at Google had it coming.
 
 ---
 
-People will pull any ol' category out of their ass wout checking if it
-really fits. Like "populism" when they need something that is like
-something else but don't want to use that something else in name.
+Not being a fit to where you work and feeling the heat is not being
+canceled. Like that little girl whatshername at NYT or Ellen probably
+after she was seen too buddy-buddy W.
+
+"Watching the \#CancelCulture mob turn on @TheEllenShow"
 
 ---
 
-There is no Judeo-Christian identity in US, there is only Christian
-identity, and specifically Protestan identity (there are other
-elements in the culture code too, but insofar a religion has effect it
-is Protestanism). Even atheists or Jews or others get it through
-osmosis.
+"UNSW condemned for deleting posts critical of Beijing"
 
-"Except that tradition never existed.The 'Judeo-Christian tradition'
-was one of 20th-century America’s greatest political inventions. An
-ecumenical marketing meme for combatting godless communism, the
-catchphrase long did the work of animating American conservatives in
-the Cold War battle. For a brief time, canny liberals also embraced
-the phrase as a rhetorical pathway of inclusion into postwar American
-democracy for Jews, Catholics, and Black Americans. In a world divided
-by totalitarianism abroad and racial segregation at home, the notion
-of a shared American religious heritage promised racial healing and
-national unity. ... American Jews themselves were reluctant
-adopters. After centuries of Christian anti-Semitic persecution and
-philo-Semitic fantasies of Jewish conversion, many eyed the award of
-an honorary hyphen with suspicion. Even some anti-communist
-politicians themselves recognized the concept as ill-suited to
-America’s postwar quest for global primacy in a decolonizing world.The
-mythical 'Judeo-Christian tradition,' then, proved an unstable
-foundation on which to build a common American identity"
-
-[Link](https://www.theatlantic.com/ideas/archive/2020/08/the-judeo-christian-tradition-is-over/614812/)
+[Link](https://www.smh.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html)
 
 ---
 
-Bcz of health insurance she says.. time to take employers out of that loop.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am here to report that whatever insane bureaucratic procedure you have to go through as an employee is 10x worse as an employer</p>&mdash; alice maz (@alicemazzy) <a href="https://twitter.com/alicemazzy/status/1289382646372380672?ref_src=twsrc%5Etfw">August 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Masks are for sheep” says man after recently hearing same statement from other man</p>&mdash; MalwareTech (@MalwareTechBlog) <a href="https://twitter.com/MalwareTechBlog/status/1290130463193837568?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-*Last updated 2020-08-01 16:51*
+This is all very simple you see. It truly takes an imbecile to make
+this stuff harder than it is.
+
+---
+
+British.
+
+"Marcus Hutchins in that pic looks mixed race, what is he?"
+
+---
+
+There are no foreigners in US past 0'th generation. 0 is the boat
+obviously. 1st, 2nd, etc. are basically American. So you are not
+Polak. You are not even dash something dash something. There is
+nothing before the dash for you.
+
+You don't even get the dash.
+
+You don't deserve the dash.
+
+"I am second generation Polak [in US]"
+
+---
+
+You will never be a Republican Trump. At the first sign of trouble,
+they'll do away with you. They want to whole spiel not this grab-bag
+of hot-button stuff. They created those themselves to distinquish the
+party from the fucking liberals!
+
+---
+
+.. saz the guy who ran on not cutting Medicare, Social Security, asks
+companies "not to fire workers', and talks about ending wars.
+
+"President Trump on the 'Biden-Sanders Manifesto'"
+
+---
+
+Hiding his part leftism behind "money concerns" so it becomes more
+palatable to Republicans. Talk to the hand ✋
+
+"Citing 'bills,' Trump sets troop exit from Germany"
+
+---
+
+Paul Giamatti played King John too? In a movie abt events surrounding
+the signing of Magna Carta. This guy is everywhere.
+
+---
+
+OPDDUDPRAUDP
+
+"@HayesBrown
+
+Tata 'has been designated as the official Performing the Duties of the
+Deputy Undersecretary of Defense for Policy reporting to the Acting
+Undersecretary of Defense for Policy Dr. James Anderson.'"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">has george w bush been canceled for being friends with ellen</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1290040753612181504?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Love that story with FB ppl at Davos with other media comps when they
+heard about the formula used to rank them and they lost their shit and
+FB lost theirs bcz they did. Boundless fail.
+
+---
+
+Here's the news headline I was looking for in my news feed: "Congress
+panel concludes GAFA companies have monopoly power". *France 24* had a
+*video* with this title, but noone had the text thing. Corporatized
+news dissing news on monopoly perhaps? At the same time they don't
+like Facebook, they could used this chance to flame them.
+
+---
+
+That was a great story. 
+
+"The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet"
+
+<img width="230" src="https://cacm.acm.org/system/assets/0003/7237/051220_Ramona_Rosales_Marcus_Hutchins.large.jpg"/>
+
+[Link](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/)
+
+---
+
+Doesn't work. Neither side trusts you, and you end up being hated by
+both. You could say Macron tried this in France, do some left, do some
+right, but make one wrong move, ppl dont like your style, you end up
+with protests ad-infinitum.
+
+"Okay, so dont be lukewarm center, but why can't you mix and match
+clear policies boths sides?"
+
+---
+
+*Last updated 2020-08-03 14:52*
 
 ---
 
