@@ -106,7 +106,7 @@ converted back to hydrogen. Ammonia production is expected to start in
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EcdreWjXsAA9f_t?format=jpg&name=small"/>
+<img width="340" src="quint-facepalm.jpg"/>
 
 ---
 
