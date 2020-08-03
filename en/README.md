@@ -7,7 +7,7 @@ You were a sucka. You was had son. Don't even deny it.
 
 ---
 
-Thrift Shop -- Macklemore & Ryan Lewis ft. Wanz
+Thrift Shop -- Macklemore & Ryan Lewis ft. Wanz \#music
 
 [Link](https://youtu.be/RN80yiz9VaY?t=25)
 
