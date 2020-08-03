@@ -159,7 +159,7 @@ That was a great story.
 
 "The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet"
 
-<img width="1500" src="https://cacm.acm.org/system/assets/0003/7237/051220_Ramona_Rosales_Marcus_Hutchins.large.jpg"/>
+<img width="150" src="https://cacm.acm.org/system/assets/0003/7237/051220_Ramona_Rosales_Marcus_Hutchins.large.jpg"/>
 
 [Link](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/)
 
