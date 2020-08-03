@@ -171,7 +171,7 @@ right, but make one wrong move, ppl dont like your style, you end up
 with protests ad-infinitum.
 
 "Okay, so dont be lukewarm center, but why can't you mix and match
-clear policies boths sides?"
+clear policies from both sides?"
 
 ---
 
