@@ -108,8 +108,9 @@ party from the fucking liberals!
 
 ---
 
-.. saz the guy who ran on not cutting Medicare, Social Security, asks
-companies "not to fire workers', and talks about ending wars.
+.. saz the guy who ran on not cutting Medicare, Social Security,
+regularly asks companies "not to fire workers', and talks about ending
+wars.
 
 "President Trump on the 'Biden-Sanders Manifesto'"
 
