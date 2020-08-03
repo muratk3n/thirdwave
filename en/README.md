@@ -94,11 +94,8 @@ British.
 There are no foreigners in US past 0'th generation. 0 is the boat
 obviously. 1st, 2nd, etc. are basically American. So you are not
 Polak. You are not even dash something dash something. There is
-nothing before the dash for you.
-
-You don't even get the dash.
-
-You don't deserve the dash.
+nothing before the dash for you. You don't even get the dash. You
+don't deserve the dash.
 
 "I am second generation Polak [in US]"
 
@@ -119,7 +116,7 @@ companies "not to fire workers', and talks about ending wars.
 ---
 
 Hiding his part leftism behind "money concerns" so it becomes more
-palatable to Republicans. Talk to the hand ✋
+palatable to Republicans. Here's the hand ✋
 
 "Citing 'bills,' Trump sets troop exit from Germany"
 
