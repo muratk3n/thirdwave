@@ -151,7 +151,7 @@ Here's the news headline I was looking for in my news feed: "Congress
 panel concludes GAFA companies have monopoly power". *France 24* had a
 *video* with this title, but noone had the text thing. Corporatized
 news dissing news on monopoly? At the same time they don't like
-Facebook, they could used this chance to flame them.
+Facebook, they could have used this chance to flame them.
 
 ---
 
