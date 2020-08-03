@@ -20,7 +20,7 @@ Jeff Bezos saying he was giving back"
 
 ---
 
-People have the wrong idea abt how these people come about. The
+People have the wrong idea abt how these fascists come to power. The
 expectation is President "Mountain Dew" Herbert Camacho shows up with
 a machine gun, talks tough, all the time.
 
