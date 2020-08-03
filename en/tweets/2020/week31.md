@@ -218,7 +218,7 @@ followed, take that as a sign of fail, artificiality in the system.
 
 ---
 
-Caring less abt the market is left, see [right acting left](2020/07/right-acting-left.md).
+Caring less abt the market is left, see [right acting left](../../2020/07/right-acting-left.md).
 
 "@arabbitorduck
 
@@ -227,7 +227,7 @@ cares less abt the market]"
 
 ---
 
-They were MIA. Example of [left acting right](2020/07/left-acting-right.md).
+They were MIA. Example of [left acting right](../../2020/07/left-acting-right.md).
 Corporatism is one of its main tenets. As long as you are wearing a
 rainbow shirt, have a few black friends, and fighting "sexism", "racism"
 *especially* at a personal level where you are constantly naval gazing

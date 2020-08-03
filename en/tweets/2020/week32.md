@@ -1,7 +1,5 @@
 # Week 32
 
----
-
 "Congress panel concludes GAFA companies [Goog, Amazon, FB, Appl] have
 monopoly power"
 
