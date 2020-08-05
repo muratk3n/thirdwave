@@ -24,9 +24,9 @@ with the Times, but the Times believes it is competing with them"
 ---
 
 The problem probably was over-compartmentalization. "SR is too
-advanced", or "it's in this other bucket". I beg to differ. All u had
-to do was referring to speed and length contraction. Then EM would
-become crystal clear.
+advanced", or "it's in this other bucket". He cld refer to elements of
+the bucket wout being mired in it, just refer to speed and length
+contraction. The bonus is EM becomes crystal clear.
 
 ---
 
