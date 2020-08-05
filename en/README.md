@@ -107,8 +107,8 @@ to. And Bernie calls himself a socialist. What does that make Trump?
 
 (Hint: not a "right populist")
 
-"During Dem primaries Trump bashed everyone a lot except Bernie. I
-think he likes Bernie"
+"During Dem primaries, even before 2016 Trump bashed everyone a lot
+except Bernie. I think he likes Bernie"
 
 ---
 
