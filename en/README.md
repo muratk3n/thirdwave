@@ -1,182 +1,165 @@
 # Tweets
 
-The "let the market decide" finance guy who is a Trump
-supporter...
 
-You were a sucka. You was had son. Don't even deny it.
 
----
+EEEEVERY HAMLET 😶 😶 😶 
 
-Thrift Shop -- Macklemore & Ryan Lewis ft. Wanz \#music
-
-[Link](https://youtu.be/RN80yiz9VaY?t=25)
-
----
-
-😊 😊 🔥 🔥 🔥 
-
-Anonymous: "I knew [the recent Twitter hack] was a scam when I saw
-Jeff Bezos saying he was giving back"
+NYT 2013: "Our long-term strategy is to operate the leading news and
+advertising media in each of the markets in which we compete—both
+nationally and locally. The centerpiece of this strategy is extending
+the reach of the New York Times’s high-quality journalism into homes
+and businesses in every city, town, village and hamlet of this
+country"
 
 ---
 
-People have the wrong idea abt how these fascists come to power. The
-expectation is President "Mountain Dew" Herbert Camacho shows up with
-a machine gun, talks tough, all the time.
+"[NYT] has six million subscribers, almost D700 million in cash in the
+bank, and a singular insight that underpins the Times’ path forward:
+the average number of news subscriptions a news subscriber will have
+is one. ...  Local publishers may not believe that they are competing
+with the Times, but the Times believes it is competing with them"
 
-No. After WWI Germany was beaten down, economy in ruins, in a terrible
-state. You can't be like Camacho. Fascist then first says **let me
-help you brother**. Much later it's like let's kill some people over
-there.
-
-"But I cant believe fascism had some left, leftists in it"
+[Link](https://www.cjr.org/analysis/nytimes-subscriptions-local-publishers-compete.php)
 
 ---
 
-"Creative destruction: the COVID-19 economic crisis is accelerating the
-demise of fossil fuels"
-
-[Link](https://menafn.com/1100578872/Creative-destruction-the-COVID-19-economic-crisis-is-accelerating-the-demise-of-fossil-fuels)
+Sci teaching is in a terrible state. No wonder physics is stuck.
 
 ---
 
-"There are a myriad of start-ups racing to turn trash into clean
-hydrogen. CA-based Ways2H doesn’t believe we need landfills. With all
-of the waste available throughout the world, they want to use waste as
-the raw feedstock to produce hydrogen, which could power our homes,
-planes, car and more"
-
-[Link](https://www.waste360.com/waste-energy/turning-waste-clean-hydrogen-fuel)
+Yes the right-hand-rule biz is helpful for plug-n-chug computation,
+but need to mention special relativity while explaining
+electromagnetism. Talking to you Resnick. "Particle gets pushed when
+it moves". Why? See SR.
 
 ---
 
-"@zerohedge
-
-ByteDance Caves To Trump, Agrees To Sell 100% Of TikTok To Microsoft"
-
----
-
-Automatic silencing is suboptimal along with "autopilot defense" for
-someone quitting, or losing their job. Dont silence Alex Jones,
-Zerohedge. But that jerkoff bio guy at Google had it coming.
+Installing `virtualenv`, `numpy` on this tiny little board.. feels
+weird.
 
 ---
 
-Not being a fit to where you work and feeling the heat is not being
-canceled. Like that little girl whatshername at NYT or Ellen probably
-after she was seen too buddy-buddy W.
+"@SeamusHughes
 
-"Watching the \#CancelCulture mob turn on @TheEllenShow"
-
----
-
-"UNSW condemned for deleting posts critical of Beijing"
-
-[Link](https://www.smh.com.au/politics/federal/craven-cowardice-unsw-condemned-for-deleting-posts-critical-of-beijing-20200803-p55hy5.html)
+My twitter feed is just a series of newly minted explosive experts who
+until this morning were viral disease experts"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Masks are for sheep” says man after recently hearing same statement from other man</p>&mdash; MalwareTech (@MalwareTechBlog) <a href="https://twitter.com/MalwareTechBlog/status/1290130463193837568?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@SohrabAhmari
+
+'Fireworks factory' is Mideast-Speak for Hezbollah precision-rocket storage depot"
 
 ---
 
-This is all very simple you see. It truly takes an imbecile to make
-this stuff harder than it is.
+BBC News - Large blast rocks Beirut ahead of Hariri verdict
 
 ---
 
-British.
+Probably nothing
 
-"Marcus Hutchins in that pic looks mixed race, what is he?"
-
----
-
-There are no foreigners in US past 0'th generation. 0 is the boat
-obviously. 1st, 2nd, etc. are basically American. So you are not
-Polak. You are not even dash something dash something. There is
-nothing before the dash for you. You don't even get the dash. You
-don't deserve the dash.
-
-"I am second generation Polak [in US]"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Footage from the massive explosion in Beirut Port, Lebanon <a href="https://t.co/bdvzrS05Qf">pic.twitter.com/bdvzrS05Qf</a></p>&mdash; Beirut Today (@bey_today) <a href="https://twitter.com/bey_today/status/1290670725129371648?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-You will never be a Republican Trump. At the first sign of trouble,
-they'll do away with you. They want to whole spiel not this grab-bag
-of hot-button stuff. They created those themselves to distinquish the
-party from the fucking liberals!
+Forgot A Baldwin was in this movie. 
+
+\#idday
 
 ---
 
-.. saz the guy who ran on not cutting Medicare, Social Security,
-regularly asks companies "not to fire workers', and talks about ending
-wars.
+Action, scifi movies have been a great source of employment for Arabic
+people. Need a bad guy with an accent? Talk to Habib
 
-"President Trump on the 'Biden-Sanders Manifesto'"
-
----
-
-Hiding his part leftism behind "money concerns" so it becomes more
-palatable to Republicans. Here's the hand ✋
-
-"Citing 'bills,' Trump sets troop exit from Germany"
+\#idday
 
 ---
 
-Paul Giamatti played King John too? In a movie abt events surrounding
-the signing of Magna Carta. This guy is everywhere.
+Haha the Arabic guy is the same one in both \#idday and *Iron Man*,
+playing the same sort of character. 
+
+\#idday
 
 ---
 
-OPDDUDPRAUDP
-
-"@HayesBrown
-
-Tata 'has been designated as the official Performing the Duties of the
-Deputy Undersecretary of Defense for Policy reporting to the Acting
-Undersecretary of Defense for Policy Dr. James Anderson.'"
+Mobile computing setup idea.. Rpi for everything, number crunching,
+even provides editor, I `ssh` into it through Termux on the
+phone. Talkin VT100 level shit here, but toolz ready for it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">has george w bush been canceled for being friends with ellen</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1290040753612181504?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+👍 👍 
+
+Prof Erica Carlson: "In this physics class you won't be expected to
+memorize equations .. this is the information age, you could always
+look up information.  [I]nformation is no longer power, it's knowing
+what to do with the information"
 
 ---
 
-Love that story with FB ppl at Davos with other media comps when they
-heard about the formula used to rank them and they lost their shit and
-FB lost theirs bcz they did. Boundless fail.
+Here's [Tucker](https://youtu.be/G1UpFHsbOf0?t=1217). Why did he feel
+the need to say "he is not some secret socialist".
 
 ---
 
-Here's the news headline I was looking for in my news feed: "Congress
-panel concludes GAFA companies have monopoly power". *France 24* had a
-*video* with this title, but noone had the text thing. Corporatized
-news dissing news on monopoly? At the same time they don't like
-Facebook, they could have used this chance to flame them.
+That's right, bcz there things in Bernie's ideology he feels close
+to. And Bernie calls himself a socialist. What does that make Trump?
+
+(Hint: not a "right populist")
+
+"During Dem primaries Trump bashed everyone a lot except Bernie. I
+think he likes Bernie"
 
 ---
 
-That was a great story. 
+"@JoSamps92
 
-"The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet"
+New figures published today by @energynetworks show that by 2032,
+investment in replacing old iron mains gas pipes with new #hydrogen
+and biomethane-ready pipes will have taken the equivalent of 526,433
+cars off the road since 2014"
 
-<img width="150" src="https://cacm.acm.org/system/assets/0003/7237/051220_Ramona_Rosales_Marcus_Hutchins.large.jpg"/>
-
-[Link](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/)
-
----
-
-Doesn't work. Neither side trusts you, and you end up being hated by
-both. You could say Macron tried this in France, do some left, do some
-right, but make one wrong move, ppl dont like your style, you end up
-with protests ad-infinitum.
-
-"Okay, so dont be lukewarm center, but why can't you mix and match
-clear policies from both sides?"
+[Link](https://mobile.twitter.com/JoSamps92/status/1290547360586772485)
 
 ---
 
-*Last updated 2020-08-03 14:52*
+"@a_leesha1
+
+A full tank of petrol from my city to London is around £35 and gets my
+whole family there. A train ticket is on average £100 per person. If
+we’re serious about the climate, a train ticket should never cost more
+than a tank of petrol. It’s incredibly unaffordable"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[Me sowing a society of alienated individualism]: hahah yesss<br><br>[Me reaping a society of people who wont obey public health orders]: nooo! Noooo!!</p>&mdash; James (@cashbonez) <a href="https://twitter.com/cashbonez/status/1290464542904987648?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Green hydrogen could be used to significantly reduce aviation
+emissions within the next five years, with a complete transition to
+hydrogen-fuelled flights from 2050, says new report from Australia’s
+national science agency CSIRO.
+
+Opportunities for hydrogen in commercial aviation had technical input
+and funding from Boeing and reports that growing hydrogen industry
+momentum could provide an opportunity to introduce hydrogen for niche
+airport applications – such as ground support equipment – as early as
+2025"
+
+[Link](https://www.h2-view.com/story/complete-transition-to-hydrogen-fuelled-flights-from-2050-says-new-csiro-report/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The tech giants know this. Someone’s going down. Their real fight isn’t with Congress or the Department of Justice or regulators from any particular agency. The real fight is to make another company the more appealing target. <a href="https://t.co/1aIdl9bFqs">https://t.co/1aIdl9bFqs</a></p>&mdash; Bradley Tusk (@bradleytusk) <a href="https://twitter.com/bradleytusk/status/1290316670414839809?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just like ☀️ 🌬️ renewables had their breakthrough in the 1990’s and early 2000’s, this shall be the decade of 💧 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>.</p>&mdash; cH2ange (@cH2ange) <a href="https://twitter.com/cH2ange/status/1289852186374152192?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Last updated 2020-08-05 09:27*
 
 ---
 
