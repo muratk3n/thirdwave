@@ -72,7 +72,7 @@ Forgot A Baldwin was in this movie.
 ---
 
 Action, scifi movies have been a great source of employment for Arabic
-people. Need a bad guy with an accent? Talk to Habib
+looking people. Need a bad guy with an accent? Talk to Habib
 
 \#idday
 
