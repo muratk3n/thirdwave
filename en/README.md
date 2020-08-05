@@ -2,7 +2,7 @@
 
 
 
-EEEEVERY HAMLET 😶 😶 😶 
+EEEEVERY HAMLET 😶 
 
 NYT 2013: "Our long-term strategy is to operate the leading news and
 advertising media in each of the markets in which we compete—both
