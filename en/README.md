@@ -78,8 +78,8 @@ looking people. Need a bad guy with an accent? Talk to Habib
 
 ---
 
-Haha the Arabic guy is the same one in both \#idday and *Iron Man*,
-playing the same sort of character. 
+Haha the Arabic guy is the same one in both *Indep Day* and *Iron
+Man*, playing the same sort of character.
 
 \#idday
 
