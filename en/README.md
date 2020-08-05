@@ -23,7 +23,10 @@ with the Times, but the Times believes it is competing with them"
 
 ---
 
-Sci teaching is in a terrible state. No wonder physics is stuck.
+The problem probably was over-compartmentalization. "SR is too
+advanced", or "it's in this other bucket". I beg to differ. All u had
+to do was referring to speed and length contraction. Then EM would
+become crystal clear.
 
 ---
 
