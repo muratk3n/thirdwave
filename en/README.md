@@ -71,13 +71,6 @@ Forgot A Baldwin was in this movie.
 
 ---
 
-Action, scifi movies have been a great source of employment for Arabic
-looking people. Need a bad guy with an accent? Talk to Habib
-
-\#idday
-
----
-
 Haha the Arabic guy is the same one in both *Indep Day* and *Iron
 Man*, playing the same sort of character.
 
