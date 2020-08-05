@@ -102,7 +102,7 @@ the need to say "he is not some secret socialist".
 
 ---
 
-That's right, bcz there are things in Bernie's ideology he feels close
+That's right, bcz there are things in Bernie's ideology he felt close
 to. And Bernie calls himself a socialist. What does that make Trump?
 
 (Hint: not a "right populist")
