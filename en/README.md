@@ -34,8 +34,8 @@ it moves". Why? See SR.
 
 ---
 
-Installing `virtualenv`, `numpy` on this tiny little board.. feels
-oddly awesome.
+Installing `virtualenv`, `numpy` on this tiny little board.. feels odd
+and awesome.
 
 ---
 
