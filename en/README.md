@@ -13,7 +13,7 @@ Trump is obsessed with them too (another IaC). Polls, ratings, right, we know th
 ---
 
 Clinton is an *I Am CRM*, their area of development is listening more,
-so he probabaly instinctively used polls to push himself in that
+so he probably instinctively used polls to push himself in that
 direction, to offset his lack of skill. You cant make a rule out of a
 few people's shortcomings.
 
