@@ -8,19 +8,6 @@ Cursed by the Holy Land LMAO
 
 ---
 
-Trump is obsessed with them too (another IaC). Polls, ratings, right, we know this
-
----
-
-Clinton is an *I Am CRM*, their area of development is listening more,
-so he probably instinctively used polls to push himself in that
-direction, to offset his lack of skill. You cant make a rule out of a
-few people's shortcomings.
-
-"Clinton polled all the time"
-
----
-
 Very true \#ford
 
 [Link](https://twitter.com/VainikkaPMJ/status/1291284141477105664)
