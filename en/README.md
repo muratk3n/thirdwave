@@ -103,8 +103,8 @@ Good going Gove
 
 Party leaders must make this decision, seeing it will be in their
 interest in the long term. People's thoughts on the issue is
-irrelevant. They dont know shit. But can be sold a palette of choices
-with the right leader.
+irrelevant. But they can be sold a palette of choices with the right
+leader.
 
 ---
 
