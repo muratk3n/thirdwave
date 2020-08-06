@@ -4,7 +4,7 @@
 
 <img width="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4EVIKtGYCxdFyj21rcZFEPOWRegAEVLWJfw&usqp=CAU"/>
 
-Guy got cursed by the Holy Land LMAO
+Cursed by the Holy Land LMAO
 
 ---
 
