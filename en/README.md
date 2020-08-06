@@ -158,7 +158,7 @@ With 100% of the votes in: @CoriBush has defeated @LacyClayMO1 72,812 to 68,201"
 
 "How can I reach RPi, over which network?". Use cell phone as Wifi
 hotspot, then each machine has an IP address, and can see eachother on
-the Net. Local net on the cheap.
+the Net. LAN on the cheap.
 
 ---
 
