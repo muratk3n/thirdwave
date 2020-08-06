@@ -1,4 +1,4 @@
-# Tweets
+con# Tweets
 
 
 
@@ -27,13 +27,6 @@ The problem probably was over-compartmentalization. "SR is too
 advanced", or "it's in this other bucket". He cld refer to elements of
 the bucket wout being mired in it, just refer to speed and length
 contraction. The bonus is EM becomes crystal clear.
-
----
-
-Yes the right-hand-rule biz is helpful for plug-n-chug computation,
-but need to mention special relativity while explaining
-electromagnetism. Talking to you Resnick. "Particle gets pushed when
-it moves". Why? See SR.
 
 ---
 
