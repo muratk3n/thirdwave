@@ -21,13 +21,6 @@ few people's shortcomings.
 
 ---
 
-I understand the skepticism. But the shit is (mostly) real this
-time. There is a newfound urgency.
-
-"But I don't trust the oil companies"
-
----
-
 Very true \#ford
 
 [Link](https://twitter.com/VainikkaPMJ/status/1291284141477105664)
