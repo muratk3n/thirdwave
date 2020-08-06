@@ -77,7 +77,7 @@ the infamous "alleged" terrible events, and US' response to it.
 ---
 
 Merrill Peterson, legendary biographer. Wrote many bios, he wrote one
-about Woodrow Wilson, and then even one bio on another biographer (of
+about Woodrow Wilson, and then even a bio on another biographer (of
 Wilson's) 👍 Hard core.
 
 [Link](https://twitter.com/Scholars_Stage/status/1291165431311540224)
