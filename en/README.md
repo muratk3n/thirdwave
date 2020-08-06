@@ -58,6 +58,10 @@ enforce a mask mandate. I believe in you"
 
 ---
 
+Thrilla for the Gorilla
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">An elephant would absolutely demolish a gorilla like welcome to the savanna bitch</p>&mdash; jill (@ImBeingCalm) <a href="https://twitter.com/ImBeingCalm/status/1291237942065848320?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
