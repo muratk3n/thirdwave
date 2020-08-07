@@ -9,16 +9,16 @@ opposition itself was misguided. See
 [link](https://muratk3n.github.io/thirdwave/en/2011/03/integrators.html),
 
 >Marx, in the mid-nineteenth century, thought that whoever owned the
-tools and technology—the "means of production"—would control
-society. He argued that, because work was interdependent, workers
-could disrupt production and seize the tools from their boses. Once
-they owned the tools, they would rule society<.
-
+>tools and technology—the "means of production"—would control
+>society. He argued that, because work was interdependent, workers
+>could disrupt production and seize the tools from their boses. Once
+>they owned the tools, they would rule society
+>
 >Yet history played a trick on him. For the very same inter-dependency
-gave even greater leverage to a new group— those who orchestrated or
-integrated the system. In the end it-was neither the owners nor the
-workers who came to power. In both capitalist and socialist nations,
-it was the integrators who rose to the top.<
+>gave even greater leverage to a new group— those who orchestrated or
+>integrated the system. In the end it-was neither the owners nor the
+>workers who came to power. In both capitalist and socialist nations,
+>it was the integrators who rose to the top.<
 
 Another huge mistake is in his theory of value.
 
