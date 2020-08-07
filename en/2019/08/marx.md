@@ -31,8 +31,7 @@ podcast](https://youtu.be/2b1JETZ6-Ck?t=1482).
 
 (BTW: what kind of moron thinks machines do not add value to
 industrial production? This is key in today's inequality debate, and
-Toffler's waves -another recovered Marxist-. Note: Toffler is huge in
-China, the supposedly "communist" nation)
+Toffler's waves, a recovered Marxist)
 
 Now whether there is revolution or not is beside the point. The truth
 of the matter is Marx's reasoning and path toward it was completely
