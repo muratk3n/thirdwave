@@ -1,165 +1,140 @@
 # Tweets
 
-"Virgin Atlantic Declares Bankruptcy"
+"The Promising Results of a Citywide Basic-Income Experiment.. Linnea
+Feldman Emison writes on a pilot basic-income program in Stockton,
+California, historically, the foreclosure capital of the U.S., which
+has been providing an unconditional five hundred dollars per month to
+a group of its residents"
 
-<img width="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4EVIKtGYCxdFyj21rcZFEPOWRegAEVLWJfw&usqp=CAU"/>
-
-Cursed by the Holy Land LMAO
-
----
-
-Very true \#ford
-
-[Link](https://twitter.com/VainikkaPMJ/status/1291284141477105664)
+[Link](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
 
 ---
 
-"@RyseHydrogen
+"Beijing's move to impose a new contentious security law on Hong Kong
+appears to be the last straw for many Hong Kongers. A single mother
+tells DW how she's fed up with the government and plans to leave for
+the UK"
 
-BP have published their new Net Zero strategy. It includes their aims
-for BP's 'hydrogen business to have grown to have 10% share of core
-markets' by 2030"
-
-[Link](https://mobile.twitter.com/RyseHydrogen/status/1291264471533584384)
-
----
-
-😂 😂 😂 😂 
-
-"@KatieELambert
-
-hello, yes, Georgia schools? I remember you policing visible bra
-straps and the length of our skirts with an actual ruler—you can 100%
-enforce a mask mandate. I believe in you"
+[Link](https://www.dw.com/en/hong-kong-how-china-s-security-law-is-pushing-citizens-to-emigrate/a-54485680?maca=en-rss-en-all-1573-rdf)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Carbon-free air travel is closer than you think. We&#39;ve mapped a path to help the aviation industry take off with the power of hydrogen ✈️ <a href="https://t.co/BlHbRcEf4f">https://t.co/BlHbRcEf4f</a> <a href="https://t.co/9p5s1kyyBh">pic.twitter.com/9p5s1kyyBh</a></p>&mdash; CSIRO (@CSIRO) <a href="https://twitter.com/CSIRO/status/1290542643051667456?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"The coronavirus pandemic has put many industries into crisis mode, and
+luxury retail is one of them.
+
+With fewer places to see and be seen, shoppers are slowing their
+spending, with an estimate from consultancy firm McKinsey forecasting
+the global luxury goods market will contract by 35% to 39% in 2020,
+year-over-year"
+
+[Link](https://www.cnbc.com/2020/08/07/luxury-has-been-hit-hard-by-the-virus-and-what-consumers-value-has-changed.html)
 
 ---
 
-Thrilla for the Gorilla
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have survivor’s guilt but for leaving the US</p>&mdash; Emma Berquist (@eeberquist) <a href="https://twitter.com/eeberquist/status/1291609863416459265?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An elephant would absolutely demolish a gorilla like welcome to the savanna bitch</p>&mdash; jill (@ImBeingCalm) <a href="https://twitter.com/ImBeingCalm/status/1291237942065848320?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I suspected lota things but not a faulty female-male jumper cable. 50%
+functional in the entire bunch!!
 
 ---
 
-Hah. I guess there is an "example nation" that every mother uses for
-their children to urge them to finish their plates. Apparently it was
-"starving Ethiopoans" in US recently (says the interviewee), but
-before that, it was "starving Armenians". That's the one Peterson
-heard growing up, and one day becomes curious where it came from,
-decides to research it, and ends up writing another book this time on
-the infamous "alleged" terrible events, and US' response to it.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Of the $54 billion in economic stimulus funding approved in countries around the world (but mostly Europe) that’s going toward clean energy, 19% of that is for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. That’s second only to electrified transportation, according to <a href="https://twitter.com/BloombergNEF?ref_src=twsrc%5Etfw">@BloombergNEF</a>.&quot;<a href="https://t.co/XBBVQs9chV">https://t.co/XBBVQs9chV</a></p>&mdash; Claire Johnson (@clairej_H2) <a href="https://twitter.com/clairej_H2/status/1291560778059849729?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Merrill Peterson, legendary biographer. Wrote many bios, he wrote one
-about Woodrow Wilson, and then even a bio on another biographer (of
-Wilson's) 👍 Hard core.
+Makes sense, [AFAIK](2017/12/palestine.md#lebanon) Lebanon came to being bcz of France.
 
-[Link](https://twitter.com/Scholars_Stage/status/1291165431311540224)
+Macron: "France will never give up on Lebanon"
 
 ---
 
-"S. Kappa has been chosen to participate in the HYFLEXPOWER project
-that will see its Saillat Paper Mill in France become the world’s
-first plant to introduce an integrated hydrogen gas turbine
-demonstrator"
+Sure, but, when they get out, they cause a stir because it's
+Google. Then the only next step the company can take to offset that
+splash with another splash, firing the employee.
 
-[Link](https://www.h2-view.com/story/smurfit-kappa-to-deploy-hydrogen-gas-turbine-demonstrator/)
+This is the downside of working at a company like Google, right? There
+are upsides, go to a bar, show off to women saying you work for
+Google. But then there is the downside, the scrutiny. Cant have one
+wout the other.
 
----
-
-Jerome Robins - Groovejet (If This Ain't Love) (Earth n Days Remix) \#music
-
-[Link](https://youtu.be/QHh4CsFuFeo?t=80)
-
----
-
-Good going Gove
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cabinet Office Minister Michael Gove welcomed Aberdeen City Council’s commitment to clean energy during a visit to one of the city’s <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refuelling stations last week. <a href="https://t.co/yhIbpkXv84">https://t.co/yhIbpkXv84</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1290982439037407232?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"But that fired Google guy and many others talk freely about stuff on
+their internal forums, the problem was posts got out and media caused a frenzy"
 
 ---
 
-Party leaders must make this decision, seeing it will be in their
-interest in the long term. People's thoughts on the issue are
-irrelevant. But they can be sold a palette of choices with the right
-leader.
+[Marx](2019/08/marx.md)
 
 ---
 
-Leftist ideas were orphaned due to years of mainstream neglect. But
-there was a price to pay for this, ordinary people's living standards
-fell. Surprisingly the mainstream kept ignoring "the fringe", so
-finally, some in the right adopted some of those ideas. This is Trump,
-and others, some calling themselves in weird names not to offend the
-*nomenklatura*. The intention was to help, should be congratulated
-even though it is not sustainable IMO. Left / Right mix is toxic, you
-are either one side or the other. So one party must adapt this shit --
-otherwise the balance is lost.
+Forget Marx. Take Toffler, add little Rapaille, Ian Morris, and you'll
+reach what I reached. 
+
+"On the 60th anniversary of Sartre's key text on Marxism, Robert
+Boncardo shows us why it is still relevant, and urgently needed today"
 
 ---
 
-"@RashidaTlaib
+It's likely no persistent politics will come out of DJT years.
 
-Headlines said I was the most vulnerable member of the Squad. 
+"@jimgeraghty
 
-My community responded last night and said our Squad is big. It
-includes all who believe we must show up for each other and prioritize
-people over profits. It’s here to stay, and it’s only getting bigger"
+This week, Kris Kobach lost his primary in Kansas. Earlier this cycle,
+aspiring senator Roy Moore lost his primary in Alabama and Steve King
+lost his primary in Iowa. Arpaio is narrowly trailing his now.
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Linde announced it will start construction of the world&#39;s first hydrogen station for passenger trains in Germany. The construction follows the successful eighteen-month trial.<a href="https://t.co/H9GeQMeEnE">https://t.co/H9GeQMeEnE</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/trains?src=hash&amp;ref_src=twsrc%5Etfw">#trains</a> <a href="https://twitter.com/hashtag/rail?src=hash&amp;ref_src=twsrc%5Etfw">#rail</a> <a href="https://t.co/u0mMCCLiEE">pic.twitter.com/u0mMCCLiEE</a></p>&mdash; Keith Malone (@ANativeAngeleno) <a href="https://twitter.com/ANativeAngeleno/status/1291075292874838017?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Trump style doesn’t work for his wannabes"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good news from Germany for the building of a 30MW electrolyser! All the best of luck, looking forward to the start of production! <a href="https://t.co/LSSMsUzMm4">https://t.co/LSSMsUzMm4</a></p>&mdash; Bart Biebuyck 🇪🇺 (@bartbiebuyck) <a href="https://twitter.com/bartbiebuyck/status/1290947514909298688?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">lol <a href="https://t.co/mxVXRdouiH">https://t.co/mxVXRdouiH</a></p>&mdash; T. Greer (@Scholars_Stage) <a href="https://twitter.com/Scholars_Stage/status/1291412453536854018?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-@RyseHydrogen
-
-EU’s hydrogen strategy could cause power and carbon prices to drop.
-
-[Link](https://twitter.com/RyseHydrogen/status/1290898842569908224)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will be introducing legislation tomorrow to tax the obscene wealth gains billionaires have made during the public health crisis.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1291152005445169153?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@jrosenbaum
+"Mazzucato was increasingly interested in what she called
+mission-oriented organisations. The prime example was DARPA, the
+research agency founded by President Eisenhower in 1958 following the
+Soviet Union’s launch of Sputnik. The agency pumped billions of
+dollars into the development of prototypes that preceded commercial
+technology such as Microsoft Windows, videoconferencing, Google Maps,
+Linux and the cloud. In Israel, Yozma, a government-backed venture
+capital fund that ran between 1993 and 1998, supported more than 40
+companies. In the UK, the Government Digital Service, launched in
+2010, was behind the award-winning .gov.uk domain, saving the
+government £1.7bn in IT procurement. “When I use the word ‘state’ I am
+talking about a decentralised network of different state agencies,"
+she says. When such agencies are mission-oriented to solve problems
+and structured to take risks, they can be an engine of innovation.”
 
-With 100% of the votes in: @CoriBush has defeated @LacyClayMO1 72,812 to 68,201"
+To Mazzucato, the epitome of the mission-oriented concept was the
+Apollo programme, the space programme designed to land Americans on
+the Moon and return them safely to Earth. Between 1960 and 1972, the
+US government spent $26bn (£21bn) to achieve precisely that. More than
+300 different projects contributed, not only in aeronautics but in
+areas such as nutrition, textiles, electronics and medicine, resulting
+in 1,800 spinoff products, from freeze-dried food to cooling suits,
+spring tyres and digital fly-by-wire flight control systems used in
+commercial airplanes. The programme was also instrumental in
+kick-starting an industry for the integrated circuit"
+
+[Link](https://www.wired.co.uk/article/mariana-mazzucato)
 
 ---
 
-"How can I reach RPi, over which network?". Use cell phone as Wifi
-hotspot, then each machine has an IP address, and can see eachother on
-the Net. LAN on the cheap.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The German Aerospace Centre (<a href="https://twitter.com/DLR_en?ref_src=twsrc%5Etfw">@DLR_en</a>) and <a href="https://twitter.com/MTUaeroeng?ref_src=twsrc%5Etfw">@MTUaeroeng</a> are jointly developing a fuel cell propulsion system for the aviation industry. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/ivPPvdaeYI">https://t.co/ivPPvdaeYI</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1291397602240598016?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Replaced Termux with Juice SSH everything else the same. Final setup;
-Bluetooth keyb (light) on Android (light), SSH over RPi (very light),
-run everything on board. Files to/fro done through passwordless ssh
-(scp) if required. Total weight, size, negligable. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Zealand is set to have a nationwide network of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations from 2021 following today’s announcement from the government that it has provisionally approved $20m for Hiringa Energy to build the infrastructure. <a href="https://t.co/lJ8VozeA9r">https://t.co/lJ8VozeA9r</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1291360396960501761?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-F--ing \#energytwitter... Bunch of office dwelling monkeys, of course
-when they get green religion all they think is "the grid", "bcz it has
-electricity and that's so green dude" 🙄
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The LAPD is tweeting that they responded to a call about a possibly suicidal person by showing up, shooting the person’s dog, and then shooting eachother. <a href="https://t.co/balYMJU4tU">https://t.co/balYMJU4tU</a></p>&mdash; Ford Fischer (@FordFischer) <a href="https://twitter.com/FordFischer/status/1291203571086700544?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-*Last updated 2020-08-06 13:00*
+*Last updated 2020-08-07 16:52*
 
 ---
 
