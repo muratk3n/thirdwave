@@ -39,8 +39,8 @@ false.  Today's Marx to many is a mascot; with the big beard, looking
 "philosophical", who is *somehow* related to the idea of a
 revolution. For people who want to pursue such route, and in this era
 of image making, his can be a useful. But anyone who wants to develop
-any global understanding of the world such as it is today, the route
-will be tough.
+any global understanding of the world such as it is today, this
+particular route will be tough.
 
 Related
 
