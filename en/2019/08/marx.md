@@ -33,21 +33,14 @@ podcast](https://youtu.be/2b1JETZ6-Ck?t=1482).
 industrial production? This is key in today's inequality debate, and
 Toffler's waves, a recovered Marxist)
 
-Now whether there is revolution or not is beside the point. The truth
-of the matter is Marx's reasoning and path toward it was completely
-false. Socialism needs to free itself from his failed ideas IMO.
-
-Today's Marx to many is a mascot; with the big beard, looking
-philosophical, who is *somehow* related to the idea of a
+Whether or not there is revolution is beside the point. The truth of
+the matter is Marx's reasoning and path toward it was completely
+false.  Today's Marx to many is a mascot; with the big beard, looking
+"philosophical", who is *somehow* related to the idea of a
 revolution. For people who want to pursue such route, and in this era
-of image making, his can be a useful image. But these paragraphs are
-not for the molotof throwers on the streets, they are for people who
-should know better. Anyone who wants to develop any global
-understanding of the world such as it is today, you are confronted
-with an amalgamation of failures, Marxist, libertards, goldcucks,
-centrists, romantics of Rome, or a Caliphate, muppets of all stripes
-still clinging to ideas that have absolutely nothing to offer for
-today's world.
+of image making, his can be a useful. But anyone who wants to develop
+any global understanding of the world such as it is today, the route
+will be tough.
 
 Related
 
