@@ -1023,3 +1023,8 @@ three to seven grams [of platinum which the next Bosch fuel cell will replicate]
 [Link](https://www.reuters.com/article/us-platinum-week-bosch-fuelcells-exclusi/exclusive-bosch-goes-for-platinum-light-fuel-cells-idUSKCN1SJ0FG)
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
