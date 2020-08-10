@@ -1,11 +1,5 @@
 # Tweets
 
-
-This mov was part *Matrix Revolutions*, part *Groundhog
-Day*. Watchable concoction.
-
----
-
 John Newman - Love Me Again \#music
 
 [Link](https://youtu.be/rH4XNaBUTJs)
