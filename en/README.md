@@ -1,140 +1,176 @@
 # Tweets
 
-"The Promising Results of a Citywide Basic-Income Experiment.. Linnea
-Feldman Emison writes on a pilot basic-income program in Stockton,
-California, historically, the foreclosure capital of the U.S., which
-has been providing an unconditional five hundred dollars per month to
-a group of its residents"
 
-[Link](https://www.newyorker.com/news/news-desk/the-promising-results-of-a-citywide-basic-income-experiment)
+This mov was part *Matrix Revolutions*, part *Groundhog
+Day*. Watchable concoction.
 
 ---
 
-"Beijing's move to impose a new contentious security law on Hong Kong
-appears to be the last straw for many Hong Kongers. A single mother
-tells DW how she's fed up with the government and plans to leave for
-the UK"
+John Newman - Love Me Again \#music
 
-[Link](https://www.dw.com/en/hong-kong-how-china-s-security-law-is-pushing-citizens-to-emigrate/a-54485680?maca=en-rss-en-all-1573-rdf)
+[Link](https://youtu.be/rH4XNaBUTJs)
 
 ---
 
-"The coronavirus pandemic has put many industries into crisis mode, and
-luxury retail is one of them.
-
-With fewer places to see and be seen, shoppers are slowing their
-spending, with an estimate from consultancy firm McKinsey forecasting
-the global luxury goods market will contract by 35% to 39% in 2020,
-year-over-year"
-
-[Link](https://www.cnbc.com/2020/08/07/luxury-has-been-hit-hard-by-the-virus-and-what-consumers-value-has-changed.html)
+Nice. *Edge of Tomorrow* ends with a John Newman's song, bcz it is abt
+a time loop? 👍
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have survivor’s guilt but for leaving the US</p>&mdash; Emma Berquist (@eeberquist) <a href="https://twitter.com/eeberquist/status/1291609863416459265?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+So if you are really smart about the design of the interlocking parts,
+how big of a thing could you 3D print in pieces in a medium size
+printer? I wonder... 🤔
 
 ---
 
-I suspected lota things but not a faulty female-male jumper cable. 50%
-functional in the entire bunch!!
+Now dat I have full-blown Linux, large and small, I can go back to
+`recoll`.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Of the $54 billion in economic stimulus funding approved in countries around the world (but mostly Europe) that’s going toward clean energy, 19% of that is for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. That’s second only to electrified transportation, according to <a href="https://twitter.com/BloombergNEF?ref_src=twsrc%5Etfw">@BloombergNEF</a>.&quot;<a href="https://t.co/XBBVQs9chV">https://t.co/XBBVQs9chV</a></p>&mdash; Claire Johnson (@clairej_H2) <a href="https://twitter.com/clairej_H2/status/1291560778059849729?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@Jkylebass
+
+Luo Huining, aka The Butcher of Tibet, was sanctioned with Carrie
+Lam(b) by the United States yesterday. He and his family may no longer
+travel, own property, or show their faces in the US. He should be
+brought up on war crimes charges for his actions In Tibet. The
+belligerence of china’s wolf propagandists continues to bring comedy
+to diplomacy. Did they think there wouldn’t be consequences to the
+abrogation of their contract with the US and the UK? Communism’s rise
+will be met with crippling sanctions that will subdue...
+
+The economic growth and prosperity that existed under a democracy that
+was governed under English law. We have the upper hand as the world
+doesn’t trust china or its Monopoly money and closed capital
+account. They have an exposed Achilles heel and the world is
+aware"
 
 ---
 
-Makes sense, [AFAIK](2017/12/palestine.md#lebanon) Lebanon came to being bcz of France.
-
-Macron: "France will never give up on Lebanon"
+And Brussels might be the worst city I've seen in my life. 
 
 ---
 
-Sure, but, when they get out, they cause a stir because it's
-Google. Then the only next step the company can take to offset that
-splash with another splash, firing the employee.
+Glad Im outa there
 
-This is the downside of working at a company like Google, right? There
-are upsides, go to a bar, show off to women saying you work for
-Google. But then there is the downside, the scrutiny. Cant have one
-wout the other.
-
-"But that fired Google guy and many others talk freely about stuff on
-their internal forums, the problem was posts got out and media caused a frenzy"
+"Germany has declared the Belgian port city a 'high-risk area.' For
+more than a week, Antwerp has been trying to lower infections – with
+curfews and a new established coronavirus test center"
 
 ---
 
-[Marx](2019/08/marx.md)
+Live by the sword die by the sword
+
+"@gerryshih
+
+China at least partially blocks Whatsapp Telegram FB Messenger,
+Instagram Twitter, Skype etc so basically all conversations with
+people in China are concentrated on WeChat, mostly out of convenience
+but also by government mandate. Conversely it now becomes an Achilles
+heel"
 
 ---
 
-Forget Marx. Take Toffler, add little Rapaille, Ian Morris, and you'll
-reach what I reached. 
-
-"On the 60th anniversary of Sartre's key text on Marxism, Robert
-Boncardo shows us why it is still relevant, and urgently needed today"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">bunch of babies &quot;wahh i want a government that doesn&#39;t kill me wahh&quot; that&#39;s how you sound</p>&mdash; See Header (@InternetHippo) <a href="https://twitter.com/InternetHippo/status/1291930847893794816?ref_src=twsrc%5Etfw">August 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-It's likely no persistent politics will come out of DJT years.
-
-"@jimgeraghty
-
-This week, Kris Kobach lost his primary in Kansas. Earlier this cycle,
-aspiring senator Roy Moore lost his primary in Alabama and Steve King
-lost his primary in Iowa. Arpaio is narrowly trailing his now.
-
-The Trump style doesn’t work for his wannabes"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">music from the final scene of last of the mohicans playing in my head as i walk into dan murphy’s for the second time in 12 hours</p>&mdash; the irishman* (@mrgracemugabe) <a href="https://twitter.com/mrgracemugabe/status/1291954064146567169?ref_src=twsrc%5Etfw">August 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">lol <a href="https://t.co/mxVXRdouiH">https://t.co/mxVXRdouiH</a></p>&mdash; T. Greer (@Scholars_Stage) <a href="https://twitter.com/Scholars_Stage/status/1291412453536854018?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Lebanon blast was 1/6th of the nuke explosion at Hiroshima"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will be introducing legislation tomorrow to tax the obscene wealth gains billionaires have made during the public health crisis.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1291152005445169153?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Github contributor is reworking some images. This guy's a f-ing
+machine. Receiving a pull request soon.
 
 ---
 
-"Mazzucato was increasingly interested in what she called
-mission-oriented organisations. The prime example was DARPA, the
-research agency founded by President Eisenhower in 1958 following the
-Soviet Union’s launch of Sputnik. The agency pumped billions of
-dollars into the development of prototypes that preceded commercial
-technology such as Microsoft Windows, videoconferencing, Google Maps,
-Linux and the cloud. In Israel, Yozma, a government-backed venture
-capital fund that ran between 1993 and 1998, supported more than 40
-companies. In the UK, the Government Digital Service, launched in
-2010, was behind the award-winning .gov.uk domain, saving the
-government £1.7bn in IT procurement. “When I use the word ‘state’ I am
-talking about a decentralised network of different state agencies,"
-she says. When such agencies are mission-oriented to solve problems
-and structured to take risks, they can be an engine of innovation.”
-
-To Mazzucato, the epitome of the mission-oriented concept was the
-Apollo programme, the space programme designed to land Americans on
-the Moon and return them safely to Earth. Between 1960 and 1972, the
-US government spent $26bn (£21bn) to achieve precisely that. More than
-300 different projects contributed, not only in aeronautics but in
-areas such as nutrition, textiles, electronics and medicine, resulting
-in 1,800 spinoff products, from freeze-dried food to cooling suits,
-spring tyres and digital fly-by-wire flight control systems used in
-commercial airplanes. The programme was also instrumental in
-kick-starting an industry for the integrated circuit"
-
-[Link](https://www.wired.co.uk/article/mariana-mazzucato)
+No need for usb cables for photo transfers.. Labtop "on the LAN", with
+a little `scp`, after `termux-setup-storage`, phone can send over
+files. From well-known dir to another well-known dir, alias it, so it
+can be touchscreen typed on phone.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The German Aerospace Centre (<a href="https://twitter.com/DLR_en?ref_src=twsrc%5Etfw">@DLR_en</a>) and <a href="https://twitter.com/MTUaeroeng?ref_src=twsrc%5Etfw">@MTUaeroeng</a> are jointly developing a fuel cell propulsion system for the aviation industry. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/ivPPvdaeYI">https://t.co/ivPPvdaeYI</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1291397602240598016?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Google apparently has completely cornered the market on driver assist
+/ navigation. All TR cabbies are on it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Zealand is set to have a nationwide network of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations from 2021 following today’s announcement from the government that it has provisionally approved $20m for Hiringa Energy to build the infrastructure. <a href="https://t.co/lJ8VozeA9r">https://t.co/lJ8VozeA9r</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1291360396960501761?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://pbs.twimg.com/media/Ee1W3q8XYAQk4iG?format=jpg&name=small"/>
+
+via @katiesackoff
 
 ---
 
-*Last updated 2020-08-07 16:52*
+I dont understand how hobbiest keeps building the small stuff but
+never move on to bigger stuf... Model Chinook is awesome. But u know
+what's more awesome? A big-ass Chinook!
+
+---
+
+Movie idea, ppl leave Earth in spaceship ready to settle, escaping
+apocalyptic scenario, land on Mars and then they are like 'dude it
+sucks here let's go back', and they return, use all the tools on
+Earth.
+
+---
+
+"[T]here is almost nothing that could happen to earth that would make
+it less hospitable than Mars. Whether it’s nuclear war or massive
+global warming, post disaster earth would be way more habitable than
+Mars"
+
+[Link](https://www.forbes.com/sites/modeledbehavior/2017/05/06/sorry-nerds-but-colonizing-other-planets-is-not-a-good-plan/)
+
+---
+
+Dude the *consigliere* as the space hero? No. I understand they tried
+the old/young thing but then get B. Willis as the "old guy". See
+*Armageddon*. \#deepimpact
+
+---
+
+They blew a bomb, doesnt work, then leave, then  remember, "wait we
+have all these other bombs!" 🙄 \#deepimpact
+
+---
+
+Was that J Favreau in there? This is where he must have learned how
+not to make a movie! \#deepimpact
+
+---
+
+What a disaster of a movie -- *Deep Impact*.
+
+---
+
+It's good to get in the habit of running `ls` before every `rm`.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to tell the story of why I now automate as much as my <a href="https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw">#linux</a> environment setup as I can. At some point a scripting error created a folder called &#39;~&#39; which contained a bunch of junk files. Without thinking, I did:<br><br>$ rm -rf ~<br><br>🤦‍♂️🤦‍♂️🤦‍♂️<a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/fail?src=hash&amp;ref_src=twsrc%5Etfw">#fail</a></p>&mdash; Meseta (@mesetatron) <a href="https://twitter.com/mesetatron/status/1291741133257601024?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Hah. I guess that should tell you how Americans want to be governed,
+Scotus judges are not even elected by the people, they are appointed
+by people who are elected by the people. So they are **twice** removed
+from the public 😶
+
+"Gallup found that Americans [largely] approved of the [SCOTUS]
+justices’ performance"
+
+---
+
+H-a-m-b-u-r-g-a !
+
+😆😆 That was some funny shit \#pinkpanther
+
+---
+
+*Last updated 2020-08-10 11:38*
 
 ---
 
