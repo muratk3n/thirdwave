@@ -6,8 +6,8 @@ John Newman - Love Me Again \#music
 
 ---
 
-Nice. *Edge of Tomorrow* ends with a John Newman's song, bcz it is abt
-a time loop? 👍
+Nice. *Edge of Tomorrow* ends with a John Newman song, bcz it is abt a
+time loop? 👍
 
 ---
 
