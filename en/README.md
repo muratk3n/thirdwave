@@ -17,8 +17,8 @@ printer? I wonder... 🤔
 
 ---
 
-Now dat I have full-blown Linux, large and small, I can go back to
-`recoll`.
+Now dat I have full-blown Linux, in the large and small, I can go back
+to `recoll`.
 
 ---
 
