@@ -89,8 +89,8 @@ can be touchscreen typed on phone.
 
 ---
 
-Google apparently has completely cornered the market on driver assist
-/ navigation. All TR cabbies are on it.
+Google has completely cornered the market on driver assist /
+navigation it looks like. All TR cabbies are on it.
 
 ---
 
