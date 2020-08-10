@@ -115,7 +115,7 @@ Apparently A. C. Clarke’s novel *Imperial Earth* has some good info.
 Movie idea, ppl leave Earth in spaceship ready to settle, escaping
 apocalyptic scenario, land on Mars and then they are like 'dude it
 sucks here let's go back', and they return, use all the tools on
-Earth. So it's a very roundbout style of scifi, indirect.
+Earth. So it's a very roundbout style of scifi. Indirect.
 
 ---
 
