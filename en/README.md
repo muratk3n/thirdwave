@@ -38,8 +38,8 @@ US"
 
 ---
 
-From that book abt a Titan colony, 23rd century.. The comm issue would
-be real. No Zoom calls with Saturn bitch.
+From the ACC book abt a Titan colony, 23rd century.. The comm issue
+would be real. No Zoom calls with Saturn bitch.
 
 A. C. Clarke: "It might have been different if the velocity of light
 were infinite; but it was a mere billion kilometers an hour—and
