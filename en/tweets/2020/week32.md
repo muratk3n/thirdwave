@@ -44,7 +44,7 @@ functional in the entire bunch!!
 
 ---
 
-Makes sense, [AFAIK](2017/12/palestine.md#lebanon) Lebanon came to being bcz of France.
+Makes sense, [AFAIK](../../2017/12/palestine.md#lebanon) Lebanon came to being bcz of France.
 
 Macron: "France will never give up on Lebanon"
 
@@ -64,7 +64,7 @@ their internal forums, the problem was posts got out and media caused a frenzy"
 
 ---
 
-[Marx](2019/08/marx.md)
+[Marx](../../2019/08/marx.md)
 
 ---
 
