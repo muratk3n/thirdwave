@@ -15,8 +15,6 @@ low-value"
 
 ---
 
-Oh yes... looking at some servo code tomorra
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Robotics skills in high demand post-Corona <a href="https://t.co/AYySWsnvMn">https://t.co/AYySWsnvMn</a> <a href="https://t.co/Gq10cssocR">pic.twitter.com/Gq10cssocR</a></p>&mdash; Control Design (@Control_Design) <a href="https://twitter.com/Control_Design/status/1293261945668337664?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
