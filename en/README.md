@@ -81,8 +81,8 @@ this one.
 
 ---
 
-If there is an evil twin in the other universe, he must have the
-goatee. We know that. [Here](https://4.bp.blogspot.com/-h4xCSLl0L_M/Tuoepd3YEZI/AAAAAAAAMRY/oFwqSTR_XSw/s1600/spock.jpg)
+Another one; If there is an evil twin in the other universe, he must
+have the goatee. We know that. [Here](https://4.bp.blogspot.com/-h4xCSLl0L_M/Tuoepd3YEZI/AAAAAAAAMRY/oFwqSTR_XSw/s1600/spock.jpg)
 
 But the real rule is "reverse-facial-hair" rule. So if you have goatee
 in this universe, then your evil twin must have no goatee in the other
