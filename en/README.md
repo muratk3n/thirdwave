@@ -92,8 +92,8 @@ universe. See Trek DS9.
 
 ---
 
-Haha saw Blue Screen of Death at a Zara today. Patch your Windows 95
-dude
+Haha saw a Blue Screen of Death at a Zara while passing by. Patch your
+Windows 95 dude
 
 <img width="340" src="https://pbs.twimg.com/media/EfE4PjHXkAE4vn5?format=jpg&name=small"/>
 
