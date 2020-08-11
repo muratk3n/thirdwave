@@ -82,13 +82,18 @@ this one.
 ---
 
 If there is an evil twin in the other universe, he must have the
-goatee. See [here](https://4.bp.blogspot.com/-h4xCSLl0L_M/Tuoepd3YEZI/AAAAAAAAMRY/oFwqSTR_XSw/s1600/spock.jpg)
+goatee. We know that. [Here](https://4.bp.blogspot.com/-h4xCSLl0L_M/Tuoepd3YEZI/AAAAAAAAMRY/oFwqSTR_XSw/s1600/spock.jpg)
 
-But the true rule is "reverse-facial-hair" rule. If you have goatee in
-this universe, then your evil twin must have no goatee in the other
-universe. See Trek DS9.
+But the real rule is "reverse-facial-hair" rule. So if you have goatee
+in this universe, then your evil twin must have no goatee in the other
+universe. Example below, Trek DS9.
 
 <img width="240" src="https://pbs.twimg.com/media/EfE9XlnXoAIzcYT?format=png&name=small"/>
+
+---
+
+Scifi audience loves "weapons at maximum". Have to have weapons at
+maximum, the captain needs to say that explicitly.
 
 ---
 
