@@ -1,174 +1,150 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have the great honor to announce that I’ve picked <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a> — a fearless fighter for the little guy, and one of the country’s finest public servants — as my running mate.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1293280411150217219?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-👍 👍 👍 
+"[W]hat isn't discussed is how Mr. 'Content Is King' got his 'content'
+...  [Redstone] bested business rivals throughout his long career as
+he engineered deals for Viacom, Paramount and CBS and displayed an
+unwavering passion to win. ... Viacom Networks (MTV, BET, Comedy
+Central, CMT), the engine that drove Redstone's media empire was
+almost entirely built on 'reality', 'live' and 'free' content. Which
+is to say, Redstone's genius was finding a way to pipe content made
+and paid for by other people (music labels, comedy clubs) on to
+cable. And to fill the gap with non-union, unprotected 'perma-lance'
+innovation in-house. Reality and music television was just
+union-busting. Plain and simple. ... Reality television can seem
+exciting and glamorous. Working on reality television, much less
+so. As the following stories from "professionally abused" insiders
+show, reality TV workers will continue... 'My Super Sweet 16'? A PA
+came up with that. 'Jersey Shore'? Just a rip-off of a True Life
+pitched by an AP. There was no IP ownership. No health-care. And
+Redstone's bet was freelance 20 year olds wouldn't have the stones to
+organize or sue"
 
----
-
-"Abolish CIA & FISA... At home, the Agencies are partisan institutions
-illegitimately focused on setting national policy. Abroad, Agencies
-untied to specific operational concerns are inherently dangerous and
-low-value"
-
-[Link](https://americanmind.org/essays/abolish-the-cia/)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Robotics skills in high demand post-Corona <a href="https://t.co/AYySWsnvMn">https://t.co/AYySWsnvMn</a> <a href="https://t.co/Gq10cssocR">pic.twitter.com/Gq10cssocR</a></p>&mdash; Control Design (@Control_Design) <a href="https://twitter.com/Control_Design/status/1293261945668337664?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@FritzKM
-
-\#Resilient \#fuelcell powered microgrids once again maintained power
-for customers during the recent \#hurricaneIsaias grid
-outages. \#EnergyPolicy should support these microgrids across the
-US"
+[Link](https://twitter.com/gideonyago/status/1293567900096200710)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With an already record fast start and forecasters predicting a very active <a href="https://twitter.com/hashtag/hurricane?src=hash&amp;ref_src=twsrc%5Etfw">#hurricane</a> season, <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> resilience is becoming an issue business leaders can no longer afford to neglect – both from a strategic and cost perspective. <a href="https://twitter.com/hashtag/isaias?src=hash&amp;ref_src=twsrc%5Etfw">#isaias</a> Learn more: <a href="https://t.co/Igw7A9ceFB">https://t.co/Igw7A9ceFB</a> <a href="https://t.co/PG6eDURIKV">pic.twitter.com/PG6eDURIKV</a></p>&mdash; Bloom Energy (@Bloom_Energy) <a href="https://twitter.com/Bloom_Energy/status/1291509748244848640?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@h2_view
+
+The New South Wales Government in #Australia has today approved
+@JemenaLtd’s $15m Western Sydney Green Gas (WSGG) Project"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Proton Motor Power Systems Receives New Fuel Cell Order from <a href="https://twitter.com/Shell?ref_src=twsrc%5Etfw">@Shell</a> Energies--<a href="https://twitter.com/ProtonMotor?ref_src=twsrc%5Etfw">@ProtonMotor</a> <a href="https://twitter.com/hashtag/Fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcell</a> hybrid system intended to power Shell’s own line of portable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refueling units for buses and trucks-<a href="https://t.co/Q2mIl65mbr">https://t.co/Q2mIl65mbr</a> - <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a>@fuelcellsworks</p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1292820265374756865?ref_src=twsrc%5Etfw">August 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HanwhaEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#HanwhaEnergy</a> has completed its $212m <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> power plant, located at the Daesan Industrial Complex in Seosan, <a href="https://twitter.com/hashtag/SouthKorea?src=hash&amp;ref_src=twsrc%5Etfw">#SouthKorea</a>.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a><a href="https://t.co/tc78UJ8aNF">https://t.co/tc78UJ8aNF</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293577551072419845?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-From the ACC novel abt a Titan colony, 23rd century.. The comm issue
-would be real. No Zoom calls with Saturn 
-
-A. C. Clarke: "It might have been different if the velocity of light
-were infinite; but it was a mere billion kilometers an hour—and
-therefore, real-time conversation would be forever impossible between
-Earth and anyone beyond the orbit of the Moon. The global electronic
-village which had existed for centuries on the mother world could
-never be extended into space; the political and psychological effects
-of this were enormous, and still not fully understood"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This article is so great:<br><br>“We’re going to sell the living heck out of hydrogen to everybody,” Milton said. “Our stations are not just for us. We’re not just going to sell our location. We’re going to distribute it to others”<a href="https://twitter.com/nikolatrevor?ref_src=twsrc%5Etfw">@nikolatrevor</a> <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> <a href="https://t.co/oeffWm7wQK">https://t.co/oeffWm7wQK</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1292819117062402048?ref_src=twsrc%5Etfw">August 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"But Ginsburg, as Slate’s Mark Joseph Stern has noted, is not the most
+liberal Supreme Court justice; that would be the Obama appointee Sonia
+Sotomayor. In recent years Ginsburg has voted with the majority in
+favor of the fossil-fuel industry and against criminal defendants and
+asylum seekers"
+
+[Link](https://www.nytimes.com/2020/08/12/magazine/the-fandom-around-rbg-is-out-of-step-with-reality.html#click=https://t.co/GoJqnEVMIy)
+
 
 ---
 
-Demonstrative, To the point, running, skeletal example code is worth
-its line count in diamonds.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a>, who will make history as our next Vice President. She understands what it takes to stand up for working people, fight for health care for all, and take down the most corrupt administration in history. Let’s get to work and win.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1293290750982139905?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Another one for <250 LOC. 2D, but still..
+"Democrats from all corners of the party appeared largely united behind
+Joe Biden’s selection of the California senator Kamala Harris as his
+running mate on Tuesday ... praise also came from high-profile
+progressive leaders on Tuesday, including two of Biden’s other former
+rivals, the senators Bernie Sanders and Elizabeth Warren"
+
+[Link](https://www.theguardian.com/us-news/2020/aug/11/kamala-harris-democrats-reaction-obama-sanders-warren)
 
 ---
 
-Have a major fluid dynamics simulation running with <500 LOC C++
-SPH. Only API calls are for graphics, the rest is physics. Fine
-approach.
+"[Trump] releases attack ad labelling Biden 'racist' as it emerges
+Donald and Ivanka donated to Kamala Harris"
 
 ---
 
-SPH is awesome 
+Wait.. I thought expertise had went by the wayside, it's like
+technocratic or something.. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thought I share a little preview of what I am currently working on. This is called Smoothed Particle Hydrodynamics it makes Spheres act like Fluid - no colliders, no rigidbody, just Math &amp; Physics.<a href="https://twitter.com/hashtag/unity3d?src=hash&amp;ref_src=twsrc%5Etfw">#unity3d</a> <a href="https://twitter.com/hashtag/MadeWithUnity?src=hash&amp;ref_src=twsrc%5Etfw">#MadeWithUnity</a> <a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://t.co/Q0YQIu6A9s">pic.twitter.com/Q0YQIu6A9s</a></p>&mdash; Kristin (@itsKristinSrsly) <a href="https://twitter.com/itsKristinSrsly/status/1142852907152412672?ref_src=twsrc%5Etfw">June 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Brian Lee Hitchens, a Florida taxi driver ... who prayed in the
+morning before going shopping or carrying passengers without a mask,
+was sure that nothing would happen to him and his asthma-sick
+wife. God would take care of him. And possibly the entire corona hype
+is mere hysteria anyway, as could be read on the Internet, and the
+virus is no more dangerous than ordinary flu. Then he fell ill
+himself, then his wife, who struggled for weeks to survive. While
+still in the hospital, Brian Lee Hitchens wrote on Facebook about his
+change of heart. The virus is not a fake, the pandemic is real. It is
+important to heed 'the advice of experts'"
 
----
-
-This rule is ironclad. Other rules in scifi can be bent or broken, not
-this one.
-
----
-
-Another one; If there is an evil twin in the other universe, he must
-have the goatee. We know that. [Here](https://4.bp.blogspot.com/-h4xCSLl0L_M/Tuoepd3YEZI/AAAAAAAAMRY/oFwqSTR_XSw/s1600/spock.jpg)
-
-But the real rule is "reverse-facial-hair" rule. So if you have goatee
-in this universe, then your evil twin must have no goatee in the other
-universe. Example below, Trek DS9.
-
-<img width="240" src="https://pbs.twimg.com/media/EfE9XlnXoAIzcYT?format=png&name=small"/>
+[Link](https://www.nzz.ch/feuilleton/die-polemisierende-kulturkritik-leidet-unter-wirklichkeitsverlust-ld.1570515)
 
 ---
 
-Scifi audience loves "weapons at maximum". Have to have weapons at
-maximum, the captain needs to say that explicitly.
+"@emilyfmayer
+
+Just a recap for the people in the back: @DemMaj4Israel and other Israel hawks spent
+
+* $3 million against @JamaalBowmanNY 
+
+* Around $7 million against @IlhanMN'
 
 ---
 
-Haha saw a Blue Screen of Death at a Zara while passing by. Patch your
-Windows 95 dude
+"We are very pleased to announce that we are now ISO9001:2015 certified
+at both our Manufacturing Facility and Green Hydrogen Farm! 🤩"
 
-<img width="340" src="https://pbs.twimg.com/media/EfE4PjHXkAE4vn5?format=jpg&name=small"/>
-
----
-
-That's right. We fast.
-
-"@mesetatron
-
-I once worked with a South African #programmer who used #linux in TTY
-only (no x server), `tmux`, `emacs`. He was moving through code so
-fast, I couldn't even see what he was doing"
+[Link](https://twitter.com/NanoSUNH2/status/1293519624076767235)
 
 ---
 
-"@NPR
+"@levie
 
-Delta has banned 100 anti-maskers from taking their flights — and even
-gone a step further by adding them to a 'no fly' list"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interesting - and recent - moment in the emergence of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> energy: articles focusing on the financial topic are increasing 👇🏻by <a href="https://twitter.com/NehamsChamaria?ref_src=twsrc%5Etfw">@NehamsChamaria</a> for <a href="https://twitter.com/themotleyfool?ref_src=twsrc%5Etfw">@themotleyfool</a> <a href="https://t.co/1TscRh8tDP">https://t.co/1TscRh8tDP</a></p>&mdash; 𝔻𝕠𝕞𝕚𝕟𝕚𝕢𝕦𝕖 𝕃𝕖𝕔𝕠𝕔𝕢 🌏 (@Lecocq_dom) <a href="https://twitter.com/Lecocq_dom/status/1292526738082332672?ref_src=twsrc%5Etfw">August 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+My back of the envelope math says that people are more excited by
+Kamala Harris than they were Tim Kaine"
 
 ---
 
-"On an otherwise slow news day for fuel cell stocks, Plug Power shook
-up the market with an announcement that U.K.-based supermarket chain
-Asda will be buying a "turnkey solution" for its warehouse forklift
-fleet, including 'fuel cells, hydrogen fueling equipment, hydrogen and
-service' from Plug"
-
-[Link](https://www.fool.com/investing/2020/08/03/why-hydrogen-fuel-cell-stocks-popped-today.aspx)
+Robert Bridson, Matthias Müller-Fischer; excellent write-up on fluids.
 
 ---
 
-When you are in 'Nam and Charlie is coming at you from all directions,
-you need to conserve your ammo. You don't shoot until you see the
-whites of their eyes. Very important. Charlie is smart. He'll come at
-you but stop at a distance, right outside rifle range, he wants you to
-shoot and waste your ammo. So you wait... You hold! UNTIL YOU SEE THE
-WHITES OF THEIR EYES. Only then you shoot.
+Finally a series on *Foundation*? 😊 Jared Harris as Seldon. I can see
+it, good choice.
+
+[Link](https://youtu.be/FZd3xUDudy8)
 
 ---
 
-Good going Vietnam
-
-"@wang_seaver
-
-Yes, yes New Zealand is doing great on COVID.
-
-But perhaps we can also spare some praise for, say, Vietnam? Vietnam
-maintained a 99-day streak without community transmission of COVID-19,
-and it has 19.5x the population, 15x the population density, and
-1/15th the GDP/capita of NZ"
+Networks are probably pleased, Kamala can dish it out, do some drama.
 
 ---
 
-"@RyseHydrogen
-
-JCB heir Jo Bamford today called on Britain to 'grab hold' of its
-'green destiny' and take advantage of the hydrogen opportunity it has"
-
-[Link](https://twitter.com/RyseHydrogen/status/1292727853352706054)
+In general Californians are good to have in any cabinet. There is some
+culture around green energy in the state, as they've been
+experimenting with a few technologies before everyone else.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">who can git blame him?</p>&mdash; Meseta (@mesetatron) <a href="https://twitter.com/mesetatron/status/1292736096770519040?ref_src=twsrc%5Etfw">August 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://media2.giphy.com/media/Xjo8pbrphfVuw/200.gif"/>
+
+<img width="340" src="https://media2.giphy.com/media/Y4WKWgiKhq7AIQYuxa/giphy.gif"/>
 
 ---
 
-*Last updated 2020-08-11 23:51*
+😶
+
+"Fact: While it's generally thought of as a vegetable, eggplant is actually a fruit"
+
+---
+
+*Last updated 2020-08-12 22:28*
 
 ---
 
