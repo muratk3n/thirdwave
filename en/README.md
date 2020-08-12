@@ -79,8 +79,8 @@ is mere hysteria anyway, as could be read on the Internet, and the
 virus is no more dangerous than ordinary flu. Then he fell ill
 himself, then his wife, who struggled for weeks to survive. While
 still in the hospital, Brian Lee Hitchens wrote on Facebook about his
-change of heart. The virus is not a fake, the pandemic is real. It is
-important to heed 'the advice of experts'"
+change of heart 'The virus is not a fake, the pandemic is real. It is
+important to heed the advice of experts' [he wrote]"
 
 [Link](https://www.nzz.ch/feuilleton/die-polemisierende-kulturkritik-leidet-unter-wirklichkeitsverlust-ld.1570515)
 
