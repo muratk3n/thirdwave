@@ -68,7 +68,7 @@ Donald and Ivanka donated to Kamala Harris"
 
 ---
 
-Wait.. I thought expertise had went by the wayside, it's like
+Wait.. I thought expertise had gone by the wayside, it's like
 technocratic or something.. 
 
 "Brian Lee Hitchens, a Florida taxi driver ... who prayed in the
