@@ -110,7 +110,7 @@ Kamala Harris than they were Tim Kaine"
 
 ---
 
-Robert Bridson, Matthias Müller-Fischer; excellent write-up on fluids.
+Robert Bridson, Matthias Müller-Fischer; excellent write-up on fluid dynamics.
 
 ---
 
