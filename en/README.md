@@ -1,5 +1,8 @@
 # Tweets
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 "[W]hat isn't discussed is how Mr. 'Content Is King' got his 'content'
 ...  [Redstone] bested business rivals throughout his long career as
@@ -32,10 +35,6 @@ The New South Wales Government in #Australia has today approved
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HanwhaEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#HanwhaEnergy</a> has completed its $212m <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> power plant, located at the Daesan Industrial Complex in Seosan, <a href="https://twitter.com/hashtag/SouthKorea?src=hash&amp;ref_src=twsrc%5Etfw">#SouthKorea</a>.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a><a href="https://t.co/tc78UJ8aNF">https://t.co/tc78UJ8aNF</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293577551072419845?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
