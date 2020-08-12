@@ -54,7 +54,7 @@ of this were enormous, and still not fully understood"
 ---
 
 Demonstrative, To the point, running, skeletal example code is worth
-it line count in diamonds.
+its line count in diamonds.
 
 ---
 
