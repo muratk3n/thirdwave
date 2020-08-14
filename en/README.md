@@ -147,11 +147,6 @@ boy did it take long to become that.
 
 ---
 
-Looks like this thing is getting worse everywhere. Just watched
-someone in Japan, says so
-
----
-
 They do look kinda weird
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many people have been using quarantine as a time to perfect their bread or coffee making skills, but I personally have taken this as an opportunity to make increasingly unsettling eggs <a href="https://t.co/7mefhS5ffB">pic.twitter.com/7mefhS5ffB</a></p>&mdash; Anna Hughes (@AnnaGHughes) <a href="https://twitter.com/AnnaGHughes/status/1294270430518312966?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
