@@ -43,7 +43,7 @@ Barry White I'm Gonna Love You Just a Little Bit More Baby \#music
 
 ---
 
-Lagrangian viewpoint -- does that make me more French minded? 
+Lagrangian viewpoint -- does that make me more French minded? 👨‍🎨
 
 ---
 
