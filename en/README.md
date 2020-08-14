@@ -140,7 +140,7 @@ that"
 
 ---
 
-Wrote an article on mathematical modeling 15+ years ago. The write-up
+Wrote an article on mathematical models 15+ years ago. The write-up
 went through gazillion file formats, finally became TeX converted
 markdown, published on Github Pages. Now I see ppl finding it online,
 boy did it take long to become that.
