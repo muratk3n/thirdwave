@@ -1,5 +1,13 @@
 # Tweets
 
+"@mariskreizman
+
+A thing to note about the state of healthcare in this country: when I
+overpay for insulin in order to live, my insurance mandates that I get
+it by mail service rather than at a pharmacy"
+
+---
+
 "@ggreenwald
 
 That Trump is talking about a pardon for Snowden, & @RepThomasMassie
