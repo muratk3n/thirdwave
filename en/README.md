@@ -71,8 +71,8 @@ Japan, the reclusive adolescents who dont leave home. This cld be a
 way to subconciously reduce excessive stimuli which modern life
 generates in excess, especially in cities. We are built for a certain
 level of stimuli anything over that causes problems. In the West ppl
-might not become recluse but cld act oddly in different ways, maybe a
-school shooting.
+might not become recluse but cld act oddly in different ways, maybe
+crime or other things.
 
 ---
 
