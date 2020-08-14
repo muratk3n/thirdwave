@@ -47,13 +47,14 @@ Lagrangian viewpoint -- does that make a person French minded?
 
 ---
 
-I guess SPH, the "Lagrangian viewpoint" comes more natural to me given
-my software and simuation background; thinking of particles that are
-followed / simulated always feels better than "the Eularian
-viewpoint", thinking a predefined grid and u watch the fluid passing
-through. In either case number of particles / grid size defines the
-precision of the calculation, but IMO Lagrangian viewpoint can get
-better precision, especially in edge cases.
+SPH (for fluid simulation) uses the Lagrangian viewpoint. I guess this
+viewpoint comes more natural to me bcz of software and simuation
+background; thinking of particles that are followed / simulated make
+more sense than "the Eularian viewpoint", thinking a predefined grid
+that doens't change and u watch the fluid passing through. In either
+case number of particles / grid size defines the precision of the
+calculation, but IMO Lagrangian viewpoint can get better precision,
+especially in edge cases.
 
 ---
 
