@@ -32,7 +32,7 @@ Eulerian fluid"
 
 ---
 
-.. and the Eulerian means that a person "likes to watch"? 😶
+.. and the Eulerian vpoint means that a person "likes to watch"? 😶
 
 ---
 
