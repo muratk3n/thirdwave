@@ -33,12 +33,6 @@ Eulerian fluid"
 
 ---
 
-Barry White I'm Gonna Love You Just a Little Bit More Baby \#music
-
-[Link](https://youtu.be/x6AL1XnHJZs)
-
----
-
 .. and the Eulerian means that a person "likes to watch"? 😶
 
 ---
