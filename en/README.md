@@ -1,149 +1,164 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@ggreenwald
+
+That Trump is talking about a pardon for Snowden, & @RepThomasMassie
+is now explicitly calling for one, should not obscure that this is not
+a right-wing view. Includes groups as disparate as ACLU, NYT Ed Page,
+ex-Obama officials & Church Committee staffers"
 
 ---
 
-"[W]hat isn't discussed is how Mr. 'Content Is King' got his 'content'
-...  [Redstone] bested business rivals throughout his long career as
-he engineered deals for Viacom, Paramount and CBS and displayed an
-unwavering passion to win. ... Viacom Networks (MTV, BET, Comedy
-Central, CMT), the engine that drove Redstone's media empire was
-almost entirely built on 'reality', 'live' and 'free' content. Which
-is to say, Redstone's genius was finding a way to pipe content made
-and paid for by other people (music labels, comedy clubs) on to
-cable. And to fill the gap with non-union, unprotected 'perma-lance'
-innovation in-house. Reality and music television was just
-union-busting. Plain and simple. ... Reality television can seem
-exciting and glamorous. Working on reality television, much less
-so. As the following stories from "professionally abused" insiders
-show, reality TV workers will continue... 'My Super Sweet 16'? A PA
-came up with that. 'Jersey Shore'? Just a rip-off of a True Life
-pitched by an AP. There was no IP ownership. No health-care. And
-Redstone's bet was freelance 20 year olds wouldn't have the stones to
-organize or sue"
+"@KenDilanianNBC
 
-[Link](https://twitter.com/gideonyago/status/1293567900096200710)
+Trump: 'A lot of people' think Edward Snowden 'not being treated
+fairly' via @nypost"
 
 ---
 
-"@h2_view
 
-The New South Wales Government in #Australia has today approved
-@JemenaLtd’s $15m Western Sydney Green Gas (WSGG) Project"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the same week as Hyperion unveiled its hydrogen-electric supercar, students at the <a href="https://twitter.com/tudelft?ref_src=twsrc%5Etfw">@tudelft</a> have presented their newest <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> racing car, Forze IX.<a href="https://t.co/YNfqcikbV9">https://t.co/YNfqcikbV9</a></p>&mdash; Molly Burgess (@molly_burgess97) <a href="https://twitter.com/molly_burgess97/status/1294186312598204416?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HanwhaEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#HanwhaEnergy</a> has completed its $212m <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> power plant, located at the Daesan Industrial Complex in Seosan, <a href="https://twitter.com/hashtag/SouthKorea?src=hash&amp;ref_src=twsrc%5Etfw">#SouthKorea</a>.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a><a href="https://t.co/tc78UJ8aNF">https://t.co/tc78UJ8aNF</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293577551072419845?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Kelager: "The fluid is constrained to stay with the grid. It simply
+cannot exist outside the grid domain, and thus makes it a difficult
+problem to let the fluid flow naturally, e.g. when a fluid container
+fractures"
 
 ---
 
-"But Ginsburg, as Slate’s Mark Joseph Stern has noted, is not the most
-liberal Supreme Court justice; that would be the Obama appointee Sonia
-Sotomayor. In recent years Ginsburg has voted with the majority in
-favor of the fossil-fuel industry and against criminal defendants and
-asylum seekers"
-
-[Link](https://www.nytimes.com/2020/08/12/magazine/the-fandom-around-rbg-is-out-of-step-with-reality.html#click=https://t.co/GoJqnEVMIy)
-
+Kelager: "The Navier-Stokes equations .. formulate the motion of an
+Eulerian fluid"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a>, who will make history as our next Vice President. She understands what it takes to stand up for working people, fight for health care for all, and take down the most corrupt administration in history. Let’s get to work and win.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1293290750982139905?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Barry White I'm Gonna Love You Just a Little Bit More Baby \#music
+
+[Link](https://youtu.be/x6AL1XnHJZs)
 
 ---
 
-"Democrats from all corners of the party appeared largely united behind
-Joe Biden’s selection of the California senator Kamala Harris as his
-running mate on Tuesday ... praise also came from high-profile
-progressive leaders on Tuesday, including two of Biden’s other former
-rivals, the senators Bernie Sanders and Elizabeth Warren"
-
-[Link](https://www.theguardian.com/us-news/2020/aug/11/kamala-harris-democrats-reaction-obama-sanders-warren)
+.. and the Eulerian means that "you like to watch"? 😶
 
 ---
 
-"[Trump] releases attack ad labelling Biden 'racist' as it emerges
-Donald and Ivanka donated to Kamala Harris"
+Lagrangian viewpoint -- does that make me more French minded? 🥴
 
 ---
 
-Wait.. I thought expertise had gone by the wayside, it's like
-technocratic or something.. 
-
-"Brian Lee Hitchens, a Florida taxi driver ... who prayed in the
-morning before going shopping or carrying passengers without a mask,
-was sure that nothing would happen to him and his asthma-sick
-wife. God would take care of him. And possibly the entire corona hype
-is mere hysteria anyway, as could be read on the Internet, and the
-virus is no more dangerous than ordinary flu. Then he fell ill
-himself, then his wife, who struggled for weeks to survive. While
-still in the hospital, Brian Lee Hitchens wrote on Facebook about his
-change of heart 'The virus is not a fake, the pandemic is real. It is
-important to heed the advice of experts' [he wrote]"
-
-[Link](https://www.nzz.ch/feuilleton/die-polemisierende-kulturkritik-leidet-unter-wirklichkeitsverlust-ld.1570515)
+I guess SPH, the "Lagrangian viewpoint" comes more natural to me given
+my software and simuation background; thinking of particles that are
+followed / simulated always feels better than "the Eularian
+viewpoint", thinking a predefined grid and u watch the fluid passing
+through. In either case number of particles / grid size defines the
+precision of the calculation, but IMO Lagrangian viewpoint can get
+better precision, especially in edge cases.
 
 ---
 
-"@emilyfmayer
-
-Just a recap for the people in the back: @DemMaj4Israel and other Israel hawks spent
-
-* $3 million against @JamaalBowmanNY 
-
-* Around $7 million against @IlhanMN'
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/hyperionmotor?ref_src=twsrc%5Etfw">@hyperionmotor</a> has unveiled a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered supercar they hope it will change the way people view <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> tech. The XP-1 will be able to drive for up to 1,000 miles on one tank and it can go from 0 to 60 miles per hour in a little over 2 seconds<a href="https://t.co/L66KICVJcG">https://t.co/L66KICVJcG</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1294203081849176065?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"We are very pleased to announce that we are now ISO9001:2015 certified
-at both our Manufacturing Facility and Green Hydrogen Farm! 🤩"
-
-[Link](https://twitter.com/NanoSUNH2/status/1293519624076767235)
+See Toffler's *Future Shock*
 
 ---
 
-"@levie
-
-My back of the envelope math says that people are more excited by
-Kamala Harris than they were Tim Kaine"
-
----
-
-Robert Bridson, Matthias Müller-Fischer; excellent write-up on fluid dynamics.
-
----
-
-Finally a series on *Foundation*? 😊 Jared Harris as Seldon. I can see
-it, good choice.
-
-[Link](https://youtu.be/FZd3xUDudy8)
+Constructing societies that are against human nature (meaning forager)
+can cause many ills. I bet that is one reason for the *hikikomori* in
+Japan, the reclusive adolescents who dont leave home. This cld be a
+way to subconciously reduce excessive stimuli which modern life
+generates in excess, especially in cities. We are built for a certain
+level of stimuli anything over that causes problems. In the West ppl
+might not become recluse but cld act oddly in different ways, maybe a
+school shooting.
 
 ---
 
-Networks are probably pleased, Kamala can dish it out, do some drama.
+"@DSP_fact
+
+'One can Fourier transform anything—often meaningfully.' -- John Tukey"
 
 ---
 
-In general Californians are good to have in any cabinet. There is some
-culture around green energy in the state, as they've been
-experimenting with a few technologies before everyone else.
+Why are these grades, exams such a big deal at national level in UK?
+Sounds like some nanny level biz, example of over-centralization?
 
 ---
 
-<img width="340" src="https://media2.giphy.com/media/Xjo8pbrphfVuw/200.gif"/>
+If you want to live underground like some mole, or on permanently
+sealed off buildings, you can get that experience on the Moon easily.
 
-<img width="340" src="https://media2.giphy.com/media/Y4WKWgiKhq7AIQYuxa/giphy.gif"/>
-
----
-
-😶
-
-"Fact: While it's generally thought of as a vegetable, eggplant is actually a fruit"
+"But we get the experience of living in encampents"
 
 ---
 
-*Last updated 2020-08-12 22:28*
+Yes but the launch window is every 2 years. You dont go to Mars any
+f-ing time you please, the most efficient time is during the
+window. Why did all these recent launches cram into that one period? This is why.
+
+The launch window for Jupiter comes every year.
+
+"But Mars is much closer than other planets, satellites"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">More exciting news of oceans in the solar system beyond Earth. Water supports complex organic chemistry, but does that chemistry extend as far as life? We’ll have to go to find out ! <a href="https://t.co/KPrybF4tAk">https://t.co/KPrybF4tAk</a></p>&mdash; Brian Cox (@ProfBrianCox) <a href="https://twitter.com/ProfBrianCox/status/1293808618689769473?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tejs drove 2,700 km in 4 countries by hydrogen without problems &amp; without CO2 emissions. Thanks for sharing <a href="https://t.co/wGGR37xXBD">https://t.co/wGGR37xXBD</a></p>&mdash; Bart Biebuyck 🇪🇺 (@bartbiebuyck) <a href="https://twitter.com/bartbiebuyck/status/1293894474242949120?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@AlexBMorse
+
+My opponent is Corporate America's Favorite Congressman. 
+
+I'm running for Congress because we should put people before profits
+and guarantee healthcare as a human right.
+
+Join our fight: [https://bit.ly/2FcjzU0](https://bit.ly/2FcjzU0)"
+
+[Link](https://twitter.com/AlexBMorse/status/1293622387121037313)
+
+---
+
+Jira sucks
+
+"@iLemming
+
+Workforce churn/attrition rates in a given company are proportional to
+the number of tickets in Jira. Software Developers stay longer in a
+company that doesn't use Jira. This isn't even a theory, we all know
+that"
+
+---
+
+"U.S. Congress has frozen weapons sales to Turkey for two years"
+
+---
+
+Wrote an article on mathematical modeling 15+ years ago. The write-up
+went through gazillion file formats, finally became TeX converted
+markdown, published on Github Pages. Now I see ppl finding it online,
+boy did it take long to become that.
+
+---
+
+Looks like this thing is getting worse everywhere. Just watched
+someone in Japan, says so
+
+---
+
+They do look kinda weird
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many people have been using quarantine as a time to perfect their bread or coffee making skills, but I personally have taken this as an opportunity to make increasingly unsettling eggs <a href="https://t.co/7mefhS5ffB">pic.twitter.com/7mefhS5ffB</a></p>&mdash; Anna Hughes (@AnnaGHughes) <a href="https://twitter.com/AnnaGHughes/status/1294270430518312966?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Last updated 2020-08-14 17:55*
 
 ---
 
