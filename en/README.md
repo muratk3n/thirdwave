@@ -39,7 +39,7 @@ Barry White I'm Gonna Love You Just a Little Bit More Baby \#music
 
 ---
 
-.. and the Eulerian means that "you like to watch"? 😶
+.. and the Eulerian means that a person "likes to watch"? 😶
 
 ---
 
