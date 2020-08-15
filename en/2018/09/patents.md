@@ -16,5 +16,7 @@
 
 [Government for De-Patenting](government-for-depatenting.md)
 
+[Knuth on Patents](../../2020/08/knuth-on-patents.md)
+
 [[⇪Up]](../..)
 
