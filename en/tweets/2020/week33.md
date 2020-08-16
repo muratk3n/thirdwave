@@ -1,5 +1,160 @@
 # Week 33
 
+"@mariskreizman
+
+A thing to note about the state of healthcare in this country: when I
+overpay for insulin in order to live, my insurance mandates that I get
+it by mail service rather than at a pharmacy"
+
+---
+
+"@ggreenwald
+
+That Trump is talking about a pardon for Snowden, & @RepThomasMassie
+is now explicitly calling for one, should not obscure that this is not
+a right-wing view. Includes groups as disparate as ACLU, NYT Ed Page,
+ex-Obama officials & Church Committee staffers"
+
+---
+
+"@KenDilanianNBC
+
+Trump: 'A lot of people' think Edward Snowden 'not being treated
+fairly' via @nypost"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the same week as Hyperion unveiled its hydrogen-electric supercar, students at the <a href="https://twitter.com/tudelft?ref_src=twsrc%5Etfw">@tudelft</a> have presented their newest <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> racing car, Forze IX.<a href="https://t.co/YNfqcikbV9">https://t.co/YNfqcikbV9</a></p>&mdash; Molly Burgess (@molly_burgess97) <a href="https://twitter.com/molly_burgess97/status/1294186312598204416?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Kelager: "The fluid is constrained to stay with the grid. It simply
+cannot exist outside the grid domain, and thus makes it a difficult
+problem to let the fluid flow naturally, e.g. when a fluid container
+fractures"
+
+---
+
+Kelager: "The Navier-Stokes equations .. formulate the motion of an
+Eulerian fluid"
+
+---
+
+.. and the Eulerian vpoint means that a person "likes to watch"? 😶
+
+---
+
+Lagrangian viewpoint -- does that make a person French minded?
+
+---
+
+SPH (for fluid simulation) uses the Lagrangian viewpoint which
+simulates / follows the physics of particles. I guess this viewpoint
+comes more natural to me bcz of software background; thinking of
+particles that are simulated make more sense than "the Eularian
+viewpoint", thinking a predefined grid that doens't change and u watch
+the fluid passing through. In either case number of particles / grid
+size defines the precision of the calculation, but IMO Lagrangian
+viewpoint can get better precision, especially in edge cases.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/hyperionmotor?ref_src=twsrc%5Etfw">@hyperionmotor</a> has unveiled a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered supercar they hope it will change the way people view <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> tech. The XP-1 will be able to drive for up to 1,000 miles on one tank and it can go from 0 to 60 miles per hour in a little over 2 seconds<a href="https://t.co/L66KICVJcG">https://t.co/L66KICVJcG</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1294203081849176065?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+See Toffler's *Future Shock*
+
+---
+
+Constructing societies that are against human nature (meaning forager)
+can cause many ills. I bet that is one reason for the *hikikomori* in
+Japan, the reclusive adolescents who dont leave home. This cld be a
+way to subconciously reduce excessive stimuli which modern life
+generates in excess, especially in cities. We are built for a certain
+level of stimuli anything over that causes problems. In the West ppl
+might not become recluse but cld act oddly in different ways, maybe
+crime or other things.
+
+---
+
+"@DSP_fact
+
+'One can Fourier transform anything—often meaningfully.' -- John Tukey"
+
+---
+
+Why are these grades, exams such a big deal at national level in UK?
+Sounds like some nanny level biz, example of over-centralization?
+
+---
+
+If you want to live underground like some mole, or on permanently
+sealed off buildings, you can get that experience on the Moon easily.
+
+"But we get the experience of living in encampents"
+
+---
+
+Yes but the launch window is every 2 years. You dont go to Mars any
+f-ing time you please, the most efficient time is during the
+window. Why did all these recent launches cram into that one period? This is why.
+
+The launch window for Jupiter comes every year.
+
+"But Mars is much closer than other planets, satellites"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">More exciting news of oceans in the solar system beyond Earth. Water supports complex organic chemistry, but does that chemistry extend as far as life? We’ll have to go to find out ! <a href="https://t.co/KPrybF4tAk">https://t.co/KPrybF4tAk</a></p>&mdash; Brian Cox (@ProfBrianCox) <a href="https://twitter.com/ProfBrianCox/status/1293808618689769473?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tejs drove 2,700 km in 4 countries by hydrogen without problems &amp; without CO2 emissions. Thanks for sharing <a href="https://t.co/wGGR37xXBD">https://t.co/wGGR37xXBD</a></p>&mdash; Bart Biebuyck 🇪🇺 (@bartbiebuyck) <a href="https://twitter.com/bartbiebuyck/status/1293894474242949120?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@AlexBMorse
+
+My opponent is Corporate America's Favorite Congressman. 
+
+I'm running for Congress because we should put people before profits
+and guarantee healthcare as a human right.
+
+Join our fight: [https://bit.ly/2FcjzU0](https://bit.ly/2FcjzU0)"
+
+[Link](https://twitter.com/AlexBMorse/status/1293622387121037313)
+
+---
+
+Jira sucks
+
+"@iLemming
+
+Workforce churn/attrition rates in a given company are proportional to
+the number of tickets in Jira. Software Developers stay longer in a
+company that doesn't use Jira. This isn't even a theory, we all know
+that"
+
+---
+
+"U.S. Congress has frozen weapons sales to Turkey for two years"
+
+---
+
+Wrote an article on mathematical models 15+ years ago. The write-up
+went through gazillion file formats, finally became TeX converted
+markdown, published on Github Pages. Now I see ppl finding it online,
+boy did it take long to become that.
+
+---
+
+They do look kinda weird
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many people have been using quarantine as a time to perfect their bread or coffee making skills, but I personally have taken this as an opportunity to make increasingly unsettling eggs <a href="https://t.co/7mefhS5ffB">pic.twitter.com/7mefhS5ffB</a></p>&mdash; Anna Hughes (@AnnaGHughes) <a href="https://twitter.com/AnnaGHughes/status/1294270430518312966?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Founded in 2015, <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@NikolaMotor</a> has rapidly become one of the most talked about vehicle manufacturers... but how did the market leader get to where it is today? Discover the story of <a href="https://twitter.com/hashtag/Nikola?src=hash&amp;ref_src=twsrc%5Etfw">#Nikola</a> in this 3-part series by <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a>’s <a href="https://twitter.com/molly_burgess97?ref_src=twsrc%5Etfw">@molly_burgess97</a>.<a href="https://t.co/oOL2kyIlqL">https://t.co/oOL2kyIlqL</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1293557398532239360?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -482,12 +637,8 @@ H-a-m-b-u-r-g-a !
 
 ---
 
-
-
-
-
-
-
-
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
 
 
