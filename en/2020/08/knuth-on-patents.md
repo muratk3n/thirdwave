@@ -5,13 +5,10 @@ literally wrote the book on some of the key algorithms software uses
 everyday)
 
 Letter to the Patent Office
-From Professor Donald Knuth
-February 1994
 
-Commissioner of Patents and Trademarks
-Box 4
-Patent and Trademark Office
-Washington, DC 20231
+From Professor Donald Knuth
+
+February 1994 ...
 
 Dear Commissioner:
 
