@@ -19,17 +19,17 @@ Ed Markey
 
 ---
 
-"By the end of March, Mina had identified a culprit: 'There’s little
-ability for a central command unit to pool all the resources from
-around the country,' he said at a Harvard event. 'We have no way to
-centralize things in this country short of declaring martial law.' It
-took several more months for him to find a solution to this problem,
-which is to circumvent it altogether. In the past several weeks, he
-has become an evangelist for a total revolution in how the
-U.S. controls the pandemic. Instead of restructuring daily life around
-the American way of testing, he argues, the country should build
-testing into the American way of life. The wand that will accomplish
-this feat is a thin paper. It is a coronavirus test.
+*The Atlantic*: "By the end of March, Mina had identified a culprit:
+'There’s little ability for a central command unit to pool all the
+resources from around the country,' he said at a Harvard event. 'We
+have no way to centralize things in this country short of declaring
+martial law.' It took several more months for him to find a solution
+to this problem, which is to circumvent it altogether. In the past
+several weeks, he has become an evangelist for a total revolution in
+how the U.S. controls the pandemic. Instead of restructuring daily
+life around the American way of testing, he argues, the country should
+build testing into the American way of life. The wand that will
+accomplish this feat is a thin paper. It is a coronavirus test.
 
 Mina says that the U.S. should mass-produce these inexpensive and
 relatively insensitive tests—unlike other methods, they require only a
