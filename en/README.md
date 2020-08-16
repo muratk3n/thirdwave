@@ -29,7 +29,8 @@ several weeks, he has become an evangelist for a total revolution in
 how the U.S. controls the pandemic. Instead of restructuring daily
 life around the American way of testing, he argues, the country should
 build testing into the American way of life. The wand that will
-accomplish this feat is a thin paper. It is a coronavirus test.
+accomplish this feat is a thin paper strip ... It is a coronavirus
+test.
 
 Mina says that the U.S. should mass-produce these inexpensive and
 relatively insensitive tests—unlike other methods, they require only a
