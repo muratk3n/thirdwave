@@ -47,10 +47,10 @@ similar products"
 
 Truman was **not** a simple farmer. Politicians might allow such
 things to be said abt themselves or even help spread the commentary to
-help their "man of the people" image. But reality is different. Truman
-had much experience before he became President. County judge, Civil
-Works admin, Senator, worked at a high-profile commitee, Vice
-President, *then* Potus.
+help their "man of the people" image. Reality is different. Truman had
+much experience before he became President. County judge, Civil Works
+admin, Senator, worked at a high-profile commitee, Vice President,
+*then* Potus.
 
 "But anyone can serve at the highest office look at Truman he was a
 simple farmer"
