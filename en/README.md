@@ -172,9 +172,7 @@ Arab states as dangerous 'intruders' in their own region"
 
 ---
 
-👍 Good stuff. Allows accessing of CAD files from Python. 
-
-`numpy-stl`
+`numpy-stl` 👍 Good stuff. Allows accessing of CAD files from Python. 
 
 ---
 
