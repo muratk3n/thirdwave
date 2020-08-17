@@ -26,6 +26,8 @@
 
 [#keen](02/keen.md)
 
+[Steve Keen's Model, Derivation, Code](02/keen_math.md)
+
 [Late-Stage Capitalism](02/late-stage-capitalism.md)
 
 [Q&A - 18/2](02/q-182.md)
@@ -80,13 +82,15 @@
 
 [Do We Need Central Banks?](05/do-we-need-central-banks.md)
 
+[Economy](05/economy.md)
+
 [Fake Physics](05/fake-physics.md)
 
 [#fedUp](05/fedup.md)
 
 [#noOccupation](05/nooccupation.md)
 
-[Polarization](05/polarization.md)
+[US Polarization](05/polarization.md)
 
 [Princes of Mayhem](05/princes-of-mayhem.md)
 
@@ -102,7 +106,7 @@
 
 [Q&A - 6/5](05/q-65.md)
 
-[Quantity Theory of Money (Credit)](05/quantity-theory-of-money.md)
+[Quantity Theory of Money](05/quantity-theory-of-money.md)
 
 [Settlements, Explained](05/settlements-explained.md)
 
@@ -160,7 +164,7 @@
 
 [#voterShaming](08/votershaming.md)
 
-[Hydrogen Cars](09/hydrogen-cars.md)
+[Globalization](09/globalization.md)
 
 [Hyundai Nexo](09/hyunda-nexo-additions.md)
 
@@ -214,7 +218,7 @@
 
 [#martyr](11/martyr.md)
 
-[Midterm 2018](11/midterm-2018.md)
+[Midterm 2018](11/midterm-.md)
 
 [MPP Analysis](11/mpp-analysis.md)
 
@@ -234,8 +238,6 @@
 
 [Friedman on US, Europe, The World](12/friedman-europe.md)
 
-[The Road to Oblivion](12/the-road-to-oblivion.md)
-
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
 
 [Q&A - 16/12](12/qa-1.md)
@@ -243,6 +245,8 @@
 [](12/quads.md)
 
 [Slack](12/slack.md)
+
+[The Road to Oblivion](12/the-road-to-oblivion.md)
 
 [Green Train](12/train.md)
 
