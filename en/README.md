@@ -26,16 +26,17 @@ Pryda - Madderferrys \#music
 ---
 
 The marketing around the "Google Killer" Wolfram Alfa was mostly bunk
-tho.. Never took that seriously. SW goes back and forth being ignored
-and posturing needlessly. He is a serious scientist however. No doubt
-there.
+tho.. SW goes back and forth being ignored and posturing
+needlessly...
+
+He is a serious scientist, no doubt there.
 
 ---
 
 Our uni legend had it one our CS profs, my Alg I teacher as it turns
 out, had code in Mathematica. He worked with SW's ppl I think. During
-lecture he'd slip up sometimes and say "automata" when it was totally
-unrelated so we'd guess this was his area of research.
+lecture he'd slip up sometimes and say "cellular automata" when it was
+totally unrelated so we guessed this was his area of research.
 
 ---
 
