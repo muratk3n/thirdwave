@@ -11,8 +11,8 @@ href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
-They probably reached some kind of Modus Vivendi, which is good, no
-need for needless struggle if everyone can get something 
+They probably reached some kind of modus vivendi, which is good, no
+need for needless struggle if everyone can get something
 
 "@ChrisMurphyCT
 
