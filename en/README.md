@@ -121,7 +121,7 @@ See I like that. Saying more with less.
 
 ---
 
-Shit - it can do elastic dynamics too? \#SPH. 
+Shit - SPH can do elastic dynamics too? 
 
 [Link](https://youtu.be/l-f16KjR9Bw?t=498)
 
