@@ -36,7 +36,8 @@ He is a serious scientist, no doubt there.
 Our uni legend had it one our CS profs, my Alg I teacher as it turns
 out, had code in Mathematica. He worked with SW's ppl I think. During
 lecture he'd slip up sometimes and say "cellular automata" when it was
-totally unrelated so we guessed this was his area of research.
+totally unrelated so we guessed this was his area of research. The
+area attracted some smart people is what Im trying to say.
 
 ---
 
