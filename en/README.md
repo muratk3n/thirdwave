@@ -39,14 +39,14 @@ unrelated so we'd guess this was his area of research.
 
 ---
 
-Wolfram might have something going on; starting from computation, you
-could have emergent physics. You hear things abt his group over the
-years, one mathematician I know stumbled upon an invention that had to
-do solving PDEs using cellular automata, and he was piled on by
-Wolfram's people, even threathening legal action for a patent issue?
-Anyway, u gotta be wary of these kind of motherfonkers tucked away
-somewhere toiling away on some arcane knowhow.. They might just
-stumble upon the real thing -- 42.
+Stephen Wolfram might have something going on; starting from
+computation, emergent physics cld be possible.. You hear things abt
+his group over the years, one mathematician I know stumbled upon an
+invention that had to do solving PDEs using cellular automata, and he
+was jumped on by Wolfram's people, even threathening legal action for
+a patent issue?  Anyway, u gotta be wary of these kind of
+motherfonkers tucked away somewhere toiling away on an arcane
+knowhow.. They might just stumble upon the real thing -- 42.
 
 ---
 
