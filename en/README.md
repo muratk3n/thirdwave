@@ -93,7 +93,7 @@ begin selling zero-emission commercial trucks and vans in 2024"
 ---
 
 "RONN Motor Group, today announced the anticipated 2022 release of its
-new Hydrogen Fuel Cell SUV the “Myst”, named for the fact the only
+new Hydrogen Fuel Cell SUV the 'Myst', named for the fact the only
 emission from a hydrogen fuel cell vehicle is water
 vapor. ... Engineered in the United States by a team of automotive
 industry experts"
