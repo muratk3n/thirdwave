@@ -33,7 +33,7 @@ application, completed in June last year"
 
 ---
 
-GEnCell has ammonia based storage system. 100% clean.
+GenCell has ammonia based storage system. 100% green.
 
 "@gencellenergy
 
