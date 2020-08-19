@@ -121,8 +121,7 @@ grave when he said that. I guarantee it.
 
 Or like McCain.. Goldwater Republican.. Thrifty, pro-biz, etc.. These
 people must feel alienated in this latest GOP, Trump brought leftism
-(not "right populism" -good but wrong party-), and bunch of other
-stuff into the party.
+(good but wrong party), and bunch of other stuff into the party.
 
 ---
 
