@@ -42,6 +42,8 @@ increasing intermittent resources, reduced reserve gas capacity and
 peak power demands due to climate impact... clean DERs & storage will
 ease the pressure"
 
+[Link](https://twitter.com/gencellenergy/status/1296099731425329153)
+
 ---
 
 "@schwarz
