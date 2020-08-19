@@ -33,13 +33,14 @@ application, completed in June last year"
 
 ---
 
-Cali needs more clean, offline, efficient energy storage. Solar by
-itself is not enough.
+GEnCell has ammonia based storage system. 100% clean.
 
-"But the blackouts were also a side effect of the state’s increasing
-shift to solar power ... CAISO has told regulators for years that
-'there is inadequate power available during the net peak, the hours
-when the solar [generation] has left the system.'"
+"@gencellenergy
+
+Why is California suffering rolling blackouts?  Difficult to balance
+increasing intermittent resources, reduced reserve gas capacity and
+peak power demands due to climate impact... clean DERs & storage will
+ease the pressure"
 
 ---
 
