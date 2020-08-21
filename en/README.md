@@ -118,8 +118,8 @@ states... here is a \#Pennsylvania lawmaker. \#BlackLivesMatter"
 
 ---
 
-*Superman*, another immigration story. Who played the father in the
-1978 movie? Boom
+*Superman*, another immigration story. And who played the father in
+the 1978 movie? Bingo
 
 ---
 
