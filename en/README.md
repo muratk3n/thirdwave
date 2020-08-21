@@ -10,7 +10,7 @@ href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
-Especially important as antibiotic resistant bugs become more common.
+Could be useful as antibiotic resistant bugs become more common.
 
 "Honey better treatment for coughs and colds than antibiotics, study claims"
 
