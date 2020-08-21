@@ -36,9 +36,10 @@ To repeat: 20 million Americans live in mobile homes.
 ---
 
 People think tiny housers"give up" on bigger space, but they actually
-gain space outside.
+gain space outside. Plus this guy uses the wheels as suspension
+mechanism against earthquakes. Sleek!
 
-[Link](https://youtu.be/dMQAGHhT4e4)
+[Link](https://youtu.be/o84oMGBkx1k)
 
 ---
 
