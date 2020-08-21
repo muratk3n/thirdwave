@@ -65,9 +65,8 @@ belief in its own myth of inevitable superiority. ...
 
 Today’s problems are the *result* of that era’s mistakes. ... 
 
-In 20 years, we have discovered that ..  the nation-state did not die;
-that ideology and identity still matter to people; that the globalized
-economy is out of kilter"
+In 20 years, we have discovered that ..  the nation-state did not die
+... that the globalized economy is out of kilter"
 
 [Link](https://www.theatlantic.com/international/archive/2020/08/brexit-trump-china-90s-golden-era/615406/)
 
