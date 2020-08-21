@@ -35,10 +35,10 @@ To repeat: 20 million Americans live in mobile homes.
 
 ---
 
-True. People think this couple "gave up" on bigger space, but they
-actually gained space outside.
+People think tiny housers"give up" on bigger space, but they actually
+gain space outside.
 
-[Link](https://youtu.be/yfBwePSC6PU?t=114)
+[Link](https://youtu.be/dMQAGHhT4e4)
 
 ---
 
