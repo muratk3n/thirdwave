@@ -10,8 +10,7 @@ href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
-Especially important since antibiotic resistant bugs started showing
-up.
+Especially important as antibiotic resistant bugs become more common.
 
 "Honey better treatment for coughs and colds than antibiotics, study claims"
 
@@ -48,6 +47,12 @@ thus density and pressure) of the fluid. You may once have been taught
 that the difference between liquids and gases was that gases change
 their volume but liquids don’t, but that’s not really true: otherwise
 you wouldn’t be able to hear underwater!"
+
+---
+
+"Over 70 Republican National Security Officials Endorse Biden"
+
+[Link](https://www.forbes.com/sites/jemimamcevoy/2020/08/20/over-70-republican-national-security-officials-endorse-biden-deem-trump-dangerously-unfit-for-president/#43c91b505375)
 
 ---
 
