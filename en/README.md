@@ -24,8 +24,8 @@ Marcos Valle - Escape \#music
 
 ---
 
-With advance on two things mobile, tiny / mobile living can skyrocket
-even more; 1) cheap, light storage of solar energy 2) easy recycling,
+With advance on two things mobile, such living can skyrocket even
+more; 1) cheap, light storage of solar energy 2) easy recycling,
 destroying of bio waste.
 
 ---
