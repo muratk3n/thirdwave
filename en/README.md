@@ -122,7 +122,7 @@ Now the role goes to the "highest ranking foreigner" in Holywood; Russell Crowe.
 ---
 
 *Superman*, another immigration story. And who played the father in
-the 1978 movie? Bingo
+the 1978 movie? 
 
 ---
 
