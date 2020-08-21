@@ -24,9 +24,10 @@ Marcos Valle - Escape \#music
 
 ---
 
-With advance on two things mobile, such living can skyrocket even
-more; 1) cheap, light storage of solar energy 2) easy recycling,
-destroying of bio waste.
+With advances on three things, such living can skyrocket even more; 1)
+cheap, light storage of solar energy 2) easy recycling, destroying of
+bio waste 3) quick, air transportation of goods to anywhere in the
+world (retail drone delivey).
 
 ---
 
