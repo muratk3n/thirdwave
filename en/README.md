@@ -27,7 +27,7 @@ I get a *Men In Black* vibe... musta been inspired by TFE
 
 ---
 
-The Fifth Element, such a cooky movie.. 
+The Fifth Element, such a kooky movie.. 
 
 ---
 
