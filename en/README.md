@@ -97,7 +97,7 @@ Colorado has its own Secretary of State?
 
 Just watched another mobile home showcase video where the owner said
 they installed solar panels, utilizing their setup at 30% capacity and
-it was enough for them. There is so much unused solar capacity.
+it was enough for them. There is so much unused solar potential.
 
 ---
 
