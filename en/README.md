@@ -1,154 +1,198 @@
 # Tweets
 
-Pinned Tweet
-
-<iframe src="https://player.vimeo.com/video/446628630" width="340"
-frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/446628630">Hyperion XP-1 Reveal</a> from
-<a href="https://vimeo.com/user119552667">Hyperion</a> on <a
-href="https://vimeo.com">Vimeo</a>.</p>
+The Guardian: "Trouble for Trump as Fox News praises 'enormously
+effective' Biden speech"
 
 ---
 
-Could be useful as antibiotic resistant bugs become more common.
+"@_RichardHall
 
-"Honey better treatment for coughs and colds than antibiotics, study claims"
-
-[Link](https://www.theguardian.com/science/2020/aug/19/honey-better-treatment-for-coughs-and-colds-than-antibiotics-study-clams)
-
----
-
-Marcos Valle - Escape \#music
-
-[Link](https://youtu.be/NIG2tDuR_M8)
+Exclusive: Carter Centre to launch first-ever US election initiative,
+citing "erosion" of democracy in the country. The organisation,
+founded by Carter, monitors elections in hotspots around the
+world. This is the first time it has worked in the US"
 
 ---
 
-With advances on three things, such living can skyrocket even more; 1)
-cheap, light storage of solar energy 2) easy recycling, destroying of
-bio waste 3) quick, air transportation of goods to anywhere in the
-world (retail drone delivey).
+haha
+
+@A_J_Higgins
+
+'How did the Russians get so far ahead of us in rocket technology?'
+'Because Their Germans were better than our Germans.'
 
 ---
 
-To repeat: 20 million Americans live in mobile homes. 
+I get a Men In Black vibe... musta been inspired by TFE
 
 ---
 
-People think tiny housers "give up" on bigger space, but they actually
-gain space outside. Plus this guy uses the wheels as suspension
-mechanism against earthquakes. Sleek!
-
-[Link](https://youtu.be/o84oMGBkx1k)
+The Fifth Element, such a cooky movie.. 
 
 ---
 
-"Real fluids, even liquids like water, change their volume. In fact,
-that’s just what sound waves are: perturbations in the volume (and
-thus density and pressure) of the fluid. You may once have been taught
-that the difference between liquids and gases was that gases change
-their volume but liquids don’t, but that’s not really true: otherwise
-you wouldn’t be able to hear underwater!"
+"A single high-pressure system rolling in from the Southwest initiated
+the heat wave and the thunderstorms, which together created the
+conditions for the fires, which will likely both exacerbate and be
+exacerbated by the pandemic, which has diminished firefighting
+resources and, along with the heat wave, contributed to the blackouts
+by keeping people at home with their air-conditioning on full
+blast.These overlapping disasters compound"
+
+[Link](https://www.theatlantic.com/science/archive/2020/08/exponential-threat-pandemic-wildfires/615574/)
 
 ---
 
-"Over 70 Republican National Security Officials Endorse Biden"
+Nice. And 19th century math isn't that bad. They had a lot of what's
+there today.
 
-[Link](https://www.forbes.com/sites/jemimamcevoy/2020/08/20/over-70-republican-national-security-officials-endorse-biden-deem-trump-dangerously-unfit-for-president/#43c91b505375)
+Wolfram on Feynman: "Some scientists (myself probably included) are
+driven by the ambition to build grand intellectual edifices. I think
+Feynman—at least in the years I knew him—was much more driven by the
+pure pleasure of actually doing the science. He seemed to like best to
+spend his time figuring things out, and calculating. And he was a
+great calculator. All around perhaps the best human calculator there's
+ever been.
 
----
+He always just used regular calculus and things. Essentially
+nineteenth-century mathematics. He never trusted much else. But
+wherever one could go with that, Feynman could go. Like no one else"
 
-"Although there is little consensus on the questions of when and how
-the previous era ended—or what it means for the future—something of a
-common understanding is beginning to emerge: The golden era of the
-'90s was never golden to begin with. Like Gibbon’s Rome, it was
-structurally and irretrievably defective, compromised by the arrogant
-belief in its own myth of inevitable superiority. ...
-
-Today’s problems are the *result* of that era’s mistakes. ... 
-
-In 20 years, we have discovered that ..  the nation-state did not die
-... that the globalized economy is out of kilter"
-
-[Link](https://www.theatlantic.com/international/archive/2020/08/brexit-trump-china-90s-golden-era/615406/)
-
+[Link](https://www.stephenwolfram.com/publications/short-talk-about-richard-feynman/)
 
 ---
 
-Ursula 1000 feat Sal P-Stand Up Straight (In Flagranti Remix) \#music
+Signalrunners - Recoil \#music
 
-[Link](https://youtu.be/eq9xMall-Vw)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">South Korea sees <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> as a new engine for economic growth and central to the country’s shift to a low-carbon economy in the long-term. According to estimates, the size of the hydrogen industry in Korea is $12bn in 2020... <a href="https://t.co/CW29xQok2W">https://t.co/CW29xQok2W</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1296358248065400832?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://youtu.be/FRXR-5vMoUM)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I remember when 56 murders in <a href="https://twitter.com/hashtag/Louisville?src=hash&amp;ref_src=twsrc%5Etfw">#Louisville</a> was called a community crisis.</p>&mdash; Philmonger (@phillipmbailey) <a href="https://twitter.com/phillipmbailey/status/1296334312393060352?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+In the early day of modern physics they could recover $G$ from the
+small $g$. They knew the circumf of earth, so they could know radius,
+a rough mass (from volume), u get small g through experiment with
+dropping object etc, then $G = g r^2 / m_2$,
+
+```python
+m2 = 5.972e24 # kg
+r = 6371000 # meters
+g = 9.8
+G = g*r**2 / m2
+print (G)
+```
+
+```text
+6.660724745478902e-11
+```
+
+A rough approx but usable. 
 
 ---
 
-"@ericbradner
+Colorado has its own Secretary of State?
 
-This roll call has been much more interesting than speeches and
-shouting from a convention floor. Seems likely this will be the way
-it's done moving forward"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I won?t allow <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> to send law enforcement to polling locations to intimidate voters. This is designed for voter intimidation, indistinguishable from tactics used against black voters in the Jim Crow South.</p>&mdash; Jena Griswold (@JenaGriswold) <a href="https://twitter.com/JenaGriswold/status/1296853672052183041?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-[The hat](https://pbs.twimg.com/media/EfwcLhDWsAE0X39?format=jpg&name=small)
+Just watched another mobile home showcase video where the owner said
+they installed solar panels, utilizing their setup at 30% capacity and
+it was enough for them. There is so much unused solar capacity.
 
 ---
 
-"Black Officer Fired From Greensboro Police Department For Condemning
-Treatment Of George Floyd"
+"@MitchFound
 
-[Link](https://www.unilad.co.uk/news/black-officer-who-condemned-treatment-of-george-floyd-on-tiktok-fired-from-greensboro-police-department/amp/)
+Cleaner but not clean. Scientists say natural gas is emerging as one
+of the biggest drivers of climate change"
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I worked for them for two and a half years, and I completely agree with you.</p>&mdash; Scott Feeney (@graue) <a href="https://twitter.com/graue/status/1296201179899158528?ref_src=twsrc%5Etfw">August 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](http://ow.ly/P6bo30r5C7q )
 
 ---
 
-"@phillipmbailey
-
-\#BreonnaTaylor law banning no-knock warrants spreading to other
-states... here is a \#Pennsylvania lawmaker. \#BlackLivesMatter"
-
----
-
-*Superman*, another immigration story. And who played the father in
-the 1978 movie? 
-
-Now the role goes to the "highest ranking foreigner" in Holywood; Russell Crowe.
+*First Contact*, the Borg develop resistance for beam weapons, Picard
+goes to holodeck disables safety, shoots Borg with old-fashioned
+bullets. Kinda roundabout way of fighting an enemy no?. Why wld u give
+up on projectile weaponary in the first place?
 
 ---
 
-Ed Norton is right too; *The Godfather* is an immigration
-story. Remember the father didn't want "the life" for his son, saz to
-the son near the end. That is the defining scene for the mov IMO
+"@Control_Design
+
+U.S. manufacturers reevaluating relationship with China says
+survey. Business plans are being rewritten and many are planning to
+leave China in the wake of coronavirus"
+
+[Link](https://bit.ly/2Qdn9PZ)
 
 ---
 
-"The irony is that Capra, born dirt poor in Sicily and an Italian
-immigrant with all the Italian mobster stereotypes that went with it,
-best depicted the American dream of the greatest generation in his
-movies. He showed that it was possible to become a full American and
-not persist in an ethnic ghetto"
+"@abbydphillip
 
-[Link](https://www.wsj.com/articles/capra-beats-coppola-in-immigrant-values-11546358904)
-
----
-
-Haha "more Coppola than Capra"
-
-[Link](https://www.thedailybeast.com/the-rise-of-calamari-fueled-by-rhode-islands-dirty-politics)
+Big development in the hearing so far: DeJoy has now committed to
+processing election mail as first class mail regardless of the postage
+used. CNN had obtained docs showing that this year USPS planned to
+treat election mail as marketing mail (slower) if it was mailed that
+way"
 
 ---
 
-*Last updated 2020-08-21 09:13*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Biden just recited the slogan of the Sunrise Movement.</p>&mdash; Kaniela Ing (@KanielaIng) <a href="https://twitter.com/KanielaIng/status/1296644458121801728?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@ProfBrianCox
+
+I stand by my prediction from months ago. Johnson will cave on almost
+everything, as he did on the withdrawal agreement, because there is no
+other option. He should extend the transition, but he won’t. He will
+need a face saving headline and that will be something to do with fish"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contract awarded: Complete fueling solution and 12-year hydrogen supply.<br><br>The province of South Holland has entered into a long-term contractual agreement with Everfuel for the fueling of <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> buses.<br><br>Press: <a href="https://t.co/WmWBoxeBGq">https://t.co/WmWBoxeBGq</a><br> <a href="https://twitter.com/hashtag/GreenTransport?src=hash&amp;ref_src=twsrc%5Etfw">#GreenTransport</a> <a href="https://t.co/UHkzHNSxAH">pic.twitter.com/UHkzHNSxAH</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1296486446090641409?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Glad PySPH is there, but they do code generation, too reliant on
+`cython`. I am almost certain they could gain the same speed with
+`numba` wout code gen.
+
+Also MayaVi usage is obtuse.
+
+The "Hello World" app for SPH is dam break. Gotta get that done,
+simply.
+
+---
+
+Rhythm Heritage -- Theme From S.W.A.T.
+
+[Link](https://youtu.be/LHDg96-ZN_U)
+
+---
+
+The Crystal Method - Born Too Slow (Deepsky's Green Absinthe Dub Mix) \#music
+
+[Link](https://youtu.be/gBHjcv_D4V4?t=35)
+
+---
+
+Mathematicians knew things other the Calculus then; advanced
+polynomials, power series, geometry and how to use all of that for
+planetary calc. I doubt regular Calc student can do any of that today.
+
+The tweet is essentially pitting Isaac Freaking Newton against any
+student who knows Calculus today. IN would clean their clock. Any good
+mathmatician of that era would too.  
+
+"@AnalysisFact
+
+Once you learn calculus, you've caught up to what was the cutting edge
+of math in 1687"
+
+---
+
+*Last updated 2020-08-22 18:22*
 
 ---
 
