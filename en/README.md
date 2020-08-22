@@ -182,8 +182,8 @@ polynomials, power series, geometry and how to use all of that for
 planetary calc. I doubt regular Calc student can do any of that today.
 
 The tweet is essentially pitting Isaac Freaking Newton against any
-student who knows Calculus today. IN would clean their clock. Any good
-mathmatician of that era would too.  
+student who knows Calculus. IN would clean their clock. Any good
+mathmatician of that era would too.
 
 "@AnalysisFact
 
