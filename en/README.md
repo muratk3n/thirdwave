@@ -68,10 +68,10 @@ Signalrunners - Recoil \#music
 
 ---
 
-In the early day of modern physics they could recover $G$ from the
-small $g$. They knew the circumf of earth, so they could know radius,
-a rough mass (from volume), u get small g through experiment with
-dropping object etc, then $G = g r^2 / m_2$,
+In the early day of modern physics they could probably recover $G$
+from the small $g$. They knew the circumf of earth, so they could know
+radius, a rough mass (from volume), u get small g through experiment
+with dropping object etc, then $G = g r^2 / m_2$,
 
 ```python
 m2 = 5.972e24 # kg
