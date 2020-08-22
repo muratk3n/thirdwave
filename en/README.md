@@ -8,7 +8,7 @@ effective' Biden speech"
 "@_RichardHall
 
 Exclusive: Carter Centre to launch first-ever US election initiative,
-citing "erosion" of democracy in the country. The organisation,
+citing 'erosion' of democracy in the country. The organisation,
 founded by Carter, monitors elections in hotspots around the
 world. This is the first time it has worked in the US"
 
@@ -18,7 +18,7 @@ haha
 
 @A_J_Higgins
 
-'How did the Russians get so far ahead of us in rocket technology?'
+'How did the Russians get so far ahead of [US] in rocket technology?'
 'Because Their Germans were better than our Germans.'
 
 ---
@@ -37,7 +37,7 @@ conditions for the fires, which will likely both exacerbate and be
 exacerbated by the pandemic, which has diminished firefighting
 resources and, along with the heat wave, contributed to the blackouts
 by keeping people at home with their air-conditioning on full
-blast.These overlapping disasters compound"
+blast. These overlapping disasters compound"
 
 [Link](https://www.theatlantic.com/science/archive/2020/08/exponential-threat-pandemic-wildfires/615574/)
 
