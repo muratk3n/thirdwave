@@ -1,7 +1,7 @@
 # Tweets
 
 
-People wld still suffer, bcz of the shortcomings of the market,
+People wld still suffer, bcz of the shortcomings of the market, sure,
 e.g. they'd have to organize a GoFundMe for a dentist appointment, but
 then the cure would be clearer; the opposition party.
 
