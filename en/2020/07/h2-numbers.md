@@ -1,5 +1,28 @@
 # Numbers on H2 Energy
 
+BEV
+
+The EV has an overall efficiency of about 60%. Electric grid
+efficiency is 40%, 60% x 40% gives a total of 24%. 
+
+H2 ve BE
+
+Assuming same electricity comes from panels to both processes,
+electrolysis is 70%, pipeline transfer is 97%, for FC car efficiency
+34% efficient (same as gasoline car). For BE let's say they store
+electricity 100% on some battery, lose 60% while transferring, and 40%
+in the car,
+
+```python
+print (0.70*0.97*0.34) # h2
+print (1.00*0.40*0.60) # be
+```
+
+```text
+0.23085999999999998
+0.24
+```
+
 Gasoline
 
 1 gallon is 2.56 kg. In Europe the gasoline price is about 9 dollar
@@ -46,29 +69,6 @@ Current best processes for water electrolysis (PEM or alkaline
 electrolysis) have an effective electrical efficiency of 70–80%,
 producing 1 kg of hydrogen requires 50–55 kW⋅h of electricity
 [1]. 
-
-BEV
-
-The EV has an overall efficiency of about 60%. Electric grid
-efficiency is 40%, 60% x 40% gives a total of 24%. 
-
-H2 ve BE
-
-Assuming same electricity comes from panels to both processes,
-electrolysis is 70%, pipeline transfer is 97%, for FC car efficiency
-34% efficient (same as gasoline car). For BE let's say they store
-electricity 100% on some battery, lose 60% while transferring, and 40%
-in the car,
-
-```python
-print (0.70*0.97*0.34) # h2
-print (1.00*0.40*0.60) # be
-```
-
-```text
-0.23085999999999998
-0.24
-```
 
 Ammonia
 
