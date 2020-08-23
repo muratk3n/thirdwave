@@ -63,8 +63,8 @@ for example at Mars, over many days, this is what they saw,
 
 <img width="340" src="https://external-preview.redd.it/XJ4ccZlh33IP9nQrp5nzGb-N-bXUKoiND4rjWbwrd-8.jpg?width=960&crop=smart&auto=webp&s=6f11fbd1a9de1ed103ecf44a58995fd2c71f9160"/>
 
-This is 2D. Bunch of dots on a screen. How do you get to the first
-picture from the second? How did Copernicus do it? This was the
+This is 2D. Bunch of dots on a (sky) screen. How do you get to the
+first picture from the second? How did Copernicus do it? This was the
 biggest detective story of the ancient times. Skipping that train of
 thought is a disservice too all students.
 
