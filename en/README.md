@@ -1,189 +1,94 @@
 # Tweets
 
-The Guardian: "Trouble for Trump as Fox News praises 'enormously
-effective' Biden speech"
+McCain and Romney were both close to libertards, but their elec loss
+doesnt mean the mov is discredited. 2008 crisis wouldnt happen in a
+truly market econ, libertards hate them. And yes, Fenni Mae and
+Freddie Mac are *centrist* institutions. Part gov, part market, little
+in, little out, doing massive securitization with gov guarantee.. how
+is this not a f-ing abomination, hallmark of centrism?
 
 ---
 
-"@_RichardHall
-
-Exclusive: Carter Centre to launch first-ever US election initiative,
-citing 'erosion' of democracy in the country. The organisation,
-founded by Carter, monitors elections in hotspots around the
-world. This is the first time it has worked in the US"
-
----
-
-haha
-
-@A_J_Higgins
-
-'How did the Russians get so far ahead of [US] in rocket technology?'
-'Because Their Germans were better than our Germans.'
+Distinct right needs to exist just like distinct left. Going lukewarm
+on each issue (centrism) doesn't work. Mixing distinct issues from
+each side doesn't work (fascism). Clear-cut ideology needs to be in
+different parties. We need tards in GOP being against excessive
+regulation, pro-market, etc.. and a left party being opposite of that.
 
 ---
 
-I get a *Men In Black* vibe... musta been inspired by TFE
+I bash libertards sometimes but they should be in charge of the
+Republican Party. And moving towards distinct ideologies was taking
+place actually, The Tea Party movement was all about this, no? But GOP
+got sidetracked from that somehow (bcz of fear? but then ended with
+something far worse, in their eyes).
 
 ---
 
-The Fifth Element, such a kooky movie.. 
+He tried to do this *before* the pandemic BTW
 
 ---
 
-"A single high-pressure system rolling in from the Southwest initiated
-the heat wave and the thunderstorms, which together created the
-conditions for the fires, which will likely both exacerbate and be
-exacerbated by the pandemic, which has diminished firefighting
-resources and, along with the heat wave, contributed to the blackouts
-by keeping people at home with their air-conditioning on full
-blast. These overlapping disasters compound"
+Reining in drug prices? What are you -- a leftist?
 
-[Link](https://www.theatlantic.com/science/archive/2020/08/exponential-threat-pandemic-wildfires/615574/)
+There is a maaaarket, supply, and demaaaand.
 
----
+I guess he didn't care. 
 
-Nice. And 19th century math isn't that bad. They had a lot of what's
-there today.
+July 2019: "Trump's Efforts to Rein In Drug Prices ..".
 
-Wolfram on Feynman: "Some scientists (myself probably included) are
-driven by the ambition to build grand intellectual edifices. I think
-Feynman—at least in the years I knew him—was much more driven by the
-pure pleasure of actually doing the science. He seemed to like best to
-spend his time figuring things out, and calculating. And he was a
-great calculator. All around perhaps the best human calculator there's
-ever been.
-
-He always just used regular calculus and things. Essentially
-nineteenth-century mathematics. He never trusted much else. But
-wherever one could go with that, Feynman could go. Like no one else"
-
-[Link](https://www.stephenwolfram.com/publications/short-talk-about-richard-feynman/)
+[Link](https://www.nytimes.com/2019/07/11/health/drug-prices-rebate-donald-trump.html)
 
 ---
 
-Signalrunners - Recoil \#music
-
-[Link](https://youtu.be/FRXR-5vMoUM)
-
----
-
-In the early day of modern physics they could probably recover $G$
-from the small $g$. They knew the circumf of earth, so they could know
-radius, a rough mass (from volume), u get small g through experiment
-with dropping object etc, then $G = g r^2 / m_2$,
-
-```python
-m2 = 5.972e24 # kg
-r = 6371000 # meters
-g = 9.8
-G = g*r**2 / m2
-print (G)
-```
-
-```text
-6.660724745478902e-11
-```
-
-A rough approx but usable. 
+Scientists then were essentially looking at a 2D projection of a 3D
+system, which they did not know but had to reason about
+mathematically. They had to be a mathematical detective. *This* is
+science. None of that process is thought, or even hinted at, at
+schools, even to kids who can grasp it. What we teach today is
+cargo-cult science, even if the material is the outcome of real
+science.
 
 ---
 
-Colorado has its own Secretary of State?
+Teaching science wout teaching how scientist came up with that
+science, makes zero sense. Now we know about planets, orbits, our
+sun-centric system, we see pictures like the one below all over the
+place, in many books thanks to the scientist that led to them.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I won?t allow <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> to send law enforcement to polling locations to intimidate voters. This is designed for voter intimidation, indistinguishable from tactics used against black voters in the Jim Crow South.</p>&mdash; Jena Griswold (@JenaGriswold) <a href="https://twitter.com/JenaGriswold/status/1296853672052183041?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://ak.picdn.net/shutterstock/videos/1006650247/thumb/1.jpg"/>
 
----
+But that's not what they themselves saw in the sky. When they looked,
+for example at Mars, over many days, this is what they saw,
 
-Just watched another mobile home showcase video where the owner said
-they installed solar panels, utilizing their setup at 30% capacity and
-it was enough for them. There is so much unused solar potential.
+<img width="340" src="https://external-preview.redd.it/XJ4ccZlh33IP9nQrp5nzGb-N-bXUKoiND4rjWbwrd-8.jpg?width=960&crop=smart&auto=webp&s=6f11fbd1a9de1ed103ecf44a58995fd2c71f9160"/>
 
----
-
-"@MitchFound
-
-Cleaner but not clean. Scientists say natural gas is emerging as one
-of the biggest drivers of climate change"
-
-[Link](http://ow.ly/P6bo30r5C7q )
+This is 2D. Bunch of dots on a screen. How do you get to the first
+picture from the second? How did Copernicus do it? This was the
+biggest detective story of the ancient times. Skipping that train of
+thought is a disservice too all students.
 
 ---
 
-*First Contact*, the Borg develop resistance for beam weapons, Picard
-goes to holodeck disables safety, shoots Borg with old-fashioned
-bullets. Kinda roundabout way of fighting an enemy no?. Why wld u give
-up on projectile weaponary in the first place?
+A new type of plastic that can be easily broken down into its chemical building blocks and reassembled into high-quality products could reduce the amount of plastic waste ending up in landfill.
+
+[Link](https://www.newscientist.com/article/2252265-a-new-type-of-plastic-may-be-the-first-that-is-infinitely-recyclable/#ixzz6VsburzcR)
 
 ---
 
-"@Control_Design
+Not bad. 
 
-U.S. manufacturers reevaluating relationship with China says
-survey. Business plans are being rewritten and many are planning to
-leave China in the wake of coronavirus"
+"Isaac Newton estimated, without access to reliable measurement, that
+the density of Earth would be five or six times as great as the
+density of water, which is surprisingly accurate (the modern value is
+5.515). Newton under-estimated the Earth's volume by about 30%, so
+that his estimate would be roughly equivalent to 4.2±0.5 × 10^24 kg"
 
-[Link](https://bit.ly/2Qdn9PZ)
-
----
-
-"@abbydphillip
-
-Big development in the hearing so far: DeJoy has now committed to
-processing election mail as first class mail regardless of the postage
-used. CNN had obtained docs showing that this year USPS planned to
-treat election mail as marketing mail (slower) if it was mailed that
-way"
+[Link](https://en.wikipedia.org/wiki/Earth_mass#Early_estimates)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Biden just recited the slogan of the Sunrise Movement.</p>&mdash; Kaniela Ing (@KanielaIng) <a href="https://twitter.com/KanielaIng/status/1296644458121801728?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contract awarded: Complete fueling solution and 12-year hydrogen supply.<br><br>The province of South Holland has entered into a long-term contractual agreement with Everfuel for the fueling of <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> buses.<br><br>Press: <a href="https://t.co/WmWBoxeBGq">https://t.co/WmWBoxeBGq</a><br> <a href="https://twitter.com/hashtag/GreenTransport?src=hash&amp;ref_src=twsrc%5Etfw">#GreenTransport</a> <a href="https://t.co/UHkzHNSxAH">pic.twitter.com/UHkzHNSxAH</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1296486446090641409?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Glad PySPH is there, but they do code generation, too reliant on
-`cython`. I am almost certain they could gain the same speed with
-`numba` wout code gen.
-
-Also MayaVi usage is obtuse.
-
-The "Hello World" app for SPH is dam break. Gotta get that done,
-simply.
-
----
-
-Rhythm Heritage -- Theme From S.W.A.T.
-
-[Link](https://youtu.be/LHDg96-ZN_U)
-
----
-
-The Crystal Method - Born Too Slow (Deepsky's Green Absinthe Dub Mix) \#music
-
-[Link](https://youtu.be/gBHjcv_D4V4?t=35)
-
----
-
-Mathematicians knew things other the Calculus then; advanced
-polynomials, power series, geometry and how to use all of that for
-planetary calc. I doubt regular Calc student can do any of that today.
-
-The tweet is essentially pitting Isaac Freaking Newton against any
-student who knows Calculus. IN would clean their clock. Any good
-mathmatician of that era would too.
-
-"@AnalysisFact
-
-Once you learn calculus, you've caught up to what was the cutting edge
-of math in 1687"
-
----
-
-*Last updated 2020-08-22 18:22*
+*Last updated 2020-08-24 01:00*
 
 ---
 
