@@ -1,9 +1,9 @@
 # Tweets
 
 
-People wld still suffer bcz of market, they'd still have to organize a
-GoFundMe for a dentist appointment, but then the cure would be
-clearer; the opposition party.
+People wld still suffer, bcz of the shortcomings of the market,
+e.g. they'd have to organize a GoFundMe for a dentist appointment, but
+then the cure would be clearer; the opposition party.
 
 ---
 
