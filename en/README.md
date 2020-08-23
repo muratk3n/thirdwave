@@ -77,7 +77,9 @@ thought is a disservice too all students.
 
 ---
 
-A new type of plastic that can be easily broken down into its chemical building blocks and reassembled into high-quality products could reduce the amount of plastic waste ending up in landfill.
+A new type of plastic that can be easily broken down into its chemical
+building blocks and reassembled into high-quality products
+could reduce the amount of plastic waste ending up in landfill.
 
 [Link](https://www.newscientist.com/article/2252265-a-new-type-of-plastic-may-be-the-first-that-is-infinitely-recyclable/#ixzz6VsburzcR)
 
