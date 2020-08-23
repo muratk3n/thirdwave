@@ -2,10 +2,10 @@
 
 McCain and Romney were both close to libertards, but their elec loss
 doesnt mean the mov is discredited. 2008 crisis wouldnt happen in a
-truly market econ, libertards hate them. And yes, Fenni Mae and
-Freddie Mac are *centrist* institutions. Part gov, part market, little
-in, little out, doing massive securitization with gov guarantee.. how
-is this not a f-ing abomination, hallmark of centrism?
+truly market econ, libertards hate them. Fenni Mae and Freddie Mac are
+*centrist* institutions. Part gov, part market, little in, little out,
+doing massive securitization with gov guarantee.. how is this not a
+f-ing abomination, hallmark of centrism?
 
 ---
 
