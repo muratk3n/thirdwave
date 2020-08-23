@@ -141,15 +141,6 @@ way"
 
 ---
 
-"@ProfBrianCox
-
-I stand by my prediction from months ago. Johnson will cave on almost
-everything, as he did on the withdrawal agreement, because there is no
-other option. He should extend the transition, but he won’t. He will
-need a face saving headline and that will be something to do with fish"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contract awarded: Complete fueling solution and 12-year hydrogen supply.<br><br>The province of South Holland has entered into a long-term contractual agreement with Everfuel for the fueling of <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> buses.<br><br>Press: <a href="https://t.co/WmWBoxeBGq">https://t.co/WmWBoxeBGq</a><br> <a href="https://twitter.com/hashtag/GreenTransport?src=hash&amp;ref_src=twsrc%5Etfw">#GreenTransport</a> <a href="https://t.co/UHkzHNSxAH">pic.twitter.com/UHkzHNSxAH</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1296486446090641409?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
