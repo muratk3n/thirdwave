@@ -1,5 +1,12 @@
 # Tweets
 
+
+People wld still suffer bcz of market, they'd still have to organize a
+GoFundMe for a dentist appointment, but then the cure would be
+clearer; the opposition party.
+
+---
+
 McCain and Romney were both close to libertards, but their elec loss
 doesnt mean the mov is discredited. 2008 crisis wouldnt happen in a
 truly market econ, libertards hate them. Fenni Mae and Freddie Mac are
