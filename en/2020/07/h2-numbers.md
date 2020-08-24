@@ -86,12 +86,13 @@ References
 
 [1] https://en.wikipedia.org/wiki/Electrolysis_of_water
 
-[2] https://en.wikipedia.org/wiki/Desalination#Energy_consumption
+[2] [WP - Desalination](https://en.wikipedia.org/wiki/Desalination#Energy_consumption)
 
 [3] https://h2.live/en/wasserstoffautos/hyundai-nexo
 
-[4] https://www.extremetech.com/extreme/280219-2019-hyundai-nexo-review-380-miles-on-hydrogen-can-your-ev-go-that-far
+[4] [extremetech](https://www.extremetech.com/extreme/280219-2019-hyundai-nexo-review-380-miles-on-hydrogen-can-your-ev-go-that-far)
 
 [5] https://www.businessinsider.com/this-toyota-fuel-cell-car-can-power-your-house-2014-11
 
 [6] https://www.ammoniaenergy.org/articles/round-trip-efficiency-of-ammonia-as-a-renewable-energy-transportation-media
+
