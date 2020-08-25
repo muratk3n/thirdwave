@@ -127,8 +127,8 @@ in, CS, one of the best explainers of science, a visible scientific
 personality, was denied tenure. They were correct in doing so, "being
 an explainer" doesn't mean a research is being furthered in any
 front. TAlking to bunch of uninformed people, "popularizing" is not
-research. It could be inspiring people, but that's about it. You can't
-do sience by publicity.
+research. It could be inspiring people, but that's about it. You
+shouldn't design by comitee, you shouldn't do science by publicity.
 
 ---
 
