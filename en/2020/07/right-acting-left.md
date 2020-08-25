@@ -63,3 +63,54 @@ campaign.
 The moral of the story is existing parties, cover all bases, help as
 much as possible bcz if all fails, then you get national socialism.
 
+Additions
+
+People have the wrong idea abt how these fascists come to power. The
+expectation is President "Mountain Dew" Herbert Camacho shows up with
+a machine gun, talks tough, all the time. No. After WWI Germany was
+beaten down, economy in ruins, in a terrible state. You can't be like
+Camacho. Fascist then first says **let me help you brother**. Much
+later it's like let's kill some people over there.
+
+<a name='tmp1'/>
+
+I am starting to understand there motherruckers little
+better.. Fascist is the "whatever it takes" guy basically... His
+people are beaten down and he wants to do *whatever it takes* to
+help. He'll take from left, he'll take from right. Whatever. The
+problem is he sees himself as "firefighting" he'll mostly be dealing
+with symptoms rather than causes. You are being laid off, he tells the
+employer not to lay off, disregarding economic machinery. The
+country's culture is getting out of kilter, foreigners have not
+assimilated properly, instead of thinking better inclusion policy, he
+might say "let's just kill them". He is fixing the problem, u see, or
+rather its outward component, "doing whatever it takes" (while
+actually creating bigger problems).  He's turned into locust from a
+mere grasshopper. Desparation did that to him.
+
+This partly explains his authoritarinism, since the fascist is trying
+to *whatever it takes* to help, anyone who is objecting would be
+objecting this person's core being. "How can anyone doubt me, I am
+doing everything I can to help people". It's too personal you see,
+instead of deciding on a general approach, selling it and executing it
+once in power, he is "helping", right now, doing "whatever it takes".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

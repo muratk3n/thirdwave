@@ -459,18 +459,6 @@ Jeff Bezos saying he was giving back"
 
 ---
 
-People have the wrong idea abt how these fascists come to power. The
-expectation is President "Mountain Dew" Herbert Camacho shows up with
-a machine gun, talks tough, all the time.
-
-No. After WWI Germany was beaten down, economy in ruins, in a terrible
-state. You can't be like Camacho. Fascist then first says **let me
-help you brother**. Much later it's like let's kill some people over
-there.
-
-"But I cant believe fascism had some left, leftists in it"
-
----
 
 "Creative destruction: the COVID-19 economic crisis is accelerating the
 demise of fossil fuels"
