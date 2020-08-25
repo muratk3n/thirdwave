@@ -51,7 +51,7 @@ His degree of seperation to Epstein is 2. This guy is fukked.
 
 ---
 
-Rahm -- shut the fuck up.
+Rahm -- shut the fukk up.
 
 ---
 
