@@ -96,7 +96,7 @@ Dude wrote a rough flight simulator in less than 400 LOC in C++ w OpenGL. Impres
 
 ---
 
-Nearly 14 years.
+Uptime for nearly 14 years.
 
 Unix is awesome.
 
