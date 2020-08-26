@@ -46,7 +46,7 @@ trust"
 ---
 
 That was one spaghetti of a code.. I actually saw `global` keyword in
-there. Not cool. Wrapped.
+there. Not cool. Corrected. \#pyopengl
 
 ---
 
