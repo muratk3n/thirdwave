@@ -45,6 +45,11 @@ trust. Best not to gaze too long into that abyss"
 
 ---
 
+That was spaghetti of a code.. I actually saw `global` keyword in
+there. Not cool. Wrapped. 
+
+---
+
 "Computer graphics people often claim that even complex behaviours of
 bodies can be frequently approximated by mass-spring systems"
 
