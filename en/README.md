@@ -45,8 +45,8 @@ trust"
 
 ---
 
-That was spaghetti of a code.. I actually saw `global` keyword in
-there. Not cool. Wrapped. 
+That was one spaghetti of a code.. I actually saw `global` keyword in
+there. Not cool. Wrapped.
 
 ---
 
