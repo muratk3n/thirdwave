@@ -45,8 +45,8 @@ trust. Best not to gaze too long into that abyss"
 
 ---
 
-"Computer graphics people often claim that even complex behaviours of bodies can be frequently
-approximated by mass-spring systems"
+"Computer graphics people often claim that even complex behaviours of
+bodies can be frequently approximated by mass-spring systems"
 
 ---
 
@@ -68,7 +68,7 @@ policy based on ideas thrown around by fakers, impostors.
 
 ---
 
-[Not this guy](https://youtu.be/gN_wAVP043g?t=79).
+[Not this guy](https://youtu.be/gN_wAVP043g?t=79)
 
 That was a cameo on a major scifi show BTW.
 
