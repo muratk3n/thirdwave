@@ -96,7 +96,7 @@ Dude wrote a rough flight simulator in less than 400 LOC in C++ w OpenGL. Impres
 
 ---
 
-Uptime for nearly 14 years.
+That machine has been running without reboot for nearly 14 years.
 
 Unix is awesome.
 
