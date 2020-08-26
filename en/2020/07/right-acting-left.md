@@ -74,7 +74,7 @@ later it's like let's kill some people over there.
 
 <a name='tmp1'/>
 
-I am starting to understand there motherruckers little
+I am starting to understand these motherruckers little
 better.. Fascist is the "whatever it takes" guy basically... His
 people are beaten down and he wants to do *whatever it takes* to
 help. He'll take from left, he'll take from right. Whatever. The
