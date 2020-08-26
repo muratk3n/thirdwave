@@ -109,7 +109,7 @@ Unix is awesome.
 
 ---
 
-"It works on my machine" is the quintessential repsonse to "your code
+"It works on my machine" is the quintessential response to "your code
 doesn't work" in IT or other computer based professions, it is now a
 running joke.
 
