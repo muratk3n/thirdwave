@@ -127,7 +127,7 @@ much abt pol, so ext confirmation is needed. But it is interesting to
 see even then, part of the collective subconcious created the
 "respected leaders of government asked Trump to run" legend which is
 basically what QAnon is about. "He couldn't have been some f-ing
-guy!". That is thinking, the hole this consp is trying to fill.
+guy!". That is the hole this consp is trying to fill.
 
 ---
 
