@@ -35,7 +35,7 @@ will become UK’s first waste plastic to hydrogen facility"
 
 The degree to which you can get away with shit by looking the part and
 speaking convincingly reveals just how much of human society runs on
-trust. Best not to gaze too long into that abyss"
+trust"
 
 [Link](https://twitter.com/TheAgeofShoddy/status/1298501072005115906)
 
