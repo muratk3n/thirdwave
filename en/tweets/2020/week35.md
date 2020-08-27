@@ -1,5 +1,134 @@
 # Week 35
 
+"It seems like renewable hydrogen will play a vital role in The Green
+Deal that should contribute to Europe becoming the first carbon
+neutral continent in the world, and Nel aims to leverage on these
+opportunities going forward"
+
+[Link](https://www.h2-view.com/story/nel-reiterates-strong-outlook-in-q2-results/)
+
+---
+
+Tantrum messaging..? Are they being evil?
+
+"@danieljbaird
+
+Google's intrusive tantrum messaging about not getting their way in
+Australia vs the ACCC is pissing me off. Pushing me back to Apple and
+other services"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q2 key takeaways: revenues up 21% vs Q2-19, all-time-high backlog &amp; cash balance to support investments in organisation &amp; tech, &amp; the capacity of first stage <a href="https://twitter.com/hashtag/electrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#electrolyser</a> expansion will be 500 MW/year. Full report &amp; link to live pres. 08:00 CET today: <a href="https://t.co/Iri8BAlZXb">https://t.co/Iri8BAlZXb</a> <a href="https://t.co/XvH4ux57GF">pic.twitter.com/XvH4ux57GF</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1298487632125726720?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@RyseHydrogen
+
+@PeelLandP has completed the front end engineering design for what
+will become UK’s first waste plastic to hydrogen facility"
+
+---
+
+"@TheAgeofShoddy
+
+The degree to which you can get away with shit by looking the part and
+speaking convincingly reveals just how much of human society runs on
+trust"
+
+[Link](https://twitter.com/TheAgeofShoddy/status/1298501072005115906)
+
+---
+
+`ipyvolume`.. looks good too.... 🤔
+
+---
+
+That was one spaghetti of a code.. I actually saw `global` keyword in
+there. Not cool. Corrected. \#pyopengl
+
+---
+
+"Computer graphics people often claim that even complex behaviours of
+bodies can be frequently approximated by mass-spring systems"
+
+---
+
+Witkin, Pixar Animation Studios: "For example, a wide variety of
+nonrigid structures can be built by connecting particles with simple
+damped springs"
+
+---
+
+Sometimes it feels like there is reality, and there is a make-belief
+version of reality where every role in real life is acted out by
+someone else. In this bizarro show world, there is a "science guy",
+"inventor genius", "politics guru" who play the make-belief versions
+of the real characters.
+
+These ppl are full of shit. The problem is when they start believing
+their own shit more and more, we might get "policy by celebrity",
+policy based on ideas thrown around by fakers, impostors.
+
+---
+
+[Not this guy](https://youtu.be/gN_wAVP043g?t=79)
+
+That was a cameo on a major scifi show BTW.
+
+---
+
+That's right. And [this](https://twitter.com/plutokiller/status/1297953753174126594) is the guy who did it.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday was <a href="https://twitter.com/hashtag/PlutoDemotedDay?src=hash&amp;ref_src=twsrc%5Etfw">#PlutoDemotedDay</a> 😥 <br><br>It&#39;s a day that marks Pluto&#39;s status being downgraded from a full sized planet to a dwarf planet. But whether a full planet or not, <a href="https://twitter.com/hashtag/Pluto?src=hash&amp;ref_src=twsrc%5Etfw">#Pluto</a> started out hot! <br><br>Read more in this <a href="https://twitter.com/CosmosMagazine?ref_src=twsrc%5Etfw">@CosmosMagazine</a> article: <a href="https://t.co/snhm2luKUW">https://t.co/snhm2luKUW</a></p>&mdash; Australian Space Agency (@AusSpaceAgency) <a href="https://twitter.com/AusSpaceAgency/status/1298168276036603905?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Alan Hawkshaw - Rocky Mountain Runabout \#music
+
+[Link](https://youtu.be/JExdP1CrfVI)
+
+---
+
+Jacky Giordano - Latest News \#music
+
+[Link](https://youtu.be/4gX0TfZB2CM)
+
+---
+
+Dude wrote a rough flight simulator in less than 400 LOC in C++ w OpenGL. Impressive.
+
+---
+
+That machine has been running without reboot for nearly 14 years.
+
+Unix is awesome.
+
+<img width="340" src="https://pbs.twimg.com/media/EgNFD0UUEAAmvfq?format=jpg&name=small"/>
+
+---
+
+"It works on my machine" is the quintessential response to "your code
+doesn't work" in IT or other computer based professions, it is now a
+running joke.
+
+---
+
+I laughed at that more than I should..
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This brave new world :P <a href="https://t.co/2E53Cw6tZn">pic.twitter.com/2E53Cw6tZn</a></p>&mdash; Daniel Baird (@danieljbaird) <a href="https://twitter.com/danieljbaird/status/1298126617026285569?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+If things hadn't gotten so bad voters wouldn't opt for a complete
+outsider. Experience and endorsements matter to them, they dont know
+much abt pol, so ext confirmation is needed. But it is interesting to
+see even then, part of the collective subconcious created the
+"respected leaders of government asked Trump to run" legend which is
+basically what QAnon is about. "He couldn't have been some f-ing
+guy!". That is the hole this consp is trying to fill.
+
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Apropos of nothing, the warmest five years in the Gulf of Mexico were the last five years in a row. <a href="https://twitter.com/hashtag/HurricaneMarco?src=hash&amp;ref_src=twsrc%5Etfw">#HurricaneMarco</a> <a href="https://twitter.com/hashtag/HurricaneLaura?src=hash&amp;ref_src=twsrc%5Etfw">#HurricaneLaura</a> <br>Data: HadISST for 1870- and <a href="https://twitter.com/NOAA?ref_src=twsrc%5Etfw">@NOAA</a> OIv2 for 1982- <a href="https://t.co/O4U0YdEElO">pic.twitter.com/O4U0YdEElO</a></p>&mdash; Kris Karnauskas (@OceansClimateCU) <a href="https://twitter.com/OceansClimateCU/status/1297898119909130241?ref_src=twsrc%5Etfw">August 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
