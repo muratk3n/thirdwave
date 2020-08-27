@@ -68,7 +68,7 @@ awarded to meteorologists at Oklahoma U"
 ---
 
 Today I put my AI shoes on, my AI shirt, started walking outside. I
-checked my AI watch it said 12:45. One minute ago it was 12:44. This
+checked my AI watch it said 10:45. One minute ago it was 10:44. This
 thing is super smart. Fear for your life \#singularity
 
 ---
