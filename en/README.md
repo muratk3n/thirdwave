@@ -1,5 +1,8 @@
 # Tweets
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The dragonflies swarming my car always exists. The love I find for the California’s natural spaces at the worst time is always there. Yesterday at <a href="https://twitter.com/hashtag/WoodwardFire?src=hash&amp;ref_src=twsrc%5Etfw">#WoodwardFire</a>, this slightly charred book page fell at my feet. I’ve found floating pages or papers at every fire since 2017 (2/3) <a href="https://t.co/9hxOYrEIwB">pic.twitter.com/9hxOYrEIwB</a></p>&mdash; Jessica Christian (@jachristian) <a href="https://twitter.com/jachristian/status/1298667049468563457?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 Hey if u missed the boat on the next consumer OS dominance, you can
 always sue to get your cut.
