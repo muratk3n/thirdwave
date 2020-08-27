@@ -1,16 +1,5 @@
 # Tweets
 
-"@themadstone
-
-Fondly remembering March, when climate reporters were declared 'too
-alarmist' for discussing the possibility of an uncontrolled pandemic
-during hurricane season"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Beyond 2030 it is likely that we will see giant ships powered by clean ammonia made from clean hydrogen.&quot;</p>&mdash; Chief Scientist (@ScienceChiefAu) <a href="https://twitter.com/ScienceChiefAu/status/1298826678685204481?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 Hey if u missed the boat on the next consumer OS dominance, you can
 always sue to get your cut.
