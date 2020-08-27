@@ -29,18 +29,6 @@ Guaranteeing 24-48 hour turnaround time"
 
 ---
 
-"@wolfblitzer
-
-Right now Hurricane Laura is expected to hit the Texas-Louisiana Gulf
-Coast late tonight as a Category 4. Remember: It was exactly this week
-15 years ago when Hurricane Katrina hit New Orleans as a Category 3"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 unsurvivable storm surge 🚨 <a href="https://t.co/3W1NPcenML">https://t.co/3W1NPcenML</a></p>&mdash; Dianne Gallagher (@DianneG) <a href="https://twitter.com/DianneG/status/1298651603084423170?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@woodruffbets
 
 SCOOP: Four US troops were injured after a Russian vehicle
