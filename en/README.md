@@ -1,130 +1,129 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The dragonflies swarming my car always exists. The love I find for the California’s natural spaces at the worst time is always there. Yesterday at <a href="https://twitter.com/hashtag/WoodwardFire?src=hash&amp;ref_src=twsrc%5Etfw">#WoodwardFire</a>, this slightly charred book page fell at my feet. I’ve found floating pages or papers at every fire since 2017 (2/3) <a href="https://t.co/9hxOYrEIwB">pic.twitter.com/9hxOYrEIwB</a></p>&mdash; Jessica Christian (@jachristian) <a href="https://twitter.com/jachristian/status/1298667049468563457?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Royalty, kings.. these are old-fashioned ideas. Quash that shit. 
 
 ---
 
-Hey if u missed the boat on the next consumer OS dominance, you can
-always sue to get your cut.
+Thailand.. I've been there once, and it has been in turmoil ever
+since. Was it me? ;)
 
-"Every time you buy an Android smartphone or tablet, Microsoft is
-likely receiving 5 to 15 dollars. They likely make at least $2 billion
-per year from Android. This financial agreement is all about patent
-royalties. Microsoft claims to hold software patents that Android
-infringes on, and they threaten lawsuits against Android device
-manufacturers until they settle"
+I remember shooting the shit with ppl there, and in Singapore, about
+Thaksin. Good times..
 
-[Link](https://www.howtogeek.com/183766/why-microsoft-makes-5-to-15-from-every-android-device-sold)
-
----
-
-Saz right now tests take 10 days and pretty much meaningless after
-such a long wait. 24-48 hr much better.
-
-"@GavinNewsom
-
-NEW: CA is DOUBLING our testing capacity and SIGNIFICANTLY bringing
-down wait times and cost. - Adding up to 150,000 tests per day -
-Guaranteeing 24-48 hour turnaround time"
+I'll never forget when we went to a movie theather in Bangkok and
+right before the movie started, a gov program was displayed praising
+the king, and **everyone** got up and put a hand on chest and said some
+shit. Like 'Praise the king' or some shit like that.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re making waves by powering the largest <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> electrolyzer in the United States. What is electroylzer technology and how can it help solve one of the largest dilemmas in the renewable energy industry? Learn more: <a href="https://t.co/N5WgkMiV0z">https://t.co/N5WgkMiV0z</a> <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://t.co/SWuIYCAlgl">pic.twitter.com/SWuIYCAlgl</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1299033275906879489?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Fast as funk. How to determine collisions real fast.. Boom. 
+
+[PDF](https://matthias-research.github.io/pages/publications/tetraederCollision.pdf)
 
 ---
 
-"@woodruffbets
+With `xvfb` u can run visual progs in "headless" mode, no
+UI.
 
-SCOOP: Four US troops were injured after a Russian vehicle
-intentionally rammed a US vehicle in N. Syria earlier this week"
-
----
-
-"@beenwrekt
-
-Calling weather forecasting 'AI' denigrates the significant advances
-made in weather forecasting over the past century.
-
-On the other hand, I trust weather forecasting more than AI, so
-perhaps it’s appropriate that the AI Institute for Trustworthy AI was
-awarded to meteorologists at Oklahoma U"
+`xvfb-run -s "-screen 0 1x1x24" script`. Alias that bih, fine ass.. Mmm hmm.
 
 ---
 
-Today I put my AI shoes on, my AI shirt, started walking outside. I
-checked my AI watch it said 10:45. One minute ago it was 10:44. This
-thing is super smart. Fear for your life \#singularity
+Who wld be a good next PM? Kano, Motegi, Kishida all fine. All pro my
+favorite first element in the periodic table. Kano is tough on
+China. Motegi knows the bureucracy better.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ah, we’ve finally reached the point where “AI” truly has no meaning. All hail the singularity. <a href="https://t.co/5LzBj5agYd">pic.twitter.com/5LzBj5agYd</a></p>&mdash; Ben Recht (@beenwrekt) <a href="https://twitter.com/beenwrekt/status/1298640144962973699?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@GearoidReidy
+
+Bombshell - Japan PM Abe will step down NHK reports"
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Construction of the Hydrogen Energy Supply Chain (HESC) Project’s Hastings site, in Victoria, Australia, where <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will be liquefied, stored, and loaded onto a ship for export, has been completed. <a href="https://t.co/5iTFfxRCde">https://t.co/5iTFfxRCde</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1298614587537924097?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Taxing rich people, saving social security.. Man o man..
+Switzerland doesnt join anything. EU, NATO.. But they wouldn't join UN
+either, for a long time? Get this, North Korea joined before them. The
+only country who joined after did not exist before that time. Wassup!
 
 ---
 
-😆 😆 😆 
-
-CNN, 1999: "Billionaire businessman Donald Trump has a plan to pay off
-the national debt, grant a middle class a tax cut, and keep Social
-Security afloat: tax rich people like himself"
-
-[Link](https://edition.cnn.com/ALLPOLITICS/stories/1999/11/09/trump.rich/index.html)
+Most of the tiny housers seem to live on their parents' property.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want naan, not NaN.</p>&mdash; Winnie Xu (@winniethexu) <a href="https://twitter.com/winniethexu/status/1298107871260020737?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+What kind of regulation would you need anyway for a small structure to
+be plopped on some land? Isn't TH kinda like partking a camper van?
+
+[Link](https://youtu.be/KsPJgDqLCb4?t=116)
 
 ---
 
-"Nikola Motor: Taking trucks out of the carbon equation"
-
-[Link](https://www.h2-view.com/story/nikola-motor-taking-the-truck-out-of-the-carbon-equation/)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Charles Booker ran an historic, grassroots campaign for the U.S. Senate centered on a Green New Deal, Medicare for All, and bold criminal justice reform. I&#39;m grateful to have earned <a href="https://twitter.com/Booker4KY?ref_src=twsrc%5Etfw">@Booker4KY</a>&#39;s support and know that he will lead the future of progressive politics in our country. <a href="https://t.co/TKr9m9EnfJ">pic.twitter.com/TKr9m9EnfJ</a></p>&mdash; Ed Markey (@EdMarkey) <a href="https://twitter.com/EdMarkey/status/1298613994488508422?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Haha.. kids call YouTube ads "Skip Ads".. Bcz that's the text on the
+button they click to skip? 
 
 ---
 
-<img width="340" src="https://media1.tenor.com/images/42aaca84317ef6041ca1d259007f459a/tenor.gif?itemid=8071844"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The world’s first fossil-free <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered steel plant located in northern Sweden will begin operations on Monday 31st August. <a href="https://twitter.com/hybrit_project?ref_src=twsrc%5Etfw">@hybrit_project</a> <a href="https://t.co/7L6SNmTs8L">https://t.co/7L6SNmTs8L</a></p>&mdash; Molly Burgess (@molly_burgess97) <a href="https://twitter.com/molly_burgess97/status/1298935420080869376?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"[Web inventor] Berners-Lee had physical copies of the Web [at a conference] to
-give out. Because there was no internet porn yet, nor a fascination
-with cats, the whole thing fit on a floppy disk"
-
-[Link](https://www.kotaku.com.au/2014/03/the-internet-used-to-fit-on-a-single-floppy-disk/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i regret twitter-searching &quot;she-ra&quot; this morning</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1298966859228893185?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve come to the conclusion that almost everything in life is easier than raising kids. Thought I’d put that out there just in case anyone felt alone in that lil struggle. ❤️</p>&mdash; Jewel Staite (@JewelStaite) <a href="https://twitter.com/JewelStaite/status/1297390402882813954?ref_src=twsrc%5Etfw">August 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The funny thing is Trump looks more out of it these days than Biden. 
 
 ---
 
-"Clean gas turbine manufacturer Capstone Turbine has collaborated with
-the US Department of Energy’s Argonne National Laboratory to develop a
-hydrogen operable microturbine product"
-
-[Link](https://www.h2-view.com/story/capstone-progresses-with-microturbine-hydrogen-testing/)
+Nice scenery, whole city as a backdrop \#spectral
 
 ---
 
-Hah. The vanished Flight 370 was carrying lithium ion batteries. 
-
-[Link](https://youtu.be/kd2KEHvK-q8?t=730)
+Are there any recent military, action movies in which Max Martini did
+*not* played a SpecOp soldier?  I am truly curious. \#spectral
 
 ---
 
-*Last updated 2020-08-27 07:51*
+*Spectral*, good but forgettable movie.
+
+Did not go to the stash.
+
+---
+
+The Great London Traffic Warden Massacre \#music
+
+[Link](https://youtu.be/JcvXEeZwLlo)
+
+---
+
+<img width="200" src="https://i.imgflip.com/1am9te.jpg"/>
+
+---
+
+Funny story when balls were same color they went through eachother for
+a while it looked like the bounced off, and I was like WTF!? I didn't
+code that! My balls becoming self aware? 🤔 🤔 
+
+---
+
+Good good.. I see some action
+
+[Link](https://twitter.com/muratk3n/status/1298946110245998592)
+
+---
+
+I've seen Jewish girls in Brooklyn with more color than you bitch. What
+experience r u talking about?
+
+"@AC360
+
+'[F]ormer UN Ambassador Nikki Haley, cit[es] her experience growing up
+as a woman of color"
+
+---
+
+*Last updated 2020-08-28 21:10*
 
 ---
 

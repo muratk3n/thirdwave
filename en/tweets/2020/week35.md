@@ -1,5 +1,129 @@
 # Week 35
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The dragonflies swarming my car always exists. The love I find for the California’s natural spaces at the worst time is always there. Yesterday at <a href="https://twitter.com/hashtag/WoodwardFire?src=hash&amp;ref_src=twsrc%5Etfw">#WoodwardFire</a>, this slightly charred book page fell at my feet. I’ve found floating pages or papers at every fire since 2017 (2/3) <a href="https://t.co/9hxOYrEIwB">pic.twitter.com/9hxOYrEIwB</a></p>&mdash; Jessica Christian (@jachristian) <a href="https://twitter.com/jachristian/status/1298667049468563457?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Hey if u missed the boat on the next consumer OS dominance, you can
+always sue to get your cut.
+
+"Every time you buy an Android smartphone or tablet, Microsoft is
+likely receiving 5 to 15 dollars. They likely make at least $2 billion
+per year from Android. This financial agreement is all about patent
+royalties. Microsoft claims to hold software patents that Android
+infringes on, and they threaten lawsuits against Android device
+manufacturers until they settle"
+
+[Link](https://www.howtogeek.com/183766/why-microsoft-makes-5-to-15-from-every-android-device-sold)
+
+---
+
+Saz right now tests take 10 days and pretty much meaningless after
+such a long wait. 24-48 hr much better.
+
+"@GavinNewsom
+
+NEW: CA is DOUBLING our testing capacity and SIGNIFICANTLY bringing
+down wait times and cost. - Adding up to 150,000 tests per day -
+Guaranteeing 24-48 hour turnaround time"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re making waves by powering the largest <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> electrolyzer in the United States. What is electroylzer technology and how can it help solve one of the largest dilemmas in the renewable energy industry? Learn more: <a href="https://t.co/N5WgkMiV0z">https://t.co/N5WgkMiV0z</a> <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://t.co/SWuIYCAlgl">pic.twitter.com/SWuIYCAlgl</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1299033275906879489?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@woodruffbets
+
+SCOOP: Four US troops were injured after a Russian vehicle
+intentionally rammed a US vehicle in N. Syria earlier this week"
+
+---
+
+"@beenwrekt
+
+Calling weather forecasting 'AI' denigrates the significant advances
+made in weather forecasting over the past century.
+
+On the other hand, I trust weather forecasting more than AI, so
+perhaps it’s appropriate that the AI Institute for Trustworthy AI was
+awarded to meteorologists at Oklahoma U"
+
+---
+
+Today I put my AI shoes on, my AI shirt, started walking outside. I
+checked my AI watch it said 10:45. One minute ago it was 10:44. This
+thing is super smart. Fear for your life \#singularity
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ah, we’ve finally reached the point where “AI” truly has no meaning. All hail the singularity. <a href="https://t.co/5LzBj5agYd">pic.twitter.com/5LzBj5agYd</a></p>&mdash; Ben Recht (@beenwrekt) <a href="https://twitter.com/beenwrekt/status/1298640144962973699?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Construction of the Hydrogen Energy Supply Chain (HESC) Project’s Hastings site, in Victoria, Australia, where <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will be liquefied, stored, and loaded onto a ship for export, has been completed. <a href="https://t.co/5iTFfxRCde">https://t.co/5iTFfxRCde</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1298614587537924097?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Taxing rich people, saving social security.. Man o man..
+
+---
+
+😆 😆 😆 
+
+CNN, 1999: "Billionaire businessman Donald Trump has a plan to pay off
+the national debt, grant a middle class a tax cut, and keep Social
+Security afloat: tax rich people like himself"
+
+[Link](https://edition.cnn.com/ALLPOLITICS/stories/1999/11/09/trump.rich/index.html)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want naan, not NaN.</p>&mdash; Winnie Xu (@winniethexu) <a href="https://twitter.com/winniethexu/status/1298107871260020737?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Nikola Motor: Taking trucks out of the carbon equation"
+
+[Link](https://www.h2-view.com/story/nikola-motor-taking-the-truck-out-of-the-carbon-equation/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Charles Booker ran an historic, grassroots campaign for the U.S. Senate centered on a Green New Deal, Medicare for All, and bold criminal justice reform. I&#39;m grateful to have earned <a href="https://twitter.com/Booker4KY?ref_src=twsrc%5Etfw">@Booker4KY</a>&#39;s support and know that he will lead the future of progressive politics in our country. <a href="https://t.co/TKr9m9EnfJ">pic.twitter.com/TKr9m9EnfJ</a></p>&mdash; Ed Markey (@EdMarkey) <a href="https://twitter.com/EdMarkey/status/1298613994488508422?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<img width="340" src="https://media1.tenor.com/images/42aaca84317ef6041ca1d259007f459a/tenor.gif?itemid=8071844"/>
+
+---
+
+"[Web inventor] Berners-Lee had physical copies of the Web [at a conference] to
+give out. Because there was no internet porn yet, nor a fascination
+with cats, the whole thing fit on a floppy disk"
+
+[Link](https://www.kotaku.com.au/2014/03/the-internet-used-to-fit-on-a-single-floppy-disk/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve come to the conclusion that almost everything in life is easier than raising kids. Thought I’d put that out there just in case anyone felt alone in that lil struggle. ❤️</p>&mdash; Jewel Staite (@JewelStaite) <a href="https://twitter.com/JewelStaite/status/1297390402882813954?ref_src=twsrc%5Etfw">August 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Clean gas turbine manufacturer Capstone Turbine has collaborated with
+the US Department of Energy’s Argonne National Laboratory to develop a
+hydrogen operable microturbine product"
+
+[Link](https://www.h2-view.com/story/capstone-progresses-with-microturbine-hydrogen-testing/)
+
+---
+
+Hah. The vanished Flight 370 was carrying lithium ion batteries. 
+
+[Link](https://youtu.be/kd2KEHvK-q8?t=730)
+
+---
+
 "It seems like renewable hydrogen will play a vital role in The Green
 Deal that should contribute to Europe becoming the first carbon
 neutral continent in the world, and Nel aims to leverage on these
