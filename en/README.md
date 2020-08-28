@@ -5,7 +5,7 @@ Royalty, kings.. these are old-fashioned ideas. Quash that shit.
 ---
 
 Thailand.. I've been there once, and it has been in turmoil ever
-since. Was it me? ;)
+since... ;)
 
 I remember shooting the shit with ppl there, and in Singapore, about
 Thaksin. Good times..
