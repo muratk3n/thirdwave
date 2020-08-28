@@ -81,7 +81,7 @@ Nice scenery, whole city as a backdrop \#spectral
 ---
 
 Are there any recent military, action movies in which Max Martini did
-*not* played a SpecOp soldier?  I am truly curious. \#spectral
+*not* play a SpecOp soldier?  I am truly curious. \#spectral
 
 ---
 
