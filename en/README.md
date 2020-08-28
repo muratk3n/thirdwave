@@ -72,7 +72,7 @@ button they click to skip. Funny.
 
 ---
 
-The funny thing is Trump looks more out of it these days than Biden. 
+Funny thing is Trump looks more out of it these days than Biden. 
 
 ---
 
