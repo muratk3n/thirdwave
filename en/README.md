@@ -30,8 +30,8 @@ UI.
 
 ---
 
-Who wld be a good next PM? Kano, Motegi, Kishida all fine. All pro my
-favorite first element in the periodic table. Kano is tough on
+Who wld be a good next PM? Kano, Motegi, Kishida -- all fine. All pro
+my favorite first element in the periodic table. Kano is tough on
 China. Motegi knows the bureucracy better.
 
 ---
