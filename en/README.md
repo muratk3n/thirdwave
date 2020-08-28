@@ -44,7 +44,7 @@ Bombshell - Japan PM Abe will step down NHK reports"
 
 Switzerland doesnt join anything. EU, NATO.. But they wouldn't join UN
 either, for a long time? Tidbit; North Korea joined before them. The
-only country who joined after did not exist before that time. Whatup
+only country who joined after did not exist before that time. Whatsup
 
 ---
 
