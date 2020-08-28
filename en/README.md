@@ -60,7 +60,7 @@ be plopped on some land? Isn't TH kinda like parking a camper van?
 ---
 
 Haha.. kids call YouTube ads "Skip Ads".. Bcz that's the text on the
-button they click to skip. Funny,
+button they click to skip. Funny.
 
 ---
 
