@@ -26,7 +26,7 @@ Fast as funk. How to determine collisions real fast.. Boom.
 With `xvfb` u can run visual progs in "headless" mode, no
 UI.
 
-`xvfb-run -s "-screen 0 1x1x24" script`. Alias that bih, fine ass.. Mmm hmm.
+`xvfb-run -s "-screen 0 1x1x24" script`. Alias that bih, done.
 
 ---
 
