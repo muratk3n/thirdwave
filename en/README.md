@@ -12,8 +12,8 @@ Thaksin. Good times..
 
 I'll never forget when we went to a movie theather in Bangkok and
 right before the movie started, a gov program was displayed praising
-the king, and **everyone** got up and put a hand on chest and said some
-shit. Like 'Praise the king' or some shit like that.
+the king, and **everyone** got up and put a hand on chest and said
+some shit. Like 'Praise the king' or something like that.
 
 ---
 
