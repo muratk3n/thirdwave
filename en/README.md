@@ -1,6 +1,6 @@
 # Tweets
 
-Royalty, kings.. these are old-fashioned ideas. Quash that shit. 
+Royalty, kings.. these are old-fashioned ideas. Quash it. 
 
 ---
 
