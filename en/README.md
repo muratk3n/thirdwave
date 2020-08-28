@@ -53,7 +53,7 @@ Most of the tiny housers seem to live on their parents' property.
 ---
 
 What kind of regulation would you need anyway for a small structure to
-be plopped on some land? Isn't TH kinda like partking a camper van?
+be plopped on some land? Isn't TH kinda like parking a camper van?
 
 [Link](https://youtu.be/KsPJgDqLCb4?t=116)
 
