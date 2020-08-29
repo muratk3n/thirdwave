@@ -72,11 +72,7 @@ albeit an expensive one – for the aerospace industry over the past 40
 years, .. [t]he performance and longevity of nickel-hydrogen batteries
 is well-established and second to none. We’re now able to deliver the
 same performance and durability at a breakthrough competitive price
-using new low-cost materials.' [says EverVenue founder].
-
-EnerVenue’s metal-hydrogen batteries are developed for large-scale
-renewable and storage applications and are designed to be durable,
-safe, flexible, maintenance-free, affordable and proven"
+using new low-cost materials.' [says EverVenue founder]."
 
 [Link](https://www.h2-view.com/story/enervenue-to-bring-metal-hydrogen-battery-technology-to-market/)
 
