@@ -4,6 +4,14 @@
 
 ---
 
+Pi in the Sky! 😊
+
+"Pi In the Sky is a simple and reliable GPS radio tracker board for the Pi"
+
+[Link](http://www.pi-in-the-sky.com/)
+
+---
+
 Balooning with Python and Raspberry Pi! Fantastic!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to create your own High Altitude Ballooning payload programmed with Python? Take a look at <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> &#39;s new tools for HAB <a href="https://t.co/bIBfJnFxpq">https://t.co/bIBfJnFxpq</a>, developed in collaboration with <a href="https://twitter.com/daveake?ref_src=twsrc%5Etfw">@daveake</a>. More content &amp; guides to follow in the coming months. <a href="https://twitter.com/hashtag/picademy?src=hash&amp;ref_src=twsrc%5Etfw">#picademy</a> <a href="https://twitter.com/hashtag/skycademy?src=hash&amp;ref_src=twsrc%5Etfw">#skycademy</a> <a href="https://twitter.com/hashtag/ukhas?src=hash&amp;ref_src=twsrc%5Etfw">#ukhas</a></p>&mdash; James Robinson (@LegoJames) <a href="https://twitter.com/LegoJames/status/1014493373149990912?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
