@@ -1,129 +1,162 @@
 # Tweets
 
-Royalty, kings.. these are old-fashioned ideas. Quash it.
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The improvement to the quality of cameras since 2016 has been incredible. This was also <a href="https://twitter.com/hashtag/ShotOnRaspberryPi?src=hash&amp;ref_src=twsrc%5Etfw">#ShotOnRaspberryPi</a> at 33,390 metres during <a href="https://twitter.com/hashtag/Skycademy?src=hash&amp;ref_src=twsrc%5Etfw">#Skycademy</a> flight in August 2016. With thanks to <a href="https://twitter.com/daveake?ref_src=twsrc%5Etfw">@daveake</a> <a href="https://twitter.com/LegoJames?ref_src=twsrc%5Etfw">@LegoJames</a> and others <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> <a href="https://t.co/SJIIYX54uq">pic.twitter.com/SJIIYX54uq</a></p>&mdash; Allen Tsui (@TsuiAllen) <a href="https://twitter.com/TsuiAllen/status/1299414587423457285?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Thailand.. I've been there once, and it has been in turmoil ever
-since... ;)
+Balooning with Python and Raspberry Pi! Fantastic!
 
-I remember shooting the shit with ppl there, and in Singapore, about
-Thaksin. Good times..
-
-I'll never forget when we went to a movie theather in Bangkok and
-right before the movie started, a gov program was displayed praising
-the king, and **everyone** got up and put a hand on chest and said
-some shit. Like 'Praise the king' or something like that.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to create your own High Altitude Ballooning payload programmed with Python? Take a look at <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> &#39;s new tools for HAB <a href="https://t.co/bIBfJnFxpq">https://t.co/bIBfJnFxpq</a>, developed in collaboration with <a href="https://twitter.com/daveake?ref_src=twsrc%5Etfw">@daveake</a>. More content &amp; guides to follow in the coming months. <a href="https://twitter.com/hashtag/picademy?src=hash&amp;ref_src=twsrc%5Etfw">#picademy</a> <a href="https://twitter.com/hashtag/skycademy?src=hash&amp;ref_src=twsrc%5Etfw">#skycademy</a> <a href="https://twitter.com/hashtag/ukhas?src=hash&amp;ref_src=twsrc%5Etfw">#ukhas</a></p>&mdash; James Robinson (@LegoJames) <a href="https://twitter.com/LegoJames/status/1014493373149990912?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Fast as funk. How to determine collisions real fast.. Boom. 
+"On the first day of summer, Siberia and I were the same
+temperature. In Verkhoyansk, roughly 3,000 miles northeast of Moscow,
+a searing week ended in an afternoon hotter than any before recorded
+north of the Arctic Circle"
 
-[PDF](https://matthias-research.github.io/pages/publications/tetraederCollision.pdf)
-
----
-
-With `xvfb` u can run visual progs in "headless" mode, no
-UI.
-
-`xvfb-run -s "-screen 0 1x1x24" script`. Alias that bih, done.
+[Link](https://www.theatlantic.com/health/archive/2020/08/covid-19-and-climate-change-have-same-root-cause/615844/)
 
 ---
 
-Who wld be a good next PM? Kano, Motegi, Kishida -- all fine. All pro
-my favorite first element in the periodic table. Kano is tough on
-China. Motegi knows the bureucracy better.
+"U.S. tech stocks are now worth more than the entire European stock market"
 
 ---
 
-"@GearoidReidy
+"@JessicaHuseman
 
-Bombshell - Japan PM Abe will step down NHK reports"
-
----
-
-Switzerland doesnt join anything. EU, NATO.. But they wouldn't join UN
-either, for a long time? Tidbit; North Korea joined before them. The
-only country who joined after did not exist before that time. Whatsup
+'Three of the four tenants in the public housing video [at the RNC]
+were interviewed on Friday by The New York Times. All three said they
+opposed President Trump and were misled about the purpose of the
+video.'"
 
 ---
 
-Most of the tiny housers seem to live on their parents' property.
+"[A] new chemistry has entered the fray, with battery startup EnerVenue
+launching today with $12 million in seed funding.
+
+The company is betting on the success of metal hydrogen batteries,
+specifically nickel-hydrogen batteries. This chemistry .. was always
+held back from greater commercial success due to its high
+price. .. EnerVenue ..  has been able to achieve commercialization via
+'a breakthrough competitive price using new low-cost materials.' The
+company was able to do this by working with EEnotech, a startup that
+incubates and accelerates nanotechnology-driven solutions to, among
+other things, grid-scale energy storage. ...
+
+Unlike lithium-ion, the company claims that metal-hydrogen batteries
+excel operating in conditions of extreme heat and extreme
+cold. Specifically, the solution operates optimally from -40° to 140°F
+ambient temperatures. Because of this, the battery comes with no risk
+of fire or thermal runaway and also includes no toxic materials,
+making it recyclable, a huge tip in its favor, as recycling of
+materials is only going to grow in importance as the renewable energy
+industry grows and evolves. ...
+
+EnerVenue claims that the company’s batteries have a more than 30-year
+lifespan, can go through more than 30,000 cycles without experiencing
+degradation and offer exceptional overcharge, overdischarge, and
+deep-cycle capabilities.
+
+The company also claims cost-per-kilowatt-hour as low as a penny, as
+well as capital expenditure costs that beat lithium-ion. The company
+stresses its use of low-cost materials."
+
+[Link](https://pv-magazine-usa.com/2020/08/27/enervenue-looks-to-shake-up-the-battery-market-with-metal-hydrogen-technology/)
 
 ---
 
-What kind of regulation would you need anyway for a small structure to
-be plopped on some land? Isn't TH kinda like parking a camper van?
+"'As an example of metal hydrogen batteries, nickel-hydrogen batteries
+have proven to be an incredibly powerful energy storage technology –
+albeit an expensive one – for the aerospace industry over the past 40
+years, .. [t]he performance and longevity of nickel-hydrogen batteries
+is well-established and second to none. We’re now able to deliver the
+same performance and durability at a breakthrough competitive price
+using new low-cost materials.' [says EverVenue founder].
 
-[Link](https://youtu.be/KsPJgDqLCb4?t=116)
+EnerVenue’s metal-hydrogen batteries are developed for large-scale
+renewable and storage applications and are designed to be durable,
+safe, flexible, maintenance-free, affordable and proven"
 
----
-
-Haha.. kids call YouTube ads "Skip Ads".. Bcz that's the text on the
-button they click to skip. Funny.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The world’s first fossil-free <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered steel plant located in northern Sweden will begin operations on Monday 31st August. <a href="https://twitter.com/hybrit_project?ref_src=twsrc%5Etfw">@hybrit_project</a> <a href="https://t.co/7L6SNmTs8L">https://t.co/7L6SNmTs8L</a></p>&mdash; Molly Burgess (@molly_burgess97) <a href="https://twitter.com/molly_burgess97/status/1298935420080869376?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i regret twitter-searching &quot;she-ra&quot; this morning</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1298966859228893185?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://www.h2-view.com/story/enervenue-to-bring-metal-hydrogen-battery-technology-to-market/)
 
 ---
 
-Funny thing is Trump looks more out of it these days than Biden. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean energy storage company <a href="https://twitter.com/EnerVenueInc?ref_src=twsrc%5Etfw">@EnerVenueInc</a>, the first to bring metal-<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> batteries to the clean energy revolution, has launched with $12m in seed funding. <a href="https://t.co/js0WFjer3z">https://t.co/js0WFjer3z</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1299276660391411717?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Nice scenery, whole city as a backdrop \#spectral
+Math is a tool, we made it up. Infinity is a tool. Imaginery numbers
+are a tool. But nature at its core is probably discrete, and math does
+connect with nature well. How come?  Well the root of all math is also
+discrete -- sets and number theory.
 
 ---
 
-Are there any recent military, action movies in which Max Martini did
-*not* play a SpecOp soldier?  I am truly curious. \#spectral
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">楽しくカエル達に人工餌を食べてもらいました🍣<br>ただ親方🐸食べ過ぎ😂 <a href="https://t.co/DcRC4l9dY6">pic.twitter.com/DcRC4l9dY6</a></p>&mdash; ケロンパス🐸🐢 (@KERONPAS_) <a href="https://twitter.com/KERONPAS_/status/1298817001838620672?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-*Spectral*, good but forgettable movie.
+Always good idea to keep tabs on wronged people, resentment, anger for
+social analysis and prediction. Ex; Amazon had a pricing war with
+diapers.com, put them out of business. Its founder started a new thing
+acquired by Walmart, he now works for Walmart and *runs all their
+U.S. e-commerce operations*. This guy must be PISSED, and now in a
+position to even the score. His business was destroyed by Amazon now
+he works for the competitor. U watch this guy and his drama.
 
-Did not go to the stash.
-
----
-
-The Great London Traffic Warden Massacre \#music
-
-[Link](https://youtu.be/JcvXEeZwLlo)
-
----
-
-<img width="200" src="https://i.imgflip.com/1am9te.jpg"/>
+[Link](https://www.vox.com/2017/3/29/15112314/amazon-shutting-down-diapers-com-quidsi-soap-com)
 
 ---
 
-Funny story when balls were same color they went through eachother for
-a while it looked like the bounced off, and I was like WTF!? I didn't
-code that! My balls becoming self aware? 🤔 🤔 
+"The Getting to Zero Coalition has started mapping some of the many
+zero emission pilots and demonstration projects going on around the
+world, with hydrogen research leading the way in one form or another
+in shipping’s pursuit of a clean fuel"
+
+[Link](https://splash247.com/hydrogen-leading-the-way-in-new-global-zero-emission-study/)
 
 ---
 
-Good good.. I see some action
+MSM gaslights bcz if they talked abt what is truly going on, then
+someone could ask 'well how the f--k did left issues end up in the
+GOP, why are they not in the Democratic Party?". That is too close for
+comfort now.. Then you have to talk about how centrism fucked up for
+decades, how unwanted ideological parts landed with a random outsider
+who brought it to the GOP.
 
-[Link](https://twitter.com/muratk3n/status/1298946110245998592)
-
----
-
-I've seen Jewish girls in Brooklyn with more color than you bitch. What
-experience r u talking about?
-
-"@AC360
-
-'[F]ormer UN Ambassador Nikki Haley, cit[es] her experience growing up
-as a woman of color"
+The gaslighting on Russiagate serves the same purpose. If DJT win
+wasn't through "illegal means", then the next question is how did this
+guy win legally?
 
 ---
 
-*Last updated 2020-08-28 21:10*
+We've been in second wave for three centuries now. Given that
+structure, there can't be too many wildly, untried solutions. The
+means of production dictates certain disconnection, disparate parts
+needs to be reconnected, through integrators, implying government,
+that needs taxes. The natural next question is *how high* taxes?
+
+Someone says low, someone says high. Two options.
+
+---
+
+After 2016 the talk was abt this "brand new politics", "right
+populism". So I waited to hear details... Bannon for example. U
+wait.. U wait.. then boom -- word came out he wanted high taxes on the
+rich.
+
+That's left bitch!
+
+---
+
+Daaaamm.. BBC is gunning for this guy now
+
+[Link](https://twitter.com/DavidLammy/status/1265411263829549057)
+
+---
+
+*Last updated 2020-08-29 21:24*
 
 ---
 
