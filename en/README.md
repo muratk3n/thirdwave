@@ -1,166 +1,165 @@
 # Tweets
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The improvement to the quality of cameras since 2016 has been incredible. This was also <a href="https://twitter.com/hashtag/ShotOnRaspberryPi?src=hash&amp;ref_src=twsrc%5Etfw">#ShotOnRaspberryPi</a> at 33,390 metres during <a href="https://twitter.com/hashtag/Skycademy?src=hash&amp;ref_src=twsrc%5Etfw">#Skycademy</a> flight in August 2016. With thanks to <a href="https://twitter.com/daveake?ref_src=twsrc%5Etfw">@daveake</a> <a href="https://twitter.com/LegoJames?ref_src=twsrc%5Etfw">@LegoJames</a> and others <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> <a href="https://t.co/SJIIYX54uq">pic.twitter.com/SJIIYX54uq</a></p>&mdash; Allen Tsui (@TsuiAllen) <a href="https://twitter.com/TsuiAllen/status/1299414587423457285?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+They are still printing in layers, but the layer resolution is
+extremely high, and the image is constantly projected onto the liquid
+that shapes it into final form. 
+
+[Link](https://youtu.be/23at9QglAm8)
 
 ---
 
-Pi in the Sky! 😊
-
-"Pi In the Sky is a simple and reliable GPS radio tracker board for the Pi"
-
-[Link](http://www.pi-in-the-sky.com/)
+<iframe width="340" src="https://www.youtube.com/embed/ihR9SX7dgRo?start=51" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Balooning with Python and Raspberry Pi! Fantastic!
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to create your own High Altitude Ballooning payload programmed with Python? Take a look at <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> &#39;s new tools for HAB <a href="https://t.co/bIBfJnFxpq">https://t.co/bIBfJnFxpq</a>, developed in collaboration with <a href="https://twitter.com/daveake?ref_src=twsrc%5Etfw">@daveake</a>. More content &amp; guides to follow in the coming months. <a href="https://twitter.com/hashtag/picademy?src=hash&amp;ref_src=twsrc%5Etfw">#picademy</a> <a href="https://twitter.com/hashtag/skycademy?src=hash&amp;ref_src=twsrc%5Etfw">#skycademy</a> <a href="https://twitter.com/hashtag/ukhas?src=hash&amp;ref_src=twsrc%5Etfw">#ukhas</a></p>&mdash; James Robinson (@LegoJames) <a href="https://twitter.com/LegoJames/status/1014493373149990912?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"On the first day of summer, Siberia and I were the same
-temperature. In Verkhoyansk, roughly 3,000 miles northeast of Moscow,
-a searing week ended in an afternoon hotter than any before recorded
-north of the Arctic Circle"
-
-[Link](https://www.theatlantic.com/health/archive/2020/08/covid-19-and-climate-change-have-same-root-cause/615844/)
+Motivating people to go to the voting booth falls on the shoulder of
+leaders. 
 
 ---
 
-"U.S. tech stocks are now worth more than the entire European stock market"
+No
+
+"Should we make voting mandatory?"
 
 ---
 
-"@JessicaHuseman
+Yes
 
-'Three of the four tenants in the public housing video [at the RNC]
-were interviewed on Friday by The New York Times. All three said they
-opposed President Trump and were misled about the purpose of the
-video.'"
+"Was Trump's election a sign of democracy working?"
 
 ---
 
-"[A] new chemistry has entered the fray, with battery startup EnerVenue
-launching today with $12 million in seed funding.
+Absolutely. One question was "you meet someone from Amsterdam, what is
+their nationality?". Guy goes uuuhhh, the laughter machine goes
+off... But, how cld the guy know what? Does he deal with this
+particular nationality daily? Know anyone from there?
 
-The company is betting on the success of metal hydrogen batteries,
-specifically nickel-hydrogen batteries. This chemistry .. was always
-held back from greater commercial success due to its high
-price. .. EnerVenue ..  has been able to achieve commercialization via
-'a breakthrough competitive price using new low-cost materials.' The
-company was able to do this by working with EEnotech, a startup that
-incubates and accelerates nanotechnology-driven solutions to, among
-other things, grid-scale energy storage. ...
+Another didn't know how rainbow work... Big deal.
 
-Unlike lithium-ion, the company claims that metal-hydrogen batteries
-excel operating in conditions of extreme heat and extreme
-cold. Specifically, the solution operates optimally from -40° to 140°F
-ambient temperatures. Because of this, the battery comes with no risk
-of fire or thermal runaway and also includes no toxic materials,
-making it recyclable, a huge tip in its favor, as recycling of
-materials is only going to grow in importance as the renewable energy
-industry grows and evolves. ...
+Democracy doesn't need book-smart citizens. As long as they can tell
+whether they are better or worse off compared to 2/4/6 yrs ago, they
+can roughly judge a person, we're fine. Expecting more from them
+signals to me a certain pretentiousness on the part of the expector.
 
-EnerVenue claims that the company’s batteries have a more than 30-year
-lifespan, can go through more than 30,000 cycles without experiencing
-degradation and offer exceptional overcharge, overdischarge, and
-deep-cycle capabilities.
-
-The company also claims cost-per-kilowatt-hour as low as a penny, as
-well as capital expenditure costs that beat lithium-ion. The company
-stresses its use of low-cost materials."
-
-[Link](https://pv-magazine-usa.com/2020/08/27/enervenue-looks-to-shake-up-the-battery-market-with-metal-hydrogen-technology/)
+"If people do not know much about things outside their expertise, are
+scenes we saw in Jay Leno's Jaywalking justified?"
 
 ---
 
-"'As an example of metal hydrogen batteries, nickel-hydrogen batteries
-have proven to be an incredibly powerful energy storage technology –
-albeit an expensive one – for the aerospace industry over the past 40
-years, .. [t]he performance and longevity of nickel-hydrogen batteries
-is well-established and second to none. We’re now able to deliver the
-same performance and durability at a breakthrough competitive price
-using new low-cost materials.' [says EverVenue founder]."
+Hey white ppl had bunch of Supermen die, get paralyzed on them, so
+blacks are not alone. 
 
-[Link](https://www.h2-view.com/story/enervenue-to-bring-metal-hydrogen-battery-technology-to-market/)
+"Black ppl lost their superhero, they are heartbroken"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean energy storage company <a href="https://twitter.com/EnerVenueInc?ref_src=twsrc%5Etfw">@EnerVenueInc</a>, the first to bring metal-<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> batteries to the clean energy revolution, has launched with $12m in seed funding. <a href="https://t.co/js0WFjer3z">https://t.co/js0WFjer3z</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1299276660391411717?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mr. Boseman leveled the playing field while fighting for his life... That’s heroism. I’ll remember the good times, the laughter, and the way he changed the game... <a href="https://twitter.com/hashtag/chadwickforever?src=hash&amp;ref_src=twsrc%5Etfw">#chadwickforever</a> <a href="https://twitter.com/chadwickboseman?ref_src=twsrc%5Etfw">@chadwickboseman</a> <a href="https://t.co/IFfCSmLrhR">pic.twitter.com/IFfCSmLrhR</a></p>&mdash; Robert Downey Jr (@RobertDowneyJr) <a href="https://twitter.com/RobertDowneyJr/status/1299772119803330560?ref_src=twsrc%5Etfw">August 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Math is a tool, we made it up. Infinity is a tool. Imaginery numbers
-are a tool. But nature at its core is probably discrete, and math does
-connect with nature well. How come?  Well the root of all math is also
-discrete -- sets and number theory.
+Chadwick Boseman RIP.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">楽しくカエル達に人工餌を食べてもらいました🍣<br>ただ親方🐸食べ過ぎ😂 <a href="https://t.co/DcRC4l9dY6">pic.twitter.com/DcRC4l9dY6</a></p>&mdash; ケロンパス🐸🐢 (@KERONPAS_) <a href="https://twitter.com/KERONPAS_/status/1298817001838620672?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Inferior product.. that is the root of it all isn't it?  \#trek
+
+[Link](https://youtu.be/A6I7eYAq3zM?t=655)
 
 ---
 
-Always good idea to keep tabs on wronged people, resentment, anger for
-social analysis and prediction. Ex; Amazon had a pricing war with
-diapers.com, put them out of business. Its founder started a new thing
-acquired by Walmart, he now works for Walmart and *runs all their
-U.S. e-commerce operations*. This guy must be PISSED, and now in a
-position to even the score. His business was destroyed by Amazon now
-he works for the competitor. U watch this guy and his drama.
-
-[Link](https://www.vox.com/2017/3/29/15112314/amazon-shutting-down-diapers-com-quidsi-soap-com)
+Fuckin Newt
 
 ---
 
-"The Getting to Zero Coalition has started mapping some of the many
-zero emission pilots and demonstration projects going on around the
-world, with hydrogen research leading the way in one form or another
-in shipping’s pursuit of a clean fuel"
-
-[Link](https://splash247.com/hydrogen-leading-the-way-in-new-global-zero-emission-study/)
+I remember Newt used to talk nonsense on tech all the time too,
+'information technology will let you compare price, smart sensors blah
+blah". 90s were the age of technobabble. All glitz no substance.
 
 ---
 
-MSM gaslights bcz if they talked abt what is truly going on, then
-someone could ask 'well how the f--k did left issues end up in the
-GOP, why are they not in the Democratic Party?". That is too close for
-comfort now.. Then you have to talk about how centrism fucked up for
-decades, how unwanted ideological parts landed with a random outsider
-who brought it to the GOP.
-
-The gaslighting on Russiagate serves the same purpose. If DJT win
-wasn't through "illegal means", then the next question is how did this
-guy win legally?
+On "the war with China"; Trump doesn't like war (and not just bcz they
+cost money). He had Soleimani, one guy, killed so he wouldnt have to
+kill 100s or 1000s. He'll get mad at his own advisors if they get too
+war-mongery around him. From a few select people he'll take it, like
+Mustache, who is, as we know, not in the WH anymore.
 
 ---
 
-We've been in second wave for three centuries now. Given that
-structure, there can't be too many wildly, untried solutions. The
-means of production dictates certain disconnection, disparate parts
-needs to be reconnected, through integrators, implying government,
-that needs taxes. The natural next question is *how high* taxes?
+It was too early for that. 3W structures were nowhere to be found, and
+still MIA to this day. So what Dems ended up doing was a hi-tech
+paint-job, empty talk, marketing glitz using tech while they
+dismantled left using tech as excuse. This contributed to a massive
+problem of inequality.
 
-Someone says low, someone says high. Two options.
+I cannot begin to describe the obnoxious daftness of these
+people. That Post-Berlin-Wall euphoria must have been one hell of a
+drug because they all burned their brain cells on it.
 
----
-
-After 2016 the talk was abt this "brand new politics", "right
-populism". So I waited to hear details... Bannon for example. U
-wait.. U wait.. then boom -- word came out he wanted high taxes on the
-rich.
-
-That's left bitch!
+"Maybe Dems moved away from left due to new tech, as you say Third Wave"
 
 ---
 
-Daaaamm.. BBC is gunning for this guy now
+Going against corp interests by reworking trade deals to bring labor
+back which moved to China, so workers would make more money?
 
-[Link](https://twitter.com/DavidLammy/status/1265411263829549057)
+Yes ultra-capitalist mastermind this guy.
+
+"But wasn't Trump's China policy a hard-right policy, he wants war with China?"
 
 ---
 
-*Last updated 2020-08-29 21:24*
+I can't believe these things are real
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">43 USC §373b, 43 CFR §420.12(d)(3) &amp; §420.12 make it a federal crime to drive an off-road vehicle on Bureau of Reclamation land while you&#39;re drunk, but &quot;off-road vehicle&quot; does not include a lawnmower.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1299878501617721346?ref_src=twsrc%5Etfw">August 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Normandy, is it?
+
+---
+
+Niicee. Where the F is that?
+
+<img src="https://pbs.twimg.com/media/EgqplmAXsAAhGIj?format=jpg&name=small"/>
+
+---
+
+"@davidsirota
+
+Rahm Emanuel presided over the suppression of a video of a police
+murder of a teenager, then left office in disgrace to become a Wall St
+exec. He’s billed as an honorable Democratic statesman. Meanwhile,
+Medicare for All proponents are called 'grifters.'"
+
+---
+
+R u trying to create magical negros out of my Anatolian negros?
+
+---
+
+The geo is all wrong too, try Bursa, Anatolia, in so-called Turkey
+
+---
+
+Wrong 60s. Try [1867](2013/12/inventions-of-kebabic-kind.md).
+
+"Doner kebap was invented in Berlin when immigrants [so-called Turks]
+arrived there, during 60s"
+
+---
+
+"@lauriechenwords
+
+Thomas Piketty confirmed that his latest book won’t be published in
+China, since he refused to bow to censors’ demands to cut a section on
+rising inequality under the CCP ... President Xi Jinping heaped praise
+on Thomas Pikkety’s magnum opus Capital in the 21st Century, but his
+new book on inequality has fallen afoul of China’s censors"
+
+---
+
+*Last updated 2020-08-31 00:52*
 
 ---
 
