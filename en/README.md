@@ -35,7 +35,7 @@ their nationality?". Guy goes uuuhhh, the laughter machine goes
 off... But, how cld the guy know what? Does he deal with this
 particular nationality daily? Know anyone from there?
 
-Another didn't know how rainbow work... Big deal.
+Another didn't know how rainbows work... Big deal.
 
 Democracy doesn't need book-smart citizens. As long as they can tell
 whether they are better or worse off compared to 2/4/6 yrs ago, they
