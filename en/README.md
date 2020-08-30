@@ -26,7 +26,7 @@ No
 
 Yes
 
-"Was Trump's election a sign of democracy working?"
+"Was Trump's 2016 election a sign of democracy working?"
 
 ---
 
