@@ -2,8 +2,7 @@
 
 
 They are still printing in layers, but the layer resolution is
-extremely high, and the image is constantly projected onto the liquid
-that shapes it into final form. Promising tech.
+extremely high, and the process is more continuous. Promising tech.
 
 [Link](https://youtu.be/23at9QglAm8)
 
