@@ -133,7 +133,7 @@ Medicare for All proponents are called 'grifters.'"
 
 ---
 
-R u trying to create magical negros out of my Anatolian negros?
+Trying to create magical negros out of my Anatolian negros?
 
 ---
 
