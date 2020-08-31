@@ -90,9 +90,9 @@ SPH `hokusai`, not bad. Dam break 3D
 
 No I do not support DJT. Just pointing out the weirdness of how things
 aligned recently... Not just in US, in UK and other places
-too.. British Tory PM talking about a "New Deal" when at the same time
-Labor leader is going to extreme lengths not to seem pro-Palestine,
-sorry "anti-Semitic".
+too.. British Tory PM talking about a "New Deal" while the Labor
+leader is going to extreme lengths not to seem pro-Palestine, sorry
+"anti-Semitic". This is weird.
 
 ---
 
