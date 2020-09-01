@@ -23,7 +23,7 @@ of tech (post-industrial) will cause *social disruption* unless it is
 handled, i.e. proper structures are formed around it. Tech by itself,
 in the grander sense, will create more problems than it solves.
 
-They didn't think any of that. Did anyone talk about the downside?
+They didn't think of any of that. Did anyone talk about the downside?
 Any related talk was cleverly steered towards hyperboly,
 next-to-zero-chance type events, such as "AI apocalypse", so everyone
 could slap themselves in the back and say they thought "all
