@@ -83,8 +83,6 @@ not "crush it". The guy with the big teeth will tell you how.
 
 ---
 
-Just to reemphasize:
-
 "@davidsirota
 
 Rahm Emanuel presided over the suppression of a video of a police
