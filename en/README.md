@@ -1,8 +1,5 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every year at this time as the sun rises noticeably later each morning I am reminded that sin(theta)~theta for theta&lt;&lt;1</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1300820241149124608?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> fuel cell-powered heavy goods vehicles (HGV) will be deployed in New Zealand thanks to a new partnership between Hiringa Energy and <a href="https://twitter.com/hyzonmotors?ref_src=twsrc%5Etfw">@hyzonmotors</a>. <a href="https://t.co/fdhVJImQEj">https://t.co/fdhVJImQEj</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1300701199038058500?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -85,6 +82,10 @@ the market. Personal income disrupted for a few months and u get hit
 with an health insurance bill of thousands pushing you to bankruptcy?
 Your fault. You didn't have an "up personality", could not "crush
 it". The guy with the big teeth will tell you how.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every year at this time as the sun rises noticeably later each morning I am reminded that sin(theta)~theta for theta&lt;&lt;1</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1300820241149124608?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
