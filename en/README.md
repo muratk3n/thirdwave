@@ -8,6 +8,11 @@
 
 ---
 
+The hilarious part is C will happily let you do it. What-ever. Coding
+close to the metal. 
+
+---
+
 Cast everything to `void *`. Then cast that anything else,
 anytime. Wanna dance with the devil boy?! Do it!
 
