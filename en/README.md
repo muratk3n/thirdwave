@@ -1,136 +1,146 @@
 # Tweets
 
-JS: "One of the leading causes of homelessness in this country is, in
-fact, our shortage of low-income housing. After mental illness and
-substance abuse, minimum-size standards have probably kept more people
-on the street than any other contributing factor. Countless attempts
-to design and build efficient forms of shelter by and for the homeless
-have been thwarted by these codes.  By demanding all or nothing from
-our homes, current restrictions ensure that the have-nots have nothing
-at all. The U.N. Declaration of Universal Human Rights (of which the
-United States is a signatory) holds shelter to be a fun- damental
-human right. Yet, in the U.S.. this right is guaranteed only to those
-with enough money to afford the opulence"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every year at this time as the sun rises noticeably later each morning I am reminded that sin(theta)~theta for theta&lt;&lt;1</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1300820241149124608?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Grim and grimmer
-
-JS: "It is illegal to inhabit a tiny home in most populated areas of
-the U.S. The housing industry and the banks sustaining it spent much
-of the 1970s and 1980s pushing for larger houses to produce more
-profit per structure, and housing authorities all cross the country
-adopted this bias in the form of minimum-size standards. The stated
-purpose of these codes is to preserve the high quality of living
-enjoyed in our urban and suburban areas by defining how small a house
-can be. They govern the size of every habitable room and details
-therein. By aiming to eliminate all but the most extravagant housing,
-size standards have effectively eliminated housing for everyone but
-the most affluent Americans.
-
-Again, the intention of these limits is to keep unsightly little
-houses from popping up and lowering property values in America’s
-communities and, moreover, to ensure that the housing industry is
-adequately sustained. The actual results of the limits are a greater
-number of unsightly large houses, inordinate construction waste,
-higher emissions, sprawl and deforestation, and, for those who cannot
-afford these larger houses, homelessness"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> fuel cell-powered heavy goods vehicles (HGV) will be deployed in New Zealand thanks to a new partnership between Hiringa Energy and <a href="https://twitter.com/hyzonmotors?ref_src=twsrc%5Etfw">@hyzonmotors</a>. <a href="https://t.co/fdhVJImQEj">https://t.co/fdhVJImQEj</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1300701199038058500?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-JS: "For most Americans, big houses have come to symbolize the good
-life; but, all symbolism aside, the life these places actually foster
-is more typically one of drudgery. Mortgage payments can appropriate
-thirty to forty percent of a household’s income not counting taxes,
-insurance, or maintenance expenses. When every spare penny is going
-towards house payments, there is nothing left over for investments,
-travel, continued education, more time with the kids, or even so much
-as a minute to relax and enjoy life. At this rate, an oversized house
-can start to look more like a debtor’s prison than a home"
+Cast everything to `void *`. Then cast that anything else,
+anytime. Wanna dance with the devil boy?! Do it now!
 
 ---
 
-JS is the grandfather of the tiny house movement.
+Centrist Dems and some Reps like Newt merely used the mystique of tech
+to justify undoing of social services. "We cant give healthcare to
+people". Why?  "Well, smart sensors, knowledge economy, blah
+blah". 
 
-Jay Shafer, 2009: "My reasons for choosing to live in such small
-houses include some environmental concerns. The two largest of my
-three, hand-built homes were made with only about 4,800 pounds of
-building materials each, less than 100 pounds of which went to the
-local landfill. Each produced less than 900 pounds of greenhouse gases
-during a typical Iowa winter. And, at 89 square feet, plus porch and
-loft, each fit snugly into a single parking space.
+3W methodalogy always stressed how tech, especially a different breed
+of tech (post-industrial) will cause *social disruption* unless it is
+handled, i.e. proper structures are formed around it. Tech by itself,
+in the grander sense, will create more problems than it solves.
 
-In contrast, the average American house consumes about three quarters
-of an acre of forest and produces about seven tons of construction
-waste. It emits 18 tons of greenhouse gases annually, and, at more
-than 2,349 square feet, it would most definitely not fit into a single
-parking space"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Might just give it all up and become a park ranger</p>&mdash; Jessica Christian (@jachristian) <a href="https://twitter.com/jachristian/status/1300464758055813120?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+They didn't think any of that. Did anyone talk about the downside?
+Any related talk was cleverly steered towards hyperboly,
+next-to-zero-chance type events, such as "AI apocalypse", so everyone
+could slap themselves in the back and say they thought "all
+angles". "We've got that covered, you see, we are talking about the
+dangers of tech". The flare having gone off, they could now go their
+marry way to slut themselves to corporations.
 
 ---
 
-SPHeric. Cool \#SPH
-
-<img width="340" src="https://pbs.twimg.com/media/EgwUiRzXcAMZhkg?format=jpg&name=large"/>
-
----
-
-SPH `hokusai`, not bad. Dam break 3D 
-
-[Link](https://twitter.com/muratk3n/status/1300458959283851269)
+The song The Unpossible: "We have the word impossible, but we need to
+differentiate between two sorts of things. The impossible is that
+which by definition can never be done. We need another word:
+unpossible"
 
 ---
 
-No I do not support DJT. Just pointing out the weirdness of how things
-aligned recently... Not just in US, in UK and other places
-too.. British Tory PM talking about a "New Deal" while the Labor
-leader is going to extreme lengths not to seem pro-Palestine, sorry
-"anti-Semitic". This is weird.
+Emphasis ‎– Bad Omen \#music
+
+[Link](https://www.youtube.com/watch?v=kb0pqrEAHLM&t=1412s)
 
 ---
 
-Academics can be smart but they are usually not software
-engineers. They'll create bazillion of dependencies, the whole thing
-becomes a mess. Also nothing easily demonstrable included (comes with
-the territory, they earn their stripes being as obscure, "mystical" as
-possible, the publishing process makes them so).
+Physics has the best words
 
 ---
 
-Bloody university code. 
+THE COEFFICIENT OF RESTITUTION
 
 ---
 
-`void *`
-
-Had not seen that for a while. 
+OBLIQUE COLLISION
 
 ---
 
-Aha. So you are not supposed to say "Im was saved bcz of the right
-things I *achieved*". It was a gift to you. It is emphasizing
-selflessness.
+Fort Knox Five - The FK Strut \#music
 
-Religion is ancient time's left (it is politics). Also, it is the
-self-help lit of its time. Instead of a guy with big teeth running
-around teaching you how to "crush it", there is the lit on how to take
-it easy, chillax, turn the other cheek once in a while.
-
-"Ephesians 2:8 
-
-For by grace have ye been saved through faith; and that not of
-yourselves, it is the gift of God"
+[Link](https://youtu.be/mhwLF-RGtJE)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bill Gates discusses the future of <a href="https://twitter.com/hashtag/cleantransportation?src=hash&amp;ref_src=twsrc%5Etfw">#cleantransportation</a> and <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>’s potential in long-haul scenarios: <a href="https://t.co/IG8JBdHbqz">https://t.co/IG8JBdHbqz</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1300421685988995074?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+As per policy I'd just insert H2 / NH4 FC tech in there somewhere. Say
+"it's for long-range", "for steel". Once it is cemented for
+anything, it will destroy everything else in the long-run, bcz using
+the same tech for everything has other benefits, training, deployment,
+maintanance etc. Alternatives will go to the way of Betamax.
 
 ---
 
-*Last updated 2020-08-31 23:09*
+The prevalence of the self-help lit during the 90s had to do with
+over-commercialization of everything. Life was about "the market",
+everyone working "for the market". Then, by implication, if something
+bad happened to you, u felt down, it was all your fault. *You* failed
+the market. Your personal money flow disrupted for a few months and u
+get hit with an health insurance bill of thousands pushing you to
+bankruptcy?  Your fault. You didn't have an "up personality", could
+not "crush it". The guy with the big teeth will tell you how.
+
+---
+
+Just to reemphasize:
+
+"@davidsirota
+
+Rahm Emanuel presided over the suppression of a video of a police
+murder of a teenager, then left office in disgrace to become a Wall St
+exec. He’s billed as an honorable Democratic statesman. Meanwhile,
+Medicare for All proponents are called 'grifters.'"
+
+---
+
+"The conflict between the haves and have-nots also feeds into another
+major theme of cyberpunk.  Often depicting future dystopias where
+megacorporations wield more power than governments, and rule the world
+from lofty skyscrapers, overlooking the streets where cyberpunk heroes
+try to make ends meet doing illicit jobs, either for these
+corporations, or against them"
+
+[Link](https://youtu.be/sttm8Q9rOdQ?t=187)
+
+---
+
+"VoltH2 will build a green plant with storage in North Sea Port"
+
+[Link](https://www.h2-view.com/story/volth2-to-develop-green-hydrogen-plant-in-north-sea-port/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great to see that <a href="https://twitter.com/hashtag/Everfuel?src=hash&amp;ref_src=twsrc%5Etfw">#Everfuel</a> has reached out to countries across the world and into the green newsroom at <a href="https://twitter.com/hashtag/Bloomberg?src=hash&amp;ref_src=twsrc%5Etfw">#Bloomberg</a>.com<br><br>Link to article: <a href="https://t.co/kr15vQ2Qlm">https://t.co/kr15vQ2Qlm</a><a href="https://twitter.com/hashtag/Thefutureisnow?src=hash&amp;ref_src=twsrc%5Etfw">#Thefutureisnow</a> <a href="https://twitter.com/hashtag/GreenTransport?src=hash&amp;ref_src=twsrc%5Etfw">#GreenTransport</a> <a href="https://twitter.com/hashtag/ClimateChange?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateChange</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1299332125523685376?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Bladerunner* bombed when it came out? Makes sense; I never liked it
+as a movie. It might have been influential on other directors, but, as
+a movie on its own wasn't all that great. *Star Wars* in the 70s was
+both, cinematically influential and a movie people would like.
+
+---
+
+Frank Macdonald and Chris Rae - Soul City Drive \#music
+
+[Link](https://youtu.be/wkjDvNV5H3E)
+
+---
+
+**LEARN**
+
+"But as a Moslem I don't know how to tolerate such a thing"
+
+---
+
+Great idea. In fact do this every month. 
+
+"Charlie Hebdo reprints cartoons of prophet ahead of terror trial"
+
+---
+
+*Last updated 2020-09-01 21:52*
 
 ---
 
