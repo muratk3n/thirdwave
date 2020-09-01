@@ -9,7 +9,7 @@
 ---
 
 Cast everything to `void *`. Then cast that anything else,
-anytime. Wanna dance with the devil boy?! Do it now!
+anytime. Wanna dance with the devil boy?! Do it!
 
 ---
 
