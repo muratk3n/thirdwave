@@ -128,7 +128,7 @@ Frank Macdonald and Chris Rae - Soul City Drive \#music
 
 **LEARN**
 
-"But as a Moslem I don't know how to tolerate such a thing"
+"But as a Muslim I don't know how to tolerate such a thing"
 
 ---
 
