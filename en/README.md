@@ -76,10 +76,10 @@ The prevalence of the self-help lit during the 90s had to do with
 over-commercialization of everything. Life was about "the market",
 everyone working "for the market". Then, by implication, if something
 bad happened to you, u felt down, it was all your fault. *You* failed
-the market. Your personal money flow disrupted for a few months and u
-get hit with an health insurance bill of thousands pushing you to
-bankruptcy?  Your fault. You didn't have an "up personality", could
-not "crush it". The guy with the big teeth will tell you how.
+the market. Personal income disrupted for a few months and u get hit
+with an health insurance bill of thousands pushing you to bankruptcy?
+Your fault. You didn't have an "up personality", could not "crush
+it". The guy with the big teeth will tell you how.
 
 ---
 
