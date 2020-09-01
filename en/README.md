@@ -74,7 +74,7 @@ maintanance etc. Alternatives will go to the way of Betamax.
 
 ---
 
-The prevalence of the self-help lit during the 90s had to do with
+The prevalence of the self-help lit during the 80/90s had to do with
 over-commercialization of everything. Life was about "the market",
 everyone working "for the market". Then, by implication, if something
 bad happened to you, u felt down, it was all your fault. *You* failed
