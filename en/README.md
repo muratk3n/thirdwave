@@ -5,7 +5,7 @@
 
 ---
 
-The hilarious part is C will happily let you do it. Coding close to
+The hilarious part is C will happily let you do that. Coding close to
 the metal.
 
 ---
