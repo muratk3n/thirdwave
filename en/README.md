@@ -5,8 +5,8 @@
 
 ---
 
-The hilarious part is C will happily let you do it. What-ever. Coding
-close to the metal. 
+The hilarious part is C will happily let you do it. Coding close to
+the metal.
 
 ---
 
