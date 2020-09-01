@@ -33,9 +33,9 @@ marry way to slut themselves to corporations.
 
 ---
 
-The song The Unpossible: "We have the word impossible, but we need to
-differentiate between two sorts of things. The impossible is that
-which by definition can never be done. We need another word:
+From the song *The Unpossible*: "We have the word impossible, but we
+need to differentiate between two sorts of things. The impossible is
+that which by definition can never be done. We need another word:
 unpossible"
 
 ---
