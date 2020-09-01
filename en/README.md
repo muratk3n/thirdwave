@@ -26,7 +26,7 @@ in the grander sense, will create more problems than it solves.
 They didn't think of any of that. Did anyone talk about the downside?
 Any related talk was cleverly steered towards hyperboly,
 next-to-zero-chance type events, such as "AI apocalypse", so everyone
-could slap themselves in the back and say they thought "all
+could slap themselves in the back and say they thought of "all
 angles". "We've got that covered, you see, we are talking about the
 dangers of tech". The flare having gone off, they could now go their
 marry way to slut themselves to corporations.
