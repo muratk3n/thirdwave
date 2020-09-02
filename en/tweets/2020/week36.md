@@ -261,7 +261,7 @@ The geo is all wrong too, try Bursa, Anatolia, in so-called Turkey
 
 ---
 
-Wrong 60s. Try [1867](2013/12/inventions-of-kebabic-kind.md).
+Wrong 60s. Try [1867](../../2013/12/inventions-of-kebabic-kind.md).
 
 "Doner kebap was invented in Berlin when immigrants [so-called Turks]
 arrived there, during 60s"
