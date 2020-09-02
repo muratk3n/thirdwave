@@ -20,7 +20,7 @@ to justify undoing of social services. "We cant give healthcare to
 people". Why?  "Well, smart sensors, knowledge economy, blah
 blah". 
 
-3W methodalogy always stressed how tech, especially a different breed
+3W methodology always stressed how tech, especially a different breed
 of tech (post-industrial) will cause *social disruption* unless it is
 handled, i.e. proper structures are formed around it. Tech by itself,
 in the grander sense, will create more problems than it solves.
