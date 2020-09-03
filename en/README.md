@@ -17,7 +17,7 @@ win"
 We are talking about a synergy between hardware and software, between
 cash flow and capital needs. C'mon
 
-[Link](https://youtu.be/emKcqBql4rs?t=201)
+[Link](https://youtu.be/emKcqBql4rs?t=211)
 
 ---
 
