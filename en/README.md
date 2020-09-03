@@ -55,9 +55,9 @@ then I saw the lady in the background with the mask
 
 "@NBCPhiladelphia
 
-Chicken Ander Christensen, a Nebraska resident, made a passionate plea
-to the Lincoln City Council to rename boneless chicken wings because
-they are not in fact wings from a chicken"
+Ander Christensen, a Nebraska resident, made a passionate plea to the
+Lincoln City Council to rename boneless chicken wings because they are
+not in fact wings from a chicken"
 
 [Link](https://twitter.com/NBCPhiladelphia/status/1301213811458928640)
 
