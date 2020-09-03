@@ -63,6 +63,12 @@ they are not in fact wings from a chicken"
 
 ---
 
+Boris Johnson, 2018: "Fuck business"
+
+[Link](https://www.bbc.com/news/uk-politics-44618154)
+
+---
+
 Supply-Sider
 
 "@JenniferJJacobs
