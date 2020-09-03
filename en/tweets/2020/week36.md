@@ -10,7 +10,7 @@ the metal.
 
 ---
 
-Cast everything to `void *`. Then cast that anything else,
+Cast everything to `void *`. Then cast that t anything else,
 anytime. Wanna dance with the devil boy?! Do it!
 
 ---
