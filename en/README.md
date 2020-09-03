@@ -85,9 +85,8 @@ earnings blew past analysts' estimates"
 ---
 
 A lot of them lived through 60/70s, which were not silent times, but
-US still had some pizzazz, hadn't sold its soul yet.
-
-Then it became Brasil -- thanks to centrist Dems.
+US still had some pizzazz, hadn't sold its soul yet. Then it became
+Brasil. Sad.
 
 "@cwarzel
 
