@@ -119,6 +119,16 @@ Liquidus Ambiento - Carnaúba \#music
 
 ---
 
+"@davidsirota
+
+Rahm Emanuel presided over the suppression of a video of a police
+murder of a teenager, then left office in disgrace to become a Wall St
+exec. He’s billed as an honorable Democratic statesman. Meanwhile,
+Medicare for All proponents are called 'grifters.'"
+
+---
+
+
 *Last updated 2020-09-03 11:54*
 
 ---
