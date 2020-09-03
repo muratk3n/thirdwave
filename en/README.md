@@ -1,150 +1,113 @@
 # Tweets
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> fuel cell-powered heavy goods vehicles (HGV) will be deployed in New Zealand thanks to a new partnership between Hiringa Energy and <a href="https://twitter.com/hyzonmotors?ref_src=twsrc%5Etfw">@hyzonmotors</a>. <a href="https://t.co/fdhVJImQEj">https://t.co/fdhVJImQEj</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1300701199038058500?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-The hilarious part is C will happily let you do that. Coding close to
-the metal.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lost today! 😊 <a href="https://t.co/HM30hPeGtI">https://t.co/HM30hPeGtI</a></p>&mdash; Julia Barnes (@jpkbarnes) <a href="https://twitter.com/jpkbarnes/status/1300966192849530886?ref_src=twsrc%5Etfw">September 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Cast everything to `void *`. Then cast that anything else,
-anytime. Wanna dance with the devil boy?! Do it!
+"@EdMarkey
+
+Growing up, my father told me, don’t beg for your rights, you
+organize, and you take them. So, to the young people fighting in this
+movement for change, here is my charge: march in the streets, protest,
+run for school committee or city council or the state legislature. And
+win"
 
 ---
 
-Centrist Dems and some Reps like Newt merely used the mystique of tech
-to justify undoing of social services. "We cant give healthcare to
-people". Why?  "Well, smart sensors, knowledge economy, blah
-blah". 
+We are talking about a synergy between hardware and software, between
+cash flow and capital needs. C'mon
 
-3W methodology always stressed how tech, especially a different breed
-of tech (post-industrial) will cause *social disruption* unless it is
-handled, i.e. proper structures are formed around it. Tech by itself,
-in the grander sense, will create more problems than it solves.
-
-They didn't think of any of that. Did anyone talk about the downside?
-Any related talk was cleverly steered towards hyperboly,
-next-to-zero-chance type events, such as "AI apocalypse", so everyone
-could slap themselves in the back and say they thought of "all
-angles". "We've got that covered, you see, we are talking about the
-dangers of tech". The flare having gone off, they could now go their
-marry way to slut themselves to corporations.
+[Link](https://youtu.be/emKcqBql4rs?t=201)
 
 ---
 
-From the song *The Unpossible*: "We have the word impossible, but we
-need to differentiate between two sorts of things. The impossible is
-that which by definition can never be done. We need another word:
-unpossible"
+Slapping on new tech on old structure with ineffective results but
+making it look shiny that you can technobabble about... This will be
+centrist Walhalla.
+
+"@meowdiao
+
+Zoom preschool is both hilarious and depressing. My 4 year old keeps
+unmuting himself and yelling 'I DON'T KNOW YOUR NAME! IS THIS MEETING
+OVER YET?'"
 
 ---
 
-Emphasis ‎– Bad Omen \#music
+Good good..
 
-[Link](https://www.youtube.com/watch?v=kb0pqrEAHLM&t=1412s)
+Future relationship with China might not be too profitable either,
+makes sense from that angle.. As long as CH was "favored" they could
+earn dollars they could pay others with. With that reduced, future looks
+iffy. Noone wants monopoly money. And dont try to back curr "with
+gold", the stupidest f-ing scheme ever. People will clap and scream
+"new world order" but behind the scenes they will say "give me my
+dollars bitch!".
 
----
+"Germany has announced a new blueprint for relations with Asia, calling
+in particular for 'diversity' in its focus in the region"
 
-Physics has the best words
-
----
-
-THE COEFFICIENT OF RESTITUTION
-
----
-
-OBLIQUE COLLISION
-
----
-
-Fort Knox Five - The FK Strut \#music
-
-[Link](https://youtu.be/mhwLF-RGtJE)
+[Link](https://youtu.be/DeuZZoC4ICg)
 
 ---
 
-As per policy I'd just insert H2 / NH4 FC tech in there somewhere. Say
-"it's for long-range", "for steel". Once it is cemented for
-anything, it will destroy everything else in the long-run, bcz using
-the same tech for everything has other benefits, training, deployment,
-maintanance etc. Alternatives will go to the way of Betamax.
+What is this, the 70s? I thought I was watching an old vid for a while
+then I saw the lady in the background with the mask
+
+"@NBCPhiladelphia
+
+Chicken Ander Christensen, a Nebraska resident, made a passionate plea
+to the Lincoln City Council to rename boneless chicken wings because
+they are not in fact wings from a chicken"
+
+[Link](https://twitter.com/NBCPhiladelphia/status/1301213811458928640)
 
 ---
 
-The prevalence of the self-help lit during the 80/90s had to do with
-over-commercialization of everything. Life was about "the market",
-everyone working "for the market". Then, by implication, if something
-bad happened to you, u felt down, it was all your fault. *You* failed
-the market. Personal income disrupted for a few months and u get hit
-with an health insurance bill of thousands pushing you to bankruptcy?
-Your fault. You didn't have an "up personality", could not "crush
-it". The guy with the big teeth will tell you how.
+Supply-Sider
+
+"@JenniferJJacobs
+
+NEWS: Trump admin, trying to prevent an eviction crisis, says it'll
+use CDC quarantine authority to prevent renters from being evicted."
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every year at this time as the sun rises noticeably later each morning I am reminded that sin(theta)~theta for theta&lt;&lt;1</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1300820241149124608?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Zoom shares soared 41% on Tuesday, lifting the videoconferencing
+software company's market cap to $129 billion after revenue and
+earnings blew past analysts' estimates"
 
 ---
 
-"@davidsirota
+A lot of them lived through 60/70s, which were not silent times, but
+US still had some pizzazz, hadn't sold its soul yet.
 
-Rahm Emanuel presided over the suppression of a video of a police
-murder of a teenager, then left office in disgrace to become a Wall St
-exec. He’s billed as an honorable Democratic statesman. Meanwhile,
-Medicare for All proponents are called 'grifters.'"
+Then it became Brasil -- thanks to centrist Dems.
 
----
+"@cwarzel
 
-"The conflict between the haves and have-nots also feeds into another
-major theme of cyberpunk.  Often depicting future dystopias where
-megacorporations wield more power than governments, and rule the world
-from lofty skyscrapers, overlooking the streets where cyberpunk heroes
-try to make ends meet doing illicit jobs, either for these
-corporations, or against them"
-
-[Link](https://youtu.be/sttm8Q9rOdQ?t=187)
+increasingly having this a convo this summer that leads to the same
+scary place: the vast majority of those in power right now grew up
+during a golden age of relative social/political stability and believe
+that stability is the norm and thus are deeply unprepared for this
+moment"
 
 ---
 
-"VoltH2 will build a green plant with storage in North Sea Port"
-
-[Link](https://www.h2-view.com/story/volth2-to-develop-green-hydrogen-plant-in-north-sea-port/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are thrilled to have successfully closed our Series A financing round 🚀 <a href="https://twitter.com/hashtag/SolarFoods?src=hash&amp;ref_src=twsrc%5Etfw">#SolarFoods</a>&#39; first commercial production facility is going full speed ahead. <a href="https://twitter.com/hashtag/Solein?src=hash&amp;ref_src=twsrc%5Etfw">#Solein</a> <a href="https://twitter.com/hashtag/SustainableProtein?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableProtein</a> <a href="https://t.co/qngI1liJvK">pic.twitter.com/qngI1liJvK</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1300776595037315072?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great to see that <a href="https://twitter.com/hashtag/Everfuel?src=hash&amp;ref_src=twsrc%5Etfw">#Everfuel</a> has reached out to countries across the world and into the green newsroom at <a href="https://twitter.com/hashtag/Bloomberg?src=hash&amp;ref_src=twsrc%5Etfw">#Bloomberg</a>.com<br><br>Link to article: <a href="https://t.co/kr15vQ2Qlm">https://t.co/kr15vQ2Qlm</a><a href="https://twitter.com/hashtag/Thefutureisnow?src=hash&amp;ref_src=twsrc%5Etfw">#Thefutureisnow</a> <a href="https://twitter.com/hashtag/GreenTransport?src=hash&amp;ref_src=twsrc%5Etfw">#GreenTransport</a> <a href="https://twitter.com/hashtag/ClimateChange?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateChange</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1299332125523685376?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@jdesmondharris
+
+When we first talked about virtual education and inequality, I was
+imagining some kids at the kitchen table while others struggled to
+find a quiet place and wifi. It did not occur to me that the
+privileged kids would have ENTIRE ACTUAL REAL CLASSROOMS built in
+their homes"
 
 ---
 
-*Bladerunner* bombed when it came out? Makes sense; I never liked it
-as a movie. It might have been influential on other directors, but, as
-a movie on its own wasn't all that great. *Star Wars* in the 70s was
-both, cinematically influential and a movie people would like.
-
----
-
-Frank Macdonald and Chris Rae - Soul City Drive \#music
-
-[Link](https://youtu.be/wkjDvNV5H3E)
-
----
-
-**LEARN**
-
-"But as a Muslim I don't know how to tolerate such a thing"
-
----
-
-Great idea. In fact do this every month. 
-
-"Charlie Hebdo reprints cartoons of prophet ahead of terror trial"
-
----
-
-*Last updated 2020-09-01 21:52*
+*Last updated 2020-09-03 11:54*
 
 ---
 
