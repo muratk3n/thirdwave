@@ -22,7 +22,7 @@ cash flow and capital needs. C'mon
 ---
 
 Slapping new tech on old structure with ineffective results but making
-it look shiny so you can technobabble about... This will be centrist
+it look shiny so you can technobabble about it... This will be centrist
 Walhalla.
 
 "@meowdiao
