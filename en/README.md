@@ -16,7 +16,7 @@ number first.
 
 [Picture \#3](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small).
 
-So Hollande's Epstein number is 3.
+Hollande's Epstein number is 3.
 
 He is okay I guess, a so-so character.
 
