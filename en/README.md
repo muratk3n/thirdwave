@@ -1,134 +1,170 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lost today! 😊 <a href="https://t.co/HM30hPeGtI">https://t.co/HM30hPeGtI</a></p>&mdash; Julia Barnes (@jpkbarnes) <a href="https://twitter.com/jpkbarnes/status/1300966192849530886?ref_src=twsrc%5Etfw">September 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first student presentation of the semester began with, “I’m not gonna explain the anti-capitalist part of the reading — we’re all Gen Z here, we hate capitalism.”<br><br>Most of the students nodded vociferously.</p>&mdash; Zachary Levenson (@grundrza) <a href="https://twitter.com/grundrza/status/1301594015532560386?ref_src=twsrc%5Etfw">September 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@EdMarkey
+They delegitimized entire swaths of political spectrum. But the need
+for those views didnt go away. The unwanted parts just moved
+elsewhere, morphed, came together in unseeming ways and became
+Brexit.
 
-Growing up, my father told me, don’t beg for your rights, you
-organize, and you take them. So, to the young people fighting in this
-movement for change, here is my charge: march in the streets, protest,
-run for school committee or city council or the state legislature. And
-win"
+If they didnt do Red Ed, maybe now they wouldnt have a Tory PM who
+said "fuck business".
 
----
-
-We are talking about a synergy between hardware and software, between
-cash flow and capital needs. C'mon
-
-[Link](https://youtu.be/emKcqBql4rs?t=211)
+They did this. The situation today is their punishment.
 
 ---
 
-Slapping new tech on old structure with ineffective results but making
-it look shiny so you can technobabble about it... This will be a centrist
-Walhalla.
+DJT getting killed by this thing; now Fox News piles on.
 
-"@meowdiao
-
-Zoom preschool is both hilarious and depressing. My 4 year old keeps
-unmuting himself and yelling 'I DON'T KNOW YOUR NAME! IS THIS MEETING
-OVER YET?'"
+[Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
 
 ---
 
-Good good..
-
-Future relationship with China might not be too profitable either,
-makes sense from that angle.. As long as CH was "favored" they could
-earn dollars they could pay others with. With that reduced, future looks
-iffy. Noone wants monopoly money. And dont try to back curr "with
-gold", the stupidest f-ing scheme ever. People will clap and scream
-"new world order" but behind the scenes they will say "give me my
-dollars bitch!".
-
-"Germany has announced a new blueprint for relations with Asia, calling
-in particular for 'diversity' in its focus in the region"
-
-[Link](https://youtu.be/DeuZZoC4ICg)
+[Red Ed](https://libcom.org/files/images/blog/ddddd.jpg).. :)
+Ahhh.. The crazy work of the rowdy British press.
 
 ---
 
-What is this, the 70s? I thought I was watching an old vid for a while
-then I saw the lady in the background with the mask
+The Discrete Universal DEnoiser = DUDE :)
 
-"@NBCPhiladelphia
-
-Ander Christensen, a Nebraska resident, made a passionate plea to the
-Lincoln City Council to rename boneless chicken wings because they are
-not in fact wings from a chicken"
-
-[Link](https://twitter.com/NBCPhiladelphia/status/1301213811458928640)
+If image proc ppl every do BOHICA the fun will be complete
 
 ---
 
-Boris Johnson, 2018: "Fuck business"
+What do I think of Hollande of FR?
 
-[Link](https://www.bbc.com/news/uk-politics-44618154)
+Whenever I get these questions, I always check a person's Epstein
+number.
 
----
+[Picture \#1](https://pbs.twimg.com/media/EhIfl-bXsAUpJFK?format=jpg&name=small)
 
-Supply-Sider
+[Picture \#2](https://pbs.twimg.com/media/EhIfs_RWkAQpl_0?format=jpg&name=small)
 
-"@JenniferJJacobs
+[Picture \#3](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small).
 
-NEWS: Trump admin, trying to prevent an eviction crisis, says it'll
-use CDC quarantine authority to prevent renters from being evicted."
+So Hollande'e Epstein number is 3.
 
----
-
-"Zoom shares soared 41% on Tuesday, lifting the videoconferencing
-software company's market cap to $129 billion after revenue and
-earnings blew past analysts' estimates"
+It's okay I guess, a so-so character.
 
 ---
 
-A lot of them lived through 60/70s, which were not silent times, but
-US still had some pizzazz, hadn't sold its soul yet. Then it became
-Brasil. Sad.
+The B-word.. Oh no.
 
-"@cwarzel
+Next you'll hear we need "Team of Rivals" approach for governance.
 
-increasingly having this a convo this summer that leads to the same
-scary place: the vast majority of those in power right now grew up
-during a golden age of relative social/political stability and believe
-that stability is the norm and thus are deeply unprepared for this
-moment"
+"@sargoth
+
+I don't know who needs to hear this, but when US politicians say
+"bipartisan", you are never one of the parties involved'
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are thrilled to have successfully closed our Series A financing round 🚀 <a href="https://twitter.com/hashtag/SolarFoods?src=hash&amp;ref_src=twsrc%5Etfw">#SolarFoods</a>&#39; first commercial production facility is going full speed ahead. <a href="https://twitter.com/hashtag/Solein?src=hash&amp;ref_src=twsrc%5Etfw">#Solein</a> <a href="https://twitter.com/hashtag/SustainableProtein?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableProtein</a> <a href="https://t.co/qngI1liJvK">pic.twitter.com/qngI1liJvK</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1300776595037315072?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Bosch is world's top parts supplier. Number ☝ 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/BoschPress?ref_src=twsrc%5Etfw">@boschpress</a>: the mobility of the future needs <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> - Seven reasons why fuel cells and <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> are crucial building blocks of tomorrow’s <a href="https://twitter.com/hashtag/mobility?src=hash&amp;ref_src=twsrc%5Etfw">#mobility</a>.<a href="https://twitter.com/hashtag/CleanMobility?src=hash&amp;ref_src=twsrc%5Etfw">#CleanMobility</a> <a href="https://twitter.com/hashtag/FutureOfTransport?src=hash&amp;ref_src=twsrc%5Etfw">#FutureOfTransport</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://t.co/sN7XRblVRE">https://t.co/sN7XRblVRE</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1301778804201926657?ref_src=twsrc%5Etfw">September 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@jdesmondharris
+"Any global investor, or would-be innovator, might gaze across at the
+ice wall of patent knowledge surrounding US tech companies and
+conclude it cannot be breached. ...  But ice walls melt and legal
+systems can turn on technology monopolists. That happened to Thomas
+Edison with movie patents, AT&T with telephony"
 
-When we first talked about virtual education and inequality, I was
-imagining some kids at the kitchen table while others struggled to
-find a quiet place and wifi. It did not occur to me that the
-privileged kids would have ENTIRE ACTUAL REAL CLASSROOMS built in
-their homes"
-
----
-
-Liquidus Ambiento - Carnaúba \#music
-
-[Link](https://youtu.be/a_LpPsN5eNY)
+[Link](https://www.ft.com/content/dd908d81-4859-4d19-a1e8-e5f7b4f01ad0)
 
 ---
 
-"@davidsirota
-
-Rahm Emanuel presided over the suppression of a video of a police
-murder of a teenager, then left office in disgrace to become a Wall St
-exec. He’s billed as an honorable Democratic statesman. Meanwhile,
-Medicare for All proponents are called 'grifters.'"
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">&quot;died when officials moved to arrest him&quot;</p>&mdash; kavita poduri (@yrgirlkv) <a href="https://twitter.com/yrgirlkv/status/1301727149204762624?ref_src=twsrc%5Etfw">September 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
+The game *Gravity Vector* -- nice scenery
 
-*Last updated 2020-09-03 11:54*
+[Link](https://www.poliexa.com/)
+
+---
+
+US violated its own rule that it followed since WWII by creating such
+a strong relationship with a non-democracy. There were strong ties
+with Japan, Germany, Europe -- all democracies after WWII. 
+
+"But US made China favored, why shouldn't it help a country?"
+
+---
+
+Sounds like some mafiosi shit. 
+
+Or like *Blade* where there are "familiars", fanbois, they are allowed
+to live
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">these cards were a fact of life where i grew up, and i never saw a cop NOT let someone off if they had one and showed it to them <a href="https://t.co/UjV7ZKFSI2">https://t.co/UjV7ZKFSI2</a></p>&mdash; Casey Johnston (@caseyjohnston) <a href="https://twitter.com/caseyjohnston/status/1301137317210587140?ref_src=twsrc%5Etfw">September 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@MilesMJohnson
+
+This is a riveting account of Dan’s epic Wirecard reporting that
+should drive home the fact that there are legions of libel lawyers,
+spin doctors and dark arts specialists being paid millions to muzzle
+investigative journalism in the UK"
+
+[Link](https://twitter.com/MilesMJohnson/status/1301449351609421824)
+
+---
+
+A good chunk of money for H2 from France 
+
+[Link](https://mobile.twitter.com/Thorsten_H2/status/1301485976204783622)
+
+---
+
+God is Dead. Hell Still Exists. 😂 😂 😂 
+
+"@MetalShayne2000
+
+I've found the greatest movie poster of all time"
+
+<img width="240" src="https://pbs.twimg.com/media/EhFvsuwXsAIDUsc?format=jpg&name=small"/>
+
+---
+
+"@KingWestbrook7
+
+MY BABY BOY AND THE AVENGERS HOLDING A MEMORIAL FOR BLACK PANTHER"
+
+[Link](https://twitter.com/KingWestbrook7/status/1299751417964527616)
+
+---
+
+Ilay and Beat C - The Answer (Ilay Mix) \#music
+
+[Link](https://youtu.be/DJ8bM1UUVBs)
+
+---
+
+Coefficient of restitution = 1
+
+---
+
+Shit is happenin bruh...
+
+[Link](https://twitter.com/muratk3n/status/1301483223583780870)
+
+---
+
+"@SeanMcElwee
+
+biden +3 in TX"
+
+[Link](https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf)
+
+---
+
+*Last updated 2020-09-05 09:57*
 
 ---
 
