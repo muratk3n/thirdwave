@@ -95,7 +95,7 @@ investigative journalism in the UK"
 
 The Discrete Universal DEnoiser = DUDE
 
-If image proc ppl every do BOHICA the fun will be complete
+If image proc ppl ever do BOHICA the fun will be complete
 
 ---
 
