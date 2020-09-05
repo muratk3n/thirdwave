@@ -5,6 +5,12 @@
 
 ---
 
+DJT getting killed by this thing; now Fox News piles on.
+
+[Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
+
+---
+
 They delegitimized entire swaths of political spectrum. But the need
 for those views didnt go away. The unwanted parts just moved
 elsewhere, morphed, came together in unseeming ways and became
@@ -14,12 +20,6 @@ If they didnt do Red Ed, maybe now they wouldnt have a Tory PM who
 said "fuck business".
 
 They did this. The situation today is their punishment.
-
----
-
-DJT getting killed by this thing; now Fox News piles on.
-
-[Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
 
 ---
 
