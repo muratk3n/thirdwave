@@ -99,6 +99,14 @@ A good chunk of money for H2 from France
 
 ---
 
+"@SeanMcElwee
+
+biden +3 in TX"
+
+[Link](https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf)
+
+---
+
 Fox News piles on.
 
 [Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
@@ -142,14 +150,6 @@ Some more action..
 Coefficient of restitution = 1
 
 [Link](https://twitter.com/muratk3n/status/1301483223583780870)
-
----
-
-"@SeanMcElwee
-
-biden +3 in TX"
-
-[Link](https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf)
 
 ---
 
