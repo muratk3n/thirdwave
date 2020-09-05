@@ -122,8 +122,6 @@ A good chunk of money for H2 from France
 
 ---
 
-It is over the top.. God is Dead. Hell Still Exists. 
-
 "@MetalShayne2000
 
 I've found the greatest movie poster of all time"
