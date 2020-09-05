@@ -5,12 +5,6 @@
 
 ---
 
-Fox News piles on.
-
-[Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
-
----
-
 What do I think of Hollande of FR?
 
 Whenever I get these questions, I always check a person's Epstein
@@ -102,6 +96,12 @@ If image proc ppl ever do BOHICA the fun will be complete
 A good chunk of money for H2 from France 
 
 [Link](https://mobile.twitter.com/Thorsten_H2/status/1301485976204783622)
+
+---
+
+Fox News piles on.
+
+[Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
 
 ---
 
