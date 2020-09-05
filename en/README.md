@@ -61,7 +61,7 @@ Edison with movie patents, AT&T with telephony"
 
 The game *Gravity Vector* -- nice scenery
 
-[Link](https://www.poliexa.com/)
+[Link](https://twitter.com/POLIEXA/status/1153770002476085249)
 
 ---
 
