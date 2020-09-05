@@ -122,13 +122,13 @@ A good chunk of money for H2 from France
 
 ---
 
-God is Dead. Hell Still Exists. 😂 😂 😂 
+It is a over the top.. God is Dead. Hell Still Exists. 
 
 "@MetalShayne2000
 
 I've found the greatest movie poster of all time"
 
-<img width="240" src="https://pbs.twimg.com/media/EhFvsuwXsAIDUsc?format=jpg&name=small"/>
+[Link](https://pbs.twimg.com/media/EhFvsuwXsAIDUsc?format=jpg&name=small)
 
 ---
 
