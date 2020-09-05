@@ -146,11 +146,9 @@ Ilay and Beat C - The Answer (Ilay Mix) \#music
 
 ---
 
+Some more action..
+
 Coefficient of restitution = 1
-
----
-
-Shit is happenin bruh...
 
 [Link](https://twitter.com/muratk3n/status/1301483223583780870)
 
