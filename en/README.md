@@ -37,7 +37,7 @@ If image proc ppl every do BOHICA the fun will be complete
 What do I think of Hollande of FR?
 
 Whenever I get these questions, I always check a person's Epstein
-number.
+number first.
 
 [Picture \#1](https://pbs.twimg.com/media/EhIfl-bXsAUpJFK?format=jpg&name=small)
 
