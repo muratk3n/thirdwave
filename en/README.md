@@ -5,7 +5,7 @@
 
 ---
 
-DJT getting killed by this thing. Now Fox News piles on.
+Fox News piles on.
 
 [Link](https://twitter.com/hunterschwarz/status/1301996761309802496)
 
