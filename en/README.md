@@ -28,12 +28,6 @@ Ahhh.. The crazy work of the rowdy British press.
 
 ---
 
-The Discrete Universal DEnoiser = DUDE :)
-
-If image proc ppl every do BOHICA the fun will be complete
-
----
-
 What do I think of Hollande of FR?
 
 Whenever I get these questions, I always check a person's Epstein
@@ -113,6 +107,12 @@ spin doctors and dark arts specialists being paid millions to muzzle
 investigative journalism in the UK"
 
 [Link](https://twitter.com/MilesMJohnson/status/1301449351609421824)
+
+---
+
+The Discrete Universal DEnoiser = DUDE
+
+If image proc ppl every do BOHICA the fun will be complete
 
 ---
 
