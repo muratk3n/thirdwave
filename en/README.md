@@ -105,6 +105,16 @@ A good chunk of money for H2 from France
 
 ---
 
+It stands for "Creating Conscious Communities with People Outside". It's funny.
+
+---
+
+The tent city is called C3PO? :)
+
+[Link](https://twitter.com/NoBonzo/status/1302091737658093568)
+
+---
+
 "@MetalShayne2000
 
 I've found the greatest movie poster of all time"
