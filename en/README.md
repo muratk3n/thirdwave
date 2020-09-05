@@ -11,23 +11,6 @@ DJT getting killed by this thing. Now Fox News piles on.
 
 ---
 
-They delegitimized entire swaths of political spectrum. But the need
-for those views didnt go away. The unwanted parts just moved
-elsewhere, morphed, came together in unseeming ways and became
-Brexit.
-
-If they didnt do Red Ed, maybe now they wouldnt have a Tory PM who
-said "fuck business".
-
-They did this. The situation today is their punishment.
-
----
-
-[Red Ed](https://libcom.org/files/images/blog/ddddd.jpg).. :)
-Ahhh.. The crazy work of the rowdy British press.
-
----
-
 What do I think of Hollande of FR?
 
 Whenever I get these questions, I always check a person's Epstein
@@ -157,6 +140,23 @@ Coefficient of restitution = 1
 biden +3 in TX"
 
 [Link](https://filesforprogress.org/datasets/2020/9/dfp_tx_survey_key_findings_sept4.pdf)
+
+---
+
+They delegitimized entire swaths of political spectrum. But the need
+for those views didnt go away. The unwanted parts just moved
+elsewhere, morphed, came together in unseeming ways and became
+Brexit.
+
+If they didnt do Red Ed, maybe now they wouldnt have a Tory PM who
+said "fuck business".
+
+They did this. The situation today is their punishment.
+
+---
+
+[Red Ed](https://libcom.org/files/images/blog/ddddd.jpg).. :)
+Ahhh.. The crazy work of the rowdy British press.
 
 ---
 
