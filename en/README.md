@@ -41,7 +41,7 @@ number first.
 
 So Hollande'e Epstein number is 3.
 
-It's okay I guess, a so-so character.
+He is okay I guess, a so-so character.
 
 ---
 
