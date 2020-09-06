@@ -68,7 +68,7 @@ pressure-cooker bombs in backpacks—to attack the Boston Marathon in
 
 ---
 
-This Woke is broke. Movie's minority actor is complaining WTF
+This Woke is broke. Movie's main minority actor is complaining WTF
 
 "@WIRED
 
