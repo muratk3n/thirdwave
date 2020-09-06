@@ -10,6 +10,12 @@ than travel overseas"
 
 ---
 
+Are there any greenery, trees left in California? \#CreekFire
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I took this today from our Southwest flight from San Jose to Las Vegas <a href="https://t.co/QfWYTr6sh7">pic.twitter.com/QfWYTr6sh7</a></p>&mdash; Thalia Dockery (@SweetBrown_Shug) <a href="https://twitter.com/SweetBrown_Shug/status/1302454041654378496?ref_src=twsrc%5Etfw">September 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@JoshABlock
 
 It’s unsurprising—but still noteworthy—how smoothly 2A extremists
@@ -25,7 +31,7 @@ three years, in open space"
 
 ---
 
-See *ST Voyager* V. Conspiracy ep; it was all about false
+See *ST Voyager*, 1999, V. Conspiracy ep; The ep was all about false
 positives. Once upon a time u cld get such a prescient take on a
 social issue through big tent scifi.
 
