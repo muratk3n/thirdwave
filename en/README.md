@@ -80,9 +80,9 @@ just saying it out loud"
 
 ---
 
-Excellent episode. That's what made Trek great, It wasnt abt the
-technobabble really, it was the hard-core anthropology-fi, and working
-of tech into social takes
+Excellent episode. THis is what made Trek great, it wasnt abt the
+technobabble really, more abt the hard-core, anthropology-fi, and
+working of tech into serious social takes.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve commented before that Star Trek’s most prescient prediction was communication via memes in ‘Darmok’. So it was only a matter of time before someone started making these: <a href="https://t.co/6wQfRj8wJX">pic.twitter.com/6wQfRj8wJX</a></p>&mdash; Neil Shyminsky (@neilshyminsky) <a href="https://twitter.com/neilshyminsky/status/1302322781091229700?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
