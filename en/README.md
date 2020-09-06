@@ -88,10 +88,10 @@ working of tech into serious social takes.
 
 ---
 
-Scihub allows free access to academic papers. With publicly funded
-papers walled off, ppl cant understand why they should pay for papers
-they are not even sure they will use. Hence existing system is largely
-being circumvented.
+Scihub allows free access to academic papers. People also can't
+understand why they should pay for papers they are not even sure they
+will use, that are themselves usually result of publicly funded
+reseearch. Hence existing system is largely being circumvented.
 
 "@Gassensmith
 
