@@ -32,7 +32,7 @@ three years, in open space"
 ---
 
 See *ST Voyager*, 1999, V. Conspiracy ep; The ep was all about false
-positives. Once upon a time u cld get such a prescient take on a
+positives. Once upon a time you could get such a prescient take on a
 social issue through big tent scifi.
 
 ---
