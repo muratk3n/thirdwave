@@ -116,7 +116,7 @@ problems for kids, especially younger ones"
 
 "@aurelioacts
 
-NYC paid 69 million D in police misconduct lawsuits in 2019
+NYC paid $69 million  in police misconduct lawsuits in 2019
 
 '@nypost Black Lives Matter protesters riot in Manhattan, cause
 100,000 dollars damage'"
