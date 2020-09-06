@@ -32,11 +32,8 @@ three years, in open space"
 ---
 
 See *ST Voyager* V. Conspiracy ep; it was all about false
-positives.
-
-Once upon a time u cld get such a prescient take on a social issue
-through big tent scifi. There are still some shows that have this, but
-they aint Trek.
+positives. Once upon a time u cld get such a prescient take on a
+social issue through big tent scifi.
 
 ---
 
