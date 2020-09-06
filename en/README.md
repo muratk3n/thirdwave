@@ -1,8 +1,8 @@
 # Tweets
 
 Similar news all around the world. Travelers also buy RV to avoid
-crowded hotels. This is good; it'll encourage more self-sustaining,
-off-the-grid, mobile living.
+crowded hotels even when traveling locally. This is good; it'll
+encourage more self-sustaining, off-the-grid, mobile living.
 
 "RV dealers around Australia are reporting a post-lockdown sales spike,
 as more Australians look to buy a caravan and holiday locally rather
