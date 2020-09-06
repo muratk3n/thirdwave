@@ -1,6 +1,6 @@
 # Tweets
 
-Similar news all around the world. Even travelers also buy RV to avoid
+Similar news all around the world. Travelers also buy RV to avoid
 crowded hotels. This is good; it'll encourage more self-sustaining,
 off-the-grid, mobile living.
 
