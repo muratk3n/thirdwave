@@ -1,31 +1,5 @@
 # Tweets
 
-It seems to me blacks wld be more motivated to go out and vote and
-vote against the incumb than whites wld for Trump.
-
-"'Guys are tired,' the Oklahoma City guard Chris Paul said in an
-interview. 'When I say tired, I don’t mean physically tired. We’re
-tired of seeing the same thing over and over again. It’s emotional,
-especially when you’re a Black man. We’re all hurt. Everybody expects
-us to be okay because we get paid great money. We’re humans. We have
-real feelings.' These players can’t just 'stick to sports.' Not when
-their lives are on the line, when their communities are
-disproportionately dying of COVID-19 and police violence, or bearing
-the brunt of joblessness and evictions"
-
----
-
-"The Milwaukee Bucks hadn’t planned on becoming activists. They
-brought basketball to a halt in a messy but honest way, recognizing
-the absurdity of playing sports in isolated luxury in the middle of a
-pandemic, all for a chance at bringing an NBA championship trophy home
-to a city 40 miles north of where Blake was shot as his children
-watched"
-
-[Link](https://www.theatlantic.com/ideas/archive/2020/09/there-no-escapism-americas-current-crises/616012/)
-
----
-
 Similar news all around the world. Even local travelers buy RV to
 avoid crowded hotels etc. This is good; it'll encourage more
 self-sustaining, off-the-grid, mobile living.
@@ -190,6 +164,32 @@ Haha Max Martini. Again. \#pacificRim
 President Emmanuel Macron criticised those who seek French citizenship
 without accepting France’s 'right to commit blasphemy'. To be French,
 he said, is to defend the right to 'laugh, to criticise, to mock'"
+
+---
+
+It seems blacks would be more motivated to go out and vote, and vote
+against the incumb, than whites would be for Trump.
+
+"'Guys are tired,' the Oklahoma City guard Chris Paul said in an
+interview. 'When I say tired, I don’t mean physically tired. We’re
+tired of seeing the same thing over and over again. It’s emotional,
+especially when you’re a Black man. We’re all hurt. Everybody expects
+us to be okay because we get paid great money. We’re humans. We have
+real feelings.' These players can’t just 'stick to sports.' Not when
+their lives are on the line, when their communities are
+disproportionately dying of COVID-19 and police violence, or bearing
+the brunt of joblessness and evictions"
+
+---
+
+"The Milwaukee Bucks hadn’t planned on becoming activists. They
+brought basketball to a halt in a messy but honest way, recognizing
+the absurdity of playing sports in isolated luxury in the middle of a
+pandemic, all for a chance at bringing an NBA championship trophy home
+to a city 40 miles north of where Blake was shot as his children
+watched"
+
+[Link](https://www.theatlantic.com/ideas/archive/2020/09/there-no-escapism-americas-current-crises/616012/)
 
 ---
 
