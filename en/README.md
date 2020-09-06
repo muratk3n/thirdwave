@@ -107,18 +107,19 @@ security certificates to download the paper legally"
 
 "@freedlander
 
-Active shooter drills in schools have become a D2.7 billion industry,
-and new research shows they have almost no value in keeping kids safe
-and are responsible for an increase in mental health problems for
-kids, especially younger ones"
+Active shooter drills in schools have become a 2.7 billion dollar
+industry, and new research shows they have almost no value in keeping
+kids safe and are responsible for an increase in mental health
+problems for kids, especially younger ones"
 
 ---
 
 "@aurelioacts
 
-NYC paid D69 million in police misconduct lawsuits in 2019
+NYC paid 69 million D in police misconduct lawsuits in 2019
 
-'@nypost Black Lives Matter protesters riot in Manhattan, cause D100,000 damage'"
+'@nypost Black Lives Matter protesters riot in Manhattan, cause
+100,000 dollars damage'"
 
 ---
 
