@@ -134,8 +134,9 @@ stay somewhere for D400 per night"
 due to harrassement. Interesting time period. I used to know someone
 from Tekirdag (in Thrace) who had learned tailoring trade from Jews,
 then during 40s became obscenely rich from it. Now Im thinking, maybe
-all Jewish tailors were gone by then and he was the only game in
-town. Tailor's lastname; TurkSoldier (u cant make this up).
+all Jewish tailors were gone by then and he was the only game in town,
+hence the demand. Tailor's lastname; TurkSoldier (u cant make this
+up).
 
 ---
 
