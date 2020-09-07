@@ -49,10 +49,9 @@ own. He had ran against Hillary during the primary, so maybe he
 thought he had to placate the Clintonites, at least through a cabinet
 position. These Clintons are a pest; they are rabid networkers, you
 have to watch your back, you never know how these mo..f..kers can git
-you... Other appointments can also be understandable bcz the credit
-crisis happened in a system that Clintonites were largely responsible
-for setting up. But then little here, little there... you lose your
-soul. Not good.
+you... Other appointments, ok.. bcz the credit crisis happened in a
+system Clintonites were largely responsible for. But then, little
+here, little there... you start losing your soul. 
 
 "But then why did some people appear to have a nostalgia for 90s
 during 2016?"
