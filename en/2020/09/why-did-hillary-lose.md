@@ -23,8 +23,8 @@ curveball; Obama's popularity was not too high, but Hillary, and in
 the larger sense, Clintonism had something to do with that. Bama 1st
 term was entirely Clintonite, if we go by SecStates as signs, first
 term was Hillary second was Kerry. First had war in Libya, second had
-piece with Iran, etc. Many Clintonites, Summers, that wretched punk
-Rahm, were all in the first term, gone in the second.
+piece with Iran. Many Clintonites, Summers, that wretched punk Rahm,
+were all in the first term, gone in the second.
 
 Then the conclusion is Clintonism partially doomed Obama, the dirt
 spilled on Hillary, who went on to lose the election. It was fitting
