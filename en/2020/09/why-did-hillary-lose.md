@@ -56,6 +56,11 @@ manager of sorts (a word directed to him in a radio interview that was
 so bothersome Bam had to use the N-word himself to get out from under
 it).
 
+"But why did some people appear to have a nostalgia for 90s during 2016?"
+
+Some people. And what the eff do people know about anything,
+anyway...? To the extent they were right, sure, Clintonism had merely
+started then, the degradation would take decades to play itself out.
 
 
 
