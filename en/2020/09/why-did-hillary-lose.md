@@ -52,9 +52,9 @@ your back for... Other twats might also be understandable bcz the
 credit crisis happened in a system that they were largely responsible
 for setting up... But then little here, little there... you lose your
 soul, turning the change agent into a mere continuation, a middle
-manager of sorts (a word directed to him in a radio interview that was
-so bothersome Bam had to use the N-word himself to get out from under
-it).
+manager of sorts (a word directed to him in a radio interview many
+years later that was so bothersome Bam had to use the N-word *himself*
+to get out from under it).
 
 "But why did some people appear to have a nostalgia for 90s during 2016?"
 
