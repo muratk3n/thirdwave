@@ -52,7 +52,7 @@ more distint from the right.
 
 I maintain that whatever delusions they might have, on gold, the world
 order, libertards (distinct right) should be in charge of the
-Republican Party. We shared before in a tweet
+Republican Party. I shared this previously in a tweet;
 
 >It is illegal to inhabit a tiny home in most populated areas of
 >the U.S. The housing industry and the banks sustaining it spent much
