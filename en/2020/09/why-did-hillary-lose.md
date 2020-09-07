@@ -23,7 +23,7 @@ curveball; Obama's popularity was low, but Hillary, and in the larger
 sense, Clintonism had something to do with that. Bama 1st term was
 entirely Clintonite, if we go by SecStates as signs, first term was
 Hillary second was Kerry, first had war in Libya, second had piece
-with Iran, etc. Many Clintonites, Summers, that wretched fuck Rahm,
+with Iran, etc. Many Clintonites, Summers, that frickin punk Rahm,
 were all in the first term, gone in the second.
 
 Then the conclusion is Clintonism partially doomed Obama, the dirt
@@ -38,31 +38,33 @@ into here, but after decades of this stuff people finally started to
 feel it, in their pocketbooks, in their communities. And at every
 election by simply selecting "the other" because they were always
 unhappy, they finally landed with the "ultimate other" who was against
-everything, who happened to run against a Clinton who, by poetic
-justice, was dealt a blow which actually her husband richly deserved.
+everything, who happened to run against a Clinton who was dealt a blow
+which her husband's politics richly deserved.
 
 "But Obama ran and advertised himself as a change agent, why couldn't
 he do something different?"
 
 He was too young, too inexperienced, without any power base of his
-own, he ran against Hillary during the primary, so maybe he thought he
-had to placate the Clintonites, at least through a cabinet position.
-These Clintons are pest; they are rabid networkers, you have to watch
-your back... Others can also be understandable bcz the credit crisis
-happened in a system that they were largely responsible for setting
-up. But then little here, little there... you lose your soul, the
-change agent becomes a mere continuation, a middle manager (a word
-directed to Bam in a radio interview many years later that was so
-bothersome he had to use the N-word *himself* to get out from under
+own. He had ran against Hillary during the primary, so maybe he
+thought he had to placate the Clintonites, at least through a cabinet
+position. These Clintons are a pest; they are rabid networkers, you
+have to watch your back, you never know how these mo..f..kers can git
+you... Other appointments can also be understandable bcz the credit
+crisis happened in a system that Clintonites were largely responsible
+for setting up. But then little here, little there... you lose your
+soul, the change agent becomes a mere continuation, a middle manager
+(a word directed to Bam in a radio interview many years later that was
+so bothersome he had to use the N-word *himself* to get out from under
 it).
 
 "But then why did some people appear to have a nostalgia for 90s
 during 2016?"
 
-Some people. And they don't know much...? To the extent they were
-right, sure, Clintonism had merely started then, the degradation would
-take decades to play itself out. So in the rough psyche of "people"
-such nostalgia makes sense. 
+Some people. And as we know people don't have much understanding of
+politics. To the extent they were right, sure, Clintonism had merely
+started then, the degradation would take decades to play itself
+out. So in the rough psyche that is people's political mind such
+nostalgia could, marginally makes sense.
 
 
 
