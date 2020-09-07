@@ -53,8 +53,7 @@ you... Other appointments, ok.. bcz the credit crisis happened in a
 system Clintonites were largely responsible for. But then, little
 here, little there... you start losing your soul. 
 
-"But then why did some people appear to have a nostalgia for 90s
-during 2016?"
+"How come some people appeared to have a nostalgia for 90s during 2016?"
 
 Some people. And as we know people don't have much understanding of
 politics. To the extent they were right, sure, Clintonism had merely
