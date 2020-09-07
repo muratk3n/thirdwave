@@ -56,11 +56,13 @@ directed to Bam in a radio interview many years later that was so
 bothersome he had to use the N-word *himself* to get out from under
 it).
 
-"But why did some people appear to have a nostalgia for 90s during 2016?"
+"But then why did some people appear to have a nostalgia for 90s
+during 2016?"
 
-Some people. And what the eff do people know about anything,
-anyway...? To the extent they were right, sure, Clintonism had merely
-started then, the degradation would take decades to play itself out.
+Some people. And they don't know much...? To the extent they were
+right, sure, Clintonism had merely started then, the degradation would
+take decades to play itself out. So in the rough psyche of "people"
+such nostalgia makes sense. 
 
 
 
