@@ -41,20 +41,20 @@ unhappy, they finally landed with the "ultimate other" who was against
 everything, who happened to run against a Clinton who, by poetic
 justice, was dealt a blow which actually her husband richly deserved.
 
-
-"But Obama ran and advertised himself as a change agent, why couldn't he do something different?"
+"But Obama ran and advertised himself as a change agent, why couldn't
+he do something different?"
 
 He was too young, too inexperienced, without any power base of his
 own, he ran against Hillary during the primary, so maybe he thought he
-had to placate them, at least through a cabinet position.  These
-Clintons; they are rabid networkers, pests the kind you have to watch
-your back for... Other twats might also be understandable bcz the
-credit crisis happened in a system that they were largely responsible
-for setting up... But then little here, little there... you lose your
-soul, turning the change agent into a mere continuation, a middle
-manager of sorts (a word directed to him in a radio interview many
-years later that was so bothersome Bam had to use the N-word *himself*
-to get out from under it).
+had to placate the Clintonites, at least through a cabinet position.
+These Clintons are pest; they are rabid networkers, you have to watch
+your back... Others can also be understandable bcz the credit crisis
+happened in a system that they were largely responsible for setting
+up. But then little here, little there... you lose your soul, the
+change agent becomes a mere continuation, a middle manager (a word
+directed to him in a radio interview many years later that was so
+bothersome Bam had to use the N-word *himself* to get out from under
+it).
 
 "But why did some people appear to have a nostalgia for 90s during 2016?"
 
