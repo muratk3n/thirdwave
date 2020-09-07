@@ -66,10 +66,10 @@ fix some problems in US where corporatist sluts **create** them.
 ---
 
 This is a contradiction in terms. If you want strong ideology 4 your
-side (as you should), you should accept it on the other side as well.
-Maybe Lyin Ted is the wrong guy for that, who knows, his father killed
-JFK and his wife is ugly, but on principle someone with strong
-convictions should be acceptable.
+side, you should accept it on the other side as well.  Maybe Lyin Ted
+is the wrong guy for that, who knows, his father killed JFK and his
+wife is ugly, but on principle someone with strong convictions should
+be acceptable.
 
 "I want strong, distinct left"
 
