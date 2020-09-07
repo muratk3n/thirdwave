@@ -42,9 +42,7 @@ Mass Surveillance - Complete Cycle \#music
 ---
 
 Contradiction, again... Bernie's entire candidacy was about left being
-more distint from the right. This whole mess is due to centrism. If
-one can't see that, that person has no business in commenting on
-politics.
+more distint from the right. 
 
 "I supported Bernie during the 2020 primary"
 
