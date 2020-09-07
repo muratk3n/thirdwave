@@ -737,29 +737,6 @@ remember his name. Empty field.
 
 ---
 
-Bad campaigning, or bad timing?
-
-Here is the curveball on that; Bad campaigners don't lose primarily
-because they are bad campaigners. They lose because they end up
-getting nom in bad times, when the shinier candidates sit it
-out. (Least) bad candidate wins then, and naturally fails to turn it
-around with already an immense disadvantage going in (W is an
-exception).
-
-What defines good or bad times? The three variables of *Time for
-Change*; econ, term count, popularity of the incumbent (it's all about
-the incumbent). Hillary, not a stellar campaigner, had the nom during
-a bad time (Obama pop, econ all meager). Mitt, MccCain, Dole, are all
-in the same category, ineffective national campaigners who ended up
-with the nomination, McCain after disastrous W.
-
-(Bernie's situation is somewhat different, his was the 1st in a while
-true-left challenge against the establishment)
-
-*2019-10-18 10:41:47*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a city struggling with homelessness, Amazon is dropping an outrageous amount of money to defeat progressive candidates fighting for working people.<br><br>The way Amazon conducts itself in its hometown is a perfect example of the out-of-control corporate greed we are going to end. <a href="https://t.co/E7xfmON3de">https://t.co/E7xfmON3de</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1186300607377920001?ref_src=twsrc%5Etfw">October 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-10-18 10:3:33*
