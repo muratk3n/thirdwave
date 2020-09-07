@@ -56,7 +56,7 @@ here, little there... you start losing your soul.
 "How come some people appeared to have a nostalgia for 90s during 2016?"
 
 Some people. And as we know people don't have much understanding of
-politics. To the extent they were right, sure, Clintonism had merely
-started then, the degradation would take decades to play itself
-out. So in the rough psyche that is people's political mind such
-nostalgia could, marginally makes sense.
+politics. To the extent the nostalgia was justified..  sure,
+Clintonism had merely started then, the degradation would take decades
+to play itself out. So in the rough psyche that is people's political
+mind, such nostalgia could, marginally makes sense.
