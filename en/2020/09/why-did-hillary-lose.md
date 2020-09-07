@@ -59,4 +59,4 @@ Some people. And as we know people don't have much understanding of
 politics. To the extent the nostalgia was justified..  sure,
 Clintonism had merely started then, the degradation would take decades
 to play itself out. So in the rough psyche that is people's political
-mind, such nostalgia could, marginally makes sense.
+mind, such nostalgia could, marginally make sense.
