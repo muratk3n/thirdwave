@@ -1,4 +1,4 @@
-# Why Did Hillary Lose (2016)?
+# Why Did Hillary Lose?
 
 There is a double curveball on this answer. First curveball; Bad
 campaigners don't lose primarily because they are bad
