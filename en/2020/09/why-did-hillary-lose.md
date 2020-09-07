@@ -31,7 +31,7 @@ spilled on Hillary, who went on to lose the election. It was fitting
 in a way, poetic justice, Clintonism sinking a Clinton.
 
 "But if people are dumb on politics analytically how could they have
-connect Clintonism with their bad state?"
+connect Clintonism with their bad lot in life?"
 
 They didn't have to. The sins of Clintonism are too numerous to go
 into here, but after decades of this stuff people finally started to
