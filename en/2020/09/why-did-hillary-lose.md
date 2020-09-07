@@ -23,7 +23,7 @@ curveball; Obama's popularity was low, but Hillary, and in the larger
 sense, Clintonism had something to do with that. Bama 1st term was
 entirely Clintonite, if we go by SecStates as signs, first term was
 Hillary second was Kerry, first had war in Libya, second had piece
-with Iran, etc. Many Clintonites, Summers, that frickin punk Rahm,
+with Iran, etc. Many Clintonites, Summers, that wretched punk Rahm,
 were all in the first term, gone in the second.
 
 Then the conclusion is Clintonism partially doomed Obama, the dirt
@@ -52,10 +52,7 @@ have to watch your back, you never know how these mo..f..kers can git
 you... Other appointments can also be understandable bcz the credit
 crisis happened in a system that Clintonites were largely responsible
 for setting up. But then little here, little there... you lose your
-soul, the change agent becomes a mere continuation, a middle manager
-(a word directed to Bam in a radio interview many years later that was
-so bothersome he had to use the N-word *himself* to get out from under
-it).
+soul. Not good.
 
 "But then why did some people appear to have a nostalgia for 90s
 during 2016?"
@@ -65,13 +62,3 @@ politics. To the extent they were right, sure, Clintonism had merely
 started then, the degradation would take decades to play itself
 out. So in the rough psyche that is people's political mind such
 nostalgia could, marginally makes sense.
-
-
-
-
-
-
-
-
-
-
