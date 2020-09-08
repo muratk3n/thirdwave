@@ -63,12 +63,13 @@ Now have a Raspberry Pi based media center.
 
 ---
 
-Occasionally I get stuff without name ref, like, "oh yeah?  wanna run
-that again by me big boy?" type of stuff.. but fine.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maximum Pressure is a total failure. <a href="https://t.co/PjiQzwb1KN">https://t.co/PjiQzwb1KN</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1303345990519394304?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maximum Pressure is a total failure. <a href="https://t.co/PjiQzwb1KN">https://t.co/PjiQzwb1KN</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1303345990519394304?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Occasionally I get stuff without name ref, like, "oh yeah? f--k that!"
+type of stuff.. but fine.
 
 ---
 
