@@ -1,120 +1,95 @@
 # Tweets
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW THREAD: Spain&#39;s plan is to kickstart hydrogen in transport, marine, planes &amp; rail industries is there to reduce GHG emissions by 4.6 Mtons of CO2 from 2020-2030 with a framework for Net Zero GHG to 2050. Click to download document (in Spanish): <a href="https://t.co/vfx9xY7hdx">https://t.co/vfx9xY7hdx</a></p>&mdash; Ricardo Carmona and NGVs (@Ricardo_NGV) <a href="https://twitter.com/Ricardo_NGV/status/1302844218117939200?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@edoloughlin
-
-My youngest hacked our Netflix parental code. She put light grease on
-the remote and got me to input the code when she wasn’t looking. Then
-she noted the numbers I’d pressed and went through the combinations
-later. I’m both frightened and impressed"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Together with <a href="https://twitter.com/AgQuantron?ref_src=twsrc%5Etfw">@AgQuantron</a>, a specialist in the field of commercial vehicle conversion, we will create the first fuel cell stack developed specifically for heavy-duty trucks! The first prototype system will be tested soon. <a href="https://t.co/FTYQzcnEch">https://t.co/FTYQzcnEch</a> <a href="https://t.co/3Nrt799V9Q">pic.twitter.com/3Nrt799V9Q</a></p>&mdash; Freudenberg Sealing (@Freudenberg_FST) <a href="https://twitter.com/Freudenberg_FST/status/1303318655149780992?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@davidsirota
-
-Find a life partner as loyal to you as Andrew Cuomo is loyal to his big donors
-
-'Tax the Ultrarich? Cuomo Resists, Even With a $14 Billion Budget Gap -- nytimes.com'"
+<img width="340" src="https://pbs.twimg.com/media/EgmTFU0X0AgDvVb?format=jpg&name=small"/>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It definitely has a 2019 vibe to it!</p>&mdash; Pippa Crerar (@PippaCrerar) <a href="https://twitter.com/PippaCrerar/status/1302879949175558145?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@AthertonKD
+
+... PG&E [of California] should've been socialized and turned into a
+public utility any of a half-dozen times in its history"
 
 ---
 
-"@alexdante
+Welcome to the jungle
 
-we rightly get outraged at the heartless ghouls who want to sacrifice
-lives for their stonks but we should definitely reserve some of that
-for the absolute moral black holes who are angrily demanding
-everything re-open because they're missing their sportsballs"
-
----
-
-Mass Surveillance - Complete Cycle \#music
-
-[Link](https://youtu.be/NFRNKkDQCV0)
+"[Reports of firing] on the Line of Actual Control (LAC) in Eastern
+Ladakh sector where troops of India and China have been engaged in a
+stand-off for over three months"
 
 ---
 
-Contradiction, again... Bernie's entire candidacy was about left being
-more distint from the right. 
+"India successfully test scramjet technology for hypersonic missiles"
 
-"I supported Bernie during the 2020 primary"
-
-"I dont want strong divisions between parties"
+[Link](https://timesofindia.indiatimes.com/india/india-successfully-test-scramjet-technology-for-hypersonic-missiles/articleshow/77973889.cms)
 
 ---
 
-I maintain that whatever delusions they might have, on gold, the world
-order, libertards (distinct right) should be in charge of the
-Republican Party. I shared this previously in a tweet;
+With -32% GDP growth Trump is toast. His only chance is if people
+"understand" the predicament (not in the model, never seen before
+situation), and if that offsets growth as if it was zero percent, as
+in none, then the situation becomes neck and neck due to
+incumbency. Long shot. Net popularity at -9%. 
 
->It is illegal to inhabit a tiny home in most populated areas of
->the U.S. The housing industry and the banks sustaining it spent much
->of the 1970s and 1980s pushing for larger houses to produce more
->profit per structure
-
-Would this happen under a libertard? They are for any kind of
-commerce, large or small, right? There you go, even a goldcuck could
-fix some problems in US where corporatist sluts **create** them.
 
 ---
 
-This is a contradiction in terms. If you want strong ideology 4 your
-side, you should accept it on the other side as well.  Maybe Lyin Ted
-is the wrong guy for that, who knows, his father killed JFK and his
-wife is ugly, but on principle someone with strong convictions should
-be acceptable.
-
-"I want strong, distinct left"
-
-"I don't want an ideologue on the Rep side like Ted Cruz"
+Tamam ama geçmişinde Kanuni gibi bir orospu çocuğu olan yönetim
+kültürünün böbürlenme şansı yoktur. Sen köpeksin. Köpek gibi
+havlamadan önce, geçmişteki hatalarının muhasebesini yapmanı tavsiye
+ederim.
 
 ---
 
-Hotel Daniels - Lalo Schifrin \#music
 
-[Link](https://youtu.be/GOwOzB62AFs)
+Corp profits are down -20% YOY. Not surprising given the GDP number.
 
----
-
-Rules of supply-demand does not apply to US dollar in the
-international arena. This is the part libertards dont understand. They
-think increased supply = less price. But dollar is in demand bcz of US
-backing it militarily, and ppl need it to do other things with it, not
-bcz of some intrinsic value and price has to reflect the balance
-demand / supply on that "value".
+```
+2020-04-01  1808.161 -20.104235
+```
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Uh oh...<a href="https://t.co/eVi5oMc0KU">https://t.co/eVi5oMc0KU</a></p>&mdash; Pippa Crerar (@PippaCrerar) <a href="https://twitter.com/PippaCrerar/status/1302717158716211204?ref_src=twsrc%5Etfw">September 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The thing can connect to everything, Wifi, 4 USB ports, outputs HDMI,
+all on a smallest board... Now connects to HD, shows movie. Done.
 
 ---
 
-Losing to a former game-show host, a complete outsider says more about
-the suck they are in which shouldn't be explained away by small
-margins, foreign agents, etc.
+Now have a Raspberry Pi based media center. 
 
 ---
 
-Here is the double-curveball [answer](2020/09/why-did-hillary-lose.md) on that
-
-"But Hillary almost won 2016"
-
----
-
-Goddess of Love - Barry Adamson \#music
-
-[Link](https://youtu.be/MBSXG3BatcQ?t=31)
+Occasionally I get stuff without name ref, like, "oh yeah?  wanna run
+that again by me big boy?" type of stuff.. but fine.
 
 ---
 
-*Last updated 2020-09-07 18:15*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maximum Pressure is a total failure. <a href="https://t.co/PjiQzwb1KN">https://t.co/PjiQzwb1KN</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1303345990519394304?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+I finally did it; muted the word "Trump". Filters out a lot of hacky
+content... 
+
+---
+
+@davidsirota
+
+A thought: Making the oligarchic ruling class more diverse should be a
+lower priority than ending the existence of an oligarchic ruling
+class.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BOSCH to start series manufacturing of 100 kW heavy duty PEM fuel cell stack in Bamberg, Germany, by 2022/2023 [in German: <a href="https://t.co/bImW8iphcm">https://t.co/bImW8iphcm</a>] and in the long-term sees 20% of all EVs being FCEVs (cars, buses, trucks) and advocates rapid ramp-up of green H2 production NOW.</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1303062615070044160?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Last updated 2020-09-08 18:37*
 
 ---
 

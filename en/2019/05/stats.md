@@ -82,7 +82,7 @@ net_approv = -10.0; gdp_growth = -32.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 
-net_approv = 20.0; gdp_growth = -32.0
+net_approv = -10.0; gdp_growth = -5.0
 pred = [1., gdp_growth, net_approv, 0]
 print (np.dot(pred, conf), np.dot(pred, results.params))
 ```
@@ -93,7 +93,7 @@ R^2 0.9011858911763367
 [48.49579282 50.08353537] 49.28966409763309
 [47.52265893 47.57737316] 47.550016045139444
 [38.76445393 25.02191322] 31.89318357269658
-[40.38245178 29.3253542 ] 34.85390299380441
+[47.52265893 47.57737316] 47.550016045139444
 ```
 
 
