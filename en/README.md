@@ -39,7 +39,7 @@ incumbency. Long shot. Net popularity at -9%.
 ---
 
 Tamam ama geçmişinde Kanuni gibi bir orospu çocuğu olan yönetim
-kültürünün böbürlenme şansı yoktur. Sen köpeksin... Köpek gibi
+kültürünün böbürlenme şansı yoktur. sen köpeksin... köpek gibi
 havlamadan önce, geçmişteki hatalarının muhasebesini yapmanı tavsiye
 ederim.
 
