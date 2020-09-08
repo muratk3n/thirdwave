@@ -1,4 +1,4 @@
-# Production, GDP, Globalization
+# Production, Know-How, GDP, Globalization
 
 [From *The Atlas of Economic Complexity*] The amount of knowledge that
 is required to make a product can vary enormously from one good to the

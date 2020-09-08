@@ -10,6 +10,8 @@
 
 [Why Inflate](https://www.youtube.com/watch?v=E6A_WpUY2LI)
 
+[Production, Know-How, GDP, Globalization](../../2017/08/production-gdp-globalization.md)
+
 [Bitcoin](../../2016/11/bitcoin.md)
 
 [Credit Theory of Money](../../2011/11/credit-theory-of-money.md)
