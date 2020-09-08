@@ -73,8 +73,8 @@ type of stuff.. but fine.
 
 ---
 
-I finally did it; muted the word "Trump". Filters out a lot of hacky
-content... 
+I finally did it; muted the word "Trump". Filters out a lot of firey
+content...
 
 ---
 
