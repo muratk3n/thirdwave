@@ -1,5 +1,86 @@
 # Week 37
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Together with <a href="https://twitter.com/AgQuantron?ref_src=twsrc%5Etfw">@AgQuantron</a>, a specialist in the field of commercial vehicle conversion, we will create the first fuel cell stack developed specifically for heavy-duty trucks! The first prototype system will be tested soon. <a href="https://t.co/FTYQzcnEch">https://t.co/FTYQzcnEch</a> <a href="https://t.co/3Nrt799V9Q">pic.twitter.com/3Nrt799V9Q</a></p>&mdash; Freudenberg Sealing (@Freudenberg_FST) <a href="https://twitter.com/Freudenberg_FST/status/1303318655149780992?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EgmTFU0X0AgDvVb?format=jpg&name=small"/>
+
+---
+
+"@AthertonKD
+
+... PG&E [of California] should've been socialized and turned into a
+public utility any of a half-dozen times in its history"
+
+---
+
+Welcome to the jungle
+
+"[Reports of firing] on the Line of Actual Control (LAC) in Eastern
+Ladakh sector where troops of India and China have been engaged in a
+stand-off for over three months"
+
+---
+
+"India successfully test scramjet technology for hypersonic missiles"
+
+[Link](https://timesofindia.indiatimes.com/india/india-successfully-test-scramjet-technology-for-hypersonic-missiles/articleshow/77973889.cms)
+
+---
+
+With -32% GDP growth Trump is toast. His only chance is if people
+"understand" the predicament (not in the model, never seen before
+situation), and if that offsets growth as if it was zero percent, as
+in none, then the situation becomes neck and neck due to
+incumbency. Long shot. Net popularity at -9%. 
+
+
+---
+
+Corp profits are down -20% YOY. Not surprising given the GDP number.
+
+```
+2020-04-01  1808.161 -20.104235
+```
+
+---
+
+The thing can connect to everything, Wifi, 4 USB ports, outputs HDMI,
+all on a smallest board... Now connects to HD, shows movie. Done.
+
+---
+
+Now have a Raspberry Pi based media center. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maximum Pressure is a total failure. <a href="https://t.co/PjiQzwb1KN">https://t.co/PjiQzwb1KN</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1303345990519394304?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+
+Occasionally I get stuff without name ref, like, "oh yeah? f--k that!"
+type of stuff.. but fine.
+
+---
+
+I finally did it; muted the word "Trump". Filters out a lot of firey
+content...
+
+---
+
+@davidsirota
+
+A thought: Making the oligarchic ruling class more diverse should be a
+lower priority than ending the existence of an oligarchic ruling
+class.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BOSCH to start series manufacturing of 100 kW heavy duty PEM fuel cell stack in Bamberg, Germany, by 2022/2023 [in German: <a href="https://t.co/bImW8iphcm">https://t.co/bImW8iphcm</a>] and in the long-term sees 20% of all EVs being FCEVs (cars, buses, trucks) and advocates rapid ramp-up of green H2 production NOW.</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1303062615070044160?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW THREAD: Spain&#39;s plan is to kickstart hydrogen in transport, marine, planes &amp; rail industries is there to reduce GHG emissions by 4.6 Mtons of CO2 from 2020-2030 with a framework for Net Zero GHG to 2050. Click to download document (in Spanish): <a href="https://t.co/vfx9xY7hdx">https://t.co/vfx9xY7hdx</a></p>&mdash; Ricardo Carmona and NGVs (@Ricardo_NGV) <a href="https://twitter.com/Ricardo_NGV/status/1302844218117939200?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
