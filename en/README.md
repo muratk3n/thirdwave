@@ -1,116 +1,143 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don’t think people are aware of how much of the west coast is burning right now: <a href="https://twitter.com/hashtag/WaWILDFIRE?src=hash&amp;ref_src=twsrc%5Etfw">#WaWILDFIRE</a> <a href="https://twitter.com/hashtag/OregonFires?src=hash&amp;ref_src=twsrc%5Etfw">#OregonFires</a> <a href="https://twitter.com/hashtag/CAfire?src=hash&amp;ref_src=twsrc%5Etfw">#CAfire</a> <a href="https://t.co/nacy1OUr7C">https://t.co/nacy1OUr7C</a> <a href="https://t.co/tuFdJ2n0np">pic.twitter.com/tuFdJ2n0np</a></p>&mdash; Matt Zieger (@mattzieger) <a href="https://twitter.com/mattzieger/status/1303564302574522370?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+*The Guardian*: "The sky was the muddy yellow of an old bruise at 7am
+in San Francisco on Wednesday, and by eight it was a dull orange and
+the darkness that felt like night was coming on. This morning was
+perhaps the most unnatural-feeling and unnerving of my life, with
+darkness rather than daytime rolling in. People around California
+reported that the birds that would normally be singing were silent ...
+
+What is happening now is astonishingly worse than the western fire
+season ever has been before. There are catastrophic fires in Oregon
+–burning down a small town and prompting the evacuation of much of the
+small city of Medford. Near Oroville in northeastern California, a
+fire expanded by a quarter million acres in 24 hours, so far as the
+experts can tell. That is a new kind of fire and we are in a new kind
+of era. ...
+
+I have lived in San Francisco all my adult life, which has meant
+living in relationship to the Pacific and its damp cool breath in the
+form of our famous fog. Often in summertime the rising heat inland
+sucks the cool air off the ocean in the form of fog ...
+
+Here the ocean is a beloved ally, bringing us cool fresh clean air—and
+most of our weather comes from over the Pacific – but we are not the
+ocean’s ally: the world’s oceans have soaked up most of the heat
+climate change has produced, with disastrous consequences"
+
+
+[Link](https://www.theguardian.com/commentisfree/2020/sep/10/us-west-fire-season-california-oregon-climate-action)
 
 ---
 
-Great.. Let's hope it is permanent. 
-
-"'I'm more anti-China than you!'. That's a new theme of this
-election. Joe Biden says, "We will never again be at the mercy of
-China!"  ...  just a few administrations ago, presidents were eager to
-celebrate China. 'A future of greater trade and growth and human
-dignity is possible!' said George W. Bush. Bill Clinton praised
-China's 'positive change' and 'great progress.'"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola delivers on yet another promise to its stakeholders...Nikola and <a href="https://twitter.com/GM?ref_src=twsrc%5Etfw">@gm</a> form strategic partnership, starting with the Nikola Badger. One step closer to a zero-emission future. <a href="https://twitter.com/hashtag/NikolaBadger?src=hash&amp;ref_src=twsrc%5Etfw">#NikolaBadger</a> <a href="https://t.co/MYuw7cscIz">https://t.co/MYuw7cscIz</a></p>&mdash; Nikola Motor Company (@nikolamotor) <a href="https://twitter.com/nikolamotor/status/1303296195377295361?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@HillelNeuer
-
-Dear @Disney: At the United Nations I'm trying to sound the alarm on
-China's destruction of its Uighur Muslims. Now your film Mulan pays
-tribute to the very entities involved in herding 1 million Uighurs
-into camps. Do you think the camps are Disneyland?"
-
-[Link](https://twitter.com/HillelNeuer/status/1303113121498886147)
+California handing out fracking permits, says journo..? 🤨 That's my WTF emoji
 
 ---
 
-The aircraft needs a runway, the top rotor blades aren't powered,
-can't do vertical descent / ascend. That's probably why helicopters
-were preferred, especially for military reasons. But funky little
-aircraft. Looks fun.
+"@SevaUT
+
+who said something like: if you can point to a single battle as the
+cause of an empire?s downfall, you really ought to ask how the fate of
+an empire came to hinge on a single battle"
 
 ---
 
-Gyrochoppa
+I see your trying to be interesting w contra take and raise you a
+plain observation. It looks like f..ing hell.
 
-"Unlike a helicopter, which uses an engine to power its spinning rotor
-blades, a gyroplane's upper rotor blades aren't powered by an
-engine. Instead, the engine powers a back propeller that pushes the
-gyrocopter forward. As the aircraft moves, air passes naturally
-through its rotor blades, creating lift. ... If a gyroplane's engine
-failed, its blades would already be auto-rotating, so the aircraft
-would gradually descend"
+"@vruba
 
-[Link](https://www.wtsp.com/article/news/difference-between-helicopter-gyrocopter/67-14e7da97-9fec-4b26-9d0f-2e536c0c149b)
+But the orange skies in San Francisco, as unsettling as they are, are
+not the crisis"
 
 ---
 
-Just saw dude's post on a gyrocopter
-
-[Link](https://twitter.com/SamChuiPhotos/status/1303377510072307712)
-
----
-
-"@AthertonKD
-
-the sky is yellow-grey, the power flickers off intermittently, and I
-learned today that at certain wind speeds the front door whistles"
+Haha there is some BEV fan interest for gyrochoppa, bcz maybe
+batteries completely wont crash this thing..?. "We can move something
+for 20 minutes instead of our miserable 10! Rejoice!".
 
 ---
 
-Real estate fraud? Jeez.
+"@CLIMATECH2AMP
 
-I guess some ppl are addicted to the hustle. 
+What’s clean, efficient and completely affordable?"
 
-In some ways image making, certain art is propaganda, in excess, a lie. 
-
-@mollylambert
-
-I believe that @caitraft knows why Kardashians was cancelled because
-she’s been right about every other weird Kardashian story recently
-including the ones involving real estate fraud
+[Link](https://mobile.twitter.com/CLIMATECH2AMP/status/1303436974402002945)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">fuck k-12 <a href="https://t.co/YocoG2qz4R">https://t.co/YocoG2qz4R</a></p>&mdash; talia ‘stop filming faces’ jane (@itsa_talia) <a href="https://twitter.com/itsa_talia/status/1303507911872851969?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The gunner is standing at a weird place, but interesting ..
+
+<img width="340" src="https://pbs.twimg.com/media/DzL_3YVWwAE1ztL?format=jpg&name=medium"/>
 
 ---
 
-"@rtyson82
-
-Insurance companies helping to defund police by increasing liability
-premiums 46% due to excessive force and wrongful death settlements,
-leading to the sheriff having to propose a $14 million cut in staffing
-and programs to close its budget deficit"
+Outsider perspective my ass...
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Queensland is investing heavily to deliver targets of 50% renewable energy by 2030 or net zero emissions by 2050. With a $145m allocation for three new Renewable Energy Zones in Queensland. <br><br>Read more: <a href="https://t.co/Ig14Umn3Bq">https://t.co/Ig14Umn3Bq</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/queensland?src=hash&amp;ref_src=twsrc%5Etfw">#queensland</a> <a href="https://twitter.com/hashtag/cleantech?src=hash&amp;ref_src=twsrc%5Etfw">#cleantech</a> <a href="https://t.co/loaIBKNjDs">pic.twitter.com/loaIBKNjDs</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1303543688816209925?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Who was that tough guy on that Serbia / Kosova "deal" press conference
+who kept saying "outsider perspective", "untried" was provided for
+this issue..? Has the problem been solved or not? Or did US get
+another photo op, few seconds soundbyte on that day's news cycle?
+
+"Serbia will not fulfill its promise to move its embassy to Jerusalem
+if Israel recognizes its enemy Kosovo, a source close to the
+government in Belgrade warned Wednesday, adding that formal
+recognition of Pristina’s 2008 declaration of independence by Israel
+would 'destroy' the Jewish state’s relationship with Serbia"
 
 ---
 
-Odd I never included this code in personal tutorials.. The right time
-was now apparently. Good thing I put it on one Q&A site, recovered
-from there.
+Yes!
+
+WEAPONS AT MAXIMUM
+
+"Prepare a U.A.V. with U.C.A.V. specs"
 
 ---
 
-Ah yes.. I needed numerical implementation of a certain operator.. I
-looked and found one, guy did good job. Wait.. that was me!
+If that's a problem, then don't crowd in cities 
+
+Ineffective from a pandemic POV as well..
 
 ---
 
-The future cannot arrive fast enough. 
+Its called the United States, not United Cities.
+
+Giving landmass more of a weight is absolutely the right thing to
+do. Electoral Collage is smart. More democratic even, bcz different
+regions have different needs. What better way to balance those needs
+than to spread out representation as wide, regionally, as possible,
+throught the EC?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when you make your coffee at home <a href="https://t.co/opnz7mMcuy">pic.twitter.com/opnz7mMcuy</a></p>&mdash; juan vidal (@itsjuanlove) <a href="https://twitter.com/itsjuanlove/status/1303135727618789382?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The biggest change in steel production in over 1,000 years. Together with our partners LKAB and SSAB, we have created HYBRIT – an initiative to create fossil free steel using electricity and hydrogen. <a href="https://twitter.com/hashtag/HYBRIT?src=hash&amp;ref_src=twsrc%5Etfw">#HYBRIT</a> <a href="https://twitter.com/hashtag/Vattenfall?src=hash&amp;ref_src=twsrc%5Etfw">#Vattenfall</a><br><br>Watch a longer version on YouTube <a href="https://t.co/6RwykBzWsl">https://t.co/6RwykBzWsl</a> <a href="https://t.co/ji1JOjMI9d">pic.twitter.com/ji1JOjMI9d</a></p>&mdash; Vattenfall Group (@VattenfallGroup) <a href="https://twitter.com/VattenfallGroup/status/1303334719606718464?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-*Last updated 2020-09-09 11:31*
+Damn.. nobody wants to leave anything to chance this time
+around.. Oppo comes hard and fast. Never seen holes getting plugged
+this quick.
+
+---
+
+"@EliseSchmelzer
+
+A new program in Denver that sends a paramedic+a mental health expert
+to 911 calls instead of police launched... So far, the van has taken
+more than 350 calls without once having to call in police backup"
+
+[Link](https://mobile.twitter.com/EliseSchmelzer/status/1303354576750346241)
+
+---
+
+*Last updated 2020-09-10 18:07*
 
 ---
 
