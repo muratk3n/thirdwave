@@ -73,7 +73,7 @@ related reasons before then"
 
 ---
 
-<img width=340"  src="https://pbs.twimg.com/media/Ehlrqr2WAAYZNXL?format=jpg&name=small"/>
+![](https://pbs.twimg.com/media/EhsH-ugWsAE_hSH?format=jpg&name=small)
 
 ---
 
