@@ -126,10 +126,10 @@ the largest California investment in hydrogen infrastructure since
 
 ---
 
-*The Predator* 2018 👍 That almost felt like pre-2016, a regular
-flick, pre-SJW, pre-cuck. Ster. Brown plays a pure, hilarious
-asshole... I am getting a young Charles Bronson vibe form the
-lead... And they had Da Strahovski. Very foxy.
+*The Predator* 2018 👍 That almost felt like pre-2016, good movie,
+pre-SJW, pre-cuck. Ster. Brown plays a pure, hilarious asshole... I am
+getting a young Charles Bronson vibe form the lead... And they had Da
+Strahovski. Very foxy.
 
 ---
 
