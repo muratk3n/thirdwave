@@ -83,7 +83,7 @@ the same synaptic arms of lightning stretch across the sky, turning it
 for a moment from black to light blue. We knew this would not go well.
 
 Over 12,000 lightning strikes were reported during the week of August
-19. Cal Fire reports that in 2020 alone there have been over 7,452
+19; Cal Fire reports that in 2020 alone there have been over 7,452
 fires in California and since those fires started over one 2.6 million
 acres have burned, and counting. These are the worst fires in
 California’s history. And they are still burning"
