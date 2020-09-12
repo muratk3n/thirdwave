@@ -15,6 +15,10 @@ Communists. We should push for a Belt and Road Jubilee"
 
 ---
 
+<img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/> 
+
+---
+
 "@Taniel
 
 JUST IN: In Rhode Island, 8 incumbent lawmakers have lost to
@@ -50,10 +54,6 @@ due to Oregon wildfires, roughly 10% of state's population"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Current status: PM2.5 of 352 ug/m^3, or for you AQI fans out there, 402. If you prefer words from the EPA, simply &quot;hazardous.&quot; I have never ever ever even seen CLOSE to this much smoke in the air. Anywhere. Ever. (And it is worse in places up and down the west coast).</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1304425599360929793?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/>
 
 ---
 
