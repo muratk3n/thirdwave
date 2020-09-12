@@ -1,143 +1,157 @@
 # Tweets
 
-*The Guardian*: "The sky was the muddy yellow of an old bruise at 7am
-in San Francisco on Wednesday, and by eight it was a dull orange and
-the darkness that felt like night was coming on. This morning was
-perhaps the most unnatural-feeling and unnerving of my life, with
-darkness rather than daytime rolling in. People around California
-reported that the birds that would normally be singing were silent ...
-
-What is happening now is astonishingly worse than the western fire
-season ever has been before. There are catastrophic fires in Oregon
-–burning down a small town and prompting the evacuation of much of the
-small city of Medford. Near Oroville in northeastern California, a
-fire expanded by a quarter million acres in 24 hours, so far as the
-experts can tell. That is a new kind of fire and we are in a new kind
-of era. ...
-
-I have lived in San Francisco all my adult life, which has meant
-living in relationship to the Pacific and its damp cool breath in the
-form of our famous fog. Often in summertime the rising heat inland
-sucks the cool air off the ocean in the form of fog ...
-
-Here the ocean is a beloved ally, bringing us cool fresh clean air—and
-most of our weather comes from over the Pacific – but we are not the
-ocean’s ally: the world’s oceans have soaked up most of the heat
-climate change has produced, with disastrous consequences"
-
-
-[Link](https://www.theguardian.com/commentisfree/2020/sep/10/us-west-fire-season-california-oregon-climate-action)
+"Facebook sues the Irish data protection watchdog in a bid to stop the
+proposed order that could stop trans-Atlantic transfers of EU users'
+data"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola delivers on yet another promise to its stakeholders...Nikola and <a href="https://twitter.com/GM?ref_src=twsrc%5Etfw">@gm</a> form strategic partnership, starting with the Nikola Badger. One step closer to a zero-emission future. <a href="https://twitter.com/hashtag/NikolaBadger?src=hash&amp;ref_src=twsrc%5Etfw">#NikolaBadger</a> <a href="https://t.co/MYuw7cscIz">https://t.co/MYuw7cscIz</a></p>&mdash; Nikola Motor Company (@nikolamotor) <a href="https://twitter.com/nikolamotor/status/1303296195377295361?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@Jkylebass
+
+An idea for all countries that are victims of China's Belt and Road
+loans... Remember that any loan entered into via bribery or coercion
+is invalid. You can treat it as a donation made by the Chinese
+Communists. We should push for a Belt and Road Jubilee"
 
 ---
 
-California handing out fracking permits, says journo..? 🤨 That's my WTF emoji
+"@Taniel
+
+JUST IN: In Rhode Island, 8 incumbent lawmakers have lost to
+challengers running to their left in Tuesday's Dem primaries... In
+addition, at least 2 progressives won open primaries against
+party-endorsed candidates"
 
 ---
 
-"@SevaUT
+"@Canning4Oregon
 
-who said something like: if you can point to a single battle as the
-cause of an empire?s downfall, you really ought to ask how the fate of
-an empire came to hinge on a single battle"
+Big takeaways from @OregonGovBrown  presser:
 
----
+- Salem-area fires are expected to merge.
 
-I see your trying to be interesting w contra take and raise you a
-plain observation. It looks like f..ing hell.
+- evacs in Portland metro is possible
 
-"@vruba
+- decent \# of ppl fighting fires are students
 
-But the orange skies in San Francisco, as unsettling as they are, are
-not the crisis"
+- we need MIN 2x the ppl power
 
----
+- have requested aid from DoD
 
-Haha there is some BEV fan interest for gyrochoppa, bcz maybe
-batteries completely wont crash this thing..?. "We can move something
-for 20 minutes instead of our miserable 10! Rejoice!".
+- WH hasn’t returned call"
 
 ---
 
-"@CLIMATECH2AMP
+"@AP
 
-What’s clean, efficient and completely affordable?"
-
-[Link](https://mobile.twitter.com/CLIMATECH2AMP/status/1303436974402002945)
-
----
-
-The gunner is standing at a weird place, but interesting ..
-
-<img width="340" src="https://pbs.twimg.com/media/DzL_3YVWwAE1ztL?format=jpg&name=medium"/>
+BREAKING: Authorities say about 500,000 have been forced to evacuate
+due to Oregon wildfires, roughly 10% of state's population"
 
 ---
 
-Outsider perspective my ass...
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Current status: PM2.5 of 352 ug/m^3, or for you AQI fans out there, 402. If you prefer words from the EPA, simply &quot;hazardous.&quot; I have never ever ever even seen CLOSE to this much smoke in the air. Anywhere. Ever. (And it is worse in places up and down the west coast).</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1304425599360929793?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Who was that tough guy on that Serbia / Kosova "deal" press conference
-who kept saying "outsider perspective", "untried" was provided for
-this issue..? Has the problem been solved or not? Or did US get
-another photo op, few seconds soundbyte on that day's news cycle?
-
-"Serbia will not fulfill its promise to move its embassy to Jerusalem
-if Israel recognizes its enemy Kosovo, a source close to the
-government in Belgrade warned Wednesday, adding that formal
-recognition of Pristina’s 2008 declaration of independence by Israel
-would 'destroy' the Jewish state’s relationship with Serbia"
+<img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/>
 
 ---
 
-Yes!
+"@AthertonKD
 
-WEAPONS AT MAXIMUM
-
-"Prepare a U.A.V. with U.C.A.V. specs"
-
----
-
-If that's a problem, then don't crowd in cities 
-
-Ineffective from a pandemic POV as well..
+currently my plan for retirement is either that we have a wholly
+different politics by the 2050s or I'll die from climate change
+related reasons before then"
 
 ---
 
-Its called the United States, not United Cities.
-
-Giving landmass more of a weight is absolutely the right thing to
-do. Electoral Collage is smart. More democratic even, bcz different
-regions have different needs. What better way to balance those needs
-than to spread out representation as wide, regionally, as possible,
-throught the EC?
+"Statistically, half the people you meet are below average"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The biggest change in steel production in over 1,000 years. Together with our partners LKAB and SSAB, we have created HYBRIT – an initiative to create fossil free steel using electricity and hydrogen. <a href="https://twitter.com/hashtag/HYBRIT?src=hash&amp;ref_src=twsrc%5Etfw">#HYBRIT</a> <a href="https://twitter.com/hashtag/Vattenfall?src=hash&amp;ref_src=twsrc%5Etfw">#Vattenfall</a><br><br>Watch a longer version on YouTube <a href="https://t.co/6RwykBzWsl">https://t.co/6RwykBzWsl</a> <a href="https://t.co/ji1JOjMI9d">pic.twitter.com/ji1JOjMI9d</a></p>&mdash; Vattenfall Group (@VattenfallGroup) <a href="https://twitter.com/VattenfallGroup/status/1303334719606718464?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia leaps towards Dr Finkel’s vision to develop a hydrogen industry, after the signing of an agreement with Germany yesterday to investigate a bilateral <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> supply chain <a href="https://twitter.com/Birmo?ref_src=twsrc%5Etfw">@Birmo</a> <a href="https://twitter.com/keithjpitt?ref_src=twsrc%5Etfw">@keithjpitt</a> <a href="https://twitter.com/AnjaKarliczek?ref_src=twsrc%5Etfw">@AnjaKarliczek</a> More here: <a href="https://t.co/tFwjhsuJGK">https://t.co/tFwjhsuJGK</a> <a href="https://t.co/dlS6EhDvbB">pic.twitter.com/dlS6EhDvbB</a></p>&mdash; Chief Scientist (@ScienceChiefAu) <a href="https://twitter.com/ScienceChiefAu/status/1304294169213628417?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Damn.. nobody wants to leave anything to chance this time
-around.. Oppo comes hard and fast. Never seen holes getting plugged
-this quick.
+<img width=340"  src="https://pbs.twimg.com/media/Ehlrqr2WAAYZNXL?format=jpg&name=small"/>
 
 ---
 
-"@EliseSchmelzer
+"[N]o rain for months, the land was primed for fires. At 3 am I looked
+out my window and saw people in the building across the way watching
+the same synaptic arms of lightning stretch across the sky, turning it
+for a moment from black to light blue. We knew this would not go well.
 
-A new program in Denver that sends a paramedic+a mental health expert
-to 911 calls instead of police launched... So far, the van has taken
-more than 350 calls without once having to call in police backup"
+Over 12,000 lightning strikes were reported during the week of August
+19. Cal Fire reports that in 2020 alone there have been over 7,452
+fires in California and since those fires started over one 2.6 million
+acres have burned, and counting. These are the worst fires in
+California’s history. And they are still burning"
 
-[Link](https://mobile.twitter.com/EliseSchmelzer/status/1303354576750346241)
+[Link](https://www.esquire.com/news-politics/a33980804/california-fire-sky-climate-change-another-planet/)
 
 ---
 
-*Last updated 2020-09-10 18:07*
+Ed needs to start with what they saw, and connect the dots. At the
+very least tracing their steps will encourage a spirit of research in
+students.
+
+---
+
+"Planets orbit in circles around the sun. One may wonder how
+Copernicus determined the order of the planets and the size of their
+orbits – after all, he had no benefit of pictures from spacecraft or
+even a telescope. He determined these things by measuring elongation"
+
+[Link](https://astro.unl.edu/naap/ssm/modeling2.html)
+
+---
+
+He used elongations. 
+
+"How can I teach the method Copernicus used to determine orbits?"
+
+---
+
+"California Energy Commission regulators on Friday approved $39.1m of
+funding for 36 new hydrogen stations in the sunshine state, marking
+the largest California investment in hydrogen infrastructure since
+2015"
+
+[Link](https://www.h2-view.com/story/california-funds-36-more-hydrogen-stations/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">why does making beer need wifi now <a href="https://t.co/X8gQSRY9JG">https://t.co/X8gQSRY9JG</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1304211842462560256?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*The Predator* 2018 👍 That almost felt like pre-2016, a regular
+flick, pre-SJW, pre-cuck. Ster. Brown plays a pure, hilarious
+asshole... I am getting a young Charles Bronson vibe form the
+lead... And they had Da Strahovski. Very foxy.
+
+---
+
+"@susie_c
+
+I feel like I've held it together pretty well the last six months of
+pandemic pregnancy but this may be my undoing. COBRA says they sent my
+payment, my insurer says they haven't received anything. They're both
+shrugging while I still don't have coverage"
+
+---
+
+"Trump’s staffing struggle: After 3 years, unfilled jobs across the
+administration. The 45th president has struggled with key political
+appointments more than any recent president — despite his party’s
+control of the Senate"
+
+[Link](https://www.politico.com/amp/news/2020/01/20/trumps-staffing-struggle-unfilled-jobs-100991)
+
+---
+
+*Last updated 2020-09-12 07:42*
 
 ---
 
