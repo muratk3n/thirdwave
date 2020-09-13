@@ -117,8 +117,7 @@ left? You can’t have a policy of erecting a customs and regulatory
 border with your neighbour and then blame your neighbour for the
 border.
 
-'Tomorrow’s Telegraph front page [news] Johnson: EU a threat to
-integrity of the UK'"
+... Telegraph: 'Johnson: EU a threat to integrity of the UK'"
 
 ---
 
