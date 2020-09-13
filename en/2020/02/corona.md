@@ -136,6 +136,10 @@ print (df[['Date','Rt']].tail(10))
 
 ![](Rt-UnitedKingdom.png)
 
+Files
+
+[util.py](util.py)
+
 References
 
 [1] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf

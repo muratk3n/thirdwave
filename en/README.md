@@ -1,157 +1,163 @@
 # Tweets
 
-"Facebook sues the Irish data protection watchdog in a bid to stop the
-proposed order that could stop trans-Atlantic transfers of EU users'
-data"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Me listening to AC/DC: &quot;Akchuwally, TNT and dynamite are different things&quot;</p>&mdash; Cal Young 🌻 (@annap442) <a href="https://twitter.com/annap442/status/1304948473633046531?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@Jkylebass
-
-An idea for all countries that are victims of China's Belt and Road
-loans... Remember that any loan entered into via bribery or coercion
-is invalid. You can treat it as a donation made by the Chinese
-Communists. We should push for a Belt and Road Jubilee"
+BBC put their news out in 9/11, Imma recheck in 7 days (rolling avg
+needs buffer data), if it is still way below 1, you'll hear from me.
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/> 
+I dont think that's right.. Last [I checked](2020/02/corona.md#Rt) UK was at
+
+```
+2020-09-04  0.217387
+```
+
+BBC: "UK epidemic growing as R number goes above 1"
+
+[Link](https://www.bbc.com/news/health-54116939)
 
 ---
 
-"@Taniel
+"@A_J_Higgins
 
-JUST IN: In Rhode Island, 8 incumbent lawmakers have lost to
-challengers running to their left in Tuesday's Dem primaries... In
-addition, at least 2 progressives won open primaries against
-party-endorsed candidates"
+Dimensionless groupings that don’t depend on unit system invariably
+have great physical significance. By examining the dimensions of the
+parameters alone, G.I. Taylor in 1940s was able to solve the dynamics
+of blast waves"
 
----
+--- 
 
-"@Canning4Oregon
+NYT: "Last summer, oil and gas-industry groups were lobbying to
+overturn federal rules on leaks of natural gas, a major contributor to
+climate change. Their message: The companies had emissions under
+control.
 
-Big takeaways from @OregonGovBrown  presser:
+In private, the lobbyists were saying something very different.
 
-- Salem-area fires are expected to merge.
+At a discussion convened last year by the Independent Petroleum
+Association of America, a group that represents energy companies,
+participants worried that producers were intentionally flaring, or
+burning off, far too much natural gas, threatening the industry’s
+image, according to a recording of the meeting reviewed by The New
+York Times.
 
-- evacs in Portland metro is possible
+'We’re just flaring a tremendous amount of gas,' said Ron Ness,
+president of the North Dakota Petroleum Council, at the June 2019
+gathering, held in Colorado Springs. 'This pesky natural gas,' he
+said. 'The value of it is very minimal,' particularly to companies
+drilling mainly for oil.
 
-- decent \# of ppl fighting fires are students
+A well can produce both oil and natural gas, but oil commands far
+higher prices. Flaring it is an inexpensive way of getting rid of the
+gas"
 
-- we need MIN 2x the ppl power
-
-- have requested aid from DoD
-
-- WH hasn’t returned call"
-
----
-
-"@AP
-
-BREAKING: Authorities say about 500,000 have been forced to evacuate
-due to Oregon wildfires, roughly 10% of state's population"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Current status: PM2.5 of 352 ug/m^3, or for you AQI fans out there, 402. If you prefer words from the EPA, simply &quot;hazardous.&quot; I have never ever ever even seen CLOSE to this much smoke in the air. Anywhere. Ever. (And it is worse in places up and down the west coast).</p>&mdash; Mike Brown (@plutokiller) <a href="https://twitter.com/plutokiller/status/1304425599360929793?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@AthertonKD
-
-currently my plan for retirement is either that we have a wholly
-different politics by the 2050s or I'll die from climate change
-related reasons before then"
+[Link](https://www.nytimes.com/2020/09/12/climate/methane-natural-gas-flaring.html?smtyp=cur&smid=tw-nytclimate)
 
 ---
 
-"Statistically, half the people you meet are below average"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lock them up. <a href="https://t.co/uk5VvhngIk">https://t.co/uk5VvhngIk</a></p>&mdash; Katie Thomas (@KtreeThomas) <a href="https://twitter.com/KtreeThomas/status/1304903379949322240?ref_src=twsrc%5Etfw">September 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia leaps towards Dr Finkel’s vision to develop a hydrogen industry, after the signing of an agreement with Germany yesterday to investigate a bilateral <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> supply chain <a href="https://twitter.com/Birmo?ref_src=twsrc%5Etfw">@Birmo</a> <a href="https://twitter.com/keithjpitt?ref_src=twsrc%5Etfw">@keithjpitt</a> <a href="https://twitter.com/AnjaKarliczek?ref_src=twsrc%5Etfw">@AnjaKarliczek</a> More here: <a href="https://t.co/tFwjhsuJGK">https://t.co/tFwjhsuJGK</a> <a href="https://t.co/dlS6EhDvbB">pic.twitter.com/dlS6EhDvbB</a></p>&mdash; Chief Scientist (@ScienceChiefAu) <a href="https://twitter.com/ScienceChiefAu/status/1304294169213628417?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Why harp on tracing the innovation? Students need to see how research
+is like. You are trying get something out of the jaws of mother nature
+and she doesn't wanna give'm to you. They need to see how hard that
+is, to reach point B from point A.
+
+It's not just about "logic" (popularized by some scifi). Logic is
+about finding inconsistencies within existing elements, mostly it is
+not helpful creating new information.
 
 ---
 
-![](https://pbs.twimg.com/media/EhsH-ugWsAE_hSH?format=jpg&name=small)
+RPi distro already has VNC support, `realvnc-vnc-server`
 
 ---
 
-"[N]o rain for months, the land was primed for fires. At 3 am I looked
-out my window and saw people in the building across the way watching
-the same synaptic arms of lightning stretch across the sky, turning it
-for a moment from black to light blue. We knew this would not go well.
-
-Over 12,000 lightning strikes were reported during the week of August
-19; Cal Fire reports that in 2020 alone there have been over 7,452
-fires in California and since those fires started over one 2.6 million
-acres have burned, and counting. These are the worst fires in
-California’s history. And they are still burning"
-
-[Link](https://www.esquire.com/news-politics/a33980804/california-fire-sky-climate-change-another-planet/)
+Wireless via stand-alone receiver (plugs into USB) sold with keyboard
+is efficient. Stick something into the board and have it be recognized
+as a particular hardware and have it just work. 
 
 ---
 
-Ed needs to start with what they saw, and connect the dots. At the
-very least tracing their steps will encourage a spirit of research in
-students.
+Mobile computing setup take \#2. Wireless keyb + built-in touchpad
+connects to Raspberry directly via USB dongle. Receives entire desktop
+visual on smartphone through VNC.
 
 ---
 
-"Planets orbit in circles around the sun. One may wonder how
-Copernicus determined the order of the planets and the size of their
-orbits – after all, he had no benefit of pictures from spacecraft or
-even a telescope. He determined these things by measuring elongation"
-
-[Link](https://astro.unl.edu/naap/ssm/modeling2.html)
+NASA: "Right now on the space station, astronauts receive regular
+shipments of a wide variety of freeze-dried and prepackaged meals to
+cover their dietary needs – resupply missions keep them freshly
+stocked"
 
 ---
 
-He used elongations. 
-
-"How can I teach the method Copernicus used to determine orbits?"
-
----
-
-"California Energy Commission regulators on Friday approved $39.1m of
-funding for 36 new hydrogen stations in the sunshine state, marking
-the largest California investment in hydrogen infrastructure since
-2015"
-
-[Link](https://www.h2-view.com/story/california-funds-36-more-hydrogen-stations/)
+"Lettuce was grown in ISS but we still can't grow food in space in the
+quantities which would allow us to sustain human existence"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">why does making beer need wifi now <a href="https://t.co/X8gQSRY9JG">https://t.co/X8gQSRY9JG</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1304211842462560256?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+That is interesting.. from a cost / benefit standpoint EU losing just
+England wld be less painful for them than losing the entire UK. And
+for both Scots and N. Ireland staying in EU is more beneficial for
+them... So the English are the odd man out here.. everyone else
+benefits from letting *them* go
 
 ---
 
-*The Predator* 2018 👍 That almost felt like pre-2016, good movie,
-pre-SJW, pre-cuck. Ster. Brown plays a pure, hilarious asshole... I am
-getting a young Charles Bronson vibe form the lead... And they had Da
-Strahovski. Very foxy.
+"@ProfBrianCox
+
+From a purely logical standpoint, shouldn’t this say ‘Leaving EU a
+threat to integrity of the U.K.’ because there was no threat before we
+left? You can’t have a policy of erecting a customs and regulatory
+border with your neighbour and then blame your neighbour for the
+border.
+
+'Tomorrow’s Telegraph front page [news] Johnson: EU a threat to
+integrity of the UK'"
 
 ---
 
-"@susie_c
+"@AlexJamesFitz
 
-I feel like I've held it together pretty well the last six months of
-pandemic pregnancy but this may be my undoing. COBRA says they sent my
-payment, my insurer says they haven't received anything. They're both
-shrugging while I still don't have coverage"
-
----
-
-"Trump’s staffing struggle: After 3 years, unfilled jobs across the
-administration. The 45th president has struggled with key political
-appointments more than any recent president — despite his party’s
-control of the Senate"
-
-[Link](https://www.politico.com/amp/news/2020/01/20/trumps-staffing-struggle-unfilled-jobs-100991)
+just called my cable co to cut TV and go internet-only to save money
+and they tried to sell me a YouTube TV plan that would've been more
+expensive than what I was paying for straight-up TV via the cable co"
 
 ---
 
-*Last updated 2020-09-12 07:42*
+Well Emmerich movie *2012* was off by 8 years but.. that's the idea.
+
+---
+
+"Temperature screening alone, at exit or entry, is not an effective way
+to stop international spread, since infected individuals may be in
+incubation period, may not express apparent symptoms early on in the
+course of the disease, or may dissimulate fever through the use of
+antipyretics; in addition, such measures require substantial
+investments for what may bear little benefits"
+
+[Link](https://www.who.int/news-room/articles-detail/updated-who-recommendations-for-international-traffic-in-relation-to-covid-19-outbreak)
+
+---
+
+Yeah - the Lebanese are tired of that shit. This is just marketing
+mumbo-jumbo. They want to stop dying basically, not be a 'phoenix'.
+
+"Beirut is a phoenix ... Legend has it that Beirut was rebuilt from
+the ashes seven times, making it an urban phoenix"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is fast and furious Tokyo drift the only one in the series that I can rewatch endlessly</p>&mdash; 🐪 (@awkrum) <a href="https://twitter.com/awkrum/status/1304999519285915648?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Last updated 2020-09-13 14:41*
 
 ---
 
