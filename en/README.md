@@ -77,9 +77,10 @@ RPi distro already has VNC support, `realvnc-vnc-server`
 
 ---
 
-Wireless via stand-alone receiver (plugs into USB) sold with keyboard
-is efficient. Stick something into the board and have it be recognized
-as a particular hardware and have it just work. 
+Keyb via dedicated wireless receiver (plugs into USB) is
+efficient. Stick something into the board and have it be recognized as
+a particular hardware and have it just work. "But any BTooth receiver
+can connect to any BT device dude..!". It's pain.
 
 ---
 
