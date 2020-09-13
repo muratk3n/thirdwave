@@ -101,11 +101,11 @@ quantities which would allow us to sustain human existence"
 
 ---
 
-That is interesting.. from a cost / benefit standpoint EU losing just
-England wld be less painful for them than losing the entire UK. And
-for both Scots and N. Ireland staying in EU is more beneficial for
-them... So the English are the odd man out here.. everyone else
-benefits from letting *them* go
+From a cost / benefit standpoint EU losing just England wld be less
+painful for them than losing the entire UK. And for both Scots and
+N. Ireland staying in EU is more beneficial for them... So the English
+are the odd man out here.. everyone else benefits from letting *them*
+go
 
 ---
 
