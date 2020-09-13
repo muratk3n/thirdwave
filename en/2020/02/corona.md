@@ -1,4 +1,4 @@
-# The Coronavirus Map
+# Coronavirus Data, Analysis
 
 ```python
 ! wget https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
@@ -99,7 +99,9 @@ to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
 <a name='Rt'/>
 
-# $R_t$ Estimate
+$R_t$ Estimate
+
+Code is based on [7]
 
 ```python
 import util
@@ -136,21 +138,19 @@ print (df[['Date','Rt']].tail(10))
 
 References
 
-https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
+[1] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
-https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
+[2] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
 
-https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
+[3] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
 
-[Reference](https://www.worldometers.info/coronavirus/)
+[4] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
-https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
+[5] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
 
-https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
+[6] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
 
-https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
-
-
+[7] https://github.com/shwars/SlidingSir
 
 
 
