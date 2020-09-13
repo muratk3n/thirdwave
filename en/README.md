@@ -62,10 +62,10 @@ gas"
 
 ---
 
-Why harp on tracing the innovation? Students need to see how research
-is like. You are trying get something out of the jaws of mother nature
-and she doesn't wanna give'm to you. They need to see how hard that
-is, to reach point B from point A.
+Why stress retracing the steps of innovators? Students need to see how
+research is like. You are trying get something out of the jaws of
+mother nature and she doesn't wanna give'm to you. They need to see
+how hard that is, to reach point B from point A.
 
 It's not just about "logic" (popularized by some scifi). Logic is
 about finding inconsistencies within existing elements, mostly it is
