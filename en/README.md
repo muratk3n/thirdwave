@@ -23,7 +23,7 @@ age, height, etc values on it, and if already normalized they can get
 $\cos\theta = v_1 \cdot v_2 $, no need to $\arccos$ even just use it
 as a raw measure between -1 and +1.
 
-But I bet nearly half of them dont know dot product can be seen as
+But I bet half of them dont know dot product can be seen as
 projection. Sad.
 
 ---
