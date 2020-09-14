@@ -63,8 +63,8 @@ brick, dying from bad air \#fires \#california
 ---
 
 Even safe quarters on climate are feeling the heat a little.. People
-look outside, looks like the end of times... bitchslapping everything
-on sight becomes a good idea
+look outside, looks like the end of times... bitchslapping toward
+every direction becomes a good idea
 
 ---
 
