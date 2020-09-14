@@ -20,15 +20,11 @@ find life on many planets and moons - and around other stars"
 "Data scientists" learn about the vector dot product as a "distance
 measure", bcz their vectors are usually "features" i.e. customer, with
 age, height, etc values on it, and if already normalized they can get
-$\cos\theta = v_1 \cdot v_2 $, no need to $\arccos$ just use it as a
-raw measure between -1 and +1.
+$\cos\theta = v_1 \cdot v_2 $, no need to $\arccos$ even just use it
+as a raw measure between -1 and +1.
 
 But I bet nearly half of them dont know dot product can be seen as
 projection. Sad.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the importance of good typesetting and layout. <a href="https://t.co/AtPBVLjH6M">pic.twitter.com/AtPBVLjH6M</a></p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1305263928528777223?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -104,6 +100,10 @@ fetch the weather forecast, and a whole heap more"
 ---
 
 Yeah.. purple air is a deal breaker for me. If I see that shit, I bolt
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the importance of good typesetting and layout. <a href="https://t.co/AtPBVLjH6M">pic.twitter.com/AtPBVLjH6M</a></p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1305263928528777223?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
