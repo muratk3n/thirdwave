@@ -28,7 +28,7 @@ projection. Sad.
 
 ---
 
-Writing an introduction to introduction to linear algebra
+Writing an introduction to introduction to linear algebra content,
 supplementing the grand teacher Strang.. feels weird...
 
 ---
