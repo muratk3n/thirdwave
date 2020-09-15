@@ -9,7 +9,7 @@ needs buffer data), if it is still way below 1, you'll hear from me.
 
 ---
 
-I dont think that's right.. Last [I checked](2020/02/corona.md#Rt) UK was at
+I dont think that's right.. Last [I checked](../../2020/02/corona.md#Rt) UK was at
 
 ```
 2020-09-04  0.217387
