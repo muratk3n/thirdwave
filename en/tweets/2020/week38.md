@@ -1,5 +1,127 @@
 # Week 38
 
+"@Cmdr_Hadfield
+
+If there's life in the upper atmosphere of Venus, then we're going to
+find life on many planets and moons - and around other stars"
+
+---
+
+"Astronomers may have found hints of life in clouds of Venus"
+
+---
+
+"Data scientists" learn about the vector dot product as a "distance
+measure", bcz their vectors are usually "features" i.e. customer, with
+age, height, etc values on it, and if already normalized they can get
+$\cos\theta = v_1 \cdot v_2 $, no need to $\arccos$ even just use it
+as a raw measure between -1 and +1.
+
+But I bet half of them dont know dot product can be seen as
+projection. Sad.
+
+---
+
+Writing an introduction to introduction to linear algebra content,
+supplementing the grand teacher Strang.. feels weird...
+
+---
+
+"General Motors and Nikola Corporation announced a strategic
+partnership on Tuesday in which GM will supply hydrogen fuel-cell
+systems and battery systems to Nikola"
+
+[Link](https://www.greencarreports.com/news/1129530_gm-will-build-nikola-badger-electric-truck-supply-hydrogen-fuel-cell-tech)
+
+---
+
+Even if there is a pivot to Ammonia Economy from Hydrogen Economy (not
+much change, cars can still run on H2) the production of clean NH3
+requires clean H2 as feedstock. EU made the right bet.
+
+---
+
+"Toyota doubles down on hydrogen fuel cell tech with a redesign of the Mirai"
+
+[Link](https://www.marketwatch.com/story/the-new-awd-electric-polestar-2-is-a-good-blend-of-performance-and-efficiency-2020-09-09)
+
+---
+
+There are pipelines for ammonia too
+
+---
+
+Woha. Woman says saw bird flying straight, then just drop like a
+brick, dying from bad air \#fires \#california
+
+---
+
+Even safe quarters on climate are feeling the heat a little.. People
+look outside, looks like the end of times... bitchslapping toward
+every direction becomes a good idea
+
+---
+
+
+"The European Parliament’s Environment Committee ... agreed on a new
+EU climate target for 2030. The text, which still needs the approval
+of the entire Parliament and the 27 EU member states before becoming
+law, commits Europe to reduce greenhouse gas emissions by 60%"
+
+---
+
+So hitting page down does not scroll web page down anymore? Thank
+you. Who thought up this feature?
+
+---
+
+That's right -- command line, as in textual input is much more
+expressive than visual clickety click.
+
+One word is worth thousands of pictures.
+
+"The command line remains so incredibly popular because it’s so
+incredibly versatile.
+
+You can do a lot in a terminal. You can manage your OS, apps and
+files; you can connect to remote servers, watch movies, play games,
+fetch the weather forecast, and a whole heap more"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you replace your non-working code with something copied from StackOverflow <a href="https://t.co/fGQXIGYdjr">pic.twitter.com/fGQXIGYdjr</a></p>&mdash; Mario Fusco 🇪🇺 (@mariofusco) <a href="https://twitter.com/mariofusco/status/1304862788859432961?ref_src=twsrc%5Etfw">September 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Yeah.. purple air is a deal breaker for me. If I see that shit, I bolt
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the importance of good typesetting and layout. <a href="https://t.co/AtPBVLjH6M">pic.twitter.com/AtPBVLjH6M</a></p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1305263928528777223?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"[Trump during pandemic] said things to meet the need of the fleeting
+moment. In February, the need of the moment was to levitate the stock
+market. By mid-March, the need of the moment was to sound smart,
+aware, in the know"
+
+---
+
+"[17th century] Tsar Alexei, implemented a new legal code [which]
+turned all Russian peasants, 80% of the population, into serfs –
+effectively slaves - their status inherited by their children, and
+with no freedom to travel or choose their master.  It was a system
+that dominated Russian rural life for the next 200 years"
+
+[Link](https://youtu.be/w0Wmc8C0Eq0?t=600)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you miss the official inauguration of the first <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses in <a href="https://twitter.com/hashtag/Denmark?src=hash&amp;ref_src=twsrc%5Etfw">#Denmark</a>? Don&#39;t worry! You can read all about it on our website⬇️<a href="https://t.co/EiBYj2H2Wg">https://t.co/EiBYj2H2Wg</a><a href="https://twitter.com/hashtag/carbonneutral?src=hash&amp;ref_src=twsrc%5Etfw">#carbonneutral</a> <a href="https://twitter.com/hashtag/aalborg?src=hash&amp;ref_src=twsrc%5Etfw">#aalborg</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/ClimateAction?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateAction</a> <a href="https://twitter.com/hashtag/Decarbonizing?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonizing</a> <a href="https://t.co/vAfgUK99gd">pic.twitter.com/vAfgUK99gd</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1305466893092954112?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Me listening to AC/DC: &quot;Akchuwally, TNT and dynamite are different things&quot;</p>&mdash; Cal Young 🌻 (@annap442) <a href="https://twitter.com/annap442/status/1304948473633046531?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

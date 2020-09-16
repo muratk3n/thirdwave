@@ -6,129 +6,147 @@ Pinned Tweet
 
 ---
 
-"@Cmdr_Hadfield
-
-If there's life in the upper atmosphere of Venus, then we're going to
-find life on many planets and moons - and around other stars"
+Gone are the days when Churchill was shitting bricks trying to involve
+US in European / UK affairs. Now u can't get rid of them!
 
 ---
 
-"Astronomers may have found hints of life in clouds of Venus"
+This thing keeps running in circles doesn't it?
 
 ---
 
-"Data scientists" learn about the vector dot product as a "distance
-measure", bcz their vectors are usually "features" i.e. customer, with
-age, height, etc values on it, and if already normalized they can get
-$\cos\theta = v_1 \cdot v_2 $, no need to $\arccos$ even just use it
-as a raw measure between -1 and +1.
+🤣🤣🤣
 
-But I bet half of them dont know dot product can be seen as
-projection. Sad.
+"@SamCoatesSky
 
----
-
-Writing an introduction to introduction to linear algebra content,
-supplementing the grand teacher Strang.. feels weird...
+Four senior congressmen write to Boris Johnson to reiterate there will
+be no US-UK trade deal if the legislation to override the EU-UK
+Withdrawal Agreement isn’t pulled"
 
 ---
 
-"General Motors and Nikola Corporation announced a strategic
-partnership on Tuesday in which GM will supply hydrogen fuel-cell
-systems and battery systems to Nikola"
+H2 is the only clean storage solution that can do that - drive a
+vehicle for long periods of time and even provide its excess power in
+emergency to others.
 
-[Link](https://www.greencarreports.com/news/1129530_gm-will-build-nikola-badger-electric-truck-supply-hydrogen-fuel-cell-tech)
-
----
-
-Even if there is a pivot to Ammonia Economy from Hydrogen Economy (not
-much change, cars can still run on H2) the production of clean NH3
-requires clean H2 as feedstock. EU made the right bet.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen to the rescue! In partnership with <a href="https://twitter.com/DeptofDefense?ref_src=twsrc%5Etfw">@DeptofDefense</a> and <a href="https://twitter.com/DHSgov?ref_src=twsrc%5Etfw">@DHSgov</a>, EERE has awarded <a href="https://twitter.com/Cummins?ref_src=twsrc%5Etfw">@Cummins</a> approximately $1M to develop H2Rescue, a hydrogen fuel cell truck that will travel to disaster relief sites and provide power, heat, and water. ➡️ <a href="https://t.co/n5Oa31gJZ4">https://t.co/n5Oa31gJZ4</a> <a href="https://t.co/xl3Iv9c5IT">pic.twitter.com/xl3Iv9c5IT</a></p>&mdash; Office of Energy Efficiency and Renewable Energy (@eeregov) <a href="https://twitter.com/eeregov/status/1305908957916135427?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Toyota doubles down on hydrogen fuel cell tech with a redesign of the Mirai"
-
-[Link](https://www.marketwatch.com/story/the-new-awd-electric-polestar-2-is-a-good-blend-of-performance-and-efficiency-2020-09-09)
-
----
-
-There are pipelines for ammonia too
+I really don't understand people who move from computational science
+to machine learning. 
 
 ---
 
-Woha. Woman says saw bird flying straight, then just drop like a
-brick, dying from bad air \#fires \#california
+Homer talked abt Troy ppl thought it was bullshit, but a researcher
+found it based on Homer's clues. Maybe Atlantis mentioned by Plato is
+real too.
 
 ---
 
-Even safe quarters on climate are feeling the heat a little.. People
-look outside, looks like the end of times... bitchslapping toward
-every direction becomes a good idea
+Dude. Plato. Total scifi
+
+[Link](https://youtu.be/OjSUcTYGuC0)
 
 ---
 
+Chicken Street - Samúel Jón Samúelsson Big Band \#music
 
-"The European Parliament’s Environment Committee ... agreed on a new
-EU climate target for 2030. The text, which still needs the approval
-of the entire Parliament and the 27 EU member states before becoming
-law, commits Europe to reduce greenhouse gas emissions by 60%"
+[Link](https://youtu.be/1AnPpNtYqcg)
 
 ---
 
-So hitting page down does not scroll web page down anymore? Thank
-you. Who thought up this feature?
+Let's say divergence. [Here is](http://ab-initio.mit.edu/octave-Faddeeva/scripts/general/divergence.m)
+one possible numerical implementation. We see WTF it is doing,
+calling `gradient` bunch of times, which is also numerics, and
+sums. Let's show that.
 
 ---
 
-That's right -- command line, as in textual input is much more
-expressive than visual clickety click.
-
-One word is worth thousands of pictures.
-
-"The command line remains so incredibly popular because it’s so
-incredibly versatile.
-
-You can do a lot in a terminal. You can manage your OS, apps and
-files; you can connect to remote servers, watch movies, play games,
-fetch the weather forecast, and a whole heap more"
+Plus numerics. How did we ever teach these courses without their
+corresponding numerics..? I am not talking about one API call, I am
+talking about their core implementation methods.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you replace your non-working code with something copied from StackOverflow <a href="https://t.co/fGQXIGYdjr">pic.twitter.com/fGQXIGYdjr</a></p>&mdash; Mario Fusco 🇪🇺 (@mariofusco) <a href="https://twitter.com/mariofusco/status/1304862788859432961?ref_src=twsrc%5Etfw">September 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Now supplementing Denis Auroux.. Multivariable Calculus.
+
+Sorry, had to do it - its curl expl sucks.
+
+---
+ 
+Okay.. first they need to change the name, so the acronym is better,
+not HAVOC.
+
+I propose **L**andfree **A**irbor**N**e **DO**me - LANDO.
+
+(Per PBS Space Time [video](https://youtu.be/gJ5KV3rzuag?t=327) reference,
+Lando was the leader of a floating city in *Empire Strikes Back*? Haha)
 
 ---
 
-Yeah.. purple air is a deal breaker for me. If I see that shit, I bolt
+3D travel is key, for any planet. Even for Earth. Maybe even for
+habitation on Earth?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the importance of good typesetting and layout. <a href="https://t.co/AtPBVLjH6M">pic.twitter.com/AtPBVLjH6M</a></p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1305263928528777223?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+NASA: "High Altitude Venus Operational Concept
+
+The upper atmosphere of Venus, with similar pressure, density,
+gravity, and radiation protection to that of the surface of the earth,
+is relatively benign at 50 km. A lighter-than-air vehicle could carry
+either a host of instruments and probes, or a habitat and ascent
+vehicle for a crew of two astronauts to explore Venus for up to a
+month. Such a mission would require less time to complete than a
+crewed Mars mission"
+
+<img width="340" src="https://sacd.larc.nasa.gov/files/2016/06/havoc_slider.png"/>
+
+[Link](https://sacd.larc.nasa.gov/smab/havoc/)
 
 ---
 
-"[Trump during pandemic] said things to meet the need of the fleeting
-moment. In February, the need of the moment was to levitate the stock
-market. By mid-March, the need of the moment was to sound smart,
-aware, in the know"
+Options are multiplying.. Genymeade, Titan, Venus.
 
 ---
 
-"[17th century] Tsar Alexei, implemented a new legal code [which]
-turned all Russian peasants, 80% of the population, into serfs –
-effectively slaves - their status inherited by their children, and
-with no freedom to travel or choose their master.  It was a system
-that dominated Russian rural life for the next 200 years"
+\#occupyVenus
 
-[Link](https://youtu.be/w0Wmc8C0Eq0?t=600)
+\#occupyVenus
+
+\#occupyVenus
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you miss the official inauguration of the first <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses in <a href="https://twitter.com/hashtag/Denmark?src=hash&amp;ref_src=twsrc%5Etfw">#Denmark</a>? Don&#39;t worry! You can read all about it on our website⬇️<a href="https://t.co/EiBYj2H2Wg">https://t.co/EiBYj2H2Wg</a><a href="https://twitter.com/hashtag/carbonneutral?src=hash&amp;ref_src=twsrc%5Etfw">#carbonneutral</a> <a href="https://twitter.com/hashtag/aalborg?src=hash&amp;ref_src=twsrc%5Etfw">#aalborg</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/ClimateAction?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateAction</a> <a href="https://twitter.com/hashtag/Decarbonizing?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonizing</a> <a href="https://t.co/vAfgUK99gd">pic.twitter.com/vAfgUK99gd</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1305466893092954112?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Phosphine Phan :)
+
+"@DrPhosphine
+
+Welcome to all the new phosphine phans! If you are following me
+exclusively for a tri-yearly mention of the best molecule you will
+have a lovely time. I have worked on PH3 for over a decade and I am
+bursting with pride for my little molecule"
+
+[Link](https://twitter.com/DrPhosphine/status/1305563787383242752)
 
 ---
 
-*Last updated 2020-09-14 20:16*
+Be useful he saz basically.
+
+"Try not to become a man of success, but rather try to become a man of
+value" -- Einstein
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CRAM Air Defense firing in Baghdad tonight intercepting a rocket fired at the Green zone <a href="https://twitter.com/hashtag/Iraq?src=hash&amp;ref_src=twsrc%5Etfw">#Iraq</a> <a href="https://t.co/hdEQ6GBacu">pic.twitter.com/hdEQ6GBacu</a></p>&mdash; CNW (@ConflictsW) <a href="https://twitter.com/ConflictsW/status/1305638287281922050?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scotland is preparing for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> trains!🏴󠁧󠁢󠁳󠁣󠁴󠁿<a href="https://twitter.com/univofstandrews?ref_src=twsrc%5Etfw">@univofstandrews</a> announced competition to prove that there is the capacity to modify an existing item of rolling stock to install <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> equipment. All of success! <a href="https://t.co/gzFEgqQIrD">https://t.co/gzFEgqQIrD</a>🚃</p>&mdash; Thorsten Herbert (@Thorsten_H2) <a href="https://twitter.com/Thorsten_H2/status/1305499795927298049?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+*Last updated 2020-09-16 11:19*
 
 ---
 
