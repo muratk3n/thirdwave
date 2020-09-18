@@ -138,7 +138,11 @@ Matpunk demos will be *awesome*.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Name them after fossil fuel companies. <a href="https://t.co/0n7yuPd4hy">https://t.co/0n7yuPd4hy</a></p>&mdash; Jamie Henn (@jamieclimate) <a href="https://twitter.com/jamieclimate/status/1305958887099527168?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@jamieclimate
+
+Name them after fossil fuel companies.
+
+'Forecasters Are Running Out of Names This Hurricane Season'"
 
 ---
 
