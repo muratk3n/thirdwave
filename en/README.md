@@ -6,147 +6,151 @@ Pinned Tweet
 
 ---
 
-Gone are the days when Churchill was shitting bricks trying to involve
-US in European / UK affairs. Now u can't get rid of them!
+"@oatesjonny
+
+Today I asked the government if it would back genuinely world-beating
+British companies which are leading the way in green hydrogen
+technologies"
+
+[Link](https://mobile.twitter.com/oatesjonny/status/1306567790988533760)
 
 ---
 
-This thing keeps running in circles doesn't it?
+I've had cases with notebooks when keyboard repair too bothersome,
+whole comp had to be replaced. This way u cld simply replace the
+external keyboard.
 
 ---
 
-🤣🤣🤣
-
-"@SamCoatesSky
-
-Four senior congressmen write to Boris Johnson to reiterate there will
-be no US-UK trade deal if the legislation to override the EU-UK
-Withdrawal Agreement isn’t pulled"
+They sell portable monitors too, plugs right into RPi.. so u cld even
+replace notebook for daily work. Rpi , keyboard, monitor all become
+seperate, and seperately replaceable.
 
 ---
 
-H2 is the only clean storage solution that can do that - drive a
-vehicle for long periods of time and even provide its excess power in
-emergency to others.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen to the rescue! In partnership with <a href="https://twitter.com/DeptofDefense?ref_src=twsrc%5Etfw">@DeptofDefense</a> and <a href="https://twitter.com/DHSgov?ref_src=twsrc%5Etfw">@DHSgov</a>, EERE has awarded <a href="https://twitter.com/Cummins?ref_src=twsrc%5Etfw">@Cummins</a> approximately $1M to develop H2Rescue, a hydrogen fuel cell truck that will travel to disaster relief sites and provide power, heat, and water. ➡️ <a href="https://t.co/n5Oa31gJZ4">https://t.co/n5Oa31gJZ4</a> <a href="https://t.co/xl3Iv9c5IT">pic.twitter.com/xl3Iv9c5IT</a></p>&mdash; Office of Energy Efficiency and Renewable Energy (@eeregov) <a href="https://twitter.com/eeregov/status/1305908957916135427?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favourite planet! Our photon platform enables missions like this. Time to go! <a href="https://t.co/AWeygsMKNj">https://t.co/AWeygsMKNj</a></p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1305637668777201664?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I really don't understand people who move from computational science
-to machine learning. 
+@Dr_ThomasZ
+
+Two of the next four candidate missions for @NASASolarSystem’s Discovery Program are focused on Venus, as is Europe’s EnVision mission, in which NASA is a partner. Venus also is a planetary destination we can reach with smaller missions
 
 ---
 
-Homer talked abt Troy ppl thought it was bullshit, but a researcher
-found it based on Homer's clues. Maybe Atlantis mentioned by Plato is
-real too.
+It's funny I was watching an interview with Peter Beck (RocketLab) he
+was saying Venus loooks intreresting a week before the discovery I
+made a note of it, than the news
 
 ---
 
-Dude. Plato. Total scifi
-
-[Link](https://youtu.be/OjSUcTYGuC0)
-
----
-
-Chicken Street - Samúel Jón Samúelsson Big Band \#music
-
-[Link](https://youtu.be/1AnPpNtYqcg)
+So you can change $\frac{\frac{1}{2}}{3}$ into
+$\dfrac{\frac{1}{2}}{3}$. Less cramming of fonts into small space when
+divisions are involved.
 
 ---
 
-Let's say divergence. [Here is](http://ab-initio.mit.edu/octave-Faddeeva/scripts/general/divergence.m)
-one possible numerical implementation. We see WTF it is doing,
-calling `gradient` bunch of times, which is also numerics, and
-sums. Let's show that.
+
+`\dfrac`, exactly what i needed...
 
 ---
 
-Plus numerics. How did we ever teach these courses without their
-corresponding numerics..? I am not talking about one API call, I am
-talking about their core implementation methods.
+I like the $NH_3$ graphic
+
+"@gencellenergy
+
+Big shout out to Ignite the Spark on the successful virtual event"
+
+[Link](https://twitter.com/gencellenergy/status/1306551025516584966)
 
 ---
 
-Now supplementing Denis Auroux.. Multivariable Calculus.
+Malik Adouane -Shaft - Orientale Version \#music
 
-Sorry, had to do it - its curl expl sucks.
-
----
- 
-Okay.. first they need to change the name, so the acronym is better,
-not HAVOC.
-
-I propose **L**andfree **A**irbor**N**e **DO**me - LANDO.
-
-(Per PBS Space Time [video](https://youtu.be/gJ5KV3rzuag?t=327) reference,
-Lando was the leader of a floating city in *Empire Strikes Back*? Haha)
+[Link](https://youtu.be/S-PR80C9MHc?t=109)
 
 ---
 
-3D travel is key, for any planet. Even for Earth. Maybe even for
-habitation on Earth?
+"@JoeBiden
+
+We can't allow the Good Friday Agreement that brought peace to
+Northern Ireland to become a casualty of Brexit.
+
+Any trade deal between the U.S. and U.K. must be contingent upon
+respect for the Agreement and preventing the return of a hard
+border. Period"
 
 ---
 
-NASA: "High Altitude Venus Operational Concept
-
-The upper atmosphere of Venus, with similar pressure, density,
-gravity, and radiation protection to that of the surface of the earth,
-is relatively benign at 50 km. A lighter-than-air vehicle could carry
-either a host of instruments and probes, or a habitat and ascent
-vehicle for a crew of two astronauts to explore Venus for up to a
-month. Such a mission would require less time to complete than a
-crewed Mars mission"
-
-<img width="340" src="https://sacd.larc.nasa.gov/files/2016/06/havoc_slider.png"/>
-
-[Link](https://sacd.larc.nasa.gov/smab/havoc/)
+Einstein advice on being useful is now more relevant than ever; bcz of
+decaying system a slap on the back / "success" / wealth might not
+always indicate value. Fictional character Gordon Gekko was
+successful, but was he useful?
 
 ---
 
-Options are multiplying.. Genymeade, Titan, Venus.
+When Saudi Arabia allowed movie theather for the first time, BP was
+the first movie they showed in cinemas. I wonder why... 
 
 ---
 
-\#occupyVenus
+That's not what Black Panther was about.. It was abt simply having a
+black king on screen, about "representing". R, e, s, p, e, c and t.
 
-\#occupyVenus
+Which is *sorta* fine... There are so many movies abt European kings,
+queens, why not a black king? This issue bears a similarity to the
+minority billionaire issue. The main problem isn't having more
+representation among billionaires. The problem is the very presence of
+billionaires. We need to come to a point where kings and queens aren't
+even inspirational anymore, but seen as despicable. For everyone.
 
-\#occupyVenus
+"Black Panther [was abt c]an a good man be a king, and would an
+advanced society tolerate a monarch ?"
 
----
-
-Phosphine Phan :)
-
-"@DrPhosphine
-
-Welcome to all the new phosphine phans! If you are following me
-exclusively for a tri-yearly mention of the best molecule you will
-have a lovely time. I have worked on PH3 for over a decade and I am
-bursting with pride for my little molecule"
-
-[Link](https://twitter.com/DrPhosphine/status/1305563787383242752)
+[Link](https://www.google.com/amp/s/amp.theatlantic.com/amp/article/471516/)
 
 ---
 
-Be useful he saz basically.
+Good going Barbados
 
-"Try not to become a man of success, but rather try to become a man of
-value" -- Einstein
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CRAM Air Defense firing in Baghdad tonight intercepting a rocket fired at the Green zone <a href="https://twitter.com/hashtag/Iraq?src=hash&amp;ref_src=twsrc%5Etfw">#Iraq</a> <a href="https://t.co/hdEQ6GBacu">pic.twitter.com/hdEQ6GBacu</a></p>&mdash; CNW (@ConflictsW) <a href="https://twitter.com/ConflictsW/status/1305638287281922050?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Barbados will drop Queen Elizabeth II as its head of state next year"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scotland is preparing for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> trains!🏴󠁧󠁢󠁳󠁣󠁴󠁿<a href="https://twitter.com/univofstandrews?ref_src=twsrc%5Etfw">@univofstandrews</a> announced competition to prove that there is the capacity to modify an existing item of rolling stock to install <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> equipment. All of success! <a href="https://t.co/gzFEgqQIrD">https://t.co/gzFEgqQIrD</a>🚃</p>&mdash; Thorsten Herbert (@Thorsten_H2) <a href="https://twitter.com/Thorsten_H2/status/1305499795927298049?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After hyping the Russia threat for four years, the New Yorker quietly wonders if the story might have been exaggerated:<a href="https://t.co/j40JLJNGHD">https://t.co/j40JLJNGHD</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1306191428956164099?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-*Last updated 2020-09-16 11:19*
+Scientific Python paper in *Nature*!
+
+[Link](https://www.nature.com/articles/s41586-020-2649-2)
+
+---
+
+Finally found the famous Matlab `wind.mat` file (has wind speed
+vectors at x,y,z locations)
+
+I am ashamed to admit I spent a while afternoon looking for the f-ing
+thing. But now the code replicating its Matpunk version will be
+**awesome**.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SCOOP<br><br>In a complete coincidence, a European and Japanese spacecraft is about to fly past Venus in a matter of weeks.<br><br>And, excitingly, the team is going to try and confirm the presence of phosphine, a possible indicator of life.<br><br>Words, by me, <a href="https://twitter.com/Forbes?ref_src=twsrc%5Etfw">@Forbes</a><a href="https://t.co/FrazgGcBy8">https://t.co/FrazgGcBy8</a></p>&mdash; Jonathan O’Callaghan (@Astro_Jonny) <a href="https://twitter.com/Astro_Jonny/status/1306244941333528582?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Name them after fossil fuel companies. <a href="https://t.co/0n7yuPd4hy">https://t.co/0n7yuPd4hy</a></p>&mdash; Jamie Henn (@jamieclimate) <a href="https://twitter.com/jamieclimate/status/1305958887099527168?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+That's a pretty good crab walk
+
+<iframe width="340"  src="https://www.youtube.com/embed/esQAom1P5uI?start=458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+*Last updated 2020-09-18 09:20*
 
 ---
 
