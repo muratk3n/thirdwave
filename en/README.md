@@ -78,7 +78,7 @@ If I wanted to search for a word inside in all files under a directory
 starting from `/blah`, I would not want a program that does exactly
 that. I'd piece it together from other components.
 
-`find /blah -name 'pattern' -exec grep 'word' {} \;`
+`find /blah -name '*' -exec grep 'word' {} \;`
 
 The components here are `find` and `grep`. The Unix Way.
 
