@@ -76,7 +76,8 @@ successful, but was he useful?
 
 I've had cases with notebooks when keyboard repair was too bothersome,
 whole comp had to be replaced. This way u cld simply replace the
-external keyboard. 
+external keyboard. Or simply replace the brain (RPi), for upgrades
+etc.
 
 ---
 
