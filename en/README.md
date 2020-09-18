@@ -103,8 +103,8 @@ seperately replaceable.
 
 ---
 
-When Saudi Arabia allowed movie theather for the first time, BP was
-the first movie they showed in cinemas. I wonder why... 
+When Saudi Arabia allowed movie theathers for the first time, BP was
+the first movie they showed in cinemas. I wonder why...
 
 ---
 
