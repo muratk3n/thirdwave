@@ -99,7 +99,7 @@ black king on screen, about "representing". R, e, s, p, e, c and t.
 
 Which is *sorta* fine... There are so many movies abt European kings,
 queens, why not a black king? This issue bears a similarity to the
-minority billionaire issue. The main problem isn't having more
+minority billionaire issue though.. The main problem isn't having more
 representation among billionaires. The problem is the very presence of
 billionaires. We need to come to a point where kings and queens aren't
 even inspirational anymore, but seen as despicable. For everyone.
