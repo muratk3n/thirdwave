@@ -83,9 +83,9 @@ external keyboard.
 
 ---
 
-They sell portable monitors too, plugs right into RPi.. so u cld even
-replace notebook for daily work. Rpi , keyboard, monitor all become
-seperate, and seperately replaceable.
+They sell portable monitors too, plugs right into RPi.. so even
+notebook for daily work can be replaced. Rpi, keyb, monitor, all
+seperate, seperately replaceable.
 
 ---
 
