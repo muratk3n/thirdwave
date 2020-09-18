@@ -94,7 +94,7 @@ the first movie they showed in cinemas. I wonder why...
 
 ---
 
-That's not what Black Panther was about.. It was abt simply having a
+That's not what *Black Panther* was about.. It was abt simply having a
 black king on screen, about "representing". R, e, s, p, e, c and t.
 
 Which is *sorta* fine... There are so many movies abt European kings,
