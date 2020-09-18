@@ -128,11 +128,9 @@ Scientific Python paper in *Nature*!
 ---
 
 Finally found the famous Matlab `wind.mat` file (has wind speed
-vectors at x,y,z locations)
-
-I am ashamed to admit I spent a while afternoon looking for the f-ing
-thing. But now the code replicating its Matpunk version will be
-**awesome**.
+vectors at x,y,z locations). Ashamed to admit I spent a while
+afternoon looking for the f-ing thing. But now the code replicating
+its Matpunk version will be *awesome*.
 
 ---
 
