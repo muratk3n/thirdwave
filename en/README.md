@@ -53,12 +53,6 @@ Big shout out to Ignite the Spark on the successful virtual event"
 
 ---
 
-Malik Adouane -Shaft - Orientale Version \#music
-
-[Link](https://youtu.be/S-PR80C9MHc?t=109)
-
----
-
 "@JoeBiden
 
 We can't allow the Good Friday Agreement that brought peace to
@@ -79,7 +73,7 @@ successful, but was he useful?
 
 I've had cases with notebooks when keyboard repair was too bothersome,
 whole comp had to be replaced. This way u cld simply replace the
-external keyboard.
+external keyboard. 
 
 ---
 
