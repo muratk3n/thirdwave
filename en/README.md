@@ -77,7 +77,7 @@ successful, but was he useful?
 
 ---
 
-I've had cases with notebooks when keyboard repair too bothersome,
+I've had cases with notebooks when keyboard repair was too bothersome,
 whole comp had to be replaced. This way u cld simply replace the
 external keyboard.
 
