@@ -16,6 +16,22 @@ technologies"
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favourite planet! Our photon platform enables missions like this. Time to go! <a href="https://t.co/AWeygsMKNj">https://t.co/AWeygsMKNj</a></p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1305637668777201664?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+@Dr_ThomasZ
+
+Two of the next four candidate missions for @NASASolarSystem’s Discovery Program are focused on Venus, as is Europe’s EnVision mission, in which NASA is a partner. Venus also is a planetary destination we can reach with smaller missions
+
+---
+
+It's funny I was watching an interview with Peter Beck (RocketLab) he
+was saying Venus loooks intreresting a week before the discovery I
+made a note of it, than the news
+
+---
+
 So you can change $\frac{\frac{1}{2}}{3}$ into
 $\dfrac{\frac{1}{2}}{3}$. Less cramming of fonts into small space when
 divisions are involved.
@@ -34,22 +50,6 @@ I like the $NH_3$ graphic
 Big shout out to Ignite the Spark on the successful virtual event"
 
 [Link](https://twitter.com/gencellenergy/status/1306551025516584966)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favourite planet! Our photon platform enables missions like this. Time to go! <a href="https://t.co/AWeygsMKNj">https://t.co/AWeygsMKNj</a></p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1305637668777201664?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-@Dr_ThomasZ
-
-Two of the next four candidate missions for @NASASolarSystem’s Discovery Program are focused on Venus, as is Europe’s EnVision mission, in which NASA is a partner. Venus also is a planetary destination we can reach with smaller missions
-
----
-
-It's funny I was watching an interview with Peter Beck (RocketLab) he
-was saying Venus loooks intreresting a week before the discovery I
-made a note of it, than the news
 
 ---
 
