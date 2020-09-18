@@ -98,7 +98,7 @@ etc. The Unix Way.
 ---
 
 They sell portable monitors, plugs right into RPi.. Even notebook for
-daily work can be replaced... 🤔 Rpi, keyb, monitor, all seperate,
+daily work can be replaced... 🤔 RPi, keyb, monitor, all seperate,
 seperately replaceable.
 
 ---
