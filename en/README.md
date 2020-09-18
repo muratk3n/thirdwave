@@ -20,9 +20,12 @@ technologies"
 
 ---
 
-@Dr_ThomasZ
+"@Dr_ThomasZ
 
-Two of the next four candidate missions for @NASASolarSystem’s Discovery Program are focused on Venus, as is Europe’s EnVision mission, in which NASA is a partner. Venus also is a planetary destination we can reach with smaller missions
+Two of the next four candidate missions for @NASASolarSystem’s
+Discovery Program are focused on Venus, as is Europe’s EnVision
+mission, in which NASA is a partner. Venus also is a planetary
+destination we can reach with smaller missions"
 
 ---
 
