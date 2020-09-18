@@ -74,10 +74,18 @@ successful, but was he useful?
 
 ---
 
+"The Unix Philosophy:
+
+Make each [component] do one thing well. 
+
+Expect the output of every [component] to become the input to another"
+
+---
+
 I've had cases with notebooks when keyboard repair was too bothersome,
 whole comp had to be replaced. This way u cld simply replace the
 external keyboard. Or simply replace the brain (RPi), for upgrades
-etc.
+etc. The Unix Way.
 
 ---
 
