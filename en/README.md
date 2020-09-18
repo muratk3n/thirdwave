@@ -16,18 +16,6 @@ technologies"
 
 ---
 
-I've had cases with notebooks when keyboard repair too bothersome,
-whole comp had to be replaced. This way u cld simply replace the
-external keyboard.
-
----
-
-They sell portable monitors too, plugs right into RPi.. so u cld even
-replace notebook for daily work. Rpi , keyboard, monitor all become
-seperate, and seperately replaceable.
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favourite planet! Our photon platform enables missions like this. Time to go! <a href="https://t.co/AWeygsMKNj">https://t.co/AWeygsMKNj</a></p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1305637668777201664?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -86,6 +74,18 @@ Einstein advice on being useful is now more relevant than ever; bcz of
 decaying system a slap on the back / "success" / wealth might not
 always indicate value. Fictional character Gordon Gekko was
 successful, but was he useful?
+
+---
+
+I've had cases with notebooks when keyboard repair too bothersome,
+whole comp had to be replaced. This way u cld simply replace the
+external keyboard.
+
+---
+
+They sell portable monitors too, plugs right into RPi.. so u cld even
+replace notebook for daily work. Rpi , keyboard, monitor all become
+seperate, and seperately replaceable.
 
 ---
 
