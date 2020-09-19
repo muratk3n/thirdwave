@@ -1,64 +1,55 @@
 # Coronavirus Data, Analysis
 
-```python
-! wget https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
-! zip /tmp/corona-time.zip time-series-19-covid-combined.csv
-! rm time-series-19-covid-combined.csv
-```
+# Mortality Rate
+
+Code is from [8]
+
+<a mame='mortality'/>
 
 ```python
-import pandas as pd, zipfile
+import pandas as pd
 
-with zipfile.ZipFile('/tmp/corona-time.zip', 'r') as z:
-    df =  pd.read_csv(z.open('time-series-19-covid-combined.csv'),parse_dates=['Date'])
-df = df[['Date','Confirmed']]
-df = df.set_index('Date')
-confirmed = df.groupby('Date').sum()
-print (confirmed.tail(4))
-confirmed.plot() # in millions
-plt.savefig('timeseries.png')
+COVID_CONFIRMED_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
+covid_confirmed = pd.read_csv(COVID_CONFIRMED_URL)
+COVID_DEATHS_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
+covid_deaths = pd.read_csv(COVID_DEATHS_URL)
+COVID_RECOVERED_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv'
+covid_recovered = pd.read_csv(COVID_RECOVERED_URL)
+
+covid_worldwide_confirmed = covid_confirmed.iloc[:, 4:].sum(axis=0)
+covid_worldwide_deaths = covid_deaths.iloc[:, 4:].sum(axis=0)
+covid_worldwide_recovered = covid_recovered.iloc[:, 4:].sum(axis=0)
+covid_worldwide_active = covid_worldwide_confirmed - covid_worldwide_deaths - covid_worldwide_recovered
+
+world_rate_df = pd.DataFrame({
+    'confirmed': covid_worldwide_confirmed,
+    'deaths': covid_worldwide_deaths,
+    'recovered': covid_worldwide_recovered,
+    'active': covid_worldwide_active
+}, index=covid_worldwide_confirmed.index)
+
+world_rate_df['recovered / 100 confirmed'] = world_rate_df['recovered'] / world_rate_df['confirmed'] * 100
+
+world_rate_df['deaths / 100 confirmed'] = world_rate_df['deaths'] / world_rate_df['confirmed'] * 100
+
+world_rate_df['date'] = world_rate_df.index
+
+print (world_rate_df['deaths / 100 confirmed'].tail(4))
+world_rate_df['deaths / 100 confirmed'].plot(title='Worldwide Mortality Rate')
+
+plt.savefig('mort.png')
 ```
 
 ```text
-             Confirmed
-Date                  
-2020-08-15  21459699.0
-2020-08-16  21672186.0
-2020-08-17  21881858.0
-2020-08-18  22136954.0
+9/15/20    3.162778
+9/16/20    3.149845
+9/17/20    3.135215
+9/18/20    3.126073
+Name: deaths / 100 confirmed, dtype: float64
 ```
 
-![](timeseries.png)
+![](mort.png)
 
-
-```python
-pd.set_option('display.float_format', lambda x: '%.2f' % x) 
-chg = confirmed.pct_change()*100.0
-chg.plot()
-print (chg.tail(5))
-plt.title('Daily % Change')
-plt.savefig('rate.png')
-```
-
-```text
-            Confirmed
-Date                 
-2020-08-14       1.46
-2020-08-15       1.17
-2020-08-16       0.99
-2020-08-17       0.97
-2020-08-18       1.17
-```
-
-![](rate.png)
-
-County Level Data (NYT)
-
-```python
-! wget https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
-! zip /tmp/corona-county.zip us-counties.csv
-! rm us-counties.csv
-```
 
 The SIR Model
 
@@ -136,6 +127,14 @@ print (df[['Date','Rt']].tail(10))
 
 ![](Rt-UnitedKingdom.png)
 
+County Level Data (NYT)
+
+```python
+! wget https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+! zip /tmp/corona-county.zip us-counties.csv
+! rm us-counties.csv
+```
+
 Files
 
 [util.py](util.py)
@@ -156,6 +155,6 @@ References
 
 [7] https://github.com/shwars/SlidingSir
 
-
+[8] https://notebooks.ai/rmotr-curriculum/analyzing-covid19-outbreak-40c03c06
 
 
