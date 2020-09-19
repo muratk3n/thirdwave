@@ -100,6 +100,43 @@ print (df[['Date','Rt']].tail(10))
 
 ![](Rt-UnitedKingdom.png)
 
+
+Daily Change
+
+<a name='daily'/>
+
+```python
+import pandas as pd, util
+df = util.get_data()
+```
+
+```python
+df['Germany +'] = df['Germany'].diff()
+df['UK +'] = df['United Kingdom'].diff()
+df['Germany %'] = df['Germany'].pct_change().rolling(10).mean()*100.0
+df['UK %'] = df['United Kingdom'].pct_change().rolling(10).mean()*100.0
+```
+
+```python
+pd.set_option('display.width', 1000)
+print (df[['Germany +','Germany %','UK +','UK %']].tail(10))
+```
+
+```text
+Country/Region  Germany +  Germany %    UK +      UK %
+9/9/20             1476.0   0.526991  2681.0  0.605502
+9/10/20            1716.0   0.532382  2931.0  0.645432
+9/11/20            1586.0   0.544269  3544.0  0.704330
+9/12/20            1082.0   0.529182  3504.0  0.755964
+9/13/20             920.0   0.506698  3338.0  0.794590
+9/14/20            1485.0   0.505445  2625.0  0.807641
+9/15/20            1792.0   0.542560  3115.0  0.838025
+9/16/20            1855.0   0.585869  4007.0  0.858203
+9/17/20            2179.0   0.592121  3410.0  0.863345
+9/18/20            2199.0   0.621374  4329.0  0.905661
+```
+
+
 County Level Data (NYT)
 
 ```python
