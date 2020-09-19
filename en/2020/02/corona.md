@@ -7,36 +7,9 @@ Code is from [8]
 <a mame='mortality'/>
 
 ```python
-import pandas as pd
-
-COVID_CONFIRMED_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-covid_confirmed = pd.read_csv(COVID_CONFIRMED_URL)
-COVID_DEATHS_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-covid_deaths = pd.read_csv(COVID_DEATHS_URL)
-COVID_RECOVERED_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv'
-covid_recovered = pd.read_csv(COVID_RECOVERED_URL)
-
-covid_worldwide_confirmed = covid_confirmed.iloc[:, 4:].sum(axis=0)
-covid_worldwide_deaths = covid_deaths.iloc[:, 4:].sum(axis=0)
-covid_worldwide_recovered = covid_recovered.iloc[:, 4:].sum(axis=0)
-covid_worldwide_active = covid_worldwide_confirmed - covid_worldwide_deaths - covid_worldwide_recovered
-
-world_rate_df = pd.DataFrame({
-    'confirmed': covid_worldwide_confirmed,
-    'deaths': covid_worldwide_deaths,
-    'recovered': covid_worldwide_recovered,
-    'active': covid_worldwide_active
-}, index=covid_worldwide_confirmed.index)
-
-world_rate_df['recovered / 100 confirmed'] = world_rate_df['recovered'] / world_rate_df['confirmed'] * 100
-
-world_rate_df['deaths / 100 confirmed'] = world_rate_df['deaths'] / world_rate_df['confirmed'] * 100
-
-world_rate_df['date'] = world_rate_df.index
-
-print (world_rate_df['deaths / 100 confirmed'].tail(4))
+import util
+world_rate_df = util.mortality_rate()
 world_rate_df['deaths / 100 confirmed'].plot(title='Worldwide Mortality Rate')
-
 plt.savefig('mort.png')
 ```
 
