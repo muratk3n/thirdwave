@@ -2,7 +2,7 @@
 
 # Mortality Rate
 
-Code is from [8]
+Code is from [2]
 
 <a mame='mortality'/>
 
@@ -65,7 +65,7 @@ to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
 $R_t$ Estimate
 
-Code is based on [7]
+Code is based on [1]
 
 ```python
 import util
@@ -151,14 +151,13 @@ Files
 
 References
 
+[1] https://github.com/shwars/SlidingSir
+
+[2] https://notebooks.ai/rmotr-curriculum/analyzing-covid19-outbreak-40c03c06
+
+[3] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
+
 [4] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
 [5] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
-
-[6] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
-
-[7] https://github.com/shwars/SlidingSir
-
-[8] https://notebooks.ai/rmotr-curriculum/analyzing-covid19-outbreak-40c03c06
-
 
