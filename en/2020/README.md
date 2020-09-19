@@ -4,9 +4,7 @@
 
 [A Global Green New Deal](01/global-green-new-deal.md)
 
-[The Coronavirus Map](02/corona.md)
-
-[Coronavirus Math](02/corona_math.md)
+[Coronavirus Data, Analysis](02/corona.md)
 
 [Appelbaum, The Economists' Hour](03/appelbaum.md)
 
@@ -32,14 +30,25 @@
 
 [Crowd Wisdom](07/crowd-wisdom.md)
 
+[Github Pages for Math and Code](07/github-pages-for-math-code.md)
+
 [Numbers on H2 Energy](07/h2-numbers.md)
 
 [Human Nature](07/human-nature.md)
 
 [Kurds in Anatolia](07/kurds-anatolia.md)
 
+[Left Acting Right](07/left-acting-right.md)
+
 [Tolay, National Narratives, Migrations, Anatolia](07/migrations-anatolia.md)
+
+[Right Acting Left](07/right-acting-left.md)
 
 [Robot Frankenstein](07/robot-frankenstein.md)
 
 [Rome by Rifkin](07/rome-rifkin.md)
+
+[Knuth on Patents](08/knuth-on-patents.md)
+
+[Why Did Hillary Lose?](09/why-did-hillary-lose.md)
+

@@ -1,3 +1,5 @@
+# 2014
+
 [4B](01/4b.md)
 
 [5 Megabyte Hard Drive](01/5-megabyte-hard-drive.md)
@@ -160,9 +162,7 @@
 
 [Uber](06/uber.md)
 
-[Welcome to Software Patents - 2](06/welcome-to-software-patents-2.md)
-
-[Welcome to Software Patents - 1](06/welcome-to-software-patents.md)
+[Welcome to Software Patents](06/welcome-to-software-patents.md)
 
 [UKIP: White face, blue collar, grey hair](06/white-face-blue-collar-grey-hair.md)
 
@@ -174,7 +174,7 @@
 
 [No More Excel Sheets for That Man](07/no-more-excel-sheets-for-that-man.md)
 
-[Spaceship Game Played through Occulus Rift Brings a Man To Tears](07/spaceship-game-played-through-occulus.md)
+[aceship Game Played through Occulus Rift Brings a Man To Tears](07/spaceship-game-played-through-occulus.md)
 
 [U.S. Secretary of Defense](07/us-secretary-of-defense.md)
 

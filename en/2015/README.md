@@ -1,4 +1,6 @@
-[#2015](01/2015.md)
+# 2015
+
+[#2015](01/.md)
 
 [Arrr! Copyrright! Arrr!!](01/arrr-copyright-arrr.md)
 
@@ -110,6 +112,8 @@
 
 [Q&A - 9/3](03/q-83.md)
 
+[The Broken Chain](03/the-broken-chain.md)
+
 [The Glass Cage: Automation and Us](03/the-glass-cage-automation-and-us.md)
 
 [#whatsapp](03/whatsapp.md)
@@ -126,11 +130,17 @@
 
 [Foreign Aid](04/foreign-aid.md)
 
+[God, Religion](04/god-religion.md)
+
 [Great Thinker Confusion](04/great-thinker-confusion.md)
 
 [#guesswhat](04/guesswhat.md)
 
 [#heirloom](04/heirloom.md)
+
+[Codebook 1](04/lops1.md)
+
+[Codebook 2](04/lops2.md)
 
 [#ML](04/ml.md)
 
@@ -139,6 +149,8 @@
 [Poor Egypt](04/poor-egypt.md)
 
 [Predicting the 2016 Presidential Election](04/predicting-2016-presidential-election.md)
+
+[Prez Prediction, Past Elections, Leave-One-Out Check](04/prez-loo.md)
 
 [Q&A - 23/4](04/q-234.md)
 
@@ -192,7 +204,7 @@
 
 [#seriously](05/seriously.md)
 
-[TR Elections 2015](05/tr-elections-2015.md)
+[TR Elections 2015](05/tr-elections-.md)
 
 [Trolls](05/trolls.md)
 
@@ -268,11 +280,15 @@
 
 [Economics of Abundance](07/economics-of-abundance.md)
 
+[](07/eu_greece.md)
+
 [Food Waste](07/food-waste.md)
 
 [#freaky #awesome](07/freaky-awesome.md)
 
 [Greece/EU](07/greeceeu.md)
+
+[](07/gtd_us.md)
 
 [#haha](07/haha.md)
 
@@ -316,6 +332,8 @@
 
 [What if we had voted "YES"?](07/what-if-we-had-voted-yes.md)
 
+[](08/climate.md)
+
 [#ironman](08/ironman.md)
 
 [#priceless](08/priceless.md)
@@ -345,6 +363,8 @@
 [The Deal](08/the-deal.md)
 
 [#uber #berlin](08/uber.md)
+
+[UFOs](08/ufo.md)
 
 [Wag the Dog - Part 2](08/wag-dog-part-2.md)
 
@@ -395,8 +415,6 @@
 [Youthquake](10/youthquake.md)
 
 [Anonymous](11/anonymous.md)
-
-[Blue Origin](11/blue-origin.md)
 
 [Breakthrough Energy Coalition](11/breakthrough-energy-coalition.md)
 

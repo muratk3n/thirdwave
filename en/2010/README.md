@@ -1,3 +1,5 @@
+# 2010
+
 [The Mad World of Mad Men](01/mad-world-of-mad-men.md)
 
 [More On Avatar](01/more-on-avatar.md)
@@ -17,6 +19,8 @@
 [24](04/24.md)
 
 [De Vany on Econtalk](04/de-vany-on-econtalk.md)
+
+[De Vany, Exercise, Diet](04/devany.md)
 
 [Corridors..](04/fast-company-article-even-before.md)
 

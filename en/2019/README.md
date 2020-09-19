@@ -34,13 +34,13 @@
 
 [Q&A - 18/4](04/qa-1804.md)
 
-[Get On With It](05/geton.md)
-
 [Infrastructure for Space, Bezos](05/bezos-space-infrastructure.md)
+
+[Get On With It](05/geton.md)
 
 [Slippage, H2, the Transition](05/slippage.md)
 
-[Calculations, Data](05/stats.md)
+[Economy, Calculations, Data](05/stats.md)
 
 [Unfettered Capitalism](05/unfettered.md)
 
@@ -102,7 +102,7 @@
 
 [Hacking the Constitution](11/constitution.md)
 
-[Cultures, Identities, Something Dash Something Americans](11/faux-ambassadors.md)
+[Cultures, Identities, Something Dash Something Americans, Immigrants](11/faux-ambassadors.md)
 
 [France - China - US](11/france-china-us.md)
 
@@ -110,7 +110,7 @@
 
 [Drug War](11/war-on-drugs.md)
 
-[Evolution](12/evolution.md)
-
 [Civilized to Death](12/civilized-to-death.md)
+
+[Evolution](12/evolution.md)
 

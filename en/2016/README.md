@@ -1,3 +1,5 @@
+# 2016
+
 [The Inner Flame](01/the-flame.md)
 
 [One Day](02/one-day.md)
@@ -65,6 +67,8 @@
 [DNA as Hard Drive](04/dna-as-hard-drive.md)
 
 [Dude Where Is My Solar Impulse 2?!!](04/dude-where-is-my-solar-impulse-2.md)
+
+[](04/extinct.md)
 
 [Money Laundering 101](04/money-laundering.md)
 
@@ -379,6 +383,8 @@
 [Syria](11/syria.md)
 
 [The Real Scandal](11/the-real-scandal.md)
+
+[Why Are Democracies Better?](11/why-is-democracy-better.md)
 
 [#bee](12/bee.md)
 

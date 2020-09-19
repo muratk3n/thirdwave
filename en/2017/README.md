@@ -64,8 +64,6 @@
 
 [The Hoax](02/the-hoax.md)
 
-[#toofunny](02/toofunny.md)
-
 [#ukraine](02/ukraine.md)
 
 [1%](03/1.md)
@@ -73,6 +71,8 @@
 [Approval Rating: Gallup](03/approval-rating-gallup.md)
 
 [#ban](03/ban.md)
+
+[Sornette's Model and Code](03/bubble_nb.md)
 
 [Cursed](03/cursed.md)
 
@@ -172,17 +172,17 @@
 
 [Q&A - 4/7](07/q-47.md)
 
-[#tesla](07/tesla.md)
-
 [Both Sides](08/both-sides.md)
 
 [Drones](08/drones.md)
 
 [Drugs, Immigrants](08/drugs-immigrants.md)
 
+[Product-Item, Economic Complexity, Country Competitiveness, Hidalgo](08/hidalgo.md)
+
 [One Is Not Like the Others](08/one-is-not-like-others.md)
 
-[Production, GDP, Globalization](08/production-gdp-globalization.md)
+[Production, Know-How, GDP, Globalization](08/production-gdp-globalization.md)
 
 [Q&A - 14/8](08/q-148.md)
 
@@ -246,7 +246,7 @@
 
 [#fella](10/fella.md)
 
-[Goat Lovers](10/goat-lovers.md)
+[Foragers, Farmers by Morris](10/foragers-farmers-morris.md)
 
 [#guns](10/guns.md)
 
@@ -288,9 +288,11 @@
 
 [#millenials](12/millenials.md)
 
-[Palestine](12/palestine.md)
+[Palestine, Lebanon, Hashemites](12/palestine.md)
 
 [Q&A - 4/12](12/q-412.md)
+
+["Holy" Rome](12/rome.md)
 
 [The Bonyads](12/the-bonyads.md)
 

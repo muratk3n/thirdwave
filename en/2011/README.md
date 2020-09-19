@@ -1,3 +1,5 @@
+# 2011
+
 [Another Lost Wannabe Bites the Dust](01/another-lost-wannabe-bites-dust.md)
 
 [Blair / Hitchens Debate](01/blair-hitchens-debate.md)
@@ -187,8 +189,6 @@
 [China In The Plex](05/china-in-plex.md)
 
 [Institutional Decay Will Continue](05/collapse-of-old-institutions-will.md)
-
-[First Obama Osama Rap Song](05/first-obama-osama-rap-song.md)
 
 [Free Science](05/free-science.md)
 

@@ -1,3 +1,5 @@
+# 2013
+
 [Aaron Schwartz on SOPA](01/aaron-schwartz-on-sopa.md)
 
 [Geotechnology](01/geotechnology.md)
@@ -28,8 +30,6 @@
 
 [Which Future?](01/which-future.md)
 
-[Nations and Nationalism](02/allegiance-of-peon.md)
-
 [As California Goes?](02/as-california-goes.md)
 
 [#biznitch](02/biznitch.md)
@@ -37,6 +37,8 @@
 [Citizen Soldiers](02/citizen-soldiers.md)
 
 [JSTOR](02/jstor.md)
+
+[Nations and Nationalism, Culture, Narratives](02/nations-and-nationalism.md)
 
 [Open Access Legislation](02/open-access-legislation.md)
 
@@ -52,10 +54,6 @@
 
 [Your Massively Open Offline College Is Broken](02/your-massively-open-offline-college-is.md)
 
-[Nations and Nationalism - 2](03/allegience-of-peon-4.md)
-
-[Nations and Nationalism - 1](03/allegience-of-pion.md)
-
 [Code Your Business And .. Education](03/code-your-business.md)
 
 [Conservative Artisan](03/conservative-artisan.md)
@@ -67,6 +65,8 @@
 [It’s the Sugar, Folks](03/its-sugar-folks.md)
 
 [Narcissist Leninist](03/narsisist-leninist.md)
+
+[Nations and Nationalism](03/nations-and-nationalism-gellner.md)
 
 [Putting a Value to ‘Real’ in Medical Research](03/putting-value-to-real-in-medical.md)
 
@@ -106,7 +106,7 @@
 
 [Bloomberg Best (and Worst)](05/bloomberg-best-and-worst.md)
 
-[Class Of 2013 Student Debt Reaches New Heights](05/class-of-2013-student-debt-reaches-new.md)
+[Class Of 2013 Student Debt Reaches New Heights](05/class-of--student-debt-reaches-new.md)
 
 [Do the Massacres in Bayda and Banyas Portend Ethnic Cleansing to Create an Alawite State?](05/do-massacres-in-bayda-and-banyas.md)
 
@@ -294,7 +294,7 @@
 
 [School is a prison — and damaging our kids](09/school-is-prison-and-damaging-our-kids.md)
 
-[Forget the new iPhone](09/screw-new-iphone.md)
+[Forget the new iPhone, Phonebloks](09/screw-new-iphone.md)
 
 [Student Debt Is Making All Your Life Choices Worse](09/student-debt-is-making-all-your-life.md)
 

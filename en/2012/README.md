@@ -1,3 +1,5 @@
+# 2012
+
 [19-Year-Old Isaac Newton’s List of Sins](01/19-year-old-isaac-newtons-list-of-sins.md)
 
 [After SOPA, PIPA](01/after-sopa-pipa.md)
