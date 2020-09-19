@@ -151,12 +151,6 @@ Files
 
 References
 
-[1] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
-
-[2] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
-
-[3] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
-
 [4] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
 [5] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
