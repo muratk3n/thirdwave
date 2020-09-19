@@ -68,7 +68,7 @@ border. Period"
 ---
 
 Einstein advice on being useful is now more relevant than ever; bcz of
-decaying system a slap on the back / "success" / wealth might not
+decaying system a pat on the back / "success" / wealth might not
 always indicate value. Fictional character Gordon Gekko was
 successful, but was he useful?
 
