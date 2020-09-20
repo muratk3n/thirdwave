@@ -97,7 +97,7 @@ fuels"
 
 ---
 
-Not bad Italy... late in the game but now doing well now? \#covid
+Not bad Italy... late in the game but doing well now? \#covid
 
 [Link](https://www.youtube.com/watch?v=brq0NLN7uG0)
 
