@@ -55,8 +55,8 @@ militia but provides no public services"
 
 ---
 
-Americans are being are treated like Mexicans.. Soon there will be a
-wall btw US and Canada.
+Americans are being treated like Mexicans.. Soon there will be a wall
+btw US and Canada.
 
 "@BillBlair
 
