@@ -103,8 +103,7 @@ Not bad Italy... late in the game but doing well now? \#covid
 ---
 
 K-shaped recovery? :) So with this one econ splits in to two, recovery
-for the rich, continuing crisis for the rest (kinda like post 2008 I
-guess)
+for the rich, continuing crisis for the rest (kinda like post 2008?)
 
 ---
 
