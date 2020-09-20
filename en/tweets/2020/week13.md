@@ -181,16 +181,6 @@ app. One less unnecessary interaction.
 
 ---
 
-Corona update, 93K in 2 days. Death rate 15.85 %. 
-
-Average daily increase since March 1 is 12.23 %.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-26 16:10:39*
-
----
-
 Initial unemp claims. Over 3 million!
 
 Dude that line upwards has no paralel. Effin freaky shit!
@@ -614,14 +604,6 @@ therefore X is wrong”. Don’t fall for it. Meanwhile hospitals are
 incorporating HCQ into their protocols as fast as they can write them"
 
 *2020-3-24 19:35:41*
-
----
-
-Corona update: 136K more in 4 days. Death rate now at 14.26 %.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-24 18:8:41*
 
 ---
 

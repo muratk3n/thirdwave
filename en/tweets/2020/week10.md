@@ -359,14 +359,6 @@ for work that can easily be done remotely"
 
 ---
 
-Corona map update, 10K more in 5 days
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-5 19:37:13*
-
----
-
 "Scientists Found a Caterpillar That Eats Plastic.
 
 Could It Help Solve our Plastic Crisis?"

@@ -545,14 +545,6 @@ is pretty much the exact same process as for a gasoline car"
 
 ---
 
-COV: 178K in 2 days. Daily % change down to 2.33. US turned gray -
-sadly.
-
-[Link](../../2020/02/corona.html)
-
-*2020-4-28 20:12:35*
-
----
 
 "@aaronstein1
 

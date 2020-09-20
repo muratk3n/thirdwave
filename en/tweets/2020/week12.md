@@ -549,14 +549,6 @@ are passed to the function from outside.
 
 ---
 
-Corona update: 56K more cases in 4 days. Death rate 9.4%. 
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-19 8:10:1*
-
----
-
 Epic
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#claims)

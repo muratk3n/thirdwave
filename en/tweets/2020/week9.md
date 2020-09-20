@@ -116,16 +116,6 @@ protect itself from this kind of virus"
 
 ---
 
-Coronav update - 6K more in 3 days, total >85K, now it is in Latin
-America, Europe got worse. Iran is *slammed*. Boy did the mullahs get
-it.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-2-28 21:25:29*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Powered by hydrogen, Hyundai&#39;s trucks aim to conquer the Swiss Alps <a href="https://t.co/Y1uj3u6ues">https://t.co/Y1uj3u6ues</a> <a href="https://t.co/oZ5RVpCYyF">pic.twitter.com/oZ5RVpCYyF</a></p>&mdash; Reuters UK (@ReutersUK) <a href="https://twitter.com/ReutersUK/status/1233370117054095360?ref_src=twsrc%5Etfw">February 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-2-28 20:49:9*
@@ -1097,14 +1087,6 @@ the reasons claimed.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In an Australian-first, a solar to hydrogen-based microgrid for the World Heritage Protected Daintree Rainforest, is yet another step closer to reality. <br>Read more here: <a href="https://t.co/envZ6KvHo9">https://t.co/envZ6KvHo9</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/cleantech?src=hash&amp;ref_src=twsrc%5Etfw">#cleantech</a> <a href="https://twitter.com/hashtag/greenenergy?src=hash&amp;ref_src=twsrc%5Etfw">#greenenergy</a> <a href="https://twitter.com/hashtag/daintreeforest?src=hash&amp;ref_src=twsrc%5Etfw">#daintreeforest</a> <a href="https://twitter.com/hashtag/biogas?src=hash&amp;ref_src=twsrc%5Etfw">#biogas</a> <a href="https://twitter.com/hashtag/carbonfree?src=hash&amp;ref_src=twsrc%5Etfw">#carbonfree</a> <a href="https://t.co/nSethVDgkU">pic.twitter.com/nSethVDgkU</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1232425265361489920?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-2-26 1:17:8*
-
----
-
-Updated the coronavirus map. 3K more in 3 days.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-2-26 0:51:7*
 
 ---
 

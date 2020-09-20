@@ -354,15 +354,6 @@ compartments that even Titanic had"
 
 ---
 
-COV update, 109K more new confirmed cases in 2 days. Daily inc rate is
-down around 8%.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-4-2 13:8:1*
-
----
-
 RIP. TTUD was a good movie. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There would be no Playtone without Adam Schlesinger, without his That Thing You Do! He was a One-der. Lost him to Covid-19. Terribly sad today. Hanx</p>&mdash; Tom Hanks (@tomhanks) <a href="https://twitter.com/tomhanks/status/1245507869618737152?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -655,17 +646,6 @@ demerit, poked, informed (as much as they could), worked to front-run
 decision-makers, etc. Important job.
 
 *2020-3-31 21:03:0*
-
----
-
-COV, 113K in 1 day. Mongolia is the place to be - not much going on,
-ride your horses eat your General Genghis Khan's Chicken...?  There is
-a global deceleration tho.. good. Down to 8.6% in daily chg from 13%
-four days ago.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-31 20:57:20*
 
 ---
 
