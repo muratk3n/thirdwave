@@ -317,14 +317,6 @@ so far have been lost to the economy pause?"
 
 ---
 
-COViD update: 373K more cases in 4 days. Daily change % down to 6.02.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-4-8 21:28:59*
-
----
-
 "@plutokiller
 
 Zoomed with my brother in Washington State yesterday afternoon and he

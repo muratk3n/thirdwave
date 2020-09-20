@@ -1,12 +1,5 @@
 # Tweets - Log
 
-Corona update - 24K more in 2 days, death rate 7.3%
-
-[Link](../../2020/02/corona.md)
-
-*2020-3-15 18:38:45*
-
----
 
 The new Picard show: I like how Picard was dismissive of the pyramids
 labeling them as "vanity projects".
@@ -467,14 +460,6 @@ Widening the pipes > paying rent-seeking miners for priority on slow networks"
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The turning point of history has arrived <a href="https://t.co/lrZ5vepP8U">pic.twitter.com/lrZ5vepP8U</a></p>&mdash; Karl Sharro (@KarlreMarks) <a href="https://twitter.com/KarlreMarks/status/1238437072593137664?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-13 16:4:30*
-
----
-
-COVID19 map update: 24K more cases in 4 days. Death rate 6.7%
-
-[Link](../../2020/02/corona.md)
-
-*2020-3-13 15:45:18*
 
 ---
 
@@ -1243,16 +1228,6 @@ There is a thing called Lipschitz continuity in Analysis. My mind
 keeps autocompleting "dipshit" instead of Lipschitz 🙄
 
 *2020-3-9 21:45:59*
-
----
-
-Corona: 5K more in 4 days. Confirmed 113008. 
-
-Death rate: 6%. Very high. Not good.
-
-[Link](../..2020/02/corona.md)
-
-*2020-3-9 21:17:45*
 
 ---
 

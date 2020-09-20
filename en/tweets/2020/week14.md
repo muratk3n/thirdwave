@@ -63,21 +63,6 @@ of the past week into the close today, here are the returns: LQD
 
 ---
 
-COV: 170K more confirmed in two days. The trend down in daily inc
-continued. Over 8% is still bad of course.
-
-```
-2020-03-31       9.60
-2020-04-01       8.76
-2020-04-02       8.64
-2020-04-03       8.17
-```
-[Link](../../2020/02/corona.md)
-
-*2020-4-4 9:7:37*
-
----
-
 Hardball 😆😆 I am lovin it
 
 "@spectatorindex
@@ -992,26 +977,6 @@ Waaa waaa waaa waaaa
 
 ---
 
-COV update, 174K more cases in 3 days.
-
-Change in coloring scheme - now the colors show "new cases",
-calculated as confirmed - (recovered+death). China had its color
-downgrade to indianred their numbers have caught up, new confirmed
-cases do not appear as fast. As new cases decrease, the colors should
-get lighter, eventually hopefully all clean. 
-
-Death rate: now that China's new cases slowed the fate of most of the
-patients became clear, and if we believe their numbers, death rate is
-near 4%. It sure as shit is not 1% tho...
-
-As comparison the Spanish Flu death rate was 2%, it killed 50 million
-in a population much less in numbers compared to now.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-30 11:7:20*
-
----
 
 Wow. 
 

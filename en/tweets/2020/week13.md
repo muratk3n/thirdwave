@@ -34,17 +34,6 @@ Holy shit. Boris Johnson tested positive for COV. Hope he gets well soon.
 
 ---
 
-Covid update, 59K more cases in one day, death rate 16.2 %. US has now
-highest confirmed cases. Daily change same, on avg 12.21% increase,
-which is, crazy.
-
-[Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-3-27 14:18:55*
-
----
-
-
 Maybe there is no need for most optimization, an interpolation does
 huge amt of work already, there is a constant push-and-pull to explain
 all the data, the global minimum can be a simple side product to that.

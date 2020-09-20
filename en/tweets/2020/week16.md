@@ -225,13 +225,6 @@ Daam. That celeb day was a big deal in RU, no?
 
 ---
 
-COV: 244K more in 3 days.
-
-[Link](../../2020/02/corona.md)
-
-*2020-4-18 10:54:51*
-
----
 
 "@jasonhickel
 
@@ -703,22 +696,6 @@ IDENTIFYING AN INCOMING WORLDKILLER ASTEROID AND NUKING IT TO SHREDS?"
 
 ---
 
-COV update, 280K more cases in 4 days. Daily chg rate down to
-3.07%. Pattern
-
-```
-2020-04-11       4.72
-2020-04-12       4.24
-2020-04-13       3.83
-2020-04-14       3.07
-```
-
-[Link](../../2020/02/corona.md)
-
-*2020-4-15 13:19:57*
-
----
-
 Hey.. if A.C. is on this thing, watch out
 
 "One of the most attractive features of hydrogen technology as an energy carrier is its adaptability and versatility. Furthermore, existing infrastructure can produce, store, and transport energy in multiple ways, and hydrogen can be extracted from renewable and non-renewable resources. Hydrogen can also be converted to methane and electricity to power homes, or transformed into fuel for mobility. Hydrogen is one of the preferred options for storing excess energy produced from renewables—using water electrolysis technology, excess renewable electricity is used to split water into oxygen and hydrogen, which can then be stored in tanks. Hydrogen gas has the highest energy content of any fuel, as it has the capability to store substantial amounts of energy in a small amount of hydrogen. As a result, the technology is projected to be a low-cost option for energy storage over extended periods of time, making renewables a more attractive energy source for widespread adoption"
@@ -1103,15 +1080,6 @@ lost and confused.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe having private equity vultures staff almost all of our emergency rooms in America was a bad idea? <a href="https://t.co/1eEw1N9dkb">https://t.co/1eEw1N9dkb</a></p>&mdash; David Dayen (@ddayen) <a href="https://twitter.com/ddayen/status/1249007997931507712?ref_src=twsrc%5Etfw">April 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-11 19:53:59*
-
----
-
-Covid-*Wuhan* update: 242K more in 3 days. Daily change % down to
-4.72.
-
-[Link](../../2020/02/corona.md)
-
-*2020-4-11 19:29:6*
 
 ---
 

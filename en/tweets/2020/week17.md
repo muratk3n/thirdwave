@@ -24,14 +24,6 @@ immediately deliver $10,000 to all American citizens in exchange for a
 
 ---
 
-COV: Improvement East Europe, Finland, Norway. 364K new cases in 4 days.
-
-[Link](../../2020/02/corona.md)
-
-*2020-4-26 9:8:1*
-
----
-
 "HydroSil [an H2 carrier] is stable and non-toxic and uses the same
 logistic as conventional liquid fuels"
 
@@ -787,15 +779,6 @@ fan for comps, which country do you go to? Where do you really belong?
 "Richard Branson throws shade at Australian government for refusing bailout"
 
 *2020-4-22 7:44:50*
-
----
-
-298K in 4 days. Colors started getting lighter in some areas, few
-regions in Europe, CH and surrounding area, Australia.
-
-[Link](../../2020/02/corona.md)
-
-*2020-4-22 7:41:0*
 
 ---
 
