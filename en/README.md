@@ -58,7 +58,7 @@ docked at port (also known as ‘cold ironing’)"
 
 ---
 
-I want one
+Want One
 
 <img width="340" src="https://pbs.twimg.com/media/EibPfZWXsAYTYYV?format=jpg&name=small"/>
 
@@ -101,12 +101,6 @@ the background
 
 ---
 
-I wonder how much predictive power the neighboring quakes have for
-predicting a quake in a particular location 🤔
-
----
-
-
 Have to be more media / legal savy... Look at the monkey boy.. The
 weasel fuck knows how to play the media and adapt to every
 situation. That's how such an inferior tech, as in battery based cars
@@ -115,6 +109,11 @@ came so far.
 ---
 
 NKLA WTF?
+
+---
+
+I wonder how much predictive power the neighboring quakes have for
+predicting a quake in a particular location 🤔
 
 ---
 
