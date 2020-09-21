@@ -109,8 +109,8 @@ predicting a quake in a particular location 🤔
 
 Have to be more media / legal savy... Look at the monkey boy.. The
 weasel fuck knows how to play the media and adapt to every
-situation. It is a miracle such an inferior tech, as in BEVs, came so
-far.
+situation. That's how such an inferior tech, as in battery based cars
+came so far.
 
 ---
 
