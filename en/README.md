@@ -40,7 +40,7 @@ geothermal, green \#hydrogen, long-duration storage.'"
 
 "Ballard Power Systems (NASDAQ: BLDP; TSX: BLDP) today announced the
 launch of the fuel cell industry’s first module designed for primary
-propulsion power in marine vessels. Ballard’s FCwaveTM fuel cell
+propulsion power in marine vessels. Ballard’s FCwave fuel cell
 product is a 200-kilowatt (kW) modular unit that can be scaled in
 series up to the multi-megawatt (MW) power level.
 
