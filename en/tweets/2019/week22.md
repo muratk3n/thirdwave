@@ -12,11 +12,11 @@ Pros: Cheaper ($500 vs $1000), can be used as Android touchscreen tablet, Ubuntu
 
 Cons: A bit slower, Android apps not as good as OSX apps"
 
-https://www.amazon.com/dp/B07Q2RB6BY/ref=cm_sw_em_r_mt_dp_U_7qH6CbMNZ6G20
+[Link](https://www.amazon.com/dp/B07Q2RB6BY/ref=cm_sw_em_r_mt_dp_U_7qH6CbMNZ6G20)
 
 My link:
 
-https://support.google.com/chromebook/answer/9145439?hl=en
+[Link](https://support.google.com/chromebook/answer/9145439?hl=en)
 
 ---
 
@@ -83,13 +83,13 @@ Hinton spun up a good tale around this biz, hinting this "statistical stuff" is 
 
 ---
 
-https://www.zdnet.com/article/hydrogen-powered-air-taxi-yup-its-real/
+[Link](https://www.zdnet.com/article/hydrogen-powered-air-taxi-yup-its-real/)
 
 "Liquid #h2 has 200x greater energy density than Li-ion batteries by weight"
 
 ---
 
-https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground
+[Link](https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground)
 
 "More natural gas isn’t a “middle ground” — it’s a climate disaster"
 
@@ -101,7 +101,7 @@ Keine Fahrvergnugen
 
 ---
 
-https://twitter.com/SheepleAnalytic/status/1134069887503147008
+[Link](https://twitter.com/SheepleAnalytic/status/1134069887503147008)
 
 "Sorry to the athlete who worked her whole life to become the best only to finish in 2nd place at the NCAA Championships because she was racing a man. Better luck next time."
 
@@ -118,7 +118,7 @@ If nothing is done on this, sabotage on key fossil fuel infrastructure will be t
 
 ---
 
-https://twitter.com/kaffjamesnewtow/status/1133698731809923072
+[Link](https://twitter.com/kaffjamesnewtow/status/1133698731809923072)
 
 "Is Audi breaking ranks with VW Group over hydrogen strategy?"
 
@@ -165,13 +165,13 @@ Hmmm...
 
 Blair banging on the drum 
 
-https://youtu.be/w_4hL2Xw5qU 
+[Link](https://youtu.be/w_4hL2Xw5qU )
 
 I still want Corbyn as PM. His angle probably is  pullimg himself out of any controversial pos so Cons destroy themselves thorougly.. Hopefully this doesnt harm Labor in the process.
 
 ---
 
-https://twitter.com/kaffjamesnewtow/status/1133408952891400192
+[Link](https://twitter.com/kaffjamesnewtow/status/1133408952891400192)
 
 "Nikola Founder Trevor Milton Wants to Build iPhone of Trucks"
 

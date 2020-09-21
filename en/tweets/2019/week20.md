@@ -1,5 +1,6 @@
 
-https://twitter.com/ErikSolheim/status/1130108372488007683
+
+[Link](https://twitter.com/ErikSolheim/status/1130108372488007683)
 
 Schools in Mexico City were closed this week due to a heavy cloud
 of smog blanketing the city. Parks closed. People wearing
@@ -55,12 +56,7 @@ It aint that bad. Given a choice btw Biden and Trump progs can
 consider staying home. We need to stamp on centrism like stamping on
 cockroach. They are nothing but bad news.
 
-https://twitter.com/LukewSavage/status/1129805272103493637
-
----
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Gerbs, what up bro? <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> <a href="https://twitter.com/GerberKawasaki?ref_src=twsrc%5Etfw">@GerberKawasaki</a></p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1129469839674941441?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://twitter.com/LukewSavage/status/1129805272103493637)
 
 ---
 
@@ -96,7 +92,7 @@ Then see picture
 Godot game engine - completely free completely open source - https://youtu.be/IPCv6F-IgXU?t=75 … - tuber said exactly what I was thinking - this is the Linux of game engines. 
 Its hd footprint is small. Getting crazy updates, improvements.
 
-https://www.youtube.com/watch?v=IPCv6F-IgXU&feature=youtu.be&t=75
+[Link](https://www.youtube.com/watch?v=IPCv6F-IgXU&feature=youtu.be&t=75)
 
 ---
 
@@ -112,7 +108,7 @@ U wanna end up like Venus? V had a runaway greenhouse effect; CO2 led to more CO
 
 Winter Soldier
 
-https://twitter.com/ChemistryNews/status/1129382327597977602
+[Link](https://twitter.com/ChemistryNews/status/1129382327597977602)
 
 "Darpa wants to genetically engineer soldiers’ skin bacteria to protect them from mosquitoes"
 
@@ -149,9 +145,9 @@ Someone in the reply shared this
 TEN LESSONS I WISH I HAD LEARNED BEFORE I STARTED TEACHING
 DIFFERENTIAL EQUATIONS
 
-https://web.williams.edu/Mathematics/lg5/Rota.pdf
-
 "'Never in my life have I heard of anyone solving a first order differential equation by finding an integrating factor.' -- Gian-Carlo Rota"
+
+[Link](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 
 ---
 
@@ -169,7 +165,7 @@ I have a knack 4 being at the right place for historical shit. Now I am at the p
 
 "After all these years I’m still not sure if MCMC is a good idea or not"
 
-https://twitter.com/stochastician/status/1129043807692087300
+[Link](https://twitter.com/stochastician/status/1129043807692087300)
 
 ---
 
@@ -201,7 +197,7 @@ Billions lost its spark.
 
 The 120k number is oddly reassuring because it suggests the Iran conplan being discussed and leaked is old.
 
-https://twitter.com/aaronstein1/status/1128241759446867968
+[Link](https://twitter.com/aaronstein1/status/1128241759446867968)
 
 ---
 
@@ -216,7 +212,7 @@ material made from manganese hydride that [..can..] be used to make
 molecular sieves within fuel tanks—which store the hydrogen [..] The
 material, called KMH-1 would enable [better] tanks"
 
-https://m.phys.org/news/2019-05-material-potential-hydrogen-powered-vehicle.html
+[Link](https://m.phys.org/news/2019-05-material-potential-hydrogen-powered-vehicle.html)
 
 ---
  
@@ -234,7 +230,7 @@ Whenever I see a tv movie and they have equations on a blackboard, I quickly sca
 
 Sman and industrialization 
 
-https://www.youtube.com/watch?v=IFUNh1Ba3Xg&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=IFUNh1Ba3Xg&feature=youtu.be)
 
 ---
 
@@ -264,7 +260,7 @@ Anyone who tells you Americans want to keep their insurance is straight up lying
 
 "Quantum Mechanics is wrong. There, I’ve said it." - Sabine Hossenfelder
 
-http://backreaction.blogspot.com/2019/05/quantum-mechanics-is-wrong-there-ive.html?m=1
+[Link](http://backreaction.blogspot.com/2019/05/quantum-mechanics-is-wrong-there-ive.html?m=1)
 
 ---
 
@@ -298,7 +294,7 @@ Science of AI falling behind
 
 "All my grad students are fitting shit [paraphrasing]" she says. Sad.
 
-https://www.youtube.com/watch?v=4QBvSVYotVc&feature=youtu.be&t=1897
+[Link](https://www.youtube.com/watch?v=4QBvSVYotVc&feature=youtu.be&t=1897)
 
 ---
 
@@ -346,7 +342,7 @@ Sage the Gemini - Now & Later #music
 
 Hey that was pretty good Nixon
 
-https://www.youtube.com/watch?v=4-rj1gVl6vs&feature=youtu.be&t=1420
+[Link](https://www.youtube.com/watch?v=4-rj1gVl6vs&feature=youtu.be&t=1420)
 
 ---
 
@@ -354,6 +350,7 @@ Much was made by Gingrich's temper tantrum during the 95 budget debacle. To many
 
 "We got this all covered, now all that is left for you others (Reps) to show up and vote yey to what we say". Centrists dont realize this drives others insane and they do all they can to undermine you.
 
+---
 
 
 

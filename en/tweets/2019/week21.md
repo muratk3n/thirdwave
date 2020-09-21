@@ -17,7 +17,7 @@ become. Reps u sorta expect, but them too? Sad.
 
 ---
 
-https://twitter.com/SolarInMASS/status/1132043193426632705
+[Link](https://twitter.com/SolarInMASS/status/1132043193426632705)
 
 "Many of those tests didn’t approach the required 275 miles, usually ending somewhere in the low 200-mile range, as the range report from IndyGo reveals. On one frigid day, range was limited to 152 miles. 1/3"
 
@@ -27,7 +27,7 @@ Is Biden truly the frontrunner? From the way MSM is trying to trash Bernie it do
 
 ---
 
-https://twitter.com/Sustainable2050/status/1131990281572835328
+[Link](https://twitter.com/Sustainable2050/status/1131990281572835328)
 
 "Europe has started to build world’s largest power plant: 180 GW of offshore wind capacity, dwarfing China’s Three Gorges Dam (22.5 GW)! 
 13 GW is already in operation and ~50 GW will be completed by 2030."
@@ -44,7 +44,7 @@ They have one example where everything 4 the demo is in one file. Simple. Keepin
 
 ---
 
-https://twitter.com/ChemistryNews/status/1132034049260658688
+[Link](https://twitter.com/ChemistryNews/status/1132034049260658688)
 
 "Comet inspires chemistry for making breathable oxygen on Mars"
 
@@ -103,7 +103,7 @@ Watching a youtube lesson dude had himself shown on screen as a racoon. So I am 
 
 ---
 
-https://twitter.com/patio11/status/1130845608078483458
+[Link](https://twitter.com/patio11/status/1130845608078483458)
 
 "You don’t need permission to do hard things, but the world thinks you need permission to do hard things, and it will tell you this, and so many people who are capable of doing hard things have no demonstrable success at it because they haven’t received permission yet."
 
@@ -128,7 +128,7 @@ Substance abuse can be a problem 4 some even.
 
 ---
 
-https://twitter.com/BrianRoemmele/status/1130666014327230464
+[Link](https://twitter.com/BrianRoemmele/status/1130666014327230464)
 
 “Switching from gathering and hunting to farming made life 50 per cent more difficult for humans, a study by Cambridge University suggests”—Nature Human Behaviour
 
@@ -140,7 +140,7 @@ Some were arguing ML belongs under CS. It probably should go under Statistics. T
 
 Tsck tsck tsck ... that is kerosene/LOX, environmentally unclean. SpaceX also pollutes env through similar dirty fuel (rp-1)... U know what to do. Dont make me say the two-letter word.
 
-https://twitter.com/Virgin_Orbit/status/1113135791050457103
+[Link](https://twitter.com/Virgin_Orbit/status/1113135791050457103)
 
 ---
 

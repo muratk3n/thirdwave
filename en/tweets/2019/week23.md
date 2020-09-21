@@ -38,13 +38,13 @@ Haha.. this is better. "Battle for 5G" is hiding a bigger suck.
 
 ---
 
-https://twitter.com/AndrewDessler/status/1128318113085366272
+[Link](https://twitter.com/AndrewDessler/status/1128318113085366272)
 
 Prediction of the future from 1982 by @exxonmobil , along with data showing how it has actually evolved.  Exxon's predictions were extremely accurate.
 
 ---
 
-https://www.theguardian.com/us-news/2019/jun/07/change-is-coming-al-gore-says-economics-will-break-fossil-fuel-dinosaurs?CMP=share_btn_tw
+[Link](https://www.theguardian.com/us-news/2019/jun/07/change-is-coming-al-gore-says-economics-will-break-fossil-fuel-dinosaurs?CMP=share_btn_tw)
 
 Al Gore: "Australia can become the renewable energy superpower of the 21st century by exporting renewable electricity and hydrogen produced by extremely cheap electricity in the off-hours, here in Australia"
 
@@ -56,7 +56,7 @@ On this Huawei stuff everyone seems to be repeating what they heard from eachoth
 
 #SELFIE (Official Music Video) - The Chainsmokers
 
-https://www.youtube.com/watch?v=kdemFfbS5H0&feature=youtu.be&t=4
+[Link](https://www.youtube.com/watch?v=kdemFfbS5H0&feature=youtu.be&t=4)
 
 Too funny
 
@@ -76,7 +76,7 @@ We need bancor. We cant _plead_  creditor countries to be nicer to debtors, or _
 
 ---
 
-https://twitter.com/kawasook/status/1136673036277493760
+[Link](https://twitter.com/kawasook/status/1136673036277493760)
 
 “There was no glory on the beach that day. Just a lot of blood and screams and young men dying. .... we were all boys.”
 
@@ -102,7 +102,7 @@ on that battlefield. Nothing is sacred.
 
 ---
 
-https://twitter.com/orthereaboot/status/1136272210061070341
+[Link](https://twitter.com/orthereaboot/status/1136272210061070341)
 
 Rumors swirling $tsla suppliers continue to abandon the automaker in droves as banks will no longer factor or insure $tsla receivables.  
 
@@ -115,13 +115,13 @@ Fact check: true.
 
 ---
 
-https://twitter.com/ipam_ucla/status/1136314830116179968
+[Link](https://twitter.com/ipam_ucla/status/1136314830116179968)
 
 Universal Method to Sort Complex Information Found
 
 ---
 
-https://twitter.com/gabrielpeyre/status/1136135614443741184
+[Link](https://twitter.com/gabrielpeyre/status/1136135614443741184)
 
 The solution of the Eikonal equation is solved by advancing a front in the normal direction, similar to a grass fire. The most famous Hamilton-Jacobi equation. Refraction occurs when the speed has a discontinuity (Snell–Descartes law).
 
@@ -186,7 +186,7 @@ confused for a progressive. What will come of your image then? :o
 
 ---
 
-https://twitter.com/DoveyWan/status/1131372473482711040
+[Link](https://twitter.com/DoveyWan/status/1131372473482711040)
 
 I remembered clearly how I turned from a physics hater into a lover after my dad bought me the  Feynman Lectures on Physics and played with me on some intriguing optics experiments
 
