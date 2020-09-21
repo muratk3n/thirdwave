@@ -77,7 +77,7 @@ science.  There are still flat-earthers. We've known Earth is not flat
 for over two millenia. Yet the so-called "educated" would be hard
 pressed to prove this fact starting from simple assumptions, hence
 they cannot prove it to others with convictionn, disinformation
-grows. We created a culture of technobabble with little knowledge.
+grows. We created a culture of technobabble with little true knowledge.
 
 ---
 
@@ -90,7 +90,7 @@ their environment"
 
 ---
 
-Im giving Oracle a hard time.. their software is all clunky, closed, not hip.
+Im giving Oracle a hard time.. their software is all clunky, closed, unhip.
 
 ---
 
