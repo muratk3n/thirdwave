@@ -19,7 +19,7 @@ No superhero makes Europeans laugh more than Batman. There's something abt that 
 
 Dubai's massive solar energy site. Energy storage method: molten salt -
 
-https://www.forbes.com/sites/johnparnell/2018/12/31/dubai-makes-progress-in-pursuit-of-round-the-clock-solar-power/
+[Link](https://www.forbes.com/sites/johnparnell/2018/12/31/dubai-makes-progress-in-pursuit-of-round-the-clock-solar-power/)
 
 ---
 
@@ -120,7 +120,7 @@ weather)."
 "Study shows electric cars lose 41% of range in ‘icy temperature’,
 Tesla disputes the claim"
 
-https://electrek.co/2019/02/07/study-electric-cars-lose-range-temperature-tesla-disputes/
+[Link](https://electrek.co/2019/02/07/study-electric-cars-lose-range-temperature-tesla-disputes/)
 
 ---
 

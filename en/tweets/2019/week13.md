@@ -261,7 +261,7 @@ multilang support for native app dev as well, it would be even
 better. Serving apps over Termux / Flask is fine 4 now, sayin just in
 case.
 
-https://www.youtube.com/watch?v=UgKFBgcyyAo
+[Link](https://www.youtube.com/watch?v=UgKFBgcyyAo)
 
 ---
 
@@ -297,7 +297,7 @@ The Senate Republican Budget:
 
 "China’s Hydrogen Economy Is Coming"
 
-https://www.bloomberg.com/opinion/articles/2019-03-23/now-china-wants-to-lead-the-world-in-hydrogen-fuel-cells?utm_content=buffer86b02&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+[Link](https://www.bloomberg.com/opinion/articles/2019-03-23/now-china-wants-to-lead-the-world-in-hydrogen-fuel-cells?utm_content=buffer86b02&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 ---
 

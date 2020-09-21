@@ -21,9 +21,12 @@ weird. All agenda, top to bottom.
 
 ---
 
-It helps not seeing life as a movie. The *big* event, reward, harps play, spotlight turns on. This guy Kudlow said that too "everything in my life led to this (after joining WH)" asshole had a heart attack few weeks later. Not a movie.
+It helps not seeing life as a movie. The *big* event, reward, harps
+play, spotlight turns on. This guy Kudlow said that too "everything in
+my life led to this (after joining WH)" asshole had a heart attack few
+weeks later. Not a movie.
 
-https://twitter.com/jenheemstra/status/1124723833007681536
+[Link](https://twitter.com/jenheemstra/status/1124723833007681536)
 
 ---
 
@@ -133,8 +136,10 @@ Bremmer trying to defend belt and road "(parap) some countries in LatAm and EU d
 I've ever heard.
 
 The one thing my dad (an agricultural engineer, talked abt here
-https://muratk3n.github.io/thirdwave/en/2011/08/living-in-factory.html
-…) keeps saying for 30 yrs is changing TR land inherit laws so land is
+
+[Link](https://muratk3n.github.io/thirdwave/en/2011/08/living-in-factory.html)
+
+keeps saying for 30 yrs is changing TR land inherit laws so land is
 not divided (i.e. smaller)
 
 Bcz there are incredible efficiencies in big lands, industrialized
@@ -193,13 +198,13 @@ Some1 organizes a coup in Venezuella (other than my own country) and Maduro goes
 
 Zombies Time of the Season keyb solo, not bad..
 
-https://www.youtube.com/watch?v=qzpPy9hJYA8&feature=youtu.be&t=159
+[Link](https://www.youtube.com/watch?v=qzpPy9hJYA8&feature=youtu.be&t=159)
 
 Almost as good as
 
-https://www.youtube.com/watch?v=LCnebZnysmI&feature=youtu.be&t=238
+[Link](https://www.youtube.com/watch?v=LCnebZnysmI&feature=youtu.be&t=238)
 
-#music
+\#music
 
 ---
 
@@ -207,7 +212,10 @@ Fahrvergnugen
 
 @ANativeAngeleno
 
-"Daimler conducted an environmental check on the Mercedes-Benz GLC F-CELL, in which the environmental effects of the car are examined over the entire lifecycle. More at  http://ow.ly/fL0E50rsoFA .  #driveH2 #fuelcell #hydrogen"
+"Daimler conducted an environmental check on the Mercedes-Benz GLC
+F-CELL, in which the environmental effects of the car are examined
+over the entire lifecycle. More at http://ow.ly/fL0E50rsoFA .
+#driveH2 #fuelcell #hydrogen"
 
 ---
 
@@ -231,7 +239,7 @@ A coup is the same thing as the absence of democracy, left. Why do you care if i
 
 "This is “office hours” for a CS class at Cornell. Demand & supply of CS educators here totally out of wack. I assume many schools are facing the same problems with the sudden uptick of interest in the CS major."
 
-https://twitter.com/juliankoh/status/1123334738608099328
+[Link](https://twitter.com/juliankoh/status/1123334738608099328)
 
 @pkedrosky
 
@@ -268,13 +276,13 @@ Using Stokes Thm (essentially an integral) to compute which time series frontrun
 
 Foundation series in the works. TV land, dont f..k this up for me.
 
-https://m.imdb.com/title/tt0804484/?ref_=fn_al_tt_0
+[Link](https://m.imdb.com/title/tt0804484/?ref_=fn_al_tt_0)
 
 Finally for once I can smirk when ppl who didnt read the books on a series ask a question.
 
 ---
 
-https://twitter.com/robertghrist/status/1123401220687896577
+[Link](https://twitter.com/robertghrist/status/1123401220687896577)
 
 why learn differential forms & stokes' theorem? 
 besides the usual applications in physics, there are some lovely novel applications in data science...
@@ -352,7 +360,7 @@ Aaah Feynman does some stuff with the ammonia molecule in Lecs Vol 3 (calculates
 
 "Bosch abandoned #battery cell production and now invests in production of #fuelcells - interesting strategic move"
 
-https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html
+[Link](https://www.bosch-presse.de/pressportal/de/en/bosch-to-cooperate-in-large-scale-production-of-fuel-cells-for-trucks-and-cars-188480.html)
 
 ---
 
@@ -381,7 +389,7 @@ type is a king who cannot be).
 
 Hear hear goldcuck ... (Kyle Bass on gold)
 
-https://www.youtube.com/watch?v=IZP7FIu_O2I&feature=youtu.be&t=1316
+[Link](https://www.youtube.com/watch?v=IZP7FIu_O2I&feature=youtu.be&t=1316)
 
 ---
 
@@ -409,11 +417,11 @@ Weinstein is right; these are some of the smartest ppl in the world, who in thei
 
 Booorrriiiiing
 
-https://muratk3n.github.io/thirdwave/en/2018/12/linc-bi.html
+[Link](https://muratk3n.github.io/thirdwave/en/2018/12/linc-bi.html)
 
 Rep. Eric Swalwell: "I pledge to lead our country with a team of rivals"
 
-https://twitter.com/thehill/status/1117616280473874437
+[Link](https://twitter.com/thehill/status/1117616280473874437)
 
 ---
 
@@ -423,7 +431,7 @@ Learned something from Endgame. If you want to solve time travel, you calculate 
 
 This is Barbara Streisand-ish platitudism. "Why are there two parties can't they get along and agree?" No bitch. Haven't the Clinton era taught you anything?
 
-https://twitter.com/LukewSavage/status/1122297767324307456
+[Link](https://twitter.com/LukewSavage/status/1122297767324307456)
 
 @GeorgeTakei
 
@@ -433,13 +441,15 @@ https://twitter.com/LukewSavage/status/1122297767324307456
 
 "Most of us don’t know what a geometric modeling kernel or solid modeling kernel is, but every CAD or design application uses one to create shapes. It’s the underlying infrastructure that allows someone to do the math of CAD design"
 
-https://twitter.com/chr1sa/status/1122219434301485057
+[Link](https://twitter.com/chr1sa/status/1122219434301485057)
 
 ---
 
-I appreciate the intent but the tweets by the Mrs are too much like the messaging of the Just Say No campaign by Nancy Reagan. 
+I appreciate the intent but the tweets by the Mrs are too much like
+the messaging of the Just Say No campaign by Nancy Reagan.
 
-Wouldnt it be better to go after corps who pay zero tax, and not give them a tax cut which they would use to buy back their stock anyway?
+Wouldnt it be better to go after corps who pay zero tax, and not give
+them a tax cut which they would use to buy back their stock anyway?
 
 ---
 

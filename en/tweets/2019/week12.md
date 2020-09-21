@@ -140,7 +140,9 @@ screenshots of the blackboard for graphics.
 @hardmaru
 
 "This person took ~1700 pages of notes in mathematics lectures using
-LaTeX and Vim, and documented the workflow: https://t.co/eSTADiEY3R"
+LaTeX and Vim, and documented the workflow"
+
+[Link](https://t.co/eSTADiEY3R)
 
 ---
 
@@ -228,7 +230,7 @@ Wut?
 functional unit of the brain. Here's a review: Towards the neural
 population doctrine"
 
-https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990)
 
 ---
 
@@ -293,7 +295,7 @@ Interpreting physics news: if something sounds too scifi to be true, it probably
 
 ---
 
-https://fuelcellsworks.com/news/stanford-researchers-create-hydrogen-fuel-from-seawater/
+[Link](https://fuelcellsworks.com/news/stanford-researchers-create-hydrogen-fuel-from-seawater/)
 
 Stanford Researchers Create Hydrogen Fuel from Seawater
 

@@ -13,7 +13,7 @@ Wow, New York State budget director is not pulling punches
 
 [on losing Amazon's business]
 
-https://www.governor.ny.gov/news/open-letter-new-york-state-budget-director-robert-mujica-regarding-amazon
+[Link](https://www.governor.ny.gov/news/open-letter-new-york-state-budget-director-robert-mujica-regarding-amazon)
 
 ---
 
@@ -41,7 +41,7 @@ My current hood.. mountains further here
 
 Garry Kasparov: We need better humans, not less technology
 
-https://www.verdict.co.uk/garry-kasparov-humans-technology/amp/?__twitter_impression=true
+[Link](https://www.verdict.co.uk/garry-kasparov-humans-technology/amp/?__twitter_impression=true
 
 ---
 
@@ -77,7 +77,7 @@ however, the #s were clear & was a proponent of "rebalance" when possib.
 ---
 
 "Crash-test dummies based on the ‘average’ male are just one example
-of design that forgets about women – and puts lives at risk" https://
+of design that forgets about women – and puts lives at risk" 
 
 ---
 
@@ -236,7 +236,7 @@ US antitrust laws are hopelessly out of date. They are designed to prohibit pric
 
 Nice. This is no electrolysis BTW. No electricity is ran through the water. U simply shine the light on the thing, and starts generating hydrogen. Much closer to how nature generates energy perhaps, e.g. plants.
 
-https://twitter.com/WarWithTheDinos/status/1097955473804926978
+[Link](https://twitter.com/WarWithTheDinos/status/1097955473804926978)
 
 "A Process to Produce Hydrogen from Water Using Sunlight Reaches 16.2% Efficiency, on Its Way to Meeting DOE Target "
 
@@ -244,7 +244,7 @@ https://twitter.com/WarWithTheDinos/status/1097955473804926978
 
 I always thought sticthing w needle and thread was kinda stupid. Took long enough.
 
-https://twitter.com/IntEngineering/status/1097618689401053184
+[Link](https://twitter.com/IntEngineering/status/1097618689401053184)
 
 "This device stitches you up without the need of stitches via http://zipstitch.us "
 
@@ -272,7 +272,12 @@ I know of too many scifi actors.
 
 @rcwhalen
 
-It costs more to own a home than to rent one in every U.S. state | https://www.housingwire.com/articles/48210-it-costs-more-to-own-a-home-than-to-rent-one-in-every-us-state …? | Ditto. Send your thank you notes to Ben and Janet c/o @federalreserve  #LGD
+It costs more to own a home than to rent one in every U.S. state |
+
+[Link](https://www.housingwire.com/articles/48210-it-costs-more-to-own-a-home-than-to-rent-one-in-every-us-state)
+
+ Ditto. Send your thank you notes to Ben and Janet c/o
+@federalreserve #LGD
 
 ---
 
@@ -282,7 +287,11 @@ As well as one shot answers, I need one-shot, text/csv based plain answers. Ther
 
 @jamesvlahos
 
-"When AIs become oracles, it changes everything. Exclusive first excerpt from Talk to Me! https://www.wired.com/story/amazon-alexa-search-for-the-one-perfect-answer/?mbid=social_twitter_onsiteshare … … via @WIRED @williamtp @anthonylydgate @nxthompson @pardesoteric"
+"When AIs become oracles, it changes everything. Exclusive first excerpt from Talk to Me!
+
+[Link](https://www.wired.com/story/amazon-alexa-search-for-the-one-perfect-answer/?mbid=social_twitter_onsiteshare)
+
+via @WIRED @williamtp @anthonylydgate @nxthompson @pardesoteric"
 
 "Amazon Alexa and the Search for the One Perfect Answer"
 
@@ -292,7 +301,7 @@ As well as one shot answers, I need one-shot, text/csv based plain answers. Ther
 
 My latest exclusive for @thedailybeast: 2 US intelligence agencies have reviewed Russia's January press conference on the SSC-8 (the INF-busting missile) and determined it was largely misdirection. Nothing relevant to the actual missile was shown.
 
-https://t.co/XHhVGxgr50
+[Link](https://t.co/XHhVGxgr50)
 
 ---
 

@@ -1,7 +1,7 @@
 
 China: USTC Researchers Discover Cheaper Approach to Producing Hydrogen
 
-https://fuelcellsworks.com/news/china-ustc-researchers-discover-cheaper-approach-to-producing-hydrogen/
+[Link](https://fuelcellsworks.com/news/china-ustc-researchers-discover-cheaper-approach-to-producing-hydrogen/)
 
 ---
 
@@ -106,9 +106,11 @@ I wonder if I really bust my ass I can contribute something to molecular chemist
 
 ---
 
-“It’s physics,” he said, adding that to charge an EV with the same amount of energy in the same amount of time as a gasoline car, you’d need a charger powerful “enough to run a small city”.
+“It’s physics,” he said, adding that to charge an EV with the same
+amount of energy in the same amount of time as a gasoline car, you’d
+need a charger powerful “enough to run a small city”.
 
-https://www.reuters.com/article/us-autoshow-shanghai-electric-insight/the-uphill-road-battery-limitations-to-test-chinas-electric-vehicle-ambitions-idUSKCN1RS06T
+[Link](https://www.reuters.com/article/us-autoshow-shanghai-electric-insight/the-uphill-road-battery-limitations-to-test-chinas-electric-vehicle-ambitions-idUSKCN1RS06T)
 
 ---
 
@@ -116,7 +118,7 @@ Fantastic. I can't wait existing approaches going belly up
 
 "Silicon Valley's Next Target: Disrupt the Construction and Real Estate Industries"
 
-https://twitter.com/BrendanFWallace/status/1118014714565390336
+[Link](https://twitter.com/BrendanFWallace/status/1118014714565390336)
 
 ---
 
@@ -130,7 +132,7 @@ LMAO
 
 "Prediction regarding Peter Buttigieg: this candidacy will expose the major faultiness between white gay men and the rest of the LGBTQ community."
 
-https://twitter.com/thrasherxy/status/1117562870194221057
+[Link](https://twitter.com/thrasherxy/status/1117562870194221057)
 
 ---
 
@@ -154,7 +156,7 @@ Without credit creation for asset purchases, and the thereby created asset price
 
 "The people who think Cersei is a feminist icon are the same people who think defense contractors having female CEOs is progress."
 
-https://twitter.com/EmmaVigeland/status/1117795621824544771
+[Link](https://twitter.com/EmmaVigeland/status/1117795621824544771)
 
 ---
 
@@ -174,11 +176,12 @@ These ppl are frozen in time.
 Fans who complain abt some DC movies; this game is almost as good as a
 movie. That's some great facial motion capture work!
 
-https://youtu.be/KrqxoNulfE0?t=4546
+[Link](https://youtu.be/KrqxoNulfE0?t=4546)
 
 ---
 
-Haven't read a book, with paper pages and cover and things for ages. Not missing it.
+Haven't read a book, with paper pages and cover and things for
+ages. Not missing it.
 
 ---
 

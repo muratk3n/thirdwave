@@ -16,7 +16,7 @@ and that into consumption.
 
 This is may be as important as Yang's UBI policy
 
-https://www.youtube.com/watch?v=D9uuOX-Zy0c&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=D9uuOX-Zy0c&feature=youtu.be)
 
 ---
 
@@ -27,7 +27,10 @@ https://www.youtube.com/watch?v=D9uuOX-Zy0c&feature=youtu.be
 
 @markrittman
 
-Three months into using a Pixelbook as my main consulting and dev laptop, doing @LookerData + @SnowflakeDB  dev in the cloud and running http://getdbt.com  from the built-in Linux CLI. One-third the cost of an Apple MBP, instant-on and a keyboard you can actually type on
+Three months into using a Pixelbook as my main consulting and dev
+laptop, doing @LookerData + @SnowflakeDB dev in the cloud and running
+http://getdbt.com from the built-in Linux CLI. One-third the cost of
+an Apple MBP, instant-on and a keyboard you can actually type on
 
 ---
 
@@ -145,7 +148,7 @@ We've gone from "it's only good for drugs and gambling" to "well it's not like E
 
 Relativity Wasn't Einstein's Miracle; It Was Waiting In Plain Sight For 71 Years
 
-https://www.forbes.com/sites/startswithabang/2019/03/01/relativity-wasnt-einsteins-miracle-it-was-waiting-in-plain-sight-for-71-years/ …
+[Link](https://www.forbes.com/sites/startswithabang/2019/03/01/relativity-wasnt-einsteins-miracle-it-was-waiting-in-plain-sight-for-71-years/ …)
  
 It wasn't the Michelson-Morley experiment, the Lorentz transformation, or the twin paradox that led Einstein's thoughts to relativity, but an 1834 experiment by Faraday.
 
@@ -161,7 +164,7 @@ Haha... I was expecting to hear no growth in money supply so no inflation, but A
 
 NOW GET THIS: if printing is tied to one shot legislation it can be okay.
 
-https://twitter.com/AndrewYang/status/1101295190667595776
+[Link](https://twitter.com/AndrewYang/status/1101295190667595776)
 
 ---
 
@@ -237,11 +240,15 @@ There is no way 1st attack was triggered by Imran Khan.
 
 “Experiments in Robotic Catching” (1991-1995)
 
-Cool work done by Jean-Jacques Slotine's Nonlinear Systems Laboratory at MIT more than 20 years ago. Their website also looks like it was created at around that time: http://web.mit.edu/nsl/www/ 
+Cool work done by Jean-Jacques Slotine's Nonlinear Systems Laboratory
+at MIT more than 20 years ago. Their website also looks like it was
+created at around that time:
+
+[Link](http://web.mit.edu/nsl/www/)
 
 ---
 
-https://twitter.com/A50Challenge/status/1100776260421206016
+[Link](https://twitter.com/A50Challenge/status/1100776260421206016)
 
 “May’s lawyer admits the EU referendum was unlawful” 
 
@@ -265,7 +272,7 @@ People of cold or mountaineous places arent better against cold or good at climb
 
 Haha.. good move - very kung-fu. 
 
-https://youtu.be/LUolzAltwKI?t=32
+[Link](https://youtu.be/LUolzAltwKI?t=32)
 
 AY is Taiwanese-American (2nd gen), not mainland Chinese. 
 
@@ -293,7 +300,7 @@ We are excited to announce that Audi has selected us for a #hydrogen development
 
 Orienteering 
 
-http://www.diva-portal.org/smash/get/diva2:1230037/FULLTEXT01.pdf
+[Link](http://www.diva-portal.org/smash/get/diva2:1230037/FULLTEXT01.pdf)
 
 Of course it's a thing in Norway.
 
@@ -312,7 +319,7 @@ So I have a friend, he thinks u did the announce, then grabbed it.
 "When Satoshi announced the first release of the software, I grabbed
 it right away" - Finney
 
-https://twitter.com/joeydiblasi/status/1100335635330752512
+[Link](https://twitter.com/joeydiblasi/status/1100335635330752512)
 
 ---
 
@@ -354,7 +361,7 @@ bullshitting now? Here talk to the hand ✋. It'll listen to you.
 
 ---
 
-https://slate.com/technology/2019/01/5g-mobile-wireless-network-hype-consumers-fcc.html
+[Link](https://slate.com/technology/2019/01/5g-mobile-wireless-network-hype-consumers-fcc.html)
 
 "Telecom Companies Are Seriously Overhyping 5G Networks
 
@@ -380,7 +387,10 @@ Right; US has Blackwater. And Russia has Wagner Group.
 
 ---
 
-Most observers believe Maduro’s dictatorship collapses soon. Millions of Venezuelan expatriates eagerly hope for his demise. Millions in the country starve or face military oppression and death. https://buff.ly/2tEpLLA  #Venezuela #Cuba #Maduro #Guiado
+Most observers believe Maduro’s dictatorship collapses soon. Millions
+of Venezuelan expatriates eagerly hope for his demise. Millions in the
+country starve or face military oppression and
+death. https://buff.ly/2tEpLLA #Venezuela #Cuba #Maduro #Guiado
 
 ---
 

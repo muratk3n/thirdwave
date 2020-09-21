@@ -1,6 +1,8 @@
 
 
-"I am born for this" - https://muratk3n.github.io/thirdwave/en/2013/10/the-one.html
+"I am born for this"
+
+[Link](https://muratk3n.github.io/thirdwave/en/2013/10/the-one.html)
 
 This isn't even new material for me man. WTF? #beto
 
@@ -18,7 +20,7 @@ Buttigieg? Yeah, that guy was not picked on in high school at all.
 
 #yang
 
-https://www.youtube.com/watch?v=yJCREv2D7Qg&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=yJCREv2D7Qg&feature=youtu.be)
 
 ---
 
@@ -208,7 +210,12 @@ Come to think of it, JK Rowling was on gov welfare while she wrote her first Har
 
 @Rainmaker1973
 
-According to historian Yuval Noah Harari, it's been 125,000 generations since the emergence of human species, 7,500 since human physiology reached its current state, 500 since the agricultural revolution, and only 20 since the scientific revolution http://ow.ly/7xYC30nZIDb
+According to historian Yuval Noah Harari, it's been 125,000
+generations since the emergence of human species, 7,500 since human
+physiology reached its current state, 500 since the agricultural
+revolution, and only 20 since the scientific revolution
+
+[Link](http://ow.ly/7xYC30nZIDb)
 
 ---
 

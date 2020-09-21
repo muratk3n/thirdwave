@@ -1,12 +1,15 @@
 
 
-@H2NewsGlobal
+"@H2NewsGlobal
 
-#China is ending an old era of subsidizing BEV’s and beginning a new one in #hydrogen #fuelcell EV’s.
+\#China is ending an old era of subsidizing BEV’s and beginning a new
+one in #hydrogen #fuelcell EV’s.
 
-Why is China choosing hydrogen over #Tesla? Potential.  #H2 can be generated domestically, distributed, and retailed at price parity to fossil fuels.
+Why is China choosing hydrogen over #Tesla? Potential.  #H2 can be
+generated domestically, distributed, and retailed at price parity to
+fossil fuels"
 
-https://lnkd.in/eYh2S83
+[Link](https://lnkd.in/eYh2S83)
 
 ---
 
@@ -150,11 +153,19 @@ More Beatrice Cherrier Retweeted Arindrajit Dube
 
 "This neglects:
 
--econs swaying presidents https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313008 …
-- econs shaping policies through quantification, tools (CBA) & new concepts (efficiency, human capital) https://academic.oup.com/ser/article/12/4/779/1653602 …
--Fed chairmen
--econs in courts https://cleocz.com/2019/01/16/some-thoughts-on-economists-duels-in-court/ …
--econs building markets
+- econs swaying presidents
+  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313008)
+  
+- econs shaping policies through quantification, tools (CBA) & new
+  concepts (efficiency, human capital)
+  [Link](https://academic.oup.com/ser/article/12/4/779/1653602)
+
+- Fed chairmen
+
+- econs in courts
+  [Link](https://cleocz.com/2019/01/16/some-thoughts-on-economists-duels-in-court/ …)
+  
+- econs building markets
 
 So no"
 
@@ -162,7 +173,7 @@ So no"
 
 Cigaweed
 
-https://www.youtube.com/watch?v=k9QpdJKiPCs&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=k9QpdJKiPCs&feature=youtu.be)
 
 ---
 
@@ -380,7 +391,7 @@ These f--ers are all the same. Giving public land as gift? Who u bitch? MA did s
 
 I used to think K looked African, but turns out she was Greek, they did some recons, she prob looked liked this
 
-https://www.realmofhistory.com/wp-content/uploads/2016/11/timelapse-animation-reconstruction-cleopatra_1.jpg
+[Link](https://www.realmofhistory.com/wp-content/uploads/2016/11/timelapse-animation-reconstruction-cleopatra_1.jpg)
 
 Definitely not like Elizabeth Taylor. Nor Sophie Loren.
 
@@ -414,7 +425,7 @@ Ok.. not a bad TR song finally.. it's not "neurotic"
 
 Funny thing is the vid makes ref to a 70s comedy movie. There's certain nostalgia to older movies I detect... it's like, nothing good was made recently? ;)
 
-https://www.youtube.com/watch?v=Mj2eA7X5mm8
+[Link](https://www.youtube.com/watch?v=Mj2eA7X5mm8)
 
 ---
 

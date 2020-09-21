@@ -33,7 +33,7 @@ right there.
 
 Fomo is a mofo. Nice.
 
-https://twitter.com/TraceMayer/status/1127576061321961472
+[Link](https://twitter.com/TraceMayer/status/1127576061321961472)
 
 ---
 
@@ -55,11 +55,11 @@ At the same time it lowers it in terms of actual $$ they give. $5/hr now brings 
 
 Vader fan movie Ep 2, so I guess they bring Vindu back? Jackson' voice is hilarious
 
-https://www.youtube.com/watch?v=xdHMWmQZziY&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=xdHMWmQZziY&feature=youtu.be)
 
 Ep 1 ends with Windu tearing it up waiting for V.
 
-https://www.youtube.com/watch?v=Ey68aMOV9gc&feature=youtu.be&t=722
+[Link](https://www.youtube.com/watch?v=Ey68aMOV9gc&feature=youtu.be&t=722)
 
 Dude who made this got some game.
 
@@ -69,7 +69,7 @@ Notice Bezos moon announcement and emphasis on infra.
 
 And see on Bezos, infratructure, logistics 
 
-https://muratk3n.github.io/thirdwave/en/2013/08/tech-companies-and-mbti.html
+[Link](https://muratk3n.github.io/thirdwave/en/2013/08/tech-companies-and-mbti.html)
 
 Who da man?
 
@@ -119,13 +119,13 @@ This is so terrible
 
 I am glad Seth Mc is protecting his flank. I was worried of a Cali sjw cuck-attack on this show turning it into Ghostbusters, STD or ... take your pick, any scifi franchise these days.
 
-https://www.youtube.com/watch?v=NPjvA3n7ql8&feature=youtu.be&t=244
+[Link](https://www.youtube.com/watch?v=NPjvA3n7ql8&feature=youtu.be&t=244)
 
 ---
 
 The messenger
 
-https://www.youtube.com/watch?v=wN7KHWdyrbI&feature=youtu.be&t=9
+[Link](https://www.youtube.com/watch?v=wN7KHWdyrbI&feature=youtu.be&t=9)
 
 ---
 
@@ -133,7 +133,7 @@ Stargate Atlantis; these guys (villain race) were awesome. I wish there was a Se
 
 This is when Momoa was less famous. Before GoT even.
 
-https://www.youtube.com/watch?v=rGj5VgJJzI8&feature=youtu.be&t=53
+[Link](https://www.youtube.com/watch?v=rGj5VgJJzI8&feature=youtu.be&t=53)
 
 ---
 
@@ -159,7 +159,7 @@ They could have said "here is some kooky shit, we enter and exit this domain as 
 
 Please do more of this; in fact I would make filming of every lecture in uni a prereq for getting any gov grant. Then we extend it to all subjects, then we fire all teachers. Teachers are modern day terrorists, forget school shootings, an average teacher is worse.
 
-https://twitter.com/OxUniMaths/status/1126155200497160192
+[Link](https://twitter.com/OxUniMaths/status/1126155200497160192)
 
 ---
 
@@ -171,7 +171,7 @@ Corps are caught btw inno (full automation) and shit jobs; e-z money is enough t
 
 "Prof. Chen Tsan-Yao recently developed a way of using ultrasonic waves  to make tiny grooves on a metal surface, which in conjunction with an  atomic-scale platinum catalyst can be used to double the efficiency of  alkaline fuel cells."
 
-https://www.businesswire.com/news/home/20190507005508/en/Great-Leap-Fuel-Cell-Technology-NTHU/?feedref=JjAwJuNHiystnCoBq_hl-W8j9Oi60kFTomUxRDB8jhCBXM48b7qViyaEGYkN62rurCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3kp1ag-GBwF_PJYy8uaIOWXcVjEfZIyqgxRRsuxHCTK2w==
+[Link](https://www.businesswire.com/news/home/20190507005508/en/Great-Leap-Fuel-Cell-Technology-NTHU/?feedref=JjAwJuNHiystnCoBq_hl-W8j9Oi60kFTomUxRDB8jhCBXM48b7qViyaEGYkN62rurCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3kp1ag-GBwF_PJYy8uaIOWXcVjEfZIyqgxRRsuxHCTK2w==)
 
 ---
 
@@ -206,7 +206,7 @@ We all want to take it e-z. I did my utmost best *not* to get into this energy b
 
 Stokes’s Theorem, Data, and the Polar Ice Caps
 
-https://www.tandfonline.com/doi/full/10.1080/00029890.2018.1506670
+[Link](https://www.tandfonline.com/doi/full/10.1080/00029890.2018.1506670)
 
 ---
 
@@ -216,7 +216,7 @@ Uniper SE is a BUY
 
 "H2 decouples the renewable energies from the need of simultaneous generation and consumption. It is the key to the energy transition. Technically everything is ready, only the political will is missing"
 
-https://twitter.com/StephanParlow/status/1125683857469128704
+[Link](https://twitter.com/StephanParlow/status/1125683857469128704)
 
 ---
 
@@ -240,7 +240,7 @@ USD being the reserve curr is helpful too of course. Foreign countries constantl
 
 Khaaaaaaaaan!
 
-https://www.youtube.com/watch?v=-MTRxRO5SRA&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=-MTRxRO5SRA&feature=youtu.be)
 
 "Let's teach for mastery -- not test scores | Sal Khan"
 

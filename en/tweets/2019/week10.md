@@ -42,7 +42,7 @@ is if he made this change _somehow_ before, maybe he would not be
 homeless. All it took was putting on the uniform of modernity (any
 burgeois clothing would do, hip, or otherwise) and voila, he'd be in.
 
-https://twitter.com/trendchasernews/status/1103458900219592704
+[Link](https://twitter.com/trendchasernews/status/1103458900219592704)
 
 ---
 
@@ -104,7 +104,14 @@ I love it within the new crop of left  Dem figures, noone gives a shit about Oba
 
 @ANativeAngeleno
 
-U.S. Department of Energy announced up to $31 million in funding to advance the H2@Scale (hydrogen at scale) concept. Concept papers are due April 8 and full applications are due May 22. http://ow.ly/UAKM30nV68t  #hydrogen @CaFCP
+U.S. Department of Energy announced up to $31 million in funding to
+advance the H2@Scale (hydrogen at scale) concept. Concept papers are
+due April 8 and full applications are due May
+22.
+
+[Link](http://ow.ly/UAKM30nV68t)
+
+#hydrogen @CaFCP
 
 ---
 

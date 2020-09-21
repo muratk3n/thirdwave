@@ -17,10 +17,9 @@ Yeah.. some1 is frontin, acting like he got the front seat... Chill.. U aint the
 
 ---
 
-
 Audi h-tron
 
-https://www.audi.com/en/experience-audi/models-and-technology/concept-cars/audi-h-tron-quattro.html
+[Link](https://www.audi.com/en/experience-audi/models-and-technology/concept-cars/audi-h-tron-quattro.html)
 
 ---
 
@@ -36,7 +35,7 @@ Strange theories..
 
 Brutal (on the Last Jedi)
 
-https://www.youtube.com/watch?v=5ECwhB21Pnk&feature=youtu.be&t=310
+[Link](https://www.youtube.com/watch?v=5ECwhB21Pnk&feature=youtu.be&t=310)
 
 ---
 
@@ -75,7 +74,7 @@ KILL THE GRID
 
 It's crazy I was just thinking about this today; a pure H2 pipeline (not even mixing it with existing natgas pipeline -UK showed it works-), something only for H2.
 
-https://twitter.com/H2Europe/status/1121735566788374528
+[Link](https://twitter.com/H2Europe/status/1121735566788374528)
 
 "Prof. @advanwijk showing flexible hydrogen pipeline material (up to 200 bar) to transport hydrogen over long distances at @H2Europe #40GWElectrolyzerAlliance meeting "
 
@@ -132,7 +131,7 @@ You misspelled 'never'
 
 $TSLAQ
 
-https://twitter.com/TeslaCharts/status/1121395930404741124
+[Link](https://twitter.com/TeslaCharts/status/1121395930404741124)
 
 ---
 
@@ -163,7 +162,7 @@ S-400 is part of political tigga lie blaming US for coup attempt when in fact it
 
 F--head theathers go for 2-3 years. This one too will come to an end.
 
-https://twitter.com/aaronstein1/status/1120708162326282241
+[Link](https://twitter.com/aaronstein1/status/1120708162326282241)
 
 "Simply put: Dating back to December 2017, when the US first outlined to Turkey the fecal material storm coming down the pike over S-400, I dont see any real change in the basic dynamics framing this issue."
 
@@ -180,7 +179,7 @@ I hope US gov is making use of BDM's services. I have a feeling Merkel is heavil
 
 ---
 
-http://www.northwestchptap.org/nwchpdocs/transmission_and_n_gas_comparing_pipes_and_wires_032304.pdf
+[Link](http://www.northwestchptap.org/nwchpdocs/transmission_and_n_gas_comparing_pipes_and_wires_032304.pdf)
 
 "Based on a fundamental, hard-dollar comparison, natural gas pipelines are
 significantly less costly to build than electric wires"
@@ -211,7 +210,7 @@ Flim-flam man riding his bitch BEV
 
 "Well, nice list of things one should know doing  machine learning - but actually most of these aren't #Algorithms"
 
-https://twitter.com/Dirque_L/status/1120784754549432321
+[Link](https://twitter.com/Dirque_L/status/1120784754549432321)
 
 ---
 
