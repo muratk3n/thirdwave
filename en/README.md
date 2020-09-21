@@ -76,7 +76,7 @@ Another proof that we are not teaching science, but cargo cult
 science.  There are still flat-earthers. We've known Earth is not flat
 for over two millenia. Yet the so-called "educated" would be hard
 pressed to prove this fact starting from simple assumptions, hence
-they cannot prove it to others with convictionn, disinformation
+they cannot prove it to others with conviction, disinformation
 grows. We created a culture of technobabble with little true knowledge.
 
 ---
