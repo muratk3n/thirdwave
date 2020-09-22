@@ -96,7 +96,7 @@ Have-yachts vs have-nots. Nice.
 
 Wonderful rant
 
-<iframe width="400" height="378" src="https://www.youtube.com/embed/jG7vhMMXagQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/jG7vhMMXagQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -298,7 +298,10 @@ Stanford Researchers Create Hydrogen Fuel from Seawater
 
 @ANativeAngeleno
 
-"Hyundai, one of the companies backing hydrogen power as an alternative to battery technology, says switching to hydrogen also prevents the destruction of component jobs that would be lost by moving to electric cars. http://ow.ly/gtjR30o4YOL   #driveH2 @CaFCP"
+"Hyundai, one of the companies backing hydrogen power as an
+alternative to battery technology, says switching to hydrogen also
+prevents the destruction of component jobs that would be lost by
+moving to electric cars. http://ow.ly/gtjR30o4YOL \#driveH2 \@CaFCP"
 
 ---
 
@@ -321,7 +324,8 @@ Marco.....Polo
 
 Nikola...Tesla
 
-"Nikola Motors is currently suing Tesla for $2 billion over the Tesla Semi, claiming that it copied Nikola’s design)."
+"Nikola Motors is currently suing Tesla for 2 billion d over the Tesla
+Semi, claiming that it copied Nikola’s design)."
 
 ---
 
