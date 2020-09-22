@@ -233,11 +233,6 @@ There is no way 1st attack was triggered by Imran Khan.
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The automation of labor has been going on for years. We automated away 4 million manufacturing jobs starting in 2000. Many of those workers left the workforce and our labor participation rate dropped. Today it is around 63.2%, near a multi-decade low and the same as Ecuador. <a href="https://t.co/HRfcSIzfqd">pic.twitter.com/HRfcSIzfqd</a></p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1100769852577509376?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 “Experiments in Robotic Catching” (1991-1995)
 
 Cool work done by Jean-Jacques Slotine's Nonlinear Systems Laboratory

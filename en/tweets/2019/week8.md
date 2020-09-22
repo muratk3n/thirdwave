@@ -192,11 +192,6 @@ Bregman was out 4 blood it seems. Tucker doesnt deserve that. B was getting his 
 
 ---
 
-@AndrewYang
-
-"I love the spirit of a $15/hr minimum wage - no one should work full-time and not be able to live. But it would hasten the reduction of many retail and fast food jobs and doesn’t include caregivers. Much better to just put $1,000 a month into people’s hands - a raise of $6/hour."
-
----
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/X8POdktflu">pic.twitter.com/X8POdktflu</a></p>&mdash; The Human Experience (@thehumanxp) <a href="https://twitter.com/thehumanxp/status/1098246309692215297?ref_src=twsrc%5Etfw">February 20, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -228,11 +223,6 @@ Statistician Wald was asked where to put armor on plates that looked like that a
 
 ---
 
-@AndrewYang
-
-US antitrust laws are hopelessly out of date. They are designed to prohibit price gouging due to monopoly power. Today’s tech giants would never dream of gouging. Instead they price others out of the market and consolidate. The consumer wins but many lose. We need new approaches.
-
----
 
 Nice. This is no electrolysis BTW. No electricity is ran through the water. U simply shine the light on the thing, and starts generating hydrogen. Much closer to how nature generates energy perhaps, e.g. plants.
 

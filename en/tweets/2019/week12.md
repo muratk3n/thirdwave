@@ -270,11 +270,6 @@ you are entirely defined by the quality of your tweets
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone today said I’m campaigning for the Federation.</p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1107775352351477760?ref_src=twsrc%5Etfw">March 18, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Typing \C-x\C-c on Termux Emacs through cell phone keyboard (there is an icon for  CTRL!) is an absolute gas. Lovin this thing.
 
 ---

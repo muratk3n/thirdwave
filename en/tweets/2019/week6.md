@@ -1,10 +1,5 @@
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m running for President (D) to build a new economy, one that puts people first.<br><br>A Freedom Dividend of $1k/month, Medicare for All, and Human-Centered Capitalism will help us achieve this goal.<br><br>Join our campaign and let&#39;s solve the real problems. <a href="https://t.co/OvoGKOhrwi">https://t.co/OvoGKOhrwi</a> <a href="https://t.co/Re3Ems6pds">pic.twitter.com/Re3Ems6pds</a></p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1090297958430580736?ref_src=twsrc%5Etfw">January 29, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 No superhero makes Europeans laugh more than Batman. There's something abt that character..  I guess too over the top. Iron Man is fine. Not Batman.
 
 ---

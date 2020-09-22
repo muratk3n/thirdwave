@@ -224,11 +224,6 @@ NYT can flourish as MSM, but in a niche form. Huh? So in the multiplicity of cho
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The shutdown exposed what we&#39;ve all known and felt - most Americans are living paycheck to paycheck. Thousands of our gov. workers ended up in food kitchens just to get by. Our nation is in survival mode. Big changes are necessary.  <a href="https://twitter.com/billmaher?ref_src=twsrc%5Etfw">@billmaher</a> <a href="https://t.co/d2mkKs2iSN">pic.twitter.com/d2mkKs2iSN</a></p>&mdash; Andrew Yang (@AndrewYang) <a href="https://twitter.com/AndrewYang/status/1094368102530330624?ref_src=twsrc%5Etfw">February 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 
 
 
