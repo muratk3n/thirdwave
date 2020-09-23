@@ -90,6 +90,8 @@ Tune in this Thursday to learn about .. @AngloAmerican's ..  290-ton
 \#fuelcell truck and how it is bringing \#zeroemission tech to the
 mining industry!"
 
+[Link](https://twitter.com/FCHEA_News/status/1308102055362527233)
+
 ---
 
 But of course Jesus' teachings were coopted by the state (Rome),
