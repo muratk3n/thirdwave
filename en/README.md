@@ -61,7 +61,7 @@ different like Speed 1 and 2. Or Zoolander 1 and 2.
 
 What a bleeping effin nonsense this Brexit.. People were misled by
 those who were supposed to represent them. End it and get rid of those
-f-ing fools while you are at it, your "royals". I fear they are a
+f-ing fools while you are at it too, your "royals". I fear they are a
 cultural crutch creating a false sense of queen and country at this
 age.
 
