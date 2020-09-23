@@ -29,7 +29,7 @@ by the Civil War, WWII, 1918 flu pandemic"
 
 ---
 
-Both runners probably need to have the said software for the
+Both runners probably need to have the same said software for the
 'snooping' to work, but still..
 
 ---
