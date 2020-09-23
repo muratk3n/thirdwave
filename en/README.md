@@ -6,149 +6,143 @@ Pinned Tweet
 
 ---
 
-So it is Facebook?
-
-"@bradleytusk
-
-The tech giants know this. Someone’s going down. Their real fight
-isn’t with Congress or the Department of Justice or regulators from
-any particular agency. The real fight is to make another company the
-more appealing target.
-
-'Zuck, Bezos, Cook: Who takes the fall in D.C.’s antitrust games? Last
-week’s hearing was more circus than bread, but America’s tech titans
-have reason to worry. Somebody is going down. The only question is
-who—and when'"
-
-[Link](https://twitter.com/bradleytusk/status/1290316670414839809)
+But this could be blessing in disguise.. Less black talent in
+finance..? Fine, right? We should hope for less white, Asian, Latino
+talent too.
 
 ---
 
-"@DriveH2
+He is probably right. Sad.
 
-Google is looking to \#Hydrogen: '...We’ll explore opportunities to
-source power from emerging tools, such as advanced nuclear, enhanced
-geothermal, green \#hydrogen, long-duration storage.'"
+"@NBCNews
 
-[Link](https://buff.ly/3mjYJTH)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meet <a href="https://twitter.com/hashtag/zeroe?src=hash&amp;ref_src=twsrc%5Etfw">#zeroe</a>, our new zero-emission concept aircraft! These 3 concepts are powered by <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> to reduce aircraft emissions.<br>Read the full story ➡️ <a href="https://t.co/6ijHK1r9V4">https://t.co/6ijHK1r9V4</a><br><br>Want to know more? Connect to our Twitter live-stream at 1400 CEST <a href="https://twitter.com/hashtag/ZeDay?src=hash&amp;ref_src=twsrc%5Etfw">#ZeDay</a> <a href="https://twitter.com/hashtag/ZeroEmissionsDay?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmissionsDay</a> <a href="https://t.co/I8E3sUIPHA">pic.twitter.com/I8E3sUIPHA</a></p>&mdash; Airbus (@Airbus) <a href="https://twitter.com/Airbus/status/1307977130182144016?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Wells Fargo CEO: "While it might sound like an excuse, the unfortunate
+reality is that there is a very limited pool of black talent to
+recruit from."
 
 ---
 
-"Ballard Power Systems (NASDAQ: BLDP; TSX: BLDP) today announced the
-launch of the fuel cell industry’s first module designed for primary
-propulsion power in marine vessels. Ballard’s FCwave fuel cell
-product is a 200-kilowatt (kW) modular unit that can be scaled in
-series up to the multi-megawatt (MW) power level.
+"@ClaraJeffery
 
-The FCwave product provides primary propulsion power for marine
-vessels – such as passenger and car ferries, river push boats, and
-fishing boats – as well as stationary electrical power to support
-hotel and auxiliary loads on cruise ships and other vessels while
-docked at port (also known as ‘cold ironing’)"
-
-[Link](https://www.ballard.com/about-ballard/newsroom/news-releases/2020/09/08/ballard-introduces-fuel-cell-industry-s-first-commercial-zero-emission-module-to-power-ships)
+COVID now 4th largest mass casualty event in US history. Topped only
+by the Civil War, WWII, 1918 flu pandemic"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">France’s 7 billion Euro plan to use clean hydrogen in industrial processes and transport will cut the country’s carbon dioxide output in 2030 by the equivalent of the annual emissions of Paris, their government has advised.<br><br>Read more here: <a href="https://t.co/zr4niaT1SK">https://t.co/zr4niaT1SK</a> <a href="https://t.co/74IihPjRA9">pic.twitter.com/74IihPjRA9</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1307816917894397953?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Wonderful. We have commodatized Big Brother.  Now everyone can become one. 
+
+"@MrAndrew
+
+Out running this morning on a new route and a lady runs past
+me. Despite only passing, when I get home @Strava automatically tags
+her in my run. If I click on her face it shows her full name, picture
+and a map of her running route (which effectively shows where she
+lives)
+
+This is despite the fact that I don't follow her and she doesn't share
+her activity publicly. So basically if someone sees a woman running
+alone there's an app they can go to see her name, picture and address"
 
 ---
 
-Want One
-
-<img width="340" src="https://pbs.twimg.com/media/EibPfZWXsAYTYYV?format=jpg&name=small"/>
-
----
-
-"@tomgara
-
-Pretty grim news here on the Oxford coronavirus vaccine: 2 of the
-8,000 UK participants in the trial have developed a rare illness
-involving inflammation of the spine"
+GI Joe 1 and 2 are two completely different style of movies. They are
+different like Speed 1 and 2. Or Zoolander 1 and 2. 
 
 ---
 
-Another proof that we are not teaching science, but cargo cult
-science.  There are still flat-earthers. We've known Earth is not flat
-for over two millenia. Yet the so-called "educated" would be hard
-pressed to prove this fact starting from simple assumptions, hence
-they cannot prove it to others with conviction, disinformation
-grows. We created a culture of technobabble with little true knowledge.
+"Russian-Turkish talks stalled, worst air raids on Idleb since March"
 
 ---
 
-"July 2020 Shipment Report: RV Shipments top 40,000 for Second Straight
-Month... RVs have been the ideal way to travel this summer, providing
-the freedom and fun of RVing while also allowing people to control
-their environment"
-
-[Link](https://www.rvnews.com/july-2020-shipment-report-rv-shipments-top-40000-for-second-straight-month/)
-
----
-
-Im giving Oracle a hard time.. their software is all clunky, closed, unhip.
+What a bleeping effin nonsense this Brexit.. People were misled by
+those who were supposed to represent them. End it and get rid of those
+f-ing fools while you are at it, your "royals". I fear they are a
+cultural crutch creating a false sense of queen and country at this
+age.
 
 ---
 
-When we hear of stories, we do not often hear about the tragedies in
-the background
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I?d quit. <a href="https://t.co/v6x5bPmstH">https://t.co/v6x5bPmstH</a></p>&mdash; Stephan Segraves (@ssegraves) <a href="https://twitter.com/ssegraves/status/1307526522975129600?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is extremely important. We need access to Horizon Europe. Anything less is essentially vandalism. <a href="https://t.co/tmxyXNJ0BK">https://t.co/tmxyXNJ0BK</a></p>&mdash; Brian Cox (@ProfBrianCox) <a href="https://twitter.com/ProfBrianCox/status/1308303284327731200?ref_src=twsrc%5Etfw">September 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Have to be more media / legal savy... Look at the monkey boy.. The
-weasel fuck knows how to play the media and adapt to every
-situation. That's how such an inferior tech, as in battery based cars
-came so far.
+"Carbon emissions of richest 1 percent more than double the emissions
+of the poorest half of humanity...
+
+Annual emissions grew by 60 percent between 1990 and 2015. The richest
+5 percent were responsible for over a third (37 percent) of this
+growth. The total increase in emissions of the richest one percent was
+three times more than that of the poorest 50 percent"
+
+[Link](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
 
 ---
 
-NKLA WTF?
+"@FCHEA_News
+
+Tune in this Thursday to learn about .. @AngloAmerican's ..  290-ton
+\#fuelcell truck and how it is bringing \#zeroemission tech to the
+mining industry!"
 
 ---
 
-I wonder how much predictive power the neighboring quakes have for
-predicting a quake in a particular location 🤔
+A President can choose his entire cabinet exclusively from Goldman
+Sachs, but if the cabinet members are all trans, centrists would be
+happy. That's how dumb these people are.
 
 ---
 
-Earthquake data from an API,
-
-```python
-from quakefeeds import QuakeFeed
-feed = QuakeFeed("4.5", "day")
-print (len(feed))
-print (feed.event_title(0))
-print (feed.event_title(1))
-print (feed.event_title(2))
-```
-
-```text
-8
-M 4.5 - 14 km N of Tisco, Peru
-M 5.0 - 6 km NNE of Falam, Myanmar
-M 4.5 - 248 km N of Saipan, Northern Mariana Islands
-```
-
-8 quakes >=4.5 in a day, all around the world. 
+But of course Jesus' teachings were coopted by the state (Rome),
+and turned into another form of pagan worship ritual.
 
 ---
 
-After the Cal quake checked [this acct](https://mobile.twitter.com/EQAlerts_M4)
-for >4.0 eqs. Looks like the whole world is shaking, constantly.
+"Jesus Christ was a socialist activist" -- exactly.
+
+Hudson: "The Christianity we know today is not the Christianity of
+Jesus.. Indeed the Judaism that we know today is not the Judaism of
+Jesus either. Lord’s Prayer, ‘forgive us our sins even as we forgive
+all who are indebted to us’, refers specifically to debt.
+
+Most religious leaders say that Christianity is all about sin, not
+debt. But actually, the word for sin and debt is the same in almost
+every language.
+
+‘Schuld’, in German, means ‘debt’ as well as ‘offense’ or, ‘sin’. It’s
+‘devoir’ in French. It had the same duality in meaning in the
+Babylonian language of Akkadian.”
+
+The idea harks back to the concept of ‘wergeld’, which existed in
+parts of Europe and Babylonia, and set the value of a human life based
+on their rank, paid as compensation to the family of someone who has
+been injured or killed. he payment – the Schuld or obligation –
+expiates you of the injury caused by the offense
+
+People tend to think of the Commandment ‘do not covet your neighbour’s
+wife’ in purely sexual terms but actually, the economist says it
+refers specifically to creditors who would force the wives and
+daughters of debtors into sex slavery as collateral for unpaid debt.
+
+Similarly, the Commandment ‘thou shalt not steal’ refers to usury and
+exploitation by threat for debts owing.
+
+Jesus was crucified for his views on debt. Crucifixion being a
+punishment reserved especially for political dissidents.
+
+To understand the crucifixion of Jesus is to understand it was his
+punishment for his economic views. He was a threat to the creditors.
+
+Jesus Christ was a socialist activist for the continuity of regular
+debt jubilees that were considered essential to the wellbeing of
+ancient economies
+
+Governments can forgive debt. The bible says so"
+
+[Link](https://michael-hudson.com/2017/12/he-died-for-our-debt-not-our-sins/)
 
 ---
 
-Crazy guy preaching abt 'aliens!' in a *Firefly* scene.. it works bcz, sure FF is scifi, in it humans colonized many planets, there are reavers, but still no aliens.
-
----
-
-*Last updated 2020-09-20 00:10*
+*Last updated 2020-09-23 08:04*
 
 ---
 
