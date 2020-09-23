@@ -66,6 +66,12 @@ age.
 
 ---
 
+A President can choose his entire cabinet exclusively from Goldman
+Sachs, but if the cabinet members are all trans, centrists would be
+happy. 
+
+---
+
 "Carbon emissions of richest 1 percent more than double the emissions
 of the poorest half of humanity...
 
@@ -83,12 +89,6 @@ three times more than that of the poorest 50 percent"
 Tune in this Thursday to learn about .. @AngloAmerican's ..  290-ton
 \#fuelcell truck and how it is bringing \#zeroemission tech to the
 mining industry!"
-
----
-
-A President can choose his entire cabinet exclusively from Goldman
-Sachs, but if the cabinet members are all trans, centrists would be
-happy. That's how dumb these people are.
 
 ---
 
