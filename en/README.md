@@ -29,6 +29,11 @@ by the Civil War, WWII, 1918 flu pandemic"
 
 ---
 
+Both runners probably need to have the said software for the
+'snooping' to work, but still..
+
+---
+
 Wonderful. We have commodatized Big Brother.  Now everyone can become one. 
 
 "@MrAndrew
@@ -86,7 +91,7 @@ three times more than that of the poorest 50 percent"
 
 "@FCHEA_News
 
-Tune in this Thursday to learn about .. @AngloAmerican's ..  290-ton
+Tune in this Thursday to learn about.. @AngloAmerican's..  290-ton
 \#fuelcell truck and how it is bringing \#zeroemission tech to the
 mining industry!"
 
