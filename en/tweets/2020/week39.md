@@ -293,7 +293,7 @@ Seasonal flu MR is 0.1%. CV is 30 times more deadly than the flu.
 
 Worldwide COVID mortality rate hovers around 3%.
 
-[Link](2020/02/corona.md#mortality)
+[Link](../../2020/02/corona.md#mortality)
 
 ---
 
@@ -306,7 +306,7 @@ testing everywhere, all the time.
 
 Still, R for UK in 11/9 was wayy below 1, not above 1 like BBC stated.
 
-[Link](2020/02/corona.md#Rt)
+[Link](../../2020/02/corona.md#Rt)
 
 ---
 
@@ -321,7 +321,7 @@ Country/Region  Germany +  Germany %    UK +      UK %
 
 Looks like higher than average, yes.
 
-[Link](2020/02/corona.md#daily)
+[Link](../../2020/02/corona.md#daily)
 
 ---
 
