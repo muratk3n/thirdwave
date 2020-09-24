@@ -152,7 +152,7 @@ this bitch, so we're abt to have World War 3 right abt now, u feel me?
 ---
 
 Yes. They can be lied to, convinved on things against their interest,
-which all suggest direct democracy / "polling to decide on policy
+which all suggest direct democracy, or "polling to decide on policy
 direction" style of governence cannot work.
 
 "People were misled by Brexit, does that mean they cannot judge most policies?"
