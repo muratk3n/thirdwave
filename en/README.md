@@ -42,7 +42,7 @@ Replenished? HTF? That's crazy!!
 
 "\#Hydrogen for the energy transition: do we have to manufacture it? ...
 
-"The native hydrogen [as in dug up from ground, not produced], almost
+The native hydrogen [as in dug up from ground, not produced], almost
 pure in this case, is directly burned in a suitable gas turbine, and
 produces electricity for a small village. Other wells around have been
 drilled to try to determine the reserves, within the meaning of oil &
