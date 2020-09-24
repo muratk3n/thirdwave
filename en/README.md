@@ -6,10 +6,10 @@ Pinned Tweet
 
 ---
 
-@thwillow
+"@thwillow
 
-Virtual school day 8: my kid now refers to her teacher as simply “the
-host.”
+Virtual school day 8: my kid now refers to her teacher as simply 'the
+host.'"
 
 ---
 
