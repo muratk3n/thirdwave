@@ -21,7 +21,26 @@ admitting that Brexit will bring chaos and disruption"
 
 ---
 
+"CANADIAN energy company Petroma, led by Malian industrialist Aliou
+Boubacar Diallo, discovered the world’s largest natural hydrogen
+deposit 60 kilometres from the Malian capital of Bamako, a find that
+has increasingly attracted some of planet’s most forward-thinking
+business leaders interested in clean energy alternatives.
+
+In Bloc 25 covering 43,000 square kilometres, Petroma has affirmed
+massive quantities of 95 percent pure natural hydrogen, one of the
+most promising new sources needed for a global transition to clean
+energy, according to the French scientist Alain Prinzhofer at the
+l’Institut de Physique du Globe de Paris.
+
+The company has undertaken the first project to produce electricity
+from hydrogen without any C02 emissions"
+
+---
+
 Replenished? HTF? That's crazy!!
+
+"\#Hydrogen for the energy transition: do we have to manufacture it? ...
 
 "The native hydrogen, almost pure in this case, is directly burned in
 a suitable gas turbine, and produces electricity for a small
@@ -37,27 +56,6 @@ In addition, surface measurements of the H2 content of soils do not
 show any leaks. These were rather expected, because the
 H 2 molecule is very small and very reactive, and therefore it can
 easily migrate and combine with other chemical species"
-
----
-
-CANADIAN energy company Petroma, led by Malian industrialist Aliou
-Boubacar Diallo, discovered the world’s largest natural hydrogen
-deposit 60 kilometres from the Malian capital of Bamako, a find that
-has increasingly attracted some of planet’s most forward-thinking
-business leaders interested in clean energy alternatives.
-
-In Bloc 25 covering 43,000 square kilometres, Petroma has affirmed
-massive quantities of 95 percent pure natural hydrogen, one of the
-most promising new sources needed for a global transition to clean
-energy, according to the French scientist Alain Prinzhofer at the
-l’Institut de Physique du Globe de Paris.
-
-The company has undertaken the first project to produce electricity
-from hydrogen without any C02 emissions,
-
----
-
-\#Hydrogen for the energy transition: do we have to manufacture it?
 
 [Link](https://mobile.twitter.com/Sorbonne_Univ_/status/1279055295352881157)
 
