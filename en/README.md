@@ -100,7 +100,7 @@ Berlin-Wall centrism.
 ---
 
 It's weird Hasish and others like him are named RINOs. In some ways
-they are more Republican than the rest.
+they are more Republican than most.
 
 ---
 
