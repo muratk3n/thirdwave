@@ -137,9 +137,9 @@ Or... aaare they 🤨 ??
 
 ---
 
-Knowledge organizes, so it reduces entropy, one could say, less
-disorder. But new knowledge needs new forms of management, absent it,
-more disorder.
+Knowledge organizes, so it reduces entropy, one could say, implies
+more order. But new knowledge needs new forms of management, absent
+it, can create more disorder.
 
 These are all very speculative thoughts, of course.
 
