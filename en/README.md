@@ -112,8 +112,8 @@ they are more Republican than the rest.
 ---
 
 That's not why he did it. Pols might encourage such takes themselves,
-but they do it to give the 24/7 pol commentariat something to latch
-onto...
+but they do it to give the 24/7 commentariat something to latch
+onto.
 
 Hasish's beef is ideological. Ditto for McCain.
 
