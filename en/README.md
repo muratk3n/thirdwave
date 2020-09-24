@@ -45,7 +45,7 @@ combine with other chemical species"
 
 ---
 
-"CANADIAN energy company Petroma, led by Malian industrialist Aliou
+"Canadian energy company Petroma, led by Malian industrialist Aliou
 Boubacar Diallo, discovered the world’s largest natural hydrogen
 deposit 60 kilometres from the Malian capital of Bamako, a find that
 has increasingly attracted some of planet’s most forward-thinking
