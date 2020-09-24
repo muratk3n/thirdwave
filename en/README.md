@@ -60,6 +60,8 @@ l’Institut de Physique du Globe de Paris.
 The company has undertaken the first project to produce electricity
 from hydrogen without any C02 emissions"
 
+[Link](https://africabriefing.org/2019/09/petromas-natural-hydrogen-find-in-mali-produces-co2-free-clean-electricity/)
+
 ---
 
 That makes this bomb 1/15th of the Hiroshima bomb. An early est had
