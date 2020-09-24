@@ -80,7 +80,7 @@ studied videos posted on social media and estimated the yield to be
 ---
 
 I can't believe we are polluting even space.. The movie *Gravity* was
-an eye opener on the issue
+an eye opener 
 
 "@JimBridenstine
 
