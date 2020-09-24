@@ -144,7 +144,7 @@ this bitch, so we're abt to have World War 3 right abt now, u feel me?
 
 ---
 
-Yes. They can be lied to, convinved on things against their interest,
+Yes. They can be lied to, convinced on things against their interest,
 which all suggest direct democracy, or "polling to decide on policy
 direction" style of governence cannot work.
 
