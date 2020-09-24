@@ -6,146 +6,156 @@ Pinned Tweet
 
 ---
 
-But this could be blessing in disguise.. Less black talent in
-finance..? Fine, right? We should hope for less white, Asian, Hisp.
-talent too.
+@thwillow
+
+Virtual school day 8: my kid now refers to her teacher as simply “the
+host.”
 
 ---
 
-He is probably right. Sad.
+"@NeilDrysdale
 
-"@NBCNews
-
-Wells Fargo CEO: "While it might sound like an excuse, the unfortunate
-reality is that there is a very limited pool of black talent to
-recruit from."
+It’s hard to believe in the midst of a six-month lockdown that things
+are going to get worse in January. But even Michael Gove seems to be
+admitting that Brexit will bring chaos and disruption"
 
 ---
 
-"@ClaraJeffery
+Replenished? HTF? That's crazy!!
 
-COVID now 4th largest mass casualty event in US history. Topped only
-by the Civil War, WWII, 1918 flu pandemic"
+"The native hydrogen, almost pure in this case, is directly burned in
+a suitable gas turbine, and produces electricity for a small
+village. Other wells around have been drilled to try to determine the
+reserves, within the meaning of oil & gas, and change the scale.
 
----
+This success shattered many a priori: many believed that no natural
+accumulation of H2 in the subsoil could exist. The initial well has
+been producing for 4 years without a drop in pressure, which means it
+is continuously recharged.
 
-Both runners probably need to have the same said software for the
-'snooping' to work, but still..
-
----
-
-Wonderful. We have commodatized Big Brother.  Now everyone can become one. 
-
-"@MrAndrew
-
-Out running this morning on a new route and a lady runs past
-me. Despite only passing, when I get home @Strava automatically tags
-her in my run. If I click on her face it shows her full name, picture
-and a map of her running route (which effectively shows where she
-lives)
-
-This is despite the fact that I don't follow her and she doesn't share
-her activity publicly. So basically if someone sees a woman running
-alone there's an app they can go to see her name, picture and address"
+In addition, surface measurements of the H2 content of soils do not
+show any leaks. These were rather expected, because the
+H 2 molecule is very small and very reactive, and therefore it can
+easily migrate and combine with other chemical species"
 
 ---
 
-GI Joe 1 and 2 are two completely different style of movies. They are
-different like Speed 1 and 2. Or Zoolander 1 and 2. 
+CANADIAN energy company Petroma, led by Malian industrialist Aliou
+Boubacar Diallo, discovered the world’s largest natural hydrogen
+deposit 60 kilometres from the Malian capital of Bamako, a find that
+has increasingly attracted some of planet’s most forward-thinking
+business leaders interested in clean energy alternatives.
+
+In Bloc 25 covering 43,000 square kilometres, Petroma has affirmed
+massive quantities of 95 percent pure natural hydrogen, one of the
+most promising new sources needed for a global transition to clean
+energy, according to the French scientist Alain Prinzhofer at the
+l’Institut de Physique du Globe de Paris.
+
+The company has undertaken the first project to produce electricity
+from hydrogen without any C02 emissions,
 
 ---
 
-"Russian-Turkish talks stalled, worst air raids on Idleb since March"
+\#Hydrogen for the energy transition: do we have to manufacture it?
+
+[Link](https://mobile.twitter.com/Sorbonne_Univ_/status/1279055295352881157)
 
 ---
 
-What a bleeping effin nonsense this Brexit.. People were misled by
-those who were supposed to represent them. End it and get rid of those
-f-ing fools while you are at it too, your "royals". I fear they are a
-cultural crutch creating a false sense of queen and country at this
-age.
+That makes this bomb 1/15th of the Hiroshima bomb. An early est had
+said 1/9th. Still huge.
+
+"@SheffieldBlast
+
+Our research into the \#BeirutExplosion has been published ... We
+studied videos posted on social media and estimated the yield to be
+0.5-1.1 kt TNT"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is extremely important. We need access to Horizon Europe. Anything less is essentially vandalism. <a href="https://t.co/tmxyXNJ0BK">https://t.co/tmxyXNJ0BK</a></p>&mdash; Brian Cox (@ProfBrianCox) <a href="https://twitter.com/ProfBrianCox/status/1308303284327731200?ref_src=twsrc%5Etfw">September 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Producing <a href="https://twitter.com/hashtag/Solein?src=hash&amp;ref_src=twsrc%5Etfw">#Solein</a> is like brewing beer. Except it doesn&#39;t need barley or any other plant material - the raw material is CO₂ from air. Check out our Process Development Specialist explaining this with 🍺 in Episode 3 of our <a href="https://twitter.com/hashtag/VideoDiaries?src=hash&amp;ref_src=twsrc%5Etfw">#VideoDiaries</a>👇<a href="https://twitter.com/hashtag/SolarFoods?src=hash&amp;ref_src=twsrc%5Etfw">#SolarFoods</a><a href="https://t.co/4OhSihd7vf">https://t.co/4OhSihd7vf</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1308668524974538754?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-A President can choose his entire cabinet exclusively from Goldman
-Sachs, but if the cabinet members are all trans, centrists would be
-happy. 
+Pharrell Williams - Happy \#music
+
+[Link](https://youtu.be/ZbZSe6N_BXs)
 
 ---
 
-"Carbon emissions of richest 1 percent more than double the emissions
-of the poorest half of humanity...
+I can't believe we are polluting even space.. I didnt know this was an
+issue until I saw *Gravity*. 
 
-Annual emissions grew by 60 percent between 1990 and 2015. The richest
-5 percent were responsible for over a third (37 percent) of this
-growth. The total increase in emissions of the richest one percent was
-three times more than that of the poorest 50 percent"
+"@JimBridenstine
 
-[Link](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
-
----
-
-"@FCHEA_News
-
-Tune in this Thursday to learn about.. @AngloAmerican's..  290-ton
-\#fuelcell truck and how it is bringing \#zeroemission tech to the
-mining industry!"
-
-[Link](https://twitter.com/FCHEA_News/status/1308102055362527233)
+The @Space_Station has maneuvered 3 times in 2020 to avoid debris. In
+the last 2 weeks, there have been 3 high concern potential
+conjunctions. Debris is getting worse! Time for Congress to provide
+@CommerceGov with the $15 mil requested by @POTUS for the Office of
+Space Commerce"
 
 ---
 
-But of course Jesus' teachings were coopted by the state (Rome),
-and turned into another form of pagan worship ritual.
+It's weird Hasish and others like him are named RINOs. In some ways
+they are more Republican than the rest.
 
 ---
 
-"Jesus Christ was a socialist activist" -- exactly.
+Some might say "but this and that is too ideological" to blame, bash
+someone else. Do not be confused -- even ppl who blame others for
+having ideology have an ideology themselves... Because the absence of
+ideological discourse will, automatically, stress the *default
+ideology* prevalent in society, which is the Washingon Consensus, post
+Berlin Wall centrism.
 
-Hudson: "The Christianity we know today is not the Christianity of
-Jesus.. Indeed the Judaism that we know today is not the Judaism of
-Jesus either. Lord’s Prayer, ‘forgive us our sins even as we forgive
-all who are indebted to us’, refers specifically to debt.
+---
 
-Most religious leaders say that Christianity is all about sin, not
-debt. But actually, the word for sin and debt is the same in almost
-every language.
+That's not why he did it. Pols might encourage such takes themselves,
+but they do it to give the 24/7 pol commentariat something to latch
+onto...
 
-‘Schuld’, in German, means ‘debt’ as well as ‘offense’ or, ‘sin’. It’s
-‘devoir’ in French. It had the same duality in meaning in the
-Babylonian language of Akkadian.”
+Hasish's beef is ideological. Ditto for McCain.
 
-The idea harks back to the concept of ‘wergeld’, which existed in
-parts of Europe and Babylonia, and set the value of a human life based
-on their rank, paid as compensation to the family of someone who has
-been injured or killed. he payment – the Schuld or obligation –
-expiates you of the injury caused by the offense
+These people care about ideology. **It is their job**.
 
-People tend to think of the Commandment ‘do not covet your neighbour’s
-wife’ in purely sexual terms but actually, the economist says it
-refers specifically to creditors who would force the wives and
-daughters of debtors into sex slavery as collateral for unpaid debt.
+"Gov Hasish went on to speak at Dem Convention bcz he doesn't like Trump's style"
 
-Similarly, the Commandment ‘thou shalt not steal’ refers to usury and
-exploitation by threat for debts owing.
+---
 
-Jesus was crucified for his views on debt. Crucifixion being a
-punishment reserved especially for political dissidents.
+The future is here
 
-To understand the crucifixion of Jesus is to understand it was his
-punishment for his economic views. He was a threat to the creditors.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s right, I&#39;m upgrading the firmware of a light, so that it can connect to 5G WiFi. 🙄 <a href="https://t.co/9NtuAS3dvZ">pic.twitter.com/9NtuAS3dvZ</a></p>&mdash; Brad #BlackLivesMatter (@bradwilson) <a href="https://twitter.com/bradwilson/status/1308557653690339328?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Jesus Christ was a socialist activist for the continuity of regular
-debt jubilees that were considered essential to the wellbeing of
-ancient economies
+---
 
-Governments can forgive debt. The bible says so"
+🤔 🤔 🤔 
 
-[Link](https://michael-hudson.com/2017/12/he-died-for-our-debt-not-our-sins/)
+---
+
+Or... aaare they 🤨 ??
+
+---
+
+Knowledge organizes, so it reduces entropy, one could say, less
+disorder. But new knowledge needs new forms of management, absent it,
+more disorder.
+
+These are all very speculative thoughts, of course.
+
+---
+
+Per the weird (likely superfluous) correlation I noticed between my
+sci posts and chaos in the ME; I just dropped the m..f..ing bomb up in
+this bitch, so we're abt to have World War 3 right abt now, u feel me?
+
+---
+
+Yes. They can be lied to, convinved on things against their interest,
+which all suggest direct democracy / "polling to decide on policy
+direction" style of governence cannot work.
+
+"People were misled by Brexit, does that mean they cannot judge most policies?"
 
 ---
 
