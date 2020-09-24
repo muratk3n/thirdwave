@@ -77,8 +77,8 @@ studied videos posted on social media and estimated the yield to be
 
 ---
 
-I can't believe we are polluting even space.. I didnt know this was an
-issue until I saw *Gravity*. 
+I can't believe we are polluting even space.. The movie *Gravity* was
+an eye opener on the issue
 
 "@JimBridenstine
 
