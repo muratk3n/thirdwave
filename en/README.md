@@ -64,8 +64,8 @@ from hydrogen without any C02 emissions"
 
 ---
 
-That makes this bomb 1/15th in effect of the Hiroshima one. An early
-est had said 1/6th. Still huge.
+That makes it 1/15th in effect compared to the Hiroshima bomb. An
+early est had said 1/6th. Still huge.
 
 "@SheffieldBlast
 
