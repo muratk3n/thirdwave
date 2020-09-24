@@ -97,17 +97,17 @@ Space Commerce"
 
 ---
 
-It's weird Hasish and others like him are named RINOs. In some ways
-they are more Republican than the rest.
-
----
-
 Some might say "but this and that is too ideological" to blame, bash
 someone else. Do not be confused -- even ppl who blame others for
 having ideology have an ideology themselves... Because the absence of
 ideological discourse will, automatically, stress the *default
 ideology* prevalent in society, which is the Washingon Consensus, post
 Berlin Wall centrism.
+
+---
+
+It's weird Hasish and others like him are named RINOs. In some ways
+they are more Republican than the rest.
 
 ---
 
