@@ -64,7 +64,7 @@ from hydrogen without any C02 emissions,
 ---
 
 That makes this bomb 1/15th of the Hiroshima bomb. An early est had
-said 1/9th. Still huge.
+said 1/6th. Still huge.
 
 "@SheffieldBlast
 
@@ -75,12 +75,6 @@ studied videos posted on social media and estimated the yield to be
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Producing <a href="https://twitter.com/hashtag/Solein?src=hash&amp;ref_src=twsrc%5Etfw">#Solein</a> is like brewing beer. Except it doesn&#39;t need barley or any other plant material - the raw material is CO₂ from air. Check out our Process Development Specialist explaining this with 🍺 in Episode 3 of our <a href="https://twitter.com/hashtag/VideoDiaries?src=hash&amp;ref_src=twsrc%5Etfw">#VideoDiaries</a>👇<a href="https://twitter.com/hashtag/SolarFoods?src=hash&amp;ref_src=twsrc%5Etfw">#SolarFoods</a><a href="https://t.co/4OhSihd7vf">https://t.co/4OhSihd7vf</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1308668524974538754?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Pharrell Williams - Happy \#music
-
-[Link](https://youtu.be/ZbZSe6N_BXs)
 
 ---
 
