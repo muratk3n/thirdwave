@@ -1,7 +1,7 @@
 # Week 39
 
 
-So it is Facebook?
+So it's Facebook?
 
 "@bradleytusk
 

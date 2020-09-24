@@ -7,7 +7,7 @@ Pinned Tweet
 ---
 
 But this could be blessing in disguise.. Less black talent in
-finance..? Fine, right? We should hope for less white, Asian, Latino
+finance..? Fine, right? We should hope for less white, Asian, Hisp.
 talent too.
 
 ---
