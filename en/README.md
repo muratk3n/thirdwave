@@ -49,14 +49,14 @@ drilled to try to determine the reserves, within the meaning of oil &
 gas, and change the scale.
 
 This success shattered many a priori: many believed that no natural
-accumulation of H2 in the subsoil could exist. The initial well has
+accumulation of H2 in the subsoil could exist. The initial well has
 been producing for 4 years without a drop in pressure, which means it
 is continuously recharged.
 
-In addition, surface measurements of the H2 content of soils do not
-show any leaks. These were rather expected, because the
-H 2 molecule is very small and very reactive, and therefore it can
-easily migrate and combine with other chemical species"
+In addition, surface measurements of the H2 content of soils do not
+show any leaks. These were rather expected, because the H2 molecule is
+very small and very reactive, and therefore it can easily migrate and
+combine with other chemical species"
 
 [Link](https://mobile.twitter.com/Sorbonne_Univ_/status/1279055295352881157)
 
