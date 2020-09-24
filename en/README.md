@@ -104,9 +104,9 @@ they are more Republican than the rest.
 
 ---
 
-That's not why he did it. Pols might encourage such takes themselves,
-but they do it to give the 24/7 commentariat something to latch
-onto.
+That's not why he did it. He, and other pols, might encourage such
+talk themselves, which is untrue. They do it to give the 24/7
+commentariat something to latch onto.
 
 Hasish's beef is ideological. Ditto for McCain.
 
