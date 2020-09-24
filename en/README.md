@@ -95,7 +95,7 @@ Space Commerce"
 Pundits can say "this and that is too ideological" to blame, bash
 others -- but beware -- even ppl who blame others for having ideology,
 have an ideology themselves... Because the absence of ideological
-discourse will, automatically, emphasize, indirectly, the *default
+discourse will automatically emphasize, indirectly, the *default
 ideology* in society, which right now is the Washingon Consensus, post
 Berlin-Wall centrism.
 
