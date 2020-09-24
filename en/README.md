@@ -108,9 +108,8 @@ That's not why he did it. He, and other pols, might encourage such
 talk themselves, which is untrue. They do it to give the 24/7
 commentariat something to latch onto.
 
-Hasish's beef is ideological. Ditto for McCain.
-
-These people care about ideology. **It is their job**.
+Hasish's beef is ideological. Ditto for McCain. These people care
+deeply about ideology. **It is their job**.
 
 "Gov Hasish went on to speak at Dem Convention bcz he doesn't like Trump's style"
 
