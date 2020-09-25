@@ -131,8 +131,8 @@ direction.
 Disney knows it too; word is K. Kennedy, the Disney exec behind the
 new direction is sidelined.
 
-"Why do you say Disney Star Wars was unsuccesful? One of them grossed
-a billion"
+"Why do you say Disney Star Wars was unsuccesful? One of their movies
+grossed a billion"
 
 ---
 
