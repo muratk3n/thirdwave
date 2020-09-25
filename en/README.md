@@ -107,7 +107,7 @@ plt.savefig('atw_01.png')
 
 ![](atw_01.png)
 
-However, there was a steady increase since mid-70s continued to this day.
+Steady increase since mid-70s that continued to this day.
 
 Interesting; wage increases also stalled since then. Correlation?
 Causation?
