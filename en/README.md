@@ -107,7 +107,7 @@ plt.savefig('foreignb.png')
 
 ![](https://muratk3n.github.io/thirdwave/en/tweets/2020/foreignb.png)
 
-Steady increase since mid-70s that continued to this day.
+Steady increase since 70s that continued to this day.
 
 Interesting; wage increases also stalled since then. Correlation?
 Causation?
