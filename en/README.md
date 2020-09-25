@@ -122,11 +122,12 @@ Automation and outsourcing would play a role here too..
 
 ---
 
-But a company would think *why not twice that*? The last mov could
-have grossed 2 billion, which *Endgame* did, the work of a franchise
-that did not even exist a decade ago.. Also DSW merc sales are
-abysmal, a sign that people are not excited about the Woke
-direction.
+A company would one look at that and think *why not twice that*?
+
+The last movie could have grossed 2 billion, which *Endgame* did, the
+work of a franchise that did not even exist a decade ago.. Also DSW
+merc sales are abysmal, a sign that people are not excited about the
+Woke direction.
 
 Disney knows it too; word is K. Kennedy, the Disney exec behind the
 new direction is sidelined.
