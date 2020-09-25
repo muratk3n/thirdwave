@@ -77,7 +77,12 @@ really fast"
 
 ---
 
-True. The changes are so tiny, but we can detect that shit, and "hear"
+The downside is if there is too much change, the sensors are
+overloaded, the result: future shock.
+
+---
+
+True. The changes are so tiny, but we can detect that shit, and hear
 stuff through it.. Amazing. Another proof that our 'sensors' are
 incredibly well attuned to changes (we may not see in the dark, but
 detect movement, even with the corner of our eye).
@@ -88,7 +93,7 @@ powerful pump, to change the volume of water much at all. Even air
 won’t change its volume much unless you stick it in a pump, or are
 dealing with really extreme situations like sonic booms and blast
 waves.  The study of how fluids behave in these situations is
-generally called “compressible flow”. It’s complicated and expensive
+generally called 'compressible flow'. It’s complicated and expensive
 to simulate, and apart from acoustics doesn’t enter much into everday
 life. And even sound waves are such tiny perturbations in the volume"
 
