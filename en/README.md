@@ -122,7 +122,7 @@ Automation and outsourcing would play a role here too..
 
 ---
 
-A company would one look at that and think *why not twice that*?
+A company would take one look at that and think *why not twice that*?
 
 The last movie could have grossed 2 billion, which *Endgame* did, the
 work of a franchise that did not even exist a decade ago.. Also DSW
