@@ -102,10 +102,10 @@ import pandas as pd
 df = pd.read_csv('foreignb.csv',sep='\t')
 df = df[['Year','Percentage of Foreign-Born']].set_index('Year')
 df.plot()
-plt.savefig('https://muratk3n.github.io/thirdwave/en/tweets/2020/foreignb.png')
+plt.savefig('foreignb.png')
 ```
 
-![](atw_01.png)
+![](https://muratk3n.github.io/thirdwave/en/tweets/2020/foreignb.png)
 
 Steady increase since mid-70s that continued to this day.
 
