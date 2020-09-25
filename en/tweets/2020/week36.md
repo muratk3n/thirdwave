@@ -131,14 +131,6 @@ I've found the greatest movie poster of all time"
 
 ---
 
-"@KingWestbrook7
-
-MY BABY BOY AND THE AVENGERS HOLDING A MEMORIAL FOR BLACK PANTHER"
-
-[Link](https://twitter.com/KingWestbrook7/status/1299751417964527616)
-
----
-
 Ilay and Beat C - The Answer (Ilay Mix) \#music
 
 [Link](https://youtu.be/DJ8bM1UUVBs)
