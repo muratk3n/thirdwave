@@ -9,10 +9,8 @@ Pinned Tweet
 It doesn't. Clinton years and later events proved this creates its own
 [polarization](2018/05/polarization.md). The other party will
 radicalize on second-order issues, even solvable stuff will remain
-unsolved.
-
-My stance remains; distinct ideologies need to be represented in two
-more distinct parties. No centrism. No fascism.
+unsolved. My stance remains; distinct ideologies need to be
+represented in two or more distinct parties. No centrism. No fascism.
 
 "Then being lukewarm on all issues should work?"
 

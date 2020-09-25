@@ -266,11 +266,15 @@ Yeah open season on this guy. He needs to be limpin to that convention, if he ev
 
 ---
 
-I read somewhere there isnt enough Lithium in the world for the amount of storage needed for a Li-on battery oriented solution. This so-called approach is already DOA.
+I read somewhere there isnt enough Lithium in the world for the amount
+of storage needed for a Li-on battery oriented solution. This
+so-called approach is already DOA.
 
 ---
 
-Using Stokes Thm (essentially an integral) to compute which time series frontruns the other? Sheeeet. Imma drink that math like fine wine foo.
+Using Stokes Thm (essentially an integral) to compute which time
+series frontruns the other? Sheeeet. Imma drink that math like fine
+wine foo.
 
 ---
 
@@ -284,10 +288,10 @@ Finally for once I can smirk when ppl who didnt read the books on a series ask a
 
 [Link](https://twitter.com/robertghrist/status/1123401220687896577)
 
-why learn differential forms & stokes' theorem? 
-besides the usual applications in physics, there are some lovely novel applications in data science...
-it's time for the grand finale from the calculus BLUE project...
-1/15
+why learn differential forms & stokes' theorem?  besides the usual
+applications in physics, there are some lovely novel applications in
+data science...  it's time for the grand finale from the calculus BLUE
+project...  1/15
 
 ---
 
