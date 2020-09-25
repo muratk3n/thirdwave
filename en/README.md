@@ -23,7 +23,8 @@ this happens?" The leader himself. This raises the issue of
 arbitrariness, reduces predictability, noone can place this person
 anywhere, that creates problems. 
 
-"Why do people not like mix of distinct left and right for the same person / party?"
+"Why don't people like a mix of distinct left and right within the
+party / person?"
 
 ---
 
