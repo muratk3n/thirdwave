@@ -6,154 +6,142 @@ Pinned Tweet
 
 ---
 
-"@thwillow
+It doesn't. Clinton years and later events proved this creates its own
+[polarization](2018/05/polarization.md). The other party will
+radicalize on second-order issues, even solvable stuff will remain
+unsolved.
 
-Virtual school day 8: my kid now refers to her teacher as simply 'the
-host.'"
+My stance remains; distinct ideologies need to be represented in two
+more distinct parties. No centrism. No fascism.
 
----
-
-"@NeilDrysdale
-
-It’s hard to believe in the midst of a six-month lockdown that things
-are going to get worse in January. But even Michael Gove seems to be
-admitting that Brexit will bring chaos and disruption"
+"Then being lukewarm on all issues should work?"
 
 ---
 
-Replenished? HTF? That's crazy!!
+On the surface of it all "whatever it takes" approach could look
+appealing -- but if the leader says "sometimes I go to right,
+sometimes left" the question becomes "who decides in which instance
+this happens?" The leader himself. This raises the issue of
+arbitrariness, reduces predictability, noone can place this person
+anywhere, that creates problems. 
 
-"\#Hydrogen for the energy transition: do we have to manufacture it? ...
-
-The native hydrogen [as in dug up from ground, not produced], almost
-pure in this case, is directly burned in a suitable gas turbine, and
-produces electricity for a small village. Other wells around have been
-drilled to try to determine the reserves, within the meaning of oil &
-gas, and change the scale.
-
-This success shattered many a priori: many believed that no natural
-accumulation of H2 in the subsoil could exist. The initial well has
-been producing for 4 years without a drop in pressure, which means it
-is continuously recharged.
-
-In addition, surface measurements of the H2 content of soils do not
-show any leaks. These were rather expected, because the H2 molecule is
-very small and very reactive, and therefore it can easily migrate and
-combine with other chemical species"
-
-[Link](https://mobile.twitter.com/Sorbonne_Univ_/status/1279055295352881157)
+"Why do people not like mix of distinct left and right for the same person / party?"
 
 ---
 
-"Canadian energy company Petroma, led by Malian industrialist Aliou
-Boubacar Diallo, discovered the world’s largest natural hydrogen
-deposit 60 kilometres from the Malian capital of Bamako, a find that
-has increasingly attracted some of planet’s most forward-thinking
-business leaders interested in clean energy alternatives.
 
-In Bloc 25 covering 43,000 square kilometres, Petroma has affirmed
-massive quantities of 95 percent pure natural hydrogen, one of the
-most promising new sources needed for a global transition to clean
-energy, according to the French scientist Alain Prinzhofer at the
-l’Institut de Physique du Globe de Paris.
-
-The company has undertaken the first project to produce electricity
-from hydrogen without any C02 emissions"
-
-[Link](https://africabriefing.org/2019/09/petromas-natural-hydrogen-find-in-mali-produces-co2-free-clean-electricity/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fast mission to detect microbes on Venus -<br>Joint i4is, FIT, Harvard, Space Initiatives paper: &quot;A Precursor Balloon Mission for Venusian Astrobiology&quot; by (Image credit: Adrian Mann) <a href="https://twitter.com/hashtag/astrobiology?src=hash&amp;ref_src=twsrc%5Etfw">#astrobiology</a> <a href="https://twitter.com/hashtag/venus?src=hash&amp;ref_src=twsrc%5Etfw">#venus</a> <a href="https://twitter.com/hashtag/smallsatellite?src=hash&amp;ref_src=twsrc%5Etfw">#smallsatellite</a> <a href="https://twitter.com/RocketLab?ref_src=twsrc%5Etfw">@RocketLab</a> <a href="https://t.co/Uug3Vxaqoi">https://t.co/Uug3Vxaqoi</a> <a href="https://t.co/1MXdiKbPfI">pic.twitter.com/1MXdiKbPfI</a></p>&mdash; I4IS (@I4Interstellar) <a href="https://twitter.com/I4Interstellar/status/1309291967013163009?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-That makes it 1/15th in effect compared to the Hiroshima bomb. An
-early est had said 1/6th. Still huge.
-
-"@SheffieldBlast
-
-Our research into the \#BeirutExplosion has been published ... We
-studied videos posted on social media and estimated the yield to be
-0.5-1.1 kt TNT"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Producing <a href="https://twitter.com/hashtag/Solein?src=hash&amp;ref_src=twsrc%5Etfw">#Solein</a> is like brewing beer. Except it doesn&#39;t need barley or any other plant material - the raw material is CO₂ from air. Check out our Process Development Specialist explaining this with 🍺 in Episode 3 of our <a href="https://twitter.com/hashtag/VideoDiaries?src=hash&amp;ref_src=twsrc%5Etfw">#VideoDiaries</a>👇<a href="https://twitter.com/hashtag/SolarFoods?src=hash&amp;ref_src=twsrc%5Etfw">#SolarFoods</a><a href="https://t.co/4OhSihd7vf">https://t.co/4OhSihd7vf</a></p>&mdash; Solar Foods (@Solar_Foods) <a href="https://twitter.com/Solar_Foods/status/1308668524974538754?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+In many other aspects of consumption we replicate quality for all; my
+average priced TV monitor works at a certain expected quality, same
+for me and everyone else who buys that monitor. Why do we insist on
+seeing education as something different, as if it is not a product,
+and student (ed consumer) A can get the highest quality, but B has to
+settle with obscenely bad quality, and there is nothing (!) we can do
+about it.
 
 ---
 
-I can't believe we are polluting even space.. The movie *Gravity* was
-an eye opener 
+That's smart of them
 
-"@JimBridenstine
+"@Artemis_K_
 
-The @Space_Station has maneuvered 3 times in 2020 to avoid debris. In
-the last 2 weeks, there have been 3 high concern potential
-conjunctions. Debris is getting worse! Time for Congress to provide
-@CommerceGov with the $15 mil requested by @POTUS for the Office of
-Space Commerce"
+I find it so weird that students aren't using their camera. I haven't
+had one show themselves in tutorials since the semester started"
 
 ---
 
-Pundits can say "this and that is too ideological" to blame, bash
-others -- but beware -- even ppl who blame others for having ideology,
-have an ideology themselves... Because the absence of ideological
-discourse will automatically emphasize, indirectly, the *default
-ideology* in society, which right now is the Washingon Consensus, post
-Berlin-Wall hyper-marketism.
+[Education](2018/09/public-education.md)
 
 ---
 
-It's weird Hasish and others like him are named RINOs. In some ways
-they are more Republican than most.
+A tablet could carry / access all top-notch teaching on all subjects
+in the world. We don't need teachers in the old sense of the
+word. Flip all classes. Record everything. Async delivery of content
+is key, preferably by select few who know and can teach the subject the best.
 
 ---
 
-That's not why he did it. He, and other pols, might encourage such
-talk themselves, which is untrue. They do it to give the 24/7
-commentariat something to latch onto.
+Hi-tech paint job on an old system.. bound for failure.
 
-Hasish's beef is ideological. Ditto for McCain. These people care
-deeply about ideology. **It is their job**.
+"@ProfOfSarcasm
 
-"Gov Hasish went on to speak at Dem Convention bcz he doesn't like Trump's style"
-
----
-
-The future is here
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s right, I&#39;m upgrading the firmware of a light, so that it can connect to 5G WiFi. 🙄 <a href="https://t.co/9NtuAS3dvZ">pic.twitter.com/9NtuAS3dvZ</a></p>&mdash; Brad #BlackLivesMatter (@bradwilson) <a href="https://twitter.com/bradwilson/status/1308557653690339328?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Staring at my computer screen for hours on end and teaching to default
+Blackboard avatars from my shitty apartment is getting really old,
+really fast"
 
 ---
 
-🤔 🤔 🤔 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The old “normal” was bad because in the old “normal” a financial crisis destroyed millions of lives, people were being bankrupted by health insurers and the climate crisis was destroying the ecosystem. <br><br>We need to do something more than just going back to that old “normal.” <a href="https://t.co/svXd6M8GPX">https://t.co/svXd6M8GPX</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1309207348058095617?ref_src=twsrc%5Etfw">September 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Or... aaare they 🤨 ??
+True. The changes are so tiny, but we can detect that shit, and "hear"
+stuff through it.. Amazing. Another proof that our 'sensors' are
+incredibly well attuned to changes (we may not see in the dark, but
+detect movement, even with the corner of our eye).
+
+"However, the crucial thing is that usually fluids don’t change their
+volume very much. It’s next to impossible, even with an incredibly
+powerful pump, to change the volume of water much at all. Even air
+won’t change its volume much unless you stick it in a pump, or are
+dealing with really extreme situations like sonic booms and blast
+waves.  The study of how fluids behave in these situations is
+generally called “compressible flow”. It’s complicated and expensive
+to simulate, and apart from acoustics doesn’t enter much into everday
+life. And even sound waves are such tiny perturbations in the volume"
 
 ---
 
-Knowledge organizes, so it reduces entropy, one could say, implies
-more order. But new knowledge needs new forms of management, absent
-it, can create more disorder.
+Recent immigration is not at unseen levels, it happened during 1800s.
 
-These are all very speculative thoughts, of course.
+```python
+import pandas as pd
+df = pd.read_csv('foreignb.csv',sep='\t')
+df = df[['Year','Percentage of Foreign-Born']].set_index('Year')
+df.plot()
+plt.savefig('atw_01.png')
+```
+
+![](atw_01.png)
+
+However, there was a steady increase since mid-70s continued to this day.
+
+Interesting; wage increases also stalled since then. Correlation?
+Causation?
+
+Automation and outsourcing would play a role here too..
+
+[Data](https://en.wikipedia.org/wiki/Immigration_to_the_United_States)
 
 ---
 
-Per the weird (likely superfluous) correlation I noticed between my
-sci posts and chaos in the ME; I just dropped the m..f..ing bomb up in
-this bitch, so we're abt to have World War 3 right abt now, u feel me?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Advantages of the BoMax Photo-biocatalytic Hydrogen (BPH) system compared to existing hydrogen gas generating methods include:<br>BPH produces hydrogen on-site. No need for trucks to deliver hydrogen fuel. <br>BPH produces only 99.995% pure hydrogen. No harmful by-products. <a href="https://twitter.com/hashtag/BPH?src=hash&amp;ref_src=twsrc%5Etfw">#BPH</a></p>&mdash; BOMAX Hydrogen, LLC (@bomaxhydrogen) <a href="https://twitter.com/bomaxhydrogen/status/1273647247469817856?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Yes. They can be lied to, convinced on things against their interest,
-which all suggest direct democracy, or "polling to decide on policy
-direction" style of governence cannot work.
+But a company would think *why not twice that*? The last mov could
+have grossed 2 billion, which *Endgame* did, the work of a franchise
+that did not even exist a decade ago.. Also DSW merc sales are
+abysmal, a sign that people are not excited about the Woke
+direction.
 
-"People were misled by Brexit, does that mean they cannot judge most policies?"
+Disney knows it too; word is K. Kennedy, the Disney exec behind the
+new direction is sidelined.
+
+"Why do you say Disney Star Wars was unsuccesful? One of them grossed
+a billion"
 
 ---
 
-*Last updated 2020-09-24 10:57*
+No new major war or intervention for the past four years.. When was
+the last time that happened? Carter?
+
+---
+
+*Last updated 2020-09-25 12:12*
 
 ---
 
