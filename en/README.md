@@ -94,8 +94,8 @@ life. And even sound waves are such tiny perturbations in the volume"
 
 ---
 
-There was a rise in immigration, closest such numbers were seen was
-during 1800s. 
+There was a rise in immigration into US, closest such numbers were
+last seen was during 1800s.
 
 ```python
 import pandas as pd
