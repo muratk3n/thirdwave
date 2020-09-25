@@ -102,7 +102,7 @@ import pandas as pd
 df = pd.read_csv('foreignb.csv',sep='\t')
 df = df[['Year','Percentage of Foreign-Born']].set_index('Year')
 df.plot()
-plt.savefig('atw_01.png')
+plt.savefig('tweets/2020/atw_01.png')
 ```
 
 ![](atw_01.png)
