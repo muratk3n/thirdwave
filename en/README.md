@@ -120,11 +120,11 @@ consumption = 10 # kw, per person
 pop = 7.8e9 # world population
 daily_world_consumption = consumption*24*pop # kwh
 kg_lit_needed = daily_world_consumption / 70.0 * 60.0
-print ('needed', int(kg_lit_needed / 1e9)) # billion kg, million ton
+print ('needed,', int(kg_lit_needed / 1e9), 'million tons') # billion kg
 ```
 
 ```text
-needed 1604
+needed, 1604 million tons
 ```
 
 Required litihum is over 90 TIMES of available reserves.
