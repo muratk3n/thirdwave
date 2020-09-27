@@ -38,6 +38,24 @@ same stuff"
 
 ---
 
+"The cost of proteins will be five times cheaper by 2030 and 10 times
+cheaper by 2035 than existing animal proteins, before ultimately
+approaching the cost of sugar. They will also be superior in every key
+attribute – more nutritious, healthier, better tasting, and more
+convenient, with almost unimaginable variety.
+
+This means that, by 2030, modern food products will be higher quality
+and cost less than half as much to produce as the animal-derived
+products they replace.
+
+The impact of this disruption on industrial animal farming will be
+profound. By 2030, the number of cows in the U.S. will have fallen by
+50% and the cattle farming industry will be all but bankrupt"
+
+[Link](https://www.rethinkx.com/food-and-agriculture-executive-summary)
+
+---
+
 If there are cheap, large scale processes that can generate green H2,
 a company like Solar Foods can skip the step of generating it on their
 own, just purchase it on the market, speeding up the process.
@@ -57,24 +75,6 @@ microbes produce a food that’s composed of roughly 20-25% carbs, 5-10%
 fat, and 50% protein"
 
 [Link](https://www.fastcompany.com/90372330/would-you-eat-a-burger-made-out-of-co2-captured-from-the-air)
-
----
-
-"The cost of proteins will be five times cheaper by 2030 and 10 times
-cheaper by 2035 than existing animal proteins, before ultimately
-approaching the cost of sugar. They will also be superior in every key
-attribute – more nutritious, healthier, better tasting, and more
-convenient, with almost unimaginable variety.
-
-This means that, by 2030, modern food products will be higher quality
-and cost less than half as much to produce as the animal-derived
-products they replace.
-
-The impact of this disruption on industrial animal farming will be
-profound. By 2030, the number of cows in the U.S. will have fallen by
-50% and the cattle farming industry will be all but bankrupt"
-
-[Link](https://www.rethinkx.com/food-and-agriculture-executive-summary)
 
 ---
 
