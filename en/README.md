@@ -93,7 +93,7 @@ halted in the chinese market"
 
 Battery based solutions cannot be scaled.
 
-Mainstream storage neeeds to be based on something else.
+Mainstream storage neeeds to be anchored on something else.
 
 ---
 
