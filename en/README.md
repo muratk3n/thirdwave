@@ -6,7 +6,6 @@ Pinned Tweet
 
 ---
 
-
 "@_taylorhudak
 
 Shocking revelations on \#Assange case irregularities & judges' conflicts of interest"
@@ -132,7 +131,7 @@ water resources also shift.
 
 ---
 
-"Hydrogen-powered passenger plane completes maiden flight in world first"
+CNBC: "Hydrogen-powered passenger plane completes maiden flight in world first"
 
 [Link](https://www.cnbc.com/2020/09/25/hydrogen-powered-passenger-plane-completes-maiden-flight.html)
 
