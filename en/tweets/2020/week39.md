@@ -449,12 +449,6 @@ testing everywhere, all the time.
 
 ---
 
-Still, R for UK in 11/9 was wayy below 1, not above 1 like BBC stated.
-
-[Link](../../2020/02/corona.md#Rt)
-
----
-
 Did new cases jump in UK? Compared to DE,
 
 ```

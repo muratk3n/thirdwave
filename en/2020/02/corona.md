@@ -63,43 +63,6 @@ to data, and using the found $\beta$ and $\gamma$ we calculate $R_0$.
 
 <a name='Rt'/>
 
-$R_t$ Estimate
-
-Code is based on [1]
-
-```python
-import util
-
-country = 'United Kingdom'
-pop, df = util.estimate_Rt_for_country(country)
-import matplotlib.dates as mdates
-ax = df.plot('Date','Rt',linewidth=3,color='red',grid=True,ylim=(0,6),figsize=(12,8))
-ax.xaxis.grid(True, which='minor')
-ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
-ax.xaxis.set_major_formatter(mdates.DateFormatter('%d-%m'))
-plt.gcf().autofmt_xdate()
-plt.legend(fontsize=16)
-plt.title(country)
-plt.savefig('Rt-%s' % country.replace(" ",""))
-print (df[['Date','Rt']].tail(10))
-```
-
-```text
-          Date        Rt
-231 2020-09-09  0.256549
-232 2020-09-10  0.263986
-233 2020-09-11       NaN
-234 2020-09-12       NaN
-235 2020-09-13       NaN
-236 2020-09-14       NaN
-237 2020-09-15       NaN
-238 2020-09-16       NaN
-239 2020-09-17       NaN
-240 2020-09-18       NaN
-```
-
-![](Rt-UnitedKingdom.png)
-
 
 Daily Change
 

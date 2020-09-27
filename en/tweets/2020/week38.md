@@ -427,23 +427,6 @@ that dominated Russian rural life for the next 200 years"
 
 ---
 
-BBC put their news out in 9/11, Imma recheck in 7 days (rolling avg
-needs buffer data), if it is still way below 1, you'll hear from me.
-
----
-
-I dont think that's right.. Last [I checked](../../2020/02/corona.md#Rt) UK was at
-
-```
-2020-09-04  0.217387
-```
-
-BBC: "UK epidemic growing as R number goes above 1"
-
-[Link](https://www.bbc.com/news/health-54116939)
-
----
-
 "@A_J_Higgins
 
 Dimensionless groupings that don’t depend on unit system invariably
