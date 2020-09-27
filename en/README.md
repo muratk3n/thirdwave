@@ -15,47 +15,6 @@ Shocking revelations on \#Assange case irregularities & judges' conflicts of int
 
 ---
 
-Li-On  battery tech cannot be scaled.
-
-Mainstream storage neeeds to be based on something else.
-
----
-
-If everyone used batteries to store energy, below is the amt of
-lithium needed.. Single person consumes 10 KW of energy, 240 Kwh /
-day, to hold the energy required for a day, for everyone,
-
-
-```python
-consumption = 10 # kw, per person
-pop = 7.8e9 # world population
-daily_world_consumption = consumption*24*pop # kwh
-kg_lit_needed = daily_world_consumption / 70.0 * 60.0
-print ('needed', int(kg_lit_needed / 1e9)) # billion kg, million ton
-```
-
-```text
-needed 1604
-```
-
-Required litihum is over 90 TIMES of available reserves.
-
----
-
-There is >60kg of lithium carbonate in a 70kWh battery. The entire
-world reserve for lithium is estimated to be ~17 million tonnes.
-
-Simply put, there isn't enough of this shit to go around.
-
----
-
-400 liters of water is used per kilo of lithium production. Major waste.
-
-Water use is a problem bcz while lithium rich water is dug up, potable
-water resources also shift.
-
----
-
 Woah. You are one with the tree... Trippy dude.
 
 "[D]espite the incredible diversity of living things, animals, plants,
@@ -101,14 +60,6 @@ fat, and 50% protein"
 
 ---
 
-"@H2Europe
-
-Three UK companies partnered up to build #ZeroEmission trains thanks
-to \#hydrogen"
-
-[Link](https://twitter.com/H2Europe/status/1309462659373228033)
-
----
 
 "The cost of proteins will be five times cheaper by 2030 and 10 times
 cheaper by 2035 than existing animal proteins, before ultimately
@@ -128,6 +79,15 @@ profound. By 2030, the number of cows in the U.S. will have fallen by
 
 ---
 
+"@H2Europe
+
+Three UK companies partnered up to build #ZeroEmission trains thanks
+to \#hydrogen"
+
+[Link](https://twitter.com/H2Europe/status/1309462659373228033)
+
+---
+
 "@Jkylebass
 
 The only person in the world that can bring @SenTomCotton and
@@ -142,6 +102,47 @@ bankers"
 One of china’s largest property developers is pleading to the
 government for help as it faces a cash crunch. It’s bonds were just
 halted in the chinese market"
+
+---
+
+Li-On  battery tech cannot be scaled.
+
+Mainstream storage neeeds to be based on something else.
+
+---
+
+If everyone used batteries to store energy, below is the amt of
+lithium needed.. Single person consumes 10 KW of energy, 240 Kwh /
+day, to hold the energy required for a day, for everyone,
+
+
+```python
+consumption = 10 # kw, per person
+pop = 7.8e9 # world population
+daily_world_consumption = consumption*24*pop # kwh
+kg_lit_needed = daily_world_consumption / 70.0 * 60.0
+print ('needed', int(kg_lit_needed / 1e9)) # billion kg, million ton
+```
+
+```text
+needed 1604
+```
+
+Required litihum is over 90 TIMES of available reserves.
+
+---
+
+There is >60kg of lithium carbonate in a 70kWh battery. The entire
+world reserve for lithium is estimated to be ~17 million tonnes.
+
+Simply put, there isn't enough of this shit to go around.
+
+---
+
+400 liters of water is used per kilo of lithium production. Major waste.
+
+Water use is a problem bcz while lithium rich water is dug up, potable
+water resources also shift.
 
 ---
 
