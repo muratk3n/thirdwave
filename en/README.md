@@ -25,19 +25,6 @@ Shocking revelations on \#Assange case irregularities & judges' conflicts of int
 
 ---
 
-You are one with the tree... Trippy dude.
-
-"[D]espite the incredible diversity of living things, animals, plants,
-and the enormous variety and diversity of micro-organisms, we all have
-characteristics that we share.  The same biochemical base, the same
-DNA as genetic material, and we're all based on the same proteins.
-Everything that's in bacteria, fungus, birds, whales or plants is the
-same stuff"
-
-[Link](https://youtu.be/ltzJbdKtKa4?t=1035)
-
----
-
 "The cost of proteins will be five times cheaper by 2030 and 10 times
 cheaper by 2035 than existing animal proteins, before ultimately
 approaching the cost of sugar. They will also be superior in every key
@@ -148,6 +135,19 @@ water resources also shift.
 "Hydrogen-powered passenger plane completes maiden flight in world first"
 
 [Link](https://www.cnbc.com/2020/09/25/hydrogen-powered-passenger-plane-completes-maiden-flight.html)
+
+---
+
+You are one with the tree... Trippy dude.
+
+"[D]espite the incredible diversity of living things, animals, plants,
+and the enormous variety and diversity of micro-organisms, we all have
+characteristics that we share.  The same biochemical base, the same
+DNA as genetic material, and we're all based on the same proteins.
+Everything that's in bacteria, fungus, birds, whales or plants is the
+same stuff"
+
+[Link](https://youtu.be/ltzJbdKtKa4?t=1035)
 
 ---
 
