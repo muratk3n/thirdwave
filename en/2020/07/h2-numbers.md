@@ -7,7 +7,26 @@ water is used per kilo of lithium [7]. Water is a problem bcz while
 lithium rich water is pumped, potable water resources also shift.
 
 The entire world reserve for lithium is estimated to be ~17 million
-tonnes. 
+tonnes.
+
+If everyone used batteries to store energy, below is the amt of
+lithium needed.. Single person consumes 10 KW of energy, 240 Kwh /
+day, to hold the energy required for a day, for everyone,
+
+```python
+consumption = 10 # kw, per person
+pop = 7.8e9 # world population
+daily_world_consumption = consumption*24*pop # kwh
+kg_lit_needed = daily_world_consumption / 70.0 * 60.0
+print ('needed', int(kg_lit_needed / 1e9)) # billion kg, million ton
+```
+
+```text
+needed 1604
+```
+
+Required litihum is over 90 TIMES of available reserves.
+
 
 BEV
 
