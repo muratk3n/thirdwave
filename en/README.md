@@ -15,7 +15,17 @@ Shocking revelations on \#Assange case irregularities & judges' conflicts of int
 
 ---
 
-Woah. You are one with the tree... Trippy dude.
+"75% of UK biz is unprepared for Brexit"
+
+[Link](https://youtu.be/F2W4soC1UHQ?t=352)
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/vy3gMVGwjuc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+You are one with the tree... Trippy dude.
 
 "[D]espite the incredible diversity of living things, animals, plants,
 and the enormous variety and diversity of micro-organisms, we all have
@@ -25,16 +35,6 @@ Everything that's in bacteria, fungus, birds, whales or plants is the
 same stuff"
 
 [Link](https://youtu.be/ltzJbdKtKa4?t=1035)
-
----
-
-"75% of UK biz is unprepared for Brexit"
-
-[Link](https://youtu.be/F2W4soC1UHQ?t=352)
-
----
-
-<iframe width="340" src="https://www.youtube.com/embed/vy3gMVGwjuc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -59,7 +59,6 @@ fat, and 50% protein"
 [Link](https://www.fastcompany.com/90372330/would-you-eat-a-burger-made-out-of-co2-captured-from-the-air)
 
 ---
-
 
 "The cost of proteins will be five times cheaper by 2030 and 10 times
 cheaper by 2035 than existing animal proteins, before ultimately
