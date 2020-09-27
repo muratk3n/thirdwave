@@ -96,9 +96,9 @@ Mainstream storage neeeds to be anchored on something else.
 
 ---
 
-If everyone used batteries to store energy, below is the amt of
-lithium needed.. Single person consumes 10 KW of energy, 240 Kwh /
-day, to hold the energy required for a day, for everyone,
+If everyone used batteries to store energy, here is the amt of lithium
+needed.. Single person consumes 10 KW of energy, 240 Kwh / day, to
+hold the energy required for a day, for everyone,
 
 
 ```python
