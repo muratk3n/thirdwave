@@ -91,7 +91,7 @@ halted in the chinese market"
 
 ---
 
-Li-On  battery tech cannot be scaled.
+Battery based solutions cannot be scaled.
 
 Mainstream storage neeeds to be based on something else.
 
