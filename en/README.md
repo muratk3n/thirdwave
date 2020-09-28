@@ -1,11 +1,5 @@
 # Tweets
 
-CNBC: "We're in the 'middle of a breakthrough' for the hydrogen industry"
-
-[Link](https://youtu.be/ELbQT57qeG8)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen/aviation: coming clean <a href="https://t.co/JoFQo4Q17m">https://t.co/JoFQo4Q17m</a></p>&mdash; The Lex Column (@FTLex) <a href="https://twitter.com/FTLex/status/1309506640337612803?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -129,6 +123,12 @@ Zee Ping Ping
 ---
 
 Ho Dung Lai Lai
+
+---
+
+CNBC: "We're in the 'middle of a breakthrough' for the hydrogen industry"
+
+[Link](https://youtu.be/ELbQT57qeG8)
 
 ---
 
