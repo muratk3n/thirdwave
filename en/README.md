@@ -123,10 +123,6 @@ carbs, helps digest), sm and multivitamins.
 
 ---
 
-'Tis all fukked G.
-
----
-
 Whaddidasay? World War 3. Telling ya
 
 "Armenia and Azerbaijan clash over disputed Nagorno-Karabakh region"
