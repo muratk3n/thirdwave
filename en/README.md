@@ -32,7 +32,7 @@ Now we understand why it is always cramped in a sub.
 ---
 
 An Ohio class sub weighs 16000 tons. 16K TONS. Typical car weighs < 2,
-a Boeing 737, 71 tons.
+even a Boeing 737 weighs 71 tons.
 
 ---
 
