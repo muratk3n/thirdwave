@@ -117,12 +117,6 @@ the court when they started hand-wringing about the New Deal.
 
 ---
 
-Salami.. mmmmm.. it is actually light, and has all the funky
-aminos. Mobile meal idea, whole wheat flour (mix water, on site,
-carbs, helps digest), sm and multivitamins.
-
----
-
 Whaddidasay? World War 3. Telling ya
 
 "Armenia and Azerbaijan clash over disputed Nagorno-Karabakh region"
