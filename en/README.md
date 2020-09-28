@@ -16,7 +16,7 @@ force from mass is easy, $F = ma$ or $F = m g$, $g = 9.8$
 approximately, or 10. For force mass of $m = 50 kg$ is multiplied by
 10, becomes 500 Newtons.
 
-"You say weight in kilos but talk about push, as in force. Kg is not a
+"You say weight in kilos but talk about push, as in force, kg is not a
 force unit"
 
 ---
