@@ -71,15 +71,6 @@ Polk.. that was one sneaky son of a bitch.
 
 ---
 
-Armenia is a democracy.
-
-Azerbaijan is so f-ing not, it's actually funny.
-
-Wars between democracies and the rest usually does not go well for the
-"the rest".
-
----
-
 "Pompeo: Chinese Consulate in NYC Is Espionage Hub"
 
 [Link](https://www.nationalreview.com/news/pompeo-chinese-consulate-in-nyc-is-espionage-hub)
