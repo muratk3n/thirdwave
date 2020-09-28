@@ -117,7 +117,7 @@ the court when they started hand-wringing about the New Deal.
 
 ---
 
-Whadidiasay? World War 3. Telling ya
+Whadidasay? World War 3. Telling ya
 
 "Armenia and Azerbaijan clash over disputed Nagorno-Karabakh region"
 
