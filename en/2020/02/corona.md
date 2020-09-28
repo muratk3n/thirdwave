@@ -114,13 +114,8 @@ Files
 
 References
 
-[1] https://github.com/shwars/SlidingSir
-
 [2] https://notebooks.ai/rmotr-curriculum/analyzing-covid19-outbreak-40c03c06
-
-[3] https://medium.com/analytics-vidhya/covid19-transmission-forecast-in-italy-a-python-tutorial-for-sri-model-8c103c0a95b9
 
 [4] https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf
 
-[5] https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/
 

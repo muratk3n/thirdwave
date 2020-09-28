@@ -1,156 +1,163 @@
 # Tweets
 
-Pinned Tweet
+CNBC: "We're in the 'middle of a breakthrough' for the hydrogen industry"
 
-<iframe width="340"  src="https://www.youtube.com/embed/gJ5KV3rzuag?start=60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-"@_taylorhudak
-
-Shocking revelations on \#Assange case irregularities & judges' conflicts of interest"
-
-[Link](https://mobile.twitter.com/_taylorhudak/status/1309910266910593029)
+[Link](https://youtu.be/ELbQT57qeG8)
 
 ---
 
-"75% of UK biz is unprepared for Brexit"
-
-[Link](https://youtu.be/F2W4soC1UHQ?t=352)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen/aviation: coming clean <a href="https://t.co/JoFQo4Q17m">https://t.co/JoFQo4Q17m</a></p>&mdash; The Lex Column (@FTLex) <a href="https://twitter.com/FTLex/status/1309506640337612803?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/vy3gMVGwjuc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Habit from aero -- '50 kg craft hover requires 50 kg of thrust' u say,
+makes it easier to think about it, technically incomplete, but getting
+force from mass is easy, $F = ma$ or $F = m g$, $g = 9.8$
+approximately, or 10. For force mass of $m = 50 kg$ is multiplied by
+10, becomes 500 Newtons.
+
+"You say weight in kilos but talk about push, as in force. Kg is not a
+force unit"
 
 ---
 
-"The cost of proteins will be five times cheaper by 2030 and 10 times
-cheaper by 2035 than existing animal proteins, before ultimately
-approaching the cost of sugar. They will also be superior in every key
-attribute – more nutritious, healthier, better tasting, and more
-convenient, with almost unimaginable variety.
-
-This means that, by 2030, modern food products will be higher quality
-and cost less than half as much to produce as the animal-derived
-products they replace.
-
-The impact of this disruption on industrial animal farming will be
-profound. By 2030, the number of cows in the U.S. will have fallen by
-50% and the cattle farming industry will be all but bankrupt"
-
-[Link](https://www.rethinkx.com/food-and-agriculture-executive-summary)
+I'd love to see someone try to make a sub fly. If you see that shit in
+a movie don't believe it. It's so heavy... It's like a Boeing with
+lithium-ion batteries 😆 😆 😆 😆
 
 ---
 
-If there are cheap, large scale processes that can generate green H2,
-a company like Solar Foods can skip the step of generating it on their
-own, just purchase it on the market, speeding up the process.
+Now we understand why it is always cramped in a sub.
 
 ---
 
-H2 will be required even to produce food! Energy for the car, energy for you!
-
-"Solar Foods, a Finland-based company, has developed a process to use
-renewable electricity and CO2 to produce a healthy ingredient that
-looks like wheat flour and contains 50% protein. 'Because we don’t use
-sugars, or similar agricultural feedstocks, we can completely
-disconnect from agriculture,' Vainikka says. The process uses solar
-power to split water through electrolysis in a bioreactor, creating
-hydrogen that can give microbes energy as they’re also fed carbon. The
-microbes produce a food that’s composed of roughly 20-25% carbs, 5-10%
-fat, and 50% protein"
-
-[Link](https://www.fastcompany.com/90372330/would-you-eat-a-burger-made-out-of-co2-captured-from-the-air)
+An Ohio class sub weighs 16000 tons. 16K TONS. Typical car weighs < 2,
+a Boeing 737, 71 tons.
 
 ---
 
-"@H2Europe
-
-Three UK companies partnered up to build \#ZeroEmission trains thanks
-to \#hydrogen"
-
-[Link](https://twitter.com/H2Europe/status/1309462659373228033)
-
----
-
-"@Jkylebass
-
-The only person in the world that can bring @SenTomCotton and
-@RashidaTlaib together is Secretary xi xinping. Concentration camps
-are enough of deterrent for Wall Street to stop acting as Beijing's
-bankers"
-
----
-
-"@Jkylebass
-
-One of china’s largest property developers is pleading to the
-government for help as it faces a cash crunch. It’s bonds were just
-halted in the chinese market"
-
----
-
-Battery based solutions cannot be scaled.
-
-Mainstream storage neeeds to be anchored on something else.
-
----
-
-If everyone used batteries to store energy, here is the amt of lithium
-needed.. Single person consumes 10 KW of energy, 240 Kwh / day, to
-hold the energy required for a day, for everyone,
-
+While it looks fun, a submarine hobby might not be practical. Say I
+wanted to have a subsurface living environment, width 2.5, height 3
+length 6 meters. This means
 
 ```python
-consumption = 10 # kw, per person
-pop = 7.8e9 # world population
-daily_world_consumption = consumption*24*pop # kwh
-kg_lit_needed = daily_world_consumption / 70.0 * 60.0
-print ('needed,', int(kg_lit_needed / 1e9), 'million tons') # billion kg
+w=2.5;h=3;l=6
+print (w*h*l, 'm^3')
 ```
 
 ```text
-needed, 1604 million tons
+45.0 m^3
 ```
 
-Required litihum is over 90 TIMES of what is available in reserves.
+of volume. 1 cubic meter of water is 1 ton. Then, and bcz when you
+submerge something same amount of volume of water in weight pushes
+back at you, to counteract it and to remain below surface, you need
+provide downward pull of 45 tons! You must artificially *add weight*
+to keep this thing below water. People use steel, lead, whatever it
+takes to make the structure heavy; this complicates things
+logistically in DIY terms, hauling something >20 tons in a truck is a
+major pain in the ass. Then u need build on site, or in a navy
+yard. We r now talking lots of material, hairy logistics.. government
+level stuff.
+
+My interests / skillset are mostly around keeping things light, subs
+are a different kinda game.
 
 ---
 
-There is >60kg of lithium carbonate in a 70kWh battery. The entire
-world reserve for lithium is estimated to be ~17 million tonnes.
+Polk.. that was one sneaky son of a bitch.
 
-Simply put, there isn't enough of this shit to go around.
-
----
-
-400 liters of water is used per kilo of lithium production. Major waste.
-
-Water use is a problem bcz while lithium rich water is dug up, potable
-water resources also shift.
+[Link](https://youtu.be/3OMmxKiG4LE)
 
 ---
 
-CNBC: "Hydrogen-powered passenger plane completes maiden flight in world first"
+Armenia is a democracy.
 
-[Link](https://www.cnbc.com/2020/09/25/hydrogen-powered-passenger-plane-completes-maiden-flight.html)
+Azerbaijan is so f-ing not, it's actually funny.
 
----
-
-You are one with the tree... Trippy dude.
-
-"[D]espite the incredible diversity of living things, animals, plants,
-and the enormous variety and diversity of micro-organisms, we all have
-characteristics that we share.  The same biochemical base, the same
-DNA as genetic material, and we're all based on the same proteins.
-Everything that's in bacteria, fungus, birds, whales or plants is the
-same stuff"
-
-[Link](https://youtu.be/ltzJbdKtKa4?t=1035)
+Wars between democracies and the rest usually does not go well for the
+"the rest".
 
 ---
 
-*Last updated 2020-09-27 08:30*
+"Pompeo: Chinese Consulate in NYC Is Espionage Hub"
+
+[Link](https://www.nationalreview.com/news/pompeo-chinese-consulate-in-nyc-is-espionage-hub)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‼️Our member <a href="https://twitter.com/hashtag/FINCANTIERI?src=hash&amp;ref_src=twsrc%5Etfw">#FINCANTIERI</a> starts dry dock for experimental vessel <a href="https://twitter.com/hashtag/ZEUS?src=hash&amp;ref_src=twsrc%5Etfw">#ZEUS</a> - <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> Ultimate Ship🚢! The vessel will be equipped with a 130 kW <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> system powered by about 50 kg of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><br><br>Read more👉<a href="https://t.co/kdE4hR86cZ">https://t.co/kdE4hR86cZ</a><a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/wHk8hwNOsW">pic.twitter.com/wHk8hwNOsW</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1310141850678898694?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"The Judiciary Act of 1789 established the first Supreme Court, with
+six Justices. In 1801, President John Adams and a lame-duck Federalist
+Congress passed the Judiciary Act of 1801, which reduced the Court to
+five Justices in an attempt to limit incoming President Thomas
+Jefferson’s appointments. Jefferson and his Democratic-Republicans
+soon repealed that act, putting the Court back to six Justices. Then,
+in 1807, Jefferson and Congress added a seventh Justice when Congress
+added a seventh federal court circuit.
+
+In early 1837, President Andrew Jackson was able to add two additional
+Justices after Congress expanded the number of federal circuit court
+districts. Under different circumstances, Congress created the 10th
+Circuit in 1863 during the Civil War, and the Court briefly had 10
+Justices. Congress then passed legislation in 1866 to reduce the Court
+to seven Justices. That only lasted until 1869, when a new Judiciary
+Act sponsored by Senator Lyman Trumbull put the number back to nine
+Justices"
+
+[Link](https://www.constitutioncenter.org/blog/packing-the-supreme-court-explained)
+
+---
+
+Changing the make up of the SCOTUS, not unheard of. FDR nearly packed
+the court when they started hand-wringing about the New Deal.
+
+---
+
+Salami.. mmmmm.. it is actually light, and has all the funky
+aminos. Mobile meal idea, whole wheat flour (mix water, on site,
+carbs, helps digest), sm and multivitamins.
+
+---
+
+'Tis all fukked G.
+
+---
+
+Whaddidasay? World War 3. Telling ya
+
+"Armenia and Azerbaijan clash over disputed Nagorno-Karabakh region"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hello FORTRAN my old friend<br><br>I’ve come to code with you again<br><br>Because algorithms softly creeping<br><br>Random seeds set while I was sleeping<br><br>And the version that was running on my mainframe<br><br>Still remains<br><br>Within the sound of science</p>&mdash; James (@astrocrash) <a href="https://twitter.com/astrocrash/status/1309621918916640769?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+---
+
+
+Zee you fonked it up badly son.. CH needed less authoritarianism, not
+more. How u gon get out of this shit?
+
+---
+
+Zee Ping Ping 
+
+---
+
+Ho Dung Lai Lai
+
+---
+
+The PQM Project - Babe I'm Gonna Leave You \#music
+
+[Link](https://youtu.be/UsU_xp1ynoE?t=113)
+
+---
+
+*Last updated 2020-09-28 18:59*
 
 ---
 
