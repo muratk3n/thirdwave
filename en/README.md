@@ -25,8 +25,8 @@ calling pro gaming a sport]"
 ---
 
 Of course.. people in US living near Canada used to cross over to to
-buy "cheap" insulin there, but with the border closed now they are
-screwed. They are like rationing and shit, and sharing.. ? Crazy.
+buy "cheap" insulin there, right? But now with the border closed they
+are screwed. They are like rationing.. and sharing.. ?  This is crazy.
 
 ---
 
