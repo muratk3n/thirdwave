@@ -19,8 +19,8 @@ Sport means all parts of the player needs to MOVE.
 Ping Pong is a sport. Even golf, which is closer to taking a shit than
 football, is a sport.
 
-"But what defines a sport? Increased heart rate? [trying to justify
-calling pro gaming a sport]"
+"But what defines a sport? Increased heart rate? [news program trying
+to justify calling pro gaming a sport]"
 
 ---
 
