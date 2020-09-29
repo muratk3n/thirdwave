@@ -49,13 +49,8 @@ It's not The Onion
 
 US has fairly stable neighborhood. Protected by two oceans from both
 sides, imperial powers gone, calm Canada to North, now pieceful
-relations with Mexico.
-
-Anatolia, so called "Turkey", land of my niggers, not so lucky. There
-are too many chaotic neighbors. Now some nat dipshits are starting to
-realize why prev admins were adamant about piece at the danger of
-coming across too neutral / docile. If you open that can of whoop ass,
-even the can could whoop your ass.
+relations with Mexico. The neighborhood around the Caucasus, ME, not
+so calm.
 
 ---
 
