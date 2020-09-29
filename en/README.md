@@ -4,7 +4,7 @@ FUCK JOBS
 
 ---
 
-PAUL ANKA, It's My Life - Jazz Version \#music
+Paul Anka, It's My Life - Jazz Version \#music
 
 [Link](https://youtu.be/tJSByloqesE)
 
