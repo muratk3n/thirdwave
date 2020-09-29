@@ -1,144 +1,158 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen/aviation: coming clean <a href="https://t.co/JoFQo4Q17m">https://t.co/JoFQo4Q17m</a></p>&mdash; The Lex Column (@FTLex) <a href="https://twitter.com/FTLex/status/1309506640337612803?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+PAUL ANKA | It's My Life - Jazz Version \#music
+
+[Link](https://youtu.be/tJSByloqesE)
 
 ---
 
-Habit from aero -- '50 kg craft hover requires 50 kg of thrust' u say,
-makes it easier to think about it, technically incomplete, but getting
-force from mass is easy, $F = ma$ or $F = m g$, $g = 9.8$
-approximately, or 10. For force mass of $m = 50 kg$ is multiplied by
-10, becomes 500 Newtons.
-
-"You say weight in kilos but talk about push, as in force, kg is not a
-force unit"
+FUCK JOBS
 
 ---
 
-I'd love to see someone try to make a sub fly. If you see that shit in
-a movie don't believe it. It's so heavy... It's like a Boeing with
-lithium-ion batteries 😆 😆 😆 😆
+By football I mean the sport where u kick the ball around. 
 
 ---
 
-Now we understand why it is always cramped in a sub.
+Sport means all parts of the player needs to MOVE.
+
+Ping Pong is a sport. Even golf, which is closer to taking a shit than
+football, is a sport.
+
+"But what defines a sport? Increased heart rate? [trying to justify
+calling pro gaming a sport]"
 
 ---
 
-An Ohio class sub weighs 16000 tons. 16K TONS. Typical car weighs < 2,
-even a Boeing 737 weighs 71 tons.
+Of course.. people in US living near Canada used to cross over to to
+buy "cheap" insulin there, but with the border closed now they are
+screwed. They are like rationing and shit, and sharing.. ? Crazy.
 
 ---
 
-While it looks fun, a submarine hobby might not be practical. Say I
-wanted to have a subsurface living environment, width 2.5, height 3
-length 6 meters. This means
+"@dailyposter
 
-```python
-w=2.5;h=3;l=6
-print (w*h*l, 'm^3')
-```
-
-```text
-45.0 m^3
-```
-
-of volume. 1 cubic meter of water is 1 ton. Then, and bcz when you
-submerge something same amount of volume of water in weight pushes
-back at you, to counteract it and to remain below surface, you need
-provide downward pull of 45 tons! You must artificially *add weight*
-to keep this thing below water. People use steel, lead, whatever it
-takes to make the structure heavy; this complicates things
-logistically in DIY terms, hauling something >20 tons in a truck is a
-major pain in the ass. Then u need build on site, or in a navy
-yard. We r now talking lots of material, hairy logistics.. government
-level stuff.
-
-My interests / skillset are mostly around keeping things light, subs
-are a different kinda game.
+According to data gleaned from a recent government report, the richest
+1% steal $266 billion in unpaid taxes EVERY SINGLE YEAR"
 
 ---
 
-Polk.. that was one sneaky son of a bitch.
+It's not The Onion
 
-[Link](https://youtu.be/3OMmxKiG4LE)
+"IRS: Sorry, but It’s Just Easier and Cheaper to Audit the Poor"
 
----
-
-"Pompeo: Chinese Consulate in NYC Is Espionage Hub"
-
-[Link](https://www.nationalreview.com/news/pompeo-chinese-consulate-in-nyc-is-espionage-hub)
+[Link](https://www.propublica.org/article/irs-sorry-but-its-just-easier-and-cheaper-to-audit-the-poor)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‼️Our member <a href="https://twitter.com/hashtag/FINCANTIERI?src=hash&amp;ref_src=twsrc%5Etfw">#FINCANTIERI</a> starts dry dock for experimental vessel <a href="https://twitter.com/hashtag/ZEUS?src=hash&amp;ref_src=twsrc%5Etfw">#ZEUS</a> - <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> Ultimate Ship🚢! The vessel will be equipped with a 130 kW <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> system powered by about 50 kg of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><br><br>Read more👉<a href="https://t.co/kdE4hR86cZ">https://t.co/kdE4hR86cZ</a><a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/wHk8hwNOsW">pic.twitter.com/wHk8hwNOsW</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1310141850678898694?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+US has fairly stable neighborhood. Protected by two oceans from both
+sides, imperial powers gone, calm Canada to North, now pieceful
+relations with Mexico.
+
+Anatolia, so called "Turkey", land of my niggers, not so lucky. There
+are too many chaotic neighbors. Now some nat dipshits are starting to
+realize why prev admins were adamant about piece at the danger of
+coming across too neutral / docile. If you open that can of whoop ass,
+even the can could whoop your ass.
 
 ---
 
-"The Judiciary Act of 1789 established the first Supreme Court, with
-six Justices. In 1801, President John Adams and a lame-duck Federalist
-Congress passed the Judiciary Act of 1801, which reduced the Court to
-five Justices in an attempt to limit incoming President Thomas
-Jefferson’s appointments. Jefferson and his Democratic-Republicans
-soon repealed that act, putting the Court back to six Justices. Then,
-in 1807, Jefferson and Congress added a seventh Justice when Congress
-added a seventh federal court circuit.
+The Daily Poster: "There’s an impulse to try to turn Trump’s tax
+shenanigans into a story only about Trump — as if he is a singular
+villain. But while he deserves much criticism for gaming the system,
+we can’t ignore the fact that it is a system — one that allows wealthy
+people like Trump avoid paying $266 billion of taxes every single
+year"
 
-In early 1837, President Andrew Jackson was able to add two additional
-Justices after Congress expanded the number of federal circuit court
-districts. Under different circumstances, Congress created the 10th
-Circuit in 1863 during the Civil War, and the Court briefly had 10
-Justices. Congress then passed legislation in 1866 to reduce the Court
-to seven Justices. That only lasted until 1869, when a new Judiciary
-Act sponsored by Senator Lyman Trumbull put the number back to nine
-Justices"
-
-[Link](https://www.constitutioncenter.org/blog/packing-the-supreme-court-explained)
+[Link](https://www.dailyposter.com/p/the-two-huge-questions-about-trumps)
 
 ---
 
-Changing the make up of the SCOTUS, not unheard of. FDR nearly packed
-the court when they started hand-wringing about the New Deal.
+FUCK JOBS
 
 ---
 
-Whadidasay? World War 3. Telling ya
-
-"Armenia and Azerbaijan clash over disputed Nagorno-Karabakh region"
+FUCK JOBS
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hello FORTRAN my old friend<br><br>I’ve come to code with you again<br><br>Because algorithms softly creeping<br><br>Random seeds set while I was sleeping<br><br>And the version that was running on my mainframe<br><br>Still remains<br><br>Within the sound of science</p>&mdash; James (@astrocrash) <a href="https://twitter.com/astrocrash/status/1309621918916640769?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- 
----
+MORE ROBOTS
 
-
-Zee you fonked it up badly son.. CH needed less authoritarianism, not
-more. How u gon get out of this shit?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Record 293,000 robots In U.S. factories. Sales of new robots remain on a high level with 33,300 units shipped in 2019, which is 17% less compared to 2018 <a href="https://t.co/Mqb8U20IyM">https://t.co/Mqb8U20IyM</a></p>&mdash; Control Design (@Control_Design) <a href="https://twitter.com/Control_Design/status/1310613152078409729?ref_src=twsrc%5Etfw">September 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Zee Ping Ping 
+Bloomberg: "Hydrogen Breaks Through as the Hottest Thing in Green
+Energy"
+
+[Link](https://www.bloomberg.com/news/articles/2020-09-24/how-hydrogen-became-the-hottest-thing-in-green-energy-quicktake)
 
 ---
 
-Ho Dung Lai Lai
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brazil’s Federal Police is subpoenaing <a href="https://twitter.com/GuilhermeBoulos?ref_src=twsrc%5Etfw">@GuilhermeBoulos</a> — the socialist presidential candidate in 2018 and one of the leading candidates for São Paulo Mayor this year — to question him about *critical tweets of Bolsonaro*, for those who want to understand authoritarianism: <a href="https://t.co/VNuKvnzCvZ">https://t.co/VNuKvnzCvZ</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1310618164703698945?ref_src=twsrc%5Etfw">September 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-CNBC: "We're in the 'middle of a breakthrough' for the hydrogen industry"
+"@mtaibbi
 
-[Link](https://youtu.be/ELbQT57qeG8)
-
----
-
-The PQM Project - Babe I'm Gonna Leave You \#music
-
-[Link](https://youtu.be/UsU_xp1ynoE?t=113)
+Lol at this offhand detail in the Times piece: 'Nor do [tax records]
+reveal any previously unreported connections to Russia.'"
 
 ---
 
-*Last updated 2020-09-28 18:59*
+BTW, once you bet on the simplest, most efficient tech basis (key
+decision in engineering) then you can innovate easier on more parts of
+the problem, simultaneously. Maybe in the future H2 wont be in tanks
+anymore, but in metallic form, or in ammonia, or somewhere
+else... These can all be seperately innovated on, while the base
+architecture remains the same. So cars can anchor on H2 as fuel, and
+further innovation gets you that fuel more and more
+efficiently. Infrastructure, adaption, TCO are all part of it.
+
+---
+
+FT: "The world’s biggest aircraft maker Airbus unveiled 'historic'
+designs for hydrogen-fuelled passenger planes on Monday. A few days
+later, the world’s first sizeable aircraft to be powered by hydrogen
+took flight. It was piloted by start-up ZeroAvia, based in California
+and Cranfield, England. A commercial launch might be just three years
+away, it says.
+
+As aviation comes under pressure to curb emissions, investment in
+hydrogen is being stepped up. Hopes of using battery technology as a
+green alternative to jet fuel are fading. Batteries are just too heavy
+for long flights, given their low energy density. Airbus, with
+Rolls-Royce, closed a demonstrator project in April. ...
+
+The EU is pushing green hydrogen hard, arguing that it could meet
+nearly a quarter of world energy demand by 2050. The UK government,
+which backed the ZeroAvia venture, is also keen"
+
+[Link](https://twitter.com/FTLex/status/1309506640337612803)
+
+---
+
+What of the debates? IMO only the last one counts. I'd limp throughout
+the first two and open the can of whoop ass on the third. Kerry could
+not finish the job on the third, and did not get the title as the
+winner.
+
+---
+
+They are there to tip the balance, to decide between submerge or
+rising to surface. I think a sub is built with juust enough weight
+right at the edge of that balance; then filling tanks or emptying them
+tips the scale either way. Tanks alone could not do that. You can't
+balance a force proportional to displaced water with just water.
+
+"But you said subs require weight.. What are those tanks [taking water
+in] are for then?"
+
+---
+
+*Last updated 2020-09-29 19:59*
 
 ---
 
