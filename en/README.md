@@ -136,8 +136,8 @@ which backed the ZeroAvia venture, is also keen"
 
 What of the debates? IMO only the last one counts. I'd limp throughout
 the first two and open the can of whoop ass on the third. Kerry could
-not finish the job on the third, and did not get the title as the
-winner.
+not finish the job on the last one, and did not get the title as the
+'winner of the debates'.
 
 ---
 
