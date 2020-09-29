@@ -245,7 +245,7 @@ print ('needed,', int(kg_lit_needed / 1e9), 'million tons') # billion kg
 needed, 1604 million tons
 ```
 
-Required litihum is over 90 TIMES of what is available in reserves.
+Required lithium is over 90 TIMES of what is available in reserves.
 
 ---
 
@@ -281,3 +281,4 @@ same stuff"
 [Link](https://youtu.be/ltzJbdKtKa4?t=1035)
 
 ---
+
