@@ -38,7 +38,7 @@ According to data gleaned from a recent government report, the richest
 
 ---
 
-It's not The Onion
+Not The Onion
 
 "IRS: Sorry, but It’s Just Easier and Cheaper to Audit the Poor"
 
