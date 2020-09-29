@@ -35,7 +35,7 @@ screwed. They are like rationing and shit, and sharing.. ? Crazy.
 According to data gleaned from a recent government report, the richest
 1% steal $266 billion in unpaid taxes EVERY SINGLE YEAR"
 
----p1
+---
 
 Not The Onion
 
