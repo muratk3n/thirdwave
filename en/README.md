@@ -1,152 +1,111 @@
 # Tweets
 
-FUCK JOBS
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wow. fox news just asked a climate question at a general election presidential debate.</p>&mdash; Karthik Ganapathy (@kartpath) <a href="https://twitter.com/kartpath/status/1311128163121090563?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+\#Debates2020
 
 ---
 
-Paul Anka, It's My Life - Jazz Version \#music
+Trump talks about giving better healthcare, than hits Biden on
+leftism. This is a schizophrenic political discourse. One side of the
+political spectrum was delegitimized for too long, and here is the
+result.
 
-[Link](https://youtu.be/tJSByloqesE)
-
----
-
-By football I mean the sport where u kick the ball around. 
-
----
-
-Sport means all parts of the player needs to MOVE.
-
-Ping Pong is a sport. Even golf, which is closer to taking a shit than
-football, is a sport.
-
-"But what defines a sport? Increased heart rate? [news program trying
-to justify calling pro gaming a sport]"
+\#Debates2020
 
 ---
 
-Of course.. people in US living near Canada used to cross over to to
-buy "cheap" insulin there, right? But now with the border closed they
-are screwed. They are like rationing.. and sharing.. ?  This is crazy.
+Epic debate. Sounded like a lot was at stake. 
+
+\#Debates2020
 
 ---
 
-"@dailyposter
-
-According to data gleaned from a recent government report, the richest
-1% steal $266 billion in unpaid taxes EVERY SINGLE YEAR"
+Looking at the timestamps, some claim he knocked that shit out in 20
+minutes; 500 lines of code in all. Not bad.
 
 ---
 
-Not The Onion
+:) A patch submitted to a open-source database project by Assange in
+the 90s. Legit geek.
 
-"IRS: Sorry, but It’s Just Easier and Cheaper to Audit the Poor"
-
-[Link](https://www.propublica.org/article/irs-sorry-but-its-just-easier-and-cheaper-to-audit-the-poor)
-
----
-
-
-US has fairly stable neighborhood. Protected by two oceans from both
-sides, imperial powers gone, calm Canada to North, now pieceful
-relations with Mexico. The neighborhood around the Caucasus, ME, not
-so calm.
+[Link](https://git.postgresql.org/gitweb/?p=postgresql.git;a=commitdiff;h=76bc8cb97fc35673c42fe84fe6a9d6887260419a;hp=23c7ff0b3c38657081590430d08ef48bb5bde759)
 
 ---
 
-The Daily Poster: "There’s an impulse to try to turn Trump’s tax
-shenanigans into a story only about Trump — as if he is a singular
-villain. But while he deserves much criticism for gaming the system,
-we can’t ignore the fact that it is a system — one that allows wealthy
-people like Trump avoid paying $266 billion of taxes every single
-year"
+"@acTVismMunich
 
-[Link](https://www.dailyposter.com/p/the-two-huge-questions-about-trumps)
+Julian Assange Faces Inhumane Prison Conditions in the US"
+
+[Link](https://twitter.com/acTVismMunich/status/1311002219655897090)
 
 ---
 
-FUCK JOBS
+"Denominated in euros". Swell. I wonder if H2 can help turn the Euro
+into the global reserve currency...
 
----
+Oil, plus US military, made dollar the king. A new energy source, like
+H2 can do that for the Euro? This time energy is not dug up, but
+created by technology. If the tech is supplied to "sunshine countries"
+with the promise of selling the produce back, and in Euro, would this
+be enough to kickstart a global reserve currency?
 
-FUCK JOBS
+The hegemon, could, still theoretically invade but would have a hard
+time securing a non-concentrated resource, like was done with
+oil? Attacking electrolysers? Harder IMO.
 
----
-
-MORE ROBOTS
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Record 293,000 robots In U.S. factories. Sales of new robots remain on a high level with 33,300 units shipped in 2019, which is 17% less compared to 2018 <a href="https://t.co/Mqb8U20IyM">https://t.co/Mqb8U20IyM</a></p>&mdash; Control Design (@Control_Design) <a href="https://twitter.com/Control_Design/status/1310613152078409729?ref_src=twsrc%5Etfw">September 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Bloomberg: "Hydrogen Breaks Through as the Hottest Thing in Green
-Energy"
+"The European Union has set a target to build 40 gigawatts of
+renewable hydrogen electrolyzers by 2030, the equivalent of twice the
+capacity of China’s Three Gorges Dam, the world’s largest energy
+plant. For that, it envisages as much as 470 billion euros of public
+and private investments by 2050 and plans to kickstart a global
+hydrogen market, allowing the fuel to be traded as a liquid commodity
+denominated in euros"
 
 [Link](https://www.bloomberg.com/news/articles/2020-09-24/how-hydrogen-became-the-hottest-thing-in-green-energy-quicktake)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brazil’s Federal Police is subpoenaing <a href="https://twitter.com/GuilhermeBoulos?ref_src=twsrc%5Etfw">@GuilhermeBoulos</a> — the socialist presidential candidate in 2018 and one of the leading candidates for São Paulo Mayor this year — to question him about *critical tweets of Bolsonaro*, for those who want to understand authoritarianism: <a href="https://t.co/VNuKvnzCvZ">https://t.co/VNuKvnzCvZ</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1310618164703698945?ref_src=twsrc%5Etfw">September 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+‘We’ve overrun the planet’ - Attenborough
 
 ---
 
-"@mtaibbi
-
-Lol at this offhand detail in the Times piece: 'Nor do [tax records]
-reveal any previously unreported connections to Russia.'"
+"Italy will invest at least 3 billion euros in H2"
 
 ---
 
-BTW, once you bet on the simplest, most efficient tech basis (key
-decision in engineering) then you can innovate easier on more parts of
-the problem, simultaneously. Maybe in the future H2 wont be in tanks
-anymore, but in metallic form, or in ammonia, or somewhere
-else... These can all be seperately innovated on, while the base
-architecture remains the same. So cars can anchor on H2 as fuel, and
-further innovation gets you that fuel more and more
-efficiently. Infrastructure, adaption, TCO are all part of it.
+What is this, a kumbaya moment? "Let's hold hands and be
+friends?". Are u people retarded?\
+
+If bats are 'part' of the solution, they can only be 1% of the
+solution. Not 50%, not 30%, not even 10%. One percent. There isn't
+enough lithium in the world for lets-be-friends approach. And since 1%
+isn't viable economically, their way is as good as dead. They have
+exactly zero place in the future.
+
+"But every solution can play a role, batteries can be part of the
+[energy] solution?"
 
 ---
 
-FT: "The world’s biggest aircraft maker Airbus unveiled 'historic'
-designs for hydrogen-fuelled passenger planes on Monday. A few days
-later, the world’s first sizeable aircraft to be powered by hydrogen
-took flight. It was piloted by start-up ZeroAvia, based in California
-and Cranfield, England. A commercial launch might be just three years
-away, it says.
+They won all four? 👍
 
-As aviation comes under pressure to curb emissions, investment in
-hydrogen is being stepped up. Hopes of using battery technology as a
-green alternative to jet fuel are fading. Batteries are just too heavy
-for long flights, given their low energy density. Airbus, with
-Rolls-Royce, closed a demonstrator project in April. ...
+"FuelCell Energy, Inc. (Nasdaq: FCEL) ... announces multiple project
+awards by the local Connecticut electric distribution companies
+... totaling 11.2 megawatts, as part of the state-sponsored Shared
+Clean Energy Facility program. Each of the four FuelCell Energy power
+plants to be constructed pursuant to these awards will supply 2.8
+megawatts of clean power to the Connecticut electric grid"
 
-The EU is pushing green hydrogen hard, arguing that it could meet
-nearly a quarter of world energy demand by 2050. The UK government,
-which backed the ZeroAvia venture, is also keen"
-
-[Link](https://twitter.com/FTLex/status/1309506640337612803)
+[Link](https://www.globenewswire.com/news-release/2020/09/29/2100495/0/en/FuelCell-Energy-Announces-Multiple-Awards-to-Provide-Clean-Energy-to-Northeast-Power-Grid.html)
 
 ---
 
-What of the debates? IMO only the last one counts. I'd limp throughout
-the first two and open the can of whoop ass on the third. Kerry could
-not finish the job on the last one, and did not get the title as the
-'winner of the debates'.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Californian vineyards provide a roadmap for energy sustainability 🍇<br>By using micro-grids fuelled by <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a>, crisis-hit Californian vineyards are finding cleaner ways to source their energy.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/Decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonisation</a> <a href="https://twitter.com/plugpower?ref_src=twsrc%5Etfw">@PlugPower</a> <a href="https://t.co/mYFJf5kzvc">https://t.co/mYFJf5kzvc</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1311211152509083651?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-They are there to tip the balance, to decide between submerge or
-rising to surface. I think a sub is built with juust enough weight
-right at the edge of that balance; then filling tanks or emptying them
-tips the scale either way. Tanks alone could not do that. You can't
-balance a force proportional to displaced water with just water.
-
-"But you said subs require weight.. What are those tanks [taking water
-in] are for then?"
-
----
-
-*Last updated 2020-09-29 19:59*
+*Last updated 2020-09-30 12:23*
 
 ---
 
