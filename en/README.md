@@ -75,7 +75,7 @@ denominated in euros"
 ---
 
 What is this, a kumbaya moment? "Let's hold hands and be
-friends?". Are u people retarded?\
+friends?". Are these people retarded?
 
 If bats are 'part' of the solution, they can only be 1% of the
 solution. Not 50%, not 30%, not even 10%. One percent. There isn't
