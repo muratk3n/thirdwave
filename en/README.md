@@ -95,7 +95,7 @@ have exactly zero place in the future.
 
 ---
 
-They won all four? 👍
+FCEL won all four? 👍
 
 "FuelCell Energy, Inc. (Nasdaq: FCEL) ... announces multiple project
 awards by the local Connecticut electric distribution companies
