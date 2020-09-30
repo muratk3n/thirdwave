@@ -77,7 +77,7 @@ denominated in euros"
 I bet this is why office-dwelling, technobabbling centrist twats like
 this shit, a solution for 1 percenters..  I'd send them to Bolivia,
 they can create all the coups they want thee to get their lithium, and
-live happily everafter.
+live happily ever after.
 
 ---
 
