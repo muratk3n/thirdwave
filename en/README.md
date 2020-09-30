@@ -79,9 +79,9 @@ friends?". Are these people retarded?
 
 If bats are 'part' of the solution, they can only be 1% of the
 solution. Not 50%, not 30%, not even 10%. One percent. There isn't
-enough lithium in the world for lets-be-friends approach. And since 1%
-isn't viable economically, their way is as good as dead. They have
-exactly zero place in the future.
+enough lithium in the world for this-plus-that approach. And since 1%
+isn't viable economically, the battery option is as good as dead. They
+have exactly zero place in the future.
 
 "But every solution can play a role, batteries can be part of the
 [energy] solution?"
