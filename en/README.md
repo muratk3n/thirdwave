@@ -79,7 +79,8 @@ this shit, a solution for 1 percenters..  I'd send them to Bolivia,
 they can create all the coups they want over there to get their
 lithium, and live happily ever after. They cld do two coups a
 day... one in the morning, one in the afternoon. 'I need 50 more kilos
-of lithium'. 'Okay, we'll just do a coup, and get 50 kilos'.
+of lithium'. 'Okay, we'll just do a coup, and get 50 kilos'. That will
+be the system.
 
 ---
 
