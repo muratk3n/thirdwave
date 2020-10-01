@@ -1,117 +1,140 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wow. fox news just asked a climate question at a general election presidential debate.</p>&mdash; Karthik Ganapathy (@kartpath) <a href="https://twitter.com/kartpath/status/1311128163121090563?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@econjared
 
-\#Debates2020
-
----
-
-Trump talks about giving better healthcare, than hits Biden on
-leftism. This is a schizophrenic political discourse. One side of the
-political spectrum was delegitimized for too long, and here is the
-result.
-
-\#Debates2020
+Mitch and Senate Rs who are too busy jamming through their SCOTUS
+choice to worry about the economy and people in it"
 
 ---
 
-Epic debate. Sounded like a lot was at stake. 
+"@davidsirota
 
-\#Debates2020
-
----
-
-Looking at the timestamps, some claim he knocked that shit out in 20
-minutes; 500 lines of code in all. Not bad.
+NEWS: Fossil fuel companies? abandoned wells are leaking and making
+climate change worse ? and now states must spend up to 280 BILLION to
+clean up the mess. Meanwhile, Trump & the Fed gave fossil fuel
+companies a $100 billion government bailout"
 
 ---
 
-:) A patch submitted to a open-source database project by Assange in
-the 90s. Legit geek.
-
-[Link](https://git.postgresql.org/gitweb/?p=postgresql.git;a=commitdiff;h=76bc8cb97fc35673c42fe84fe6a9d6887260419a;hp=23c7ff0b3c38657081590430d08ef48bb5bde759)
-
----
-
-"@acTVismMunich
-
-Julian Assange Faces Inhumane Prison Conditions in the US"
-
-[Link](https://twitter.com/acTVismMunich/status/1311002219655897090)
+Future policy choices never mattered to people the extent the
+commentariat thought it did, but everyone acts as if they do. 
+"The debates are criticized for not focusing enough on policy"
 
 ---
 
-"Denominated in euros". Swell. I wonder if H2 can help turn the Euro
-into the global reserve currency...
+"@villi
 
-Oil, plus US military, made dollar the king. A new energy source, like
-H2 can do that for the Euro? This time energy is not dug up, but
-created by technology. If the tech is supplied to "sunshine countries"
-with the promise of selling the produce back, and in Euro, would this
-be enough to kickstart a global reserve currency?
-
-The hegemon, could, still theoretically invade but would have a hard
-time securing a non-concentrated resource, like was done with
-oil? Attacking electrolysers? Harder IMO.
-
-"The European Union has set a target to build 40 gigawatts of
-renewable hydrogen electrolyzers by 2030, the equivalent of twice the
-capacity of China’s Three Gorges Dam, the world’s largest energy
-plant. For that, it envisages as much as 470 billion euros of public
-and private investments by 2050 and plans to kickstart a global
-hydrogen market, allowing the fuel to be traded as a liquid commodity
-denominated in euros"
-
-[Link](https://www.bloomberg.com/news/articles/2020-09-24/how-hydrogen-became-the-hottest-thing-in-green-energy-quicktake)
+If you ignore the smoke, it is amazing outside right now"
 
 ---
 
-‘We’ve overrun the planet’ - Attenborough
+"@EdMarkey
+
+Last week when Chris Wallace released his topics for the debate, the
+climate crisis was not on that list. We fought back. Because of our
+organizing, last night’s debate dedicated not one or two, but 11
+minutes to the climate crisis"
 
 ---
 
-"Italy will invest at least 3 billion euros in H2"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK&#39;s first hydrogen-powered train has carried its first passengers from Stratford-upon-Avon to Evesham.<br><br>The <a href="https://twitter.com/hashtag/HydroFLEX?src=hash&amp;ref_src=twsrc%5Etfw">#HydroFLEX</a> is still in the testing stages, but it&#39;s believed to be a major step towards removing diesel trains from our rail network<a href="https://t.co/bMJuSYZjLC">https://t.co/bMJuSYZjLC</a></p>&mdash; BBC H and W (@bbchw) <a href="https://twitter.com/bbchw/status/1311182875207835648?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I bet this is why office-dwelling, technobabbling folk like this shit,
-a solution for 1 percenters..  I'd send them to Bolivia, they can
-create all the coups they want over there to get their lithium, and
-live happily ever after. They cld do two coups a day... one in the
-morning, one in the afternoon. 'I need 50 more kilos of
-lithium'. 'Okay, we'll just do a coup, and get 50 kilos'. That will be
-the system.
+"@gabriel_zucman
+
+Only a few decades old, the corporate autocracy that Reagan unleashed
+on the United States is not natural law. It had to be created, and it
+can also be undone"
+
+[Link](https://mobile.twitter.com/gabriel_zucman/status/1311480247569674240)
 
 ---
 
-What is this, a kumbaya moment? 'Let's hold hands and be
-friends?'. Are these people retarded?
-
-If bats are 'part' of the solution, they can only be 1% of the
-solution. Not 50%, not 30%, not even 10%. One percent. There isn't
-enough lithium in the world for that-plus-that approach. And since 1%
-isn't viable economically, the battery option is as good as dead. They
-have exactly zero place in the future.
-
-"But every solution can play a role, batteries can be part of the
-[energy] solution?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In one of <a href="https://twitter.com/hashtag/gasworld?src=hash&amp;ref_src=twsrc%5Etfw">#gasworld</a>’s most-read stories this week, <a href="https://twitter.com/hashtag/Linde?src=hash&amp;ref_src=twsrc%5Etfw">#Linde</a> has signed a Memorandum of Understanding with New York-based <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> solutions company <a href="https://twitter.com/hashtag/PlugPower?src=hash&amp;ref_src=twsrc%5Etfw">#PlugPower</a>. <a href="https://t.co/hsvTucvufH">https://t.co/hsvTucvufH</a></p>&mdash; gasworld (@gasworld) <a href="https://twitter.com/gasworld/status/1310257906667925504?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-FCEL won all four? 👍
+"@yarotrof
 
-"FuelCell Energy, Inc. (Nasdaq: FCEL) ... announces multiple project
-awards by the local Connecticut electric distribution companies
-... totaling 11.2 megawatts, as part of the state-sponsored Shared
-Clean Energy Facility program. Each of the four FuelCell Energy power
-plants to be constructed pursuant to these awards will supply 2.8
-megawatts of clean power to the Connecticut electric grid"
-
-[Link](https://www.globenewswire.com/news-release/2020/09/29/2100495/0/en/FuelCell-Energy-Announces-Multiple-Awards-to-Provide-Clean-Energy-to-Northeast-Power-Grid.html)
+Macron sounds more supportive of Armenia than Putin, who is a treaty
+ally of Yerevan within the Collective Security Treaty Organization"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Californian vineyards provide a roadmap for energy sustainability 🍇<br>By using micro-grids fuelled by <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a>, crisis-hit Californian vineyards are finding cleaner ways to source their energy.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/Decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#Decarbonisation</a> <a href="https://twitter.com/plugpower?ref_src=twsrc%5Etfw">@PlugPower</a> <a href="https://t.co/mYFJf5kzvc">https://t.co/mYFJf5kzvc</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1311211152509083651?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first UK hydrogen-powered train has taken to the railway🚆🍃 Transport Secretary <a href="https://twitter.com/grantshapps?ref_src=twsrc%5Etfw">@grantshapps</a> took a ride on the <a href="https://twitter.com/hashtag/HydroFLEX?src=hash&amp;ref_src=twsrc%5Etfw">#HydroFLEX</a> train to see how the project is helping <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> rail<br> <br>Find out how we’re investing in <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> power👉 <a href="https://t.co/fj8MXyBn6H">https://t.co/fj8MXyBn6H</a><a href="https://twitter.com/hashtag/FutureOfTransport?src=hash&amp;ref_src=twsrc%5Etfw">#FutureOfTransport</a> <a href="https://t.co/Di454OjdNB">pic.twitter.com/Di454OjdNB</a></p>&mdash; Dept for Transport (@transportgovuk) <a href="https://twitter.com/transportgovuk/status/1311283290272346113?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"15-minute coronavirus test gets the green light in Europe.. The new
+test delivers results in 15 minutes on a small, portable instrument,
+BD said, adding that this is a 'critical improvement in turnaround
+time for Covid-19 diagnostics, because it provides real-time results
+and enables decision-making while the patient is still onsite'"
+
+[Link](https://www.cnbc.com/2020/09/30/15-minute-coronavirus-test-gets-the-green-light-for-a-european-rollout.html)
+
+---
+
+Not by much. 'If it ain't on the page, it ain't on the stage' they
+say, right? Great actor can make a great script even greater, however.
+
+"How much can a good actor improve a bad script?"
+
+---
+
+Awwww sheee-iiit
+
+---
+
+CNBC: "UK trials hydrogen-powered train in latest step forward for
+transport innovation"
+
+---
+
+"Australian Government as part of a $1.9bn investment in new energy technologies."
+
+[Link](https://www.h2-view.com/story/australian-government-to-invest-1-9bn-in-new-energy-technologies/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24PLUG&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$PLUG</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/yM1tgVDl2k">pic.twitter.com/yM1tgVDl2k</a></p>&mdash; Alex S. (@HydrogenAlex) <a href="https://twitter.com/HydrogenAlex/status/1309238300415197184?ref_src=twsrc%5Etfw">September 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"The US Department of Energy’s (DOE’s) Office of Fossil Energy has
+announced up to $2m in federal funding for cost-shared research and
+development projects .. Announced yesterday, the FOA will focus on
+co-gasification of coal, biomass and plastic wastes for production of
+hydrogen and fuels with negative carbon potential"
+
+[Link](https://www.h2-view.com/story/doe-announces-2m-to-develop-hydrogen-technologies/)
+
+---
+
+On Ubuntu Unix... No clickety click shite.
+
+---
+
+Nice. There is a tool to turn PDFs with scanned pages (image, not
+text) into searchable PDFs, `ocrmypdf`.
+
+---
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">With this 1st Photon we&#39;re testing tech for exciting future missions of First Light’s levelled-up sibling, the high-energy, interplanetary Photon. It&#39;s with this spacecraft version that we&#39;ll head to the Moon next year for <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> &amp; later onto Venus to support the search for life. <a href="https://t.co/JTCsE2VwWk">pic.twitter.com/JTCsE2VwWk</a></p>&mdash; Rocket Lab (@RocketLab) <a href="https://twitter.com/RocketLab/status/1311392187670605824?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Carter 1980
+
+[Link](https://youtu.be/kXFEh4cdCog?t=4447)
+
+---
+
+2004 candidates were [debating](https://youtu.be/MCDr2uAr8FI?t=2065)
+healthcare.
+
+2020 pols are __still__ debating healthcare 🤦‍♂️ 
 
 ---
 

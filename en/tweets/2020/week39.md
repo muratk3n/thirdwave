@@ -652,7 +652,8 @@ fuels"
 
 ---
 
-"Coronavirus: Idaho pastor who called himself 'no-masker' in intensive care with Covid-19"
+"Coronavirus: Idaho pastor who called himself 'no-masker' in intensive
+care with Covid-19"
 
 ---
 
