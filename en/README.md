@@ -3,7 +3,8 @@
 "@econjared
 
 Mitch and Senate Rs who are too busy jamming through their SCOTUS
-choice to worry about the economy and people in it"
+choice to worry about the economy and people in it [commenting about
+income support]"
 
 ---
 
