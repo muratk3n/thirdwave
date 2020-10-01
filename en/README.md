@@ -77,13 +77,6 @@ and enables decision-making while the patient is still onsite'"
 
 ---
 
-Not by much. 'If it ain't on the page, it ain't on the stage' they
-say, right? Great actor can make a great script even greater, however.
-
-"How much can a good actor improve a bad script?"
-
----
-
 Awwww sheee-iiit
 
 ---
