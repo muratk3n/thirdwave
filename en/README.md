@@ -16,8 +16,8 @@ companies a $100 billion government bailout"
 
 ---
 
-Future policy choices never mattered to people the extent the
-commentariat thought it did
+The mintuea of future policy choices never mattered to people the
+extent the commentariat thought it did
 
 "The debates are criticized for not focusing enough on policy"
 
