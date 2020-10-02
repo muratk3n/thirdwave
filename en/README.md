@@ -10,7 +10,7 @@ praying for Trump tooo die
 
 ---
 
-Haha a German on DW just used the word *schadenfreude*
+Haha a German on DW just used the word *schadenfreude* for DJT.
 
 ---
 
