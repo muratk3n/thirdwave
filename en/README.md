@@ -1,12 +1,9 @@
 # Tweets
 
 
-Just playin man.. Dont die on your ppl Trump
-
----
-
-Of course Pence is all about thoughts and prayers... as in he is
-praying for Trump tooo die
+Main news sources currently, *DW* and *France 24 English*, for TV
+like, in the background, news talking head type of watching. Less
+drama, calmer, and once in a while a good documentary (on DW)
 
 ---
 
@@ -14,9 +11,12 @@ Haha a German on DW just used the word *schadenfreude* for DJT.
 
 ---
 
-Main news sources currently, *DW* and *France 24 English*, for TV
-like, in the background, news talking head type of watching. Less
-drama, calmer, and once in a while a good documentary (on DW)
+Just playin man.. Dont die on your ppl Trump
+
+---
+
+Of course Pence is all about thoughts and prayers... as in he is
+praying for Trump tooo die
 
 ---
 
