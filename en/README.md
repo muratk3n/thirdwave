@@ -61,7 +61,8 @@ empires collapse disaster and chaos follow"
 
 ---
 
-What a shock. So there was no barbarism after Romans left Britain. 
+There was no barbarism after Romans left Britain. The so-called Dark
+Ages are a myth. What a shock.
 
 [Link](https://youtu.be/3f21eVcY3pw?t=309)
 
