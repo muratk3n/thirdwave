@@ -100,8 +100,8 @@ panic"
 ---
 
 :) So I guess she is not a supporter anymore.. when did she fall off
-the wagon? Or off the train.. or whatever it's called.. The circle of
-trust 👌 ?
+the wagon? Or off the train.. or whatever it's called.. Are you still
+in the circle of trust 👌 ?
 
 "@AnnCoulter
 
