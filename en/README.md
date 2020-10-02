@@ -20,7 +20,7 @@ praying for Trump *to die*.
 
 ---
 
-DJT with COVID. What a bloody effin mess...
+DJT with COVID. What a bloody freaking mess...
 
 ---
 
