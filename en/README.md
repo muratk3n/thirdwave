@@ -7,7 +7,7 @@ drama, calmer, and once in a while a good documentary (on DW)
 
 ---
 
-Haha a German on DW just used the word *schadenfreude* for DJT.
+Haha a German on DW just used the word *schadenfreude* for Trump.
 
 ---
 
