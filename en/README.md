@@ -77,8 +77,8 @@ Azerbaijani gobble gobble speaka sounds somewhat different than
 Anatolian version. Same words mostly, but different expressions,
 idioms.. ex, apparently they call the football goaly *kapıcı*, "the
 doorman". Kinda funny.. And the air travel announcements; their pilots
-announce plane landing with the words *the plain will now fall*. They
-say when TR travelers hear it my tiggers lose their shit.
+announce plane landing with the words *the plain will now fall*. Story
+goes once when it was announced my tiggers lose their shit.
 
 ---
 
