@@ -70,7 +70,7 @@ What a shock. So there was no barbarism after Romans left Britain.
 Azerbaijani gobble gobble speaka sounds somewhat different than
 Anatolian version. Same words mostly, but different expressions,
 idioms.. ex, apparently they call the football goaly *kapıcı*, "the
-doorman". Kinda funnt. And the air travel announcements; their pilots
+doorman". Kinda funny.. And the air travel announcements; their pilots
 announce plane landing with the words *the plain will now fall*, once
 TR travelers heard that and my tiggers lost their shit.
 
