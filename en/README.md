@@ -133,8 +133,8 @@ taxes. It's capitalism for the unemployed; socialism for the rich"
 
 ---
 
-It is the swing version of a Joey Bongiovi song. I know the one from
-New Jersey. Good song too BTW
+It is the swing version of a Joey Bongiovi song... U know the one from
+New Jersey... Good song too BTW
 
 "The It's My Life jazz song sounded like another song, which was it?"
 
