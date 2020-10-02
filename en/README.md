@@ -54,15 +54,16 @@ And no, there are no parallels here to the EU / UK relation 🤨 🙄
 
 ---
 
+Everyone who is pro these empires, whether it is Rome, Byzantium or
+"Otto" have an agenda.
+
+---
+
+
 "Like all humanities [archeology] is a product of its time and
 Victorian archaeologists were part of a British Empire which compared
 itself to Rome, so they had every reason to suggest that when great
 empires collapse disaster and chaos follow"
-
----
-
-Everyone who is pro these empires, whether it is Rome, Byzantium or
-"Otto" have an agenda.
 
 ---
 
