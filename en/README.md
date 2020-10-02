@@ -79,7 +79,7 @@ Anatolian version. Same words mostly, but different expressions,
 idioms.. ex, apparently they call the football goaly *kapıcı*, "the
 doorman". Kinda funny.. And the air travel announcements; their pilots
 announce plane landing with the words *the plain will now fall*. Story
-goes once when it was announced my tiggers lose their shit.
+goes once when it was announced my tiggers lost their shit.
 
 ---
 
