@@ -61,7 +61,8 @@ empires collapse disaster and chaos follow"
 
 ---
 
-Everyone 
+Everyone who is pro these empires, whether it is Rome, Byzantium or
+"Otto" have an agenda.
 
 ---
 
