@@ -6,7 +6,7 @@ Just playin man.. Dont die on your ppl Trump
 ---
 
 Of course Pence is all about thoughts and prayers... as in he is
-praying for Trump TO DIE
+praying for Trump tooo die
 
 ---
 
