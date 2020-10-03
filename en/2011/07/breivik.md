@@ -1,9 +1,0 @@
-# Breivik
-
-Here is our analysis: Breivik's psych(o) profile suggests someone with a tendency to see self as the wronged person, these types (let's call them Retreaters) become confused easily, avoid making plans, and there is a tendency to escape from reality, being exorbiant, excessive, immoderate. They tend to retreat, and give up.
-
-Another category is Emotion Junkie -- these people lack clear boundaries, always seek varied emotional experience. They are usually smart, learn quick, but as a consequence, might bore quickly. In order to get over their boredom, they might even create small dramas (boredoom is their personal hell) and in some cases (like this one) they might have a martyrdom complex -- indicating a desire to save the world, fight for freedom, the more dramatic the tools, the better. These types also have attachment, co-dependency issues with people. They go back and forth between freedom, attachment / co-dependency, and everywhere in between, they need to find a sane middle ground.
-
-It's messed up -- I can see even the positives from both types combining to result in aggressive, dramatic behaviour, because it is commonly advised to Retreaters to make plans, bring order to chaos (intellectually). The advice to Emotion Junkies is to feel, experience freedom (inside, not act compulsively, but a psycho would not know that). If you are watching enough dramas like Dexter, which is built on US cultural tug-of-war between "letting go (freedom?)" and "containing self", and culture code for sex VIOLENCE, shit might start get hazy, and read few books on top of that, all of a sudden you are in cuckoo land.
-
-Like we said before, the problem is the delivery of the right information to people who need it. Our crumbling civilization cannot channel information, people to right places. Life is getting faster, there is future shock, and our industrial institutions are useless.

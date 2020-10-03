@@ -990,9 +990,9 @@ Honestly my only academic goal is to become Edward Witten"
 
 Using stock buybacks to comp senior execs and directors is a plague.
 
-Just went through $MSFT numbers for past 3 FYs ... 61% of buyback
-activity used to sterilize exercised stock options, worth $18.7
-BILLION to mgmt. That's 14% of cashflow from operations"
+Just went through MSFT numbers for past 3 FYs ... 61% of buyback
+activity used to sterilize exercised stock options, worth 18.7 BILLION
+dollars to mgmt. That's 14% of cashflow from operations"
 
 *2019-11-8 13:6:5*
 
@@ -1010,10 +1010,11 @@ z, z^z , z^z^z, ..."
 
 ---
 
-"@BESTmag_news @ESS_info secures $30M in new funding as it accelerates
-towards its 1GWh iron flow battery technology goal— expansion requires
-an "extremely low capital costs to set up the manufacturing of battery
-modules compared to lithium-ion" say the firm"
+"@BESTmag_news @ESS_info secures 30M dollars in new funding as it
+accelerates towards its 1GWh iron flow battery technology goal—
+expansion requires an "extremely low capital costs to set up the
+manufacturing of battery modules compared to lithium-ion" say the
+firm"
 
 *2019-11-8 6:0:30*
 
@@ -1022,9 +1023,9 @@ modules compared to lithium-ion" say the firm"
 "@stacyherbert
 
 Las Vegas ‘bans’ homeless from sleeping on the street. If caught
-violating ban, you get $1,000 fine or six months prison? So obviously
-it would be prison for which taxpayers would have to pay @ $25,000
-... 🤔 #math"
+violating ban, you get 1,000 dollar fine or six months prison? So
+obviously it would be prison for which taxpayers would have to pay @
+25,000 ... 🤔 #math"
 
 *2019-11-8 5:53:32*
 
@@ -1054,9 +1055,9 @@ Systems in Switzerland"
 
 When was I radicalized?
 
-When Boeing mgmt and directors pocketed $5.4 billion in stock option
-exercise while building a crappy plane that they’ll never be punished
-for"
+When Boeing mgmt and directors pocketed 5.4 billion dollars in stock
+option exercise while building a crappy plane that they’ll never be
+punished for"
 
 *2019-11-7 20:4:5*
 
