@@ -522,3 +522,6 @@ stands for blood type A with secretor.
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?96)|cashew|NUT/ SEED|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?98)|catfish|FISH|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?99)|cauliflower|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
+
+
+
