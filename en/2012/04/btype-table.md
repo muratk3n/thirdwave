@@ -4,524 +4,6733 @@ For general explanation see [post](blood-type-diet.md). _S or _NS
 stand for secretor or non-secretor, detail in the main post. A_S
 stands for blood type A with secretor. 
 
-|Site_Id|Food|Type|A_S|A_NS|B_S|B_NS|AB_S|AB_NS|O_S|O_NS |
-|--|------------|-----------|------|------|--------|------|--------|-----|------|------------|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?1)|coconut milk|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?10)|coriander|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?100)|caviar/ black or  red|EGG|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?101)|celeriac|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?102)|celery / celery juice|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?103)|cheddar cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?104)|cherries|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?105)|cherry juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?106)|chervil|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?107)|chestnuts|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?108)|chicken|MEAT|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?109)|chicory roots|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?11)|corn|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?111)|chili powder|HERB/SPICE|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?112)|chives|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?113)|chocolate/ cocoa|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?114)|christmas melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?115)|chub|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?116)|cilantro|HERB/SPICE|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?117)|cinnamon|HERB/SPICE|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?118)|clam / mixed species|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?119)|cloves|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?12)|corn oil|OIL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?120)|coconut meat|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?121)|goat cheese|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?122)|goose|MEAT|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?123)|couscous/ cooked|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?124)|crab/ blue|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?125)|cranberries|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?126)|cranberry juice|FRUIT/ FRUIT JUICE|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?127)|cream cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?128)|cream of tartar|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?129)|crenshaw (cranshaw) melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?13)|corn syrup|SWEETENER|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?130)|croaker/ atlantic|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?131)|cucumber / with peel|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?132)|cucumber juice|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?133)|cumin seed|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?134)|currants/ red & black|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?135)|curry powder|HERB/SPICE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?136)|cusk|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?137)|daikon radish|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?138)|dandelion greens|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?139)|dates/ domestic|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?14)|cornish hen|MEAT|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?140)|dewberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?141)|dextrose|SWEETENER|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?142)|dill seed|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?143)|drum/ freshwater|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?144)|duck|MEAT|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?145)|duck egg / whole|EGG|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?146)|dulse|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?147)|edam cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?148)|eel/ mixed species|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?149)|chicken egg/ whole|EGG|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?15)|abalone|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?150)|chicken egg/ white|EGG|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?151)|chicken egg/ yolk|EGG|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?152)|eggplant (aubergine)|VEGETABLE|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?153)|elderberries|FRUIT/ FRUIT JUICE|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?154)|emmental cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?155)|endive|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?156)|escarole|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?157)|essene bread|GRAIN|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?158)|evening primrose oil|OIL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?159)|ezekiel bread|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?16)|acacia (gum arabic)|HERB/SPICE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?160)|farmer cheese|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?161)|fava bean|BEAN/LEGUME|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?162)|fennel/ bulb|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?163)|feta cheese|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?164)|fiddlehead ferns|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?165)|figs/ dried|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?166)|filberts (hazelnut)|NUT/SEED|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?167)|flax seed|NUT/SEED|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?168)|flax seed oil|OIL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?169)|flounder species|FISH|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?17)|adzuki bean|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?170)|frog|FISH|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?171)|fructose|SWEETENER|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?172)|garbanzo  (chickpea)|BEAN/LEGUME|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?173)|ginger root|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?174)|gluten flour|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?175)|gluten free bread|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?176)|goat|MEAT|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?177)|gouda cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?178)|grape / all varieties|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?179)|grapefruit / red & white|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?18)|agar|VEGETABLE|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?180)|grapefruit juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?181)|gray (or dover) sole|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?182)|green tea|BEVERAGE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?183)|green/string bean|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?184)|grouper/ mixed species|FISH|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?185)|grouse|MEAT|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?186)|gruyere cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?187)|guar gum|CONDIMENT|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?188)|guarana|HERB/SPICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?189)|guava / guava juice|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?19)|alfalfa seeds/ sprouted|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?190)|guinea  hen|MEAT|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?191)|haddock|FISH|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?192)|hake|FISH|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?193)|half and half|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?194)|half moon fish|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?195)|halibut|FISH|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?196)|harvest fish|FISH|AVOID|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?197)|heart (beef)|MEAT|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?198)|herring/ atlantic|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?199)|hickorynuts/ dried|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?2)|coconut oil|OIL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?20)|allspice|HERB/SPICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?200)|honey|SWEETENER|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?201)|honeydew melon|FRUIT/ FRUIT JUICE|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?202)|horse|MEAT|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?203)|horseradish/ prepared|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?205)|invert sugar|SWEETENER|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?207)|jarlsberg cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?208)|jicama (yam bean)|BEAN/LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?21)|almond extract|SWEETENER|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?210)|kale|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?211)|kamut|GRAIN|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?212)|kefir|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?213)|kelp|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?215)|kidney bean/ red|BEAN/LEGUME|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?216)|kiwi fruit (chinese gooseberries)|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?217)|kohlrabi|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?218)|kumquats|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?219)|lamb|MEAT|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?22)|almond milk|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?220)|lecithin|CONDIMENT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?221)|leeks|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?222)|lemons/ lemon juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?223)|lentils/ domestic|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?224)|lentils/ green|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?225)|lentils/ red|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?226)|lettuce / all other varieties|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?227)|lettuce / romaine|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?228)|licorice root|HERB/SPICE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?229)|lima bean|BEAN/LEGUME|AVOID|AVOID|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?23)|almond oil|OIL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?230)|limes / lime juice|FRUIT/ FRUIT JUICE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?231)|liquor (distilled)|BEVERAGE|AVOID|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?232)|litchis/ lychee|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?233)|liver (calf)|MEAT|AVOID|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?234)|lobster/ northern|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?235)|loganberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?236)|macadamia nuts|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?237)|mace/ ground|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?238)|mackerel/ atlantic|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?239)|mahi mahi|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?24)|almond/ almond butter|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?240)|maltodextrin|SWEETENER|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?241)|mangos / mango juice|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?242)|maple syrup|SWEETENER|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?243)|marjoram/ dried|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?245)|monkfish|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?246)|monterey jack cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?247)|mozzarella cheese / whole milk|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?248)|msg|ADDITIVE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?249)|mulberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?25)|aloe|VEGETABLE|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?250)|mullet|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?251)|mung bean/ sprouts|BEAN/LEGUME|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?252)|mushroom/ portabello|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?253)|mushroom/ shiitake|VEGETABLE|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?254)|mushrooms/ straw|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?255)|musk  melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?256)|muskellunge|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?257)|mussel/ blue|FISH|AVOID|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?258)|mustard / wheat free/  vinegar free|CONDIMENT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?259)|mustard /  wheat free/ with vinegar|CONDIMENT|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?26)|amaranth|GRAIN|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?260)|mustard / with wheat and vinegar|CONDIMENT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?261)|mustard / with wheat/ vinegar free|CONDIMENT|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?262)|mustard greens|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?263)|mustard/ dry powder|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?264)|mutton|MEAT|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?265)|navy bean|BEAN/LEGUME|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?266)|nectarines/ nectarine juice|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?267)|neufchatel cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?268)|northern bean|BEAN/LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?269)|nutmeg|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?27)|american cheese/ process|DAIRY|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?270)|olive / green/ kalamata|VEGETABLE|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?271)|olive /black|VEGETABLE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?272)|onions|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?273)|opaleye|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?274)|orange roughy|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?275)|oranges/ orange juice|FRUIT/ FRUIT JUICE|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?276)|oregano|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?277)|ostrich|MEAT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?278)|oyster / eastern|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?279)|oyster plant|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?28)|anchovy/ european/|FISH|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?280)|paneer|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?281)|papayas|FRUIT/ FRUIT JUICE|AVOID|AVOID|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?282)|paprika|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?283)|parmesan cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?284)|parrot fish|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?285)|parsley|HERB/SPICE|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?286)|parsnips|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?287)|peanut oil|OIL|AVOID|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?288)|peanut/ peanut butter|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?289)|pears/ pear juice|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?29)|anise seed|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?290)|pecans/ pecan butter|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?291)|pepper/ black/  white/ commercial ground|HERB/SPICE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?292)|peppers/ green and yellow/ all varieties|VEGETABLE|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?293)|pepper/ cayenne/ red flakes/ jalapeno|HERB/SPICE|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?294)|peppers/ red/ all varieties|VEGETABLE|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?295)|peppermint|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?296)|perch/ ocean|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?297)|perch/ silver|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?298)|perch/ white|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?299)|perch/ yellow|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?3)|cod / atlantic|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?30)|apple / pectin|CONDIMENT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?300)|persian melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?301)|persimmons/ native|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?302)|pheasant|MEAT|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?303)|pickerel|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?304)|pickle/ brine|VEGETABLE|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?305)|pickle/ vinegar|VEGETABLE|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?306)|pickles/ dill relish|CONDIMENT|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?307)|pike/ walleye|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?308)|pimento|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?309)|pine nuts/ pignolia|NUT/SEED|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?31)|apples / apple juice|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?310)|pineapple|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?311)|pineapple juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?312)|pinto bean|BEAN/LEGUME|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?313)|pistachio nuts|NUT/SEED|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?314)|plantains|FRUIT/ FRUIT JUICE|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?315)|plums|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?316)|poi|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?317)|pollock/ atlantic|FISH|BENEFICIAL|BENEFICIAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?318)|pomegranates|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?319)|pompano/ florida|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?32)|apricots / apricot juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?320)|popcorn/ air-popped|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?321)|poppy seed|NUT/SEED|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?322)|porgy|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?323)|potatoe /sweet|VEGETABLE|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?324)|potatoes /white/ red|VEGETABLE|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?325)|prickly pears|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?326)|provolone cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?327)|prunes/ prune juice|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?328)|pumpkin|VEGETABLE|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?329)|pumpkin seed/ butter|NUT/SEED|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?33)|arrowroot flour|ADDITIVE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?330)|quail|MEAT|AVOID|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?331)|quail egg/ whole|EGG|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?332)|quark cheese|DAIRY|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?333)|quince|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?334)|quinoa|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?335)|rabbit|MEAT|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?336)|radicchio|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?337)|radish|VEGETABLE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?338)|radish sprouts|VEGETABLE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?339)|raisins|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?34)|artichoke/ jerusalem (topinambur)|VEGETABLE|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?340)|rappini (broccoli rabe)|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?341)|raspberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?342)|red snapper|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?343)|rhubarb|VEGETABLE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?344)|rice / cream of|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?345)|rice / puffed|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?346)|rice / white/ brown/ basmati|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?347)|rice / wild|GRAIN|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?348)|rice bran|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?349)|rice cakes/ flour|GRAIN|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?35)|artichokes (globe or french)|VEGETABLE|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?350)|rice milk|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?351)|rice syrup|SWEETENER|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?352)|ricotta cheese|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?353)|rosefish|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?354)|rosemary|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?355)|rutabagas|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?356)|rye flour/ medium|GRAIN|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?357)|rye/ bread 100%|GRAIN|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?358)|safflower oil|OIL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?359)|safflower seed kernals/ dried|NUT/SEED|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?36)|arugula|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?360)|saffron|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?361)|sage/ ground|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?362)|sago palm|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?363)|sailfish|EGG|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?365)|salmon / atlantic/ pacific/ wild|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?366)|salmon/ roe|FISH|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?367)|sardine/ atlantic/ canned in oil|FISH|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?368)|sauerkraut|VEGETABLE|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?369)|savory/ ground|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?37)|asian pear|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?370)|scallions|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?371)|shad/ american|FISH|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?372)|shallots|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?373)|shark/ mixed species|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?375)|shrimp/ mixed species|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?376)|smelt|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?377)|snail|FISH|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?378)|snap/string  bean/ yellow|BEAN/LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?379)|soba noodles|GRAIN|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?38)|asparagus|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?380)|soda / club|BEVERAGE|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?381)|soda/ carbonated water|BEVERAGE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?382)|sole / other  species|FISH|AVOID|AVOID|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?383)|sorghum|GRAIN|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?384)|sour cream|DAIRY|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?385)|soy bean/ soy nut butter|BEAN/LEGUME|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?386)|soy cheese|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?387)|soy flakes|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?388)|soy flour/ full-fat|GRAIN|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|BENEFICIAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?389)|soy granules|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?39)|asparagus pea|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?390)|soy milk/ fluid|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?391)|soy oil|OIL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?392)|soy sauce made from soy|CONDIMENT|BENEFICIAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?393)|spanish melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?394)|spearmint|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?395)|spelt|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?396)|spelt flour/ products|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?397)|spinach|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?398)|squab (pigeon) / meat only|MEAT|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?399)|squash/ summer/ winter / all varieties|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?4)|cod liver oil|OIL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?40)|aspartame|SWEETENER|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?400)|squid (calamari)|FISH|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?401)|squirrel|MEAT|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?402)|starfruit/ carambola|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?403)|stevia|SWEETENER|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?404)|strawberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?405)|string cheese|DAIRY|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?406)|sturgeon/ mixed species|FISH|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?407)|sucanat|SWEETENER|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?408)|sucker/ white|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?409)|sugar|SWEETENER|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?41)|avocado|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?410)|sunfish|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?411)|sunflower oil|OIL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?412)|sunflower seed kernals/ butter|NUT/SEED|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?413)|tamarinds|BEAN/LEGUME|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?414)|tangerines/ tangerine juice|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?415)|tapioca/ pearl|GRAIN|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?416)|taro/ tahitian|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?417)|tarragon|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?418)|tea/ brewed|BEVERAGE|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?419)|teff|GRAIN|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?42)|avocado oil|OIL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?420)|tempeh|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?421)|thyme/ fresh|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?422)|tilapia|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?423)|tilefish|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?424)|tofu|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?425)|tomatoes/ tomato juice|VEGETABLE|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?426)|trout/ brook|FISH|NEUTRAL|BENEFICIAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?427)|trout/ rainbow|FISH|BENEFICIAL|BENEFICIAL|AVOID|AVOID|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?428)|trout/ sea|FISH|BENEFICIAL|BENEFICIAL|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?429)|tuna/ fresh/ bluefin|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?43)|bacon / pork products|MEAT|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?430)|turkey/ meat & skin|MEAT|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?431)|turmeric|HERB/SPICE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?432)|turnips|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?433)|turtle|MEAT|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?434)|vanilla extract|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?435)|veal|MEAT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?436)|venison|MEAT|AVOID|AVOID|BENEFICIAL|BENEFICIAL|AVOID|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?437)|vinegar/ cider|CONDIMENT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?438)|vinegar/ other|CONDIMENT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?439)|walnut / black|NUT/SEED|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?44)|bamboo shoots|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?440)|walnut / english|NUT/SEED|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?441)|walnut oil|OIL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?442)|water / lemon added|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?443)|water chestnuts/ chinese|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?444)|water cress/ garden|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?445)|watermelon|FRUIT/ FRUIT JUICE|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?446)|wheat / white flour|GRAIN|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?447)|wheat / whole wheat|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?448)|wheat bread/ sprouted|GRAIN|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?449)|wheat germ oil|OIL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?45)|bananas|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?450)|whey/ sweet/ dried|DAIRY|AVOID|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?451)|white bean|BEAN/LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?452)|whitefish/ mixed species|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?453)|whiting/ mixed species|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?454)|wine/ table/ red|BEVERAGE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?455)|wine/ table/ white|BEVERAGE|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?456)|wintergreen|HERB/SPICE|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?458)|yam/ raw|VEGETABLE|AVOID|AVOID|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?459)|yeast /bakers|CONDIMENT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?46)|barley|GRAIN|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?460)|yeast /brewers|CONDIMENT|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?461)|yellowtail/ mixed species|FISH|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?462)|yogurt/ whole milk|DAIRY|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?463)|youngberry|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?464)|yucca|VEGETABLE|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?465)|zucchini (courgette)|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?466)|almond cheese|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?467)|bay leaf|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?468)|beechnut|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?469)|beef/ organic/ grass-fed|MEAT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?47)|barley malt flour|SWEETENER|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?470)|beer/ regular|BEVERAGE|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?471)|beet|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?472)|beet greens|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?473)|beluga|FISH|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?474)|bergamot|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?475)|bitter melon|FRUIT/ FRUIT JUICE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?476)|black bean|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?477)|black currant seed oil|OIL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?478)|black eyed pea|BEAN/LEGUME|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?479)|blackberries|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?48)|barracuda|FISH|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?480)|blue cheese|DAIRY|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?481)|capers|VEGETABLE|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?482)|caraway seed|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?483)|cardamom|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?484)|carob|BEAN/ LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?485)|carp|FISH|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?486)|carrageenan|CONDIMENT|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?487)|goose egg/ whole|EGG|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?488)|gooseberries|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?489)|cornmeal/ whole-grain/ yellow|GRAIN|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?49)|basil|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?490)|cornstarch|ADDITIVE|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?491)|cottage cheese|DAIRY|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?492)|cottonseed oil|OIL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?493)|milk/ cow/ nonfat|DAIRY|AVOID|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?494)|milk/ cow/ whole|DAIRY|AVOID|AVOID|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?495)|milk/ goat|DAIRY|NEUTRAL|AVOID|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?496)|millet/ cooked|GRAIN|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?497)|miso|CONDIMENT|BENEFICIAL|BENEFICIAL|AVOID|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?498)|molasses|SWEETENER|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?499)|molasses /blackstrap|SWEETENER|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?5)|coffee / brewed|BEVERAGE|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?50)|garlic|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?500)|munster cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?501)|mushroom/ black trumpet|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?502)|mushroom (champignon) / silver dollar|VEGETABLE|BENEFICIAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?503)|mushroom/ enoki|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?504)|mushroom/ maitake|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?505)|mushroom/ oyster|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?506)|oat flour|GRAIN|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?507)|oats/ meal|GRAIN|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?508)|octopus/ common|FISH|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?509)|okra|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?51)|gelatin|ADDITIVE|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?510)|olive  oil|OIL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?511)|olive/ greek/ spanish|VEGETABLE|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?512)|scallop/ mixed species|FISH|AVOID|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?513)|scrod|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?514)|scup|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?515)|sea salt / table|CONDIMENT|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?516)|seaweed|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?517)|seltzer water|BEVERAGE|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?518)|weakfish|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?519)|wheat / bran/ crude|GRAIN|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?52)|ghee/ clarified butter|DAIRY|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?520)|wheat / germ|GRAIN|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?521)|wheat / gluten flour|GRAIN|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?522)|wheat / refined/ unbleached|GRAIN|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?523)|wheat / semolina/ enriched|GRAIN|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?53)|partridge|MEAT|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?54)|pea / green/ yellow|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?55)|peaches|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?57)|sesame butter/ tahini|NUT/SEED|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?58)|sesame oil|OIL|NEUTRAL|BENEFICIAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?59)|sesame seeds/ whole|NUT/SEED|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?6)|colby cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?60)|sweetbreads|MEAT|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?600)|agave syrup|SWEETENER|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?601)|vegetable glycerine|SWEETENER|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?602)|baking soda|ADDITIVE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?603)|pepper/ black/  peppercorn/ fresh ground|HERB/SPICE|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?61)|swiss chard|VEGETABLE|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?62)|swiss cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?63)|swordfish|FISH|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?64)|tamari|CONDIMENT|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?65)|bass / bluegill or striped|FISH|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?66)|bass / sea|FISH|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?67)|bass / striped|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|BENEFICIAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?68)|blueberries|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?69)|bluefish|FISH|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?7)|collard greens|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?70)|bok choy cabbage|VEGETABLE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?71)|borage seed oil|OIL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?72)|boysenberries|FRUIT/ FRUIT JUICE|BENEFICIAL|BENEFICIAL|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?73)|brazilnuts|NUT/SEED|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?74)|breadfruit|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?75)|brie cheese|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?76)|broccoli / broccoli sprouts|VEGETABLE|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?77)|brussels sprouts|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?78)|buckwheat/ kasha/ soba|GRAIN|BENEFICIAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?79)|buffalo|MEAT|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|BENEFICIAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?8)|conch|FISH|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?80)|bullhead|FISH|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?81)|butter/ without salt|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?82)|butterfish|FISH|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?83)|buttermilk/ lowfat|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?84)|butternuts|NUT/SEED|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?85)|cabbage / all  varieties|VEGETABLE|AVOID|AVOID|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?86)|cabbage juice|VEGETABLE|NEUTRAL|AVOID|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?87)|camembert cheese|DAIRY|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?88)|juan canary (canang) melon|FRUIT/ FRUIT JUICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?89)|cannellini bean|BEAN/LEGUME|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?9)|copper/ cranberry/ roman bean|BEAN/LEGUME|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?90)|canola oil|OIL|NEUTRAL|NEUTRAL|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?91)|cantaloupe melon|FRUIT/ FRUIT JUICE|NEUTRAL|AVOID|NEUTRAL|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?92)|carrot|VEGETABLE|BENEFICIAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?93)|carrot juice|VEGETABLE|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?94)|casaba melon|FRUIT/ FRUIT JUICE|NEUTRAL|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?95)|casein (sodium caseinate)|DAIRY|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?96)|cashew|NUT/ SEED|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?98)|catfish|FISH|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
-|[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?99)|cauliflower|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
+<table>
+<thead>
+<tr>
+<th>Site_Id</th>
+<th>Food</th>
+<th>Type</th>
+<th>A_S</th>
+<th>A_NS</th>
+<th>B_S</th>
+<th>B_NS</th>
+<th>AB_S</th>
+<th>AB_NS</th>
+<th>O_S</th>
+<th>O_NS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?1">x</a></td>
+<td>coconut milk</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?10">x</a></td>
+<td>coriander</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?100">x</a></td>
+<td>caviar/ black or  red</td>
+<td>EGG</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?101">x</a></td>
+<td>celeriac</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?102">x</a></td>
+<td>celery / celery juice</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?103">x</a></td>
+<td>cheddar cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?104">x</a></td>
+<td>cherries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?105">x</a></td>
+<td>cherry juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?106">x</a></td>
+<td>chervil</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?107">x</a></td>
+<td>chestnuts</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?108">x</a></td>
+<td>chicken</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?109">x</a></td>
+<td>chicory roots</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?11">x</a></td>
+<td>corn</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?111">x</a></td>
+<td>chili powder</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?112">x</a></td>
+<td>chives</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?113">x</a></td>
+<td>chocolate/ cocoa</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?114">x</a></td>
+<td>christmas melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?115">x</a></td>
+<td>chub</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?116">x</a></td>
+<td>cilantro</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?117">x</a></td>
+<td>cinnamon</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?118">x</a></td>
+<td>clam / mixed species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?119">x</a></td>
+<td>cloves</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?12">x</a></td>
+<td>corn oil</td>
+<td>OIL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?120">x</a></td>
+<td>coconut meat</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?121">x</a></td>
+<td>goat cheese</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?122">x</a></td>
+<td>goose</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?123">x</a></td>
+<td>couscous/ cooked</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?124">x</a></td>
+<td>crab/ blue</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?125">x</a></td>
+<td>cranberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?126">x</a></td>
+<td>cranberry juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?127">x</a></td>
+<td>cream cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?128">x</a></td>
+<td>cream of tartar</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?129">x</a></td>
+<td>crenshaw (cranshaw) melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?13">x</a></td>
+<td>corn syrup</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?130">x</a></td>
+<td>croaker/ atlantic</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?131">x</a></td>
+<td>cucumber / with peel</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?132">x</a></td>
+<td>cucumber juice</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?133">x</a></td>
+<td>cumin seed</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?134">x</a></td>
+<td>currants/ red &amp; black</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?135">x</a></td>
+<td>curry powder</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?136">x</a></td>
+<td>cusk</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?137">x</a></td>
+<td>daikon radish</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?138">x</a></td>
+<td>dandelion greens</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?139">x</a></td>
+<td>dates/ domestic</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?14">x</a></td>
+<td>cornish hen</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?140">x</a></td>
+<td>dewberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?141">x</a></td>
+<td>dextrose</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?142">x</a></td>
+<td>dill seed</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?143">x</a></td>
+<td>drum/ freshwater</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?144">x</a></td>
+<td>duck</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?145">x</a></td>
+<td>duck egg / whole</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?146">x</a></td>
+<td>dulse</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?147">x</a></td>
+<td>edam cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?148">x</a></td>
+<td>eel/ mixed species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?149">x</a></td>
+<td>chicken egg/ whole</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?15">x</a></td>
+<td>abalone</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?150">x</a></td>
+<td>chicken egg/ white</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?151">x</a></td>
+<td>chicken egg/ yolk</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?152">x</a></td>
+<td>eggplant (aubergine)</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?153">x</a></td>
+<td>elderberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?154">x</a></td>
+<td>emmental cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?155">x</a></td>
+<td>endive</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?156">x</a></td>
+<td>escarole</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?157">x</a></td>
+<td>essene bread</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?158">x</a></td>
+<td>evening primrose oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?159">x</a></td>
+<td>ezekiel bread</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?16">x</a></td>
+<td>acacia (gum arabic)</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?160">x</a></td>
+<td>farmer cheese</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?161">x</a></td>
+<td>fava bean</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?162">x</a></td>
+<td>fennel/ bulb</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?163">x</a></td>
+<td>feta cheese</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?164">x</a></td>
+<td>fiddlehead ferns</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?165">x</a></td>
+<td>figs/ dried</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?166">x</a></td>
+<td>filberts (hazelnut)</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?167">x</a></td>
+<td>flax seed</td>
+<td>NUT/SEED</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?168">x</a></td>
+<td>flax seed oil</td>
+<td>OIL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?169">x</a></td>
+<td>flounder species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?17">x</a></td>
+<td>adzuki bean</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?170">x</a></td>
+<td>frog</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?171">x</a></td>
+<td>fructose</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?172">x</a></td>
+<td>garbanzo  (chickpea)</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?173">x</a></td>
+<td>ginger root</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?174">x</a></td>
+<td>gluten flour</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?175">x</a></td>
+<td>gluten free bread</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?176">x</a></td>
+<td>goat</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?177">x</a></td>
+<td>gouda cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?178">x</a></td>
+<td>grape / all varieties</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?179">x</a></td>
+<td>grapefruit / red &amp; white</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?18">x</a></td>
+<td>agar</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?180">x</a></td>
+<td>grapefruit juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?181">x</a></td>
+<td>gray (or dover) sole</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?182">x</a></td>
+<td>green tea</td>
+<td>BEVERAGE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?183">x</a></td>
+<td>green/string bean</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?184">x</a></td>
+<td>grouper/ mixed species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?185">x</a></td>
+<td>grouse</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?186">x</a></td>
+<td>gruyere cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?187">x</a></td>
+<td>guar gum</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?188">x</a></td>
+<td>guarana</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?189">x</a></td>
+<td>guava / guava juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?19">x</a></td>
+<td>alfalfa seeds/ sprouted</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?190">x</a></td>
+<td>guinea  hen</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?191">x</a></td>
+<td>haddock</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?192">x</a></td>
+<td>hake</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?193">x</a></td>
+<td>half and half</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?194">x</a></td>
+<td>half moon fish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?195">x</a></td>
+<td>halibut</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?196">x</a></td>
+<td>harvest fish</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?197">x</a></td>
+<td>heart (beef)</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?198">x</a></td>
+<td>herring/ atlantic</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?199">x</a></td>
+<td>hickorynuts/ dried</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?2">x</a></td>
+<td>coconut oil</td>
+<td>OIL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?20">x</a></td>
+<td>allspice</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?200">x</a></td>
+<td>honey</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?201">x</a></td>
+<td>honeydew melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?202">x</a></td>
+<td>horse</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?203">x</a></td>
+<td>horseradish/ prepared</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?205">x</a></td>
+<td>invert sugar</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?207">x</a></td>
+<td>jarlsberg cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?208">x</a></td>
+<td>jicama (yam bean)</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?21">x</a></td>
+<td>almond extract</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?210">x</a></td>
+<td>kale</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?211">x</a></td>
+<td>kamut</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?212">x</a></td>
+<td>kefir</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?213">x</a></td>
+<td>kelp</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?215">x</a></td>
+<td>kidney bean/ red</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?216">x</a></td>
+<td>kiwi fruit (chinese gooseberries)</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?217">x</a></td>
+<td>kohlrabi</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?218">x</a></td>
+<td>kumquats</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?219">x</a></td>
+<td>lamb</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?22">x</a></td>
+<td>almond milk</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?220">x</a></td>
+<td>lecithin</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?221">x</a></td>
+<td>leeks</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?222">x</a></td>
+<td>lemons/ lemon juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?223">x</a></td>
+<td>lentils/ domestic</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?224">x</a></td>
+<td>lentils/ green</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?225">x</a></td>
+<td>lentils/ red</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?226">x</a></td>
+<td>lettuce / all other varieties</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?227">x</a></td>
+<td>lettuce / romaine</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?228">x</a></td>
+<td>licorice root</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?229">x</a></td>
+<td>lima bean</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?23">x</a></td>
+<td>almond oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?230">x</a></td>
+<td>limes / lime juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?231">x</a></td>
+<td>liquor (distilled)</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?232">x</a></td>
+<td>litchis/ lychee</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?233">x</a></td>
+<td>liver (calf)</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?234">x</a></td>
+<td>lobster/ northern</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?235">x</a></td>
+<td>loganberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?236">x</a></td>
+<td>macadamia nuts</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?237">x</a></td>
+<td>mace/ ground</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?238">x</a></td>
+<td>mackerel/ atlantic</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?239">x</a></td>
+<td>mahi mahi</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?24">x</a></td>
+<td>almond/ almond butter</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?240">x</a></td>
+<td>maltodextrin</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?241">x</a></td>
+<td>mangos / mango juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?242">x</a></td>
+<td>maple syrup</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?243">x</a></td>
+<td>marjoram/ dried</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?245">x</a></td>
+<td>monkfish</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?246">x</a></td>
+<td>monterey jack cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?247">x</a></td>
+<td>mozzarella cheese / whole milk</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?248">x</a></td>
+<td>msg</td>
+<td>ADDITIVE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?249">x</a></td>
+<td>mulberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?25">x</a></td>
+<td>aloe</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?250">x</a></td>
+<td>mullet</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?251">x</a></td>
+<td>mung bean/ sprouts</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?252">x</a></td>
+<td>mushroom/ portabello</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?253">x</a></td>
+<td>mushroom/ shiitake</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?254">x</a></td>
+<td>mushrooms/ straw</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?255">x</a></td>
+<td>musk  melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?256">x</a></td>
+<td>muskellunge</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?257">x</a></td>
+<td>mussel/ blue</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?258">x</a></td>
+<td>mustard / wheat free/  vinegar free</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?259">x</a></td>
+<td>mustard /  wheat free/ with vinegar</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?26">x</a></td>
+<td>amaranth</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?260">x</a></td>
+<td>mustard / with wheat and vinegar</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?261">x</a></td>
+<td>mustard / with wheat/ vinegar free</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?262">x</a></td>
+<td>mustard greens</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?263">x</a></td>
+<td>mustard/ dry powder</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?264">x</a></td>
+<td>mutton</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?265">x</a></td>
+<td>navy bean</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?266">x</a></td>
+<td>nectarines/ nectarine juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?267">x</a></td>
+<td>neufchatel cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?268">x</a></td>
+<td>northern bean</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?269">x</a></td>
+<td>nutmeg</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?27">x</a></td>
+<td>american cheese/ process</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?270">x</a></td>
+<td>olive / green/ kalamata</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?271">x</a></td>
+<td>olive /black</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?272">x</a></td>
+<td>onions</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?273">x</a></td>
+<td>opaleye</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?274">x</a></td>
+<td>orange roughy</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?275">x</a></td>
+<td>oranges/ orange juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?276">x</a></td>
+<td>oregano</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?277">x</a></td>
+<td>ostrich</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?278">x</a></td>
+<td>oyster / eastern</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?279">x</a></td>
+<td>oyster plant</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?28">x</a></td>
+<td>anchovy/ european/</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?280">x</a></td>
+<td>paneer</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?281">x</a></td>
+<td>papayas</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?282">x</a></td>
+<td>paprika</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?283">x</a></td>
+<td>parmesan cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?284">x</a></td>
+<td>parrot fish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?285">x</a></td>
+<td>parsley</td>
+<td>HERB/SPICE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?286">x</a></td>
+<td>parsnips</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?287">x</a></td>
+<td>peanut oil</td>
+<td>OIL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?288">x</a></td>
+<td>peanut/ peanut butter</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?289">x</a></td>
+<td>pears/ pear juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?29">x</a></td>
+<td>anise seed</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?290">x</a></td>
+<td>pecans/ pecan butter</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?291">x</a></td>
+<td>pepper/ black/  white/ commercial ground</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?292">x</a></td>
+<td>peppers/ green and yellow/ all varieties</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?293">x</a></td>
+<td>pepper/ cayenne/ red flakes/ jalapeno</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?294">x</a></td>
+<td>peppers/ red/ all varieties</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?295">x</a></td>
+<td>peppermint</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?296">x</a></td>
+<td>perch/ ocean</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?297">x</a></td>
+<td>perch/ silver</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?298">x</a></td>
+<td>perch/ white</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?299">x</a></td>
+<td>perch/ yellow</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?3">x</a></td>
+<td>cod / atlantic</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?30">x</a></td>
+<td>apple / pectin</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?300">x</a></td>
+<td>persian melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?301">x</a></td>
+<td>persimmons/ native</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?302">x</a></td>
+<td>pheasant</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?303">x</a></td>
+<td>pickerel</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?304">x</a></td>
+<td>pickle/ brine</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?305">x</a></td>
+<td>pickle/ vinegar</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?306">x</a></td>
+<td>pickles/ dill relish</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?307">x</a></td>
+<td>pike/ walleye</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?308">x</a></td>
+<td>pimento</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?309">x</a></td>
+<td>pine nuts/ pignolia</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?31">x</a></td>
+<td>apples / apple juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?310">x</a></td>
+<td>pineapple</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?311">x</a></td>
+<td>pineapple juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?312">x</a></td>
+<td>pinto bean</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?313">x</a></td>
+<td>pistachio nuts</td>
+<td>NUT/SEED</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?314">x</a></td>
+<td>plantains</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?315">x</a></td>
+<td>plums</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?316">x</a></td>
+<td>poi</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?317">x</a></td>
+<td>pollock/ atlantic</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?318">x</a></td>
+<td>pomegranates</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?319">x</a></td>
+<td>pompano/ florida</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?32">x</a></td>
+<td>apricots / apricot juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?320">x</a></td>
+<td>popcorn/ air-popped</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?321">x</a></td>
+<td>poppy seed</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?322">x</a></td>
+<td>porgy</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?323">x</a></td>
+<td>potatoe /sweet</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?324">x</a></td>
+<td>potatoes /white/ red</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?325">x</a></td>
+<td>prickly pears</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?326">x</a></td>
+<td>provolone cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?327">x</a></td>
+<td>prunes/ prune juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?328">x</a></td>
+<td>pumpkin</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?329">x</a></td>
+<td>pumpkin seed/ butter</td>
+<td>NUT/SEED</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?33">x</a></td>
+<td>arrowroot flour</td>
+<td>ADDITIVE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?330">x</a></td>
+<td>quail</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?331">x</a></td>
+<td>quail egg/ whole</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?332">x</a></td>
+<td>quark cheese</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?333">x</a></td>
+<td>quince</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?334">x</a></td>
+<td>quinoa</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?335">x</a></td>
+<td>rabbit</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?336">x</a></td>
+<td>radicchio</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?337">x</a></td>
+<td>radish</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?338">x</a></td>
+<td>radish sprouts</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?339">x</a></td>
+<td>raisins</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?34">x</a></td>
+<td>artichoke/ jerusalem (topinambur)</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?340">x</a></td>
+<td>rappini (broccoli rabe)</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?341">x</a></td>
+<td>raspberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?342">x</a></td>
+<td>red snapper</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?343">x</a></td>
+<td>rhubarb</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?344">x</a></td>
+<td>rice / cream of</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?345">x</a></td>
+<td>rice / puffed</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?346">x</a></td>
+<td>rice / white/ brown/ basmati</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?347">x</a></td>
+<td>rice / wild</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?348">x</a></td>
+<td>rice bran</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?349">x</a></td>
+<td>rice cakes/ flour</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?35">x</a></td>
+<td>artichokes (globe or french)</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?350">x</a></td>
+<td>rice milk</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?351">x</a></td>
+<td>rice syrup</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?352">x</a></td>
+<td>ricotta cheese</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?353">x</a></td>
+<td>rosefish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?354">x</a></td>
+<td>rosemary</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?355">x</a></td>
+<td>rutabagas</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?356">x</a></td>
+<td>rye flour/ medium</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?357">x</a></td>
+<td>rye/ bread 100%</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?358">x</a></td>
+<td>safflower oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?359">x</a></td>
+<td>safflower seed kernals/ dried</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?36">x</a></td>
+<td>arugula</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?360">x</a></td>
+<td>saffron</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?361">x</a></td>
+<td>sage/ ground</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?362">x</a></td>
+<td>sago palm</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?363">x</a></td>
+<td>sailfish</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?365">x</a></td>
+<td>salmon / atlantic/ pacific/ wild</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?366">x</a></td>
+<td>salmon/ roe</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?367">x</a></td>
+<td>sardine/ atlantic/ canned in oil</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?368">x</a></td>
+<td>sauerkraut</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?369">x</a></td>
+<td>savory/ ground</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?37">x</a></td>
+<td>asian pear</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?370">x</a></td>
+<td>scallions</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?371">x</a></td>
+<td>shad/ american</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?372">x</a></td>
+<td>shallots</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?373">x</a></td>
+<td>shark/ mixed species</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?375">x</a></td>
+<td>shrimp/ mixed species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?376">x</a></td>
+<td>smelt</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?377">x</a></td>
+<td>snail</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?378">x</a></td>
+<td>snap/string  bean/ yellow</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?379">x</a></td>
+<td>soba noodles</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?38">x</a></td>
+<td>asparagus</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?380">x</a></td>
+<td>soda / club</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?381">x</a></td>
+<td>soda/ carbonated water</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?382">x</a></td>
+<td>sole / other  species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?383">x</a></td>
+<td>sorghum</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?384">x</a></td>
+<td>sour cream</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?385">x</a></td>
+<td>soy bean/ soy nut butter</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?386">x</a></td>
+<td>soy cheese</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?387">x</a></td>
+<td>soy flakes</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?388">x</a></td>
+<td>soy flour/ full-fat</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?389">x</a></td>
+<td>soy granules</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?39">x</a></td>
+<td>asparagus pea</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?390">x</a></td>
+<td>soy milk/ fluid</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?391">x</a></td>
+<td>soy oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?392">x</a></td>
+<td>soy sauce made from soy</td>
+<td>CONDIMENT</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?393">x</a></td>
+<td>spanish melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?394">x</a></td>
+<td>spearmint</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?395">x</a></td>
+<td>spelt</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?396">x</a></td>
+<td>spelt flour/ products</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?397">x</a></td>
+<td>spinach</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?398">x</a></td>
+<td>squab (pigeon) / meat only</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?399">x</a></td>
+<td>squash/ summer/ winter / all varieties</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?4">x</a></td>
+<td>cod liver oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?40">x</a></td>
+<td>aspartame</td>
+<td>SWEETENER</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?400">x</a></td>
+<td>squid (calamari)</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?401">x</a></td>
+<td>squirrel</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?402">x</a></td>
+<td>starfruit/ carambola</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?403">x</a></td>
+<td>stevia</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?404">x</a></td>
+<td>strawberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?405">x</a></td>
+<td>string cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?406">x</a></td>
+<td>sturgeon/ mixed species</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?407">x</a></td>
+<td>sucanat</td>
+<td>SWEETENER</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?408">x</a></td>
+<td>sucker/ white</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?409">x</a></td>
+<td>sugar</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?41">x</a></td>
+<td>avocado</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?410">x</a></td>
+<td>sunfish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?411">x</a></td>
+<td>sunflower oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?412">x</a></td>
+<td>sunflower seed kernals/ butter</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?413">x</a></td>
+<td>tamarinds</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?414">x</a></td>
+<td>tangerines/ tangerine juice</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?415">x</a></td>
+<td>tapioca/ pearl</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?416">x</a></td>
+<td>taro/ tahitian</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?417">x</a></td>
+<td>tarragon</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?418">x</a></td>
+<td>tea/ brewed</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?419">x</a></td>
+<td>teff</td>
+<td>GRAIN</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?42">x</a></td>
+<td>avocado oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?420">x</a></td>
+<td>tempeh</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?421">x</a></td>
+<td>thyme/ fresh</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?422">x</a></td>
+<td>tilapia</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?423">x</a></td>
+<td>tilefish</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?424">x</a></td>
+<td>tofu</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?425">x</a></td>
+<td>tomatoes/ tomato juice</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?426">x</a></td>
+<td>trout/ brook</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?427">x</a></td>
+<td>trout/ rainbow</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?428">x</a></td>
+<td>trout/ sea</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?429">x</a></td>
+<td>tuna/ fresh/ bluefin</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?43">x</a></td>
+<td>bacon / pork products</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?430">x</a></td>
+<td>turkey/ meat &amp; skin</td>
+<td>MEAT</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?431">x</a></td>
+<td>turmeric</td>
+<td>HERB/SPICE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?432">x</a></td>
+<td>turnips</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?433">x</a></td>
+<td>turtle</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?434">x</a></td>
+<td>vanilla extract</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?435">x</a></td>
+<td>veal</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?436">x</a></td>
+<td>venison</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?437">x</a></td>
+<td>vinegar/ cider</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?438">x</a></td>
+<td>vinegar/ other</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?439">x</a></td>
+<td>walnut / black</td>
+<td>NUT/SEED</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?44">x</a></td>
+<td>bamboo shoots</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?440">x</a></td>
+<td>walnut / english</td>
+<td>NUT/SEED</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?441">x</a></td>
+<td>walnut oil</td>
+<td>OIL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?442">x</a></td>
+<td>water / lemon added</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?443">x</a></td>
+<td>water chestnuts/ chinese</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?444">x</a></td>
+<td>water cress/ garden</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?445">x</a></td>
+<td>watermelon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?446">x</a></td>
+<td>wheat / white flour</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?447">x</a></td>
+<td>wheat / whole wheat</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?448">x</a></td>
+<td>wheat bread/ sprouted</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?449">x</a></td>
+<td>wheat germ oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?45">x</a></td>
+<td>bananas</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?450">x</a></td>
+<td>whey/ sweet/ dried</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?451">x</a></td>
+<td>white bean</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?452">x</a></td>
+<td>whitefish/ mixed species</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?453">x</a></td>
+<td>whiting/ mixed species</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?454">x</a></td>
+<td>wine/ table/ red</td>
+<td>BEVERAGE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?455">x</a></td>
+<td>wine/ table/ white</td>
+<td>BEVERAGE</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?456">x</a></td>
+<td>wintergreen</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?458">x</a></td>
+<td>yam/ raw</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?459">x</a></td>
+<td>yeast /bakers</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?46">x</a></td>
+<td>barley</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?460">x</a></td>
+<td>yeast /brewers</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?461">x</a></td>
+<td>yellowtail/ mixed species</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?462">x</a></td>
+<td>yogurt/ whole milk</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?463">x</a></td>
+<td>youngberry</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?464">x</a></td>
+<td>yucca</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?465">x</a></td>
+<td>zucchini (courgette)</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?466">x</a></td>
+<td>almond cheese</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?467">x</a></td>
+<td>bay leaf</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?468">x</a></td>
+<td>beechnut</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?469">x</a></td>
+<td>beef/ organic/ grass-fed</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?47">x</a></td>
+<td>barley malt flour</td>
+<td>SWEETENER</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?470">x</a></td>
+<td>beer/ regular</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?471">x</a></td>
+<td>beet</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?472">x</a></td>
+<td>beet greens</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?473">x</a></td>
+<td>beluga</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?474">x</a></td>
+<td>bergamot</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?475">x</a></td>
+<td>bitter melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?476">x</a></td>
+<td>black bean</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?477">x</a></td>
+<td>black currant seed oil</td>
+<td>OIL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?478">x</a></td>
+<td>black eyed pea</td>
+<td>BEAN/LEGUME</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?479">x</a></td>
+<td>blackberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?48">x</a></td>
+<td>barracuda</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?480">x</a></td>
+<td>blue cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?481">x</a></td>
+<td>capers</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?482">x</a></td>
+<td>caraway seed</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?483">x</a></td>
+<td>cardamom</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?484">x</a></td>
+<td>carob</td>
+<td>BEAN/ LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?485">x</a></td>
+<td>carp</td>
+<td>FISH</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?486">x</a></td>
+<td>carrageenan</td>
+<td>CONDIMENT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?487">x</a></td>
+<td>goose egg/ whole</td>
+<td>EGG</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?488">x</a></td>
+<td>gooseberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?489">x</a></td>
+<td>cornmeal/ whole-grain/ yellow</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?49">x</a></td>
+<td>basil</td>
+<td>HERB/SPICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?490">x</a></td>
+<td>cornstarch</td>
+<td>ADDITIVE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?491">x</a></td>
+<td>cottage cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?492">x</a></td>
+<td>cottonseed oil</td>
+<td>OIL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?493">x</a></td>
+<td>milk/ cow/ nonfat</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?494">x</a></td>
+<td>milk/ cow/ whole</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?495">x</a></td>
+<td>milk/ goat</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?496">x</a></td>
+<td>millet/ cooked</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?497">x</a></td>
+<td>miso</td>
+<td>CONDIMENT</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?498">x</a></td>
+<td>molasses</td>
+<td>SWEETENER</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?499">x</a></td>
+<td>molasses /blackstrap</td>
+<td>SWEETENER</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?5">x</a></td>
+<td>coffee / brewed</td>
+<td>BEVERAGE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?50">x</a></td>
+<td>garlic</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?500">x</a></td>
+<td>munster cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?501">x</a></td>
+<td>mushroom/ black trumpet</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?502">x</a></td>
+<td>mushroom (champignon) / silver dollar</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?503">x</a></td>
+<td>mushroom/ enoki</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?504">x</a></td>
+<td>mushroom/ maitake</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?505">x</a></td>
+<td>mushroom/ oyster</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?506">x</a></td>
+<td>oat flour</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?507">x</a></td>
+<td>oats/ meal</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?508">x</a></td>
+<td>octopus/ common</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?509">x</a></td>
+<td>okra</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?51">x</a></td>
+<td>gelatin</td>
+<td>ADDITIVE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?510">x</a></td>
+<td>olive  oil</td>
+<td>OIL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?511">x</a></td>
+<td>olive/ greek/ spanish</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?512">x</a></td>
+<td>scallop/ mixed species</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?513">x</a></td>
+<td>scrod</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?514">x</a></td>
+<td>scup</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?515">x</a></td>
+<td>sea salt / table</td>
+<td>CONDIMENT</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?516">x</a></td>
+<td>seaweed</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?517">x</a></td>
+<td>seltzer water</td>
+<td>BEVERAGE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?518">x</a></td>
+<td>weakfish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?519">x</a></td>
+<td>wheat / bran/ crude</td>
+<td>GRAIN</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?52">x</a></td>
+<td>ghee/ clarified butter</td>
+<td>DAIRY</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?520">x</a></td>
+<td>wheat / germ</td>
+<td>GRAIN</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?521">x</a></td>
+<td>wheat / gluten flour</td>
+<td>GRAIN</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?522">x</a></td>
+<td>wheat / refined/ unbleached</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?523">x</a></td>
+<td>wheat / semolina/ enriched</td>
+<td>GRAIN</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?53">x</a></td>
+<td>partridge</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?54">x</a></td>
+<td>pea / green/ yellow</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?55">x</a></td>
+<td>peaches</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?57">x</a></td>
+<td>sesame butter/ tahini</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?58">x</a></td>
+<td>sesame oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?59">x</a></td>
+<td>sesame seeds/ whole</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?6">x</a></td>
+<td>colby cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?60">x</a></td>
+<td>sweetbreads</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?600">x</a></td>
+<td>agave syrup</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?601">x</a></td>
+<td>vegetable glycerine</td>
+<td>SWEETENER</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?602">x</a></td>
+<td>baking soda</td>
+<td>ADDITIVE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?603">x</a></td>
+<td>pepper/ black/  peppercorn/ fresh ground</td>
+<td>HERB/SPICE</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?61">x</a></td>
+<td>swiss chard</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?62">x</a></td>
+<td>swiss cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?63">x</a></td>
+<td>swordfish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?64">x</a></td>
+<td>tamari</td>
+<td>CONDIMENT</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?65">x</a></td>
+<td>bass / bluegill or striped</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?66">x</a></td>
+<td>bass / sea</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?67">x</a></td>
+<td>bass / striped</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?68">x</a></td>
+<td>blueberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?69">x</a></td>
+<td>bluefish</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?7">x</a></td>
+<td>collard greens</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?70">x</a></td>
+<td>bok choy cabbage</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?71">x</a></td>
+<td>borage seed oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?72">x</a></td>
+<td>boysenberries</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?73">x</a></td>
+<td>brazilnuts</td>
+<td>NUT/SEED</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?74">x</a></td>
+<td>breadfruit</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?75">x</a></td>
+<td>brie cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?76">x</a></td>
+<td>broccoli / broccoli sprouts</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?77">x</a></td>
+<td>brussels sprouts</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?78">x</a></td>
+<td>buckwheat/ kasha/ soba</td>
+<td>GRAIN</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?79">x</a></td>
+<td>buffalo</td>
+<td>MEAT</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?8">x</a></td>
+<td>conch</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?80">x</a></td>
+<td>bullhead</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?81">x</a></td>
+<td>butter/ without salt</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?82">x</a></td>
+<td>butterfish</td>
+<td>FISH</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?83">x</a></td>
+<td>buttermilk/ lowfat</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?84">x</a></td>
+<td>butternuts</td>
+<td>NUT/SEED</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?85">x</a></td>
+<td>cabbage / all  varieties</td>
+<td>VEGETABLE</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?86">x</a></td>
+<td>cabbage juice</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?87">x</a></td>
+<td>camembert cheese</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?88">x</a></td>
+<td>juan canary (canang) melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?89">x</a></td>
+<td>cannellini bean</td>
+<td>BEAN/LEGUME</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?9">x</a></td>
+<td>copper/ cranberry/ roman bean</td>
+<td>BEAN/LEGUME</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?90">x</a></td>
+<td>canola oil</td>
+<td>OIL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?91">x</a></td>
+<td>cantaloupe melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?92">x</a></td>
+<td>carrot</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?93">x</a></td>
+<td>carrot juice</td>
+<td>VEGETABLE</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?94">x</a></td>
+<td>casaba melon</td>
+<td>FRUIT/ FRUIT JUICE</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?95">x</a></td>
+<td>casein (sodium caseinate)</td>
+<td>DAIRY</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?96">x</a></td>
+<td>cashew</td>
+<td>NUT/ SEED</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?98">x</a></td>
+<td>catfish</td>
+<td>FISH</td>
+<td>AVOID</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>AVOID</td>
+<td>NEUTRAL</td>
+</tr>
+<tr>
+<td><a href="http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?99">x</a></td>
+<td>cauliflower</td>
+<td>VEGETABLE</td>
+<td>NEUTRAL</td>
+<td>NEUTRAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>BENEFICIAL</td>
+<td>AVOID</td>
+<td>AVOID</td>
+</tr>
+</tbody>
+</table>
 
 
 
