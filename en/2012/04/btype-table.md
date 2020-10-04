@@ -1,7 +1,7 @@
 # BType and Food Items
 
-For general explanation see [post](blood-type-diet.md). _S or _NS
-stand for secretor or non-secretor, detail in the main post. A_S
+For general explanation see [post](blood-type-diet.md). `_S` or `_NS`
+stand for secretor or non-secretor, detail in the main post. `A_S`
 stands for blood type A with secretor. 
 
 <table>
