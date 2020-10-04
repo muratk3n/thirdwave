@@ -35,7 +35,7 @@ despite the best efforts of people working in them.
 
 [Rome, The First Wave](/2017/12/rome.md)
 
-[Human Nature](/2020/07/human-nature.md)
+[Human Nature & Health](/2020/07/human-nature.md)
 
 [Climate Change](/2018/12/climate.md)
 

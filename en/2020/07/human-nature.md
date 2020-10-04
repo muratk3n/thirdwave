@@ -1,4 +1,4 @@
-# Human Nature
+# Human Nature and Health
 
 [De Vany, Exercise, Diet](../../2010/04/devany.md)
 
@@ -6,4 +6,7 @@
 
 [The Culture Code](../../2014/06/the-culture-code.md)
 
+[Blood Type Diet](../../2012/04/blood-type-diet.md)
+
 [[⇪Up]](../..)
+
