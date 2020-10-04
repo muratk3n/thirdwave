@@ -2,13 +2,10 @@
 
 For general explanation see [post](blood-type-diet.md). `_S` or `_NS`
 stand for secretor or non-secretor, detail in the main post. `A_S`
-stands for blood type A with secretor.
+stands for blood type A with secretor. 
 
-1
-
-|---
-|Site_Id|Food|Type|A_S|A_NS|B_S|B_NS|AB_S|AB_NS|O_S|O_NS |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <div style="width:290px">propertySite_Id</div>|<div style="width:290px">Food</div>|<div style="width:290px">Type</div>|A_S|A_NS|B_S|B_NS|AB_S|AB_NS|O_S|O_NS|
+|-|-|-|-|-|-|-|-|-|-|-|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?1)|coconut milk|FRUIT/ FRUIT JUICE|AVOID|NEUTRAL|AVOID|AVOID|AVOID|AVOID|AVOID|AVOID|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?10)|coriander|HERB/SPICE|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?100)|caviar/ black or  red|EGG|AVOID|NEUTRAL|BENEFICIAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|
@@ -525,5 +522,6 @@ stands for blood type A with secretor.
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?96)|cashew|NUT/ SEED|AVOID|AVOID|AVOID|AVOID|NEUTRAL|AVOID|AVOID|AVOID|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?98)|catfish|FISH|AVOID|AVOID|NEUTRAL|NEUTRAL|NEUTRAL|NEUTRAL|AVOID|NEUTRAL|
 |[x](http://web.archive.org/web/20170310062004/http://www.dadamo.com/typebase4/depictor5.pl?99)|cauliflower|VEGETABLE|NEUTRAL|NEUTRAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|BENEFICIAL|AVOID|AVOID|
-|---
+
+
 
