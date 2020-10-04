@@ -7,7 +7,7 @@ climates created the nomadic B, settled life in villages, farms
 created the A. The last one to arrive is AB which is a mix of both A
 and B.
 
-[Table](btype-table.md)
+[Table](btype-table-md.html)
 
 On top of the main types, there is the secretor status. In the
 genetics of the secretor system two options exist. A person can be
