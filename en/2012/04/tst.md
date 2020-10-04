@@ -14,11 +14,11 @@
 
 
 |---
-| Default aligned | Left aligned | Center aligned | Right aligned
+| Default aligned | Left aligned | Center aligned | Center aligned | Center aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
+| First body part | Second cell | Third cell | Third cell | Third cell | Third cell | fourth cell
+| Second line |foo | **strong**| **strong**| **strong**| **strong** | baz
+| Third line |quux | baz | baz | baz | baz | bar
 |---
 | Second body
 | 2 line
