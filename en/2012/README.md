@@ -140,7 +140,9 @@
 
 [Ass](04/ass.md)
 
-[Base Types and MBTI](04/base-types-and-mbti.md)
+[Blood Type Diet](04/blood-type-diet.md)
+
+[BType and Food Items](04/btype-table.md)
 
 [Changing Education Paradigms](04/changing-education-paradigms.md)
 

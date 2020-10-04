@@ -144,8 +144,6 @@
 
 [Zenga Zenga](03/zenga-zenga.md)
 
-[Brother Obama](04/brother-obama.md)
-
 [Chaos](04/chaos.md)
 
 [Einstein and Eddington](04/einstein-and-eddington.md)
@@ -272,8 +270,6 @@
 
 [Bits in Japan](07/bits-in-japan.md)
 
-[Breivik](07/breivik.md)
-
 [Counter Game](07/counter-game.md)
 
 [Debt Ceiling](07/debt-limit.md)
@@ -297,8 +293,6 @@
 [Mathematics for the Moon](07/mathematics-for-moon.md)
 
 [More on Aaron Swartz](07/more-on-aaron-swartz.md)
-
-[More on Breivik](07/more-on-breivik.md)
 
 [More Regulation?](07/more-regulation.md)
 
