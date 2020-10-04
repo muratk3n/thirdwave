@@ -1,6 +1,6 @@
 # Blood Type Diet
 
-The theory posits there are good foods for each blood type. The types
+The theory states there are good foods for each blood type. The types
 are the result of our evolution, in Africa type O was predominant,
 which is the hunter-gatherer type, then the migration to colder
 climates created the nomadic B, settled life in villages, farms
