@@ -73,7 +73,7 @@ Keith Mansfield - Staying Power \#music
 ---
 
 Muad'dib.. Mohammad.. They sound kind of the same no? *Dune* also takes
-place in a desert..
+place in a desert? Got this all figured out.
 
 ---
 
