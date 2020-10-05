@@ -138,7 +138,7 @@ help them do so. The war drags on.
 
 <a name='status'/>
 
-Democratic Status of Some Countries
+Democratic Status 
 
 Data from [Downloads](https://www.bti-project.org/en/meta/downloads.html).  I
 looked at TR vs RU (using the Stata file),
