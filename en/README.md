@@ -47,6 +47,8 @@ tree? Dam
 
 Baking soda + water + essent. oil? That easy?
 
+[Link](https://www.aluminumfreedeodorants.com/natural-homemade-deodorant/how-to-make-deodorant-without-coconut-oil/)
+
 ---
 
 While we r at it, why not deodorant? These f-ing corporations load
