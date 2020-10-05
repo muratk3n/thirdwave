@@ -140,8 +140,9 @@ help them do so. The war drags on.
 
 Democratic Status 
 
-Data from [Downloads](https://www.bti-project.org/en/meta/downloads.html).  I
-looked at TR vs RU (using the Stata file),
+[Data](https://www.bti-project.org/en/meta/downloads.html) comes from
+the BTI Transformation Index that evaluates aspects of governance for
+selected countries, recentlyupdated for 2020.
 
 ```python
 import pandas as pd
