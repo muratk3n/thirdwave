@@ -42,8 +42,7 @@ I've seen ppl use coconut oil for sticks even. But spray is better IMO.
 
 ---
 
-Trying now. Fine so far... These essent oils are dense as fuck. Tee
-tree? Dam
+Tried fine so far.. These essent oils are dense as funk. Tee tree? Dam
 
 ---
 
