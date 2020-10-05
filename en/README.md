@@ -1,6 +1,8 @@
 # Tweets
 
 
+[Better Believe It](https://youtu.be/n72jR6P_RDk?t=26)
+
 "Plug Power Stock Gets an Upgrade Because Hydrogen Power Is a Thing"
 
 [Link](https://www.barrons.com/articles/plug-power-gets-an-upgrade-because-hydrogen-power-is-a-thing-51601315050)
