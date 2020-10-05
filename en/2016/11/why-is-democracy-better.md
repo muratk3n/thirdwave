@@ -136,7 +136,7 @@ fighters. Autocrats can hide the goings-on of a war, so they would
 never feel the pressure to finish, hence do not fight in a way that'll
 help them do so. The war drags on.
 
-<a href='status'/>
+<a name='status'/>
 
 Democratic Status of Some Countries
 
