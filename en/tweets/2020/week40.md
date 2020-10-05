@@ -1,6 +1,5 @@
 # Week 40
 
-
 Main news sources currently, *DW* and *France 24 English*, for TV
 like, in the background, news talking head type of watching. Less
 drama, calmer, and once in a while a good documentary (on DW)
