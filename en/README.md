@@ -50,8 +50,7 @@ Baking soda + water + essent. oil? That easy?
 ---
 
 While we r at it, why not deodorant? These f-ing corporations load
-their deo with alimunium, prevents sweating, not healthy. Neutralizing
-is preferred.
+their deo with alimunium, prevents sweating, not healthy. Neutralize.
 
 ---
 
