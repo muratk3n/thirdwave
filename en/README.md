@@ -38,7 +38,7 @@ to customize anyway, the needs are too varied.
 
 ---
 
-I've seen ppl use coconut oil for sticks even. But spray is better IMO.
+I've seen ppl use coconut oil for deo sticks but spray is more usabl IMO
 
 ---
 
