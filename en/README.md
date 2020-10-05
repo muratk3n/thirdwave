@@ -61,7 +61,7 @@ Funky doesn't always mean healthy, e.g. rye is not good for all , neither is
 
 ---
 
-DIY bread; flour, add yeast, wait. Throw in cooker over cooking paper, done.
+DIY bread; flour, add yeast, wait. Throw in cooker over cooking paper,
 done. One less shopping item.
 
 ---
