@@ -86,7 +86,7 @@ Oh yea.. `pyradio` allows manual addition of radio stations with
 ---
 
 Seriously.. They'll ask anything on the Internet. They also don't know
-if 1 is a dog, so why not
+if u r a dog, so why not
 
 "What is the quickest way to finding the hay in a needlestack?"
 
