@@ -564,8 +564,6 @@ demographics) AND a guarantee of ~ a million people dying"
 
 ---
 
-
-
 Miyagi - Fear of Missing Out \#music
 
 [Link](https://www.youtube.com/watch?v=YpPOXfM45b0)
