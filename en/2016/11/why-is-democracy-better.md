@@ -158,7 +158,7 @@ df3.plot()
 plt.savefig('bti-compare.png')
 ```
 
-
+![](bti-compare.png)
 
 
 References
