@@ -6,8 +6,8 @@ mechanical behavior. We demonstrate how this can happen in a
 model. The key point is that in classically (ontologically) evolving
 systems one can still define a conserved quantum energy ...
 
-It will be shown that quantum mechanical cor- relation functions can
-be most easily explained if we assume the existence of very high
+It will be shown that quantum mechanical correlation functions can be
+most easily explained if we assume the existence of very high
 frequency oscillations, which give rise to energy levels way beyond
 the regime of the Standard Model. When these fast oscillating
 quantities are handled as classical variables that have to be smeared
