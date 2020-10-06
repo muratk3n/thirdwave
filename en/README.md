@@ -84,17 +84,16 @@ pandemic"
 
 ---
 
-"Exxon’s Plan for Surging Carbon Emissions Revealed in Leaked Documents
-
-Internal projections from one of world’s largest oil producers show an
-increase in its enormous contribution to global warming"
+Bloomberg: "Exxon’s Plan for Surging Carbon Emissions Revealed in
+Leaked Documents.. Internal projections from one of world’s largest
+oil producers show an increase in its enormous contribution to global
+warming"
 
 [Link](https://www.bloomberg.com/amp/news/articles/2020-10-05/exxon-carbon-emissions-and-climate-leaked-plans-reveal-rising-co2-output)
 
 ---
 
-"World’s Largest Green Hydrogen Project Unveiled in Saudi Arabia
-
+"World’s Largest Green Hydrogen Project Unveiled in Saudi Arabia ..
 Air Products, the world’s leading hydrogen producer, plans to power a
 huge green hydrogen plant using 4 gigawatts of Saudi renewable
 electricity"
