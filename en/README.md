@@ -79,17 +79,18 @@ recently started to talk about some traditionally left issues (this is
 how far, and low the Dems had fallen, their abandoned ideas were
 picked up by others) is pretty big anti-abortion guy right? Well, but
 his religion, Presbyterianism, is not strictly anti-abortion. In fact
-none of them are! This guy is the only one - he jokes about it - the
-rest of the joke goes, there is only one other Presb woman who is that
-way, and he is married to her. Now forget one side "imploring", trying
-to "convince", "one up" the other side. Imagine that hand that goes
-out in the world, weeds out all likely candidates and picks the only
-Presbyterian *in the world* who is anti-abortion.. You can't fight
-this. The stage is set. With a certain line-up you will get a certain
-theather. Pre-determined. Now TS exceeded his programming so to speak,
-talks about some other stuff, and we love seeing Glenn Greenwald on
-Fox. But there is a certain institutional setup in play here, which
-can't be fought by more punditry from the "other side".
+none of them are! This guy is the only one! He jokes about it.. and
+the rest of the joke goes, there is only one other Presb, a woman who
+is that way, and he is married to her. Now forget one side
+"imploring", trying to "convince", "one up" the other side. Imagine
+that hand that goes out in the world, weeds out all likely candidates
+and picks the only Presbyterian *in the world* who is
+anti-abortion.. You can't fight this. The stage is set. With a certain
+line-up you will get a certain theather. Pre-determined. Now TS
+exceeded his programming so to speak, talks about some other stuff,
+and we love seeing Glenn Greenwald on Fox. But there is a certain
+institutional setup in play here, which can't be fought by more
+punditry from the "other side".
 
 There is serious money to be made from it too.. So much of it in fact,
 even Tubers downstreamhave been feasting on the left-overs for years!
