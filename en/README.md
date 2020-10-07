@@ -95,11 +95,10 @@ it too.. So much of it in fact, even Tubers down the line have been
 feasting on the left-overs for years!  Forget mainstream!
 
 The game is agree on all primary issues, raise a ruckus on secondary
-bullshit ones, on "4G" - Green, Gays, Guns, God.
-
-Richard Fucking Nixon founded the EPA, but pfff, that's so
-yesterday. Up until a few years not a single Republican would touch an
-environmental issue with a ten-foot pole.
+bullshit ones, on "4G" - Green, Gays, Guns, God. Richard Fucking Nixon
+founded the EPA, but pfff, that's so yesterday. Up until a few years
+not a single Republican would touch an environmental issue with a
+ten-foot pole.
 
 "But why do pundits jump up and down, arguing all the time?"
 
