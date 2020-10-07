@@ -102,7 +102,7 @@ Richard Fucking Nixon founded the EPA, but pfff, that's so
 yesterday. Up until a few years not a single Republican would touch an
 environmental issue with a ten-foot pole.
 
-"But why do pundits jump up and down all the time?"
+"But why do pundits jump up and down, arguing all the time?"
 
 ---
 
