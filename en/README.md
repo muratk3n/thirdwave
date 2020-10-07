@@ -7,7 +7,7 @@ Biden. First time voting for Dems"
 
 ---
 
-Because it is. See [Quantum Theory as a Theory of Shadows](en/2019/08/qm-theory-of-shadows.md)
+Because it is. See [Quantum Theory as a Theory of Shadows](2019/08/qm-theory-of-shadows.md)
 
 "'t Hooft is trying to fix QM? Why do some ppl think it is incomplete?"
 
@@ -106,7 +106,7 @@ environmental issue with a ten-foot pole.
 
 ---
 
-True. US has [faux polarization](en/2018/05/polarization.md). 
+True. US has [faux polarization](2018/05/polarization.md). 
 
 Caitlin Johnstone: "When you look at US politics, it appears as though
 there are two mainstream political factions that very strongly
