@@ -8,5 +8,7 @@
 
 [Blood Type Diet](../../2012/04/blood-type-diet.md)
 
+[Myers-Briggs Test](../../2019/08/mbti_en.html)
+
 [[⇪Up]](../..)
 
