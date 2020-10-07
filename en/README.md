@@ -1,12 +1,5 @@
 # Tweets
 
-"@alexanderchee
-
-My lifelong Republican in-laws both voted early in Wisconsin for
-Biden. First time voting for Dems"
-
----
-
 Because it is. See [Quantum Theory as a Theory of Shadows](2019/08/qm-theory-of-shadows.md)
 
 "'t Hooft is trying to fix QM? Why do some ppl think it is incomplete?"
@@ -118,6 +111,13 @@ debates, these two factions are actually furiously agreeing with one
 another. They’re agreeing the entire time"
 
 [Link](https://medium.com/@caityjohnstone/us-politics-isnt-polarized-it-s-in-almost-universal-agreement-dec5ad6d20b7)
+
+---
+
+"@alexanderchee
+
+My lifelong Republican in-laws both voted early in Wisconsin for
+Biden. First time voting for Dems"
 
 ---
 
