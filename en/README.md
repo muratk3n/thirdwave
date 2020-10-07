@@ -90,11 +90,9 @@ line-up you will get a certain theather. Pre-determined. Now TS
 exceeded his programming so to speak, talks about some other stuff,
 and we love seeing Glenn Greenwald on Fox. But there is a certain
 institutional setup in play here, which can't be fought by more
-punditry from the "other side".
-
-There is serious money to be made from it too.. So much of it in fact,
-even Tubers downstreamhave been feasting on the left-overs for years!
-Forget mainstream!
+punditry from the "other side". There is serious money to be made from
+it too.. So much of it in fact, even Tubers down the line have been
+feasting on the left-overs for years!  Forget mainstream!
 
 The game is agree on all primary issues, raise a ruckus on secondary
 bullshit ones, on "4G" - Green, Gays, Guns, God.
