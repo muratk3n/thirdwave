@@ -26,7 +26,7 @@ day of the week.
 
 ---
 
-We all look like Sub Zero from the Mortal Kombat these days.
+We all look like Sub Zero from *Mortal Kombat* these days.
 
 ---
 
