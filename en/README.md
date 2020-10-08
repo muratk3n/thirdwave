@@ -109,7 +109,7 @@ identified, for each subject, get a content creator / programmer
 assigned to, and have them generate a course.
 
 "But Feynman videos are on YouTube now, they are also many other good
-teachers on vid. Can't students just go to YouTUbe?"
+teachers on vid. Can't students just go to YouTube?"
 
 ---
 
