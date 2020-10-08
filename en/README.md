@@ -124,8 +124,8 @@ Feynman is your teacher now, or whowever is at his caliber nowadays,
 on a given course. There is always that freak of nature who is part
 teacher part researcher, equally awesome on both. Gov finds that guy /
 gal, get the content, so a poor student won't have to settle with Bob
-Buttfuck from Bumblefuck, they'll have Feynman 2.0 on videos, on
-lecture material as PDFs, offline viewable HTML with animation etc.
+Buttfuck from Bumblefuck, they'll have the best on video, in lecture
+materials as PDFs, offline viewable HTML with animation etc.
 
 "So your proposal [on ed](2018/09/public-education.md) creates 'a
 certifier' and does away with teachers. Certifier will sit in
