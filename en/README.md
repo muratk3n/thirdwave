@@ -15,8 +15,8 @@ call it a sure lose.
 
 Sure. Just like state colleges compete with private ones today.
 
-"If enacted government wld be creating "the university" and be
-competing with other digital universities"
+"If enacted government wld be creating "the university" digitally and
+be competing with other such commercial universities"
 
 ---
 
