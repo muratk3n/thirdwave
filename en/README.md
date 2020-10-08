@@ -113,10 +113,10 @@ would go for that, even select teachers outside the university system.
 
 ---
 
-Not enough. YT content is just too fragmented to create a digital
-school with. For every country / language, lecturer need to be
-identified, for each subject, get a content creator / programmer
-assigned to, and have them generate a course.
+YT content is just too fragmented to create a digital school with. For
+every country / language, lecturer need to be identified, for each
+subject, get a content creator / programmer assigned to, and have them
+generate a course.
 
 "But Feynman videos are on YouTube now, they are also many other good
 teachers on vid. Can't students just go to YouTube?"
