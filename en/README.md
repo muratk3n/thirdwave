@@ -133,7 +133,7 @@ important, this person will not deliver a lecture. Richard Freaking
 Feynman is your teacher now, or whowever is at his caliber nowadays,
 on a given course. There is always that freak of nature who is part
 teacher part researcher, equally awesome on both. Gov finds that guy /
-gal, get the content, so a poor student won't have to settle with Bob
+gal, gets the content, so a poor student won't have to settle with Bob
 Buttfuck from Bumblefuck, they'll have the best on video, in lecture
 materials as PDFs, offline viewable HTML with animation etc.
 
