@@ -67,8 +67,9 @@ Once "classes" turn into just content and a few administrators, you
 could house regional, town level servers, which can be clones of the
 central DoEd server. Individual schools can get the classes they need
 on smaller disks to distribute them to kids at schools /
-homes. Student goes to a "data access point", gets their "class" and
-either goes home, or school (if possible by this point due to pandemic).
+homes. Student goes to a "data access point", gets his "class" and
+either goes home, or school (if possible by this point due to
+pandemic).
 
 "Not every school can have distance learning, bcz they dont have Internet"
 
