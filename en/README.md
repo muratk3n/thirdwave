@@ -13,6 +13,13 @@ call it a sure lose.
 
 ---
 
+Sure. Just like state colleges compete with private ones today.
+
+"If enacted government wld be creating "the university" and be
+competing with other digital universities"
+
+---
+
 It's plenty! I have [this course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 stored on my hard drive, and it takes 2.5 GB with 20+ videos, code,
 lecture notes in PDF.
