@@ -8,7 +8,7 @@
 
 ---
 
-DJT approval back down to -10%. If this continues throughout Oct I
+DJT net approval back down to -10%. If this continues throughout Oct I
 call it a sure lose.
 
 ---
