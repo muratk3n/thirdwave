@@ -50,9 +50,9 @@ Every kid will need a personal tablet / notebook of course.
 
 ---
 
-Even with Internet available everywhere, the concept of sync needs to
-be implemented. Kids sync their lecture content with central or school
-server. They need to have all necessary files with them.
+Even if Internet was available everywhere, I'd still implement synch
+feature. Student syncs their lecture content with central, or a closer
+school server. They need to have all necessary files with them.
 
 ---
 
