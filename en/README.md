@@ -119,7 +119,7 @@ to show up, be around, and handle certification if a student asks for
 it which will be rare. Certifier will know a particular lecture
 content (he himself is certified on) inside and out of course, so in
 effect he is also a student, just a more experienced one. This is very
-important, this person will not be the teacher. Richard Freaking
+important, this person will not deliver a lecture. Richard Freaking
 Feynman is your teacher now, or whowever is at his caliber nowadays,
 on a given course. There is always that freak of nature who is part
 teacher part researcher, equally awesome on both. Gov finds that guy /
