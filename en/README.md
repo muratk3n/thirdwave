@@ -26,7 +26,7 @@ ultra-cheap in our computing revolution.
 
 I cannot stress this enough. That little RPi board has a full blown
 Linux on it, it can run Python, or any language, or any program that
-can run on a regular machine.
+can run on a notebook, or a desktop.
 
 ---
 
