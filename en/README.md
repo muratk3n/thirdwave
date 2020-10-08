@@ -25,7 +25,7 @@ stored on my hard drive, and it takes 2.5 GB with 20+ videos, code,
 lecture notes in PDF.
 
 Disk space is cheap. In fact disk space is the first thing that went
-ultra-cheap in our computing revolution.
+ultra-cheap in the computing revolution.
 
 "But is 64 GB disk space enough?"
 
