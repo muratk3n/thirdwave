@@ -8,12 +8,12 @@ senior Republicans in contact with President Donald Trump'"
 
 ---
 
-@EFF
+"@EFF
 
 The Google v Oracle ruling will be hugely consequential for software
 development. Even if the Supreme Court finds fair use, that may be
 small comfort for startups that can't afford to litigate to protect
-their right to reimplement APIs
+their right to reimplement APIs"
 
 ---
 
@@ -73,8 +73,6 @@ person general channel like it's his family whatsapp I'm so angry"
 [TOP500](https://www.top500.org/lists/top500/2020/06/). No computer
 system from Anatolia made the cut? HPC software doesn't on donkeys my
 friend.
-
-[Link](https://top500.org/lists/top500/2020/06/)
 
 ---
 
