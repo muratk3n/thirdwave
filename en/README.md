@@ -1,5 +1,21 @@
 # Tweets
 
+"@lucas_chancel
+
+Why is Europe More Equal Than the US?
+
+We show that European countries and Europe as a whole are more equal than the US
+
+The question is: why? 
+
+We take a fresh look at this [below]"
+
+<img width="340" src="https://pbs.twimg.com/media/Ej-QtGsWAAIM59A?format=jpg&name=small"/>
+
+[Link](https://twitter.com/lucas_chancel/status/1314928729836195847)
+
+---
+
 "@EFF
 
 The Google v Oracle ruling will be hugely consequential for software
