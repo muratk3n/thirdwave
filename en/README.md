@@ -71,15 +71,6 @@ person general channel like it's his family whatsapp I'm so angry"
 
 ---
 
-Hence my ed proposal. Scale: cheap labtops, digi content. Repeatable
-quality: vid of genius teacher, same in Beverly Hills or Compton.
-
----
-
-All abt speed, scale, repeatable quality. 
-
----
-
 [TOP500](https://www.top500.org/lists/top500/2020/06/). No computer
 system from Anatolia made the cut? HPC software doesn't on donkeys my
 friend.
