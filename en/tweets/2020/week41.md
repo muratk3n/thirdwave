@@ -1,5 +1,117 @@
 # Week 41
 
+"@dfinity
+
+“The next generation of kids isn't going to be building on AWS. Once
+they find out it requires far less code to create a hyper scalable
+internet service, they’re going to write code and push it to the
+internet," says @dominic_w at \#SODIUM"
+
+---
+
+"Negative opinions about China soared to record highs for nine out of
+14 countries polled, according to a survey by Pew Research Center"
+
+---
+
+"Mariah Carey for V Magazine: 'We’ve been socialized to believe that
+poverty is a personal failure rather than our systems failing us'"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unsurprising. Banks have taken years to recover from the <a href="https://twitter.com/hashtag/GreatFinancialCrisis?src=hash&amp;ref_src=twsrc%5Etfw">#GreatFinancialCrisis</a> of 2008, at its root was cheap loans for people to buy homes they couldn&#39;t really afford.<br><br>Increased housing supply and wage growth are probably better ways to address housing aspirations <a href="https://t.co/FcclDGDeTk">https://t.co/FcclDGDeTk</a></p>&mdash; Jonathan Josephs (@jonathanjosephs) <a href="https://twitter.com/jonathanjosephs/status/1314534262629163010?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"The House Judiciary subcommittee on antitrust determined Facebook
+wields monopoly powers in social network and has maintained its
+position by acquiring, copying or killing its competitors, according
+to a report the group released on Tuesday.
+
+The report from the Democratic majority staff, which also addresses
+antitrust concerns regarding Amazon, Apple, Google parent-company
+Alphabet, recommends that Congress review a series of potential
+remedies. This includes “structural separation,” which could require
+the companies to split parts of their businesses. For instance,
+Facebook could be forced to divest or operationally separate
+photo-sharing service Instagram and messaging app WhatsApp, both of
+which it acquired"
+
+[Link](https://www.cnbc.com/2020/10/06/house-antitrust-committee-facebook-monopoly-buys-kills-competitors.html)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oil giant Total joins a small funding round in U.S. fuel-cell truck startup Hyzon Motors, its latest foray into cleaner energy sources <a href="https://t.co/wZtEc927mR">https://t.co/wZtEc927mR</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/1314476458052595712?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Covid-19: French saliva test proves effective in ‘real-world’
+conditions"
+
+[Link](https://www.france24.com/en/20201008-covid-19-french-saliva-test-proves-effective-in-real-world-conditions)
+
+---
+
+"A Canada charity gave $7,500 to homeless people, here’s what
+happened... According to their recently published findings, the group
+that got cash spent less days homeless than the others, moved into
+stable housing in an average of three months, and nearly 70 percent of
+them became food secure after a month"
+
+[Link](https://www.independent.co.uk/news/world/americas/new-leaf-project-homeless-money-canada-charity-b889315.html)
+
+---
+
+"@jonathanjosephs
+
+UK parliamentary committee finds 'clear evidence of collusion' between
+\#Huawei and Chinese Communist Party"
+
+---
+
+"GenCell Energy, a leading Israel-based manufacturer of fuel cell
+energy solutions,today announces that a Tier One telecom provider has
+deployed its first GenCell G5 hydrogen fuel cell-based long-duration
+backup solution at an active cell tower site in Europe"
+
+---
+
+"UK Seizes $13 Million in Unexplained Wealth From Businessman .. In
+what is being described as a landmark case, the U.K.’s National Crime
+Agency, NCA, relied on an Unexplained Wealth Order to seize millions
+in property and assets from a businessman with alleged ties to
+organized crime"
+
+[Link](https://www.occrp.org/en/daily/13213-uk-seizes-13-million-in-unexplained-wealth-from-businessman)
+
+---
+
+ToScA ~OroZco (Dubphonic Dub) \#music
+
+[Link](https://youtu.be/kcT1YprI-OQ)
+
+---
+
+Q2 US Private Debt to GDP was at 191%?
+
+```
+2019-10-01    167.132869
+2020-01-01    173.931116
+2020-04-01    191.103939
+```
+
+[Link](../../2019/05/stats.md#credit)
+
+---
+
+"@aaronstein1
+
+The access to loitering munition and their prolific use in the NK
+conflict should be a wake up call for DoD, USAF and the Army: Air
+superiority definitions may need to change"
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Endlessly fascinating to see that in a country where the tax/GDP ratio is very low and falling, infrastructure is crumbling, and tens millions don&#39;t have health care, a top priority is somehow to not. raise. taxes.</p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1314018802791665664?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----
@@ -137,7 +249,7 @@ gal, gets the content, so a poor student won't have to settle with Bob
 Buttfuck from Bumblefuck, they'll have the best on video, in lecture
 materials as PDFs, offline viewable HTML with animation etc.
 
-"So your proposal [on ed](2018/09/public-education.md) creates 'a
+"So your proposal [on ed](../../2018/09/public-education.md) creates 'a
 certifier' and does away with teachers. Certifier will sit in
 classrooms, will be able to answer questions. But will s/he not be
 overloaded?"
@@ -156,7 +268,7 @@ Edwin Starr - Easin' In \#music
 
 ---
 
-Because it is. See [Quantum Theory as a Theory of Shadows](2019/08/qm-theory-of-shadows.md)
+Because it is. See [Quantum Theory as a Theory of Shadows](../../2019/08/qm-theory-of-shadows.md)
 
 "'t Hooft is trying to fix QM? Why do some ppl think it is incomplete?"
 
@@ -253,7 +365,7 @@ ten-foot pole.
 
 ---
 
-True. US has [faux polarization](2018/05/polarization.md). 
+True. US has [faux polarization](../../2018/05/polarization.md). 
 
 Caitlin Johnstone: "When you look at US politics, it appears as though
 there are two mainstream political factions that very strongly
@@ -471,7 +583,7 @@ They also don't know if u r a dog, so why not
 
 ---
 
-Democracy status of [some countries](2016/11/why-is-democracy-better.md#status).
+Democracy status of [some countries](../../2016/11/why-is-democracy-better.md#status).
 
 Ukraine has improved.
 

@@ -1,118 +1,146 @@
 # Tweets
 
-"@dfinity
+"@mattkatz00
 
-“The next generation of kids isn't going to be building on AWS. Once
-they find out it requires far less code to create a hyper scalable
-internet service, they’re going to write code and push it to the
-internet," says @dominic_w at \#SODIUM"
-
----
-
-"Negative opinions about China soared to record highs for nine out of
-14 countries polled, according to a survey by Pew Research Center"
+Chris Christie is spending his 7th night hospitalized & has been
+prescribed remdesivir. CNN says he his case is the 'most serious among
+senior Republicans in contact with President Donald Trump'"
 
 ---
 
-"Mariah Carey for V Magazine: 'We’ve been socialized to believe that
-poverty is a personal failure rather than our systems failing us'"
+@EFF
+
+The Google v Oracle ruling will be hugely consequential for software
+development. Even if the Supreme Court finds fair use, that may be
+small comfort for startups that can't afford to litigate to protect
+their right to reimplement APIs
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unsurprising. Banks have taken years to recover from the <a href="https://twitter.com/hashtag/GreatFinancialCrisis?src=hash&amp;ref_src=twsrc%5Etfw">#GreatFinancialCrisis</a> of 2008, at its root was cheap loans for people to buy homes they couldn&#39;t really afford.<br><br>Increased housing supply and wage growth are probably better ways to address housing aspirations <a href="https://t.co/FcclDGDeTk">https://t.co/FcclDGDeTk</a></p>&mdash; Jonathan Josephs (@jonathanjosephs) <a href="https://twitter.com/jonathanjosephs/status/1314534262629163010?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Building of a floating platform. Foam is surrounded by concrete,
+further supported by steel. Foam supplies the low density (gives
+volume minus weight), conrete makes sure the water never gets to it,
+hardens the structure, and steel makes everything even stronger. Solid design.
+
+[Link](https://youtu.be/tVq4lm6xN2g)
 
 ---
 
-"The House Judiciary subcommittee on antitrust determined Facebook
-wields monopoly powers in social network and has maintained its
-position by acquiring, copying or killing its competitors, according
-to a report the group released on Tuesday.
-
-The report from the Democratic majority staff, which also addresses
-antitrust concerns regarding Amazon, Apple, Google parent-company
-Alphabet, recommends that Congress review a series of potential
-remedies. This includes “structural separation,” which could require
-the companies to split parts of their businesses. For instance,
-Facebook could be forced to divest or operationally separate
-photo-sharing service Instagram and messaging app WhatsApp, both of
-which it acquired"
-
-[Link](https://www.cnbc.com/2020/10/06/house-antitrust-committee-facebook-monopoly-buys-kills-competitors.html)
+"War [as in culture], as rhetoric, emphasizes the clash rather than
+the cause. If you can move the conversation toward the war itself, you
+might give people permission to forget why the battle is being waged
+in the first place. And you might be able to shift the terms of the
+discussion away from the sweeping failures of the federal government
+and toward the familiar reductions of the culture war. You can erode
+the matter down to the basics of 'personal responsibility' versus
+'governmental intrusion'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oil giant Total joins a small funding round in U.S. fuel-cell truck startup Hyzon Motors, its latest foray into cleaner energy sources <a href="https://t.co/wZtEc927mR">https://t.co/wZtEc927mR</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/1314476458052595712?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Design around the shortcomings. No system component is perfect. 
 
 ---
 
-"Covid-19: French saliva test proves effective in ‘real-world’
-conditions"
+Dont put them into a ward then.
 
-[Link](https://www.france24.com/en/20201008-covid-19-french-saliva-test-proves-effective-in-real-world-conditions)
-
----
-
-"A Canada charity gave $7,500 to homeless people, here’s what
-happened... According to their recently published findings, the group
-that got cash spent less days homeless than the others, moved into
-stable housing in an average of three months, and nearly 70 percent of
-them became food secure after a month"
-
-[Link](https://www.independent.co.uk/news/world/americas/new-leaf-project-homeless-money-canada-charity-b889315.html)
+"False positives [from quick tests] can .. put people at risk [??]: If
+a virus-free nursing-home resident with a false positive is placed in
+a COVID-19 ward, that person could become infected"
 
 ---
 
-"@jonathanjosephs
+Just the flu
 
-UK parliamentary committee finds 'clear evidence of collusion' between
-\#Huawei and Chinese Communist Party"
-
----
-
-"GenCell Energy, a leading Israel-based manufacturer of fuel cell
-energy solutions,today announces that a Tier One telecom provider has
-deployed its first GenCell G5 hydrogen fuel cell-based long-duration
-backup solution at an active cell tower site in Europe"
+"We’ve seen very healthy, young, athletic, strong people get COVID-19
+and die, or end up with long-term disability,' says Akiko Iwasaki, a
+Yale immunologist. College athletes have died from the disease. Some
+long-haulers, who have dealt with months of symptoms, were marathon
+runners and martial artists who have since struggled to walk up
+stairs'"
 
 ---
 
-"UK Seizes $13 Million in Unexplained Wealth From Businessman .. In
-what is being described as a landmark case, the U.K.’s National Crime
-Agency, NCA, relied on an Unexplained Wealth Order to seize millions
-in property and assets from a businessman with alleged ties to
-organized crime"
-
-[Link](https://www.occrp.org/en/daily/13213-uk-seizes-13-million-in-unexplained-wealth-from-businessman)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every time I speak of the haters and losers I do so with great love and affection. They cannot help the fact that they were born fucked up!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/516382177798680576?ref_src=twsrc%5Etfw">September 29, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-ToScA ~OroZco (Dubphonic Dub) \#music
+"@ShashankB_
 
-[Link](https://youtu.be/kcT1YprI-OQ)
-
----
-
-Q2 US Private Debt to GDP was at 191%?
-
-```
-2019-10-01    167.132869
-2020-01-01    173.931116
-2020-04-01    191.103939
-```
-
-[Link](2019/05/stats.md#credit)
+New guy at work started posting 'good morning' every day in our 4000
+person general channel like it's his family whatsapp I'm so angry"
 
 ---
 
-"@aaronstein1
-
-The access to loitering munition and their prolific use in the NK
-conflict should be a wake up call for DoD, USAF and the Army: Air
-superiority definitions may need to change"
+Hence my ed proposal. Scale: cheap labtops, digi content. Repeatable
+quality: vid of genius teacher, same in Beverly Hills or Compton.
 
 ---
 
-Last updated on *2020-10-09 19:50*
+All abt speed, scale, repeatable quality. 
+
+---
+
+Cheese has the 9 essential aminos. So wont need beef for that. But
+cannot completely go animal free (yet).
+
+---
+
+Poultry storage, messy, need a fallback replacement. Looking at
+legumes, sold dried (not canned). Soak, blender, burger. Freeze
+storage.
+
+---
+
+No computer system from Anatolia made the cut? HPC software doesn't on
+donkeys my friend.
+
+[Link](https://top500.org/lists/top500/2020/06/)
+
+---
+
+Not too shabby, but to put it into perspective, Russia held 1688
+trillion cubic feet of proven gas reserves as of 2017.
+
+"Zohr gas field.. is an offshore natural gas field located in the
+Egyptian sector of the Mediterranean Sea.. The total gas in place in
+30 trillion cubic feet"
+
+---
+
+Convert it to H2, I might be fine with it.
+
+---
+
+Top hardware is deployed looking for fossil shit. 
+
+"According to the TOP500 list, HPC5 is the sixth most powerful
+supercomputer in the world, the highest ranked in Europe and the
+overall leader among non-governmental systems... The performance level
+of this computer means it can use extremely sophisticated in-house
+algorithms to process subsoil data. The geophysical and seismic
+information we collect from all over the world is sent to HPC5 for
+processing. Using this data, the system develops extremely in-depth
+subsoil models, and on the basis of these, we can determine what is
+hidden many kilometres below the surface: indeed, this is how we found
+Zohr, the largest gas field ever discovered in the Mediterranean"
+
+[Link](https://www.eni.com/en-IT/operations/green-data-center-hpc5.html)
+
+---
+
+Not just powerful enough, RPi can *be* desktop out-of-the-box.
+
+Take the SD card (with OS on it), stick it in. Connect RPi to HDMI
+monitor. Connect USB keyboard / mouse. Boom! Right there, you have now
+a desktop environment, welcoming you. User can click on icons, use
+spreadsheet, edit programming languages, view videos, right away! All
+through a tiny, light board.
+
+"You say RPi can replace desktop machine. Do you mean it is powerful enough to do that?"
+
+---
+
+Last updated on *2020-10-10 20:24*
 
 ---
 
