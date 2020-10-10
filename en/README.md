@@ -133,7 +133,7 @@ Not just powerful enough, RPi can *be* desktop out-of-the-box.
 Take the SD card (with OS on it), stick it in. Connect RPi to HDMI
 monitor. Connect USB keyboard / mouse. Boom! Right there, you have now
 a desktop environment, welcoming you. User can click on icons, use
-spreadsheet, edit programming languages, view videos, right away! All
+spreadsheet, edit programming languages, view videos, right away. All
 through a tiny, light board.
 
 "You say RPi can replace desktop machine. Do you mean it is powerful enough to do that?"
