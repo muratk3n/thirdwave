@@ -80,17 +80,6 @@ All abt speed, scale, repeatable quality.
 
 ---
 
-Cheese has the 9 essential aminos. So wont need beef for that. But
-cannot completely go animal free (yet).
-
----
-
-Poultry storage, messy, need a fallback replacement. Looking at
-legumes, sold dried (not canned). Soak, blender, burger. Freeze
-storage.
-
----
-
 [TOP500](https://www.top500.org/lists/top500/2020/06/). No computer
 system from Anatolia made the cut? HPC software doesn't on donkeys my
 friend.
