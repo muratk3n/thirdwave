@@ -1,13 +1,5 @@
 # Tweets
 
-"@mattkatz00
-
-Chris Christie is spending his 7th night hospitalized & has been
-prescribed remdesivir. CNN says he his case is the 'most serious among
-senior Republicans in contact with President Donald Trump'"
-
----
-
 "@EFF
 
 The Google v Oracle ruling will be hugely consequential for software
