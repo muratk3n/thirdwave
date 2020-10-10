@@ -2,8 +2,6 @@
 
 "@lucas_chancel
 
-Why is Europe More Equal Than the US?
-
 We show that European countries and Europe as a whole are more equal than the US
 
 The question is: why? 
