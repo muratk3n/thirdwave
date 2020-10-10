@@ -91,8 +91,8 @@ storage.
 
 ---
 
-No computer system from Anatolia made the cut? HPC software doesn't on
-donkeys my friend.
+No computer system from Anatolia made the cut on TOP500? HPC software
+doesn't on donkeys my friend.
 
 [Link](https://top500.org/lists/top500/2020/06/)
 
@@ -134,7 +134,7 @@ Take the SD card (with OS on it), stick it in. Connect RPi to HDMI
 monitor. Connect USB keyboard / mouse. Boom! Right there, you have now
 a desktop environment, welcoming you. User can click on icons, use
 spreadsheet, edit programming languages, view videos, right away. All
-through a tiny, light board.
+through a light, tiny board.
 
 "You say RPi can replace desktop machine. Do you mean it is powerful enough to do that?"
 
