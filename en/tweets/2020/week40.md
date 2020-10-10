@@ -19,10 +19,6 @@ praying for Trump *to die*.
 
 ---
 
-DJT with COVID. What a bloody freaking mess...
-
----
-
 Glad to be of help to the US weapons industry.
 
 "@JM_Szuba
