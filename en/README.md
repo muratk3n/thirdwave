@@ -25,7 +25,7 @@ their right to reimplement APIs"
 
 Design of a floating platform. Foam is surrounded by concrete, further
 supported by steel. Foam supplies the low density (gives volume minus
-weight), conrete makes sure the water never gets in. Solid design.
+weight), concrete makes sure the water never gets in. Solid design.
 
 <iframe width="340" src="https://www.youtube.com/embed/tVq4lm6xN2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
