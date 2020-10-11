@@ -77,8 +77,8 @@ person general channel like it's his family whatsapp I'm so angry"
 ---
 
 [TOP500](https://www.top500.org/lists/top500/2020/06/). No computer
-system from Anatolia made the cut? HPC software doesn't on donkeys my
-friend.
+system from Anatolia made the cut? HPC software doesn't run on donkeys
+my friend.
 
 ---
 
