@@ -8,8 +8,8 @@
 
 The docs from the so-called Seasteading Institute are a bloody
 mess. Not enough details on engineering. This is what u get when
-libertards, economist try to think on substantial
-solutions. Friedman's grandson is involved apparently. Focker too.
+libertards, economist try to think on substantial solutions. Milton
+Friedman's grandson is involved apparently. Focker too.
 
 ---
 
