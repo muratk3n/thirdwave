@@ -1,7 +1,9 @@
 # Floating City Design
 
-Master's Thesis for Technical University of Delft Hydraulic
-Engineering Program
+Kelvin Ko
+
+Master's Thesis, Technical University of Delft Hydraulic Engineering
+Program
 
 [PDF](http://resolver.tudelft.nl/uuid:cb4bddef-1eb8-49ec-9ff9-670a30dd4b72)
 
@@ -47,8 +49,16 @@ In the offshore engineering, most floating platforms/vessels are
 moored with 12 mooring lines if the spread mooring system is applied,
 see Figure 79. But this applies to only one floating
 platform/vessel. It would require too much mooring lines if each
-single platform in the floating city has 12 mooring lines.
+single platform in the floating city has 12 mooring lines. ...
 
+As the mooring lines of one platform also have effect for the adjacent
+platforms, it can be opted to apply less mooring lines per
+platform. The 12 mooring lines that are applied to one platform in the
+offshore engineering can likewise be applied to a set of coupled
+platforms. The difference is that a set of coupled platforms are
+larger in dimension compared to a single floating platform/vessel in
+the offshore engineering, so there are more mooring lines needed to
+withstand the larger loads and displacements.
 
 ![](city_03.png)
 

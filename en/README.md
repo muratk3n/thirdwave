@@ -1,126 +1,79 @@
 # Tweets
 
-"@lucas_chancel
 
-We show that European countries and Europe as a whole are more equal than the US
-
-The question is: why? 
-
-We take a fresh look at this [below]"
-
-<img width="340" src="https://pbs.twimg.com/media/Ej-QtGsWAAIM59A?format=jpg&name=small"/>
-
-[Link](https://twitter.com/lucas_chancel/status/1314928729836195847)
+<img width="340" src="https://drive.google.com/thumbnail?id=1xWv3m6Eie4iHXb_Dply2jEFTtJyUAjbd"/>
 
 ---
 
-"@EFF
 
-The Google v Oracle ruling will be hugely consequential for software
-development. Even if the Supreme Court finds fair use, that may be
-small comfort for startups that can't afford to litigate to protect
-their right to reimplement APIs"
-
----
-
-Design of a floating platform. Foam is surrounded by concrete, further
-supported by steel. Foam supplies the low density (gives volume minus
-weight), concrete makes sure the water never gets in. Solid design.
-
-<iframe width="340" src="https://www.youtube.com/embed/tVq4lm6xN2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The docs from the so-called Seasteading Institute are a bloody
+mess. Not enough details on engineering. This is what u get when
+libertards, economist try to think on substantial
+solutions. Friedman's grandson is involved apparently. Focker too.
 
 ---
 
-"War [as in culture], as rhetoric, emphasizes the clash rather than
-the cause. If you can move the conversation toward the war itself, you
-might give people permission to forget why the battle is being waged
-in the first place. And you might be able to shift the terms of the
-discussion away from the sweeping failures of the federal government
-and toward the familiar reductions of the culture war. You can erode
-the matter down to the basics of 'personal responsibility' versus
-'governmental intrusion'"
+I don't like moorings. Propellers, already used for mobility, can keep
+the structure in place. One issue is this thing is made up of
+connected hexagons, some / each with a multidirectional propeller,
+they need to be able to point to the same direction. Doable.
 
 ---
 
-Design around the shortcomings. No system component is perfect. 
+Floating City Design.
+
+Even high-rise buildings can withstand some serious impact.
+
+[Link](2020/10/floating-city.md)
 
 ---
 
-Dont put them into a ward then.
-
-"False positives [from quick tests] can .. put people at risk [??]: If
-a virus-free nursing-home resident with a false positive is placed in
-a COVID-19 ward, that person could become infected"
-
----
-
-Just the flu
-
-"We’ve seen very healthy, young, athletic, strong people get COVID-19
-and die, or end up with long-term disability,' says Akiko Iwasaki, a
-Yale immunologist. College athletes have died from the disease. Some
-long-haulers, who have dealt with months of symptoms, were marathon
-runners and martial artists who have since struggled to walk up
-stairs'"
+But Bruce Wayne is a rich guy and he is trying to help you.. so I
+guess in the anti-gov era, this was totally fine. People are there to
+be saved by rich people after all. They have status, are better than
+everyone else. They can cure disease, offer public services, feed the
+poor. 
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every time I speak of the haters and losers I do so with great love and affection. They cannot help the fact that they were born fucked up!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/516382177798680576?ref_src=twsrc%5Etfw">September 29, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Batman.. this guy is causing so much public property damage. Watching
+the 2005 movie.. This is not cool
 
 ---
 
-"@ShashankB_
-
-New guy at work started posting 'good morning' every day in our 4000
-person general channel like it's his family whatsapp I'm so angry"
+Bight-shiny-object-ism is also used very adaptly by corporate
+Democrats, to deflect from econ issues along with 4G.
 
 ---
 
-[TOP500](https://www.top500.org/lists/top500/2020/06/). No computer
-system from Anatolia made the cut? HPC software doesn't run on donkeys
-my friend.
+Hallmark of technobabbling centrism, techy solution that sounds
+bright-shiny-object-y but its content is shit
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i promise you it&#39;s not.... more tech in cars... that&#39;ll make things safer for cyclists. it&#39;s:<br><br>a) cycling infrastructure<br>b) ....................fewer cars <a href="https://t.co/RlefC8wcVS">https://t.co/RlefC8wcVS</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1315097142202191872?ref_src=twsrc%5Etfw">October 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Not too shabby, but to put it into perspective, Russia held 1688
-trillion cubic feet of proven gas reserves as of 2017.
+"@TheNatlInterest
 
-"Zohr gas field.. is an offshore natural gas field located in the
-Egyptian sector of the Mediterranean Sea.. The total gas in place in
-30 trillion cubic feet"
-
----
-
-Convert it to H2, I might be fine with it.
+More than 5.6 million people have already voted in the presidential
+election, a wide surge compared to the 75,000 votes from early voting
+at this point in the 2016 election"
 
 ---
 
-Top hardware is deployed looking for fossil shit. 
-
-"According to the TOP500 list, HPC5 is the sixth most powerful
-supercomputer in the world, the highest ranked in Europe and the
-overall leader among non-governmental systems... The performance level
-of this computer means it can use extremely sophisticated in-house
-algorithms to process subsoil data. The geophysical and seismic
-information we collect from all over the world is sent to HPC5 for
-processing. Using this data, the system develops extremely in-depth
-subsoil models, and on the basis of these, we can determine what is
-hidden many kilometres below the surface: indeed, this is how we found
-Zohr, the largest gas field ever discovered in the Mediterranean"
-
-[Link](https://www.eni.com/en-IT/operations/green-data-center-hpc5.html)
+My new notebook keyboard feels like a Mac; it has that solid feel,
+slick, but it seems to require a clear intent. Push me bitch! Mean it! 😶
+That's the vibe I am getting from this thing. Catty.
 
 ---
 
-Not just powerful enough, RPi can *be* desktop out-of-the-box.
+"BCG: Can a vaccine from 1921 [for tuberclosis] save lives from Covid-19?"
 
-Take the SD card (with OS on it), stick it in. Connect RPi to HDMI
-monitor. Connect USB keyboard / mouse. Boom! Right there, you have now
-a desktop environment, welcoming you. User can click on icons, use
-spreadsheet, edit programming languages, view videos, right away. All
-through a light, tiny board.
+[Link](https://www.bbc.com/news/health-54465733)
 
-"You say RPi can replace desktop machine. Do you mean it is powerful enough to do that?"
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just went for a walk in a cemetery and a guy has a QR code on his grave stone that links to a list of his publications and citation metrics</p>&mdash; Justin Joque (@jjoque) <a href="https://twitter.com/jjoque/status/1314954067077144577?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
