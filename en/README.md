@@ -31,16 +31,16 @@ certifier will not be a teacher anymore?"
 
 ---
 
-Wanting to come across as a first-rate power.. Anatolians, so-called
-"Turks" want it so bad. But I think these niggers confuse acting out
-end-goal with actually being it. "If I act the end goal I'll be
-it". Have a white house'y place, with briefings given other than that
-the exec. This is some retarded dumb ass shit...  What happened to the
-process? US ended up being what it is as a side-effect of many factors
-of its near past and geo. It didnt *try* to be it, and even now, many
-are unhappy with the state of empire. So how can a country hailing
-from the sidelines of modernity simply acting out the end-product can
-get that end product? 
+Wanting to come across as a first-rate power.. Anatolians want it so
+bad. But I think these niggers confuse acting out end-goal with
+actually being it. "If I act the end goal I'll be it". Have a white
+house'y place, with briefings given other than that the exec. This is
+some retarded dumb ass shit...  What happened to the process? US ended
+up being what it is as a side-effect of many factors of its near past
+and geo. It didnt *try* to be it, and even now, many are unhappy with
+the state of empire. So how can a country hailing from the sidelines
+of modernity simply acting out the end-product simply be that end
+product?
 
 ---
 
