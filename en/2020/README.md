@@ -54,5 +54,3 @@
 
 [Floating City Design](10/floating-city.md)
 
-[Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
-

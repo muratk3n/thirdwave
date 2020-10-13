@@ -250,6 +250,8 @@
 
 [#guns](10/guns.md)
 
+[Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
+
 [#thepurge](10/thepurge.md)
 
 [1/3](11/13.md)

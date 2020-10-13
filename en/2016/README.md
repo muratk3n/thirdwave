@@ -80,8 +80,6 @@
 
 [#whenpublishers #perish](04/when-publishers-perish.md)
 
-[#zing](04/zing.md)
-
 [Ascribe](05/ascribe.md)
 
 [#borders](05/borders.md)

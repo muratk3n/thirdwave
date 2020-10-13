@@ -1,3 +1,0 @@
-# #zing
-
-![](hump.png)
