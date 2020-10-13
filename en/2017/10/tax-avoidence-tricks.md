@@ -1,11 +1,11 @@
 # Tax Avoidance, Trickery
 
-J. Cochrane
+[J. Cochrane](https://johnhcochrane.blogspot.com/2017/10/corporate-tax-burden-again.html)
 
 I think every economist in [the tax] debate admits, if some
 reluctantly, that corporations pay no taxes.
 
-FT
+[Financial Times](https://ftalphaville.ft.com/2017/10/31/2195336/the-most-elegant-corporate-tax-reform/)
 
 American politicians are thinking about changing how they tax
 businesses. There are good reasons to reform the existing system, but
@@ -60,7 +60,7 @@ what current enforcement requires). And federal revenues will go up,
 because companies will have incentive to do what is most profitable,
 not what minimizes their tax liability"
 
-Solution [From The Road to Ruin, J. Rickards]
+The Road to Ruin, J. Rickards, Solution 
 
 The solution in the works for G7 nations is world taxation. This
 starts with a centralized tax information database shared by developed
@@ -90,7 +90,7 @@ analytics. Like the shark, companies could run, but no longer hide.
 
 <a name="doubleDip"/>
 
-The Double-Dip [From The Road to Ruin, J. Rickards]
+The Road to Ruin, J. Rickards, The Double-Dip
 
 For a decade at the start of my career, I was international tax
 counsel to Citibank, then the world’s most powerful private
