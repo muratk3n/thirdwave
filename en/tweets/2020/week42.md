@@ -48,9 +48,9 @@ product?
 
 ---
 
-DIY deo final formula: 1/3 liter spray bottle, fill 2/3 water. 1
-tblspoon baking soda, 1 coconut oil, the rest lemon cologne (a tigger
-concoction, with high alcohol content). Shake.
+DIY deo final formula: 1/3 liter spray bottle, fill 2/3 water. 3 drops
+essential oil, 1 tblspoon baking soda, 1 coconut oil, the rest lemon
+cologne (a tigger concoction, with high alcohol content). Shake.
 
 ---
 
