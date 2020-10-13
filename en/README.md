@@ -1,8 +1,8 @@
 # Tweets
 
 Just saw F24 bit on green tech and they talked abt Airbus H2
-plans. This is serious... And why shouldnt it be? H2 have been used in
-rockets for space for years.
+plans. This is serious... And why shouldnt it be? H2 has been used in
+space rockets for years.
 
 ---
 
