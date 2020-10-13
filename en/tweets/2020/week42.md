@@ -129,7 +129,7 @@ Floating City Design.
 
 Even high-rise buildings can withstand some serious impact.
 
-[Link](2020/10/floating-city.md)
+[Link](../../2020/10/floating-city.md)
 
 ---
 
