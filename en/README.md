@@ -129,14 +129,14 @@ still could be a whopping Iranian invasion.
 TR? The odd thing is, after 2003 many nationalists in TR started to
 get quesy... A bestselling 2004 novel *Metal Fırtına* (Metal Storm)
 for instance depicts tiggers being invaded. But u r a NATO ally and a
-democracy.. Why would u care? So thought "what crawled up your behind
-this time, f-nuts?". They are bothered some inane thing or another all
-the time.. But then I realized if u think non-democracies are in
-danger and you see yourself as one, then you would perceive a threat,
-wouldn't you? All of a sudden there don't be a coup every 10 years,
-minorities might get representation. Alas post 2015 we saw a decrease
-of democracy and a rise of nationalism. So maybe people who saw a
-threat did act.
+democracy.. Why would u care? I remember thinking "what crawled up
+your behind this time, f-nuts?". They are bothered some inane thing or
+another all the time.. But then I realized if u think non-democracies
+are in danger and you see yourself as one, then you would perceive a
+threat, wouldn't you? All of a sudden there don't be a coup every 10
+years, minorities might get representation. Alas post 2015 we saw a
+decrease of democracy and a rise of nationalism. So maybe people who
+saw a threat did act.
 
 Last updated on *2020-10-13 11:13*
 
