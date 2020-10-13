@@ -626,8 +626,6 @@ people. It only emboldened Wall Street’s greed, recklessness and
 fraud. Bonuses went up, no one went to jail. That’s why I voted
 against it. It’s time to break up the big banks once and for all"
 
-Aah Sheila Beir. There is some good stuff abt her in Rickards' book.
-
 "Distressingly, misogyny emerged again in 2008 when the most powerful
 woman regulator, Sheila Bair, chairwoman of the FDIC, was sidelined by
 a new boys’ club of Summers, Tim Geithner, and Ben Bernanke. Bair’s

@@ -194,9 +194,11 @@ Venezuella is actually strategically unimportant for US.
 
 ---
 
-Rickards, and other "goldcucks" sorry goldbugs were really into that gold / RMB / oil contract angle. 
+Rickards, and other "goldcucks" sorry goldbugs were really into that
+gold / RMB / oil contract angle.
 
-Is there a rule that says if you are anti-dollar, anti-US, and have recession-passion, then u have to be a goldcuck, pro China?
+Is there a rule that says if you are anti-dollar, anti-US, and have
+recession-passion, then u have to be a goldcuck, pro China?
 
 ---
 
