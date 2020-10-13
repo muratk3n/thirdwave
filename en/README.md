@@ -60,10 +60,10 @@ His Epstein number seems to be high, 4. Good for him.
 
 ---
 
-"If you get your news from the political press and television ads, you
-might think the US supreme court is a forum that only adjudicates
-disputes over the most hot-button religious and civil rights
-issues. What you would not know is that while the court does
+Daily Poster: "If you get your news from the political press and
+television ads, you might think the US supreme court is a forum that
+only adjudicates disputes over the most hot-button religious and civil
+rights issues. What you would not know is that while the court does
 periodically rule on those important matters, it spends as much or
 more of its time using business-related cases to help billionaires and
 corporations rig the economy against ordinary Americans.
