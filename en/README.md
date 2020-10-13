@@ -50,7 +50,7 @@ His Epstein number seems to be high, 4. Good for him.
 
 [Picture \#1](https://pbs.twimg.com/media/EkMd6XPXkAES7PO?format=jpg&name=small).
 
-[Picture \#2](https://pbs.twimg.com/media/EkMd0OyXYAAZK_e?format=jpg&name=small).
+[Picture \#2](https://pbs.twimg.com/media/EkMf5hhWoAQ28M0?format=jpg&name=small).
 
 [Picture \#3](https://pbs.twimg.com/media/EgPfBQdWoAEFmsW?format=jpg&name=small).
 
