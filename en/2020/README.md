@@ -34,7 +34,7 @@
 
 [Numbers on H2 Energy](07/h2-numbers.md)
 
-[Human Nature](07/human-nature.md)
+[Human Nature and Health](07/human-nature.md)
 
 [Kurds in Anatolia](07/kurds-anatolia.md)
 
@@ -51,4 +51,8 @@
 [Knuth on Patents](08/knuth-on-patents.md)
 
 [Why Did Hillary Lose?](09/why-did-hillary-lose.md)
+
+[Floating City Design](10/floating-city.md)
+
+[Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
 

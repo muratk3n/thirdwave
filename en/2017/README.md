@@ -250,12 +250,6 @@
 
 [#guns](10/guns.md)
 
-[Q&A - 26/10](10/q-2610.md)
-
-[Q&A - 31/10](10/q-3110.md)
-
-[#tax](10/tax.md)
-
 [#thepurge](10/thepurge.md)
 
 [1/3](11/13.md)

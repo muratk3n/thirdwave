@@ -142,8 +142,6 @@
 
 [Blood Type Diet](04/blood-type-diet.md)
 
-[BType and Food Items](04/btype-table.md)
-
 [Changing Education Paradigms](04/changing-education-paradigms.md)
 
 [China's deadly wake-up call](04/chinas-deadly-wake-up-call.md)

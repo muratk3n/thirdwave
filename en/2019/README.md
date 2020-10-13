@@ -82,6 +82,8 @@
 
 [Microgrids](08/microgrids.md)
 
+[Quantum Theory as a Theory of Shadows](08/qm-theory-of-shadows.md)
+
 [Quantity over Quality](08/quantity-over-quality.md)
 
 [Lee Smolin](08/smolin.md)
