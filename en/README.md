@@ -43,8 +43,7 @@ electronic blackboard to an existing classroom, while changing nothing
 in the structural content. With an electronic board, there is still
 teacher, mostly a dumbass, with questionable teaching ability and
 skill, with students having to stand throughout a lecture that is
-delivered right there (if you miss you are screwed). The "addition" of
-tech here has no effect.
+delivered right there (miss it, too bad). 
 
 "Isn't flipped classroom a mere tech paint?"
 
