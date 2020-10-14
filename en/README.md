@@ -123,7 +123,7 @@ look easy"
 
 ---
 
-If 3W folk are influential, then, potential problem, the needs of this
+If 3W ppl are influential, then, potential problem, the needs of this
 crowd not connecting with the general population; White collar ppl
 have skills, are on demand. Lots of my past / present collegues /
 coworkers are like this, most are tech talented, so they are always
