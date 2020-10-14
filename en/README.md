@@ -34,7 +34,7 @@ too, the physicalness of a blackboard is much easier to work with.
 
 Watching a demo dude is like "we have batteries, we charge them!", and
 then moves to the freezer, stove, he is like "uh they are propane
-powered". 😂 😂 😂 The state of this tech is so sad.
+powered". 🤣 🤣 🤣 The state of this tech is so sad.
 
 ---
 

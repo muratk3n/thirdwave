@@ -99,6 +99,10 @@ Country/Region  Germany +  Germany %     UK +      UK %
 
 <a name='Rt'/>
 
+Reproduction Rate $R_t$
+
+This calculation is based on [1]
+
 ```python
 tau = 7 # length of time window
 si_mean = 6.3 # mean of serial interval
