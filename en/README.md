@@ -23,17 +23,17 @@ France now,
 
 ---
 
-"Solutions" such as these are based on half-assed reading of futurists
-like Toffler. Newt used to babble this shit all the time; like, he'll
-sit in front of a chatroom while in Congress, takes "input" from
-people, while technobabbling about it "dynamic price discovery,
-Moore's law, synergy between hardware and software blah blah". This is
-not helpful tech. The singular Speaker of the House in front of a
-chatroom changes nothing. If anything you have overloaded this person,
-with bunch of unnecessary input which adds to the noise not
-signal. Chatroom is full of trollers, they are jumping and down and
-screaming "his ears look FUNNNYYYY!", etc it's a mess. TW aint
-ready. At least not in the way it is perceived / applied today.
+"Solutions" like this are based on half-assed reading of futurists
+(Toffler). Newt used to babble this shit all the time; like, he'll sit
+in front of a chatroom while in Congress, takes "input" from people,
+while technobabbling about it "dynamic price discovery, Moore's law,
+synergy between hardware and software blah blah". This is not helpful
+tech. The singular Speaker of the House in front of a chatroom changes
+nothing. If anything you have overloaded this person, with bunch of
+unnecessary input which adds to the noise not signal. Chatroom is full
+of trollers, they are jumping and down and screaming "his ears look
+FUNNNYYYY!", etc it's a mess. TW aint ready. At least not in the way
+it is perceived / applied today.
 
 ---
 
