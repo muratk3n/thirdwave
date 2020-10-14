@@ -2,7 +2,7 @@
 
 "Solutions" such as these are based on half-assed reading of futurists
 like Toffler. Newt used to babble this shit all the time; like, he'll
-sits in front of a chatroom, takes input from people, while
+sit in front of a chatroom, takes input from people, while
 technobabbling about it "dynamic prices discovery, Moore's law,
 synergy between hardware and software blah blah". This is not helpful
 tech. The singular Speaker of the House in front of a chatroom changes
