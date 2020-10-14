@@ -9,7 +9,7 @@ not helpful tech. The singular Speaker of the House in front of a
 chatroom changes nothing. If anything you have overloaded this person,
 with bunch of unnecessary input which adds to the noise not
 signal. Chatroom is full of trollers, they are jumping and down and
-screaming "his ears look FUNNNYYYY!", etc it's a mess. This shit aint
+screaming "his ears look FUNNNYYYY!", etc it's a mess. TW aint
 ready. At least not in the way it is perceived / applied today.
 
 ---
@@ -82,9 +82,10 @@ Just saw this one from 2017
 
 ---
 
-Here are some [past notes](2017/10/tax-avoidence-tricks.md)
-on global tax avoidence, and ideas. The [double-dip](2017/10/tax-avoidence-tricks.md#doubleDip)
-trick is freaky.
+Collated [past notes](2017/10/tax-avoidence-tricks.md) on global tax
+avoidence, and ideas. The
+[double-dip](2017/10/tax-avoidence-tricks.md#doubleDip) trick is
+freaky.
 
 ---
 
