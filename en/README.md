@@ -1,5 +1,26 @@
 # Tweets
 
+---
+
+Wildest Dreams - Last Ride \#music
+
+[Link](https://youtu.be/C-MIbOs34_g)
+
+---
+
+Different method for $R_t$ estimation. Shows even Germany has always
+had $R_t > 1$?
+
+France now,
+
+```
+.. 1.13099026 1.13314191 1.13464789 1.13539282  1.13742946 1.1410738
+```
+
+[Link](2020/02/corona.md#Rt)
+
+---
+
 "Solutions" such as these are based on half-assed reading of futurists
 like Toffler. Newt used to babble this shit all the time; like, he'll
 sit in front of a chatroom while in Congress, takes "input" from
