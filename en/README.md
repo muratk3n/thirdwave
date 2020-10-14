@@ -1,144 +1,127 @@
 # Tweets
 
-Just saw F24 bit on green tech and they talked abt Airbus H2
-plans. This is serious... And why shouldnt it be? H2 has been used in
-space rockets for years.
+"Solutions" such as these are based on half-assed reading of futurists
+like Toffler. Newt used to babble this shit all the time; like, he'll
+sits in front of a chatroom, takes input from people, while
+technobabbling about it "dynamic prices discovery, Moore's law,
+synergy between hardware and software blah blah". This is not helpful
+tech. The singular Speaker of the House in front of a chatroom changes
+nothing. If anything you have overloaded this person, with bunch of
+unnecessary input which adds to the noise not signal. Chatroom is full
+of trollers, they are jump and down and screaming "his ears look
+FUNNNYYYY!", things like that, it is a mess.
+
+I am Toffler's best student. I am THE ONE TRUE HEIR.  You could say
+the primary thing I do is trying to gauge the development of TW. And I
+am telling you, this shit aint ready. At least not in the way it is
+applied today.
 
 ---
 
-Nurses leaving their jobs en masse (due to covid) wld be terrible.
+No. This is a key point; when u apply tech, it needs to cause
+structural change. My ed method *replaces* teachers. It doesn't, say,
+add an electronic blackboard to an existing classroom, while changing
+nothing in the structural content. With an electronic board, there is
+still teacher, mostly a dumbass, with questionable teaching ability
+and skill, with students having to stand throughout a lecture that is
+delivered right there (if you miss you are screwed). The "addition" of
+tech in this picture changes nothing. It probably made things worse
+too, the physicalness of a blackboard is much easier to work with.
+
+"Isn't flipped classroom a mere tech paint?"
 
 ---
 
-Jim Carrey as Biden! :) The lines weren't that great but just the
-general demeanor, and just Carrey doing it was hysterical \#SNL
+Watching a demo dude is like "we have batteries, we charge them!", and
+then moves to the freezer, stove, he is like "uh they are propane
+powered". 😂 😂 😂 The state of this tech is so sad.
 
 ---
 
-I am for no censorship but nobody seems to be in the mood
+<iframe width="340" src="https://www.youtube.com/embed/nkFdOb50rg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-FB gets it rough
+I dont know about all polls, but if I see model using a specific
+measure that has $R^2$ higher than 90%, then not all, but that
+specific poll has predictive power. And net popularity is exactly
+that. The poll is general and on a simple enough question that it is
+not surprising that it works, see [crowd
+wisdom](/2020/07/crowd-wisdom.md). Within Abrahamovitz model it has
+predictive power, so it is useful on its own.
 
-"@kevinroose
-
-The Social Network 2: You Can Still Deny Other Genocides"
-
----
-
-"@plwarre
-
-Court packing/busting filibuster/adding states all make sense to
-me. We were in cooperate/cooperate for decades, but we are obviously
-in defect/defect now, so we need a punishment period and probably a
-reconstituted Republican party to rebuild the efficient equilibrium"
+"Can polls be trusted anymore?"
 
 ---
 
-Redtenbacher's Funkestra - Dr Hypenstein \#music
+"Solar Pushes Aside Coal as the Cheapest Fuel for Power, IEA Says"
 
-[Link](https://youtu.be/Rz_pjZQTiWQ)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The Eirwind report recommends a pilot electrolysis facility powered by floating wind as a kick-starter to demonstrate how green hydrogen, or derivative alternative fuels such as ammonia, can be produced and used domestically.&quot;<a href="https://t.co/aODksBdg4D">https://t.co/aODksBdg4D</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1315270819258552320?ref_src=twsrc%5Etfw">October 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://www.bloomberg.com/news/articles/2020-10-13/solar-pushes-aside-coal-as-the-favorite-fuel-for-power-iea-says)
 
 ---
 
-His Epstein number seems to be high, 4. Good for him.
-
-[Picture \#1](https://pbs.twimg.com/media/EkMd6XPXkAES7PO?format=jpg&name=small).
-
-[Picture \#2](https://pbs.twimg.com/media/EkMf5hhWoAQ28M0?format=jpg&name=small).
-
-[Picture \#3](https://pbs.twimg.com/media/EgPfBQdWoAEFmsW?format=jpg&name=small).
-
-[Picture \#4](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small).
-
-"What do you think of Gordon Brown?"
+<img width="340" src="https://pbs.twimg.com/media/EkOmATjWkAUKunD?format=jpg&name=small"/>
 
 ---
 
-Daily Poster: "If you get your news from the political press and
-television ads, you might think the US supreme court is a forum that
-only adjudicates disputes over the most hot-button religious and civil
-rights issues. What you would not know is that while the court does
-periodically rule on those important matters, it spends as much or
-more of its time using business-related cases to help billionaires and
-corporations rig the economy against ordinary Americans.
-
-In light of that, Amy Coney Barrett’s US supreme court nomination must
-be understood as the culmination of cynical tactics that Republicans
-have perfected over the last two decades. The strategy is
-straightforward: they nominate plutocrat-compliant judges knowing that
-the corporate-owned media and political system will make sure
-confirmation battles focus on partisan wrangling and high-profile
-social issues – but not also on the economic issues that justices
-often decide"
-
-[Link](https://www.dailyposter.com/p/heres-why-big-money-wants-barrett)
+More [here](https://www.lisep.org/)
 
 ---
 
-"Johnson & Johnson pauses COVID-19 vaccine trial over patient
-exhibiting an 'unexplained illness'"
+Even [my method](2019/05/stats.md#unempl) is undercounting it then.
 
 ---
 
-"@johngary
+"A person who is looking for a full-time job that pays a living wage —
+but who can't find one — is unemployed. If you accept that definition,
+the true unemployment rate in the U.S. is a stunning 26.1%, according
+to an important new dataset shared exclusively with 'Axios on HBO.'"
 
-There is no version of the race in Kentucky that wins it for
-McGrath. Donate to the Senate races in Iowa, Maine, Montana, North
-Carolina, and Alabama"
-
----
-
-"@MartinAudley
-
-Bitcoin fees up by 467.5% in 30 minutes. Is that the fastest we've
-seen? Imagine trying to run a business on this. It's laughable"
+[Link](https://www.axios.com/americas-true-unemployment-rate-6e34decb-c274-4feb-a4af-ffac8cf5840d.html)
 
 ---
 
-I like how Kamala comes across calm and pointed nowadays, she could do
-the drama but there isnt any of that recently. Thats good they cld use
-that against her.
+Just saw this one from 2017
+
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/2017/10/DK5EzC2X0AApM-b.jpg"/>a
 
 ---
 
-Covid killed 1 mil so far, roughly in one year, mostly old.
-
-Traffic accidents kill and injure just as much, mostly young.
-
-"Road traffic crashes are the leading cause of death among young
-people between 10 and 24 years, according to a new report published by
-WHO. The report, Youth and Road Safety, says that nearly 400 000 young
-people under the age of 25 are killed in road traffic crashes every
-year. Millions more are injured or disabled"
-
-[Link](https://www.who.int/mediacentre/news/releases/2007/pr17/en/)
+Here are some [past notes](en/2017/10/tax-avoidence-tricks.md)
+on global tax avoidence, and ideas. The [double-dip](en/2020/10/tax-avoidence-tricks.md#doubleDip)
+trick is freaky.
 
 ---
 
-Invading Iraq, say for democracy, would undoubtedly goad Iran into
-action (Iraq has majority Shite, same as Iran). And once beligerent
-action starts, others would have a reason to step in. The endgame
-still could be a whopping Iranian invasion.
+The Times: "No one said that taxing America’s technology giants would
+be easy. Corralling 137 countries into a fundamental overhaul of
+global corporation tax rules was always going to make herding cats
+look easy"
 
-TR? The odd thing is, after 2003 many nationalists in TR started to
-get quesy... A bestselling 2004 novel *Metal Fırtına* (Metal Storm)
-for instance depicts tiggers being invaded. But u r a NATO ally and a
-democracy.. Why would u care? I remember thinking "what crawled up
-your behind this time, f-nuts?". They are bothered some inane thing or
-another all the time.. But then I realized if u think non-democracies
-are in danger and you see yourself as one, then you would perceive a
-threat, wouldn't you? All of a sudden there don't be a coup every 10
-years, minorities might get representation. Alas post 2015 we saw a
-decrease of democracy and a rise of nationalism. So maybe people who
-saw a threat did act.
+---
 
-Last updated on *2020-10-13 11:13*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Forgive me market, for I have sinned <a href="https://t.co/uNVcsXhTHV">https://t.co/uNVcsXhTHV</a></p>&mdash; James Medlock (@jdcmedlock) <a href="https://twitter.com/jdcmedlock/status/1316052977107386368?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+If they are influential this can be a problem, in terms of needs they
+may not connect with the general population; People who 3W are the
+ones with skills, to be on demand. I know a lot of them, most are tech
+talented, so they are always employed. Then who cares if healthcare is
+tied to your job? They always have a job!
+
+---
+
+3W development is nowhere near that yet.. Its arrival is choppy,
+representation in terms of people power is not too high. 
+
+"But wouldn't the presence of white-collar folk be a sign of Third
+Wave and within that they could be considered as a class? After all
+Second Wave had the blue collar workers and they were a class"
+
+---
+
+Last updated on *2020-10-14 10:31*
 
 ---
 
