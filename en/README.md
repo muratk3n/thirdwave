@@ -8,7 +8,7 @@ synergy between hardware and software blah blah". This is not helpful
 tech. The singular Speaker of the House in front of a chatroom changes
 nothing. If anything you have overloaded this person, with bunch of
 unnecessary input which adds to the noise not signal. Chatroom is full
-of trollers, they are jump and down and screaming "his ears look
+of trollers, they are jumping and down and screaming "his ears look
 FUNNNYYYY!", things like that, it is a mess.
 
 Bro I am Toffler's best student. THE ONE TRUE HEIR.  You could say the
