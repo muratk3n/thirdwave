@@ -83,7 +83,7 @@ to an important new dataset shared exclusively with 'Axios on HBO.'"
 
 Just saw this one from 2017
 
-<img width="340" src="https://muratk3n.github.io/thirdwave/en/2017/10/DK5EzC2X0AApM-b.jpg"/>a
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/2017/10/DK5EzC2X0AApM-b.jpg"/>
 
 ---
 
