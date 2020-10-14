@@ -11,10 +11,10 @@ unnecessary input which adds to the noise not signal. Chatroom is full
 of trollers, they are jump and down and screaming "his ears look
 FUNNNYYYY!", things like that, it is a mess.
 
-I am Toffler's best student. I am THE ONE TRUE HEIR.  You could say
-the primary thing I do is trying to gauge the development of TW. And I
-am telling you, this shit aint ready. At least not in the way it is
-applied today.
+Bro I am Toffler's best student. THE ONE TRUE HEIR.  You could say the
+primary thing I do is trying to gauge the development of TW. And I am
+telling you, this shit aint ready. At least not in the way it is
+perceived / applied today.
 
 ---
 
