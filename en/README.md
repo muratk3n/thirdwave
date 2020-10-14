@@ -44,8 +44,7 @@ nothing in the structural content. With an electronic board, there is
 still teacher, mostly a dumbass, with questionable teaching ability
 and skill, with students having to stand throughout a lecture that is
 delivered right there (if you miss you are screwed). The "addition" of
-tech in this picture changes nothing. It probably made things worse
-too, the physicalness of a blackboard is much easier to work with.
+tech here has no effect. 
 
 "Isn't flipped classroom a mere tech paint?"
 
