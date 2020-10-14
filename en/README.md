@@ -99,11 +99,11 @@ look easy"
 
 ---
 
-If 3W folk are influential, then, this can be a problem, in terms of
-needs they may not connect with the general population; White collar
-ppl are the ones with skills, and on demand. I know a lot of them,
-most are tech talented, so they are always employed. Then who cares if
-healthcare is tied to your job? They always have a job!
+If 3W folk are influential, then, potential problem, the needs of this
+crowd not connecting with the general population; White collar ppl
+have skills, are on demand. I know a lot of them, most are tech
+talented, so they are always employed. Then who cares if healthcare is
+tied to your job? They always have a job!
 
 ---
 
