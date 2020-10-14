@@ -32,8 +32,7 @@ tech. The singular Speaker of the House in front of a chatroom is a
 non-change. If anything you have overloaded this person, with bunch of
 unnecessary input which adds to the noise not signal. Chatroom is full
 of trollers, they are jumping and down and screaming "his ears look
-FUNNNYYYY!", etc it's a mess. TW aint ready. At least not in the way
-it is perceived / applied today.
+FUNNNYYYY!", etc it's a mess. 
 
 ---
 
