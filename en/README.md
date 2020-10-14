@@ -1,30 +1,5 @@
 # Tweets
 
-"Solutions" like this are based on half-assed reading of futurists
-(Toffler). Newt used to babble this shit all the time; like, he'll sit
-in front of a chatroom while in Congress, takes "input" from people,
-while technobabbling about it "dynamic price discovery, Moore's law,
-synergy between hardware and software blah blah". This is not helpful
-tech. The singular Speaker of the House in front of a chatroom is a
-non-change. If anything you have overloaded this person, with bunch of
-unnecessary input which adds to the noise not signal. Chatroom is full
-of trollers, they are jumping and down and screaming "his ears look
-FUNNNYYYY!", etc it's a mess. 
-
----
-
-No. This is key; when u apply tech, it needs to cause structural
-change. New ed method *replaces* teachers. It doesn't, say, add an
-electronic blackboard to an existing classroom, while changing nothing
-in the structure. With an electronic board, there is still teacher,
-mostly a dumbass, with questionable teaching ability and skill, with
-students having to stand throughout a lecture that is delivered right
-there (miss it, too bad).
-
-"Isn't flipped classroom a mere tech paint?"
-
----
-
 Watching a demo dude is like "we have batteries, we charge them!", and
 then moves to the freezer, stove, he is like "uh they are propane
 powered". 🤣 🤣 🤣 The state of this tech is so sad.
@@ -134,6 +109,32 @@ France now,
 ```
 
 [Link](2020/02/corona.md#Rt)
+
+---
+
+
+"Solutions" like this are based on half-assed reading of futurists
+(Toffler). Newt used to babble this shit all the time; like, he'll sit
+in front of a chatroom while in Congress, takes "input" from people,
+while technobabbling about it "dynamic price discovery, Moore's law,
+synergy between hardware and software blah blah". This is not helpful
+tech. The singular Speaker of the House in front of a chatroom is a
+non-change. If anything you have overloaded this person, with bunch of
+unnecessary input which adds to the noise not signal. Chatroom is full
+of trollers, they are jumping and down and screaming "his ears look
+FUNNNYYYY!", etc it's a mess. 
+
+---
+
+Is not. This is key; when u apply tech, it needs to cause structural
+change. New ed method *replaces* teachers. It doesn't, say, add an
+electronic blackboard to an existing classroom, while changing nothing
+in the structure. With an electronic board, there is still teacher,
+mostly a dumbass, with questionable teaching ability and skill, with
+students having to stand throughout a lecture that is delivered right
+there (miss it, too bad).
+
+"Isn't flipped classroom a mere tech paint?"
 
 ---
 
