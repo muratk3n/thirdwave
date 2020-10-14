@@ -9,9 +9,8 @@ not helpful tech. The singular Speaker of the House in front of a
 chatroom changes nothing. If anything you have overloaded this person,
 with bunch of unnecessary input which adds to the noise not
 signal. Chatroom is full of trollers, they are jumping and down and
-screaming "his ears look FUNNNYYYY!", things like that, it's a
-mess. This shit aint ready. At least not in the way it is perceived /
-applied today.
+screaming "his ears look FUNNNYYYY!", etc it's a mess. This shit aint
+ready. At least not in the way it is perceived / applied today.
 
 ---
 
