@@ -9,7 +9,7 @@ tech. The singular Speaker of the House in front of a chatroom changes
 nothing. If anything you have overloaded this person, with bunch of
 unnecessary input which adds to the noise not signal. Chatroom is full
 of trollers, they are jumping and down and screaming "his ears look
-FUNNNYYYY!", things like that, it is a mess.
+FUNNNYYYY!", things like that, it's a mess.
 
 I am Toffler's best student. THE ONE TRUE HEIR.  You could say the
 primary thing I do is trying to gauge the development of TW. And I am
