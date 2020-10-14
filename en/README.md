@@ -15,7 +15,7 @@ least not in the way it is perceived / applied today.
 ---
 
 No. This is a key point; when u apply tech, it needs to cause
-structural change. My ed method *replaces* teachers. It doesn't, say,
+structural change. New ed method *replaces* teachers. It doesn't, say,
 add an electronic blackboard to an existing classroom, while changing
 nothing in the structural content. With an electronic board, there is
 still teacher, mostly a dumbass, with questionable teaching ability
