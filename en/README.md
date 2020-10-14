@@ -8,8 +8,9 @@ Wildest Dreams - Last Ride \#music
 
 ---
 
-Different method for $R_t$ estimation. Shows even Germany has always
-had $R_t > 1$?
+Different method for $R_t$ estimation.
+
+Saz even Germany has always had $R_t > 1$?
 
 France now,
 
