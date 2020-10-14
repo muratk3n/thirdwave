@@ -131,7 +131,7 @@ change. New ed method *replaces* teachers. It doesn't, say, add an
 electronic blackboard to an existing classroom, while changing nothing
 in the structure. With an electronic board, there is still teacher,
 mostly a dumbass, with questionable teaching ability and skill, with
-students having to stand throughout a lecture that is delivered right
+students having to listen throughout a lecture that is delivered right
 there (miss it, too bad).
 
 "Isn't flipped classroom a mere tech paint?"
