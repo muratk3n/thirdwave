@@ -1,29 +1,5 @@
 # Tweets
 
----
-
-Wildest Dreams - Last Ride \#music
-
-[Link](https://youtu.be/C-MIbOs34_g)
-
----
-
-Different method for $R_t$ estimation.
-
-Saz even Germany has always had $R_t > 1$?
-
-France now,
-
-```
-1.13539282
-1.13742946
-1.1410738
-```
-
-[Link](2020/02/corona.md#Rt)
-
----
-
 "Solutions" like this are based on half-assed reading of futurists
 (Toffler). Newt used to babble this shit all the time; like, he'll sit
 in front of a chatroom while in Congress, takes "input" from people,
@@ -136,6 +112,28 @@ representation in terms of people power not too high.
 "But wouldn't the presence of white-collar folk be a sign of Third
 Wave and within that they could be considered as a class? After all
 Second Wave had the blue collar workers and they were a class"
+
+---
+
+Wildest Dreams - Last Ride \#music
+
+[Link](https://youtu.be/C-MIbOs34_g)
+
+---
+
+Different method for $R_t$ estimation.
+
+Saz even Germany has always had $R_t > 1$?
+
+France now,
+
+```
+1.13539282
+1.13742946
+1.1410738
+```
+
+[Link](2020/02/corona.md#Rt)
 
 ---
 
