@@ -37,14 +37,14 @@ it is perceived / applied today.
 
 ---
 
-No. This is a key point; when u apply tech, it needs to cause
-structural change. New ed method *replaces* teachers. It doesn't, say,
-add an electronic blackboard to an existing classroom, while changing
-nothing in the structural content. With an electronic board, there is
-still teacher, mostly a dumbass, with questionable teaching ability
-and skill, with students having to stand throughout a lecture that is
+No. This is key; when u apply tech, it needs to cause structural
+change. New ed method *replaces* teachers. It doesn't, say, add an
+electronic blackboard to an existing classroom, while changing nothing
+in the structural content. With an electronic board, there is still
+teacher, mostly a dumbass, with questionable teaching ability and
+skill, with students having to stand throughout a lecture that is
 delivered right there (if you miss you are screwed). The "addition" of
-tech here has no effect. 
+tech here has no effect.
 
 "Isn't flipped classroom a mere tech paint?"
 
