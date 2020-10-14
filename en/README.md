@@ -109,7 +109,7 @@ always have a job!
 ---
 
 3W development is nowhere near that yet.. Its arrival is choppy,
-representation in terms of people power is not too high. 
+representation in terms of people power not too high.
 
 "But wouldn't the presence of white-collar folk be a sign of Third
 Wave and within that they could be considered as a class? After all
