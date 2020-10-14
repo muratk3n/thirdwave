@@ -87,8 +87,8 @@ Just saw this one from 2017
 
 ---
 
-Here are some [past notes](en/2017/10/tax-avoidence-tricks.md)
-on global tax avoidence, and ideas. The [double-dip](en/2020/10/tax-avoidence-tricks.md#doubleDip)
+Here are some [past notes](2017/10/tax-avoidence-tricks.md)
+on global tax avoidence, and ideas. The [double-dip](2020/10/tax-avoidence-tricks.md#doubleDip)
 trick is freaky.
 
 ---
