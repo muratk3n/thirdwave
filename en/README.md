@@ -1,144 +1,101 @@
 # Tweets
 
-Watching a demo dude is like "we have batteries, we charge them!", and
-then moves to the freezer, stove, he is like "uh they are propane
-powered". 🤣 🤣 🤣 The state of this tech is so sad.
+Was that a wholesomeness check or something?
+
+Like this guy gets off on that stuff...
+
+Ooooww do you, like, bake a cake too? Rrrrr
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/nkFdOb50rg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+🤨 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay so who is going to ask the next male Supreme Court nominee if he does the laundry in his house?</p>&mdash; Kasie Hunt (@kasie) <a href="https://twitter.com/kasie/status/1316493936635138049?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Dunno all polls, but if I see model using a specific poll that has
-$R^2$ higher than 90%, then not all, but that poll has predictive
-power. And net popularity is exactly that. The poll is general and on
-a simple enough question that it is not surprising that it works, see
-[crowd wisdom](2020/07/crowd-wisdom.md). Within Abrahamovitz model it
-is significant, so it is useful on its own.
-
-"Can polls be trusted anymore?"
+<img width="340" src="https://drive.google.com/thumbnail?id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
 
 ---
 
-"Solar Pushes Aside Coal as the Cheapest Fuel for Power, IEA Says"
+"Every time we think we've measured our capacity to reach a challenge,
+we look up and we're reminded that capacity may well be limitless!"
 
-[Link](https://www.bloomberg.com/news/articles/2020-10-13/solar-pushes-aside-coal-as-the-favorite-fuel-for-power-iea-says)
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/EkOmATjWkAUKunD?format=jpg&name=small"/>
+(An actual line from ww show)
 
 ---
 
-More [here](https://www.lisep.org/)
+Yeah the old man didn't give a flying f--k about globalization, to put
+it mildly. Technobabbling, style-over-substance centrists missed that
+part too.
 
 ---
 
-Even [this method](2019/05/stats.md#unempl) is undercounting it then.
+I wrote about globalization, way back when, that it wasn't all that is
+cracked up to be... It didnt fit the theory, so it was left out. Then
+I noticed an overemphasis on it, so I hit it. I saw a few squeak, I
+laughed at a couple, but that was pretty much it. The feeling is
+largely like you are some jagoff mumbbling nonsense in a corner...  It
+wasn't fashionable at all to write that stuff. I never thought, in my
+wildest dreams, any anti globalization policies, thoughts, anywhere
+coming to fruition within my lifetime.
 
 ---
 
-"A person who is looking for a full-time job that pays a living wage —
-but who can't find one — is unemployed. If you accept that definition,
-the true unemployment rate in the U.S. is a stunning 26.1%, according
-to an important new dataset shared exclusively with 'Axios on HBO.'"
+Its very [national narrative and identity](2020/04/turks-culture-national-narrative.md)
 
-[Link](https://www.axios.com/americas-true-unemployment-rate-6e34decb-c274-4feb-a4af-ffac8cf5840d.html)
+"What is constructed wrong in TR?"
 
 ---
 
-Just saw this one from 2017
-
-<img width="340" src="https://muratk3n.github.io/thirdwave/en/2017/10/DK5EzC2X0AApM-b.jpg"/>
-
----
-
-Collated [past notes](2017/10/tax-avoidence-tricks.md) on global tax
-avoidence, and ideas. The
-[double-dip](2017/10/tax-avoidence-tricks.md#doubleDip) trick is
-freaky.
+Dem centrists are in a sad state.. Their liberal hero dying on them,
+and a con being paraded around as replacement in the last second was
+the last straw IMO. They are being beaten down, until the very
+end. The progs, as far as I can see, are being nice to them.
 
 ---
 
-The Times: "No one said that taxing America’s technology giants would
-be easy. Corralling 137 countries into a fundamental overhaul of
-global corporation tax rules was always going to make herding cats
-look easy"
+The new anti-glob left-right combo (if fascism, very lite compared to
+WWII standards) brought a certain trolling with it... They make light
+of known aspects of good governance. And why not?  If a superpower in
+the 21t century cannot give free healthcare to its people, after
+decades of promises and grandstanding, shouldnt they be trolled? Or in
+UK, through papers, denying left, as "left", invading a country, as
+right diddling on EU then "asking" the people having it blow in their
+face, some trolling is called for? Or in TR basically doing nearly
+everything wrong? They made an ass of themselves, and they deserved
+what followed later.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Forgive me market, for I have sinned <a href="https://t.co/uNVcsXhTHV">https://t.co/uNVcsXhTHV</a></p>&mdash; James Medlock (@jdcmedlock) <a href="https://twitter.com/jdcmedlock/status/1316052977107386368?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW HARVARD STUDY: <br><br>US <a href="https://twitter.com/hashtag/fracking?src=hash&amp;ref_src=twsrc%5Etfw">#fracking</a> wells bring radioactive particles up from the shattered shale bedrock and spew them into the air. <br><br>Researchers found increases in downwind radioactivity 12 miles away from wells.<a href="https://twitter.com/hashtag/Fracking?src=hash&amp;ref_src=twsrc%5Etfw">#Fracking</a> = Pandora’s box of horrors <a href="https://t.co/Rwo6pSmtIy">https://t.co/Rwo6pSmtIy</a></p>&mdash; Dr. Sandra Steingraber (@ssteingraber1) <a href="https://twitter.com/ssteingraber1/status/1316358815802064896?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-If 3W ppl are influential, then, potential problem, the needs of this
-crowd not connecting with the general population; White collar ppl
-have skills, are on demand. Lots of my past / present collegues /
-coworkers are like this, tech talented, so they are always
-employed. Then who cares if healthcare is tied to your job? They
-always have a job!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, the <a href="https://twitter.com/IEA?ref_src=twsrc%5Etfw">@IEA</a> presented the <a href="https://twitter.com/hashtag/WorldEnergyOutlook2020?src=hash&amp;ref_src=twsrc%5Etfw">#WorldEnergyOutlook2020</a>. Investment in <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> technologies is urgent and essential for reducing greenhouse emissions. Seen at the presentation: A 40 Mt <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> demand increase by 2030 is a necessary step for the <a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a> by 2050 goal. <a href="https://t.co/3yQL7fR1XI">pic.twitter.com/3yQL7fR1XI</a></p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1316289424867700736?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-3W development is nowhere near that yet.. Its arrival is choppy,
-representation in terms of people power not too high.
+On one of those cruise ships which experienced the epidemic in an
+isolated environment, they found about 30% of the people were
+infected. We can assume the virus reached everyone possible on that
+ship. 30% of 3% is nearly 1%. So if given the chance, covid can kill
+millions in US alone, similarly other countries, depending on
+population size
 
-"But wouldn't the presence of white-collar folk be a sign of Third
-Wave and within that they could be considered as a class? After all
-Second Wave had the blue collar workers and they were a class"
-
----
-
-Wildest Dreams - Last Ride \#music
-
-[Link](https://youtu.be/C-MIbOs34_g)
+"Cases / Fatality ratio gives 3%. But how about overall mortality
+rate?"
 
 ---
 
-Different method for $R_t$ estimation.
-
-Saz even Germany has always had $R_t > 1$?
-
-France now,
-
-```
-1.13539282
-1.13742946
-1.1410738
-```
-
-[Link](2020/02/corona.md#Rt)
+I am not in the business of influence peddling. Blog will say what I
+consider to be beneficial. Cannot temper the message to have say in
+policy even if that was possible. Dont veer away from the suggestion
+bcz of style son, it'll be your funeral, and not my problem.
 
 ---
 
-
-"Solutions" like this are based on half-assed reading of futurists
-(Toffler). Newt used to babble this shit all the time; like, he'll sit
-in front of a chatroom while in Congress, takes "input" from people,
-while technobabbling about it "dynamic price discovery, Moore's law,
-synergy between hardware and software blah blah". This is not helpful
-tech. The singular Speaker of the House in front of a chatroom is a
-non-change. If anything you have overloaded this person, with bunch of
-unnecessary input which adds to the noise not signal. Chatroom is full
-of trollers, they are jumping and down and screaming "his ears look
-FUNNNYYYY!", etc it's a mess. 
-
----
-
-Is not. This is key; when u apply tech, it needs to cause structural
-change. New ed method *replaces* teachers. It doesn't, say, add an
-electronic blackboard to an existing classroom, while changing nothing
-in the structure. With an electronic board, there is still teacher,
-mostly a dumbass, with questionable teaching ability and skill, with
-students having to listen throughout a lecture that is delivered right
-there (miss it, too bad).
-
-"Isn't flipped classroom a mere tech paint?"
-
----
-
-Last updated on *2020-10-14 10:31*
+Last updated on *2020-10-15 10:51*
 
 ---
 

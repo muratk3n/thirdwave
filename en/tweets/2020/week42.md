@@ -1,5 +1,143 @@
 # Week 42
 
+Watching a demo dude is like "we have batteries, we charge them!", and
+then moves to the freezer, stove, he is like "uh they are propane
+powered". 🤣 🤣 🤣 The state of this tech is so sad.
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/nkFdOb50rg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Dunno all polls, but if I see model using a specific poll that has
+$R^2$ higher than 90%, then not all, but that poll has predictive
+power. And net popularity is exactly that. The poll is general and on
+a simple enough question that it is not surprising that it works, see
+[crowd wisdom](2020/07/crowd-wisdom.md). Within Abrahamovitz model it
+is significant, so it is useful on its own.
+
+"Can polls be trusted anymore?"
+
+---
+
+"Solar Pushes Aside Coal as the Cheapest Fuel for Power, IEA Says"
+
+[Link](https://www.bloomberg.com/news/articles/2020-10-13/solar-pushes-aside-coal-as-the-favorite-fuel-for-power-iea-says)
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EkOmATjWkAUKunD?format=jpg&name=small"/>
+
+---
+
+More [here](https://www.lisep.org/)
+
+---
+
+Even [this method](2019/05/stats.md#unempl) is undercounting it then.
+
+---
+
+"A person who is looking for a full-time job that pays a living wage —
+but who can't find one — is unemployed. If you accept that definition,
+the true unemployment rate in the U.S. is a stunning 26.1%, according
+to an important new dataset shared exclusively with 'Axios on HBO.'"
+
+[Link](https://www.axios.com/americas-true-unemployment-rate-6e34decb-c274-4feb-a4af-ffac8cf5840d.html)
+
+---
+
+Just saw this one from 2017
+
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/2017/10/DK5EzC2X0AApM-b.jpg"/>
+
+---
+
+Collated [past notes](2017/10/tax-avoidence-tricks.md) on global tax
+avoidence, and ideas. The
+[double-dip](2017/10/tax-avoidence-tricks.md#doubleDip) trick is
+freaky.
+
+---
+
+The Times: "No one said that taxing America’s technology giants would
+be easy. Corralling 137 countries into a fundamental overhaul of
+global corporation tax rules was always going to make herding cats
+look easy"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Forgive me market, for I have sinned <a href="https://t.co/uNVcsXhTHV">https://t.co/uNVcsXhTHV</a></p>&mdash; James Medlock (@jdcmedlock) <a href="https://twitter.com/jdcmedlock/status/1316052977107386368?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+If 3W ppl are influential, then, potential problem, the needs of this
+crowd not connecting with the general population; White collar ppl
+have skills, are on demand. Lots of my past / present collegues /
+coworkers are like this, tech talented, so they are always
+employed. Then who cares if healthcare is tied to your job? They
+always have a job!
+
+---
+
+3W development is nowhere near that yet.. Its arrival is choppy,
+representation in terms of people power not too high.
+
+"But wouldn't the presence of white-collar folk be a sign of Third
+Wave and within that they could be considered as a class? After all
+Second Wave had the blue collar workers and they were a class"
+
+---
+
+Wildest Dreams - Last Ride \#music
+
+[Link](https://youtu.be/C-MIbOs34_g)
+
+---
+
+Different method for $R_t$ estimation.
+
+Saz even Germany has always had $R_t > 1$?
+
+France now,
+
+```
+1.13539282
+1.13742946
+1.1410738
+```
+
+[Link](2020/02/corona.md#Rt)
+
+---
+
+
+"Solutions" like this are based on half-assed reading of futurists
+(Toffler). Newt used to babble this shit all the time; like, he'll sit
+in front of a chatroom while in Congress, takes "input" from people,
+while technobabbling about it "dynamic price discovery, Moore's law,
+synergy between hardware and software blah blah". This is not helpful
+tech. The singular Speaker of the House in front of a chatroom is a
+non-change. If anything you have overloaded this person, with bunch of
+unnecessary input which adds to the noise not signal. Chatroom is full
+of trollers, they are jumping and down and screaming "his ears look
+FUNNNYYYY!", etc it's a mess. 
+
+---
+
+Is not. This is key; when u apply tech, it needs to cause structural
+change. New ed method *replaces* teachers. It doesn't, say, add an
+electronic blackboard to an existing classroom, while changing nothing
+in the structure. With an electronic board, there is still teacher,
+mostly a dumbass, with questionable teaching ability and skill, with
+students having to listen throughout a lecture that is delivered right
+there (miss it, too bad).
+
+"Isn't flipped classroom a mere tech paint?"
+
+---
+
 Just saw F24 bit on green tech and they talked abt Airbus H2
 plans. This is serious... And why shouldnt it be? H2 has been used in
 space rockets for years.
