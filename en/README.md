@@ -58,7 +58,7 @@ end. The progs, as far as I can see, are being nice to them.
 The new anti-glob left-right combo (if fascism, very lite compared to
 WWII standards) brought a certain trolling with it... They make light
 of known aspects of good governance. And why not?  If a superpower in
-the 21t century cannot give free healthcare to its people, after
+the 21st century cannot give free healthcare to its people, after
 decades of promises and grandstanding, shouldnt they be trolled? Or in
 UK, through papers, denying left, as "left", invading a country, as
 right diddling on EU then "asking" the people having it blow in their
