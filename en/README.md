@@ -59,11 +59,11 @@ WWII standards) brought certain trolling with it... They make light of
 known aspects of good governance. And why not?  If a superpower in the
 21st century cannot give free healthcare to its people, after decades
 of promises and grandstanding, shouldnt they be trolled? Or in UK,
-through papers, denying left, as "left", invading a country, as right
+through papers denying left, as "left" invading a country, right
 diddling on EU then "asking" the people, having that blow in their
-face, some trolling is called for? Or in TR basically doing nearly
-everything wrong? They made an ass of themselves, and they deserved
-what followed later.
+face, isn't some trolling is called for? Or in TR basically doing
+nearly everything wrong? They made an ass of themselves, and they
+deserved what followed later.
 
 ---
 
