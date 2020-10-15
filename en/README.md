@@ -59,8 +59,8 @@ known aspects of good governance. And why not?  If a superpower in the
 of promises and grandstanding, shouldnt they be trolled? Or in UK,
 through papers denying left, as "left" invading a country, right
 diddling on EU then "asking" the people, having that blow in their
-face, isn't something a trolling called for? Or in TR basically doing
-nearly everything wrong? They made an ass of themselves, and they
+face, isn't something a trolling called for? Or in TR basically effin
+up nearly everything? They made an ass of themselves, and they
 deserved what followed later.
 
 ---
