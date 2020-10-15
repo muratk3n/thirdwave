@@ -89,7 +89,7 @@ rate?"
 I am not in the business of influence peddling. Blog will say what I
 consider to be beneficial. Cannot temper the message to have say in
 policy even if that was possible. Dont veer away from the suggestion
-bcz of style son, it'll be your funeral, and not my problem.
+bcz of style reader, it'll be your funeral, and not my problem.
 
 ---
 
