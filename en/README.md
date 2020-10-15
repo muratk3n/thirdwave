@@ -1,8 +1,7 @@
 # Tweets
 
-Was that a wholesomeness check or something?
-
-Like this guy gets off on that stuff...
+Was that a wholesomeness check or something? Like this guy gets off on
+that stuff...
 
 Ooooww do you, like, bake a cake too? Rrrrr
 
