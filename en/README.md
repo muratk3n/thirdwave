@@ -81,7 +81,7 @@ infected. We can assume the virus reached everyone possible on that
 ship. 30% of 3% is nearly 1%. So if given the chance, covid can kill
 millions in US alone, similarly in other countries.
 
-"Cases / Fatality ratio gives 3%. But how about overall mortality
+"Fatality / Cases ratio gives 3%. But how about overall mortality
 rate?"
 
 ---
