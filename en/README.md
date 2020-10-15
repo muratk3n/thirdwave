@@ -31,13 +31,13 @@ part too.
 ---
 
 I wrote about globalization, way back when, that it wasn't all that is
-cracked up to be... It didnt fit the theory, so it was left out. Then
-I noticed an overemphasis on it, so I hit it. I saw a few squeak, I
-laughed at a couple, but that was pretty much it. The feeling is
-largely like you are some jagoff mumbbling nonsense in a corner...  It
-wasn't fashionable at all to write that stuff. I never thought, in my
-wildest dreams, any anti globalization policies, thoughts, anywhere
-coming to fruition within my lifetime.
+cracked up to be... It didnt fit the theory, so I left it out. Then I
+noticed an overemphasis on it in the general media, so I hit it. I saw
+a few squeak, I laughed at a couple, but that was pretty much it. The
+feeling is largely like you are some jagoff mumbbling nonsense in a
+corner...  It wasn't fashionable at all to write that stuff. I never
+thought, in my wildest dreams, any anti globalization policies,
+thoughts, anywhere coming to fruition within my lifetime.
 
 ---
 
