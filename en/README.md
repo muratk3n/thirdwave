@@ -59,7 +59,7 @@ Where is The Orville? Trek is shot to shit, we don't have much good scifi left.
 ---
 
 This battery business will get ugly, everyone best head for the
-exists..  Based on typical 10KW energy consumption per person, and its
+exits..  Based on typical 10KW energy consumption per person, and its
 daily storage requirement with 60kg of lithium / 70kWh battery means
 demand will be 90 times more lithium than proven reserves. This road
 simply cannot work. Bat tech is the business of 1 percenters, like
