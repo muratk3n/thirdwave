@@ -5,10 +5,12 @@
 
 ---
 
-"The failure of governments to tackle a three-decade rise in
-preventable diseases such as obesity and type 2 diabetes has fuelled
-the Covid-19 pandemic and is stalling life expectancy around the
-world, a comprehensive study has found"
+The Guardian: "The failure of governments to tackle a three-decade
+rise in preventable diseases such as obesity and type 2 diabetes has
+fuelled the Covid-19 pandemic and is stalling life expectancy around
+the world, a comprehensive study has found"
+
+[Link](https://www.theguardian.com/society/2020/oct/15/thirty-year-failure-to-tackle-preventable-disease-fuelling-global-covid-pandemic)
 
 ---
 
