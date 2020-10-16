@@ -1,97 +1,113 @@
 # Tweets
 
-Was that a wholesomeness check or something? Like this guy gets off on
-this stuff... Ooooww do you, like, bake a cake too? Rrrrr
+🤣 🤣 🤣 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">apt remove cmake vim</p>&mdash; SWIFT Simulation (@SwiftSimulation) <a href="https://twitter.com/SwiftSimulation/status/1316677748195196929?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-🤨 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay so who is going to ask the next male Supreme Court nominee if he does the laundry in his house?</p>&mdash; Kasie Hunt (@kasie) <a href="https://twitter.com/kasie/status/1316493936635138049?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<img width="340" src="https://drive.google.com/thumbnail?id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
+"Houston Tech Mogul Indicted for ‘Largest-Ever Tax Charge’... Robert
+Brockman is accused of hiding $2 billion offshore"
 
 ---
 
-"Every time we think we've measured our capacity to reach a challenge,
-we look up and we're reminded that capacity may well be limitless!"
+😆 😆 😆 Yes I did. C'mon man, what's funnier than calling the Pope
+himself a paisan..? I was joking... Of course he is Argentinian (by my
+culture code approach), not Italian.
 
-(An actual line from wwing)
-
----
-
-Yeah the old man didn't give a flying f--k about globalization, to put
-it mildly. Technobabbling, style-over-substance centrists missed that
-part too.
+"This Pope is from Argentina, an Italian immigrant but by your culture
+codes he is Argentinian. Why did you call him a paisan before?"
 
 ---
 
-I wrote about globalization, way back when, that it wasn't all that is
-cracked up to be... It didnt fit the theory, so I left it out. Then I
-noticed an overemphasis on it in the general media, so I hit it. I saw
-a few squeak, I laughed at a couple, but that was pretty much it. The
-feeling is largely like you are some jagoff mumbbling nonsense in a
-corner...  It wasn't fashionable at all to write that stuff. I never
-thought, in my wildest dreams, any anti globalization policies,
-thoughts, anywhere coming to fruition within my lifetime.
+Good going PF.. The P of VC, jammin
+
+[Link](https://blog.toyota.co.uk/hydrogen-popemobile-pope-francis)
 
 ---
 
-Its very [national narrative and identity](2020/04/turks-culture-national-narrative.md)
+Possibly.
 
-"What is constructed wrong in TR?"
+And if it does, UBI could be its first leftist program.
 
----
-
-Dem centrists are in a sad state.. Their liberal hero dying on them,
-and a con being paraded around as replacement in the last second was
-the last straw IMO. They are being beaten down, until the very
-end. The progs, as far as I can see, are being nice to them.
+"Would 3W politics have a right and left?"
 
 ---
 
-The new anti-glob left-right combo (if fascism, very lite compared to
-WWII standards) brought certain trolling with it... They make light of
-known aspects of good governance. And why not?  If a superpower in the
-21st century cannot give free healthcare to its people, after decades
-of promises and grandstanding, shouldnt they be trolled? Or in UK,
-through papers denying left, as "left" invading a country, right
-diddling on EU then "asking" the people, having that blow in their
-face, isn't something a trolling called for? Or in TR basically effin
-up nearly everything? They made an ass of themselves, and they
-deserved what followed later.
+DJT net popularity down to -%11
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW HARVARD STUDY: <br><br>US <a href="https://twitter.com/hashtag/fracking?src=hash&amp;ref_src=twsrc%5Etfw">#fracking</a> wells bring radioactive particles up from the shattered shale bedrock and spew them into the air. <br><br>Researchers found increases in downwind radioactivity 12 miles away from wells.<a href="https://twitter.com/hashtag/Fracking?src=hash&amp;ref_src=twsrc%5Etfw">#Fracking</a> = Pandora’s box of horrors <a href="https://t.co/Rwo6pSmtIy">https://t.co/Rwo6pSmtIy</a></p>&mdash; Dr. Sandra Steingraber (@ssteingraber1) <a href="https://twitter.com/ssteingraber1/status/1316358815802064896?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+As high rates of police shootings and brutality in California have
+prompted demands for police accountability, law enforcement unions
+have dumped nearly $1 million into a state assembly race to try to
+unseat a Bernie Sanders-backed progressive legislator and longtime
+criminal justice reform leader, records show. 
+
+[Link](https://www.dailyposter.com/p/prison-guards-target-a-criminal-justice)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, the <a href="https://twitter.com/IEA?ref_src=twsrc%5Etfw">@IEA</a> presented the <a href="https://twitter.com/hashtag/WorldEnergyOutlook2020?src=hash&amp;ref_src=twsrc%5Etfw">#WorldEnergyOutlook2020</a>. Investment in <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> technologies is urgent and essential for reducing greenhouse emissions. Seen at the presentation: A 40 Mt <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> demand increase by 2030 is a necessary step for the <a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a> by 2050 goal. <a href="https://t.co/3yQL7fR1XI">pic.twitter.com/3yQL7fR1XI</a></p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1316289424867700736?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Ok.. Expanse Season 5 trailer looks better. S4 had sucked.
 
 ---
 
-On one of those cruise ships which experienced the epidemic in an
-isolated environment, they found about 30% of the people were
-infected. We can assume the virus reached everyone possible on that
-ship. 30% of 3% is nearly 1%. So if given the chance, covid can kill
-millions in US alone, similarly in other countries.
-
-"Fatality / Cases ratio gives 3%. But how about overall mortality
-rate?"
+<iframe width="340"  src="https://www.youtube.com/embed/EbWv_1NbWyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-I am not in the business of influence peddling. Blog will say what I
-consider to be beneficial. Cannot temper the message to have say in
-policy even if that was possible. Dont veer away from the suggestion
-bcz of style reader, it'll be your funeral, and not my problem.
+This battery business will get ugly, everyone best head for the
+exists..  Based on typical 10KW energy consumption per person, and its
+daily storage requirement with 60kg of lithium / 70kWh battery means
+demand will be 90 times more lithium than proven reserves. This road
+simply cannot work. Bat tech is the business of 1 percenters, like
+this [cretin fuck](https://www.newsbreak.com/news/1607170043110/united-tesla-company-widespread-condemnation-of-elon-musks-bolivia-coup-comments).
+Lithium is no problem for that guy, his father owned an emerald mine
+in apartheid South Africa, so stealing national riches of a country is
+in his blood. Others won't be able to stomach it, and trading one
+rare, natural resource (oil) for another (litihum) will start looking
+increasingly stupid as we dive deeper into the green revolution.
 
 ---
 
-Last updated on *2020-10-15 10:51*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re pleased to announce a new purchase order – our first in Poland – for our H2Station™ fueling solution. Check out our press release for more info: <a href="https://t.co/23v6hIFfre">https://t.co/23v6hIFfre</a> <a href="https://t.co/WbDhc9WneI">pic.twitter.com/WbDhc9WneI</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1316337813630210048?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📚View the <a href="https://twitter.com/hashtag/Fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcells</a> and <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Observatory chapter and track changes in the structure of hydrogen supply and demand in Europe.<br><br>Read full report👇<a href="https://t.co/1gOdqFMkJp">https://t.co/1gOdqFMkJp</a> <a href="https://t.co/HLk46nRtWW">pic.twitter.com/HLk46nRtWW</a></p>&mdash; Fuel Cells &amp; Hydrogen Observatory (FCHO) (@FCHObservatory) <a href="https://twitter.com/FCHObservatory/status/1316648808131026944?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+It's possible. There were some signs of it in *Endgame*. They will
+only hurt themselves and their brand if they do that..
+
+"Can Marvel go bad and become like Disney?"
+
+---
+
+When directing becomes cuck, it basically stops being art. Then you
+have no choice but create hierarchies. White women, black men, Asian,
+white guy, it goes on.. If there is a fight scene, for example, who
+beats who is decided by the hierarchy. Asian guy can be beaten by
+black woman who can only be beaten by the white woman. Of course
+everyone can beat the too weirdly foreign guy, that's like the lowest
+point in the hierarchy. 
+
+---
+
+It certainly was that way for Disney Star Wars cuckscripting, cuckdirecting
+
+[Link](https://mobile.twitter.com/WIRED/status/1301923867674521600)
+
+---
+
+Haha... white women stole the Woke movement \#burr
+
+[Link](https://youtu.be/O1xgXJ5_Q34?t=196)
+
+---
+
+Last updated on *2020-10-16 08:57*
 
 ---
 
