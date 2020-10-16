@@ -12,7 +12,7 @@ world, a comprehensive study has found"
 
 ---
 
-That's right Chrispie.. you messed up
+That's right Crisp Chrispie.. you messed up
 
 "Chris Christie says he was wrong not to wear a mask at the
 White House, where he and President Donald Trump both came down with
