@@ -64,22 +64,3 @@ withstand the larger loads and displacements.
 
 ![](city_04.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
