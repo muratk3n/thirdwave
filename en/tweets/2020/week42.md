@@ -11,7 +11,7 @@ this stuff... Ooooww do you, like, bake a cake too? Rrrrr
 
 ---
 
-<img width="340" src="https://drive.google.com/thumbnail?id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
 
 ---
 
@@ -456,7 +456,7 @@ coverage of lower income people in the media.
 
 So no more of this... Style over substance, technobabbling dipshittery.
 
-<img width="340" src="https://drive.google.com/thumbnail?id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
 
 ---
 
@@ -475,7 +475,7 @@ cities, cannot be of help in deciding most elections.
 
 ---
 
-<img width="340" src="https://drive.google.com/thumbnail?id=1xWv3m6Eie4iHXb_Dply2jEFTtJyUAjbd"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1xWv3m6Eie4iHXb_Dply2jEFTtJyUAjbd"/>
 
 ---
 
