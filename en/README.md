@@ -33,7 +33,7 @@ Brockman is accused of hiding $2 billion offshore"
 
 ---
 
-😆 😆 😆 Yes said that didn't I? C'mon man, what's funnier than
+😆 😆 I said that didn't I? C'mon man, what's funnier than
 calling the Pope himself a paisan..? I was joking... Of course he is
 Argentinian by the culture code approach.
 
