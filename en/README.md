@@ -80,7 +80,7 @@ Where is The Orville? Trek is shot to shit, we don't have much good scifi left.
 
 This battery business will get ugly, everyone best head for the
 exits..  Based on typical 10KW energy consumption per person, and its
-daily storage requirement and with 60kg of lithium req / 70kWh battery
+daily storage requirement and with 60kg of lithium / 70kWh battery
 means demand will be 90 times of proven lithium reserves. This road
 simply cannot work. Batteries is the business of 1 percenters, like
 this [cretin fuck](https://www.newsbreak.com/news/1607170043110/united-tesla-company-widespread-condemnation-of-elon-musks-bolivia-coup-comments).
