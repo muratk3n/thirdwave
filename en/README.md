@@ -1,6 +1,6 @@
 # Tweets
 
-🤣 🤣 🤣 
+😊 😊 😊 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">apt remove cmake vim</p>&mdash; SWIFT Simulation (@SwiftSimulation) <a href="https://twitter.com/SwiftSimulation/status/1316677748195196929?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
