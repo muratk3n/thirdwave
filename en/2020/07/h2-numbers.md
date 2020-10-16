@@ -1,5 +1,7 @@
 # Numbers on H2 Energy
 
+<a name='lithium'/>
+
 Lithium
 
 There is >60kg of lithium carbonate in a 70kWh battery. 400 liters of
