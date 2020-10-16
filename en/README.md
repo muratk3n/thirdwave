@@ -62,7 +62,7 @@ This battery business will get ugly, everyone best head for the
 exits..  Based on typical 10KW energy consumption per person, and its
 daily storage requirement with 60kg of lithium / 70kWh battery means
 demand will be 90 times of proven lithium reserves. This road simply
-cannot work. Bat tech is the business of 1 percenters, like this
+cannot work. Batteries is the business of 1 percenters, like this
 [cretin fuck](https://www.newsbreak.com/news/1607170043110/united-tesla-company-widespread-condemnation-of-elon-musks-bolivia-coup-comments).
 Lithium is no problem for that guy, his father owned an emerald mine
 in apartheid South Africa, so stealing national riches of a country is
