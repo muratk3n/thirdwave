@@ -1,5 +1,25 @@
 # Tweets
 
+
+"Thai protesters defy emergency law to call for reforms"
+
+---
+
+"The failure of governments to tackle a three-decade rise in
+preventable diseases such as obesity and type 2 diabetes has fuelled
+the Covid-19 pandemic and is stalling life expectancy around the
+world, a comprehensive study has found"
+
+---
+
+That's right Chrispie.. you messed up
+
+"Chris Christie says he was wrong not to wear a mask at the
+White House, where he and President Donald Trump both came down with
+the coronavirus"
+
+---
+
 Nice 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">apt remove cmake vim</p>&mdash; SWIFT Simulation (@SwiftSimulation) <a href="https://twitter.com/SwiftSimulation/status/1316677748195196929?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
