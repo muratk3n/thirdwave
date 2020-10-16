@@ -743,3 +743,9 @@ internet remains open and free.'"
 [Link](https://techcrunch.com/2020/09/30/dfinitys-valuation-soars-to-9-5bn-after-revealing-its-governance-system-and-token-economics)
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---

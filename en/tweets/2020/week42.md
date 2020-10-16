@@ -550,3 +550,10 @@ That's the vibe I am getting from this thing. Catty.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just went for a walk in a cemetery and a guy has a QR code on his grave stone that links to a list of his publications and citation metrics</p>&mdash; Justin Joque (@jjoque) <a href="https://twitter.com/jjoque/status/1314954067077144577?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---
+

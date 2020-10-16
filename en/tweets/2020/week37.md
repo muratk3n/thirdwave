@@ -780,3 +780,8 @@ watched"
 [Link](https://www.theatlantic.com/ideas/archive/2020/09/there-no-escapism-americas-current-crises/616012/)
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+

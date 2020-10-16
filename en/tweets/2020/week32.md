@@ -854,7 +854,7 @@ reelection campaign"
 
 ---
 
-<img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/devil1.gif"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1y7RPIod2CnOuTzYhXUSY84UuJrGmjWi8"/>
 
 ---
 
