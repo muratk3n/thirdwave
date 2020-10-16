@@ -38,11 +38,11 @@ DJT net popularity down to -%11
 
 ---
 
-As high rates of police shootings and brutality in California have
-prompted demands for police accountability, law enforcement unions
-have dumped nearly $1 million into a state assembly race to try to
-unseat a Bernie Sanders-backed progressive legislator and longtime
-criminal justice reform leader, records show. 
+Daily Poster: "As high rates of police shootings and brutality in
+California have prompted demands for police accountability, law
+enforcement unions have dumped nearly $1 million into a state assembly
+race to try to unseat a Bernie Sanders-backed progressive legislator
+and longtime criminal justice reform leader, records show"
 
 [Link](https://www.dailyposter.com/p/prison-guards-target-a-criminal-justice)
 
