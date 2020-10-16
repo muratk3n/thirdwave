@@ -48,7 +48,9 @@ and longtime criminal justice reform leader, records show"
 
 ---
 
-Ok.. Expanse Season 5 trailer looks better. S4 had sucked.
+Ok.. Expanse Season 5 trailer looks better. S4 was really bad.
+
+Where is The Orville? Trek is shot to shit, we don't have much good scifi left. 
 
 ---
 
