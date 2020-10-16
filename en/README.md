@@ -115,8 +115,8 @@ have no choice but create hierarchies. White women, black men, Asian,
 white guy, it goes on.. If there is a fight scene, for example, who
 beats who is decided by the hierarchy. Asian guy can be beaten by
 black woman who can only be beaten by the white woman. Of course
-everyone can beat the too weirdly foreign guy, that's like the lowest
-point in the hierarchy. 
+everyone can beat the weir foreign guy, that's like the lowest point
+in the hierarchy.
 
 ---
 
