@@ -36,7 +36,7 @@ himself a paisan..? I was joking... Of course he is Argentinian (by my
 culture code approach), not Italian.
 
 "This Pope is from Argentina, an Italian immigrant but by your culture
-codes he is Argentinian. Why did you keep calling him a paisan?"
+codes he is Argentinian. Why do you keep calling him a paisan?"
 
 ---
 
