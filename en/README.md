@@ -12,7 +12,7 @@ just over £1 trillion ($1.3 trillion) a year [with the EU]"
 
 ---
 
-Neither Canada or Australia are good comparisons for UK / EU trade.
+Neither Canada or Australia are good comparisons for UK / EU trade IMO.
 
 ---
 
