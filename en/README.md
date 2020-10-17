@@ -132,7 +132,7 @@ sectors of the economy"
 
 Governor Fredo.. This guy is actually dumber than his brother at
 CNN. He thought he'd just snatch the nomination through some TV time?
-How f-ing deluded are you?
+How f-ing deluded is that?
 
 "@StuDoesAmerica
 
