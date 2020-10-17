@@ -4,7 +4,7 @@
 
 ---
 
-[EU and Canada traded] nearly $165 billion worth of goods and services
+"[EU and Canada traded] nearly $165 billion worth of goods and services
 flowed between us last year"
 
 "As it stands, the U.K. exports and imports goods and services worth
