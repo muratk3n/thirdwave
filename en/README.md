@@ -4,8 +4,8 @@
 
 ---
 
-"Today, the EU is Canada’s second-largest trading partner; nearly $165
-billion worth of goods and services flowed between us last year"
+[EU and Canada traded] nearly $165 billion worth of goods and services
+flowed between us last year"
 
 "As it stands, the U.K. exports and imports goods and services worth
 just over £1 trillion ($1.3 trillion) a year [with the EU]"
