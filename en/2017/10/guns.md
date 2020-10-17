@@ -1,3 +1,0 @@
-# #guns
-
-![](outg.jpg)

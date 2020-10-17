@@ -238,17 +238,11 @@
 
 [#colbert #conan](10/colbert-conan.md)
 
-[Country Guitarist Changes His Mind On Gun Control](10/country-guitarist-changes-his-mind-on.md)
-
 [Crime of Opportunity](10/crime-of-opportunity.md)
-
-[#debt](10/debt.md)
 
 [#fella](10/fella.md)
 
 [Foragers, Farmers by Morris](10/foragers-farmers-morris.md)
-
-[#guns](10/guns.md)
 
 [Tax Avoidance, Trickery](10/tax-avoidence-tricks.md)
 

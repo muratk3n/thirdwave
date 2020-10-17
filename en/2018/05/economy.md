@@ -26,6 +26,8 @@
 
 [Austerity](../../2020/07/austerity.md)
 
+[Tax Avoidance, Trickery](../../2017/10/tax-avoidence-tricks.md)
+
 [Economics Stats](../../2019/05/stats.md)
 
 [[⇪Up]](../..)
