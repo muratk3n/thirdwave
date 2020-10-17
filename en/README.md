@@ -51,14 +51,6 @@ Then I see [this](https://www.youtube.com/watch?v=MiNARVZQopk&t=320s) video.
 
 ---
 
-<img width="340" src="https://drive.google.com/uc?export=view&id=1-6gUNTFEYg1dQ6wrYTonoOmYmrVTYPox"/>
-
----
-
-Oh yeah, totally killed that shit
-
----
-
 Good one 
 
 "Had a colleague with PhD in solid mechanics, and he worked for
