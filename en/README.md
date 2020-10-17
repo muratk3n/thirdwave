@@ -1,138 +1,148 @@
 # Tweets
 
-
-"Thai protesters defy emergency law to call for reforms"
-
----
-
-The Guardian: "The failure of governments to tackle a three-decade
-rise in preventable diseases such as obesity and type 2 diabetes has
-fuelled the Covid-19 pandemic and is stalling life expectancy around
-the world, a comprehensive study has found"
-
-[Link](https://www.theguardian.com/society/2020/oct/15/thirty-year-failure-to-tackle-preventable-disease-fuelling-global-covid-pandemic)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of our TOP stories this week came from DLR in Germany as they unveiled their new Safe Light Regional Vehicle (SLRV) with <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> and <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> ride--<a href="https://t.co/uNFJPglIaC">https://t.co/uNFJPglIaC</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/ZeroEmissions?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmissions</a> <a href="https://twitter.com/hashtag/cleantech?src=hash&amp;ref_src=twsrc%5Etfw">#cleantech</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a> <a href="https://t.co/11x7Ijqu2r">pic.twitter.com/11x7Ijqu2r</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1317363968588025856?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-That's right Crisp Chrispie.. you messed up
+"Today, the EU is Canada’s second-largest trading partner; nearly $165
+billion worth of goods and services flowed between us last year"
 
-"Chris Christie says he was wrong not to wear a mask at the
-White House, where he and President Donald Trump both came down with
-the coronavirus"
-
----
-
-I approve this message
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">apt remove cmake vim</p>&mdash; SWIFT Simulation (@SwiftSimulation) <a href="https://twitter.com/SwiftSimulation/status/1316677748195196929?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"As it stands, the U.K. exports and imports goods and services worth
+just over £1 trillion ($1.3 trillion) a year [with the EU]"
 
 ---
 
-"Houston Tech Mogul Indicted for ‘Largest-Ever Tax Charge’... Robert
-Brockman is accused of hiding $2 billion offshore"
+Neither Canada or Australia are good comparisons for UK / EU trade.
 
 ---
 
-😆 😆 I said that didn't I? C'mon man, what's funnier than calling the
-Pope himself a paisan..? I was joking... Of course he is Argentinian,
-if we go by the culture code approach.
-
-"This Pope is from Argentina, an Italian immigrant but by your culture
-codes he is Argentinian. Why do you keep calling him a paisan?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A study sponsored by an airline and an aircraft manufacturer says flying is a low-Covid risk. Maybe. Or it could be Kellogg&#39;s sponsoring “science” to tell us breakfast is the most important meal of the day. <a href="https://t.co/UEGgHDyDBx">https://t.co/UEGgHDyDBx</a></p>&mdash; William Noah Glucroft (@wnglucroft) <a href="https://twitter.com/wnglucroft/status/1317488552712744960?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Good going PF.. The P of VC, jammin
+Power calc comes from
 
-[Link](https://blog.toyota.co.uk/hydrogen-popemobile-pope-francis)
+$P = \frac{d W}{d t} = F \cdot \frac{d s}{d t} = F \cdot v$
 
----
-
-Possibly.
-
-And if it does, UBI could be its first leftist program.
-
-"Would 3W politics have a right and left?"
+Multiply force with speed, get power. Driving uphill is hardest part,
+fighting against a portion of grav. I left out acceleration to that
+speed, left out friction, air resist.
 
 ---
 
-DJT net popularity down to -%11
+Haha.. I am getting good at this.. someone said my kid has Power
+Wheels, and I check out its battery, 12 V, 30 Amp = 360 Watts power,
+how much power for uphill drive?
+
+
+```python
+m = 40+40 # car, kid
+v = 10/3.6 # 10 km/h
+print (int(m*9.8*np.sin(np.deg2rad(20))*v), 'Watt')
+```
+
+```text
+744 Watt
+```
+
+Calc says this thing wont even drive uphill at modest speed.
+
+Then I see [this](https://www.youtube.com/watch?v=MiNARVZQopk&t=320s) video.
 
 ---
 
-Daily Poster: "As high rates of police shootings and brutality in
-California have prompted demands for police accountability, law
-enforcement unions have dumped nearly $1 million into a state assembly
-race to try to unseat a Bernie Sanders-backed progressive legislator
-and longtime criminal justice reform leader, records show"
-
-[Link](https://www.dailyposter.com/p/prison-guards-target-a-criminal-justice)
+<img width="340" src="https://drive.google.com/uc?export=view&id=1-6gUNTFEYg1dQ6wrYTonoOmYmrVTYPox"/>
 
 ---
 
-Ok.. *The Expanse* Season 5 trailer looks better. S4 was really bad.
-
-Where is *The Orville*? Trek is shot to shit, we don't have much good
-scifi left.
+Oh yeah, totally killed that shit
 
 ---
 
-<iframe width="340"  src="https://www.youtube.com/embed/EbWv_1NbWyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Good one 
+
+"Had a colleague with PhD in solid mechanics, and he worked for
+sometime on Computational Fluid Dynamics at a company, and was finally
+entrusted with quality work at a SW dev Company. ...The joke was
+'after working in solid and fluid, his work was all gas now'"
 
 ---
 
-This battery business will get ugly, everyone best head for the
-exits..  Based on typical 10KW energy consumption per person, a day of
-storage and with 60kg of lithium / 70kWh battery means demand will be
-90 times greater than world lithium reserves. This road simply cannot
-work. Batteries are the business of 1 percenters, like this [cretin
-fuck](https://www.newsbreak.com/news/1607170043110/united-tesla-company-widespread-condemnation-of-elon-musks-bolivia-coup-comments).
-Lithium is no problem for that guy, his father owned an emerald mine
-in apartheid South Africa, so stealing national riches of a country is
-in his blood. Others won't be able to stomach it, and trading one
-rare, natural resource (oil) for another (litihum) will start looking
-increasingly stupid as we dive deeper into the green revolution.
+So they say Mark Cuban is now China's bitch?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re pleased to announce a new purchase order – our first in Poland – for our H2Station™ fueling solution. Check out our press release for more info: <a href="https://t.co/23v6hIFfre">https://t.co/23v6hIFfre</a> <a href="https://t.co/WbDhc9WneI">pic.twitter.com/WbDhc9WneI</a></p>&mdash; Nel Hydrogen (@nelhydrogen) <a href="https://twitter.com/nelhydrogen/status/1316337813630210048?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+😆 😆 😆
+
+🔥 🔥 🔥 
+
+"@gabriel_zucman
+
+Not a big loss of tax revenue, luckily
+
+'@davidmackau Trump says he may leave the US if Biden wins'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📚View the <a href="https://twitter.com/hashtag/Fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcells</a> and <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Observatory chapter and track changes in the structure of hydrogen supply and demand in Europe.<br><br>Read full report👇<a href="https://t.co/1gOdqFMkJp">https://t.co/1gOdqFMkJp</a> <a href="https://t.co/HLk46nRtWW">pic.twitter.com/HLk46nRtWW</a></p>&mdash; Fuel Cells &amp; Hydrogen Observatory (FCHO) (@FCHObservatory) <a href="https://twitter.com/FCHObservatory/status/1316648808131026944?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+You did not work a million times more than the next guy.
+
+You probably aren't that smart either.
+
+You are likely a one-trick pony which fit to the backdrop of the
+current shit sandwich that is called "the system", that's
+all. 
+
+"But I worked hard for my billions, I am smart, I deserve them"
 
 ---
 
-It's possible. There were some signs of it in *Endgame*. They will
-only hurt themselves and their brand if they do that..
+Billion level wealth creates power disparities in society. Take that
+shit gov. Without regard to what you do with that money
+later. Zero-sum. Gov wins, other side loses.
 
-"Can Marvel go bad and become like Disney?"
-
----
-
-When directing becomes cuck, it basically stops being art. Then you
-have no choice but create hierarchies. White women, black men, Asian,
-white guy, it goes on.. If there is a fight scene, for example, who
-beats who is decided by the hierarchy. Asian guy can be beaten by
-black woman who can only be beaten by the white woman. Of course
-everyone can beat the weird foreign guy, that's like the lowest point
-in the hierarchy.
+"Billionaire: Why do they want to take my billions?"
 
 ---
 
-It certainly was that way for Disney Star Wars cuckscripting, cuckdirecting
-
-[Link](https://mobile.twitter.com/WIRED/status/1301923867674521600)
-
----
-
-Haha... white women stole the Woke movement \#burr
-
-[Link](https://youtu.be/O1xgXJ5_Q34?t=196)
+Yea.. Europeanize bitch. Also that sport where you almost never kick
+the ball around is not "football".
 
 ---
 
-Last updated on *2020-10-16 08:57*
+I have a feeling some corners in US have a fear of being usurped
+culturally by Europe. Pet conspiracy theory of mine is a secret clique
+(!)  had girls play soccer (huge in Europe) so they could poo poo the
+sport and say "yeah girls play that sport here duuude!
+
+---
+
+We need more action in US. I am talking EU Green New Deal level.
+
+"At EU level, with the announcement of the EU Green Deal in December
+2019, the framework of policies tackling the hydrogen industry is
+profoundly changing. Thought as the EU’s ‘new growth strategy’, the
+Green Deal is a high-level political strategy which aims at carbon
+neutrality in the EU by 2050. To achieve this objective to be
+enshrined in the European Climate Law, the Green Deal encompasses all
+sectors of the economy"
+
+[Link](https://fchobservatory.eu/sites/default/files/reports/Chapter_3_Policies_070920.pdf)
+
+---
+
+Governor Fredo.. This guy is actually dumber than his brother at
+CNN. He thought he'd just snatch the nomination through some TV time?
+How f-ing deluded are you?
+
+"@StuDoesAmerica
+
+Andrew Cuomo’s new book is out, a fictional tale in which he proclaims
+himself master of coronavirus and viral savior of New York. But that’s
+not even close to true"
+
+---
+
+Last updated on *2020-10-17 22:30*
 
 ---
 
