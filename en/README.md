@@ -57,11 +57,10 @@ Redtenbacher’s Funkestra - Baby Fat \#music
 Not surprising, Italian fascists built the social security system of
 the country.
 
-Populism is a non-definition, thrives in the absence of other
-ideologies. Therefore it cannot constitute a movement, nor a political
-definition. There is no "left populism", or "right populism". A grab
-bag of issues stolen from right and left held together by media
-trickery or authoritarinism does not deserve its own lexicon.
+There is no "left populism", or "right populism". A grab bag of issues
+stolen from right and left held together by media trickery or
+authoritarinism does not deserve its own lexicon. Most of the time it
+is simply fascism-lite. That's it.
 
 "In many West European countries, traditional right wing parties are
 challenged by a ‘populist right wing’ discourse which also started to
