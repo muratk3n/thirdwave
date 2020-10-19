@@ -525,13 +525,6 @@ remember the BZ reaction from vids.
 
 ---
 
-Isn't <a href="https://youtu.be/RlXdsyctD50?t=267">this</a> so much
-more straightforward? \#pilotwave
-
-*2019-7-15 9:35:40*
-
----
-
 I can't imagine neighboring countries are too enthused about these
 developments. The so-called nine-dashed line <a
 href="http://nioannides.com/wp-content/uploads/2016/03/10295713_10153436238876527_3804085321284675019_n-279x300.jpg">looks</a>
@@ -618,14 +611,6 @@ to
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1999: there are millions of websites all hyperlinked together <br>2019: there are four websites, each filled with screenshots of the other three.</p>&mdash; David Masad (@badnetworker) <a href="https://twitter.com/badnetworker/status/1133363823728091136?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-7-14 11:30:53*
-
----
-
-There is non-locality for pilot waves too akin to Cop QM entanglement
-
-[Link](https://youtu.be/RlXdsyctD50?t=555)
-
-*2019-7-13 21:27:51*
 
 ---
 

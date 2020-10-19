@@ -684,16 +684,6 @@ Cory Doctorow: '20 years ago if you had a CCTV watching you while you ate your d
 
 ---
 
-Haha... David Bohm (who reinvented Pilot Wave theory) actually was Cop
-QM guy at first. He was also friends with Einstein. At some point Bohm
-writes a QM book, in it he defends Cop QM a little too much, Einstein
-hears of it, gives Bohm a talking to. DB changes his mind, goes over
-eqs again, reinvents PWT.
-
-*2019-7-29 10:26:37*
-
----
-
 F--in von Neumann. He had a proof in his book, the Impossibility
 Theorem, which "showed" there could be no other explanation other than
 Copenhagen QM. Delayed the development of PWT for decades. But the

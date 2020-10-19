@@ -524,18 +524,6 @@ W00t
 
 ---
 
-[Twitter](https://mobile.twitter.com/teoliphant/status/1136883495140319232)
-
-@teoliphant 
-
-I like this part: "Furthermore, a derivation of a quantum theoretical description from logical inf principles does not prohibit the construction of cause-and-effect mechanisms that create the *impression* that these mechanisms produce data that can be described by quantum theory"
-
-e.g. Pilot Wave Theory or Bohmian mechanics.
-    
-*2019-6-10 15:7:6*
-
----
-
 Also see 
 
 "Electrons aren't actually waves" 
