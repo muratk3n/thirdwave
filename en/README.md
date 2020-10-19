@@ -11,10 +11,6 @@ Mediterranean country due to get European funding"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not only is it legal to publish stolen material in the U.S., some of the most important exposes began that way - the Collateral Murder video, the Intercept&#39;s Brazil archive story, etc. So long as the material is in the public interest, it&#39;s usually not an issue for the press. <a href="https://t.co/KMXgEHkn5l">https://t.co/KMXgEHkn5l</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1317656970418159621?ref_src=twsrc%5Etfw">October 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 A Canadian actress pronounces out weird... like uuut. Is that a
 Canadian thing?
 
