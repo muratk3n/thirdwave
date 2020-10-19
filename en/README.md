@@ -58,7 +58,7 @@ Not surprising, Italian fascists built the social security system of
 the country.
 
 Populism is a non-definition, thrives in the absence of other
-things.. Therefore it constitute a movement, nor a political
+ideologies. Therefore it cannot constitute a movement, nor a political
 definition. There is no "left populism", or "right populism". A grab
 bag of issues stolen from right and left held together by media
 trickery or authoritarinism does not deserve its own lexicon.
