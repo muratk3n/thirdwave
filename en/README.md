@@ -20,11 +20,14 @@ Canadian thing?
 
 ---
 
-Info on Bohmian Mech by S. Hossenfelder. Smolin doesn't like BM bcz
-"pilot wave theory fails to satisfy another of our principles:
+According to *Einstein's Unfinished Revolution*, Smolin doesn't like
+BM bcz "pilot wave theory fails to satisfy another of our principles:
 Einstein’s principle of reciprocity. The pilot wave guides the
-particle, but the particle has no effect back on the wave". *Einstein's
-Unfinished Revolution*.
+particle, but the particle has no effect back on the wave".
+
+---
+
+Info on Bohmian Mech by S. Hossenfelder. 
 
 [Link](https://www.youtube.com/watch?v=ix9nJmz4mGg)
 
