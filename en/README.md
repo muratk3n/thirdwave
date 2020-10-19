@@ -79,7 +79,7 @@ Orgone - Duck and Cover \#music
 
 ---
 
-<img width="340" src="https://i.pinimg.com/originals/6f/75/90/6f7590ec2d4f58a8fee099620e841a70.gif"/>
+<img width="200" src="https://i.pinimg.com/originals/6f/75/90/6f7590ec2d4f58a8fee099620e841a70.gif"/>
 
 ---
 
