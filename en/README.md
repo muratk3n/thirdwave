@@ -24,30 +24,29 @@ Peppino De Luca e i Mark 4 - Corsa Mortale \#music
 
 UK population is 67 million, world is 7.8 billion. With same level of
 driving, what wld be the amt of lithium required, just for cars, for
-the world?  You do the math. I am guessing the answer will be
-hilariously sad.
+the world? You do the math.
 
 ---
 
 Ahaha.. this gets even more fun the more you look into it...
 
 UK drove 303.7 billion miles in 2013. Let's say all their cars were
-bitch BEVs. Take miles driven daily (need to store energ for that at
-least), with range 250 miles per 75 kwh bat, and 60kg of lithium per
-70kWh,
+bitch BEVs. Take miles driven in half a day and assume energ for that
+is stored in bat, with range 250 miles per 75 kwh bat, and 60kg of
+lithium per 70kWh,
 
 ```python
-mday = 393e9 / 365.
+mday = 393e9 / (365.*2)
 print ("%d tons" % (mday / 250 * 60 / 1e3))
 ```
 
 ```text
-258410 tons
+129205 tons
 ```
 
-Only UK wld require a quarter million tons of lithium. This is for
-**one country**, just for **driving**, nothing else. World reserves
-are a mere 17 million tons 🤣 🤣 🤣
+Only UK wld require over 1/10th of a million ton of lithium. This is
+for one country just to drive. World reserves are a mere 17 million
+tons.
 
 ---
 
