@@ -22,7 +22,7 @@ Peppino De Luca e i Mark 4 - Corsa Mortale \#music
 
 ---
 
-Let's not forget in 40 years there'll be 50% more people.
+And.. in 40 years there'll be 50% more people.
 
 ---
 
