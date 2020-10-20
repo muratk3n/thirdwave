@@ -58,10 +58,6 @@ sounds like a champ.
 
 ---
 
-Nice. There is nitrogen in Venus' [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Venus#Composition).
-
----
-
 B. David paper on the catalyst.
 
 [Link](http://research.chem.ox.ac.uk/bill-david.aspx)
