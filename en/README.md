@@ -22,10 +22,6 @@ Peppino De Luca e i Mark 4 - Corsa Mortale \#music
 
 ---
 
-And.. in 40 years population will increase by 50%.
-
----
-
 UK population is 67 million, world is 7.8 billion. With same level of
 driving, what wld be the amt of lithium required, just for cars, for
 the world? You do the math.
