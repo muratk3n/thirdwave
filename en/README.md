@@ -126,7 +126,7 @@ green by 2024 according to its goal.  \#HydrogenNow @HydrogenFC
 
 ---
 
-I see..
+Some scifi energy stats
 
 Stark Ark reactor outputs 3 gigawatts
 
