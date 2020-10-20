@@ -77,8 +77,8 @@ body, has actually made its way through the Haber-Bosch process"
 history.  Because this is 1943.  And this, to me, is an absolutely
 magnificent story.  It's the middle of World War II.  The Belgians
 have actually run out of diesel.  It's been appropriated for war
-purposes.  And their bus fleet grinds to a halt.  This is in November,
-1942.  In May, 1943, the bus fleet was up and running with a mixture
+purposes.  And their bus fleet grinds to a halt.  This is in November, 1942.
+In May, 1943, the bus fleet was up and running with a mixture
 of ammonia and hydrogen, running the bus fleet tens of thousands of
 kilometers accident-free in the middle of World War II"
 
