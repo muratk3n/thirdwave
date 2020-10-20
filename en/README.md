@@ -36,17 +36,16 @@ is stored in bat, with range 250 miles per 75 kwh bat, and 60kg of
 lithium per 70kWh,
 
 ```python
-mday = 393e9 / (365.*2)
+mday = 303e9 / (365.*2)
 print ("%d tons" % (mday / 250 * 60 / 1e3))
 ```
 
 ```text
-129205 tons
+99616 tons
 ```
 
-Only UK wld require over 1/10th of a million ton of lithium. This is
-for one country just to drive. World reserves are a mere 17 million
-tons.
+Only UK wld require 1/10th of a million ton of lithium. This is for
+one country just to drive. World reserves are a mere 17 million tons.
 
 ---
 
