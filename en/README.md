@@ -32,8 +32,6 @@ the world? You do the math.
 
 ---
 
-Ahaha.. this gets even more fun the more you look into it...
-
 UK drove 303.7 billion miles in 2013. Let's say all their cars were
 bitch BEVs. Take miles driven in half a day and assume energ for that
 is stored in bat, with range 250 miles per 75 kwh bat, and 60kg of
