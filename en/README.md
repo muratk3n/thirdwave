@@ -22,11 +22,6 @@ Peppino De Luca e i Mark 4 - Corsa Mortale \#music
 
 ---
 
-🤣 🤣 🤣 UK traveled over three times the car number by rail, for mere
-passengers, not even counting freight. This is too good.
-
----
-
 And.. in 40 years population will increase by 50%.
 
 ---
