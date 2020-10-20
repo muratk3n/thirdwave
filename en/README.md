@@ -37,11 +37,11 @@ with range 250 miles per 75 kwh bat, and 60kg of lithium per 70kWh,
 
 ```python
 mday = 393e9 / 365.
-print ("%d mil tons" % (mday / 250 * 60 / 1e3))
+print ("%d tons" % (mday / 250 * 60 / 1e3))
 ```
 
 ```text
-258410 mil tons
+258410 tons
 ```
 
 Only UK wld require a quarter million tons of lithium. This is for
