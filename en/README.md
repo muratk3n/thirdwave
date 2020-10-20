@@ -24,7 +24,7 @@ Peppino De Luca e i Mark 4 - Corsa Mortale \#music
 
 UK population is 67 million, world is 7.8 billion. With same level of
 driving, what wld be the amt of lithium required, just for cars, for
-the world?  You do the math. I wont bcz I know the answer will be so
+the world?  You do the math. I am guessing the answer will be so
 hilariously sad.
 
 ---
