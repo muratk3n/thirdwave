@@ -50,7 +50,8 @@ are a mere 17 million tons 🤣 🤣 🤣
 
 ---
 
-He is UK based it seems.. Is he getting some love from his gov? Sounds like a champ.
+He is UK based it seems.. Is he getting some love from his gov? Guy
+sounds like a champ.
 
 ---
 
