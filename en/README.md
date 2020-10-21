@@ -8,14 +8,14 @@ these issues are societal or ethical issues; they are important, but
 they are not social or political issues. The seizure of control of the
 economy by a class of global speculators and corporations has ruined
 the lives of the very groups the democrats pretend to lift up. When
-Bill Clinton and the democratic party for example destroyed the old
+Bill Clinton and the Democratic Party for example destroyed the old
 welfare system 70% of the recipients were children. Those on the right
 of the political spectrum, and we must never forget that the positions
 of the Democratic party would make it a far right party in Europe,
 demonize those on the margins of society as scapegoats. The culture
 wars mask the reality both parties are full partners in the
 destruction of our democratic institutions, both parties have
-reconfigured american society into a mafia state"
+reconfigured American society into a mafia state"
 
 [Link](https://youtu.be/GxSN4ip_F6M?t=1717)
 
@@ -25,9 +25,8 @@ reconfigured american society into a mafia state"
 
 ---
 
-"For 2013, estimated world energy consumption (according to
-[EIA](https://en.wikipedia.org/wiki/World_energy_consumption)) was
-.. 157,481 TWh"
+According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
 
 ```python
 world_daily = 15748 / 365 * 1e9 # Gwh
