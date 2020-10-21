@@ -31,7 +31,8 @@ itself will grow, for everyone.
 Leaving that aside, even today's energy requirements are out of reach
 for bats
 
-"You said li mines aren't enough.. But [10 KW per person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
+"You said lith mines aren't enough.. But [10 KW per
+person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
 energy consumption is based on everyone consuming in US standards"
 
 ---
