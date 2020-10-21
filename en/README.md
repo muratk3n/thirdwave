@@ -1,26 +1,5 @@
 # Tweets
 
-
-Chris Hedges: "The Democrats and their liberal apologists adopt
-tolerant positions on issues regarding race religion immigration
-women's rights and sexual identity and pretend this is politics. But
-these issues are societal or ethical issues; they are important, but
-they are not social or political issues. The seizure of control of the
-economy by a class of global speculators and corporations has ruined
-the lives of the very groups the democrats pretend to lift up. When
-Bill Clinton and the Democratic Party for example destroyed the old
-welfare system 70% of the recipients were children. Those on the right
-of the political spectrum, and we must never forget that the positions
-of the Democratic party would make it a far right party in Europe,
-demonize those on the margins of society as scapegoats. The culture
-wars mask the reality both parties are full partners in the
-destruction of our democratic institutions, both parties have
-reconfigured American society into a mafia state"
-
-[Link](https://youtu.be/GxSN4ip_F6M?t=1717)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we are one step closer to realizing our vision of zero emission mobility fueled by green hydrogen. We successfully raised NOK 290 million in new equity from Nordic and international investors in a private placement which was multiple times oversubscribed. <a href="https://t.co/J6VDkyJA8r">pic.twitter.com/J6VDkyJA8r</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1318781565573484546?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -114,6 +93,27 @@ Tragic
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *five times* the Exxon Valdez spill. The Caribbean Sea would never be the same. <a href="https://t.co/BOOH2h9kOO">https://t.co/BOOH2h9kOO</a></p>&mdash; Eric Holthaus (@EricHolthaus) <a href="https://twitter.com/EricHolthaus/status/1318165685172883457?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+
+Chris Hedges: "The Democrats and their liberal apologists adopt
+tolerant positions on issues regarding race religion immigration
+women's rights and sexual identity and pretend this is politics. But
+these issues are societal or ethical issues; they are important, but
+they are not social or political issues. The seizure of control of the
+economy by a class of global speculators and corporations has ruined
+the lives of the very groups the democrats pretend to lift up. When
+Bill Clinton and the Democratic Party for example destroyed the old
+welfare system 70% of the recipients were children. Those on the right
+of the political spectrum, and we must never forget that the positions
+of the Democratic party would make it a far right party in Europe,
+demonize those on the margins of society as scapegoats. The culture
+wars mask the reality both parties are full partners in the
+destruction of our democratic institutions, both parties have
+reconfigured American society into a mafia state"
+
+[Link](https://youtu.be/GxSN4ip_F6M?t=1717)
+
+---
+
 
 Last updated on *2020-10-21 08:54*
 
