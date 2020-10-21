@@ -42,7 +42,7 @@ them is emotion, which is below analytical mind. Then movie makers
 connecting to that in the audience also go through their own
 subconcious. George Lucas thought he was making a movie with
 allegories to Nazi Germany, Vietnam, Nixon, but he ended up making a
-movie about early Christians and Rome with *Star Wars*. TV show *Lost*
+movie about early Christians and Rome in *Star Wars*. TV show *Lost*
 looked like an existential drama, pondering the afterlife, or abt
 nothing at all with random people running around through a
 confusion-made-cool wizardry, but the show is actually about our
