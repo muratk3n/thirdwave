@@ -20,7 +20,7 @@ Storing today's energy consumption for half a day requires over ten
 times the amount of available lithium in the world.
 
 Unfortunately for its rabid following, this route is dead. The tech
-has no future.
+has no future. Hell it doesn't have a present based on these numbers.
 
 ---
 
