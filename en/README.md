@@ -59,15 +59,14 @@ consumption is based on everyone consuming in US standards"
 People making movies don't necessarily understand what they are
 making, in the analytical sense. Art connect at many levels, one of
 that is emotion, which is below analytical thinking. Then movie makers
-connecting to that also think through their own subconcious...
-
-George Lucas thought he was making a movie with allegories to Nazi
-Germany, Vietnam, Nixon, but he ended up making a movie about early
-Christians and Rome. TV show *Lost* looked like an existential drama,
-pondering the afterlife, or abt nothing at all with random people
-running around (likely all were in play for its directors who werent
-even that bright) but it is actually about humanity's hunter-gatherer
-experience, and ills of modernity.
+connecting to that, then, also go through their own
+subconcious. George Lucas thought he was making a movie with
+allegories to Nazi Germany, Vietnam, Nixon, but he ended up making a
+movie about early Christians and Rome. TV show *Lost* looked like an
+existential drama, pondering the afterlife, or abt nothing at all with
+random people running around through a confusion-made-cool wizardry,
+but *Lost* is actually about humanity's hunter-gatherer experience,
+and ills of modernity.
 
 ---
 
