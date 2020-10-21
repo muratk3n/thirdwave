@@ -4,7 +4,7 @@
 Chris Hedges: "The Democrats and their liberal apologists adopt
 tolerant positions on issues regarding race religion immigration
 women's rights and sexual identity and pretend this is politics. But
-these issues are societal or ethical issues. They are important but
+these issues are societal or ethical issues; they are important, but
 they are not social or political issues. The seizure of control of the
 economy by a class of global speculators and corporations has ruined
 the lives of the very groups the democrats pretend to lift up. When
