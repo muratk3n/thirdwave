@@ -24,13 +24,11 @@ has no future. Hell it doesn't have a present based on these numbers.
 
 ---
 
-Leaving that aside, even today's energy requirements are out of reach
-for bats
-
----
-
 Exactly. And we should be ready for that. Plus that 10 KW number
 itself will grow, for everyone.
+
+Leaving that aside, even today's energy requirements are out of reach
+for bats
 
 "You said li mines aren't enough.. But [10 KW per person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
 energy consumption is based on everyone consuming in US standards"
