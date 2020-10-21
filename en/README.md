@@ -45,7 +45,7 @@ allegories to Nazi Germany, Vietnam, Nixon, but he ended up making a
 movie about early Christians and Rome with *Star Wars*. TV show *Lost*
 looked like an existential drama, pondering the afterlife, or abt
 nothing at all with random people running around through a
-confusion-made-cool wizardry, but *Lost* is actually about humanity's
+confusion-made-cool wizardry, but the show is actually about our
 hunter-gatherer experience, and ills of modernity.
 
 ---
