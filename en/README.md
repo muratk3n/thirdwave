@@ -37,7 +37,7 @@ energy consumption is based on everyone consuming in US standards"
 ---
 
 People making movies don't necessarily understand what they are
-making, in the analytical sense. Art connect at many levels, one of
+making, in the analytical sense. Art connects at many levels, one of
 them is emotion, which is below analytical mind. Then movie makers
 connecting to that in the audience also go through their own
 subconcious. George Lucas thought he was making a movie with
