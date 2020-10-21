@@ -1,130 +1,123 @@
 # Tweets
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/MercedesBenz?ref_src=twsrc%5Etfw">@MercedesBenz</a> GenH2 Truck is a hydrogen-based fuel-cell concept truck with a targeted range of up to 1,000 kilometers and more with its series-production version for flexible and demanding long-haul transport. It will soon join the fleet of <a href="https://twitter.com/Daimler?ref_src=twsrc%5Etfw">@Daimler</a> Trucks. <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://t.co/1Yxsx1Cv63">pic.twitter.com/1Yxsx1Cv63</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1318462497448468480?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Chris Hedges: "The Democrats and their liberal apologists adopt
+tolerant positions on issues regarding race religion immigration
+women's rights and sexual identity and pretend this is politics. But
+these issues are societal or ethical issues. They are important but
+they are not social or political issues. The seizure of control of the
+economy by a class of global speculators and corporations has ruined
+the lives of the very groups the democrats pretend to lift up. When
+Bill Clinton and the democratic party for example destroyed the old
+welfare system 70% of the recipients were children. Those on the right
+of the political spectrum, and we must never forget that the positions
+of the Democratic party would make it a far right party in Europe,
+demonize those on the margins of society as scapegoats. The culture
+wars mask the reality both parties are full partners in the
+destruction of our democratic institutions, both parties have
+reconfigured american society into a mafia state"
+
+[Link](https://youtu.be/GxSN4ip_F6M?t=1717)
 
 ---
 
-"As few as 10% of people are responsible for 80% of transmission – and
-that must shape how we tackle this virus"
-
-[Link](https://www.theguardian.com/commentisfree/2020/oct/19/overdispersion-spreads-covid-transmission-virus)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we are one step closer to realizing our vision of zero emission mobility fueled by green hydrogen. We successfully raised NOK 290 million in new equity from Nordic and international investors in a private placement which was multiple times oversubscribed. <a href="https://t.co/J6VDkyJA8r">pic.twitter.com/J6VDkyJA8r</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1318781565573484546?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cutting edge-technology combined with hot &amp; seductive elements: Our <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> concept <a href="https://twitter.com/MercedesBenz?ref_src=twsrc%5Etfw">@MercedesBenz</a> GenH2 Truck brings our design philosophy of Sensual Purity into a new dimension. <a href="https://t.co/dEMfgZCUZw">pic.twitter.com/dEMfgZCUZw</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1318186967926964224?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Peppino De Luca e i Mark 4 - Corsa Mortale \#music
-
-[Link](https://youtu.be/qk7lYmtHymE)
-
----
-
-UK drove 303.7 billion miles in 2013. Let's say all their cars were
-bitch BEVs. Take miles driven in half a day and assume energ for that
-is stored in bat, with range 250 miles per 75 kwh bat, and 60kg of
-lithium per 70kWh,
+"For 2013, estimated world energy consumption (according to
+[EIA](https://en.wikipedia.org/wiki/World_energy_consumption)) was
+.. 157,481 TWh"
 
 ```python
-mday = 303e9 / (365.*2)
-print ("%d tons" % (mday / 250 * 60 / 1e3))
+world_daily = 15748 / 365 * 1e9 # Gwh
+print ("%d mil. tons" % (world / 70.0 * 60.0 / 1e9))
 ```
 
 ```text
-99616 tons
+36 mil. tons
 ```
 
-Only UK wld require 1/10th of a million ton of lithium. This is for
-one country just to drive. World reserves are a mere 17 million tons.
+Storing today's energy consumption for one day requires over twice the
+amount of available lithium in the world. This route is dead. The tech
+has no future.
 
 ---
 
-He is UK based it seems.. Is he getting some love from his gov? Guy
-sounds like a champ.
+Leaving that aside, even today's energy requirements are out of reach
+for bats
 
 ---
 
-B. David paper on the catalyst.
+Exactly. And we should be ready for that. Plus that 10 KW number
+itself will grow, for everyone.
 
-[Link](http://research.chem.ox.ac.uk/bill-david.aspx)
-
----
-
-Bill David on ammonia.
-
-"[04:24] Because in 1908 and 1910, Fritz Haber and Carl Bosch managed
-to produce ammonia.  And they used nitrogen from air, and they used
-hydrogen from water 100 years ago to do that.  And nowadays, we have
-170 million tons of ammonia produced each year.  And it's principally
-used for fertilizers.  And the statistic is that about half of the
-world would go hungry if we didn't have ammonia, if we didn't have
-artificial fertilizers"
-
-"[04:52] 40% of the nitrogen that sits in your bodies, that sits in my
-body, has actually made its way through the Haber-Bosch process"
-
-"[05:31] But I guess very few of you will know this next piece of
-history.  Because this is 1943.  And this, to me, is an absolutely
-magnificent story.  It's the middle of World War II.  The Belgians
-have actually run out of diesel.  It's been appropriated for war
-purposes.  And their bus fleet grinds to a halt.  This is in November, 1942.
-In May, 1943, the bus fleet was up and running with a mixture
-of ammonia and hydrogen, running the bus fleet tens of thousands of
-kilometers accident-free in the middle of World War II"
-
-"[07:03] [W]e've managed to take a combination of sodium and sodium
-amide.  And that's actually basically cracking the ammonia,
-decomposing that ammonia, as well as the best ruthenium catalysts"
-
-"[7:30] In a reactor not much bigger than AA bat, we got 30 Watts power
-out of it, enough to power a television"
-
-"[13:46] But I want to say that there's actually
-a bigger level, a bigger moonshot that we can aim at.
-Because ammonia already provides food for half the planet.
-When you combust ammonia, when you use ammonia
-in a fuel cell, what comes out at the end is water.
-
-So we've got food.
-
-We've got water.
-
-I've talked about energy.  And in fact, what ammonia can do is it can
-contribute to a bigger issue, a bigger dream of contributing to the
-food, water, energy nexus"
-
-[Link](https://youtu.be/qEut7o-b5hY?t=250)
+"You said li mines aren't enough.. But 10 KW per person energy
+consumption is based on everyone consuming in US standards"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A great <a href="https://twitter.com/latimes?ref_src=twsrc%5Etfw">@latimes</a> article on the future of flying: &quot;<a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> fuel could revolutionize airlines. Here’s how that could look.&quot; ✈️<a href="https://t.co/f2mBWrwc08">https://t.co/f2mBWrwc08</a> <a href="https://t.co/yph3kD91o1">pic.twitter.com/yph3kD91o1</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1318276244153208838?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+People making movies don't necessarily understand what they are
+making, in the analytical sense. Art connect at many levels, one of
+that is emotion, which is below analytical thinking. Then movie makers
+connecting to that also think through their own subconcious...
+
+George Lucas thought he was making a movie with allegories to Nazi
+Germany, Vietnam, Nixon, but he ended up making a movie about early
+Christians and Rome. TV show *Lost* looked like an existential drama,
+pondering the afterlife, or abt nothing at all with random people
+running around (likely all were in play for its directors who werent
+even that bright) but it is actually about humanity's hunter-gatherer
+experience, and ills of modernity.
 
 ---
 
-@H2Europe
-
-Plug is forecasting sales of 1.2 billion dollars and an operating
-profit of $200 million after the \#acquisition of United \#Hydrogen
-Group Inc. and Giner ELX.  Over 50% of the \#hydrogen it uses will be
-green by 2024 according to its goal.  \#HydrogenNow @HydrogenFC
-
-[Link](https://twitter.com/H2Europe/status/1318446857576615936)
+[Apple's patent](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&p=1&f=G&l=50&d=PTXT&S1=(apple.ASNM.+AND+20200929.PD.)&OS=an/apple+and+isd/9/29/2020&RS=(AN/apple+AND+ISD/20200929))
 
 ---
 
-Some scifi energy stats
+😶
 
-Stark Ark reactor outputs 3 gigawatts
+"@chemical_ben
 
-Trek TNG Enterprise generates 12.75 billion gigawatts (from *True Q*)
-
-Cool to be in the future! (Or even in today's fi).
+\#Apple files patents for \#hydrogen fuel cell powered laptops and cell
+phones"
 
 ---
 
-Last updated on *2020-10-20 12:23*
+"French President Macron Wants to Advance Hydrogen Alliance with Berlin"
+
+[Link](https://mobile.twitter.com/fuelcellsworks/status/1317831567977435136)
+
+---
+
+"In collaboration with colleagues at universities and institutions in
+the UK, China and the Kingdom of Saudi Arabia, researchers in
+the Edwards/ Xiao group at Oxford’s Department of Chemistry have
+developed a method of converting plastic waste into hydrogen gas which
+can be used as a clean fuel"
+
+[Link](https://www.ox.ac.uk/news/2020-10-13-turning-plastic-waste-hydrogen-and-high-value-carbons)
+
+---
+
+A, AB blood types more susceptible to covid? 
+
+---
+
+Forbes: "The Green Hydrogen Revolution Is Now Underway"
+
+[Link](https://www.forbes.com/sites/arielcohen/2020/10/19/the-green-hydrogen-revolution-is-now-underway)
+
+---
+
+🥵 🥵 🥵 🥵 🥵 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *five times* the Exxon Valdez spill. The Caribbean Sea would never be the same. <a href="https://t.co/BOOH2h9kOO">https://t.co/BOOH2h9kOO</a></p>&mdash; Eric Holthaus (@EricHolthaus) <a href="https://twitter.com/EricHolthaus/status/1318165685172883457?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Last updated on *2020-10-21 08:54*
 
 ---
 
