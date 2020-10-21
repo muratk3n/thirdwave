@@ -32,8 +32,8 @@ for bats
 Exactly. And we should be ready for that. Plus that 10 KW number
 itself will grow, for everyone.
 
-"You said li mines aren't enough.. But 10 KW per person energy
-consumption is based on everyone consuming in US standards"
+"You said li mines aren't enough.. But [10 KW per person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
+energy consumption is based on everyone consuming in US standards"
 
 ---
 
