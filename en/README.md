@@ -29,8 +29,8 @@ According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
 estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
 
 ```python
-world_daily = 15748 / 365 * 1e9 # Gwh
-print ("%d mil. tons" % (world / 70.0 * 60.0 / 1e9))
+consumed = 15748 / 365 * 1e9 # Gwh
+print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
 ```
 
 ```text
@@ -38,8 +38,8 @@ print ("%d mil. tons" % (world / 70.0 * 60.0 / 1e9))
 ```
 
 Storing today's energy consumption for one day requires over twice the
-amount of available lithium in the world. This route is dead. The tech
-has no future.
+amount of available lithium in the world. Sadly for its rabid
+following, this route is dead.. The tech has no future.
 
 ---
 
