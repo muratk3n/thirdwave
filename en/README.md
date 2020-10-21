@@ -95,12 +95,6 @@ Tragic
 
 ---
 
-Sammy Burdson - News Background \#music
-
-[Link](https://youtu.be/qegMC_faTR0)
-
----
-
 Chris Hedges: "The Democrats and their liberal apologists adopt
 tolerant positions on issues regarding race, religion, immigration,
 women's rights and sexual identity and pretend this is politics. But
