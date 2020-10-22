@@ -29,6 +29,23 @@ needed 1604
 
 Required litihum is over 90 TIMES of available reserves.
 
+How about today's energy consumption? According to
+[EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
+estimated world energy consumption was 157,481 Terrawatt Hours in
+2013.
+
+```python
+consumed = (157481. / (365*2)) * 1e9 # Kwh
+print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
+```
+
+```text
+184 mil. tons
+```
+
+Storing today's energy consumption for half a day would require over
+ten times the amount of available lithium in the world.
+
 
 BEV
 
