@@ -95,8 +95,7 @@ Cash income for the top 0.1 percent has increased 374% since 1980
 "Thai protesters give prime minister three days to
 resign.. Demonstrators handed in a 'resignation form' for Thai PM
 Prayuth Chan-ocha to sign, saying they would return in three days if
-their demands were not met. The move came as Prayuth offered to lift
-an emergency decree"
+their demands were not met"
 
 ---
 
