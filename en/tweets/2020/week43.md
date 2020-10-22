@@ -1,6 +1,121 @@
 # Week 43
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we are one step closer to realizing our vision of zero emission mobility fueled by green hydrogen. We successfully raised NOK 290 million in new equity from Nordic and international investors in a private placement which was multiple times oversubscribed. <a href="https://t.co/J6VDkyJA8r">pic.twitter.com/J6VDkyJA8r</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1318781565573484546?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
+
+```python
+consumed = (157481. / (365*2)) * 1e9 # Kwh
+print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
+```
+
+```text
+184 mil. tons
+```
+
+Storing today's energy consumption for half a day requires over ten
+times the amount of available lithium in the world.
+
+Unfortunately for its rabid following this route is dead. The tech has
+no future. Hell, it didn't even have a present based on these numbers.
+
+---
+
+Exactly. And we should be ready for that. Plus that 10 KW number
+itself will grow, for everyone.
+
+Leaving that aside, even today's energy requirements are out of reach
+for bats
+
+"You said lith mines aren't enough.. But [10 KW per
+person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
+energy consumption is based on everyone consuming in US standards"
+
+---
+
+People making movies don't necessarily understand what they are
+making, in the analytical sense. Art connects at many levels, one of
+them is emotion, which is below analytical mind. Then movie makers
+connecting to that in the audience also go through their own
+subconcious. George Lucas thought he was making a movie with
+allegories to Nazi Germany, Vietnam, Nixon, but he ended up making a
+movie about early Christians and Rome in *Star Wars*. TV show *Lost*
+looked like an existential drama, pondering the afterlife, or abt
+nothing at all with random people running around through a
+confusion-made-cool wizardry, but the show is actually about our
+hunter-gatherer experience, and ills of modernity.
+
+---
+
+[Apple's patent](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&p=1&f=G&l=50&d=PTXT&S1=(apple.ASNM.+AND+20200929.PD.)&OS=an/apple+and+isd/9/29/2020&RS=(AN/apple+AND+ISD/20200929))
+
+---
+
+😶 Wow.. 
+
+"@chemical_ben
+
+\#Apple files patents for \#hydrogen fuel cell powered laptops and cell
+phones"
+
+---
+
+"In collaboration with colleagues at universities and institutions in
+the UK, China and the Kingdom of Saudi Arabia, researchers in
+the Edwards/ Xiao group at Oxford’s Department of Chemistry have
+developed a method of converting plastic waste into hydrogen gas which
+can be used as a clean fuel"
+
+[Link](https://www.ox.ac.uk/news/2020-10-13-turning-plastic-waste-hydrogen-and-high-value-carbons)
+
+---
+
+A, AB blood types more susceptible to covid? 
+
+---
+
+"French President Macron Wants to Advance Hydrogen Alliance with Berlin"
+
+[Link](https://mobile.twitter.com/fuelcellsworks/status/1317831567977435136)
+
+---
+
+Forbes: "The Green Hydrogen Revolution Is Now Underway"
+
+[Link](https://www.forbes.com/sites/arielcohen/2020/10/19/the-green-hydrogen-revolution-is-now-underway)
+
+---
+
+Tragic
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *five times* the Exxon Valdez spill. The Caribbean Sea would never be the same. <a href="https://t.co/BOOH2h9kOO">https://t.co/BOOH2h9kOO</a></p>&mdash; Eric Holthaus (@EricHolthaus) <a href="https://twitter.com/EricHolthaus/status/1318165685172883457?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Chris Hedges: "The Democrats and their liberal apologists adopt
+tolerant positions on issues regarding race, religion, immigration,
+women's rights and sexual identity and pretend this is politics. But
+these issues are societal or ethical issues; they are important, but
+they are not social or political issues. The seizure of control of the
+economy by a class of global speculators and corporations has ruined
+the lives of the very groups the democrats pretend to lift up. When
+Bill Clinton and the Democratic Party for example destroyed the old
+welfare system 70% of the recipients were children. Those on the right
+of the political spectrum, and we must never forget that the positions
+of the Democratic party would make it a far right party in Europe,
+demonize those on the margins of society as scapegoats. The culture
+wars mask the reality both parties are full partners in the
+destruction of our democratic institutions, both parties have
+reconfigured American society into a mafia state"
+
+[Link](https://youtu.be/GxSN4ip_F6M?t=1717)
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/MercedesBenz?ref_src=twsrc%5Etfw">@MercedesBenz</a> GenH2 Truck is a hydrogen-based fuel-cell concept truck with a targeted range of up to 1,000 kilometers and more with its series-production version for flexible and demanding long-haul transport. It will soon join the fleet of <a href="https://twitter.com/Daimler?ref_src=twsrc%5Etfw">@Daimler</a> Trucks. <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://t.co/1Yxsx1Cv63">pic.twitter.com/1Yxsx1Cv63</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1318462497448468480?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -228,3 +343,10 @@ nam sayin?
 [In fuel-cells (solid oxide FC)](https://youtu.be/5ejL65tKsGM?t=452)
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---
+

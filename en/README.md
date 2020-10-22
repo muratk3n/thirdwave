@@ -1,122 +1,114 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we are one step closer to realizing our vision of zero emission mobility fueled by green hydrogen. We successfully raised NOK 290 million in new equity from Nordic and international investors in a private placement which was multiple times oversubscribed. <a href="https://t.co/J6VDkyJA8r">pic.twitter.com/J6VDkyJA8r</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1318781565573484546?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Young people tend to work in contact-sensitive sectors, like
+hospitality; and they are often in temporary job contracts, which
+makes them easier to fire"
+
+[Link](https://www.cnbc.com/2020/10/21/how-the-coronavirus-crisis-is-hitting-young-people-so-hard.html)
 
 ---
 
-According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
-estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
-
-```python
-consumed = (157481. / (365*2)) * 1e9 # Kwh
-print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
-```
-
-```text
-184 mil. tons
-```
-
-Storing today's energy consumption for half a day requires over ten
-times the amount of available lithium in the world.
-
-Unfortunately for its rabid following this route is dead. The tech has
-no future. Hell, it didn't even have a present based on these numbers.
+Watched a docu on Coca Cola.. Guy who invented it did it for his
+addiction?  He started comp, but then fell off the wagon, addiction
+returned, then he died. New chief went in heavy on marketing, CC
+became big. The End. I don't think I've watched a more inconsequential
+business story in my life. A story of suger'ed water essentially.
 
 ---
 
-Exactly. And we should be ready for that. Plus that 10 KW number
-itself will grow, for everyone.
+Full list. Monaco at \#13.
 
-Leaving that aside, even today's energy requirements are out of reach
-for bats
-
-"You said lith mines aren't enough.. But [10 KW per
-person](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
-energy consumption is based on everyone consuming in US standards"
+[Link](https://unctad.org/system/files/official-document/rmt2018_en.pdf)
 
 ---
 
-People making movies don't necessarily understand what they are
-making, in the analytical sense. Art connects at many levels, one of
-them is emotion, which is below analytical mind. Then movie makers
-connecting to that in the audience also go through their own
-subconcious. George Lucas thought he was making a movie with
-allegories to Nazi Germany, Vietnam, Nixon, but he ended up making a
-movie about early Christians and Rome in *Star Wars*. TV show *Lost*
-looked like an existential drama, pondering the afterlife, or abt
-nothing at all with random people running around through a
-confusion-made-cool wizardry, but the show is actually about our
-hunter-gatherer experience, and ills of modernity.
+Top shipping country.. no kidding.
+
+Topper than even Japan. Baddest shippers? Not malakia...
+
+"Greece Marks The Top Of Most Ship Owning Nations In 2018... World
+Fleet Values Ranking [is released]. Topping the list is Greece, with
+an owned fleet worth just shy of 100 billion USD, followed closely by
+Japan and China, worth 89 and 84 billion USD respectively"
+
+[Link](https://www.marineinsight.com/shipping-news/greece-marks-top-ship-owning-nations-2018)
 
 ---
 
-[Apple's patent](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&p=1&f=G&l=50&d=PTXT&S1=(apple.ASNM.+AND+20200929.PD.)&OS=an/apple+and+isd/9/29/2020&RS=(AN/apple+AND+ISD/20200929))
+"World Energy Council-Germany: The Global Hydrogen Age has Arrived"
+
+[Link](https://fuelcellsworks.com/news/world-energy-council-germany-the-global-hydrogen-age-has-arrived/)
 
 ---
 
-😶 Wow.. 
+And.. can this union be effective? Half the countries are on the
+opposite side of the world
 
-"@chemical_ben
-
-\#Apple files patents for \#hydrogen fuel cell powered laptops and cell
-phones"
+(Literally, like Canada and Australia)
 
 ---
 
-"In collaboration with colleagues at universities and institutions in
-the UK, China and the Kingdom of Saudi Arabia, researchers in
-the Edwards/ Xiao group at Oxford’s Department of Chemistry have
-developed a method of converting plastic waste into hydrogen gas which
-can be used as a clean fuel"
+CANZUK? A strategic union between Canada, Australia, NZ and UK?
+Potentially military one? Without the US?
 
-[Link](https://www.ox.ac.uk/news/2020-10-13-turning-plastic-waste-hydrogen-and-high-value-carbons)
+They will be against it vehemently and undermine it every chance they
+get. That would be my first reaction.
 
 ---
 
-A, AB blood types more susceptible to covid? 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Walter Huber, Member of the Board, Institute of Innovative Technologies, South Tyrol,<a href="https://twitter.com/H2_SouthTyrol?ref_src=twsrc%5Etfw">@H2_SouthTyrol</a> and the plans to create the first EUREGIO corridor of refuelling stations for <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> trucks🚛together with neighbouring regions of Tirol and Trentino 🇦🇹&amp;🇮🇹<a href="https://twitter.com/hashtag/GreenEurope?src=hash&amp;ref_src=twsrc%5Etfw">#GreenEurope</a> <a href="https://twitter.com/hashtag/EURegionsWeek?src=hash&amp;ref_src=twsrc%5Etfw">#EURegionsWeek</a> <a href="https://t.co/aZu4xkuzgP">https://t.co/aZu4xkuzgP</a> <a href="https://t.co/erZd9oy1cC">pic.twitter.com/erZd9oy1cC</a></p>&mdash; FCH JU (@fch_ju) <a href="https://twitter.com/fch_ju/status/1318865426361798656?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"French President Macron Wants to Advance Hydrogen Alliance with Berlin"
+New Marvel or DC character idea
 
-[Link](https://mobile.twitter.com/fuelcellsworks/status/1317831567977435136)
+"@AP_Oddities
 
----
-
-Forbes: "The Green Hydrogen Revolution Is Now Underway"
-
-[Link](https://www.forbes.com/sites/arielcohen/2020/10/19/the-green-hydrogen-revolution-is-now-underway)
-
----
-
-Tragic
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *five times* the Exxon Valdez spill. The Caribbean Sea would never be the same. <a href="https://t.co/BOOH2h9kOO">https://t.co/BOOH2h9kOO</a></p>&mdash; Eric Holthaus (@EricHolthaus) <a href="https://twitter.com/EricHolthaus/status/1318165685172883457?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Shell shock: Scientists say the armor of a seemingly indestructible
+beetle offers clues for designing stronger planes and buildings. The
+aptly named diabolical ironclad beetle can withstand being crushed by
+forces almost 40,000 times its body weight"
 
 ---
 
-Chris Hedges: "The Democrats and their liberal apologists adopt
-tolerant positions on issues regarding race, religion, immigration,
-women's rights and sexual identity and pretend this is politics. But
-these issues are societal or ethical issues; they are important, but
-they are not social or political issues. The seizure of control of the
-economy by a class of global speculators and corporations has ruined
-the lives of the very groups the democrats pretend to lift up. When
-Bill Clinton and the Democratic Party for example destroyed the old
-welfare system 70% of the recipients were children. Those on the right
-of the political spectrum, and we must never forget that the positions
-of the Democratic party would make it a far right party in Europe,
-demonize those on the margins of society as scapegoats. The culture
-wars mask the reality both parties are full partners in the
-destruction of our democratic institutions, both parties have
-reconfigured American society into a mafia state"
-
-[Link](https://youtu.be/GxSN4ip_F6M?t=1717)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our third in our &quot;Between the Coasts&quot; blog post focuses on how <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> opportunities, like most things, are bigger in Texas! <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/K8oXqEnHrt">https://t.co/K8oXqEnHrt</a></p>&mdash; FCHEA (@FCHEA_News) <a href="https://twitter.com/FCHEA_News/status/1318571089631596546?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
+"@samjmintz
 
-Last updated on *2020-10-21 08:54*
+With Biden's campaign talking about big plans for rail, here's a map
+that Amtrak is circulating with ambitious but realistic expansions
+over the next 15 years. The railroad says this would cost $25 billion"
+
+[Link](https://twitter.com/samjmintz/status/1318910466798780416)
+
+---
+
+"@gabriel_zucman
+
+Cash income for the top 0.1 percent has increased 374% since 1980
+(vs. 26% for the bottom 50%)"
+
+---
+
+"Thai protesters give prime minister three days to
+resign.. Demonstrators handed in a 'resignation form' for Thai PM
+Prayuth Chan-ocha to sign, saying they would return in three days if
+their demands were not met. The move came as Prayuth offered to lift
+an emergency decree"
+
+---
+
+This thing is still going on.. Interesting
+
+<img width="340" src="https://cdn.theatlantic.com/thumbor/NAssBe7iY2IoU1_Z6Er8HMz4n6I=/600x400/media/img/photo/2020/10/thailand/a12_1229085520/original.jpg"/>
+
+[Link](https://www.theatlantic.com/photo/2020/10/photos-pro-democracy-protests-thailand/616805)
+
+---
+
+Last updated on *2020-10-22 10:29*
 
 ---
 
