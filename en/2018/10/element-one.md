@@ -12,8 +12,7 @@ battery-electric aircrafts".
 
 I love the name. Probably comes from the fact that H is the first
 element in the periodic table. Hydrogen on an aircraft is actually not
-that far-fetched. NASA [used
-it](https://www.nasa.gov/content/space-applications-of-hydrogen-and-fuel-cells)
+that far-fetched. NASA [used it](https://www.nasa.gov/content/space-applications-of-hydrogen-and-fuel-cells)
 as a rocket fuel for decades.
 
 [Link](https://www.now-gmbh.de/en/news/press/germanys-50th-hydrogen-refuelling-station-opened-in-potsdam)
@@ -22,14 +21,9 @@ as a rocket fuel for decades.
 Potsdam Germany] H2 MOBLITY partners Linde and TOTAL celebrated [the
 event]".
 
-Go Krauts.
-
-Comment
-
-Tesla Supercharging stations [..] take about 20 minutes to charge to
-50%, 40 minutes to charge to 80%, and 75 minutes to 100%
-
-Too slow. Hyundai Nexo, or Toyota Mirai, or Nikola will refuel under 5
+"Tesla Supercharging stations [..] take about 20 minutes to charge to
+50%, 40 minutes to charge to 80%, and 75 minutes to 100%" Too
+slow. Hyundai Nexo, or Toyota Mirai, or Nikola will refuel under 5
 minutes.
 
 [News](https://www.youtube.com/watch?v=hMxUfBGvJvM)
@@ -43,32 +37,13 @@ Looks like a comfortable ride.
 
 [Jeremy Clarkson](https://www.alphr.com/cars/1002996/jeremy-clarkson-thinks-hydrogen-fuel-is-the-future-of-cars)
 
-I'm baffled by the car industry's apparent reluctance to think more
+"I'm baffled by the car industry's apparent reluctance to think more
 seriously about hydrogen as a replacement for petrol and diesel, H is
 the most abundant element in the universe, so we wouldn't run out of
 it for about a billion years, and it's clean too. A car powered by
 [HFC] produces nothing from its tailpipe but water [..] The motor
 industry would stop fiddling about with its pointless batteries and
 its hybrid-drive systems and get on the only road where there is
-actually a future for personal mobility. The hydrogen road.
+actually a future for personal mobility. The hydrogen road"
 
-Right
-
-Clarkson was the host of the popular car show Top Gear.  Other
-developments: Researchers from the School of Engineering in Temasek
-Polytechnic (TP) have invented the world’s smallest and lightest HFC
-in Singapore. Japan's PM Abe wrote a piece for FT, and talked about
-Japan's non-fossil fuel future. Nikola CEO complained that "California
-Air Resources Board gave a grant of $41,000,000 to big oil and diesel
-truck manufacturers [shady]".
-
-
-
-
-
-
-
-
-
-
-
+Clarkson was the host of the popular car show Top Gear. 

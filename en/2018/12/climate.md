@@ -10,8 +10,6 @@ What Can I Do?
 
 [Element One](../../2018/10/element-one.md)
 
-[CSIRO](../../2018/10/csiro.md)
-
 [Hydrogen Cars](../../2018/09/hydrogen-cars.md)
 
 [Nexo](../../2018/09/hyunda-nexo-additions.md)

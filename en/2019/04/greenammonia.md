@@ -76,3 +76,7 @@ Also
 
 [Fracked Up (and Ammonia)](../../2018/10/fracked-up.md)
 
+[CSIRO](../../2018/10/csiro.md)
+
+[Bill David Presentation](https://youtu.be/qEut7o-b5hY?t=250)
+
