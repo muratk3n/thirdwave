@@ -22,7 +22,7 @@ What Can I Do?
 
 [Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.md)
 
-[Carbon Capture, Fuel Generation](../../2019/01/carboncapture.md)
+[Carbon Capture](../../2019/01/carboncapture.md)
 
 Is It Real?
 
