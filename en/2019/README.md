@@ -28,8 +28,6 @@
 
 [Green Ammonia](04/greenammonia.md)
 
-[First Export, Element One](04/h2x.md)
-
 [Q&A - 6/4](04/qa-0604.md)
 
 [Q&A - 18/4](04/qa-1804.md)
