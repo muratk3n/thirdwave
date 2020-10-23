@@ -12,7 +12,8 @@
 
 [Paraffin Wax](../../2018/10/paraffin-wax.md)
 
+[Methyl Cyclohexane](../../2020/10/methyl-cyclohexane-h2.md)
 
-
+[[⇪Up]](../..)
 
 

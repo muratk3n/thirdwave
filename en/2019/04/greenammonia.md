@@ -70,7 +70,8 @@ can sound familiar, this process is the breakthrough technology that
 allowed the production of fertilizers, and thereby more than 5-fold
 increase in agriculture output.
 
+Also
 
-
+[Ammonia](../../2018/10/ammonia.md)
 
 
