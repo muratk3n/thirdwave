@@ -15,7 +15,7 @@ amok selling snake oil.
 
 Collated previous posts.
 
-[H2 Storage Options](2020/10/liquified-h2.md)
+[H2 Storage Options](2020/10/h2-storage.md)
 
 ---
 
