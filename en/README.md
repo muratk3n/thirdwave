@@ -50,9 +50,7 @@ Ask Merkel.
 ---
 
 AFAIK carbon capture works; last I heard abt it was from [Dr. Finkel](2019/01/carboncapture.md),
-a.k.a Oz Chief Scientist.
-
-Have doubts? Ax Finkel.
+a.k.a Oz Chief Scientist. Have questions? Ask Finkel.
 
 ---
 
@@ -97,7 +95,9 @@ liberal types, and they will never vote Trump.
 
 ---
 
-More of a tie this time, but Biden still edged out somewhat \#debate
+More of a tie this time, but Biden still edged out somewhat
+
+\#debate
 
 ---
 
