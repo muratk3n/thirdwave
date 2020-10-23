@@ -12,8 +12,6 @@ What Can I Do?
 
 [CSIRO](../../2018/10/csiro.md)
 
-[Fracked Up (and Ammonia)](../../2018/10/fracked-up.md)
-
 [Hydrogen Cars](../../2018/09/hydrogen-cars.md)
 
 [Nexo](../../2018/09/hyunda-nexo-additions.md)

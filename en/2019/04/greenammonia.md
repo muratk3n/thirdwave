@@ -74,4 +74,5 @@ Also
 
 [Ammonia](../../2018/10/ammonia.md)
 
+[Fracked Up (and Ammonia)](../../2018/10/fracked-up.md)
 
