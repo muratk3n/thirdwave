@@ -54,3 +54,7 @@
 
 [Floating City Design](10/floating-city.md)
 
+[H2 Storage Options](10/h2-storage.md)
+
+[Liquified H2](10/liquified-h2.md)
+

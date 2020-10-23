@@ -16,8 +16,6 @@
 
 [Malevolence? Incompetence?](01/malevolence-incompetence.md)
 
-[Metallic Hydrogen](01/metallic-hydrogen.md)
-
 [#millenials](01/millenials.md)
 
 [#partypoopah](01/partypoopah.md)

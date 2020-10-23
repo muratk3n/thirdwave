@@ -17,8 +17,7 @@ breakers that are needed to prevent serious accidents. Collectively,
 these safety devices are called switchgear. The vast majority use SF6
 gas to quench arcs and stop short circuits.
 
-Evidence against this big hunking electric grid hardware is piling
-up.. I say, do away with it and have a gas-grid which would both
-support heating and electric generation through fuel-cells. EVs could
-easily be fueled through from this grid, heating gets the gas it needs
-right away.
+"As renewable projects are getting bigger and bigger, we have had to
+use it within wind turbines specifically ... " says engineer in the
+post above.
+

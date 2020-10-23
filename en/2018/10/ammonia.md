@@ -30,16 +30,3 @@ cells to use NH3 directly in the FC. No carbon emissions in either
 case.
 
 Exciting possibilities.
-
-
-
-
-
-
-
-
-
-
-
-
-

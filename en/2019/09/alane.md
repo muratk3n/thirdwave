@@ -2,7 +2,8 @@
 
 [Link](https://phys.org/news/2016-09-team-alane-hydrogen-fuel-option.amp)
 
-Team discovers way to make alane a better hydrogen fuel option for vehicles.
+Team discovers way to make alane a better hydrogen fuel option for
+vehicles.
 
 "Alane is great because it meets all of the criteria put forth by the
 Department of Energy for hydrogen fuel cell vehicles for energy

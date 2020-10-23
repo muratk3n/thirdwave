@@ -196,6 +196,8 @@
 
 [Fracked Up (and Ammonia)](10/fracked-up.md)
 
+[Paraffin Wax](10/paraffin-wax.md)
+
 [Patent Codebook](10/patents-code.md)
 
 [Q&A - 14/10](10/q-1410.md)
@@ -205,8 +207,6 @@
 [Q&A - 29/10](10/q-2910.md)
 
 [The Case Against Patents](10/the-case-against-patents.md)
-
-[Wax On](10/wax-on.md)
 
 [Drinking Water from Air](11/drinking-water-from-air.md)
 
@@ -222,13 +222,13 @@
 
 [MPP Analysis](11/mpp-analysis.md)
 
-[EV powered by Solid H2](11/powered-by-solid-h2_26.md)
-
 [Q&A - 17/11](11/q-1711.md)
 
 [Q&A - 21/11](11/q-2111.md)
 
 [#russia #russia #russia](11/russia-russia-russia.md)
+
+[Solid H2, Nanopowders](11/solid-h2-nanopowders.md)
 
 [The surprising resurgence of hydrogen fuel](11/the-surprising-resurgence-of-hydrogen.md)
 
