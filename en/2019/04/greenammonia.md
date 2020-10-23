@@ -80,3 +80,8 @@ Also
 
 [Bill David Presentation](https://youtu.be/qEut7o-b5hY?t=250)
 
+[GenCell and Ammonia](2019/07/gencell.md)
+
+
+
+
