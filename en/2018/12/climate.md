@@ -33,3 +33,6 @@ Is It Real?
 [The Math for Greenhouse Effect and Global Warming](../../2019/07/greenhouse-effect-math.md)
 
 [[⇪Up]](../..)
+
+
+
