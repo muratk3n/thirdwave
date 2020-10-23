@@ -20,7 +20,7 @@ What Can I Do?
 
 [Green Train](../../2018/12/train.md)
 
-[Battery Fueled by Iron and Water, Flow Batteries](../../2018/07/battery-fueled-by-iron-and-water.md)
+[Flow Batteries, Built with Iron and Water](../../2018/07/battery-fueled-by-iron-and-water.md)
 
 [Carbon Capture, Fuel Generation](../../2019/01/carboncapture.md)
 
