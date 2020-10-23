@@ -6,8 +6,6 @@ What Can I Do?
 
 [H2 Numbers](../../2020/07/h2-numbers.md)
 
-[First Export, Element One](../../2019/04/h2x.md)
-
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.md)
 
 [Element One](../../2018/10/element-one.md)
