@@ -10,8 +10,6 @@ What Can I Do?
 
 [Element One](../../2018/10/element-one.md)
 
-[Hydrogen Cars](../../2018/09/hydrogen-cars.md)
-
 [Nexo](../../2018/09/hyunda-nexo-additions.md)
 
 [Nikola](../../2018/09/nikola.md)
@@ -31,6 +29,4 @@ Is It Real?
 [The Math for Greenhouse Effect and Global Warming](../../2019/07/greenhouse-effect-math.md)
 
 [[⇪Up]](../..)
-
-
 
