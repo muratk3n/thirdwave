@@ -59,10 +59,3 @@ hydrogen fuel technologies
 
 [Link](https://elkodaily.com/lifestyles/professor-hanington-s-speaking-of-science-storing-hydrogen-in-a/article_a400c9cf-afbb-5668-aff1-c046fa347470.html)
 
-*---*
-
-Cheap, allows storage four times as much as current tech. What's not
-to like? 
-
-I see Chrysler is in the list of funders. Can they utilize the tech
-soon? Any cars in the works using this?

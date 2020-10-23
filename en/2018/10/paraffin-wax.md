@@ -25,21 +25,9 @@ releasing large amounts of hydrogen—sufficient to meet the 7 wt%
 target set by the US DOE—through microwave-assisted catalytic
 decomposition.
 
-This discovery, reported in an open-access paper in Scientific Reports, offers a new material and system for safe and efficient hydrogen storage and could facilitate its application in a hydrogen fuel cell vehicle. Hydrocarbon wax is the major product of the low temperature Fischer-Tropsch synthesis process from syngas and is currently thermally “cracked” to produce various fuels.
-
---
-
-Also see
-[Reuters](https://www.reuters.com/article/us-usa-military-industry/trump-says-pentagon-to-produce-lithium-sea-water-batteries-idUSKCN1MG01V). The
-material mentioned there, alane, is aluminum hydride (AlH3) providing
-another storage method. Interesting new developments in this space.
-
-
-
-
-
-
-
-
-
-
+This discovery, reported in an open-access paper in Scientific
+Reports, offers a new material and system for safe and efficient
+hydrogen storage and could facilitate its application in a hydrogen
+fuel cell vehicle. Hydrocarbon wax is the major product of the low
+temperature Fischer-Tropsch synthesis process from syngas and is
+currently thermally “cracked” to produce various fuels.

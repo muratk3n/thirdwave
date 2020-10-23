@@ -43,6 +43,3 @@ time and is unaffected by temperature variations. It does not require
 massive capital investment to develop new infrastructure, and can be
 recycled and regenerated"
 
----
-
-Government has the best toyz, best recent tech, no doubt.

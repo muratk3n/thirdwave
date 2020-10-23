@@ -21,18 +21,3 @@ vehicle powered by solid hydrogen fuel emitted from Nanopowders.
 induced magnesium hydride adsorption by ultra-smooth granules of the
 glass alloy (ZrNiPd)," Al-Sayegh added.
 
-------
-
-Phonemonal. Good to see Gulf countries researching new energy, it
-looks like they landed on all fours again, blessed first with fossil
-resources, and lots of sunshine. As Australia is planning to do, they
-could easily become major exporters of energy, green this time, yet
-again.
-
-Whenever I hear the word "solid" or "liquid" related to H, I pay
-attention, because it will mean even easier transportation. There is a
-company in Japan called Chiyoda who has Spera Hyd
-[technology](https://www.chiyodacorp.com/en/service/spera-hydrogen/innovations/),
-that allows them to store fuel in liquid form, at regular temparature
-and pressure. Then H can be transported just like oil.
-
