@@ -135,8 +135,8 @@ Just kidding.. it's okay.
 
 ---
 
-Yep.. [this post](2019/08/manganese-hydride.md) reminded me, Kubas
-Manganese Hydride-1, then I saw a company is working on it -
+Yep.. [this post](2019/08/manganese-hydride.md) reminded me, Manganese
+Hydride-1, then I saw a company is working on it -
 [Kubagen](https://www.kubagen.co.uk)
 
 ---
