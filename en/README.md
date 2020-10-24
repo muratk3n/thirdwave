@@ -1,107 +1,147 @@
 # Tweets
 
-Some reorg on [climate](2018/12/climate.md) posts
+HEP is recommended by Gianotti, Giudice..? You know the goombah are
+just looking for another New Jersey, that one-step away place to move
+to and never to move from again.. They got no experimentation. They
+gon sit on ass and eat ziti all day long, that's what they want.
 
 ---
 
-This is what we get when the base tech is solid, as in simple,
-efficient; Options multiply.
-
-When the base is wrong, like batteries, then it's about limited
-resources, coups, cretin, inbred, half-brained celebrities running
-amok selling snake oil.
+The same problem keeps showing up again and again. Flailing in a
+random direction is confused with "courage", "experimentation", or
+"being adventerous". You gotta choose in which direction to shoot,
+being mindful of ammo. Some trials are more promising than others.
 
 ---
 
-Collated previous posts.
+"While HEP [high energy physics, colliders] experiment is facing
+difficult times because of fundamental physical, engineering and
+economic limits, the problems of HEP theory are mostly
+self-inflicted. The decision nearly 40 years ago by a large fraction
+of the field to orient their research programs around bad ideas that
+don’t work (SUSY extensions of the Standard Model and string theory
+unification), then spend decades refusing to acknowledge failure is at
+the core of the sad state of the subject these days ..
 
-[H2 Storage Options](2020/10/h2-storage.md)
+About the canniest and most influential HEP theorist around is Nima
+Arkani-Hamed, and a few days ago I watched an interview of him by
+Janna Levin. On the question of the justification for a new collider,
+he’s careful to state that the justification is mainly the study of
+the Higgs. He’s well aware that the failure of the 'naturalness'
+arguments for weak-scale SUSY needs to be acknowledged and does so. He
+also is well aware that any attempt to argue this failure away by
+saying 'we just need a higher energy collider' won’t pass the laugh
+test ...
 
----
+The most disturbing aspect of the interview is that Levin devotes a
+lot of time (and computer graphics) to getting Arkani-Hamed to explain
+his 1998 ideas about 'large extra dimensions', repeatedly telling the
+audience that he has been given a $3 million prize for them. ... 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ScienceThursdays?src=hash&amp;ref_src=twsrc%5Etfw">#ScienceThursdays</a> | This week we talk about the French strategy for the development of low-carbon <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <br><br>🔍 More info : <a href="https://t.co/O394YXN9Fa">https://t.co/O394YXN9Fa</a><a href="https://twitter.com/ARENA_aus?ref_src=twsrc%5Etfw">@ARENA_aus</a> ; <a href="https://twitter.com/ScienceChiefAu?ref_src=twsrc%5Etfw">@ScienceChiefAu</a> ; <a href="https://twitter.com/MinistereEt?ref_src=twsrc%5Etfw">@MinistereEt</a> ; <a href="https://twitter.com/IndustryGovAu?ref_src=twsrc%5Etfw">@IndustryGovAu</a> <a href="https://t.co/8JcebGbRlX">pic.twitter.com/8JcebGbRlX</a></p>&mdash; FranceinAustralia (@FranceAustralia) <a href="https://twitter.com/FranceAustralia/status/1319141185454133248?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+At the time it was pretty strange that a $3 million dollar prize was
+being given for ideas that weren’t working out. It’s truly bizarre
+though that Levin would now want to make such failed ideas the
+centerpiece of a presentation to the public, misleading people about
+their status. ...
 
----
+This is part of the overall weird situation of the failed ideas
+(SUSY/strings) of 40 years ago: they still live on in a dominant
+position when the subject is presented to the public"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From <a href="https://twitter.com/WSJ?ref_src=twsrc%5Etfw">@WSJ</a> : &quot;Major Energy Companies Bet Big on <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a>.&quot; 💯<br>s <a href="https://t.co/E9kVHszur7">https://t.co/E9kVHszur7</a> <a href="https://t.co/i8zrPTTnmb">pic.twitter.com/i8zrPTTnmb</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1319371959201914895?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"This aviation startup is soaring ahead with hydrogen-powered planes"
-
-[Link](https://edition.cnn.com/travel/article/zeroavia-zero-emission-hydrogen-planes-spc-intl/index.html)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">my favorite thing about running this account is everyone thinks it&#39;s hilarious until something they like is maybe bad</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1319415429207556096?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Recycling lith from used batteries? Hah! Yea.. You really dont want to
-be the guy doing that job, with all that frickin acid. I've heard of
-ppl who were hurt by that shit.
-
----
-
-Ask Merkel. 
-
-"I am a country, want to get into H2, usage, logistics. What to do?"
-
----
-
-AFAIK carbon capture works; last I heard abt it was from [Dr. Finkel](2019/01/carboncapture.md),
-a.k.a Oz Chief Scientist. Have questions? Ask Finkel.
+[Link](https://www.math.columbia.edu/~woit/wordpress/)
 
 ---
 
-Still prefer Navier-Stokes but good to keep in mind
+Particle Physicists Continue Empty Promises
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of the simplest fluid models is the so-called Trochoidal Wave<br><br>•It describes each water particle as tracing out a circle whose radius decreases exponentially with depth, &amp; has each particle share the same rotation frequency <a href="https://t.co/i5fx93TXQQ">pic.twitter.com/i5fx93TXQQ</a></p>&mdash; 〈 Berger |🎃| Dillon 〉 (@InertialObservr) <a href="https://twitter.com/InertialObservr/status/1226643526013767680?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s a major issue too. The fact that only a few American outlets even asked for credentials to cover the Assange case was awful. It&#39;s all related: they&#39;re constantly narrowing the parameters of permissible information flow. <a href="https://t.co/USLoG5LM1A">https://t.co/USLoG5LM1A</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1319048503222542336?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://youtu.be/9qqEU1Q-gYE)
 
 ---
 
-The moderator was more low-key, the previous guy had too much flash,
-he is the ambush guy, the griller, which is fine, but his style could
-raise tensions somewhat (again ok on my end but most didn't like the
-last debate for its tone).
+If it was, it was misguided. EU is not on the opposite side of the
+world, it is UK's next door neighbor with existing trade over a
+trillion $ annually.
 
-\#debate
+The CATZUK idea is more globalization-inspired than EU relation ever
+could be.. No wonder it is sold as part of "global Britain". It is
+ironic an anti-globalization movement flirting with
+globalization. Maybe it's just abt ppl missing the days when Britain
+was tearing shit up overseas. Good times. But those days are gone, right?
 
----
+Why not experiment with new ideas like floating cities, instead of
+reliving old ones? In international waters, anyone can create such
+structures. They would create lots of innovation.
 
-Well near the end there Biden did say "transition".
-
-\#debate \#climate
-
----
-
-[Brunch liberals](https://medium.com/@m.boop127/brunch-delusions-of-mediocrity-and-american-liberalism-1245e5acb73e)
-
----
-
-I don't understand why Trump thinks 401k performance is a winning
-issue for him; most 401k holders are the top 20%, "resistance", brunch
-liberal types, and they will never vote Trump.
-
-\#debate
+"Was Brexit abt being against globalization?"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The bottom 50% owns $0.16 trillion in stocks<br><br>The top 1% owns $14.04 trillion in stocks<a href="https://t.co/JuIHG72Ltq">https://t.co/JuIHG72Ltq</a> <a href="https://t.co/O9XLLj5Lwx">pic.twitter.com/O9XLLj5Lwx</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1319458623240597505?ref_src=twsrc%5Etfw">October 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">North Dakota, with more new cases of coronavirus per capita than any other state right now, wants to give oil companies $200,000 each in unused federal pandemic relief money to finish fracking uncompleted oil wells. By ⁦<a href="https://twitter.com/amyrsisk?ref_src=twsrc%5Etfw">@amyrsisk</a>⁩ <a href="https://t.co/EfmjeT1TFl">https://t.co/EfmjeT1TFl</a></p>&mdash; Erika Bolstad (@erikabolstad) <a href="https://twitter.com/erikabolstad/status/1319266537686007810?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-More of a tie this time, but Biden still edged out somewhat
 
-\#debate
+"@scottdetrow
+
+[On] Pennsylvania and fracking. There are a LOT of things us national
+reporters are oversimplifying and dumbing down here. ...  Fracking –
+more accurately the energy economy that has sprung up around it -- has
+been a real boost to the state, particularly Western Pa. Pittsburgh
+has become a Houstoneque energy hub.
+
+It’s always been controversial and many Pennsylvanians have been
+skeptical – particularly in the vote-rich eastern half of the
+state. And as both Dem and GOP governors underregulated, voters wanted
+more scrutiny. While money poured in some places, other communities were very
+underwhelmed by the promises vs the reality. 
+
+There have been environmental red flags from day 1.  ... this is not
+longer the fast-booming energy economy it was a decade ago. Thousands
+of wells have been drilled, and energy prices have dropped. Both have
+led to a relative slowdown. Voters aren’t as obsessed as GOP thinks
+they are"
+
+[Link](https://twitter.com/scottdetrow/status/1319642039563288576)
 
 ---
 
-Last updated on *2020-10-23 11:17*
+"Ardica specializes in the production of Alane, a highly stable,
+extremely lightweight hydrogen powder now used by a select set of
+customers in industrial and military applications. The U.S. Army has
+been working closely with Ardica for many years to test Alane’s
+superior ability to power a wide range of mobile and vehicular
+applications. By replacing traditional batteries, Alane greatly
+reduces weight and extends operations while increasing the safety and
+efficiency of the soldiers.
+
+The U.S. Army chose Alane because it can be stored, shipped, stocked,
+and accessed easily. Alane does not lose its energy potential over
+time and is unaffected by temperature variations. It does not require
+massive capital investment to develop new infrastructure, and can be
+recycled and regenerated"
+
+[Link](https://www.tdworld.com/grid-innovations/generation-and-renewables/article/20973112/the-next-chapter-in-the-story-of-hydrogen-power)
+
+---
+
+Yea.. Spain should get rid of its monarchy. Great idea. Go for it.
+
+---
+
+What pisses me off? The guy learning a topic from my tutorials after I
+shat bricks collating info for that tutorial.
+
+Just kidding.. it's okay. 
+
+---
+
+Yep.. [this post](2019/08/manganese-hydride.md) reminded me, Kubas
+Manganese Hydride-1, then I saw a company is working on it -
+[Kubagen](https://www.kubagen.co.uk)
+
+---
+
+Last updated on *2020-10-24 09:57*
 
 ---
 
