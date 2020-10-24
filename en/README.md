@@ -8,7 +8,7 @@
 HEP is recommended by Gianotti, Giudice..? You know the goombah are
 just looking for another New Jersey, that one-step away place to move
 to and never to move from again.. They got no experimentation. They
-gon sit on ass and eat ziti all day long, that's what they want.
+gon sit on their ass and eat ziti all day long, that's what they want.
 
 ---
 
