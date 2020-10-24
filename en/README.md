@@ -74,8 +74,8 @@ globalization. Maybe it's just abt ppl missing the days when Britain
 was tearing shit up overseas. Good times. But those days are gone, right?
 
 Why not experiment with new ideas like floating cities, instead of
-reliving old ones? In international waters, anyone can create such
-structures. They would create lots of innovation.
+reliving old ones? On international waters, anyone can create such
+structures, and they would spur lots of innovation.
 
 "Was Brexit abt being against globalization?"
 
