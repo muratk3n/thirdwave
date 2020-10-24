@@ -67,7 +67,7 @@ If it was, it was misguided. EU is not on the opposite side of the
 world, it is UK's next door neighbor with existing trade over a
 trillion $ annually.
 
-The CATZUK idea is more globalization-inspired than EU relation ever
+The CANZUK idea is more globalization-inspired than EU relation ever
 could be.. No wonder it is sold as part of "global Britain". It is
 ironic an anti-globalization movement flirting with
 globalization. Maybe it's just abt ppl missing the days when Britain
