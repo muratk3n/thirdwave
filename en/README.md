@@ -1,5 +1,10 @@
 # Tweets
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The time of hydrogen gigaprojects has come! <a href="https://t.co/eZX2EsVals">https://t.co/eZX2EsVals</a></p>&mdash; Thierry Lepercq (@ThierryLepercq_) <a href="https://twitter.com/ThierryLepercq_/status/1319603681629736961?ref_src=twsrc%5Etfw">October 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 HEP is recommended by Gianotti, Giudice..? You know the goombah are
 just looking for another New Jersey, that one-step away place to move
 to and never to move from again.. They got no experimentation. They
