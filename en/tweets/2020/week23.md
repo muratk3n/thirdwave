@@ -794,12 +794,6 @@ CAMERA+"
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">In 2012 I published a piece called The Housing Crash and the End of American Citizenship outlining the collapse of our social contract and predicting the rise of authoritarian trends and social disorder. None of this is unexpected. <a href="https://t.co/yI7Iemy3fC">pic.twitter.com/yI7Iemy3fC</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1267450154153660416?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-06-01 21:41:12*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The US Department of <a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@Energy</a>’s (DOE’s) <a href="https://twitter.com/fossilenergygov?ref_src=twsrc%5Etfw">@fossilenergygov</a> has announced up to $30 in federal funding for cost-shared research and development projects for small-scale solid oxide <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> systems and <a href="https://twitter.com/hashtag/hybrid?src=hash&amp;ref_src=twsrc%5Etfw">#hybrid</a> energy systems.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/5JQYrtozTH">https://t.co/5JQYrtozTH</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1267399396385271808?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-6-1 16:53:55*
@@ -1394,11 +1388,6 @@ energy transition strategy that is turning its attention to toward
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;You might as well endeavor to stay the formation of the clouds, the falling of the rains, or the flowing of the streams, as to attempt in any manner to prevent the aggregation of capital.&quot; - S.C.T. Dodd of Standard Oil, 1900, from his book &quot;Trusts&quot; <a href="https://t.co/M3CmLsQNCB">https://t.co/M3CmLsQNCB</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1266372602081112064?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-29 21:57:09*
-
----
 
 "@ggreenwald
 

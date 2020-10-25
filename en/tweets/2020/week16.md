@@ -833,29 +833,9 @@ DJT net popul down to -7%, from -4%.
 
 ---
 
-"@matthewstoller
-
-I mean it's not as if Obama's antitrust division allowed the
-Ticketmaster-Livenation merger because Rahm Emanuel's brother Ari
-Emanuel was on the board and lobbied for it...
-
-'@lambgoat Ticketmaster Changes Policy and Will No Longer Refund Postponed Shows'"
-
-*2020-4-14 7:13:2*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If oil goes any lower, Exxon Mobil might have to layoff some members of Congress.</p>&mdash; Joseph Fahmy (@jfahmy) <a href="https://twitter.com/jfahmy/status/1249673448680554499?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-13 20:15:1*
-
----
-
-@matthewstoller
-
-If the Post Office had used 96% of its cash flow to buy back stock instead of deliver mail to rural areas it would have been bailed out by the Fed in March.
-
-*2020-4-13 19:15:22*
 
 ---
 

@@ -271,13 +271,6 @@ Mustache gone
 
 ---
 
-Someone said once if everyone in the world went to Texas, it would
-merely be as dense as Hong Kong.
-
-*2019-9-11 14:56:27*
-
----
-
 West Bank is 5 times as large as Hong Kong, but has 1/3 of HK
 population. Earth is large.
 

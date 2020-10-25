@@ -580,19 +580,6 @@ is hilarious.
 
 ---
 
-"@matthewstoller
-
-Just listening to the Senate floor. It's a line of Republican Senators
-accusing Democrats of treason with an occasional Democratic Senator
-sometimes giving a speech on how bipartisan everyone is being and
-telling the GOP not to lose heart.
-
-Bizarro land"
-
-*2020-3-24 20:17:10*
-
----
-
 When used as last recourse, under med supervision it works. Dont eat
 the shit like it is candy 🤨🤷‍♂️🤷‍♂️
 
@@ -618,12 +605,6 @@ screwed.
 Junk at 12.39%
 
 *2020-3-24 17:53:5*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t have a problem getting medical supplies from the Chinese. That&#39;s who makes them right now. I do have a huge problem with the insipid business boosterism pretending that our business leaders are heroic when they are just doing online shopping. <a href="https://t.co/UM4hNGnfmC">https://t.co/UM4hNGnfmC</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1242460323589873670?ref_src=twsrc%5Etfw">March 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-24 17:46:56*
 
 ---
 

@@ -906,12 +906,6 @@ showed up short after.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And they say no one is ever held accountable for anything <a href="https://t.co/nzzSEnwjpy">https://t.co/nzzSEnwjpy</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1221445477322936323?ref_src=twsrc%5Etfw">January 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-27 2:9:30*
-
----
-
 "@Motorhead
 
 Shanghai now at Level 1 emergency response, the highest

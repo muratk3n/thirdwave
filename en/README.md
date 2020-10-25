@@ -1,152 +1,110 @@
 # Tweets
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The time of hydrogen gigaprojects has come! <a href="https://t.co/eZX2EsVals">https://t.co/eZX2EsVals</a></p>&mdash; Thierry Lepercq (@ThierryLepercq_) <a href="https://twitter.com/ThierryLepercq_/status/1319603681629736961?ref_src=twsrc%5Etfw">October 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
-HEP is recommended by Gianotti, Giudice..? You know the goombah are
-just looking for another New Jersey, that one-step away place to move
-to and never to move from again.. They got no experimentation. They
-gon sit on their ass and eat ziti all day long, that's what they want.
-
----
-
-The same problem keeps showing up again and again. Flailing in a
-random direction is confused with "courage", "experimentation", or
-"being adventerous". You gotta choose in which direction to shoot,
-being mindful of ammo. Some trials are more promising than others.
-
----
-
-"While HEP [high energy physics, colliders] experiment is facing
-difficult times because of fundamental physical, engineering and
-economic limits, the problems of HEP theory are mostly
-self-inflicted. The decision nearly 40 years ago by a large fraction
-of the field to orient their research programs around bad ideas that
-don’t work (SUSY extensions of the Standard Model and string theory
-unification), then spend decades refusing to acknowledge failure is at
-the core of the sad state of the subject these days ..
-
-About the canniest and most influential HEP theorist around is Nima
-Arkani-Hamed, and a few days ago I watched an interview of him by
-Janna Levin. On the question of the justification for a new collider,
-he’s careful to state that the justification is mainly the study of
-the Higgs. He’s well aware that the failure of the 'naturalness'
-arguments for weak-scale SUSY needs to be acknowledged and does so. He
-also is well aware that any attempt to argue this failure away by
-saying 'we just need a higher energy collider' won’t pass the laugh
-test ...
-
-The most disturbing aspect of the interview is that Levin devotes a
-lot of time (and computer graphics) to getting Arkani-Hamed to explain
-his 1998 ideas about 'large extra dimensions', repeatedly telling the
-audience that he has been given a $3 million prize for them. ... 
-
-At the time it was pretty strange that a $3 million dollar prize was
-being given for ideas that weren’t working out. It’s truly bizarre
-though that Levin would now want to make such failed ideas the
-centerpiece of a presentation to the public, misleading people about
-their status. ...
-
-This is part of the overall weird situation of the failed ideas
-(SUSY/strings) of 40 years ago: they still live on in a dominant
-position when the subject is presented to the public"
-
-[Link](https://www.math.columbia.edu/~woit/wordpress/)
-
----
-
-Particle Physicists Continue Empty Promises
-
-[Link](https://youtu.be/9qqEU1Q-gYE)
-
----
-
-If it was, it was misguided. EU is not on the opposite side of the
-world, it is UK's next door neighbor with existing trade over a
-trillion $ annually.
-
-The CANZUK idea is more globalization-inspired than EU relation ever
-could be.. No wonder it is sold as part of "global Britain". It is
-ironic an anti-globalization movement flirting with
-globalization. Maybe it's just abt ppl missing the days when Britain
-was tearing shit up overseas. Good times. But those days are gone, right?
-
-Why not experiment with new ideas like floating cities, instead of
-reliving old ones? On international waters, anyone can create such
-structures, and they would spur lots of innovation.
-
-"Was Brexit abt being against globalization?"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">North Dakota, with more new cases of coronavirus per capita than any other state right now, wants to give oil companies $200,000 each in unused federal pandemic relief money to finish fracking uncompleted oil wells. By ⁦<a href="https://twitter.com/amyrsisk?ref_src=twsrc%5Etfw">@amyrsisk</a>⁩ <a href="https://t.co/EfmjeT1TFl">https://t.co/EfmjeT1TFl</a></p>&mdash; Erika Bolstad (@erikabolstad) <a href="https://twitter.com/erikabolstad/status/1319266537686007810?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1-6gUNTFEYg1dQ6wrYTonoOmYmrVTYPox"/>
 
 ---
 
 
-"@scottdetrow
-
-[On] Pennsylvania and fracking. There are a LOT of things us national
-reporters are oversimplifying and dumbing down here. ...  Fracking –
-more accurately the energy economy that has sprung up around it -- has
-been a real boost to the state, particularly Western Pa. Pittsburgh
-has become a Houstoneque energy hub.
-
-It’s always been controversial and many Pennsylvanians have been
-skeptical – particularly in the vote-rich eastern half of the
-state. And as both Dem and GOP governors underregulated, voters wanted
-more scrutiny. While money poured in some places, other communities were very
-underwhelmed by the promises vs the reality. 
-
-There have been environmental red flags from day 1.  ... this is not
-longer the fast-booming energy economy it was a decade ago. Thousands
-of wells have been drilled, and energy prices have dropped. Both have
-led to a relative slowdown. Voters aren’t as obsessed as GOP thinks
-they are"
-
-[Link](https://twitter.com/scottdetrow/status/1319642039563288576)
+"Recycling lithium" is a non-starter for another reason. Reserves are
+limited, as in insufficient, and since recycling does not magically
+create new reserves, the main problem remains unresolved. Not enough
+fucking lithium. 
 
 ---
 
-"Ardica specializes in the production of Alane, a highly stable,
-extremely lightweight hydrogen powder now used by a select set of
-customers in industrial and military applications. The U.S. Army has
-been working closely with Ardica for many years to test Alane’s
-superior ability to power a wide range of mobile and vehicular
-applications. By replacing traditional batteries, Alane greatly
-reduces weight and extends operations while increasing the safety and
-efficiency of the soldiers.
+Ikebe Shakedown- Tame The Beats \#music
 
-The U.S. Army chose Alane because it can be stored, shipped, stocked,
-and accessed easily. Alane does not lose its energy potential over
-time and is unaffected by temperature variations. It does not require
-massive capital investment to develop new infrastructure, and can be
-recycled and regenerated"
-
-[Link](https://www.tdworld.com/grid-innovations/generation-and-renewables/article/20973112/the-next-chapter-in-the-story-of-hydrogen-power)
+[Link](https://youtu.be/wYi1lr3gWwU)
 
 ---
 
-Yea.. Spain should get rid of its monarchy. Great idea. Go for it.
+Yennah - Red Noise \#music
+
+[Link](https://youtu.be/pU5aVYfE34w)
 
 ---
 
-What pisses me off? The guy learning a topic from my tutorials after I
-shat bricks collating info for that tutorial.
-
-Just kidding.. it's okay. 
-
----
-
-Yep.. [this post](2019/08/manganese-hydride.md) reminded me, Manganese
-Hydride-1, then I saw a company is working on it -
-[Kubagen](https://www.kubagen.co.uk)
+Trek isn't about the "Federation" necessarily either.. How do these
+fools at Bad Reboot (a JJ outfit) watch these shows? With eyes closed?
+They seem to have perfected the "superficial pay homage" move, e.g. in
+*Into the Darkness* Khan says "my name is Khan" veery deliberately, BR
+is like ok, u remember that right, I pressed that button now we are
+okay? That was cool right..? Like it's a fan thing..? It's not a fan
+thing. Roddenberry's creation is the whole package, not some building,
+or some word you pay random homage to.
 
 ---
 
-Last updated on *2020-10-24 09:57*
+"@mtaibbi
+
+Here we go, Facebook blocking Jacobin now.
+
+@sunraysunray 'Facebook is now blocking our videos for violating
+“community standards” that trigger certain key words'"
+
+[Link](https://twitter.com/mtaibbi/status/1320081786102317058)
+
+---
+
+What was the other one with the fax, and Internet..? Also NYT right?
+
+---
+
+🤣 🤣 🤣 
+
+“A rocket will never be able to leave the Earth's atmosphere". The New
+York Times, January 13, 1920.
+
+---
+
+Earth surface area (including sea) 510.1 million km².
+
+How much area for 1 person?
+
+```python
+area = ( 510.1  / (7.5 * 1e3) * 1e6  ) 
+print ("%.2f m2" %  area )
+print ("side %.2f m" %  np.sqrt(area) )
+```
+
+```text
+68013.33 m2
+side 260.79 m
+```
+
+Not too wide of an area.. a square with one side 260 meters..
+
+Lota people.
+
+---
+
+I cannot believe post 911 was spent on such shoddy-ass solutions on
+the climate. Pursued BTW by ppl who were seen as "smart" too. Simple
+arithmetic could have shown what's what... So sad.
+
+---
+
+"@HannaLiubakova
+
+\#Belarus Military vehicles are coming from various direction. Mobile
+internet is shutdown. 12 metro stations in #Minsk are closed. The
+authorities are clearly scared, as they are doing it earlier than
+usual"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10 days until the ?don?t pressure Dems before the 2020 election!? instantly becomes ?don?t pressure Dems before the 2022 election!? Gonna rule.</p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1320247516231708672?ref_src=twsrc%5Etfw">October 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+IMO there will come a time when Russia will actively be involved
+spreading democracy itself. At least to the level it itself has.
+
+---
+
+Last updated on *2020-10-25 15:17*
 
 ---
 

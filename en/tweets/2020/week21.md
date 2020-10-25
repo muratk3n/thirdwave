@@ -293,13 +293,6 @@ her"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s fascinating how Josh Hawley keeps rolling out pro-worker platforms, like payroll support, as well as anti-monopoly policy ideas. And yet liberals and leftists use calling Hawley a fraud or a fascist as an in-group social signal to each other. <a href="https://t.co/dmUbH4QLqj">https://t.co/dmUbH4QLqj</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1262819833961426946?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-*2020-5-20 12:26:34*
-
----
-
 Hah -- I read Dalia Lama said 'if robots are advanced enough, you will
 be able to reincarnate into them'.
 

@@ -152,16 +152,6 @@ for Brazil. How did this happen?! AA flt staff very upset"
 
 ---
 
-If you look for it you'll never find it dude.. It's magic.
-
-[YAAAAAAAAAAAAAA!](https://media.tenor.com/images/24f162cff595df43c95529e60305259f/tenor.gif)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/GovHowardDean?ref_src=twsrc%5Etfw">@GovHowardDean</a> the magic was ten years ago not becoming a gruesome corrupt lobbyist and ignoring the concerns of millions of people. <a href="https://t.co/IsT6lBqoB1">https://t.co/IsT6lBqoB1</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1231258239884562433?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-22 20:41:5*
-
----
-
 "@peterdaou
 
 EVERY anti-Bernie argument
@@ -543,14 +533,6 @@ toxic. If this toxic water seeps into ground it will poison its nearby
 area for decades.
 
 *2020-2-20 9:2:17*
-
----
-
-\#bloomberg \#demdebate
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">India is not a bigger problem than China on carbon emissions.</p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1230328985327984641?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-20 8:48:22*
 
 ---
 
@@ -1050,17 +1032,6 @@ dissident money built Florida's Miami, a quick reminder. There are
 saner Latin Am countries to like.
 
 *2020-2-17 15:55:10*
-
----
-
-Losing black vote to Trump would be HILARIOUS (and tragic).
-
-"@matthewstoller
-
-Trump is going to use Bloomberg's poor record on race as part of his
-appeal to black male working class voters"
-
-*2020-2-17 15:54:19*
 
 ---
 

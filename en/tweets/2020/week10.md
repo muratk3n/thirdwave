@@ -691,19 +691,6 @@ today China reported 7 new infection cases \*imported from Italy\* "
 
 ---
 
-Dems FTW. The party of the downtrodden. You inspire us all.
-
-"@matthewstoller
-
-The five most economically unequal states/political units in the
-nation are New York, DC, California, Connecticut, and Louisiana. Four
-out of five are run by Democrats. Four out of five most equal are run
-by Republicans"
-
-*2020-3-4 7:0:55*
-
----
-
 Go higher.
 
 Was that f-ing gov Cuomo saying it is abt 1%? How'd you calculate that

@@ -176,28 +176,6 @@ Geeky. I dig it. 🤓👨‍💻👨‍💻👍
 
 ---
 
-"@matthewstoller
-
-The answer is the Obama administration for letting airlines combine
-into oligopolies who then turn around and screw their customers with
-awful seating.
-
-'@MarinaMarraco
-
-This video has the internet legitimately divided .
-
-Dude is in the last seat on the plane. Seat doesn’t recline.
-
-Hers does. And she reclines.
-
-He’s upset, and is punching her seat incessantly [who is at fault?]'"
-
-[Link](https://twitter.com/matthewstoller/status/1228116495600902144)
-
-*2020-2-14 5:29:31*
-
----
-
 When Libya production went down, who made up the shortfall? Who
 benefited?  Corr analysis to the rescue. Oil production as time series
 for multiple countries, get corr matrix (it gives corr of everything

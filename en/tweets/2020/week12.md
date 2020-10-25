@@ -342,18 +342,6 @@ be arrests if citizens don’t comply
 
 ---
 
-"@matthewstoller
-
-The world is confusing for elites. They have to learn about things
-like supply chains and shortages. Stuff no longer shows up in stores
-automatically. The key destabilizing actor in the world is a non-white
-fascist regime committing human rights violations against its own
-people"
-
-*2020-3-20 7:23:9*
-
----
-
 @EFF 
 
 Ring: Doorbells that surveil your community reduce crime!
@@ -400,11 +388,6 @@ get Federal support"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fracker and former billionaire Harold Hamm is on CNBC begging to be restored to his billionaire status or else Russia and Saudi Arabia win.</p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1240645253910204417?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-19 17:35:9*
-
----
 
 "@ScottMinerd
 
@@ -1476,14 +1459,6 @@ This might be odd but 1st time Im seeing this
 <iframe width="340" src="https://www.youtube.com/embed/J---aiyznGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *2020-3-15 22:9:7*
-
----
-
-"@matthewstoller
-
-In 2018, the Health Industry Distributor’s Assn opposed \#Trump’s \#tariffs on \#China w/the argument that dependence on China for things hospitals needed...was good b/c it increased efficiency"
-
-*2020-3-15 22:7:47*
 
 ---
 

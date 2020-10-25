@@ -160,16 +160,6 @@ insisted it should be kept open as a 'house for cure'"
 
 ---
 
-"@matthewstoller
-
-Watching the Dem policy debate is sometimes inspiring, often
-depressing. Everyone's running on health care, but no one will admit
-that Obamacare was a \*disaster.\*"
-
-*2020-2-28 19:3:22*
-
----
-
 Waa waaa waaaa waaaaaaa
 
 <img width="340" src="https://pbs.twimg.com/media/ER347DWWkAUGb0k?format=jpg&name=900x900"/>
@@ -328,20 +318,6 @@ from it, including many of the chips.  By the time I left, we only did
 the marketing"
 
 *2020-2-27 20:23:5*
-
----
-
-🔥🔥🔥
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well the <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> upside for Boeing is that while they can&#39;t make safe planes anymore, airlines won&#39;t be ordering new planes for awhile anyway.</p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1233076876345778176?ref_src=twsrc%5Etfw">February 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-27 20:20:50*
-
----
-
-Haha.. "European Green Deal a.k.a. hydrogen revolution" says the title
-
-*2020-2-27 19:56:26*
 
 ---
 
@@ -1617,17 +1593,6 @@ The bonus is they keep fighting you, the attention is always on the
 something to this guy". They can't win.
 
 *2020-2-23 19:51:25*
-
----
-
-I wonder who he'd be against more - Bernie or Trump.
-
-If the Sith Lord himself is in opposition, the opposed must be one
-with *The Force*.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reduced to begging Obama. Glorious. <a href="https://t.co/AMQrSzfmpx">https://t.co/AMQrSzfmpx</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1231607385267036160?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-23 19:25:30*
 
 ---
 

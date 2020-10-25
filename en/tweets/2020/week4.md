@@ -67,19 +67,6 @@ Profits go to wages more and more (inflation), new hires decrease
 
 ---
 
-"@matthewstoller
-
-One thing that I find amusing is how ignorant our supposedly brilliant
-elites are. Jan-Werner Müller is considered a scholar of populism, but
-his 'scholarship' rests on long-discredited nonsense by Richard
-Hofstadter"
-
-[Link](https://twitter.com/matthewstoller/status/1220401018783051779)
-
-*2020-1-24 23:59:19*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyzon Motors, using fuel cell powertrains from Horizon Fuel Cell, announces its official launch today based in USA with plans to introduce Vans, Buses and Trucks, from Class 3 to Class 8 using hydrogen fuel cells. <a href="https://t.co/TSiPhEYJ7Z">https://t.co/TSiPhEYJ7Z</a> <a href="https://t.co/Fcc3PylUBt">pic.twitter.com/Fcc3PylUBt</a></p>&mdash; Brad Bradshaw (@brad_bradshaw) <a href="https://twitter.com/brad_bradshaw/status/1220518799553761281?ref_src=twsrc%5Etfw">January 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-24 21:45:37*
@@ -108,19 +95,6 @@ free, open source software underneath can be covered with a commercial
 support contract on top. Best of both worlds.
 
 *2020-1-24 21:24:2*
-
----
-
-Switch to Linux. 
-
-"@matthewstoller
-
-Microsoft's software quality is atrocious. From 2015-2019, after the
-company reduces the amount of testing it did, the number of disclosed
-vulnerabilities tripled to over 600 a year. And it matters! Windows XP
-handles nuclear submarine control systems"
-
-*2020-1-24 20:56:57*
 
 ---
 

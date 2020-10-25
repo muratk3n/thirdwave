@@ -211,16 +211,6 @@ engineered human tissues"
 
 ---
 
-"@matthewstoller
-
-We lack ventilators due to a shitty merger allowed by the FTC under
-Obama. A month ago Debbie Feinstein, the head of enforcement at the
-FTC under Obama"
-
-*2020-4-3 8:1:31*
-
----
-
 DIY mask
 
 [Link](https://mobile.twitter.com/kateesackhoff/status/1245906167336861696)
@@ -718,20 +708,6 @@ on till something eventually gives"
 
 ---
 
-"@matthewstoller
-
-So private equity is taking advantage of surprise billing loopholes in
-the bailout legislation to gouge people getting tested for
-\#coronavirus.
-
-Who could have seen this coming except everyone?"
-
-[Link](https://twitter.com/matthewstoller/status/1244731010505375746)
-
-*2020-3-31 0:32:24*
-
----
-
 ORMS = Operations Research and Management Science. Deals with resource
 planning, optimization of production, logistics, etc. 
 
@@ -759,14 +735,6 @@ to their cold weather.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Funny how characteristically each country reacts to the coronavirus. China tracks its citizens&#39; every move. Hungary becomes a dictatorship. The US gives money to businesses. The Japanese conceal the problem. The British bravely but stupidly seek herd immunity.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1244690931946831876?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-3-30 22:50:10*
-
----
-
-Live by capitalism die by capitalism
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;By the end of the day, roughly 280 million masks from warehouses around the U.S. had been purchased by foreign buyers and were earmarked to leave the country, according to the broker — and that was in one day.&quot; <a href="https://t.co/6pqntPKfF0">https://t.co/6pqntPKfF0</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1244675351676178432?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-30 20:20:24*
 
 ---
 
