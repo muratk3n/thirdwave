@@ -291,7 +291,7 @@ her too, like that Niko whathisface, with karaze consp. theories..
 
 All that leads to apathy so it's like "why do I care?". The answer
 needs to be positive, in a big way, bcz this is abt the executive and
-that politics is more than issues, it's about a leader.
+politics is more than issues, it's about a leader.
 
 "What is the left’s problem with Tulsi Gabbard?"
 
