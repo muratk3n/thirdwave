@@ -125,10 +125,16 @@ project he did analyzing Clinton's Healthcare reform bill and failed
 to foresee one scenario, he has since fixed the problem. The details
 can be found in *Predictioneer's Game*.
 
+Inborn Ability
+
+Some ppl do have inborn skillz on predictive social dynamics which is
+basically running BdM's computations in their head. When BdM put the
+algo up for competition against international politics analysts, he
+saw some people consistenly tied the machine. So such people basically
+had that internal machinery for social dynamics prediction.
+
 Links
 
 [B. Mesquita and Iran](../../2015/04/mesquita-iran.md)
-
-
 
 
