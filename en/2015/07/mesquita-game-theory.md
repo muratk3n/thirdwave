@@ -129,11 +129,12 @@ can be found in *Predictioneer's Game*.
 
 Inborn Ability
 
-Some ppl do have inborn skillz on predictive social dynamics which is
-basically running BdM's computations in their head. When BdM put the
-algo up for competition against international politics analysts, he
-saw some people consistenly tied the machine. So such people basically
-had that internal machinery for social dynamics prediction.
+Some ppl do have natural skillz on predictive social dynamics meaning
+is basically an ability to run BdM's computations in their head. When
+BdM put the algo up for competition against international politics
+analysts, he saw some people consistenly tied the machine. Such
+people, then, basically had that internal machinery for social
+dynamics prediction wired into them.
 
 Links
 
