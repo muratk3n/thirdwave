@@ -125,3 +125,10 @@ project he did analyzing Clinton's Healthcare reform bill and failed
 to foresee one scenario, he has since fixed the problem. The details
 can be found in *Predictioneer's Game*.
 
+Links
+
+[B. Mesquita and Iran](../../2015/04/mesquita-iran.md)
+
+
+
+
