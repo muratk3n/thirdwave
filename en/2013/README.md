@@ -236,17 +236,11 @@
 
 [Money, Money, Money](08/money-money-money.md)
 
-[More on Phase Transition](08/more-on-phase-transition.md)
-
 [Operational Decisions Matter](08/operational-decisions-matter.md)
-
-[#ouch](08/ouch.md)
 
 [Phase Transition](08/phase-transition.md)
 
 [Power Corrupts. PowerPoint Corrupts Absolutely.](08/power-corrupts-powerpoint-corrupts.md)
-
-[Still More on Phase Transition](08/still-more-on-phase-transition.md)
 
 [Hindsight Visionary](08/stop-backing-visionaries-stop-backing.md)
 
