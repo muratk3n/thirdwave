@@ -14,11 +14,6 @@ manage the money of the senior ayatollahs and some key military
 leaders. The Bonyads are reputed to control 20 to 25 percent of Iran’s
 annual income—not bad as private benefits go.
 
----
-
-Bloody hell.. These f---kers are **exempt** from even accusation of
-corruption. That must be the sweetest job to have in Iran. They
-basically have a license to steal.
 
 
 

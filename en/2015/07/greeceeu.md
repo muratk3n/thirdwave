@@ -68,21 +68,3 @@ in *Predictioneer's Game*.
 
 
 
-at
-
-July 08, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
