@@ -68,7 +68,7 @@ That's exactly like taking a shit.
 I had many spirited debates about censorship in the TYT studio, I was
 warning that being pro-censorship will always come back to bite the
 left even harder. Reminder: No matter how much you hate someone who is
-speaking, The antidote to bad speech is more speech, not censorship.
+speaking, the antidote to bad speech is more speech, not censorship.
 
 '@sunraysunray
 
