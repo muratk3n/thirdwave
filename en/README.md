@@ -105,16 +105,15 @@ conrete slab would still float.
 Barrel, 0.16 m^3. 35 in = 0.89 meter. Concrete density 2400 kg / m3.
 
 ```python
-"%0.2f" % (0.851 * 0.57 * 0.57)
 w = 3; h = 2; l = 8
 concw = (w*h*l - w*1.2*l) * 2400
 concv = w*h*l
 ow = 1000.0
-concw+ow, concv*1000.0
+"%0.2f, %0.2f" % (concw+ow, concv*1000.0)
 ```
 
 ```text
-Out[1]: (47080.00000000001, 48000.0)
+Out[1]: '47080.00, 48000.00'
 ```
 
 ---
