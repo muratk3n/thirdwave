@@ -139,13 +139,13 @@ Just kidding.. it's okay.
 
 ---
 
-Yep.. [this post](2019/08/manganese-hydride.md) reminded me, Manganese
+Yep.. [this post](../../2019/08/manganese-hydride.md) reminded me, Manganese
 Hydride-1, then I saw a company is working on it -
 [Kubagen](https://www.kubagen.co.uk)
 
 ---
 
-Some reorg on [climate](2018/12/climate.md) posts
+Some reorg on [climate](../../2018/12/climate.md) posts
 
 ---
 
@@ -160,7 +160,7 @@ amok selling snake oil.
 
 Collated previous posts.
 
-[H2 Storage Options](2020/10/h2-storage.md)
+[H2 Storage Options](../../2020/10/h2-storage.md)
 
 ---
 
@@ -194,7 +194,7 @@ Ask Merkel.
 
 ---
 
-AFAIK carbon capture works; last I heard abt it was from [Dr. Finkel](2019/01/carboncapture.md),
+AFAIK carbon capture works; last I heard abt it was from [Dr. Finkel](../../2019/01/carboncapture.md),
 a.k.a Oz Chief Scientist. Have questions? Ask Finkel.
 
 ---
