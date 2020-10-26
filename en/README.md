@@ -102,7 +102,7 @@ platform... 3x2x8 meter design, with two stacks of empty barrels in
 it, pour concrete over it, put a **ton** of weight on top, this
 conrete slab would still float. 
 
-Barrel, 0.16 m^3. 35 in = 0.89 meter. Concrete density 2400 kg / m3.
+Barrel, 0.16 m^3, concrete density 2400 kg / m3.
 
 ```python
 w = 3; h = 2; l = 8
