@@ -38,7 +38,7 @@ fuel. As simple as that.
 ---
 
 
-How to understand a certain country with dumg niggers at the helm..
+How to understand a certain country with dumb ni--rs at the helm..
 You start with a child. What does a child want? Wants to do grown-up
 things, right. Drive like one, be like one.
 
