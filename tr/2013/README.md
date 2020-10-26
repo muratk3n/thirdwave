@@ -1,3 +1,5 @@
+# 2013
+
 [CHP'nin uluslarası açılımları](01/chpnin-uluslaras-aclmlar.md)
 
 [Bayda ve Banyas'taki Katliam Alevi Devleti Yaratmak İçin Etnik Temizlik Habercisi mi?](05/reyhanldaki-katliam-alevi-devleti.md)
@@ -50,7 +52,7 @@
 
 [#gezi](09/gezide-yenilen-hurmalar.md)
 
-[Ulus-Devletler ve Milliyetçilik - 1](09/piyonun-aidiyeti-1.md)
+[Ulus-Devletler ve Milliyetçilik](09/ulus-devletler-ve-milliyetcilik.md)
 
 [YDB - 11/9](09/ydb-119.md)
 
@@ -61,14 +63,6 @@
 [YDB - 6/9](09/ydb-69.md)
 
 [Özdeyişler](10/ozdeyisler.md)
-
-[Ulus-Devletler ve Milliyetçilik - 2](10/piyonun-aidiyeti-2.md)
-
-[Ulus-Devletler ve Milliyetçilik - 3](10/piyonun-aidiyeti-3.md)
-
-[Ulus-Devletler ve Milliyetçilik - 4](10/piyonun-aidiyeti-4.md)
-
-[Ulus-Devletler ve Milliyetçilik](10/piyonun-aidiyeti.md)
 
 [YDB - 1/10](10/ydb-110.md)
 

@@ -1,3 +1,5 @@
+# 2010
+
 [Agca](01/agca.md)
 
 [Avatar Hakkinda](01/avatar-hakkinda.md)
@@ -39,8 +41,6 @@
 [YDB - 25/1](01/ydb-251.md)
 
 [YDB - 27/1](01/ydb-271.md)
-
-[YDB - 5/1](01/ydb-512.md)
 
 [YDB - 9/1](01/ydb-91.md)
 
@@ -146,9 +146,11 @@
 
 [Çok Yönlülük (Multi-Alignment)](06/cok-yonluluk-multi-alignment.md)
 
+[Endüstriyel İdeolojilerin Temelleri: Konsentrasyon](06/endustriyel-ideolojilerin-temelleri-konsantrasyon.md)
+
 [Endüstriyel İdeolojilerin Temelleri: Tek Alanda Çalışmak](06/endustriyel-ideolojilerin-temelleri-tek.md)
 
-[Endüstriyel İdeolojilerin Temelleri: Konsentrasyon](06/endustriyel-ideolojilerin-temelleri.md)
+[Endüstriyel İdeolojilerin Temelleri](06/endustriyel-ideolojilerin-temelleri.md)
 
 [Endüstriyel İdeolojilerin Temelleri: Standardizasyon](06/endustriyel-ideolojilerin-temelleri_05.md)
 
@@ -157,8 +159,6 @@
 [Endüstriyel İdeolojilerin Temelleri: Maksimizasyon](06/endustriyel-ideolojilerin-temelleri_10.md)
 
 [Endüstriyel İdeolojilerin Temelleri: Merkezileştirme](06/endustriyel-ideolojilerin-temelleri_12.md)
-
-[Endüstriyel İdeolojilerin Temelleri](06/endustriyel-ideolojilerin-temelleri_2605.md)
 
 [Grafiti..](06/grafiti.md)
 
@@ -344,7 +344,7 @@
 
 [YDB - 1/10](10/ydb-110.md)
 
-[YDB - 20/10](10/ydb-2010.md)
+[YDB - 20/10](10/ydb-.md)
 
 [YDB - 3/10](10/ydb-310.md)
 

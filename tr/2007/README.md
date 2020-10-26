@@ -1,3 +1,5 @@
+# 2007
+
 [PISA 2003](01/pisa-2003.md)
 
 [TUSIAD Raporu: Başkanlık Rejimi Tartışması](01/tusiad-raporu-bakanlk-rejimi-tartmas.md)
@@ -48,7 +50,7 @@
 
 [Ek Noktalar VI](07/ek-noktalar-v.md)
 
-[Ek Noktalar V](07/ek-noktalar-vi.md)
+[Ek Noktalar VI](07/ek-noktalar-vi.md)
 
 [Exxon](07/exxon.md)
 

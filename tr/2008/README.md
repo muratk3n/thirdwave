@@ -1,3 +1,5 @@
+# 2008
+
 [ABD Baskanlik Yarisi](01/abd-baskanlik-yarisi.md)
 
 [Baskanlik](01/baskanlik.md)
@@ -5,8 +7,6 @@
 [Bilgi Ekonomisi İhracatı - İngiltere](01/bilgi-ekonomisi-ihracat-ingiltere.md)
 
 [Bilgi](01/bilgi.md)
-
-[Kose yazisi](09/kaynak.md)
 
 [Bir Hikaye](01/bir-hikaye.md)
 
@@ -398,8 +398,6 @@
 
 [YDB - 30/8](08/ydb-308.md)
 
-[YDB - 5/8](08/ydb-58.md)
-
 [YDB - 7/8](08/ydb-78.md)
 
 [YDB - 8/8](08/ydb-88.md)
@@ -411,6 +409,8 @@
 [Deniz Feneri Yanılgıları](09/deniz-feneri-yanlglar.md)
 
 [Etekler Tutustu](09/etekler-tutustu.md)
+
+[Kose yazisi](09/kaynak.md)
 
 [Kim Bu Konuşmacı?](09/kim-bu-konusmaci.md)
 
@@ -455,6 +455,8 @@
 [G1 Android Cep Telefonu Cikti](10/g1-android-cep-telefonu-cikti.md)
 
 [Geliyor ...](10/geliyor.md)
+
+[Herkes sertlesti](10/herkes-sertlesti.md)
 
 [Jack Welch: Krizin Sebebi](10/jack-welch-krizin-sebebi.md)
 
@@ -577,8 +579,6 @@
 [YDB - 26/12](12/ydb-2612.md)
 
 [YDB - 27/12](12/ydb-2712.md)
-
-[YDB - 29/12](12/ydb-2912.md)
 
 [YDB - 3/12](12/ydb-312.md)
 

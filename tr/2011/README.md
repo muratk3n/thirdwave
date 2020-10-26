@@ -1,3 +1,5 @@
+# 2011
+
 [Ah Su Wikileaks!](01/ah-su-wikileaks.md)
 
 [Güç](01/guc.md)
@@ -79,6 +81,8 @@
 [Bağlantıcı Elit - 1](06/baglantc-elit-1.md)
 
 [Bağlantıcı Elit](06/baglantc-elit.md)
+
+[Baglantici Elit - 2](06/baglantici-elit-2.md)
 
 [The Economist'in son yazisi kargasa yaratti](06/economisttin-son-yazisi-kargasa-yaratti.md)
 

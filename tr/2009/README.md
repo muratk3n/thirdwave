@@ -1,3 +1,5 @@
+# 2009
+
 [Cok Oturgacli Donergec](01/cok-oturgacli-donergec.md)
 
 [Damal Tapınağı  Rahipleri](01/damal-tapinagi-rahipleri.md)
@@ -192,16 +194,6 @@
 
 [Trystorming](04/trystorming.md)
 
-[Yaratıcılığın Kumaşı - 1](04/yaratclgn-kumas-i.md)
-
-[Yaratıcılığın Kumaşı - 2](04/yaratclgn-kumas-ii.md)
-
-[Yaratıcılığın Kumaşı - 3](04/yaratclgn-kumas-iii.md)
-
-[Yaratıcılığın Kumaşı - 4](04/yaratclgn-kumas-iv.md)
-
-[Yaratıcılığın Kumaşı - 5](04/yaratclgn-kumas-v.md)
-
 [Yaratıcılığın Kumaşı](04/yaratclgn-kumas.md)
 
 [YDB - 16/4](04/yasemin-congar-kara-kuvvetleri-komutan.md)
@@ -236,6 +228,8 @@
 
 [Uzaylı magdur edildi](05/uzayli-magdur-edildi.md)
 
+[Wolfram Alfa](05/wolfram-alfa.md)
+
 [YDB - 13/5](05/ydb-135.md)
 
 [YDB - 15/5](05/ydb-155.md)
@@ -253,6 +247,8 @@
 [Yeni Baris Atilimi](05/yeni-baris-atilimi.md)
 
 [Yeni Egitim - 1](05/yeni-egitim-i.md)
+
+[Yeni Egitim - 2](05/yeni-egitim-ii.md)
 
 [Yeni Egitim - 3](05/yeni-egitim-iii.md)
 
@@ -390,15 +386,15 @@
 
 [Dengeler](09/dengeler.md)
 
+[Dogu, Ermeniler, Kurtler, Osmanli](09/dogu.md)
+
 [Hamidiye](09/hamidiye.md)
 
 [Krugman ve Cochrane](09/krugman-ve-cochrane.md)
 
-[Kurt Bolgeleri](09/kurt-bolgeleri.md)
+[Kürt Bölgeleri](09/kurt-bolgeleri.md)
 
 [Linkendavarismus](09/linkendavarismus.md)
-
-[Sehir Tercihi](09/sehir-tercihi.md)
 
 [Turkiye Kultur Kodlari](09/turkiye-kultur-kodlari.md)
 
@@ -444,7 +440,7 @@
 
 [Hindistan'da Ayn Rand](10/hindistanda-ayn-rand.md)
 
-[[img]](10/img.md)
+[Ulu Onder Soros](10/img.md)
 
 [Kodlarda Degisim](10/kodlarda-degisim.md)
 
@@ -463,8 +459,6 @@
 [YDB - 22/10 II](10/ydb-2210-ii.md)
 
 [YDB - 22/10](10/ydb-2210.md)
-
-[YDB - 23/10](10/ydb-2310.md)
 
 [YDB - 26/10](10/ydb-2610.md)
 
