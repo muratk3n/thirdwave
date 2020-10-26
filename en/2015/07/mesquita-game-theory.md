@@ -3,42 +3,50 @@
 Bruce bd Mesquita (BdM) developed a method to predict how decisions
 are formed within a group of people, few nations, alliances,
 parliaments so forth. It does not matter whether the group has some
-internal animosity, or is the same party; the method still works. 
+internal animosity, or is of the same party; the method still works.
 
 The first version of the method took 3 data points per person to gauge
-where the overall decision would lead. Per issue these measurements
-are clout (how much influence an actor has on the issue), his/her
-position represented on a 0-100 scale, and a salience measure, how
-much an actor cares about that issue.
+where the overall decision would lead. Per issue, these measurements
+are 1) clout (how much influence an actor has on the issue), 2)
+his/her position represented on a 0-100 scale, and 3) a salience
+measure, how much an actor cares about that issue. Later versions
+added hawkish / doveness as well.
 
 Then processes this data as part of a repeated game in which he finds
 the optimum point for all parties involved, across all dyads, taking
-into account whether actors are hawks, doves, passives, etc. He can
-introduce "shocks" by sometimes randomly altering some salience
-values, or dropping actors out of the game to see if the optimum point
-is "stable", if these changes effect the final outcome [1]. But my
-guess is in this case a repeated game calculation would not make much
-difference.
+into account whether actors are hawks, doves, passives, etc. At every
+iteration an actor tries to bring someone else to their position,
+whether useful or not depends on the 3 attributes listed, if someone
+has high salience on an issue, has lots of influence, this person
+might not be swayed, but can be if some of the base numbers change. So
+forth. Doing this many iterations, a group optimality is reached, and
+that is the final decision.
 
+A very important feature of the method is that clout, position and
+salience data points need not be researched by anyone. Any observer
+who reads enough papers, follows politics can come up with these
+numbers.
+
+A very rough version of this computation would be simply computing the
+mean voter position, just to demonstrate the base data of the method.
 
 For example will the EU give debt foregiveness to Greece during this crisis [in 2015]?
 
 Ran some numbers on Greece/EU negotations, using Predictioneer's Game format,
 
-
 ```
-     Stakeholder  Clout  Position  Salience
-0         Greece    100        40       100
-10           USA     30        60       100
-1            IMF     20        70       100
-2        Juncker     10        80       100
-3        Germany    100       100        80
-4         France     70       100       100
-5   Dijsselbloem     70       100        40
-6           Tusk     70       100        40
-7          Italy     50       100       100
-8            ECB     20       100        70
-9          Spain     20       100       100 
+     Stakeholder  Clout  Position  Salience
+0         Greece    100        40       100
+10           USA     30        60       100
+1            IMF     20        70       100
+2        Juncker     10        80       100
+3        Germany    100       100        80
+4         France     70       100       100
+5   Dijsselbloem     70       100        40
+6           Tusk     70       100        40
+7          Italy     50       100       100
+8            ECB     20       100        70
+9          Spain     20       100       100 
 ```
 
 mean voter 82
@@ -107,18 +115,13 @@ mean voter 82
 weighted mode 100.0
 ```
 
+Shocks
 
----
-
-[1] BdM says he had to introduce this trick after a project he did
-analyzing Clinton's Healthcare reform bill and failed to foresee one
-scenario, he has since fixed the problem. The details can be found in
-*Predictioneer's Game*.
-
-
-
-
-
-
-
+Latest version also introduced a concept of "shocks" by sometimes
+randomly altering some salience values, or dropping actors out of the
+game to see if the optimum point is "stable", if these changes effect
+the final outcome. BdM says he had to introduce this trick after a
+project he did analyzing Clinton's Healthcare reform bill and failed
+to foresee one scenario, he has since fixed the problem. The details
+can be found in *Predictioneer's Game*.
 
