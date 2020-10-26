@@ -1,5 +1,7 @@
 # The Fundamentals of Industrial Ideologies
 
+[Standardization](../../2011/03/fundamentals-of-industrial-ideologies.md)
+
 [Specialization](../../2011/03/fundamentals-of-industrial-ideologies_14.md)
 
 [Synchronization](../../2011/03/fundamentals-of-industrial-ideologies_5220.md)

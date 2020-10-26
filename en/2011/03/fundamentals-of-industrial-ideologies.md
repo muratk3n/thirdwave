@@ -25,7 +25,13 @@ well. [..]  What Vail recognized is that to succeed in the Second Wave
 environment, "software"—i.e., procedures and administrative
 routines—had to be standardized along with hardware.
 
-Vail was only one of the Great Standardizes who shaped industrial society. Another was Frederick Winslow Taylor, a machinist turned crusader, who believed that work could be made scientific by standardizing the steps each worker performed. In the early decades of this century Taylor decided that there was one best (standard) way to perform each job, one best (standard) tool to perform it with, and a stipulated (standard) tune in which to complete it.
+Vail was only one of the Great Standardizes who shaped industrial
+society. Another was Frederick Winslow Taylor, a machinist turned
+crusader, who believed that work could be made scientific by
+standardizing the steps each worker performed. In the early decades of
+this century Taylor decided that there was one best (standard) way to
+perform each job, one best (standard) tool to perform it with, and a
+stipulated (standard) tune in which to complete it.
 
 Armed with this philosophy, he became the world's leading management
 guru. In his time, and later, he was compared with Freud, Marx, and
