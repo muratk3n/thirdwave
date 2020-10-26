@@ -136,7 +136,7 @@
 
 [The West Bank](06/westbank.md)
 
-[Battery Fueled by Iron and Water, Flow Batteries](07/battery-fueled-by-iron-and-water.md)
+[Flow Batteries, Built with Iron and Water](07/battery-fueled-by-iron-and-water.md)
 
 [#koch](07/koch.md)
 

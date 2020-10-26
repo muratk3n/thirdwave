@@ -2,6 +2,8 @@
 
 [Why Is Democracy Better?](../../2016/11/why-is-democracy-better.md)
 
+[Bruce bd Mesquita's Game Theoretical Method](../../2015/07/mesquita-game-theory.md)
+
 [Parochial Interests](../../2015/04/parochial-interests.md)
 
 [Construction](../../2015/09/construction-and-w.md)

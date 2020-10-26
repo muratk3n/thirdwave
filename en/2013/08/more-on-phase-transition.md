@@ -26,16 +26,3 @@ work can take place in this environment. We need more books like these
 because if we can chart this yet-unknown future partly, we can
 minimize black swans, the tipping points, the what-nots that will be
 on the way.
-
-
-
-
-
-
-
-
-
-
-
-
-

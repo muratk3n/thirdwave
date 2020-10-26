@@ -280,13 +280,11 @@
 
 [Economics of Abundance](07/economics-of-abundance.md)
 
-[](07/eu_greece.md)
-
 [Food Waste](07/food-waste.md)
 
 [#freaky #awesome](07/freaky-awesome.md)
 
-[Greece/EU](07/greeceeu.md)
+[Greece's Current Account](07/greece-current-account.md)
 
 [](07/gtd_us.md)
 
@@ -295,6 +293,8 @@
 [#hehe](07/hehe.md)
 
 [#iran](07/iran.md)
+
+[Bruce bd Mesquita's Game Theoretical Method](07/mesquita-game-theory.md)
 
 [#music](07/music.md)
 

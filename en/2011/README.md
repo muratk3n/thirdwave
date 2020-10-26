@@ -312,8 +312,6 @@
 
 [Too Cool for School](07/too-cool-for-school.md)
 
-[True Dat](07/true-dat.md)
-
 [Twitter Hashtags](07/twitter-hashtags.md)
 
 [What Is Wrong With Scientific Publishing](07/what-is-wrong-with-scientific.md)
@@ -453,8 +451,6 @@
 [Codes, Axel Boldt Article](11/codes-axel-boldt-article.md)
 
 [Common Crawl](11/common-crawl.md)
-
-[The Contract](11/contract.md)
 
 [Copyright isn't working, says European Commission](11/copyright-isnt-working-says-european.md)
 

@@ -2,7 +2,7 @@
 
 Article by Game Theorist Bruce. B. Mesquita
 
-http://bigthink.com/in-their-own-words/how-i-poured-cold-water-on-a-nuclear-iran
+[Link](http://bigthink.com/in-their-own-words/how-i-poured-cold-water-on-a-nuclear-iran)
 
 In 2007 I was asked using my forecasting model to look over a period
 of a few years into the future to analyze the likelihood that Iran was
@@ -54,8 +54,16 @@ talking about a third world war, which thank God didn’t happen.
 
 --
 
-Nice. This is science at its best. We talked about BBM's methods previously. His predictions work extremely well in politics and negotiations. On Iran, he'd said before that it was not in Iran's interest to go for the nuke. Latest agreement shows that this was indeed so, with certain guarantees they were happy to let go of that option and now they will hopefully join the rest of the world to help make it little less insane. The Bama administration seemed to have managed this well;  they tighened the screws all the way basically, just to make this agreement happen. There were some fringe benefits of the sanctions-on-streoids approach, Obama was able to say during a prez debate, on the Iran subject that "we are already doing everything short of war" thereby looking "not too soft on national security". But the end goal was this, not just some chaotic slapfest. 
-
-
-
-
+Nice. This is science at its best. We talked about BBM's methods
+previously. His predictions work extremely well in politics and
+negotiations. On Iran, he'd said before that it was not in Iran's
+interest to go for the nuke. Latest agreement shows that this was
+indeed so, with certain guarantees they were happy to let go of that
+option and now they will hopefully join the rest of the world to help
+make it little less insane. The Bama administration seemed to have
+managed this well; they tighened the screws all the way basically,
+just to make this agreement happen. There were some fringe benefits of
+the sanctions-on-streoids approach, Obama was able to say during a
+prez debate, on the Iran subject that "we are already doing everything
+short of war" thereby looking "not too soft on national security". But
+the end goal was this, not just some chaotic slapfest.

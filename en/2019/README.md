@@ -2,7 +2,7 @@
 
 [Capitalism Eating Itself](01/capitalism.md)
 
-[Carbon Capture, Fuel Generation](01/carboncapture.md)
+[Carbon Capture](01/carboncapture.md)
 
 [E-Diesel](01/ediesel.md)
 
