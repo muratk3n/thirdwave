@@ -16,8 +16,8 @@ sunlit☀️ areas of the Moon"
 Chile scraps their 80 Consitution? Their diktat is usually compared to
 TR fascism, w its human-rights vioations, on the left
 especially. Pinotchet is compared to Evren, and their consitution must
-be just as bad, 80 and 82 respectively, neocon, fascist docs in
-essence. TR fascism is still around sadly
+be just as bad, 80 and 82 respectively, ultra capitalist, fascist docs
+in essence. TR fascism is still around sadly
 
 ---
 
