@@ -114,8 +114,6 @@
 
 [Technological Progress](02/technological-progress.md)
 
-[Thiel](02/thiel.md)
-
 [A World Without Referees](02/world-without-referees.md)
 
 [Academic Publishing Is Broken](03/academic-publishing-is-broken.md)
