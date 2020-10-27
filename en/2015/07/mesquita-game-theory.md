@@ -1,31 +1,42 @@
 # Bruce bd Mesquita's Game Theoretical Method
 
 Bruce bd Mesquita (BdM) developed a method to predict how decisions
-are formed within a group of people, few nations, alliances,
-parliaments so forth. It does not matter whether the group has some
-internal animosity, or is of the same party; the method still works.
+are formed within a group of people, nations, alliances, parliaments
+so forth. It does not matter whether the group has internal animosity,
+rivalry or is within generally like-minded actors; the method still
+works.
 
-The first version of the method took 3 data points per person to gauge
-where the overall decision would lead. Per issue, these measurements
-are 1) clout (how much influence an actor has on the issue), 2)
-his/her position represented on a 0-100 scale, and 3) a salience
-measure, how much an actor cares about that issue. Later versions
-added hawkish / doveness as well.
+The first version of the method took 3 data points per stakeholder to
+to base further computation on. Per issue, these measurements are 1)
+clout (how much influence an actor has on the issue), 2) his/her
+position represented on a 0-100 scale, and 3) a salience measure, how
+much an actor cares about that issue. Later versions added hawkish /
+doveness as well.
 
-Then processes this data as part of a repeated game in which he finds
-the optimum point for all parties involved, across all dyads, taking
-into account whether actors are hawks, doves, passives, etc. At every
-iteration an actor tries to bring someone else to their position,
-whether useful or not depends on the 3 attributes listed, if someone
-has high salience on an issue, has lots of influence, this person
-might not be swayed, but can be if some of the base numbers change. So
-forth. Doing this many iterations, a group optimality is reached, and
-that is the final decision.
+Then BdM processes this data as part of a repeated game in which he
+finds the optimum decision point for all parties involved, across all
+dyads, taking into account whether actors are hawks, doves, passives,
+etc. At every iteration all actor try to bring someone else to their
+position, whether successful or not, or how much depends on the 3
+attributes shows earlier, if someone has high salience on an issue for
+example, has lots of influence, this person might not be swayed, but
+can be if some of the base numbers change, etc. Performing this many
+iterations, a group optimality is reached, and that is the final
+decision.
 
 A very important feature of the method is that clout, position and
-salience data points need not be researched by anyone. Any observer
-who reads enough papers, follows politics can come up with these
-numbers.
+salience data points need not be researched. Any observer who reads
+enough papers, follows politics can come up with them. This is in
+favor of the method, that its base data is commonplace.
+
+"Can representing positions between 0-100 scale work?". It does
+surprisingly.  In fact I'd suggest anyone who thinks about issues to
+think of this scale, in a way we all use it in our heads, no matter
+how complex, if granular enough the issue can be represented as
+numbers between 0 and 100. 
+
+
+The Mean Voter Position
 
 A very rough version of this computation would be simply computing the
 mean voter position, just to demonstrate the base data of the method.
