@@ -73,7 +73,7 @@ The positions are,
 100 No Debt Relief, Full Reform
 ```
 
-I calculate mean voter position 83 and weighted median voter position
+I calculate mean voter position 82 and weighted median voter position
 is 100 from this -- the final outcome being somewhere btw those
 numbers, which contains reform in all cases, and, very unlikely but,
 some debt relief in near future. Juncker apparenty dangled this
@@ -82,12 +82,6 @@ last-minute effort to salvage some deal last week, but was declined
 (reportedly Juncker was rebuked from the EU side for this action). It
 is clear T. does not want spending cuts / programs imposed on himself
 / his government.
-
-0 Debt Relief, No Reform
-30 Debt Relief, Half Reform
-60 Debt Relief, Full Reform
-80 Debt Relief Soon, Full Reform
-100 No Debt Relief, Full Reform
 
 ```python
 def weighted_mode(df):
