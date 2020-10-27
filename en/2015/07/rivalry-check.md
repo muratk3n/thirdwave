@@ -1,10 +1,27 @@
 # Rivalry Check
 
-Why would this rivalry exist? More importantly, for the data investigation, how would this rivalry leave its mark in data so it can be caught?
+Why would this rivalry exist? More importantly, for the data
+investigation, how would this rivalry leave its mark in data so it can
+be caught?
 
-Let's look at the  evolutionary landscape: we are transitioning to a supersymbolic economy in which the most precious resource is talent. US wants talent, does not want to lose it to EU. Talent wants nice cities, safe environment, nice parks. That means if US suffers a terror attack of any kind, it would have a bad image for talent. Then, the theory goes US' shadowy pukes would instigate an attack  in Europe in short time, in response, to balance their image. 
+Let's look at the evolutionary landscape: we are transitioning to a
+supersymbolic economy in which the most precious resource is
+talent. US wants talent, does not want to lose it to EU. Talent wants
+nice cities, safe environment, nice parks. That means if US suffers a
+terror attack of any kind, it would have a bad image for talent. Then,
+the theory goes US' shadowy pukes would instigate an attack in Europe
+in short time, in response, to balance their image.
 
-My plan was I would get terror attack data, look at US-EU pairing first, for each US attack, calculate the difference in days to the closest EU attack. These collection of numbers are "waiting times" for this supposed tit-for-tat scenario. Then I calculate the same numbers for US-South America, US-China so forth. Now we have bunch of numbers for each pairing representing their distributions. We then check if US-EU numbers are smaller than all the rest of the regional waiting times, and if that smallness is statistically significant. [geek] The statistical test to use for this is two sample Wilcoxon test, as the waiting time data is distributed non-normally -exponentially- [/geek].
+My plan was I would get terror attack data, look at US-EU pairing
+first, for each US attack, calculate the difference in days to the
+closest EU attack. These collection of numbers are "waiting times" for
+this supposed tit-for-tat scenario. Then I calculate the same numbers
+for US-South America, US-China so forth. Now we have bunch of numbers
+for each pairing representing their distributions. We then check if
+US-EU numbers are smaller than all the rest of the regional waiting
+times, and if that smallness is statistically significant. [geek] The
+statistical test to use for this is two sample Wilcoxon test, as the
+waiting time data is distributed non-normally -exponentially- [/geek].
 
 First I wanted to use GDELT data in this analysis, Google provides
 access to it, but  it turns out GDELT has a lot of repeats, i.e. for

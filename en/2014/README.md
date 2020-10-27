@@ -202,11 +202,9 @@
 
 [Phase Transition - The Return](08/phase-transition-return.md)
 
-[Policy Advice](08/policy-advice.md)
+[Predictable](08/predictable.md)
 
 [Q&A](08/q.md)
-
-[Race/Off](08/raceoff.md)
 
 [Patent of the Month](08/stupid-patent-of-month.md)
 

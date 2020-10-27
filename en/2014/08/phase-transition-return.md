@@ -1,44 +1,109 @@
 # Phase Transition - The Return
-OK,  big idea biznitch... where were we? So I read about these "big" explanations it seemed like a lot of people like to borrow ideas from Quantum Mechanics, to support some life philosophy about unpredictability, all-life-choices-being-tried-out angle, "everything that can be tried is happening in some universe". That's what the famous QM double-slit experiment is all about right? An electron is shot towards two slits, it seemingly goes through both of them at the same time. Whatzup! 
 
-Scifi uses this idea to death - in any regular show they'll take one of the main recurring characters, send him to a parallel world, and in this other place  dude  is "different" - dressed in leather, has a goat tee maybe, has one of those pants with a butt cut-out.. He  is superbad. QM in this form provides much fodder for this fairy tale of wonderous possibilities, adventures. Surprise! Wow! Dude! Where is my car?!!!
+OK, big idea biznitch... where were we? So I read about these "big"
+explanations it seemed like a lot of people like to borrow ideas from
+Quantum Mechanics, to support some life philosophy about
+unpredictability, all-life-choices-being-tried-out angle, "everything
+that can be tried is happening in some universe". That's what the
+famous QM double-slit experiment is all about right? An electron is
+shot towards two slits, it seemingly goes through both of them at the
+same time. Whatzup!
 
-Newsflash: New findings suggest QM may actually be deterministic after all. God does not play dice with the universe (1stein was right). At the famous  Solvay meeting they  told him to shut the hell up, Hawking would later then say "not only does God play dice, he is a degenerate gambler". I personally  suspected something like this, oddly enough, I did not dabble in QM math much, but I  studied Nonlinear Dynamics and Simulation (of which pseudorandom number generation is a big part -and also deterministic-). In ND, also known as  Chaos Theory, the equations are nonlinear, but, at their core  they are deterministic. Starting from a = 0.0001 you compute the next state, then again, and 100 step later totally depends on step 1.
+Scifi uses this idea to death - in any regular show they'll take one
+of the main recurring characters, send him to a parallel world, and in
+this other place dude is "different" - dressed in leather, has a goat
+tee maybe, has one of those pants with a butt cut-out.. He is
+superbad. QM in this form provides much fodder for this fairy tale of
+wonderous possibilities, adventures. Surprise! Wow! Dude! Where is my
+car?!!!
 
-Here is the catch however, make the starting condition 0.0002, 100 steps later looks radically different. Small changes build-up. That's where the so-called "unpredictability" comes from -- we cannot predict because we can never measure the initial condition precisely enough to give us an accurate 100-step-ahead prediction. Why not? Well, tools suck, whatever's being measured is too small etc. 
+Newsflash: New findings suggest QM may actually be deterministic after
+all. God does not play dice with the universe (1stein was right). At
+the famous  Solvay meeting they told him to shut the hell up, Hawking
+would later then say "not only does God play dice, he is a degenerate
+gambler". I personally suspected something like this, oddly enough, I
+did not dabble in QM math much, but I studied Nonlinear Dynamics and
+Simulation (of which pseudorandom number generation is a big part -and
+also deterministic-). In ND, also known as Chaos Theory, the equations
+are nonlinear, but, at their core they are deterministic. Starting
+from a = 0.0001 you compute the next state, then again, and 100 step
+later totally depends on step 1.
 
-But this is very different from saying "duude, the particle is everywheeere and nowheeere... until is measured, then like, it's there. The universe... is so vast [stoner accent]".  
+Here is the catch however, make the starting condition 0.0002, 100
+steps later looks radically different. Small changes build-up. That's
+where the so-called "unpredictability" comes from -- we cannot predict
+because we can never measure the initial condition precisely enough to
+give us an accurate 100-step-ahead prediction. Why not? Well, tools
+suck, whatever's being measured is too small etc.
 
-Now - this "it's all crazy shit and all f**ed up", or "world of wonderous possibilities" is responsible for much of the new wave in the popular literature these days from Black Swan to Critical Mass to Tipping Point. These authors, it seems, have long given up on trying to understand anything, they are merely giving their readers the means to be awed by it, and telegram their awesome awednesses to others. This dont-explain-be-awed approach may actually be a new form of fatalism -not  in a good way kind of fatalism, some forms of going with the flow can be good-. You can go to any direction with it, and still sound somewhat intelligible. Take any world event, the Syrian civil war for example, event X  will happen and now you, the intelligent reader with a wine glass in hand  can  say  "well.. yes X happened and blah was the tipping point". These critical points of course can never be predicted, they can only be feared, and talked about after the fact. Shit happens. We only rejoice about shit. We cant  do anything else.  
+But this is very different from saying "duude, the particle is
+everywheeere and nowheeere... until is measured, then like, it's
+there. The universe... is so vast [stoner accent]". 
 
-Obviously noone who is someone who  decides anything  thinks this way. Pros think in terms of end states: For Syria strategists would ponder the various end states the country can land into. And these are finite. They can be enumerated / thought about one by one. Syria with Assad, or Syria without Assad. Syria with Assad and some power sharing aggreement, or Syria with Assad and without a power sharing aggreement. On and on it goes.. These states are finite in number because most states are unlikely or next to impossible. There is no end-state  where Assad marries his gay cousin and runs away to Idaho, settling down and  baking cookies all day.   Not gonna happen. Then these pros, once they flesh out these finite end-states, look at which ones are viable, and through which actions which can be reached. They dont twiddle their thumbs and await the "critical mass". 
+Now - this "it's all crazy shit and all f**ed up", or "world of
+wonderous possibilities" is responsible for much of the new wave in
+the popular literature these days from Black Swan to Critical Mass to
+Tipping Point. These authors, it seems, have long given up on trying
+to understand anything, they are merely giving their readers the means
+to be awed by it, and telegram their awesome awednesses to
+others. This dont-explain-be-awed approach may actually be a new form
+of fatalism -not in a good way kind of fatalism, some forms of going
+with the flow can be good-. You can go to any direction with it, and
+still sound somewhat intelligible. Take any world event, the Syrian
+civil war for example, event X will happen and now you, the
+intelligent reader with a wine glass in hand can say "well.. yes X
+happened and blah was the tipping point". These critical points of
+course can never be predicted, they can only be feared, and talked
+about after the fact. Shit happens. We only rejoice about shit. We
+cant do anything else.
 
-So what is deterministic? What is [pseudo] random? Going down to smaller scale and predicting smaller things - near random, hard due to measuring problem. At this scale things could well be random. Planets: big, easier to predict. Electron: small, hard to predict (and measure). Single person among millions: hard, too small. But measuring that single person many times forming larger patterns out the "many": easier [1]. Groups of people: easier. Groups of people in restricted systems (i.e. politicians): much, much easier.
+Obviously noone who is someone who decides anything thinks this
+way. Pros think in terms of end states: For Syria strategists would
+ponder the various end states the country can land into. And these are
+finite. They can be enumerated / thought about one by one. Syria with
+Assad, or Syria without Assad. Syria with Assad and some power sharing
+aggreement, or Syria with Assad and without a power sharing
+aggreement. On and on it goes.. These states are finite in number
+because most states are unlikely or next to impossible. There is no
+end-state where Assad marries his gay cousin and runs away to Idaho,
+settling down and baking cookies all day.  Not gonna happen. Then
+these pros, once they flesh out these finite end-states, look at which
+ones are viable, and through which actions which can be reached. They
+dont twiddle their thumbs and await the "critical mass".
 
-Free will: it's there, but guided by character attributes, they define likes and dislikes. These likes, which are at emotional level, are very strong.
+So what is deterministic? What is [pseudo] random? Going down to
+smaller scale and predicting smaller things - near random, hard due to
+measuring problem. At this scale things could well be random. Planets:
+big, easier to predict. Electron: small, hard to predict (and
+measure). Single person among millions: hard, too small. But measuring
+that single person many times forming larger patterns out the "many":
+easier [1]. Groups of people: easier. Groups of people in restricted
+systems (i.e. politicians): much, much easier.
 
-Our profiling also shows (we shared examples of this many times) people are on a development path, stuff that is not accomplished in this path comes back to the person over and over again in different forms. This repeat can be entertainingly varied,  in an adventure game kind of way. I remember playing a game called Deus Ex once (the only adventure game I ever played until the end) and  in one level I remember I had done everything possible, talked to the street corner guy, took a pack from the shady dude at a cafe, gave a student a pen, but I had not found [important item ___ ] that'd allow me to go the next level, so I am walking around in this huge city, back and forth, nothing is happening. You are sort of stuck in this minimal variation. Good times.
+Free will: it's there, but guided by character attributes, they define
+likes and dislikes. These likes, which are at emotional level, are
+very strong.
 
----
+Our profiling also shows (we shared examples of this many times)
+people are on a development path, stuff that is not accomplished in
+this path comes back to the person over and over again in different
+forms. This repeat can be entertainingly varied, in an adventure game
+kind of way. I remember playing a game called Deus Ex once (the only
+adventure game I ever played until the end) and in one level I
+remember I had done everything possible, talked to the street corner
+guy, took a pack from the shady dude at a cafe, gave a student a pen,
+but I had not found [important item ___ ] that'd allow me to go the
+next level, so I am walking around in this huge city, back and forth,
+nothing is happening. You are sort of stuck in this minimal
+variation. Good times.
 
-[1] Example: Let's imagine 100 doors, and for person X the odds of going from door to the next door is known. A to B=0.1, B to C=0.4, etc.. X keeps switching according to these probabilities (he has a 100 sided dice!). While at door B, he rolls the dice, and most likely he will get C  because 0.4 is high, but it can be any of the other doors. So 100 doors, lots of possibilities. Wonderous! Dude! Where is my car???!!!
+Links
 
-So let's say guy goes from door to door, and does this.. 10 times. Or 100.
-
-What the hell: how about a billion times? Well, believe it or not, at infinity, dude's transitions stabilize to a certain set states [geek] a property of Markov matrices [/geek]. These can be calculated. Then, another person  Y can stand next to the door with highest probability and at right at the time, when person X would come out,  swings really hard, chances are high that he'll connect with X's nose and knock him out. [Geek] replace doors with Internet pages, this applied math calculation is PageRank, the stability point can be calculated by a simple eigenvector computation. This fact has been a big boon to Linear Algebra teachers all around the world, now during class they simply say 'what good are eigenvalues? Google uses them for search!' (and the sleeping kid in the back of the room shakes and wakes up and starts to listen) [/geek]. It is fascinating however with so many choices at each step (100 but that could be millions as well) and inifite many steps you get stability.
-
-Dude!
+[Predictable](predictable.md)
 
 
 
 
-
-
-
-
-at
-
-August 20, 2014
 
 
 

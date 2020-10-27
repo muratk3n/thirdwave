@@ -1,5 +1,9 @@
 # Q&A
-[On ISIS] “This is about America’s national security,” said Ryan Crocker, who was ambassador to Iraq under Mr. Bush and to Afghanistan under Mr. Obama. “We don’t understand real evil, organized evil, very well. This is evil incarnate.
+
+[On ISIS] “This is about America’s national security,” said Ryan
+Crocker, who was ambassador to Iraq under Mr. Bush and to Afghanistan
+under Mr. Obama. “We don’t understand real evil, organized evil, very
+well. This is evil incarnate.
 
 That they are
 
@@ -60,17 +64,6 @@ People would rather be electrically shocked than left alone with their thoughts.
 Define "people"
 
 What is the psychological make-up of the sample in MBTI terms?  How  many introverts, extroverts were in the sample, how many Ti, Fi, Si heavy types were in there? Such people would not have any problem thinking when alone (or feeling, remembering). This is bunch of mumbo jumbo.
-
-
-
-
-
-
-
-at
-
-August 28, 2014
-
 
 
 

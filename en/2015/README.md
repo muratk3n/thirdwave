@@ -286,8 +286,6 @@
 
 [Greece's Current Account](07/greece-current-account.md)
 
-[](07/gtd_us.md)
-
 [#iran](07/iran.md)
 
 [Bruce bd Mesquita's Game Theoretical Method](07/mesquita-game-theory.md)
