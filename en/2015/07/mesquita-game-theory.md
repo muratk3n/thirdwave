@@ -3,7 +3,8 @@
 Bruce bd Mesquita (BdM) developed a method to predict how decisions
 are formed within a group of people, nations, alliances, parliaments
 so forth. It does not matter whether the group has rivalry or consists
-of generally like-minded actors; the method still works.
+of generally like-minded actors; the method still works. See links at
+the bottom of the post for the successes.
 
 The first version of the method took 3 data points per stakeholder to
 to base further computation on. Per issue, these measurements are 1)
@@ -149,4 +150,6 @@ dynamics prediction wired into them.
 Links
 
 [B. Mesquita and Iran](../../2015/04/mesquita-iran.md)
+
+[B. Mesquita and India](../../2015/04/mesquita-iran.md)
 

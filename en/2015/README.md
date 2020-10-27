@@ -140,6 +140,8 @@
 
 [Codebook 2](04/lops2.md)
 
+[B. Mesquita and India](04/mesquita-india.md)
+
 [B. Mesquita and Iran](04/mesquita-iran.md)
 
 [#ML](04/ml.md)
@@ -282,21 +284,13 @@
 
 [Food Waste](07/food-waste.md)
 
-[#freaky #awesome](07/freaky-awesome.md)
-
 [Greece's Current Account](07/greece-current-account.md)
 
 [](07/gtd_us.md)
 
-[#haha](07/haha.md)
-
-[#hehe](07/hehe.md)
-
 [#iran](07/iran.md)
 
 [Bruce bd Mesquita's Game Theoretical Method](07/mesquita-game-theory.md)
-
-[#music](07/music.md)
 
 [Naspers Invests in Bitcoin](07/naspers-invests-in-bitcoin.md)
 
@@ -309,8 +303,6 @@
 [Q&A - 29/7](07/q-297.md)
 
 [Q&A - 31/7](07/q-317.md)
-
-[Q&A -  3/7](07/q-37.md)
 
 [Q&A - 4/7](07/q-47.md)
 
