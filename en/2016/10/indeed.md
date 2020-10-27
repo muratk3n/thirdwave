@@ -1,3 +1,0 @@
-# #indeed
-
-![](tr.png)
