@@ -151,5 +151,5 @@ Links
 
 [B. Mesquita and Iran](../../2015/04/mesquita-iran.md)
 
-[B. Mesquita and India](../../2015/04/mesquita-iran.md)
+[B. Mesquita and India](../../2015/04/mesquita-india.md)
 
