@@ -141,8 +141,8 @@ can be found in *Predictioneer's Game*.
 Inborn Ability
 
 Some ppl do have natural skillz on predictive social dynamics meaning
-is basically an ability to run BdM's computations in their head. When
-BdM put the algo up for competition against international politics
+basically an ability to run BdM's computations in their head. When BdM
+put the algo up for competition against international politics
 analysts, he saw some people consistenly tied the machine. Such
 people, then, basically had that internal machinery for social
 dynamics prediction wired into them.
