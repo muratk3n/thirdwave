@@ -1,130 +1,134 @@
 # Tweets
 
-They discovered a method to produce a cheap catalyst that performs as
-well as current methods, but based on tungsten.
 
-"[E]lectrocatalytic water splitting has been considered as one of the
-most important and sustainable processes for the hydrogen
-production. Because of the low HER kinetics, it is necessary to use
-high efficiency electrocatalysts to increase the overall process
-efficiency. ...
+💧 + ⚡ = [Boom!](https://images.squarespace-cdn.com/content/53ab1feee4b0bef0179a1563/1561389995070-UR2D2PXG8VL9QW133ID6/hydrogen+energy+storage+infographic.png?content-type=image%2Fpng) ⛽ ⛽ ⛽
 
-Here, we report a simple and scalable plasma dynamic synthesis method
-to form composite containing the single-crystalline nanosized cubic
-tungsten carbide embedded in the carbon matrix (WC 1-x @C), which was
-studied in HER both in the pure form and modified with some Pt by wet
-impregnation method. It was found that even by adding 1 wt % platinum,
-it is possible to significantly increase the catalytic activity of the
-WC 1-x @C composite, while with the addition of 10% platinum allows
-reaching almost the same properties as for commercial Pt/C sample"
+---
+Sweet. 💧 means ⛽ for us
 
-[Link](https://www.sciencedirect.com/science/article/abs/pii/S0925838820314791)
+"@NASAMoon
+
+We just announced that - for the first time - we’ve confirmed H2O💧 in
+sunlit☀️ areas of the Moon"
 
 ---
 
-These guys are developing a capsule technology to carry H2 to
-whereever it's needed, especially for aviation needs. Good company to watch. 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking forward to getting hydrogen-powered aviation off the ground in the near-term with some help from our partners at <a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> ! <a href="https://t.co/S3Swe0h035">https://t.co/S3Swe0h035</a></p>&mdash; Universal Hydrogen (@Universal_H2) <a href="https://twitter.com/Universal_H2/status/1308820927682162688?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-There is no comparison. H2 storage capacity is nearly limitless. If
-there is water, we can get H2. Double the panel capacity double the
-fuel. As simple as that.
-
-"How does storage of H2 vs bats compare?"
+Chile scraps their 80 Consitution? Their diktat is usually compared to
+TR fascism, w its human-rights vioations, on the left
+especially. Pinotchet is compared to Evren, and their consitution must
+be just as bad, 80 for them, 82 for TR. Neocon, fascist inherently. TR
+fascism is still around sadly
 
 ---
 
+Which analyst is that? TH is already a non-democracy. A coup there wld
+be just another workday, like another Thursday.
 
-How to understand a certain country with dumb ni--rs at the helm..
-You start with a child. What does a child want? Wants to do grown-up
-things, right. Drive like one, be like one.
-
-<img width="340" src="https://cdn.cdnparenting.com/articles/2018/04/578115136-H.jpg"/>
-
-But if the child type is dysfunctional, s/he wont know what those
-grown-up things are, will instead do things that *appear* grown-up,
-like this kid, with imaginary steering wheel, and make car sounds
-"wroomm wrooom". In gov that'll be vevy vevy big bridges, vevy vevy
-big wars... wout knowing whether these things are useful or not. This
-is the sad truth.
+"Protests in Thailand could spiral into violence and lead to a
+military coup, analyst says"
 
 ---
 
-They are very similar. With golf you sorta walk around too, like
-regular daily life chill, then you go to a certain point, stop,
-concenrate, strain.. strain.. Boom!
+Let it rip
 
-That's exactly like taking a shit.
-
-"You say golf is similar to a number two. How so?"
-
----
-
-"@jimmy_dore
-
-I had many spirited debates about censorship in the TYT studio, I was
-warning that being pro-censorship will always come back to bite the
-left even harder. Reminder: No matter how much you hate someone who is
-speaking, the antidote to bad speech is more speech, not censorship.
-
-'@sunraysunray
-
-Facebook is now blocking our videos for violating "community
-standards" that trigger certain key words'"
+"Banks may have to brace for heavy losses as commercial property
+prices plunge... Commercial real estate prices have plunged this year
+as people stopped going into offices, and retail businesses were
+disrupted. That could lead to a significant losses for banks,
+according to a recent report"
 
 ---
 
-"Gov. Newsom Pledges to Ban Fracking in California – Then Greenlights
-More of It. The Newsom administration has established a pattern of
-approving permits during busy news cycles"
+"@gabriel_zucman
 
-[Link](https://capitalandmain.com/gov-newsom-pledges-to-ban-fracking-california-then-greenlights-more-1023)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are proud to present the <a href="https://twitter.com/fch_ju?ref_src=twsrc%5Etfw">@fch_ju</a> <a href="https://twitter.com/hashtag/HyShip?src=hash&amp;ref_src=twsrc%5Etfw">#HyShip</a> project - the world?s first cargo vessel sailing on liquid <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and a LH2 supply chain! <a href="https://twitter.com/EU_H2020?ref_src=twsrc%5Etfw">@EU_H2020</a> <a href="https://twitter.com/Wilhelmsengroup?ref_src=twsrc%5Etfw">@Wilhelmsengroup</a> <a href="https://twitter.com/Equinor?ref_src=twsrc%5Etfw">@Equinor</a> <a href="https://twitter.com/KOGMaritime?ref_src=twsrc%5Etfw">@KOGMaritime</a> <a href="https://t.co/q1BXqjFEpL">pic.twitter.com/q1BXqjFEpL</a></p>&mdash; Maritime CleanTech (@NCEMCT) <a href="https://twitter.com/NCEMCT/status/1319231361669042176?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It is my professional duty to note again that, no matter its
+popularity in some circles, 'the top 10% pays 70% of income taxes' is
+a meaningless statistic. If the top 10% earned 100% of all income it
+would pay 100% of all income taxes"
 
 ---
 
-"@Redistrict
+Real World Floating Architecture with Karina Czapiewska
 
-Breathtaking: statewide, Texas just surpassed 80% of its total 2016
-votes cast, leading the nation. And there's still more than a week of
-voting to go"
+[Link](https://www.seasteading.org/floating-architecture/)
 
 ---
 
-Making something float is much easier than making it sink. Calcs for a
-platform... 3x2x8 meter design, with two stacks of empty barrels in
-it, pour concrete over it, put a **ton** of weight on top, this
-conrete slab would still float. 
+Chimey.. 
 
-Barrel, 0.16 m^3, concrete density 2400 kg / m3.
+Francis Coppieters - Funky Chimes \#music
 
-```python
-w = 3; h = 2; l = 8
-concw = (w*h*l - w*1.2*l) * 2400
-concv = w*h*l
-ow = 1000.0
-"%0.2f, %0.2f" % (concw+ow, concv*1000.0)
-```
-
-```text
-Out[1]: '47080.00, 48000.00'
-```
+[Link](https://youtu.be/SuIJuLrNHMI)
 
 ---
 
-Boeing is in the gutter, Airbus on the rise. Dam.
+Francis Coppieters - Piano in Transit \#music
+
+[Link](https://youtu.be/e1LOWcVv56M)
 
 ---
 
-Airbus 👍 👍 👍 
+"@JimBridenstine
 
-<img width="340" src="https://pbs.twimg.com/media/EicHhl2XYAAPSsk?format=jpg&name=small"/>
+NEWS: We confirmed water on the sunlit surface of the Moon for the 1st
+time using @SOFIAtelescope. We don’t know yet if we can use it as a
+resource, but learning about water on the Moon is key for our
+\#Artemis exploration plans"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🌖 We detected water on the sunlit lunar surface!<br><br>Understanding the Moon’s water helps piece together the history of water in the inner solar system and also supports future human space exploration.<br><br>Details: <a href="https://t.co/sONYzaylco">https://t.co/sONYzaylco</a> <a href="https://t.co/37hs7AaubP">pic.twitter.com/37hs7AaubP</a></p>&mdash; SOFIAtelescope (@SOFIAtelescope) <a href="https://twitter.com/SOFIAtelescope/status/1320776485196713984?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   
+---
+
+"@H2Europe
+
+Great to see Giles Dickson, CEO of @WindEurope, supporting European
+Clean Hydrogen Alliance!"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The EU Clean Hydrogen Alliance is moving into the next phase! A call has been published to form 6 roundtables on:<br><br>🟢production<br>⚪️transmission &amp; distribution<br>🔵industrial applications<br>🟢mobility<br>⚪️energy sector<br>🔵residential applications<a href="https://t.co/AgSU86rOo6">https://t.co/AgSU86rOo6</a> <a href="https://twitter.com/hashtag/hydrogen4climate?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen4climate</a> <a href="https://t.co/UV4VazRQlE">pic.twitter.com/UV4VazRQlE</a></p>&mdash; Internal Market, Industry, Entrepreneurship &amp; SMEs (@EU_Growth) <a href="https://twitter.com/EU_Growth/status/1320653484979589120?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@ggreenwald
+
+There is no question -- none -- that mainstream US news outlets
+disseminate more unhinged, unproven conspiracy theories -- and do far
+more damage with them -- than QAnon, or whichever fringe group they
+want you to focus on, can achieve in 1,000 years"
+
+
+---
+
+If one has certain [socdyn ability](2015/07/mesquita-game-theory.md#inborn),
+an idea is to use it to find good anchor points, calculations, measurements, lit,
+and use that to build more know-how around. Can lead to more replicatable
+results and might even to something resembling science. I did this bcz
+lack of mathematics in socials sciences is repulsive for 1, and wanted
+to be as hands-off as possible (refs for everything). It works.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/MissionH24?src=hash&amp;ref_src=twsrc%5Etfw">#MissionH24</a>&#39;s water emissions are hot news - according to a reliable source. 💧💦<a href="https://twitter.com/GreenGTOfficiel?ref_src=twsrc%5Etfw">@GreenGTOfficiel</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/Paris?src=hash&amp;ref_src=twsrc%5Etfw">#Paris</a> <a href="https://t.co/DuB7fdGR73">pic.twitter.com/DuB7fdGR73</a></p>&mdash; Mission H24 (@MissionH24) <a href="https://twitter.com/MissionH24/status/1320765341396590592?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+[Standardization](2011/03/fundamentals-of-industrial-ideologies.md).. 👎
+
+The Independent, 2015: "Schools are using 'dubious practices' and even
+cheating to achieve better performance results because of the intense
+pressure of the Government’s test and exam system, a major study for
+the largest teaching union has found. ...
+
+The study concluded there was 'evidence that teachers in England are
+‘gaming the system’, because they are under pressure to achieve good
+results. In some cases they are being told to cheat. Such practices
+are increasing in response to the intense pressure on school leaders
+and teachers to raise attainment as measured by tests and exams.'"
+
+[Link](https://www.independent.co.uk/news/education/education-news/schools-are-using-dubious-practices-boost-results-teacher-s-union-says-10365452.html)
 
 ---
 
