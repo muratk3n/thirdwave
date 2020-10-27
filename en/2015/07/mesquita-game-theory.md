@@ -16,7 +16,7 @@ doveness as well.
 Then BdM processes this data as part of a repeated game in which he
 finds the optimum decision point for all parties involved, across all
 dyads, taking into account whether actors are hawks, doves, passives,
-etc. At every iteration all actor try to bring someone else to their
+etc. At every iteration all actors try to bring someone else to their
 position, whether successful or not, or how much depends on the 3
 attributes shown earlier, and BdM's special algorithm. if someone has
 high salience on an issue for example, has lots of influence, this
