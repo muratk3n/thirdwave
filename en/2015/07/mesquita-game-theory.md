@@ -2,9 +2,8 @@
 
 Bruce bd Mesquita (BdM) developed a method to predict how decisions
 are formed within a group of people, nations, alliances, parliaments
-so forth. It does not matter whether the group has internal animosity,
-rivalry or is within generally like-minded actors; the method still
-works.
+so forth. It does not matter whether the group has rivalry or consists
+of generally like-minded actors; the method still works.
 
 The first version of the method took 3 data points per stakeholder to
 to base further computation on. Per issue, these measurements are 1)
@@ -18,11 +17,11 @@ finds the optimum decision point for all parties involved, across all
 dyads, taking into account whether actors are hawks, doves, passives,
 etc. At every iteration all actor try to bring someone else to their
 position, whether successful or not, or how much depends on the 3
-attributes shows earlier, if someone has high salience on an issue for
-example, has lots of influence, this person might not be swayed, but
-can be if some of the base numbers change, etc. Performing this many
-iterations, a group optimality is reached, and that is the final
-decision.
+attributes shown earlier, and BdM's special algorithm. if someone has
+high salience on an issue for example, has lots of influence, this
+person might not be swayed, but can be if some of the base numbers
+change, etc. Performing this many iterations, a group optimality is
+reached, and that is the final decision.
 
 A very important feature of the method is that clout, position and
 salience data points need not be researched. Any observer who reads
