@@ -108,22 +108,24 @@ tau = 7 # length of time window
 si_mean = 6.3 # mean of serial interval
 si_std = 4.2 # standard deviation of serial interval
 conf = 0.95 # confidence level of estimated Reff
-c = df['France'].tail(200)
+c = df['United Kingdom'].tail(200)
 R = util.Reff(c, si_mean, si_std, tau, conf)
 print (R[0,:][-20:])
 plt.semilogy(R[0,:], 'r', label='median')
 plt.semilogy(R[1,:], 'k--')
 plt.semilogy(R[2,:], 'k--', label='95% confidence')
-plt.savefig('Rt-fr.png')
+plt.title('UK')
+plt.savefig('Rt.png')
 ```
 
 ```text
-[1.14126687 1.14473272 1.1471149  1.14840016 1.14757916 1.14656922
- 1.14876181 1.14607636 1.141851   1.13761038 1.13359156 1.13227862
- 1.13092702 1.13043802 1.13099026 1.13314191 1.13464789 1.13539282
- 1.13742946 1.1410738 ]
+[1.13004026 1.14182393 1.153096   1.16223003 1.16561769 1.16723552
+ 1.16809962 1.16933767 1.16991612 1.16997601 1.16942119 1.1691346
+ 1.16931382 1.169723   1.17092887 1.17173616 1.17265723 1.17407199
+ 1.17504581 1.17539859]
 ```
 
+![](Rt.png)
 
 
 
