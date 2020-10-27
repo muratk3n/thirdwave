@@ -314,29 +314,15 @@
 
 [#green #kit](10/green-kit.md)
 
-[#haha](10/haha.md)
-
-[iEverything](10/ieverything.md)
-
-[#indeed](10/indeed.md)
-
-[Intralox](10/intralox.md)
-
 [Low Rates](10/low-rates.md)
 
-[Mahna Mahna](10/mahna-mahna.md)
-
 [More on Brexit](10/more-on-brexit.md)
-
-[#nicely #done](10/nicely-done.md)
 
 [Q&A - 28/10](10/q-2810.md)
 
 [Q&A - 3/11](10/q-311.md)
 
 [Q&A - 4/11](10/q-411_4.md)
-
-[The Basic Mode](10/the-basic-mode.md)
 
 [The Paris Climate Agreement Is Now Official](10/the-paris-climate-agreement-is-now.md)
 
