@@ -11,10 +11,10 @@ access to it, but  it turns out GDELT has a lot of repeats, i.e. for
 Charleston attack people mourning about it, commenting etc. would
 appear as data points with an incorrect status code indicating an
 actual attack. The GDELT option would need a lot of dedup code. So I
-looked for other data sources, and found
-[GTD](http://www.start.umd.edu/gtd/) available in Excel format
-covering attacks between 1970-2014. I converted it into CSV and zipped
-it, code at the bottom.
+looked for other data sources, and found [GTD](http://www.start.umd.edu/gtd/)
+available in Excel format covering attacks between 1970-2014.
+I converted it into CSV and [zipped it](https://drive.google.com/uc?export=view&id=1YnXq12oxw6ijwq3hcrfxcqND96Jyoe2d),
+code at the bottom.
 
 [geek]Me not like binary formats like Excel, oddly it turns out zipped
 up CSV is smaller than xlsx, and processed by Python Pandas at the
