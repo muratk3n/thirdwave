@@ -56,16 +56,14 @@ worth of world population growth. Why care?"
 
 ---
 
-I am curious wout freedom of speech, how much of Borat could he pull
-off, even any of the other pranks. That thing with Cheney for
-example. In some countries they could kill you for that.
-
----
-
 SBC thinks Twitter alone is responsible for Trump's 2016 election
 BTW. He doesn't really get what is going on. His main crowd seems to
 be affluent centrist types who just want to be served up some safe
-resistance.
+resistance. The seemingly daring nature of the pranks hide the fact
+that these are safe protests to make. After wide condemnation of W ME
+policies, it is safe to "get" Cheney, in a culture who already have
+tolerance for such acts. Is it safe to say millions have no health
+insurance?
 
 ---
 
