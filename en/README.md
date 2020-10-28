@@ -64,10 +64,10 @@ worth of world population growth. Why care?"
 
 The seemingly daring nature of his pranks hide the fact that these are
 safe protests to make. After wide condemnation of W ME policies, it is
-safe to "get" Cheney, in a culture who already have tolerance for that
-stuff. Is it safe to say millions have no health insurance and Dems
-have done nothing abt it for decades? Say that shit, maybe they'll
-pull the money for your next Borat movie.
+safe to "get" Cheney, in a culture where there is already tolerance
+for that stuff. Is it safe to say millions have no health insurance
+and Dems have done nothing abt it for decades? Say that shit, maybe
+they'll pull the money for your next Borat movie.
 
 ---
 
