@@ -50,7 +50,7 @@ Langhorns - Slipstream \#music
 
 ---
 
-C. Hedges: "48% of front line workers remain inelligeble for sick pay [in US]"
+C. Hedges: "48% of front line workers remain ineligible for sick pay [in US]"
 
 ---
 
