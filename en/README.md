@@ -69,10 +69,12 @@ be comfortable brunch liberal types who just want to be served up some
 
 ---
 
-Well.. after [pressure like this](https://www.businessinsider.com/sacha-baron-cohen-tore-into-mark-zuckerberg-again-at-the-golden-globes-2020-1) FB caved.
+Well after pressure like that FB caved
 
 "Baron Cohen called Zuckerberg a 'naive, misguided child who spreads
 Nazi propaganda and only has imaginary friends.'"
+
+[Link](https://www.businessinsider.com/sacha-baron-cohen-tore-into-mark-zuckerberg-again-at-the-golden-globes-2020-1)
 
 ---
 
