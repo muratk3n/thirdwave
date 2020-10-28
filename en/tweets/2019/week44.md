@@ -299,24 +299,6 @@ maximized equal opportunities".
 
 ---
 
-I like the one where Ali G goes 9-9-9-9-9-9... it goes on forever, to
-a room full of scientists. Those are real scientists BTW. They have no
-idea they are being punked.
-
-[Link](https://youtu.be/xx5t5ps-bwc?t=39)
-
-*2019-10-30 11:9:39*
-
----
-
-This is hilarious \#alig \#chomsky
-
-[Link](https://youtu.be/fOIM1_xOSro?t=36)
-
-*2019-10-30 11:8:37*
-
----
-
 Ha ha... technically Warren is a boomer, Bernie is not. 
 
 *2019-10-30 10:38:39*
