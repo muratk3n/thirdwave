@@ -6,6 +6,12 @@ Celebrations in Chile after scrapping their Consitution
 
 ---
 
+Eat Static - Love Truncheon! \#music
+
+[Link](https://youtu.be/tiXl5DFVBIM)
+
+---
+
 Mad Money + H2. 
 
 <iframe width="340"  src="https://www.youtube.com/embed/m7VIhL2cg60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
