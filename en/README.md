@@ -73,7 +73,7 @@ insurance and Dems have done nothing abt it for decades?
 
 ---
 
-Well after pressure like this, from all over the place, FB caved
+Well after pressure like this from many FB caved
 
 "Baron Cohen called Zuckerberg a 'naive, misguided child who spreads
 Nazi propaganda and only has imaginary friends.'"
