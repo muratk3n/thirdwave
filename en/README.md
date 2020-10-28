@@ -59,15 +59,15 @@ worth of world population growth. Why care?"
 SBC thinks Twitter alone is responsible for Trump's 2016 election
 BTW. He doesn't really get what is going on. His main crowd seems to
 be affluent centrist types who just want to be served up some safe
-resistance. The seemingly daring nature of the pranks hide the fact
+resistance. The seemingly daring nature of his pranks hide the fact
 that these are safe protests to make. After wide condemnation of W ME
 policies, it is safe to "get" Cheney, in a culture who already have
 tolerance for such acts. Is it safe to say millions have no health
-insurance?
+insurance and Dems have done nothing abt it for decades?
 
 ---
 
-Well after pressure like that FB caved
+Well after pressure like this, from all over the place, FB caved
 
 "Baron Cohen called Zuckerberg a 'naive, misguided child who spreads
 Nazi propaganda and only has imaginary friends.'"
