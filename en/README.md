@@ -62,8 +62,6 @@ worth of world population growth. Why care?"
 
 ---
 
-🙄 
-
 "The 'Borat 2' babysitter says she only made $3,600 for being tricked
 in the film. Now, she's unemployed and feels 'betrayed.'"
 
