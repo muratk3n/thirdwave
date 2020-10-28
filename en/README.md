@@ -58,7 +58,7 @@ worth of world population growth. Why care?"
 
 I am curious wout freedom of speech, how much of Borat could he pull
 off, even any of the other pranks. That thing with Cheney for
-example.. in some countries they could kill you for that.
+example. In some countries they could kill you for that.
 
 ---
 
