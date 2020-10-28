@@ -1,6 +1,6 @@
 # Tweets
 
-Celebrations in Chile after scraping the Consitution
+Celebrations in Chile after scrapping their Consitution
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Cada día, cada mes, cada año,es un nuevo paso hacia el sueño de la PATRIA GRANDE 🌎<br><br>¡ADIÓS DICTADURA! <a href="https://twitter.com/hashtag/ChileDesperto?src=hash&amp;ref_src=twsrc%5Etfw">#ChileDesperto</a> 🇨🇱🇨🇱<br>Una nueva constitución. <a href="https://twitter.com/hashtag/Chile?src=hash&amp;ref_src=twsrc%5Etfw">#Chile</a> <a href="https://twitter.com/hashtag/TE21?src=hash&amp;ref_src=twsrc%5Etfw">#TE21</a> <a href="https://t.co/Igrl6WhVyQ">pic.twitter.com/Igrl6WhVyQ</a></p>&mdash; 𝑼𝒗𝒊𝒕𝒂 (@Uva22) <a href="https://twitter.com/Uva22/status/1320770044893212679?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
