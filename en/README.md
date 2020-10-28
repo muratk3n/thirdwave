@@ -67,6 +67,8 @@ worth of world population growth. Why care?"
 "The 'Borat 2' babysitter says she only made $3,600 for being tricked
 in the film. Now, she's unemployed and feels 'betrayed.'"
 
+[Link](https://www.insider.com/borat-2-babysitter-movie-gofundme-campaign-jeanise-jones-amazon-stream-2020-10)
+
 ---
 
 The seemingly daring nature of his pranks hide the fact that these are
