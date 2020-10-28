@@ -85,9 +85,9 @@ they'll pull the money for your next Borat movie.
 ---
 
 SBC thinks Twitter alone is responsible for Trump's 2016 election
-BTW. He doesn't really get what is going on. His main crowd seems to
-be affluent centrist types who just want to be served up some safe
-resistance. 
+BTW. He doesn't really understand what's going on. His main crowd
+seems to be affluent centrist types who just want to be served up some
+safe resistance.
 
 ---
 
