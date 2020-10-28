@@ -62,6 +62,13 @@ worth of world population growth. Why care?"
 
 ---
 
+🙄 
+
+"The 'Borat 2' babysitter says she only made $3,600 for being tricked
+in the film. Now, she's unemployed and feels 'betrayed.'"
+
+---
+
 The seemingly daring nature of his pranks hide the fact that these are
 safe protests to make. After wide condemnation of W ME policies, it is
 safe to "get" Cheney, in a culture where there is already tolerance
