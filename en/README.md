@@ -1,9 +1,5 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Illinois and Arizona are among the states with the most regressive systems of taxation. Ballot measures in both states, and in California, would distribute the burden more fairly.<a href="https://t.co/DRwovUvu0f">https://t.co/DRwovUvu0f</a></p>&mdash; Binyamin Appelbaum (@BCAppelbaum) <a href="https://twitter.com/BCAppelbaum/status/1321618010260602888?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@dailyposter
 
 NEWS: A major fossil fuel company pumped an average of $12,000 into
