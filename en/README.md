@@ -1,5 +1,18 @@
 # Tweets
 
+
+CNN: "With the race for the presidency approaching its end amid a
+raging pandemic, Democratic nominee Joe Biden maintains a substantial
+lead over President Donald Trump nationwide" via @AlanIAbramowitz
+
+[Link](https://twitter.com/AlanIAbramowitz/status/1321579310650695680)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All satellites deployed. Thank you <a href="https://twitter.com/planetlabs?ref_src=twsrc%5Etfw">@planetlabs</a>, Canon and <a href="https://twitter.com/SpaceflightInc?ref_src=twsrc%5Etfw">@SpaceflightInc</a> for flying Electron.</p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1321579637453938688?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@dailyposter
 
 NEWS: A major fossil fuel company pumped an average of $12,000 into
