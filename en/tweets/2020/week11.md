@@ -1289,9 +1289,9 @@ precautions to avoid contact with others"
 
 Back that azz up
 
-<img width="340" src="https://66.media.tumblr.com/56b69602cff1447b6b0fb10754bf4a1d/tumblr_inline_p92v8hiV9P1r1kx41_540.gif"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=19wII7ZQpswPwua49mOgWmVR4ZH82DUzp"/>
 
-<img width="340" src="https://forevertwentysomethings.com/wp-content/uploads/2015/11/tumblr_mqelhxlzG21rqfhi2o1_400.gif"/>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1n_9eLHAp9e63pHFoONwdwTK99Qn6zMjJ"/>
 
 *2020-3-9 14:15:5*
 
