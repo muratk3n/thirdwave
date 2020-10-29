@@ -246,7 +246,7 @@ synthesis gas"
 
 ---
 
-![](https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/2010/12/kermit_spank.gif)
+![](kermit_spank.gif)
 
 *2019-6-25 14:27:53*
 
