@@ -102,7 +102,7 @@ They have a Hoboken too. And it's likely theirs is the original.
 
 ---
 
-I did lot of my H2 read-ups while in Antwerp.  👍
+I did lot of my first H2 read-ups while in Antwerp.  👍
 
 ---
 
