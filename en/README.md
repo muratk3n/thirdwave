@@ -92,10 +92,9 @@ payload versus battery electric vehicles"
 
 ---
 
-It's not surprising fascists sometimes
-[offering](2020/07/right-acting-left.md) hard-left policies. While
-it's fine to have some left actions, you really don't need the
-accompanying drama, or deaths, or the errant stupidity.
+It's not surprising fascists sometimes [offering](2020/07/right-acting-left.md) left
+solutions. While it's fine to get some left policies, you really don't need the
+accompanying drama, or deaths, and the errant stupidity.
 
 "[T]he Brasilian government launched the benefits ... with an average
 monthly benefit of $163 per home. Now the relief is also providing an
