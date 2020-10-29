@@ -146,8 +146,6 @@
 
 [Stuxnet](12/stuxnet.md)
 
-[This is What I Do To Modernity](12/this-is-what-i-do-to-modernity.md)
-
 [Wikileaks and the Long Haul - 2](12/wikileaks-and-long-haul-2.md)
 
 [Wikileaks and the Long Haul - 3](12/wikileaks-and-long-haul-3.md)
