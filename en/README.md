@@ -94,7 +94,7 @@ payload versus battery electric vehicles"
 
 It's not surprising fascists sometimes
 [offering](2020/07/right-acting-left.md) hard-left policies. While
-it's fine to have left policies, you really don't need the
+it's fine to have some left actions, you really don't need the
 accompanying drama, or deaths.
 
 "[T]he Brasilian government launched the benefits ... with an average
