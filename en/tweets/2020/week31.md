@@ -421,7 +421,7 @@ next year"
 
 ---
 
-<img width="340" src="https://media.tenor.com/images/5c2b5639ea6781404cead2a4d25b8063/tenor.gif"/>
+<img width="340" src="assslap.gif"/>
 
 ---
 
