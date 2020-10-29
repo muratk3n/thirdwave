@@ -1,111 +1,124 @@
 # Tweets
 
-Celebrations in Chile after scrapping their Consitution
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Cada día, cada mes, cada año,es un nuevo paso hacia el sueño de la PATRIA GRANDE 🌎<br><br>¡ADIÓS DICTADURA! <a href="https://twitter.com/hashtag/ChileDesperto?src=hash&amp;ref_src=twsrc%5Etfw">#ChileDesperto</a> 🇨🇱🇨🇱<br>Una nueva constitución. <a href="https://twitter.com/hashtag/Chile?src=hash&amp;ref_src=twsrc%5Etfw">#Chile</a> <a href="https://twitter.com/hashtag/TE21?src=hash&amp;ref_src=twsrc%5Etfw">#TE21</a> <a href="https://t.co/Igrl6WhVyQ">pic.twitter.com/Igrl6WhVyQ</a></p>&mdash; 𝑼𝒗𝒊𝒕𝒂 (@Uva22) <a href="https://twitter.com/Uva22/status/1320770044893212679?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Illinois and Arizona are among the states with the most regressive systems of taxation. Ballot measures in both states, and in California, would distribute the burden more fairly.<a href="https://t.co/DRwovUvu0f">https://t.co/DRwovUvu0f</a></p>&mdash; Binyamin Appelbaum (@BCAppelbaum) <a href="https://twitter.com/BCAppelbaum/status/1321618010260602888?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Eat Static - Love Truncheon! \#music
+"@dailyposter
 
-[Link](https://youtu.be/tiXl5DFVBIM)
+NEWS: A major fossil fuel company pumped an average of $12,000 into
+politics every single day for 2 years & just got a top court to bless
+its move to keep the money 100% anonymous. The case could set a
+precedent for all corporate spending to buy elections"
 
----
-
-Mad Money + H2. 
-
-<iframe width="340"  src="https://www.youtube.com/embed/m7VIhL2cg60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-"@gabriel_zucman
-
-In 1950, the corporate income tax raised 6.5% of national income in
-tax revenue. In 2019 it raised 1.2%"
+[Link](https://mobile.twitter.com/dailyposter/status/1321622652721664000)
 
 ---
 
-"Coronavirus antibodies decline after infection, study finds, raising
-questions about herd immunity"
+"@ShantMM
 
-[Link](https://www.cnbc.com/2020/10/27/herd-immunity-coronavirus-antibodies-fall-after-infection-study-says.html)
-
----
-
-Fila Brazillia - D'avros \#music
-
-[Link](https://youtu.be/B7kx9vsrK8Y)
+What made Russiagate unique as a conspiracy theory is that you need a
+college degree to believe it, because it requires a special sort of
+stupidity only conferred by higher education"
 
 ---
 
-Langhorns - Slipstream \#music
+From their brochure
 
-[Link](https://youtu.be/drodN-SnmJU)
+<img width="340" src="https://pbs.twimg.com/media/Eleuf8QXYAAzYMR?format=jpg&name=small"/>
 
----
-
-"12 million have lost employer-sponsored health insurance [US]"
-
-[Link](https://www.cbsnews.com/news/health-insurance-coronavirus-pandemic-12-million-lost-employer-sponsored/)
+[Link](https://lavo.com.au/wp-content/uploads/2020/10/LAVO%E2%84%A2-Residential-Unit-Brochure.pdf)
 
 ---
 
-C. Hedges: "48% of front line workers remain ineligible for sick pay [in US]"
+They use sodium borohydride..? 🤔
+
+[Link](https://www.mdpi.com/1996-1073/12/23/4428/htm)
 
 ---
 
-That's lota of f-ing people, for one. Second, if the spread is too
-fast, it overhelms the health system, which most government in the EU
-and elsewhere are responsible for. That's why govs panick when R goes
-too much over 1. Plus slowing the spread buys time; cure, vaccine, etc.
+"The hydrogen hydride alloy used in Lavo is based on a technology that
+emerged after WWII, where hydrogen molecules attach to metals such as
+magnesium or aluminium. Professor Kondo-Francois Aguey-Zinsou, chief
+scientist and executive director of Lavo and lead researcher in
+hydrogen technologies at UNSW, has been researching hydrides for more
+than 20 years. Muller says Aguey-Zinsou has 'cracked the code' with
+the alloy used in the Lavo storage system"
 
-"If covid is let roam free and 1% of people die, that is one years
-worth of world population growth. Why care?"
-
----
-
-"Texas is on its way to becoming a Democratic state"
+[Link](https://www.ecogeneration.com.au/the-40kwh-34750-196kg-hydrogen-battery-for-the-home/)
 
 ---
 
-"The 'Borat 2' babysitter says she only made $3,600 for being tricked
-in the film. Now, she's unemployed and feels 'betrayed.'"
-
-[Link](https://www.insider.com/borat-2-babysitter-movie-gofundme-campaign-jeanise-jones-amazon-stream-2020-10)
+Hydride based H2 storage was listed [here](2020/10/h2-storage.md).
 
 ---
 
-The seemingly daring nature of his pranks hide the fact that these are
-safe protests to make. After wide condemnation of W ME policies, it is
-safe to "get" Cheney, in a culture where there is already tolerance
-for that stuff. Is it safe to say millions have no health insurance
-and Dems have done nothing abt it for decades? Say that shit, maybe
-they'll pull the money for your next Borat movie.
+They use a form of metal hydride apparently.
+
+"@hazergroupltd
+
+With the aim of powering a cleaner, more sustainable future through
+its cutting-edge hydrogen storage technology, Australian technology
+and lifestyle company Lavo officially launched on Tuesday (20th Oct)"
+
+<img width="200" src="https://pbs.twimg.com/media/Eld9rc2XYAc142e?format=jpg&name=small"/>
+
+[Link](https://twitter.com/hazergroupltd/status/1321663202212675584)
+
 
 ---
 
-SBC thinks Twitter alone is responsible for Trump's 2016 election
-BTW. He doesn't really understand what's going on. His main crowd
-seems to be affluent centrist types who just want to be served up some
-safe resistance.
+Plug Power CEO: "Power Density and Range: fuel cell energy density is
+four times more than batteries, and a tank of hydrogen contains more
+than double the energy of a battery at the same weight. Fuel cells
+allow easy scalability for users to increase range without the
+elimination of cargo space. This is important in middle-mile and
+long-haul green mobility markets.  In these applications, you must
+double the batteries on board to double the range of a
+battery-electric vehicle. With fuel cells, to double the range, you
+only have to add more hydrogen.  That supports a 50-60% increase in
+payload versus battery electric vehicles"
+
+[Link](https://www.powerelectronictips.com/fuel-cells-capabilities-and-performance-virtual-roundtable-part-1-of-2/)
 
 ---
 
-Well after pressure like this from many FB caved
+It's not surprising fascists sometime [offering](2020/07/right-acting-left.md)
+hard-left policies. 
 
-"Baron Cohen called Zuckerberg a 'naive, misguided child who spreads
-Nazi propaganda and only has imaginary friends.'"
-
-[Link](https://www.businessinsider.com/sacha-baron-cohen-tore-into-mark-zuckerberg-again-at-the-golden-globes-2020-1)
-
----
-
-"Palestinian Information Center (PIC) condemns with the strongest
-possible terms Facebook’s deletion of its 5-million fan page"
+"[T]he Brasilian government launched the benefits ... with an average
+monthly benefit of $163 per home. Now the relief is also providing an
+unlikely popularity boost for Bolsonaro"
 
 ---
 
-Last updated on *2020-10-28 09:11*
+Not exactly fluidy dam break yet.. but we're getting there
+
+<img width="340" src="https://drive.google.com/uc?export=view&id=1ANsLwMcbo79gu_2WQK9W3nuiySv1tovw"/>
+
+---
+
+They have a Hoboken too. And it's likely theirs is the original.
+
+---
+
+I did lot of my H2 read-ups while in Antwerp.  👍
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The construction of Antwerp’s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> station has begun. Compagnie Maritime 🇧🇪 said it will be the first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> station in the <a href="https://twitter.com/hashtag/world?src=hash&amp;ref_src=twsrc%5Etfw">#world</a> that produces and is capable of supplying <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> to 🚘, 🚍, 🚚 and 🚢. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/HydrogenEnergy?ref_src=twsrc%5Etfw">@HydrogenEnergy</a> <a href="https://t.co/UXuVH6trTh">https://t.co/UXuVH6trTh</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1320998670934786048?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@aaronstein1
+
+Ankara and Moscow have closer ties than Ankara and Paris. Russia
+killed dozens of Turkish troops in March and Ankara chose to pretend
+the Syrians did it"
+
+---
+
+Last updated on *2020-10-29 10:40*
 
 ---
 
