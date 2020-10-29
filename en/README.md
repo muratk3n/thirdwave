@@ -83,7 +83,7 @@ payload versus battery electric vehicles"
 
 ---
 
-It's not surprising fascists sometime [offering](2020/07/right-acting-left.md)
+It's not surprising fascists sometimes [offering](2020/07/right-acting-left.md)
 hard-left policies. 
 
 "[T]he Brasilian government launched the benefits ... with an average
