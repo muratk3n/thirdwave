@@ -1,134 +1,110 @@
 # Tweets
 
+Pine Phone
 
-CNN: "With the race for the presidency approaching its end amid a
-raging pandemic, Democratic nominee Joe Biden maintains a substantial
-lead over President Donald Trump nationwide" via @AlanIAbramowitz
-
-[Link](https://twitter.com/AlanIAbramowitz/status/1321579310650695680)
+<iframe width="340" src="https://www.youtube.com/embed/zlI14bb1zEM?start=275" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All satellites deployed. Thank you <a href="https://twitter.com/planetlabs?ref_src=twsrc%5Etfw">@planetlabs</a>, Canon and <a href="https://twitter.com/SpaceflightInc?ref_src=twsrc%5Etfw">@SpaceflightInc</a> for flying Electron.</p>&mdash; Peter Beck (@Peter_J_Beck) <a href="https://twitter.com/Peter_J_Beck/status/1321579637453938688?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wanted: assessment of why Bush-era war criminals are suddenly the darlings of the Rachel Maddow <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a>-and-smart glasses set, and are being welcomed as thought leaders in the modern Democratic Party. They share more than just a dislike of Donald Trump. <a href="https://t.co/EdUl75UVDr">https://t.co/EdUl75UVDr</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321998480886280192?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@dailyposter
+"Don't expect a contested election... The cone of uncertainty has
+narrowed considerably. Now, the question seems to be whether we'll see
+a "skinny" Biden win or a landslide"
 
-NEWS: A major fossil fuel company pumped an average of $12,000 into
-politics every single day for 2 years & just got a top court to bless
-its move to keep the money 100% anonymous. The case could set a
-precedent for all corporate spending to buy elections"
-
-[Link](https://mobile.twitter.com/dailyposter/status/1321622652721664000)
+[Link](https://www.nationaljournal.com/s/711037?unlock=SRT6SBVCJHPBFJTS)
 
 ---
 
-"@ShantMM
-
-What made Russiagate unique as a conspiracy theory is that you need a
-college degree to believe it, because it requires a special sort of
-stupidity only conferred by higher education"
+<img width="340" src="https://pbs.twimg.com/media/ElettjHXEAEzqrh?format=jpg&name=medium"/>
 
 ---
 
-From their brochure
 
-<img width="340" src="https://pbs.twimg.com/media/Eleuf8QXYAAzYMR?format=jpg&name=small"/>
+🤣 🤣 🤣 Türker Ertürk.. That's the man's name.
 
-[Link](https://lavo.com.au/wp-content/uploads/2020/10/LAVO%E2%84%A2-Residential-Unit-Brochure.pdf)
+They named this asshole TurkSoldier so his full name could be
+TurkSoldier SoldierTurk. 🤣 🤣 The crassness of the rampant, showboat
+nationalism is disgusting.
 
----
-
-They use sodium borohydride..? 🤔
-
-[Link](https://www.mdpi.com/1996-1073/12/23/4428/htm)
+The history behind these names was shared
+[here](2020/04/turks-culture-national-narrative.md#wolf).
 
 ---
 
-"The hydrogen hydride alloy used in Lavo is based on a technology that
-emerged after WWII, where hydrogen molecules attach to metals such as
-magnesium or aluminium. Professor Kondo-Francois Aguey-Zinsou, chief
-scientist and executive director of Lavo and lead researcher in
-hydrogen technologies at UNSW, has been researching hydrides for more
-than 20 years. Muller says Aguey-Zinsou has 'cracked the code' with
-the alloy used in the Lavo storage system"
-
-[Link](https://www.ecogeneration.com.au/the-40kwh-34750-196kg-hydrogen-battery-for-the-home/)
+At another level anti-semitism is Labor's Russiagate. It unites
+certain people, against certain other people.... It serves a
+purpose. Obviously, just like Russiagate, is is based on half-truths,
+a warped version of reality. The issue now a code word, a fraternity
+secret handshake of sorts.
 
 ---
 
-Hydride based H2 storage was listed [here](2020/10/h2-storage.md).
+Give it enough time even Americans would become like that... Remember
+that CNN reporter [name calling](https://www.dailymail.co.uk/news/article-2696871/CNN-reporter-quickly-deletes-tweet-called-Israelis-cheering-missiles-striking-Gaza-scum.html)
+leisure watchers while Palestines were being bombed? A CNN reporter! 
 
 ---
 
-They use a form of metal hydride apparently.
+Of course. Because they know Israel better!
 
-"@hazergroupltd
+Brits have some history in the area, hence the knowledge about these
+things are more widespread, so their left is naturally more vocal
+about it.
 
-With the aim of powering a cleaner, more sustainable future through
-its cutting-edge hydrogen storage technology, Australian technology
-and lifestyle company Lavo officially launched on Tuesday (20th Oct)"
-
-<img width="200" src="https://pbs.twimg.com/media/Eld9rc2XYAc142e?format=jpg&name=small"/>
-
-[Link](https://twitter.com/hazergroupltd/status/1321663202212675584)
-
+"But isn't it true there has been more pointed criticism of Israel in
+UK, especially in Labor?"
 
 ---
 
-Plug Power CEO: "Power Density and Range: fuel cell energy density is
-four times more than batteries, and a tank of hydrogen contains more
-than double the energy of a battery at the same weight. Fuel cells
-allow easy scalability for users to increase range without the
-elimination of cargo space. This is important in middle-mile and
-long-haul green mobility markets.  In these applications, you must
-double the batteries on board to double the range of a
-battery-electric vehicle. With fuel cells, to double the range, you
-only have to add more hydrogen.  That supports a 50-60% increase in
-payload versus battery electric vehicles"
+😆 😆 😆 
 
-[Link](https://www.powerelectronictips.com/fuel-cells-capabilities-and-performance-virtual-roundtable-part-1-of-2/)
+BBC: "Labour suspends Jeremy Corbyn over reaction to anti-Semitism report"
 
 ---
 
-It's not surprising fascists sometimes [offering](2020/07/right-acting-left.md) left
-solutions. While it's fine to get some left policies, you really don't need the
-accompanying drama, or deaths, and the errant stupidity.
+"@lhfang
 
-"[T]he Brasilian government launched the benefits ... with an average
-monthly benefit of $163 per home. Now the relief is also providing an
-unlikely popularity boost for Bolsonaro"
-
----
-
-Not exactly fluidy dam break yet.. but we're getting there
-
-<img width="340" src="https://drive.google.com/uc?export=view&id=1ANsLwMcbo79gu_2WQK9W3nuiySv1tovw"/>
+Expect a lot of sniping from the reporters behind discredited
+Russiagate hysteria, hype mindless identity politics, aggregate
+partisan horse race journalism & whose beliefs are uniformly identical
+to whatever is popular on Twitter. The conformist mob hates principled
+dissent"
 
 ---
 
-They have a Hoboken too. And it's likely theirs is the original.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Rogan Experience #1556 - Glenn Greenwald<a href="https://t.co/EAvKSww9IR">https://t.co/EAvKSww9IR</a> <a href="https://t.co/S0MY6YhfeO">pic.twitter.com/S0MY6YhfeO</a></p>&mdash; Derek Shaffer (@DerekJShaffer) <a href="https://twitter.com/DerekJShaffer/status/1321518032645140480?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I did lot of my first H2 read-ups while in Antwerp.  👍
+Glenn Greenwald resigns from the media platform he co-founded bcz of
+censorship and moves to Substack?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The construction of Antwerp’s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> station has begun. Compagnie Maritime 🇧🇪 said it will be the first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> station in the <a href="https://twitter.com/hashtag/world?src=hash&amp;ref_src=twsrc%5Etfw">#world</a> that produces and is capable of supplying <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> to 🚘, 🚍, 🚚 and 🚢. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/HydrogenEnergy?ref_src=twsrc%5Etfw">@HydrogenEnergy</a> <a href="https://t.co/UXuVH6trTh">https://t.co/UXuVH6trTh</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1320998670934786048?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen News 📰 ENGIE EPS (Paris:EPS) announces the <a href="https://twitter.com/hashtag/inauguration?src=hash&amp;ref_src=twsrc%5Etfw">#inauguration</a> of the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-based <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> storage system built with its proprietary <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> in <a href="https://twitter.com/hashtag/Agkistro?src=hash&amp;ref_src=twsrc%5Etfw">#Agkistro</a>, 🇬🇷.<br><br>Read more 👇<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/ENGIE_EU?ref_src=twsrc%5Etfw">@ENGIE_EU</a> <a href="https://twitter.com/EUEnergyNews?ref_src=twsrc%5Etfw">@EUEnergyNews</a> <a href="https://twitter.com/euenergyweek?ref_src=twsrc%5Etfw">@euenergyweek</a> <a href="https://twitter.com/EUScienceInnov?ref_src=twsrc%5Etfw">@EUScienceInnov</a> <a href="https://t.co/Lq3GDngWSD">https://t.co/Lq3GDngWSD</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1321730999684722688?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@aaronstein1
+Paolo Fedreghini and Marco Bianchi - Stay (in mood) \#music
 
-Ankara and Moscow have closer ties than Ankara and Paris. Russia
-killed dozens of Turkish troops in March and Ankara chose to pretend
-the Syrians did it"
+[Link](https://youtu.be/AsJqYjiLuJ4)
 
 ---
 
-Last updated on *2020-10-29 10:40*
+Shawn Lee's Ping Pong Orchestra - Cairo Cairo \#music
+
+[Link](https://youtu.be/TTBIUMYm22E)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m not sure about just as looney - QAnon is pretty nuts - but the most annoying aren&#39;t really leftists, they&#39;re <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a> types, who basically have no belief system at all, beyond being snobs with an overdeveloped herd instinct. <a href="https://t.co/TrfoFSxA3Y">https://t.co/TrfoFSxA3Y</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321991120675573760?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Last updated on *2020-10-30 16:12*
 
 ---
 
