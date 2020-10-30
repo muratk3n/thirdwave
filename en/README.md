@@ -37,8 +37,8 @@ The history behind these names was shared
 At another level anti-semitism is Labor's Russiagate. It unites
 certain people, against certain other people.... It serves a
 purpose. Obviously, just like Russiagate, is is based on half-truths,
-a warped version of reality. The issue now a code word, a fraternity
-secret handshake of sorts.
+a warped version of reality. The issue is now a code word, a
+fraternity secret handshake of sorts.
 
 ---
 
