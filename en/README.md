@@ -101,15 +101,6 @@ There's a war on truth-tellers"
 
 ---
 
-That's more like it, Focker. Need to leave that circle of trust 👌
-
-"[O]ne insider [claimed] Thiel was 'clearly very frustrated' with
-Trump’s confusing [covid] public addresses"
-
-[Link](https://marketrealist.com/p/peter-thiel-trump/)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m renting a rowboat with a Jared Kushner Sucks sign, please give me $40 million <a href="https://t.co/IOXXBCcdhh">https://t.co/IOXXBCcdhh</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1322381197079576576?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
