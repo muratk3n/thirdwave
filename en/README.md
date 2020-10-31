@@ -27,10 +27,11 @@ They can gauge whether they are doing good or bad and vote for the
 'other' if bad (enough for democracy to work).
 
 Spin is short term. Bad policies sink, good policies raise -- in the
-long run. If ur party is constantly putting up bad policies, ppl might
-choose 'other' on you more than the next guy. Also if major blocs are
-all failing constantly u might get the occasional fascist who'll run
-roughshod over the whole thing. That noone wants.
+long run, through their outcomes. If ur party is constantly putting up
+bad policies, ppl might choose 'other' on you more than the next
+guy. Also if major blocs are all failing constantly u might get the
+occasional fascist who'll run roughshod over the whole thing. That
+noone wants.
 
 ---
 
