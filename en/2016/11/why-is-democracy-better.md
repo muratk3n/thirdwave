@@ -53,6 +53,8 @@ regression.
 
 [Code](../../2015/04/parochial-interests.md)
 
+<a name='elections'/>
+
 Elections
 
 US elections (most likely elections in other democratic countries as

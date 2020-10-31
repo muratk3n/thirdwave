@@ -1,110 +1,110 @@
 # Tweets
 
-Pine Phone
-
-<iframe width="340" src="https://www.youtube.com/embed/zlI14bb1zEM?start=275" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wanted: assessment of why Bush-era war criminals are suddenly the darlings of the Rachel Maddow <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a>-and-smart glasses set, and are being welcomed as thought leaders in the modern Democratic Party. They share more than just a dislike of Donald Trump. <a href="https://t.co/EdUl75UVDr">https://t.co/EdUl75UVDr</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321998480886280192?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"Don't expect a contested election... The cone of uncertainty has
-narrowed considerably. Now, the question seems to be whether we'll see
-a "skinny" Biden win or a landslide"
-
-[Link](https://www.nationaljournal.com/s/711037?unlock=SRT6SBVCJHPBFJTS)
+<table>
+  <tr>
+  <td><img height="200" src="https://drive.google.com/uc?export=view&id=1n_9eLHAp9e63pHFoONwdwTK99Qn6zMjJ"/></td>
+  <td><img height="200" src="https://drive.google.com/uc?export=view&id=19wII7ZQpswPwua49mOgWmVR4ZH82DUzp"/></td>
+  </tr>
+</table>
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ElettjHXEAEzqrh?format=jpg&name=medium"/>
+<img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/assslap.gif"/>
 
 ---
 
+Looking more fluidy.. Nice.
 
-🤣 🤣 🤣 Türker Ertürk.. That's the man's name.
-
-They named this asshole TurkSoldier so his full name could be
-TurkSoldier SoldierTurk. 🤣 🤣 The crassness of the rampant, showboat
-nationalism is disgusting.
-
-The history behind these names was shared
-[here](2020/04/turks-culture-national-narrative.md#wolf).
+<img width="340" src="https://drive.google.com/uc?export=view&id=1ELqfsauouXuvRi6-vF53_BRW_bZJ7IiA"/>
 
 ---
 
-At another level anti-semitism is Labor's Russiagate. It unites
-certain people, against certain other people.... It serves a
-purpose. Obviously, just like Russiagate, is is based on half-truths,
-a warped version of reality. The issue is now a code word, a
-fraternity secret handshake of sorts.
+Corollary: True change happens top-down, not bottom-up.
 
 ---
 
-Give it enough time even Americans would become like that... Remember
-that CNN reporter [name calling](https://www.dailymail.co.uk/news/article-2696871/CNN-reporter-quickly-deletes-tweet-called-Israelis-cheering-missiles-striking-Gaza-scum.html)
-leisure watchers while Palestines were being bombed? A CNN reporter! 
+They can gauge whether they are doing good or bad and vote for the
+'other' (enough for democracy to work).
+
+Bad policies sink, good policies raise parties -- in the long run. If
+ur party is constantly putting up bad policies, ppl might choose
+'other' on you more than the next guy. If major blocs are all failing
+constantly u might also get the occasional fascist who'll run
+roughshod over the whole thing. 
 
 ---
 
-Of course. Because they know Israel better!
+[Exactly](2016/11/why-is-democracy-better.md#elections). People don't
+know shit.  That's why you dont put them on the spot for specific
+policy (see Brexit).  
 
-Brits have some history in the area, hence the knowledge about these
-things are more widespread, so their left is naturally more vocal
-about it.
-
-"But isn't it true there has been more pointed criticism of Israel in
-UK, especially in Labor?"
+"Are you saying you can 'spin' people? They are not wise processors of
+information?"
 
 ---
 
-😆 😆 😆 
+It can work; the spin that is. Im not sure Dems want anything passed
+that wld help Trump before election anyway.
 
-BBC: "Labour suspends Jeremy Corbyn over reaction to anti-Semitism report"
+"In many of the competitive races, Republicans have risked their seats
+by jamming through the confirmation of Supreme Court Justice Amy Coney
+Barrett [.. m]eanwhile, a desperately needed stimulus bill continues
+to languish. This is precisely the message Senate Democrats used to
+make the four-day Barrett hearings into a advertisement against Senate
+Republicans"
 
----
-
-"@lhfang
-
-Expect a lot of sniping from the reporters behind discredited
-Russiagate hysteria, hype mindless identity politics, aggregate
-partisan horse race journalism & whose beliefs are uniformly identical
-to whatever is popular on Twitter. The conformist mob hates principled
-dissent"
+[Link](https://www.washingtonpost.com/opinions/2020/10/30/senate-debacle-republicans/)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Rogan Experience #1556 - Glenn Greenwald<a href="https://t.co/EAvKSww9IR">https://t.co/EAvKSww9IR</a> <a href="https://t.co/S0MY6YhfeO">pic.twitter.com/S0MY6YhfeO</a></p>&mdash; Derek Shaffer (@DerekJShaffer) <a href="https://twitter.com/DerekJShaffer/status/1321518032645140480?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+He's back
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Too many startups wanna build Grubhub, not enough wanna build Dominoes.</p>&mdash; Startup L. Jackson (@StartupLJackson) <a href="https://twitter.com/StartupLJackson/status/1322212869522419713?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ---
 
-Glenn Greenwald resigns from the media platform he co-founded bcz of
-censorship and moves to Substack?
+Fantastic design - Airfish-8
+
+<iframe width="340" src="https://www.youtube.com/embed/C-sWokqiVHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen News 📰 ENGIE EPS (Paris:EPS) announces the <a href="https://twitter.com/hashtag/inauguration?src=hash&amp;ref_src=twsrc%5Etfw">#inauguration</a> of the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-based <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a> storage system built with its proprietary <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> in <a href="https://twitter.com/hashtag/Agkistro?src=hash&amp;ref_src=twsrc%5Etfw">#Agkistro</a>, 🇬🇷.<br><br>Read more 👇<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/ENGIE_EU?ref_src=twsrc%5Etfw">@ENGIE_EU</a> <a href="https://twitter.com/EUEnergyNews?ref_src=twsrc%5Etfw">@EUEnergyNews</a> <a href="https://twitter.com/euenergyweek?ref_src=twsrc%5Etfw">@euenergyweek</a> <a href="https://twitter.com/EUScienceInnov?ref_src=twsrc%5Etfw">@EUScienceInnov</a> <a href="https://t.co/Lq3GDngWSD">https://t.co/Lq3GDngWSD</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1321730999684722688?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ThursdayThought?src=hash&amp;ref_src=twsrc%5Etfw">#ThursdayThought</a> – With every new <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refuelling station comes not only an increase in infrastructure, but a physical presence for the hydrogen movement &amp; increased public awareness – that’s why they’re some of our favourite stories to share! <a href="https://t.co/s7CNlDzilB">https://t.co/s7CNlDzilB</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1321898357267304448?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Paolo Fedreghini and Marco Bianchi - Stay (in mood) \#music
+"@EmmaVigeland
 
-[Link](https://youtu.be/AsJqYjiLuJ4)
-
----
-
-Shawn Lee's Ping Pong Orchestra - Cairo Cairo \#music
-
-[Link](https://youtu.be/TTBIUMYm22E)
+The Hunter Biden attacks just aren’t landing. Rare misfire by the
+traditionally well oiled right-wing propaganda machine. Enormously
+convoluted and niche... It just has no punch in the middle of an
+economic depression and deadly pandemic"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m not sure about just as looney - QAnon is pretty nuts - but the most annoying aren&#39;t really leftists, they&#39;re <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a> types, who basically have no belief system at all, beyond being snobs with an overdeveloped herd instinct. <a href="https://t.co/TrfoFSxA3Y">https://t.co/TrfoFSxA3Y</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321991120675573760?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Twitter backs down in NY Post standoff over Hunter Biden"
 
 ---
 
-Last updated on *2020-10-30 16:12*
+"@DrJillStein
+
+Assange is in solitary.
+
+Snowden's in exile.
+
+Corbyn's suspended by his own party.
+
+Now Glenn Greenwald's been censored by The Intercept.
+
+There's a war on truth-tellers"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m renting a rowboat with a Jared Kushner Sucks sign, please give me $40 million <a href="https://t.co/IOXXBCcdhh">https://t.co/IOXXBCcdhh</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1322381197079576576?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Last updated on *2020-10-31 10:29*
 
 ---
 
