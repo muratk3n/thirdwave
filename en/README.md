@@ -43,8 +43,8 @@ information?"
 
 ---
 
-It can work; the spin that is. Im not sure Dems want anything passed
-that wld help Trump before election anyway.
+It could work I guess.. the spin that is. Im not sure Dems want
+anything passed that wld help Trump before election anyway.
 
 "In many of the competitive races, Republicans have risked their seats
 by jamming through the confirmation of Supreme Court Justice Amy Coney
