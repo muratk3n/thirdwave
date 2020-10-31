@@ -24,7 +24,7 @@ Corollary: True change happens top-down, not bottom-up.
 ---
 
 They can gauge whether they are doing good or bad and vote for the
-'other' (enough for democracy to work).
+'other' if bad (enough for democracy to work).
 
 Bad policies sink, good policies raise -- in the long run. If ur party
 is constantly putting up bad policies, ppl might choose 'other' on you
