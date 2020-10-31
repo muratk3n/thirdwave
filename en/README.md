@@ -104,7 +104,7 @@ There's a war on truth-tellers"
 That's more like it, Focker. Need to leave that circle of trust 👌
 
 "[O]ne insider [claimed] Thiel was 'clearly very frustrated' with
-Trump’s confusing public addresses"
+Trump’s confusing [covid] public addresses"
 
 [Link](https://marketrealist.com/p/peter-thiel-trump/)
 
