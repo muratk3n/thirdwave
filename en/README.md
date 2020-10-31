@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-  <td><img height="200" src="https://drive.google.com/uc?export=view&id=1n_9eLHAp9e63pHFoONwdwTK99Qn6zMjJ"/></td>
-  <td><img height="200" src="https://drive.google.com/uc?export=view&id=19wII7ZQpswPwua49mOgWmVR4ZH82DUzp"/></td>
+  <td><img height="170" src="https://drive.google.com/uc?export=view&id=1n_9eLHAp9e63pHFoONwdwTK99Qn6zMjJ"/></td>
+  <td><img height="170" src="https://drive.google.com/uc?export=view&id=19wII7ZQpswPwua49mOgWmVR4ZH82DUzp"/></td>
   </tr>
 </table>
 
