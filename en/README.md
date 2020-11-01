@@ -1,30 +1,16 @@
 # Tweets
 
-That's right... and if you also less ziti, u cld run away from crowds
-faster.
-
-"Chris Christie ... issued a mea culpa last week after he was
-discharged from a COVID-19 hospitalization that included a week in the
-intensive-care unit. 'When you get this disease, it hits you how easy
-it is to prevent,' he wrote under the headline 'I Should Have Worn a
-Mask' in The Wall Street Journal. 'We are asked to wear cloth over our
-mouth and nose, wash our hands and avoid crowds. Seldom has so little
-been asked for so much benefit'"
-
----
-
-Stabbings, killings, in Canada, France. At the same time Jihadi activity in
-Idlib, Azerbaijan.. Related?
-
-"Quebec stabbing: Two dead after attack by man in medieval clothes"
-
----
-
 "The Latest: Australia has no local case 1st time in months [and] has
 recorded no new locally transmitted coronavirus infection for the
 first time in five months"
 
 [Link](https://www.independent.co.uk/news/world/europe/the-latest-australia-has-no-local-case-1st-time-in-months-western-australia-capital-cases-cases-latest-b1495809.html)
+
+---
+
+Daam.. Boris Johnson net approval is -15% ??!! It sucks!!
+
+[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
 
 ---
 
@@ -50,9 +36,23 @@ Understand the World"
 
 ---
 
-Daam.. Boris Johnson net approval is -15% ??!! It sucks!!
+That's right... and if you ate less ziti, u cld run away from crowds
+faster.
 
-[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
+"Chris Christie ... issued a mea culpa last week after he was
+discharged from a COVID-19 hospitalization that included a week in the
+intensive-care unit. 'When you get this disease, it hits you how easy
+it is to prevent,' he wrote under the headline 'I Should Have Worn a
+Mask' in The Wall Street Journal. 'We are asked to wear cloth over our
+mouth and nose, wash our hands and avoid crowds. Seldom has so little
+been asked for so much benefit'"
+
+---
+
+Stabbings, killings, in Canada, France. At the same time Jihadi activity in
+Idlib, Azerbaijan.. Related?
+
+"Quebec stabbing: Two dead after attack by man in medieval clothes"
 
 ---
 
