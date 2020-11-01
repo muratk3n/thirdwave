@@ -8,7 +8,7 @@ first time in five months"
 
 ---
 
-Daam.. Boris Johnson net approval is -15% ??!! It sucks!!
+Daam.. Boris Johnson net approval is -25% ??!! It sucks!!
 
 [Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
 
