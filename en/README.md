@@ -37,7 +37,7 @@ Understand the World"
 ---
 
 Yes... and if you ate less ziti, you cld run away from crowds faster,
-aint that right Cripsie?
+aint that right Crispie?
 
 "Chris Christie ... issued a mea culpa last week after he was
 discharged from a COVID-19 hospitalization that included a week in the
