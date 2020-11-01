@@ -994,7 +994,7 @@ Da fuq?
 ---
 
 They even had a guy in jail while some were in the bunker... Perfect
-modern setup. Like Toffler [says](../../2011/03/fundamentals-of-industrial-ideologies_15.md)
+modern setup. Like Toffler [says](../../2011/03/fundamentals-of-industrial-ideologies_concentration.md)
 
 >Nor was it only energy and work that were concentrated. Writing in the
 >British social science journal New Society, Stan Cohen has pointed out

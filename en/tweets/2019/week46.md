@@ -205,20 +205,6 @@ equivalent of the distance between the sun and earth about 75 times!!!"
 
 ---
 
-Hamilton comes up a lot in Stoller's book, also in the
-[writings](https://muratk3n.github.io/thirdwave/en/2011/03/fundamentals-of-industrial-ideologies_17.html)
-of my *senpai*. Centralization is second wave, above socialism,
-capitalism, at the level of tech which defines everything, a major
-force, all other forces are subservient to it. US fought it well, due
-to its culture, but this constant fight is hard, the forces are too
-strong. The good news is tech seen revolutionary change, bad news is
-no new system is in sight. Tough fight turned into another tough
-fight.
-
-*2019-11-12 10:35:27*
-
----
-
 Stoller, *Goliath*
 
 "[T]he musical Hamilton .. offered a capstone to the era of the

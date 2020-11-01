@@ -555,7 +555,7 @@ to be as hands-off as possible (refs for everything). It works.
 
 ---
 
-[Standardization](2011/03/fundamentals-of-industrial-ideologies.md).. 👎
+[Standardization](2011/03/fundamentals-of-industrial-ideologies_standardization.md).. 👎
 
 The Independent, 2015: "Schools are using 'dubious practices' and even
 cheating to achieve better performance results because of the intense
