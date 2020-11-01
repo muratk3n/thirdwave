@@ -94,10 +94,9 @@ New: ‘PWDR’ = paywall didn’t read"
 
 ---
 
-On occasion I used to watch live CSPAN programs while I was in
-US.. When Trent Lott made that infamous comment I saw that shit
-live. I was like 'that didnt sound right...'. 🤔 Dude was destroyed
-few weeks later.
+I used to watch live CSPAN programs sometimes while I was in US.. When
+Trent Lott made that infamous comment I saw that shit live. I was like
+'that didnt sound right...'. 🤔 Dude was destroyed few weeks later.
 
 ---
 
