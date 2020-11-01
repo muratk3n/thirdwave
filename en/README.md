@@ -1,7 +1,7 @@
 # Tweets
 
-That's right... and if you also less ziti Crispie, u cld run away from
-crowds faster.
+That's right... and if you also less ziti, u cld run away from crowds
+faster.
 
 "Chris Christie ... issued a mea culpa last week after he was
 discharged from a COVID-19 hospitalization that included a week in the
