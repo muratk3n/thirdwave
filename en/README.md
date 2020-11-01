@@ -1,111 +1,107 @@
 # Tweets
 
-<table>
-  <tr>
-  <td><img height="130" src="https://drive.google.com/uc?export=view&id=1n_9eLHAp9e63pHFoONwdwTK99Qn6zMjJ"/></td>
-  <td><img height="130" src="https://drive.google.com/uc?export=view&id=19wII7ZQpswPwua49mOgWmVR4ZH82DUzp"/></td>
-  </tr>
-</table>
+That's right... and if you also less ziti Crispie, u cld run away from
+crowds faster.
+
+"Chris Christie ... issued a mea culpa last week after he was
+discharged from a COVID-19 hospitalization that included a week in the
+intensive-care unit. 'When you get this disease, it hits you how easy
+it is to prevent,' he wrote under the headline 'I Should Have Worn a
+Mask' in The Wall Street Journal. 'We are asked to wear cloth over our
+mouth and nose, wash our hands and avoid crowds. Seldom has so little
+been asked for so much benefit'"
 
 ---
 
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2020/assslap.gif"/>
+Stabbings, killings, in Canada, France. At the same time Jihadi activity in
+Idlib, Azerbaijan.. Related?
+
+"Quebec stabbing: Two dead after attack by man in medieval clothes"
 
 ---
 
-Looking more fluidy.. Nice.
+"The Latest: Australia has no local case 1st time in months [and] has
+recorded no new locally transmitted coronavirus infection for the
+first time in five months"
 
-<img width="340" src="https://drive.google.com/uc?export=view&id=1ELqfsauouXuvRi6-vF53_BRW_bZJ7IiA"/>
-
----
-
-Corollary: True change happens top-down, not bottom-up.
+[Link](https://www.independent.co.uk/news/world/europe/the-latest-australia-has-no-local-case-1st-time-in-months-western-australia-capital-cases-cases-latest-b1495809.html)
 
 ---
 
-They can gauge whether they are doing good or bad and vote for the
-'other' if bad (enough for democracy to work).
-
-Spin is short term. Bad policies sink, good policies raise -- in the
-long run, through their outcomes. If ur party is constantly putting up
-bad policies, ppl might choose 'other' on you more than the next
-guy. Also if major blocs are all failing constantly u might get the
-occasional fascist who'll run roughshod over the whole thing. That,
-noone wants.
+I see a lot of *I am CRMs* end up being surrounded with sycopants,
+this is not a good sign. That means you are not listening
+enough. 
 
 ---
 
-[Exactly](2016/11/why-is-democracy-better.md#elections). People don't
-know shit.  That's why you dont put them on the spot for specific
-policy (see Brexit).  
-
-"Are you saying you can 'spin' people? They are not wise processors of
-information?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The more messed up your haircut is, the more likely I believe you?re taking COVID precautions seriously.</p>&mdash; Ben Ritter (@BenNetworks) <a href="https://twitter.com/BenNetworks/status/1322659147960168449?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-It could work.. the spin that is. Im not sure Dems want anything
-passed that wld help Trump before election anyway.
+🤣 These tech characters are so jaded.. The smartest ones will say
+what they don't know, most others believe they can extend their
+gibberish-ist technobabble into a complete new domain where they zero
+understanding in.
 
-"In many of the competitive races, Republicans have risked their seats
-by jamming through the confirmation of Supreme Court Justice Amy Coney
-Barrett [.. m]eanwhile, a desperately needed stimulus bill continues
-to languish. This is precisely the message Senate Democrats used to
-make the four-day Barrett hearings into a advertisement against Senate
-Republicans"
+"Soylent Founder's Unhinged Politics Rant Shows Tech Execs Don't
+Understand the World"
 
-[Link](https://www.washingtonpost.com/opinions/2020/10/30/senate-debacle-republicans/)
+[Link](https://www.vice.com/amp/en/article/epd4je/soylent-founders-unhinged-politics-rant-shows-tech-execs-dont-understand-the-world)
 
 ---
 
-He's back
+Daam.. Boris Johnson net approval is -15% ??!! It sucks!!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Too many startups wanna build Grubhub, not enough wanna build Dominoes.</p>&mdash; Startup L. Jackson (@StartupLJackson) <a href="https://twitter.com/StartupLJackson/status/1322212869522419713?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
----
-
-Fantastic design - Airfish-8
-
-<iframe width="340" src="https://www.youtube.com/embed/C-sWokqiVHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ThursdayThought?src=hash&amp;ref_src=twsrc%5Etfw">#ThursdayThought</a> – With every new <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refuelling station comes not only an increase in infrastructure, but a physical presence for the hydrogen movement &amp; increased public awareness – that’s why they’re some of our favourite stories to share! <a href="https://t.co/s7CNlDzilB">https://t.co/s7CNlDzilB</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1321898357267304448?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New battery chemistry.</p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/1168279470156865536?ref_src=twsrc%5Etfw">September 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@EmmaVigeland
+"@benedictevans
 
-The Hunter Biden attacks just aren’t landing. Rare misfire by the
-traditionally well oiled right-wing propaganda machine. Enormously
-convoluted and niche... It just has no punch in the middle of an
-economic depression and deadly pandemic"
+Old: ‘TLDR’ = too long didn’t read.
 
----
-
-"Twitter backs down in NY Post standoff over Hunter Biden"
+New: ‘PWDR’ = paywall didn’t read"
 
 ---
 
-"@DrJillStein
-
-Assange is in solitary.
-
-Snowden's in exile.
-
-Corbyn's suspended by his own party.
-
-Now Glenn Greenwald's been censored by The Intercept.
-
-There's a war on truth-tellers"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First spotted by <a href="https://twitter.com/dansinker?ref_src=twsrc%5Etfw">@dansinker</a>, this is just a remarkable correlation. <br><br>Google searches for &quot;loss of taste&quot; and &quot;loss of smell&quot; versus population-adjusted new coronavirus cases. <a href="https://t.co/I38fXZsyb8">https://t.co/I38fXZsyb8</a> <a href="https://t.co/e9tptqt8bn">pic.twitter.com/e9tptqt8bn</a></p>&mdash; Philip Bump (@pbump) <a href="https://twitter.com/pbump/status/1322013016351793152?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m renting a rowboat with a Jared Kushner Sucks sign, please give me $40 million <a href="https://t.co/IOXXBCcdhh">https://t.co/IOXXBCcdhh</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1322381197079576576?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The extraordinarily strong relationship btw China’s credit impulse and Germany’s PMI suggests China domestic demand -&gt; demand for German exports. <a href="https://twitter.com/scotiabank?ref_src=twsrc%5Etfw">@scotiabank</a> via <a href="https://twitter.com/SoberLook?ref_src=twsrc%5Etfw">@SoberLook</a> <a href="https://t.co/oIEFyDFRXE">pic.twitter.com/oIEFyDFRXE</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/1322498551805628416?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Last updated on *2020-10-31 10:29*
+"Evidence of Google blacklisting of left and progressive sites continues to mount"
+
+[Link](https://www.wsws.org/en/articles/2017/08/08/goog-a08.html)
+
+---
+
+"@JosephEStiglitz 
+
+... The 2017 tax law must be repealed."
+
+---
+
+"Greece Strengthens Ties with India to Counter Turkey-Pakistan Alliance"
+
+[Link](https://greece.greekreporter.com/2020/10/30/greece-strengthens-ties-with-india-to-counter-turkey-pakistan-alliance/)
+
+---
+
+On occasion I used to watch live CSPAN programs while I was in
+US.. When Trent Lott made that infamous comment I saw that shit
+live. I was like 'that didnt sound right...'. 🤔 Dude was destroyed
+few weeks later.
+
+---
+
+Last updated on *2020-11-01 15:46*
 
 ---
 
