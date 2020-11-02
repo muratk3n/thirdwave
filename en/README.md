@@ -107,17 +107,14 @@ then you miss out on the occasional good observation. Censoring is bad
 
 Cant go to the movies? Movie theathers were overrated anyway...
 
-Second Wave was about
+2W was about
 [synchronization](2011/03/fundamentals-of-industrial-ideologies_synchronization.md);
-in entertainment, in production and most important of all, in
-education.  I still think there is a role for a "place" called school,
-somewhere outside of home where kids can be dropped off especially
-useful for cases when home env is stressful, loud, but ed itself could
-completely be asynchronized. Class would not "start" or "end" for any
-two kids, at the same time, at the same place -- you would simply go
-and pick up your tablet and continue where you left off from the
-previous day.  A librarian type person, or a certifier, can make sure
-place is silent to study, but that's it.
+in entertainment, in production, in ed. There can still be a place
+called school, somewhere outside of home, kids are dropped off useful
+for cases when home env is stressful, but ed itself will be be
+asynch. Class would not "start" or "end" -- kid simply goes and picks
+up tablet and continues where he left off from the previous day. A
+librarian type person / certifier can make sure place is suitable for study
 
 ---
 
