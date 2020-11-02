@@ -53,7 +53,7 @@ The Mandalorian is back 👍, S02E01
 
 ---
 
-The Danes are getting into the floating housing concept
+Floating house, Denmark
 
 [Link](https://www.urbanrigger.com/)
 
