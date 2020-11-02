@@ -98,11 +98,11 @@ else, not on French soil.'"
 
 ---
 
-Alex Jones saz Trump cut off external lobbiest but then his circle was
-carpetbombed with money so they became lobbiests indirectly. Could be
-the case.. If so, good observation. See, if this man is cut off due to
-(IMO) weird climate change denialism, then you miss out on the
-occasional good observation. Censoring is bad.
+Alex Jones saz Trump cut off external lobbyists but then his circle
+was carpetbombed with money so they became lobbyists indirectly
+(\#rogan podcast). Could be the case.. If so, good observation. See,
+if this man is cut off due to (IMO) weird climate change denialism,
+then you miss out on the occasional good observation. Censoring is bad
 
 ---
 
