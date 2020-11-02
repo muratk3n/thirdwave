@@ -8,8 +8,7 @@ Biden leads Trump by 10 points in final pre-election NBC"
 
 ---
 
-This is the inventor of the [model](2015/04/predicting-2016-presidential-election.md) I use (based
-on a regression utilizing fundamentals, popularity with incredible success).
+This is the inventor of the [model](2015/04/predicting-2016-presidential-election.md) I use.
 
 Abrahamovitz: "We can now update the forecast from the simplified
 model based on the latest measure of President Trump’s approval
