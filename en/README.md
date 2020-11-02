@@ -98,6 +98,11 @@ else, not on French soil.'"
 
 ---
 
+This goes to show simple, one-shot, on-the-surface fixes to large problems
+do not work. 
+
+---
+
 Alex Jones saz Trump cut off external lobbyists but then his circle
 was carpetbombed with money so they became lobbyists indirectly
 (\#rogan podcast). Could be the case.. If so, good observation. See,
@@ -125,7 +130,6 @@ place is silent to study, but that's it.
 Last updated on *2020-11-02 09:17*
 
 ---
-
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
