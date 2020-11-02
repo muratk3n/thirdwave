@@ -97,11 +97,6 @@ else, not on French soil.'"
 
 ---
 
-This goes to show simple, one-shot, on-the-surface fixes to large problems
-do not work. 
-
----
-
 Alex Jones saz Trump cut off external lobbyists but then his circle
 was carpetbombed with money so they became lobbyists indirectly
 (\#rogan podcast). Could be the case.. If so, good observation. See,
