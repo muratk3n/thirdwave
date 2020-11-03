@@ -89,16 +89,16 @@ The whole computer inside that keyboard.. Very cool!
 
 Sun energy falling on Earth in terms of (radiation) energy is 1000
 W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
-day. That means we can generate 50 Watts from one square meter using
-only the sun.
+day. That means we can generate 1 Kwh per day from one square meter
+using only the sun.
 
 
 ```python
-"%0.f KWh" % (0.2 * 0.25 * 24 * 30)
+"%0.f KWh" % (0.2 * 0.25 * 24)
 ```
 
 ```text
-Out[1]: '36 KWh'
+Out[1]: '1 KWh'
 ```
 
 According to the EIA, in 2017, the average annual electricity
