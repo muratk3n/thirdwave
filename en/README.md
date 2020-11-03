@@ -77,7 +77,7 @@ Australia"
 
 ---
 
-The whole computer inside that keyboard.. Very cool! 
+The whole computer inside a keyboard.. Very cool! 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Raspberry Pi 400 is here! A complete personal computer built into a compact keyboard - ideal for learning to code with Raspberry Pi OS!<br><br>It shares the same performance as the Pi 4 with the CPU clocked to 1.8GHz thanks to the large internal heatsink!<a href="https://t.co/qWU0JgQ97X">https://t.co/qWU0JgQ97X</a> <a href="https://t.co/ZHPYj0N8eV">pic.twitter.com/ZHPYj0N8eV</a></p>&mdash; The Pi Hut (@ThePiHut) <a href="https://twitter.com/ThePiHut/status/1323173191393705991?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
