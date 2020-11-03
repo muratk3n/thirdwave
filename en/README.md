@@ -89,8 +89,7 @@ The whole computer inside that keyboard.. Very cool!
 
 Sun energy falling on Earth in terms of (radiation) energy is 1000
 W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
-day. That means we can generate 1.2 Kwh per day from one square meter
-using only the sun.
+day. 
 
 A house in US used 28.9 kWh per day (EIA, in 2017). 
 
@@ -102,6 +101,8 @@ area = 25 # m2
 ```text
 Out[1]: '30 Kwh from 25 m2 area'
 ```
+
+25 m2 is enough to power the house (ignoring storage efficiency).
 
 ---
 
