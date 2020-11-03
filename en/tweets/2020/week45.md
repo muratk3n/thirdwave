@@ -8,7 +8,7 @@ Biden leads Trump by 10 points in final pre-election NBC"
 
 ---
 
-This is the inventor of the [model](2015/04/predicting-2016-presidential-election.md) I use.
+This is the inventor of the [model](../../2015/04/predicting-2016-presidential-election.md) I use.
 
 Abrahamovitz: "We can now update the forecast from the simplified
 model based on the latest measure of President Trump’s approval
@@ -108,7 +108,7 @@ then you miss out on the occasional good observation. Censoring is bad
 Cant go to the movies? Movie theathers were overrated anyway...
 
 2W was about
-[synchronization](2011/03/fundamentals-of-industrial-ideologies_synchronization.md);
+[synchronization](../../2011/03/fundamentals-of-industrial-ideologies_synchronization.md);
 in entertainment, in production, in ed. There can still be a place
 called school, somewhere outside of home, kids are dropped off useful
 for cases when home env is stressful, but ed itself will be be
