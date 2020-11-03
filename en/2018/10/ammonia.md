@@ -30,3 +30,10 @@ cells to use NH3 directly in the FC. No carbon emissions in either
 case.
 
 Exciting possibilities.
+
+Links
+
+[Ammonia as fuel](https://youtu.be/5ejL65tKsGM) video, various parts on
+[direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
+and [in fuel-cells (solid oxide FC)](https://youtu.be/5ejL65tKsGM?t=452)
+

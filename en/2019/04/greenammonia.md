@@ -83,5 +83,3 @@ Also
 [GenCell and Ammonia](2019/07/gencell.md)
 
 
-
-
