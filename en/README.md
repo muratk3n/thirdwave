@@ -94,6 +94,15 @@ using only the sun.
 
 A house in US used 28.9 kWh per day (EIA, in 2017). 
 
+```python
+area = 25 # m2
+"%0.f Kwh from %d m2 area" % (0.2 * 0.25 * 24 * 25, area)
+```
+
+```text
+Out[1]: '30 Kwh from 25 m2 area'
+```
+
 ---
 
 Article says progressive leaders helped turn out the young vote for Biden.
