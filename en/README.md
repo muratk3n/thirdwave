@@ -49,8 +49,8 @@ I like this part, about the project in Dubai;
 
 ---
 
-We've clearly lost some ground here...nowadays an army of actual
-scientist cannot see a blatant thing like lithium batteries [not
+We've lost some ground here...nowadays an army of actual scientist
+cannot see a blatant thing like lithium batteries [not
 being](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
 fit for an overall climate solution. They clearly lost their ability
 to add and subtract.  There is no shortage of useless theories,
