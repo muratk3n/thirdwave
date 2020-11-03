@@ -2,8 +2,9 @@
 
 
 Sun energy falling on Earth in terms of (radiation) energy is 1000
-W/m2. Solar panel efficiency is 20%. That means we can generate 200
-Watts from one square meter using only the sun.
+W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
+day. That means we can generate 50 Watts from one square meter using
+only the sun.
 
 ---
 
