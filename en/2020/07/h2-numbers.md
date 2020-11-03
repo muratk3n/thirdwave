@@ -106,9 +106,11 @@ print ( w / (150*1000) )
 
 Solar panels
 
-Panels can produce
+Sun energy falling on Earth in terms of energy 
 
 1000 W/m2
+
+Solar panel efficiency is 20%
 
 Electrolysis
 
