@@ -66,8 +66,8 @@ before their time, in many ways inspired their creation.
 
 ---
 
-Germany refuses to turn a 'blind eye' to China, teams up with
-Australia
+"Germany refuses to turn a 'blind eye' to China, teams up with
+Australia"
 
 [Link](https://www.smh.com.au/world/asia/germany-refuses-to-turn-a-blind-eye-to-china-teams-up-with-australia-20201102-p56apf.html)
 
