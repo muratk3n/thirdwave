@@ -33,7 +33,7 @@ Exciting possibilities.
 
 Links
 
-[Ammonia as fuel](https://youtu.be/5ejL65tKsGM) video, various parts on
+[Ammonia as fuel](https://youtu.be/5ejL65tKsGM) info from Japan, various parts on
 [direct combustion](https://youtu.be/5ejL65tKsGM?t=107)
-and [in fuel-cells (solid oxide FC)](https://youtu.be/5ejL65tKsGM?t=452)
+and [fuel-cells (solid oxide FC)](https://youtu.be/5ejL65tKsGM?t=452).
 
