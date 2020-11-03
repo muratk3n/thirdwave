@@ -92,20 +92,7 @@ W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
 day. That means we can generate 1.2 Kwh per day from one square meter
 using only the sun.
 
-
-```python
-print ("%.2f KWh" % (0.2 * 0.25 * 24.0))
-print ("%.2f KWh per month" % (0.2 * 0.25 * 24.0 * 30.0))
-```
-
-```text
-1.20 KWh
-36.00 KWh
-```
-
-According to the EIA, in 2017, the average annual electricity
-consumption for a U.S. residential home customer was 28.9 kWh per day.
-
+A house in US used 28.9 kWh per day (EIA, in 2017). 
 
 ---
 
