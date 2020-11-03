@@ -1,124 +1,115 @@
 # Tweets
 
-"@AlanIAbramowitz
 
-Biden leads Trump by 10 points in final pre-election NBC"
-
-[Link](https://twitter.com/AlanIAbramowitz/status/1322909489201373184)
-
----
-
-This is the inventor of the [model](2015/04/predicting-2016-presidential-election.md) I use.
-
-Abrahamovitz: "We can now update the forecast from the simplified
-model based on the latest measure of President Trump’s approval
-rating. ... Based on a net approval rating of -12% in the most recent
-Gallup Poll, the model now predicts that Joe Biden will receive 344
-electoral votes to 194 for Donald Trump. The model now gives Biden an
-86% chance of winning the electoral vote"
-
-[Link](https://centerforpolitics.org/crystalball/articles/final-forecast-results-from-two-methods-of-predicting-the-2020-presidential-election/)
+Sun energy falling on Earth in terms of (radiation) energy is 1000
+W/m2. Solar panel efficiency is 20%. That means we can generate 200
+Watts from one square meter using only the sun.
 
 ---
 
-"@kurtopsahl
+Many in the world do not accept monopoly money? Not surprising.
 
-Nov 1 is here, and the answer is 67.7% of the 2016 total votes have
-already been cast. Over 100% in TX and HI, 90+% in at least 7 more
-states"
+"The Belt and Road's dollar problem...
 
----
+[C]ontractors have typically preferred dollars in exchange for their
+work building the roads, bridges, ports and more of the initiative"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is not going to happen. <a href="https://t.co/bV3UJtRFbA">https://t.co/bV3UJtRFbA</a></p>&mdash; Hamish McKenzie (@hamishmckenzie) <a href="https://twitter.com/hamishmckenzie/status/1323116718810693633?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@AshkenaziFugazi
-
-If you're called antisemitic for criticizing Israel just say the
-criticism is something you got from your Jewish friend, who said that
-to not criticize Israel is antisemitic. It's me, I am your Jewish
-friend. Every uncritical sentence you utter on Israel is
-antisemitic. There. :)"
+[Link](https://ftalphaville.ft.com/2018/12/18/1545130791000/The-Belt-and-Road-s-dollar-problem/)
 
 ---
 
-Fermeto Engineering, NL. 
+This is a really dumb idea
 
-<iframe width="340" src="https://www.youtube.com/embed/EcAZv5xcvn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@Fmrico
 
----
+Another way for online teaching. Too much expensive to be an option, I think"
 
-The Mandalorian is back 👍, S02E01
-
----
-
-Floating house, Denmark
-
-[Link](https://www.urbanrigger.com/)
+[Link](https://twitter.com/Fmrico/status/1323317858538037250)
 
 ---
 
-I wonder if a generation of monitor-starers having irreversably lost
-their contact from the physical world played a role in the bad design
-choice here. "It's just code bro!". 
+Daam. Somehow a [soccer player](https://www.nytimes.com/2020/10/26/sports/soccer/mesut-ozil-arsenal-china.html)
+from Germany had his career soured bcz of a comment on Uygurs.
 
 ---
 
-The design was not robust. They tried to fix in software what they
-should have fixed in hardware.
+"If you haven’t yet heard about green hydrogen, you’re about to—in a
+big way. The universe’s most abundant element is among the hotter
+topics in the halls of industry and government from Australia to Saudi
+Arabia, along with a number of Asian, American and European
+nations. By many accounts, we will soon see green hydrogen — green
+because it’s produced with renewables — become a new multi-trillion
+dollar commodity sector, transform the energy industry and play a
+critical role in fighting climate change"
 
-"Boeing – what caused the 737 Max to crash?"
-
-[Link](https://youtu.be/PdYcJldzOdw?t=591)
-
----
-
-"@davidsirota
-
-The Overton Window has moved so far to the right that the debate over
-health care during a pandemic is only over whether or not to help
-insurance companies economically punish sick people for the crime of
-being sick"
+[Link](https://www.bofaml.com/en-us/content/esg-research/green-hydrogen-market-importance.html)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is both completely nuts and completely predictable. Censorship invariably ends in impossible policy contradictions and embarrassing logic knots <a href="https://t.co/rTQaPqI8Yp">https://t.co/rTQaPqI8Yp</a> via <a href="https://twitter.com/verge?ref_src=twsrc%5Etfw">@Verge</a></p>&mdash; Chris Anderson (@chr1sa) <a href="https://twitter.com/chr1sa/status/1322347515069431808?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I like this part, about the project in Dubai;
+
+<img width="340" src="https://pbs.twimg.com/media/El2AuAPW0AEYZ4B?format=png&name=small"/>
 
 ---
 
-"@J_Bloodworth
-
-[Macron] 'We believe in the Enlightenment, and women have the same
-rights as men... People who think otherwise, let them do it somewhere
-else, not on French soil.'"
-
-[Link](https://mobile.twitter.com/J_Bloodworth/status/1322672423347621888)
+[H2 big picture](https://pbs.twimg.com/media/El1OBenXEAAm9Xp?format=jpg&name=small)
 
 ---
 
-Alex Jones saz Trump cut off external lobbyists but then his circle
-was carpetbombed with money so they became lobbyists indirectly
-(\#rogan podcast). Could be true.. If so, good observation. See,
-if this man is cut off due to (IMO) weird climate change denialism,
-then you miss out on the occasional good observation. Censoring is bad
+We've clearly lost some ground here...nowadays an army of actual
+scientist cannot see a blatant thing like lithium batteries [not
+being](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
+fit for an overall climate solution. They clearly lost their ability
+to add and subtract.  There is no shortage of useless theories,
+multiple universes, strings, quantum this and that... but simple
+arihtmetic?  No can do.
 
 ---
 
-Cant go to the movies? Movie theathers were overrated anyway...
+Good scifi foresight does exist. AC Clarke talked abt satellites way
+before their time, in many ways inspired their creation.
 
-2W was about
-[synchronization](2011/03/fundamentals-of-industrial-ideologies_synchronization.md);
-in entertainment, in production, in ed. There can still be a place
-called school, somewhere outside of home, kids are dropped off useful
-for cases when home env is stressful, but ed itself will be be
-asynch. Class would not "start" or "end" -- kid simply goes and picks
-up tablet and continues where he left off from the previous day. A
-librarian type person / certifier can make sure place is suitable for study
+<img width="240" src="https://pbs.twimg.com/media/Elzvb15U4AAGAN2?format=jpg&name=small"/>
 
 ---
 
-Last updated on *2020-11-02 09:17*
+Germany refuses to turn a 'blind eye' to China, teams up with
+Australia
+
+[Link](https://www.smh.com.au/world/asia/germany-refuses-to-turn-a-blind-eye-to-china-teams-up-with-australia-20201102-p56apf.html)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PlugBlog?src=hash&amp;ref_src=twsrc%5Etfw">#PlugBlog</a>: Plug Gigafactory on Schedule for First Operation<a href="https://t.co/fbYnYccgPK">https://t.co/fbYnYccgPK</a></p>&mdash; Plug Power Inc. (@PlugPowerInc) <a href="https://twitter.com/PlugPowerInc/status/1323251333005234176?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+The whole computer inside that keyboard.. Very cool! 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Raspberry Pi 400 is here! A complete personal computer built into a compact keyboard - ideal for learning to code with Raspberry Pi OS!<br><br>It shares the same performance as the Pi 4 with the CPU clocked to 1.8GHz thanks to the large internal heatsink!<a href="https://t.co/qWU0JgQ97X">https://t.co/qWU0JgQ97X</a> <a href="https://t.co/ZHPYj0N8eV">pic.twitter.com/ZHPYj0N8eV</a></p>&mdash; The Pi Hut (@ThePiHut) <a href="https://twitter.com/ThePiHut/status/1323173191393705991?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Planned joint venture for large-scale production of fuel-cells: DaimlerTruckAG &amp; <a href="https://twitter.com/VolvoGroup?ref_src=twsrc%5Etfw">@VolvoGroup</a> sign binding agreement for new fuel-cell joint venture to develop, produce &amp; commercialize fuel-cell systems for use in heavy-duty trucks. 👉<a href="https://t.co/7E4ej0YJFE">https://t.co/7E4ej0YJFE</a> <a href="https://t.co/kPmhKxcWLu">pic.twitter.com/kPmhKxcWLu</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1323158782915076097?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Article says progressive leaders helped turn out the young vote for Biden.
+
+"Unprecedented levels of youth turnout could boost a candidate many
+young people scorned only a few months ago."
+
+[Link](https://m.huffpost.com/us/entry/us_5f9d978ac5b65662bcc788b4)
+
+---
+
+Creative 
+
+<img width="240" src="https://pbs.twimg.com/media/El1pz6NWoAIRXoH?format=jpg&name=small"/>
+
+---
+
+Last updated on *2020-11-03 08:45*
 
 ---
 
