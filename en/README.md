@@ -41,7 +41,7 @@ critical role in fighting climate change"
 
 I like this part, about the project in Dubai;
 
-<img width="340" src="https://pbs.twimg.com/media/El2AuAPW0AEYZ4B?format=png&name=small"/>
+<img width="240" src="https://pbs.twimg.com/media/El2AuAPW0AEYZ4B?format=png&name=small"/>
 
 ---
 
