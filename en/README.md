@@ -91,8 +91,6 @@ Sun energy falling on Earth in terms of (radiation) energy is 1000
 W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
 day. 
 
-A house in US used 28.9 kWh per day (EIA, in 2017). 
-
 ```python
 area = 25 # m2
 "%0.f Kwh from %d m2 area" % (0.2 * 0.25 * 24 * 25, area)
@@ -102,7 +100,8 @@ area = 25 # m2
 Out[1]: '30 Kwh from 25 m2 area'
 ```
 
-25 m2 is enough to power the house (ignoring storage efficiency).
+A house in US used 28.9 kWh per day (EIA, in 2017). 25 m2 is enough to
+power the house (ignoring storage efficiency).
 
 ---
 
