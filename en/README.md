@@ -1,13 +1,5 @@
 # Tweets
 
-
-Sun energy falling on Earth in terms of (radiation) energy is 1000
-W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
-day. That means we can generate 50 Watts from one square meter using
-only the sun.
-
----
-
 Many in the world do not accept monopoly money? Not surprising.
 
 "The Belt and Road's dollar problem...
@@ -92,6 +84,26 @@ The whole computer inside that keyboard.. Very cool!
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Planned joint venture for large-scale production of fuel-cells: DaimlerTruckAG &amp; <a href="https://twitter.com/VolvoGroup?ref_src=twsrc%5Etfw">@VolvoGroup</a> sign binding agreement for new fuel-cell joint venture to develop, produce &amp; commercialize fuel-cell systems for use in heavy-duty trucks. 👉<a href="https://t.co/7E4ej0YJFE">https://t.co/7E4ej0YJFE</a> <a href="https://t.co/kPmhKxcWLu">pic.twitter.com/kPmhKxcWLu</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1323158782915076097?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Sun energy falling on Earth in terms of (radiation) energy is 1000
+W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
+day. That means we can generate 50 Watts from one square meter using
+only the sun.
+
+
+```python
+"%0.f KWh" % (0.2 * 0.25 * 24 * 30)
+```
+
+```text
+Out[1]: '36 KWh'
+```
+
+According to the EIA, in 2017, the average annual electricity
+consumption for a U.S. residential home customer was 28.9 kWh per day.
+
 
 ---
 
