@@ -1,5 +1,13 @@
 # Tweets
 
+Bloomberg: "Powerwall Rival Seeks to Bring Hydrogen Into Your
+Home... It’s about the size of Tesla Inc.’s Powerwall, but can store
+up to three times as much energy over a longer period"
+
+[Link](https://www.bloomberg.com/news/articles/2020-10-19/tesla-powerwall-rival-seeks-to-bring-hydrogen-into-your-home)
+
+---
+
 Many in the world do not accept monopoly money? Not surprising.
 
 "The Belt and Road's dollar problem...
