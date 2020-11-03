@@ -651,25 +651,6 @@ to customize anyway, the needs are too varied.
 
 ---
 
-I've seen ppl use coconut oil for deo sticks but spray is more usabl IMO
-
----
-
-Tried fine so far.. These essent oils are dense as funk. Tee tree? Dam
-
----
-
-Baking soda + water + essent. oil? That easy?
-
-[Link](https://www.aluminumfreedeodorants.com/natural-homemade-deodorant/how-to-make-deodorant-without-coconut-oil/)
-
----
-
-While we r at it, why not deodorant? These f-ing corporations load
-their deo with alimunium, prevents sweating, not healthy. Neutralize.
-
----
-
 Plus u can use the best flour for [own metabolism](2012/04/btype-table-md.html).
 Funky doesn't always mean healthy, e.g. rye is not good for all , neither is
 "whole wheat".
