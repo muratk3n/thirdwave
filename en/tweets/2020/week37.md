@@ -15,6 +15,16 @@ Communists. We should push for a Belt and Road Jubilee"
 
 ---
 
+<a name='election'/>
+
+With -32% GDP growth Trump is toast. His only chance is if people
+"understand" the predicament (not in the model, never seen before
+situation), and if that offsets growth as if it was zero percent, as
+in none, then the situation becomes neck and neck due to
+incumbency. Long shot. Net popularity at -9%. 
+
+---
+
 <img width="340" src="https://pbs.twimg.com/media/EhnxRqSWoAERux5?format=jpg&name=small"/> 
 
 ---
@@ -424,16 +434,6 @@ stand-off for over three months"
 "India successfully test scramjet technology for hypersonic missiles"
 
 [Link](https://timesofindia.indiatimes.com/india/india-successfully-test-scramjet-technology-for-hypersonic-missiles/articleshow/77973889.cms)
-
----
-
-<a name='election'/>
-
-With -32% GDP growth Trump is toast. His only chance is if people
-"understand" the predicament (not in the model, never seen before
-situation), and if that offsets growth as if it was zero percent, as
-in none, then the situation becomes neck and neck due to
-incumbency. Long shot. Net popularity at -9%. 
 
 ---
 
