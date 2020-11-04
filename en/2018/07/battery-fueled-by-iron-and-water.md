@@ -9,8 +9,3 @@ instance.
 
 [Link](https://www.greentechmedia.com/amp/article/another-flow-battery-maker-tries-residential-in-germany)
 
-
-
-
-
-

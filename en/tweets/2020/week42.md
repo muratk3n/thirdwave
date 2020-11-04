@@ -367,17 +367,6 @@ powered". 🤣 🤣 🤣 The state of this tech is so sad.
 
 ---
 
-Dunno all polls, but if I see model using a specific poll that has
-$R^2$ higher than 90%, then not all, but that poll has predictive
-power. And net popularity is exactly that. The poll is general and on
-a simple enough question that it is not surprising that it works, see
-[crowd wisdom](2020/07/crowd-wisdom.md). Within Abrahamovitz model it
-is significant, so it is useful on its own.
-
-"Can polls be trusted anymore?"
-
----
-
 "Solar Pushes Aside Coal as the Cheapest Fuel for Power, IEA Says"
 
 [Link](https://www.bloomberg.com/news/articles/2020-10-13/solar-pushes-aside-coal-as-the-favorite-fuel-for-power-iea-says)

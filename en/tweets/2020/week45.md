@@ -1,33 +1,5 @@
 # Week 45
 
-"@AlanIAbramowitz
-
-Biden leads Trump by 10 points in final pre-election NBC"
-
-[Link](https://twitter.com/AlanIAbramowitz/status/1322909489201373184)
-
----
-
-This is the inventor of the [model](../../2015/04/predicting-2016-presidential-election.md) I use.
-
-Abrahamovitz: "We can now update the forecast from the simplified
-model based on the latest measure of President Trump’s approval
-rating. ... Based on a net approval rating of -12% in the most recent
-Gallup Poll, the model now predicts that Joe Biden will receive 344
-electoral votes to 194 for Donald Trump. The model now gives Biden an
-86% chance of winning the electoral vote"
-
-[Link](https://centerforpolitics.org/crystalball/articles/final-forecast-results-from-two-methods-of-predicting-the-2020-presidential-election/)
-
----
-
-"@kurtopsahl
-
-Nov 1 is here, and the answer is 67.7% of the 2016 total votes have
-already been cast. Over 100% in TX and HI, 90+% in at least 7 more
-states"
-
----
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is not going to happen. <a href="https://t.co/bV3UJtRFbA">https://t.co/bV3UJtRFbA</a></p>&mdash; Hamish McKenzie (@hamishmckenzie) <a href="https://twitter.com/hamishmckenzie/status/1323116718810693633?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
