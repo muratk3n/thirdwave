@@ -322,8 +322,6 @@
 
 [What if we had voted "YES"?](07/what-if-we-had-voted-yes.md)
 
-[](08/climate.md)
-
 [#ironman](08/ironman.md)
 
 [#priceless](08/priceless.md)
