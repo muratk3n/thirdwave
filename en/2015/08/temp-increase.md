@@ -179,5 +179,5 @@ print h.hurst(dfclim.Temp)
 
 Reference
 
-[1] http://stats.stackexchange.com/questions/123116/interpretation-of-results-for-unitroot-test
+[1] [Stackexchange](http://stats.stackexchange.com/questions/123116/interpretation-of-results-for-unitroot-test)
 
