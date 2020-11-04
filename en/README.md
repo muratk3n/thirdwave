@@ -1,6 +1,6 @@
 # Tweets
 
-<img width="340" src="https://i.pinimg.com/originals/e1/59/f4/e159f454b9411d0e92b6395b52258606.gif
+<img width="340" src="https://i.pinimg.com/originals/e1/59/f4/e159f454b9411d0e92b6395b52258606.gif"/>
 
 <img width="340" src="https://i.imgur.com/RbCKrf8.gif"/>
 
