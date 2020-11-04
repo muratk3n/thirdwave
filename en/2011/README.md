@@ -108,17 +108,17 @@
 
 [France and Libya](03/france-and-libya.md)
 
-[The Fundamentals of Industrial Ideologies: Standardization](03/fundamentals-of-industrial-ideologies.md)
+[The Fundamentals of Industrial Ideologies: Centralization](03/fundamentals-of-industrial-ideologies_centralization.md)
 
-[The Fundamentals of Industrial Ideologies: Specialization](03/fundamentals-of-industrial-ideologies_14.md)
+[The Fundamentals of Industrial Ideologies: Concentration](03/fundamentals-of-industrial-ideologies_concentration.md)
 
-[The Fundamentals of Industrial Ideologies: Concentration](03/fundamentals-of-industrial-ideologies_15.md)
+[The Fundamentals of Industrial Ideologies: Maximization](03/fundamentals-of-industrial-ideologies_maximization.md)
 
-[The Fundamentals of Industrial Ideologies: Maximization](03/fundamentals-of-industrial-ideologies_16.md)
+[The Fundamentals of Industrial Ideologies: Specialization](03/fundamentals-of-industrial-ideologies_specialization.md)
 
-[The Fundamentals of Industrial Ideologies: Centralization](03/fundamentals-of-industrial-ideologies_17.md)
+[The Fundamentals of Industrial Ideologies: Standardization](03/fundamentals-of-industrial-ideologies_standardization.md)
 
-[The Fundamentals of Industrial Ideologies: Synchronization](03/fundamentals-of-industrial-ideologies_5220.md)
+[The Fundamentals of Industrial Ideologies: Synchronization](03/fundamentals-of-industrial-ideologies_synchronization.md)
 
 [Futurism Howto](03/futurism-howto.md)
 

@@ -22,7 +22,7 @@ What Can I Do?
 
 Is It Real?
 
-[Q&A - 22/8](../../2015/08/q-218.md)
+[Temparature Increase](../../2015/08/temp-increase.md)
 
 [January Temperatures](../../2018/01/january-temperatures.md)
 
