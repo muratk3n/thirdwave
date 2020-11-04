@@ -1,5 +1,136 @@
 # Week 45
 
+Bloomberg: "Powerwall Rival Seeks to Bring Hydrogen Into Your
+Home... It’s about the size of Tesla ... Powerwall, but can store up
+to three times as much energy over a longer period"
+
+[Link](https://www.bloomberg.com/news/articles/2020-10-19/tesla-powerwall-rival-seeks-to-bring-hydrogen-into-your-home)
+
+---
+
+Many in the world do not accept monopoly money? Not surprising.
+
+"The Belt and Road's dollar problem...
+
+[C]ontractors have typically preferred dollars in exchange for their
+work building the roads, bridges, ports and more of the initiative"
+
+[Link](https://ftalphaville.ft.com/2018/12/18/1545130791000/The-Belt-and-Road-s-dollar-problem/)
+
+---
+
+This is a really dumb idea
+
+"@Fmrico
+
+Another way for online teaching. Too much expensive to be an option, I think"
+
+[Link](https://twitter.com/Fmrico/status/1323317858538037250)
+
+---
+
+Daam. Somehow a [soccer player](https://www.nytimes.com/2020/10/26/sports/soccer/mesut-ozil-arsenal-china.html)
+from Germany had his career soured bcz of a comment on Uygurs.
+
+---
+
+"If you haven’t yet heard about green hydrogen, you’re about to—in a
+big way. The universe’s most abundant element is among the hotter
+topics in the halls of industry and government from Australia to Saudi
+Arabia, along with a number of Asian, American and European
+nations. By many accounts, we will soon see green hydrogen — green
+because it’s produced with renewables — become a new multi-trillion
+dollar commodity sector, transform the energy industry and play a
+critical role in fighting climate change"
+
+[Link](https://www.bofaml.com/en-us/content/esg-research/green-hydrogen-market-importance.html)
+
+---
+
+I like this part, about the project in Dubai;
+
+<img width="240" src="https://pbs.twimg.com/media/El2AuAPW0AEYZ4B?format=png&name=small"/>
+
+---
+
+[H2 big picture](https://pbs.twimg.com/media/El1OBenXEAAm9Xp?format=jpg&name=small)
+
+---
+
+We've clearly lost some ground here...nowadays an army of actual
+scientist cannot see a blatant thing like lithium batteries [not
+being](https://muratk3n.github.io/thirdwave/en/2020/07/h2-numbers.html#lithium)
+fit for an overall climate solution. They apparently lost their
+ability to add and subtract.  There is no shortage of useless
+theories, multiple universes, strings, quantum this and that... but
+simple arihtmetic?  No can do.
+
+---
+
+Good scifi foresight does exist. AC Clarke talked abt satellites way
+before their time, in many ways inspired their creation.
+
+<img width="240" src="https://pbs.twimg.com/media/Elzvb15U4AAGAN2?format=jpg&name=small"/>
+
+---
+
+"Germany refuses to turn a 'blind eye' to China, teams up with
+Australia"
+
+[Link](https://www.smh.com.au/world/asia/germany-refuses-to-turn-a-blind-eye-to-china-teams-up-with-australia-20201102-p56apf.html)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PlugBlog?src=hash&amp;ref_src=twsrc%5Etfw">#PlugBlog</a>: Plug Gigafactory on Schedule for First Operation<a href="https://t.co/fbYnYccgPK">https://t.co/fbYnYccgPK</a></p>&mdash; Plug Power Inc. (@PlugPowerInc) <a href="https://twitter.com/PlugPowerInc/status/1323251333005234176?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Raspberry Pi 400 is here! A complete personal computer built into a compact keyboard - ideal for learning to code with Raspberry Pi OS!<br><br>It shares the same performance as the Pi 4 with the CPU clocked to 1.8GHz thanks to the large internal heatsink!<a href="https://t.co/qWU0JgQ97X">https://t.co/qWU0JgQ97X</a> <a href="https://t.co/ZHPYj0N8eV">pic.twitter.com/ZHPYj0N8eV</a></p>&mdash; The Pi Hut (@ThePiHut) <a href="https://twitter.com/ThePiHut/status/1323173191393705991?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Planned joint venture for large-scale production of fuel-cells: DaimlerTruckAG &amp; <a href="https://twitter.com/VolvoGroup?ref_src=twsrc%5Etfw">@VolvoGroup</a> sign binding agreement for new fuel-cell joint venture to develop, produce &amp; commercialize fuel-cell systems for use in heavy-duty trucks. 👉<a href="https://t.co/7E4ej0YJFE">https://t.co/7E4ej0YJFE</a> <a href="https://t.co/kPmhKxcWLu">pic.twitter.com/kPmhKxcWLu</a></p>&mdash; Daimler Trucks &amp; Buses (@DaimlerTruckBus) <a href="https://twitter.com/DaimlerTruckBus/status/1323158782915076097?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Sun energy falling on Earth in terms of (radiation) energy is 1000
+W/m2. Solar panel efficiency is 20%. Take good daylight 1/4 of a
+day. 
+
+```python
+area = 25 # m2
+"%0.f Kwh from %d m2 area" % (0.2 * 0.25 * 24 * 25, area)
+```
+
+```text
+Out[1]: '30 Kwh from 25 m2 area'
+```
+
+A house in US used 28.9 kWh per day (EIA, in 2017). 25 m2 is enough to
+power the house (ignoring storage efficiency).
+
+---
+
+Tyco - Easy \#music
+
+[Link](https://youtu.be/A9G3WPq2744)
+
+---
+
+Article says progressive leaders helped turn out the young vote for Biden.
+
+"Unprecedented levels of youth turnout could boost a candidate many
+young people scorned only a few months ago."
+
+[Link](https://m.huffpost.com/us/entry/us_5f9d978ac5b65662bcc788b4)
+
+---
+
+Creative 
+
+<img width="240" src="https://pbs.twimg.com/media/El1pz6NWoAIRXoH?format=jpg&name=small"/>
+
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is not going to happen. <a href="https://t.co/bV3UJtRFbA">https://t.co/bV3UJtRFbA</a></p>&mdash; Hamish McKenzie (@hamishmckenzie) <a href="https://twitter.com/hamishmckenzie/status/1323116718810693633?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
