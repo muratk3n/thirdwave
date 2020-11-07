@@ -21,7 +21,21 @@ House"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: JOE BIDEN WINS<br><br>Joe Biden will be the 46th president of the United States, CNN projects, after a victory in Pennsylvania puts the Scranton-born Democrat over 270 <a href="https://t.co/og62ckK5r5">https://t.co/og62ckK5r5</a> <a href="https://twitter.com/hashtag/CNNElection?src=hash&amp;ref_src=twsrc%5Etfw">#CNNElection</a> <a href="https://t.co/gEEzy1wsdz">pic.twitter.com/gEEzy1wsdz</a></p>&mdash; CNN Breaking News (@cnnbrk) <a href="https://twitter.com/cnnbrk/status/1325114035063435272?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Please clap
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to President-elect Biden. I have prayed for our President most of my adult life. I will be praying for you and your success. Now is the time to heal deep wounds. Many are counting on you to lead the way.</p>&mdash; Jeb Bush (@JebBush) <a href="https://twitter.com/JebBush/status/1325133897781243908?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@cnnbrk
+
+BREAKING: JOE BIDEN WINS
+
+Joe Biden will be the 46th president of the United States, CNN
+projects, after a victory in Pennsylvania puts the Scranton-born
+Democrat over 270"
+
+[Link](https://cnn.it/3eCQoqW)
 
 ---
 
