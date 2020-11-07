@@ -17,7 +17,7 @@ House"
 
 ---
 
-Please clap
+please clap
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to President-elect Biden. I have prayed for our President most of my adult life. I will be praying for you and your success. Now is the time to heal deep wounds. Many are counting on you to lead the way.</p>&mdash; Jeb Bush (@JebBush) <a href="https://twitter.com/JebBush/status/1325133897781243908?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
