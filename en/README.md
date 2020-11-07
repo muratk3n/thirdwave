@@ -1,15 +1,5 @@
 # Tweets
 
-<img width="340" src="https://i.pinimg.com/originals/e1/59/f4/e159f454b9411d0e92b6395b52258606.gif"/>
-
-<img width="340" src="https://i.imgur.com/RbCKrf8.gif"/>
-
-<img width="340" src="https://i.pinimg.com/originals/6e/e4/34/6ee434d88f6bc4b5a9f619e86fb8b75e.gif"/>
-
-Last updated on *2020-11-04 17:59*
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
