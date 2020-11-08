@@ -121,13 +121,15 @@ Opinion: Democrats serious about winning chose Amy McGrath'"
 
 ---
 
+Obviously Trump was a symptom, and hopefully the reasons for that
+symptom are addressed in due time.
+
+---
+
 Biden was a good candidate. Beating an incumbent (of a party in power
 in its 1st term) is no easy feat. Of course the incumbent helped with
 its huge unpopularity... so he mostly lost on his own, but the Biden
-made sure the fail stuck.
-
-Obviously Trump was a symptom, and hopefully the reasons for that
-symptom are addressed in due time.
+team made sure the fail stuck.
 
 ---
 
