@@ -139,7 +139,7 @@ Fossil energy companies can win in a renewable fuel economy (there
 wont be a 'battery economy' as the amount of lithium reserves are
 limited). But many companies have the know-how to transport, process
 chemical fuels, they only have to adapt to a somewhat different type
-of fuel. This is a win-win for all.
+of fuel. A win-win for all.
 
 ---
 
