@@ -97,6 +97,14 @@ of storage, by 2030. The Utah project could help meet those targets.
 
 ---
 
+Fossil energy companies can win in a renewable fuel economy (there
+wont be a 'battery economy' as the amount of lithium reserves are
+limited). But many companies have the know-how to transport, process
+chemical fuels, they only have to adapt to a somehwat different type
+of fuel. This is a win-win for all.
+
+---
+
 Guess what, Japan is [ready](https://youtu.be/5ejL65tKsGM?t=107) for that shit. 
 
 "Saudi Aramco, the world's biggest oil producer, last month shipped the

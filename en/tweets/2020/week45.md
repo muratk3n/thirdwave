@@ -364,6 +364,11 @@ Trent Lott made that infamous comment I saw that shit live. I was like
 
 ---
 
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---
 
 
 
