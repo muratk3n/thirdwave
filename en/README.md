@@ -55,7 +55,7 @@ produce them in bulk.
 There is always action on many things in US on pretty much everything,
 being at the center of research, but the Kraut, and the French, and
 the Aussies always seem to have a foot in the door, in those same
-fields.
+fields. Brits too of course.
 
 ---
 
