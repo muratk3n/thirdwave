@@ -52,7 +52,9 @@ fields.
 
 ---
 
-Swell. These guys are good.. 
+Swell.
+
+These guys are good..
 
 <video width="60%" controls>
 <source src="https://f.hubspotusercontent30.net/hubfs/4229987/Gearbox_video.m4v" type="video/mp4">
