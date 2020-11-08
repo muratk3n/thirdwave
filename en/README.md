@@ -45,10 +45,10 @@ of storage, by 2030. The Utah project could help meet those targets.
 
 ---
 
-Simulation can be a whole a great new type of business domain with
-many opportunities. Any manufacturing company, before manufacturing
-anything, can ask these guys to run simulations on the parts they will
-produce before they produce them in bulk.
+Simulation can be a whole a new type of business domain. .Any
+manufacturing company, before manufacturing anything, can ask these
+guys to run simulations on the parts they will produce before they
+produce them in bulk.
 
 ---
 
