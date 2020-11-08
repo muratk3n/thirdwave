@@ -123,8 +123,8 @@ Opinion: Democrats serious about winning chose Amy McGrath'"
 
 Biden was a good candidate. Beating an incumbent (of a party in power
 in its 1st term) is no easy feat. Of course the incumbent helped with
-its huge unpopularity. He mostly lost on his own, but the Biden made
-sure the fail stuck. 
+its huge unpopularity... so he mostly lost on his own, but the Biden
+made sure the fail stuck.
 
 ---
 
