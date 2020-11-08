@@ -121,11 +121,6 @@ Opinion: Democrats serious about winning chose Amy McGrath'"
 
 ---
 
-Obviously Trump was a symptom, and hopefully the reasons for that
-symptom are addressed in due time.
-
----
-
 Bacao Rhythm & Steel Band - Laventille Road March \#music
 
 [Link](https://youtu.be/W724jRLJSR8)
