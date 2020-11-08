@@ -31,15 +31,6 @@ known as a salt dome, a column of salt surrounded by sedimentary
 layers, and when it’s filled with hydrogen, it could become one of the
 largest renewable energy reservoirs in the world"
 
-The historic wildfires that devastated California this year have
-highlighted concerns about climate change and how to make our society
-sustainable. The state aims to source all its power needs from clean,
-renewable energy by 2045, and Gov. Gavin Newsom recently said sales of
-new gas-powered passenger cars and trucks will end by 2035. Under a
-roadmap approved by the state regulator, California will need nearly
-25 gigawatts in new renewable capacity, including some 8,900 megawatts
-of storage, by 2030. The Utah project could help meet those targets.
-
 [Link](https://www.cnbc.com/2020/11/01/how-salt-caverns-may-trigger-11-trillion-hydrogen-energy-boom-.html)
 
 ---
