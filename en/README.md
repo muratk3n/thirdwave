@@ -1,5 +1,21 @@
 # Tweets
 
+
+"@ryanobles
+
+Because it took longer than normal to count the votes, there is the
+impression that the results were close. As @zbyronwolf points out-
+@JoeBiden’s victory was much more decisive than you think"
+
+[Link](https://twitter.com/ryanobles/status/1325235224989626368)
+
+---
+
+WaPo: "Biden plans immediate flurry of executive orders to reverse
+Trump policies"
+
+---
+
 CNBC: "An $11 trillion global hydrogen energy boom is coming. Here’s
 what could trigger it... Storing fuel in salt caverns isn’t new, but
 hydrogen’s growing role in decarbonization has revitalized interest in
