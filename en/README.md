@@ -145,12 +145,6 @@ Japan, to be used in zero-carbon power generation"
 
 ---
 
-Maestro's Gone · The San Andreas Fault \#music
-
-[Link](https://youtu.be/qH-hRsrY8RY)
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
