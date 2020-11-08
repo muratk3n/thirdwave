@@ -1,6 +1,5 @@
 # Tweets
 
-
 "@ryanobles
 
 Because it took longer than normal to count the votes, there is the
