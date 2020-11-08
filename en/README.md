@@ -91,8 +91,8 @@ They can increase renewable use through solar, they certainly have a
 lot of direct sunshine.
 
 Min says solar generation is done for 6 hours, 1/4th of a day -same
-guesstimate I'd used earlier-. For renewable storage; GenCell is local
-right?
+guesstimate I'd used earlier-. For renewable storage; [GenCell](2019/07/gencell.md)
+is local right?
 
 "Minister of Energy Yuval Steinitz on Renewable Energy Goal" \#israel
 
