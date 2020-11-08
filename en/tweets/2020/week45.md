@@ -195,10 +195,6 @@ Fermeto Engineering, NL.
 
 ---
 
-The Mandalorian is back 👍, S02E01
-
----
-
 Floating house, Denmark
 
 [Link](https://www.urbanrigger.com/)

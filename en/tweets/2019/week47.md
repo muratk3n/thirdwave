@@ -814,16 +814,6 @@ J. Favreau was involved.. Of course. Excellent director!
 
 ---
 
-*The Mandalorian* is SW universe done right; this is how it's like
-when you are following canon, adapting a general look and feel. You
-have to srike the right tone; SW always had that mix between cutsie
-toyish characters, fun, and hard-core, serious action / drama. TM gets
-it. Also tells a great new story!
-
-*2019-11-16 18:41:21*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ulstein, a family-owned ship manufacturer, has unveiled its first hydrogen-powered ship design which is now market-ready, offering zero emission marine operations. <a href="https://t.co/luA0GjoUXT">https://t.co/luA0GjoUXT</a></p>&mdash; 24hydrogen.com (@24hydrogen_com) <a href="https://twitter.com/24hydrogen_com/status/1195601176613523456?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-11-16 17:23:1*
