@@ -104,11 +104,13 @@ Fragmentorchestra - Metropolis \#music
 
 ---
 
-"@mnd1103 @JRubinBlogger with all due respect, this is a terrible
-piece. Ky Democrats have run 6 moderate candidates in a row against
-McConnell, each less inspiring than the previous & losing every
-time. @Booker4KY is inspiring & genuine. Unless @AmyMcGrathKY can
-become both, it’s a loss.
+"@mnd1103
+
+@JRubinBlogger with all due respect, this is a terrible piece. Ky
+Democrats have run 6 moderate candidates in a row against McConnell,
+each less inspiring than the previous & losing every time. @Booker4KY
+is inspiring & genuine. Unless @AmyMcGrathKY can become both, it’s a
+loss.
 
 '@washingtonpost
 
