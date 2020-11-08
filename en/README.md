@@ -126,13 +126,6 @@ symptom are addressed in due time.
 
 ---
 
-Biden was a good candidate. Beating an incumbent (of a party in power
-in its 1st term) is no easy feat. Of course the incumbent helped with
-its huge unpopularity... so he mostly lost on his own, but the Biden
-team made sure the fail stuck.
-
----
-
 Bacao Rhythm & Steel Band - Laventille Road March \#music
 
 [Link](https://youtu.be/W724jRLJSR8)
