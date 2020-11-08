@@ -50,7 +50,7 @@ Thats funny..
 
 ---
 
-Simulation can be a whole a new type of business domain. Any
+Simulation can be a whole new type of business domain. Any
 manufacturing company, before manufacturing anything, can ask these
 guys to run simulations on the parts they will produce before they
 produce them in bulk.
