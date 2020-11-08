@@ -122,6 +122,10 @@ Bacao Rhythm & Steel Band - Laventille Road March \#music
 
 ---
 
+Shell gets it.
+
+---
+
 Fossil energy companies can win in a renewable fuel economy (there
 wont be a 'battery economy' as the amount of lithium reserves are
 limited). But many companies have the know-how to transport, process
