@@ -11,9 +11,10 @@ proc, ~1 Million cld be fine.
 
 ---
 
-Biden was a good candidate. The incumbent was deeply unpopular, but
-his campaign provided the ultimate opposite, neutralized the other
-side's strengths well. 
+Biden was a good candidate. The incumbent was deeply unpopular, and
+the election rested mostly on his delivery, but the Biden campaign
+provided the ultimate opposite, neutralized the other side's strengths
+well.
 
 ---
 
