@@ -91,8 +91,8 @@ singular Speaker.
 
 ---
 
-Shld we remove even the smallest direct-dem practices, along with
-referandums (banned), making the whole process to go through
+We should remove even the smallest direct-dem practices, along with
+referandums, making the whole process to go through
 representatives. Remember the California recall election circus?
 
 ---
