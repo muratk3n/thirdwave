@@ -115,7 +115,7 @@ as employees eligible for benefits and job protections"
 
 For us [at EFF], Prop 24 [allows consumers to prevent businesses from
 sharing personal information, etc] is rather a mixed bag of partial
-steps backwards and forwards.
+steps backwards and forwards"
 
 [Link](https://mobile.twitter.com/cSchmon/status/1324057144619126791)
 
