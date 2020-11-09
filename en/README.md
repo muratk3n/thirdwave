@@ -103,7 +103,7 @@ policy, be reelected on their success.
 ---
 
 Progs probably did not like that outcome. Be comforted with the fact
-that voters dont know shit.
+that voters dont know much
 
 "Californians overwhelmingly voted in favour of Prop 22, exempting
 app-based ride-hailing and delivery services from classifying drivers
