@@ -53,10 +53,10 @@ hair and fur can absorb a different kind of oil - crude oil"
 ---
 
 On the face of it, looks fine.. More friends for Israel is a good
-thing (I do want them to exist, as a democracy). But how'bout the
-backdrop? If ripping up an existing peace deal caused the hostility in
-the first place, then is lining up bunch of allies behind Israel
-simply a patch up?
+thing (I do want them to exist, also plz try to kill less
+Palestenians). But how'bout the backdrop? If ripping up an existing
+peace deal caused the hostility in the first place, then is lining up
+bunch of allies behind Israel simply a patch up?
 
 Wld US also strategically prefer an ME Cold War, or have everyone be
 in a concillatory / neutral state to both itself, Israel and
