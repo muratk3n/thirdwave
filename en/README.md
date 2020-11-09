@@ -6,7 +6,7 @@ C++ truly is fast as shit. It's just f-ing raw speed. Close to the metal.
 ---
 
 A million particles in a simulation. An early code had >4000 but with
-an inefficient O(N^2) which tells me in O(1) setting, that frees up
+an inefficient O(N^2) which tells me in O(n) setting, that frees up
 proc, ~1 Million cld be fine.
 
 ---
