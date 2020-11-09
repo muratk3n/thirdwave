@@ -74,7 +74,7 @@ Wld US also strategically prefer an ME Cold War? Or have everyone be
 in a concillatory / neutral state to both itself, Israel and
 eachother?
 
-Cant just do out-of-the-ordinary for the fuck of it, or just for
+We cant just do the "out-of-the-ordinary" for the eff of it, or for
 tactics. There needs to be some strategic sense to it all.
 
 "But isn't an outsider like Trump a good thing bcz he did the untried,
