@@ -91,10 +91,9 @@ singular Speaker.
 
 ---
 
-I am starting to think even the smallest direct-democracy practices
-need to be removed, along with referandums (which need to be banned),
-making the whole process to go through representatives. Remember the
-California recall election? And the circus afterwards..?
+Shld we remove even the smallest direct-dem practices, along with
+referandums (banned), making the whole process to go through
+representatives. Remember the California recall election? Circus.
 
 ---
 
