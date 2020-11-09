@@ -68,9 +68,9 @@ On the face of it, looks fine.. More friends for Israel is a good
 thing (I do want them to exist, also plz try to kill less
 Palestenians). But if ripping up an existing peace deal caused the
 hostility in the first place, then is lining up bunch of allies behind
-Israel simply a patch up?
+Israel a redundant fix?
 
-Wld US also strategically prefer an ME Cold War, or have everyone be
+Wld US also strategically prefer an ME Cold War? Or have everyone be
 in a concillatory / neutral state to both itself, Israel and
 eachother?
 
