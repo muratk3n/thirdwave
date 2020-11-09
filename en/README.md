@@ -57,7 +57,7 @@ The Sound Stylistics - Say It Aint So \#music
 
 ---
 
-They use hair to clean oil spills. Great idea.
+They use hair to clean oil spills. 
 
 "There's a good reason hair gets oily. It's because your hair follicles
 have little fat glands that ooze oil onto your hair... Well, now
