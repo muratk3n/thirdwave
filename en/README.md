@@ -39,7 +39,7 @@ democracy. Unified defense, increased trade, etc.
 
 ---
 
-They use hair to clean oil spills
+They use hair to clean oil spills. Great idea.
 
 "There's a good reason hair gets oily. It's because your hair follicles
 have little fat glands that ooze oil onto your hair... Well, now
