@@ -86,8 +86,8 @@ Third Wave tech is overwhelming Second Wave institutions. IMO to
 provide some sort of sanity before the ultimate shift, we need to cut
 off the extra noise, work extra hard to do that, otherwise the central
 institutions will be bombarded. The extra noise will do no good anyway
--- remember an earlier example, Newt sitting in front of a
-chatroom. Trolls bombarding the singular Speaker is not beneficial.
+-- e.g. Newt sitting in front of a chatroom. Trolls bombarding the
+singular Speaker.
 
 ---
 
