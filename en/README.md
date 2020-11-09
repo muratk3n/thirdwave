@@ -1,5 +1,11 @@
 # Tweets
 
+Pinned Tweet
+
+[CNBC](https://www.cnbc.com/2020/11/01/how-salt-caverns-may-trigger-11-trillion-hydrogen-energy-boom-.html):
+"An $11 trillion global hydrogen energy boom is coming"
+
+---
 
 C++ truly is fast as shit. It's just f-ing raw speed. Close to the metal.
 
