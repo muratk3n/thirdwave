@@ -93,7 +93,7 @@ chatroom. Trolls bombarding the singular Speaker is not beneficial.
 
 I am starting to think even the smallest direct-democracy practices
 need to be removed, along with referandums (which need to be banned),
-turning the whole process to go through representatives. Remember the
+making the whole process to go through representatives. Remember the
 California recall election? And the circus afterwards..?
 
 ---
