@@ -73,9 +73,9 @@ Israel is now being recognized by many new Arab states"
 Third Wave tech is overwhelming Second Wave institutions. IMO to
 provide some sort of sanity before the ultimate shift, we need to cut
 off the extra noise, work extra hard to do that, otherwise the central
-institutions will be bombarded. They will do no good anyway --
-remember my earlier example, Newt sitting in front of a
-chatroom. Trolls bombarding the singular Speaker provides nothing.
+institutions will be bombarded. The extra noise will do no good anyway
+-- remember an earlier example, Newt sitting in front of a
+chatroom. Trolls bombarding the singular Speaker provides is not beneficial.
 
 ---
 
