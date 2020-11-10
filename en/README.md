@@ -99,7 +99,7 @@ Just kidding. It's fine.
 
 ---
 
-<img width="30%" src="https://i.ytimg.com/vi/BNsrK6P9QvI/hqdefault.jpg"/>
+<img width="50%" src="https://i.ytimg.com/vi/BNsrK6P9QvI/hqdefault.jpg"/>
 
 ---
 
@@ -113,7 +113,7 @@ This is buuul-shit. Weakly typed language binness ?!
 
 C++ has mellowed!
 
-What's next? Integer to string conversion?
+What's next? String to integer conversion?
 
 ---
 
