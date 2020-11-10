@@ -80,7 +80,7 @@ lol"
 ---
 
 DJT should take a page out of Turktiggerstan handbook; blame the
-son-in-law for everything and cleanse yourself of all ills.
+son-in-law for everything and cleanse self of all ills.
 
 Too late for the election of course. Loss for DJT. Sad.
 
