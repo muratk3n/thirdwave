@@ -82,7 +82,7 @@ lol"
 DJT should take a page out of Turktiggerstan handbook; blame the
 son-in-law for everything and cleanse yourself of all ills.
 
-Too late for the election of course. Thats a loss.
+Too late for the election of course. Loss for DJT. Sad.
 
 ---
 
