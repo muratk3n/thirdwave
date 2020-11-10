@@ -101,7 +101,7 @@ collective noses out of that man’s ass, we’re gonna have words"
 
 Oh no.
 
-`std::stoi`.
+`std::stoi`
 
 ---
 
