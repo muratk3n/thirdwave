@@ -15,7 +15,7 @@ Pinned Tweet
 "@gabriel_zucman
 
 According to the latest available statistics, US multinationals book
-53% of their non-US profit in the main tax havens
+53% of their non-US profit in the main tax havens.
 
 The 2018 tax reform has had no detectable effect so far on profit
 shifting.
