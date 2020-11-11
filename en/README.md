@@ -38,8 +38,8 @@ small biz, then there might be hope for US right yet.
 That of course also partly rests on the left acting left. As long as
 Dems encroach on their shit, sit on their couch, watch their TV, eat
 their cheetos, they'll never act like a sane party. Then Dems will
-spend another quarter decade why the GOP is so intractable, and does
-not allow them to be "bipartisan".
+spend another quarter century wondering why the GOP is so intractable,
+and does not allow them to be "bipartisan".
 
 ---
 
