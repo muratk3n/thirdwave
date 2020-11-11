@@ -130,6 +130,16 @@ peacekeepers in 2008 in South Ossetia"
 
 ---
 
+"@SenBobArchuleta
+
+My colleagues and I have drafted a letter to @CAgovernor Newsom to
+ensure that as we move towards our zero emission goals that we do not
+become overly-reliant on or overly invested in one single technology"
+
+[Link](https://sd32.senate.ca.gov/news/11102020-senator-archuleta-responds-executive-order-n-79-20)
+
+---
+
 *The Guardian* with the same news
 
 [Link](https://www.theguardian.com/business/2020/nov/10/bp-plans-move-into-green-hydrogen-production)
