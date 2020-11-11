@@ -28,7 +28,7 @@ profit to very low-tax places"
 
 No
 
-"Should libertards come together with the left?"
+"Should the left make coalition with libertards?"
 
 ---
 
