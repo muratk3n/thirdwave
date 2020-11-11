@@ -122,6 +122,8 @@ peacekeepers in 2008 in South Ossetia"
 
 ---
 
+Clear message from a coalition of Senators.
+
 "@SenBobArchuleta
 
 My colleagues and I have drafted a letter to @CAgovernor Newsom to
