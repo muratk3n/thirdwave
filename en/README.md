@@ -144,6 +144,12 @@ BP gets it too.
 
 ---
 
+"@AlanIAbramowitz
+
+The Times Called Officials in Every State: No Evidence of Voter Fraud"
+
+---
+
 From the movie *Serenity*
 
 "If you can't do something smart, do something right."
