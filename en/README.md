@@ -90,13 +90,6 @@ a primary against a Democrat who is part of the problem"
 
 ---
 
-Regulary happens; I spend a day working on a thing, do not like where
-it ends up due to intrinsic shortcomings of the method. Come home,
-after meal, still working. I find a new method, I stop, the next day
-will start with the new method.
-
----
-
 Ah of course.. random projections do preserve distances.. (it's true,
 mathematically provable). why not use that to generate a spatial hash?
 Project to smaller dim, bucket, that's your hash. This is LSH.
