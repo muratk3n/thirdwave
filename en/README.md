@@ -7,7 +7,6 @@ Pinned Tweet
 
 ---
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the data nightmare that is Ring doesn&#39;t scare you, maybe this will <a href="https://t.co/0HRLW5OwTq">https://t.co/0HRLW5OwTq</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1326347194488791040?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
