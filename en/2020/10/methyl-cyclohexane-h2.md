@@ -25,7 +25,7 @@ liquid and at normal temparatures.
 
 "Methyl cyclohexane is a clear colorless liquid with a petroleum-like
 odor. Flash point 25°F. Less dense than water and insoluble in
-water. Vapors heavier than air". Sweet.
+water. Vapors heavier than air".
 
 On the receiving end,
 
