@@ -82,15 +82,6 @@ a primary against a Democrat who is part of the problem"
 
 ---
 
-Ah of course.. random projections do preserve distances.. (it's true,
-mathematically provable). why not use that to generate a spatial hash?
-Project to smaller dim, bucket, that's your hash. This is LSH.
-
-Noone from CFD seems to be doing this tho.. Probably the approach got
-siloed.
-
----
-
 "@AlexGabuev
 
 Today's deal announced by Putin, @presidentaz & @NikolPashinyan in
