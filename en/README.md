@@ -119,7 +119,7 @@ Mexico, drug lords. Largely US' fault.
 ---
 
 Rahm [liked](https://chi.streetsblog.org/2019/12/16/cheer-up-clevelanders-the-ohare-express-is-dead-and-you-can-kill-the-hyperloop/)
-Hyperloop FYI. Disgraced former mayor of Chicago and a centrist
+Hyperloop fyi, disgraced former mayor of Chicago and a centrist.
 
 "@AstroKatie
 
