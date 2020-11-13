@@ -121,10 +121,6 @@ Mexico, drug lords. Largely US' fault.
 Of course Rahm [liked](https://chi.streetsblog.org/2019/12/16/cheer-up-clevelanders-the-ohare-express-is-dead-and-you-can-kill-the-hyperloop/)
 Hyperloop.
 
-Most of these centrists are f-ing retarded, that's what I am starting
-to understand.. Bright shiny objects completely unbalance these
-people.
-
 ---
 
 "@AstroKatie
