@@ -111,7 +111,7 @@ deserved.
 
 South Africa, well, an actual frickin apartheid, until recently. 
 
-Brasil, Chile make sense. Both countries opress the left, via coups,
+Brasil, Chile make sense. Both countries opressed the left, via coups,
 hard or soft.
 
 Mexico, drug lords. Largely US' fault.
