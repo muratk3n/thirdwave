@@ -7,156 +7,147 @@ Pinned Tweet
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the data nightmare that is Ring doesn&#39;t scare you, maybe this will <a href="https://t.co/0HRLW5OwTq">https://t.co/0HRLW5OwTq</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1326347194488791040?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@Atul_Gawande
+
+New Mich. hospital data: Of people admitted with COVID, 70% were alive
+and home 60 days later. Of those who'd been working, 40% either lost
+their job or were still too sick to work"
 
 ---
 
-"@gabriel_zucman
+"@petersgoodman
 
-According to the latest available statistics, US multinationals book
-53% of their non-US profit in the main tax havens.
-
-The 2018 tax reform has had no detectable effect so far on profit
-shifting.
-
-A country-by-country minimum tax of 21% (as proposed by Biden) would
-make a big difference, since it would remove the incentives to shift
-profit to very low-tax places"
+Hospitalizations in Sweden rising faster than anywhere else in Europe,
+undermining reckless nonsense about success of laissez faire strategy"
 
 ---
 
-No
-
-"Should the left make coalition with libertards?"
+Yes. New [post](2020/11/h2-toloune-lohc.md)
 
 ---
 
-Instead of ultra-right freaks, these libertard guys are somewhat
-preferable. If they can become less pro corporate sluts, more pro
-small biz, then there might be hope for US right yet.
-
-That of course also partly rests on the left acting left. As long as
-Dems encroach on their shit, sit on their couch, watch their TV, eat
-their cheetos, they'll never act like a sane party. Then Dems will
-spend another quarter century wondering why the GOP is so intractable,
-and does not allow them to be "bipartisan".
+Perhydro-dibenzyltoluene? 
 
 ---
 
-Nothing special abt 9-9, I picked it so it rhymes.
-
-But then later I checked the date, and there were a lot of Tea Party
-protests that day. :)
+WTF is that compound? It doesn't seem pressurized.. Not ammonia.. Room
+temparature storage.. Interest piqued.
 
 ---
 
-This guy is still tea-partying like it's 9-9-2009.
+<img width="60%" src="https://pbs.twimg.com/card_img/1324398082755354624/0YbhoL1r?format=jpg&name=small"/>
+
+"Saudi Arabia is constructing a futuristic city in the desert on the Red
+Sea called Neom. The $500 billion city — complete with flying taxis
+and robotic domestic help — is being built from scratch and will be
+home to a million people. And what energy product will be used both to
+power this city and sell to the world? Not oil. The Saudis are going
+big on something called green hydrogen — a carbon-free fuel made from
+water by using renewably produced electricity to split hydrogen
+molecules from oxygen molecules. ...
+
+The Saudis aren’t alone in believing it’s the next big thing in the
+energy future. While the fuel is barely on the radar in the United
+States, around the world a green hydrogen rush is underway"
+
+[Link](https://e360.yale.edu/features/green-hydrogen-could-it-be-key-to-a-carbon-free-economy)
 
 ---
 
-Their partner BioNTech [received](https://www.handelsblatt.com/technik/medizin/corona-impfung-biontech-erhaelt-vom-bund-bis-zu-375-millionen-euro-fuer-impfstoffentwicklung/26188636.html)
-over 300 million Euros from the DE government.
+"@jayvanbavel
 
-"@dlacalle_IA
+Research finds that restaurants, gyms, cafes and other crowded indoor
+venues accounted for 80% of infections in the #COVID19 pandemic"
 
-Pfizer CEO explains why they rejected subsidies. A must read for all
-interventionists"
-
----
-
-"@RalstonReports
-
-NEWS: Clark ballots are in, Biden doubles lead to 22K in Nevada"
+[Link](https://twitter.com/jayvanbavel/status/1326549230505193473)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 New Global Inequality Data Release🚨<br><br>For the first time a global inequality dataset covers 170+ countries &amp; 7.5bn people<br><br>Congrats to our teams on the 5 continents, who stand commited to improve global public statistics!<br><br>Have a look 👉 <a href="https://t.co/ewO50FHeo9">https://t.co/ewO50FHeo9</a> <a href="https://t.co/aa6qZ2xnjm">pic.twitter.com/aa6qZ2xnjm</a></p>&mdash; Lucas Chancel (@lucas_chancel) <a href="https://twitter.com/lucas_chancel/status/1326178797591416834?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+So far as I've heard, progs dont sound unhappy about Klain as COS.
 
 ---
 
-Sirota: "Disengaging and going back to brunch is a formula for a
-repeat of 2010 and 2016 ..
-
-Sending money to sham groups like the Lincoln Project for them to
-light it on fire or use it to set up a conservative media outlet is
-destructive — if you want to pitch in resources, give it to a news
-organization doing journalism that holds politicians accountable.
-
-Run for an office in the 2022 election — and don’t be afraid to run in
-a primary against a Democrat who is part of the problem"
-
-[Link](https://jacobinmag.com/2020/11/alexandria-ocasio-cortez-democrats-aoc-biden-trump)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ron Klain’s deep, varied experience and capacity to work with people all across the political spectrum is precisely what I need in a White House chief of staff as we confront this moment of crisis and bring our country together again. <a href="https://t.co/s4XlAgMrxf">https://t.co/s4XlAgMrxf</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1326696150364286976?ref_src=twsrc%5Etfw">November 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Ah of course.. random projections do preserve distances.. (it's true,
-mathematically provable). why not use that to generate a spatial hash?
-Project to smaller dim, bucket, that's your hash. This is LSH.
-
-Noone from CFD seems to be doing this tho.. Probably the approach got
-siloed.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great <a href="https://twitter.com/nytimes?ref_src=twsrc%5Etfw">@nytimes</a> article with input from several California <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> champions! &quot;California Is Trying to Jump-Start the Hydrogen Economy.&quot; <a href="https://twitter.com/SunlineTransit?ref_src=twsrc%5Etfw">@SunlineTransit</a> <a href="https://twitter.com/airliquidegroup?ref_src=twsrc%5Etfw">@airliquidegroup</a> <a href="https://twitter.com/Shell?ref_src=twsrc%5Etfw">@Shell</a> <a href="https://twitter.com/hashtag/UCIrvine?src=hash&amp;ref_src=twsrc%5Etfw">#UCIrvine</a> <a href="https://twitter.com/hashtag/FirstElement?src=hash&amp;ref_src=twsrc%5Etfw">#FirstElement</a> <a href="https://t.co/ZwTOJ10bLX">https://t.co/ZwTOJ10bLX</a> <a href="https://t.co/FIY3ePMexS">pic.twitter.com/FIY3ePMexS</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1326578742060322816?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@AlexGabuev
+Karl Rove: "This Election Result Won’t Be Overturned"
 
-Today's deal announced by Putin, @presidentaz & @NikolPashinyan in
-many ways addresses core Russian interests in the conflict, and is
-perhaps the best outcome (at least in short term) Moscow could get out
-of the situation. ...
-
-Russia has put its 2000 peacekeepers in NK [Nagorno-Karabakh] -
-something that Moscow wanted to do back in 1994, but was unable
-to. There will be no Turkish armed peacekeepers, which is very
-important for Moscow. ...  Presence of the [RU] peacekeepers (in
-Moscow's view) is a guarantee that [AZB] will not be tempted to resume
-the war and capture all of NK territory. The Kremlin is sure that
-@presidentaz took note of what happened after shelling of [RU]
-peacekeepers in 2008 in South Ossetia"
-
-[Link](https://twitter.com/AlexGabuev/status/1326108426917834754)
+[Link](https://t.co/Es8ntEvowG?amp=1)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/gastopower?ref_src=twsrc%5Etfw">@gastopower</a> for getting the word out! <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a> <a href="https://t.co/MFb461Xm7e">https://t.co/MFb461Xm7e</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1326119473561145344?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Plastic Injection Molding vs 3D Printing ? Which is Better? ... 3D
+printing has given engineers the power to create plastic designs at
+their desks and bring them to life in a matter of hours. Injection
+molding, on the other hand, is the go-to for quality and
+value. ... The use of 3D printing in innovative and experimental
+scenarios has been grabbing recent headlines, but the reality is that
+the majority of today's plastic parts are manufactured using plastic
+injection molding"
+
+[Link](https://www.kaysun.com/blog/plastic-injection-molding-vs-3d-printing)
 
 ---
 
-Clear message from a coalition of Senators.
+Emphasis - Vera Cruz \#music
 
-"@SenBobArchuleta
-
-My colleagues and I have drafted a letter to @CAgovernor Newsom to
-ensure that as we move towards our zero emission goals that we do not
-become overly-reliant on or overly invested in one single technology"
-
-[Link](https://sd32.senate.ca.gov/news/11102020-senator-archuleta-responds-executive-order-n-79-20)
+[Link](https://youtu.be/LCpothQgHnI)
 
 ---
 
-*The Guardian* with the same news
+<img width="70%" src="https://pbs.twimg.com/media/EmeGbYXWMAQ4IlD?format=jpg&name=small"/>
 
-[Link](https://www.theguardian.com/business/2020/nov/10/bp-plans-move-into-green-hydrogen-production)
+Sad picture.
+
+TR is not surprising I guess, it is a near-apartheid state where
+certain sections of the population are opressed, a permanent morass of
+defunct ideologies with a phony national identity, and a leadership
+history which never had much spark. The color on the map is well
+deserved.
+
+South Africa, well, an actual frickin apartheid, until recently. 
+
+Brasil, Chile make sense. Both countries opress the left, via coups,
+hard or soft.
+
+Mexico, drug lords. Largely US' fault.
 
 ---
 
-BP gets it too. 
+Most of these centrists are f-ing retarded, that's what I am starting
+to understand.. Bright shiny objects completely unbalance these
+people.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re planning our first industrial-scale green hydrogen project! Collaborating with <a href="https://twitter.com/Orsted?ref_src=twsrc%5Etfw">@Orsted</a>, we’ll work to develop a 50 MW electrolyser at our Lingen refinery in Germany – a significant step in developing new hydrogen business for a decarbonized world.</p>&mdash; bp (@bp_plc) <a href="https://twitter.com/bp_plc/status/1326058721634623488?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Of course Rahm really [liked](https://chi.streetsblog.org/2019/12/16/cheer-up-clevelanders-the-ohare-express-is-dead-and-you-can-kill-the-hyperloop/)
+Hyperloop.
 
 ---
 
-"@AlanIAbramowitz
+"@AstroKatie
 
-The Times Called Officials in Every State: No Evidence of Voter Fraud"
+Japan has 1700 miles of high-speed train lines that can go up to 200
+mph. The system has been in use for half a century.
+
+'@CNN Virgin Hyperloop has completed the first test of its high-speed
+transportation technology'"
 
 ---
 
-From the movie *Serenity*
+SJS Big Band - International Monetary Funk \#music
 
-"If you can't do something smart, do something right."
+[Link](https://youtu.be/Lhbjrdc_NiM)
+
+---
+
+There is no subsititute to asking the top dog on a particular
+subject. Just dropped one to honcho on Zoom, got good answer. 
 
 ---
 
