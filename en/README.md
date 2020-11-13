@@ -118,10 +118,8 @@ Mexico, drug lords. Largely US' fault.
 
 ---
 
-Of course Rahm [liked](https://chi.streetsblog.org/2019/12/16/cheer-up-clevelanders-the-ohare-express-is-dead-and-you-can-kill-the-hyperloop/)
-Hyperloop.
-
----
+Rahm [liked](https://chi.streetsblog.org/2019/12/16/cheer-up-clevelanders-the-ohare-express-is-dead-and-you-can-kill-the-hyperloop/)
+Hyperloop FYI. 
 
 "@AstroKatie
 
