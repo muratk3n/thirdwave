@@ -37,14 +37,13 @@ temparature storage.. Interest piqued.
 
 <img width="60%" src="https://pbs.twimg.com/card_img/1324398082755354624/0YbhoL1r?format=jpg&name=small"/>
 
-"Saudi Arabia is constructing a futuristic city in the desert on the Red
-Sea called Neom. The $500 billion city — complete with flying taxis
-and robotic domestic help — is being built from scratch and will be
-home to a million people. And what energy product will be used both to
-power this city and sell to the world? Not oil. The Saudis are going
-big on something called green hydrogen — a carbon-free fuel made from
-water by using renewably produced electricity to split hydrogen
-molecules from oxygen molecules. ...
+"Saudi Arabia is constructing a futuristic city in the desert on the
+Red Sea called Neom. The $500 billion city ... is being built from
+scratch and will be home to a million people. And what energy product
+will be used both to power this city and sell to the world? Not
+oil. The Saudis are going big on something called green hydrogen — a
+carbon-free fuel made from water by using renewably produced
+electricity to split hydrogen molecules from oxygen molecules. ...
 
 The Saudis aren’t alone in believing it’s the next big thing in the
 energy future. While the fuel is barely on the radar in the United
