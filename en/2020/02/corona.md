@@ -115,6 +115,7 @@ print (df2[1].tail(5))
 # 0,2 indices 95% conf
 df2[1].tail(70).plot()
 plt.title('US')
+plt.ylim(1.0,1.1)
 plt.savefig('Rt-US.png')
 ```
 
