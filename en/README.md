@@ -7,8 +7,8 @@ Pinned Tweet
 
 ---
 
-There are 17 new covid cases in South OZ and the PM is having a press
-conference about it
+There are a handful of new covid cases in South OZ and the PM is
+having a press conference about it
 
 ---
 
