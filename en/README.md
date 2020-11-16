@@ -73,7 +73,7 @@ significant.
 
 Perfect timing too with US being in a funk.
 
-US of course pulled out of the TPP with Trump few years ago.
+US of course pulled out of the TPP with Trump in 2017.
 
 ---
 
