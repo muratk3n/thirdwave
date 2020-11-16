@@ -46,7 +46,7 @@ while they make stuff.
 
 ---
 
-Obviously a cover of another famous song
+Obviously remake of another famous song
 
 [Link](https://www.youtube.com/watch?v=Et3AJIry4iI)
 
