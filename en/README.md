@@ -50,7 +50,7 @@ President Donald Trump are coming to an end"
 "@nealkwatra
 
 So tired of hearing Pfizer didn’t get money from the Fed’s when they
-got a 1.95 Billion [dollar] “advance purchase” agreement. Soooo, yes
+got a 1.95 Billion [dollar] 'advance purchase' agreement. Soooo, yes
 they damn well did get federal funding and because they had $2bn of
 free cash they could go nuts on R&D knowing they already pre-sold 100m
 doses"
