@@ -63,7 +63,7 @@ doses.
 
 via @ggreenwald
 
-<img width="90%"  src="https://pbs.twimg.com/media/Em0mRfmXEAMy5IT?format=jpg&name=small"/>
+<img width="95%"  src="https://pbs.twimg.com/media/Em0mRfmXEAMy5IT?format=jpg&name=small"/>
 
 ---
 
