@@ -105,10 +105,10 @@ apparently he did.
 
 ---
 
-"Over the past year and a half, Trump [has] largely achieved their
-goal of choking off the flow of unauthorized immigrants into the
-United States — especially families from Central America, many of whom
-come with the intention of requesting asylum. ....
+"Trump [has] largely achieved their goal of choking off the flow of
+unauthorized immigrants into the United States — especially families
+from Central America, many of whom come with the intention of
+requesting asylum. ....
 
 But the coronavirus has given the U.S. its most robust tool yet for
 repelling asylum-seekers. An order signed by the U.S. Centers for
@@ -122,7 +122,7 @@ if they returned to their homelands.
 
 The combination of international agreements, health concerns and new
 tactics has effectively shut the border. So far, none of the elements
-in the administration’s new “waterproof fabric” have been overturned
+in the administration’s new 'waterproof fabric' have been overturned
 in court or become the subject of public uproar, as family separation
 did in 2018"
 
