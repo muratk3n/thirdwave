@@ -93,21 +93,13 @@ E! News: "Influencer Dies Of COVID-19 After Telling Followers It
 
 ---
 
-Perfect timing too with US being in a funk.
-
-"@nktpnd
-
-A reminder that big things are happening—and will continue to
-happen—in Asia, with or without the United States: RCEP nations to
-sign Asian trade megadeal Sunday, with clause for India"
-
----
-
 Not sure whether RCEP is good or bad for the respective middle-classes
 of all those RCEP countries, but the exclusion of US is strategically
 significant.
 
 US obviously pulled out of the TPP with Trump.
+
+Perfect timing too with US being in a funk.
 
 ---
 
