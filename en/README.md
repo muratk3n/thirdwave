@@ -12,32 +12,6 @@ conference about it
 
 ---
 
-"Over the past year and a half, Trump and his relentlessly focused
-aide, Stephen Miller, have largely achieved their goal of choking off
-the flow of unauthorized immigrants into the United States —
-especially families from Central America, many of whom come with the
-intention of requesting asylum. ....
-
-But the coronavirus has given the U.S. its most robust tool yet for
-repelling asylum-seekers. An order signed by the U.S. Centers for
-Disease Control and Prevention in March ...  prohibited the entry of
-unauthorized immigrants from Mexico in the name of public health. The
-order gave border agents the authority to simply expel them. In the
-months since, 200,000 migrants have been expelled, either to Mexico or
-to their home countries. None have been given the opportunity to
-request asylum or explain why they believed they would be persecuted
-if they returned to their homelands.
-
-The combination of international agreements, health concerns and new
-tactics has effectively shut the border. So far, none of the elements
-in the administration’s new “waterproof fabric” have been overturned
-in court or become the subject of public uproar, as family separation
-did in 2018"
-
-[Link](https://www.propublica.org/article/trump-got-what-he-wanted-at-the-border-would-biden-undo-it)
-
----
-
 "President-elect Joe Biden’s transition team has recruited a who’s-who
 of Wall Street critics to help launch his administration, the latest
 indication that the days of light-touch bank regulation under
@@ -128,6 +102,31 @@ that, JC's bio sounded like he devolve into a Ch nationalism, and
 apparently he did.
 
 [Link](https://youtu.be/3d_KzGfo2lU?t=80)
+
+---
+
+"Over the past year and a half, Trump [has] largely achieved their
+goal of choking off the flow of unauthorized immigrants into the
+United States — especially families from Central America, many of whom
+come with the intention of requesting asylum. ....
+
+But the coronavirus has given the U.S. its most robust tool yet for
+repelling asylum-seekers. An order signed by the U.S. Centers for
+Disease Control and Prevention in March ...  prohibited the entry of
+unauthorized immigrants from Mexico in the name of public health. The
+order gave border agents the authority to simply expel them. In the
+months since, 200,000 migrants have been expelled, either to Mexico or
+to their home countries. None have been given the opportunity to
+request asylum or explain why they believed they would be persecuted
+if they returned to their homelands.
+
+The combination of international agreements, health concerns and new
+tactics has effectively shut the border. So far, none of the elements
+in the administration’s new “waterproof fabric” have been overturned
+in court or become the subject of public uproar, as family separation
+did in 2018"
+
+[Link](https://www.propublica.org/article/trump-got-what-he-wanted-at-the-border-would-biden-undo-it)
 
 ---
 
