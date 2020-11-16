@@ -121,10 +121,10 @@ of the world’s economy and population"
 
 ---
 
-HK ppl can fall into that through "expat nationalism". HK'ers aren't
-exactly expats (from the mainland) in the usual sense but some could
-see themselves that way. And a lot of expats overseas who "left the
-country and always plan to come back one day" might confuse their
+I can see how some HKers can fall into "expat nationalism". HK folk
+aren't exactly expats (from the mainland) in the usual sense but some
+could see themselves that way. And a lot of expats overseas who "left
+the country and always plan to come back one day" might confuse their
 nostalgia with analysis, and since they dont live in the "home
 country" either, they do not see all that's going on inside, so
 develop a blind romantic attachment.
