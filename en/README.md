@@ -130,10 +130,6 @@ did in 2018"
 
 ---
 
-TR was late in congratulating Biden. Diplom fail or a childish snub?
-
----
-
 Theo James is a good lead. *How It Ends* was a perfectly watchable
 movie.
 

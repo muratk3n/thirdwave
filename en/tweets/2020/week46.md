@@ -17,7 +17,7 @@ undermining reckless nonsense about success of laissez faire strategy"
 
 ---
 
-Yes. New [post](2020/11/h2-toloune-lohc.md)
+Yes. New [post](../../2020/11/h2-toloune-lohc.md)
 
 ---
 
@@ -621,7 +621,7 @@ They can increase renewable use through solar, they certainly have a
 lot of direct sunshine.
 
 Min says solar generation is done for 6 hours, 1/4th of a day -same
-guesstimate I'd used earlier-. For renewable storage; [GenCell](2019/07/gencell.md)
+guesstimate I'd used earlier-. For renewable storage; [GenCell](../../2019/07/gencell.md)
 is local right?
 
 "Minister of Energy Yuval Steinitz on Renewable Energy Goal" \#israel
