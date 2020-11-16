@@ -71,9 +71,9 @@ Not sure whether RCEP is good or bad for the respective middle-classes
 of all those RCEP countries, but the exclusion of US is strategically
 significant.
 
-US obviously pulled out of the TPP with Trump.
-
 Perfect timing too with US being in a funk.
+
+US obviously pulled out of the TPP with Trump.
 
 ---
 
