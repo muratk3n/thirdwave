@@ -72,7 +72,7 @@ while they make stuff.
 
 ---
 
-Obviously previous was a cover of another famous song
+Obviously a cover of another famous song
 
 [Link](https://www.youtube.com/watch?v=Et3AJIry4iI)
 
