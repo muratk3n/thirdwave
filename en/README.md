@@ -98,8 +98,8 @@ romantic attachment. Could be the issue here.
 ---
 
 People dont like Jackie Chan anymore in Hong Kong? I was wondering abt
-that, JC's bio sounded like he devolve into a Ch nationalism, and
-apparently he did.
+that, JC's bio sounded like he could devolve into a Chink nationalism,
+and apparently he did.
 
 [Link](https://youtu.be/3d_KzGfo2lU?t=80)
 
