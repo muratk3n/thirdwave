@@ -103,9 +103,9 @@ sign Asian trade megadeal Sunday, with clause for India"
 
 ---
 
-Not sure whether to feel good or bad RCEP for the respective
-middle-classes of those RCEP countries, but the exclusion of US is
-strategically significant.
+Not sure whether RCEP is good or bad for the respective middle-classes
+of all those RCEP countries, but the exclusion of US is strategically
+significant.
 
 US obviously pulled out of the TPP with Trump.
 
