@@ -89,6 +89,10 @@ normal by next winter"
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">2020... <a href="https://t.co/1YtH8Da5lf">pic.twitter.com/1YtH8Da5lf</a></p>&mdash; Rex Chapman🏇🏼 (@RexChapman) <a href="https://twitter.com/RexChapman/status/1328477415295823872?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 LOHC+ as a H2 carrier is no newsflash for govs who know what's going
 on.. I've seen docs out of DE, they are all over this shit. EU in
 general too. That's what you want... Knowledgable people toiling away
