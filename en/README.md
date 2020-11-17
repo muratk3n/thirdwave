@@ -109,8 +109,8 @@ in obscurity and preparing.
 
 "@HCTrudo
 
-People need to stop using the word “progressives” incorrectly. What
-alternate universe has McAuliffe made “inroads” with progressives"
+People need to stop using the word 'progressives' incorrectly. What
+alternate universe has McAuliffe made 'inroads' with progressives"
 
 [Link](https://mobile.twitter.com/HCTrudo/status/1328150020999290880)
 
