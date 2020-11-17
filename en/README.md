@@ -1,137 +1,113 @@
 # Tweets
 
-Pinned Tweet
+"@erikbryn
 
-[CNBC](https://www.cnbc.com/2020/11/01/how-salt-caverns-may-trigger-11-trillion-hydrogen-energy-boom-.html):
-"An $11 trillion global hydrogen energy boom is coming"
+Why has inequality grown? Hubmer, Krusell & Smith have an answer: 'We
+find that the significant drop in tax progressivity starting in the
+late 1970s is the most important driver of the increase in wealth
+inequality since then'"
 
----
-
-There are a handful of new covid cases in South OZ and the PM is
-having a press conference about it
-
----
-
-"President-elect Joe Biden’s transition team has recruited a who’s-who
-of Wall Street critics to help launch his administration, the latest
-indication that the days of light-touch bank regulation under
-President Donald Trump are coming to an end"
-
-[Link](https://www.politico.com/amp/news/2020/11/12/biden-transition-wall-street-crackdown-436366)
+[Link](https://twitter.com/erikbryn/status/1328486808515035138)
 
 ---
 
-"@nealkwatra
+$R$ is increasing for US, and it was never below 1.
 
-So tired of hearing Pfizer didn’t get money from the Fed’s when they
-got a 1.95 Billion [dollar] 'advance purchase' agreement. Soooo, yes
-they damn well did get federal funding and because they had $2bn of
-free cash they could go nuts on R&D knowing they already pre-sold 100m
-doses"
+<img width="60%" src="https://pbs.twimg.com/media/Em7Q3LfW8AArZyO?format=png&name=small"/>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota Teams Up with Iwatani to Create 7 New <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Fueling Stations in California - <a href="https://t.co/k6buLdHBwR">https://t.co/k6buLdHBwR</a> <a href="https://t.co/7TQdTIxFr1">pic.twitter.com/7TQdTIxFr1</a></p>&mdash; Hydro Kevin (@hydrokevin) <a href="https://twitter.com/hydrokevin/status/1328007657064521728?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Undermining trust in democracy is not cool. As with many other things
+this is a leadership fail.
+
+"Poll: 70 percent of Republicans don't think the election was free and fair"
 
 ---
 
-via @ggreenwald
-
-<img width="95%"  src="https://pbs.twimg.com/media/Em0mRfmXEAMy5IT?format=jpg&name=small"/>
-
----
-
-It feels like every DIY tuber uses the same goofy background music
-while they make stuff.
+"Biden confirmed that Article 5 of the Japan-U.S. Security Treaty will
+be applied to the defense of Okinawa Prefecture and the Senkaku
+Islands. Article 5 stipulates that the U.S. is obliged to defend Japan
+should its territories come under attack. ... Chinese vessels have
+been sighted near the islands"
 
 ---
 
-Obviously cover of another famous song
-
-[Link](https://www.youtube.com/watch?v=Et3AJIry4iI)
-
----
-
-Hugo Strasser - Black Night \#music
-
-[Link](https://youtu.be/SLpMgUGeDzY)
+One of its designers call the Intel 386 instruction set as
+"baroque" 😆
 
 ---
 
-E! News: "Influencer Dies Of COVID-19 After Telling Followers It
-'Doesn't Exist'"
+Yes, bcz the instruction set is simpler, but then bunch of companies
+jumped on the bandwagon bcz the clean design, and it snowballed from
+there.
+
+Risc-V is of course open source.
+
+"RISC-V is a new free and open instruction set architecture (ISA)
+developed at UC Berkeley, initially designed for research and
+education, but is now increasingly being used for commercial designs"
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">thinking about launching a new podcast series called Goldman Sachs Is Actually Awesome sponsored by Goldman Sachs and then starting a newsletter pretending I’m oppressed <a href="https://t.co/KYTRNp9ohi">https://t.co/KYTRNp9ohi</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1327850533101527041?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+Politics is rough ...
+
+--- 
+
+It's cold
+
+<img width="340" src="https://pbs.twimg.com/media/Em9w--xXEAM9F5x?format=jpg&name=small"/>
 
 ---
 
-Not sure whether RCEP is good or bad for the respective middle-classes
-of all those RCEP countries, but the exclusion of US is strategically
-significant.
+"In two new studies, researchers have used microwaves to produce
+hydrogen from plastic waste and water, respectively. ... 
 
-Perfect timing too with US being in a funk.
+In the new process, the researchers pulverize plastic in a kitchen
+blender, mix it with a catalyst made of iron oxide and aluminum oxide,
+and then zap it with microwaves at 1000 Watts. The microwaves trigger
+the catalyst particles to strip over 97 percent of the hydrogen from
+plastic in seconds"
 
-US of course pulled out of the TPP with Trump in 2017.
-
----
-
-US excluded!
-
-"RCEP: Asia-Pacific nations sign world’s biggest trade pact. The
-China-backed RCEP deal excludes the US and will account for 30 percent
-of the world’s economy and population"
-
-[Link](https://www.aljazeera.com/economy/2020/11/15/rcep-15-asia-pacific-nations-set-worlds-biggest-trade-pact)
+[Link](https://www.anthropocenemagazine.org/2020/11/microwave-magic-can-give-clean-hydrogen-fuel/)
 
 ---
 
-I can see how some HKers can fall into "expat nationalism". HK folk
-aren't exactly expats (from the mainland) in the usual sense but some
-could see themselves that way. And a lot of expats overseas who "left
-the country and always plan to come back one day" do confuse their
-nostalgia with analysis, since they dont live in the "home country"
-either, they do not see all that's going on inside, so develop a blind
-romantic attachment. Could be the issue here.
+Marketwatch: "Cummins, Navistar to develop hydrogen fuel cell-powered heavy truck"
+
+[Link](https://www.marketwatch.com/story/cummins-navistar-to-develop-hydrogen-fuel-cell-powered-heavy-truck-2020-11-11)
 
 ---
 
-People dont like Jackie Chan anymore in Hong Kong? I was wondering abt
-that, JC's bio sounded like he could devolve into a Ch nationalism,
-and apparently he did.
+Tom Jones - Black Betty \#music
 
-[Link](https://youtu.be/3d_KzGfo2lU?t=80)
+[Link](https://youtu.be/Oc8AN1-P3GE?t=26)
 
 ---
 
-"Trump [has] largely achieved their goal of choking off the flow of
-unauthorized immigrants into the United States — especially families
-from Central America, many of whom come with the intention of
-requesting asylum. ....
-
-But the coronavirus has given the U.S. its most robust tool yet for
-repelling asylum-seekers. An order signed by the U.S. Centers for
-Disease Control and Prevention in March ...  prohibited the entry of
-unauthorized immigrants from Mexico in the name of public health. The
-order gave border agents the authority to simply expel them. In the
-months since, 200,000 migrants have been expelled, either to Mexico or
-to their home countries. None have been given the opportunity to
-request asylum or explain why they believed they would be persecuted
-if they returned to their homelands.
-
-The combination of international agreements, health concerns and new
-tactics has effectively shut the border. So far, none of the elements
-in the administration’s new 'waterproof fabric' have been overturned
-in court or become the subject of public uproar, as family separation
-did in 2018"
-
-[Link](https://www.propublica.org/article/trump-got-what-he-wanted-at-the-border-would-biden-undo-it)
+"The creator of the Pfizer-BioNTech vaccine says life could return to
+normal by next winter"
 
 ---
 
-Theo James is a good lead. *How It Ends* was a perfectly watchable
-movie.
+😆
+
+"How real-time geolocation data could help your train run on time"
+
+---
+
+LOHC+ as a H2 carrier is no newsflash for govs who know what's going
+on.. I've seen docs out of DE, they are all over this shit. EU in
+general too. That's what you want... Knowledgable people toiling away
+in obscurity and preparing.
+
+---
+
+"@HCTrudo
+
+People need to stop using the word “progressives” incorrectly. What
+alternate universe has McAuliffe made “inroads” with progressives"
+
+[Link](https://mobile.twitter.com/HCTrudo/status/1328150020999290880)
 
 ---
 
