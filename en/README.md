@@ -66,7 +66,14 @@ In the new process, the researchers pulverize plastic in a kitchen
 blender, mix it with a catalyst made of iron oxide and aluminum oxide,
 and then zap it with microwaves at 1000 Watts. The microwaves trigger
 the catalyst particles to strip over 97 percent of the hydrogen from
-plastic in seconds"
+plastic in seconds ...
+
+[For water the] technique involves blasting a ceramic oxide with
+microwaves, which removes oxygen from the material and increases its
+electrical conductivity. The activated ceramic material then
+spontaneously reacts with water that is passed over it, forming
+hydrogen and oxygen, which reoxygenates the ceramic so it can be
+reused.
 
 [Link](https://www.anthropocenemagazine.org/2020/11/microwave-magic-can-give-clean-hydrogen-fuel/)
 
