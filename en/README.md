@@ -89,12 +89,6 @@ normal by next winter"
 
 ---
 
-😆
-
-"How real-time geolocation data could help your train run on time"
-
----
-
 LOHC+ as a H2 carrier is no newsflash for govs who know what's going
 on.. I've seen docs out of DE, they are all over this shit. EU in
 general too. That's what you want... Knowledgable people toiling away
@@ -108,6 +102,12 @@ People need to stop using the word “progressives” incorrectly. What
 alternate universe has McAuliffe made “inroads” with progressives"
 
 [Link](https://mobile.twitter.com/HCTrudo/status/1328150020999290880)
+
+---
+
+😆
+
+"How real-time geolocation data could help your train run on time"
 
 ---
 
