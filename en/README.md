@@ -11,7 +11,7 @@ inequality since then'"
 
 ---
 
-$R$ is increasing for US, and it was never below 1.
+$R$ is increasing for US, and it was never below 1. Code [here](2020/02/corona.md#Rt).
 
 <img width="60%" src="https://pbs.twimg.com/media/Em7Q3LfW8AArZyO?format=png&name=small"/>
 
