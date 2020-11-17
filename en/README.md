@@ -38,8 +38,8 @@ One of its designers call the Intel 386 instruction set as
 ---
 
 Yes, bcz the instruction set is simpler, but then bunch of companies
-jumped on the bandwagon bcz the clean design, and it snowballed from
-there.
+jumped on the bandwagon bcz of the clean design, and it snowballed
+from there.
 
 Risc-V is of course open source.
 
