@@ -1,124 +1,125 @@
 # Tweets
 
-"@erikbryn
+---
 
-Why has inequality grown? Hubmer, Krusell & Smith have an answer: 'We
-find that the significant drop in tax progressivity starting in the
-late 1970s is the most important driver of the increase in wealth
-inequality since then'"
-
-[Link](https://twitter.com/erikbryn/status/1328486808515035138)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">She showed up <a href="https://t.co/YkgmdBHL5i">https://t.co/YkgmdBHL5i</a></p>&mdash; David Dayen (@ddayen) <a href="https://twitter.com/ddayen/status/1328777896526168064?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-$R$ is increasing for US, and it was never below 1. Code [here](2020/02/corona.md#Rt).
-
-<img width="60%" src="https://pbs.twimg.com/media/Em7Q3LfW8AArZyO?format=png&name=small"/>
+Jacobin: "Joe Biden Is Freezing Bernie Sanders and Elizabeth Warren Out of His Cabinet"
 
 ---
 
-Undermining trust in democracy is not cool. As with many other things
-this is a leadership fail.
+Warren endorser
 
-"Poll: 70 percent of Republicans don't think the election was free and fair"
-
----
-
-"Biden confirmed that Article 5 of the Japan-U.S. Security Treaty will
-be applied to the defense of Okinawa Prefecture and the Senkaku
-Islands. Article 5 stipulates that the U.S. is obliged to defend Japan
-should its territories come under attack. ... Chinese vessels have
-been sighted near the islands"
+"Jaime Harrison Is Likely to Be the Next DNC Chair"
 
 ---
 
-One of its designers call the Intel 386 instruction set as
-"baroque" 😆
+A lot of politics in this song... 
+
+"♪♬ Now I'm stocking shirts in the Wal-Mart store ♪
+
+♪♬ Just like the ones we made before
+
+♪ 'Cept this one came from Singapore
+
+♬ I guess we can't make it here anymore
+
+♪♬ Should I hate a people for the shade of their skin
+
+♬ Or the shape of their eyes or the shape I'm in
+
+♪♬ Should I hate 'em for having our jobs today
+
+♪♬ No I hate the men sent the jobs away"
 
 ---
 
-Yes, the instruction set is simpler, and then bunch of companies
-jumped on the bandwagon bcz of the clean design, and it snowballed
-from there.
+James McMurtry - We Can't Make It Here
 
-Risc-V is of course open source.
-
-"RISC-V is a new free and open instruction set architecture (ISA)
-developed at UC Berkeley, initially designed for research and
-education, but is now increasingly being used for commercial designs"
+[Link](https://youtu.be/Szclr2caFG8)
 
 ---
 
-Politics is rough ...
-
---- 
-
-It's cold
-
-<img width="340" src="https://pbs.twimg.com/media/Em9w--xXEAM9F5x?format=jpg&name=small"/>
+<iframe width="340"  src="https://www.youtube.com/embed/DRR4uBb8Am4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"In two new studies, researchers have used microwaves to produce
-hydrogen from plastic waste and water, respectively. ... 
+EU is funding this too? 
 
-In the new process, the researchers pulverize plastic in a kitchen
-blender, mix it with a catalyst made of iron oxide and aluminum oxide,
-and then zap it with microwaves at 1000 Watts. The microwaves trigger
-the catalyst particles to strip over 97 percent of the hydrogen from
-plastic in seconds ...
+"Space@Sea (@SpaceAtSea) [is a] @EU_H2020 funded research project
+focusing on multi-use floating islands"
 
-[For water the] technique involves blasting a ceramic oxide with
-microwaves, which removes oxygen from the material and increases its
-electrical conductivity. The activated ceramic material then
-spontaneously reacts with water that is passed over it, forming
-hydrogen and oxygen, which reoxygenates the ceramic so it can be
-reused.
-
-[Link](https://www.anthropocenemagazine.org/2020/11/microwave-magic-can-give-clean-hydrogen-fuel/)
+[Link](https://mobile.twitter.com/SpaceAtSea)
 
 ---
 
-Marketwatch: "Cummins, Navistar to develop hydrogen fuel cell-powered heavy truck"
+"@Lecocq_dom
 
-[Link](https://www.marketwatch.com/story/cummins-navistar-to-develop-hydrogen-fuel-cell-powered-heavy-truck-2020-11-11)
+World record drone flights. So a 6-liter tank of liquid \#hydrogen
+beats 16 liters of gasoline by nearly 20 percent"
 
----
-
-Tom Jones - Black Betty \#music
-
-[Link](https://youtu.be/Oc8AN1-P3GE?t=26)
+[Link](https://twitter.com/Lecocq_dom/status/1328597954089902081)
 
 ---
 
-"The creator of the Pfizer-BioNTech vaccine says life could return to
-normal by next winter"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The hydrogen industry is being urged to work with the Australian federal government and its international partners on ambitious plans for an export boom in lower emissions technology.<br><br>Read more here: <a href="https://t.co/dn77XDRoP9">https://t.co/dn77XDRoP9</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/australia?src=hash&amp;ref_src=twsrc%5Etfw">#australia</a> <a href="https://twitter.com/hashtag/cleantech?src=hash&amp;ref_src=twsrc%5Etfw">#cleantech</a> <a href="https://t.co/oiKRD7YGVU">pic.twitter.com/oiKRD7YGVU</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1328910946044157952?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">2020... <a href="https://t.co/1YtH8Da5lf">pic.twitter.com/1YtH8Da5lf</a></p>&mdash; Rex Chapman🏇🏼 (@RexChapman) <a href="https://twitter.com/RexChapman/status/1328477415295823872?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@katienotopoulos
+
+Twitter wants to be Instagram (fleets/stories)
+
+Instagram wants to be TikTok (Reels redesign)
+
+TikTok wants to be, uh, not banned
+
+Facebook wants to be Reddit (Groups/subs)
+
+Substack wants to be Medium (Medium wants to be whatever it wasn't 18 months ago)
+
+what else?"
 
 ---
 
-LOHC+ as a H2 carrier is no newsflash for govs who know what's going
-on.. I've seen docs out of DE, they are all over this shit. EU in
-general too. That's what you want... Knowledgable people toiling away
-in obscurity and preparing.
+She sounds like a closer.
+
+AOC: "But we also learned that progressive policies do not hurt
+candidates. Every single candidate that co-sponsored Medicare for All
+in a swing district kept their seat.  ... If you’re not door-knocking,
+if you’re not on the internet, if your main points of reliance are TV
+and mail, then you’re not running a campaign on all cylinders. I just
+don’t see how anyone could be making ideological claims when they
+didn’t run a full-fledged campaign"
+
+[Link](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html)
 
 ---
 
-"@HCTrudo
-
-People need to stop using the word 'progressives' incorrectly. What
-alternate universe has McAuliffe made 'inroads' with progressives"
-
-[Link](https://mobile.twitter.com/HCTrudo/status/1328150020999290880)
+(Updated my act)
 
 ---
 
-😆
+Me and Heather like to eat granola
 
-"How real-time geolocation data could help your train run on time"
+---
+
+Kaleefornia 👍 
+
+"California is trying to jump-start the hydrogen economy"
+
+[Link](https://www.sanjuandailystar.com/post/california-is-trying-to-jump-start-the-hydrogen-economy)
+
+---
+
+"@PhilipMichaels
+
+This Senate hearing looks like the tale of a marooned lighthouse
+keeper and the robot butler he built to stave off loneliness"
+
+<img width="40%" src="https://pbs.twimg.com/media/EnEItIuUcAA7sfD?format=jpg&name=small"/>
 
 ---
 
