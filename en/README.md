@@ -6,16 +6,6 @@
 
 ---
 
-Jacobin: "Joe Biden Is Freezing Bernie Sanders and Elizabeth Warren Out of His Cabinet"
-
----
-
-Warren endorser
-
-"Jaime Harrison Is Likely to Be the Next DNC Chair"
-
----
-
 A lot of politics in this song... 
 
 "♪♬ Now I'm stocking shirts in the Wal-Mart store ♪
@@ -39,6 +29,16 @@ A lot of politics in this song...
 James McMurtry - We Can't Make It Here
 
 [Link](https://youtu.be/Szclr2caFG8)
+
+---
+
+Jacobin: "Joe Biden Is Freezing Bernie Sanders and Elizabeth Warren Out of His Cabinet"
+
+---
+
+Warren endorser
+
+"Jaime Harrison Is Likely to Be the Next DNC Chair"
 
 ---
 
