@@ -28,7 +28,7 @@ A lot of politics in this song...
 
 James McMurtry - We Can't Make It Here
 
-[Link](https://youtu.be/Szclr2caFG8)
+[Link](https://youtu.be/Szclr2caFG8?t=210)
 
 ---
 
