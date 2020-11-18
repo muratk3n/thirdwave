@@ -119,7 +119,7 @@ Kaleefornia 👍
 This Senate hearing looks like the tale of a marooned lighthouse
 keeper and the robot butler he built to stave off loneliness"
 
-<img width="40%" src="https://pbs.twimg.com/media/EnEItIuUcAA7sfD?format=jpg&name=small"/>
+<img width="50%" src="https://pbs.twimg.com/media/EnEItIuUcAA7sfD?format=jpg&name=small"/>
 
 ---
 
