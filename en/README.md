@@ -46,6 +46,20 @@ James McMurtry - We Can't Make It Here
 
 ---
 
+She sounds like a closer.
+
+AOC: "But we also learned that progressive policies do not hurt
+candidates. Every single candidate that co-sponsored Medicare for All
+in a swing district kept their seat.  ... If you’re not door-knocking,
+if you’re not on the internet, if your main points of reliance are TV
+and mail, then you’re not running a campaign on all cylinders. I just
+don’t see how anyone could be making ideological claims when they
+didn’t run a full-fledged campaign"
+
+[Link](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html)
+
+---
+
 EU is funding this too? 
 
 "Space@Sea (@SpaceAtSea) [is a] @EU_H2020 funded research project
@@ -81,20 +95,6 @@ Facebook wants to be Reddit (Groups/subs)
 Substack wants to be Medium (Medium wants to be whatever it wasn't 18 months ago)
 
 what else?"
-
----
-
-She sounds like a closer.
-
-AOC: "But we also learned that progressive policies do not hurt
-candidates. Every single candidate that co-sponsored Medicare for All
-in a swing district kept their seat.  ... If you’re not door-knocking,
-if you’re not on the internet, if your main points of reliance are TV
-and mail, then you’re not running a campaign on all cylinders. I just
-don’t see how anyone could be making ideological claims when they
-didn’t run a full-fledged campaign"
-
-[Link](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html)
 
 ---
 
