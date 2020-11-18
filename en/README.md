@@ -175,5 +175,3 @@ despite the best efforts of people working in them.
 
 [Tweet Archive](/tweets/README.md)
 
-
-

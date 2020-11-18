@@ -471,12 +471,6 @@ shortage of the relevant reagents"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re never self-isolated if you’ve got Jesus in your heart</p>&mdash; Scott Morrison PM of Australia (parody) (@ScottyFromMktg) <a href="https://twitter.com/ScottyFromMktg/status/1245265050476007424?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-1 14:27:18*
-
----
-
 .. so I can exploit you independently.
 
 "@Renegade_Inc
