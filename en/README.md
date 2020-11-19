@@ -90,7 +90,7 @@ Fantastic wing design.
 
 RIP
 
-Jetman' Vincent Reffet dies in training accident
+"'Jetman' Vincent Reffet dies in training accident"
 
 [Link](https://www.theguardian.com/world/2020/nov/17/dubai-jetman-vincent-reffet-dies-in-training-accident)
 
