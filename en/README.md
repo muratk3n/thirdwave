@@ -18,7 +18,7 @@ religious right.
 
 ---
 
-Crafty little guy! 🦉 🦉 🦉 🦉 
+Crafty little guy! 🦉 🦉 🦉 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">They found a small owl inside of this year’s Rockefeller Christmas tree, he hitched a ride all the way to NYC and is now being treated and cared for at a wildlife rehab facility. <a href="https://t.co/f4PkBm6MGo">pic.twitter.com/f4PkBm6MGo</a></p>&mdash; Allison Esposito Medina (@techladyallison) <a href="https://twitter.com/techladyallison/status/1329133725779628033?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -61,7 +61,7 @@ Ok... Too many `glutSolidSphere` calls slows things down.. \#opengl
 
 Russian media is busy with an idea that dipshits in Tiggerland became
 Britain's playthings in a Great Game Part II (albeit with less "great"
-actors such as UK). They are being used to bother / disturb the
+actors such as the UK). They are being used to bother / disturb the
 Russia, EU, Greece, even Cyprus for the fear that if things calmed
 down there the local UK bases would be called into
 question. Interesting theory.
