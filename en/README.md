@@ -10,10 +10,11 @@ America"
 
 ---
 
-Pompeo stayed loyal to Trump, even with this election stuff, and after
-the election loss made a huge intl trip visiting places in a way that
-would appeal the evangelicals. F24 suggested he is planning a 2024
-run. He can get the one-time Trump voters and religious right.
+Pompeo stayed loyal to Trump, even with this election stuff, then
+after the election loss he made a huge intl trip visiting places in a
+way that would appeal the evangelicals. F24 is suggesting he is
+planning a 2024 run. He can get the one-time Trump voters and
+religious right.
 
 ---
 
