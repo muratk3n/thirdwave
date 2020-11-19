@@ -1,125 +1,101 @@
 # Tweets
 
----
+"@GunnelsWarren
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">She showed up <a href="https://t.co/YkgmdBHL5i">https://t.co/YkgmdBHL5i</a></p>&mdash; David Dayen (@ddayen) <a href="https://twitter.com/ddayen/status/1328777896526168064?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-A lot of politics in this song... 
-
-"♪♬ Now I'm stocking shirts in the Wal-Mart store ♪
-
-♪♬ Just like the ones we made before
-
-♪ 'Cept this one came from Singapore
-
-♬ I guess we can't make it here anymore
-
-♪♬ Should I hate a people for the shade of their skin
-
-♬ Or the shape of their eyes or the shape I'm in
-
-♪♬ Should I hate 'em for having our jobs today
-
-♪♬ No I hate the men sent the jobs away"
+The real looting in America is the Walton family becoming $63 billion
+richer during a pandemic, while paying wages so low that 14,541 of
+their workers in 9 states need food stamps - all subsidized by
+U.S. taxpayers. Yes. The Walton family is the real welfare queen in
+America"
 
 ---
 
-James McMurtry - We Can't Make It Here
-
-[Link](https://youtu.be/Szclr2caFG8?t=210)
-
----
-
-Jacobin: "Joe Biden Is Freezing Bernie Sanders and Elizabeth Warren Out of His Cabinet"
+Pompeo stayed loyal to Trump, even with this election stuff, and after
+the election loss made a huge intl trip visiting places in a way that
+would appeal the evangelicals. F24 suggested he is planning a 2024
+run. He can get the one-time Trump voters and religious right.
 
 ---
 
-Warren endorser
+Crafty little guy! 🦉 🦉 🦉 🦉 
 
-"Jaime Harrison Is Likely to Be the Next DNC Chair"
-
----
-
-<iframe width="340"  src="https://www.youtube.com/embed/DRR4uBb8Am4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">They found a small owl inside of this year’s Rockefeller Christmas tree, he hitched a ride all the way to NYC and is now being treated and cared for at a wildlife rehab facility. <a href="https://t.co/f4PkBm6MGo">pic.twitter.com/f4PkBm6MGo</a></p>&mdash; Allison Esposito Medina (@techladyallison) <a href="https://twitter.com/techladyallison/status/1329133725779628033?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-She sounds like a closer.
-
-AOC: "But we also learned that progressive policies do not hurt
-candidates. Every single candidate that co-sponsored Medicare for All
-in a swing district kept their seat.  ... If you’re not door-knocking,
-if you’re not on the internet, if your main points of reliance are TV
-and mail, then you’re not running a campaign on all cylinders. I just
-don’t see how anyone could be making ideological claims when they
-didn’t run a full-fledged campaign"
-
-[Link](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> is happy to announce that the company has successfully completed an IPO and joined the Tel Aviv Stock Exchange. Read our press release for more details: <a href="https://t.co/1vYPofGNvP">https://t.co/1vYPofGNvP</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1329103373883367425?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-EU is funding this too? 
+Duke Heitger - Swingin' on the Famous Door \#music
 
-"Space@Sea (@SpaceAtSea) [is a] @EU_H2020 funded research project
-focusing on multi-use floating islands"
-
-[Link](https://mobile.twitter.com/SpaceAtSea)
+[Link](https://youtu.be/ahl9r1Ho6B0)
 
 ---
 
-"@Lecocq_dom
+"@AlecMacGillis
 
-World record drone flights. So a 6-liter tank of liquid \#hydrogen
-beats 16 liters of gasoline by nearly 20 percent"
-
-[Link](https://twitter.com/Lecocq_dom/status/1328597954089902081)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The hydrogen industry is being urged to work with the Australian federal government and its international partners on ambitious plans for an export boom in lower emissions technology.<br><br>Read more here: <a href="https://t.co/dn77XDRoP9">https://t.co/dn77XDRoP9</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/australia?src=hash&amp;ref_src=twsrc%5Etfw">#australia</a> <a href="https://twitter.com/hashtag/cleantech?src=hash&amp;ref_src=twsrc%5Etfw">#cleantech</a> <a href="https://t.co/oiKRD7YGVU">pic.twitter.com/oiKRD7YGVU</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1328910946044157952?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+What happens when people stop subscribing to print newspapers and
+everyone buys everything online: 'Corrugated cardboard makes up as
+much as a third of the paper entering recycling plants from homes in
+big metro areas, up from 5% a few years ago.'"
 
 ---
 
-"@katienotopoulos
+"@LoriShemek
 
-Twitter wants to be Instagram (fleets/stories)
-
-Instagram wants to be TikTok (Reels redesign)
-
-TikTok wants to be, uh, not banned
-
-Facebook wants to be Reddit (Groups/subs)
-
-Substack wants to be Medium (Medium wants to be whatever it wasn't 18 months ago)
-
-what else?"
+200 years ago, the average American ate only 2 lbs. of sugar a
+year. Today, the average American consumes 156 lbs of sugar in one
+year. This is equal to 3 pounds a week"
 
 ---
 
-(Updated my act)
+Mayavi.. say hello to daddy
 
 ---
 
-Me and Heather like to eat granola
+Ok... Too many `glutSolidSphere` calls slows things down.. \#opengl
 
 ---
 
-Kaleefornia 👍 
-
-"California is trying to jump-start the hydrogen economy"
-
-[Link](https://www.sanjuandailystar.com/post/california-is-trying-to-jump-start-the-hydrogen-economy)
+Russian media is busy with an idea that dipshits in Tiggerland became
+Britain's playthings in a Great Game Part II (albeit with less great
+actors such as UK). They are being used to bother / disturb the
+Russia, EU, Greece, even Cyprus for the fear that if things calmed
+down the UK bases there would be called into question. Interesting
+theory.
 
 ---
 
-"@PhilipMichaels
+"@davidalanlevine
 
-This Senate hearing looks like the tale of a marooned lighthouse
-keeper and the robot butler he built to stave off loneliness"
+This is an important message that bears repeating. Politicizing
+\#electionsecurity makes it harder to secure our elections and more
+difficult to counter foreign efforts to interfere in them"
 
-<img width="50%" src="https://pbs.twimg.com/media/EnEItIuUcAA7sfD?format=jpg&name=small"/>
+---
+
+He did base jumping too apparently, which is "an acronym for building,
+antenna, span and earth, the four categories of object from which
+people jump"
+
+---
+
+Fantastic wing design. 
+
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">[<a href="https://twitter.com/hashtag/Tristesse?src=hash&amp;ref_src=twsrc%5Etfw">#Tristesse</a>] 17 novembre 2020 • Disparition à 36 ans de Vince Reffet, l’« homme volant » français, dans un accident lors d’un entraînement - trois de ses vols les plus impressionnants © vidéo <a href="https://twitter.com/lobs?ref_src=twsrc%5Etfw">@lobs</a> <a href="https://twitter.com/hashtag/VincentReffet?src=hash&amp;ref_src=twsrc%5Etfw">#VincentReffet</a> <a href="https://twitter.com/hashtag/avgeek?src=hash&amp;ref_src=twsrc%5Etfw">#avgeek</a> <a href="https://t.co/EOJbVlqViC">pic.twitter.com/EOJbVlqViC</a></p>&mdash; Aéro-Club de France (@AeroclubFrance) <a href="https://twitter.com/AeroclubFrance/status/1328799683817459713?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+RIP
+
+Jetman' Vincent Reffet dies in training accident
+
+[Link](https://www.theguardian.com/world/2020/nov/17/dubai-jetman-vincent-reffet-dies-in-training-accident)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good advice. <a href="https://t.co/w849mScJhj">pic.twitter.com/w849mScJhj</a></p>&mdash; Darwin Award 🔞 (@AwardsDarwin) <a href="https://twitter.com/AwardsDarwin/status/1328959539933220864?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
