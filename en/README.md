@@ -75,9 +75,9 @@ difficult to counter foreign efforts to interfere in them"
 
 ---
 
-He did base jumping too apparently, which is "an acronym for building,
-antenna, span and earth, the four categories of object from which
-people jump"
+He did base jumping too apparently, which is "an acronym for
+[b]uilding, [a]ntenna, [s]pan and [e]arth, the four categories of
+object from which people jump"
 
 ---
 
