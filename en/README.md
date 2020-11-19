@@ -62,8 +62,8 @@ Russian media is busy with an idea that dipshits in Tiggerland became
 Britain's playthings in a Great Game Part II (albeit with less "great"
 actors such as UK). They are being used to bother / disturb the
 Russia, EU, Greece, even Cyprus for the fear that if things calmed
-down the UK bases there would be called into question. Interesting
-theory.
+down there the local UK bases would be called into
+question. Interesting theory.
 
 ---
 
