@@ -34,11 +34,13 @@ developed. Production is set to begin in 2022–2023"
 
 ---
 
-Prices fell afterwards, especially in telecom.
+Leadership. You gotta fill in the blanks, nam sayin? Do the deed. Dot
+the i's... Do the work ordinary citizens dont want to do (and cant
+effin do, lets be honest).
 
-You gotta fill in the blanks, nam sayin? Do the deed. Dot the
-i's... Do the work ordinary citizens dont want to do (and cant effin
-do, lets be honest).
+---
+
+Prices fell afterwards, especially in telecom.
 
 "2011 social protests and the fall of holding group tycoons. After mass
 demonstrations in 2011 that brought hundreds of thousands of Israelis
