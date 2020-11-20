@@ -87,13 +87,7 @@ customer push back.'
 
 The episode reflects how, after government deregulation, Wall Street
 has taken control of the airline industry and demanded oligopolistic
-conformity. Airlines were once seen as financial poison. The world’s
-premier investor, Warren Buffett, joked in a 2007 investor letter: 'If
-a farsighted capitalist had been present at Kitty Hawk, he would have
-done his successors a huge favor by shooting Orville [Wright] down.'
-By the end of 2018, Buffett held roughly 44 million shares in American
-Airlines, 65.5 million in Delta, 55 million in Southwest, and 22
-million in United, for a total investment of over $10 billion"
+conformity"
 
 ---
 
