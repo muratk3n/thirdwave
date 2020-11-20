@@ -104,9 +104,9 @@ with his Cornolio act.
 
 ---
 
-Decathlon sells "panchos" but these things are a "chique wilderness"
-thing, they dont work well. It's fine, I have my fucking 3 Eur PVC
-raincoat now, and am very happy with it.
+Decathlon sells "ponchos" but their prods are "chique wilderness",
+they dont work well. It's fine, I have my fucking 3 Eur PVC raincoat
+now, and am very happy with it.
 
 ---
 
