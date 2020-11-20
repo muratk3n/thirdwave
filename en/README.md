@@ -110,14 +110,16 @@ with his Cornolio act.
 
 ---
 
+Decathlon sells "panchos" but these things are a "chique wilderness"
+thing, they dont work well. It's fine, I have my fucking 3 Eur PVC
+raincoat now, and am very happy with it.
+
+---
+
 Bought a raincoat for 3 Eur from a store that sells items to workers
 in bulk. Literally a fucking PVC material, single piece, w some
-buttons on front, that's it. I could not find a fucking raincoat at
-the stores that are in shiny malls. Decathlon sells "panchos" the kind
-of thing that they wont you look cool in, but wont necessarily protect
-you from the rain. They are tying to create a "chique wilderness"
-thing, but it aint working. Doesnt matter, I have my fucking 3 Eur PVC
-raincoat now, and am very happy with it.
+buttons on front, that's it. I could not find a simple fucking
+raincoat at the stores that are in shiny malls. 
 
 ---
 
