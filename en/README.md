@@ -106,7 +106,7 @@ with his Cornolio act.
 
 "TP for your bunghole!"
 
-<img width="30%" src="https://pbs.twimg.com/media/EnLrcZHW8AQsfj1?format=jpg&name=small"/>
+<img width="40%" src="https://pbs.twimg.com/media/EnLrcZHW8AQsfj1?format=jpg&name=small"/>
 
 ---
 
