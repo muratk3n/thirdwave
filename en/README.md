@@ -2,7 +2,7 @@
 
 "@KlasfeldReports
 
-A Trump-appointed judge just dismissed what he called a "creative"
+A Trump-appointed judge just dismissed what he called a 'creative'
 lawsuit asking to block certification of the vote in Georgia, in what
 an Assistant AG called a bid to roll back the clock to Jim Crow"
 
