@@ -129,7 +129,7 @@ First blogged abt mayavi 12 years ago apparently.. Damn it's been a long time
 
 Who is doing this scene then? Mcanenenany?
 
-<img width="60%" src="https://media3.giphy.com/media/l0IylvEofbJsbJjd6/giphy.gif"/>
+<img width="70%" src="https://media3.giphy.com/media/l0IylvEofbJsbJjd6/giphy.gif"/>
 
 ---
 
@@ -137,7 +137,7 @@ From the movie My Cousin Gulliani
 
 via @Acyn
 
-<img width="50%" src="https://pbs.twimg.com/media/EnKkd83UYAAxlEV?format=jpg&name=small"/>
+<img width="70%" src="https://pbs.twimg.com/media/EnKkd83UYAAxlEV?format=jpg&name=small"/>
 
 ---
 
