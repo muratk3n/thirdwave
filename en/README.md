@@ -101,7 +101,7 @@ TP is Trump-Pence oddly enough
 
 ---
 
-Maybe after January Trump will run around DC randomly shocking people
+Maybe after January Trump will run around DC shocking random people
 with his Cornolio act.
 
 "TP for your bunghole!"
