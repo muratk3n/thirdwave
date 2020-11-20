@@ -82,8 +82,8 @@ Wi-Fi. Analysts parceled out the 'improvements' to the penny. Charging
 a baggage check fee would add 26¢ a share; charging for Wi-Fi would
 add another 9¢. Springing fees on customers 'might hurt JetBlue in the
 media,' wrote Cowen and Co. analyst Helane Becker in a research note,
-but “the revenue benefit to the company would probably trump any
-customer push back.”
+but 'the revenue benefit to the company would probably trump any
+customer push back.'
 
 The episode reflects how, after government deregulation, Wall Street
 has taken control of the airline industry and demanded oligopolistic
