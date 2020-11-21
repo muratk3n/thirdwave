@@ -45,7 +45,7 @@ commentators kept doing this all throughout the 90s. Toffler for one
 didn’t care much about it, nor did the care about the latest gizmo of
 the day. His worries were larger.
 
-Bight-shiny-object-ism is also used, very adaptly, by corporate
+Bright-shiny-object-ism is also used, very adaptly, by corporate
 Democrats, to deflect from econ issues along with 4G
 (Guns-Gays-God-Green). The single-party apparatus requires such
 smoke-and-mirrors in order to generate the presence of disagrement,
