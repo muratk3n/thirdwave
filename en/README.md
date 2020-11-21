@@ -20,12 +20,6 @@ turns out... Same for poultry.
 
 ---
 
-Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
-mültür yaratamaz. Türk diye bir şey yoktur. Bunların hepsi
-uydurmaca. Seni kandırıyorlar.
-
----
-
 WaPo: "Apple is lobbying against a bill aimed at stopping forced labor in
 China"
 
