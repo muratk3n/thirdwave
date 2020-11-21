@@ -15,9 +15,6 @@ reached fever pitch"
 
 ---
 
-"China to Australia: stop treating us as a threat or we won’t pick up the phone"
-
----
 
 Pino Shamlou - Connaction \#music
 
