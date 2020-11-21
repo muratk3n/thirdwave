@@ -71,7 +71,7 @@ tools.
 
 I leave you with the satirical image of the TV show The West Wing done
 by Seth Meyers, depicting the state of technobabbling dipshittery,
-sounding good but delivering nothing.
+looking good but delivering nothing.
 
 <img width="340" src="https://drive.google.com/uc?export=view&id=14Fl6uV19HHddajmfakTs2RfRXutp_2l4"/>
 
