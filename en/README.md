@@ -1,5 +1,14 @@
 # Tweets
 
+"'Normal Christmas out of the question,' says Trudeau as Toronto
+imposes lockdown
+
+Prime Minister Justin Trudeau said on Friday that Canada's hospital
+system could be overwhelmed by a possible quadrupling of new Covid-19
+cases by year end"
+
+---
+
 "The Labour Party’s Membership Is in Revolt Against Keir Starmer
 
 Last night, the grassroots campaign to reinstate Jeremy Corbyn’s whip
