@@ -60,3 +60,7 @@
 
 [Methyl Cyclohexane for H2 Storage](10/methyl-cyclohexane-h2.md)
 
+[Bedazzled by Tech](11/bedazzled-by-tech.md)
+
+[LOHC, Toloune](11/h2-toloune-lohc.md)
+
