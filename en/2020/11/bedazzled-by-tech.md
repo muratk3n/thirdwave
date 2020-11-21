@@ -47,12 +47,13 @@ the day. His worries were larger.
 
 Bight-shiny-object-ism is also used, very adaptly, by corporate
 Democrats, to deflect from econ issues along with 4G
-(Guns-Gays-God-Green). Sadly the single-party apparatus requires such
-smoke-and-mirrors tools, to generate the presence of disagrement,
-while aggreeing pretty much on everything. Dont have healtcare?
+(Guns-Gays-God-Green). The single-party apparatus requires suck
+smoke-and-mirrors, in order to generate the presence of disagrement,
+while aggreeing pretty much on everything. Don't have healtcare?  Well
 “dynamic price discovery, Moore’s law, synergy between hardware and
-software blah blah”. There. You have your answer [whoever asked
-looking blankly, not having received an answer]. 
+software blah blah”. There. You have your answer [the questioner
+looking blankly, not understanding a word, and still without
+healthcare].
 
 <a name='oilwater'/>
 
