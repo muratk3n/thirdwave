@@ -1,139 +1,112 @@
 # Tweets
 
-"@KlasfeldReports
+Propellerheads - Take California \#music
 
-A Trump-appointed judge just dismissed what he called a 'creative'
-lawsuit asking to block certification of the vote in Georgia, in what
-an Assistant AG called a bid to roll back the clock to Jim Crow"
+[Link](https://youtu.be/Dd8WjeK8riE)
 
 ---
 
-"@gabriel_zucman
+Pino Shamlou - Connaction \#music
 
-Tax evasion, tax avoidance, tax competition are not laws of nature,
-they are policy choices"
-
----
-
-WSJ: "BuzzFeed to Acquire HuffPost in Stock Deal With Verizon Media"
+[Link](https://youtu.be/GjtaKU7GpPU)
 
 ---
 
-"@DavidLarter
+[Old is Good](2020/11/bedazzled-by-tech.md#oilwater), especially when it
+comes to the half-baked state of our transition today.
 
-BREAKING: The Secretary of the Navy announces intention to create a
-new numbered fleet in the Indian Ocean, U.S. 1st Fleet"
-
----
-
-"@hazergroupltd
-
-Engineering and electronics brand, @BoschGlobal is about to start
-trials of a hydrogen-fed fuel-cell powertrain they have
-developed. Production is set to begin in 2022–2023"
+"But solutions like Medicare-for-All sound too old. Like last-century old".
 
 ---
 
-Leadership. You gotta fill in the blanks, nam sayin? Do the deed. Dot
-the i's... Do the work ordinary citizens dont want to do (and cant
-effin do, lets be honest).
+It is hilarious how much water fruit, vegs contain.. A whole bag of
+spinach, or cabbage fits into a single glass jar once its water is
+boiled away. Taking water out, also key for long term storage as it
+turns out... Same for poultry.
 
 ---
 
-Prices fell afterwards, especially in telecom.
 
-"2011 social protests and the fall of holding group tycoons. After mass
-demonstrations in 2011 that brought hundreds of thousands of Israelis
-onto the streets countrywide — it was estimated at the time that the
-ten biggest business groups controlled 41 percent of the market value
-of public companies — the Knesset passed the Law for Promotion of
-Competition and Reduction of Concentration in 2013"
-
-[Link](https://www.timesofisrael.com/monopoly-nation-how-a-handful-of-firms-control-prices-hold-israelis-to-ransom/)
+Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
+mültür yaratamaz. Türk diye bir şey yoktur. Bunların hepsi
+uydurmaca. Seni kandırıyorlar.
 
 ---
 
-"2011 Israeli social justice protests ... [let to r]evelations of
-funding from specific left-wing individuals and organizations like
-S. Daniel Abraham and the New Israel Fund. Maariv journalist Kalman
-Libeskind claimed that the spontaneous protests had actually been
-three months in the planning by Stan Greenberg and orchestrated by
-left-wing organizations and the National Left"
-
-[Link](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests)
+WaPo: "Apple is lobbying against a bill aimed at stopping forced labor in
+China"
 
 ---
 
-I thought more capitalism would get you better service, it was a
-"no-brainer".
-
-Dayen, *Monopolized*: "In 2014, Jet Blue decided it would zig while
-the industry zagged. CEO David Barger declared that his company would
-be the quality airline, with roomy, comfortable seating, free checked
-bags, and fast Wi-Fi. For Barger, the announcement aligned JetBlue
-with its founding principles: he had been there from the beginning,
-helping design the company’s 'service-oriented' culture. 'I think you
-can be profitable without gouging the traveling public,' Barger told a
-local paper.
-
-But stock analysts hated the idea. They beat up Barger for being
-'overly concerned' with customers rather than shareholder returns. And
-they eventually ran him out of town. Two months after Barger stepped
-down, JetBlue rolled back the legroom and raised fees on baggage and
-Wi-Fi. Analysts parceled out the 'improvements' to the penny. Charging
-a baggage check fee would add 26¢ a share; charging for Wi-Fi would
-add another 9¢. Springing fees on customers 'might hurt JetBlue in the
-media,' wrote Cowen and Co. analyst Helane Becker in a research note,
-but 'the revenue benefit to the company would probably trump any
-customer push back.'
-
-The episode reflects how, after government deregulation, Wall Street
-has taken control of the airline industry and demanded oligopolistic
-conformity"
+Brazil’s Recent Election Was a Blow to Jair Bolsonaro
 
 ---
 
-TP is Trump-Pence oddly enough
+Jacobin: Meatpacking Bosses in Iowa Allegedly Organized a Betting Pool
+on How Many Workers Would Get COVID
 
 ---
 
-Maybe after January Trump will run around DC shocking random people
-with his Cornolio act.
-
-"TP for your bunghole!"
-
-<img width="40%" src="https://pbs.twimg.com/media/EnLrcZHW8AQsfj1?format=jpg&name=small"/>
+A series of high-profile defaults involving state-owned enterprises in
+China — normally a safe pick for investors — have jolted the credit
+market and rattled investors.
 
 ---
 
-Decathlon sells "ponchos" but their prods are "chique wilderness",
-they dont work well. It's fine, I have my fucking 3 Eur PVC raincoat
-now, and am very happy with it.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">rich liberals need more centrist talking points for socially distanced brunch <a href="https://t.co/btgherNj3S">https://t.co/btgherNj3S</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1329861145721663488?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Bought a raincoat for 3 Eur from a store that sells items to workers
-in bulk. Literally a fucking PVC material, single piece, w some
-buttons on front, that's it. I could not find a simple fucking
-raincoat at the stores that are in shiny malls. 
+"@juliaoftoronto
+
+The airline industry says flyingAirplane is almost zero risk in #covid19. 
+
+The researchers studying the spread of the disease on airplanes say
+something different"
+
+[Link](https://twitter.com/juliaoftoronto/status/1327267117524193282)
 
 ---
 
-First blogged abt mayavi 12 years ago apparently.. Damn it's been a long time
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We welcome <a href="https://twitter.com/10DowningStreet?ref_src=twsrc%5Etfw">@10DowningStreet</a> plan for a <a href="https://twitter.com/hashtag/GreenIndustrialRevolution?src=hash&amp;ref_src=twsrc%5Etfw">#GreenIndustrialRevolution</a> and note its support for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and for aerospace to deliver net-zero emission aviation through <a href="https://twitter.com/hashtag/JetZero?src=hash&amp;ref_src=twsrc%5Etfw">#JetZero</a>. It&#39;s time to turn ambition into reality and make it happen together <a href="https://twitter.com/hashtag/ZEROe?src=hash&amp;ref_src=twsrc%5Etfw">#ZEROe</a> <a href="https://twitter.com/hashtag/SustainableAviation?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableAviation</a> <a href="https://t.co/xMVXnQ1Qz6">https://t.co/xMVXnQ1Qz6</a></p>&mdash; Guillaume Faury (@GuillaumeFaury) <a href="https://twitter.com/GuillaumeFaury/status/1329155089437761541?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Who is doing this scene then? Mcanenenany?
-
-<img width="70%" src="https://media3.giphy.com/media/l0IylvEofbJsbJjd6/giphy.gif"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sure, sex is great, but have you ever watched Donald lose Georgia TWICE?</p>&mdash; Randi Mayem Singer (@rmayemsinger) <a href="https://twitter.com/rmayemsinger/status/1329591416176091136?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-From the movie My Cousin Gulliani
+Obviously a country who has a say on the passage od rule of law mesure
+which could hurt it would not give ok to the said rule of measure. But
+I m sure the proposers knew that already #eu #poland
 
-via @Acyn
+---
 
-<img width="70%" src="https://pbs.twimg.com/media/EnKkd83UYAAxlEV?format=jpg&name=small"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇫🇮 <a href="https://twitter.com/hashtag/Finland?src=hash&amp;ref_src=twsrc%5Etfw">#Finland</a> has unveiled a national <a href="https://twitter.com/hashtag/roadmap?src=hash&amp;ref_src=twsrc%5Etfw">#roadmap</a> on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. 👏This one focuses on the prospects for low-carbon <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production, the use of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> for chemicals and 🟢 fuels, as well as storage 🚌.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/FinlandinEU?ref_src=twsrc%5Etfw">@FinlandinEU</a> <a href="https://twitter.com/HydrogenHub?ref_src=twsrc%5Etfw">@HydrogenHub</a> <br> <a href="https://t.co/pSlTjywRbU">https://t.co/pSlTjywRbU</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1329703564566880258?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Chris Joss - Highway 75
+
+[Link](https://youtu.be/zHJMT0J_Y10)
+
+---
+
+Ol' Dirty Bastard - Sussudio \#music
+
+[Link](https://youtu.be/Ig4VrZifa3g)
+
+---
+
+@Super70sSports
+
+My generation’s standards for entertainment were so much lower than our kids’:
+
+“Daaaaad, I’m bored.”
+
+“Well, here then, take this piece of shit and I’ll see you in nine hours.”
+
+<img width="30%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
 
 ---
 
