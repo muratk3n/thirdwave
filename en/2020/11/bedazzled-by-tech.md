@@ -59,11 +59,11 @@ healthcare].
 
 Third Wave tech can overwhelm Second Wave institutions. IMO to provide
 some sort of sanity before the ultimate shift, politicians need to cut
-off the extra noise, go the extra mile to do that, otherwise the
-central institutions will be bombarded. Remove even the smallest
-direct democracy practices, along with referandums, making the whole
-process to go through representatives. Remember the California recall
-election circus?
+off the extra noise, work extra hard to do that, otherwise the central
+institutions will be bombarded. Remove even the smallest direct
+democracy practices, along with referandums, making the whole process
+to go through representatives. Remember the California recall election
+circus?
 
 The waves are like oil and water. They cannot mix. Until the shift,
 industrial democracy needs to proceed within its limits and its proven
