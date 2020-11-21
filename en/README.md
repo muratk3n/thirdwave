@@ -9,9 +9,8 @@ cases by year end"
 
 ---
 
-"The Labour Party’s Membership Is in Revolt Against Keir Starmer
-
-Last night, the grassroots campaign to reinstate Jeremy Corbyn’s whip
+"The Labour Party’s Membership Is in Revolt Against Keir Starmer. Last
+night, the grassroots campaign to reinstate Jeremy Corbyn’s whip
 reached fever pitch"
 
 ---
