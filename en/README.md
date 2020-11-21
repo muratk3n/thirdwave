@@ -66,9 +66,8 @@ market and rattled investors"
 
 "@juliaoftoronto
 
-The airline industry says flyingAirplane is almost zero risk in #covid19. 
-
-The researchers studying the spread of the disease on airplanes say
+The airline industry says flying is almost zero risk in #covid19.. The
+researchers studying the spread of the disease on airplanes say
 something different"
 
 [Link](https://twitter.com/juliaoftoronto/status/1327267117524193282)
