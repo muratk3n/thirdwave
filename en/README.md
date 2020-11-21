@@ -82,7 +82,7 @@ something different"
 ---
 
 Obviously a country who has a say on the passage on a rule of law
-mesure which could hurt it, would not give ok to the said rule of
+measure which could hurt it, would not give ok to the said rule of
 measure. But I m sure the proposers knew that already #eu #poland
 
 ---
