@@ -4,7 +4,7 @@ This post started with @internetofshit commenting on an NYT article
 titled "The Tech That Might Help Cyclists and Cars Coexist Safely',
 the comment was "i promise you it's not more tech in cars that'll make
 things safer for cyclists. it's ... fewer cars". I realized there is
-an entire style of writing that can be summed up as as "technobabbling
+an entire style of writing that can be summed up as "technobabbling
 centrism", or "pastime of the globalist moderate cuck".
 
 Tech is nice, it is shiny; but slapping it onto everything, does not
