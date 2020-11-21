@@ -98,13 +98,13 @@ Ol' Dirty Bastard - Sussudio \#music
 
 ---
 
-@Super70sSports
+"@Super70sSports
 
 My generation’s standards for entertainment were so much lower than our kids’:
 
-“Daaaaad, I’m bored.”
+'Daaaaad, I’m bored.'
 
-“Well, here then, take this piece of shit and I’ll see you in nine hours.”
+'Well, here then, take this piece of shit and I’ll see you in nine hours.'"
 
 <img width="30%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
 
