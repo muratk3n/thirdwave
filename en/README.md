@@ -112,7 +112,7 @@ My generation’s standards for entertainment were so much lower than our kids�
 
 'Well, here then, take this piece of shit and I’ll see you in nine hours.'"
 
-<img width="30%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
+<img width="40%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
 
 ---
 
