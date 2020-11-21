@@ -6,8 +6,8 @@ Pino Shamlou - Connaction \#music
 
 ---
 
-[Old is Good](2020/11/bedazzled-by-tech.md#oilwater), especially when
-during the half-baked state of our transition today.
+[Old is Good](2020/11/bedazzled-by-tech.md#oilwater), given during the
+the half-baked state of our transition today.
 
 "But solutions like Medicare-for-All sound too old. Like last-century old".
 
