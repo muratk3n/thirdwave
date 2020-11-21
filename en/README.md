@@ -21,11 +21,10 @@ comes to the half-baked state of our transition today.
 
 It is hilarious how much water fruit, vegs contain.. A whole bag of
 spinach, or cabbage fits into a single glass jar once its water is
-boiled away. Taking water out, also key for long term storage as it
+boiled away. Taking water out is also key for long term storage as it
 turns out... Same for poultry.
 
 ---
-
 
 Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
 mültür yaratamaz. Türk diye bir şey yoktur. Bunların hepsi
@@ -38,18 +37,18 @@ China"
 
 ---
 
-Brazil’s Recent Election Was a Blow to Jair Bolsonaro
+"Brazil’s Recent Election Was a Blow to Jair Bolsonaro"
 
 ---
 
-Jacobin: Meatpacking Bosses in Iowa Allegedly Organized a Betting Pool
-on How Many Workers Would Get COVID
+Jacobin: "Meatpacking Bosses in Iowa Allegedly Organized a Betting Pool
+on How Many Workers Would Get COVID"
 
 ---
 
-A series of high-profile defaults involving state-owned enterprises in
+"A series of high-profile defaults involving state-owned enterprises in
 China — normally a safe pick for investors — have jolted the credit
-market and rattled investors.
+market and rattled investors"
 
 ---
 
