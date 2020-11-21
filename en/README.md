@@ -1,11 +1,5 @@
 # Tweets
 
-Propellerheads - Take California \#music
-
-[Link](https://youtu.be/Dd8WjeK8riE)
-
----
-
 Pino Shamlou - Connaction \#music
 
 [Link](https://youtu.be/GjtaKU7GpPU)
