@@ -11,10 +11,11 @@ Tech is nice, it is shiny; but slapping it onto everything, does not
 always work. In its extreme, the solutionist turns into a person with
 a hammer, eveything looks like a nail. Surely this slant of worldview
 had a certain pull on Dems, as with everyone else, first due to its
-shiny effect, but also from another direction.. Politics, as a job, is
-mainly knowledge work. It deals with information, decision, having to
-adjust to an existing canon (the law).. All that cld pull them towards
-financiers, Silicon Valley honchos, etc.
+shiny effect, but also from another direction, on its
+politicians.. Politics, as a job, is mainly knowledge work. It deals
+with information, decision, having to adjust to an existing canon (the
+law).. All that cld pull them towards financiers, Silicon Valley
+honchos, etc.
 
 Technical knowledge is good of course, we want technically aware
 lawmakers, like LBJ was in his heyday (the Apollo Moon program was his
