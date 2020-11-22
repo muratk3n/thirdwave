@@ -140,6 +140,8 @@
 
 [Ethereum](06/ethereum.md)
 
+[The Next 100 Years, Friedman](06/friedman-100-years.md)
+
 [Kaleefornia](06/kaleefornia.md)
 
 [#climate](06/paris.md)
@@ -169,6 +171,8 @@
 [Q&A - 17/7](07/q-177.md)
 
 [Q&A - 4/7](07/q-47.md)
+
+[The Next Decade, Friedman](07/the-next-decade-friedman.md)
 
 [Both Sides](08/both-sides.md)
 
