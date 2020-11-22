@@ -23,7 +23,7 @@ Eurasian hegemony, the United States focused on the emergence of
 secondary, regional hegemons who might develop enough regional
 security to allow them to begin probing out to sea. The United States
 therefore worked to create a continually shifting series of alliances
-designed to tie down any potential regional hegemon.
+designed to tie down any potential regional hegemon. ...
 
 Cycles
 

@@ -9,7 +9,7 @@ peninsula—is the same as U.S. interest everywhere: for no single power
 or coalition to dominate. The unification of Russia and Europe would
 create a force whose population, technological and industrial
 capability, and natural resources would at the very least equal
-America’s, and in all likelihood outstrip them.
+America’s, and in all likelihood outstrip them. ...
 
 Germany
 
@@ -40,7 +40,7 @@ a lightning attack. The goal in both cases was to defeat France
 quickly, then deal with Russia. In 1914, the Germans failed to defeat
 France quickly, the troops dug in, and the conflict became a
 protracted war. The Germans found themselves fighting France, Britain,
-and Russia simultaneously in both the east and the west.
+and Russia simultaneously in both the east and the west. ...
 
 Poland
 
