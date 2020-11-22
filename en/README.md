@@ -1,114 +1,96 @@
 # Tweets
 
-"'Normal Christmas out of the question,' says Trudeau as Toronto
-imposes lockdown
+"@AliNouriPhD
 
-Prime Minister Justin Trudeau said on Friday that Canada's hospital
-system could be overwhelmed by a possible quadrupling of new Covid-19
-cases by year end"
-
----
-
-"The Labour Party’s Membership Is in Revolt Against Keir Starmer. Last
-night, the grassroots campaign to reinstate Jeremy Corbyn’s whip
-reached fever pitch"
+The longer we take to extinguish this virus, the more opportunities we
+give it to mutate, to evade our immune system, and possibly to even
+evade a vaccine"
 
 ---
 
-
-Pino Shamlou - Connaction \#music
-
-[Link](https://youtu.be/GjtaKU7GpPU)
-
----
-
-[Old is Good](2020/11/bedazzled-by-tech.md#oilwater), given the
-half-baked state of our transition today.
-
-"But solutions like Medicare-for-All sound too old. Like last-century old".
-
----
-
-It is hilarious how much water fruit, vegs contain.. A whole bag of
-spinach, or cabbage fits into a single glass jar once its water is
-boiled away. Taking water out is also key for long term storage as it
-turns out... Same for poultry.
+Rapaport, *The Art of Molecular Dynamics Simulation*: "Modeling of
+matter at the microscopic level is based on a comprehensive
+description of the constituent particles. Although such a description
+must in principle be based on quantum mechanics, MD generally adopts a
+classical point of view, typically representing atoms or molecules as
+point masses interacting through forces that depend on the separation
+of these objects. More complex applications are likely to require
+extended molecular structures, in which case the forces will also
+depend on relative orientation. The quantum picture of interactions
+arising from overlapping electron clouds has been transformed into a
+system of masses coupled by exotic ‘springs’. The justification for
+this antithesis of quantum mechanics is that not only does it work,
+but it appears to work surprisingly well; on the other hand, the
+rigorous quantum mechanical description is still hard pressed in
+dealing with even the smallest systems"
 
 ---
 
-WaPo: "Apple is lobbying against a bill aimed at stopping forced labor in
-China"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Working with old friends in new ways to ensure our strategic interests are best served in the region. 👏🏻 <br>As four major regional democracies we share a vision for a secure and stable Indo-Pacific. <a href="https://twitter.com/hashtag/ExerciseMALABAR?src=hash&amp;ref_src=twsrc%5Etfw">#ExerciseMALABAR</a> turns this into meaningful and tangible action. 🇦🇺 🇮🇳 🇺🇸 🇯🇵 <a href="https://t.co/0GKVhLEPEQ">pic.twitter.com/0GKVhLEPEQ</a></p>&mdash; Linda Reynolds (@lindareynoldswa) <a href="https://twitter.com/lindareynoldswa/status/1330374916986851330?ref_src=twsrc%5Etfw">November 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Brazil’s Recent Election Was a Blow to Jair Bolsonaro"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">During <a href="https://twitter.com/hashtag/ExerciseMalabar?src=hash&amp;ref_src=twsrc%5Etfw">#ExerciseMalabar</a> the <a href="https://twitter.com/Australian_Navy?ref_src=twsrc%5Etfw">@Australian_Navy</a>, <a href="https://twitter.com/USNavy?ref_src=twsrc%5Etfw">@USNavy</a>, <a href="https://twitter.com/jmsdf_pao_eng?ref_src=twsrc%5Etfw">@jmsdf_pao_eng</a> and <a href="https://twitter.com/indiannavy?ref_src=twsrc%5Etfw">@indiannavy</a> conducted a range of high-end training, including air defence and anti-submarine exercises, aviation, communications and at-sea replenishment between ships.<br><br>🎥: <a href="https://t.co/cwzS6gunqL">https://t.co/cwzS6gunqL</a> <a href="https://t.co/XptDqvoYgI">pic.twitter.com/XptDqvoYgI</a></p>&mdash; VADM David Johnston (@VCDF_Australia) <a href="https://twitter.com/VCDF_Australia/status/1329605412224708608?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Jacobin: "Meatpacking Bosses in Iowa Allegedly Organized a Betting Pool
-on How Many Workers Would Get COVID"
+What did I ask the honcho earlier? It was abt a particular style of
+molecular dynamics computation. There is always approximation
+involved, but there are many places to do that. For pairwise
+interactions, fast access to neighborhood is needed, but is it enough
+to get most neighbors? Well for this particular method, you have to
+get __all__ neighbors. So says honcho. It will be followed.
 
 ---
 
-"A series of high-profile defaults involving state-owned enterprises in
-China — normally a safe pick for investors — have jolted the credit
-market and rattled investors"
+I meant filtering on their end, obviously. Dont censor. Self-filtering
+will take discipline... relying on existing media, a few big papers. I
+dont think following some random dude on the net is beneficial
+frankly, and that includes me. Trump both used and consumed socnet
+vociferously, but in the end, was it a net benefit to him and his
+presidency?
+
+"How should politicians cut off / filter extra noise coming to them
+through new tech tools"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">rich liberals need more centrist talking points for socially distanced brunch <a href="https://t.co/btgherNj3S">https://t.co/btgherNj3S</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1329861145721663488?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+WTF? I had a question in my mind, at that moment received a follow,
+the follower (a company) had a recent tweet which had the exact answer
+I was looking for. 😶 Spooky.
 
 ---
 
-"@juliaoftoronto
-
-The airline industry says flying is almost zero risk in #covid19.. The
-researchers studying the spread of the disease on airplanes say
-something different"
-
-[Link](https://twitter.com/juliaoftoronto/status/1327267117524193282)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">14 MILLION NOT GOING TO PAY RENT <a href="https://t.co/JiQwa1a8e0">pic.twitter.com/JiQwa1a8e0</a></p>&mdash; Win Smart, CFA (@WinfieldSmart) <a href="https://twitter.com/WinfieldSmart/status/1329746001066864647?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We welcome <a href="https://twitter.com/10DowningStreet?ref_src=twsrc%5Etfw">@10DowningStreet</a> plan for a <a href="https://twitter.com/hashtag/GreenIndustrialRevolution?src=hash&amp;ref_src=twsrc%5Etfw">#GreenIndustrialRevolution</a> and note its support for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and for aerospace to deliver net-zero emission aviation through <a href="https://twitter.com/hashtag/JetZero?src=hash&amp;ref_src=twsrc%5Etfw">#JetZero</a>. It&#39;s time to turn ambition into reality and make it happen together <a href="https://twitter.com/hashtag/ZEROe?src=hash&amp;ref_src=twsrc%5Etfw">#ZEROe</a> <a href="https://twitter.com/hashtag/SustainableAviation?src=hash&amp;ref_src=twsrc%5Etfw">#SustainableAviation</a> <a href="https://t.co/xMVXnQ1Qz6">https://t.co/xMVXnQ1Qz6</a></p>&mdash; Guillaume Faury (@GuillaumeFaury) <a href="https://twitter.com/GuillaumeFaury/status/1329155089437761541?ref_src=twsrc%5Etfw">November 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+AMF = Adios M.. F..ka
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sure, sex is great, but have you ever watched Donald lose Georgia TWICE?</p>&mdash; Randi Mayem Singer (@rmayemsinger) <a href="https://twitter.com/rmayemsinger/status/1329591416176091136?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Just heard "he's gone AMF". 
 
 ---
 
-Obviously a country who has a say on the passage on a rule of law
-measure which could hurt it, would not give ok to the said rule of
-measure. But I m sure the proposers knew that already #eu #poland
+"Russia has banned entry to 25 British citizens in retaliation for
+similar measures by Britain, Russia’s foreign ministry said on
+Saturday, without providing their names"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇫🇮 <a href="https://twitter.com/hashtag/Finland?src=hash&amp;ref_src=twsrc%5Etfw">#Finland</a> has unveiled a national <a href="https://twitter.com/hashtag/roadmap?src=hash&amp;ref_src=twsrc%5Etfw">#roadmap</a> on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. 👏This one focuses on the prospects for low-carbon <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production, the use of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> for chemicals and 🟢 fuels, as well as storage 🚌.<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/FinlandinEU?ref_src=twsrc%5Etfw">@FinlandinEU</a> <a href="https://twitter.com/HydrogenHub?ref_src=twsrc%5Etfw">@HydrogenHub</a> <br> <a href="https://t.co/pSlTjywRbU">https://t.co/pSlTjywRbU</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1329703564566880258?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the &quot;OJ in the Bronco&quot; stage of <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a>&#39;s presidency.</p>&mdash; George Conway (@gtconway3d) <a href="https://twitter.com/gtconway3d/status/1330186291137404932?ref_src=twsrc%5Etfw">November 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Chris Joss - Highway 75
-
-[Link](https://youtu.be/zHJMT0J_Y10)
+"Twitter to hand over @POTUS account to Biden on January 20"
 
 ---
 
-Ol' Dirty Bastard - Sussudio \#music
+Against EU-RU alliance, same as Trump. See [here](2017/07/the-next-decade-friedman.md#eurasia)
+and [here](2017/06/friedman-100-years.md#navies).
 
-[Link](https://youtu.be/Ig4VrZifa3g)
-
----
-
-"@Super70sSports
-
-My generation’s standards for entertainment were so much lower than our kids’:
-
-'Daaaaad, I’m bored.'
-
-'Well, here then, take this piece of shit and I’ll see you in nine hours.'"
-
-<img width="40%" src="https://pbs.twimg.com/media/EnOTG5uXcAApRjP?format=jpg&name=small"/>
+"Joe Biden opposes Russian-German Nord Stream 2 pipeline"
 
 ---
 
