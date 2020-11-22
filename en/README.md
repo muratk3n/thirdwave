@@ -50,7 +50,7 @@ But by all means *sell* through the new tools. One-sided. \#ABC
 I meant filtering on their end, obviously. Dont censor. Self-filtering
 will do. It will take discipline... relying on existing media, a few
 big papers. I dont think following some random dude on the net is
-beneficial frankly, and that includes me. Trump both used and consumed
+beneficial frankly (that includes me). Trump both used and consumed
 socnet vociferously, but in the end, was it a net benefit to him and
 his presidency?
 
