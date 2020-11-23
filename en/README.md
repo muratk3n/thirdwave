@@ -35,7 +35,7 @@ all week"
 
 ---
 
-Patriarchy didnt start with religion. It started with
+Patriarchy didnt start with religion. It started with organized
 [agriculture](2017/10/foragers-farmers-morris.md#patriarchy).  And
 agriculture started around the Medi. Ground zero. Root of all ills.
 
