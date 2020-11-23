@@ -108,6 +108,8 @@ if we are to understand and help man develop his own wisdom in a way
 that will lead to life of such quality as to make living a desirable
 and fulfilling experience.' ...
 
+<a name='vacation'/>
+
 'Life before hunter-gatherers was solitary, poor, nasty, brutish, and
 short'. It turns out none of those things are true. Hunter-gatherers
 worked 20 hours a week ... in some very harsh environment [even]

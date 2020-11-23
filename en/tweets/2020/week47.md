@@ -22,7 +22,7 @@ Pino Shamlou - Connaction \#music
 
 ---
 
-[Old is Good](2020/11/bedazzled-by-tech.md#oilwater), given the
+[Old is Good](../../2020/11/bedazzled-by-tech.md#oilwater), given the
 half-baked state of our transition today.
 
 "But solutions like Medicare-for-All sound too old. Like last-century old".
@@ -481,7 +481,7 @@ inequality since then'"
 
 ---
 
-$R$ is increasing for US, and it was never below 1. Code [here](2020/02/corona.md#Rt).
+$R$ is increasing for US, and it was never below 1. Code [here](../../2020/02/corona.md#Rt).
 
 <img width="60%" src="https://pbs.twimg.com/media/Em7Q3LfW8AArZyO?format=png&name=small"/>
 

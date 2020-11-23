@@ -56,7 +56,7 @@ robots faster, cheaper and with more reliability"
 ---
 
 Yeah, I have a feeling carbon storage should be in a rock; not
-requiring special storage, and wont melt away easily. Basalt sounds
+requiring special equipment, and wont melt away easily. Basalt sounds
 good.
 
 "Basalts Turn Carbon into Stone for Permanent Storage ... Scientists
