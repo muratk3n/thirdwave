@@ -76,8 +76,8 @@ somewhere. I have no need to fit into a particular news cycle, and
 that can be a problem for the official who needs to roll with that
 cycle. There could be a nuke crisis somewhere, but the lone writer
 could be talking about weirdest things, venting on between bouts of
-beating off, jumping up and down... Gov needs steady, and they wont be
-served by the unstructured chaos that is the net publishing.
+screaming away, jumping up and down... Gov needs steady, and they wont
+be served by the unstructured chaos that is the net publishing.
 
 That's not to say publications with net origin will not become the net
 WaPo or NYT. But when they do they should / would have an
