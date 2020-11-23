@@ -71,7 +71,7 @@ methods can take thousands of years to do the same"
 
 ---
 
-Why should gov official read posts like mine? Bcz there is no
+Why should gov official not read posts like mine? Bcz there is no
 institutional culture around what we do, just a guy typing away
 somewhere. I have no need to fit into a particular news cycle, and
 that can be a problem for the official who needs to roll with that
