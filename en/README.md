@@ -5,8 +5,8 @@
 ---
 
 How do we know there has never been a civilization as advanced as ours
-before? I know ground shifts, soil moving can cover a lot of
-stuff. But they would have left something detectable by us, like our
+before? Sure, ground shifts, soil moves can cover a lot of stuff. But
+earlier civ would have left something detectable by us, like our
 Arctic Storage. I am sure that thing has some kind of radio
 transmission to advertise itself, and something like that, or other
 transmissions, would have been picked up.
