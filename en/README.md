@@ -88,12 +88,12 @@ comes to their mind.
 
 ---
 
-90s vs 00s/10s scifi differences? During the 90s the enemy was "out
+90/00s vs 10s scifi differences? During the 90s the enemy was "out
 there", out in space, through the gate, in a different galaxy, or no
 evil but just natural phenomenon, like a meteor or the Sun itself --
 *Stargate*, *Trek*, *Independence Day*, *Sunshine*.
 
-00s/10s scifi is more desparate, evil is at home, people are being
+10s scifi is more desparate, evil is at home, people are being
 exploited by other people, and the victim / heroes are increasingly
 extremely young, just kids mostly. *The Maze*, *Hunger Games*, or the
 Deviant series.. *Ender's Game* has the enemy as alien, but the wars
