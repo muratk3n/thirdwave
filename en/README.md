@@ -107,8 +107,7 @@ a reason.
 ---
 
 Michelle F looks much better in BSG. In TNG she was freaky thin. Now
-got little more mature, her ass filled out, looks primo... I totally
-dug the new look.
+got little more mature, her ass filled out, looks primo... I dig it.
 
 ---
 
