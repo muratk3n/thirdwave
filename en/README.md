@@ -96,7 +96,9 @@ evil but just natural phenomenon, like a meteor or the Sun itself --
 exploited by other people, and the victim / heroes are increasingly
 extremely young, just kids mostly. *The Maze*, *Hunger Games*, or the
 Deviant series.. *Ender's Game* has the enemy as alien, but the wars
-have gone to child level, which is sad.
+have gone to child level, which is sad. Surely the book predates the
+aughts but they must have picked that book to base a movie off of for
+a reason.
 
 ---
 
