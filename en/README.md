@@ -8,8 +8,7 @@ How do we know there has never been a civilization as advanced as ours
 before? Sure, ground shifts, soil moves can cover a lot of stuff. But
 earlier civ would have left something detectable by us, like our
 Arctic Storage. I am sure that thing has some kind of radio
-transmission to advertise itself, and something like that, or other
-transmissions, would have been picked up.
+transmission to advertise itself, which would have been picked up by now.
 
 ---
 
