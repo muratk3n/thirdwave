@@ -24,6 +24,8 @@ festivals and feasts to delight the senses, and gossipy, nosy
 neighbors in solid houses with plastered floors and waterproof roofs
 [..]
 
+<a name='patriarchy'/>
+
 By imposing such mental structures on their world, Hilly Flankers
 were, we might say, domesticating themselves. They even remade what
 love meant. [..]
