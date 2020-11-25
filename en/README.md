@@ -9,17 +9,6 @@ Democracy worked well.
 
 ---
 
-"As the the Biden transition picks up steam, what started as early
-sighs of relief with Klain’s appointment has ballooned into a
-pronounced endorsement of Biden’s initial selections to lead some of
-the highest-profile positions in government, with progressives giving
-the president-elect a hat tip on the delicate balancing act of
-appealing to both wings early on"
-
-[Link](https://www.thedailybeast.com/progressives-cant-find-anyone-in-bidens-cabinet-to-be-mad-aboutyet)
-
----
-
 "Deutsche Bahn, Siemens launch hydrogen trains trial"
 
 [Link](https://www.dw.com/en/deutsche-bahn-siemens-launch-hydrogen-trains-trial/a-55716107?maca=en-rss-en-all-1573-rdf)
@@ -89,6 +78,17 @@ longest span of our lives. Good
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Perfectly optimal system where you can get $100 billion wealthier in a few months during a pandemic <a href="https://t.co/kcImewx0MN">pic.twitter.com/kcImewx0MN</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1331403968296062976?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"As the the Biden transition picks up steam, what started as early
+sighs of relief with Klain’s appointment has ballooned into a
+pronounced endorsement of Biden’s initial selections to lead some of
+the highest-profile positions in government, with progressives giving
+the president-elect a hat tip on the delicate balancing act of
+appealing to both wings early on"
+
+[Link](https://www.thedailybeast.com/progressives-cant-find-anyone-in-bidens-cabinet-to-be-mad-aboutyet)
 
 ---
 
