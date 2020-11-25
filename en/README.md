@@ -39,11 +39,6 @@ wisdom here.. Let's ask them everything 🤨
 
 ---
 
-Enjoy ripping out visual parts out of a code, leaving the skeletal
-essence.
-
----
-
 "@samstein
 
 One thing that I will legitimately appreciate during the Biden years:
