@@ -34,7 +34,7 @@ Wrote a `Makefile`. Been a while.
 
 ---
 
-The "public" was for the Iraq War, 2003. There's clearly a wealth of
+The "public" was for the Iraq War, 2003? There's clearly a wealth of
 wisdom here.. Let's ask them everything 🤨
 
 ---
