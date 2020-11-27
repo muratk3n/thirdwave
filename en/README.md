@@ -35,9 +35,9 @@ regulate \# of ads on TV no? Time to apply same logic here?
 
 ---
 
-Space scifi is basically naval submarine scifi. The ships are
-floating, can't just "step outside", etc. Living space size inside the
-ships are different of course.
+Space scifi is kind of naval submarine scifi. The ships are floating,
+can't just "step outside", etc. Living space size inside the ships are
+different of course.
 
 ---
 
@@ -79,6 +79,8 @@ subsidies and new tax breaks"
 
 "@bartbiebuyck ... Industry commits to put 100.000 Hydrogen fuel cell trucks on the
 road and build more than 1000 HRS by 2030!"
+
+[Link](https://mobile.twitter.com/bartbiebuyck/status/1330918994128367624)
 
 ---
 
