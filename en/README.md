@@ -35,9 +35,9 @@ regulate \# of ads on TV no? Time to apply same logic here?
 
 ---
 
-Space scifi is basically naval submarine scifi. U are floating, can't
-just "step outside", etc. Living space size inside the ships are
-different of course. 
+Space scifi is basically naval submarine scifi. The ships are
+floating, can't just "step outside", etc. Living space size inside the
+ships are different of course.
 
 ---
 
