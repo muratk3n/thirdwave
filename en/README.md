@@ -45,7 +45,7 @@ different of course.
 
 ---
 
-<img width="50%" src="https://pbs.twimg.com/media/EnstKZ_VEAMZ34y?format=jpg&name=small"/>
+<img width="70%" src="https://pbs.twimg.com/media/EnstKZ_VEAMZ34y?format=jpg&name=small"/>
 
 ---
 
