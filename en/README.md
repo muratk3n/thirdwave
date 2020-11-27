@@ -1,32 +1,20 @@
 # Tweets
 
-I knew there was something behind this interest, other than the art
-piece itself. There is nothing special about the piece really. 
+"South Korea's POSCO plans to eventually halt carbon emissions by
+switching to a hydrogen-based steelmaking process from 2021, company
+officials said on Friday.  POSCO, the world's fourth-largest
+steelmaker, accounts for 10 percent of the country's total carbon
+emissions"
 
-"Before its theft [in 1911], the 'Mona Lisa' was not widely known
-outside the art world. Leonardo da Vinci painted it in 1507, but it
-wasn't until the 1860s that critics began to hail it as a masterwork
-of Renaissance painting. And that judgment didn't filter outside a
-thin slice of French intelligentsia. ...
+[Link](https://www.reuters.com/article/posco-carbon-idUSSEO205120091127)
 
-After the Louvre announced the theft, newspapers all over the world
-ran headlines about the missing masterpiece.
+---
 
-'60 Detectives Seek Stolen 'Mona Lisa,' French Public Indignant,' the
-New York Times declared. The heist had become something of a national
-scandal.
+"S Korea hankers for Aussie hydrogen... Energy-hungry South Korea could
+not be more confident about Australia’s future as a giant exporter of
+green [H2]"
 
-'In France, there was a great deal of concern that American
-millionaires were buying up the legacy of France — the best
-paintings,' Dorothy Hoobler says. At one point, American tycoon and
-art lover J.P. Morgan was suspected of commissioning the theft. Pablo
-Picasso was also considered a suspect, and was questioned.
-
-And as tensions were escalating between France and Germany ahead of
-World War I, 'there were people who thought the Kaiser was behind it,'
-Hoobler says"
-
-[Link](https://www.npr.org/2011/07/30/138800110/the-theft-that-made-the-mona-lisa-a-masterpiece)
+[Link](https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/mining-energy/s-korea-hankers-for-aussie-hydrogen/news-story/390e7ae7f23bcfe1b4cb8c767ee626c8)
 
 ---
 
@@ -50,24 +38,6 @@ regulate \# of ads on TV no? Time to apply same logic here?
 Space scifi is basically naval submarine scifi. U are floating, can't
 just "step outside", etc. Living space size inside the ships are
 different of course. 
-
----
-
-"South Korea's POSCO plans to eventually halt carbon emissions by
-switching to a hydrogen-based steelmaking process from 2021, company
-officials said on Friday.  POSCO, the world's fourth-largest
-steelmaker, accounts for 10 percent of the country's total carbon
-emissions"
-
-[Link](https://www.reuters.com/article/posco-carbon-idUSSEO205120091127)
-
----
-
-"S Korea hankers for Aussie hydrogen... Energy-hungry South Korea could
-not be more confident about Australia’s future as a giant exporter of
-green [H2]"
-
-[Link](https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/mining-energy/s-korea-hankers-for-aussie-hydrogen/news-story/390e7ae7f23bcfe1b4cb8c767ee626c8)
 
 ---
 
@@ -109,6 +79,36 @@ subsidies and new tax breaks"
 
 "@bartbiebuyck ... Industry commits to put 100.000 Hydrogen fuel cell trucks on the
 road and build more than 1000 HRS by 2030!"
+
+---
+
+I knew there was something behind this interest, other than the art
+piece itself. There is nothing special about the piece really. 
+
+"Before its theft [in 1911], the 'Mona Lisa' was not widely known
+outside the art world. Leonardo da Vinci painted it in 1507, but it
+wasn't until the 1860s that critics began to hail it as a masterwork
+of Renaissance painting. And that judgment didn't filter outside a
+thin slice of French intelligentsia. ...
+
+After the Louvre announced the theft, newspapers all over the world
+ran headlines about the missing masterpiece.
+
+'60 Detectives Seek Stolen 'Mona Lisa,' French Public Indignant,' the
+New York Times declared. The heist had become something of a national
+scandal.
+
+'In France, there was a great deal of concern that American
+millionaires were buying up the legacy of France — the best
+paintings,' Dorothy Hoobler says. At one point, American tycoon and
+art lover J.P. Morgan was suspected of commissioning the theft. Pablo
+Picasso was also considered a suspect, and was questioned.
+
+And as tensions were escalating between France and Germany ahead of
+World War I, 'there were people who thought the Kaiser was behind it,'
+Hoobler says"
+
+[Link](https://www.npr.org/2011/07/30/138800110/the-theft-that-made-the-mona-lisa-a-masterpiece)
 
 ---
 
