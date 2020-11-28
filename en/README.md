@@ -69,6 +69,10 @@ cabbage (a very underrated veg).
 All natural, except perhaps jam, but that too is as natural as
 possible.
 
+Storage + mobility are key. Also w some gourmet effect. Stuff tastes
+good (onions, sauce preserved on meat, add water while heating, it's
+great).
+
 ---
 
 "@KFILE
