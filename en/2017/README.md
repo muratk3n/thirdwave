@@ -144,13 +144,9 @@
 
 [Kaleefornia](06/kaleefornia.md)
 
-[#climate](06/paris.md)
-
 [Q&A - 29/6](06/q-296.md)
 
 [Q&A - 30/6](06/q-306.md)
-
-[#TP](06/tp.md)
 
 [#uber](06/uber.md)
 

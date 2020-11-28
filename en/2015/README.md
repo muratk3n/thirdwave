@@ -92,6 +92,8 @@
 
 [#college](03/college.md)
 
+[Gallipoli, Russell Crowe](03/gallipoli.md)
+
 [#glacierwatch](03/glacierwatch.md)
 
 [#israel](03/israel.md)
@@ -111,8 +113,6 @@
 [Q&A - 30/3](03/q-303.md)
 
 [Q&A - 9/3](03/q-83.md)
-
-[The Broken Chain](03/the-broken-chain.md)
 
 [The Glass Cage: Automation and Us](03/the-glass-cage-automation-and-us.md)
 
