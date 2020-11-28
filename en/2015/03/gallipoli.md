@@ -15,9 +15,10 @@ the frack else would they be half way around the world near a country
 they had no quarrel with? Good thing some ppl started to challenge
 this nationalistic non-sense.
 
-33 Strategies of War, R. Greene
+Some more info on the battle itself from *33 Strategies of War*, by
+R. Greene.
 
-World War I began in August 1914, and by the end of that year, all
+"World War I began in August 1914, and by the end of that year, all
 along the Western Front, the British and French were caught in a
 deadly stalemate with the Germans. Meanwhile, though, on the Eastern
 Front, Germany was badly beating the Russians [getting beat up by
@@ -106,9 +107,7 @@ If your orders are vague and halfhearted, by the time they reach the
 field they will be meaningless. Let people work unsupervised [..] they
 will see in your orders what they want to see [..] Unless you adapt
 your leadership style to the weaknesses of the people in your group,
-you will almost certainly end up with a break in the chain of command.
-
---
+you will almost certainly end up with a break in the chain of command"
 
 The excerpt above has some interesting side conclusions: First is,
 even though Galipoli could not be won by the Allies, this did not
@@ -125,12 +124,12 @@ officier named Kemal giving him the hero status who successfully
 fought the British at Suvla. Kemal would later become the founder of
 Turkland.
 
-The Alllies' eventual win was a deterministic event. Germans chose
-wrong; they partnered up with Ottomans, a land based power, who could
-not complement Germany - another land based power. The ultimate good
-thing coming out WWI obviously is the eventual collapse of the Ottoman
-Empire which could not be stopped either, as it was several centuries
-in the making. It is immensely interesting also that the crap heritage
-of the "Holy" Roman Empire reaching the 20th century this way. It
-certainly died a slow painful death.
+Germans chose wrong; they partnered up with Ottomans, a land based
+power, who could not complement Germany - another land based
+power. The ultimate good thing coming out WWI obviously is the
+eventual collapse of the Ottoman Empire which could not be stopped
+either, as it was several centuries in the making. It is immensely
+interesting also that the crap heritage of the "Holy" Roman Empire
+reaching the 20th century this way. It certainly died a slow painful
+death.
 
