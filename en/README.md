@@ -33,11 +33,11 @@ forced to ration insulin in order to survive"
 ---
 
 Why so many Rep pols showed loyalty to Trump election claims? Bcz they
-knew claims wld go nowhere, and there are still bunch of his
-followers in their districts, so then the question is when the
-shitshow ends, what do you want those ppl remember you by? As the
-jagoff who knifed him, or sorta stood by, repeat some bogus shit along
-with many others, than "celebrated democracy" after it was all over.
+knew claims wld go nowhere, and there are still bunch of his followers
+in their districts, so then the question is when the shitshow ends,
+what do you want those ppl remember you by? As the jagoff who knifed
+him, or sorta stood by, repeated some bogus shit along with many
+others, than "celebrated democracy" after it was all over.
 
 ---
 
