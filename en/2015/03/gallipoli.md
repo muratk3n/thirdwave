@@ -128,8 +128,5 @@ Germans chose wrong; they partnered up with Ottomans, a land based
 power, who could not complement Germany - another land based
 power. The ultimate good thing coming out WWI obviously is the
 eventual collapse of the Ottoman Empire which could not be stopped
-either, as it was several centuries in the making. It is immensely
-interesting also that the crap heritage of the "Holy" Roman Empire
-reaching the 20th century this way. It certainly died a slow painful
-death.
+either, as it was several centuries in the making. 
 
