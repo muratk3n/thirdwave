@@ -47,7 +47,7 @@ with many others, than "celebrated democracy" after it was all over.
 
 I toyed with vitamin idea for fruit substitute, then I thought, how
 can you pull fruit's water and reduce it in size? Well that's
-jam. That too can be DIY btw, just like pre-cooking poultry.
+jam. That too can be DIY, just like pre-cooking poultry.
 
 ---
 
