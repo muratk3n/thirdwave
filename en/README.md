@@ -62,9 +62,9 @@ Testing new diet. Veg container, poultry cont, meal takes from each,
 cont holds 4 servings. Freeze storage, taken out as needed. Breakfast,
 fruit jam plus cheese (feta-like, cow-goat, high calcium).
 
-Poult can be turkey, red meat for poult (diced not minced), cooked w
-onions, all water boiled away. Same for veg, different kinds of
-cabbage (a very underrated veg).
+Poult can be turkey, red meat (diced not minced), cooked w onions, all
+water boiled away. Same for veg, different kinds of cabbage (a very
+underrated veg).
 
 All natural, except perhaps jam, but that too is as natural as
 possible.
