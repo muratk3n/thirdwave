@@ -57,7 +57,11 @@ Ok.. now redo the sequels \#starwars
 
 ---
 
-Rosario Dawson was great as Ahsoka #mandalorian
+And I just realized Katee Sackoff was in S02E03. Wonderful. \#mandalorian
+
+---
+
+Rosario Dawson was great as Ahsoka \#mandalorian
 
 ---
 
