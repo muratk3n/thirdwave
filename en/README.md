@@ -22,6 +22,17 @@ everything using the same method. No teachers required.
 
 ---
 
+For many years China, a non-democracy, had high level support in US
+policy circles, so CH becomes dollar-rich. Then US movies wanted a
+piece of that muneeee, but u have to go through the CH censors and
+appeal to a different crowd. Ergo movies get a bunch of artificially
+planted CH characters, in the *The Meg*, *Independence Day 2*, even
+some in *Avengers*. These actors are not there bcz they fit the
+storytelling, they are plants which pulls down the quality of your
+art. This is nearly as bad, possibly worse, than SJW art.
+
+---
+
 "India-Singapore-Thailand Complete Second Trilateral Maritime
 Exercises China's ... aggressive military posturing have provided
 India, Singapore and Thailand strategic rationale to combine their
@@ -65,17 +76,6 @@ Rosario Dawson was great as Ahsoka \#mandalorian
 
 Val Kilmer cannot be written off too easily.. For every *The Saint*,
 *Spartan* there is *Tombstone*. 
-
----
-
-For many years China, a non-democracy, had high level support in US
-policy circles, so CH becomes dollar-rich. Then US movies wanted a
-piece of that muneeee, but u have to go through the CH censors and
-appeal to a different crowd. Ergo movies get a bunch of artificially
-planted CH characters, in the *The Meg*, *Independence Day 2*, even
-some in *Avengers*. These actors are not there bcz they fit the
-storytelling, they are plants which pulls down the quality of your
-art. This is nearly as bad, possibly worse, than SJW art.
 
 ---
 
