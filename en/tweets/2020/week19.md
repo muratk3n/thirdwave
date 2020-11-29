@@ -655,12 +655,6 @@ failure"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What DOES this include? <br>Places like:<br>- clothing stores<br>- florists<br>- bookstores<br>- sporting goods stores<br><br>All with curbside pick-up.<br><br>What does this NOT include at this time?<br>Places like:<br>- Offices (can continue telework)<br>- Restaurants (seated dining)<br>- Shopping Malls</p>&mdash; Gavin Newsom (@GavinNewsom) <a href="https://twitter.com/GavinNewsom/status/1257392907826483202?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-4 22:42:55*
-
----
-
 "@maxberger
 
 Nancy Pelosi has $46 million in real estate property she can fall back

@@ -191,17 +191,6 @@ DIE motherfrackers
 
 ---
 
-"@GavinNewsom
-
-Wearing a mask is a sign of toughness. Of resolve. 
-
-A sign of someone who gives a damn. Who wants to solve a problem. Who
-takes responsibility.
-
-I think that’s a beautiful thing"
-
----
-
 The "people governance" part of populism is a crock, obviously. The
 sorta thing you'll hear from second rate demagogues of Middle
 East.. There is no such thing... As long as there is a concentrated,

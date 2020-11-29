@@ -211,12 +211,6 @@ FREEEDOOOOOM!
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> says California, Oregon and Washington have developed a framework for reopening from the coronavirus pandemic, not just as individual states, but as a region -- California&#39;s specific plan will be released tomorrow.</p>&mdash; Emily Hoeven💫 (@emily_hoeven) <a href="https://twitter.com/emily_hoeven/status/1249777564563804160?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-18 14:33:1*
-
----
-
 Daam. That celeb day was a big deal in RU, no? 
 
 "Putin Cancels Victory Day Parade as Coronavirus Crisis Worsens in Russia ..."

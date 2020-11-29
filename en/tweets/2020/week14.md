@@ -959,21 +959,6 @@ Bloom Energy is a BUY.
 
 ---
 
-That's a good move by GN. Want to get stuff done, go to fuel-cell
-guys. They are smart. __That's why they are into fuel-cells__.
-
-"@GavinNewsom
-
-LA received 170 broken ventilators from the national stockpile. Rather
-than complaining, we put them on a truck, drove them up overnight, and
-had @Bloom_Energy get to work fixing them"
-
-[Link](https://twitter.com/GavinNewsom/status/1244029584808402945)
-
-*2020-3-29 21:57:3*
-
----
-
 OooooOoooo putting the Bern to task are we? Well he could say
 [this](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK_UJ4Ju62DWoUuRVM2Yqq6_Y5QfCuexjfeBa6FpV3UYib2Xz_)
 

@@ -330,17 +330,6 @@ pandemic"
 
 ---
 
-
-"@GavinNewsom
-
-CA is flattening the curve, but the reality is \#COVID19 is not going
-away soon. Our re-opening must be gradual, guided by public health and
-science, and will be done in .. STAGES"
-
-*2020-4-29 21:38:11*
-
----
-
 "Walmart’s distribution centre in Gordonsville, Virginia ... operates a
 fleet of 273 hydrogen fuel cell forklifts"
 

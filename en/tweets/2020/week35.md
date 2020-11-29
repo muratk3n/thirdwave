@@ -301,17 +301,6 @@ manufacturers until they settle"
 
 ---
 
-Saz right now tests take 10 days and pretty much meaningless after
-such a long wait. 24-48 hr much better.
-
-"@GavinNewsom
-
-NEW: CA is DOUBLING our testing capacity and SIGNIFICANTLY bringing
-down wait times and cost. - Adding up to 150,000 tests per day -
-Guaranteeing 24-48 hour turnaround time"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re making waves by powering the largest <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> electrolyzer in the United States. What is electroylzer technology and how can it help solve one of the largest dilemmas in the renewable energy industry? Learn more: <a href="https://t.co/N5WgkMiV0z">https://t.co/N5WgkMiV0z</a> <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://t.co/SWuIYCAlgl">pic.twitter.com/SWuIYCAlgl</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1299033275906879489?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

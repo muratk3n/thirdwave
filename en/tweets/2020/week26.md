@@ -1060,12 +1060,6 @@ Maynard Keynes, 1919'
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: Californians are now REQUIRED to wear face coverings in public spaces.<br><br>Together -- we can slow the spread.<br><br>Do your part. Wear a mask.<br><br>LEARN MORE: <a href="https://t.co/xtXFwVeWc2">https://t.co/xtXFwVeWc2</a></p>&mdash; Gavin Newsom (@GavinNewsom) <a href="https://twitter.com/GavinNewsom/status/1273696999066353664?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
 "@syramadad
 
 I've responded to multiple epidemics & pandemics over the years from
