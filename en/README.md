@@ -78,7 +78,9 @@ art. This is nearly as bad, possibly worse, than SJW art.
 ---
 
 You need vitamins (from veg or fruit). Sailors on long treks would get
-gum disease from meat only diets.
+gum disease from meat only diets. All food storage, all cultures have
+a place for fruits for this reason. American Indian pemmican is
+buffola meat but has berries mixed in.
 
 "Cant you survive only on meat?"
 
