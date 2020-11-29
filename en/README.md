@@ -18,7 +18,7 @@ learn that way". And since microprocessor design is one of the hardest
 subjects to teach, if it can be taught like this, we can teach
 everything using the same method. No teachers required.
 
-(Except the ones recording the videos which are a select few)
+(Except the ones recording the videos -a select few-)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Blows my mind that MIT puts all this on the web for free<br><br>Know how to code and want to take a step down into the world of CPUs? How to design a basic <a href="https://twitter.com/hashtag/RISCV?src=hash&amp;ref_src=twsrc%5Etfw">#RISCV</a> core:<br><br>Slides: <a href="https://t.co/QC45ydsaZp">https://t.co/QC45ydsaZp</a><br><br>Lecture: <a href="https://t.co/af77bDShlu">https://t.co/af77bDShlu</a><br><br>Full course materials: <a href="https://t.co/NiVAfD5GbR">https://t.co/NiVAfD5GbR</a></p>&mdash; Chris Williams (@diodesign) <a href="https://twitter.com/diodesign/status/1332507524403056641?ref_src=twsrc%5Etfw">November 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
