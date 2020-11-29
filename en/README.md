@@ -77,6 +77,13 @@ art. This is nearly as bad, possibly worse, than SJW art.
 
 ---
 
+You need vitamins (from veg or fruit). Sailors on long treks would get
+gum disease from meat only diets.
+
+"Cant you survive only on meat?"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
