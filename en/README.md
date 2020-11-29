@@ -47,7 +47,7 @@ others, than "celebrated democracy" after it was all over.
 
 I toyed with vitamin idea for fruit substitute, then I thought, how
 can you pull fruit's water and reduce it in size? Well that's
-jam. That too can be DIY, just like pre-cooking poultry.
+jam. That too can be DIY, just like pre-cooking meat.
 
 ---
 
@@ -58,12 +58,12 @@ bay.
 
 ---
 
-Testing new diet. Veg container, poultry cont, meal takes from each,
-cont holds 4 servings. Freeze storage, taken out as needed. Breakfast,
+Testing new diet. Veg container, meat cont, meal takes from each, cont
+holds 4 servings. Freeze storage, taken out as needed. Breakfast,
 fruit jam plus cheese (feta-like, cow-goat, high calcium).
 
-Poult can be turkey, red meat (diced not minced), cooked w onions, all
-water boiled away. Same for veg, different kinds of cabbage (a very
+Meat can be turkey, red (diced not minced), cooked w onions, all water
+boiled away. Same for veg, different kinds of cabbage (a very
 underrated veg).
 
 All natural, except perhaps jam, but that too is as natural as
