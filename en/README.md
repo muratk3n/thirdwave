@@ -4,10 +4,8 @@
 
 Important - UAE & France will participate for the 1st time in the
 Multinational Military Exercise Medusa-10 alongside with Egypt, Cyprus
-& Greece
-
-The Exercise is scheduled to be conducted this year in the period
-between Nov. 30-Dec. 6 off Egypt's Alexandria coast"
+& Greece. The Exercise is scheduled to be conducted this year in the
+period between Nov. 30-Dec. 6 off Egypt's Alexandria coast"
 
 [Link](https://twitter.com/mahmouedgamal44/status/1332659583828037632)
 
