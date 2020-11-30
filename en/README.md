@@ -70,7 +70,7 @@ pork, they are small, the researchers concluded"
 We cannot blame politicians who went along with Russiagate. It was too
 easy of a narrative for the Dems, a unifier of sorts so it was
 followed, pandered to. The onus and the criticism should go to / be on
-the media; they chose to go along with the convenient lie. Politicians
+the media; they chose to perpetuate the convenient lie. Politicians
 live in the backdrop where MSM looms large.
 
 ---
