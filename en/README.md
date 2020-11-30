@@ -48,8 +48,9 @@ host BTW.
 
 ---
 
-It's funny, these dictator types really arent that informed; Hitler
-had no idea what other leaders were truly thinking, their motives.
+It's funny, these dictator types really arent that informed, bright;
+Hitler had no idea what other leaders were truly thinking, their
+motives.
 
 Stalin did ok, he was had, but only for a while, figured out Adolf early
 enough.
