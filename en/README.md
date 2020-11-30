@@ -55,7 +55,7 @@ motives.
 Stalin did little better, he was had, but only for a while, figured
 out Adolf early enough.
 
-[Documentary](https://youtu.be/E2zrqzvtWio?t=1382)
+[Documentary](https://youtu.be/E2zrqzvtWio?t=724)
 
 ---
 
