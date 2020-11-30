@@ -80,11 +80,10 @@ decades is the relentless propagation of a simple formula for economic
 growth: tax cuts.
 
 The formula doesn’t work, but that has not affected its popularity. In
-part, that’s because people like tax cuts ...
-
-It was in the context of this worldview that it became popular to
-argue that tax cuts would drive prosperity. Rich people would invest,
-productivity would increase, wages would rise.
+part, that’s because people like tax cuts ... It was in the context of
+this worldview that it became popular to argue that tax cuts would
+drive prosperity. Rich people would invest, productivity would
+increase, wages would rise.
 
 In the real world, things are more complicated. Wages are influenced
 by a tug of war between employers and workers, and employers have been
