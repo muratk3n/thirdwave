@@ -11,7 +11,7 @@ EM is a good guy. Strong H2 supporter.
 at the inaugural session of the Stanford University Global Energy
 Dialogues on June 9. In a wide-ranging discussion covering the breadth
 of energy resources needed to meet our climate challenge, he said that
-renewables like wind and solar will be "critical components.” However,
+renewables like wind and solar will be 'critical components.' However,
 we also need 'an assault across the board on all approaches,'
 including longer-term storage, hydrogen, carbon capture and
 sequestration, even technologies that remove carbon from the
