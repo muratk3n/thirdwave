@@ -5,9 +5,8 @@ Anu Partanen, from the book with the same name
 Clinton ... addressed the woman with orange hair sitting next to him
 on the stage. “There’s a huge debate going on in America now,” he
 said. It was September 2010, nearly two years since the financial
-crisis began. Clinton paused again, his hand now falling and
-dangling. “About what it takes to be a successful country in the
-twenty-first century. This debate is also going on in many other
+crisis began.... “About what it takes to be a successful country in
+the twenty-first century. This debate is also going on in many other
 countries around the world.” ...  “And,” Clinton had said, this woman
 “has a country that consistently finishes in the top five in all
 global rankings on the quality of education, the way the economy
