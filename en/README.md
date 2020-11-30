@@ -1,5 +1,10 @@
 # Tweets
 
+I keep saying fossil companies can be part of the solution. Huge part,
+even.. Renewable fuel economy would play into their strengths.
+
+---
+
 EM is a good guy. Strong H2 supporter.
 
 "[Former Obama Energy Secretary Ernest] Moniz was the featured speaker
