@@ -61,8 +61,7 @@ enough.
 
 "Eat Less Red Meat, Scientists Said. Now Some Believe That Was Bad
 Advice. ...  If there are health benefits from eating less beef and
-pork, they are small, the researchers concluded [but eat less pork, my
-advice]"
+pork, they are small, the researchers concluded"
 
 [Link](https://www.nytimes.com/2019/09/30/health/red-meat-heart-cancer.html)
 
