@@ -76,9 +76,9 @@ Zero yesterday"
 ---
 
 
-Always psyched to learn different modes of parallelization. I've
-dabbled in a few so far, in-proc threads with in-mem data, multi
-process with DB, and map/reduce. The one I am looking at is new.
+Always psyched to learn different modes of parallelization. Dabbled in
+a few so far, in-proc threads with in-mem data, multi process with DB,
+and map/reduce. The one I am looking at is new.
 
 ---
 
