@@ -96,7 +96,8 @@ to... nice. Could even be better on the eyes..
 ---
 
 This guy has such a smug face. He could play that "Bob Rumson" role,
-in the M. Douglas movie, he was Prez etc.
+in the M. Douglas movie, he was Prez etc and this guy would be the Rep
+oppo.
 
 ---
 
