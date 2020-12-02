@@ -75,10 +75,10 @@ Zero yesterday"
 
 ---
 
-
 Always psyched to learn different modes of parallelization. Dabbled in
 a few so far, in-proc threads with in-mem data, multi process with DB,
-and map/reduce. The one I am looking at is new.
+and map/reduce. The one I am looking at is new, at least in the
+close-to-the-metal way of coding it.. 
 
 ---
 
