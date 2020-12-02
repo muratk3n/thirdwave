@@ -88,10 +88,10 @@ than the background, which is not.
 
 ---
 
-Lots of options for people who like inverted colors on their computers
-(I'd tried it while back, now revisiting). Like, inverted color
-affinity is some kind of disability that is actively catered
-to... nice. Could even be better on the eyes.. 
+Lots of options for people who like inverted colors on their
+computers. Its like inverted color affinity is some kind of disability
+that is actively catered to... nice. Could even be better on the
+eyes..
 
 ---
 
