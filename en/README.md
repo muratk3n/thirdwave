@@ -6,7 +6,7 @@ NVidia stock price then was around 30s.. Now it is over 500.
 
 Why are GPUs (as oppose to CPUs) so popular? They bring you
 parallelism on the cheap... It is getting harder to have single CPUs
-to go faster, but running things in parallel, on cheap GPUs (with many
+to go faster, but running things in parallel, w cheap GPUs (with many
 "cores") is possible -- first blogged [here](2014/12/q-1012.md). An
 entry-level NVidia GTX 1050 GPU has 640 cores. Insane.
 
