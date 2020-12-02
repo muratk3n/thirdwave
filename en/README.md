@@ -4,7 +4,7 @@ NVidia stock price then was around 30s.. Now it is over 500.
 
 ---
 
-Why are GPU (as oppose to CPUs) so popular? They brings you
+Why are GPUs (as oppose to CPUs) so popular? They brings you
 parallelism on the cheap... It is getting harder to have single CPUs
 to go faster, but running things in parallel, on cheap GPUs (with many
 "cores") is possible -- first blogged [here](2014/12/q-1012.md). An
