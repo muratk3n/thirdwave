@@ -82,9 +82,8 @@ close-to-the-metal way of coding it..
 
 ---
 
-Could even be better on the eyes.. Eye sees light, so it makes sense
-for the thing we actively try to distinquish to *have* light, meaning
-the letters, which are brighter than the background.
+Could even be better on the eyes.. Eye sees light, then makes sense
+for the thing we actively try to distinquish to *have* light -- the letters.
 
 ---
 
