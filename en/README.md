@@ -1,97 +1,106 @@
 # Tweets
 
-Jobs in a renewable fuel economy? Of course there will be jobs... I
-dont personally give a flying flap about full employment, only that
-people have money and health insurance (not the same thing), but a 10
-TRILLION $ worth green economy would imply a lot of jobs.. How can
-economic activity that large involving a physical product not generate
-jobs?
+NVidia stock price then was around 30s.. Now it is over 500.
 
 ---
 
-Due to their handling of covid some of the "magic" around China's
-"good governance" story started to wear off.  They acted in childish
-ways, and showed the world that a country who is not accountable to
-their citizens, through some kind of ballot / electoral process can
-actually be a danger to the entire community of nations.. The freak
-experiment that is their system needs to end, at the very least,
-evolve drastically.
+Why are GPU (as oppose to CPUs) so popular? They brings you
+parallelism on the cheap... It is getting harder to have single CPUs
+to go faster, but running things in parallel, on cheap GPUs (with many
+"cores") is possible -- first blogged [here](2014/12/q-1012.md). An
+entry-level NVidia GTX 1050 GPU has 640 cores. Insane.
 
 ---
 
-This is the guy, right before a joint press conf w BC, told Tony Blair
-"dont fuck this up". Looks like it will be a zoo in there.. Whenever
-Im bored Imma hit this motherfucker. Lets make this happen..
+Well that's good.. current state is somewhat embarrasing..
+
+As Verlinde
+[says](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small):
+"95% of stuff in the universe, we basically don't understand".
+
+"The Search for Dark Matter Is Dramatically Expanding"
+
+[Link](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)
 
 ---
 
-🤣 🤣 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Iberdrola and Ingeteam have created Iberlyzer, a Company Dedicated to Electrolyser Plants-<a href="https://twitter.com/iberdrola?ref_src=twsrc%5Etfw">@Iberdrola</a> &amp; <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> – have combined their capacities to turn <a href="https://twitter.com/hashtag/Spain?src=hash&amp;ref_src=twsrc%5Etfw">#Spain</a> into a technological &amp; industrial benchmark in <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a>-<a href="https://t.co/vxe0wldcKk">https://t.co/vxe0wldcKk</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1333765952320761856?ref_src=twsrc%5Etfw">December 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So sick of all the political purists insisting Biden pick a Transportation Secretary who didn’t uh [googles Rahm Emanuel]....cover up a murder?</p>&mdash; Ken Klippenstein (@kenklippenstein) <a href="https://twitter.com/kenklippenstein/status/1333300196277710850?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@ArthurDelaneyHP
+
+I interviewed a career bartender in Palm Springs, Calif. whose job
+just can't exist with a plague going crazy.
+
+Lawmakers collectively understood that in March, but not now.
+
+'I was making $80,000 a year and living comfortably and now I’m
+waiting in food lines,' he said"
 
 ---
 
-That's probably the message aimed at too; coalition management. 
+"@NuveraH2
 
-"'It’s like putting Chelsea Clinton in the office,' said Kurt
-Ehrenberg, Sanders’ former longtime political strategist in New
-Hampshire"
-
-[Link](https://www.politico.com/amp/news/2020/11/30/bernie-supporters-seethes-neera-tanden-441603?__twitter_impression=true)
+SoCalGas and SDG&E announced the creation of a \#Hydrogen Blending
+Demonstration Program to decarbonize their naturual gas grid"
 
 ---
 
-"@HCTrudo
+"@libbycwatson
 
-NEW: More than 1,000 tweets have disappeared from Joe Biden Office of
-Management and Budget nominee @neeratanden's Twitter feed over the
-past month, including many that were critical of GOP senators"
+i've already had some really fascinating and enraging emails from
+people about bullshit they've had to deal with; remember if you have a
+healthcare story of any kind and you want to talk, email
+sicknotenewsletter@gmail.com"
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I would rather people who think the answer is to cut social security and medicare benefits not be a part of a democratic administration. I mean, was Paul Ryan not available? <a href="https://t.co/BBZKszoTUo">https://t.co/BBZKszoTUo</a></p>&mdash; Sam Seder (@SamSeder) <a href="https://twitter.com/SamSeder/status/1333267465015582720?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Yeah.. that's dumb.
+[Link](https://twitter.com/libbycwatson/status/1333875702656077828)
 
 ---
 
-🤣 🤣 
+"@libbycwatson
 
-NT: "We have a giant deficit. They [Libya] have a lot of oil. Most
-Americans would choose not to engage in the world because of that
-deficit. If we want to continue to engage in the world, gestures like
-having oil rich countries partially pay us back doesn't seem crazy to
-me"
+personal news: I left the New Republic to start a Substack. It’s
+called Sick Note, it’s about how awful American healthcare is"
 
-[Link](https://twitter.com/ggreenwald/status/1333166148913942534/photo/1)
+[Link](https://mobile.twitter.com/libbycwatson/status/1333803585310625794)
 
 ---
 
-Fuuuck this shit.. Now every funky experimentation goes into its
-virtual machine. 
+"The hydrogen economy starts today.  In the midst of pandemic, the
+Prime Minister gave a speech on the government’s commitments to Net
+Zero yesterday"
+
+[Link](https://www.h2-view.com/story/the-hydrogen-economy-starts-today/)
 
 ---
 
-My notebook went mustang but now it is back in play in less than half
-a day. This used to be more stressful. WTF? I lost a major point of
-drama in my life.
+
+Always psyched to learn different modes of parallelization. I've
+dabbled in a few so far, in-proc threads with in-mem data, multi
+process with DB, and map/reduce. The one I am looking at is new.
 
 ---
 
-Google still does some good things... Collab lets anyone play with
-GPUs, for free. Useful. 
+Eye sees light, so it makes sense for the thing we actively try to
+distinquish to *have* light, meaning the letters, which are brighter
+than the background, which is not.
 
 ---
 
-"@AtomicPunk4U
+Lots of options for people who like inverted colors on their computers
+(I'd tried it while back, now revisiting). Like, inverted color
+affinity is some kind of disability that is actively catered
+to... nice. Could even be better on the eyes.. 
 
-Want to see a cat drumming to Iron Maiden?"
+---
 
-[Link](https://twitter.com/AtomicPunk4U/status/1333140542855602181)
+This guy has such a smug face. He could play that "Bob Romsen" role,
+in the M. Douglas movie, he was Prez etc.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Serious conservatives, responsible moderates, and hard-headed liberals should want a tough-minded OMB head. OMB is where Cabinet secretaries&#39; ill-considered projects go to die, where programs are evaluated, where trade-offs are made. Neera Tanden is the right person for the job.</p>&mdash; Bill Kristol (@BillKristol) <a href="https://twitter.com/BillKristol/status/1333432631552331776?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ---
 
