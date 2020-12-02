@@ -84,7 +84,7 @@ process with DB, and map/reduce. The one I am looking at is new.
 
 Could even be better on the eyes.. Eye sees light, so it makes sense
 for the thing we actively try to distinquish to *have* light, meaning
-the letters, which are brighter than the background, which is not.
+the letters, which are brighter than the background.
 
 ---
 
