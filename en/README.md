@@ -94,8 +94,8 @@ that is actively catered to... nice.
 ---
 
 This guy has such a smug face. He could play that "Bob Rumson" role
-ez, in the M. Douglas movie, he was Prez etc and mr smugface would be
-the Rep oppo.
+easy, in the M. Douglas movie, he was Prez etc and mr smugface could
+be the Rep oppo.
 
 ---
 
