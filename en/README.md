@@ -82,16 +82,15 @@ process with DB, and map/reduce. The one I am looking at is new.
 
 ---
 
-Eye sees light, so it makes sense for the thing we actively try to
-distinquish to *have* light, meaning the letters, which are brighter
-than the background, which is not.
+Could even be better on the eyes.. Eye sees light, so it makes sense
+for the thing we actively try to distinquish to *have* light, meaning
+the letters, which are brighter than the background, which is not.
 
 ---
 
 Lots of options for people who like inverted colors on their
 computers. Its like inverted color affinity is some kind of disability
-that is actively catered to... nice. Could even be better on the
-eyes..
+that is actively catered to... nice. 
 
 ---
 
