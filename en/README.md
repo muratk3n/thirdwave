@@ -108,7 +108,7 @@ is awesome. The system is perfect the way it is.
 
 ---
 
-Incoming national security adviser
+Incoming national security advisor
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Australian people have made great sacrifices to protect freedom and democracy around the world. As we have for a century, America will stand shoulder to shoulder with our ally Australia and rally fellow democracies to advance our shared security, prosperity, and values.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1334173397035741189?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
