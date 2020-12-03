@@ -439,8 +439,6 @@ asserted they did."
 
 [Link](https://evonomics.com/why-economists-have-to-embrace-complexity-steve-keen/)
 
-*2019-8-26 7:33:17*
-
 ---
 
 Alan Kirman explains why we cannot understand an ant hill by
@@ -449,15 +447,11 @@ considering a representative ant [a dig into economists and their
 
 [Vid](https://youtu.be/HYucuJJY7EQ)
 
-*2019-8-26 7:33:17*
-
 ---
 
 \#walsh
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It says something about our time, that the man who endorsed on Who Is America arming 4 year olds with machine guns, mortars and grenades, is now pitching himself as the sensible alternative to Trump - and not a single person can dispute it.</p>&mdash; Sacha Baron Cohen (@SachaBaronCohen) <a href="https://twitter.com/SachaBaronCohen/status/1165827032309092357?ref_src=twsrc%5Etfw">August 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-26 7:23:33*
 
 ---
 
@@ -471,8 +465,6 @@ climate'"
 
 [Link](https://www.engadget.com/amp/2019/08/21/researchers-discover-climate-friendly-way-of-extracting-hydrogen/)
 
-*2019-8-26 0:6:9*
-
 ---
 
 "Perhaps the starkest measure of the failure of our economic policies
@@ -483,8 +475,6 @@ inequalities of wealth have become inequalities of health"
 
 Appelbaum, NYT
 
-*2019-8-25 23:21:53*
-
 ---
 
 
@@ -492,15 +482,11 @@ This was one of my email alerts during college
 
 [Link](https://youtu.be/pLZKG5i_ySg)
 
-*2019-8-25 22:52:27*
-
 ---
 
 The first all-renewable energy vessel to reach the Arctic is based on guess-what.
 
 [Link](https://mobile.twitter.com/Lecocq_dom/status/1165663890996375552)
-
-*2019-8-25 22:25:52*
 
 ---
 
@@ -510,15 +496,11 @@ One for all, all for one ⚔️
 
 EU says it will 'respond in kind' if US slaps tariffs on France"
 
-*2019-8-25 22:16:10*
-
 ---
 
  😂😂😆🖖
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I once found the inverse of a 50x50 matrix by hand! Fortunately, it was an orthogonal matrix.</p>&mdash; math prof (@mathematicsprof) <a href="https://twitter.com/mathematicsprof/status/1165701176156930050?ref_src=twsrc%5Etfw">August 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-25 22:12:7*
 
 ---
 
@@ -526,16 +508,12 @@ It weighs 29 kilos! \#ebike
 
 [Link](https://mobile.twitter.com/ENGIE_CofelyFR/status/1165633805526474752)
 
-*2019-8-25 20:25:39*
-
 ---
 
 Just when CH is doing some good stuff on energy, they'll go belly up..
 Are US trade requests so obscene?  What were in those 45 pages that
 were rejected in the 150 page doc? Noone f--ing knows... What the f--k
 is going on?
-
-*2019-8-25 19:53:24*
 
 ---
 
@@ -545,13 +523,9 @@ China's coal capital transforming into H2 hub"
 
 [Link](http://www.xinhuanet.com/english/2019-08/25/c_138336923.htm#0-twi-1-12066-7250227817ecdff034dc9540e6c76667)
 
-*2019-8-25 19:50:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is no trade war with China without U.S dollars.<br>I guess Xi hasn&#39;t figured that out yet? <a href="https://t.co/dEXurMqRy4">https://t.co/dEXurMqRy4</a></p>&mdash; Dan Celia (@financialissues) <a href="https://twitter.com/financialissues/status/1165610111362129920?ref_src=twsrc%5Etfw">August 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-25 19:46:38*
 
 ---
 
@@ -566,8 +540,6 @@ rules.
 shouldn't Germany spend (so other countries lacking in surplus could
 benefit)? More thought leaders should ask them, urge them to spend"
 
-*2019-8-25 19:28:25*
-
 ---
 
 Crisis' are all about debt, and credit (=money) creation for wrong
@@ -578,8 +550,6 @@ debt if there is a build-up there, increase public spending as a
 social service.
 
 "How do we deal with crisis then?"
-
-*2019-8-25 19:26:31*
 
 ---
 
@@ -595,16 +565,12 @@ Israeli authorities:
 
 @FIFAcom remains silent"
 
-*2019-8-25 18:43:53*
-
 ---
 
 "@zerohedge
 
 Stormy Weather In Solarville: Amazon Joins Walmart In Saying Its Tesla
 Solar Panels Spontaneously Ignited"
-
-*2019-8-25 18:29:9*
 
 ---
 
@@ -621,8 +587,6 @@ schools' &#128521;
 
 "But Keynes said during crisis we can pay people dig up holes then
 fill them up"
-
-*2019-8-25 16:31:14*
 
 ---
 
@@ -642,8 +606,6 @@ ago who was dumber still. An "economist" needs to ask himself, 'why am
 I __still__ repeating this shit?'
 
 "But the advantage of industrial production lies in division of labor"
-
-*2019-8-25 15:31:14*
 
 ---
 
@@ -671,8 +633,6 @@ Hayes acknowledged".
 
 [Link](https://www.businessinsider.com/united-tech-ceo-says-trump-deal-will-lead-to-more-automation-fewer-jobs-2016-12)
 
-*2019-8-25 15:31:14*
-
 ---
 
 Why control when you can simply replace? That's why this guy keeps
@@ -689,8 +649,6 @@ capitalism cannot control"
 
 [Link](https://renegadeinc.com/the-commodification-of-everything/)
 
-*2019-8-25 15:31:14*
-
 ---
 
 It is very easy for the banks to track that. They could tell if money
@@ -699,21 +657,15 @@ is given to your dog walker if they wanted to.
 "How would you control bank credit reaches the 'correct' destination?
 [for productive purposes not speculation]"
 
-*2019-8-25 10:3:25*
-
 ---
 
 Debt Zombies \#keen
 
 [Link](https://youtu.be/qk_17ewZzow)
 
-*2019-8-25 10:1:42*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Protestors in Hong Kong are cutting down facial recognition towers. <a href="https://t.co/bTvb8uis7V">pic.twitter.com/bTvb8uis7V</a></p>&mdash; Jordan Sather (@Jordan_Sather_) <a href="https://twitter.com/Jordan_Sather_/status/1165327628825284610?ref_src=twsrc%5Etfw">August 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-25 8:36:40*
 
 ---
 
@@ -726,15 +678,11 @@ climate change"
 
 [Link](https://www.independent.co.uk/news/business/news/bp-shell-oil-global-warming-5-degree-paris-climate-agreement-fossil-fuels-temperature-rise-a8022511.html)
 
-*2019-8-25 8:31:35*
-
 ---
 
 "@Gary_Bainbridge
 
 My rent has just been increased, according to correspondence, because the value of the property in which I live has increased. If I'm reading this correctly, I now have to give my landlord more money because he has more money."
-
-*2019-8-24 22:53:42*
 
 ---
 
@@ -744,14 +692,10 @@ confer anyone magical analysis powers. You can use it well, or badly.
 
 "Marx used math and he was wrong. How can u defend math in econ?"
 
-*2019-8-24 22:14:22*
-
 ---
 
 Israel worried abt Jews becoming a minority in a one-state solution?
 Dont include Gaza, hand it over to Egypt. Everywhere else, one-state solution.
-
-*2019-8-24 21:56:22*
 
 ---
 
@@ -762,15 +706,11 @@ Dont include Gaza, hand it over to Egypt. Everywhere else, one-state solution.
 You mean the same way it always was before central banks stepped in to
 eliminate all shocks?"
 
-*2019-8-24 21:47:1*
-
 ---
 
 Heh. Hopefully u dont run out of dollars first.
 
 "China [is] determined to fight back “until the end”"
-
-*2019-8-24 21:43:29*
 
 ---
 
@@ -782,8 +722,6 @@ biology, chemistry, he did not push further in the frontier on what's
 been started in 1910. A fine scientist though... The Teller story came
 from him.
 
-*2019-8-24 20:49:5*
-
 ---
 
 "@tyillc
@@ -792,8 +730,6 @@ Biggest take away from Jackson Hole meeting: central banks are not now
 nor were they ever a "magic box of economic remedies".  In fact,
 central bank policies might come to be thought of more as the medieval
 practice of "blood letting"."
-
-*2019-8-24 20:34:34*
 
 ---
 
@@ -807,8 +743,6 @@ this?","because I tell you so". No this is not just that, there is a
 spur-of-the-moment, flighty, sadistic side to it. Tyrants could be
 tryannical at least based on some rules. Not this. It is *whatever*
 going through my mind, *right there and then*.
-
-*2019-8-24 20:21:41*
 
 ---
 
@@ -834,8 +768,6 @@ their descent from the trees... Roughly 3.2 million years
 later...[they] would dig up her fossilized bones [naming her Lucy]."
 -- Phillips, *Humans*
 
-*2019-8-24 20:1:10*
-
 ---
 
 Cons, centrists are really bad at categorization... You drive a car
@@ -846,8 +778,6 @@ infrastructure. Just like healthcare - it's people infrastructure.
 
 [Vid](https://youtu.be/BM8bboeKJPk?t=102)
 
-*2019-8-24 14:54:16*
-
 ---
 
 Good expl on Palestinians.
@@ -856,21 +786,15 @@ Good expl on Palestinians.
 
 \#beinart
 
-*2019-8-24 14:33:51*
-
 ---
 
 Wut? VW wants to buy TSLAQ?
-
-*2019-8-24 8:10:53*
 
 ---
 
 \#thebible \#trump
 
 [Link](https://mobile.twitter.com/Mauerback/status/1164905721756078083)
-
-*2019-8-24 7:34:6*
 
 ---
 
@@ -881,8 +805,6 @@ Who is directing? &#128552;
 
 [Link](https://mobile.twitter.com/WendyLeeSzany/status/1165060301265362944)
 
-*2019-8-24 7:18:35*
-
 ---
 
 Ave Ceasar
@@ -891,8 +813,6 @@ Ave Ceasar
 or so) pledged personal oath of allegiance to Il Duce"
 
 [Link](https://mobile.twitter.com/chaaosbook/status/1165099407488028673)
-
-*2019-8-24 7:4:12*
 
 ---
 
@@ -903,8 +823,6 @@ majority of contemptible, bigoted speech is protected." --The Atlantic
 
 [Link](https://www.theatlantic.com/ideas/archive/2019/08/free-speech-cliches-media-should-stop-using/596506/)
 
-*2019-8-24 1:23:59*
-
 ---
 
 "@justicedems
@@ -913,8 +831,6 @@ majority of contemptible, bigoted speech is protected." --The Atlantic
 fossil fuel industry. Not only does it call for hiking up taxes and
 penalties on polluters, it taps the Justice Department to pursue
 litigation against them'"
-
-*2019-8-24 0:12:50*
 
 ---
 
@@ -926,19 +842,13 @@ take a much more active role in power markets"
 
 [Link](https://pv-magazine-usa.com/2019/08/23/bernie-sanders-wants-to-nationalize-clean-energy/)
 
-*2019-8-23 21:9:37*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The number of fires in the Amazon has spiked to record levels. One for <a href="https://twitter.com/SoberLook?ref_src=twsrc%5Etfw">@SoberLook</a> <a href="https://t.co/wkLsEMyHOM">https://t.co/wkLsEMyHOM</a> <a href="https://t.co/mv8xiTLA3s">pic.twitter.com/mv8xiTLA3s</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/1164493668104863744?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-23 20:8:7*
-
 ---
 
 Why would DJT fire Powell? He needs to pin the slowdown on someone.
-
-*2019-8-23 20:5:22*
 
 ---
 
@@ -948,13 +858,9 @@ winning. 2016 primary was empty, ppl were running scared (Bam
 era). 2016 Republican primary was crowded bcz they knew they had a
 chance.
 
-*2019-8-23 16:1:24*
-
 --- 
 
 Changed TW location setting so I dont see tigga trends
-
-*2019-8-23 15:29:0*
 
 ---
 
@@ -964,23 +870,17 @@ F---ing farmers
 through the Amazon, Brazilian President Bolsonaro admitted farmers
 could be illegally setting the rainforest ablaze"
 
-*2019-8-23 10:5:40*
-
 ---
 
 "@cassidoo
 
 A wise QA dev once said, 'There is no I in team, but there is a u in bug'"
 
-*2019-8-23 9:4:28*
-
 ---
 
 Why milenials are jaded. Interesting.. fallen heroes etc. The degree thing too.
 
 [Link](https://personalitygrowth.com/why-millenials-are-so-jaded/)
-
-*2019-8-22 22:43:15*
 
 ---
 
@@ -991,13 +891,9 @@ Vader the pope. He represents centralized religion in the service of
 the empire.. just as in Byzantium, the Otto gobble-gobble with its
 ulema - the head "religion guy", sehulislam. All the same shit.
 
-*2019-8-22 16:51:34*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Powercell Reports Strong Second Quarter Result Following Agreement with Bosch--<a href="https://twitter.com/PowercellA?ref_src=twsrc%5Etfw">@PowercellA</a> posts a record high operating income of 513,828 Thousand SEK--<a href="https://t.co/aznDagEStk">https://t.co/aznDagEStk</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrognnow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrognnow</a> <a href="https://t.co/V5YYNFd5B3">pic.twitter.com/V5YYNFd5B3</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1164512017543258116?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-22 16:35:34*
 
 ---
 
@@ -1021,8 +917,6 @@ constants to adjust. With more constants to adjust, you can then
 arrange for the decay of the proton to be as rare as you like. So you
 can easily make the theory safe from experimental failure."
 
-*2019-8-22 15:38:57*
-
 ---
 
 "For all its usefulness, the standard model has a big problem: It has
@@ -1045,7 +939,42 @@ some basic fact of which we are ignorant: namely, the physical reason
 or mechanism responsible for setting the constant to its observed
 value." --Smolin
 
-*2019-8-22 15:35:54*
-
 ---
 
+Tooze on [focus group democracy](../../2019/08/focus-group-democracy.md). 
+
+It can't be a coincidence that of the last 4 presidents, 3 were *I am
+CRM* types who need to listen to others. Because the spirit of the
+times, the *zeitgeist* is such that we live in this world of
+unfiltered, prevalent, avalanche style communication, people who by
+default shut it off do well, and when they allow it with reasonably
+efficiency this is in their positive, so they perform a badly needed
+filtering at the highest office. These people keep getting the top job
+(the public must be sensing this subconciously).
+
+But this is only a stop-gap measure. Sadly with institutional
+filtering mechanisms gutted and burdened further due to corporate
+interests, not only are policy makers in general flooded with input,
+they also turn around to the public, perhaps exasperated by the
+situation, and seemingly ask to do their job for them. After Obama
+wins the election says "you are in charge" as if the people will
+magically do the job for him.
+
+Of course stirring excitement, and using that as leverage on lawmakers
+can be useful, but that, again, takes leadership. The root of the
+problem is a giant, gaping hole in the body politick that was removed,
+creating the zombie state we are in today. 
+
+Cross wave solution don't work; modern institutions are second wave;
+concentrated, centralized, but now with the guts removed, some want to
+add a "third wave paint" on it to make it shiny. Example: Obama
+sitting in front of a chat room (they actually did this). This way
+supposedly the President gets direct input from the public. But the
+room is full of trolls, chaos, the receiving end is still the singular
+executive - not a functioning solution. 
+
+Until there is a complete new way of governance, I'd say remaining at
+second wave for modern democracy might be better, with all the colors
+in the political spectrum covered and represented fully.
+
+---

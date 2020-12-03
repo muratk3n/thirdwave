@@ -1,105 +1,116 @@
 # Tweets
 
-NVidia stock price then was around 30s.. Now it is over 500.
+"@gabriel_zucman
+
+America has a problem with its bloated prison-law-enforcement system
+(ahem, highest incarceration rate in the world). Defunding it a bit
+is... not crazy? — and in fact this has already started since 2010"
 
 ---
 
-Why are GPUs (as oppose to CPUs) so popular? They bring you
-parallelism on the cheap... It is getting harder to have single CPUs
-to go faster, but running things in parallel, w cheap GPUs (with many
-"cores") is possible -- first blogged [here](2014/12/q-1012.md). An
-entry-level NVidia GTX 1050 GPU has 640 cores. Insane.
+F24: "How did we go from calls to research the origins of Covid-19 to
+China's call to boycott Australian wine? Relations between Beijing and
+Canberra started to seriously go south back in May when the
+Australians demanded an independent probe into Coronavirus. Now, on
+the week of first anniversary of the first documented case in Wuhan
+comes an official protest from prime minister Scott Morrison over the
+image of an Australian soldier holding a bloody dagger up to the
+throat of an Afghan child, tweeted from the official account of a top
+foreign ministry spokesperson"
+
+[Link](https://www.france24.com/en/tv-shows/the-debate/20201202-don-t-mess-with-beijing-pushback-over-covid-fuels-china-australia-row)
 
 ---
 
-Well that's good.. current state is somewhat embarrasing..
+"@aawayne
 
-As Verlinde
-[says](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small):
-"95% of stuff in the universe, we basically don't understand".
+NEWS: Americans who've survived Covid-19 are now being denied life insurance"
 
-"The Search for Dark Matter Is Dramatically Expanding"
-
-[Link](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)
+[Link](https://twitter.com/aawayne/status/1334196169195606023)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Iberdrola and Ingeteam have created Iberlyzer, a Company Dedicated to Electrolyser Plants-<a href="https://twitter.com/iberdrola?ref_src=twsrc%5Etfw">@Iberdrola</a> &amp; <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> – have combined their capacities to turn <a href="https://twitter.com/hashtag/Spain?src=hash&amp;ref_src=twsrc%5Etfw">#Spain</a> into a technological &amp; industrial benchmark in <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a>-<a href="https://t.co/vxe0wldcKk">https://t.co/vxe0wldcKk</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1333765952320761856?ref_src=twsrc%5Etfw">December 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Iran deserves more of the blame on the Yemeni situation than SA. 
+
+"For at least a decade, there have been numerous Yemeni, Saudi, and
+other countries’ assertions that Iran has been involved in supporting
+northern Yemeni rebels seeking autonomy from the Sana’a
+government. Iranian diplomatic and political support for this
+rebellious group (known as the Houthis) is undeniable, but Iranian
+military assistance for them has not always been easy to prove. This
+situation appeared to change in 2011 when Iran's increased involvement
+in Yemen occurred in response to both the chaotic situation there
+during the final year of the Saleh regime and the danger that the Arab
+Spring revolutions would leave Iran increasingly isolated. Evidence of
+Iranian efforts to supply weapons to the Houthis now seems
+overwhelming in contrast to uncertain reports prior to 2011"
+
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0030438714000325)
 
 ---
 
-"@ArthurDelaneyHP
+"@michelletandler
 
-I interviewed a career bartender in Palm Springs, Calif. whose job
-just can't exist with a plague going crazy.
-
-Lawmakers collectively understood that in March, but not now.
-
-'I was making $80,000 a year and living comfortably and now I’m
-waiting in food lines,' he said"
+90k households recently filed a change of address form with USPS,
+leaving SF. We have ...  ~400k households"
 
 ---
 
-"@NuveraH2
+"@DerekJGrossman
 
-SoCalGas and SDG&E announced the creation of a \#Hydrogen Blending
-Demonstration Program to decarbonize their naturual gas grid"
-
----
-
-"@libbycwatson
-
-i've already had some really fascinating and enraging emails from
-people about bullshit they've had to deal with; remember if you have a
-healthcare story of any kind and you want to talk, email
-sicknotenewsletter@gmail.com"
-
-[Link](https://twitter.com/libbycwatson/status/1333875702656077828)
+Secretary of the Navy Braithwaite says "the decision has been made" on
+the establishment of an expeditionary First Fleet to patrol the Indian
+Ocean (50:17). Looks like this is happening, unless reversed by the
+Biden administration"
 
 ---
 
-"@libbycwatson
-
-personal news: I left the New Republic to start a Substack. It’s
-called Sick Note, it’s about how awful American healthcare is"
-
-[Link](https://mobile.twitter.com/libbycwatson/status/1333803585310625794)
+Institutional left lost a lot of ground in the near past, and we were
+all worse for it.. See [link](2019/08/focus-group-democracy.md).
 
 ---
 
-"The hydrogen economy starts today.  In the midst of pandemic, the
-Prime Minister gave a speech on the government’s commitments to Net
-Zero yesterday"
+"@ChrisBurkeShay
 
-[Link](https://www.h2-view.com/story/the-hydrogen-economy-starts-today/)
+.@susie_c has a terrific piece outlining how health care consolidation
+made us all more vulnerable to a pandemic. Our system isn't designed
+for care; it's designed to maximize profit"
 
----
-
-Always psyched to learn different modes of parallelization. Dabbled in
-a few so far, in-proc threads with in-mem data, multi process with DB,
-and map/reduce. The one I am looking at is new, at least in the
-close-to-the-metal way of coding it.. 
+[Link](https://mobile.twitter.com/ChrisBurkeShay/status/1334175456283688961)
 
 ---
 
-Could even be better on the eyes.. Eye sees light, then makes sense
-for the thing we actively try to distinquish to *have* light -- the letters.
+"@DerekJGrossman
+
+Despite President Duterte’s much-vaunted 'pivot to China,' the
+nation’s relationship with the US remains as strong as ever"
 
 ---
 
-Lots of options for people who like inverted colors on their
-computers. Its like inverted color affinity is some kind of disability
-that is actively catered to... nice. 
+"@AlxThomp
+
+Biden seems prepared for SCOTUS to strike down Obamacare next year: We
+have 'got to end the rural health care crisis right now by building on
+Obamacare, assuming it survives at all'"
 
 ---
 
-This guy has such a smug face. He could play that "Bob Rumson" role
-easy, in the M. Douglas movie, he was Prez etc and mr smugface could
-be Bob Rumson, the Rep oppo.
+Incoming national security adviser
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Australian people have made great sacrifices to protect freedom and democracy around the world. As we have for a century, America will stand shoulder to shoulder with our ally Australia and rally fellow democracies to advance our shared security, prosperity, and values.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1334173397035741189?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Serious conservatives, responsible moderates, and hard-headed liberals should want a tough-minded OMB head. OMB is where Cabinet secretaries&#39; ill-considered projects go to die, where programs are evaluated, where trade-offs are made. Neera Tanden is the right person for the job.</p>&mdash; Bill Kristol (@BillKristol) <a href="https://twitter.com/BillKristol/status/1333432631552331776?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+I dont understand why some still keep harping about the Electoral
+Collage system... The electoral votes per state are already in
+proportion to the individual state population, so there is no danger
+of, say, Wyoming (3 electoral votes) overwhelming a state like
+Pennsylvania (20 electoral votes). Sure bcz of winner-takes-all nature
+of the process on state basis, some discrepancy can occur between
+popular vote and the electoral result, but that'll push the candidates
+care more about individual states which IMO is a good thing. Also the
+system makes democracy more indirect rather than direct, which again,
+is awesome. The system is perfect the way it is.
 
 ---
 
