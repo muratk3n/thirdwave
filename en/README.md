@@ -95,12 +95,6 @@ Obamacare, assuming it survives at all'"
 
 ---
 
-Incoming national security adviser
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Australian people have made great sacrifices to protect freedom and democracy around the world. As we have for a century, America will stand shoulder to shoulder with our ally Australia and rally fellow democracies to advance our shared security, prosperity, and values.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1334173397035741189?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 I dont understand why some still keep harping about the Electoral
 Collage system... The electoral votes per state are already in
 proportion to the individual state population, so there is no danger
@@ -111,6 +105,12 @@ popular vote and the electoral result, but that'll push the candidates
 care more about individual states which IMO is a good thing. Also the
 system makes democracy more indirect rather than direct, which again,
 is awesome. The system is perfect the way it is.
+
+---
+
+Incoming national security adviser
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Australian people have made great sacrifices to protect freedom and democracy around the world. As we have for a century, America will stand shoulder to shoulder with our ally Australia and rally fellow democracies to advance our shared security, prosperity, and values.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1334173397035741189?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
