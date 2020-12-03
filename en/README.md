@@ -103,8 +103,8 @@ Pennsylvania (20 electoral votes). Sure bcz of winner-takes-all nature
 of the process on state basis, some discrepancy can occur between
 popular vote and the electoral result, but that'll push the candidates
 care more about individual states which IMO is a good thing. Also the
-system makes democracy more indirect rather than direct, which again,
-is awesome. The system is perfect the way it is.
+system makes democracy more indirect rather than direct and that again
+is *awesome*. The system is perfect the way it is.
 
 ---
 
