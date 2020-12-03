@@ -89,8 +89,8 @@ nation’s relationship with the US remains as strong as ever"
 
 "@AlxThomp
 
-Biden seems prepared for SCOTUS to strike down Obamacare next year: We
-have 'got to end the rural health care crisis right now by building on
+Biden seems prepared for SCOTUS to strike down Obamacare next year: 'We
+have got to end the rural health care crisis right now by building on
 Obamacare, assuming it survives at all'"
 
 ---
