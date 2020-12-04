@@ -15,7 +15,7 @@ House Appropriations chair, 148-79"
 ---
 
 Breaking down connective tissue takes time. The result = soft
-meat. Works on regular, inexpensive "chuck" meat. Primo.
+meat. Works on regular, inexpensive "chuck". Primo.
 
 ---
 
