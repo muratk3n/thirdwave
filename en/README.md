@@ -56,8 +56,8 @@ Another Israeli election? Hell
 They are in a funk, and they deserve to be. Too many ethnic divisions,
 foundational issues.. The representative makeup is actually suggesting
 a way out / the solution (there is certain magic in electoral
-representative structure from elections) but mainstream is too set in
-their ways.
+representative structure as a result of elections) but mainstream is
+too set in their ways.
 
 ---
 
