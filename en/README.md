@@ -78,7 +78,7 @@ time BTW.
 
 I guess he was bad at kamikaze
 
-😆 😆 😆 Bodum tss 🥁 
+😆 😆 😆 Ba dum tss 🥁 
 
 "He Escaped Death as a Kamikaze Pilot. 70 Years Later, He Told His Story"
 
