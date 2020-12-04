@@ -3,7 +3,7 @@
 "@StevenTDennis
 
 On Senate floor, Senator Cortez Masto says Nevada is bracing for
-*250,000-400,000 evictions* after moratorium expires"
+250,000-400,000 evictions after moratorium expires"
 
 ---
 
