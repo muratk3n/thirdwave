@@ -44,8 +44,8 @@ poodles of UK intelligence, if reports are correct.. Isn't that sad?
 They should learn from TR. By now some nationalist corksucker would
 have blown something up, their symphatizers in gov would then blame
 the people who died, jail their movement, subsequently watch
-mainstream politicians tremble, then fall in line like scared little
-bitches.
+mainstream politicians tremble in fear, and fall in line like scared
+little bitches.
 
 You have a lot to learn.
 
