@@ -1,116 +1,91 @@
 # Tweets
 
-"@gabriel_zucman
+"@StevenTDennis
 
-America has a problem with its bloated prison-law-enforcement system
-(ahem, highest incarceration rate in the world). Defunding it a bit
-is... not crazy? — and in fact this has already started since 2010"
-
----
-
-F24: "How did we go from calls to research the origins of Covid-19 to
-China's call to boycott Australian wine? Relations between Beijing and
-Canberra started to seriously go south back in May when the
-Australians demanded an independent probe into Coronavirus. Now, on
-the week of first anniversary of the first documented case in Wuhan
-comes an official protest from prime minister Scott Morrison over the
-image of an Australian soldier holding a bloody dagger up to the
-throat of an Afghan child, tweeted from the official account of a top
-foreign ministry spokesperson"
-
-[Link](https://www.france24.com/en/tv-shows/the-debate/20201202-don-t-mess-with-beijing-pushback-over-covid-fuels-china-australia-row)
+On Senate floor, Senator Cortez Masto says Nevada is bracing for
+*250,000-400,000 evictions* after moratorium expires"
 
 ---
 
-"@aawayne
+Medicare for America
 
-NEWS: Americans who've survived Covid-19 are now being denied life insurance"
-
-[Link](https://twitter.com/aawayne/status/1334196169195606023)
-
----
-
-Iran deserves more of the blame on the Yemeni situation than SA. 
-
-"For at least a decade, there have been numerous Yemeni, Saudi, and
-other countries’ assertions that Iran has been involved in supporting
-northern Yemeni rebels seeking autonomy from the Sana’a
-government. Iranian diplomatic and political support for this
-rebellious group (known as the Houthis) is undeniable, but Iranian
-military assistance for them has not always been easy to prove. This
-situation appeared to change in 2011 when Iran's increased involvement
-in Yemen occurred in response to both the chaotic situation there
-during the final year of the Saleh regime and the danger that the Arab
-Spring revolutions would leave Iran increasingly isolated. Evidence of
-Iranian efforts to supply weapons to the Houthis now seems
-overwhelming in contrast to uncertain reports prior to 2011"
-
-[Link](https://www.sciencedirect.com/science/article/abs/pii/S0030438714000325)
+"The House Democratic Caucus has elected @rosadelauro as the next
+House Appropriations chair, 148-79"
 
 ---
 
-"@michelletandler
-
-90k households recently filed a change of address form with USPS,
-leaving SF. We have ...  ~400k households"
+Breaking down connective tissue takes time. The result = soft
+meat. Works on regular, inexpensive "chuck" meat. Primo.
 
 ---
 
-"@DerekJGrossman
-
-Secretary of the Navy Braithwaite says "the decision has been made" on
-the establishment of an expeditionary First Fleet to patrol the Indian
-Ocean (50:17). Looks like this is happening, unless reversed by the
-Biden administration"
+I killed it with that stew.. That'll be one awesome meat dish when it
+comes out of storage. "Low and slow" does it.
 
 ---
 
-Institutional left lost a lot of ground in the near past, and we were
-all worse for it.. See [link](2019/08/focus-group-democracy.md).
+Anoushka Shankar And Karsh Kale - Slither \#music
+
+[Link](https://youtu.be/2UoK5ERMCyk)
 
 ---
 
-"@ChrisBurkeShay
-
-.@susie_c has a terrific piece outlining how health care consolidation
-made us all more vulnerable to a pandemic. Our system isn't designed
-for care; it's designed to maximize profit"
-
-[Link](https://mobile.twitter.com/ChrisBurkeShay/status/1334175456283688961)
+Monoliths? Who cares?
 
 ---
 
-"@DerekJGrossman
+Arent nationalist supposed to be more connected to the war of indep?
 
-Despite President Duterte’s much-vaunted 'pivot to China,' the
-nation’s relationship with the US remains as strong as ever"
-
----
-
-"@AlxThomp
-
-Biden seems prepared for SCOTUS to strike down Obamacare next year: 'We
-have got to end the rural health care crisis right now by building on
-Obamacare, assuming it survives at all'"
+The main enemy then was the British, but these losers nats now became
+poodles of UK intelligence, if reports are correct.. Isn't that sad?
 
 ---
 
-I dont understand why some still keep harping about the Electoral
-Collage system... The electoral votes per state are already in
-proportion to the individual state population, so there is no danger
-of, say, Wyoming (3 electoral votes) overwhelming a state like
-Pennsylvania (20 electoral votes). Sure bcz of winner-takes-all nature
-of the process on state basis, some discrepancy can occur between
-popular vote and the electoral result, but that'll push the candidates
-care more about individual states which IMO is a good thing. Also the
-system makes democracy more indirect rather than direct and that again
-is *awesome*. The system is great the way it is.
+They should learn from TR. By now some nationalist corksucker would
+have blown something up, their symphatizers in gov would then blame
+the people who died, jail their movement, subsequentlyl watch the
+mainstream politicians tremble, then fall in line like scared little
+bitches.
+
+You have a lot to learn.
 
 ---
 
-Incoming national security advisor
+Another Israeli election? Hell
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Australian people have made great sacrifices to protect freedom and democracy around the world. As we have for a century, America will stand shoulder to shoulder with our ally Australia and rally fellow democracies to advance our shared security, prosperity, and values.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1334173397035741189?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+They are in a funk, and they deserve to be. Too many ethnic divisions,
+foundational issues.. The representative makeup is actually suggesting
+a way out / the solution (there is certain magic in electoral
+representative structure from elections) but mainstream is too set in
+their ways.
+
+---
+
+I guess he was bad at kamikaze
+
+😆 😆 😆 Bodum tss 🥁 
+
+"He Escaped Death as a Kamikaze Pilot. 70 Years Later, He Told His Story"
+
+---
+
+"Iran Moves to Increase Nuclear Enrichment After Top Scientist Killed"
+
+---
+
+"Biden says he won't immediately remove Trump's tariffs on China"
+
+---
+
+Alan Hawkshaw - Raver \#music
+
+[Link](https://youtu.be/elB8TpiwLak)
+
+---
+
+Manni Montana - Fishing For Compliments \#music
+
+[Link](https://youtu.be/gXWzWriy9QI)
 
 ---
 
