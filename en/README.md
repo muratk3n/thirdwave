@@ -19,7 +19,7 @@ meat. Works on regular, inexpensive "chuck". Primo.
 
 ---
 
-I killed it with that stew.. That'll be one awesome meat dish when it
+I killed it with that stew.. That'll be one awesome dish when it
 comes out of storage. "Low and slow" does it.
 
 ---
