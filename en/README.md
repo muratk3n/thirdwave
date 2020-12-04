@@ -36,7 +36,7 @@ Monoliths? Who cares?
 
 Arent nationalist supposed to be more connected to the war of indep?
 
-The main enemy then was the British, but these losers nats now became
+The main enemy then was the British, but these loser nats now became
 poodles of UK intelligence, if reports are correct.. Isn't that sad?
 
 ---
