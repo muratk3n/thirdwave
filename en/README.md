@@ -1,5 +1,13 @@
 # Tweets
 
+
+"Congress Moves to Block Trump's Troop Cuts in Germany.. Congress moved
+to stop President Trump from reducing U.S. troops in Germany, dealing
+a setback to the White House’s attempt to punish the country for its
+modest level of defense spending"
+
+---
+
 "Links to leaders in both parties have enabled BlackRock to
 successfully fight designation as a systemically important financial
 institution, keeping its trillions outside the Dodd-Frank regulatory
