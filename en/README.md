@@ -1,5 +1,15 @@
 # Tweets
 
+
+Links to leaders in both parties have enabled BlackRock to
+successfully fight designation as a systemically important financial
+institution, keeping its trillions outside the Dodd-Frank regulatory
+perimeter.
+
+[Link](https://prospect.org/api/amp/economy/blackrock-rules-world/)
+
+---
+
 "@StevenTDennis
 
 On Senate floor, Senator Cortez Masto says Nevada is bracing for
@@ -58,6 +68,12 @@ foundational issues.. The representative makeup is actually suggesting
 a way out / the solution (there is certain magic in electoral
 representative structure as a result of elections) but mainstream is
 too set in their ways.
+
+---
+
+I'd like to see second, third seasons for shows like *Incorporated*,
+*Terra Nova*. Too bad they were discontinued. So was Trek OS at one
+time BTW.
 
 ---
 
