@@ -43,7 +43,7 @@ poodles of UK intelligence, if reports are correct.. Isn't that sad?
 
 They should learn from TR. By now some nationalist corksucker would
 have blown something up, their symphatizers in gov would then blame
-the people who died, jail their movement, subsequentlyl watch the
+the people who died, jail their movement, subsequently watch
 mainstream politicians tremble, then fall in line like scared little
 bitches.
 
