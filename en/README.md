@@ -1,10 +1,9 @@
 # Tweets
 
-
-Links to leaders in both parties have enabled BlackRock to
+"Links to leaders in both parties have enabled BlackRock to
 successfully fight designation as a systemically important financial
 institution, keeping its trillions outside the Dodd-Frank regulatory
-perimeter.
+perimeter"
 
 [Link](https://prospect.org/api/amp/economy/blackrock-rules-world/)
 
