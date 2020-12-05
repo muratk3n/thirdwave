@@ -29,9 +29,9 @@ much more problematic than carbon storage coming from fossil CCS.
 
 ---
 
-Fossil companies can generate renewable fuel + carbon capture **at the
-source**. Once produced, ship this clean fuel, and all the way down
-the pipeline, the whole process is green. No pollution. H2 cannot emit
+Fossil companies can generate renewable fuel + carbon capture at the
+source. Once produced, ship this clean fuel, and all the way down the
+pipeline, the whole process is green. No pollution. H2 cannot emit
 carbon at that point bcz there is no carbon in it. H2 pipeline
 transmits clean, FC car uses it, water comes from its exhaust. I mean
 it's comically clean.
