@@ -50,12 +50,9 @@ no CCS at the source.
 
 ---
 
-Fighting climate change is not about "jobs".
-
-It requires choosing the right tech.
-
-Fossil fuels were a tech. Now it will be about a different kind of
-tech.
+Fighting climate change is not about "jobs". It requires choosing the
+right tech. Fossil fuels were a tech. Now it will be about a different
+kind of tech.
 
 ---
 
