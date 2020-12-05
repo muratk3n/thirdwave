@@ -59,13 +59,12 @@ tech.
 
 ---
 
-Ok.. vaccines are on the way, great. But the whole process has been
+Vaccines are on the way, great. But the whole process has been
 excrucitingly slow. Vaccine arrival shld have happened in a few
-months.
-
-Was it bcz of massive privatization of drug development and research?
-Companies excel at capitalizing on research funded by others but
-little slow on the uptake when they have to RD something themselves?
+months. Was it bcz of massive privatization of drug development and
+research?  Companies excel at capitalizing on research funded by
+others but little slow on the uptake when they have to RD something
+themselves?
 
 ---
 
