@@ -6,7 +6,7 @@ gets trashed I dont have to pull from GH from scratch.
 ---
 
 Hah. Received a pull request for my book code stash. Dude just wanted
-to nice TOC. PR Confirmed.
+a nice TOC. PR Confirmed.
 
 ---
 
