@@ -97,7 +97,7 @@ Deep Purple - Rosa's Cantina \#music
 
 ---
 
-Love a good keyboard solo
+Love a good org solo
 
 ---
 
