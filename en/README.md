@@ -25,7 +25,7 @@ much more problematic than carbon storage coming from fossil CCS.
 ---
 
 
-<img width="340" src="https://drive.google.com/uc?export=view&id=1RVNXXoC0GXyLsenRXHSedUzNPLf_HFbC"/>
+<img width="240" src="https://drive.google.com/uc?export=view&id=1RVNXXoC0GXyLsenRXHSedUzNPLf_HFbC"/>
 
 ---
 
