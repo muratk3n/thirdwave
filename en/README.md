@@ -1,8 +1,7 @@
 # Tweets
 
-This stash is massive. It's so frickin huge I keep a zipped backup of
-the .git folder, so if HD gets trashed I dont have to pull from GH
-from scrath.
+This stash is massive. I keep a zipped backup of the `.git` , so if HD
+gets trashed I dont have to pull from GH from scratch.
 
 ---
 
