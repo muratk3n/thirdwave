@@ -89,7 +89,7 @@ same time as they hit cinemas"
 
 ---
 
-nother one, not bad solo 
+nother solo, not bad 
 
 Deep Purple - Rosa's Cantina \#music
 
