@@ -90,7 +90,7 @@ same time as they hit cinemas"
 
 ---
 
-Not bad solo either
+Nother one, not bad solo 
 
 Deep Purple - Rosa's Cantina \#music
 
@@ -98,7 +98,7 @@ Deep Purple - Rosa's Cantina \#music
 
 ---
 
-Love a good keyboard solo \#clarenceWheeler
+Love a good keyboard solo
 
 ---
 
