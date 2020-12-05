@@ -29,6 +29,10 @@ much more problematic than carbon storage coming from fossil CCS.
 
 ---
 
+Oh yeah.. that simulation worked great.
+
+---
+
 Fossil companies can generate renewable fuel + carbon capture at the
 source. Once produced, ship this clean fuel, and all the way down the
 pipeline, the whole process is green. No pollution. H2 cannot emit
