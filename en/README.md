@@ -1,111 +1,111 @@
 # Tweets
 
-
-"Congress Moves to Block Trump's Troop Cuts in Germany.. Congress moved
-to stop President Trump from reducing U.S. troops in Germany, dealing
-a setback to the White House’s attempt to punish the country for its
-modest level of defense spending"
+This stash is massive. It's so frickin huge I keep a zipped backup of
+the .git folder, so if HD gets trashed I dont have to pull from GH
+from scrath.
 
 ---
 
-"Links to leaders in both parties have enabled BlackRock to
-successfully fight designation as a systemically important financial
-institution, keeping its trillions outside the Dodd-Frank regulatory
-perimeter"
-
-[Link](https://prospect.org/api/amp/economy/blackrock-rules-world/)
+Hah. Received a pull request for my book code stash. Dude just wanted
+to nice TOC. PR Confirmed.
 
 ---
 
-"@StevenTDennis
-
-On Senate floor, Senator Cortez Masto says Nevada is bracing for
-250,000-400,000 evictions after moratorium expires"
+Shifted work schedule to fit the lockdown. Weekend is workday.
 
 ---
 
-Medicare for America
-
-"The House Democratic Caucus has elected @rosadelauro as the next
-House Appropriations chair, 148-79"
+Covid wld strenghten EU's hand in Brexit. Whatever econ hit EU can
+get, it can now be rolled into a "Covid recession" in terms of optics.
 
 ---
 
-Breaking down connective tissue takes time. The result = soft
-meat. Works on regular, inexpensive "chuck". Primo.
+I still do not support nuclear bcz waste storage is problematic. Much,
+much more problematic than carbon storage coming from fossil CCS.
 
 ---
 
-I killed it with that stew.. That'll be one awesome dish when it
-comes out of storage. "Low and slow" does it.
+
+<img width="340" src="https://drive.google.com/uc?export=view&id=1RVNXXoC0GXyLsenRXHSedUzNPLf_HFbC"/>
 
 ---
 
-Anoushka Shankar And Karsh Kale - Slither \#music
+Fossil companies can generate renewable fuel + carbon capture **at the
+source**. Once produced, ship this clean fuel, and all the way down
+the pipeline, the whole process is green. No pollution. H2 cannot emit
+carbon at that point bcz there is no carbon in it. H2 pipeline
+transmits clean, FC car uses it, water comes from its exhaust. I mean
+it's comically clean.
 
-[Link](https://youtu.be/2UoK5ERMCyk)
+Fracking still needs to be banned, for other reasons, not simply bcz
+it is fossil. The waste water seeping into the ground, waste of
+potable water, flaring, etc.
 
----
+No support for wildlife refuge drilling.
 
-Monoliths? Who cares?
-
----
-
-Arent nationalist supposed to be more connected to the war of indep?
-
-The main enemy then was the British, but these loser nats now became
-poodles of UK intelligence, if reports are correct.. Isn't that sad?
-
----
-
-They should learn from TR. By now some nationalist corksucker would
-have blown something up, their symphatizers in gov would then blame
-the people who died, jail their movement, subsequently watch
-mainstream politicians tremble in fear, and fall in line like scared
-little bitches.
-
-You have a lot to learn.
+In short, fossil business can be contained, while still generating
+clean energy. The whole network needs to be updated for clean fuel,
+diverse generation methods can provide energy to it. Preferable input
+of course would be cleanest generation possible, e.g. solar, requiring
+no CCS at the source.
 
 ---
 
-Another Israeli election? Hell
+Fighting climate change is not about "jobs".
 
-They are in a funk, and they deserve to be. Too many ethnic divisions,
-foundational issues.. 
+It requires choosing the right tech.
 
----
-
-I'd like to see second, third seasons for shows like *Incorporated*,
-*Terra Nova*. Too bad they were discontinued. So was Trek OS at one
-time BTW.
+Fossil fuels were a tech. Now it will be about a different kind of
+tech.
 
 ---
 
-I guess he was bad at kamikaze
+Ok.. vaccines are on the way, great. But the whole process has been
+excrucitingly slow. Vaccine arrival shld have happened in a few
+months.
 
-😆 😆 😆 Ba dum tss 🥁 
-
-"He Escaped Death as a Kamikaze Pilot. 70 Years Later, He Told His Story"
-
----
-
-"Iran Moves to Increase Nuclear Enrichment After Top Scientist Killed"
+Was it bcz of massive privatization of drug development and research?
+Companies excel at capitalizing on research funded by others but
+little slow on the uptake when they have to RD something themselves?
 
 ---
 
-"Biden says he won't immediately remove Trump's tariffs on China"
+"8/9/1664, New Amsterdam becomes New York..
+
+Dutch Governor Peter Stuyvesant surrenders New Amsterdam, the capital
+of New Netherland, to an English naval squadron under Colonel Richard
+Nicolls. Stuyvesant had hoped to resist the English, but he was an
+unpopular ruler, and his Dutch subjects refused to rally around
+him. Following its capture, New Amsterdam?s name was changed to New
+York, in honor of the Duke of York, who organized the mission"
 
 ---
 
-Alan Hawkshaw - Raver \#music
 
-[Link](https://youtu.be/elB8TpiwLak)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 6 year old brothers teacher asked the class what’s their favorite season and he said garlic powder 😭😭😭😭</p>&mdash; KK🏆 (@kkstaackz_) <a href="https://twitter.com/kkstaackz_/status/1334555515343437824?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Manni Montana - Fishing For Compliments \#music
+"Warner Bros says its 2021 films will be available to stream in US at
+same time as they hit cinemas"
 
-[Link](https://youtu.be/gXWzWriy9QI)
+---
+
+Not bad solo either
+
+Deep Purple - Rosa's Cantina \#music
+
+[Link](https://youtu.be/HVGKElEbl4Y)
+
+---
+
+Love a good keyboard solo \#clarenceWheeler
+
+---
+
+Clarence Wheeler & The Enforcers - Doin' What I Wanna \#music
+
+[Link](https://youtu.be/0CAQLOsWL4Q)
 
 ---
 

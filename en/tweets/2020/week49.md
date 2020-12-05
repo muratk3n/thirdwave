@@ -1,5 +1,114 @@
 # Week 49
 
+
+"Congress Moves to Block Trump's Troop Cuts in Germany.. Congress moved
+to stop President Trump from reducing U.S. troops in Germany, dealing
+a setback to the White House’s attempt to punish the country for its
+modest level of defense spending"
+
+---
+
+"Links to leaders in both parties have enabled BlackRock to
+successfully fight designation as a systemically important financial
+institution, keeping its trillions outside the Dodd-Frank regulatory
+perimeter"
+
+[Link](https://prospect.org/api/amp/economy/blackrock-rules-world/)
+
+---
+
+"@StevenTDennis
+
+On Senate floor, Senator Cortez Masto says Nevada is bracing for
+250,000-400,000 evictions after moratorium expires"
+
+---
+
+Medicare for America
+
+"The House Democratic Caucus has elected @rosadelauro as the next
+House Appropriations chair, 148-79"
+
+---
+
+Breaking down connective tissue takes time. The result = soft
+meat. Works on regular, inexpensive "chuck". Primo.
+
+---
+
+I killed it with that stew.. That'll be one awesome dish when it
+comes out of storage. "Low and slow" does it.
+
+---
+
+Anoushka Shankar And Karsh Kale - Slither \#music
+
+[Link](https://youtu.be/2UoK5ERMCyk)
+
+---
+
+Monoliths? Who cares?
+
+---
+
+Arent nationalist supposed to be more connected to the war of indep?
+
+The main enemy then was the British, but these loser nats now became
+poodles of UK intelligence, if reports are correct.. Isn't that sad?
+
+---
+
+They should learn from TR. By now some nationalist corksucker would
+have blown something up, their symphatizers in gov would then blame
+the people who died, jail their movement, subsequently watch
+mainstream politicians tremble in fear, and fall in line like scared
+little bitches.
+
+You have a lot to learn.
+
+---
+
+Another Israeli election? Hell
+
+They are in a funk, and they deserve to be. Too many ethnic divisions,
+foundational issues.. 
+
+---
+
+I'd like to see second, third seasons for shows like *Incorporated*,
+*Terra Nova*. Too bad they were discontinued. So was Trek OS at one
+time BTW.
+
+---
+
+I guess he was bad at kamikaze
+
+😆 😆 😆 Ba dum tss 🥁 
+
+"He Escaped Death as a Kamikaze Pilot. 70 Years Later, He Told His Story"
+
+---
+
+"Iran Moves to Increase Nuclear Enrichment After Top Scientist Killed"
+
+---
+
+"Biden says he won't immediately remove Trump's tariffs on China"
+
+---
+
+Alan Hawkshaw - Raver \#music
+
+[Link](https://youtu.be/elB8TpiwLak)
+
+---
+
+Manni Montana - Fishing For Compliments \#music
+
+[Link](https://youtu.be/gXWzWriy9QI)
+
+---
+
 "@gabriel_zucman
 
 America has a problem with its bloated prison-law-enforcement system
