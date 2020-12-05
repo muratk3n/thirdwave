@@ -32,15 +32,14 @@ much more problematic than carbon storage coming from fossil CCS.
 Fossil companies can generate renewable fuel + carbon capture at the
 source. Once produced, ship this clean fuel, and all the way down the
 pipeline, the whole process is green. No pollution. H2 cannot emit
-carbon at that point bcz there is no carbon in it. H2 pipeline
-transmits clean, FC car uses it, water comes from its exhaust. I mean
-it's comically clean.
+carbon at that point bcz there is no carbon in it.
 
-Fracking still needs to be banned, for other reasons, not simply bcz
-it is fossil. The waste water seeping into the ground, waste of
-potable water, flaring, etc.
+H2 pipeline transmits clean, FC car uses it, water comes from its
+exhaust. I mean it's comically clean.
 
-No support for wildlife refuge drilling.
+Fracking needs to be banned, for other reasons, not just bcz it's
+fossil. The waste water seeping into the ground, waste of potable
+water, flaring, etc. Same for wildlife refuge drilling.
 
 In short, fossil business can be contained, while still generating
 clean energy. The whole network needs to be updated for clean fuel,
