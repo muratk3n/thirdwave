@@ -1,6 +1,5 @@
 # Tweets
 
-
 "@Cleroth
 
 While the list of services Google offers keeps growing, an alleged
@@ -22,9 +21,15 @@ corporate immunity and nothing for the working class"
 
 ---
 
-Pro debt / anti debt... The right answer depends on the
-party. Oscillation btw the two will lead to an optimal final IMO, in
-the long run..but neither is an illegitimate position. See
+Ergo, neither party should be invited to be lukewarm versions of
+themselves. Oscillation between two ideologically distinct parties
+will lead to a certain optimal result.
+
+---
+
+Pro debt / anti debt... The right answer depends on the (ideologically
+distinct) party. Oscillation btw the two will lead to an optimal final
+IMO, in the long run..but neither is an illegitimate position. See
 [Austerity](2020/07/austerity.md).
 
 ---
