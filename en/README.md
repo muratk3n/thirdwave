@@ -94,8 +94,8 @@ of yesterday, waiting for Berlin’s Godot is finally over"
 ---
 
 Plus what is the charge cycle? How many times can the said "efficient"
-charge/recharge be done? 4000 times? Then what? Recycle the battery
-dealing with all that frickin acid.. No thank you.
+charge/recharge be done? 4000 times? Then what? Recycle the battery,
+having to deal with all that frickin acid.. No thank you.
 
 ---
 
