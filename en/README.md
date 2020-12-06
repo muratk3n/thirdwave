@@ -10,8 +10,8 @@ personally taken a look, I still don't have access to my data"
 
 ---
 
-Bcz back then Dems did not want to help Trump, and now Reps do not
-want to help Biden? 
+Raw politics cld be playing a part.. back then Dems did not want to
+help Trump, and now Reps do not want to help Biden?
 
 "@GunnelsWarren
 
