@@ -1,5 +1,111 @@
 # Week 49
 
+This stash is massive. I keep a zipped backup of the `.git` , so if HD
+gets trashed I dont have to pull from GH from scratch.
+
+---
+
+Hah. Received a pull request for my book code stash. Dude just wanted
+a nice TOC. PR Confirmed.
+
+---
+
+Shifted work schedule to fit the lockdown. Weekend is workday.
+
+---
+
+Covid wld strenghten EU's hand in Brexit. Whatever econ hit EU can
+get, it can now be rolled into a "Covid recession" in terms of optics.
+
+---
+
+I still do not support nuclear bcz waste storage is problematic. Much,
+much more problematic than carbon storage coming from fossil CCS.
+
+---
+
+
+<img width="240" src="https://drive.google.com/uc?export=view&id=1RVNXXoC0GXyLsenRXHSedUzNPLf_HFbC"/>
+
+---
+
+Oh yeah.. that simulation worked great.
+
+---
+
+Fossil companies can generate renewable fuel + carbon capture at the
+source. Once produced, ship this clean fuel, and all the way down the
+pipeline, the whole process is green. No pollution. H2 cannot emit
+carbon at that point bcz there is no carbon in it.
+
+H2 pipeline transmits clean, FC car uses it, water comes from its
+exhaust. I mean it's comically clean.
+
+Fracking needs to be banned, for other reasons, not just bcz it's
+fossil. The waste water seeping into the ground, waste of potable
+water, flaring, etc. Same for wildlife refuge drilling.
+
+In short, fossil business can be contained, while still generating
+clean energy. The whole network needs to be updated for clean fuel,
+diverse generation methods can provide energy to it. Preferable input
+of course would be cleanest generation possible, e.g. solar, requiring
+no CCS at the source.
+
+---
+
+Fighting climate change is not about "jobs". It requires choosing the
+right tech. Fossil fuels were a tech. Now it will be about a different
+kind of tech.
+
+---
+
+Vaccines are on the way, great. But the whole process has been
+excrucitingly slow. Vaccine arrival shld have happened in a few
+months. Was it bcz of massive privatization of drug development and
+research?  Companies excel at capitalizing on research funded by
+others but little slow on the uptake when they have to RD something
+themselves?
+
+---
+
+"8/9/1664, New Amsterdam becomes New York..
+
+Dutch Governor Peter Stuyvesant surrenders New Amsterdam, the capital
+of New Netherland, to an English naval squadron under Colonel Richard
+Nicolls. Stuyvesant had hoped to resist the English, but he was an
+unpopular ruler, and his Dutch subjects refused to rally around
+him. Following its capture, New Amsterdam?s name was changed to New
+York, in honor of the Duke of York, who organized the mission"
+
+---
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 6 year old brothers teacher asked the class what’s their favorite season and he said garlic powder 😭😭😭😭</p>&mdash; KK🏆 (@kkstaackz_) <a href="https://twitter.com/kkstaackz_/status/1334555515343437824?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"Warner Bros says its 2021 films will be available to stream in US at
+same time as they hit cinemas"
+
+---
+
+nother solo, not bad 
+
+Deep Purple - Rosa's Cantina \#music
+
+[Link](https://youtu.be/HVGKElEbl4Y)
+
+---
+
+Love a good org solo
+
+---
+
+Clarence Wheeler & The Enforcers - Doin' What I Wanna \#music
+
+[Link](https://youtu.be/0CAQLOsWL4Q)
+
+---
 
 "Congress Moves to Block Trump's Troop Cuts in Germany.. Congress moved
 to stop President Trump from reducing U.S. troops in Germany, dealing

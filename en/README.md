@@ -1,109 +1,113 @@
 # Tweets
 
-This stash is massive. I keep a zipped backup of the `.git` , so if HD
-gets trashed I dont have to pull from GH from scratch.
+
+"@Cleroth
+
+While the list of services Google offers keeps growing, an alleged
+violation can single-handedly lock you out of all the services. Over a
+month later, multiple closed-without-reply appeals and 2 employees
+personally taken a look, I still don't have access to my data"
 
 ---
 
-Hah. Received a pull request for my book code stash. Dude just wanted
-a nice TOC. PR Confirmed.
+"@GunnelsWarren
+
+We could have had a $1.8 trillion COVID relief bill in October with
+direct payments to the working class to help pay the rent and food. It
+is shameful that we’re being asked to support a 900 billion bill with
+corporate immunity and nothing for the working class"
 
 ---
 
-Shifted work schedule to fit the lockdown. Weekend is workday.
+Pro debt / anti debt... The right answer depends on the
+party. Oscillation btw the two will lead to an optimal final IMO, in
+the long run..but neither is an illegitimate position. See
+[Austerity](2020/07/austerity.md).
 
 ---
 
-Covid wld strenghten EU's hand in Brexit. Whatever econ hit EU can
-get, it can now be rolled into a "Covid recession" in terms of optics.
+There is some good culture / precedent / regulation around DOJ. Like
+Prez cant fire ppl directly but appoint ppl who could, in theory? But
+then those ppl are hemmed in with regulation, which they can change,
+but its hard. POTUS can always fire for refusal of firing others, but
+then you get special persecutors jammed up your ass, by the courtesy
+of Congress.
 
 ---
 
-I still do not support nuclear bcz waste storage is problematic. Much,
-much more problematic than carbon storage coming from fossil CCS.
+US fought a lot with racism, at gov level.. One of the main actions of
+the then new Justice Department late 1800s was persecuting Klan
+members. Lota Klansmen were sent to federal prisons bcz of DOJ.
 
 ---
 
+"NY: Parole decisions are down and denials are up as a deadly pandemic
+slips through the prison bars"
 
-<img width="240" src="https://drive.google.com/uc?export=view&id=1RVNXXoC0GXyLsenRXHSedUzNPLf_HFbC"/>
-
----
-
-Oh yeah.. that simulation worked great.
+[Link](https://twitter.com/tommy_robb/status/1335197442271309827)
 
 ---
 
-Fossil companies can generate renewable fuel + carbon capture at the
-source. Once produced, ship this clean fuel, and all the way down the
-pipeline, the whole process is green. No pollution. H2 cannot emit
-carbon at that point bcz there is no carbon in it.
-
-H2 pipeline transmits clean, FC car uses it, water comes from its
-exhaust. I mean it's comically clean.
-
-Fracking needs to be banned, for other reasons, not just bcz it's
-fossil. The waste water seeping into the ground, waste of potable
-water, flaring, etc. Same for wildlife refuge drilling.
-
-In short, fossil business can be contained, while still generating
-clean energy. The whole network needs to be updated for clean fuel,
-diverse generation methods can provide energy to it. Preferable input
-of course would be cleanest generation possible, e.g. solar, requiring
-no CCS at the source.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our **TOP STORY** this week came from <a href="https://twitter.com/Toyota?ref_src=twsrc%5Etfw">@Toyota</a> with the new Mirai. Targets a 10-Fold Increase in Global Mirai Sales *New <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> stack &amp; <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> mobility *Selling price reduced by 20%-<a href="https://t.co/Uy53Ik9Egd">https://t.co/Uy53Ik9Egd</a> <a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/M90isz3MVK">pic.twitter.com/M90isz3MVK</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1335148656467484674?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Fighting climate change is not about "jobs". It requires choosing the
-right tech. Fossil fuels were a tech. Now it will be about a different
-kind of tech.
+Is there "dignity in work" if the work is made-up work and useless?
+People shld fight for UBI rather than being paid to dig holes and fill
+them back up again.
 
 ---
 
-Vaccines are on the way, great. But the whole process has been
-excrucitingly slow. Vaccine arrival shld have happened in a few
-months. Was it bcz of massive privatization of drug development and
-research?  Companies excel at capitalizing on research funded by
-others but little slow on the uptake when they have to RD something
-themselves?
+Yea go over there stay out of my shite thank you
+
+"@NikkeiAsia
+
+INDO-PACIFIC | THE BRITISH ARE COMING U.K.'s Royal Navy is said to be
+planning a rare excursion to the Western Pacific in early 2021"
 
 ---
 
-"8/9/1664, New Amsterdam becomes New York..
+"@mahmouedgamal44
 
-Dutch Governor Peter Stuyvesant surrenders New Amsterdam, the capital
-of New Netherland, to an English naval squadron under Colonel Richard
-Nicolls. Stuyvesant had hoped to resist the English, but he was an
-unpopular ruler, and his Dutch subjects refused to rally around
-him. Following its capture, New Amsterdam?s name was changed to New
-York, in honor of the Duke of York, who organized the mission"
+Egypt & Greece to sign a joint defense agreement soon As according to
+Greek sources, the two countries are discussing formalization their
+military cooperation through signing a defense agreement similar to
+the one recently signed between Greece & UAE"
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 6 year old brothers teacher asked the class what’s their favorite season and he said garlic powder 😭😭😭😭</p>&mdash; KK🏆 (@kkstaackz_) <a href="https://twitter.com/kkstaackz_/status/1334555515343437824?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"Warner Bros says its 2021 films will be available to stream in US at
-same time as they hit cinemas"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">46 days until 46.</p>&mdash; Biden-Harris Presidential Transition (@Transition46) <a href="https://twitter.com/Transition46/status/1335255724277067783?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-nother solo, not bad 
+Daam..same here. How will it look i wonder. 
 
-Deep Purple - Rosa's Cantina \#music
+"@wnglucroft
 
-[Link](https://youtu.be/HVGKElEbl4Y)
+For more than 11 years I have only ever known the stretch right
+through the middle of Berlin to be a tangled mess of construction. As
+of yesterday, waiting for Berlin’s Godot is finally over"
+
 
 ---
 
-Love a good org solo
+It is too specialized, for one. Widely used systems need to be build
+around agile, common components. Batteries are like that circus monkey
+performing that one trick very well, but we need a Swiss army knife
+not a circus monkey. The animal cld be fine, rare, handles one case
+superbly. But how about many other tasks?
 
----
+We cant ship batteries easily, their energy density is too low. Energy
+needs to be shipped to it. Its misinformed proponents are all about
+"the grid" for this reason. But the grid is inefficient itself, so
+even combined with "efficient" monkey, the whole system is as good as
+fossil.
 
-Clarence Wheeler & The Enforcers - Doin' What I Wanna \#music
+"We'll update the grid", then we have another problem which is not
+enough lithium to go around. Existing reserves can only cover 10% of
+today's storage needs, 1% projected. That is one rare monkey.
 
-[Link](https://youtu.be/0CAQLOsWL4Q)
+"Batteries can store and allow energy retrieval efficiently. What is wrong with that?"
 
 ---
 
