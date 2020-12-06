@@ -39,8 +39,8 @@ of Congress.
 ---
 
 US fought a lot with racism, at gov level.. One of the main actions of
-the then new Justice Department late 1800s was persecuting Klan
-members. Lota Klansmen were sent to federal prisons bcz of DOJ.
+the Justice Department late 1800s was persecuting Klan members. Lota
+Klansmen were sent to federal prisons bcz of DOJ.
 
 ---
 
