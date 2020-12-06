@@ -91,6 +91,11 @@ For more than 11 years I have only ever known the stretch right
 through the middle of Berlin to be a tangled mess of construction. As
 of yesterday, waiting for Berlin’s Godot is finally over"
 
+---
+
+Plus what is the charge cycle? How many times can the said "efficient"
+charge/recharge be done? 4000 times? Then what? Recycle the battery
+dealing with all that frickin acid.. No thank you.
 
 ---
 
