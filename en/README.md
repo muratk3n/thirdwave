@@ -21,6 +21,10 @@ corporate immunity and nothing for the working class"
 
 ---
 
+Wanna deficit spend? Get your ass in office and enact it.
+
+---
+
 Ergo, neither party should be invited to be lukewarm versions of
 themselves. Oscillation between two ideologically distinct parties
 will lead to a certain optimal result.
