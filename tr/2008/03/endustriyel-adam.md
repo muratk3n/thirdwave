@@ -1,6 +1,6 @@
 # Endustriyel Adam
 
-The Third Wave, A. Toffler
+[The Third Wave](../../../en/2008/03/industrial-man-toffler.md), A. Toffler
 
 Bu insan, tarihte kendinden önce gelmiş hemcinslerinden çok farklı bir
 karakterdeydi. O, kendinden öncekilerden değişik olarak artık belli

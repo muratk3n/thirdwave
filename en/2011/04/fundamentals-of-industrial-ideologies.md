@@ -12,6 +12,8 @@
 
 [Centralization](../../2011/03/fundamentals-of-industrial-ideologies_centralization.md)
 
+[Industrial Man](../../2008/03/industrial-man-toffler.md)
+
 [The Integrators](../../2011/03/integrators.md)
 
 [Bureucracy](../../2011/02/bureucracy.md)
