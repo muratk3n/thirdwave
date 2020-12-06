@@ -79,18 +79,11 @@ the one recently signed between Greece & UAE"
 
 ---
 
-
 Plus what is the charge cycle? How many times can the said "efficient"
 charge/recharge be done? 4000 times? Then what? Recycle the battery,
 having to deal with all that frickin acid.. No thank you.
 
 ---
-
-It is too specialized, for one. Widely used systems need to be build
-around agile, common components. Batteries are like that circus monkey
-performing that one trick very well, but we need a Swiss army knife
-not a circus monkey. The animal cld be fine, rare, handles one case
-superbly. But how about many other tasks?
 
 We cant ship batteries easily, their energy density is too low. Energy
 needs to be shipped to it. Its misinformed proponents are all about
@@ -101,6 +94,14 @@ fossil.
 "We'll update the grid", then we have another problem which is not
 enough lithium to go around. Existing reserves can only cover 10% of
 today's storage needs, 1% projected. That is one rare monkey.
+
+---
+
+It is too specialized, for one. Widely used systems need to be build
+around agile, common components. Batteries are like that circus monkey
+performing that one trick very well, but we need a Swiss army knife
+not a circus monkey. The animal cld be fine, rare, handles one case
+superbly. But how about many other tasks?
 
 "Batteries can store and allow energy retrieval efficiently. What is wrong with that?"
 
