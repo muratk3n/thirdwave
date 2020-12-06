@@ -70,7 +70,7 @@ them back up again.
 
 ---
 
-Yea go over there stay out of my shite thank you
+Yea go over there stay out of our shite thank you
 
 "@NikkeiAsia
 
