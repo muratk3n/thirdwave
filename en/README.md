@@ -42,7 +42,7 @@ There is some good culture / precedent / regulation around DOJ. Like
 Prez cant fire ppl directly but appoint ppl who could, in theory? But
 then those ppl are hemmed in with regulation, which they can change,
 but its hard. POTUS can always fire for refusal of firing others, but
-then you get special persecutors jammed up your ass, by the courtesy
+then you get special prosecutors jammed up your ass, by the courtesy
 of Congress.
 
 ---
