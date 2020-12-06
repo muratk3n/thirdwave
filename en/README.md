@@ -79,19 +79,6 @@ the one recently signed between Greece & UAE"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">46 days until 46.</p>&mdash; Biden-Harris Presidential Transition (@Transition46) <a href="https://twitter.com/Transition46/status/1335255724277067783?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Daam..same here. How will it look i wonder. 
-
-"@wnglucroft
-
-For more than 11 years I have only ever known the stretch right
-through the middle of Berlin to be a tangled mess of construction. As
-of yesterday, waiting for Berlin’s Godot is finally over"
-
----
 
 Plus what is the charge cycle? How many times can the said "efficient"
 charge/recharge be done? 4000 times? Then what? Recycle the battery,
@@ -116,6 +103,20 @@ enough lithium to go around. Existing reserves can only cover 10% of
 today's storage needs, 1% projected. That is one rare monkey.
 
 "Batteries can store and allow energy retrieval efficiently. What is wrong with that?"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">46 days until 46.</p>&mdash; Biden-Harris Presidential Transition (@Transition46) <a href="https://twitter.com/Transition46/status/1335255724277067783?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Daam..same here. How will it look i wonder. 
+
+"@wnglucroft
+
+For more than 11 years I have only ever known the stretch right
+through the middle of Berlin to be a tangled mess of construction. As
+of yesterday, waiting for Berlin’s Godot is finally over"
 
 ---
 
