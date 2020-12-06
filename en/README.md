@@ -79,8 +79,8 @@ the one recently signed between Greece & UAE"
 ---
 
 Plus what is the charge cycle? How many times can the said "efficient"
-charge/recharge be done? 4000 times? Then what? Recycle the battery,
-having to deal with all that frickin acid.. No thank you.
+charge/recharge be done? 4000 times? Then what? "Recycle the battery",
+having to deal with all that frickin acid..? No thank you.
 
 ---
 
