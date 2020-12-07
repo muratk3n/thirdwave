@@ -25,7 +25,7 @@ it is never chosen? Or there'd be reg around that too? 🤔
 Oz: new law being discussed, plans to bring some new rules around
 casual work. After some months of doing casual work through a company,
 the company will have to ask a worker whether they want to become
-permanent worker.
+permanent worker or not.
 
 ---
 
