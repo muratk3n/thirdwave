@@ -1,5 +1,25 @@
 # Tweets
 
+Crazy.
+
+U know.. coulda happened in 2020.. and the year aint over yet!
+
+"What If Earth got Kicked Out of the Solar System?"
+
+[Link](https://youtu.be/gLZJlf5rHVs?t=239)
+
+---
+
+"Of 43 U.S. House seats that flipped from Republican to Democratic
+control in the 2018 midterms, 14 flipped back to GOP control in 2020,
+while 29 remained in Democratic hands. Though data is not yet
+complete, there are signs that these districts’ House vote in 2020
+mostly mirrored their vote for president"
+
+[Link](https://www.politifact.com/article/2020/dec/04/what-happened-2018-swing-seats-year/)
+
+---
+
 Even that morose moth..f.ka on CNN, Wolf, has flash, in a morose kind
 a way, u know.. like guy is wooden and that's his thing.. ? Eveybody
 has a thing. Why do you need a thing?
@@ -41,26 +61,6 @@ pixels to form geo constructs. May come in handy.
 Studebaker John and the Hawks - For Lovin' You \#music
 
 [Link](https://youtu.be/h62qB6dnErg)
-
----
-
-Crazy.
-
-U know.. coulda happened in 2020.. and the year aint over yet!
-
-"What If Earth got Kicked Out of the Solar System?"
-
-[Link](https://youtu.be/gLZJlf5rHVs?t=239)
-
----
-
-"Of 43 U.S. House seats that flipped from Republican to Democratic
-control in the 2018 midterms, 14 flipped back to GOP control in 2020,
-while 29 remained in Democratic hands. Though data is not yet
-complete, there are signs that these districts’ House vote in 2020
-mostly mirrored their vote for president"
-
-[Link](https://www.politifact.com/article/2020/dec/04/what-happened-2018-swing-seats-year/)
 
 ---
 
