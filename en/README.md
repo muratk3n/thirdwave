@@ -83,6 +83,18 @@ brutally repetitious operations"
 
 ---
 
+"Hyundai hydrogen fuel-cell system might power French-made Grenadier off-road SUV"
+
+[Link](https://www.greencarreports.com/news/1130420_hyundai-hydrogen-fuel-cell-system-might-power-french-made-grenadier-off-road-suv)
+
+---
+
+"Jim Cramer recommends Linde and Cummins for the future of hydrogen energy"
+
+[Link](https://www.cnbc.com/2020/11/30/jim-cramer-recommends-linde-and-cummins-for-the-future-of-hydrogen-energy.html)
+
+---
+
 That's funny. RIP. I mean the actor.. he passed away few years back I
 believe.. 
 
