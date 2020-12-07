@@ -96,7 +96,7 @@ Dam
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/DteDRD6cbbM?start=41&end=54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" src="https://www.youtube.com/embed/DteDRD6cbbM?start=39&end=54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
