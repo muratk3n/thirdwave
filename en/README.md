@@ -56,8 +56,8 @@ U know.. coulda happened in 2020.. and the year aint over yet!
 
 Toffler, The Third Wave: "Built on the factory model, mass education
 taught basic reading, writing, and arithmetic, a bit of history and
-other subjects. This was the "overt curriculum." But beneath it lay an
-invisible or "covert curriculum" that was far more basic. It
+other subjects. This was the 'overt curriculum.' But beneath it lay an
+invisible or 'covert curriculum' that was far more basic. It
 consisted—and still does in most industrial nations—of three courses:
 one in punctuality, one in obedience, and one in rote, repetitive
 work. Factory labor demanded workers who showed up on time, especially
