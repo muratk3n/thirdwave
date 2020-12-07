@@ -718,3 +718,9 @@ pemmican is buffola meat with berries mixed in.
 "Cant you survive only on meat?"
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---

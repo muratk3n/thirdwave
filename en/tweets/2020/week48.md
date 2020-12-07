@@ -534,3 +534,9 @@ and [here](2017/06/friedman-100-years.md#navies).
 "Joe Biden opposes Russian-German Nord Stream 2 pipeline"
 
 ---
+
+<center>
+<img width="140" src="https://pbs.twimg.com/media/ETZJzIkXgAAEi9Q?format=jpg&name=small"/>
+</center>
+
+---
