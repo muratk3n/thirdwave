@@ -1,8 +1,6 @@
 # Tweets
 
-Crazy.
-
-U know.. coulda happened in 2020.. and the year aint over yet!
+Crazy. U know.. coulda happened in 2020.. and the year aint over yet!
 
 "What If Earth got Kicked Out of the Solar System?"
 
