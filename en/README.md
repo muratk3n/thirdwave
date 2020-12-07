@@ -1,8 +1,8 @@
 # Tweets
 
-Even that morose moth..f.ka Wolf on CNN has flash, in a morose kind a
-way, u know.. like guy is wooden and that's his thing.. ? Eveybody has
-a thing. Why do you need a thing?
+Even that morose moth..f.ka on CNN, Wolf, has flash, in a morose kind
+a way, u know.. like guy is wooden and that's his thing.. ? Eveybody
+has a thing. Why do you need a thing?
 
 ---
 
