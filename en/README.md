@@ -30,7 +30,7 @@ permanent worker or not.
 ---
 
 I took CAD courses.. also Computer Graphics undergr, as in, using raw
-pixels to construct shape constructs. May come in handy.
+pixels to form geo constructs. May come in handy.
 
 ---
 
