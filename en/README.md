@@ -54,6 +54,16 @@ U know.. coulda happened in 2020.. and the year aint over yet!
 
 ---
 
+"Of 43 U.S. House seats that flipped from Republican to Democratic
+control in the 2018 midterms, 14 flipped back to GOP control in 2020,
+while 29 remained in Democratic hands. Though data is not yet
+complete, there are signs that these districts’ House vote in 2020
+mostly mirrored their vote for president"
+
+[Link](https://www.politifact.com/article/2020/dec/04/what-happened-2018-swing-seats-year/)
+
+---
+
 Toffler, The Third Wave: "Built on the factory model, mass education
 taught basic reading, writing, and arithmetic, a bit of history and
 other subjects. This was the 'overt curriculum.' But beneath it lay an
