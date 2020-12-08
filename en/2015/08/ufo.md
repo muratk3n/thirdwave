@@ -30,17 +30,16 @@ descriptions of what people said when they reported the event. One
 sighting was recorded by a Confederate soldier during the Civil
 War. He thought it was a Union balloon but the thing he reported was
 moving too fast for a balloon. He must have thought "those damn
-Yankies and their tech!". I maintained a general skepticism against
-all these reports though; One hypothesis I had was "UFO sightings
-increase with scifi becoming more accessible through media, people
-project their scifi fantasies onto the real world". Then the graph
-should've shown huge increase after the 60s/70s, it did not. There is
-a huge increase, but it is after 1992. What happened that year? Bill
-Clinton is elected as President. I don't know. Did the aliens started
-finding Earth more interesting because of Bill Clinton? Weird. There
-is a drop at 2008 - well, Barack Obama is elected as President. Aliens
-lose interest after this time? Anyway I urge readers the test their
-own hypothesis'.
+Yankies and their tech!". I read all that with a general skepticism;
+One hypothesis I had was "UFO sightings increase with scifi becoming
+more accessible through media, people project their scifi fantasies
+onto the real world". Then the graph should've shown huge increase
+after the 60s/70s, it did not. There is a huge increase, but it is
+after 1992. What happened that year? Bill Clinton is elected as
+President. I don't know. Did the aliens started finding Earth more
+interesting because of Bill Clinton?  Weird. There is a drop at 2008 -
+well, Barack Obama is elected as President. Aliens lose interest after
+this time? Anyway I urge readers the test their own hypothesis'.
 
 Some more of mine: Let's say UFO delusion effects a certain percent of
 the populace, then with more people we'd have more sightings. Then why
