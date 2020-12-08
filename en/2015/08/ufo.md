@@ -39,13 +39,13 @@ after 1992. What happened that year? Bill Clinton is elected as
 President. I don't know. Did the aliens started finding Earth more
 interesting because of Bill Clinton?  Weird. There is a drop at 2008 -
 well, Barack Obama is elected as President. Aliens lose interest after
-this time? Anyway I urge readers the test their own hypothesis'.
-
-Some more of mine: Let's say UFO delusion effects a certain percent of
-the populace, then with more people we'd have more sightings. Then why
-is there a fall after 2008? Or why isn't there an exponential rise (in
-parallel to population growth which is exponential) much earlier than
-1992? Or, if UFO sightings are actually sightings of Air Force weirdo
-toys mistaken for UFOs, then why is there a fall during Reagan years?
-The Gipper would've loved to fund that kind of tech. 
+this time? Joking aside, I urge readers the test their own
+hypothesis'. Some more: Let's say UFO delusion effects a certain
+percent of the population, then with more people we'd have more
+sightings. Then why is there a fall after 2008? Or why isn't there an
+exponential rise (in parallel to population growth which is
+exponential) much earlier than 1992? Or, if UFO sightings are actually
+sightings of Air Force weirdo toys mistaken for UFOs, then why is
+there a fall during Reagan years?  The Gipper would've loved to fund
+that kind of tech.
 
