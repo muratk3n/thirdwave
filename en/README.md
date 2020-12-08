@@ -53,7 +53,7 @@ Lab grown meat.. so stem cells are harvested from cows, muscle stem
 cells multiplies (grown) to trillions, making meat?
 
 Then u still need *some* cows around to harvest stem cells from, but
-not as many cows as we have today? That's a fair trade.
+not as many cows as we have today? That's not bad.
 
 [Link](https://youtu.be/u468xY1T8fw?t=40)
 
