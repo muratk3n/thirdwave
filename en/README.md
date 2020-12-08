@@ -8,11 +8,6 @@ This guy was everywhere.
 
 ---
 
-FLournoy is out? War-mongering freak bitch.. these ppl freak me the
-fuck out.
-
----
-
 That' true. And simple-in-the-small wins over in the long-run, in
 terms of concurrency. Many top supercomputers in the world these days
 use GPUs nowadays. And its funny it all started from the graphics
@@ -40,6 +35,11 @@ adoption of zero-emission cars and trucks. Among other funding areas,
 infrastructure"
 
 [Link](http://www.fchea.org/in-transition/2020/12/7/california-policy-update)
+
+---
+
+Flournoy is out? ... War-mongering freak bitch.. these ppl freak me
+the fuck out.
 
 ---
 
