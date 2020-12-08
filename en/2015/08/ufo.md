@@ -5,7 +5,7 @@ hypothesis
 
 I found a good dataset on UFO reportings, here is some code for a plot.
 
-[Data](https://drive.google.com/open?id=16bC7IoJIE0VDqt2rt9wUW6e4MgLz1Q7w)
+[Data](https://drive.google.com/uc?export=view&id=16bC7IoJIE0VDqt2rt9wUW6e4MgLz1Q7w)
 
 ```
 import pandas as pd, zipfile
