@@ -35,65 +35,30 @@ their new machines, installing them, maintaining them and interacting
 with our fathers. I met a Japanese person at such early age I dont
 even remember how old I was. My father had to travel around the world
 too of course, and always came back with different gizmoz. When I had
-my first computer -a Sinclair ZX- it had Japanese letters on it. More
-on that later. Italians, French, Germans were always around too.
-
-I came to know the manager class intimately, even more so then the
-workers. We lived in the same neighborhood after all. You could see
-how integrational decisions were made, how information flowed, how
-control was exercised. My father was responsible for production (he
-became the 'top dog' in my teens), away from "the corporation", so he
-was away from much office politics, but there was enough of it
-around. I did not have any name for these back then obviously, I just
-subconciously recorded the whole shabang.
+my first computer -a Sinclair ZX- it had Japanese letters on it which
+made me think the product was Japanese. Italians, French, Germans were
+always around too. My father was responsible for production somewhat
+away from "the headquarters", distant to much office politics, but
+there was enough of it around. 
 
 And here is the kicker. When computers were brought in for accounting,
 logistical record keeping, I was right there from day one. I asked my
 father to let me work, so I started helping out. I met a programmer
-for the first time, he used to code in COBOL. We stared at green
-screens and wrote some code. He used to smoke and shake his head to
-the rhytms of the printer as if it was music. He was little odd, but
-not by much. The next programmer I met, a woman, was almost half-mad
-in comparison. She used to flip the bird to offending drivers, and
-code in C. She gave me a book on C. I learned C. Some of my friends
-(children of other managers) worked in the factory in various posts
-during their summer breaks, even as regular workers. I did that too
-for a while, but not as long as my days spent at accounting. That
-seemed to have a different hold on me.
+for the first time, he used to code in COBOL. He used to smoke and
+shake his head to the rhytms of the printer as if it was music. He was
+little odd, but not by much. The next programmer I met, a woman, was
+almost half-mad in comparison. She used to flip the bird to offending
+drivers, and gave me my first book on C. I learned C. Some of my
+friends (children of other managers) worked in the factory in various
+posts during their summer breaks, even as regular workers. I did that
+too for a while, but not as long as my days spent at accounting. 
 
 This is why when many years later when I read The Third Wave, I
-immediately recognized the correctness of its essence. I had already
-made the transition between two waves, from factory to knowledge work
-(I worked in IT consulting for many years, and now research in applied
-math and technology), and the differences, once put in the correct
-theory, were blatantly obvious. The fact that I intimately knew the
-political views of the managerial class also helped immensely, as well
-as being from a country (Turkey) that lived a compressed form of
-industrial transformation of which, our factory could be seen a
-microcosm of. Details as well as tangential issues rang perfectly
-true: When T. called classical music as "industrial", I could recount
-many cases when a native politician talked about the music as a sign
-of modernity and progress, and unlike most, having seen a factory
-floor up and close I saw the parallels down to the central coordinator
-at the top. I had instinctively hated the music without knowing why,
-and later ended up listening to rock and jazz, eventually playing both
-in various bands.
+immediately recognized the correctness of its essence. I saw the two
+waves, from factory to knowledge work (I worked in IT consulting for
+many years, and now research in applied math and technology), How
+people organize, do work, manage, in both sides of the two waves were
+truly different.  
 
-How people organize, do work, manage, in both sides of the two waves
-were truly different; I lived through countless methods, projects
-trying to replicate "old style" management in software and failing,
-and finally leading projects using agile methods and succeeding.
 
-I saw how technology was applied for production, and how it was
-closed. Later I ended up working with open technology and saw it
-producing amazing results, leaps and bounds beyond what can be done
-using closed styles. Earlier days in my career, I used to look for
-standards (as well as everyone else), now IT sector thrives on
-de-facto standards. In the plant, it was all about standards.
-
-I wrestled with many of these issues, in life, culture, work, without
-knowing why -- when I was in shorts. Now I still do, but I have better
-names for them.
-
-Thanks to my years spent in a factory.
 

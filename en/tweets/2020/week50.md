@@ -77,7 +77,7 @@ brutally repetitious operations"
 
 ---
 
-[The Industrial Man](2008/03/industrial-man-toffler.md)
+[The Industrial Man](../../2008/03/industrial-man-toffler.md)
 
 ---
 
@@ -148,7 +148,7 @@ corporate immunity and nothing for the working class"
 Pro debt / anti debt... The right answer depends on the (ideologically
 distinct) party. Oscillation btw the two will lead to an optimal final
 IMO, in the long run..but neither is an illegitimate position. See
-[Austerity](2020/07/austerity.md).
+[Austerity](../../2020/07/austerity.md).
 
 ---
 

@@ -281,7 +281,7 @@ Biden administration"
 ---
 
 Institutional left lost a lot of ground in the near past, and we were
-all worse for it.. See [link](2019/08/focus-group-democracy.md).
+all worse for it.. See [link](../../2019/08/focus-group-democracy.md).
 
 ---
 
@@ -336,7 +336,7 @@ NVidia stock price then was around 30s.. Now it is over 500.
 Why are GPUs (as oppose to CPUs) so popular? They bring you
 parallelism on the cheap... It is getting harder to have single CPUs
 to go faster, but running things in parallel, w cheap GPUs (with many
-"cores") is possible -- first blogged [here](2014/12/q-1012.md). An
+"cores") is possible -- first blogged [here](../../2014/12/q-1012.md). An
 entry-level NVidia GTX 1050 GPU has 640 cores. Insane.
 
 ---
@@ -566,7 +566,7 @@ Budget Committee ranking/chair"
 
 ---
 
-*The Nordic Theory of Everything* book [opens](2017/08/the-nordic-theory-of-everything.md)
+*The Nordic Theory of Everything* book [opens](../../2017/08/the-nordic-theory-of-everything.md)
 with Clinton introducing Finland President Halonen, praising the country
 for its .. leftists ways 😶. BC atoning for some of his sins.,? Democrat Prez
 is a Democrat Prez, cant help but feel bad for some of the shit that went
