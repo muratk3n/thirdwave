@@ -10,8 +10,7 @@ Feynman.. This guy was everywhere.
 
 That' true. And simple-in-the-small wins over in the long-run, in
 terms of concurrency. Many top supercomputers in the world these days
-use GPUs nowadays. And its funny it all started from the graphics
-community.
+use GPUs. And its funny it all started from the graphics community.
 
 "GPUs and CPUs are architecturally very different devices. CPUs are
 designed for running a small number of potentially quite complex
