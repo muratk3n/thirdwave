@@ -4,7 +4,7 @@
 Haha.. they say architecturally the GPU borrows ideas from the
 Connection Machine of 80s. I'll always remember CM through Feynman's
 involvement [in it](https://longnow.org/essays/richard-feynman-connection-machine/).
-This guy was everywhere.
+Feynman.. This guy was everywhere.
 
 ---
 
