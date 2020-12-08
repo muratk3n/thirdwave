@@ -37,8 +37,9 @@ infrastructure"
 
 ---
 
-Flournoy is out? ... War-mongering freak bitch.. these ppl freak me
-the fuck out.
+Flournoy is out? 
+
+War-mongering freak bitch.. these ppl freak me the fuck out.
 
 ---
 
