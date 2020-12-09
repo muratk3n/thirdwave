@@ -40,8 +40,8 @@ fields for whatever.
 
 Maybe 1 shld see these products as moonshots; experiments, trials
 rather than essential items. That is the conandrum for many products
-spit out by capitalists tho, sometimes the prod itself isnt enough,
-one must create the need for them. 
+spit out by capitalists tho, sometimes simply producing stuff isnt
+enough, one must create the need for them.
 
 ---
 
