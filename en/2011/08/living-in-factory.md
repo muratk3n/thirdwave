@@ -50,15 +50,4 @@ little odd, but not by much. The next programmer I met, a woman, was
 almost half-mad in comparison. She used to flip the bird to offending
 drivers, and gave me my first book on C. I learned C. Some of my
 friends (children of other managers) worked in the factory in various
-posts during their summer breaks, even as regular workers. I did that
-too for a while, but not as long as my days spent at accounting. 
-
-This is why when many years later when I read The Third Wave, I
-immediately recognized the correctness of its essence. I saw the two
-waves, from factory to knowledge work (I worked in IT consulting for
-many years, and now research in applied math and technology), How
-people organize, do work, manage, in both sides of the two waves were
-truly different.  
-
-
-
+posts during their summer breaks, even as regular workers.
