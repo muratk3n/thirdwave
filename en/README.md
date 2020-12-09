@@ -1,113 +1,123 @@
 # Tweets
 
+Janko Nilovic - Crazy Enterprise \#music
 
-Haha.. they say architecturally the GPU borrows ideas from the
-Connection Machine of 80s. I'll always remember CM through Feynman's
-involvement [in it](https://longnow.org/essays/richard-feynman-connection-machine/).
-Feynman.. This guy was everywhere.
+[Link](https://youtu.be/QIskvCnSBE4)
 
 ---
 
-That' true. And simple-in-the-small wins over in the long-run, in
-terms of concurrency. Many top supercomputers in the world these days
-use GPUs. And its funny it all started from the graphics community.
+"@CaFCP
 
-"GPUs and CPUs are architecturally very different devices. CPUs are
-designed for running a small number of potentially quite complex
-tasks. GPUs are designed for running a large number of quite simple
-tasks"
+Ahead of its business meeting, the California Energy Commission
+released its First Revised Notice of Proposed Awards (GFO 19-602) for
+passenger vehicle hydrogen stations. 114 stations are recommended for
+approval"
 
 ---
 
-I never discounted the possibility, [see UFOs](2015/08/ufo.md).
+"@JoeBiden
 
-"Former Israeli space security chief says aliens exist, humanity not ready"
-
-[Link](https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405)
-
----
-
-"In October, the [California Energy Commission] CEC approved a $384
-million plan focused on clean transportation investments to boost the
-adoption of zero-emission cars and trucks. Among other funding areas,
-70 million was specifically set aside for hydrogen refueling
-infrastructure"
-
-[Link](http://www.fchea.org/in-transition/2020/12/7/california-policy-update)
+Today, the Trump Administration officially left the Paris Climate
+Agreement. And in exactly 77 days, a Biden Administration will rejoin
+it"
 
 ---
 
-Flournoy is out? 
-
-War-mongering freak bitch.. these ppl freak me the fuck out.
-
----
-
-"Price of lab-grown meat to plummet from $280,000 to 10 per patty by
-2021"
-
-[Link](ttps://vegnews.com/2019/7/price-of-lab-grown-meat-to-plummet-from-280000-to-10-per-patty-by-2021)
+The apocalptic scenes in *Oblivion* look great. Cruise played in some
+good scifi. 
 
 ---
 
-Lab grown meat.. so stem cells are harvested from cows, muscle stem
-cells multiplies (grown) to trillions, making meat?
-
-Then u still need *some* cows around to harvest stem cells from, but
-not as many cows as we have today? That's not bad.
-
-[Link](https://youtu.be/u468xY1T8fw?t=40)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Vaccines were &quot;developed thanks wholly or partly to taxpayer money. Those vaccines essentially belong to the people,&quot; say Achal Prabhala, <a href="https://twitter.com/arjun_jayadev?ref_src=twsrc%5Etfw">@arjun_jayadev</a>, <a href="https://twitter.com/DeanBaker13?ref_src=twsrc%5Etfw">@DeanBaker13</a>. Yet people won&#39;t get them fast enough. <a href="https://t.co/q2xPo4DQ1Q">https://t.co/q2xPo4DQ1Q</a></p>&mdash; Joseph E. Stiglitz (@JosephEStiglitz) <a href="https://twitter.com/JosephEStiglitz/status/1336333740386078728?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-thats lota cheese dam girl
+If there are less of them maybe the remaining ones wont fucking burn
+fields for whatever.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I ate an entire bag of shredded cheese as lunch from the grocery store between calls. How’s your day?</p>&mdash; Lindsey Boylan (@LindseyBoylan) <a href="https://twitter.com/LindseyBoylan/status/1336032809136361477?ref_src=twsrc%5Etfw">December 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@bluestein
-
-It’s over. Again. Georgia Secretary of State Brad Raffensperger says
-he will announce today that he will recertify the election results for
-Joe Biden after three separate counts of roughly 5M ballots"
+"Farmers protest across India against Modi's liberalisation"
 
 ---
 
-"On December 3, 2020, the House and Senate Armed Services Committees
-completed their conference on the Fiscal Year 2021 National Defense
-Authorization Act. We read all 4,517 pages so you don’t have to. The
-Act includes numerous important sections on Asia. One of the most
-notable is the the creation of a Pacific Deterrence Initiative
-(Sec. 1251), which aims to bolster deterrence against China while also
-reassuring allies and partners. But there are many other provisions
-Asia watchers should note, including sections related to U.S. regional
-strategy, Asian alliances, and competition with China across a variety
-of departments and agencies"
-
-[Link](https://www.aei.org/multimedia/key-provisions-on-asia-in-the-national-defense-authorization-act/)
+Maybe 1 shld see these products as moonshots; experiments, trials
+rather than essential items. That is the conandrum for many products
+spit out by capitalists tho, sometimes the prod itself isnt enough,
+one must create the need for them. 
 
 ---
 
-"Australia enjoyed plenty of advantages over the United States in
-containing Covid-19. It has no land borders to speak of. Its
-population density is very low ... So they went big. The state’s
-roadmap largely followed a policy proposal laid out in September by
-the Grattan Institute (a nonprofit think tank supported by the state
-and federal governments): 'Go for zero.' ...
-
-'Ideally, lockdowns are only done once and done well,' the proposal’s
-authors, Stephen Duckett and Will Mackey, explained. 'The benefit of
-zero is to reduce the risk of ‘yo-yoing’ between virus flare-ups and
-further lockdowns to contain them.'”
-
-[Link](https://www.vox.com/platform/amp/2020/12/4/22151242/melbourne-victoria-australia-covid-19-cases-lockdown?__twitter_impression=true)
+It's weird when I had to do food conserving, the simplest veg/meat
+cook/save method worked for me; But I [grew
+up](2011/08/living-in-factory.md) around a plant whose sole purpose
+was turning out products to conserve food... Wouldn't I just buy one
+of them? What does that say about capitalism? 
 
 ---
 
-Bacao Rhythm & Steel Band - Bacao Suave \#music
+"The world’s biggest 'green' hydrogen developers have joined forces in
+what they call the Green Hydrogen Catapult.
 
-[Link](https://youtu.be/nfujSxgxKQg)
+Their ambition is to expand production 50-fold in less than six years
+to radically drive down the cost"
+
+[Link](https://www.bbc.co.uk/news/amp/business-55218573)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> News! 📰 <a href="https://twitter.com/EverfuelEU?ref_src=twsrc%5Etfw">@EverfuelEU</a> and <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> will jointly develop the market for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> as a <a href="https://twitter.com/hashtag/fuel?src=hash&amp;ref_src=twsrc%5Etfw">#fuel</a> targeting retail and road <a href="https://twitter.com/hashtag/transport?src=hash&amp;ref_src=twsrc%5Etfw">#transport</a> customers in <a href="https://twitter.com/hashtag/Norway?src=hash&amp;ref_src=twsrc%5Etfw">#Norway</a>. 🇳🇴 <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/Industry4Europe?ref_src=twsrc%5Etfw">@Industry4Europe</a> <a href="https://twitter.com/Breakthrough?ref_src=twsrc%5Etfw">@Breakthrough</a> <br>👉 <a href="https://t.co/QfKjMMZoHb">https://t.co/QfKjMMZoHb</a> <a href="https://t.co/bCqcpcEg5T">pic.twitter.com/bCqcpcEg5T</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1336218968231559168?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Johnny Cash - Get Rhythym (Philip Steir Remix) \#music
+
+[Link](https://youtu.be/UDv5C2Lyi3E)
+
+---
+
+"@ZaidJilani
+
+Well yes people do sometimes say things that are wrong, that is part
+of speaking freely. For instance, the New Yorker publishing mountains
+of material making the case for a war with Iraq on false pretenses.
+
+>@tomselliott
+>
+>The New Yorker's @SteveCollNY suggests Mark Zuckerberg's "profound"
+>support of free speech is problematic: "Those of us in journalism have
+>to come to terms with the fact that free speech, a principle that we
+>hold sacred, is being weaponized against the principles of
+>journalism."
+"
+
+---
+
+Just saw Bernie on CNN talking similarly.
+
+
+"The current negotiations are focused on a $908 billion bipartisan plan
+that includes more money for small businesses, additional federal
+unemployment benefits and money for testing, vaccine distribution and
+schools. Republican leaders have insisted that any coronavirus bill be
+limited in scope, but Sen. Josh Hawley, R-Mo., told reporters this
+week that he is urging President Trump to veto any bill that doesn't
+include checks for individual Americans. 'I continue to be flummoxed
+as to why there aren't any direct payments on it'"
+
+[Link](https://www.npr.org/sections/coronavirus-live-updates/2020/12/08/944199072/democrats-and-some-republicans-push-to-add-stimulus-checks-to-covid-19-relief-bi)
+
+---
+
+Dunno what'll happen in the future, but Biden was against the 2011
+intervention in Libya, which subsequently became "a shitshow", (as
+admitted by Obama himself). Then SecDef talks started for 2020 and ppl
+kept saying it'll definitely be the freako biatch. In fact I'd hear
+"everyone's post is up in air *except Flournoy*". Man I saw that in so
+many places, u r like 'well shit, this coronation is pre-ordained' no
+point in discuss.. Then all of a sudden it's not Flournoy, one of the
+ppl who convinved Obama on Libya. Is this the reason, dunno. But it is
+something...
+
+"Biden threw in his lot with war mongerers"
 
 ---
 
