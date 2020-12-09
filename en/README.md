@@ -112,7 +112,8 @@ definitely be the freako biah. In fact I'd hear "everyone's post is up
 in air *except Flournoy*". Man I saw that in so many places, u r like
 'well shit, this coronation is pre-ordained' no point in
 discuss.. Then all of a sudden it's not Flournoy, one of the ppl who
-convinved Obama on Libya. Was Libya the the reason? Maybe.
+convinved Obama on Libya. Was Libya the the reason? Maybe. Future who
+knows? 
 
 "Biden threw in his lot with war mongerers"
 
