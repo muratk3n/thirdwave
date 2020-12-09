@@ -50,4 +50,4 @@ little odd, but not by much. The next programmer I met, a woman, was
 almost half-mad in comparison. She used to flip the bird to offending
 drivers, and gave me my first book on C. I learned C. Some of my
 friends (children of other managers) worked in the factory in various
-posts during their summer breaks, even as regular workers.
+posts during their summer breaks, even as regular workers. 
