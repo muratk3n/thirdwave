@@ -23,8 +23,7 @@ it"
 
 ---
 
-The apocalptic scenes in *Oblivion* look great. Cruise played in some
-good scifi. 
+The apocalptic scenes in *Oblivion* look great. . 
 
 ---
 
