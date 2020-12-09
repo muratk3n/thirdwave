@@ -105,14 +105,14 @@ as to why there aren't any direct payments on it'"
 
 ---
 
-Dunno what'll happen in the future, but Biden was against the 2011
-intervention in Libya, which subsequently became "a shitshow", (as
-admitted by Obama himself). Then SecDef talks started for 2020 and ppl
-kept saying it'll definitely be the freako biah. In fact I'd hear
-"everyone's post is up in air *except Flournoy*". Man I saw that in so
-many places, u r like 'well shit, this coronation is pre-ordained' no
-point in discuss.. Then all of a sudden it's not Flournoy, one of the
-ppl who convinved Obama on Libya. Was Libya the the reason? Maybe. 
+AFAIK Biden was against the 2011 intervention in Libya, which
+subsequently became "a shitshow", (as admitted by Obama himself). Fast
+forward to now SecDef talks started for 2020 and ppl kept saying it'll
+definitely be the freako biah. In fact I'd hear "everyone's post is up
+in air *except Flournoy*". Man I saw that in so many places, u r like
+'well shit, this coronation is pre-ordained' no point in
+discuss.. Then all of a sudden it's not Flournoy, one of the ppl who
+convinved Obama on Libya. Was Libya the the reason? Maybe.
 
 "Biden threw in his lot with war mongerers"
 
