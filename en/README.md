@@ -6,12 +6,10 @@ California with that one.
 ---
 
 Saw a note for a conf call at with potentially participants from all
-over the world.
-
-What is the optimal global time for a global call I wonder... 🤔 For
-each optimal time the worst case is always the guy on the oppo side of
-the globe, but that big swath of Pacific u can ignore, then 15:00
-UTC+0 is good..? 10:00 AM for US East, 7:00 AM West, 12:00 PM Japan.
+over the world. What is the optimal time for a global call... 🤔 For
+each time pick worst case is always the guy on the oppo side of the
+globe, but that big swath of Pacific u can ignore, then 15:00 UTC+0 is
+good..? 10:00 AM for US East, 7:00 AM West, 12:00 PM Japan.
 
 ---
 
