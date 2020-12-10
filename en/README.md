@@ -83,9 +83,9 @@ Lucky Luke was created by a Belgian?
 
 ---
 
-It's a freak ideology, has zero chance of getting traction, if things
-are not going very bad (anything-goes environments). Pro biz small gov
-is the best they can hope for ala the Tea Party.
+It's a freak ideology, has zero chance of getting traction, unless
+things are not going very bad (anything-goes environments). Pro biz
+small gov is the best they can hope for ala the Tea Party.
 
 "@EricLevitz
 
