@@ -1,121 +1,95 @@
 # Tweets
 
-Janko Nilovic - Crazy Enterprise \#music
-
-[Link](https://youtu.be/QIskvCnSBE4)
-
----
-
-"@CaFCP
-
-Ahead of its business meeting, the California Energy Commission
-released its First Revised Notice of Proposed Awards (GFO 19-602) for
-passenger vehicle hydrogen stations. 114 stations are recommended for
-approval"
+This call was for 12:00 UTC. They really flipped the bird to
+California with that one.
 
 ---
 
-"@JoeBiden
+Saw a note for a conf call at with potentially participants from all
+over the world.
 
-Today, the Trump Administration officially left the Paris Climate
-Agreement. And in exactly 77 days, a Biden Administration will rejoin
-it"
-
----
-
-The apocalptic scenes in *Oblivion* look great. . 
+What is the optimal global time for a global call I wonder... 🤔 For
+each optimal time the worst case is always the guy on the oppo side of
+the globe, but that big swath of Pacific u can ignore, then 15:00
+UTC+0 is good..? 10:00 AM for US East, 7:00 AM West, 12:00 PM Japan.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Vaccines were &quot;developed thanks wholly or partly to taxpayer money. Those vaccines essentially belong to the people,&quot; say Achal Prabhala, <a href="https://twitter.com/arjun_jayadev?ref_src=twsrc%5Etfw">@arjun_jayadev</a>, <a href="https://twitter.com/DeanBaker13?ref_src=twsrc%5Etfw">@DeanBaker13</a>. Yet people won&#39;t get them fast enough. <a href="https://t.co/q2xPo4DQ1Q">https://t.co/q2xPo4DQ1Q</a></p>&mdash; Joseph E. Stiglitz (@JosephEStiglitz) <a href="https://twitter.com/JosephEStiglitz/status/1336333740386078728?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tony Blair said a while back "[the EU] will never give a Brexiter
+government a good deal". He is right. I dont think the dynamics around
+that changed no matter how many marketing tricks UK employs or uses
+its "Otto poodles" to create annoyance.
 
 ---
 
-If there are less of them maybe the remaining ones wont fucking burn
-fields for whatever.
-
-"Farmers protest across India against Modi's liberalisation"
+DW host is right, talks were "frank" is diplomatic talk for "dust up".
 
 ---
 
-Maybe 1 shld see these products as moonshots; experiments, trials
-rather than essential items. That is the conandrum for many products
-spit out by capitalists tho, sometimes simply producing stuff isnt
-enough, one must create the need for them.
+That's great, I like more ppl owning up to the label. 
+
+"@LVozzella
+
+Virginia lawmaker, a self-proclaimed socialist, files paperwork for
+gubernatorial bid"
 
 ---
 
-It's weird when I had to do food conserving, the simplest veg/meat
-cook/save method worked for me; But I [grew up](2011/08/living-in-factory.md)
-around a plant whose sole purpose was turning out products to conserve food...
-Wouldn't I just buy one of them? What does that say about capitalism? 
+"The Next War Against A Public Option Is Starting.. Tax records
+reviewed by The Daily Poster show a health care industry front group
+run by a former Hillary Clinton aide has amassed millions to block a
+public health insurance option"
+
+[Link](https://www.dailyposter.com/p/the-next-war-against-a-public-option)
 
 ---
 
-"The world’s biggest 'green' hydrogen developers have joined forces in
-what they call the Green Hydrogen Catapult.
+"@APLU_News
 
-Their ambition is to expand production 50-fold in less than six years
-to radically drive down the cost"
-
-[Link](https://www.bbc.co.uk/news/amp/business-55218573)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> News! 📰 <a href="https://twitter.com/EverfuelEU?ref_src=twsrc%5Etfw">@EverfuelEU</a> and <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> will jointly develop the market for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> as a <a href="https://twitter.com/hashtag/fuel?src=hash&amp;ref_src=twsrc%5Etfw">#fuel</a> targeting retail and road <a href="https://twitter.com/hashtag/transport?src=hash&amp;ref_src=twsrc%5Etfw">#transport</a> customers in <a href="https://twitter.com/hashtag/Norway?src=hash&amp;ref_src=twsrc%5Etfw">#Norway</a>. 🇳🇴 <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/Industry4Europe?ref_src=twsrc%5Etfw">@Industry4Europe</a> <a href="https://twitter.com/Breakthrough?ref_src=twsrc%5Etfw">@Breakthrough</a> <br>👉 <a href="https://t.co/QfKjMMZoHb">https://t.co/QfKjMMZoHb</a> <a href="https://t.co/bCqcpcEg5T">pic.twitter.com/bCqcpcEg5T</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1336218968231559168?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+.@protiumaero is developing a new class of lightweight liquid hydrogen
+fuel tanks based off @wsuhydrogen @wsuvoiland research. The tank makes
+hydrogen more accessible as an everyday fuel source and reduces energy
+emissions"
 
 ---
 
-Johnny Cash - Get Rhythym (Philip Steir Remix) \#music
+Shinzoi Abe Lincoln
 
-[Link](https://youtu.be/UDv5C2Lyi3E)
-
----
-
-"@ZaidJilani
-
-Well yes people do sometimes say things that are wrong, that is part
-of speaking freely. For instance, the New Yorker publishing mountains
-of material making the case for a war with Iraq on false pretenses.
-
->@tomselliott
->
->The New Yorker's @SteveCollNY suggests Mark Zuckerberg's "profound"
->support of free speech is problematic: "Those of us in journalism have
->to come to terms with the fact that free speech, a principle that we
->hold sacred, is being weaponized against the principles of
->journalism."
-"
+<img width="180" src="https://pbs.twimg.com/media/Ecl-mD6VcAA0HBG.jpg"/>
 
 ---
 
-Just saw Bernie on CNN talking similarly.
+Abe is obviously out of office but his gov wld have asked him to visit
+as an elder stateman and that cld be significant.
 
+"@DerekJGrossman
 
-"The current negotiations are focused on a $908 billion bipartisan plan
-that includes more money for small businesses, additional federal
-unemployment benefits and money for testing, vaccine distribution and
-schools. Republican leaders have insisted that any coronavirus bill be
-limited in scope, but Sen. Josh Hawley, R-Mo., told reporters this
-week that he is urging President Trump to veto any bill that doesn't
-include checks for individual Americans. 'I continue to be flummoxed
-as to why there aren't any direct payments on it'"
+This should be interesting.
 
-[Link](https://www.npr.org/sections/coronavirus-live-updates/2020/12/08/944199072/democrats-and-some-republicans-push-to-add-stimulus-checks-to-covid-19-relief-bi)
+'Shinzo Abe intends to visit Taiwan next year.. Taiwan's Legislative
+Yuan reveals possible Abe visit next year'"
+
+[Link](https://twitter.com/DerekJGrossman/status/1336753705610166272)
 
 ---
 
-AFAIK Biden was against the 2011 intervention in Libya, which
-subsequently became "a shitshow", (as admitted by Obama himself). Fast
-forward to now SecDef talks started for 2020 and ppl kept saying it'll
-definitely be the freako biah. In fact I'd hear "everyone's post is up
-in air *except Flournoy*". Man I saw that in so many places, u r like
-'well shit, this coronation is pre-ordained' no point in
-discuss.. Then all of a sudden it's not Flournoy, one of the ppl who
-convinved Obama on Libya. Was Libya the the reason? Maybe. Future who
-knows? 
+Lucky Luke was created by a Belgian? 
 
-"Biden threw in his lot with war mongerers"
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have an idea for the future of food?<br><br>Submit it on UpLink: <a href="https://t.co/0VTHK758GL">https://t.co/0VTHK758GL</a><a href="https://twitter.com/WEFUpLink?ref_src=twsrc%5Etfw">@WEFUpLink</a> <a href="https://t.co/AnGcKIkTs9">pic.twitter.com/AnGcKIkTs9</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/1334603317968850944?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+It's a freak ideology, has zero chance of getting traction, if things
+are not going very bad (anything-goes environments). Pro biz small gov
+is the best they can hope for ala the Tea Party.
+
+"@EricLevitz
+
+The intellectual vanguard of "pro-worker conservatism" at @AmerCompass
+has a (relatively) coherent and politically promising vision for
+reform — and little hope of getting the GOP to adopt it"
 
 ---
 
