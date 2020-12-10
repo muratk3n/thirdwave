@@ -18,7 +18,7 @@ UTC+0 is good..? 10:00 AM for US East, 7:00 AM West, 12:00 PM Japan.
 Tony Blair said a while back "[the EU] will never give a Brexiter
 government a good deal". He is right. I dont think the dynamics around
 that changed no matter how many marketing tricks UK employs or uses
-its "Otto poodles" to create annoyance.
+its "Otto poodles", so called "Turks" to create annoyance.
 
 ---
 
