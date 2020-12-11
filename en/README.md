@@ -26,9 +26,9 @@ this makes synchronization harder to achieve"
 
 ---
 
-Made PR on Github it got merged, after brief discussion on it on GH,
-all async, I dont know where this person is, but it all came together
-splendidly. All sync'd and a repo has new code.
+Made a PR on Github, it got merged, after brief discussion on it on
+GH, all async, I dont know where this person is, but it all came
+together splendidly. All sync'd and a repo has new code.
 
 ---
 
