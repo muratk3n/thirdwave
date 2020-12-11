@@ -32,8 +32,6 @@ başlar.
 
 [Askerlik](/2007/08/askerlik.md)
 
-[Doğu](/2009/09/dogu.md)
-
 [Eğitim](/2018/10/egitim.md)
 
 [Fişleme](/2018/12/fisleme.html)

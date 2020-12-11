@@ -370,10 +370,6 @@
 
 [Almanya ve Sol](09/almanya-ve-sol.md)
 
-[Anlamayanlara](09/anlamayanlara.md)
-
-[Aşiret Alayları](09/asiret-alaylari.md)
-
 [Asiri Hiz](09/asiri-hiz.md)
 
 [Biyonik Goz](09/biyonik-goz.md)
@@ -384,15 +380,9 @@
 
 [CHP](09/chp.md)
 
-[Dengeler](09/dengeler.md)
-
-[Dogu, Ermeniler, Kurtler, Osmanli](09/dogu.md)
-
-[Hamidiye](09/hamidiye.md)
+[Ermeniler, Kürtler](09/ermeniler-kurtler.md)
 
 [Krugman ve Cochrane](09/krugman-ve-cochrane.md)
-
-[Kürt Bölgeleri](09/kurt-bolgeleri.md)
 
 [Linkendavarismus](09/linkendavarismus.md)
 

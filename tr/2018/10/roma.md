@@ -12,3 +12,5 @@
 
 [Barbarlar](../../2010/08/barbarlar.md)
 
+[Ermeniler, Kurtler](../../2009/09/ermeniler-kurtler.md)
+

@@ -42,6 +42,8 @@
 
 [People Love Craigslist](08/people-love-craigslist.md)
 
+[Armenians, Kurds](09/armenians-kurds.md)
+
 [Would You Bet Your Life?](10/would-you-bet-your-life.md)
 
 [NCIS Wisdom](11/ncis-wisdom.md)
