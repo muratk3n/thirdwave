@@ -12,6 +12,8 @@
 
 [Kurds in Anatolia](../../2020/07/kurds-anatolia.md)
 
+[Armenians, Kurds](../../2009/09/armenians-kurds.md)
+
 [Rome by Rifkin](../../2020/07/rome-rifkin.md)
 
 [Foragers, Farmers by Morris](../../2017/10/foragers-farmers-morris.md)
