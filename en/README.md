@@ -61,7 +61,7 @@ energy to keep it in that speed.
 ---
 
 Good news is it'll probably take less energy for that spin than on
-Earth, especially once it starts rotating...
+Earth
 
 "A Stanford torus, a donut-shaped tube 430 feet thick with a diameter
 spanning 1.1 miles, spins once per minute to produce its gravity"
