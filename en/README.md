@@ -50,19 +50,19 @@ stiff upper lip, more relaxed demeanor, but still reeegal.
 
 ---
 
+"Disney is methodically building movies and shows off its own
+intellectual property and then using hit characters to introduce new
+ones...  The company’s stock closed up 13.6% on Friday after briefly
+hitting an all-time high"
+
+---
+
 WarnerMedia generated more than $9.2 billion in revenue in 2018..?
 Enter the streaming wars...
 
 "Netflix reached another financial milestone at the end of 2019. The
 streaming giant’s latest earnings report revealed the company
 generated more than US$20 billion in sales"
-
----
-
-"Disney is methodically building movies and shows off its own
-intellectual property and then using hit characters to introduce new
-ones...  The company’s stock closed up 13.6% on Friday after briefly
-hitting an all-time high"
 
 ---
 
