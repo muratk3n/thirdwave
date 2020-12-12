@@ -70,8 +70,7 @@ generated more than US$20 billion in sales"
 
 Good stuff
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Geodesics are like straight lines, or locally-shortest paths along a shape. Our algorithm takes a path along the edges of a mesh, and &quot;pulls it tight&quot; to an exact geodesic. (2/N) <a href="https://t.co/E1XZNP8trY">pic.twitter.com/E1XZNP8trY</a></p>&mdash; Nick Sharp (@nmwsharp) <a href="https://twitter.com/nmwsharp/status/1337492965720268801?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Geodesics are like straight lines, or locally-shortest paths along a shape. Our algorithm takes a path along the edges of a mesh, and &quot;pulls it tight&quot; to an exact geodesic. (2/N) <a href="https://t.co/E1XZNP8trY">pic.twitter.com/E1XZNP8trY</a></p>&mdash; Nick Sharp (@nmwsharp) <a href="https://twitter.com/nmwsharp/status/1337492965720268801?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
 TR is a permanent morass of defunct ideologies.. The suffering of
