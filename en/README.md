@@ -42,11 +42,11 @@ wld look more attractive in that env (seemingly at least, at first)
 and EU says 'we dont want to lose business to arbitrage', after
 breakup UK not being part of that "we". UK says now 'you shouldn't do
 that'. Well after Brexit you are "free", and so are they... Why
-shouldn't they "do that"? They must follow your directives?
+shouldn't they what's good for them? They must follow your directives?
 
-I think the ruling clique in UK still has that imperialist posh cunt
-in them.. Stiff upper lip Eton sockcuckers. Albeit with less stiff
-upper lip, more relaxed demeanor, but still a sockcucker.
+I think the ruling clique in UK still has that imperialist posh
+cuntness in them.. Stiff upper lip Eton sockcuckers. Albeit with less
+stiff upper lip, more relaxed demeanor, but still reeegal
 
 ---
 
