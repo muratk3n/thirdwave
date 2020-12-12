@@ -66,6 +66,14 @@ generated more than US$20 billion in sales"
 
 ---
 
+TR is a permanent morass of defunct ideologies.. The suffering of
+Armenians [was there](2009/09/armenians-kurds.md#hamidiyaArmenian)
+during Hamid of Otto, and they persisted during the regime which
+displaced it. Then Kurds started to suffer in similar ways in the
+Republic which supposedly "unlike" all the previous...
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a

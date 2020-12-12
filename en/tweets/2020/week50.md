@@ -92,14 +92,6 @@ offered to set up production lines for its military products in Iraq"
 
 ---
 
-TR is a permanent morass of defunct ideologies.. The suffering of
-Armenians [was there](2009/09/armenians-kurds.md#hamidiyaArmenian)
-during Hamid of Otto, and they persisted during the regime which
-displaced it,. Then Kurds started to suffer in similar ways in the
-Republic which supposedly "unlike" all the previous...
-
----
-
 "@WorkingFamilies
 
 'Things are bad: We’re late on bills, we’re late on rent, our car is
