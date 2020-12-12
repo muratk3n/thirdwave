@@ -37,8 +37,8 @@ these people?
 
 This "matching regulation" biz reveals all you need to know about
 Brexit; it's like Brexiters want EU do whatever they're told.. If UK
-reduces regulation, EU says 'we can raise tariffs to balance that'. UK
-wld look more attractive in that env (seemingly at least, at first)
+reduces regulation, EU wld say 'we can raise tariffs to balance that'
+bcz UK is more attractive in that env (seemingly at least, at first)
 and EU says 'we dont want to lose business to arbitrage', after
 breakup UK not being part of that "we". UK says now 'you shouldn't do
 that'. Well after Brexit you are "free", and so are they... Why
