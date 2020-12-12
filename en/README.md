@@ -50,7 +50,7 @@ stiff upper lip, more relaxed demeanor, but still reeegal.
 
 ---
 
-And WarnerMedia generated more than $9.2 billion in revenue in 2018?
+WarnerMedia generated more than $9.2 billion in revenue in 2018..?
 Enter the streaming wars...
 
 "Netflix reached another financial milestone at the end of 2019. The
