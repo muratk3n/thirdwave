@@ -46,7 +46,7 @@ shouldn't they what's good for them? They must follow your directives?
 
 I think the ruling clique in UK still has that imperialist posh
 cuntness in them.. Stiff upper lip Eton sockcuckers. Albeit with less
-stiff upper lip, more relaxed demeanor, but still reeegal
+stiff upper lip, more relaxed demeanor, but still reeegal.
 
 ---
 
