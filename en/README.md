@@ -20,11 +20,6 @@ BJ net approval -%25 \#UK \#YouGov
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The worst media in the democratic world is the British media, and it’s not even close.<br><br>I know it’s hard for people in other countries who hate their own media to believe, but whatever you hate about your country’s media, the UK media has in abundance and worse. <a href="https://t.co/2wKsgo09EH">https://t.co/2wKsgo09EH</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1337774982030618624?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
 BTW Morales, who did some good things in his country, also f--d up in
 a way.. he went to referandum for term extension, lost, had their SC
 to overturn it, then won the general election. Turns out there was no
@@ -98,6 +93,10 @@ atoms are assumed and interactions are introduced as weak
 perturbations. In the case of liquids, however, the interactions are
 as important as in the solid state, but there is no underlying ordered
 structure to begin with"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The worst media in the democratic world is the British media, and it’s not even close.<br><br>I know it’s hard for people in other countries who hate their own media to believe, but whatever you hate about your country’s media, the UK media has in abundance and worse. <a href="https://t.co/2wKsgo09EH">https://t.co/2wKsgo09EH</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1337774982030618624?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
