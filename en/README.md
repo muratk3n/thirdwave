@@ -1,7 +1,6 @@
 # Tweets
 
-
-BTW Moreles, who did some good things in his country, also f--d up in
+BTW Morales, who did some good things in his country, also f--d up in
 a way as well.. he went to referandum for term extension, lost, had
 their SC to overturn it, then won the general election. Turns out
 there was no fraud in either, but now there is a general "funkyness"
