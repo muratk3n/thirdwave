@@ -43,8 +43,8 @@ time, something like a rapping [dog](https://youtu.be/0ZUHqH4rDTg?t=17) becomes 
 
 ---
 
-*Riddick* 2013, such gutsy movie. Who would bet an entire movie on an
-opening sequence with a guy trying to survive on a desolate planet?
+*Riddick* 2013, such a gutsy movie. Who would bet an entire movie on
+an opening sequence with a guy trying to survive on a desolate planet?
 Its basically this guy and his dog, at first.. that's it. Fantastic.
 
 ---
