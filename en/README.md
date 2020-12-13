@@ -70,7 +70,8 @@ I am huge fan of stews, gulashes of all kinds.. bring it on!
 
 ---
 
-The Guiness Stew. Looks good. Is this like Irish breakfast?
+The Guiness Stew. Looks good. Is this like Irish breakfast? Or
+breakfast is eggs with Guiness..?
 
 [Link](https://youtu.be/T9ZXL2uILF8)
 
