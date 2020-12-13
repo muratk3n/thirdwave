@@ -35,10 +35,9 @@ exactly what happened.
 
 ---
 
-A lot of humor shared here is the type where tech types decompress
-with; after paying attn to hair splitting detail for an extended
-period of time, something like a rapping [dog](https://youtu.be/0ZUHqH4rDTg?t=17)
-becomes hilarious.
+A lot of humor shared here is the kind tech types decompress with;
+after paying attn to hair splitting detail for an extended period of
+time, something like a rapping [dog](https://youtu.be/0ZUHqH4rDTg?t=17) becomes hilarious.
 
 ---
 
