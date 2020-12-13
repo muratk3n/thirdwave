@@ -70,7 +70,7 @@ foundations, but there is no general theory of liquids. For solids,
 theory begins by assuming that the atomic constituents undergo small
 oscillations about fixed lattice positions; for gases, independent
 atoms are assumed and interactions are introduced as weak
-perturbations. In the case of liquids, however, the inter- actions are
+perturbations. In the case of liquids, however, the interactions are
 as important as in the solid state, but there is no underlying ordered
 structure to begin with"
 
