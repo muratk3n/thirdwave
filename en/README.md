@@ -59,8 +59,8 @@ a world delusion.
 
 ---
 
-That's all movies all theathers? Netflix beat that singlehandedly in
-that same year.
+That's all movies in all theathers? Netflix beat that single-handedly
+in that same year.
 
 "2019 domestic box office [revenue] was about $11.4 billion"
 
