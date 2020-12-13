@@ -1,5 +1,30 @@
 # Tweets
 
+
+"@dailyposter
+
+NEWS: At a Goldman Sachs conference this week, billionaire Trump pal
+Steve Schwarzman publicly celebrated his Wall Street firm's profits
+off "huge increases in rents" as millions of Americans could now face
+eviction"
+
+[Link](https://mobile.twitter.com/dailyposter/status/1337860060815400961)
+
+---
+
+Dec f--ing 12th. Where is the cold, the snow the bad wheather? 
+
+---
+
+BJ net approval -%25
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The worst media in the democratic world is the British media, and it’s not even close.<br><br>I know it’s hard for people in other countries who hate their own media to believe, but whatever you hate about your country’s media, the UK media has in abundance and worse. <a href="https://t.co/2wKsgo09EH">https://t.co/2wKsgo09EH</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1337774982030618624?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+
 BTW Morales, who did some good things in his country, also f--d up in
 a way.. he went to referandum for term extension, lost, had their SC
 to overturn it, then won the general election. Turns out there was no
