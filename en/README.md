@@ -54,7 +54,7 @@ article shared previously
 
 So-called "Turks" need alternative (read: real) explanations for the
 history of their lands.. They [live](2020/07/migrations-anatolia.md#unique) in
-a world delusion.
+a world of delusion.
 
 ---
 
