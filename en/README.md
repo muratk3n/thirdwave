@@ -48,7 +48,7 @@ Its basically this guy and his dog, at first.. that's it. Fantastic.
 ---
 
 The gobble-gobble [translation](https://muratk3n.github.io/thirdwave/tr/2009/09/ermeniler-kurtler.html) for the
-article before
+article shared previously
 
 ---
 
