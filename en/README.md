@@ -78,11 +78,6 @@ eggs with Guiness..?
 
 ---
 
-Nice, equip is on the way.. and I bet cargo is fine lockdown or not
-bcz they r essential
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Koch-funded study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves $2 trillion over ten years.<br><br>Yale study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves the American people $450 billion &amp; 68,000 lives a year.<br><br>New CBO study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves $650 billion a year.<br><br>But how are you going to pay for it? <a href="https://t.co/OCI3ABHijU">https://t.co/OCI3ABHijU</a></p>&mdash; Warren Gunnels (@GunnelsWarren) <a href="https://twitter.com/GunnelsWarren/status/1337625132714561536?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
