@@ -1,5 +1,86 @@
 # Week 50
 
+"Joe Biden hasn’t picked any of the nearly two dozen Democrats who ran
+against him to serve in his administration — and that bodes quite well
+for the former rival he did elevate as his No. 2, Kamala Harris"
+
+---
+
+"E.U. Agrees to Cut Emissions by 2030 in New Climate Deal... The
+agreement calls for European Union countries to cut their collective
+greenhouse gas emissions by 55 percent from 1990 levels, a more
+substantial reduction than previously proposed"
+
+---
+
+"US Supreme Court rejects Trump-backed bid to overturn election"
+
+---
+
+Great brunch liberal safe comedy. "Get" Cheney when his legacy is
+cooked, be buddy buddy with "upper class". This guy punches down.
+
+---
+
+Here is "Ali G" legitimizing class, by making it look playfully cute
+
+[Link](https://youtu.be/03SiNNYJu3g?t=168)
+
+---
+
+I remember that pencil-neck motherlover, Mogg, using this "regulation
+arbitrage" argument for Brexit... Seriously.. Moron actually thought
+EU would just sit on their ass and do nothing? How effin dumb are
+these people?
+
+---
+
+This "matching regulation" biz reveals all you need to know about
+Brexit; it's like Brexiters want EU do whatever they're told.. If UK
+reduces regulation, EU wld say 'we can raise tariffs to balance that'
+bcz UK is more attractive in that env (seemingly at least, at first)
+and EU says 'we dont want to lose business to arbitrage', after
+breakup UK not being part of that "we". UK says now 'you shouldn't do
+that'. Well after Brexit you are "free", and so are they... Why
+shouldn't they do what's good for them? They must follow your
+directives?
+
+I think the ruling clique in UK still has that imperialist posh
+cuntness in them, B-Team or not.. Stiff upper lip Eton
+sockcuckers. Albeit with less stiff upper lip, more relaxed demeanor,
+but still reeegal.
+
+---
+
+"Disney is methodically building movies and shows off its own
+intellectual property and then using hit characters to introduce new
+ones...  The company’s stock closed up 13.6% on Friday after briefly
+hitting an all-time high"
+
+---
+
+WarnerMedia generated more than $9.2 billion in revenue in 2018..?
+Enter the streaming wars...
+
+"Netflix reached another financial milestone at the end of 2019. The
+streaming giant’s latest earnings report revealed the company
+generated more than US$20 billion in sales"
+
+---
+
+Good stuff
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Geodesics are like straight lines, or locally-shortest paths along a shape. Our algorithm takes a path along the edges of a mesh, and &quot;pulls it tight&quot; to an exact geodesic. (2/N) <a href="https://t.co/E1XZNP8trY">pic.twitter.com/E1XZNP8trY</a></p>&mdash; Nick Sharp (@nmwsharp) <a href="https://twitter.com/nmwsharp/status/1337492965720268801?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+TR is a permanent morass of defunct ideologies.. The suffering of
+Armenians [was there](2009/09/armenians-kurds.md#hamidiyaArmenian)
+during Hamid of Otto, and they persisted during the regime which
+displaced it. Then Kurds started to suffer in similar ways in the
+Republic which supposedly "unlike" all the previous...
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A Queensland-based aerospace company is set to receive nearly $1m of Australian Government funding to fast track development of its reusable hydrogen-powered hypersonic scramjet, capable of placing small satellites into Low Earth Orbit.<br><br>Read more here: <a href="https://t.co/4Ja5KdbliO">https://t.co/4Ja5KdbliO</a> <a href="https://t.co/7RG6maQKuQ">pic.twitter.com/7RG6maQKuQ</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1337245927506055168?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

@@ -1,83 +1,79 @@
 # Tweets
 
-"Joe Biden hasn’t picked any of the nearly two dozen Democrats who ran
-against him to serve in his administration — and that bodes quite well
-for the former rival he did elevate as his No. 2, Kamala Harris"
+
+BTW Moreles, who did some good things in his country, also f--d up in
+a way as well.. he went to referandum for term extension, lost, had
+their SC to overturn it, then won the general election. Turns out
+there was no fraud in either, but now there is a general "funkyness"
+in the air, and ppl can make that case... The left needs to be careful
+mwith this stuff. He should have stepped down, give the reins to the
+next guy. And guess what, after bunch of unnecessary drama that is
+exactly what happened.
 
 ---
 
-"E.U. Agrees to Cut Emissions by 2030 in New Climate Deal... The
-agreement calls for European Union countries to cut their collective
-greenhouse gas emissions by 55 percent from 1990 levels, a more
-substantial reduction than previously proposed"
+"EU: Maduro victory in Venezuela 'undemocratic'"
 
 ---
 
-"US Supreme Court rejects Trump-backed bid to overturn election"
+A lot of humor shared here is the type where tech types decompress
+with; after paying attn to hair splitting detail for an extended
+period of time, something like a rapping [dog](https://youtu.be/0ZUHqH4rDTg?t=17)
+becomes hilarious.
 
 ---
 
-Great brunch liberal safe comedy. "Get" Cheney when his legacy is
-cooked, be buddy buddy with "upper class". This guy punches down.
+*Riddick* 2013, such gutsy movie. Who would bet an entire movie on an
+opening sequence with a guy trying to survive on a desolate planet?
+Its basically this guy and his dog, at first.. that's it. Fantastic.
 
 ---
 
-Here is "Ali G" legitimizing class, by making it look playfully cute
-
-[Link](https://youtu.be/03SiNNYJu3g?t=168)
-
----
-
-I remember that pencil-neck motherlover, Mogg, using this "regulation
-arbitrage" argument for Brexit... Seriously.. Moron actually thought
-EU would just sit on their ass and do nothing? How effin dumb are
-these people?
+The gobble-gobble [translation](2009/09/ermeniler-kurtler.md) for the
+article before
 
 ---
 
-This "matching regulation" biz reveals all you need to know about
-Brexit; it's like Brexiters want EU do whatever they're told.. If UK
-reduces regulation, EU wld say 'we can raise tariffs to balance that'
-bcz UK is more attractive in that env (seemingly at least, at first)
-and EU says 'we dont want to lose business to arbitrage', after
-breakup UK not being part of that "we". UK says now 'you shouldn't do
-that'. Well after Brexit you are "free", and so are they... Why
-shouldn't they do what's good for them? They must follow your
-directives?
-
-I think the ruling clique in UK still has that imperialist posh
-cuntness in them, B-Team or not.. Stiff upper lip Eton
-sockcuckers. Albeit with less stiff upper lip, more relaxed demeanor,
-but still reeegal.
+So-called "Turks" need alternative (read: real) explanations for the
+history of their lands.. They [live](2020/07/migrations-anatolia.md#unique) in
+a world delusion.
 
 ---
 
-"Disney is methodically building movies and shows off its own
-intellectual property and then using hit characters to introduce new
-ones...  The company’s stock closed up 13.6% on Friday after briefly
-hitting an all-time high"
+That's all movies all theathers? Netflix beat that singlehandedly in
+that same year.
+
+"2019 domestic box office [revenue] was about $11.4 billion"
 
 ---
 
-WarnerMedia generated more than $9.2 billion in revenue in 2018..?
-Enter the streaming wars...
-
-"Netflix reached another financial milestone at the end of 2019. The
-streaming giant’s latest earnings report revealed the company
-generated more than US$20 billion in sales"
+I am huge fan of stews, gulashes of all kinds.. bring it on!
 
 ---
 
-Good stuff
+The Guiness Stew. Looks good. Is this like Irish breakfast?
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Geodesics are like straight lines, or locally-shortest paths along a shape. Our algorithm takes a path along the edges of a mesh, and &quot;pulls it tight&quot; to an exact geodesic. (2/N) <a href="https://t.co/E1XZNP8trY">pic.twitter.com/E1XZNP8trY</a></p>&mdash; Nick Sharp (@nmwsharp) <a href="https://twitter.com/nmwsharp/status/1337492965720268801?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://youtu.be/T9ZXL2uILF8)
+
 ---
 
-TR is a permanent morass of defunct ideologies.. The suffering of
-Armenians [was there](2009/09/armenians-kurds.md#hamidiyaArmenian)
-during Hamid of Otto, and they persisted during the regime which
-displaced it. Then Kurds started to suffer in similar ways in the
-Republic which supposedly "unlike" all the previous...
+Nice, equip is on the way.. and I bet cargo is fine lockdown or not
+bcz they r essential
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Koch-funded study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves $2 trillion over ten years.<br><br>Yale study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves the American people $450 billion &amp; 68,000 lives a year.<br><br>New CBO study: <a href="https://twitter.com/hashtag/MedicareForAll?src=hash&amp;ref_src=twsrc%5Etfw">#MedicareForAll</a> saves $650 billion a year.<br><br>But how are you going to pay for it? <a href="https://t.co/OCI3ABHijU">https://t.co/OCI3ABHijU</a></p>&mdash; Warren Gunnels (@GunnelsWarren) <a href="https://twitter.com/GunnelsWarren/status/1337625132714561536?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Rapaport: "[B]oth solids and gases have well-developed theoretical
+foundations, but there is no general theory of liquids. For solids,
+theory begins by assuming that the atomic constituents undergo small
+oscillations about fixed lattice positions; for gases, independent
+atoms are assumed and interactions are introduced as weak
+perturbations. In the case of liquids, however, the inter- actions are
+as important as in the solid state, but there is no underlying ordered
+structure to begin with"
 
 ---
 
