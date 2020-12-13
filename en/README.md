@@ -1,13 +1,13 @@
 # Tweets
 
 BTW Morales, who did some good things in his country, also f--d up in
-a way as well.. he went to referandum for term extension, lost, had
-their SC to overturn it, then won the general election. Turns out
-there was no fraud in either, but now there is a general "funkyness"
-in the air, and ppl can make that case... The left needs to be careful
-mwith this stuff. He should have stepped down, give the reins to the
-next guy. And guess what, after bunch of unnecessary drama that is
-exactly what happened.
+a way.. he went to referandum for term extension, lost, had their SC
+to overturn it, then won the general election. Turns out there was no
+fraud in either, but now there is a general "funkyness" in the air,
+and ppl can make that case... The left needs to be careful mwith this
+stuff. He should have stepped down, give the reins to the next
+guy. And guess what, after bunch of unnecessary drama that is exactly
+what happened.
 
 ---
 
