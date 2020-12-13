@@ -206,12 +206,11 @@ aşiretçiliğin bölgede tekrar kuvvetlenmesine sebep olmuştur [..].
 sonra [..] Hamidiye Alayları ismini 'Asiret Alayları' ismine çevirerek
 düzeni olduğu gibi devam ettirmiştir [sf 61-63]. ...
 
-
 ---
 
-[1] Hatta bugünkü korucu sisteminin yukarıdaki sistemin bir uzantısı
+Yakın tarihteki korucu sisteminin de yukarıdaki sistemin bir uzantısı
 olduğu iddia edilebilir. Yani pek çok diğer konuda olduğu gibi,
-"Osmanlı bozukluğu (İttihatçılar buna dahil)" ile mevcut durum
-arasında kesintisiz bir süreklilik mevcuttur.
+Osmanlı / İttihatçı dejenare varlığı ile bugün arasında kesintisiz bir
+süreklilik var.
 
 

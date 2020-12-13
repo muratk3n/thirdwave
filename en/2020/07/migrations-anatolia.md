@@ -126,6 +126,8 @@ Turkish migrations from Central Asia are covered pervasively in 6th,
 of life and culture of the Turkic population, and the migration routes
 they took up through Eurasia.
 
+<a name='unique'/>
+
 As was mentioned above, the creation of the idea of Turkish nation has
 made extensive use of history as a means to instil a feeling of
 uniqueness and commonality as a member of the Turkish nation. However,

@@ -247,7 +247,7 @@ enough, one must create the need for them.
 ---
 
 It's weird when I had to do food conserving, the simplest veg/meat
-cook/save method worked for me; But I [grew up](2011/08/living-in-factory.md)
+cook/save method worked for me; But I [grew up](../../2011/08/living-in-factory.md)
 around a plant whose sole purpose was turning out products to conserve food...
 Wouldn't I just buy one of them? What does that say about capitalism? 
 
@@ -338,7 +338,7 @@ tasks"
 
 ---
 
-I never discounted the possibility, [see UFOs](2015/08/ufo.md).
+I never discounted the possibility, [see UFOs](../../2015/08/ufo.md).
 
 "Former Israeli space security chief says aliens exist, humanity not ready"
 
