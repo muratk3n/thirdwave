@@ -60,8 +60,8 @@ a world of delusion.
 
 ---
 
-That's all movies in all theathers? Netflix US \$ approaches that
-number single-handedly, for the same year.
+That's all movies, all theathers? Netflix US \$ approaches that number
+single-handedly, for the same year.
 
 "2019 [US] domestic box office [revenue] was about $11.4 billion"
 
