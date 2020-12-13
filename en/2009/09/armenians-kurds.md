@@ -12,10 +12,10 @@ favour, the border reverted to the approximate line ..
 These events had a vital impact on Kurdistan, which now became the
 border march between the two empires. Each empire had to weigh up how
 far it could extend its control into the border marches, while Kurdish
-chiefs had the un- enviable task of choosing which empire it was
-wisest to recognize, balancing a desire for maximal freedom from
-government interference against the local benefit of formal state
-endorsement of their authority.
+chiefs had the unenviable task of choosing which empire it was wisest
+to recognize, balancing a desire for maximal freedom from government
+interference against the local benefit of formal state endorsement of
+their authority.
 
 Following his initial conquest of Kurdistan, the majority of chiefs
 recognized Shah Ismail, but probably with as little enthusiasm
@@ -32,28 +32,29 @@ newly acquired border marches: there was a danger of Safavid
 subversion or invasion, and the application of direct administration
 and taxation in the region would be extremely difficult and probably
 counterproductive. As a result, Sultan Salim opted for pragmatism
-rather than the brutal ruthless- ness for which he was better
-known. He did so on the advice of a Kurd, Idris Bitlisi, a man of
-considerable political judgement. ... Bitlisi persuaded Sultan Salim
-to give him a free hand to win over the Kurdish princes and
-chiefs. Equipped with blank ftrmans, or decrees, Bitlisi reinstated
-rulers dismissed by Shah Ismail, and confirmed certain chiefs in semi-
-or virtual independence in return for their acknowledgement of nominal
-Ottoman suzerainty. ...
+rather than the brutal ruthlessness for which he was better known. He
+did so on the advice of a Kurd, Idris Bitlisi, a man of considerable
+political judgement. ... Bitlisi persuaded Sultan Salim to give him a
+free hand to win over the Kurdish princes and chiefs. Equipped with
+blank *fermans*, or decrees, Bitlisi reinstated rulers dismissed by
+Shah Ismail, and confirmed certain chiefs in semi- or virtual
+independence in return for their acknowledgement of nominal Ottoman
+suzerainty. ...
 
 The relationship between Istanbul and its Kurdish satraps was far from
 perfect.  Because the system of semi-independent principalities lasted
-well into the nine- teenth century, it is tempting to consider it a
+well into the nineteenth century, it is tempting to consider it a
 successful political arrangement. In practice neither side was
 satisfied. Both Istanbul and individual chiefs pushed for greater
 control whenever they thought they had the power to achieve it. In
 that sense the arrangements achieved by Bitlisi were understood to be
 a pragmatic recognition of the balance of forces at that time, a
-balance in which the chiefs benefited from official recognition [pg 30].
+balance in which the chiefs benefited from official recognition [pg
+30].
 
 By the end of the eighteenth century the Ottomans faced a severe
 crisis, that of a highly centralized empire that had lost control of
-its hinterland. The arrange- ments reached between tribe and state
+its hinterland. The arrangements reached between tribe and state
 following Chaldiran had long since lost their value for Istanbul and
 finally foundered in the first half of the nineteenth century. As
 described in the preceding chapter, efforts to curtail the power of
@@ -65,17 +66,17 @@ reasons. By the end of the eighteenth century it was easy for the
 amirs and tribal chiefs to believe they had no need for an external
 sponsor. Their destruction during the next half century was a powerful
 reminder that leadership could not easily be maintained if the role of
-intermediary between state and subordinate tribal groupings
-ceased [pg 38]. ...
+intermediary between state and subordinate tribal groupings ceased [pg
+38]. ...
 
 The suppression of the old amirates and other semi-independent satraps
 of Kurdistan led to less law and order in the countryside, not
 more. This may seem surprising, since if the Porte had the military
 power to suppress the amirs and chiefs it presumably could also
 suppress anyone else. However, while the Kurdish paramounts
-indubitably were responsible for major upheavals, conflicts and blood-
-shed in the region, they were also part of the regional balance of
-forces.
+indubitably were responsible for major upheavals, conflicts and
+bloodshed in the region, they were also part of the regional balance
+of forces.
 
 While eager to aggrandize themselves, they were also vital mediators
 between the tribes and tribal sections within their territory, and
@@ -147,9 +148,9 @@ that the civil administration had no power to restrain the Hamidiya,
 who were answerable solely to the ",usbir of the Fourth Army in
 Erzerum. The "'tlsbir, Zakki Pasha, who happened to be the sultan's
 brother-in-law, was subject not to the wali but direct to Istanbul. He
-was clearly using the Hamidiya as the instru- ment of a policy that
-had little in common with the brief of the civil adminis- tration of
-the region. The civil administration had nothing but contempt for the
+was clearly using the Hamidiya as the instrument of a policy that had
+little in common with the brief of the civil administration of the
+region. The civil administration had nothing but contempt for the
 Hamidiya...
 
 The lawless activities of the Hamidiya set an example which
@@ -167,7 +168,7 @@ became clear both that the Armenians were the primary targets, and
 that the Hamidiya was egged on or even deliberately directed by the
 Ottoman military authorities [pg 60].
 
-The growth of the Armenian problem has already been discussed. By the
+The growth of the Armenian problem has already been discussed. By the 
 early 1890S it had deteriorated considerably. Largely because after
 their experiences in the 1877-78 war some Armenians had finally begun
 to react to the provocations, depredations and persecution suffered at
@@ -184,7 +185,7 @@ governors; reparations for victims of the outrages at Sasun and
 elsewhere; Kurdish nomadic movements to be allowed only under
 surveillance and for them generally to be encouraged to settle; and
 the Hamidiya to be disarmed.  Abd al Hamid agreed to these demands but
-deliberately neglected to imple- ment them. Continued level of
+deliberately neglected to implement them. Continued level of
 insecurity had reduced agriculture to famine levels by 1897-98 ...
 
 By 1897 even the urban Turkish population had begun to protest about
