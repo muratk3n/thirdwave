@@ -579,8 +579,8 @@ It's funny, these dictator types really arent that informed, bright;
 Hitler had no idea what other leaders were truly thinking, their
 motives.
 
-Stalin did little better, he was had, but only for a while, figured
-out Adolf early enough.
+Lenin did little better, he was had, but only for a while, figured out
+Adolf early enough.
 
 [Documentary](https://youtu.be/E2zrqzvtWio?t=724)
 
