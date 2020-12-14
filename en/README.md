@@ -63,7 +63,7 @@ in some ways have compilers in their heads, that does strict
 checks. Obviously every spoken language has also syntactic rules, but
 none that can be verified instantly, to its tiniest comma, and can be
 executed on-demand. So we run the compiler in our heads before
-submitting code to the machine, we want to see as little erros as
+submitting code to the machine, we want to see as little errors as
 possible, which makes it a stringent task. Do it a long time, you
 really want to see a rapping dog at the end of the day. .
 
