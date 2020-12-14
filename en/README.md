@@ -106,7 +106,7 @@ while, it can work.
 
 ---
 
-Not all. Let's see... some net zero commitmemts are Sweden for 2045,
+Not all. Let's see... some net zero commitments are Sweden for 2045,
 and United Kingdom, France, Denmark, New Zealand, Hungary for 2050.
 
 Yes, Sweden, 39% is ☢️, France's 71% of electricity comes from ☢️. But
