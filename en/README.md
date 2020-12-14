@@ -101,8 +101,8 @@ and I am not convinced fission's waste handling is handled properly,
 and safety issue is ever-present.
 
 Solar power is plenty, with incr panel efficiency (right now at 25%)
-it'll get better. Also there is non-fracking fossil + CCS (at the
-source).
+it'll get better. Add non-fracking fossil + CCS (at the source), for a
+while, it can work.
 
 ---
 
