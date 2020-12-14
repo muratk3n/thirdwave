@@ -65,7 +65,7 @@ none that can be verified instantly, to its tiniest comma, and can be
 executed on-demand. So we run the compiler in our heads before
 submitting code to the machine, we want to see as little errors as
 possible, which makes it a stringent task. Do it a long time, you
-really want to see a rapping dog at the end of the day. .
+really want to see that rapping dog at the end of the day. .
 
 ---
 
