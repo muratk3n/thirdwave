@@ -96,9 +96,8 @@ than women who took a placebo pill"
 
 ---
 
-I watched 'nother docu on nuclear (fission) and fusion. Fusion sounds
-far off, and I am not convinced on fission's waste handling, and
-safety.
+I watched docu on nuclear (fission) and fusion. Fusion sounds far off,
+and I am not convinced on fission's waste handling, and safety.
 
 Solar power is plenty, with incr panel efficiency (right now at 25%)
 itll be better. Also there is non-fracking fossil + CCS (at the
