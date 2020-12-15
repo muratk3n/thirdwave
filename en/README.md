@@ -73,7 +73,8 @@ square with one side 284.38 km
 
 An area by 290 km x 290 km. of panels. SA Rub' al Khali desert is
 650,000 km^2, 1/7th of that area is needed approximately. It's not a
-small area, sure, but not insane large, like Texas?
+small area, sure, but not insane large, like Texas? If we are
+desparate, we might see some crazy-ass engineering.
 
 ---
 
