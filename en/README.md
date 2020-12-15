@@ -1,131 +1,136 @@
 # Tweets
 
-"@joemfbrown
-
-I’m sitting here in the dark in my toddler’s room because the light is
-controlled by @Google Home. Rethinking... a lot right now"
+Losah
 
 ---
 
-"@Davidramble
+Vaccinating everyone at gov, makes sense. 
 
-It's nearly midnight and I can't dim my lights because a server on the
-other side of the world is acting up"
+"The [vaccine] shots will be offered to officials across all three
+branches of government, including leaders at the White House, in
+Congress, and on the Supreme Court, officials said"
+
+---
+
+I am convinced caffeine is good for you. Drink that shit. Chuck it!
+
+---
+
+In 2019 ~200 million tons of coal was exported. Clean alternative,
+burn, CCS, ship ammonia.
+
+---
+
+Looks like CH lost their shit... they are flailing about, incenced
+wout reason.. This business w AU was completely avoidable.
+
+"[Reports say] China was restricting imports of coal only from
+Australia and prioritising imports from Mongolia, Indonesia and
+Russia"
+
+[Link](https://www.theguardian.com/world/2020/dec/15/scott-morrison-lashes-china-over-reported-ban-on-australian-coal-imports)
 
 ---
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">have you tried turning your house off and on again</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1338464099701829632?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/internetofshit?ref_src=twsrc%5Etfw">@internetofshit</a> <br><br>Translation of the post-it: &quot;Please knock because Google is down&quot;. <a href="https://t.co/8kRGiyWR6n">https://t.co/8kRGiyWR6n</a></p>&mdash; Saas (Sander as a Service) (@Hertog6) <a href="https://twitter.com/Hertog6/status/1338466686228451329?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Which Flynn is it I wonder.. Erroll Flynn?
+Panels in the Arctic Circle (north)..? Sure. 6 months of constant-daylight.
+
+When dark, no problem, panels in the Antartic Circle (south). Go for
+it.
 
 ---
 
-Dude on demo video sets up a system logs on and says "we are in like Flynn" 😶
+Since we r not tied to below-ground resources, countries with sea
+access near the equator cld create floating panel structures.
 
 ---
 
-`nvcc` working 
+How much solar panel space would Saudi Arabia need to produce its
+crude output's equiv energy in renewable fuel?
+
+Production is 9.01 million barrels / day (Nov 2020).
+
+1 Barrel of oil is 136 kg. Energy density of crude oil 158.4 Kwh/kg.
+
+Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
+
+Panel efficiency 20%, sunlight availability 50% (highest for SA),
+electrolysis eff 80%,
+
+```python
+solar_kwh_day_m2 = 24*0.20*0.50*0.80
+oil_energy_day = 136 * 9.01 * 1e6 * 158.4
+area = (oil_energy_day / solar_kwh_day_m2)
+print ("area of %0.2f km^2" % (area / 1e6))
+print ("square with one side %0.2f km" % (np.sqrt(area) / 1000.0))
+```
+
+```text
+area of 101092.20 km^2
+square with one side 317.95 km
+```
+
+An area by 320 km x 320 km. of panels. SA Rub' al Khali desert is
+650,000 km^2, one-sixth of that is needed approximately. It's not a
+small area, sure
 
 ---
 
-Reuters: "Toyota unveils new fuel cell car in fresh push on hydrogen technology"
+Bloomberg: "Toyota Bets On a Hydrogen Future With New Fuel-Cell Car"
+
+[Link](https://www.bloomberg.com/news/articles/2020-12-10/toyota-bets-on-a-hydrogen-future-with-new-fuel-cell-car)
 
 ---
 
-Noted W was mentioned; big deal coming from a former oilman.
-
-"Green hydrogen, an alternative fuel generated with clean energy, is
-experiencing a global resurgence and has been identified as the clean
-energy source that could help bring the world to net-zero emissions in
-the coming decades.
-
-It was initially touted in the U.S. during President George W. Bush's
-first term, when it was nicknamed the "freedom fuel."
-
-Now, President-elect Joe Biden is promising that the U.S. will be able
-to access green hydrogen at the same cost as conventional hydrogen
-within a decade as part of his clean energy plan. Several countries
-around the world already invest heavily into it, including Chile,
-Japan, Saudi Arabia, Germany and Australia"
-
-[Link](https://abcnews.go.com/Technology/green-hydrogen-renewable-energy-source-watch-2021/story?id=74128340)
+Jacobs. That is some fine-ass coffee. With an okay French press we
+have a good brew with this bih
 
 ---
 
-Working with hair-splitting detail as programmer, is much more intense
-than, say, in social sciences bcz at the end of the day programmatic
-concepts, however abstract at first, need to *compile*, i.e. accepted
-by a software compiler to be turned into machine code. So programmers
-in some ways have compilers in their heads, that does strict
-checks. Obviously every spoken language has also syntactic rules, but
-none that can be verified instantly, to its tiniest comma, and can be
-executed on-demand. So we run the compiler in our heads before
-submitting code to the machine, we want to see as little errors as
-possible, which makes it a stringent task. Do it a long time, you
-really want to see that rapping dog at the end of the day. .
+That wld be the "The Great Leap Forward" and the Cultural Rev I
+assume.. Sad.
+
+"[T]wo-thirds of Hong Kong's population fled revolution, famine and
+poverty in mainland China, mostly during the 1950s and 1960s"
+
+[Link](https://www.npr.org/2019/06/19/733393348/hong-kongs-leader-backpedaled-but-here-s-why-the-opposition-movement-continues)
 
 ---
 
-"@Nate_Cohn
+Scientifically whichever country made your career happen gets the 
+credit. Do graduate degree in US, you are their success story.
 
-There were a lot of surprises in 2020, but I'd put the vastly reduced
-salience of immigration in this election v. '18 and '20 on the
-list. Immigration wasn't even mentioned in the first debate, and the
-exit poll didn't bother to ask about it, either"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fund the IRS</p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1338320895077613573?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+In that sense there is less "brain drain" than known, there is "raw
+brain material drain", where raw parts move from country to country
+that get formed into a brain elsewhere.
 
 ---
 
-Yea I saw daily intake req for 1000 mg which is crazy. Youd have to
-sit and eat yogurt, eggs all day.
-
-"Do we really need all that calcium? ... The tide started to turn in
-2005 when results from two British studies showed that calcium didn't
-prevent fractures — even when taken in combination with vitamin
-D. [another research] showed that postmenopausal women who took a
-calcium–vitamin D combination were no less likely to break their hip
-than women who took a placebo pill"
-
-[Link](https://www.health.harvard.edu/staying-healthy/do-we-really-need-all-that-calcium)
+Crazy. Elements of that concl must be stewing in head for >20 yrs. I
+remember how Ozdemir writes he knows so many local (DE) stories, tales
+intimately and knows no other ones from anywhere else
 
 ---
 
-I watched docu on nuclear (fission) and fusion. Fusion sounds far off,
-and I am not convinced fission's waste handling is handled properly,
-and safety issue is ever-present.
-
-Solar power is plenty, with incr panel efficiency (right now at 25%)
-it'll get better. Add non-fracking fossil + CCS (at the source), for a
-while, it can work.
-
----
-
-Not all. Let's see... some net zero commitments are Sweden for 2045,
-and United Kingdom, France, Denmark, New Zealand, Hungary for 2050.
-
-Yes, Sweden, 39% is ☢️, France's 71% of electricity comes from ☢️. But
-UK or Denmark dont have much of it.
-
-"Most countries who commited to net-zero get their energy from
-nuclear"
+In fact Cem Özdemir, the first parliementarian of TR origin in DE
+partliament, wrote a book about precisely that, titled *Ich bin
+Inländer* (I am Native). I read it during the 90s. This book was one
+of many data points that contributed to this blog's
+birthplace-is-culture conclusion rather than
+assumed-identity-is-culture delusion.
 
 ---
 
-At the end of the day, by and large, Feynman did science to compute
-stuff. He liked doing that, and I believe this is the right attitude
-to have, in general, even for ppl who are deep in the weeds of
-theory. The attitude also jels well with the beginning of modern
-science, Newton was an active computer.
+He is a German of TR origin..
 
----
+He went there at a very young age, and what does [culture code](2014/06/the-culture-code.md)
+say?  He is a product of their culture, schools, etc.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Israel officially joins the International Energy Agency - <a href="https://twitter.com/gencell?ref_src=twsrc%5Etfw">@Gencell</a> salutes the Government of Israel on this important milestone!!! Read more: <a href="https://t.co/tHecELyKi6">https://t.co/tHecELyKi6</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1338461020260626434?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"The new covid drug was invented by someone from TR"
 
 ---
 
