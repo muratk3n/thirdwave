@@ -98,7 +98,7 @@ poverty in mainland China, mostly during the 1950s and 1960s"
 ---
 
 Professionally as well whichever country made your career gets the
-credit. Do grad deg in US, work there, you are their success story.
+credit. Do grad deg in US, work there, you are their success story homes.
 
 So there is not much "brain drain" as is usually known, there is "raw
 brain material drain", where raw parts move from country to country
