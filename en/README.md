@@ -114,7 +114,7 @@ that get formed into a brain elsewhere.
 
 Crazy. Elements of that concl must be stewing in head for >20 yrs. I
 remember how Ozdemir writes he knows so many local (DE) stories, tales
-intimately and knows no other ones from anywhere else
+intimately and knows no other ones from anywhere else in similar fashion.
 
 ---
 
