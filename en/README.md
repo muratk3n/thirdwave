@@ -123,7 +123,7 @@ partliament, wrote a book about precisely that, titled *Ich bin
 Inländer* (I am Native). I read it during the 90s. This book was one
 of many data points that contributed to this blog's
 raised-in-country-is-culture conclusion rather than
-assumed-identity-is-culture delusion.
+assumed-or-given-identity-is-culture delusion.
 
 ---
 
