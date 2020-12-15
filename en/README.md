@@ -104,7 +104,7 @@ poverty in mainland China, mostly during the 1950s and 1960s"
 Scientifically as well, whichever country made your career happen gets
 the credit. Do graduate degree in US, you are their success story.
 
-In that sense there is less "brain drain" than known, there is "raw
+There is not much "brain drain" as is usually known, there is "raw
 brain material drain", where raw parts move from country to country
 that get formed into a brain elsewhere.
 
