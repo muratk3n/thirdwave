@@ -1,9 +1,5 @@
 # Tweets
 
-Losah
-
----
-
 Vaccinating everyone at gov, makes sense. 
 
 "The [vaccine] shots will be offered to officials across all three
