@@ -16,8 +16,10 @@ I am convinced caffeine is good for you. Drink that shit. Chuck it!
 
 ---
 
-In 2019 ~200 million tons of coal was exported. Clean alternative,
-burn, CCS, ship ammonia.
+While on the subj in 2019 ~200 million tons of coal was
+exported.
+
+Clean alternative, burn, CCS, ship ammonia.
 
 ---
 
