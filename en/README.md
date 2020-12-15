@@ -122,7 +122,7 @@ In fact Cem Özdemir, the first parliementarian of "TR origin" in DE
 partliament, wrote a book about precisely that, titled *Ich bin
 Inländer* (I am Native). I read it during the 90s. This book was one
 of many data points that contributed to this blog's
-birthplace-is-culture conclusion rather than
+raised-in-country-is-culture conclusion rather than
 assumed-identity-is-culture delusion.
 
 ---
