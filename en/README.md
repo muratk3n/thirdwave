@@ -48,7 +48,7 @@ access near the equator cld create floating panel structures.
 ---
 
 How much solar panel space would Saudi Arabia need to produce its
-crude output's equiv energy in renewable fuel?
+crude output's equiv energy,
 
 Production is 9.01 million barrels / day (Nov 2020).
 
@@ -56,11 +56,10 @@ Production is 9.01 million barrels / day (Nov 2020).
 
 Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
 
-Panel efficiency 20%, sunlight availability 50% (highest for SA),
-electrolysis eff 80%,
+Panel efficiency 20%, sunlight availability 50% (highest for SA)
 
 ```python
-solar_kwh_day_m2 = 24*0.20*0.50*0.80
+solar_kwh_day_m2 = 24*0.20*0.50
 oil_energy_day = 136 * 9.01 * 1e6 * 158.4
 area = (oil_energy_day / solar_kwh_day_m2)
 print ("area of %0.2f km^2" % (area / 1e6))
@@ -68,13 +67,13 @@ print ("square with one side %0.2f km" % (np.sqrt(area) / 1000.0))
 ```
 
 ```text
-area of 101092.20 km^2
-square with one side 317.95 km
+area of 80873.76 km^2
+square with one side 284.38 km
 ```
 
-An area by 320 km x 320 km. of panels. SA Rub' al Khali desert is
-650,000 km^2, one-sixth of that is needed approximately. It's not a
-small area, sure, but not insane large, like Texas
+An area by 290 km x 290 km. of panels. SA Rub' al Khali desert is
+650,000 km^2, 1/7th of that area is needed approximately. It's not a
+small area, sure, but not insane large, like Texas?
 
 ---
 
