@@ -87,8 +87,8 @@ have a good brew with this bih
 
 ---
 
-That wld be the "The Great Leap Forward" and the Cultural Rev I
-assume..? Sad.
+That wld be "The Great Leap Forward" and the Cultural Rev I assume..?
+Sad.
 
 "[T]wo-thirds of Hong Kong's population fled revolution, famine and
 poverty in mainland China, mostly during the 1950s and 1960s"
