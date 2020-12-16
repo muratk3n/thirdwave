@@ -48,7 +48,7 @@ preferable?
 Easier enforcement.
 
 Fossil fuel at the end-user can leak, emission more likely. Carmakers
-can cheat (e.g. Volkswagen).
+can cheat (see the Volkswagen 2015 scandal).
 
 But if gov encourages, enforces clean fuel production at the source,
 even with CCS, or even better 100% clean production, then all the way
