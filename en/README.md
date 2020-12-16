@@ -42,7 +42,8 @@ Do they say black people dont like dogs? Weird...This is like the
 
 ---
 
-Why is the use of renewable fuel, even from fossil, preferable?
+Why is the use of renewable fuel, even if produced from fossil,
+preferable?
 
 Easier enforcement.
 
