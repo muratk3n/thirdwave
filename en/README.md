@@ -11,7 +11,7 @@ that they will partner up to develop #GreenHydrogen projects"
 
 ---
 
-Do not like synthetic shit, 4 mid-layer clothing. 100% cotton baby
+Do not like synthetic shit in clothing. 100% cotton baby
 
 ---
 
