@@ -41,11 +41,12 @@ the bourgeoisie of Mekka to Medina and had to fight them.
 
 ---
 
-Prosperity gospel..? God wants to you be a billionaire? A lot of this
-stuff is Cold War politics.. While fighting against "Godless"
-communists, it cld have made tactical sense to ally with religion this
-way, through odd cultish branches that preach religion in a certain
-way.. But the larger political reality has changed.
+Prosperity gospel..? God wants to you be a billionaire, more
+materialistic? A lot of this stuff is Cold War politics.. While
+fighting against "Godless" communists, it cld have made tactical sense
+to ally with religion this way, through odd cultish branches that
+preach religion in a certain way.. But the larger political reality
+has changed.
 
 ---
 
