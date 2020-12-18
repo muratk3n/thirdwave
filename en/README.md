@@ -60,8 +60,8 @@ little symbolic there, soon ur talking real money
 ---
 
 Just found out there is a back-story to 'get to the choppa'. Way
-before that, he says 'we make a stand now, or there will be nobody left
-to go to the choppa', *then* it's 'go to the choppa'.
+before that, he says 'we make a stand now, or there will be nobody
+left to go to the choppa', *then* it's 'get to the choppa'.
 
 *Predator* 1987, good movie.
 
