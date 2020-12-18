@@ -85,7 +85,9 @@ news coverage assumes poverty is the fault of the poor"
 
 ---
 
-I wonder if he means quaalude. But sure, quaquaalude sounds more "Italian". 🤣 🤣
+I wonder if he means quaalude.
+
+But sure, quaquaalude sounds more "Italian". 🤣 🤣
 
 Total clown this guy. Great comic IMO
 
