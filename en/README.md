@@ -1,8 +1,14 @@
 # Tweets
 
+"@hazergroupltd
+
+POSCO, the world’s fifth-largest steelmaker by output, said it will
+produce up to 5 million tons of hydrogen by 2050 to reduce its
+reliance on fossil fuels and transition to renewable energy sources"
+
 ---
 
-`sshfs`, great tool. Seamless remote file access through `ssh`. 
+`sshfs`, useful tool. Seamless remote file access through `ssh`.
 
 ---
 
