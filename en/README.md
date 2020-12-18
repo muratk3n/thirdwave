@@ -36,9 +36,8 @@ simplification and optimization, in this case"
 ---
 
 Religion is closer to left; it's always been so.. Jesus was a poor
-worker, Moses escaped from pheoroah's (the richest man of has age)
-opression, Mohammad escaped from the burgeoise of Mekka to Medina,
-and had to fight them.
+worker, Moses escaped from pheoroah's opression, Mohammad escaped from
+the bourgeoisie of Mekka to Medina and had to fight them.
 
 ---
 
