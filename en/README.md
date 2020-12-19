@@ -17,8 +17,8 @@ backlash"
 
 ---
 
-Tor is not "dark web". If there wasnt so much surveillance by the
-surveilers, there'd be no need for it.
+Tor is not "dark web". If there wasnt so much rampant surveillance,
+there'd be no need for it.
 
 ---
 
