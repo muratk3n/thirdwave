@@ -114,7 +114,7 @@ increased his share of nonwhite voters from 21 percent"
 
 ---
 
-JlC RIP. I liked *The Tailor of Panama*, the movie.
+Le Carre RIP. I liked *The Tailor of Panama*, the movie.
 
 ---
 
