@@ -70,11 +70,10 @@ Batteries, electric cars? \#spacex \#tesla
 
 ---
 
-"Pence prepares to oversee Trump’s loss — and then leave town
-
-It’s a tactic Pence has used in recent weeks: stay out of the
-spotlight and insulate himself from his boss’s election-fraud crusade,
-while still bolstering his own credentials"
+"Pence prepares to oversee Trump’s loss — and then leave town. It’s a
+tactic Pence has used in recent weeks: stay out of the spotlight and
+insulate himself from his boss’s election-fraud crusade, while still
+bolstering his own credentials"
 
 [Link](https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326)
 
