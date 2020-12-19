@@ -54,7 +54,7 @@ kernel inside but with layers of crud on top)
 
 OS is open source
 
-All apps on it downladable from its app store are open source
+All apps on it downloadable from its app store are open source
 
 You can *physically* shut off it camera, Wifi, and Bluetooth. There
 are mechanical slide buttons for it.
