@@ -27,7 +27,7 @@ there'd be no need for it.
 ---
 
 I detect an increased level of murmur around privacy, coming coming
-from the usual authoritarian corksuckers
+from the usual authoritarian corkmunchers
 
 ---
 
