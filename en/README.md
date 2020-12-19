@@ -22,8 +22,8 @@ there'd be no need for it.
 
 ---
 
-There are more grumblings around privacy, coming coming from the usual
-authoritarian corksuckers
+I detect an increased level of murmur around privacy, coming coming
+from the usual authoritarian corksuckers
 
 ---
 
