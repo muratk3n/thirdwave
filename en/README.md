@@ -114,7 +114,7 @@ increased his share of nonwhite voters from 21 percent"
 
 ---
 
-Le Carre RIP. I liked *The Tailor of Panama*, the movie.
+Cornwell RIP. I liked *The Tailor of Panama*, the movie.
 
 ---
 
