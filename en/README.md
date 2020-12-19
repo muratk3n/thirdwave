@@ -1,5 +1,9 @@
 # Tweets
 
+Jon Favreau might just have saved *Star Wars*
+
+---
+
 DW: "Boeing 737 Max retesting marred by 'lapses'. A fresh round of
 tests on the Max 737 airliner was flawed, claims a US Senate committee
 report"
@@ -86,10 +90,6 @@ social media giant Instagram, or at least is formally denounced as
 disinformation"
 
 [Link](https://greenwald.substack.com/p/instagram-is-using-false-fact-checking)
-
----
-
-Jon Favreau might just have saved *Star Wars*
 
 ---
 
