@@ -10,7 +10,7 @@ report"
 
 ---
 
-This guy is such a dumb fucking asshole. Meet the B-Team. 
+This guy is such a pencilneck, dumb fucking asshole. Meet the B-Team.
 
 "U.K. Lawmaker Under Fire for Calling UNICEF’s Free Meals a ‘Political
 Stunt’. Jacob Rees-Mogg said the agency should be ashamed of itself
