@@ -49,7 +49,7 @@ monopoly on a product as possible.”
 
 ---
 
-Finally a purer Linux phone (Android is Linux too in a way, it has L
+Finally a purer Linux phone (Android is Linux too in a way, it has LX
 kernel inside but with layers of crud on top)
 
 OS is open source
