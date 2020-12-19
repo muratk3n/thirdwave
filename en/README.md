@@ -70,7 +70,7 @@ I WANT IT
 Another rocket blows up? Gross incompetence on display here. Likely to
 do with the culture created in the company by its founder. If this guy
 keeps fucking up, u have to wonder what else is he wrong about?
-Battery electric cars for instance? \#spacex \#tesla
+Battery electric cars? Minions need to reconsider. \#spacex \#tesla
 
 ---
 
