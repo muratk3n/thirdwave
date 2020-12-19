@@ -57,7 +57,7 @@ OS is open source
 All apps on it downladable from its app store are open source
 
 You can *phsically* shut off it camera, Wifi, and Bluetooth. There are
-physical slide buttons for it.
+mechanical slide buttons for it.
 
 The battery can be removed.
 
