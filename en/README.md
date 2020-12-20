@@ -56,6 +56,18 @@ mutiny against progressives in a key committee fight"
 
 ---
 
+I for one will be happy this aspect of the shitshow to be over, WH
+being visibly divided on key issues. It always smacked off
+incompetence, talking abt the head now, tactical moves of a flailing
+inexperienced STP. 
+
+"Pompeo Blames Russia for Hack as Trump Casts Doubt"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&#39;Electric&#39; refers to a motor, not the battery. Refueling H2 powered EVs is easier and cheaper to scale than plug-in batteries. The <a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> BEV world has no way to model the true costs of extending + balancing a renewable-led grid to billions of plug-ins. Fueling EVs scales <a href="https://t.co/pz6rSnl7ZR">https://t.co/pz6rSnl7ZR</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1340682509194059777?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 The docu made it sound Afghanistan was a nuisance, a problem Gorbachev
 was sort stuck with.. But actually Gorbacev was adamantly against that
