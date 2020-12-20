@@ -1,5 +1,123 @@
 # Week 51
 
+Jon Favreau might just have saved *Star Wars*
+
+---
+
+DW: "Boeing 737 Max retesting marred by 'lapses'. A fresh round of
+tests on the Max 737 airliner was flawed, claims a US Senate committee
+report"
+
+---
+
+This guy is such a pencil-neck, dumb fucking asshole. Meet the B-Team.
+
+"U.K. Lawmaker Under Fire for Calling UNICEF’s Free Meals a ‘Political
+Stunt’. Jacob Rees-Mogg said the agency should be ashamed of itself
+for providing free meals to 15,000 children in Britain, prompting a
+backlash"
+
+[Link](https://www.nytimes.com/2020/12/18/world/europe/uk-lawmaker-under-fire-for-calling-unicefs-free-meals-a-political-stunt.html)
+
+---
+
+Tor is not "dark web". If there wasnt so much rampant surveillance,
+there'd be no need for it.
+
+---
+
+I detect an increased level of murmur around privacy, coming from the
+usual authoritarian corkmunchers
+
+---
+
+Bernie says there are still no progressives in the cabinet.
+
+---
+
+"@IMAKglobal
+
+Patents today have become less of an instrument of invention and more
+a defensive business strategy to extract as many additional years of
+monopoly on a product as possible.”
+
+[Link](https://mobile.twitter.com/IMAKglobal/status/1339972217363427332)
+
+---
+
+"An Unprepared N.Y.P.D. Badly Mishandled Floyd Protests, Watchdog Says"
+
+---
+
+Finally a purer Linux phone (Android is Linux too in a way, it has LX
+kernel inside but with layers of crud on top)
+
+OS is open source
+
+All apps on it downloadable from its app store are open source
+
+You can *physically* shut off it camera, Wifi, and Bluetooth. There
+are mechanical slide buttons for it.
+
+The battery can be removed.
+
+I WANT IT
+
+<iframe width="340" src="https://www.youtube.com/embed/YIdmGSpZL8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Another rocket blows up? Gross incompetence on display here. Likely to
+do with the culture created in the company by its founder. If this guy
+keeps fucking up, u have to wonder what else is he wrong about?
+Battery electric cars? Minions need to reconsider. \#spacex \#tesla
+
+---
+
+"Pence prepares to oversee Trump’s loss — and then leave town. It’s a
+tactic Pence has used in recent weeks: stay out of the spotlight and
+insulate himself from his boss’s election-fraud crusade, while still
+bolstering his own credentials"
+
+[Link](https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326)
+
+---
+
+"While that debate over the damage done by Biden’s crime bill has long
+raged in Democratic Party politics and the criminal justice reform
+movement, it is now barred from being aired on the Facebook-owned
+social media giant Instagram, or at least is formally denounced as
+disinformation"
+
+[Link](https://greenwald.substack.com/p/instagram-is-using-false-fact-checking)
+
+---
+
+<img width="340" src="https://pbs.twimg.com/media/EpgHkScWMAAyhqt?format=jpg&name=small"/>
+
+---
+
+"Facebook escalates feud with Apple over iOS privacy changes. The
+social network releases a new ad claiming changes in Apple's mobile
+software will hurt small businesses and consumers"
+
+[Link](https://www.cnet.com/google-amp/news/facebook-escalates-feud-with-apple-over-ios-privacy-changes/)
+
+---
+
+Jacobin: "Neoliberalism Is Driving Away Working-Class Voters of
+Color. They Need to Be Won Back. Last month’s election was a mixed
+bag. Yes, Joe Biden got 12 million more votes than Hillary Clinton
+did. But Donald Trump added 9.5 million votes of his own. More than
+half of those new Trump voters — 4.6 million of them — came because he
+increased his share of nonwhite voters from 21 percent"
+
+---
+
+Cornwell RIP. I liked *The Tailor of Panama*
+
+---
+
 "@hazergroupltd
 
 POSCO, the world’s fifth-largest steelmaker by output, said it will

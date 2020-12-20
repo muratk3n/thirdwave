@@ -1,120 +1,75 @@
 # Tweets
 
-Jon Favreau might just have saved *Star Wars*
+Glam Sam And His Combo - Bossy Bloke \#music
+
+[Link](https://youtu.be/ykQHgNMKS3Q)
 
 ---
 
-DW: "Boeing 737 Max retesting marred by 'lapses'. A fresh round of
-tests on the Max 737 airliner was flawed, claims a US Senate committee
-report"
+I thought Holden already knew abt Fred Johnson's protomolecule.. 🤔
+
+\#TheExpanse
 
 ---
 
-This guy is such a pencil-neck, dumb fucking asshole. Meet the B-Team.
+"@billy_penn
 
-"U.K. Lawmaker Under Fire for Calling UNICEF’s Free Meals a ‘Political
-Stunt’. Jacob Rees-Mogg said the agency should be ashamed of itself
-for providing free meals to 15,000 children in Britain, prompting a
-backlash"
+PA never spent $108 million of 175 million in CARES Act funding meant
+for rent and mortgage relief. The money will now go to the Dept of
+Corrections instead.
 
-[Link](https://www.nytimes.com/2020/12/18/world/europe/uk-lawmaker-under-fire-for-calling-unicefs-free-meals-a-political-stunt.html)
-
----
-
-Tor is not "dark web". If there wasnt so much rampant surveillance,
-there'd be no need for it.
+'Pa. misses deadline to spend $108M in rent, mortgage relief from CARES Act'"
 
 ---
 
-I detect an increased level of murmur around privacy, coming from the
-usual authoritarian corkmunchers
+People who grow up in a place, from a very young age, get its culture
+codes automagically by osmosis (embedded in the second-level emotional
+brain), so they are citizens, no matter their ethnic, cultural
+origin. Origin, assumed subculture matters little.
+
+People might try to posture, "represent" around origin, perhaps as a
+reaction to being called a certain label all their lives, but both
+sides of that argument is wrong. 2 wrongs dont make 1 right.
 
 ---
 
-Bernie says there are still no progressives in the cabinet.
+Hidalgo's analysis teases out the presence of these networks through
+'product palette complexity' in the data, which highly correlate with
+GDP (higher than ed level). The better your network, more complex your
+products, the higher your GDP.
 
 ---
 
-"@IMAKglobal
-
-Patents today have become less of an instrument of invention and more
-a defensive business strategy to extract as many additional years of
-monopoly on a product as possible.”
-
-[Link](https://mobile.twitter.com/IMAKglobal/status/1339972217363427332)
-
----
-
-"An Unprepared N.Y.P.D. Badly Mishandled Floyd Protests, Watchdog Says"
+Why does success story belong to host country for even late
+immigrating scientists? Power of expertise networks. Working side by
+side is an effective knowle xfer channel, that's why inno likes such
+pockets ... See [Hidalgo](2017/08/production-gdp-globalization.md).  U
+go to expt network, u benefit from it, innovate flows from it. Those
+pockets, its country, get the credit.
 
 ---
 
-Finally a purer Linux phone (Android is Linux too in a way, it has LX
-kernel inside but with layers of crud on top)
+"The Establishment Strikes Back... Henry Cuellar and centrist Democrats
+mutiny against progressives in a key committee fight"
 
-OS is open source
-
-All apps on it downloadable from its app store are open source
-
-You can *physically* shut off it camera, Wifi, and Bluetooth. There
-are mechanical slide buttons for it.
-
-The battery can be removed.
-
-I WANT IT
-
-<iframe width="340" src="https://www.youtube.com/embed/YIdmGSpZL8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link](https://prospect.org/api/amp/politics/establishment-strikes-back-aoc-versus-centrist-democrats/)
 
 ---
 
-Another rocket blows up? Gross incompetence on display here. Likely to
-do with the culture created in the company by its founder. If this guy
-keeps fucking up, u have to wonder what else is he wrong about?
-Battery electric cars? Minions need to reconsider. \#spacex \#tesla
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">idk, i&#39;m worried that lenin69 and globeemogi1984 fighting is going to halt the movement</p>&mdash; The Wishing You a Happy Third Summers Brother🍕 (@hugetinymistake) <a href="https://twitter.com/hugetinymistake/status/1340345400050462725?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Pence prepares to oversee Trump’s loss — and then leave town. It’s a
-tactic Pence has used in recent weeks: stay out of the spotlight and
-insulate himself from his boss’s election-fraud crusade, while still
-bolstering his own credentials"
+The docu made it sound Afghanistan was a nuisance, a problem Gorbachev
+was sort stuck with.. But actually Gorbacev was adamantly against that
+war, from the beginning. 
 
-[Link](https://www.politico.com/news/2020/12/17/pence-trump-election-loss-447326)
-
----
-
-"While that debate over the damage done by Biden’s crime bill has long
-raged in Democratic Party politics and the criminal justice reform
-movement, it is now barred from being aired on the Facebook-owned
-social media giant Instagram, or at least is formally denounced as
-disinformation"
-
-[Link](https://greenwald.substack.com/p/instagram-is-using-false-fact-checking)
+"The [Soviet] war in Afghanistan was a thorn in Gorbaceb's side [after he came to power]"
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EpgHkScWMAAyhqt?format=jpg&name=small"/>
-
----
-
-"Facebook escalates feud with Apple over iOS privacy changes. The
-social network releases a new ad claiming changes in Apple's mobile
-software will hurt small businesses and consumers"
-
-[Link](https://www.cnet.com/google-amp/news/facebook-escalates-feud-with-apple-over-ios-privacy-changes/)
-
----
-
-Jacobin: "Neoliberalism Is Driving Away Working-Class Voters of
-Color. They Need to Be Won Back. Last month’s election was a mixed
-bag. Yes, Joe Biden got 12 million more votes than Hillary Clinton
-did. But Donald Trump added 9.5 million votes of his own. More than
-half of those new Trump voters — 4.6 million of them — came because he
-increased his share of nonwhite voters from 21 percent"
-
----
-
-Cornwell RIP. I liked *The Tailor of Panama*
+This dev board is fantastic. I am looking looking at an insanely
+realistic simulation.
 
 ---
 

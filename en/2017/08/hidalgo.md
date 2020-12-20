@@ -8,8 +8,8 @@ Curated version,
 
 [Link](https://drive.google.com/open?id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
 
-What is tried below is creating a model that represents a country's
-economy based on the products it produces, and the complexity of those
+Below we create a model that represents a country's economy based on
+the products it produces, and the complexity of those
 products. "Complexity" of both the country and products it produces
 will essentially be based on the number of different product *types*,
 but the chicken-egg aspect of the deeper model will be teased out of
