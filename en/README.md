@@ -57,10 +57,10 @@ mutiny against progressives in a key committee fight"
 
 ---
 
-I for one will be happy this aspect of the shitshow to be over, WH
-being visibly divided on key issues. It always smacked off
-incompetence, talking abt the head now, tactical moves of a flailing
-inexperienced STP. 
+I for one will be happy this aspect of the show to be over, WH being
+visibly divided on key issues. It always smacked off incompetence,
+talking abt the head now, tactical moves of a flailing inexperienced
+STP.
 
 "Pompeo Blames Russia for Hack as Trump Casts Doubt"
 
