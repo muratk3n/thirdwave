@@ -70,6 +70,15 @@ STP.
 
 ---
 
+Dreampolitik. I like the word.
+
+Douhat: "This postelection division of the Republican Party extends and deepens
+an important trend in American politics: The cultivation of a kind of
+“dreampolitik” (to steal a word from Joan Didion), a politics of
+partisan fantasy"
+
+---
+
 A docu I saw made it sound Afghanistan was a nuisance, a problem
 Gorbachev was sort stuck with.. But actually Gorbacev was adamantly
 against that war, from the beginning.
