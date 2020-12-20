@@ -6,7 +6,7 @@ Glam Sam And His Combo - Bossy Bloke \#music
 
 ---
 
-Still much better season than the the last
+Still much better season than the last
 
 \#TheExpanse \#S5
 
