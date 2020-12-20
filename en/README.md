@@ -56,9 +56,6 @@ mutiny against progressives in a key committee fight"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">idk, i&#39;m worried that lenin69 and globeemogi1984 fighting is going to halt the movement</p>&mdash; The Wishing You a Happy Third Summers Brother🍕 (@hugetinymistake) <a href="https://twitter.com/hugetinymistake/status/1340345400050462725?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 The docu made it sound Afghanistan was a nuisance, a problem Gorbachev
 was sort stuck with.. But actually Gorbacev was adamantly against that
