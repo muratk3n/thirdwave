@@ -95,8 +95,8 @@ he came to power]"
 
 ---
 
-This dev board is fantastic. I am looking looking at an insanely
-realistic simulation.
+This dev board is fantastic. I am looking at an insanely realistic
+simulation.
 
 ---
 
