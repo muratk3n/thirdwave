@@ -6,7 +6,7 @@ Data From
 
 Curated version,
 
-[Link](https://drive.google.com/open?id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
+[Link](https://drive.google.com/uc?export=view&id=1gYwaE_aLDQIfcGxIKiRcroHBTsvguBxP)
 
 Below we create a model that represents a country's economy based on
 the products it produces, and the complexity of those
