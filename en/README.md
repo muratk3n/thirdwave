@@ -69,9 +69,9 @@ inexperienced STP.
 
 ---
 
-The docu made it sound Afghanistan was a nuisance, a problem Gorbachev
-was sort stuck with.. But actually Gorbacev was adamantly against that
-war, from the beginning. 
+A docu I saw made it sound Afghanistan was a nuisance, a problem
+Gorbachev was sort stuck with.. But actually Gorbacev was adamantly
+against that war, from the beginning.
 
 "The [Soviet] war in Afghanistan was a thorn in Gorbaceb's side [after he came to power]"
 
