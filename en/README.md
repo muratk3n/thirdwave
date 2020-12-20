@@ -25,7 +25,8 @@ Corrections instead.
 People who grow up in a place, from a very young age, get its culture
 codes automagically by osmosis (embedded in the second-level emotional
 brain), so they are citizens, no matter their ethnic, cultural
-origin. Origin, assumed subculture matters little.
+origin. Origin, assumed subculture, parental 'heritage' matters
+little.
 
 People might try to posture, "represent" around origin, perhaps as a
 reaction to being called a certain label all their lives, but both
