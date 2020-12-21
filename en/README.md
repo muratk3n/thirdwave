@@ -1,5 +1,9 @@
 # Tweets
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 13 giant green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects that plan to change the world of energy <a href="https://t.co/2OpL1ABykh">https://t.co/2OpL1ABykh</a> <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> <a href="https://twitter.com/IEA?ref_src=twsrc%5Etfw">@IEA</a> <a href="https://twitter.com/HydrogenCouncil?ref_src=twsrc%5Etfw">@HydrogenCouncil</a> <a href="https://twitter.com/H2Europe?ref_src=twsrc%5Etfw">@H2Europe</a> <a href="https://twitter.com/hashtag/energytransition?src=hash&amp;ref_src=twsrc%5Etfw">#energytransition</a></p>&mdash; Rechargenews (@rechargenews) <a href="https://twitter.com/rechargenews/status/1340990797576060931?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 THE VAMPIRE SQUID WOULD KNOW
 
 ---
