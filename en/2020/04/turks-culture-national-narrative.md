@@ -212,10 +212,3 @@ References
 
 [2] https://www.researchgate.net/publication/265476406_HOW_A_SOCIAL_ENGINEERING_PROJECT_AFFECTED_CHRISTIANS_IN_TURKEY
 
-
-
-
-
-
-
-
