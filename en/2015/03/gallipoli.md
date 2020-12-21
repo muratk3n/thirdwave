@@ -126,7 +126,9 @@ Turkland.
 
 Germans chose wrong; they partnered up with Ottomans, a land based
 power, who could not complement Germany - another land based
-power. The ultimate good thing coming out WWI obviously is the
-eventual collapse of the Ottoman Empire which could not be stopped
-either, as it was several centuries in the making. 
+power. But neither side probably had much choice in the matter given
+the existing arragement of power around the world and the region. The
+ultimate good thing coming out WWI obviously is the eventual collapse
+of the Ottoman Empire which could not be stopped either, as it was
+several centuries in the making.
 
