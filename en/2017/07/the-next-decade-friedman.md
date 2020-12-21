@@ -70,3 +70,42 @@ entente, but failing that, it could create a counterbalance. The
 United States urgently needs Poland, because there is no alternative
 strategy for balancing an alliance between Russia and Germany.
 
+<a name='australia'/>
+
+Australia
+
+Australia is actually quite dependent on international trade .. These
+goods are shipped by sea, and Australia has no control whatever over
+the security of its sea-lanes. In a sense, then, Australia is like a
+creature whose arteries and veins are located outside its body,
+unprotected and constantly at risk.  Australia’s strategy for dealing
+with this vulnerability has been to ally itself with the dominant
+naval power in the western Pacific—once Britain, now the United
+States. All alliances bear costs, and the British and Americans wanted
+the same quid pro quo: Australia’s participation in their
+wars. Australians sacrificed heavily in the Boer War, both world wars,
+and in Korea and Vietnam. Between 1970 and 1990 the Australians pulled
+back from this role as military partner, but during this period there
+were few calls for their participation. In 1990, in Desert Storm, they
+returned to their strategy of assisting in military operations, and
+they then went on to fight in both Afghanistan and Iraq.
+
+Along with the security of sea-lanes, Australia’s well-being depends
+on an international trading regime that allows terms it can
+manage. Australia’s strategy of being of service to its Anglo-American
+cousins has bought it a seat at the table alongside the great
+powers. This has provided influence and security to its trade,
+something that Australia never could have achieved on its own.
+
+During World War II, Australia served Britain by sending troops to
+North Africa. It served the United States by acting as a depot for
+building up U.S.  forces for the Pacific theater. Certainly Australian
+forces fought as well, but if no forces had been available,
+Australia’s tremendous value was its location, behind the geographic
+shield of Indonesia and New Guinea. Should any great power emerge in
+the western Pacific to challenge the United States, Australia will
+once again be the strategic foundation for America’s Pacific
+strategy. The caveat is that building the infrastructure for a rear
+depot took several years in World War II, and any future conflict
+might not allow that kind of lead time.
+

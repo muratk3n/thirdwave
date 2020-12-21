@@ -11,9 +11,13 @@ an angry word with".
 
 This is true. The Galipoli loss, for some reason, became part of the
 Aussie national identity. Brits told them to go there and fight, why
-the frack else would they be half way around the world near a country
+the hell else would they be half way around the world near a country
 they had no quarrel with? Good thing some ppl started to challenge
 this nationalistic non-sense.
+
+Here is [the reason](2017/07/the-next-decade-friedman.md#australia)
+why Oz attaches itself to a naval power's interest, because of
+strategic need.
 
 Some more info on the battle itself from *33 Strategies of War*, by
 R. Greene.
