@@ -48,6 +48,8 @@
 
 [Rome by Rifkin](07/rome-rifkin.md)
 
+[Germany - Ottoman Alliance](08/germany-otto-alliance.md)
+
 [Knuth on Patents](08/knuth-on-patents.md)
 
 [Why Did Hillary Lose?](09/why-did-hillary-lose.md)
