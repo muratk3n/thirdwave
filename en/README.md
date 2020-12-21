@@ -25,6 +25,11 @@ of green hydrogen 50-fold in the next six years.
 
 ---
 
+Bloomberg: "Fifty Years of Tax Cuts for Rich Didn’t Trickle Down,
+Study Says"
+
+---
+
 "@davidsirota
 
 The stimulus bill spends 166 billion for meager 600 survival checks as
