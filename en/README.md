@@ -44,7 +44,7 @@ good show of defense, at Gallipoli for instance, changed nothing.
 
 Germany - Otto alliance during WWI? An act of
 [desparation](2020/08/germany-otto-alliance.md), not triggered by
-"ideology changes". 
+"ideology changes" on the part of Otto. 
 
 ---
 
