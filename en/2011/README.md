@@ -338,8 +338,6 @@
 
 [The Diminished President](08/diminished-president.md)
 
-[Enjoying Your Work](08/enjoying-your-work.md)
-
 [I Wish It Was That Simple](08/i-wish-it-was-that-simple.md)
 
 [Immediate Cut, Over a 10 Year Period](08/immediate-cut-over-10-year-period.md)
@@ -394,13 +392,9 @@
 
 [The Lottery](09/lottery.md)
 
-[Pairings](09/pairings.md)
-
 [Passing Fiat Cash Grenade](09/passing-fiat-cash-grenade.md)
 
 [Rankings](09/rankings.md)
-
-[S or N](09/s-or-n.md)
 
 [Scaling Quality](09/scaling-quality.md)
 
@@ -492,8 +486,6 @@
 
 [Publishing](11/publishing.md)
 
-[The Silent Majority](11/silent-majority.md)
-
 [Statistical Insignificance](11/statistical-insignificance.md)
 
 [Trystorming](11/trystorming.md)
@@ -510,8 +502,6 @@
 
 [Blaxploitation](12/blaxploitation.md)
 
-[Update](12/corrections.md)
-
 [Creeping Fascism](12/creeping-fascism.md)
 
 [Death Knell for the Lecture](12/death-knell-for-lecture.md)
@@ -527,8 +517,6 @@
 [Kim Jong Il's Economic Legacy](12/kim-jong-ils-economic-legacy.md)
 
 [Lessons from Hamilton](12/lessons-from-hamilton.md)
-
-[Like a Fox](12/like-fox.md)
 
 [More on the Logistic Equation](12/more-on-logistic-equation.md)
 

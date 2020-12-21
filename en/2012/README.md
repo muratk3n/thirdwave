@@ -28,13 +28,9 @@
 
 [If Patents Are So Great ..](01/if-patents-are-so-great.md)
 
-[Inferior Function](01/inferior-function.md)
-
 [INTJ Newton INTP Leibniz](01/intj-newton-intp-leibniz.md)
 
 [ISTP](01/istp.md)
-
-[Know Thy Opposite](01/know-thy-opposite.md)
 
 [Peter Lawrence: The Heart of Research is Sick](01/lawrance-heart-of-research-is-sick.md)
 
@@ -44,7 +40,7 @@
 
 [Making universities obsolete](01/making-universities-obsolete.md)
 
-[MBTI Formula](01/mbti-formula.md)
+[Myers-Briggs Types, Shadow](01/mbti.md)
 
 [Money](01/money.md)
 

@@ -74,8 +74,6 @@
 
 [Rise of the Info-States](03/rise-of-info-states.md)
 
-[Some Type Findings](03/some-type-findings.md)
-
 [South African Boy Gets Robotic Hand Made With 3-D Printer](03/south-african-boy-gets-robotic-hand.md)
 
 [The Center in Disarray](03/the-center-in-disarray.md)
@@ -157,8 +155,6 @@
 [Trailer Looks Good](06/trailer-looks-good.md)
 
 [New Facebook privacy settings](06/yikes.md)
-
-[An Addition](07/an-addition.md)
 
 [As If It Happened Yesterday](07/as-if-it-happened-yesterday_11.md)
 
