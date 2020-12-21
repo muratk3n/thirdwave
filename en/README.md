@@ -16,10 +16,10 @@ trillion) by 2050, split between Asia, the U.S. and Europe"
 
 ---
 
-[I]t looks like the future [with H2] has arrived as seven of the
+"[I]t looks like the future [with H2] has arrived as seven of the
 biggest green hydrogen project developers come together to launch the
 Green Hydrogen Catapult Initiative in a bid to increase the production
-of green hydrogen 50-fold in the next six years.
+of green hydrogen 50-fold in the next six years"
 
 [Link](https://www.forbes.com/sites/mikescott/2020/12/14/green-hydrogen-the-fuel-of-the-future-set-for-50-fold-expansion)
 

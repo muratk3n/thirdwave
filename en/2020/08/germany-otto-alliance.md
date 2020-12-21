@@ -27,6 +27,6 @@ port. Otto had no other choice. See
  the offer; France did likewise. Germany, however, accepted: alliance
  was concluded on August 2, 1914.
 
-It wasn't some ideological similarity that all of a sudden changed
-from one regime to the next just plain ol' need and
-desparation.. 
+The reason wasn't an ideological similarity that all of a sudden
+changed from one regime to the next either, just plain ol' need and
+desparation..
