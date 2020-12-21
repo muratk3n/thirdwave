@@ -179,7 +179,7 @@ melted away in the existing population.
 
 <a name='gene'/>
 
-A recent research [concludes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
+A recent research [1]
 biologically only 9% of genetic structure (95% CI 7-11) of today's
 Anatolia is Central Asian. This fits to other numbers, if we consider
 the nationalist claim a 1071 war after migrants settled in Anatolia,
@@ -192,3 +192,30 @@ their original source, we reach a B. Lewis, an historian oddball who
 was quite fond of TR nationalists (an American), married to an Otto
 female royalty (whose family fled TR, settled in UK after being kicked
 out by Kemal), and also known as an avid "alleged" Armenian Holocaust denier.
+
+<a name='religion'/>
+
+The religious make-up of 1800s proves the point, since the so-called
+"Turk" is closely related to Sunni Islam, was seen carrier of the
+religion, and some claim, forced people to adapt it. But in the 1890s,
+after loss of territory (lots of Christians gone) and before bigger
+waves of Tatar migrations, the proportion of Muslims was 76.2%. Note
+that a sizeable chunk of that would be Alevites, a branch of Islam so
+different that it could well be considered Christian, meaning as
+different as. So what kind of culture carriers are these "Turks" if
+they could not even carry religion to half the people? All this
+suggests the presence of these migrants was irrelevant. 
+
+References
+
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/
+
+[2] https://www.researchgate.net/publication/265476406_HOW_A_SOCIAL_ENGINEERING_PROJECT_AFFECTED_CHRISTIANS_IN_TURKEY
+
+
+
+
+
+
+
+
