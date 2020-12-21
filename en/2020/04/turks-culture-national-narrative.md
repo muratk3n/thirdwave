@@ -208,7 +208,7 @@ suggests the presence of these migrants was irrelevant.
 
 References
 
-[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/
+[1] [Turkish Population Structure and Genetic Ancestry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904778/)
 
-[2] https://www.researchgate.net/publication/265476406_HOW_A_SOCIAL_ENGINEERING_PROJECT_AFFECTED_CHRISTIANS_IN_TURKEY
+[2] [Christians In Turkey, Social Eng](https://www.researchgate.net/publication/265476406_HOW_A_SOCIAL_ENGINEERING_PROJECT_AFFECTED_CHRISTIANS_IN_TURKEY)
 
