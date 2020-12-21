@@ -73,6 +73,10 @@ Man getting that VNC to work was tough business
 
 ---
 
+Ok..Ok.. we'll do Eulerian too 🙄 
+
+---
+
 Looking at religious [make-up](2020/04/turks-culture-national-narrative.md#religion)
 is demonstrative.
 
