@@ -24,8 +24,8 @@ of green hydrogen 50-fold in the next six years.
 
 @davidsirota
 
-The stimulus bill spends $166 billion for meager 600 survival checks
-as America faces mass starvation and poverty. That’s less than the
+The stimulus bill spends 166 billion for meager 600 survival checks as
+America faces mass starvation and poverty. That’s less than the
 estimated $200 billion increase in the net worth of Bezos, Musk &
 Zuckerberg during the pandemic.
 
