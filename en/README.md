@@ -38,7 +38,7 @@ photo.
 ---
 
 Otto loss during WWI? Also [inevitable](2015/03/gallipoli.md). A few
-good defense, at Gallipoli for instance, changed nothing.
+good show of defense, at Gallipoli for instance, changed nothing.
 
 ---
 
