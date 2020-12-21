@@ -87,8 +87,8 @@ Ok..Ok.. We'll do Eulerian style too 🙄
 
 ---
 
-Looking at religious [make-up](2020/04/turks-culture-national-narrative.md#religion)
-is demonstrative.
+Looking at the religious [make-up](2020/04/turks-culture-national-narrative.md#religion)
+of the area is demonstrative.
 
 ---
 
