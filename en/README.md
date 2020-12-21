@@ -77,7 +77,7 @@ Man getting that VNC to work was tough business
 
 ---
 
-Ok..Ok.. we'll do Eulerian too 🙄 
+Ok..Ok.. We'll do Eulerian style too 🙄
 
 ---
 
