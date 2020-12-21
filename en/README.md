@@ -28,8 +28,8 @@ part.  Wasting time bad.. every shot needs to count.
 ---
 
 And [this](2017/07/the-next-decade-friedman.md#australia) is why Oz is
-friendly with a naval power, first Britain, than US. Gets naval help,
-provides soldiers to fight for that power.
+friendly with a naval power, first Britain, than US. They get naval
+help, but then have to provide military assist for that power.
 
 Then, if someone is hitting at that help, is hitting at that
 relationship, see the China-Oz row over the artificial Afganistan
