@@ -54,9 +54,9 @@ Time to dissect.. really like dissecting, seeing how all parts work
 
 Force of habit from biz programming days.. keeping dependencies as
 minimal as possible. Even my most demo-ready number crunching code
-wont depend on UI, I dump select shots during simulation as png.  Then
-I'll show the ImageMagick to piece the GIF together from invid shots
-to the user. All kept short, to the point.
+wont depend on UI, it will dump select shots during simulation as png.
+Then I'll show the ImageMagick to piece the GIF together from those
+pics. Short, to the point, less depend.
 
 ---
 
