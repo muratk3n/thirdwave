@@ -90,7 +90,7 @@ Migrant quickly assimilates in a gen, so bunch of ragged punks from
 "Central Asia" certainly did not create culture in today's
 Anatolia. They were assimilated. Gone. Forget these fairy tales of
 wolves, some f-ing mountain, with a crack through it or whatever fuck,
-these niggers are no different from any culture that came and went
+these tiggers are no different from any culture that came and went
 before them. The fairy tales are escapism.
 
 ---
