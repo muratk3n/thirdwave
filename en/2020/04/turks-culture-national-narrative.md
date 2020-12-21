@@ -203,8 +203,8 @@ waves of Tatar migrations, the proportion of Muslims was 76.2%. Note
 that a sizeable chunk of that would be Alevites, a branch of Islam so
 different that it could well be considered Christian, meaning as
 different as. So what kind of culture carriers are these "Turks" if
-they could not even carry religion to half the people? All this
-suggests the presence of these migrants was irrelevant. Even the
+they could not even carry their own religion to half the people? All
+this suggests the presence of these migrants was irrelevant. Even the
 "carrier" label itself suggests their role was nothing bigger than
 their numbers, tied to the region, whose realities would forge them as
 deeply as any other.
