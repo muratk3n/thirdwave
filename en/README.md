@@ -61,7 +61,7 @@ Germany - Otto alliance during WWI? An act of
 
 ---
 
-Time to dissect.. really like dissecting, seeing how all parts work
+Time to dissect.. like dissecting, seeing how all parts work
 
 ---
 
