@@ -43,8 +43,8 @@ good defense, at Gallipoli for instance, changed nothing.
 ---
 
 Germany - Otto alliance during WWI? An act of
-[desparation](2020/08/germany-otto-alliance.md), nothing
-ideological. It was inevitable.
+[desparation](2020/08/germany-otto-alliance.md), nothing triggered by
+"ideology changes". It was inevitable.
 
 ---
 
