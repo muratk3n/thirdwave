@@ -21,6 +21,16 @@ of green hydrogen 50-fold in the next six years.
 
 ---
 
+
+@davidsirota
+
+The stimulus bill spends $166 billion for meager 600 survival checks
+as America faces mass starvation and poverty. That’s less than the
+estimated $200 billion increase in the net worth of Bezos, Musk &
+Zuckerberg during the pandemic.
+
+---
+
 Finally got the working code, research papers, tech, all lined up for
 next step.. Direction choice, lining up resources are the hardest
 part.  Wasting time bad.. every shot needs to count.
