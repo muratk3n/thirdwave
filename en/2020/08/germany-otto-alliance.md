@@ -27,10 +27,6 @@ port. Otto had no other choice. See
  the offer; France did likewise. Germany, however, accepted: alliance
  was concluded on August 2, 1914.
 
-It wasn't "ideological similarity" between the two, just plain ol'
-desparation.. which any centralized regime in this particular geo
-would feel. There is a lot of continuity between various regimes of
-Anatolia. The "bad events" that befell Armenians started during Hamid
-for instance, and continued into the Committee of Union and Progress
-days. Than other bad events happened to Kurds.
-
+It wasn't some ideological similarity that all of a sudden changed
+from one regime to the next just plain ol' need and
+desparation.. 
