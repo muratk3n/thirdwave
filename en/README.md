@@ -1,103 +1,109 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 13 giant green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> projects that plan to change the world of energy <a href="https://t.co/2OpL1ABykh">https://t.co/2OpL1ABykh</a> <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a> <a href="https://twitter.com/IEA?ref_src=twsrc%5Etfw">@IEA</a> <a href="https://twitter.com/HydrogenCouncil?ref_src=twsrc%5Etfw">@HydrogenCouncil</a> <a href="https://twitter.com/H2Europe?ref_src=twsrc%5Etfw">@H2Europe</a> <a href="https://twitter.com/hashtag/energytransition?src=hash&amp;ref_src=twsrc%5Etfw">#energytransition</a></p>&mdash; Rechargenews (@rechargenews) <a href="https://twitter.com/rechargenews/status/1340990797576060931?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-THE VAMPIRE SQUID WOULD KNOW
-
----
-
-10 TRILLION EUROS
-
-"Calling it a once-in-a-lifetime opportunity, Goldman Sachs estimates
-the addressable market [of H2] could be worth €10 trillion ($11.7
-trillion) by 2050, split between Asia, the U.S. and Europe"
-
----
-
-"[I]t looks like the future [with H2] has arrived as seven of the
-biggest green hydrogen project developers come together to launch the
-Green Hydrogen Catapult Initiative in a bid to increase the production
-of green hydrogen 50-fold in the next six years"
-
-[Link](https://www.forbes.com/sites/mikescott/2020/12/14/green-hydrogen-the-fuel-of-the-future-set-for-50-fold-expansion)
-
----
-
-Bloomberg: "Fifty Years of Tax Cuts for Rich Didn’t Trickle Down,
-Study Says"
-
----
-
 "@davidsirota
 
-The stimulus bill spends 166 billion for meager 600 survival checks as
-America faces mass starvation and poverty. That’s less than the
-estimated $200 billion increase in the net worth of Bezos, Musk &
-Zuckerberg during the pandemic"
+Bernie getting the cold shoulder from Democrats on direct aid to
+starving people and then having to find one random maverick Republican
+(Hawley) to then force at least something into the bill is a parable
+about the entire grotesque bipartisan political class that owns
+Washington"
 
 ---
 
-Finally got the working code, research papers, tech, all lined up for
-next step.. Direction choice, lining up resources are the hardest
-part.  Wasting time bad.. every move needs to count.
+"@nytimes
+
+A deal authorizing $14 billion in corporate tax cuts was pushed
+through by New Jersey's governor, Philip Murphy, a progressive
+Democrat who has railed against similar tax breaks in the past"
 
 ---
 
-[This](2017/07/the-next-decade-friedman.md#australia) is why Oz is
-friendly with a naval power, first Britain, than US. They get naval
-help, but then have to provide military assist to it.
-
-Then, if someone is hitting at the help, is hitting at that
-relationship, see the China-Oz row over the artificial Afganistan
-photo.
+Even if an evil commitee planned and executed the whole thing, they
+could not control any gov's response to it.
 
 ---
 
-Otto loss during WWI? Also [inevitable](2015/03/gallipoli.md). There
-was a not-bad show of defense, at Gallipoli for instance, but failed
-to change the final outcome.
+Sure, incumbency matters a great deal. People tend to keep the
+incumbent in office unless the sky falls on their heads. But then in
+2020, the sky fell on their heads 😶
 
 ---
 
-Germany - Otto alliance during WWI? An act of
-[desparation](2020/08/germany-otto-alliance.md), not triggered by
-"ideology changes" on the part of Otto. 
+Thailand did pretty well on corona eh?
 
 ---
 
-Time to dissect.. like dissecting, seeing how all parts work
+@FrancoisF24
+
+"We've been conditioned to believe that low prices are normal prices." 
+
+@DanaThomasParis flags the planet's addiction to cheap #jeans which
+pollute & rob workers of decent wage. There's hope though w/ rise of
+natural indigo and organic cotton.
 
 ---
 
-Force of habit from biz programming days.. keeping dependencies as
-minimal as possible. Even my most demo-ready number crunching code
-wont depend on UI, it will dump select shots during simulation as png.
-Then I'll show the ImageMagick to piece the GIF together from those
-pics. Short, to the point, less depend.
+Did not like *Tenet*. Tries to be cerebral but fails to entertain,
+it's a bit dull too. *Total Recall* or, hey, *Inception* level,
+lots-o-curves mystery is one thing, this is another.
 
 ---
 
-Man getting that VNC to work was tough business
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">some monday 🔥 from <a href="https://twitter.com/JamaalBowmanNY?ref_src=twsrc%5Etfw">@JamaalBowmanNY</a> in <a href="https://twitter.com/TheRoot?ref_src=twsrc%5Etfw">@TheRoot</a> <a href="https://t.co/s4pyMwQnvy">pic.twitter.com/s4pyMwQnvy</a></p>&mdash; Karthik Ganapathy (@kartpath) <a href="https://twitter.com/kartpath/status/1341066008686149635?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Ok..Ok.. We'll do Eulerian style too 🙄
+"@CoriBush
+
+I refuse to normalize an anti-democratic process where a few rich,
+predominantly white individuals negotiate behind closed doors for most
+of 2020 and give the rest of us a few hours to consider the 5,593 page
+result of their secret negotiations"
 
 ---
 
-Looking at the religious [make-up](2020/04/turks-culture-national-narrative.md#religion)
-of the area is demonstrative.
+
+"@sarahkliff
+
+After years of being stymied by well-funded interests, Congress has
+agreed to ban one of the most costly and exasperating practices in
+medicine: surprise medical bills"
 
 ---
 
-Migrant quickly assimilates in a gen, so bunch of ragged punks from
-"Central Asia" certainly did not create culture in today's
-Anatolia. They were assimilated. Gone. Forget these fairy tales of
-wolves, some f-ing mountain, with a crack through it or whatever fuck,
-these tiggers are no different from any culture that came and went
-before them. The fairy tales are escapism.
+"@davidsirota 
+
+@davidckamin helped us sleuth out the Corker Kickback story.
+@BharatRamamurti has been a strong voice of oversight on the CARES Act
+slush fund. These are encouraging appointments"
+
+---
+
+"@AlexThomp
+
+Biden adds @davidckamin and @BharatRamamurti to the NEC. Ramamurti is
+a longtime Warren aide that the left wing has been pushing for a
+position"
+
+---
+
+"@ella_nilsen
+
+New Biden appointments to the National Economic Council include
+@BharatRamamurti (formerly Warren's top economic adviser),
+@davidckamin, and @joelle_gamble
+
+Some context: Gamble and Ramamurti currently work with the progressive
+@rooseveltinst, which broadly focuses on shifting economic power away
+from corporations and towards workers by strengthening unions,
+etc. And Kamin's work focuses on tax policy & combatting income
+inequality"
+
+---
+
+L'Hexagone? 
+
+<iframe width="340" src="https://www.youtube.com/embed/xykDDyHDTZY?start=71end^404" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
