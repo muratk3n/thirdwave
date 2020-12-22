@@ -44,8 +44,8 @@ natural indigo and organic cotton.
 ---
 
 Did not like *Tenet*. Tries to be cerebral but fails to entertain,
-it's a bit dull too. *Total Recall* or, hey, *Inception* level,
-lots-o-curves mystery is one thing, this is another.
+it's a bit dull too. *Total Recall* or, hey, *Inception* level mystery
+is one thing, this is another.
 
 ---
 
