@@ -1,5 +1,13 @@
 # Tweets
 
+Pinned Tweet
+
+"Calling it a once-in-a-lifetime opportunity, Goldman Sachs estimates
+the addressable market [of H2] could be worth €10 trillion ($11.7
+trillion) by 2050, split between Asia, the U.S. and Europe"
+
+---
+
 "@davidsirota
 
 Bernie getting the cold shoulder from Democrats on direct aid to
