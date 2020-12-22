@@ -18,14 +18,6 @@ Washington"
 
 ---
 
-"@nytimes
-
-A deal authorizing $14 billion in corporate tax cuts was pushed
-through by New Jersey's governor, Philip Murphy, a progressive
-Democrat who has railed against similar tax breaks in the past"
-
----
-
 Even if an evil commitee planned and executed the whole thing, they
 could not control any gov's response to it.
 
