@@ -62,7 +62,6 @@ result of their secret negotiations"
 
 ---
 
-
 "@sarahkliff
 
 After years of being stymied by well-funded interests, Congress has
@@ -70,6 +69,13 @@ agreed to ban one of the most costly and exasperating practices in
 medicine: surprise medical bills"
 
 ---
+
+Ramamurti sounds like a capable guy. See it is posible to be
+technically knowledge, capable and left. U dont need a bus driver to
+be President to get left, which gets you f-ing Venezuella.
+
+---
+
 
 "@davidsirota 
 
