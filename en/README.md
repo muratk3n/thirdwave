@@ -33,6 +33,14 @@ Thailand did pretty well on corona eh?
 
 ---
 
+So not being an overzealously pro-open-border guy did not hurt him
+among Latinos. Once ppl arrive, acclimate to country, they feel more
+local, do not want hoardes of new ppl coming in? 
+
+"Trump shocked the world with his Latino support"
+
+---
+
 @FrancoisF24
 
 "We've been conditioned to believe that low prices are normal prices." 
