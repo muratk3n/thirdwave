@@ -45,7 +45,7 @@ part.  Wasting time bad.. every move needs to count.
 
 ---
 
-[This](2017/07/the-next-decade-friedman.md#australia) is why Oz is
+[This](.././2017/07/the-next-decade-friedman.md#australia) is why Oz is
 friendly with a naval power, first Britain, than US. They get naval
 help, but then have to provide military assist to it.
 
@@ -55,14 +55,14 @@ photo.
 
 ---
 
-Otto loss during WWI? Also [inevitable](2015/03/gallipoli.md). There
+Otto loss during WWI? Also [inevitable](../../2015/03/gallipoli.md). There
 was a not-bad show of defense, at Gallipoli for instance, but failed
 to change the final outcome.
 
 ---
 
 Germany - Otto alliance during WWI? An act of
-[desparation](2020/08/germany-otto-alliance.md), not triggered by
+[desparation](../../2020/08/germany-otto-alliance.md), not triggered by
 "ideology changes" on the part of Otto. 
 
 ---
@@ -152,7 +152,7 @@ products, the higher your GDP.
 Why does success story belong to host country for even late
 immigrating scientists? Power of expertise networks. Working side by
 side is an effective knowledge xfer channel, that's why inno likes
-such pockets ... See [Hidalgo](2017/08/production-gdp-globalization.md).
+such pockets ... See [Hidalgo](../../2017/08/production-gdp-globalization.md).
 U go to expt network, u benefit from it, inno flows from it. Those
 pockets, its country, get the credit.
 
