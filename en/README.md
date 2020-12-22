@@ -79,7 +79,7 @@ medicine: surprise medical bills"
 ---
 
 Ramamurti sounds like a capable guy. See it is posible to be
-technically knowledge, capable and left. U dont need a former bus
+technically knowledgable, capable and left. U dont need a former bus
 driver to be President which gets you f-ing Venezuella.
 
 ---
