@@ -94,11 +94,7 @@ gain? Big Tech and Big Content"
 ---
 
 Numbers dont [look good](2020/07/h2-numbers.md#ukcar) for merely
-driving either.. I wish I had a magic wand to make it so, that it'd
-all be good, famous ppl we see advocating for the shit are actually
-smart and know what they are doing. The celebrity filter stopped
-working long time ago, proof is all these morons who are famous and
-dumb. If not ignored these fuckers will sink us.
+driving either..
 
 ---
 
