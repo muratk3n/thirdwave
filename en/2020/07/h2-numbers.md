@@ -51,6 +51,25 @@ BEV
 The EV has an overall efficiency of about 60%. Electric grid
 efficiency is 40%, 60% x 40% gives a total of 24%.
 
+<a name='ukcar'/>
+
+UK drove 303.7 billion miles in 2013. Take miles driven in half a day
+and assume energy it is stored in bat, with range 250 miles per 75 kwh
+bat, and 60kg of lithium per 70kWh,
+
+```python
+mday = 303e9 / (365.*2)
+print ("%d tons" % (mday / 250 * 60 / 1e3))
+```
+
+```text
+99616 tons
+```
+
+This is 1/170 th of world lithium reserves, based on existing driving
+patterns. This is for one country just to drive. There are 193
+countries in the world.
+
 H2 ve BE
 
 Assuming same electricity comes from panels to both processes,
