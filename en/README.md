@@ -99,7 +99,8 @@ growth
 
 ---
 
-Post delivery companies are having a field day.. 
+Package delivery companies are having a field day.. lots of online
+orders. I myself started ordering more online.
 
 ---
 
