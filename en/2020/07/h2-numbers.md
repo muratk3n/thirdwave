@@ -70,8 +70,9 @@ print ("1/%d th of world reserves " % (17 * 1e6 / lit))
 ```
 
 This is for one country just to drive. UK pop is 1/113 th of the
-world. If everyone drives like UK, and driving patterns do not change,
-we will barely have enough lith for cars.
+world. If everyone drives like UK, based on today's driving patterns,
+we will barely have enough lith for cars, not much left for anything
+else.
 
 H2 ve BE
 
