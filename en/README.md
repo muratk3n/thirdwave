@@ -8,116 +8,114 @@ trillion) by 2050, split between Asia, the U.S. and Europe"
 
 ---
 
-"@davidsirota
-
-Bernie getting the cold shoulder from Democrats on direct aid to
-starving people and then having to find one random maverick Republican
-(Hawley) to then force at least something into the bill is a parable
-about the entire grotesque bipartisan political class that owns
-Washington"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: We&#39;re suing the FBI.<br><br>The agency is secretly breaking into encrypted devices. We need answers.</p>&mdash; ACLU (@ACLU) <a href="https://twitter.com/ACLU/status/1341522871873658882?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Even if an evil commitee planned and executed the whole thing, they
-could not control any gov's response to it.
+Haha Trump throws a curveball on the way out. Found an opening and pounced.
 
 ---
 
-Sure, incumbency matters a great deal. People tend to keep the
-incumbent in office unless the sky falls on their heads. But then in
-2020, the sky fell on their heads 😶
+More ineffective tech paint job, failing to do the job. I bet
+centrists love this camera shit.
+
+"@mh4oh
+
+For the second time in 3 weeks, law enforcement in Columbus, Ohio have
+killed a Black man. Last night, the officer didn't turn on his body
+camera until AFTER the shooting had occurred"
 
 ---
 
-Thailand did pretty well on corona eh?
+You pronounce xriental like xanadu
 
 ---
 
-So not being an overzealously pro-open-border guy did not hurt him
-among Latinos. Once ppl arrive, acclimate to country, they feel more
-local, do not want hoardes of new ppl coming in? 
+Xriental, Latinx ppl like it tho
 
-"Trump shocked the world with his Latino support"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">guy who spells words like &quot;color&quot; like &quot;colxr&quot; to be inclusive to British people</p>&mdash; make up a guy (@makeupaguy) <a href="https://twitter.com/makeupaguy/status/1341205202096058373?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-@FrancoisF24
+"The lack of options marketed to consumers has created a missing
+middle: the zone between mass market and niche market where
+experimentation is supposed to proliferate and engender
+variety. Worse, the consolidation of the country’s vast creative
+sector into fewer, more powerful production and publishing companies
+has come at the direct expense of the quality of their product. The
+coronavirus isn’t the reason *Tenet* sucked, for example. It just
+sucked because Christopher Nolan has too much power, and very few
+other people in his industry have enough.
 
-"We've been conditioned to believe that low prices are normal prices." 
+This homogenization of the arts is a refutation of the idea that
+capitalism produces true competition. Instead, we are entering a peak
+era of market monopolies, where a group of huge corporations, many of
+which trade in personal data, also have a stranglehold grip around the
+neck of every non-megastar artist in the country"
 
-@DanaThomasParis flags the planet's addiction to cheap #jeans which
-pollute & rob workers of decent wage. There's hope though w/ rise of
-natural indigo and organic cotton.
-
----
-
-Did not like *Tenet*. Tries to be cerebral but fails to entertain,
-it's a bit dull too. *Total Recall* or, hey, *Inception* level mystery
-is one thing, this is another.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">some monday 🔥 from <a href="https://twitter.com/JamaalBowmanNY?ref_src=twsrc%5Etfw">@JamaalBowmanNY</a> in <a href="https://twitter.com/TheRoot?ref_src=twsrc%5Etfw">@TheRoot</a> <a href="https://t.co/s4pyMwQnvy">pic.twitter.com/s4pyMwQnvy</a></p>&mdash; Karthik Ganapathy (@kartpath) <a href="https://twitter.com/kartpath/status/1341066008686149635?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@CoriBush
-
-I refuse to normalize an anti-democratic process where a few rich,
-predominantly white individuals negotiate behind closed doors for most
-of 2020 and give the rest of us a few hours to consider the 5,593 page
-result of their secret negotiations"
+[Link](https://newrepublic.com/article/160715/monopolization-killing-art)
 
 ---
 
-"@sarahkliff
+"@newrepublic
 
-After years of being stymied by well-funded interests, Congress has
-agreed to ban one of the most costly and exasperating practices in
-medicine: surprise medical bills"
-
----
-
-Ramamurti sounds like a capable guy. See it is posible to be
-technically knowledgable, capable and left. U dont need a former bus
-driver to be President which gets you f-ing Venezuella.
+Billion-dollar book companies like Follett and EBSCO are locking
+school districts into contracts that turn them into captive consumers,
+draining public education budgets that don’t have a penny to spare"
 
 ---
 
-
-"@davidsirota 
-
-@davidckamin helped us sleuth out the Corker Kickback story.
-@BharatRamamurti has been a strong voice of oversight on the CARES Act
-slush fund. These are encouraging appointments"
+Boom! ☢️
 
 ---
 
-"@AlexThomp
-
-Biden adds @davidckamin and @BharatRamamurti to the NEC. Ramamurti is
-a longtime Warren aide that the left wing has been pushing for a
-position"
+If senate majority is back for Dems I hope they repeal the filibuster
+rule for everything.
 
 ---
 
-"@ella_nilsen
-
-New Biden appointments to the National Economic Council include
-@BharatRamamurti (formerly Warren's top economic adviser),
-@davidckamin, and @joelle_gamble
-
-Some context: Gamble and Ramamurti currently work with the progressive
-@rooseveltinst, which broadly focuses on shifting economic power away
-from corporations and towards workers by strengthening unions,
-etc. And Kamin's work focuses on tax policy & combatting income
-inequality"
+Would an insufficient covid bill help or hinder Georgia state runoff
+elections for Dems? 🤔 If Dems can pin the insufficiency on Reps, wld
+it help them win those seats?
 
 ---
 
-L'Hexagone? 
+"Today, Senator Thom Tillis launched a 'discussion draft' of
+the so-called Digital Copyright Act. But there's nothing to discuss:
+the bill, if passed, would absolutely devastate the Internet.
 
-<iframe width="340" src="https://www.youtube.com/embed/xykDDyHDTZY?start=71end^404" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We’ll have a more in-depth analysis of this draft bill later, but we
+want to be clear about our opposition from the start: this bill is bad
+for Internet users, creators, and start-ups. The ones with the most to
+gain? Big Tech and Big Content"
+
+[Link](https://www.eff.org/deeplinks/2020/12/disastrous-copyright-proposal-goes-straight-our-naughty-list)
+
+---
+
+Numbers dont [look good](2020/07/h2-numbers.md#ukcar) for merely
+driving either.. I wish I had a magic wand to make it so, that it'd
+all be good, famous ppl we see advocating for the shit are actually
+smart and know what they are doing. The celebrity filter stopped
+working long time ago, proof is all these morons who are famous and
+dumb. Ignore, or these fuckers will sink us.
+
+---
+
+Post delivery companies are having a field day.. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇫🇷 | Up to $7,575 a month.<br>🇩🇪 | Up to $7,326 a month.<br>🇩🇰 | Up to $3,288 a month.<br>🇬🇧 | Up to $3,084 a month.<br>🇦🇺 | Up to $1,993 a month.<br>🇮🇪 | Up to $1,793 a month.<br>🇨🇦 | Up to $1,433 a month.<br><br>🇺🇸 | $600 for 8 month.<br>That’s not a stimulus check. That’s a slap in the face.</p>&mdash; Andrea Junker ® (@Strandjunker) <a href="https://twitter.com/Strandjunker/status/1341073672438771713?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Noone seems to like Bruce Reed on the left corner bcz he is an
+austerity guy. 
+
+---
+
+Padilla sounds like a centrist jagoff. 1st impression. Let's see
 
 ---
 
