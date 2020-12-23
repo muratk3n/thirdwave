@@ -27,7 +27,7 @@ camera until AFTER the shooting had occurred"
 
 ---
 
-You pronounce xriental like xanadu
+You pronounce Xriental like Xanadu
 
 ---
 
