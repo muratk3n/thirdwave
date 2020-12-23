@@ -59,16 +59,19 @@ bat, and 60kg of lithium per 70kWh,
 
 ```python
 mday = 303e9 / (365.*2)
-print ("%d tons" % (mday / 250 * 60 / 1e3))
+lit = (mday / 250 * 60 / 1e3)
+print ("%d tons" % lit)
+print ("1/%d th of world reserves " % (17 * 1e6 / lit))
 ```
 
 ```text
 99616 tons
+1/170 th of world reserves 
 ```
 
-This is 1/170 th of world lithium reserves, based on existing driving
-patterns. This is for one country just to drive. There are 193
-countries in the world.
+This is for one country just to drive. UK pop is 1/113 th of the
+world. If everyone drives like UK, and driving patterns do not change,
+we will barely have enough lith for cars.
 
 H2 ve BE
 
