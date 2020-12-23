@@ -61,18 +61,17 @@ bat, and 60kg of lithium per 70kWh,
 mday = 303e9 / (365.*2)
 lit = (mday / 250 * 60 / 1e3)
 print ("%d tons" % lit)
-print ("1/%d th of world reserves " % (17 * 1e6 / lit))
+print ("%0.2f tons for world" % (lit * 113 / 1e6))
 ```
 
 ```text
 99616 tons
-1/170 th of world reserves 
+11.26 tons for world
 ```
 
-This is for one country just to drive. UK pop is 1/113 th of the
-world. If everyone drives like UK, based on today's driving patterns,
-we will barely have enough lith for cars, not much left for anything
-else.
+given that UK has 113 of world population... If driving patterns
+double, world is screwed. Not much lith left over for freight, air
+travel, home usage, and the like.
 
 H2 ve BE
 
