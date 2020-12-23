@@ -94,7 +94,8 @@ gain? Big Tech and Big Content"
 ---
 
 Numbers dont [look good](2020/07/h2-numbers.md#ukcar) for merely
-driving either..
+driving either.. The "barely enough", "sorta ok" does not leave much
+room for error, growth
 
 ---
 
