@@ -16,8 +16,8 @@ Haha Trump throws a curveball on the way out.
 
 ---
 
-More ineffective tech paint job fails to do the job. I bet centrists
-love this camera shit.
+More ineffective tech paint job that fails to do the job. I bet
+centrists love this camera shite.
 
 "@mh4oh
 
@@ -27,11 +27,11 @@ camera until AFTER the shooting had occurred"
 
 ---
 
-You pronounce Xriental like Xanadu
+Xriental is pronounced like Xanadu
 
 ---
 
-Xriental, Latinx ppl like it tho
+Xriental, Latinx ppl would agree with that
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">guy who spells words like &quot;color&quot; like &quot;colxr&quot; to be inclusive to British people</p>&mdash; make up a guy (@makeupaguy) <a href="https://twitter.com/makeupaguy/status/1341205202096058373?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -94,8 +94,8 @@ gain? Big Tech and Big Content"
 ---
 
 Numbers dont [look good](2020/07/h2-numbers.md#ukcar) for merely
-driving either.. The "barely enough", "sorta ok" does not leave much
-room for error, growth
+driving either.. Current calc does not leave much room for error,
+growth
 
 ---
 
@@ -107,12 +107,12 @@ Post delivery companies are having a field day..
 
 ---
 
-Noone seems to like Bruce Reed on the left corner bcz he is an
-austerity guy. 
+Noone seems to like Bruce Reed over on the left corner known as an
+austerity guy.
 
 ---
 
-Padilla sounds like a centrist jagoff. 1st impression. Let's see
+Padilla sounds like a centrist jagoff. 1st impression. 
 
 ---
 
