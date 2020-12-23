@@ -61,12 +61,12 @@ bat, and 60kg of lithium per 70kWh,
 mday = 303e9 / (365.*2)
 lit = (mday / 250 * 60 / 1e3)
 print ("%d tons" % lit)
-print ("%0.2f tons for world" % (lit * 113 / 1e6))
+print ("%0.2f mil tons needed globally" % (lit * 113 / 1e6))
 ```
 
 ```text
 99616 tons
-11.26 tons for world
+11.26 mil tons needed globally
 ```
 
 given that UK has 113 of world population... If driving patterns
