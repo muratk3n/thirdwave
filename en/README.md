@@ -12,7 +12,7 @@ trillion) by 2050, split between Asia, the U.S. and Europe"
 
 ---
 
-Haha Trump throws a curveball on the way out. Found an opening and pounced.
+Haha Trump throws a curveball on the way out. 
 
 ---
 
