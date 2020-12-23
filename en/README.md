@@ -108,8 +108,8 @@ orders. I myself started ordering more online.
 
 ---
 
-Noone seems to like Bruce Reed over on the left corner known as an
-austerity guy.
+Noone seems to like Bruce Reed over on the left corner, dude is known
+as an austerity guy.
 
 ---
 
