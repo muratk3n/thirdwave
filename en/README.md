@@ -16,8 +16,8 @@ Haha Trump throws a curveball on the way out. Found an opening and pounced.
 
 ---
 
-More ineffective tech paint job, failing to do the job. I bet
-centrists love this camera shit.
+More ineffective tech paint job fails to do the job. I bet centrists
+love this camera shit.
 
 "@mh4oh
 
