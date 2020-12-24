@@ -73,8 +73,7 @@ Ok then. Frak Euler
 ---
 
 Word is she is very jealous of Oliva Wilde, like, of her looks.. She
-is like 'bitch could steal my man'. She around struttin, man
-gone. Final. Prob right.. OW got it going on.
+is like 'bitch could steal my man'. Final. Prob right.. OW be 🔥
 
 ---
 
