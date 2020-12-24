@@ -58,23 +58,6 @@ bay.
 
 ---
 
-Testing new diet. Veg container, meat cont, meal takes from each, cont
-holds 4 servings. Freeze storage, taken out as needed. Breakfast,
-fruit jam plus cheese (feta-like, cow-goat, high calcium).
-
-Meat can be turkey, red (diced not minced), cooked w onions, all water
-boiled away. Same for veg, different kinds of cabbage (a very
-underrated veg).
-
-All natural, except perhaps jam, but that too is as natural as
-possible.
-
-Storage + mobility are key. Also w some gourmet effect. Stuff tastes
-good (onions, sauce preserved on meat, add water while heating, it's
-great).
-
----
-
 "@KFILE
 
 FLASHBACK: In 2018, President Trump attacked Carrots the turkey for

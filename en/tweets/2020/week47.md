@@ -15,7 +15,6 @@ reached fever pitch"
 
 ---
 
-
 Pino Shamlou - Connaction \#music
 
 [Link](https://youtu.be/GjtaKU7GpPU)
@@ -29,12 +28,7 @@ half-baked state of our transition today.
 
 ---
 
-It is hilarious how much water fruit, vegs contain.. A whole bag of
-spinach, or cabbage fits into a single glass jar once its water is
-boiled away. Taking water out is also key for long term storage as it
-turns out... Same for poultry.
 
----
 
 WaPo: "Apple is lobbying against a bill aimed at stopping forced labor in
 China"
