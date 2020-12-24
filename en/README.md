@@ -52,7 +52,7 @@ DJ Krust - Re-arrange (Cinematic Orchestra Remix) \#music
 Now perused a 1999 Fukuyama book where he dovetails on some Toffler
 work, talks about unhandled 3W entropy damaging 2W structures.
 
-Sounds optimistic overall.
+Other than that (!) sounds optimistic overall.
 
 ---
 
