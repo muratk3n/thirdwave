@@ -28,8 +28,6 @@ Jacobin: "Pfizer Is Using Patent Rules to Undercut Global Access to the COVID-19
 
 ---
 
-I was wondering abt that.
-
 "@ryanobles
 
 I fully believe that more people are traveling than probably should be
