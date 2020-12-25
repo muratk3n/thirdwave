@@ -1,5 +1,97 @@
 # Week 52
 
+Pinned Tweet
+
+"Calling it a once-in-a-lifetime opportunity, Goldman Sachs estimates
+the addressable market [of H2] could be worth €10 trillion ($11.7
+trillion) by 2050, split between Asia, the U.S. and Europe"
+
+---
+
+Low Fidelity Jet Set Orchestra - The Project (Part Two) \#music
+
+[Link](https://youtu.be/vZB_jXppg0g)
+
+---
+
+Elektrissimo - Luxus \#music
+
+[Link](https://youtu.be/vRolwEY7V4U)
+
+---
+
+Jacobin: "By Cutting Big Pharma Out of Vaccine Production, We Can Help Neutralize Anti-Vaxx Paranoia"
+
+---
+
+Jacobin: "Pfizer Is Using Patent Rules to Undercut Global Access to the COVID-19 Vaccine"
+
+---
+
+"@ryanobles
+
+I fully believe that more people are traveling than probably should be
+given the global pandemic..  but I’m in the world’s busiest airport
+the night before Christmas Eve and it is basically dead. (I’m
+traveling for work)"
+
+---
+
+Palin, Gaetz support the Snowden pardon... Good for them
+
+---
+
+DJ Krust - Re-arrange (Cinematic Orchestra Remix) \#music
+
+[Link](https://youtu.be/QjmC3IfSOc8?t=273)
+
+---
+
+Now perused a 1999 Fukuyama book where he dovetails on some Toffler
+work, talks about unhandled 3W entropy damaging 2W structures.
+
+Other than that (!) sounds optimistic overall.
+
+---
+
+Some good observations in there.
+
+---
+
+This stuff finds me.
+
+All 99 movies.
+
+The Year of the Cubicle Movie
+
+<iframe width="340" src="https://www.youtube.com/embed/RuZKG77vANU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Ok then. Frak Euler
+
+---
+
+Word is she is very jealous of Oliva Wilde, like, of her looks.. She
+is like 'bitch could steal my man'. Final. Prob right.. OW be 🔥
+
+---
+
+The girl in Transformers saz "Siiiiaaaammm!" to Shia's
+character.. Weird accent. What accent is that?  Midwestern?
+
+---
+
+A 1999 paper. Figures.
+
+---
+
+Jos... Jos... [Stam].
+
+Algo is graphically good but may not be scientifically accurate?
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: We&#39;re suing the FBI.<br><br>The agency is secretly breaking into encrypted devices. We need answers.</p>&mdash; ACLU (@ACLU) <a href="https://twitter.com/ACLU/status/1341522871873658882?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
