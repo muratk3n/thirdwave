@@ -58,12 +58,6 @@ Republicans"
 
 ---
 
-He's back
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Too many startups wanna build Grubhub, not enough wanna build Dominoes.</p>&mdash; Startup L. Jackson (@StartupLJackson) <a href="https://twitter.com/StartupLJackson/status/1322212869522419713?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
----
-
 Fantastic design - Airfish-8
 
 <iframe width="340" src="https://www.youtube.com/embed/C-sWokqiVHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
