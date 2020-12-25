@@ -1,4 +1,3 @@
-# Tweets
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
