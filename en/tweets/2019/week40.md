@@ -387,12 +387,6 @@ K. Aronoff.. full of bile. I like it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the 20th century, only 5-6 countries moved decisively from developing to developed country status. They are all in East Asia. None is known for its decentralisation in the sense you suggest, though all ensured they had many local banks. Encouraging local banks isn&#39;t IMF policy</p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1178090575741931520?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-30 20:17:14*
-
----
-
 Haha.. Guy did a research tracking Jim Cramer's stock recommendations,
 it turns out simple SP&500 index beats Cramer.
 

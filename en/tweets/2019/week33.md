@@ -247,12 +247,6 @@ Clarkson doesn't dislike electric cars monkey boy. He dislikes __battery__ elect
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ECB crushes German community banks, making up 80% of banks and the bulk of lending to the real economy and SMEs, forcing them to join the ECB-induced property bubble Germany, in pursuit of its official program to reduce the number of banks &amp; commentators wonder why economy tanks. <a href="https://t.co/TICEsj7a8B">https://t.co/TICEsj7a8B</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1161533882476503042?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-14 12:7:0*
-
----
-
 Corporate media.. the root of many ills
 
 [Link](https://youtu.be/tECJawoMcRY?t=727)
@@ -1061,12 +1055,6 @@ the associated cultures. The Vatican, Caliphatism, kleptomania,
 beastiality - all needs to go.
 
 *2019-8-10 14:46:24*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">20 years waiting for the great Japanese rate reductions to stimulate the economy - not long enough?</p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1160111087133581312?ref_src=twsrc%5Etfw">August 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-10 14:37:30*
 
 ---
 

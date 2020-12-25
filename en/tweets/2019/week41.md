@@ -1083,12 +1083,6 @@ distant hope something will come of it.. It is sad to watch #brexiters
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Via the funding. To pay for it, the government borrows the money from the private sector, so that it is now missing in the private sector for investment. Investment goes down. Proven in Japan, massive fiscal spending, but no impact<a href="https://t.co/OQFhDqkv2u">https://t.co/OQFhDqkv2u</a><a href="https://t.co/0HYmieJSM9">https://t.co/0HYmieJSM9</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1164309633634381824?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-10-4 11:30:17*
-
----
-
 \#outdoors No need to rain-proof everything, rain-proof pants, jacket,
 etc. Somewhat rain-proof jacket is good-enough. For true rain
 protection, that'll cover everything,

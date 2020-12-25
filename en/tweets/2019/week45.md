@@ -401,12 +401,6 @@ We need to admit the euro was a mistake"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cashing in and checking out. Saudi family sells the family silver. End of an era. Last big paycheck of backing the petrodollar. <a href="https://t.co/wYxq4bWWtE">https://t.co/wYxq4bWWtE</a></p>— Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1191070728763908096?ref_src=twsrc%5Etfw">November 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-5 8:44:59*
-
----
-
 "@phildobbie
 
 @ProfSteveKeen and I argue about Brexit – a Brexiteer and Remainer
@@ -700,12 +694,6 @@ Northern Ireland), then the general public wasn't making an informed
 decision"
 
 *2019-11-3 12:41:10*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And with &#39;happier to have jobs&#39; she must have been referring to her and ECB colleagues&#39; jobs, given the high general and record youth unemployment the ECB is responsible for. <a href="https://t.co/t9EBhXa0sF">https://t.co/t9EBhXa0sF</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1190759779985186821?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-3 12:33:34*
 
 ---
 

@@ -530,28 +530,6 @@ Drama school
 
 ---
 
-I guess I am closer to Fisherian explanation of the cycle, along with
-Keen, Werner.
-
-"The monetarist school of economic thought ties the economic cycle to
-the credit cycle. Changes in interest rates can reduce or induce
-economic activity by making borrowing to households, businesses and
-the government more or less expensive. The Keynesian approach argues
-that changes in aggregate demand, spurred by inherent instability and
-volatility in investment demand, is responsible for generating
-cycles. Adding to the complexity of interpreting business cycles,
-other famed economists, such as Irving Fisher, argued that there no
-such thing as equilibrium and therefore, cycles exist because the
-economy naturally shifts across a range of disequilibrium as producers
-constantly over- or under-invest and over- or under-produce as they
-try to match ever-changing consumer demands"
-
-[Link](https://www.investopedia.com/terms/e/economic-cycle.asp)
-
-*2019-8-18 23:26:10*
-
----
-
 I like how he judges labor, wages for inflation.
 
 Also says gold is a commodity, nothing more. It surely cannot form the
@@ -614,25 +592,6 @@ skipped bcz of this, more time left for modeling, and other
 essentials.
 
 *2019-8-18 21:19:51*
-
----
-
-I bet biz cycle with irate effect (as a control parameter) can be
-modeled with second order differential eqn ay''+by'+c = u(t), the
-solution to this eqn would be periodic - "the cycle". Then test irate
-effects through its seperate coefficient, see how it fits to data
-(tseries of gdp, irate).
-
-You could jive off of the pendulum ODE too; there is a g there,
-gravity, as in 'economic gravity', the control parameter irate would
-be increasing or decreasing gravity (isn't that what ppl expect of
-central bankers? Modify gravity?).
-
-The result will most likely show no effect, which is Richard Werner's
-claim. Macro effects irate, not the other way around (except for some
-psych effects). 
-
-*2019-8-18 18:45:25*
 
 ---
 
@@ -811,19 +770,6 @@ assets. So FED did something right, that time.
 "But didn't spending in US after 2008 help them recover faster?"
 
 *2019-8-17 17:40:6*
-
----
-
-The reason for '12 slump was the ECB, not "demand". Non-performing bad
-loans at banks could be fixed easily. See Werner ([1](https://www.res.org.uk/resources-page/july-2013-newsletter-quantitative-easing-and-the-quantity-theory-of-credit.html),[2](https://eprints.soton.ac.uk/341650/1/CBFSD%25202-12%2520Werner%2520Euro%2520Solution%252026%2520Jul%25202012%2520%2520revised.pdf))
-
-"@Brad_Setser
-
-Germany made the euro area's 11-12 slump worse by doing its own
-(unnecessary) fiscal consolidation.  That made life more difficult for
-its partners, not easier -- as the entire block lacked demand."
-
-*2019-8-17 17:34:6*
 
 ---
 

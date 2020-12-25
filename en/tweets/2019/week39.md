@@ -95,12 +95,6 @@ trigger the next financial crisis. Hopefully not yet"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;MMT&quot;, the official, controlled opposition to neoclassical economics. Useful for the financial oligarchy, as policy conclusions bark up the wrong tree, plus controlled and can be shut down any time. <a href="https://t.co/PKmYeItcVW">https://t.co/PKmYeItcVW</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1176233678030196736?ref_src=twsrc%5Etfw">September 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-25 19:44:29*
-
----
-
 "@mtracey
 
 Trump reportedly plans to release both the whistleblower complaint and

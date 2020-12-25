@@ -315,12 +315,6 @@ expect that Iran War would be as hard as the Iraq War.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally the ECB&#39;s negative interest rate policy is paying off: the ECB has brought the real economy to its knees, while the property market has been pushed into bubble territory. Well done ECB! <a href="https://t.co/EckofE0nsX">https://t.co/EckofE0nsX</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1215291783170744320?ref_src=twsrc%5Etfw">January 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-9 21:13:47*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be broadcast on Sat 18 Jan 2020; 08:32 UK time. <a href="https://t.co/Ivym3i9W9m">https://t.co/Ivym3i9W9m</a></p>&mdash; Graham Cooley (@GrahamCooley4) <a href="https://twitter.com/GrahamCooley4/status/1214844815759872000?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-1-9 18:3:30*

@@ -88,8 +88,6 @@
 
 [1.8 Trillion $ Theft](08/trillion-dollar-theft.md)
 
-[Twin Deficits, GFC](08/twin-deficits.md)
-
 [Anti-Zionism, Anti-Semitism](08/zionism-antisemitism.md)
 
 [Aluminum Trihydride - Alane](09/alane.md)

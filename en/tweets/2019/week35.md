@@ -387,27 +387,6 @@ overcomplicated way, because the obvious, simple approach doesn't seem
 
 ---
 
-That reminds me the R. Werner line, for the perfect econ imagined by
-establishment economists to exists, all the following has to be true:
-
-Perfect information. Complete markets. Perfect
-competition. Instantaneous price adjustment. Zero transaction
-costs. No time constraints. Profit maximisation of rational
-agents. Nobody is influenced in any way by actions of the others.
-
-But we know most of these are not true. Even if each item had 75%
-chance of being true, all of them being true has a chance of 10% (all
-probabilities multiplied). So this junk has 90% of chance of being
-wrong. Who can bet on that? Can we bet the future, well-being of
-humanity on these odds?
-
-[Link](https://citywire.co.uk/Publications/WEB_Resources/Creative/events/2018/Fixed-Income/RichardWerner.pdf)
-
-
-*2019-8-26 7:33:17*
-
----
-
 "[Economist] Lucas insisted that to be valid, a macroeconomic model
 had to be derived from the microeconomic theory of the behaviour of
 utility-maximizing consumers and profit-maximizing firms.

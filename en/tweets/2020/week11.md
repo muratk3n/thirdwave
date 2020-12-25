@@ -221,12 +221,6 @@ They bailed out Citadel & Millennium"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some buy gold. Others put their wealth into toilet paper. Each to their own.</p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1238828284709941248?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-14 17:27:39*
-
----
-
 Of course he had an "anti-poverty"
 [message](https://www.nytimes.com/2008/01/30/us/politics/30cnd-edwards.html)
 and was labeled a "populist".

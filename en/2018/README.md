@@ -64,8 +64,6 @@
 
 [Banking Scams](04/banking-scams.md)
 
-[Credit Guidance](04/credit-guidance.md)
-
 [#dccc #badabim #badaboom](04/dccc-badabim-badabum.md)
 
 [Learning to Drive](04/learning-to-drive.md)
@@ -79,8 +77,6 @@
 [Q&A - 4/4](04/q-44.md)
 
 [Yo Bitch](04/yo-bitch.md)
-
-[Do We Need Central Banks?](05/do-we-need-central-banks.md)
 
 [Economy](05/economy.md)
 
@@ -97,8 +93,6 @@
 [Q&A - 20/5](05/q-205.md)
 
 [Q&A - 21/5](05/q-215.md)
-
-[Q&A - 27/5](05/q-275.md)
 
 [Q&A - 30/5](05/q-305_30.md)
 

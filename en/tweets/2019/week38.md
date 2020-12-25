@@ -530,12 +530,6 @@ GF says Iran did it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pure fiscal policy doesn&#39;t stimulate economic growth, because for growth you need credit creation for GDP transactions. <br><br>Empirically demonstrated decades ago.<br><br>Recently, see<br>Enhanced Debt Management<a href="https://t.co/krR7e0AYQj">https://t.co/krR7e0AYQj</a><br><br>QTC<a href="https://t.co/OQFhDqkv2u">https://t.co/OQFhDqkv2u</a><a href="https://t.co/0HYmieJSM9">https://t.co/0HYmieJSM9</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1172866104315797509?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-15 13:38:40*
-
----
-
 In finance you can make a billion [with a single
 decision](https://twitter.com/RaoulGMI/status/1139692973711511559) -
 this should not be possible. Not only does it create inequality, it
@@ -804,12 +798,6 @@ flying machines'"
 [Link](https://amp.theguardian.com/commentisfree/2019/sep/11/boeing-capitalism-deregulation?__twitter_impression=true)
 
 *2019-9-13 21:41:42*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s not a stimulus package but continuation of the longstanding ECB plan to annihilate German economic growth &amp; prosperity by destroying the 1500 not-for-profit community banks that have been funding the Mittelstand SMEs at the heart of German economic performance last 200 years <a href="https://t.co/SdFZYf6cii">https://t.co/SdFZYf6cii</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1172543744295493632?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-13 21:4:52*
 
 ---
 

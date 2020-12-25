@@ -582,12 +582,6 @@ Not a good idea to be a libertard goldcuck. They  will have a lot of deflation.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Deflation is worse than inflation: modest inflation is manageable for everyone, but deflation happens when nominal GDP shrinks. That means large numbers of corporate bankruptcies. While the economists rejoice that things are cheaper for &#39;consumers&#39;, they can&#39;t buy as unemployed. <a href="https://t.co/Deitoyu3cC">https://t.co/Deitoyu3cC</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1226629826435600385?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-2-11 19:8:41*
-
----
-
 "@PekalaLaw
 
 Hey, all you crazy conspiracy theorists who claimed Apple was slowing

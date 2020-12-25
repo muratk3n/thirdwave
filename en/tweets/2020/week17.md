@@ -1239,15 +1239,6 @@ real money on this, you will lose your shirt!
 
 ---
 
-I keep revisiting Japan, bcz no explanation I've heard so far sounds
-complete. Werner is all about the "window guidance". Others are too
-focused on trade issues. This guy says the over-competitive
-environment between cartels created growth and then the bubble.
-
-*2020-4-19 8:39:6*
-
----
-
 *Japan's Economic Dilemna*, Gao (on Japan's bubble, and following stagnation)
 
 "The dilemma in Japanese corporate governance between, on the one hand,

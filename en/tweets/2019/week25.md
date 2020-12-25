@@ -332,35 +332,6 @@ growth decrease rates but u r off textbook territory now.
 
 ---
 
-Why was the inflation so low in US for so long? 
-
-Keen on inflation. Reasons:
-
-1) Exports more than imports (money coming in more than money going out)
-
-2) Banks lending, credit creates new money -as banks don't lend "savings", they print the money-
-
-3) Gov printing (spending more than it gets in taxes)
-
-
-[Link](https://youtu.be/JX4hoiNtfPY?t=274)
-
-\#1 is not the case for US, so it makes sense, China exports deflation. 
-
-Most usually talk about (and fear) \#3 - that can be the case if you are Venezuella, Zimbabwe, places that are governed by imbeciles.
-
-\#2 matches with Werner, credit creation more than growth potential is inflation. Keen also adds trigger for \#2 can be workers bidding up
-wages, biz goes to bank asks for more credit, money is created => inflation. In US wage growth has been bad, no demand for workers (?), no inflation. Technology plays a role here?
-
-I saw some on the Net arguing Fed keeping rates low helps zombie companies to stay alive and keeping their prices artificially low,
-because they can. Credit is cheap. Without cheap credit maybe your Uber ride would be twice as expensive. Not saying Uber is a zombie, but there are a lot of zombies out there. This explanation.. might be true. 
-
-Low rates create asset price inflation, that money never goes to people, no increased circulation, no inflation.
-
-*2019-6-17 11:20:54*
-
----
-
 Keen on gold
 
 [Link](https://youtu.be/X-N0EnY0qjI?t=98)

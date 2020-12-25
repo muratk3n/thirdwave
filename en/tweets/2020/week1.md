@@ -858,12 +858,6 @@ of pension rights"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If one wrongly assumes that all money is used for the real economy, as MV=PY does, then the trend of greater amounts of money going into non-GDP transactions (real estate, financial, none of which are part of GDP) creates the illusion of a velocity decline<a href="https://t.co/hXmzf048yG">https://t.co/hXmzf048yG</a> <a href="https://t.co/sUxNwx04vf">https://t.co/sUxNwx04vf</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1211555870687019008?ref_src=twsrc%5Etfw">December 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-30 14:45:14*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean hydrogen, being produced from renewables, nuclear or fossil fuels with CCUS, can help to decarbonise a range of sectors, including long-haul transport, chemicals, and iron and steel - where it is proven difficult to reduce emissions.<a href="https://t.co/bmjixDs4vI">https://t.co/bmjixDs4vI</a></p>&mdash; IEA (@IEA) <a href="https://twitter.com/IEA/status/1211312172577501184?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-12-30 14:9:57*

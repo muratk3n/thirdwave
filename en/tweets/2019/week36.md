@@ -644,13 +644,6 @@ SURUS has a range of 400miles, can be used as a stand alone generator to power a
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Time for embassies to issue a travel warning re: USA? <a href="https://t.co/NgvtioNgUf">https://t.co/NgvtioNgUf</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1168057519769620480?ref_src=twsrc%5Etfw">September 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-1 20:32:19*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A year ago I had to watch every move while my kids climbed Central Park rock formations... now I don&#39;t even know where they are. Just reading paper in shadow of Billionaire row construction sites.... <a href="https://t.co/mOq5YOMRZm">pic.twitter.com/mOq5YOMRZm</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1168235774921322497?ref_src=twsrc%5Etfw">September 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-9-1 20:32:19*
@@ -740,35 +733,6 @@ multi-megawatt solutions for electrifying large off-grid communities."
 
 ---
 
-Velocity was not jumping around, they were looking at the wrong money
-supply (see
-[Werner](https://www.oenb.at/dam/jcr:63a2b07f-1ef8-48cb-8e28-ef36698a8d19/werner_richard.pdf),
-pg. 6). M2 is not the true money supply, the amount of outstanding
-private credit has to be factored in too. Banks print money while
-giving credit. Once you use that amount, you'll see velocity is
-constant.
-
-So I guess M. Friedman himself did not know this fact otherwise he'd
-have told ppl to look for it there. He was on the right track, just
-did not go far enough.
-
-BTW banker motherf..ers know what's going on. They dangle bright shiny
-objects in front of fools like "interest rates" which even a moron can
-say a few words on, but the true lever is the lever of money creation
-through credit. They use that to guide governments, create boom and
-bust cycles while others chase their tails. No economist who talks
-about these facts will get the Nobel prize, Riksbank will make sure of
-that.
-
-"Moreover, one of [Milton Friedman's] most basic assertions was
-wrong. Friedman had said policy makers could count on stability in the
-velocity of money — the frequency with which money was used. Indeed,
-velocity was stable between 1948 and 1981.82 But as the Fed targeted
-the money supply, velocity began to jump around." --Appelbaum
-
-*2019-9-1 17:4:45*
-
----
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the environment were a bank it would have been saved already.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1167433945899835393?ref_src=twsrc%5Etfw">August 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -638,12 +638,6 @@ last best hope.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bank of Japan playbook about how to cause a 20-year slump. <a href="https://t.co/JA7tgBhU87">https://t.co/JA7tgBhU87</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1234982963676241921?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-3-4 10:59:32*
-
----
-
 ♪♬ You a Snitch Tigga, when you rat on yo friends 
 
 ♪♬ Bitch Tigga, when you steal an' sass 

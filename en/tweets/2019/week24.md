@@ -30,15 +30,6 @@ Tigga is still flailing here talkin bout military service and such going apeshit
 
 ---
 
-Whaddayaknow? Werner is right. Credit flowing to wrong places is more
-dangerous than "surplus countries" and "deficit
-countries". Varoufuckis take note.
-
-
-*2019-6-15 10:14:23*
-
----
-
 LA feels like a "village"; I hate the place already.
 
 Village is an agrarian concept, closely knit gathering, which

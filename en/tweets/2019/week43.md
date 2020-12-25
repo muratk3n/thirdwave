@@ -52,12 +52,6 @@ Guy on Twitter working for psyop team \#dore
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exactly. That was the beginning of the Greenspan bubble, culminating in the 2008 international banking crises, as I had warned it would in my book Princes of the Yen <a href="https://t.co/MBSUWesUYn">https://t.co/MBSUWesUYn</a> originally published in Japanese in 2001. <a href="https://t.co/ZVlDCHRR90">https://t.co/ZVlDCHRR90</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1186768429006622722?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-10-23 11:49:31*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At this rate, the food everyone has been stockpiling will be out of date by the time Brexit fucking happens</p>&mdash; Rosie (@TheRosie) <a href="https://twitter.com/TheRosie/status/1186716687221047297?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2019-10-23 11:46:20*
@@ -337,12 +331,6 @@ effectively allowing these firms collect rent from the sick" - Aronoff
 [Link](https://www.theguardian.com/commentisfree/2019/oct/21/mark-zuckerberg-plea-biillionaire-class-anti-democratic)
 
 *2019-10-21 17:37:14*
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even after 20 years of artificial, central bank imposed recession, the Bank of Japan continues to repeat its long disproven mantra of &#39;structural reform&#39;. See Princes of the Yen <a href="https://t.co/MBSUWesUYn">https://t.co/MBSUWesUYn</a> <a href="https://t.co/LfgJQ0evNq">https://t.co/LfgJQ0evNq</a></p>&mdash; Richard Werner (@scientificecon) <a href="https://twitter.com/scientificecon/status/1186251138468847616?ref_src=twsrc%5Etfw">October 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-10-21 17:10:26*
 
 ---
 
