@@ -62,7 +62,7 @@ Lavo storage unit has;
 ---
 
 Great H2 storage company [LAVO](https://lavo.com.au) whose tech turns
-the renewable fuel into a battery-like storage medium.
+renewable fuel into a long-term storage mechanism.
 
 <img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
 
