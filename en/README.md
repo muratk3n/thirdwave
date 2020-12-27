@@ -44,7 +44,7 @@ Swell
 
 ---
 
-Here is a list of energy requirements of typical household items
+Eng requirements of some househ items
 
 * Single burner electric stove: 1500 Watts
 * TV: 80-400 Watts
