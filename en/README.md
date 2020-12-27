@@ -54,7 +54,7 @@ Here is a list of energy requirements of typical household items
 
 Lavo storage unit has;
 
-* 40 kWh capacity, 5 kW (charge and discharge)
+* 40 kWh capacity
 * Output Voltage Range: 45 – 53 V DC
 * 30 yrs lifespan (10 times more than the equivalent battery tech)
 * Main element used hydrogen hydride is non-toxic, fully recyclable
