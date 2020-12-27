@@ -144,8 +144,6 @@ real"
 
 Fast, fast... Lots o' particles simulated through the GPU..
 
-<img width="240" src="https://drive.google.com/uc?export=view&id=1egl3wROzd8_VBA9qqEnVLwz1dBQmuYmi"/>
-
 ---
 
 Industrial Age society, the Second Wave began in Western Europe with
