@@ -74,8 +74,8 @@ Death came a knocking- Ruthie Foster \#music
 
 ---
 
-[Added](2019/05/stats.md#t3mff) the FRED graph which is 3-month
-treasury and FEDFUNDS differential. 
+[FRED graph](2019/05/stats.md#t3mff), 3-month treasury and FEDFUNDS
+differential.
 
 When the difference is out of whack, it can be a signal things are
 about to go kaboom.
