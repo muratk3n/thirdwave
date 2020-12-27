@@ -110,9 +110,9 @@ Runoff elections and race
 
 But guess what, BJ agreed to it.
 
-"NI will stay in the EU single market for goods and will continue to
-enforce EU customs rules at its ports. This will .. create a new 'sea
-border' with the rest of the UK".
+>NI will stay in the EU single market for goods and will continue to
+>enforce EU customs rules at its ports. This will .. create a new 'sea
+>border' with the rest of the UK
 
 FREEEEDOM!
 
