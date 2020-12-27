@@ -140,8 +140,7 @@ real"
 
 ---
 
-Fast as shit son... 16K particles simulated in a blink through the
-GPU..
+Fast as shit son... Lotso particles simulated through the GPU..
 
 <img width="240" src="https://drive.google.com/uc?export=view&id=1egl3wROzd8_VBA9qqEnVLwz1dBQmuYmi"/>
 
