@@ -11,11 +11,11 @@ Yoshinori Sunahara - Hypnotize \#music
 ---
 
 Here's a simple way that can happen..  Let's say u dont want to wait
-for 1, 2, or 8 frickin hours to charge a battery. Then u say "we'll
-just have a swap mechanism, u give your empty one, get a charged
-one". Right there, you just doubled the amount of lithium needed bcz
-on top of the lithium needed for cars, now u need just as much lithium
-for bats that are waiting, offline to be picked up in case of a swap.
+for 1, 2, or 8 hrs to charge. Then u say "we'll just have a swap
+mechanism, u give your empty one, get a charged one". Right there, you
+just doubled the amount of lithium needed bcz on top of the lithium
+needed for cars, now u need just as much lithium for bats that are
+waiting, offline to be picked up in case of a swap.
 
 "But doubling the usage of lithium for transport does not seem likely,
 we can make do with what we have"
