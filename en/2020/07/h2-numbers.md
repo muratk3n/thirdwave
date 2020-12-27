@@ -108,6 +108,12 @@ Personal Consumption
 
 10 KW / person, based on first world standards.
 
+Typical energy requirements of household items
+
+Single burner electric stove: 1500 Watts
+TV: 80-400 Watts
+Fridge: 100-250 watts
+
 HFC Cars
 
 A Nexo tank carries 210 kWh of energy. The car can travel 756 km on a
@@ -158,9 +164,6 @@ Fossil, Oil
 Saudi Arabia produces 8,963.000 Barrel/Day (Nov 2020).
 
 Energy density of crude oil is 44 MJ/kg, or 158.4 Kwh/kg.
-
-
-
 
 References
 

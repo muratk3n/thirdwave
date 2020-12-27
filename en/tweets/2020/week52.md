@@ -35,10 +35,6 @@ traveling for work)"
 
 ---
 
-Palin, Gaetz support the Snowden pardon... Good for them
-
----
-
 DJ Krust - Re-arrange (Cinematic Orchestra Remix) \#music
 
 [Link](https://youtu.be/QjmC3IfSOc8?t=273)

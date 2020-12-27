@@ -567,7 +567,7 @@ DATE
 
 ![](junkbond.png)
 
-## Yield Curve
+## Yield Curve, Rates
 
 <a name="curve"></a>
 
@@ -606,6 +606,40 @@ DATE
 ```
 
 ![](yield-curve.png)
+
+<a name='t3mff'/>
+
+3-Month Treasury Constant Maturity Minus Federal Funds Rate
+
+```python
+import pandas as pd, datetime
+from pandas_datareader import data
+
+pd.set_option('display.max_columns', 10)
+
+today = datetime.datetime.now()
+start=datetime.datetime(1999, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+cols = ['T3MFF']
+df = data.DataReader(cols, 'fred', start, end)
+print (df.tail(6))
+df.plot()
+plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
+plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.savefig('t3mff.png')
+```
+
+```text
+            T3MFF
+DATE             
+2020-12-16   0.00
+2020-12-17  -0.01
+2020-12-18  -0.01
+2020-12-21   0.00
+2020-12-22   0.00
+2020-12-23   0.00
+```
+![](t3mff.png)
 
 
 <a name="vix"></a>
