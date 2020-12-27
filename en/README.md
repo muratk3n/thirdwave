@@ -119,10 +119,10 @@ FREEEEDOM!
 ---
 
 "[N]o UK prime minster could ever agree to it," Theresa May had said
-about an earlier text] which the commission have published, which
+about an earlier text] which the commission have published, "which
 would, if implemented, undermine the UK common market and threaten the
 constitutional integrity of the UK by creating a customs and reg
-border down the Irish Sea.
+border down the Irish Sea".
 
 ---
 
