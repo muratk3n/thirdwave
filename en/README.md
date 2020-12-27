@@ -24,7 +24,7 @@ we can make do with what we have"
 
 The science
 
-[Link](https://youtu.be/LS9tbtrKWNE?t=1856)
+[Link](https://youtu.be/LS9tbtrKWNE?t=1888)
 
 ---
 
