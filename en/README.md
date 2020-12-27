@@ -86,8 +86,7 @@ Since IR is a short term rate, it would be logical to assume the
 instrument that is effected by IR the most can be a predictor of
 it. This is the 3-month treasury bill, something the market constantly
 votes on with their money. The paper below suggests 3-month treasury
-price has some predictive value. There is a playbook, followed by CB,
-mostly to set rates.
+price has some predictive value. 
 
 "This paper shows that the spread between the 3-month Treasury bill and
 the federal funds rate has significant predictive power for the future
