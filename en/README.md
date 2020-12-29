@@ -19,8 +19,10 @@ any energy solution. If something is feasible engineering-wise, you
 can *make* it affordable. Is oil cheap to produce? Its companies
 received trillions in subsidies in the past that made this fuel
 possible. Tech is subsidized, you are paying locals, you are paying to
-CIA to stir shit up in the region so u can get oil. All bcz powers
-that be wanted this fuel be possible, and it became possible.
+CIA to stir shit up in the region so u can get oil.... All bcz powers
+that be wanted this fuel be possible, and it became
+possible. Obviously engineering, chemical-wise it had certain
+properties that made it optimal. That is the starting point.
 
 ---
 
