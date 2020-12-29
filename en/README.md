@@ -34,7 +34,7 @@ properties that made it optimal. That is the starting point.
 are, and the other guy being where he is. You dont "try" to be the
 middle.
 
-If u preemptively chases the middle it will run away, go further to
+If u preemptively chase the middle it will run away, go further to
 right. You'll be like that dog chasing its own tail, never reaching
 it.
 
