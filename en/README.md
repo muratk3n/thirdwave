@@ -79,7 +79,7 @@ with that settlement activity bcz as Americans they are playing
 Cowboys and Indians with the locals (some of whose ancestors were
 probably true ancient Jews from the region) and have a frontier
 mentality. They had their PM in Netan who speaka Americanese (better
-than his Hewbrew apparently)
+than his Hebrew apparently)
 
 ---
 
