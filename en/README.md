@@ -92,7 +92,7 @@ situations* (italics mine)"
 
 ---
 
-Another Cal recall? Dam.
+Another Cal recall in the works? Dam.
 
 Lota ppl are upset over there..
 
