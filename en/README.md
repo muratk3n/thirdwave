@@ -41,9 +41,13 @@ infrastructure.
 
 ---
 
-Wut? They almost had the Chuck guy playing C America? They made a good
-choice.. CA needs to be a little square... I cant see Lewi pulling it
-off. He has too much comedy in him.
+E Blunt could pull off Black Widow though..
+
+---
+
+Wut? They almost had the the guy from the Tom Clancy show playing C
+America? They made a good choice.. CA needs to be a little
+square. Evans is better square. 
 
 ---
 
