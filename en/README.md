@@ -26,7 +26,7 @@ Well anyway, one of my Hum classes was changes tech causes on
 society. The Internet had not made it to the textbooks yet, but the
 so-called client-server IT had been in use for a while, like the
 "groupware" Lotus Notes, and they could analyze some of
-that. Groupware lets you schedule meetings, etc obviosuly. You could
+that. Groupware lets you schedule meetings, etc obviously. You could
 see everyone's schedule, and schedule meeting accordingly. I'll never
 forget one case where an exec would preemptively block out almost all
 spots in his calendar, bcz he didnt want people to schedule meetings
