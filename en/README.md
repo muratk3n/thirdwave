@@ -59,6 +59,11 @@ square. Evans is better square.
 
 ---
 
+Teeka Tiwari, the "legendary investor", bought one long-ass ad time to
+sell me blockchain. A for effort. 
+
+---
+
 No fireworks in Sydney? 
 
 ---
