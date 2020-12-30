@@ -4,6 +4,18 @@ Happy new year muthafukkas
 
 ---
 
+Hey Michael Irby from The Unit. Good actor.
+
+\#TheExpanse
+
+---
+
+Expanse is at its best when it is showing off all that cool
+tech... The horizontal / vertical elevator was awesome. It goes
+reeally fast than all of a sudden goes vertical? Sweet.
+
+---
+
 My alma-mater prided itself for being an engineering school with a
 strong humanity bent. You had to take lots of classes from humanities,
 which all students playfully called Hum. Hummmm... which bothered some
@@ -26,18 +38,6 @@ working" either... This was a good lesson. I guess I was already on
 the way of writing this dinky stuff I write today.. 3W tech can
 disturb, and may not alter "everything" wout correct social
 infrastructure.
-
----
-
-Hey Michael Irby from The Unit. Great actor.
-
-\#TheExpanse
-
----
-
-Expanse is at its best when it is showing off all that cool
-tech... The horizontal / vertical elevator was awesome. It goes
-reeally fast than all of a sudden goes vertical? Sweet.
 
 ---
 
