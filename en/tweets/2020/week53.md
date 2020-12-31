@@ -64,10 +64,6 @@ sell me blockchain. A for effort.
 
 ---
 
-No fireworks in Sydney? 
-
----
-
 The Speaker of the House in front of a chatroom doesnt get you "the
 future". Tech wout the correct backdrop may not always cause advance.
 
