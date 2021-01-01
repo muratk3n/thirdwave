@@ -64,7 +64,7 @@ it's completely anonymous. \#CAnotify \#addyourphone"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There?s also no ?git praise? to go with ?git blame? either which probably speaks volumes about modern software development :o).</p>&mdash; Chris Oldwood (@chrisoldwood) <a href="https://twitter.com/chrisoldwood/status/1344219040152248322?ref_src=twsrc%5Etfw">December 30, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There’s also no ‘git praise’ to go with ‘git blame’ either which probably speaks volumes about modern software development :o).</p>&mdash; Chris Oldwood (@chrisoldwood) <a href="https://twitter.com/chrisoldwood/status/1344219040152248322?ref_src=twsrc%5Etfw">December 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
