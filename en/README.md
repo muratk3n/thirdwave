@@ -11,8 +11,8 @@ Calibro 35 - Giulia Mon Amour
 ---
 
 I realized there are some gems about "policy vs crass pollster" angle
-in George Stepahanapopopolloolololopopopooloopopous book All Too
-Human. See the fights against the rabid pollster Dick Morris.
+in George Stepahanapopopolloolololooloopopous book *All Too Human*.
+See the fights against the rabid pollster Dick Morris.
 
 ---
 
