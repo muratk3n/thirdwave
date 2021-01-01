@@ -107,9 +107,10 @@ however he chooses"
 
 Trade if you must, buy if you need, but nothing beats highly localized
 networks which have dense interlocking know-how. This is why advanced
-countries are advanced. Pfizer develops drug with cooperation, but
-they are at the center of that cooperation and they are based in
-Germany. The cooperation part is secondary, and moot.
+countries are advanced. Pfizer/BioNTech develops drug with
+cooperation, but they are at the center of that cooperation and their
+chief scis are based in Germany. The cooperation part is secondary,
+and moot.
 
 ---
 
