@@ -16,7 +16,7 @@ See the fights against the rabid pollster Dick Morris.
 
 ---
 
-BTW eff polls, most are not trustworthy. Trust what ppl do with their vote.
+Eff what ppl say, look at what they do with their vote.
 
 ---
 
