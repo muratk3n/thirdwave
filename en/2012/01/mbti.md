@@ -64,6 +64,10 @@ the inferior function. There we have an open wound, or at least an
 open door through which anything might enter.  So if you cannot
 profile using dominants, go to tertiary and auxilary.
 
+Type Descriptions
+
+
+
 References
 
 [Take the Test](../../2019/08/mbti_en.html)
