@@ -47,8 +47,8 @@ assimilation. Uygurs in China fit this description.
 
 ---
 
-What was my New Year meal? The Irish stew baby.. could not find
-Guiness but used another dark malt. Superb.
+What was my New Year meal? Irish stew baby.. could not find Guiness
+but used another dark malt. Superb.
 
 ---
 
