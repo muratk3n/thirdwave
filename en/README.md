@@ -89,10 +89,11 @@ from his UI anyway.
 ---
 
 AFAIK time is unidirectional (no going back) and exists simply due to
-entropy which always increases. LS calls time essential, space is
-emergent. Events, relations, a graph of them, is real. We sense this
-structure as space in our minds (emergent). Future does not
-exist. There is one specific history.
+entropy which always increases (Hawking's *A Brief History of
+Time*). LS calls time essential, space is emergent. Events, relations,
+a graph of them, is real. We sense this structure as space in our
+minds (emergent). Future does not exist. There is one specific
+history.
 
 ---
 
