@@ -1,7 +1,5 @@
 # Tweets
 
-Nice
-
 "@carterforva
 
 It's no secret that Virginia is divided, but it's not red vs. blue.
