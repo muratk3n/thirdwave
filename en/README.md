@@ -78,7 +78,7 @@ of light, concepts like close, far is for the renderer... Space is
 emergent for the gamer, dude who plays.
 
 If The Programmer is good (which "He" probably is) he would seperate
-the backg logic from his UI anyway.
+the backg logic from his UI anyway. Whapush 😉
 
 ---
 
