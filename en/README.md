@@ -60,6 +60,12 @@ Pleasure - Joyous \#music
 
 ---
 
+BTW the LS ideas are more than a hidden variable viewpoint.. He posits
+an ENTIRE MUCKING STRUCTURE behind everything, not a few dimensions
+that are not seen, hidden.
+
+---
+
 Locality is violated, so what? Think like a game programmer. If I am
 keeping track of all objects of the uni in a graph, I could put a
 direct link between two entangled objects; Alice and Bob. A property
