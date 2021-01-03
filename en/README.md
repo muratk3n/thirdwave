@@ -60,9 +60,9 @@ Pleasure - Joyous \#music
 
 ---
 
-BTW the LS ideas are more than a hidden variable viewpoint.. He posits
+LS ideas sound like more than a hidden variable viewpoint.. He posits
 an ENTIRE MUCKING STRUCTURE behind everything, not a few dimensions
-that are not seen, hidden.
+that are not seen
 
 ---
 
