@@ -73,8 +73,8 @@ go from Alice to Bob in one hop (just follow pointer, O(1)). The speed
 of light, concepts like close, far is for the renderer... Space is
 emergent for the gamer, dude who plays.
 
-If The Programmer had any brains he would seperate the backg logic
-from his UI anyway.
+If The Programmer is good (which "He" probably is) he would seperate
+the backg logic from his UI anyway.
 
 ---
 
