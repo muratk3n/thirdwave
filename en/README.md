@@ -141,7 +141,7 @@ He/Him Darth Maul.
 
 ---
 
-"Is the dark side be globalist moderate cuck?". Good question
+"Is the dark side globalist moderate cuck?". Good question
 
 ---
 
