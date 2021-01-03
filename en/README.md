@@ -117,9 +117,9 @@ description will do"
 
 ---
 
-Heard about Barbour from @skdh vid, his vid touched to Leibniz,
-relations. Sounded like Lee Smolin, and indeed there is ref to Barb in
-*Einstein's Unfinihed Revolution*,
+Heard about Barbour from @skdh vid, one Barbour lec touches on
+Leibniz, relations. Sounded like Lee Smolin, and indeed there is ref
+to Barb in *Einstein's Unfinihed Revolution*. He took some ideas from B
 
 ---
 
