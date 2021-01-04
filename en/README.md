@@ -1,6 +1,6 @@
 # Tweets
 
-Uncle Don acted like corporatist sadly. In near future.
+Uncle Don acted like corporatist sadly. In near past.
 
 But we got to see libs squirm and had some good TV.. Cant complain.
 
