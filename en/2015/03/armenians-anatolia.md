@@ -1,4 +1,4 @@
-# Armenians of Anatolia
+# The Armenians of Anatolia
 
 [Talking at the table next to me, at a restaurant, in Berlin] I was
 talking to a German who served in the air force and he said he did not

@@ -16,5 +16,7 @@
 
 [Israel-TR](../../2018/07/q-127.html#israeltr)
 
+[Armenians of Anatolia](../../2015/03/armenians-anatolia.md)
+
 [[⇪Up]](../..)
 
