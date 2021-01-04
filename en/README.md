@@ -19,10 +19,10 @@ Oh no, not Uncle Joe
 It's a new age now, of course, we all hope for the best, prep 4 the
 worst.
 
-"The president had made overhauling taxation with dramatically lower
-tax rates the top domestic priority of his second term. On that 22nd
-of October 1986, about to sign into law the Tax Reform Act, he had
-reason to be joyful. Starting on January 1, 1988, the country that had
+"[Reagan] had made overhauling taxation with dramatically lower tax
+rates the top domestic priority of his second term. On that 22nd of
+October 1986, about to sign into law the Tax Reform Act, he had reason
+to be joyful. Starting on January 1, 1988, the country that had
 pioneered the quasi-confiscatory taxation of high incomes would apply
 the lowest top marginal income tax rate in the industrial world:
 28%. After three weeks of floor debates, the tax bill had passed
