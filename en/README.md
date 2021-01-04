@@ -82,14 +82,14 @@ drive, dress, or buy appliances, sales taxes apply all the way"
 
 ---
 
-"Under business as usual, income concentration is likely to keep rising
-in the medium run thanks to a snowball effect: the wealthy save a
-higher fraction of their income than the rest of the population, which
-allows them to accumulate more wealth, which in turn generates
+"Under business as usual, income concentration is likely to keep
+rising in the medium run thanks to a snowball effect: the wealthy save
+a higher fraction of their income than the rest of the population,
+which allows them to accumulate more wealth, which in turn generates
 additional income. For most of the twentieth century, progressive
-taxationâ€”and especially high tax rates on capital (as opposed to
-labor)â€”had kept this spiral under control. But the tax changes of
-the last two decades have dismantled this safeguard"
+taxation and especially high tax rates on capital (as opposed to
+labor) had kept this spiral under control. But the tax changes of the
+last two decades have dismantled this safeguard"
 
 \#TriumphOfInjustice \#zucman
 
