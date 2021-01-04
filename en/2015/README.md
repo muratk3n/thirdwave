@@ -86,23 +86,15 @@
 
 [Q&A - 6/3](03/63.md)
 
-[Armenians of Anatolia](03/armenians-anatolia.md)
+[The Armenians of Anatolia](03/armenians-anatolia.md)
 
 [Bitcoin Debit Card](03/bitcoin-debit-card.md)
 
 [#canyouspeakit](03/canyouspeakit.md)
 
-[#college](03/college.md)
-
 [Gallipoli, Russell Crowe](03/gallipoli.md)
 
-[#glacierwatch](03/glacierwatch.md)
-
-[#israel](03/israel.md)
-
 [#itsallaboutinformation](03/itsallaboutinformation.md)
-
-[Jim Jefferies](03/jim-jeffries.md)
 
 [Q&A - 13/3](03/q-153.md)
 
@@ -117,8 +109,6 @@
 [Q&A - 9/3](03/q-83.md)
 
 [The Glass Cage: Automation and Us](03/the-glass-cage-automation-and-us.md)
-
-[#whatsapp](03/whatsapp.md)
 
 [Robotics Eating Jobs](04/ai-eating-jobs.md)
 
