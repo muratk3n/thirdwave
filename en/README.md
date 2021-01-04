@@ -66,7 +66,7 @@ Gilded Age"
 "The second and primary culprit for the high tax rates paid by
 working-class Americans is consumption taxes. The United States may
 not have a value-added tax, but it has a proliferation of sales and
-excise taxes that, like a VAT, make prices higher. And thereâ€™s a
+excise taxes that, like a VAT, make prices higher. And there's a
 twist: in contrast to regular value-added taxes, US levies exempt most
 services, which the affluent consume at high rates as a percentage of
 their overall spending. This twist means that the consumption of the
