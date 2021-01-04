@@ -10,7 +10,7 @@ it’s worth recording here its most direct implication: low corporate
 taxes mean the ultra-rich, whose income mostly derives from owning
 shares in corporations, now really can get off almost scot-free"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
@@ -32,7 +32,7 @@ this day, and although it is now widely recognized as one of the key
 contributors to the explosion of inequality, the bill is still fondly
 remembered by all those involved in its crafting"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
@@ -45,7 +45,7 @@ planters. They fought such taxes tirelessly, and for two centuries
 wielded their power to keep taxes and public institutions
 archaic. How? By stifling democracy"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
@@ -59,7 +59,7 @@ plutocracy in the past. It triumphed over the slaveholding plutocracy
 of the South. It beat back the nascent industrialist plutocracy of the
 Gilded Age"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
@@ -78,7 +78,7 @@ Do you enjoy going to the opera? No sales tax. Have a country club
 membership? No sales tax. Need a lawyer? No sales tax. But if you
 drive, dress, or buy appliances, sales taxes apply all the way"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
@@ -91,7 +91,7 @@ taxation and especially high tax rates on capital (as opposed to
 labor) had kept this spiral under control. But the tax changes of the
 last two decades have dismantled this safeguard"
 
-\#TriumphOfInjustice \#zucman
+\#TriumphOfInjustice \#Zucman
 
 ---
 
