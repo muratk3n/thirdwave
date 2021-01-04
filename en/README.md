@@ -1,8 +1,7 @@
 # Tweets
 
-Uncle Don acted like corporatist sadly. In near past.
-
-But we got to see libs squirm and had some good TV.. Cant complain.
+Uncle Don acted like corporatist sadly. In near past. But we got to
+see libs squirm and had some good TV.. Cant complain.
 
 "The US corporate tax rate was slashed from 35% to 21%. The
 consequence? Federal corporate tax revenues have fallen by almost half
