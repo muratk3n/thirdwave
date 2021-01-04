@@ -71,7 +71,7 @@ twist: in contrast to regular value-added taxes, US levies exempt most
 services, which the affluent consume at high rates as a percentage of
 their overall spending. This twist means that the consumption of the
 poor (goods) is taxed, while that of the rich (services) is largely
-exempted. The United States does not have a VAT; it has a poor manâ€™s
+exempted. The United States does not have a VAT; it has a poor man's
 VAT.
 
 Do you enjoy going to the opera? No sales tax. Have a country club
