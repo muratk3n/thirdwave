@@ -15,7 +15,7 @@ shares in corporations, now really can get off almost scot-free"
 
 ---
 
-Oh no, not uncle Joe
+Oh no, not Uncle Joe
 
 It's a new age now, of course, we all hope for the best, prep 4 the
 worst.
