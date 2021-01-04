@@ -38,7 +38,7 @@ remembered by all those involved in its crafting"
 
 "A fear haunted the slaveholders of the South: that non-slaveholding
 majorities would use taxation to undermine—and eventually abolish—the
-“peculiar institution.” They particularly feared wealth taxation: at a
+'peculiar institution.' They particularly feared wealth taxation: at a
 time when 40% of the population in Southern states was considered
 property, property taxes were an existential threat for slaveholding
 planters. They fought such taxes tirelessly, and for two centuries
