@@ -128,8 +128,6 @@
 
 [#brexit #AGAIN](06/brexit-again.md)
 
-[Brexit, Futures](06/brexit-futures.md)
-
 [Brexit.. Stage Left](06/brexit-stage-left.md)
 
 [Don't Just Sit There. Undo Something.](06/dont-just-sit-there-undo-something.md)
