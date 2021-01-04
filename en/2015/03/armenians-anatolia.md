@@ -1,17 +1,25 @@
 # The Armenians of Anatolia
 
-[Talking at the table next to me, at a restaurant, in Berlin] I was
-talking to a German who served in the air force and he said he did not
-know about the Holocaust at the time. How could he not? [Then he comes
-to the Armenian "issue"] You know we could not have done it.. I don't
-think the government at the time could have managed such a thing..
+Why do US governments refer to what happened to Armenians during WWI
+as "Medz Yeghern" which means "the great calamity" in Armenian? It's a
+middle ground. This is a word that tries to balance political
+correctness with keeping a NATO ally happy with keeping Armenians
+(somewhat) satisfied, just so all parties can avoid that bad word
+genocide.
+
+More on this issue...  [Talking at the table next to me, in TR, at a
+restaurant, in Berlin] this guy was saying he was talking to a German
+who served in the air force and he said he did not know about the
+Holocaust at the time. How could he not? [Then he comes to the
+Armenian "issue"] You know we could not have done it.. I don't think
+the government at the time could have managed such a thing..
 
 Judging from the accent guy is an Istanbulite, a regular dipshit who
 is long on opinions and short on everything else. In this case he is
 using a sort of reverse-Orientalism suggesting Ottomans could not have
 pulled off such an event because it takes planning to do so.
 
-Well, first of all, it doesn't take that much to kill that many
+First of all, it doesn't take that much to kill that many
 people. Hell, even the Romans managed to kill half a million in Dacia
 (today's Romania) and another half a million in Carthege in ancient
 times. It's barbaric, but easy.
@@ -37,13 +45,13 @@ people running away? Surely not for tax evasion.
 
 Such events are not constrained to one specific time frame
 either. Before WWI, Sultan Hamid II, a paranoid, genocidal maniac (an
-average Ottoman sultan that is) actually started the whole trend, a
-"pre-Medz Yeghern" if you will. He created an army of Kurds in Eastern
+average Ottoman sultan) actually started the whole trend, a "pre-Medz
+Yeghern" if you will... He created an army of Kurds in Eastern
 provinces who were let loose on the villages in the area causing a
 bunch of mayhem, the strategy was about keeping away the Russian
 influence, but the end result  was famine, death for those villages,
-and mostly for Armenians. During WWI things only "got faster" and
-bigger; the nature of the process did not change. 
+and mostly for Armenians. During WWI things only "sped up" and bigger;
+the nature of the process did not change.
 
 This is the kind of thing the system today has to own up to. Guy on
 the street will not have that first hand data, the final piece of
