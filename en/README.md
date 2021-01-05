@@ -10,9 +10,10 @@ I dont understand my some still ignore the memo.
 
 ---
 
-More objections to the [Booch](https://alarmingdevelopment.org/?p=1475) article. 
-Map / Reduce was a relatively recent invention, it's not merely "machine learning"
-it was a new, innovative way of parallelization of all data processing.
+More objections to [this](https://alarmingdevelopment.org/?p=1475)
+article.  Map / Reduce was a relatively recent invention, it's not
+merely "machine learning" it was an innovative way of parallelization
+of all data processing.
 
 On the language front, 'we dont have sexy langs etc', but for IT,
 where you are just shifting bytes around and not computing much, that
@@ -20,7 +21,7 @@ might not be a big loss. I mean how many different ways can you create
 a f-ing list? 🤷‍♂️ The work isnt all that challenging, outside scale,
 systems and some project management areas. Booch should know otherwise
 he wouldnt spend all that time with his boxes and arrows in his
-so-called methodalogies
+so-called methodologies
 
 ---
 
