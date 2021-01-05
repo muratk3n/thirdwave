@@ -110,6 +110,8 @@ advice' was still that the deadly virus was first transmitted to
 humans from a live animal market in Wuhan, an accident at the
 laboratory in the Chinese city was 'no longer being discounted'"
 
+[Link](https://www.dailymail.co.uk/news/article-8211291/U-S-government-gave-3-7million-grant-Wuhan-lab-experimented-coronavirus-source-bats.html)
+
 ---
 
 That young Congressman died just days before widespread vaccine
