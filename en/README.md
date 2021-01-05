@@ -1,20 +1,5 @@
 # Tweets
 
-More objections to [this](https://alarmingdevelopment.org/?p=1475)
-article.  Map / Reduce was a relatively recent invention, it's not
-merely "machine learning" it was an innovative way of parallelization
-of all data processing.
-
-On the language front, 'we dont have sexy langs etc', but for IT,
-where you are just shifting bytes around and not computing much, that
-might not be a big loss. I mean how many different ways can you create
-a f-ing list? 🤷‍♂️ The work isnt all that challenging, outside scale,
-systems and some project management areas. Booch should know otherwise
-he wouldnt spend all that time with his boxes and arrows in his
-so-called methodologies
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Immense UK capacity to store hydrogen in depleted sandstone gas fields (not salt caverns). Make in summer, use in winter. Thousands times more capacity than batteries. Game changer. Free access <a href="https://twitter.com/jonafushi?ref_src=twsrc%5Etfw">@jonafushi</a><br> <a href="https://t.co/yurPFGdnDC">https://t.co/yurPFGdnDC</a> <a href="https://t.co/mOyOoEl1VN">https://t.co/mOyOoEl1VN</a> <a href="https://t.co/u0exCTWxmM">pic.twitter.com/u0exCTWxmM</a></p>&mdash; Stuart Haszeldine (@Haszeldine) <a href="https://twitter.com/Haszeldine/status/1346209322276171777?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -150,6 +135,21 @@ Hey I like the MAGA in the name, Make America Green Again
 ---
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Persist <a href="https://t.co/1hW5fHbDJu">https://t.co/1hW5fHbDJu</a></p>&mdash; Bug Thunder MAGA Make America Green Again (@Suscuss1) <a href="https://twitter.com/Suscuss1/status/1345824574139740160?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+More objections to [this](https://alarmingdevelopment.org/?p=1475)
+article.  Map / Reduce was a relatively recent invention, it's not
+merely "machine learning" it was an innovative way of parallelization
+of all data processing.
+
+On the language front, 'we dont have sexy langs etc', but for IT,
+where you are just shifting bytes around and not computing much, that
+might not be a big loss. I mean how many different ways can you create
+a f-ing list? 🤷‍♂️ The work isnt all that challenging, outside scale,
+systems and some project management areas. Booch should know otherwise
+he wouldnt spend all that time with his boxes and arrows in his
+so-called methodologies
 
 ---
 
