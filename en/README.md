@@ -83,7 +83,7 @@ surpassed the threshold.
 
 ---
 
-Much more in that link, Norway, Italy
+Much more in that link, from other countries
 
 "Since our most recent update September 2019, there has been a lot of
 progress in fuel cells for shipping applications. Below is an update
