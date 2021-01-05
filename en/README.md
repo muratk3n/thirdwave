@@ -1,167 +1,159 @@
 # Tweets
 
-Uncle Don acted like corporatist sadly. In near past. But we got to
-see libs squirm and had some good TV.
+A [reminder](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
 
-"The US corporate tax rate was slashed from 35% to 21%. The
-consequence? Federal corporate tax revenues have fallen by almost half
-from 2017 to 2018.13 We’ll return at length to this development, but
-it’s worth recording here its most direct implication: low corporate
-taxes mean the ultra-rich, whose income mostly derives from owning
-shares in corporations, now really can get off almost scot-free"
+I dont understand my some still ignore the memo. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">European plane maker, Airbus is giving themselves 5 years to develop a commercially viable hydrogen aircraft. Read more about how using hydrogen fuel is the world’s best shot at achieving flight that doesn’t pollute the planet. <a href="https://twitter.com/hashtag/hydrogenfuel?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenfuel</a> <a href="https://t.co/vkuzSbv4V8">https://t.co/vkuzSbv4V8</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1346492943578918924?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+More objections to the [Booch](https://alarmingdevelopment.org/?p=1475) article. 
+Map / Reduce was a relatively recent invention, it's not merely "machine learning"
+it was a new, innovative way of parallelization of all data processing.
+
+On the language front, 'we dont have sexy langs etc', but for IT,
+where you are just shifting bytes around and not computing much, that
+might not be a big loss. I mean how many different ways can you create
+a f-ing list? 🤷‍♂️ The work isnt all that challenging, outside scale,
+systems and some project management areas. Booch should know otherwise
+he wouldnt spend all that time with his boxes and arrows in his
+so-called methodalogies
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Immense UK capacity to store hydrogen in depleted sandstone gas fields (not salt caverns). Make in summer, use in winter. Thousands times more capacity than batteries. Game changer. Free access <a href="https://twitter.com/jonafushi?ref_src=twsrc%5Etfw">@jonafushi</a><br> <a href="https://t.co/yurPFGdnDC">https://t.co/yurPFGdnDC</a> <a href="https://t.co/mOyOoEl1VN">https://t.co/mOyOoEl1VN</a> <a href="https://t.co/u0exCTWxmM">pic.twitter.com/u0exCTWxmM</a></p>&mdash; Stuart Haszeldine (@Haszeldine) <a href="https://twitter.com/Haszeldine/status/1346209322276171777?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"The data .. suggest [tax avoidance banning] efforts have been mostly
+unsuccessful. The share of US firms’ profits booked in low-tax locales
+keeps growing year after year as depicted in Figure 4.2. The evidence
+is less comprehensive for non-US multinationals because the available
+data cover fewer years, but the trend seems to be the same. How can we
+explain this lack of success? The BEPS initiative does not attack the
+heart of the tax-dodging reactor. Firms are still supposed to exchange
+goods, services, and assets internally. The Big Four still manufacture
+transactions that have no market price. Transfer pricing accountants
+still have incentives to please their clients and certify as correct
+whatever arrangement will minimize their tax bill. In need of a
+Copernican revolution, we’ve been busy refining the Ptolemaic model of
+the heavens"
 
 \#TriumphOfInjustice \#Zucman
 
 ---
 
-Oh no, not Uncle Joe
-
-It's a new age now, of course, we all hope for the best, prep 4 the
-worst.
-
-"[Reagan] had made overhauling taxation with dramatically lower tax
-rates the top domestic priority of his second term. On that 22nd of
-October 1986, about to sign into law the Tax Reform Act, he had reason
-to be joyful. Starting on January 1, 1988, the country that had
-pioneered the quasi-confiscatory taxation of high incomes would apply
-the lowest top marginal income tax rate in the industrial world:
-28%. After three weeks of floor debates, the tax bill had passed
-ninety-seven to three in the Senate. Democrats Ted Kennedy, Al Gore,
-John Kerry, and Joe Biden all had enthusiastically voted 'Yes.' ... To
-this day, and although it is now widely recognized as one of the key
-contributors to the explosion of inequality, the bill is still fondly
-remembered by all those involved in its crafting"
+"[T]he New Deal [is] perhaps the most progressive in world history. As
+we saw, it successfully taxed the wealthy for more than three
+decades—not only on paper, but in actual fact. By design, few people
+paid the 80%–90% top marginal income tax rates that prevailed from the
+1930s through to the 1970s. But, all taxes included, effective tax
+rates for the very affluent exceeded 50%. Tax dodging was kept in
+check. ...[FDR] also spent time explaining why taxes mattered,
+appealing to morality, and shunning tax dodgers. 'Mr. Justice Holmes
+said, "Taxes are what we pay for civilized society" [the words
+inscribed above the entrance to the headquarters of the Internal
+Revenue Service in Washington, DC]. Too many individuals, however,
+want the civilization at a discount.'"
 
 \#TriumphOfInjustice \#Zucman
 
 ---
 
-"A fear haunted the slaveholders of the South: that non-slaveholding
-majorities would use taxation to undermine—and eventually abolish—the
-'peculiar institution.' They particularly feared wealth taxation: at a
-time when 40% of the population in Southern states was considered
-property, property taxes were an existential threat for slaveholding
-planters. They fought such taxes tirelessly, and for two centuries
-wielded their power to keep taxes and public institutions
-archaic. How? By stifling democracy"
+As Roosevelt’s message to Congress expresses clearly, the
+quasi-confiscatory top marginal income tax rates championed by the
+United States were designed to reduce inequality, not to collect
+revenue. Why would anyone try to earn more than a million dollars if
+all of that extra income went to the IRS? No employment contract with
+a salary above a million would ever be signed. Nobody would amass
+enough wealth to receive more than a million in annual capital
+income. The rich would stop saving after they reached that point. They
+most likely would give their assets to heirs or charities once they
+surpassed the threshold.
 
 \#TriumphOfInjustice \#Zucman
 
 ---
 
-"It’s always possible to shrug off the risk of an entrenched
-plutocracy.  To believe that whether a few super-rich own a large
-fraction of the country’s wealth is irrelevant. That America’s
-institutions are so strong that they cannot be captured by special
-interests. That from Boston to Los Angeles, democracy will always and
-forever beat plutocracy. And certainly, democracy has overcome
-plutocracy in the past. It triumphed over the slaveholding plutocracy
-of the South. It beat back the nascent industrialist plutocracy of the
-Gilded Age"
-
-\#TriumphOfInjustice \#Zucman
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The ITM Power (LSE: ITM.L) Gigafactory delivers a blueprint for a high capacity, semi-automated PEM <a href="https://twitter.com/hashtag/electrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#electrolyser</a> manufacturing facility, which can be readily replicated, enabling a local facility to be planned and rapidly deploye…<a href="https://t.co/b34iR13TwG">https://t.co/b34iR13TwG</a> <a href="https://t.co/NOJHgixCn2">https://t.co/NOJHgixCn2</a></p>&mdash; Graham Cooley (@GrahamCooley4) <a href="https://twitter.com/GrahamCooley4/status/1346011378902065153?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"The second and primary culprit for the high tax rates paid by
-working-class Americans is consumption taxes. The United States may
-not have a value-added tax, but it has a proliferation of sales and
-excise taxes that, like a VAT, make prices higher. And there's a
-twist: in contrast to regular value-added taxes, US levies exempt most
-services, which the affluent consume at high rates as a percentage of
-their overall spending. This twist means that the consumption of the
-poor (goods) is taxed, while that of the rich (services) is largely
-exempted. The United States does not have a VAT; it has a poor man's
-VAT.
+Much more in that link, Norway, Italy
 
-Do you enjoy going to the opera? No sales tax. Have a country club
-membership? No sales tax. Need a lawyer? No sales tax. But if you
-drive, dress, or buy appliances, sales taxes apply all the way"
+"Since our most recent update September 2019, there has been a lot of
+progress in fuel cells for shipping applications. Below is an update
+on where fuel cells in shipping has progressed since our last update..
 
-\#TriumphOfInjustice \#Zucman
+In November 2020, Doosan Fuel Cell announced it will be manufacturing
+SOFCs to power and propel ships built by Singaporean shipping company
+Navig8. The partnership will initially power a 50,000-ton
+ship. According to Doosan, Navig8 has around 140 global petrochemical
+and oil carriers that could potentially be decarbonized through the
+use of Doosan’s SOFCs"
+
+[Link](http://www.fchea.org/in-transition/2020/12/21/shipping-update)
 
 ---
 
-"Under business as usual, income concentration is likely to keep
-rising in the medium run thanks to a snowball effect: the wealthy save
-a higher fraction of their income than the rest of the population,
-which allows them to accumulate more wealth, which in turn generates
-additional income. For most of the twentieth century, progressive
-taxation and especially high tax rates on capital (as opposed to
-labor) had kept this spiral under control. But the tax changes of the
-last two decades have dismantled this safeguard"
+"Documents obtained by The Mail on Sunday show the Wuhan Institute of
+Virology undertook coronavirus experiments on mammals captured more
+than 1,000 miles away in Yunnan – funded by a $3.7 million grant from
+the US government. ..
 
-\#TriumphOfInjustice \#Zucman
-
----
-
-Of course free society will let you to live in your delusion and
-that's fine. But everyone who is in the know and their job is to know,
-needs to be aware.
+Senior Government sources said that while 'the balance of scientific
+advice' was still that the deadly virus was first transmitted to
+humans from a live animal market in Wuhan, an accident at the
+laboratory in the Chinese city was 'no longer being discounted'"
 
 ---
 
-An ethnic subculture that always stayed together, are geographically
-seperate, are culturally different and feel different is one
-thing...
-
-The converse of that, spread out in many locations, geographically
-split, not in a cultural ghetto, not in a big enough group, it is not
-possible to remain a subculture.
-
-It doesnt matter whatever fuck u think you are, you wont be it. 
+That young Congressman died just days before widespread vaccine
+availability (for gov at least)... Talk about bad luck.
 
 ---
 
-But yes, a lot of the "new" stuff is overrated, like Docker. 
+"Dfinity is building what it calls the internet computer, a
+decentralized technology spread across a network of independent data
+centers that allows software to run anywhere on the internet rather
+than in server farms that are increasingly controlled by large firms,
+such as Amazon Web Services or Google Cloud. This week Dfinity is
+releasing its software to third-party developers, who it hopes will
+start making the internet computer’s killer apps. It is planning a
+public release later this year.
+
+Rewinding the internet is not about nostalgia. The dominance of a few
+companies, and the ad-tech industry that supports them, has distorted
+the way we communicate—pulling public discourse into a gravity well of
+hate speech and misinformation—and upended basic norms of
+privacy. There are few places online beyond the reach of these tech
+giants, and few apps or services that thrive outside of their
+ecosystems"
+
+[Link](https://www.technologyreview.com/2020/07/01/1004725/redesign-internet-apps-no-one-controls-data-privacy-innovation-cloud)
 
 ---
 
-No new cool programming languages, or tech invented since 96..?
-Hmm.. Let's not forget CUDA (2006). It might not be a full-blown
-language, usually just extension to existing ones, not sleak in terms
-of syntax, but it was / is a new way of appoaching programming (with
-kernels etc). It gave rise to PyCuda, OpenCL, now Thrust..
-
-IT guys do not deal with this part of computing much. In numerical
-computing bunch of things are happening... Speed records are being
-broken all the time, thanks to the new architectures.
+Maan, Brexit drama is over, w some other suck ending.. What's fun to
+do now? Looking at naval movements in the Pacific?
 
 ---
 
-This is mostly true
+"@pressfreedom
 
-"But you can’t do research at a startup (I have the scars from
-trying). New technology takes a long time and is very risky. The sound
-business plan is to lever up with VC money, throw it at elite
-programmers who can wrangle the crappy current tech, then cash
-out. There is no room for technology invention in startups"
-
-[Link](https://alarmingdevelopment.org/?p=1475)
+CPJ welcomes UK decision not to extradite Julian Assange, urges DOJ to
+drop charges"
 
 ---
 
-"Trucking Industry Comes Together for Mass-Market Deployment of
-Hydrogen Trucks
-
-Through H2Accelerate, the industry will work together to create the
-conditions necessary to bring hydrogen fueled trucks to market"
-
-[Link](https://www.oemoffhighway.com/electronics/power-systems/press-release/21208218/volvo-group-global-trucking-industry-comes-together-for-massmarket-deployment-of-hydrogen-trucks)
+Hey I like the MAGA in the name, Make America Green Again
 
 ---
 
-Top reasons many researchers prefer hydrogen fuel vehicles over EVs ...
-
-* No substantial lifestyle changes are required ..
- 
-* H2 powered cars place less strain on the electric grid ..
-
-* They have a larger range ..
-
-* Practicality for a larger range of vehicles 
-
-[Link](https://www.hydrogenfuelnews.com/hydrogen-fuel-vehicles-over-evs/8540857/)
+<blockquote class="twitter-tweet"><p lang="in" dir="ltr">Persist <a href="https://t.co/1hW5fHbDJu">https://t.co/1hW5fHbDJu</a></p>&mdash; Bug Thunder MAGA Make America Green Again (@Suscuss1) <a href="https://twitter.com/Suscuss1/status/1345824574139740160?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

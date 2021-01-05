@@ -110,8 +110,6 @@
 
 [The Social Network](11/social-network.md)
 
-[Tony Blair](11/tony-blair.md)
-
 [Wall Street: Again](11/wall-street-again.md)
 
 [Working outside of Work](11/working-outside-of-work.md)
