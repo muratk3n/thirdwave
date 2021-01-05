@@ -91,7 +91,7 @@ availability (for gov at least)... Talk about bad luck.
 
 A [reminder](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
 
-I dont understand my some still ignore the memo. 
+I dont understand why some still ignore the memo. 
 
 ---
 
