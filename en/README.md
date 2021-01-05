@@ -102,7 +102,7 @@ use of Doosan’s SOFCs"
 
 "Documents obtained by The Mail on Sunday show the Wuhan Institute of
 Virology undertook coronavirus experiments on mammals captured more
-than 1,000 miles away in Yunnan – funded by a $3.7 million grant from
+than 1,000 miles away in Yunnan funded by a $3.7 million grant from
 the US government. ..
 
 Senior Government sources said that while 'the balance of scientific
