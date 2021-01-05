@@ -1,15 +1,5 @@
 # Tweets
 
-A [reminder](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
-
-I dont understand my some still ignore the memo. 
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">European plane maker, Airbus is giving themselves 5 years to develop a commercially viable hydrogen aircraft. Read more about how using hydrogen fuel is the world’s best shot at achieving flight that doesn’t pollute the planet. <a href="https://twitter.com/hashtag/hydrogenfuel?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenfuel</a> <a href="https://t.co/vkuzSbv4V8">https://t.co/vkuzSbv4V8</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1346492943578918924?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 More objections to [this](https://alarmingdevelopment.org/?p=1475)
 article.  Map / Reduce was a relatively recent invention, it's not
 merely "machine learning" it was an innovative way of parallelization
@@ -111,6 +101,16 @@ laboratory in the Chinese city was 'no longer being discounted'"
 
 That young Congressman died just days before widespread vaccine
 availability (for gov at least)... Talk about bad luck.
+
+---
+
+A [reminder](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
+
+I dont understand my some still ignore the memo. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">European plane maker, Airbus is giving themselves 5 years to develop a commercially viable hydrogen aircraft. Read more about how using hydrogen fuel is the world’s best shot at achieving flight that doesn’t pollute the planet. <a href="https://twitter.com/hashtag/hydrogenfuel?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenfuel</a> <a href="https://t.co/vkuzSbv4V8">https://t.co/vkuzSbv4V8</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1346492943578918924?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
