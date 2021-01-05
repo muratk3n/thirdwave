@@ -39,7 +39,7 @@ want the civilization at a discount.'"
 
 ---
 
-As Roosevelt’s message to Congress expresses clearly, the
+"As Roosevelt’s message to Congress expresses clearly, the
 quasi-confiscatory top marginal income tax rates championed by the
 United States were designed to reduce inequality, not to collect
 revenue. Why would anyone try to earn more than a million dollars if
@@ -48,7 +48,7 @@ a salary above a million would ever be signed. Nobody would amass
 enough wealth to receive more than a million in annual capital
 income. The rich would stop saving after they reached that point. They
 most likely would give their assets to heirs or charities once they
-surpassed the threshold.
+surpassed the threshold"
 
 \#TriumphOfInjustice \#Zucman
 
