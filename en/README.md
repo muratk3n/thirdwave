@@ -130,11 +130,9 @@ public release later this year.
 
 Rewinding the internet is not about nostalgia. The dominance of a few
 companies, and the ad-tech industry that supports them, has distorted
-the way we communicate—pulling public discourse into a gravity well of
-hate speech and misinformation—and upended basic norms of
-privacy. There are few places online beyond the reach of these tech
-giants, and few apps or services that thrive outside of their
-ecosystems"
+the way we communicate ... There are few places online beyond the
+reach of these tech giants, and few apps or services that thrive
+outside of their ecosystems"
 
 [Link](https://www.technologyreview.com/2020/07/01/1004725/redesign-internet-apps-no-one-controls-data-privacy-innovation-cloud)
 
