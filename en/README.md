@@ -31,12 +31,12 @@ so-called methodologies
 
 "The data .. suggest [tax avoidance banning] efforts have been mostly
 unsuccessful. The share of US firms’ profits booked in low-tax locales
-keeps growing year after year as depicted in Figure 4.2. The evidence
-is less comprehensive for non-US multinationals because the available
-data cover fewer years, but the trend seems to be the same. How can we
-explain this lack of success? The BEPS initiative does not attack the
-heart of the tax-dodging reactor. Firms are still supposed to exchange
-goods, services, and assets internally. The Big Four still manufacture
+keeps growing year after year ... The evidence is less comprehensive
+for non-US multinationals because the available data cover fewer
+years, but the trend seems to be the same. How can we explain this
+lack of success? The BEPS initiative does not attack the heart of the
+tax-dodging reactor. Firms are still supposed to exchange goods,
+services, and assets internally. The Big Four still manufacture
 transactions that have no market price. Transfer pricing accountants
 still have incentives to please their clients and certify as correct
 whatever arrangement will minimize their tax bill. In need of a
