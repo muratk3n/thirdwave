@@ -80,9 +80,9 @@ YOUR COUNTRY DO NOT HAVE HEALTHCARE.
 
 ---
 
-When I was a kid for a whlie I was obsessed with knife and axe
+When I was a kid for a while I was obsessed with knife and axe
 throwing. Took me a while to realize u have to control the flip so the
-tip hits the target.
+tip hits the target. 
 
 ---
 
