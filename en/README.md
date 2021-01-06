@@ -41,8 +41,8 @@ on steroids'"
 
 The $2000 check discussion ended up helping Dems IMO... They came
 across as more for it (w Biden 4 from the start, Bernie as its main
-defender), the party w exec and Senate cld not deliver. People dont
-know much, but they understand the difference between 'have money' and
+defender), the party w WH and Senate cld not deliver. People dont know
+much, but they understand the difference between 'have money' and
 'have no money'.
 
 ---
