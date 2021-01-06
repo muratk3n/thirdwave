@@ -82,7 +82,7 @@ YOUR COUNTRY DO NOT HAVE HEALTHCARE.
 
 When I was a kid for a while I was obsessed with knife and axe
 throwing. Then learned u have to control the flip so the tip hits the
-target. 
+target. Good skill to have, no? 
 
 ---
 
