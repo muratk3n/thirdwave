@@ -70,7 +70,7 @@ wants to declassify everything - UFOs, JFK, all of it"
 
 Better off fighting off the high Ph of Venus atmo, or build a Stanford
 Torus than doing all that monkey shit. Plus even if atmo was solvable,
-low grav is not, long-term, ur bones will still melt
+low grav is not, long-term, ur bones will still melt. These people are insane.
 
 ---
 
