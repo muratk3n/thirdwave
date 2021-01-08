@@ -21,8 +21,8 @@ to settle US criminal charges over the 737 Max aircraft conspiracy"
 
 ---
 
-IMO there'll be plenty of H2 to go around, carrying even more energy
-than old fossil based system, with some unexpected new exporters even.
+IMO there'll be plenty of H2 to go around, carrying even energy than
+old fossil based system, with some unexpected new exporters even.
 
 ---
 
