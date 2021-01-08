@@ -48,6 +48,14 @@ Hawley and Cruz made a play for the Trump base, but it sorta backfired on them.
 
 ---
 
+Im just kidding man...  🤣 🤣 🤣 
+
+---
+
+Conceded? Losah! [LOooooSSAaaah](https://cinemaoceania.files.wordpress.com/2017/05/trump-loser-hand.jpg)
+
+---
+
 "Capitol riot: Trump commits to 'orderly' transition of power. The
 president's speech comes as a police officer dies from injuries
 sustained during the Capitol riot"
