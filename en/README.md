@@ -44,7 +44,9 @@ Hawley and Cruz made a play for the Trump base, but it sorta backfired on them.
 
 ---
 
-25th Amendment? Impeachment (again)? I'd just let it go.. Not worth the trouble.
+25th Amendment? Impeachment (again)?
+
+I'd just let it go.. Not worth the trouble.
 
 ---
 
