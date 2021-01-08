@@ -1,5 +1,91 @@
 # Week 1
 
+Leadership matters. 
+
+"@ryanobles
+
+To be clear.. The President of the United States asked and encouraged
+his supporters to do what they are doing right now"
+
+---
+
+Good kerkuffle
+
+---
+
+🤣 🤣 🤣 
+
+"Vice President Mike Pence and Senator Chuck Mike Grassley were
+escorted to a secure location"
+
+---
+
+"@igorbobic
+
+Police officers are holding them steps away from the Senate chamber,
+which is locked. Senators are inside. I see a few confederate flags"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Protesters have breached the Capitol. They’re outside the Senate chamber <a href="https://t.co/I021tKliUD">pic.twitter.com/I021tKliUD</a></p>&mdash; Igor Bobic (@igorbobic) <a href="https://twitter.com/igorbobic/status/1346898433689399297?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@sambrodey
+
+McConnell: 'The Constitution gives us here in Congress a limited
+role. We cannot simply declare ourselves a national board of elections
+on steroids'"
+
+---
+
+The $2000 check discussion ended up helping Dems IMO... They came
+across as more for it (w Biden 4 from the start, Bernie as its main
+defender), the party w WH and Senate cld not deliver. People dont know
+much, but they understand the difference between 'have money' and
+'have no money'.
+
+---
+
+Warnock is from the same church where MLK preached 👍
+
+---
+
+It worked :) Great
+
+"@AlexThomp
+
+2022 is going to have some many puppy/dog ads now"
+
+<img width="200" src="https://pbs.twimg.com/media/ErDwfpRW8AEVGyp?format=jpg&name=small"/>
+
+---
+
+"@JackPosobiec
+
+Trump talking about firing everyone right now. Wray, Gina, etc. And
+wants to declassify everything - UFOs, JFK, all of it"
+
+---
+
+Better off fighting off the high Ph of Venus atmo, or build a Stanford
+Torus than doing all that monkey shit. Plus even if atmo was solvable,
+low grav is not, long-term, ur bones will still melt. These people are insane.
+
+---
+
+Dude "creating a magnetic field with a satellite, strategically placed
+to create magnetic field so Mars can keep an atmosphere?" MILLIONS IN
+YOUR COUNTRY DO NOT HAVE HEALTHCARE.
+
+---
+
+When I was a kid for a while I was obsessed with knife and axe
+throwing. Then learned u have to control the flip so the tip hits the
+target. Good skill to have, no? 
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Immense UK capacity to store hydrogen in depleted sandstone gas fields (not salt caverns). Make in summer, use in winter. Thousands times more capacity than batteries. Game changer. Free access <a href="https://twitter.com/jonafushi?ref_src=twsrc%5Etfw">@jonafushi</a><br> <a href="https://t.co/yurPFGdnDC">https://t.co/yurPFGdnDC</a> <a href="https://t.co/mOyOoEl1VN">https://t.co/mOyOoEl1VN</a> <a href="https://t.co/u0exCTWxmM">pic.twitter.com/u0exCTWxmM</a></p>&mdash; Stuart Haszeldine (@Haszeldine) <a href="https://twitter.com/Haszeldine/status/1346209322276171777?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

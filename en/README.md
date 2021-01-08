@@ -1,88 +1,66 @@
 # Tweets
 
-Leadership matters. 
-
-"@ryanobles
-
-To be clear.. The President of the United States asked and encouraged
-his supporters to do what they are doing right now"
+"Climate crisis: 2020 was joint hottest year ever recorded"
 
 ---
 
-Good kerkuffle
+Electoral College is a beautiful system.
+
+Learn it. Love it. Marry it.
 
 ---
 
-🤣 🤣 🤣 
+It doesn't demonstrate shit. The inaug will still take place
 
-"Vice President Mike Pence and Senator Chuck Mike Grassley were
-escorted to a secure location"
-
----
-
-"@igorbobic
-
-Police officers are holding them steps away from the Senate chamber,
-which is locked. Senators are inside. I see a few confederate flags"
+"The protests demonstrate the fragility of democracy in US"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Protesters have breached the Capitol. They’re outside the Senate chamber <a href="https://t.co/I021tKliUD">pic.twitter.com/I021tKliUD</a></p>&mdash; Igor Bobic (@igorbobic) <a href="https://twitter.com/igorbobic/status/1346898433689399297?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Boeing to pay $2.5bn over 737 Max conspiracy. The firm is to pay[s]
+to settle US criminal charges over the 737 Max aircraft conspiracy"
 
 ---
 
-"@sambrodey
-
-McConnell: 'The Constitution gives us here in Congress a limited
-role. We cannot simply declare ourselves a national board of elections
-on steroids'"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nations start forming <a href="https://twitter.com/hashtag/HydrogenStrategy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenStrategy</a>:<br>• <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> to invest $550 bn to build hydrogen (H2) infra<br>• Russia to export 2 mn ton H2 by 2035; talks to Japan, Germany<br>• Saudi, China, etc building huge facilities to produce <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a><br>With $700 bn market on offer, experts warn of Hydrogen Wars <a href="https://t.co/eyDJlwjb5F">https://t.co/eyDJlwjb5F</a> <a href="https://t.co/7FSBYOx3RL">pic.twitter.com/7FSBYOx3RL</a></p>&mdash; Samir Dattopadhye (@samirsinh189) <a href="https://twitter.com/samirsinh189/status/1346164134962810882?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-The $2000 check discussion ended up helping Dems IMO... They came
-across as more for it (w Biden 4 from the start, Bernie as its main
-defender), the party w WH and Senate cld not deliver. People dont know
-much, but they understand the difference between 'have money' and
-'have no money'.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With India&#39;s high production and consumption of energy, Greenstat Hydrogen India Pvt Ltd, a subsidiary of <a href="https://twitter.com/GREENSTATas?ref_src=twsrc%5Etfw">@GREENSTATas</a>, has been formed with big ambitions for renewable growth in the region.<br><br>Read more here: <a href="https://t.co/7kLOx6QrM4">https://t.co/7kLOx6QrM4</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/india?src=hash&amp;ref_src=twsrc%5Etfw">#india</a> <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://t.co/B3aACRKdso">pic.twitter.com/B3aACRKdso</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1346954863721246724?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Warnock is from the same church where MLK preached 👍
+"@KeithDPatch
+
+Great estimate of UK Flag of United Kingdom offshore seasonal hydrogen
+energy storage capability by @jonafushi \#PhD: '...order of magnitude
+greater than all known estimates for the [future] seasonal storage
+requirement.'"
+
+[Link](https://twitter.com/KeithDPatch/status/1346955375984185345)
 
 ---
 
-It worked :) Great
-
-"@AlexThomp
-
-2022 is going to have some many puppy/dog ads now"
-
-<img width="200" src="https://pbs.twimg.com/media/ErDwfpRW8AEVGyp?format=jpg&name=small"/>
+Hawley and Cruz made a play for the Trump base, but it sorta backfired on them.
 
 ---
 
-"@JackPosobiec
-
-Trump talking about firing everyone right now. Wray, Gina, etc. And
-wants to declassify everything - UFOs, JFK, all of it"
+25th Amendment? Impeachment (again)? I'd just let it go.. Not worth the trouble.
 
 ---
 
-Better off fighting off the high Ph of Venus atmo, or build a Stanford
-Torus than doing all that monkey shit. Plus even if atmo was solvable,
-low grav is not, long-term, ur bones will still melt. These people are insane.
+"Capitol riot: Trump commits to 'orderly' transition of power. The
+president's speech comes as a police officer dies from injuries
+sustained during the Capitol riot"
 
 ---
 
-Dude "creating a magnetic field with a satellite, strategically placed
-to create magnetic field so Mars can keep an atmosphere?" MILLIONS IN
-YOUR COUNTRY DO NOT HAVE HEALTHCARE.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Disgraceful scenes in U.S. Congress. The United States stands for democracy around the world and it is now vital that there should be a peaceful and orderly transfer of power.</p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1346926138057220103?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-When I was a kid for a while I was obsessed with knife and axe
-throwing. Then learned u have to control the flip so the tip hits the
-target. Good skill to have, no? 
+"Merkel and Johnson Blame Trump for Riot, but Europe Also Expresses Hope"
+
+[Link](https://www.nytimes.com/2021/01/07/world/europe/merkel-macron-trump-violence-democracy.html)
 
 ---
 
