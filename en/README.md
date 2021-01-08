@@ -45,7 +45,7 @@ requirement.'"
 
 ---
 
-Hawley and Cruz made a play for the Trump base, but it sorta backfired on them.
+Hawley and Cruz made a play for the Trump base, but it backfired 
 
 ---
 
