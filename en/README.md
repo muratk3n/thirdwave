@@ -4,6 +4,17 @@
 
 ---
 
+F..kin Heroku choked on geos, cartopy. Never truly bought into these
+managed enviroments... Nothing beats having own processing with its
+own conn
+
+---
+
+All this protest stuff took attention away from new appointees. That
+DHS appt doesn't look so good.
+
+---
+
 Electoral College is a beautiful system.
 
 Learn it. Love it. Marry it.
