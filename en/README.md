@@ -21,6 +21,11 @@ to settle US criminal charges over the 737 Max aircraft conspiracy"
 
 ---
 
+IMO there'll be plenty of H2 to go around, more energy than old fossil
+based system
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nations start forming <a href="https://twitter.com/hashtag/HydrogenStrategy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenStrategy</a>:<br>• <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> to invest $550 bn to build hydrogen (H2) infra<br>• Russia to export 2 mn ton H2 by 2035; talks to Japan, Germany<br>• Saudi, China, etc building huge facilities to produce <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a><br>With $700 bn market on offer, experts warn of Hydrogen Wars <a href="https://t.co/eyDJlwjb5F">https://t.co/eyDJlwjb5F</a> <a href="https://t.co/7FSBYOx3RL">pic.twitter.com/7FSBYOx3RL</a></p>&mdash; Samir Dattopadhye (@samirsinh189) <a href="https://twitter.com/samirsinh189/status/1346164134962810882?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
