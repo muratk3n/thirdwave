@@ -52,7 +52,7 @@ Im just kidding man...  🤣 🤣 🤣
 
 ---
 
-Conceded? Losah! [LOooooSSAaaah](https://cinemaoceania.files.wordpress.com/2017/05/trump-loser-hand.jpg)
+Conceded? Losah! [LOooooSSAaaah](https://pbs.twimg.com/media/ErMiqlAXAAEjz6a?format=jpg&name=small)
 
 ---
 
