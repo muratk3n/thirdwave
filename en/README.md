@@ -16,7 +16,7 @@ hydrogen-fueled aircraft"
 
 ---
 
-I mean it's a legitimate viewpoint to have, but why are the people in
+I mean it's a legitimate viewpoint to have, but why are these people in
 the Democratic "Left" Party?
 
 "Sen. Joe Manchin Wants to Block You From Getting a $2,000 Check"
