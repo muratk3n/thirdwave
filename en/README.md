@@ -65,7 +65,7 @@ now... My spiffy new elevation interpolation now uses `Rbfi`.
 
 ---
 
-Thre are some ok tubers, to be fair... 
+There are some ok tubers, to be fair... 
 
 ---
 
