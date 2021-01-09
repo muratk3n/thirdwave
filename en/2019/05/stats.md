@@ -801,10 +801,11 @@ plt.axvspan('1993-01-01','1993-01-01',color='y')
 plt.axvspan('2001-01-01','2001-01-01',color='y')
 plt.axvspan('2009-01-01','2009-01-01',color='y')
 plt.axvspan('2017-01-01','2017-01-01',color='y')
-plt.text('1989-01-01',0.44,'HW')
+plt.text('1990-01-01',0.44,'HW')
 plt.text('1994-01-01',0.46,'Clinton')
 plt.text('2003-01-01',0.47,'Bush')
 plt.text('2011-01-01',0.44,'Obama')
+plt.text('2018-01-01',0.42,'DJT')
 plt.savefig('gini.png')
 ```
 
