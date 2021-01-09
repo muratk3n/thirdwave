@@ -73,10 +73,10 @@ Thre are some good tubers, to be fair... Some.
 
 Every tuber ever
 
-<table>
+<table border=0>
 <tr>
 <td>
-<img height="100" src="https://media1.tenor.com/images/6a58b72093c7ce88d04bf4ea130db624/tenor.gif?itemid=8082711"/>
+<img height="100" src="https://media1.tenor.com/images/6a58b72093c7ce88d04bf4ea130db624/tenor.gif"/>
 </td>
 <td>
 <img height="100" src="https://i.pinimg.com/originals/f1/65/ea/f165eaed11a601f5ce49b2296082c9fc.gif"/>
