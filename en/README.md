@@ -56,8 +56,6 @@ damage done during Clinton years are reversed.
 
 ---
 
-https://youtu.be/t-cP1prsBIo?t=1574
-
 <iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=1574&end=1712" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
