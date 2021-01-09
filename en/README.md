@@ -23,8 +23,9 @@ the Democratic "Left" Party?
 
 ---
 
-Getting geo pos in this webapp was a pain. I have it done Javascript,
-have links dynamically updated, so server side gets geo in the URL. Who da man!!?
+Getting geo pos in this webapp was a pain. I have it so js code
+dynamically updates href links, so server side gets geo in the
+URL. Who. Da. Man?
 
 ---
 
