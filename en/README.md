@@ -1,92 +1,103 @@
 # Tweets
 
-"Climate crisis: 2020 was joint hottest year ever recorded"
+After Lee Smols, who is the second in command? I need a number
+two... I watched some of Cortez, some Cohen, all seem to be singing a
+slightly different tune...
+
+I need that hipster peppy, young scientist bursting with energy
+doodling some shit.
 
 ---
 
-F..kin Heroku choked on geos, cartopy. Never truly bought into these
-managed enviroments... Nothing beats having own processing with its
-own conn
+"Firms halt deliveries from UK to EU over Brexit border problems"
 
 ---
 
-All this protest stuff took attention away from new appointees. That
-DHS appt doesn't look so good.
+"Gates and Bezos-backed clean energy funds help power startup building
+hydrogen-fueled aircraft"
 
 ---
 
-Electoral College is a beautiful system.
+I mean it's a legitimate viewpoint to have, but why are the people in
+the Democratic "Left" Party?
 
-Learn it. Love it. Marry it.
-
----
-
-It doesn't demonstrate shit. The inaug will still take place
-
-"The protests demonstrate the fragility of democracy in US"
+"Sen. Joe Manchin Wants to Block You From Getting a $2,000 Check"
 
 ---
 
-"Boeing to pay $2.5bn over 737 Max conspiracy. The firm is to pay[s]
-to settle US criminal charges over the 737 Max aircraft conspiracy"
+Getting geo pos in this webapp was a pain. I have it done Javascript,
+have links dynamically updated, so server side gets geo in the URL. Who da man!!?
 
 ---
 
-IMO there'll be plenty of H2 to go around, carrying more energy than
-the old fossil based system, with some unexpected new exporters even.
+"Lawrence Summers, the former Treasury Secretary under Bill Clinton,
+director of the National Economic Council under Barack Obama,
+president of Harvard, and Chief Economist at the World Bank, wrote a
+post-Christmas editorial for Bloomberg entitled, 'Trump’s $2000
+Stimulus Checks are a Big Mistake.' It’s a classic"
+
+[Link](https://taibbi.substack.com/p/neoliberal-champion-larry-summers)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nations start forming <a href="https://twitter.com/hashtag/HydrogenStrategy?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenStrategy</a>:<br>• <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> to invest $550 bn to build hydrogen (H2) infra<br>• Russia to export 2 mn ton H2 by 2035; talks to Japan, Germany<br>• Saudi, China, etc building huge facilities to produce <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a><br>With $700 bn market on offer, experts warn of Hydrogen Wars <a href="https://t.co/eyDJlwjb5F">https://t.co/eyDJlwjb5F</a> <a href="https://t.co/7FSBYOx3RL">pic.twitter.com/7FSBYOx3RL</a></p>&mdash; Samir Dattopadhye (@samirsinh189) <a href="https://twitter.com/samirsinh189/status/1346164134962810882?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+That will of course mean less f-ing Clinton people around, like Summers
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With India&#39;s high production and consumption of energy, Greenstat Hydrogen India Pvt Ltd, a subsidiary of <a href="https://twitter.com/GREENSTATas?ref_src=twsrc%5Etfw">@GREENSTATas</a>, has been formed with big ambitions for renewable growth in the region.<br><br>Read more here: <a href="https://t.co/7kLOx6QrM4">https://t.co/7kLOx6QrM4</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/india?src=hash&amp;ref_src=twsrc%5Etfw">#india</a> <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://t.co/B3aACRKdso">pic.twitter.com/B3aACRKdso</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1346954863721246724?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Latest inequality, Gini [calculations](2019/05/stats.md#gini) with the latest data
+
+```
+2020-04-01    0.463
+2020-07-01    0.460
+```
+
+There was slight decrease in the last quarter. Let's hope the trend
+continues, the Dem Prez reduces it faster, at the very least the
+damage done during Clinton years are reversed.
 
 ---
 
-"@KeithDPatch
-
-Great estimate of UK Flag of United Kingdom offshore seasonal hydrogen
-energy storage capability by @jonafushi \#PhD: '...order of magnitude
-greater than all known estimates for the [future] seasonal storage
-requirement.'"
-
-[Link](https://twitter.com/KeithDPatch/status/1346955375984185345)
+<iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=1504&end=1712" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Hawley and Cruz made a play for the Trump base, but it backfired 
+`scipy` was deployed wout probs at least, so I wont abandon Heroku for
+now...
+
+My spiffy new elevation interpolation now uses `Rbfi`. 
 
 ---
 
-25th Amendment? Impeachment (again)?
-
-I'd just let it go.. Not worth the trouble.
+Thre are some good tubers, to be fair... Some.
 
 ---
 
-Im just kidding man...  🤣 🤣 🤣 
+Every tuber ever
+
+<table>
+<tr>
+<td>
+<img height="100" src="https://media1.tenor.com/images/6a58b72093c7ce88d04bf4ea130db624/tenor.gif?itemid=8082711"/>
+</td>
+<td>
+<img height="100" src="https://i.pinimg.com/originals/f1/65/ea/f165eaed11a601f5ce49b2296082c9fc.gif"/>
+</td>
+<tr>
+</table>
 
 ---
 
-Conceded? Losah! [LOooooSSAaaah](https://pbs.twimg.com/media/ErMiqlAXAAEjz6a?format=jpg&name=small)
+Oh yeah? There's been some Tuber tantrums as of late?
 
 ---
 
-"Capitol riot: Trump commits to 'orderly' transition of power. The
-president's speech comes as a police officer dies from injuries
-sustained during the Capitol riot"
+During college this was my email alert sound for a while..
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Disgraceful scenes in U.S. Congress. The United States stands for democracy around the world and it is now vital that there should be a peaceful and orderly transfer of power.</p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1346926138057220103?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"Merkel and Johnson Blame Trump for Riot, but Europe Also Expresses Hope"
-
-[Link](https://www.nytimes.com/2021/01/07/world/europe/merkel-macron-trump-violence-democracy.html)
+<iframe 
+  frameborder="0" 
+  height="60"
+  src="https://drive.google.com/uc?export=view&id=1qIhKqAGuNDs2WlffkwenKMb63I55Aki9">    
+</iframe>
 
 ---
 
