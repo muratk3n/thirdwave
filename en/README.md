@@ -63,9 +63,7 @@ https://youtu.be/t-cP1prsBIo?t=1574
 ---
 
 `scipy` was deployed wout probs at least, so I wont abandon Heroku for
-now...
-
-My spiffy new elevation interpolation now uses `Rbfi`. 
+now... My spiffy new elevation interpolation now uses `Rbfi`.
 
 ---
 
