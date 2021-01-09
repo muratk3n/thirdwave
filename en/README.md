@@ -81,7 +81,7 @@ Every tuber ever
 <td>
 <img height="100" src="https://i.pinimg.com/originals/f1/65/ea/f165eaed11a601f5ce49b2296082c9fc.gif"/>
 </td>
-<tr>
+</tr>
 </table>
 
 ---
