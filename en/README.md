@@ -25,7 +25,7 @@ the Democratic "Left" Party?
 
 Getting geo pos in this webapp was a pain. I have it so js code get
 geo, dynamically updates href links, so server side gets geo in the
-URL. Who. Da. Man?
+URL. Who. Da. Man
 
 ---
 
