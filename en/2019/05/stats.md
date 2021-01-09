@@ -786,7 +786,22 @@ Freq: MS, Name: debt, dtype: float64
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
-import finutil
+
+def gini(pop,val):
+    pop = list(pop); pop.insert(0,0.0)
+    val = list(val); val.insert(0,0.0)        
+    poparg = np.array(pop)
+    valarg = np.array(val)
+    z = valarg * poparg;
+    ord = np.argsort(val)
+    poparg    = poparg[ord]
+    z = z[ord]
+    poparg    = np.cumsum(poparg)
+    z    = np.cumsum(z)
+    relpop = poparg/poparg[-1]
+    relz = z/z[-1]    
+    g = 1 - np.sum((relz[0:-1]+relz[1:]) * np.diff(relpop))
+    return np.round(g,3)
 
 today = datetime.datetime.now()
 start=datetime.datetime(1989, 1, 1)
@@ -794,9 +809,9 @@ end=datetime.datetime(today.year, today.month, today.day)
 cols = ['WFRBLT01026', 'WFRBLN09053','WFRBLN40080','WFRBLB50107']
 df = data.DataReader(cols, 'fred', start, end)
 p = [0.01, 0.09, 0.40, 0.50]
-gini = df.apply(lambda x: finutil.gini(p,x),axis=1)
-print (gini.tail(4))
-gini.plot()
+g = df.apply(lambda x: gini(p,x),axis=1)
+print (g.tail(4))
+g.plot()
 plt.axvspan('1993-01-01','1993-01-01',color='y')
 plt.axvspan('2001-01-01','2001-01-01',color='y')
 plt.axvspan('2009-01-01','2009-01-01',color='y')
@@ -819,10 +834,6 @@ dtype: float64
 ```
 
 ![](gini.png)
-
----
-
-Code - [finutils.py](finutils.py)
 
 ---
 
