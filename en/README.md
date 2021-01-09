@@ -2,10 +2,8 @@
 
 After Lee Smols, who is the second in command? I need a number
 two... I watched some of Cortez, some Cohen, all seem to be singing a
-slightly different tune...
-
-I need that hipster peppy, young scientist bursting with energy
-doodling some shit.
+slightly different tune... I need that hipster peppy, young scientist
+bursting with energy doodling some shit.
 
 ---
 
