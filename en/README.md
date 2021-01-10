@@ -1,7 +1,7 @@
 # Tweets
 
 Obviously previous dereg didnt help either, it created a freer
-environment where disruption could reach faster.
+environment where new tech entropy / disruption could reach faster.
 
 ---
 
