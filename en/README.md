@@ -1,7 +1,7 @@
 # Tweets
 
-Obviously previous dereg didnt help, it created a freer environment
-where disruption could reach faster.
+Obviously previous dereg didnt help either, it created a freer
+environment where disruption could reach faster.
 
 ---
 
