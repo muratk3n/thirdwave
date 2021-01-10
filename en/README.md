@@ -1,100 +1,73 @@
 # Tweets
 
-After Lee Smols, who is the second in command? I need a number
-two... I watched some of Cortez, some Cohen, all seem to be singing a
-slightly different tune... I need that hipster peppy, young scientist
-bursting with energy doodling some shit.
+Obviously previous dereg didnt help, it created a freer environment
+where disruption could reach faster.
 
 ---
 
-"Firms halt deliveries from UK to EU over Brexit border problems"
+AG is no cookie; he knew industry, banks... 'The loan officer at a
+bank knows more about their credit risk than anyone FED could employ'
+he said once. And that risk assesment somehow failed. How? It always
+bothered me AG kept saying he never saw it coming. Now I have a
+feeling why, he knew the industry through the prism of old tech; A
+calling B, writing shit down, people shouting at the market floor, B
+calling A back, etc.. and *some* computerization. Nothing at the
+levels we see today.
 
 ---
 
-"Gates and Bezos-backed clean energy funds help power startup building
-hydrogen-fueled aircraft"
+This all sounds like a bizarre concoction of new tech and old; 2W
+institutions, with 3W tech on top... You can't mix fast and slow this
+way..
+
+3W is not at a point it can build, right now it merely disrupts and
+destroys. Like my earlier ex of Newt in front of a chat app, the app
+disrupts the singular Speaker, adds nothing. 
 
 ---
 
-I mean it's a legitimate viewpoint to have, but why are these people in
-the Democratic "Left" Party?
+Greenspan, on 2008: "Another important source of the failure of risk
+management was the almost indecipherable complexity of the broad
+spectrum of new financial products and markets that developed as
+number-crunching and communication capabilities soared.
 
-"Sen. Joe Manchin Wants to Block You From Getting a $2,000 Check"
+Investment managers subcontracted an inordinately large part of their
+task to the “safe harbor” risk designations of the credit-rating
+agencies ...
 
----
+Most investment officers believed no further judgment was required of
+them because they were effectively held harmless by the judgments of
+these government-sanctioned rating organizations. Especially
+problematic were the triple-A ratings bestowed by the credit-rating
+agencies on many securities that in fact proved highly toxic. Despite
+decades of experience, the analysts at the credit-rating agencies
+proved no more adept at anticipating the onset of crisis than the
+investment community at large, and their favorable ratings of many
+securities offered a false sense of security to a great many
+investors....
 
-Getting geo pos in this webapp was a pain. I have it so js code get
-geo, dynamically updates href links, so server side gets geo in the
-URL. Who. Da. Man
-
----
-
-"Lawrence Summers, the former Treasury Secretary under Bill Clinton,
-director of the National Economic Council under Barack Obama,
-president of Harvard, and Chief Economist at the World Bank, wrote a
-post-Christmas editorial for Bloomberg entitled, 'Trump’s $2000
-Stimulus Checks are a Big Mistake.' It’s a classic"
-
-[Link](https://taibbi.substack.com/p/neoliberal-champion-larry-summers)
-
----
-
-That will of course mean less f-ing Clinton people around, like Summers
-
----
-
-Latest inequality, Gini [calculations](2019/05/stats.md#gini) with the latest data
-
-```
-2020-04-01    0.463
-2020-07-01    0.460
-```
-
-There was slight decrease in the last quarter. Let's hope the trend
-continues, the Dem Prez reduces it faster, at the very least the
-damage done during Clinton years are reversed.
+Even with the breakdown of our sophisticated risk management models
+and the failures of the credit-rating agencies, the financial system
+would likely have held together had the third bulwark against
+crisis—our regulatory system—functioned effectively. But it, too,
+failed for many of the same reasons that risk management and the
+credit-rating agencies failed: an underappreciation of the risks faced
+by the financial system and an increasing complexity that made
+effective oversight especially difficult."
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=1574&end=1712" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Flashbaxx - Funk You, Motherfunker \#music
+
+[Link](https://youtu.be/0pXKyULqqI0)
 
 ---
 
-`scipy` was deployed wout probs at least, so I wont abandon Heroku for
-now... My spiffy new elevation interpolation now uses `Rbf`.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Story you may have missed--Urban Aeronautics Announces First Four Pre-Orders of its EMS <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Powered CityHawk Aircraft from Hatzolah .<a href="https://twitter.com/hashtag/VTOL?src=hash&amp;ref_src=twsrc%5Etfw">#VTOL</a> Air Ambulances For Emergency Response-<a href="https://t.co/1JCidKgBEK">https://t.co/1JCidKgBEK</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/TWvySyFzPz">pic.twitter.com/TWvySyFzPz</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1347873000494923778?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-There are some ok tubers, to be fair... 
-
----
-
-Every tuber ever
-
-<table border=0>
-<tr>
-<td>
-<img height="100" src="https://media1.tenor.com/images/6a58b72093c7ce88d04bf4ea130db624/tenor.gif"/>
-</td>
-<td>
-<img height="100" src="https://i.pinimg.com/originals/f1/65/ea/f165eaed11a601f5ce49b2296082c9fc.gif"/>
-</td>
-</tr>
-</table>
-
----
-
-Oh yeah? There's been some Tuber tantrums as of late?
-
----
-
-During college this was my email alert sound for a while..
-
-<iframe 
-  frameborder="0" 
-  height="60"
-  src="https://drive.google.com/uc?export=view&id=1qIhKqAGuNDs2WlffkwenKMb63I55Aki9">    
-</iframe>
+<iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=410&end=622" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

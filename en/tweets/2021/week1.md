@@ -1,5 +1,103 @@
 # Week 1
 
+After Lee Smols, who is the second in command? I need a number
+two... I watched some of Cortez, some Cohen, all seem to be singing a
+slightly different tune... I need that hipster peppy, young scientist
+bursting with energy doodling some shit.
+
+---
+
+"Firms halt deliveries from UK to EU over Brexit border problems"
+
+---
+
+"Gates and Bezos-backed clean energy funds help power startup building
+hydrogen-fueled aircraft"
+
+---
+
+I mean it's a legitimate viewpoint to have, but why are these people in
+the Democratic "Left" Party?
+
+"Sen. Joe Manchin Wants to Block You From Getting a $2,000 Check"
+
+---
+
+Getting geo pos in this webapp was a pain. I have it so js code get
+geo, dynamically updates href links, so server side gets geo in the
+URL. Who. Da. Man
+
+---
+
+"Lawrence Summers, the former Treasury Secretary under Bill Clinton,
+director of the National Economic Council under Barack Obama,
+president of Harvard, and Chief Economist at the World Bank, wrote a
+post-Christmas editorial for Bloomberg entitled, 'Trump’s $2000
+Stimulus Checks are a Big Mistake.' It’s a classic"
+
+[Link](https://taibbi.substack.com/p/neoliberal-champion-larry-summers)
+
+---
+
+That will of course mean less f-ing Clinton people around, like Summers
+
+---
+
+Latest inequality, Gini [calculations](../../2019/05/stats.md#gini) with the latest data
+
+```
+2020-04-01    0.463
+2020-07-01    0.460
+```
+
+There was slight decrease in the last quarter. Let's hope the trend
+continues, the Dem Prez reduces it faster, at the very least the
+damage done during Clinton years are reversed.
+
+---
+
+<iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=1574&end=1712" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+`scipy` was deployed wout probs at least, so I wont abandon Heroku for
+now... My spiffy new elevation interpolation now uses `Rbf`.
+
+---
+
+There are some ok tubers, to be fair... 
+
+---
+
+Every tuber ever
+
+<table border=0>
+<tr>
+<td>
+<img height="100" src="https://media1.tenor.com/images/6a58b72093c7ce88d04bf4ea130db624/tenor.gif"/>
+</td>
+<td>
+<img height="100" src="https://i.pinimg.com/originals/f1/65/ea/f165eaed11a601f5ce49b2296082c9fc.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+Oh yeah? There's been some Tuber tantrums as of late?
+
+---
+
+During college this was my email alert sound for a while..
+
+<iframe 
+  frameborder="0" 
+  height="60"
+  src="https://drive.google.com/uc?export=view&id=1qIhKqAGuNDs2WlffkwenKMb63I55Aki9">    
+</iframe>
+
+---
+
 "Climate crisis: 2020 was joint hottest year ever recorded"
 
 ---
