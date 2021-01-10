@@ -21,8 +21,8 @@ institutions, with 3W tech on top... You can't mix fast and slow this
 way..
 
 3W is not at a point it can build, right now it merely disrupts and
-destroys. Like my earlier ex of Newt in front of a chat app, the app
-disrupts the singular Speaker, adds nothing. 
+destroys. Like my earlier example of Newt in front of a chat app, the
+app disrupts the singular Speaker, adds nothing.
 
 ---
 
