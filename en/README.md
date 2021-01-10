@@ -61,7 +61,7 @@ damage done during Clinton years are reversed.
 ---
 
 `scipy` was deployed wout probs at least, so I wont abandon Heroku for
-now... My spiffy new elevation interpolation now uses `Rbfi`.
+now... My spiffy new elevation interpolation now uses `Rbf`.
 
 ---
 
