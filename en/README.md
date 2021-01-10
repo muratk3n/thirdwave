@@ -7,12 +7,12 @@ environment where new tech entropy / disruption could reach faster.
 
 AG is no cookie; he knew industry, banks... 'The loan officer at a
 bank knows more about their credit risk than anyone FED could employ'
-he said once. And that risk assesment somehow failed. How? It always
-bothered me AG kept saying he never saw it coming. Now I have a
-feeling why, he knew the industry through the prism of old tech; A
-calling B, writing shit down, people shouting at the market floor, B
-calling A back, etc.. and *some* computerization. Nothing at the
-levels we see today.
+he'd say having worked at these places... And yet that risk assesment
+somehow failed. How? It always bothered me AG kept saying he never saw
+it coming. Now I have a feeling why, he knew the industry through the
+prism of old tech; A calling B, writing shit down, people shouting at
+the market floor, B calling A back, etc.. and *some*
+computerization. Nothing at the levels we see today.
 
 ---
 
