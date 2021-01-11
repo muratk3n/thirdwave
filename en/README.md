@@ -75,8 +75,8 @@ anything.. that is their real problem.
 
 Haha.. "fucking bond traders", "being born again as the bond
 market". Glib bullshit accompanied by technobabbling drama covering up
-for lack of left-courage while looking suave.. The strength of this
-junk is what gave rise to *The West Wing* taking place around
+for lack of left-courage while trying to look TV-suave.. The strength
+of this junk gave rise to *The West Wing*, taking place around
 drama-infused boomer morons passing eachother papers while
 accomplishing nothing.
 
