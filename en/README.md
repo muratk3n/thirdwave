@@ -1,5 +1,20 @@
 # Tweets
 
+
+"Fuel cell stocks had a great run in 2020. Plug Power (NASDAQ:PLUG) led
+the way as its stock surged a whopping 973% during the year"
+
+
+[Link](https://www.fool.com/investing/2021/01/04/should-you-buy-fuel-cell-stocks-in-2021/)
+
+---
+
+"SK Group invests $1.5bn in hydrogen fuel cell firm Plug Power"
+
+[Link](https://www.power-technology.com/news/sk-group-invest-hydrogen-fuel-cell-solutions-provider-plug-power/)
+
+---
+
 Hitler's story begins here
 
 "Currency War I began in 1921 in Weimar Germany when the Reichsbank,
