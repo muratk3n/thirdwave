@@ -90,7 +90,7 @@ reduction, sidelining proposals for the large, innovative stimulus
 that Clinton had advocated during the campaign. ... [S]tubbornly high
 long-term interest rates had convinced Wall Streeters, including
 Rubin, that a huge reservoir of investment money lay frozen and
-untapped.
+untapped...
 
 But cutting the budget meant eliminating much of the social investment
 raison d’être promised during the campaign. Clinton campaign
