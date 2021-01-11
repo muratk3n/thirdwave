@@ -63,7 +63,8 @@ fluff. It's tofu.
 
 ---
 
-Many are jumping the shark these days, all in their own way
+A lot of ppl are jumping the shark these days, all in their own
+different ways..
 
 ---
 
