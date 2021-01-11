@@ -5,15 +5,13 @@ Hitler's story begins here
 "Currency War I began in 1921 in Weimar Germany when the Reichsbank,
 Germany’s central bank, set about to destroy the value of the German
 mark through massive money printing and hyperinflation... Capital
-flight is a traditional response to currency collapse. Those who could
-convert marks into Swiss francs, gold or other stores of value did so
-and moved their savings abroad. Even the German bourgeoisie was not
-immediately alarmed as losses in the value of their currency were
-offset by stock market gains. The fact that these gains were
-denominated in soon to be worthless marks had not yet occurred to
-many. Finally, those who held unionized and government jobs were
-initially hedged as well because the government simply granted wage
-increases commensurate with inflation.
+flight is a traditional response to currency collapse... Even the
+German bourgeoisie was not immediately alarmed as losses in the value
+of their currency were offset by stock market gains. The fact that
+these gains were denominated in soon to be worthless marks had not yet
+occurred to many. Finally, those who held unionized and government
+jobs were initially hedged as well because the government simply
+granted wage increases commensurate with inflation.
 
 Of course, not everyone had a government or union job, stock
 portfolio, hard assets or foreign operations to insulate them. Those
