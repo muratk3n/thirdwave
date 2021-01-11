@@ -48,21 +48,6 @@ it. Runs through open source `octave`.
 
 ---
 
-The bizarre pol discourse generates its own bizarre language.. The
-Berlin Wall collapsed on the Democrats, who then tried to outdo Rep in
-their own game (econ right), which caused both going extreme on social
-issues for differentiation... These issues, being moral and
-fundamental, were unsolvable, so a constant fighting atmo set in.
-
-Into this environment steps in the politician, in the 11th inning,
-trying to sell "unification", being a "uniter not a divider". This is
-of course like trying to reason with lung cancer when you should have
-smoked less. I cant argue with the pol efficacy of it when it works,
-but certain variant is akin to kicking the can down the road. It's
-fluff. It's tofu.
-
----
-
 Big Tech jumped the shark with that Parler ban
 
 ---
