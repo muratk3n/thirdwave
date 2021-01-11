@@ -90,10 +90,7 @@ reduction, sidelining proposals for the large, innovative stimulus
 that Clinton had advocated during the campaign. ... [S]tubbornly high
 long-term interest rates had convinced Wall Streeters, including
 Rubin, that a huge reservoir of investment money lay frozen and
-untapped. Interest rates on long-term bonds were now at above 7
-percent. Lower interest rates would arguably free up investment and
-spending far beyond Robert Reich’s proposed $50 billion stimulus
-program.
+untapped.
 
 But cutting the budget meant eliminating much of the social investment
 raison d’être promised during the campaign. Clinton campaign
