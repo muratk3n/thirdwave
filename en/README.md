@@ -57,10 +57,9 @@ fundamental, were unsolvable, so a constant fighting atmo set in.
 Into this environment steps in the politician, in the 11th inning,
 trying to sell "unification", being a "uniter not a divider". This is
 of course like trying to reason with lung cancer when you should have
-smoked less. Another layer of crud on top of layers of crud. I cant
-argue with the pol efficacy of it when it is, but certain variant of
-such talk is akin to kicking the can down the road. It's fluff. It's
-tofu.
+smoked less. I cant argue with the pol efficacy of it when it works,
+but certain variant is akin to kicking the can down the road. It's
+fluff. It's tofu.
 
 ---
 
