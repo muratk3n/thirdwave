@@ -41,7 +41,7 @@ their own game (econ right), which caused both going extreme on social
 issues. These issues, being moral and fundamental, are unsolvable, so
 a constant fighting atmo set in.
 
-Into this environment steps in the politician, and at the 11th inning,
+Into this environment steps in the politician, in the 11th inning,
 trying to sell "unification", being a "uniter not a divider". This is
 of course like trying to reason with lung cancer when you should have
 smoked less. Another layer of crud on top of layers of crud. I cant
