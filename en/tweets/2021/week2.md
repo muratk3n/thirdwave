@@ -1,0 +1,74 @@
+# Week 2
+
+Obviously previous dereg didnt help either, it created a freer
+environment where new tech entropy / disruption could reach faster.
+
+---
+
+AG is no cookie; he knew industry, banks... 'The loan officer at a
+bank knows more about their credit risk than anyone FED could employ'
+he'd say having worked at these places... And yet that risk assesment
+somehow failed. How? It always bothered me AG kept saying he never saw
+it coming. Now I have a feeling why, he knew the industry through the
+prism of old tech; A calling B, writing shit down, people shouting on
+the trading floor, B calling A back, etc.. and *some*
+computerization. Nothing at the levels we see today.
+
+---
+
+This all sounds like a bizarre concoction of new tech and old; 2W
+institutions, with 3W tech on top... You can't mix fast and slow this
+way..
+
+3W is not at a point it can build, right now it merely disrupts and
+destroys. Like my earlier example of Newt in front of a chat app, the
+app disrupts the singular Speaker, adds nothing.
+
+---
+
+Greenspan, on 2008: "Another important source of the failure of risk
+management was the almost indecipherable complexity of the broad
+spectrum of new financial products and markets that developed as
+number-crunching and communication capabilities soared.
+
+Investment managers subcontracted an inordinately large part of their
+task to the “safe harbor” risk designations of the credit-rating
+agencies ...
+
+Most investment officers believed no further judgment was required of
+them because they were effectively held harmless by the judgments of
+these government-sanctioned rating organizations. Especially
+problematic were the triple-A ratings bestowed by the credit-rating
+agencies on many securities that in fact proved highly toxic. Despite
+decades of experience, the analysts at the credit-rating agencies
+proved no more adept at anticipating the onset of crisis than the
+investment community at large, and their favorable ratings of many
+securities offered a false sense of security to a great many
+investors....
+
+Even with the breakdown of our sophisticated risk management models
+and the failures of the credit-rating agencies, the financial system
+would likely have held together had the third bulwark against
+crisis—our regulatory system—functioned effectively. But it, too,
+failed for many of the same reasons that risk management and the
+credit-rating agencies failed: an underappreciation of the risks faced
+by the financial system and an increasing complexity that made
+effective oversight especially difficult."
+
+---
+
+Flashbaxx - Funk You, Motherfunker \#music
+
+[Link](https://youtu.be/0pXKyULqqI0)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Story you may have missed--Urban Aeronautics Announces First Four Pre-Orders of its EMS <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Powered CityHawk Aircraft from Hatzolah .<a href="https://twitter.com/hashtag/VTOL?src=hash&amp;ref_src=twsrc%5Etfw">#VTOL</a> Air Ambulances For Emergency Response-<a href="https://t.co/1JCidKgBEK">https://t.co/1JCidKgBEK</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/TWvySyFzPz">pic.twitter.com/TWvySyFzPz</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1347873000494923778?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<iframe width="200" src="https://www.youtube.com/embed/t-cP1prsBIo?start=410&end=622" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+
