@@ -114,10 +114,6 @@ secretary"
 
 ---
 
-Libs being self-righteous on anything is the most repulsive thing ever.
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
