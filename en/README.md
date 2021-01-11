@@ -54,10 +54,6 @@ Many are jumping the shark these days, all in their own way
 
 ---
 
-Libs being self-righteous on anything is the most disgusting thing ever.
-
----
-
 These days interest rates are as low as ever yet there are still
 people whining about the deficit. They just dont want gov to do
 anything.. that is their real problem.
@@ -105,6 +101,10 @@ orthodox Summers as a top assistant, later to succeed Bentsen as
 secretary"
 
 [Link](https://prospect.org/health/fabulous-failure-clinton-s-1990s-origins-times/)
+
+---
+
+Libs being self-righteous on anything is the most repulsive thing ever.
 
 ---
 
