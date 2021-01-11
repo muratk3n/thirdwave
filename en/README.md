@@ -63,7 +63,7 @@ fluff. It's tofu.
 
 ---
 
-Big Tech jumped the shark with that Parlor ban
+Big Tech jumped the shark with that Parler ban
 
 ---
 
