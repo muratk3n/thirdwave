@@ -51,15 +51,15 @@ it. Runs through open source `octave`.
 The bizarre pol discourse generates its own bizarre language.. The
 Berlin Wall collapsed on the Democrats, who then tried to outdo Rep in
 their own game (econ right), which caused both going extreme on social
-issues. These issues, being moral and fundamental, are unsolvable, so
-a constant fighting atmo set in.
+issues for differentiation... These issues, being moral and
+fundamental, were unsolvable, so a constant fighting atmo set in.
 
 Into this environment steps in the politician, in the 11th inning,
 trying to sell "unification", being a "uniter not a divider". This is
 of course like trying to reason with lung cancer when you should have
 smoked less. Another layer of crud on top of layers of crud. I cant
-argue with its pol effectiveness when it is, but it is akin to kicking
-the can down the road. It's fluff. It's tofu.
+argue with the efficacy of it when it is, but such talk is akin to
+kicking the can down the road. It's fluff. It's tofu.
 
 ---
 
