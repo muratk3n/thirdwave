@@ -67,7 +67,7 @@ Haha.. "fucking bond traders", "being born again as the bond
 market". Glib bullshit accompanied by technobabbling drama covering up
 for lack of left-courage while trying to look TV-suave.. The strength
 of this junk gave rise to *The West Wing*, taking place around
-drama-infused boomer passing eachother papers while accomplishing
+drama-infused boomers passing eachother papers while accomplishing
 nothing.
 
 "Clinton came face to face with the ideological power surrounding
