@@ -93,18 +93,13 @@ Rubin, that a huge reservoir of investment money lay frozen and
 untapped...
 
 But cutting the budget meant eliminating much of the social investment
-raison d’être promised during the campaign. Clinton campaign
-strategists like James Carville, Paul Begala, Stan Greenberg, and
-Mandy Grunwald, as well as Hillary Clinton and Ira Magaziner, were
-incredulous. There were no guarantees that shelving campaign promises
-would generate a positive response from the bond market, even if
-Federal Reserve Chair Alan Greenspan delivered easier monetary policy
-in exchange for deficit reduction. An appalled Clinton, confronted
-with reality according to Rubin, told his economic team, “You mean to
-tell me that the success of the program and my re-election hinges on
-the Federal Reserve and a bunch of fucking bond traders?” Carville
-would later remark that were he to be born again, he wanted to be
-reincarnated as the most powerful thing in the world, the bond market.
+raison d’être promised during the campaign... An appalled Clinton,
+confronted with reality according to Rubin, told his economic team,
+“You mean to tell me that the success of the program and my
+re-election hinges on the Federal Reserve and a bunch of fucking bond
+traders?” Carville would later remark that were he to be born again,
+he wanted to be reincarnated as the most powerful thing in the world,
+the bond market.
 
 But it was Clinton himself who had appointed deficit hawks like Rubin
 and Bentsen, the new secretary of the Treasury, who in turn chose the
