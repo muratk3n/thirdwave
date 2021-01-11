@@ -63,6 +63,10 @@ fluff. It's tofu.
 
 ---
 
+Big Tech jumped the shark with that Parlor ban
+
+---
+
 A lot of ppl are jumping the shark these days, all in their own
 different ways..
 
