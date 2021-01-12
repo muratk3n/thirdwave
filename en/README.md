@@ -84,8 +84,7 @@ Policy needs to be celeb-indifferent, pursued by capable people.
 
 ---
 
-*Red Planet*, 2000, must be Tesla monkey boy's formative film. I think
-the f-ing moron had his entire worldview shaped by this one thing. It
+*Red Planet*, 2000, must be Tesla monkey boy's formative film. It
 shows Mars with atmosphere (not possible), talks of plans with ppl
 living there (ur bones would fall off after long-term exposure), there
 is even a killer AI (hyperbole). But if you were 11, you could believe
