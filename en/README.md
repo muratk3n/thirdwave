@@ -87,8 +87,8 @@ Policy needs to be celeb-indifferent, pursued by capable people.
 *Red Planet*, 2000, must be Tesla monkey boy's formative film. It
 shows Mars with atmosphere (not possible), talks of plans with ppl
 living there (ur bones would fall off after long-term exposure), there
-is even a killer AI (hyperbole). But if you were uninformed and/or
-retarded, you could believe it, and with media being what it is, get
+is even a killer AI (hyperbole). But if you were uninformed or
+retarded you could believe it, and with media being what it is, get
 all kinds of attention and money peddling this "vision".
 
 ---
