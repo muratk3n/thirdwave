@@ -1,14 +1,14 @@
 # Tweets
 
-And there are no black holes... (see interview with W. Kundt). Hawking
-himself admitted before death 🤦‍♂️
-
----
-
 Constants are key, and IMO physics should be taught through them,
 i.e. how each is derived / measured, and each lecture builds towards
 one, in succession. This connects with earlier idea of teaching
 concepts as its founders discovered them.
+
+---
+
+And there are no black holes... (see interview with W. Kundt). Hawking
+himself admitted before death 🤦‍♂️
 
 ---
 
