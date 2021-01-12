@@ -78,10 +78,6 @@ rather than people who don't getting something by mistake"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">just enough self-loathing to keep tweeting</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1348633191612100608?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Policy needs to be celeb-indifferent. LBJ knew his shit, came up with
 the Moon landing idea, funded it while in office, so US went to the
 Moon. Capable people toiling away wout flash. Not attention sluts,
@@ -115,6 +111,10 @@ YouTube"
 
 Troubling aspects here, Big Tech individual comps are trying to outdo
 eachother, once ban starts they all go for it, not to be outdone. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">just enough self-loathing to keep tweeting</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1348633191612100608?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
