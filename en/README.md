@@ -1,8 +1,7 @@
 # Tweets
 
 This is so sad.. so very sad. Nearly most aspirational ideas, goals
-commonly known, and floated in sci are junk. No wonder we are in a
-rut.
+commonly known, and floated in sci are junk. 
 
 ---
 
