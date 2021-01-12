@@ -80,9 +80,7 @@ rather than people who don't getting something by mistake"
 
 ---
 
-Policy needs to be celeb-indifferent, pursued by capable people. LBJ
-knew his shit, came up with the Moon landing idea, funded it while in
-office, so US went to the Moon. 
+Policy needs to be celeb-indifferent, pursued by capable people.
 
 ---
 

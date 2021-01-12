@@ -1,6 +1,5 @@
 # Week 2
 
-
 "Fuel cell stocks had a great run in 2020. Plug Power (NASDAQ:PLUG) led
 the way as its stock surged a whopping 973% during the year"
 
