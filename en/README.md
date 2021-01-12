@@ -91,8 +91,8 @@ the f-ing moron had his entire worldview shaped by this one thing. It
 shows Mars with atmosphere (not possible), talks of plans with ppl
 living there (ur bones would fall off after long-term exposure), there
 is even a killer AI (hyperbole). But if you were 11, you could believe
-it, and with media being the cesspool of dipshittery that it is, get
-all kinds of attention and money peddling this "vision".
+it, and with media being what it is, get all kinds of attention and
+money peddling this "vision".
 
 ---
 
