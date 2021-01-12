@@ -48,7 +48,7 @@ Newton's Theory of Gravitation condensed dozens of unexplained
 parameters into one gravitational constant.
 
 [Today's] particle physics is going the other way around. It produced
-[many free] parameters"
+[too many free] parameters"
 
 [Link](https://youtu.be/0NOaYu-AxsI?t=6)
 
