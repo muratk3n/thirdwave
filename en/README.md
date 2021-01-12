@@ -24,8 +24,8 @@ Says particle physics community became "too big too fail" 🤣
 
 ---
 
-Right.. electronics uses QM but q tunneling needed for elec was
-already discovered 1928.
+Right.. electronics uses QM but q tunneling needed for it was already
+discovered 1928.
 
 ---
 
