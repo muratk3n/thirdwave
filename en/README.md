@@ -84,8 +84,8 @@ rather than people who don't getting something by mistake"
 
 Policy needs to be celeb-indifferent. LBJ knew his shit, came up with
 the Moon landing idea, funded it while in office, so US went to the
-Moon. Capable people toiling away wout flash needed, not attention
-sluts, inbred monkeys jumping around creating drama.
+Moon. Capable people toiling away wout flash. Not attention sluts,
+inbred monkeys jumping around creating drama.
 
 ---
 
