@@ -1,10 +1,5 @@
 # Tweets
 
-This is so sad.. so very sad. Nearly most aspirational ideas, goals
-commonly known, and floated in sci are junk. 
-
----
-
 And there are no black holes... (see interview with W. Kundt). Hawking
 himself admitted before death 🤦‍♂️
 
