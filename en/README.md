@@ -1,5 +1,13 @@
 # Tweets
 
+"Kenworth became the first company to reach the summit of Pikes Peak
+with a Class 8 fuel cell electric vehicle. The milestone occurred
+during a Kenworth T680 FCEV zero emissions performance demonstration"
+
+<iframe width="340" src="https://www.youtube.com/embed/02eiIy_l6XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 Constants are key, and IMO physics should be taught through them,
 i.e. how each is derived / measured, and each lecture builds towards
 one, in succession. This connects with earlier idea of teaching
