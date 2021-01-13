@@ -4,33 +4,22 @@
 
 ---
 
-Also 3W tech disturbs 2W institutions, so pols need to take extra care
-to cut off this useless flow... Not saying ban, but ignore. 
+Greenwald: "Critics of Silicon Valley censorship for years heard the
+same refrain: tech platforms like Facebook, Google and Twitter are
+private corporations and can host or ban whoever they want. If you
+don’t like what they are doing, the solution is not to complain or to
+regulate them. Instead, go create your own social media platform that
+operates the way you think it should.
 
----
+The founders of Parler heard that suggestion and tried...
 
-Toffler on California's recall election: "a campaign that attracted
-135 candidates for replacement, including a porn publisher, a retired
-meatpacker, a sumo wrestler, a used-car salesman and an elderly woman
-known solely for putting her name and chest on giant billboards. In
-the end, Davis was dumped and replaced by [an] actor-muscleman".
+But today, if you want to download, sign up for, or use Parler, you
+will be unable to do so. That is because three Silicon Valley
+monopolies — Amazon, Google and Apple — abruptly united to remove
+Parler from the internet, exactly at the moment when it became the
+most-downloaded app in the country"
 
-[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
-
----
-
-Sure, overturn. Whaddaf..k do people know anyway... They should not
-legislate which is akin to mob rule. Electing representatives is just
-fine... I'd also bar people from recalling governors.
-
-"A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
-in state supreme court to overturn a ballot measure that allows the
-companies to continue treating its workers like independent
-contractors. The drivers claim that Prop 22, which was approved by
-California voters last November, violates the state’s constitution by
-'stripping' the state legislature’s ability to empower workers to
-organize, as well as by 'illegally' excluding ride-hail drivers from
-the state workers’ compensation program"
+[Link](https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic)
 
 ---
 
@@ -92,22 +81,33 @@ partners, especially Japan, Australia and India"
 
 ---
 
-Greenwald: "Critics of Silicon Valley censorship for years heard the
-same refrain: tech platforms like Facebook, Google and Twitter are
-private corporations and can host or ban whoever they want. If you
-don’t like what they are doing, the solution is not to complain or to
-regulate them. Instead, go create your own social media platform that
-operates the way you think it should.
+Also 3W tech disturbs 2W institutions, so pols need to take extra care
+to cut off this useless flow... Not saying ban, but ignore. 
 
-The founders of Parler heard that suggestion and tried...
+---
 
-But today, if you want to download, sign up for, or use Parler, you
-will be unable to do so. That is because three Silicon Valley
-monopolies — Amazon, Google and Apple — abruptly united to remove
-Parler from the internet, exactly at the moment when it became the
-most-downloaded app in the country"
+Toffler on California's recall election: "a campaign that attracted
+135 candidates for replacement, including a porn publisher, a retired
+meatpacker, a sumo wrestler, a used-car salesman and an elderly woman
+known solely for putting her name and chest on giant billboards. In
+the end, Davis was dumped and replaced by [an] actor-muscleman".
 
-[Link](https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic)
+[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
+
+---
+
+Sure, overturn. Whaddamuck do people know anyway... They should not
+legislate which is akin to mob rule. Electing representatives is just
+fine... I'd also bar people from recalling governors.
+
+"A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
+in state supreme court to overturn a ballot measure that allows the
+companies to continue treating its workers like independent
+contractors. The drivers claim that Prop 22, which was approved by
+California voters last November, violates the state’s constitution by
+'stripping' the state legislature’s ability to empower workers to
+organize, as well as by 'illegally' excluding ride-hail drivers from
+the state workers’ compensation program"
 
 ---
 
