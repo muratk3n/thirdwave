@@ -733,15 +733,6 @@ miles-each-way drives to NYC & Boston w/ no charging'"
 
 ---
 
-"@mattyglesias
-
-What if I told you the core function of selective private colleges is
-to reinforce class hierarchies and there is no renaming or diversity
-initiative that can possibly recast the project as compatible with
-egalitarian values?"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">import numpy as scipy</p>&mdash; Hassan Najjar (@hknajjar) <a href="https://twitter.com/hknajjar/status/1276981031497654272?ref_src=twsrc%5Etfw">June 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

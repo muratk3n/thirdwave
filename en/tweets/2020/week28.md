@@ -727,14 +727,6 @@ country's GDP. That's a lota dough
 
 ---
 
-"@mattyglesias
-
-It’s sort of striking how little actual reforming of policing has
-happened during this great reckoning"
-
----
-
-
 😂😂😂😂
 
 Im lovin this man.. 
