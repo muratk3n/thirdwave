@@ -4,20 +4,20 @@
 
 ---
 
-Toffler's on California's recall election: "a campaign that attracted
-135 candidates for [Davis'] replacement, including a porn publisher, a
-retired meatpacker, a sumo wrestler, a used-car salesman and an
-elderly woman known solely for putting her name and chest on giant
-billboards. In the end, Davis was dumped and replaced by [an]
-actor-muscleman". 
+Toffler's comment on California's recall election: "a campaign that
+attracted 135 candidates for [Davis'] replacement, including a porn
+publisher, a retired meatpacker, a sumo wrestler, a used-car salesman
+and an elderly woman known solely for putting her name and chest on
+giant billboards. In the end, Davis was dumped and replaced by [an]
+actor-muscleman".
 
 [Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
 
 ---
 
-Sure, overturn. WTF do people know anyway... They should not legislate
-which is akin to mob rule. Electing representatives is just fine. Also
-bar people from recalling governors. 
+Sure, overturn. Whaddaf..k do people know anyway... They should not
+legislate which is akin to mob rule. Electing representatives is just
+fine... I'd also bar people from recalling governors.
 
 "A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
 in state supreme court to overturn a ballot measure that allows the
