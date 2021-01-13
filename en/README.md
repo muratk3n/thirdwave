@@ -81,8 +81,8 @@ partners, especially Japan, Australia and India"
 
 ---
 
-Also 3W tech disturbs 2W institutions, so pols need to take extra care
-to cut off this useless flow... Not saying ban, but ignore. 
+Tech: 3W disturbs 2W institutions, so pols need to take extra care to
+cut off this useless flow... Not saying ban, but ignore.
 
 ---
 
