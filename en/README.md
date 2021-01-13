@@ -70,9 +70,9 @@ according to the reports"
 
 "@fuelcellsworks
 
-Groupe Renault & @PlugPowerIncPower Join Forces in #Hydrogen-50-50
+Groupe Renault & @PlugPowerIncPower Join Forces in \#Hydrogen-50-50
 joint-venture (JV) based in France by end of 1st half of 2021,
-targeting over 30% share of the f#uelcell-powered light commercial
+targeting over 30% share of the \#fuelcell-powered light commercial
 vehicle (LCV) market in \#Europe"
 
 [Link](http://bit.ly/2T9Vb7b )
