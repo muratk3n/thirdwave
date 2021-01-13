@@ -43,7 +43,7 @@ pharmaceutical giants manufacturing coronavirus vaccines.... Among the
 companies identified as having CCP members in their employ are
 manufacturers like Boeing and Volkswagen, drug giants Pfizer and
 AstraZeneca, and financial institutions including ANZ and HSBC,
-according to the reports"
+uckaccording to the reports"
 
 [Link](https://www.news.com.au/finance/economy/australian-economy/chinese-communist-party-database-leak-reveals-infiltration-into-western-companies/news-story/8fa8f08a2e29564413499f7769ae0bae)
 
@@ -89,24 +89,8 @@ Territories as a system of apartheid"
 
 ---
 
-Tech: 3W disturbs 2W institutions, so pols need to take extra care to
-cut off this useless flow... Not saying ban, but ignore.
-
----
-
-Toffler on California's recall election: "a campaign that attracted
-135 candidates for replacement, including a porn publisher, a retired
-meatpacker, a sumo wrestler, a used-car salesman and an elderly woman
-known solely for putting her name and chest on giant billboards. In
-the end, Davis was dumped and replaced by [an] actor-muscleman".
-
-[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
-
----
-
 Sure, overturn. Whaddamuck do people know anyway... They should not
-legislate which is akin to mob rule. Electing representatives is just
-fine... I'd also bar people from recalling governors.
+legislate which is akin to mob rule. 
 
 "A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
 in state supreme court to overturn a ballot measure that allows the
@@ -116,6 +100,8 @@ California voters last November, violates the state’s constitution by
 'stripping' the state legislature’s ability to empower workers to
 organize, as well as by 'illegally' excluding ride-hail drivers from
 the state workers’ compensation program"
+
+[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
 
 ---
 
