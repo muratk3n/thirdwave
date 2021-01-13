@@ -4,15 +4,8 @@
 
 ---
 
-Most celebs are even dumber than regular people on politics, so I'd
-ignore them more.
-
----
-
 Also 3W tech disturbs 2W institutions, so pols need to take extra care
-to cut off this useless flow... Not saying ban, but ignore. Less
-people inclusion in decisions... Listen to grievance not their moronic
-solutions. 
+to cut off this useless flow... Not saying ban, but ignore. 
 
 ---
 
