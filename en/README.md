@@ -4,11 +4,6 @@
 
 ---
 
-*I am CRM* has to listen, but that's their personal development
-goal. Cant be global rule-of-thumb.
-
----
-
 Most celebs are even fu--ing dumber than regular people on politics,
 so I'd ignore them even more.
 
