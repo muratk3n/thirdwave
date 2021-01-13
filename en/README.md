@@ -92,6 +92,23 @@ partners, especially Japan, Australia and India"
 
 ---
 
+"Critics of Silicon Valley censorship for years heard the same refrain:
+tech platforms like Facebook, Google and Twitter are private
+corporations and can host or ban whoever they want. If you don’t like
+what they are doing, the solution is not to complain or to regulate
+them. Instead, go create your own social media platform that operates
+the way you think it should.
+
+The founders of Parler heard that suggestion and tried...
+
+But today, if you want to download, sign up for, or use Parler, you
+will be unable to do so. That is because three Silicon Valley
+monopolies — Amazon, Google and Apple — abruptly united to remove
+Parler from the internet, exactly at the moment when it became the
+most-downloaded app in the country"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
