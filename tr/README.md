@@ -36,6 +36,8 @@ başlar.
 
 [Fişleme](/2018/12/fisleme.html)
 
+[MBTI](/2019/08/mbti_tr.html)
+
 ## Gez
 
 [Seneye Gore](years.md)
