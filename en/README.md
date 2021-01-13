@@ -81,7 +81,7 @@ vehicle (LCV) market in \#Europe"
 
 Hear hear...
 
-<iframe width="200" src="https://www.youtube.com/embed/MBAGrPz1Ask?start=1646" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" src="https://www.youtube.com/embed/MBAGrPz1Ask?start=1648&end=1692" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
