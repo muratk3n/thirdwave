@@ -1,5 +1,121 @@
 # Week 2
 
+"Kenworth became the first company to reach the summit of Pikes Peak
+with a Class 8 fuel cell electric vehicle. The milestone occurred
+during a Kenworth T680 FCEV zero emissions performance demonstration"
+
+<iframe width="340" src="https://www.youtube.com/embed/02eiIy_l6XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Constants are key, and IMO physics should be taught through them,
+i.e. how each is derived / measured, and each lecture builds towards
+one, in succession. This connects with earlier idea of teaching
+concepts as its founders discovered them.
+
+---
+
+And there are no black holes... (see interview with W. Kundt). Hawking
+himself admitted before death 🤦‍♂️
+
+---
+
+Says particle physics community became "too big too fail" 🤣 
+
+---
+
+Right.. electronics uses QM but q tunneling needed for it was already
+discovered 1928.
+
+---
+
+I knew things were bad, but only bad since 70s. This guy says it's
+been bad since 30s.
+
+Alex Unzicker: "I don't know how many of you believe that the Higgs
+boson was the discovery of the century but what is sure that Einstein,
+Dirac, or Schrodinger would have considered this discovery as
+ridiculous they would never have believed that such a model with so
+many unexplained parameters reflecting anything fundamental.
+
+So I'm going to argue that particle physics as practice since 1930 is
+a futile enterprise in its entirety. ...
+
+First of all good physics is simple, and the true revolutions in
+physics always simplify the laws of nature. Maxwell's electrodynamics
+was a revolution because the electrodynamic constants and the speed of
+light were condensed in one formula, eliminating one constant of
+nature.  So did the Planck constant h simplify the laws of nature and
+Newton's Theory of Gravitation condensed dozens of unexplained
+parameters into one gravitational constant.
+
+[Today's] particle physics is going the other way around. It produced
+[too many free] parameters"
+
+[Link](https://youtu.be/0NOaYu-AxsI?t=6)
+
+---
+
+"@rianwatt
+
+The vaccine rollout is so typical of this country's approach to
+delivering public goods. A decentralized and underfunded patchwork of
+organizations tasked with moving mountains by a federal government
+motivated primarily by a fanatical fear of the wrong people receiving
+benefit
+
+The result: A system ripe for bad faith grift and line-cutting by the
+wealthy and powerful that fails to deliver promised benefits at twice
+the necessary expense, thereby undercutting public faith in the
+program and leading to further decentralization and stigmatization.
+
+It's far from an original insight, but I keep being struck by how much
+more humane and effective our public programs would be if they were
+motivated by a fear of people who need them *not* receiving services
+rather than people who don't getting something by mistake"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green hydrogen could supply up to 25% of the world’s energy needs by 2050 and become a US$10 trillion addressable market by 2050. Learn more about green hydrogen&#39;s future in <a href="https://twitter.com/Forbes?ref_src=twsrc%5Etfw">@Forbes</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://t.co/lwfoG17hg8">https://t.co/lwfoG17hg8</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1348634711581667336?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Policy needs to be celeb-indifferent, pursued by capable people.
+
+---
+
+*Red Planet*, 2000, must be Tesla monkey boy's formative film. It
+shows Mars with atmosphere (not possible), talks of plans with ppl
+living there (ur bones would fall off after long-term exposure), there
+is even a killer AI (hyperbole). But if you were uninformed or
+retarded you could believe it, and with media being what it is, get
+all kinds of attention and money peddling this "vision".
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen is unlikely to remain a niche fuel for much longer – in the US and around the world. The element could play a critical role in the decarbonization of our economies. <a href="https://t.co/OX3MnRBwdG">https://t.co/OX3MnRBwdG</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1348213788919652352?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@ggreenwald
+
+I wonder how many people subserviently cheering Jeff Bezos, Tim Cook
+and Google billionaires for destroying Parler a) have ever been on
+Parler, b) know anything about it besides what CNN & NBC censors have
+shown them, & c) compared the hate speech there to what's on FB &
+YouTube"
+
+---
+
+Troubling aspects here, Big Tech individual comps are trying to outdo
+eachother, once ban starts they all go for it, not to be outdone. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">just enough self-loathing to keep tweeting</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1348633191612100608?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "Fuel cell stocks had a great run in 2020. Plug Power (NASDAQ:PLUG) led
 the way as its stock surged a whopping 973% during the year"
 

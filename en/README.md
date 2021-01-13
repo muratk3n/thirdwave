@@ -1,118 +1,90 @@
 # Tweets
 
-"Kenworth became the first company to reach the summit of Pikes Peak
-with a Class 8 fuel cell electric vehicle. The milestone occurred
-during a Kenworth T680 FCEV zero emissions performance demonstration"
-
-<iframe width="340" src="https://www.youtube.com/embed/02eiIy_l6XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">to fully recreate the conference experience, I&#39;m charging myself $6 for each coffee I drink and I&#39;m randomly unplugging the wifi router throughout the day.<a href="https://twitter.com/hashtag/AAS237?src=hash&amp;ref_src=twsrc%5Etfw">#AAS237</a></p>&mdash; Michael Zingale (@Michael_Zingale) <a href="https://twitter.com/Michael_Zingale/status/1348653451367034880?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Constants are key, and IMO physics should be taught through them,
-i.e. how each is derived / measured, and each lecture builds towards
-one, in succession. This connects with earlier idea of teaching
-concepts as its founders discovered them.
+Toffler's on California's recall election: "a campaign that attracted
+135 candidates for [Davis'] replacement, including a porn publisher, a
+retired meatpacker, a sumo wrestler, a used-car salesman and an
+elderly woman known solely for putting her name and chest on giant
+billboards. In the end, Davis was dumped and replaced by [an]
+actor-muscleman". 
+
+[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
 
 ---
 
-And there are no black holes... (see interview with W. Kundt). Hawking
-himself admitted before death 🤦‍♂️
+Sure, overturn. WTF do people know anyway... They should not legislate
+which is akin to mob rule. Electing representatives is just fine. Also
+bar people from recalling governors. 
+
+"A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
+in state supreme court to overturn a ballot measure that allows the
+companies to continue treating its workers like independent
+contractors. The drivers claim that Prop 22, which was approved by
+California voters last November, violates the state’s constitution by
+'stripping' the state legislature’s ability to empower workers to
+organize, as well as by 'illegally' excluding ride-hail drivers from
+the state workers’ compensation program"
 
 ---
 
-Says particle physics community became "too big too fail" 🤣 
+"glynholton
+
+Concerns that Biden will go softly on Wall Street can be laid to
+rest. Gensler is a proven reformer"
 
 ---
 
-Right.. electronics uses QM but q tunneling needed for it was already
-discovered 1928.
+Fila Brazillia - The Sheriff \#music
+
+[Link](https://youtu.be/NESE984aSOw)
 
 ---
 
-I knew things were bad, but only bad since 70s. This guy says it's
-been bad since 30s.
+"An unprecedented data leak has revealed how alleged Chinese Communist
+Party members have embedded themselves inside some of the world’s
+biggest companies, including defence contractors, banks and
+pharmaceutical giants manufacturing coronavirus vaccines.... Among the
+companies identified as having CCP members in their employ are
+manufacturers like Boeing and Volkswagen, drug giants Pfizer and
+AstraZeneca, and financial institutions including ANZ and HSBC,
+according to the reports"
 
-Alex Unzicker: "I don't know how many of you believe that the Higgs
-boson was the discovery of the century but what is sure that Einstein,
-Dirac, or Schrodinger would have considered this discovery as
-ridiculous they would never have believed that such a model with so
-many unexplained parameters reflecting anything fundamental.
-
-So I'm going to argue that particle physics as practice since 1930 is
-a futile enterprise in its entirety. ...
-
-First of all good physics is simple, and the true revolutions in
-physics always simplify the laws of nature. Maxwell's electrodynamics
-was a revolution because the electrodynamic constants and the speed of
-light were condensed in one formula, eliminating one constant of
-nature.  So did the Planck constant h simplify the laws of nature and
-Newton's Theory of Gravitation condensed dozens of unexplained
-parameters into one gravitational constant.
-
-[Today's] particle physics is going the other way around. It produced
-[too many free] parameters"
-
-[Link](https://youtu.be/0NOaYu-AxsI?t=6)
+[Link](https://www.news.com.au/finance/economy/australian-economy/chinese-communist-party-database-leak-reveals-infiltration-into-western-companies/news-story/8fa8f08a2e29564413499f7769ae0bae)
 
 ---
 
-"@rianwatt
+"@fuelcellsworks
 
-The vaccine rollout is so typical of this country's approach to
-delivering public goods. A decentralized and underfunded patchwork of
-organizations tasked with moving mountains by a federal government
-motivated primarily by a fanatical fear of the wrong people receiving
-benefit
+Groupe Renault & @PlugPowerIncPower Join Forces in #Hydrogen-50-50
+joint-venture (JV) based in France by end of 1st half of 2021,
+targeting over 30% share of the f#uelcell-powered light commercial
+vehicle (LCV) market in \#Europe"
 
-The result: A system ripe for bad faith grift and line-cutting by the
-wealthy and powerful that fails to deliver promised benefits at twice
-the necessary expense, thereby undercutting public faith in the
-program and leading to further decentralization and stigmatization.
+[Link](http://bit.ly/2T9Vb7b )
 
-It's far from an original insight, but I keep being struck by how much
-more humane and effective our public programs would be if they were
-motivated by a fear of people who need them *not* receiving services
-rather than people who don't getting something by mistake"
+----
+
+Hear hear...
+
+<iframe width="200" src="https://www.youtube.com/embed/MBAGrPz1Ask?start=1646" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Green hydrogen could supply up to 25% of the world’s energy needs by 2050 and become a US$10 trillion addressable market by 2050. Learn more about green hydrogen&#39;s future in <a href="https://twitter.com/Forbes?ref_src=twsrc%5Etfw">@Forbes</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://t.co/lwfoG17hg8">https://t.co/lwfoG17hg8</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1348634711581667336?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The 1st island chain...
+
+[Link](https://twitter.com/SamRoggeveen/status/1349221032410763274)
 
 ---
 
-Policy needs to be celeb-indifferent, pursued by capable people.
+"Declassification of secret document reveals US strategy in the
+Indo-Pacific... This confirms that US strategic policy in the
+Indo-Pacific was in substantial part informed and driven by allies and
+partners, especially Japan, Australia and India"
 
----
-
-*Red Planet*, 2000, must be Tesla monkey boy's formative film. It
-shows Mars with atmosphere (not possible), talks of plans with ppl
-living there (ur bones would fall off after long-term exposure), there
-is even a killer AI (hyperbole). But if you were uninformed or
-retarded you could believe it, and with media being what it is, get
-all kinds of attention and money peddling this "vision".
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen is unlikely to remain a niche fuel for much longer – in the US and around the world. The element could play a critical role in the decarbonization of our economies. <a href="https://t.co/OX3MnRBwdG">https://t.co/OX3MnRBwdG</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1348213788919652352?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@ggreenwald
-
-I wonder how many people subserviently cheering Jeff Bezos, Tim Cook
-and Google billionaires for destroying Parler a) have ever been on
-Parler, b) know anything about it besides what CNN & NBC censors have
-shown them, & c) compared the hate speech there to what's on FB &
-YouTube"
-
----
-
-Troubling aspects here, Big Tech individual comps are trying to outdo
-eachother, once ban starts they all go for it, not to be outdone. 
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">just enough self-loathing to keep tweeting</p>&mdash; Amanda Hess (@amandahess) <a href="https://twitter.com/amandahess/status/1348633191612100608?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://www.aspistrategist.org.au/declassification-of-secret-document-reveals-real-us-strategy-in-the-indo-pacific/)
 
 ---
 
