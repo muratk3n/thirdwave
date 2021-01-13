@@ -9,7 +9,8 @@ goal. Cant be global rule-of-thumb.
 
 ---
 
-Most celebs are even fu--ing dumber so I'd ignore them more.
+Most celebs are even fu--ing dumber than regular people, so I'd ignore
+them even more.
 
 ---
 
