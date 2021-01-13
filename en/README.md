@@ -4,10 +4,16 @@
 
 ---
 
-The new 3W tech disturbs 2W institutions, so pols need to take extra
-care to cut off this useless flow. Not saying ban, but ignoring will
-help. Less people inclusion in decisions. Listen to grievane not their
-moronic solutions.
+*I am CRM* types might be uneasy with this; but their need to listen
+*is their* personal development goal. It cannot be turned into global
+*rule-of-thumb.
+
+---
+
+3W tech disturbs 2W institutions, so pols need to take extra care to
+cut off this useless flow... Not saying ban, but ignore. Less people
+inclusion in decisions is good. Listen to grievance not their moronic
+solutions.
 
 ---
 
