@@ -5,7 +5,7 @@
 ---
 
 *I am CRM* has to listen, but that's their personal development
-goal. Doesnt apply to anyone else. 
+goal. Cant be global rule-of-thumb.
 
 ---
 
