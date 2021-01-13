@@ -107,6 +107,8 @@ monopolies — Amazon, Google and Apple — abruptly united to remove
 Parler from the internet, exactly at the moment when it became the
 most-downloaded app in the country"
 
+[Link](https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic)
+
 ---
 
 Industrial Age society, the Second Wave began in Western Europe with
