@@ -9,15 +9,15 @@ goal. Cant be global rule-of-thumb.
 
 ---
 
-Most celebs are even fu--ing dumber than regular people, so I'd ignore
-them even more.
+Most celebs are even fu--ing dumber than regular people on politics,
+so I'd ignore them even more.
 
 ---
 
 Also 3W tech disturbs 2W institutions, so pols need to take extra care
 to cut off this useless flow... Not saying ban, but ignore. Less
 people inclusion in decisions... Listen to grievance not their moronic
-solutions.
+solutions. 
 
 ---
 
