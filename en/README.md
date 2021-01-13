@@ -9,6 +9,10 @@ goal. Doesnt apply to anyone else.
 
 ---
 
+Most celebs are even fu--ing dumber so I'd ignore them more.
+
+---
+
 3W tech disturbs 2W institutions, so pols need to take extra care to
 cut off this useless flow... Not saying ban, but ignore. Less people
 inclusion in decisions is good. Listen to grievance not their moronic
