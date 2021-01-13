@@ -92,12 +92,12 @@ partners, especially Japan, Australia and India"
 
 ---
 
-"Critics of Silicon Valley censorship for years heard the same refrain:
-tech platforms like Facebook, Google and Twitter are private
-corporations and can host or ban whoever they want. If you don’t like
-what they are doing, the solution is not to complain or to regulate
-them. Instead, go create your own social media platform that operates
-the way you think it should.
+Greenwald: "Critics of Silicon Valley censorship for years heard the
+same refrain: tech platforms like Facebook, Google and Twitter are
+private corporations and can host or ban whoever they want. If you
+don’t like what they are doing, the solution is not to complain or to
+regulate them. Instead, go create your own social media platform that
+operates the way you think it should.
 
 The founders of Parler heard that suggestion and tried...
 
