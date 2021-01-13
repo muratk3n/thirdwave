@@ -36,6 +36,8 @@ Fila Brazillia - The Sheriff \#music
 
 ---
 
+Most of that spying was probably helped by the West itself
+
 "An unprecedented data leak has revealed how alleged Chinese Communist
 Party members have embedded themselves inside some of the world’s
 biggest companies, including defence contractors, banks and
