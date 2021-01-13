@@ -4,9 +4,8 @@
 
 ---
 
-*I am CRM* types might be uneasy with this; but their need to listen
-*is their* personal development goal. It cannot be turned into global
-*rule-of-thumb.
+*I am CRM* has to listen, but that's their personal development
+goal. Doesnt apply to anyone else. 
 
 ---
 
