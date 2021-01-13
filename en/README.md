@@ -14,9 +14,9 @@ them even more.
 
 ---
 
-3W tech disturbs 2W institutions, so pols need to take extra care to
-cut off this useless flow... Not saying ban, but ignore. Less people
-inclusion in decisions is good. Listen to grievance not their moronic
+Also 3W tech disturbs 2W institutions, so pols need to take extra care
+to cut off this useless flow... Not saying ban, but ignore. Less
+people inclusion in decisions... Listen to grievance not their moronic
 solutions.
 
 ---
