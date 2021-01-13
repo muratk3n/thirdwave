@@ -26,7 +26,7 @@ most-downloaded app in the country"
 "glynholton
 
 Concerns that Biden will go softly on Wall Street can be laid to
-rest. Gensler [for SEC] is a proven reformer"
+rest. [SEC appt] Gensler is a proven reformer"
 
 ---
 
