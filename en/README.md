@@ -5,7 +5,7 @@
 ---
 
 Most celebs are even fu--ing dumber than regular people on politics,
-so I'd ignore them even more.
+so I'd ignore them more.
 
 ---
 
