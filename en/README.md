@@ -4,6 +4,13 @@
 
 ---
 
+The new 3W tech disturbs 2W institutions, so pols need to take extra
+care to cut off this useless flow. Not saying ban, but ignoring will
+help. Less people inclusion in decisions. Listen to grievane not their
+moronic solutions.
+
+---
+
 Toffler's comment on California's recall election: "a campaign that
 attracted 135 candidates for [Davis'] replacement, including a porn
 publisher, a retired meatpacker, a sumo wrestler, a used-car salesman
