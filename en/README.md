@@ -81,6 +81,14 @@ partners, especially Japan, Australia and India"
 
 ---
 
+"@Istanbultelaviv
+
+Huge. The Israeli human rights organization @btselem has released a
+report, for the first time defining Israeli rule in the Occupied
+Territories as a system of apartheid"
+
+---
+
 Tech: 3W disturbs 2W institutions, so pols need to take extra care to
 cut off this useless flow... Not saying ban, but ignore.
 
