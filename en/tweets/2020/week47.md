@@ -769,18 +769,6 @@ fossil fuel cars] forward by a decade"
 
 ---
 
-"But almost everyone appears to agree on one thing. In some way or
-other, space-time itself seems to fall apart at a black hole, implying
-that space-time is not the root level of reality, but an emergent
-structure from something deeper. Although Einstein conceived of
-gravity as the geometry of space-time, his theory also entails the
-dissolution of space-time, which is ultimately why information can
-escape its gravitational prison"
-
-[Link](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029)
-
----
-
 Bill Clinton was the first black President? I thought that was
 Obama...
 

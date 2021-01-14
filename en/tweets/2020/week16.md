@@ -643,17 +643,6 @@ he won.
 
 ---
 
-With all due respect to the late John Conway (passes away in NJ from
-COV) the Free Will Theorem sounds like bunch of mental masturbation. I
-think he confused noncomputability of universe with nonpredictability
-imbuing the latter with "free will". Universe computes, it computes
-itself - so to predict it to its tiniest element u'd need a computer
-as large as the universe, see t' Hooft. 
-
-*2020-4-16 7:30:3*
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">AVL and Key Project Partners Develop Highly Efficient and Inexpensive Hydrogen Fuel Cell Drive System-Developed a highly efficient and inexpensive <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> drive system &amp; integrated it into a demo vehicle-<a href="https://t.co/ac0dszhx1H">https://t.co/ac0dszhx1H</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/S3XJDozrhN">pic.twitter.com/S3XJDozrhN</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1250398835085623296?ref_src=twsrc%5Etfw">April 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *2020-4-16 6:52:49*

@@ -386,18 +386,6 @@ Edwin Starr - Easin' In \#music
 
 ---
 
-1999 Nobel Prize winner in Physics.
-
-"'t Hooft name sounds familiar. Who is he?"
-
----
-
-Because it is. See [Quantum Theory as a Theory of Shadows](../../2019/08/qm-theory-of-shadows.md)
-
-"'t Hooft is trying to fix QM? Why do some ppl think it is incomplete?"
-
----
-
 SS is responsible for foreign policy, its intent, execution, and one
 clear adminstrative work they do is running the embassies. And spies
 usually assume a diplomat cover, and/or need the embassy as a
@@ -513,36 +501,6 @@ Biden. First time voting for Dems"
 
 ---
 
-t Hooft: "Fast moving classical variables can generate quantum
-mechanical behavior. We demonstrate how this can happen in a
-model. The key point is that in classically (ontologically) evolving
-systems one can still define a conserved quantum energy ...
-
-It will be shown that quantum mechanical correlation functions can be
-most easily explained if we assume the existence of very high
-frequency oscillations, which give rise to energy levels way beyond
-the regime of the Standard Model. When these fast oscillating
-quantities are handled as classical variables that have to be smeared
-over short, finite periods of time, one obtains the familiar operator
-structure for quantum mechanical systems. ...
-
-The classical system we start with is absolutely classical, hence it
-does away with collapse axioms, measurement problems, pilot waves and
-many worlds. All we need is fast variables such as the vacuum
-fluctuations due to heavy particles, many of which must be unknown
-today. The fast variables are moving completely classically, but too
-fast to be followed by the ‘observers’ in our model"
-
-[Link](https://arxiv.org/abs/2010.02019)
-
----
-
-😶
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My latest research indicates that the paradoxical features of quantum mechanics are caused by vacuum fluctuations.<br>How conservation of energy generates quantum interference phenomena can be read in <a href="https://t.co/a0p6iJ1ZeS">https://t.co/a0p6iJ1ZeS</a></p>&mdash; Gerard &#39;t Hooft (@gthooft) <a href="https://twitter.com/gthooft/status/1313453458515730432?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 I like @caitoz background pic
 
 <img width="340" src="https://pbs.twimg.com/profile_banners/19899980/1582721434/600x200"/>
@@ -573,11 +531,6 @@ further ahead right now, that's why.
 
 The voices we most need to hear are the ones they work the hardest to
 silence"
-
----
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let me add my congratulations to Roger Penrose, Reinhard Genzel and Andrea Ghez, who share this year’s Nobel Prize in physics for their work on black holes!</p>&mdash; Gerard &#39;t Hooft (@gthooft) <a href="https://twitter.com/gthooft/status/1313454480483135488?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

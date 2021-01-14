@@ -1060,36 +1060,6 @@ nearly two-thirds of President Trump’s judicial nominees'"
 
 ---
 
-GTH did some work on black holes, and information. And rrrright away
-some String Theory jerkoff comes over trying to extend it towards that
-direction too. "ST also saz that!".. Of course it does... ST also
-explains addition, multiplication, the seasons, the sunshine, haven't
-you heard? You can pull it towards any direction. The thing is like
-silly putty. Its followers are cult-like, have this weird spark in
-their eye... Kind of like those Tesla fan bois.. You see one coming
-over, u need to get the f--k outa there.
-
-*2020-2-17 10:58:21*
-
----
-
-Gerard t Hooft (Nobel Prize winner) is in the same wavelength as
-Smolin, QM needs to be derived.  Also says whatever gives rise to it
-is probably sitting at Plank scale... that's where the "code" resides.
-
-*2020-2-17 10:57:37*
-
----
-
-Yeah u cld go the other direction, start from QM, using entaglement,
-like Mark Van Raamsdonk, and through wormhole similarity, construct
-spacetime based on some ideas from Hawk, t Hooft. But then isn't
-entanglement assumed as given? 
-
-*2020-2-17 10:57:34*
-
----
-
 Once saw a Rage Against the Machine cover band at Berlin's Kilkenny
 bar. For the song *Wake Up* ppl were screaming mo...f.kaaaaa!!  so
 hard they probably heard us from Alexandarplatz.

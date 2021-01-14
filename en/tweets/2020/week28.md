@@ -418,15 +418,6 @@ relentlessly listening to corporate consultants"
 
 ---
 
-And to find the guide posts on which direction to go to, for that
-theory of two things, it's probably instructive to look at the last
-big thing. What was the last big thing? Black
-holes. Hawking. Information. t Hooft (Nobel laurate) did bunch of
-stuff there also (who is apparently Verlinde's *master* thesis
-advisor).
-
----
-
 I like he focuses to fix one thing, not trying to do the grand
 approach; gravity and Einstein's take on it was always odd, doesn't
 fit everything else, so he is trying to fix that, using information,
