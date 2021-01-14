@@ -1,109 +1,89 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">to fully recreate the conference experience, I&#39;m charging myself $6 for each coffee I drink and I&#39;m randomly unplugging the wifi router throughout the day.<a href="https://twitter.com/hashtag/AAS237?src=hash&amp;ref_src=twsrc%5Etfw">#AAS237</a></p>&mdash; Michael Zingale (@Michael_Zingale) <a href="https://twitter.com/Michael_Zingale/status/1348653451367034880?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@QueensEagle
+
+BREAKING: Queens man impeached — again"
+
+[Link](https://twitter.com/QueensEagle/status/1349472330020491272)
 
 ---
 
-Greenwald: "Critics of Silicon Valley censorship for years heard the
-same refrain: tech platforms like Facebook, Google and Twitter are
-private corporations and can host or ban whoever they want. If you
-don’t like what they are doing, the solution is not to complain or to
-regulate them. Instead, go create your own social media platform that
-operates the way you think it should.
+SocMed can be built around a protocol, like email is built around SMTP
+protocol, and distributed on / through nodes that are owned by
+whomever.
 
-The founders of Parler heard that suggestion and tried...
+"@jack
 
-But today, if you want to download, sign up for, or use Parler, you
-will be unable to do so. That is because three Silicon Valley
-monopolies — Amazon, Google and Apple — abruptly united to remove
-Parler from the internet, exactly at the moment when it became the
-most-downloaded app in the country"
+Twitter is funding a small independent team of up to five open source
+architects, engineers, and designers to develop an open and
+decentralized standard for social media. The goal is for Twitter to
+ultimately be a client of this standard"
 
-[Link](https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic)
+[Link](https://twitter.com/jack/status/1204766078468911106)
 
 ---
 
-"glynholton
-
-Concerns that Biden will go softly on Wall Street can be laid to
-rest. [SEC appt] Gensler is a proven reformer"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scotland’s first hydrogen-powered train is set to debut this year. The milestone project will see the conversion of a Class 314 car passenger train into a deployment-ready and certified platform for hydrogen-powered train development.<br><br>Read more here: <a href="https://t.co/nbvGYuzyfg">https://t.co/nbvGYuzyfg</a> <a href="https://t.co/zZh74gj7hp">pic.twitter.com/zZh74gj7hp</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1349567035026644994?ref_src=twsrc%5Etfw">January 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Fila Brazillia - The Sheriff \#music
+Oz shark attack. In a river!
 
-[Link](https://youtu.be/NESE984aSOw)
-
----
-
-Most of that spying was probably helped by the West itself
-
-"An unprecedented data leak has revealed how alleged Chinese Communist
-Party members have embedded themselves inside some of the world’s
-biggest companies, including defence contractors, banks and
-pharmaceutical giants manufacturing coronavirus vaccines.... Among the
-companies identified as having CCP members in their employ are
-manufacturers like Boeing and Volkswagen, drug giants Pfizer and
-AstraZeneca, and financial institutions including ANZ and HSBC,
-uckaccording to the reports"
-
-[Link](https://www.news.com.au/finance/economy/australian-economy/chinese-communist-party-database-leak-reveals-infiltration-into-western-companies/news-story/8fa8f08a2e29564413499f7769ae0bae)
+[Link](https://amp.theguardian.com/australia-news/2021/jan/14/shark-attack-in-perths-swan-river-leaves-man-seriously-injured)
 
 ---
 
-"@fuelcellsworks
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Glad to see my proposal (with <a href="https://twitter.com/Kemal_Dervis?ref_src=twsrc%5Etfw">@Kemal_Dervis</a>) to make every baby a trust fund baby is gaining steam, courtesy of <a href="https://twitter.com/CoryBooker?ref_src=twsrc%5Etfw">@CoryBooker</a> and <a href="https://twitter.com/AyannaPressley?ref_src=twsrc%5Etfw">@AyannaPressley</a> <a href="https://t.co/A3eEK4ryqS">https://t.co/A3eEK4ryqS</a> <a href="https://t.co/OOf7jE0iDu">https://t.co/OOf7jE0iDu</a></p>&mdash; Sebastian Strauss (@Seba_Strauss) <a href="https://twitter.com/Seba_Strauss/status/1349149892929859586?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Groupe Renault & @PlugPowerIncPower Join Forces in \#Hydrogen-50-50
-joint-venture (JV) based in France by end of 1st half of 2021,
-targeting over 30% share of the \#fuelcell-powered light commercial
-vehicle (LCV) market in \#Europe"
+---
 
-[Link](http://bit.ly/2T9Vb7b )
+New station, Berkeley CA
+
+<img width="340" src="https://pbs.twimg.com/media/Erkr158VgAARFrO?format=jpg&name=small"/>
 
 ----
 
-Hear hear...
+"@olafurw
 
-<iframe width="200" src="https://www.youtube.com/embed/MBAGrPz1Ask?start=1648&end=1692" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Me: 'Here's the data, and the answers, no cheating'. Supervised
+Learning: No Promises'
 
----
+Me: 'Here's the data' Reinforcement Learning: 'Why you holding a
+whip?' Me: 'No reason'
 
-The 1st island chain...
-
-[Link](https://twitter.com/SamRoggeveen/status/1349221032410763274)
-
----
-
-"Declassification of secret document reveals US strategy in the
-Indo-Pacific... This confirms that US strategic policy in the
-Indo-Pacific was in substantial part informed and driven by allies and
-partners, especially Japan, Australia and India"
-
-[Link](https://www.aspistrategist.org.au/declassification-of-secret-document-reveals-real-us-strategy-in-the-indo-pacific/)
+Me: 'This result makes no sense' Unsupervised Learning: 'I HAVE
+INVENTED A DIMENSION WHERE IT DOES!'
 
 ---
 
-"@Istanbultelaviv
-
-Huge. The Israeli human rights organization @btselem has released a
-report, for the first time defining Israeli rule in the Occupied
-Territories as a system of apartheid"
+<iframe width="340" src="https://www.youtube.com/embed/qOY3xihlTZ0?start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Sure, overturn. Whaddamuck do people know anyway... They should not
-legislate which is akin to mob rule. 
+"@DaniellaMicaela
 
-"A group of Uber and Lyft drivers in California filed a lawsuit Tuesday
-in state supreme court to overturn a ballot measure that allows the
-companies to continue treating its workers like independent
-contractors. The drivers claim that Prop 22, which was approved by
-California voters last November, violates the state’s constitution by
-'stripping' the state legislature’s ability to empower workers to
-organize, as well as by 'illegally' excluding ride-hail drivers from
-the state workers’ compensation program"
+I spotted the National Guard sleeping in the hallways of the Capitol
+as I walked in this morning"
 
-[Link](https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california)
+[Link](https://twitter.com/DaniellaMicaela/status/1349352529868578816)
+
+---
+
+Even studying one book, I can open multiple copies of the same PDF,
+each window pointing to a different page, then can Alt-TAB between
+them. Fast. Different pages from diff books, same way. Could be
+Alt-TAB'bing between 10 different books without much apparent physical
+activity. Try that with physical books! 
+
+---
+
+No they were not.. I do not miss them at all.
+
+"Oh but I miss paper books, they were better to handle"
+
+---
+
+Zustandsumme!
 
 ---
 
