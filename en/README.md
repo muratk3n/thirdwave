@@ -58,12 +58,10 @@ analysis. But the underlying domain cld be rotten.
 
 ---
 
-There was so much SJW biz surrounding the whole thing too...
-
-This might point to a rule-of-thumb; Whenever there is SJW buzz, it's
-a sign the field, the domain is dead? Bcz now the culture is more
-focused about taking up existing positions inside, on set
-"hierarchies", "representing" than breaking new ground.
+There was so much SJW biz surrounding the whole thing too... Whenever
+there is SJW buzz, cld it be a sign the field, the domain is dying?
+Bcz most r focused about taking up existing positions inside, on set
+"hierarchies" than breaking new ground? Maybe.
 
 ---
 
