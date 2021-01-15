@@ -75,9 +75,9 @@ recently take a picture of "for the first time"? (Answer; not a BH 🤣
 
 ---
 
-Not a good comparison. If I am on GMail I can still send email to
+Not a good counterarg. If I am on GMail I can still send email to
 someone on Yahoo Mail, through SMTP protocol. Twitter, Facebook,
-Whatsapp are all self-contained platforms. 
+Whatsapp are all self-contained platforms.
 
 "So what if social networks were based on protocols, there is GMail,
 with over a billion users"
