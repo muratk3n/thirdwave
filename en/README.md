@@ -54,7 +54,7 @@ number, we never come across a "singularity measurement".
 ---
 
 Obviously there was some good work around data collecting,
-analysis. But the underlying domain cld be rotten.
+analysis. Talking abt the underlying domain here
 
 ---
 
