@@ -66,8 +66,8 @@ Bcz most r focused about taking up existing positions inside, on set
 ---
 
 Wolfgang Kundt interview; if there are no black holes, what did they
-recently take a picture of "for the first time"? (Answer; not a BH 🤣
-🤣)
+recently take a picture of "for the first time"? Answer; not a BH 🤣
+🤣
 
 ---
 
