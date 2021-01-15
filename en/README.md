@@ -1,9 +1,9 @@
 # Tweets
 
-"Big Pharma Is Fighting to Deny Canadians Access to Treatment... The
-vast majority of Canadians want a national pharmacare program, but
-right-wing think tanks and corporate lobbyists are battling to
-obstruct it"
+Jacobin: "Big Pharma Is Fighting to Deny Canadians Access to
+Treatment... The vast majority of Canadians want a national pharmacare
+program, but right-wing think tanks and corporate lobbyists are
+battling to obstruct it"
 
 [Link](https://jacobinmag.com/2021/01/big-pharma-access-to-treatment-canada/)
 
