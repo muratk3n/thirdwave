@@ -93,8 +93,8 @@ protesters, data finds"
 
 ---
 
-Yes I remember the K Russell movie, a high school for suphero
-kids floating in the air - *Sky High*.
+Yes I remember the K Russell movie, a high school for gifted kids
+floating in the air - *Sky High*.
 
 ---
 
