@@ -159,11 +159,36 @@ Desalination
 
 Energy consumption [2] of seawater desalination has reached as low as 3 kWh/$m^3$,
 
+<a name='arabia'/>
+
 Fossil, Oil
 
-Saudi Arabia produces 8,963.000 Barrel/Day (Nov 2020).
+How much solar panel space would Saudi Arabia need to produce its
+crude output's equiv energy,
 
-Energy density of crude oil is 44 MJ/kg, or 158.4 Kwh/kg.
+Production is 9.01 million barrels / day (Nov 2020).
+
+1 Barrel of oil is 136 kg. Energy density of crude oil 158.4 Kwh/kg.
+
+Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
+
+Panel efficiency 20%, sunlight availability 50% (highest for SA)
+
+```python
+solar_kwh_day_m2 = 24*0.20*0.50
+oil_energy_day = 136 * 9.01 * 1e6 * 158.4
+area = (oil_energy_day / solar_kwh_day_m2)
+print ("area of %0.2f km^2" % (area / 1e6))
+print ("square with one side %0.2f km" % (np.sqrt(area) / 1000.0))
+```
+
+```text
+area of 80873.76 km^2
+square with one side 284.38 km
+```
+
+An area 290 km x 290 km. of panels. SA Rub' al Khali desert is 650,000
+km^2, 1/7th of that is needed approximately.
 
 References
 
