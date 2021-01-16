@@ -30,10 +30,10 @@ spinach, in the same family
 ---
 
 Showed calculation [before](2020/07/h2-numbers.md#arabia); Replacing
-Saudi Arabia'a oil output with solar equiv panels wld need a square
+Saudi Arabia's oil output with solar equiv w/ panels wld need a square
 area with 290 km on each side. A big area. Then, at least at first,
 renewable fuel generation through fossil + CCS at the source could
-help. 
+help.
 
 ---
 
