@@ -98,8 +98,7 @@ one linear, concise explanation.
 ---
 
 Dude - Wandavision. You'd have to be complete geek of the comics and
-all movies to get into that \#marvel. I read a lot such comics, when I
-was 10.
+all movies to get into that \#marvel.
 
 ---
 
