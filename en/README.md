@@ -91,8 +91,8 @@ prices. Turns out diversification isn't that hard..."
 
 ---
 
-Literary exaggeration aside sometimes it does 10 books to come up with
-one linear, concise explanation. 
+Literary exaggeration aside sometimes it does take 10 books to come up
+with one linear, concise explanation.
 
 ---
 
