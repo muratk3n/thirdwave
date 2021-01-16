@@ -52,7 +52,7 @@ investment in two plants"
 
 ---
 
-Middle-Aged Mutant Ninja Turtles :)
+Middle-Aged Mutant Ninja Turtles
 
 \#SNL
 
