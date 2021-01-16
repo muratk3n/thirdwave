@@ -40,8 +40,8 @@ is green, leaving no room for cheating, leaks.
 
 F yeah!
 
-Occasionally they anger many, but there is always stuff going on in
-UK, some of it even good..
+Occasionally they anger many, but there is always some action in UK,
+some of it even good..
 
 They also talk about CCS
 
