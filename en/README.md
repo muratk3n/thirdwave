@@ -1,104 +1,105 @@
 # Tweets
 
-Jacobin: "Big Pharma Is Fighting to Deny Canadians Access to
-Treatment... The vast majority of Canadians want a national pharmacare
-program, but right-wing think tanks and corporate lobbyists are
-battling to obstruct it"
-
-[Link](https://jacobinmag.com/2021/01/big-pharma-access-to-treatment-canada/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When friends ask “how’s DC right now?”, will refer them to this totally normal announcement from the local bagel joint <a href="https://t.co/0MNqV9Ngt6">pic.twitter.com/0MNqV9Ngt6</a></p>&mdash; Dan Diamond (@ddiamond) <a href="https://twitter.com/ddiamond/status/1350238464273485827?ref_src=twsrc%5Etfw">January 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Biden unveils $1.9tn US economic relief package.. The US
-president-elect says the nationwide vaccine rollout so far has been 'a
-dismal failure'"
+Jasper Country Man - Bobbi Humphrey \#music
+
+[Link](https://youtu.be/O2wlN1TLql8)
 
 ---
 
-Aim for the king.
+Tofurky.
 
-Witten is one of the highest profile Stringers
-
----
-
-🤣 🤣 🤣
-
-<iframe width="200"  src="https://www.youtube.com/embed/VO8sayIURUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Right! 👎
 
 ---
 
-No expansion of the universe, light *appears* redshifted.
+Tofu..? Dude. 
 
 ---
 
-His cast of characters are solid. Einstein (at least his 1911 ideas
-which he allegedly mistakenly abandoned), Dicke, the great Dirac
+Dont forget your vege.. no, red meats! 
 
 ---
 
-More Unzic ideas; Robert Dicke rediscovered relativity with
-corrections (1957), speed of light should not be constant. 
+Ignored veg - mangold. Its quite healthy. Perhaps even better then
+spinach, in the same family
 
 ---
 
-From *55 megaparsecs* away from Earth, a thing theoretically pulls
-everything to itself, including light, HTF can it be "seen"?
+Showed calculation [before](2020/07/h2-numbers.md#arabia); Replacing
+Saudi Arabia'a oil output with solar equiv panels wld need a square
+area with 280 km on each side. A big area. Then, at least at first,
+renewable fuel generation through fossil + CCS at the source could
+help. After that all the way down the line from prod to customer all
+is green, leaving no room for cheating, leaks.
 
 ---
 
-Yes, singularities in math "predict' black holes. But accrd to WK
-field equations should not contain singularities to begin with (curr
-math is faulty). Whereever we take measurements, there is always a
-number, we never come across a "singularity measurement".
+F yeah!
+
+Occasionally they anger many, but there is always stuff going on in
+UK, some of it even good..
+
+They also talk about CCS
+
+"Project aims to drive UK transition to a low-carbon economy. Essar
+plans to supply industry and homes in north-west England after £750m
+investment in two plants"
+
+[Link](https://www.ft.com/content/23170b57-1a08-40c8-a30f-c4eb0e9461da)
 
 ---
 
-Obviously there was some good work around data collecting,
-analysis. Talking abt the underlying domain here
+Middle-Aged Mutant Ninja Turtles!
+
+\#SNL
+
+[Link](https://youtu.be/2xRJrfWXNjc)
 
 ---
 
-There was so much SJW biz surrounding the whole thing too... Whenever
-there is SJW buzz, cld it be a sign the field, the domain is dying?
-Bcz most r focused about taking up existing positions inside, on set
-"hierarchies" than breaking new ground? Maybe.
+"@e_alexjung
+
+the worst part about watching contagion [the movie] now is that it’s a feel good
+movie about an efficient vaccine rollout"
 
 ---
 
-Wolfgang Kundt interview; if there are no black holes, what did they
-recently take a picture of "for the first time"? Answer; not a BH 🤣
-🤣
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">North <a href="https://twitter.com/hashtag/Germany?src=hash&amp;ref_src=twsrc%5Etfw">#Germany</a> ?? has founded a new <a href="https://twitter.com/hashtag/initiative?src=hash&amp;ref_src=twsrc%5Etfw">#initiative</a> involving several German states with the aim of making this emerging region the strongest for <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> in <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a>. ?<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/fcell_Germany?ref_src=twsrc%5Etfw">@fcell_Germany</a> <a href="https://twitter.com/germanyintheeu?ref_src=twsrc%5Etfw">@germanyintheeu</a> <a href="https://t.co/lYbrkfVUic">https://t.co/lYbrkfVUic</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1349997393048002566?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have a feeling Mount Rushmore is off the table.</p>&mdash; Randi Mayem Singer (@rmayemsinger) <a href="https://twitter.com/rmayemsinger/status/1349579762079916033?ref_src=twsrc%5Etfw">January 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+And it would be great to convert that coal into renewable fuel + CCS
+before shipping. 
 
 ---
 
-Not a good counterarg. If I am on GMail I can still send email to
-someone on Yahoo Mail, through SMTP protocol. Twitter, Facebook,
-Whatsapp are all self-contained platforms.
+"@JDWilson08
 
-"So what if social networks were based on protocols, there is GMail,
-with over a billion users"
+The trade war vs [Australia] goes from bad to worse for China: While
+some of its cities face rolling blackouts, Aus has largely offloaded
+the coal onto third markets like India, at surprisingly decent
+prices. Turns out diversification isn't that hard..."
 
----
-
-"US police three times as likely to use force against leftwing
-protesters, data finds"
-
-[Link](https://www.theguardian.com/us-news/2021/jan/13/us-police-use-of-force-protests-black-lives-matter-far-right)
+[Link](https://twitter.com/JDWilson08/status/1349969415333314562)
 
 ---
 
-Yes I remember the K Russell movie, a high school for gifted kids
-floating in the air - *Sky High*.
+<img width="250" src="https://pbs.twimg.com/media/Errpre1XUAAd36y?format=jpg&name=small"/>
 
 ---
 
-The writers going meta on their own movie
+Literary exaggeration aside sometimes it does 10 books to come up with
+one linear, concise explanation. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The single best line in all of live action Transformers movies <a href="https://t.co/lNgtuXKNDn">pic.twitter.com/lNgtuXKNDn</a></p>&mdash; miiya ミーヤ 🍰 · (4/6) · 🔞 (@PearlteaRizzy) <a href="https://twitter.com/PearlteaRizzy/status/1349268545792659457?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+Dude - Wandavision. You'd have to be complete geek of the comics and
+all movies to get into that \#marvel. I read a lot such comics, when I
+was 10.
 
 ---
 
