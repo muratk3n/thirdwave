@@ -73,7 +73,7 @@ movie about an efficient vaccine rollout"
 ---
 
 And it would be great to convert that coal into renewable fuel + CCS
-before shipping. 
+before shipping, in the future.
 
 ---
 
