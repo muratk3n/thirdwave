@@ -54,9 +54,9 @@ covid well.
 
 ---
 
-TR parties, coalitions still largely work this way.. they are mostly
+TR parties, coalitions still largely work this way.. they are
 cesspools of proto fascism into which anything can be thrown in and it
-floats, like certain shit does on a pool of piss.
+floats, like certain shit does in a pool of piss.
 
 ---
 
@@ -72,9 +72,9 @@ Intensely opposing ideologies cannot be held together under one roof
 in anything other than fascism.. A whatever-it-takes attitude usually
 accompanies the approach, 4 whatever reason said country falls into a
 state-of-emergency mentality from which they never emerge, so they
-keep on living in an hand-to-mouth existence w ideology, "I'll take
-from here, I'll take from there, whatever-it-takes,
-ends-justify-the-means", and on it goes..
+keep on living in an hand-to-mouth existence, "I'll take from here,
+I'll take from there, whatever-it-takes, ends-justify-the-means", and
+on it goes..
 
 "Could you give more examples of fascism being a grab-bag of ideologies"
 
