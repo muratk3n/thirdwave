@@ -1,103 +1,82 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When friends ask “how’s DC right now?”, will refer them to this totally normal announcement from the local bagel joint <a href="https://t.co/0MNqV9Ngt6">pic.twitter.com/0MNqV9Ngt6</a></p>&mdash; Dan Diamond (@ddiamond) <a href="https://twitter.com/ddiamond/status/1350238464273485827?ref_src=twsrc%5Etfw">January 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Pic is from my new wind plotter tool.
 
 ---
 
-Jasper Country Man - Bobbi Humphrey \#music
+Man that area is windy as fuck
 
-[Link](https://youtu.be/O2wlN1TLql8)
+East of Sri Lanka, Bay of Bengal.
 
----
-
-Tofurky.
-
-Right! 👎
+<img width="340" src="https://pbs.twimg.com/media/Er6-xEzW8AE3h-T?format=png&name=small"/>
 
 ---
 
-Tofu..? Dude. 
+Geometry should take backseat to other concerns.. It is a derivative
+concept, not essential. In Wolfram's approach too, space, its
+dimensions [emerge](https://youtu.be/-t1_ffaFXao?t=6555) out of his
+hypergraph structure.
 
 ---
 
-Dont forget your vege.. no, red meats! 
+ALex Unzic says Einstein made a mistake geometrizing relativity.
 
 ---
 
-Ignored veg - mangold. Its quite healthy. Perhaps even better then
-spinach, in the same family
+There was FF 1 then FF 2? But.. how does that connect to, like Blah
+Movie 3? And that to Blah Blah 4?
 
 ---
 
-Showed calculation [before](2020/07/h2-numbers.md#arabia); Replacing
-Saudi Arabia's oil output with solar equiv w/ panels wld need a square
-area with 290 km on each side. A big area. Then, at least at first,
-renewable fuel generation through fossil + CCS at the source could
-help.
+After seeing decade long multi movie setups, old style mere "sequel"
+sound so inconsequential.. tiny.
 
 ---
 
-F yeah!
-
-Occasionally they anger many, but there is always some action in UK,
-some of it even good..
-
-They also talk about CCS
-
-"Project aims to drive UK transition to a low-carbon economy. Essar
-plans to supply industry and homes in north-west England after £750m
-investment in two plants"
-
-[Link](https://www.ft.com/content/23170b57-1a08-40c8-a30f-c4eb0e9461da)
+Wikipedia's 20th birthday. HBD
 
 ---
 
-Middle-Aged Mutant Ninja Turtles
+CSU guy, Söder. He was recently against "any expansion of the eurozone
+to include countries like Bulgaria and Romania; the introduction of
+Eurobonds; and the creation of a European finance minister
+post". Daam.
 
-\#SNL
-
-[Link](https://youtu.be/2xRJrfWXNjc)
-
----
-
-"@e_alexjung
-
-the worst part about watching contagion [the movie] now is that it’s a feel good
-movie about an efficient vaccine rollout"
+The newly elected person is exact oppo no?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">North <a href="https://twitter.com/hashtag/Germany?src=hash&amp;ref_src=twsrc%5Etfw">#Germany</a> ?? has founded a new <a href="https://twitter.com/hashtag/initiative?src=hash&amp;ref_src=twsrc%5Etfw">#initiative</a> involving several German states with the aim of making this emerging region the strongest for <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> in <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a>. ?<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/fcell_Germany?ref_src=twsrc%5Etfw">@fcell_Germany</a> <a href="https://twitter.com/germanyintheeu?ref_src=twsrc%5Etfw">@germanyintheeu</a> <a href="https://t.co/lYbrkfVUic">https://t.co/lYbrkfVUic</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1349997393048002566?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+New CDU leader.  But it doesnt mean this person will be the chancellor
+candidate for the general elections?
+
+Dude from CSU comes across more of a leader... And word is he handled
+covid well.
 
 ---
 
-And it would be great to convert that coal into renewable fuel + CCS
-before shipping, in the future.
+TR parties, coalitions still largely work this way actually,
+proto-fascistic cesspools into anything can be thrown in and it
+floats, like certain shit does on a pool of pee.
 
 ---
 
-"@JDWilson08
+Sure. 30s TR for example, when it was staunchly nationalist, one of
+its first governors was known to have said "if communism was necessary
+for this country, we would surely import it". Sounds like a joke and
+it is told as such, but the guy was dead serious. There you go,
+nationalist talking about utilizing communism.. Or in China today,
+they are communists, but imported capitalism, and happily using
+it. Italian fascists created the social security system of the country.
 
-The trade war vs [Australia] goes from bad to worse for China: While
-some of its cities face rolling blackouts, Aus has largely offloaded
-the coal onto third markets like India, at surprisingly decent
-prices. Turns out diversification isn't that hard..."
+Intensely opposing ideologies cannot be held together under one roof
+in anything other than fascism.. A whatever-it-takes attitude usually
+accompanies the approach, 4 whatever reason said country fell into a
+state-of-emergency mentality from which they never emerge, so they
+keep on living in an hand-to-mouth existence w ideology, "I'll take
+from here, I'll take from there, whatever-it-takes,
+ends-justify-the-means", and on it goes.. It's no way to live.
 
-[Link](https://twitter.com/JDWilson08/status/1349969415333314562)
-
----
-
-<img width="250" src="https://pbs.twimg.com/media/Errpre1XUAAd36y?format=jpg&name=small"/>
-
----
-
-Literary exaggeration aside sometimes it does take 10 books to come up
-with one linear, concise explanation.
-
----
-
-Dude - Wandavision. You'd have to be complete geek of the comics and
-all movies to get into that \#marvel.
+"Could you give more examples of fascism being a grab-bag of ideologies"
 
 ---
 
