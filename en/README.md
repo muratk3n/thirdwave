@@ -74,7 +74,7 @@ accompanies the approach, 4 whatever reason said country fell into a
 state-of-emergency mentality from which they never emerge, so they
 keep on living in an hand-to-mouth existence w ideology, "I'll take
 from here, I'll take from there, whatever-it-takes,
-ends-justify-the-means", and on it goes.. It's no way to live.
+ends-justify-the-means", and on it goes.. 
 
 "Could you give more examples of fascism being a grab-bag of ideologies"
 
