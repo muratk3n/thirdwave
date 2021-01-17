@@ -6,13 +6,9 @@ Ho Ho Ho motherf..kas!!
 
 🎅🎅🎅🎅
 
-*2019-12-26 0:35:51*
-
 ---
 
 <img width="340" src="https://pbs.twimg.com/media/EMfU-ESXsAILKdR?format=jpg&name=large"/>
-
-*2019-12-25 21:41:10*
 
 ---
 
@@ -22,13 +18,9 @@ What a waste ...
 
 [Link](https://www.energycentral.com/o/esri/electric-vehicles-%E2%80%93-all-%E2%80%99s-left-do-everything)
 
-*2019-12-25 21:18:15*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m going to start referring to cell phones as hand terminals. <a href="https://twitter.com/hashtag/TheExpanse?src=hash&amp;ref_src=twsrc%5Etfw">#TheExpanse</a></p>&mdash; The Moldy Filters (@TheMoldyFilters) <a href="https://twitter.com/TheMoldyFilters/status/1209603577754345474?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-25 21:16:19*
 
 ---
 
@@ -54,8 +46,6 @@ part cool. See urself as these, so ppl will see it that way too.
 
 Be it. Know it. 
 
-*2019-12-25 20:50:44*
-
 ---
 
 Authenticity, good. It will sell (not that Bernie does it 4 that
@@ -68,8 +58,6 @@ suspect that this costs him votes every time he does it, and yet he
 brings it up regularly. It's like his concern for the crisis in Yemen
 -- no votes in it, but a sign of values and authenticity"
 
-*2019-12-25 20:51:23*
-
 ---
 
 "@joshua_landis
@@ -79,8 +67,6 @@ responsible for the economy make Madoff look like a mouse. His Ponzi
 scheme grew to $65 billion. Riad Salameh, Lebanon's Central Banker
 duped an entire nation for almost 3 times that & received a closet
 full of honors"
-
-*2019-12-25 20:48:2*
 
 ---
 
@@ -93,25 +79,17 @@ That's how ppl flew during 50s. In luxury, essentially in a metal can
 hurling through air >500 miles/hr. If you can do that during 50s, u
 can bet your ass u can do the moon landing during 60s.
 
-*2019-12-25 19:39:3*
-
 ---
 
 Hey if it works for NASA it'll work for airplanes.
-
-*2019-12-25 19:35:49*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Liquid hydrogen powered aircraft – the shape of things to come? - Airport World Magazine <a href="https://t.co/USrZ0TdNQE">https://t.co/USrZ0TdNQE</a> via <a href="https://twitter.com/airportworldmag?ref_src=twsrc%5Etfw">@airportworldmag</a></p>&mdash; Dmitry Chugunoff (@D_Chugunoff) <a href="https://twitter.com/D_Chugunoff/status/1209490324080517120?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-25 19:34:58*
-
 ---
 
 What a mess at Boeing. Next thing u know they'll announce a battery electric airplane. Nosedive!
-
-*2019-12-25 19:32:34*
 
 ---
 
@@ -120,8 +98,6 @@ covered with forests, but barren deserts, and all places could turn
 into Saudi Arabia bcz of global warming.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Australia, an entire national park burned to a cinder and Sydney now at risk. Watch this time sequence map and think - this is what climate change will do to the whole of Australia if business continues as usual.<br> <a href="https://t.co/VqtKNyoOPd">https://t.co/VqtKNyoOPd</a></p>&mdash; Prof Nick Cowern (@NickCowern) <a href="https://twitter.com/NickCowern/status/1208790593926774785?ref_src=twsrc%5Etfw">December 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-25 17:56:17*
 
 ---
 
@@ -155,15 +131,11 @@ that a function is convex before trying to prove it"
 
 [Link](https://twitter.com/mblondel_ml/status/1208491731861282817)
 
-*2019-12-25 10:5:6*
-
 ---
 
 How Cuomo blew NY’s high-tech success
 
 [Link](https://t.co/TcmsXDIxve?amp=1)
-
-*2019-12-24 20:31:30*
 
 ---
 
@@ -171,14 +143,10 @@ Conspiracy Keanu
 
 <img width="340"  src="https://pics.ballmemes.com/what-if-the-comet-that-killed-the-dinosaurs-was-a-52196650.png">
 
-*2019-12-24 19:53:23*
-
 ---
 
 There is a top-level domain name .wtf. U cld have whatever.wtf. There
 is internet.wtf.
-
-*2019-12-24 13:38:22*
 
 ---
 
@@ -187,13 +155,9 @@ Signed by HW. Interesting.
 "[Since] 1992 Energy Policy Act, hydrogen is considered an alternate
 fuel and is thus eligible for tax credits"
 
-*2019-12-24 13:33:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This mind-bending timelapse with the Milky Way stabilized shows the Earth is spinning through space. <a href="https://t.co/mSEAKA8MaP">pic.twitter.com/mSEAKA8MaP</a></p>&mdash; Physics &amp; Astronomy Zone🔭 (@ZonePhysics) <a href="https://twitter.com/ZonePhysics/status/1209134019109101568?ref_src=twsrc%5Etfw">December 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-24 13:3:8*
 
 ---
 
@@ -201,8 +165,6 @@ fuel and is thus eligible for tax credits"
 This cost function will have a numerical differentiation along with
 numerical integration which will again will be numerically
 differentiated from outside to be optimized over. 
-
-*2019-12-24 13:0:38*
 
 ---
 
@@ -218,8 +180,6 @@ doomed. The new CEO is an accountant.
 
 The first step should be to move management back to WA"
 
-*2019-12-23 20:48:55*
-
 ---
 
 "@EuropaClipper
@@ -229,16 +189,12 @@ of our spacecraft’s propulsion module for shipment to @NASAJPL, where
 construction will continue. Things are getting real for our mission to
 Jupiter's mysterious moon: http://europa.nasa.gov"
 
-*2019-12-23 20:44:52*
-
 ---
 
 "France: Symbio to Establish Europe's Largest Hydrogen Fuel Cell Plant
 in Lyon"
 
 [Link](https://fuelcellsworks.com/news/symbio-to-establish-europes-largest-hydrogen-fuel-cell-plant-in-lyon-france/)
-
-*2019-12-23 20:42:22*
 
 ---
 
@@ -250,8 +206,6 @@ individuals wherever they go, in near-real time"
 
 [Link](https://mobile.twitter.com/Snowden/status/1209104006200676353)
 
-*2019-12-23 18:35:28*
-
 ---
 
 Never shoot down single var Calculus. Line search, root finding, the
@@ -259,13 +213,9 @@ whole spiel around the descent property depends on it.
 
 \#optimization
 
-*2019-12-23 14:24:28*
-
 ---
 
 <img width="340" src="https://pbs.twimg.com/media/EMbXIdpW4AEk3Mr?format=jpg&name=900x900"/>
-
-*2019-12-23 14:19:20*
 
 ---
 
@@ -305,15 +255,11 @@ equation itself that needs to become nonlinear" -- Hossenfelder, Palmer
 
 [Link](https://arxiv.org/abs/1912.06462)
 
-*2019-12-23 9:27:46*
-
 ---
 
 Section 2 of the Sherman Act of 1890. Hard core.
 
 Sounds like vaporware is illegal.
-
-*2019-12-22 22:0:45*
 
 ---
 
@@ -323,8 +269,6 @@ deflationary (like gold, Bitcoin), it will inflate away some wealth if
 some are sitting on money for too long and it will spur spending,
 create economic activity for the same reason. Also it gives money to
 everyone, supplying a basic income electronically as a human right.
-
-*2019-12-22 20:57:11*
 
 ---
 
@@ -371,8 +315,6 @@ Now we know for sure
 
 <img width="340" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/450px-Empirical_Rule.png"/>
 
-*2019-12-22 20:34:4*
-
 ---
 
 NOAA has some serious weather modeling going on. Gov and many others
@@ -380,15 +322,11 @@ use their results.
 
 Of course its physics based not Deep Shit. Sorry - "AI".
 
-*2019-12-22 20:11:7*
-
 ---
 
 The thing is SWars probably did need some young blood in terms of
 directorial talent. So now maybe after all this fail the new-new blood
 will form around Favreu, and.. Feige?  That'd be grand.
-
-*2019-12-22 20:8:25*
 
 ---
 
@@ -404,8 +342,6 @@ larger war over American wealth, fought in part because of what the
 internet has illuminated about the nation’s inequality" -- The Atlantic
 
 [Link](https://www.theatlantic.com/health/archive/2019/12/why-people-hated-mayor-petes-wine-cave-fundraiser/604009/)
-
-*2019-12-22 19:26:32*
 
 ---
 
@@ -430,8 +366,6 @@ locations. The characters lingered in snow bases and treetop
 villages. The journey was absolutely as important as the destination" -- The Atlantic
 
 [Link](https://www.theatlantic.com/entertainment/archive/2019/12/star-wars-rise-skywalker-gives-world-building/604000)
-
-*2019-12-22 19:20:2*
 
 ---
 
@@ -465,13 +399,9 @@ citizens’ human rights in the face of climate change"
 
 [Link](https://twitter.com/AssaadRazzouk/status/1208643081056276480)
 
-*2019-12-22 18:14:30*
-
 ---
 
 <img width="340" src="https://pbs.twimg.com/media/EMXmO6QWkAAmqfx?format=jpg&name=small"/>
-
-*2019-12-22 11:21:5*
 
 ---
 
@@ -480,21 +410,15 @@ citizens’ human rights in the face of climate change"
 The 5 warmest average January-November global temperatures have all
 occurred within the last 5 years..."
 
-*2019-12-22 10:38:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank goodness we are getting Brexit done. It will clearly help with the following: <a href="https://t.co/D2Lui6DzZS">https://t.co/D2Lui6DzZS</a></p>&mdash; Mark Blyth (@MkBlyth) <a href="https://twitter.com/MkBlyth/status/1208317852018601984?ref_src=twsrc%5Etfw">December 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-22 10:32:16*
 
 ---
 
 Hahaha..
 
 "Election result: 52% of votes go to pro-referendum parties"
-
-*2019-12-22 10:18:16*
 
 ---
 
@@ -504,8 +428,6 @@ If 2019 confirmed anything, it is that we should not trust the
 microphones and cameras that large corporations sell us to put inside
 and near our homes"
 
-*2019-12-21 23:43:21*
-
 ---
 
 U-oh
@@ -514,8 +436,6 @@ U-oh
 Turkey"
 
 [Link](https://www.dailysabah.com/americas/2019/12/21/trump-signs-738b-defense-bill-including-sanctions-targeting-russia-turkey)
-
-*2019-12-21 17:51:26*
 
 ---
 
@@ -530,19 +450,13 @@ Yeah, I think that started with a man from Nazareth who said you
 should help the poor and heal the sick and welcome strangers. Liberal
 through and through"
 
-*2019-12-21 15:0:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re going to cancel every penny of student debt, and we’re going to pay for it with a modest tax on Wall Street.<br><br>Wall Street doesn’t like that, but to hell with Wall Street.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1208192862476754944?ref_src=twsrc%5Etfw">December 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-21 14:56:6*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How can we afford purity tests when it takes an entire hour of legal work for Harvey Weinstein to buy just one $900 bottle of cabernet?</p>&mdash; Ryan Grim (@ryangrim) <a href="https://twitter.com/ryangrim/status/1208003258133962752?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-21 12:58:8*
 
 ---
  
@@ -551,15 +465,11 @@ through and through"
 I watch *World This Week* on France 24 Eng. Change of times? Brits are
 way too far gone to analyze the world anymore?
 
-*2019-12-21 11:49:19*
-
 ---
 
 "progress"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is what happens when you stand in the way of progress. <a href="https://t.co/53xqK2dSWu">https://t.co/53xqK2dSWu</a></p>&mdash; Christopher Ryan (@ThatChrisRyan) <a href="https://twitter.com/ThatChrisRyan/status/1208161933783785472?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-21 10:5:41*
 
 ---
 
@@ -567,13 +477,9 @@ way too far gone to analyze the world anymore?
 
 [Link](https://www.vice.com/en_us/article/m7qjz4/sanders-is-hot-in-the-polls-and-still-treated-like-a-second-tier-candidate)
 
-*2019-12-21 10:1:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For too long, big pharmaceutical companies have gotten away with ripping off the American people. <br><br>I’m not going to allow that to continue. <br><br>We are going to cap out of pocket expenses for prescription drugs at $200 a year.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1207755972460109828?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-21 0:2:25*
 
 ---
 
@@ -592,13 +498,9 @@ Tobruk. Egypt and Russia also back Haftar"
 
 [Link](https://www.wsws.org/en/articles/2019/02/26/liby-f26.html)
 
-*2019-12-20 21:15:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">No. Just notice what is going on around you, the huge state subsidy for mothers who leave their children in day-orphanages while they toil as wageslaves. The erosion to nothing of parental authority. <a href="https://t.co/DUgbHctVck">https://t.co/DUgbHctVck</a></p>&mdash; Peter Hitchens (@ClarkeMicah) <a href="https://twitter.com/ClarkeMicah/status/1207775608975101954?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-20 16:29:9*
 
 ---
 
@@ -613,8 +515,6 @@ because, "pfff of *course* there is nothing wrong with me".
 
 This is the game - mostly about how things look. 
 
-*2019-12-20 16:4:15*
-
 ---
 
 Two Star Wars fans I've seen were *disturbed* after this last
@@ -622,8 +522,6 @@ one. Like Whhhhaaaat da f%%$% was DAT? With long face, looking down
 and everything. I didnt think anyone could make a movie that bad.  I
 never thought I'd think fondly of the prequels. The latest shit makes
 them look like masterpieces!
-
-*2019-12-20 15:56:13*
 
 ---
 
@@ -633,21 +531,15 @@ about that time I got chewed out by Bernie.
 
 \#demdebate
 
-*2019-12-20 15:05:44*
-
 ---
 
 Bootyjudge was just slam dunked by his one-time hero, right?
 
 \#demdebate
 
-*2019-12-20 15:03:7*
-
 ---
 
 FTW is WTF in reverse. WTF
-
-*2019-12-20 15:01:7*
 
 ---
 
@@ -655,8 +547,6 @@ FTW is WTF in reverse. WTF
 Bernie FTW
 
 \#demdebate
-
-*2019-12-20 14:59:57*
 
 ---
 
@@ -670,33 +560,23 @@ Joe in the billionaire supporter contest. "
 
 [Link](https://twitter.com/MtthewRubiin/status/1207894298227859458)
 
-*2019-12-20 14:57:43*
-
 ---
 
 Klobbamancha did some damage. And that wine cellar thing. 
 
 \#demdebate
 
-*2019-12-20 14:50:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So many more ways to make (and save) money in Macro than listening to a monkey on &quot;stocks&quot;</p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1207970440599265281?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-20 14:2:40*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ørsted, Everfuel and five partners have been awarded funding for a demonstration project in <a href="https://twitter.com/hashtag/copenhagen?src=hash&amp;ref_src=twsrc%5Etfw">#copenhagen</a> Denmark, using offshore wind power to produce renewable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> for <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> road transport.<a href="https://twitter.com/hashtag/cleanhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#cleanhydrogen</a><br><br>Press release: <a href="https://t.co/NgnJ5DWa6L">https://t.co/NgnJ5DWa6L</a> <a href="https://t.co/712vQprM4x">pic.twitter.com/712vQprM4x</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1207936294803906560?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-20 12:29:56*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Python already replaced Excel in banking&quot; <a href="https://t.co/vQkVZMxVFh">https://t.co/vQkVZMxVFh</a></p>&mdash; Sarah Butcher (@MadameButcher) <a href="https://twitter.com/MadameButcher/status/1191375650688503809?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-19 21:36:16*
 
 ---
 
@@ -705,18 +585,12 @@ Klobbamancha did some damage. And that wine cellar thing.
 Military members have donated more to @BernieSanders’ campaign than to
 Trump, Biden, and Buttigieg combined"
 
-*2019-12-19 21:32:9*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">On my way 2 meeting in <a href="https://twitter.com/hashtag/Dusseldorf?src=hash&amp;ref_src=twsrc%5Etfw">#Dusseldorf</a> about our ambitious trilateral cross-border <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> project w/ <a href="https://twitter.com/hashtag/Germany?src=hash&amp;ref_src=twsrc%5Etfw">#Germany</a> &amp; <a href="https://twitter.com/hashtag/NRW?src=hash&amp;ref_src=twsrc%5Etfw">#NRW</a> reading about break-out of a ‘hydrogen fever’ in Germany...exciting times! <a href="https://t.co/NIUXWGQD2o">pic.twitter.com/NIUXWGQD2o</a></p>&mdash; Noe van Hulst (@noevanhulst) <a href="https://twitter.com/noevanhulst/status/1207626913918996480?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-19 17:26:55*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The effect of cold weather on electric bus range, fuel cell wins. A study by Center for Transportation and the Environment.<a href="https://t.co/CtWmKmlJxA">https://t.co/CtWmKmlJxA</a></p>&mdash; Sustainable Bus (@BusSustainable) <a href="https://twitter.com/BusSustainable/status/1207646810141057024?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-19 17:23:34*
 
 ---

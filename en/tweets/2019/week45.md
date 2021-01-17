@@ -5,21 +5,15 @@ key reasons why he chose Python over other langs.
 
 [Link](https://www.youtube.com/watch?v=6PY-Y3t4oxg)
 
-*2019-11-6 22:46:24*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Norwegian scientist: ‘No way’ of reaching climate neutrality without hydrogen <a href="https://t.co/iJ5Tsn8lC1">https://t.co/iJ5Tsn8lC1</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> <a href="https://twitter.com/hashtag/Hydrogen4Climate?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen4Climate</a> <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a></p>&mdash; Gilman Industries (@GilmanHydrogen) <a href="https://twitter.com/GilmanHydrogen/status/1192134027966402561?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-6 21:25:47*
 
 ---
 
 Targeted bombings of cartel compounds? Mansions even? That requires
 AMLO going extrajudicial on their ass and bypassing MX military (bcz of
 possible leakage).
-
-*2019-11-6 21:25:47*
 
 ---
 
@@ -31,8 +25,6 @@ That's like, a Tom Clancy novel dude. *Clear and Present Danger*,
 1993.
 
 [Drug War](https://muratk3n.github.io/thirdwave/en/2019/11/war-on-drugs.html)
-
-*2019-11-6 21:25:47*
 
 ---
 
@@ -49,21 +41,15 @@ threathened them.
 "On Monday, gunmen killed three women and six children from a
 Mexican-American Mormon family in northern Mexico"
 
-*2019-11-6 21:21:26*
-
 ---
 
 Stop bitchin.. You not H.N.I.C. Double M.G.... I.D.D.Q.D.
 
 The HNIC is at MIT teaching ODE. Nam sayin'?
 
-*2019-11-6 21:21:26*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">T-Mobile got this merger approved after spending nearly $200,000 at Trump&#39;s hotels.<br><br>This is a disastrous decision.<br><br>When we&#39;re in the White House we&#39;re going to end this corruption and break them up. <a href="https://t.co/4mkx55otkd">https://t.co/4mkx55otkd</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1192131342881951749?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-6 20:39:45*
 
 ---
 
@@ -71,15 +57,11 @@ Talking smack on Twitter eh?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">That is grammatically incorrect</p>&mdash; zerohedge (@zerohedge) <a href="https://twitter.com/zerohedge/status/1191768439561555969?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-6 20:24:44*
-
 ---
 
 Companies' (of SP500) earnings decreased by 2.7% so far.
 
 [Link](https://lipperalpha.refinitiv.com/wp-content/uploads/2019/09/SP500_19Q3_DashBoard_191004.png)
-
-*2019-11-6 20:21:58*
 
 ---
 
@@ -89,20 +71,14 @@ Don't make kick your ass TG.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Guardian Media Group,publisher of the Guardian and Observer,sold the remaining 50.1% of its stake to Apax Partners,who now own 100%. Whatever the Guardian used to be in terms of being &#39;left wing&#39;, it certainly isn&#39;t now. A quick look at &#39;Apax Partners&#39; will immediately show that!</p>&mdash; TheMasses (@HopePM4) <a href="https://twitter.com/HopePM4/status/1192110609984299008?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-6 15:27:24*
-
 ---
 
 From Urbandictionary: "'Fo shizzle my nizzle' means 'I concur with you
 whole heartedly my Africian american brother'" 
 
-*2019-11-6 15:17:3*
-
 ---
 
 I guess I was thinking of chiseling as in scraping.
-
-*2019-11-6 15:19:2*
 
 ---
 
@@ -111,15 +87,11 @@ lay down the law. Bring in the hurt. How to chizzle the shizzle
 
 (I dont even know what that means)
 
-*2019-11-6 15:18:0*
-
 ---
 
 Taking little samples of the Rosenbrock bitch
 
 <img src="https://pbs.twimg.com/media/EIsG3lBXkAIL0XA?format=png&name=small" width="400"/>
-
-*2019-11-6 15:17:32*
 
 ---
 
@@ -128,8 +100,6 @@ Fire those retro-rockets, shoot the fruton torpidos, and like uhhh-uhhh make us 
 \#butthead \#trek
 
 <img src="https://pbs.twimg.com/media/EIr8QVZWoAAURQU?format=png&name=small" width="300"/>
-
-*2019-11-6 14:30:38*
 
 ---
 
@@ -142,8 +112,6 @@ image classification to translation and many others — rely on
 derivative-free optimization to tune parameters and/or hyperparameters
 in their models. "
 
-*2019-11-6 12:52:4*
-
 ---
 
 What is going on in Lebanon? Lebanon is a weird place; technically it
@@ -152,8 +120,6 @@ French](https://muratk3n.github.io/thirdwave/en/2017/12/palestine.html#lebanon).
 
 But again lack of leadership (which especially struggles to be
 representative of a made-up place like Lebanon) can be a cause.
-
-*2019-11-6 11:47:39*
 
 ---
 
@@ -176,8 +142,6 @@ discourse with humorous asides. He epitomizes an oft-repeated saying
 about how Austrians view life and its many challenges: “The situation
 may be hopeless, but it is never serious'" -- Wagner, *Arrival of the Fittest*
 
-*2019-11-6 11:47:39*
-
 ---
 
 She is right. Woke movies.. A lot of women don't like this stuff
@@ -186,8 +150,6 @@ either, clearly, so why do they keep making them?
 \#herminator
 
 [Link](https://youtu.be/BeiC-hYTSbQ)
-
-*2019-11-6 9:42:10*
 
 ---
 
@@ -201,8 +163,6 @@ When asked by @inafried why @venmo transactions are public by default,
 exec @Dan_Schulman said: 'I think the boundaries between private and
 public are much more blurred than it was when we were growing up.'"
 
-*2019-11-6 7:47:50*
-
 ---
 
 Knowledge is not only used in knowledge products, but it is
@@ -211,8 +171,6 @@ energy. Instead of digging up some hole in the ground and getting at
 already-stored energy in the form of dead animals, we are now passing
 electricity through water making use of that knowledge to store
 energy.
-
-*2019-11-6 6:38:46*
 
 ---
 
@@ -228,8 +186,6 @@ Germany’s future energy system"
 
 [Link](https://www.cleanenergywire.org/news/germany-must-beat-asia-hydrogen-technology-race-government)
 
-*2019-11-6 6:34:51*
-
 ---
 
 
@@ -242,21 +198,15 @@ Put it to the people for the final say, with the option to remain, in six months
 
 That’s our Brexit policy"
 
-*2019-11-6 6:31:18*
-
 ---
 
 That looks fantastic. Awesome tech.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[<a href="https://twitter.com/hashtag/HMG?src=hash&amp;ref_src=twsrc%5Etfw">#HMG</a>] Introducing the first-ever all-hydrogen Hyundai HDC-6 Neptune truck, showing a possible future of hydrogen fuel-cell commercial vehicles. <a href="https://twitter.com/hashtag/Hyundai?src=hash&amp;ref_src=twsrc%5Etfw">#Hyundai</a> <a href="https://twitter.com/hashtag/NEPTUNE?src=hash&amp;ref_src=twsrc%5Etfw">#NEPTUNE</a> <a href="https://twitter.com/hashtag/FCEV?src=hash&amp;ref_src=twsrc%5Etfw">#FCEV</a> <a href="https://twitter.com/hashtag/CommercialVehicle?src=hash&amp;ref_src=twsrc%5Etfw">#CommercialVehicle</a> <a href="https://twitter.com/hashtag/NACVShow2019?src=hash&amp;ref_src=twsrc%5Etfw">#NACVShow2019</a> <a href="https://t.co/aw4a4IvBbR">pic.twitter.com/aw4a4IvBbR</a></p>&mdash; Hyundai Motor Group (@HMGnewsroom) <a href="https://twitter.com/HMGnewsroom/status/1191202455242952704?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-6 6:25:22*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Beautiful jump🐳🐬 <a href="https://t.co/ZzkfnpkQQ0">pic.twitter.com/ZzkfnpkQQ0</a></p>&mdash; Ocean diversity (@Oceandiversity2) <a href="https://twitter.com/Oceandiversity2/status/1191689153454338048?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-5 22:32:7*
 
 ---
 
@@ -269,8 +219,6 @@ out of 6, with all the loss of judge appt that entails, and also now
 centrism having run its course with Obama there is the "Orange Hitler"
 problem.
 
-
-*2019-11-5 21:36:19*
 
 ---
 
@@ -287,20 +235,14 @@ in pay for employees. The company says that:
 
 [Link](https://mobile.twitter.com/NPR/status/1191675804423467011)
 
-*2019-11-5 17:4:0*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t think we realize what we gave up for cars. <a href="https://t.co/v8xOIDYQ3P">pic.twitter.com/v8xOIDYQ3P</a></p>&mdash; Queen Anne Greenways (@QAGreenways) <a href="https://twitter.com/QAGreenways/status/1191244275356319746?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-5 17:0:29*
 
 ---
 
 "\#Hydrogen used to be a kind of 'Cinderella of the gas industry'. Now
 we realise: it is sexy, says German economy minister @peteraltmaier"
-
-*2019-11-5 16:59:18*
 
 ---
 
@@ -314,22 +256,16 @@ pedal.
 
 [Link](https://t.co/DRdyTq35mI?amp=1)
 
-*2019-11-5 12:54:20*
-
 ---
 
 
 Black ppl don't say "poh-lice". Southerners say "poh-lice". The
 so-called black accent is based on the South.
 
-*2019-11-5 11:34:45*
-
 ---
 
 Was there ever a comic character based on owls? There is for bats,
 spiders, fish, ants. Never heard a famous one for owls.
-
-*2019-11-5 11:2:9*
 
 ---
 
@@ -339,8 +275,6 @@ Owls crack me up.
 
 <img width="300" src="https://pbs.twimg.com/media/EIqjCdyWsAMX-Am?format=jpg&name=900x900"/>
 
-*2019-11-5 11:2:9*
-
 ---
 
 "@SmallpixelCar
@@ -348,8 +282,6 @@ Owls crack me up.
 Something only a Lidar car can do: running autonomously in dark"
 
 [Link](https://twitter.com/SmallpixelCar/status/1191579135753121792)
-
-*2019-11-5 11:2:9*
 
 ---
 
@@ -362,21 +294,15 @@ communication, activism, etc.
 My brain simply taps out and hoarsely whispers a request to consume,
 in order, 'coffee, media, dinner, sleep'".
 
-*2019-11-5 10:59:16*
-
 ---
 
 Solve PDEs wout mesh based methods? Hell there are RBF approximation
 based methods to solve that too!
 
-*2019-11-5 10:32:14*
-
 ---
 
 Yeah - f--k the mesh. I dont like mesh based methods. Go analytic, or
 approximately analytic and compute that.
-
-*2019-11-5 10:30:54*
 
 ---
 
@@ -397,8 +323,6 @@ We need to admit the euro was a mistake"
 [Link](https://www.ft.com/content/35b27568-f734-11e9-bbe1-4db3476c5ff0)
 
 
-*2019-11-5 8:45:26*
-
 ---
 
 "@phildobbie
@@ -408,13 +332,9 @@ agree on one thing – the vote should never have happened"
 
 [Link](https://mobile.twitter.com/phildobbie/status/1191121959746183175)
 
-*2019-11-5 2:45:12*
-
 ---
 
 I bet mainland Chink "history" is full of some dumbass shit too.
-
-*2019-11-4 22:3:50*
 
 ---
 
@@ -433,8 +353,6 @@ wrong Turks anyway".
 I think psychologists are wasting their time analyzing singular
 people. They should focus on national psyches exclusively. There is
 gold here.
-
-*2019-11-4 22:3:50*
 
 ---
 
@@ -473,13 +391,9 @@ the war effort, but the general outline is still somewhat 'lacking'.
 
 😒😒😒😒😒
 
-*2019-11-4 22:3:50*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Havyard Taking Next Step in <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> System for Large Ships with Fuel Cells from PowerCell--Company is entering approval phase &amp; has signed agreements with provider Linde Engineering for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> tanks <a href="https://twitter.com/PowercellA?ref_src=twsrc%5Etfw">@PowercellA</a> for <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>--<a href="https://t.co/Hc7m00XOzR">https://t.co/Hc7m00XOzR</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://t.co/stVgMpcOF8">pic.twitter.com/stVgMpcOF8</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1191410292070203394?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-4 21:20:31*
 
 ---
 
@@ -490,23 +404,17 @@ for region etc. With enough right / left representation it can work.
 With no leadership, we might be sleepwalking into a collapse of
 everything second wave. 
 
-*2019-11-4 20:3:38*
-
 ---
 
 @h2_view
 
 “Hydrogen has long been called the fuel of the future. The future has begun.” - Nikolas Iwan, H2 Mobility’s Managing Director
 
-*2019-11-4 18:39:53*
-
 ---
 
 "@william_sw
 
 PowerCell sign development contract for maritime zero emissions solution with Havyard Group"
-
-*2019-11-4 15:14:40*
 
 ---
 
@@ -520,8 +428,6 @@ Parental version of this, to extent they could poison their millenial
 children, has to be the 'participation trophy' given in 'safe spaces'
 for kids running away from 'microagressions'.
 
-*2019-11-4 13:47:48*
-
 ---
 
 "@NisreenAlKhatib
@@ -532,8 +438,6 @@ with, w/out offering reasons. Quds News Network is an essential site
 for publishing the Palestinian content in Arabic & English to the
 world!"
 
-*2019-11-4 13:23:7*
-
 ---
 
 "@ninaoyama
@@ -543,15 +447,11 @@ So you’re telling me Warm Regards is fine, but Moist Regards is
 
 Ok boomer".
 
-*2019-11-4 13:21:35*
-
 ---
 
 The main villain of the show was, per the movie, the Goauld, which are
 modeled on pharaohs. Pharaohs are of course very much tied the agro
 era. 
-
-*2019-11-4 10:49:3*
 
 ---
 
@@ -560,8 +460,6 @@ space-faring farm folk. They biologically exterminate entire planets,
 and use it as farm land. Some Roman level genocidal shit.
 
 F--ing farmers.
-
-*2019-11-4 10:46:8*
 
 ---
 
@@ -573,8 +471,6 @@ stop.
 
 [Link](https://twitter.com/EFF/status/1188470154625044480)
 
-*2019-11-4 7:12:36*
-
 ---
 
 It didn't take a generation. You were born there with codes of UK,so
@@ -583,8 +479,6 @@ ur parents were adapting and u were the culmination of that. For u it
 was a snap.
 
 "My parents came to UK, it took a generation to adapt"
-
-*2019-11-4 7:5:24*
 
 ---
 
@@ -657,8 +551,6 @@ summer, George W. Bush seems to have made the wrong choice.
 >
 >'All right,' he said. 'You've covered your ass, now.'"
 
-*2019-11-3 21:4:58*
-
 ---
 
 Where to have TR food in NY? 386 Third Avenue. 
@@ -667,21 +559,15 @@ Dish: Cabbage stuffed with ground beef
 
 I took many ppl here for fine dining. 
 
-*2019-11-3 21:4:58*
-
 ---
 
 Before that I was working at another firm near WTC, 99ish, remember
 going to an excellent Korean udon place nearby for lunch sometimes and
 reading abt the Prez campaign from MSM papers.
 
-*2019-11-3 21:4:58*
-
 ---
 
 Yeah I remember the .com boom and bust... The consulting firm I was in helped code up something around pets let's just say..
-
-*2019-11-3 20:56:14*
 
 ---
 
@@ -693,23 +579,17 @@ Brussels, still wasn't fully informed in 2016 (I knew nothing of
 Northern Ireland), then the general public wasn't making an informed
 decision"
 
-*2019-11-3 12:41:10*
-
 ---
 
 Harding of Guardian talking abt being spied on
 
 [Link](https://youtu.be/97MWOERY_dE?t=1039)
 
-*2019-11-3 11:4:51*
-
 ---
 
 Haha.. R. Liddle - sound like a jackass alright
 
 [Link](https://youtu.be/EP6vyA1749M?t=405)
-
-*2019-11-3 9:26:54*
 
 ---
 
@@ -720,13 +600,9 @@ public schools suck, privatized power is only good for starting fires.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Texas Luring Jobs Away From California With Promises Of Electricity<a href="https://t.co/gYntnivgtT">https://t.co/gYntnivgtT</a></p>&mdash; The Babylon Bee (@TheBabylonBee) <a href="https://twitter.com/TheBabylonBee/status/1190780630482792454?ref_src=twsrc%5Etfw">November 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-3 8:2:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are 150 billionaires in the UK while 14 million people live in poverty. <br><br>In a fair society there would be no billionaires and no one would live in poverty.</p>&mdash; Jeremy Corbyn (@jeremycorbyn) <a href="https://twitter.com/jeremycorbyn/status/1190186804785418242?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-3 7:52:12*
 
 ---
 
@@ -740,8 +616,6 @@ job didn't exist, it would make no difference at all.'"
 
 [Link](https://www.npr.org/2019/10/28/774067928/bs-jobs-how-meaningless-work-wears-us-down)
 
-*2019-11-3 0:21:4*
-
 ---
 
 "@ggreenwald
@@ -751,8 +625,6 @@ people who live there, continues: yet another murder of an indigenous
 activist trying to protect their land from illegal loggers"
 
 [Link](https://twitter.com/ggreenwald/status/1190704134867034112)
-
-*2019-11-2 22:4:15*
 
 ---
 
@@ -765,8 +637,6 @@ truly amazing how this isn’t covered play by play"
 
 [Link](https://twitter.com/hxhassan/status/1190666163270934528)
 
-*2019-11-2 21:9:39*
-
 ---
 
 Scifi TV show has a hologram computer interface (a person). Supposed
@@ -774,8 +644,6 @@ to be an innocuous looking someone of course, a generic interface. I
 take one look, "ah, it's that actress from the show *Regenesis*". Now
 I know there is more to this hologram otherwise they'd just pick some1
 less experienced. \#overSciFi
-
-*2019-11-2 18:0:43*
 
 ---
 
@@ -792,20 +660,14 @@ Pause
 
 ET: Not so vulgar now, is it...?
 
-*2019-11-2 16:38:55*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1965 the CEO-to-worker pay ratio was 20:1.<br><br>Last year, it was 287:1.<br><br>Workers aren&#39;t struggling because they&#39;re not working hard enough.<br><br>They&#39;re struggling because more and more wealth is going to the people on top.<br><br>We&#39;re going to reverse that and give workers a raise.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1190369125291503621?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-2 16:2:22*
 
 ---
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Conservatives&#39; 𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝘆 pause of fracking is an election stunt to try and win a few votes.<br><br>Boris Johnson described fracking as ‘glorious news for humanity’. We cannot trust him.<br><br>Labour would ban fracking. That&#39;s real change.</p>&mdash; Jeremy Corbyn (@jeremycorbyn) <a href="https://twitter.com/jeremycorbyn/status/1190564813430296577?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-2 15:58:33*
 
 ---
 
@@ -829,19 +691,13 @@ data as the property of the person it represents, which allows it to
 treat our data subjecthood as deserving of civil liberties
 protections"
 
-*2019-11-2 14:10:19*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Best printer for a Mac? Don&#39;t want one that forces you to register with their ink refill program. Just a simple printer that does old fashioned just prints words and images on paper without having to send info to Deep State and advertisers, too.</p>&mdash; Stacy Herbert (@stacyherbert) <a href="https://twitter.com/stacyherbert/status/1190296747890880512?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-1 20:50:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don’t try to offend, but the more people are offended by a joke, particularly on twitter, the funnier I find it. And the angrier the tweet, the more chance of me using it and turning it to laughs and cash. PC culture isn’t killing comedy. It’s driving it. As it always did 🙏</p>&mdash; Ricky Gervais (@rickygervais) <a href="https://twitter.com/rickygervais/status/1190041146585686016?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-1 18:20:0*
 
 ---
 
@@ -849,24 +705,16 @@ Automatic diff on RBF... So the crazy ass cost function which had an
 RBF in bombs, but sample from the crazy-ass function, create an RBF,
 autodiff and use _that_ to move in a "trust region" can work.
 
-*2019-11-1 15:40:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lots of objections to class war appearing. Totally agree. Assault on welfare state, slashing top rate and corporate tax while imposing cuts on everyone else, driving people to food banks, Universal Credit, pay freezes, growth in zero hours. Where will it end? FFS.</p>&mdash; Ed Miliband (@Ed_Miliband) <a href="https://twitter.com/Ed_Miliband/status/1190052382442500097?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-1 11:54:18*
 
 ---
 
 "Write code that is easy to delete, not easy to extend"
 
-*2019-11-1 11:8:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everything you need to know about the latest development in the powertrain of choice: <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> fuel cell power from <a href="https://twitter.com/Cummins?ref_src=twsrc%5Etfw">@Cummins</a>. <a href="https://t.co/Zwriid6OAA">https://t.co/Zwriid6OAA</a> <a href="https://twitter.com/hashtag/Cummins?src=hash&amp;ref_src=twsrc%5Etfw">#Cummins</a> <a href="https://twitter.com/hashtag/NACVShow2019?src=hash&amp;ref_src=twsrc%5Etfw">#NACVShow2019</a> <a href="https://t.co/8mj7x7yLEi">pic.twitter.com/8mj7x7yLEi</a></p>&mdash; Cummins Inc. (@Cummins) <a href="https://twitter.com/Cummins/status/1190001061727264768?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-1 11:8:53*
 
 ---

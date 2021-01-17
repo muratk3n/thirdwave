@@ -2,8 +2,6 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Timber!” <a href="https://t.co/D9bzs5tplU">https://t.co/D9bzs5tplU</a></p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1171990287444586498?ref_src=twsrc%5Etfw">September 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-12 6:52:21*
-
 ---
 
 “It’s estimated that the Deepwater Horizon oil spill resulted in the
@@ -12,13 +10,9 @@ activities... If you Drill, you spill.”
 
 [Link](https://twitter.com/WarWithTheDinos/status/1171927010043674625)
 
-*2019-9-12 6:50:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BREAKING?src=hash&amp;ref_src=twsrc%5Etfw">#BREAKING</a>:<br><br>10,000 Russian bots turn out to see Bernie Sanders speak in Denver: <a href="https://t.co/kPsTEQlWXN">https://t.co/kPsTEQlWXN</a></p>&mdash; MSDNC (@MSDNCNews) <a href="https://twitter.com/MSDNCNews/status/1171249384534761474?ref_src=twsrc%5Etfw">September 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-12 1:17:1*
 
 ---
 
@@ -39,13 +33,9 @@ amazing. But so far it doesn’t"
 
 [Wired](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/)
 
-*2019-9-12 1:6:50*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“What Draghi must deliver”<br><br>No bull market without central bank intervention. <a href="https://t.co/PNmr9ffgrV">https://t.co/PNmr9ffgrV</a></p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1171774304452841474?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-11 23:39:48*
 
 ---
 
@@ -60,13 +50,9 @@ Cuba and has given no reason. This is the equivalent of silencing CNN,
 Fox, WaPo and NPR’s accounts, but Cuba is a target of the empire so
 these arbitrary suspensions don’t generate outrage"
 
-*2019-9-12 8:5:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not just the Irish. I have a former colleague who has dual Polish and British nationality and she&#39;ll have more freedoms post Brexit than my angry relative who wants to leave - while simultaneously wishing to retire to a holiday home in Spain</p>&mdash; Otto English (@Otto_English) <a href="https://twitter.com/Otto_English/status/1171893361588023296?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-12 8:1:53*
 
 ---
 
@@ -74,15 +60,11 @@ these arbitrary suspensions don’t generate outrage"
 
 $SPX is less than 1% from all time human history highs and therefore in dire need of central bank intervention.
 
-*2019-9-11 22:54:0*
-
 ---
 
 The comments are so good
 
 [Link](https://mobile.twitter.com/Mr_Nohmer/status/1171623630351978498)
-
-*2019-9-11 22:52:39*
 
 ---
 
@@ -90,15 +72,11 @@ The comments are so good
 
 Someone [combined](https://twitter.com/Todd_Spence/status/1171598282444853249) John Bolton with Michael Bolton and I can’t unsee it"
 
-*2019-9-11 22:10:42*
-
 ---
 
 "@NorthmanTrader
 
 Make the top 1% much greater: Trump Again Mulls Capital Gains Tax Cuts"
-
-*2019-9-11 22:6:9*
 
 ---
 
@@ -116,23 +94,17 @@ gonna git you".
 Centrist Dems are culprit \#1 for cuckoo Reps, item above could be
 \#2, perhaps related to \#1.
 
-*2019-9-11 19:30:15*
-
 ---
 
 Herbie Hancock - One Finger Snap \#music
 
 [Link](https://www.youtube.com/watch?v=udCbtl7YEf4)
 
-*2019-9-11 19:30:15*
-
 ---
 
 Licensing considered better for the gun issue
 
 [Video](https://youtu.be/ENw2y0ek1Jg?t=209)
-
-*2019-9-11 19:30:15*
 
 ---
 
@@ -144,15 +116,11 @@ because the prize winners theories contributed to the
 
 [Link](https://twitter.com/themintmag/status/1171810829508993025)
 
-*2019-9-11 19:30:15*
-
 ---
 
 THE KING
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Creator of the term, <a href="https://twitter.com/hashtag/QuantitativeEasing?src=hash&amp;ref_src=twsrc%5Etfw">#QuantitativeEasing</a>, <a href="https://twitter.com/scientificecon?ref_src=twsrc%5Etfw">@scientificecon</a> has a long resume of <a href="https://twitter.com/hashtag/neweconomicthinking?src=hash&amp;ref_src=twsrc%5Etfw">#neweconomicthinking</a>. He cowrote the book <a href="https://twitter.com/hashtag/WhereDoesMoneyComeFrom?src=hash&amp;ref_src=twsrc%5Etfw">#WhereDoesMoneyComeFrom</a> &amp; studied interest rates vs. <a href="https://twitter.com/hashtag/GDPGrowth?src=hash&amp;ref_src=twsrc%5Etfw">#GDPGrowth</a>. Should he win the <a href="https://twitter.com/hashtag/NotTheNobel?src=hash&amp;ref_src=twsrc%5Etfw">#NotTheNobel</a>? Tell us why or why not here: <a href="https://t.co/bWV3LeCMmS">https://t.co/bWV3LeCMmS</a></p>&mdash; The Mint (@themintmag) <a href="https://twitter.com/themintmag/status/1171760245070319617?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-11 19:30:15*
 
 ---
 
@@ -161,8 +129,6 @@ with delegitimation effect. End this charade NOW!
 
 "Brexit in chaos after court rules PM's suspension of parliament was
 unlawful"
-
-*2019-9-11 18:41:13*
 
 ---
 
@@ -173,14 +139,10 @@ broke the ground"
 
 [Link](https://mobile.twitter.com/VAruffo/status/1171343556910428160)
 
-*2019-9-11 17:46:0*
-
 ---
 
 \#UBI is also about rewarding non-paid social work, like fathers and
 mothers. Making every mother a government worker would be hard.
-
-*2019-9-11 17:46:0*
 
 ---
 
@@ -188,8 +150,6 @@ mothers. Making every mother a government worker would be hard.
 
 It is f[@#$] wild that @Twitter's business model involves pushing
 racist anti-BDS zionist propaganda and calling it an "ad""
-
-*2019-9-11 17:44:47*
 
 ---
 
@@ -200,8 +160,6 @@ even abuse the UK constitution competently. The absence of a witness
 statement as to true motive for prorogation was telling. A political
 decision, clumsily executed by those not as clever as they think they
 are"
-
-*2019-9-11 15:47:0*
 
 ---
 
@@ -217,8 +175,6 @@ shit-show (literally, a show that is shit). I was watching a Spacey
 mov the other day, and wondered, was that accusation made-up?
 
 [Link](https://www.hollywoodreporter.com/live-feed/walter-mosley-quits-star-trek-discovery-using-n-word-writers-room-1237489)
-
-*2019-9-11 15:47:0*
 
 ---
 
@@ -237,8 +193,6 @@ silly any more does it?"
 
 [Link](https://mobile.twitter.com/MerrynSW/status/1171733119243882496)
 
-*2019-9-11 15:44:54*
-
 ---
 
 "China Is Throwing Open Its Market Door. Be Wary: The country is
@@ -247,19 +201,13 @@ trade war. No wonder it wants more overseas cash"
 
 [Link](https://www.bloomberg.com/amp/opinion/articles/2019-09-10/china-scrapping-qfii-quotas-hints-at-desperation-for-money?__twitter_impression=true)
 
-*2019-9-11 15:43:47*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hyundai?src=hash&amp;ref_src=twsrc%5Etfw">#Hyundai</a> packed 2️⃣ <a href="https://twitter.com/hashtag/Nexo?src=hash&amp;ref_src=twsrc%5Etfw">#Nexo</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> fuel cells into this generator to recharge electric racing cars 🏎 👏🏻 <a href="https://t.co/CtOIR1cN7z">https://t.co/CtOIR1cN7z</a></p>&mdash; Dominique Lecocq 🌏 (@Lecocq_dom) <a href="https://twitter.com/Lecocq_dom/status/1171746212724318208?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-11 15:42:39*
-
 ---
 
 Did he just [pull a Trump](https://twitter.com/AmbJohnBolton/status/1171455806069305346) on Trump?
-
-*2019-9-11 15:2:30*
 
 ---
 
@@ -267,20 +215,14 @@ Mustache gone
 
 <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpdq3y9Jc2-KfYvrE409MUKgLyHca8RkS4ieEDsfeGIbb7WpLLA"/>
 
-*2019-9-11 15:2:30*
-
 ---
 
 West Bank is 5 times as large as Hong Kong, but has 1/3 of HK
 population. Earth is large.
 
-*2019-9-11 14:55:41*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This gives me hope... Michael Heseltine...<br>&quot;They had to go fast, and they had to confuse the issue, they can&#39;t go fast and they have failed to confuse the issue&quot;.<a href="https://twitter.com/SkyNews?ref_src=twsrc%5Etfw">@SkyNews</a> <a href="https://twitter.com/adamboultonSKY?ref_src=twsrc%5Etfw">@adamboultonSKY</a> <a href="https://t.co/g0ZWEDb1AQ">pic.twitter.com/g0ZWEDb1AQ</a></p>&mdash; Jude #FBPE (@jude5456) <a href="https://twitter.com/jude5456/status/1171358551295614976?ref_src=twsrc%5Etfw">September 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-11 12:30:41*
 
 ---
 
@@ -316,15 +258,11 @@ of Canada)
 
 [Link](https://themarket.ch/meinung/william-r-white-are-we-prepared-for-the-next-financial-crisis-ld.213)
 
-*2019-9-11 10:49:0*
-
 ---
 
 "In the last three years alone, HSBC has poured £43bn into fossil fuels,"
 
 [Link](https://www.thecanary.co/global/world-analysis/2019/04/12/protesters-disrupt-hsbc-meeting-to-demand-that-the-bank-stops-fuelling-war-and-climate-crisis/)
-
-*2019-9-11 10:10:7*
 
 ---
 
@@ -341,8 +279,6 @@ there, but you don't usually combine "the finished theory 1" with
 "finished theory 2" and come up with "better finished theory number
 3".
 
-*2019-9-11 9:1:57*
-
 ---
 
 H2 is already cost-competitive.
@@ -358,8 +294,6 @@ possible roles to play in future energy and transportation systems"
 
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S2542435119303228?via%3Dihub)
 
-*2019-9-10 20:31:54*
-
 ---
 
 "HyperSolar, Inc. (HYSR), the developer of a breakthrough technology to
@@ -372,8 +306,6 @@ pilot-scale solar-hydrogen farm"
 
 [Link](https://finance.yahoo.com/news/hypersolar-prepares-hydrogen-generation-technology-093000192.html?soc_src=social-sh&soc_trk=tw)
 
-*2019-9-10 16:1:3*
-
 ---
 
 "@jasonhickel
@@ -384,8 +316,6 @@ destroying ecosystems"
 
 [Link](https://mobile.twitter.com/jasonhickel/status/1165891200408260610)
 
-*2019-9-10 15:1:57*
-
 ---
 
 "@marcfriedrich7
@@ -394,8 +324,6 @@ We are back in 1999: cash burn rate. \#wework Remember this is the
 last stage of the very late boom cycle. Prepare for the impact"
 
 [Link](https://mobile.twitter.com/marcfriedrich7/status/1171388164142968832)
-
-*2019-9-10 14:52:55*
 
 ---
 
@@ -408,26 +336,18 @@ Work L vans with a hydrogen power plant by 2020."
 
 [Link](https://www.fleeteurope.com/en/last-mile/germany/features/streetscooter-builds-fuel-cell-vans-dhl-and-innogy)
 
-*2019-9-10 11:31:41*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">With the unveiling of the <a href="https://twitter.com/hashtag/BMWi?src=hash&amp;ref_src=twsrc%5Etfw">#BMWi</a> Hydrogen NEXT at the IAA Cars 2019 show, we&#39;re demonstrating our ability to move beyond battery-based electrification to the deployment of hydrogen-powered fuel cell technology. <a href="https://twitter.com/hashtag/BMWi?src=hash&amp;ref_src=twsrc%5Etfw">#BMWi</a> <a href="https://twitter.com/hashtag/HydrogenNEXT?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNEXT</a> <a href="https://twitter.com/hashtag/BMWIAA?src=hash&amp;ref_src=twsrc%5Etfw">#BMWIAA</a> <a href="https://t.co/A8YbHNhehH">pic.twitter.com/A8YbHNhehH</a></p>&mdash; BMW Group (@BMWGroup) <a href="https://twitter.com/BMWGroup/status/1171322590515945472?ref_src=twsrc%5Etfw">September 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-10 7:51:32*
 
 ---
 
 Interesting: Julius Ceasar dabbled in banking before he became
 genocider-in-chief.
 
-*2019-9-9 22:47:3*
-
 ---
 
 Dude's last name is Iceman in Kraut. 
-
-*2019-9-9 22:47:3*
 
 ---
 
@@ -435,15 +355,11 @@ Eisman (of *The Big Short* fame) on rates.
 
 [Video](https://youtu.be/5Nr8DjP7L44?t=125)
 
-*2019-9-9 22:47:3*
-
 ---
 	
 \#rates
 
 <img width="350"  src="https://pbs.twimg.com/media/ED9Ro9-X4AEmfVh?format=jpg&name=900x900"/>
-
-*2019-9-11 16:3:41*
 
 ---
 
@@ -451,8 +367,6 @@ This guy is a financier, fine; but are you adding so much more value
 than, say, a parent, who works for free?
 
 "New generation wants to earn money without [a job]"
-
-*2019-9-9 22:50:47*
 
 ---
 
@@ -474,8 +388,6 @@ bank. Haha.
 Hudson crossed paths with some strange characters, he has great
 stories.
 
-*2019-9-9 22:47:3*
-
 ---
 
 Yes. NN architectures have been around for a long time, we made
@@ -491,8 +403,6 @@ start digging.
 
 "Is the application of Cop QM to different fields akin to recent
 developments in neural nets?"
-
-*2019-9-9 21:52:26*
 
 ---
 
@@ -511,8 +421,6 @@ have, rather than pointing toward new ones"
 
 [Link](https://www.nytimes.com/2019/09/07/opinion/sunday/quantum-physics.html)
 
-*2019-9-9 21:51:29*
-
 ---
 
 Interesting.. now picking winners and losers are we? 
@@ -523,8 +431,6 @@ Hammer time?
 
 $TWTR is now muting $TSLAQ accounts"
 
-*2019-9-9 18:46:18*
-
 ---
 
 "@amlivemon
@@ -534,8 +440,6 @@ ruin the global financial system suffering dollar shortages. China
 being decoupled from the US & its asymmetric defense against US
 actions failing means they will suffer near systemic collapse"
 
-*2019-9-9 18:13:19*
-
 ---
 
 "@lisaabramowicz1
@@ -543,8 +447,6 @@ actions failing means they will suffer near systemic collapse"
 Global debt is up nearly 50% since before the financial crisis. This
 is weighing on growth and will make it harder to ever have much higher
 interest rates"
-
-*2019-9-9 17:42:22*
 
 ---
 
@@ -562,8 +464,6 @@ But the subconcious is in open rebellion towards the static existence,
 a lot of game shows, movies revolve around being in nature, surviving. 
 
 "Why wouldn't the hunter-gatherer become a pagan, worship stuff?"
-
-*2019-9-9 16:36:45*
 
 ---
 
@@ -586,8 +486,6 @@ has broadly connoted the 'religion of the peasantry'"
 
 "People living before settled life must be pagans. Sounds barbaric". 
 
-*2019-9-9 16:27:5*
-
 ---
 
 Ow! Ow! Major burn.
@@ -601,8 +499,6 @@ only a few miles."
 
 [Link](https://www.theverge.com/2019/8/14/20804257/zeroavia-hydrogen-airplane-electric-flight)
 
-*2019-9-9 15:54:41*
-
 ---
 
 "@trevornoren
@@ -610,8 +506,6 @@ only a few miles."
 Debt owed by governments, businesses and households around the globe
 is up nearly 50% since before the financial crisis to $246.6 trillion
 at the beginning of March"
-
-*2019-9-9 13:48:10*
 
 ---
 
@@ -632,8 +526,6 @@ our kids physics. We have it backwards"
 [Link](https://mobile.twitter.com/villi/status/1170197802007158784)
 
 
-*2019-9-8 11:6:32*
-
 ---
 
 "@binalkp91
@@ -641,8 +533,6 @@ our kids physics. We have it backwards"
 Me tuning hyperparameters"
 
 [Link](https://mobile.twitter.com/binalkp91/status/1170466028544880640)
-
-*2019-9-9 7:33:1*
 
 ---
 
@@ -654,16 +544,12 @@ Reminder: IBM claims to have received more patents than any other US
 company every year for the last 26 years, and yet I don’t think anyone
 believes IBM is really an innovation leader within tech"
 
-*2019-9-9 6:43:20*
-
 ---
 
 Yes back in the day for a while, Biden was known was for his anti-Iraq
 War stance. But it [turns out](https://youtu.be/yTXA9vck7sg?t=36) his
 ducks weren't exactly in order on the issue. He dropped the ball when
 it mattered most.
-
-*2019-9-9 6:43:20*
 
 ---
 
@@ -679,8 +565,6 @@ Python on a little board. Has acc, grav, magneto, even IR comm.
 [Link](https://www.adafruit.com/product/3333)
 
 \#curcuit \#electronics
-
-*2019-9-8 23:8:24*
 
 ---
 
@@ -701,13 +585,9 @@ plants should be gradually dismantled"
 
 [Link](https://theweek.com/articles-amp/862988/what-bernie-sanders-elizabeth-warren-wrong-about-nuclear-power?__twitter_impression=true)
 
-*2019-9-8 22:14:39*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Infrastructure will not be a problem&quot;<a href="https://t.co/3Z74iemwFx">https://t.co/3Z74iemwFx</a></p>&mdash; Carl Koinberg Henrikson (@CarlKoinberg) <a href="https://twitter.com/CarlKoinberg/status/1170754118488662016?ref_src=twsrc%5Etfw">September 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-8 22:2:14*
 
 ---
 
@@ -728,14 +608,10 @@ moisture provides additional fuel for hurricanes".
 
 [Link](https://www.ucsusa.org/global-warming/science-and-impacts/impacts/hurricanes-and-climate-change.html)
 
-*2019-9-8 21:41:58*
-
 ---
 
 "Don't worry about people stealing an idea. If it's original, you will
 have to ram it down their throats" -- Aiken
-
-*2019-9-8 21:36:8*
 
 ---
 
@@ -755,8 +631,6 @@ all get the same content.
 
 [Link](https://www.youtube.com/watch?v=WJ_DXqPPAKg)
 
-*2019-9-8 21:29:11*
-
 ---
 
 Unemployment (reverse of labor force p.) is at about 37%, never went
@@ -768,14 +642,10 @@ confirms this. People are up to their necks in debt.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unemp)
 
-*2019-9-8 20:48:26*
-
 ---
 
 I missed all that hoopla on hurricane path, sharpie whatnot. I can
 completely shut it all off, no problem.
-
-*2019-9-8 19:7:28*
 
 ---
 
@@ -783,16 +653,12 @@ That's Abaco Bahamas, after Dorian.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What’s happening to Abaco is one of the most terrifying things I’ve ever seen. The only thing more terrifying, is that there will be more Abacos with climate change.</p>&mdash; IM🍑HIM (@ziyatong) <a href="https://twitter.com/ziyatong/status/1170708602711105541?ref_src=twsrc%5Etfw">September 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-8 19:5:1*
-
 ---
 
 "@tictoc
 
 Amazon wants to launch 3,236 communications satellites in a bid to
 offer internet service from low orbits"
-
-*2019-9-8 18:16:6*
 
 ---
 
@@ -803,15 +669,11 @@ the Cameron government sent to murder Gaddafi"
 
 [Link](https://mobile.twitter.com/flying_rodent/status/1170313508413739008)
 
-*2019-9-8 15:7:36*
-
 ---
 
 "Disclosures show Exxon Mobil is funding a centrist Democratic think tank"
 
 [Link](https://mobile.twitter.com/theintercept/status/1170662809522384896)
-
-*2019-9-8 15:6:49*
 
 ---
 
@@ -828,8 +690,6 @@ than 90% on the exam's non-diagram, multiple choice (NDMC) questions"
 
 [Link](https://arxiv.org/abs/1909.01958)
 
-*2019-9-8 14:16:7*
-
 ---
 
 "A description of Brexiteer Jacob Rees-Mogg by Sir Nicholas Soames
@@ -840,15 +700,11 @@ arse”"
 
 [Link](https://mobile.twitter.com/premnsikka/status/1170643962912288769)
 
-*2019-9-8 14:5:9*
-
 ---
 
 Debt Deflation
 
 [Link](https://youtu.be/3S6dQn6k_UA?t=155)
-
-*2019-9-8 13:24:52*
 
 ---
 
@@ -868,13 +724,9 @@ And the clown car is Mr. Johnson"
 
 [Link](https://www.theglobeandmail.com/amp/opinion/editorials/article-how-bad-is-boris-johnson-we-cant-even-find-the-words/?__twitter_impression=true)
 
-*2019-9-8 11:15:49*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Poverty is, in my view, a death sentence. The poorest older Americans die at twice the rate as the richest. <br><br>We must end our country’s obscene inequality and ensure basic economic security for all—or we will condemn an entire generation to early death. <a href="https://t.co/h6D1lzC8ES">https://t.co/h6D1lzC8ES</a></p>&mdash; Bernie Sanders (@SenSanders) <a href="https://twitter.com/SenSanders/status/1171046736099446784?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-8 10:52:59*
 
 ---
 
@@ -882,15 +734,11 @@ And the clown car is Mr. Johnson"
 
 43 confirmed dead, 70,000 homeless from Dorian"
 
-*2019-9-8 10:49:58*
-
 ---
 
 Comfort!
 
 [Link](https://mobile.twitter.com/kantahara/status/1170334503392464896)
-
-*2019-9-8 10:48:19*
 
 ---
 
@@ -900,23 +748,17 @@ politically. The Dudley rant illustrates the collective madness."
 
 [Link](https://mobile.twitter.com/Hedgeye/status/1169622143983869952)
 
-*2019-9-7 13:48:38*
-
 ---
 
 \#tslaq \#batteries
 
 [Link](https://mobile.twitter.com/zomgapocalypse/status/1170087789733568512)
 
-*2019-9-7 13:7:19*
-
 ---
 
 There might be some truth to streotypical millenial's wanting to
 "magically learn stuff, really fast". Things should not be this hard
 to teach. We are all failing on ed.
-
-*2019-9-7 18:38:16*
 
 ---
 
@@ -935,8 +777,6 @@ a good hunch and mad math skillz.
 
 "AI can discover physics from data, even make new advances"
 
-*2019-9-7 18:38:16*
-
 ---
 
 Prefering regulation was a mistake. That's one demerit badge to Nader.
@@ -954,8 +794,6 @@ debate. Japan treated industrial conglomerates as a source of
 strength, not a threat to society and the state. American corporations
 argued consolidation was necessary to compete, and some politicians
 began to sound sympathetic notes." \#appelbaum
-
-*2019-9-7 18:38:16*
 
 ---
 
@@ -976,8 +814,6 @@ people, Nader recognized the need to find another way of forcing
 companies to make safer products. He recognized the need for
 regulation".  \#appelbaum
 
-*2019-9-7 18:38:16*
-
 ----
 
 "Throughout this period, American policy makers showed little interest
@@ -993,8 +829,6 @@ policy. In 1962, the Supreme Court ruled unanimously that the Brown
 Shoe Company could not buy the G. R. Kinney Company because the deal
 would let the combined company sell shoes at lower prices, and that
 would place its smaller competitors at a disadvantage" \#appelbaum
-
-*2019-9-7 18:38:16*
 
 ---
 
@@ -1019,21 +853,15 @@ was doing their job. But when an observation surprises us, theorists
 worry. No observation in the last thirty years has been more upsetting
 than the discovery of the dark energy in 1998" -- Smolin
 
-*2019-9-7 18:38:16*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m gonna say something controversial. Democrats who don&#39;t support Medicare for All are willing to allow people to be killed for profit. They know some people will die as a result of allowing private insurers to stay. We all know it.</p>&mdash; Joshua 4 Congress (@Joshua4Congress) <a href="https://twitter.com/Joshua4Congress/status/1169833690563670022?ref_src=twsrc%5Etfw">September 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-6 18:38:16*
 
 ---
 
 Yeah; I dont think [so](https://mobile.twitter.com/Jkylebass/status/1169902333066498049).
 
 "China says new digital currency will be similar to Facebook's Libra"
-
-*2019-9-6 17:18:20*
 
 ---
 
@@ -1042,23 +870,17 @@ court challenge against suspending parliament, said Brexit was a
 deceit that would undermine the United Kingdom’s standing and could
 even split it asunder"
 
-*2019-9-6 17:13:22*
-
 ---
 
 [Link](https://youtu.be/0Rl9Cxc7uZA?t=7)
 
 \#rushhour
 
-*2019-9-6 13:33:5*
-
 ---
 
 DOOO YOUUUU SPEAKAAAA ENGLISH?
 
 "Bystroshodyashchiesya metody resheniya lineynoy zadachi bystrodeystviya"
-
-*2019-9-6 12:59:47*
 
 ---
 
@@ -1070,13 +892,9 @@ Unpopular Opinion:
 and @Algorand will make \#BTC and \#ETH look like cute little
 experiments."
 
-*2019-9-6 12:32:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re buying New Zealand&#39;s first hydrogen fuel cell bus – and it will be built right here in New Zealand. Our partners <a href="https://twitter.com/AucklandsPort?ref_src=twsrc%5Etfw">@AucklandsPort</a> are building a hydrogen production and refuelling facility their Waitematā port, another first for Auckland. <a href="https://t.co/ZxXgp4ShJG">https://t.co/ZxXgp4ShJG</a> <a href="https://t.co/fbG3HEpnXi">pic.twitter.com/fbG3HEpnXi</a></p>&mdash; Auckland Transport (@AklTransport) <a href="https://twitter.com/AklTransport/status/1169804751233413120?ref_src=twsrc%5Etfw">September 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-6 12:21:24*
 
 ---
 
@@ -1090,20 +908,14 @@ China](https://en.wikipedia.org/wiki/Slavery_in_China) was a slave.
 "If slavery is agro-related, practiced by many countries, why do we
 always hear about black slavery in America?"
 
-*2019-9-6 12:16:44*
-
 ---
 
 I hear some "graviton" talk in scifi shows.. Gentle reminder that the
 graviton theory as a whole never worked (see Smolin).
 
-*2019-9-6 12:16:44*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In order to avoid the Miss/Ms./Mrs. nonsense, I’ve decided to buy a boat until I finish my doctorate. Please refer to me as Captain Brauer from now on</p>&mdash; Kaley Brauer (@kaleybrauer) <a href="https://twitter.com/kaleybrauer/status/1169650958713917448?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-6 6:48:30*
 
 ---
 
@@ -1113,13 +925,9 @@ Weird. I dig it.
 
 [Link](https://twitter.com/SquareAnon/status/1169006963868524551)
 
-*2019-9-5 23:9:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In fifty years we might look back and give Nikola biggest unit credit for decarbonizing transport. Trucks consume a lot of energy. Easier to sell fleets. Nikola and others will build out hydrogen infrastructure and help cost curve for passenger FCEVs. <a href="https://t.co/CLuexVXpNm">https://t.co/CLuexVXpNm</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1169655089453289472?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-5 20:25:7*
 
 ---
 
@@ -1127,14 +935,10 @@ Reveal.js based HTML presentations look really good. I could probably
 generate these things from markdown. Time to throw out old PDF based
 presentation system.
 
-*2019-9-5 16:24:27*
-
 ---
 
 MJJJ MJJJJJ JJJJ MJJJJJ AJJJJ AHJJJJJ... Sputnik-ass
 mot..f..ka.
-
-*2019-9-5 14:40:6*
 
 ---
 
@@ -1142,22 +946,16 @@ Russkie sci ppl got some game on purely mathematical approaches, like
 doing little more math to avoid some computation. Maybe as a result of
 not having invented computers back in the day? Cool tho.
 
-*2019-9-5 14:36:58*
-
 ---
 
 "In reinforcement learning the objective is to maximize reward, and in
 control theory objective is to minimize cost"
-
-*2019-9-5 14:18:21*
 
 ---
 
 "Chinese demand threatens to wipe out Kenya’s donkeys"
 
 [Link](https://www.chinadialogue.net/article/show/single/en/11500-Chinese-demand-threatens-to-wipe-out-Kenya-s-donkeys)
-
-*2019-9-5 12:54:42*
 
 ---
 
@@ -1166,9 +964,6 @@ anti-capitalist Labour wins unlikely new City fans"
 
 [Link](https://www.telegraph.co.uk/business/2019/09/03/corbyn-better-no-deal-brexit-say-investment-banks-anti-capitalist)
 
-*2019-9-5 10:15:28*
-
 ---
 
-<img width="500" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/muratk3n.png"/>
 

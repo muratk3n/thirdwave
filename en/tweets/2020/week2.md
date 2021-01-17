@@ -4,13 +4,9 @@ This guy lost it, killed himself \#SNL
 
 [Link](https://youtu.be/2aqd5VQqSRc?t=78)
 
-*2020-1-12 13:8:6*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Amazing scenes of protest in Tehran tonight. While thousand have been on the streets in months past, Tehran tended to shy away from protests. Not now. Incompetence of regime in downing the plane is just too much. <a href="https://t.co/UFJXX7Yx6c">pic.twitter.com/UFJXX7Yx6c</a></p>&mdash; Bessma Momani (@b_momani) <a href="https://twitter.com/b_momani/status/1216033477151191042?ref_src=twsrc%5Etfw">January 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-12 12:9:39*
 
 ---
 
@@ -19,8 +15,6 @@ __pay__ for the right to vote (a percentage of monthly $$ the system
 already generates for everyone). Taxation for representation.
 
 (Plus maybe a sales tax)
-
-*2020-1-12 11:40:29*
 
 ---
 
@@ -31,19 +25,13 @@ transact with a anything other than that currency, some will choose it
 for ideological reasons bcz they want to be "with those folks over
 there". 
 
-*2020-1-12 11:38:9*
-
 ---
 
 So Steyer had some success in SC using TV?
 
-*2020-1-12 11:13:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australian citizens are waging their own fight against gas and coal, even though their Government is doing less than nothing: Citizen-owned rooftop <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> now generates more power in Australia than all the country’s natural-gas-fired plants<a href="https://twitter.com/hashtag/ClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateEmergency</a> (via <a href="https://twitter.com/NatBullard?ref_src=twsrc%5Etfw">@NatBullard</a>) <a href="https://t.co/1CvNUPDzWr">pic.twitter.com/1CvNUPDzWr</a></p>&mdash; Assaad Razzouk (@AssaadRazzouk) <a href="https://twitter.com/AssaadRazzouk/status/1216170690430296064?ref_src=twsrc%5Etfw">January 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-12 9:47:12*
 
 ---
 
@@ -55,13 +43,9 @@ from FOMO [fear of missing out]...
 
 ...to 'SOBS' (shame of being suckered) "
 
-*2020-1-12 9:41:28*
-
 ---
 
 <img width="340"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVLpU4HyIUih8-7QvsXQIkCLD8T1tLjuBApNPTS3Df3J861OUT"/>
-
-*2020-1-11 23:49:1*
 
 ---
 
@@ -76,8 +60,6 @@ their chosen successor take their place.
 
 "Politician: People dont vote for me. What can I do?"
 
-*2020-1-11 23:44:41*
-
 ---
 
 "Australia is ramping up investment in the nascent hydrogen energy
@@ -86,19 +68,13 @@ Friday's meeting of state and federal ministers in Perth"
 
 [Link](https://www.smh.com.au/politics/federal/hydrogen-stimulus-package-to-power-australian-energy-exports-20191122-p53d7c.html)
 
-*2020-1-11 23:40:41*
-
 ---
 
 "Iran says military shot down Ukrainian passenger plane in error"
 
-*2020-1-11 22:9:15*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Protests continue in Tehran. Protesters are chanting many of the same slogans from <a href="https://twitter.com/hashtag/IranProtests?src=hash&amp;ref_src=twsrc%5Etfw">#IranProtests</a> of November 2019<br><br>They&#39;re chanting: &quot;The regime told us our enemy is the US. But actually, our enemy is right here&quot; [in reference to the regime itself]. <a href="https://t.co/OjoMw2PMI2">pic.twitter.com/OjoMw2PMI2</a></p>&mdash; Masih Alinejad 🏳️ (@AlinejadMasih) <a href="https://twitter.com/AlinejadMasih/status/1216047712476565504?ref_src=twsrc%5Etfw">January 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-11 21:26:15*
 
 ---
 
@@ -107,8 +83,6 @@ Wins Landslide Re-election" -- @zerohedge
 
 🇹🇼 👍
 
-*2020-1-11 20:59:43*
-
 ---
 
 Who shares code in HTML with weird breaks in formatting..?
@@ -116,22 +90,16 @@ Who shares code in HTML with weird breaks in formatting..?
 It feels like I am on an archeological dig for a long-dead
 civilization
 
-*2020-1-11 19:8:5*
-
 ---
 
 Alternating Direction Method of Multipliers. This better effin work on
 total variation denoising.
-
-*2020-1-11 19:6:37*
 
 ---
 
 NASA: Study Confirms Climate Models are Getting Future Warming Projections Right
 
 [Link](https://climate.nasa.gov/news/2943/study-confirms-climate-models-are-getting-future-warming-projections-right.amp)
-
-*2020-1-11 17:48:30*
 
 ---
 
@@ -157,15 +125,11 @@ do any of that'"
 
 [Link](https://mobile.twitter.com/e_d_andersen/status/1215995747558207488)
 
-*2020-1-11 17:3:52*
-
 ---
 
 Who da man
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a> leads the Democratic field three weeks ahead of the Iowa Caucus in the latest <a href="https://twitter.com/hashtag/IowaPoll?src=hash&amp;ref_src=twsrc%5Etfw">#IowaPoll</a>: <a href="https://t.co/2jTGxXQo1O">https://t.co/2jTGxXQo1O</a> <a href="https://t.co/dRzqrcLyJ7">pic.twitter.com/dRzqrcLyJ7</a></p>&mdash; Des Moines Register (@DMRegister) <a href="https://twitter.com/DMRegister/status/1215806794410418176?ref_src=twsrc%5Etfw">January 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-11 15:24:14*
 
 ---
 
@@ -173,19 +137,13 @@ Yeah there's no way I'm getting into all that for one application
 \#denoising. Started with a stupid regularization and now we are in
 bizarro land (might come back here tho, we'll see).
 
-*2020-1-11 15:19:1*
-
 ---
 
 Maybe the new Trudeau beard killed him
 
-*2020-1-11 10:33:11*
-
 ---
 
 Peart as in of Rush, from Canada
-
-*2020-1-11 10:31:2*
 
 ---
 
@@ -193,52 +151,36 @@ Neil Peart died? Did not know some of his lyrics were inspired by Ayn Rand 👎
 
 Still tho, good drummer👍.
 
-*2020-1-11 10:39:25*
-
 ---
 
 Non-farm payroll deceleration
 [continues](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#unemp),
 now 1.50%,..,1.45%,1.40%. The decrease of increase \#hedgeye
 
-*2020-1-11 9:11:5*
-
 ---
 
 <img width="150" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
-
-*2020-1-11 8:44:58*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will do everything I can to stop a war with Iran.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1215683861289558019?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-10 21:20:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/US?src=hash&amp;ref_src=twsrc%5Etfw">#US</a> to <a href="https://twitter.com/hashtag/Iraq?src=hash&amp;ref_src=twsrc%5Etfw">#Iraq</a>: We’re staying. <a href="https://t.co/bnliyZY9O1">pic.twitter.com/bnliyZY9O1</a></p>&mdash; Matt Lee (@APDiploWriter) <a href="https://twitter.com/APDiploWriter/status/1215647086986825728?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-10 20:17:39*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/DouqJDRAFt">pic.twitter.com/DouqJDRAFt</a></p>&mdash; BulldawgBrewer - 🚀XRP🚀 (@BullDawgBrewer) <a href="https://twitter.com/BullDawgBrewer/status/1215444342590050304?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-10 20:6:34*
 
 ---
 
 "'Designed by clowns': Boeing employees ridicule 737 MAX, regulators in
 internal messages" -- Reuters
 
-*2020-1-10 20:1:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The ultimate result of shielding men from the effects of folly, is to fill the world with fools” Herbert Spencer</p>&mdash; Dylan Grice (@dylangrice) <a href="https://twitter.com/dylangrice/status/1215594810893111297?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-10 19:56:0*
 
 ---
 
@@ -248,19 +190,13 @@ BREAKING: BlackRock joins Climate Action 100+. The world's largest
 asset manger (>$ 6 trillion) joins the largest investor initiative
 lobbying to cut greenhouse gas emissions"
 
-*2020-1-9 23:20:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Water+Sun = Hydrogen--Technion researchers have developed the world’s first system using <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> energy to split water into <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> and oxygen at two separate sites--<a href="https://t.co/hS19de5vRe">https://t.co/hS19de5vRe</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/6nGxz3Z7LB">pic.twitter.com/6nGxz3Z7LB</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1215317757358637058?ref_src=twsrc%5Etfw">January 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-9 23:9:59*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s happening in <a href="https://twitter.com/hashtag/ROS2?src=hash&amp;ref_src=twsrc%5Etfw">#ROS2</a> is a great example to the positive -- Amazon, Intel, Microsoft, Canonical, and many many others are doing work towards a project that isn&#39;t necessarily selves serving. <br><br>And it&#39;s great for business.<br><br>I hope to add <a href="https://twitter.com/ifm_USA?ref_src=twsrc%5Etfw">@ifm_USA</a> to that list in 2020.<br><br>4/4</p>&mdash; Sean Kelly (@theseankelly) <a href="https://twitter.com/theseankelly/status/1212891942188670976?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-9 22:23:14*
 
 ---
 
@@ -270,13 +206,9 @@ Green #Hydrogen has several near term applications, can grow to a $140
 billion per year in revenue and support 700,000 jobs by 2030. And
 that's just in the US!"
 
-*2020-1-9 22:19:38*
-
 ---
 
 dynaCERT is a BUY
-
-*2020-1-9 21:55:52*
 
 ---
 
@@ -287,8 +219,6 @@ Robotics Operating System 2
 [Github](https://github.com/ros2)
 
 It's open source of course not commercial, closed-source cuck
-
-*2020-1-9 21:52:48*
 
 ---
 
@@ -302,8 +232,6 @@ Iran - an Axis of Evil country let's not forget (the others were Iraq
 <img width="340" src="https://pbs.twimg.com/media/ENt9mS0UYAEVmNm?format=jpg&name=small"/>
 
 
-*2020-1-9 21:19:28*
-
 ---
 
 During Iran-Iraq War both sides tied. So it would be reasonable to
@@ -311,13 +239,9 @@ expect that Iran War would be as hard as the Iraq War.
 
 "Iran would be much worse (to fight against) than Iran"
 
-*2020-1-9 21:17:30*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be broadcast on Sat 18 Jan 2020; 08:32 UK time. <a href="https://t.co/Ivym3i9W9m">https://t.co/Ivym3i9W9m</a></p>&mdash; Graham Cooley (@GrahamCooley4) <a href="https://twitter.com/GrahamCooley4/status/1214844815759872000?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-9 18:3:30*
 
 ---
 
@@ -335,8 +259,6 @@ defunct. You cant ever not care abt what goes on outside.
 Having seen yet another dumb meme accusing libertarians of wanting to
 live alone in the woods,"
 
-*2020-1-9 15:12:26*
-
 ---
 
 Great story on Dantzig (shared [here](../../2016/08/dantzig.md) before) -
@@ -345,19 +267,13 @@ blackboard thinking they were homework problems, solves them, it turns
 out the probs were two (then) hardest, yet unsolved problems of
 statistics!
 
-*2020-1-9 13:18:22*
-
 ---
 
 Ah. Markowitz was a student of Dantzig. Of course.
 
-*2020-1-9 13:13:34*
-
 ---
 
 "Optimizing Optimization", nice (from a paper from proximal operators a method that allows scaling of opt)
-
-*2020-1-9 12:57:27*
 
 ---
 
@@ -370,13 +286,9 @@ to Trump as overly radical.
 
 Meanwhile, they extol 'bipartisanship...'"
 
-*2020-1-8 23:17:30*
-
 ---
 
 <img width="340" src="https://media2.giphy.com/media/3o6Ztn7QsncvRY58ty/source.gif"/>
-
-*2020-1-8 22:29:53*
 
 ---
 
@@ -386,13 +298,9 @@ Good one
 
 "If it doesn’t work, it doesn’t matter how fast it doesn’t work." - Mich Ravera
 
-*2020-1-8 22:11:55*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LAGARDE: CONCERTED EURO-AREA FISCAL STIMULUS WOULD HELP GROWTH<br><br>We need more debt to overcome the debt crisis</p>&mdash; zerohedge (@zerohedge) <a href="https://twitter.com/zerohedge/status/1214926473649414144?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-8 22:9:31*
 
 ---
 
@@ -400,20 +308,14 @@ I am really curious. Who the hell is it?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> $172m order for its <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> technology from Fortune 100 company. <a href="https://t.co/wQBWHruvPr">https://t.co/wQBWHruvPr</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1214209137829187585?ref_src=twsrc%5Etfw">January 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-8 21:25:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The U.S. does not want to engage in extensive operations in the Middle East. Washington is depending on sanctions and proxies. For Iran, directly controlling or at least neutralizing Iraq is a geopolitical imperative, but Tehran could not afford another war. - GF</p>&mdash; George Friedman (@George_Friedman) <a href="https://twitter.com/George_Friedman/status/1214953694476853255?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-8 21:15:6*
 
 ---
 
 I'd always wondered why they ended this show after S1, sometimes I thought bcz it was sorta seperatist? The browncoats are the Southerners, the Core is the Yankees and the show was kind of 
  rehashing the Civil War? But probably not... A lot of stuff like this gets made in TV land, and in the weird surveilance-capitalism times we live in today, we need shows like this.
-
-*2020-1-8 17:59:1*
 
 ---
 
@@ -427,13 +329,9 @@ You can't take the sky from me ♪♬♪♬♪♬
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Go on.............<a href="https://t.co/yRmU7LCp6z">https://t.co/yRmU7LCp6z</a></p>&mdash; Jewel Staite (@JewelStaite) <a href="https://twitter.com/JewelStaite/status/1214775071945834496?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-8 17:54:18*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow: „Production of <a href="https://twitter.com/hashtag/biogas?src=hash&amp;ref_src=twsrc%5Etfw">#biogas</a>, biomethane and “green” <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will have to skyrocket by at least 1,000% over the next three decades in order to reach the EU’s climate neutrality objective for 2050, an EU official has said.“ <a href="https://twitter.com/hashtag/Waserstoff?src=hash&amp;ref_src=twsrc%5Etfw">#Waserstoff</a> <a href="https://twitter.com/hashtag/Klimaziele?src=hash&amp;ref_src=twsrc%5Etfw">#Klimaziele</a> <a href="https://twitter.com/hashtag/Klima?src=hash&amp;ref_src=twsrc%5Etfw">#Klima</a> <a href="https://t.co/OYG9o6NTqg">https://t.co/OYG9o6NTqg</a></p>&mdash; Michel Doepke (@MichelDoepke) <a href="https://twitter.com/MichelDoepke/status/1214583756868259840?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-8 11:23:43*
 
 ---
 
@@ -445,10 +343,7 @@ You can't take the sky from me ♪♬♪♬♪♬
 
 Indian Railways has set in motion efforts to build a hydrogen-powered rail engine that can propel a passenger train on a suburban route by the end of 2021" via @kaffjamesnewtow
 
-*2020-1-7 21:36:33*
-
 ---
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I worked in John Kerry&#39;s war room when &#39;swiftboating&#39; entered the political lexicon. I worked for Hillary Clinton, the prime target of the rightwing attack machine.<br><br>When I tell you <a href="https://twitter.com/hashtag/Bernie?src=hash&amp;ref_src=twsrc%5Etfw">#Bernie</a> is the strongest candidate to handle the right&#39;s smears, I know what I&#39;m talking about. <a href="https://t.co/nahJPjIEsN">https://t.co/nahJPjIEsN</a></p>&mdash; Peter Daou (@peterdaou) <a href="https://twitter.com/peterdaou/status/1212790350496096256?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

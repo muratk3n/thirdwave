@@ -5,23 +5,17 @@ It's all about the G.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The value of g and its effect on Earth, Moon and Mars [bonus: Dave Scott Apollo 15 hammer &amp; feather experiment] <a href="https://t.co/UE2ZwDM6Dc">https://t.co/UE2ZwDM6Dc</a> [source of the gif: <a href="https://t.co/YvcXzrJKLZ">https://t.co/YvcXzrJKLZ</a>] <a href="https://t.co/uORCFi7nEn">pic.twitter.com/uORCFi7nEn</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1166953712952197121?ref_src=twsrc%5Etfw">August 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-29 9:45:57*
-
 ---
 
 [It's true](https://www.quandl.com/data/MULTPL/SHILLER_PE_RATIO_MONTH-Shiller-PE-Ratio-by-Month). 
 
 "The US stock market is heavily overvalued, as bad or worse than 1929 ... (according to Shiller's CAPE)" 
 
-*2019-8-29 8:56:4*
-
 ---
 
 "@Jkylebass
 
 CH PLA troops move into Hong Kong at 4am and call it a ‘normal rotation’. Funny, cameras didn’t pick up the troops that ‘rotated’ out."
-
-*2019-8-29 7:59:52*
 
 ---
 
@@ -31,16 +25,12 @@ Wut?
 
 [Link](https://mobile.twitter.com/jasonhickel/status/1166613332914315265)
 
-*2019-8-29 7:54:26*
-
 ---
 
 Dems quitting are probably leaving to save themselves the humiliation
 of being left out of the debates.
 
 "JUST IN: New York Senator Kirsten Gillibrand drops out of 2020 presidential race"
-
-*2019-8-29 7:42:35*
 
 ---
 
@@ -52,8 +42,6 @@ of being left out of the debates.
 
 - No 10 saying “if we lose confidence vote, we won’t resign”"
 
-*2019-8-28 23:34:18*
-
 ---
 
 😂😂😂😂😥😥😥😞
@@ -63,34 +51,24 @@ of being left out of the debates.
 
 Scottish court could rule Queen broke law by agreeing to suspend Parliament"
 
-*2019-8-28 23:30:23*
-
 ---
 
 "Two-thirds of Americans do not even participate in or have access to a 401(k) plan"
 
 [Link](https://www.marketwatch.com/story/americas-super-wealthy-own-more-stocks-leaving-average-people-in-the-dust-2019-01-28)
 
-*2019-8-28 23:1:49*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Quite a claim! <a href="https://t.co/0TiJkTlDbl">https://t.co/0TiJkTlDbl</a></p>&mdash; Renegade Inc. (@Renegade_Inc) <a href="https://twitter.com/Renegade_Inc/status/1166729678247346177?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-28 20:3:31*
 
 ---
 
 *Angel Has Fallen* is anti-war, anti military-industrial complex. They
 even had a version of Russiagate in the movie. Thumbs up.
 
-*2019-8-28 19:29:52*
-
 ---
 
 Read [this](https://muratk3n.github.io/thirdwave/en/2011/10/phd-graduate-studies.html) before joining a PhD program. 
-
-*2019-8-28 16:37:17*
 
 ---
 
@@ -100,13 +78,9 @@ True. Fixing ed is actually [really easy](https://muratk3n.github.io/thirdwave/e
 
 The reason most education startups fail is because they think education is about learning when it’s really about signaling"
 
-*2019-8-28 16:36:30*
-
 ---
 
 After MathJax transition instead of `make4ht` the new repo is 1/3 its previous size. Very awesome.
-
-*2019-8-28 16:28:40*
 
 ---
 
@@ -129,8 +103,6 @@ Mercedes is developing the FC GLC F-Cell"
 [Link](https://www.cnet.com/google-amp/news/time-to-buy-fuel-cell-car/)
 
 
-*2019-8-28 15:51:47*
-
 ---
 
 "A$15 million are being invested in a project that aims to create a
@@ -143,8 +115,6 @@ of hydrogen in underground salt caverns in Holland"
 
 [Link](https://www.azocleantech.com/amp/article.aspx?ArticleID=942&ArticleID=942)
 
-*2019-8-28 15:47:6*
-
 ---
 
 "@AWeigmannn 
@@ -155,8 +125,6 @@ and orders are already coming in"
 
 [Link](https://twitter.com/AWeigmannn/status/1166664275169107969)
 
-*2019-8-28 15:44:15*
-
 ---
 
 \#UBI The trick is knowing the difference between new money and
@@ -165,8 +133,6 @@ you do not print new money existence you cannot create inflation. They
 can't sell me Coke for 1000 dollars because now they __know__ I have
 1000 dollars in my pocket. Coke still has to compete against Pepsi,
 Dr. Pepper. Gatorade? What else was there.. Zima?
-
-*2019-8-28 14:0:28*
 
 ---
 
@@ -179,13 +145,9 @@ schemes they coopted unis, who teach through their tool, as a result
 web is full of examples in this closed source poop. The software is
 worse than opioids.
 
-*2019-8-28 13:46:39*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Italy 🇮🇹 is too big to fail and yet too big to be saved (at over €4 trillion of debt).It’s the first of its kind globally that doesn’t have its own central bank to buy its bonds at will. This identity will likely cause another euro zone crisis in the next few years. <a href="https://twitter.com/hashtag/italy?src=hash&amp;ref_src=twsrc%5Etfw">#italy</a> <a href="https://twitter.com/hashtag/tbtf?src=hash&amp;ref_src=twsrc%5Etfw">#tbtf</a></p>&mdash; Kyle Bass (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1166651336382996480?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-28 13:1:37*
 
 ---
 
@@ -195,25 +157,17 @@ circle in prison"
 
 [Link](https://mobile.twitter.com/NewYorkGOP/status/1166396305469517829)
 
-*2019-8-28 7:32:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please welcome the World&#39;s largest <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> plane that doesn&#39;t require any fossil fuels by ZeroAvia.<br><br>Batteries are too heavy for liftoff. The lightweight and high energy density of <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> will not only liftoff, but provide 500 miles of range. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/88dvF5QlEw">https://t.co/88dvF5QlEw</a> <a href="https://t.co/qmH4W16xkN">pic.twitter.com/qmH4W16xkN</a></p>&mdash; H2 &amp; Fuel Cell News (@H2NewsGlobal) <a href="https://twitter.com/H2NewsGlobal/status/1161645447427108867?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-28 7:7:21*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Beautiful yet terrifying - Hawaii <a href="https://t.co/EVxfDpCFDv">pic.twitter.com/EVxfDpCFDv</a></p>&mdash; Physics &amp; Astronomy Zone (@ZonePhysics) <a href="https://twitter.com/ZonePhysics/status/1165353164511633413?ref_src=twsrc%5Etfw">August 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-27 18:39:22*
-
 ---
 
 Oreos yes. I never tried Ding Dong. I hear they are good.
-
-*2019-8-27 14:20:43*
 
 ---
 
@@ -224,15 +178,11 @@ MMMmmmm HHHhhmmm
 I highly recommend it. It overwrites everyhing :-|. Spring cleaning
 (for personal repos obv, if not care abt the commit log).
 
-*2019-8-27 14:15:35*
-
 ---
 
 I have to do everything from scratch. It's a curse. I even rewrote the
 f--ng `rsync` for my needs, as in syncing one dir with another
 dir. 
-
-*2019-8-27 13:28:38*
 
 ---
 
@@ -244,30 +194,22 @@ hold to maturity; the motive is to sell at a profit as rates go even
 lower - to 'flip'. You don't need a PhD to guess what happens when the
 herd gets spooked"
 
-*2019-8-27 13:3:38*
-
 ---
 
 When will anyone do a
 [ROM](https://en.wikipedia.org/wiki/Rom_(comics)) movie? It could be
 done in a very space-opera-ish way.
 
-*2019-8-27 10:59:4*
-
 ---
 
 Going over all work is good opportunity to fix weird errors hidden
 (forgotten) in it.
-
-*2019-8-27 10:52:43*
 
 ---
 
 Running for Prez in your 30s? C'mon. That alone communicates to me you
 don't know what you don't know, a bigger sin in my eyes than not
 knowing itself. See you in 20 years. 
-
-*2019-8-27 10:8:10*
 
 ---
 
@@ -283,8 +225,6 @@ in 1958. NYT reported 'the embryo of an electronic computer that [the
 Navy] expects will be able to walk, talk, see, write, reproduce itself
 and be conscious of its existence.'"
 
-*2019-8-27 7:46:33*
-
 ---
 
 "@zomgapocalypse
@@ -295,25 +235,17 @@ miles at 100% charge.'
 
 $TSLA #TeslaRangeIssues"
 
-*2019-8-26 20:55:57*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">economists don&#39;t receive The Nobel Prize, precisely bc economy is no science. They get a paid-for-by-a-bank Nobel Memorial Prize or somesuch name. The Mont Pelerin Society craved the prestigious prize to better spread their inhumane ideology of lawless greed &amp;invented the mockup.</p>&mdash; anlomedad (@anlomedad) <a href="https://twitter.com/anlomedad/status/1166035099869155328?ref_src=twsrc%5Etfw">August 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-26 20:37:26*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe instead we should just tell our undergrads to go into energy-useful fields like chem-e, nuclear physics, materials science, solid-state physics, and the like. The brain isn&#39;t going to be solved in the next 50 years so maybe there should be zero neuro until climate is fixed.</p>&mdash; Eric Jonas (@stochastician) <a href="https://twitter.com/stochastician/status/1166024077364080642?ref_src=twsrc%5Etfw">August 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-26 20:35:55*
-
 ---
 
 Background independence is key. Cop QM is defective for that reason too, they always assume a coordinate system. 
-
-*2019-8-26 17:22:4*
 
 ---
 
@@ -325,8 +257,6 @@ space-first view.
 Many-Worlds - Barf.
 
 [Vid](https://youtu.be/tafGL02EUOA?t=527)
-
-*2019-8-26 17:19:6*
 
 ---
 
@@ -351,15 +281,11 @@ Dum-dum dum-dum, dum-dum dum-dum
 
 "Mark Carney: dollar is too dominant and could be replaced by digital currency"
 
-*2019-8-26 13:31:29*
-
 ---
 
 Fantastic! 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientists at Manchester University have invented a graphene sieve that turns salt water into filtrated drinking water. <br><br>This ground breaking innovation could help to provide safe drinking water for millions of people. <a href="https://twitter.com/hashtag/tech?src=hash&amp;ref_src=twsrc%5Etfw">#tech</a> <a href="https://twitter.com/hashtag/innovation?src=hash&amp;ref_src=twsrc%5Etfw">#innovation</a><a href="https://t.co/pRio7cB2x1">pic.twitter.com/pRio7cB2x1</a></p>&mdash; James Melville (@JamesMelville) <a href="https://twitter.com/JamesMelville/status/1165511813485776897?ref_src=twsrc%5Etfw">August 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-26 10:51:43*
 
 ---
 
@@ -372,8 +298,6 @@ compliment.
 How plants domesticated *us* by finding our pleasure centers (sweet,
 intoxicating, etc) and addicting us to them"
 
-*2019-8-26 8:49:21*
-
 ---
 
 "@paulg
@@ -382,8 +306,6 @@ The mistakes that inexperienced founders make have a lot in common
 with those that inexperienced writers make. They go about things in an
 overcomplicated way, because the obvious, simple approach doesn't seem
 'serious' enough"
-
-*2019-8-26 7:40:57*
 
 ---
 

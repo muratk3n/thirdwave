@@ -920,8 +920,6 @@ Is he doing a BLM thing or kneeling in front of pagan Gods of money
 
 <img width="340" src="https://pbs.twimg.com/media/EZxvfoTWkAEdUqu?format=jpg&name=small"/>
 
-*2020-06-06 14:37:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">now, wait a fucking minute y&#39;all 💀💀💀 <a href="https://t.co/GP1aU33P5Y">pic.twitter.com/GP1aU33P5Y</a></p>&mdash; Z✨ (@crueloverz) <a href="https://twitter.com/crueloverz/status/1268916526024802308?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -8,21 +8,15 @@ smaller businesses"
 
 [Link](https://mobile.twitter.com/RoryVanLoo/status/1255853230409625601)
 
-*2020-5-1 19:16:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen Industry: The Dawning Of The <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/Economy?src=hash&amp;ref_src=twsrc%5Etfw">#Economy</a> <a href="https://t.co/WD8L1rYcWX">https://t.co/WD8L1rYcWX</a></p>&mdash; BayoTech On-Site Hydrogen Generation (@H2Bayo) <a href="https://twitter.com/H2Bayo/status/1256192516094939136?ref_src=twsrc%5Etfw">May 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-1 19:15:55*
 
 ---
 
 The three UFO videos
 
 [Link](https://youtu.be/Q7jcBGLIpus)
-
-*2020-5-1 17:9:39*
 
 ---
 
@@ -32,8 +26,6 @@ energy?
 
 "A solar-powered hydrogen station has been built in the Japanese town
 of Namie, which can power 560 fuel-cell cars a day"
-
-*2020-5-1 16:33:1*
 
 ---
 
@@ -45,15 +37,11 @@ Looks fun
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GOOD NEWS guys, not ALL the <a href="https://twitter.com/hashtag/sports?src=hash&amp;ref_src=twsrc%5Etfw">#sports</a> are canceled!<br>But: is this a game, a manly duel, or a bad romance? <a href="https://twitter.com/hashtag/bunnyhop?src=hash&amp;ref_src=twsrc%5Etfw">#bunnyhop</a> <a href="https://t.co/t4KRhi5osc">pic.twitter.com/t4KRhi5osc</a></p>&mdash; Elizabeth Withey (@lizwithey) <a href="https://twitter.com/lizwithey/status/1255726551154360320?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-1 11:9:22*
-
 ---
 
 You got that [backwards](../../2020/05/roman-anatolia.md)
 
 "Paraphrasing: the arriving ppl from Central As changed Anatolia"
-
-*2020-5-1 11:34:2*
 
 --
 
@@ -120,26 +108,18 @@ print (list(df.columns))
 This dataset can be useful for researchers. There is a codebook
 describing all the columns.
 
-*2020-5-1 10:5:7*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="de" dir="ltr"><a href="https://twitter.com/search?q=%24DGB&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DGB</a> vs <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> <a href="https://t.co/fJcMc6XYHJ">https://t.co/fJcMc6XYHJ</a> <a href="https://t.co/mgCNDUwE7L">pic.twitter.com/mgCNDUwE7L</a></p>&mdash; IdealFog (@IdealFog) <a href="https://twitter.com/IdealFog/status/1254815512715919365?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-1 10:2:27*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">21 USC §§331, 333, 343(g) &amp; 21 CFR §133.154 make it a federal crime to sell high-moisture jack cheese if it isn&#39;t moist enough, but not too moist.</p>&mdash; A Crime a Day (@CrimeADay) <a href="https://twitter.com/CrimeADay/status/1256061343167176705?ref_src=twsrc%5Etfw">May 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-1 7:39:30*
-
 ---
 
 There is data from Quandl on this but time series stops at 2018 for
 some reason. Ideally I'd like to get it from them.
-
-*2020-5-1 7:38:0*
 
 ---
 
@@ -176,22 +156,16 @@ date
 2021-01-01   99.011546
 ```
 
-*2020-5-1 7:25:3*
-
 ---
 
 Emacs! 👍
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Typing.<br>Emacs.<br>Measure theory/Lebesgue integration. <a href="https://t.co/2wPIH8QJLI">https://t.co/2wPIH8QJLI</a></p>&mdash; Dirk L. (@Dirque_L) <a href="https://twitter.com/Dirque_L/status/1256257898050658304?ref_src=twsrc%5Etfw">May 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-1 7:24:1*
-
 ---
 
 BTW - who names a health insurance after one of the most deadliest
 snakes in the world? These ppl are psychopaths.
-
-*2020-4-30 21:30:24*
 
 ---
 
@@ -225,15 +199,11 @@ it is beyond distasteful to hear of this stuff.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally.<a href="https://t.co/jBKwJh7Y63">https://t.co/jBKwJh7Y63</a></p>&mdash; Governor Jay Inslee (@GovInslee) <a href="https://twitter.com/GovInslee/status/1255900615353397250?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-30 21:30:24*
-
 ---
 
 The tech sucks - get out, pronto \#bitshitcoin
 
 <img src="https://pbs.twimg.com/media/EW3sNJoXYAAH0tO?format=jpg&name=small"/>
-
-*2020-4-30 20:49:1*
 
 ---
 
@@ -241,27 +211,19 @@ The tech sucks - get out, pronto \#bitshitcoin
 
 [Link](https://asiatimes.com/2020/04/lebanese-elites-flee-as-banks-come-under-attack/)
 
-*2020-4-30 20:47:41*
-
 ---
 
 Interesting in Trek universe the ugliest looking motherfuckers are an
 alien race of uber-capitalists. 
-
-*2020-4-30 19:24:5*
 
 ---
 
 The main constitutional doc for Ferrengis is "Ferrengi Bill of
 Opportunities" 😆😆😆
 
-*2020-4-30 19:23:25*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The fuel of the future has become the fuel of the now. LA is replacing a coal-fueled power plant with one that will run completely on <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a>: <a href="https://t.co/mfmg9euAwf">https://t.co/mfmg9euAwf</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/climate?src=hash&amp;ref_src=twsrc%5Etfw">#climate</a> <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a></p>&mdash; Ballard Power (@BallardPwr) <a href="https://twitter.com/BallardPwr/status/1255558466569199617?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-30 18:40:47*
 
 ---
 
@@ -276,8 +238,6 @@ Opportunities" 😆😆😆
 The first serious Covid-19 case in Minnesota was a 38-year-old Ironman
 athlete who nearly died and still relies on oxygen five weeks later"
 
-*2020-4-30 18:34:16*
-
 ---
 
 "Bosch intends to position itself successfully in another growth
@@ -291,19 +251,13 @@ stations will be worth more than €20bn by 2030"
 
 [Link](https://www.h2-view.com/story/bosch-ceo-calls-for-a-move-to-a-hydrogen-economy/)
 
-*2020-4-30 15:50:47*
-
 ---
 
 <img width="240"  src="https://pbs.twimg.com/media/EW0HHtKXgAARPRD?format=jpg&name=small"/>
 
-*2020-4-30 15:47:29*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The populist right is far more real in advocating for actual people than any of the lefts grandstanding. <a href="https://t.co/2LssO5s65r">https://t.co/2LssO5s65r</a></p>&mdash; Dylan Ratigan (@DylanRatigan) <a href="https://twitter.com/DylanRatigan/status/1255573829491056641?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-30 9:37:24*
 
 ---
 
@@ -313,8 +267,6 @@ The Mayor of Los Angeles has announced that effective immediately, any
 LA resident can get tested for coronavirus, regardless of whether they
 have symptoms. The tests are free of charge. LA is the first major
 city in America to offer this"
-
-*2020-4-30 7:30:44*
 
 ---
 
@@ -326,16 +278,12 @@ doing it to remind us that the Military Industrial Complex will keep
 gorging on our tax money while we're left to suffer through a
 pandemic"
 
-*2020-4-30 7:27:1*
-
 ---
 
 "Walmart’s distribution centre in Gordonsville, Virginia ... operates a
 fleet of 273 hydrogen fuel cell forklifts"
 
 [Link](https://www.h2-view.com/story/hydrogen-fuel-cells-playing-essential-role-in-keeping-food-on-shelves-in-the-us/)
-
-*2020-4-29 20:10:23*
 
 ---
 
@@ -344,8 +292,6 @@ fleet of 273 hydrogen fuel cell forklifts"
 Taxpayers helped fund the development of remdesivir — keep this in
 mind if Gilead attempts to fleece the public with high prices for the
 medicine"
-
-*2020-4-29 17:58:8*
 
 ---
 
@@ -360,8 +306,6 @@ following the 2000 presidential election"
 
 [Link](https://www.usnews.com/news/national-news/articles/2018-01-29/10-things-you-didnt-know-about-alex-azar)
 
-*2020-4-29 17:56:33*
-
 ---
 
 Marco. Polo. 
@@ -369,8 +313,6 @@ Marco. Polo.
 Nikola. Tesla.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Patent Office gives Nikola a small victory in $2B lawsuit over Tesla Semi--<a href="https://t.co/6lKx4KtxNC">https://t.co/6lKx4KtxNC</a> <a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/O2ZlJiKJZO">pic.twitter.com/O2ZlJiKJZO</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1255509472849661954?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-29 17:55:33*
 
 ---
 
@@ -380,8 +322,6 @@ too "external", there were gas lines, .. due to Iran, so external
 again..?  But Carter lost. -8% GDP growth, net popularity -21%!
 
 "But the econ crisis was the effect of something external"
-
-*2020-4-29 16:35:1*
 
 ---
 
@@ -393,13 +333,9 @@ challenger.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html)
 
-*2020-4-29 16:23:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">byeeeeeeeeeeeeeeeee <a href="https://t.co/7VHsTLHXNo">https://t.co/7VHsTLHXNo</a></p>&mdash; Dr Matt Cole (@MattColeWorks) <a href="https://twitter.com/MattColeWorks/status/1255449305151913985?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-29 15:36:13*
 
 ---
 
@@ -412,13 +348,9 @@ results were an excellent indication the vaccine worked as expected"
 
 [Link](https://www.9news.com.au/national/coronavirus-university-of-queensland-vaccine-shows-promising-results/6fc2cf99-3db5-4710-bf64-c5a9d68c79b5)
 
-*2020-4-29 13:24:39*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> is THE fastest, decentralized cryptocurrency and it DOESN&#39;T have fees. <a href="https://t.co/ZLGdT8KY4o">pic.twitter.com/ZLGdT8KY4o</a></p>&mdash; CoinMoon🌎🌍🌏 (@CoinMoon5) <a href="https://twitter.com/CoinMoon5/status/1255431796688371714?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-29 13:23:23*
 
 ---
 
@@ -427,13 +359,9 @@ Australia-Perth"
 
 [Link](https://twitter.com/william_sw/status/1255401426433564672)
 
-*2020-4-29 13:21:59*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the plot of every single episode of star trek ever <a href="https://t.co/ch4UyEYtXl">https://t.co/ch4UyEYtXl</a></p>&mdash; Tim Maughan (@timmaughan) <a href="https://twitter.com/timmaughan/status/1255256091396657153?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-29 6:50:31*
 
 ---
 
@@ -442,8 +370,6 @@ Australia-Perth"
 If you’re building an API for analytical data I have a secret for you:
 the answer is CSVs, not the goddamn ridiculous hierarchical restful
 piece of bullshit you built"
-
-*2020-4-29 6:34:25*
 
 ---
 
@@ -454,8 +380,6 @@ I dont know.. 🤔 sounds suggestive to me..
 >Said the Cat in the Hat
 >
 >To the fish in the pot
-
-*2020-4-28 23:23:6*
 
 ---
 
@@ -474,8 +398,6 @@ complaint proceeding, Hart said....
 
 [Link](https://www.nbcnews.com/news/amp/ncna1194436)
 
-*2020-4-28 23:22:46*
-
 ---
 
 "@natashalennard
@@ -484,16 +406,12 @@ Based on mainstream news coverage alone you’d likely never know that
 organizers and tenants in New York are preparing the largest
 coordinated rent strike in nearly a century, to begin on May 1"
 
-*2020-4-28 20:57:32*
-
 ---
 
 New breakfast regime going well, almonds, walnuts, dried apricot,
 etc.. Extremely durable stuff. Tested bags of it in camp gear for
 weeks, shit wont go bad. I can imagine going whole day on such breakf,
 in outdoor conditions.
-
-*2020-4-28 20:51:41*
 
 ---
 
@@ -504,8 +422,6 @@ Wow
 Peasants didn't 'bargain for better pay and conditions' after the
 plague, they got them by killing tax collectors, executing the
 chancellor, and burning down the Savoy"
-
-*2020-4-28 20:46:1*
 
 ---
 
@@ -524,13 +440,9 @@ is pretty much the exact same process as for a gasoline car"
 
 [Link](https://thenextweb.com/shift/2020/04/20/scientists-electric-vehicle-hydrogen-storage-breakthrough-metallic-sponges/)
 
-*2020-4-28 20:37:56*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Researchers, led by scientists from <a href="https://twitter.com/NorthwesternU?ref_src=twsrc%5Etfw">@NorthwesternU</a>, say they have developed a metallic sponge-like material that’s capable of storing greater quantities of <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> at much lower — and safer — pressures when compared to conventional tanks <a href="https://t.co/rwTqABhzCG">https://t.co/rwTqABhzCG</a>.</p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1255182523249954816?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-28 20:37:56*
 
 ---
 
@@ -541,16 +453,12 @@ Russia has offloaded the management of HTS to Ankara, a cost free
 outcome of Sochi 2.0. Still in wait and see mode, but this is quite
 the pickle Ankara now finds itself in"
 
-*2020-4-28 18:54:50*
-
 ---
 
 "@Jkylebass
 
 The Controversial Experiments and Wuhan Lab Suspected of Starting the
 Coronavirus Pandemic - US Defense Intelligence Agency"
-
-*2020-4-28 17:12:38*
 
 ---
 
@@ -560,26 +468,18 @@ Hyosung & Linde Group Sign Agreement to Build the World’s Biggest
 Liquid Hydrogen Plant-Plant will have an annual capacity of 13,000
 tons of liquid \#hydrogen, enough to fuel 100,000"
 
-*2020-4-28 17:8:15*
-
 ---
 
 *The Expanse* last season sucked. They shouldn't have saved this show
  (almost got canceled, last year)
 
-*2020-4-28 17:5:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wolfenstein 3D render loop in pure hardware! No CPU, no instruction pointer, no opcodes, only wires and flip-flops. Here runs on a Mojo V3 board (Xilinx Spartan 6) + SDRAM. Reading <a href="https://twitter.com/fabynou?ref_src=twsrc%5Etfw">@fabynou</a> black books while learning about <a href="https://twitter.com/hashtag/FPGA?src=hash&amp;ref_src=twsrc%5Etfw">#FPGA</a> could only lead to this ;-)<br>(1/n) <a href="https://t.co/k70Nz5t3Iz">pic.twitter.com/k70Nz5t3Iz</a></p>&mdash; Sylvain Lefebvre (@sylefeb) <a href="https://twitter.com/sylefeb/status/1254711510812602368?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-28 12:3:29*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">With batteries not powerful enough for at least 30 percent of bus routes our green hydrogen buses are the practical option for long ranges. Up to 3,000 of our zero-emission hydrogen buses could take to the road in the next few years <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/wecantwait?src=hash&amp;ref_src=twsrc%5Etfw">#wecantwait</a> <a href="https://t.co/3XoP2zgRPm">https://t.co/3XoP2zgRPm</a></p>&mdash; RyseHydrogen #wecantwait (@RyseHydrogen) <a href="https://twitter.com/RyseHydrogen/status/1255031522517794817?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-28 11:59:16*
 
 ---
 
@@ -591,19 +491,13 @@ cracked. Googled the message =>corroborating it's a known scam =>damn
 near 100% sure. Super simple reasoning yet strangely beyond what ML
 does reliably"
 
-*2020-4-28 9:24:46*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Volvo Group and Daimler Truck AG form joint venture for large-scale production of fuel cells. <a href="https://t.co/zf9Rvkv90f">https://t.co/zf9Rvkv90f</a><a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/trucks?src=hash&amp;ref_src=twsrc%5Etfw">#trucks</a> <a href="https://twitter.com/hashtag/trucking?src=hash&amp;ref_src=twsrc%5Etfw">#trucking</a></p>&mdash; Keith Malone (@ANativeAngeleno) <a href="https://twitter.com/ANativeAngeleno/status/1254810149543456778?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-27 19:47:30*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be clear: I haven&#39;t filed anything. I authorized a letter of interest that was sent on my behalf to the Greens and I&#39;m testing the waters for Green Party nomination. I&#39;m an independent. I&#39;m not a Democrat or a Republican because I know they&#39;re not the solution.</p>&mdash; Jesse Ventura (@GovJVentura) <a href="https://twitter.com/GovJVentura/status/1254783040594702338?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-27 18:17:25*
 
 ---
 
@@ -611,25 +505,17 @@ Interesting they thought there'd still be waiters in the future
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">PHOTO OF THE DAY. A vision of the future from a German Magazine (1930). <a href="https://t.co/DpeOy6NQ6B">pic.twitter.com/DpeOy6NQ6B</a></p>&mdash; Professor Frank McDonough (@FXMC1957) <a href="https://twitter.com/FXMC1957/status/1254688521404678145?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-27 17:20:28*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germany: Gas Pipeline Operator OGE Plans Huge Hydrogen Network--&quot;Up to now we have been able to add up to two percent <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. The next step would be to switch to 100 percent hydrogen directly on certain lines&quot;--<a href="https://t.co/zlXhZp7uRh">https://t.co/zlXhZp7uRh</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/tn7HZwoDfl">pic.twitter.com/tn7HZwoDfl</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1254759882399588356?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-27 16:14:34*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">German start-up <a href="https://twitter.com/hashtag/HoellerElectrolyser?src=hash&amp;ref_src=twsrc%5Etfw">#HoellerElectrolyser</a> has one clear goal: <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> for less than €4 per kilogram.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/X3orFz2YaT">https://t.co/X3orFz2YaT</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1254725642920361984?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-27 15:41:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Isaac Ben-Israel is an Israeli going around saying the pandemic will end in 70 days. He has a &quot;paper&quot; in Hebrew (I read Hebrew). Below is one of the graphs on which he is basing his prediction.<br><br>HE FIT A SIXTH ORDER POLYNOMIAL TO THE DATA <br>😱😱😱😱😱😱<br> (c=2E21 😱) <a href="https://t.co/N7tKmoHBk0">pic.twitter.com/N7tKmoHBk0</a></p>&mdash; Lior Pachter (@lpachter) <a href="https://twitter.com/lpachter/status/1254692980004274176?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-27 15:34:7*
 
 ---
 
@@ -637,8 +523,6 @@ Interesting they thought there'd still be waiters in the future
 
 Plans for a UK-built, 3,000-strong hydrogen bus fleet across the
 country, have been revealed today by Wrightbus owner Jo Bamford"
-
-*2020-4-27 14:36:6*
 
 ---
 
@@ -656,19 +540,13 @@ the current official total of 201,000 to as high as 318,000"
 
 [Link](https://amp.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
 
-*2020-4-27 13:46:42*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The company before last spent all their time writing wrappers for AWS tools</p>&mdash; Present (@shoecatladder) <a href="https://twitter.com/shoecatladder/status/1254511807806369792?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-4-27 12:4:41*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Solving a debt &amp; leverage problem with more debt doesn&#39;t work <a href="https://t.co/IVi9K4CZUY">https://t.co/IVi9K4CZUY</a></p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1254525742119096326?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-27 1:12:29*
 
 ---
 
@@ -680,21 +558,15 @@ education will decline by $23bn over the next academic year"
 
 [Link](https://amp.ft.com/content/e5d50e86-861a-11ea-b872-8db45d5f6714)
 
-*2020-4-26 22:48:53*
-
 ---
 
 I bet momentum trading strategies did well for so long bcz chasing the
 FED paid off handsomely. That's what these things do, go after the
 herd, and FED created the perfect trend to follow.
 
-*2020-4-26 21:56:29*
-
 ---
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">i haven’t spent my $1200 yet</p>&mdash; beth (@bethbourdon) <a href="https://twitter.com/bethbourdon/status/1254280299313315840?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-26 21:12:4*
 
 ---
 
@@ -705,13 +577,9 @@ the unemployment rate: many people who couldn't find jobs after the
 Great Recession simply took on a ton of student loans and went back to
 school. Voilà - they no longer counted as unemployed! It's magic!"
 
-*2020-4-26 21:9:1*
-
 ---
 
 The NBER [paper](http://www.nber.org/papers/w21967.pdf)
-
-*2020-4-26 21:8:5*
 
 ---
 
@@ -727,8 +595,6 @@ all eligible parents have access to the money"
 
 [Link](https://www.forbes.com/sites/prestoncooper2/2017/02/22/how-unlimited-student-loans-drive-up-tuition/#1166275352b6)
 
-*2020-4-26 21:7:15*
-
 ---
 
 GS underwriting wld increase the appeal of these bonds of course,
@@ -738,8 +604,6 @@ see that? Not the smartest ppl in the room per article.
 "@mtaibbi
 
 [GS] underwrote the bonds for the nonexistent development projects in the 1MDB fund"
-
-*2020-4-26 21:5:35*
 
 ---
 
@@ -751,22 +615,16 @@ Of course, David Hewlett. He called ZPM Zed-PM!
 
 Go ZED! Good job.
 
-*2020-4-26 19:44:48*
-
 ---
 
 Which actor is from Canada with some accent so I can half-jokingly
 mock the accent and congratulate?
-
-*2020-4-26 19:42:44*
 
 ---
 
 Canada! 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canadians are receiving $2000/month and their GDP per capita is about 2/3 of ours. So when you&#39;re struggling to pay rent remember - it&#39;s not that they couldn&#39;t help us more, it&#39;s that they chose not to.</p>&mdash; Albert Lee For Congress 🌹 (@AlbertLee2020) <a href="https://twitter.com/AlbertLee2020/status/1254208161591857158?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-26 19:42:35*
 
 ---
 
@@ -776,8 +634,6 @@ If Germany borrows money on capital markets, including from wealthy
 Italians, and then channels that money to Italy by way of the EU
 budget what does it amount to? A eurobond but one controlled by
 Germany! Great from @KeineWunder"
-
-*2020-4-26 16:13:48*
 
 ---
 
@@ -792,8 +648,6 @@ It is certainly easier to transmit gas with lower energy losses. And
 it can be stored, unlike electricity"
 
 [Link](https://physicsworld.com/a/rethinking-power-pipes-versus-wires/)
-
-*2020-4-26 14:52:6*
 
 ---
 
@@ -823,13 +677,9 @@ distance from the sleeping area to houses"
 
 [Link](https://www.zeit.de/kultur/2020-04/zelten-coronavirus-krise-tourismus-umweltschutz-jedermannsrecht)
 
-*2020-4-26 14:32:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can we all agree on how invasive getting someone&#39;s phone number is?<br><br>Shit&#39;s fucking oppressive.</p>&mdash; crummy (@crummysaint) <a href="https://twitter.com/crummysaint/status/1254266542033960961?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-4-26 11:22:49*
 
 ---
 

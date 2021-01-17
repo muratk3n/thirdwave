@@ -21,8 +21,6 @@ more violence in the form of organized conflict, and self-appointed
 elites who used monotheistic religion to lock in their power"
 \#civilizedToDeath
 
-*2019-11-27 22:12:32*
-
 ---
 
 @Discovery
@@ -34,26 +32,18 @@ one of the most dangerous waterways in the world.
 
 [Link](https://twitter.com/Discovery/status/1199740249808748544)
 
-*2019-11-27 21:4:9*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">No problem, just use the slot to go through the now unredacted document that lays out what Boris Johnson will do to our NHS in order to get a trade deal with the US.</p>&mdash; Phil (@Philmoorhouse76) <a href="https://twitter.com/Philmoorhouse76/status/1199703448415068161?ref_src=twsrc%5Etfw">November 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-27 18:24:24*
 
 ---
 
 Suman Dutta - good writing. Chemistry guy, dabbles in
 optimization. 
 
-*2019-11-27 16:3:11*
-
 ---
 
 Switched over to duckduckgo - good so far.
-
-*2019-11-27 15:49:49*
 
 ---
 
@@ -63,8 +53,6 @@ of AT&T.
 
 So by around 2080 we might see some action.
 
-*2019-11-27 15:12:39*
-
 ---
 
 Lowering interest rates not spurring growth.
@@ -73,20 +61,14 @@ Same story everywhere, apparently in AUS too.
 
 [Link](https://youtu.be/_V5E2sWHhpM?t=182)
 
-*2019-11-27 9:28:45*
-
 ---
 
 Steering wheel on the right side? Like UK? \#AUS
-
-*2019-11-27 9:26:49*
 
 ---
 
 Aha; butta means "throw", fuoco means "fire". So the name is not
 about butt f--ing. But of course everyone interprets it that way.
-
-*2019-11-27 9:19:2*
 
 ---
 
@@ -96,8 +78,6 @@ Time traveler from the past: \*disgusted\* You haven't ended hunger or
 war or poverty but you have a phone in your pocket with a camera?
 
 Me: No... it has two cameras"
-
-*2019-11-27 7:59:45*
 
 ---
 
@@ -124,15 +104,11 @@ nickel, and lithium"
 
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261919301606?via%3Dihub)
 
-*2019-11-27 0:13:36*
-
 ---
 
 Interesting..
 
 <img width="400" src="https://comps.canstockphoto.com/phosphoric-acid-fuel-cell-image_csp48425070.jpg"/>
-
-*2019-11-26 23:56:2*
 
 ---
 
@@ -140,8 +116,6 @@ Dude
 
 "[Werner Herzog] was born during World War II, and when only a couple
 of weeks old, the house next door got bombed"
-
-*2019-11-26 22:24:13*
 
 ---
 
@@ -165,8 +139,6 @@ to quash dissent, Morales was forced into exile in Mexico"
 [THE END]
 
 [Link](https://www.theatlantic.com/ideas/archive/2019/11/bolivias-protests-outcome/602644)
-
-*2019-11-26 22:14:15*
 
 ---
 
@@ -192,14 +164,10 @@ Got gold?"
 Actually, I’m think of moving into harder assets at this point. Canned
 food and shotgun shells"
 
-*2019-11-26 21:17:41*
-
 ---
 
 "Whenever you find yourself on the side of the majority, it is time to
 pause and reflect.” - Mark Twain
-
-*2019-11-26 21:15:3*
 
 ---
 
@@ -212,15 +180,11 @@ Reserve Police. According to Wikipedia, over 1000 sworn members,
 complete with Special Response Teams, Explosive Detector Dog Teams,
 Hazardous Materials teams and Active Shooter/Patrol Rapid Teams"
 
-*2019-11-26 18:37:18*
-
 ---
 
 @tixhonjm
 
 China on track to increase production of hydrogen fuel-cell vehicles by 53% in 2019 - Renewable Energy World
-
-*2019-11-26 17:32:38*
 
 ---
 
@@ -228,8 +192,6 @@ China on track to increase production of hydrogen fuel-cell vehicles by 53% in 2
 Very important point. Wout "free stuff" (Linux) libertard goldcucks
 would not have the "commercial stuff" (Android phones). iPhones have
 similar levels of free, publicly-funded research in them. 
-
-*2019-11-26 13:41:5*
 
 ---
 
@@ -240,8 +202,6 @@ Linux (the core of all Android phones), u name it.
 Text based. Code. Not rotating balls. That's how it works.
 
 [Link](https://linuxacademy.com/blog/linux/introduction-using-diff-and-patch/)
-
-*2019-11-26 13:31:4*
 
 ---
 
@@ -303,8 +263,6 @@ These still are just a few words.
 One word is worth thousand pictures
 ```
 
-*2019-11-26 13:10:8*
-
 ---
 
 
@@ -317,8 +275,6 @@ large enough tents, or H2 RVs. Private land is reduced to minimum,
 monetary system through non-mined ecash where debt is issued based on
 repayment success.
 
-*2019-11-26 13:1:58*
-
 ---
 
 "@Philmoorhouse76
@@ -328,15 +284,11 @@ against the Tories this year, as Brexit keeps devouring its children"
 
 [Link](https://twitter.com/Philmoorhouse76/status/1199267512275390464)
 
-*2019-11-26 13:1:58*
-
 ---
 
 Rose's Pawn Shop - Danger Behind the Wheel \#music
 
 [Link](https://youtu.be/fT693nxWfnA)
-
-*2019-11-26 11:42:59*
 
 ---
 
@@ -346,15 +298,11 @@ bad state of the so-called monotheist religions has to do with
 co-optation of them by the agro-mafia-state. The Catholic Jesus is not
 the same Jesus who preached to people.
 
-*2019-11-26 9:38:3*
-
 ---
 
 Cat, kitty face filter
 
 [Link](https://mobile.twitter.com/USATODAY/status/1198674896441749507)
-
-*2019-11-25 23:44:27*
 
 ---
 
@@ -366,15 +314,11 @@ the Bolsonaro government..
 
 [Link](https://mobile.twitter.com/ggreenwald/status/1198963776005005313)
 
-*2019-11-25 22:23:4*
-
 ---
 
 Corbyn talking smack to Bezos. Gold.
 
 [Link](https://twitter.com/jeremycorbyn/status/1198725492792270856)
-
-*2019-11-25 19:26:3*
 
 ---
 
@@ -383,13 +327,9 @@ Corbyn talking smack to Bezos. Gold.
 Atmospheric rises in greenhouse gases CO2, CH4, and N2O in 2018 all
 greater than their annual rises in previous years"
 
-*2019-11-25 19:24:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Norled&#39;s liquid hydrogen-fueled <a href="https://twitter.com/hashtag/ferry?src=hash&amp;ref_src=twsrc%5Etfw">#ferry</a> will be a game-changer for the ferry industry and beyond: <a href="https://t.co/NDgOOEgLSx">https://t.co/NDgOOEgLSx</a> <a href="https://twitter.com/hashtag/maritime?src=hash&amp;ref_src=twsrc%5Etfw">#maritime</a> <a href="https://twitter.com/hashtag/shipping?src=hash&amp;ref_src=twsrc%5Etfw">#shipping</a> <a href="https://t.co/uthuonsIsz">pic.twitter.com/uthuonsIsz</a></p>&mdash; Ballard Power (@BallardPwr) <a href="https://twitter.com/BallardPwr/status/1198990223058882560?ref_src=twsrc%5Etfw">November 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-25 19:19:51*
 
 ---
 
@@ -401,8 +341,6 @@ I haven't blocked this many bots, cultists, and fanboys in a single
 day, in a very long time. Full on astroturfing campaign right now and
 a defcon 62 event for the faithful to man their battlestations"
 
-*2019-11-25 19:4:28*
-
 ---
 
 "@tracyalloway
@@ -413,8 +351,6 @@ rarely seen SOEs default on their debt"
 
 [Link](https://twitter.com/tracyalloway/status/1198850739839234048)
 
-*2019-11-25 19:0:36*
-
 ---
 
 First they ignore you, then they laugh at you.. and they don't even
@@ -422,13 +358,9 @@ fight you... Then you lose.
 
 \#tslaq
 
-*2019-11-25 18:59:23*
-
 ---
 
 Limp pump :) @TeslaCharts \#tslaq
-
-*2019-11-25 18:59:23*
 
 ---
 
@@ -436,22 +368,16 @@ Now cacerolada in Columbia
 
 [Link](https://youtu.be/FnVNaLurhss)
 
-*2019-11-25 14:43:51*
-
 ---
 
 Absolutely correct, it was leadership-by-merit, there was no constant,
 pesistent hierarchy. \#civilizedToDeath
-
-*2019-11-25 10:37:41*
 
 ---
 
 No wonder why *The Matrix* was such a hit back in the day. It
 unknowingly hit a nerve. Current env is some 1984 level shit
 \#civilizedToDeath
-
-*2019-11-25 10:16:28*
 
 ---
 
@@ -461,16 +387,12 @@ How We Are Being “Civilized To Death” w/Christopher Ryan
 
 [Link](https://youtu.be/UtrmseTvgMc)
 
-*2019-11-25 9:50:13*
-
 ---
 
 Bam deported many people (read: Hispanics); makes sense, he'd want his
 minority to remain as sizable in comparison to any other
 minority. Hispanics are as sizable, if not bigger than blacks at this
 point. That can have electoral consequences.
-
-*2019-11-25 9:20:40*
 
 ---
 
@@ -481,13 +403,9 @@ world leader in hydrogen production and exports.
 
 [Link](https://www.australianmanufacturing.com.au/81514/new-fund-to-transform-australia-into-a-world-leader-in-hydrogen)
 
-*2019-11-24 23:19:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Ok Bloomberg</p>&mdash; DRUDGE REPORT (@DRUDGE_REPORT) <a href="https://twitter.com/DRUDGE_REPORT/status/1198636301722894337?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-24 19:41:7*
 
 ---
 
@@ -509,22 +427,16 @@ s[['Adj Close','ewm5']].tail(30).plot()
 
 <img width="400" src="https://pbs.twimg.com/media/EKJxJ0ZXYAAEYo4?format=png&name=small"/>
 
-*2019-11-24 17:19:44*
-
 ---
 
 Henrich uses 5 EWMA (exponentially weighted MA, giving more weight to
 more recent part of the time series). Algo trader R. Carver uses two
 EWMA trackers at different speeds. Imma check this out.
 
-*2019-11-24 17:19:44*
-
 ---
 
 "AAPL has same earnings as 2015 but stock price doubled. Why? Bcz Apple
 is buying back its shares" -- Sven Henrich
-
-*2019-11-24 17:10:54*
 
 ---
 
@@ -533,13 +445,9 @@ extraction the planet can handle by 120%"
 
 [Link](https://mobile.twitter.com/foe_us/status/1198390788268400641)
 
-*2019-11-24 12:25:15*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Belgium considering massive <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> imports to reduce <a href="https://twitter.com/hashtag/CO2?src=hash&amp;ref_src=twsrc%5Etfw">#CO2</a> emissions: &quot;The scale of our plans is unique&quot; <a href="https://t.co/GA4Vv5dvC7">https://t.co/GA4Vv5dvC7</a></p>&mdash; Jean-Yves Jault ジョー.ジャンイヴ (@jyjault) <a href="https://twitter.com/jyjault/status/1198366218534739970?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-24 7:43:0*
 
 ---
 
@@ -549,8 +457,6 @@ bites dog". But, "Florida man bites dog" isn't necessarily newsworthy
 either. There is a certain level of shock, a certain standard we
 expect of the Florida man. Anything below that is unnewsworthy.
 
-*2019-11-24 0:25:16*
-
 ---
 
 Wout PG and similar open source software most of those SV startups
@@ -558,8 +464,6 @@ would have a hard-time to get off-ground, like maybe, ever.
 
 Licences?  Pfff. Noone waits around with dicks in their hands waiting
 for permission jerk off. With OSS anyone can f--k.
-
-*2019-11-23 22:0:12*
 
 ---
 
@@ -569,8 +473,6 @@ project Postgresql.
 Open source + open society.. Similar attributes tend to cluster.
 
 PG is a direct competitor to Oracle BTW.
-
-*2019-11-23 22:0:12*
 
 ---
 
@@ -582,15 +484,11 @@ From 2018: Sweden tried to drop Assange extradition proceedings in
 2013, CPS emails show, but UK prosecutors dissuaded Swedish
 counterparts from doing so"
 
-*2019-11-23 21:57:12*
-
 ---
 
 Wrote a Youtube vid downloader to my mobile tool (flask app running
 locally). Give URL it extracts the audio of vid and saves it in a
 dir. Simple.
-
-*2019-11-23 21:52:47*
 
 ---
 
@@ -604,8 +502,6 @@ an entire war to fix this.
 
 Jagoff
 
-*2019-11-23 21:34:41*
-
 ---
 
 People like Dan Sheee Shaaa think all happens through commercial
@@ -613,8 +509,6 @@ relations, happy ppl happily transacting in their little happy
 libertard village. Wout the social part the free stuff boy you would
 not have a proper patch on your eye. Noone is expecting u to turn left
 but u need to learn to respect the presence of the other side.
-
-*2019-11-23 21:24:1*
 
 ---
 
@@ -640,8 +534,6 @@ people’s property ...
 
 [Link](https://mobile.twitter.com/DanCrenshawTX/status/1198292802087661571)
 
-*2019-11-23 21:24:41*
-
 ---
 
 "@stacyherbert
@@ -652,25 +544,17 @@ DNC will NOT allow him to win. Ever. And so you'll have same
 unmotivated base in the general which will lead to four more years of
 Trump"
 
-*2019-11-23 21:14:20*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In order to reduce its dependency on <a href="https://twitter.com/hashtag/coal?src=hash&amp;ref_src=twsrc%5Etfw">#coal</a> exports and decarbonise its economy, <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> has laid out an ambitious inspiring plan for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/water?src=hash&amp;ref_src=twsrc%5Etfw">#water</a> <a href="https://twitter.com/hashtag/electrolysers?src=hash&amp;ref_src=twsrc%5Etfw">#electrolysers</a> to be build across the country, fed by renewables to facilitate the use of <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/WZBVE34HoB">https://t.co/WZBVE34HoB</a> <a href="https://t.co/xI9YjgJvuY">pic.twitter.com/xI9YjgJvuY</a></p>&mdash; Fuel Cell Pilot (@FuelCellPilot) <a href="https://twitter.com/FuelCellPilot/status/1198038362021670912?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-23 19:50:49*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;If Australia can produce 400 Terrawatt-hours of hydrogen energy for export, modelling results show the average energy cost could be reduced by more than 30%.&quot;<a href="https://t.co/pl2kALofEQ">https://t.co/pl2kALofEQ</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1198279824655208449?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-23 19:45:33*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FYI, Google is trying to kill web URLs<br><br>Google wants users to use Google search as the access point for all content on the web. They are doing this by:<br>1. Removing visible URLs in Chrome<br>2. Penalizing sites for not using Google AMP<br>3. Removing URLs from search results <a href="https://t.co/8aTVCNMGvi">pic.twitter.com/8aTVCNMGvi</a></p>&mdash; 🇺🇸 Drybones🗽ム (@drybones_5) <a href="https://twitter.com/drybones_5/status/1190694123965210625?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-23 17:42:37*
 
 ---
 
@@ -685,8 +569,6 @@ violence"
 
 [Link](https://amp.rfi.fr/en/france/20191123-women%2520in%2520paris%2520rally%2520against%2520domestic%2520abuse%2520after%2520116%2520die%2520in%2520acts%2520of%2520violence)
 
-*2019-11-23 17:11:54*
-
 ---
 
 Stoller, *Goliath*
@@ -700,15 +582,11 @@ Show host Johnny Carson made a joke about a toilet paper shortage,
 prompting a run on toilet paper as Americans rushed to buy every roll
 they could find"
 
-*2019-11-23 17:5:50*
-
 ---
 
 If Computers Are So Smart, How Come They Can’t Read?
 
 [Link](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/)
-
-*2019-11-23 6:34:33*
 
 ---
 
@@ -716,8 +594,6 @@ If Computers Are So Smart, How Come They Can’t Read?
 nearly an hour"
 
 [Link](https://cnn.it/2QJPVJw)
-
-*2019-11-23 6:26:0*
 
 ---
 
@@ -727,13 +603,9 @@ The picture album keeps growing
 
 <img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_cyber.jpg"/>
 
-*2019-11-22 22:26:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most artistic protest witness video I’ve ever seen. So real it almost feels choreographed! <a href="https://twitter.com/hashtag/iran?src=hash&amp;ref_src=twsrc%5Etfw">#iran</a> <a href="https://t.co/cTz6rvcqeE">pic.twitter.com/cTz6rvcqeE</a></p>&mdash; Hossein Derakhshan (@h0d3r) <a href="https://twitter.com/h0d3r/status/1197855775311446017?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-22 22:9:58*
 
 ---
 
@@ -746,13 +618,9 @@ Goldman: 'With S&P 500 earnings on track for roughly zero growth from
 this time last year, solid returns likely would not have been possible
 without central bank support'"
 
-*2019-11-22 20:21:28*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> in partnership with <a href="https://twitter.com/AnheuserBusch?ref_src=twsrc%5Etfw">@AnheuserBusch</a>, has completed its first commercial delivery using a hydrogen-electric vehicle!<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/P163Jgj9P4">https://t.co/P163Jgj9P4</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1197891731662016518?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-22 19:27:18*
 
 ---
 
@@ -763,15 +631,11 @@ matchups"
 
 [Link](http://hill.cm/LVOLUJg)
 
-*2019-11-22 18:27:53*
-
 ---
 
 "Bolsonaro is turning back the clock on Brazil, says Lula"
 
 [Link](https://amp.theguardian.com/world/2019/nov/22/exclusive-bolsonaro-is-turning-back-the-clock-on-brazil-says-lula-da-silva)
-
-*2019-11-22 18:26:24*
 
 ---
 
@@ -779,15 +643,11 @@ Merle Haggard - Set My Chickens Free
 
 [Link](https://www.youtube.com/watch?v=Ud5SbZ6XtTw)
 
-*2019-11-22 15:13:25*
-
 ---
 
 Go Strong Woman \#southpark
 
 [Link](https://youtu.be/URz-RYEOaig?t=27)
-
-*2019-11-22 14:54:44*
 
 ---
 
@@ -795,8 +655,6 @@ A lot of Eng names have weird TR counterparts.. "Biden" phonetically
 means telling someone "you bored me to sleep (*baydın*)", in
 slang. Yellen is asking someone to pass wind, as in flatulance, first
 person imperative. Yellen! ff f f f.
-
-*2019-11-22 14:44:8*
 
 ---
 
@@ -807,35 +665,25 @@ the thing you push all the dirt into, with the broom.
 
 Kinda like this guy, no?
 
-*2019-11-22 14:37:41*
-
 ---
 
 Australia - very good. 
 
 <iframe width="330" height="250" src="https://www.youtube.com/embed/ygLrTYCR1J8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*2019-11-22 13:46:0*
-
 ---
 
 <img width="300" src="https://cookieandkate.com/images/2017/12/classic-hot-toddy-recipe-2-768x1151.jpg"/>
 
-*2019-11-22 12:13:6*
-
 ---
 
 Hot shower, followed by a hot toddy.. and hot.. yiieeaaah
-
-*2019-11-22 12:10:26*
 
 ---
 
 Ghost Riders in the Sky - Johnny Cash \#music
 
 [Link](https://www.youtube.com/watch?v=Mynzbmrtp9I)
-
-*2019-11-22 12:2:17*
 
 ---
 
@@ -845,13 +693,9 @@ Ew I’ve been 22 for a week"
 
 [Link](https://twitter.com/gracegcracker/status/1197714516433231872)
 
-*2019-11-22 8:50:1*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2018, Australia exported 70Mt of LNG, but as hydrogen is denser than LNG we only need produce 30Mt of Green Hydrohen to meet this - <a href="https://twitter.com/ScienceChiefAu?ref_src=twsrc%5Etfw">@ScienceChiefAu</a> at <a href="https://twitter.com/hashtag/WEC19Aus?src=hash&amp;ref_src=twsrc%5Etfw">#WEC19Aus</a> <a href="https://t.co/fy01C7El1F">pic.twitter.com/fy01C7El1F</a></p>&mdash; Engineers Australia (@EngAustralia) <a href="https://twitter.com/EngAustralia/status/1197639241703931905?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-22 7:46:36*
 
 ---
 
@@ -859,25 +703,17 @@ Outdoor cats.. interesting
 
 [Link](https://mobile.twitter.com/corvidresearch/status/1197600452616966144)
 
-*2019-11-22 7:39:19*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyundai’s Hydrogen Mobility Solution Wins 2020 Truck Innovation Award-Validates <a href="https://twitter.com/Hyundai_Global?ref_src=twsrc%5Etfw">@Hyundai_Global</a> pan-European initiative. Cooperation between Hyundai &amp; leading European <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> companies to accelerate deployment of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> tech-<a href="https://t.co/uignrqE8BO">https://t.co/uignrqE8BO</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/FQgcZGIIPO">pic.twitter.com/FQgcZGIIPO</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1197584581123362816?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-22 0:48:20*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Zombie hordes: 28% of US companies with market cap &lt; $1bn earn less (EBIT) than their interest payments, way up from the period before the crisis and this is with historically low interest rates. <a href="https://twitter.com/ArborResHealth?ref_src=twsrc%5Etfw">@ArborResHealth</a> via <a href="https://twitter.com/SoberLook?ref_src=twsrc%5Etfw">@SoberLook</a> <a href="https://t.co/eI21pYXohD">pic.twitter.com/eI21pYXohD</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/1197613150536896512?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-22 0:19:15*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breakthrough layered solar cells w/ 24% conversion... role for solar direct to hydrogen (artificial photosynthesis) <a href="https://t.co/suyMsER161">https://t.co/suyMsER161</a> Chemical energy is our biggest lever for decarbonization. Meanwhile <a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> stalled patting itself on back for Grid PV, which is easy</p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1196436914691362821?ref_src=twsrc%5Etfw">November 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-21 22:53:47*
 
 ---
 
@@ -887,8 +723,6 @@ us. It's the biggest real estate bubble in history.
 They're building 1.8 bil sq meters per year of residential. That’s 20
 mil apartments. It’s about 20-25% of their GDP"
 
-*2019-11-21 22:35:55*
-
 ---
 
 "@NRMorrow
@@ -896,13 +730,9 @@ mil apartments. It’s about 20-25% of their GDP"
 'who the HELL is in my Google Doc' I think furiously, before realizing
 it's me in a different tab"
 
-*2019-11-21 22:16:37*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s asinine to think that we shouldn’t force Chinese companies to submit to the same audits that we require of US companies. Hank bailed out his banker buddies during the GFC and now he’s a paid propagandist for the CCP. <a href="https://twitter.com/HenryPaulson?ref_src=twsrc%5Etfw">@henrypaulson</a> <a href="https://twitter.com/PaulsonInst?ref_src=twsrc%5Etfw">@PaulsonInst</a> <a href="https://twitter.com/FareedZakaria?ref_src=twsrc%5Etfw">@FareedZakaria</a> <a href="https://twitter.com/hashtag/Chinazi?src=hash&amp;ref_src=twsrc%5Etfw">#Chinazi</a> <a href="https://t.co/bIeUrPAYpt">https://t.co/bIeUrPAYpt</a></p>&mdash; 😷Kyle Bass😷 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1197475601982074882?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-21 19:12:14*
 
 ---
 
@@ -910,13 +740,9 @@ it's me in a different tab"
 
 [Link](https://www.zerohedge.com/markets/bizarre-admission-ecb-warns-its-policies-threaten-financial-stability-could-lead-crash)
 
-*2019-11-21 16:47:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Put it in the oceans where it should live. 38,400 Gt there already - lots of room for more...</p>&mdash; Mike Kelland (@Mkelland) <a href="https://twitter.com/Mkelland/status/1197349139438342145?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-21 14:43:27*
 
 ---
 
@@ -928,13 +754,9 @@ criminally prosecuted"
 
 [Link](https://www.vox.com/2019/11/12/20959293/bernie-sanders-climate-lawsuit-exxon-juliana-sinnok)
 
-*2019-11-21 11:47:13*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Constructive Interference <a href="https://t.co/kMKUTsEr0J">pic.twitter.com/kMKUTsEr0J</a></p>&mdash; 〈 Berger | Dillon 〉 (@InertialObservr) <a href="https://twitter.com/InertialObservr/status/1197407633734455297?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-21 11:44:23*
 
 ---
 
@@ -947,13 +769,9 @@ mutually supportive system, and mainstream media refuse to say that
 the fossil fuel industry and governments that support it are
 committing crimes against nature and humanity..."
 
-*2019-11-21 11:42:9*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We now have three steel companies trialling steel from <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> (SSAB, ArcelorMittal and Voestalpine). So far only one on ammonia (Yara). There will be many many more joining. Eventually all. <a href="https://t.co/UznfNls2le">https://t.co/UznfNls2le</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1197226833244127232?ref_src=twsrc%5Etfw">November 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-21 10:14:13*
 
 ---
 
@@ -964,8 +782,6 @@ Simons began collaborating on the possibility of putting together the
 Free Market Study. Both men were fiercely anticorporate, seeing
 private corporate power as an equally dangerous form of central
 planning" -- Stoller, *Goliath*
-
-*2019-11-21 8:51:55*
 
 ---
 
@@ -1012,7 +828,5 @@ against the world, and they were going to conquer it. The Free Market
 Study, and then the Antitrust Project, would serve as the intellectual
 testing ground for the set of ideas that would eventually burst out of
 the academy and generate a political and financial revolution"
-
-*2019-11-21 8:51:45*
 
 ---

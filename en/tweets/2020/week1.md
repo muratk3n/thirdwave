@@ -3,25 +3,17 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota to Build Prototype City of the Future Powered by Hydrogen Fuel Cells--175-acre site at the base of Mt. Fuji in Japan. Called the Woven City, it will be a fully connected ecosystem powered by <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a>-<a href="https://t.co/XC5Kk6MToH">https://t.co/XC5Kk6MToH</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/3g2vLBdRJg">pic.twitter.com/3g2vLBdRJg</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1214537592852615175?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-7 19:0:17*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of the most remarkable transformations in the global energy system in 2019, according to <a href="https://twitter.com/IRENA?ref_src=twsrc%5Etfw">@IRENA</a>: <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a> and <a href="https://twitter.com/hashtag/Japan?src=hash&amp;ref_src=twsrc%5Etfw">#Japan</a> expanded their support for clean <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> as renewable costs became increasingly competitive <a href="https://t.co/shHlxQCPOM">https://t.co/shHlxQCPOM</a></p>&mdash; Hydrogen Council (@HydrogenCouncil) <a href="https://twitter.com/HydrogenCouncil/status/1214554782939131905?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-7 18:58:52*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hydrogen Refuelling Now Five Times Faster--Scientists at the Helmholtz-Zentrum Geesthacht are developing <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> storage systems based on light metal hydrides--<a href="https://t.co/3NzR0wUz0k">https://t.co/3NzR0wUz0k</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/FAHejH9xBe">pic.twitter.com/FAHejH9xBe</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1214558490930434048?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-7 18:57:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">😂 <a href="https://t.co/aUyjG7RkJ8">https://t.co/aUyjG7RkJ8</a></p>&mdash; Ricky Gervais (@rickygervais) <a href="https://twitter.com/rickygervais/status/1214419696482697216?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-7 16:17:12*
 
 ---
 
@@ -30,22 +22,16 @@ exporting nation"
 
 [Link](https://mobile.twitter.com/H2Europe/status/1214485080174989312)
 
-*2020-1-7 16:2:26*
-
 ---
 
 Of course cannot find a straightforward math -> code -> demo -> output
 anywhere using OSS for denoising. Wikipedia references a
 `demo_tv.m`. U go to this guy's code huge chunks are missing. 
 
-*2020-1-7 15:13:25*
-
 ---
 
 "For ground-breaking science u almost don't want a good
 student. Because good students will overfit to bullshit"
-
-*2020-1-7 12:0:10*
 
 ---
 
@@ -55,8 +41,6 @@ The president can boast about the stock market all he wants—the
 American people know it doesn't put food on the table. We need an
 economy that works for the many, not just the wealthy and large
 corporations"
-
-*2020-1-6 21:22:9*
 
 ---
 
@@ -68,21 +52,15 @@ corporations"
 
 [Link](https://europe.autonews.com/automakers/bmw-rd-chief-sees-rising-demand-diverse-multifunctional-powertrains)
 
-*2020-1-6 21:8:0*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mind blown. <a href="https://twitter.com/trevorwardill?ref_src=twsrc%5Etfw">@trevorwardill</a> put 3D glasses on swimming cuttlefish to test for stereopsis and it WORKED. Cuttlefish have depth perception through image disparity! <a href="https://t.co/cfB381V9vc">pic.twitter.com/cfB381V9vc</a></p>&mdash; Katie Thomas 🦑 (@katiethomas10) <a href="https://twitter.com/katiethomas10/status/1213909329998430211?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-6 18:24:3*
 
 ---
 
 ooOoo I wonder who it is
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plug Power Receives $172M Order for Hydrogen &amp; Fuel Cell Solutions From Fortune 100 Customer-Contract for <a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> GenDrive <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> power, GenFuel <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> fuel, storage &amp; dispensing infrastructure, &amp; aftermarket service &amp; support-<a href="https://t.co/cyT0szZEaO">https://t.co/cyT0szZEaO</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://t.co/cRyzXrAcTY">pic.twitter.com/cRyzXrAcTY</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1214183067281166336?ref_src=twsrc%5Etfw">January 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-6 17:50:8*
 
 ---
 
@@ -93,8 +71,6 @@ their extent"
 
 <img width="340" src="https://pbs.twimg.com/media/ENhArLtW4AAGyLQ?format=jpg&name=900x900"/>
 
-*2020-1-6 14:57:58*
-
 ---
 
 News is filled with names that are common to us... Ali's, Sait's,
@@ -103,13 +79,9 @@ Nordic lookin mofos. I'll be like yo whassup Suleyman, and he'll be
 like "yo what'up my nigger". i know gazillion Ali's. Sait is my late
 great grandfather.
 
-*2020-1-6 14:39:10*
-
 ---
 
 <img width="340" src="https://pbs.twimg.com/media/ENl_1l0VUAAjQsO?format=png&name=small"/>
-
-*2020-1-6 14:33:5*
 
 ---
 
@@ -117,8 +89,6 @@ Func becomes better differentiable this way, with sig instead of
 max. Nowadays automatic differentiation packages can diff anything
 including max, but still, a friendly, symbolic diff ready func is a
 good thing.
-
-*2020-1-6 14:30:2*
 
 ---
 
@@ -137,13 +107,9 @@ uses of this anywhere.. I cant be the 1st jagoff who thought of this
 (Yees I know it's sigmoid bitch, but it's not for neuratic neural
 nets.. It's for optimization)
 
-*2020-1-6 14:23:53*
-
 ---
 
 Most of this is in jest - Elba is great, so is Cavill. Big fan of both.
-
-*2020-1-6 11:49:1*
 
 ---
 
@@ -154,14 +120,10 @@ situation wld be more pronounced of course, bcz (if) there's a certain
 "black quota" in mainstream movies let's say and when u give that to a
 Brit, the American black in Holywood loses
 
-*2020-1-6 11:41:8*
-
 ---
 
 Beans on toast? Dude u'd have to put a gun to someone's head here to
 make'm eat that shit.
-
-*2020-1-6 11:30:25*
 
 ---
 
@@ -169,13 +131,9 @@ US, Holywood has totally been invaded by these people. Sman is
 gone. What's next? A British Batman? Oh I forgot the next Batman is
 British.
 
-*2020-1-6 11:28:3*
-
 ---
 
 Emily Blunt is Brit too? 
-
-*2020-1-6 11:25:38*
 
 ---
 
@@ -185,13 +143,9 @@ escaping responsibility / reality with non-sense. Grow the eff up.
 He also seems to be a "Tory Psycic", so I am guessing his predictions
 will stop working once Tories are out of power.
 
-*2020-1-6 11:25:35*
-
 ---
 
 Does he know Baba Vanga?
-
-*2020-1-6 11:18:6*
 
 ---
 
@@ -202,8 +156,6 @@ your ass. It is the sound of your own farting... "I am hearing voices
 from beyond!". No - it's voices from below moth-f-ka, like, your
 ass. fffff ff fffff f - "he is talking to me!". Yes he is telling u to
 go to the bathroom. Hurry
-
-*2020-1-6 11:14:36*
 
 ---
 
@@ -217,23 +169,17 @@ Tucker and JChan for singing it that one time in a movie - I dont
 care. People can argue among themselves in courts who needs to be part
 of that distribution.
 
-*2020-1-6 11:0:47*
-
 ---
 
 I am liking comments in code less and less. For a expr coder they get
 in the way. I think doc outside of code, even referencing particular
 lines in code might be much better.
 
-*2020-1-6 10:43:47*
-
 ---
 
 Call ISIS the result of Sunni frustration or due to diabolical allies,
 the result is the same. The whole shabang was the outcome of an
 US-Iran raproachement. 
-
-*2020-1-6 9:30:4*
 
 ---
 
@@ -246,8 +192,6 @@ US before he was killed. ISIS of course has magically disappeared.
 "@washingtonpost
 
 Iran announces it is suspending all commitments to the 2015 nuclear deal"
-
-*2020-1-6 9:20:42*
 
 ---
 
@@ -268,8 +212,6 @@ concepts. Even space station wastes could be fed to such a thruster"
 
 [Link](https://www.beyondnerva.com/2018/10/05/electric-propulsion-part-1-thermal-and-magnetoplasmadynamic-thrusters)
 
-*2020-1-5 13:8:27*
-
 ---
 
 Yes enough with this singular effort bull. Billionaires, individuals
@@ -277,8 +219,6 @@ through "personal empowerment" are asked to solve things that are
 mostly the (intended) effects of a system.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe. But I think &quot;humans&quot; are embedded in systems that are beyond their control, like termites, ants, flocking birds, schooling fish, and so on. We have much less control than most of us think. <a href="https://t.co/8LwxrfeGyo">https://t.co/8LwxrfeGyo</a></p>&mdash; Christopher Ryan (@ThatChrisRyan) <a href="https://twitter.com/ThatChrisRyan/status/1213701980800946177?ref_src=twsrc%5Etfw">January 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-5 9:42:39*
 
 ---
 
@@ -297,8 +237,6 @@ tiny low power induction thermal thruster along with the larger one.
 Can see how it scales. Also a tiny thruster that can run off 2 9 volt
 batteries opens up #cubesat possibility \#space \#science"
 
-*2020-1-5 7:47:11*
-
 ---
 
 "@billmckibben
@@ -306,8 +244,6 @@ batteries opens up #cubesat possibility \#space \#science"
 Since October, Australia's #bushfires have spewed as much carbon into
 the air as the entire country produces from every car, home, and
 factory in a typical eight months. Climate chaos feeds on itself now"
-
-*2020-1-5 7:5:6*
 
 ---
 
@@ -323,8 +259,6 @@ fakih* system which the elected does not like at all)
 Iranian President says that retaliation against the United States is
 necessary"
 
-*2020-1-5 6:55:44*
-
 ---
 
 A lot of the latest ME protests before Soleimani assasination were anti-Iran 
@@ -334,8 +268,6 @@ A lot of the latest ME protests before Soleimani assasination were anti-Iran
 [Link](https://youtu.be/6vpk0A5D2v4?t=339)
 
 We'll see if latest events cause a change in the winds. 
-
-*2020-1-4 21:22:35*
 
 ---
 
@@ -348,15 +280,11 @@ pissed. It can all end up in a duel at high noon.
 
 <img width="400"  src="https://pbs.twimg.com/media/ENXsRx4WwAAvBkS?format=jpg&name=small"/>
 
-*2020-1-4 21:21:16*
-
 ---
 
 Study: Cold Weather Has Significant Impact On Electric Bus Range
 
 [Link](https://insideevs.com/news/390589/study-cold-weather-effects-electric-bus-range/amp/)
-
-*2020-1-4 18:15:35*
 
 ---
 
@@ -365,15 +293,11 @@ It's been down since Aug '19, sub 50.
 
 And wait until 19Q4 GDP comes out. Near zero will make ppl's eyes go pop 👀
 
-*2020-1-4 18:2:52*
-
 ---
 
 "Portugal has found an antidote to right wing populism"
 
 [Link](https://kontrast.at/portugal-economy-right-wing/amp/?fbclid=IwAR0tIXdPeXiSjClCLnxCfyUave5grijLOLhvwPUBmDaXzSLNPd1o0L7gp70)
-
-*2020-1-4 15:37:5*
 
 ---
 
@@ -383,21 +307,15 @@ small feat, a major traveling tool, offering great views, and access.
 
 [Link](https://airandspace.si.edu/stories/editorial/presidential-writings-reveal-early-interest-ballooning)
 
-*2020-1-4 14:27:37*
-
 ---
 
 Basically what happened before 07/08 crisis.
 
 "Mortgage fraud occurs when a potential homebuyer, seller, or lender lies or omits key information that leads to a mortgage loan approval or terms that the applicant wouldn't normally qualify to receive".
 
-*2020-1-4 11:28:7*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, 10:55a Chilean time, our six man crew on board the Ohana row boat completed the world’s first fully human-powered and unsupported crossing of Drake Passage, from Cape Horn in South America to the Antarctica Peninsula. I am deeply proud to be a part of this team. <a href="https://t.co/WA2lmrvBBL">pic.twitter.com/WA2lmrvBBL</a></p>&mdash; Colin O&#39;Brady (@colinobrady) <a href="https://twitter.com/colinobrady/status/1210271656465166336?ref_src=twsrc%5Etfw">December 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-3 20:22:7*
 
 ---
 
@@ -406,15 +324,11 @@ whose assasination triggered WWI. Tragic funny
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For the record, we think <a href="https://twitter.com/hashtag/WWIII?src=hash&amp;ref_src=twsrc%5Etfw">#WWIII</a> is a bad idea.</p>&mdash; Franz Ferdinand (@Franz_Ferdinand) <a href="https://twitter.com/Franz_Ferdinand/status/1213069912257781760?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-3 16:44:24*
-
 ---
 
 🎸🎸🎸🎸🎶🎶🎵🎵🎵💦💦💦💦💥💥💥💥
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> powered <a href="https://twitter.com/hashtag/RockNRoll?src=hash&amp;ref_src=twsrc%5Etfw">#RockNRoll</a>: During <a href="https://twitter.com/U2?ref_src=twsrc%5Etfw">@U2</a>&#39;s concert at Tokyo&#39;s Saitama Super Arena, Edge&#39;s guitar, Adam&#39;s bass, &amp; the entire backline ran on <a href="https://twitter.com/hashtag/cleanhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#cleanhydrogen</a> power. <a href="https://twitter.com/hashtag/Fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcell</a>-powered <a href="https://twitter.com/ToyotaMotorCorp?ref_src=twsrc%5Etfw">@ToyotaMotorCorp</a> <a href="https://twitter.com/hashtag/Mirai?src=hash&amp;ref_src=twsrc%5Etfw">#Mirai</a> vehicles stored the energy that delivered the power.<a href="https://t.co/XaiZWOQvRw">https://t.co/XaiZWOQvRw</a> <a href="https://t.co/iRjFOW2mYw">pic.twitter.com/iRjFOW2mYw</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1213017417691156480?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-3 13:42:13*
 
 ---
 
@@ -446,21 +360,15 @@ increase with financial repression"
 
 [Link](https://app.hedgeye.com/insights/80137-negative-rates-the-destruction-of-money-sweden-ends-its-experiment)
 
-*2020-1-3 12:29:20*
-
 ---
 
 Soleimani was Iran's go-to person, whenever they needed something done
 the mullahs would send in this guy. Like triggering an insurgency in
 Iraq against US.
 
-*2020-1-3 7:54:50*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just to put things into perspective: The average US worker must now work 126 hours to buy 1 share of S&amp;P 500. That&#39;s a fresh record. In the 1980s, it took less than 20 hours. (Idea via <a href="https://twitter.com/HirudoStreet?ref_src=twsrc%5Etfw">@HirudoStreet</a>) <a href="https://t.co/9M2y0g5vs4">pic.twitter.com/9M2y0g5vs4</a></p>&mdash; Holger Zschaepitz (@Schuldensuehner) <a href="https://twitter.com/Schuldensuehner/status/1212729502901702657?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-3 4:43:19*
 
 ---
 
@@ -469,19 +377,13 @@ Sending Troops"
 
 @zerohedge
 
-*2020-1-2 21:30:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">China: SinoHytec Launches its New <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Engine--100% of the core components are produced with own intellectual property rights for the 1st time, the power density exceeds 500W/kg, and the cost is reduced by 30%--<a href="https://t.co/G6re1KYIFL">https://t.co/G6re1KYIFL</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/6WeQfQEanZ">pic.twitter.com/6WeQfQEanZ</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1212772628160811009?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-2 21:9:40*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Macauley Culkin is two years older than Pete Buttigieg</p>&mdash; Tyler Buchanan (@Tylerjoelb) <a href="https://twitter.com/Tylerjoelb/status/1212249696246349824?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-2 20:47:11*
 
 ---
 
@@ -493,8 +395,6 @@ services, so-so inflation.
 
 "If the ppl get digital income, and money base expands 4% annually
 wouldnt that create a lot of inflation?"
-
-*2020-1-2 19:49:43*
 
 ---
 
@@ -508,13 +408,9 @@ was predictable outrage"
 
 [Link](https://www.theatlantic.com/entertainment/archive/2020/01/the-witcher-is-absurd-thats-why-its-brilliant/604297/)
 
-*2020-1-2 19:45:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Surprised to find Lidar worked pretty well to detect the grass edges <a href="https://t.co/2N7gOCF01O">pic.twitter.com/2N7gOCF01O</a></p>&mdash; SmallpixelCar (@SmallpixelCar) <a href="https://twitter.com/SmallpixelCar/status/1211389873409540096?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-2 19:6:30*
 
 ---
 
@@ -522,13 +418,9 @@ Germany's Bosch to offer lower-cost sensors for self-driving cars
 
 [Link](https://www.reuters.com/article/us-autos-bosch-lidar/germanys-bosch-to-offer-lower-cost-sensors-for-self-driving-cars-idUSKBN1Z10EK)
 
-*2020-1-2 18:54:7*
-
 ---
 
 I shouldnt make fun.. that could be somebody's girlfriend.
-
-*2020-1-2 14:55:29*
 
 ---
 
@@ -536,15 +428,11 @@ Passing through town to get to wilderness. Still near "civilization".
 
 <img width="240" src="https://pbs.twimg.com/media/ENRbUaVX0AAKsR4?format=jpg&name=small"/>
 
-*2020-1-2 14:41:1*
-
 ---
 
 Paper published on December 6. Hot off the press.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Way to Make Hydrogen Energy Out of Water Much More Cheaply <a href="https://t.co/jysP9WkGQS">https://t.co/jysP9WkGQS</a></p>&mdash; H2FC Future Now (@Cgnewday) <a href="https://twitter.com/Cgnewday/status/1212550971437412352?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-2 11:51:19*
 
 ---
 
@@ -552,15 +440,11 @@ Paper published on December 6. Hot off the press.
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">Who?</p>&mdash; PaulF (@ProfFrisch) <a href="https://twitter.com/ProfFrisch/status/1212577250866081793?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-1-2 11:45:39*
-
 ---
 
 The man. The legend.
 
 <blockquote class="twitter-tweet"><p lang="nl" dir="ltr">&gt;&gt;&gt; greetings = [&quot;world hello&quot;, &quot;nieuwjaar gelukkig&quot;, &quot;happy year new&quot;]<br>&gt;&gt;&gt; for g in greetings:<br>... words = sorted(g.split())<br>... print(&quot; &quot;.join(words).title())<br>... <br>Hello World<br>Gelukkig Nieuwjaar<br>Happy New Year<br>&gt;&gt;&gt;</p>&mdash; Guido van Rossum (@gvanrossum) <a href="https://twitter.com/gvanrossum/status/1212404308169261056?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-1 19:58:10*
 
 ---
 
@@ -571,8 +455,6 @@ gains. Who'd have guessed?
 
 @zerohedge
 
-*2020-1-1 18:32:58*
-
 ---
 
 Yeah nice try..  [See](https://www.downtoearth.org.in/news/science-&-technology/amp/three-body-problem-needs-real-and-not-artificial-solution-67592). "The problem is that AI works for only a finite length of time, and one doesn’t know in advance how much time it would take if a particular three-body problem hasn’t been studied before"
@@ -581,37 +463,27 @@ Yeah nice try..  [See](https://www.downtoearth.org.in/news/science-&-technology/
 
 [Link](https://www.technologyreview.com/s/614597/a-neural-net-solves-the-three-body-problem-100-million-times-faster)
 
-*2020-1-1 17:11:46*
-
 ---
 
 So.. new year new decade.. Should I adapt kinder gentler tone? Imagine
 I m smiling more while I write this and there is a gentle harp music
 in the background 😁😁😁😁♪♬♪♬
 
-*2020-1-1 15:42:31*
-
 ---
 
 Some r trying to have bunch of "foreigners" around them on the
 cheap. A form of half-ass Disneyland-ism, make-belief nonsense. 
-
-*2020-1-1 15:19:9*
 
 ---
 
 Nope. Jay Leno is not Italian either. He is an American who grew up
 with some Italian drama. 
 
-*2020-1-1 15:9:0*
-
 ---
 
 Centrism is lethal on the successor; bcz ppl judge on the delivery,
 once the hipster is gone, and delivery was not there, the successor is
 screwed. Gordon Brown, Gore, Hillary all paid that price.
-
-*2020-1-1 14:18:4*
 
 ---
 
@@ -622,8 +494,6 @@ anything).
 
 "But Blair did some left moves while in gov, like funding the NHS"
 
-*2020-1-1 14:10:46*
-
 ---
 
 Overdouche: When you are so douche it extends beyond any definition of
@@ -632,47 +502,33 @@ douche.
 Redouche: When a person keeps making same douchy mistake, over and over
 again.
 
-*2020-1-1 13:8:15*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What makes <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> unique from other cryptocurrency assets?<br><br>We explain <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NANO</a> in two minutes. <a href="https://t.co/npl5dwTrAq">https://t.co/npl5dwTrAq</a></p>&mdash; Exodus (@exodus_io) <a href="https://twitter.com/exodus_io/status/1212010613456678917?ref_src=twsrc%5Etfw">December 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-1-1 12:42:2*
 
 ---
 
 After a few dead links and major searchification found the matfart
 code. Guess what'll happen to it next 🐍. 
 
-*2020-1-1 11:55:9*
-
 ---
 
 Other than that, you are okay Quaitieri. Good book / paper on speech
 processing (with math modeling! With sine waves and shit!)
-
-*2020-1-1 11:48:19*
 
 ---
 
 "See the matlab code in the companion web site". Dude - so
 2010s. Where is your Github link?
 
-*2020-1-1 11:47:36*
-
 ---
 
 Do not have notebook but still can author articles on Termux Samsung w
 light btooth keyboard. Mobile awesomeness.
 
-*2020-1-1 9:51:48*
-
 ---
 
 You can paint picture with words bitch
-
-*2019-12-31 22:11:52
 
 ---
 
@@ -682,8 +538,6 @@ You can paint picture with words bitch
 
 My favorite slogan is 'Nice graphics always wins", but now my second
 slogan is "Nice documentation always wins'"
-
-*2019-12-31 22:11:52*
 
 ---
 
@@ -697,8 +551,6 @@ movements and member of a species subject to slavery, being labeled
 
 [Link](https://mobile.twitter.com/ManuclearBomb/status/1211349874056273922)
 
-*2019-12-31 15:51:0*
-
 ---
 
 Hyundai Nexo HFC car emits drinkable water from its exhaust (instead
@@ -708,14 +560,10 @@ use H2 for something but that's easy, that's why we'd have H2 fuel in
 the first place. Heating, electricity generation, etc. will not only
 do work, it will also create water.
 
-*2019-12-31 12:28:8*
-
 ---
 
 U know what would be cool? Electrolysis on seawater (already some
 successes there) and desalination at the same time.
-
-*2019-12-31 12:22:4*
 
 ---
 
@@ -734,8 +582,6 @@ astonishment at the realities of, well, life: that you have to .. "
 
 [Link](https://www.buzzfeednews.com/amphtml/annehelenpetersen/millennials-burnout-generation-debt-work)
 
-*2019-12-31 12:20:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nah, Disney
@@ -745,8 +591,6 @@ href="https://twitter.com/alejandrina_gr/status/1211824707277860864?ref_src=twsr
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
 
-*2019-12-31 12:19:43*
-
 ---
 
 Only 3% of the Earth's land (excluding Antartica) is for urban / cities. 11% is farm / agro.
@@ -754,21 +598,15 @@ Only 3% of the Earth's land (excluding Antartica) is for urban / cities. 11% is 
 That still leaves a huge landmass. The world is much bigger than these
 constricted urban places.
 
-*2019-12-31 2:46:32*
-
 ---
 
 Cookieee
 
 <img width="340" src="https://media.giphy.com/media/L84mZKrSkc2JO/giphy.gif"/>
 
-*2019-12-31 2:13:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We grew up in the Great Depression, but we didn&#39;t know it. No one else had anything either.&quot; -- Grandma</p>&mdash; Joshua Ulrich (@joshua_ulrich) <a href="https://twitter.com/joshua_ulrich/status/1211755137536024577?ref_src=twsrc%5Etfw">December 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-31 1:46:20*
 
 ---
 
@@ -777,8 +615,6 @@ Cookieee
 My site was flagged again. Therefore, all downloads have been removed
 until this can be resolved" \#GOOG
 
-*2019-12-30 23:13:21*
-
 ---
 
 Maybe Khomeini egged Saddam on scaring him abt the Shia majority in
@@ -786,8 +622,6 @@ his country. He might have wanted an Iraqi attack to unify his support
 and silence internal opposition. US wld be fine as long as they sold
 arms and appeared to be "doing something" after being had by
 Ayetollah.
-
-*2019-12-30 22:4:48*
 
 ---
 
@@ -801,8 +635,6 @@ Ayetollah.
 "The left in Iran was not demanding democracy [after the fall of the
 shah]". Big mistake.
 
-*2019-12-30 21:36:41*
-
 ---
 
 "[paraph] Khomeini was sent to exile bcz (among other things) he had
@@ -811,8 +643,6 @@ along with others allowed this guy right back in. Such a fantastic
 f--k up.
 
 [Link](https://youtu.be/nyz1cy6VeqA?t=330)
-
-*2019-12-30 21:17:22*
 
 ---
 
@@ -823,8 +653,6 @@ could even point way to lower carbon air travel" -- BBC
 
 [Link](https://www.bbc.co.uk/news/business-50839917)
 
-*2019-12-30 19:57:1*
-
 ---
 
 
@@ -832,19 +660,13 @@ could even point way to lower carbon air travel" -- BBC
 
 [Link](https://www.newsweek.com/hydrogen-power-seawater-solar-1373678)
 
-*2019-12-30 18:57:12*
-
 ---
 
 "Concretistically" 🙄
 
-*2019-12-30 15:46:14*
-
 ---
 
 Collectively refusing to act can be powerful. 
-
-*2019-12-30 14:50:18*
 
 ---
 
@@ -854,13 +676,9 @@ French power workers selectively cut electricity to Amazon and other
 companies in protest against deteriorating working conditions and loss
 of pension rights"
 
-*2019-12-30 14:47:30*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean hydrogen, being produced from renewables, nuclear or fossil fuels with CCUS, can help to decarbonise a range of sectors, including long-haul transport, chemicals, and iron and steel - where it is proven difficult to reduce emissions.<a href="https://t.co/bmjixDs4vI">https://t.co/bmjixDs4vI</a></p>&mdash; IEA (@IEA) <a href="https://twitter.com/IEA/status/1211312172577501184?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-30 14:9:57*
 
 ---
 
@@ -868,16 +686,12 @@ During the agro era the left fought through religion. During the
 industrial era it fought through unions. What will it fight with
 during the post-industrial era? Remains to be seen.
 
-*2019-12-30 12:20:37*
-
 ---
 
 The new Finney will be an American. He will be in his 30s, his name
 will be Jason, or Jake, have a beard and speak with those extended
 ouou's, like "set up the neoooooode duuude". And also say "crushed it"
 a lot.
-
-*2019-12-30 11:55:46*
 
 ---
 
@@ -888,13 +702,9 @@ trying to wrangle 40k people onto a giant ship. Storm troopers getting
 lost in the hallways. Officers complaining about the lack of enough
 vegan options. Like Office Space but actually in space"
 
-*2019-12-30 11:51:52*
-
 ---
 
 Bitcoiners would like to keep a mystique around "Satoshi" who is obviously Hal Finney bcz it gives a credence to their coin. But Finney wasnt all that. He did some stuff, fine, gave a start to things, which in terms of tech is already superseded. No need to bitch and moan about it.
-
-*2019-12-30 11:39:47*
 
 ---
 
@@ -915,23 +725,17 @@ The net job creation from this plan would be 28.6M"
 
 [Link](https://www.kevindstevens.com/post/a-global-green-new-deal)
 
-*2019-12-30 11:0:44*
-
 ---
 
 Pufferfish, contains a toxin stronger than cyanide.
 
 [Link](https://www.theguardian.com/science/blog/2018/jan/17/tetrodotoxin-the-poison-behind-the-japanese-pufferfish-fugu-scare)
 
-*2019-12-30 9:14:25*
-
 ---
 
 Hahaha .. and environmentally sustainable or something
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This plant-based alternative promises to help high schoolers stop vaping. <a href="https://t.co/x1PvmIvSAH">pic.twitter.com/x1PvmIvSAH</a></p>&mdash; Zac Mabry (@ZacMabry) <a href="https://twitter.com/ZacMabry/status/1211348692881547265?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-30 7:46:51*
 
 ---
 
@@ -942,16 +746,12 @@ military, like the [TR mil], faces in even such a limited
 operation. The fact that they even choose to send TSO proxies is
 revealing. It bodes poorly for the future on a number of levels"
 
-*2019-12-29 20:50:27*
-
 ---
 
 Kirchner is back in Argentina. Great. She'd done her bit previously,
 then the guy after her as imcumb faceplanted, now she is back (as
 VP). Great. No shananigans. I support left by default as long as there
 are no shananigans
-
-*2019-12-29 18:14:3*
 
 ---
 
@@ -966,13 +766,9 @@ San Francisco is a right-wing technocratic dystopian nightmare with a
 veneer of superficial progressivism not so thinly veiling far-right,
 ultra-capitalist socialist darwinism"
 
-*2019-12-29 15:12:31*
-
 ---
 
 <img width="340" src="https://pbs.twimg.com/ad_img/1211200315669798912/aepbUa69?format=jpg&name=small"/>
-
-*2019-12-29 13:13:11*
 
 ---
 
@@ -983,8 +779,6 @@ ultra-capitalist socialist darwinism"
 As I left a patient's room, he called to me, 'See you next week.' I
 returned to tell him that I would not be back next week, that I was
 leaving the country.  'Is it the Brexit thing?'  Yes"
-
-*2019-12-29 13:12:3*
 
 ---
 
@@ -1000,8 +794,6 @@ guidance. Is this why US now has a Space Force?
 Turning at very high speeds [for hypersonics] puts considerable stress
 on metal, so Avangard reentry is — wait for it — slower than a normal
 Russian ICBM"
-
-*2019-12-29 11:37:40*
 
 ---
 
@@ -1027,9 +819,6 @@ Any economy causing just ONE of these would be insane:
 
 They're ALL happening.
 
-
-*2019-12-29 11:14:45*
-
 ---
 
 "@MikePerryavatar
@@ -1047,8 +836,6 @@ can. Humanity is at a crossroads and this is full-court press time"
 
 [Link](https://twitter.com/MikePerryavatar/status/1210949217516216322)
 
-*2019-12-29 0:43:27*
-
 ---
 
 "A little-noticed 2018 methane leak at an Exxon Mobil site in Ohio was
@@ -1065,8 +852,6 @@ methane-monitoring satellite, spotted the plume."
 
 [Link](https://www.livescience.com/amp/giant-methane-leak-exxon-pennsylvania.html)
 
-2019-12-28 21:51:37
-
 ---
 
 "'We had this wonderful recovery. It could have given us the
@@ -1077,8 +862,6 @@ didn’t use it to make things better,' said Harvard Business School
 professor Michael Porter, a co-author of the study"
 
 [Link](https://finance.yahoo.com/news/we-squandered-major-economic-recovery-harvard-professor-142245851.html)
-
-2019-12-28 21:32:8
 
 ---
 
@@ -1091,13 +874,9 @@ href="https://twitter.com/Merle_Mienie/status/1210235781496872961?ref_src=twsrc%
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
 
-2019-12-28 20:44:41
-
 ---
 
 <img width="340" src="https://cdn.statcdn.com/Infographic/images/normal/20337.jpeg"/>
-
-2019-12-28 17:52:44
 
 ---
 
@@ -1108,8 +887,6 @@ months researching it.💪🏽
 
 Academics: here it is—one way to view X. I know I’m barely scratching
 the surface, forgive me, I only worked on this for 7 years. 😬"
-
-2019-12-28 8:50:31
 
 ---
 
@@ -1125,8 +902,6 @@ it is gaining that distance less and less (until full stop). Because
 decel is keyed to that slamming the brakes event it is a signifier of
 things to come.
 
-2019-12-28 8:41:3
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As
@@ -1137,8 +912,6 @@ href="https://twitter.com/BernieSanders/status/1210734610813870082?ref_src=twsrc
 28, 2019</a></blockquote> <script async
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
-
-2019-12-28 8:29:13
 
 ---
 
@@ -1157,8 +930,6 @@ save the climate with electric cars, you’re completely wrong.'"
 
 [Link](https://www.marketwatch.com/amp/story/guid/90B2547C-25CB-11EA-8ACF-1E53DFC48893)
 
-2019-12-27 20:27:19
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en"
@@ -1170,8 +941,6 @@ href="https://twitter.com/zerohedge/status/1210565056850792448?ref_src=twsrc%5Et
 27, 2019</a></blockquote> <script async
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
-
-200~2019-12-27 20:24:30
 
 ---
 
@@ -1193,8 +962,6 @@ development of life"
 
 [Link](https://www.pbs.org/newshour/amp/science/this-drone-will-fly-on-one-of-saturns-moons-heres-the-woman-leading-the-mission)
 
-200~2019-12-27 19:28:8
-
 ---
 
 "Toshiba today announced that the company has delivered a mobile 30kW
@@ -1202,16 +969,12 @@ hydrogen fuel cell system, which volume per unit power output is
 reduced to 1/3 compared to the stationary fuel cell systems, to a fuel
 cell ship"
 
-2019-12-27 15:16:59
-
 ---
 
 @ANativeAngeleno
 
 The California Energy Commission released a grant funding opportunity
 of up to $115.7 million for light-duty hydrogen stations"
-
-2019-12-27 8:12:21
 
 ---
 
@@ -1230,8 +993,6 @@ href="https://twitter.com/Bloom_Energy/status/1210274493425471488?ref_src=twsrc%
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
 
-2019-12-26 23:14:11
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A
@@ -1246,8 +1007,6 @@ href="https://twitter.com/Richard_D_Boyle/status/1210154464205606912?ref_src=tws
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
 
-2019-12-26 18:44:55
-
 ---
 
 "@EnergyHy2
@@ -1259,8 +1018,6 @@ and offshore assets."
 
 [Link](https://twitter.com/EnergyHy2/status/1210114104427454464)
 
-2019-12-26 12:7:51
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We
@@ -1271,8 +1028,6 @@ href="https://twitter.com/BatteryH2/status/1209983830485913601?ref_src=twsrc%5Et
 25, 2019</a></blockquote> <script async
 src="https://platform.twitter.com/widgets.js"
 charset="utf-8"></script>
-
-2019-12-26 11:9:36
 
 ---
 

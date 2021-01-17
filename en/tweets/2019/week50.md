@@ -7,13 +7,9 @@ Burn 🔥🔥🔥
 The first rule of string cosmology club is that nobody has the
 faintest idea what the rules of string cosmology club are"
 
-*2019-12-12 1:2:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s another of these on the drawing board, in the Netherlands. No construction yet but I suspect the Dutch might get there ahead of L.A.<a href="https://t.co/newQlX7Awa">https://t.co/newQlX7Awa</a></p>&mdash; Justin Gillis (@JustinHGillis) <a href="https://twitter.com/JustinHGillis/status/1204633692682932225?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-11 23:15:16*
 
 ---
 
@@ -22,39 +18,27 @@ heavy (per volume) bcz we too are mostly water. A watermellon is
 reeally heavy also known for its extremely high water content (I
 remember reading water hold perc better than a sponge)
 
-*2019-12-11 22:10:36*
-
 ---
 
 UK elecs are short and sweet. Good.
-
-*2019-12-11 21:52:27*
 
 ---
 
 "US hits Iran’s biggest airline and shipping group with sanctions" -- ft.com
 
-*2019-12-11 21:49:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LiDAR, redefined. Say hello to the first camera in the new Intel® RealSense™ LiDAR family, the Intel RealSense LiDAR Camera L515. Small enough to fit in the palm of your hand.<a href="https://t.co/2bbbIQGiRA">https://t.co/2bbbIQGiRA</a><a href="https://twitter.com/hashtag/depth?src=hash&amp;ref_src=twsrc%5Etfw">#depth</a> <a href="https://twitter.com/hashtag/lidar?src=hash&amp;ref_src=twsrc%5Etfw">#lidar</a> <a href="https://twitter.com/hashtag/intelrealsense?src=hash&amp;ref_src=twsrc%5Etfw">#intelrealsense</a> <a href="https://t.co/9afZaAxGBy">pic.twitter.com/9afZaAxGBy</a></p>&mdash; Intel® RealSense™ (@IntelRealSense) <a href="https://twitter.com/IntelRealSense/status/1204794055038652416?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-11 20:52:5*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Statistically, you&#39;re more likely to die from Tory policy than from terrorism</p>&mdash; mostly festive bee 🐝🎄⛄🎁 (@soapachu) <a href="https://twitter.com/soapachu/status/1204295787557072896?ref_src=twsrc%5Etfw">December 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-11 19:23:34*
 
 ---
 
 Some motherfuckers are aaalways trying to ice skate uphill.
 
 "There are still those who think batteries are a viable storage solution"
-
-*2019-12-11 14:56:18*
 
 ---
 
@@ -71,8 +55,6 @@ customers" -- Reuters
 
 [Link](https://uk.mobile.reuters.com/article/amp/idUKKBN1YE1GE)
 
-*2019-12-11 14:54:16*
-
 ---
 
 A new hydrogen city bus that uses the same fuel cell stack as the Toyota Mirai will be tested on roads in Portugal next year.
@@ -83,15 +65,11 @@ H2.City Gold, which was presented at Busworld 2019 in Brussels.
 
 [Link](https://www.h2-view.com/story/caetanobus-launches-first-hydrogen-bus-with-toyota-technology/)
 
-*2019-12-11 13:49:50*
-
 ---
 
 Chris Joss - Wrong Alley Street \#music
 
 [Link](https://www.youtube.com/watch?v=M0ymw768TCQ)
-
-*2019-12-11 13:5:16*
 
 ---
 
@@ -104,15 +82,11 @@ coal in Australia, liquefied at -253C, will be shipped to Japan"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Japan 🇯🇵 has launched the world’s first ocean-going liquid <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> carrier as the energy-poor country works to build a global supply chain for <a href="https://twitter.com/hashtag/carbonfree?src=hash&amp;ref_src=twsrc%5Etfw">#carbonfree</a> fuel.<a href="https://t.co/OBId74g31i">https://t.co/OBId74g31i</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1204662496633786368?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-11 12:10:45*
-
 ---
 
 When I Get Home - Jenny Kerr \#music
 
 [Link](https://www.youtube.com/watch?v=fWhxTeLkol8)
-
-*2019-12-11 10:45:11*
 
 ---
 
@@ -123,20 +97,14 @@ variables, but creates the false impression that there is some kind of
 general and useful classification scheme available in general.' --
 L. Evans"
 
-*2019-12-10 22:35:57*
-
 ---
 
 Actress from SGate having trouble with
 [TWTR](https://mobile.twitter.com/dhewlett/status/1204443508209340416).
 
-*2019-12-10 20:12:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Other once-hot things that feel like they&#39;re also in the thick of winter: blockchain, e-scooters, consumer robotics, any wearables not made by Apple, self-driving cars, IoT. <br><br>They&#39;ll probably all recover and reach their potential in some evolved form. But winter is harsh</p>&mdash; Chris Anderson (@chr1sa) <a href="https://twitter.com/chr1sa/status/1204441158568427520?ref_src=twsrc%5Etfw">December 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-10 19:45:55*
 
 ---
 
@@ -161,8 +129,6 @@ problems can grow and metastasize.
 
 "Dems acting like Reps pushed Reps further right ..."
 
-*2019-12-10 16:16:56*
-
 ---
 
 Nomads. Yep.
@@ -175,15 +141,11 @@ accompanying the caravans on Arabia's main trade route through Mecca"
 
 [Link](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?historyid=aa55)
 
-*2019-12-10 15:13:18*
-
 ---
 
 Tosca - Have Some Fun (Urbs Big City Mix) \#music
 
 [Link](https://youtu.be/u2p1Dbgz5UQ)
-
-*2019-12-10 12:34:43*
 
 ---
 
@@ -194,8 +156,6 @@ Tosca - Have Some Fun (Urbs Big City Mix) \#music
 This is just getting better by the day. And all so hedge funds can
 keep their 10x leverage and Dimon can buyback JPM stock"
 
-*2019-12-10 11:26:26*
-
 ---
 
 It is - and I was kidding. BJ is 100% English, in fact comically so,
@@ -205,8 +165,6 @@ guy.
 "You said Boris J is a tigger bcz of his distant heritage. Isn't that
 not a contradiction w culture code"
 
-*2019-12-10 7:53:39*
-
 ---
 
 Reading too much pol inflammatory content - I was like "oh yea, what a
@@ -214,16 +172,12 @@ snowflake" - turns out there is a company called Snowflake 😶
 
 "Snowflake CEO on taking company public ... "
 
-*2019-12-9 21:48:2*
-
 ---
 
 "@diff_eq
 
 The first thing people did with early electronic computers was
 numerically solve differential equations"
-
-*2019-12-9 21:43:20*
 
 ---
 
@@ -234,15 +188,11 @@ Listen to that time @BernieSanders even refused
 
 [Link](https://mobile.twitter.com/rafaelshimunov/status/1203566461542907906)
 
-*2019-12-9 21:19:3*
-
 ---
 
 I'd look at the experience of Postmodernists - they started with the
 QM Uncertainty Principle and now they are in lala land,
 ultra-subjective, and worse, anti-science.
-
-*2019-12-9 20:19:8*
 
 ---
 
@@ -251,8 +201,6 @@ lack of one (which some modern day weirdos turned into an accepted
 absurdism, extreme relativism). Philosophy and hard sciences are
 intertwined, and if philosophers follow these effers they'll fall off
 a cliff never to come back. Watch out.
-
-*2019-12-9 20:13:33*
 
 ---
 
@@ -270,8 +218,6 @@ he said in mock astonishment, 'Surely you don't believe in that old
 superstition!' 'No,' said Bohr, 'but they say it works even if you
 don't believe in it.'"
 
-*2019-12-9 20:0:0*
-
 ---
 
 True. It can't say "how that exists", it just an algorithmic approach
@@ -286,15 +232,11 @@ Also see a theory of [shadows](../../2019/08/smolin.md).
 
 "Quantum Mechanics works (computes) but it has no ontology"
 
-*2019-12-9 19:13:46*
-
 ---
 
 Damn. Many deaths. RIP.
 
 "Former Fed chairman Paul Volcker dies aged 92"
-
-*2019-12-9 19:13:46*
 
 ---
 
@@ -315,13 +257,9 @@ NewKip is dead, make way for New NewKip.  Farage is the most poisonous
 politician never elected to Parliament, how do we keep him away from
 us?"
 
-*2019-12-9 15:6:25*
-
 ---
 
 These are [deep issues](https://vignette.wikia.nocookie.net/memoryalpha/images/7/7e/Data_wearing_a_beard.jpg/revision/latest?cb=20121212024612&path-prefix=en). I don't think we can do them justice here. 
-
-*2019-12-9 14:37:0*
 
 ---
 
@@ -349,16 +287,12 @@ the gauge principle, give rise to the forces of nature, it leads to
 the differences in their properties." -- Smolin, *Trouble with
 Physics*
 
-*2019-12-9 14:27:3*
-
 ---
 
 Soo... if I approximate f' numerically, and use BFGS I already have
 derivative-free optimization 🤔 (Hessian is already approximated). Lit
 on DFO almost always exclusively talks about trust region
 mthds. 
-
-*2019-12-9 14:7:30*
 
 ---
 
@@ -370,8 +304,6 @@ Haha like a fart in a lift. Nice.
 on you have to hand it to the slimy shishter, he's like a fart in a
 lift! He just seems to linger🤢"
 
-*2019-12-9 11:44:20*
-
 ---
 
 RIP 🖖
@@ -380,14 +312,10 @@ RIP 🖖
 
 [Link](https://www.gateworld.net/news/2019/12/star-trek-actor-rene-auberjonois-has-died/amp)
 
-*2019-12-9 11:25:50*
-
 ---
 
 If I came back from a deserted island after years, I could just update
 that stats page and I'd know exactly where the econ was.
-
-*2019-12-9 10:49:25*
 
 ---
 
@@ -396,8 +324,6 @@ Non-Farm Payroll YoY change \# part of the
 of the late-cycle. The sharp falls in the graph are obviously
 recessions. They extended the latest block as far as they could, with
 laughing gas and [cowbell](https://youtu.be/cVsQLlk-T0s?t=86). Mooooarrr... Moooaaarrrr....
-
-*2019-12-9 9:34:1*
 
 ---
 
@@ -426,8 +352,6 @@ uses barely any energy to stay running"
 
 [Link](https://support.exodus.io/article/1284-nano-coin)
 
-*2019-12-8 21:25:32*
-
 ---
 
 "Today, Google has eight products with more than a billion users
@@ -453,8 +377,6 @@ than a traditional company. We have this large community of people,
 and more than other technology companies we’re really setting
 policies.'" -- Stoller, *Goliath*
 
-*2019-12-8 16:28:46*
-
 ---
 
 "@SShackford
@@ -465,8 +387,6 @@ it. Now he's reaping the consequences [as in now his personal comm is
 out on the open, ouch]"
 
 [Link](https://twitter.com/SShackford/status/1202641814030675968)
-
-*2019-12-8 15:39:53*
 
 ---
 
@@ -481,8 +401,6 @@ lithium triangle countries of Bolivia, Argentina, and Chile"
 
 [Link](https://newrepublic.com/amp/article/155753/climate-changes-great-lithium-problem)
 
-*2019-12-8 15:4:25*
-
 ---
 
 "@DonaldM38768041
@@ -492,8 +410,6 @@ positive statement, but a double positive does not make a negative.'
 
 From the back of the class someone said in a sarcastic tone, 'yeah,
 yeah'"
-
-*2019-12-8 13:0:24*
 
 ---
 
@@ -507,8 +423,6 @@ At the ballot box, Americans voted for change in 2006, 2008, 2010,
 2014, and 2016, veering from party to party in a desperate search for
 someone to address their fears and anxieties" -- Stoller, *Goliath*
 
-*2019-12-8 11:57:58*
-
 ---
 
 IBM did all that? I thought it was bunch of rabid libertards in a
@@ -521,8 +435,6 @@ standardized its PC chips on Intel. IBM then transferred enormous
 programming and technical know-how to both companies, and even
 protected Intel throughout the 1980s from Japanese competition"
 
-*2019-12-8 9:51:49*
-
 ---
 
 "As with Rockefeller leveraging the network of railroads to monopolize
@@ -530,8 +442,6 @@ the oil industry, entrepreneurs used the exploding personal computer
 market to seize monopoly power around key bottlenecks. Spreadsheets,
 word processors, and operating systems became costly software
 monopolies" -- Stoller, *Goliath*
-
-*2019-12-8 9:51:6*
 
 ---
 
@@ -551,8 +461,6 @@ monopoly power, and the concomitant charging of monopoly prices, is
 not only not unlawful,” said the court, “it is an important element of
 the free-market system"  -- Stoller, *Goliath*
 
-*2019-12-8 9:50:23*
-
 ---
 
 "As a candidate, Clinton’s Democratic platform called for a
@@ -569,8 +477,6 @@ entrenched Reagan’s antitrust principles into the DOJ by making them
 bipartisan, but expanded the Reagan revolution more broadly. With the
 end of the Cold War, Clinton took neoliberalism global"  -- Stoller, *Goliath*
 
-*2019-12-8 9:49:41*
-
 ---
 
 Exactly. So cons in UK even lost that issue-non-issue to chew on (at
@@ -578,8 +484,6 @@ least US cons still have that), so what are you left with? The
 European Union.
 
 "Cameron was pro environment"
-
-*2019-12-7 17:42:5*
 
 ---
 
@@ -591,8 +495,6 @@ Then if a hard-Brexit does happen, it will be Tony Blair's fault.
 
 "You say Dems acting like Reps caused Reps to go insane. But look at
 UK, Blair's Third Way did not seem to effect cons"
-
-*2019-12-7 17:40:45*
 
 ---
 
@@ -615,8 +517,6 @@ markets.” As Rothenberg pointed out, Bill Bradley, Gary Hart, and Paul
 Tsongas made the same argument, all proposing to relax antitrust and
 banking laws" -- Stoller, *Goliath*
 
-*2019-12-7 17:35:44*
-
 ---
 
 "@DavidIHarrison
@@ -628,8 +528,6 @@ scarce - he made lists of books he wanted to get hold of.
 
 You have the world's books & knowledge at yr fingertips to educate u"
 
-*2019-12-7 17:24:11*
-
 ---
 
 Nice 👍
@@ -639,8 +537,6 @@ double deckers across three of its central routes, with £12m of
 funding from the city mayor Sadiq Khan"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Next year, Transport for London <a href="https://twitter.com/TfL?ref_src=twsrc%5Etfw">@TfL</a> will roll out the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered double deckers across three of its central routes – good news for passengers and those who have to breathe in the capital’s air on a daily basis 👉🏻 <a href="https://twitter.com/Independent?ref_src=twsrc%5Etfw">@Independent</a> <a href="https://t.co/OBhwitz7in">https://t.co/OBhwitz7in</a></p>&mdash; Dominique Lecocq 🌏 (@Lecocq_dom) <a href="https://twitter.com/Lecocq_dom/status/1203183920864485382?ref_src=twsrc%5Etfw">December 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-7 17:20:3*
 
 ---
 
@@ -661,13 +557,9 @@ future leaders of the Democratic Party: Tim Wirth, Dick Gephardt, Al
 Gore, Geraldine Ferraro, Martin Frost, Les Aspin, Tony Coelho, Barney
 Frank, and many others" -- Stoller, *Goliath*
 
-*2019-12-7 16:27:38*
-
 ---
 
 Gordon Gekko character was inspired by Milken
-
-*2019-12-7 14:44:1*
 
 ---
 
@@ -683,8 +575,6 @@ an arbitrageur. His protégé, Robert Freeman, accused of being part of
 the Milken-influenced network of traders, eventually pleaded guilty to
 insider trading" -- Stoller, *Goliath*
 
-*2019-12-7 14:44:1*
-
 ---
 
 "Business goliaths restructured in the 1980s to take advantage of this
@@ -695,8 +585,6 @@ was trained as an engineer, and had made it to the top at GE by
 selling a new type of plastic. Walter Wriston was on the board of GE,
 and had helped Welch become CEO.48 Welch made his mark as CEO not by
 engineering products, but by financial engineering" -- Stoller, *Goliath*
-
-*2019-12-7 13:43:37*
 
 ---
 
@@ -711,15 +599,11 @@ we keep looking and looking there is noone else.
 
 [Link](https://youtu.be/8wa1l7M5gU8?t=429)
 
-*2019-12-7 12:16:51*
-
 ---
 
 "Life is so short!". It isn't. There is a huge amt of time. So if u
 focus and have that inclination anyone can produce an insane
 amount. Literature, research, buildings whatever.
-
-*2019-12-7 9:21:11*
 
 ---
 
@@ -730,8 +614,6 @@ this week — it may be the most talked-about artwork at this year's
 event"
 
 [Link](https://mobile.twitter.com/CBSNews/status/1203026454105264128)
-
-*2019-12-7 8:52:31*
 
 ---
 
@@ -746,8 +628,6 @@ to work on something so complicated"
 
 [Link](https://www.johndcook.com/blog/2016/07/26/physical-models/)
 
-*2019-12-6 22:13:45*
-
 ---
 
 A lot of methane in that, isn't there..? Same tech could be used for
@@ -760,19 +640,13 @@ Turning Greenhouse Gases into #Hydrogen-Pilot plant in Daegu, South
 Korea capable of producing #fuelcell grade hydrogen from landfill gas
 (LFG)"
 
-*2019-12-6 22:7:47*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Peak Japanese motivational poster <a href="https://t.co/tQlUuK0La2">pic.twitter.com/tQlUuK0La2</a></p>&mdash; Krish Ashok (@krishashok) <a href="https://twitter.com/krishashok/status/1199203257794433025?ref_src=twsrc%5Etfw">November 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-6 22:4:23*
-
 ---
 
 [The New Optimists](https://newint.org/features/2019/07/01/long-read-progress-and-its-discontents)
-
-*2019-12-6 18:56:7*
 
 ---
 
@@ -786,21 +660,15 @@ Also [here](https://www.eff.org/deeplinks/2019/10/why-fiber-vastly-superior-cabl
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie Sanders wants to invest $150 billion in grants for public broadband networks and break up internet service titans <a href="https://t.co/ivJAUXhSwm">https://t.co/ivJAUXhSwm</a></p>&mdash; Jacob Pramuk (@jacobpramuk) <a href="https://twitter.com/jacobpramuk/status/1202935537734168576?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-6 16:45:43*
-
 ---
 
 <img width="400" src="https://pbs.twimg.com/media/ELGNDhuWwAAo2rR?format=png&name=large"/>
-
-*2019-12-6 13:53:16*
 
 ---
 
 Fugu
 
 <img src="https://nippaku.files.wordpress.com/2013/10/fugu-gastroville-com.jpg" width="340"/>
-
-*2019-12-6 13:6:14*
 
 ---
 
@@ -812,19 +680,13 @@ should.
 Obsessing over "store of value" arg is not useful..  No value lasts
 forever.. 
 
-*2019-12-6 11:40:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Orsted is thinking about how to combine its offshore wind farms with hydrogen manufacturing plants to make heavy industry green <a href="https://t.co/VIXiHTpxcT">https://t.co/VIXiHTpxcT</a></p>&mdash; Bloomberg Australia (@BloombergAU) <a href="https://twitter.com/BloombergAU/status/1202849408267755520?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-6 10:39:34*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Appears there are some issues with the new hot of the press LFP batteries. - Technical problems for the electric coach, Flixbus pilot in Germany is stopped. - <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> to the rescue. <a href="https://t.co/vVbHpzXqMP">https://t.co/vVbHpzXqMP</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1202658668233338880?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-5 21:43:14*
 
 ---
 
@@ -832,32 +694,22 @@ Still a dildo - but there is hope for you yet.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think <a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a> and <a href="https://twitter.com/ewarren?ref_src=twsrc%5Etfw">@ewarren</a> are entirely correct to advocate for universal healthcare (although I don&#39;t agree with their specific plans) and the other candidates advocating for a &quot;public option&quot; are not being ambitious enough on healthcare. We need universal healthcare.</p>&mdash; John Delaney (@JohnDelaney) <a href="https://twitter.com/JohnDelaney/status/1202416639930699784?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-5 14:33:47*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let me get this straight: all those years I spent writing about the buying off of politicians and regulators by Wall Street, or about military contracting corruption, must now be understood as “anti-democratic propaganda”? Is this a joke? <a href="https://t.co/6u1fXMYFpe">https://t.co/6u1fXMYFpe</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1202251938533978112?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-5 14:6:43*
 
 ---
 
 Zak and Chong. Ur compsci code didn't work but I could salvage enough. 👍
 
-*2019-12-5 14:2:34*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/hashtag/battery?src=hash&amp;ref_src=twsrc%5Etfw">#battery</a> <a href="https://twitter.com/hashtag/lithium?src=hash&amp;ref_src=twsrc%5Etfw">#lithium</a> requires massive amounts of water in the driest places on earth ‘~1,700 litres per second’ Disrupting ecosystems, cuts off freshwater access for indigenous communities in the countries of Bolivia, Argentina, and Chile. <a href="https://twitter.com/hashtag/unsustainable?src=hash&amp;ref_src=twsrc%5Etfw">#unsustainable</a> <a href="https://t.co/LDX1I1h9iP">https://t.co/LDX1I1h9iP</a></p>&mdash; Jon Hunt (@JontheHunt) <a href="https://twitter.com/JontheHunt/status/1202486602699808769?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-5 11:6:12*
 
 ---
 
 Repercussions - Michel Camilo
 
 [Link](https://www.youtube.com/watch?v=GPKs1Bk8Q5I)
-
-*2019-12-5 10:20:55*
 
 ---

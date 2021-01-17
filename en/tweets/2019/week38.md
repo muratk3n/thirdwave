@@ -2,13 +2,9 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Green hydrogen, together with wind and solar, has the possibility to replace ALL oil/petrol/diesel, natural gas, coal, nuclear and most of batteries. Did I miss anything?</p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1174433503422963720?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-19 4:58:27*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hmm. But Joe Biden keeps telling me it&#39;s Medicare For All that&#39;s going to make me give up my beloved health insurer. <a href="https://t.co/wBccSyjtXF">https://t.co/wBccSyjtXF</a></p>&mdash; corey robin (@CoreyRobin) <a href="https://twitter.com/CoreyRobin/status/1174128447590948866?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-18 17:40:45*
 
 ---
 
@@ -16,13 +12,9 @@
 
 Just over 5 kilos of hydrogen deliver a 300+ mile range for a full-sized car, about twice the output of an equivalent amount of #petrol.
 
-*2019-9-18 17:37:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are only three hard problems in computer science: printers, Bluetooth and projectors. <br><br>(Vertical centering in HTML had been downgraded to “difficult, but theoretically possible”)</p>&mdash; Rakhim (@freetonik) <a href="https://twitter.com/freetonik/status/1174309911070744576?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-18 17:34:49*
 
 ---
 
@@ -68,8 +60,6 @@ the deal."
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">raised by a conservative repub fam. religious right hypocrisy turned me in to kind of a college &quot;libertarian&quot;. Iraq made me loathe Bush/GOP (obv Ds v much to blame here too). tea party &amp; feckless Obama pushed me ever leftward. 2016 (HRC &amp; Trump) made me want to Burn It All Down</p>&mdash; New Wet Face in Hell (@WmBankston) <a href="https://twitter.com/WmBankston/status/1174107281488797696?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-18 16:52:15*
-
 ---
 
 Press 1 for Spiderman, 2 for Yoda. And press 3 for Jar Jar universe
@@ -87,15 +77,11 @@ can speak to a Disney character (including Yoda and Spiderman) and
 they'll tell your kid to go to sleep. If that's not vertical
 integration I don't know what is"
 
-*2019-9-18 6:51:43*
-
 ---
 
 Mars cannot be terraformed. 
 
 [Link](https://youtu.be/FshtPsOTCP4?t=198)
-
-*2019-9-18 6:51:43*
 
 ---
 
@@ -103,15 +89,11 @@ Tesla In Sweden Goes Up In Flames After Passenger Seat Catches Fire
 
 [Link](https://mobile.twitter.com/zerohedge/status/1173964829339586560)
 
-*2019-9-17 23:14:4*
-
 ---
 
 Lachlan Patterson. Good stuff.
 
 [Link](https://youtu.be/uSh5voSUhrs)
-
-*2019-9-17 22:13:59*
 
 ---
 
@@ -123,25 +105,17 @@ the U.S. East Coast, closed its doors in August after a massive fire,
 idling more than 1,000 employees including some 650 union workers" --
 Reuters
 
-*2019-9-17 21:43:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is huge and a clear signal that many other larger institutions, both public and private, will follow. As California goes, so goes the rest of the nation. <a href="https://t.co/9Sx9a2GzdB">https://t.co/9Sx9a2GzdB</a></p>&mdash; At War With The Dinosaurs (@WarWithTheDinos) <a href="https://twitter.com/WarWithTheDinos/status/1174015803106025473?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-17 21:31:41*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just found out that LaTeX has a package (&quot;typewriter&quot;) to create documents that look like they were written on an old typewriter! :) <a href="https://t.co/4qUgic1Xlw">pic.twitter.com/4qUgic1Xlw</a></p>&mdash; Luis Batalha 🇵🇹🇺🇸 (@luismbat) <a href="https://twitter.com/luismbat/status/1173913461736259584?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-17 21:29:58*
-
 ---
 
 [Sippin Bordeaux out in Bordeaux](https://youtu.be/kpxBgrJFPOA?t=42)
-
-*2019-9-17 19:57:28*
 
 ---
 
@@ -149,8 +123,6 @@ SR's value on itw own is useful too; positive, the greater the
 better. People usually seek values close to 1.0. If, per unit
 volatility (risk), the average return is close to 1.0, that would be a
 preferable asset.
-
-*2019-9-17 19:57:28*
 
 ---
 
@@ -190,8 +162,6 @@ print (sharpe(df2['Adj Close']))
 0.5100019269309122
 ```
 
-*2019-9-17 19:57:28*
-
 ---
 
 Chan is an experienced quantitative trader. Listen to the man.
@@ -202,13 +172,9 @@ In recession, stocks' Sharpe=-0.21, bonds' Sharpe=+1.33. In expansion,
 stocks' Sharpe=+0.84, bonds' Sharpe=+1.5. Can anyone explain to me
 again why we should buy stocks?"
 
-*2019-9-17 19:57:28*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a big part of the solution to this problem is to acknowledge that most of what we do as a community is not science. <a href="https://t.co/BvAzSeaPpd">https://t.co/BvAzSeaPpd</a></p>&mdash; Misha Denil (@notmisha) <a href="https://twitter.com/notmisha/status/1173698510279102466?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-17 19:54:44*
 
 ---
 
@@ -229,29 +195,21 @@ from ground up"
 
 [Link](https://observer.com/2019/09/moon-space-elevator-lunar-exploration-columbia-study/amp)
 
-*2019-9-17 18:54:44*
-
 ---
 
 The message is two-fold; lawmakers, officials - act like it. Voters -
 don't change. You are already great at what you do, deciding on
 people. 
 
-*2019-9-17 16:29:46*
-
 ---
 
 
 True. BSG was colored a lot by 9/11, the Iraq War. 
 
-*2019-9-17 16:29:46*
-
 ---
 
 There is a huge empty hole where a big-tent scifi show should be; It
 was Trek, SGate, then nothing.. BSG, show'em how it's done.
-
-*2019-9-17 16:29:46*
 
 ---
 
@@ -259,21 +217,15 @@ was Trek, SGate, then nothing.. BSG, show'em how it's done.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good to know 👍🏻😉 Excited to see what you come up with. 🚀</p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1174164332080271361?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-17 16:29:46*
-
 ---
 
 [So say we all](https://www.hollywoodreporter.com/live-feed/battlestar-galactica-reboot-sam-esmail-works-at-nbcus-streamer-1239018)
 
 \#BSG
 
-*2019-9-17 16:29:46*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well, he is incredible in the sense that he&#39;s not credible.</p>&mdash; Phil (@Philmoorhouse76) <a href="https://twitter.com/Philmoorhouse76/status/1173935616100392960?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-17 15:43:19*
 
 ---
 
@@ -282,8 +234,6 @@ role was a glorified space secretary) but MLK convinced her to
 stay. It was the days of civil right protests and he thought her
 presence was a positive message for the movement. Turns out MLK was a
 huge Trekkie 🖖
-
-*2019-9-17 15:41:9*
 
 ---
 
@@ -295,8 +245,6 @@ generation"
 
 [Link](http://bit.ly/2koHGlM)
 
-*2019-9-17 15:41:9*
-
 ---
 
 He said "a Republic if you can keep it", not "after we ran a
@@ -304,22 +252,16 @@ focus-group we determined a Republic is requested by most and you can
 also later decide, with another focus-group, about what you can do
 with it".
 
-*2019-9-17 15:13:2*
-
 ---
 
 "Ew molecules so dirty...icky. Why can't I put my Macbook Pro batteries
 on a car?". Fucktard.
-
-*2019-9-17 15:11:29*
 
 ---
 
 So out of all the ways planets can rotate around their sun, they
 mostly end up on the same plane with other planets, essentially on a
 2D flat structure. Nice huh?
-
-*2019-9-17 12:25:31*
 
 ---
 
@@ -331,25 +273,17 @@ I am a problem solver.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love sci-fi movies, but who gets to decide which way is up in space? <a href="https://t.co/Y7Z27cz4m8">pic.twitter.com/Y7Z27cz4m8</a></p>&mdash; Mark Sellors 🐠 (@sellorm) <a href="https://twitter.com/sellorm/status/1173730724937129984?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-17 12:25:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re no longer the “tech” industry. We’re the “spying” industry, now. <a href="https://t.co/c7ljfhu3qI">https://t.co/c7ljfhu3qI</a></p>&mdash; Matthew Lyon (@mattly) <a href="https://twitter.com/mattly/status/1173629230191542272?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-17 10:29:32*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A woman from Wenzhou gets nose job, can no longer sign into online accounts, arrive at work, check into hotels and board trains. <a href="https://t.co/MgAfayvmvb">https://t.co/MgAfayvmvb</a></p>&mdash; Mark Bergen (@mhbergen) <a href="https://twitter.com/mhbergen/status/1173671477377261569?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-17 3:25:6*
-
 ---
 
 Still tho, nothing can beat [this movie](../../2012/10/president-by-day-vampire-hunter-by-night.md)
-
-*2019-9-17 3:19:34*
 
 ---
 
@@ -359,8 +293,6 @@ Still tho, nothing can beat [this movie](../../2012/10/president-by-day-vampire-
 
 [Link](https://mobile.twitter.com/chainbear/status/1173502976482250752)
 
-*2019-9-17 3:19:34*
-
 ---
 
 How about the country name Niger? This is a real country in
@@ -368,19 +300,13 @@ Africa. But one more g and we are in censor category.. I think we are
 better off striking this country from maps altogether to avoid any
 unwanted offense.
 
-*2019-9-17 3:37:56*
-
 ---
 
 NIGGARDLY
 
-*2019-9-16 23:24:59*
-
 ---
 
 Really? You can't say "niggardly" anymore either?
-
-*2019-9-16 23:24:32*
 
 ---
 
@@ -390,13 +316,9 @@ Referandums need to be outlawed
 
 [Link](https://mobile.twitter.com/Doozy_45/status/1173603706081878016)
 
-*2019-9-16 23:17:13*
-
 ---
 
 "Former JP Morgan trader pleads guilty to manipulating US metals markets for years"
-
-*2019-9-16 21:37:37*
 
 ---
 
@@ -404,13 +326,9 @@ I like the accent
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IAA2019?src=hash&amp;ref_src=twsrc%5Etfw">#IAA2019</a> Thanks to our unique model of both experimental and numerical tools, we are able to evaluate immediately the impacts on the <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> system if we change a component. A key tool for us to reduce time to market for our consumers. <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> <a href="https://t.co/c5b322cD8V">pic.twitter.com/c5b322cD8V</a></p>&mdash; Symbio (@SymbioFCell) <a href="https://twitter.com/SymbioFCell/status/1173623761473609728?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-16 18:59:22*
-
 ---
 
 <img src="https://pbs.twimg.com/media/EElAnGJXUAAUcMb?format=jpg&name=small" width="400"/>
-
-*2019-9-16 15:25:29*
 
 ---
 
@@ -418,15 +336,11 @@ Determining direction, seeing all the angles takes the most time, and
 feels like non-work; the grind is always preferable, but not always
 possible.
 
-*2019-9-16 12:24:17*
-
 ---
 
 It's true; Dirac delta function is like an imaginary number, $x^2=-1$
 cannot be satisfied by any real number. And no ordinary func can be
 non-zero except at one point.
-
-*2019-9-16 12:16:33*
 
 ---
 
@@ -434,8 +348,6 @@ But.. but.. countercyclical, if private doesn't spend, then, aggregate
 demand, or something..?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇨🇳 It doesn&#39;t seem like stimulus efforts are helping. Could Q3 GDP be the weakest &quot;ever&quot;? <a href="https://t.co/KUhoaz9jjm">pic.twitter.com/KUhoaz9jjm</a></p>&mdash; Mikael Sarwe (@MikaelSarwe) <a href="https://twitter.com/MikaelSarwe/status/1173483968542445568?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-16 11:24:12*
 
 ---
 
@@ -460,15 +372,11 @@ ignore him, which I’ll try to do from now on" -- Voit
 
 [Link](http://www.math.columbia.edu/~woit/wordpress/?p=11277)
 
-*2019-9-16 8:49:48*
-
 ---
 
 Mostly unknown piece of history: Paulson allowed Lehman Brothers to go
 bankrupt to show the Congress what would happen if they didnt play
 ball.
-
-*2019-9-16 0:48:11*
 
 ---
   
@@ -481,15 +389,11 @@ will pay ANYTHING maybe even for defective unit blocks.."
 
 [Link](https://mobile.twitter.com/GenCar001/status/1173117051835052032)
 
-*2019-9-16 0:31:30*
-
 ---
 
 On a different note, all attacks on fossil infrastructure are
 awesome. I'd love to see some *Independence Day* level shit done to
 these effers.
-
-*2019-9-16 0:31:30*
 
 ---
 
@@ -498,21 +402,15 @@ from water"
 
 [Link](https://www.thejournal.ie/irish-student-science-award-microplastics-4745270-Jul2019/%3famp=1)
 
-*2019-9-15 20:32:13*
-
 ---
 
 When I was in America there were books in stores (there were
 bookstores!) with titles like *Maestro*, talking about the genius of
 Greenspan. It feels like a lifetime ago.
 
-*2019-9-15 19:56:13*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Once the industry scales up, renewable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> could be produced from <a href="https://twitter.com/hashtag/wind?src=hash&amp;ref_src=twsrc%5Etfw">#wind</a> or <a href="https://twitter.com/hashtag/solar?src=hash&amp;ref_src=twsrc%5Etfw">#solar</a> power for the same price as natural gas in most of Europe and Asia&quot;<a href="https://t.co/G3Fzh94GN4">https://t.co/G3Fzh94GN4</a></p>&mdash; Stéphane Jéhanno (@stejeh) <a href="https://twitter.com/stejeh/status/1173214874249375744?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-15 19:14:13*
 
 ---
 
@@ -520,13 +418,9 @@ GF says Iran did it.
 
 [Link](https://geopoliticalfutures.com/the-geopolitics-of-irans-refinery-attack/)
 
-*2019-9-17 12:25:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every country can make their own circular green fuel from sun and water. Green hydrogen- problem solved. <a href="https://twitter.com/hashtag/OOTT?src=hash&amp;ref_src=twsrc%5Etfw">#OOTT</a> <a href="https://t.co/KjMcSPXyIi">https://t.co/KjMcSPXyIi</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1173202094289031168?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-15 15:12:32*
 
 ---
 
@@ -534,8 +428,6 @@ In finance you can make a billion [with a single
 decision](https://twitter.com/RaoulGMI/status/1139692973711511559) -
 this should not be possible. Not only does it create inequality, it
 also creates unwanted risk in the system.
-
-*2019-9-15 13:24:12*
 
 ---
 
@@ -547,19 +439,13 @@ scheme is socialism for the rich.
 
 "But we dont want socialism for people, giving them free stuff"
 
-*2019-9-15 13:24:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Carl Sagan explains how the ancient Greeks knew the Earth was round and calculated its circumference over 2,000 years ago. <a href="https://t.co/3AjV9hC6hi">pic.twitter.com/3AjV9hC6hi</a></p>&mdash; Wonder of Science (@wonderofscience) <a href="https://twitter.com/wonderofscience/status/1171426852340207617?ref_src=twsrc%5Etfw">September 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-15 12:7:20*
-
 ---
 
 A reminder: Obama was a proponent of battery electric cars.
-
-*2019-9-15 11:53:52*
 
 ---
 
@@ -594,27 +480,19 @@ And because routes can be planned and optimized, companies can use hydrogen truc
 
 [Link](https://jalopnik.com/the-future-of-hydrogen-cars-1838119178)
 
-*2019-9-15 11:49:42*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shameful that <a href="https://twitter.com/hashtag/FuckoffScotland?src=hash&amp;ref_src=twsrc%5Etfw">#FuckoffScotland</a> is trending in England. My question to Scotland is, if you do decide to fuck off, can I please come with you?</p>&mdash; Liam O&#39;Reilly (@Liamoreilly2) <a href="https://twitter.com/Liamoreilly2/status/1172516640703094785?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-15 7:31:19*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curious about the future of globalization? <a href="https://twitter.com/rodrikdani?ref_src=twsrc%5Etfw">@rodrikdani</a> is too. He has studied the impacts of <a href="https://twitter.com/hashtag/TariffReductions?src=hash&amp;ref_src=twsrc%5Etfw">#TariffReductions</a> and <a href="https://twitter.com/hashtag/FinancialLiberalization?src=hash&amp;ref_src=twsrc%5Etfw">#FinancialLiberalization</a> on dev countries, written a number of books and is a professor at <a href="https://twitter.com/Harvard?ref_src=twsrc%5Etfw">@Harvard</a>. Is he the next <a href="https://twitter.com/hashtag/NotTheNobel?src=hash&amp;ref_src=twsrc%5Etfw">#NotTheNobel</a> winner?<a href="https://t.co/w87ZyAVUdQ">https://t.co/w87ZyAVUdQ</a></p>&mdash; The Mint (@themintmag) <a href="https://twitter.com/themintmag/status/1172860246508879872?ref_src=twsrc%5Etfw">September 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-14 19:17:12*
 
 ---
 
 Fred Koch was a Nazi? He even hired a Nazi nanny for Charles and David. Too funny.
 
 Libertards.
-
-*2019-9-14 18:23:55*
 
 ---
 
@@ -624,8 +502,6 @@ We had a newtec bubble, we had a subprime bubble and now we have a
 debt bubble. We hear the mantra this is different. Yes it is, this
 bubble is the biggest we ever had. The Martians will hear the Boom
 when it bursts"
-
-*2019-9-14 18:4:51*
 
 ---
 
@@ -684,16 +560,12 @@ neoliberal reforms and plunder"
 
 [Link](https://www.counterpunch.org/2019/09/13/bernie-sanders-and-the-realignment-of-the-american-left/)
 
-*2019-9-14 17:58:44*
-
 ---
 
 Technion Researchers improve[d] efficiency of [electrolysis based]
 hydrogen production from ~75% using current methods to 98.7%
 
 [Link](http://bit.ly/2UVa3bN)
-
-*2019-9-14 16:54:5*
 
 ---
 
@@ -708,8 +580,6 @@ contractors"
 
 [Link](https://www.nytimes.com/2019/08/29/opinion/democrats-2020-jobs-benefits.html)
 
-*2019-9-14 16:54:5*
-
 ---
 
 The absurdity of grades, with a great example.
@@ -717,8 +587,6 @@ The absurdity of grades, with a great example.
 \#khanacademy
 
 [Link](https://youtu.be/-MTRxRO5SRA?t=210)
-
-*2019-9-14 10:25:8*
 
 ---
 
@@ -731,13 +599,9 @@ company going public will 'screw up' the entire market"
 
 [Link](https://wolfstreet.com/2019/09/13/wework-ipo-the-straw-that-breaks-the-stock-markets-back-valuation-plunged-by-up-to-79/)
 
-*2019-9-14 7:51:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I asked someone to change to document to PDF and they’ve emailed me back a word document and changed the file name to pdf. How’s your Friday going?</p>&mdash; #CALI (@hashtagcali_) <a href="https://twitter.com/hashtagcali_/status/1172463124269715456?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-14 7:44:54*
 
 ---
 
@@ -759,13 +623,9 @@ and cheaper batteries, and we don’t know when or if we will.
 
 [Link](https://www.forbes.com/sites/ellenrwald/2019/09/13/before-we-talk-about-green-energy-lets-talk-about-batteries/#5b4ce6246c9d)
 
-*2019-9-14 7:42:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We&#39;re killing it on the economy&quot; <a href="https://t.co/RhHxAPOtmP">https://t.co/RhHxAPOtmP</a></p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1172543106648104960?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-13 21:19:50*
 
 ---
 
@@ -776,13 +636,9 @@ wait, that was F. Hoffman. 😐
 
 [Link](https://www.hollywoodreporter.com/amp/live-feed/penelope-ann-miller-mia-kirshner-star-lifetime-college-scandal-movie-1230840?__twitter_impression=true)
 
-*2019-9-13 21:33:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the size of the debt/deficit doesn’t matter then why do we bother collecting taxes in the first place?<br>🤔<br><br>If you make crazy claims I can ask crazy questions. 😎</p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1172545490220662784?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-13 21:5:53*
 
 ---
 
@@ -797,13 +653,9 @@ flying machines'"
 
 [Link](https://amp.theguardian.com/commentisfree/2019/sep/11/boeing-capitalism-deregulation?__twitter_impression=true)
 
-*2019-9-13 21:41:42*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is not a great idea to destroy banks&#39; profitability with negative rates when their assets are 3x bigger than your GDP.<br><br>Just sayin&#39; <a href="https://t.co/RcxuOaU57d">pic.twitter.com/RcxuOaU57d</a></p>&mdash; Daniel Lacalle (@dlacalle_IA) <a href="https://twitter.com/dlacalle_IA/status/1172478942655197187?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-13 20:9:25*
 
 ---
 
@@ -816,16 +668,12 @@ anymore, and this sorry excuse of "social policy" is all they have
 left. Said approach not only does not work, it triggers an adverse
 reaction on the other side.
 
-*2019-9-13 15:42:44*
-
 ---
 
 Upcoming TV series: *Dune: The Sisterhood* 😂😂😂😂
 
 Dude why don't you name them all like that. *CIS: The Sisterhood*. Or
 *NCIS: Cuck*. 
-
-*2019-9-13 15:42:44*
 
 ---
 
@@ -834,8 +682,6 @@ Dude why don't you name them all like that. *CIS: The Sisterhood*. Or
 Having two kids is not unlike having two servers for redundancy,
 except instead of failing over, each one of them wakes up the very
 millisecond the other one falls asleep"
-
-*2019-9-13 15:32:46*
 
 ---
 
@@ -848,13 +694,9 @@ Obama: 'The development of natural gas will create jobs and power
 trucks and factories that are cleaner and cheaper, proving that we
 don’t have to choose between our environment and our economy'"
 
-*2019-9-13 15:29:24*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If you had 30 of those in the North Sea you could totally replace the natural gas requirement for the whole country, and be totally self-sufficient with hydrogen,” - Totally!<a href="https://t.co/YwPIH1OAM3">https://t.co/YwPIH1OAM3</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1172486203796533249?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-13 15:24:38*
 
 ---
 
@@ -872,14 +714,10 @@ would lose long term efficiency later. After the competition is wiped
 out, there'll be less innovation, and the dominant company might even
 raise prices because they are not threatened by others anymore.
 
-*2019-9-13 11:45:50*
-
 ---
 
 Things will get heated of course, stop whining. Julian Jorge landed a
 good one \#demdebate
-
-*2019-9-13 10:22:37*
 
 ---
 
@@ -888,8 +726,6 @@ keeps producing ideas.
 
 \#demdebate
 
-*2019-9-13 10:4:11*
-
 ---
 
 "@ClimateBen
@@ -897,14 +733,10 @@ keeps producing ideas.
 Aviation is essentially a fossil fuel industry: It 'guzzles an
 eye-watering 5m barrels of oil every day'"
 
-*2019-9-13 9:42:19*
-
 ---
 
 Caliphate Islam is paganized Islam. The caliph, the pope, centralized
 religions - all the same shit. These places need "culture cleansing".
-
-*2019-9-13 9:42:19*
 
 ---
 
@@ -935,8 +767,6 @@ Roman Catholic Church as it compromised from the very beginning
 [Link](http://www.eaec.org/cults/romancatholic.htm)
 
 
-*2019-9-12 22:12:54*
-
 ---
 
 "ECB governors representing the top European economies defied Mario
@@ -959,9 +789,6 @@ according to officials with knowledge of the matter.
 
 [Link](https://www.zerohedge.com/geopolitical/did-draghi-lie-central-bankers-europes-biggest-economies-dissented-over-qe)
 
-*2019-9-12 21:16:35*
-
 ---
 
-<img width="500" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/muratk3n.png"/>
 

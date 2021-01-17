@@ -7,8 +7,6 @@ indicate complex money transfers from foreign sources into the control
 of a “slush fund” owned and operated by Devon Archer, John Kerry
 Senior, John Kerry Junior, Heinz Jr, and Hunter Biden."
 
-*2019-11-14 11:21:28*
-
 ---
 
 Store energy, desalinate at the same time. Crazy.
@@ -17,15 +15,11 @@ Store energy, desalinate at the same time. Crazy.
 
 [Link](https://www.nature.com/articles/s41467-019-13092-7)
 
-*2019-11-14 1:16:26*
-
 ---
 
 Good time to think abt which open source software / how much to take
 in a digital luggage to another planet? OS, numerical software,
 compilers, for sure. How much of Github could 1 take I wonder.
-
-*2019-11-13 22:33:15*
 
 ---
 
@@ -34,8 +28,6 @@ Great idea.
 "@valleyhack Unusual one here. Went to Svalbard with the CEO of GitHub
 because they've stored the world's open source software in an ice cave
 for safe keeping"
-
-*2019-11-13 22:32:55*
 
 ---
 
@@ -50,13 +42,9 @@ I've already lost 200km+ of range due to cold weather"
 
 [Link](https://twitter.com/kerooke/status/1194350147486044160)
 
-*2019-11-13 20:32:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lol, let&#39;s face it: at this point <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> is just a trading sardine on an air pocket, with only the dumbest of the dumb (that would be YOU, Baillie Gifford) thinking it&#39;s anything more than that.</p>&mdash; Mark B. Spiegel (@markbspiegel) <a href="https://twitter.com/markbspiegel/status/1194583824056934400?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-13 20:22:7*
 
 ---
 
@@ -66,8 +54,6 @@ is worrying, for leakage.  I stick to the position where fossil
 converted into H2 at the source, then all the way down the line fuel
 stays clean. This is the safest choice.
 
-*2019-11-13 20:15:28*
-
 ---
 
 Excellent. They also bought a TR bus company recently, so they could
@@ -75,21 +61,15 @@ be another entry vector for our favorite green fuel into the country.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SymbioH2?src=hash&amp;ref_src=twsrc%5Etfw">#SymbioH2</a> <a href="https://twitter.com/FlixBus_FR?ref_src=twsrc%5Etfw">@FlixBus_FR</a> may soon be operating European-made <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> coaches.<br> “A hybrid system that properly combines the battery and <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> is especially practical for heavy vehicles that cover long distances&quot;. <a href="https://t.co/s9UPg0Ioaq">https://t.co/s9UPg0Ioaq</a> via <a href="https://twitter.com/pvmagazine?ref_src=twsrc%5Etfw">@pvmagazine</a></p>&mdash; Symbio (@SymbioFCell) <a href="https://twitter.com/SymbioFCell/status/1194661398263013377?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-13 20:12:47*
-
 ---
 
 HySiLabs has a new H2 carrier tech, called Hydrasil. Works at room temp, a liquid, converts to H2 on demand through simple process.
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/sTxt5Ju1f8">https://t.co/sTxt5Ju1f8</a> <a href="https://twitter.com/hashtag/HydrogenFuelsSummit?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenFuelsSummit</a></p>&mdash; World Hydrogen Fuels (@HydrogenFSummit) <a href="https://twitter.com/HydrogenFSummit/status/1194540024605401090?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-13 19:3:28*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The crew has begun the return to shore with System 001/B. With this system, we have confirmed the core concept of the cleanup technology design and have completed all planned trials. We will now look to the next big steps for 2020 - find out more on December 12. <a href="https://t.co/wHkjje6aeP">pic.twitter.com/wHkjje6aeP</a></p>&mdash; The Ocean Cleanup (@TheOceanCleanup) <a href="https://twitter.com/TheOceanCleanup/status/1194631162938839041?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-13 18:55:59*
 
 ---
 
@@ -101,13 +81,9 @@ try to re-merge with EU when you are already merged? Already on the
 best deal ever! (outside of Euro, with bunch of eased requirements,
 rebates, so on).
 
-*2019-11-13 15:39:40*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LIVE | SC asked the Centre to explore Hydrogen based fuel technology to find a solution to reduce air <a href="https://twitter.com/hashtag/pollution?src=hash&amp;ref_src=twsrc%5Etfw">#pollution</a> in North India and Delhi-NCR. <br>Follow for updates:<a href="https://t.co/0qMhKfrZmk">https://t.co/0qMhKfrZmk</a></p>&mdash; The Quint (@TheQuint) <a href="https://twitter.com/TheQuint/status/1194507892650467329?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-13 10:4:0*
 
 ---
 
@@ -115,15 +91,11 @@ rebates, so on).
 
 These are the most important 40 seconds of this entire General Election. Twice the BBC asked Boris Johnson if he would rule out more NHS privatisation. Twice he refused to say yes.
 
-*2019-11-13 6:32:27*
-
 ---
 
 Ops talked to the wrong Remainer
 
 [Link](https://mobile.twitter.com/mikegalsworthy/status/1194376085812760576)
-
-*2019-11-13 6:23:2*
 
 ---
 
@@ -132,8 +104,6 @@ jet in 2017, dropped the ball on many fronts, the Joint Authorities
 Technical Review found"
 
 [Link](https://www.latimes.com/business/story/2019-10-11/regulators-were-in-the-dark-over-design-changes-on-boeing-737-max)
-
-*2019-11-12 21:58:46*
 
 ---
 
@@ -144,22 +114,16 @@ Good call. I wont fly in that f-ing thing - telling u right now.
 [Link](https://www.reuters.com/article/us-boeing-deliveries/boeing-orders-sink-as-customers-opt-to-swap-max-idUSKBN1XM24M)
 
 
-*2019-11-12 21:55:56*
-
 ---
 
 One of the benefits of engineering education (not CS) having taken a course
 on Autocad. I might get on this 3D printing craze one day.
-
-*2019-11-12 20:37:12*
 
 ---
 
 Shaq-Fu. I know a guy who knows a guy who played this game. Vintage 90s. Legendary.
 
 <img width="400" src="https://theinsatiablegamer.com/wp-content/uploads/2018/06/Retro_Shaqfu-850x478.png"/>
-
-*2019-11-12 20:13:56*
 
 ---
 
@@ -177,8 +141,6 @@ You're welcome. 🙂"
 
 [Link](https://twitter.com/mtmalinen/status/1194169068040970241)
 
-*2019-11-12 13:22:29*
-
 ---
 
 "@larrykim
@@ -191,8 +153,6 @@ Expectation vs reality"
 
 [Link](https://twitter.com/larrykim/status/1193815628953600001)
 
-*2019-11-12 13:21:12*
-
 ---
 
 "@HZB_BESSY
@@ -200,8 +160,6 @@ Expectation vs reality"
 How long does an electron stay in the BESSY II storage ring?Round and
 round it goes for up to 10 hours during which it travels the
 equivalent of the distance between the sun and earth about 75 times!!!"
-
-*2019-11-12 13:20:21*
 
 ---
 
@@ -221,15 +179,11 @@ Cheney—the former vice president—agreed on. The musical reflected an
 ideological takeover, not left or right, but a joint attack on
 populism".
 
-*2019-11-12 10:4:47*
-
 ---
 
 DACA: If u spend ur formative years in US, like the Dreamers, you are
 culturally from there. WH 'hostage taking" i.e. Dreamers for the Wall
 did not work. What's the use for the intransigence on this? 
-
-*2019-11-12 10:4:47*
 
 ---
 
@@ -241,8 +195,6 @@ that describes something optimal, no need to worry abt what would
 happen if constant X was off by .0001. It would not be because the
 not-yet discovered formula would replace it completely. Constant X is
 just a placeholder, a result of our ignorence. 
-
-*2019-11-12 9:12:46*
 
 ---
 
@@ -260,15 +212,11 @@ Japan for use in fuel cell electric vehicles and power generation"
 
 [Link](https://www.worldcoal.com/power/11112019/consortium-lays-foundation-for-a-hydrogen-industry-in-the-latrobe-valley/amp/?__twitter_impression=true)
 
-*2019-11-12 8:34:53*
-
 ---
 
 "Today's Electric Car Batteries Will Be Tomorrow's E-Waste Crisis, Scientists Warn"
 
 [Link](https://www.vice.com/en_us/article/ywajkw/todays-electric-car-batteries-will-be-tomorrows-e-waste-crisis-scientists-warn)
-
-*2019-11-11 22:34:33*
 
 ---
 
@@ -284,13 +232,9 @@ Feels like ages ago. We all got the shit kicked out of us since,
 didn't we?
 
 
-*2019-11-11 22:24:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24BLDP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BLDP</a> (except for 1 day in 2014) just broke out to a 12yr high</p>&mdash; dantes trading (@dantestrading) <a href="https://twitter.com/dantestrading/status/1193912007147307008?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-11 20:44:8*
 
 ---
 
@@ -324,13 +268,9 @@ intuition simply doesn’t apply"
 
 [Link](https://ergodicityeconomics.com/2017/03/02/gas-in-a-box-or-nuclear-explosion/amp)
 
-*2019-11-11 19:54:27*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">AlkaMem Technology to Open New Markets for AFC Energy-<a href="https://twitter.com/AFCEnergy?ref_src=twsrc%5Etfw">@AFCEnergy</a> AlkaMemTM set to be a truly disruptive technology in field of alkaline water electrolysis with evidence supporting a sizable increase in <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> production efficiency-<a href="https://t.co/78q7YGiBI0">https://t.co/78q7YGiBI0</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://t.co/KA7p2EDKbT">pic.twitter.com/KA7p2EDKbT</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1193882634679656455?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-11 18:7:36*
 
 ---
 
@@ -342,13 +282,9 @@ It looks like water. But it is an oil storing great amounts of #hydrogen"
 
 [Link](https://mobile.twitter.com/hydrogenLOHC/status/1193873004108898305)
 
-*2019-11-11 17:58:47*
-
 ---
 
 Seinfeld is right - Bernie Mac was one of the best. Definitely top 5.
-
-*2019-11-11 16:3:20*
 
 ---
 
@@ -356,21 +292,15 @@ Number One, I order you to go take a Number Two.
 
 <img width="250" src="https://pbs.twimg.com/media/EJE5HXjW4AIRXWq?format=png&name=small"/>
 
-*2019-11-11 10:47:40*
-
 ---
 
 Wright and Nocedal.. huge names in optimization
-
-*2019-11-11 10:31:55*
 
 ---
 
 Michel Camilo - Repercussions \#music
 
 [Link](https://youtu.be/5JyEqLZUock)
-
-*2019-11-11 10:9:17*
 
 ---
 
@@ -385,8 +315,6 @@ and what we remember the most.
 
 "Between culture codes and national narrative (taught in schools)
 which one is more effective?"
-
-*2019-11-11 1:31:37*
 
 ---
 
@@ -414,8 +342,6 @@ YES. Huge report: Road Map to a US #Hydrogen Economy released. Written by:
 
 [Link](https://mobile.twitter.com/MichelDoepke/status/1193621669795049473)
 
-*2019-11-11 1:31:37*
-
 ---
 
 Interesting
@@ -425,8 +351,6 @@ seen as a leader. They saw a chance during before the Iraq War but it
 backfired. The Eastern Europe freaked out abt a possible entente with
 Russia and bolted. This dynamic is probably still there.
 
-*2019-11-11 1:27:37*
-
 ---
 
 ”Analysts believe the IMO target can only be met by introducing
@@ -434,16 +358,12 @@ zero-emissions fuels such as #hydrogen and ammonia”
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shipping industry seeks response to calls for cuts in emissions <a href="https://t.co/5CJT1k1Ol2">https://t.co/5CJT1k1Ol2</a></p>&mdash; FT Energy (@ftenergy) <a href="https://twitter.com/ftenergy/status/1193483766381121538?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-11 1:27:37*
-
 ---
 
 But my heritage.. my heritage.. Your heritage is apple pie, *Itchy &
 Scratchy*, rap and *Top Gun*. Get used to it.
 
 Don't let your ego write checks your body can't cash.
-
-*2019-11-10 23:53:42*
 
 ---
 
@@ -456,13 +376,9 @@ Warren took from Kamala, we talked abt Bernie-Warren correlation [before](https:
 
 <img src="https://pbs.twimg.com/media/EJCjgsuWwAY93Li?format=png&name=small" width="400"/>
 
-*2019-11-10 23:53:42*
-
 ---
 
 Paper authors R. Jayachandran and R. Sachidhanandham. Right on.
-
-*2019-11-10 21:36:30*
 
 ---
 
@@ -481,13 +397,9 @@ do not check to see that the matrix is positive definite before
 attempting the decomposition. If the decomposition fails, then we
 know"
 
-*2019-11-10 21:35:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you for your solidarity, you have always been my candidate for the US presidency and I hope democrats have the wisdom to nominate a candidate with your worldview. I hope American workers will make you US president. <a href="https://t.co/6qFf5DKQY5">https://t.co/6qFf5DKQY5</a></p>&mdash; Lula (@LulaOficial) <a href="https://twitter.com/LulaOficial/status/1192936144759140355?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-10 20:56:18*
 
 ---
 
@@ -499,13 +411,9 @@ qualified than the other candidates.
 He's 38 and got 8000 votes in a small city in Indiana and could not
 win a state-wide race. His record as mayor is not exactly stellar"
 
-*2019-11-10 20:54:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/OKBillionaire?src=hash&amp;ref_src=twsrc%5Etfw">#OKBillionaire</a> <a href="https://t.co/R3moRDaDTl">https://t.co/R3moRDaDTl</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1193278187339272192?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-10 20:53:3*
 
 ---
 
@@ -518,8 +426,6 @@ In Iceland it is not a crime to escape from prison: the law recognizes
 that inmates, like all human beings, are naturally entitled to
 freedom, and thus cannot be punished for seeking it"
 
-*2019-11-10 19:18:54*
-
 ---
 
 "@ProfRayWills
@@ -531,8 +437,6 @@ watermelon anti-capitalist views wanting to tear down society"
 
 [Link](https://twitter.com/ProfRayWills/status/1193343731744702464)
 
-*2019-11-10 19:18:54*
-
 ---
 
 "@markcurtis30
@@ -542,21 +446,15 @@ propaganda; anything goes to stop Corbyn. The enemy is the public, it
 cannot be allowed to prevail over elite interests. UK system reveals
 itself at these times – anti-democratic, authoritarian, ruthless"
 
-*2019-11-10 18:15:30*
-
 ---
 
 Imagine trying to charge a UAS with bitch batteries in the middle of combat
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Navy Accepts First-of-its-kind Hydrogen-Powered UAS-Six-rotor UAS “HYCOPTER” has a diameter of 7 feet, with a 5 payload, can stay in flight about 2 ½ hours. Powered by ultralight PEM <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> fed with compressed <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> gas-<a href="https://t.co/L3RinEa8Uw">https://t.co/L3RinEa8Uw</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://t.co/MUeBcE8ocj">pic.twitter.com/MUeBcE8ocj</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1193543954651918336?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-10 18:8:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At 6am my run buddy collapsed-heart attack.<br>Within 8mins ambulance arrived.<br>It&#39;s now lunch,she’s had an angioplasty,stents put in &amp; is chunnering away😊<br>Amazing staff.<br>They didn’t check for insurance &amp; they won’t give her a bill<br>👏This is our NHS👏<br>Thankyou for saving my friend💕</p>&mdash; Sirius Head (@HighburyHead12) <a href="https://twitter.com/HighburyHead12/status/1193142852798287872?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-10 16:54:16*
 
 ---
 
@@ -565,8 +463,6 @@ days with plans to introduce a universal basic income and drastic
 measures to tackle the climate emergency, John McDonnell has said"
 
 [Link](https://mobile.twitter.com/simonjduffy/status/1193478295414804481)
-
-*2019-11-10 15:38:29*
 
 ---
 
@@ -584,15 +480,11 @@ Evening Standard: Owned by Billionaire
 
 Do you seriously think these billionaires have YOUR best interests at heart?"
 
-*2019-11-10 15:33:30*
-
 ---
 
 I guess the upside of living somewhere with lots of snow, ice would be
 no problem finding water. As long as u dont freeze ur ass off at night
 (also find some food, but there'd be fish) it would be a-ok.
-
-*2019-11-10 15:32:28*
 
 ---
 
@@ -601,15 +493,11 @@ stuff. They figured early on riding on the big trends of US makes
 their jobs easier. There was a BEV trend they followed it, AI, follow
 it.. . US built a spying dragnet, and so did they.
 
-*2019-11-10 15:28:45*
-
 ---
 
 "Hydrogen Boride Nanosheets: A Promising Material for Hydrogen Carrier"
 
 [Link](https://mobile.twitter.com/fuelcellsworks/status/1193221861087305729)
-
-*2019-11-10 13:26:26*
 
 ---
 
@@ -617,23 +505,17 @@ I wish a JP-SK consortium bought it and had it generate clean fuel at the source
 
 "The world’s largest share sale -- Saudi Aramco -- to start Nov. 17"
 
-*2019-11-10 13:19:12*
-
 ---
 
 And the future is now.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A huge test for the fuel of the future.<br><br>📕 Read more: <a href="https://t.co/mbOc8jE4fh">https://t.co/mbOc8jE4fh</a> <a href="https://t.co/F8aW6FIIMp">pic.twitter.com/F8aW6FIIMp</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/1193151249522348032?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-10 13:16:8*
-
 ---
 
 "Turkey's Leopard 2 Tanks Are Getting Crushed in Syria"
 
 [Link](https://news.yahoo.com/amphtml/turkeys-leopard-2-tanks-getting-110000688.html)
-
-*2019-11-10 13:5:24*
 
 ---
 
@@ -649,27 +531,19 @@ reference his possible cultural affinity.
 "If around age 7 is defining for culture, Obama might not be American
 culturally"
 
-*2019-11-10 13:13:00*
-
 ---
 
 Idea: UBI but only for boomers in return for leaving the workplace and
 never to come back.
-
-*2019-11-10 13:2:54*
 
 ---
 
 Watched the Bloom interview - there was fear in his eyes. That
 explains why he jumped in at this stage, so late in the game.
 
-*2019-11-10 12:54:55*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is, believe it or not, San Francisco&#39;s new District Attorney. In a city staggering under record drug crime and car break-ins...<a href="https://t.co/IiyuDaBWqz">https://t.co/IiyuDaBWqz</a> <a href="https://t.co/KYBRkAspmX">pic.twitter.com/KYBRkAspmX</a></p>&mdash; Chris Anderson (@chr1sa) <a href="https://twitter.com/chr1sa/status/1193331665084407809?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-10 12:35:33*
 
 ---
 
@@ -681,15 +555,11 @@ that's motive enough.
 
 "Brazil's Bolsonaro swipes at newly released Lula"
 
-*2019-11-9 18:37:20*
-
 ---
 
 @AssaadRazzouk
 
 "Unprecedented" fires burning in Australian bushfire crisis - more than twice number ever recorded, after Australia's hottest summer ever, worsening drought and little rainfall
-
-*2019-11-9 18:15:46*
 
 ---
 
@@ -709,8 +579,6 @@ the Federal Reserve, created by Wilson to give the public control over
 banking, was instead controlled by shortsighted private bankers who
 could not or would not stop speculative bubbles. It was a dangerously
 unstable system" -
-
-*2019-11-9 18:13:24*
 
 ---
 
@@ -747,20 +615,14 @@ the monetary collapse of 1907 leading to the founding of the Federal
 Reserve, and the third presidential campaign of William Jennings
 Bryan" -- Stoller, *Goliath*
 
-*2019-11-9 18:12:33*
-
 ---
 
 Lula is freed 🍺
-
-*2019-11-9 12:45:52*
 
 ---
 
 "Vulnerability In Ring Doorbells Left the Door Open for Hackers to Open
 the Door" -- gizmodo.com
-
-*2019-11-9 11:48:41*
 
 ---
 
@@ -772,23 +634,17 @@ the game to a little-used PDP-7 computer and subsequently developed a
 shell and other utilities that comprised a self-supporting system
 allowing users to copy, print, edit, and delete files"
 
-*2019-11-9 11:14:5*
-
 ---
 
 Fast dog
 
 [Link](https://twitter.com/12tmimi/status/1191963085109678080)
 
-*2019-11-9 1:13:41*
-
 ---
 
 This device to suck trash out of the ocean 
 
 [Link](https://twitter.com/kashthefuturist/status/1192569672647884801)
-
-*2019-11-9 1:9:11*
 
 ---
 
@@ -797,8 +653,6 @@ it is an indirect criticism of a certain brand of politics and time in
 US, overly pro-corp, even fascistic, cartel politics. The sort of
 stuff that many thought was buried decades ago, but the post Berlin
 Wall "euphoria" and the naivete of Clintons brought it back.
-
-*2019-11-8 21:43:44*
 
 ---
 
@@ -832,14 +686,10 @@ these hospitals, like all monopolies, no longer have a strong
 incentive to deliver quality care at a reasonable price. Instead,
 they sometimes over-treat, and kill, their patients"
 
-*2019-11-8 21:23:14*
-
 ---
 
 Associating Johnson with Trump is a great idea for UK Labor. DJT is
 seen as crass capitalist in UK, it can work in Labor's favor.
-
-*2019-11-8 21:26:31*
 
 ---
 
@@ -848,8 +698,6 @@ direction. There used to be a place for "econ-con" ppl in the GOP. Now
 they are uprooted, and they go over to Dems stinking up the place,
 even worse, imploring ppl in the DP to be more centrist just so *they*
 can fit in.
-
-*2019-11-8 21:11:56*
 
 ---
 
@@ -860,8 +708,6 @@ Medicare For Libertards
 Medicare For Freedom
 
 Medicare For Loaded People But Ashamed To Say So
-
-*2019-11-8 20:22:37*
 
 ---
 
@@ -874,16 +720,12 @@ cold.
 Sshhhh, but let's not talk about that stuff, we'll sell this issue
 using libertard overtones, choice, "freedom", etc..
 
-*2019-11-8 20:35:14*
-
 ---
 
 Rahm was formerly Chief of Staff in Bama WH, and before that Clint
 advisor.
 
 And of course he is centrist twat, against M4A. 
-
-*2019-11-8 20:30:57*
 
 ---
 
@@ -897,15 +739,11 @@ unknown (!), and the next mayor pulled the plug.
 You got off easy Chicago - NY was not [so
 lucky](https://www.wkbw.com/news/local-news/new-allegations-against-telsas-solarcity-deal).
 
-*2019-11-8 20:24:34*
-
 ---
 
 Scumbag and the retard
 
 [Link](https://i.ytimg.com/vi/ven04_6S3yg/maxresdefault.jpg)
-
-*2019-11-8 20:22:37*
 
 ---
 
@@ -921,8 +759,6 @@ scale. Hydrogen EVs station model does. Refueling beat recharging"
 
 [Link](https://twitter.com/garrygolden/status/1192845809328504833)
 
-*2019-11-8 20:14:12*
-
 ---
 
 
@@ -934,8 +770,6 @@ not exist.
 
 It's almost as if some folks think that designing climate policies to appeal to Republicans is an idea that emerged fully formed from their own brilliant brains five minutes ago, and not the model that has been attempted through cap-and-trade and carbon markets for two decades"
 
-*2019-11-8 14:54:57*
-
 ---
 
 Mention of the Hyundai semi trailer by *The Sun*. 👍
@@ -946,15 +780,11 @@ Zero emission, zero noise, what's not to like?"
 
 [Link](https://twitter.com/TheSun/status/1191184540301250560)
 
-*2019-11-8 14:53:1*
-
 ---
 
 "@knighton_bob
 
 Honestly my only academic goal is to become Edward Witten"
-
-*2019-11-8 14:52:13*
 
 ---
 
@@ -962,13 +792,9 @@ Honestly my only academic goal is to become Edward Witten"
 
 [Link](https://twitter.com/urbanthoughts11/status/1191295205187686400)
 
-*2019-11-8 14:49:25*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The billionaire class is scared and they should be scared.</p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1192582180075114496?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-8 14:45:12*
 
 ---
 
@@ -980,8 +806,6 @@ Just went through MSFT numbers for past 3 FYs ... 61% of buyback
 activity used to sterilize exercised stock options, worth 18.7 BILLION
 dollars to mgmt. That's 14% of cashflow from operations"
 
-*2019-11-8 13:6:5*
-
 ---
 
 "@InertialObservr
@@ -992,8 +816,6 @@ z, z^z , z^z^z, ..."
 
 [Link](https://mobile.twitter.com/InertialObservr/status/1192547751789088768)
 
-*2019-11-8 6:2:41*
-
 ---
 
 "@BESTmag_news @ESS_info secures 30M dollars in new funding as it
@@ -1001,8 +823,6 @@ accelerates towards its 1GWh iron flow battery technology goal—
 expansion requires an "extremely low capital costs to set up the
 manufacturing of battery modules compared to lithium-ion" say the
 firm"
-
-*2019-11-8 6:0:30*
 
 ---
 
@@ -1013,8 +833,6 @@ violating ban, you get 1,000 dollar fine or six months prison? So
 obviously it would be prison for which taxpayers would have to pay @
 25,000 ... 🤔 #math"
 
-*2019-11-8 5:53:32*
-
 ---
 
 "@Jkylebass
@@ -1024,16 +842,12 @@ simply running out of USD. With investment flows into China being
 curtailed, the US holds all of the cards in the negotiations to
 “reset” our relationship [..]"
 
-*2019-11-7 22:23:15*
-
 ---
 
 "@fuelcellsworks
 
 Swisspower Working with Siemens on Developing Power-to-X Hydrogen
 Systems in Switzerland"
-
-*2019-11-7 20:7:2*
 
 ---
 
@@ -1045,8 +859,6 @@ When Boeing mgmt and directors pocketed 5.4 billion dollars in stock
 option exercise while building a crappy plane that they’ll never be
 punished for"
 
-*2019-11-7 20:4:5*
-
 ---
 
 "Japan is building the world's largest #hydrogen plant in #Fukushima as
@@ -1054,25 +866,17 @@ part of efforts to create a hydrogen-fueled society"
 
 [Link](https://mobile.twitter.com/JapanGov/status/1192444078299832320)
 
-*2019-11-7 19:32:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">San Francisco 3rd Street Hydrogen Station Opens-It is the first of three stations that will open in San Francisco. The <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> station, developed by <a href="https://twitter.com/Shell?ref_src=twsrc%5Etfw">@Shell</a> will have a larger capacity &amp; has 2 fueling nozzles at H70 pressure-<a href="https://t.co/yPJhPLRPmR">https://t.co/yPJhPLRPmR</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://t.co/vFUa8Tu9az">pic.twitter.com/vFUa8Tu9az</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1192451006023512064?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-7 18:53:18*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Russia: Hydrogen Fuel Cell Tram Tested in St. Petersburg--Trial of the current prototype of the LM-68M tram equipped with hydrogen fuel cells were held on Moscow Avenue in St. Petersburg--<a href="https://t.co/qr8c9daeie">https://t.co/qr8c9daeie</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> <a href="https://t.co/J8k2oOwph9">pic.twitter.com/J8k2oOwph9</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1192447961013325824?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-11-7 18:52:22*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In not &quot;better than expected&quot; earnings news tonight... <a href="https://t.co/uNcWCUVSPi">pic.twitter.com/uNcWCUVSPi</a></p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1192233835137818625?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-11-7 12:40:42*
 
 ---
 

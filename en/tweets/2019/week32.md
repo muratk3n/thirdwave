@@ -3,8 +3,6 @@
 "Why should a feudal lord give up his land for a regular person" is
 this guy's message basically. Go suck some root retard.
 
-*2019-8-8 22:12:1*
-
 ---
 
 Funny I was thinking abt a drone design the other day and thought, for
@@ -24,8 +22,6 @@ geeks ("developers').
 The first believe in sticks and pilots, the second in silicon and
 autonomy. "
 
-*2019-8-8 12:23:33*
-
 ---
 
 Some dirty Cobalt talk. 
@@ -37,13 +33,9 @@ oil is even more critical than the black gold."
 
 [Link](https://mobile.twitter.com/william_sw/status/1159384716547698688)
 
-*2019-8-8 12:10:19*
-
 ---
 
 I wrote tutorials on a lot of subjects; I look at the way the high-level categorizations came out, there isn't any machine learning, "AI" category. Parts of ML articles fell under computer science, other parts fell under statistics.
-
-*2019-8-8 11:30:3*
 
 ---
 
@@ -51,20 +43,14 @@ Mika Brezikinskinsinky-Ska. Shabatsky..? Kibitzen?
 
 Yes. Daughter of late Brzezinski, the strategist.
 
-*2019-8-8 11:3:22*
-
 ---
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola Awarded $1.7 Million U.S. Department of Energy Award to Advance its Fuel Cell Membrane-<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a> to partner with Carnegie Mellon Univ., Northeastern Univ. &amp; Georgia Institute of Technology on <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> technology research-<a href="https://t.co/aUYIg7Likj">https://t.co/aUYIg7Likj</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://t.co/TLSSi8iXxh">pic.twitter.com/TLSSi8iXxh</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1159210562443759616?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-8-8 10:53:37*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most pervasive &amp; consequential propaganda doesn&#39;t consist of lies or war psyops, but the simple, everyday act of manufacturing normalcy. By making the current violent, exploitative paradigm seem normal &amp; safe, they can make all attempts to resist it look freakish &amp; dangerous.</p>&mdash; Caitlin Johnstone ⏳ (@caitoz) <a href="https://twitter.com/caitoz/status/1158890445302185984?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-8 10:49:11*
 
 ---
 
@@ -73,8 +59,6 @@ were relied on to solve huge technical problems. The tag mostly has
 second, third derivative of what's already being talked abt in policy
 circles, and not even the good parts of those circles, the show-biz
 parts, like electrification etc.
-
-*2019-8-8 10:19:33*
 
 --- 
 
@@ -86,8 +70,6 @@ big announcements in 2019"
 
 [Link](https://www.bizjournals.com/albany/news/2019/08/06/plug-power-revenue-increase-q2-2019.html)
 
-*2019-8-7 22:34:48*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nikola receives $1.7M grant from US Department of Energy for fuel cell research<a href="https://t.co/JcsgVXGQiZ">https://t.co/JcsgVXGQiZ</a></p>&mdash; TESLARATI (@Teslarati) <a href="https://twitter.com/Teslarati/status/1159177483457048578?ref_src=twsrc%5Etfw">August 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -95,8 +77,6 @@ big announcements in 2019"
 "Congratulations to the Nikola Fuel Cell MEA team for getting the US #DOE Heavy Duty Membrane $1.7M development project along with University and Industry Partners!"
 
 [Link](https://twitter.com/nikolamotor/status/1159152712661000192)
-
-*2019-8-7 22:32:41*
 
 ---
 
@@ -111,15 +91,11 @@ generation plant and 2 #H2 stations."
 
 [Link](https://twitter.com/H2NewsGlobal/status/1159098586493333504)
 
-*2019-8-7 17:16:10*
-
 ---
 
 Sweet \#bernie #rogan
 
 [Video](https://www.youtube.com/watch?v=2O-iLk1G_ng)
-
-*2019-8-7 15:26:5*
 
 ---
 
@@ -144,8 +120,6 @@ Hispanic-US issue, both cases have a minority whose ethnic breathren
 outside their borders as a neighbor, and that minority also as
 concentrated population inside their borders."
 
-*2019-8-7 15:11:12*
-
 ---
 
 Frack up the motherfrackers.
@@ -158,13 +132,9 @@ fuckers now".
 
 [Link](https://twitter.com/patravasio/status/1158763766143602690)
 
-*2019-8-7 15:3:41*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is America in 2019.<a href="https://twitter.com/hashtag/VideogamesAreNotToBlame?src=hash&amp;ref_src=twsrc%5Etfw">#VideogamesAreNotToBlame</a> <a href="https://twitter.com/hashtag/GunControlNow?src=hash&amp;ref_src=twsrc%5Etfw">#GunControlNow</a> <a href="https://t.co/MVy1Uwl7bh">pic.twitter.com/MVy1Uwl7bh</a></p>&mdash; Democracy for America (@DFAaction) <a href="https://twitter.com/DFAaction/status/1158451742897557504?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-8-7 15:2:6*
 
 ---
 
@@ -174,8 +144,6 @@ According to Rohollah Faghihi Al-Monitor's correspondent in Tehran,
 Macron offered Rohani a $ 15 billion credit line to circumvent US
 sanctions in their last phone conversation."
 
-*2019-8-7 14:40:39*
-
 ---
 
 Fake scarcity
@@ -183,8 +151,6 @@ Fake scarcity
 [Video](https://youtu.be/rPermdrA-Po?t=128)
 
 \#ubi
-
-*2019-8-7 14:30:39*
 
 ---
 

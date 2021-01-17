@@ -7,28 +7,20 @@ Do not "implore" ppl for the right behaviour. Want different outcomes? Change th
 
 Big Pharma CEO: ‘We’re in Business of Shareholder Profit, Not Helping The Sick’"
 
-*2019-9-26 7:8:40*
-
 ---
 
 "@scientificecon
 
 Third senior German official resigns from ECB"
 
-*2019-9-26 7:6:0*
-
 ---
 
 Everything H2 related is blue colored these days; I like it. It is
 becoming a brand thing almost, looks fly
 
-*2019-9-25 21:51:42*
-
 ---
 
 I bet Laura goes to bed with two shotguns, and uses an ammo crate as pillow. 
-
-*2019-9-25 20:37:17*
 
 ---
 
@@ -43,8 +35,6 @@ Any apologies given by my sister are empty.  I should know"
 
 [Link](https://twitter.com/CurtisIngraham1/status/1176652358417186816)
 
-*2019-9-25 20:36:27*
-
 ---
 
 "@JoSamps92
@@ -53,8 +43,6 @@ Over the next decade, fuel cell electric buses will be deployed as the
 zero emissions solution for the toughest transit applications in every
 bus type and for every climate and terrain any day of the year, says
 new bus road map by @CaFCP. \#hydrogen"
-
-*2019-9-25 20:33:13*
 
 ---
 
@@ -65,8 +53,6 @@ else other than Biden wins.
 
 I dont think "they" want Biden (guy is senile). MSM hasn't caught on
 yet.
-
-*2019-9-25 19:53:2*
 
 ---
 
@@ -79,19 +65,13 @@ trigger the next financial crisis. Hopefully not yet"
 
 [Link](https://mobile.twitter.com/scientificecon/status/1175488755534323718)
 
-*2019-9-25 19:53:2*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">WeGone <a href="https://t.co/VegI69pgnP">https://t.co/VegI69pgnP</a></p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/1176545186714914816?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-25 20:24:40*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">From a $100B IB valuation to layoffs, in three months! I don’t recall that happening in 2000-02. <a href="https://twitter.com/search?q=%24WE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$WE</a> <a href="https://t.co/qHhLqOzK6k">https://t.co/qHhLqOzK6k</a></p>&mdash; Diogenes (@WallStCynic) <a href="https://twitter.com/WallStCynic/status/1176538620636913665?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-25 20:25:21*
 
 ---
 
@@ -102,8 +82,6 @@ the phone call transcript, but Democrats decided to let the
 impeachment train out of the station before getting basic details
 about the conduct they're alleging is impeachable. Smart"
 
-*2019-9-25 19:33:54*
-
 ---
 
 None of that is Deep Shit BTW.
@@ -113,40 +91,28 @@ this @BostonDynamics machine can do a gymnastic routine"
 
 [Link](https://mobile.twitter.com/WIRED/status/1176497063116324865)
 
-*2019-9-25 19:14:19*
-
 ---
 
 [Awesome](https://www.bloomberg.com/amp/news/articles/2019-08-02/germany-turns-to-hydrogen-in-quest-for-clean-energy-economy)
 
 💦⚡👨‍🔬💎
 
-*2019-9-25 19:9:26*
-
 ---
 
 Rogue Prorogue 👍
-
-*2019-9-25 18:37:19*
 
 ---
 
 Automatic differentiation (autograd) of numerical integral (trapz)
 which has elements of symbolic math (sympy) in it. Who got dat fu!
 
-*2019-9-25 16:22:29*
-
 ---
 
 Habla Jorge
 
-*2019-9-25 13:41:44*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Billionaires should not exist. <a href="https://t.co/hgR6CeFvLa">https://t.co/hgR6CeFvLa</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1176481898685710337?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-25 13:33:56*
 
 ---
 
@@ -156,13 +122,9 @@ equations first, not to simply shuffle data around (which is what 90%
 of Silicon Valley does today -yes, most are not involved in computer
 science even, just IT-).
 
-*2019-9-25 11:59:18*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why as a country do we continue to bicker and fight over something which is very obviously not possible?</p>&mdash; Jeremy Clarkson (@JeremyClarkson) <a href="https://twitter.com/JeremyClarkson/status/1176762554435145728?ref_src=twsrc%5Etfw">September 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-25 10:42:30*
 
 ---
 
@@ -170,13 +132,9 @@ science even, just IT-).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prisons are full of people who ‘disagree’ with judges.</p>&mdash; James O&#39;Brien (@mrjamesob) <a href="https://twitter.com/mrjamesob/status/1176750576975175680?ref_src=twsrc%5Etfw">September 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-25 10:40:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The gletcher on Mont Blanc might be collapsing. It was really unfair of Greta Thunberg to be that emotional. <a href="https://t.co/abUuO39hYy">https://t.co/abUuO39hYy</a></p>&mdash; Erling Andersen (@e_d_andersen) <a href="https://twitter.com/e_d_andersen/status/1176725760322785280?ref_src=twsrc%5Etfw">September 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-25 8:8:37*
 
 ---
 
@@ -184,8 +142,6 @@ science even, just IT-).
 what it called China’s “horrific campaign of repression” against
 Muslims in the western region of Xinjiang at an event on the sidelines
 of the annual U.N. General Assembly" -Reuters
-
-*2019-9-25 7:55:2*
 
 ---
 
@@ -197,13 +153,9 @@ deserve a full explanation of today's events from the people who
 misled you. You won't get one because they hold you in complete
 contempt"
 
-*2019-9-25 1:4:18*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">South Australia unveils plans for 100% renewable hydrogen economy <a href="https://t.co/2UAiZdTODi">https://t.co/2UAiZdTODi</a></p>&mdash; Chris Belyk (@ChrisBelyk) <a href="https://twitter.com/ChrisBelyk/status/1176555762728001538?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-24 22:17:34*
 
 ---
 
@@ -216,27 +168,19 @@ Congress should force online retailers to disclose the origin of the
 wares they sell. Force Amazon to denote items made in china so we can
 boycott ⁦"
 
-*2019-9-24 22:14:26*
-
 ---
 
 "@jeiting
 
 'Leaving SF' is the new 'moving to SF'"
 
-*2019-9-24 22:11:51*
-
 ---
 
 [Investigate Bidens](https://youtu.be/YBB56IJ39PY?t=48)
 
-*2019-9-24 22:10:23*
-
 ---
 
 Impeachment? This will cause more trash on Biden to come out. 
-
-*2019-9-24 22:10:23*
 
 ---
 
@@ -246,29 +190,21 @@ As far as I know, the motherfucker's tip-top
 wha?, and getting higher in volume in the finish.. Little standoffish
 not too terse. Okay - Im done]
 
-*2019-9-24 21:2:13*
-
 ---
 
 This👌close to finishing the trajectory optimization. Line integrals
 over scalar field with poly parametrized curve restricted on both ends
 being optimized over can do the trick. 
 
-*2019-9-24 21:2:13*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why I’m bullish on electrolysis. A thread:<br><br>Depending on the regional gas price, producing H2 through electrolysis can be between 1.5 to 2.5 x as expensive as SMR with CCS, and up to 3x unabated SMR. I wanted to find out where the tipping point for green H2 lies. 1/12 <a href="https://t.co/uaNpF14R9H">pic.twitter.com/uaNpF14R9H</a></p>&mdash; Gniewomir Flis (@gnievchenko) <a href="https://twitter.com/gnievchenko/status/1176451011600441344?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-24 20:38:8*
 
 ---
 
 I know an engineer who told me before they sent their products to
 China for sale they would wipe serial numbers off chips with *sandpaper*
 for fear of their tech being stolen. Sandpaper.
-
-*2019-9-24 20:37:4*
 
 ---
 
@@ -279,19 +215,13 @@ leader could own the next engine tech, too"
 
 [Link](https://www.industryweek.com/technology-and-iiot/engine-maker-acquisition-could-fuel-hydrogen-disruption)
 
-*2019-9-24 19:44:59*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are excited to announce that Hexagon has been granted approval for its ultra-high-pressure <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> ground storage tanks by the California Occupational Safety and Health Standards Board (CalOSHA) <a href="https://t.co/PAGfkwtXYT">https://t.co/PAGfkwtXYT</a> <a href="https://t.co/PlbxEF3iuu">pic.twitter.com/PlbxEF3iuu</a></p>&mdash; Hexagon Composites (@HexagonASA) <a href="https://twitter.com/HexagonASA/status/1176509878891876353?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-24 19:42:38*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At least one big relief in the Brexit saga: the rule of law in the UK is alive &amp; kicking. Parliaments should never be silenced in a real democracy.<br><br>I never want to hear Boris Johnson or any other Brexiteer say again that the European Union is undemocratic.</p>&mdash; Guy Verhofstadt (@guyverhofstadt) <a href="https://twitter.com/guyverhofstadt/status/1176441621962985474?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-24 15:16:48*
 
 ---
 
@@ -315,13 +245,9 @@ grandson, set the record of losing his first five votes in Parliament
 that same evening), lied to the Queen, broke the law. We're in month
 two."
 
-*2019-9-24 13:2:28*
-
 ---
 
 *Terry Jones' Barbarians*. Highly recommended.
-
-*2019-9-24 13:2:28*
 
 ---
 
@@ -334,21 +260,15 @@ judgement
 The court ruled that it was 'unlawful, void & of no effect'. The
 absolute state of this PM. He shames our country"
 
-*2019-9-24 13:1:45*
-
 ---
 
 Libraries `sympy`, `autograd`.. killer toolz. Methinks ur better of
 patching together your own optimizer with `autograd` + `scipy` BFGS than
 relying on a complete black box with one call.
 
-*2019-9-24 12:45:53*
-
 ---
 
 Much happens in a week!
-
-*2019-9-24 12:34:51*
 
 ---
 
@@ -363,20 +283,14 @@ in a decade"
 
 [Link](https://www.bloomberg.com/news/articles/2019-09-23/rba-s-lowe-faces-lonely-rate-cut-route-as-fiscal-road-blocked)
 
-*2019-9-24 12:34:51*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pretty much the same today. Volvo and Traton (Scania and Man) getting hammered. Green tech strong. <a href="https://t.co/M6L0ePoYed">https://t.co/M6L0ePoYed</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1176421915864522753?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-24 12:32:12*
 
 ---
 
 Gillis is pretty good actually. That ghost joke is hilarious. People
 dont understand, everyone gets it from comedians, including themselves.
-
-*2019-9-24 11:38:9*
 
 ---
 
@@ -387,15 +301,11 @@ amazement. It consisted almost entirely of the BBC presenters scoffing
 at Labour policies and effectively warning me over and over again not
 to vote Labour"
 
-*2019-9-24 6:33:8*
-
 ---
 
 Guess what those ships will be running on 😉 💦⚡👨‍🔬💎
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/gettingtozerocoalition?src=hash&amp;ref_src=twsrc%5Etfw">#gettingtozerocoalition</a> is presented to media ⁩ ⁦<a href="https://twitter.com/UNClimateSummit?ref_src=twsrc%5Etfw">@UNClimateSummit</a>⁩ with ⁦<a href="https://twitter.com/ToftSoren?ref_src=twsrc%5Etfw">@ToftSoren</a>⁩ ⁦<a href="https://twitter.com/Maersk?ref_src=twsrc%5Etfw">@Maersk</a>⁩ and ⁦<a href="https://twitter.com/jacquesvdmeiren?ref_src=twsrc%5Etfw">@jacquesvdmeiren</a>⁩ ⁦<a href="https://twitter.com/PortofAntwerp?ref_src=twsrc%5Etfw">@PortofAntwerp</a>⁩ introducing goal to have zero emission ships on high seas in 2030. <a href="https://twitter.com/hashtag/IAPH?src=hash&amp;ref_src=twsrc%5Etfw">#IAPH</a> is proud to support the initiative <a href="https://t.co/t0JLSKU2NP">pic.twitter.com/t0JLSKU2NP</a></p>&mdash; Patrick Verhoeven (@PJHVerhoeven) <a href="https://twitter.com/PJHVerhoeven/status/1176157390904934400?ref_src=twsrc%5Etfw">September 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-23 22:31:21*
 
 ---
 
@@ -407,8 +317,6 @@ top hat and a sword.
 I assume when I finish my PhD in America I will be given a Big Mac and
 an AR-15?"
 
-*2019-9-23 22:29:7*
-
 ---
 
 "@garrygolden
@@ -419,13 +327,9 @@ chains and cheaper cost+mass per kW when you integrate fuelcell with
 battery; Nations see cheaper scaled out infrastructure vs
 extending/balancing grid"
 
-*2019-9-23 19:45:5*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toyota will roll out 100 <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> electric buses for the <a href="https://twitter.com/hashtag/Tokyo2020?src=hash&amp;ref_src=twsrc%5Etfw">#Tokyo2020</a> Olympics, a stepping stone to the more than 1,000 buses they have planned in partnership with Beiqi Foton Motor Co for the 2022 Beijing Olympics. <a href="https://t.co/OzThUNR2qI">https://t.co/OzThUNR2qI</a><a href="https://twitter.com/hashtag/transit?src=hash&amp;ref_src=twsrc%5Etfw">#transit</a> <a href="https://twitter.com/hashtag/TheOtherElectricBus?src=hash&amp;ref_src=twsrc%5Etfw">#TheOtherElectricBus</a> <a href="https://twitter.com/CaFCP?ref_src=twsrc%5Etfw">@CaFCP</a></p>&mdash; Keith Malone (@ANativeAngeleno) <a href="https://twitter.com/ANativeAngeleno/status/1175459688940548096?ref_src=twsrc%5Etfw">September 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-23 19:17:54*
 
 ---
 
@@ -437,8 +341,6 @@ mistresses, Labour may actually be able to adopt the Brexit position
 that the supporters want, and the Supreme Court may be slapping down
 the government"
 
-*2019-9-23 15:55:48*
-
 ---
 
 Tired: single-focus explanations on mathematical concepts. They keep
@@ -446,13 +348,9 @@ talking about the line integral as "work done"; LI (over scalar
 fields) can be shown as area over surface [under
 curve](https://math.libretexts.org/@api/deki/files/21/Line_integral_of_scalar_field.gif).
 
-*2019-9-23 10:52:6*
-
 ---
 
 <img src="https://pbs.twimg.com/media/EFIULEvXkAAzjCJ?format=png&name=small" width="400"/>
-
-*2019-9-23 9:39:47*
 
 ---
 
@@ -462,13 +360,9 @@ primary) - that mot..f..ka used to parrot literature written for him
 by Pharmaceutical Research and Manufacturers of America, a lobbying
 group for big pharma. This was "left" of its time.
 
-*2019-9-23 9:27:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">2of2- &quot;also includes a goal to increase the number of hydrogen <a href="https://twitter.com/hashtag/fuelingstations?src=hash&amp;ref_src=twsrc%5Etfw">#fuelingstations</a> to 10,000 in 10 years.&quot;<a href="https://t.co/BX98yumUUK">https://t.co/BX98yumUUK</a></p>&mdash; Hydrogen is the battery (@BatteryH2) <a href="https://twitter.com/BatteryH2/status/1175906901856608256?ref_src=twsrc%5Etfw">September 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-23 7:17:33*
 
 ---
 
@@ -483,13 +377,9 @@ before 2007"
 
 [Link](https://www.telegraph.co.uk/business/2019/09/22/bis-warns-lehman-era-excesses-building-global-debt-markets/amp/)
 
-*2019-9-22 22:36:23*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joe Biden has obviously engaged in systemic influence peddling on behalf of his family. This kind of profiteering is what enables authoritarians like Trump. It signals to voters everyone is corrupt. <a href="https://t.co/YYDu6GZ2zK">https://t.co/YYDu6GZ2zK</a></p>&mdash; Matt Stoller (@matthewstoller) <a href="https://twitter.com/matthewstoller/status/1175501812943769600?ref_src=twsrc%5Etfw">September 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-22 21:13:45*
 
 ---
 
@@ -500,13 +390,9 @@ but industrial decline is well under way, and wider recession is only
 months away if you believe majority of corporate CFOs who are now
 planning spending cuts"
 
-*2019-9-22 21:12:43*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can’t understand Brexit <br><br>Until you realise the EU is about to stop tax avoiding billionaires using tax havens<br><br>They want Brexit at any cost</p>&mdash; Martin Davies 🔶 #RevokeArticle50 (@martindvz) <a href="https://twitter.com/martindvz/status/1175435893508902913?ref_src=twsrc%5Etfw">September 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-22 16:47:0*
 
 ---
 
@@ -514,8 +400,6 @@ planning spending cuts"
 
 Once you pop you just can't stop: Former Head Of Plunge Protection
 Team Says Fed Has To Buy More Debt"
-
-*2019-9-22 12:53:33*
 
 ---
 
@@ -527,20 +411,14 @@ broader soc, parliament / exec, see the grievance, debate, make law.
 IaC: "We need to listen to every indiv on everything before making
 decisions"
 
-*2019-9-20 13:32:34*
-
 ---
 
 20 C! 
-
-*2019-9-21 18:50:52*
 
 ---
 
 FDP Chair Christian Lindner (Germany): "The one-sided focus on battery
 drives ... can cost many thousands of jobs in the country"
-
-*2019-9-21 15:18:49*
 
 ---
 
@@ -549,19 +427,13 @@ talking to Californians they were like "538 saz Hill wins bla bla", I
 saz my mod indicates DJ has better chance. After elec they're like
 "daam.. that wuz good". I said "sheeee-iiit".
 
-*2019-9-21 14:6:46*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇬🇧Only 2 weeks to go before <a href="https://twitter.com/hashtag/London?src=hash&amp;ref_src=twsrc%5Etfw">#London</a> the last stop of our Northern <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a> tour! A unique opportunity to discover our vessel and our <a href="https://twitter.com/hashtag/Odyssey?src=hash&amp;ref_src=twsrc%5Etfw">#Odyssey</a> for the <a href="https://twitter.com/hashtag/future?src=hash&amp;ref_src=twsrc%5Etfw">#future</a>, through the warm waters of <a href="https://twitter.com/hashtag/Mediterranean?src=hash&amp;ref_src=twsrc%5Etfw">#Mediterranean</a> to the icy shores of <a href="https://twitter.com/hashtag/Svalbard?src=hash&amp;ref_src=twsrc%5Etfw">#Svalbard</a>! More info <a href="https://t.co/suij6sg30G">https://t.co/suij6sg30G</a> <a href="https://twitter.com/hashtag/thisislondon?src=hash&amp;ref_src=twsrc%5Etfw">#thisislondon</a> <a href="https://t.co/j8LClXliEx">pic.twitter.com/j8LClXliEx</a></p>&mdash; ENERGY OBSERVER (@energy_observer) <a href="https://twitter.com/energy_observer/status/1175318748649181185?ref_src=twsrc%5Etfw">September 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-21 13:33:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">US grid accounts for 33% of GHG emissions. A purist renewables-electron strategy falls short. We need clean molecules for industrial+transportation. Hydrogen (blue, green) drives deeper decarbonization. Path is via fuel cells which launch electrochemical age. Not just solar folks <a href="https://t.co/xtVOimK7MB">https://t.co/xtVOimK7MB</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1175143764337315848?ref_src=twsrc%5Etfw">September 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-21 7:11:17*
 
 ---
 
@@ -569,19 +441,13 @@ She used the magic word: "Israel".
 
 "Why did Dem centrists coalesce around Warren?"
 
-*2019-9-20 21:44:35*
-
 ---
 
 Delaware people say "water" all weird. Listen closely.. it sounds like waahtaah!. 
 
-*2019-9-20 21:44:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A lesser-known (but extremely useful) integration trick <a href="https://t.co/20Qgs8QeNk">pic.twitter.com/20Qgs8QeNk</a></p>&mdash; 〈 Berger | Dillon 〉 (@InertialObservr) <a href="https://twitter.com/InertialObservr/status/1164976471959429121?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-20 19:25:10*
 
 ---
 
@@ -596,8 +462,6 @@ climate movement in Pakistan. \#ClimateActionNow"
 
 [Link](https://twitter.com/AmmarRashidT/status/1175012282679668736E)
 
-*2019-9-20 16:49:32*
-
 ---
 
 Lands of Rome in constant trouble - Italy, Tiggerstan, Greece,
@@ -609,8 +473,6 @@ slavery, plunder, and mafia happens)
 
 [Link](https://www.vox.com/world/2019/9/18/20871075/spain-elections-pedro-sanchez-psoe-podemos)
 
-*2019-9-20 16:38:43*
-
 ---
 
 Distributional Financial Accounts (FED)
@@ -619,13 +481,9 @@ Useful data on wealth distribution
 
 [Link](https://fred.stlouisfed.org/release?rid=453)
 
-*2019-9-20 16:36:24*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m old enough to remember when Goldman Sachs got a $10 billion bailout <a href="https://t.co/A9mHM8A0AW">https://t.co/A9mHM8A0AW</a></p>&mdash; Kate Aronoff (@KateAronoff) <a href="https://twitter.com/KateAronoff/status/1173640704368795653?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-20 16:27:35*
 
 ---
 
@@ -636,8 +494,6 @@ strengthens as the interest rate approaches zero."
 
 [Link](https://scholar.princeton.edu/sites/default/files/ernestliu/files/lms20190111.pdf)
 
-*2019-9-20 16:23:0*
-
 ---
 
 ”@nikolamotor
@@ -646,13 +502,9 @@ It seems hydrogen has the potential to disrupt this key market for the
 oil industry by replacing fuel demand with demand for hydrogen. It may
 only be a matter of time before this replacement happens.” ⁦
 
-*2019-9-20 16:15:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Platinum-Graphene Fuel Cell Catalysts Show Superior Stability Over Bulk Platinum--Films of platinum only two atoms thick supported by graphene could enable <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> catalysts with unprecedented catalytic activity and longevity--<a href="https://t.co/gpFMEkMYk7">https://t.co/gpFMEkMYk7</a> <a href="https://twitter.com/GeorgiaTech?ref_src=twsrc%5Etfw">@GeorgiaTech</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/T8ogJq0jzN">pic.twitter.com/T8ogJq0jzN</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1175033934415093760?ref_src=twsrc%5Etfw">September 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-20 16:12:29*
 
 ---
 
@@ -665,15 +517,11 @@ something, just doing it.
 
 "Can u share some *Just do It Nike Man* tidbits?"
 
-*2019-9-20 13:56:33*
-
 ---
 
 More *I Am CRMs*? There are so many... Kamala, Stallone, Bezos,
 Strogatz, the scientist from IDW, Blyth, Trev Noah, the columnist from
 NYT what's his name, Paul "Fuckin" Krugman, Al Gore...
-
-*2019-9-20 13:30:11*
 
 ---
 
@@ -682,15 +530,11 @@ a form of "hierarchy". It is utilizing someone else's knowledge, like
 reading a book. Ideally these are automated of course, but until then,
 and with society broken up into such "guilds", it is what it is.
 
-*2019-9-20 11:28:17*
-
 ---
 
 HAMMER TIME
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After spending almost 4 years growing a following, <a href="https://twitter.com/TeamYouTube?ref_src=twsrc%5Etfw">@TeamYouTube</a> is taking away my verification. This is absurd. <a href="https://t.co/qJHhJkmJz2">pic.twitter.com/qJHhJkmJz2</a></p>&mdash; David Doel (@daviddoel) <a href="https://twitter.com/daviddoel/status/1174753819709886464?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-20 11:25:55*
 
 ---
 
@@ -699,19 +543,13 @@ HAMMER TIME
 
 <img src="https://pbs.twimg.com/media/EE5KPvPU4AAliPU?format=jpg&name=small" width="400"/>
 
-*2019-9-20 11:23:6*
-
 ---
 
 I am getting a T-shirt that says "Demystifier".
 
-*2019-9-20 11:5:37*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to be in the meeting where this idea was proposed <a href="https://t.co/Bf5KpQF716">pic.twitter.com/Bf5KpQF716</a></p>&mdash; Tariq Rauf (@tariqrauf) <a href="https://twitter.com/tariqrauf/status/1174403429810212866?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-19 23:2:7*
 
 ---
 
@@ -722,13 +560,9 @@ electric vehicles was fully engulfed in flames'"
 
 [Link](https://twitter.com/passthebeano/status/1176902555755958272)
 
-*2019-9-19 22:27:7*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">With <a href="https://twitter.com/InsideEVs?ref_src=twsrc%5Etfw">@InsideEVs</a> and <a href="https://twitter.com/cleantechnica?ref_src=twsrc%5Etfw">@cleantechnica</a> dropping a new fluff article every 3 hours it appears Q3 may be worse than some are expecting... this pump fest is insane. <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> <a href="https://twitter.com/search?q=%24TSLAQ&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLAQ</a></p>&mdash; Structured Debt Rick the Fifth (@MusksFUDetector) <a href="https://twitter.com/MusksFUDetector/status/1174680028862472192?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-19 22:27:7*
 
 ---
 
@@ -742,15 +576,11 @@ understood the meaning of the single market'"
 
 [Link](https://twitter.com/JulietMEvans/status/1174604587665362944)
 
-*2019-9-19 21:24:8*
-
 ---
 
 "Miners Find Out the Hard Way Why Cobalt Is Called the Goblin"
 
 [Link](https://www.bloomberg.com/amp/news/articles/2019-08-07/miners-find-out-the-hard-way-why-cobalt-is-called-the-goblin)
-
-*2019-9-19 20:39:13*
 
 ---
 
@@ -758,14 +588,10 @@ The $2.5 trillion reason we can’t rely on batteries to clean up the grid
 
 [Link](https://www.technologyreview.com/s/611683/the-25-trillion-reason-we-cant-rely-on-batteries-to-clean-up-the-grid/amp/)
 
-*2019-9-19 20:37:43*
-
 ---
 
 Most in media are followers. They talk about things only when it's
 "safe" to do so. 
-
-*2019-9-19 20:37:43*
 
 ---
 
@@ -776,31 +602,21 @@ This is [number one](https://www.bosch-presse.de/pressportal/de/en/bosch-to-coop
 "Forget going battery electric, says Continental, the real future is
 in the hydrogen revolution"
 
-*2019-9-19 20:32:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Renewable hydrogen costs may fall to as low as $1.40 a kilogram by 2030 from the current range of $2.50 to $6.80, BNEF said in the report.&quot;<a href="https://twitter.com/hashtag/Sacramento?src=hash&amp;ref_src=twsrc%5Etfw">#Sacramento</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/Lindeplc?ref_src=twsrc%5Etfw">@Lindeplc</a> Feb. 2018 <a href="https://t.co/q3rnlwhipr">https://t.co/q3rnlwhipr</a> <a href="https://t.co/4ZrOB4E8tP">pic.twitter.com/4ZrOB4E8tP</a></p>&mdash; Hydrogen is the battery (@BatteryH2) <a href="https://twitter.com/BatteryH2/status/1173238579457228803?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-19 20:27:3*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Johnson’s quickly discovering Brexit will ruin him just like his predecessors. Fully trapped, he can’t accept May’s deal, can’t accept no-deal, and only deal he could accept will finish him for good.<br><br>It would take a heart of stone not to laugh.<br><br>My latest <a href="https://t.co/DlMSqGHHQz">https://t.co/DlMSqGHHQz</a></p>&mdash; Jonathan Lis (@jonlis1) <a href="https://twitter.com/jonlis1/status/1174621169728851970?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-9-19 18:36:2*
-
 ---
 
 Mid-cycle? Says who? US is in late cycle, not mid-cycle.
 
-*2019-9-19 13:42:31*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;STOCKS&quot; (reminder): Russell 2000 is down -10% from where you could have chased it at the peak of the US Cycle last year <a href="https://t.co/wyw9rbprB1">pic.twitter.com/wyw9rbprB1</a></p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1174611469876506624?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-9-19 12:7:45*
 
 ---
 
@@ -810,9 +626,6 @@ IDK who needs to hear this, but poverty-wage workers cannot budget
 their way to economic stability. Offering financial literacy workshops
 when what they need is a living wage is insulting and immoral"
 
-*2019-9-19 8:44:15*
-
 ---
 
-<img width="500" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/muratk3n.png"/>
 

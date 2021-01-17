@@ -4,14 +4,10 @@ Chicken Coupe Deville - Warm Beer \#music
 
 [Link](https://youtu.be/okqqgNcT-H4)
 
-*2019-7-25 17:19:54*
-
 ---
 
 
 SB is a total 3W company; stores are geared for knowledge workers. 
-
-*2019-7-25 15:19:54*
 
 ---
 
@@ -19,8 +15,6 @@ I been to so many Sbucks stores in so many different countries that if
 there was an award for this sort of thing, I am sure I'd win it. I
 seek them out whereever I go too.. I could be in Philippenes Cebu City
 and I'll find the SB there.
-
-*2019-7-25 15:19:31*
 
 ---
 
@@ -30,16 +24,12 @@ Hamp, South Car, Cali are 5, 7, 22, 1 ahead for Biden (ahead of the
 next most pop cand). So SC needs some attention.. Whoever is after the
 nom, needs to clean his clock in South Carolina.
 
-*2019-7-25 14:39:32*
-
 ---
 
 The Everly Brothers - Leave My Woman Alone \#music
 
 [Link](https://youtu.be/qx_pgSB_E5s)
 
-
-*2019-7-25 12:5:1*
 
 ---
 
@@ -54,8 +44,6 @@ kind.
 And when someone like us does something wrong, we insinctively know
 where it comes from, so the attacks can be more pointed.
 
-*2019-7-25 12:3:37*
-
 ---
 
 "@william_sw
@@ -63,8 +51,6 @@ where it comes from, so the attacks can be more pointed.
 Tesla. The more they make the more they lose. Scale of economy in BEVs broken". 
 
 [Link](https://twitter.com/william_sw/status/1154299474753347584)
-
-*2019-7-25 11:39:29*
 
 ---
 
@@ -74,19 +60,13 @@ for air-conditioning!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why aren’t there more ammonia chillers used for building and commercial air-conditioning? (link: <a href="https://t.co/r3eumeCsdl">https://t.co/r3eumeCsdl</a>) <a href="https://t.co/61ePw49hVG">https://t.co/61ePw49hVG</a> <a href="https://twitter.com/hashtag/GoNatRefs?src=hash&amp;ref_src=twsrc%5Etfw">#GoNatRefs</a></p>&mdash; ammonia21.com (@ammonia21) <a href="https://twitter.com/ammonia21/status/1154305419692707841?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-25 11:34:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Metamaterials — materials whose function is determined by structure, not composition — have been designed to bend light and sound, transform from soft to stiff, and even dampen seismic waves from earthquakes. This is what Harvard did to design them <a href="https://t.co/QDjFqWEMUK">https://t.co/QDjFqWEMUK</a> <a href="https://t.co/Qkix4hvh3w">pic.twitter.com/Qkix4hvh3w</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1153994980949671936?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-25 10:46:35*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨👇👏🚨👇👏<br>NET LOSS ATTRIBUTABLE TO SHAREHOLDERS $408MM</p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/1154131093702008832?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-25 9:9:58*
 
 ---
 
@@ -94,8 +74,6 @@ Now this is more interesting; math, philosophication behind the
 so-called Ancestor Simulation.
 
 [Link](https://youtu.be/hmVOV7xvl58?t=191)
-
-*2019-7-25 9:9:58*
 
 ---
 
@@ -114,19 +92,13 @@ in this context)"
 
 [Link](http://www.math.columbia.edu/~woit/wordpress/?p=11131)
 
-*2019-7-25 9:6:39*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gee whiz, it&#39;s almost like people hate the Beltway and the casual elite familiarity that tends to define it <a href="https://t.co/3hqTlnh2sK">https://t.co/3hqTlnh2sK</a></p>&mdash; Luke Savage (@LukewSavage) <a href="https://twitter.com/LukewSavage/status/1154256868937752577?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-25 8:56:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A frail old man, unable to remember things, stumbling, refusing to answer basic questions...I said it in 2017 and Mueller confirmed it today — All you pundits and moderates and lame Dems who told the public to put their faith in the esteemed Robert Mueller — just STFU from now on</p>&mdash; Michael Moore (@MMFlint) <a href="https://twitter.com/MMFlint/status/1154066705284390912?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-25 8:49:49*
 
 ---
 
@@ -138,15 +110,11 @@ But overt slaps like F-35 prog removal already do that for DJT. This
 banker biz always felt like a Bama bitchy sniping action. Plus US
 doesnt seem to want an all-out punishment, so fine.
 
-*2019-7-24 14:44:4*
-
 ---
 
 A radio station for Commodore 64 songs - [Link](https://www.slayradio.org)
 
 The Commando theme song is the bomb - [Link](https://youtu.be/hIkylZfopSo?t=32)
-
-*2019-7-24 12:27:15*
 
 ---
 
@@ -163,23 +131,17 @@ might want to pick another example for his "signaling").
 is trying to say, implying Steve Jobs].. so we should have open
 borders".
 
-*2019-7-24 10:39:38*
-
 ---
 
 There is a lot of potential for, not necessary machine learning in
 applied math, but base tools that were furthered because of machine
 learning. Automatic differentiation for instance.
 
-*2019-7-24 10:32:55*
-
 ---
 
 Aw man, Green Lantern too? .. Perfect char for Jar Jar actually. GL
 now ring-create Cat in a Hat, Cat in a Hat in a tutu, Cat in a Hat in
 a tutu in a Russian Doll, in a box. On and on it'll go..
-
-*2019-7-24 10:11:18*
 
 ---
 
@@ -189,8 +151,6 @@ changed. And he'll do it so fast you wont see he did it. That scene
 will be just that one shot on SM, that's it. No reason is given for
 the move. It just dazzles you, and the movie pulls you in more at that
 point. Complete immersion.
-
-*2019-7-24 10:11:18*
 
 ---
 
@@ -202,26 +162,18 @@ like, here too.
 
 So mystified'.
 
-*2019-7-24 10:0:29*
-
 ---
 
 Jar Jar directing the next Sman? Yeah, go eff that up, stay away from
 Trek, and other things.
 
-*2019-7-24 9:49:28*
-
 ---
 
 Flusterclock
 
-*2019-7-24 9:18:5*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Dawn Of Low-Carbon Shipping on <a href="https://twitter.com/NPR?ref_src=twsrc%5Etfw">@NPR</a>: When they analyzed the entire system, researchers found that it would be possible to retrofit most types of existing vessels to run on <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> and even easier to construct a new ship powered by <a href="https://twitter.com/hashtag/FuelcellNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelcellNow</a> <a href="https://t.co/SrhwYCpWf4">https://t.co/SrhwYCpWf4</a>.</p>&mdash; IEA Hydrogen (@IEA_Hydrogen) <a href="https://twitter.com/IEA_Hydrogen/status/1153419461103357953?ref_src=twsrc%5Etfw">July 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-23 16:59:6*
 
 ---
 
@@ -233,8 +185,6 @@ But at least PMQ will have more drama, more comedy.
 
 And so Boris now rules the land of Brexit. Quick prediction of next 12 months. Hard Brexit cushioned by massive tax cuts. Pound slumps, deficit blows out, Gilts hardly move. All of this is balanced with another round of welfare cuts. The poor are the ultimate Brexit backstop."
 
-*2019-7-23 16:49:25*
-
 ---
 
 Boris' great-grandfather was Otto Turko, last secstate of the empire
@@ -242,14 +192,10 @@ in fact. He died in the country.
 
 Boris be a tigga.
 
-*2019-7-23 16:40:7*
-
 ---
 
 Aluminum is a light metal; so I bet these tablets weight little. Best
 energy bang for your buck.
-
-*2019-7-23 16:40:7*
 
 ---
 
@@ -269,19 +215,13 @@ cell, providing instant power for the radio.”  "
 
 [Link](http://www.hydrogenfuelnews.com/u-s-army-announces-exclusive-licensing-of-new-hydrogen-technology/8537927/)
 
-*2019-7-23 16:33:57*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The US ARMY has signed an exclusive licensing agreement to make <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> with aluminum alloy powder and any fluid that contains water.<br><br>In desperate situations, soldiers can add urine to the tablet to fire-up a radio signal to call for help. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a><a href="https://t.co/ErhHCQAIhw">https://t.co/ErhHCQAIhw</a> <a href="https://t.co/Muwyxuroqm">pic.twitter.com/Muwyxuroqm</a></p>&mdash; H2 &amp; Fuel Cell News (@H2NewsGlobal) <a href="https://twitter.com/H2NewsGlobal/status/1153658982269161474?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-23 16:33:57*
-
 ---
 
 ![](https://cdn-chat.sstatic.net/chat/img/404_funny_hats.jpg)
-
-*2019-7-23 16:16:7*
 
 ---
 
@@ -290,8 +230,6 @@ cell, providing instant power for the radio.”  "
 I don't get surprised very often when I see big climate change
 numbers, but 700mmcf of CH4 dumped (in the pure sense, as waste) into
 the atmosphere daily is effing jaw dropping."
-
-*2019-7-23 15:49:55*
 
 ---
 
@@ -303,14 +241,10 @@ adjacent cells. Lithium burns at a temperature of 558 C. The high
 temperature, and the chain reaction makes the fire almost impossible
 to put out."
 
-*2019-7-23 12:46:47*
-
 ---
 
 IMO Justin Hammer in Iron Man 2 is an underrated comedic
 character. The guy was hilarious.
-
-*2019-7-23 10:39:14*
 
 ---
 
@@ -318,8 +252,6 @@ Bryson & Ho - fantastic book with such concise math and explanation -
 written in ... 1975! U know a book is good even by looking at its
 typesetting, the frequency of its letters, symbols tell the
 tale. Every word, paragraph, bullseye. Nothing is wasted.
-
-*2019-7-23 10:37:20*
 
 ---
 
@@ -334,16 +266,12 @@ Coast"
 
 [Link](https://twitter.com/DEFCONWSALERTS/status/1153357138615513088)
 
-*2019-7-23 9:46:37*
-
 ---
 
 Aah that's where the words came from. What a shit show. Their
 simulators are okay that's abt it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What is OpenAI? I don&#39;t know anymore.<br>A non-profit that leveraged good will whilst silently giving out equity for years prepping a shift to for-profit that is now seeking to license closed tech through a third party by segmenting tech under a banner of pre/post &quot;AGI&quot; technology? <a href="https://t.co/X6JIIuvcAd">https://t.co/X6JIIuvcAd</a></p>&mdash; Smerity (@Smerity) <a href="https://twitter.com/Smerity/status/1153364705777311745?ref_src=twsrc%5Etfw">July 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-23 9:39:30*
 
 ---
 
@@ -356,8 +284,6 @@ smelling the hydrogen":
 
 [Link](http://www.netnewsledger.com/2019/07/22/the-usa-is-waking-up-and-smelling-the-hydrogen/)
 
-*2019-7-23 9:37:47*
-
 ---
 
 I checked the numbers. It's true. 
@@ -365,23 +291,17 @@ I checked the numbers. It's true.
 "10,000 liters of water is needed to grow enough cotton for one pair
 of denim jeans."
 
-*2019-7-23 9:34:44*
-
 ---
 
 :) I am glad my feed does not contain such ppl except ones who are mad at them
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think that the string &quot;Pre-AGI&quot; is the shortest number of characters that gives me an instant rage aneurism. I despair for the future of our once approximately scientific field, now become the world&#39;s most well-financed techno-cult.</p>&mdash; Edward Grefenstette (@egrefen) <a href="https://twitter.com/egrefen/status/1153398849953775617?ref_src=twsrc%5Etfw">July 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-23 9:28:5*
-
 ---
 
 "@AWeigmannn
 
 Anglo American Platinum announced on Monday: 'We are screening opportunities to use \#FuelCell trucks in our fleet, and we think by this time next year we'll have the largest fuel-cell truck operating anywhere in the world.'"
-
-*2019-7-23 9:25:18*
 
 ---
 
@@ -392,21 +312,15 @@ names; I know a Jennifer with double 'n' intead of double 'f'. Way to
 be 'out of the ordinary', 'rebellious' boomers, 'bucking the
 system'. Enjoy your price-inflated real-estate.
 
-*2019-7-22 17:50:26*
-
 ---
 
 Krystal Ball is foxy. Rrrrrr
-
-*2019-7-22 17:50:26*
 
 ---
 
 Grebe - No Whiskey For Me \#music
 
 [Link](https://youtu.be/7wYmagZZeeg)
-
-*2019-7-22 17:31:11*
 
 ---
 
@@ -415,15 +329,11 @@ scientist. Publish papers and throw them over the wall for someone
 else to apply. I now realise that there's no one on the other side of
 the wall. Just a huge pile of papers that we've all thrown over."
 
-*2019-7-22 17:13:2*
-
 ---
 
 Snooks Eaglin [I'm A] Country Boy Down In New Orleans \#music
 
 [Link](https://youtu.be/ORxcD4oZfQA)
-
-*2019-7-22 16:56:0*
 
 ---
 
@@ -431,14 +341,10 @@ Cute
 
 [Link](https://twitter.com/amiedoubleD/status/1152965582821703680)
 
-*2019-7-22 15:33:22*
-
 ---
 
 Programmable small circuit - Adafruit Circuit Playground -
 programmable in Python. [Video](https://youtu.be/3oEl2AX6-VM?t=38)
-
-*2019-7-22 16:57:46*
 
 ---
 
@@ -451,8 +357,6 @@ the diff calculate longitude. Latitude is easy anyway.
 
 But, GMT-synced clocks are still better. 
 
-*2019-7-22 15:17:23*
-
 ---
 
 I still want Israel to exist, in fact stay there and thrive, so they
@@ -463,8 +367,6 @@ One state solution.
 
 And I support BDS. There is no contradiction here.
 
-*2019-7-22 15:10:41*
-
 ---
 
 Deter. Right.
@@ -472,8 +374,6 @@ Deter. Right.
 "The Air Force Has Sent Stealth F-22 Raptors to Qatar to Deter Iran"
 
 [Link](https://nationalinterest.org/blog/buzz/air-force-has-sent-stealth-f-22-raptors-qatar-deter-iran-67867)
-
-*2019-7-22 10:34:11*
 
 ---
 
@@ -484,19 +384,13 @@ maintain its apartheid rule over Palestinians."
 
 [Link](https://twitter.com/BDSmovement/status/1153016800612892674)
 
-*2019-7-22 10:31:3*
-
 ---
 
 Little puzzley "math" gems do not interest me at all. "Possible to divide any polygon into 4 regions of equal area with two orthogonal ... blah blah blah". I am after deep insight, the things that give you maximum leverage, not bullshit cocktail talking points.
 
-*2019-7-22 10:18:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">🤪</p>&mdash; DynamicalSystemsSIAM (@DynamicsSIAM) <a href="https://twitter.com/DynamicsSIAM/status/1153034633665077248?ref_src=twsrc%5Etfw">July 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-22 10:12:41*
 
 ---
 
@@ -506,13 +400,9 @@ SF is fukked.
 
 [Link](https://twitter.com/alexisohanian/status/1152563800517828608)
 
-*2019-7-22 10:3:47*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tesla fast charge: 15 min/car gives 4 cars/h. 4 x 24 = 96 cars/day. 15 min of charge gives around 200 km range. Hydrogen: One dispenser, 4 min/car gives 15 cars/h. 15 x 24 = 360 cars / day. 4 min of charge gives around 600 km range. FCEV is around 11 times more efficient than BEV</p>&mdash; Carl Koinberg Henrikson (@CarlKoinberg) <a href="https://twitter.com/CarlKoinberg/status/1152845277147074560?ref_src=twsrc%5Etfw">July 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-22 9:47:33*
 
 ---
 
@@ -524,8 +414,6 @@ Green peppers
 
 [Link](https://www.kurucum.com/kurutulmus-yesil-biber.html)
 
-*2019-7-22 9:39:7*
-
 ---
 
 Scientist in US was measuring the temparature of the moon, from all
@@ -536,21 +424,15 @@ research uses it for his greenhouse effect research? Pfff
 
 [Link](https://youtu.be/Le0n4mCRkzY?t=599)
 
-*2019-7-22 9:7:0*
-
 ---
 
 Mechanics is all about differential equations. Then you look at analog circuits, they too are all about differential equations. I wonder if ppl used circuits to "solve" DEs. Because you could theoretically solder a circuit for the formula you want to solve. There is a thing for integration, you could do addition... 
-
-*2019-7-22 8:39:13*
 
 ---
 
 Motherfrackers need to get fracked up
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If we sell alfalfa to Saudi Arabia or China, it’s basically us exporting water there, so what’s the difference?” Wealthy landownding families in desert regions of Texas want to get richer selling their water to frackers. <a href="https://t.co/bmUHyu27BR">https://t.co/bmUHyu27BR</a> <a href="https://t.co/EOa0B7T0PL">pic.twitter.com/EOa0B7T0PL</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/1152994144312274945?ref_src=twsrc%5Etfw">July 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-21 20:55:27*
 
 ---
 
@@ -559,16 +441,12 @@ of these copycats. When TR Ozal once said "we have no alternative" as
 an attack against his then leftist opponents, noone knew he stole the
 line from Thathcer in UK. 
 
-*2019-7-21 15:26:42*
-
 ---
 
 TF had a copycat in gobble gobble. Prominent scumbag, had the same
 sleazy style, always watching for / protecting some kind of interest,
 down to that stupid smile (a new day is upon us, feel the euphoria,
 the markets, flat earth, c'mon show some teeth).
-
-*2019-7-21 15:26:32*
 
 ---
 
@@ -579,21 +457,15 @@ He deader than dead.
 
 It's a mind over matter bitch... We dont mind, and *you dont matter*.
 
-*2019-7-21 15:26:12*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The moiré effect is an optical illusion created by parallel lines crossing over each other in the field of view; you can use this effect to make looping animations <a href="https://t.co/sAnAx1zByV">https://t.co/sAnAx1zByV</a> [source of the gif: <a href="https://t.co/1eWxLky5zY">https://t.co/1eWxLky5zY</a>] <a href="https://t.co/ZlV6v9WgFy">pic.twitter.com/ZlV6v9WgFy</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1152536942166401024?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-21 14:10:16*
 
 ---
 
 We Been Knew
 
 [Link](https://mobile.twitter.com/tisheriffic/status/1152755132733411328)
-
-*2019-7-21 14:8:23*
 
 ---
 
@@ -602,8 +474,6 @@ We Been Knew
 “Adding car lanes to deal with traffic congestion is like loosening
 your belt to cure obesity." — Lewis Mumford, 1955."
 
-*2019-7-21 11:4:48*
-
 ---
 
 Yes because such systems are the easiest to find the data for, and ML
@@ -611,8 +481,6 @@ is extremely reliant on data. Like, "does the picture have a cat or
 not?". You can find training data very easily for that.
 
 Scifi TV: "Yes/No decisions are the easiest for AI"
-
-*2019-7-21 11:4:48*
 
 ---
 
@@ -623,21 +491,15 @@ chase more and more data.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jamie Sethian, in his inimitable style, boiled this down into the quip that &quot;ML is good for problems where the cost of being wrong is low.&quot;</p>&mdash; David Bindel (@DavidBindel) <a href="https://twitter.com/DavidBindel/status/1152671775974723585?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-21 10:34:19*
-
 ---
 
 Mathematical physics has lots of "forms". These are precooked
 formulations, like Euler-Lagrange, or the Hamiltonian. U need a
 certain thing find thr form for it, plug in, done.
 
-*2019-7-20 17:30:24*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">PULL THE MOON OUT OF THE SKY AND MAKE IT APOLOGIZE FOR HOSTING MISOGYNY ON ITS FACE. <a href="https://t.co/CWopqCiGWb">https://t.co/CWopqCiGWb</a></p>&mdash; ANDREW SANTINO (@CheetoSantino) <a href="https://twitter.com/CheetoSantino/status/1151311241979129856?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-20 16:40:47*
 
 ---
 
@@ -648,8 +510,6 @@ need to innovate in this area along with Japan.
 employees, including many veterans of the Apollo & Mir projects. The
 company is headquartered in Israel "
 
-*2019-7-20 12:32:32*
-
 ---
 
 Johnson and Nixon did more for moon landing than JFK. Johnson
@@ -658,27 +518,19 @@ TV (and is a LTCB type like Beto always getting more accolades than
 they deserve) so he is sadly the "front man" for this historical
 moment.
 
-*2019-7-20 11:42:55*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The evidence is clear and incontrovertible: The political choice worldwide today is to actually PAY oil, gas and coal barons to cause climate mayhem and fry us all, even though <a href="https://twitter.com/hashtag/climate?src=hash&amp;ref_src=twsrc%5Etfw">#climate</a> action is cheap and affordable <br><br>I can’t get my head around how insane this is <a href="https://t.co/sxMCXhWmXd">pic.twitter.com/sxMCXhWmXd</a></p>&mdash; Assaad Razzouk (@AssaadRazzouk) <a href="https://twitter.com/AssaadRazzouk/status/1152186340039188481?ref_src=twsrc%5Etfw">July 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-20 11:31:52*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you think EBITDA is what owners get to keep <a href="https://t.co/ASnajL5Yec">pic.twitter.com/ASnajL5Yec</a></p>&mdash; Brent Beshore (@BrentBeshore) <a href="https://twitter.com/BrentBeshore/status/1151829190653595659?ref_src=twsrc%5Etfw">July 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-20 11:22:7*
 
 ---
 
 Some said TG movie feels like a commercial rather than a movie. It's
 true. You could take any 5 second sequence from most of it, and mumble
 the name of some product afterwards and it would be like a commercial.
-
-*2019-7-20 9:15:35*
 
 ---
 
@@ -687,22 +539,16 @@ you!". MI is like WTH? Apparently dude was so inspired by *Top Gun* he
 joined the mil, became a fighter pilot, but the life wasn't like the
 movie. He was pissed.
 
-*2019-7-20 9:15:35*
-
 ---
 
 Cruise says the new *Top Gun* is a love letter to aviation. I get the
 angle; they didnt want to make it a love letter to war.
-
-*2019-7-20 9:15:35*
 
 ---
 
 Hananuer is a billionaire in favor of redistribution. So not "education will fix inequality" type of billionaire, like R Dalio.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is no room for moderation any more in the Democratic Party. If we cannot unambiguously and materially improve the economic circumstances of the majority of citizens, then the party has no place in society. Let’s all just be republicans and grab what we can now.</p>&mdash; Nick Hanauer (@NickHanauer) <a href="https://twitter.com/NickHanauer/status/1152184802084343808?ref_src=twsrc%5Etfw">July 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-19 18:48:55*
 
 ---
 
@@ -712,15 +558,11 @@ From one dream to another. Outside Cleveland Ohio, Amazon is repurposing the fai
 
 [Link](https://mobile.twitter.com/adam_tooze/status/1152216522670125056)
 
-*2019-7-19 18:36:52*
-
 ---
 
 That is one pissed off Swede..
 
 [Link](https://mobile.twitter.com/inteenskul/status/1151811117175496704)
-
-*2019-7-19 14:7:57*
 
 ---
 

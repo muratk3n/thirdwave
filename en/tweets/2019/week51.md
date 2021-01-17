@@ -3,19 +3,13 @@
 
 Same issue again. Sine waves would be *modeling* - too much work
 
-*2019-12-19 0:49:48*
-
 ---
 
 eSpeak sucks. Who wrote this shit?
 
-*2019-12-19 0:47:1*
-
 ---
 
 Cloud Speech! Right. 
-
-*2019-12-19 0:46:47*
 
 ---
 
@@ -23,8 +17,6 @@ Why is most tts (text-to-speech) code out there
 based on Deep Shit now? 
 
 Speech at its simplest is 1D data. It can be represented by a sum of sine waves - u could extract those base waves through sinusoidal regression. Save those regression results in a DB per each word (how many are there, like 20-30K?) and for TTS, while reading doc per word look up its waves, sum them up, play, repeat. 
-
-*2019-12-19 0:38:49*
 
 ---
 
@@ -35,16 +27,12 @@ Speech at its simplest is 1D data. It can be represented by a sum of sine waves 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Next time some paid liar in the fossil fuel industry insists fracked gas is helping solve the climate crisis, remind them a single <a href="https://twitter.com/exxonmobil?ref_src=twsrc%5Etfw">@exxonmobil</a> fracking site &#39;leaked more methane in 20 days than all but 3 European nations over an entire year&quot;<a href="https://t.co/mgCvn7eQay">https://t.co/mgCvn7eQay</a> <a href="https://twitter.com/commondreams?ref_src=twsrc%5Etfw">@commondreams</a></p>&mdash; Mark Z. Jacobson (@mzjacobson) <a href="https://twitter.com/mzjacobson/status/1207098532114485248?ref_src=twsrc%5Etfw">December 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-18 22:25:19*
-
 ---
 
 (Of course according to *Time for Change* model, both Clinton and Bam
 had a major advantage going into their elections -the incumbent was
 unpopular due to his delivery-, but, at least they didn't lose like
 Gore)
-
-*2019-12-18 20:49:9*
 
 ---
 
@@ -54,8 +42,6 @@ but cannot deliver left leaving an electoral disaster behind (it is
 the policy execution that has staying power, not lip biting). Corbyn
 was stiff who probably could deliver left. Ideally u want both (speak
 left, be a closer, get elected, then deliver left).
-
-*2019-12-18 20:43:6*
 
 ---
 
@@ -67,8 +53,6 @@ cratered. Clinton, Blair hipsterism will only carry you so far.
 
 \#ukelection
 
-*2019-12-18 20:33:36*
-
 ---
 
 "Taiwan has massive amount of motorcycles contributing to high level
@@ -77,13 +61,9 @@ deteriorate. #zeroemission scooter to reduce air pollution"
 
 [Link](http://bit.ly/2PzfHze)
 
-*2019-12-18 19:11:25*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The shipping industry is planning its own $5 billion climate fund <a href="https://t.co/poC94WXI1f">https://t.co/poC94WXI1f</a></p>&mdash; Bloomberg Energy (@BloombergNRG) <a href="https://twitter.com/BloombergNRG/status/1207171157234999297?ref_src=twsrc%5Etfw">December 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-18 16:3:24*
 
 ---
 
@@ -91,16 +71,12 @@ Hydrogenious LOHC Technologies spoke at Bundestag, on H2
 
 [Link](https://dbtg.tv/cvid/7402157)
 
-*2019-12-18 11:52:41*
-
 ---
 
 There is [no easy way](https://youtu.be/E6A_WpUY2LI?t=127) of fighting inflation.
 
 "Volcker raised rates too high during the 80s, he hurt the economy,
 hurt working people".
-
-*2019-12-18 9:23:42*
 
 ---
 
@@ -116,8 +92,6 @@ indicating they are no good, so they are left out  [/geek]
 "[geek] I noticed the `w'H w` from optimization - it looks like a
 objective func [/geek]"
 
-*2019-12-18 9:03:2*
-
 ---
 
 👍 
@@ -131,8 +105,6 @@ American taxpayers"
 
 [Link](https://mobile.twitter.com/GroverNorquist/status/1206936622224281601)
 
-*2019-12-17 22:33:14*
-
 ---
 
 5700 yrs ago? That's like yesterday. What genius is managing ur
@@ -141,19 +113,13 @@ science content?
 "Stone Age chewing gum holds clues to the life of a young girl who
 lived 5,700 years ago" -- CNN
 
-*2019-12-17 22:6:57*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big news from <a href="https://twitter.com/zbMATH?ref_src=twsrc%5Etfw">@zbMATH</a>! Zentralblatt (the world’s most comprehensive and longest-running abstracting and reviewing service in pure and applied mathematics) - will be Open Access from 2021!<a href="https://t.co/YzYUhNbf99">https://t.co/YzYUhNbf99</a></p>&mdash; European Maths Soc (@EMSnewsletter) <a href="https://twitter.com/EMSnewsletter/status/1206969437406056450?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-17 21:44:21*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This hydrogen-powered truck will shrink mining&#39;s footprint - and there will be many many more to come ⁦<a href="https://twitter.com/epirocgroup?ref_src=twsrc%5Etfw">@epirocgroup</a>⁩ ⁦<a href="https://twitter.com/Svemin_mining?ref_src=twsrc%5Etfw">@Svemin_mining</a>⁩ <a href="https://t.co/1QabRtl8Bc">https://t.co/1QabRtl8Bc</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1206996505288216576?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-17 21:36:22*
 
 ---
 
@@ -167,20 +133,14 @@ order to undermine his international standing"
 
 [Link](https://www.project-syndicate.org/commentary/xi-china-vulnerable-authoritarian-by-minxin-pei-2019-12)
 
-*2019-12-17 21:26:39*
-
 ---
 
 MIT prof talking smack on quasi-Newton methods. Dude you are so
 totally wrong.
 
-*2019-12-17 16:35:59*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="sv" dir="ltr">How strange, I thought all of Europe would build electrified roads like Sweden... I guess not... kämpa Sverige - vi är ensamma mot världen men vinner säkert! <a href="https://twitter.com/moderaterna?ref_src=twsrc%5Etfw">@moderaterna</a> <a href="https://twitter.com/kdriks?ref_src=twsrc%5Etfw">@kdriks</a> <a href="https://twitter.com/VolvoTrucks?ref_src=twsrc%5Etfw">@VolvoTrucks</a> <a href="https://twitter.com/ScaniaSverige?ref_src=twsrc%5Etfw">@ScaniaSverige</a> <a href="https://t.co/IEvpe2VKdC">https://t.co/IEvpe2VKdC</a></p>&mdash; Niklas Holming (@NHolming) <a href="https://twitter.com/NHolming/status/1206913586666311680?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-17 16:27:2*
 
 ---
 
@@ -241,8 +201,6 @@ better, this is the better portfolio.
 Ideally u want correlation to be a big fat zero. These were just
 random symbols off the top of my head
 
-*2019-12-17 15:48:31*
-
 ---
 
 The fight. "Learning" statistically as in deep nets vs. formulating
@@ -270,15 +228,11 @@ time. Their "models" such as they are, can have *millions* of
 weights. This is the price you pay for not burning brain cells on
 formulating, modeling a problem.
 
-*2019-12-17 14:56:23*
-
 ---
 
 I've become an expert extracting code from Scipy and flattening it (so
 everything per feature is in a single, clean file). Any feature, I do
 it under 1 hour flat. 
-
-*2019-12-17 13:51:36*
 
 ---
 
@@ -294,8 +248,6 @@ on and on it goes until the **pop**
 
 [Ref](https://youtu.be/cXDRknADR18?t=80)
 
-*2019-12-17 12:38:15*
-
 ---
 
 Just realized zombie movies hark back to forager-like conditions too
@@ -304,21 +256,15 @@ a modern albeit in a post apocalyptic backdrop. Instead of wild nature
 u get broken arch (forage 4 food in abandoned supermarket) and
 ppl who are now monsters (wild animals).
 
-*2019-12-17 11:40:1*
-
 ---
 
 You see, tech, white-collar world is not only about inbread centrist
 mama's boys. They have a "left" too, and it is in the free, open
 source crowd.
 
-*2019-12-17 11:39:34*
-
 ---
 
 Removed the GMaps static map api integration 🤮
-
-*2019-12-17 11:30:2*
 
 ---
 
@@ -329,8 +275,6 @@ data, dump parts I need through their OSS, the rest is offline Py.
 
 U'll be asking for these during the zombie apocalypse my friend. I
 might give them to u in return for some shotgun shells.
-
-*2019-12-17 11:10:52*
 
 ---
 
@@ -343,8 +287,6 @@ with hydrogen, and if successful can reduce Sweden's total carbon
 emissions by 10%"
 
 [Link](https://www.google.com/amp/s/amp.cnn.com/cnn/videos/business/2019/12/13/steel-sweden-carbon-dioxide-emissions-ssab-vattenfall-lkab-stewart.cnn)
-
-*2019-12-17 1:27:25*
 
 ---
 
@@ -375,21 +317,15 @@ translate in our spontaneous everyday ontology and I think all these
 theories try desperately to translate it back in some kind of
 understandable for our common sense ontology" -- Zizek
 
-*2019-12-17 0:8:41*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Because <a href="https://twitter.com/hashtag/NANO?src=hash&amp;ref_src=twsrc%5Etfw">#NANO</a> is objectively better. By any measure. Send me 50c in bitcoin. I can send you 50c in <a href="https://twitter.com/hashtag/NANO?src=hash&amp;ref_src=twsrc%5Etfw">#NANO</a> 100 times before your 50c btc even clears. It ain&#39;t rocket science. One is better than the other. Peer pressure just prevents you from admitting it 😉 <a href="https://t.co/PVxCb19QRU">https://t.co/PVxCb19QRU</a></p>&mdash; RaiStoneFan (@CryptoKash4) <a href="https://twitter.com/CryptoKash4/status/1206504963175698432?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-16 16:17:36*
 
 ---
 
 Peak start-up
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bruxelles imported Berlin hipster madness! Table next to me talking “influencers”, 1 guy is 1 of 4 full time staff/cofounder of houseplant start up in Berlin... complaining about work/life balance (he works on weekends), they make the world better and he doesn’t like plants. <a href="https://twitter.com/hashtag/ffs?src=hash&amp;ref_src=twsrc%5Etfw">#ffs</a></p>&mdash; Karen Melchior 💖 🇪🇺 (@karmel80) <a href="https://twitter.com/karmel80/status/1206325808459112448?ref_src=twsrc%5Etfw">December 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-16 15:34:27*
 
 ---
 
@@ -399,16 +335,12 @@ NYT being a corporate slut. [Related](https://muratk3n.github.io/thirdwave/en/tw
 
 [Link](https://twitter.com/TStellingwerff/status/1205715912306782210)
 
-*2019-12-16 12:45:48*
-
 ---
 
 Trump does the uncouth mixed with (some) style. It is also directed to
 something, so ppl think "he is tearing shit down for me". It's a tough
 act though. No wonder his popularity is low: -11% net pop according to
 Gallup.
-
-*2019-12-16 12:32:19*
 
 ---
 
@@ -425,8 +357,6 @@ there, now you have a national security problem. Cant do that.
 
 "Does it matter for representatives to be uncouth, crass? They are people after all"
 
-*2019-12-16 12:32:19*
-
 ---
 
 Emilia Clarke looks good in GoT when she doesnt make too many facial
@@ -434,8 +364,6 @@ expressions. In real life, the actress, when she starts moving those
 eyebrows, oh-boi. Keep them still girl.
 
 She looks like a nice, lively person tho, dont mean to nag
-
-*2019-12-15 23:42:27*
 
 ---
 
@@ -445,8 +373,6 @@ works out in the long run.
 
 \#ukelection 
 
-*2019-12-15 23:51:1*
-
 ---
 
 FDR didn't win on the beauty of his "ideas". 1st he almost didnt get
@@ -455,8 +381,6 @@ so they let him. Then he won the general bcz the incumb was obscenely
 bad. Once in power though, he enacted good policies which ppl felt
 through their pocketbook, and with a general feeling of gov being on
 their side and they voted for him, again and again until he died.
-
-*2019-12-15 22:31:6*
 
 ---
 
@@ -472,8 +396,6 @@ thinks he debunked the 1st]"
 
 [Link](https://www.wsj.com/articles/economists-got-the-decade-all-wrong-theyre-trying-to-figure-out-why-11576346400 )
 
-*2019-12-15 22:26:3*
-
 ---
 
 Will we see the formation of an Anglosphere after Brexit?  US + UK +
@@ -483,20 +405,14 @@ I dont think China will be able to play for the big league. If India
 turns pro US there wont be many other powers left. EU + RU rubs the
 Eastern states the wrong way, hard to form. 
 
-*2019-12-15 22:10:44*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Global summer temperature in 2019 was record high - and without el Nino. How can <a href="https://twitter.com/hashtag/cop25?src=hash&amp;ref_src=twsrc%5Etfw">#cop25</a> ignore the fact that changes are coming faster and will leave the young generation with risk of greater climate problems than we to day can imagine. <a href="https://twitter.com/hashtag/cop25?src=hash&amp;ref_src=twsrc%5Etfw">#cop25</a> looks like a failure. <a href="https://t.co/vs7uNxi8nm">pic.twitter.com/vs7uNxi8nm</a></p>&mdash; Jesper Theilgaard (@JesperTheilgard) <a href="https://twitter.com/JesperTheilgard/status/1206124645994369024?ref_src=twsrc%5Etfw">December 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-15 22:2:4*
 
 ---
 
 Sun Yat-Sen. Why do u never hear of this guy? It's always Mao, Mao,
 Mao. This dude gave some thought to democracy in Chinkstan.
-
-*2019-12-15 20:1:47*
 
 ---
 
@@ -514,8 +430,6 @@ economy by GDP but it attracts the second highest rate of foreign
 investment in the world"
 
 [Link](https://www.youtube.com/watch?v=Ag5XmYWJ3mI)
-
-*2019-12-15 18:52:54*
 
 ---
 
@@ -538,8 +452,6 @@ At least RU can argue it has *some* strategical reasons to be pursuing
 their Putin strategy, for TR, already a Western ally, the little Putin
 strategy makes zero sense.
 
-*2019-12-15 17:41:3*
-
 ---
 
 U could say the
@@ -547,14 +459,10 @@ U could say the
 is strong.  Since 2001 DXY (dollar vs a curr basket) mostly hovered
 btw 74 and 95, it is now closer to 95.
 
-*2019-12-15 17:31:3*
-
 ---
 
 Ok.. there is some [inflation](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#infyoy):
 2.0% YOY.
-
-*2019-12-15 17:16:30*
 
 ---
 
@@ -563,8 +471,6 @@ Next Labour leader? The psycic says Yvette Cooper.
 But I think the psycic really wants a centrist ;)
 
 \#ukelection 
-
-*2019-12-15 14:02:2*
 
 ---
 
@@ -580,16 +486,12 @@ debate with Clint. Cant do that.
 
 \#ukelection 
 
-*2019-12-15 13:45:4*
-
 ---
 
 We have yet to see anyone be judged on the *repercussions* of
 Brexit. Hopefully that time arrives soon.
 
 \#ukelection 
-
-*2019-12-15 13:39:32*
 
 ---
 
@@ -600,13 +502,9 @@ hire expert politico messagers.
 
 \#ukelection 
 
-*2019-12-15 13:35:9*
-
 ---
 
 <img width="340" src="https://assets.infusionsoft.com/image/upload/v1/learn/images/Zz1hYzI1YjNhODEzYTJhZWQwNDVlMjE4NzlhNGIzM2QyNQ%3D%3D"/>
-
-*2019-12-15 13:12:2*
 
 ---
 
@@ -619,8 +517,6 @@ back.
 "Working-class voters didn’t trust or believe Labour. We have to
 change" -- The Guardian
 
-*2019-12-15 13:2:42*
-
 ---
 
 "What the world needs is a big reset of the system where leveraged
@@ -631,8 +527,6 @@ stimulus in order to kick the can further down the road"
 
 [Link](https://wolfstreet.com/2019/12/04/inflation-is-coming-all-the-trends-that-were-deflationary-are-slowly-going-in-reverse/)
 
-*2019-12-15 10:40:6*
-
 ---
 
 The Sea Angel - wow.
@@ -641,8 +535,6 @@ The Sea Angel - wow.
 living species of a lineage that has existed for 125 million years"
 
 [The Deep Sea](https://mobile.twitter.com/anitaleirfall/status/1205954764955107328)
-
-*2019-12-15 8:24:40*
 
 ---
 
@@ -655,8 +547,6 @@ motels. Investors will never get their $$ back"
 
 [Link](https://mobile.twitter.com/Jkylebass/status/1205490504504414209)
 
-*2019-12-14 21:58:14*
-
 ---
 
 We live in interesting times. It gives rise to a strange new
@@ -665,8 +555,6 @@ bad news. Watch a finance show u hear them argue all the time "this
 was good news, but is good news good news or bad news 😶 [for the stock
 market, bcz good news can cause FED to raise rates that'll lower the
 laughing gas, causing the market go down]". 
-
-*2019-12-14 20:40:43*
 
 ---
 
@@ -681,8 +569,6 @@ something like this. It keeps on giving.
 
 [Link](https://www.youtube.com/watch?v=Z8VLoyTOG3Y)
 
-*2019-12-14 20:32:14*
-
 ---
 
 \#medicalDebt \#cnbc
@@ -690,8 +576,6 @@ something like this. It keeps on giving.
 The fin advice part is really dumb but at least they talked abt the problem
 
 [Link](https://www.youtube.com/watch?v=TetzL1X1JlI)
-
-*2019-12-14 14:47:0*
 
 ---
 
@@ -704,20 +588,14 @@ you go & voting to tear that passport up and be stranded on an island"
 
 \#ukelection 
 
-*2019-12-13 18:58:58*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ladies &amp; gentlemen. What we are seeing today in Norway is the start of a complete revolution of the global shipping industry. The cocoon of infrastructure for compressed as well as liquified <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a>. No other way to decarbonise shipping. Tack <a href="https://twitter.com/EnovaSF?ref_src=twsrc%5Etfw">@EnovaSF</a> 🌿♻️🛳💦⛴💦🚢💦 <a href="https://twitter.com/hashtag/IMO2020?src=hash&amp;ref_src=twsrc%5Etfw">#IMO2020</a></p>&mdash; William Blomstrand (@william_sw) <a href="https://twitter.com/william_sw/status/1205463219936075777?ref_src=twsrc%5Etfw">December 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-13 15:23:38*
 
 ---
 
 I am definitely studying this subject irreverently (per Feynman)
 \#optimization
-
-*2019-12-13 15:20:52*
 
 ---
 
@@ -734,14 +612,10 @@ Well, noone should run these ppl over, displace them, or destroy
 them. They'd need their own local governance, Scots, the Irish, or the
 Uighurs.
 
-*2019-12-13 9:55:35*
-
 ---
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are in &#39;accelerating investments&#39; phase by Germany into hydrogen, <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> and <a href="https://twitter.com/hashtag/powertogas?src=hash&amp;ref_src=twsrc%5Etfw">#powertogas</a> (electrons into H2). <a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> needs to get beyond the &#39;but it&#39;s inefficient&#39; thinking. Molecules cut deeper in decarbonization of multiple sectors esp industry + transportation <a href="https://t.co/zomDLxZVXH">https://t.co/zomDLxZVXH</a></p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1205230459300515840?ref_src=twsrc%5Etfw">December 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-13 8:47:57*
 
 ---
 
@@ -750,8 +624,6 @@ Uighurs.
 "...the purpose of abstracting is not to be vague, but to create a new
 semantic level in which one can be absolutely precise." - Edsger
 W. Dijkstra
-
-*2019-12-12 21:49:26*
 
 ---
 
@@ -763,19 +635,13 @@ $749 million. Seriously.
 2017.'. Every day #businesses are paying substantial #CardFees to
 financial gatekeepers and middlemen"
 
-*2019-12-12 15:49:9*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: In a major victory for privacy, a federal court ruled today that the government’s suspicionless searches of international travelers’ smartphones and laptops at airports and other U.S. ports of entry violate the Fourth Amendment. <a href="https://t.co/SJDIERJdV5">pic.twitter.com/SJDIERJdV5</a></p>&mdash; ACLU (@ACLU) <a href="https://twitter.com/ACLU/status/1194350173180383233?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-12-12 15:47:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/China?src=hash&amp;ref_src=twsrc%5Etfw">#China</a> <a href="https://twitter.com/hashtag/FCEV?src=hash&amp;ref_src=twsrc%5Etfw">#FCEV</a> Jan-Nov sales at 1,337, +375.8% YoY.<br>Production at 1,426, +398.6% YoY.<br>(CAAM) <a href="https://t.co/tUSsRnJ5AA">pic.twitter.com/tUSsRnJ5AA</a></p>&mdash; Moneyball (@DKurac) <a href="https://twitter.com/DKurac/status/1205069861556146176?ref_src=twsrc%5Etfw">December 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-12-12 13:50:12*
 
 ---
 
@@ -787,8 +653,6 @@ as catalysts, which speed up this chemical reaction while requiring
 less energy"
 
 [Link](https://newsroom.unsw.edu.au/news/science-tech/scientists-find-cheaper-way-make-hydrogen-energy-out-water)
-
-*2019-12-12 12:2:35*
 
 ---
 

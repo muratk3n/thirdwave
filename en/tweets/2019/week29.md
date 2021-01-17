@@ -6,21 +6,15 @@ Really? Ok then... Some in fandom were very worried last I checked.
 
 Just saw some footage from @Terminator. Holy shit. Goosebumps. #SDCC"
 
-*2019-7-18 22:19:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everything is awful so here&#39;s a bear trying to catch a balloon. <a href="https://t.co/DlpriG2fKs">pic.twitter.com/DlpriG2fKs</a></p>&mdash; Paul Bronks (@SlenderSherbet) <a href="https://twitter.com/SlenderSherbet/status/1148113514235666432?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-18 22:18:36*
 
 ---
 
 Great research from Stanford addressing the intermittency problem
 
 [Link](https://www.gsb.stanford.edu/faculty-research/publications/economics-converting-renewable-power-hydrogen)
-
-*2019-7-18 21:10:57*
 
 ---
 
@@ -32,13 +26,9 @@ and refueling system"
 
 [Link](http://bit.ly/30DbFZl)
 
-*2019-7-18 21:5:33*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">JAXA and Toyota Commence Joint Research into <a href="https://twitter.com/hashtag/FuelCell?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCell</a> Powered Manned Pressurized Rover--(JAXA) and <a href="https://twitter.com/ToyotaMotorCorp?ref_src=twsrc%5Etfw">@ToyotaMotorCorp</a> (Toyota) announce today that they have signed a three-year joint research agreement running from fiscal year 2019 to fiscal year 2021--<a href="https://t.co/sCtzX46c9f">https://t.co/sCtzX46c9f</a> <a href="https://t.co/BhTQTaC0uw">pic.twitter.com/BhTQTaC0uw</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1151108476975964160?ref_src=twsrc%5Etfw">July 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-18 18:34:54*
 
 ---
 
@@ -47,8 +37,6 @@ well. I heard the guy on diff show w genuine Brit accent, I tho "no
 American does Brit accent that good". Turns out the fake accent was
 the 1st one (on BSG).
 
-*2019-7-18 17:52:34*
-
 ---
 
 
@@ -56,26 +44,18 @@ Naidu, da man.
 
 Gr8 Optimal Control book.
 
-*2019-7-18 16:16:4*
-
 ---
 
 What 50% is DJT talking abt? Approve is 42 disprove 52. Net = -10.
-
-*2019-7-18 15:49:6*
 
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">he sent that while waiting at a Supercharger for 2 hours</p>&mdash; Scott Segal (@scottsegal18) <a href="https://twitter.com/scottsegal18/status/1151651232668405762?ref_src=twsrc%5Etfw">July 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-18 13:34:30*
-
 ---
 
 [We wuz chased by kangs!](https://twitter.com/jay_d007/status/1008859448054607872)
-
-*2019-7-18 14:47:19*
 
 ---
 
@@ -83,8 +63,6 @@ Melania Trump.. Is she a paisan? She's got that Sophie Louren thing
 going on. Cat woman.. Meow.
 
 Uh-Dough-nald, uh let's do it in uh Roosevelt uh room uh.
-
-*2019-7-18 15:47:19*
 
 ---
 
@@ -134,15 +112,11 @@ worked."
 
 [Link](http://longnow.org/essays/richard-feynman-connection-machine/)
 
-*2019-7-18 14:41:18*
-
 ---
 
 This is like shortest-path algo. A CS guy would be shitting bricks
 trying to solve a problem like this in discrete form. In continous
 realm, much easier. 
-
-*2019-7-18 13:41:18*
 
 ---
 
@@ -153,15 +127,11 @@ elevation field is definitely a CalcVar problem. Treat flattest traj
 calc like fuel max for rocket lander, vertical moves consume more,
 hori less, minimize cost functional, find ODE, solve, get traj.
 
-*2019-7-18 12:41:18*
-
 ---
 
 Year 2019 and I heard the words "anti-citizen" as a political label
 (in an attack but still). It's a thing, the attack has some substance
 (generally speaking). It is mind boggling to me that this is a thing.
-
-*2019-7-18 9:46:42*
 
 ---
 
@@ -169,21 +139,15 @@ Some delirious road planning from Guizhou province China!
 
 [Link](https://mobile.twitter.com/adam_tooze/status/1151612285930131457)
 
-*2019-7-18 7:54:29*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is a REVELATION to leave behind navigating private health insurance &amp; all its Byzantine restrictions on what care you can get &amp; when &amp; the nightmare of getting a prescription paid for. With the NHS it’s free-at-point-of-use. It is not *free*, as we pay for it thru taxes.</p>&mdash; rob delaney (@robdelaney) <a href="https://twitter.com/robdelaney/status/1151568063822782467?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-18 7:43:35*
 
 ---
 
 [Related](https://medium.com/the-polymath-project/g-k-chesterton-in-defense-of-amateurs-7d2d55516a01)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve always liked the saying that anything that’s worth doing is worth doing badly.</p>&mdash; Steven Strogatz (@stevenstrogatz) <a href="https://twitter.com/stevenstrogatz/status/1151541409016614912?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-17 20:45:2*
 
 ---
 
@@ -195,13 +159,9 @@ The Japanese Ministry of Economy Trade and Industry (METI) has
 formally endorsed UK technology firm, Powerhouse Energy’s, DMG plastic
 waste to hydrogen and electricity process."
 
-*2019-7-17 19:36:45*
-
 ---
 
 "Weeks of coding can save you hours of planning." - Unknown
-
-*2019-7-17 18:3:23*
 
 ---
 
@@ -218,8 +178,6 @@ the best researcher) in a new way - over video on the Net.
 "Just teach my kid the [adjective] math"
 
 [Link](https://medium.com/q-e-d/just-teach-my-kid-the-expletive-math-fb6f495be906)
-
-*2019-7-17 11:45:9*
 
 ---
 
@@ -239,23 +197,17 @@ sultan.
 
 [Video](https://youtu.be/wZEBgSvEZqA)
 
-*2019-7-17 10:23:40*
-
 ---
 
 Testing new superfood concoction; milk powder with iron and calcium,
 oats with dried fruits, dried kidney beans, all ground in a blender
 turned into powder.
 
-*2019-7-17 8:41:29*
-
 ---
 
 Will check it out
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m getting so excited for July 25th when Another Life starts streaming world wide! This is what I’ve spent the last almost 2 years of my life on and I’m just freaking out for you to see it!! <a href="https://twitter.com/netflix?ref_src=twsrc%5Etfw">@netflix</a> 🚀🛸💫👽❤️</p>&mdash; Katee Sackhoff (@kateesackhoff) <a href="https://twitter.com/kateesackhoff/status/1151302851714379776?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-17 8:32:50*
 
 ---
 
@@ -264,8 +216,6 @@ Found this gem in an Opt Control Theory book. Euler was the boss.
 "Because the shape of the whole universe is most perfect and, in fact,
 designed by the wisest Creator, nothing in all of the world will occur
 in which no maximum or minimum rule is somehow shining forth -- Euler"
-
-*2019-7-17 1:14:24*
 
 ---
 
@@ -277,13 +227,9 @@ long run."
 
 [Link](https://www.thenational.scot/news/17772042.scotland-s-new-oil-green-hydrogen/)
 
-*2019-7-17 0:48:54*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cargo ships currently burn a fuel that contributes to greenhouse gases and air pollution. <br><br>By switching to hydrogen power, &quot;there&#39;s no reason why we couldn&#39;t make all these vessels zero-emission today,&quot; a researcher says. <a href="https://t.co/iB4dBAENl7">https://t.co/iB4dBAENl7</a></p>&mdash; NPR (@NPR) <a href="https://twitter.com/NPR/status/1151140593676038144?ref_src=twsrc%5Etfw">July 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-16 22:27:32*
 
 ---
 
@@ -295,8 +241,6 @@ water source; tap water, ground water, wastewater, and seawater."
 
 [Link](http://gilmanindustries.com)
 
-*2019-7-16 21:22:12*
-
 ---
 
 Really. Do tell.
@@ -307,27 +251,19 @@ Incredible. For the second time, the Pentagon scheduled a briefing
 about Turkey and the S-400, and 30 minutes later cancelled it. Things
 are not well."
 
-*2019-7-16 20:16:51*
-
 ---
 
 Boot-Edge-Edge, He/Him/His Beto. Not even worth talking about anymore. 
 
-*2019-7-16 20:5:5*
-
 ---
 
 <img src="https://pbs.twimg.com/media/D_lWkPmUwAAS79g.jpg" width="400"/>
-
-*2019-7-16 19:42:19*
 
 ---
 
 "Trump ally Lindsey Graham says president should 'admit climate change is real"
 
 [Link](https://www.usatoday.com/story/news/politics/2019/07/12/donald-trump-admit-climate-change-real-lindsey-graham-says/1718541001/)
-
-*2019-7-16 18:58:9*
 
 ---
 
@@ -336,8 +272,6 @@ Boot-Edge-Edge, He/Him/His Beto. Not even worth talking about anymore.
 If all Americans had health care, 45,000 who died for lack of adequate
 insurance might be spared and there would be 530,000 fewer
 bankruptcies per annum. "
-
-*2019-7-16 17:17:4*
 
 ---
 
@@ -352,8 +286,6 @@ example of using visuals to communicate a deep idea."
 
 [Link](https://mobile.twitter.com/3blue1brown/status/1150981801680093184)
 
-*2019-7-16 16:39:4*
-
 ---
 
 "@dhh
@@ -363,8 +295,6 @@ that Apple (and Google, I guess) doesn't outlaw or at least offer
 default circuit breakers for this predatory model"
 
 [Link](https://mobile.twitter.com/dhh/status/1151066314657730561)
-
-*2019-7-16 16:30:5*
 
 ---
 
@@ -376,16 +306,12 @@ bubble) gathering momentum."
 
 [Link](https://twitter.com/scientificecon/status/1150838345175642118)
 
-*2019-7-16 12:39:58*
-
 ---
 
 Some funny answers in the thread too.. (4IR is "4th Indust Rev").
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just used a vending machine.<br>I love 4IR.</p>&mdash; Koshiek Karan (@iamkoshiek) <a href="https://twitter.com/iamkoshiek/status/1150723343051567104?ref_src=twsrc%5Etfw">July 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-16 12:37:15*
 
 ---
 
@@ -399,13 +325,9 @@ The design actually makes a lot of sense. I dont like the rotors
 sticking out as in most quadcopters. This is a hexacopter and rotors
 are protected in little circles.
 
-*2019-7-16 11:50:31*
-
 ---
 
 Kamala surely seems to support M4A by mistake, a lot. 
-
-*2019-7-16 10:56:56*
 
 ---
 
@@ -413,13 +335,9 @@ He/Him/His Beto finds slaveholders in ancestry. Here is an idea, do
 your own reperations. Take some of that wealth (apparenty based on
 slavery) and give some of it to the ancestors of those slaves?
 
-*2019-7-16 10:53:5*
-
 ---
 
 Le Space Force? 
-
-*2019-7-15 15:56:34*
 
 ---
 
@@ -440,8 +358,6 @@ Don't be an imbecile. A dildo could connect these dots.
 
 "The fertility rate of the population is not enough to sustain itself"
 
-*2019-7-15 15:18:31*
-
 ---
 
 Actually I kinda like the hood getting wilder, it'll shake-up
@@ -453,21 +369,15 @@ For the first time in recent memory a small hurricane hit Greece this
 year... large temperature differences typically not seen in Mediterane
 are increasingly the new normal."
 
-*2019-7-15 14:0:56*
-
 ---
 
 The move at the end was awesome
 
 [Link](https://twitter.com/apiecebyguy/status/1150087573248925697)
 
-*2019-7-15 13:58:18*
-
 ---
 
 We wuz kangs
-
-*2019-7-15 13:56:33*
 
 ---
 
@@ -478,13 +388,9 @@ Yes, get ready for job displacing AI
 Even without the so-called "general intelligence" which we are light
 years away from, even existing tech is enough to displace millions.
 
-*2019-7-15 11:26:21*
-
 ---
 
 Oh it's coming
-
-*2019-7-15 11:4:34*
 
 ---
 
@@ -495,8 +401,6 @@ Uwww.. slam.
 "Your government is harvesting organs from millions of LIVE political
 prisoners. And you want to criticize Washington DC’s perceived racial
 distribution? [in response to [this](https://twitter.com/Jkylebass/status/1150538601085767680)]"
-
-*2019-7-15 9:49:11*
 
 ---
 
@@ -509,8 +413,6 @@ the model, has code. Chemistry, DEs, and Python, and much more.
 
 The book is riffing on the Strogatz lectures in a major way, I
 remember the BZ reaction from vids.
-
-*2019-7-15 9:36:40*
 
 ---
 
@@ -530,13 +432,9 @@ reefs"
 
 [Link](https://defconwarningsystem.com/2019/07/14/china-likely-tested-missiles-that-can-kill-aircraft-carriers-in-the-south-china-sea/)
 
-*2019-7-15 8:55:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally also main stream magazines turn to <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> as enabler of an affordable <a href="https://twitter.com/hashtag/energytransition?src=hash&amp;ref_src=twsrc%5Etfw">#energytransition</a> to fulfil the <a href="https://twitter.com/hashtag/ParisAgreement?src=hash&amp;ref_src=twsrc%5Etfw">#ParisAgreement</a>. The steel case based on CO2 direct avoidance using green <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> is an excellent example how this can work<a href="https://t.co/nGb07BGVhf">https://t.co/nGb07BGVhf</a> <a href="https://t.co/nGb07BGVhf">https://t.co/nGb07BGVhf</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1150495725505122306?ref_src=twsrc%5Etfw">July 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-15 8:44:29*
 
 ---
 
@@ -544,8 +442,6 @@ Now I started to feel bad for the cretens of NYT. If you are not
 connected to tech / science in a personal, hands-on way, it's really
 really hard to comment abt a lot of major soc change that is related
 to tech (which is nearly everything).
-
-*2019-7-15 8:33:32*
 
 ---
 
@@ -559,8 +455,6 @@ actually being able to do interesting symbolic algebra _in python_ is
 _so much more powerful_ for my applications, and it’s also such a joy
 to use."
 
-*2019-7-15 8:30:57*
-
 ---
 
 "@AWeigmannn
@@ -571,13 +465,9 @@ plotting a revolution on the buses – by powering thousands with
 
 [Link](https://www.telegraph.co.uk/business/2019/07/14/jcb-heir-steps-gas-hydrogen-bus-boom-signing-tfl-contract/)
 
-*2019-7-15 8:26:5*
-
 ---
 
 Weekdays - work. Weekends - fun reading related to ... work. So always work. But it's fun. 
-
-*2019-7-14 13:40:30*
 
 ---
 
@@ -593,13 +483,9 @@ should also say it also busted more often and more deeply [in response
 to
 [this](https://twitter.com/cullenroche/status/1150100814377000960)]"
 
-*2019-7-14 13:9:19*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1999: there are millions of websites all hyperlinked together <br>2019: there are four websites, each filled with screenshots of the other three.</p>&mdash; David Masad (@badnetworker) <a href="https://twitter.com/badnetworker/status/1133363823728091136?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2019-7-14 11:30:53*
 
 ---
 
@@ -609,16 +495,6 @@ Ha ha
 
 [Link](https://twitter.com/megreenwell/status/1148981762095235073)
 
-*2019-7-13 20:33:5*
-
----
-
-So the hammer is coming down. Well  deserved.
-
-"During the White House’s summit on social media, President Trump praised Sen. Hawley’s legislation, which would crack down on social media censorship".
-
-*2019-7-13 15:14:24*
-
 ---
 
 In the academic world, one approach dominated. The IS-LM model that John Hicks and Alvin Hansen had separately extracted, formulated and codified from Keynes’s General Theory had become the fundamental way of thinking about the macroeconomy: a set of behavioral equations determined ‘equilibrium’ ... 
@@ -627,15 +503,11 @@ In the academic world, one approach dominated. The IS-LM model that John Hicks a
 
 Leijonhufvud got something entirely different from reading the General Theory. The more he looked at his footnotes, originally written in puzzlement at the disparity between what he took to be the Keynesian message and the orthodox Keynesianism of his time, the more confident he felt. The implications were amazing. Had the whole discipline catastrophically misunderstood Keynes’ deeply revolutionary ideas?
 
-*2019-7-13 14:35:36*
-
 ---
 
 Thread on 90s movies. Hah.
 
 [Link](https://mobile.twitter.com/ConnorSouthard/status/1149702909191434243)
-
-*2019-7-13 13:47:20*
 
 ---
 
@@ -643,21 +515,15 @@ Thread on 90s movies. Hah.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Final <a href="https://twitter.com/SOFIAtelescope?ref_src=twsrc%5Etfw">@SOFIAtelescope</a> aurora timelapse for today. This is my favourite. Look at the lovely aurora australis in the south as the first quarter moon illuminates the southern ocean. <a href="https://twitter.com/hashtag/aurora?src=hash&amp;ref_src=twsrc%5Etfw">#aurora</a> <a href="https://twitter.com/hashtag/astronomy?src=hash&amp;ref_src=twsrc%5Etfw">#astronomy</a> <a href="https://twitter.com/hashtag/beauty?src=hash&amp;ref_src=twsrc%5Etfw">#beauty</a> <a href="https://twitter.com/hashtag/NewZealand?src=hash&amp;ref_src=twsrc%5Etfw">#NewZealand</a> <a href="https://t.co/mUo5JuODIt">pic.twitter.com/mUo5JuODIt</a></p>&mdash; Ian Griffin (@iangriffin) <a href="https://twitter.com/iangriffin/status/1149895855983362049?ref_src=twsrc%5Etfw">July 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-13 12:11:17*
-
 ---
 
 Berned.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This must be someone else. My mistake. <a href="https://t.co/DuBoI5xAzH">https://t.co/DuBoI5xAzH</a> <a href="https://t.co/UG6gNFh7TE">pic.twitter.com/UG6gNFh7TE</a></p>&mdash; Bernie Sanders (@BernieSanders) <a href="https://twitter.com/BernieSanders/status/1149815916210925569?ref_src=twsrc%5Etfw">July 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2019-7-13 11:35:36*
-
 ---
 
 Bernie: "20% are in jail bcz they cannot afford cash bail". Crazy. 
-
-*2019-7-13 11:8:41*
 
 ---
 
@@ -665,15 +531,11 @@ Bernie: "20% are in jail bcz they cannot afford cash bail". Crazy.
 Finally finished reading the awesomeness that was Crashed. What a
 great piece of work. Will probably reread it soon.
 
-*2019-7-13 10:21:1*
-
 ---
 
 The huge wind and solar project planned for the Pilbara region of West Australian has grown in scope again – and will now aim to build 15GW of wind and solar capacity as it focuses on encouraging local industry and the “green” hydrogen domestic and export market.
 
 [Link](https://reneweconomy.com.au/pilbara-green-hydrogen-project-grows-to-15gw-wind-and-solar-97972/)
-
-*2019-7-12 11:49:42*
 
 ---
 

@@ -3,8 +3,6 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This rather interesting and intriguing automobile powerplant that appears to be a turbocharged V8 engine is really a hydrogen fuel cell developed by Intelligent Energy. It’s designed for “high-performance fuel cell electric vehicles.”🚙 New fuel cell&#39;s rater at 100 kilowatts. <a href="https://t.co/yz0R67tZpb">pic.twitter.com/yz0R67tZpb</a></p>&mdash; H2 Economy | Hydrogen Economy (@EconomyH2) <a href="https://twitter.com/EconomyH2/status/1263112612545470464?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-05-21 14:58:5*
-
 ---
 
 "@EmilDimanchev
@@ -13,8 +11,6 @@ New paper shows direct relationship between coal and asthma"
 
 [Link](https://mobile.twitter.com/EmilDimanchev/status/1263455944475914240)
 
-*2020-05-21 14:51:3*
-
 ---
 
 "@jonathanvswan
@@ -22,13 +18,9 @@ New paper shows direct relationship between coal and asthma"
 The Atlantic is on fire. Publishing endless amounts of interesting,
 distinctive work"
 
-*2020-05-21 14:39:4*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The model named Hyundai H350 Fuel Cell Concept can travel up to 422 km on one refuel. <br>That can become the first commercial medium size vehicle in the market with the 100-kW powertrain able to take the van to 150 km/h. Refueling⛽ takes only about 4 mins.<br>Source: <a href="https://twitter.com/Hyundai_Global?ref_src=twsrc%5Etfw">@Hyundai_Global</a> <a href="https://t.co/OfV6NuPZFi">pic.twitter.com/OfV6NuPZFi</a></p>&mdash; H2 Economy | Hydrogen Economy (@EconomyH2) <a href="https://twitter.com/EconomyH2/status/1263463835605831683?ref_src=twsrc%5Etfw">May 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-21 14:19:31*
 
 ---
 
@@ -37,7 +29,6 @@ distinctive work"
 BREAKING: 'Clothes becoming inexplicably tighter just another
 mysterious effect of lockdown', say scientists"
 
-*2020-05-21 14:4:01*
 
 ---
 
@@ -48,8 +39,6 @@ live there).
 
 "Is it possible due to freak accident you never got the culture codes
 of your country?"
-
-*2020-05-21 13:34:05*
 
 ---
 
@@ -64,15 +53,11 @@ you. Beware.
 
 "Can you get rid of your culture codes?"
 
-*2020-05-21 13:34:05*
-
 ---
 
 Good good..
 
 "Daily Crunch: Facebook unveils its Shops e-commerce platform"
-
-*2020-05-21 13:31:07*
 
 ---
 
@@ -80,15 +65,11 @@ Good good..
 
 "Why fix TR identity?"
 
-*2020-05-21 13:13:13*
-
 ---
 
 [Answer](../../2020/04/turks-culture-national-narrative.md)
 
 "How is culture different from national narrative?"
-
-*2020-05-21 13:09:42*
 
 ---
 
@@ -102,8 +83,6 @@ they would not mobilize to end the fight in the first place. If your
 press sucks, you dont fear backlash through it, you fight like a
 cobsucker that you are.
 
-*2020-05-21 13:01:2*
-
 ---
 
 Bass: "On May 22, China's leaders will convene for their annual
@@ -115,19 +94,13 @@ back—with lasting consequence"
 
 [Link](https://www.newsweek.com/all-eyes-should-hong-kong-opinion-1504966)
 
-*2020-05-21 08:26:04*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to President Tsai on her inauguration for her second term. Tsai delivered a devastating rebuke of the pro-China candidate in Taiwan’s democratic elections in January. She will not stand for one country, two systems. Taiwan 🇹🇼 has its independence! <a href="https://twitter.com/AmbCuiTiankai?ref_src=twsrc%5Etfw">@AmbCuiTiankai</a> <a href="https://t.co/y7PHhDJg0L">https://t.co/y7PHhDJg0L</a></p>&mdash; 🇹🇼Kyle Bass🇹🇼 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1263052602717212672?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-05-21 08:26:01*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A great infographic on the 6 ways hydrogen and fuel cells can help transition to clean energy. This comes from The Canadian Hydrogen and Fuel Cell Association (CHFCA) and outlines the case for hydrogen.<br><br>View the infographic here: <a href="https://t.co/Baam6rYlli">https://t.co/Baam6rYlli</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/1ANg7P4KJl">pic.twitter.com/1ANg7P4KJl</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1263318628033867777?ref_src=twsrc%5Etfw">May 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-21 07:08:02*
 
 ---
 
@@ -135,15 +108,11 @@ Des'ree - Life \#music
 
 [Link](https://youtu.be/7hdBCd0O7MM)
 
-*2020-05-21 07:06:04*
-
 ---
 
 "German pipeline operators present plan for world’s largest grid"
 
 [Link](https://www.rechargenews.com/transition/german-pipeline-operators-present-plan-for-world-s-largest-hydrogen-grid/2-1-810731)
-
-*2020-05-21 07:05:23*
 
 ---
 
@@ -154,16 +123,12 @@ with massive spending to pay for everyone’s salaries, a handful of US
 senators is proposing a... 4,000 dollar refundable tax-credit for jobs
 training for people who were laid off"
 
-*2020-05-21 07:05:18*
-
 ---
 
 Taiwan rejected by WHO? These fokkers really sold their soul to the
 Chink didnt they?
 
 "Taiwan Rejection From WHO Assembly Further Strains Relations With China"
-
-*2020-05-21 07:05:13*
 
 ---
 
@@ -173,16 +138,12 @@ An energy company with big ambitions to produce the clean fuel of the
 future announced a deal to make hydrogen by using plasma heating
 technology — originally developed for @NASA"
  
-*2020-5-20 19:28:44*
-
 ---
 
 [Answer](../../2020/04/turks-culture-national-narrative.md#wolf)
 
 "Why do TR nats, its mob, make a heavy metal sign, what does that
 mean?"
-
-*2020-05-20 19:58:25*
 
 ---
 
@@ -197,19 +158,13 @@ keep people on the insurance plans they just lost"
 
 [Link](https://sirota.substack.com/p/dems-aim-to-subsidize-the-opponents)
 
-*2020-5-20 19:17:3*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> transaction fees are becoming a meme, that&#39;s how bad it&#39;s getting.<a href="https://twitter.com/hashtag/JustUseNano?src=hash&amp;ref_src=twsrc%5Etfw">#JustUseNano</a> <a href="https://twitter.com/search?q=%24NANO&amp;src=ctag&amp;ref_src=twsrc%5Etfw">NANO</a> <a href="https://t.co/fDKhAgMgLA">https://t.co/fDKhAgMgLA</a></p>&mdash; Nano Seagull ⋰·⋰ (@nanoseagull) <a href="https://twitter.com/nanoseagull/status/1262696971854327809?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-20 17:41:8*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Austrian Consortium Develops HySnowGroomer: Multifunctional Hydrogen Snow Groomer Concept <a href="https://t.co/POPGo8jLD9">https://t.co/POPGo8jLD9</a></p>&mdash; Tixhon Jean Marc (@tixhonjm) <a href="https://twitter.com/tixhonjm/status/1263090240107032578?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-20 18:54:29*
 
 ---
 
@@ -223,19 +178,13 @@ different, so it is common to start with the source of the
 electricity—the battery or power supply on the left—and then work our
 way from left to right across the diagram"
 
-*2020-05-20 18:56:0*
-
 ---
 
 Motorcycles, cars.. So 2D
 
-*2020-05-20 18:53:20*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scotland setting themselves up to use green <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> for cooking and heating purposes <a href="https://t.co/NrNgKjMrBh">https://t.co/NrNgKjMrBh</a> <a href="https://t.co/q4MuX98djq">pic.twitter.com/q4MuX98djq</a></p>&mdash; Fuel Cell Pilot (@FuelCellPilot) <a href="https://twitter.com/FuelCellPilot/status/1262840834283712512?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-20 17:38:3*
 
 ---
 
@@ -245,8 +194,6 @@ Motorcycles, cars.. So 2D
 
 Little known fact: you can decide to leave San Francisco without
 writing a blog post about your decision"
-
-*2020-5-20 16:36:46*
 
 ---
 
@@ -259,26 +206,17 @@ national strategy"
 
 [Link](https://bit.ly/3cKOPFL)
 
-*2020-05-20 13:46:23*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">France: SeaBubbles, a <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a>-Powered River Taxi Receives First Orders--A shuttle bus powered by hydrogen <br> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> that rises just above water has passed its 1st trials in France &amp; received its first 5 orders--<a href="https://t.co/RtQQZLQWNM">https://t.co/RtQQZLQWNM</a> <a href="https://twitter.com/hashtag/hydrogennow?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogennow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://t.co/5OPmNbtdWd">pic.twitter.com/5OPmNbtdWd</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1262751882025431041?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-20 13:45:21*
 
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Please don’t make me and my rich friends pay slightly higher taxes” <a href="https://t.co/XcEESIz9IH">https://t.co/XcEESIz9IH</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1262638272133488640?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*2020-5-20 13:15:53*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">love to live in a state that&#39;s home to billionaires &amp; anti-tax lunatics who preach &quot;family values&quot; and then created constitutional provisions that effectively tell everyone&#39;s kids they&#39;ll have to face a lifetime of crushing debt if they ever hope to get a college education <a href="https://t.co/B0koljNKFi">https://t.co/B0koljNKFi</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1262875393918332929?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-*2020-5-20 13:13:21*
 
 ---
 
@@ -288,8 +226,6 @@ Stacey Abrams is a Corporate tool who leans very much Republican,
 dissed Georgia Students, and was kissing up to of all people, Michael
 Bloomberg for cash and those are some of the nicer things I know about
 her"
-
-*2020-5-20 12:40:8*
 
 ---
 
@@ -306,16 +242,12 @@ concious?  Well, a concious player can be in one, so yes.
 
 DL -- that guy knows some shit, tiz all I gotta say.
 
-*2020-05-19 14:53:24*
-
 ---
 
 You can [prove](../../2015/04/god-religion.md) a creator is more likely,
 which in a simulation/game angle would be the programmer. Not so far-fetched.
 
 "But you cannot prove God exists".
-
-*2020-05-19 14:47:59*
 
 ---
 
@@ -359,8 +291,6 @@ holding of the dollar outside the United States eventually forced the
 U.S. government to unlink the dollar and gold. That action led to the
 collapse of the Bretton Woods system"
 
-*2020-05-19 14:29:53*
-
 ---
 
 Religions hark back to our pre-agro life, in terms of the social
@@ -370,15 +300,11 @@ well). So religions at their core both stress equality, and many have
 fasting. This is an underhanded way of reminding ppl of our
 origin. 
 
-*2020-05-19 13:37:35*
-
 ---
 
 [Fast](../../2010/04/devany.md#fast)
 
 "I am fat"
-
-*2020-05-19 13:36:51*
 
 ---
 
@@ -386,13 +312,9 @@ Don't [jog](../../2010/04/devany.md#jog). Outside, great.
 
 "I miss jogging, being outside"
 
-*2020-05-19 13:26:39*
-
 ---
 
 Summah time
-
-*2020-05-19 12:52:52*
 
 ---
 
@@ -401,8 +323,6 @@ in Anatolia.  Some interesting relations btw them and Rome. Wouldn't
 it better to research these ppl instead of some pigmy motherf..kers
 from Central Asia whose cultural effect for today is minimal, next to
 none?
-
-*2020-05-19 07:16:8*
 
 ---
 
@@ -428,15 +348,11 @@ reluctant to lend, as they are already piled up with bad loans, a
 problem that is only slowly being overcome. Moreover indebted firms
 are unwilling to borrow as long as the deflation environment persists"
 
-*2020-05-19 06:58:00*
-
 ---
 
 I'm a big fan of these repeat names, Abdullah Abdullah. Boutros
 Boutros... Whats ur name? Abdullah. What's ur first name?
 Abdullah. It's fly.
-
-*2020-05-18 17:13:1*
 
 ---
 
@@ -446,14 +362,10 @@ Abdullah. It's fly.
 have agreed to share presidential powers. The decision ends months of
 uncertainty that had included dual inauguration ceremonies"
 
-*2020-05-18 17:03:11*
-
 ---
 
 Interesting, started a new thing with no net, but already have
 enough material offline *in da stash* so chugging along
-
-*2020-05-18 17:03:07*
 
 ---
 
@@ -467,8 +379,6 @@ sphere, not masses of people taking to social media to proclaim, “I
 believe.”
 
 [Link](https://www.theatlantic.com/ideas/archive/2020/05/dont-anguish-over-whom-to-believe/611662/)
-
-*2020-05-18 17:03:02*
 
 ---
 
@@ -487,8 +397,6 @@ unionization.Not until after 1935 did the New Deal’s welfare state of
 Social Security, unemployment insurance, and public housing emerge"
 
 [Link](https://www.theatlantic.com/ideas/archive/2020/05/how-rebuild-nation/611704/)
-
-*2020-05-18 08:15:16*
 
 ---
 
@@ -510,8 +418,6 @@ the price part of the equation"
 
 [Link](https://www.eff.org/deeplinks/2020/05/house-legislation-guarantees-internet-access-those-affected-covid-19)
 
-*2020-5-17 20:50:59*
-
 ---
 
 Gov formed in Israel, finally. Unity gov with Gantz. 
@@ -522,8 +428,6 @@ I like it how the translator is really acting it out while translating
 
 [Link](https://www.youtube.com/watch?v=J5uGS10gA64)
 
-*2020-5-17 20:9:19*
-
 ---
 
 "@ben_j_lindsay
@@ -533,13 +437,9 @@ combine 6 different customer's Excel files, each with different
 columns, different data encodings (i.e. cell colors), and different
 kinds of missing data, it will be smart enough to pretend it can't"
 
-*2020-5-17 17:46:34*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Parahawking is an activity that combines paragliding with falconry. Birds of prey are trained to fly with paragliders, guiding them to thermal columns <a href="https://t.co/O1WmthDvGM">https://t.co/O1WmthDvGM</a> [gif: <a href="https://t.co/ceQyzhMssy">https://t.co/ceQyzhMssy</a>] <a href="https://t.co/Z5fEcIbCdY">pic.twitter.com/Z5fEcIbCdY</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1262020353095872513?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-17 17:7:12*
 
 ---
 
@@ -551,16 +451,12 @@ Zoom sucks, we started having editorial meetings in Red Dead
 Redemption instead. It's nice to sit at the campfire and discuss
 projects, with the wolves howling out in the night"
 
-*2020-5-17 16:37:13*
-
 ---
 
 Yeah SV was madly behind this thing (OO). If u need any proof how much
 useless shit SV is engaged in, look no further.
 
 [Link](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
-
-*2020-5-17 15:12:20*
 
 ---
 
@@ -571,8 +467,6 @@ Prime Minister Jacinda Ardern and her partner were turned away from a
 cafe on Saturday because it was too full under the physical distancing
 guidelines"
 
-*2020-5-17 14:11:4*
-
 ---
 
 "@joshua_landis
@@ -580,15 +474,11 @@ guidelines"
 Russia has sent six MiG-29 fighter jets to Syria to support the
 military, according to Iranian sources"
 
-*2020-5-17 13:59:1*
-
 ---
 
 "@lpachter
 
 Auto-LaTeX in Google Docs is neither Auto nor LaTeX"
-
-*2020-5-17 13:56:1*
 
 ---
 
@@ -597,13 +487,9 @@ Triassic Period"
 
 [Link](https://laughingsquid.com/why-it-rained-for-two-million-years/)
 
-*2020-5-17 10:37:0*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientists are turning to <a href="https://twitter.com/hashtag/GPU?src=hash&amp;ref_src=twsrc%5Etfw">#GPU</a>-accelerated molecular dynamics apps like AMBER, GROMACS, NAMD, and LAMMPS to accelerate their research in finding a treatment for <a href="https://twitter.com/hashtag/COVID?src=hash&amp;ref_src=twsrc%5Etfw">#COVID</a>-19. <a href="https://t.co/IEVoQI1KXv">https://t.co/IEVoQI1KXv</a></p>&mdash; Brian Dowdy (@dowdyb) <a href="https://twitter.com/dowdyb/status/1255164901091246080?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-17 9:54:10*
 
 ---
 
@@ -613,23 +499,17 @@ LAMMPS and GROMACS are two molecular dynamics packages that are
 popular in the community that I am familiar with. both of them have a
 Python interface"
 
-*2020-5-17 9:56:4*
-
 ---
 
 CFD could be overkill.. All I need is some molecules jigglin..
 
 LAMMPS?
 
-*2020-5-17 9:53:57*
-
 ---
 
 Forbes: "Strange Bedfellows? Maybe Not…"
 
 [Link](https://www.forbes.com/sites/thebakersinstitute/2020/05/15/steel-hydrogen-and-renewables-strange-bedfellows-maybe-not/)
-
-*2020-5-17 9:49:57*
 
 ---
 
@@ -638,14 +518,10 @@ Forbes: "Strange Bedfellows? Maybe Not…"
 
 [Link](https://mobile.twitter.com/MartinAudley/status/1261803670657740803)
 
-*2020-5-17 8:33:1*
-
 ---
 
 Bitcoin as SOV? It costs so much money to send the shit you are afraid
 to spend it, so you store it => SOV -- minus the value part.
-
-*2020-5-17 8:1:12*
 
 ---
 
@@ -673,21 +549,15 @@ isolate or quarantine themselves, but there will be no enforcement"
 
 [Link](https://www.google.com/amp/s/thehill.com/homenews/coronavirus-report/497544-inslee-unveils-contact-tracing-plan-for-washington%3famp)
 
-*2020-5-16 22:21:38*
-
 ---
 
 Aah of course that's why Mike Brown calls the planet he is looking for
 Planet 9. Because he killed Pluto as a planet (the earlier planet 9)
 so this will be the new one. 
 
-*2020-5-16 16:46:10*
-
 ---
 
 FUCK JOBS. FUCK JOBS. FUCK JOBS.
-
-*2020-5-16 15:55:1*
 
 ---
 
@@ -695,25 +565,17 @@ Yees automation bitch
 
 <img width="140" src="https://cdn10.loonastatic.com//img/user/gif/1/1/5/3/1153962647829626.gif"/>
 
-*2020-5-16 15:53:0*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Youtuber Stuff Made Here built this hoop from with robots and computer vision capable of tracking the ball and directing it into the hoop by tilting the backboard [full video: <a href="https://t.co/Fsklz0fEJz">https://t.co/Fsklz0fEJz</a>] <a href="https://t.co/uuldF62osb">pic.twitter.com/uuldF62osb</a></p>&mdash; Massimo (@Rainmaker1973) <a href="https://twitter.com/Rainmaker1973/status/1261634148520861698?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-16 15:51:50*
 
 ---
 
 Bloomberg: "Firms That Left U.S. to Cut Taxes Could Qualify for Fed Aid"
 
-*2020-5-16 15:11:22*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Toyota?src=hash&amp;ref_src=twsrc%5Etfw">#Toyota</a> and <a href="https://twitter.com/hashtag/Hino?src=hash&amp;ref_src=twsrc%5Etfw">#Hino</a> develop a 12-meter long, 25-tonne truck powered by <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>. Your powertrain is equipped with two newly developed Toyota FC batteries for the new <a href="https://twitter.com/hashtag/MIRAI?src=hash&amp;ref_src=twsrc%5Etfw">#MIRAI</a>. Its autonomy is 600 km. <a href="https://twitter.com/hashtag/FCV?src=hash&amp;ref_src=twsrc%5Etfw">#FCV</a> <a href="https://twitter.com/hashtag/Fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#Fuelcell</a> <a href="https://t.co/UKy7jpjpg7">pic.twitter.com/UKy7jpjpg7</a></p>&mdash; Hydrogfan (@hydrogfan) <a href="https://twitter.com/hydrogfan/status/1242006974394437633?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-05-16 14:26:24*
 
 ---
 
@@ -724,16 +586,12 @@ more social distancing instead.”
 
 [Link](https://twitter.com/hkumed/status/1261609402303315968)
 
-*2020-05-16 14:21:28*
-
 ---
 
 World R = 0.25. Daily change rate of confirmed cases 2.26%. Brasil and
 RU look bad, after US.
 
 [Link](https://muratk3n.github.io/thirdwave/en/2020/02/corona.html)
-
-*2020-05-16 14:09:49*
 
 ---
 
@@ -743,13 +601,9 @@ black hole that just sucks in money with no "return", "only businesses
 innovate". If he created a list of how much inno came from space prog,
 his eyes would pop out of their sockets.
 
-*2020-05-16 12:37:09*
-
 ---
 
 Cop QM assumes an existing background, a non-changing geometry.
-
-*2020-5-16 11:2:37*
 
 ---
 
@@ -785,8 +639,6 @@ of background independence requires that the choice is made not by the
 theorist, but by the theory, dynamically, as a part of solving the
 laws of physics" -- Smolin
 
-*2020-5-16 10:59:31*
-
 ---
 
 "'Now is a really crucial and pivotal time for the [UK] gas industry,'
@@ -809,13 +661,9 @@ attention it gets,' says Dr Needle"
 
 [Link](https://www.politicshome.com/members/article/the-hydrogen-economy-can-help-ensure-a-green-and-resilient-economic-recovery)
 
-*2020-5-16 10:30:26*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s a new dawn for space exploration! Today I’m honored to announce the <a href="https://twitter.com/hashtag/Artemis?src=hash&amp;ref_src=twsrc%5Etfw">#Artemis</a> Accords agreements — establishing a shared vision and set of principles for all international partners that join in humanity’s return to the Moon. We go, together: <a href="https://t.co/MnnskOqSbU">https://t.co/MnnskOqSbU</a> <a href="https://t.co/aA3jJbzXv2">pic.twitter.com/aA3jJbzXv2</a></p>&mdash; Jim Bridenstine (@JimBridenstine) <a href="https://twitter.com/JimBridenstine/status/1261295339409113090?ref_src=twsrc%5Etfw">May 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-16 7:26:45*
 
 ---
 
@@ -824,13 +672,9 @@ Coronavirus Wasn’t That Deadly"
 
 [Link](https://www.buzzfeednews.com/article/stephaniemlee/stanford-coronavirus-neeleman-ioannidis-whistleblower)
 
-*2020-5-16 7:12:40*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How the system works. <a href="https://twitter.com/hashtag/cdnpoli?src=hash&amp;ref_src=twsrc%5Etfw">#cdnpoli</a> <a href="https://t.co/5Zkd9r1owi">pic.twitter.com/5Zkd9r1owi</a></p>&mdash; Derrick O&#39;Keefe (@derrickokeefe) <a href="https://twitter.com/derrickokeefe/status/1261462886154555392?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-16 6:53:58*
 
 ---
 
@@ -840,8 +684,6 @@ PUTIN PUPPETS
 'Quagmire' for Russia"
 
 [Link](https://www.newsweek.com/us-syria-representative-james-jeffrey-job-make-war-quagmire-russia-1503702)
-
-*2020-5-15 22:47:26*
 
 ---
 
@@ -859,13 +701,9 @@ kicking it again.
 
 <img width="340" src="http://img.youtube.com/vi/zhvur69dHYc/0.jpg"/>
 
-*2020-05-15 22:18:25*
-
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big news! <a href="https://t.co/kD6Ife3IYO">https://t.co/kD6Ife3IYO</a></p>&mdash; Everything About Hydrogen (@AboutHydrogen) <a href="https://twitter.com/AboutHydrogen/status/1258301807157301248?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*2020-5-15 21:54:46*
 
 ---
 
