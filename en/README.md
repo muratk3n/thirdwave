@@ -54,8 +54,8 @@ covid well.
 
 ---
 
-TR parties, coalitions still largely work this way actually,
-proto-fascistic cesspools into anything can be thrown in and it
+TR parties, coalitions still largely work this way actually, they are
+mostly proto-fascistic cesspools into anything can be thrown in and it
 floats, like certain shit does on a pool of pee.
 
 ---
