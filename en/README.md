@@ -61,12 +61,12 @@ floats, like certain shit does on a pool of piss.
 ---
 
 Sure. 30s TR for example, when it was staunchly nationalist, one of
-its first governors was known to have said "if communism was necessary
-for this country, we would surely import it". Sounds like a joke and
-it is told as such, but the guy was dead serious. There you go,
-nationalist talking about utilizing communism.. Or in China today,
-they are communists, but imported capitalism, and happily using
-it. Italian fascists created the social security system of the country.
+its governors was known to have said "if communism was necessary for
+this country, we would surely import it". Sounds like a joke and it is
+told as such, but the guy was dead serious. There you go, nationalist
+talking about utilizing communism.. Or in China today, they are
+communists, but imported capitalism, and happily using it. Italian
+fascists created the social security system of the country.
 
 Intensely opposing ideologies cannot be held together under one roof
 in anything other than fascism.. A whatever-it-takes attitude usually
