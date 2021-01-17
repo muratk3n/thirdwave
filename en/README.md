@@ -54,6 +54,12 @@ covid well.
 
 ---
 
+Of course they are
+
+Jacobin: "Israel Is Refusing to Give Palestinians COVID Vaccines"
+
+---
+
 TR parties, coalitions still largely work this way.. they are mostly
 cesspools of proto fascism into which anything can be thrown in and it
 floats, like certain shit does on a pool of piss.
