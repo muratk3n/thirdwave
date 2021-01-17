@@ -4,7 +4,7 @@ Pic is from my new wind plotter tool.
 
 ---
 
-Man that area is windy as fuck
+Man that area is always windy as fuck
 
 East of Sri Lanka, Bay of Bengal.
 
