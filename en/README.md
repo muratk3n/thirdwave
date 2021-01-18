@@ -80,7 +80,7 @@ Our weekend news continues as Japan & Adnoc Co-Operate in Developing
 role in enabling \#hydrogen economy & can serve as a hydrogen carrier
 & \#zeroemission fuel"
 
-http://bit.ly/3qsRHgH
+[Link](http://bit.ly/3qsRHgH)
 
 "@hazergroupltd
 
