@@ -21,6 +21,14 @@ comfy apartment in Berlin or New York"
 
 ---
 
+"@vmsalama
+
+Pompeo condemns Russia's detention of Aleksey Navalny in a statement:
+'Confident political leaders do not fear competing voices, nor commit
+violence against or wrongfully detain political opponents,'"
+
+---
+
 Hey my Nano tripled in value dam 
 
 ---
@@ -60,6 +68,19 @@ Its a feel good, upbeat ok song.
 The New Radicals will reunite for the first time in 22 years to
 perform 'You Get What You Give' during Biden inauguration virtual
 parade"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our weekend news continues as Japan &amp; Adnoc Co-Operate in Developing <a href="https://twitter.com/hashtag/Ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#Ammonia</a> Fuel &amp; Carbon Recycling Techn-Ammonia will play an important role in enabling <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> economy &amp; can serve as a hydrogen carrier &amp; <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> fuel-<a href="https://t.co/ZDy8Aw8Dad">https://t.co/ZDy8Aw8Dad</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1350812893852348416?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@hazergroupltd
+
+Figures from the International Energy Agency reveal that global
+low-carbon hydrogen production has increased from 0.04 million tonnes
+in 2010 to 0.36 million tonnes in 2019, and is expected to reach 1.45
+million tonnes in 2023"
 
 ---
 
