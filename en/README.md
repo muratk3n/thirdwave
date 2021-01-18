@@ -39,7 +39,7 @@ I'll always remember that name through the Dennis Miller joke
 
 ---
 
-"The quintessential Gen-X band"..? Hmm..[thinking] 
+"The quintessential Gen-X band"..? Hmm..
 
 ---
 
