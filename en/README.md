@@ -1,5 +1,11 @@
 # Tweets
 
+
+Consp theory, financiers will pop the bubble, triggering a crisis to
+hold the next admin's agenda hostage.
+
+---
+
 It's true, there is a bubble. [The Wilshire index](2019/05/stats.md#wilshire)
 (total market cap / GDP) is very high.
 
