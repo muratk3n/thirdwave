@@ -1,89 +1,65 @@
 # Tweets
 
-Pic is from my new wind plotter tool.
+It's true, there is a bubble. [The Wilshire index](2019/05/stats.md#wilshire)
+(total market cap / GDP) is very high.
+
+Just looking at the shape of graph shows exp growth.
+
+"The wealthy are investing like a market bubble is here, or at least near"
 
 ---
 
-That area is always windy as fuck
-
-East of Sri Lanka, Bay of Bengal.
-
-<img width="340" src="https://pbs.twimg.com/media/Er6-xEzW8AE3h-T?format=png&name=small"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mr. Navalny should be immediately released, and the perpetrators of the outrageous attack on his life must be held accountable. The Kremlin’s attacks on Mr. Navalny are not just a violation of human rights, but an affront to the Russian people who want their voices heard.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1350893957375471628?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Geometry should take backseat to other concerns.. It is a derivative
-concept, not essential. In Wolfram's approach too, space, its
-dimensions [emerge](https://youtu.be/-t1_ffaFXao?t=6555) out of his
-hypergraph structure.
+"@yashar
+
+People keep asking why Navalny went back to Russia...some have called
+it foolish. How do you think change happens? It doesn't happen from a
+comfy apartment in Berlin or New York"
 
 ---
 
-ALex Unzic says Einstein made a mistake geometrizing relativity.
+Hey my Nano tripled in value dam 
 
 ---
 
-There was FF 1 then FF 2? But.. how does that connect to, like Blah
-Movie 3? And that to Blah Blah 4?
+"@Zachary
+
+Biden will nominate FTC commissioner and @SenWarren ally Rohit Chopra
+to lead the CFPB, sources familiar say"
 
 ---
 
-After seeing decade long multi movie setups, old style mere "sequel"
-sound so inconsequential.. tiny.
+I'll always remember that name through the Dennis Miller joke
+"[Something] looks shakier than a rescue dog in Phil Spector's house".
+
+"Phil Spector: Pop producer jailed for murder dies at 81"
 
 ---
 
-Wikipedia's 20th birthday. HBD
+"The quintessential Gen-X band"..? Hmm..[thinking] 
 
 ---
 
-CSU guy, Söder. He was recently against "any expansion of the eurozone
-to include countries like Bulgaria and Romania; the introduction of
-Eurobonds; and the creation of a European finance minister
-post". Daam.
-
-The newly elected person is exact oppo no?
+Parts of it goes full Bee Gees 
 
 ---
 
-New CDU leader.  But it doesnt mean this person will be the chancellor
-candidate for the general elections?
+New Radicals - You Get What You Give \#music
 
-Dude from CSU comes across more of a leader... And word is he handled
-covid well.
+[Link](https://youtu.be/cPAEFnVZVOs?t=33)
 
 ---
 
-TR parties, coalitions still largely work this way.. they are
-cesspools of proto fascism into which anything can be thrown in and it
-floats, like certain shit does in a pool of piss.
+Its a feel good, upbeat ok song.
 
----
+"@RollingStone
 
-Sure. 30s TR for example, during the single-party rule and staunch
-nationalism one of its governors was known to have said "if communism
-was necessary for this country, we would surely import it". Sounds
-like a joke and it is told as such, but the guy was dead
-serious. There you go, nationalist talking about utilizing
-communism.. Or in China today, they are communists, but imported
-capitalism, and happily using it. Italian fascists created the social
-security system of the country.
-
-Intensely opposing ideologies cannot be held together under one roof
-in anything other than fascism.. A whatever-it-takes attitude usually
-accompanies the approach, 4 whatever reason said country falls into a
-state-of-emergency mentality from which they never emerge, so they
-keep on living in an hand-to-mouth existence, "I'll take from here,
-I'll take from there, whatever-it-takes, ends-justify-the-means", and
-on it goes..
-
-"Could you give more examples of fascism being a grab-bag of ideologies"
-
----
-
-Of course they are
-
-Jacobin: "Israel Is Refusing to Give Palestinians COVID Vaccines"
+The New Radicals will reunite for the first time in 22 years to
+perform 'You Get What You Give' during Biden inauguration virtual
+parade"
 
 ---
 
