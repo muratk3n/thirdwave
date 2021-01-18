@@ -93,6 +93,16 @@ million tonnes in 2023"
 
 ---
 
+"@Snowden
+
+@Navalny's arrest seems to me a repetition of mistakes made in the
+Soviet era, seen elsewhere now in the case against #Assange and the
+war on whistleblowers. States are developing an allergy to
+opposition—but systems that cannot accept dissent will not survive
+it. Let him go"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
