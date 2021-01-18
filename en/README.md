@@ -21,14 +21,6 @@ comfy apartment in Berlin or New York"
 
 ---
 
-"@vmsalama
-
-Pompeo condemns Russia's detention of Aleksey Navalny in a statement:
-'Confident political leaders do not fear competing voices, nor commit
-violence against or wrongfully detain political opponents,'"
-
----
-
 Hey my Nano tripled in value dam 
 
 ---
