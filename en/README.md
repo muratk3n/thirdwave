@@ -33,7 +33,7 @@ to lead the CFPB, sources familiar say"
 ---
 
 I'll always remember that name through the Dennis Miller joke
-"[Something] looks shakier than a rescue dog in Phil Spector's house".
+"... looks shakier than a rescue dog in Phil Spector's house".
 
 "Phil Spector: Pop producer jailed for murder dies at 81"
 
