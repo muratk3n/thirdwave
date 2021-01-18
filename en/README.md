@@ -71,6 +71,16 @@ parade"
 
 ---
 
+The trials and tribulations of Hawley is the perfect example why
+fascism-lite, the so-called "populism", is unsustainable as an
+ideology. Dude supported the Trump tax, then sided with Bernie on the
+$2000 check, is for anti-trust and but then went batshit on election
+fraud charges... Guy is a mess. This cant be the basis of Rep party,
+or any party.. These people can only exist as a reaction to something
+else.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our weekend news continues as Japan &amp; Adnoc Co-Operate in Developing <a href="https://twitter.com/hashtag/Ammonia?src=hash&amp;ref_src=twsrc%5Etfw">#Ammonia</a> Fuel &amp; Carbon Recycling Techn-Ammonia will play an important role in enabling <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> economy &amp; can serve as a hydrogen carrier &amp; <a href="https://twitter.com/hashtag/zeroemission?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemission</a> fuel-<a href="https://t.co/ZDy8Aw8Dad">https://t.co/ZDy8Aw8Dad</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1350812893852348416?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
