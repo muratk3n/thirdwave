@@ -67,8 +67,8 @@ The trials and tribulations of Hawley is the perfect example why
 fascism-lite, the so-called "populism", is unsustainable as an
 ideology. Dude supported the Trump tax, then sided with Bernie on the
 $2000 check, is for anti-trust and but then went batshit on election
-fraud charges... Guy is a mess. This cant be the basis of Rep party,
-or any party.. These people can only exist as a reaction to something
+fraud charges... He is a mess. This cant be the basis of Rep party, or
+any party.. These people can only exist as a reaction to something
 else.
 
 ---
