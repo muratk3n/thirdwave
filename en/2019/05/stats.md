@@ -552,20 +552,20 @@ df = data.DataReader(cols, 'fred', start, end)
 print (df.tail(6))
 df.plot()
 plt.plot(df.tail(1).index, df.tail(1),'ro')
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
+plt.axvspan('2001-03-03', '2001-10-27', color='y', alpha=0.5, lw=0)
+plt.axvspan('2007-12-22', '2009-05-09', color='y', alpha=0.5, lw=0)
 plt.savefig('junkbond.png')
 ```
 
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2020-08-27           5.53
-2020-08-28           5.53
-2020-08-31           5.54
-2020-09-01           5.46
-2020-09-02           5.39
-2020-09-03           5.51
+2021-01-07           4.62
+2021-01-08           4.63
+2021-01-11           4.71
+2021-01-12           4.77
+2021-01-13           4.68
+2021-01-14           4.58
 ```
 
 ![](junkbond.png)
