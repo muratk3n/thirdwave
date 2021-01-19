@@ -34,8 +34,8 @@ which would offer the only possibility to try it"
 ---
 
 "[Wilczek] has by now lost multiple bets that the LHC would see SUSY
-particles, including ones with Garrett Lisi in 2009 and Tord Ekelöf in
-2012. At this point, even diehards like Wilczek acknowledge that
+particles, including ones with Garrett Lisi in 2009 and Tord Ekelöf in 2012.
+At this point, even diehards like Wilczek acknowledge that
 chances that the LHC will see SUSY are slim. Another problem is that
 increasingly sensitive proton decay experiments have also ruled out a
 large part of the proton lifetimes predicted by the SUSY models
