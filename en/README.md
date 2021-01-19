@@ -18,7 +18,6 @@ The CERN presentation has a great title: "Desperately Seeking SUSY" 🤣 🤣 �
 
 Unzicker: "The reason why the standard model cannot calculate mass is
 stunningly simple. Whatever formula may calculate the mass of a
-
 particle, it has to have the physical unit of a mass, which is
 kilograms, and those kilograms have to come out of the formula, you
 can't pull it out of your ass. The only way to do it is to find
