@@ -78,7 +78,6 @@ yuzde 1'ini tasiyabilmektedir.
 Fakat Rhapsody, iTunes gibi muzigi dijital olarak dagitan sirketler, bu fiziksel sinirlamalarin hicbirine tabi degildir. Dahasi da var: Eger Wal-Mart bir mucize eseri tum diskleri tasiyabiliyor olsa bile, bu sefer asamayacagi baska fiziksel sinirlamalar onu engeller. Bir diskin kategorizasyonunu dusunelim. Bir disk rock mi, pop mu, alternatif mi olmali? Fiziksel dunyada ve depolama acisindan bir diski iki yere birden koymaniz cok zordur. Fakat dijital dunyada, iTunes icin bir diskin kategorizasyona bir veri tabani tablosunda atilan bir sanal isaretten ibarettir. Bu isaret istenildigi kadar istenildigi sekilde atilabilir. Dijital kategorizasyonda hicbir sinir yoktur.
 Modernitenin yikilisi farkli kollardan ilerliyor. Ustteki ornek bu cokusun ekonomik baglamdaki disavurumu. Fiziksel dukkan belli sayidaki esere "konsantre" olmalidir; dijital dukkanin boyle bir siniri yoktur. Miktar "maksimizasyonu" gereksizdir. Sonuc olarak Blockbuster gibi bir sirket paldir kuldur asagi iner.
 
-
 Eski bir solcu
 
 Isci sinifi yeni teknolojiye karsi tutucu olur
