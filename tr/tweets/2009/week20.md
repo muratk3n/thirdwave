@@ -1,4 +1,3 @@
-# YDB - 17/5
 
 Anonim
 
@@ -31,7 +30,6 @@ Ve daha once belirttigimiz gibi, bir toplumda herkesi ilgilendiren kararlarin op
 "Gercekten ne oldugu" tabii ki bilinecek ve acik sekilde tartisilacak. "Konu tarihcileri birakilmali" soylemi uygundur. Diplomatik acidan ilgili ulkelerin kamuoylarina yonelik uygun bir mesajdir, ayrica AB'nin Kafkasya uzerinde etkin olma ihtiyacini yurutebilecek Turkiye'nin Ermenistan ile iliskilerini sicaklastirmasi gerekliligi zaten ortaya bir yakinlasma cikarmistir, ve bu durum Obama'ya kendi "secmenine satabilecegi" bir "konusma noktasi (talking point)" vererek o tarafa bir kemik atmasini da saglar (Obama tabii ki bu konuda mecbur olmadikca Turkiye ile papaz olmak istemeyecektir).
 
 Fazla mi realpolitik oldu? Dunya boyle. Alisin.
-# YDB - 15/5
 
 Ludwig von Mises
 
@@ -60,7 +58,6 @@ Bir de; malum kisilerin beyninde ulusalcilik ile sosyalizm arasinda bir "karsitl
 Beyfendiler: Sizin kazandiginiz falan yok. Siz zaten coktan yenilgiye ugradiniz ve tasfiye oldunuz.
 
 Bosuna gelin guvey olmayin.
-# YDB - 30/5
 
 Jim Clancy
 
@@ -73,7 +70,6 @@ Iste notralite
 Ama iste adama fitili vermisler; "illa 50/50 elestireceksin". O da bakiyor, ah, protestocular bir takim "taskin" hareketler yapiyorlar, Ve Tayland cekismesi ile ilgili vaktin "yarisi" da "o tarafi" elestirmek icin kullanilmalidir o zaman sonuc: Thaksin Shinawatra'ya firca atmaliyim. Kafa boyle calisiyor. Bu basbakanin darbe ile devrilmis bir lider olmasi hic onemli degil. Ustelik Thaksin surgunde, eldeki bilgilere bakilarak yapilan ithamlarin birinci derece muhatapi olabilecegi bile supheli. Ta dunyanin oteki tarafindan ulkesindeki protestoyu mu idare ediyor? Ama neyse, biraz dram yaratildi, medya "kontrol edici" gibi gozuktu, firca atildi, mutlu olundu.
 
 Burada bozuk bir seyler var.
-# YDB - 3/5
 
 Hugh Pope
 
@@ -88,7 +84,6 @@ Tabii sistemin kopekleri derhal havlamaya basladi. Bunlarin arasinda acilen "dev
 ---
 
 [1] Sons of the Conquerors, Pope, 2005, sf. 72
-# YDB - 13/5
 
 Ludwig von Mises
 
@@ -103,7 +98,6 @@ Bu tur teknikleri kullananlarin gecmisini biraz kazin, alttan Mises'in anlattigi
 --
 
 [1] Sosyalizm, Ludwig von Mises, 1951 (Turkce ceviri, Liberte Yayinlari, 2007)
-# YDB - 31/5
 
 Eser Karakas
 
@@ -130,7 +124,6 @@ Iste adam bir misyon edinmis, problemi sahiplenip tutup parcalamis. Bravo. Bu ay
 --
 
 [1] Bu rakam daha da buyutulebilir cunku egitim kavrami, artik, insan hayatinin belli bir doneminde yapilip bitirilen bir sey olmaktan ziyade, hayat boyu surebilecek bir olus olarak gorulmektedir.
-# YDB - 2/5
 
 Anonim
 

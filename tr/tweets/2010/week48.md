@@ -1,4 +1,3 @@
-# YDB - 18/12
 
 Newsweek Turkiye
 
@@ -23,7 +22,6 @@ Yani Osmanli denen kopek surusu, Ortadogu'nun geri kalmisliginin bas sebebidir.
 --
 
 [1] Bilgi toplumunun ilerlemesi moderniteyi parcaladikca, artik herkesin inovasyon yapmasi, ve bir anlamda mucit olmasi gerekiyor. Eski dinamik bu baglamda tepetaklak oluyor.
-# YDB - 20/12
 
 Gallup
 

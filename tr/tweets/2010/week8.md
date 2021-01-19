@@ -1,4 +1,3 @@
-# YDB - 18/2
 
 Aykırı
 
@@ -23,7 +22,6 @@ ABD'li yazar ve düşünür John Brockman'ın hazırladığı kitapta [..]
 Bu zat'tan bahsettik
 
 John Brockman Edge organizasyonunun kurucusudur - Edge'in manifestosunun bir kismini burada tercume etmistik.
-# YDB - 3/2
 
 Hadi Uluengin
 

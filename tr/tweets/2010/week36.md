@@ -1,4 +1,3 @@
-# YDB - 23/9
 
 Anonim
 
@@ -31,7 +30,6 @@ Ilgili yazilar: Iste Osmanli, Roma
 --
 
 [1] Kaldi ki seyhulislam isin icinde olsa bile o da merkezi sistemin parcasi, dini "yonlendirmekle" gorevli, bununla halkin inancinin ne alakasi var. Alakasiz bir baglanti.
-# YDB - 30/9
 
 Anonim
 
@@ -61,7 +59,6 @@ Türkiye artık emek yoğun çalışan bir ülke değildir. Türkiye artık emek
 
 Dogru
 
-# YDB - 7/9
 
 Anonim
 
@@ -91,7 +88,6 @@ Ilgili yazi: Yeni Yeni Ekonomi, Bruce Bueno de Mesquita, Kim Daha Fazla Istihdam
 
 [1] Buyuk sirketler ortalama olarak istihdam artisina da pozitif etki saglamiyorlar. O zaman yeni ekonomiye uygun siyaset daha fazla serbest piyasayi desteklemek ve dinazorlarin kendiliginden yokolmasini seyretmektir.
 
-# YDB - 29/9
 
 Haber
 

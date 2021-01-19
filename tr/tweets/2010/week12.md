@@ -1,4 +1,3 @@
-# YDB - 19/3
 
 Newsweek
 
@@ -35,7 +34,6 @@ Duchamp'in lazimligi sanat midir?
 Oyledir
 
 O sekilde sergiye konan birinci lazimlik sanattir. Ikincisi degildir.
-# YDB - 21/3
 
 Haber
 

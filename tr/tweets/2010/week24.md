@@ -1,4 +1,3 @@
-# YDB - 28/6
 
 Ilhan Selcuk
 
@@ -9,7 +8,6 @@ Su buharliyi asamadin
 .. Ve asamadan hakkin rahmetine kavustun.
 
 Selcuk'un problemi sagci, solcu, Kemalist solcu, vs. turunde bildik kategoriler altinda olmasi degildi. Problemi tipik bir modernist olmasiydi. Referans noktasi buharli, yani aptal makineler ve onlarin etrafinda duzenlenmis bir topluluktur. Kendisi yas itibariyle "transistorluyu" ne anlayacak, ne toplum uzerindeki etkisini kavrayacak durumdaydi; bu yonden aslinda pek cok diger modernist dusunuru temsil eden bir prototiptir.
-# YDB - 21/6
 
 Mehmet Altan
 
@@ -42,7 +40,6 @@ Bu arada, Batı'da teröristle mücadeleyi orduyla yürütmeye çalışan tek ü
 "Batılı ülkeler, teröristle mücadeleyi asla orduyla yapmıyorlar. Polisin içinde bir birim kuruyorlar. Kuzey İrlanda'da biraz orduyu işin içine soktular, sonuç felaket oldu. Sonra yeniden profesyonel güçlere döndüler."
 
 Katılıyorum
-# YDB - 30/6
 
 Deniz Ulke Aribogan
 
@@ -101,7 +98,6 @@ Dogru
 [1] Italya cogulculugu yasadi, Roma tecrubesi oldukca uzakta.. ama var. Korelasyon soyle kurulabilir: Roma ne kadar uzaksa, gelisim o kadar fazla. Italya "gerilerin ilerisi".
 
 [2] Khanna ayrica, Turkiye burokrasisini tarif ederken ilginc bir kelime oyunu yapiyor. Once arka plan: Ingilizce literaturde karmasik, yoz bir burokrasiyi sifatlamak icin iki tanimdan biri kullanilir. Ya Kafkavari (Kafkaesque) derler, ya da Bizansvari (Byzantian). Niye Kafkavari? Cunku unlu yazar Kafka burokratik cehennemi tarif etmis, bitirmistir. Her neyse, Khanna, Turkiye burokrasisini tarif ederken "Bizansvari" demis, sonra parantez acip yanina yazmis: Kelimenin tam anlamiyla (literally). Bu bizi bayagi guldurdu.
-# YDB - 16/6
 
 Thomas Friedman
 
@@ -118,7 +114,6 @@ Entellektuel durusu "saibelidir".
 ---
 
 [1] Burada Friedman igrenc bir argo, "suck on this" kelimelerini kullaniyor. Yukarida tercumede ona yakin olabilecek kelimeleri kullanmaya calistik.
-# YDB - 20/6
 
 Derya Sazak
 

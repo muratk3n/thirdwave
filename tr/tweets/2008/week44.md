@@ -556,8 +556,6 @@ Kasım 09, 2008
 
 
 
-# YDB - 15/11
-
 Milliyet
 
 Gizli Servis, ABD’nin yeni başkanı Barack Obama'dan kendisine bir kod isim seçmesini istedi... Obama'nın seçtiği kod isim ise Renegade oldu. Yani "dininden dönen kişi..." Obama seçtiği bu isimle Müslüman olduğu iddialarına kapalı da olsa bir yanıt vermiş oldu.

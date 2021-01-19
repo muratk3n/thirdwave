@@ -1,4 +1,3 @@
-# YDB - 26/10
 
 Anonim
 
@@ -19,7 +18,6 @@ Siz "kaybetmis" bir ordusunuz. Kaybetmis bir ordu gibi kuyrugunuzu bacaklariniz 
 Milisler.. hmm.. bu kavram bir yerden tanidik geliyor ama..
 
 Durdugumuz yeri iyi bilelim.
-# YDB - 29/10
 
 Samuel Huntington
 
@@ -32,7 +30,6 @@ Sozun asli "Magna Mac" kelimesi iceriyor aslinda cunku magna latincede "buyuk (b
 Huntington gozlemi su acidan ilginctir - Avrupa icin one surdugumuz kulturel fay hatti olan "Roma / Ortacag" teziyle uyumlu. 1215'te ortaya cikan Magna Carta bilindigi gibi bireysel haklardan bahseden, bazilarini korumaya calisan ve kralin yetkilerini sinirlama amacli ortaya cikan en etkili ilk dokumandi, daha sonra ortaya cikacak diger anayasal demokrasilere bir ilham kaynagi olmustur. Taraflara dikkat: Yetkileri sinirlanan "tekil kral", bir otarsi, merkezi kuvvet, karsisindakiler ise daginik bir yapida olan "baronlar". Yani Magna Carta mutlakiyet ve cogulculuk arasinda bir kapismanin urunudur. Cikis cagi da ilginctir: 1215: Ortacag!
 
 Konunun yaptigi bazi cagrisimlar: Guya kralini yikmis olan Fransizlar bir Cumhurbaskani sectiginde o Cumhurbaskani bir tur krala donusur, kral gibi yetkileri vardir. Elysee Sarayina yerlesir. Ote yandan Ingiltere'de gercekten kral / kralice olanlarin yetkileri semboliktir ve bu kral / kraliceler insanlarina aslinda bir cogulculuk sembolu olan sovalyelik payesini verirler!
-# YDB - 22/10 II
 
 Jose Manuel Barroso
 
@@ -59,7 +56,6 @@ Sen yuzyillarca bolge dinamiklerinin icine s.cmissin, bozukluga ugratmissin, ond
 --
 
 [1] A Modern History of the Kurds, David McDowall, sf. 41-46
-# YDB - 22/10
 
 Aykırı
 
@@ -76,7 +72,6 @@ Bazi essekler tarihsel yenilgiler, psikolojik bozukluklar sebebiyle liberalizm s
 Dedigim gibi, ne turlu manyak ararsaniz bulabilirsiniz, ama takip edilmesi gereken dogrular degismeyecektir. Bunun ustune (aslinda altina) 3. dalga etkilerini ekleyin, Hindistan'dan, Japonya'ya, oradan Almanya'da olan gidisati daha iyi anlarsiniz. Turkiye de ayni dinamigin bir parcasidir. Birey onem kazanacaktir. Kendi istedigi sekilde birliktelikler kuracak, kulturunu yaratacak, girisimini yapacak, ya da yapmayacaktir. Toplumu bu bireyler olusturacaktir. Toplum kendi kendini tanimlayacaktir.
 
 Gercekler bunlardir.
-# YDB - 30/10
 
 Sevan "Dartanyan" Nisanyan
 
@@ -93,7 +88,6 @@ Memleketin dahilinde iktidara sahip olanlar sana “düşünmeyeceksin!” diyeb
 Ey insan evladı! İşte bu ahval ve şerait içinde dahi vazifen, insan olduğunu unutmamaktır. Muhtaç olduğun kudret tanrı vergisi olan vicdanında ve her gün çalışarak geliştireceğin aklında mevcuttur.
 
 Guzel olmus
-# YDB - 9/10
 
 Aykiri
 
@@ -106,7 +100,6 @@ Sayi olarak bakilirsa "pek cok" kisiye "dokundugu" dogru, ama kimseyi dogru duru
 Ayrica sentez, her topluluga "ikincil kimlikleri" uzerinden baglanmaya ozen gosteriyor, bunu kasti olarak, onlari pasifize etmek icin yapiyor. Kimisi icin muslumanlik kimligi Turk kimliginden onemli, sentez onlarla daha az onem verdikleri Turk kimligi uzerinden baglanti kuruyor, boylece bu kisilerin asal taleplerini gormezden gelebiliyor. Kurt ile daha az onem verdigi muslumanlik kimligi uzerinden temas ediyor, Kurt dili hakkindaki taleplerini gormezden gelebiliyor. Kimse tam mutlu olmuyor, olamiyor, ve bu boyle olmasi icin tasarlanmis.
 
 Demek ki 80 model MGK sentezi ne yeterince kisiyi birlestirebiliyor, ne de bunu dogru durust yapabiliyor. Madem ise yaramiyor sentez niye hala ortada? Eh iste, bir deli bir kuyuya tas atmis, 40 tane akilli adam tasi cikartmaya ugrasiyor, olan budur. Bazi insanlar her seyi bilincsiz bir sekilde takip eder, bu kurgunun ne zaman, niye ortaya ciktigini bile unutmustur, beyni yikanmistir, bunlari uyandirmak zor olacak. Fakat baska caremiz de yok. Cunku sentez artik islemiyor.
-# YDB - 7/10
 
 TRT Haber
 

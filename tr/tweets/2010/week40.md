@@ -1,4 +1,3 @@
-# YDB - 1/10
 
 Aykırı
 
@@ -21,7 +20,6 @@ Ama efendim "hayatin verisine nasil guvenecegiz, hayat gercek mi?" safsatalari t
 Yani neredeyse her turlu teorik, pratik amac icin veri, nihai noktadir.
 
 Trasa gerek yok.
-# YDB- 5/10
 
 Anonim
 
@@ -45,7 +43,6 @@ Yani askerlik standardize edilsin
 
 Not: "Herkesin" bir sekilde, belli yaslarda, mecburen, "tanima uygun" yaptigi is basli basina bir standardizasyon zaten. Tamamen kaldirilmasi gerekir.
 
-# YDB - 3/10
 
 Anonim
 
@@ -62,7 +59,6 @@ TR'ye donelim: Modernite ithal edildikten sonra da, bir degil, iki degil, tam uc
 Avrupa zamani gelince, hem yasadigi dehsetten dolayi, hem modernitenin son kullanma tarihi gectiginden dolayi, icine dustugu durumu irdeleyebildi. Irdelemesini hizlandiracak "kalintilar da" sahipti; Romali Katolik Kilisesi, merkezi militarizmin carmiha gerdigi Isa hatirasi ve onun degisik varyantlardaki takipcileri, Ortacag tecrubesi onun parcasiydi.
 
 Turkiye agir aksak ama benzer sonuclara variyor.
-# YDB - 20/10
 
 Aykırı
 
@@ -82,7 +78,6 @@ yuzde 1'ini tasiyabilmektedir.
 Fakat Rhapsody, iTunes gibi muzigi dijital olarak dagitan sirketler, bu fiziksel sinirlamalarin hicbirine tabi degildir. Dahasi da var: Eger Wal-Mart bir mucize eseri tum diskleri tasiyabiliyor olsa bile, bu sefer asamayacagi baska fiziksel sinirlamalar onu engeller. Bir diskin kategorizasyonunu dusunelim. Bir disk rock mi, pop mu, alternatif mi olmali? Fiziksel dunyada ve depolama acisindan bir diski iki yere birden koymaniz cok zordur. Fakat dijital dunyada, iTunes icin bir diskin kategorizasyona bir veri tabani tablosunda atilan bir sanal isaretten ibarettir. Bu isaret istenildigi kadar istenildigi sekilde atilabilir. Dijital kategorizasyonda hicbir sinir yoktur.
 Modernitenin yikilisi farkli kollardan ilerliyor. Ustteki ornek bu cokusun ekonomik baglamdaki disavurumu. Fiziksel dukkan belli sayidaki esere "konsantre" olmalidir; dijital dukkanin boyle bir siniri yoktur. Miktar "maksimizasyonu" gereksizdir. Sonuc olarak Blockbuster gibi bir sirket paldir kuldur asagi iner.
 
-# YDB - 4/10
 
 Eski bir solcu
 

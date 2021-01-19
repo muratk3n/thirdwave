@@ -1,4 +1,3 @@
-# YDB - 18/3
 
 Gecce.org
 
@@ -25,7 +24,6 @@ Liberalizm'de hayirseverlik mumkun mudur?
 Caizdir
 
 Hatta ozellikle liberalizmdeki hayirseverlik daha makbuldur cunku serbestiye sistemi icinde zengin olabilmis bir kimse, basarili ve akilli bir insandir, oraya gelinceye kadar mevcut ekonomi icinde ise yarayacak iyilestirmeleri gorebilmis bir kimsedir. Iste bu adam bagis yaptiginda onu daha akillica yonler icin kullanir. Ben kolektivist dangalaklarin yapacagi 10 yardim yerine, boyle bir kisinin yapacagi 1 yardimi tercih ederim.
-# YDB - 14/3 - II
 
 Esat Arslan
 
@@ -40,7 +38,6 @@ Onun için, on ikinci asırdan beridir, dinini Kuran’dan öğrenmeyi -birkaç 
 Katiliyorum
 
 Salak Tasarimcilara duyurulur.
-# YDB - 16/3
 
 NCSE
 
@@ -49,7 +46,6 @@ Bilimsel literaturde garip bir sey oldu; Bilimsel derecelere sahip gibi gozuken 
 Iste bunlarin halleri
 
 Bilimsel cevrelerde, akademiyada sig yaratilis teorilerinin esamesi okunmaz. Hele hele Salak Tasarim gibi teorilere akli basinda hicbir bilim adami itibar etmez. Bakin adamlarin dustugu duruma: Kirk tur firildak cevirerek ve yari-bilimini 'saklayarak' ancak boyle dergilerde yayinlanmayi umuyor. Bu kisiler akli bir tartismada 'taraf' bile degillerdir. Onlarla tez-antitez-sentez yapilmaz (bu dusunce sekli de zaten coktu ya, neyse). Bu kisiler dusunce dunyasinin persona nan gratasidir. Cunku dusunmemektedirler.
-# YDB - 12/3
 
 Ibrahim Kiras
 
@@ -100,7 +96,6 @@ Kapitalizmin küresel çapta yaygınlaşması, daha önce aldırış edilmeyen d
 Hıristiyanlığı bilemem ama Evrim Teorisi ile İslam arasında bir çelişki olmadığını (olmayabileceğini) düşünüyorum: " İslam açısından, mesela yerçekimi, nasıl Allah'ın yarattığı bir durumsa, canlılar için de evrimleşme Allah'ın yarattığı bir mekanizmadır." Cansız doğayı devindiren kanunları ortaya çıkarmak için uğraşıyoruz; peki aynı çabayı niye canlı doğayı (bitki, hayvan ve insan) anlamak için yapmayalım?
 
 Dogru
-# YDB - 16/3 - II
 
 Steven Strogatz
 
@@ -123,7 +118,6 @@ Strogatz hakkinda ilginc bazi diger anektodlar: Ogrencisi unlu network arastirma
 --
 
 [1] Steven Strogatz, Sync, 2003,. sf. 231
-# YDB - 14/3
 
 Ali Bulac
 

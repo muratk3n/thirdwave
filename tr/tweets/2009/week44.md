@@ -1,4 +1,3 @@
-# YDB - 22/11
 
 Anonim
 
@@ -23,7 +22,6 @@ Ustteki karaktere cevap; Sovyetler Birligi'nde kapitalizm yoktu, ama guzelce cev
 Amerika'da kapitalizm Google'i yaratti, ama Google kirletmiyor.
 
 Endustri insanlari montaj banti basina hapsederek, onlari seylestirmistir (ozellikle hi-tech olmayan bir tur seri uretimden bahsediyoruz). Kapitalizm olan ulkelerde de, sosyalizm olan ulkelerde de.
-# YDB - 28/11
 
 Aykırı
 
@@ -43,7 +41,6 @@ kendilerinin yeni kilise yapmasi yasakti. Tek yapabildikleri curumekte
 olan mevcut kiliseleri onarabilmekten ibaretti [sf 94]".
 
 Arz ederim.
-# YDB - 17/11
 
 Anonim
 
@@ -62,7 +59,6 @@ Turkiye 1925-50 arasi "Cumhuriyet oldugunu iddia eden" ulke kategorisine girer. 
 Sadece bir partidir.
 
 'P' harfini kullanmaya devam edebilirler.
-# YDB - 26/11
 
 Jul Sezar
 
@@ -96,9 +92,6 @@ Tony Blair nicin AB baskanligina secilmedi?
 
 Geldim, gordum, secilemedim
 
-
-# YDB - 19/11
-
 Anonim
 
 Mustafa Kemal'in egitime verdigi onem gelismemizde hic mi onemli olmadi?
@@ -128,7 +121,6 @@ Eger ekonomi, sosyal hayat liberize degil ise, temel bilim, teknoloji inovasyon 
 --
 
 [1] Kiyasla ABD sistemi mevcut 'daginik' yapidaki universite sistemine fon / tesvik (grant) uzerinden para ayirdi.
-# YDB - 7/11
 
 Aykırı
 
@@ -177,7 +169,6 @@ Onceki yazida programi isleten kendi gozlemlerine dayanarak bile verileri girebi
 Foreign Policy makalesinde bunun guzel bir ornegi var; Mesquita Hindistan'daki bir politik olay icin kendi tahminine dayali veriler giriyor, ama programi isletince sonuc onun tahmininden farkli cikiyor! Dedigimiz gibi milyonlarca iliskiyi takip etmek kolay bir is degil, ve bunu en iyi tutarli olarak bilgisayarlar yapacaktir.
 
 Burada bir parantez acalim; bazi Ademogullari "dogustan" insan gruplarinin nabzini iyi tutabilme yetenegine sahip, bunu biliyoruz. Ayrica beyinde bir tur "gayri deterministik" bir hesap surecinin olduguna dair bazi spekulasyonlar var. Bu hipoteze gore bilincli dusuncenizden daha fazlasini zihninizin arka planinda, bilinclaltinda hesap yapmakla geciriyoruz. Bu anda pek cok secenegin, alternatifli hesabin (branch and bound) yapildigi gibi sahsi bir kanaatimiz var. Hipotezi destekleyen ornekler coktur, otobusten inerken birdenbire aradigi sonucu bulan bilim adamindan, banyoda Arsimet'in "Eureka" anina kadar bu tur bir hesap seklinin ispatlari var. Yani milyonlarca baglantiyi isleme yetenegine, ozellikle bazi insanlarda sosyal alanda daha fazla olmak uzere, sahip olabilecegimiz olasiligi oldukca kuvvetli.
-# YDB - 3/11
 
 Ahmet Davutoglu
 
@@ -192,7 +183,6 @@ Tabii ki tarihi bir takim hatiralarin varsa, bu hatiralari da stratejik amacli "
 --
 
 [1] Hatta Cin'in yakin tarihte dunyaya 'acilmasi' bu sayede oldu; Ingiliz donanmasinin top atesi esliginde pazarlarini actilar. Bu konuda buyuk kuyruk acisi hissediyorlar. Konfucyanist KARSILIK VERME (recopricity) kultur kodu uzerinden bunun karsiligini birgun vermek isteyeceklerdir. Rapaille Cin'i uzun vadeli yatirim ulkesi olarak tavsiye etmiyor.
-# YDB - 29/11
 
 Anonim
 
@@ -229,7 +219,6 @@ Kurulus sirasinda tartismalar elit icinde olabilir, bu normal. ABD kurucu babala
 ---
 
 [1] Bir koylu imparatorlugu olan Osmanli'dan arta kalan bir suru pislik te cabasi.
-# YDB - 15/11
 
 Suleyman Demirel
 

@@ -1,4 +1,3 @@
-# YDB - 11/7
 
 Hadi Uluengin
 
@@ -25,7 +24,6 @@ Dogru
 --
 
 Ilgili yazilar: Burokrasi, Askerlik, Endustriyel Ideolojilerin Temelleri
-# YDB - 10/7
 
 Bir edebiyat dergisi
 
@@ -44,7 +42,6 @@ Ozetle, Selcuk'un vefati ile bir Aydinlamaci, daha onemlisi bir "modernist" kayb
 [1] Kant Aydinlanmayi "insanin kendi zekasini kullanma ozgurlugu" diye tanimlamistir. Aydinlanma evresini elestirenler "bilimin her seyi aciklamaya yeterli olmadigi" yorumunu yaparlar, bu yanlistir [2]. O zamanin bilimi lineer, matematigi belli cercevede kisitli bir bilimdir. Bugun olasiliksal matematik, simulasyon, oyun teorisi, kaos kavramlari ile daha farkli hesaplar yapabiliyoruz, ve rasyonalite sinirlarini, hatta tanimini genisletiyoruz.
 
 [2] Bu kisilerin itirazi aslinda cogunlukla modernitenin standardize edici, normatifligine karsidir, fakat itiraz adresini sasirmis (misplaced) bir itirazdir. Aksiyon olarak, farkliliklari dumduz eden klasik endustriyel cagin ortaya cikardigi sosyal yapidir.
-# YDB - 22/7
 
 Emre Akoz
 

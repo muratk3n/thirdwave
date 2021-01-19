@@ -1,4 +1,3 @@
-# YDB - 7/1
 
 Ahmet Yıldız
 

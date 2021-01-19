@@ -1,4 +1,3 @@
-# YDB - 26/12
 
 Taraf
 
@@ -65,7 +64,6 @@ Hah, bir sen eksiktin
 --
 
 [1] Ikinci Cumhuriyetin Yol Hikayesi, Hayykitap, 2008
-# YDB - 2/12
 
 Etyen Mahcupyan (2005)
 
@@ -92,7 +90,6 @@ Turban yasaginin kalkmasi, liberalizm acisindan optimal olandir. Turkiye'de rasl
 Ayn Rand'in sozleriyle bitirelim:
 
 "Siyasi ozgurlugu elde etmek yuzlerce yillik entellektuel ve felsefi gelisim gerektirmistir. Bu Aristo'dan John Locke'a ve oradan ABD'nin kurucu babalarina kadar uzanan uzun bir mucadeledir. Onlarin kurduklari sistem sinirsiz cogunluk yonetimine dayanmiyordu; tersine, yani cogunluk oyu veya azinlik komplolari ile gasp edilemeyecek olan bireysel haklara dayaniyordu. Birey, komsusunun veya liderlerinin insafina birakilmamisti: Kuvvetler ayriligina dayanan Anayasa sistemi bilimsel olarak bireyi her ikisine karsi korumak icin gelistirilmisti. Bu yuzden milletlerin ne istedigini cok iyi bilmesi gerekmektedir. 1917'de Rus koyluleri 'toprak ve ozgurluk!' talep ediyorlardi. Fakat elde ettikleri Lenin ve Stalin idi. 1933'te Almanlar 'yasayacak alan!' istiyorlardi. Fakat elde ettikleri Hitler idi. 1793'te Fransizlar 'ozgurluk, esitlik, kardeslik!' istiyorlardi. Aldiklari Napolyon oldu. 1776'da Amerikalilar 'insan haklari' diye bagiriyorlardi ve siyaset felsefecilerinin onderliginde onu elde ettiler."
-# YDB - 7/12
 
 Engin Ardic
 
@@ -149,7 +146,6 @@ Burada ima Kemal'in iyi bir asker olmadigi yonunde ise, buna katilamayacagim. Eg
 [2] Ataturk'un Soylev ve Demecleri, Cilt II, sf. 217
 
 [3] 33 Strategies of War, Greene, R., 2006
-# YDB - 27/12
 
 Stephen Theil (Newsweek dergisi Avrupa ekonomi masasi sorumlusu)
 
@@ -189,7 +185,6 @@ Turkiye'deki fay hatti nedir?
 Bence Turkiye'deki hat sarayli / koylu fay hattidir. Bizim komedimize bakin, mesela Inek Saban koylu, Mahmut Hoca sarayli. Ogretmen ama, egitimli olan sarayli havasinda oluyor bizde. Cunku "egiten" hep saray olmus. Egitilince saraya girebiliyorsun. GORA'da Arif koylu, rakibi Logar sarayli (escinsel, sapkin bir adam bu sefer, ama sarayla boyle seyler de bagdastirilirdi). Cem Yilmaz'in stand-up sahne personasina bakin, hafiften "zonta" bir tipi oynuyor gibi, koyden indim sehire, "sokak" goruntusu, ve ayni anda, "universiteliyim, soyleyim, boyleyim" diye bir sisinme var. Fay hattinin iki tarafina da oynuyor. Recep Ivedik bastan asagi koylu, hatta koylu otesi, bir magara adami. Orada sarayli yok, sadece herkes Ivedik'e bakip onun gibi koylu olmadigi icin rahatlayip, guluyor. Onu seyrederken herkes sarayli oluyor.
 
 Bati ile ilgili konularda ise, Batinin tamami sarayli, Turkiye'nin tamami koylu oluyor. AB ile ilgili konulari konusurken insanlarin dustugu hava bu hatti iyi yansitiyor: AB ile ilgili realpolitik temelli karsilikli cikar birlikteliginden degil, "acaba bizi sovalye yaparlar mi?" havasiyla konusuluyor. Bazilari diyor "illa girelim de girelim". Orasi saray. Girdik mi "kurtuluruz". Ranttan bize de verirler.
-# YDB - 24/12
 
 Ziya Gokalp
 
@@ -216,7 +211,6 @@ Toplum, bireylerin toplami olarak kimsenin tahmin edemeyecegi sekilde kendi kend
 ----
 
 [1] Gokalp, Z., Turkculugun Esaslari, Ilk Baski 1923, Bordo Siyah Klasik Yayinlar, 2004, sf. 231
-# YDB - 17/12
 
 Star
 
@@ -243,7 +237,6 @@ Halil Berktay
 Kestirmek çok zor. Ama bu girisimler Türkiye devletini ve toplumunu bu konuda gitgide daha defansif kılmaya ve içine kapanmaya, katılasmaya zorluyor. Bu konudaki siyasi kutuplasmalar öyle kuvvetli ki, konusma cesareti bulmak bile muazzam bir mesele. Çünkü ortada çok siddetli bir politik tavır kutuplasması var. Bu iki kutuptan biri 'soykırımı tasdik ve tescil ettirme' siyasası, digeri de 'soykırımı inkâr etme' siyasası. Entelektüel teröre yol açan bu kutuplasma ortamında ara zeminde konusmak imkânsız hale geliyor. Ben Türkiye'nin özür dilemesinin yanlıs oldugu kanısındayım.
 
 Katiliyorum
-# YDB - 3/12
 
 Etyen Mahcupyan (2005)
 
@@ -279,7 +272,6 @@ Ben de türbana, çarşafa veya bir başka türlü yaşama biçimine, onların s
 
 Dogru
 
-# YDB - 22/12
 
 Ahmet Davutoglu
 
@@ -290,7 +282,6 @@ Katiliyorum
 Daha once belirttigimiz gibi, devlet mevcut diplomatik dil cercevesinde soykirim kelimesini kabul edemez. Durum, karsilikli bir savas icinde bir tarafin oldurme isini (ne yazik ki) oteki taraftan daha iyi yapmis olmasidir. Kiyasla Yahudi milletinin "soykirimdan once" Almanlara karsi boyle bir siddet hareketi olmamistir. Hitler bir siddetin olacagini "beklemistir" burada sebep tum Yahudileri surekli Komunist hareketlerinin icinde gormesidir! Bundan sonra iyice isgillenir, sonra zaten Protestanlik dinindeki Yahudi sevmezlik bir de Hitler'in kendi "ustun irk" hissiyati ile birlesince ve bu Yahudilerin kendi "ustun olma" hissiyati ile catisinca, iste mukemmel firtina olusur, ve gelsin gaz odalari. Endustriyel hissiyatin izlerini burada gormemek mumkun degil. Insanlar montaj bantinda islenir gibi "seri" bir sekilde oldurulmuslerdir.
 
 Bunlari soylerken, son ozur dileme kampanyasi baglaminda, bazilarinin canini kaybeden insanlarin durumu hakkinda bir uzuntu hissedip bunu dillendirmeleri onlarin gayet tabi hakkidir... Bu konuda Sn. Abdullah Gul en iyisini soyledi saniyorum.... Ozgur bir ulkede herkes istedigini soylemekte, hissiyatini ortaya koymakta serbesttir. Soylenenin "mantik disi" oldugu, semantik olarak dogrudur. Ve ozgur bir ulkede insanlarin mantik disi seyler yapma haklari da vardir.
-# YDB - 20/12
 
 Nazif Gurdogan
 

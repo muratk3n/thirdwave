@@ -1,4 +1,3 @@
-# YDB - 4/9
 
 Konya’nın Karapınar ilçesinde önceki gün Şırnak’ın Beytüşşebap
  ilçesinde düzenlenen saldırıda şehit olan askerlerden 22 yaşındaki

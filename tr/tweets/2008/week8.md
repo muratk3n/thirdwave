@@ -79,8 +79,6 @@ Sayilan ozellikler tum silahli kuvvetler icin gerekli seylerdir. Silahli kuvvetl
 
 
 
-# YDB - 18/2
-
 [Mustafa Akyol](http://www.mustafaakyol.org/arsiv/2008/02/nisantasinin_korkulari.php)
 
 Bu yüzden, bir 20. yüzyıl patolojisi olan “totaliter İslam”ın neden
@@ -110,7 +108,6 @@ Ayrica, laiklik ifadesi de basbakanin bir konusmasinda kullandigi ve Dr. Ilber O
 ---
 
 [1] Nazilerin Komunistler ile savasmis olmasi, onlarin ideolojik olarak zitti olduklari anlamina da gelmez.
-# YDB - 21/2
 
 Perihan Magden
 
@@ -157,7 +154,6 @@ Dogru
 Dogru
 
 Ayrica ustte tarif edilen, kavramsallastirma karsiti zihniyete cok guzel bir ornektir. Dusunmemek isteyen insanlar, gercekligi kendinden olan (oldugu zannedilen) ve somut seylermis gibi direk alinan sabitler arkasinda saklanirlar ve kabileleri icine cekilirler. Zaman bu insanlari "kabilesi disindakini anlamaya" zorlamaktadir.
-# YDB - 12/2
 
 [Taha Akyol](http://www.milliyet.com.tr/2008/02/11/yazar/akyol.html)
 
@@ -229,7 +225,6 @@ bu... Uzlaşması mı kalmış Allah aşkına; ya çözülür, ya çözülmez!
 Dogru
 
 
-# YDB - 27/2
 
 Mustafa Akyol
 
@@ -255,8 +250,6 @@ Ama bu durum niye sasirtici degil? PKK Marksist/Leninist cikisli oldugu icin Kem
 
 
 
-# YDB - 9/2
-
 Can Dundar
 
 301. madde, fikir suçları, demokratik reformlara [..] ayak direyen MHP'nin türbana gelince aniden özgürlükçü kesilmeleri kimi inandırabilir ki?
@@ -273,7 +266,6 @@ Cindoruk türbana ilişkin yeni mevzuatın iptal istemi ile Anayasa Mahkemesi ö
 Ama bu mantık çizgisinden gidildiğinde eşlerinin başları açık olan yargıçların, türban konusunda karar verirken tarafsız kalmaları nasıl beklenilebilir ki?
 
 Dogru
-# YDB - 13/2
 
 Murat Belge
 
@@ -290,8 +282,6 @@ Yanlis
 Benzer duzenlemeler Avrupa ulkelerinde yok, sadece Italya'da var. Ve kimse kusura bakmasin, modern tarihinde hicbir savas kazanamamis, son elli senedir ortalama hukumet yasi 1.5'u gecmemis, kaliteli bir arabayi hicbir zaman seri sekilde uretememis ve tarihinde fasisizm gibi kara bir leke tasiyan bir ulkeden bu (ve diger) konularda tavsiye almamiz beklenmesin. Turban'dan sonra sira 301'e gelecek ve bu isin takipcisi olacagiz.
 
 
-
-# YDB - 10/2
 
 [Deniz Gokce](http://www.aksam.com.tr/yazar.asp?a=108212,10,12)
 
@@ -367,8 +357,6 @@ Turban pek cok diger ic cekismeyi temsil eden "bir nokta" oldugu ve bu
 sebeple cozulmesi, tek parti tarafindan, zora girmis oldugu icin bu
 konuda MHP ile ittifak siyaseten son derece rasyonel bir adimdi.
 
-# YDB - 25/2
-
 Taha Akyol
 
 Fransız Debray'ye göre, cumhuriyetçilikte 'kamusallık' esastır, demokraside ise 'bireysellik' önceliklidir. Debray, başörtüsünden de örnek verir; mealen şöyle: "Sınıfa girerken başörtüsünü vestiyere bırakan kız, cumhuriyetçilere göre, alkışlanacak bir 'erdem' sergilemiştir.
@@ -380,7 +368,6 @@ Ayrica Debray'in kendisinin de bu goruste oldugunu eklemek isterim. Ve bilin bak
 Sosyalizm! Debray militan bir sosyalist idi. Bolivya'da Che Guevera ile beraber calisti, o gunlerde Latin Amerika'da olan militan sosyalist akimlarin taktik ve stratejik yontemlerini inceleyen kitabi "Devrim icinde Devrim?" kiabi gerilla savasi icin bir el kitabi haline geldi. 1960'da Havana Universite'sinde felsefe profosorlugu yapti, 67'de Guevera ile beraber Bolivya'da yakalanip hapise atildi. 81'te Mitterand'in danismanligini yapti. En son haberlere ciktigi konu 2004'te Fransa'da okullarda dini sembollerin takilmamasi hakkindaki kanun idi.
 
 Daha once isledigimiz gibi, Kemalizm, Nazizm, Komunizm gibi tum sosyalist ideolojiler hayatin tum alanlarini etki alanlarina altina alip, kontrol etmek isterler. Fikir, dusunce bu ideolojiler icin super yapinin (superstructure) birer alt ogesinden ibarettir. Insanlarin ne bileceginden tutun, ne giyecekleri, ne dinleyecekleri, seyredecekleri bu yapinin bir parcasi olmalidir. Devlet kendini "kamu" ile ozdeslestirir, ve kamu icin mulkiyeti, istiraki, kari gasp eder. Bunu yaparken insanlarin girisimci kivilcimini yokeder, bilgi akisini engelledigi icin endustriyel bir toplumu bile idare edemez hale gelir. Bu arada insani ve bilgiyi serbest birakan kapitalist ulkeler endustri sonrasi beyaz yakali, kuresel bilgi toplumuna gecis yapmayi basarirlar. Sosyalist toplumlar ise icine kapali, kuru milliyetci, yalanlar uzerine kurulmus duzenlerinin gunden gune curudugunu ve birgun coktugunu seyretmeye mecbur kalacaklardir.
-# YDB - 8/2
 
 Cengiz Candar
 
@@ -403,7 +390,6 @@ Orhan Pamuk
 Dogru
 
 [1] Bu kesimin yasadigi derin yenilgi Candar'i ote yandan dis politikada asiri Amerikanciliga iten bir sebep olmali. "Bukemedigin eli opeceksin". Bukmeye calismayanlar simdi opmuyorlar da.. Tezkereye hayir, Balkanlarda NATO'ya evet, Ortadogu'da hayir, Kibris'ta BM, Iran'la isbirlikte ABD'ye hayir, Irak'a yardima evet. Buna realpolitik denir. Oteki kucakciliktir.
-# YDB - 26/2
 
 NTV
 
@@ -425,7 +411,6 @@ sokmaya gerek yok.
 
 
 
-# YDB - 1/3
 
 [Emre Akoz](http://www.sabah.com.tr/2008/03/01/haber,68A61EC7E68D41F0A21BB8FF9E909AE7.html)
 
@@ -456,7 +441,6 @@ olsaydı, yirmi senedir sürer miydi bu tartışma? Üstelik henüz bu
 sürecin ortalarındayız.
 
 Dogru
-# YDB - 6/2
 
 Hasmet Babaoglu
 
@@ -507,7 +491,6 @@ Yanlis
 Burada bahsedilen "inanc"ta bir hipotezdir. Tersi veriden ortaya cikarsa bilim onu da aninda terkeder. Fakat hangi veri olursa olsun dini inancin terkedilmesi gerekmez.
 
 [1] Ebu Yusuf Kitabü'l-Haraç s. 91: Ebu Davut 111. 272; Tirmizi, 111, 605; İbn Mace, 11, 741
-# YDB - 23/2
 
 Sabah
 
@@ -520,7 +503,6 @@ Her arac onu kullanan kadar temiz ya da kirlidir. Bilgi kirliligi olacaktir, bun
 Hic bir merkezi yasak Internet caginda etkili olamaz. Eger filtreleme gerekiyorsa, her ev ya da cafe bunu kisisel bazda kendi cocuklarini/musterilerini korumak icin yapabilir. Tek bir yazi yuzunden tum sitelere erisim engellenmesi hem yanlis hem etkisizdir. Suclu, eristigi bilgiyi aksiyona cavirirse ceza almalidir.
 
 Ayrica "kişi hak ve hürriyetlerini zedeleyen yayın" kelimesi anlambilimsel bir sacmaliktir. Birine hakaret, onun ozgurlugunu kisitladiginiz anlamina gelmez. Herkes sacmalama hakkinda sahip olmalidir.
-# YDB - 20/2
 
 Mustafa Akyol
 
@@ -574,7 +556,6 @@ Hadi Uluengin
 BÜTÜN bunları, AKP'ye nispeten "yakın durdukları" gerekçesiyle, Türkiye'deki bir dizi liberal aydına da aynı "yol arkadaşlığı" uyarısının yapılıyor olmasından dolayı yazdım. Her koyun kendi bacağından asılır, sürüden olmadığım için kişisel açıklayacağım. Evet, derin mesafeme rağmen iktidar partisine kısmen olumlu baktığım doğrudur. Ama burada belirleyici olan nokta AKP değil, bizzat b-e-n'im! "Yol" benimkisidir! Meselá, arşivler şahidimdir ki yirmi yıl önce de üniversitelerde türbanı savunuyordum. Ve madem ki ilkedir, serbestiyi hangi parti tanırsa tanısın, onun tavrını sahiplenirim. Söz konusu tutum benim özgürlük, sivillik ve laiklik anlayışımda kesin bir "etik"tir! Fakaat, buradan yola çıkıp, o "b-e-n"i ve "bizler"i, Humeyni'yi destekledikten sonra kellesi giden İranlı "yol arkadaşları"na benzetmek demagojinin dániskasıdır!
 
 Dogru
-# YDB - 3/2
 
 Eser Karakas
 
@@ -603,7 +584,6 @@ Yanlis
 Bahsedilen her iki secenegi ayni anda tatmin etmek imkansizdir. Ya birini ya da otekini sececeksiniz. Tehdit algilamasina sahip olanlar geri kalmis endustriyel ideolojinin saksakcilaridir ve hatali bir pozisyondadirlar. Aptali tek dokunusta akillandiracak sihirli degnek olsa inanin bunu kullanirdik, fakat yapacak bir sey yok. Degisim olacak, ve tehdit algilamasinda olanlar bosuna endiselendiklerini gorecekler. Bunu yapmadan gormenin caresi yok.
 
 Ilerisi icin: Siyasette "politik sermaya (political capital)" onemli bir kavramdir. Turban serbestligi tabandan alinmis politik sermaye olacak, tabani saglamlastiracak, boylece 301, vs. gibi onemli konularda AKP'nin bu sermayeyi harcamasini saglayacaktir (eger koklu degisime niyeti varsa). Bekleyip gorecegiz. Degisim olmazsa, en azindan bir ozgurluk kazanilmis demektir. Bu da hic yoktan iyidir.
-# YDB - 22/2
 
 Hincal Uluc
 
@@ -614,7 +594,6 @@ Yanlis
 Bu bahsedilen "cennet"'ten kacip Amerika'ya denizden ulasmaya calisanlarin sayisi 1994 yilinda 30,000'i bulmustur. Bu rakam, ufak nufusu olan bir ulke icin bir felakettir. Dunyadaki sosyalistler icin Kuba romantize edilen "yikilmamis son kale" sayilan bir yer olsa da Kuba geri kalmis bir memlekettir ve burada suc buyuk olcude Fidel Kastro'nun vizyon eksikliginde yatmaktadir. Muhakkak ABD'de cok vahim dis politika hatalari yapmistir, fakat bu tek basina bahane olamaz. Geri kaldik/biraktirildik polemiginde suc her zaman birincisindedir.
 
 Ustteki gibi sozleri sarfeden bir yazarin temel ozgurlukler karsisinda olmasi da bir raslanti olmamali. Sosyalizm, bilgiyi (arz/talep, haber, fikir) kisitlamak ister ve bilgiyi ve kulturu, sembolik olan her seyi kendi "superyapisi (superstructure)" icinde bir alt oge olarak gorur. Ne yazik ki ne bilgi, ne kultur yeni dunyada kontrol edilip "merkezden" yonlendirilecek seyler degildir.
-# YDB - 4/2
 
 Ergun Ozbudun
 
@@ -625,7 +604,6 @@ Yanlis
 Bahsedilen sinirlamanin kotuye kullanilmayacagi ne malum? Bu, bir yasagi kaldirip arka kapidan tekrar iceri sokmak demek olabilir. Bu faraziye duruma karsi cozum yeni yasak degil, sikayet hatti acmak, universite genelinde demokrasi/ozgurluk dersleri bilinci yayginlastirmak olabilir.
 
 "Bazi zenciler otobusun ön tarafina oturunca gurultu olmasi mumkun" diyerek zenciler otobusun arkasinda oturmaya devam etsin diyemeyiz. Kotu ihtimali gogusleyip, dogru olani yapmamiz gerekir. Bahsedilen turdeki (baski) durumlari cezai olarak ve her sart icin ozel (case by case basis) ele alinmalidir. Boyle baskilar, eger varsa, evde siddet (domestic violence) problemi ile ayni seviyede takip edilmelidir.
-# YDB - 16/2
 
 [Gulay Gokturk](http://www.bugun.com.tr/yazar.asp?yaziID=14918)
 

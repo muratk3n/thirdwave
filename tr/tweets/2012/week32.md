@@ -1,4 +1,3 @@
-# YDB - 21/8
 Bizim Star gazetesi 1926 senesinde yayın hayatında olsa idi Şeyh Said meselesi ve Takrir-i Sükun Kanunu üzerinden üç temel konu manşetleri süslerdi: Kürt meselesi, laiklik meselesi ve ifade özgürlüğü.
 
 

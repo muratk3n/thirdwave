@@ -1,4 +1,3 @@
-# YDB - 9/1
 
 Barack Obama
 
@@ -14,7 +13,6 @@ Suleyman Yasar
 
 Dogruysa rezalet
 
-# YDB - 27/1
 
 Atilla Yayla
 
@@ -25,7 +23,6 @@ Ilginc
 Tercume edersek: NATO toplantilarinda herkesin GK baskani bakani arkasinda duruyor, bir tek bizim saskinlar buna yeltenmiyor.
 
 Simdi daha acik olmustur umarim.
-# YDB - 25/1
 
 Adil Gur
 
@@ -48,7 +45,6 @@ Tabii bunlar 2. seviye duygusal zekadaki sacmaliklar ... Kultur kodlari agir deg
 --
 
 [1] Bu sebeple, mesela, devlet zirvesinde anayasa kitapcigi firlatilmasi "aile ici" kavga olarak algilaniyor ve hic hos karsilanmiyor.
-# YDB - 010110
 
 Bill Clinton
 
@@ -75,7 +71,6 @@ Ama efendim, "Edward Sait koca bir 'Oryentalizm' kitabi yazdi" falan fisman. Ban
 [1] Bu faktor cogunlukla goz ardi ediliyor, ABD silah gucu ile petrolu 'almadi', piyasaya 'cikmasini' sagladi.
 
 [2] Sistemin bitis faktorlerinden biri, mantiki olarak, ne kadar askeri gucun olsa da ucuz petrolun kalmayacagi zamandir, bu da petrol tepe noktasi anidir. Bu matematiksel bir hesap, burada o hesabi yaptik ve sonuc 2004 -+ 10 sene cikti. Yani hata payi hesaba katilsa bile tas catlasa birkac sene sonra petrol uretimi dusus yasayacaktir. Turkiye bosuna Karadeniz'de petrolun pesinde kosmuyor. 'Ulusal' petrol sirketlerinin gittikce daha fazla one cikmalarinda, moda olmaya baslamalarindaki sebep te bizce ayni.
-# YDB - 10/1
 
 Aykiri
 
@@ -92,7 +87,6 @@ Fakat bu tur hissiyatlar cemaatsel ve donemsel bir takim "avantajlar" ve "cikarl
 --
 
 [1] Grillo, R., Pluralism and the politics of difference, sf. 83
-# YDB - 22/1
 
 Newsweek Turkiye
 

@@ -1,4 +1,3 @@
-# YDB - 14/6 - II
 
 Barack Obama
 
@@ -23,7 +22,6 @@ Learn it. Love it.
 Problem aslinda surada: ABD liberalizm kelimesini kendi kultur kodlari cercevesinde ve secim kampanyalari icin carpitti ve su anda bu kelimeyi saglikli bir sekilde kullanmak mumkun olmuyor. ABD kelimeyi oyle bozdu ki buradaki anlaminda liberalizmden bahsetmek icin orada "klasik liberalizm" demek zorunda kaliyoruz. Avrupa ve biz bu kelimeyi hala dogru kullaniyoruz (Avrupa'nin duzgun yaptigi nadir islerden biri). Bundan daha once bahsettik.
 
 Tabii, her zaman oldugu gibi, burada okuz Fransizlar mustesna; onlar degisik bir familya oluyorlar. Bunlar neoliberalizm diye bir kelime hakkinda bir nefret havasi olusturdular, ama bunun da onlarin kultur kodlariyla bir alakasi var. Bundan da daha once bahsettik.
-# YDB - 9/6
 
 Star
 
@@ -54,7 +52,6 @@ Bu mesaj tekrarlanmalidir.
 [2] Sarayi temsil eden seyler, eski saray ile ozdeslestirilen ne ise o'dur; Egitim beceri sahibi olmak icin degil, "rutbe" sahibi olmak icin edinilen bir seydir, zaten eskiden de "egitilince" saraya girilmektedir. Cinsellik, escinsellik, alem konulari hep sarayla ozdeslestirilen ve bu "sarayli olma" konusu ile yakindan alakalidir [3]. Fransa'nin hayata atadigi kultur kodu ZEVK ALMA Kemalist'lerin bu ulke ile yakin alakalari uzerinden ithal edilmis ve saraylilik kistaslarina monte edilmis bir ektir. Acikcasi bu neresinden baksaniz piclesmis, b.ktan bir sentezdir. Goruyorsunuz, azicik desince kagittan ev gibi yikiliyor.
 
 [3] Bu baglamda en sevilmeyen, korkulan kisiler cinsellik, escinsellikle alakasi olan ama "onlarin tarafindan olmayan" kisilerdir; Mesela Cemil Ipekci ve Emre Akoz. Biri escinsel digeri "pornocu". Bunlari hic sevmiyorlar.
-# YDB - 8/6
 
 Aykırı
 
@@ -75,7 +72,6 @@ Kuzey Kore gibi herseyi kapatirsan, bu isi "hakkiyla" yapabilirsin, adamlarin ko
 Turkiye bunu yapamaz. Efektif olarak mumkun degildir. Bu cografyada, bu konjenkturde. Namumkun. Nicht moglich arschloch.. Not possible.
 
 O zaman olmayacak duaya amin demeyeceksiniz. Turkiye'nin gidis yonu daha fazla otokrasi, daha fazla tek-tiplesme olamaz. Optimalitenin gosterdigi yon bellidir. O yol takip edilmese de takip etmemenin de bir derecesi var.. KK olacak halimiz yok.
-# YDB - 2/6
 
 Anonim
 
@@ -106,7 +102,6 @@ Cocukcagiz, cocukcagiz diyorum ama aslinda kazik gibi adam, beni fark edince han
 Ayni hat
 
 Yoruma gerek yok.
-# YDB - 13/6
 
 Wired
 
@@ -133,7 +128,6 @@ Terminator filmleri bu "savasi" resmettikleri, gercek kapismanin bam telini yaka
 [1] Bu ufak ayrinti yillar sonra aktor Arnold Schwarzenneger'in California valiligine aday oldugu zaman Ispanyol asilli oyverenlerden muthis bir destek almasini saglayacakti. Oyle ki Arnold bu yarista karsisinda gercekten Ispanyol asilli birini gecmeyi basaracakti.
 
 [2] Muhakkak her begenilen uzun soluklu serilerde oldugu gibi T serisinde de bazi alt/yan sorular sorulmakta... Mesela "biz insanlik olarak hayatta olmayi hakediyor muyuz?" gibi. Sonucta belki de makinalar insanligin evrildigi bir sonraki "seyi" temsil ediyor, niye onlar degil de biz? Yillar yili insanlik ta dogayi kirletmis, istismar etmis, bu yeni olusun ondan farki nedir? Gibi.. Tum bu sorular ek katmanlar olarak filmleri renklendiriyor. Matrix filmlerinde ayni sekilde.. Uyanmak mi iyidir yoksa uyanmamak mi? Mutlu bir sekilde biftegini yiyorsun.. niye uyanacaksin ki? :) Cahillik mutluluktur :) (aslinda degildir)
-# YDB - 14/6
 
 Ahmet Davutoglu
 
@@ -144,7 +138,6 @@ Katiliyorum
 Evet; siyasetciler bu bolge ile ilgili konusurken sanki oranin halklarindan da oy alacakmis gibi konusmali, siyaset uretmeli. Bir kere bugunku dandik sinirlar zaten tarihte hicbir ornegi bulunmayan acaip sinirlardir. Propaganda filminde harika bir sekilde resmedildigi gibi, garip bir sekilde (aslinda petrol kaynaklarinin Bati devleti tarafindan gaspini azamilestirecek sekilde) cizilmis sinirlarin iki yanindaki insanlarin sanki hicbir sey olmamis gibi hayatina devam ettirmesi beklenmistir. Soguk Savas suresince bu garabet duzen agir aksak sekilde devam etmis olsa da, artik hizli bilgi iletisimi, onu takip eden insan ve para hareketleri, serbest ticaret bu sinirlari yavas yavas silmeye baslamistir. Bu bir guc kaymasidir ve nihai analizde iyi bir gelismedir.
 
 Ayrica; madem bu bolgenin kaderi bu kadar birbirine yakin, neden resmi politikasi da birbirine resmi sekilde entegre olmasin? Irak Parlamentosunda bir Turkiyeli olamaz mi? Veya TBMM'de bir Irakli? Tabii, oraya gelmeden tum Turkiyelileri (mesela Kurtleri) kendi meclisimizde hazmedebilen bir anlayisin gelismesi gerekir; umariz bu da yavas yavas yerlesmeye baslar. Guc yansitmak istiyorsak once kendi evimizin duzende olmasi gerekiyor.
-# YDB - 23/6
 
 BBC
 
@@ -159,7 +152,6 @@ Secimlere hile karisti mi? Bati medyasi karistigina dair iddiasini daha kesinles
 Ne yalan soyleyelim; hile karismamis olmasinda kullandigimiz bazi ek kistaslar Iran'in bolgede ve dunyada demokrat gozukme ihtiyaci, "iyi yonetilen devlet" havasi yaymak istemesi gibi unsurlardi. Bu kadar aptal olamazlar gibi bir yan arguman aklimizdan gecti.. Fakat Aznar'in Ispanya'da kendi halkina yalan soylemesi orneginde, ya da Turkiye'de son derece makul bir Cumhurbaskanligi secimi icin gerzekce engeller yaratilip sebebi kapatmak icin yalan soylenmesi durumunda goruldugu uzere, kadim bir ulkenin yonetici kademesinin de okuzluge son derece acik olabilecegini goruyoruz. Iran'da bu olmus olabilir. Hem Ispanya'da hem Turkiye'de halkin cildirdigini hatirlarsak, Iran'da olanlar bu kadar acaip gelmeyecektir.
 
 Fakat secime hile karismamis olsa bile, gostericiler yerden goge kadar haklidir. Iran'a daha fazla demokrasi, daha fazla ozgurluk gereklidir. Ulkesine Internet, Facebook, Twitter girmis yerin gidecegi yer de zaten orasidir. Eh bu gidis once olur, bu gidis sonra olur. Ama illa ki olur. Insanlarin mecbur olmadikca degismeme yonunde bir meyili vardir, bu yuzden zor olan seyler hep ertelenir ve bu "seyler" de toplana toplana birden ayni anda patlarlar, o sebeple tarihin ufak ufak adimlarla degil, buyuk ziplamalarla gerceklestigi soylenir. Entellektuellerin yapmasi gereken iste bu ziplamalari gormeye, hissetmeye ugrasmaktir. Mevcut duzenin niye boyle oldugu, bu aciklamanin sadece alt basliklarindan biri olabilir, ana hikaye olamaz. Buraya dikkat.
-# YDB - 6/6
 
 Emre Akoz
 

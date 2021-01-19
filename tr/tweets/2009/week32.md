@@ -1,4 +1,3 @@
-# YDB - 28/8
 
 Anonim
 
@@ -35,7 +34,6 @@ Türkiye ile Rusya Federasyonu arasında, başta enerji olmak üzere değişik a
 Avrasyaci Erdogan
 
 Ergenekon baglaminda "Avrasyacilik" ithamini ortaya atmak bir terminoloji yanlisligi idi, bunu soylemistik. Ergenekoncular "bir tarafci" olmaktan ziyade sig modernist emelleri isiginda herkesin kucagina oturabilecek tiplerdir. Neo-con tiplerin kucagina oturabilirler, Rusya'nin kucagina oturabilirler. Hic farketmez. Tez bazli dusunurken siniflamayi hangi temelde yaptiginiza dikkat edin. Su anda gecerli olan tek bolunme modernite / sonrasi bolunmesidir. Sag / sol, sosyalist / kapitalist bolunmeleri artik gecerli degil (sosyalizm coktu). Orada kapisma kalmadi (veri noktasi uretilmiyor, demek ki modele gerek yok).
-# YDB - 10/8
 
 Star (Acik Gorus)
 
@@ -62,7 +60,6 @@ Hasan Bulent Kahraman
 İnsanın kendi kontrolü içinde hatta belki de kendi kendisini tahrip duygusu içinde sürdürdüğü zevk hayatına diyecek bir şeyim yok ama sigara konusunda işler epey farklı. Pasif içiciliğin zararlı olmadığı görüşüne de katılmıyorum, çünkü. Belli bir düzeyin ötesinde beni bu derecede rahatsız eden ve bunaltan bir başka "zevk"e ne şahit olmak istiyorum ne de muhatap.
 
 Dogru
-# YDB - 18/8
 
 Zulfu Livaneli
 

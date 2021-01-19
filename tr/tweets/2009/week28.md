@@ -1,4 +1,3 @@
-# YDB - 24/7
 
 Deniz Gokce
 

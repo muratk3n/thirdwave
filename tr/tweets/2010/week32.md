@@ -1,4 +1,3 @@
-# YDB - 20/8
 
 Suleyman Yasar
 
@@ -16,7 +15,6 @@ Mehmet Altan
 Yanlis
 
 İslam medeniyetinin altın çağı, 8. ve 13. yuzyil arasidir.
-# YDB - 13/8
 
 Bir Kemalist
 
@@ -30,7 +28,6 @@ Tabii bu tur sekerlemelerin halka direk verilmesi bazilarina itici geliyor olabi
 
 Yani bunlarin hepsi kendi basina tartisilabilir, fakat su veriliyor, bu veriliyor, bunlar baska hicbir yerde olmuyor, "bize has" soylemi kesinlikle dogru bir soylem degil.
 
-# YDB - 4/8
 
 Fareed Zakaria
 
@@ -189,7 +186,6 @@ bilmemek.
 
 
 ![](fareed_zakaria_hand.jpg)
-# YDB - 13/8 - II
 
 Bir yazar
 

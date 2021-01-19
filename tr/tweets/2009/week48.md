@@ -1,4 +1,3 @@
-# YDB - 26/12
 
 Abdullah Ocalan
 
@@ -9,8 +8,6 @@ Vay cakal
 Once cingari cikartti, sonra anlamadim diyor. Gucunu vurgulamak icin bir hamle yapti, kismen basarili da oldu, fakat sivil siyasetin devami icin ezici bir sinyal gelince BDP'ye destek olmaya mecbur kaldi. Apo / PKK, hamlesi baglaminda KCK'yi yeni adres olarak gosteriyordu, sivil siyaset agir basinca o tarafa yonelme durumu cikti, uvey cocuk haline gelen KCK'nin simdi tepesine biniliyor. Dogru, yanlis yorum yapmiyoruz, olani anlatiyoruz. Kandil'in yayin ajansi Firat Haberler'den KCK hakkinda cit cikmiyor. Buradan PKK duruma mutabik gozlemini yapiyoruz.
 
 
-
-# YDB - 2/12
 
 Anonim
 
@@ -38,7 +35,6 @@ Gulay Gokturk
 İsviçre'deki minare referandumunun temel insan haklarının, inanç ve ibadet özgürlüğünün açık ihlali anlamı taşıdığı noktasında söylenecek fazla bir şey yok.
 
 Dogru
-# YDB - 30/12 - II
 
 Ozdemir Ince
 
@@ -47,14 +43,12 @@ Harf Devrimi'nin 80. yildonumu kutlu olsun.
 Tükel üzgü bir kıvanç duydum
 
 Avrupa'nin bu bitim ucunda yerimizi berkittik, ve ataç özlüklerimizin tüm ıssılarına sahibiz. Baysak, önürme, uygunluk kıldacılarımız bulunuyor, gonencimiz artiyor. Ben de kutlu olsun diyorum.
-# YDB - 16/12
 
 Ihsan Dagi
 
 Ancak her durumda DTP'nin kapatılma kararı savunulamaz. Anayasa ve yasalar ortadayken AYM'nin kapatmaktan başka çaresi yoktu tezi için hiç kullanmadığım bir sözü kullanacağım: çifte standart. AYM'nin RP ve FP'yi kapatması, cumhurbaşkanlığı seçimleri için icat ettiği 367 şartı, 'laiklik karşıtı eylemlerin odağı olduğu' yaftası, Anayasa'nın 10. ve 42. maddelerinin değiştirilmesini yetkisini aşarak iptali ne kadar Anayasa'ya ve yasalara uygunsa DTP'nin kapatılması da ancak o kadar yasal ve hukukîdir. AYM mevcut yapısı ile sonuna kadar 'siyasî' ve meşruiyeti tartışmalı bir kurumdur.
 
 Dogru
-# YDB - 28/12
 
 Samil Tayyar
 
@@ -66,17 +60,6 @@ Ocalan'in rolunu (en azindan / ozellikle yakalanana kadar olan zamanda) ic / dis
 
 Not: Bu arada Sn. Tayyar hakkindaki mahkeme kararina karsi oldugumuzu belirtelim. Karar acikca ifade ozgurlugu ihlalidir. Boyle saklabanliklar yeni ekonominin gerektirdigi yapiya aykiridir (evrensel sacmaliklara, vicdan karin agrilarina girmeye gerek yok). Mevcut guc yapilanmalari, cikar gruplari (vested interests) bu esas gucu gormezden gelirlerse, halimiz felaket olur.
 
-
-
-
-
-
-
-
-
-
-# YDB - 30/12
-
 Jorge Luis Borges (Paul Coelho aktariyor)
 
 Aslinda tum dunyada anlatilan topu topu 4 tane hikaye vardir. Bunlar: iki kisi arasindaki ask hikayesi, uc kisi arasindaki ask hikayesi, guc elde etme yolunda cabalamak (struggle for power) ve sehayat.
@@ -84,7 +67,6 @@ Aslinda tum dunyada anlatilan topu topu 4 tane hikaye vardir. Bunlar: iki kisi a
 Ilginc
 
 Coelho bu prensipleri iyi anlamis herhalde, yazarliktan mali goturdu. Helal olsun tabii bir sey demiyoruz.
-# YDB - 8/12
 
 Haber
 
@@ -93,7 +75,6 @@ Haber
 Vatandas sana niye guvensin
 
 Nufuz cuzdanina yazin, yazmayin, halkin cogunlugu devletin verdigi adresi kullanmaz, bizce. "Vatandas anapostaya postayi koyar". Guvenlik argumani bos; Yahoo guvenilir degilse, devlete guvenilir mi? Bugun oyle oldugunu farzedelim, yarin olacaginin garantisi nedir? Ustelik, vatandasin istegi "slm nbr olm" mesajlarinin ultra guvenli olmasi midir, yoksa kesintisiz isleyen bir servisin mevcudiyeti midir? Sittin tane devlet kurulusunu ozellestirirken burada servise baslamanin alemi nedir?
-# YDB - 23/12
 
 Haber
 
@@ -115,7 +96,6 @@ Tum bu verilerle, ve Milli Gorus gecmisli bir partinin iktidarinda, bahsedilen k
 
 
 [1] 80 model MGK sentezinin Osmanli'daki dini esitsizligi takip ediyor ve sentezin bizzat Osmanlicilik iceriyor olmasi da bir raslanti olmamali.
-# YDB - 14/12
 
 Mustafa Karaalioglu
 
@@ -131,7 +111,6 @@ Mumtaz'er Turkone
 DTP'nin kapatılmasının en çok PKK'yı memnun ettiğini gözden kaçırmamamız lâzım. PKK, DTP'nin kapatılmasını demokratik siyasetin itibar kaybetmesi, kendisinin varlığının Kürtler nezdinde meşruiyeti artırması olarak görüyor. Başından itibaren DTP'nin kapatılmasını savunanların nerede, kimlerle hangi çizgide buluştuklarını görmeleri gerekir.
 
 Katiliyorum
-# YDB - 28/12 - II
 
 Ali Bulac
 
@@ -162,7 +141,6 @@ Hayir. Herkesi esit etkileyen tek kavram, beyaz yakalilasan toplum, ve degisen u
 
 
 
-# YDB - 5/12
 
 Aykırı
 
@@ -181,7 +159,6 @@ Iste bu tur inovasyonlar lazimdir. 'Ah vah, ben seni koruyacagim kollayacagim' d
 Iste bize bu bireyi, onun rasyonel kararlar aldigi bir sistemi baz alan inovasyonlar gerekiyor.
 
 Not: Bugun gecerli birseyler soyleyebilen her "sol" kisilik aslinda liberal demokrat olmustur. Geriye sadece bunu kabul etmeleri kalmistir. Edemeyenler gencliklerinde hakkinda heyecan hissettikleri bir kelimeden vazgecmek istemedigi icin bunu yapiyor. Bu kelimeyi adeta dua eder gibi tekrarlamalari, 'bir zamanlar' bir sey hakkinda 'hakli olduklarini' zannetmelerini sagliyor. Bunlari asmak lazim.
-# YDB - 13/12
 
 Cengiz Candar
 
@@ -206,7 +183,6 @@ Tarihi tekrar gozden gecirmek gerekiyor ve saglam verileri baz almak gerekiyor. 
 Tekrarlayalim. Darbe tamamen ic faktorlere tabidir.
 
 Hıyarlar yerli malıdır
-# YDB - 4/12
 
 Anonim
 
@@ -264,7 +240,6 @@ Peki medya bu isleri niye abartiyor? Birkac sebepten: 1) TR'de 'sevgi' kavramini
 
 [2] Alman oto sirketleri bu arastirmadan iyi nemalandi bu arada, yarisi kazanan prof Alman (Amerikan okulunda), kendi "koylusuyle" calismak istemis, Alman sirketleri bazi know-how'i buradan kapti, sonradan danisman olarak ta hocayi calistirmislardir.
 
-# YDB - 20/12
 
 The Economist
 

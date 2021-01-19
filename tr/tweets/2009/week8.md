@@ -1,4 +1,3 @@
-# YDB - 10/2
 
 Suleyman Demirel
 
@@ -13,7 +12,6 @@ Daha once belirttik, tekrar uzerinden gecelim. Yeni merkezsiz dunyada herkes bir
 Acele bir Google arayisi, fi tarihinde Demirel'in danismanligini, Irak savasinin sebebinin petrol oldugunu hala bilmeyen uber-keriz Cengiz Candar oldugunu ortaya cikardi. Tencere yuvarlanmis kapagini bulmus iste. Kadim ozdeyisi tekrarlayalim;
 
 Kilavuzu karga olanin burnu b.ktan kurtulmaz.
-# YDB - 20/2
 
 Star
 
@@ -30,7 +28,6 @@ Denetim elemanlarının, Vergi Usul Kanunu'na göre vergi inceleme yetkisine sah
 Olum ve vergiler..
 
 Anglo Sakson dunyasinda bir laf vardir: "Olum ve vergiden kacis yoktur". Eh, ne de olsa Chicago'lu unlu haydut Al Capone vergi sucu sayesinde hapse gonderilebilmisti.. Aydin Dogan eli silahli bir haydut degil fakat ulkeye son yillarda yasattiklari, bilgi kirliligi ve psikolojik savas ortami bir silahli haydutun yaptiklarindan daha mi masum ve toz pembeydi acaba? Ozgurlukleri ve demokrasiyi hic ayirim yapmadan savunsalar, bundan herkes faydalanacak, fakat arkadaslarin kafasi boyle calismiyor. Diger taraftan, insanin aklina gelen, bir taraflari acikti ki onu kapatmak icin onceden (preemptive) kavgaya giristikleri durumudur. Cunku uzun zamandir pireyi deve haline getirmeleri ancak bu tur bir kumpas ile aciklanabilir. Acikca soyluyorum; Turkiye'nin menfaati icin BU PISLIK BIR AN EVVEL TEMIZLENMELIDIR. Baska caresi yok. Baska turlu ulkenin ic kuvvetleri birlesip daha verimli vahalara akamayacak, gelisimimiz surekli baltalanacak. Bu serefsizlerin gelisimi, ilerlemeyi temsil ettigi koca bir yalandir. Asagilik gazetelerinden sadece sapkinlik ve ikinci seviye bir elektronik oyuncak (gadget) tuketim kulturu akiyor. Ozgur olmayan ortamda bilim yoksa, bu adamlarin dunyasinda bilim olamaz. Bilahere, ilerleme olamaz. Aydin Dogan medyasi ulkemiz icin acik ve mevcut bir tehlikedir.
-# YDB - 19/2
 
 Economist
 
@@ -45,7 +42,6 @@ Neyse; eski kavramlar, siyasi bolunmeler yeni dunyada gecerli degildir. Sag, sol
 Ileride katilimci demokrasi gibi ekler peydahlanabilir, paranin yokolmasi ve yerine elektronik sistemlerle idare edilen degis/tokus (bartering) sistemleri bir olasiliktir. Ileride ne olacagini bilmiyoruz, sadece ne olmayacagindan eminiz. Ulus devlet gucu yerini guc kusaklarina, tek kutup yerini N tane kutba birakacaktir. Bu arada kuresel isinmadan ayvayi yememissek, bu yeni daha dinamik dunya muhakkak daha eglenceli ve firsatlarla dolu olacak.
 
 Temel teze donersek; dunyada 'orta' sinif degil, 'tek' sinif olacak.
-# YDB - 14/2
 
 Halil Inalcik
 

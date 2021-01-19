@@ -1,4 +1,3 @@
-# YDB - 21/4
 
 Deniz Gokce
 

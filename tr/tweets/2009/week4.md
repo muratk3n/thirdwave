@@ -1,4 +1,3 @@
-# YDB - 12/1
 
 Halil Berktay
 
@@ -13,7 +12,6 @@ Turkiye'de irkci, fasist kelimelerinin surekli tekrarlanmasinin, aslinda, ilginc
 Peki ornek alinan Turkiye ne durumdadir? 1925'de vuku bulmus "Kemalist darbenin" yapisi ve Gokalp'in yazdiklarina bakarsak, bu bir Dayanisma ideolojisidir. Dayanisma temelli bu sistem, sosyalizm + milliyetcilikten mutesekkil bir tur Baas sistemini andirmaktadir. Gunes Dil Teorisi, Brekisefal Kafa Yapilari gibi abukluklar denendikten sonra bir kenara atilmistir, 40'li yillarda ise Nazi Almanya'si ile flort, kaybedecekleri belli olunca sona ermistir.
 
 Irkcilik ile suclanabilecek tek kitle partisi olarak MHP'nin yapisina bakis bu durumu daha net ortaya cikarir. MHP'nin savundugu irkci degil "kultur milliyetciligi" havasindadir. Gerci bu da cogulcu toplum icin saglikli degildir, ama irkcilik olarak nitelenemeyecegi de aciktir.
-# YDB - 6/1
 
 Emre Akoz
 
@@ -36,7 +34,6 @@ Cok guzel
 Bu guzel bir haber; Insallah arkasi gelir, iyi bir baslangic olarak addetmek lazim. Surekli ileri gitmek gerekli, bu ileri gidis, inovasyon, yaraticilik, yan urunler olarak ekonomiye geri doner. Bakiniz fakir bir ulke olan Hindistan bile yillardir uzay programini surduruyor. Kutlarim, devamini dilerim.
 
 Konuyla ilgili olarak; Gecende National Geographic kanalinda ABD/Sovyet uzay yarisinin tekrar canlandirilmis (reenactment) halini seyrediyordum. Muthis bir programdi. Bu yarisi seyrederken, sadece teknik adamlarin yarisini degil, aslinda onlarin arkasindaki "sistemlerin" savasini seyrediyor gibiydiniz. ABD, disaridan getirdigi Alman roketbilimci Von Braun'un enerjisini, esnek ekonomisi destegiyle uzay programina kanalize ederken, Sovyet rakibi yerli Sergey Korolev burokrasiye boguluyor, ve en sonda strese dayanamayip, kalp krizinden oluyordu. Korolev Stalin'in gulag'a surdugu ve agir sartlar altinda zulum ettigi mahkumlardan biriydi, ve bu sirada kalbi zayiflamisti. Iste fark: Bir tarafta disaridan geldigi halde insana verilen degerin varligi, digerinde yoklugu. ABD'de burokrasi bile Braun'u daha fazla risk almasi icin zorluyordu! Ve sonucta kim kazaniyor? Evrensel dogrulugu gecin, optimal olan bir yol var, ve bu dogrularin bu sebeple takip edilmeleri gerekiyor. Cunku o dogrulari takip eden kazaniyor.
-# YDB - 30/1
 
 Abdullah Gul
 
@@ -51,7 +48,6 @@ Turkiye, dogru olani soylemelidir - artik hem realpolitik hem insani olan ayni y
 Dogrudur; Perez yalan soyluyor, Erdogan'in bunu yuzune vurmasi iyi olmustur. Ayrica, Erdogan Davos'a kavga etmek icin, hazirlikli bile gitmis olabilir, ve bu taktik olarak anlasilir bir hamledir. Zaten kavga icin cok fazla bir sey yapmasi da gerekmemistir. Goruyorsunuz; en barisci sayilan adamlari bile nasil elini kolunu sallayarak kendini kaybedip tirad icinde gark oluyor. "Secilmislik" hissiyati var orada iste... Gidin Israil'e, bes yasindaki cocugun gozunde bile bunu gorursunuz. Bir de karsisinda Bati cogunluklu seyircinin Yahudi soykirim sucluluk hissiyatini siper almayi da biliyor; tiyatroya devam ediyor. Tam bir kepazelik.
 
 Neyse, basbakan bu taskinligi firsat bildi, ve boruyu verdi. Bati haber donusunde (news cycle) bu sayede Israil hakkindaki TR'nin dusunceleri tepeye firladi, Arap medyasinda bu haber muhakkak cok donecektir. Cok guzel. KUTLARIM.
-# YDB - 17/1
 
 Fareed Zakaria
 
@@ -74,7 +70,6 @@ Turkiye'nin cikarlari buna uygun degil. Turkiye, dis ucgenin aktif isledigi bir 
 Cok yonlu dis politika boyle iste: Cikarlarimiz her yerde ayni aktor ile degil (soguk savas yillarinda degiliz artik). Cikarlarimiz Kafkaslar ve Ortadogu'da AB ile uyusuyor, Kibris'ta Birlesmis Milletler'le uyusuyor, Balkanlarda ABD/NATO ile uyusuyor.
 
 Ortadogu'da daha fazla demokrasi Turkiye'nin cikarinadir. Ek olarak Turkiye'de demokratik olarak secime gelmis hicbir kitle partisi halkin Gaza'da yapilanlara karsi tepkisini yansitmadan kenarda duramaz. Bu baglamda AKP'nin ic ve dis dinamigin uzlasmasi acisindan optimal bir nokta sectigi gozukuyor. Gunun sonunda AKP, halkin oylarindan baska bir dinamige dayanmiyor ve halkin hissiyatini gozeten tercihler yapmasi onun secim basarisi acisindan da mantikli gozukuyor. Insani acidan dogrunun ayni yonu gostermesi iyi bir sey tabii ki.
-# YDB - 8/1
 
 Sami Cohen
 
@@ -93,7 +88,6 @@ Taraf
 Tek erkek etrafinda elli tane kadin; bu neyi resmediyor? Neyi gosteriyor?
 
 Bu bir HAREMDIR arkadaslar... Ne dedik? Saray kulturu hala kendini "eski saray" kavramlari uzerinden tanimlamaya ugrasiyor. "Sapkinlik" bir "seckinlik" manivelasi olarak kullaniliyor (halbuki cinsellik kisisel tercihin bir renginden ibaret - ne iyi ne kotu derim, sadece varsa vardir, kisiye ozeldir). Erbil'in Kemalist bir yobaz olmasi da bir raslanti degil - esyanin tabiatinin bir gerekliligi.
-# YDB - 10/1
 
 Hadi Uluengin
 

@@ -1,4 +1,3 @@
-# YDB - 5/2
 
 Fikret Bila
 
