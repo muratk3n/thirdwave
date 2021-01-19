@@ -627,6 +627,715 @@ any shape or form.
 
 ---
 
+[JFK](https://twitter.com/NASA/status/1132311515141431296)
+
+.. this nation should commit itself to achieving the goal, before
+this decade is out, of landing a man on the Moon…
+
+<img width="500px" src="https://pbs.twimg.com/media/D7bHUowXkAEH4XX.jpg"/>
+
+Ask not where to pahk the cah. Ask where to pahk the cah in Hahvahd Yahd.
+
+Comment
+
+Single-payer, public option (during 2009) did not pass because of
+Senator Lieberman (D). His vote was necessary to have a
+filibuster-proof majority
+
+Well
+
+That's no excuse for not campaigning, strategizing for SP, but, on
+Lieberman, of course he doesn't want happy, healthy Americans. He
+wants unhappy Americans who sign-up to military and die and kill for
+his country. And by "his" country I mean Israel, not United
+States. Lieberman is an Israeli citizen. I bet u didn't know that.
+
+News
+
+China says U.S. demand on its state-owned enterprises is 'invasion' on
+economic sovereignty.
+
+True
+
+You can't dictate what is public what is private. Of course forced
+tech transfers and many other aspects of Chi-US econ relationship
+would not be suitable for US either, depending on the strategy.
+
+[Comment](https://twitter.com/shockproofbeats/status/1132778062003757057)
+
+Am I mad or have the Brexit Party merely taken UKIP's vote share plus
+maybe an extra 5-10% from Tories? i.e. gains dwarfed by Lib Dem/Green
+pro-remain surges. Why are Farage's Malibu Stacy-with-a-new-hat
+shenanigans being talked about like they're a political earthquake?
+
+You are not mad
+
+[Trump](https://www.youtube.com/watch?v=sQJDkruDlKI&feature=youtu.be&t=445)
+
+[On gas vs electric]
+
+Interesting
+
+Electrifiers ran amok. It is a disease.
+
+Also right on increased complexity. In a software project, a good
+architect constantly tries to fight complexity (especially important
+in software because it is very easy to increase complexity as the
+initial cost of just typings some stuff is incredibly low) , and say
+no. A recent example is Boeing with its MAX debacle, unnecessarily
+increased
+complexity. [Here](https://lwn.net/2000/0914/a/lt-debugger.php3) is
+Linus Torvalds' comment on a question, some programmers were trying to
+include a so-called kernel debugger in the Linux code (a tool that
+helps trace bugs, hence the name) when he lost it.
+
+Let's not forget Linux is the largest software code base humanity ever
+created, when the previous software management guru Fred Brooks in his
+*The Mythical Man-Month* said such a scale for a software project was
+impossible to reach (he was talking about a possible Star Wars project
+code base which the Linux project surpassed in terms of LOC many times
+over). And it was all done through loosely connected (this was key
+IMO) programmers through text-based version management tools.
+
+[Comment](https://www.thedrive.com/tech/28284/never-mind-the-battery-vs-fuel-cell-holy-war-geely-makes-buses-for-all-warring-factions)
+
+"A battery-electric 40 ton truck with 500km range needs 8 tons of
+battery. That’s ridiculous" says Toyota’s FCV-boss Katsuhiko Hirose.
+
+Yeah
+
+8 ton battery on a 40 ton truck with 500 km range. These people are
+truly some kind of geniuses aren't they?
+
+[Article](https://www.history.com/news/how-did-the-gold-standard-contribute-to-the-great-depression)
+
+A number of complex factors helped to create the conditions necessary
+for the Great Depression, and adherence to the gold standard was just
+one of those factors. A slowing economy combined with the stock market
+crash of 1929 and a subsequent wave of bank failures in 1930 and 1931
+led to crippling levels of deflation. Soon, the frightened public
+began hoarding gold. European countries began to abandon the gold
+standard.
+
+The United States and other countries on the gold standard couldn’t
+increase their money supplies to stimulate the economy. Great Britain
+became the first to drop off the gold standard in 1931. Other
+countries soon followed.
+
+Gold is Old
+
+There are some liberterians who are still high on the fumes of this
+thing, they are best to abandon their dream. Keynes was right to call
+gold "a barbaraous relic". There has been no successful gold-pegged
+currencies in history. All trials ended badly; gold is deflationary.
+Graeber showed armies make money what it is; king orders x to be
+mined, gives x to soldiers, takes tax in x. All of a sudden the public
+is stepping over eachother to sell their produce to those soldiers to
+earn x. Money is created. It has always been so (now it is US military
+over oil).
+
+Surely with fiat an unwanted side-effect could be the reverse of
+deflation, inflation, but that falls under the rubric of a political
+decision. Democratically elected official will pay the price for that
+inflation if it becomes excessive. My point is just to avoid the "bad"
+inflation we cannot tie the hands of economic governance.
+
+Question
+
+There are some liberterians among conservatives, aren't they better kind
+of conservatives?
+
+No
+
+Because they are generally anti-war and pro-freedom they might come
+across as preferable. But make no mistake, these people are just
+deluded as the next con. A lot of their shtick comes from 1st wave
+land-based sheepfucker that we call the peasant. If we remember agro
+empires rose on the tax collected from them, using their sons as
+soldiers. This is where a lot of the knee-jerk reactions of the
+libertard comes from; he doesn't want to be taxed, he surely doesn't
+want to lose a son. He also doesn't want his money to lose value
+(hence gold, something "trustworty", in his mind, that he can bury,
+hide on his land).
+
+What happens to the greater society?  Libertard, wedded to his land,
+his sheep, does not care. I heard one say once, about policing,
+security issues "well I have a private security / guard on my land"
+and the stupid son of a bitch truly thought that comment got him off
+the hook. But here is where he makes his first logical
+mistake. Because "his land" such as it is, depends on a larger
+apparatus that he does not *want* to care about. But if a mob gathered
+outside his land and wanted to take it, there is little his $10/hour
+rent-a-cop could do. So libertard depends on the societal apparatus to
+not only keep the mob at bay, but keep them *not* unhappy enough so
+they would not think of coming for his estate.
+
+[News](https://www.reuters.com/article/us-usa-hydrogen-aircraft/hydrogen-powered-flying-vehicle-touted-as-southern-california-traffic-tonic-idUSKCN1T0078)
+
+![](https://img.newatlas.com/alakai-skai-hydrogen-vtol-air-taxi-8.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=crop&h=347&q=60&rect=277%2C0%2C1104%2C621&w=616&s=a7982072073d38f38fa9c6e201e84bf5)
+
+A mockup of the futuristic aircraft, dubbed “Skai” by its inventors, was put on exhibit for investors, the news media and other invited guests outside the BMW Group’s Designworks studio in Newbury Park, a suburb north of Los Angeles.[..]
+
+Powered by six hydrogen fuel cell batteries - one for each rotor engine - the aircraft are designed for a range of 300 miles but are envisioned mainly for short urban hops or flights between nearby cities.
+
+Fantastic
+
+Question
+
+Why did Elizabeth Warren shun Fox News when many other Democrats did
+town halls?
+
+Warren didnt shun FN for the reasons she says (I dont want to support
+their extremism). She shunned them because she is making a play for
+the centrist Democrats. It can work.  She is also revealing policy
+after policy, which ppl dont understand shit about, but it reinforces
+an image of her as someone taking care of citizens.
+
+Why the move for centrists? Let's not forget, we are not at national
+elections yet. First, a candidate needs the Dem nomination. Looking at
+Biden's numbers we can see there is a sizeable centrist chunk. Warren
+is combative with DJT for this reason (pro impeachement, no FN, etc).
+
+Also previously, that whole native American genetic testing "debacle"
+worked for Warren. She was ridiculed by Trump, but that's a good
+thing, it made her more of a nemesis, the un-Trump. She engineered it
+for that reason. DJT was also ridiculed by Bam, remember?
+
+This is how the pro-anti, for-against mechanism works. People have
+vague notions about candidates, standing out in any way helps, any
+emotional memory people can remember you by is good, in terms of
+politicking of course.
+
+Comment
+
+But ..this and that issue... polls at [blah] percent, we should do it.
+
+Politics / Policy
+
+Political judgement is different than optimal policy judgement. In 2003
+public support for the Iraq War was over 70 percent.
+
+People don't know shit. Leaders need to lead. Voters are better at
+judging character than judging policy (that they don't experience
+first-hand).
+
+Comment
+
+By this time during 2008 election cycle, Hillary Clinton was the
+frontrunner. She lost to Obama
+
+Right
+
+JUNIOR SENATOR Clinton was the frontrunner. But during 2016 cycle,
+SECRETARY Clinton was the frontrunner, and remained so until the
+end. Similarly with Dubya during his first run, or Al Gore. Now we
+have VP Biden.
+
+Things can turn out differently of course; Just saying, this line of
+thinking is not too solid.
+
+[Comment](https://twitter.com/Sustainable2050/status/1136570561247756288)
+
+Two reasons why CCS (carbon capture and storage) on industrial
+hydrogen production is much more affordable than on fossil power
+plants: 1. Hydrogen production from natural gas, e.g. by steam methane
+reforming, results in a pure CO2 stream, while power plants produce a
+mixture.
+
+Right
+
+[Sputnik News](https://sputniknews.com/analysis/201906081075738684-oil-economic-forum/)
+
+Once you have got hydrogen, you have a phenomenal energy vector [..]
+And if you can replace natural gas and only lose say 15% of the
+heating value inefficiencies that is a pretty good deal because you
+can make the hydrogen with 100% carbon capture. Now, if you want to
+charge a battery in 10 minutes for a domestic car, you need hundreds
+of kilowatts of power, hundreds, you need thick cables, you need a lot
+of… and that infrastructure doesn't exist.
+
+True
+
+IMO the best point in the fossil cycle to go clean is in the
+beginning. Once hydrocarbon is "reformed" in to H2, all the way down
+the line the energy can remain clean. No risk of methane leaks, no
+risk of carbon.  Generating H2 this way is a win-win for all, both for
+fossil fuel companies and the public.
+
+
+
+
+# Q&A - 25/6
+
+A. Tooze, *Crashed*
+
+Whereas Russia had reacted to its humiliation in the 1990s by
+accumulating a substantial currency reserve, the East European states
+had no such defense. For them security lay in integration with the
+West, or at least so they imagined. With the Fed having used swap
+lines to stabilize a core group of economies in which American
+interests were undeniable, one might have expected the ECB to extend
+similar support to the East European neighbors of the eurozone.
+
+Membership in the EU and NATO was supposed to have promoted Eastern
+Europe from their inferior status in the global pecking
+order. Ex-members of the Warsaw Pact and former Soviet republics had
+eagerly refashioned themselves as exponents of Donald Rumsfeld’s new
+Europe. They now found their prospects for growth shattered and their
+governments thrown back to where their post-Communist careers had
+begun, as lesser sovereigns, and more or less resentful supplicants
+for international financial assistance. The IMF was their last
+resort
+
+<span style="color:red">Interesting</span>
+
+The book contends countries like Hungary were humiliated with the
+absence of financial help at the time of need. Need I remind ppl
+Orban's comeback year is 2010, 2 yrs after global fin crisis (which
+the book also says really needs to be treated as one crisis instead of
+a EU part and a US part).
+
+Tooze, *Crashed* 
+
+"In Beijing’s view, it was reckless American deficits that had driven
+the global imbalances. Now, instead of retrenching, Britain and
+America were talking about even more spending. With a week to go to
+the G20, on March 23 the Chinese central bank chairman, Zhou
+Xiaochuan, surprised the world by launching his own call for a new
+Bretton Woods. The Chinese had been at the original meeting in 1944
+and they knew their economic history. As far as Zhou was concerned, it
+was time to revisit the fundamental decisions made in 1944. It was
+thanks to America’s overweening power at the end of World War II that
+the dollar had been established as the global reserve currency. Ever
+since, America had been free to spend at will while accumulating huge
+deficits. To ensure true stability, as John Maynard Keynes had argued
+for the British delegation in 1944, the world needed a global monetary
+unit independent of any national currency. The obvious candidate, Zhou
+suggested, was the IMF’s unit of accounting and credit, the Special
+Drawing Rights (SDR)."
+
+<span style="color:red">Keynes' idea was bancor, not SDR</span>
+
+SDR is gold backed, controlled by IMF which is a terrible, terrible
+idea. Word is CH is buying lots of gold to prepare for an SDR
+future. That future might not come to pass and you might get stuck
+with that gold. Watch out.
+
+Deficits, and surplusses are not anybody's "fault"; we cannot
+"implore" countries to act nice, we need to design a system that will
+nudge actors in the optimal direction. 
+
+A. Tooze, *Crashed*
+
+Despite the decision endorsed by the president on March 15, Geithner
+never agreed with restructuring Citigroup. No one had ever unraveled a
+bank of Citigroup’s complexity. It was not clear that the Treasury had
+the resources and legal authority to carry it through. A protracted
+restructuring would spook ​the markets. In the words of a later
+postmortem compiled by one of Obama’s closest advisers, the Treasury
+“slow walked” the Citigroup proposal. Though this delaying action
+bordered on insubordination, Obama showed little inclination to impose
+his will [..]
+
+In the spring of 2009, rather than going over to the offensive, Obama
+and Geithner positioned themselves as the last line of defense for
+America’s financial system. It was their self-appointed mission to
+calm “the mob.” Of course, playing the good cop is a tried-and-tested
+negotiating tactic. But it is usually combined with stiff
+demands. Someone has to play bad cop. What was remarkable in 2009 was
+how little the Obama administration asked in return for the protection
+it offered. To the amazement of the hardened Wall Street deal makers,
+the only item on the table on March 27 was voluntary restraint on
+compensation. That was even less than Paulson had asked for six months
+earlier when he foisted TARP on them. In truth, if there were
+pitchforks being wielded by anyone in the spring of 2009, it was not
+by the Left against the banks but by the right-wing populists. With
+the lavish attention of Fox News and subsidies from friendly
+oligarchs, they were organizing themselves in the Tea Party
+movement. The target of their anger was not Wall Street but the
+liberals in the White House. The uncomfortable truth was that the
+Obamians lacked pitchforks of their own. Reviled by the Right and
+suspected by the Left of being in the pocket of Wall Street, as
+Geithner himself admitted, the administration would find itself in
+political “no-man’s land.
+
+<span style="color:red">Haha</span>
+
+So Bam gave the go-ahead and Geithner totally ignored him. Duh!
+
+G. Friedman
+
+On [24/6], U.S. national security adviser John Bolton will meet with
+his Israeli and Russian counterparts in Jerusalem [.. Russia] is
+allied with Iran, but that alliance has made Iran dependent, not
+equal. Russia is the only major power not hostile to Iran, but that’s
+already changing in Syria. If Russia turns on Tehran, it would
+intensify Iran’s isolation and array forces against Iran that it could
+not resist.
+
+In exchange for joining a powerful anti-Iran coalition, Russia will
+look to the U.S. – which can deliver its interests. Moscow will want
+an end to economic sanctions, a guarantee of U.S. neutrality on
+Ukraine, and likely a withdrawal of U.S. forces from Poland and
+Romania. While Russia may have interests in the Middle East, it’s
+these burning issues that it really cares about, and it is here that
+Russia will try to gain leverage. For the U.S., sanctions are not
+critical – neither Crimea nor eastern Ukraine are major issues – and
+while it doesn’t trust Russia enough to withdraw from Poland and
+Romania, Russia can probably live with that. Israel, for its part,
+would be happy with anything that massively weakens Iran.
+
+The talks may well stick to far more trivial issues than this, and
+there will be no grand bargain on the table. Yet, senior security
+officials from these three countries are not meeting in Jerusalem to
+make some pious declaration. It seems they’ll be there to do business"
+
+<span style="color:red">Hmmm</span>
+
+What is cooking up there?
+
+[Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=52)
+
+[Paraphrasing] Quantum mechanics isn't really a theory; it doesn't
+specify a physical ontology, as in "tell me what exists in the
+physical world, etc."  Copenhagen QM just computes some stuff, and
+pulls out random explanations out of its ass to justify its
+computational method.
+
+<span style="color:red">He is right</span>
+
+[Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=688)
+
+Schrodinger's cat is a thought experiment to point out the sillyness
+of Copenhagen QM. Schrodinger was trying to point out a flaw.
+
+<span style="color:red">Somehow it became a QM "teaching" tool</span>
+
+SC is not cooked up to give you a sexy, scifi talking point that u
+impress your friends with at a party. But somehow SC is now part of an
+accepted reality that is Cop QM.
+
+I guess people will do anything to be "mystified" with stuff.
+
+[Tim Maudlin](https://youtu.be/hC3ckLqsL5M?t=743)
+
+[How did we get here? Paraphrasing] Early on, Bohr's "magnetic
+personality" played a role, he mystified the field, said that "you
+can't understand QM and shouldnt be able to". Later bcz of the
+Americans, who like to "compute stuff", the attitude was just "shut up
+and compute".
+
+<span style="color:red">True</span>
+
+US culturally likes action, "doing it"; that could have been a factor
+too, they were culturally more susceptible to this stuff than the
+rest.
+
+Now we understand what Feynman meant when he said "if you think you
+understand QM you really don't". The brilliant educator that he was,
+he was trying to point out the state of QM as it was then.
+
+Why did Feynman follow suit with the rest? IMO he joined the field at
+a young age when Cop QM was accelerating. Then he contributed to the
+"computation" himself (Feynman diagrams are exactly that, a way to
+calculate) earning him the Nobel prize, so in many ways, he was badly
+placed to make a new path.
+
+TM
+
+All we have [in Cop QM] is a very effective method to make predictions.
+
+<span style="color:red">So Cop QM is the Deep Shit of physics?</span>
+
+Effective predictions, no explanations. Right on.
+
+Frederic Bastiat
+
+When goods don't cross borders, armies will
+
+<span style="color:red">Bastiat was a moron</span>
+
+Libertard, goldcucks love this guy tho. "When goods dont cross..?"
+Guess who was Germany's biggest trading partner before the world wars?
+It starts with F, ends with rance.
+
+Unfettered trade is not a win-win for all. Comparative advantage is
+false. Only a 1st year student of classical macro would believe this
+nonsense. Through [recent research](../../2017/08/production-gdp-globalization.md)
+(thanks to physicists barging into economics) we know that what matters is
+diversity of products each country produces, not some empty notion of
+"trade". "France should specialize on wine, UK on fish and chips". No;
+they should both dabble in wine making and fish and chips, in varying
+amounts sure, but the know-how for both products needs to exist in
+each country. That is how everyone wins.
+
+Question
+
+Why is the Davos label "Fourth Industrial Revolution" a bad name?
+
+<span style="color:red">Think of agricultural era</span>
+
+When agriculture was industrialized we didn't call it "the Second
+Agricultural Revolution". Agro was simply made better but as a way to
+arrange social interactions, it lost its importance. We were in a new
+age, the Second Wave.
+
+[Reza Aslan](https://youtu.be/1Gcdo_9TW9M?t=213)
+
+Jesus preached a reversal in the social order
+
+<span style="color:red">Right</span>
+
+Question
+
+Why was the left associated with anti-religious feeling for so long?
+
+<span style="color:red">They chose their enemy</span>
+
+In war the greatest luxury has to be choosing your enemy yourself. The
+so-called "conservatives" probably honed in on Marx (whose mental
+faculties were subpar to say the least) because of his anti-religious
+writings. He would be an enemy easier to fight.
+
+Question
+
+What sources are best to learn about the teachings of Jesus, Mohammad
+[not necessarily the same thing as Christianity or peasant Islam]?
+
+<span style="color:red">It is hard</span>
+
+For Mohammad, it takes a lot of trawling through his recorded sayings
+Hadith, cross checking everything. For Jesus I would look at Gospe of
+Thomas. My favorite part is "when you make the two one, and when you
+make the outside like the inside, and above like below; when you make
+the male and the female as one, then you will enter the kingdom of
+God".
+
+Question
+
+Do you feel rebellious?
+
+<span style="color:red">Not really</span>
+
+Sometimes, but I am mostly baffled why people cannot reach the
+simplest conclusions indicated by numbers, economics, history. Let's
+take religion; A figure who befriended thieves, all kinds of unruly
+characters is somehow the symbol of moralistic piousness, and the
+mafia-state of the time had nothing to do with his murder?
+
+Is this what Gurdjieff meant when he said 'everyone seems asleep'?
+
+# Q&A - 16/6
+
+Question
+
+Affirmative action works. But what happens when it is applied a black
+applicant vs. an Asian applicant? With equal qualifications, should
+the black student be preferred?
+
+Yes
+
+The legislation was intended for black students; because they need to
+battle more discrimination to get there, so the admission process
+needs to take that into account and apply reverse-discrimination in
+order to achieve the intended effect.
+
+In society the Asians have the exact opposite "problem" in a way, a
+form of positive discrimination on one specific area, "oh look at that
+Asian kid, he must be smart (US vernacular reserves the word 'smart'
+mostly for 'book-smart' as in person cranking through homework
+problems). For 1st, 2nd generation immigrants there are other cultural
+factors which could also be unfair on the Asian, Indian kids, maybe
+they don't want to be this certain way, the "smart" kid, pushed
+towards a particular direction. British comedian Sanjeev Bhaskar tells
+a story where he is informing his father that he wanted to be an actor
+when his father interrupts him and says "son, you mispronounce the
+word..  It's pronounced as _doctor_". The man wasn't joking, he
+wouldn't even hear the words, like it didn't register.
+
+Question
+
+How far has the integration in United States come? 
+
+Depends
+
+The society isn't color blind, non-discriminate, equal in most
+places. During college I remember a white femal friend telling us
+about her black roommate saying "she watches black shows all the
+time", in a near whispering fashion, as if sharing some surprising
+information. She didn't have black friends before college, not many
+did. Of course her roommate watched black shows, why wouldn't she?
+
+In US high schools it is a known fact that black students cluster, of
+course so do goths, white jocks, geeks, etc, ... The surprising place
+is Holywood, the liberal, "equality, diversity bastion" of America,
+where recently the lead actor Boseman, while talking about his
+experiences during filming of *Black Panther* said, during an
+interview "it was black people everywhere, it was so awesome!". So he
+was happy being only with black people; This is coming from a guy with
+some history in TV, movies, scifi and his first name isn't Tyron,
+Tabitha, or Momembe.
+
+This shouldn't be taken as Asians, black, Latinos cluster *all the
+time*. There are always interactivity, but it just ain't the
+Federation. Not yet.
+
+Photo
+
+![](https://raw.githubusercontent.com/muratk3n/thirdwave/master/en/tweets/2019/nancyjfk.jpg)
+
+Ha ha.. is that Nancy with JFK? 
+
+Better watch out.. he'd nail you on the spot if alone in the same room
+with him. He did that to this one girl u know. Basically rape. But
+hey, little rape here, little hair smelling there.. just a regular
+day for a Catholic.
+
+Question
+
+What is the biggest con in the world?
+
+Biggest con in the world is the fake news around the death of Jesus
+and the coopting of his legacy. Reality: He died because of the
+"landed interests" i.e. Rome.
+
+I want to make this point very clear: Italians killed Jesus.
+
+The empire killed him, and by extension the empire's descendent the
+Catholic Church. The schism was, and always is, between static,
+village-minded landowners (and their many empires) and adaptable, free
+wheeling foragers. If not in actuality, in spirit.
+
+What happened after his death...? So when Jesus was killed the
+establishment started the dance: he died, but he didn't actually die,
+he wasn't killed by us, killed by these other people (for which we'll
+take revenge for later, there'll be a guy with a funny mustache, don't
+worry, whose soldiers will make the exact same hand gesture as our
+soldiers -Ave Ceasar, Heil Hitler-, there'll be a price to pay). They
+continue the dance, he died, he didn't die, BUT he was a God, a deity
+(but he is dead?), for which you need a way to worship to, **which
+we'll provide to you**. The clerical class is born. Pre-Abrahamic
+bone-worshipping child sacrificing villager makes a comeback, now
+creating a worshipping seance towards a figure whose teachings were
+exactly the opposite . Mission accomplished.
+
+This is the biggest con in the world with the most far reaching
+consequences. It was genius.
+
+Question
+
+Should the CC continue to exist?
+
+Better safe than sorry
+
+I know the new gumba they got in there is trying to fix some stuff,
+but, just to be on the safe side, I think everyone's goal should be
+**to degrade and ultimately destroy** the Catholic Church. By extension
+all related Rome-like cultures need to be "degraded" as well.
+
+How are marital relations effected by agrarian era?
+
+When land became important it's inheritence became a huge issue, and
+by extension, knowing who your biological children are. The piousness
+around marriage, sex become prevalent here. Moralism is not due to the
+teachings of prophets, who were, in their time, political
+revolutionaries (left) fighting entrenced intrests.
+
+I repeat, piousness predate the prophets.
+
+But there is more: On the one hand there is the moralistic
+piousness. On the other, the landowners, now flush with cash who are
+hoarding wealth (because they can, wealth is based on land which can
+grow), they are also, at least the big ones, hoarding wives, because
+again, they can. You can see that "I'am entitled to this" attitude in
+sexual matters, like with JFK. Or other Catholics, or many others from
+"that part" of the world, culturally speaking.
+
+Look at how Trump, whose thinking is marred by the paisan he grew up
+with, being a serial cheater on his wives, including this last
+one. Same thing. The current wife, of course, being a good Catholic
+forgave him.
+
+The funny anectode here is that Mohammed actually tried *reducing* the
+number of wives men could marry to, trying to sneak in some sense,
+saying "you know it's really much better to be with one".  But like
+with many other things, "peasant propaganda" won the day. We are
+living in the world created by them.
+
+Question
+
+How was sexual relations pre-agro?
+
+Normal
+
+There were couples, men and women paid some attention to their child -
+why not? I hunt for fish, I hunt for one more and give it to this kid
+who kinda looks like me. People did have relations with other partners
+sometimes, but noone made a big deal out of it.
+
+I don't want to sugar coat it, men and women were not the *same* in
+all aspects of life, but the inequality between sexes was much less
+pronounced than during the agricultural era. During agro, 1st wave,
+there were also other weirdness (everything about these people is
+bunch of weirdo nonsense), sometimes in place of the male landowner
+you can end up with female landowner boss, the *hanımağa* as it is
+called in gobble-gobble (where all this shit started) which is just as
+repugnant as the male version.
+
+
+Question
+
+Is entertainment a 1st wave thing?
+
+Mostly
+
+From anthropologist Ian Morris [1]: "Hunter-gatherer bands had had
+broad geographical horizons but narrow social ones: the landscape
+changed but the faces did not. The early farmer’s world was just the
+opposite. You might pass your whole life within a day’s walk of the
+village where you were born, but what a place it was—full of shrines
+where the gods revealed themselves, festivals and feasts to delight
+the senses, and gossipy, nosy neighbors"
+
+Offering art in an enclosed space, you don't leave it, it comes to
+you, everything you need in that one cramped place... Sounds a lot
+like today, where people shun the environment, nature, but are
+entertained by some stupid box in your own room.
+
+But the subconcious is rebeling against this: why is Fortnite the most
+popular game today? What do you do in Fortnite? You are outside,
+running around, seeking shelter, fighting, trying to survive right?
+Isn't that pre-agro forager life?
+
+Question
+
+What defines normal?
+
+Good question
+
+Most of our sense of normal is still defined by our hunter-gatherer
+days, because we've been that way the longest. The teachings of
+prophets (philosophers / politicians) reflect this, and reliable texts
+that survive reveal an abhorrence for a particular way of life. Rumi,
+a famous Islamic cleric, said "spend a day in a village you won't
+recover for a month". He was like "there is some f..d up shit going on
+in there, u know wha Im sayin?  It creeps me the f..k
+out... Damn!". Well he didn't say that exactly but he meant it.
+
+A lot of comedy is based on the "normal" person from outside village
+looking in and telling on what's going on inside. When a comedian
+makes fun of people having relations with dogs, having quirks, they
+are making fun of the village. How else could you get fat if it wasn't
+for a surplus generation of food that's only possible in the agro
+area?  Hence the fat jokes. Obsession with sex; again only possible in
+an enclosed space where you have no other worries than fuckin.
+
+And [here](https://soundcloud.com/user-388476833/steven-strogatz-how-lies-in-mathematics-reveal-the-truth#t=7:35) is your moment of Zen...
+
+References
+
+[1] [WTWRFN](https://www.amazon.com/Why-West-Rules-Now-Patterns/dp/0312611692)
+
 
 
 

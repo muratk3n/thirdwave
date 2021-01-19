@@ -387,42 +387,180 @@ There is a Rush Hour clip 4 every situation
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+Q: Is it okay to print money for UBI?
 
+A: A portion of it can be funded by printing money, yes.
 
+Q: But then we have MMT.
 
+A: No.
 
+MMT gives any piece of legislation a chance to print (unnecessarily
+expanding the monetary base, debasing the money). As we all know,
+sausage making and money printing does not mix well. Imagine the
+scenario: "Congressmen from Ohio wants a bridge for his
+vote... Congresswoman from Idaho wants two. How to decide? No need!
+Everyone gets a bridge!"
 
+If printing is a one-shot deal, for a targeted legislation, especially
+for something like UBI, then it can be okay.
 
+Q: But US has the reserve currency, we can print whatever we want!
 
+A: You won't have the world's reserve currency any longer if you
+follow these funkers.
 
+Q: If internet publishing were completely decentralized, how would you
+handle filtering unwanted content?
 
+A: Easy. Let's say email, file sharing, social networking all become
+peer-to-peer with no need for "servers" that you "connect to"; they
+essentially become completely decentralized. Any computer knows how to
+connect only to a few computers next to it, which propagate the
+information further, so on. This is how Internet works at a base
+package level already.
 
+Then one could imagine, anyone could take / install / become consumers
+of "filter packages" for their social net, or any other internet app.
 
+In a household, parents would chose the appropiate filter package, at
+school the headmaster, at work the CTO. These packages would keep
+track of unwanted content, flag it good or bad, maybe relying on a hew
+hundred, or thousands filterers, employing whatever algorithms they
+like.
 
+So basically unwanted content is faught at the consumer end, not the
+publishing end. The latter is censoring, the former is consumer
+service.
 
+Q: We need to fix entitlements starting with social security [means
+abolish them]
 
+A: Calling these programs "entitlements" is tasteless.
 
+But, truth be told, social security was not designed for a time when
+many people lived beyond 65, that's why the system is defunct. It's
+best that it is be replaced with something like UBI where everyone
+gets a payment of some sort anyway. Politicking for this can be in
+different ways; Andrew Yang, the UBI candidate, smartly "does not
+touch that rail", folding socsec into his UBI plan, declaring "if you
+get socsec payments already, you will not get UBI". And while UBI
+funding is being worked out, I guess socsec would also be saved on the
+side, within the same legislation.
 
+Q: Why were unions were weak in United States?
 
+A: I bet unions were historically weak in US because of a
+readily-available migrant work force (and later bcz of
+automation). Then left could not cut its teeth on labor movements, and
+US missed out other things in succession that are related; healthcare,
+etc.
 
+(Social security really is not an achievement as many were supposed to
+die before collecting their checks)
 
+I remembered this because of "the greatest Canadian" Tommy Douglas. He
+was a pastor (confirming the religion / left connection thesis), then
+became politically active during labor protests, joined politics,
+ended up implementing universal healthcare, at state level which was
+later copied by others.
 
+But didn't Canada have migrants? Yes but not as many as in US. I mean,
+seriously, Canada. Who would live there? The place is not for the
+faint of heart. US could attract labor from all over the world easier,
+then from its neighbor, Mexico.
 
+Note: From a different angle, universal healthcare, at a
+politico-subconcious level, could also be Canada's way of enticing
+people to go there. Just a theory... Now things are equalizing of
+course, US needs to handle this healthcare business too. The bloated
+insurance companies are sucking the life out of companies,
+enterpreneurs, and family budgets.
 
+[Twitter](https://mobile.twitter.com/farbodsaraf/status/1107393728363315201)
 
+President Ronald Reagan's final speech was a love letter to immigrants
 
+A: Of course
 
+Not to bad-mouth the gipper, but his fights with the labor unions are
+well-known, and increasing immigration is one way to fight organized
+labor, to provide cheap labor to businesses. Koch brothers like
+immigration too.
 
+[Twitter
+User](https://mobile.twitter.com/garrygolden/status/1104850079985401856)
 
+"We don't need recharging stations because everyone will plug in at
+home."... lies battery enthusiasts tell themselves. H2 stations for
+FCEVs will scale like gasoline stations. No grid balancing
+costs. Cheaper at scale..."
 
+A: True
 
+Q: Is peer interaction necessary for education?
 
+A: Right now it might be because the ed content sucks so bad. The
+solution is not to increase peer interaction, but to increase ed
+content quality.
 
+I heard a student say friends are necessary for good grades. But this
+particular student's profile is Lonesome Cowboy No More; they have a
+tendency to go solo, but their dev path goes thru working with people,
+even mindmelding with them to such degree they lose themselves in
+rel. But this is their personal journey; not to be projected to a
+global scale. Let's remember MOOCs bombed and they were highly
+interactive. What they needed to be was to be async (class does not
+"start" or "end"), and quality had to be better. Why have one lecturer
+when u can have two, or three? Have'em explain the same
+thing. Complement it with alternates such as KhanAcademy,
+3Blue1Brown. Disk space is cheap.
 
+Studying for class with friends is like blindfolded ppl touching an
+elephant in many ways.. Everyone feels a part, then everyone shares
+notes. Class is the elephant and students are the blindfolded
+people...
 
+That's all fine but someone can come in and just flick on the light
+and take off the blindfolds.
 
+Q: But you said current lecturing scheme is not enough
 
+A: Yes
 
+Right now the model is some jackass in front of the blackboard,
+talking, writing. I want that jackass (also called a teacher) to be
+replaced by a reputable researcher, and his videos be made
+available. Videos can be rewound, watched, rewatched. I want students
+to see how a master thinks. Then you complement that with new age
+teaching material, such as KhanAcademy, 3Blue1Brown. Then you add a
+certification mechanism [around it](../../2018/09/public-education.md)
+, now you are starting to get a semblance of education, that can be
+scaled.
 
+That's my thing; cost and scale. If you can go to Harvard, go to
+Harvard. Cheat, bribe, do whatever fuck u want to do. Such people are
+not the focus here.
 
+Q: Should class material be available to anyone?
+
+A: Yes
+
+The content should be open to all. We need to distance ourselves from
+this "signup to class", "drop class" mentality when talking about
+educational content. A student usually has no idea what any major
+entails, which direction s/he needs to go, what subjects s/he may
+like. With freely available content, they can watch hours of lectures
+before deciding.
+
+Comment: We are now in the Fourth Industrial Revolution
+
+A: I wish ppl stopped misusing the word "industrial revolution". I was
+against this when Rifkin used it (third IR) and I am certainly against
+it when Davos/Biden crowd uses it (fourth IR). Waves are better.
+
+When you say things like fourth industrial revolution, people are
+naturally like, "wait, what happened to the other two?". I understand
+the urge "confuse and mystify", "to sound interesting and cool", but
+clarity in communication should be always be preferable to other options.
 
