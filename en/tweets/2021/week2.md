@@ -29,7 +29,7 @@ spinach, in the same family
 
 ---
 
-Showed calculation [before](2020/07/h2-numbers.md#arabia); Replacing
+Showed calculation [before](../../2020/07/h2-numbers.md#arabia); Replacing
 Saudi Arabia's oil output with solar equiv w/ panels wld need a square
 area with 290 km on each side. A big area. Then, at least at first,
 renewable fuel generation through fossil + CCS at the source could
@@ -553,7 +553,7 @@ of currency on their own. Some elderly couples whose savings had been
 destroyed would go into the kitchen, hold hands, place their heads in
 the oven and turn on the gas in a poignant form of suicide"
 
-[Link](2016/03/hyperinflation.md)
+[Link](../../2016/03/hyperinflation.md)
 
 ---
 
