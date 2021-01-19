@@ -1,4 +1,3 @@
-# YDB - 1/10
 Demokratikleşme paketinin içeriği önemli [.. e]lbette pakette eksikler var; ancak bu, olanları görmezden gelmemizi 
 gerektirmez.
 
@@ -21,16 +20,6 @@ zaman:
 
 Ekim 01, 2013
 
-
-
-
-
-
-
-
-
-
-# YDB - 17/10
 Reform için referans gösterilen ve [bir kısım] İslami çevrelerin de çok övgü düzdüğü bu Osmanlı çoğulculuğu, aslında eşitsizliği esas alır; Müslüman üstünlüğüne dayanır ve neredeyse Hindistan kast sistemine yakın bir sistem savunur.
 
 Doğru

@@ -1,4 +1,3 @@
-# YDB - 7/5
 
 Bir yazar
 
@@ -32,8 +31,6 @@ Aynen oyle
 
 Merkel Abla guzel soylemis. Herr Goethe Bach. Ja.. Ich mochte sis kofte.
 
-# YDB - 15/5
-
 Eser Karakas
 
 Çok ilginç bir toplumsal dönüşümün içinden geçiyoruz. Toplumda, hem Türkiye’de, hem dünyada birileri bu dönüşümü algılıyor, birileri de algılayamıyor. İşin ilginç tarafı bu dönüşümü algılamada en sorunlu kesimin eğitim sektörü ve çalışanları olması. Eğitim-öğretim sektörü çalışanları bu dönüşümü algılayamadıkları ölçüde de sektör ekonominin gerisine, çok gerisine düşüyor.
@@ -55,7 +52,6 @@ Müfredat anlayışı tümüyle değişmek zorundadır diyenlere de en çok tepk
 Dogru
 
 Ozellikle iyi üniversite, kötü üniversite tanimi tam isabet.
-# YDB - 2/5
 
 Ibrahim Kiras
 

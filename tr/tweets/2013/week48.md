@@ -1,4 +1,3 @@
-# YDB - 23/12
 Yolsuzluk ve rüşvet operasyonunun ‘[..] sınırlarını aşan Türkiye’ye karşı bir komplo’ olduğuna dair hummalı bir savunmadır gidiyor [..] 
 
 Bir kere Türkiye’nin ilk kez kendi sınırlarını aştığı savı safi propaganda. [..] Düne kadar iktidar çevreleri “Obama ile en fazla konuşan lider Erdoğan” diye böbürlenmiyor muydu? Ne oldu da Türkiye gözden düştü? İşte burada komplolara sarmak yerine bir muhasebe yapılmalı! Türkiye’nin kredisini bitiren faktörler tartışılmalı; maceracılık, aşırı hevesler, altyapı olmadan açılma hırsı, büyüklük hastalığı, kendi iç sorunlarını çözmeden komşunun benzer sorununa uzanma alışkanlığı, müdahalecilik, mezhepçilik ve bunların kaçınılmaz sonucu olan dışlanmışlık konuşulmalı. ‘Değerli yalnızlık’ safsatasına girmeden “Nerede hata yaptık” diye sorulmalı. 

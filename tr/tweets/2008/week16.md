@@ -1,5 +1,40 @@
-# YDB - 21/4
-Erdal SafakMalthus daha o çağda (200 yıl önce) nüfus ile besin maddelerinin farklı dizinde çoğalmalarını dengeleyen savaş, salgın hastalıklar gibi "doğal" nedenlerin, bir yandan uluslararası ilişkilerdeki gelişmeler, bir yandan da tıbbi, biyolojik, kısaca teknolojik buluşlar sayesinde etkinliğini yitirmesi sonucu insanlığın eninde sonunda "beslenme krizi" ile karşı karşıya kalacağını iddia ediyordu. [..] Evet, dünya nüfusu artıyordu ama teknolojik devrim sayesinde, tarımsal üretimde dünya nüfusunu besleyecek düzey yakalanmıştı. Meğer hayalmiş.Yanlis 1) Malthus bahsedilen felaket tahminini 18. yuzyilda yapti, arkasindan 19. ve 20. yuzyillarda onun bekledigi felaket ortaya cikmadi cunku endustriyellesme verimliligi arttirarak besin uretimini arttirdi. Demek ki teori cuvalladi. Eger "ama yeterince bekleyince denklem dogru cikiyor" derseniz, buna bilimsel dangalaklik denir. Durmus saat bile gunde iki kere dogru vakti gosterir. Evet yeterince beklerseniz, bir sure icin herhangi bir denklem herhangi bir konuyu kisa bir sure icin aciklayabilir - ama bunu tutarli, surekli ve uzun vadeli yapabiliyor mu? Surekli kendimize sormamiz gereken soru budur.2) Malthus'un nufus buyumesini gosteren matematiksel bir denklemi de vardir, fakat cok ilginctir ki bizzat kendi one surdugu yiyecek sIkIntisi, hastaliklar gibi kisitlayici sartlari bu denkleme almamistir. Bu sartlarin denkleme eklenmesi icin 19. yuzyilda Pierre Francois Verhulst'u beklememiz gerekecekti. Verhulst daha once bu blog'da isledigimiz logistic fonksiyonu kesfeder ve nufus hesaplari bu ek ile veriyi daha iyi aciklmaya baslar.Malthus tahminleri ile logistic tahminleri yanyana plot edin, bir sure sonra Malthus'un cuvallamaya basladigini, ama logistic fonksiyonun dogru tahmine devam edecegini goreceksiniz (bkz alttaki plot'lar - soldaki logistic denklem)Bunu bir not olarak dusmek istedik, Safak'in ana soylemi ile ilgisi yok, fakat Malthus'un eksikleri ile bir ilgisi var.--Ozet olarak: Nufus artisi kendi kendini besleyen bir dinamige sahiptir, 19.,20. yuzyillarda bu kendini besleme "endustriyellesme" uzerinden olmustur, insanoglu yeni bir uretim sekli kesfetmistir ve kendini daha iyi besleyebilmistir,  simdi de bu biyoteknoloji, otomize tarim gibi innovasyonlar uzerinde olacaktir. Genetik bazi kodlari degistirerek kafaniz kadar domatese sahip olabilirsiniz.Bazi ornekler:Capisc?
+Erdal Safak
+
+Malthus daha o çağda (200 yıl önce) nüfus ile besin maddelerinin
+farklı dizinde çoğalmalarını dengeleyen savaş, salgın hastalıklar gibi
+"doğal" nedenlerin, bir yandan uluslararası ilişkilerdeki gelişmeler,
+bir yandan da tıbbi, biyolojik, kısaca teknolojik buluşlar sayesinde
+etkinliğini yitirmesi sonucu insanlığın eninde sonunda "beslenme
+krizi" ile karşı karşıya kalacağını iddia ediyordu. [..] Evet, dünya
+nüfusu artıyordu ama teknolojik devrim sayesinde, tarımsal üretimde
+dünya nüfusunu besleyecek düzey yakalanmıştı. Meğer hayalmiş.Yanlis 1)
+Malthus bahsedilen felaket tahminini 18. yuzyilda yapti, arkasindan
+19. ve 20. yuzyillarda onun bekledigi felaket ortaya cikmadi cunku
+endustriyellesme verimliligi arttirarak besin uretimini
+arttirdi. Demek ki teori cuvalladi. Eger "ama yeterince bekleyince
+denklem dogru cikiyor" derseniz, buna bilimsel dangalaklik
+denir. Durmus saat bile gunde iki kere dogru vakti gosterir. Evet
+yeterince beklerseniz, bir sure icin herhangi bir denklem herhangi bir
+konuyu kisa bir sure icin aciklayabilir - ama bunu tutarli, surekli ve
+uzun vadeli yapabiliyor mu? Surekli kendimize sormamiz gereken soru
+budur.2) Malthus'un nufus buyumesini gosteren matematiksel bir
+denklemi de vardir, fakat cok ilginctir ki bizzat kendi one surdugu
+yiyecek sIkIntisi, hastaliklar gibi kisitlayici sartlari bu denkleme
+almamistir. Bu sartlarin denkleme eklenmesi icin 19. yuzyilda Pierre
+Francois Verhulst'u beklememiz gerekecekti. Verhulst daha once bu
+blog'da isledigimiz logistic fonksiyonu kesfeder ve nufus hesaplari bu
+ek ile veriyi daha iyi aciklmaya baslar.Malthus tahminleri ile
+logistic tahminleri yanyana plot edin, bir sure sonra Malthus'un
+cuvallamaya basladigini, ama logistic fonksiyonun dogru tahmine devam
+edecegini goreceksiniz (bkz alttaki plot'lar - soldaki logistic
+denklem)Bunu bir not olarak dusmek istedik, Safak'in ana soylemi ile
+ilgisi yok, fakat Malthus'un eksikleri ile bir ilgisi var.--Ozet
+olarak: Nufus artisi kendi kendini besleyen bir dinamige sahiptir,
+19.,20. yuzyillarda bu kendini besleme "endustriyellesme" uzerinden
+olmustur, insanoglu yeni bir uretim sekli kesfetmistir ve kendini daha
+iyi besleyebilmistir, simdi de bu biyoteknoloji, otomize tarim gibi
+innovasyonlar uzerinde olacaktir. Genetik bazi kodlari degistirerek
+kafaniz kadar domatese sahip olabilirsiniz.Bazi ornekler:Capisc?
 
 
 
@@ -23,7 +58,6 @@ Nisan 21, 2008
 ![](ml.JPG)
 ![](veg3.jpg)
 ![](veg1.jpg)
-# YDB - 25/4
 
 Taha Akyol
 
@@ -62,7 +96,6 @@ Televizyon seyretmedigimiz [1] icin bilmiyoruz ama tarif edilen turden sozler so
 [1] Ayrica tam anlamiyla "gazete okudumuguzu" soylemek te zor. Kose yazarlarina ek olarak, laikci yobaz olmayan bazi gazetelerin basliklarina, goze carpan tek tuk habere bakip, Google News, ya da diger "birlestirici" kaynaklardan haber aliniyor daha cok. Kitle haberciligin cokmeye basladigindan bahsetmistik, buyrun iste.
 
 [2] Fakir insanlar, demokrasi sayesinde, sistemden hatiri sayilir seviyede sosyal yardim koparmayi da basarmislardir (hatta Turkiye'de sistemin verebileceginden fazla!) Bu da sistemin isleyisine dahildir - sosyal yardimin optimal seviyesi suc oranini en az seviyede, ve kisiyi merkeze bagimli hale getirmeyecek ve merkezin verebilecegi en fazla orandir. Insanlari bagimliliktan kurtarmak ileride dijital egitim uzerinden olabilir - sinif, tahta, hoca merkezli olmayan daginik ve olceklenebilen bir egitim.
-# YDB - 18/4
 
 Hurriyet
 
@@ -119,7 +152,6 @@ Ayrica - polemigin de siyasette yeri vardir - secmene o konu hakkinda bir sey so
 Yanlis
 
 Yarinin planlanmasi gecmisi anlamayi gerektirir, siyaset de yarina donuk bir enstruman olduguna gore, tarihin siyasette gundeme gelmesinde hicbir mahsur yoktur.
-# YDB - 20/4
 
 Ishak Alaton
 
@@ -147,8 +179,6 @@ Aclik tehlikesi ve kapitalizme gelirsek: Eger ortada bir arz sIkIsmasi var ise, 
 
 Bu konuda suclanacak biri varsa bu, Irak uzerinden kuresel guc oyunlari oynayip dunya stabilitesini bozan, petrol fiyatinin artmasina, bilahere bunun yiyecek fiyatlarina yansimasina sebebiyet veren, kuresel isinma hakkinda basit cozumlere yonelip yiyeceklerin yakitlastirilmasina sebep olan ve boylece tum dengelerin icine eden ABD sahinlerinden baskasi degildir.
 
-# YDB - 2/4
-
 Ali Bayramoglu
 
 Bu darbe hamlesi savuşturulmalıdır. Ve bunun tek bir yolu var: İçinde Anayasa Mahkemesi değişikliklerinin de olacağı sivil ve demokratik bir anayasayla referanduma gitmek…
@@ -168,7 +198,6 @@ Küba merakım henüz "cinnet yıllarım"a yelken açarken başladı. GİTTİM k
 Dogru
 
 Devletcilik, sosyalizm, yobaz Kemalizm, ve pek cok diger kollektif "izm"'ler deger uretememeye (cunku uretimin temeli olan bireyi hicbir zaman gerektigi kadar tesvik edemezler) bilahere halklarini ac birakmaya mahkumdurlar. Ama ilginc olan bu tespit degildir - ilginc olan, 21. yuzyilda hala bu ornekleri romantize etmeye calisanlarin olabilmesidir. Belki de bunun sebebi psikolojik bir korkudur - deger uretemeyenler, ve uretemeyeceklerini bilenler, uretebilenlerin elindekine goz koymakta ve bunu mumkun kilacak mekanizmayi mesru hale getirmeye ugrasmaktadirlar. "Birbirine yardim" kisvesi altinda devlet merkezli gasp sisteminden baska bir sey olmayan sosyalizmi bu devirde desteklemelerinin baska bir aciklamasi olamaz.
-# YDB - 12/4
 
 Mehmet Barlas
 
@@ -229,7 +258,6 @@ Daha fazla ekleyecek bir sey yok.
 [3] Burada Turkiye'ye ilginc bir paralel var: Clinton bu (ucuncu) yolda ilerlemeye basladiginda parti icindeki statukoculardan cetin bir tepki aldi. Yenilik icin ortaya koyduklarini "secim kazanmak icin soyluyor bunlari" diyerek kotuleyen, onu bu sekilde sucladigini zanneden statukocu yobaz Demokratlar bile cikmisti! Clinton hatirasinda ciddi bir alayla (sarcasm) durumu soyle aktarir: "Demek ki secim kazanmak artik biz Demokratlarin yapmamasi gereken bir seydi". CHP'ye ne kadar benziyorlarmis degil mi? :)
 
 [4] Hatta yeni teknolojilerin Amerikan askeri doktrinine yansimalarinda etkili olanlar, Toffler ciftinin bizzat kendileridir. Daha fazla bilgi icin sag kolondaki "General Donn Starry" baglantisina bakabilirsiniz.
-# YDB - 13/4
 
 
 
@@ -248,8 +276,64 @@ Nisan 13, 2008
 
 
 
-# YDB - 6/4
-MilliyetTürkiye İstatistik Kurumu (TÜİK) 31 Aralık 2007 tarihi itibarıyla adrese dayalı nüfus kayıt sistemiyle Türkiye nüfusunu 70 milyon 586 bin 256 olarak saptarken, [..] gibi uluslararası kuruluşlar içinde bu rakama en yakın tahmin Amerikan Sayım Bürosu’ndan (US Census Bureau) geldi. [..] Başta Amerikan Haber Alma Teşkilatı (CIA) olmak üzere çok sayıda kuruluşun rakamlarını kullandığı Amerikan Nüfus Bürosu, 2007 temmuz ayı itibarıyla verdiği 71 milyon 158 bin 647’lik nüfus rakamıyla, Türkiye nüfusunu en iyi tahmin eden kuruluş oldu.Zor bir sey degilBahsedilen hesap, differansiyel matematikte yapilan en basit hesaplardan biridir. Temeli lojistik denklem denen bir modele gider - bu modelin ortaya cikarilmasinda cok guzel bir yaraticilik ve zeka var, ona ileride belki geliriz, ama denklemi biliyorsaniz, ki nufus hesabinda lojistik denklem kullanildigini akademide herkes bilir, tarihi (historical) veriye bakarak ileri dogru tahmin (projection) yapmak cok kolaydir. Once lojistik denkleme bakalim:Bu denklemde sabit degerler r ve K degerleridir, Nt ise donemlik nufus degerleri. Nt degerlerini veriden gelecek, sabit degerleri tarihi veriyi isleyerek bizim cikartmamiz gerekiyor. Burada hemen bir matematiksel takla atmak lazim.Eger Nt'yi sol tarafa alip, iki tarafi Nt ile bolersek elimize dogrusal denkleme benzeyen bir sey gelecek.Yani denklem y = mx + c denklemine benzeyecek, c bizim r, m yani egim (slope) bizim -r/K oluyor. Guzel.Simdi sabitleri veriden cikarmaya gelelim. Ustteki gibi bir denklem kullanarak veriyi ona uydurup (fitting) m ve c degerlerini bulmanin yoluna lineer cebirde "regresyon" denir. En baz matematik paketinde bile bunu yapan bir fonksiyonu bulabilirsiniz. Biz Python Numpy diye bir paketteki polyfit adli fonksiyonu kullanacagiz. Bu arada hemen Turkiye'nin nufus verisini ekte verelim (TUIK'ten indirdik)1940 178211945 187901950 209471955 240651960 281601965 318381970 354641975 395851980 441051985 493991990 541301995 588642000 636272005 68143Bu veriyi nufus.txt diye bir dosyaya kaydedin. Simdi Python bilgisayar programini verelim:from pylab import *pdata = loadtxt('tr.txt')pdiff = diff(pdata[:, 1])pratios = pdiff / pdata[0:-1, 1]p = polyfit(pdata[0:-1, 1], pratios, 1)r = p[1]K = -r/p[0]prev = pdata[-1,1] # en sonuncu veri noktasini alprevy = pdata[-1,0]for i in arange(4):   curr = prev + (r * prev)*(1-(prev/K))   curry = prevy + 5   print(curry, curr)   prevy=curry   prev=currBu kadar!Bu programi islettiginizde elinize gelecek sonuc 2005 yili icin 69,563,000 degeridir.Yukaridaki kodda ekrana basmak icin kullanilan kodlari gecerseniz, gercek hesabi yapan bolumler 7-8 satirdan ibarettir. Yani demek istedigimiz gazeteler bilimsel konularda allama pullama yapmadan once bir biline danisirlarsa, bilgilendirici ozelliklerini arttirabilirler, onemsiz seyleri insanlarin gozunde buyutmekten de kurtulurlar. Ustteki hesap herhangi bir universitede matematik ogreten bir hocanin uykusunda cevaplayabilmesi gereken bir sorudur.Tayyip ErdoganBazıları rahatsız oluyor, Başbakan 3 çocuk yapın dedi diye. Şu andaki nüfus artış oranıyla devam edersek, 2037'de nüfusunuz yaşlı nüfus haline gelecektir. [..] En az 3 çocuk yapın.Hala dogruDaha once belirttigimiz gibi, bahsedilen rakam dogru. Saglikli nufus buyumesi icin gelismis ulkelerde aile basina 2.1 cocuk, gelismekte olan ulkelerde 2.5 ile 3.3 cocuk arasi gerekir (gelismekte olan ulkelerde daha fazla olum oldugu icin). Bu rakamlari, mesela 2.5'i, "genel (blanket)" beyanlar yapmak zorunda olan basbakan gibi biri 3'e dogru "yukari" yuvarlayabilir. Beyan, matematiksel olarak dogrudur.
+MilliyetTürkiye İstatistik Kurumu (TÜİK) 31 Aralık 2007 tarihi
+itibarıyla adrese dayalı nüfus kayıt sistemiyle Türkiye nüfusunu 70
+milyon 586 bin 256 olarak saptarken, [..] gibi uluslararası kuruluşlar
+içinde bu rakama en yakın tahmin Amerikan Sayım Bürosu’ndan (US Census
+Bureau) geldi. [..] Başta Amerikan Haber Alma Teşkilatı (CIA) olmak
+üzere çok sayıda kuruluşun rakamlarını kullandığı Amerikan Nüfus
+Bürosu, 2007 temmuz ayı itibarıyla verdiği 71 milyon 158 bin 647’lik
+nüfus rakamıyla, Türkiye nüfusunu en iyi tahmin eden kuruluş oldu.Zor
+bir sey degilBahsedilen hesap, differansiyel matematikte yapilan en
+basit hesaplardan biridir. Temeli lojistik denklem denen bir modele
+gider - bu modelin ortaya cikarilmasinda cok guzel bir yaraticilik ve
+zeka var, ona ileride belki geliriz, ama denklemi biliyorsaniz, ki
+nufus hesabinda lojistik denklem kullanildigini akademide herkes
+bilir, tarihi (historical) veriye bakarak ileri dogru tahmin
+(projection) yapmak cok kolaydir. Once lojistik denkleme bakalim:Bu
+denklemde sabit degerler r ve K degerleridir, Nt ise donemlik nufus
+degerleri. Nt degerlerini veriden gelecek, sabit degerleri tarihi
+veriyi isleyerek bizim cikartmamiz gerekiyor. Burada hemen bir
+matematiksel takla atmak lazim.Eger Nt'yi sol tarafa alip, iki tarafi
+Nt ile bolersek elimize dogrusal denkleme benzeyen bir sey
+gelecek.Yani denklem y = mx + c denklemine benzeyecek, c bizim r, m
+yani egim (slope) bizim -r/K oluyor. Guzel.Simdi sabitleri veriden
+cikarmaya gelelim. Ustteki gibi bir denklem kullanarak veriyi ona
+uydurup (fitting) m ve c degerlerini bulmanin yoluna lineer cebirde
+"regresyon" denir. En baz matematik paketinde bile bunu yapan bir
+fonksiyonu bulabilirsiniz. Biz Python Numpy diye bir paketteki polyfit
+adli fonksiyonu kullanacagiz. Bu arada hemen Turkiye'nin nufus
+verisini ekte verelim (TUIK'ten indirdik)1940 178211945 187901950
+209471955 240651960 281601965 318381970 354641975 395851980 441051985
+493991990 541301995 588642000 636272005 68143Bu veriyi nufus.txt diye
+bir dosyaya kaydedin.
+
+Simdi Python bilgisayar programini verelim:from
+pylab import *pdata = loadtxt('tr.txt')pdiff = diff(pdata[:,
+1])pratios = pdiff / pdata[0:-1, 1]p = polyfit(pdata[0:-1, 1],
+pratios, 1)r = p[1]K = -r/p[0]prev = pdata[-1,1] # en sonuncu veri
+noktasini alprevy = pdata[-1,0]for i in arange(4): curr = prev + (r *
+prev)*(1-(prev/K)) curry = prevy + 5 print(curry, curr) prevy=curry
+prev=curr
+
+Bu kadar!Bu programi islettiginizde elinize gelecek sonuc 2005 yili
+icin 69,563,000 degeridir.Yukaridaki kodda ekrana basmak icin
+kullanilan kodlari gecerseniz, gercek hesabi yapan bolumler 7-8
+satirdan ibarettir. Yani demek istedigimiz gazeteler bilimsel
+konularda allama pullama yapmadan once bir biline danisirlarsa,
+bilgilendirici ozelliklerini arttirabilirler, onemsiz seyleri
+insanlarin gozunde buyutmekten de kurtulurlar. Ustteki hesap herhangi
+bir universitede matematik ogreten bir hocanin uykusunda
+cevaplayabilmesi gereken bir sorudur.Tayyip ErdoganBazıları rahatsız
+oluyor, Başbakan 3 çocuk yapın dedi diye. Şu andaki nüfus artış
+oranıyla devam edersek, 2037'de nüfusunuz yaşlı nüfus haline
+gelecektir. [..] En az 3 çocuk yapın.Hala dogruDaha once belirttigimiz
+gibi, bahsedilen rakam dogru. Saglikli nufus buyumesi icin gelismis
+ulkelerde aile basina 2.1 cocuk, gelismekte olan ulkelerde 2.5 ile 3.3
+cocuk arasi gerekir (gelismekte olan ulkelerde daha fazla olum oldugu
+icin). Bu rakamlari, mesela 2.5'i, "genel (blanket)" beyanlar yapmak
+zorunda olan basbakan gibi biri 3'e dogru "yukari"
+yuvarlayabilir. Beyan, matematiksel olarak dogrudur.
 
 
 
@@ -272,7 +356,7 @@ Nisan 06, 2008
 
 ![](form1.JPG)
 ![](form2.JPG)
-# YDB - 14/4
+
 MilliyetWeb browser'ı Firefox'un ünlü logosunun arkasındaki sır çözüldü. 17 Aralık 2002 tarihinde Hubble Uzay Teleskopu tarafından çekilen bir uzay fotoğrafı akıllara Firefox'un logosunu getirdi.YanlisKimin aklina getiriyor? Hangi kaynaga gore bunu akla getiriyor? Firefox logosunun ortaya cikisi hakkinda gercekleri o logoyu yaratanin kendi agzindan ifadelerle surada bulabilirsiniz. Zaten logoya biraz yakindan baksaniz, onun "dunyayi sarmalayan ates (fire) kuyruklu bir tilki (fox)" resmi oldugunu gorebilirsiniz. Biraraya koyalim: Fire..fox. Capisci? Bakin solda kafasi var, sarmaladigi "seyin" rengi mavi, bir kure (yani dunya), uzerinde kitalar falan gozukuyor yahu!Sanatcinin bu imaji yaratirken esinlendigi "esas goruntu" alttadir. Tek bir Google aramasi ile bu bilgilere 2 dakikada ulasabilirlerdi - "firefox logo icon" kelimeleri yeterli. Geri gelen sonuclarda (hits) en ustteki  bilgiyi veriyor.Gazetelerimiz bu tur haberleri yayinlamadan once bir bilene danisirsa insanlara yanlis bilgi vermekten kurtulacaklardir. Lutfen, biraz kafa ve parmak calistiralim.Mehmet BarlasBizim petrolümüz veya doğal gazımız yok. Bizim bu coğrafyadaki en büyük doğal zenginliğimiz "güvenilir ve istikrarlı demokrasimiz"dir.EksikSn. Barlas bu soyleminde Polonya basbakani Donald Tusk'tan "esinlenmis" (simdi gencler buna "Indra Gandi yapmak" diyor galiba :)). Fakat  Polonya basbakaninin  kendi ulkesi icin soylediklerinin Turkiye icin birebir gecerli oldugunu, kelimesi kelimesine soylemek zor. Soylesiyi okursaniz basbakan "bizde turizm yok, hi-tech yok" diyor. Bunlardan birincisi bizde var, ikincisi de kesinlikle ulasabilecegimiz bir hedeftir. Ozgurluk lazim degil demiyoruz, dogal kaynak kelimesi hafiften acaiptir... Bizce, ozgurluge bilgi ekonomisinin "vazgecilmez/tetikleyici ogesi/arka plani"  olarak bakmak daha dogru.. Bilgi ekonomisinde gercek hammadde, dogal kaynak, bilginin ta kendisidir. O hammaddeye erisim, isleyebilme, vs. baglaminda ozgurluklerden bahsedilebilir.Ve bu baglamda ozgurlukler kesinlikle buyuk onem tasirlar.
 
 
@@ -296,7 +380,6 @@ Nisan 14, 2008
 
 ![](fft17_mf26306.Jpeg)
 ![](freal.JPG)
-# YDB - 23/4
 
 Serdar Turgut
 

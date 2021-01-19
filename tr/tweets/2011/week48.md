@@ -1,4 +1,3 @@
-# YDB - 19/12
 
 Ali Bulac
 
@@ -49,7 +48,6 @@ Ancak askerlik süresiyle eşit bir hapis cezası bile pek güvenilir olmayabili
 Diğer bir deyişle bu yasa kendisini gülünç durumda bırakan bir tasarrufa dönüşebilir. AKP farkında olmayabilir, ama gençlere 'haydi hepimiz hapse!' türünden bir kampanya açmalarının zeminini de sağlamış oluyor ve muhtemelen bununla nasıl başa çıkılacağı hakkında bir fikre sahip değil. Hüzünlü ama doğrusu keyifli bir süreç olacak... Toplumsal değişim isteğinin ve evrensel taleplerin önünü kesebilecekmiş gibi yapan her iktidar gibi, AKP de utanacağı ve yenik düşeceği bir süreç yaratmak üzere.
 
 Doğru
-# YDB - 23/11
 
 Bülent Arınç
 
@@ -79,8 +77,6 @@ Tahmin edilirlik hızla kayboluyor. Uzun vadede yeni bir ödüllendirme / kazan�
 
 [1] Bence bu senaryoda devlet tüm diğer sosyal servisleri kaldırır. Mesela ABD'deki sosyal güvenlik fonu, tıbbi ilaç ve muayene için ödenen paraların tamamı.
 
-# YDB - 24/12
-
 Yorumcu
 
 Milliyetçiliğin tersi olan enternasyonalizm [..]
@@ -98,8 +94,6 @@ Eğer o bağlantısal kararlar ülke değil, bir kıta, dünya çapında alını
 Dahası da var tabii; merkezi mesaj pompalayamazsan, vatandaşı standardize edemezsin, beyaz yakalı koyun gibi güdülemez yani zorunlu askerliği istemez, senkron hayat yaşamaz, o zaman hayat karışır, tanzim edilemez, tanımlanamaz bir şey hale gelir, yönetici "konsantre" grup tarafından kontrol edilemez.. Son 50/60 yılın hikayesi.
 
 Yani modern milliyetçilik çökecek, ama sebep "dışarı çıkılması", "enternasyonel olunması" değil, yereldeki merkezin değişime uğraması, bireyin, onun kurduğu yerel ağ yapılarının öne çıkması olacak.
-
-# YDB - 25/12
 
 Bir görevli
 

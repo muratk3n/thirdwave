@@ -1,4 +1,3 @@
-# YDB - 11/9
 
 Ludwig von Mises
 
@@ -27,7 +26,6 @@ Sosyalizmin gelmesi muhakkak olduğundan; bilim, en iyisi, onun doğasını beli
 Fakat, Marksizm'in olağanüstü başarısının altında yatan esas durtu, ta ezelden beri insan ruhunun derinliklerine kök salmış öç/intikam duygusu, ve her hayalinin gerçekleşmesini bekleyen bir yöndür.
 
 Bu duygulardan biri aşırı hayalci, diğeri çok öfkelidir, ve hiçbir insan bu duyguları aklı selim halde kabul etmez. Bu yüzden, bu türden intikam rüyalarının saçmalığını gösteren akıl ve mantık yürütme bir tarafa itilmelidir. İşte bu sebeple Marksizm, akılcılık tarafından tesis edilen hayat ve eylem üzerine bilimsel düşüncenin hakimiyetine yönelik en radikal saldırı haline gelmiştir. Marksizm, akıla karşıdır, bilime karşıdır, bizzat düşünce faaliyetine karşıdır. Bolşevikler, ısrarlı bir şekilde bize, dinin insanlar için bir afyon olduğunu söylerler. Fakat gerçekte Marksizm düşünceye karşı tasarlanmış bir afyondur. Bu ideoloji, ne yazık ki, safsata yoluyla sosyolojik problemlerin bilimsel incelenmesine mani olmuş ve zamanın entellektüel atmosferini kötü bir şekilde zehirlemiştir.
-# YDB - 18/9
 
 Bir akademisyen
 
@@ -48,7 +46,6 @@ Mısır'lıların yanında böyle atıp tutarsanız, size hemen 1831-32 sırası
 Mısırlılar 1832 yılında Konya'da Osmanlı'nın evire çevire "tozunu aldıktan" sonra, İstanbul'a yürümek için önlerinde hiçbir engelleri kalmamıştı. Eğer "gavurlar" ise karışmasaydı, Osmanlı denen hayvanlar tarih sahnesinden daha da önce çekilmek zorunda kalacaktı. Ne yazık ki çöküş biraz daha gecikti. Özgüven eksikliği yaşayanlar, güven elde etmek için başka adreslere bakmalıdır. Afrika Savana'sından ileri fırlayan adamın cesaretinden fazlasına ihtiyaç yoktur aslında, o genler de evrimsel olarak herkesde var.
 
 Bundan fazlası "traş" kategorisine girer.
-# YDB - 7/9
 
 Anonim
 
@@ -68,7 +65,6 @@ Bir kısım insan Orta Asya'dan gelmiştir, doğru. Her gelen bir şeyler
 verdi, bir şeyler aldı (çoğunlukla aldı), ve mevcut durum ortaya
 çıktı. Yok biz "geldik" biz "gittik", böyle saçma sapan batıl
 inançlardan kurtulmak gerekiyor.
-# YDB - 4/9
 
 Abbas Güçlü
 
@@ -101,7 +97,6 @@ Bu çağa gereken sayıda ve kalitede öğretmen yaratmak mümkün değil ve art
 --
 
 [1] Devlet bir hizmet olarak Khanacademy'nin içeriğine Türkçe ve Kürtçe seslendirme yapabilir.
-# YDB - 14/9
 
 Wael Ghonim
 

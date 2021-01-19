@@ -1,4 +1,3 @@
-# YDB - 23/1
 
 [Mehmet Barlas](http://www.milliyet.com.tr/2008/01/24/yazar/zmbarlas.html)
 
@@ -70,7 +69,6 @@ gelirsiniz. Birilerinin, bu toplumdaki ideolojinin 'zekâ-savar' rolü
 oynamasının zararlarını artık anlaması gerekiyor.
 
 Dogru
-# YDB - 7/1
 
 [YÖK Başkanı Özcan](http://www.haber10.com/haber/107147/)
 
@@ -99,7 +97,6 @@ Yanlis
 "Belirli ellerde konsantrasyon" sanayi toplumlarinin gerekliligidir. Ama Marks'in sadece zamaninda gordugu uretim yontemi endustriyi referans aldigini, daha ilerisini goremedigini ve goremeyecegini de eklersek, ustteki beyan tamamen yanlis olmaz.
 
 Elektronik ekonomide katma deger, evde oturan tek kisi/kisiler tarafindan uretiliyor olabilir - teknoloji insanlarin bunu yapmasina izin verir. Buharli motoru isci evine goturemez ama laptopunu evine goturur. Zaten sanayilesmenin senkronlasmaye sebep olmasindaki itici kuvvet budur - uretim icin makina yaninda olmaniz gerekmektedir. Internet caginda uretimin gunu, saati ve yeri yoktur. Bilgi ekonomisini besleyen sadece bir Internet baglantisidir.
-# YDB - 28/1
 
 [Radikal](http://www.haber10.com/haber/109875/)
 
@@ -123,10 +120,6 @@ yayılması, (know-how'ının değil, kullanımının) kendi kontrolünde olsun
 isteğindedir. Çünkü11 Eylül sonrası ABD'nin en odaklandığı konular
 nükleer yayılma ve göçmenliktir. Amerika'yı ordularla işgal
 edemezsiniz, ona göre tehlike ancak bu kanallardan gelebilir.
-
-
-
-# YDB - 27/1
 
 [Yeni Safak](http://www.yenisafak.com.tr/aktuel/?t=27.01.2008&c=5&i=95952)
 
@@ -181,28 +174,6 @@ AKP'nin turbani son 5 senedir cozmek istedigini herkes biliyor. Bu konu tekrar g
 
 Evet, bu konudaki ugrasilar, yabanci meslektaslarinizla konusurken onlara uzerinden "hava atabileceginiz" bir konu olmayabilir. "AB yolunda sunlari yaptik" demek ile "turbani serbest biraktik" demek arasinda bir "hava farki" hissediyor olabilirsiniz. Fakat burada onemli olan sizin havaniz degildir, onemli olan temel ozgurluklerdir. Bu yolda da en fazla oy potansiyeli olan konudan baslanmis olmasi siyasetin bir geregidir. Sira oteki konulara da gelecektir. Gelmezse o zaman zirlamaya baslayin.
 
-
-
-# YDB - 10/1
-
-
-
-
-
-zaman:
-
-Ocak 10, 2008
-
-
-
-
-
-
-
-
-
-
-# YDB - 8/1
 
 [Yeni Safak](http://www.yenisafak.com.tr/politika/?t=09.01.2008&c=2&i=92386)
 
@@ -286,7 +257,6 @@ Yanlis
 Ogrencilerin konu hakkinda yorum yaptigi [su
 forum](http://www.ortakantin.com/forum/16994)'da cogunlugun gorusunun
 parali universiteye karsi oldugunu gorebilirsiniz.
-# YDB - 20/1
 
 
 
@@ -304,8 +274,6 @@ Ocak 20, 2008
 
 
 
-
-# YDB - 24/1
 
 [Engin Ardic](http://www.aksam.com.tr/yazar.asp?a=106149,10,2)
 
@@ -346,7 +314,6 @@ Ilk Cumhurbaskanimiz olumune kadar felsefi, siyaset alanda pek cok soz soylemist
 Talat, Inonu, Kemal'in birbirine olan benzerligi, yeni nesil teknolojilerinin olusturdugu yeni bireye olan benzerliklerinden daha fazladir. Bu tarihi sahislarin arasindaki farklar varsa, bunlar icraat (execution) farkinan ibarettir, felsefe (varligi ve yoklugu) birbirine benzer. M. Kemal daha iyi bir askerdir (icraat), realist uluslararasi iliskiler zaten bunun uzantisidir. Muhakak vatani, kendi tanimladigi sekliyle, sevmistir. Fakat arti noktalar bundan ibarettir. Evet cagdastir, ama 1930dastir. Yani kendi caginin cagdasidir. Bu cagin cagdasi degildir.
 
 [1] Turkey Beyond Nationalism, pg. 47, Rifat N. Bali, Ataturk'un Soylev ve Demecleri, Ataturk Kultur ve Tarih Yuksek Kurumu, Ankara, 1997, Vol II, p 129-132.
-# YDB - 29/1
 
 [Ibrahim Karagul](http://www.haber10.com/haber/110158/)
 
@@ -370,8 +337,6 @@ Turkiye, eger lider rol oynayacaksa, bunu ancak ve ancak bir bilgi imparatorlugu
 Not: Bilgi ve enerji gecis kanali ile Rifkin'e sapka cikarttigimiz zannedilmesin. Turkiye kartlarini dogru oynarsa 21. yuzyilin en onemli kapitali olan "insan kapitali"'ni kazanmakta sansli bir konumdadir. Burada, cografik olarak oldugu merkez konumu rol oynayacaktir. Fikri ifadede ozgurlukler, devletin icra konusunda hayattan cekilmesi burada olmazsa olmaz ilk sartlardir. Turban konusu bittikten sonra (ki %100 arkasindayiz) sira bu oteki endustriyel yobazlilklara gelecek... onu da hemen belirtelim. Atilla Yayla'nin hicbir ceza almadigi bir sisteme kavusuncaya kadar, merkez ulke olma iddiasi yerini kalkisa gecemez.
 
 Not: Ayrica Sn Yayla'nin cezasinin zamanlamasinin entegrator elit tarafindan ozellikle secildigini biliyoruz. Turban ile ugrasirken Yayla'nin cezasinin gundeme gelmesi herhalde ozgurlukcu kanada karsi bir hamle, "sen onu yaparsan biz bunu yapariz" seklinde bir son cirpinistir. Soylemek isteriz ki bu son cirpinmalar cagin dinamiklerini karsisinda bosunadir. Bu kesim turban konusunu kaybettikleri gibi yakinda tum fikri ifade yasaklarini kaybedecektir.
-
-# YDB - 31/1
 
 [Serdat Turgut](http://www.aksam.com.tr/?tarih=01.02.2008#)
 
@@ -445,9 +410,6 @@ ile ekonominin ve yaratıcılığın parçası olacaktır (misal). Böyle bilgi
 işlemciler ile tanıştığımı da direk buradan söyleyeyim.
 
 
-
-# YDB - 26/1
-
 Mehmet Barlas
 
 Biz Batı'nın ilmini, sanatını almadık. Maalesef değerlerimize ters düşen ahlaksızlıklarını aldık. Biz Batı'nın ilmini, sanatını almakta bir yarışa girmeliyiz. Bu haberi okurken "Herhalde Başbakan'ın bazı cümleleri atlanılmıştır" diye düşündüm açıkçası. AB üyeliğini hedef olarak benimseyen, dünyalı olmayı ülkesinde her kesime karşı savunan bir siyasetçinin, "Batı" ile kültürel inter-aktif ilişkilerimize bu açıdan bakması, herhalde mümkün değildir.
@@ -485,7 +447,6 @@ Bush'un Iran karsitligi bir takinti degildir. Gayet gercekci bir politikanin par
 Iste bu sebeple ABD bu ucgenin hicbir zaman beraber olmasina izin vermek istemeyecektir. O zaman uc aktorden ikisi sistem icine cekiliyorsa, ucuncu muhakkak sistem disina itilecektir. Nitekim Nasir zamaninda itilen Misir olabilir, Kibris harekati sonrasi Turkiye olabilir, Sah'tan sonra Iran olabilir. Itilenin kim oldugu farketmeyecektir, sadece bu aktorlerin birarada olmamasi onemlidir.
 
 Bu durum, Iran ile iliskileri onemli olan Turkiye icin bir surtusme noktasidir. Fakat oyle ya da boyle, bir sekilde idare edilmeli ve bizim isteklerimiz yonunde gitmenin yollari aranmalidir. ABD'nin istekleri bu konuda dikte edici olamaz. Turkiye simdiye kadar bu dengeyi iyi tutturdu gibi gozukuyor fakat ABD eger Misir ve Turkiye'yi itemiyorsa, Iran'i muhakkak itmenin bir yolunu bulacaktir.
-# YDB - 14/1
 
 [Taha Akyol](http://www.tumgazeteler.com/?a=2478517)
 
@@ -565,9 +526,6 @@ Wealth adli kitabi bir daha okumali. :)
 
 
 
-
-# YDB - 15/1
-
 [Ismet Berkan](http://www.radikal.com.tr/haber.php?haberno=244577)
 
 Çünkü sanayide yaratılan verimlilik diğer bütün sektörlerden daha
@@ -587,8 +545,6 @@ Bunun icin gereken egitimin illa universite egitimi olmasi da gerekmez.
 
 [2] Bu tur "site sirketleri" kod barindirma, bakim, operasyon gibi amaclar icin de binlerce kisi calistirirlar. Bu isler de tabii ki beyaz yakali islerdir. Yazilim dunyasinda tek mavi yakali isci, bilgisayarin kendisidir. Yeknesak, tekrar dayali isleri o yapar.
 
-
-# YDB - 20/1
 
 [Mehmet Barlas](http://www.tumgazeteler.com/?a=2496865)
 

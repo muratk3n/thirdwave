@@ -1,4 +1,3 @@
-# YDB - 23/1
 
 Anonim
 
@@ -13,7 +12,6 @@ Yine soralim: fark nerede?
 Ulkede insanlar cok fazla, gereksiz yerlerde gereksiz enerji tuketiyorlar. "Bu cagin ruhuna uyumlulugu, yol gostericiligi acisindan" herkesin tarihi esit yaratilmamistir. Bizimki asagilik bir tarihtir (yonetimsel baglamda). Oyle de, ne yapalim yani! Oturup aglayacak halimiz yok, dusunmeye, calismaya devam. Elde ne varsa onunla ilerleyeceksin.
 
 Ama kendine yalan soylemeyeceksin.
-# YDB - 17/1
 
 Haber"turk" Gazetesi
 
@@ -35,8 +33,6 @@ Bizim tarafi savunmak icin bir takim konularda (bazen hakli olarak) Birlesmis Mi
 
 Oyle degil mi? Eger Israil'in Filistin topraklarini isgali BM kararlarina gore elestiriliyorsa, ayni BM'nin kararlarina gore Turkiye'nin isgalci konumu da elestirilebilir.
 
-# YDB - 7/1
-
 Bir CNN-Int Ekonomi Yorumcusu
 
 [mealen] Amerika'da en son durum bir tarafta IT, finans, bilgisayar gibi sektorlerdeki rekor bilancolar, urunler, diger yanda ise 6 kusur milyonun 6 ya da daha uzun suredir issiz oldugu bir durumdur.
@@ -55,7 +51,6 @@ Bu gercek, issizligin etrafindaki politikayi tamamen degistirecektir. Artik issi
 Bence problemin mevcut ekonomistlerin mevcut lisanini, ve su anki mevcut muhasebe sistemini mentalitesini kullanarak bir cozumu yoktur. Bu problemi ikinci dalganin metotlarini kullanarak cozemezsiniz. [..] Cunku artik ekonomide "uretkenligin" tanimi degismistir. Ekonomistlerin mevcut uretkenlik tanimi cagdisidir ve cok, cok dar bir cercevede tanimlanmistir [..]
 
 Demek ki tum ekonomik terminolojiyi yeniden tanimlamak gerekiyor. Kategorilerimizi bastan dusunmemiz gerekiyor. Verimlilik, uretkenlik nedir? Su GNP'yi, GDP'yi unutun. Bize ekonomide entellektuel bir devrim lazim. Fakat hukumetler o Merlin'lere, manipule etme sihirli gucune sahip oldugunu zanneden kisileri dinlemeye devam ediyorlar.
-# YDB - 22/1
 
 Anonim
 

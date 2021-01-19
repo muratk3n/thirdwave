@@ -1,4 +1,3 @@
-# YDB - 10/6
 
 Haber
 
@@ -9,7 +8,6 @@ Dogru
 Cari acigin onemli sebeplerinden biri ara malı ithalati. Bazi politikalarla ara mali uretimi tesvik edilebilir, hatta genel uretimin dusmesi tesvik edilebilir, fakat cari acigi dusurmek icin daha direk bir yol sanayi yerine servis ekonomisinin tesvik edilmesi. Ya da en azindan onunun acilmasi. Servis ekonomisinde cari acik ihtimali az.
 
 Bir cagri merkezi mesela cari acigi buyutebilir mi? Hayir. Buyuk miktarlarda hicbir sey ithal edilmiyor. Sirket masrafi sadece calisanlari bulmak, egitmek gibi "yerel" seyler. Yazilim sektorunde birileri birkac bin dolarlik bilgisayarlarla milyon dolarlik ihracat yapabilir. Masraf sadece calisanlara verilen maas, ve uretime oranla cuzi bir donanim altyapisidir.
-# YDB - 15/6
 
 Bir yorum
 
@@ -34,7 +32,6 @@ Bu sebeple 21. yuzyilin basinda Turkiye, kendini artik birbirleri ile uzlastiril
 --
 
 [1] A modern history of the Kurds, 2003, sf. 445
-# YDB - 17/6
 
 Eser Karakas
 
@@ -57,7 +54,6 @@ Sürekli savaşan, kendine benzemeyenleri aşağılayan ve bütün dünyaya dü�
 Dogru
 
 O ilkokul duvarlarinin birinden (bir resim) bize aktarilan bir diger ozlu soz soyle: "Savasin en sevdigim tarafi zafer anidir". Bir tarihi "buyugumuz" bunlari soylemis. Suratta katil gibi bir ifade, arkada birbirine girmis insanlar... Boyle asagilik "sanat" eserleri okullarda alenen sergilenebiliyor ne yazik ki.
-# YDB - 24/6
 
 Cengiz Candar
 

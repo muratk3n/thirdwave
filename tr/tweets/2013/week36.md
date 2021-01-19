@@ -1,4 +1,3 @@
-# YDB - 13/9
 Ama  Japonların nesi milliyetçiydi? [2. Cihan Harbi sırası ve öncesini kastediyor]
 
 Hoppala
@@ -15,26 +14,10 @@ Memlekette ne kadar çok ölüm, kendini feda vs. türünde laflar geveleniyor..
 
 Biz özgürlük taraftarıyız. Ölüm hakkında bu tür düşünceleri olan bir kişi, istiyorsa özgürce gidip kendi hayatını feda edebilmelidir (etmese daha iyi olur tabii, oyle bir cagda degiliz).
 
-
-
-
-
-
-
 zaman:
 
 Eylül 13, 2013
 
-
-
-
-
-
-
-
-
-
-# YDB - 5/9
 Mısır'da olanlar herkesin malumu [..] İhvan darbeye karşı direnme kararı aldı ve devam eden gösterilere yapılan müdahale sonrası birçok üyesi öldürüldü ve yaralandı [..].
 
 İhvan bu noktada ne yapmalı? Duygusallıktan uzaklaşıp realiteyi  görmeli [..] [G]eri adım atmalı. Ülkedeki sürecin ilerlemesini ve seçimleri beklemeli. Demokrasi tecrübesi açısından Türkiye'yi adeta 50 yıl öncesinden takip eden Mısır daha çok kaynayacak [..].
@@ -60,25 +43,18 @@ zaman:
 Eylül 05, 2013
 
 
-
-
-
-
-
-
-
-
-# YDB - 11/9
-Olimpiyat’ın İstanbul’a verilmeyişi [ardından yapılan yorumlarda] toplumun fena hâlde bölündüğü, ayrıştığı ve çok kötü bir geleceğe doğru 
-hızla sürüklendiği şeklinde yorumlar yapıldı. Korkmayın ve üzülmeyin, 
-öyle bir şey yok. Yeni bir ülke kurulurken her toplumda bulunduğu gibi 
-bizim toplumda da var olan derin çatlaklar, sağlıklı bir ulus yapısına 
-engel olacağı endişesiyle sıvayla örtüldü. O çatlaklar yok sayıldı. Dış 
-görünüşte zevahir belki kurtarıldı ama aşağıda çatlakların varlığı hep 
-devam etti, ne küçüldüler ne de eksildiler. Günümüze gelindiğinde artık 
-sıvalar dökülmeye, çatlaklar ortaya çıkmaya başladı. Mevcut siyasi irade
- de yeniden sıvama yöntemini tercih etmeyince, en aklı başında 
-sosyologdan ortalama vatandaşa kadar herkes paniğe kapıldı.
+Olimpiyat’ın İstanbul’a verilmeyişi [ardından yapılan yorumlarda]
+toplumun fena hâlde bölündüğü, ayrıştığı ve çok kötü bir geleceğe
+doğru hızla sürüklendiği şeklinde yorumlar yapıldı. Korkmayın ve
+üzülmeyin, öyle bir şey yok. Yeni bir ülke kurulurken her toplumda
+bulunduğu gibi bizim toplumda da var olan derin çatlaklar, sağlıklı
+bir ulus yapısına engel olacağı endişesiyle sıvayla örtüldü. O
+çatlaklar yok sayıldı. Dış görünüşte zevahir belki kurtarıldı ama
+aşağıda çatlakların varlığı hep devam etti, ne küçüldüler ne de
+eksildiler. Günümüze gelindiğinde artık sıvalar dökülmeye, çatlaklar
+ortaya çıkmaya başladı. Mevcut siyasi irade de yeniden sıvama
+yöntemini tercih etmeyince, en aklı başında sosyologdan ortalama
+vatandaşa kadar herkes paniğe kapıldı.
 
 Olmadığı zannedilen rahatsızlıkların ortaya çıkması iyidir. İlk 
 zamanlarda ciddiyet derecesi değişen sıkıntılar yaşanabilir ama bu durum
@@ -107,16 +83,6 @@ zaman:
 
 Eylül 11, 2013
 
-
-
-
-
-
-
-
-
-
-# YDB - 6/9
 Alman Anayasası’nın ilk maddesi neyle başlıyor biliyor musunuz. Bizdeki gibi zorlama bir devlet ve toplum tarifiyle değil; insanla başlıyor [..] Aynen aktarayım: "İnsan onuru kutsaldır. Devletin görevi, insan onuruna saygı göstermek ve her türlü saldırıya karşı korumaktır. Bu nedenle bütün vatandaşlar kabul etmelidir ki insan onuru kutsal, vazgeçilmez ve el konulamaz bir insan hakkıdır. Toplumda ve dünyada barışın, huzurun ve adaletin sağlanması için bu esastır."
 
 Bu maddeyle kalmayalım... Alman Anayasası’nın ikinci maddesi de hayli ilginç ve bize yabancı. [..] "Herkes başkalarının haklarına ve anayasal değerlere zarar vermediği sürece kendi karakterini yaratma konusunda özgürdür... Bu çerçevede kişinin özgürlüğü kutsal ve dokunulmazdır."

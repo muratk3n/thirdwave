@@ -1,4 +1,3 @@
-# YDB - 9/7
 
 Can Dundar
 
@@ -21,7 +20,6 @@ Burada onemli bir ek, Şah Pehlevi'nin bu otarsik yonetimi, demokratik secimle g
 ---
 
 [1] Hatta 9/11'de Al Kaide saldirisindan sonra eski bir KGB ajani "bu adamlar bana yikilmadan onceki bizim (Sovyetler) halimizi hatirlatiyor" diye bir yorum bile yapmisti, ve soyle devam etmistir; "bizim de o zamanlar inancimiz vardi". Bu yorum aslinda gayet Durkheim'ci bir dayanisma (solidarity) idealinin cagristiriyor. Bir "toplu ideal" var buna "inaniliyor" falan...
-# YDB - 31/7
 
 Engin Ardic
 
@@ -42,7 +40,6 @@ Ve yine ekleyeyim: Kemal, iyi bir asker ve stratejisyendir. Bunlari teslim ediyo
 [1] Atay Falih Rifki, Mustafa Kemal Mutereke Defteri, Istanbul: Sey yay., 1955, p. 67, cited in Gulbeyaz, Halil, Mustafa Kemal Ataturk: com Staatsgrunder zum Mythos, Berlin: Parthas, 2003, p. 228
 
 [2] Turkey Beyond Nationalism, sf. ix, 2006
-# YDB - 28/7
 
 Serdar Turgut
 
@@ -67,7 +64,7 @@ http://ucuncudalgageliyor.blogspot.com/2008/06/john-f-kennedy.html
 
 http://www.taraf.com.tr/yazar.asp?mid=1008
 
-http://www.taraf.com.tr/yazar.asp?mid=939# YDB - 8/7
+http://www.taraf.com.tr/yazar.asp?mid=939
 
 Emre Akoz
 
@@ -129,7 +126,6 @@ Sefalet uretince de fakirlere dagitilacak para miktari azalacaktir. Demek ki ger
 Ama illa icinde "sosyal" kelimesi gecen bir terim kullanilacaksa (hani olur ya, sosyal kelimesi fetisizmi vardir), o zaman "ben sosyal hizmetleri fazla olan bir kapitalist toplumda yasamak istiyorum" gibi bir cumle kurulabilir. Burada az vergi/cok vergi konusu devreye girer, boyle gider.
 
 Ayrica serbest piyasaci olmak, bireysel seviyede insanlara yardim yapamayacaginiz anlamina da gelmez.
-# YDB - 29/7
 
 Hadi Uluengin
 
@@ -140,7 +136,6 @@ Mantikli
 En son bilgilere gore secenegim %55 PKK, %45 Ergenekon tarafinda olurdu. Bu saldiri her iki teror ortugu icin faydalidir, PKK'nin "biz yapmadik" demesinin hicbir anlami yoktur. Teror her zaman bir "reklam kampanyasi" olmak zorunda degildir.
 
 Fakat esas ilginc olan analiz bu degil. Ilginc olan, AKP, Askeriye, CHP ve bir kisim medya'nin tek bir agizdan "kesin PKK" demesidir! Uzlasma gerceklesmise benziyor!
-# YDB - 16/7
 
 
 
@@ -151,16 +146,9 @@ zaman:
 Temmuz 15, 2008
 
 
+Murat Belge
 
-
-
-
-
-
-
-
-# YDB - 27/7
-Murat BelgeÇünkü sosyalist zaten en olgun demokrasinin sosyalizmde mümkün olduğuna inanır.YanlisSuradan aktariyorum:Komunizm ile sosyalizm arasindaki yegane fark, basa gelme yontemleridir. Komunizm kaba kuvvet kullanarak basa gelir, sosyalizm ise sandiktan cikabilir. Aradaki fark, cinayet sonucu ya da intihar ederek olmek arasindaki farka benzer.Demokrasi sosyalizm icin bir aractir, ama en azindan retorik olarak sosyalistler demokrasi sozcugunu geveledikleri icin diger kollektivist seceneklerden "birazcik" daha iyi olabilirler. Bu  baglamda Belge gibi yazarlar sosyalist koyun surusunu demokrasi tarafina birazcik gudebilirse, bu bir kazanim olacaktir :) - en azindan "toplam demokrat sayisi" cogalabilecektir. Ote yandan, zaten bu kisilikler hicbir zaman iktidara gelecek sayiya erisemeyecegine gore, hayallerindeki demokrasi sonrasi gasp rejimini hicbir zaman hayata geciremeyeceklerdir, boylece herkes kazanacaktir.Mehmet BarlasAslında 1960'larda "komprador burjuvazinin montaj sanayii" diye küçümsediğimiz ve aşağıladığımız otomotiv endüstrisi [..]Hala oyleTurkiye'de otomotiv sektoru net doviz ureten bir sektor degildir. Capisc? Bunu soyle bir dusunup tartacaksiniz Sn. Barlas. Demek ki otomotiv sektoru cari acigin kapanmasina destek degil kostek olan bir sektor. Ihrac ettiginden daha fazlasini ithal ediyor. Bu sektorde, diger tum sektorlerde oldugu gibi innovasyon eksikligi var. Su baglantiya gore Otosan 22 yılda toplam 55 patent ortaya koymus. Kiyaslama acisindan 2000-2004 arasinda yabanci bazi unlu otomotiv sirketlerinin patent sayisi altta veriyoruz [1].Bu tabloya gore sadece 2000 ve 2004 arasinda Toyota'nin aldigi patent sayisi 120'nin ustundedir. Yani Otosan'in 22 senede aldigi patentin uc katindan daha fazladir. Bu ne demektir? Yapacak daha cok is var demektir. Yani zart zurt ovunmeden once kirk kere dusuneceksiniz.Gelismeler yok mu? Var. Su belgede [2] anlatildigina gore su anda hukumetin AR-GE tesviklerinin %30 kusur kadari otomotiv sektorune gidiyor ve bu belki yavas yavas bir hareketlenme yaratacak. Sektorun kendisi de uyaniyor, AR-GE yatirimi yapiyor. Ama daha ovunmek icin cok erken - ne ovunecek ne dovunecek durumdayiz acikcasi.Ayni belgede Turkiye'nin tum imalatindaki yuksek teknoloji oranina bakin, %3 civaridir. ABD'de bu rakam %50'nin uzerindedir! Evet, Ispanya'yi gecebilmisiz ama, yani, kimse kusura bakmasin, yuksek teknoloji dunyasinda bu adamlar çerez ulkelerden. Turkiye'ye kistas olarak bir Avrupa, Akdeniz ulkesini almak pek uygun degil bizce.Emre AkozBu çaba da fayda etmeyince seçimlerden beri demediklerini bırakmadıkları Başbakan Erdoğan'dan aman dilediler. Yani, çoktan tahmin ettiğimiz gibi, artık 'dansözlük' safhasına geçtiler. Hürriyet okurunun halini düşünebiliyor musunuz? "Ne tuhaf bir durum" diyordur başı dönen, aklı karışan okur, "düne kadar Başbakan bizim gazetenin boy hedefiydi, şimdi birinci sayfanın yıldızı oldu." Ancak bu tip olaylar asla "birinci sayfa politikasının" değişmesiyle bitmez.  Bir yıl boyunca Ergenekon hakkında susmuş ama mesela "laiklik elden gidiyor, şeriat geliyor" diye atıp tutmuş köşe yazarlarına yeniden ayar vermek gerekir. Peki ayar nasıl verilir? Emin Çölaşan, Hürriyet'ten çıkarıldığında bu işin nasıl yapıldığını öğrenmiştik. Şimdi de sırada Bekir Coşkun var. Sansürle ilgili dünkü yazısını okumalısınız. Belli ki Emin Çölaşan'a yapılan ona da yapılmış: "Aman Bekirciğim, etme eyleme" denmiş, "ne olur Tayyip'e fazla giydirme, bak tam aramızı düzeltme aşamasındayız, hem sonra biliyorsun patronun şu İddaa işi filan da var. Anla artık."Emin Çölaşan işten çıkarıldığında gözler Bekir Coşkun'a dönmüştü. O ne yapacaktı?  "Biz bir kayıktaydık. Kürek arkadaşımı dalgalar aldı" diye başladığı 16 Ağustos 2007 tarihli yazısını şöyle bağlamıştı: "Ne yapmalıyım. Asılsam mı küreklere? Avuçlarım kanasa da, hırsımdan ağlasam da, o yere doğru tek başıma kalsam dahi çekmeli miyim kürekleri? Yoksa, vaz mı geçsem kürek çekmekten?" Aslında boş laflardı onlar. Çünkü Hürriyet tam o dönemde hükümet karşıtı kampanyaya başladığı için, Bekir Coşkun'un vazgeçmesi filan gerekmiyordu. Bir yıl kadar kafasına göre kürek çekti. Başbakandan fırça yediği için, Gazeteciler Cemiyeti'nden ödül bile kazandı. (Geçelim o maskaralığı.) Ama artık hava değişiyor. Hürriyet'in birinci sayfasında başlayan dalgalanma iç sayfalara da yansıyacak.MantikliYaziya cok guldum. Sn. Akoz'un eline saglik.Ece TemelkuranÖyle ya, bu kadar kafası çalışan insanı, bunca yurtseveri, bu kadar okumuş yazmış solcuyu her seferinde şah-mat eden şey biraz ele gelir bir şey olmalı.YanlisStrateji dunyasinda bir soz vardir: "Stratejik hatayi akilli taktikler ile kapatamazsiniz".Solcularin stratejileri (yani ideolojileri) yanlis oldugu icin, bu fikir dunyasi icinde ne kadar akilli taktik gelistirirlerse gelistirsinler, basarili olamamislardir. Dalga "almis goturmus" (blog'umuzun ismine dikkatinizi cekerim, o dalga bu dalga), tokadi vurmus, ya da kafalari kirmistir (mecazen). Yani sunu soylemek istiyoruz:Sosyalistleri ekarte etmek fazla zeka gerektiren bir is degildir.---[1] Fuel Cells Bulletin, Volume 2005, Issue 11, November 2005, Pages 12-13[2] Turkiye Sanayiine Sektorel Bakis
+Çünkü sosyalist zaten en olgun demokrasinin sosyalizmde mümkün olduğuna inanır.YanlisSuradan aktariyorum:Komunizm ile sosyalizm arasindaki yegane fark, basa gelme yontemleridir. Komunizm kaba kuvvet kullanarak basa gelir, sosyalizm ise sandiktan cikabilir. Aradaki fark, cinayet sonucu ya da intihar ederek olmek arasindaki farka benzer.Demokrasi sosyalizm icin bir aractir, ama en azindan retorik olarak sosyalistler demokrasi sozcugunu geveledikleri icin diger kollektivist seceneklerden "birazcik" daha iyi olabilirler. Bu  baglamda Belge gibi yazarlar sosyalist koyun surusunu demokrasi tarafina birazcik gudebilirse, bu bir kazanim olacaktir :) - en azindan "toplam demokrat sayisi" cogalabilecektir. Ote yandan, zaten bu kisilikler hicbir zaman iktidara gelecek sayiya erisemeyecegine gore, hayallerindeki demokrasi sonrasi gasp rejimini hicbir zaman hayata geciremeyeceklerdir, boylece herkes kazanacaktir.Mehmet BarlasAslında 1960'larda "komprador burjuvazinin montaj sanayii" diye küçümsediğimiz ve aşağıladığımız otomotiv endüstrisi [..]Hala oyleTurkiye'de otomotiv sektoru net doviz ureten bir sektor degildir. Capisc? Bunu soyle bir dusunup tartacaksiniz Sn. Barlas. Demek ki otomotiv sektoru cari acigin kapanmasina destek degil kostek olan bir sektor. Ihrac ettiginden daha fazlasini ithal ediyor. Bu sektorde, diger tum sektorlerde oldugu gibi innovasyon eksikligi var. Su baglantiya gore Otosan 22 yılda toplam 55 patent ortaya koymus. Kiyaslama acisindan 2000-2004 arasinda yabanci bazi unlu otomotiv sirketlerinin patent sayisi altta veriyoruz [1].Bu tabloya gore sadece 2000 ve 2004 arasinda Toyota'nin aldigi patent sayisi 120'nin ustundedir. Yani Otosan'in 22 senede aldigi patentin uc katindan daha fazladir. Bu ne demektir? Yapacak daha cok is var demektir. Yani zart zurt ovunmeden once kirk kere dusuneceksiniz.Gelismeler yok mu? Var. Su belgede [2] anlatildigina gore su anda hukumetin AR-GE tesviklerinin %30 kusur kadari otomotiv sektorune gidiyor ve bu belki yavas yavas bir hareketlenme yaratacak. Sektorun kendisi de uyaniyor, AR-GE yatirimi yapiyor. Ama daha ovunmek icin cok erken - ne ovunecek ne dovunecek durumdayiz acikcasi.Ayni belgede Turkiye'nin tum imalatindaki yuksek teknoloji oranina bakin, %3 civaridir. ABD'de bu rakam %50'nin uzerindedir! Evet, Ispanya'yi gecebilmisiz ama, yani, kimse kusura bakmasin, yuksek teknoloji dunyasinda bu adamlar çerez ulkelerden. Turkiye'ye kistas olarak bir Avrupa, Akdeniz ulkesini almak pek uygun degil bizce.Emre AkozBu çaba da fayda etmeyince seçimlerden beri demediklerini bırakmadıkları Başbakan Erdoğan'dan aman dilediler. Yani, çoktan tahmin ettiğimiz gibi, artık 'dansözlük' safhasına geçtiler. Hürriyet okurunun halini düşünebiliyor musunuz? "Ne tuhaf bir durum" diyordur başı dönen, aklı karışan okur, "düne kadar Başbakan bizim gazetenin boy hedefiydi, şimdi birinci sayfanın yıldızı oldu." Ancak bu tip olaylar asla "birinci sayfa politikasının" değişmesiyle bitmez.  Bir yıl boyunca Ergenekon hakkında susmuş ama mesela "laiklik elden gidiyor, şeriat geliyor" diye atıp tutmuş köşe yazarlarına yeniden ayar vermek gerekir. Peki ayar nasıl verilir? Emin Çölaşan, Hürriyet'ten çıkarıldığında bu işin nasıl yapıldığını öğrenmiştik. Şimdi de sırada Bekir Coşkun var. Sansürle ilgili dünkü yazısını okumalısınız. Belli ki Emin Çölaşan'a yapılan ona da yapılmış: "Aman Bekirciğim, etme eyleme" denmiş, "ne olur Tayyip'e fazla giydirme, bak tam aramızı düzeltme aşamasındayız, hem sonra biliyorsun patronun şu İddaa işi filan da var. Anla artık."Emin Çölaşan işten çıkarıldığında gözler Bekir Coşkun'a dönmüştü. O ne yapacaktı?  "Biz bir kayıktaydık. Kürek arkadaşımı dalgalar aldı" diye başladığı 16 Ağustos 2007 tarihli yazısını şöyle bağlamıştı: "Ne yapmalıyım. Asılsam mı küreklere? Avuçlarım kanasa da, hırsımdan ağlasam da, o yere doğru tek başıma kalsam dahi çekmeli miyim kürekleri? Yoksa, vaz mı geçsem kürek çekmekten?" Aslında boş laflardı onlar. Çünkü Hürriyet tam o dönemde hükümet karşıtı kampanyaya başladığı için, Bekir Coşkun'un vazgeçmesi filan gerekmiyordu. Bir yıl kadar kafasına göre kürek çekti. Başbakandan fırça yediği için, Gazeteciler Cemiyeti'nden ödül bile kazandı. (Geçelim o maskaralığı.) Ama artık hava değişiyor. Hürriyet'in birinci sayfasında başlayan dalgalanma iç sayfalara da yansıyacak.MantikliYaziya cok guldum. Sn. Akoz'un eline saglik.Ece TemelkuranÖyle ya, bu kadar kafası çalışan insanı, bunca yurtseveri, bu kadar okumuş yazmış solcuyu her seferinde şah-mat eden şey biraz ele gelir bir şey olmalı.YanlisStrateji dunyasinda bir soz vardir: "Stratejik hatayi akilli taktikler ile kapatamazsiniz".Solcularin stratejileri (yani ideolojileri) yanlis oldugu icin, bu fikir dunyasi icinde ne kadar akilli taktik gelistirirlerse gelistirsinler, basarili olamamislardir. Dalga "almis goturmus" (blog'umuzun ismine dikkatinizi cekerim, o dalga bu dalga), tokadi vurmus, ya da kafalari kirmistir (mecazen). Yani sunu soylemek istiyoruz:Sosyalistleri ekarte etmek fazla zeka gerektiren bir is degildir.---[1] Fuel Cells Bulletin, Volume 2005, Issue 11, November 2005, Pages 12-13[2] Turkiye Sanayiine Sektorel Bakis
 
 
 
@@ -181,8 +169,183 @@ Temmuz 27, 2008
 
 
 
-# YDB - 17/7
-Cengiz CandarErgenekon davası, siyaset ve düşünce yelpazemiz açısından bir "turnusol kağıdı" işlevini görüyor.  Türkiye'de "sağ" ve "sol" olarak genellenen "siyaset ve düşünce kampları"nda yer alanlar, bu "turnusol kağıdı"na bakışta ortadan çatladılar. [..] Soğuk Savaş sonrası dönemde sağ-sol'un eski anlamlarını yitirdiğinin göstergesi.  [..] Bir de "kokmaz-bulaşmaz"lar, "mediokrite mümessilleri" mevcut. Bu gibi tarihi ve büyük hesaplaşma dönemlerinde böyleleri ıskartaya çıkarlar. Siyaseten ve düşünce planında ıskartaya çıkmalarının sancıları, satırlarına yansıyor. [..] Tam bir hezeyan. Kimsenin böyleleriyle ne uğraşacak vakti, ne niyeti, ne de onların "hışma uğraması"nın gereği var. Müsterih olabilirler. Kılıçların çekildiği mücadele meydanında gözükmeyenler ile hiç kimsenin bir hesabı olmaz. Sadece, ne oldukları ve olmadıklarına dair kayda düşerler. Bu ülkedeki "demokrasi mücadelesi"nde yer almadıkları kayda düşmüştür. O kadar. [..] Ortalık bulutlanınca, tavır sahibi olmak "risk faktörü" içermeye başlayınca, bu ortamdan ustaca sıvışmaya bakanlar çıkar. Bu gibi ortamlarda öylelerinin "sığlıkları" sırıtmaya başlar. Ergenekon adındaki "turnusol kağıdı"nın ortaya çıkarttığı suretlerinden memnun olmayanlar, bilinen alışkanlıklarına başvurarak, ülkedeki demokrasi isteyenlere karşı taarruza geçerler. Darbecilere karşı taarruza geçmek, "risk" taşır, "bela" getirir. Oysa, laf kalabalığı ile hazırlanmış laf salatası servisiyle demokratlara dil uzatmak, demokrasi taleplerini kerameti kendinden menkul "ultra-entelektüel" bir edayla hafife almak, işin kolay kısmıdır. Böyleleri, öyle yaparak, "demokratlığın sığ suları"ndan kaçıp, kendilerini "kokmaz-bulaşmazlığın güvenli limanları"na sığınmaya can atarlar. Zaman ellerinden kaçmıştır. "Zeitgeist"ı, "zamanın ruhu"nu onlar da kaçırmışlardır. Zamanın ruhu, laf kalabalığıyla yakalanamaz.KatiliyorumHadi UluenginBOYUMDAN büyük láf etmeye kalkışmayacağım. Yani, "tarihin çarkı geri döndürülemez" gibisinden kehánetler buyurmayacağım. Zira biliyorum ki, o tarih devasa bir kaostan oluşur. Dehşet bir hercümerçte yuvarlanır. [..] Ama, iradeciliğin yerine bu gerçekçiliği benimsemek aşağıdaki olguyu değiştirmez. O da şu ki, en azından modern zamanlardan, yani sosyal coğrafyaların birbirlerinden etkilenmeye başladığı dönemden beri, her çağın ve her devrin bir "genel gidişat"ı vardır. Hayat, dünya ve insanlık, üç aşağı beş yukarı belirli bir "ana rota"da seyreder. Hele hele, komünizmin yıkıldığı [..] 1989 yılından bu yana, liberal demokrasiyle özdeşleşen o "ana rota" çok daha netlik ve iç içelik kazanmıştır. [..] FAKAT, bu "esas doğrultu"ya zıt düşen; akıntıya kürek çeken; eski sürecin değer ve kavramlarını yeni süreçte de hakim kılmak isteyen sistem ve paradigmalar aniden yok olmaz. Yani, mevcut s-t-a-t-ü-k-o'yla hem zihnen, hem de bedenen eklemleşmiş olan güçler "artık bizim defter kapandı, o halde hadi eyvallah" diyerek efendi efendi çekip gitmezler. Varoluşlarını bir süre daha sürdürürler. Hayat memat kaygısıyla mukavemete geçerler.  Yani, zihni sultalarını ve sınıf ayrıcalıklarını korumak için "tarihe karşı" direnirler. Örneklersek, "ulusalcı" ideolojiden "Ergenekon sanıkları"na veya AKP'yi kapatma davasına, bunların her biri aynı tür statüko direnişidir. [..] FAKATİ şu ki, yine büyük láf etmekten çekindiğimden, eski statüko için "eninde sonunda tarihin çöplüğüne atılmaya mahkûmdur" demek istemiyorum.  Ama, eskisi yenisinin doğum sancılarını ancak bir raddeye kadar önleyebilir. Zamanda sınırlı ve mekánda kırılgan taktik kazançlarını zamanda kalıcı ve mekánda muhkim "stratejik zafer"e dönüştürmek şansı sıfıra yakındır. Devranı da, denizi de bitmiştir.KatiliyorumSerdar TurgutOrada arkeolog William Niven’in bulmuş olduğu tabletlerdeki bilgiyi öğrendi. Buna göre Maya dilinin Mu Kıtası’nda kullanılan lisan ile aynıydı. [..] Dahası sıkı durun Maya kültürü ile Türk kültürü arasında büyük benzerlikler ortaya çıktı ve Maya diliyle Türkçe arasındaki benzerlikler de tek tek ortaya serildiHipotez YanlisMaya dili ile Turkce arasindaki baglantiyi ispatlamak icin "Mu Adasi" gibi egzotik teorilere gerek yok. En son arastirmalar DNA bilgisini baz alinarak tespit etmistir ki, ilk insanlarin goc hareketleri, Afrika'dan baslamis, ve alttaki resim seklinde yayilmistir. Bizim yesil daire ile isaretledigimiz goc hareketi ise, Orta Asya'da Turkik dile sahip olabilecek bir grubun (B kolunu takip edin) Guney Amerika'ya ulasabilecegini apacik gostermektedir [2]. Bu yayilma haritasinda Mu Adasi falan yoktur. Bu hipoteze gerek te yoktur.Ayrica belirtmeden edemeyecegim: Sn. Turgut gazetecilige, politikaciliga "soyunan" insanlari elestiriyor hatta dalga geciyor ama kendisi bilimsel konulara haldir huldur girisince bir celiskiye dusmus olmuyor mu acaba? Simdi bu yazdigi yaziyla kac tane insani (21. yuzyil itibariyle) sacma sapan bir yone angaje ettiginin farkinda mi? Lutfen. Kirk kez soyledik: BIR BILENE DANISIN.Gokhan OzgunHalbuki demokrasi fikrinin en güzel yanı evde kendi imkânlarınızla yapılabilir olmasıdır. Demokrasi basit bir şeydir, basit değilse demokrasi değildir. [..] Ama gel gör ki, demokrasi degüstatörleri sana demokrasinin karmaşık ve çok derin bir şey olduğunu anlatacaklar.EksikEvet, demokrasinin "temel aksiyonlari" basittir... Secilenler vardir, secenler vardir, herkes tek bir oy verir, iktidar gelir, boyle gider... Fakat bu basit aksiyonlarin toplaminin niye "optimal" oldugunu anlamak ve anlatmak, aslinda o kadar basit bir is degildir.Bunu anlamak icin oncelikle "algisal", "kabilesel" degil "ilkesel" dusunebilmek gerekir. Bilimsel olarak ispatlamak ise, olasilik teorisi ve istatistik bilgisi gerektirir; Herhangi bir konu hakkinda "uc goruslerin" Normal Egrinin sag ve sol kesimlerindeki "eteklerde" olacagini, makul ve akil olanin ise ortadaki daha buyuk kesiminde oldugunu anlayabilmeyi gerektirir [3].Bilimde oldugu gibi, insan gruplarinin karar verirken "deneme -> olasi hata -> tekrar deneme -> basari" surecinde olacaklarini, ve bir surec olarak ele alininca secmenin nihayetinde dogruyu muhakkak bulacaginin kavranabilmesini gerektirir.Totaliter bir insan ise, tanim itibariyle, ilkeler yerine "kisileri" ve "kabileleri" koyacagina gore, demokrasi gibi bir kavrami anlamasi, zorun otesinde imkansizlasacaktir. Yani, eklemek istedigimiz, kafasi calisan insan icin demokrasinin basit olabilecegi, ama calismayan icin demokrasinin roketbilim kadar zor bir kavram olacagidir.Ismet BerkanBuna karşılık başını Thomas Jefferson ve John Madison’un çektiği grup, güçlü başkana da, güçlü federal yönetime de şüpheyle bakıyorlardı. Bu sayede anayasaya kuvvetler ayrılığı ilkesi girdi, üstelik bu ayrılık mutlak bir ayrılık olarak, başkanların ‘kral’ yetkileri kullanmasını engellemek amacıyla kondu.YanlisKuvvetler ayriligi ilkesini en cok savunan babalardan biri Adams'in kendisiydi! Kendi eyaleti Massachussets icin ona bir anayasa hazirlamasini rica edildiginde, uc erkli sistemi ilk kez bu eyalalet icin kendisi ortaya koyacaktir, sonra bu sistem diger eyaletler tarafindan da kopyalanacaktir (ABD'de eyaletlerin sistemi, merkezi sistemin kopyalaridir, baskan=vali, senato=eyalet senatosu, meclis=eyalet meclisi).Adams'in istedigi, kralvari bir baskandan ziyade "bagimsiz" bir baskanlik makamiydi. Baskanin elinde guclu bir veto silahi olmasini bu sebeple istemisti.*  Örneğin John Adams, insanların HÜKÜMETLERİ YOLUYLA daha iyiye ulaşacağına inanıyordu. Buna karşılık Jefferson, bireylerin HÜKÜMETTEN BAĞIMSIZLAŞMALARI yoluyla daha iyinin bulunacağını düşünüyordu. Dikkat edin, bu iki görüş arasındaki fark çok ama çok derin. Birincisi, bizim daha yakından tanıdığımız, ülkemizde de 1923’ten beri bir türünü yaşadığımız devlet merkezli yönetim anlayışı, diğeri ise Amerika’yı Amerika yapan birey merkezli, bireyi devletten bağımsızlaştırma merkezli anlayış.Abarti?.. Insanlarin hukumetleri yoluyla daha iyiye ulasacagina inaniyordu ???? Bu cok abartili bir soz, hatta biraz zorlama (it's a stretch). Illa Turkiye ile benzerlik kuracagim diye ABD babalarindan bazilari neredeyse "devletci" bir goruntuye sokulmaya ugrasilmis. Yok boyle bir sey. Lutfen MCollough'un John Adams biografisine bir goz atin [1]. Adams'a yapilan "krallik" suclamalari ise, gunun politik ortaminda kullanilan polemik silahlaridir. Ingiltere'nin somurgeliginden kurtulmus bir ulkede, "kral" kelimesi boyle bir kufur haline donusmustur.* Bütün bu eleştirilerden, hücumlardan yılan Washington, 1796’da başkanlığı bıraktı, evine çekildi, yerine de John Adams Başkan oldu.YanlisWashington'un baskanligi birakmasinin sebebi kendi isteksizligidir -  zaten baskanliginin ikinci donemi icin bile rica minnet zorla ikna edilmisti. Washington, bir ulkeyi yonetmenin agir sorumlulugunun cok iyi farkindaydi, ama goreve cagirilinca ondan bekleneni yerine getirdi, ama ucuncu donemi kesin reddetti, daha fazla o sorumlulugu tasimak istemedi. Ilginctir, ilk yemin toreni sirasinda bu sebeptendir ki, yemin metnini tekrar ettikten sonra adamcagizin agzindan "Allah'im bana yardim et" sozleri dokuluvermistir. Bu sozler daha daha sonra resmi yeminin parcasi haline getirildi - orijinal metinde yoktur.Adams'in yonetim hakkindaki dusuncelerini ogrenmek icin kendi yazdigi Thoughts on Government adli esere bakmak ta faydali olabilir. Adams'in savundugu bir tur "karma yonetim" sistemidir, ona gore bir toplumda aristokrasi, merkezi otorite, tam demokrasi istekleri nasil olsa olacaktir, o zaman devlet sistemi bu gercege gore ayarlanmalidir. Cift kamarali sistemi bu yuzden one surer. Demokrasi istekleri secilmis organlar uzerinden yonetime yansir. Adams, hukukun bagimsizligina  cok onem vermistir - erklerin birbirinin yetki alanina girmemesi konusunda hassasti, ve yurutme erkinin yetkilerinin cignenmesine karsi ozellikle hassasti.Turkiye'nin baslangici ile ABD'ninkini karsilastirmak bence elma ile armutlari karsilastirmaktir; ABD'de, Sn. Berkan'in "merkeziyetcilik" ve "karsi" gorusu arasinda resmettigi cekismenin tonu cok, ama cok farklidir. Analojiye devam edersek; ABD elma ise, bahsedilen cekisme bir nevi "yesil elma mi kirmizi elma mi" gibi bir nuans farki cercevesindedir - bu baglamda, mesela, kurucu babalarinin hicbirinin zihninde "etkin parlamento olsun mu olmasin mi?" gibi dusunceler gecmemistir. Sistemin elma olacagi bellidir. Kiyasla, o tur dusunceler buradaki kurucu elitin zihninden gecti, ve buradaki sistemi armut yapan iste bu gibi "buyuk" farklardir.-----[1] Bu Adams biyografisi cok populer bir kitap oldu, McCollough bu kitap sayesinde ikinci bir Pulitzer kazandi, ve kitap bir diziye cevrildi, Paul Giamatti adli bir aktor Adams'i oynuyor.[2] Genetik olarak Orta Asya ile Turkiye'nin mevcut nufusu arasindaki benzerligin en fazla %30 oldugunu belirtmistik. Kulturel olarak etki de kanimizca benzer seviyelerdedir.. Konustugumuz dilin benzerliginin yuzdesi daha fazla olmasi bu gercegi degistirmez, dilin kulturel yansimasinin bire bir olmasi gerekmez. Ispanyolca konusan bir Meksikali ile Ispanyolca konusan bir Ispanyolun arasinda buyuk kulturel farkliliklar oldugunu biliyoruz. Goc/istila sonrasi karisan kulturler, kacinilmaz olarak, mevcut nufus ile yeni gelen nufusun toplami olacaktir.[3] Turkiye'de din konusunda dusuncelerin aynen tarif edilen sekilde dagildigi (distributed) gozlemlenebilir. Seriat isteyen dinciler %5-10 civarlarinda, laikci yobaz Kemalistlerin sayisi da ayni boyutlardadir (CHP-DSP'nin son secimdeki oyundan Alevi vatandaslarimiz ve kafasi karisik sehirlilerin oyunu cikarirsaniz, geriye kalan yuzde aynen budur). Bu sayilar, Normal Egrinin sag ve sol kismindaki "uc noktalarda" olacaktir. Makul vatandas ise daha buyuk bir yuzdeyi temsil eden orta kisimdadir.
+Cengiz Candar
+
+Ergenekon davası, siyaset ve düşünce yelpazemiz açısından bir
+"turnusol kağıdı" işlevini görüyor.  Türkiye'de "sağ" ve "sol" olarak
+genellenen "siyaset ve düşünce kampları"nda yer alanlar, bu "turnusol
+kağıdı"na bakışta ortadan çatladılar. [..] Soğuk Savaş sonrası dönemde
+sağ-sol'un eski anlamlarını yitirdiğinin göstergesi.  [..] Bir de
+"kokmaz-bulaşmaz"lar, "mediokrite mümessilleri" mevcut. Bu gibi tarihi
+ve büyük hesaplaşma dönemlerinde böyleleri ıskartaya
+çıkarlar. Siyaseten ve düşünce planında ıskartaya çıkmalarının
+sancıları, satırlarına yansıyor. [..] Tam bir hezeyan. Kimsenin
+böyleleriyle ne uğraşacak vakti, ne niyeti, ne de onların "hışma
+uğraması"nın gereği var. Müsterih olabilirler. Kılıçların çekildiği
+mücadele meydanında gözükmeyenler ile hiç kimsenin bir hesabı
+olmaz. Sadece, ne oldukları ve olmadıklarına dair kayda düşerler. Bu
+ülkedeki "demokrasi mücadelesi"nde yer almadıkları kayda düşmüştür. O
+kadar. [..] Ortalık bulutlanınca, tavır sahibi olmak "risk faktörü"
+içermeye başlayınca, bu ortamdan ustaca sıvışmaya bakanlar çıkar. Bu
+gibi ortamlarda öylelerinin "sığlıkları" sırıtmaya başlar. Ergenekon
+adındaki "turnusol kağıdı"nın ortaya çıkarttığı suretlerinden memnun
+olmayanlar, bilinen alışkanlıklarına başvurarak, ülkedeki demokrasi
+isteyenlere karşı taarruza geçerler. Darbecilere karşı taarruza
+geçmek, "risk" taşır, "bela" getirir. Oysa, laf kalabalığı ile
+hazırlanmış laf salatası servisiyle demokratlara dil uzatmak,
+demokrasi taleplerini kerameti kendinden menkul "ultra-entelektüel"
+bir edayla hafife almak, işin kolay kısmıdır. Böyleleri, öyle yaparak,
+"demokratlığın sığ suları"ndan kaçıp, kendilerini
+"kokmaz-bulaşmazlığın güvenli limanları"na sığınmaya can
+atarlar. Zaman ellerinden kaçmıştır. "Zeitgeist"ı, "zamanın ruhu"nu
+onlar da kaçırmışlardır. Zamanın ruhu, laf kalabalığıyla
+yakalanamaz.KatiliyorumHadi UluenginBOYUMDAN büyük láf etmeye
+kalkışmayacağım. Yani, "tarihin çarkı geri döndürülemez" gibisinden
+kehánetler buyurmayacağım. Zira biliyorum ki, o tarih devasa bir
+kaostan oluşur. Dehşet bir hercümerçte yuvarlanır. [..] Ama,
+iradeciliğin yerine bu gerçekçiliği benimsemek aşağıdaki olguyu
+değiştirmez. O da şu ki, en azından modern zamanlardan, yani sosyal
+coğrafyaların birbirlerinden etkilenmeye başladığı dönemden beri, her
+çağın ve her devrin bir "genel gidişat"ı vardır. Hayat, dünya ve
+insanlık, üç aşağı beş yukarı belirli bir "ana rota"da seyreder. Hele
+hele, komünizmin yıkıldığı [..] 1989 yılından bu yana, liberal
+demokrasiyle özdeşleşen o "ana rota" çok daha netlik ve iç içelik
+kazanmıştır. [..] FAKAT, bu "esas doğrultu"ya zıt düşen; akıntıya
+kürek çeken; eski sürecin değer ve kavramlarını yeni süreçte de hakim
+kılmak isteyen sistem ve paradigmalar aniden yok olmaz. Yani, mevcut
+s-t-a-t-ü-k-o'yla hem zihnen, hem de bedenen eklemleşmiş olan güçler
+"artık bizim defter kapandı, o halde hadi eyvallah" diyerek efendi
+efendi çekip gitmezler. Varoluşlarını bir süre daha sürdürürler. Hayat
+memat kaygısıyla mukavemete geçerler.  Yani, zihni sultalarını ve
+sınıf ayrıcalıklarını korumak için "tarihe karşı"
+direnirler. Örneklersek, "ulusalcı" ideolojiden "Ergenekon
+sanıkları"na veya AKP'yi kapatma davasına, bunların her biri aynı tür
+statüko direnişidir. [..] FAKATİ şu ki, yine büyük láf etmekten
+çekindiğimden, eski statüko için "eninde sonunda tarihin çöplüğüne
+atılmaya mahkûmdur" demek istemiyorum.  Ama, eskisi yenisinin doğum
+sancılarını ancak bir raddeye kadar önleyebilir. Zamanda sınırlı ve
+mekánda kırılgan taktik kazançlarını zamanda kalıcı ve mekánda muhkim
+"stratejik zafer"e dönüştürmek şansı sıfıra yakındır. Devranı da,
+denizi de bitmiştir.KatiliyorumSerdar TurgutOrada arkeolog William
+Niven’in bulmuş olduğu tabletlerdeki bilgiyi öğrendi. Buna göre Maya
+dilinin Mu Kıtası’nda kullanılan lisan ile aynıydı. [..] Dahası sıkı
+durun Maya kültürü ile Türk kültürü arasında büyük benzerlikler ortaya
+çıktı ve Maya diliyle Türkçe arasındaki benzerlikler de tek tek ortaya
+serildiHipotez YanlisMaya dili ile Turkce arasindaki baglantiyi
+ispatlamak icin "Mu Adasi" gibi egzotik teorilere gerek yok. En son
+arastirmalar DNA bilgisini baz alinarak tespit etmistir ki, ilk
+insanlarin goc hareketleri, Afrika'dan baslamis, ve alttaki resim
+seklinde yayilmistir. Bizim yesil daire ile isaretledigimiz goc
+hareketi ise, Orta Asya'da Turkik dile sahip olabilecek bir grubun (B
+kolunu takip edin) Guney Amerika'ya ulasabilecegini apacik
+gostermektedir [2]. Bu yayilma haritasinda Mu Adasi falan yoktur. Bu
+hipoteze gerek te yoktur.Ayrica belirtmeden edemeyecegim: Sn. Turgut
+gazetecilige, politikaciliga "soyunan" insanlari elestiriyor hatta
+dalga geciyor ama kendisi bilimsel konulara haldir huldur girisince
+bir celiskiye dusmus olmuyor mu acaba? Simdi bu yazdigi yaziyla kac
+tane insani (21. yuzyil itibariyle) sacma sapan bir yone angaje
+ettiginin farkinda mi? Lutfen. Kirk kez soyledik: BIR BILENE
+DANISIN.Gokhan OzgunHalbuki demokrasi fikrinin en güzel yanı evde
+kendi imkânlarınızla yapılabilir olmasıdır. Demokrasi basit bir
+şeydir, basit değilse demokrasi değildir. [..] Ama gel gör ki,
+demokrasi degüstatörleri sana demokrasinin karmaşık ve çok derin bir
+şey olduğunu anlatacaklar.EksikEvet, demokrasinin "temel aksiyonlari"
+basittir... Secilenler vardir, secenler vardir, herkes tek bir oy
+verir, iktidar gelir, boyle gider... Fakat bu basit aksiyonlarin
+toplaminin niye "optimal" oldugunu anlamak ve anlatmak, aslinda o
+kadar basit bir is degildir.Bunu anlamak icin oncelikle "algisal",
+"kabilesel" degil "ilkesel" dusunebilmek gerekir. Bilimsel olarak
+ispatlamak ise, olasilik teorisi ve istatistik bilgisi gerektirir;
+Herhangi bir konu hakkinda "uc goruslerin" Normal Egrinin sag ve sol
+kesimlerindeki "eteklerde" olacagini, makul ve akil olanin ise
+ortadaki daha buyuk kesiminde oldugunu anlayabilmeyi gerektirir
+[3].Bilimde oldugu gibi, insan gruplarinin karar verirken "deneme ->
+olasi hata -> tekrar deneme -> basari" surecinde olacaklarini, ve bir
+surec olarak ele alininca secmenin nihayetinde dogruyu muhakkak
+bulacaginin kavranabilmesini gerektirir.Totaliter bir insan ise, tanim
+itibariyle, ilkeler yerine "kisileri" ve "kabileleri" koyacagina gore,
+demokrasi gibi bir kavrami anlamasi, zorun otesinde
+imkansizlasacaktir. Yani, eklemek istedigimiz, kafasi calisan insan
+icin demokrasinin basit olabilecegi, ama calismayan icin demokrasinin
+roketbilim kadar zor bir kavram olacagidir.Ismet BerkanBuna karşılık
+başını Thomas Jefferson ve John Madison’un çektiği grup, güçlü başkana
+da, güçlü federal yönetime de şüpheyle bakıyorlardı. Bu sayede
+anayasaya kuvvetler ayrılığı ilkesi girdi, üstelik bu ayrılık mutlak
+bir ayrılık olarak, başkanların ‘kral’ yetkileri kullanmasını
+engellemek amacıyla kondu.YanlisKuvvetler ayriligi ilkesini en cok
+savunan babalardan biri Adams'in kendisiydi! Kendi eyaleti
+Massachussets icin ona bir anayasa hazirlamasini rica edildiginde, uc
+erkli sistemi ilk kez bu eyalalet icin kendisi ortaya koyacaktir,
+sonra bu sistem diger eyaletler tarafindan da kopyalanacaktir (ABD'de
+eyaletlerin sistemi, merkezi sistemin kopyalaridir, baskan=vali,
+senato=eyalet senatosu, meclis=eyalet meclisi).Adams'in istedigi,
+kralvari bir baskandan ziyade "bagimsiz" bir baskanlik
+makamiydi. Baskanin elinde guclu bir veto silahi olmasini bu sebeple
+istemisti.* Örneğin John Adams, insanların HÜKÜMETLERİ YOLUYLA daha
+iyiye ulaşacağına inanıyordu. Buna karşılık Jefferson, bireylerin
+HÜKÜMETTEN BAĞIMSIZLAŞMALARI yoluyla daha iyinin bulunacağını
+düşünüyordu. Dikkat edin, bu iki görüş arasındaki fark çok ama çok
+derin. Birincisi, bizim daha yakından tanıdığımız, ülkemizde de
+1923’ten beri bir türünü yaşadığımız devlet merkezli yönetim anlayışı,
+diğeri ise Amerika’yı Amerika yapan birey merkezli, bireyi devletten
+bağımsızlaştırma merkezli anlayış.Abarti?.. Insanlarin hukumetleri
+yoluyla daha iyiye ulasacagina inaniyordu ???? Bu cok abartili bir
+soz, hatta biraz zorlama (it's a stretch). Illa Turkiye ile benzerlik
+kuracagim diye ABD babalarindan bazilari neredeyse "devletci" bir
+goruntuye sokulmaya ugrasilmis. Yok boyle bir sey. Lutfen MCollough'un
+John Adams biografisine bir goz atin [1]. Adams'a yapilan "krallik"
+suclamalari ise, gunun politik ortaminda kullanilan polemik
+silahlaridir. Ingiltere'nin somurgeliginden kurtulmus bir ulkede,
+"kral" kelimesi boyle bir kufur haline donusmustur.* Bütün bu
+eleştirilerden, hücumlardan yılan Washington, 1796’da başkanlığı
+bıraktı, evine çekildi, yerine de John Adams Başkan
+oldu.YanlisWashington'un baskanligi birakmasinin sebebi kendi
+isteksizligidir - zaten baskanliginin ikinci donemi icin bile rica
+minnet zorla ikna edilmisti. Washington, bir ulkeyi yonetmenin agir
+sorumlulugunun cok iyi farkindaydi, ama goreve cagirilinca ondan
+bekleneni yerine getirdi, ama ucuncu donemi kesin reddetti, daha fazla
+o sorumlulugu tasimak istemedi. Ilginctir, ilk yemin toreni sirasinda
+bu sebeptendir ki, yemin metnini tekrar ettikten sonra adamcagizin
+agzindan "Allah'im bana yardim et" sozleri dokuluvermistir. Bu sozler
+daha daha sonra resmi yeminin parcasi haline getirildi - orijinal
+metinde yoktur.Adams'in yonetim hakkindaki dusuncelerini ogrenmek icin
+kendi yazdigi Thoughts on Government adli esere bakmak ta faydali
+olabilir. Adams'in savundugu bir tur "karma yonetim" sistemidir, ona
+gore bir toplumda aristokrasi, merkezi otorite, tam demokrasi
+istekleri nasil olsa olacaktir, o zaman devlet sistemi bu gercege gore
+ayarlanmalidir. Cift kamarali sistemi bu yuzden one surer. Demokrasi
+istekleri secilmis organlar uzerinden yonetime yansir. Adams, hukukun
+bagimsizligina cok onem vermistir - erklerin birbirinin yetki alanina
+girmemesi konusunda hassasti, ve yurutme erkinin yetkilerinin
+cignenmesine karsi ozellikle hassasti.Turkiye'nin baslangici ile
+ABD'ninkini karsilastirmak bence elma ile armutlari karsilastirmaktir;
+ABD'de, Sn. Berkan'in "merkeziyetcilik" ve "karsi" gorusu arasinda
+resmettigi cekismenin tonu cok, ama cok farklidir. Analojiye devam
+edersek; ABD elma ise, bahsedilen cekisme bir nevi "yesil elma mi
+kirmizi elma mi" gibi bir nuans farki cercevesindedir - bu baglamda,
+mesela, kurucu babalarinin hicbirinin zihninde "etkin parlamento olsun
+mu olmasin mi?" gibi dusunceler gecmemistir. Sistemin elma olacagi
+bellidir. Kiyasla, o tur dusunceler buradaki kurucu elitin zihninden
+gecti, ve buradaki sistemi armut yapan iste bu gibi "buyuk"
+farklardir.-----[1] Bu Adams biyografisi cok populer bir kitap oldu,
+McCollough bu kitap sayesinde ikinci bir Pulitzer kazandi, ve kitap
+bir diziye cevrildi, Paul Giamatti adli bir aktor Adams'i oynuyor.[2]
+Genetik olarak Orta Asya ile Turkiye'nin mevcut nufusu arasindaki
+benzerligin en fazla %30 oldugunu belirtmistik. Kulturel olarak etki
+de kanimizca benzer seviyelerdedir.. Konustugumuz dilin benzerliginin
+yuzdesi daha fazla olmasi bu gercegi degistirmez, dilin kulturel
+yansimasinin bire bir olmasi gerekmez. Ispanyolca konusan bir
+Meksikali ile Ispanyolca konusan bir Ispanyolun arasinda buyuk
+kulturel farkliliklar oldugunu biliyoruz. Goc/istila sonrasi karisan
+kulturler, kacinilmaz olarak, mevcut nufus ile yeni gelen nufusun
+toplami olacaktir.[3] Turkiye'de din konusunda dusuncelerin aynen
+tarif edilen sekilde dagildigi (distributed) gozlemlenebilir. Seriat
+isteyen dinciler %5-10 civarlarinda, laikci yobaz Kemalistlerin sayisi
+da ayni boyutlardadir (CHP-DSP'nin son secimdeki oyundan Alevi
+vatandaslarimiz ve kafasi karisik sehirlilerin oyunu cikarirsaniz,
+geriye kalan yuzde aynen budur). Bu sayilar, Normal Egrinin sag ve sol
+kismindaki "uc noktalarda" olacaktir. Makul vatandas ise daha buyuk
+bir yuzdeyi temsil eden orta kisimdadir.
 
 
 

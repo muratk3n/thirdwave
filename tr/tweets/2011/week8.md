@@ -1,4 +1,3 @@
-# YDB - 1/2
 
 Bir yorumcu
 
@@ -15,7 +14,6 @@ kamuoyuna "bakin benim alternatifim dinciler" mesajini gonderebilmis
 oluyor, ABD kamuoyu, kongre uyeleri Misir desteginin "terore karsi
 savasin" bir parcasi olduguna inaniyorlar (hukumet isin aslini biliyor
 tabii ki). Alan memnun, satan memnun.
-# YDB - 3/2
 
 El Baraday
 
@@ -25,7 +23,6 @@ Hillary cuvalladi
 
 Baraday "cakmis". Ve hakli, ABD cuvalladi, ilk analizleri yanlisti, sonra ise gec dahil oldular. Neyse .. simdi bazi pozitif adimlar goruyoruz. Ama genel acidan da bakarsak ayni Newsweek sayisinda roportaj yapilan Brezinski'nin dedigi gibi, Obama Kahire Universitesi konusmasinin icini dolduramadi, ve isin ustune yatti.
 
-# YDB - 2/2
 
 Haber
 

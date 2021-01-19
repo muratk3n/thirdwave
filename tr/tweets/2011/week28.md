@@ -1,4 +1,3 @@
-# YDB - 11/7
 
 Bir akademisyen
 
@@ -36,8 +35,6 @@ Dogru
 
 [1] Filmde makinalar Chaplin'i yutuyor, ogutuyor, vs.
 
-# YDB - 12/7
-
 Sedat Laciner
 
 Fenerbahçe’ye kimler tuzak kuruyor? [..] Müsaadenizle bendeniz kendilerine bir parça yardımcı olmaya çalışayım: İlk şüpheliler doğal olarak ABD ve İsrail. Ülkenin yarısı Fenerbahçeli olduğuna göre Türkiye’yi zayıflatmak isteyen dış mihraklar FB’yi hedef almış olabilir.
@@ -51,7 +48,6 @@ Olayların hangi noktaya varacağını şimdiden kestirebilmek güç. Ancak gör
 Bu da ilginc
 
 Komplo var ya da yok demiyoruz bu arada (FB olayinda), sadece ilginc diyoruz. Tas atmadan once kendi evini temiz tutmasi bu arkadas icin daha uygun olur. Gezilere gidip torenlerde habire aglamakla bu isler olmuyor.
-# YDB - 14/7
 
 Anonim
 
@@ -64,7 +60,6 @@ Davutoglu'nun Stratejik Derinlik kitabinda Turkiye'nin simdiye (2000) kadar cok 
 Arap Bahari caginda politikanin hala ise yarar bazi kalici etkileri var, cunku bastan beri soylem zaten halka donuktu. Ama tekrar belirtelim: Ilk politika bir "rejim degisikligi" politikasi degildi, "dahil olma" politikasiydi.
 
 Gunun kaotik ortaminda ne takip edilir? Dinamik bir ortam, hizli kararlar vermeyi gerektiriyor muhakkak, ama halka donuk olmak hem sureklilik hem stratejik olarak dogru gozukuyor.
-# YDB - 13/7
 
 Anonim
 
@@ -77,7 +72,6 @@ Aslinda Amerika'ya daha cok tavsiye veriyorlar. Hatta The Economist icin su tabi
 Niye Roma? Roma emperyaldir, öküzdür (Osmanlı gibi), pek kafası calısmaz. Yunan bilimcidir, ona akıl verir, vs. Boyle bir kalıp vardir, bunu herkes bilir, gercege oldukca yakindir. Kultur kodlarina dayanan bir tarafi da var (o sebeple yanlis olabilirdi, ama degil) . Roma hakikaten öküzdür mesela (yokedilmeden once) komsulari Keltler seneye gore gunesin nerede olacagini tahmin edebilecek bilimsel seviyedeydiler. Kiyasla Romalilar takvimlerinin yanlis hesaplamasi yuzunden Agustos ortasinda bahari kutluyorlardi. Tabii Romalilar insanlari kopeklestirme sanatinda daha basariliydi, o rauntu onlar kazandi.
 
 Peki Amerika Roma midir? Irak'i isgal ettiginde, Vietnam'a girdiginde emperyal, yayilmaci goruntuye girdigi dogrudur. Bati icinde dusunulurse ve bugunku Avrupa'ya kiyasla daha militarist olabildigi aciktir. Bu sebeple kullanilan kelime yerinde.
-# YDB - 16/7
 
 Anonim
 
@@ -98,7 +92,6 @@ Var mi bizde de bir Lincoln?
 --
 
 [1] A Modern History of the Kurds, David McDowall
-# YDB - 17/7
 
 Haber
 
@@ -109,8 +102,6 @@ Standardizasyon
 Karar modernist, gamalist bir karar olmus. Kitabina uygun.
 
 Ilgili: Endustriyel Ideolojilerin Temelleri: Standardizasyon
-
-# YDB - 15/7
 
 Gercek Gundem
 

@@ -1,4 +1,3 @@
-# YDB - 30/8
 
 Gokhan Ozgun
 
@@ -25,7 +24,6 @@ Ancak, mevcut petrol döviz ve rezervlerine güvenerek yine kısa vadeli düşü
 İşin özü, yenilen pehlivan güreşe doymazmış misali, Batı’da ve Doğu’da tecrit bir Rusya "rövanş"a soyunarak, tekrar "soğuk savaş"tan medet umuyor. Ve, o "soğuk savaş"ı kimin kazandığını hatırlamayacak kadar hafıza kaybına uğruyor.
 
 Katiliyorum
-# YDB - 8/8
 
 Taha Akyol
 
@@ -60,7 +58,6 @@ Tam degil
 ABD'de, mesela California Universitesi okul sistemindeki mutevelli heyetinin uyelerini bizdeki Cumhurbaskaninin karsiligi olan vali atar. Rektoru bu heyet secer, bu sebeple, birden daha fazla secilmek isteyebilecek heyet uyeleri uzerinde valinin bir etkisi vardir. Vali, cok uygunsuz gordugu bir rektoru, heyete (bu etkisi uzerinden) baski uygulayarak isinden de attirabilir. Reagan, California valisi oldugu zaman yaptigi ilk is, bu sekilde bir rektoru kovdurmak olmustur.
 
 Yani direk degil, ama indirekt bir etki var, ama bu etki hala cok guclu bir etkidir. Devlet yardimi ile ayakta duran devlet universitelerinin karar mekanizmasina secimle is basina gelmis bir yetkilinin yon vermesi gayet mantikli, ve gereklidir. Bu da, Turkiye durumunda ya basbakan, ya da (artik secimle gelecek) Cumhurbaskani olacaktir.
-# YDB - 28/8
 
 Hadi Uluengin
 
@@ -89,7 +86,6 @@ Rektörlerin son aşamada Cumhurbaşkanı tarafından atanması doğru değil. �
 Yanlis
 
 ABD'de devlet okullarinin "mutevelli heyetine" atamayi valinin yaptigini soylemistik; Arkasindan rektorleri bu heyet atiyordu. Bu dogru bir uygulamadir, ve su anda dunyada isleyen en iyi universite sistemi ABD'de olduguna gore, bu sistem takip edilebilir. Vatandasin vergisiyle finanse edilen okullarda, vatandasin oylari ile basa gelmis birinin soz hakki olmalidir. Nokta. Sn. Gul Kemalist yobazlara kemik atmaya mi ugrasiyor? Benim tavsiyem, hic ugrasmasin.
-# YDB - 17/8
 
 Mahmut Ovur
 
@@ -174,7 +170,6 @@ Modernite gericiliktir.
 [1] Su anda bu muhendislik dali Bahcesehir, Erciyes, Marmara gibi universitelerde bahsettigim isim altinda egitim vermekte (diger okullarda degisik isimlere burunebilir, kontrol muhendisligi, vs.)
 
 [2] Pakistan ile hariciye cevrelerinde bu sekilde dalga gecilmektedir.
-# YDB - 29/8
 
 Ahmet Altan
 
@@ -240,8 +235,6 @@ Bence yokolmalari cok daha iyidir. Tabii ne isterlerse yaparlar, ama ideologlari
 
 Katiliyorum
 
-# YDB - 25/8
-
 Mehmet Altan
 
 Sanayi sonrasi doneme gecerken uretim tarzi degisiyor. Uretim tarzinin degismesi demek, sosyolojik yapinin degismesi demek. Eskiden isci sinifi dogal cogunluktu. Ama teknoloji degistip kol gucunun yerini beyin gucu aldikca [..] cok daha yuksek kalitede ve cok daha verimli bir surece geciyorsun. O zaman ne oluyor? Isci sinifinin toplam nufustaki agitligi azaliyor. [..] Dunya komunizme gidiyor [1, sf. 179,184].
@@ -298,7 +291,6 @@ Direksiyonda ABS mi var, okuz herif? Bu peri masalinin bu kadar yayilmis olmasin
 [1] Asal, Defne Er, Ikinci Cumhuriyetin Yol Hikayesi: Mehmet Altan, Hayykitap, 2008
 
 [2] Ki bu da Marksizm'in cogunlugudur ne yazik ki.
-# YDB - 7/8
 
 Atilla Yayla
 
@@ -363,7 +355,6 @@ Bundan oteye, bizce, "sag", "sol", "burjuva" gibi kelimeler girmekte oldugumuz c
 ---
 
 [1] Yayla, A., Kemalizm Liberal Bir Bakis, 2008, Liberte Yayinlari
-# YDB - 22/8
 
 Fehmi Koru
 
@@ -414,7 +405,6 @@ Daha once dedigimiz gibi, Murat Belge bu sekilde ne kadar cok koyunu pesinden su
 Bir ek daha: Bu bir "sonraki evre" icin alakasiz baska bir is yapma durumu baska nerede var biliyor musunuz? ABD'de Hristiyan Siyonistler denen akimda... Bu adamlarin inancina gore en son Yahudi Israil'e dondugu anda, kiyamet olacaktir ve Hz. Isa geri gelecektir. Bu yuzden Hristiyan Siyonistler ABD dis politikasinda Israil'i kayitsiz sartsiz savunurlar ki, tum Yahudilerin donebilecegi bir Israil olsun, ve donus sonrasi Hz. Isa geri gelebilsin ! :)
 
 Kirk turlu inanc var dunyada..
-# YDB - 27/8
 
 Emre Akoz
 

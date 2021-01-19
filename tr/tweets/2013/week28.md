@@ -1,4 +1,3 @@
-# YDB - 11/7
 Evet, “çoğunluğun oyunu alan, genel 
 iradeyi temsil eder ve herkes bir sonraki seçime kadar bu iradeye tabi 
 olmak zorundadır” bir tür demokrasi anlayışı olabilir. Ancak bu anlayış,
@@ -38,7 +37,6 @@ Temmuz 11, 2013
 
 
 
-# YDB - 2/7
 Gezi Parkı gösterilerinin verdiği ana mesaj [..] “Yeni Türkiye”nin keyfi ve otoriter 
 yönetimi kabul etmeyeceğiydi. Bu mesajı belki en iyi ifade eden, 
 uluslararası üne sahip sosyal bilimcimiz Prof. Dr. Nur Yalman oldu: 
@@ -78,17 +76,8 @@ zaman:
 
 Temmuz 02, 2013
 
-
-
-
-
-
-
-
-
-
-# YDB - 5/7
-Sözü Mısır’a getireceğim. Mısır’daki darbeyle ilgili yorumlardan [..] biri, “Arap Baharı’ndan demokrasi çıkmadı” şeklinde...
+Sözü Mısır’a getireceğim. Mısır’daki darbeyle ilgili yorumlardan [..]
+biri, “Arap Baharı’ndan demokrasi çıkmadı” şeklinde...
 
 Demokrasi çıktı işte daha ne çıkacak
 
@@ -107,16 +96,6 @@ zaman:
 
 Temmuz 05, 2013
 
-
-
-
-
-
-
-
-
-
-# YDB - 8/7
 Tekrar edeyim: 30 yıl Mübarek'e dayanan Mısır bir yıl Mursi'ye mi dayanamadı?
 
 Hoppala
@@ -143,7 +122,6 @@ Temmuz 08, 2013
 
 
 
-# YDB - 7/7
 Yeniden ve artan bir ivme ile yöneldiğimiz kültür çatışması siyasetinin kapsamlı toplumsal huzursuzluklara neden olmasını önlemenin yolu demokratikleşme aracılığıyla farklılıkların güvence altına alınmasıdır. Bu, kültür(ler) arası mücadele ve siyasetin bu temelde üretilmesini önleyemez; ancak onun toplumsal çatışmaya dönüşmesine engel olur.
 
 Mesele tüm bireyleri ahlâk anlayışımız ve dünya görüşümüz çerçevesinde tektipleştirerek, "ideal" bireylerden oluşan, bu kıstaslara uymayanların ötekileştirileceği bir toplum ve "gençlik" yaratmak değil, Gezi Parkı'nda gitar çalan küpeli Ahmet ile Üç Aylar'da kıldığı nafile namazı sayısını artıran Mehmet, başörtüsüyle üniversitesine devam eden Ayşe ile muhafazakârlığı kadınlığa müdahale olarak gören Fatma'nın birarada yaşamasını sağlamaktır.
@@ -192,7 +170,6 @@ Temmuz 07, 2013
 
 
 
-# YDB - 30/7
 Yıllarca temsil krizinin boğduğu bir siyasi partiler düzenine sahip olduk [..] Bugün ise hakim parti ile toplum arasındaki ilişkilerde kimi hatlarda kopukluk yaşanıyor. Ve pek çok sorun yeniden baş gösteriyor. İlk
  sorun, partiler açısından toplumsal değişme ve toplumsal dinamikleri 
 okuma konusundaki zafiyettir. Bu zafiyet, toplumsalı kendi iç döngüsüyle
@@ -231,7 +208,6 @@ Temmuz 30, 2013
 
 
 
-# YDB  - 15/7
 Müslüman Kardeşler'in örgütlü gücü, Mübarek'in bile onlara 2005 yılında
  meclisteki sandalyelerin % 20'sini vermesiyle sonuçlanana benzer 
 pazarlıkları zorunlu kılıyordu.

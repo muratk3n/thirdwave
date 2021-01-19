@@ -1,4 +1,3 @@
-# YDB - 14/5
 
 Hadi Uluengin
 
@@ -39,7 +38,6 @@ Yeter mi bu kadar? Vallahi kolum yoruldu.
 ----
 
 [1] Yobaz Yahudilerin bu anlayista olduguna dair bir hatiram, ABD'de bir cafe'de tanistigim normal bir Yahudi'den geliyor: Surekli birbirimize ulkelerimiz, insanlarimiz uzerinden takildigimiz bir anda ben "demek ki siz secilmissiniz haaa" deyivermistim. Bunu duyor duymaz arkadasin parmagi havaya firladi: "Tek tanrililik icin secilmislik o!" :) Sonra da utangac besus bir ifade ile "otekini dersen kesiyorlar sonra" diye (aslinda aci) bir espri de yapmisti.
-# YDB - 10/5
 
 Hadi Uluengin
 
@@ -50,7 +48,6 @@ Eksik
 Endustriyel Adam adli yazimizda topraga donusun hangi bilincten geldigini anlatmistik. Dogal kaynaklari isleyerek, ve sadece dogayi katlederek kar yapabilen endustriyel mentalite bir sure sonra bilincaltinda o katlettigi "seye" donmek icin dayanilmaz bir istek duyar.
 
 Gunumuzdeki cevreci akimlarin kismen bu damardan beslendigi dogrudur. Fakat daha onemlisi bu hareketler dunya ve cevre hakkinda daha iyi bilgi edinebilmenin de bir sonucudur. Uzaydan dunyanin ilk resmi cekildikten neredeyse gunler sonra ilk yesilci hareket baslamistir. O tek resim "buradan baskasi yok (simdilik)" ve "evimiz" mesajini insanlara buyuk olcekte hissettirmistir. Ayni sekilde kuresel isinma gibi tehlikeler cevre hakkinda daha net bilgi toplayabilmemiz sayesinde bilinir/anlasilir hale geliyor. Modernite ulusal bir zihniyettir, sadece kendi sinirlari icinde olanlari sahiplenir ve onlardan sorumluluk duyar. Gitmekte oldugumuz yeni dunyada, insanlarin bilinci kureseldir, ve "kureyi" daha cok sahiplenmelerinin altinda yatan gercek budur.
-# YDB - 4/5
 
 Taraf (4/5/2008)
 
@@ -95,7 +92,6 @@ Olaylara bir gözlemci gibi bakıldığında şunları söyleyebiliriz: 1 Mayıs
 Bu olay Türkiye’deki mücadelenin bir parçasıydı. Bunu anlamadan münferit olayları değerlendirerek doğru bir sonuç elde edilmesi mümkün değildi.
 
 Dogru
-# YDB - 13/5
 
 Engin Ardic
 
@@ -132,7 +128,6 @@ ABD'de entegrator elitin AKP'yi sevmedigi dogrudur fakat ABD politikasinda, ozel
 ---
 
 [1] Tehlikeli Oyunlar, sf. 110
-# YDB - 16/5
 
 Milliyet
 
@@ -152,9 +147,6 @@ Ek olarak sunu da belirtelim: Muhakkak birkac oy daha, o oylarin olmamasindan co
 
 
 
-
-
-# YDB - 19/5
 
 Sami Kohen
 

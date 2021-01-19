@@ -1,4 +1,3 @@
-# YDB - 27/11
 Niye monarşiler (krallıklar) Avrupa'da yokoldu? 
 
 Hala var
@@ -27,7 +26,6 @@ Kasım 26, 2013
 
 
 
-# YDB - 14/11
 Daha önceki tarih yorumunda Cumhuriyet'in radikal 
 biçimde gerçekleştirdiği devrimler, batılılaşma adımları kurucu 
 kadrolarla başlatırken; yenilenen tarih yorumu [..] batılılaşmaya tarihsel köken ve süreklilik arama 

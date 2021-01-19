@@ -1,4 +1,3 @@
-# YDB - 23/8
 Bölgemiz niye geri kaldı? Niye gelisme olamadı? Durumumuzdan kim sorumlu?
 
 Aliyye-i Osmaniye Taşakiye
@@ -29,7 +28,6 @@ Ağustos 23, 2013
 
 
 
-# YDB - 20/8
 Mısır'da demokrasiyi tekrar inşa ediyoruz
 
 Sıkıyorsa etme
@@ -60,8 +58,6 @@ Ağustos 19, 2013
 
 
 
-# YDB - 12/8
-
 
 Milli Eğitim Bakanlığı, (MEB) 28 Şubat darbesi sonrası devlet 
 kurumlarında başlatılan kılık kıyafet yönetmeliğinden dolayı görevine 
@@ -89,8 +85,6 @@ Ağustos 12, 2013
 
 
 
-
-# YDB - 17/8
 
 İddiaya göre Mursi kucaklayıcı olmamış, halkı ikiye bölüp kutuplaştırmış, ekonomik ve sosyal sorunlara çözüm bulmamış [..]
 
@@ -130,7 +124,6 @@ Ağustos 17, 2013
 
 
 
-# YDB - 13/8
 Orta 
 Doğu’da etnik, mezhepsel ya da parti kimliğinin ötesinde bir fenomen 
 daha var: Birey’in yükselişi. Şu zamana kadar aşiret, mezhep, 
@@ -181,7 +174,6 @@ Ağustos 12, 2013
 
 
 
-# YDB - 26/8
 Johnson Mektubu [..] yazarı Haluk Şahin’e göre 
 ise mektup krizi, kamuoyunun büyük baskısı yüzünden Kıbrıs’a müdahale 
 etmesi gereken ancak Türkiye’nin bunu yapmaya gücünün olmadığını gayet 
@@ -235,7 +227,6 @@ Ağustos 26, 2013
 
 
 
-# YDB - 7/8
 Yani bir çan eğrisi düşünün, çan eğrisinin tepesinde tabi ki en zenginler olacak ama dağılım sağa ve sola doğru eşit şekilde olsun [..] çan eğrisinin bu tarafında kalanlar sağında ve solunda kalanlar normal standartlara yükselsin.
 
 Ne saçmalıyorsun

@@ -1,4 +1,3 @@
-# YDB - 14/8
 
 Erdal Şafak
 
@@ -10,7 +9,6 @@ Krizde olan demokrasi değil, temsili sistem. Rejim krizi olursa (ki oluyor) tem
 
 Ilgili: Güven Tazeleme Ritüeli
 
-# YDB - 21/8
 
 Bir solcu
 
@@ -35,8 +33,6 @@ rezalet ortaya çıkartmayin. Kafanızda hiç mi filtre mekanizması yok
 kardeşim? Nobel ödüllü ekonomistin sizinle aynı fikirde olmasının
 acaipliği bile sizin için bir uyarı olmalıydı.
 
-# YDB - 18/8
-
 Süleyman Yaşar
 
 Daha üç gün önce Google Inc., Motorola'nın mobil telefon bölümünü 12.5 milyar dolara satın aldı. Niye satın aldı dersiniz? Aldı çünkü Asya'da mobil telefon pazarı hızla gelişiyor.
@@ -46,8 +42,6 @@ Yanlış
 Şuradaki bağlantıya, Google CEO'su Larry Page'e göre alımın en önemli sebebi Motorola'nın elindeki patent portföyü. Bu portföyü Microsoft ve Apple'ın birleşerek Google'a karşı patentler üzerinden verdiği kanuni savaşta kendilerini korumak için kullanacaklar.
 
 Ilgili: Patent Sistemi
-
-# YDB - 5/8
 
 The Economist
 
@@ -60,8 +54,6 @@ Aslında Çin 20/21. yüzyıllarda, 19. yüzyılda yapılacak icraatları yaptı
 Fakat zamanın ruhu, öyle ya da böyle, adamı yakalar. Elektronik, bilgisayar çağından kaçılmaz. Bakın Arap liderlerine: birkaç sene önce "Çin modeli! Çin modeli!" diye etrafta dolanıp duruyorlardı. Şimdi ne oldu? Çin modeli hepsinin g..tune girdi.
 
 Dalganın önünde durulmuyor.
-
-# YDB - 27/8
 
 Emre Uslu
 

@@ -1,4 +1,3 @@
-# YDB - 28/11
 
 Refik Erduran
 
@@ -11,7 +10,6 @@ Belli bir şey: Mustafa Kemal de Dersim'deki isyan potansiyelinin giderilmesini 
 Birbirimize olmasın?
 
 Dogru
-# YDB - 25/11
 
 Namık Çınar
 
