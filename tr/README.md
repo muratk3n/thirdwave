@@ -38,11 +38,13 @@ başlar.
 
 [MBTI](/2019/08/mbti_tr.html)
 
+[Hiciv](hiciv.md)
+
 ## Gez
 
 [Seneye Gore](years.md)
 
 [Ara](search.html)
 
-[Hiciv](hiciv.md)
+[Tweet Arşivi](/tweets/README.md)
 
