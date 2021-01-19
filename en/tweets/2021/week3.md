@@ -1,5 +1,108 @@
 # Week 3
 
+It's true, there is a bubble. [The Wilshire index](2019/05/stats.md#wilshire)
+(total market cap / GDP) is very high.
+
+Just looking at the shape of graph shows exp growth.
+
+"The wealthy are investing like a market bubble is here, or at least near"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mr. Navalny should be immediately released, and the perpetrators of the outrageous attack on his life must be held accountable. The Kremlin’s attacks on Mr. Navalny are not just a violation of human rights, but an affront to the Russian people who want their voices heard.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1350893957375471628?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@yashar
+
+People keep asking why Navalny went back to Russia...some have called
+it foolish. How do you think change happens? It doesn't happen from a
+comfy apartment in Berlin or New York"
+
+---
+
+Hey my Nano tripled in value dam 
+
+---
+
+"@Zachary
+
+Biden will nominate FTC commissioner and @SenWarren ally Rohit Chopra
+to lead the CFPB, sources familiar say"
+
+---
+
+I'll always remember that name through the Dennis Miller joke
+"... looks shakier than a rescue dog in Phil Spector's house".
+
+"Phil Spector: Pop producer jailed for murder dies at 81"
+
+---
+
+"The quintessential Gen-X band"..? Hmm..
+
+---
+
+Parts of it goes full Bee Gees 
+
+---
+
+New Radicals - You Get What You Give \#music
+
+[Link](https://youtu.be/cPAEFnVZVOs?t=33)
+
+---
+
+Its a feel good, upbeat ok song.
+
+"@RollingStone
+
+The New Radicals will reunite for the first time in 22 years to
+perform 'You Get What You Give' during Biden inauguration virtual
+parade"
+
+---
+
+The trials and tribulations of Hawley is the perfect example why
+fascism-lite, the so-called "populism", is unsustainable as an
+ideology. Dude supported the Trump tax, then sided with Bernie on the
+$2000 check, is for anti-trust and but then went batshit on election
+fraud charges... He is a mess. This cant be the basis of Rep party, or
+any party.. These people can only exist as a reaction to something
+else.
+
+---
+
+"@fuelcellsworks
+
+Our weekend news continues as Japan & Adnoc Co-Operate in Developing
+\#Ammonia Fuel & Carbon Recycling Techn-Ammonia will play an important
+role in enabling \#hydrogen economy & can serve as a hydrogen carrier
+& \#zeroemission fuel"
+
+[Link](http://bit.ly/3qsRHgH)
+
+---
+
+"@hazergroupltd
+
+Figures from the International Energy Agency reveal that global
+low-carbon hydrogen production has increased from 0.04 million tonnes
+in 2010 to 0.36 million tonnes in 2019, and is expected to reach 1.45
+million tonnes in 2023"
+
+---
+
+"@Snowden
+
+@Navalny's arrest seems to me a repetition of mistakes made in the
+Soviet era, seen elsewhere now in the case against #Assange and the
+war on whistleblowers. States are developing an allergy to
+opposition—but systems that cannot accept dissent will not survive
+it. Let him go"
+
+---
+
 Pic is from my new wind plotter tool.
 
 ---

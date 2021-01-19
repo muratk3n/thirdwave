@@ -1,105 +1,94 @@
 # Tweets
 
-It's true, there is a bubble. [The Wilshire index](2019/05/stats.md#wilshire)
-(total market cap / GDP) is very high.
+They've been seeking for this f-ing thing for decades now.. and still
+haven't found it?
 
-Just looking at the shape of graph shows exp growth.
-
-"The wealthy are investing like a market bubble is here, or at least near"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mr. Navalny should be immediately released, and the perpetrators of the outrageous attack on his life must be held accountable. The Kremlin’s attacks on Mr. Navalny are not just a violation of human rights, but an affront to the Russian people who want their voices heard.</p>&mdash; Jake Sullivan (@jakejsullivan) <a href="https://twitter.com/jakejsullivan/status/1350893957375471628?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Time to give up dude? Or no.. Just fudge another constant and move
+on..?
 
 ---
 
-"@yashar
+The CERN presentation has a great title: "Desperately Seeking SUSY" 🤣 🤣 🤣 
 
-People keep asking why Navalny went back to Russia...some have called
-it foolish. How do you think change happens? It doesn't happen from a
-comfy apartment in Berlin or New York"
+[PDF](https://indico.cern.ch/event/527162/contributions/2159007/attachments/1298122/1936489/deroeck_SUGRA_2016_v4.pdf)
 
 ---
 
-Hey my Nano tripled in value dam 
+[shakes head in disbelief]
+
+Unzicker: "The reason why the standard model cannot calculate mass is
+stunningly simple. Whatever formula may calculate the mass of a
+
+particle, it has to have the physical unit of a mass, which is
+kilograms, and those kilograms have to come out of the formula, you
+can't pull it out of your ass. The only way to do it is to find
+combinations of the fundamental constants of Nature, otherwise you are
+cheating. But there is no such combination, as every high school kid
+can understand... There is just one caveat - you can't do it unless
+you use the gravitational constant G, that is, you consider gravity in
+your model. But particle physicists don’t do it because gravity is a
+difficult business that goes above their minds. It’s outright lunatic
+that they declare that calculating masses, alas, is impossible in the
+standard model and at the same time deliberately disregard gravity
+which would offer the only possibility to try it"
 
 ---
 
-"@Zachary
+"[Wilczek] has by now lost multiple bets that the LHC would see SUSY
+particles, including ones with Garrett Lisi in 2009 and Tord Ekelöf in
+2012. At this point, even diehards like Wilczek acknowledge that
+chances that the LHC will see SUSY are slim. Another problem is that
+increasingly sensitive proton decay experiments have also ruled out a
+large part of the proton lifetimes predicted by the SUSY models
+Wilczek favors"
 
-Biden will nominate FTC commissioner and @SenWarren ally Rohit Chopra
-to lead the CFPB, sources familiar say"
-
----
-
-I'll always remember that name through the Dennis Miller joke
-"... looks shakier than a rescue dog in Phil Spector's house".
-
-"Phil Spector: Pop producer jailed for murder dies at 81"
+[Link](https://www.math.columbia.edu/~woit/wordpress/?p=12147)
 
 ---
 
-"The quintessential Gen-X band"..? Hmm..
+Boeing did not only mess up on the control system of the MAX. They
+messed up in the core aerodynamics first, they created a poorly
+balanced plane, which they tried to fix using software. They made it
+much easier for the control system to fail, basically.
+
+People are awed and amazed at the electronics of these systems, but
+let's not forget, during WW1 and and 2, planes could still fly without
+any of these. Basic, solid aerodynamics made that possible. Now bunch
+of office monkeys too used to their gadgetry and unrealistic computer
+games think they can turn everything upside down, and "software" wld
+take care of it. This is delusional / wishful thinking. This is the
+mentality that gave you stagnant physics of decades, BEVs, IoT, errant
+liberalism and lukewarm, ineffective politics with tech sparkle. 
 
 ---
 
-Parts of it goes full Bee Gees 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s all stop adding more blow-dryers, okay? The experiment got a bit out of hand..</p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1303266836398702593?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-New Radicals - You Get What You Give \#music
+"'[R]ight now it’s starting to look like [HFCs] are in the lead
+[compared to battery electric-powered vehicles], and many experts
+think that will continue,' said Matt Waller, the dean of the Sam
+M. Walton College .. Waller said [they] could be better for the
+environment than electric batteries because there isn’t any poisonous
+material to dispose of with hydrogen, and the only byproduct is water"
 
-[Link](https://youtu.be/cPAEFnVZVOs?t=33)
-
----
-
-Its a feel good, upbeat ok song.
-
-"@RollingStone
-
-The New Radicals will reunite for the first time in 22 years to
-perform 'You Get What You Give' during Biden inauguration virtual
-parade"
+[Link](https://www.freightwaves.com/news/green-hydrogen-the-future-of-fuel)
 
 ---
 
-The trials and tribulations of Hawley is the perfect example why
-fascism-lite, the so-called "populism", is unsustainable as an
-ideology. Dude supported the Trump tax, then sided with Bernie on the
-$2000 check, is for anti-trust and but then went batshit on election
-fraud charges... He is a mess. This cant be the basis of Rep party, or
-any party.. These people can only exist as a reaction to something
-else.
+"Joining global shipping giants like NYK and CMA CGM, number-two ocean
+carrier MSC has recently joined the Hydrogen Council"
+
+<img width="340" src="https://www.maritime-executive.com/media/images/article/Photos/Vessels_Large/MSC-container-ship-2020.40e658.jpg"/>
+
+[Link](https://www.maritime-executive.com/article/number-two-ocean-carrier-joins-partnership-on-hydrogen-fuel-r-d)
 
 ---
 
-"@fuelcellsworks
+Lalo Schifrin - Hotel Daniels \#music
 
-Our weekend news continues as Japan & Adnoc Co-Operate in Developing
-\#Ammonia Fuel & Carbon Recycling Techn-Ammonia will play an important
-role in enabling \#hydrogen economy & can serve as a hydrogen carrier
-& \#zeroemission fuel"
-
-[Link](http://bit.ly/3qsRHgH)
-
----
-
-"@hazergroupltd
-
-Figures from the International Energy Agency reveal that global
-low-carbon hydrogen production has increased from 0.04 million tonnes
-in 2010 to 0.36 million tonnes in 2019, and is expected to reach 1.45
-million tonnes in 2023"
-
----
-
-"@Snowden
-
-@Navalny's arrest seems to me a repetition of mistakes made in the
-Soviet era, seen elsewhere now in the case against #Assange and the
-war on whistleblowers. States are developing an allergy to
-opposition—but systems that cannot accept dissent will not survive
-it. Let him go"
+[Link](https://youtu.be/GOwOzB62AFs)
 
 ---
 
