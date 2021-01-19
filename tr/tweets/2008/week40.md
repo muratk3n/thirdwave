@@ -1,4 +1,3 @@
-# YDB - 29/10
 
 Hadi Uluengin
 
@@ -33,7 +32,6 @@ Cemil Ertem
 Aslında bu değişimin çok büyük olacağını McCain de sezdi. Ve “beni seçmezseniz Amerika’ya sosyalizm gelecek” deyiverdi. Oysa gelenin, kapitalizmin onu ve onun gibileri tasfiye edecek yeni bir yüzü olduğunu biliyor.
 
 Dogru
-# YDB - 21/10
 
 Murat Belge
 
@@ -65,7 +63,6 @@ Obama, degisen uretim metodunun (kol bazli degil kafa bazli) siyasi yansimalarin
 
 Yani bu iki ucun temsil ettigi gorusler arasinda.
 
-# YDB - 2/10
 
 Abdullah Karatas
 
@@ -111,7 +108,6 @@ Mantikli
 
 
 
-# YDB - 27/10
 
 Yasemin Congar
 
@@ -262,7 +258,6 @@ Ve eklemek isterim ki, yukarida tarif edilen tablo tam anlamiyla bir felakettir.
 --
 
 [1] Kaldi ki, temel bilimlerde de kaotik sartlarin ortaya ciktigi yerler son zamanlarda ortaya cikmaya baslamistir. Ilginctir, sarkac problemine geri donuldu mesela... Bu alanda Strogatz gibi babalar sarkacin kaos yaratabildiginin ortaya koydular.
-# YDB - 12/10
 
 Economist
 
@@ -312,14 +307,11 @@ Simgesel jestler, duruşlar, sözler toplumu bizimki. Çünkü “teftiş” edi
 
 Dogru
 
-# YDB - 25/10
-
 Mehmet Altan
 
 [..] benim AK Parti’ye ve hükümete önerim Avrupa Birliği’nde birey ile devlet arasındaki ilişkiyi en gelişmiş bir anlayışla tanzim eden ‘Temel Haklar Şart’ını’ bundan böyle temel metin olarak kabul etmeleridir... İşlerin kolaylaşacağını ve Ankara Statükosu’nun yemi haline gelmeyeceklerini görecekler... Çünkü... Eğer referans evrensel hukuk ve özgürlükse, özgürlük anlayışınız bütünsel ve ilkeli ise bununla Ankara bile baş edemez... Yeter ki bir konuda özgürlük talep ederken, diğer bir konuda yasakçı olmayın... Ve demokratik reformlardan taviz vermeyin.
 
 Katiliyorum
-# YDB - 10/10
 
 Hadi Uluengin
 
@@ -356,7 +348,6 @@ Fordizm, Taylorizm kisaca endustriyellesme ideolojisine tekabul ederler - bunlar
 ---
 
 [1] Stratejik Derinlik, Davutoglu, A., sf. 73
-# YDB - 24/10
 
 Taha Akyol
 
@@ -382,7 +373,6 @@ Yani Anayasa Mahkemesi artık " Vetoyasa Mahkemesi " olmuştur. Çünkü her tü
 Bir başka kurumun (yani AYM'nin) olurunu almadan Anayasa maddelerini değiştiremeyecekse, "Meclis'in yasama yetkisinden" nasıl söz edebiliriz? Nasıl " Egemenlik kayıtsız şartsız milletindir " diyebiliriz? Diyemeyiz!
 
 Dogru
-# YDB - 14/10
 
 Newsweek
 

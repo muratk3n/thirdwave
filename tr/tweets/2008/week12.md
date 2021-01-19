@@ -1,4 +1,3 @@
-# YDB - 19/3
 
 Hadi Uluengin
 
@@ -27,7 +26,6 @@ Simdi ne oldu? Ceteler cokertiliyor, temizlik yapiliyor - ve (bazi yorumlardan a
 Ayni sekilde, su anda televizyonlarda olan dizilere "feodal yapiyi yuceltiyor" diye elestiri yapmak sacmaliktir cunku bu mereti seyreden adamin biraz ustunu kazirsaniz, bir nesil oncesi koye dayanacaktir! Sohbet sirasinda biraz silkelersen uzerinden "imece, kuyu, keci, nadas" gibi kelimeler dokulecektir. Yani adamin kultur kodlarinda bu meret vardir - zamanla olmayacaktir, ama simdi vardir. O sebeple, bunu seyredecektir, bunu sevecektir. Siz begenmiyorsaniz, seyretmezsiniz.
 
 Biz sahsen kayit ederek TV seyrederiz (hizli gecmek icin) ya da baska yollardan yabanci diziler.. Kayit edilenler, Turkce kanallardan TRT1, CnnTurk, Tgrt, Business Channel, NTV'den ibarettir (diger tum kanallar blok edilmistir). Hicbir Turkiyeli dizi seyretmeyiz. Hosumuza gitmiyor ama bu baskalarini elestirecegiz, o seyretmesin dedigimiz anlamina gelmez.
-# YDB - 9/3
 
 Ilber Ortayli
 
@@ -41,7 +39,6 @@ Eger zaman tunelinde geriye gitseydiniz, Kanadali veya Amerika'li kelimelerinin 
 ----
 
 [1] Cumhuriyet'imize Dair, Ismail Kucukkaya
-# YDB - 7/3
 Tayyip ErdoganDünya Kadınlar Günü nedeniyle Uşak’ta düzenlenen toplantıda konuşan Erdoğan, kadınlara “Bunlar Türk milletinin kökünü kazımak istiyorlar, nüfusun azalmasını istemiyorsanız, 3 çocuk doğurun” dedi.DogruYani, 3 cocuk kismi dogru... Ama daha kesin bir sayi istiyorsaniz, her ailenin 2.1 cocugu olmalidir! :) Bu rakam gelismis ulkelerde (biz daha orada olmasak ta) nufusun saglikli devri-daimi (replacement) icin gereklidir.Bu rakam ile ABD'de bazen dalga gecilir - "evet, evlenecegim, suburbia'ya [1]  tasinacagim, ve 2.1 cocuk sahibi olacagim" bunlardan biri..Serdar TurgutDaha önce söyledim; ‘getir göster bir birinci sayfa manşetini ve buyur ulusalcılık de’ diye ama o başka yazarların köşe yazılarıyla münakaşa ediyor kendi kafasında.YanlisBahsedilen gazetede "darbecilik kotu bir sey degildir" kivaminda yazilarin ciktigi oldu. Sn. Turgut bunlardan haberdardir umuyoruz... Kendi gazetesini okuyor olmali.---[1] Suburbia, "sehir disi" yani "suburb" kelimesinin bir espriyle ulke ismi gibi kullanildigi bir durumdur cunku sehir disi yasayanlar bazen degisik bir ulkede yasiyor gibi olurlar. Mesela bu sebeple suburbia'nin krali olan New Jersey'den gelen okuldan tanidiklarimiz New York'u hic sevmez. Sevmemezlik ters yonde de isler tabi - NY da NJ'yi pek tutmaz. NJ'in halini en guzel Sopranos dizisinde gorebilirsiniz.
 
 
@@ -64,7 +61,6 @@ Mart 07, 2008
 
 
 ![](281750.jpg)
-# YDB - 3/3
 
 Sinan Cetin
 
@@ -93,7 +89,6 @@ Ozgurlukcuyuz ama salak degiliz
 Yanlis
 
 Sosyalizm zaten ozgurlugun zittidir, yani ustteki beyan ve soyleyenin ideolojisi birbirine uymamaktadir. DÜTTÜ okulundaki bu arkadaslar durumun farkinda mi acaba?
-# YDB - 11/3
 
 Murat Birsel
 
@@ -147,7 +142,6 @@ Bahsedilen turden safsatalar etrafiimizda bolca. Tom Friedman bu tur yalnis sapt
 [2] Fakat sunu da eklemek gerekir: Modelin iddiayi ortaya koyma "yontemi" ve detay seviyesi (granularity) dogrudur ve Popper'in "yanlislanabilir" kriterine uygundur. Ki, tarihte modele uymayan bir olay olunca modeli atabilmeniz mumkun olmustur. Yanlislanabilme kriterine uymayan bir model, "vallahi madalyonun bir yuzunde askeriyesi kuvveli ulkeler savasir, madalyonun diger yuzunde askeriyesi kuvvetli ulkeler caydirici olur ve savasmaya ihtiyaclari kalmaz" (mesela) seklindeki bir modeldir. Bu modeli yanlislamak mumkun degildir, bilahere modelin hicbir kuvveti yoktur. Gelecegi tahmin icin size hicbir enstruman saglamaz.
 
 [3] Bir fakat daha: Kararlama mekanizmasi ile bir sorunun pek cok tarafini gorebilmeyi karistirmamak gerektigini de ekleyelim. Karardan once bir sorunun pek cok yonunu gorebilmis olmak her zaman karar mekanizmasina yardim eder.
-# YDB - 16/3
 
 Serdar Turgut
 
@@ -176,14 +170,12 @@ Lutfen herkes kararini cok iyi versin.
 ---
 
 [1] Osman Ulagay, Akp Gerçeği ve Laik Darbe Fiyaskosu
-# YDB - 6/3
 
 Mustafa Akyol
 
 Gelin, Fuller’ın yaklaşımıyla biraz da kendimize bakalım. Bu ülkedeki kimi “laikçiler”, en az yüzyıldır, “İslam yüzünden geri kaldığımızı” söyler veya ima eder. Bunu söylerken, “dinciler”in bağnaz, hoşgörüsüz, şekilci ve yeniliklere kapalı olduğunu da vurgularlar. Ama bu saydıkları olumsuz vasıflara kendilerinin de fazlasıyla sahip olduğu, son yıllarda ayan-beyan ortaya çıkmış durumda. Demek ki, bağnazlık, hoşgörüsüzlük, şekilcilik ve yeniliklere kapalılık, dinin bir ürünü değil; dindara da seküler olana da bulaşabilen, kendi başına ayakta duran sorunlar.
 
 Dogru
-# YDB - 21/3
 
 Gulay Gokturk
 
@@ -213,7 +205,6 @@ Ve aynen kapitalizmde "gorunmez el"in fiyatlari duzenledigi gibi, demokrasilerde
 O zaman: Siyasi rasyonalite icin yapilan her, siyasette mubahtir. O zaman, AKP, muhtemel bir cozum sonrasi aynen kaldigi yerden zihniyetini hic bozmadan, yoluna devam etmelidir. Oy almayi gozetmeli, karsi tarafin konularini calmaya ugrasmalidir. Ayni seyi MHP, CHP de yapmalidir.
 
 Bu surec sonunda uzun vadede ulkenin sorunlari cozume ulasacaktir.
-# YDB  - 12/3
 
 TİB BAŞKANI
 
@@ -234,7 +225,6 @@ Dogru fakat...
 Daha fazla bilgi her zaman daha iyidir. Bilgi yayilmak ister ve yayilacaktir. Ne cekismesi olursa olsun, daha fazla is gozonune cikiyor, bu da iyidir. ABD'de devlet ici cekisme help olur (ozellikle baskan topal ordeklesmeye baslarsa), ve bu cekismeler bir kurumun katilmadigi bir karar hakkinda bilgiyi basina "sizdirmasi" seklinde tezahur eder, mesela CIA bunu daha once yapmistir (evet, CIA'nin her tarafi "derin" degildir - cag degistikce, insanlar degistikce, onlarin icinde yeraldigi kurumlar da degismektedirler).
 
 Bu arada, konusanlarin kimligini saptamanin teknolojisi var - buna "speaker identification" denir.
-# YDB 2/3
 
 Hadi Uluengin
 
@@ -261,7 +251,6 @@ Dogru
 ---
 
 [1] Hatta tezkerenin gecmesi komedyenlerin diline bile dusmustu. Bill Maher bu haber ardindan monolog'unda soyle espri yapmisti: "Turkiye Kuzey Irak'a girmek icin parlamentosundan izin almis... Bush ta bunu duyunca demis ki: "Ne parlamentosu yahu? Ben kimseye sormadim! Kut diye girdim. Parlamento da neymis?"... Simdi, bunlar onemli seyler...
-# YDB - 14/3
 
 NTV
 

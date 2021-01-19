@@ -1,4 +1,3 @@
-# YDB - 2/2
 
 Erol Goka
 
@@ -33,7 +32,6 @@ Yanlis
 Bu tur filmlerde bir ulkenin/sirketinin isminin bahsedilmesi, bir rota sapmasi baglaminda bile olsa, kotu degil iyi bir seydir. Bu, bahsedilen ulkenin ve sirketin artik "buyuk cocuklar liginde" oldugunun gostergesidir. "Biliniyorsunuz" ve "kaale alinmaktasiniz" anlamina belir. En ufak seyden nem kaparak mahkeme vs. seklinde tepkiler vermek kucuk ulkelerin ve kendine guvenmeyen insanlar/sirketlerin isidir.
 
 Bu tur marazlardan artik silkinmemiz gerekiyor.
-# YDB - 28/2
 
 Ergun Babahan
 

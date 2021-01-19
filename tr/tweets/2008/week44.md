@@ -1,4 +1,3 @@
-# YDB - 18/11
 
 Etyen Mahcupyan
 
@@ -75,7 +74,6 @@ Oyle ABD kurulus fikriyatinin dibinde kalmis artiklari totaliter bir ideolojiyle
 [1] Burada bir noktaya daha dikkat cekmek gerekir: Uluc Cumhuriyet ve Demokrasi kelimelerinin 200 kusur onceki yaptigi cagrisimlari kullaniyor (ve bunu kasitli, demagoji amacli yapiyor). Sunu belirtmek gerekir ki, zaman gectikce bu iki kavram birbirine yaklasti ve gunumuzde artik Demokrasiler buyuk cogunlukla Cumhuriyetler ile beraber anilir/kullanilir hale geldiler. Birbirlerinin ozelliklerini tasir duruma geldiler. Bir demokrasi, kral/kralice oldugu ve anayasa olmadigi halde bile "alinamaz bireysel haklari" sahip oldu. Cumhuriyet hep bir demokratik secim duzeni kullanir oldu.
 
 Dikkat edilmesi gereken bir husus, saltanat olmadigi halde bazi otarsi ile yonetilen ulkelerin kendilerine Cumhuriyet demesidir; Bu koca bir ambalajlama operasyonudur. Otokrasiyi, kulaga daha hos gelen bir kelime ile saklama cabasidir. Cumhuriyet "temsiliyet" vurgusu tasir ve bunun hicbir sekline izin vermeyen yer Cumhuriyet olamaz. "Mutlulugunu takip etmesine" izin verilmeyen ve "alinamaz haklari alinan" insanlarin ulkesine de Cumhuriyet demek cok zordur.
-# YDB - 30/11
 
 Gokhan Ozgun
 
@@ -118,7 +116,6 @@ Ayrica Mises'in Sosyalizm adli kitabi burada bitirici darbeyi vuran eser olarak 
 [1] Blink, Gladwell, M., 2006, sf. 57
 
 [4] Obama'nin baskan olmasi, bu acidan, zenciler icin iyi bir "mojo yukseltici" faktor olabilir. Kendilerine guvenleri yukselir, iclerinden birinin basarili olmasi hepsinin yapabilecegine dair bir inanc asilar.
-# YDB - 22/11
 
 Emre Akoz
 
@@ -143,7 +140,6 @@ Ama artık o gizli geçitlere bütün ‘uyanık muhalifleri’ sığdıramayaca
 Dogru
 
 Bu "etraftan dolasmaciligin" ornegi yukarida goruluyor zaten.. "Benim memurum isini bilir", "benim Internet kullanicim isini bilir".. Arada bir fark yok.
-# YDB - 6/11
 
 Mumtaz'er Turkone
 
@@ -191,7 +187,6 @@ Ama Kurtuluş Savaşı’nı çok iyi örgütledi, cumhuriyeti kurdu. Liderliği
 Atatürk’ün zaafları bulunan bir insan olduğu gerçeği de değişmez. Onun kurduğu cumhuriyetin hâlâ demokratikleşemediği gerçeği de değişmez. Zaten gerçekleri değiştirmeye değil, o gerçekleri görmeye ihtiyacımız var. O gerçekler görüldüğü zaman Atatürk’ün ne değeri eksilir ne de değeri artar, sadece onun arkasına saklananların asıl yüzü ve amaçları ortaya çıkar. Esas korktukları da bu, onun için bu kadar saçmalıyorlar zaten.
 
 Dogru
-# YDB - 26/11
 
 Cemil Ertem
 
@@ -224,7 +219,6 @@ Bu Yeni Bir Ortacag
 Bu son kacirma olaylari bana hep Parag Khanna'nin sozlerini hatirlatiyor: "[Gunumuzu tarif etmek icin] yeni duzen yerine "Yeni Ortacag" kelimeleri aslinda daha uygundur, cunku aynen Ortacag'da oldugu gibi bugunde sadece ulkelerin degil, imparatorluklarin, cokuluslu sirketlerin, dini akincilarin/sefercilerin (crusaders), devletten bagimsiz aktivistlerin ve mega-hayirseverlerin cirit attigi bir dunyada yasamaktayiz, ve bu aktorler, kompleks bir matriksi andiran 21. yuzyil guc dinamiginin her katmaninda boy gostermektedirler".
 
 Bu listeye bir de "korsanlar"'i ekleyinca tam Ortacag oluyor iste. Korsanlar! Telafuzu bile insana komik geliyor...
-# YDB - 12/11
 
 Can Dundar
 
@@ -289,7 +283,6 @@ Su anda Guneydogu'da, Istanbul'da Kurt asilli vatandaslarimiz var. O zaman biz G
 ---
 
 [1] Ah bu arada, ABD ilk kuruldugunda demokraksi degildir, ama bolgelerin secilmis temsilcilerine "kelleniz ucar" gibi sozun soylendigi katiyen vaki degildir. O temsilcilerin kim olacagina karisilmazdi. O temsilcilerin kimi baskan secilecegini de karisilmazdi. Bu muthis bir politik yaris ortaya cikarmistir, ki yaris, iyi bir seydir.
-# YDB -  1/12
 
 Mahir Kaynak
 
@@ -340,7 +333,6 @@ Ileride birisi diplomatik dili degistirirse, konjektur, vs. yerinden oynarsa, du
 [1] Bu kultur, bu arada, sadece "Turkler"'den ibaret degildir. Kultur bu topragin kulturu olarak tum Turkiyelileri kapsayacaktir.
 
 [2] Yanliz Turk kaybinin daha az olmasinin arkasindaki sebep, Turk nufusun koylere daginik olmasi ve Ermeni cetelerinin bu daginik yapida tahribat yapma sansinin daha sinirli olmasidir. Yoksa hic suphe olmasin ki bu tahribati yapacak niyet (intent) Ermeni tarafinda da vardir. Sadece elinde bunu etkili yapabilecek mekanizma yoktur.
-# YDB - 14/11
 
 Gulay Gokturk
 
@@ -377,7 +369,6 @@ Dogru
 Ben bir adim daha ileri gidecegim; Ilhamin tamamen Fransa'dan alindigini ama Turkiye'de kurulan seyin Cumhuriyet olarak etiketlenmesinin bile supheli olabilecegi ihtimalidir bu. Cumhuriyet, bolgesel temsilcilerin kanun yapabilmelerini ve baskan secebilmelerini ongorur. Peki Turkiye'de 1923-38 sirasinda, ve hatta sonrasinda, bunun oldugunu soyleyebilir miyiz? Bolgesel temsilciler ne kadar merkezden "bagimsiz" olarak secilebiliyorlardi?
 
 Bunlarin olmadigi bir rejime Cumhuriyet demek ne kadar dogrudur?
-# YDB - 23/11
 
 Etyen Mahcupyan
 Ne var ki AKP’nin yaklaşan seçimler arifesinde taktiksel bir esneklik uğruna siyaseten pasifize olmayı kabullendiğine ve devlete yaklaşarak muhalefeti söylemsiz bırakmaya çalıştığına tanık oluyoruz. [..] Bugün AB reformları durmuşsa, bunun nedeni AKP’nin kendini güçlü hissederek ‘aslına’ dönmesi değil... Tam aksine kendini güçsüz hissettiği ölçüde AKP’nin ancak devlete yaslanarak seçim virajını alabileceği değerlendirmesini yapması. Kısacası hükümet beceremeyeceği girişimlere başlamaktan çekiniyor, başarısız olmaktan korkuyor ve bunları seçim sonrasına erteliyor. Öte yandan devletçi söylem üzerinden muhalefeti sıkıştırmanın akabinde, hükümetin Kürt ve Alevi taleplerine ilişkin olarak çok daha yumuşak bir tavır göstermesi kimseyi şaşırtmamalı. Böyle bir açılımın inandırıcılığı çok fazla olmamakla birlikte, unutmamak gerek ki diğer partilerin neredeyse faşizan ideolojileri yanında AKP’nin fazlasıyla pragmatist tavrının yine de seçmen nezdinde çekiciliği olacaktır.
@@ -471,7 +462,6 @@ Kasım 22, 2008
 
 
 
-# YDB - 28/11
 
 Hasan Bulent Kahraman
 
@@ -514,7 +504,7 @@ Ama medya askeriyenin etkisiyle öyle saldırdı ki, Turgut Bey söylediklerini 
 Mantikli
 
 Rahmetli Ozal'in olumunde bence bas fail ABD petrol cetesidir. Iran'da secilmis bir politikaciyi oldurten, Irak'ta basbakana suikast duzenlettiren (sonra onu da oldurten) bir ceteden zaten farkli bir sey beklenemez. Ozal'in fikri iyiymis, cesaretini alkislamak lazim, denemesi de iyi oldu belki de. Keske daha iyi korunsaydi. Fakat final analizde Kuzey Irak petrolune Indra Gandi yapacaksin ve karsi taraf elleri bagli bunu seyredecek.. Mumkun degil.
-# YDB - 9/11
+
 [..] Bunun için de var gücüyle yerel seçimlere asılıyor; [..] Peki bütün bunlar Erdoğan'ın isminin üstünü çizmek için yeterli mi? Başbakan'ın Bush'tan farkı kalmadığını söylemek, ya da askeriyeyle anlaştığını, ordunun siyaset üstündeki vesayetine tamamen boyun eğdiğini iddia etmek gerçeğe ve hakkaniyete ne kadar uygun? [..]
 
 Bu kesimden bazı arkadaşlar, AK Parti'nin çeşitli hataları karşısında son derece sekter bir tutum alıyor. Günlük siyaset içinde ortaya çıkan her yanlış tutumda "Milliyetçilerin kuyruğuna takıldı" "Devletle eklemlendi", "AB'yi rafa kaldırdı" "Tek Parti diktatörlüğüne yöneldi" ya da"Obama'ydı Bush oldu" gibi insafsız genellemeler yapıyorlar.
