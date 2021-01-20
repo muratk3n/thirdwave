@@ -59,8 +59,6 @@ Feynman it's good enough for me.
 
 ---
 
-A great man MLK. Lead from front.
-
 "Even Though He Is Revered Today, MLK Was Widely Disliked by the American Public"
 
 ---
@@ -72,7 +70,7 @@ cld say I've been tweeting since 2008.
 
 The dollar was already too high. It now moved to an average level.
 
-"All that stimulus talk led to the dollar falling"
+"Previous stimulus and future prosp of more led to the dollar falling"
 
 ---
 
