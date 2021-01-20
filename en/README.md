@@ -21,6 +21,10 @@ McKinsey H2 roadmap ideas for US.
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ll admit it, this headline seriously moved me. We&#39;ve got tremendous work to do, but we&#39;ve got a great, deeply committed team that&#39;s already hard at work. But step 1--new leadership w a genuine commitment to meeting the challenges we face--is hours away. <a href="https://t.co/8zkw4g1O5J">pic.twitter.com/8zkw4g1O5J</a></p>&mdash; Jared Bernstein (@econjared) <a href="https://twitter.com/econjared/status/1351894226779385862?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 That risk averseness led to the discovery and settlement of US after
 all 😉 Pursued by different, diverse set of states also let's not
 forget.
