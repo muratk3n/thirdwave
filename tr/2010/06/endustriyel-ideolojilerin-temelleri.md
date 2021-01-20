@@ -2,13 +2,13 @@
 
 [Tek Alanda Calismak](endustriyel-ideolojilerin-temelleri-tek.md)
 
-[Standardizasyon](endustriyel-ideolojilerin-temelleri_05.md)
+[Standardizasyon](endustriyel-ideolojilerin-temelleri-standardizasyon.md)
 
-[Senkronizasyon](endustriyel-ideolojilerin-temelleri_06.md)
+[Senkronizasyon](endustriyel-ideolojilerin-temelleri-senkronizasyon.md)
 
-[Maksimizasyon](endustriyel-ideolojilerin-temelleri_10.md)
+[Maksimizasyon](endustriyel-ideolojilerin-temelleri-maksimizasyon.md)
 
-[Merkezilestirme](endustriyel-ideolojilerin-temelleri_12.md)
+[Merkezilestirme](endustriyel-ideolojilerin-temelleri-merkezilestirme.md)
 
 [Konstrasyon](endustriyel-ideolojilerin-temelleri-konsantrasyon.md)
 
