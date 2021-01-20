@@ -27,7 +27,7 @@ forget.
 
 ---
 
-Europe doing gutsy stuff as of late.. Werent they bunch of bureucrats,
+Europe doing some gutsy stuff.. Werent they bunch of bureucrats,
 eurocrats, all "arthritic", not able to move..?  Taking some risks,
 big moves here
 
