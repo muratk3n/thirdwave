@@ -1,93 +1,101 @@
 # Tweets
 
-They've been seeking for this f-ing thing for decades now.. and still
-haven't found it?
-
-Time to give up dude? Or no.. Just fudge another constant and move
-on..?
+Happy Inauguration Day
 
 ---
 
-The CERN presentation has a great title: "Desperately Seeking SUSY" 🤣 🤣 🤣 
+Manchin won't be the party pooper then?
 
-[PDF](https://indico.cern.ch/event/527162/contributions/2159007/attachments/1298122/1936489/deroeck_SUGRA_2016_v4.pdf)
+"@sahilkapur
 
----
-
-[shakes head in disbelief]
-
-Unzicker: "The reason why the standard model cannot calculate mass is
-stunningly simple. Whatever formula may calculate the mass of a
-particle, it has to have the physical unit of a mass, which is
-kilograms, and those kilograms have to come out of the formula, you
-can't pull it out of your ass. The only way to do it is to find
-combinations of the fundamental constants of Nature, otherwise you are
-cheating. But there is no such combination, as every high school kid
-can understand... There is just one caveat - you can't do it unless
-you use the gravitational constant G, that is, you consider gravity in
-your model. But particle physicists don’t do it because gravity is a
-difficult business that goes above their minds. It’s outright lunatic
-that they declare that calculating masses, alas, is impossible in the
-standard model and at the same time deliberately disregard gravity
-which would offer the only possibility to try it"
+Important policy news this weekend: @Sen_JoeManchin went [on TV] and
+kept the door open to higher stimulus checks up to 2,000 (he prefers
+they be targeted but didn't draw a red line) and called for spending
+as much as $4 trillion (!) on infrastructure"
 
 ---
 
-"[Wilczek] has by now lost multiple bets that the LHC would see SUSY
-particles, including ones with Garrett Lisi in 2009 and Tord Ekelöf in 2012.
-At this point, even diehards like Wilczek acknowledge that
-chances that the LHC will see SUSY are slim. Another problem is that
-increasingly sensitive proton decay experiments have also ruled out a
-large part of the proton lifetimes predicted by the SUSY models
-Wilczek favors"
+McKinsey H2 roadmap ideas for US.
 
-[Link](https://www.math.columbia.edu/~woit/wordpress/?p=12147)
+[PDF](https://static1.squarespace.com/static/53ab1feee4b0bef0179a1563/t/5e7ca9d6c8fb3629d399fe0c/1585228263363/Road+Map+to+a+US+Hydrogen+Economy+Full+Report.pdf)
 
 ---
 
-Boeing did not only mess up on the control system of the MAX. They
-messed up in the core aerodynamics first, they created a poorly
-balanced plane, which they tried to fix using software. They made it
-much easier for the control system to fail, basically.
-
-People are awed and amazed at the electronics of these systems, but
-let's not forget, during WW1 and and 2, planes could still fly without
-any of these. Basic, solid aerodynamics made that possible. Now bunch
-of office monkeys too used to their gadgetry and unrealistic computer
-games think they can turn everything upside down, and "software" wld
-take care of it. This is delusional / wishful thinking. This is the
-mentality that gave you stagnant physics of decades, BEVs, IoT, errant
-liberalism and lukewarm, ineffective politics with tech sparkle. 
+That risk averseness led to the discovery and colonization of US after
+all 😉 Pursued by different, diverse set of states also let's not forget.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s all stop adding more blow-dryers, okay? The experiment got a bit out of hand..</p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1303266836398702593?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Europe doing gutsy stuff as of late, compared to US.. Werent they
+bunch of bureucrats, eurocrats, all "arthritic", not able to move..?
+Taking some risks, big moves here
 
 ---
 
-"'[R]ight now it’s starting to look like [HFCs] are in the lead
-[compared to battery electric-powered vehicles], and many experts
-think that will continue,' said Matt Waller, the dean of the Sam
-M. Walton College .. Waller said [they] could be better for the
-environment than electric batteries because there isn’t any poisonous
-material to dispose of with hydrogen, and the only byproduct is water"
+👏👏👏👏👏👏
 
-[Link](https://www.freightwaves.com/news/green-hydrogen-the-future-of-fuel)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean hydrogen will help us reconcile our economy with the health of our planet. That&#39;s the spirit of the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a>. <br><br>We invest in hydrogen like never before and support out-of-the-box solutions, to make the EU climate-neutral by 2050.<br><br>My address to <a href="https://twitter.com/HydrogenCouncil?ref_src=twsrc%5Etfw">@HydrogenCouncil</a> ⤵ <a href="https://t.co/Fjmot35KW6">pic.twitter.com/Fjmot35KW6</a></p>&mdash; Ursula von der Leyen (@vonderleyen) <a href="https://twitter.com/vonderleyen/status/1351487690752073729?ref_src=twsrc%5Etfw">January 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Joining global shipping giants like NYK and CMA CGM, number-two ocean
-carrier MSC has recently joined the Hydrogen Council"
+That black hole fail was the last straw .. Just the fact that two
+reputable scientists debunkimg the crap out of a concept so widely
+accepted is proof enough.
 
-<img width="340" src="https://www.maritime-executive.com/media/images/article/Photos/Vessels_Large/MSC-container-ship-2020.40e658.jpg"/>
+Mainstream sci today looks more and more like Church teachings from
+the Middle Ages.
 
-[Link](https://www.maritime-executive.com/article/number-two-ocean-carrier-joins-partnership-on-hydrogen-fuel-r-d)
+Church teachings are bunk, bunch of alternate theoreticians roam
+about, most of whom are also quacks.
+
+No wonder art, cinema is obsessed with the era.
 
 ---
 
-Lalo Schifrin - Hotel Daniels \#music
+Its probably safe to ignore any mainstream physics since 30s. Same for
+base math pretty much. If 19th century math was good enough for
+Feynman it's good enough for me.
 
-[Link](https://youtu.be/GOwOzB62AFs)
+---
+
+A great man MLK. Lead from front.
+
+"Even Though He Is Revered Today, MLK Was Widely Disliked by the American Public"
+
+---
+
+Including the tr version of the blog and its q&a format as tweets, u
+cld say I've been tweeting since 2008.
+
+---
+
+The dollar was already too high. It now moved to an average level.
+
+"All that stimulus talk led to the dollar falling"
+
+---
+
+The entire world is rushing, competing to sell to US, as well as to
+eachother. How cld that not lower prices? Wages also have competition
+through globalization. 
+
+"Why did inflation disappear in US?"
+
+---
+
+"@jmhansler
+
+GRAHAM: Secretary Pompeo designated the Chinese Communist Party as
+having engaged in genocide regarding the Uighur Muslim population. Do
+you agree with that?
+
+BLINKEN: That would be my judgment as well"
+
+---
+
+Pakistan is looking into H2, study through Asian Development Bank
+
+[Link](https://apac.gasworld.com/story/pakistan-neeca-and-adb-collaborate-for-renewable-hydrogen-deployment-study/)
 
 ---
 
