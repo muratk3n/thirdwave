@@ -83,16 +83,6 @@ through globalization.
 
 ---
 
-"@jmhansler
-
-GRAHAM: Secretary Pompeo designated the Chinese Communist Party as
-having engaged in genocide regarding the Uighur Muslim population. Do
-you agree with that?
-
-BLINKEN: That would be my judgment as well"
-
----
-
 Pakistan is looking into H2, study through Asian Development Bank
 
 [Link](https://apac.gasworld.com/story/pakistan-neeca-and-adb-collaborate-for-renewable-hydrogen-deployment-study/)
