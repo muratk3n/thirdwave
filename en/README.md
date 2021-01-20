@@ -21,8 +21,9 @@ McKinsey H2 roadmap ideas for US.
 
 ---
 
-That risk averseness led to the discovery and colonization of US after
-all 😉 Pursued by different, diverse set of states also let's not forget.
+That risk averseness led to the discovery and settlement of US after
+all 😉 Pursued by different, diverse set of states also let's not
+forget.
 
 ---
 
