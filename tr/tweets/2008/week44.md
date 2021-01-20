@@ -1,18 +1,4 @@
 
-Etyen Mahcupyan
-
-Solcular kategorik olarak savunulması şart olan şeyleri savunuyorlar ve bu savunmayı da belirli bir dil üzerinden yapıyorlar. Öyle ki sanki bu savunma sizi daha da ‘solcu’ yapıyor ve salt bu niteliğinizle haklı hale gelebiliyorsunuz. Diğer bir deyişle solcuların epeyce bir kısmı ‘anlamak’ diye bir meseleye sahip değiller. Dolayısıyla da kendi ideolojik geleneklerini, cemaatsel yapılarını ve ahlak anlayışlarını da anlamaya yönelik, bir gayret göstermiyorlar. Dahası bu tür çabaları bir tehdit olarak algıladıkları için, anlamayı bizatihi bir saldırganlık olarak görüyorlar.
-
-Dogru
-
-Sn. Mahcupyan meseleyi tam bam yerinden yakalamis; Bahsedilen hissiyatin temelleri aslinda Marks'a kadar uzaniyor. Marks tarih sahnesine ciktiginda, aslinda sosyalizm iktisadi baglamda, bilimsel literaturde coktan cokertilmisti. Bunu telafi etmek isteyen, ve sosyalistlere bir sekilde "gaz vermek" isteyen Marks, cozumu "tarihsel durdurulmazlik" argumanini kullanmakta buldu. Bu argumani kullanarak adete sosyalizm hakkinda bilimsel olarak dusunmeyi "yasakladi". Yani takipcilerinin aklini kapatti.
-
-Bunun yokedici etkilerini bugun kendine "sol" denen grubun uzerinde acik sekilde goruyoruz. Verdikleri bazi tepkiler bir yegenimin 5 yasindayken verdigi tepkilere benziyor: Yanlis bir sey yaptiginda ve bir buyuk onu paylamak icin "bunu niye yaptin cocugum?" diye sordugunda, eksi bir yuz ifadesi ile soyle cevaplardi: "Iste de ondan!". :)
-
-Bu grup icinde reddiye, sadece reddetmis olmak icin yapiliyor ve tipik olarak dunya uzerinde nasil olsa olusacak bir "cennetin" gelisi bekleniyor. Bu cennetin gelisi icin reddiyenin yetmeyecegi, hatta reddiyenin tamamen yanlis oldugu soylenince, burada onlari dusunmeye tesvik etmis oluyorsunuz ve bu, bu kisilerin cenahinda "ana gunah (cardinal sin)" olarak hemen buyuk tepki goruyor. Hatta aralarindaki teslimiyetcilerden bazilarinin fikri temeli o kadar tukenmistir ki, kendi nihai zaferi icin once tam ziddinin basarili olmasi gerektigine inananlari vardir.
-
-Ve bu, nihai analizde, bir ideolojinin dusebilecegi en zavalli noktadir.
-
 Hadi Uluengin
 
 Fakat aslına bakarsanız, dünya kamuoyuna ilk kez George W. Bush’un 26 Şubat 2003 tarihli ünlü konuşmasıyla duyurulan bu plan zaten baştan ölü doğmuştu.

@@ -10,28 +10,6 @@ Krizde olan demokrasi değil, temsili sistem. Rejim krizi olursa (ki oluyor) tem
 Ilgili: Güven Tazeleme Ritüeli
 
 
-Bir solcu
-
-Roubini, Karl Marx haklı çıktı demiş
-
-Saçmalama
-
-Türkiye'de yenilmekten düşünce kabiliyetini kaybetmiş bazı kimseler
-böyle zannediyor. Fakat şu BusinessInsider makalesine göre bu "haber"
-ilk kez İsrail'in Globes gazetesinde yayınlandı, nerede duyulduğu
-hakkında bir yorum da yapılmadı, sadece acaip bir şekilde bir yerlere
-aktarıldı. Sonra Roubini Twitter'da bu düşüncelerinin abartılmış,
-esnetilmiş (hyperbole) bir özeti olduğunu belirtti ve düşüncelerinin
-daha iyi gostergesi olarak şu makalesini gosterdi. O makalede diyor
-ki: Görünen o ki, Karl Marx'ın finansal aracı kurumların alıp başını
-gitmesi, küreselleşme, ve zenginliğin emekten kapitale transferi
-sonucu kapitalizmin kendi kendini yokedeceği öngörüsü kısmen haklı
-çıktı (fakat sosyalizmin daha iyi olacağı öngörüsü yanlış çıkmıştır).
-"Kitlesel yayın organlarında" çalıştığınız için kimse sizden öyle
-özel, farklı şeyler beklemiyor, ama batarken en azından bu kadar
-rezalet ortaya çıkartmayin. Kafanızda hiç mi filtre mekanizması yok
-kardeşim? Nobel ödüllü ekonomistin sizinle aynı fikirde olmasının
-acaipliği bile sizin için bir uyarı olmalıydı.
 
 Süleyman Yaşar
 

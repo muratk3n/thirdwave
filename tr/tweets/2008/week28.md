@@ -1,25 +1,4 @@
 
-Can Dundar
-
-İdeoloji üreterek bireylerin sisteme sadakatini sağlayan bu aygıtlar ele geçirilemezse ne olur? Sovyetler’de olan şey olur: Yani kaba güç, bir süre sonra sistemi ayakta tutamaz hale gelir.
-
-Yanlis
-
-Sovyetler tum ideolojik aygitlarini kullaniyor olmasina ragmen sistemin cokmesini engelleyememistir... Ayni tarih kitaplarini mi okuyoruz? Dundar'in beyani, saftirik solcularin CHP/SHP/vsHP partilerinin neredeyse her secimden sonra dusuk oy aldiktan sonra "kendimizi anlatamadik" bahanesine sarilmasina benziyor. Anlattiniz. Fakat sisteminizin curuklugunu, icindeki kokusmuslugunu gizleyemediniz, ve halk cok iyi anladi. Oy vermedi. Sovyetler durumunda ise coktu.
-
-Sovyet sistemi analojisine devam edersek: Sistem ideolojisini gayet guzel sekilde yaymistir, sistemin pek cok "inanani" vardir [1]. Ama dunyanin gercekleri, sistemin sonunu getirmistir, Ronald Reagan bu tabuta sadece civiyi en son cakan kisidir (kismen H. W. Bush ta). Eger sizin 100 liraniz, rakibinizin 10 lirasi var ise, siz savunma harcamalarini 20 liraya cikartirsaniz, rakibinizin parasi biter (ve iflas eder, coker), siz 80 lira ile devam edersiniz. Yildiz Savaslari projesinin temelinde aslinda bu harcatma politikasi yatiyordu. Peki Sovyetler niye fakirdi? Cunku deger uretemiyordu, rekabetciligin olmadigi ekonomisi cok zayifti.
-
-Taha Akyol
-
-MERHUM Ersin Faralyalı’nın cenaze töreninde değerli bir meslektaşımla ayaküstü görüştük. Türkiye’nin artık bir darbeye geçit vermeyecek kadar gelişmiş ve çeşitlenmiş bir “açık toplum” olduğunu kabul ediyordu. Ama böyle bir toplumda şeriat tehlikesinin olamayacağı şeklindeki görüşüme katılmıyordu. [..] Humeyni de esnafın, liberallerin ve solcuların desteğiyle gelmemiş miydi?! [..] Evvela, Şiilikte “İmam”a bağlanmak itikadi bir gerekliliktir, Ayetullahlar ile halk arasında ve özellikle esnaf arasında böyle itikadi bir bağlılık vardır. [..] Humeyni devrimine gelince... Rıza Şah Pehlevi, tekelinde tuttuğu muazzam petrol gelirleriyle bir ‘akrabalar ekonomisi’ kurmuştu. Finans sektörünün yüzde 67’si 150 ailenin elindeydi! Yabancı sermayenin ortak olduğu 473 büyük sanayi şirketinin 370’si Şah’ın akrabalarına aitti! Petrol aristokrasisi lüks içinde “Batılı yaşam” yaşıyordu! Eleştirenler kurşuna diziliyordu.
-
-Katiliyorum, ve
-
-Burada onemli bir ek, Şah Pehlevi'nin bu otarsik yonetimi, demokratik secimle gelen basbakan Musaddik'in bir CIA operasyonu ile devrilmesi sayesinde ele gecirmis olmasidir (Ajax operasyonu). Demek ki, Iran'daki devrimin bir diger sebebi, halkin demokratik seceneklerinin tuketilmis olmasidir, ustte tarif edilen 'akraba sistemine' ve diger ekonomik, sosyal problemlere olan itirazlar kendine baska cikis noktasi bulamamistir.
-
----
-
-[1] Hatta 9/11'de Al Kaide saldirisindan sonra eski bir KGB ajani "bu adamlar bana yikilmadan onceki bizim (Sovyetler) halimizi hatirlatiyor" diye bir yorum bile yapmisti, ve soyle devam etmistir; "bizim de o zamanlar inancimiz vardi". Bu yorum aslinda gayet Durkheim'ci bir dayanisma (solidarity) idealinin cagristiriyor. Bir "toplu ideal" var buna "inaniliyor" falan...
 
 Engin Ardic
 
@@ -105,14 +84,6 @@ Degisimciligi tarif etmek icin ABD'de kullanilan terim, ilerleyici/gelisimci (pr
 
 Bir ek te Weber hakkinda. Weber endustriyel bir toplum icin gidilebilecek en ileri noktaya gitmistir. Marks'i asmis, Durkheim'i katlamistir. Tek eksigi, icinde oldugu cag sebebiyle "burokrasilerin zaferini" yanlis bir sekilde tahmin etmis olmasidir. Bizce burokrasi konusunda "zaferi kurgulayan" Weber degil, onlarin "cokusunu goren" Warren Bennis hakli cikacaktir.
 
-Taha Akyol
-
-Özgürlükçü solcu, ateist Murat Belge’yi muhafazakârlar seviyor; Kemalistler kızıyor! Taraf‘ta Ahmet Altan geniş dindar kitlelerle özgürlükçü solun ittifak yapmasını savunuyor. Basit bir siyasi ittifak değil, bir tür ‘dine saygılı sol’ teorisi geliştiriyor. [..] Kemalistler “uyanık bekçi” psikolojiyle, bu değişimleri tuzak falan sanıyor. Değişimin şehirleşme, piyasa ekonomisi, demokrasi, dışa açılma gibi dinamiklerini bu psikoloji yüzünden doğru analiz edemiyorlar. “Susmak, kaçmak, kapanmak” gibi tepkilere kapılıyorlar. Hepimiz şu iki maddi gerçeği içimize sindirmeliyiz: Modernleşen toplumlar kaçınılmaz olarak orta sınıflaşır, çoğulculaşır. Artık tek fikirli, tek-tip itikatlı bir toplum hayal bile edilemez.
-
-Neredeyse tam dogru
-
-Kemalistlerin yanilgilari ve cagin gelisimleri hakkinda analize katiliyorum. Elestirim yine "sol" kelimesinin gecersizliginde yatiyor.. Uretim yonteminde hicbir yansimasi olmayan etiketlerin hala kullanilmasi yanlistir. Murat Belge bir "isci sinifi" yazari degildir, ileride yokolacak bu sinif sosyal analizlerde de artik onemli/basat bir faktor degildir. Belge, apacik bir sekilde yeni masa basi calisanlari tarafindan okunmaktadir. Kendisinin dogru tarifi aslinda "sol tarihini iyi bilen bilgi toplumu yazari" tarifidir. Kendisi bunun farkinda olmayabilir - fakat bireysel demokrasinin mummessibi, bu demokrasinin uretim metotu uzerindeki yansimalari olan insan gruplari bu masa basi calisanlaridir ve bu grubun bir numarali derdi "az mi cok mu sosyal devlet olsun" sorusu degildir!
-
 Bir Internet Yorumcusu
 
 Ben sosyalistim cunku yardimseverim
@@ -136,37 +107,6 @@ Mantikli
 En son bilgilere gore secenegim %55 PKK, %45 Ergenekon tarafinda olurdu. Bu saldiri her iki teror ortugu icin faydalidir, PKK'nin "biz yapmadik" demesinin hicbir anlami yoktur. Teror her zaman bir "reklam kampanyasi" olmak zorunda degildir.
 
 Fakat esas ilginc olan analiz bu degil. Ilginc olan, AKP, Askeriye, CHP ve bir kisim medya'nin tek bir agizdan "kesin PKK" demesidir! Uzlasma gerceklesmise benziyor!
-
-
-
-
-
-zaman:
-
-Temmuz 15, 2008
-
-
-Murat Belge
-
-Çünkü sosyalist zaten en olgun demokrasinin sosyalizmde mümkün olduğuna inanır.YanlisSuradan aktariyorum:Komunizm ile sosyalizm arasindaki yegane fark, basa gelme yontemleridir. Komunizm kaba kuvvet kullanarak basa gelir, sosyalizm ise sandiktan cikabilir. Aradaki fark, cinayet sonucu ya da intihar ederek olmek arasindaki farka benzer.Demokrasi sosyalizm icin bir aractir, ama en azindan retorik olarak sosyalistler demokrasi sozcugunu geveledikleri icin diger kollektivist seceneklerden "birazcik" daha iyi olabilirler. Bu  baglamda Belge gibi yazarlar sosyalist koyun surusunu demokrasi tarafina birazcik gudebilirse, bu bir kazanim olacaktir :) - en azindan "toplam demokrat sayisi" cogalabilecektir. Ote yandan, zaten bu kisilikler hicbir zaman iktidara gelecek sayiya erisemeyecegine gore, hayallerindeki demokrasi sonrasi gasp rejimini hicbir zaman hayata geciremeyeceklerdir, boylece herkes kazanacaktir.Mehmet BarlasAslında 1960'larda "komprador burjuvazinin montaj sanayii" diye küçümsediğimiz ve aşağıladığımız otomotiv endüstrisi [..]Hala oyleTurkiye'de otomotiv sektoru net doviz ureten bir sektor degildir. Capisc? Bunu soyle bir dusunup tartacaksiniz Sn. Barlas. Demek ki otomotiv sektoru cari acigin kapanmasina destek degil kostek olan bir sektor. Ihrac ettiginden daha fazlasini ithal ediyor. Bu sektorde, diger tum sektorlerde oldugu gibi innovasyon eksikligi var. Su baglantiya gore Otosan 22 yılda toplam 55 patent ortaya koymus. Kiyaslama acisindan 2000-2004 arasinda yabanci bazi unlu otomotiv sirketlerinin patent sayisi altta veriyoruz [1].Bu tabloya gore sadece 2000 ve 2004 arasinda Toyota'nin aldigi patent sayisi 120'nin ustundedir. Yani Otosan'in 22 senede aldigi patentin uc katindan daha fazladir. Bu ne demektir? Yapacak daha cok is var demektir. Yani zart zurt ovunmeden once kirk kere dusuneceksiniz.Gelismeler yok mu? Var. Su belgede [2] anlatildigina gore su anda hukumetin AR-GE tesviklerinin %30 kusur kadari otomotiv sektorune gidiyor ve bu belki yavas yavas bir hareketlenme yaratacak. Sektorun kendisi de uyaniyor, AR-GE yatirimi yapiyor. Ama daha ovunmek icin cok erken - ne ovunecek ne dovunecek durumdayiz acikcasi.Ayni belgede Turkiye'nin tum imalatindaki yuksek teknoloji oranina bakin, %3 civaridir. ABD'de bu rakam %50'nin uzerindedir! Evet, Ispanya'yi gecebilmisiz ama, yani, kimse kusura bakmasin, yuksek teknoloji dunyasinda bu adamlar çerez ulkelerden. Turkiye'ye kistas olarak bir Avrupa, Akdeniz ulkesini almak pek uygun degil bizce.Emre AkozBu çaba da fayda etmeyince seçimlerden beri demediklerini bırakmadıkları Başbakan Erdoğan'dan aman dilediler. Yani, çoktan tahmin ettiğimiz gibi, artık 'dansözlük' safhasına geçtiler. Hürriyet okurunun halini düşünebiliyor musunuz? "Ne tuhaf bir durum" diyordur başı dönen, aklı karışan okur, "düne kadar Başbakan bizim gazetenin boy hedefiydi, şimdi birinci sayfanın yıldızı oldu." Ancak bu tip olaylar asla "birinci sayfa politikasının" değişmesiyle bitmez.  Bir yıl boyunca Ergenekon hakkında susmuş ama mesela "laiklik elden gidiyor, şeriat geliyor" diye atıp tutmuş köşe yazarlarına yeniden ayar vermek gerekir. Peki ayar nasıl verilir? Emin Çölaşan, Hürriyet'ten çıkarıldığında bu işin nasıl yapıldığını öğrenmiştik. Şimdi de sırada Bekir Coşkun var. Sansürle ilgili dünkü yazısını okumalısınız. Belli ki Emin Çölaşan'a yapılan ona da yapılmış: "Aman Bekirciğim, etme eyleme" denmiş, "ne olur Tayyip'e fazla giydirme, bak tam aramızı düzeltme aşamasındayız, hem sonra biliyorsun patronun şu İddaa işi filan da var. Anla artık."Emin Çölaşan işten çıkarıldığında gözler Bekir Coşkun'a dönmüştü. O ne yapacaktı?  "Biz bir kayıktaydık. Kürek arkadaşımı dalgalar aldı" diye başladığı 16 Ağustos 2007 tarihli yazısını şöyle bağlamıştı: "Ne yapmalıyım. Asılsam mı küreklere? Avuçlarım kanasa da, hırsımdan ağlasam da, o yere doğru tek başıma kalsam dahi çekmeli miyim kürekleri? Yoksa, vaz mı geçsem kürek çekmekten?" Aslında boş laflardı onlar. Çünkü Hürriyet tam o dönemde hükümet karşıtı kampanyaya başladığı için, Bekir Coşkun'un vazgeçmesi filan gerekmiyordu. Bir yıl kadar kafasına göre kürek çekti. Başbakandan fırça yediği için, Gazeteciler Cemiyeti'nden ödül bile kazandı. (Geçelim o maskaralığı.) Ama artık hava değişiyor. Hürriyet'in birinci sayfasında başlayan dalgalanma iç sayfalara da yansıyacak.MantikliYaziya cok guldum. Sn. Akoz'un eline saglik.Ece TemelkuranÖyle ya, bu kadar kafası çalışan insanı, bunca yurtseveri, bu kadar okumuş yazmış solcuyu her seferinde şah-mat eden şey biraz ele gelir bir şey olmalı.YanlisStrateji dunyasinda bir soz vardir: "Stratejik hatayi akilli taktikler ile kapatamazsiniz".Solcularin stratejileri (yani ideolojileri) yanlis oldugu icin, bu fikir dunyasi icinde ne kadar akilli taktik gelistirirlerse gelistirsinler, basarili olamamislardir. Dalga "almis goturmus" (blog'umuzun ismine dikkatinizi cekerim, o dalga bu dalga), tokadi vurmus, ya da kafalari kirmistir (mecazen). Yani sunu soylemek istiyoruz:Sosyalistleri ekarte etmek fazla zeka gerektiren bir is degildir.---[1] Fuel Cells Bulletin, Volume 2005, Issue 11, November 2005, Pages 12-13[2] Turkiye Sanayiine Sektorel Bakis
-
-
-
-
-
-
-
-zaman:
-
-Temmuz 27, 2008
-
-
-
-
-
-
-
-
 
 
 Cengiz Candar

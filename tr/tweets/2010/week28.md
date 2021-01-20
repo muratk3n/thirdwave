@@ -55,13 +55,3 @@ Güçlerini ulus-devletten alan sendikalar, kendilerine ne ad takarsa taksın, z
 
 Dogru
 
-Etyen Mahcupyan
-
-Herkesin ilgi alanına giren küresel kriz konusunda çıkan ilginç değerlendirmelerden biri de birkaç hafta önce bu gazetede Mehmet Turgan Zülfikar imzasıyla yayımlandı. ABD’de yatırım danışmanı olarak çalışan Zülfikar, yazısında bir ‘pas şeridi’nden söz ediyordu. Meğerse ABD’de otomotiv endüstrisinin geleneksel olarak yayıldığı bölgeye bu ad verilirmiş [..].
-
-[S]endikacı [hala] savunmacı ve ‘millici’ zihniyetten kurt[ula]bilmiş değil. Sendikaların işyeri temelinde işlevini çoktan yitirdiği bir kapitalizm evresi içindeyiz. Çalışanların işverenlerle ‘birlikte’ para kazandığı veya kaybettiği bir dönem bu... Çalışanların haklarını arayan ve genişleten bir sendikacılık, işyeri ve ülke sınırını aşmak, doğrudan yeni olanı kurmaya yönelmek zorunda [..].
-
-Çünkü ‘pas şeridi’nin sadece bir bölgenin adı olmakla kalmayıp, aynı zamanda ideolojik bir tıkanmaya da tekabül ettiğini görmemek zor. Bu ‘pas şeridi’ de epeyce küresel... Ta ABD’deki derin endüstriyel paslanmadan başlayıp, dünyanın bizim tarafındaki entelektüel solcuların kafa yapılarına kadar uzanıyor.
-
-Dogru
-

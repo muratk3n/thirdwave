@@ -1,18 +1,4 @@
 
-
-
-Serdar Turgut (2008)
-
-Ne varsa solcularda var.
-
-Yanlis
-
-Serdar Turgut (2007)
-
-Solculuk bitmiştir.
-
-Dogru
-
 Alintinin kaynagi [1].
 
 Yasemin Congar

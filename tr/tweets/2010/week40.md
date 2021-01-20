@@ -75,16 +75,22 @@ buyuk bir yeri olursa olsun, tum muzik disklerini barindirmasi mumkun
 degildir. Bilahere Wal-Mart, bugun itibariyle mevcut muzigin sadece
 yuzde 1'ini tasiyabilmektedir.
 
-Fakat Rhapsody, iTunes gibi muzigi dijital olarak dagitan sirketler, bu fiziksel sinirlamalarin hicbirine tabi degildir. Dahasi da var: Eger Wal-Mart bir mucize eseri tum diskleri tasiyabiliyor olsa bile, bu sefer asamayacagi baska fiziksel sinirlamalar onu engeller. Bir diskin kategorizasyonunu dusunelim. Bir disk rock mi, pop mu, alternatif mi olmali? Fiziksel dunyada ve depolama acisindan bir diski iki yere birden koymaniz cok zordur. Fakat dijital dunyada, iTunes icin bir diskin kategorizasyona bir veri tabani tablosunda atilan bir sanal isaretten ibarettir. Bu isaret istenildigi kadar istenildigi sekilde atilabilir. Dijital kategorizasyonda hicbir sinir yoktur.
-Modernitenin yikilisi farkli kollardan ilerliyor. Ustteki ornek bu cokusun ekonomik baglamdaki disavurumu. Fiziksel dukkan belli sayidaki esere "konsantre" olmalidir; dijital dukkanin boyle bir siniri yoktur. Miktar "maksimizasyonu" gereksizdir. Sonuc olarak Blockbuster gibi bir sirket paldir kuldur asagi iner.
+Fakat Rhapsody, iTunes gibi muzigi dijital olarak dagitan sirketler,
+bu fiziksel sinirlamalarin hicbirine tabi degildir. Dahasi da var:
+Eger Wal-Mart bir mucize eseri tum diskleri tasiyabiliyor olsa bile,
+bu sefer asamayacagi baska fiziksel sinirlamalar onu engeller. Bir
+diskin kategorizasyonunu dusunelim. Bir disk rock mi, pop mu,
+alternatif mi olmali? Fiziksel dunyada ve depolama acisindan bir diski
+iki yere birden koymaniz cok zordur. Fakat dijital dunyada, iTunes
+icin bir diskin kategorizasyona bir veri tabani tablosunda atilan bir
+sanal isaretten ibarettir. Bu isaret istenildigi kadar istenildigi
+sekilde atilabilir. Dijital kategorizasyonda hicbir sinir yoktur.
 
-Eski bir solcu
-
-Isci sinifi yeni teknolojiye karsi tutucu olur
-
-Anlamaya baslamissin
-
-Yeni teknolojiye, otomizasyona karsi tutucu olacak tabii, kaybolacak olan onun isi! Ayrica vasifsiz islerin dis ulkeye "gonderilmesinin" kolay olmasi sebebiyle isci, enternasyonel falan da olamaz, high-tech uretimin on plana ciktigi gunumuzde vasifsiz isci buz gibi milliyetci olur!
+Modernitenin yikilisi farkli kollardan ilerliyor. Ustteki ornek bu
+cokusun ekonomik baglamdaki disavurumu. Fiziksel dukkan belli sayidaki
+esere "konsantre" olmalidir; dijital dukkanin boyle bir siniri
+yoktur. Miktar "maksimizasyonu" gereksizdir. Sonuc olarak Blockbuster
+gibi bir sirket paldir kuldur asagi iner.
 
 Zulfu Dicleli
 

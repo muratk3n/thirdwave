@@ -57,22 +57,6 @@ Sen yuzyillarca bolge dinamiklerinin icine s.cmissin, bozukluga ugratmissin, ond
 
 [1] A Modern History of the Kurds, David McDowall, sf. 41-46
 
-Aykırı
-
-Ama "evrensel degerlerden" gelerek bir ulkede Liberalizmi, ozgurlukleri nasil fiili olarak isletirsiniz?
-
-Isletmek zorundasin
-
-Cunku isletmezsen, tabiatin kendisi kadar dogal guc dinamikleri devreye girer, ve sana oyle bir tokat cakar ki yerden kalkamazsin (solcular bu hissiyati iyi bilirler). Kurt sorununa bakalim; bireyi ezmissin, bireylerin toplami olan (ama cogunluk olmayan -yani demokrasi burada islemez-) bir grubu asagilamissin, o da tepki olarak daga cikmis. Tabii isin tarihi daha uzun. Osmanlilar da isleri eline yuzune bulastirmis (ne de olsa Bursali).
-
-O zaman su sonuca varabiliriz; Eger bireyi koruyan anlayisin olsaydi, yasalarin olsaydi, Kurt bireyleri ezmeyecektin, o da bas kaldirmayacakti. Ruzgara karsi isersen, ustun basin sidik olur. Bunu daha acik sekilde baska nasil anlatabilirim bilmiyorum. Liberalizm kacinilmazdir.
-
-Bazi essekler tarihsel yenilgiler, psikolojik bozukluklar sebebiyle liberalizm sozune gicik kapiyor olabilirler. Abdulhamitci zat, onun zamanindaki "dini dayanisma" hissiyatina romantik muhabbetler besliyordur, ozgurlugu sevmez. Tanzimat zamaninda verilen ozgurlukler muslumanlari herkesle gayri-muslum ile "esit" hale getirmistir, ama bir kisim Islamcilar "ustun" olmak istemektedir, o sebeple ozgurlukten hazzetmez, cunku orada statu kaybi tinilari hisseder. Kimisi "ama liberalizm degil demokrasi der", Turkiye'de kiyima ugramis bir azinligin mensubudur, psikolojik olarak "sap gibi ortada durmak" istemedigi icin aslinda bireyselligi sevmemektedir, kalabalik icinde "kaynamak" "gorunur olmamak" istemektedir boylece bilincaltisal bir "koruma" elde edecektir sanki. Bu hissiyatin cikis noktasi her ne kadar aci olsa da, ortada psikolojik bir bozukluk vardir, ve boyle bozukluklar entellektuel cabalarin temelini olusturamaz.
-
-Dedigim gibi, ne turlu manyak ararsaniz bulabilirsiniz, ama takip edilmesi gereken dogrular degismeyecektir. Bunun ustune (aslinda altina) 3. dalga etkilerini ekleyin, Hindistan'dan, Japonya'ya, oradan Almanya'da olan gidisati daha iyi anlarsiniz. Turkiye de ayni dinamigin bir parcasidir. Birey onem kazanacaktir. Kendi istedigi sekilde birliktelikler kuracak, kulturunu yaratacak, girisimini yapacak, ya da yapmayacaktir. Toplumu bu bireyler olusturacaktir. Toplum kendi kendini tanimlayacaktir.
-
-Gercekler bunlardir.
-
 Sevan "Dartanyan" Nisanyan
 
 Ey Türk gençliği! Birinci vazifen, insan olmaktır.
@@ -100,16 +84,6 @@ Sayi olarak bakilirsa "pek cok" kisiye "dokundugu" dogru, ama kimseyi dogru duru
 Ayrica sentez, her topluluga "ikincil kimlikleri" uzerinden baglanmaya ozen gosteriyor, bunu kasti olarak, onlari pasifize etmek icin yapiyor. Kimisi icin muslumanlik kimligi Turk kimliginden onemli, sentez onlarla daha az onem verdikleri Turk kimligi uzerinden baglanti kuruyor, boylece bu kisilerin asal taleplerini gormezden gelebiliyor. Kurt ile daha az onem verdigi muslumanlik kimligi uzerinden temas ediyor, Kurt dili hakkindaki taleplerini gormezden gelebiliyor. Kimse tam mutlu olmuyor, olamiyor, ve bu boyle olmasi icin tasarlanmis.
 
 Demek ki 80 model MGK sentezi ne yeterince kisiyi birlestirebiliyor, ne de bunu dogru durust yapabiliyor. Madem ise yaramiyor sentez niye hala ortada? Eh iste, bir deli bir kuyuya tas atmis, 40 tane akilli adam tasi cikartmaya ugrasiyor, olan budur. Bazi insanlar her seyi bilincsiz bir sekilde takip eder, bu kurgunun ne zaman, niye ortaya ciktigini bile unutmustur, beyni yikanmistir, bunlari uyandirmak zor olacak. Fakat baska caremiz de yok. Cunku sentez artik islemiyor.
-
-TRT Haber
-
-[IMF toplantisi sirasinda yerli, yabanci gostericileri yanyana koyarak, mealen] hangisi daha iyi? Bizimkiler mi, onlarinkiler mi?
-
-Yanlis
-
-2000 yilinda Seattle'daki kuresellesme karsiti protestolari gorseniz, o zaman anlardiniz yerli mi iyi yabanci mi.. Torkish kultur kodlarinda "iyi olanin" karsiligini DISARIDA NE VAR olarak saptadik ; fakat kultur kodlari "aklen" dogru olacak diye bir kural yok (kultur kodlari duygusal zekada -2. seviyede-, akil onun ustunde). Entellektuellerin gorevi kodlarin "uzerine" cikmak, onlari gerektigince analiz edip akli yonu gostermektir [1].
-
-Gostericilere gelelim; TR'de arada sirada "vay kapitalizm, batsin sermaye, vs" turunden traslar duyuyoruz. Sonra bu kisiler sel sonrasi yagma, IMF karsiti protestolarda cekirdekci, simitci magduriyeti, rencide olan dukkan sahibi gorunce bu solculugun, sosyalizmin ne halt oldugunu anliyorlar. Hic supheniz olmasin; bu ideolojinin ima ettigi acik bir siddet vurgusu vardir, ve ortaya cikan iste bu ogretinin direk sonuclaridir. Esnaf, dukkan sahipleri organize olup karsi saldirida bulunmali, "anti-pogrom" baslatmalidir.
 
 Anonim
 

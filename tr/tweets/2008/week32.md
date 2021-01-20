@@ -1,19 +1,60 @@
 
 Gokhan Ozgun
 
-Post-modernizm çok geniş bir tanımı, hatta çoğu zaman doğru dürüst bir tanımı olmayan bir felsefe, bir durum, bir ruh hali, bir tartışma. Kısaca, ‘yeni olan’ birçok farklı şeyi, hatta birçok karşıt görüşü temsil ediyor.
+Post-modernizm çok geniş bir tanımı, hatta çoğu zaman doğru dürüst bir
+tanımı olmayan bir felsefe, bir durum, bir ruh hali, bir
+tartışma. Kısaca, ‘yeni olan’ birçok farklı şeyi, hatta birçok karşıt
+görüşü temsil ediyor.
 
 Yanlis
 
-Postmodernizm, ne oldugu gayet belli bir dusunce sistemidir. Subjektif, bilim karsiti bir ideolojidir (ve Fransa'dan cikmistir). Bu ideoloji hakkinda bir yazimiz surada bulanabilir. Sunu belirtmek gerekir ki, "modernite sonrasi" dunyayi aciklayan her ideoloji postmodernizm degildir. Bu blog'un ana felsefesi de modernite sonrasini kurgulamaya ugrasiyor, ama bu, ne oldugu bilinen postmodernizm'den bambaska araclarla yapiliyor.
+Postmodernizm, ne oldugu gayet belli bir dusunce
+sistemidir. Subjektif, bilim karsiti bir ideolojidir (ve Fransa'dan
+cikmistir). Bu ideoloji hakkinda bir yazimiz surada bulanabilir. Sunu
+belirtmek gerekir ki, "modernite sonrasi" dunyayi aciklayan her
+ideoloji postmodernizm degildir. Bu blog'un ana felsefesi de modernite
+sonrasini kurgulamaya ugrasiyor, ama bu, ne oldugu bilinen
+postmodernizm'den bambaska araclarla yapiliyor.
 
-Simdi Kosaner konusmasina gelelim: Kosaner postmodernizm'in yukarida anlattigimiz sey oldugunu biliyor mu? Belki evet. Ama buyuk bir ihtimalle hayir. Tabii kimsenin agzina laf koymak istemeyiz, o yuzden kisisel yorumlari burada kesmeyi seciyoruz. Fakat kesinligi suphe goturmez olan tek sey vardir ki, o da, endustriyellesme ideolojisi, tek tipci, toptanci (mass), merkeziyetci, standardizasyoncu modernitenin gunlerinin sayili oldugudur. Bunu durdurmak icin yapacak bir sey de yoktur (kafanizi kuma gommek haricinde). O zaman gelecegin nasil karsilanacagini konusmak gerekiyor, ki bu (burada Ozgun'e katiliyorum) "bir vs.. vs.. tabaka var" havasinda itham edici pozlarla yapilamaz. Final analizde herkesin kendi isine bakmasi gerekir, ve felsefe yapmak askerin pek cok onemli gorevlerinden biri degildir. Bu kendilerine verilmemis gorevi yapmayi ugrasirlarsa da bu isi ellerine yuzlerine bulastiracaklari kesindir, bu durum tarihimizin ust uste ispatladigi bir sabittir.
+Simdi Kosaner konusmasina gelelim: Kosaner postmodernizm'in yukarida
+anlattigimiz sey oldugunu biliyor mu? Belki evet. Ama buyuk bir
+ihtimalle hayir. Tabii kimsenin agzina laf koymak istemeyiz, o yuzden
+kisisel yorumlari burada kesmeyi seciyoruz. Fakat kesinligi suphe
+goturmez olan tek sey vardir ki, o da, endustriyellesme ideolojisi,
+tek tipci, toptanci (mass), merkeziyetci, standardizasyoncu
+modernitenin gunlerinin sayili oldugudur. Bunu durdurmak icin yapacak
+bir sey de yoktur (kafanizi kuma gommek haricinde). O zaman gelecegin
+nasil karsilanacagini konusmak gerekiyor, ki bu (burada Ozgun'e
+katiliyorum) "bir vs.. vs.. tabaka var" havasinda itham edici pozlarla
+yapilamaz. Final analizde herkesin kendi isine bakmasi gerekir, ve
+felsefe yapmak askerin pek cok onemli gorevlerinden biri degildir. Bu
+kendilerine verilmemis gorevi yapmayi ugrasirlarsa da bu isi ellerine
+yuzlerine bulastiracaklari kesindir, bu durum tarihimizin ust uste
+ispatladigi bir sabittir.
 
 Hadi Uluengin
 
-SALDIRGAN ve yayılmacı Rusya tecrit durumdadır. Üstelik, bu yalnızlaşma sırf Batı ülkeleriyle sınırlı değildir. "Doğu" (!) açısından da geçerlilik taşımaktadır. Nitekim, Tacikistan başkenti Dûşanbe’de gerçekleşen "Şanghay İşbirliği Örgütü" (ŞİÖ) zirvesi, Moskova’nın istediği doğrultuda bir karar almayı reddetti. Tamam, ortak bildiri Kremlin’in Kafkas’taki "müdahillik hakkı"nı yarım ağızla kabullendi ama, metin esas olarak ülkelerin, yani Gürcistan’ın toprak bütünlüğünü vurguladı. Her halükárda da, aynı ŞİÖ’de temel direği oluşturan Çin, fiili ilhak anlamına gelen ve Rusya’nın Güney Osetya ve Abhazya’yı tanımasıyla orta çıkan oldu bittiye cevaz vermedi. Zaten de veremezdi!
+SALDIRGAN ve yayılmacı Rusya tecrit durumdadır. Üstelik, bu
+yalnızlaşma sırf Batı ülkeleriyle sınırlı değildir. "Doğu" (!)
+açısından da geçerlilik taşımaktadır. Nitekim, Tacikistan başkenti
+Dûşanbe’de gerçekleşen "Şanghay İşbirliği Örgütü" (ŞİÖ) zirvesi,
+Moskova’nın istediği doğrultuda bir karar almayı reddetti. Tamam,
+ortak bildiri Kremlin’in Kafkas’taki "müdahillik hakkı"nı yarım ağızla
+kabullendi ama, metin esas olarak ülkelerin, yani Gürcistan’ın toprak
+bütünlüğünü vurguladı. Her halükárda da, aynı ŞİÖ’de temel direği
+oluşturan Çin, fiili ilhak anlamına gelen ve Rusya’nın Güney Osetya ve
+Abhazya’yı tanımasıyla orta çıkan oldu bittiye cevaz vermedi. Zaten de
+veremezdi!
 
-EVET veremezdi, çünkü en önce, "Avrasya" mavrasya patırtısı koparak ülkemizi otoriter ufuklara sürüklemek isteyen bizim "ulusalcı - neo-ittihatçı" zevatın iddia ettiğinin aksine, dünya sahnesinde böyle bir coğrafi kurumsallaşma yoktur. Teorik açıdan dahi yoktur. Zaten ŞİÖ şekillenen yapılanma da asla bir "blok" veya bir "ittifak" değildir. Bu örgüt taş çatlasa, partnerlerin ancak azámi paydalarda buluştuğu bir "kulüp"tür. Daha önemlisi, hem yukarıdaki "temel direk" Çin, hem de "gözlemci" durumundaki Hindistan, siyasi ve iktisadi planda Rusya’nın dümen suyuna girmezler ve girmeyeceklerdir.
+EVET veremezdi, çünkü en önce, "Avrasya" mavrasya patırtısı koparak
+ülkemizi otoriter ufuklara sürüklemek isteyen bizim "ulusalcı -
+neo-ittihatçı" zevatın iddia ettiğinin aksine, dünya sahnesinde böyle
+bir coğrafi kurumsallaşma yoktur. Teorik açıdan dahi yoktur. Zaten ŞİÖ
+şekillenen yapılanma da asla bir "blok" veya bir "ittifak"
+değildir. Bu örgüt taş çatlasa, partnerlerin ancak azámi paydalarda
+buluştuğu bir "kulüp"tür. Daha önemlisi, hem yukarıdaki "temel direk"
+Çin, hem de "gözlemci" durumundaki Hindistan, siyasi ve iktisadi
+planda Rusya’nın dümen suyuna girmezler ve girmeyeceklerdir.
 
 GİRMEZLER ve girmeyeceklerdir, çünkü Moskova onlar açından, gerektiğinde Washington’a karşı "denge unsuru" olarak kullanılacak bir "yedek güç"tür. Hepsi o kadar! Zira Çin’in ve Hint’in esas ufku Pasifik’e; bilhassa da California kıyısına açıktır. Üstelik, birincinin Tibet ve Doğu Türkistan; ikincisinin ise Keşmir sorunlarıyla hop oturup, hop kalktığı düşünülürse, Pekin ve Delhi’nin Kremlin oldu - bittisine "eyvallah" diyeceğini düşünmek abesle iştigal eder. Bu iki başkent de kendi ayaklarına ateş etmezler. Nitekim, aynı Pekin lideri Hu Cintao aynı zirve sırasında kendisinden destek isteyen Rus önder Dmitriy Medvedev’le yaptığı görüşmeden sonra, "Gürcistan meselesi Çin’i zor duruma soktu" şeklinde konuşarak, böyle bir desteğin gelmeyeceğini ortaya koymuş oldu. Dolayısıyla, en başta belirttiğim gibi, saldırgan ve yayılmacı Rusya’nın sırf Batı’dan değil "Doğu"dan (!) da tecrit olduğu Dûşanbe’de doruğunda ayan beyan gözler önüne serildi.
 
@@ -329,22 +370,22 @@ ABD universite sistemine gore ozel universitelerin rektoru mutevelli heyeti tara
 
 Devlet universitelerinin mutevelli heyetinin uyelerini eyalet valisi (bizde bu Cumhurbaskani olurdu) direk atar. Universite icinde oy verme sacmaligi yoktur, heyet istedigi adami universitenin icinden, disindan, nereden bulursa alir, kut diye rektorluk koltuguna yerlestirir.
 
-Bu sekildeki atamanin yapilmasinin onemli bir sebebi rektorlugun ABD'de CEO'vari bir is olmasidir, okula "arastirma parasi (grant)" cekebilmek gibi isleri, ve idari (executive) bazi sorumluluklari vardir. Tipik olarak boyle islerden hocalar kacarlar. Arastirma istegi ile yanip tutusan hicbir akademisyen oyle idari, bazen kirtasiye ve cogunlukla "insan iliskileri" gerektiren islere girmek istemez. Dekanlik yaptirmak icin bile hocalarin arasindan zor adam bulursunuz, rica minnet gelirler, hemen gitmek isterler. Turkiye'de ikinci kez "secilmek" icin cirpiniyorlar.
+Bu sekildeki atamanin yapilmasinin onemli bir sebebi rektorlugun
+ABD'de CEO'vari bir is olmasidir, okula "arastirma parasi (grant)"
+cekebilmek gibi isleri, ve idari (executive) bazi sorumluluklari
+vardir. Tipik olarak boyle islerden hocalar kacarlar. Arastirma istegi
+ile yanip tutusan hicbir akademisyen oyle idari, bazen kirtasiye ve
+cogunlukla "insan iliskileri" gerektiren islere girmek
+istemez. Dekanlik yaptirmak icin bile hocalarin arasindan zor adam
+bulursunuz, rica minnet gelirler, hemen gitmek isterler. Turkiye'de
+ikinci kez "secilmek" icin cirpiniyorlar.
 
-En onemli isi arastirmak olan bir universitede boyle maskaraliklar olamaz.
+En onemli isi arastirmak olan bir universitede boyle maskaraliklar
+olamaz.
 
-Engin Ardic
-
-
-Bazı eski sosyalistler ve bürokrasi kuyrukçularının "Deniz Baykal'la kavgalı olan" kesimi, yeni bir sol parti istiyorlar... Bu parti seçimi kazanacak ve AKP'yi silip süpürecekmiş... Bu parti, Türkiye'nin birçok sorununu çözermiş. Böyle bir partinin ne ucu görünüyor ne kökü. Toplumda böyle bir beklenti yok, bu yeni partiyi oluşturacak kadrolar mevcut değil, ufukta bir lider de çıkmadı. Böyle bir partinin toplumda tabanı da yok, varlığına anlam verecek "fikriyat" da ortaya konamadı, "karizmatik" hiçbir adam da bulunamadı o kesimde, ister çaycı olsun ister başkan adayı... (Bazı kifayetsiz muhterislerin "kurulsa da başına geçsem" beklentileri ciddiye alınamaz.) Çünkü, "elektronik devrimi sonrasının, yirmi birinci yüzyılın sosyalizmi nasıl olmalıdır" sorusuna Batı dünyası bile henüz bir yanıt bulamadı. Bu düşünce Türkiye'de üretilemez, Batı bulacak ki biz de oradan ithal edeceğiz!
-
-Geçen yüzyılın sosyalizmi de Türkiye'de en parlak devrinde bile yüzde üç oy oranını aşamamıştı ki bir çıkış noktası olsun da hani sonradan "aşılabilsin" ... Fakat bu "yeni solcu" arkadaşların "yüzde kırklara çıkmak" gibi uçuk iddiaları da yok değil! Kendine "10 Aralık Hareketi" adını takan küçük bir aydınlar grubu bunu ciddi ciddi dile getirebiliyor! Sonra da bizden gülmememizi isteyecekler. Kalıyor demokratik, güleryüzlü, "insancıl" sol... Yani insan hakları falan filan. Eh, onu da liberaller "zaten" söylüyorlar!...
-
-Klasik liberalizm ile demokratik sol arasındaki çizgi iyice belirsizleşti, silindi, iki düşünce akımı birbiriyle kesişti, neredeyse örtüştü! "Kemalist olmayan, halka dayalı, hele din duygularına da mutlaka saygılı" bir parti isteniyorsa, onun daniskası AKP'de var. Yok eğer "alafranga liberalizm" isteniyorsa, ANAP buna heves etmesine etti de, durumunu görüyorsunuz... Eee, ne yumurtlayacak bu yeni sol parti? Şapkadan tavşan mı çıkaracak? Hiç. Boş boş konuşacak. Bazı aydınlar ne yazık ki gene "mastürbasyon" yapıyorlar. Çoğu, "şimdilik AKP'yi destekliyoruz" demeye de utanıyor, çünkü Kemalistler terör estiriyorlar. Yalnız Ergenekon terörü değil bu, matbaa mürekkebine bulanmış hakaret ve iftira terörü... Kafaları epey karışık. Üretim araçlarının kollektif mülkiyeti ütopyasından çoktan vazgeçmişler ama kendilerine "denetimli piyasa ekonomisi" falan gibi, aklı başında her liberal kapitalistin de onaylayacağı birtakım genelgeçer ilkelerden öte bir "ekonomipolitik çerçevesi" çizemiyorlar... Ne yapacaksınız yani, köylünün sınıf değiştirme tutkusunu mu dizginleyeceksiniz, tüketim açlığını mı bastıracaksınız, şehirleşmeyi mi frenleyeceksiniz? O zaman da laf dönüyor dolaşıyor, "evet canım, yeni bir parti lazım tabii" düzeyinden ileri gidemiyor.
-
-Dogru
-
-* Türkiye, sermaye birikimi ve burjuvalaşma sürecini henüz bitirmemiştir. Bitirmek ne kelime, o sürece daha yeni girmiştir. "Solun sırası değildir" yani! Henüz gelmemiştir.
+Türkiye, sermaye birikimi ve burjuvalaşma sürecini henüz
+bitirmemiştir. Bitirmek ne kelime, o sürece daha yeni
+girmiştir. "Solun sırası değildir" yani! Henüz gelmemiştir.
 
 Yanlis
 
