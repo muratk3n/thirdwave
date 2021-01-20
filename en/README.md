@@ -70,7 +70,8 @@ cld say I've been tweeting since 2008.
 
 The dollar was already too high. It now moved to an average level.
 
-"Previous stimulus and future prosp of more led to the dollar falling"
+"Previous money injection and future prospect of more stimulus led to
+the dollar falling"
 
 ---
 
