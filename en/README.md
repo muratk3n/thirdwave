@@ -40,7 +40,7 @@ big moves here
 ---
 
 That black hole fail was the last straw .. Just the fact that two
-reputable scientists debunkimg the crap out of a concept so widely
+reputable scientists debunking the crap out of a concept so widely
 accepted is proof enough.
 
 Mainstream sci today looks more and more like Church teachings from
