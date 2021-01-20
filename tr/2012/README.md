@@ -6,25 +6,17 @@
 
 [Üniversite 2.0](01/universite-20.md)
 
-[YDB - 7/1](01/ydb-71.md)
-
 [Duble](02/duble.md)
 
 [Osmanlıca](02/osmanlca.md)
-
-[YDB - 5/2](02/ydb-52.md)
 
 [Galaksi çapında bir röportaj - 1](04/galaksinin-en-onemli-roportaj.md)
 
 [Galaksi çapında bir röportaj - 2](07/galaksi-capinda-bir-roportaj-2.md)
 
-[YDB - 21/8](08/ydb-218.md)
-
 [Galaksi çapında bir röportaj - 3](09/galaksi-capnda-bir-roportaj-3.md)
 
 [Wikileaks - 7](09/wikileaks-7_11.md)
-
-[YDB - 4/9](09/ydb-49.md)
 
 [Ulu önder ..](11/ulu-onder.md)
 

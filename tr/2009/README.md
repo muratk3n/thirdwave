@@ -18,18 +18,6 @@
 
 [Yahudiler](01/yahudiler.md)
 
-[YDB - 10/1](01/ydb-101.md)
-
-[YDB - 12/1](01/ydb-121.md)
-
-[YDB - 17/1](01/ydb-171.md)
-
-[YDB - 30/1](01/ydb-301.md)
-
-[YDB - 6/1](01/ydb-61.md)
-
-[YDB - 8/1](01/ydb-81.md)
-
 [ABD Ekonomisini Savas Duzeltmedi](02/abd-ekonomisini-savas-duzeltmedi.md)
 
 [Afganistan, Pakistan Oyunlari](02/afganistan-pakistan-oyunlari.md)
@@ -59,14 +47,6 @@
 [Osmanli != Islam](02/osmanli-islam.md)
 
 [Podcast](02/podcast.md)
-
-[YDB - 14/2](02/ydb-142.md)
-
-[YDB - 19/2](02/ydb-192.md)
-
-[YDB - 20/2](02/ydb-212.md)
-
-[YDB - 10/2](02/ydb-72.md)
 
 [Yeni Yeni Ekonomi](02/yeni-yeni-ekonomi.md)
 
@@ -146,37 +126,17 @@
 
 [Twitter](03/twitter.md)
 
-[YDB - 12/3](03/ydb-123.md)
-
-[YDB - 14/3 - II](03/ydb-143-ii.md)
-
-[YDB - 14/3](03/ydb-143.md)
-
-[YDB - 16/3 - II](03/ydb-163-ii.md)
-
-[YDB - 16/3](03/ydb-163.md)
-
-[YDB - 18/3](03/ydb-183.md)
-
 [Kontrol Edici Nokta](03/yeni-harcama-oranlari.md)
-
-[10 Kural: Siyah Kugulara Hazir Olmak - I](04/10-kural-siyah-kugulara-hazir-olmak-i.md)
-
-[10 Kural: Siyah Kugulara Hazir Olmak - II](04/10-kural-siyah-kugulara-hazir-olmak-ii.md)
 
 [10 Kural: Siyah Kugulara Hazir Olmak](04/10-kural-siyah-kugulara-hazir-olmak.md)
 
 [Açık Veri](04/ack-veri.md)
 
-[Bazi Yazilar](04/bazi-yazilar.md)
-
 [Bir Harmanlama Denemesi](04/bir-harmanlama-denemesi.md)
 
 [Burger Pisirmek](04/burger-eti-pisirmek.md)
 
-[Bürokrasi - 2](04/burokrasi-ii.md)
-
-[Bürokrasi - 1](04/burokrasi.md)
+[Bürokrasi](04/burokrasi.md)
 
 [Bürokrasi](04/burokrasi_22.md)
 
@@ -195,10 +155,6 @@
 [Trystorming](04/trystorming.md)
 
 [Yaratıcılığın Kumaşı](04/yaratclgn-kumas.md)
-
-[YDB - 16/4](04/yasemin-congar-kara-kuvvetleri-komutan.md)
-
-[YDB - 21/4](04/ydb-214.md)
 
 [Yeni Zenginlik ve İfade Özgürlüğü](04/yeni-zenginlik-ve-ifade-ozgurlugu.md)
 
@@ -229,20 +185,6 @@
 [Uzaylı magdur edildi](05/uzayli-magdur-edildi.md)
 
 [Wolfram Alfa](05/wolfram-alfa.md)
-
-[YDB - 13/5](05/ydb-135.md)
-
-[YDB - 15/5](05/ydb-155.md)
-
-[YDB - 17/5](05/ydb-175.md)
-
-[YDB - 2/5](05/ydb-25.md)
-
-[YDB - 30/5](05/ydb-305.md)
-
-[YDB - 31/5](05/ydb-315.md)
-
-[YDB - 3/5](05/ydb-35.md)
 
 [Yeni Baris Atilimi](05/yeni-baris-atilimi.md)
 
@@ -304,22 +246,6 @@
 
 [Üçüncü Kültür](06/ucuncu-kultur.md)
 
-[YDB - 13/6](06/ydb-136.md)
-
-[YDB - 14/6](06/ydb-146.md)
-
-[YDB - 14/6 - II](06/ydb-146_14.md)
-
-[YDB - 23/6](06/ydb-236.md)
-
-[YDB - 2/6](06/ydb-26.md)
-
-[YDB - 6/6](06/ydb-66.md)
-
-[YDB - 8/6](06/ydb-86.md)
-
-[YDB - 9/6](06/ydb-96.md)
-
 [Yeni Yeni Ekonomi - I](06/yeni-yeni-ekonomi-i.md)
 
 [Yeni Yeni Ekonomi - II](06/yeni-yeni-ekonomi-ii.md)
@@ -333,8 +259,6 @@
 [Gazeteler Batarken](07/gazeteler-batarken.md)
 
 [Toplum Kelimesi](07/toplum-kelimesi.md)
-
-[YDB - 24/7](07/ydb-247.md)
 
 [Avrupa'nin Basarisizlik Felsefesi](08/avrupanin-basarisizlik-felsefesi.md)
 
@@ -362,12 +286,6 @@
 
 [Şehir Tercihi - 5](08/sehir-tercihi-v.md)
 
-[YDB - 10/8](08/ydb-108.md)
-
-[YDB - 18/8](08/ydb-188.md)
-
-[YDB - 28/8](08/ydb-288.md)
-
 [Almanya ve Sol](09/almanya-ve-sol.md)
 
 [Asiri Hiz](09/asiri-hiz.md)
@@ -387,28 +305,6 @@
 [Linkendavarismus](09/linkendavarismus.md)
 
 [Turkiye Kultur Kodlari](09/turkiye-kultur-kodlari.md)
-
-[YDB - 11/9](09/ydb-119.md)
-
-[YDB - 12/9](09/ydb-129.md)
-
-[YDB - 13/9](09/ydb-139.md)
-
-[YDB - 14/9](09/ydb-149.md)
-
-[YDB - 16/9](09/ydb-169.md)
-
-[YDB - 1/9](09/ydb-19_01.md)
-
-[YDB - 2/9](09/ydb-29.md)
-
-[YDB - 30/9](09/ydb-309.md)
-
-[YDB - 3/9](09/ydb-39.md)
-
-[YDB - 4/9](09/ydb-49.md)
-
-[YDB - 5/9](09/ydb-69.md)
 
 [Yuksek Egitimi Kurcalamak](09/yuksek-egitimi-kurcalamak.md)
 
@@ -445,20 +341,6 @@
 [Şans](10/sans.md)
 
 [Tapınak rahatsız](10/tapnak-rahatsz.md)
-
-[YDB - 22/10 II](10/ydb-2210-ii.md)
-
-[YDB - 22/10](10/ydb-2210.md)
-
-[YDB - 26/10](10/ydb-2610.md)
-
-[YDB - 29/10](10/ydb-2910.md)
-
-[YDB - 30/10](10/ydb-3010.md)
-
-[YDB - 7/10](10/ydb-710.md)
-
-[YDB - 9/10](10/ydb-910.md)
 
 [0-3 Yas Arasi](11/0-3-yas-arasi.md)
 
@@ -506,24 +388,6 @@
 
 [Yaşa Gore Ses](11/yasa-gore-ses.md)
 
-[YDB - 3/11](11/ydb-113.md)
-
-[YDB - 15/11](11/ydb-1511.md)
-
-[YDB - 17/11](11/ydb-1711.md)
-
-[YDB - 19/11](11/ydb-1911.md)
-
-[YDB - 22/11](11/ydb-2211.md)
-
-[YDB - 26/11](11/ydb-2711.md)
-
-[YDB - 28/11](11/ydb-2811.md)
-
-[YDB - 29/11](11/ydb-2911.md)
-
-[YDB - 7/11](11/ydb-711.md)
-
 [Zaman Farkı](11/zaman-farki.md)
 
 [16 Devlet, 25 Parti](12/16-devlet.md)
@@ -559,34 +423,6 @@
 [Ostpolitik](12/ostpolitik.md)
 
 [SI Tablet](12/si-tablet.md)
-
-[YDB - 13/12](12/ydb-1312.md)
-
-[YDB - 14/12](12/ydb-1412.md)
-
-[YDB - 16/12](12/ydb-1612.md)
-
-[YDB - 20/12](12/ydb-2012.md)
-
-[YDB - 2/12](12/ydb-212.md)
-
-[YDB - 23/12](12/ydb-2312.md)
-
-[YDB - 26/12](12/ydb-2612.md)
-
-[YDB - 28/12 - II](12/ydb-2812-ii.md)
-
-[YDB - 28/12](12/ydb-2812.md)
-
-[YDB - 30/12 - II](12/ydb-3012-ii.md)
-
-[YDB - 30/12](12/ydb-3012_30.md)
-
-[YDB - 4/12](12/ydb-412.md)
-
-[YDB - 5/12](12/ydb-512.md)
-
-[YDB - 8/12](12/ydb-812.md)
 
 [Yeni bildiri](12/yeni-bildiri.md)
 

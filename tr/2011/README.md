@@ -22,14 +22,6 @@
 
 [The Wire](01/wire.md)
 
-[YDB - 17/1](01/ydb-171.md)
-
-[YDB - 22/1](01/ydb-221.md)
-
-[YDB - 23/1](01/ydb-231.md)
-
-[YDB - 7/1](01/ydb-71.md)
-
 [20 Soru](02/20-soru.md)
 
 [7G](02/7g.md)
@@ -43,12 +35,6 @@
 [Ruhsuz, Cesaretsiz Basın](02/ruhsuz-cesaretsiz-basn.md)
 
 [Wikileaks - 5](02/wikileaks-5.md)
-
-[YDB - 1/2](02/ydb-12.md)
-
-[YDB - 2/2](02/ydb-22.md)
-
-[YDB - 3/2](02/ydb-32.md)
 
 [Mesaj..](03/mesaj.md)
 
@@ -70,12 +56,6 @@
 
 [Montessori Okullari](05/montessori-okullari.md)
 
-[YDB - 15/5](05/ydb-155.md)
-
-[YDB - 2/5](05/ydb-25.md)
-
-[YDB - 7/5](05/ydb-75.md)
-
 [Arap Baharı, Cep Telefonları](06/arap-bahari-cep-telefonlari.md)
 
 [Bağlantıcı Elit - 1](06/baglantc-elit-1.md)
@@ -96,14 +76,6 @@
 
 [Wikileaks - 6](06/wikileaks-6.md)
 
-[YDB - 10/6](06/ydb-106.md)
-
-[YDB - 15/6](06/ydb-156.md)
-
-[YDB - 17/6](06/ydb-176.md)
-
-[YDB - 24/6](06/ydb-246.md)
-
 [Yeni film vizyonda](06/yeni-film-vizyonda.md)
 
 [Yunan Krizi](06/yunan-krizi.md)
@@ -122,20 +94,6 @@
 
 [Isci Yerine 1 Milyon Robot](07/isci-yerine-1-milyon-robot.md)
 
-[YDB - 11/7](07/ydb-117.md)
-
-[YDB - 12/7](07/ydb-127.md)
-
-[YDB - 13/7](07/ydb-137.md)
-
-[YDB - 14/7](07/ydb-147.md)
-
-[YDB - 15/7](07/ydb-157.md)
-
-[YDB - 16/7](07/ydb-167.md)
-
-[YDB - 17/7](07/ydb-177.md)
-
 [YSK: Komando](07/ysk-komando.md)
 
 [Alex: Tüm planlardan haberim vardı](08/alex-tum-planlardan-haberim-vard.md)
@@ -149,16 +107,6 @@
 [Patent Sistemi](08/patent-sistemi.md)
 
 [Twitter Depremi Geçti](08/twitter-depremi-gecti.md)
-
-[YDB - 14/8](08/ydb-148.md)
-
-[YDB - 18/8](08/ydb-188.md)
-
-[YDB - 21/8](08/ydb-218.md)
-
-[YDB - 27/8](08/ydb-278.md)
-
-[YDB - 5/8](08/ydb-58.md)
 
 [Anadolu'nun DNA Yapısı](09/anadolunun-dna-yapisi_07.md)
 
@@ -174,16 +122,6 @@
 
 [Sünger Bob Çocukları Aptallaştırıyor](09/sunger-bob-cocuklar-aptallastryor.md)
 
-[YDB - 11/9](09/ydb-119.md)
-
-[YDB - 14/9](09/ydb-149.md)
-
-[YDB - 18/9](09/ydb-189.md)
-
-[YDB - 4/9](09/ydb-49.md)
-
-[YDB - 7/9](09/ydb-79_09.md)
-
 [Keçi değil inek yedi](10/keci-degil-inek-yedi.md)
 
 [Ürdün](10/urdun.md)
@@ -198,10 +136,6 @@
 
 [Vicdani ret](11/vicdani-ret.md)
 
-[YDB - 25/11](11/ydb-2511.md)
-
-[YDB - 28/11](11/ydb-2811.md)
-
 [Cumhurbaşkanlığı süresi](12/cumhurbaskanlg-suresi.md)
 
 [Eğitim Sansürü](12/egitim-sansuru.md)
@@ -213,12 +147,4 @@
 [Senkronizasyon](12/senkronizasyon.md)
 
 [Fotoğraflar](12/supheli-sahslar.md)
-
-[YDB - 19/12](12/ydb-1912.md)
-
-[YDB - 23/11](12/ydb-2311.md)
-
-[YDB - 24/12](12/ydb-2412.md)
-
-[YDB - 25/12](12/ydb-2512.md)
 

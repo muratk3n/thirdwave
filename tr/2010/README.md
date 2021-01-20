@@ -32,18 +32,6 @@
 
 [The Woz, Gawker, Koli Bantı](01/woz-gawker-koli-bant.md)
 
-[YDB - 010110](01/ydb-010110.md)
-
-[YDB - 10/1](01/ydb-101.md)
-
-[YDB - 22/1](01/ydb-221.md)
-
-[YDB - 25/1](01/ydb-251.md)
-
-[YDB - 27/1](01/ydb-271.md)
-
-[YDB - 9/1](01/ydb-91.md)
-
 [Ata'nın gemisi inis yaptı!](02/atann-gemisi-inis-yapt.md)
 
 [Avustralya ve Cin](02/avustralya-ve-cin.md)
@@ -67,10 +55,6 @@
 [Tum aile](02/tum-aile.md)
 
 [Üretkenlik ve Krizler](02/uretkenlik.md)
-
-[YDB - 18/2](02/ydb-182.md)
-
-[YDB - 3/2](02/ydb-32.md)
 
 [Alman Gazete Tablet Bilgisayari](03/alman-wefind-arama-motorunun-ve.md)
 
@@ -111,10 +95,6 @@
 [Sıkışma](03/sksma.md)
 
 [TRT](03/trt.md)
-
-[YDB - 19/3](03/ydb-193.md)
-
-[YDB - 21/3](03/ydb-213.md)
 
 [Yeni UFO Reklami](03/yeni-ufo-reklami.md)
 
@@ -178,16 +158,6 @@
 
 [Suck On This](06/suck-on-this.md)
 
-[YDB - 16/6](06/ydb-166.md)
-
-[YDB - 20/6](06/ydb-206.md)
-
-[YDB - 21/6](06/ydb-216.md)
-
-[YDB - 28/6](06/ydb-286.md)
-
-[YDB - 30/6](06/ydb-306.md)
-
 [Aman Dikkat](07/aman-dikkat.md)
 
 [Anlaşmazlık Yok](07/anlasmazlik-yok.md)
@@ -223,12 +193,6 @@
 [Wikileaks Varken, Basına Ne Gerek Var?](07/wikileaks-varken-basna-ne-gerek-var.md)
 
 [Yaverleri tanıyalım](07/yaverleri-tanyalm.md)
-
-[YDB - 10/7](07/ydb-107.md)
-
-[YDB - 11/7](07/ydb-117.md)
-
-[YDB - 22/7](07/ydb-227.md)
 
 [80MGK+](08/80mgk.md)
 
@@ -272,14 +236,6 @@
 
 [Üniversite Yerine İnternet](08/universite-yerine-internet.md)
 
-[YDB - 13/8 - II](08/ydb-138-ii.md)
-
-[YDB - 13/8](08/ydb-138.md)
-
-[YDB - 20/8](08/ydb-208.md)
-
-[YDB - 4/8](08/ydb-48.md)
-
 [Yeni Egitim](08/yeni-egitim.md)
 
 [Yıgım brojesi](08/ygm-brojesi.md)
@@ -318,14 +274,6 @@
 
 [Uzakdoğu'da ülkücü genclik](09/uzakdoguda-ulkucu-genclik.md)
 
-[YDB - 23/9](09/ydb-239.md)
-
-[YDB - 29/9](09/ydb-299.md)
-
-[YDB - 30/9](09/ydb-309.md)
-
-[YDB - 7/9](09/ydb-79.md)
-
 [Konferans: Yeni Medya Duzeni](09/yeni-medya-duzeni-konferansi.md)
 
 [Yeni Zenginlik](09/yeni-zenginlik.md)
@@ -341,16 +289,6 @@
 [Sismanlik](10/sismanlik.md)
 
 [Sırıtış](10/srts.md)
-
-[YDB - 1/10](10/ydb-110.md)
-
-[YDB - 20/10](10/ydb-.md)
-
-[YDB - 3/10](10/ydb-310.md)
-
-[YDB - 4/10](10/ydb-410.md)
-
-[YDB- 5/10](10/ydb-510.md)
 
 [Güney, Kuzey Kore ve Cin](11/guney-kuzey-kore-ve-cin.md)
 
@@ -371,8 +309,4 @@
 [Wikileaks - 4](12/wikileaks-4.md)
 
 [Wikileaks - 3](12/wikileaks-iii.md)
-
-[YDB - 18/12](12/ydb-1812.md)
-
-[YDB - 20/12](12/ydb-2012.md)
 

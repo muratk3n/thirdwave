@@ -30,34 +30,6 @@
 
 [Yanlis - Dogru - Belki](01/yanlis-dogru-belki.md)
 
-[YDB - 7/1](01/ydb.md)
-
-[YDB - 8/1](01/ydb_08.md)
-
-[YDB - 10/1](01/ydb_10.md)
-
-[YDB - 14/1](01/ydb_14.md)
-
-[YDB - 15/1](01/ydb_15.md)
-
-[YDB - 20/1](01/ydb_20.md)
-
-[YDB - 23/1](01/ydb_23.md)
-
-[YDB - 24/1](01/ydb_24.md)
-
-[YDB - 26/1](01/ydb_26.md)
-
-[YDB - 27/1](01/ydb_27.md)
-
-[YDB - 28/1](01/ydb_28.md)
-
-[YDB - 29/1](01/ydb_29.md)
-
-[YDB - 31/1](01/ydb_31.md)
-
-[YDB - 20/1](01/ydb_9250.md)
-
 [Yemlenme Sirasi](01/yemlenme-sirasi.md)
 
 [Yılın Gandi'si Kemal Kerincsiz](01/yln-gandisi-kemal-kerincsiz.md)
@@ -81,46 +53,6 @@
 [Sovalye Geri Geldi](02/sovalye-geri-geldi.md)
 
 [Toplum](02/toplum.md)
-
-[YDB - 10/2](02/ydb-102.md)
-
-[YDB - 12/2](02/ydb-122.md)
-
-[YDB - 1/3](02/ydb-13.md)
-
-[YDB - 16/2](02/ydb-162.md)
-
-[YDB - 18/2](02/ydb-182.md)
-
-[YDB - 20/2](02/ydb-202.md)
-
-[YDB - 21/2](02/ydb-212.md)
-
-[YDB - 22/2](02/ydb-222.md)
-
-[YDB - 23/2](02/ydb-232.md)
-
-[YDB - 25/2](02/ydb-252.md)
-
-[YDB - 26/2](02/ydb-272.md)
-
-[YDB - 27/2](02/ydb-272_27.md)
-
-[YDB - 9/2](02/ydb-29.md)
-
-[YDB - 6/2](02/ydb-62.md)
-
-[YDB - 8/2](02/ydb-82.md)
-
-[YDB - 2/2](02/ydb.md)
-
-[YDB - 3/2](02/ydb_03.md)
-
-[YDB - 4/2](02/ydb_04.md)
-
-[YDB - 13/2](02/ydb_13.md)
-
-[YDB - 28/2](02/ydbe-282.md)
 
 [9/11, Bush, Bill Maher](03/911-bush-bill-maher.md)
 
@@ -158,28 +90,6 @@
 
 [Yanlislanabilir Dusunebilmek](03/yanlislanabilir-dusunebilmek.md)
 
-[YDB - 11/3](03/ydb-113.md)
-
-[YDB  - 12/3](03/ydb-123.md)
-
-[YDB - 14/3](03/ydb-143.md)
-
-[YDB - 16/3](03/ydb-163.md)
-
-[YDB - 19/3](03/ydb-193.md)
-
-[YDB - 21/3](03/ydb-213.md)
-
-[YDB 2/3](03/ydb-22.md)
-
-[YDB - 3/3](03/ydb-33.md)
-
-[YDB - 6/3](03/ydb-53.md)
-
-[YDB - 7/3](03/ydb-73.md)
-
-[YDB - 9/3](03/ydb-93.md)
-
 [YouTube](03/youtube.md)
 
 [Beyaz Insanlar Neleri Sever?](04/beyaz-insanlar-neleri-sever.md)
@@ -191,26 +101,6 @@
 [Star Wars Gansta Rap](04/star-wars-gansta-rap.md)
 
 [TESEV - Yargida Algi ve Zihniyet Kaliplari](04/tesev-yargida-algi-ve-zihniyet.md)
-
-[YDB - 12/4](04/ydb-124.md)
-
-[YDB - 13/4](04/ydb-134.md)
-
-[YDB - 14/4](04/ydb-144.md)
-
-[YDB - 18/4](04/ydb-164.md)
-
-[YDB - 20/4](04/ydb-204.md)
-
-[YDB - 21/4](04/ydb-214.md)
-
-[YDB - 23/4](04/ydb-234.md)
-
-[YDB - 2/4](04/ydb-24.md)
-
-[YDB - 25/4](04/ydb-254.md)
-
-[YDB - 6/4](04/ydb-64_06.md)
 
 [Yeni Gocebeler](04/yeni-gocebeler.md)
 
@@ -240,18 +130,6 @@
 
 [Vay Cakal](05/vay-cakal.md)
 
-[YDB - 10/5](05/ydb-105.md)
-
-[YDB - 13/5](05/ydb-135.md)
-
-[YDB - 14/5](05/ydb-145.md)
-
-[YDB - 16/5](05/ydb-165.md)
-
-[YDB - 19/5](05/ydb-195.md)
-
-[YDB - 4/5](05/ydb-45.md)
-
 [Al Kaide ve Petrol](06/al-kaide-ve-petrol.md)
 
 [Aydinlik](06/aydinlik.md)
@@ -277,30 +155,6 @@
 [Su -> Yakit](06/su-yakit.md)
 
 [Tepe Noktası](06/tepe-noktasi.md)
-
-[YDB - 11/6](06/ydb-116.md)
-
-[YDB - 15/6](06/ydb-156.md)
-
-[YDB - 17/6](06/ydb-176.md)
-
-[YDB - 18/6](06/ydb-186.md)
-
-[YDB - 19/6](06/ydb-196.md)
-
-[YDB - 21/6](06/ydb-216.md)
-
-[YDB - 23/6](06/ydb-236.md)
-
-[YDB  - 24/6](06/ydb-246.md)
-
-[YDB - 25/6](06/ydb-256.md)
-
-[YDB - 29/6](06/ydb-296.md)
-
-[YDB - 30/6](06/ydb-306.md)
-
-[YDB - 4/6](06/ydb-46.md)
 
 [Asrin roportaji](07/asrin-roportaji.md)
 
@@ -329,26 +183,6 @@
 [Sosyalizm ve Demokrasi](07/sosyalizm-ve-demokrasi.md)
 
 [YBD - 11/7](07/ybd-117.md)
-
-[YDB - 15/7](07/ydb-157.md)
-
-[YDB - 16/7](07/ydb-167.md)
-
-[YDB - 17/7](07/ydb-177.md)
-
-[YDB - 18/7](07/ydb-187.md)
-
-[YDB - 27/7](07/ydb-277.md)
-
-[YDB - 28/7](07/ydb-287.md)
-
-[YDB - 29/7](07/ydb-297.md)
-
-[YDB - 31/7](07/ydb-317.md)
-
-[YDB - 8/7](07/ydb-86.md)
-
-[YDB - 9/7](07/ydb-96.md)
 
 [Yeni Alti Ok](07/yeni-alti-ok.md)
 
@@ -384,24 +218,6 @@
 
 [Uzakdogu ve Donanmalarinin Silah Yarisi](08/uzakdogu-ve-donanmalarin-silah-yarisi.md)
 
-[YDB - 17/8](08/ydb-178.md)
-
-[YDB - 22/8](08/ydb-229.md)
-
-[YDB - 25/8](08/ydb-258.md)
-
-[YDB - 27/8](08/ydb-278.md)
-
-[YDB - 28/8](08/ydb-288.md)
-
-[YDB - 29/8](08/ydb-298.md)
-
-[YDB - 30/8](08/ydb-308.md)
-
-[YDB - 7/8](08/ydb-78.md)
-
-[YDB - 8/8](08/ydb-88.md)
-
 [1987](09/1987.md)
 
 [Bu Yeni Bir Ortaçağ; Yeni Bir Düzen Değil](09/bu-yeni-bir-ortacag-yeni-bir-duzen.md)
@@ -427,20 +243,6 @@
 [Taraf: Plan Gecti](09/taraf-plan-gecti.md)
 
 [Vur Tayyip](09/vur-tayyip_08.md)
-
-[YDB - 12/9](09/ydb-129.md)
-
-[YDB - 13/9](09/ydb-139.md)
-
-[YDB - 14/9](09/ydb-149.md)
-
-[YDB - 1/9](09/ydb-19.md)
-
-[YDB - 29/9](09/ydb-299.md)
-
-[YDB - 6/9](09/ydb-69.md)
-
-[YDB - 9/9](09/ydb-99.md)
 
 [Yesilcilerin Hurafeleri](09/yesilcilerin-hurafeleri.md)
 
@@ -473,24 +275,6 @@
 [Türkiye ve Türkler](10/turkiye-ve-turkler.md)
 
 [Uzlasma ve Pragmatizm](10/uzlasma-ve-pragmatizm.md)
-
-[YDB - 10/10](10/ydb-1010.md)
-
-[YDB - 12/10](10/ydb-1210.md)
-
-[YDB - 14/10](10/ydb-1410.md)
-
-[YDB - 2/10](10/ydb-210.md)
-
-[YDB - 21/10](10/ydb-2110.md)
-
-[YDB - 24/10](10/ydb-2410.md)
-
-[YDB - 25/10](10/ydb-2510.md)
-
-[YDB - 27/10](10/ydb-2710.md)
-
-[YDB - 29/10](10/ydb-2910.md)
 
 [Agla Bakalim...](11/agla-bakalim.md)
 
@@ -528,30 +312,6 @@
 
 [Venezuela Egitim Icin 1 Milyon Laptop Aliyor](11/venezuela-egitim-icin-1-milyon-laptop.md)
 
-[YDB -  1/12](11/ydb-112.md)
-
-[YDB - 12/11](11/ydb-1211.md)
-
-[YDB - 14/11](11/ydb-1411.md)
-
-[YDB - 15/11](11/ydb-1511.md)
-
-[YDB - 18/11](11/ydb-1811.md)
-
-[YDB - 22/11](11/ydb-2211.md)
-
-[YDB - 23/11](11/ydb-2311.md)
-
-[YDB - 26/11](11/ydb-2611.md)
-
-[YDB - 28/11](11/ydb-2911.md)
-
-[YDB - 30/11](11/ydb-3011.md)
-
-[YDB - 6/11](11/ydb-611.md)
-
-[YDB - 9/11](11/ydb-911.md)
-
 [Baykal'dan mayo acilimi](12/baykaldan-mayo-acilimi.md)
 
 [Bu Bardak Alinir](12/bu-bardak-alinir.md)
@@ -565,22 +325,4 @@
 [Küçük Dünya Ağ Yapısı](12/kucuk-dunya-ag-yapisi.md)
 
 [Yapı, İşlevi Etkiler](12/yapi-islevi-etkiler.md)
-
-[YDB - 17/12](12/ydb-1712.md)
-
-[YDB - 20/12](12/ydb-2012.md)
-
-[YDB - 2/12](12/ydb-212.md)
-
-[YDB - 22/12](12/ydb-2212.md)
-
-[YDB - 24/12](12/ydb-2412.md)
-
-[YDB - 26/12](12/ydb-2612.md)
-
-[YDB - 27/12](12/ydb-2712.md)
-
-[YDB - 3/12](12/ydb-312.md)
-
-[YDB - 7/12](12/ydb-711.md)
 

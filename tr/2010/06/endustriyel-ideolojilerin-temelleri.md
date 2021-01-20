@@ -18,5 +18,5 @@
 
 [Güven Tazeleme Ritueli](../../2011/07/guven-tazeleme-ritueli.md)
 
-[Bürokrasi](../../2009/04/burokrasi_22.md)
+[Bürokrasi](../../2009/04/burokrasi.md)
 
