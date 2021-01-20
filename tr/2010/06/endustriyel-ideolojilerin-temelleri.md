@@ -16,7 +16,5 @@
 
 [Bağlantıcı Elit](../../2011/06/baglantc-elit.md)
 
-[Güven Tazeleme Ritueli](../../2011/07/guven-tazeleme-ritueli.md)
-
 [Bürokrasi](../../2009/04/burokrasi.md)
 
