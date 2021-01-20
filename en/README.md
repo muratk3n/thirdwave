@@ -15,6 +15,12 @@ as much as $4 trillion (!) on infrastructure"
 
 ---
 
+Windy day in Washington
+
+<img width="340" src="https://pbs.twimg.com/media/EsLzcCaXAAAi9rX?format=png&name=small"/>
+
+---
+
 McKinsey H2 roadmap ideas for US.
 
 [PDF](https://static1.squarespace.com/static/53ab1feee4b0bef0179a1563/t/5e7ca9d6c8fb3629d399fe0c/1585228263363/Road+Map+to+a+US+Hydrogen+Economy+Full+Report.pdf)
