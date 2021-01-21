@@ -4,9 +4,9 @@ Combining H2 with CO2 (from the "air") to create synthetic kerosone,
 so overall you are carbon neutral (took from air, goes back to air, no
 difference)? Too open to cheating.. They'll take CO2 from f-ing
 whereever, and slap a "neutral" label on it. Before VW cheating
-scandal I might supported it, now I cant.. The best way to to enforce
-green is at the end-user level, and you regulate the production (or
-make it completely green) then the rest is safe.
+scandal I might supported these neutrality schemes, now I cant.. The
+best way to to enforce green is at the end-user level, you regulate
+the source (or make it completely green) then the rest is safe.
 
 ---
 
