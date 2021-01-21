@@ -47,7 +47,7 @@ can major book mess that up?
 ---
 
 Li-on bats are 1.8 MJ/liter, so they arent even in the running. Plus
-they weigh a ton, plane will nose dive, going that way 👎
+they weigh a ton, plane will nose dive, that way 👎
 
 ---
 
