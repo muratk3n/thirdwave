@@ -96,8 +96,8 @@ Paris Accord"
 
 
 Should I continue with the Middle Ages analogy? There is mainstream,
-stuck in the mud, quacks, and also there are the new ultra-rich, the
-new Medicis? For a while there were even pirates! Crusades?! WTF man..
+stuck in the mud, quacks, and also there is the ultra-rich, the new
+Medicis? For a while there were even pirates! Crusades?! WTF man..
 
 ---
 
