@@ -87,6 +87,15 @@ in Inaug... The singing was ok muchacha
 
 ---
 
+So good
+
+"Biden Signs Executive Orders on Face-Mask Mandate, Keystone Pipeline, Paris Accord
+Keystone XL pipeline work suspended as President Biden moves to revoke permit
+Joe Biden cancels Keystone XL permit"
+
+---
+
+
 Should I go on with the Middle Ages analogy? There is mainstream,
 stuck in the mud, quacks, and also there are the new ultra-rich, the
 new Medicis? For a while there were even pirates! Crusades?! WTF man..
