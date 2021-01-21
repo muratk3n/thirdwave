@@ -89,9 +89,8 @@ in Inaug... The singing was ok muchacha
 
 So good
 
-"Biden Signs Executive Orders on Face-Mask Mandate, Keystone Pipeline, Paris Accord
-Keystone XL pipeline work suspended as President Biden moves to revoke permit
-Joe Biden cancels Keystone XL permit"
+"Biden Signs Executive Orders on Face-Mask Mandate, Keystone Pipeline,
+Paris Accord"
 
 ---
 
