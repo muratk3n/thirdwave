@@ -47,8 +47,8 @@ can major book mess that up?
 
 ---
 
-H2 has no problems on that front (only some on volume) equiv energy in
-H2 is actually *lighter*.
+H2 has no problems on the weight front (only some on volume) equiv
+energy in H2 is actually *lighter*.
 
 ---
 
