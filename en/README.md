@@ -74,7 +74,7 @@ Liquified H2 has 8.5 MJ/liter
 Then a suggestion could be, pending new developments, double fuel tank
 size, and halve the range of planes. Dunno what else to say, greening
 will have consequences. But I am guessing if sufficient fire is lit
-under their ass, aircraft makers will innovate in a gif. Airbus chief
+under their ass, aircraft makers will innovate in a jif. Airbus chief
 is [lighting](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
 that fire I see (or feeling it), he laid out a goal, so subseq inno
 should be possible.
