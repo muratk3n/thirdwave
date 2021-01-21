@@ -36,8 +36,8 @@ insanely bad.
 
 ---
 
-$f(x,p,t)$ is the *probability* of finding molecule in certain phase
-mofo.. The *number* of molecules is $f(x,p,t) \Delta x \Delta p$. How
+$f(x,p,t)$ is the *probability* of finding particle in certain phase
+mofo.. The *number* of particles is $f(x,p,t) \Delta x \Delta p$. How
 can major book mess that up?
 
 ---
