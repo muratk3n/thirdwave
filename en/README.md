@@ -46,6 +46,11 @@ can major book mess that up?
 
 ---
 
+H2 has no problems on that front (only some on volume) equiv energy in
+H2 is actually *lighter*.
+
+---
+
 Li-on bats are 1.8 MJ/liter, so they arent even in the running. Plus
 they weigh a ton, plane will nose dive, that way 👎
 
