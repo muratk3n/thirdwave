@@ -123,7 +123,7 @@ on Autocad. I might get on this 3D printing craze one day.
 
 Shaq-Fu. I know a guy who knows a guy who played this game. Vintage 90s. Legendary.
 
-<img width="400" src="https://theinsatiablegamer.com/wp-content/uploads/2018/06/Retro_Shaqfu-850x478.png"/>
+<img width="340" src="https://pbs.twimg.com/media/EsQNrdRW4AArq_b?format=jpg&name=small"/>
 
 ---
 
