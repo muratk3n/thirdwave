@@ -17,11 +17,7 @@ Some Airbus plans on clean aviation
 
 ---
 
-Rebuilding things from basic elements seems to be my fate
-
----
-
-F yeah bro this powerbank has a builtin camp light, can be charged
+Not bad this powerbank has a builtin camp light, can be charged
 through my panels, its 2A output runs Raspberry Pi and Im guessing 3A
 output will even run a NVidia dev board. With $30 HDMI portable
 monitor the whole package is as good as a notebook.
