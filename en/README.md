@@ -77,9 +77,9 @@ should be possible.
 ---
 
 Should I go on with the Middle Ages analogy? There is mainstream,
-stuck stuck in the mud, quacks, and also there are the new ultra-rich,
-the new Medicis, right? At some point there were even pirates!
-Crusades?! WTF man..
+stuck in the mud, quacks, and also there are the new ultra-rich, the
+new Medicis, right? At some point there were even pirates!  Crusades?!
+WTF man..
 
 ---
 
