@@ -83,7 +83,7 @@ should be possible.
 
 I thought it was a Spanish soccer guy talking abt a game,
 goooooaaaallll! turns out it was singer talking Spanish during a song
-in Inaug... The singing was ok muchacha
+in Inaug... The singing was ok by muchacha
 
 ---
 
