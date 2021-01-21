@@ -5,8 +5,9 @@ so overall you are carbon neutral (took from air, goes back to air, no
 difference)? Too open to cheating.. They'll take CO2 from f-ing
 whereever, and slap a "neutral" label on it. Before VW cheating
 scandal I might have supported these neutrality schemes, now, no.. The
-best way to to enforce green is at the end-user level, you regulate
-the source (or make it completely green) then the rest is safe.
+best way to go green is enforcing it at end-user level, you regulate
+the source (or make it completely green as well) then the rest is
+safe.
 
 ---
 
