@@ -11,6 +11,12 @@ rest is safe.
 
 ---
 
+NDE - Lost In Paris (Tribute To JP Galland) \#music
+
+https://youtu.be/v-rnMc3Q03I
+
+---
+
 Some Airbus plans on clean aviation
 
 <iframe width="340" src="https://www.youtube.com/embed/5Fi65k2K3Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
