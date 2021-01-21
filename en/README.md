@@ -95,7 +95,7 @@ Paris Accord"
 ---
 
 
-Should I go on with the Middle Ages analogy? There is mainstream,
+Should I continue with the Middle Ages analogy? There is mainstream,
 stuck in the mud, quacks, and also there are the new ultra-rich, the
 new Medicis? For a while there were even pirates! Crusades?! WTF man..
 
