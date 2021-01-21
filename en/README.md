@@ -88,7 +88,7 @@ paisan if you want 🤷‍♂️
 
 I thought it was a Spanish soccer guy talking abt a game,
 goooooaaaallll! turns out it was singer talking Spanish during a song
-in Inaug... Ok singing muchacha
+in Inaug... Singing was okay muchacha
 
 ---
 
