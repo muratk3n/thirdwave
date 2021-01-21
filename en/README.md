@@ -1,94 +1,89 @@
 # Tweets
 
-Happy Inauguration Day
+Combining H2 with CO2 (from the "air") to create synthetic kerosone,
+so overall you are carbon neutral (took from air, goes back to air no
+difference)? This method can lead to cheating.. they'll take CO2 from
+whereever and slap a "neutral" label on it. Before VW cheating scandal
+I might be for it, now I cant.. The best way to to enforce clean fuel
+usage is at the end-user level, and you regulate the production (or
+make it completely green) then the rest is safe.
 
 ---
 
-Manchin won't be the party pooper then?
+Some Airbus plans on clean aviation
 
-"@sahilkapur
-
-Important policy news this weekend: @Sen_JoeManchin went [on TV] and
-kept the door open to higher stimulus checks up to 2,000 (he prefers
-they be targeted but didn't draw a red line) and called for spending
-as much as $4 trillion (!) on infrastructure"
+<iframe width="340" src="https://www.youtube.com/embed/5Fi65k2K3Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Windy day in Washington
-
-<img width="340" src="https://pbs.twimg.com/media/EsLzcCaXAAAi9rX?format=png&name=small"/>
+Rebuilding things from basic elements seems to be my fate
 
 ---
 
-McKinsey H2 roadmap ideas for US.
-
-[PDF](https://static1.squarespace.com/static/53ab1feee4b0bef0179a1563/t/5e7ca9d6c8fb3629d399fe0c/1585228263363/Road+Map+to+a+US+Hydrogen+Economy+Full+Report.pdf)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ll admit it, this headline seriously moved me. We&#39;ve got tremendous work to do, but we&#39;ve got a great, deeply committed team that&#39;s already hard at work. But step 1--new leadership w a genuine commitment to meeting the challenges we face--is hours away. <a href="https://t.co/8zkw4g1O5J">pic.twitter.com/8zkw4g1O5J</a></p>&mdash; Jared Bernstein (@econjared) <a href="https://twitter.com/econjared/status/1351894226779385862?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+F yeah bro this powerbank has a builtin camp light, can be charged
+through my panels, its 2A output runs Raspberry Pi and Im guessing 3A
+output will even run a NVidia dev board. With $30 HDMI portable
+monitor the whole package is as good as a notebook.
 
 ---
 
-That risk taking led to the discovery and settlement of US after all
-😉 Pursued by different, diverse set of states also let's not forget.
+Yes I am looking at the latest edition. 
 
 ---
 
-Europe doing some gutsy stuff.. Werent they bunch of bureucrats,
-eurocrats, all "arthritic", not able to move..?  Taking some risks,
-big moves here
+This is why I carpet bomb with reading material, they eff shit up so
+insanely bad. 
 
 ---
 
-👏👏👏👏👏👏
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clean hydrogen will help us reconcile our economy with the health of our planet. That&#39;s the spirit of the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a>. <br><br>We invest in hydrogen like never before and support out-of-the-box solutions, to make the EU climate-neutral by 2050.<br><br>My address to <a href="https://twitter.com/HydrogenCouncil?ref_src=twsrc%5Etfw">@HydrogenCouncil</a> ⤵ <a href="https://t.co/Fjmot35KW6">pic.twitter.com/Fjmot35KW6</a></p>&mdash; Ursula von der Leyen (@vonderleyen) <a href="https://twitter.com/vonderleyen/status/1351487690752073729?ref_src=twsrc%5Etfw">January 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-That black hole fail was the last straw .. Just the fact that two
-reputable scientists debunking the crap out of a concept so widely
-accepted is proof enough.
-
-Mainstream sci today looks more and more like Church teachings from
-the Middle Ages.
-
-Church teachings are bunk, bunch of alternate theoreticians roam
-about, most of whom are also quacks.
-
-No wonder art, cinema is obsessed with the era.
+$f(x,p,t)$ is the *probability* of finding molecule in certain phase
+mofo.. The *number* of molecules is $f(x,p,t) \Delta x \Delta p$. How
+can major book mess that up?
 
 ---
 
-Its probably safe to ignore any mainstream physics since 30s. Same for
-base math pretty much. If 19th century math was good enough for
-Feynman it's good enough for me.
+<blockquote  class="twitter-tweet"><p lang="en" dir="ltr">Welcome back to Washington, Mr. President. <br>Sen. <a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a> is not wasting any time.. challenging <a href="https://twitter.com/JoeBiden?ref_src=twsrc%5Etfw">@JoeBiden</a> to abandon &quot;business as usual&quot; and aggressively attack a progressive agenda as quickly as possible. (h/t <a href="https://twitter.com/AnnieGrayerCNN?ref_src=twsrc%5Etfw">@AnnieGrayerCNN</a> for finding) <a href="https://t.co/kAg7yKQZQH">https://t.co/kAg7yKQZQH</a></p>&mdash; Ryan Nobles (@ryanobles) <a href="https://twitter.com/ryanobles/status/1351950405220106246?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Even Though He Is Revered Today, MLK Was Widely Disliked by the American Public"
+Li-on bats are 1.8 MJ/liter, so they arent even in the running, plus
+they weigh a ton, plane will nose dive, going that way 👎
 
 ---
 
-Including the tr version of the blog and its q&a format as tweets, u
-cld say I've been tweeting since 2008.
+Airbus A330 has a range of 11,750 km. If you halve that, can still
+cross the Atlantic which is around 5,000 km.
+
+Crossing the Pacific.. at ~ 7,000 km (LA-Tokyo), bit harder, refuel at
+Alaska? Or increase tank size little more.. Solns cld be found.
 
 ---
 
-The dollar was already too high. It now moved to an average level.
+How to solve the green aviation problem?
 
-"Previous money injection and future prospect of more stimulus led to
-the dollar falling"
+Current jet fuel used is kerosene (one of the most densest form of
+energy) w energy content 34.69 MJ/litre.
+
+Liquified H2 has 8.5 MJ/liter
+
+Then a suggestion could be, pending new developments, double fuel tank
+size, and halve the range of planes. Dunno what else to say, greening
+will have consequences. But I am guessing if sufficient fire is lit
+under their ass, aircraft makers will innovate in a gif. Airbus chief
+is [lighting](https://twitter.com/GuillaumeFaury/status/1280846469680050176)
+that fire I see (or feeling it), he laid out a goal, so subseq inno
+should be possible.
 
 ---
 
-The entire world is rushing, competing to sell to US, as well as to
-eachother. How cld that not lower prices? Wages also have competition
-through globalization. 
+Should I go on with the Middle Ages analogy? There is mainstream,
+stuck stuck in the mud, quacks, and also there are the new ultra-rich,
+the new Medicis, right? At some point there were even pirates!
+Crusades?! WTF man..
 
-"Why did inflation disappear in US?"
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The world&#39;s 1st internal combustion engine ran on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> gas in 1807. Now, <a href="https://twitter.com/hashtag/hydrogencombustion?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogencombustion</a> in ✈️could bring zero-emission technology to aviation. We&#39;re on it! 👉<a href="https://t.co/J8NGqKktCy">https://t.co/J8NGqKktCy</a> <a href="https://t.co/fZNonzURjE">pic.twitter.com/fZNonzURjE</a></p>&mdash; Airbus (@Airbus) <a href="https://twitter.com/Airbus/status/1331981609176854528?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
