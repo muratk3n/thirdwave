@@ -76,6 +76,16 @@ should be possible.
 
 ---
 
+In US most of this heritage stuff is hallow. 
+
+---
+
+Is the FLOTUS a paisan? Wiki says she's half Scottish, and English,
+not even Catholic, a Presbyterian, but sure, you could call her a
+paisan if you want 🤷‍♂️
+
+---
+
 I thought it was a Spanish soccer guy talking abt a game,
 goooooaaaallll! turns out it was singer talking Spanish during a song
 in Inaug... Ok singing muchacha
