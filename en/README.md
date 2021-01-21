@@ -55,7 +55,7 @@ Airbus A330 has a range of 11,750 km. If you halve that, can still
 cross the Atlantic which is around 5,000 km.
 
 Crossing the Pacific.. at ~ 7,000 km (LA-Tokyo), bit harder, refuel at
-Alaska? Or increase tank size little more.. Solns cld be found.
+Alaska? Or increase tank size little more.. Solutions can be found.
 
 ---
 
