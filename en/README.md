@@ -11,12 +11,6 @@ rest is safe.
 
 ---
 
-NDE - Lost In Paris (Tribute To JP Galland) \#music
-
-https://youtu.be/v-rnMc3Q03I
-
----
-
 Some Airbus plans on clean aviation
 
 <iframe width="340" src="https://www.youtube.com/embed/5Fi65k2K3Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -100,7 +94,6 @@ So good
 Paris Accord"
 
 ---
-
 
 Should I continue with the Middle Ages analogy? There is mainstream,
 stuck in the mud, quacks, and also there is the ultra-rich, the new
