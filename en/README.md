@@ -76,6 +76,12 @@ should be possible.
 
 ---
 
+I thought it was a Spanish soccer guy talking abt a game,
+goooooaaaallll! turns out it was singer talking Spanish during a song
+in Inaug... Ok singing muchacha
+
+---
+
 Should I go on with the Middle Ages analogy? There is mainstream,
 stuck in the mud, quacks, and also there are the new ultra-rich, the
 new Medicis? For a while there were even pirates! Crusades?! WTF man..
