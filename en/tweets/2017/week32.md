@@ -1,17 +1,50 @@
+# Week 32
 
 News
 
-Extreme heatwaves that kill even healthy people within hours will strike parts of the Indian subcontinent unless global carbon emissions are cut sharply and soon, according to new research. [..] The new analysis assesses the impact of climate change on the deadly combination of heat and humidity, measured as the “wet bulb” temperature (WBT). Once this reaches 35C, the human body cannot cool itself by sweating and even fit people sitting in the shade will die within six hours.
+Extreme heatwaves that kill even healthy people within hours will
+strike parts of the Indian subcontinent unless global carbon emissions
+are cut sharply and soon, according to new research. [..] The new
+analysis assesses the impact of climate change on the deadly
+combination of heat and humidity, measured as the “wet bulb”
+temperature (WBT). Once this reaches 35C, the human body cannot cool
+itself by sweating and even fit people sitting in the shade will die
+within six hours.
 
 Sounds bad
 
+---
+
 Lee Atwater
 
-[Campaign Operative for the Reagan Campaign, shortly after Reagan's first election, talking to an author] you're going to hear a lot in the days to come about the Reagan revolution. Don't believe a word of it. If we Republicans are lucky, by dint of heroic effort we may push the system 5 degrees in one direction to compensate for the 5 degrees that President Carter pushed it in the other direction.
+[Campaign Operative for the Reagan Campaign, shortly after Reagan's
+first election, talking to an author] you're going to hear a lot in
+the days to come about the Reagan revolution. Don't believe a word of
+it. If we Republicans are lucky, by dint of heroic effort we may push
+the system 5 degrees in one direction to compensate for the 5 degrees
+that President Carter pushed it in the other direction.
 
 Wrong
 
-What really happened was Carter tried to change 5 degrees, and failed, Reagan pushed 180 degrees, and succeeded. According to this excerpt, changes made by Reagan were both necessary and unavoidable. Carter could go into that direction but he was probably, institutionally, not able to do so. A Democrat President could not have made them. A sad result of this is Democrats were bulldozed over, both electorally and more importantly, ideologically. They still did not recover from the Reagan Revolution. Changes during 80s were about unshackling the enterpreneual energy [great] but since "the other side" had no hand in these changes, their ideological chops atropied, they became pansy-ass pencil-dick small-time modifiers, merely trying to change some little stuff around the edges, always trying to work through the existing structures. 80s gave companies more power, so pansy-ass modifiers try to introduce their changes through companies, like healthcare through employers, trying to force the insurance companies to do this little different that little different. It is unfathomable to them to pull out health insurance outside the market structure.
+What really happened was Carter tried to change 5 degrees, and failed,
+Reagan pushed 180 degrees, and succeeded. According to this excerpt,
+changes made by Reagan were both necessary and unavoidable. Carter
+could go into that direction but he was probably, institutionally, not
+able to do so. A Democrat President could not have made them. A sad
+result of this is Democrats were bulldozed over, both electorally and
+more importantly, ideologically. They still did not recover from the
+Reagan Revolution. Changes during 80s were about unshackling the
+enterpreneual energy [great] but since "the other side" had no hand in
+these changes, their ideological chops atropied, they became pansy-ass
+pencil-dick small-time modifiers, merely trying to change some little
+stuff around the edges, always trying to work through the existing
+structures. 80s gave companies more power, so pansy-ass modifiers try
+to introduce their changes through companies, like healthcare through
+employers, trying to force the insurance companies to do this little
+different that little different. It is unfathomable to them to pull
+out health insurance outside the market structure.
+
+---
 
 Comment
 
@@ -19,7 +52,13 @@ But Democrats had memorable politicians since the 80s, like Clinton.
 
 He was a Southern Conservative 
 
-.. or a Conservative Democrat. Here's an excerpt from All Too Human, by George Stepehanappololooopoololololuluuluoulpoopoololoous "Most liberals [he means left] understood that Clinton wasn't really one of us. But it felt good to get lost in the partisan reverie [..] It felt good, again, to think about winning."
+.. or a Conservative Democrat. Here's an excerpt from All Too Human,
+by George Stepehanappololooopoololololuluuluoulpoopoololoous "Most
+liberals [he means left] understood that Clinton wasn't really one of
+us. But it felt good to get lost in the partisan reverie [..] It felt
+good, again, to think about winning."
+
+---
 
 News
 
@@ -28,6 +67,9 @@ point”, Rex Tillerson has warned, calling for efforts to avoid “open
 conflict” between the world’s two largest economies.
 
 Right
+
+---
+
 G. Friedman
 
 [From The Next 100 Years] Having achieved the unprecedented feat of
@@ -70,30 +112,7 @@ BTW, there is a career group -- with destroyers, subs of its own,
 etc. If the outcome of a war were to hinge on that, could the Chinese
 be absolutely sure they have a good solution? 
 
-
-
-
-
-
-
-at
-
-August 03, 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 G. Friedman
 
@@ -112,65 +131,78 @@ Not only is Mexico adjacent to the United States, but in many cases the land the
 
 Right
 
-Mark Blyth
-
-Video
-
-Agree
+---
 
 Link
 
-As the air warms, some of that heat is absorbed by the ocean, which in turn raises the temperature of the sea’s upper layers.
+As the air warms, some of that heat is absorbed by the ocean, which in
+turn raises the temperature of the sea’s upper layers.
 
-Harvey benefitted from unusually toasty waters in the Gulf of Mexico. As the storm roared toward Houston last week, sea-surface waters near Texas rose to between 2.7 and 7.2 degrees Fahrenheit above average. These waters were some of the hottest spots of ocean surface in the world. The tropical storm, feeding off this unusual warmth, was able to progress from a tropical depression to a category-four hurricane in roughly 48 hours.
+Harvey benefitted from unusually toasty waters in the Gulf of
+Mexico. As the storm roared toward Houston last week, sea-surface
+waters near Texas rose to between 2.7 and 7.2 degrees Fahrenheit above
+average. These waters were some of the hottest spots of ocean surface
+in the world. The tropical storm, feeding off this unusual warmth, was
+able to progress from a tropical depression to a category-four
+hurricane in roughly 48 hours.
 
-“This is the main fuel for the storm,” says Kevin Trenberth, a senior scientist at the U.S. National Center for Atmospheric Research. “Although these storms occur naturally, the storm is apt to be more intense, maybe a bit bigger, longer-lasting, and with much heavier rainfalls [because of that ocean heat].”
+“This is the main fuel for the storm,” says Kevin Trenberth, a senior
+scientist at the U.S. National Center for Atmospheric
+Research. “Although these storms occur naturally, the storm is apt to
+be more intense, maybe a bit bigger, longer-lasting, and with much
+heavier rainfalls [because of that ocean heat].”
 
 Deny That
 
-
-
-
-
-
-
-
-at
-
-August 30, 2017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-On the American Dream
-
-This guy..
+---
 
 News
 
-Google has fired a computer engineer who caused a storm in Silicon Valley by asserting that the gender gap among technology workers was down to biological differences between men and women.
+Google has fired a computer engineer who caused a storm in Silicon
+Valley by asserting that the gender gap among technology workers was
+down to biological differences between men and women.
 
 Google did the right thing
 
-A company is no place to stir that kind of shit up. You can have your "discussions" outside, start a blog like mine, vent, go to the woods, scream it out, learn karate, do karate chops on wood blocks. Who cares? Don't do it at a company. From a CEO / management's perspective it is already hard enough to get all employees rowing in the same direction, keep them generally happy, motivated, satisfied with their work, offer growing opportunities, and turn a profit at the same time. There is no time or space for such philosophical meanderings. But this guy probably knew this would happen, wanted to make a point anyway, and made it, and was fired. He accomplished his goal.
+A company is no place to stir that kind of shit up. You can have your
+"discussions" outside, start a blog like mine, vent, go to the woods,
+scream it out, learn karate, do karate chops on wood blocks. Who
+cares? Don't do it at a company. From a CEO / management's perspective
+it is already hard enough to get all employees rowing in the same
+direction, keep them generally happy, motivated, satisfied with their
+work, offer growing opportunities, and turn a profit at the same
+time. There is no time or space for such philosophical
+meanderings. But this guy probably knew this would happen, wanted to
+make a point anyway, and made it, and was fired. He accomplished his
+goal.
 
-Now on diversity: it is generally good a company's internal make-up reflects the broader population, in US that would be 50% women, 15% black, Latino, etc. It is good companies striving to get there. How to get there? An approach, and according to affirmative action (law), a company gently prefers the minority candidate over another, at the door, if they have equal skill sets.
+Now on diversity: it is generally good a company's internal make-up
+reflects the broader population, in US that would be 50% women, 15%
+black, Latino, etc. It is good companies striving to get there. How to
+get there? An approach, and according to affirmative action (law), a
+company gently prefers the minority candidate over another, at the
+door, if they have equal skill sets.
 
-But once inside, I add, you don't talk about gender, race. You don't think about gender, race. Inside, it is the diversity club. What is the first rule of diversity club? You don't talk about the diversity club. Simple. If, say, women are huddled in classrooms in companies to help them specifically to improve some of their skills, not okay. Making people aware of their difference, even if sometimes in positive ways, not okay. There is research that shows, while taking tests, some kids are made aware of their minority status, their score went down. Internally companies stay color-blind, gender-blind, purely merit based. If there are two employees equally unfit for a company, one of them woman the other man, both get fired. Affirmative action is only to fight against the discrimination at the door, the rest is up to the person, company stays neutral.
+But once inside, I add, you don't talk about gender, race. You don't
+think about gender, race. Inside, it is the diversity club. What is
+the first rule of diversity club? You don't talk about the diversity
+club. Simple. If, say, women are huddled in classrooms in companies to
+help them specifically to improve some of their skills, not
+okay. Making people aware of their difference, even if sometimes in
+positive ways, not okay. There is research that shows, while taking
+tests, some kids are made aware of their minority status, their score
+went down. Internally companies stay color-blind, gender-blind, purely
+merit based. If there are two employees equally unfit for a company,
+one of them woman the other man, both get fired. Affirmative action is
+only to fight against the discrimination at the door, the rest is up
+to the person, company stays neutral.
 
-After all that, and the internal percentages are still off due to the availability of qualified diverse candidates or other causes, that is sad and not a company's problem. The larger social system needs fixing.
+After all that, and the internal percentages are still off due to the
+availability of qualified diverse candidates or other causes, that is
+sad and not a company's problem. The larger social system needs
+fixing.
+
+---
 
 Question
 
@@ -178,33 +210,29 @@ But does affirmative action work?
 
 It does
 
-The Clinton WH did a review on that, with the intention of removing it, but they decided against it because they found out it worked. Details are in the book All Too Human by George Stephanapopolopopolopoluoplpuoplupoplupououllpulpulpouplpuopuous. Unless there is new research that shows otherwise, I am going to stick with that.
+The Clinton WH did a review on that, with the intention of removing
+it, but they decided against it because they found out it
+worked. Details are in the book All Too Human by George
+Stephanapopolopopolopoluoplpuoplupoplupououllpulpulpouplpuopuous. Unless
+there is new research that shows otherwise, I am going to stick with
+that.
+
+---
 
 Comment
 
-You just made reference to someone's long Greek last name and made him aware of his difference, if this person saw it it may hurt his feelings.
+You just made reference to someone's long Greek last name and made him
+aware of his difference, if this person saw it it may hurt his
+feelings.
 
 I am a blogger
 
-I can say whatever funk I want. I am not in public office, write for a wide-circulation newspaper, a politician, an offical outlet, or a reader's coworker. People in such position may not be able to say the things I do.
+I can say whatever funk I want. I am not in public office, write for a
+wide-circulation newspaper, a politician, an offical outlet, or a
+reader's coworker. People in such position may not be able to say the
+things I do.
 
-
-
-
-
-
-
-at
-
-August 15, 2017
-
-
-
-
-
-
-
-
+---
 
 
 

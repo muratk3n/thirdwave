@@ -632,9 +632,8 @@ This style of bubble detection is slightly more advanced than "Black
 Swans" which in a way simply means "shit happens". Pretty crude
 observation which, shockingly, was unknown to many traders.
 
-Talked abt Didier's approach here before ([link](https://muratk3n.github.io/thirdwave/en/2017/03/q-13.html#sornette), [link](https://muratk3n.github.io/thirdwave/en/2015/10/didier-sornette.html)). 
-
-[The math](https://muratk3n.github.io/thirdwave/en/2017/03/bubble_nb.html)
+Talked abt Didier's approach here before
+([link](../2017/week12.md#sornette), [link](../../2015/10/didier-sornette.md)). 
 
 DS's observatory publishes a report every month, the graph above comes
 is from 2019 October [PDF](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/FCO/FCO-Cockpit-October_2019.pdf)

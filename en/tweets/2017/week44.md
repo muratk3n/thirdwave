@@ -1,3 +1,4 @@
+# Week 44
 
 Why are some people adamantly became opposed to Bitcoin lately?
 
@@ -14,6 +15,8 @@ concern. But I am guessing B$ price at the time will offer
 When and why to go in? That decision will be similar to the decision
 to sign up on Facebook: because most of your friends are there.
 
+---
+
 Question
 
 If I lose my bank card, I could to the bank, they recognize me from
@@ -26,6 +29,8 @@ I could put my password file on any file service, Google Drive,
 Dropbox. Pass forgotten? Go to the file service and look it up. If DB,
 GD pass itself is forgotten there are mechanisms to get that back -
 cell phone, Q&A, etc.
+
+---
 
 Question
 
@@ -46,14 +51,14 @@ some words hinting at certain English education, like "colour" and
 dude is Australian. Someone who knows the guy well says he likes
 Japanese culture - hence the fake name. On and on.
 
+---
+
 Question
 
 In previous blog post u talked about nationalism. What other problems
 await nationalism in these post-modern times?
 
 Leaders from the fringes
-
-<a name='modi'/>
 
 This is a huge potential problem. Say all you want about the
 "establishment" but they know one thing well - how to adjust the
@@ -92,6 +97,8 @@ Like I said before, the solution is turning the volume down at the
 highest levels, paying lip service to the current canon but mostly
 ignoring it, and completely ignoring the parts that are not relevant.
 
+---
+
 Question
 
 What are some examples for this tuning for US?
@@ -105,36 +112,63 @@ migration. But do you have to go around cursing out Mexicans at the
 highest levels of government? No. Do you have to kick out people who
 are already integrated in the society?
 
+---
 
+The former UN secretary general Ban Ki-moon called on Americans to
+pass universal health coverage at a speech in New York City on
+Tuesday, marking a dramatic intervention of world leaders into the US
+healthcare debate.
 
+Ban called on the US to stop “powerful interests” from prioritizing
+“profit over care” as part of a global delegation pushing the US to
+adopt a publicly financed health system similar to those in other
+wealthy countries.
 
+The US spends more on healthcare than any nation in the world, yet 28
+million Americans still lack care.
 
+“In the US, all too often only rich people get access to expensive
+life-saving treatments,” said Ban. “This is unjust and threatens
+everybody’s health when working- and middle-class people with
+communicable diseases cannot afford treatment for their infections.”
 
-
-
-
-
-
-
-
-
-The former UN secretary general Ban Ki-moon called on Americans to pass universal health coverage at a speech in New York City on Tuesday, marking a dramatic intervention of world leaders into the US healthcare debate.
-
-Ban called on the US to stop “powerful interests” from prioritizing “profit over care” as part of a global delegation pushing the US to adopt a publicly financed health system similar to those in other wealthy countries.
-
-The US spends more on healthcare than any nation in the world, yet 28 million Americans still lack care.
-
-“In the US, all too often only rich people get access to expensive life-saving treatments,” said Ban. “This is unjust and threatens everybody’s health when working- and middle-class people with communicable diseases cannot afford treatment for their infections.”
-
-“Even routine preventive care is often prohibitively expensive,” said Ban. “As America is demonstrating, you simply cannot reach universal health coverage if your health system is dominated by private financing and ultimately functions to prioritize profit over care.”
+“Even routine preventive care is often prohibitively expensive,” said
+Ban. “As America is demonstrating, you simply cannot reach universal
+health coverage if your health system is dominated by private
+financing and ultimately functions to prioritize profit over care.”
 
 My man Ban ki.. 
 
-Hit the nail right on the head. The profit motive in health insurance is a non-starter. That is why, after that over-engineered piece of shit Obamacare, the results are patchy at best. I am going to pull and push this lever, adjust this incentive to caaarefully nudge_companies_ to behave this, that way - won't work.
+Hit the nail right on the head. The profit motive in health insurance
+is a non-starter. That is why, after that over-engineered piece of
+shit Obamacare, the results are patchy at best. I am going to pull and
+push this lever, adjust this incentive to caaarefully nudge_companies_
+to behave this, that way - won't work.
 
-Why are politicians trying so hard to pursue these capitalist (half-assed or otherwise) solutions? Because of the post-prophet conandrum. Let me explain what that is: If the religion is the free-market philosophy then it had to have a prophet. Who was he? The last prophet was Ronald Reagan. He rightfully analyzed the problem US economy was in at the time, and came up with the solution. But his followers, not being as smart as he (believe me he was very smart, he only played stupid on TV), cannot go around or draw line in the sand and say "the market stops here no further". The prophet knows all, sees all, knows how he arrived at the solution, from moral perspective, social perspective, all perspectives. The followers not seeing all those angles need to pick and latch on to stuff. Like they pick one word, "supply-side", now everything has to be supply-side. Deregulate, free-marketize, rinse repeat, for everything. This is fine where it is called for, but in all aspects of life? Even the best theoretical physics models cannot explain all phenomena. But the followers do this because they cannot do the adjustment the prophet could have made. 
+Why are politicians trying so hard to pursue these capitalist
+(half-assed or otherwise) solutions? Because of the post-prophet
+conandrum. Let me explain what that is: If the religion is the
+free-market philosophy then it had to have a prophet. Who was he? The
+last prophet was Ronald Reagan. He rightfully analyzed the problem US
+economy was in at the time, and came up with the solution. But his
+followers, not being as smart as he (believe me he was very smart, he
+only played stupid on TV), cannot go around or draw line in the sand
+and say "the market stops here no further". The prophet knows all,
+sees all, knows how he arrived at the solution, from moral
+perspective, social perspective, all perspectives. The followers not
+seeing all those angles need to pick and latch on to stuff. Like they
+pick one word, "supply-side", now everything has to be
+supply-side. Deregulate, free-marketize, rinse repeat, for
+everything. This is fine where it is called for, but in all aspects of
+life? Even the best theoretical physics models cannot explain all
+phenomena. But the followers do this because they cannot do the
+adjustment the prophet could have made. 
 
-It would be well-advised that ppl start reading the book the prophet has written, grok it all, do the adjustment. Or the book needs get rewritten.
+It would be well-advised that ppl start reading the book the prophet
+has written, grok it all, do the adjustment. Or the book needs get
+rewritten.
+
+---
 
 Question
 
@@ -144,11 +178,26 @@ They are all his clones
 
 They all lived in the universe that He has created.
 
-Let's look at the names, after Reagan it was Bush I, his VP. Then the Southern Ronald Reagan (Clinton), then Bush II, the VP's son, then a random brother pre-selected for PR, ended up being a middle-manager, well, in fact, post Reagan all presidents were middle-managers.
+Let's look at the names, after Reagan it was Bush I, his VP. Then the
+Southern Ronald Reagan (Clinton), then Bush II, the VP's son, then a
+random brother pre-selected for PR, ended up being a middle-manager,
+well, in fact, post Reagan all presidents were middle-managers.
 
-Oh but Clinton was hard-core, socially aware Democrat. No he wasn't. On 1992 campaign trail he hit the right notes “I'm a Democrat by instinct, heritage, and conviction. My granddaddy thought he was going to Roosevelt when he died.”. The crowd gets into a trance, and start clapping insanely, while lost in reverie though they'd miss the unmistakable "but" at the end of that sentence [1].
+Oh but Clinton was hard-core, socially aware Democrat. No he
+wasn't. On 1992 campaign trail he hit the right notes “I'm a Democrat
+by instinct, heritage, and conviction. My granddaddy thought he was
+going to Roosevelt when he died.”. The crowd gets into a trance, and
+start clapping insanely, while lost in reverie though they'd miss the
+unmistakable "but" at the end of that sentence (Stephanapolous, All
+Too Human).
 
-So nowadays when I see the ex-Prez line-up sometimes, Carter always stands out for me.. There is a different vibe to him.. Maybe I am reading into the historical reasons too much, but he is the only one unencumbered with what happened after him, he is literally from a different era. All the rest did something else.  
+So nowadays when I see the ex-Prez line-up sometimes, Carter always
+stands out for me.. There is a different vibe to him.. Maybe I am
+reading into the historical reasons too much, but he is the only one
+unencumbered with what happened after him, he is literally from a
+different era. All the rest did something else.  
+
+---
 
 Question
 
@@ -158,26 +207,37 @@ I am for painless transition
 
 As Gellner said, nationalism is
 
-"essentially, the general imposition of a high culture on society, where previously low cultures had taken up the lives of the majority, and in some cases of the totality, of the population. It means that generalized diffusion of a school-mediated, academy-supervised idiom, codified for the requirements of reasonably precise bureaucratic and technological communication. It is the establishment of an anonymous, impersonal society, with mutually substitutable atomized individuals, held together above all by a shared culture of this kind, in place of a previous complex structure of local groups, sustained by folk cultures reproduced locally and idiosyncratically by the micro-groups themselves"
+"essentially, the general imposition of a high culture on society,
+where previously low cultures had taken up the lives of the majority,
+and in some cases of the totality, of the population. It means that
+generalized diffusion of a school-mediated, academy-supervised idiom,
+codified for the requirements of reasonably precise bureaucratic and
+technological communication. It is the establishment of an anonymous,
+impersonal society, with mutually substitutable atomized individuals,
+held together above all by a shared culture of this kind, in place of
+a previous complex structure of local groups, sustained by folk
+cultures reproduced locally and idiosyncratically by the micro-groups
+themselves"
 
-This is the root of modernity. The problem is we are not living in modern times - so here is the song and dance political leaders (yes there are leaders, and they need to do stuff, don't turn to us and say we are in charge, do your fucking job) have to pursue. Pay partial lip service to the items above, but never push the single culture narrative too much (but don't give up on it completely either), being especially careful at the aspects of this "one" culture that are offensive the huge numbers of people. This, of course, is for holders of high office, everyone else can say whatever flack they want. What I am trying to say is, the national narratives are distasteful, so you turn the volume down, selectively, highlighting truth as much as possible.
+This is the root of modernity. The problem is we are not living in
+modern times - so here is the song and dance political leaders (yes
+there are leaders, and they need to do stuff, don't turn to us and say
+we are in charge, do your fucking job) have to pursue. Pay partial lip
+service to the items above, but never push the single culture
+narrative too much (but don't give up on it completely either), being
+especially careful at the aspects of this "one" culture that are
+offensive the huge numbers of people. This, of course, is for holders
+of high office, everyone else can say whatever flack they want. What I
+am trying to say is, the national narratives are distasteful, so you
+turn the volume down, selectively, highlighting truth as much as
+possible.
 
 I guess the problem above could be named "the modernity conandrum".
 
-At the same time society is prepared for the next thing which is distributed, less connected, less centralized with the largest possible safety net as possible, bringing modernity to its ultimate conclusion. The rest, noone can know.
+At the same time society is prepared for the next thing which is
+distributed, less connected, less centralized with the largest
+possible safety net as possible, bringing modernity to its ultimate
+conclusion. The rest, noone can know.
 
 ---
-
-[1] Stephanapolous, All Too Human
-
-
-
-
-
-
-
-
-
-
-
 
