@@ -1,20 +1,20 @@
 
 
-[week4.md](week4.md)
+[Week 4](week4.md)
 
-[week8.md](week8.md)
+[Week 8](week8.md)
 
-[week12.md](week12.md)
+[Week 12](week12.md)
 
-[week24.md](week24.md)
+[Week 24](week24.md)
 
-[week28.md](week28.md)
+[Week 28](week28.md)
 
-[week32.md](week32.md)
+[Week 32](week32.md)
 
-[week36.md](week36.md)
+[Week 36](week36.md)
 
-[week40.md](week40.md)
+[Week 40](week40.md)
 
-[week48.md](week48.md)
+[Week 48](week48.md)
 

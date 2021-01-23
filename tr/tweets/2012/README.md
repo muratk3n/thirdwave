@@ -1,10 +1,10 @@
 
 
-[week4.md](week4.md)
+[Week 4](week4.md)
 
-[week8.md](week8.md)
+[Week 8](week8.md)
 
-[week32.md](week32.md)
+[Week 32](week32.md)
 
-[week36.md](week36.md)
+[Week 36](week36.md)
 
