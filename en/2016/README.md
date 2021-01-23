@@ -198,8 +198,6 @@
 
 [Insane in the Membrane](08/insane-in-membrane.md)
 
-[#machine #learning](08/machine-learning.md)
-
 [Mo Energy, No Problems](08/mo-energy-no-problems.md)
 
 [My Data, Your Data](08/my-data-your-data.md)

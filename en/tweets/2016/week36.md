@@ -123,7 +123,15 @@ Great
 
 I like this guy; he is dismissive of String Theory (Stephen Hawking loves it by the way), and is respectful of Einstein's work. I smell a quality theory here (I read Rovelli's book too, good stuff). 
 
+---
 
+#machine #learning
+
+![](https://drive.google.com/uc?export=view&id=1Ly5XJOYjMLixGhQNlSdxOVmJvrig9VNT)
+
+ahahaha
+
+---
 
 
 
