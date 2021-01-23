@@ -18,8 +18,6 @@
 
 [#schultzforpresident](01/schultzforpresident.md)
 
-[The Internet of Money](01/the-internet-of-money.md)
-
 [The Milton Friedman Stimulus](01/the-robin-hood-stimulus.md)
 
 [#tyrant #gullible #smart](01/yep.md)
@@ -31,8 +29,6 @@
 [Apples and Oranges](02/apples-and-oranges.md)
 
 [Big Data](02/big-data.md)
-
-[Bitcoin Declared Lawful Money in California](02/bitcoin-declared-lawful-money-in.md)
 
 [#champ](02/champ.md)
 
@@ -60,11 +56,7 @@
 
 [The Sims](02/the-sims.md)
 
-[Ukraine Protestors Turn to Bitcoin](02/ukraine-protestors-turn-to-bitcoin.md)
-
 [#whatsapp](02/whatsapp.md)
-
-[Why Bitcoin Matters](02/why-bitcoin-matters.md)
 
 [WWI State of Mind](02/wwi-state-of-mind.md)
 

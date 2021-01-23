@@ -352,8 +352,6 @@
 
 [Interregnum](11/interregnum.md)
 
-[Litecoin](11/litecoin.md)
-
 [More Predictioneers](11/more-predictioneers.md)
 
 [#tech](11/tech.md)
