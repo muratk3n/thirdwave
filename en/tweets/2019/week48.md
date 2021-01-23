@@ -597,13 +597,6 @@ nearly an hour"
 
 ---
 
-The picture album keeps growing
-
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
-
-<img width="200" src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_cyber.jpg"/>
-
----
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most artistic protest witness video I’ve ever seen. So real it almost feels choreographed! <a href="https://twitter.com/hashtag/iran?src=hash&amp;ref_src=twsrc%5Etfw">#iran</a> <a href="https://t.co/cTz6rvcqeE">pic.twitter.com/cTz6rvcqeE</a></p>&mdash; Hossein Derakhshan (@h0d3r) <a href="https://twitter.com/h0d3r/status/1197855775311446017?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

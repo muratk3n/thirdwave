@@ -314,12 +314,6 @@ fan” "
 
 ---
 
-Oh yeah.. Smoke it up monkey boy..
-
-<img width="200"  src="https://muratk3n.github.io/thirdwave/en/tweets/2019/musk_smoke.png"/>
-
----
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The other funny thing about <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> bragging about &quot;production&quot; when we KNOW July sales have fallen off a cliff is that it was leaked by Guillen. As Fraud-Boy hates sharing the spotlight, I wonder if his lawyers warned him not to leak anything else &amp; this is his &quot;workaround,&quot; lol.</p>&mdash; Mark B. Spiegel (@markbspiegel) <a href="https://twitter.com/markbspiegel/status/1148924281860120576?ref_src=twsrc%5Etfw">July 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
