@@ -1,3 +1,4 @@
+# Week 48
 
 NYTimes
 
@@ -5,17 +6,48 @@ There are about 10 million prime-age men [25-54] who are not working.
 
 Not bad
 
-According to FRED, there are 51.282 million in this demographic,  working, and according to this, this group has, "39.9% (male 63,452,792/female 63,671,631) [in total 127123]". Then 63.452 - 51.282 = 12.170 million prime age men are unemployed. NYT's number is a lot closer to the one we calculated.
+According to FRED, there are 51.282 million in this demographic,
+working, and according to this, this group has, "39.9% (male
+63,452,792/female 63,671,631) [in total 127123]". Then 63.452 - 51.282
+= 12.170 million prime age men are unemployed. NYT's number is a lot
+closer to the one we calculated.
 
-In comparison FRED's own unemployment number here says  2.572 million. I think gov agencies are purposely playing with the definition of unemployment so that unemployment numbers (hence rates) come out looking lower (that's why we worked backwards from employment numbers not trusting their unemployment numbers). But simple arithmetic reveals what is going on. They do this for overall unemployment numbers BTW. According to this, prime  age unemployed overall is at 4.864 mil, employed are 95.684. When added up, their numbers give 100.548 mil. But this demographic should have 127.123 mil people in it! Where did the rest (27 million) go? Did they all find jobs in Mars?
+In comparison FRED's own unemployment number here says 2.572
+million. I think gov agencies are purposely playing with the
+definition of unemployment so that unemployment numbers (hence rates)
+come out looking lower (that's why we worked backwards from employment
+numbers not trusting their unemployment numbers). But simple
+arithmetic reveals what is going on. They do this for overall
+unemployment numbers BTW. According to this, prime  age unemployed
+overall is at 4.864 mil, employed are 95.684. When added up, their
+numbers give 100.548 mil. But this demographic should have 127.123 mil
+people in it! Where did the rest (27 million) go? Did they all find
+jobs in Mars?
 
-What they are doing is akin to adding up 3 with 1 and coming up with 10. Actually... scratch that. They're not even doing that. What they are saying is "forget about the 10, forget about the 3. Just look at 1. It's such a low number isnt it!?". 
+What they are doing is akin to adding up 3 with 1 and coming up with
+10. Actually... scratch that. They're not even doing that. What they
+are saying is "forget about the 10, forget about the 3. Just look at
+1. It's such a low number isnt it!?".
+
+---
 
 Foreign Policy 
 
-The U.S. government seems outraged that people are leaking classified materials about its less attractive behavior. It certainly acts that way: three years ago, after Chelsea Manning, an army private then known as Bradley Manning, turned over hundreds of thousands of classified cables to the anti-secrecy group WikiLeaks, U.S. authorities imprisoned the soldier under conditions that the UN special rapporteur on torture deemed cruel and inhumane. The Senate’s top Republican, Mitch McConnell, appearing on Meet the Press shortly thereafter, called WikiLeaks’ founder, Julian Assange, “a high-tech terrorist.”
+The U.S. government seems outraged that people are leaking classified
+materials about its less attractive behavior. It certainly acts that
+way: three years ago, after Chelsea Manning, an army private then
+known as Bradley Manning, turned over hundreds of thousands of
+classified cables to the anti-secrecy group WikiLeaks,
+U.S. authorities imprisoned the soldier under conditions that the UN
+special rapporteur on torture deemed cruel and inhumane. The Senate’s
+top Republican, Mitch McConnell, appearing on Meet the Press shortly
+thereafter, called WikiLeaks’ founder, Julian Assange, “a high-tech
+terrorist.”
 
-More recently, following the disclosures about U.S. spying programs by Edward Snowden, a former National Security Agency analyst, U.S. officials spent a great deal of diplomatic capital trying to convince other countries to deny Snowden refuge [..]
+More recently, following the disclosures about U.S. spying programs by
+Edward Snowden, a former National Security Agency analyst,
+U.S. officials spent a great deal of diplomatic capital trying to
+convince other countries to deny Snowden refuge [..]
 
 The deeper threat that leakers such as Manning and Snowden pose is 
 more subtle than a direct assault on U.S. national security: they 
@@ -24,40 +56,66 @@ it.
 
 Slam dunk
 
-
-
-
-
-
-
-
-
-
-
+---
 
 Comment
 
-[Paraphrasing] Arabs messed up big time, Middle-East always in deep shit, they should do some naval gazing.. Etc..etc..
+[Paraphrasing] Arabs messed up big time, Middle-East always in deep
+shit, they should do some naval gazing.. Etc..etc..
 
 Do that, but notice it is an unlucky geography
 
-Starting from the pharaohs, then Rome and until / including Ottomans, these people have been living under adverse conditions, blatant barbarism for very long time. The discovery of oil in the region made things worse - France, Britain then US basically caused a lot of mess in the region. There are many examples of this, I'll give the main ones. 
+Starting from the pharaohs, then Rome and until / including Ottomans,
+these people have been living under adverse conditions, blatant
+barbarism for very long time. The discovery of oil in the region made
+things worse - France, Britain then US basically caused a lot of mess
+in the region. There are many examples of this, I'll give the main
+ones.
 
-Installing minority regimes in Syria, Lebanon, and Iraq: the idea was that the rulers of these countries hailing  from minorities themselves, would always be scared and would depend on "outsiders" (France, Britain) to stay in power. It worked. Scared ruler, pissed-off street. Great dynamic right? The exact preconditions you need for development (not). 
+Installing minority regimes in Syria, Lebanon, and Iraq: the idea was
+that the rulers of these countries hailing from minorities themselves,
+would always be scared and would depend on "outsiders" (France,
+Britain) to stay in power. It worked. Scared ruler, pissed-off
+street. Great dynamic right? The exact preconditions you need for
+development (not).
 
-Until he became the leader of his country, Saddam was a regular thug; he was handpicked by US to become what he became. And he ruled his coutry like a thug. Not much development, but he knew war, so when  mullahs came to power in Iran and executed all senior military officers, Saddam thought "aha here's my chance" bcz their military was gone, right, so aided (probably egged on as well) by US, he  attacked Iran. Mayhem, squared.
+Until he became the leader of his country, Saddam was a regular thug;
+he was handpicked by US to become what he became. And he ruled his
+coutry like a thug. Not much development, but he knew war, so when
+mullahs came to power in Iran and executed all senior military
+officers, Saddam thought "aha here's my chance" bcz their military was
+gone, right, so aided (probably egged on as well) by US, he attacked
+Iran. Mayhem, squared.
 
-CIA toppled the democratically elected leader of Iran (Mosaddeq). Which caused f--king mullahs to come to power in the first place.
+CIA toppled the democratically elected leader of Iran
+(Mosaddeq). Which caused f--king mullahs to come to power in the first
+place.
 
-Kuwait: I am convinced Saddam was fooled by US officials and was told "it's okay to attack this little country" and that US would support Saddam on that. Saddam did invade but was (of course) left out there by himself. His action furthermore  legitimized the counter-attack on his regime  and the US military/industrial complex had a field day. Great passing / pick-and-roll there between the underlings in US gov and the top dogs. The top only sees guy invading, so he can stay above the fray, give great speeches and order the military in, while the underlings, unbeknownst to him, did the dirty work to get the guy invade.
+Kuwait: I am convinced Saddam was fooled by US officials and was told
+"it's okay to attack this little country" and that US would support
+Saddam on that. Saddam did invade but was (of course) left out there
+by himself. His action furthermore legitimized the counter-attack on
+his regime and the US military/industrial complex had a field
+day. Great passing / pick-and-roll there between the underlings in US
+gov and the top dogs. The top only sees guy invading, so he can stay
+above the fray, give great speeches and order the military in, while
+the underlings, unbeknownst to him, did the dirty work to get the guy
+invade.
 
-Then Iraq was invaded by US en masse under false pretenses. At this point it was like, why the hell not? 
+Then Iraq was invaded by US en masse under false pretenses. At this
+point it was like, why the hell not?
 
-Unconditional support of Israel caused mayhem on Egypt and Syria (who were attacked preemptively by Israel). 
+Unconditional support of Israel caused mayhem on Egypt and Syria (who
+were attacked preemptively by Israel).
 
 Enough examples?
 
-Actually it is a miracle the Middle East is not worse off today. Having said that however,  ppl in the region must work twice hard because of all this bullshit, otherwise the conditions they find themselves in will never change.
+Actually it is a miracle the Middle East is not worse off
+today. Having said that however, ppl in the region must work twice
+hard because of all this bullshit, otherwise the conditions they find
+themselves in will never change.
+
+---
 
 Commentators
 
@@ -65,9 +123,18 @@ Middle East is part of Europe
 
 Maybe 
 
-Some are trying to extend European cultural underpinnings to include all of Middle East. I read couple articles to this effect. That's fine as long as the narrative is that ME represents what Europe left behind, which is war, conflict, authoritarinism i.e.  Rome whose continuation is the  "Roman" Catholic Church (I see the new gumbah in there trying to improve things tho which is a good thing for sure).  
+Some are trying to extend European cultural underpinnings to include
+all of Middle East. I read couple articles to this effect. That's fine
+as long as the narrative is that ME represents what Europe left
+behind, which is war, conflict, authoritarinism i.e.  Rome whose
+continuation is the "Roman" Catholic Church (I see the new gumbah in
+there trying to improve things tho which is a good thing for sure). 
 
-If the cultural mishmash goes too far, then things can get weird. I mean, some mixes are just not possible. You can have pizza, you can have chicken tikka masala, but you cant have chicken tikka pizza. 
+If the cultural mishmash goes too far, then things can get weird. I
+mean, some mixes are just not possible. You can have pizza, you can
+have chicken tikka masala, but you cant have chicken tikka pizza.
+
+---
 
 The Jerusalem Post
 
@@ -79,33 +146,47 @@ So they did exactly the opposite of what we said here. Great job.
 
 (Sarcasm comes through right?)
 
+---
+
 News
 
 Taliban attacked a school in Peshawar
 
 They must be scared
 
-Afganistan and Pakistan have been working closer recently, which could have scared Taliban. They are trying to warn Pakistan, it looks like. I hope it backfires.
+Afganistan and Pakistan have been working closer recently, which could
+have scared Taliban. They are trying to warn Pakistan, it looks
+like. I hope it backfires.
 
-Oh, while we are on topic, let's not forget how Russians caused a mess in Afganistan. It was because of the dumb-ass Soviets (Putin's favorite empire in the world) attacking Afganistan this backward-ass donkeyhumper peasant Islam was sponsored, and the mess grew and grew..
+Oh, while we are on topic, let's not forget how Russians caused a mess
+in Afganistan. It was because of the dumb-ass Soviets (Putin's
+favorite empire in the world) attacking Afganistan this backward-ass
+donkeyhumper peasant Islam was sponsored, and the mess grew and grew..
 
 Good job Russian rulers.
 
+---
+
 Investopedia
 
-[T]he law of supply demonstrates the quantities that will be sold at a certain price [..] the supply relationship shows an upward slope. This means that the higher the price, the higher the quantity supplied.  
+[T]he law of supply demonstrates the quantities that will be sold at a
+certain price [..] the supply relationship shows an upward slope. This
+means that the higher the price, the higher the quantity supplied. 
 
 Hmm
 
-The counter-example would be: ppl expect to pay a certain amount for certain things, for example burgers cost btw 1-4, dinner at a restaurant around 10-40, smartphone around 100-400, taking out the effect of inflation, would there be positive correlation for.. say, burger price and quantity produced?
+The counter-example would be: ppl expect to pay a certain amount for
+certain things, for example burgers cost btw 1-4, dinner at a
+restaurant around 10-40, smartphone around 100-400, taking out the
+effect of inflation, would there be positive correlation for.. say,
+burger price and quantity produced?
 
 I checked this with McDonald's burger data. Here is price, here is
 quantity (in millions) and inflation.
 
 http://overhowmanybillionserved.blogspot.de/
 
-
-```
+```python
 import pandas as pd
 df = pd.read_csv('burgersold.csv',sep=' ',header=None,index_col=0,names=['sold'])
 df['price'] = pd.read_csv('burgerprice.csv',sep=' ',header=None,index_col=0)
@@ -115,11 +196,15 @@ df['adjprice'] = df['price'] / (1 + (df['inflation'] / 100.)).cumprod()
 print (df.sold.corr(df.adjprice))
 ```
 
-Boom. The correlation is 0.44, it is "medium" (this number is always between -1 and +1, the former meaning maximum negative correlation, latter meaning max positive correlation). It is positive for sure, but inflation adjusted price for burger is btw 16-23 cents, whereas the quantity produced is over billions, increasing madly over the years.
+Boom. The correlation is 0.44, it is "medium" (this number is always
+between -1 and +1, the former meaning maximum negative correlation,
+latter meaning max positive correlation). It is positive for sure, but
+inflation adjusted price for burger is btw 16-23 cents, whereas the
+quantity produced is over billions, increasing madly over the years.
 
 I also checked oil prices and production.
 
-```
+```python
 import pandas as pd, re
 df = pd.read_csv('oilprice.csv')
 df['year'] = df['date'].map(lambda x: int(re.search(r'(\d+)',x).groups(1)[0]))
@@ -143,19 +228,7 @@ Would the correlation be even higher if oil producers acted according
 to market principles more, and less according to geostrategy, or
 trying to destroy one another, etc?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Movie Quote
 
@@ -163,25 +236,55 @@ Movie Quote
 
 True, but...
 
-The man was found guily for treason, by the courts, so he was facing the firing squad already, Jefferson only told the firing squad to take a hike, and basically did their job. It's a little gangsta, but not too much. He was enforcing the decision of the courts / the law after all.
+The man was found guily for treason, by the courts, so he was facing
+the firing squad already, Jefferson only told the firing squad to take
+a hike, and basically did their job. It's a little gangsta, but not
+too much. He was enforcing the decision of the courts / the law after
+all.
 
-The way the movie Swordfish presents it however,  kinda, sorta made it sound like TJ just called some guy in da house and executing the man on the spot (you getting up on my grill fool?). No.. Nothing like that happened.
+The way the movie Swordfish presents it however, kinda, sorta made it
+sound like TJ just called some guy in da house and executing the man
+on the spot (you getting up on my grill fool?). No.. Nothing like that
+happened.
 
-BTW this movie was probably bankrolled by neo-con "interests". It was all about "doing what's necessary", and generally about "letting go", "letting it rip".
+BTW this movie was probably bankrolled by neo-con "interests". It was
+all about "doing what's necessary", and generally about "letting go",
+"letting it rip".
+
+---
 
 Link
 
-When OPEC announced on Thanksgiving Day that it would maintain oil production at 30 million barrels per day, chaos broke out in the oil market, and the price of oil around the globe spiraled into a terrific plunge. The unity of OPEC, if there ever was such a thing, was in tatters with Saudi oil minister smiling victoriously, and with a steaming Venezuelan oil minister thinking of the turmoil his country is facing [..]
+When OPEC announced on Thanksgiving Day that it would maintain oil
+production at 30 million barrels per day, chaos broke out in the oil
+market, and the price of oil around the globe spiraled into a terrific
+plunge. The unity of OPEC, if there ever was such a thing, was in
+tatters with Saudi oil minister smiling victoriously, and with a
+steaming Venezuelan oil minister thinking of the turmoil his country
+is facing [..]
 
-During the closed-door meetings in Vienna, Saudi oil minister Ali al-Naimi told OPEC members that OPEC had to combat the US fracking boom. If OPEC cut output to raise the price of oil, it would lose market share, he argued. The way to win would be to allow overproduction to depress prices to the point where they would destroy the profitability of North American producers [..]
+During the closed-door meetings in Vienna, Saudi oil minister Ali
+al-Naimi told OPEC members that OPEC had to combat the US fracking
+boom. If OPEC cut output to raise the price of oil, it would lose
+market share, he argued. The way to win would be to allow
+overproduction to depress prices to the point where they would destroy
+the profitability of North American producers [..]
 
-Asked if this was a response to rising US production, OPEC Secretary General Abdullah al-Badri essentially confirmed OPEC had entered the oil war against the American shale revolution: “We answered,” he said. “We keep the same production. There is an answer here.” [..]
+Asked if this was a response to rising US production, OPEC Secretary
+General Abdullah al-Badri essentially confirmed OPEC had entered the
+oil war against the American shale revolution: “We answered,” he
+said. “We keep the same production. There is an answer here.” [..]
 
 Interesting
 
-Personally I'd like to see frackers take a plunge, along with Putin's petro-mafia. Overall tho the latest fall did not change the overall pattern in oil prices. We are talking about a diminishing resource, and overall price trend is up. Even frackers getting ..  fracked, is part of Hubbard's model. I plotted a moving average of monthly oil prices starting from May 1985, 
+Personally I'd like to see frackers take a plunge, along with Putin's
+petro-mafia. Overall tho the latest fall did not change the overall
+pattern in oil prices. We are talking about a diminishing resource,
+and overall price trend is up. Even frackers getting ..  fracked, is
+part of Hubbard's model. I plotted a moving average of monthly oil
+prices starting from May 1985,
 
-```
+```python
 import pandas as pd
 df = pd.read_csv('oilprice.csv', header=None, index_col=0)
 pd.rolling_mean(df[1],100).plot()
@@ -193,7 +296,7 @@ That simple duuuude! The output
 
 Whassup. 
 
-The data
+---
 
 Ian Hay
 

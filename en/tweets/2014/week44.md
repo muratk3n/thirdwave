@@ -1,18 +1,40 @@
+# Week 44
 
 Assad should go
 
-What do you mean by "go"? 
+What do you mean by "go"?
 
-"Go" as in leave the country and never come back go, or as in, "he wont be the leader of all of Syria, but (most likely)  the leader of Alawis, his minority sect, but still  in Syria as part of a power sharing agreement" go? The latter is more reasonable and realistic IMO.. Is there a need to destroy this guy? The people who want a caliphate who like and want to be like the Ottoman empire need "attention" first. We mean ISIS of course.  
+"Go" as in leave the country and never come back go, or as in, "he
+wont be the leader of all of Syria, but (most likely) the leader of
+Alawis, his minority sect, but still in Syria as part of a power
+sharing agreement" go? The latter is more reasonable and realistic
+IMO.. Is there a need to destroy this guy? The people who want a
+caliphate who like and want to be like the Ottoman empire need
+"attention" first. We mean ISIS of course.
+
+---
 
 Twitter User
 
-Research shows (at work) sparring over tasks, ideas frequently spills over into 
-personal grudges  [..]
+Research shows (at work) sparring over tasks, ideas frequently spills
+over into personal grudges  [..]
 
 Possible
 
-As species we are still new at this stuff, that is, collaborating over ideas, knowledge, data at such a big scale -in terms of participation- is unprecented in human history. Biologically we are still hunter-gatherers at heart. Yes our minds are pretty good at complexity but also, the speed at which the information is bombarded on us is at its highest in history, it is immense. This and similar issues around information overload are the primary topic of Future Shock. Some countries have more experience on this than others. US got there first. They  developed a predominantly white-collar work force for the first time - hence its work language, culture has probably most diverse tools (for now) in dealing with this stuff. The rest of the world is catching up tho.
+As species we are still new at this stuff, that is, collaborating over
+ideas, knowledge, data at such a big scale -in terms of participation-
+is unprecented in human history. Biologically we are still
+hunter-gatherers at heart. Yes our minds are pretty good at complexity
+but also, the speed at which the information is bombarded on us is at
+its highest in history, it is immense. This and similar issues around
+information overload are the primary topic of Future Shock. Some
+countries have more experience on this than others. US got there
+first. They developed a predominantly white-collar work force for the
+first time - hence its work language, culture has probably most
+diverse tools (for now) in dealing with this stuff. The rest of the
+world is catching up tho.
+
+---
 
 Question
 
@@ -20,9 +42,27 @@ Why dont you call ISIS IS, or ISIL, or [blah]
 
 Who cares?
 
-We picked the common name used at the time, and went with it. The alternative names and the confusion has to do mainly with US government trying to hide the fact that they f**ked up detecting rise of ISIS, and some in gov think by using a name that many people did not commonly use, they would come across "more knowledgeable" on the subject which, of course, they werent.
+We picked the common name used at the time, and went with it. The
+alternative names and the confusion has to do mainly with US
+government trying to hide the fact that they f**ked up detecting rise
+of ISIS, and some in gov think by using a name that many people did
+not commonly use, they would come across "more knowledgeable" on the
+subject which, of course, they werent.
 
-There is something broken about US intelligence, advising apparatus that should be able to see such events coming, within reason. The NSA shitstorm showed the preference appears to be in some other direction; but piling up data on more and more people does not make the system smarter. What did Gore say: "When you are looking for a needle in a haystack, it’s not always wise to pile more hay on the haystack" (when is this guy becoming the president btw?). Even some simple stuff .. like, when Israeli government came against Hamas-PLO aggreement for united governance, which was insanely irrational, u could sense something bad was coming. Alarm bells went off in my head, and .. we are writing this dinky little blog here. How can ppl whose job is to monitor this stuff miss this?
+There is something broken about US intelligence, advising apparatus
+that should be able to see such events coming, within reason. The NSA
+shitstorm showed the preference appears to be in some other direction;
+but piling up data on more and more people does not make the system
+smarter. What did Gore say: "When you are looking for a needle in a
+haystack, it’s not always wise to pile more hay on the haystack" (when
+is this guy becoming the president btw?). Even some simple stuff
+.. like, when Israeli government came against Hamas-PLO aggreement for
+united governance, which was insanely irrational, u could sense
+something bad was coming. Alarm bells went off in my head, and .. we
+are writing this dinky little blog here. How can ppl whose job is to
+monitor this stuff miss this?
+
+---
 
 News
 
@@ -30,24 +70,18 @@ US unemployment rate is at 5.8
 
 Incorrect
 
-Out of a population of 316 million, and the working age ppl between 25-54  being 95.607 million, and since roughly 40% are under this demographic then 95607 / (316000 * 0.40) * 100 = 75% are employed, meaning 25% is unemployed. 1 out of 4 people who can work is out of work.
+Out of a population of 316 million, and the working age ppl between
+25-54  being 95.607 million, and since roughly 40% are under this
+demographic then 95607 / (316000 * 0.40) * 100 = 75% are employed,
+meaning 25% is unemployed. 1 out of 4 people who can work is out of
+work.
 
-If there are 10 apples and 10 oranges on a table and I pick one orange and say "I have 1/20th of oranges in my hand" it would be incorrect. This is literally mixing apples and oranges. Correcter thing to say is "I have 1/10th of oranges in my hand".
+If there are 10 apples and 10 oranges on a table and I pick one orange
+and say "I have 1/20th of oranges in my hand" it would be
+incorrect. This is literally mixing apples and oranges. Correcter
+thing to say is "I have 1/10th of oranges in my hand".
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Question
 
@@ -84,31 +118,7 @@ a practitioner in AI.
 Note: all of the people above we respect, and agree with on many
 issues btw.
 
-
-
-
-
-
-
-
-at
-
-November 07, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Mises.org
 
@@ -162,19 +172,7 @@ According to Rapaille cultural imprints are below intellect but are
 stronger then rational thought. For policy making this order needs to
 be switched, in US as well as in other places.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 Because of singularity [..] AI gone wild [..] the world will witness a
@@ -211,21 +209,7 @@ time to interject, design whatever this AI can do.. Isaac Asimov did
 nothing else but try to outline the parameters for this future, with
 his robot laws etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Question
 
@@ -249,11 +233,15 @@ speech here one there, few think-tanks, couple "conservative" thinkers
 repeating this non-sense; soon theirs will be the only voice you'll
 hear. Stranger things have happened.
 
+---
+
 Question
 
 What is your favorite song?
 
 My Biznitch Is The Shiznit
+
+---
 
 Question
 
@@ -261,7 +249,11 @@ Seriously?
 
 No
 
-Seriously; It is Burn, by Deep Purple.  
+---
+
+Seriously; It is Burn, by Deep Purple.
+
+---
 
 Question
 
@@ -278,6 +270,8 @@ face. There is a lot of expression there, it is truly art.
 Note: Wikipedia: According to Michelle Alexander, the United States
 "imprisons a larger percentage of its black population than South
 Africa did at the height of apartheid".
+
+---
 
 
 
