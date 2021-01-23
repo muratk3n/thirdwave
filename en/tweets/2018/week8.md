@@ -1,3 +1,4 @@
+# Week 8
 
 Question
 
@@ -13,25 +14,57 @@ Deflation right there. mmmmm hhmmmm - snap.
 
 ![](inf_01.png)
 
+---
+
 Why is the anti-immigrant German party AFD named that way?
 
 Because of Merkel Probably
 
-The flippant answer would be "well, because the name nationalsozialistisch was taken" (for golf, it is "because shit was taken"). But seriously, I think the reason is Merkel keeps using the word "alternativlos" when describing why she chose a certain approach, meaning "alternative-less", which ties in with TINA talked about earlier. That kind of answer truly drives people up the wall, some anyway, so naming this party as alternative for germany (alternative fur deutschland) was probably an F-- you towards the Chancellor.
+The flippant answer would be "well, because the name
+nationalsozialistisch was taken" (for golf, it is "because shit was
+taken"). But seriously, I think the reason is Merkel keeps using the
+word "alternativlos" when describing why she chose a certain approach,
+meaning "alternative-less", which ties in with TINA talked about
+earlier. That kind of answer truly drives people up the wall, some
+anyway, so naming this party as alternative for germany (alternative
+fur deutschland) was probably an F-- you towards the Chancellor.
 
-This is another side effect to TINA governments - US take heed - when you say this is the alternativeless center for any set of solutions and there can be no other, well, then the next question is what's the need for other parties? It can push people to radicalize on even secondary issues - such as in US over environmental and gun control. The TINA politics might jell with the top 20%, the white-collar professionals, but it is not always optimal from all angles, and it certainly is not without alternative. TINA ppl can also be severely beaten at elections if someone crafts an opposition, sometimes being thumb-in-your-eye obnoxiously opposite of these people are. Then there is bunch of drama. See US.
+This is another side effect to TINA governments - US take heed - when
+you say this is the alternativeless center for any set of solutions
+and there can be no other, well, then the next question is what's the
+need for other parties? It can push people to radicalize on even
+secondary issues - such as in US over environmental and gun
+control. The TINA politics might jell with the top 20%, the
+white-collar professionals, but it is not always optimal from all
+angles, and it certainly is not without alternative. TINA ppl can also
+be severely beaten at elections if someone crafts an opposition,
+sometimes being thumb-in-your-eye obnoxiously opposite of these people
+are. Then there is bunch of drama. See US.
+
+---
 
 NPR
 
-Nixon, a Republican, who created the EPA in 1970. In the following years, he also signed off on the Clean Water Act and the Clean Air Act with broad bipartisan support, cementing a legacy as one of America's greenest presidents. [..]
+Nixon, a Republican, who created the EPA in 1970. In the following
+years, he also signed off on the Clean Water Act and the Clean Air Act
+with broad bipartisan support, cementing a legacy as one of America's
+greenest presidents. [..]
 
-Public pressure was immense. The environment was one of the top issues people voted on and politicians felt it. The Clean Air Act was passed in the Senate by a vote of 73-0. Not a single lawmaker — Republican or Democrat — voted against it.
+Public pressure was immense. The environment was one of the top issues
+people voted on and politicians felt it. The Clean Air Act was passed
+in the Senate by a vote of 73-0. Not a single lawmaker — Republican or
+Democrat — voted against it.
 
-In those days, Ruckelshaus says, people viewed the environment and public health as one and the same.
+In those days, Ruckelshaus says, people viewed the environment and
+public health as one and the same.
 
 Gone Are Those Days
 
-Here is an issue first spearheaded by a Republican, but it was "weaponized" by the corporate Democrats, and now it belongs to one column never to be seen or heard from again.
+Here is an issue first spearheaded by a Republican, but it was
+"weaponized" by the corporate Democrats, and now it belongs to one
+column never to be seen or heard from again.
+
+---
 
 Question
 
@@ -63,3 +96,4 @@ will first go to paying off debt.
 K. has additional models for Ponzi financing, and inflation. This
 paper has a good overview.
 
+---

@@ -1,3 +1,4 @@
+# Week 24
 
 Prior 2008 how did speculative bank credit creation went unnoticed?
 
@@ -47,6 +48,8 @@ Money If You Give It To Me Co shows up at the bank and asks for
 credit. The financial system found myriad of ways to print itself into
 crisis.
 
+---
+
 Question
 
 Why was shadow banking not regulated properly?
@@ -62,6 +65,8 @@ of the functional reforms that came in the form of banking regulations
 was called the Glass-Steagall Act, and it clearly outlined the
 objective of the banks".
 
+---
+
 Question 
 
 What caused the Great Depression?
@@ -69,6 +74,8 @@ What caused the Great Depression?
 See above
 
 Summary: speculative credit creation.
+
+---
 
 Question
 
@@ -92,29 +99,17 @@ Irish property bubble until 2007: speculative credit creation
 
 Spanish property bubble until 2007: speculative credit creation
 
-Source: Link
+---
 
 Wikipedia
 
-Over time the amount of media merging has increased and the number of media outlets has increased. As a result, fewer companies now own more media outlets, increasing the concentration of ownership. In 1983, 90% of US media was controlled by 50 companies; as of 2011, 90% was controlled by just 6 companies and in 2017 the number was 5
+Over time the amount of media merging has increased and the number of
+media outlets has increased. As a result, fewer companies now own more
+media outlets, increasing the concentration of ownership. In 1983, 90%
+of US media was controlled by 50 companies; as of 2011, 90% was
+controlled by just 6 companies and in 2017 the number was 5
 
-Also..  
-
-Before we poke fun of this video, let's not forget the root cause of
-it.
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Question
 
@@ -135,8 +130,6 @@ balancing item is very small, near zero. I guess we can all see the
 persistent negative value in the current account, a persistent trade
 deficit, all the way until 2010's when crisis hit.
 
-
-
 So the negatives, as in current account, needs to be balanced, that
 can be through FDI, or bond purchases, stock market inflows, balancing
 the demand on the local currency. Japanese person imports coconut oil,
@@ -146,6 +139,8 @@ market. But that can introduce build-up of skittish money, when things
 go sour, this money can choose to leave in a hurry, selling the local
 currency. In Greece's case money in/out flows were mostly on Euro, but
 other countries can feel wild gyrations in their currency values. 
+
+---
 
 Question
 
@@ -171,6 +166,8 @@ says I have to liberate these funkers), Bam as we all saw effed it all
 up in Libya, so they became interventionist, but at first campaigned
 on non-interventionism. 
 
+---
+
 George Friedman
 
 How does Germany exporting 50% of its GDP survive? 10% loss in exports
@@ -183,6 +180,8 @@ So over-reliance on exports is not good either.
 BTW, Warren Buffett apparently had an
 [idea](http://www.levyinstitute.org/pubs/wp_538.pdf) / mechanism to
 reduce trade deficits.
+
+---
 
 Book (The Great Rebalancing)
 
@@ -201,6 +200,8 @@ be unrest, the need to quell the unrest, the authority caused bunch of
 mayhem and a poor carpenter dies .. Maybe that's the material
 religions are made of.
 
+---
+
 Comment
 
 There has been a disconnect between productivity and typical worker's
@@ -209,6 +210,8 @@ compensation since 70s
 Interesting
 
 I did not double check this graph. But it is likely that it is true.
+
+---
 
 Question
 
@@ -244,6 +247,8 @@ assigned certain amount of responsibility on the station which has a
 public role when it comes to certain acts.. I thought it was a good
 call.
 
+---
+
 Who came up with the Canadian single-payer healthcare? It was surely
 the current prime minister's father Trudeau?
 
@@ -256,6 +261,8 @@ remembered that tidbit when the son Trudeau disappointed
 environmentalists lately by supporting fossil fuel production. Maybe
 we should bar ppl who are "too presentable" from running for office?
 
+---
+
 Question
 
 I don't want to work with Excel files, can you give me markdown and
@@ -264,6 +271,8 @@ csv files for Greece current account?
 Sure
 
 [Code](eu_greece.md), [Data](greece_acct.csv)
+
+---
 
 [Vox](https://www.vox.com/policy-and-politics/2017/12/21/16803302/drug-overdose-deaths-2016-worst)
 
@@ -285,13 +294,5 @@ Wait
 So are they saying big pharma is complicit in creating this crisis?
 They killed more ppl annually than the Vietnam War? Dude!
 
-
-
-
-
-
-
-
-
-
+---
 

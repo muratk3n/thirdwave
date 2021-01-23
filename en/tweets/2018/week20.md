@@ -1,3 +1,4 @@
+# Week 20
 
 What is sales all about? How do you become better at it?
 
@@ -24,21 +25,37 @@ they need to know they will be better off from their current
 situation. How better? That's the contrast. This pen (I am selling) is
 much better than your old pen - so buy!
 
+---
+
 NYT
 
 Milwaukee minorities didn’t vote Hillary & don’t regret it
 
 It's Obama's Fault
 
-Exactly as Time for Change model predicted; the incumbent President's popularity directly effects the party's winning probability (duh). And here is a great Obama impression.
+Exactly as Time for Change model predicted; the incumbent President's
+popularity directly effects the party's winning probability (duh). And
+here is a great Obama impression.
+
+---
 
 Question
 
-But... what if someone ideologically different was nominated from the (unpopular) President's party?
+But... what if someone ideologically different was nominated from the
+(unpopular) President's party?
 
 That kind of nomination almost never happens
 
-That's probably what the TfC model catches too, and why it works. The nominee, if it is a different person than the Prez himself, is the ideological continuation of the incumbent (that creates the signal in the data that the model catches) which makes sense. Actually in Bam's case the effect is in the other direction in a way, he was a Clinton disciple, but same difference (the fact that he beat Hillary for 2008 nomination created the illusion that Bam was somehow independent from the Clinton era, but this is false).
+That's probably what the TfC model catches too, and why it works. The
+nominee, if it is a different person than the Prez himself, is the
+ideological continuation of the incumbent (that creates the signal in
+the data that the model catches) which makes sense. Actually in Bam's
+case the effect is in the other direction in a way, he was a Clinton
+disciple, but same difference (the fact that he beat Hillary for 2008
+nomination created the illusion that Bam was somehow independent from
+the Clinton era, but this is false).
+
+---
 
 Question
 
@@ -46,13 +63,41 @@ But Democrats are different.. they are for all kinds of good stuff..
 
 Really?
 
-Most of the true changes, they don't talk about. Some of the stuff they do talk about, they have no legitimacy on, like gerrymandering / redistricting. Like, Obama redistricted.. yeahh... brother drew them lines too... Mmmmm Hmmmm ... yes he diid. From New Yorker:
+Most of the true changes, they don't talk about. Some of the stuff
+they do talk about, they have no legitimacy on, like gerrymandering /
+redistricting. Like, Obama redistricted.. yeahh... brother drew them
+lines too... Mmmmm Hmmmm ... yes he diid. From New Yorker:
 
-Like every other Democratic legislator who entered the inner sanctum, Obama began working on his “ideal map.” Corrigan remembers two things about the district that he and Obama drew. First, it retained Obama’s Hyde Park base—he had managed to beat Rush in Hyde Park—then swooped upward along the lakefront and toward downtown. By the end of the final redistricting process, his new district bore little resemblance to his old one. Rather than jutting far to the west, like a long thin dagger, into a swath of poor black neighborhoods of bungalow homes, Obama’s map now shot north, encompassing about half of the Loop, whose southern portion was beginning to be transformed by developers like Tony Rezko, and stretched far up Michigan Avenue and into the Gold Coast, covering much of the city’s economic heart, its main retail thoroughfares, and its finest museums, parks, skyscrapers, and lakefront apartment buildings. African-Americans still were a majority, and the map contained some of the poorest sections of Chicago, but Obama’s new district was wealthier, whiter, more Jewish, less blue-collar, and better educated. It also included one of the highest concentrations of Republicans in Chicago. 
+Like every other Democratic legislator who entered the inner sanctum,
+Obama began working on his “ideal map.” Corrigan remembers two things
+about the district that he and Obama drew. First, it retained Obama’s
+Hyde Park base—he had managed to beat Rush in Hyde Park—then swooped
+upward along the lakefront and toward downtown. By the end of the
+final redistricting process, his new district bore little resemblance
+to his old one. Rather than jutting far to the west, like a long thin
+dagger, into a swath of poor black neighborhoods of bungalow homes,
+Obama’s map now shot north, encompassing about half of the Loop, whose
+southern portion was beginning to be transformed by developers like
+Tony Rezko, and stretched far up Michigan Avenue and into the Gold
+Coast, covering much of the city’s economic heart, its main retail
+thoroughfares, and its finest museums, parks, skyscrapers, and
+lakefront apartment buildings. African-Americans still were a
+majority, and the map contained some of the poorest sections of
+Chicago, but Obama’s new district was wealthier, whiter, more Jewish,
+less blue-collar, and better educated. It also included one of the
+highest concentrations of Republicans in Chicago. 
 
-“It was a radical change,” Corrigan said. The new district was a natural fit for the candidate that Obama was in the process of becoming. “He saw that when we were doing fund-raisers in the Rush campaign his appeal to, quite frankly, young white professionals was dramatic.”
+“It was a radical change,” Corrigan said. The new district was a
+natural fit for the candidate that Obama was in the process of
+becoming. “He saw that when we were doing fund-raisers in the Rush
+campaign his appeal to, quite frankly, young white professionals was
+dramatic.”
 
-Notice the "professionals" aspect. This is the top 20% who don't have a clue about what's going on in the rest of the country, shunned by Trump, heavily courted by the Dems.
+Notice the "professionals" aspect. This is the top 20% who don't have
+a clue about what's going on in the rest of the country, shunned by
+Trump, heavily courted by the Dems.
+
+---
 
 Question
 
@@ -69,18 +114,7 @@ https://twitter.com/DennisDMZ/status/990505203043463168
 
 https://youtu.be/ZfYGELMm97o?t=373
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Comment
 
@@ -88,11 +122,31 @@ United States never defaulted on its debt obligations
 
 Wrong
 
-From New Paradigm in Macroeconomics: "Excess credit creation in the US would also be reflected in increased foreign investment. [I]n the 1960s the US dollar was effectively the world’s currency, and thus additional creation of dollars could be expected to be diffused around the world, without any adjustment in exchange rates – until the world rebels [US was basically printing excessive dollars and "buying up Europe", the French caught on]. When France decided to convert US dollars into gold at the official fixed price, as the Bretton Woods system formally provided for [calling US's bluff], the US had to make the decision whether to make good on its promise to redeem the excessively created dollars into gold, or whether it should break its promise – and with it bring down the Bretton Woods System of fixed exchange rates. France proceeded to demand conversion of dollars into gold, in an episode later called the ‘French raid on Fort Knox’. The US leadership decided to break its promise. It ‘closed the gold window’".
+From New Paradigm in Macroeconomics: "Excess credit creation in the US
+would also be reflected in increased foreign investment. [I]n the
+1960s the US dollar was effectively the world’s currency, and thus
+additional creation of dollars could be expected to be diffused around
+the world, without any adjustment in exchange rates – until the world
+rebels [US was basically printing excessive dollars and "buying up
+Europe", the French caught on]. When France decided to convert US
+dollars into gold at the official fixed price, as the Bretton Woods
+system formally provided for [calling US's bluff], the US had to make
+the decision whether to make good on its promise to redeem the
+excessively created dollars into gold, or whether it should break its
+promise – and with it bring down the Bretton Woods System of fixed
+exchange rates. France proceeded to demand conversion of dollars into
+gold, in an episode later called the ‘French raid on Fort Knox’. The
+US leadership decided to break its promise. It ‘closed the gold
+window’".
 
-That is a default on debt. Money in this old system is an IOU for gold, French wanted their gold for their IOU but did not get it.
+That is a default on debt. Money in this old system is an IOU for
+gold, French wanted their gold for their IOU but did not get it.
 
-You could argue of course then US switched to petrodollar system and those dollars become even more valueable but still.. A default is a default.
+You could argue of course then US switched to petrodollar system and
+those dollars become even more valueable but still.. A default is a
+default.
+
+---
 
 Question
 
@@ -107,9 +161,12 @@ he could based on Twitter surveys),  women are 55%/45% Yanni,
 men 60%/40% Laurel. Using actual counts, and Fisher's exact test
 
 
-``` fm = np.array([[65.0,80.0],[142.0,96.0]]) uo35 =
-np.array([[60.0,56.0],[21.0,22.0]]) import scipy.stats as stats print
-(stats.fisher_exact(fm)) print (stats.fisher_exact(uo35))
+```python
+fm = np.array([[65.0,80.0],[142.0,96.0]])
+uo35 = np.array([[60.0,56.0],[21.0,22.0]])
+import scipy.stats as stats
+print (stats.fisher_exact(fm))
+print (stats.fisher_exact(uo35))
 
 (0.54929577464788737, 0.0059272092668501948)
 (1.1224489795918366, 0.85850083655070586)
@@ -117,38 +174,18 @@ np.array([[60.0,56.0],[21.0,22.0]]) import scipy.stats as stats print
 
 So the differences are significant for gender, but not for age.
 
+---
+
 Question
 
 I hear about Web 3.0 all the time
 
 Yes
 
-That thing can hit like a freight train, all of a sudden and without warning. Watch out.
+That thing can hit like a freight train, all of a sudden and without
+warning. Watch out.
 
-
-
-
-
-
-
-at
-
-May 21, 2018
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 News
 
@@ -156,9 +193,13 @@ News
 
 Good one
 
-I think what the post means to say is Palestinian died because a sniper shot him in the head. The sanitized wording above is like saying "Jews died from lung complications during the Holocaust".
+I think what the post means to say is Palestinian died because a
+sniper shot him in the head. The sanitized wording above is like
+saying "Jews died from lung complications during the Holocaust".
 
 Please.
+
+---
 
 Question
 
@@ -172,6 +213,8 @@ https://youtu.be/1EQXvwUu4PE?t=2
 
 https://www.youtube.com/watch?v=DbL-Y_JHDkU
 
+---
+
 Question
 
 Was Martin Luther King killed because he pointed out racial
@@ -183,59 +226,7 @@ He was most likely assassinated because he pointed out social
 injustices. Both him and R. F. Kennedy were talking against social,
 economic justice and the Vietnam War. Both were killed. 
 
-
-
-
-
-
-
-
-
-
-
-
-We download two time series, one for short-term rates, the other
-growth, then there is a test (Granger causality test) that can tell if
-one depends on the other. The result is clear, interest rate rise or
-fall follows economic growth or decline. Rates do not cause
-anything. This paper also checked long-term rates against growth,
-again no cigar. Also, the correlation (of causation) is positive not
-negative, so rising rates follow rising econ and vica versa.
-
-Question
-
-But economists talk about rate changes all the time
-
-They are blowing smoke up your ass
-
-Or they are plain misinformed. Greenspan is of the former category -
-this guy is the master illusionist. From Princes of the Yen: "No one
-disputes the power of the Fed to move markets and the economy. Yet
-this power is used without many actual democratic checks and
-balances. [..] Nobody monitors and imposes limits on the amount of
-credit the Fed is creating. Thus Greenspan, through his interest rate
-policies, has publicly given the impression that he wanted to slow the
-economy most of the time from the mid-1990s onward, such as with his
-famous 1996 speech on "irrational exuberance." The fact is, however,
-that he has continued to increase the credit creation of the Fed
-during this time. [.. T]he Bank of Japan in the 1990s [..] publicly
-wanted to demonstrate that it was doing all it could to reflate the
-economy by lowering interest rates, the truth of its policy intentions
-was revealed by its quantitative policy: It failed to reflate for most
-of the 1990s [because it decreased credit]. Likewise, Greenspan has
-expressed surprise at the strength of the U.S. economy. But whenever
-he raised rates, he accelerated his printing of money. The Fed has
-moved the economy through its quantity policies while focusing its
-public statements strictly on interest rates in the same way as Japan"
-
-Japanese central bank used the interest rate illusion for decades to
-hide its intent on forcing "structural changes".  ECB used a variation
-of this game to create artificial crisis' in EU periphery in order to
-force "more union" later.
-
-It seems there is a sock puppet show for politicians, who are mostly
-unknowing buffoons, even some "insiders", and another one, the real
-one, based on credit guidance. The real show guides the economy.
+---
 
 Comment
 
@@ -258,13 +249,7 @@ Daaaaam
 
 Oh no you didn't
 
-
-
-
-
-
-
-
+---
 
 Question
 
@@ -278,6 +263,8 @@ credit so that GDP potential can be actualized. Any less you get
 deflation, any more you get inflation. Aiming for 2% and seeing it
 happen is actually great, bcz then policymakers know the credit is
 just right, inflation is also spurring people to spend.
+
+---
 
 Question
 
@@ -294,14 +281,5 @@ about Been Fuckin?". It was a big joke. He did the whole accent and
 everything, well by this time even I could do it... So the mood was
 fine.
 
-
-
-
-
-
-
-
-
-
-
+---
 
