@@ -1,6 +1,6 @@
 # Is Earth F**ked?
 
-[Link](https://www.newstatesman.com/2013/10/science-says-revolt)
+[Link](https://theconversation.com/creative-self-destruction-and-the-climate-48303)
 
 In December 2012, a pink-haired complex systems researcher named Brad
 Werner made his way through the throng of 24,000 earth and space
@@ -21,7 +21,23 @@ incomprehensible to those of us uninitiated in complex systems theory
 f**ked” question, Werner set the jargon aside and replied, “More or
 less.”
 
+The essential problem, Werner argued, is that there is a mismatch
+between the short time-scales of markets, and the political systems
+tied to them, and the much longer time-scales that the Earth system
+needs to accommodate human activity, including soaking up our carbon
+dioxide and other wastes.
+
+Technological progress and globalization of finance, transport and
+communications have oiled the wheels of the human components of the
+planetary system allowing it to speed up. But the pace of the natural
+system carries on as it always has. The problem is not Stern’s market
+failure but market success.
+
+Brad Werner’s conclusion is that the Earth is indeed f**ked, unless
+somehow the market system can be prevented from working so well. What
+we urgently need is friction; sand must be thrown into the machine to
+slow it down. Only resistance to the dominant culture will give some
+hope of avoiding collapse.
 
 [Video](https://youtu.be/BpwkP6uDikM?t=1489)
-
 
