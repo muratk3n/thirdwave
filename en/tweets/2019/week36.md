@@ -42,10 +42,6 @@ theguardian.com"
 
 ---
 
-[Modi](https://muratk3n.github.io/thirdwave/en/2017/11/q-1211.html#modi)
-
----
-
 Manoloco - Labels \#music
 
 [Link](https://youtu.be/yNKNnmFVcck)
