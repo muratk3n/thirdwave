@@ -1,3 +1,4 @@
+# Week 16
 
 Comment
 
@@ -32,6 +33,8 @@ Boom.
 Given something appears organized, a creator is more likely. Q.E.D. my
 brotha.. Whazzup!
 
+---
+
 Question
 
 What does that say about intelligent design?
@@ -48,6 +51,8 @@ And, looking at the poor form we have right now as humans, it is
 pretty unlikely that we are designed as we are now. The final form of
 the design is pretty stupid and still a work in progress. Evolution is
 real.
+
+---
 
 Question
 
@@ -70,6 +75,8 @@ commendable. We've only shown the probability is higher for one case
 than not, noone can show existence of God anything with probability 1
 (100% confidence).
 
+---
+
 Question
 
 But didn't Kant show, logically, both presence and non-presence of God
@@ -79,6 +86,8 @@ Forget the luminaries
 
 These "luminaries" did not know math the way we do now. We are in
 better shape than they are.
+
+---
 
 Question
 
@@ -129,6 +138,8 @@ Organized farming started around Hilly Flanks (today's Syria and
 Iraq), followed closely by China. The backwardness of culture in these
 places is due to farming, not religion.
 
+---
+
 Question
 
 What happened to Jesus?
@@ -164,6 +175,8 @@ swooped right in, providing the official interface to this deity,
 which could be outsourced to the proper Roman ceasar if he paid the
 right price. Fascinating eh?
 
+---
+
 Question
 
 But your blog is about the 3rd Wave.. What wave is this about?
@@ -178,6 +191,8 @@ around 1st wave (farming) and what came before it, I guess "zeroth
 wave", so here I am talking about farmers and foragers. I am quite
 shocked by this development.
 
+---
+
 Question
 
 But dealing with inequality etc sounds like the bailiwick of the left.
@@ -191,6 +206,8 @@ realize religion is politics of the ancient times. The moment you say
 you are engaged in politics. The fact that message was carried by the
 left in the West, Moses / Jesus / Mohammed in the East really makes no
 difference.
+
+---
 
 Question
 
@@ -218,6 +235,8 @@ Note: There is nothing "mystical" about the pyramids, use people as
 slaves for 30 years, you can build a pyramid. These days we build
 skyscrapers in a few years which are far better.
 
+---
+
 Question
 
 You said neurotic, but don't they call Jews in US that?
@@ -231,6 +250,8 @@ the first areas of organized farming, and mafia), so the term should
 stick on them. In the Italian case it is more extroverted, but it is
 still neurotic. Robert de Nero has been playing such a "neurotic
 Italian" his entire life on the big screen.
+
+---
 
 Question
 
@@ -252,6 +273,8 @@ racial thing there was the white majority farmers preferred blacks
 because they would stand out (so could not run away) in a white
 society, plus Africa was on one of the trade routes for US.
 
+---
+
 Question
 
 How similar are Romans, Byzantium, Ottomans.
@@ -261,6 +284,7 @@ One and the same
 In fact some historians label them (rightfully) as Rome 1, Rome 2 and
 Rome 3.
 
+---
 
 Question
 
@@ -295,6 +319,8 @@ intense pressure to give goods away, which some anthropologists call
 I guess with the rise of the non-ownership, sharing economy fueled by
 new tech, this part of forager culture is coming back too.
 
+---
+
 Question
 
 But who defines what the primary ideological divisions are?
@@ -316,6 +342,8 @@ which is used conciously or subconciously to "defend their land". It
 is a favorite by rednecks in the south - this is no coincidence. The
 fact that they're used for "assault" as of late is the biggest irony
 here.
+
+---
 
 Morris, WTWRFN
 
@@ -341,6 +369,8 @@ shit because they have too much history. Why do you want more of that?
 (in terms of science more knowledge is good of course, but the length
 of history is nothing to get excited about).
 
+---
+
 Question
 
 Is feminism a good thing?
@@ -359,9 +389,9 @@ married off to an important man). Some women try to adapt such airs
 when they think they are being "empowered". I see parallels sometimes
 in West. Beware.
 
---
+---
 
-[1] I don't understand why people do not start with "any sufficiently
+I don't understand why people do not start with "any sufficiently
 advanced (spacefaring) civilization must have developed ways of
 organization, collaboration that would preclude them from being
 opressors" - a variation of opposable thumbs hypothesis, but for
@@ -371,76 +401,86 @@ being "loaded for bear", sure, but it seems the two sides of the
 "alien question" are not getting equal coverage. Military / industrial
 / media complex at work here perhaps?
 
-[2] See [link](../../2017/10/goat-lovers.md)
-
-
+---
 
 Question
 
-Here, u talk about prez elections, predictions. But this model is too simple!
+Here, u talk about prez elections, predictions. But this model is too
+simple!
 
 Yes
 
-The model is simple, but it is, in fact, deceptively simple. Let's see what the modeler did not include in his model: he did not include crime rates, the wheather, population increase, the price of oil or whether or not the presidential candidate loves his mama. What he did include however are these three variables, and these variables alone (we hear Abramovitz is also toying with another variable - polarization, which measures how much the electorate is divided along party lines, etc., but this is still one variables out of bazillion he could have included). He also did not have a seperate prediction for Reps another one or Dems, he only had one - a prediction for the incumbent party. By choosing the variables the way he did, he included his intuition about what really matters in an election in his model; up and down vote on the party in power. And the results are bang on.
+The model is simple, but it is, in fact, deceptively simple. Let's see
+what the modeler did not include in his model: he did not include
+crime rates, the wheather, population increase, the price of oil or
+whether or not the presidential candidate loves his mama. What he did
+include however are these three variables, and these variables alone
+(we hear Abramovitz is also toying with another variable -
+polarization, which measures how much the electorate is divided along
+party lines, etc., but this is still one variables out of bazillion he
+could have included). He also did not have a seperate prediction for
+Reps another one or Dems, he only had one - a prediction for the
+incumbent party. By choosing the variables the way he did, he included
+his intuition about what really matters in an election in his model;
+up and down vote on the party in power. And the results are bang on.
 
 Simple doesn't mean something is shoddy. Simple can be very effective.
 
 And simple ain't easy. "Writing shorter takes longer" said the wise man, right?
 
-
-
-
-
-
-
-
-
-at
-
-April 23, 2015
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Penn Jilette
 
-It's amazing to me how many people think that voting to have the government give poor people money is compassion. Helping poor and suffering people is compassion. Voting for our government to use guns to give money to help poor and suffering people is immoral self-righteous bullying laziness. People need to be fed, medicated, educated, clothed, and sheltered, and if we're compassionate we'll help them, but you get no moral credit for forcing other people to do what you think is right. There is great joy in helping people, but no joy in doing it at gunpoint.
+It's amazing to me how many people think that voting to have the
+government give poor people money is compassion. Helping poor and
+suffering people is compassion. Voting for our government to use guns
+to give money to help poor and suffering people is immoral
+self-righteous bullying laziness. People need to be fed, medicated,
+educated, clothed, and sheltered, and if we're compassionate we'll
+help them, but you get no moral credit for forcing other people to do
+what you think is right. There is great joy in helping people, but no
+joy in doing it at gunpoint.
 
 You are confused
 
-I think these people live in a non-existent dreamland where they are in a small village and know John, Jane, Bob, say hi to them every morning, you know.. walk around in the town, if one is in need they help out, with a smile on their face.. Sadly this world does not exist, but help needs to reach to people who need it, somehow. Chances are we as citizens dont know Jane, dont know John, but they are in financial stress, in the meantime raise a troubled son who might just shoot our ass in a movie theater thanks to lax gun laws these rightwinger idiots also champion.
+I think these people live in a non-existent dreamland where they are
+in a small village and know John, Jane, Bob, say hi to them every
+morning, you know.. walk around in the town, if one is in need they
+help out, with a smile on their face.. Sadly this world does not
+exist, but help needs to reach to people who need it, somehow. Chances
+are we as citizens dont know Jane, dont know John, but they are in
+financial stress, in the meantime raise a troubled son who might just
+shoot our ass in a movie theater thanks to lax gun laws these
+rightwinger idiots also champion.
 
-Jillette has problems presenting his ideas too; rightists do this all the time; exaggerate a policy in a way it comes across as threatening somehow. Like this Rick Scrotum.. or Santorum person, talking about legalizing gay marriage, he said once [paraphrasing] "next thing you know there'll be bestiality, bunch of weirdness, and then you're gonna marry your dog". You see what he is doing here, he jumps from one policy to something completely different, which happens to be some obnoxiously comical, bizarre act, and scares people with it (my example, above on the other hand, is completely plausible :)). Same with Jilette above; He doesn't like the policy, but instead of saying why in overall policy terms, he is like "government will use its guns on me to make me pay".
+Jillette has problems presenting his ideas too; rightists do this all
+the time; exaggerate a policy in a way it comes across as threatening
+somehow. Like this Rick Scrotum.. or Santorum person, talking about
+legalizing gay marriage, he said once [paraphrasing] "next thing you
+know there'll be bestiality, bunch of weirdness, and then you're gonna
+marry your dog". You see what he is doing here, he jumps from one
+policy to something completely different, which happens to be some
+obnoxiously comical, bizarre act, and scares people with it (my
+example, above on the other hand, is completely plausible :)). Same
+with Jilette above; He doesn't like the policy, but instead of saying
+why in overall policy terms, he is like "government will use its guns
+on me to make me pay".
 
 Washington Post
 
-The poorer you are, the more things cost. More in money, time, hassle, exhaustion, menace. This is a fact of life that reality television and magazines don't often explain.  So we'll explain it here. Consider this a primer on the economics of poverty.
+The poorer you are, the more things cost. More in money, time, hassle,
+exhaustion, menace. This is a fact of life that reality television and
+magazines don't often explain.  So we'll explain it here. Consider
+this a primer on the economics of poverty.
 
-"The poor pay more for a gallon of milk; they pay more on a capital basis for inferior housing," says Rep. Earl Blumenauer (D-Ore.). "The poor and 100 million who are struggling for the middle class actually end up paying more for transportation, for housing, for health care, for mortgages. They get steered to subprime lending. . . . The poor pay more for things middle-class America takes for granted."
+"The poor pay more for a gallon of milk; they pay more on a capital
+basis for inferior housing," says Rep. Earl Blumenauer (D-Ore.). "The
+poor and 100 million who are struggling for the middle class actually
+end up paying more for transportation, for housing, for health care,
+for mortgages. They get steered to subprime lending. . . . The poor
+pay more for things middle-class America takes for granted."
 
 Damn
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
