@@ -1,14 +1,22 @@
+# Week 32
 
 Fox News
 
-[About the Cincinnati cop shooting and killing an unarmed black man] Cops wouldn't make "bad decisions" if "the perp didn't run away" [..] Just comply.
+[About the Cincinnati cop shooting and killing an unarmed black man]
+Cops wouldn't make "bad decisions" if "the perp didn't run away" [..]
+Just comply.
 
 Hah
 
-The problem is even if a brother doesn't (cannot) run, he might get choked to death (i.e. Eric Garner death in New York). So stay, get choked to death, run, get shot. The "perp" in Cincinnati must have thought he is better off running. You can't fault a black man trying to maximize his chances for survival.
+The problem is even if a brother doesn't (cannot) run, he might get
+choked to death (i.e. Eric Garner death in New York). So stay, get
+choked to death, run, get shot. The "perp" in Cincinnati must have
+thought he is better off running. You can't fault a black man trying
+to maximize his chances for survival.
+
+---
 
 Question
-
 
 Jeremy Rifkin, *The Zero-Marginal Cost Society*
 
@@ -42,6 +50,8 @@ full-automation, hoping employers create conditions where they are
 shedding jobs en masse causing wide-spread joblessness. This is a good
 thing.
 
+---
+
 Question
 
 Why are you against industrial production?
@@ -56,16 +66,32 @@ smokestack production. We are not assembly line workers anymore, even
 though the system thinks that we are.
 
 
+Everyone is talking about debt, citing huge nominal figures that
+strongly affect public-policy debates worldwide. But all debt is not
+created equal.
 
-Everyone is talking about debt, citing huge nominal figures that strongly affect public-policy debates worldwide. But all debt is not created equal.
+For starters, when it comes to public debt, there is a big difference
+between the gross and net figures. While Japan’s gross public debt,
+for example, is a massive 246% of GDP, the net figure, accounting for
+intra-government debts, is 127% of GDP.
 
-For starters, when it comes to public debt, there is a big difference between the gross and net figures. While Japan’s gross public debt, for example, is a massive 246% of GDP, the net figure, accounting for intra-government debts, is 127% of GDP.
+Moreover, what should really matter about a country’s public-debt
+burden is the expected annual cost of servicing it. As Daniel Gros
+recently pointed out, debt that can be rolled over indefinitely at
+zero interest rates is no debt at all. This is an extreme example; but
+the closer a fixed interest rate gets to zero, and the longer the
+maturity becomes, the lower the burden of the stock of debt.
 
-Moreover, what should really matter about a country’s public-debt burden is the expected annual cost of servicing it. As Daniel Gros recently pointed out, debt that can be rolled over indefinitely at zero interest rates is no debt at all. This is an extreme example; but the closer a fixed interest rate gets to zero, and the longer the maturity becomes, the lower the burden of the stock of debt.
-
-Although Greece’s public debt amounts to about 175% of GDP, low interest rates – which are fixed for a large proportion of it – and long maturities mean that it may be more manageable than it seems. Greece’s ratio of public-debt service to GDP is similar to that of Portugal, or even Italy. Indeed, that is why the latest deal with Greece, which entails even more bailout funds, could work [..]
+Although Greece’s public debt amounts to about 175% of GDP, low
+interest rates – which are fixed for a large proportion of it – and
+long maturities mean that it may be more manageable than it
+seems. Greece’s ratio of public-debt service to GDP is similar to that
+of Portugal, or even Italy. Indeed, that is why the latest deal with
+Greece, which entails even more bailout funds, could work [..]
 
 Good
+
+---
 
 Question
 
@@ -73,44 +99,117 @@ Alvin Toffler talks about social innovation here. What are some other examples?
 
 Here is one
 
-There is a bar here in Berlin called Jager Bar; every other Sunday they organize a Jam Night for amateur musicians. They have all instruments for a band ready on a stage, and they prepare a list of songs, usually famous ones that a lot of people know how to play. Anyone can go to this list put their name for the instrument of that song if they know how to play it, i.e. I write mine for the drum part of YYZ by Rush someone else might go for the guitar part of Black Velvet, whatever. Once a song completes its "instrument list" the ppl who signed up for that song go on stage and play it.
+There is a bar here in Berlin called Jager Bar; every other Sunday
+they organize a Jam Night for amateur musicians. They have all
+instruments for a band ready on a stage, and they prepare a list of
+songs, usually famous ones that a lot of people know how to
+play. Anyone can go to this list put their name for the instrument of
+that song if they know how to play it, i.e. I write mine for the drum
+part of YYZ by Rush someone else might go for the guitar part of Black
+Velvet, whatever. Once a song completes its "instrument list" the ppl
+who signed up for that song go on stage and play it.
 
-This is a social innovation. The bar makes money by selling drinks to musicians while they are waiting, watching others, etc.  Usually their friends come in too, so it is a packed night (not bad for a Sunday). And this social innovation requires nothing more than a bloody pen and paper.
+This is a social innovation. The bar makes money by selling drinks to
+musicians while they are waiting, watching others, etc.  Usually their
+friends come in too, so it is a packed night (not bad for a
+Sunday). And this social innovation requires nothing more than a
+bloody pen and paper.
+
+---
 
 Bunch of Articles 
 
-[Paraphrasing] Malaysia's Malay policy is failing [..] Lebanon's government is dysfuctional [..] Aung San Suu Kyi is authoritarian [..] Syria is f**ked.
+[Paraphrasing] Malaysia's Malay policy is failing [..] Lebanon's
+government is dysfuctional [..] Aung San Suu Kyi is authoritarian [..]
+Syria is f**ked.
 
 Absence of a Dictator or Presence of Elections Does Not Equal Large W
 
-All of the problems above could be fixed with the two-party-system-with-quotas approach we mentioned before. In Burma instead of a lightning-rod activist like Suu Kyi to have "another" party, you create two (without Suu Kyi in either one, less flash the better) - so the existing regime is not pit against the rest. 
+All of the problems above could be fixed with the
+two-party-system-with-quotas approach we mentioned before. In Burma
+instead of a lightning-rod activist like Suu Kyi to have "another"
+party, you create two (without Suu Kyi in either one, less flash the
+better) - so the existing regime is not pit against the rest. 
 
-In Lebanon the heartland of "sectarianism": each of the two parties would be forced to have, by law, 50% men, 50 women% of which 40% are Christian 60% Muslim members of which 30% must be Sunni and 30% Shite. Boom, as they say. The "distribution rule" can be implemented at various levels, but the end-result must be that each party, after the election, ends up with members in parliament exactly reflecting the allocation listed above.  Then, party A with that distribution gets elected, stays in there a while.. then time goes on, popularity starts to wane because the electorate is similar all around the world in that sense, they get tired of the party in power, then maybe there is an economic crisis (there is always a crisis), so they get the fuck out. Great! In their place, party B comes in with exactly same allocation.  No minority or majority "loses power", but power changes hands, more competition means better service.
+In Lebanon the heartland of "sectarianism": each of the two parties
+would be forced to have, by law, 50% men, 50 women% of which 40% are
+Christian 60% Muslim members of which 30% must be Sunni and 30%
+Shite. Boom, as they say. The "distribution rule" can be implemented
+at various levels, but the end-result must be that each party, after
+the election, ends up with members in parliament exactly reflecting
+the allocation listed above.  Then, party A with that distribution
+gets elected, stays in there a while.. then time goes on, popularity
+starts to wane because the electorate is similar all around the world
+in that sense, they get tired of the party in power, then maybe there
+is an economic crisis (there is always a crisis), so they get the fuck
+out. Great! In their place, party B comes in with exactly same
+allocation.  No minority or majority "loses power", but power changes
+hands, more competition means better service.
 
-Malaysia; the majority, Malays, will have the majority in both parties. However minorities can play the deciding factor in an election because they are inside each party who are otherwise very similar to eachother, so the minority's vote will be courted. Whichever minority favors one party in one election would reap the benefits after the election, perhaps at regional level first; "Chinese from Kuala Lumpur voted for us, let's give them little somethin somethin". 
+Malaysia; the majority, Malays, will have the majority in both
+parties. However minorities can play the deciding factor in an
+election because they are inside each party who are otherwise very
+similar to eachother, so the minority's vote will be
+courted. Whichever minority favors one party in one election would
+reap the benefits after the election, perhaps at regional level first;
+"Chinese from Kuala Lumpur voted for us, let's give them little
+somethin somethin". 
 
-Syria? The ultimate secterian hell hole? Obviously Sunnis will come to power, or be the major portion of either of the two parties, just like Shites are in Iraq - and the Russian rulers will have to swallow that whopper no matter what the consequences. But within two-party system minorities cannot be opressed anyway because they everyone has a say in one form or another. 
+Syria? The ultimate secterian hell hole? Obviously Sunnis will come to
+power, or be the major portion of either of the two parties, just like
+Shites are in Iraq - and the Russian rulers will have to swallow that
+whopper no matter what the consequences. But within two-party system
+minorities cannot be opressed anyway because they everyone has a say
+in one form or another. 
 
-This system is a starting point obviously - as time goes on, some or all restrictions could be lifted. It is the best that is possible within the confines of a mass-election system. 
+This system is a starting point obviously - as time goes on, some or
+all restrictions could be lifted. It is the best that is possible
+within the confines of a mass-election system. 
 
-It is critical the system is based on party / parliament level, and the role of a President is minimal. President, as a single person, can become the single-point-of-failure (parliaments can influence their prime minister more efficiently), plus the campaigning around these people have a way of turning into these spinning-monkey shows where candidates are spewing inane vomit left and right talking bunch of non-sense (sorta like the Republican primary right now). The ultimate goal of our proposed system is to distribute the risk, rewards, be functional in any country with any ethnic / religious make-up and the volume gets TURNED DOWN.
+It is critical the system is based on party / parliament level, and
+the role of a President is minimal. President, as a single person, can
+become the single-point-of-failure (parliaments can influence their
+prime minister more efficiently), plus the campaigning around these
+people have a way of turning into these spinning-monkey shows where
+candidates are spewing inane vomit left and right talking bunch of
+non-sense (sorta like the Republican primary right now). The ultimate
+goal of our proposed system is to distribute the risk, rewards, be
+functional in any country with any ethnic / religious make-up and the
+volume gets TURNED DOWN.
 
-
-
-
-
+---
 
 HuffPost
 
-The Chinese talk of Pakistan as an "all-weather friend," reflecting exactly how Pakistanis see them as well. The Chinese in private will go through the list of other close allies and point to their flaws: the North Koreans are seen as erratic, the "crazy younger brother," a scholar at a dinner remarked; Burma or Myanmar has let them down and they can never fully rely on Iran, according to another scholar, as it appears "too keen to be seduced by the U.S.That leaves Pakistan -- and Pakistan alone, in spite of its alliances with Western nations, has stood by China through thick and thin. China has reciprocated with a mixture of emotion and real politik -- it has just signed its biggest defense deal ever according to analysts, which gives Pakistan eight first-class submarines. It is a strange and unlikely love affair.
+The Chinese talk of Pakistan as an "all-weather friend," reflecting
+exactly how Pakistanis see them as well. The Chinese in private will
+go through the list of other close allies and point to their flaws:
+the North Koreans are seen as erratic, the "crazy younger brother," a
+scholar at a dinner remarked; Burma or Myanmar has let them down and
+they can never fully rely on Iran, according to another scholar, as it
+appears "too keen to be seduced by the U.S.That leaves Pakistan -- and
+Pakistan alone, in spite of its alliances with Western nations, has
+stood by China through thick and thin. China has reciprocated with a
+mixture of emotion and real politik -- it has just signed its biggest
+defense deal ever according to analysts, which gives Pakistan eight
+first-class submarines. It is a strange and unlikely love affair.
 
 Interesting
 
-Did not know the relationship was that cozy. Pakis would need a big ally against their arch-rival India, and China would fit that description, for the simple reason them being not India, but the relationship having been that far developed.. It's nice actually. Everyone needs allies - the more the marrier.
+Did not know the relationship was that cozy. Pakis would need a big
+ally against their arch-rival India, and China would fit that
+description, for the simple reason them being not India, but the
+relationship having been that far developed.. It's nice
+actually. Everyone needs allies - the more the marrier.
+
+---
 
 News
 
-After four Marines and a sailor were killed by a lone gunman last week, armed civilians have volunteered to stand guard at military recruiting stations around the country — but troops are being warned to keep their distance and alert law enforcement of their presence.
+After four Marines and a sailor were killed by a lone gunman last
+week, armed civilians have volunteered to stand guard at military
+recruiting stations around the country — but troops are being warned
+to keep their distance and alert law enforcement of their presence.
 
 Dude, go home
 
@@ -118,13 +217,35 @@ And don't show up dressed as Batman either.
 
 Jeez.
 
+---
+
 Comment
 
-American fire-fighters [are] almost eight times more likely to die on the job than other first world firemen.
+American fire-fighters [are] almost eight times more likely to die on
+the job than other first world firemen.
 
 Not surprising
 
-This Hero Complex issue is related to this post - US culture is based on the necessities arising from a small population inhabiting a large amount space. Even US cultural tug-of-war between prohibition / freedom (letting it happen, letting go) has to do with this - during the containment phase you are holding your ground, building in one place, but there is this huge other space that needs to be populated, then you need to "let it rip" to "make that jump". Heroes, as a concept, are required for the second phase, for hero is the dude who dives right in. The society needs -or needed-, them especially when the country was small. But now, as US becomes more urban, everyone is living in (relatively) close quarters in cities, does the society need some nut dressed as Batman running around trying to save people? Admittedly some good things did come out of the US's early inception dynamic (cultures aren't entirely stupid, like a broken clock, they can show the right time twice a day), such as the pragmatic approach to and even fascination with technology [1] - that's good. But some the other stuff needs to go. Pronto.
+This Hero Complex issue is related to this post - US culture is based
+on the necessities arising from a small population inhabiting a large
+amount space. Even US cultural tug-of-war between prohibition /
+freedom (letting it happen, letting go) has to do with this - during
+the containment phase you are holding your ground, building in one
+place, but there is this huge other space that needs to be populated,
+then you need to "let it rip" to "make that jump". Heroes, as a
+concept, are required for the second phase, for hero is the dude who
+dives right in. The society needs -or needed-, them especially when
+the country was small. But now, as US becomes more urban, everyone is
+living in (relatively) close quarters in cities, does the society need
+some nut dressed as Batman running around trying to save people?
+Admittedly some good things did come out of the US's early inception
+dynamic (cultures aren't entirely stupid, like a broken clock, they
+can show the right time twice a day), such as the pragmatic approach
+to and even fascination with technology (Einstein noticed this
+relationship as well, he talks about it in The World As I See It.) -
+that's good. But some the other stuff needs to go. Pronto.
+
+---
 
 Question
 
@@ -145,13 +266,7 @@ The Culture Code
 
 Stuff White People Like
 
---
-
-[1] Einstein, as in Albert, noticed this relationship as well, he talks about it in The World As I See It.
-
-
-
-
+---
 
 WikiLeaks has crowdsourced a bounty of €100,000 to be paid out to
 anyone who can get them a copy of the secret Transatlantic Trade and
@@ -178,6 +293,8 @@ goal is to build a medical robot.”
 
 Awesome
 
+---
+
 Commenter
 
 Single payer healthcare system will slow-down the innovation in
@@ -189,6 +306,8 @@ Drug research can be funded like any other branch of science, through
 government, or through start-ups with interesting & marketable
 ideas. As it stands current system is doing its best to destroy
 medical research through legislative abominations such as Bayh-Dole.
+
+---
 
 FT
 
@@ -269,14 +388,7 @@ you rich.
 In terms of terminology - I prefer calling the new system
 postindustrial free market system.
 
-
-
-
-
-
-
-
-
+---
 
 As the U.S. flag was raised at America's embassy in Havana for the
 first time in 54 years, John Kerry called for a "genuine democracy" in
@@ -296,6 +408,8 @@ Reestablishing relations with Cuba: great.
 Are there any other pariah states left? How about North Korea? Can't
 the Chinese take care of these f--kers?
 
+---
+
 News
 
 Google is to delay the trial of its modular smartphone until next year
@@ -312,6 +426,8 @@ Cannot wait to see what these guys will produce.
 
 Sooo is Ara under Alphabet? How about Cloud services?
 
+---
+
 News
 
 Alphabet likely won't absorb Google Cloud Platform, Compute Engine
@@ -320,56 +436,64 @@ Aha
 
 So IT'ish stuff remain under the big G.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 Last night's debate sent Fox News'  ratings through the roof
 
 They managed the debate surprisingly well
 
-They asked some hard questions, it was well managed overall. Someone I know wanted to create a drinking game around the debates - here's an idea: you drink when u hear the 'R' word: Ronald Reagan.
+They asked some hard questions, it was well managed overall. Someone I
+know wanted to create a drinking game around the debates - here's an
+idea: you drink when u hear the 'R' word: Ronald Reagan.
 
-The candidates.. they all suck. There is only one guy even worthy of mention, but I won't name any names. A hint? It's not the paisan, it's not Trump, and it sure as f**k ain't Bush. Which means any of those three would be _great_ for Hillary. Those three guys: I support you. I'm behind you 110 percent. Go for it.
+The candidates.. they all suck. There is only one guy even worthy of
+mention, but I won't name any names. A hint? It's not the paisan, it's
+not Trump, and it sure as f**k ain't Bush. Which means any of those
+three would be _great_ for Hillary. Those three guys: I support
+you. I'm behind you 110 percent. Go for it.
 
+---
 
-
-
-
-
-
-
-
-
-But in a 3W world, power-law looms large, temporary monopoly is the norm. Then why bother two-party-with-quotas approach?
+But in a 3W world, power-law looms large, temporary monopoly is the
+norm. Then why bother two-party-with-quotas approach?
 
 Parties do not live in the 3W
 
-Mass-election systems are by definition second-wave artifacts, so they need to be regulated like canned beans. Just like the 1982 break-up of AT&T was necessary because it was hindering competition, party system needs to be structured in the developing world so there is more competition. Noone gives a shit about Skype having the lead today, but there was a time when the monopoly of AT&T mattered. It was part of that world. Sure the new and improved system (whatever it may be) might not need any of this, but developing democracies, or countries without any sane representation need something working, today.
+Mass-election systems are by definition second-wave artifacts, so they
+need to be regulated like canned beans. Just like the 1982 break-up of
+AT&T was necessary because it was hindering competition, party system
+needs to be structured in the developing world so there is more
+competition. Noone gives a shit about Skype having the lead today, but
+there was a time when the monopoly of AT&T mattered. It was part of
+that world. Sure the new and improved system (whatever it may be)
+might not need any of this, but developing democracies, or countries
+without any sane representation need something working, today.
 
-Even Westerners themselves do not completely understand this - or what makes their own system tick. After all, The Logic of Political Survival came out on 2003 (the year of Iraq invasion, oddly enough) that clearly tries to explain how the system works and why. "Have bunch of parties, have elections" is the usual advice but as we all know this doesn't work everywhere, all the time . Parties and elections are only one part of the system.
+Even Westerners themselves do not completely understand this - or what
+makes their own system tick. After all, The Logic of Political
+Survival came out on 2003 (the year of Iraq invasion, oddly enough)
+that clearly tries to explain how the system works and why. "Have
+bunch of parties, have elections" is the usual advice but as we all
+know this doesn't work everywhere, all the time . Parties and
+elections are only one part of the system.
 
-In the developed world The Integrators do their job well-enough. The system is tuned constantly so the public's mood gets reflected better in governance. Who are "they", these Integrators you ask.. They are the people who prefer "grand coalition" in Germany for example, and guess what, they get their grand coalition. That's how it's done. Or it's that guy who whispers into Gordon Brown's ear that after the election he lost even though he could arithmetically, attempt to form a coalition, "it will result in political crisis if you try". Guess what? Brown gives up the idea. It is that guy / those people who decide a black US President could be a idea after Dubya.
+In the developed world The Integrators do their job well-enough. The
+system is tuned constantly so the public's mood gets reflected better
+in governance. Who are "they", these Integrators you ask.. They are
+the people who prefer "grand coalition" in Germany for example, and
+guess what, they get their grand coalition. That's how it's done. Or
+it's that guy who whispers into Gordon Brown's ear that after the
+election he lost even though he could arithmetically, attempt to form
+a coalition, "it will result in political crisis if you try". Guess
+what? Brown gives up the idea. It is that guy / those people who
+decide a black US President could be a idea after Dubya.
 
-In the absence of these people, stability needs to be forced by law. The developing world does not have the time to go through insane ups and downs that even the West went through at times, such chaos will not bode well for anyone, it will cause refugee crisis' for starters as we witness right now, effecting everyone negatively.
+In the absence of these people, stability needs to be forced by
+law. The developing world does not have the time to go through insane
+ups and downs that even the West went through at times, such chaos
+will not bode well for anyone, it will cause refugee crisis' for
+starters as we witness right now, effecting everyone negatively.
 
-
-
-
-
-
-
-
-
+---
 
 Musicians, writers, and other creative folk are still scratching their
 heads over the cover story in Sunday’s New York Times Magazine: “The
@@ -388,6 +512,8 @@ appears, is not going up but down.
 
 All Models Are Wrong, Some Suck
 
+---
+
 Bruce B. de Mesquita
 
 If Hillary Clinton was nominated by the Democrat Party for 2008, she
@@ -401,9 +527,12 @@ for 2008, and that would have been the next President of the United
 States. No offense to Hillary, she would have been great prez, but
 that's what happened.  
 
+---
+
 Comment
 
-Democracy is a luxury, can only work in rich societies, it is not a necessity.
+Democracy is a luxury, can only work in rich societies, it is not a
+necessity.
 
 Most likely untrue
 
@@ -420,6 +549,8 @@ being too low, but the model overall is significant [/geek]. Change in
 W's coefficient is at 1.8, this means going from lowest to highest W
 adds over 1% to GDP growth. Blimey. The effect does not necessarily go
 the other way; that avenue is explored in the book as well.
+
+---
 
 Question
 
@@ -464,28 +595,50 @@ parties. Boom. Then watch the money flowin'
 
 I even wrote the song for it. C'mon
 
+---
 
+In June, a father of six was shot dead on a Monday afternoon in
+Evanston, Ill., a suburb 10 miles north of Chicago. [..] With a killer
+on the loose and few leads at their disposal, investigators in Cook
+County, which includes Evanston, were encouraged when they found two
+smartphones alongside the body of the deceased: an iPhone 6 running on
+Apple’s iOS 8 operating system, and a Samsung Galaxy S6 Edge running
+on Google’s Android operating system. Both devices were passcode
+protected.
 
+An Illinois state judge issued a warrant ordering Apple and Google to
+unlock the phones and share with authorities any data therein that
+could potentially solve the murder. Apple and Google replied, in
+essence, that they could not — because they did not know the user’s
+passcode.
 
-
-
-
-
-
-
-
-
-In June, a father of six was shot dead on a Monday afternoon in Evanston, Ill., a suburb 10 miles north of Chicago. [..] With a killer on the loose and few leads at their disposal, investigators in Cook County, which includes Evanston, were encouraged when they found two smartphones alongside the body of the deceased: an iPhone 6 running on Apple’s iOS 8 operating system, and a Samsung Galaxy S6 Edge running on Google’s Android operating system. Both devices were passcode protected.
-
-An Illinois state judge issued a warrant ordering Apple and Google to unlock the phones and share with authorities any data therein that could potentially solve the murder. Apple and Google replied, in essence, that they could not — because they did not know the user’s passcode.
-
-The homicide remains unsolved. The killer remains at large.  Until very recently, this situation would not have occurred.  Last September, Apple and Google, whose operating systems are used in 96 percent of smartphones worldwide, announced that they had re-engineered their software with “full-disk” encryption, and could no longer unlock their own products as a result.
+The homicide remains unsolved. The killer remains at large.  Until
+very recently, this situation would not have occurred.  Last
+September, Apple and Google, whose operating systems are used in 96
+percent of smartphones worldwide, announced that they had
+re-engineered their software with “full-disk” encryption, and could no
+longer unlock their own products as a result.
 
 We cannot peek into people's minds either
 
-.. or make cows fly. There will be limits to anything we do, and we must err on the side of privacy.  If Snowden revelations proved anything, it is the necessity for wide-spread protection against a rogue state, and I don't just mean North Korea. We also need to accept tech as part of us / appendages which should not be subject to the whims of bureucrats. "I want your see inside your head, gimme your head". What are you - ISIS? Buzz off. 
+.. or make cows fly. There will be limits to anything we do, and we
+must err on the side of privacy.  If Snowden revelations proved
+anything, it is the necessity for wide-spread protection against a
+rogue state, and I don't just mean North Korea. We also need to accept
+tech as part of us / appendages which should not be subject to the
+whims of bureucrats. "I want your see inside your head, gimme your
+head". What are you - ISIS? Buzz off. 
 
-I believe lefties are getting lost in the wilderness here, replacing their nanny-state love with an imagined nanny-big-company who they think will take care of their every need - indirectly. Tech companies are in the business of making money (thank god) and out-of-control branches of gov messing shit up worldwide is causing loss of credibility for them. Instead of pointing the finger to this rampant decaying cold-war infrastructure, it seems big tech companies are put on the spot as an easy target. 
+I believe lefties are getting lost in the wilderness here, replacing
+their nanny-state love with an imagined nanny-big-company who they
+think will take care of their every need - indirectly. Tech companies
+are in the business of making money (thank god) and out-of-control
+branches of gov messing shit up worldwide is causing loss of
+credibility for them. Instead of pointing the finger to this rampant
+decaying cold-war infrastructure, it seems big tech companies are put
+on the spot as an easy target. 
+
+---
 
 Question 
 
@@ -493,25 +646,61 @@ Why is Putin still in power?
 
 Supposedly he tried to hand over the reins
 
-As a High Horse I'd like to think he would have at least tried to empower others; according to this article he tried, with Medvvvvedev, he failed - siloviki, civiliki, all that. But as things stands now, his legitimacy being called into question, there is this huge apparatus around him which is there only to intimidate others, keep them out of power and themselves in; Kasparov said he could not even rent office space in Moscow, everyone was too scared to be involved with him, in any kind of opposition.
+As a High Horse I'd like to think he would have at least tried to
+empower others; according to this article he tried, with Medvvvvedev,
+he failed - siloviki, civiliki, all that. But as things stands now,
+his legitimacy being called into question, there is this huge
+apparatus around him which is there only to intimidate others, keep
+them out of power and themselves in; Kasparov said he could not even
+rent office space in Moscow, everyone was too scared to be involved
+with him, in any kind of opposition.
 
-I said "an HH would have tried", bcz another HH I looked closely, Kemal A. of Turkland for example, did try. It is widely known near his death he was somewhat sad that he'd probably go down history as a two-bit dictator, he was very concious of this part of his legacy. He and people around him gave democracy a try, Kemal asked one of his friends to start a second party but the interest in this other party was so intense the newly minted Integrators got scared. "The friend" wasn't even had to be asked to give up his party, he shut it down himself. 
+I said "an HH would have tried", bcz another HH I looked closely,
+Kemal A. of Turkland for example, did try. It is widely known near his
+death he was somewhat sad that he'd probably go down history as a
+two-bit dictator, he was very concious of this part of his legacy. He
+and people around him gave democracy a try, Kemal asked one of his
+friends to start a second party but the interest in this other party
+was so intense the newly minted Integrators got scared. "The friend"
+wasn't even had to be asked to give up his party, he shut it down
+himself. 
 
-Now, knowing what we know through the Time for Change model, it is clear these people's view of democracy was extremely naive. The whole point of the democratic exercise is, through a few rough measurements, that parties regularly get the fuck out. No one stays too long / can stay too long which is a good thing. GDP growth down, stayed in office too long, popularity waning, you are outa there. The leader could be Churchill, who won a frickin World War, the electorate does not care. Bye bye. What Kemal should have done was to actually shut down his own party, create two parties out of it,  distribute all "the friends" equally among them, and go to the election (and still stay as the president, with limited powers). That way there is no stampede to any one party, and after a while people can start to go back and forth between these two parties. At first placing a hard-limit on the # of parties to two can be a wise choice. As long as "the winning coalition" is as large as possible, people vote, and their votes count, things are a-ok.
+Now, knowing what we know through the Time for Change model, it is
+clear these people's view of democracy was extremely naive. The whole
+point of the democratic exercise is, through a few rough measurements,
+that parties regularly get the fuck out. No one stays too long / can
+stay too long which is a good thing. GDP growth down, stayed in office
+too long, popularity waning, you are outa there. The leader could be
+Churchill, who won a frickin World War, the electorate does not
+care. Bye bye. What Kemal should have done was to actually shut down
+his own party, create two parties out of it,  distribute all "the
+friends" equally among them, and go to the election (and still stay as
+the president, with limited powers). That way there is no stampede to
+any one party, and after a while people can start to go back and forth
+between these two parties. At first placing a hard-limit on the # of
+parties to two can be a wise choice. As long as "the winning
+coalition" is as large as possible, people vote, and their votes
+count, things are a-ok.
 
 Until there is a true 3W way of governance that is.
 
+---
+
 Hillary Clinton
 
-The Arctic is a unique treasure. Given what we know, it's not worth the risk of drilling.
+The Arctic is a unique treasure. Given what we know, it's not worth
+the risk of drilling.
 
 Exactly
 
 IMHO drilling in the arctic is government-sponsored terrorism. 
 
+---
+
 Question
 
-Adam and Eve story in religious texts is such bull. How can everyone be descended from two people?
+Adam and Eve story in religious texts is such bull. How can everyone
+be descended from two people?
 
 Scientists would disagree with you
 
@@ -519,6 +708,7 @@ Jeremy Rifkin's excellent video on the subject is here. 
 
 https://youtu.be/l7AWnfFRc7g?t=524
 
+---
 
 
 
