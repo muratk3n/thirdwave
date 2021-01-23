@@ -69,9 +69,13 @@ gormek icin suraya bakabilirsiniz. Her grup icin, diyabet ve kansere
 karsi hangisinin etkili oldugunu da ayni sayfalarda
 bulabilirsiniz.
 
-Engin Ardic[..]  kızlar sarışın, mavi gözlü, genç ve çok yakışıklı bir
-"zabitin" kolunda çıkmış gitmişler. [..] "Mustafa Kemal Bey,"
-demişler, "yamandır... İleride adını çok duyacaksın!"
+---
+
+Engin Ardic[..]
+
+kızlar sarışın, mavi gözlü, genç ve çok yakışıklı bir "zabitin"
+kolunda çıkmış gitmişler. [..] "Mustafa Kemal Bey," demişler,
+"yamandır... İleride adını çok duyacaksın!"
 
 Bilincaltisal Irkcilik
 

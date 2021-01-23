@@ -1,113 +1,277 @@
-
+# Hafta 28
 
 Engin Ardic
 
-Bu arada, TBMM'nin dışında ve üstünde bir "Konsey" de oluşturmak istemişlerdi. (Bu tür adamlar "Konsey" severler... Gran Consiglio del Fascismo Italiano gibi... Milli Güvenlik Konseyi, Basın Konseyi falan gibi...) Bütün bunları Atatürk'ün gözünün önünde, burnunun dibinde nasıl yapabilmişlerdi? Çünkü Atatürk hastaydı, hayatının son yılını yaşıyordu... Fakat son bir gayretle bu adamlara "höt" dedi ve 20 Eylül'de İnönü'yü başbakanlıktan kovdu. (Ele güne karşı bunun kılıfı, "aşırı çalışmaktan dolayı sürmenaj nedeniyle izin" olarak uyduruldu.)
+Bu arada, TBMM'nin dışında ve üstünde bir "Konsey" de oluşturmak
+istemişlerdi. (Bu tür adamlar "Konsey" severler... Gran Consiglio del
+Fascismo Italiano gibi... Milli Güvenlik Konseyi, Basın Konseyi falan
+gibi...) Bütün bunları Atatürk'ün gözünün önünde, burnunun dibinde
+nasıl yapabilmişlerdi? Çünkü Atatürk hastaydı, hayatının son yılını
+yaşıyordu... Fakat son bir gayretle bu adamlara "höt" dedi ve 20
+Eylül'de İnönü'yü başbakanlıktan kovdu. (Ele güne karşı bunun kılıfı,
+"aşırı çalışmaktan dolayı sürmenaj nedeniyle izin" olarak uyduruldu.)
 
 Peri masali
 
-Bu "hikaye" dogruysa, niye bir fasist lider olan Adolf Hitler "ben Ataturk'un ogrencisiyim" demistir? [1]. Ayni soz Mussolini tarafindan da tekrarlanmistir - bunlar kayitli, tarihi birer gercektir. Sn. Ardic yine bir "kurtarma" operasyonu yapmaya ugrasiyor ve Mustafa Kemal'i "demokrat egilimleri olan ama etrafindan kisiler tarafindan o egilimlerine izin verilmeyen bir kisilik" olarak yansitmaya kalkisiyor. Bu tam bir "kurbanlastirma (victimization)" harekatidir ve kisisel psikolojide kurtulunmasi gereken bas eksikliklerden biri olarak addedilir. Bu numaralari ufak cocuklara bile yediremezsiniz. Tabii Ardic Kemalist'lerle giristigi boks macinda bunlari kullaniyor, karsi tarafi uyutmaya ugrasiyorsa (takiyye), o zaman baska..
+Bu "hikaye" dogruysa, niye bir fasist lider olan Adolf Hitler "ben
+Ataturk'un ogrencisiyim" demistir? [1]. Ayni soz Mussolini tarafindan
+da tekrarlanmistir - bunlar kayitli, tarihi birer gercektir. Sn. Ardic
+yine bir "kurtarma" operasyonu yapmaya ugrasiyor ve Mustafa Kemal'i
+"demokrat egilimleri olan ama etrafindan kisiler tarafindan o
+egilimlerine izin verilmeyen bir kisilik" olarak yansitmaya
+kalkisiyor. Bu tam bir "kurbanlastirma (victimization)" harekatidir ve
+kisisel psikolojide kurtulunmasi gereken bas eksikliklerden biri
+olarak addedilir. Bu numaralari ufak cocuklara bile
+yediremezsiniz. Tabii Ardic Kemalist'lerle giristigi boks macinda
+bunlari kullaniyor, karsi tarafi uyutmaya ugrasiyorsa (takiyye), o
+zaman baska..
 
-Muhakkak, Nazizm, Fasizm Kemalizm'le tipatip ayni degildir... Fakat bu ideolojilerin hepsinin anti-demokrat, anti-liberal egilimlerde oldugu da tarihi bir gercektir [2]. 30'li yillarda CHP uyeleri Rusya ve Almanya'ya gonderilmis, bu kisiler Bolsevik ve Nazi hareketlerini yerinden inceleyerek basarili bulduklarini ulkelerine rapor etmislerdir. Parti/devletin birbirinin icice gecirilmesi bu gezilerden sonra gundeme gelmistir.
+Muhakkak, Nazizm, Fasizm Kemalizm'le tipatip ayni degildir... Fakat bu
+ideolojilerin hepsinin anti-demokrat, anti-liberal egilimlerde oldugu
+da tarihi bir gercektir [2]. 30'li yillarda CHP uyeleri Rusya ve
+Almanya'ya gonderilmis, bu kisiler Bolsevik ve Nazi hareketlerini
+yerinden inceleyerek basarili bulduklarini ulkelerine rapor
+etmislerdir. Parti/devletin birbirinin icice gecirilmesi bu gezilerden
+sonra gundeme gelmistir.
 
-Eger Mustafa Kemal bir ust duzey konseye izin vermediyse, bu, Kemalist rejimin bir "piramit" duzeninde kuruluyor olmasidir. Bir piramit dogal olarak yukari dogru incelir, ve "coktan" "aza" dogru gider. En tepede sadece tek kisi olabilir, "konsey" olamaz.
+Eger Mustafa Kemal bir ust duzey konseye izin vermediyse, bu, Kemalist
+rejimin bir "piramit" duzeninde kuruluyor olmasidir. Bir piramit dogal
+olarak yukari dogru incelir, ve "coktan" "aza" dogru gider. En tepede
+sadece tek kisi olabilir, "konsey" olamaz.
 
-Ve yine ekleyeyim: Kemal, iyi bir asker ve stratejisyendir. Bunlari teslim ediyoruz. Fakat ornek aldigi (hatta oldugu) Avrupa, 1920 Avrupa'sidir ve bu Avrupa otokrat, irkci, ulus-devletci ve bu gune gore feci sekilde geri kalmis bir yerdir. Modern Avrupa, '20 Avrupa'sini yikarak bu gunku liberal demokrat haline donusmustur. Bizim de aynisini yapmamiz gerekiyor. Gunumuzde uzlasma kelimesi cok tekrar ediliyor; Bizce esas onemli uzlasma GERCEKLERLE UZLASMAKTIR. Ne kadar aci olsa da, yararli olan bazi ilaclarin yutulmasi gerekecek.
+Ve yine ekleyeyim: Kemal, iyi bir asker ve stratejisyendir. Bunlari
+teslim ediyoruz. Fakat ornek aldigi (hatta oldugu) Avrupa, 1920
+Avrupa'sidir ve bu Avrupa otokrat, irkci, ulus-devletci ve bu gune
+gore feci sekilde geri kalmis bir yerdir. Modern Avrupa, '20
+Avrupa'sini yikarak bu gunku liberal demokrat haline
+donusmustur. Bizim de aynisini yapmamiz gerekiyor. Gunumuzde uzlasma
+kelimesi cok tekrar ediliyor; Bizce esas onemli uzlasma GERCEKLERLE
+UZLASMAKTIR. Ne kadar aci olsa da, yararli olan bazi ilaclarin
+yutulmasi gerekecek.
 
----
-
-[1] Atay Falih Rifki, Mustafa Kemal Mutereke Defteri, Istanbul: Sey yay., 1955, p. 67, cited in Gulbeyaz, Halil, Mustafa Kemal Ataturk: com Staatsgrunder zum Mythos, Berlin: Parthas, 2003, p. 228
+[1] Atay Falih Rifki, Mustafa Kemal Mutereke Defteri, Istanbul: Sey
+yay., 1955, p. 67, cited in Gulbeyaz, Halil, Mustafa Kemal Ataturk:
+com Staatsgrunder zum Mythos, Berlin: Parthas, 2003, p. 228
 
 [2] Turkey Beyond Nationalism, sf. ix, 2006
 
+---
+
 Serdar Turgut
 
-Başkan Kennedy, mafyaya çok borçluydu ve tavizler vermeye başladı. Bu arada özel yaşamı bir dizi seks ilişkisiyle doluydu. Mafya bunları da kullanarak istediklerini almaya başladı. İş çığrından çıkıyordu ve Başkan Kennedy’nin ortadan kaldırılmasına karar verildi. Fiyaskoyla sonuçlanan ‘Domuzlar Körfezi’ çıkarmasında gözlemci olarak bulunan FBI ve CIA başkanları, Dallas’ta öldürtme sürecini başlattılar.
+Başkan Kennedy, mafyaya çok borçluydu ve tavizler vermeye başladı. Bu
+arada özel yaşamı bir dizi seks ilişkisiyle doluydu. Mafya bunları da
+kullanarak istediklerini almaya başladı. İş çığrından çıkıyordu ve
+Başkan Kennedy’nin ortadan kaldırılmasına karar verildi. Fiyaskoyla
+sonuçlanan ‘Domuzlar Körfezi’ çıkarmasında gözlemci olarak bulunan FBI
+ve CIA başkanları, Dallas’ta öldürtme sürecini başlattılar.
 
 Yanlis sebep
 
-Kennedy ailesi secildikten sonra Mafya'yi "satti" (secilmeden once sendika icin onlari kullanmisti). Hatta bilakis uzerlerine gidip, onlari tasfiye etmeye yeltendiler. Taviz falan vermediler.
+Kennedy ailesi secildikten sonra Mafya'yi "satti" (secilmeden once
+sendika icin onlari kullanmisti). Hatta bilakis uzerlerine gidip,
+onlari tasfiye etmeye yeltendiler. Taviz falan vermediler.
 
-Kennedy'nin oldurulmesinde esas sorumlu, "petrol mafyasi"'dir ve suikastin gercek sebebi petrol cikarlaridir. Mafya neresinden bakarsaniz bakin bir capulcu gruplasmadir - devlet karar verdi mi bir ulkede hicbir mafya dayanamaz.
+Kennedy'nin oldurulmesinde esas sorumlu, "petrol mafyasi"'dir ve
+suikastin gercek sebebi petrol cikarlaridir. Mafya neresinden
+bakarsaniz bakin bir capulcu gruplasmadir - devlet karar verdi mi bir
+ulkede hicbir mafya dayanamaz.
 
-Kennedy suikastinin daha muhtemel bir analizini surada  okuyabilirsiniz [1].
+Kennedy suikastinin daha muhtemel bir analizini surada okuyabilirsiniz
+[1].
 
-Bu suikasti "gerceklestirmek" icin mafya kullanilmis midir? Bu daha muhtemel bir cevaptir. Ama "baslatan", "fikir babaligi yapan" seviyesinde mafya olamaz. Sadece tetikci olabilirler.
+Bu suikasti "gerceklestirmek" icin mafya kullanilmis midir? Bu daha
+muhtemel bir cevaptir. Ama "baslatan", "fikir babaligi yapan"
+seviyesinde mafya olamaz. Sadece tetikci olabilirler.
 
-Bu konu hakkinda Taraf yazari Cemil Ertem'in yazdigini da okuyabilirsiniz [2]. Birbirimizden bagimsiz sekilde ayni sonuca ulastik (kendisinden cok gec haberim oldu, bu benim kayibim). Irlanda'nin AB'ye hayir demesinde de yorumumuz benzesiyor. Son 50 senenin tum olaylarina bakmakta en onemli kistas, "ayirici" eski/yeni ekonomi, demir/celik vs. bilgi ekonomisi ayirimidir.
-
-KNOW IT. LEARN IT. LOVE IT.
-
-
-http://ucuncudalgageliyor.blogspot.com/2008/06/john-f-kennedy.html
+Bu konu hakkinda Taraf yazari Cemil Ertem'in yazdigini da
+okuyabilirsiniz [2]. Birbirimizden bagimsiz sekilde ayni sonuca
+ulastik (kendisinden cok gec haberim oldu, bu benim
+kayibim). Irlanda'nin AB'ye hayir demesinde de yorumumuz
+benzesiyor. Son 50 senenin tum olaylarina bakmakta en onemli kistas,
+"ayirici" eski/yeni ekonomi, demir/celik vs. bilgi ekonomisi
+ayirimidir.
 
 http://www.taraf.com.tr/yazar.asp?mid=1008
 
 http://www.taraf.com.tr/yazar.asp?mid=939
 
+---
+
 Emre Akoz
 
-Yaşamakta olduğumuz sürecin; basit, sıradan, hemen her ülkede karşılaşılan türden bir " gündelik siyaset çekişmesi " olduğunu sananlar var. Bu yüzden de bazı medyacıların, diğer bazı medyacılara karşı 'keskin' tavırlar almasını doğru bulmuyorlar. Bize Süleyman Demirel'in sözünü hatırlatıyorlar: "Sivil siyasetin özü, bir gün önce birbirlerine hakaret edenlerin, ertesi gün kol kola girmeyi başarabilmeleridir." Tamam ama hangi siyasetten söz ediyor Demirel? Sivil siyasetten! Yani mesele, " Erdoğan-Baykal-Bahçeli " çekişmesi filan değil. Mesele; bir partiyi, bir lideri, belli bir politikayı savunma meselesi hiç değil. Sorun bambaşka: 'Sivil siyaset' devam edecek mi, etmeyecek mi? Demokrasi olacak mı, olmayacak mı? Yoksa otoriter/faşizan bir rejimle mi yönetileceğiz?
+Yaşamakta olduğumuz sürecin; basit, sıradan, hemen her ülkede
+karşılaşılan türden bir " gündelik siyaset çekişmesi " olduğunu
+sananlar var. Bu yüzden de bazı medyacıların, diğer bazı medyacılara
+karşı 'keskin' tavırlar almasını doğru bulmuyorlar. Bize Süleyman
+Demirel'in sözünü hatırlatıyorlar: "Sivil siyasetin özü, bir gün önce
+birbirlerine hakaret edenlerin, ertesi gün kol kola girmeyi
+başarabilmeleridir." Tamam ama hangi siyasetten söz ediyor Demirel?
+Sivil siyasetten! Yani mesele, " Erdoğan-Baykal-Bahçeli " çekişmesi
+filan değil. Mesele; bir partiyi, bir lideri, belli bir politikayı
+savunma meselesi hiç değil. Sorun bambaşka: 'Sivil siyaset' devam
+edecek mi, etmeyecek mi? Demokrasi olacak mı, olmayacak mı? Yoksa
+otoriter/faşizan bir rejimle mi yönetileceğiz?
 
 Dogru
 
+---
+
 Ahmet Altan
-Ne değişti de Cumhuriyet tarihi boyunca görülmemiş bir olayla karşılaştık? Darbe hazırladığı, birlikte çalıştığı bir amiral tarafından itiraf edilen eski bir kuvvet komutanı nasıl oldu da gözaltına alındı?
 
-Bunun birtakım görünür açıklamaları olacak. Erdoğan'la Başbuğ görüşmesinde konuşulmuş ve anlaşılmış olduğu söylenecek. AKP'nin "rövanşı" olduğu söylenecek. Ordunun "darbecileri" koruyormuş görüntüsünü daha fazla taşıyamadığı söylenecek. Birçok şey söylenecek. Belki bütün bunların bir doğruluk payı da olacak. Ama soru gene değişmeyecek. Ne oldu da bütün bunlar oldu?
+Ne değişti de Cumhuriyet tarihi boyunca görülmemiş bir olayla
+karşılaştık? Darbe hazırladığı, birlikte çalıştığı bir amiral
+tarafından itiraf edilen eski bir kuvvet komutanı nasıl oldu da
+gözaltına alındı?
 
-Büyük değişimlerin olabilmesi için "temelde" bir şeylerin geri dönülemeyecek biçimde değişmiş olması gerekir. Türkiye de kendi devrimini yaşıyor. Bu toplumun temeli değişiyor. Benim görebildiğim üç büyük nedeni var bu değişimin. Köylülükten sanayiye geçerken üretimini artırıyor, üretim artarken Anadolu sermayesi zenginleşip güçleniyor, bu değişimlere bağlı olarak dünyayla, özellikle de Avrupa'yla ilişkilerini sağlamlaştırıyor. Köylüler sessiz ve eziktiler. Biri ezmeye, diğeri ezilmeye alışıktı. Uzun zaman bu yapı devam etti. Sonra bürokratlar, devletin olanaklarıyla yandaş "zenginler" yarattı. Kapılarını dünyaya kapamış bir ülkede, kendi emirlerindeki zenginlerle birlikte iktidar süren bir bürokrasi ve hiç aldırılmayan, umursanmayan, aşağılanan, alay edilen bir köylü kalabalığı. Bir zaman da öyle gittik. Bir şey üretemiyorduk ama "iki kutuplu" bir dünyada, çıkabilecek bir büyük savaşta asker üniforması giydirilen köylüleri kurban etme karşılığında bize para veriyorlardı. Bir Amerikan Sovyet savaşında "nükleer mezarlık" olma ihtimalini kabul ederek dışardan para alıyorduk.
+Bunun birtakım görünür açıklamaları olacak. Erdoğan'la Başbuğ
+görüşmesinde konuşulmuş ve anlaşılmış olduğu söylenecek. AKP'nin
+"rövanşı" olduğu söylenecek. Ordunun "darbecileri" koruyormuş
+görüntüsünü daha fazla taşıyamadığı söylenecek. Birçok şey
+söylenecek. Belki bütün bunların bir doğruluk payı da olacak. Ama soru
+gene değişmeyecek. Ne oldu da bütün bunlar oldu?
 
-Sonra iki kutuplu dünya bitti. Bizim ülkenin işlevi de sona erdi. Yapımızı değiştirmeye başladık. Sanayi yatırımları çoğaldı. Turgut Özal, Türkiye'nin kapılarını dünyaya açtı. Serbest piyasa ekonomisi geldi. Anadolu sermayesi güçlenmeye koyuldu. Üretim arttı. Köylülük bitmeye yüztuttu. Toplumsal sınıflar ve ilişkiler değişti. Bu değişimle birlikte iktidar yapısı da zorlanmaya başladı. Yıllarca "köylülere" hükmeden bürokrasi artık bu yeni yapıya hükmetmekte zorlanıyordu. Kendi iktidarlarını zorlayan "gücün" temeldeki değişimden kaynaklandığını bir türlü kavrayamadıklarından, bu değişimin "siyasi partiler yüzünden olduğunu sandılar.
+Büyük değişimlerin olabilmesi için "temelde" bir şeylerin geri
+dönülemeyecek biçimde değişmiş olması gerekir. Türkiye de kendi
+devrimini yaşıyor. Bu toplumun temeli değişiyor. Benim görebildiğim üç
+büyük nedeni var bu değişimin. Köylülükten sanayiye geçerken üretimini
+artırıyor, üretim artarken Anadolu sermayesi zenginleşip güçleniyor,
+bu değişimlere bağlı olarak dünyayla, özellikle de Avrupa'yla
+ilişkilerini sağlamlaştırıyor. Köylüler sessiz ve eziktiler. Biri
+ezmeye, diğeri ezilmeye alışıktı. Uzun zaman bu yapı devam etti. Sonra
+bürokratlar, devletin olanaklarıyla yandaş "zenginler"
+yarattı. Kapılarını dünyaya kapamış bir ülkede, kendi emirlerindeki
+zenginlerle birlikte iktidar süren bir bürokrasi ve hiç aldırılmayan,
+umursanmayan, aşağılanan, alay edilen bir köylü kalabalığı. Bir zaman
+da öyle gittik. Bir şey üretemiyorduk ama "iki kutuplu" bir dünyada,
+çıkabilecek bir büyük savaşta asker üniforması giydirilen köylüleri
+kurban etme karşılığında bize para veriyorlardı. Bir Amerikan Sovyet
+savaşında "nükleer mezarlık" olma ihtimalini kabul ederek dışardan
+para alıyorduk.
+
+Sonra iki kutuplu dünya bitti. Bizim ülkenin işlevi de sona
+erdi. Yapımızı değiştirmeye başladık. Sanayi yatırımları
+çoğaldı. Turgut Özal, Türkiye'nin kapılarını dünyaya açtı. Serbest
+piyasa ekonomisi geldi. Anadolu sermayesi güçlenmeye koyuldu. Üretim
+arttı. Köylülük bitmeye yüztuttu. Toplumsal sınıflar ve ilişkiler
+değişti. Bu değişimle birlikte iktidar yapısı da zorlanmaya
+başladı. Yıllarca "köylülere" hükmeden bürokrasi artık bu yeni yapıya
+hükmetmekte zorlanıyordu. Kendi iktidarlarını zorlayan "gücün"
+temeldeki değişimden kaynaklandığını bir türlü kavrayamadıklarından,
+bu değişimin "siyasi partiler yüzünden olduğunu sandılar.
 
 Neredeyse tam dogru
 
-Sn. Altan eger listeledigi temel degisimlere bir de "endustriyel ekonominin bilgi ekonomisine donusmesi" faktorunu eklerse, analiz tam dogru olacak. Sag/sol literaturden gelen kisiler bu yeni beyaz yakali kesimi "orta sinif" diye etiketlemekte, fakat bu sinif, orta, yan, sag, sol filan degil, gelecegin hatta bugunun hakim sinifidir. En ustte, en fazla sayida, en becerikli olandir. Herkes bir sanayi tesekkulu sahibi olamaz, ya da olanlarin sayisi cok fazla olmayabilir, ama iyi bir egitimle herkes analitik melekelerini kullanarak bilgi/servis ekonomisine dahil olabilir.
+Sn. Altan eger listeledigi temel degisimlere bir de "endustriyel
+ekonominin bilgi ekonomisine donusmesi" faktorunu eklerse, analiz tam
+dogru olacak. Sag/sol literaturden gelen kisiler bu yeni beyaz yakali
+kesimi "orta sinif" diye etiketlemekte, fakat bu sinif, orta, yan,
+sag, sol filan degil, gelecegin hatta bugunun hakim sinifidir. En
+ustte, en fazla sayida, en becerikli olandir. Herkes bir sanayi
+tesekkulu sahibi olamaz, ya da olanlarin sayisi cok fazla olmayabilir,
+ama iyi bir egitimle herkes analitik melekelerini kullanarak
+bilgi/servis ekonomisine dahil olabilir.
 
-Pek sanayi->servis/bilgi gecisinin "buyuk" oldugunu nereden biliyoruz? Cunku buyuk degisimler bir sinifi yokedip, yeni bir sinif yaratirlar. Sanayilesme, koylu sinifini yokedip, isci sinifini dogurmustur. Bilgi ekonomisi otomizasyon/robotlar sayesinde isci sinifini yokedip, yeni bir sinif yaratacaktir (mesela Israil'de hic isci calistirmayan bir fabrika simdiden mevcut).
+Pek sanayi->servis/bilgi gecisinin "buyuk" oldugunu nereden biliyoruz?
+Cunku buyuk degisimler bir sinifi yokedip, yeni bir sinif
+yaratirlar. Sanayilesme, koylu sinifini yokedip, isci sinifini
+dogurmustur. Bilgi ekonomisi otomizasyon/robotlar sayesinde isci
+sinifini yokedip, yeni bir sinif yaratacaktir (mesela Israil'de hic
+isci calistirmayan bir fabrika simdiden mevcut).
 
-Muhakkak bir demokrasi bir sanayi toplumu icin iyidir (sart olmayabilir, sadece alternatifinden daha iyidir), fakat bu demokrasi daha cok artan zenginlerin guc paylasmasini yansitir.
+Muhakkak bir demokrasi bir sanayi toplumu icin iyidir (sart
+olmayabilir, sadece alternatifinden daha iyidir), fakat bu demokrasi
+daha cok artan zenginlerin guc paylasmasini yansitir.
 
-Beyaz yakali toplumlarda demokrasi istegi, gerekliligi artik beser seviyesine inmistir, ve ihtiyac seviyesi had safhada artmistir... Gunluk isinde surekli kafasini kullanan bir adami bos propagandalar, hamasi nutuklar ile dolduramazsiniz. Eninde sonunda bir gun hesap verilebilirlik (accountability) bekleyecek, seffaflik isteyecek, guc paylasimi gozetecektir. Ciddi toplantilarda sozu dinlenen kisi, en azindan, oyunun hice sayilmasini katiyen icine sindirmeyecektir!
+Beyaz yakali toplumlarda demokrasi istegi, gerekliligi artik beser
+seviyesine inmistir, ve ihtiyac seviyesi had safhada
+artmistir... Gunluk isinde surekli kafasini kullanan bir adami bos
+propagandalar, hamasi nutuklar ile dolduramazsiniz. Eninde sonunda bir
+gun hesap verilebilirlik (accountability) bekleyecek, seffaflik
+isteyecek, guc paylasimi gozetecektir. Ciddi toplantilarda sozu
+dinlenen kisi, en azindan, oyunun hice sayilmasini katiyen icine
+sindirmeyecektir!
 
-Bu konuda iyi bir ornek su olabilir; Bilgisayar tutkusu yuzunden neredeyse iki kere askerligi birakmayi dusunmus olan eski GK baskani Org. Hilmi Ozkok'un ayni zamanda Turkiye tarihinin en demokrat pasalarindan biridir! Bu durum teoriye cuk diye oturmaktadir!
+Bu konuda iyi bir ornek su olabilir; Bilgisayar tutkusu yuzunden
+neredeyse iki kere askerligi birakmayi dusunmus olan eski GK baskani
+Org. Hilmi Ozkok'un ayni zamanda Turkiye tarihinin en demokrat
+pasalarindan biridir! Bu durum teoriye cuk diye oturmaktadir!
+
+---
 
 Nabi Yagci
 
-Çünkü bugünün sorunları için yetersiz Marksist felsefe. Çünkü sanayi sonrası toplumundayız. Marksist felsefe ise sanayi toplumunda ortaya çıktı. Marks çağını aşan bir filozof ama eksik bıraktığı çok şey var. Din, psikoloji gibi ekonomi dışı etmenleri Marks işlememiş. Ancak sınıf analizi denilen şey Marks’tan edindiğimiz bir kazanımdır. Bugün AKP analizini hangi ekonomik sınıflara dayandığına bakarak yapıyoruz. [..] Zaten bizde solun kendisiyle hesaplaşabilmesi için Marks’ı yeniden okuması lazım. Onunla da yetinmeyip Marks’ın eksik bıraktıklarını görebilmesi lazım. Mesela Max Weber’i okuması lazım. [..]
+Çünkü bugünün sorunları için yetersiz Marksist felsefe. Çünkü sanayi
+sonrası toplumundayız. Marksist felsefe ise sanayi toplumunda ortaya
+çıktı. Marks çağını aşan bir filozof ama eksik bıraktığı çok şey
+var. Din, psikoloji gibi ekonomi dışı etmenleri Marks işlememiş. Ancak
+sınıf analizi denilen şey Marks’tan edindiğimiz bir kazanımdır. Bugün
+AKP analizini hangi ekonomik sınıflara dayandığına bakarak
+yapıyoruz. [..] Zaten bizde solun kendisiyle hesaplaşabilmesi için
+Marks’ı yeniden okuması lazım. Onunla da yetinmeyip Marks’ın eksik
+bıraktıklarını görebilmesi lazım. Mesela Max Weber’i okuması
+lazım. [..]
 
 Neredeyse tam dogru
 
-Sn. Yagci, Altan'dan bir adim daha ileride; Endustri sonrasi toplumu analizine katmis. Tek eklemek istedigimiz nokta, kendisinin sol kelimesini hala gundemde tutmaya cabaliyor olmasidir. Bizce, uretim yontemindeki degisim o kadar buyuktur ki, sag ve sol kelimeleri tamamen anlamini yitirmistir. Bu terminolojiyi tamamen silip atarak, yeni bir terminoloji edinmemiz gerekiyor. Popper'in dedigi gibi optimal bir bilim felsefesi "deneme yanilma (trial and error)" sistematigi uzerine kurulmalidir, tez, anti-tez, sentez sistematigi artik tarihe karismis bir yontemdir. Yani eski terminolojinin parcasi olan "sol" kelimesini illa bugunku durum ile "sentezlemeye" gerek yoktur. Silip atmak daha uygundur.
+Sn. Yagci, Altan'dan bir adim daha ileride; Endustri sonrasi toplumu
+analizine katmis. Tek eklemek istedigimiz nokta, kendisinin sol
+kelimesini hala gundemde tutmaya cabaliyor olmasidir. Bizce, uretim
+yontemindeki degisim o kadar buyuktur ki, sag ve sol kelimeleri
+tamamen anlamini yitirmistir. Bu terminolojiyi tamamen silip atarak,
+yeni bir terminoloji edinmemiz gerekiyor. Popper'in dedigi gibi
+optimal bir bilim felsefesi "deneme yanilma (trial and error)"
+sistematigi uzerine kurulmalidir, tez, anti-tez, sentez sistematigi
+artik tarihe karismis bir yontemdir. Yani eski terminolojinin parcasi
+olan "sol" kelimesini illa bugunku durum ile "sentezlemeye" gerek
+yoktur. Silip atmak daha uygundur.
 
-Degisimciligi tarif etmek icin ABD'de kullanilan terim, ilerleyici/gelisimci (progressive) olmaktir. Mesela Bill Clinton (ki bir sol partiden geliyordu) kendini hem Yeni Demokrat hem de bir "Ilerici Demokrat" olarak tarif ediyordu. "Ben sol oldugum icin degisimciyim" demiyordu.
+Degisimciligi tarif etmek icin ABD'de kullanilan terim,
+ilerleyici/gelisimci (progressive) olmaktir. Mesela Bill Clinton (ki
+bir sol partiden geliyordu) kendini hem Yeni Demokrat hem de bir
+"Ilerici Demokrat" olarak tarif ediyordu. "Ben sol oldugum icin
+degisimciyim" demiyordu.
 
-Bir ek te Weber hakkinda. Weber endustriyel bir toplum icin gidilebilecek en ileri noktaya gitmistir. Marks'i asmis, Durkheim'i katlamistir. Tek eksigi, icinde oldugu cag sebebiyle "burokrasilerin zaferini" yanlis bir sekilde tahmin etmis olmasidir. Bizce burokrasi konusunda "zaferi kurgulayan" Weber degil, onlarin "cokusunu goren" Warren Bennis hakli cikacaktir.
+Bir ek te Weber hakkinda. Weber endustriyel bir toplum icin
+gidilebilecek en ileri noktaya gitmistir. Marks'i asmis, Durkheim'i
+katlamistir. Tek eksigi, icinde oldugu cag sebebiyle "burokrasilerin
+zaferini" yanlis bir sekilde tahmin etmis olmasidir. Bizce burokrasi
+konusunda "zaferi kurgulayan" Weber degil, onlarin "cokusunu goren"
+Warren Bennis hakli cikacaktir.
 
-Bir Internet Yorumcusu
-
-Ben sosyalistim cunku yardimseverim
-
-Sacma
-
-"Ben sosyalistim" demek, "ben bir ulkede gasp rejimi kurarak insanlarin urettigine, malina el konan sistemi destekliyorum" demektir. Tarih ispatlamistir ki bu rejim sefalet uretir cunku bireyi kamcilayan sahip olma, sorumluluk alma duygusu koreltilmistir.
-
-Sefalet uretince de fakirlere dagitilacak para miktari azalacaktir. Demek ki gercekten yardimsever olan insan, sosyalistim degil, serbest piyasaciyim demelidir. Ama yorumcu aslinda "ben kapitalist toplumda yasayip sosyalist olmak istiyorum" diyorsa, bu terminolojiye yapilan bir saygisizliktir. Kelimelerin ne soyledigine ozen gostermemiz gerekiyor.
-
-Ama illa icinde "sosyal" kelimesi gecen bir terim kullanilacaksa (hani olur ya, sosyal kelimesi fetisizmi vardir), o zaman "ben sosyal hizmetleri fazla olan bir kapitalist toplumda yasamak istiyorum" gibi bir cumle kurulabilir. Burada az vergi/cok vergi konusu devreye girer, boyle gider.
-
-Ayrica serbest piyasaci olmak, bireysel seviyede insanlara yardim yapamayacaginiz anlamina da gelmez.
+---
 
 Hadi Uluengin
 
-YANILMA payını açık bırakıyorum, çünkü bu satırlar yazılırken failler bilinmiyordu. Ama yine de bana sorarsanız, Güngören katliamı PKK kokuyor. Leş gibi koyuyor. Şöyle ki, kalleş ve hain saldırı çok büyük ihtimalle, başta Kandil bombardımanı olmak üzere, tedhişçilere yönelik son askeri operasyonlara karşı bir "misilleme" olarak düzenlendi. Eh, kurt puslu havayı sevdiğine ve "Ergenekon iddianamesindeki bariz "kara"lar spekülatif "gri"lerle karıştığına göre, şu an kasten susmak da PKK’nın taktiğine uygun düşüyor. [..] Zira, insani etik ve değerler açısından kaybedecek hiçbir şeyi olmayan "umutsuzlar", tek bir blok addettikleri "hasım tarafı" da aynı tür "insaniyetsizlikler"e zorlamak isterler. EVET bunu arzularlar ve de nitekim PKK, onunla restleşmeye teşne bir "ulusalcılık" idelojisini ve bu hezeyanın en dibe vurduğu "Ergenekon" garabetini, çelişki esnekleştirecek ve sorunu çözümleyecek demokratik bir Türkiye’ye haydi haydi tercih eder ve etmektedir. Çünkü, zaten "aynı telden çaldığı" birincisiyle bilek güreşine girmek şansı vardır.
+YANILMA payını açık bırakıyorum, çünkü bu satırlar yazılırken failler
+bilinmiyordu. Ama yine de bana sorarsanız, Güngören katliamı PKK
+kokuyor. Leş gibi koyuyor. Şöyle ki, kalleş ve hain saldırı çok büyük
+ihtimalle, başta Kandil bombardımanı olmak üzere, tedhişçilere yönelik
+son askeri operasyonlara karşı bir "misilleme" olarak düzenlendi. Eh,
+kurt puslu havayı sevdiğine ve "Ergenekon iddianamesindeki bariz
+"kara"lar spekülatif "gri"lerle karıştığına göre, şu an kasten susmak
+da PKK’nın taktiğine uygun düşüyor. [..] Zira, insani etik ve değerler
+açısından kaybedecek hiçbir şeyi olmayan "umutsuzlar", tek bir blok
+addettikleri "hasım tarafı" da aynı tür "insaniyetsizlikler"e zorlamak
+isterler. EVET bunu arzularlar ve de nitekim PKK, onunla restleşmeye
+teşne bir "ulusalcılık" idelojisini ve bu hezeyanın en dibe vurduğu
+"Ergenekon" garabetini, çelişki esnekleştirecek ve sorunu çözümleyecek
+demokratik bir Türkiye’ye haydi haydi tercih eder ve
+etmektedir. Çünkü, zaten "aynı telden çaldığı" birincisiyle bilek
+güreşine girmek şansı vardır.
 
 Mantikli
 
-En son bilgilere gore secenegim %55 PKK, %45 Ergenekon tarafinda olurdu. Bu saldiri her iki teror ortugu icin faydalidir, PKK'nin "biz yapmadik" demesinin hicbir anlami yoktur. Teror her zaman bir "reklam kampanyasi" olmak zorunda degildir.
+En son bilgilere gore secenegim %55 PKK, %45 Ergenekon tarafinda
+olurdu. Bu saldiri her iki teror ortugu icin faydalidir, PKK'nin "biz
+yapmadik" demesinin hicbir anlami yoktur. Teror her zaman bir "reklam
+kampanyasi" olmak zorunda degildir.
 
-Fakat esas ilginc olan analiz bu degil. Ilginc olan, AKP, Askeriye, CHP ve bir kisim medya'nin tek bir agizdan "kesin PKK" demesidir! Uzlasma gerceklesmise benziyor!
+Fakat esas ilginc olan analiz bu degil. Ilginc olan, AKP, Askeriye,
+CHP ve bir kisim medya'nin tek bir agizdan "kesin PKK" demesidir!
+Uzlasma gerceklesmise benziyor!
 
+---
 
 Cengiz Candar
 
@@ -287,32 +451,30 @@ geriye kalan yuzde aynen budur). Bu sayilar, Normal Egrinin sag ve sol
 kismindaki "uc noktalarda" olacaktir. Makul vatandas ise daha buyuk
 bir yuzdeyi temsil eden orta kisimdadir.
 
-
-
-
-
-
-
-zaman:
-
-Temmuz 16, 2008
-
-
-
-
-
-
-
-
-
+---
 
 Mehmet Barlas
 
-Şu "değişim" denilen kavram, kimbilir kaç kez konu oldu yazılarımıza. Dün de, "STV"de, Hüseyin Gülerce'nin programında, Prof. Dr. Mustafa Erdoğan'la birlikte, yine "değişim"i irdeledik.. Hiç unutmayalım.. İnsanlar pek değişmez.. Ama olaylar ve şartlar, ne olursa olsun değişir..
+Şu "değişim" denilen kavram, kimbilir kaç kez konu oldu
+yazılarımıza. Dün de, "STV"de, Hüseyin Gülerce'nin programında,
+Prof. Dr. Mustafa Erdoğan'la birlikte, yine "değişim"i irdeledik.. Hiç
+unutmayalım.. İnsanlar pek değişmez.. Ama olaylar ve şartlar, ne
+olursa olsun değişir..
 
-"Değişim"le sosyolojik açıdan ifade edilen olay, insanların "huy değiştirmesi" değil, insanların değişime "uyum göstermesi"dir.. "Değişim", bir kuşak meselesi de değildir. Neticede Türk toplumu, Tanzimat'tan beri, yeni kuşakların gelip, ülkenin siyasetini, ekonomisini ve yapısını değiştirmesini bekliyor.. Oysa mezarlıklar, daha önceki davranışları aynen tekrarlamış, eski genç kuşakların cenazeleri ile dolu.. Daha da ötesi, bu dünyada da, "öbür dünyada" da, değişime karşı kendi modellerini koyup, gelişimi dondurmaya çalışan sayısız "toplum mühendisi" Türk var..
+"Değişim"le sosyolojik açıdan ifade edilen olay, insanların "huy
+değiştirmesi" değil, insanların değişime "uyum
+göstermesi"dir.. "Değişim", bir kuşak meselesi de değildir. Neticede
+Türk toplumu, Tanzimat'tan beri, yeni kuşakların gelip, ülkenin
+siyasetini, ekonomisini ve yapısını değiştirmesini bekliyor.. Oysa
+mezarlıklar, daha önceki davranışları aynen tekrarlamış, eski genç
+kuşakların cenazeleri ile dolu.. Daha da ötesi, bu dünyada da, "öbür
+dünyada" da, değişime karşı kendi modellerini koyup, gelişimi
+dondurmaya çalışan sayısız "toplum mühendisi" Türk var..
 
-Oysa bizim "değişim mühendisi" Türkler'e ihtiyacımız var.. Dünyada ve yurtta yer alan ve önüne geçilmesi mümkün olmayan değişimin yönünü önceden hissedip, toplumun önündeki engelleri kaldıran ve ülkeye "vizyon" açan kişilere, "değişim mühendisi" deniliyor..
+Oysa bizim "değişim mühendisi" Türkler'e ihtiyacımız var.. Dünyada ve
+yurtta yer alan ve önüne geçilmesi mümkün olmayan değişimin yönünü
+önceden hissedip, toplumun önündeki engelleri kaldıran ve ülkeye
+"vizyon" açan kişilere, "değişim mühendisi" deniliyor..
 
 Dogru
 
@@ -320,91 +482,167 @@ Bu eski Barlas yenisinden daha akilli galiba. Yenisi "ne kadar cok sey degisirse
 
 Oral Calisanlar
 
-Ergenekon soruşturmasının derinleştirilmesi, darbecilerden, katillerden hesap sorulması yeni bir dönemin başlangıcı olacaktır. Bu yeni döneme geçiş, siyaset-asker ilişkisinin de normalleşmesi için bir yol açacaktır. Askerin siyaset dışında kalmaya alışması için bir sivil uzlaşmaya ihtiyaç var.
+Ergenekon soruşturmasının derinleştirilmesi, darbecilerden,
+katillerden hesap sorulması yeni bir dönemin başlangıcı olacaktır. Bu
+yeni döneme geçiş, siyaset-asker ilişkisinin de normalleşmesi için bir
+yol açacaktır. Askerin siyaset dışında kalmaya alışması için bir sivil
+uzlaşmaya ihtiyaç var.
 
-Evet, insanın gençliğinden itibaren edindiği alışkanlıklarından vazgeçmesi kolay değil. Gençliğinde kazanamadığı bazı alışkanlıkları da (mesela demokrasi) sonradan kazanması kolay değil. Ama alışkanlıkların değiştirilmesi bazen şart olabiliyor. Demokrasiyi sigara gibi bir ‘sağlıksız alışkanlık’, siyasete müdahale etmeyi ise bir ‘iyi alışkanlık’ olarak görenler, alışkanlıklarını değiştirmek zorundalar.
+Evet, insanın gençliğinden itibaren edindiği alışkanlıklarından
+vazgeçmesi kolay değil. Gençliğinde kazanamadığı bazı alışkanlıkları
+da (mesela demokrasi) sonradan kazanması kolay değil. Ama
+alışkanlıkların değiştirilmesi bazen şart olabiliyor. Demokrasiyi
+sigara gibi bir ‘sağlıksız alışkanlık’, siyasete müdahale etmeyi ise
+bir ‘iyi alışkanlık’ olarak görenler, alışkanlıklarını değiştirmek
+zorundalar.
 
-Simdi AKP’ye kızıp Ergenekoncuları savunmaya bahane arayanların 2001 yılında Ecevit’in de iktidardan indirilmek istendiği görmeleri gerekiyor. Ecevit şeriatçı mıydı?
+Simdi AKP’ye kızıp Ergenekoncuları savunmaya bahane arayanların 2001
+yılında Ecevit’in de iktidardan indirilmek istendiği görmeleri
+gerekiyor. Ecevit şeriatçı mıydı?
 
-2001 yılındaki müdahale, Ergenekon’la karşılaştırıldığında daha masum görünebilir. Ama unutmayalım ki, kendisinde bu gücü ve hakkı gören bazı askerler, başka koşullarda başka şeyler de yapabileceklerine inanmaya başlayabilirler.
+2001 yılındaki müdahale, Ergenekon’la karşılaştırıldığında daha masum
+görünebilir. Ama unutmayalım ki, kendisinde bu gücü ve hakkı gören
+bazı askerler, başka koşullarda başka şeyler de yapabileceklerine
+inanmaya başlayabilirler.
 
-Ergenekoncular da sonuç olarak ‘memleketi kurtarma’ inancı ya da gerekçesiyle yapmışlar bütün bunları...
+Ergenekoncular da sonuç olarak ‘memleketi kurtarma’ inancı ya da
+gerekçesiyle yapmışlar bütün bunları...
 
 Özü itibarıyla arada bir fark olduğunu sanmıyorum...
 
-Ergekon davası, asker-siyaset ilişkisinde yeni bir sorgulama dönemine imkân verecektir...
+Ergekon davası, asker-siyaset ilişkisinde yeni bir sorgulama dönemine
+imkân verecektir...
 
 Katiliyorum
 
+---
+
 Necdet Sen
 
-Bu kadar çok bilgi, belge, kanıt ortaya dökülmüşken, komplolar, cinayet şebekeleri, dehşetengiz planlar dava dosyalarına işlenirken ve mızrak çuvala sığdırılamazken, nasıl oluyor da kendisini bu güne kadar ‘darbelere karşı’ hatta ‘darbelerin mağduru’ olarak görmüş bir kesim, bu soruşturmaya ‘inanmam da inanmam’ deyip direnebiliyor?
+Bu kadar çok bilgi, belge, kanıt ortaya dökülmüşken, komplolar,
+cinayet şebekeleri, dehşetengiz planlar dava dosyalarına işlenirken ve
+mızrak çuvala sığdırılamazken, nasıl oluyor da kendisini bu güne kadar
+‘darbelere karşı’ hatta ‘darbelerin mağduru’ olarak görmüş bir kesim,
+bu soruşturmaya ‘inanmam da inanmam’ deyip direnebiliyor?
 
-Neden Susurluk yol kazasına mal bulmuş magrıbî gibi dalan medya şimdi ikiye yarıldı da büyük kısmı ‘hepsi palavra’ diye ayak diretiyor?
+Neden Susurluk yol kazasına mal bulmuş magrıbî gibi dalan medya şimdi
+ikiye yarıldı da büyük kısmı ‘hepsi palavra’ diye ayak diretiyor?
 
-Tamam, belli ki bazı plaza yöneticileri ve yazarları o ekspres trene vaktiyle binmiş, tren hızlandıkça panikliyor ve bir türlü atlayamıyorlar, son durağa kadar trende kalmak zorundalar artık.
+Tamam, belli ki bazı plaza yöneticileri ve yazarları o ekspres trene
+vaktiyle binmiş, tren hızlandıkça panikliyor ve bir türlü
+atlayamıyorlar, son durağa kadar trende kalmak zorundalar artık.
 
-Ama normal zamanlarda bu medyaya zerre kadar güvenmeyen bir kısım okur neden bugün onlarla hemfikir?
+Ama normal zamanlarda bu medyaya zerre kadar güvenmeyen bir kısım okur
+neden bugün onlarla hemfikir?
 
-Acaba bunun nedeni, o kitlede hep varolan kendisini bir şeylere ‘karşı’ olarak konumlandırma alışkanlığı olmasın?
+Acaba bunun nedeni, o kitlede hep varolan kendisini bir şeylere
+‘karşı’ olarak konumlandırma alışkanlığı olmasın?
 
-Bilmediği konularda ‘bilmiyorum’ demek yerine biliyormuş ayağına yatma ve bunun için de zahmete girmeden okunabilen köşelerden emanet fikir devşirme kolaycılığı?
+Bilmediği konularda ‘bilmiyorum’ demek yerine biliyormuş ayağına yatma
+ve bunun için de zahmete girmeden okunabilen köşelerden emanet fikir
+devşirme kolaycılığı?
 
 Yani zihinsel tembellik?
 
-Hatırlayalım, Susurluk kazasından sonra zamanın başbakanını konuya karşı tavır almış ve gayet basiretsiz bir üslûpla ‘fasafiso’, ‘mum söndü’ gibi ifadeler kullanmıştı.
+Hatırlayalım, Susurluk kazasından sonra zamanın başbakanını konuya
+karşı tavır almış ve gayet basiretsiz bir üslûpla ‘fasafiso’, ‘mum
+söndü’ gibi ifadeler kullanmıştı.
 
-Zaten ‘şeriatçı’ diye damgalanan ve hasım olarak algılanan Erbakan ve Refah Partisi böyle falsolu bir yola sapınca, üstelik de kurulu düzenin asıl patronu olan Silahlı Kuvvetler de bu protesto kampanyasına destek verince, bizim tatlı su aydınlarının ve medyanın çekineceği hiç bir şey kalmamıştı ortada. Dost ve Düşman gayet net belliydi zaten.
+Zaten ‘şeriatçı’ diye damgalanan ve hasım olarak algılanan Erbakan ve
+Refah Partisi böyle falsolu bir yola sapınca, üstelik de kurulu
+düzenin asıl patronu olan Silahlı Kuvvetler de bu protesto
+kampanyasına destek verince, bizim tatlı su aydınlarının ve medyanın
+çekineceği hiç bir şey kalmamıştı ortada. Dost ve Düşman gayet net
+belliydi zaten.
 
-Ama bugün çok daha karmaşık bir tablo var. Dehşetengiz bir örgüt ve başarısız bir darbe girişimi açığa çıkarıldı. Ama AKP hükümeti buna ‘fasafiso’ diyerek karşı çıkmak yerine üstüne gidiyor.
+Ama bugün çok daha karmaşık bir tablo var. Dehşetengiz bir örgüt ve
+başarısız bir darbe girişimi açığa çıkarıldı. Ama AKP hükümeti buna
+‘fasafiso’ diyerek karşı çıkmak yerine üstüne gidiyor.
 
 Zurna da orada zırt ediyor galiba.
 
-Kendi siyasal duruşunu AKP’ye ve onun temsil ettiği muhayyel Öcü’ye karşı olmak olarak tanımlayan kesim, AKP’nin yürüttüğü bir operasyona yandaş olmaktan çekiniyor.
+Kendi siyasal duruşunu AKP’ye ve onun temsil ettiği muhayyel Öcü’ye
+karşı olmak olarak tanımlayan kesim, AKP’nin yürüttüğü bir operasyona
+yandaş olmaktan çekiniyor.
 
 Çünkü bugüne kadar başkalarını ‘yoksa sen de mi AKP’nin kuyruğuna takıldın?’ diye sıkıştırırken, şimdi kendisinin de benzer bir suçlamaya maruz kalabilme ihtimalinden rahatsız.
 
-O zaman işin kolayına kaçıp, gazetelerde yazan ‘fasafiso’ türü hazırlop yorumlara bel bağlamak daha rahat geliyor.
+O zaman işin kolayına kaçıp, gazetelerde yazan ‘fasafiso’ türü
+hazırlop yorumlara bel bağlamak daha rahat geliyor.
 
 Nasıl olsa yalnız da değil. Bu nağme kalabalık bir koronun dilinde.
 
-Yarın işin rengi değişirse ‘ne yapalım yahu, ben de gazetelerin yazdıklarına aldandım’ deyip işin içinden sıyrılmak var nasıl olsa.
+Yarın işin rengi değişirse ‘ne yapalım yahu, ben de gazetelerin
+yazdıklarına aldandım’ deyip işin içinden sıyrılmak var nasıl olsa.
 
-Bu açıkgöz yurttaş modelinin, dört elle sarıldığı kolay muhalefetin kendisini 12 yıl öncesinin Necmettin Erbakan’ıyla aynı gaflet ve dalálet çizgisine düşürdüğünü anlaması için sanırım biraz daha zamana ihtiyacı var.
+Bu açıkgöz yurttaş modelinin, dört elle sarıldığı kolay muhalefetin
+kendisini 12 yıl öncesinin Necmettin Erbakan’ıyla aynı gaflet ve
+dalálet çizgisine düşürdüğünü anlaması için sanırım biraz daha zamana
+ihtiyacı var.
 
 Geçenlerde eski bir arkadaşımla karşılaştım.
 
 Havadan sudan konuşurken konu siyasete geldi.
 
-‘Yav’ dedi, ‘hatırlar mısın, o zamanlar (1990’lar) söylediğin her şey doğru çıktı’.
+‘Yav’ dedi, ‘hatırlar mısın, o zamanlar (1990’lar) söylediğin her şey
+doğru çıktı’.
 
-‘Doğru çıktı’ dediği, uzun zamandan bu yana dile getirdiğim ve başlangıçta pek fazla kişiyi inandıramadığım şeyler: Sovyet bloku dağılınca şallak mallak olan bir kısım solun kapağı kof bir doktrin olan Kemalizm’e attığı, ‘şeriat tehlikesi’nin aslında yapay bir ‘öcü’ olduğu, korku duygusuyla baş edemeyen insanların otoriter rejimlere meylettiği, başörtüsü yasağının despotik özü, kendisini ‘çağdaş’ diye tanıtan zümrenin bir bölümünün aslında seçkinci ve darbe destekçisi olduğu, medyanın, yargının, üniversitelerin ‘sol’ kisvesi altında bal gibi kurulu düzenin avukatlığına soyunduğu gibi bugünün artık yaygınlaşmış fikirleri.
+‘Doğru çıktı’ dediği, uzun zamandan bu yana dile getirdiğim ve
+başlangıçta pek fazla kişiyi inandıramadığım şeyler: Sovyet bloku
+dağılınca şallak mallak olan bir kısım solun kapağı kof bir doktrin
+olan Kemalizm’e attığı, ‘şeriat tehlikesi’nin aslında yapay bir ‘öcü’
+olduğu, korku duygusuyla baş edemeyen insanların otoriter rejimlere
+meylettiği, başörtüsü yasağının despotik özü, kendisini ‘çağdaş’ diye
+tanıtan zümrenin bir bölümünün aslında seçkinci ve darbe destekçisi
+olduğu, medyanın, yargının, üniversitelerin ‘sol’ kisvesi altında bal
+gibi kurulu düzenin avukatlığına soyunduğu gibi bugünün artık
+yaygınlaşmış fikirleri.
 
-Dayanamadım, ‘ama o zaman bana kan kusturdunuz bunları söylediğim için’ dedim.
+Dayanamadım, ‘ama o zaman bana kan kusturdunuz bunları söylediğim
+için’ dedim.
 
 Sırıttı, ‘biraz erken söyledin’ dedi.
 
-Kanımı kurutana kadar didişmek yerine anlamaya çabalamadığı için özür falan dilemedi tabii ki.
+Kanımı kurutana kadar didişmek yerine anlamaya çabalamadığı için özür
+falan dilemedi tabii ki.
 
-Konformizm: Kendisini zora sokacak, rahatını kaçıracak, toplumla çatışmasına neden olacak davranışlardan ve fikirlerden uzak durma, ‘uyaroğlu’ takılma, vicdanı tersini emretse de kolay yolu seçme, gelene ağam gidene paşam deme, etliye sütlüye karışmama, kokmama, bulaşmama, itaat etme, işin kolayına kaçma hali.
+Konformizm: Kendisini zora sokacak, rahatını kaçıracak, toplumla
+çatışmasına neden olacak davranışlardan ve fikirlerden uzak durma,
+‘uyaroğlu’ takılma, vicdanı tersini emretse de kolay yolu seçme,
+gelene ağam gidene paşam deme, etliye sütlüye karışmama, kokmama,
+bulaşmama, itaat etme, işin kolayına kaçma hali.
 
 Katiliyorum
 
-Hatta daha ileri gidersek, konfirmizm aslinda Ayn Rand'in "ilkesel dusunemeyenler" olarak betimledigi grubun ta kendisidir. Bu insanlar icin kavramlar yerine "kabile" vardir, fikirler yerine "kisiler" vardir. Bu kisiler icinde oldugu grup ne dusunurse onu dusunur. O grubun kurallarin kim koyar? Mitik, tarihte kalmis bir takim "liderler". Mafya'nin temeli budur. Sosyalizm'in temeli budur. Her turlu kollektivist ideolojinin temeli budur.
+Hatta daha ileri gidersek, konfirmizm aslinda Ayn Rand'in "ilkesel
+dusunemeyenler" olarak betimledigi grubun ta kendisidir. Bu insanlar
+icin kavramlar yerine "kabile" vardir, fikirler yerine "kisiler"
+vardir. Bu kisiler icinde oldugu grup ne dusunurse onu dusunur. O
+grubun kurallarin kim koyar? Mitik, tarihte kalmis bir takim
+"liderler". Mafya'nin temeli budur. Sosyalizm'in temeli budur. Her
+turlu kollektivist ideolojinin temeli budur.
+
+---
 
 Ahmet Kekec
 
-Dün Susurluk çetesine karşı çıkanlar, bugün neden Ergenekon terör örgütünün savunucusu oldular?
+Dün Susurluk çetesine karşı çıkanlar, bugün neden Ergenekon terör
+örgütünün savunucusu oldular?
 
 Bunda anlaşılmayacak bir şey yok.
 
 Çünkü, Susurluk bir bahaneydi.
 
-Çetelerin devleti ele geçirdiği ve bağlı olarak ‘laikliğin tehlikeye düşürüldüğü’ tezi, geleneksel irtica politikalarının bereketiyle ayakta durmaya çalışan çevrelerin ‘halkı devlete yaklaştırmama’ politikasının bir devamıydı sadece...
+Çetelerin devleti ele geçirdiği ve bağlı olarak ‘laikliğin tehlikeye
+düşürüldüğü’ tezi, geleneksel irtica politikalarının bereketiyle
+ayakta durmaya çalışan çevrelerin ‘halkı devlete yaklaştırmama’
+politikasının bir devamıydı sadece...
 
 Üstelik, bu iki örgüt arasında akrabalık bağı mevcut.
 
-Bu bağ apaçık ortadayken, ‘Susurluk’ eyyamında başı çeken bir kısım basın neden tuhaf, anlaşılmaz, rasyonalize edilemez bir suskunluk içinde?
+Bu bağ apaçık ortadayken, ‘Susurluk’ eyyamında başı çeken bir kısım
+basın neden tuhaf, anlaşılmaz, rasyonalize edilemez bir suskunluk
+içinde?
 
 Hayır, suskunluk içinde de değiller.
 
@@ -416,33 +654,74 @@ Sorun, siyaset kurumunun inisiyatif almaya başlamasıymış.
 
 Katiliyorum
 
+---
+
 Engin Ardic
 
-Bir romana, yani içindeki kişilerin kendi özel duygu ve düşünceleri olan bir sanat eserine, bir "essay" (deneme) ya da bir "pamphlet" (risale) muamelesi ediyorlar. Elif Şafak'ın başına gelenleri hatırlayalım. Açılan dava aklanmayla sonuçlanıyor, çekilen üzüntü de yazarın yanına kalıyor (kimi zaman da bu reklamdan doğan "fırsat rantı" tabii!) Sevgili dostum ve sınıf arkadaşım Nedim Gürsel yeni bir roman yazdı: "Allah'ın Kızları". İslam'ın ilk günlerini anlatıyor... Savcılığa düştü.
+Bir romana, yani içindeki kişilerin kendi özel duygu ve düşünceleri
+olan bir sanat eserine, bir "essay" (deneme) ya da bir "pamphlet"
+(risale) muamelesi ediyorlar. Elif Şafak'ın başına gelenleri
+hatırlayalım. Açılan dava aklanmayla sonuçlanıyor, çekilen üzüntü de
+yazarın yanına kalıyor (kimi zaman da bu reklamdan doğan "fırsat
+rantı" tabii!) Sevgili dostum ve sınıf arkadaşım Nedim Gürsel yeni bir
+roman yazdı: "Allah'ın Kızları". İslam'ın ilk günlerini
+anlatıyor... Savcılığa düştü.
 
-Aklınıza hemen Salman Rüşdü gelmesin, Nedim kimseye hakaret etmemiş. (Fakat herhalde Turkiye gibi bir ülkede kovuşturmaya uğrayacağını da tahmin ediyordu.)
+Aklınıza hemen Salman Rüşdü gelmesin, Nedim kimseye hakaret
+etmemiş. (Fakat herhalde Turkiye gibi bir ülkede kovuşturmaya
+uğrayacağını da tahmin ediyordu.)
 
-Bu romanda -elbette-Kureyş kabilesi de, putperestler de, cahiliyye dönemi artıkları da, peygamber efendimizin düşmanları da var ve onlar da elbetteefendimizin aleyhinde konuşuyorlar. Konuşacaklar. Onu öldürmeye de çalışacaklar. Bu romanda elbette Hatice anamız da, Ayşe anamız da olacaktır. Efendimizi seveceklerdir. Gerçek bu değil midir?
+Bu romanda -elbette-Kureyş kabilesi de, putperestler de, cahiliyye
+dönemi artıkları da, peygamber efendimizin düşmanları da var ve onlar
+da elbetteefendimizin aleyhinde konuşuyorlar. Konuşacaklar. Onu
+öldürmeye de çalışacaklar. Bu romanda elbette Hatice anamız da, Ayşe
+anamız da olacaktır. Efendimizi seveceklerdir. Gerçek bu değil midir?
 
-Ne yani, Ebu Cehil, "ben aşağılık bir herifim, Muhammed Mustafa'nın yanında beşpara etmem" mi diyecekti?
+Ne yani, Ebu Cehil, "ben aşağılık bir herifim, Muhammed Mustafa'nın
+yanında beşpara etmem" mi diyecekti?
 
-Lütfen sanat eserini sanat eseri olarak değerlendirmeyi bilelim ve ele güne gene rezil olmayalım.
-Nedim Gürsel ve eserleri hakkında olumlu ya da olumsuz yargıyı eleştirmenler ve okurları verirler.
+Lütfen sanat eserini sanat eseri olarak değerlendirmeyi bilelim ve ele
+güne gene rezil olmayalım.
+
+Nedim Gürsel ve eserleri hakkında olumlu ya da olumsuz yargıyı
+eleştirmenler ve okurları verirler.
 
 Katiliyorum
 
-Deniz GokceNedir en ölümcül özelliklerimiz?  [..] her şeyin şikelendiğini, sürekli birilerinin avanta kaptığını, bizim ise dışarıda kaldığımızı düşünerek, talana ortak olamamanın depresyonu ile sağa sola saldırmak.Dogru* Mesela dünya çapında petrol ve diğer enerji fiyatlarının spekülatörler tarafında şişirildiği tezi sık sık gündeme geliyor. Canım ülkemin çoğunluğu bu teze endeksli ve abonedir. Bunu mesela pirinç fiyatlarında yaşadık. Pirinçte arz talep dengesi gelişen ülkelerde gelir artışı nedeni ile bozulunca ve üretici ülkeler kendi tüketimleri için ihracatı sıkınca , pirinç fiyatları spekülatörler tarafında şikeleniyor feryatları ortalığı sardı. Sonra aynı olgunun tüm dünyada gerçekleştiği öğrenildi, dünyada sorunu arz ve talebe bağlayınca kavga gürültü üç beş gün sonra durdu.Dogru* Şimdi aynı tartışma petrol ve her türlü enerji fiyatında yaşanıyor. Petrolün fiyatı 150 dolara dayandı. Bu artış “future” piyasası denen vadeli piyasada yaşanan bir fiyat artışı. Spot piyasa denen günlük piyasada ise fiyatlar bunun altında.Tam dogru degil, ayrica"Petrol fiyati" denince bahsedilen hakikaten spot piyasadir, bu farki belirtmek gerekiyor, burasi tamam. Referans alinan bazi bilinen ham petroller fiyatlari vardir ve bu petroller hep bir lokasyona ve bir kaliteye endekslidir - unlu referans ham petrollerinden (crude) Brent Crude Oil ya da West Texas Intermediate sayilabilir... Fakat, bunlardan Brent Crude fiyati su anda $143, WTI fiyati $145. Gelecek fiyat ise $145 (kaynak). Yani fark ya cok az, ya da yok denecek kadar az.Ayrica: Genellikle spot piyasasi gelecek piyasasinin onunde gider. Paul Krugman adli bir ekonomist guzel bir plot'u konuyla alakali bir blog yorumunda vermis (altta).Krugman Gokce'nin degindigi gibi spekulasyonlara deginmis, ve o da spekulasyonlarin fiyatlari yukselttigine inanmiyor. Yani "buyuk konuda" Krugman, Gokce ayni fikirde - ben de katiliyorum, ama/ayrica spot ve gercek fiyat farki konusundaki bir hataya ve genel trende isaret ediyorum.
+---
 
+Deniz Gokce
 
-
-
-
-
-zaman:
-
-Temmuz 14, 2008
-
-
+Nedir en ölümcül özelliklerimiz?  [..] her şeyin
+şikelendiğini, sürekli birilerinin avanta kaptığını, bizim ise
+dışarıda kaldığımızı düşünerek, talana ortak olamamanın depresyonu ile
+sağa sola saldırmak.Dogru* Mesela dünya çapında petrol ve diğer enerji
+fiyatlarının spekülatörler tarafında şişirildiği tezi sık sık gündeme
+geliyor. Canım ülkemin çoğunluğu bu teze endeksli ve abonedir. Bunu
+mesela pirinç fiyatlarında yaşadık. Pirinçte arz talep dengesi gelişen
+ülkelerde gelir artışı nedeni ile bozulunca ve üretici ülkeler kendi
+tüketimleri için ihracatı sıkınca , pirinç fiyatları spekülatörler
+tarafında şikeleniyor feryatları ortalığı sardı. Sonra aynı olgunun
+tüm dünyada gerçekleştiği öğrenildi, dünyada sorunu arz ve talebe
+bağlayınca kavga gürültü üç beş gün sonra durdu.Dogru* Şimdi aynı
+tartışma petrol ve her türlü enerji fiyatında yaşanıyor. Petrolün
+fiyatı 150 dolara dayandı. Bu artış “future” piyasası denen vadeli
+piyasada yaşanan bir fiyat artışı. Spot piyasa denen günlük piyasada
+ise fiyatlar bunun altında.Tam dogru degil, ayrica"Petrol fiyati"
+denince bahsedilen hakikaten spot piyasadir, bu farki belirtmek
+gerekiyor, burasi tamam. Referans alinan bazi bilinen ham petroller
+fiyatlari vardir ve bu petroller hep bir lokasyona ve bir kaliteye
+endekslidir - unlu referans ham petrollerinden (crude) Brent Crude Oil
+ya da West Texas Intermediate sayilabilir... Fakat, bunlardan Brent
+Crude fiyati su anda $143, WTI fiyati $145. Gelecek fiyat ise $145
+(kaynak). Yani fark ya cok az, ya da yok denecek kadar az.Ayrica:
+Genellikle spot piyasasi gelecek piyasasinin onunde gider. Paul
+Krugman adli bir ekonomist guzel bir plot'u konuyla alakali bir blog
+yorumunda vermis (altta).Krugman Gokce'nin degindigi gibi
+spekulasyonlara deginmis, ve o da spekulasyonlarin fiyatlari
+yukselttigine inanmiyor. Yani "buyuk konuda" Krugman, Gokce ayni
+fikirde - ben de katiliyorum, ama/ayrica spot ve gercek fiyat farki
+konusundaki bir hataya ve genel trende isaret ediyorum.
 
 
 
