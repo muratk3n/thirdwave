@@ -1,63 +1,130 @@
+# Hafta 12
 
 Hadi Uluengin
 
-O halde bir, öküz altında buzağı arayıp ve komplo teorilerine bir yenisini daha ekleyip, savcının jestini "yukarıdan eşgüdümlü" bir kumpas olarak açıklamanın álemi yok! Ortada ne "örgüt", ne "komplo" var! Ankara bürokratlarının ahbap?çavuş ilişkisi ve onların Sakarya meyhanelerindeki "laiklik gitti, gidiyor" vahvahı da bu gerçeği değiştirmez. Hasbelkader konumuna sığınıp kendine "misyon" vehmeden aklıevveller ibadullah. Fakat doğru, Başsavcı statüko açısından tabii ki "taktik" bir taarruza kalkıştı. Ancak, bu, harita okumayı bilmez ve ikmál kuvveti hesaplamaz işgüzar çavuşun, emir gelmeden ve tek başına karşı sipere yönelttiği başıbozuk saldırıdan farksızdır ki, nokta!
+O halde bir, öküz altında buzağı arayıp ve komplo teorilerine bir
+yenisini daha ekleyip, savcının jestini "yukarıdan eşgüdümlü" bir
+kumpas olarak açıklamanın álemi yok! Ortada ne "örgüt", ne "komplo"
+var! Ankara bürokratlarının ahbap?çavuş ilişkisi ve onların Sakarya
+meyhanelerindeki "laiklik gitti, gidiyor" vahvahı da bu gerçeği
+değiştirmez. Hasbelkader konumuna sığınıp kendine "misyon" vehmeden
+aklıevveller ibadullah. Fakat doğru, Başsavcı statüko açısından tabii
+ki "taktik" bir taarruza kalkıştı. Ancak, bu, harita okumayı bilmez ve
+ikmál kuvveti hesaplamaz işgüzar çavuşun, emir gelmeden ve tek başına
+karşı sipere yönelttiği başıbozuk saldırıdan farksızdır ki, nokta!
 
 Dogru
 
 Bizce de, bu deneme 'munferit' bir olaydir.
 
+---
+
 Kadir Copdemir
 
-Kimisi diyor ki "bu filme herkes gidiyor, film para kazaniyor kesin kotu filmdir gitmeyelim, bir baskasi da diyor bu film odul almis kesin kotudur, gitmeyelim. Bu ikisi arasinda bir orta nokta olmali".
+Kimisi diyor ki "bu filme herkes gidiyor, film para kazaniyor kesin
+kotu filmdir gitmeyelim, bir baskasi da diyor bu film odul almis kesin
+kotudur, gitmeyelim. Bu ikisi arasinda bir orta nokta olmali".
 
 Dogru
 
-O orta nokta su olmasin: "Bu film para kazaniyor, cok kisi gidiyor, o zaman iyi filmdir".
+O orta nokta su olmasin: "Bu film para kazaniyor, cok kisi gidiyor, o
+zaman iyi filmdir".
 
-Degil mi? Yani bunu dusunmek niye bu kadar zor? Tabii iyi derken, o seyircilerin icinden ciktigi grup icin gecerli genellemeden bahsediyoruz. Eger siz, genel sinema seyircisini temsil etmiyorsaniz, o zaman sizin iyi/kotu kriterleriniz bile toplumdan farkli demektir - o zaman o ulke baglaminda hicbir piyasa kiyaslamasina dahil olmamaniz lazim. Fakat topluma donuk bir irdeleme yapacaksaniz, o zaman insanlarin serbest bir piyasada cuzdanlari ile oy verdiklerini anlamamiz gerekiyor. Sinan Cetin'in konu hakkinda yorumlar suradadir (sonlara dogru).
+Degil mi? Yani bunu dusunmek niye bu kadar zor? Tabii iyi derken, o
+seyircilerin icinden ciktigi grup icin gecerli genellemeden
+bahsediyoruz. Eger siz, genel sinema seyircisini temsil etmiyorsaniz,
+o zaman sizin iyi/kotu kriterleriniz bile toplumdan farkli demektir -
+o zaman o ulke baglaminda hicbir piyasa kiyaslamasina dahil olmamaniz
+lazim. Fakat topluma donuk bir irdeleme yapacaksaniz, o zaman
+insanlarin serbest bir piyasada cuzdanlari ile oy verdiklerini
+anlamamiz gerekiyor. Sinan Cetin'in konu hakkinda yorumlar suradadir
+(sonlara dogru).
 
-Goze, kulaga guzel gelen sey, sanattir. Nokta. Baska hicbir tanima gerek yok... Sanatin bir seyi "temsil" etmesi, onu uretenin bir seyinin "disavurumu" olmasi gerekmez. Picasso'nun eserlerini begeniyorsaniz, iyi sanattir. Begenmiyorsaniz, degildir. Film gise rekorlari kirmissa, iyi filmdir, hic basarili olmamissa, bu irdelemeyi yaptiginiz grup baglaminda, film kotu filmdir.
+Goze, kulaga guzel gelen sey, sanattir. Nokta. Baska hicbir tanima
+gerek yok... Sanatin bir seyi "temsil" etmesi, onu uretenin bir
+seyinin "disavurumu" olmasi gerekmez. Picasso'nun eserlerini
+begeniyorsaniz, iyi sanattir. Begenmiyorsaniz, degildir. Film gise
+rekorlari kirmissa, iyi filmdir, hic basarili olmamissa, bu irdelemeyi
+yaptiginiz grup baglaminda, film kotu filmdir.
 
-Buradan hareketle, su unlu Kurtlar Vadisi hakkinda birkac yorum... Bu dizi mafya yapilanmasini, derin devleti yuceltiyor diye bir zaman cok elestirildi. Fakat "sanat hayati taklit eder, tersi degil" kuralina gore K.V dizisi, cekildigi zamandaki Turkiye'nin bir aynasiydi. Yani bu dizi cekilmekte oldugu icin derin devlet, ceteler olusmadi - onlar zaten vardi.
+Buradan hareketle, su unlu Kurtlar Vadisi hakkinda birkac yorum... Bu
+dizi mafya yapilanmasini, derin devleti yuceltiyor diye bir zaman cok
+elestirildi. Fakat "sanat hayati taklit eder, tersi degil" kuralina
+gore K.V dizisi, cekildigi zamandaki Turkiye'nin bir aynasiydi. Yani
+bu dizi cekilmekte oldugu icin derin devlet, ceteler olusmadi - onlar
+zaten vardi.
 
-Simdi ne oldu? Ceteler cokertiliyor, temizlik yapiliyor - ve (bazi yorumlardan anladigimiz uzere) Kurtlar Vadisi'nin havasi son zamanlarda degismeye baslamis. Bu is boyledir. Sanattan, ayni dusunceyi ifadeden korkmaya, onu sansurlemeye gerek yoktur, cunku sanat, fikir, mevcut durumun bir aynasidir.
+Simdi ne oldu? Ceteler cokertiliyor, temizlik yapiliyor - ve (bazi
+yorumlardan anladigimiz uzere) Kurtlar Vadisi'nin havasi son
+zamanlarda degismeye baslamis. Bu is boyledir. Sanattan, ayni
+dusunceyi ifadeden korkmaya, onu sansurlemeye gerek yoktur, cunku
+sanat, fikir, mevcut durumun bir aynasidir.
 
-Ayni sekilde, su anda televizyonlarda olan dizilere "feodal yapiyi yuceltiyor" diye elestiri yapmak sacmaliktir cunku bu mereti seyreden adamin biraz ustunu kazirsaniz, bir nesil oncesi koye dayanacaktir! Sohbet sirasinda biraz silkelersen uzerinden "imece, kuyu, keci, nadas" gibi kelimeler dokulecektir. Yani adamin kultur kodlarinda bu meret vardir - zamanla olmayacaktir, ama simdi vardir. O sebeple, bunu seyredecektir, bunu sevecektir. Siz begenmiyorsaniz, seyretmezsiniz.
+Ayni sekilde, su anda televizyonlarda olan dizilere "feodal yapiyi
+yuceltiyor" diye elestiri yapmak sacmaliktir cunku bu mereti seyreden
+adamin biraz ustunu kazirsaniz, bir nesil oncesi koye dayanacaktir!
+Sohbet sirasinda biraz silkelersen uzerinden "imece, kuyu, keci,
+nadas" gibi kelimeler dokulecektir. Yani adamin kultur kodlarinda bu
+meret vardir - zamanla olmayacaktir, ama simdi vardir. O sebeple, bunu
+seyredecektir, bunu sevecektir. Siz begenmiyorsaniz, seyretmezsiniz.
 
-Biz sahsen kayit ederek TV seyrederiz (hizli gecmek icin) ya da baska yollardan yabanci diziler.. Kayit edilenler, Turkce kanallardan TRT1, CnnTurk, Tgrt, Business Channel, NTV'den ibarettir (diger tum kanallar blok edilmistir). Hicbir Turkiyeli dizi seyretmeyiz. Hosumuza gitmiyor ama bu baskalarini elestirecegiz, o seyretmesin dedigimiz anlamina gelmez.
+Biz sahsen kayit ederek TV seyrederiz (hizli gecmek icin) ya da baska
+yollardan yabanci diziler.. Kayit edilenler, Turkce kanallardan TRT1,
+CnnTurk, Tgrt, Business Channel, NTV'den ibarettir (diger tum kanallar
+blok edilmistir). Hicbir Turkiyeli dizi seyretmeyiz. Hosumuza gitmiyor
+ama bu baskalarini elestirecegiz, o seyretmesin dedigimiz anlamina
+gelmez.
+
+---
 
 Ilber Ortayli
 
-"[Turkiyeli kelimesi] abuk sabuk, ne oldugu bilinmeyen, hic tutar bir tarafi olmayan bir laf[tir]" [1]
+"[Turkiyeli kelimesi] abuk sabuk, ne oldugu bilinmeyen, hic tutar bir
+tarafi olmayan bir laf[tir]" [1]
 
 Yanlis
 
-Eger zaman tunelinde geriye gitseydiniz, Kanadali veya Amerika'li kelimelerinin de "abuk sabuk sacma" bulanabilecegi bir zamana denk gelebilirdiniz. Turkiyeli kelimesi ne oldugu bilinmeyen bir kelime degildir, ne oldugu gayet net sekilde bilinmektedir: Mevcut Turkiye topraklarindan yasayan insanlar anlamina gelmektedir. Sn. Ortayli bunu gayet iyi biliyor tabii ki.
-
-
-----
+Eger zaman tunelinde geriye gitseydiniz, Kanadali veya Amerika'li
+kelimelerinin de "abuk sabuk sacma" bulanabilecegi bir zamana denk
+gelebilirdiniz. Turkiyeli kelimesi ne oldugu bilinmeyen bir kelime
+degildir, ne oldugu gayet net sekilde bilinmektedir: Mevcut Turkiye
+topraklarindan yasayan insanlar anlamina gelmektedir. Sn. Ortayli bunu
+gayet iyi biliyor tabii ki.
 
 [1] Cumhuriyet'imize Dair, Ismail Kucukkaya
-Tayyip ErdoganDünya Kadınlar Günü nedeniyle Uşak’ta düzenlenen toplantıda konuşan Erdoğan, kadınlara “Bunlar Türk milletinin kökünü kazımak istiyorlar, nüfusun azalmasını istemiyorsanız, 3 çocuk doğurun” dedi.DogruYani, 3 cocuk kismi dogru... Ama daha kesin bir sayi istiyorsaniz, her ailenin 2.1 cocugu olmalidir! :) Bu rakam gelismis ulkelerde (biz daha orada olmasak ta) nufusun saglikli devri-daimi (replacement) icin gereklidir.Bu rakam ile ABD'de bazen dalga gecilir - "evet, evlenecegim, suburbia'ya [1]  tasinacagim, ve 2.1 cocuk sahibi olacagim" bunlardan biri..Serdar TurgutDaha önce söyledim; ‘getir göster bir birinci sayfa manşetini ve buyur ulusalcılık de’ diye ama o başka yazarların köşe yazılarıyla münakaşa ediyor kendi kafasında.YanlisBahsedilen gazetede "darbecilik kotu bir sey degildir" kivaminda yazilarin ciktigi oldu. Sn. Turgut bunlardan haberdardir umuyoruz... Kendi gazetesini okuyor olmali.---[1] Suburbia, "sehir disi" yani "suburb" kelimesinin bir espriyle ulke ismi gibi kullanildigi bir durumdur cunku sehir disi yasayanlar bazen degisik bir ulkede yasiyor gibi olurlar. Mesela bu sebeple suburbia'nin krali olan New Jersey'den gelen okuldan tanidiklarimiz New York'u hic sevmez. Sevmemezlik ters yonde de isler tabi - NY da NJ'yi pek tutmaz. NJ'in halini en guzel Sopranos dizisinde gorebilirsiniz.
 
+Tayyip Erdogan
 
+Dünya Kadınlar Günü nedeniyle Uşak’ta düzenlenen toplantıda konuşan
+Erdoğan, kadınlara “Bunlar Türk milletinin kökünü kazımak istiyorlar,
+nüfusun azalmasını istemiyorsanız, 3 çocuk doğurun” dedi.
 
+Dogru
 
+Yani, 3 cocuk kismi dogru... Ama daha kesin bir sayi istiyorsaniz, her
+ailenin 2.1 cocugu olmalidir! :) Bu rakam gelismis ulkelerde (biz daha
+orada olmasak ta) nufusun saglikli devri-daimi (replacement) icin
+gereklidir.Bu rakam ile ABD'de bazen dalga gecilir - "evet,
+evlenecegim, suburbia'ya [1] tasinacagim, ve 2.1 cocuk sahibi
+olacagim" bunlardan biri..
 
+Serdar Turgut
 
+Daha önce söyledim; ‘getir göster bir birinci sayfa manşetini ve buyur
+ulusalcılık de’ diye ama o başka yazarların köşe yazılarıyla münakaşa
+ediyor kendi kafasında.
 
-zaman:
+Yanlis
 
-Mart 07, 2008
-
-
-
-
-
-
-
-
+Bahsedilen gazetede "darbecilik kotu bir sey degildir" kivaminda
+yazilarin ciktigi oldu. Sn. Turgut bunlardan haberdardir
+umuyoruz... Kendi gazetesini okuyor olmali.---[1] Suburbia, "sehir
+disi" yani "suburb" kelimesinin bir espriyle ulke ismi gibi
+kullanildigi bir durumdur cunku sehir disi yasayanlar bazen degisik
+bir ulkede yasiyor gibi olurlar. Mesela bu sebeple suburbia'nin krali
+olan New Jersey'den gelen okuldan tanidiklarimiz New York'u hic
+sevmez. Sevmemezlik ters yonde de isler tabi - NY da NJ'yi pek
+tutmaz. NJ'in halini en guzel Sopranos dizisinde gorebilirsiniz.
 
 
 ![](281750.jpg)
