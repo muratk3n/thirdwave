@@ -1,12 +1,23 @@
+# Hafta 32
 
 Suleyman Yasar
 
-Siyasetçi nasıl halkla inatlaşamazsa, işadamları da ekonomiyle inatlaşamaz. [..] Peki o zaman niye TÜSİAD referandumda evet demeyerek bütün bu hukuk dışılıkların sürmesini istiyor?
-Çünkü TÜSİAD, Anadolu sermayesinin sadece İstanbul'un ürettiklerinin "bayisi, acentesi" olmasına razı oluyor. [..] TÜSİAD, piyasaya, büyük sermayenin ürünlerinin dışında yeni ürünlerin girmesini istemiyor. Kendisine rakip mal üreten Anadolu sermayesinin yatırımlarını yok etmek istiyor. Hatırlanacaktır, Anadolulu pek çok işadamının fabrikası, İstanbul'un büyüklerine rakip oldukları için devletin gücü kullanılarak kapatılmıştı. Ama artık TÜSİAD Anadolu'yu engelleyemiyor. Çünkü siyasiler, TÜSİAD'ın isteklerini artık eskisi gibi gözü kapalı yerine getirmiyorlar.
+Siyasetçi nasıl halkla inatlaşamazsa, işadamları da ekonomiyle
+inatlaşamaz. [..] Peki o zaman niye TÜSİAD referandumda evet demeyerek
+bütün bu hukuk dışılıkların sürmesini istiyor?  Çünkü TÜSİAD, Anadolu
+sermayesinin sadece İstanbul'un ürettiklerinin "bayisi, acentesi"
+olmasına razı oluyor. [..] TÜSİAD, piyasaya, büyük sermayenin
+ürünlerinin dışında yeni ürünlerin girmesini istemiyor. Kendisine
+rakip mal üreten Anadolu sermayesinin yatırımlarını yok etmek
+istiyor. Hatırlanacaktır, Anadolulu pek çok işadamının fabrikası,
+İstanbul'un büyüklerine rakip oldukları için devletin gücü
+kullanılarak kapatılmıştı. Ama artık TÜSİAD Anadolu'yu
+engelleyemiyor. Çünkü siyasiler, TÜSİAD'ın isteklerini artık eskisi
+gibi gözü kapalı yerine getirmiyorlar.
 
 Dogru
 
-Ilgili yazilar: Kim Daha Fazla Istihdam Yaratiyor?, Yeni Yeni Ekonomi
+---
 
 Mehmet Altan
 
@@ -16,18 +27,34 @@ Yanlis
 
 İslam medeniyetinin altın çağı, 8. ve 13. yuzyil arasidir.
 
+---
+
 Bir Kemalist
 
 AKP oy almak icin komur dagitiyor
 
 Bize has degil
 
-Oy karsiligi para, projeleri bir bolgeye, o bolgenin temsilcisine vermek, ABD'de "pork barrel spending" deyimiyle biliniyor. Bir meclis uyesinin herhangi bir kanunda desteginin alinabilmesi icin bazen bu tur "sekerlemelerin" o kanuna dahil edilmesi Washington'da anormal bir olay olarak gorulmez. Gecende vefat eden Senator Robert Byrd mesela, bu isi o kadar iyi yapiyordu ki, adi "king of pork"'a cikmisti. Byrd'un eyaletine yonlendirdigi harcamalarin 1 milyar dolari astigi soylenmektedir.
+Oy karsiligi para, projeleri bir bolgeye, o bolgenin temsilcisine
+vermek, ABD'de "pork barrel spending" deyimiyle biliniyor. Bir meclis
+uyesinin herhangi bir kanunda desteginin alinabilmesi icin bazen bu
+tur "sekerlemelerin" o kanuna dahil edilmesi Washington'da anormal bir
+olay olarak gorulmez. Gecende vefat eden Senator Robert Byrd mesela,
+bu isi o kadar iyi yapiyordu ki, adi "king of pork"'a
+cikmisti. Byrd'un eyaletine yonlendirdigi harcamalarin 1 milyar dolari
+astigi soylenmektedir.
 
-Tabii bu tur sekerlemelerin halka direk verilmesi bazilarina itici geliyor olabilir, zaten ABD'deki pork barrel soylemi de genelde itici bir cercevede telafuz edilir. Fakat onemli nokta, demokratik sistem icinde bunlarin imkansiz, inanilmaz seyler olmadigidir -- hatta kimilerine gore yapilan demokrasinin ana islevlerindendir.
+Tabii bu tur sekerlemelerin halka direk verilmesi bazilarina itici
+geliyor olabilir, zaten ABD'deki pork barrel soylemi de genelde itici
+bir cercevede telafuz edilir. Fakat onemli nokta, demokratik sistem
+icinde bunlarin imkansiz, inanilmaz seyler olmadigidir -- hatta
+kimilerine gore yapilan demokrasinin ana islevlerindendir.
 
-Yani bunlarin hepsi kendi basina tartisilabilir, fakat su veriliyor, bu veriliyor, bunlar baska hicbir yerde olmuyor, "bize has" soylemi kesinlikle dogru bir soylem degil.
+Yani bunlarin hepsi kendi basina tartisilabilir, fakat su veriliyor,
+bu veriliyor, bunlar baska hicbir yerde olmuyor, "bize has" soylemi
+kesinlikle dogru bir soylem degil.
 
+---
 
 Fareed Zakaria
 
@@ -51,7 +78,9 @@ Arada sirada kafan calisiyor Ferit. Yanliz Newsweek Enternasyonel'de
 gecende bir resmini gordum, boyle artiz pozlar verilmis... Acaip bir
 el hareketi.. Bu ne hareket boyle.. Indir o elini! Indir!:)
 
-Ilgili yazi: Geri Kalanlar ve Fareed Zakaria
+![](fareed_zakaria_hand.jpg)
+
+---
 
 Aykırı
 
@@ -181,11 +210,6 @@ bilmemek.
 
 
 
-
-
-
-
-![](fareed_zakaria_hand.jpg)
 
 Bir yazar
 
