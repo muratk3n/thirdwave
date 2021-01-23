@@ -1,3 +1,4 @@
+# Week 40
 
 [Liquid food company Soylent founder Rob Rhinehart's] latest project
 is building a home in Los Angeles, off the grid. This is surprisingly
@@ -32,6 +33,8 @@ seems we built a lot of unnecessary bureaucracy around the simple act
 of living. Even paying rent, while simple, seems like money down the
 drain. Time to cut the cord?
 
+---
+
 Question
 
 But don't we need connectivity?
@@ -60,6 +63,8 @@ resources, and ultimately death.
 
 (This does not mean collaboration is bad - that can happen in
 asynchronous fashion).
+
+---
 
 Question
 
@@ -91,36 +96,51 @@ this phone, then access its camera, then all its devices. He will
 publish first version on some group, chatroom and we will have an
 easy-to-use smartphone OS Finux.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-[Paraphrasing] IoT will  encompass everything in its wake, it will be the new revolution..
+[Paraphrasing] IoT will  encompass everything in its wake, it will be
+the new revolution..
 
 Maybe
 
-IoT (the internet of things, internetworking of physical devices) gets a lot of media attention... Everytime I look at this thing though waiting to learn something new, I come out thinking "huh?". Whatchamadingle? Whowhawhy?
+IoT (the internet of things, internetworking of physical devices) gets
+a lot of media attention... Everytime I look at this thing though
+waiting to learn something new, I come out thinking
+"huh?". Whatchamadingle? Whowhawhy?
 
-I believe a lot of the "buzz" on IoT is coming from established IT companies; but they are looking at this all backwards - they just want to some kind of data stream to come to them. Then they think, well, who / what can generate me this data? Ah, I found it; people's toasters, refrigerators and shit will send me that, I'll take that, do some processin', and send it back. 
+I believe a lot of the "buzz" on IoT is coming from established IT
+companies; but they are looking at this all backwards - they just want
+to some kind of data stream to come to them. Then they think, well,
+who / what can generate me this data? Ah, I found it; people's
+toasters, refrigerators and shit will send me that, I'll take that, do
+some processin', and send it back. 
 
-But why would I need to send my f**ing toaster data to you? This is not to say that there is no benefit of having every device compatible with internet protocol, so known tools can connect to them over LAN. But my toaster over the Internet? That makes no sense. In fact it is a huge security clusterflunk waiting to happen. 
+But why would I need to send my f**ing toaster data to you? This is
+not to say that there is no benefit of having every device compatible
+with internet protocol, so known tools can connect to them over
+LAN. But my toaster over the Internet? That makes no sense. In fact it
+is a huge security clusterflunk waiting to happen. 
 
-Needless to say, companies who are hungriest on this type of IoT are also the ones who missed out on that fat "social data" i.e. the the kind that comes out of Facebook users. Microsoft for example. I am not pointing any fingers, MS did some good things as of late.
+Needless to say, companies who are hungriest on this type of IoT are
+also the ones who missed out on that fat "social data" i.e. the the
+kind that comes out of Facebook users. Microsoft for example. I am not
+pointing any fingers, MS did some good things as of late.
 
-So: if IoT means accessible / programmable devices, great. But do we need an army of management consultants with their Powerpoint presentations with turtleck sweaters to tell us that? 
+So: if IoT means accessible / programmable devices, great. But do we
+need an army of management consultants with their Powerpoint
+presentations with turtleck sweaters to tell us that? 
+
+---
 
 Question
 
-What is [Phillipine's new President] Duterte's [who regularly boasts he will kill as many "bad people" as he wants without due process] psychology type? 
+What is [Phillipine's new President] Duterte's [who regularly boasts
+he will kill as many "bad people" as he wants without due process]
+psychology type? 
 
 Take A Wild Guess
+
+---
 
 Question
 
@@ -128,37 +148,17 @@ Control Freak? 
 
 Bingo
 
-He is also most likely an ESTP, this type usually confuses being obnoxious with being innovative or being "out of the ordinary", "rebellious". Their thirst for the near immediate, the shiny rearranges all their priorities demoting their thinking process to the level of amoeba. You can kiss good-bye to any chance of a statesman, rounded politician showing up. All that combined with a Control Freak? Bad news.
+He is also most likely an ESTP, this type usually confuses being
+obnoxious with being innovative or being "out of the ordinary",
+"rebellious". Their thirst for the near immediate, the shiny
+rearranges all their priorities demoting their thinking process to the
+level of amoeba. You can kiss good-bye to any chance of a statesman,
+rounded politician showing up. All that combined with a Control Freak?
+Bad news.
 
+---
 
-
-
-
-
-
-
-
-
-at
-
-October 04, 2016
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Good news! We saved #CETA. Europe shld learn from this: take the
+Good news! We saved \#CETA. Europe shld learn from this: take the
 citizens' concerns on board [..]
 
 Citizens? 
@@ -178,6 +178,8 @@ occurs. Balancing the short term with the long term, the national with
 the international is the job of the politicians. The interest groups
 will lobby them one way or the other, and there is the final outcome.
 
+---
+
 News
 
 Ecuador's government has confirmed that it has "temporarily
@@ -192,6 +194,8 @@ is being hounded left and right by providing an essential public
 service - giving a way to whistleblowers to get out their story, but
 he is living the life of a prisoner, so he lashed out.
 
+---
+
 News
 
 Soon you'll be able to run Linux apps on Windows [..]
@@ -205,24 +209,30 @@ more stable kernel. I know #2 sounds bad, but Linux is an open system
 with much more people developing and debugging it, and at this point
 no commercial system can compete with this.
 
+----
+
 Question
 
 How do you develop for Android?
 
 The common approach sucks
 
-So - not Java. Rule #1 of commercial ecosystems - they get bloated with time. In order to create a Hello World app, you'll need 5 files, an entire directory structure, and a f**king file that describes the other five f**king files.
+So - not Java. Rule \#1 of commercial ecosystems - they get bloated
+with time. In order to create a Hello World app, you'll need 5 files,
+an entire directory structure, and a f**king file that describes the
+other five f**king files.
 
-Obviously all of this is unnecessary. For the simplest app all one should need is one or two files, and things should run. These guys have the right idea. They've done this, great, Android is still open enough and Linux enough people can hack it to create Kivy, so thanks to Google for that, at least we have that. But I feel like this should be the main approach to mobile programming rather than the other way around. I understand Java was chosen in the beginning because it was the most common language at the time, and Google had to compete with iOS. But some cleanup and shakeup is necessary. We can bring much more, great code into the ecosystem that is just waiting to be exploited. I should not go through hoops to bring libraries such as numpy, PIL into the phone. 
+Obviously all of this is unnecessary. For the simplest app all one
+should need is one or two files, and things should run. These guys
+have the right idea. They've done this, great, Android is still open
+enough and Linux enough people can hack it to create Kivy, so thanks
+to Google for that, at least we have that. But I feel like this should
+be the main approach to mobile programming rather than the other way
+around. I understand Java was chosen in the beginning because it was
+the most common language at the time, and Google had to compete with
+iOS. But some cleanup and shakeup is necessary. We can bring much
+more, great code into the ecosystem that is just waiting to be
+exploited. I should not go through hoops to bring libraries such as
+numpy, PIL into the phone. 
 
-
-
-
-
-
-
-
-
-
-
-
+---
