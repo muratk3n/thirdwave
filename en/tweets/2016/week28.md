@@ -1,3 +1,4 @@
+# Week 28
 
 Trump picks Pence as running mate.
 
@@ -5,7 +6,7 @@ Hah
 
 So the initial combo is T.P.?... Seriously. 
 
-More on RNC - Link, Link
+---
 
 Comment
 
@@ -15,25 +16,43 @@ That's not the point
 
 This is.
 
+---
+
 Question 
 
-In Turkey politicians were subject to so many military coups. Should they not fight back? 
+In Turkey politicians were subject to so many military coups. Should
+they not fight back? 
 
 Sure
 
-But if politicians step outside the law, and into "state of emergency" territory, then what's the difference between them and a military junta? Even before the coup attempt Turkland president kept on meddling in "his" party's politics, a clear violation of the constitution (he is supposed to be impartial). At the same time people are jailed for "insulting" the president invoking a special article in the law that outlaws it. 
+But if politicians step outside the law, and into "state of emergency"
+territory, then what's the difference between them and a military
+junta? Even before the coup attempt Turkland president kept on
+meddling in "his" party's politics, a clear violation of the
+constitution (he is supposed to be impartial). At the same time people
+are jailed for "insulting" the president invoking a special article in
+the law that outlaws it. 
 
-So the law is used sometimes, not the other times... This type of utilitarian, short-termist attitude to law at the very top creates chaos. It has been creating chaos for a very long time now. This needs to stop.
+So the law is used sometimes, not the other times... This type of
+utilitarian, short-termist attitude to law at the very top creates
+chaos. It has been creating chaos for a very long time now. This needs
+to stop.
+
+---
 
 Tom Friedman 
 
-Anyone who has been following Turkey closely knows that Erdogan has been mounting a silent, drip-by-drip coup of his own against Turkish democracy for years — jailing reporters, hounding rivals with giant tax bills, reviving an internal war against Turkish Kurds to stoke nationalist passions [..]
+Anyone who has been following Turkey closely knows that Erdogan has
+been mounting a silent, drip-by-drip coup of his own against Turkish
+democracy for years — jailing reporters, hounding rivals with giant
+tax bills, reviving an internal war against Turkish Kurds to stoke
+nationalist passions [..]
 
 Yep
 
 That last act right there was another utilitarian, ends-justify-the-means action. 
 
-Related: Wag the Dog Part 1, Part 2, Part 3.
+---
 
 News
 
@@ -47,25 +66,23 @@ But what do we make of whistle-blowers then? Aren't they breaking laws?
 
 The higher the office, the higher the need to follow the law
 
-Law can be wrong, immoral - if regular participants see need for change, and whistle-blowing is the only action, it is done. But there are costs for that - and we can only applaud such people for taking those risks to cause change at legislative / bureaucratic level.
+Law can be wrong, immoral - if regular participants see need for
+change, and whistle-blowing is the only action, it is done. But there
+are costs for that - and we can only applaud such people for taking
+those risks to cause change at legislative / bureaucratic level.
 
-As one gets higher in office, government, the necessity to follow the law becomes more paramount, because wanton law-breaking at that level unhinges everything else - it'll set precedent, can invite backlash, and God knows what else.  
+As one gets higher in office, government, the necessity to follow the
+law becomes more paramount, because wanton law-breaking at that level
+unhinges everything else - it'll set precedent, can invite backlash,
+and God knows what else.  
 
-
-
-
-
-
-
-
-
-
+---
 
 TV Character
 
-[from the show *The Last Ship*, after a group of sailors are kidnapped,
-blindfolded, and moved somewhere else, one of them goes] you can
-estimate where you are in the world by using the sun.
+[from the show *The Last Ship*, after a group of sailors are
+kidnapped, blindfolded, and moved somewhere else, one of them goes]
+you can estimate where you are in the world by using the sun.
 
 Yes you can
 
@@ -116,11 +133,13 @@ print ((5*60)+6) * 0.25
 
 The final coordinates are 38 N, 76.5 W. 
 
+---
+
 Which City? 
 
 Using a [CSV](world_cities.csv) of major cities in the world, 
 
-```
+```python
 import pandas as pd
 import math
 def distance(lat1, long1, lat2, long2):
@@ -142,7 +161,6 @@ df = pd.read_csv('world_cities.csv',index_col=['city','country','province'])
 print find_city(38.0, -76.5)
 ```
 
-
 Result
 
 `('St. Charles', 'United States of America', 'Maryland')`
@@ -154,13 +172,14 @@ can be packed in a small device; an Arduino or Rasberry Pi based
 device IMO; and it would tell the geo location, the closest city
 automagically.
 
-Sources: Video, Wiki
 
 https://www.youtube.com/watch?v=ircLt-qvl3M
 
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 
-Book (1421)
+---
+
+Book (1421)
 
 https://www.amazon.co.uk/1421-Year-China-Discovered-World/dp/0553815229
 
@@ -188,20 +207,31 @@ Harrison invented one, then a flurry of innovation followed around
 clocks that would put today's Silicon Valley to shame. Fascinating
 story (more can be found in the aptly named book Longitude).
 
+---
 
-Here is just a sampling of the products, apps and services that have come across my radar in the last few weeks:
+Here is just a sampling of the products, apps and services that have
+come across my radar in the last few weeks:
 
-A service that sends a valet on a scooter to you, wherever you are, to park your car.
+A service that sends a valet on a scooter to you, wherever you are, to
+park your car.
 
 A service that will pack your suitcase — virtually [..]
 
-[T]he bulk of the above list targets a very specific (and tiny!) slice of the population. As one colleague in tech explained it to me recently, for most people working on such projects, the goal is basically to provide for themselves everything that their mothers no longer do [..].
+[T]he bulk of the above list targets a very specific (and tiny!) slice
+of the population. As one colleague in tech explained it to me
+recently, for most people working on such projects, the goal is
+basically to provide for themselves everything that their mothers no
+longer do [..].
 
 When everything is characterized as “world-changing,” is anything?
 
 True
 
-Services above are all luxury. Some people find all of the above "great tech", and they'll pooh-pooh finance - something that is 10 times more essential to people's lives.
+Services above are all luxury. Some people find all of the above
+"great tech", and they'll pooh-pooh finance - something that is 10
+times more essential to people's lives.
+
+---
 
 Anonymous
 
@@ -230,13 +260,30 @@ thousands dead - was it worth it?
 Note: The part on Blair stands though; there's no need to flog the man
 endlessly.
 
+---
+
 News
 
-Dallas Mayor [..] dropped an extremely uncomfortable reality check: Open Carry, the movement pushed with near-fanatical obsession by Texas Republicans, not only did nothing to help stop the mass shooting of police officers in Dallas, but it actually made the situation far worse. Open Carry had an opportunity to justify its existence – and it failed on every conceivable level.
+Dallas Mayor [..] dropped an extremely uncomfortable reality check:
+Open Carry, the movement pushed with near-fanatical obsession by Texas
+Republicans, not only did nothing to help stop the mass shooting of
+police officers in Dallas, but it actually made the situation far
+worse. Open Carry had an opportunity to justify its existence – and it
+failed on every conceivable level.
 
-For Rawlings, examining the aftermath of the shooting made it clear that having dozens of scared civilians clinging to assault-style weapons during a mass shooting was a recipe for disaster. The “good guys with guns” didn’t suddenly become action heroes bravely stopping a heavily-armed lunatic. They acted like any of us would: When the shooting started, they scattered in every direction in terror of their lives. Only unlike others, these fleeing victims were strapped with weapons that sowed confusion. Any of them could have been a shooter attempting to blend in [..]
+For Rawlings, examining the aftermath of the shooting made it clear
+that having dozens of scared civilians clinging to assault-style
+weapons during a mass shooting was a recipe for disaster. The “good
+guys with guns” didn’t suddenly become action heroes bravely stopping
+a heavily-armed lunatic. They acted like any of us would: When the
+shooting started, they scattered in every direction in terror of their
+lives. Only unlike others, these fleeing victims were strapped with
+weapons that sowed confusion. Any of them could have been a shooter
+attempting to blend in [..]
 
 Yep
+
+---
 
 Question
 
@@ -249,23 +296,11 @@ Here is a
 is even sorted from best to worst. #1 is great of course, but you
 could go with Veers or even Haako as exotic picks.
 
-Addition: Video.
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Justice Department is formally closing the case against Hillary Clinton's private email server with no charges, U.S. Attorney General Loretta Lynch announced Wednesday evening.
+The Justice Department is formally closing the case against Hillary
+Clinton's private email server with no charges, U.S. Attorney General
+Loretta Lynch announced Wednesday evening.
 
 Good to hear
 
@@ -277,22 +312,19 @@ Some Republicans 
 
 Oh Yeah?
 
+---
+
 News
 
-The GOP bill would bar many gun sales to terror suspects, but only if federal prosecutors could prove within three days that a terrorist act was afoot. The government would have to cover legal costs for people for whom it unsuccessfully tried to deny firearms.
+The GOP bill would bar many gun sales to terror suspects, but only if
+federal prosecutors could prove within three days that a terrorist act
+was afoot. The government would have to cover legal costs for people
+for whom it unsuccessfully tried to deny firearms.
 
 That is the stupidest idea I've ever heard
 
-Reps, couldn't you offer some working solutions for this gun issue, instead of worrying about bunch of emails?
+Reps, couldn't you offer some working solutions for this gun issue,
+instead of worrying about bunch of emails?
 
-
-
-
-
-
-
-
-
-
-
+---
 

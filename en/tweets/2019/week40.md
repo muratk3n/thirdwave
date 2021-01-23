@@ -419,8 +419,7 @@ the nail - capitalism being the hammer.
 
 ---
 
-No that was a trend. Talked about it
-[before](https://muratk3n.github.io/thirdwave/en/2016/06/q-36.html#howitis).
+No that was a trend. Talked about it [before](../2016/week24.md#howitis).
 
 "Being 'out of the ordinary' started with Trump" 
 
