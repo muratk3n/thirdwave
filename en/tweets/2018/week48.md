@@ -1,4 +1,4 @@
-## Q&A - 16/12
+# Week 48
 
 Q: If ammonia or regular temparature liquid H2 was not deployed, how
 easy is it for cars to use H2 tanks (for pressurized containment)?
@@ -24,6 +24,8 @@ the fumes create a burning sensation in the nostrils which is
 unpleasant. With H2 there is no smell. Plus drinking water comes out
 of the exhaust.
 
+---
+
 [Comment](https://mobile.twitter.com/AssaadRazzouk/status/1065417333672419328):
 
 It’s official: No one under the age of 32 has ever experienced a
@@ -31,6 +33,8 @@ cooler-than-average month on this planet - because Earth has been
 warmer than average for 406 months in a row.
 
 A: Sad
+
+---
 
 Q: If the world switches from natgas to something else what happens to existing infrastructure?
 
@@ -42,6 +46,8 @@ On the consumer end, you can pipe H2 through the same natgas
 infrastructure, for homes, transportation. So there might be chance
 for the existing infrastructure, it could be used for H2.
 
+---
+
 Q: Why did you switch from Blogger to Github?
 
 A: I work through mobile more and like using command-line (typing!)
@@ -51,6 +57,8 @@ system. Github handles the latter part, and the process is
 simple. They also started offering simple formatting for the simple
 files they house for you, so it's a natural fit for blogging. I don't
 need to point-and-click. It gets in the way actually.
+
+---
 
 Q: Why did Al Gore lose?
 
@@ -93,6 +101,8 @@ becomes an issue which people "attack" or "defend".
 
 2000 had it all.
 
+---
+
 Q: But Gore was challanged from the left during the primaries.
 
 A: You mean by Bill Bradley?
@@ -104,3 +114,4 @@ chief lobbying group".
 
 He was bought and paid for. Another corporatist.
 
+---

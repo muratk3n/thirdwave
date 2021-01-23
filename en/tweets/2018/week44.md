@@ -1,9 +1,14 @@
+# Week 44
 
 Is the universe inherently random because quantum mechanics says so
 
 It says no such thing
 
-The Copenhagen interpretation of QM makes that claim. Most Quantum Mechanics popularizes we see and hear on media follow the Copenhagen or the Many-World interpretation of QM. This interpretation is not the only one. All the weird results we hear originate from these two interpretations.
+The Copenhagen interpretation of QM makes that claim. Most Quantum
+Mechanics popularizes we see and hear on media follow the Copenhagen
+or the Many-World interpretation of QM. This interpretation is not the
+only one. All the weird results we hear originate from these two
+interpretations.
 
 Why so many follow CQM then? Copenhagen QM allowed researchers to
 compute very easily, it also came first, and beyond that, the
@@ -30,13 +35,21 @@ it... "
 Needless to say we need to get out of this mode of thinking. Mystery
 does not have to be confusing, and bullshit.
 
+---
+
 Comment
 
-Despite vast increases in the time and money spent on research, progress is barely keeping pace with the past.
+Despite vast increases in the time and money spent on research,
+progress is barely keeping pace with the past.
 
 Partly true
 
-The pace of inventions and developments is fantastic. But to the extent that they slowed down in areas, delusional thinking in big-think concepts like QM and String Theory are weighing everybody down.
+The pace of inventions and developments is fantastic. But to the
+extent that they slowed down in areas, delusional thinking in
+big-think concepts like QM and String Theory are weighing everybody
+down.
+
+---
 
 Legislation
 
@@ -44,7 +57,11 @@ Let's build an energy efficient smart-grid
 
 Useless
 
-You don't need smart grid bcz there is a way to store and transport clean energy in huge amounts, with high energy density. Ammonia or hydrogen both fit the bill. I'd look at what EU and Japan are  doing. 
+You don't need smart grid bcz there is a way to store and transport
+clean energy in huge amounts, with high energy density. Ammonia or
+hydrogen both fit the bill. I'd look at what EU and Japan are  doing. 
+
+---
 
 News
 
@@ -52,11 +69,7 @@ Scientists have created a molecule that can store solar energy for 18 years
 
 Great
 
-Matt Stoller
-
-I don't know how to explain this, but something has always been a bit.. off about the left and about Democrats. There's not a sense that they are in charge or could be in charge. They don't even really believe they have the right to wield power [in reference to this]
-
-So true
+---
 
 EFF
 
@@ -66,67 +79,88 @@ during an emergency.
 
 Yikes
 
+---
+
 Wired
 
-Lots of wind along with very dry vegetation turned the Northern California wildfire into a high-speed menace that tore through Paradise and Buttle County
+Lots of wind along with very dry vegetation turned the Northern
+California wildfire into a high-speed menace that tore through
+Paradise and Buttle County
 
 Sad
 
 .. and the climate inaction in US is completely the fault of centrist Democrats. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 CNBC
 
-The government policy that is inflating the money supply is the Chinese currency peg. China is a magnet for foreign capital, bringing in far more in exports and investment than it pays out. Normally, this would result in the value of foreign currencies depreciating relative to the local currency. But in order to maintain its fixed exchange rate, China's central banks buys all those extra dollars and euros, replacing them with renminbi. This means that the government is constantly expanding the money supply. And as long as that keeps happening, China will keep on experiencing elevated inflation.
+The government policy that is inflating the money supply is the
+Chinese currency peg. China is a magnet for foreign capital, bringing
+in far more in exports and investment than it pays out. Normally, this
+would result in the value of foreign currencies depreciating relative
+to the local currency. But in order to maintain its fixed exchange
+rate, China's central banks buys all those extra dollars and euros,
+replacing them with renminbi. This means that the government is
+constantly expanding the money supply. And as long as that keeps
+happening, China will keep on experiencing elevated inflation.
 
 Right
 
-Current scheme (huge foreign reserves) is inflationary for China. No matter at what level one keeps the local currency, you are never in control of your money supply because intense influx of foreign capital (exports, investments) has to be converted to local currency, at some level, and that can be inflationary.
+Current scheme (huge foreign reserves) is inflationary for China. No
+matter at what level one keeps the local currency, you are never in
+control of your money supply because intense influx of foreign capital
+(exports, investments) has to be converted to local currency, at some
+level, and that can be inflationary.
+
+---
 
 Sean Carroll
 
-[A physicist, paraphrasing] The state of the "quantum disagreement" in the phyics community is an embarrassment. 
+The state of the "quantum disagreement" in the phyics community is an
+embarrassment.
 
 The understatement of the year
 
-They asked physicist their favorite interpretation of QM and the video shows the results. Even the CQM people are at 42%. Forty two. This is the mainstream! Caroll himself follows the Many-Worlds interpretation (at 18%). So for them Schrodinger's cat would not be dead and alive, but the dead cat and the alive cat would be....wait for it.. in different universes. Pffffff..fffff yeah man.. it blows my mind....
+They asked physicist their favorite interpretation of QM and the video
+shows the results. Even the CQM people are at 42%. Forty two. This is
+the mainstream! Caroll himself follows the Many-Worlds interpretation
+(at 18%). So for them Schrodinger's cat would not be dead and alive,
+but the dead cat and the alive cat would be....wait for it.. in
+different universes. Pffffff..fffff yeah man.. it blows my mind....
 
 Let's clarify it with an example..
 
 ![](william_shatner_-_h_2015.jpg)
 
-So the evil Shatner in one universe would have the dead cat. The good Shatner would have the alive cat.
+So the evil Shatner in one universe would have the dead cat. The good
+Shatner would have the alive cat.
 
 Or the other way around..
 
+---
+
 NYT
 
-Mr. Trump’s critics should continue fighting fiercely against his attempts — on Twitter and off — to undermine the rule of law, to rig the system in favor of himself and his cronies and to take down not only the Constitution but also quite possibly, if he gets the chance, the Ptolemaic model, Newton’s Law [..]
+Mr. Trump’s critics should continue fighting fiercely against his
+attempts — on Twitter and off — to undermine the rule of law, to rig
+the system in favor of himself and his cronies and to take down not
+only the Constitution but also quite possibly, if he gets the chance,
+the Ptolemaic model, Newton’s Law [..]
 
 Ptolemaic model was already wrong  
 
 .. and Copernicus took care of that.
 
-Link
+---
 
 Snowden
 
-You can despise Wikileaks and everything it stands for. You can think Assange is an evil spirit reanimated by Putin himself. But you cannot support the prosecution of a publisher for publishing without narrowing the basic rights every newspaper relies on.
+You can despise Wikileaks and everything it stands for. You can think
+Assange is an evil spirit reanimated by Putin himself. But you cannot
+support the prosecution of a publisher for publishing without
+narrowing the basic rights every newspaper relies on.
 
-Yes 
+Yes
 
-
-
+---

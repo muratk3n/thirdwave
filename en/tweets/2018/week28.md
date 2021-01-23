@@ -1,3 +1,4 @@
+# Week 28
 
 In the developed world, we need policies that reduce the inequality at
 the top. It is sometimes said these are very difficult policies to
@@ -29,6 +30,8 @@ transactions with territories that don’t comply with rules on tax
 transparency. That closes them down instantly.
 
 There
+
+---
 
 Michael Hudson
 
@@ -90,6 +93,8 @@ credit were not another’s debt!
 
 Yes
 
+---
+
 Comment
 
 They loaded Toy's R Us with debt, they destroyed it
@@ -108,26 +113,18 @@ It is sad, of course, TrU had nice stores, kids loved going around in
 them.. but things change.. I'd like  to see disco balls and perm hair
 making a comeback. Will it happen? Probably not.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-I still have issues with the baker case.. why could the baker not serve the gay couple?
+"I still have issues with the baker case.. why could the baker not
+serve the gay couple?"
 
 Here is a good analogy
 
 Imagine you are a Jew. Would you go to a baker who you suspect is a neo-Nazi?
 
-Peter Schiff  makes the point well. Use some common sense; why go to a baker, force him to serve you...? U know he'll shit in there, do all kinds of funky stuff to your cake if you do that. So stay away. C'mon.
+Peter Schiff  makes the point well. Use some common sense; why go to a
+baker, force him to serve you...? U know he'll shit in there, do all
+kinds of funky stuff to your cake if you do that. So stay away. C'mon.
 
 <a name="israeltr"/>
 
@@ -173,45 +170,92 @@ amusing there. I mean, the way they treat Palestinians are not that
 dissimilar from the way my tiggers treat the Kurds... Or treated
 Armenians - if not at individual level, certainly at state level.
 
+---
 
+[From Listen, Liberal, on how the Dems' shift to professional class
+started] Then Frederick Dutton, Democratic Party power broker [..]
+identified workers, the core of the New Deal coalition, as “the
+principal group arrayed against the forces of change.” They were
+actually, to a certain degree, the enemy. [..]“In the 1930s, the
+blue-collar group was in the forefront,” Dutton recalled. “Now it is
+the white-collar sector.” Specifically: “the college-educated group.”
+That was who mattered in the future-altering present of 1971.
 
+Put yourself in Dutton’s place, and you can perhaps understand where
+he was coming from. In the Sixties, labor unions seemed like big,
+unresponsive, white-dominated organizations that were far closer to
+the comfortable and the powerful than they were to the
+discontented. Changing Sources of Power appeared shortly after a
+disturbing presidential run by Alabama governor George Wallace, an
+arch-segregationist whose appeal was then thought to be greatest among
+working-class whites. The culture in those years was saturated with
+depictions of blue-collar bigots doing scary things like shooting the
+main characters in Easy Rider and rioting in support of the Vietnam
+War. Everyone back then knew what reactionary clods FDR’s old
+constituents had become; just look at All in the Family [..]
 
+Although Dutton surely didn’t intend for matters to unfold this way,
+his reverence for the professional class and his contempt for the
+“legatees of the New Deal” opened the way for something truly
+unfortunate: the erasure of economic egalitarianism from American
+politics [..]
 
+Democratic leaders decided to reorient the party after 1968 not
+because this was necessary for survival but because they distrusted
+their main constituency and had started to lust after a new and more
+sophisticated one [..]
 
+The different schools of Democratic Party reform that I have briefly
+described here are usually regarded as separate if not mutually
+despising tendencies. Frederick Dutton and his fellow worshippers at
+the shrine of enlightened youth were part of what is called the “New
+Politics” persuasion; among other things, they were open to cultural
+radicalism and strongly opposed the Vietnam War. The Democratic
+Leadership Council, on the other hand, were a faction of
+hippie-punching white Southerners who loved free markets and who
+ultimately discredited themselves many years later by whooping it up
+for the Iraq War.
 
+These factions appeared to be opponents, and yet there was a
+persistent habit of thought that united them: regardless of what it
+was they were demanding, they all agreed that what stood in their way
+was the legacy of the New Deal—the Democratic Party’s commitment to
+equality for working people. That was what had to end.
 
+Here is where our story takes its remarkable turn: slowly but
+relentlessly, these different loser reform traditions came together,
+and as they did, the Democratic Party became a success. Bad ideas plus
+bad ideas turned out, in this case, to yield electoral victory.
 
-
-
-[From Listen, Liberal, on how the Dems' shift to professional class started] Then Frederick Dutton, Democratic Party power broker [..] identified workers, the core of the New Deal coalition, as “the principal group arrayed against the forces of change.” They were actually, to a certain degree, the enemy. [..]“In the 1930s, the blue-collar group was in the forefront,” Dutton recalled. “Now it is the white-collar sector.” Specifically: “the college-educated group.” That was who mattered in the future-altering present of 1971.
-
-Put yourself in Dutton’s place, and you can perhaps understand where he was coming from. In the Sixties, labor unions seemed like big, unresponsive, white-dominated organizations that were far closer to the comfortable and the powerful than they were to the discontented. Changing Sources of Power appeared shortly after a disturbing presidential run by Alabama governor George Wallace, an arch-segregationist whose appeal was then thought to be greatest among working-class whites. The culture in those years was saturated with depictions of blue-collar bigots doing scary things like shooting the main characters in Easy Rider and rioting in support of the Vietnam War. Everyone back then knew what reactionary clods FDR’s old constituents had become; just look at All in the Family [..]
-
-Although Dutton surely didn’t intend for matters to unfold this way, his reverence for the professional class and his contempt for the “legatees of the New Deal” opened the way for something truly unfortunate: the erasure of economic egalitarianism from American politics [..]
-
-Democratic leaders decided to reorient the party after 1968 not because this was necessary for survival but because they distrusted their main constituency and had started to lust after a new and more sophisticated one [..]
-
-The different schools of Democratic Party reform that I have briefly described here are usually regarded as separate if not mutually despising tendencies. Frederick Dutton and his fellow worshippers at the shrine of enlightened youth were part of what is called the “New Politics” persuasion; among other things, they were open to cultural radicalism and strongly opposed the Vietnam War. The Democratic Leadership Council, on the other hand, were a faction of hippie-punching white Southerners who loved free markets and who ultimately discredited themselves many years later by whooping it up for the Iraq War.
-
-These factions appeared to be opponents, and yet there was a persistent habit of thought that united them: regardless of what it was they were demanding, they all agreed that what stood in their way was the legacy of the New Deal—the Democratic Party’s commitment to equality for working people. That was what had to end.
-
-Here is where our story takes its remarkable turn: slowly but relentlessly, these different loser reform traditions came together, and as they did, the Democratic Party became a success. Bad ideas plus bad ideas turned out, in this case, to yield electoral victory.
-
-The exact point where these trajectories intersected was occupied by one Bill Clinton, governor of Arkansas, a Rhodes Scholar and a McGovern campaign worker who had grown up to become the chairman of the DLC. He led the idealistic Sixties generation and he warred with the teachers’ union; he smoked dope and he never got high; he savored Fleetwood Mac and he got tough with welfare mothers. Here was the one-man synthesis of the grubby dialectic I have been describing, and he arrived in Washington to fulfill the sordid destiny of his class like Lenin arriving at the Finland Station.
+The exact point where these trajectories intersected was occupied by
+one Bill Clinton, governor of Arkansas, a Rhodes Scholar and a
+McGovern campaign worker who had grown up to become the chairman of
+the DLC. He led the idealistic Sixties generation and he warred with
+the teachers’ union; he smoked dope and he never got high; he savored
+Fleetwood Mac and he got tough with welfare mothers. Here was the
+one-man synthesis of the grubby dialectic I have been describing, and
+he arrived in Washington to fulfill the sordid destiny of his class
+like Lenin arriving at the Finland Station.
 
 Ha ha
 
-A lot of forces seem to have arrayed themselves behind these so-called "new Democrats", who, for some reason developed a distaste for the unions (they supported the Vietnam War), didn't want to be restricted by New Deal politics wanted to rock'n roll, be hip, try to exude charisma by lip biting, second-rate Robert Redford impressions, not come across as working class. There is a parallel here with the professionalism displayed on Star Trek TNG, and the repeated "Picard face-palm" meme that goes around everytime libs are upset about something, and, dare I say some connections to the Third Wave systemology expounded upon at length here. The last two connections are mostly superflous however - Star Trek TNG takes place in a world without money, Toffler was not pro-globalization the way these poor lost souls are, constantly warning about the down-side of new tech, and  about new social contracts to make it work. The DLC seem to have created a Frankenstein by combining unwanted / mismatched parts of all, and sell it through shoddy charisma that could only work in a post-Berlin Wall environment when everyone was confused about everything.
+A lot of forces seem to have arrayed themselves behind these so-called
+"new Democrats", who, for some reason developed a distaste for the
+unions (they supported the Vietnam War), didn't want to be restricted
+by New Deal politics wanted to rock'n roll, be hip, try to exude
+charisma by lip biting, second-rate Robert Redford impressions, not
+come across as working class. There is a parallel here with the
+professionalism displayed on Star Trek TNG, and the repeated "Picard
+face-palm" meme that goes around everytime libs are upset about
+something, and, dare I say some connections to the Third Wave
+systemology expounded upon at length here. The last two connections
+are mostly superflous however - Star Trek TNG takes place in a world
+without money, Toffler was not pro-globalization the way these poor
+lost souls are, constantly warning about the down-side of new tech,
+and  about new social contracts to make it work. The DLC seem to have
+created a Frankenstein by combining unwanted / mismatched parts of
+all, and sell it through shoddy charisma that could only work in a
+post-Berlin Wall environment when everyone was confused about
+everything.
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
