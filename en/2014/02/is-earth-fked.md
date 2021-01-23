@@ -1,5 +1,7 @@
 # Is Earth F**ked?
 
+[Link](https://www.newstatesman.com/2013/10/science-says-revolt)
+
 In December 2012, a pink-haired complex systems researcher named Brad
 Werner made his way through the throng of 24,000 earth and space
 scientists at the Fall Meeting of the American Geophysical Union, held
@@ -18,16 +20,5 @@ incomprehensible to those of us uninitiated in complex systems theory
 [..] When pressed by a journalist for a clear answer on the “are we
 f**ked” question, Werner set the jargon aside and replied, “More or
 less.”
-
-
-
-
-
-
-
-
-
-
-
 
 
