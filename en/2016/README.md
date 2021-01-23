@@ -4,10 +4,6 @@
 
 [One Day](02/one-day.md)
 
-[Q&A - 23/2](02/q-232_23.md)
-
-[Q&A - 26/2](02/q-262_26.md)
-
 [Sci-Hub](02/sci-hub.md)
 
 [Want](02/want.md)
@@ -42,12 +38,6 @@
 
 [#ouch](03/ouch.md)
 
-[Q&A - 18/3](03/q-183.md)
-
-[Q&A - 22/3](03/q-223.md)
-
-[Q&A - 9/3](03/q-93.md)
-
 [#team](03/team.md)
 
 [Wall Street, Main Street](03/wall-street-main-street.md)
@@ -74,10 +64,6 @@
 
 [Planet Nine](04/planet-nine.md)
 
-[Q&A - 13/4](04/q-134.md)
-
-[Q&A - 18/4](04/q-184.md)
-
 [#whenpublishers #perish](04/when-publishers-perish.md)
 
 [Ascribe](05/ascribe.md)
@@ -101,14 +87,6 @@
 [Open Access](05/open-access.md)
 
 [#prep](05/prep.md)
-
-[Q&A - 17/5](05/q-175.md)
-
-[Q&A - 18/5](05/q-185.md)
-
-[Q&A - 27/5](05/q-275.md)
-
-[Q&A - 3/5](05/q-35.md)
 
 [#quesedilla #chicana](05/quesadillas-chicana.md)
 
@@ -154,14 +132,6 @@
 
 [#plagueofboils](06/plagueofboils.md)
 
-[Q&A - 14/6](06/q-146.md)
-
-[Q&A - 1/6](06/q-16.md)
-
-[Q&A - 3/6](06/q-36.md)
-
-[Q&A - 6/6](06/q-66.md)
-
 [Sandy Hook Dad](06/sandy-hook-dad.md)
 
 [#scroungers #brexit](06/scroungers-brexit.md)
@@ -191,14 +161,6 @@
 [#poh-lice](07/poh-lice.md)
 
 [#politics #britain](07/politics-britain.md)
-
-[Q&A - 10/7](07/q-107.md)
-
-[Q&A - 11/7](07/q-117.md)
-
-[Q&A - 21/7](07/q-217.md)
-
-[Q&A - 7/7](07/q-77.md)
 
 [Raising All Boats](07/raising-all-boats.md)
 
@@ -286,12 +248,6 @@
 
 [#gov](09/multitaska.md)
 
-[Q&A - 21/9](09/q-219.md)
-
-[Q&A - 23/9](09/q-239.md)
-
-[Q&A - 26/9](09/q-269.md)
-
 [Snowden](09/snowden.md)
 
 [#solah #powah](09/solah-powah.md)
@@ -315,12 +271,6 @@
 [Low Rates](10/low-rates.md)
 
 [More on Brexit](10/more-on-brexit.md)
-
-[Q&A - 28/10](10/q-2810.md)
-
-[Q&A - 3/11](10/q-311.md)
-
-[Q&A - 4/11](10/q-411_4.md)
 
 [The Paris Climate Agreement Is Now Official](10/the-paris-climate-agreement-is-now.md)
 
@@ -348,20 +298,6 @@
 
 [#postelection](11/postelection.md)
 
-[Q&A - 10/11](11/q-107.md)
-
-[Q&A - 11/11](11/q-1111.md)
-
-[Q&A - 14/11](11/q-1411.md)
-
-[Q&A - 15/11](11/q-1511.md)
-
-[Q&A - 23/11](11/q-2311.md)
-
-[Q&A - 7/11](11/q-711.md)
-
-[Q&A - 9/11](11/q-911.md)
-
 [Syria](11/syria.md)
 
 [The Real Scandal](11/the-real-scandal.md)
@@ -379,16 +315,6 @@
 [Geoengineering](12/geoengineering.md)
 
 [#indeed](12/indeed.md)
-
-[Q&A - 26/12](12/q-2612.md)
-
-[Q&A - 27/12](12/q-2712.md)
-
-[Q&A - 3/12](12/q-312.md)
-
-[Q&A - 8/12](12/q-812.md)
-
-[Q&A - 9/12](12/q-911.md)
 
 [#santa](12/santa.md)
 

@@ -12,12 +12,6 @@
 
 [](01/nytemp.md)
 
-[Q&A - 23/1](01/q-231.md)
-
-[Q&A - 24/1](01/q-241.md)
-
-[Q&A - 31/1](01/q-311.md)
-
 [The Lost Einsteins](01/the-lost-einsteins.md)
 
 [GroKo](02/groko.md)
@@ -29,10 +23,6 @@
 [Steve Keen's Model, Derivation, Code](02/keen_math.md)
 
 [Late-Stage Capitalism](02/late-stage-capitalism.md)
-
-[Q&A - 18/2](02/q-182.md)
-
-[Q&A - 23/2](02/q-232.md)
 
 [#bernie #cnn](03/bernie-cnn.md)
 
@@ -47,8 +37,6 @@
 [Multiversed](03/multiversed.md)
 
 [#oprah](03/oprah.md)
-
-[Q&A - 15/3](03/q-153.md)
 
 [RIP Petrodollar?](03/rip-petrodollar.md)
 
@@ -70,12 +58,6 @@
 
 [#petrodollar](04/petrodollar.md)
 
-[Q&A - 21/4](04/q-214.md)
-
-[Q&A - 22/4](04/q-224.md)
-
-[Q&A - 4/4](04/q-44.md)
-
 [Yo Bitch](04/yo-bitch.md)
 
 [Economy](05/economy.md)
@@ -89,16 +71,6 @@
 [US Polarization](05/polarization.md)
 
 [Princes of Mayhem](05/princes-of-mayhem.md)
-
-[Q&A - 20/5](05/q-205.md)
-
-[Q&A - 21/5](05/q-215.md)
-
-[Q&A - 30/5](05/q-305_30.md)
-
-[Q&A - 5/5](05/q-55.md)
-
-[Q&A - 6/5](05/q-65.md)
 
 [Quantity Theory of Money](05/quantity-theory-of-money.md)
 
@@ -118,12 +90,6 @@
 
 [#piece](06/piece_15.md)
 
-[Q&A - 12/6](06/q-126.md)
-
-[Q&A - 20/6](06/q-206.md)
-
-[Q&A - 28/6](06/q-286.md)
-
 [Regulation is a Good Thing](06/regulation-is-good-thing.md)
 
 [#russia #russia #russia](06/russia-russia-russia.md)
@@ -139,12 +105,6 @@
 [Monetary Diversity](07/monetary-diversity.md)
 
 [Plant-Based Meat](07/plant-based-meat.md)
-
-[Q&A - 12/7](07/q-127.md)
-
-[Q&A - 2/7](07/q-27.md)
-
-[Q&A - 9/7](07/q-97.md)
 
 [Entrepreneurship Insurance](08/entrepreneurship-insurance.md)
 
@@ -172,10 +132,6 @@
 
 [Public Education](09/public-education.md)
 
-[Q&A - 15/9](09/q-159.md)
-
-[Q&A - 16/9](09/q-169.md)
-
 [#science](09/science.md)
 
 [The Myth of the Liberal International Order](09/the-myth-of-liberal-international-order.md)
@@ -194,12 +150,6 @@
 
 [Patent Codebook](10/patents-code.md)
 
-[Q&A - 14/10](10/q-1410.md)
-
-[Q&A - 27/10](10/q-2710.md)
-
-[Q&A - 29/10](10/q-2910.md)
-
 [The Case Against Patents](10/the-case-against-patents.md)
 
 [Drinking Water from Air](11/drinking-water-from-air.md)
@@ -216,10 +166,6 @@
 
 [MPP Analysis](11/mpp-analysis.md)
 
-[Q&A - 17/11](11/q-1711.md)
-
-[Q&A - 21/11](11/q-2111.md)
-
 [#russia #russia #russia](11/russia-russia-russia.md)
 
 [Solid H2, Nanopowders](11/solid-h2-nanopowders.md)
@@ -233,8 +179,6 @@
 [Friedman on US, Europe, The World](12/friedman-europe.md)
 
 [Da Collapse, Macro Investing, McCollough](12/macro-mccollough.md)
-
-[Q&A - 16/12](12/qa-1.md)
 
 [](12/quads.md)
 

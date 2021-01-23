@@ -242,10 +242,6 @@
 
 [Peak Oil After Shale](09/peak-oil-after-shale.md)
 
-[Q&A - 4/9](09/q-49.md)
-
-[Q&A - 8/9](09/q-69.md)
-
 [Shoshana Zuboff](09/shoshana-zuboff.md)
 
 [Shyp](09/shyp.md)
@@ -265,12 +261,6 @@
 [#nice](10/nice.md)
 
 [#ouch](10/ouch.md)
-
-[Q&A - 14/9](10/q-149.md)
-
-[Q&A - 28/10](10/q-2810.md)
-
-[Q&A - 30/10](10/q-2910.md)
 
 [Q&A - 7/10](10/q.md)
 
@@ -310,16 +300,6 @@
 
 [New Machine Vision Software Describing Images](11/new-machine-vision-describing-images.md)
 
-[Q&A - 18/11](11/q-1711.md)
-
-[Q&A - 25/11](11/q-2511.md)
-
-[Q&A - 30/11](11/q-3011.md)
-
-[Q&A - 4/11](11/q-411.md)
-
-[Q&A - 7/11](11/q-711.md)
-
 [Why Economists Need Data Mining](11/why-economists-need-data-mining.md)
 
 [#andreessen #smorgasbord](12/andreessen-smorgasbord.md)
@@ -341,12 +321,4 @@
 [Peak Vinyl](12/peak-vinyl.md)
 
 [#postracial #future](12/postracial-future-ishere.md)
-
-[Q&A - 10/12](12/q-1012.md)
-
-[Q&A - 12/12](12/q-1211.md)
-
-[Q&A - 13/12](12/q-1311.md)
-
-[Q&A - 17/12](12/q-1712.md)
 

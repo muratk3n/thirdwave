@@ -6,8 +6,6 @@
 
 [E-Diesel](01/ediesel.md)
 
-[QA - 22/1](01/qa-1.md)
-
 [Solar Ammonia](01/solarammonia.md)
 
 [Transportation Infrastructure, NH3](01/transportation.md)
@@ -22,15 +20,9 @@
 
 [H2@Scale](03/h2scale.md)
 
-[Q&A - 19/3](03/qa-0193.md)
-
 [Wires vs Pipes](03/wirespipes.md)
 
 [Green Ammonia](04/greenammonia.md)
-
-[Q&A - 6/4](04/qa-0604.md)
-
-[Q&A - 18/4](04/qa-1804.md)
 
 [Infrastructure for Space, Bezos](05/bezos-space-infrastructure.md)
 
@@ -50,12 +42,6 @@
 
 [Hope for Jaded Green Investors](06/jaded-h2.md)
 
-[Q&A - 9/6](06/qa-0906.md)
-
-[Q&A - 16/6](06/qa-1606.md)
-
-[Q&A - 25/6](06/qa-2506.md)
-
 [Underactuated](06/underactuated.md)
 
 [GenCell and Ammonia](07/gencell.md)
@@ -63,12 +49,6 @@
 [The Math for Greenhouse Effect and Global Warming](07/greenhouse-effect-math.md)
 
 [The Middle East, Israel, Palestine](07/middleeast.md)
-
-[Q&A - 1/7](07/qa-0107.md)
-
-[QA - 6/7](07/qa-0607.md)
-
-[QA - 15/7](07/qa-1507.md)
 
 [Focus-Group Democracy](08/focus-group-democracy.md)
 

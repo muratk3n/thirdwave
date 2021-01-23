@@ -20,14 +20,6 @@
 
 [#partypoopah](01/partypoopah.md)
 
-[Q&A - 23/1](01/q-231.md)
-
-[Q&A - 4/1](01/q-41.md)
-
-[Q&A - 5/1](01/q-51.md)
-
-[Q&A - 9/1](01/q-91.md)
-
 [Red Packets](01/red-packets.md)
 
 [Solah Powah 2](01/solah-powah-2.md)
@@ -51,12 +43,6 @@
 [I Like It Ahh-Lawt](02/i-like-it-ahh-lawt.md)
 
 [#jpl](02/jpl.md)
-
-[Q&A - 17/2](02/q-172.md)
-
-[Q&A - 20/2](02/q-202.md)
-
-[Q&A - 27/2](02/q-272.md)
 
 [Reagan](02/reagan.md)
 
@@ -90,10 +76,6 @@
 
 [#protest](03/protest.md)
 
-[Q&A - 1/3](03/q-13.md)
-
-[Q&A - 24/3](03/q-243.md)
-
 [#scotus #sotu](03/scotus-sotu.md)
 
 [#singularity](03/singularity.md)
@@ -118,8 +100,6 @@
 
 [Piece of Cake](04/piece-of-cake.md)
 
-[Q&A - 21/4](04/q-214.md)
-
 [Telenovela](04/telenovela.md)
 
 [#united](04/united.md)
@@ -127,8 +107,6 @@
 [Want](04/want.md)
 
 [En Marche !](05/en-marche.md)
-
-[Q&A - 17/5](05/q-175.md)
 
 [The Best vs. The Rest](05/the-best-vs-rest.md)
 
@@ -144,10 +122,6 @@
 
 [Kaleefornia](06/kaleefornia.md)
 
-[Q&A - 29/6](06/q-296.md)
-
-[Q&A - 30/6](06/q-306.md)
-
 [#uber](06/uber.md)
 
 [War on Drugs](06/war-on-drugs.md)
@@ -159,14 +133,6 @@
 [#jobs](07/jobs.md)
 
 [#MTPGA](07/mtpga.md)
-
-[Q&A - 10/7](07/q-107.md)
-
-[Q&A - 11/7](07/q-117.md)
-
-[Q&A - 17/7](07/q-177.md)
-
-[Q&A - 4/7](07/q-47.md)
 
 [The Next Decade, Friedman](07/the-next-decade-friedman.md)
 
@@ -181,16 +147,6 @@
 [One Is Not Like the Others](08/one-is-not-like-others.md)
 
 [Production, Know-How, GDP, Globalization](08/production-gdp-globalization.md)
-
-[Q&A - 14/8](08/q-148.md)
-
-[Q&A - 15/8](08/q-158.md)
-
-[Q&A - 30/8](08/q-308.md)
-
-[Q&A - 3/8](08/q-38.md)
-
-[Q&A - 9/8](08/q-98.md)
 
 [Sanders on the Democratic Party](08/sanders-on-democratic-party.md)
 
@@ -219,10 +175,6 @@
 [Graham-Cassidy](09/graham-cassidy.md)
 
 [Maria: Target Maga-Lago](09/maria-target-maga-lago.md)
-
-[Q&A - 21/9](09/q-219.md)
-
-[Q&A - 26/9](09/q-269.md)
 
 [The Ultimate Stimulus: Social Safety Net](09/the-ultimate-stimulus-social-safety-net.md)
 
@@ -258,10 +210,6 @@
 
 [Education Without Subjects](11/education-without-subjects.md)
 
-[Q&A - 10/11](11/q-1011.md)
-
-[Q&A - 12/11](11/q-1211.md)
-
 [Reskilling](11/reskilling.md)
 
 [Square  + Bitcoin](11/square-bitcoin.md)
@@ -277,8 +225,6 @@
 [#millenials](12/millenials.md)
 
 [Palestine, Lebanon, Hashemites](12/palestine.md)
-
-[Q&A - 4/12](12/q-412.md)
 
 ["Holy" Rome](12/rome.md)
 
