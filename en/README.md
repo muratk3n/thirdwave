@@ -1,5 +1,12 @@
 # Tweets
 
+Good to get indep confirmation from Airbus itself, on weight, volume
+etc \#H2
+
+[Link](https://youtu.be/525YtyRi_Vc?t=342)
+
+---
+
 So light didnt bend near star?
 
 But I saw an entire movie on Eddington saying he proved a theory
