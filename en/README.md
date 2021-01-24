@@ -1,7 +1,7 @@
 # Tweets
 
-Good to get indep confirmation from Airbus itself, on weight, volume
-etc \#H2
+Nice.. Good to see confirmation from Airbus, on weight, volume etc
+\#H2
 
 [Link](https://youtu.be/525YtyRi_Vc?t=342)
 
