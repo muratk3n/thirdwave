@@ -31,7 +31,7 @@ to be correct for black holes, big bang to exist.
 
 The sun has surface, it has frickin tornadoes
 
-[Video](https://youtu.be/faywryDTmTE)
+[Video](https://youtu.be/faywryDTmTE?t=6)
 
 Faux black hole formation
 
