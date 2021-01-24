@@ -7,11 +7,11 @@ and they are actively thinking about it \#H2. Where is Boeing?
 
 ---
 
-So light didnt bend near star? But I saw an entire movie on Eddington
-saying he proved a theory right with one observation! David Tennant
-was in it!  Frickin Doctor Who!
+So light didnt bend near a star (only at the limb)? But I saw an
+entire movie on Eddington saying he proved a theory right with one
+observation! David Tennant was in it!  Frickin Doctor Who!
 
-[Link](https://youtu.be/B_ixkOI4k8c?t=69)
+[Link](https://youtu.be/B_ixkOI4k8c?t=24)
 
 ---
 
