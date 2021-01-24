@@ -7,10 +7,9 @@ Nice.. Good to see confirmation from Airbus, on weight, volume etc
 
 ---
 
-So light didnt bend near star?
-
-But I saw an entire movie on Eddington saying he proved a theory
-right with that obs! David Tennant was in it! Frickin Doctor Who!
+So light didnt bend near star? But I saw an entire movie on Eddington
+saying he proved a theory right with one observation! David Tennant
+was in it!  Frickin Doctor Who!
 
 [Link](https://youtu.be/B_ixkOI4k8c?t=69)
 
