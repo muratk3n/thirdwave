@@ -1,3 +1,4 @@
+# Hafta 8
 
 Bir yorumcu
 
@@ -15,14 +16,27 @@ oluyor, ABD kamuoyu, kongre uyeleri Misir desteginin "terore karsi
 savasin" bir parcasi olduguna inaniyorlar (hukumet isin aslini biliyor
 tabii ki). Alan memnun, satan memnun.
 
+---
+
 El Baraday
 
-Tunus'taki diktatorun yikilmasindan arkasinda Misir'da protestolar sokaklarda olusmaya baslarken, disisleri bakani Hillary Clinton'un Misir'daki yonetimi "stabil" [..] olarak tanimladigini duydum -- saskinliktan ne diyecegimi bilemedim; ne tur, hangi bedellerin odendigi bir stabiliteden bahsediyordu acaba? Stabilite dedigi 30 senelik imparatorvari bir yonetimin 29 senesinin "olaganustu hal" kanunlariyla gectigi bir durum muydu acaba?
+Tunus'taki diktatorun yikilmasindan arkasinda Misir'da protestolar
+sokaklarda olusmaya baslarken, disisleri bakani Hillary Clinton'un
+Misir'daki yonetimi "stabil" [..] olarak tanimladigini duydum --
+saskinliktan ne diyecegimi bilemedim; ne tur, hangi bedellerin
+odendigi bir stabiliteden bahsediyordu acaba? Stabilite dedigi 30
+senelik imparatorvari bir yonetimin 29 senesinin "olaganustu hal"
+kanunlariyla gectigi bir durum muydu acaba?
 
 Hillary cuvalladi
 
-Baraday "cakmis". Ve hakli, ABD cuvalladi, ilk analizleri yanlisti, sonra ise gec dahil oldular. Neyse .. simdi bazi pozitif adimlar goruyoruz. Ama genel acidan da bakarsak ayni Newsweek sayisinda roportaj yapilan Brezinski'nin dedigi gibi, Obama Kahire Universitesi konusmasinin icini dolduramadi, ve isin ustune yatti.
+Baraday "cakmis". Ve hakli, ABD cuvalladi, ilk analizleri yanlisti,
+sonra ise gec dahil oldular. Neyse .. simdi bazi pozitif adimlar
+goruyoruz. Ama genel acidan da bakarsak ayni Newsweek sayisinda
+roportaj yapilan Brezinski'nin dedigi gibi, Obama Kahire Universitesi
+konusmasinin icini dolduramadi, ve isin ustune yatti.
 
+---
 
 Haber
 
@@ -30,22 +44,50 @@ Turkiye solu Tunus, Misir "devrimlerindeki" Internet'in rolunu kucumsedi.
 
 Bunlarin mayasi bozuk
 
-Marksizm materyelist bir ideolojidir, ve bu hata, nihai analizde onun en derin yanilgisidir; hatadan donmesi artik mumkun gozukmemektedir.
+Marksizm materyelist bir ideolojidir, ve bu hata, nihai analizde onun
+en derin yanilgisidir; hatadan donmesi artik mumkun gozukmemektedir.
 
 Su yazidan
-Sosyalizm'in coken bir diger bacagi, "donanima" olan asiri vurgusudur; onun hem tarim hem de bilgi isini kucumsemesi, ona yukaridan bakmasidir. [.. S]osyalistler beyaz yakali isleri ve sektoru de rutin olarak asagilamislardir.
 
-Sovyetlerin sanatta "Sovyet gercekciligini" emretmesi ve duvarlarin derhal kol kuvvetiyle demir-celik islerinde calisan iscilerin resimleri ile kaplanmasi bir raslanti degildi. Cunku tum dunyada sosyalizmin amaci hizla endustriyellesmek ve bunu yaparken kas kuvvetini yuceltmek olmustur. Zihin isleri "uretken olmayan" "zayif insanlarin" yaptigi isler olarak gorulmustur.
+Sosyalizm'in coken bir diger bacagi, "donanima" olan asiri vurgusudur;
+onun hem tarim hem de bilgi isini kucumsemesi, ona yukaridan
+bakmasidir. [.. S]osyalistler beyaz yakali isleri ve sektoru de rutin
+olarak asagilamislardir.
 
-Bu zihniyetin cikis noktasi tuketime degil, bireysel tuketime dayanmayan bir tur uretime olan asiri vurgudadir. Antonia Gramsci, hatta (bazen) Mao Tse-tung gibi bazi Marksistler bu goruse karsi cikip pur zihinsel islerin materyel eksiklige ustun gelebilecegini vurgulamaya ugrasmislardir ama Marksist "ana kol (mainstream)" dusuncenin ana temasi her zaman materyal uretimi uste cikarmak ve zihinsel uretimi asagilamak olmustur.
+Sovyetlerin sanatta "Sovyet gercekciligini" emretmesi ve duvarlarin
+derhal kol kuvvetiyle demir-celik islerinde calisan iscilerin
+resimleri ile kaplanmasi bir raslanti degildi. Cunku tum dunyada
+sosyalizmin amaci hizla endustriyellesmek ve bunu yaparken kas
+kuvvetini yuceltmek olmustur. Zihin isleri "uretken olmayan" "zayif
+insanlarin" yaptigi isler olarak gorulmustur.
 
-Bu Marksist ana kolun tipik dusuncesi fikirler, enformasyon, sanat, kultur, kanun, teoriler, ve diger elle tutulamayan urunlerin sistemin "cevre yapisini" olusturdugu yonundeydi, ki onlara gore bu tur urunler sistemin cevresinde gezinen, ekonomik "temelinin" ustunde ucusan bir tur "bulut" gibi durmaktaydi. Bu kisiler bu iki "obek" arasinda bir tur geri besleme oldugunu kabul ediyorlardi fakat ekonomik "bazin" ustteki kavramlari "yarattigini" dusunuyorlardi. Bunun tersini iddia edenler ise acilen "idealist" olarak yaftalaniyordu, ki bu kelime o zamanlarda isitilebilecek en agir hakaretlerden biriydi.
+Bu zihniyetin cikis noktasi tuketime degil, bireysel tuketime
+dayanmayan bir tur uretime olan asiri vurgudadir. Antonia Gramsci,
+hatta (bazen) Mao Tse-tung gibi bazi Marksistler bu goruse karsi cikip
+pur zihinsel islerin materyel eksiklige ustun gelebilecegini
+vurgulamaya ugrasmislardir ama Marksist "ana kol (mainstream)"
+dusuncenin ana temasi her zaman materyal uretimi uste cikarmak ve
+zihinsel uretimi asagilamak olmustur.
 
-Marks, materyel temelin ustunlugunu vurgulayarak Hegel'in fikirlerini tersine cevirmis oldu. Fakat tarihin ironisi oyle oldu ki yeni zenginlik ureten sistem bu sefer Marks'in fikirlerini basasagi etti. Daha dogrusu hem Hegel'i hem de Marks'i yeni cagin uretim metotu iki seksen yere serecekti.
-Demek ki, bu cagda bilgi teknolojilerinin degistirici gucunden bahseden Marksist degil, baska bir sey olur. Kendine "Marksist Liberal" gibi salakca bir etiket verip televizyonlarda dolasanlar da bos yere konusmaktadir.
+Bu Marksist ana kolun tipik dusuncesi fikirler, enformasyon, sanat,
+kultur, kanun, teoriler, ve diger elle tutulamayan urunlerin sistemin
+"cevre yapisini" olusturdugu yonundeydi, ki onlara gore bu tur urunler
+sistemin cevresinde gezinen, ekonomik "temelinin" ustunde ucusan bir
+tur "bulut" gibi durmaktaydi. Bu kisiler bu iki "obek" arasinda bir
+tur geri besleme oldugunu kabul ediyorlardi fakat ekonomik "bazin"
+ustteki kavramlari "yarattigini" dusunuyorlardi. Bunun tersini iddia
+edenler ise acilen "idealist" olarak yaftalaniyordu, ki bu kelime o
+zamanlarda isitilebilecek en agir hakaretlerden biriydi.
 
-Barack Obama
+Marks, materyel temelin ustunlugunu vurgulayarak Hegel'in fikirlerini
+tersine cevirmis oldu. Fakat tarihin ironisi oyle oldu ki yeni
+zenginlik ureten sistem bu sefer Marks'in fikirlerini basasagi
+etti. Daha dogrusu hem Hegel'i hem de Marks'i yeni cagin uretim metotu
+iki seksen yere serecekti.
 
-[Misir'daki olaylar sonrasi] Teknolojinin degistirici, transform edici gucunu bir daha gorduk.
+Demek ki, bu cagda bilgi teknolojilerinin degistirici gucunden
+bahseden Marksist degil, baska bir sey olur. Kendine "Marksist
+Liberal" gibi salakca bir etiket verip televizyonlarda dolasanlar da
+bos yere konusmaktadir.
 
-Dogru
+---
