@@ -15,7 +15,7 @@ was in it!  Frickin Doctor Who!
 
 ---
 
-The sun is not gaseous but made up of liwuid metallic hydrogen? 
+The sun is not gaseous but made up of liquid metallic hydrogen?
 
 [Video](https://youtu.be/Erql613GO_k)
 
