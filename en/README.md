@@ -1,7 +1,7 @@
 # Tweets
 
 Nice.. Good to see confirmation from Airbus, on weight, volume etc,
-and they are actively thinking about it \#H2 Where is Boeing? 
+and they are actively thinking about it \#H2. Where is Boeing?
 
 [Link](https://youtu.be/525YtyRi_Vc?t=342)
 
