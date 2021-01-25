@@ -33,7 +33,7 @@ planetary system allowing it to speed up. But the pace of the natural
 system carries on as it always has. The problem is not Stern’s market
 failure but market success.
 
-Brad Werner’s conclusion is that the Earth is indeed f**ked, unless
+Brad Werner’s conclusion is that the Earth is indeed f--ked, unless
 somehow the market system can be prevented from working so well. What
 we urgently need is friction; sand must be thrown into the machine to
 slow it down. Only resistance to the dominant culture will give some
