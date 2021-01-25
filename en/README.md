@@ -55,9 +55,9 @@ other countries?"
 
 Dubya used that shit so well.. I'll never forget during one debate
 Gore was constantly saying "I'll fight for this","I'll fight for that"
-jumps in "there's been enough fightin". Boom. With a little Southerner
-cowboy delivery, with perfect timing.. Gore was floored. Great
-salesman that guy.
+W jumps in and he's like "there's been enough fightin". Boom. With a
+little Southerner cowboy delivery, perfect timing.. Gore was
+floored. Top notch salesmanship brother.
 
 ---
 
