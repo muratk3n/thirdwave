@@ -82,8 +82,6 @@
 
 [#AGI](06/agi.md)
 
-[EU Greece code](06/eu_greece.md)
-
 [#frank](06/frank.md)
 
 [Governments, Money, Economy](06/governments-money-economy.md)
@@ -124,11 +122,11 @@
 
 [Nikola](09/nikola.md)
 
-[#nomadic #tech](09/nomadic-tech.md)
-
 [Part-Time Employees](09/part-time-employees.md)
 
 [Patents](09/patents.md)
+
+[Pemmican](09/pemmican.md)
 
 [Public Education](09/public-education.md)
 

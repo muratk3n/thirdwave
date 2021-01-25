@@ -58,8 +58,6 @@
 
 [Dude Where Is My Solar Impulse 2?!!](04/dude-where-is-my-solar-impulse-2.md)
 
-[](04/extinct.md)
-
 [Money Laundering 101](04/money-laundering.md)
 
 [Planet Nine](04/planet-nine.md)
