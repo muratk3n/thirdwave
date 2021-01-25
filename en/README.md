@@ -44,8 +44,8 @@ Maybe they already know they are getting their "gray" energy from
 Russia, with CCS done on their side
 
 US has potential for both (but dont frack, or transmit NG over pipes,
-they leak, very hard to regulate, Id also watch for [this
-shit](2019/09/sf6.md), the material is used in wind turbines and
+they leak, very hard to regulate, Id also watch for
+[this shit](2019/09/sf6.md), the material is used in wind turbines and
 high-voltage electric installations)
 
 "How is Europe more gung-ho on green energy production compared to
