@@ -81,8 +81,8 @@ leaving a major ideology unattended for years, and trying to displace
 another is what caused the shitstorm to begin with, not to mention
 Trump's rise.
 
-Then what do we have here.. A spin, on top of a big mistake, on top of
-a generational shift - now defunct... Meh. Not exactly FDR caliber.
+Then what are we left with? A spin, on top of a big mistake, on top of
+a generational shift -now defunct-... Meh. 
 
 ---
 
