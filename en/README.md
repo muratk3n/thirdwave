@@ -6,8 +6,7 @@ Dublex Inc. - Simply Smooth \#music
 
 ---
 
-For ppl who missed yesterday's post there is the
-[archive](en/tweets/2021/week4.md).
+Missed yesterday's post? [Here](tweets/2021/week4.md) it is
 
 ---
 
