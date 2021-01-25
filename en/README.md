@@ -118,10 +118,6 @@ soup, Sunday morning.. School is out. Whatever...
 
 ---
 
-Unity.. that elusive wonderful thing..
-
----
-
 Not bad... If there is less corp pandering, more left from AC, the bro
 at CNN can be the new Fredo.
 
