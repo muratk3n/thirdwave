@@ -74,7 +74,7 @@ entrenched. Hannity vs Maddow, people screaming at eachother,
 theather, junk-food politics are all the descendants of that era.
 
 Now into this environment, in the eleventh inning steps in a certain
-politican and ask for, you guessed it, unity, comity. It can sell,
+politican and asks for, you guessed it, unity, comity. It can sell,
 sure.. "Im a uniter not a divider" etc. But thinking of the causes,
 for the Dems especially, we know they r in no position to ask for such
 things because their leaving a major ideology unattended for years,
