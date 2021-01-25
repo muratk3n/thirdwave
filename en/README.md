@@ -86,6 +86,10 @@ a generational shift - now defunct... Meh. Not exactly FDR caliber.
 
 ---
 
+<iframe width="340" src="https://www.youtube.com/embed/4w_bNqs0-XM?start=411&end=552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 Sometimes the use of the word is tactical, you mention unity, if the
 other guy does not go for it, now he is the asshole. Small effect, but
 maybe worth a try for some.
@@ -115,10 +119,6 @@ soup, Sunday morning.. School is out. Whatever...
 ---
 
 Unity.. that elusive wonderful thing..
-
----
-
-<iframe width="340" src="https://www.youtube.com/embed/4w_bNqs0-XM?start=411&end=552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
