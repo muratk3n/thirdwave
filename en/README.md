@@ -69,7 +69,7 @@ looked for a new place to go, lurched right, tried to outdo Reps in
 their own game. Reps balked, and radicalized on 4G (Green, Gays, Guns,
 God) to differentiate, so the Clinton years had insane amt of
 drama. These issues were moral, ethical issues not political,
-unresolvable at that level, so intense fighting persisted, became
+unresolvable, so intense fighting persisted, became
 entrenched. Hannity vs Maddow, people screaming at eachother,
 theather, junk-food politics are all the descendants of that era.
 
