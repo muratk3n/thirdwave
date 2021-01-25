@@ -74,12 +74,12 @@ entrenched. Hannity vs Maddow, people screaming at eachother,
 theather, junk-food politics are all the descendants of that era.
 
 Now into this environment, in the eleventh inning steps in a certain
-politican and asks for, you guessed it, unity, comity. It can sell -
-sure.. "Im a uniter not a divider" etc. But thinking of the causes,
-for the Dems especially, we know they r in no position to ask for such
-things because their leaving a major ideology unattended for years,
-and trying to displace another is what caused the shitstorm to begin
-with, not to mention Trump's rise.
+politican and asks for, you guessed it, unity, comity. It can sell..
+"Im a uniter not a divider" etc. But thinking of the causes, for the
+Dems especially, we know they r in no position to ask for such things
+because their leaving a major ideology unattended for years, and
+trying to displace another is what caused the shitstorm to begin with,
+not to mention Trump's rise.
 
 Then what do we have here.. A spin, on top of a big mistake, on top of
 a generational shift - now defunct... Meh. Not exactly FDR caliber.
