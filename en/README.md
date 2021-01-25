@@ -53,7 +53,7 @@ other countries?"
 
 ---
 
-Dubya used that shit so well.. I'll never forget during one debate
+Dubya used that stuff so well.. I'll never forget during one debate
 Gore was constantly saying "I'll fight for this","I'll fight for that"
 W jumps in and he's like "there's been enough fightin". Boom. With a
 little Southerner cowboy delivery, perfect timing.. Gore was
