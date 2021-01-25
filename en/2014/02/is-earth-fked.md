@@ -18,7 +18,7 @@ talked about system boundaries, perturbations, dissipation,
 attractors, bifurcations and a whole bunch of other stuff largely
 incomprehensible to those of us uninitiated in complex systems theory
 [..] When pressed by a journalist for a clear answer on the “are we
-f**ked” question, Werner set the jargon aside and replied, “More or
+f--ked” question, Werner set the jargon aside and replied, “More or
 less.”
 
 The essential problem, Werner argued, is that there is a mismatch
