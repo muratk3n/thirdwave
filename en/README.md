@@ -63,7 +63,7 @@ top notch salesmanship.
 
 But the most obnoxious form of unity talk starts from the Washington
 Consensus, post-politics mentality that emerged, a Frankenstein of the
-post Berlin War, TINA world order. After the whole damn Berlin Wall
+post Berlin Wall, TINA world order. After the whole damn Berlin Wall
 collapsed on their heads, Dems in abject fear started running around,
 looked for a new place to go, lurched right, tried to outdo Reps in
 their own game. Reps balked, and radicalized on 4G (Green, Gays, Guns,
