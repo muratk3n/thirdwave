@@ -56,8 +56,8 @@ other countries?"
 Dubya used that stuff so well.. I'll never forget during one debate
 Gore was constantly saying "I'll fight for this","I'll fight for that"
 W jumps in and he's like "there's been enough fightin". Boom. With a
-little Southerner cowboy delivery, perfect timing.. Gore was
-floored. Top notch salesmanship brother.
+Southerner, cowboy delivery, good timing.. Gore was floored. Absolute
+top notch salesmanship.
 
 ---
 
