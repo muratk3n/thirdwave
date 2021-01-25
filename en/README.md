@@ -6,6 +6,11 @@ Dublex Inc. - Simply Smooth \#music
 
 ---
 
+For ppl who missed yesterday's post there is the
+[archive](en/tweets/2021/week4.md).
+
+---
+
 An earlier [post](2014/02/is-earth-fked.md) on BW
 
 "[A] geophysicist, Brad Werner, who in 2012 argued ... that we are in
