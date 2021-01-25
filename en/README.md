@@ -73,8 +73,8 @@ things because their leaving a major ideology unattended for years,
 and trying to displace another is what caused the shitstorm to begin
 with, not to mention Trump's rise.
 
-A spin, on top of a big mistake, on top of a generational shift (now
-defunct).. Meh. Not exactly FDR caliber.
+A spin, on top of a big mistake, on top of a generational shift -now
+defunct-... Meh. Not exactly FDR caliber.
 
 ---
 
