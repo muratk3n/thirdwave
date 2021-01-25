@@ -6,10 +6,6 @@ Dublex Inc. - Simply Smooth \#music
 
 ---
 
-Missed yesterday's post? [Here](tweets/2021/week4.md) it is
-
----
-
 An earlier [post](2014/02/is-earth-fked.md) on BW
 
 "[A] geophysicist, Brad Werner, who in 2012 argued ... that we are in
@@ -138,6 +134,10 @@ technology. The company will use this facility to manufacture hydrogen
 fuel cell stacks and electrolyzers"
 
 [Link](https://www.governor.ny.gov/news/governor-cuomo-announces-hydrogen-fuel-cell-energy-provider-plug-power-build-new-innovation)
+
+---
+
+Missed yesterday's post? [Here](tweets/2021/week4.md) it is
 
 ---
 
