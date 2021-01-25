@@ -6,8 +6,8 @@ In December 2012, a pink-haired complex systems researcher named Brad
 Werner made his way through the throng of 24,000 earth and space
 scientists at the Fall Meeting of the American Geophysical Union, held
 annually in San Francisco [.. I]t was Werner’s own session that was
-attracting much of the buzz. It was titled “Is Earth F**ked?” (full
-title: “Is Earth F**ked? Dynamical Futility of Global Environmental
+attracting much of the buzz. It was titled “Is Earth F--ked?” (full
+title: “Is Earth F--ked? Dynamical Futility of Global Environmental
 Management and Possibilities for Sustainability via Direct Action
 Activism”).
 
