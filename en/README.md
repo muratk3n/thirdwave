@@ -27,9 +27,9 @@ That's some old shit right there.
 The parts that make up these Frankensteins are also broken beyond
 repair, e.g. TR nationalism is bizarrely fallacious. The locals of
 Anatolia owe next to nothing to "the steppes", neither in genetics,
-nor in culture (every migrants was assimilated into the region, and
-the gov culture was Roman -so again local-). How my people manage to
-move an inch is beyond me, but then again, they really aren't.
+nor in culture (every migrant was assimilated into the region, and the
+gov culture was Roman -so again local-). How my people manage to move
+an inch is beyond me, but then again, they really aren't.
 
 ---
 
