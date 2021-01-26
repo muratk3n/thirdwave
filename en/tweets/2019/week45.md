@@ -618,16 +618,6 @@ job didn't exist, it would make no difference at all.'"
 
 ---
 
-"@ggreenwald
-
-The Bolsonaro-era destruction of the Amazon, as well as the indigenous
-people who live there, continues: yet another murder of an indigenous
-activist trying to protect their land from illegal loggers"
-
-[Link](https://twitter.com/ggreenwald/status/1190704134867034112)
-
----
-
 "@hxhassan
 
 Iraqi protests are probably the most remarkable regional event in half

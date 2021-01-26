@@ -8,15 +8,6 @@ it by mail service rather than at a pharmacy"
 
 ---
 
-"@ggreenwald
-
-That Trump is talking about a pardon for Snowden, & @RepThomasMassie
-is now explicitly calling for one, should not obscure that this is not
-a right-wing view. Includes groups as disparate as ACLU, NYT Ed Page,
-ex-Obama officials & Church Committee staffers"
-
----
-
 "@KenDilanianNBC
 
 Trump: 'A lot of people' think Edward Snowden 'not being treated

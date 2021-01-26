@@ -476,10 +476,6 @@ Energy"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brazil’s Federal Police is subpoenaing <a href="https://twitter.com/GuilhermeBoulos?ref_src=twsrc%5Etfw">@GuilhermeBoulos</a> — the socialist presidential candidate in 2018 and one of the leading candidates for São Paulo Mayor this year — to question him about *critical tweets of Bolsonaro*, for those who want to understand authoritarianism: <a href="https://t.co/VNuKvnzCvZ">https://t.co/VNuKvnzCvZ</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1310618164703698945?ref_src=twsrc%5Etfw">September 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@mtaibbi
 
 Lol at this offhand detail in the Times piece: 'Nor do [tax records]

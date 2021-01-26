@@ -526,16 +526,6 @@ Clean Hydrogen Alliance!"
 
 ---
 
-"@ggreenwald
-
-There is no question -- none -- that mainstream US news outlets
-disseminate more unhinged, unproven conspiracy theories -- and do far
-more damage with them -- than QAnon, or whichever fringe group they
-want you to focus on, can achieve in 1,000 years"
-
-
----
-
 If one has certain [socdyn ability](2015/07/mesquita-game-theory.md#inborn),
 an idea is to use it to find good anchor points, calculations, measurements, lit,
 and use that to build more know-how around. Can lead to more replicatable

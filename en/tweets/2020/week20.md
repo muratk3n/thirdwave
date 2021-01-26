@@ -156,10 +156,6 @@ dir. That's it.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The people who spent 3 years drowning US politics in claims that Putin had taken over effective control of the US through sexual and financial blackmail and had conspired with Trump to interfere in the 2016 election are angry today about &quot;conspiracy theories.&quot; <a href="https://t.co/oJOiTToqIP">pic.twitter.com/oJOiTToqIP</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1260660152048336896?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@alexandrapullin
 
 I wonder whether a side effect of lockdown will be a general exodus of

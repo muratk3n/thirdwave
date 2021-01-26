@@ -440,14 +440,6 @@ corporations"
 
 ---
 
-"@ggreenwald
-
-CNN in the US constantly and flamboyantly postures as an anti-fascist
-network while making huge money selling its brand and logo to places
-like Turkey and Brazil to spread authoritarianism and fascism there"
-
----
-
 Sirota: "Republicans Defunded The Police We Need "
 
 [Link](https://sirota.substack.com/p/republicans-defunded-the-police-we)

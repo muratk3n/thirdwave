@@ -306,22 +306,6 @@ Cat, kitty face filter
 
 ---
 
-"@ggreenwald
-
-I have an op-ed today in the @nytimes on the threats and violence
-provoked by our exposés revealing corruption at the highest levels of
-the Bolsonaro government..
-
-[Link](https://mobile.twitter.com/ggreenwald/status/1198963776005005313)
-
----
-
-Corbyn talking smack to Bezos. Gold.
-
-[Link](https://twitter.com/jeremycorbyn/status/1198725492792270856)
-
----
-
 "@mzjacobson
 
 Atmospheric rises in greenhouse gases CO2, CH4, and N2O in 2018 all

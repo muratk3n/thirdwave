@@ -500,16 +500,6 @@ all kinds of attention and money peddling this "vision".
 
 ---
 
-"@ggreenwald
-
-I wonder how many people subserviently cheering Jeff Bezos, Tim Cook
-and Google billionaires for destroying Parler a) have ever been on
-Parler, b) know anything about it besides what CNN & NBC censors have
-shown them, & c) compared the hate speech there to what's on FB &
-YouTube"
-
----
-
 Troubling aspects here, Big Tech individual comps are trying to outdo
 eachother, once ban starts they all go for it, not to be outdone. 
 
