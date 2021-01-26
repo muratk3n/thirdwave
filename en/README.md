@@ -1,139 +1,133 @@
 # Tweets
 
-Dublex Inc. - Simply Smooth \#music
+Irving Martin & Brian Dee - Indianapolis 2 \#music
 
-[Link](https://youtu.be/kjtREqfIi3E)
-
----
-
-An earlier [post](2014/02/is-earth-fked.md) on BW
-
-"[A] geophysicist, Brad Werner, who in 2012 argued ... that we are in
-this [climate] mess not because the market system is not working well
-enough but because it is working too well. Werner’s startling
-presentation to the annual conference of the American Geophysical
-Union was titled ‘Is the Earth F**ked?’ and he posed in public the
-question climate scientists and others who follow their work had been
-asking in private... [He builds] on the fact that humans now
-constitute a force of nature so powerful that we have caused the Earth
-to enter a new geological epoch ... [We created] globally integrated
-market system of resource-use and waste generation driven by the
-relentless need to grow...
-
-The essential problem, Werner argued, is that there is a mismatch
-between the short time-scales of markets, and the political systems
-tied to them, and the much longer time-scales that the Earth system
-needs to accommodate human activity, including soaking up our carbon
-dioxide and other wastes.
-
-Technological progress and globalization of finance, transport and
-communications have oiled the wheels of the human components of the
-planetary system allowing it to speed up. But the pace of the natural
-system carries on as it always has. The problem is not .. market
-failure but market success"
-
-[Link](https://theconversation.com/creative-self-destruction-and-the-climate-48303)
+[Link](https://youtu.be/nnTd98SMYzs)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plans for a “campus-scale” renewable hydrogen plant that will power a college, golf course and buses in Queensland, Australia were unveiled on 18 January by Energy Estate.<br><br>Read more here: <a href="https://t.co/H7rQ98SPKx">https://t.co/H7rQ98SPKx</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/golf?src=hash&amp;ref_src=twsrc%5Etfw">#golf</a> <a href="https://twitter.com/hashtag/buses?src=hash&amp;ref_src=twsrc%5Etfw">#buses</a> <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://twitter.com/hashtag/decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonisation</a> <a href="https://t.co/VZIPmiZG2J">pic.twitter.com/VZIPmiZG2J</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1353477865858281474?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+M. Mikkelsen movie, *Polar*, thumbs up. J Wick type story, but it
+stands on its own. Rated R.
 
 ---
 
-Maybe they already know they are getting their "gray" energy from
-Russia, with CCS done on their side
-
-US has potential for both (but dont frack, or transmit NG over pipes,
-they leak, very hard to regulate, Id also watch for
-[this shit](2019/09/sf6.md), the material is used in wind turbines and
-high-voltage electric installations)
-
-"How is Europe more gung-ho on green energy production compared to
-other countries?"
+Great scenery, new moral dilemmas, space and Earth - The Expanse did
+not disappoint \#S0508
 
 ---
 
-Dubya used that stuff so well.. I'll never forget during one debate
-Gore was constantly saying "I'll fight for this","I'll fight for that"
-W jumps in and he's like "there's been enough fightin". Boom. With a
-Southerner, cowboy delivery, good timing.. Gore was floored. Absolute
-top notch salesmanship.
+OoooOOOo Java Applet, is it?
+
+Of course the URL is now pointing to hyperspace.. 404.
+
+That's some old shit right there.
 
 ---
 
-But the most obnoxious form of unity talk starts from the Washington
-Consensus, post-politics mentality that emerged, a Frankenstein of the
-post Berlin Wall, TINA world order. After the whole damn Berlin Wall
-collapsed on their heads, Dems in abject fear started running around,
-looked for a new place to go, lurched right, tried to outdo Reps in
-their own game. Reps balked, and radicalized on 4G (Green, Gays, Guns,
-God) to differentiate, so the Clinton years had insane amt of
-drama. These issues were moral, ethical issues not political,
-unresolvable, so intense fighting persisted, became
-entrenched. Hannity vs Maddow, people screaming at eachother,
-theather, junk-food politics are all the descendants of that era.
-
-Now into this environment, in the eleventh inning steps in a certain
-politican and asks for, you guessed it, unity, comity. It can sell..
-"Im a uniter not a divider" etc. But thinking of the causes, for the
-Dems especially, we know they r in no position to seek unity, their
-leaving a major ideology unattended for years, and trying to displace
-another is what caused the shitstorm to begin with, not to mention
-Trump's rise.
-
-Then what are we left with? A spin, on top of a big mistake, on top of
-a generational shift -now defunct-... Meh. 
+The parts that make up these Frankensteins are also broken beyond
+repair, e.g. TR nationalism is bizarrely fallacious. The locals of
+Anatolia owe next to nothing to "the steppes", neither in genetics,
+nor in culture (every migrants was assimilated into the region, and
+the gov culture was Roman -again local-). How my people manage to move
+an inch is beyond me, but then again, they really aren't.
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/4w_bNqs0-XM?start=411&end=552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Which and how the ideological parts get included can be completely
+arbitrary, the mix is all in the mind of the fascist.
+
+The leaders of these parties, coalitions are effective schizophrenics,
+mental patients of DID (dissociative identity disorder). This is not
+surprising bcz the poor asshole has to maintain all that crud in a
+singular head. So one day he'll talk about his "pure race from the
+steppes of Central Asia", the next socialism-level state intervention,
+the one after that neoliberal market action. The followers clap
+nevertheless, too braindead to realize something is off, but sadly for
+the country, its media also suffer from the same condition who
+mistake this show for politics.
 
 ---
 
-Sometimes the use of the word is tactical, you mention unity, if the
-other guy does not go for it, now he is the asshole. Small effect, but
-maybe worth a try for some.
+TR naturally shows how not to do something.. Its parties, coalitions
+are cesspools of proto-fascim, bunch of stuff thrown in some container
+*beforehand*, from get-go, either after coups, or in "parties" that
+live in the aftermath of those coups. Take 4 views, throw them in,
+done. Of course it is impossible to maintain incompatibilities for an
+extended period of time, that's where fascism comes in.
 
-Sometimes it is used bcz pol has no inclination to deliver anyway, you
-ask for unity, you dont get it, than you immediately blame the other
-side as a cover for you not doing anything.
+A by-product of the approach is whatever the mix happens to be,
+anything that is left out, is immediately deligitimized. This can be
+the left, sometimes the right (and almost always Kurds), but there is
+always the legitimate mix and "others".
 
-There cld be some old cultural aspects involved; we talked abt during
-[Pemmican Wars](2018/09/pemmican.md) Brits had to step in and *merge*
-two companies. If such things happened more than once, maybe it became
-"the legitimate thing", "the grown up thing" in the eyes of the US
-political class, persisted in its DNA, at the very least, as a
-lip-service, verbally.
-
----
-
-Here are some reasons unity, or "going bi" is eluded to so much in
-US politics.
-
-During a pandemic, after Trump, and in a country composed of states,
-it is not that off-kilter to pay some lip service to the concept. Of
-course the unity of states doesnt imply political unity, but hey, it
-rhymes, good TV. It's a feel-good word, like marshmallows, chicken
-soup, Sunday morning.. School is out. Whatever...
+"How do things work in TR?"
 
 ---
 
-Not bad... If there is less corp pandering, more left from AC, the bro
-at CNN can be the new Fredo.
+If party gets its chance to govern on his own, great. See FDR and the
+New Deal.
 
-"Governor Andrew M. Cuomo today announced that leading alternative
-energy technology provider Plug Power Inc. will establish a $125
-million Innovation Center in New York State creating 377 new jobs. The
-center, located in the Town of Henrietta, Monroe County, will be the
-first world's first Gigafactory for Proton Exchange Membrane
-technology. The company will use this facility to manufacture hydrogen
-fuel cell stacks and electrolyzers"
-
-[Link](https://www.governor.ny.gov/news/governor-cuomo-announces-hydrogen-fuel-cell-energy-provider-plug-power-build-new-innovation)
+FDR knew what he wanted. He nearly packed the SC for its
+hand-wringing.
 
 ---
 
-Missed yesterday's post? [Here](tweets/2021/week4.md) it is
+Yes I said thought leaders, not random jagoff out on the street, see
+below. She is asking what was done for them, not "have you checked the
+latest polls?"
+
+"If u can keep it" is part retort
+
+<img width="340" src="https://pbs.twimg.com/media/EsQRs0hXEAMmvmH?format=jpg&name=small"/>
+
+---
+
+The emergent, self-organized blocks of ideologies, as clusters, carry
+within a good signal, if enough though leaders coalesced around
+something, chances are there is an approach that needs representing.
+
+---
+
+Do coalitions.. But between ideologically distinct parties. If that is
+in place, fine, obviously some coalitions will be able to deliver more
+than others, but at least seperate parties decide how that coalition
+is formed, on their own terms.
+
+"If not unifying, then should people not do coalitions?"
+
+---
+
+Modernity = Industrial System = Second Wave. It is about
+standardization, centralization, maximization, etc which forms the
+superstructure, but underneath that some countries managed to supplant
+it with a proper representative democracy. Not suprisingly they are
+better off than others.
+
+---
+
+Yes but the best way to do it is through democracy.
+
+"Can you do modernity without democracy?"
+
+---
+
+Larry King was a good interviewer, but lost the touch near the end
+there..
+
+That quick, unbalancing question will work if 1 knows the
+landscape. Use it on Seinfeld, u get your ass handed to you. Saw him
+faceplant like that few more times too. 
+
+---
+
+"Putin.. He puts it in. So he's like Clinton!". 😆 😆 😆
+
+Whose joke was that? It was good
+
+---
+
+OpenWeatherMap 👍. They nailed that prediction 4 days into
+the future. Wind, rain, all there.
 
 ---
 
