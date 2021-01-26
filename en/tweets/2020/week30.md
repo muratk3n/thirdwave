@@ -19,15 +19,6 @@ cubicle all day is gone and never returns"
 
 ---
 
-"@ggreenwald
-
-The book I was writing when our Brazil source upended my life with
-that huge archive last year was how the War on Terror is being brought
-home to militarize society (mostly to squash uprisings over growing
-wealth inequality). Still writing it. This month alone is a chapter"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This footage from Portland tonight is absolutely insane. Don’t look away. <a href="https://t.co/wqucd1yQmI">pic.twitter.com/wqucd1yQmI</a></p>&mdash; Joshua Potash (@JoshuaPotash) <a href="https://twitter.com/JoshuaPotash/status/1285853129884553217?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

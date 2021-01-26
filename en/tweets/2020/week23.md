@@ -620,10 +620,6 @@ CAMERA+"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NYT: Russiagate obsession saved MSNBC and enriched its on-air stars, but the “disappointing conclusion” — in which nothing that their hosts promised actually happened — caused ratings to “plummet” as confused and disoriented viewers turned away en masse:<a href="https://t.co/HFDeZZj6uS">https://t.co/HFDeZZj6uS</a> <a href="https://t.co/IvvJiujBC0">pic.twitter.com/IvvJiujBC0</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1267444624626462720?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The US Department of <a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@Energy</a>’s (DOE’s) <a href="https://twitter.com/fossilenergygov?ref_src=twsrc%5Etfw">@fossilenergygov</a> has announced up to $30 in federal funding for cost-shared research and development projects for small-scale solid oxide <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> systems and <a href="https://twitter.com/hashtag/hybrid?src=hash&amp;ref_src=twsrc%5Etfw">#hybrid</a> energy systems.<a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a><a href="https://t.co/5JQYrtozTH">https://t.co/5JQYrtozTH</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1267399396385271808?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -1095,16 +1091,6 @@ energy transition strategy that is turning its attention to toward
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Beijing wants to keep the benefits it reaps from Hong Kong’s status as a free and independent place while taking away those very freedoms. This is our opportunity to make China understand it can’t do both.” <a href="https://twitter.com/hashtag/MakeChinaPay?src=hash&amp;ref_src=twsrc%5Etfw">#MakeChinaPay</a> <a href="https://twitter.com/hashtag/StandwithHK?src=hash&amp;ref_src=twsrc%5Etfw">#StandwithHK</a> <a href="https://twitter.com/hashtag/HKexit?src=hash&amp;ref_src=twsrc%5Etfw">#HKexit</a> <a href="https://twitter.com/hashtag/china?src=hash&amp;ref_src=twsrc%5Etfw">#china</a> <a href="https://t.co/dcoB5iRCEA">https://t.co/dcoB5iRCEA</a></p>&mdash; 🇺🇸Kyle Bass🇺🇸 (@Jkylebass) <a href="https://twitter.com/Jkylebass/status/1266116389334646785?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
-"@ggreenwald
-
-The Minneapolis debate reminds me of Israel/Palestine discourse. No
-matter how much repression & brutality Palestinians suffer, nothing
-they do is legitimate except impotent words: no boycotts, no return
-violence: all 'terrorism.'"
 
 ---
 

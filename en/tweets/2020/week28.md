@@ -198,16 +198,6 @@ like Twitter clients and things that depend on the API.'"
 
 ---
 
-Beinart: "For decades I argued for separation between Israelis and
-Palestinians. Now, I can imagine a Jewish home in an equal state"
-
-via @ggreenwald
-
-[Link](https://www.nytimes.com/2020/07/08/opinion/israel-annexation-two-state-solution.html)
-
-
----
-
 I put it in same category as;
 
 "what do you call cheese that's not yours?

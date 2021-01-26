@@ -20,16 +20,6 @@ Carbon Shift (Reuters)
 
 ---
 
-"@ggreenwald
-
-One of the many problems with the US media is that as jobs disappear,
-young journalists are increasingly deterred from questioning or
-challenging prevailing media narratives because it can be
-career-destroying. The overwhelming incentive is to affirm media
-pieties or stay quiet"
-
----
-
 "The world already safeguards 15% of its land and 7% of the ocean. But,
 for the sake of our health and prosperity, we must do more. Indeed,
 there is increasing agreement among countries that we need to return

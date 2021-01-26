@@ -491,18 +491,6 @@ Yeah.. that's dumb.
 
 ---
 
-🤣 🤣 
-
-NT: "We have a giant deficit. They [Libya] have a lot of oil. Most
-Americans would choose not to engage in the world because of that
-deficit. If we want to continue to engage in the world, gestures like
-having oil rich countries partially pay us back doesn't seem crazy to
-me"
-
-[Link](https://twitter.com/ggreenwald/status/1333166148913942534/photo/1)
-
----
-
 Fuuuck this shit.. Now every funky experimentation goes into its
 virtual machine. 
 

@@ -738,15 +738,6 @@ problems, if not enough, even mo money, with bazookas, helicopters.
 
 ---
 
-"@ggreenwald
-
-President of El Salvador @nayibbukele announces 3-month suspension on
-all bills (mortgage, light, water, phone/internet, etc.), as well as
-payments on appliances & credit card debt, along with a rigid
-quarantine & harsh penalties for price-gouging"
-
----
-
 "@IsaacDovere
 
 [Rand] Paul delayed a vote for several days by forcing an amendment on the Corona virus response, and then voted against the final bill. That bill includes a provision making testing free. 

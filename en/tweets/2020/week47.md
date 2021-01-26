@@ -619,12 +619,6 @@ doses"
 
 ---
 
-via @ggreenwald
-
-<img width="95%"  src="https://pbs.twimg.com/media/Em0mRfmXEAMy5IT?format=jpg&name=small"/>
-
----
-
 It feels like every DIY tuber uses the same goofy background music
 while they make stuff.
 
