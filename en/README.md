@@ -156,8 +156,6 @@ despite the best efforts of people working in them.
 
 [Patents](/2018/09/patents.md)
 
-[War on Drugs](/2019/11/war-on-drugs.md)
-
 [Religion](/2015/04/god-religion.md)
 
 [Democracy, Parties](/2016/11/democracy.md)
