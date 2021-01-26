@@ -48,12 +48,13 @@ mistake this show for politics.
 
 ---
 
-TR naturally shows how not to do something.. Its parties, coalitions
-are cesspools of proto-fascim, bunch of stuff thrown in some container
-*beforehand*, from get-go, either after coups, or in "parties" that
-live in the aftermath of those coups. Take 4 views, throw them in,
-done. Of course it is impossible to maintain incompatibilities for an
-extended period of time, that's where fascism comes in.
+TR lives in a seperate plane of existence, as such naturally shows how
+not to do something, anything.. Its parties, coalitions are cesspools
+of proto-fascim, bunch of stuff thrown in some container *beforehand*,
+from get-go, either after coups, or in "parties" that live in the
+aftermath of those coups. Take 4 views, throw them in, done. Of course
+it is impossible to maintain incompatibilities for an extended period
+of time, that's where fascism comes in.
 
 A by-product of the approach is whatever the mix happens to be,
 anything that is left out, is immediately deligitimized. This can be
