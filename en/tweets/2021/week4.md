@@ -12,7 +12,7 @@ An earlier [post](2014/02/is-earth-fked.md) on BW
 this [climate] mess not because the market system is not working well
 enough but because it is working too well. Werner’s startling
 presentation to the annual conference of the American Geophysical
-Union was titled ‘Is the Earth F**ked?’ and he posed in public the
+Union was titled ‘Is the Earth F--ked?’ and he posed in public the
 question climate scientists and others who follow their work had been
 asking in private... [He builds] on the fact that humans now
 constitute a force of nature so powerful that we have caused the Earth
@@ -99,7 +99,7 @@ ask for unity, you dont get it, than you immediately blame the other
 side as a cover for you not doing anything.
 
 There cld be some old cultural aspects involved; we talked abt during
-[Pemmican Wars](2018/09/pemmican.md) Brits had to step in and *merge*
+[Pemmican Wars](../../2018/09/pemmican.md) Brits had to step in and *merge*
 two companies. If such things happened more than once, maybe it became
 "the legitimate thing", "the grown up thing" in the eyes of the US
 political class, persisted in its DNA, at the very least, as a
