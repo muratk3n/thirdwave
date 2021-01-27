@@ -78,18 +78,6 @@ I be doing the Duck Walk like
 
 ---
 
-Maybe I should just use Glass Ceiling
-
----
-
-6th G for race? Genetics? Hah
-
----
-
-5G instead of 4G? The fifth G being Gender? That could be better
-
----
-
 For all driving, lithium world reserves are soorta enough assuming
 half a day of storage. If you take one full day, not enough. Half a
 day, plus a swap mechanism, not enough.. This thing has a bleak
