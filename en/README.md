@@ -78,11 +78,11 @@ I be doing the Duck Walk like
 
 ---
 
-Maybe I should just use **G**lass Ceiling
+Maybe I should just use Glass Ceiling
 
 ---
 
-6th G for race? **G**enetics? Hah
+6th G for race? Genetics? Hah
 
 ---
 
