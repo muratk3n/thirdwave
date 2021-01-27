@@ -97,16 +97,6 @@ future. Thought oil caused wars? Wait to see the wars on this one.
 
 ---
 
-How can I be sure it is 32 kbps? I checked them with `vnstat`. 
-
----
-
-I have streaming URLs, listen to them through `mpv`. They are all 32
-kbps, that is kilobit per second, one of the lowest xfer rates but
-still with good quality.
-
----
-
 That tactic wld work on a lot of people, not just the "uneducated"
 BTW. I see a lot of young ppl ignoring this part of politics, having a
 naive belief in people wisdom or power. Voters fall for spin, lies,
