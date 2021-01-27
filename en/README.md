@@ -37,7 +37,7 @@ principles of what was known back then, and working it forward
 I always felt uneasy abt the Big Bang.. not the concept per se but the
 fact that it was so far in the past.. With so much of basics
 unresolved in fundamental phy, how can you rewind the model and peer
-so far in history? To the beginning of time!
+so far back in history? To the beginning of time!
 
 ---
 
