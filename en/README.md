@@ -74,7 +74,7 @@ The Bombay Royale - The Perfect Plan \#music
 
 I be doing the Duck Walk like
 
-<img width="250" src="https://giffiles.alphacoders.com/356/35639.gif"/>
+<img width="340" src="https://giffiles.alphacoders.com/356/35639.gif"/>
 
 ---
 
