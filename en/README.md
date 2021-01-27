@@ -109,9 +109,10 @@ still with good quality.
 
 That tactic wld work on a lot of people, not just the "uneducated"
 BTW. I see a lot of young ppl ignoring this part of politics, having a
-naive belief in people wisdom. Voters fall for spin, lies, get led one
-way or another, all the time. Know the game so u can lead them
-better. Obv Im glad Dems did better job at it than Reps this time.
+naive belief in people wisdom or power. Voters fall for spin, lies,
+get led one way or another, all the time. Know the game so u can lead
+them better. Obv Im glad Dems did better job at it than Reps this
+time.
 
 ---
 
