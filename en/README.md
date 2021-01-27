@@ -1,8 +1,8 @@
 # Tweets
 
-Used to think 90s was our zenith but 19th century might be it. If you
-are in the right geo, good science, exploration, no climate change,
-good diet..
+Used to think 90s was our zenith but maybe it was 19th century. In the
+right geo, there is good science, exploration, no climate change, good
+diet..
 
 ---
 
