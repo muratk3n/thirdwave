@@ -134,8 +134,8 @@ foods.
 Will that uploaded to their archives? It had Raj Patel, talked abt
 Coke in Mexico, etc.
 
-Anyone watching that would be more scared of American Coca-Cola than
-the American military.
+Anyone watching that would be warier of American Coca-Cola than the
+American military.
 
 ---
 
