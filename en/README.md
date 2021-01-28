@@ -93,6 +93,12 @@ year-round"
 
 ---
 
+He also answered the question "what is fascism?" with "it is
+whatever's going through my head at that point in time". Fits our
+model doesnt it?
+
+---
+
 Haha.. of course. Makes perfect sense.
 
 "Benito Mussolini coined the term “fascism” in 1919 to describe his
