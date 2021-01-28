@@ -71,9 +71,7 @@ as fuel in 1800s..
 
 ---
 
-<center>
-<img width="70%" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
-</center>
+<img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
 
 "LAVO receives commitment from iconic Australian company, Gowings to
 become a cornerstone investor"
