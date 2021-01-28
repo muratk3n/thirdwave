@@ -6,12 +6,11 @@
 
 I bet it's possible to derive some kind of law using basic chemistry
 that anything that can pack high amt of energy has to be, at that
-point a simple-molecular fuel. Like, basic chemistry would dictate
-that. And I wouldnt fuck with basic chemistry, physics. Just take
-those constraints as given and engineer around them. The base needs to
-be simple, bcz there'll be much engineering that goes on top if
-something ever becomes foundational tech, adding additional complexity
-anyway, so if the base is not simple enough the whole thing will
+point a simple-molecular fuel. As in basic chemistry would dictate
+that.. And I wouldnt fuck with basic chemistry, physics. Just take
+those constraints as given and work around them. The base needs to be
+simple, bcz there'll be much engineering that goes on top, adding more
+complexity, so if the base is not simple enough the whole thing will
 collapse.
 
 ---
