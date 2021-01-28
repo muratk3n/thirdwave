@@ -73,7 +73,9 @@ made of.. How cld we fix that shit?
 
 ---
 
-<img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
+<center>
+<img width="70%" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
+</center>
 
 "LAVO receives commitment from iconic Australian company, Gowings to
 become a cornerstone investor"
@@ -82,18 +84,8 @@ become a cornerstone investor"
 
 ---
 
-Land-tied peasantry, the flatness of the env gave rise to conquering
-armies who taxed those peasants (providing "protection"), this is the
-root of the parasitic empires. Agro empires are gone but we still
-havent fixed First Wave problems.. Bunch of ppl, food production is
-still tied to swaths of land (less these days but still).
-
----
-
 Then do we need all that horizontal space to grow stuff on? Have this
 "liquid soil", have all vertically stacked up, grow stuff
-
-Then reclaim farm land, make national parks, area for panels, etc.
 
 ---
 
