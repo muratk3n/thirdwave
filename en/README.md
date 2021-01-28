@@ -48,11 +48,11 @@ Wilshire increased - again
 
 ---
 
-These black holes, freaking time dilation fields, new models arnd huge
-cosmological events are pure speculation. In *Sunshine* the heroes of
-the movie managed to fix the sun. Think about that. THE SUN. We were
-that adv on that front, see.. But mainstream sci doesnt even know what
-the muck it is made of.. How cld we fix that shit?
+These black holes, freaking time dilation fields, huge cosmological
+events are pure speculation per existing models. In *Sunshine* the
+heroes of the movie managed to fix the sun. Think about that. THE
+SUN. We were that adv on that front, see.. But mainstream sci doesnt
+even know what the muck it is made of.. How cld we fix that shit?
 
 ---
 
