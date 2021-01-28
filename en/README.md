@@ -58,8 +58,8 @@ Wilshire increased - again
 These black holes, freaking time dilation fields, new models arnd huge
 cosmological events are pure speculation. In *Sunshine* the heroes of
 the movie managed to fix the sun. Think about that. THE SUN. We were
-that adv on that front, see.. But we didnt even know what the muck
-that is made of.. How cld we fix that shit?
+that adv on that front, see.. But we dont even know what the muck it
+is made of.. How cld we fix that shit?
 
 ---
 
@@ -97,8 +97,7 @@ year-round"
 ---
 
 He also answered the question "what is fascism?" with "it is
-whatever's going through my head at that point in time". Fits our
-model doesnt it?
+whatever's going through my head at that point in time". 
 
 ---
 
