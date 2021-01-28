@@ -69,9 +69,9 @@ made of.. How cld we fix that shit?
 
 Land-tied peasantry, the flatness of the env gave rise to conquering
 armies who taxed those peasants (providing "protection"), this is the
-root of the parasitic empires. We still havent fixed First Wave
-problems.. Bunch of ppl are still tied to land (less these days but
-still).
+root of the parasitic empires. Empires gone but we still havent fixed
+First Wave problems.. Bunch of ppl are still tied to land (less these
+days but still).
 
 ---
 
