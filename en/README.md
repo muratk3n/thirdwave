@@ -15,6 +15,11 @@ collapse.
 
 ---
 
+This was all volumetric energy levels, did not even look at weight
+issues yet. They will likely be as bad as Li-On. 
+
+---
+
 Solid-State batteries.. Let's check them out.
 
 Current Li-On has 1.8 MJ/liter. It is estimated that their dev will
