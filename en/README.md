@@ -84,8 +84,8 @@ become a cornerstone investor"
 Land-tied peasantry, the flatness of the env gave rise to conquering
 armies who taxed those peasants (providing "protection"), this is the
 root of the parasitic empires. Agro empires are gone but we still
-havent fixed First Wave problems.. Bunch of ppl are still tied to land
-(less these days but still).
+havent fixed First Wave problems.. Bunch of ppl, food production is
+still tied to swaths of land (less these days but still).
 
 ---
 
