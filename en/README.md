@@ -72,6 +72,15 @@ made of.. How cld we fix that shit?
 
 ---
 
+<img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
+
+"LAVO receives commitment from iconic Australian company, Gowings to
+become a cornerstone investor"
+
+[Link](https://lavo.com.au/lavo-receives-commitment-from-iconic-australian-company-gowings-to-become-a-cornerstone-investor/)
+
+---
+
 Land-tied peasantry, the flatness of the env gave rise to conquering
 armies who taxed those peasants (providing "protection"), this is the
 root of the parasitic empires. Agro empires gone but we still havent
