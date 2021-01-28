@@ -104,7 +104,7 @@ model doesnt it?
 
 Haha.. of course. Makes perfect sense.
 
-"Benito Mussolini coined the term “fascism” in 1919 to describe his
+"Benito Mussolini coined the term 'fascism' in 1919 to describe his
 political movement. He adopted the ancient Roman fasces as his
 symbol. This was a bundle of rods tied around an ax, which represented
 the power of Rome"
