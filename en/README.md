@@ -6,13 +6,6 @@ From Davos, World Economic Forum
 
 ---
 
-I bet it's possible to derive some kind of law using basic chemistry
-that anything that can pack high amt of energy has to be, at that
-point a simple-molecular fuel. As in basic chemistry would dictate
-that.. 
-
----
-
 This was all volumetric energy levels, did not even look at weight
 issues yet. They will likely be as bad as Li-On. 
 
