@@ -74,7 +74,7 @@ become a cornerstone investor"
 ---
 
 Then do we need all that horizontal space to grow stuff on? Have this
-"liquid soil", have all vertically stacked up, grow stuff
+"liquid soil", have all vertically stacked up, grow plants. 
 
 ---
 
