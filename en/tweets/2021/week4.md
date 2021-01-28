@@ -66,12 +66,6 @@ Greece and France ink $3 billion contract for Rafale fighter jets"
 
 ---
 
-The Bombay Royale - The Perfect Plan \#music
-
-[Link](https://youtu.be/cQvx6KAO0C8)
-
----
-
 I be doing the Duck Walk like
 
 <img width="340" src="https://giffiles.alphacoders.com/356/35639.gif"/>
