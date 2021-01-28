@@ -55,17 +55,19 @@ Wilshire increased - again
 
 ---
 
-Why is the Big Bang not scifi worthy? It's all fi, not much sci. When
-Arthur C. Clarke thought up satellite technology, it was fiction but
-scientifically solid. A little more basic science, some more
-engineering got us there. Or when Jules Verne thought about using H2
-as fuel in 1800s..
-
 These black holes, freaking time dilation fields, new models arnd huge
 cosmological events are pure speculation. In *Sunshine* the heroes of
 the movie managed to fix the sun. Think about that. THE SUN. We were
 that adv on that front, see.. But we dont even what the muck that is
 made of.. How cld we fix that shit?
+
+---
+
+Why is the Big Bang not scifi worthy? It's all fi, not much sci. When
+Arthur C. Clarke thought up satellite technology, it was fiction but
+scientifically solid. A little more basic science, some more
+engineering got us there. Or when Jules Verne thought about using H2
+as fuel in 1800s..
 
 ---
 
