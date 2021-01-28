@@ -24,17 +24,16 @@ issues yet. They will likely be as bad as Li-On.
 
 Solid-State batteries.. Let's check them out.
 
-Current Li-On has 1.8 MJ/liter. It is estimated that their dev will
-stagnate at around 2.88 MJ/liter. Solid state, the hot-shot tech will
-give you 3.6 MJ / liter. :(
+Current Li-On bats have 1.8 MJ/liter. It is estimated that their dev
+will stagnate at around 2.88 MJ/liter. Solid state, the hot-shot tech
+will give you 3.6 MJ / liter. :(
 
 Not even around yet BTW until 2030 and their prod issues have not been
-addressed.
+resolved.
 
 Air travel not possible w that kind of density.
 
-Liquified H2 has 8.5 MJ/liter, the soln Airbus is
-considering. Available today.
+Liquified H2 has 8.5 MJ/liter, the soln Airbus is considering. 
 
 "The best-in-class of these [Li-on] cells have an energy density of
 around 700 watt-hours per liter (Wh/l)...  Yet, their energy density
