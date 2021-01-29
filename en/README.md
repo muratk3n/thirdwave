@@ -107,7 +107,7 @@ counter-clockwise.
 
 ---
 
-And the angles increases clockwise 🤨
+And the angles increase clockwise 🤨
 
 ---
 
