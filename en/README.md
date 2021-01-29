@@ -49,7 +49,7 @@ hydrogen"
 ---
 
 "Moldova, Europe’s poorest country, has not been able to deliver a
-single jab yet because it can’t afford to buy the vaccine... urope’s
+single jab yet because it can’t afford to buy the vaccine... Europe’s
 most economically disadvantaged countries are relying on Covax, a
 facility for low-income nations led by WHO in response to the
 pandemic. The organisation will guarantee free jabs for 20% of a
