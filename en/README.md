@@ -63,9 +63,9 @@ It is interesting Benioff had that anti-capitalist rant on the WEF
 video.  Genuine or a little "i-am-the-outsider", "my-hippie-inside"
 exercise?
 
-I heard he hired Metallica for some Salesforce company concert and had
-them rock so loud ppl had their eardrums pop in central SF. Middle
-finger to everyone in SF maybe. 
+I heard he hired Metallica once for some Salesforce company concert
+and had them rock so loud ppl had their eardrums pop in central
+SF. Middle finger to everyone in SF maybe.
 
 I know nothing else abt this man, will not speculate further.
 
