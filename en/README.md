@@ -1,113 +1,111 @@
 # Tweets
 
-From Davos, World Economic Forum
+AstraZenaca overpromised and now cant deliver. Daam
 
-<iframe width="340" src="https://www.youtube.com/embed/uPYx12xJFUQ?start=146&end=185" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-This was all volumetric energy levels, did not even look at weight
-issues yet. They will likely be as bad as Li-On. 
+Making their IP public is always possible. It was done before, even in
+US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
+Truman's time.
 
 ---
 
-Solid-State batteries.. Let's check them out.
+Shit is real. Get ready.
 
-Current Li-On bats have 1.8 MJ/liter. It is estimated that their dev
-will stagnate at around 2.88 MJ/liter. Solid state, the hot-shot tech
-will give you 3.6 MJ / liter. :(
-
-Not even around yet BTW until 2030 and their prod issues have not been
-resolved.
-
-Air travel not possible w that kind of density.
-
-Liquified H2 has 8.5 MJ/liter, the soln Airbus is considering. 
-
-"The best-in-class of these [Li-on] cells have an energy density of
-around 700 watt-hours per liter (Wh/l)...  Yet, their energy density
-is expected to stagnate at around 800 Wh/l due to the characteristics
-of their active materials .. 1000 Wh/l should become available in
-2030—in the form of solid-state lithium-metal batteries. "
-
-[Link](https://www.eenewseurope.com/news/solid-state-battery-tech-electric-cars-key-greater-autonomy)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From 2023 SYMBIO plan to manufacture 200,000 fuel cell stack per year. in Lyon, France:<a href="https://t.co/IfZFpeDsxw">https://t.co/IfZFpeDsxw</a><br>Congratulations to this decision!</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1354843746551140360?ref_src=twsrc%5Etfw">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"BBC's Winterwatch delivers first zero emission broadcast"
-
-[Link](https://t.co/0YOoNevUur?amp=1)
+Should I go to brunch? :)
 
 ---
 
-Wilshire increased - again
+I guess carbon storage can be a pain in the ass...
 
-```
-2021-01-26       191.42
-```
-
----
-
-These black holes, freaking time dilation fields, huge cosmological
-events are pure speculation per existing models. In *Sunshine* the
-heroes of the movie managed to fix the sun. Think about that. THE
-SUN. We were that adv on that front, see.. But mainstream sci doesnt
-even know what the muck it is made of.. How cld we fix that shit?
+Ideally though u want some cheap crystallization tech anyone can use
+which once solidified 1 throws solid CO2 in a pit nearby where they
+wont mix with, pollute anything.
 
 ---
 
-Why is the Big Bang not scifi worthy? It's all fi, not much sci. When
-Arthur C. Clarke thought up satellite technology, it was fiction but
-scientifically solid. A little more basic science, some more
-engineering got us there. Or when Jules Verne thought about using H2
-as fuel in 1800s..
+They provide a carbon storage service? In Norway? Sounds like a good idea.
+
+"Northern Lights project: a collaboration between Equinor, Shell and
+Total that is paving the way for a shared European infrastructure for
+carbon transport and storage"
+
+[Link](https://www.theexplorer.no/stories/energy/carbon-capture-and-storage-northern-lights--shared-transport-and-storage-infrastructure-for-europes-co-emissions/)
 
 ---
 
-<img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
-
-"LAVO receives commitment from iconic Australian company, Gowings to
-become a cornerstone investor"
-
-[Link](https://lavo.com.au/lavo-receives-commitment-from-iconic-australian-company-gowings-to-become-a-cornerstone-investor/)
+I am in research, ed material seeking mode which is always intense.
 
 ---
 
-Then do we need all that horizontal space to grow stuff on? Have this
-"liquid soil", have all vertically stacked up, grow plants. 
+Loud I mean loud, one dude was like "Im at home, shut the doors,
+windows, still frickin Lars Ulrich is banging the drums in my head".
 
 ---
 
-Alternatives to soil for farming
-
-"[P]lants are grown in a liquid solution of water and
-nutrients. Hydroponics agriculture is performed within greenhouses
-that have temperature regulations that allow crops to be grown
-year-round"
-
-[Link](https://sites.psu.edu/futureoffood/2016/02/07/are-there-alternatives-to-soil)
+I could profile him, sure.. but than its X-ray.. TMI
 
 ---
 
-He also answered the question "what is fascism?" with "it is
-whatever's going through my head at that point in time". 
+It is interesting Benioff had that anti-capitalist rant on the WEF
+video.  Genuine or a little "i-am-the-outsider", "my-hippy-inside"
+exercise?
+
+I heard he hired Metallica for some Salesforce company concert and had
+them rock so loud ppl had their eardrums pop in central SF. Middle
+finger to everyone in SF maybe. 
+
+I know nothing else abt this man, will not speculate further.
 
 ---
 
-Haha.. of course. Makes perfect sense.
-
-"Benito Mussolini coined the term 'fascism' in 1919 to describe his
-political movement. He adopted the ancient Roman fasces as his
-symbol. This was a bundle of rods tied around an ax, which represented
-the power of Rome"
-
-[Link](https://www.crf-usa.org/bill-of-rights-in-action/bria-25-4-mussolini-and-the-rise-of-fascism.html)
+I am always interested in a book that has ".. and Beyond" in its
+title, no matter the topic.
 
 ---
 
-US may not have *köfte*, but it does have meatloaf. Pretty much the
-same ingredients.. very tasty too.. With that whole
-glaze.. yiiieeaaeah...
+Too much short interest on that stock, 140% on float is
+ludicrous. Someone jumped the shark one that one, waiting to get
+smacked. 
+
+"@ihors3
+
+GME short [interest] is $10.64B ... 139.73%"
+
+---
+
+Katerina Kotrikadze. Dam.
+
+---
+
+Arithmetic degrees are different obviously, East is 0, increases
+counter-clockwise.
+
+---
+
+And the angles increases clockwise 🤨
+
+---
+
+Meteorology has its angles all weird... Pointing directly south is 0
+degrees.. I guess they are mainly concerned with "will I be feeling
+that cold breeze up my ass, and at what angle?".
+
+---
+
+From US DOE. Already working, proven tech. 
+
+"Approximately 1,600 miles of hydrogen pipelines are currently
+operating in the United States. Owned by merchant hydrogen producers,
+these pipelines are located where large hydrogen users, such as
+petroleum refineries and chemical plants, are concentrated such as the
+Gulf Coast region. Transporting gaseous hydrogen via existing
+pipelines is a low-cost option for delivering large volumes of
+hydrogen"
+
+[Link](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
 
 ---
 

@@ -1,5 +1,116 @@
 # Week 4
 
+From Davos, World Economic Forum
+
+<iframe width="340" src="https://www.youtube.com/embed/uPYx12xJFUQ?start=146&end=185" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+This was all volumetric energy levels, did not even look at weight
+issues yet. They will likely be as bad as Li-On. 
+
+---
+
+Solid-State batteries.. Let's check them out.
+
+Current Li-On bats have 1.8 MJ/liter. It is estimated that their dev
+will stagnate at around 2.88 MJ/liter. Solid state, the hot-shot tech
+will give you 3.6 MJ / liter. :(
+
+Not even around yet BTW until 2030 and their prod issues have not been
+resolved.
+
+Air travel not possible w that kind of density.
+
+Liquified H2 has 8.5 MJ/liter, the soln Airbus is considering. 
+
+"The best-in-class of these [Li-on] cells have an energy density of
+around 700 watt-hours per liter (Wh/l)...  Yet, their energy density
+is expected to stagnate at around 800 Wh/l due to the characteristics
+of their active materials .. 1000 Wh/l should become available in
+2030—in the form of solid-state lithium-metal batteries. "
+
+[Link](https://www.eenewseurope.com/news/solid-state-battery-tech-electric-cars-key-greater-autonomy)
+
+---
+
+"BBC's Winterwatch delivers first zero emission broadcast"
+
+[Link](https://t.co/0YOoNevUur?amp=1)
+
+---
+
+Wilshire increased - again
+
+```
+2021-01-26       191.42
+```
+
+---
+
+These black holes, freaking time dilation fields, huge cosmological
+events are pure speculation per existing models. In *Sunshine* the
+heroes of the movie managed to fix the sun. Think about that. THE
+SUN. We were that adv on that front, see.. But mainstream sci doesnt
+even know what the muck it is made of.. How cld we fix that shit?
+
+---
+
+Why is the Big Bang not scifi worthy? It's all fi, not much sci. When
+Arthur C. Clarke thought up satellite technology, it was fiction but
+scientifically solid. A little more basic science, some more
+engineering got us there. Or when Jules Verne thought about using H2
+as fuel in 1800s..
+
+---
+
+<img width="340" src="https://drive.google.com/uc?export=view&id=1_estbcX6JjX12n3KzA9Df0snA5cB4piE"/>
+
+"LAVO receives commitment from iconic Australian company, Gowings to
+become a cornerstone investor"
+
+[Link](https://lavo.com.au/lavo-receives-commitment-from-iconic-australian-company-gowings-to-become-a-cornerstone-investor/)
+
+---
+
+Then do we need all that horizontal space to grow stuff on? Have this
+"liquid soil", have all vertically stacked up, grow plants. 
+
+---
+
+Alternatives to soil for farming
+
+"[P]lants are grown in a liquid solution of water and
+nutrients. Hydroponics agriculture is performed within greenhouses
+that have temperature regulations that allow crops to be grown
+year-round"
+
+[Link](https://sites.psu.edu/futureoffood/2016/02/07/are-there-alternatives-to-soil)
+
+---
+
+He also answered the question "what is fascism?" with "it is
+whatever's going through my head at that point in time". 
+
+---
+
+Haha.. of course. Makes perfect sense.
+
+"Benito Mussolini coined the term 'fascism' in 1919 to describe his
+political movement. He adopted the ancient Roman fasces as his
+symbol. This was a bundle of rods tied around an ax, which represented
+the power of Rome"
+
+[Link](https://www.crf-usa.org/bill-of-rights-in-action/bria-25-4-mussolini-and-the-rise-of-fascism.html)
+
+---
+
+US may not have *köfte*, but it does have meatloaf. Pretty much the
+same ingredients.. very tasty too.. With that whole
+glaze.. yiiieeaaeah...
+
+---
+
 Used to think 90s was our zenith but maybe it was 19th century. In the
 right geo, there is good science, exploration, no climate change, good
 diet..

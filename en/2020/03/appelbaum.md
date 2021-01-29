@@ -29,6 +29,8 @@ strength, not a threat to society and the state. American corporations
 argued consolidation was necessary to compete, and some politicians
 began to sound sympathetic notes ...
 
+<a name='transistor'/>
+
 In April 1952, dozens of engineers from some of the world’s largest
 companies .. boarded buses in New York City and headed [to AT&T]. They
 were guests of AT&T, which had patented a new electronic device called
