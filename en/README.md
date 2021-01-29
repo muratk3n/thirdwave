@@ -82,7 +82,7 @@ I am in research, ed material seeking mode which is always intense.
 
 ---
 
-It is rare but there are left leaning rich people, like Hanauer..
+It is rare but there are anti-capitalist rich people, like Hanauer..
 keeps saying if nothing is done the pitchforks are coming.
 
 ---
