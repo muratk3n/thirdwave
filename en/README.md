@@ -49,8 +49,7 @@ hydrogen"
 ---
 
 No I didnt mean Biden admin does not want to help in that unity
-post. Timing off, maybe, like I said, under no obligation to follow
-any cycle.
+post. Like I said, under no obligation to follow any cycle.
 
 ---
 
