@@ -24,7 +24,8 @@ wont mix with, pollute anything.
 
 ---
 
-They provide a carbon storage service? In Norway? Sounds like a good idea.
+They provide a carbon storage service? In Norway? Sounds like a good
+idea. You ship your carbon to them, they store it.
 
 "Northern Lights project: a collaboration between Equinor, Shell and
 Total that is paving the way for a shared European infrastructure for
