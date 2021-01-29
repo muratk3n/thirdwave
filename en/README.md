@@ -62,6 +62,17 @@ hydrogen"
 
 ---
 
+AT was the leftist PM during Greek debt crisis negotiations
+
+A. Tsipras: "Vaccines are a public good, not a corporate product.. Europe
+should focus on acquiring patents and production licenses, not just
+vaccines"
+
+[Link](https://www.politico.eu/article/coronavirus-vaccines-public-good-not-corporate-product/)
+
+---
+
+
 No I didnt mean Biden admin does not want to help in that unity
 post. Like I said, under no obligation to follow any cycle.
 
