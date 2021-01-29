@@ -45,7 +45,7 @@ windows, still frickin Lars Ulrich is banging the drums in my head".
 
 ---
 
-I could profile him, sure.. but than its X-ray.. TMI
+I could profile sure.. but than its TMI
 
 ---
 
