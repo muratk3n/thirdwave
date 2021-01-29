@@ -16,10 +16,6 @@ Shit is real. Get ready.
 
 ---
 
-Should I go to brunch? :)
-
----
-
 I guess carbon storage can be a pain in the ass...
 
 Ideally though u want some cheap crystallization tech anyone can use
