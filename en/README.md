@@ -34,6 +34,11 @@ carbon transport and storage"
 
 ---
 
+I didnt mean Biden admin does not want to help in that unity
+post. Just saying the word reminds me some stuff and here they are.
+
+---
+
 I am in research, ed material seeking mode which is always intense.
 
 ---
