@@ -43,6 +43,12 @@ windows, still frickin Lars Ulrich is banging the drums in my head".
 
 ---
 
+It is rare but there are left leaning rich people, e.g. billionaire
+Nick Hanauer. He keeps saying if nothing is done the pitchforks are
+coming.
+
+---
+
 I could profile sure.. but than its TMI
 
 ---
