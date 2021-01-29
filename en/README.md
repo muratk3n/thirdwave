@@ -1,6 +1,6 @@
 # Tweets
 
-AT was the PM of left Syriza during Greek-EU debt crisis negotiations.
+AT was the PM of left Syriza during Greece-EU debt crisis negotiations.
 
 A. Tsipras: "Vaccines are a public good, not a corporate product.. Europe
 should focus on acquiring patents and production licenses, not just
