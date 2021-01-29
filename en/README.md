@@ -1,10 +1,12 @@
 # Tweets
 
-AstraZenaca overpromised and now cant deliver. Daam
-
 Making their IP public is always possible. It was done before, even in
 US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
 Truman's time.
+
+---
+
+AstraZenaca overpromised and now cant deliver. Daam
 
 ---
 
