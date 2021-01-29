@@ -34,6 +34,20 @@ carbon transport and storage"
 
 ---
 
+From US DOE. Already working, proven tech. 
+
+"Approximately 1,600 miles of hydrogen pipelines are currently
+operating in the United States. Owned by merchant hydrogen producers,
+these pipelines are located where large hydrogen users, such as
+petroleum refineries and chemical plants, are concentrated such as the
+Gulf Coast region. Transporting gaseous hydrogen via existing
+pipelines is a low-cost option for delivering large volumes of
+hydrogen"
+
+[Link](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
+
+---
+
 No I didnt mean Biden admin does not want to help in that unity
 post. Timing off, maybe, like I said, under no obligation to follow
 any cycle.
@@ -101,20 +115,6 @@ And the angles increases clockwise 🤨
 Meteorology has its angles all weird... Pointing directly south is 0
 degrees.. I guess they are mainly concerned with "will I be feeling
 that cold breeze up my ass, and at what angle?".
-
----
-
-From US DOE. Already working, proven tech. 
-
-"Approximately 1,600 miles of hydrogen pipelines are currently
-operating in the United States. Owned by merchant hydrogen producers,
-these pipelines are located where large hydrogen users, such as
-petroleum refineries and chemical plants, are concentrated such as the
-Gulf Coast region. Transporting gaseous hydrogen via existing
-pipelines is a low-cost option for delivering large volumes of
-hydrogen"
-
-[Link](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
 
 ---
 
