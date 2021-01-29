@@ -35,7 +35,9 @@ carbon transport and storage"
 ---
 
 I didnt mean Biden admin does not want to help in that unity
-post. Just saying the word reminds me some stuff and here they are.
+post. Just saying the word reminds me some stuff and here they are. Im
+some f-ing guy on the Internet, under no obligation to follow "the
+cycle". Dont read this shit.
 
 ---
 
