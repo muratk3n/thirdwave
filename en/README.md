@@ -110,7 +110,7 @@ title, no matter the topic.
 ---
 
 Too much short interest on that stock, 140% on float is
-ludicrous. Someone jumped the shark one that one, waiting to get
+ludicrous. Someone jumped the shark on that one, waiting to get
 smacked. 
 
 "@ihors3
