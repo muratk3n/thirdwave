@@ -97,7 +97,7 @@ I could profile sure.. but than its TMI
 ---
 
 It is interesting Benioff had that anti-capitalist rant on the WEF
-video.  Genuine or a little "i-am-the-outsider", "my-hippie-inside"
+video.  Genuine or a little "i-am-an-outsider", "the-hippie-inside"
 exercise?
 
 I heard he hired Metallica once for some Salesforce company concert
