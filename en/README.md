@@ -73,11 +73,6 @@ AstraZenaca overpromised and now cant deliver. Daam
 
 ---
 
-No I didnt mean Biden admin does not want to help in that unity
-post. Like I said, under no obligation to follow any cycle.
-
----
-
 I am in research, ed material seeking mode which is always intense.
 
 ---
