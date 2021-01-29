@@ -63,8 +63,8 @@ is safe until every country is safe" via France24
 
 ---
 
-Making their IP public is always possible. It was done before, even in
-US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
+Making their IP public is always possible. It's been done before, even
+in US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
 Truman's time.
 
 ---
