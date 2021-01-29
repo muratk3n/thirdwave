@@ -63,7 +63,7 @@ keeps saying if nothing is done the pitchforks are coming.
 ---
 
 Loud I mean loud, one dude was like "Im at home, shut the doors,
-windows, still frickin Lars Ulrich is banging the drums in my head".
+windows, still frickin Lars Ulrich banging the drums in my head".
 
 ---
 
