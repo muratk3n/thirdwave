@@ -34,9 +34,9 @@ carbon transport and storage"
 
 ---
 
-I didnt mean Biden admin does not want to help in that unity
-post. Just saying the word reminds me some stuff and here they
-are. Like I said, am under no obligation to follow any news cycle.
+No I didnt mean Biden admin does not want to help in that unity
+post. Timing off, maybe, like I said, under no obligation to follow
+any cycle.
 
 ---
 
