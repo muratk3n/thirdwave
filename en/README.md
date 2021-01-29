@@ -35,9 +35,8 @@ carbon transport and storage"
 ---
 
 I didnt mean Biden admin does not want to help in that unity
-post. Just saying the word reminds me some stuff and here they are. Im
-some f-ing guy on the Internet, under no obligation to follow "the
-cycle". Dont read this shit.
+post. Just saying the word reminds me some stuff and here they
+are. Like I said, am under no obligation to follow "the cycle". 
 
 ---
 
@@ -45,13 +44,13 @@ I am in research, ed material seeking mode which is always intense.
 
 ---
 
-Loud I mean loud, one dude was like "Im at home, shut the doors,
-windows, still frickin Lars Ulrich is banging the drums in my head".
+It is rare but there are left leaning rich people, like Hanauer..
+keeps saying if nothing is done the pitchforks are coming.
 
 ---
 
-It is rare but there are left leaning rich people, like Hanauer..
-keeps saying if nothing is done the pitchforks are coming.
+Loud I mean loud, one dude was like "Im at home, shut the doors,
+windows, still frickin Lars Ulrich is banging the drums in my head".
 
 ---
 
