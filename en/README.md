@@ -57,7 +57,7 @@ pandemic. The organisation will guarantee free jabs for 20% of a
 country’s population. As for the rest of the doses they need, these
 countries are seeking help from richer neighbours. That is hardly the
 way to solve a global pandemic. In an interconnected world, no country
-is safe until every country is safe"
+is safe until every country is safe" via France24
 
 [Link](https://www.theguardian.com/world/commentisfree/2021/jan/28/here-in-europes-poorest-country-we-have-no-vaccine-to-argue-over)
 
