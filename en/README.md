@@ -119,10 +119,6 @@ GME short [interest] is $10.64B ... 139.73%"
 
 ---
 
-Katerina Kotrikadze. Dam.
-
----
-
 Arithmetic degrees are different obviously, East is 0, increases
 counter-clockwise.
 
