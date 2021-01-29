@@ -1,5 +1,19 @@
 # Tweets
 
+"Moldova, Europe’s poorest country, has not been able to deliver a
+single jab yet because it can’t afford to buy the vaccine... urope’s
+most economically disadvantaged countries are relying on Covax, a
+facility for low-income nations led by WHO in response to the
+pandemic. The organisation will guarantee free jabs for 20% of a
+country’s population. As for the rest of the doses they need, these
+countries are seeking help from richer neighbours. That is hardly the
+way to solve a global pandemic. In an interconnected world, no country
+is safe until every country is safe"
+
+[Link](https://www.theguardian.com/world/commentisfree/2021/jan/28/here-in-europes-poorest-country-we-have-no-vaccine-to-argue-over)
+
+---
+
 Making their IP public is always possible. It was done before, even in
 US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
 Truman's time.
