@@ -26,12 +26,13 @@ another corporation that people complain about in similar ways.
 
 \#GME
 
-"Robinhood giveth, then it taketh away. Hurt one hedge fund, and unless
-you take the entire system down with it, a Citadel Securities will
-make sure it grows back. They’re all part of the same organism. "This
-makes capitalism very much like the Thing in John Carpenter’s film of
-the same name: a monstrous, infinitely plastic entity, capable of
-metabolizing and absorbing anything with which it comes into contact,'"
+"Robinhood giveth, then it taketh away. Hurt one hedge fund, and
+unless you take the entire system down with it, a Citadel Securities
+will make sure it grows back. They’re all part of the same
+organism. 'This makes capitalism very much like the Thing in John
+Carpenter’s film of the same name: a monstrous, infinitely plastic
+entity, capable of metabolizing and absorbing anything with which it
+comes into contact'"
 
 [Link](https://nymag.com/intelligencer/2021/01/gamestop-saga-shows-the-final-boss-is-capitalism.html)
 
