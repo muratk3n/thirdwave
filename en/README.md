@@ -103,8 +103,9 @@ a field day. Through globalization they also reached broader
 markets. Through NAFTA for example they had freer access to Mexico and
 coupled with other "invasions" the Mexican diet worsened, became more
 artificial and sweeter, the effects were immediate, they became less
-healthier, fatter. Two NGO lawyers fought to add a tax on sugared food
-and drinks, they won; afterwards obesity decreased substantially.
+healthier, fatter. Two NGO lawyers recently fought to add a tax on
+sugared food and drinks, they won; afterwards obesity decreased
+substantially.
 
 ---
 
