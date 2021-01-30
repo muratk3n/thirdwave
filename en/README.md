@@ -1,136 +1,142 @@
 # Tweets
 
-AT was the PM of left Syriza party during Greece-EU debt crisis
-negotiations.
-
-A. Tsipras: "Vaccines are a public good, not a corporate product.. Europe
-should focus on acquiring patents and production licenses, not just
-vaccines"
-
-[Link](https://www.politico.eu/article/coronavirus-vaccines-public-good-not-corporate-product/)
+Still a well-made show, good story telling
 
 ---
 
-Shit is real. Get ready.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From 2023 SYMBIO plan to manufacture 200,000 fuel cell stack per year. in Lyon, France:<a href="https://t.co/IfZFpeDsxw">https://t.co/IfZFpeDsxw</a><br>Congratulations to this decision!</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1354843746551140360?ref_src=twsrc%5Etfw">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-I guess carbon storage can be a pain in the ass...
-
-Ideally though u want some cheap crystallization tech anyone can use
-which once solidified 1 throws solid CO2 in a pit nearby where they
-wont mix with, pollute anything.
+Earth being a shithole in The Expanse is a bit of a stretch. They have
+UBI, an atmosphere, can grow stuff and by then god knows what. So
+they'd still be 1000 times better off than any comparable nearby
+planet, rock. Even if underwater u'd sooner develop gills to adapt to
+that than the bone structure to live on Mars.
 
 ---
 
-They provide a carbon storage service? In Norway? Sounds like a good
-idea. You ship your carbon to them, they store it.
 
-"Northern Lights project: a collaboration between Equinor, Shell and
-Total that is paving the way for a shared European infrastructure for
-carbon transport and storage"
-
-[Link](https://www.theexplorer.no/stories/energy/carbon-capture-and-storage-northern-lights--shared-transport-and-storage-infrastructure-for-europes-co-emissions/)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refueling station is inaugurated in <a href="https://twitter.com/hashtag/Madrid?src=hash&amp;ref_src=twsrc%5Etfw">#Madrid</a>🇪🇸 with a supply capacity of 10kg/day and a refueling pressure of 700 bar/MPa. With the support of <a href="https://twitter.com/hashtag/Toyota?src=hash&amp;ref_src=twsrc%5Etfw">#Toyota</a>, <a href="https://twitter.com/hashtag/Enagas?src=hash&amp;ref_src=twsrc%5Etfw">#Enagas</a>, <a href="https://twitter.com/hashtag/Urbaser?src=hash&amp;ref_src=twsrc%5Etfw">#Urbaser</a>, Carburos Metalicos and <a href="https://twitter.com/hashtag/Sumimoto?src=hash&amp;ref_src=twsrc%5Etfw">#Sumimoto</a>. It will supply 12 <a href="https://twitter.com/hashtag/ToyotaMirai?src=hash&amp;ref_src=twsrc%5Etfw">#ToyotaMirai</a> of these companies. <a href="https://t.co/1mVzzmoX5V">pic.twitter.com/1mVzzmoX5V</a></p>&mdash; Hydrogfan (@hydrogfan) <a href="https://twitter.com/hydrogfan/status/1355160769739042817?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-From US DOE. Already working, proven tech. 
-
-"Approximately 1,600 miles of hydrogen pipelines are currently
-operating in the United States. Owned by merchant hydrogen producers,
-these pipelines are located where large hydrogen users, such as
-petroleum refineries and chemical plants, are concentrated such as the
-Gulf Coast region. Transporting gaseous hydrogen via existing
-pipelines is a low-cost option for delivering large volumes of
-hydrogen"
-
-[Link](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
+All this reminds me the 2007 Time Person of the Year. What happened
+since?
 
 ---
 
-"Moldova, Europe’s poorest country, has not been able to deliver a
-single jab yet because it can’t afford to buy the vaccine... Europe’s
-most economically disadvantaged countries are relying on Covax, a
-facility for low-income nations led by WHO in response to the
-pandemic. The organisation will guarantee free jabs for 20% of a
-country’s population. As for the rest of the doses they need, these
-countries are seeking help from richer neighbours. That is hardly the
-way to solve a global pandemic. In an interconnected world, no country
-is safe until every country is safe" via France24
-
-[Link](https://www.theguardian.com/world/commentisfree/2021/jan/28/here-in-europes-poorest-country-we-have-no-vaccine-to-argue-over)
+Need to be wary with "crashing the gates" mentality.. Back in 90s, u
+could have that feling about "the Internet" battling retail giants,
+Walmart. The most representative of the era, Amazon, is now another
+retail giant, another corporation that people complain about in
+similar ways.
 
 ---
 
-Making their IP public is always possible. It's been done before, even
-in US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
-Truman's time.
+\#GME
+
+"Robinhood giveth, then it taketh away. Hurt one hedge fund, and unless
+you take the entire system down with it, a Citadel Securities will
+make sure it grows back. They’re all part of the same organism. "This
+makes capitalism very much like the Thing in John Carpenter’s film of
+the same name: a monstrous, infinitely plastic entity, capable of
+metabolizing and absorbing anything with which it comes into contact,'"
+
+[Link](https://nymag.com/intelligencer/2021/01/gamestop-saga-shows-the-final-boss-is-capitalism.html)
 
 ---
 
-AstraZenaca overpromised and now cant deliver. Daam
+\#GME
+
+"@EricLevitz
+
+A David vs. Goliath story, in which David is a junior financial
+executive slingshotting thousands of social media addicts at a hedge
+fund so as to enrich himself and other hedge funds"
 
 ---
 
-I am in research, ed material seeking mode which is always intense.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Catalyst Produces <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> from Seawater--They have also developed a prototype device using this catalyst, known as the ‘Ocean-<a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a>-Rig’--<a href="https://t.co/6PWPJ5INTE">https://t.co/6PWPJ5INTE</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a><a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1355140085088477187?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-It is rare but there are anti-capitalist rich people, like Hanauer..
-keeps saying if nothing is done the pitchforks are coming.
+\#GME
+
+"This isn't the exciting, hilarious answer you want, but a lot of
+people had no idea it was even happening until the past 48 hours, and
+even now, it's mostly just a funny news article about some internet
+trolls making a bubble... As much as young people on the internet like
+to imagine this as an epic, David vs Goliath, Wall Street vs Main
+Street showdown for the history books, from a bird's eye view it's
+actually just a brief dumpster fire"
+
+[Link](https://www.reddit.com/r/AskReddit/comments/l7bl3z/brokers_of_reddit_how_crazy_is_it_where_you_work/gl64yau)
 
 ---
 
-Loud I mean loud, one dude was like "Im at home, shut the doors,
-windows, still frickin Lars Ulrich banging the drums in my head".
+Finally some cold. Much prefer than warm weather.
 
 ---
 
-I could profile sure.. but than its TMI
+Considering daily minimal vitamin C req, one orange is eough for 5
+days? Not bad.. 
 
 ---
 
-It is interesting Benioff had that anti-capitalist rant on the WEF
-video.  Genuine or a little "i-am-an-outsider", "the-hippie-inside"
-exercise?
+New Found Glory - Tennessee (Punk Goes Crunk) \#music
 
-I heard he hired Metallica once for some Salesforce company concert
-and had them rock so loud ppl had their eardrums pop in central
-SF. Middle finger to everyone in SF maybe.
-
-I know nothing else abt this man, will not speculate further.
+[Link](https://youtu.be/M8kpOz0qO08)
 
 ---
 
-I am always interested in a book that has ".. and Beyond" in its
-title, no matter the topic.
+While in US back in the day when I noticed fitness degrad, I
+researched little and came upon Montignac, the French diatician. His
+method worked brilliantly; he talked abt same issues that are
+mainstream now. I had a few coworkers lose weight through the method too..
 
 ---
 
-Too much short interest on that stock, 140% on float is
-ludicrous. Someone jumped the shark on that one, waiting to get
-smacked. 
+What were the highlights from the DW documentary on junk food?
 
-"@ihors3
+Michelle Obama had a genuine effort started to decrease childhood
+obesity, but it was hijacked by corps and the message was diverted
+into exercise (Raj Patel has some colorful comments here), fun and
+dancing were emphasized and it was swarmed by showbiz people. That
+switch wld not help, as u need better eating than exercise.
 
-GME short [interest] is $10.64B ... 139.73%"
+I now have this nagging feeling that the big exercise movements of
+80/90s were a result of misplaced hope, or straight up media
+manipulation. People were gradually getting worse but did not know
+why, they shld have been led towards better eating, but the message
+was corrupted, diverted to exercise. More muscles, more running etc.
+
+How it started: During 70s the silent killer was heart attack. It was
+determined "fat" was the culprit, so the fight was on. Fat had to be
+removed. But when food producers took the fat out they replaced it
+with something worse.. sugar. Fat alone cannot cause excessive weight
+gain, sugar has to act as catalyst.
+
+Producer of "sugared drinks" which essentially what Coca Cola is, had
+a field day. Through globalization they also reached broader
+markets. Through NAFTA for example they had freer access to Mexico and
+coupled with other "invasions" the Mexican diet worsened, became more
+artificial and sweeter, the effects were immediate, they became less
+healthier, fatter. Two NGO lawyers fought to add a tax on sugared food
+and drinks, they won; afterwards obesity decreased substantially.
 
 ---
 
-Arithmetic degrees are different obviously, East is 0, increases
-counter-clockwise.
+It looks like the raw data came from below
+
+[Comparative Political Data Set](https://www.cpds-data.org/index.php/data)
 
 ---
 
-And the angles increase clockwise 🤨
+Yeah... that shit needs to improve
+
+<img width="340" src="https://pbs.twimg.com/media/Es2xnbjXYAA1sUR?format=jpg&name=small"/>
 
 ---
 
-Meteorology has its angles all weird... Pointing directly south is 0
-degrees.. I guess they are mainly concerned with "will I be feeling
-that cold breeze up my ass, and at what angle?".
+News item on Oz-CH trade spat on wine is labeled "sour grapes" :)
+Old-timey news channel stuff..
 
 ---
 
