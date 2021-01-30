@@ -17,12 +17,6 @@ that than the bone structure to live on Mars.
 
 ---
 
-All this reminds me the 2007 Time Person of the Year.
-
-What happened since?
-
----
-
 Need to be wary with "crashing the gates" talk.. Back in 90s, u could
 have that feling about "the Internet" battling retail giants,
 Walmart. The most representative of the era, Amazon, is now another
