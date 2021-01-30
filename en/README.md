@@ -71,10 +71,10 @@ New Found Glory - Tennessee (Punk Goes Crunk) \#music
 
 ---
 
-While in US back in the day when I noticed fitness degrad, I
-researched little and came upon Montignac, the French diatician. His
-method worked brilliantly; he talked abt same issues that are
-mainstream now. I had a few coworkers lose weight through the method too..
+While in US back in the day when I noticed odd MBI, I researched
+little and came upon Montignac, the French diatician. His method
+worked brilliantly; he wrote abt same issues that are mainstream
+now. I had a few coworkers lose weight through this method too..
 
 ---
 
