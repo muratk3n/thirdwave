@@ -17,11 +17,10 @@ that than the bone structure to live on Mars.
 
 ---
 
-Need to be wary with "crashing the gates" talk.. Back in 90s, u could
-have that feling about "the Internet" battling retail giants,
-Walmart. The most representative of the era, Amazon, is now another
-retail giant, another corporation that people complain about in
-similar ways.
+"Crashing the gates".. yea.. Back in 90s, u could have that feling
+about "the Internet" battling retail giants, Walmart. The most
+representative of the era, Amazon, is now another retail giant,
+another corporation that people complain about in similar ways.
 
 ---
 
