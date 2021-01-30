@@ -17,8 +17,9 @@ that than the bone structure to live on Mars.
 
 ---
 
-All this reminds me the 2007 Time Person of the Year. What happened
-since?
+All this reminds me the 2007 Time Person of the Year.
+
+What happened since?
 
 ---
 
