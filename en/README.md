@@ -1,7 +1,5 @@
 # Tweets
 
-Still a well-made show, good story telling
-
 ---
 
 Earth being a shithole in The Expanse is a bit of a stretch. They have
@@ -9,6 +7,8 @@ UBI, an atmosphere, can grow stuff and by then god knows what. So
 they'd still be 1000 times better off than any comparable nearby
 planet, rock. Even if underwater u'd sooner develop gills to adapt to
 that than the bone structure to live on Mars.
+
+Still, good story telling, great show
 
 ---
 
