@@ -1,6 +1,6 @@
 # Tweets
 
-<img width="300" src="https://drive.google.com/uc?export=view&id=1RuAIV1vVuOUQnkerelkmLLlm9JDPQym-"/>
+<img width="250" src="https://drive.google.com/uc?export=view&id=1RuAIV1vVuOUQnkerelkmLLlm9JDPQym-"/>
 
 ---
 
