@@ -5,8 +5,8 @@
 ---
 
 Yes. It'd be pretty stupid if they kept dividing the stock market cap
-number by the same number, for three months.. Then you would just look
-at the market itself..
+number by the same number, for three months.. Then there'd be no need
+for this ratio, you would just look at the market cap number itself..
 
 No they use a projected GDP, and apparently take it from the
 [GDPNow](https://www.frbatlanta.org/cqer/research/gdpnow.aspx)
