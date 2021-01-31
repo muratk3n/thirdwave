@@ -35,8 +35,8 @@ All-around shoot-the-shit is no picnic either, I tell you.
 
 ---
 
-I guess the skills to be a journo are different than the skills to be
-an all-around shoot-the-shit commentator. Lots involved in checking a
+Skills to be a journo has to be different than the skills to be an
+all-around shoot-the-shit commentator. Lots involved in checking a
 story, talking to ppl involved in it, etc right? Lota focused skill
 
 ---
@@ -71,6 +71,8 @@ or rather, the act of trying to make sense is dropped, hence the
 practitioner reaches "enlightment".
 
 ---
+
+messaging has been off
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Always a red flag to me when you claim to be representing the mom and pop investor (especially if you can’t adequately describe what you’re protecting them from)</p>&mdash; Skanda Amarnath ( Neoliberal Sellout ) (@IrvingSwisher) <a href="https://twitter.com/IrvingSwisher/status/1355636735401721857?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
