@@ -8,7 +8,7 @@ Yes. It'd be pretty stupid if they kept dividing the stock market cap
 by the same number, for three months.. Then there'd be no need for
 this ratio, you would just look at the market cap value itself..
 
-No they use a projected GDP, and apparently take it from the
+No they use projected GDP, and apparently take it from the
 [GDPNow](https://www.frbatlanta.org/cqer/research/gdpnow.aspx)
 estimate of the FED.
 
