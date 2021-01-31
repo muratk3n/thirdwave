@@ -43,7 +43,7 @@ story, talking to ppl involved in it, etc right? Lota focused skill
 
 *Outside the Wire*, little *Training Day*'ish, but has some solid
 anti-militant messages.. The actor with the wing-suit from *Avengers*
-was in it. Brother was like the black Terminator..
+was in it. Brother was like the black Terminator!
 
 ---
 
