@@ -17,8 +17,9 @@ quarterly? Do they they use projected GDP for everyday calculation?"
 
 ---
 
-Right; bcz of incompressibility, star cannot collapse on itself, BH
-cannot form.
+Right; bcz of incompressibility, star cannot collapse on itself, a
+black hole cannot form. Years of pondering, books, articles written on
+this topic were all worthless. It all goes to the trash.
 
 <iframe width="300"  src="https://www.youtube.com/embed/kI14fpM3ouU?start=333&end=369" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
