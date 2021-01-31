@@ -1,128 +1,73 @@
 # Tweets
 
----
-
-Earth being a shithole in The Expanse is a bit of a stretch. They have
-UBI, an atmosphere, can grow stuff and by then god knows what. So
-they'd still be 1000 times better off than any comparable nearby
-planet, rock. Even if underwater u'd sooner develop gills to adapt to
-that than the bone structure to live on Mars.
-
-Still, good story telling, great show
+<img width="300" src="https://drive.google.com/uc?export=view&id=1RuAIV1vVuOUQnkerelkmLLlm9JDPQym-"/>
 
 ---
 
+Yes. It'd be pretty stupid if they kept dividing the stock market cap
+number by the same number, for three months.. Then you would just look
+at the market itself..
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first green <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> refueling station is inaugurated in <a href="https://twitter.com/hashtag/Madrid?src=hash&amp;ref_src=twsrc%5Etfw">#Madrid</a>🇪🇸 with a supply capacity of 10kg/day and a refueling pressure of 700 bar/MPa. With the support of <a href="https://twitter.com/hashtag/Toyota?src=hash&amp;ref_src=twsrc%5Etfw">#Toyota</a>, <a href="https://twitter.com/hashtag/Enagas?src=hash&amp;ref_src=twsrc%5Etfw">#Enagas</a>, <a href="https://twitter.com/hashtag/Urbaser?src=hash&amp;ref_src=twsrc%5Etfw">#Urbaser</a>, Carburos Metalicos and <a href="https://twitter.com/hashtag/Sumimoto?src=hash&amp;ref_src=twsrc%5Etfw">#Sumimoto</a>. It will supply 12 <a href="https://twitter.com/hashtag/ToyotaMirai?src=hash&amp;ref_src=twsrc%5Etfw">#ToyotaMirai</a> of these companies. <a href="https://t.co/1mVzzmoX5V">pic.twitter.com/1mVzzmoX5V</a></p>&mdash; Hydrogfan (@hydrogfan) <a href="https://twitter.com/hydrogfan/status/1355160769739042817?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+No they use a projected GDP, and apparently take it from the
+[GDPNow](https://www.frbatlanta.org/cqer/research/gdpnow.aspx)
+estimate of the FED.
 
----
-
-"Crashing the gates".. yea.. Back in 90s, u could have that feling
-about "the Internet" battling retail giants, Walmart. The most
-representative of the era, Amazon, is now another retail giant,
-another corporation that people complain about in similar ways.
-
----
-
-\#GME
-
-"Robinhood giveth, then it taketh away. Hurt one hedge fund, and
-unless you take the entire system down with it, a Citadel Securities
-will make sure it grows back. They’re all part of the same
-organism. 'This makes capitalism very much like the Thing in John
-Carpenter’s film of the same name: a monstrous, infinitely plastic
-entity, capable of metabolizing and absorbing anything with which it
-comes into contact'"
-
-[Link](https://nymag.com/intelligencer/2021/01/gamestop-saga-shows-the-final-boss-is-capitalism.html)
+"Wilshire uses market cap divided by GDP. But real GDP is released
+quarterly? Do they they use projected GDP for everyday calculation?"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Catalyst Produces <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> from Seawater--They have also developed a prototype device using this catalyst, known as the ‘Ocean-<a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a>-Rig’--<a href="https://t.co/6PWPJ5INTE">https://t.co/6PWPJ5INTE</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a><a href="https://twitter.com/fuelcellsworks?ref_src=twsrc%5Etfw">@fuelcellsworks</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1355140085088477187?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Right; bcz of incompressibility, star cannot collapse on itself, BH
+cannot form.
+
+<iframe width="300"  src="https://www.youtube.com/embed/kI14fpM3ouU?start=333&end=369" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-\#GME
-
-"This isn't the exciting, hilarious answer you want, but a lot of
-people had no idea it was even happening until the past 48 hours, and
-even now, it's mostly just a funny news article about some internet
-trolls making a bubble... As much as young people on the internet like
-to imagine this as an epic, David vs Goliath, Wall Street vs Main
-Street showdown for the history books, from a bird's eye view it's
-actually just a brief dumpster fire"
-
-[Link](https://www.reddit.com/r/AskReddit/comments/l7bl3z/brokers_of_reddit_how_crazy_is_it_where_you_work/gl64yau)
+WH advisor Brian Deese, asked abt "what about Wall Street, volatility"
+blah blah.. He was like "our focus right now is Main Street". Good
+answer \#PBS
 
 ---
 
-Finally some cold. Much prefer than warm weather.
+All-around shoot-the-shit is no picnic either, I tell you.
 
 ---
 
-Considering daily minimal vitamin C req, one orange is eough for 5
-days? Not bad.. 
+I guess the skills to be a journo are different than the skills to be
+an all-around shoot-the-shit commentator. Lots involved in checking a
+story, talking to ppl involved in it, etc right? Lota focused skill
 
 ---
 
-New Found Glory - Tennessee (Punk Goes Crunk) \#music
-
-[Link](https://youtu.be/M8kpOz0qO08)
-
----
-
-While in US back in the day when I noticed odd BMI, I researched
-little and came upon Montignac, the French diatician. His method
-worked brilliantly; he wrote abt same issues that are mainstream
-now. I helped a few coworkers lose weight through this method too..
+*Outside the Wire*, little *Training Day*'ish, but has some solid
+anti-militant messages.. The actor with the wing-suit from *Avengers*
+was in it. Brother was like the black Terminator..
 
 ---
 
-What were the highlights from the DW documentary on junk food?
+Cutler - Sync Estate \#music
 
-Michelle Obama had a genuine effort started to decrease childhood
-obesity, but it was hijacked by corps and the message was diverted
-into exercise (Raj Patel has some colorful comments here), fun and
-dancing were emphasized and it was swarmed by showbiz people. That
-switch wld not help, as u need better eating than exercise.
-
-I now have this nagging feeling that the big exercise movements of
-80/90s were a result of misplaced hope, or straight up media
-manipulation. People were gradually getting worse but did not know
-why, they shld have been led towards better eating, but the message
-was corrupted, diverted to exercise. More muscles, more running etc.
-
-How it started: During 70s the silent killer was heart attack. It was
-determined "fat" was the culprit, so the fight was on. Fat had to be
-removed. But when food producers took the fat out they replaced it
-with something worse.. sugar. Fat alone cannot cause excessive weight
-gain, sugar has to act as catalyst.
-
-Producer of "sugared drinks" which essentially what Coca Cola is, had
-a field day. Through globalization they also reached broader
-markets. Through NAFTA for example they had freer access to Mexico and
-coupled with other "invasions" the Mexican diet worsened, became more
-artificial and sweeter, the effects were immediate, they became less
-healthier, fatter. Two NGO lawyers recently fought to add a tax on
-sugared food and drinks, they won; afterwards obesity decreased
-substantially.
+[Link](https://youtu.be/_GLwv4TUGfo)
 
 ---
 
-It looks like the raw data came from below
-
-[Comparative Political Data Set](https://www.cpds-data.org/index.php/data)
-
----
-
-Yeah... that shit needs to improve
-
-<img width="340" src="https://pbs.twimg.com/media/Es2xnbjXYAA1sUR?format=jpg&name=small"/>
+Is this relevant today? Well modernity (the second wave, after the
+agro first) added its own mental structures that are in some ways even
+more encompassing, and intricate. No wonder many ppl are still
+interested in these things.. Zen, Buddhism etc, not to mention
+religions of all kinds.
 
 ---
 
-News item on Oz-CH trade spat on wine is labeled "sour grapes" :)
-Old-timey news channel stuff..
+I guarantee it Eastern religions, Taoism, Buddhism are a protest
+against agro, village societies as well..  These societies constructed
+a conceptual world with its idols, worship rituals, rhytms so
+ever-present that new religions would rebel against. I bet the Zen
+koans are packaged to make zero sense in that frame, to stir shit up
+in the mind so that only when that frame is dropped, it makes sense,
+or rather, the act of trying to make sense is dropped, hence the
+practitioner reaches "enlightment".
 
 ---
 
