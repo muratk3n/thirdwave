@@ -53,6 +53,10 @@ Cutler - Sync Estate \#music
 
 ---
 
+<img width="200" src="https://pbs.twimg.com/media/Es_XXmFU4AMwqWz?format=png&name=small"/>
+
+---
+
 Is this relevant today? Well modernity (the second wave, after the
 agro first) added its own mental structures that are in some ways even
 more encompassing, and intricate. No wonder many ppl are still
@@ -69,6 +73,10 @@ koans are packaged to make zero sense in that frame, to stir shit up
 in the mind so that only when that frame is dropped, it makes sense,
 or rather, the act of trying to make sense is dropped, hence the
 practitioner reaches "enlightment".
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Always a red flag to me when you claim to be representing the mom and pop investor (especially if you can’t adequately describe what you’re protecting them from)</p>&mdash; Skanda Amarnath ( Neoliberal Sellout ) (@IrvingSwisher) <a href="https://twitter.com/IrvingSwisher/status/1355636735401721857?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
