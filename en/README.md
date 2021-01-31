@@ -56,8 +56,8 @@ Cutler - Sync Estate \#music
 Is this relevant today? Well modernity (the second wave, after the
 agro first) added its own mental structures that are in some ways even
 more encompassing, and intricate. No wonder many ppl are still
-interested in these things.. Zen, Buddhism etc, not to mention still
-Western religions of all kinds.
+interested in these things.. Zen, Buddhism etc, not to mention other
+mainstream religions from the West.
 
 ---
 
