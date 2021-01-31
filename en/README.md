@@ -12,8 +12,8 @@ No they use projected GDP, and apparently take it from the
 [GDPNow](https://www.frbatlanta.org/cqer/research/gdpnow.aspx)
 estimate of the FED.
 
-"Wilshire uses market cap divided by GDP. But real GDP is released
-quarterly? Do they they use projected GDP for everyday calculation?"
+"Wilshire uses market cap divided by GDP. But official GDP is released
+quarterly? Do they they use that number for this calculation?"
 
 ---
 
