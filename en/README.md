@@ -53,10 +53,6 @@ Cutler - Sync Estate \#music
 
 ---
 
-<img width="250" src="https://pbs.twimg.com/media/Es_XXmFU4AMwqWz?format=png&name=small"/>
-
----
-
 Is this relevant today? Well modernity (the second wave, after the
 agro first) added its own mental structures that are in some ways even
 more encompassing, and intricate. No wonder many ppl are still
