@@ -4,7 +4,7 @@
 
 ---
 
-Yes. It'd be pretty stupid if they kept dividing the stock market cap
+Right it'd be pretty stupid if they kept dividing the stock market cap
 by the same number, for three months.. Then there'd be no need for
 this ratio, you would just look at the market cap value itself..
 
@@ -17,7 +17,7 @@ quarterly? Do they they use that number for this calculation?"
 
 ---
 
-Right; bcz of incompressibility, star cannot collapse on itself, a
+Yep; bcz of incompressibility, star cannot collapse on itself, a
 black hole cannot form. Years of pondering, books, articles written
 assuming BH existence were all worthless. It all goes to the trash.
 
