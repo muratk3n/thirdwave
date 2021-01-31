@@ -53,7 +53,7 @@ Cutler - Sync Estate \#music
 
 ---
 
-<img width="200" src="https://pbs.twimg.com/media/Es_XXmFU4AMwqWz?format=png&name=small"/>
+<img width="250" src="https://pbs.twimg.com/media/Es_XXmFU4AMwqWz?format=png&name=small"/>
 
 ---
 
