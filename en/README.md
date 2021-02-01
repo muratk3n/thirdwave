@@ -37,7 +37,7 @@ In the absence of clear-cut scientific law, differing views surface,
 and among enough knowledgable people, their average leads to something
 acceptably optimal.
 
-In econ there is divisions around thriftyness and extra spending (some
+In econ there is division around thriftyness and extra spending (some
 research popping up on the question but nothing solid), right and left
 have different answers. Fine.
 
