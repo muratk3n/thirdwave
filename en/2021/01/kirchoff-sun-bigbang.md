@@ -145,14 +145,14 @@ have a much lower total energy output.
 
 At the same time, Eddington recognized from the laws of thermodynamics
 that an object at millions of degrees should produce its photons at
-X-ray frequencies. This was preordained by Stefan’s Law of Emission,10
-Wien’s Law of Displacement11 and Planck’s Blackbody Radiation Law.6
-However, Eddington also realized that the sun emitted very little
-X-rays. Indeed, most of the solar output of energy occurs in the
-so-called “visible region.” That is, the sun is producing its energy
-primarily at frequencies easily detected with the human eye. This
-energy output is emitted from the surface layer of the sun, called the
-“photosphere.”
+X-ray frequencies. This was preordained by Stefan’s Law of
+Emission,[10] Wien’s Law of Displacement [11] and Planck’s Blackbody
+Radiation Law.6 However, Eddington also realized that the sun emitted
+very little X-rays. Indeed, most of the solar output of energy occurs
+in the so-called “visible region.” That is, the sun is producing its
+energy primarily at frequencies easily detected with the human
+eye. This energy output is emitted from the surface layer of the sun,
+called the “photosphere.”
 
 In the mid-1880’s, it was Langley [12,13] who first recorded the
 output energy of the photosphere. He pointed a detector directly at
