@@ -24,7 +24,7 @@ money per se, but who it was printed for.
 ---
 
 BTC is absolutely the expression of the naivete coming from common
-tech dipshit - bright, shiny object loving, unaware of landscape, soc
+tech guy - bright, shiny object loving, unaware of landscape, soc
 ecosystem, side effects, etc..
 
 ---
