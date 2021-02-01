@@ -9,6 +9,13 @@ beating people in St. Petersburg"
 
 ---
 
+Practitioners in these fields like proposing these things though, it
+makes the sound smart. Hell one is thinking abt multiple
+universes.. isnt that smart? Sadly no.. I gurantee it these ppl are
+extremely fucking dumb.
+
+---
+
 Fundam phy is stuck, and they know it. But they think they need more
 elaborate ideas to get out of it, enter endless "thought experiments"
 on time, universes, determinism, etc. But it is very possible what
