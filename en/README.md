@@ -26,12 +26,12 @@ these "sexy tricks" to get out.
 
 ---
 
-This is why left-leaning econs hate this thing to a man.
+Fast digital payments are a good thing of course. But curr, money base
+needs the ability to expand.
 
 ---
 
-Fast digital payments are a good thing of course. But curr, money base
-needs the ability to expand.
+This is why left-leaning econs hate this thing to a man.
 
 ---
 
