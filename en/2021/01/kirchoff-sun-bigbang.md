@@ -92,10 +92,10 @@ isolated planet completely surrounded by clouds. In such a setting, he
 thought he would still be able to analyze the sun without any further
 knowledge than its mass, its size and the laws of physics.[8,9] It was
 in this spirit that Eddington set out to expand on Lane’s model of the
-sun. Assuming that Lane’s gaseous model was correct,7 Eddington used
+sun. Assuming that Lane’s gaseous model was correct,[7] Eddington used
 simple deductive reasoning to set the internal temperature of the sun
-at 10,000,000 - 40,000,000 K.8,9 Today, this remains the range for the
-internal temperature of the sun (~15,000,000 K). This accepted
+at 10,000,000 - 40,000,000 K.[8,9] Today, this remains the range for
+the internal temperature of the sun (~15,000,000 K). This accepted
 temperature is reinforced by man’s knowledge of the temperatures
 associated with thermonuclear energy.
 
@@ -112,7 +112,7 @@ light pressure (or radiation pressure) could be measured on earth. For
 instance, a thin foil could be caused to rotate when exposed to light.
 Therefore, light quanta clearly possessed momentum. It was this “light
 pressure” that Eddington would invoke to keep the gaseous sun from
-collapsing.8,9 Consequently, Eddington postulated that the inner
+collapsing.[8,9] Consequently, Eddington postulated that the inner
 portion of the sun produced photons. He then deduced that these
 individual light quanta would sooner or later run into a gas ion or
 atom and propel it up against the forces of the sun’s gravity. He
