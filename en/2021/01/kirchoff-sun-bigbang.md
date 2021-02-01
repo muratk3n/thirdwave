@@ -9,15 +9,15 @@ reviewed physics literature.
 
 1. The Temperature of the Universe and The Big Bang:
 
-Kirchhoff’s Law of Thermal (or Blackbody) Emission1 deals with the
-transfer of heat through space.  Formulated in 1859, Kirchhoff’s Law1
+Kirchhoff’s Law of Thermal (or Blackbody) Emission [1] deals with the
+transfer of heat through space.  Formulated in 1859, Kirchhoff’s Law
 is central to modern astrophysics since it enables the study of the
 temperature of objects through the analysis of the photons (or light)
 they emit. It is through the analysis of such photons that scientists
-believe that “the temperature of the universe” has been measured.2,3
-The COBE satellite4 has now set this temperature with great precision
-to 2.728±0.004 K (-455˚ Fahrenheit). The “temperature of the universe”
-is viewed as the central proof of the Big Bang.
+believe that “the temperature of the universe” has been measured.[2,3]
+The COBE satellite [4] has now set this temperature with great
+precision to 2.728±0.004 K (-455˚ Fahrenheit). The “temperature of the
+universe” is viewed as the central proof of the Big Bang.
 
 In the mid-1800’s, scientists produced blackbodies by covering objects
 with black paint. Since the paint was black, the body became a nearly
@@ -48,14 +48,14 @@ As such, the universality of Blackbody Radiation has been
 overstated. It is imprudent to speak in terms of “blackbodies” without
 noting, as Kirchhoff did, the constraints of the enclosure. The
 underlying physical cause of thermal radiation must not be ignored and
-this includes the internal structure of matter. Yet Einstein’s 5
-derivation of Planck’s Law,6 though masterful, has lead some to ignore
-Kirchoff, thermal equilibrium and the physical realities of involved
-in thermal emission.
+this includes the internal structure of matter. Yet Einstein’s [5]
+derivation of Planck’s Law,[6] though masterful, has lead some to
+ignore Kirchoff, thermal equilibrium and the physical realities of
+involved in thermal emission.
 
-While the signal measured by the COBE satellite4 is indeed thermal in
-origin, it does not correspond to a real temperature. Moreover, it
-will eventually be discovered that the signal of the COBE satellite4
+While the signal measured by the COBE satellite [4] is indeed thermal
+in origin, it does not correspond to a real temperature. Moreover, it
+will eventually be discovered that the signal of the COBE satellite [4]
 is not associated with the “temperature of the universe,” but is
 produced by the oceans. This accounts for the fantastic signal to
 noise obtained in the COBE measurements. The detector is in close
@@ -82,15 +82,15 @@ universe.
 2. The Current Gaseous Model of the Sun:
 
 In 1870, Lane published his discussion of the gaseous nature of the
-sun.7 At the time, of course, one could have had little idea about
-whether or not the sun was really a gas. Nonetheless, Eddington8,9
-would build on the ideas of Lane.7 Eddington believed that the laws of
-physics and thermodynamics could be used to deduce the internal
-structure of the sun without any experimental verification.8,9 In
+sun. [7] At the time, of course, one could have had little idea about
+whether or not the sun was really a gas. Nonetheless, Eddington [8,9]
+would build on the ideas of Lane.[7] Eddington believed that the laws
+of physics and thermodynamics could be used to deduce the internal
+structure of the sun without any experimental verification.[8,9] In
 1926, he would speak hypothetically about being able to live on an
 isolated planet completely surrounded by clouds. In such a setting, he
 thought he would still be able to analyze the sun without any further
-knowledge than its mass, its size and the laws of physics.8,9 It was
+knowledge than its mass, its size and the laws of physics.[8,9] It was
 in this spirit that Eddington set out to expand on Lane’s model of the
 sun. Assuming that Lane’s gaseous model was correct,7 Eddington used
 simple deductive reasoning to set the internal temperature of the sun
@@ -100,8 +100,8 @@ temperature is reinforced by man’s knowledge of the temperatures
 associated with thermonuclear energy.
 
 At the same time, Eddington also realized that a gaseous sun should
-collapse on itself.8,9 That is, the great forces of gravity present on
-the sun should pull all of the mass of the sun into a much smaller
+collapse on itself.[8,9] That is, the great forces of gravity present
+on the sun should pull all of the mass of the sun into a much smaller
 sphere.  Like his predecessors, Eddington pondered how it was that the
 gaseous sun did not collapse. He solved the problem by invoking
 outward radiation pressure originating from within the sun. He
@@ -153,23 +153,23 @@ primarily at frequencies easily detected with the human eye. This
 energy output is emitted from the surface layer of the sun, called the
 “photosphere.”
 
-In the mid-1880’s, it was Langley12,13 who first recorded the output
-energy of the photosphere. He pointed a detector directly at the sun
-and recorded, for the first time, its emission spectrum. At the time
-that Langley obtained this data, he immediately recognized that the
-solar spectrum had a thermal appearance.  As such, overextending
-Kirchhoff’s Law, Langley would seek to apply the Laws of Thermal
-Radiation to the analysis of the solar spectrum. First, he assumed
-that the sun was nearly a blackbody. Once again, by ignoring the
-constraints set forth in Kirchhoff’s Law of Emission, he was able to
-set the temperature of the photosphere. Without regard for the phases
-of matter, he reported a temperature of ~6,000 K. As a result, even
-though the Laws of Thermal Emission were developed in solids, the
+In the mid-1880’s, it was Langley [12,13] who first recorded the
+output energy of the photosphere. He pointed a detector directly at
+the sun and recorded, for the first time, its emission spectrum. At
+the time that Langley obtained this data, he immediately recognized
+that the solar spectrum had a thermal appearance.  As such,
+overextending Kirchhoff’s Law, Langley would seek to apply the Laws of
+Thermal Radiation to the analysis of the solar spectrum. First, he
+assumed that the sun was nearly a blackbody. Once again, by ignoring
+the constraints set forth in Kirchhoff’s Law of Emission, he was able
+to set the temperature of the photosphere. Without regard for the
+phases of matter, he reported a temperature of ~6,000 K. As a result,
+even though the Laws of Thermal Emission were developed in solids, the
 value of ~6,000 K remains the accepted temperature of the photosphere
 to this day.
 
 It can be said that Langley’s experiment was the beginning of a new
-age for astronomy.12,13 For the first time, the emission spectrum
+age for astronomy.[12,13] For the first time, the emission spectrum
 (plot of the intensity of light as a function of frequency) of a star
 had been recorded. When Eddington was working on his theory of the
 gaseous sun,8,9 he was well aware of Langley’s temperature for the
@@ -208,7 +208,7 @@ would be surrounded by a layer, on the order of skin deep, at ~6,000
 K. How can the photosphere be so cold relative to the inside of the
 sun? It is hard to conceive that such an object can exist. In
 addition, the primary means of heat transfer within the sun, as
-proposed by Eddington, remains radiative in nature.8,9 That is,
+proposed by Eddington, remains radiative in nature.[8,9] That is,
 photons become the primary means of striving for internal thermal
 equilibrium in the sun. However, this idea is not in accordance with
 our knowledge of the behavior of objects. Rather, for all other
@@ -236,7 +236,7 @@ was observed15 that the corona possessed within it highly ionized ions
 which can only be produced at temperatures well in excess of 1,000,000
 K. (The width of Lymanα lines further demonstrates that temperatures
 in the corona range from 2.6 x106 K at 1.5 solar radius to 1.2 x106 K
-at 4 solar radii15). This finding of very hot temperatures in the
+at 4 solar radii [15]). This finding of very hot temperatures in the
 corona presented a major problem for solar theory.  Thus, a
 temperature within the corona (>1,000,000 K) which exceeded that of
 the photosphere (~6,000 K) indicated a violation of the 2nd Law of
@@ -272,25 +272,26 @@ The sun cannot meet the requirements for a blackbody as set down by
 Kirchhoff for the simple reason that it is not in thermal equilibrium
 with an adiabatic enclosure. In fact, the sun is actually operating
 far out of equilibrium by every measure. As such, it is improper for
-Langley11,12 to set a temperature of the photosphere at ~6,000 K based
-on Stefan,10 Wien11 and Planck.6 Moreover, the photosphere cannot be a
-low density gas. Gases simply cannot produce a Planckian shaped
-thermal emission profile like that seen in the visible light provided
-by the sun’s photosphere. Rather gases emit or absorb radiation in
-narrow frequency bands often reflecting quantized vibration-rotational
-states. There does not exist a single example on earth of a pure gas
-producing a Planckian shaped emission spectrum. This is reserved for
-solids and liquids since only they possess the structure required to
-support the vibrational modes leading to a Planckian shaped emission
-spectrum. The belief that isolated gases can support a Planckian
-shaped spectrum is erroneous. Also, the photosphere cannot be a solid
-as convection currents are clearly observed in this layer. That is,
-there is clearly the flow of material in the photosphere.
+Langley [11,12] to set a temperature of the photosphere at ~6,000 K
+based on Stefan,10 Wien11 and Planck.[6] Moreover, the photosphere
+cannot be a low density gas. Gases simply cannot produce a Planckian
+shaped thermal emission profile like that seen in the visible light
+provided by the sun’s photosphere. Rather gases emit or absorb
+radiation in narrow frequency bands often reflecting quantized
+vibration-rotational states. There does not exist a single example on
+earth of a pure gas producing a Planckian shaped emission
+spectrum. This is reserved for solids and liquids since only they
+possess the structure required to support the vibrational modes
+leading to a Planckian shaped emission spectrum. The belief that
+isolated gases can support a Planckian shaped spectrum is
+erroneous. Also, the photosphere cannot be a solid as convection
+currents are clearly observed in this layer. That is, there is clearly
+the flow of material in the photosphere.
 
 This leaves the liquid state as a prime candidate for the
 photosphere. The sun has an average density of 1.4 g/cm3. This fact
 can easily support a liquid model. By comparison, the density of water
-is 1 g/cm3.  In addition, a liquid structure eliminates the need for
+is 1 g/cm3. In addition, a liquid structure eliminates the need for
 radiation pressure to prevent the sun from collapsing on itself
 through the forces of gravity. The liquid alone can support the upper
 layers.
@@ -327,13 +328,13 @@ enclosure.
 As such, the photosphere is once again “tricking us.” Because it is a
 liquid, it is really at a much higher temperature than it
 appears. Since an “apparent temperature” is probably involved,
-Stefan’s,10 Wien’s 11 and Planck’s6 Laws need to be modified. In these
-equations, there is a temperature term (T), included. In order to
-apply these equations properly to a liquid, the temperature term (T)
-needs to be changed to an “apparent temperature,” Tapp. This “apparent
-temperature” will not be a real temperature. Rather, the apparent
-temperature, Tapp, is simply the real temperature, T, divided by a
-constant “α” (Tapp=T/α). The constant “α” would be temperature
+Stefan’s, [10] Wien’s [11 and] Planck’s6 Laws need to be modified. In
+these equations, there is a temperature term (T), included. In order
+to apply these equations properly to a liquid, the temperature term
+(T) needs to be changed to an “apparent temperature,” Tapp. This
+“apparent temperature” will not be a real temperature. Rather, the
+apparent temperature, Tapp, is simply the real temperature, T, divided
+by a constant “α” (Tapp=T/α). The constant “α” would be temperature
 dependent for most liquids. For the photosphere “α” is ~1,000. As
 such, the sun’s photosphere is reporting a temperature which is nearly
 1,000 times too low. Thus, there is nearly 1,000 times more energy
@@ -353,8 +354,8 @@ for the photosphere. Setting a real temperature of the photosphere at
 ~7,000,000 K eliminates the need to find exotic ways of heating the
 corona and permits the free flow of heat throughout the outer layers
 of the sun.  As such, the 2nd Law of Thermodynamics is no longer
-violated. Photons no longer take millions of years to leave the
-sun,8,9 but rather, are “instantly” released and produced at the
+violated. Photons no longer take millions of years to leave the sun,
+[8,9] but rather, are “instantly” released and produced at the
 photosphere. By invoking a liquid model with a shifted apparent
 temperature, the radiation zone is no longer required within the
 sun. This is because the massive amount of X-rays predicted by
@@ -372,18 +373,18 @@ flares and prominences). It should also be noted that the photosphere
 has a reasonably distinct surface. This once again is best explained
 if a liquid is considered.
 
-As a note in added proof, recent SOHO satellite data16 provides clear
-evidence for waves, associated with the production of a flare, on the
-surface of the sun. These waves are described as “resembling ripples
-from a pebble thrown on a pond.” While the authors do not specifically
-state that these represent transverse waves, there can be no question
-that this is the case. These waves have very long wavelengths. Gases,
-unlike liquids, are unable to support such waves. The photosphere,
-therefore, must be a liquid.  In conclusion, our sun is not a complex
-gaseous structure straining the laws of physics and
-thermodynamics. Rather, it is a liquid, a turbulent sea, which like
-the ocean is a testament to the power, simplicity and beauty of
-Kirchhoff’s Law.
+As a note in added proof, recent SOHO satellite data [16] provides
+clear evidence for waves, associated with the production of a flare,
+on the surface of the sun. These waves are described as “resembling
+ripples from a pebble thrown on a pond.” While the authors do not
+specifically state that these represent transverse waves, there can be
+no question that this is the case. These waves have very long
+wavelengths. Gases, unlike liquids, are unable to support such
+waves. The photosphere, therefore, must be a liquid.  In conclusion,
+our sun is not a complex gaseous structure straining the laws of
+physics and thermodynamics. Rather, it is a liquid, a turbulent sea,
+which like the ocean is a testament to the power, simplicity and
+beauty of Kirchhoff’s Law.
 
 [1] Chapman AC, Heat Transfer, MacMillan Co, NY., p. 412-413 (1967); Landsberg PT, Thermodynamics, Interscience, NY, 1961;
 
