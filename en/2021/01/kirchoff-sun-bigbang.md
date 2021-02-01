@@ -7,7 +7,7 @@ the scientific publication of this material.  The ideas are both too
 simple and unexpected to stand any chance of publication in the peer
 reviewed physics literature.
 
-1. The Temperature of the Universe and The Big Bang:
+1) The Temperature of the Universe and The Big Bang:
 
 Kirchhoff’s Law of Thermal (or Blackbody) Emission [1] deals with the
 transfer of heat through space.  Formulated in 1859, Kirchhoff’s Law
@@ -79,7 +79,7 @@ scenario. The “primordial mass” was never in equilibrium with an
 adiabatic enclosure. We will never know the temperature of the
 universe.
 
-2. The Current Gaseous Model of the Sun:
+2) The Current Gaseous Model of the Sun:
 
 In 1870, Lane published his discussion of the gaseous nature of the
 sun. [7] At the time, of course, one could have had little idea about
@@ -266,7 +266,7 @@ temperatures. It is under this backdrop that the modern theory of the
 sun has developed and few, if any, have questioned the initial
 findings or assumptions.
 
-3. The Liquid Model of the Sun:
+3) The Liquid Model of the Sun:
 
 The sun cannot meet the requirements for a blackbody as set down by
 Kirchhoff for the simple reason that it is not in thermal equilibrium
