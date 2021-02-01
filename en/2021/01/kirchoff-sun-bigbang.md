@@ -53,6 +53,8 @@ derivation of Planck’s Law,[6] though masterful, has lead some to
 ignore Kirchoff, thermal equilibrium and the physical realities of
 involved in thermal emission.
 
+<a name='bigbang'/>
+
 While the signal measured by the COBE satellite [4] is indeed thermal
 in origin, it does not correspond to a real temperature. Moreover, it
 will eventually be discovered that the signal of the COBE satellite [4]
