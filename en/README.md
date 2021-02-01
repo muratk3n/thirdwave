@@ -64,7 +64,7 @@ Gerardo Frisina - Bluesanova \#music
 
 ---
 
-But they love proposing such ostentatious ideas, it makes the sound
+But they love proposing such ostentatious ideas, it makes them sound
 smart. Hell one is thinking abt multiple universes.. isnt that smart?
 
 Sadly nah.. I gurantee it a lot of these muckers are extremely
