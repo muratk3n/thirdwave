@@ -9,10 +9,10 @@ beating people in St. Petersburg"
 
 ---
 
-Practitioners in these fields like proposing such things though, it
+nPractitioners in these fields like proposing such things though, it
 makes the sound smart. Hell one is thinking abt multiple
 universes.. isnt that smart? Sadly no.. I gurantee it these ppl are
-extremely fucking dumb.
+extremely bleeping dumb.
 
 ---
 
