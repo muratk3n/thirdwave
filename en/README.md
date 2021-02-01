@@ -39,10 +39,12 @@ acceptably optimal.
 
 In econ there is divisions around thriftyness and extra spending (some
 research popping up on the question but nothing solid), right and left
-have different answers. Bitcoin though just chooses one side of that
-argument, ignoring the other (money base cannot expand = thrift) hence
-it takes itself out of the discussion altogether. A country cannot
-adapt BTC as currency bcz of this.
+have different answers. Fine.
+
+But Bitcoin exclusively chooses one side of that argument, ignoring
+the other (money base cannot expand = thrift) hence it takes itself
+out of the discussion altogether. A country cannot adapt BTC as
+currency bcz of this.
 
 ---
 
