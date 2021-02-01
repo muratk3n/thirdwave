@@ -71,10 +71,11 @@ funding"
 
 ---
 
-Practitioners in these fields like proposing such things though, it
-makes the sound smart. Hell one is thinking abt multiple
-universes.. isnt that smart? Sadly no.. I gurantee it these ppl are
-extremely bleeping dumb.
+But they love proposing such ostentatious ideas, it makes the sound
+smart. Hell one is thinking abt multiple universes.. isnt that smart?
+
+Sadly nah.. I gurantee it a lot of these muckers are extremely
+bleeping dumb.
 
 ---
 
