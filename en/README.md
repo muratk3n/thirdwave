@@ -9,8 +9,9 @@ beating people in St. Petersburg"
 
 ---
 
-Fast digital payments are a good thing of course. But as fiat
-currency, money base needs the ability to expand.
+Fast digital payments are a good thing of course. But a fiat currency
+needs the ability to have its money base to expand depending on
+political decisions.
 
 ---
 
