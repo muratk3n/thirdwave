@@ -15,10 +15,6 @@ decisions.
 
 ---
 
-This is why left-leaning econs hate this thing to a man.
-
----
-
 Hal Finney (so called "Satoshi")'s reasoning for creating BTC was
 wrong. He created it in the aftermath of 2008 crisis (his pseudo is
 taken after his neighbor's name who lost money during crisis), and
@@ -30,6 +26,10 @@ money per se, but who it was printed for.
 BTC is absolutely the expression of the naivete coming from common
 tech dipshit - bright, shiny object loving, unaware of landscape, soc
 ecosystem, side effects, etc..
+
+---
+
+Left-leaning econs dislike this thing to a man.
 
 ---
 
