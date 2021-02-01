@@ -26,9 +26,9 @@ money per se, but who you print it for.
 
 ---
 
-BTC is absolutely the expression of a naivete of the common tech
-dipshit - bright, shiny object-ism, unaware of landscape, soc
-ecosystem, side effects..
+BTC is absolutely the expression of the naivete of the common tech
+dipshit - bright, shiny object-ist, unaware of landscape, soc
+ecosystem, side effects, etc..
 
 ---
 
