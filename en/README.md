@@ -64,16 +64,6 @@ Gerardo Frisina - Bluesanova \#music
 
 ---
 
-"@HCTrudo
-
-News: I'm told that as the budget reconciliation process is expected
-to get underway in Congress soon, a top progressive network,
-@PplsAction, is crafting its own list of priorities: -Recurring cash
-payments -Expanded eviction moratorium -Vaccines for all -State
-funding"
-
----
-
 But they love proposing such ostentatious ideas, it makes the sound
 smart. Hell one is thinking abt multiple universes.. isnt that smart?
 
