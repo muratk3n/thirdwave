@@ -9,23 +9,6 @@ beating people in St. Petersburg"
 
 ---
 
-nPractitioners in these fields like proposing such things though, it
-makes the sound smart. Hell one is thinking abt multiple
-universes.. isnt that smart? Sadly no.. I gurantee it these ppl are
-extremely bleeping dumb.
-
----
-
-Fundam phy is stuck, and they know it. But they think they need more
-elaborate ideas to get out of it, enter endless "thought experiments"
-on time, universes, determinism, etc. But it is very possible what
-they missed is something basic, but two or three steps ago. They built
-up all this shit thinking that step was real, so the fix will involve
-fixing that error, or creating something more fundamental than having
-these "sexy tricks" to get out.
-
----
-
 Fast digital payments are a good thing of course. But curr, money base
 needs the ability to expand.
 
@@ -82,6 +65,23 @@ to get underway in Congress soon, a top progressive network,
 @PplsAction, is crafting its own list of priorities: -Recurring cash
 payments -Expanded eviction moratorium -Vaccines for all -State
 funding"
+
+---
+
+Practitioners in these fields like proposing such things though, it
+makes the sound smart. Hell one is thinking abt multiple
+universes.. isnt that smart? Sadly no.. I gurantee it these ppl are
+extremely bleeping dumb.
+
+---
+
+Fundam phy is stuck, and they know it. But they think they need more
+elaborate ideas to get out of it, enter endless "thought experiments"
+on time, universes, determinism, etc. But it is very possible what
+they missed is something basic, but two or three steps ago. They built
+up all this shit thinking that step was real, so the fix will involve
+fixing that error, or creating something more fundamental than having
+these "sexy tricks" to get out.
 
 ---
 
