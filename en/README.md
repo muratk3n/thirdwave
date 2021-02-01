@@ -36,9 +36,11 @@ In the absence of clear-cut scientific law, differing views surface,
 and among enough knowledgable people, their average leads to something
 acceptably optimal. Example in econ there is divisions around
 thriftyness and extra spending (some research popping up on the
-question but nothing solid). Bitcoin though just chooses one side of
-that argument, ignoring the other (money base cannot expand = thrift)
-hence it takes itself out of the discussion altogether.
+question but nothing solid), right and left have different
+answers. Bitcoin though just chooses one side of that argument,
+ignoring the other (money base cannot expand = thrift) hence it takes
+itself out of the discussion altogether. A country cannot adapt BTC as
+currency bcz of this.
 
 ---
 
