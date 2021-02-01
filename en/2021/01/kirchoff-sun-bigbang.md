@@ -186,8 +186,8 @@ manner, after millions of years and many collisions, the photons
 emerge from the sun’s photosphere shifted to the visible region. Only
 a very small fraction of the total photons produced in the absorptive
 zone manage to escape at any time. According to Eddington, the
-radiation zone is acting as a very slowly leaking “sieve.” 8,9 It was
-in this manner that Eddington was able to solve some of the great
+radiation zone is acting as a very slowly leaking “sieve.” [8,9] It
+was in this manner that Eddington was able to solve some of the great
 problems in solar theory: 1) How to prevent the gaseous sun from
 collapsing on itself; 2) How to set the internal temperature of the
 sun and finally; 3) How to shift the frequency of photons produced at
@@ -236,9 +236,9 @@ above the photosphere) to millions of kilometers away from the sun. It
 was observed15 that the corona possessed within it highly ionized ions
 which can only be produced at temperatures well in excess of 1,000,000
 K. (The width of Lymanα lines further demonstrates that temperatures
-in the corona range from 2.6 x106 K at 1.5 solar radius to 1.2 x106 K
-at 4 solar radii [15]). This finding of very hot temperatures in the
-corona presented a major problem for solar theory.  Thus, a
+in the corona range from $2.6 x10^6$ K at 1.5 solar radius to $1.2
+x10^6$ K at 4 solar radii [15]). This finding of very hot temperatures
+in the corona presented a major problem for solar theory.  Thus, a
 temperature within the corona (>1,000,000 K) which exceeded that of
 the photosphere (~6,000 K) indicated a violation of the 2nd Law of
 Thermodynamics. That is, heat could not be coming from inside the sun
@@ -290,9 +290,9 @@ currents are clearly observed in this layer. That is, there is clearly
 the flow of material in the photosphere.
 
 This leaves the liquid state as a prime candidate for the
-photosphere. The sun has an average density of 1.4 g/cm3. This fact
+photosphere. The sun has an average density of $1.4 g/cm^3$. This fact
 can easily support a liquid model. By comparison, the density of water
-is 1 g/cm3. In addition, a liquid structure eliminates the need for
+is 1 $g/cm^3$. In addition, a liquid structure eliminates the need for
 radiation pressure to prevent the sun from collapsing on itself
 through the forces of gravity. The liquid alone can support the upper
 layers.
@@ -329,24 +329,24 @@ enclosure.
 As such, the photosphere is once again “tricking us.” Because it is a
 liquid, it is really at a much higher temperature than it
 appears. Since an “apparent temperature” is probably involved,
-Stefan’s, [10] Wien’s [11 and] Planck’s6 Laws need to be modified. In
-these equations, there is a temperature term (T), included. In order
-to apply these equations properly to a liquid, the temperature term
-(T) needs to be changed to an “apparent temperature,” Tapp. This
-“apparent temperature” will not be a real temperature. Rather, the
-apparent temperature, Tapp, is simply the real temperature, T, divided
-by a constant “α” (Tapp=T/α). The constant “α” would be temperature
-dependent for most liquids. For the photosphere “α” is ~1,000. As
-such, the sun’s photosphere is reporting a temperature which is nearly
-1,000 times too low. Thus, there is nearly 1,000 times more energy
-tied up in the translational and rotational degrees of freedom of the
-photosphere than in the vibrational degrees of freedom. That is where
-the “trick” comes in and this would have been difficult for Langley to
-understand at the time. The liquid phase could account for the
-tremendous convection currents found on the solar surface by invoking
-the translational and rotational degrees of freedom to deal with the
-heat separating the real temperature “T” and the apparent temperature
-“Tapp.”
+Stefan’s, [10] Wien’s [11] and Planck’s [6] Laws need to be
+modified. In these equations, there is a temperature term (T),
+included. In order to apply these equations properly to a liquid, the
+temperature term (T) needs to be changed to an “apparent temperature,”
+Tapp. This “apparent temperature” will not be a real
+temperature. Rather, the apparent temperature, Tapp, is simply the
+real temperature, T, divided by a constant “α” (Tapp=T/α). The
+constant “α” would be temperature dependent for most liquids. For the
+photosphere “α” is ~1,000. As such, the sun’s photosphere is reporting
+a temperature which is nearly 1,000 times too low. Thus, there is
+nearly 1,000 times more energy tied up in the translational and
+rotational degrees of freedom of the photosphere than in the
+vibrational degrees of freedom. That is where the “trick” comes in and
+this would have been difficult for Langley to understand at the
+time. The liquid phase could account for the tremendous convection
+currents found on the solar surface by invoking the translational and
+rotational degrees of freedom to deal with the heat separating the
+real temperature “T” and the apparent temperature “Tapp.”
 
 The liquid phase provides the only means of producing a thermal
 radiation curve for the sun at a lower apparent temperature than its
