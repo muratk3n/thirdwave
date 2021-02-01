@@ -125,22 +125,23 @@ While Eddington believed that he properly understood a key aspect of
 solar theory with the creation of the radiation zone, he also wanted
 to know exactly how many photons the sun could produce to support this
 hypothesis. At the time, he understood the consequences of Stefan’s
-Law of Emission.10 Stefan’s Law states that the total amount of
+Law of Emission.[10] Stefan’s Law states that the total amount of
 photons (or light) emitted from a perfectly emitting object (a
 blackbody) is directly proportional to the fourth power of the
-object’s temperature (ε = σT4, where ε represents total emission and
-Stefan’s constant, σ, is equal to 5.67051 x 10-8 Watts/(m2K4)). It was
-through Stefan’s Law that Eddington sought an answer. Believing that
-the internal layers of the sun could be treated as individual
+object’s temperature ($\epsilon = σT^4$, where ε represents total
+emission and Stefan’s constant, σ, is equal to $5.67051 x 10-8 Watts/(m^2K^4)$ ).
+It was through Stefan’s Law that Eddington sought an answer. Believing
+that the internal layers of the sun could be treated as individual
 blackbodies, Eddington could apply Stefan’s Law to imaginary internal
-solar layers. He could construct hypothetical spheres within the sun
-and calculate the total amount of photons emitted from such spheres.
-Given the dimensions and temperatures involved, the total output of
-photons would be almost unimaginable. Not fully understanding the
-limitations set down by Kirchhoff, Eddington believed that Stefan’s
-Law was universal. In the end, Eddington’s application of Stefan’s Law
-would result in a tremendous output of photons from the sun. Yet, the
-sun is known to have a much lower total energy output.
+solar layers. He could construct hypothetical spheres within
+the sun and calculate the total amount of photons emitted
+from such spheres.  Given the dimensions and temperatures involved,
+the total output of photons would be almost unimaginable. Not
+fully understanding the limitations set down by Kirchhoff, Eddington
+believed that Stefan’s Law was universal. In the end, Eddington’s
+application of Stefan’s Law would result in a tremendous output
+of photons from the sun. Yet, the sun is known to have a much
+lower total energy output.
 
 At the same time, Eddington recognized from the laws of thermodynamics
 that an object at millions of degrees should produce its photons at
