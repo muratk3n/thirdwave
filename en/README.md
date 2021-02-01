@@ -18,7 +18,7 @@ This is why left-leaning econs hate this thing to a man.
 
 ---
 
-Hal Finney's (so called "Satoshi") reasoning for creating BTC was
+Hal Finney (so called "Satoshi")'s reasoning for creating BTC was
 wrong. He created it in the aftermath of 2008 crisis (his pseudo is
 taken after his neighbor's name who lost money during crisis), and
 thought "printing money" was the culprit. The problem wasnt printing
