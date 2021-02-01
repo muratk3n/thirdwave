@@ -22,7 +22,7 @@ Hal Finney (so called "Satoshi")'s reasoning for creating BTC was
 wrong. He created it in the aftermath of 2008 crisis (his pseudo is
 taken after his neighbor's name who lost money during crisis), and
 thought "printing money" was the culprit. The problem wasnt printing
-money per se, but who you print it for.
+money per se, but who it was printed for.
 
 ---
 
