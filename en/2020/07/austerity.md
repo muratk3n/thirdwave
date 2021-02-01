@@ -21,6 +21,8 @@ trade balance, all specifications confirm the main idea, that
 countries with better quality of governance and lower level of trade
 deficit have higher debt threshold level"
 
+---
+
 To summarize: you can't simply pull out money out of your ass and have
 it be a positive effect on government level, there is a point the
 trick loses its effect.
