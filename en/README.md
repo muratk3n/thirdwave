@@ -96,8 +96,6 @@ Gaussian (which is noise) is zero. This is the magic.
 But if I sum every 6 die throws and histogram,
 
 ```python
-import random
-n = 1000; b = 6
 rolls = [random.randint(1,6) for i in range(b*n)]
 rolls = np.array(rolls).reshape(n,b)
 s = np.sum(rolls,axis=1)
