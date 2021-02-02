@@ -6,6 +6,6 @@ if sys.argv[1] == 'week':
     print("Week #" + str(week_num) + " of year " + str(year))
 
 if sys.argv[1] == 'years':
-    for year in range(2007,2021):
+    for year in range(2007,2022):
         os.system("echo '# %d\n' > %d/README.md" % (year,year))
         os.system("python -u gen.py %d >> %d/README.md" % (year,year))
