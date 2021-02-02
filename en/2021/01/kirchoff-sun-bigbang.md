@@ -276,11 +276,11 @@ Kirchhoff for the simple reason that it is not in thermal equilibrium
 with an adiabatic enclosure. In fact, the sun is actually operating
 far out of equilibrium by every measure. As such, it is improper for
 Langley [11,12] to set a temperature of the photosphere at ~6,000 K
-based on Stefan,10 Wien11 and Planck.[6] Moreover, the photosphere
-cannot be a low density gas. Gases simply cannot produce a Planckian
-shaped thermal emission profile like that seen in the visible light
-provided by the sun’s photosphere. Rather gases emit or absorb
-radiation in narrow frequency bands often reflecting quantized
+based on Stefan,[10] Wien [11] and Planck.[6] Moreover, the
+photosphere cannot be a low density gas. Gases simply cannot produce a
+Planckian shaped thermal emission profile like that seen in the
+visible light provided by the sun’s photosphere. Rather gases emit or
+absorb radiation in narrow frequency bands often reflecting quantized
 vibration-rotational states. There does not exist a single example on
 earth of a pure gas producing a Planckian shaped emission
 spectrum. This is reserved for solids and liquids since only they
