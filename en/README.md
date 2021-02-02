@@ -72,8 +72,8 @@ up, so the noise is normal. Stat ppl know this, when they apply a
 model to data, they determine whether it is good by looking at its
 mistake, its "residual" (diff between model pred, and real data). If
 resid is gaussian, they are happy. Bad models leave patterns in
-data. When dumb people eff up you know why. There is pattern in their
-eff ups (usually due to some bias).
+data. When unskilled (or dumb) people eff up you know why. There is
+pattern in their eff ups (usually due to some bias).
 
 ---
 
