@@ -181,7 +181,7 @@ portion of the sun was at temperatures of millions of
 degrees. Furthermore, these photons should be produced at X-ray
 frequencies. In order to solve this dilemma, Eddington simply stated
 that when photons are produced in the radiation zone, they are
-initially produced at X-ray frequencies.8,9 However, when these
+initially produced at X-ray frequencies.[8,9] However, when these
 photons are absorbed in the collisions associated with radiation
 pressure (see above), they slowly lose some of their energy. In this
 manner, after millions of years and many collisions, the photons
@@ -198,7 +198,7 @@ radiation zone had resulted in tremendous radiation pressure within
 the sun. For Eddington, this radiation pressure exactly balanced with
 the gravitational forces resulting in our current gaseous model of the
 sun. The gaseous sun had been prevented from collapsing and photons
-were now produced appropriately in the visible range.8,9 Thus,
+were now produced appropriately in the visible range.[8,9] Thus,
 Eddington’s gaseous sun was at very high temperatures (millions of
 degrees). Yet, this extremely hot object, was surrounded by a very
 cool photosphere only a few thousand kilometers thick and at a
@@ -225,10 +225,10 @@ ideas first developed near the beginning of the 20th century by men
 like Lane, Langley and Eddington. Today, Eddington’s radiation zone
 remains as a central feature of solar theory. The sun is viewed as
 composed of a very hot internal fraction (>10,000,000 K) surrounded by
-Langley’s photosphere at ~6,000 K. The density14 of the central core
-is thought to approach 150 g/cm3, while that of the lower photosphere
-is thought to be on the order of 10-7 g/cm3. Neither of the numbers,
-of course, can be verified by direct experimentation.
+Langley’s photosphere at ~6,000 K. The density [14] of the central
+core is thought to approach 150 g/cm3, while that of the lower
+photosphere is thought to be on the order of $10^{-7} g/cm^3$. Neither of
+the numbers, of course, can be verified by direct experimentation.
 
 The next big step in solar theory came in the 1950’s. At that time,
 scientists were beginning to obtain interesting data from the solar
@@ -238,8 +238,8 @@ above the photosphere) to millions of kilometers away from the sun. It
 was observed15 that the corona possessed within it highly ionized ions
 which can only be produced at temperatures well in excess of 1,000,000
 K. (The width of Lymanα lines further demonstrates that temperatures
-in the corona range from $2.6 x10^6$ K at 1.5 solar radius to $1.2
-x10^6$ K at 4 solar radii [15]). This finding of very hot temperatures
+in the corona range from $2.6 x10^6$ K at 1.5 solar radius to $1.2 x10^6$
+K at 4 solar radii [15]). This finding of very hot temperatures
 in the corona presented a major problem for solar theory.  Thus, a
 temperature within the corona (>1,000,000 K) which exceeded that of
 the photosphere (~6,000 K) indicated a violation of the 2nd Law of
