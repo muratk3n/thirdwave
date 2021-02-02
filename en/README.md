@@ -75,10 +75,6 @@ resid is gaussian, they are happy. Bad models leave patterns in
 data. When dumb people eff up you know why. There is pattern in their
 eff ups (usually due to some bias).
 
-Done.
-
-Class dismissed
-
 ---
 
 Height is normal of course.. many factors contribute to height. Some
