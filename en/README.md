@@ -68,7 +68,7 @@ Both shooting, and weight guessing involves knowledge / skill BTW,
 very important. Good noise around bullseye means person knows how to
 shoot.  Judging weight by naked eye is possible bcz we have innate
 knowledge of weights of things, through evolution, and part of growing
-up, and the noise is normal. Stat ppl know this, when they apply a
+up, so the noise is normal. Stat ppl know this, when they apply a
 model to data, they determine whether it is good by looking at its
 mistake, its "residual" (diff between model pred, and real data). If
 resid is gaussian, they are happy. Bad models leave patterns in
@@ -107,9 +107,9 @@ plt.savefig('dice1.png')
 
 Bell shaped. Normal.
 
-Why? There are more chances to get a 6 than 2. I can get 6 with
-4+2,2+4,1+5,3+3,etc.. Very low, very high nums are harder. Easy sums
-form the bulk in the middle.
+Why? Bcz more sums result in a 6 than 2. I can get 6 with
+4+2,2+4,1+5,3+3,etc.. More chance to hit it. Very low, very high nums
+are harder. Easy sums form the bulk in the middle.
 
 ---
 
@@ -150,7 +150,7 @@ the weight of an ox. Statistician Francis Galton observed that the
 median guess, 1207 pounds, was accurate within 1% of the true
 weight. Magic.
 
-The reason is guesses have noise, the right kind of noise, around the
+The reason is, guesses have noise, the right kind of noise, around the
 right answer. Averaging removes noise.
 
 The noise distribution is bell-shaped, "normal" or a "Gaussian" (a
