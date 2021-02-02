@@ -173,8 +173,8 @@ Id rather sci ppl hit their peers harder in the head.
 
 ---
 
-Haha.. Robitaille took an ad on *New York Times* about his findings in
-2002. I share it [here](2021/01/kirchoff-sun-bigbang.md).
+Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
+I share it [here](2021/01/kirchoff-sun-bigbang.md).
 
 ---
 
