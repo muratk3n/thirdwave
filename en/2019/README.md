@@ -86,8 +86,6 @@
 
 [A Post-Scarcity World](11/post-scarcity.md)
 
-[Drug War](11/war-on-drugs.md)
-
 [Civilized to Death](12/civilized-to-death.md)
 
 [Evolution](12/evolution.md)
