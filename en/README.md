@@ -143,7 +143,7 @@ like that in nature
 
 ---
 
-To elaborate more on how consensus among (knowledgable) people can
+To elaborate more on how consensus among (knowledgeable) people can
 result in correct decisions.. Remember earlier
 [post](2020/07/crowd-wisdom.md) at a country fair 800 people estimated
 the weight of an ox. Statistician Francis Galton observed that the
