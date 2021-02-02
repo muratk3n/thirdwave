@@ -11,9 +11,9 @@ average is 50%.
 
 ---
 
-Stiglitz: "By contrast, Biden’s proposed spending plan is urgently
-needed. Recently released data show a slowdown in America’s recovery
-both in terms of GDP and employment...
+Stiglitz: "Biden’s proposed spending plan is urgently needed. Recently
+released data show a slowdown in America’s recovery both in terms
+of GDP and employment...
 
 The economy would, of course, be better off without zero interest
 rates. It would also be better if policymakers raised taxes by
