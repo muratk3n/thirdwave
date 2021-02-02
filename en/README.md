@@ -4,10 +4,10 @@
 
 ---
 
-BTW by "average" yesterday I meant long-running average between two
-(or more) views. One party cld be for 30% tax rate, another for
-70%. Each enact their thing one in power, if they can, long-running
-average is 50%.
+By "average" yesterday I meant long-running average between two (or
+more) views (cld be immed avg too). One party cld be for 30% tax rate,
+another for 70%. Each enact their thing one in power, if they can,
+long-running average is 50%.
 
 ---
 
