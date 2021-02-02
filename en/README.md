@@ -70,16 +70,16 @@ envision a 100 percent renewable world that is also reliable"
 
 ---
 
-Both shooting, and weight guessing involves knowledge BTW, very
-important. Good noise around bullseye means person knows how to shoot.
-Judging weight by naked eye is possible bcz we have innate knowledge
-of weights of things, through evolution, and part of growing up, and
-the noise is normal. Stat ppl know this, when they apply a model to
-data, they determine whether it is good by looking at its residual
-(diff between its pred, and real data). If resid is gaussian, they are
-happy. Bad models leave patterns in data. When dumb people eff up you
-know why. There is pattern in their eff ups (usually due to some
-bias).
+Both shooting, and weight guessing involves knowledge / skill BTW,
+very important. Good noise around bullseye means person knows how to
+shoot.  Judging weight by naked eye is possible bcz we have innate
+knowledge of weights of things, through evolution, and part of growing
+up, and the noise is normal. Stat ppl know this, when they apply a
+model to data, they determine whether it is good by looking at its
+residual (diff between its pred, and real data). If resid is gaussian,
+they are happy. Bad models leave patterns in data. When dumb people
+eff up you know why. There is pattern in their eff ups (usually due to
+some bias).
 
 Done.
 
