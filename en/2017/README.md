@@ -162,8 +162,6 @@
 
 [Whataboutism](08/whataboutism.md)
 
-[Blyth on Subprime Crisis](09/blyth-on-subprime-crisis.md)
-
 [Bro](09/bro.md)
 
 [Buffett: Single-Payer](09/buffett-single-payer.md)
