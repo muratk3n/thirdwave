@@ -314,10 +314,6 @@ system'. Enjoy your price-inflated real-estate.
 
 ---
 
-Krystal Ball is foxy. Rrrrrr
-
----
-
 Grebe - No Whiskey For Me \#music
 
 [Link](https://youtu.be/7wYmagZZeeg)

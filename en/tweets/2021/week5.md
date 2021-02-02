@@ -1,5 +1,98 @@
 # Week 5
 
+"@michaeldweiss
+
+Protests continue across Russia today to free Navalny. Video of cops
+beating people in St. Petersburg"
+
+[Link](https://mobile.twitter.com/michaeldweiss/status/1355914024328835072)
+
+---
+
+Fast digital payments are a good thing.. But a fiat currency needs the
+ability to have its money base expand depending on political
+decisions.
+
+---
+
+Hal Finney (so called "Satoshi")'s reasoning for creating BTC was
+wrong. He created it in the aftermath of 2008 crisis (his pseudo is
+taken after his neighbor's name who lost money during crisis), and
+thought "printing money" was the culprit. The problem wasnt printing
+money per se, but who it was printed for.
+
+---
+
+BTC is absolutely the expression of the naivete coming from common
+tech guy - bright, shiny object loving, unaware of landscape, soc
+ecosystem, side effects, etc..
+
+---
+
+Left-leaning econs dislike this thing to a man.
+
+---
+
+In the absence of clear-cut scientific law, differing views surface,
+and among enough knowledgable people, their average leads to something
+acceptably optimal.
+
+In econ there is division around thriftyness and extra spending (some
+research popping up on the question but nothing solid), right and left
+have different answers. Fine.
+
+But Bitcoin exclusively chooses one side of that argument, ignoring
+the other (money base cannot expand = thrift) hence it takes itself
+out of the discussion altogether. A country cannot adapt BTC as
+currency bcz of this.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This problem you&#39;ve been concerned with, that thousands of people have studied for decades and sometimes centuries? It has a simple solution: bitcoin</p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1353189704385011712?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+What kind of notation is that? If random, not-referenced-elsewhere
+Greek letter is used, you have to assume summation over all indices?
+$u_\beta$ means $u_x + u_y + u_z$? WTF? What the actual f--k man?
+
+---
+
+Gerardo Frisina - Bluesanova \#music
+
+[Link](https://youtu.be/9kl3sU_id58)
+
+---
+
+But they love proposing such ostentatious ideas, it makes them sound
+smart. Hell one is thinking abt multiple universes.. isnt that smart?
+
+Sadly nah.. I gurantee it a lot of these muckers are extremely
+bleeping dumb.
+
+---
+
+Fundam phy is stuck, and they know it. But they mistakenly think more
+elaborate ideas are needed to get out of it, enter endless "thought
+experiments" on time, universes, determinism, etc. But it is very
+possible what they missed is something basic, only two or three steps
+ago. They built up all this shit thinking that step was real, so the
+fix will involve fixing that error, or creating something more
+fundamental than having these "sexy tricks".
+
+---
+
+Started to watch more cable news, this must be return to some kind of normal
+
+---
+
+"@MattZeitlin
+
+wow wonder why VCs and tech execs want no taxes on capital gains, an
+expanded market for equities, and short sellers banned and/or jailed"
+
+---
+
 <img width="250" src="https://drive.google.com/uc?export=view&id=1RuAIV1vVuOUQnkerelkmLLlm9JDPQym-"/>
 
 ---
