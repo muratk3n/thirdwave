@@ -189,7 +189,7 @@ is safe until every country is safe" via France24
 ---
 
 Making their IP public is always possible. It's been done before, even
-in US, on [transistor patents](2020/03/appelbaum.md#transistor). 1952..
+in US, on [transistor patents](../../2020/03/appelbaum.md#transistor). 1952..
 Truman's time.
 
 ---
@@ -644,7 +644,7 @@ Dublex Inc. - Simply Smooth \#music
 
 ---
 
-An earlier [post](2014/02/is-earth-fked.md) on BW
+An earlier [post](../../2014/02/is-earth-fked.md) on BW
 
 "[A] geophysicist, Brad Werner, who in 2012 argued ... that we are in
 this [climate] mess not because the market system is not working well
@@ -683,7 +683,7 @@ Russia, with CCS done on their side
 
 US has potential for both (but dont frack, or transmit NG over pipes,
 they leak, very hard to regulate, Id also watch for
-[this shit](2019/09/sf6.md), the material is used in wind turbines and
+[this shit](../../2019/09/sf6.md), the material is used in wind turbines and
 high-voltage electric installations)
 
 "How is Europe more gung-ho on green energy production compared to
