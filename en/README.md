@@ -166,13 +166,6 @@ dist is the formulaic form of a histogram, occurence count, frequency).
 
 ---
 
-IMO the general public is not the best place for this stuff.. but
-hey.
-
-Id rather sci ppl hit their peers harder in the head.
-
----
-
 Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
 I share it [here](2021/01/kirchoff-sun-bigbang.md).
 
