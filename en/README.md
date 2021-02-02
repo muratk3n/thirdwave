@@ -122,7 +122,7 @@ form the bulk in the middle.
 ---
 
 Demo. Throw a 6-sided die 1000 times (numbers below are from software
-generator), plot their histogram,
+generator), histogram rolls,
 
 ```python
 import random
