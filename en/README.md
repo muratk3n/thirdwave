@@ -33,12 +33,6 @@ really small, and partly because of a rash of administrative problems"
 
 ---
 
-I wonder if all that sugar is added to marmalede to increase its
-viscosity to add a kind of protective layer against air, etc
-influence.. What if u just add olive oil?
-
----
-
 "Sumitomo Corporation of Americas Makes Strategic Investment in Hydrogen Fuel Provider OneH2"
 
 [Link](https://www.prnewswire.com/news-releases/sumitomo-corporation-of-americas-makes-strategic-investment-in-hydrogen-fuel-provider-oneh2-301216213.html)
@@ -168,6 +162,12 @@ dist is the formulaic form of a histogram, occurence count, frequency).
 
 Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
 I share it [here](2021/01/kirchoff-sun-bigbang.md).
+
+---
+
+I wonder if all that sugar is added to marmalede to increase its
+viscosity to add a kind of protective layer against air, etc
+influence.. What if u just add olive oil?
 
 ---
 
