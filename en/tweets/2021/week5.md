@@ -141,7 +141,7 @@ like that in nature
 
 To elaborate more on how consensus among (knowledgeable) people can
 result in correct decisions.. Remember earlier
-[post](2020/07/crowd-wisdom.md) at a country fair 800 people estimated
+[post](../../2020/07/crowd-wisdom.md) at a country fair 800 people estimated
 the weight of an ox. Statistician Francis Galton observed that the
 median guess, 1207 pounds, was accurate within 1% of the true
 weight. Magic.
@@ -155,7 +155,7 @@ dist is the formulaic form of a histogram, occurence count, frequency).
 ---
 
 Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
-I share it [here](2021/01/kirchoff-sun-bigbang.md).
+I share it [here](../../2021/01/kirchoff-sun-bigbang.md).
 
 ---
 
