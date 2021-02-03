@@ -26,7 +26,7 @@ The moral arc of the universe only bends towards justice when we push"
 
 ---
 
-This tweet was liked by some tax-reform advocates I noticed
+Tweet liked by tax-reform advocates I noticed
 
 "@KClausing
 
