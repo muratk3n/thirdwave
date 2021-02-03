@@ -99,7 +99,7 @@ plt.hist(s,bins=12)
 plt.savefig('dice1.png')
 ```
 
-<img width="200" src="https://github.com/muratk3n/thirdwave/blob/master/en/tweets/2021/dice1.png?raw=true"/>
+<img width="200" src="dice1.png"/>
 
 Bell shaped. Normal.
 
@@ -121,7 +121,7 @@ plt.hist(rolls,bins=6)
 plt.savefig('dice2.png')
 ```
 
-<img width="200" src="https://github.com/muratk3n/thirdwave/blob/master/en/tweets/2021/dice2.png?raw=true"/>
+<img width="200" src="dice2.png"/>
 
 Nearly uniform (not normal), all equal chance,
 

@@ -36,6 +36,8 @@ communications. They set the rules under which organizations
 interacted. In short, they fitted the pieces of the society together.
 Without them the Second Wave system could never have run.
 
+<a name='marx'/>
+
 Marx, in the mid-nineteenth century, thought that whoever owned the
 tools and technology—the "means of production"—would control
 society. He argued that, because work was interdependent, workers
