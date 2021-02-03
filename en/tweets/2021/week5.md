@@ -283,12 +283,6 @@ assuming BH existence were all worthless. It all goes to the trash.
 
 ---
 
-WH advisor Brian Deese, asked abt "what about Wall Street, volatility"
-blah blah.. He was like "our focus right now is Main Street". Good
-answer \#PBS
-
----
-
 All-around shoot-the-shit is no picnic either, I tell you.
 
 ---
