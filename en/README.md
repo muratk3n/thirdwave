@@ -6,7 +6,8 @@ Dj Food - Well Swung \#music
 
 ---
 
-The author's "junta giveth, junta taketh away democracy" is spot on.
+The author's description "junta giveth, junta taketh away democracy"
+is spot on.
 
 "The 2008 [Burma] constitution – adopted after a referendum described
 as an 'insult' by international rights groups – was a military venture
