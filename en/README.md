@@ -123,12 +123,6 @@ Bitch I much prefer the vector notation..
 
 ---
 
-Berry Lipman - Bl Special \#music
-
-[Link](https://youtu.be/u-2eXlnCLpE)
-
----
-
 Sure commercialization can be a form shackling; US de-patented
 transistors, then there was a "vibrant ecosystem" around
 computing.
