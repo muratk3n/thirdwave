@@ -1,113 +1,166 @@
 # Tweets
 
-"Spanish Deputy PM: Spain Looks at UAE's Offshore Expertise in Green
-Hydrogen Production"
+Dj Food - Well Swung \#music
 
-[Link](https://fuelcellsworks.com/news/spanish-deputy-pm-spain-looks-at-uaes-offshore-expertise-in-green-hydrogen-production/#:~:text=Abu%20Dhabi%20%E2%80%94%20Spain%20is%20interested,to%20a%20top%20Spanish%20official.)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t miss it! Tues 2/2: <a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> presents how alkaline fuel cells drive disruptive energy technology at the &quot;Dutch Israeli Mini-Symposium on <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> and Renewable Energy&quot; 11:00 AM–1:00 PM. To register: <a href="https://t.co/RnKf669w7K">https://t.co/RnKf669w7K</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1356331702113722371?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://youtu.be/WF9HYvH-MPk)
 
 ---
 
-Nobel Peace Prize for Kusshhhh. Literally being discussed.. 
+The author's "junta giveth, junta taketh away democracy" is spot on.
+
+"The 2008 [Burma] constitution – adopted after a referendum described
+as an 'insult' by international rights groups – was a military venture
+that instituted a form of tutelage democracy with the military playing
+national caretaker. The 213-page document includes several articles
+enshrining the military’s 'right to take over and exercise state
+sovereign power' in case of an emergency.
+
+Monday’s scrapping of the constitution was, in effect, constitutional.
+
+[Link](https://amp.france24.com/en/asia-pacific/20210202-junta-holds-all-the-cards-in-myanmar-s-future-but-can-it-end-suu-kyi-s-political-career)
 
 ---
 
-Looks like Abraham Accords will last after all? New admin is ok with
-it? 
+"@paulmcleary
+
+Th US plans to start flying B-1s out of Orland Air Base, Norway - the
+country's current F-35 hub. 200 USAF personnel showed up there today
+to start training to operate the bombers, EUCOM says"
 
 ---
 
-"@ReverendWarnock
+"Award-winning UK scientist Dr. Lui Terry discusses how his pioneering
+work on nanoconfinement could help advance the global transition to
+cleaner energy... Metallic hydrogen is the densest form of solid
+hydrogen - a supremely compact way to store clean fuel. However ... is
+classically formed at very high pressures – close to the center of a
+planet. Thus, it is energy intense and currently impractical to
+produce, but it is predicted to be metastable like
+diamonds. Therefore, on removal of the pressure, they remain solid.
+[Bristol is] developing an alternative way to increase density at much
+lower pressures and higher temperatures .. [w] nanoconfinement"
 
-The moral arc of the universe only bends towards justice when we push"
-
----
-
-Tweet liked by tax-reform advocates I noticed
-
-"@KClausing
-
-Update: Sworn in today as deputy assistant secretary for tax analysis
-in Treasury. Tax policy is a key tool for tackling our biggest
-challenges, incl. pandemic relief & recovery, climate change, and
-inequality. Grateful to be part of Biden policy team!  Fired up and
-ready to go"
+[Link](https://www.selectscience.net/editorial-articles/Improving+hydrogen+storage+in+the+quest+to+reach+%E2%80%98net+zero%E2%80%99/?artID=52383)
 
 ---
 
-reshuffle.. nice
-
-"@poppymcp
-
-Chinese media calls the military coup in Myanmar and replacement of
-officials with army men a 'major cabinet reshuffle'"
+Obviously I am very much interested in metallic H2, for energy storage
 
 ---
 
-That part is embarrasing.. R paper
-[says](2021/01/kirchoff-sun-bigbang.md#bigbang) they most likely
-measured Earth's own (nearby) oceans and mistook that for the Big
-Bang. D'oh!
-
-"If they did not measure the radiation from Big Bang what did they measure?"
-
----
-
-But better, more accurate term wld have been just nonlinear regression
-(for these recent neural nets that created most of the hype)
+"For astrophysicists, the Sun imparts lessons which may well have
+direct applications for mankind. For instance, the solar body holds
+the key to fusion. If the Sun is made from condensed matter, then our
+experiments should focus on this state. Sunspots may also guard the
+secret to synthesizing metallic hydrogen on Earth. If sunspots are
+truly metallic, as reflected by their magnetic fields, then attempts
+to form liquid metallic hydrogen on Earth might benefit from the
+presence of magnetic fields"
 
 ---
 
-Why the switch..? The label "Machine Learning" was just fine..
+Robitaille: "[A]n incompressible liquid, a condensed Sun calls into
+question virtually everything which is currently believed with respect
+to the evolution and nature of the stars. Should the Sun be condensed,
+then neutron stars and white dwarfs will fail to reach the enormous
+densities they are currently believed to possess. Much of cosmology
+also falls into question, as the incompressibility of matter curtails
+any thought that a primordial atom once existed. Aging stars can no
+longer collapse and black holes will know no formative mechanism.  A
+condensed Sun also hints that great strides must still be made in
+understanding the nature of liquids. The Sun has revealed that liquids
+possess a much greater potential for lattice order than previously
+believed. In addition, lessons may be gained with regards to the
+synthesis of liquid metallic hydrogen and the use of condensed matter
+as the basis for initiating fusion on Earth"
 
-<img width="250" src="https://drive.google.com/uc?export=view&id=1Ly5XJOYjMLixGhQNlSdxOVmJvrig9VNT"/>
-
----
-
-The word AI has been so sullied by existing state-of-art, now movies
-have to get away from it to sound cool. Convo from *Outside the Wire*,
-
-A: "So, what are you? Like, AI?"
-
-B: "Your cell phone's AI. A Gump's AI"
-
-.. as in he is something else, not some trick code that recommends you
-the shoe you just bought.
-
----
-
-"New measures of success needed to avoid catastrophic breakdown,
-landmark review finds. ... The world is being put at 'extreme risk' by
-the failure of economics to take account of the rapid depletion of the
-natural world and needs to find new measures of success to avoid a
-catastrophic breakdown... Prosperity was coming at a 'devastating
-cost' to the ecosystems that provide humanity with food, water and
-clean air, said Prof Sir Partha Dasgupta, the Cambridge University
-economist who conducted the review. Radical global changes to
-production, consumption, finance and education were urgently needed"
-
-[Link](https://www.theguardian.com/environment/2021/feb/02/economics-failure-over-destruction-of-nature-presents-extreme-risks)
+[Link](https://vixra.org/abs/1310.0138)
 
 ---
 
-More from Jack Brouwer, professor at UCI, director of the NFCRC, APEP
-
-"If you want to go to all the way to zero emissions meeting, providing
-a zero emissions option to a large apartment complex is not possible
-with battery electric vehicles, because we can’t put new charging
-stations at every one of the parking spots that this apartment complex
-has without, like, tripling the electric infrastructure that goes into
-that apartment complex. However, one hydrogen fueling station on the
-corner would be able to serve that entire complex at a much lower cost"
-
-[Link](https://news.uci.edu/2021/01/27/uci-podcast-solving-climate-change-with-clean-hydrogen-fuel/)
+Fusion has been the Holy Grail of enegy for a long time. But right now
+AFAIK the work on it has stalled. They cant get more energy out of it
+than the energy they put in. They keep building machines for it but,
+like the LHC, the act of building the machine is more exciting,
+fruitful than the result u get from the thing itself. That has been
+the story so far.
 
 ---
 
-Dude solved a Kreyszig problem using `autograd`. 
+It will help us understand the fusion process more. Work on fusion was
+inspired by the Sun, so if we understand the Sun better we might do
+fusion better.
+
+"Why does it matter to understand how the Sun works?"
+
+---
+
+D2Q9
+
+U know wha'm talkin but dont you..? Yieeah
+
+---
+
+What is this free suffix buuulshit
+
+$a_j b_j z_k = x_k + a_i a_i y_k b_j b_k$
+
+is same as
+
+$
+(\mathbf{a} \cdot \mathbf{b}) \mathbf{z} =
+\mathbf{x} + |\mathbf{a}|^2 |\mathbf{b}|^2 \mathbf{y}
+$
+
+???
+
+Buuulshit
+
+---
+
+Bitch I much prefer the vector notation.. 
+
+---
+
+Good song but the double bass was little excessive.
+
+---
+
+Cheebacabra - Looking For My Brother \#music
+
+[Link](https://youtu.be/Z-ACV3kg_d8)
+
+---
+
+Berry Lipman - Bl Special \#music
+
+[Link](https://youtu.be/u-2eXlnCLpE)
+
+---
+
+Sure commercialization can be a form shackling; US de-patented
+transistors, then there was a "vibrant ecosystem" around
+computing.
+
+---
+
+Their vacc was available before anyone else's. I bet US / Europe could
+do much better wout shackles.
+
+"Europe warms to Russian jab after positive trial results"
+
+[Video](https://youtu.be/-rkxiUs3F3I)
+
+---
+
+The over-commercialization of biotech led to subpar results.. Too slow.
+
+---
+
+"Pentagon moves Israel into [CENTCOM] to boost cooperation with Arab
+states... Change approved during Trump’s final days shifts Israel out
+of US military’s European Command sphere, will allow for greater
+regional collaboration against Iran"
 
 ---
 

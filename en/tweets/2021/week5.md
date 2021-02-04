@@ -1,5 +1,116 @@
 # Week 5
 
+"Spanish Deputy PM: Spain Looks at UAE's Offshore Expertise in Green
+Hydrogen Production"
+
+[Link](https://fuelcellsworks.com/news/spanish-deputy-pm-spain-looks-at-uaes-offshore-expertise-in-green-hydrogen-production/#:~:text=Abu%20Dhabi%20%E2%80%94%20Spain%20is%20interested,to%20a%20top%20Spanish%20official.)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t miss it! Tues 2/2: <a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> presents how alkaline fuel cells drive disruptive energy technology at the &quot;Dutch Israeli Mini-Symposium on <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> and Renewable Energy&quot; 11:00 AM–1:00 PM. To register: <a href="https://t.co/RnKf669w7K">https://t.co/RnKf669w7K</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1356331702113722371?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Nobel Peace Prize for Kusshhhh. Literally being discussed.. 
+
+---
+
+Looks like Abraham Accords will last after all? New admin is ok with
+it? 
+
+---
+
+"@ReverendWarnock
+
+The moral arc of the universe only bends towards justice when we push"
+
+---
+
+Tweet liked by tax-reform advocates I noticed
+
+"@KClausing
+
+Update: Sworn in today as deputy assistant secretary for tax analysis
+in Treasury. Tax policy is a key tool for tackling our biggest
+challenges, incl. pandemic relief & recovery, climate change, and
+inequality. Grateful to be part of Biden policy team!  Fired up and
+ready to go"
+
+---
+
+reshuffle.. nice
+
+"@poppymcp
+
+Chinese media calls the military coup in Myanmar and replacement of
+officials with army men a 'major cabinet reshuffle'"
+
+---
+
+That part is embarrasing.. R paper
+[says](2021/01/kirchoff-sun-bigbang.md#bigbang) they most likely
+measured Earth's own (nearby) oceans and mistook that for the Big
+Bang. D'oh!
+
+"If they did not measure the radiation from Big Bang what did they measure?"
+
+---
+
+But better, more accurate term wld have been just nonlinear regression
+(for these recent neural nets that created most of the hype)
+
+---
+
+Why the switch..? The label "Machine Learning" was just fine..
+
+<img width="250" src="https://drive.google.com/uc?export=view&id=1Ly5XJOYjMLixGhQNlSdxOVmJvrig9VNT"/>
+
+---
+
+The word AI has been so sullied by existing state-of-art, now movies
+have to get away from it to sound cool. Convo from *Outside the Wire*,
+
+A: "So, what are you? Like, AI?"
+
+B: "Your cell phone's AI. A Gump's AI"
+
+.. as in he is something else, not some trick code that recommends you
+the shoe you just bought.
+
+---
+
+"New measures of success needed to avoid catastrophic breakdown,
+landmark review finds. ... The world is being put at 'extreme risk' by
+the failure of economics to take account of the rapid depletion of the
+natural world and needs to find new measures of success to avoid a
+catastrophic breakdown... Prosperity was coming at a 'devastating
+cost' to the ecosystems that provide humanity with food, water and
+clean air, said Prof Sir Partha Dasgupta, the Cambridge University
+economist who conducted the review. Radical global changes to
+production, consumption, finance and education were urgently needed"
+
+[Link](https://www.theguardian.com/environment/2021/feb/02/economics-failure-over-destruction-of-nature-presents-extreme-risks)
+
+---
+
+More from Jack Brouwer, professor at UCI, director of the NFCRC, APEP
+
+"If you want to go to all the way to zero emissions meeting, providing
+a zero emissions option to a large apartment complex is not possible
+with battery electric vehicles, because we can’t put new charging
+stations at every one of the parking spots that this apartment complex
+has without, like, tripling the electric infrastructure that goes into
+that apartment complex. However, one hydrogen fueling station on the
+corner would be able to serve that entire complex at a much lower cost"
+
+[Link](https://news.uci.edu/2021/01/27/uci-podcast-solving-climate-change-with-clean-hydrogen-fuel/)
+
+---
+
+Dude solved a Kreyszig problem using `autograd`. 
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The map shows how much tax revenue your country loses from corporations shifting profits to tax havens.<br><br>In total 40% of multinational profits are shifted to tax havens each year.<br>This reduces corporate income tax revenue by nearly $200 billion.<br><br>from <a href="https://t.co/Wa9aVaeikB">https://t.co/Wa9aVaeikB</a> <a href="https://t.co/4Y9HWXsrxj">pic.twitter.com/4Y9HWXsrxj</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1356203389630218243?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
