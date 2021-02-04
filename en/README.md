@@ -98,7 +98,7 @@ fusion better.
 
 D2Q9
 
-U know wha'm talkin but dont you..? Yieeah
+U know wha'm talkin bout dont you..? Yieeah
 
 ---
 
