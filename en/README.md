@@ -15,7 +15,7 @@ national caretaker. The 213-page document includes several articles
 enshrining the military’s 'right to take over and exercise state
 sovereign power' in case of an emergency.
 
-Monday’s scrapping of the constitution was, in effect, constitutional.
+Monday’s scrapping of the constitution was, in effect, constitutional"
 
 [Link](https://amp.france24.com/en/asia-pacific/20210202-junta-holds-all-the-cards-in-myanmar-s-future-but-can-it-end-suu-kyi-s-political-career)
 
@@ -23,7 +23,7 @@ Monday’s scrapping of the constitution was, in effect, constitutional.
 
 "@paulmcleary
 
-Th US plans to start flying B-1s out of Orland Air Base, Norway - the
+US plans to start flying B-1s out of Orland Air Base, Norway - the
 country's current F-35 hub. 200 USAF personnel showed up there today
 to start training to operate the bombers, EUCOM says"
 
@@ -119,16 +119,6 @@ Buuulshit
 ---
 
 Bitch I much prefer the vector notation.. 
-
----
-
-Good song but the double bass was little excessive.
-
----
-
-Cheebacabra - Looking For My Brother \#music
-
-[Link](https://youtu.be/Z-ACV3kg_d8)
 
 ---
 
