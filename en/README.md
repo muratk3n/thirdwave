@@ -14,6 +14,12 @@ requires daily
 
 ---
 
+"US calls out human rights abuses in China. While talking to Beijing,
+US top diplomat Antony Blinken pressed for accountability on human
+rights abuses in Xinjiang, Tibet and Hong Kong"
+
+---
+
 "@ossoff
 
 And with Vice President @KamalaHarris casting the crucial tie-breaking
