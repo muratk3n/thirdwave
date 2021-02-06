@@ -110,11 +110,11 @@ time; just watched a Renzi interview, Channel 4 asked good questions.
 
 ---
 
-The thrift / deficit decision is a political one, so by definition it
-cannot be de-politicized, taken out of realm of discussions, turned
-into some kind TINA law, just like Bitcoin "not printing money",
-depoliticizing that decision disqualifies it as a national / global
-fiat currency.
+The deficit / thrift decision is a political one, so by definition it
+cannot be de-politicized, taken out of the realm of discussions,
+turned into some kind TINA law. Parallels here to Bitcoin "not
+printing money", depoliticizing that decision hence disqualifying
+itself as a national / global fiat currency.
 
 "Should autsterity be embedded in European law?"
 
