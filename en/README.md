@@ -14,6 +14,12 @@ requires daily
 
 ---
 
+"A 4-day working week might be edging closer... With Spain set to test
+a four-day working week in response to the pandemic, experts have said
+it could signify a more permanent shift in attitudes to work"
+
+---
+
 CNBC: "GameStop mania may not have been the retail trader rebellion it
 was perceived to be, data shows"
 
