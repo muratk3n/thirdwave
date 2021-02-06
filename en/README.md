@@ -6,11 +6,11 @@
 
 One rotation can supply two households for a day. W-O-W
 
-'Back of envelope' calculation shows on a windy day the #HaliadeX 13
+"'Back of envelope' calculation shows on a windy day the #HaliadeX 13
 MW #offshorewind turbine produces 24hrs x 13,000kW = 312,000 kWh. In
 one day the rotor turns c.11,000 times, yielding 27.8 kWh per
 rotation. Double the amount of energy that a typical UK household
-requires daily
+requires daily"
 
 ---
 
