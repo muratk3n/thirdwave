@@ -14,6 +14,11 @@ requires daily
 
 ---
 
+CNBC: "GameStop mania may not have been the retail trader rebellion it
+was perceived to be, data shows"
+
+---
+
 "US calls out human rights abuses in China. While talking to Beijing,
 US top diplomat Antony Blinken pressed for accountability on human
 rights abuses in Xinjiang, Tibet and Hong Kong"
