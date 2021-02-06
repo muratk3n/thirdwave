@@ -75,7 +75,7 @@ motherbleeping grand bleeping master of subtelty.
 The gentlest crit directed at such shows from our side has been "they
 are not painting an optimistic future". I dont think that does justice
 how badly these shows suck. The backdrop of *Firefly* was pretty drab
-but everyone likes the characters, stories. No these weird shows lean
+but everyone liked its characters, stories. No these weird shows lean
 on an artificial message to insert agenda.
 
 ---
