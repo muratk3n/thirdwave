@@ -101,8 +101,8 @@ decade?"
 
 Obviously ppl blame Renzi for crashing the coalition; but what did
 this guy did not get that he wanted? In repr democracies with
-coalitions, small parties like his can be the kingmaker. FDP played
-that role in Germany for years.
+coalitions, small parties like his can be kingmakers. FDP played that
+role in Germany for years.
 
 ---
 
