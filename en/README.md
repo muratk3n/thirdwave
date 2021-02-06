@@ -64,8 +64,6 @@ standalone propulsion unit"
 
 ---
 
-No these type of shows lean on an artificial message to insert agenda.
-
 They used to say about Oliver Stone that "in his movies, it's like he
 is standing by your ear with a megaphone, and yells at you what to
 think". If those crits saw the bizarre Trek shows they'd never
@@ -77,7 +75,8 @@ motherblinking grand bleeping master of subtelty.
 The gentlest crit directed at such shows from our side has been "they
 are not painting an optimistic future". I dont think that does justice
 how badly these shows suck. The backdrop of *Firefly* was pretty drab
-but everyone likes the characters, stories. 
+but everyone likes the characters, stories. No these weird shows lean
+on an artificial message to insert agenda.
 
 ---
 
