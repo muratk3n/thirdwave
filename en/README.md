@@ -1,151 +1,96 @@
 # Tweets
 
-Dj Food - Well Swung \#music
-
-[Link](https://youtu.be/WF9HYvH-MPk)
+"AstraZeneca Vaccine Effective Against U.K. Variant in Trial"
 
 ---
 
-The author's description "junta giveth, junta taketh away democracy"
-is spot on.
+One rotation can supply two households for a day. W-O-W
 
-"The 2008 [Burma] constitution – adopted after a referendum described
-as an 'insult' by international rights groups – was a military venture
-that instituted a form of tutelage democracy with the military playing
-national caretaker. The 213-page document includes several articles
-enshrining the military’s 'right to take over and exercise state
-sovereign power' in case of an emergency.
-
-Monday’s scrapping of the constitution was, in effect, constitutional"
-
-[Link](https://amp.france24.com/en/asia-pacific/20210202-junta-holds-all-the-cards-in-myanmar-s-future-but-can-it-end-suu-kyi-s-political-career)
+'Back of envelope' calculation shows on a windy day the #HaliadeX 13
+MW #offshorewind turbine produces 24hrs x 13,000kW = 312,000 kWh. In
+one day the rotor turns c.11,000 times, yielding 27.8 kWh per
+rotation. Double the amount of energy that a typical UK household
+requires daily
 
 ---
 
-"@paulmcleary
+"@ossoff
 
-US plans to start flying B-1s out of Orland Air Base, Norway - the
-country's current F-35 hub. 200 USAF personnel showed up there today
-to start training to operate the bombers, EUCOM says"
-
----
-
-"Award-winning UK scientist Dr. Lui Terry discusses how his pioneering
-work on nanoconfinement could help advance the global transition to
-cleaner energy... Metallic hydrogen is the densest form of solid
-hydrogen - a supremely compact way to store clean fuel. However ... is
-classically formed at very high pressures – close to the center of a
-planet. Thus, it is energy intense and currently impractical to
-produce, but it is predicted to be metastable like
-diamonds. Therefore, on removal of the pressure, they remain solid.
-[Bristol is] developing an alternative way to increase density at much
-lower pressures and higher temperatures .. [w] nanoconfinement"
-
-[Link](https://www.selectscience.net/editorial-articles/Improving+hydrogen+storage+in+the+quest+to+reach+%E2%80%98net+zero%E2%80%99/?artID=52383)
+And with Vice President @KamalaHarris casting the crucial tie-breaking
+vote, at 5:30am after 14 hours of debate, the Senate has passed a $1.9
+trillion budget for COVID relief. Georgia voters made this possible"
 
 ---
 
-Obviously I am very much interested in metallic H2, for energy storage
+
+"@josheidelson 
+
+Democrats including @BobbyScott, @PattyMurray, and @chuckschumer today
+re-introduced the PRO Act, a sweeping labor law overhaul that aims to
+undo much of Taft-Hartley and the subsequent rulings and
+transformations that together devastated U.S. unions"
 
 ---
 
-"For astrophysicists, the Sun imparts lessons which may well have
-direct applications for mankind. For instance, the solar body holds
-the key to fusion. If the Sun is made from condensed matter, then our
-experiments should focus on this state. Sunspots may also guard the
-secret to synthesizing metallic hydrogen on Earth. If sunspots are
-truly metallic, as reflected by their magnetic fields, then attempts
-to form liquid metallic hydrogen on Earth might benefit from the
-presence of magnetic fields"
+"Airbus proposes detachable hydrogen propulsion pods for
+aircraft... Each of the six pods along the wings of the ZEROe concept
+includes a liquid hydrogen tank, a cooling system, a fuel cell, power
+electronics, electric motors, an eight-bladed lightweight composite
+propeller and all the necessary auxilliary equipment to run it as a
+standalone propulsion unit"
+
+[Link](https://newatlas.com/aircraft/airbus-detachable-hydrogen-propulsion-pods/)
 
 ---
 
-Robitaille: "[A]n incompressible liquid, a condensed Sun calls into
-question virtually everything which is currently believed with respect
-to the evolution and nature of the stars. Should the Sun be condensed,
-then neutron stars and white dwarfs will fail to reach the enormous
-densities they are currently believed to possess. Much of cosmology
-also falls into question, as the incompressibility of matter curtails
-any thought that a primordial atom once existed. Aging stars can no
-longer collapse and black holes will know no formative mechanism.  A
-condensed Sun also hints that great strides must still be made in
-understanding the nature of liquids. The Sun has revealed that liquids
-possess a much greater potential for lattice order than previously
-believed. In addition, lessons may be gained with regards to the
-synthesis of liquid metallic hydrogen and the use of condensed matter
-as the basis for initiating fusion on Earth"
-
-[Link](https://vixra.org/abs/1310.0138)
+<blockquote width="300" class="twitter-tweet"><p lang="en" dir="ltr">my cat has become OBSESSED with sitting in on my zoom calls and has now perfected the art of glaring straight down the camera <a href="https://t.co/RbFSQSlkV6">pic.twitter.com/RbFSQSlkV6</a></p>&mdash; Abby Tomlinson (@twcuddleston) <a href="https://twitter.com/twcuddleston/status/1352664361517641733?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Fusion has been the Holy Grail of enegy for a long time. But right now
-AFAIK the work on it has stalled. They cant get more energy out of it
-than the energy they put in. They keep building machines for it but,
-like the LHC, the act of building the machine is more exciting,
-fruitful than the result u get from the thing itself. That has been
-the story so far.
+No these type of shows lean on an artificial message to insert agenda.
+
+They used to say about Oliver Stone that "in his movies, it's like he
+is standing by your ear with a megaphone, and yells at you what to
+think". If those crits saw the bizarre Trek shows they'd never
+complain about Oliver Stone ever again. In comparison OS is the
+motherblinking grand bleeping master of subtelty.
 
 ---
 
-It will help us understand the fusion process more. Work on fusion was
-inspired by the Sun, so if we understand the Sun better we might do
-fusion better.
-
-"Why does it matter to understand how the Sun works?"
-
----
-
-D2Q9
-
-U know wha'm talkin bout dont you..? Yieeah
+The gentlest crit directed at such shows from our side has been "they
+are not painting an optimistic future". I dont think that does justice
+how badly these shows suck. The backdrop of *Firefly* was pretty drab
+but everyone likes the characters, stories. 
 
 ---
 
-What is this free suffix buuulshit
-
-$a_j b_j z_k = x_k + a_i a_i y_k b_j b_k$
-
-is same as
-
-$
-(\mathbf{a} \cdot \mathbf{b}) \mathbf{z} =
-\mathbf{x} + |\mathbf{a}|^2 |\mathbf{b}|^2 \mathbf{y}
-$
-
-???
-
-Buuulshit
+From EW, daam bro
 
 ---
 
-Bitch I much prefer the vector notation.. 
+Yep, that's the guy, co-destroyed Trek
+
+"The Silence of the Lambs becomes another bland procedural... *Clarice*'s
+other co-creator is Alex Kurtzman, a practiced IP hack known for
+Transformers, various Star Treks, a failed Mummy, and the worst
+Spider-Man. That's a lot of money made off other people's
+originality. Can't we institute some kind of limit on this stuff, like
+maybe a person can only work in four pre-existing universes per
+decade?"
+
+[Link](https://ew.com/tv/tv-reviews/clarice-review/)
 
 ---
 
-Sure commercialization can be a form shackling; US de-patented
-transistors, then there was a "vibrant ecosystem" around
-computing.
+Obviously ppl blame Renzi for crashing the coalition; but what did
+this guy did not get that he wanted? In repr democracies with
+coalitions, small parties like his can be the kingmaker. FDP played
+that role in Germany for years.
 
 ---
 
-Their vacc was available before anyone else's. I bet US / Europe could
-do much better wout shackles.
-
-"Europe warms to Russian jab after positive trial results"
-
-[Video](https://youtu.be/-rkxiUs3F3I)
-
----
-
-The over-commercialization of biotech led to subpar results.. Too slow.
-
----
-
-"Pentagon moves Israel into [CENTCOM] to boost cooperation with Arab
-states... Change approved during Trump’s final days shifts Israel out
-of US military’s European Command sphere, will allow for greater
-regional collaboration against Iran"
+You can still do journalism wout being physically at a place, all the
+time; just watched a Renzi interview, Channel 4 asked good questions.
 
 ---
 
