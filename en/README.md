@@ -117,7 +117,7 @@ turned into some kind of TINA law. Parallels here to Bitcoin "not
 printing money", depoliticizing that decision, disqualifying itself as
 a national / global fiat currency.
 
-"Should autsterity be embedded in European law?"
+"Should austerity be embedded in European law?"
 
 ---
 
