@@ -199,14 +199,6 @@ Why yes, Chad. Yes I do"
 
 ---
 
-"@mtaibbi
-
-NBC has successfully appealed to Google to demonetize the Federalist,
-which has repeatedly (and correctly) criticized MSNBC's atrocious
-Russiagate coverage"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breonna Taylor’s police report said she had “no injuries” when she in fact had 8 gunshot wounds. And the 3 cops responsible still walk free. WT fucking F?</p>&mdash; Ron Perlman (@perlmutations) <a href="https://twitter.com/perlmutations/status/1273284690347089921?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

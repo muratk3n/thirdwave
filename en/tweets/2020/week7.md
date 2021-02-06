@@ -457,10 +457,6 @@ another 10 years. The BEV part is seperate..?
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Allowing “black and between 18-25” to be probable cause isn’t “letting police do their jobs.” <a href="https://t.co/bsfvG4nmhO">https://t.co/bsfvG4nmhO</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1227260763854778371?ref_src=twsrc%5Etfw">February 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 It's true.. there's been immense productivity increases.. but most of
 it went to Walmart, along with the spoils. Overconcentration screwed
 people in more ways than one.

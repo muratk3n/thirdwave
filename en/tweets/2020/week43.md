@@ -205,10 +205,6 @@ Still prefer Navier-Stokes but good to keep in mind
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s a major issue too. The fact that only a few American outlets even asked for credentials to cover the Assange case was awful. It&#39;s all related: they&#39;re constantly narrowing the parameters of permissible information flow. <a href="https://t.co/USLoG5LM1A">https://t.co/USLoG5LM1A</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1319048503222542336?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 The moderator was more low-key, the previous guy had too much flash,
 he is the ambush guy, the griller, which is fine, but his style could
 raise tensions somewhat (again ok on my end but most didn't like the

@@ -725,10 +725,6 @@ are free Palestine supporters"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some of the sites deleted by Facebook were legitimate businesses that had spent thousands if not tens of thousands on the platform&#39;s boosting tools to build up their media businesses. Wiped out in one stroke as &quot;inauthentic&quot; <a href="https://t.co/yOx901gjAt">https://t.co/yOx901gjAt</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1267228337338007553?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Minority and oppositional sites are routinely removed from Internet platforms around the world, Israel/Palestine being a classic example: <a href="https://t.co/3FUgEdmPxL">https://t.co/3FUgEdmPxL</a> <a href="https://t.co/off7FZqP1a">https://t.co/off7FZqP1a</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1267226049303195650?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

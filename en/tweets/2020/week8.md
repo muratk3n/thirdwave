@@ -383,10 +383,6 @@ change way before it was fashionable.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You don&#39;t seem to understand that housing policy was irrelevant to what happened. Credit was offered in low-income neighborhoods because banks were making a fortune turning around and marketing those loans in packages of mismarked, bundled securities. <a href="https://t.co/8wnvHe8e3B">https://t.co/8wnvHe8e3B</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1230479870452473856?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Last [paper](https://arxiv.org/abs/1009.2404) I saw on this said
 conciousness is not required for the so-called collapse of the wave
 function.

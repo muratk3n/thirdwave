@@ -105,10 +105,6 @@ Pine Phone
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wanted: assessment of why Bush-era war criminals are suddenly the darlings of the Rachel Maddow <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a>-and-smart glasses set, and are being welcomed as thought leaders in the modern Democratic Party. They share more than just a dislike of Donald Trump. <a href="https://t.co/EdUl75UVDr">https://t.co/EdUl75UVDr</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321998480886280192?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "Don't expect a contested election... The cone of uncertainty has
 narrowed considerably. Now, the question seems to be whether we'll see
 a "skinny" Biden win or a landslide"
@@ -196,10 +192,6 @@ Paolo Fedreghini and Marco Bianchi - Stay (in mood) \#music
 Shawn Lee's Ping Pong Orchestra - Cairo Cairo \#music
 
 [Link](https://youtu.be/TTBIUMYm22E)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m not sure about just as looney - QAnon is pretty nuts - but the most annoying aren&#39;t really leftists, they&#39;re <a href="https://twitter.com/hashtag/Resistance?src=hash&amp;ref_src=twsrc%5Etfw">#Resistance</a> types, who basically have no belief system at all, beyond being snobs with an overdeveloped herd instinct. <a href="https://t.co/TrfoFSxA3Y">https://t.co/TrfoFSxA3Y</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1321991120675573760?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -719,16 +711,6 @@ or some word you pay random homage to.
 
 ---
 
-"@mtaibbi
-
-Here we go, Facebook blocking Jacobin now.
-
-@sunraysunray 'Facebook is now blocking our videos for violating
-“community standards” that trigger certain key words'"
-
-[Link](https://twitter.com/mtaibbi/status/1320081786102317058)
-
----
 
 What was the other one with the fax, and Internet..? Also NYT right?
 

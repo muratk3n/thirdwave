@@ -446,18 +446,6 @@ Warren's "excuse me????" moment here is so important. We can't afford to let Rep
 
 ---
 
-😆😆 I hope it works out 4 him, I really do. He is under the radar right
-now and spotlight on DJT and no news from Biden is good news but this
-is hilarious.
-
-"@mtaibbi
-
-"We have to take care of the cure... That will make the problem worse, no matter what." \#ok"
-
-[Link](https://mobile.twitter.com/mtaibbi/status/1242506835413938178)
-
----
-
 When used as last recourse, under med supervision it works. Dont eat
 the shit like it is candy 🤨🤷‍♂️🤷‍♂️
 

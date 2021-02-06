@@ -476,13 +476,6 @@ Energy"
 
 ---
 
-"@mtaibbi
-
-Lol at this offhand detail in the Times piece: 'Nor do [tax records]
-reveal any previously unreported connections to Russia.'"
-
----
-
 BTW, once you bet on the simplest, most efficient tech basis (key
 decision in engineering) then you can innovate easier on more parts of
 the problem, simultaneously. Maybe in the future H2 wont be in tanks

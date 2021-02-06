@@ -616,16 +616,6 @@ US deaths
 
 ---
 
-Good luck to @mtaibbi
-
-"@mtaibbi
-
-Announcement: I'm making a move"
-
-[Link](https://twitter.com/mtaibbi/status/1247161785397981184)
-
----
-
 <img width="340" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-bzAReyDUnORwjdt6RSdl9RDm86eBF1M6tkRSc4y0UmfPS1-y&usqp=CAU"/>
 
 ---

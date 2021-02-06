@@ -422,15 +422,6 @@ the payments system"
 
 ---
 
-"@mtaibbi
-
-I think all the media figures who spent years wailing about Russian
-interference should explain why they're so unconcerned by news that
-the Steele report might have been Russian meddling. Is disinformation
-only a problem when you didn't help spread it?"
-
----
-
 5.2 Mil more in initial claims. Wow.
 
 ---

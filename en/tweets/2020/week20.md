@@ -717,10 +717,6 @@ NYT: "The Results Are In for the Sharing Economy. They Are Ugly."
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No, we need less work, commuting, and news media in our lives, not less sports. <a href="https://t.co/rpGpSnRWO2">https://t.co/rpGpSnRWO2</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1259639057233084417?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "Zoologists Discover First-Known Animal That Doesn’t Breathe Oxygen"
 
 [Link](https://www.studyfinds.org/zoologists-discover-first-known-animal-that-doesnt-breathe-oxygen/)

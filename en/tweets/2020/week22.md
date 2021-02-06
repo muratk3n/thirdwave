@@ -46,11 +46,6 @@ the fastest pace of acquisitions to this date since 2015."
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There seems to be an inexhaustible supply of people who don&#39;t understand that Julian Assange is not being charged for anything related to 2016. <a href="https://t.co/iBWQApAPU2">https://t.co/iBWQApAPU2</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1265798139455438848?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "Green hydrogen developer plans California startup of world's largest
 facility ... Plant to produce 40,000 tons/yr, operational by 2023"
 
@@ -441,10 +436,6 @@ saw a job opening for 15 yr olds at the grocery store. Let's put them
 at risk of getting a deadly virus delivering canned tuna to rich
 people who clap for 2 mins at 7PM but make sure they can't get
 educated"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s say you&#39;re right. I disagree, but let&#39;s say. His case is still wrong. He&#39;s not being prosecuted for spying or theft, but for obtaining, receiving, and disclosing national defense information. Reporters who cover national security regularly do the same. Hence the problem. <a href="https://t.co/LcnxAa7Wmg">https://t.co/LcnxAa7Wmg</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1264598322297425920?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

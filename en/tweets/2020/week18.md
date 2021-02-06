@@ -597,20 +597,6 @@ all eligible parents have access to the money"
 
 ---
 
-GS underwriting wld increase the appeal of these bonds of course,
-investors get fleeced. But that would hurt GS reputation - they didn't
-see that? Not the smartest ppl in the room per article.
-
-"@mtaibbi
-
-[GS] underwrote the bonds for the nonexistent development projects in the 1MDB fund"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 1MDB story is the biggest financial scandal most Americans have never heard of. It’s probably also a template for future scams - all it takes to steal billions is the signature of one corrupt official and an investment bank with a big name and no morals. <a href="https://t.co/vZg8FUePdt">https://t.co/vZg8FUePdt</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1254433923783962624?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Of course, David Hewlett. He called ZPM Zed-PM! 
 
 Go ZED! Good job.

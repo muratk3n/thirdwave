@@ -125,10 +125,6 @@ Good going Barbados
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After hyping the Russia threat for four years, the New Yorker quietly wonders if the story might have been exaggerated:<a href="https://t.co/j40JLJNGHD">https://t.co/j40JLJNGHD</a></p>&mdash; Matt Taibbi (@mtaibbi) <a href="https://twitter.com/mtaibbi/status/1306191428956164099?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Scientific Python paper in *Nature*!
 
 [Link](https://www.nature.com/articles/s41586-020-2649-2)
