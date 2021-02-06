@@ -106,7 +106,8 @@ Germany for years.
 ---
 
 You can still do journalism wout being physically at a place, all the
-time; just watched a Renzi interview, Channel 4 asked good questions.
+time; just watched a Renzi interview, Channel 4 did it remote, it was
+good.
 
 ---
 
