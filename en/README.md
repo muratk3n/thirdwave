@@ -111,6 +111,15 @@ time; just watched a Renzi interview, Channel 4 asked good questions.
 
 ---
 
+The thrift / deficit decision is a political one, so by definition it
+cannot be de-politicized, taking out of realm of discussions, turned
+into TINA, just like Bitcoin "not printing money", depoliticizing that
+decision makes it unfit as a national / global fiat currency.
+
+"Should autsterity be embedded in European law?"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
