@@ -68,7 +68,7 @@ They used to say about Oliver Stone that "in his movies, it's like he
 is standing by your ear with a megaphone and yelling at you what to
 think". If those crits saw the bizarre Trek shows they'd never
 complain about Oliver Stone ever again. In comparison OS is the
-motherblinking grand bleeping master of subtelty.
+motherbleeping grand bleeping master of subtelty.
 
 ---
 
