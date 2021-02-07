@@ -34,11 +34,11 @@ American workers in the United States"
 
 [Ph.D. is about depth](2011/10/phd-graduate-studies.md), not breadth.
 The joke is "a PhD knows more and more about less and less until he
-knows everything about nothing.". But then, there is some of
+knows everything about nothing.". But then, there is something of
 everything in that nothing :), so you'll have learned a lot, at the
 very least develop brain muscles for that depth. It is also about
 adding something new to world knowledge, not merely knowing more, its
-not "undergrad times 10". 
+not "undergrad times 10".
 
 "I want to get a PhD. Should I?"
 
