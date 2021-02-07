@@ -211,7 +211,7 @@ There's a wonderful quote from ANATOLE FRANCE: "A University Student"
 something about everything and everything about something."
 
 You know the jokes about PhD's... A PhD knows more and more about less
-and less  until he knows everything about nothing.
+and less until he knows everything about nothing.
 
 When working on a PhD, you must focus on a topic so narrow that you
 can understand it completely.  It will seem at first that you're

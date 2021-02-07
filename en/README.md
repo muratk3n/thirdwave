@@ -32,6 +32,17 @@ American workers in the United States"
 
 ---
 
+[Ph.D. is about depth](2011/10/phd-graduate-studies.md), not breadth.
+The joke is "A PhD knows more and more about less and less until he knows
+everything about nothing.". But then, there is some of everything in that nothing
+:), so you'll have learned a lot, at the very least develop brain
+muscles for that depth. It is also about adding something new in the
+field, not merely knowing more, its not "undergrad times 10".
+
+"I want to get a PhD. Should I?"
+
+---
+
 From [The Mathematical Reality Why Space and Time are an Illusion](https://www.amazon.com/Mathematical-Reality-Space-Time-Illusion/dp/B0849ZXQB1):
 "As early as the 1930s, the Dutch physicist and close friend of
 Einstein, Paul Ehrenfest, wondered why the wave functions for matter
