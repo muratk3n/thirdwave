@@ -90,7 +90,7 @@ small entities, hard to regulate in the many.
 
 ---
 
-Than maybe there'll be less [stubble burning](https://www.dw.com/en/india-pollution-how-a-farming-revolution-could-solve-stubble-burning/a-51166417)
+Then maybe there'll be less [stubble burning](https://www.dw.com/en/india-pollution-how-a-farming-revolution-could-solve-stubble-burning/a-51166417)
 and less smoke blanketing the capital city.
 
 If fewer f-ing farmers implies less smoke, than that option is a good option.
