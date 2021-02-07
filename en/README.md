@@ -19,8 +19,6 @@ kilometres for maritime land strike missiles.'"
 
 ---
 
-Slamming GS.. usually not seen at this level.
-
 NatSec Adv Sullivan: "We’re not about trying to make the world safe
 for multinational investment; we’re about creating jobs and raising
 wages here in the United States.  So our priority is not to get access
