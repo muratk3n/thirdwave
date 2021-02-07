@@ -21,12 +21,12 @@ kilometres for maritime land strike missiles.'"
 
 Slamming GS.. usually not seen at this level.
 
-NatSec Adv Jake Sullivan: "We’re not about trying to make the world
-safe for multinational investment; we’re about creating jobs and
-raising wages here in the United States.  So our priority is not to
-get access for Goldman Sachs in China; our priority is to make sure
-that we are dealing with China’s trade abuses that are harming
-American jobs and American workers in the United States"
+NatSec Adv Sullivan: "We’re not about trying to make the world safe
+for multinational investment; we’re about creating jobs and raising
+wages here in the United States.  So our priority is not to get access
+for Goldman Sachs in China; our priority is to make sure that we are
+dealing with China’s trade abuses that are harming American jobs and
+American workers in the United States"
 
 [Link](https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/04/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-february-4-2021/)
 
