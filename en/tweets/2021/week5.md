@@ -1,5 +1,126 @@
 # Week 5
 
+"AstraZeneca Vaccine Effective Against U.K. Variant in Trial"
+
+---
+
+One rotation can supply two households for a day. W-O-W
+
+"'Back of envelope' calculation shows on a windy day the #HaliadeX 13
+MW #offshorewind turbine produces 24hrs x 13,000kW = 312,000 kWh. In
+one day the rotor turns c.11,000 times, yielding 27.8 kWh per
+rotation. Double the amount of energy that a typical UK household
+requires daily"
+
+---
+
+"A 4-day working week might be edging closer... With Spain set to test
+a four-day working week in response to the pandemic, experts have said
+it could signify a more permanent shift in attitudes to work"
+
+---
+
+CNBC: "GameStop mania may not have been the retail trader rebellion it
+was perceived to be, data shows"
+
+---
+
+"US calls out human rights abuses in China. While talking to Beijing,
+US top diplomat Antony Blinken pressed for accountability on human
+rights abuses in Xinjiang, Tibet and Hong Kong"
+
+---
+
+"@ossoff
+
+And with Vice President @KamalaHarris casting the crucial tie-breaking
+vote, at 5:30am after 14 hours of debate, the Senate has passed a $1.9
+trillion budget for COVID relief. Georgia voters made this possible"
+
+---
+
+
+"@josheidelson 
+
+Democrats including @BobbyScott, @PattyMurray, and @chuckschumer today
+re-introduced the PRO Act, a sweeping labor law overhaul that aims to
+undo much of Taft-Hartley and the subsequent rulings and
+transformations that together devastated U.S. unions"
+
+---
+
+"Airbus proposes detachable hydrogen propulsion pods for
+aircraft... Each of the six pods along the wings of the ZEROe concept
+includes a liquid hydrogen tank, a cooling system, a fuel cell, power
+electronics, electric motors, an eight-bladed lightweight composite
+propeller and all the necessary auxilliary equipment to run it as a
+standalone propulsion unit"
+
+[Link](https://newatlas.com/aircraft/airbus-detachable-hydrogen-propulsion-pods/)
+
+---
+
+<blockquote width="300" class="twitter-tweet"><p lang="en" dir="ltr">my cat has become OBSESSED with sitting in on my zoom calls and has now perfected the art of glaring straight down the camera <a href="https://t.co/RbFSQSlkV6">pic.twitter.com/RbFSQSlkV6</a></p>&mdash; Abby Tomlinson (@twcuddleston) <a href="https://twitter.com/twcuddleston/status/1352664361517641733?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+They used to say about Oliver Stone that in his movies, it's like "he
+is standing by your ear with a megaphone and yelling at you what to
+think". If those crits saw these bizarre Trek shows they'd never
+complain about Oliver Stone ever again. In comparison OS is the
+motherbleeping grand bleeping master of subtelty.
+
+---
+
+The gentlest crit directed at such shows from our side has been "they
+are not painting an optimistic future". I dont think that does justice
+how badly these shows suck. The backdrop of *Firefly* was pretty drab
+but everyone liked its characters, stories. No these weird shows lean
+on an artificial message to insert agenda.
+
+---
+
+From EW, daam bro
+
+---
+
+Yep, that's the guy, co-destroyed Trek
+
+"The Silence of the Lambs becomes another bland procedural... *Clarice*'s
+other co-creator is Alex Kurtzman, a practiced IP hack known for
+Transformers, various Star Treks, a failed Mummy, and the worst
+Spider-Man. That's a lot of money made off other people's
+originality. Can't we institute some kind of limit on this stuff, like
+maybe a person can only work in four pre-existing universes per
+decade?"
+
+[Link](https://ew.com/tv/tv-reviews/clarice-review/)
+
+---
+
+Obviously ppl blame Renzi for crashing the coalition; but what did
+this guy not get that he wanted? In repr democracies with coalitions,
+small parties like his can be kingmakers. FDP played that role in
+Germany for years.
+
+---
+
+You can still do journalism wout being physically at a place, all the
+time; just watched a Renzi interview, Channel 4 did it remote, it was
+good.
+
+---
+
+The deficit / thrift decision is a political one, so by definition it
+cannot be de-politicized, taken out of the realm of discussions,
+turned into some kind of TINA law. Parallels here to Bitcoin "not
+printing money", depoliticizing that decision, disqualifying itself as
+a national / global fiat currency.
+
+"Should austerity be embedded in European law?"
+
+---
+
 Dj Food - Well Swung \#music
 
 [Link](https://youtu.be/WF9HYvH-MPk)
