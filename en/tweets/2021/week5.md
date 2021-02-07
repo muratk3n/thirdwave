@@ -317,10 +317,9 @@ officials with army men a 'major cabinet reshuffle'"
 
 ---
 
-That part is embarrasing.. R paper
-[says](2021/01/kirchoff-sun-bigbang.md#bigbang) they most likely
-measured Earth's own (nearby) oceans and mistook that for the Big
-Bang. D'oh!
+That part is embarrasing.. R paper [says](../../2021/01/kirchoff-sun-bigbang.md#bigbang)
+they most likely measured Earth's own (nearby) oceans and mistook that for
+the Big Bang. D'oh!
 
 "If they did not measure the radiation from Big Bang what did they measure?"
 
