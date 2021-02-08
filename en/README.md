@@ -79,7 +79,7 @@ import pandas as pd
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
-df = pd.read_csv("/tmp/20200719-icews-events.tab", sep="\t")
+df = pd.read_csv("20200719-icews-events.tab", sep="\t")
 print (df[['Event Date','Source Name','Event Text','Target Name']])
 ```
 
