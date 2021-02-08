@@ -71,8 +71,8 @@ Today, the shipment of 500K Made In India vaccine will arrive in \#Kabul"
 
 The `Event Text` column looks interesting.. its values r general enough.
 
-I wonder if u grouped on it, and did a Top 10, it would show any
-interesting patterns... Could be a weekly report.
+If grouped on it wonder how Top 10 looks.. it could show interesting
+patterns... Could be a weekly report.
 
 ---
 
