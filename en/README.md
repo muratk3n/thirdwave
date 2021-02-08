@@ -68,7 +68,7 @@ I saw advection ♪♬ u say convection ♪♬
 
 The `Event Text` column looks interesting.. its values r general enough.
 
-If grouped on it wonder how Top 10 looks.. could show interesting
+If grouped on, wonder how Top 10 wld look.. could show interesting
 patterns... a weekly report maybe?
 
 ---
