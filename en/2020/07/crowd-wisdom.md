@@ -35,7 +35,9 @@ statistically. Policy is not something people are engaged in
 daily. Which makes it a speciality. Averaging among specialists will
 work, not among everyone. 
 
-The Mechanism of AVeraging
+<a name='average'/>
+
+The Mechanism of Averaging
 
 To elaborate more on how consensus among (knowledgeable) people can
 result in correct decisions.. Remember earlier we saidat a country

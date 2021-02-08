@@ -118,6 +118,29 @@ I dont have the time to dig into this yet (to replicate it in Python)
 data](https://muratk3n.github.io/thirdwave/en/2019/12/PvsPData.csv.zip)
 (from Dr. McManus).
 
+Coalitions
+
+In democratically backward countries that live in a comotose,
+proto-fascistic state a "coalition" is created *beforehand*, in the
+mind of a fascist, and any ideology that is outside of this legit mix
+is immediately delegitimized. This is a mistake. The emergent,
+self-organized blocks of ideologies, as clusters, carry within a good
+signal, if enough though leaders coalesced around something, chances
+are there is an approach that needs representing.
+
+Logistically coalitions are fine, but you need ideologically distinct
+parties.. There can be no gaps, nothing left out, otherwise fascists
+will step in to fill the void. Obviously some coalitions will be able
+to deliver more than others, but at least seperate parties decide how
+that coalition is formed, on their own terms. Each viewpoint
+contributes, and by [averaging](../../2020/07/crowd-wisdom.md)
+the optimal decision is reached.
+
+BTW "average" could also be a long-run average between two (or more)
+views (cld be immed avg too). One party cld be for 30% tax rate,
+another for 70%. Each enact their thing one in power, if they can,
+long-running average is 50%.
+
 <a name='war'/>
 
 War
