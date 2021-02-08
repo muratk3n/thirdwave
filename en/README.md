@@ -33,7 +33,7 @@ its companies dominate economic activity"
 
 Quick doomsday check, checking if any spikes in earthquakes globally, as time series.
 
-No spikes. Signal looks mean-reverting
+No upward trend. Signal looks mean-reverting
 
 ```python
 import pandas as pd
