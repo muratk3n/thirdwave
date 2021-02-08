@@ -33,7 +33,7 @@ its companies dominate economic activity"
 
 Quick doomsday check, checking if any spikes in earthquakes, as time series.
 
-No spikes. Signal looks mean-reverting (wout stat test)
+No spikes. Signal looks mean-reverting
 
 ```python
 import pandas as pd
@@ -64,8 +64,8 @@ Today, the shipment of 500K Made In India vaccine will arrive in \#Kabul"
 
 The `Event Text` column looks interesting.. its values r general enough.
 
-If grouped on it wonder how Top 10 looks.. it could show interesting
-patterns... Could be a weekly report.
+If grouped on it wonder how Top 10 looks.. could show interesting
+patterns... a weekly report maybe?
 
 ---
 
