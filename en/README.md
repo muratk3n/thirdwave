@@ -27,10 +27,6 @@ its companies dominate economic activity"
 
 ---
 
-"Biden turns to skills that powered his 2020 victory to sell Covid-19 relief"
-
----
-
 "Revealed: Queen lobbied for change in law to hide her private wealth"
 
 [Link](https://www.theguardian.com/uk-news/2021/feb/07/revealed-queen-lobbied-for-change-in-law-to-hide-her-private-wealth)
