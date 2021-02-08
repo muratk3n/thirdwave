@@ -31,8 +31,7 @@ its companies dominate economic activity"
 
 ---
 
-Quick doomsday check, checking if there r any spikes in earthquakes
-globally
+Quick doomsday check, if there r any spikes in earthquakes globally
 
 No upward trend. Signal looks mean-reverting
 
