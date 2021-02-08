@@ -4,7 +4,7 @@
 
 ---
 
-Power paste. Excellent.
+Power paste 👍
 
 "@hazergroupltd
 
@@ -16,9 +16,7 @@ hydrogen storage. The institute is calling the mass 'power paste'"
 
 ---
 
-Good.. At least be a Denmark.
-
-Democratize next.
+Good.. At least be a Denmark. Democratize next.
 
 "Cuba opens up its private sector in major economic reform.. Cuba
 announced Saturday that private activity will be authorized in most
