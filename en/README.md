@@ -49,7 +49,6 @@ plt.savefig('quake-series.png')
 
 <img width="340" src="https://pbs.twimg.com/media/EtrX4_wXIAE_NzV?format=png&name=small"/>
 
-
 ---
 
 Equador election, hopefully the left wing guy wins.
@@ -59,6 +58,10 @@ Equador election, hopefully the left wing guy wins.
 "@tahirqadiry
 
 Today, the shipment of 500K Made In India vaccine will arrive in \#Kabul"
+
+---
+
+I saw advection ♪♬ u say convection ♪♬
 
 ---
 
