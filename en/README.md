@@ -40,8 +40,7 @@ its companies dominate economic activity"
 Quick doomsday check, just wanted to see if there are any spikes in
 overall earthquakes..
 
-No spikes. The signal looks mean-reverting (have a stat test
-for that, did not use)
+No spikes. The signal looks mean-reverting (no need for stat test IMO)
 
 ```python
 import pandas as pd
