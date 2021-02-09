@@ -116,7 +116,8 @@ roads and racetracks in 2021"
 ---
 
 Not enough vaccines? Coca-Cola can shit out its shit products to the
-tune of 1 billion a day. We cant manufacture live saving vaccine fast enough?
+tune of 1 billion a day.  But we cant manufacture live saving vaccine
+fast enough? 🤨
 
 ---
 
