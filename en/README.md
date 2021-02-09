@@ -4,10 +4,10 @@
 
 ---
 
-Parsing what DJT exaclty said or not say is irrelevant. The moment you
-question to legitimacy of an election, and say "fight" somewhere in
-speech, that is opening the door to violence. People are not smart on
-pol nuance (completely normal), so leadership carries responsibility.
+You cld parse DJT statements all day long, but the moment you question
+to legitimacy of an election, and say "fight" somewhere in speech,
+that is opening the door to violence. People are not smart on pol
+nuance (completely normal), so leadership carries responsibility.
 
 "Trump impeachment: Supporters rioted 'of their own accord'"
 
