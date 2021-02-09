@@ -80,9 +80,8 @@ they would with the same amount of petrol, if not greater"
 I dont like these funky math tricks around carbon consumption. I fly
 on a polluting plane, but plant a tree, voila I am net zero
 emission. This is a hard to manage process. Actors will cheat,
-regulation will be hard. We need to kill this thing at the
-source. Make flying green, then there is no need to balance anything
-anywhere.
+regulation will be hard. We need to kill emissions at the source. Make
+flying green, then there is no need to balance anything anywhere.
 
 ---
 
