@@ -4,19 +4,12 @@
 
 ---
 
-You cld parse DJT statements all day long, but the moment you question
+we cld parse DJT statements all day long, but the moment you question
 to legitimacy of an election, and say "fight" somewhere in speech,
 that is opening the door to violence. People are not smart on pol
 nuance (completely normal), so leadership carries responsibility.
 
 "Trump impeachment: Supporters rioted 'of their own accord'"
-
----
-
-The battery is a circus monkey. It does only one specialized thing
-well, its circus trick, but does not play effectively in an ecosystem,
-or efficiently. If used widely, we will get stuck, not to mention
-usher in World War 3 on lithium.
 
 ---
 
