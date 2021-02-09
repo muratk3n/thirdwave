@@ -4,7 +4,7 @@
 
 ---
 
-we cld parse DJT statements all day long, but the moment you question
+We cld parse DJT statements all day long, but the moment you question
 to legitimacy of an election, and say "fight" somewhere in speech,
 that is opening the door to violence. People are not smart on pol
 nuance (completely normal), so leadership carries responsibility.
