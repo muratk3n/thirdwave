@@ -14,7 +14,7 @@ nuance (completely normal), so leadership carries responsibility.
 ---
 
 The battery is a circus monkey. It does only one specialized thing
-well, its circus trick, but does play well in an ecosystem
+well, its circus trick, but does not play well in an ecosystem
 efficiently, effectively. If used, we will be stuck, not to mention
 usher in World War 3 on lithium.
 
