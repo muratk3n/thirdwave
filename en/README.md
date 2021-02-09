@@ -1,5 +1,7 @@
 # Tweets
 
+"BioNTech-Pfizer COVID vaccine effective against 2 variants"
+
 ---
 
 Parsing what DJT exaclty said or not say is irrelevant. The moment you
