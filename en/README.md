@@ -97,7 +97,7 @@ Chew toy that looks like a champaign bottle... Very good
 Vaccine 'jab' of UK english.. always makes me think someone got
 stabbed.
 
-But then vaccine 'shot' is similar.
+But then vaccine 'shot' is similarly martial.
 
 Americans like guns, Brits knives? 
 
