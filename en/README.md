@@ -22,7 +22,7 @@ usher in World War 3 on lithium.
 
 The H2 power paste sounds like a fantastic innovation.. shows
 potential rewards for betting on the right tech; if car company made
-invest in fuel cells, they cld still get ROI from that after a new
+investm in fuel cells, they cld still get ROI from that after a new
 delivery method is discovered. Power paste is just another way of
 providing H2 gas into the FC, replacing H2 tanks, and everything else
 stays the same. Indiv parts get innnovated on seperately = stronger
