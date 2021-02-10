@@ -89,6 +89,10 @@ record"
 
 ---
 
+Ditto for gold 
+
+---
+
 "@scientificecon
 
 Deflation is worse than inflation: modest inflation is manageable for
