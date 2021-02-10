@@ -61,14 +61,9 @@ CH cannot make a top-notch CPU? That cld be a problem for defense.
 Quora: "China does not have any CPU that is not based on Western CPU
 designs, sometimes they are simply based on ancient CPU designs. They
 simply modify Western designs, put a Chinese part number or sometimes
-a Chinese name on it and make all sorts of empty claims about it.
-
-The most modern chip that China got from the West is the ARM CPU
-(SoC), which it bragged would be faster that the Qualcomm design of
-ARM CPU. What you might not have noticed in all that braggadocio is
-that Apple ARM design is 3 to 6 times faster than all Chinese made ARM
-variants, so China does not have a high performance ARM CPU, they
-simply have an ARM CPU"
+a Chinese name on it and make all sorts of empty claims about
+it... China does not have a high performance ARM CPU, they simply have
+an ARM CPU"
 
 ---
 
