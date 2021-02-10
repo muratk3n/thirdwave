@@ -1,111 +1,119 @@
 # Tweets
 
-"BioNTech-Pfizer COVID vaccine effective against 2 variants"
+"Welcome to Trump Impeachment Part II: Everyone Hates It Here" 
+
+[Link](https://www.thedailybeast.com/welcome-to-trump-impeachment-part-two-everyone-hates-it-here?via=twitter_page)
 
 ---
 
-We cld parse DJT statements all day long, but the moment you question
-to legitimacy of an election, and say "fight" somewhere in speech,
-that is opening the door to violence. People are not smart on pol
-nuance (completely normal), so leadership carries responsibility.
+"@H2Standard
 
-"Trump impeachment: Supporters rioted 'of their own accord'"
-
----
-
-The H2 power paste sounds like a fantastic innovation.. shows
-potential rewards for betting on the right tech; if car company made
-investm in fuel cells, they cld still get ROI from that after a new
-delivery method is discovered. Power paste is just another way of
-providing H2 gas into the FC, replacing H2 tanks, and everything else
-stays the same. Indiv parts get innnovated on seperately = stronger
-overall architecture.
+Steel maker @thyssenkrupp successfully completed the 1st phase of
+\#hydrogen tests on Blast Furnace 9, in Duisburg [Germany]. Now, tests
+w/b extended to all 28 tuyères. Next large-scale industrial use"
 
 ---
 
-"Researchers at the Fraunhofer Institute for Manufacturing Technology
-and Advanced Materials IFAM in Dresden have developed a paste for
-hydrogen storage. The institute is calling the mass 'power paste'.
+2014: "In a new online paper ..  the 72-year-old Hawking says, 'There
+are no black holes — in the sense from which light can't escape to
+infinity.'  The U-turn from Hawking, one of the pioneers of modern
+black hole theory, surprised his colleagues"
 
-The researchers also claim their paste to offer high energy densities
-and be suitable for all vehicles from electric scooters to
-cars. According to Fraunhofer IFAM, the power paste, based on the
-solid magnesium hydride, should allow hydrogen to be chemically stored
-at room temperature and ambient pressure and rereleased as
-required. Since the power paste only decomposes above about 250
-degrees Celsius, this works without any issues even if, for example, a
-scooter equipped with the paste is left in the summer sun for hours.
-
-The storage paste’s starting material is only magnesium in powder
-form, which is a very common element. At 350 degrees Celsius and five
-to six times atmospheric pressure, this is reacted with hydrogen to
-form magnesium hydride. The power paste is then produced with ester
-and metal salt.
-
-<img width="340" src="https://pbs.twimg.com/media/EtrzYmdWYAASk1-?format=png&name=small"/>
-
-The power paste replaces the cylindrical pressure tank used in fuel
-cell cars and buses. Therefore, the institute says that this solution
-is suitable for hydrogen drives in smaller vehicles in cases where a
-pressure tank would be difficult to implement.
-
-According to the Fraunhofer researchers, the refuelling process is
-straightforward. Instead of driving to a filling station, the scooter
-driver changes a cartridge and fills tap water into a water tank. In
-the vehicle itself, the paste is pressed out of the cartridge and
-mixed with a precisely measured amount of water, depending on the
-required power. This reaction produces gaseous hydrogen, which can
-then be converted into electricity for the electric motor.
-
-Only half of the hydrogen comes from the power paste, the other half
-from the water in the reaction. 'The energy storage density of the
-power paste is therefore enormous: it is much higher than that of a
-700 bar pressure tank,' says Marcus Vogt, a scientist at Fraunhofer
-IFAM. 'Compared to batteries, it even has ten times the energy storage
-density.' The Fraunhofer scientists even say that the driver should
-achieve a similar range with the power paste extrapolated to a car as
-they would with the same amount of petrol, if not greater"
-
-[Link](https://www.electrive.com/2021/02/02/fraunhofer-develops-hydrogen-storage-paste/)
+[Link](https://www.cbc.ca/news/technology/stephen-hawking-s-black-holes-blunder-stirs-debate-1.2514299)
 
 ---
 
-I dont like these funky math tricks around carbon consumption. I fly
-on a polluting plane, but plant a tree, voila I am net zero
-emission. This is a hard to manage process. Actors will cheat,
-regulation will be hard. We need to solve emissions at the
-source. Make flying green, then there is no need to balance anything
-anywhere.
+"A player drinking Makers Marka, cranberry vodka
+
+Wearing a mink coat thats furry as Chewbacca" ♪♬
+
+Three 6 Mafia - Roll With It \#music
+
+[Link](https://www.youtube.com/watch?v=8ALHvahh_hw)
 
 ---
 
-Dog Perignon 🤣
-
-Chew toy that looks like a champaign bottle... Very good
-
-<img width="150" src="https://pbs.twimg.com/media/Ett3gfBWQAQB-f1?format=jpg&name=240x240"/>
+I knew it; *Spectral* and *Outside the Wire* both filmed in Budapest,
+Hungary, buildings looked similar. 
 
 ---
 
-Vaccine 'jab' of UK english.. always makes me think someone got
-stabbed.
+Key point here; even scientists themselves take lots of knowledge as
+given. So scientist who does additional research thinking black holes
+exists, has not independently verified it, or questioned if they
+exist.. The danger here is you can pile shit upon shit, until stuck
+and the whole thing collapses on itself.
 
-But then vaccine 'shot' is similarly martial.
-
-Americans like guns, Brits knives? 
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many countries including Canada, France, Germany, Norway and more have future plans to rollout green hydrogen production. Learn more in <a href="https://twitter.com/POWERmagazine?ref_src=twsrc%5Etfw">@POWERmagazine</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/hydrogenproduction?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenproduction</a> <a href="https://t.co/pVa0MGMiij">https://t.co/pVa0MGMiij</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1358795324748357634?ref_src=twsrc%5Etfw">February 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="240"  src="https://www.youtube.com/embed/eREDoqCD4Ps?start=5211&end=5379" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
+"@TheNatlInterest
 
-"@h2_view
+The U.S. Navy, Japan, Australia, India, Canada and Japan conducted
+recent exercises intended to sharpen their collective ability to find,
+track and potentially attack Chinese submarines in the Pacific"
 
-.. British magazine #GQ has named the #hydrogen-powered #Hyundai #Nexo
-among its fastest, sleekest and most innovative rubber-burners on #UK
-roads and racetracks in 2021"
+---
+
+CH cannot make a top-notch CPU? That cld be a problem for defense.
+
+Quora: "China does not have any CPU that is not based on Western CPU
+designs, sometimes they are simply based on ancient CPU designs. They
+simply modify Western designs, put a Chinese part number or sometimes
+a Chinese name on it and make all sorts of empty claims about it.
+
+The most modern chip that China got from the West is the ARM CPU
+(SoC), which it bragged would be faster that the Qualcomm design of
+ARM CPU. What you might not have noticed in all that braggadocio is
+that Apple ARM design is 3 to 6 times faster than all Chinese made ARM
+variants, so China does not have a high performance ARM CPU, they
+simply have an ARM CPU"
+
+---
+
+"In an all-hands meeting last year, an employee asked...Apple’s
+hardware chief why the company continues to build products in China
+given these ethical problems. The crowd cheered. 'Well, that’s above
+my pay grade,' he responded..."
+
+[Link](https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs)
+
+---
+
+"[In 1994] President Clinton ... announced...  that he has decided to
+'de-link' China’s privileged trading status from its human rights
+record"
+
+[Link](https://www.latimes.com/archives/la-xpm-1994-05-27-mn-62877-story.html)
+
+---
+
+"@scientificecon
+
+Deflation is worse than inflation: modest inflation is manageable for
+everyone, but deflation happens when nominal GDP shrinks. That means
+large numbers of corporate bankruptcies. While the economists rejoice
+that things are cheaper for 'consumers', they can't buy as unemployed"
+
+---
+
+"Aw but that means prices go down man!" 🤨
+
+---
+
+Bitcoin is deflationary bitch
+
+---
+
+"@hyzonmotors
+
+BREAKING
+
+HYZON Motors to list on @Nasdaq via merger with Decarbonization Plus
+Acquisition Corporation, with combined equity value at $2.7 billion"
+
+[Link](https://twitter.com/hyzonmotors/status/1359103647439872000)
 
 ---
 
