@@ -61,7 +61,7 @@ a laboratory"
 ---
 
 Bama admin deported over 2 mil immigrants so I guess they did some
-'Si, se puede!' in tune with CC?
+'Si, se puede!' of their own
 
 ---
 
