@@ -60,6 +60,11 @@ a laboratory"
 
 ---
 
+Bama admin deported over 2 mil immigrants so I guess they did some
+'Si, se puede!' in tune with CC?
+
+---
+
 Carlson, *Ship of Fools*: "Chavez led the legendary Delano grape
 strike, which lasted for five years and inspired college students
 across the country to wear 'Boycott Grapes' pins.
