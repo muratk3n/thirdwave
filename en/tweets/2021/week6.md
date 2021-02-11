@@ -1,5 +1,121 @@
 # Week 6
 
+"Welcome to Trump Impeachment Part II: Everyone Hates It Here" 
+
+[Link](https://www.thedailybeast.com/welcome-to-trump-impeachment-part-two-everyone-hates-it-here?via=twitter_page)
+
+---
+
+"@H2Standard
+
+Steel maker @thyssenkrupp successfully completed the 1st phase of
+\#hydrogen tests on Blast Furnace 9, in Duisburg [Germany]. Now, tests
+w/b extended to all 28 tuyères. Next large-scale industrial use"
+
+---
+
+2014: "In a new online paper ..  the 72-year-old Hawking says, 'There
+are no black holes — in the sense from which light can't escape to
+infinity.'  The U-turn from Hawking, one of the pioneers of modern
+black hole theory, surprised his colleagues"
+
+[Link](https://www.cbc.ca/news/technology/stephen-hawking-s-black-holes-blunder-stirs-debate-1.2514299)
+
+---
+
+"A player drinking Makers Marka, cranberry vodka
+
+Wearing a mink coat thats furry as Chewbacca" ♪♬
+
+Three 6 Mafia - Roll With It \#music
+
+[Link](https://youtu.be/h08PYqG4kzg)
+
+---
+
+I knew it; *Spectral* and *Outside the Wire* both filmed in Budapest,
+Hungary, buildings looked similar. 
+
+---
+
+Key point here; even scientists themselves take lots of knowledge as
+given. So scientist who does additional research thinking black holes
+exists, has not independently verified it, or questioned if they
+exist.. The danger here is you can pile shit upon shit until stuck or
+the whole thing collapsing on itself.
+
+<iframe width="240"  src="https://www.youtube.com/embed/eREDoqCD4Ps?start=5211&end=5379" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"@TheNatlInterest
+
+The U.S. Navy, Japan, Australia, India, Canada and Japan conducted
+recent exercises intended to sharpen their collective ability to find,
+track and potentially attack Chinese submarines in the Pacific"
+
+---
+
+CH cannot make a top-notch CPU? That cld be a problem for defense.
+
+Quora: "China does not have any CPU that is not based on Western CPU
+designs, sometimes they are simply based on ancient CPU designs. They
+simply modify Western designs, put a Chinese part number or sometimes
+a Chinese name on it and make all sorts of empty claims about
+it... China does not have a high performance ARM CPU, they simply have
+an ARM CPU"
+
+---
+
+"In an all-hands meeting last year, an employee asked...Apple’s
+hardware chief why the company continues to build products in China
+given these ethical problems. The crowd cheered. 'Well, that’s above
+my pay grade,' he responded..."
+
+[Link](https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs)
+
+---
+
+"[In 1994] President Clinton ... announced...  that he has decided to
+'de-link' China’s privileged trading status from its human rights
+record"
+
+[Link](https://www.latimes.com/archives/la-xpm-1994-05-27-mn-62877-story.html)
+
+---
+
+Ditto for gold 
+
+---
+
+"@scientificecon
+
+Deflation is worse than inflation: modest inflation is manageable for
+everyone, but deflation happens when nominal GDP shrinks. That means
+large numbers of corporate bankruptcies. While the economists rejoice
+that things are cheaper for 'consumers', they can't buy as unemployed"
+
+---
+
+"Aw but that means prices go down man!" 🤨
+
+---
+
+Bitcoin is deflationary bitch
+
+---
+
+"@hyzonmotors
+
+BREAKING
+
+HYZON Motors to list on @Nasdaq via merger with Decarbonization Plus
+Acquisition Corporation, with combined equity value at $2.7 billion"
+
+[Link](https://twitter.com/hyzonmotors/status/1359103647439872000)
+
+---
+
 "BioNTech-Pfizer COVID vaccine effective against 2 variants"
 
 ---
