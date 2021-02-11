@@ -30,19 +30,6 @@ produce hydrogen"
 
 ---
 
-"@hazergroupltd
-
-Masdar is launching a pilot green \#hydrogen project in the United
-Arab Emirates"
-
----
-
-"@bartbiebuyck
-
-Nepal hopes to export hydrogen fuel to Europe within a decade"
-
----
-
 I'll go with \nu
 
 ---
@@ -107,6 +94,19 @@ civil and labor rights leader Cesar Chavez just behind President Joe
 Biden as he signed executive orders."
 
 [Link](https://www.nbcnews.com/news/latino/cesar-chavez-bust-behind-president-joe-biden-oval-office-stirs-n1255082)
+
+---
+
+"@hazergroupltd
+
+Masdar is launching a pilot green \#hydrogen project in the United
+Arab Emirates"
+
+---
+
+"@bartbiebuyck
+
+Nepal hopes to export hydrogen fuel to Europe within a decade"
 
 ---
 
