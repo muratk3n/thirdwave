@@ -115,19 +115,30 @@ Every Friday now, into the market close, Trump talks about the deal to keep stoc
 
 @shravanvasishth
 
-During registration for an op,eration the nurse refuses to take a physical copy of my doctor's letter, preferring to scan it in. She says "we are trying to go paperless". Then I see the surgeon, and he asks, "where is the doctor's letter?" I hand him the physical copy.
+During registration for an op,eration the nurse refuses to take a
+physical copy of my doctor's letter, preferring to scan it in. She
+says "we are trying to go paperless". Then I see the surgeon, and he
+asks, "where is the doctor's letter?" I hand him the physical copy.
 
 ---
 
-I dont try too hard to be a "generalist specialist". The shit finds me. At an Aegean resort  listening to FM radio, stumble upon a Christian station (in TR yes). It talks abt how Bible mentions "do not fear" dozens of times. This is funny cuz tigga nat anthem starts with dat ..
+I dont try too hard to be a "generalist specialist". The shit finds
+me. At an Aegean resort listening to FM radio, stumble upon a
+Christian station (in TR yes). It talks abt how Bible mentions "do not
+fear" dozens of times. This is funny cuz tigga nat anthem starts with
+dat ..
 
-.. same sentence. The author of the anthem was devout Muslim. Then I be connectin, connectin them dots.. 
+.. same sentence. The author of the anthem was devout Muslim. Then I
+be connectin, connectin them dots..
 
 This is how I roll..
 
 ---
 
-When the state plans well, it is fantastic. See how Japan, Germany plans for hydrogen where Tiggerland,  US are mired in carbon mess. There is some action in US to be sure, but I'd like to see more. Louder. Bang on those drums man.. just bang on that shit.
+When the state plans well, it is fantastic. See how Japan, Germany
+plans for hydrogen where Tiggerland, US are mired in carbon
+mess. There is some action in US to be sure, but I'd like to see
+more. Louder. Bang on those drums man.. just bang on that shit.
 
 ---
 

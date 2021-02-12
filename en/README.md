@@ -1,117 +1,122 @@
 # Tweets
 
-"@SunHydrogen
-
-The trajectory of #greenhydrogen production is moving much faster than
-expected as the project pipeline has grown ninefold since October 2019
-to an astonishing 26 gigawatts"
-
-[Link](https://www.greentechmedia.com/articles/read/woodmac-on-green-hydrogen-its-going-to-happen-faster-than-anyone-expects)
+"BBC World News banned in mainland China for 'content violation'"
 
 ---
 
-"[T]he Government of Canada ...  has identified hydrogen as a critical
-part of its path towards achieving the goal of net-zero carbon
-emissions by 2050, affirming that the development of low-carbon
-hydrogen is a strategic priority for Canada over the next 30
-years. This ambitious strategic blueprint for the development of the
-hydrogen economy seeks to position Canada as a world leading exporter
-of hydrogen by 2050. The Strategy outlines Canadian specific business
-opportunities and challenges, recommends the use of a mix of
-feedstocks (water, natural gas, petroleum, biomass), as well as
-industrial by-products available in various regions of Canada to
-produce hydrogen"
-
-[Link](https://www.blakes.com/insights/bulletins/2021/canada-s-hydrogen-strategy-an-ambitious-framework)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re proud to be a part of a newly launched European consortium for the standardization of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> modules for heavy-duty applications: <a href="https://t.co/sfN2GJ1fr3">https://t.co/sfN2GJ1fr3</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1359870153748590592?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Four companies - <a href="https://twitter.com/Shell?ref_src=twsrc%5Etfw">@Shell</a>, <a href="https://twitter.com/MHI_Group?ref_src=twsrc%5Etfw">@MHI_Group</a>, <a href="https://twitter.com/VattenfallGroup?ref_src=twsrc%5Etfw">@VattenfallGroup</a> and <a href="https://twitter.com/hashtag/W%C3%A4rmeHamburg?src=hash&amp;ref_src=twsrc%5Etfw">#WärmeHamburg</a> - have revealed their joint plans for one of <a href="https://twitter.com/hashtag/Europe?src=hash&amp;ref_src=twsrc%5Etfw">#Europe</a>&#39;s largest electrolysis plants that will produce 🟢 <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> from wind 💨 and solar energy. ☀️<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/HydrogenHub?ref_src=twsrc%5Etfw">@HydrogenHub</a> <a href="https://t.co/PY6adE6FvT">https://t.co/PY6adE6FvT</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1356875181864620032?ref_src=twsrc%5Etfw">February 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Didnt GOOG fight Australian gov for a similar request? I guess that
+was broader in scope..
+
+Make'm pay, who cares.. 3W tech cannot create its social structures
+yet, tech is mostly effin shit up not building, well, then gotta
+contribute something to the modern world (2W).
+
+"Google announced Wednesday it has launched its News Showcase product
+in the U.K., meaning the tech giant will now pay for news content in
+the country for the first time"
 
 ---
 
-I'll go with \nu
+"Indian government to make four-day working week a possibility for 1.3 billion people"
 
 ---
 
-Is that a \nu or \upsilon? 
+Intra-routes makes perfect sense, due to potential reduced range (the
+best any renewable can offer), but improvements can be worked on while
+the rest of the system is established.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Denmark has decided to construct the world’s first windenergy hub as an artificial island in the North Sea <a href="https://twitter.com/hashtag/dkgreen?src=hash&amp;ref_src=twsrc%5Etfw">#dkgreen</a> <a href="https://t.co/lKrxmWV61q">pic.twitter.com/lKrxmWV61q</a></p>&mdash; Dan Jørgensen (@DanJoergensen) <a href="https://twitter.com/DanJoergensen/status/1357344968419856391?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+👍 👍 👍 
+
+"Decarbonization Roadmap for EU.. 60 MtCO2 [reduction] by
+hydrogen-powered aircraft on intra-European routes"
+
+[PDF](https://www.destination2050.eu/wp-content/uploads/2021/02/Destination2050_Report.pdf)
 
 ---
 
-So it is likely covid came from lab, not animal
+Yes, good term to know; if fossil is used to produce H2 but carbon is
+captured, it is **blue** H2. If not, it is gray.
 
-Reshare, Feb 2020: "According to Professor Luc Montagnier, winner of
-the Nobel Prize for Medicine in 2008 for discovering HIV as the cause
-of the AIDS epidemic together with Françoise Barré-Sinoussi, the
-SARS-CoV-2 is a virus that was manipulated and accidentally released
-from a laboratory in Wuhan... in order to insert an HIV sequence into
-this genome, molecular tools are needed, and that can only be done in
-a laboratory"
-
-[Link](https://www.gilmorehealth.com/chinese-coronavirus-is-a-man-made-virus-according-to-luc-montagnier-the-man-who-discovered-hiv/)
+We all prefer **green** H2 of course.
 
 ---
 
-"Coronavirus Likely Came From Animal, Not Laboratory, WHO Says"
+<iframe width="340" src="https://www.youtube.com/embed/ban_rgwS1Js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Bama admin deported over 2 mil immigrants so I guess they did some
-'Si, se puede!' of their own
+Jack Brouwer of UCI sounds like a champ; he's been at this renewable
+fuel concept for a long time. Wrote a white paper on pipe
+transmission, SoCalGas noticed and they launched a pilot project based
+on it, years ago.
 
 ---
 
-Carlson, *Ship of Fools*: "Chavez led the legendary Delano grape
-strike, which lasted for five years and inspired college students
-across the country to wear 'Boycott Grapes' pins.
+More Wilshire crazyness. This thing keeps going up and up..
 
-Chavez’s signature rallying cry, 'Si, se puede!' ('Yes we can!'),
-became so famous among well-educated liberals that Barack Obama used
-it as a campaign slogan when he ran for president. Growing up in
-California, I can’t remember a year when we didn’t celebrate the life
-and achievements of Cesar Chavez in class.  Chavez’s name is still
-everywhere in the state. There are six libraries, eleven parks, half a
-dozen major roads, and at least twenty-five public schools in
-California named after him, more than George Washington. That doesn’t
-include the many Cesar Chavez academic buildings, student centers, and
-at least one college. Cesar Chavez Day is a California state holiday.
-
-Most enduring is Chavez’s 'Si, se puede!' Wherever left-wing
-demonstrators gather, you’ll hear it. It’s most common at
-pro-immigration rallies. Several times I’ve seen illegal aliens scream
-it while carrying Mexican flags. Every time, I say a silent prayer of
-thanks that Cesar Chavez is long dead. It would have been torture for
-him.
-
-Cesar Chavez didn’t support illegal aliens. Chavez didn’t like
-immigration at all, generally, especially the low-skilled kind. Chavez
-understood that new arrivals from poor countries will always work for
-less than Americans"
+```
+2021-02-10       195.87
+```
 
 ---
 
-"Darryl ... jumped from his chair when he saw it on TV — a bust of the
-civil and labor rights leader Cesar Chavez just behind President Joe
-Biden as he signed executive orders."
+Perusing through some Fukuyama found one error already: ".. [they reasoned]
+development of human societies from simple tribal ones based on
+slavery and subsistence agriculture".
 
-[Link](https://www.nbcnews.com/news/latino/cesar-chavez-bust-behind-president-joe-biden-oval-office-stirs-n1255082)
-
----
-
-"@hazergroupltd
-
-Masdar is launching a pilot green \#hydrogen project in the United
-Arab Emirates"
+Conflating slavery, tribes, and subsistence agro.. Wrong. Tribes can
+occur pre (agro). Slavery can only happen during, and not in
+hunter-gathering.
 
 ---
 
-"@bartbiebuyck
+Fundam phy community tries too hard to live up to achievements of prev
+generations, radio, elec, nuclear fission, etc, and see newer sciences
+gaining on them (eg biosciences), and think they have to 'go sexy' to
+remain relevant, plays on determinism, time, multip unvierses,
+etc. But that's trying to jump ahead with shaky ground underneath
+.. They dont even know what the Sun is made of.. how can they reason
+about the origin of the universe?
 
-Nepal hopes to export hydrogen fuel to Europe within a decade"
+---
+
+In different setting Im sure Hawk wld have disowned black holes
+decisively, earlier.. Sad the guy spent his whole life on junk
+science.
+
+I fault the env more, rewarding more and more curveball ideas, bcz
+they create the illusion of momentum, progress.
+
+---
+
+:) Finkel with a Lavo canister.. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to host members of the diplomatic corps in <a href="https://twitter.com/dfat?ref_src=twsrc%5Etfw">@dfat</a> to hear from Dr Alan Finkel AO and James White on Australia’s electricity transition, hydrogen and low emissions technology stretch goals. Thanks to <a href="https://twitter.com/hashtag/LAVO?src=hash&amp;ref_src=twsrc%5Etfw">#LAVO</a> for the loan of a H2 storage cylinder too! <a href="https://t.co/JeY7hvPazA">pic.twitter.com/JeY7hvPazA</a></p>&mdash; Ambassador for the Environment (@AusAmbEnviro) <a href="https://twitter.com/AusAmbEnviro/status/1359721672132030467?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+😆 
+
+The Middle. Of the slammer.
+
+"Jeep pulls Springsteen ad after DWI arrest reports"
+
+---
+
+There is much wisdom in population [models](2011/12/more-on-logistic-equation.md).
+I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths
+proportional to ppl interactions implying rush towards same resources can kill..
+A pandemic certainly fits to ppl interaction category as well.
+
+---
+
+"Hyzon SPAC Merger Includes $400 Million Investment"
 
 ---
 
