@@ -27,7 +27,7 @@ the country for the first time"
 
 Starting with intra- makes sense, due to potential reduced range (the
 best any renewable can offer), but improvements can be worked on while
-the rest of the system is established.
+the rest of the system is being established.
 
 ---
 
