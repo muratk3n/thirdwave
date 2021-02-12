@@ -111,8 +111,8 @@ The Middle. Of the slammer.
 
 There is much wisdom in population [models](2011/12/more-on-logistic-equation.md).
 I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
-to ppl interactions (implying rush towards same resources) can kill..
-A pandemic, similar, ppl interaction effects deaths.
+to ppl interactions (implying rush towards same resources can kill).
+A pandemic is similar, ppl interaction causes deaths.
 
 ---
 
