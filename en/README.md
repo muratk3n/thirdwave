@@ -8,12 +8,12 @@
 
 ---
 
-Didnt GOOG fight Australian gov for a similar request? I guess that
-was broader in scope..
+Didnt GOOG fight Australian gov for a similar request?
 
-Make'm pay, who cares.. 3W tech cannot create its social structures
-yet, tech is mostly effin shit up not building, well, at least
-contribute something to the modern world (2W) in cold hard cash.
+I guess that was broader in scope.. Make'm pay, who cares.. 3W tech
+cannot create its social structures yet, is mostly effin shit up not
+building, well, at least contribute something to the modern world (2W)
+in cold hard cash.
 
 "Google announced Wednesday it has launched its News Showcase product
 in the U.K., meaning the tech giant will now pay for news content in
