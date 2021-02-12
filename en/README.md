@@ -25,9 +25,9 @@ the country for the first time"
 
 ---
 
-Intra-routes makes perfect sense, due to potential reduced range (the
-best any renewable can offer), but improvements can be worked on while
-the rest of the system is established.
+Starting with intra-routes makes perfect sense, due to potential
+reduced range (the best any renewable can offer), but improvements can
+be worked on while the rest of the system is established.
 
 ---
 
