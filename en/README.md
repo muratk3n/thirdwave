@@ -71,7 +71,7 @@ development of human societies from simple tribal ones based on
 slavery and subsistence agriculture".
 
 Conflating slavery, tribes, and subsistence agro.. Wrong. Tribes can
-occur pre (agro). Slavery can only happen during, and not in
+occur pre (agro). Slavery can only happen during, and not while
 hunter-gathering.
 
 ---
@@ -109,9 +109,8 @@ The Middle. Of the slammer.
 
 ---
 
-There is much wisdom in population
-[models](2011/12/more-on-logistic-equation.md).  I talked abt
-widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
+There is much wisdom in population [models](2011/12/more-on-logistic-equation.md).
+I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
 to ppl interactions (implying rush towards same resources) can kill..
 A pandemic, similar, ppl interaction effects deaths.
 
