@@ -51,7 +51,7 @@ We all prefer **green** H2 of course.
 
 ---
 
-Jack Brouwer of UCI sounds like a champ; he's been at this renewable
+Jack Brouwer of UCI sounds like a champ; he's been at the renewable
 fuel concept for a long time. Wrote a white paper on pipe
 transmission, SoCalGas noticed and they launched a pilot project based
 on it, years ago.
