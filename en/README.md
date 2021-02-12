@@ -66,7 +66,7 @@ More Wilshire crazyness. This thing keeps going up and up..
 
 ---
 
-Perusing through some Fukuyama found one error already: ".. [they reasoned]
+Perusing some Fukuyama found one error already: ".. [they reasoned]
 development of human societies from simple tribal ones based on
 slavery and subsistence agriculture".
 
