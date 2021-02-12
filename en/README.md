@@ -71,8 +71,7 @@ development of human societies from simple tribal ones based on
 slavery and subsistence agriculture".
 
 Conflating slavery, tribes, and subsistence agro.. Wrong. Tribes can
-occur pre (agro). Slavery can only happen during, and not while
-hunter-gathering.
+occur pre agro. Slavery can only happen during agro, not previously.
 
 ---
 
