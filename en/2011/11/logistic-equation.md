@@ -17,7 +17,7 @@ a and b are constants (they are calculated from historical data).
 The interaction density between p people is roughly calculated as
 $p(p-1) / 2$, for example between 4 people there are 6 possible
 peer-to-peer interactions, and simply $p^2$ can be used and placed in
-the equation as bp^2 (bcz there is already a p in there, and the rest
+the equation as $bp^2$ (bcz there is already a p in there, and the rest
 is handled by constants). Interaction density is supposed to represent
 death due to contention for shared resources, spread of disease that
 place denser populace at a disadvantage.
