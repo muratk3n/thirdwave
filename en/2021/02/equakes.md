@@ -2,9 +2,9 @@
 
 
 ```python
+from quakefeeds import QuakeFeed
 import pandas as pd, datetime
 
-from quakefeeds import QuakeFeed
 feed = QuakeFeed("4.5", "month")
 res = []
 for i in range(len(feed)):
