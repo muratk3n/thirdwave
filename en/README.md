@@ -89,9 +89,8 @@ Jacobin: "It’s Long Past Time to Abolish the Filibuster"
 We know fluids of similar attributes even in the same canister stick together.
 
 It is fascinating to see this at large scale, I mean, largest scale
-possible. Oceanic scale. The Atlantic and the Pacific do not mix.
-
-<img width="340" src="https://thumbs.gfycat.com/FlawedEuphoricIndianringneckparakeet-max-1mb.gif"/>
+possible. Oceanic scale. The Atlantic and the Pacific
+[do not mix](https://thumbs.gfycat.com/FlawedEuphoricIndianringneckparakeet-max-1mb.gif).
 
 ---
 
