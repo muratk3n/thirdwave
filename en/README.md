@@ -10,7 +10,7 @@ its members has said"
 
 ---
 
-Rep senators did not want the politicking trouble.. vote on evidence
+Rep senators did not want the politicking trouble.. vote on evidence 
 wld cause a convict. Now the spin can favor DJT
 
 "Donald Trump cleared by US Senate of inciting Capitol riots"
@@ -61,8 +61,6 @@ actually demo stuff, connected to physical processes. No need to wank
 off to weirdo bullshit.
 
 ---
-
-With some WH encouragement perhaps? 
 
 "India and China begin troop pull back from disputed border area"
 
