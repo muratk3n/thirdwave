@@ -1,5 +1,124 @@
 # Week 6
 
+"BBC World News banned in mainland China for 'content violation'"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re proud to be a part of a newly launched European consortium for the standardization of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> modules for heavy-duty applications: <a href="https://t.co/sfN2GJ1fr3">https://t.co/sfN2GJ1fr3</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1359870153748590592?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Didnt GOOG fight Australian gov for a similar request?
+
+I guess that was broader in scope.. Make'm pay, who cares.. 3W tech
+cannot create its social structures yet, is mostly effin shit up not
+building, well, at least contribute something to the modern world (2W)
+in cold hard cash.
+
+"Google announced Wednesday it has launched its News Showcase product
+in the U.K., meaning the tech giant will now pay for news content in
+the country for the first time"
+
+---
+
+"Indian government to make four-day working week a possibility for 1.3 billion people"
+
+---
+
+Starting with intra- makes sense, due to potential reduced range (the
+best any renewable can offer), but improvements can be worked on while
+the rest of the system is being established.
+
+---
+
+👍 👍 👍 
+
+"Decarbonization Roadmap for EU.. 60 MtCO2 [reduction] by
+hydrogen-powered aircraft on intra-European routes"
+
+[PDF](https://www.destination2050.eu/wp-content/uploads/2021/02/Destination2050_Report.pdf)
+
+---
+
+Yes, good term to know; if fossil is used to produce H2 but carbon is
+captured, it is **blue** H2. If not, it is gray.
+
+We all prefer **green** H2 of course.
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/ban_rgwS1Js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Jack Brouwer of UCI sounds like a champ; he's been at the renewable
+fuel concept for a long time. Wrote a white paper on pipe
+transmission, SoCalGas noticed and they launched a pilot project based
+on it, years ago.
+
+---
+
+More Wilshire crazyness. This thing keeps going up and up..
+
+```
+2021-02-10       195.87
+```
+
+---
+
+Perusing some Fukuyama found one error already: ".. [they reasoned]
+development of human societies from simple tribal ones based on
+slavery and subsistence agriculture".
+
+Conflating slavery, tribes, and subsistence agro.. Wrong. Tribes can
+occur pre. Slavery can only happen during agro, not before that.
+
+---
+
+Fundam phy community tries too hard to live up to achievements of prev
+generations, radio, elec, nuclear fission, etc, and see newer sciences
+gaining on them (eg biosciences), and think they have to 'go sexy' to
+remain relevant, plays on determinism, time, multip unvierses,
+etc. But that's trying to jump ahead with shaky ground underneath
+.. They dont even know what the Sun is made of.. how can they reason
+about the origin of the universe?
+
+---
+
+In different setting Im sure Hawk wld have disowned black holes
+decisively, earlier.. Sad the guy spent his whole life on junk
+science.
+
+I fault the env more, rewarding more and more curveball ideas, bcz
+they create the illusion of momentum, progress.
+
+---
+
+:) Finkel with a Lavo canister.. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to host members of the diplomatic corps in <a href="https://twitter.com/dfat?ref_src=twsrc%5Etfw">@dfat</a> to hear from Dr Alan Finkel AO and James White on Australia’s electricity transition, hydrogen and low emissions technology stretch goals. Thanks to <a href="https://twitter.com/hashtag/LAVO?src=hash&amp;ref_src=twsrc%5Etfw">#LAVO</a> for the loan of a H2 storage cylinder too! <a href="https://t.co/JeY7hvPazA">pic.twitter.com/JeY7hvPazA</a></p>&mdash; Ambassador for the Environment (@AusAmbEnviro) <a href="https://twitter.com/AusAmbEnviro/status/1359721672132030467?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+😆 
+
+The Middle. Of the slammer.
+
+"Jeep pulls Springsteen ad after DWI arrest reports"
+
+---
+
+There is much wisdom in population [models](2011/12/more-on-logistic-equation.md).
+I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
+to ppl interactions (implying rush towards same resources can kill).
+A pandemic is similar, ppl interaction causes deaths.
+
+---
+
+"Hyzon SPAC Merger Includes $400 Million Investment"
+
+---
+
 "@SunHydrogen
 
 The trajectory of #greenhydrogen production is moving much faster than

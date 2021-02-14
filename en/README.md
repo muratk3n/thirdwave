@@ -1,121 +1,113 @@
 # Tweets
 
-"BBC World News banned in mainland China for 'content violation'"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are pleased to join a public and corporate initiative for developing a <a href="https://twitter.com/hashtag/European?src=hash&amp;ref_src=twsrc%5Etfw">#European</a> hub for <a href="https://twitter.com/hashtag/green?src=hash&amp;ref_src=twsrc%5Etfw">#green</a> <a href="https://twitter.com/hashtag/fuels?src=hash&amp;ref_src=twsrc%5Etfw">#fuels</a> in Denmark’s Trekantomraadet. Everfuel’s <a href="https://twitter.com/hashtag/HySynergy?src=hash&amp;ref_src=twsrc%5Etfw">#HySynergy</a> project in Fredericia is a leading facility in the hub and planning for its Phase II expansion is well underway. <a href="https://t.co/LGJkh1BRyD">pic.twitter.com/LGJkh1BRyD</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1360163685990338561?ref_src=twsrc%5Etfw">February 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re proud to be a part of a newly launched European consortium for the standardization of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> modules for heavy-duty applications: <a href="https://t.co/sfN2GJ1fr3">https://t.co/sfN2GJ1fr3</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1359870153748590592?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+BBC: "China refused to hand over key data to the World Health
+Organization (WHO) team investigating the origins of Covid-19, one of
+its members has said"
 
 ---
 
-Didnt GOOG fight Australian gov for a similar request?
-
-I guess that was broader in scope.. Make'm pay, who cares.. 3W tech
-cannot create its social structures yet, is mostly effin shit up not
-building, well, at least contribute something to the modern world (2W)
-in cold hard cash.
-
-"Google announced Wednesday it has launched its News Showcase product
-in the U.K., meaning the tech giant will now pay for news content in
-the country for the first time"
+Eartquake data retrival [code](2021/02/equakes.md)
 
 ---
 
-"Indian government to make four-day working week a possibility for 1.3 billion people"
+Soon after my quake tweet, > 7.0 shake. Two of them.
+
+<img width="340" src="https://pbs.twimg.com/media/EuH6wbhXIAI-FQU?format=png&name=small"/>
 
 ---
 
-Starting with intra- makes sense, due to potential reduced range (the
-best any renewable can offer), but improvements can be worked on while
-the rest of the system is being established.
+Thanks to content like *The Mandalorian* I bet..
+
+"Disney returns to profit as streaming business offsets theme park losses"
+
+[Link](https://youtu.be/MVuBMhXhLks)
 
 ---
 
-👍 👍 👍 
-
-"Decarbonization Roadmap for EU.. 60 MtCO2 [reduction] by
-hydrogen-powered aircraft on intra-European routes"
-
-[PDF](https://www.destination2050.eu/wp-content/uploads/2021/02/Destination2050_Report.pdf)
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">💧 Develop 5GW of low carbon hydrogen production capacity by 2030<br><br>🏘️ First town powered entirely by hydrogen by 2030<br><br>Read the full plan 👉🏾 <a href="https://t.co/QCJdAjTjSd">https://t.co/QCJdAjTjSd</a> <a href="https://t.co/3Pp6AOQjXK">pic.twitter.com/3Pp6AOQjXK</a></p>&mdash; Kwasi Kwarteng (@KwasiKwarteng) <a href="https://twitter.com/KwasiKwarteng/status/1360189726075060224?ref_src=twsrc%5Etfw">February 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Yes, good term to know; if fossil is used to produce H2 but carbon is
-captured, it is **blue** H2. If not, it is gray.
-
-We all prefer **green** H2 of course.
+"You said this was indo. Smell like outdo" :)
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/ban_rgwS1Js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Daam
+
+"France wades into the South China Sea with a nuclear attack submarine"
 
 ---
 
-Jack Brouwer of UCI sounds like a champ; he's been at the renewable
-fuel concept for a long time. Wrote a white paper on pipe
-transmission, SoCalGas noticed and they launched a pilot project based
-on it, years ago.
+Pute fussing over this one guy hurts gov legitimacy. Makes it
+difficult for democracies to deal with RU.
+
+"Russia says it's ready to end ties with the European Union"
 
 ---
 
-More Wilshire crazyness. This thing keeps going up and up..
-
-```
-2021-02-10       195.87
-```
+There are so many things to compute. Fantastic models out there that
+actually demo stuff, connected to physical processes. No need to wank
+off to weirdo bullshit.
 
 ---
 
-Perusing some Fukuyama found one error already: ".. [they reasoned]
-development of human societies from simple tribal ones based on
-slavery and subsistence agriculture".
+With some WH encouragement perhaps? 
 
-Conflating slavery, tribes, and subsistence agro.. Wrong. Tribes can
-occur pre. Slavery can only happen during agro, not before that.
+"India and China begin troop pull back from disputed border area"
 
 ---
 
-Fundam phy community tries too hard to live up to achievements of prev
-generations, radio, elec, nuclear fission, etc, and see newer sciences
-gaining on them (eg biosciences), and think they have to 'go sexy' to
-remain relevant, plays on determinism, time, multip unvierses,
-etc. But that's trying to jump ahead with shaky ground underneath
-.. They dont even know what the Sun is made of.. how can they reason
-about the origin of the universe?
+They have to care, there is a whole song and dance around creation of
+particles, formation of heavier elements since the "beginning of
+time", if that story is poppycock, then a major part of their
+assumption is wrong.
+
+"Particle physicists dont care, they dont deal with that stuff"
 
 ---
 
-In different setting Im sure Hawk wld have disowned black holes
-decisively, earlier.. Sad the guy spent his whole life on junk
-science.
-
-I fault the env more, rewarding more and more curveball ideas, bcz
-they create the illusion of momentum, progress.
+Robitaille: "Cosmology is not science"
 
 ---
 
-:) Finkel with a Lavo canister.. 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to host members of the diplomatic corps in <a href="https://twitter.com/dfat?ref_src=twsrc%5Etfw">@dfat</a> to hear from Dr Alan Finkel AO and James White on Australia’s electricity transition, hydrogen and low emissions technology stretch goals. Thanks to <a href="https://twitter.com/hashtag/LAVO?src=hash&amp;ref_src=twsrc%5Etfw">#LAVO</a> for the loan of a H2 storage cylinder too! <a href="https://t.co/JeY7hvPazA">pic.twitter.com/JeY7hvPazA</a></p>&mdash; Ambassador for the Environment (@AusAmbEnviro) <a href="https://twitter.com/AusAmbEnviro/status/1359721672132030467?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Jacobin: "It’s Long Past Time to Abolish the Filibuster"
 
 ---
 
-😆 
+We know fluids of similar attributes even in the same canister stick together.
 
-The Middle. Of the slammer.
+It is fascinating to see this at large scale, I mean, largest scale
+possible. Oceanic scale. The Atlantic and the Pacific do not mix.
 
-"Jeep pulls Springsteen ad after DWI arrest reports"
-
----
-
-There is much wisdom in population [models](2011/12/more-on-logistic-equation.md).
-I talked abt widespread deaths ~10 yrs ago. Logistic eqn models deaths proportional
-to ppl interactions (implying rush towards same resources can kill).
-A pandemic is similar, ppl interaction causes deaths.
+<img width="340" src="https://thumbs.gfycat.com/FlawedEuphoricIndianringneckparakeet-max-1mb.gif"/>
 
 ---
 
-"Hyzon SPAC Merger Includes $400 Million Investment"
+I was told during their conflict, RU media played [this
+video](https://i.imgur.com/1RBuOEV.gif?1) on a loop. That's
+Shakasvili, the then GE president
+
+---
+
+Strategically it wld also make sense to want to be an energy exporter,
+to be depended upon by bigger players, so next time maybe they wont
+get their ass kicked by Russia.
+
+---
+
+Quick term expl; they will use water (hydro) in a dam, let through
+turbines to generate power. Green. How to store that power? H2; again
+green and hydro.
+
+---
+
+Hydropower to hydrogen.. It rhymes! Go Georgia.
+
+[Link](https://www.pv-magazine.com/2020/09/28/georgia-explores-green-hydrogen/)
 
 ---
 
