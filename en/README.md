@@ -10,9 +10,8 @@ its members has said"
 
 ---
 
-Rep senators did not want the trouble, in terms of politicking. If
-they voted on evidence, it would have been a conviction. Now the spin
-can favor DJT 
+Rep senators did not want the politicking trouble, vote on evidence
+wld cause a convict. Now the spin can favor DJT
 
 "Donald Trump cleared by US Senate of inciting Capitol riots"
 
