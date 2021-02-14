@@ -10,8 +10,8 @@ its members has said"
 
 ---
 
-Rep senators did not want the trouble, politically speaking. If they
-voted on evidence, it would have been a conviction. 
+Rep senators did not want the trouble, in terms of politicking. If
+they voted on evidence, it would have been a conviction.
 
 "Donald Trump cleared by US Senate of inciting Capitol riots"
 
