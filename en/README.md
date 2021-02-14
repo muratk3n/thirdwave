@@ -103,7 +103,7 @@ Shakasvili, the then GE president
 
 Strategically it wld also make sense to want to be depended upon by
 bigger players, as an energy exporter, so next time maybe they wont
-get their ass kicked by Russia too swiftly.
+get their ass kicked that swiftly by Russia.
 
 ---
 
