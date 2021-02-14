@@ -10,7 +10,7 @@ its members has said"
 
 ---
 
-Rep senators did not want the politicking trouble, vote on evidence
+Rep senators did not want the politicking trouble.. vote on evidence
 wld cause a convict. Now the spin can favor DJT
 
 "Donald Trump cleared by US Senate of inciting Capitol riots"
