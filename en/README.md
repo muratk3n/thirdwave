@@ -108,7 +108,7 @@ get their ass kicked that swiftly by Russia.
 
 Quick term expl; they will use water (hydro) in a dam, let through
 turbines to generate power. Green. How to store that power? H2; again
-green and hydro.
+green (and hydro).
 
 ---
 
