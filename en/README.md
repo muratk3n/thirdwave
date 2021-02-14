@@ -12,7 +12,7 @@ its members has said"
 
 Rep senators did not want the trouble, in terms of politicking. If
 they voted on evidence, it would have been a conviction. Now the spin
-will be in DJT favor. 
+can favor DJT 
 
 "Donald Trump cleared by US Senate of inciting Capitol riots"
 
