@@ -51,13 +51,11 @@ It's good.. keeping the fans happy. I hope new JL pans out.
 
 ---
 
-We all live on mountain tops IOW
-
----
-
-Average surface elevation of Earth is 840 meters... yep the "sea
+Average surface elevation of Earth is 840 meters... most know "sea
 level" is not actually zero elevation level.. The real bottom is at
 the bottom of some the sea, ocean.. And there is a lota ocean!
+
+We all live on mountain tops IOW
 
 ---
 
