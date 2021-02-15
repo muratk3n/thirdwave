@@ -1,5 +1,12 @@
 # Tweets
 
+"Hydrogen pumping stations are all over California and could be in the
+Denver metro area by the end of this year. "
+
+https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/
+
+---
+
 I like the title, "The H-Factor"
 
 ---
@@ -92,6 +99,15 @@ close to what they are now, just as easily as some magic process that
 will evolve into as they are now. Dont want to assume either way, what
 I am saying is opting for long-running process just to remove the Big
 Guy is not necessarily scientific.
+
+---
+
+2019: "Budweiser ordered 800 hydrogen-fueled heavy delivery trucks and
+is using some in California, the national leader in building out a
+subsidized network of refueling stations and creating incentives for
+vehicle purchases"
+
+[Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
 
 ---
 
