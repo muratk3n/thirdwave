@@ -13,8 +13,6 @@ Denver metro area by the end of this year. "
 
 "The H-Factor" 👍
 
----
-
 "In a grand, clean energy strategy published in mid-December, a brain
 trust of cross-sector Canadian savants predicted that hydrogen-powered
 locomotion—already nicknamed “hydrail”—would be ready for testing some
