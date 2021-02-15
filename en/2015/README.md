@@ -74,7 +74,7 @@
 
 [Foreign Aid](04/foreign-aid.md)
 
-[God, Religion](04/god-religion.md)
+[God](04/god.md)
 
 [Great Thinker Confusion](04/great-thinker-confusion.md)
 
@@ -99,6 +99,8 @@
 [Predicting the 2016 Presidential Election](04/predicting-2016-presidential-election.md)
 
 [Prez Prediction, Past Elections, Leave-One-Out Check](04/prez-loo.md)
+
+[Religion](04/religion.md)
 
 [Rules and More Rules](04/rules-and-more-rules.md)
 
