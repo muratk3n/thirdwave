@@ -86,19 +86,17 @@ incredibly wasteful, it is looking like the future lies in one of the
 challenger coins which are green and fast out-of-the-box.
 
 
+Deflation
 
+Sadly all limited supply fiat currencies run the rish of being
+deflationary (eg gold). That cld look fine to some, bcz deflation is
+"prices going down", but that is not necessarily a good thing. Let me
+share this tidbit from Prof. Werner,
 
+"@scientificecon
 
-
-
-
-
-
-
-
-
-
-
-
-
+Deflation is worse than inflation: modest inflation is manageable for
+everyone, but deflation happens when nominal GDP shrinks. That means
+large numbers of corporate bankruptcies. While the economists rejoice
+that things are cheaper for 'consumers', they can't buy as unemployed"
 
