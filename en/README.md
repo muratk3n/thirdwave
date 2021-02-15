@@ -104,10 +104,10 @@ is not necessarily scientific.
 
 ---
 
-2019: "Budweiser ordered 800 hydrogen-fueled heavy delivery trucks and
+"Budweiser ordered 800 hydrogen-fueled heavy delivery trucks and
 is using some in California, the national leader in building out a
 subsidized network of refueling stations and creating incentives for
-vehicle purchases"
+vehicle purchases [in 2019]"
 
 [Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
 
