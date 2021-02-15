@@ -138,15 +138,13 @@ despite the best efforts of people working in them.
 
 [Patents](/2018/09/patents.md)
 
-[Religion](/2015/04/god-religion.md)
-
 [Democracy, Parties](/2016/11/democracy.md)
 
 [Economy](/2018/05/economy.md)
 
 [Globalization](/2018/09/globalization.md)
 
-[Rome, The First Wave](/2017/12/rome.md)
+[Rome, The First Wave, Religion](/2017/12/rome.md)
 
 [Human Nature & Health](/2020/07/human-nature.md)
 
