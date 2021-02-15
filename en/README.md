@@ -101,10 +101,10 @@ enthusiastic supporters of Big Bang were and are the Clergy. That one
 one focused, 'big' creational event must have jelled more with their
 view of the creator.
 
-But .. an omnipo being can bring stuff into existence, close to what
-they are now, just as easily as some magic process that will evolve
-into as they are now. Dont want to assume either way, what I am saying
-is opting for long-running process just to remove the Big Guy is not
+But an omnipo being can bring stuff into existence, close to what they
+are now, just as easily as some magic process that will evolve into as
+they are now. Dont want to assume either way, what I am saying is
+opting for long-running process just to remove the Big Guy is not
 necessarily more scientific.
 
 ---
