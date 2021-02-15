@@ -31,18 +31,18 @@ return-to-moon announcement, that'll work for their favor.
 
 ## Energy
 
-The energy use projections are iffy though. The 10,000 Watts / person
-is probably from *Seeding the Universe with Life* By Michael Noah
-Mautner. Let's take that as is,
+Not sure of the energy use projections though.  The 10,000 Watts /
+person is probably from *Seeding the Universe with Life* By Michael
+Noah Mautner. But fin, let's take that as is,
 
 ```python
 wattperPerson = 10000
-pop = 8*1e9
+pop = 7.79*1e9
 print (wattperPerson * pop / 1e12, 'Terrawatts')
 ```
 
 ```text
-80.0 Terrawatts
+77.9 Terrawatts
 ```
 
 will be needed for everyone. How much does the Sun supply?
@@ -57,16 +57,27 @@ W/m2".
 ```python
 texasArea = 700000 * 1e6 # meter square
 sun = 1000 # Watts per meter square
-eff = 0.50 # panel efficiency
-print (sun*texasArea*eff / 1e12, 'Terrawatts')
+eff = 0.25 # panel efficiency
+daylight = 0.25 # sunlight per day
+print (sun*texasArea*eff*daylight / 1e12, 'Terrawatts')
 ```
 
 ```text
-350.0 Terrawatts
+43.75 Terrawatts
 ```
 
-Even with 50% panel efficiency, an area of Texas can supply more than
-four times the energy needed.
+If we take today's consumption, which is 157,481 Terrawatt Hours per year,
+
+```python
+print ("%0.2f TW" % (157481. / (365*24)))
+```
+
+```text
+17.98 TW
+```
+
+So panels covering all of Texas can supply more than the energy needed
+today.
 
 Important point 10 KW / person is a first-world number. Not everyone
 in the world is there yet. Plus first world is in luxurious
