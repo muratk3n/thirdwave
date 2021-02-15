@@ -107,15 +107,6 @@ necessarily more scientific.
 
 ---
 
-"Budweiser ordered 800 hydrogen-fueled heavy delivery trucks and
-is using some in California, the national leader in building out a
-subsidized network of refueling stations and creating incentives for
-vehicle purchases [in 2019]"
-
-[Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
