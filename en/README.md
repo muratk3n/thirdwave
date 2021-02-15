@@ -7,7 +7,7 @@ Forbes: "Hyzon, A Hydrogen Fuel Cell Truck Maker, In SPAC Deal Valued At $2.6 Bi
 "Hydrogen pumping stations are all over California and could be in the
 Denver metro area by the end of this year. "
 
-https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/
+[Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
 
 ---
 
