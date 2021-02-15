@@ -60,8 +60,8 @@ We all live on mountain tops IOW
 ---
 
 Newton, other early modern phy computed all the time. It's fine to go
-off in an abstract direction but default teaching must be enmeshed
-with computation.
+off in an abstract direction but most phy teaching by default must be
+enmeshed with computation.
 
 ---
 
