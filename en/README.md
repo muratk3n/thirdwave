@@ -40,12 +40,12 @@ Dadamnphreaknoizphunk - "Chemical Funk" \#music
 ---
 
 Some early Zack Snyder buzz, on the Justice League recut (?) (soon to
-be released). Had a character say "we live in a society", ppl loving
-it online. Apparently meme based on this
+be released). In trailer has a character say "we live in a society",
+ppl loving it online. Apparently meme based on 
 
 [Link](https://youtu.be/LHhbdXCzt_A)
 
-then became a Joker thing, now Zack had it voiced in movie.
+.. then became a Joker thing, now Zack had it voiced in movie.
 
 It's good.. keeping the fans happy. I hope new JL pans out.
 
