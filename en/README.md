@@ -59,7 +59,13 @@ We all live on mountain tops IOW
 
 ---
 
-Landau wrote some fantastic books. 
+Newton, other early modern phy computed all the time. It's fine to go
+off in an abstract direction but default teaching must be enmeshed
+with computation.
+
+---
+
+Landau wrote some fantastic books. Id listen to him.
 
 Landau: "There can be little argument that computation has become an
 essential element in all areas of physics, be it via simulation,
