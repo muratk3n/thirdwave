@@ -92,9 +92,9 @@ process". Boom. Darwin is world famous.
 everything we see"
 
 Except the creator isnt exactly removed from the picture, ie the most
-enthusiastic supporters of Big Bang were the Clergy. that one one
-focused, 'big' creational event must have jelled more with their view
-of the creator.
+enthusiastic supporters of Big Bang were and are[ the Clergy. that one
+one focused, 'big' creational event must have jelled more with their
+view of the creator.
 
 But get this; an omnipo being can bring stuff into existence, close to
 what they are now, just as easily as some magic process that will
