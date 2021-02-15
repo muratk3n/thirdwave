@@ -97,7 +97,7 @@ not make it happen, it started from a small seed, turned into
 everything we see"
 
 Except the creator isnt exactly removed from the picture, ie the most
-enthusiastic supporters of Big Bang were and are[ the Clergy. that one
+enthusiastic supporters of Big Bang were and are[ the Clergy. That one
 one focused, 'big' creational event must have jelled more with their
 view of the creator.
 
