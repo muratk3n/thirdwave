@@ -1,5 +1,9 @@
 # Tweets
 
+Forbes: "Hyzon, A Hydrogen Fuel Cell Truck Maker, In SPAC Deal Valued At $2.6 Billion"
+
+---
+
 "Hydrogen pumping stations are all over California and could be in the
 Denver metro area by the end of this year. "
 
