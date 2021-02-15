@@ -296,8 +296,6 @@
 
 [#andreessen #smorgasbord](12/andreessen-smorgasbord.md)
 
-[#bitcoin](12/bitcoin.md)
-
 [Education 101](12/education-101.md)
 
 [Farrage vs Brand](12/farrage-vs-brand.md)
