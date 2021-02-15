@@ -1,6 +1,6 @@
 # Tweets
 
-I like he title, "The H-Factor"
+I like the title, "The H-Factor"
 
 ---
 
