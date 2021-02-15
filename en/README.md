@@ -85,7 +85,7 @@ Creator is [more likely](2015/04/god.md)
 By turning something into a process, we dont automatically remove "an
 omnipotent creator" from the picture. Everyone likes the invention of
 evolution. "God did not create the final thing, it was an evolutionary
-process". Done. Darwin is world famous.
+process". Boom. Darwin is world famous.
 
 Well now let's apply that to the universe.. thought some perhaps, "God
 did not make it happen, it started from a small seed, turned into
