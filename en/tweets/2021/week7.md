@@ -17,7 +17,7 @@ wld cause a convict. Now the spin can favor DJT
 
 ---
 
-Eartquake data retrival [code](2021/02/equakes.md)
+Eartquake data retrival [code](../../2021/02/equakes.md)
 
 ---
 
