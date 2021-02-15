@@ -92,8 +92,8 @@ omnipotent creator" from the picture. Everyone likes the invention of
 evolution. "God did not create the final thing, it was an evolutionary
 process". Boom. Darwin is world famous.
 
-"Well now let's apply that to the universe".. thought some perhaps,
-"God did not make it happen, it started from a small seed, turned into
+"Well now let's apply that to the universe".. thought some? "God did
+not make it happen, it started from a small seed, turned into
 everything we see"
 
 Except the creator isnt exactly removed from the picture, ie the most
