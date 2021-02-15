@@ -63,16 +63,15 @@ Landau wrote some fantastic books.
 
 Landau: "There can be little argument that computation has become an
 essential element in all areas of physics, be it via simulation,
-symbolic manipulations, data manipulations, equipment interfacing, or
-something with which we are not yet familiar. Nevertheless, even
-though the style of teaching and organization of subjects being taught
-by physics departments have changed in recent times, the actual
-content of the courses has been slow to incorporate the new-found
-importance of computation. Yes, there are now speciality courses and
-many textbooks in Computational Physics, but that is not the same
-thing as incorporating computation into the very heart of a modern
-physics curriculum so that the physics being taught today more closely
-resembles the physics being done today"
+symbolic manipulations, data manipulations, equipment
+interfacing... [E]ven though the style of teaching and organization of
+subjects being taught by physics departments have changed in recent
+times, the actual content of the courses has been slow to incorporate
+the new-found importance of computation. Yes, there are now speciality
+courses and many textbooks in Computational Physics, but that is not
+the same thing as incorporating computation into the very heart of a
+modern physics curriculum so that the physics being taught today more
+closely resembles the physics being done today"
 
 ---
 
