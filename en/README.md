@@ -29,7 +29,7 @@ timeline, and woke the North American rail industry"
 ---
 
 Chick Korea RIP. Through him we got to know the craziest drummer ever,
-Dave Weckl. 
+[Dave Weckl](https://youtu.be/G5pmoSOE9CU?t=193). 
 
 ---
 
