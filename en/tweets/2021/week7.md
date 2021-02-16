@@ -1,5 +1,112 @@
 # Week 7
 
+Forbes: "Hyzon, A Hydrogen Fuel Cell Truck Maker, In SPAC Deal Valued At $2.6 Billion"
+
+---
+
+"Hydrogen pumping stations are all over California and could be in the
+Denver metro area by the end of this year. "
+
+[Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
+
+---
+
+"The H-Factor" 👍
+
+"In a grand, clean energy strategy published in mid-December, a brain
+trust of cross-sector Canadian savants predicted that hydrogen-powered
+locomotion—already nicknamed “hydrail”—would be ready for testing some
+time about 2025, first in the form of yard switchers, short-leashed to
+their refueling stations.
+
+The very next day, Dec. 18, Canadian Pacific (CP) smashed that
+timeline, and woke the North American rail industry"
+
+[Link](https://www.railwayage.com/mechanical/locomotives/the-h-factor/)
+
+---
+
+Chick Korea RIP. Through him we got to know the craziest drummer ever,
+[Dave Weckl](https://youtu.be/G5pmoSOE9CU?t=193). 
+
+---
+
+Dadamnphreaknoizphunk - "Chemical Funk" \#music
+
+[Link](https://youtu.be/cAMuvTVChgI)
+
+---
+
+Some early Zack Snyder buzz, on the Justice League recut (?) (soon to
+be released). In trailer has a character say "we live in a society",
+apparently a meme now come alive, ppl loving it. Meme based on
+
+[Link](https://youtu.be/LHhbdXCzt_A)
+
+.. then became a Joker thing, now Zack has a char voice it
+
+It's good.. keeping the fans happy. I hope new JL pans out.
+
+---
+
+Average surface elevation of Earth is 840 meters... most know "sea
+level" is not actually zero elevation level.. The real bottom is at
+the bottom of some the sea, ocean.. And there is a lota ocean!
+
+We all live on mountain tops IOW
+
+---
+
+Newton, other early modern phy computed all the time. It's fine to go
+off in an abstract direction but most phy teaching by default must be
+enmeshed with computation.
+
+---
+
+Landau wrote some fantastic books. Id listen to him.
+
+Landau: "There can be little argument that computation has become an
+essential element in all areas of physics, be it via simulation,
+symbolic manipulations, data manipulations, equipment
+interfacing... [E]ven though the style of teaching and organization of
+subjects being taught by physics departments have changed in recent
+times, the actual content of the courses has been slow to incorporate
+the new-found importance of computation. Yes, there are now speciality
+courses and many textbooks in Computational Physics, but that is not
+the same thing as incorporating computation into the very heart of a
+modern physics curriculum so that the physics being taught today more
+closely resembles the physics being done today"
+
+---
+
+Creator is [more likely](2015/04/god.md)
+
+"Which is likely? Creator or not?"
+
+---
+
+By turning something into a process, we dont automatically remove "an
+omnipotent creator" from the picture. Everyone likes the invention of
+evolution. "God did not create the final thing, it was an evolutionary
+process". Boom. Darwin is world famous.
+
+"Well now let's apply that to the universe".. thought some? "God did
+not make it happen, it started from a small seed, turned into
+everything we see"
+
+Except the creator isnt exactly removed from the picture, ie the most
+enthusiastic supporters of Big Bang were and are the Clergy. That one
+one focused, 'big' creational event must have jelled more with their
+view of the creator.
+
+But an omnipo being can bring stuff into existence, close to what they
+are now, just as easily as some magic process that will evolve stuff
+into as they are now. Dont want to assume either way, what I am saying
+is opting for long-running process just to remove the Big Guy is not
+necessarily more scientific.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are pleased to join a public and corporate initiative for developing a <a href="https://twitter.com/hashtag/European?src=hash&amp;ref_src=twsrc%5Etfw">#European</a> hub for <a href="https://twitter.com/hashtag/green?src=hash&amp;ref_src=twsrc%5Etfw">#green</a> <a href="https://twitter.com/hashtag/fuels?src=hash&amp;ref_src=twsrc%5Etfw">#fuels</a> in Denmark’s Trekantomraadet. Everfuel’s <a href="https://twitter.com/hashtag/HySynergy?src=hash&amp;ref_src=twsrc%5Etfw">#HySynergy</a> project in Fredericia is a leading facility in the hub and planning for its Phase II expansion is well underway. <a href="https://t.co/LGJkh1BRyD">pic.twitter.com/LGJkh1BRyD</a></p>&mdash; Everfuel (@EverfuelEU) <a href="https://twitter.com/EverfuelEU/status/1360163685990338561?ref_src=twsrc%5Etfw">February 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

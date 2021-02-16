@@ -1,109 +1,86 @@
 # Tweets
 
-Forbes: "Hyzon, A Hydrogen Fuel Cell Truck Maker, In SPAC Deal Valued At $2.6 Billion"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FuelCell Energy’s baseload power solutions deliver grid reliability with efficient and clean energy in the most extreme weather conditions. No wind, no sun, no problem. FuelCell Energy, always on. Stay powered. Stay warm. Stay safe. <a href="https://twitter.com/ERCOT_ISO?ref_src=twsrc%5Etfw">@ERCOT_ISO</a> <a href="https://t.co/bcUxkClecA">https://t.co/bcUxkClecA</a></p>&mdash; FuelCell Energy (@FuelCell_Energy) <a href="https://twitter.com/FuelCell_Energy/status/1361392708695261185?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Hydrogen pumping stations are all over California and could be in the
-Denver metro area by the end of this year. "
-
-[Link](https://coloradosun.com/2021/02/11/when-is-clean-hydrogen-fuel-coming-for-colorado-cars-and-who-needs-to-get-ready/)
-
----
-
-"The H-Factor" 👍
-
-"In a grand, clean energy strategy published in mid-December, a brain
-trust of cross-sector Canadian savants predicted that hydrogen-powered
-locomotion—already nicknamed “hydrail”—would be ready for testing some
-time about 2025, first in the form of yard switchers, short-leashed to
-their refueling stations.
-
-The very next day, Dec. 18, Canadian Pacific (CP) smashed that
-timeline, and woke the North American rail industry"
-
-[Link](https://www.railwayage.com/mechanical/locomotives/the-h-factor/)
+They apparently installed a remote access software so system could be
+controlled from anywhere... But if something is accessible, connected
+to the Net, hackers can access it too.
 
 ---
 
-Chick Korea RIP. Through him we got to know the craziest drummer ever,
-[Dave Weckl](https://youtu.be/G5pmoSOE9CU?t=193). 
+They need to take that shite off the Internet.
+
+"Hacker tries to poison water supply of Florida city"
 
 ---
 
-Dadamnphreaknoizphunk - "Chemical Funk" \#music
+If an area as large as Texas was covered with panels today, it would
+[provide](2019/05/bezos-space-infrastructure.md#energy) ample energy,
+twice of what is required actually, for the entire world.
 
-[Link](https://youtu.be/cAMuvTVChgI)
-
----
-
-Some early Zack Snyder buzz, on the Justice League recut (?) (soon to
-be released). In trailer has a character say "we live in a society",
-apparently a meme now come alive, ppl loving it. Meme based on
-
-[Link](https://youtu.be/LHhbdXCzt_A)
-
-.. then became a Joker thing, now Zack has a char voice it
-
-It's good.. keeping the fans happy. I hope new JL pans out.
+"If we run out of solar panel space on Earth, should we colonize space
+for sunlight (through Stanford torus / O'Neil cylinder)"
 
 ---
 
-Average surface elevation of Earth is 840 meters... most know "sea
-level" is not actually zero elevation level.. The real bottom is at
-the bottom of some the sea, ocean.. And there is a lota ocean!
-
-We all live on mountain tops IOW
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">MUST-WATCH: Prime Minister <a href="https://twitter.com/BorisJohnson?ref_src=twsrc%5Etfw">@BorisJohnson</a> confirms UK will be &quot;putting a big bet on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>&quot; <a href="https://twitter.com/KwasiKwarteng?ref_src=twsrc%5Etfw">@KwasiKwarteng</a> <a href="https://twitter.com/annietrev?ref_src=twsrc%5Etfw">@annietrev</a> <a href="https://twitter.com/ASollowayUK?ref_src=twsrc%5Etfw">@ASollowayUK</a> <a href="https://twitter.com/grahamstuart?ref_src=twsrc%5Etfw">@grahamstuart</a> <a href="https://twitter.com/grantshapps?ref_src=twsrc%5Etfw">@grantshapps</a> <a href="https://twitter.com/redditchrachel?ref_src=twsrc%5Etfw">@redditchrachel</a> <a href="https://twitter.com/JacobYoungMP?ref_src=twsrc%5Etfw">@JacobYoungMP</a> <a href="https://twitter.com/Alex_Stafford?ref_src=twsrc%5Etfw">@Alex_Stafford</a> <a href="https://twitter.com/Jesse_Norman?ref_src=twsrc%5Etfw">@Jesse_Norman</a> <a href="https://twitter.com/samuelhall0?ref_src=twsrc%5Etfw">@samuelhall0</a> <a href="https://twitter.com/griffitha?ref_src=twsrc%5Etfw">@griffitha</a> <a href="https://twitter.com/GregClarkMP?ref_src=twsrc%5Etfw">@GregClarkMP</a> <a href="https://twitter.com/darrenpjones?ref_src=twsrc%5Etfw">@darrenpjones</a> <a href="https://t.co/jgKppXExeS">pic.twitter.com/jgKppXExeS</a></p>&mdash; UK Hydrogen Strategy Now (@UKHydrogenNow) <a href="https://twitter.com/UKHydrogenNow/status/1361033188932526082?ref_src=twsrc%5Etfw">February 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Newton, other early modern phy computed all the time. It's fine to go
-off in an abstract direction but most phy teaching by default must be
-enmeshed with computation.
+As policy I'd encourage only megawatt scale of this tech, to be used
+at a few power plants, easy to regulate. At end-user level, no, bcz it
+would be much harder to control, and if reg is flaunted, its side
+effects would be severe. End user only gets the renewable fuel,
+pipelines transmit only renewable fuel.
+
+"Bloom also intends to complete work on technology capable of
+capturing and extracting carbon from the emissions of its
+natural-gas-powered fuel cells. The company is 'working very hard to
+demonstrate' the ability to combine 'blue hydrogen' production, or
+turning methane into hydrogen and capturing the carbon emissions, with
+electricity production"
 
 ---
 
-Landau wrote some fantastic books. Id listen to him.
-
-Landau: "There can be little argument that computation has become an
-essential element in all areas of physics, be it via simulation,
-symbolic manipulations, data manipulations, equipment
-interfacing... [E]ven though the style of teaching and organization of
-subjects being taught by physics departments have changed in recent
-times, the actual content of the courses has been slow to incorporate
-the new-found importance of computation. Yes, there are now speciality
-courses and many textbooks in Computational Physics, but that is not
-the same thing as incorporating computation into the very heart of a
-modern physics curriculum so that the physics being taught today more
-closely resembles the physics being done today"
+You have to watch for these tech types.. even when they're scaring
+you, they might be selling you. Like 'be scared of AI, boo!', the
+indirect message being it is *that good*. U see.. ? Then seque into
+'i've got some of that same tech that for your house, for your
+lawnmower'.. (but no worries i had my people write it, and im the
+caution guy here, so be afraid for other stuff but not my shit, and
+buy it, quick!)'. Obviously they are full of shit, tech aint that
+good, it's all hot air. 
 
 ---
 
-Creator is [more likely](2015/04/god.md)
+Some earthquake plotting.. EQ of past 90 days, old to new is colored
+light to dark, circle width is severity. The hope is maybe seeing a
+geo progression of eq with a final big one culminating at the end..
+Always looking for an angle ere.. But Japan surely gets a lot of
+quakes
 
-"Which is likely? Creator or not?"
+Retrieval [code](https://muratk3n.github.io/thirdwave/en/tweets/2021/util.py)
 
----
+```python
+import cartopy.crs as ccrs, cartopy, util
+df = util.get_eq1()
+fig = plt.figure(figsize=(20, 20))
+ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
+ax.set_global()
+ax.stock_img()
+ax.coastlines()
+ago = np.max(df.ago)-df.ago
+s = np.power(3,df.mag)
+ax.scatter(df.lon, df.lat, c=df.ago, \
+           cmap=plt.cm.Reds, s=s, alpha=0.7,  \
+	   transform=ccrs.PlateCarree())
+ax.set_extent([94, 161, -10, 54], crs=ccrs.PlateCarree())
+plt.savefig('eq.png')
+```
 
-By turning something into a process, we dont automatically remove "an
-omnipotent creator" from the picture. Everyone likes the invention of
-evolution. "God did not create the final thing, it was an evolutionary
-process". Boom. Darwin is world famous.
-
-"Well now let's apply that to the universe".. thought some? "God did
-not make it happen, it started from a small seed, turned into
-everything we see"
-
-Except the creator isnt exactly removed from the picture, ie the most
-enthusiastic supporters of Big Bang were and are the Clergy. That one
-one focused, 'big' creational event must have jelled more with their
-view of the creator.
-
-But an omnipo being can bring stuff into existence, close to what they
-are now, just as easily as some magic process that will evolve stuff
-into as they are now. Dont want to assume either way, what I am saying
-is opting for long-running process just to remove the Big Guy is not
-necessarily more scientific.
+<img width="340" src="https://pbs.twimg.com/media/EuU1vkRXUAEAAcx?format=jpg&name=small"/>
 
 ---
 
