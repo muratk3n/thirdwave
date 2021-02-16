@@ -30,6 +30,13 @@ for sunlight (through Stanford torus / O'Neil cylinder)"
 
 ---
 
+Anyone at gov trusting their regulatory pizazz and implicitely trusts
+companies shoud think again. The VW emission cheating happened under
+gov which wasnt known for widespread incomp and done by a German
+company hailing from a country geared towards order.
+
+---
+
 As policy I'd encourage only megawatt scale of this tech, to be used
 at a few power plants, easy to regulate. At end-user level, no, bcz it
 would be much harder to control, and if reg is flaunted, its side
