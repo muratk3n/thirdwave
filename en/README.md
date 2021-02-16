@@ -51,8 +51,7 @@ indirect message being it is *that good*. U see.. ? Then seque into
 'i've got some of that same tech that for your house, for your
 lawnmower'.. (but no worries i had my people write it, and im the
 caution guy here, so be afraid for other stuff but not my shit, and
-buy it, quick!)'. Obviously all bunk, General "AI" tech aint that
-good, it's all hot air.
+buy it, quick!)'. Obviously all bunk, "AI" tech aint that good =  hot air.
 
 ---
 
