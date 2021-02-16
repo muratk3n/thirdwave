@@ -17,7 +17,9 @@ They need to take that shite off the Internet.
 ---
 
 Obviously long-term colonization cant be on Moon or Mars, they have
-the wrong gravity. Your bones will fall off. 
+the wrong gravity, and little chance for terraforming. You will be
+stuck in encampents forever and eventually your f-ing bones will fall
+off.
 
 ---
 
