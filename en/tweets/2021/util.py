@@ -1,3 +1,4 @@
+from quakefeeds import QuakeFeed
 import requests, time, datetime
 
 def get_eq1():
@@ -25,3 +26,18 @@ def get_eq1():
     df = df.set_index(0)
     df.columns = ['mag','lat','lon','rad','ago']
     return df
+
+def get_eq2():
+    feed = QuakeFeed("4.5", "month")
+    res = []
+    for i in range(len(feed)):
+        d = datetime.datetime.fromtimestamp(feed[i]['properties']['time']/1000.0)
+        s = feed[i]['properties']['mag']
+        res.append([d,s])
+    df = pd.DataFrame(res).sort_values(by=0)
+    df = df.set_index(0)
+    df.columns = ['Magnitude']
+    return df
+
+
+
