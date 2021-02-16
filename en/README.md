@@ -6,7 +6,7 @@
 
 They apparently installed a remote access software so system could be
 controlled from anywhere... But if something is accessible, connected
-to the Net, hackers can access it too.
+to the Net, hackers can also access 
 
 ---
 
