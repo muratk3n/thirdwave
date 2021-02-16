@@ -63,8 +63,8 @@ buy it, quick!)'. Obviously all bunk, "AI" tech aint that good =  hot air.
 ---
 
 Some earthquake plotting.. EQ of past 90 days, old to new is colored
-light to dark, circle width is severity. The hope is maybe seeing a
-geo progression of eq with a final big one culminating at the end..
+light to dark, circle width is severity. The hope was maybe seeing a
+geo progression of eq culminating with a final big one at the end..
 Always looking for an angle here..
 
 But Japan surely gets a lot of quakes
