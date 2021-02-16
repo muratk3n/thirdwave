@@ -30,10 +30,11 @@ for sunlight (through Stanford torus / O'Neil cylinder)"
 
 ---
 
-Anyone at gov trusting their regulatory pizazz and implicitely trusts
-companies shoud think again. The VW emission cheating happened under
-gov which wasnt known for widespread incomp and done by a German
-company hailing from a country geared towards order.
+Any gov ppl perhaps over-trusting their regulatory pizzazz and
+implicitely trusts companies should think again. The VW emission
+cheating happened under gov which wasnt known for widespread incomp
+and done by a German company hailing from a country geared towards
+order.
 
 ---
 
