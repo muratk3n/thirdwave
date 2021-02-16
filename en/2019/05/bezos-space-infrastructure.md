@@ -31,9 +31,8 @@ return-to-moon announcement, that'll work for their favor.
 
 ## Energy
 
-Not sure of the energy use projections though.  The 10,000 Watts /
-person is probably from *Seeding the Universe with Life* By Michael
-Noah Mautner. But fin, let's take that as is,
+The 10,000 Watts / person is probably from *Seeding the Universe with
+Life* By Michael Noah Mautner. But fine, let's take that as is,
 
 ```python
 wattperPerson = 10000
