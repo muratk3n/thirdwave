@@ -32,8 +32,8 @@ for sunlight (through Stanford torus / O'Neil cylinder)"
 
 Any gov perhaps over-trusting their regulatory pizzazz and implicitly
 trusts companies should think again. The VW emission cheating happened
-under gov which wasnt known for widespread incomp and done by a German
-company hailing from a country geared towards order.
+under gov which wasnt known for widespread incomp and done by a
+company hailing from a country assoc with *ordnung*.
 
 ---
 
