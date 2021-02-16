@@ -75,8 +75,8 @@ print ("%0.2f TW" % (157481. / (365*24)))
 17.98 TW
 ```
 
-So panels covering all of Texas can supply more than the energy needed
-today.
+Hence panels covering a Texas size area can supply more than the
+energy needed today.
 
 Important point 10 KW / person is a first-world number. Not everyone
 in the world is there yet. Plus first world is in luxurious
