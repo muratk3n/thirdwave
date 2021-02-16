@@ -16,13 +16,6 @@ They need to take that shite off the Internet.
 
 ---
 
-Obviously long-term colonization cant be on Moon or Mars, they have
-the wrong gravity, and little chance for terraforming. You will be
-stuck in encampents forever and eventually your f-ing bones will fall
-off.
-
----
-
 If an area as large as Texas was covered with panels today, it would
 [provide](2019/05/bezos-space-infrastructure.md#energy) ample energy,
 twice of what is required actually, for the entire world. Colonization
