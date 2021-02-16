@@ -37,11 +37,11 @@ company hailing from a country assoc with *ordnung*.
 
 ---
 
-As policy I'd encourage only megawatt scale of this tech, to be used
-at a few power plants, easy to regulate. At end-user level, no, bcz it
-would be much harder to control, and if reg is flaunted, its side
-effects would be severe. End user only gets the renewable fuel,
-pipelines transmit only renewable fuel.
+As policy megawatt scale of this tech to be used at a few power plants
+is fine, easy to regulate. End-user level, no. Much harder to control,
+and if reg is flaunted, side effects would be severe.
+
+End-user gets the renewable fuel, ditto for pipelines.
 
 "Bloom also intends to complete work on technology capable of
 capturing and extracting carbon from the emissions of its
