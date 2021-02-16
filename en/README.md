@@ -58,8 +58,9 @@ good, it's all hot air.
 Some earthquake plotting.. EQ of past 90 days, old to new is colored
 light to dark, circle width is severity. The hope is maybe seeing a
 geo progression of eq with a final big one culminating at the end..
-Always looking for an angle ere.. But Japan surely gets a lot of
-quakes
+Always looking for an angle here..
+
+But Japan surely gets a lot of quakes
 
 Retrieval [code](https://muratk3n.github.io/thirdwave/en/tweets/2021/util.py)
 
