@@ -26,9 +26,9 @@
 
 [Ancient](../../2020/07/ancient.md)
 
-[God](/2015/04/god.md)
+[God](../../2015/04/god.md)
 
-[Religion](/2015/04/religion.md)
+[Religion](../../2015/04/religion.md)
 
 
 [[⇪Up]](../..)
