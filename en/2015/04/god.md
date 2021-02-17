@@ -5,13 +5,17 @@ Is there a creator?
 Let $F$ be the event something appears organized, and $G$ that there is
 a creator. Goal is trying to prove the probability $P(G|F) > P(~G|F)$;
 the tilde sign means "not", the negation of the event, the | sign
-means "given", i.e. `P(A|B)` is probability of A given B, that is,
+means "given", i.e. $P(A|B)$ is probability of A given B, that is,
 assuming B happened, what's the likelihood of A. Using the Bayes
 Theorem,
 
-$P(G|F) = P(F|G)P(G) / P(F)$
+$$
+P(G|F) = P(F|G)P(G) / P(F)
+$$
 
-$P(~G|F) = P(F|~G)P(~G) / P(F)$
+$$
+P(~G|F) = P(F|~G)P(~G) / P(F)
+$$
 
 Geeks can notice the trick there; we flipped the probabilities, so we
 could start from something we know. Everyone agrees $P(F|G) > P(F|~G)$,
