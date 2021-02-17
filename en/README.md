@@ -4,8 +4,7 @@
 
 ---
 
-Wind turbine freezing was not the main factor then.. I saw some cons
-jumped the shark.
+Wind turbine freezing was not the main factor then.. 
 
 "@GregAbbott_TX
 
@@ -82,7 +81,7 @@ plt.savefig('atw_01.png')
 
 ---
 
-Nice try genius. See above. I plotted February averages for Austin, TX
+Nice try genius. See above. Plotted February averages for Austin, TX
 per year, since 1940. The trend is up.
 
 "Aw man the weather is cold in TX, that means no glob warming"
