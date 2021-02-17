@@ -58,7 +58,8 @@ gasoline and could revolutionize the transport industry"
 
 ---
 
-Name any city and that'll be plotted too. I can do this all day.. let's go.
+Name any city and that'll be plotted too. I can do this all
+day.. let's go buddy.
 
 ---
 
@@ -74,7 +75,7 @@ df.Value.plot()
 df['Trend'] = df.Value.rolling(window=30).mean()
 df['Trend'] = df['Trend'].fillna(method='backfill')
 df.Trend.plot()
-plt.savefig('atw_01.png')
+plt.savefig('austin-feb.png')
 ```
 
 <img width="340" src="https://pbs.twimg.com/media/EuaOFq7XYAIWnP1?format=png&name=small"/>
