@@ -77,7 +77,7 @@ df.Trend.plot()
 plt.savefig('atw_01.png')
 ```
 
-![](atw_01.png)
+<img width="340" src="https://pbs.twimg.com/media/EuaOFq7XYAIWnP1?format=png&name=small"/>
 
 ---
 
