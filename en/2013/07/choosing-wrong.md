@@ -1,12 +1,32 @@
 # Choosing Wrong
 
-Before the 2008/9 election Toffler was asked, during an interview, which candidate he was going to vote for. He answered that he and Heidi [Toffler] would vote for Obama because "[paraphrasing] it was important to show to the world US can elect a black president".
+Before the 2008/9 election Toffler was asked, during an interview,
+which candidate he was going to vote for. He answered that he and
+Heidi [Toffler] would vote for Obama because "[paraphrasing] it was
+important to show to the world US can elect a black president".
 
-That's all. If you know his writings and read between the lines however, what he meant was this: the election of Bam is good PR but other than that, whichever fool gets the top job does not matter. ... My senpai is much less forgiving on the political class than I. Personally I still think there is a shred of hope left these people yet (but my hopes, especially for US, is dwindling by the day).
+That's all. If you know his writings and read between the lines
+however, what he meant was this: the election of Bam is good PR but
+other than that, whichever fool gets the top job does not
+matter. ... My senpai is much less forgiving on the political class
+than I. Personally I still think there is a shred of hope left these
+people yet (but my hopes, especially for US, is dwindling by the day).
 
-The record somewhat confirms the cynical view, not mine: it can be argued, the US electorate did not, could not elect the "right guy" for decades.
+The record somewhat confirms the cynical view, not mine: it can be
+argued, the US electorate did not, could not elect the "right guy" for
+decades.
 
-IMO things really started going wrong with Kennedy's election. It's no secret that JFK (an ESFP -gets bored easily, acts tactically, wants to look "brave"-) was elected due to TV effect. His opponent Nixon (an INTJ -his exact mirror image by the way-) kept sweating profusely during the TV debate (what's with this sweating and INTJs?) generally looked shady, henceforth suffered the losses at the ballot box. But, was JFK truly the better candidate? As Prez Kennedy escalated the war in Vietnam, Nixon ended it. JFK played a dangerous game of chicken during missile crisis [1], Nixon engaged China. JFK's "extracurricular" activities got him into trouble, Nixon was sufficiently boring.
+IMO things really started going wrong with Kennedy's election. It's no
+secret that JFK (an ESFP -gets bored easily, acts tactically, wants to
+look "brave"-) was elected due to TV effect. His opponent Nixon (an
+INTJ -his exact mirror image by the way-) kept sweating profusely
+during the TV debate (what's with this sweating and INTJs?) generally
+looked shady, henceforth suffered the losses at the ballot box. But,
+was JFK truly the better candidate? As Prez Kennedy escalated the war
+in Vietnam, Nixon ended it. JFK played a dangerous game of chicken
+during missile crisis [1], Nixon engaged China. JFK's
+"extracurricular" activities got him into trouble, Nixon was
+sufficiently boring.
 
 Nixon did finally got the top job, but maybe, he should've gotten there earlier (same for Reagan) - JFK years in hinsight look like a waste of time.
 
