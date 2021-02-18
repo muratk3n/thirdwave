@@ -77,7 +77,7 @@ pay publishers for content"
 
 ---
 
-people power
+People power 
 
 "Keith Gill, known as 'Roaring Kitty' on YouTube, allegedly duped
 retail investors into buying inflated stocks while hiding his
