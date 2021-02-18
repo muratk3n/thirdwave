@@ -186,6 +186,34 @@ plt.savefig('bti-compare.png')
 
 ![](bti-compare.png)
 
+Democracy Barometer
+
+[Data](https://democracybarometer.org/data-and-documentation/)
+
+
+```python
+import zipfile
+with zipfile.ZipFile('db.zip', 'r') as z:
+   df = pd.read_csv(z.open('DB_data_2020_all_data_Standardised.csv'),sep=';') 
+   df = df[['Year','DQ']].groupby('Year').mean()   
+   print (df.tail(5))
+   df.plot()
+   
+plt.savefig('db-all.png')
+```
+
+```text
+            DQ
+Year          
+2013  3.870913
+2014  3.855549
+2015  3.857140
+2016  3.864331
+2017  3.821315
+```
+
+![](db-all.png)
+
 
 References
 

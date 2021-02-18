@@ -87,7 +87,7 @@ sophisticated financial background"
 
 ---
 
-Automation is mostly abt mechanitronics, control theory, robotics.. eg
+Automation is mostly abt mechatronics, control theory, robotics.. eg
 the famous Boston Dynamics robots.. none of them require so-called
 "AI" as in nnets trained with gazillions of data.
 
