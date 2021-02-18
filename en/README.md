@@ -9,8 +9,8 @@ Covid-19 issues, went on strike, & filed health complaints"
 
 Forbes: "In July 2020, Microsoft tested hydrogen fuel cells for backup
 power at its data centers. This move aligns with its commitment to be
-carbon negative by 2030 and eliminate dependency on diesel fuel by
-2030. While still in the exploratory stages of using fuel cells as
+carbon negative by 2030 and eliminate dependency on diesel fuel by 2030.
+While still in the exploratory stages of using fuel cells as
 backup generators, the company hopes to scale the 250 kW system to a 3
 MW system, which is equivalent to diesel-powered generators currently
 at its data centers...
