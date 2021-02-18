@@ -3,31 +3,26 @@
 [George Friedman](https://www.youtube.com/watch?v=mkSk7hKudpA)
 
 The United States went to war in Vietnam for multiple reasons but the
-basic reason was Charles DeGaulle the American strategy at the time
+basic reason was Charles De Gaulle. The American strategy at the time
 was to contain the Soviet Union with a string of alliances swinging
-from Norway all the way through ran and blocked them through expanding
-charles de gaulle came along and said you can't trust the americans
-because if they ever attacked the Americans wouldn't come and they
-were a night to go to fight for you you're going to be left alone we
-have to form our own NATO independent of the United States during the
-Vietnam War there's a word that became incredibly important
-credibility credibility meant that how credible were the American
-guarantees to this all-important structure of containment how credible
-was it that we would come to Germany's aid or Japan's aid with
-everything we had if they were a war and a terrible fear that time was
-that these people would lose confidence in us. So part of the reason
-we went to Vietnam had nothing to do with Vietnam the fear was that if
-we didn't go to Vietnam our credibility with our other allies would be
-gone and the entire American strategy will collapse on that basis
-there was no expectation we wind up 50,000 dead on that basis the
+from Norway all the way through [Vietnam], and blocked them through
+expanding [alliances]. Charles de Gaulle came along and said "you
+can't trust the americans because if they ever attacked the Americans
+wouldn't come ...  you you're going to be left alone we have to form
+our own NATO independent of the United States". During the Vietnam War
+there's a word that became incredibly important *credibility*.
+Credibility meant that how credible were the American guarantees to
+this all-important structure of containment, how credible was it that
+we would come to Germany's aid, or Japan's aid with everything we had,
+if they were a war. And a terrible fear that time was that these
+people would lose confidence in us. So part of the reason we went to
+Vietnam had nothing to do with Vietnam the fear was that if we didn't
+go to Vietnam our credibility with our other allies would be gone and
+the entire American strategy will collapse on that basis. There was no
+expectation [we would end up with] 50,000 dead, on that basis the
 expectation was that we would go into a small police action we may win
-it we may lose it but the Germans would know that our guarantee means
-something and to a very great extent in my opinion worrying about how
-the Europeans react if we didn't go in it's important now the fact was
-the D Europeans criticized the United States are going in but if we
-hadn't gone in they would have really panicked they would have really
-potentially said his NATO worth anything is this Japan's guarantees
-worth anything?
+it, we may lose it, but the Germans would know that our guarantee
+means something.
 
 LBJ Biography, *Into the Quagmire*
 
