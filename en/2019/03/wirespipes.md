@@ -39,18 +39,15 @@ use electricity efficiently you would have to install expensive heat
 pumps in every house. Green gas can also be used for vehicles, as
 compressed natural gas already is. 
 
------
+<a name='doe'/>
 
-The main push for "electrifying everything" comes mainly from ppl with
-computer science background, who are not familiar with chemistry, and
-materials. Fuels are seen as "ew - that's like liquid man, so dirty",
-and BEV logic comes from "I have a battery on my laptop why can't I,
-like, put that on a car?". I guarantee it, the thinking behind that
-choice is nothing more than this.
+[US Department of Energy](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
 
-But when you run the numbers the pipe advantage becomes clear. From
-energy density during transport, to storage to consumption,
-"molecules" come out on top everytime.
-
-
+Approximately 1,600 miles of hydrogen pipelines are currently
+operating in the United States. Owned by merchant hydrogen producers,
+these pipelines are located where large hydrogen users, such as
+petroleum refineries and chemical plants, are concentrated such as the
+Gulf Coast region. Transporting gaseous hydrogen via existing
+pipelines is a low-cost option for delivering large volumes of
+hydrogen
 
