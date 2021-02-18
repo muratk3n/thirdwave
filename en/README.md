@@ -25,10 +25,10 @@ aerospace engineering at the University of California, Irvine]"
 
 ---
 
-Yes. And inflation risk is a major risk for bonds / treasuries, the
-pricing of which reflects the market's perception of future inflation,
-and indirectly growth (growth => rising wages => more money in
-circulation, inflation). 
+Yes. And inflation is a major risk for bonds / treasuries, the pricing
+of which reflects the market's perception of future inflation, and
+indirectly growth (growth => rising wages => more money in
+circulation, inflation).
 
 "Inflation will also affect interest rate levels. The higher the
 inflation rate, the more interest rates are likely to rise. This
