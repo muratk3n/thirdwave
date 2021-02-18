@@ -1,106 +1,122 @@
 # Tweets
 
-<iframe width="340" src="https://www.youtube.com/embed/kir0DI9AnOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@josheidelson
+
+California fines McDonald's franchisee for firing 4 workers who raised
+Covid-19 issues, went on strike, & filed health complaints"
 
 ---
 
-Wind turbine freezing was not the main factor then.. 
+Forbes: "In July 2020, Microsoft tested hydrogen fuel cells for backup
+power at its data centers. This move aligns with its commitment to be
+carbon negative by 2030 and eliminate dependency on diesel fuel by
+2030. While still in the exploratory stages of using fuel cells as
+backup generators, the company hopes to scale the 250 kW system to a 3
+MW system, which is equivalent to diesel-powered generators currently
+at its data centers...
 
-"@GregAbbott_TX
+When comparing levelized costs for a completely resilient, 100%
+renewable data center with zero emissions, hydrogen is 119 dollar/MWh,
+while batteries could be over 4,000 dollar/MWh to ensure 48 hours of
+backup power [.. from Jack Brouwer, a professor of mechanical and
+aerospace engineering at the University of California, Irvine]"
 
-The Texas power grid has not been compromised.
-
-The ability of some companies that generate the power has been frozen. 
-
-This includes the natural gas & coal generators.
-
-They are working to get generation back on line"
-
----
-
-Dude. Lumber futures..
-
-[Link](https://mobile.twitter.com/crampell/status/1361699251827470338)
+[Link](https://www.forbes.com/sites/guidehouse/2021/02/11/big-tech-looks-to-hydrogen-for-backup-generation-at-data-centers/?sh=6acfd3d32457)
 
 ---
 
-Business Insider: "This hydrogen paste has a similar range to that of
-gasoline and could revolutionize the transport industry"
+Yes. And inflation risk is a major risk for bonds / treasuries, the
+pricing of which reflects the market's perception of future inflation,
+and indirectly growth (growth => rising wages => more money in
+circulation, inflation). 
 
-[Link](https://www.businessinsider.com/car-bike-tesla-amazon-gates-bezos-climate-change-fuel-drone-2021-2)
-
----
-
-"@byHeatherLong
-
-26 states had revenue declines last year The toll was felt by both Dem
-& Repub-led states Gov't jobs cuts have occurred in nearly every state
-
-26% NH
-
-17% Colorado
-
-14% Ohio
-
-13% Wisconsin
-
-12% Michigan
-
-12% Maine
-
-12% Kentucky"
+"Inflation will also affect interest rate levels. The higher the
+inflation rate, the more interest rates are likely to rise. This
+occurs because lenders will demand higher interest rates as
+compensation for the decrease in purchasing power of the money they
+are paid in the future"
 
 ---
 
-"Say Hy to the home of the future"
+"@TheEIU
 
-[Link](https://cadentgas.com/future-of-gas/projects/hydrogen-home)
+\#Taiwan was the biggest winner in this year's Democracy Index,
+climbing 20 places up the global rankings and gaining 'full democracy'
+status"
 
----
-
-Name any city and that'll be plotted too. I can do this all
-day.. let's go buddy.
-
----
-
-[Data](https://www.ncdc.noaa.gov/cag/city/time-series)
-
-```python
-import pandas as pd
-
-df = pd.read_csv('austin-feb.csv')
-df.Date = pd.to_datetime(df.Date,format="%Y%m")
-df = df.set_index('Date')
-df.Value.plot()
-df['Trend'] = df.Value.rolling(window=30).mean()
-df['Trend'] = df['Trend'].fillna(method='backfill')
-df.Trend.plot()
-plt.savefig('austin-feb.png')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/EuaOFq7XYAIWnP1?format=png&name=small"/>
+[Link](https://econ.st/2N6dlZK)
 
 ---
 
-Nice try genius. See above. Plotted February averages for Austin, TX
-per year, since 1940. The trend is up.
+"@nytopinion
 
-"Aw man the weather is cold in TX, that means no glob warming"
+'The fear of inflation has become a greater threat to the American
+economy than inflation itself,' @BCAppelbaum writes"
 
----
-
-Tax havens: ... Ankara must share its banking data with the Member
-States of the European Union by the end of June, otherwise it will be
-placed on a “black list”.
-
-[Link](https://twitter.com/lemondefr/status/1361627449050738699)
+[Link](https://www.nytimes.com/2021/02/16/opinion/democrats-biden-inflation.html)
 
 ---
 
-"@StateDeptSpox
+Tempeh drumsticks? 😶 No 
 
-The Houthis’ assault on Marib shows they are not committed to peace or
-to ending a war afflicting the people of Yemen"
+---
+
+Like to have some tofurkey with that? 🤣
+
+---
+
+Pea protein? Sounds like pee protein!
+
+---
+
+AFAIK Goog agreed to a deal with Oz. But FB wants to rockn'roll?
+
+"Facebook blocks Australian users from viewing or sharing news.. It
+comes in response to a proposed law that would force the company to
+pay publishers for content"
+
+---
+
+people power
+
+"Keith Gill, known as 'Roaring Kitty' on YouTube, allegedly duped
+retail investors into buying inflated stocks while hiding his
+sophisticated financial background"
+
+[Link](https://www.bbc.com/news/business-56106824)
+
+---
+
+Automation is mostly abt mechanitronics, control theory, robotics.. eg
+the famous Boston Dynamics robots.. none of them require so-called
+"AI" as in nnets trained with gazillions of data.
+
+---
+
+Automation can do wonders.
+
+"Manufacturing Robots Speed Wind Farm Construction... Denmark has long
+been a world leader when it comes to renewable energy. In 2019, the
+country set a new record by sourcing a massive 47% of its electricity
+consumption from wind power alone. Today, manufacturing robots from
+Danish company Odico are set to revolutionize this pioneering industry
+even further"
+
+[Link](https://redshift.autodesk.com/manufacturing-robots)
+
+---
+
+[Interview](https://vimeo.com/509700374)
+
+BNEF Summit 2021: Firestarter - Cleaning Aviation, H2
+
+Paul Eremenko, Co-Founder & CEO, [Universal Hydrogen Company](https://www.hydrogen.aero/)
+
+Alejandro Zamorano-Cadavid, Specialist, Intelligent Mobility, BloombergNEF
+
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1X2JgoAxp2tH1AH_WasNHa_QoIxkL8TvN">
+</audio>
 
 ---
 

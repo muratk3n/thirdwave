@@ -1,5 +1,109 @@
 # Week 7
 
+<iframe width="340" src="https://www.youtube.com/embed/kir0DI9AnOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Wind turbine freezing was not the main factor then.. 
+
+"@GregAbbott_TX
+
+The Texas power grid has not been compromised.
+
+The ability of some companies that generate the power has been frozen. 
+
+This includes the natural gas & coal generators.
+
+They are working to get generation back on line"
+
+---
+
+Dude. Lumber futures..
+
+[Link](https://mobile.twitter.com/crampell/status/1361699251827470338)
+
+---
+
+Business Insider: "This hydrogen paste has a similar range to that of
+gasoline and could revolutionize the transport industry"
+
+[Link](https://www.businessinsider.com/car-bike-tesla-amazon-gates-bezos-climate-change-fuel-drone-2021-2)
+
+---
+
+"@byHeatherLong
+
+26 states had revenue declines last year The toll was felt by both Dem
+& Repub-led states Gov't jobs cuts have occurred in nearly every state
+
+26% NH
+
+17% Colorado
+
+14% Ohio
+
+13% Wisconsin
+
+12% Michigan
+
+12% Maine
+
+12% Kentucky"
+
+---
+
+"Say Hy to the home of the future"
+
+[Link](https://cadentgas.com/future-of-gas/projects/hydrogen-home)
+
+---
+
+Name any city and that'll be plotted too. I can do this all
+day.. let's go buddy.
+
+---
+
+[Data](https://www.ncdc.noaa.gov/cag/city/time-series)
+
+```python
+import pandas as pd
+
+df = pd.read_csv('austin-feb.csv')
+df.Date = pd.to_datetime(df.Date,format="%Y%m")
+df = df.set_index('Date')
+df.Value.plot()
+df['Trend'] = df.Value.rolling(window=30).mean()
+df['Trend'] = df['Trend'].fillna(method='backfill')
+df.Trend.plot()
+plt.savefig('austin-feb.png')
+```
+
+<img width="340" src="https://pbs.twimg.com/media/EuaOFq7XYAIWnP1?format=png&name=small"/>
+
+---
+
+Nice try genius. See above. Plotted February averages for Austin, TX
+per year, since 1940. The trend is up.
+
+"Aw man the weather is cold in TX, that means no glob warming"
+
+---
+
+Tax havens: ... Ankara must share its banking data with the Member
+States of the European Union by the end of June, otherwise it will be
+placed on a “black list”.
+
+[Link](https://twitter.com/lemondefr/status/1361627449050738699)
+
+---
+
+"@StateDeptSpox
+
+The Houthis’ assault on Marib shows they are not committed to peace or
+to ending a war afflicting the people of Yemen"
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FuelCell Energy’s baseload power solutions deliver grid reliability with efficient and clean energy in the most extreme weather conditions. No wind, no sun, no problem. FuelCell Energy, always on. Stay powered. Stay warm. Stay safe. <a href="https://twitter.com/ERCOT_ISO?ref_src=twsrc%5Etfw">@ERCOT_ISO</a> <a href="https://t.co/bcUxkClecA">https://t.co/bcUxkClecA</a></p>&mdash; FuelCell Energy (@FuelCell_Energy) <a href="https://twitter.com/FuelCell_Energy/status/1361392708695261185?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
