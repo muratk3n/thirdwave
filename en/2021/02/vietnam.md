@@ -66,7 +66,7 @@ During his formative years, Johnson received little exposure to
 foreign affairs. “When I was a boy,” he later recalled, “we never had
 these issues of our relations with other nations so much. We didn’t
 wake up with Vietnam and have Santo Domingo for lunch and the Congo
-for dinner.” 12 LBJ focused his attention, quite naturally, on Texas
+for dinner.”. LBJ focused his attention, quite naturally, on Texas
 politics, which seemed far removed from international
 concerns. Johnson utilized his mastery of state affairs to launch a
 political career, first as assistant to south Texas Congressman
