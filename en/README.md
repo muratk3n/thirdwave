@@ -67,8 +67,8 @@ Texas has experienced staggering blackouts"
 
 ---
 
-With a quarter share of the power input, how likely is it to bring
-half the state's power system to a halt? \#frozenwindmill
+With a quarter share of the power input, how likely is it that wind
+energy brought half the state's power system to a halt? \#frozenwindmill
 
 ---
 
