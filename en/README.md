@@ -1,11 +1,5 @@
 # Tweets
 
-Fila Brazillia - Little Dipper \#music
-
-[Link](https://youtu.be/2zN7URKuX3o)
-
----
-
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
 [appeasement](2021/02/vietnam.md#lbj). Costly mistake.
 
