@@ -1,5 +1,19 @@
 # Tweets
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Im worried I’m not in enough group chats.</p>&mdash; Molly Jong-Fast🏡 (@MollyJongFast) <a href="https://twitter.com/MollyJongFast/status/1362574137990995970?ref_src=twsrc%5Etfw">February 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@chrislhayes
+
+I'll admit that I kind of lost track of this, but I was genuinely
+surprised to learn in the last few days that Americans can just fly to
+Mexico and then fly right back with no mandatory quarantine in the
+midst of a once-in-a-century global pandemic"
+
+---
+
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
 [appeasement](2021/02/vietnam.md#lbj). Costly mistake.
 
@@ -28,9 +42,11 @@ mission will continue in full consultation with #Iraq's government"
 
 ---
 
-Nothing wrong with wanting to remain seperate, etc. and I cld talk up
-bunch of fail-safe renewable measures here, but when u get hit like
-this, all at once, without outside lifeline, there will be blackouts.
+The Absurd Electric Bills Slamming Texans
+
+[Link](https://www.thedailybeast.com/dollar5152-power-bill-texas-winter-storm-hell-only-gets-worse)
+
+---
 
 The Atlantic: "The lower 48 U.S. states are divided into two big
 electrical grids—except for Texas, which maintains its own independent
