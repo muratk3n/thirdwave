@@ -1,122 +1,88 @@
 # Tweets
 
-"@josheidelson
+Fila Brazillia - Little Dipper \#music
 
-California fines McDonald's franchisee for firing 4 workers who raised
-Covid-19 issues, went on strike, & filed health complaints"
-
----
-
-Forbes: "In July 2020, Microsoft tested hydrogen fuel cells for backup
-power at its data centers. This move aligns with its commitment to be
-carbon negative by 2030 and eliminate dependency on diesel fuel by 2030.
-While still in the exploratory stages of using fuel cells as
-backup generators, the company hopes to scale the 250 kW system to a 3
-MW system, which is equivalent to diesel-powered generators currently
-at its data centers...
-
-When comparing levelized costs for a completely resilient, 100%
-renewable data center with zero emissions, hydrogen is 119 dollar/MWh,
-while batteries could be over 4,000 dollar/MWh to ensure 48 hours of
-backup power [.. from Jack Brouwer, a professor of mechanical and
-aerospace engineering at the University of California, Irvine]"
-
-[Link](https://www.forbes.com/sites/guidehouse/2021/02/11/big-tech-looks-to-hydrogen-for-backup-generation-at-data-centers/?sh=6acfd3d32457)
+[Link](https://youtu.be/2zN7URKuX3o)
 
 ---
 
-Yes. And inflation is a major risk for bonds / treasuries, the pricing
-of which reflects the market's perception of future inflation, and
-indirectly growth (growth => rising wages => more money in
-circulation, inflation).
-
-"Inflation will also affect interest rate levels. The higher the
-inflation rate, the more interest rates are likely to rise. This
-occurs because lenders will demand higher interest rates as
-compensation for the decrease in purchasing power of the money they
-are paid in the future"
+Why did LBJ escalate the Vietnam conflict? He saw the alternative as
+[appeasement](2021/02/vietnam.md). Costly mistake.
 
 ---
 
-"@TheEIU
+"@MaraHvistendahl
 
-\#Taiwan was the biggest winner in this year's Democracy Index,
-climbing 20 places up the global rankings and gaining 'full democracy'
-status"
-
-[Link](https://econ.st/2N6dlZK)
+SCOOP: The Oracle TikTok deal was supposed to prevent TikTok from
+passing data to Chinese police. Turns out Oracle has been marketing
+its own data analytics software to...Chinese police"
 
 ---
 
-"@nytopinion
+"Democrats plan big Medicaid expansion in Covid aid package"
 
-'The fear of inflation has become a greater threat to the American
-economy than inflation itself,' @BCAppelbaum writes"
-
-[Link](https://www.nytimes.com/2021/02/16/opinion/democrats-biden-inflation.html)
+[Link](https://www.politico.com/newsletters/politico-pulse/2021/02/10/democrats-plan-big-medicaid-expansion-in-covid-aid-package-793297)
 
 ---
 
-Tempeh drumsticks? 😶 No 
+"@jensstoltenberg
+
+Ministers decided to expand @IraqNato mission to support local forces
+in their fight against terrorism. We'll increase from 500 to around
+4000 personnel & include more security institutions & areas. #NATO's
+mission will continue in full consultation with #Iraq's government"
 
 ---
 
-Like to have some tofurkey with that? 🤣
+Nothing wrong with wanting to remain seperate, etc. and I cld talk up
+bunch of fail-safe renewable measures here, but when u get hit like
+this, all at once, without outside lifeline, there will be blackouts.
+
+The Atlantic: "The lower 48 U.S. states are divided into two big
+electrical grids—except for Texas, which maintains its own independent
+system. (Small, outlying parts of the state belong to the big grids.)
+The state maintains a separate grid to avoid having to comply with
+federal regulation. If Texas had been connected to the broader
+national grid, the state might have been able to borrow power that
+would have filled the hole left when large parts of the system failed
+in this storm: As demand for energy for heating surged, power plants
+went offline, equipment froze, and wind turbines froze too. Instead,
+Texas has experienced staggering blackouts"
+
+[Link](https://www.theatlantic.com/ideas/archive/2021/02/ted-cruz-no-hypocrite/618060/)
 
 ---
 
-Pea protein? Sounds like pee protein!
+<iframe width="340" src="https://www.youtube.com/embed/btQeM4ZAJOI?start=122&end=152" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-AFAIK Goog agreed to a deal with Oz. But FB wants to rockn'roll?
-
-"Facebook blocks Australian users from viewing or sharing news.. It
-comes in response to a proposed law that would force the company to
-pay publishers for content"
+With a quarter share of the power input, how likely is it to bring
+half the state's power system to a halt? \#frozenwindmill
 
 ---
 
-People Power 
-
-BBC: "Keith Gill, known as 'Roaring Kitty' on YouTube, allegedly duped
-retail investors into buying inflated stocks while hiding his
-sophisticated financial background"
-
-[Link](https://www.bbc.com/news/business-56106824)
+Biden: "Nobody should go to jail for a drug offense. No one should go
+to jail for the use of a drug. They should go to drug rehabilitation."
 
 ---
 
-Automation is mostly abt mechatronics, control theory, robotics.. eg
-the famous Boston Dynamics robots.. none of them require so-called
-"AI" as in nnets trained with gazillions of data.
+Europe pulls ahead in race for hydrogen, as global project pipeline grows
+
+[Link](https://mobile.reuters.com/article/amp/idUSKBN2AH0IB)
 
 ---
 
-Automation can do wonders.
+CNBC: "A subsidiary of multinational building materials firm
+Heidelberg Cement is working with researchers from Swansea University
+to install and operate a green hydrogen demonstration unit at a site
+in the U.K."
 
-"Manufacturing Robots Speed Wind Farm Construction... Denmark has long
-been a world leader when it comes to renewable energy. In 2019, the
-country set a new record by sourcing a massive 47% of its electricity
-consumption from wind power alone. Today, manufacturing robots from
-Danish company Odico are set to revolutionize this pioneering industry
-even further"
-
-[Link](https://redshift.autodesk.com/manufacturing-robots)
+[Link](https://www.cnbc.com/2021/02/15/cement-giants-turn-to-green-hydrogen-carbon-capture-to-curb-emissions.html	)
 
 ---
 
-Bloomberg NEF [Interview](https://vimeo.com/509700374)
-
-BNEF Summit 2021: Firestarter - Cleaning Aviation, H2
-
-Paul Eremenko, Co-Founder & CEO, [Universal Hydrogen Company](https://www.hydrogen.aero/)
-
-Alejandro Zamorano-Cadavid, Specialist, Intelligent Mobility, BloombergNEF
-
-<audio controls="controls">
-  <source src="https://drive.google.com/uc?export=view&id=1X2JgoAxp2tH1AH_WasNHa_QoIxkL8TvN">
-</audio>
+"Australians outraged after Facebook blocks news to protest revenue-sharing law"
 
 ---
 
