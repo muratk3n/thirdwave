@@ -7,7 +7,7 @@ Fila Brazillia - Little Dipper \#music
 ---
 
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](2021/02/vietnam.md). Costly mistake.
+[appeasement](2021/02/vietnam.md#lbj). Costly mistake.
 
 ---
 
