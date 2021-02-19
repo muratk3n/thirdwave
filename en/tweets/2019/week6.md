@@ -269,10 +269,6 @@ manslaughter :| How's that 4 a story?
 
 ---
 
-Samulelson Big Band - Boba #music
-
----
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A brilliant illustration of how much public space we&#39;ve surrendered to cars <a href="https://t.co/N5jV7T9AvK">pic.twitter.com/N5jV7T9AvK</a></p>&mdash; Farbod Saraf (@farbodsaraf) <a href="https://twitter.com/farbodsaraf/status/1091875190542348288?ref_src=twsrc%5Etfw">February 3, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

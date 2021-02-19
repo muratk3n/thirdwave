@@ -42,7 +42,7 @@ mission will continue in full consultation with #Iraq's government"
 
 ---
 
-The Absurd Electric Bills Slamming Texans
+"The Absurd Electric Bills Slamming Texans"
 
 [Link](https://www.thedailybeast.com/dollar5152-power-bill-texas-winter-storm-hell-only-gets-worse)
 
