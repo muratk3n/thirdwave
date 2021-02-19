@@ -15,7 +15,7 @@ midst of a once-in-a-century global pandemic"
 ---
 
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](2021/02/vietnam.md#lbj). Costly mistake.
+[appeasement](2021/02/vietnam.md#lbj). Costly decision.
 
 ---
 

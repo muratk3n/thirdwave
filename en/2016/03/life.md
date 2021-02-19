@@ -36,6 +36,8 @@ barn. This cosmic accident happened two months after man had first
 walked on the moon, at a time when scientists were itching to study
 extraterrestrial rocks.
 
+<a name='unique'/>
+
 As they scratched this itch, they found that the Murchison meteorite
 ferried a most unusual cargo. As old as the earth itself, it had
 wandered through outer space for eons, yet it contained several of the
