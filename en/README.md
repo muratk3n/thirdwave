@@ -37,6 +37,13 @@ The Guardian: "Uber drivers are workers, UK supreme court rules"
 
 ---
 
+"@BakerHugh
+
+People never lie so much as after a hunt, during a war or before an
+election --- Otto von Bismarck"
+
+---
+
 This gets better and better. Went awol, lied about why, then left pet home alone
 
 [Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
@@ -56,13 +63,6 @@ This guy cant catch a break. All self-inflicted of course.
 causes air contamination"
 
 [Link](https://www.dailymail.co.uk/sciencetech/article-9275621/amp/Will-blue-gas-kill-Tesla-New-emission-free-liquid-hydrocarbon-fuels-300-mile-trip-tank.html)
-
----
-
-"@BakerHugh
-
-People never lie so much as after a hunt, during a war or before an
-election --- Otto von Bismarck"
 
 ---
 
