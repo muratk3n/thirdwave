@@ -62,7 +62,7 @@ This guy cant catch a break. All self-inflicted of course.
 500,000 gallons of water per metric ton of lithium, harms the soil and
 causes air contamination"
 
-[Link](https://www.dailymail.co.uk/sciencetech/article-9275621/amp/Will-blue-gas-kill-Tesla-New-emission-free-liquid-hydrocarbon-fuels-300-mile-trip-tank.html)
+[Link](https://dialogochino.net/en/extractive-industries/38662-explainer-the-opportunities-and-challenges-of-the-lithium-industry/)
 
 ---
 
