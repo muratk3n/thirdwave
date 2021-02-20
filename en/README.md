@@ -89,7 +89,7 @@ That is already known, see [link](2016/03/life.md#unique); "life’s
 simpler building blocks are so prevalent in the universe that
 molecules from space may have seeded life on earth itself".
 
-"We will find out life is not unique to Earth"
+"We hope to confirm life is not unique to Earth"
 
 ---
 
