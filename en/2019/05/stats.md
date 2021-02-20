@@ -223,10 +223,10 @@ plt.savefig('icsa.png')
 ```text
               ICSA
 DATE              
-2021-01-16  875000
 2021-01-23  812000
 2021-01-30  812000
-2021-02-06  793000
+2021-02-06  848000
+2021-02-13  861000
 ```
 
 ![](icsa.png)
@@ -246,19 +246,19 @@ cols = ['CLF16OV','LFWA64TTUSM647S']
 df = data.DataReader(cols, 'fred', start, end)
 df = df.interpolate()
 df['ratio'] = 100.0 - ((df.CLF16OV*1000.0 / df.LFWA64TTUSM647S) * 100.0)
-print (df.ratio.tail(5))
+print (df[['ratio','LFWA64TTUSM647S']].tail(5))
 df.ratio.plot()
 plt.savefig('unemploy.png')
 ```
 
 ```text
-DATE
-2020-09-01    22.347371
-2020-10-01    21.911753
-2020-11-01    22.012954
-2020-12-01    21.895473
-2021-01-01    22.092963
-Freq: MS, Name: ratio, dtype: float64
+                ratio  LFWA64TTUSM647S
+DATE                                  
+2020-09-01  22.352157     2.061590e+08
+2020-10-01  21.919663     2.058367e+08
+2020-11-01  22.017721     2.058622e+08
+2020-12-01  21.900340     2.055924e+08
+2021-01-01  21.956048     2.052190e+08
 ```
 
 ![](unemploy.png)

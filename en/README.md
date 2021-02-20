@@ -1,99 +1,110 @@
 # Tweets
 
+Former Oz PM Rudd, talking abt Murdoch monopoly
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Im worried I’m not in enough group chats.</p>&mdash; Molly Jong-Fast🏡 (@MollyJongFast) <a href="https://twitter.com/MollyJongFast/status/1362574137990995970?ref_src=twsrc%5Etfw">February 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@chrislhayes
-
-I'll admit that I kind of lost track of this, but I was genuinely
-surprised to learn in the last few days that Americans can just fly to
-Mexico and then fly right back with no mandatory quarantine in the
-midst of a once-in-a-century global pandemic"
+<iframe width="340" src="https://www.youtube.com/embed/Ap_LuSQ5NSc?start=235&end=287" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](2021/02/vietnam.md#lbj). Costly decision.
+"Nicolas [Brahy] will join the hydrogen infrastructure fund initiative
+...which intends to play a critical role in the context of the
+European Green Deal and the climate activities of the European
+Union. Many Member States have already earmarked more than 45 billion
+Euros in their respective national hydrogen strategies. Public funding
+will need to be blended with private investment in order to guarantee
+long term market structures. Nicolas is perfectly suited to boost the
+investment activities and will integrate his broad knowledge into the
+acceleration of hydrogen development"
+
+[Link](https://hydrogeneurope.eu/news/nicolas-brahy-heading-next-chapter-his-career-hydrogen-sector)
 
 ---
 
-"@MaraHvistendahl
-
-SCOOP: The Oracle TikTok deal was supposed to prevent TikTok from
-passing data to Chinese police. Turns out Oracle has been marketing
-its own data analytics software to...Chinese police"
+Daleep Singh; [sanction guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
+Considered both as NSC and NEC deputy..? US planning to inflict some damage on
+some autocrats, rogoue states?
 
 ---
 
-"Democrats plan big Medicaid expansion in Covid aid package"
+Nice location, saw in one scifi show, Widgeon Slough, Vancouver is it?
 
-[Link](https://www.politico.com/newsletters/politico-pulse/2021/02/10/democrats-plan-big-medicaid-expansion-in-covid-aid-package-793297)
-
----
-
-"@jensstoltenberg
-
-Ministers decided to expand @IraqNato mission to support local forces
-in their fight against terrorism. We'll increase from 500 to around
-4000 personnel & include more security institutions & areas. #NATO's
-mission will continue in full consultation with #Iraq's government"
+<img width="340" src="https://pbs.twimg.com/media/EumhAR4WgAAAwuL?format=jpg&name=small"/>
 
 ---
 
-"The Absurd Electric Bills Slamming Texans"
-
-[Link](https://www.thedailybeast.com/dollar5152-power-bill-texas-winter-storm-hell-only-gets-worse)
+The Guardian: "Uber drivers are workers, UK supreme court rules"
 
 ---
 
-The Atlantic: "The lower 48 U.S. states are divided into two big
-electrical grids—except for Texas, which maintains its own independent
-system. (Small, outlying parts of the state belong to the big grids.)
-The state maintains a separate grid to avoid having to comply with
-federal regulation. If Texas had been connected to the broader
-national grid, the state might have been able to borrow power that
-would have filled the hole left when large parts of the system failed
-in this storm: As demand for energy for heating surged, power plants
-went offline, equipment froze, and wind turbines froze too. Instead,
-Texas has experienced staggering blackouts"
+"[Lithium, element required for batteries] extraction process requires
+500,000 gallons of water per metric ton of lithium, harms the soil and
+causes air contamination"
 
-[Link](https://www.theatlantic.com/ideas/archive/2021/02/ted-cruz-no-hypocrite/618060/)
+[Link](https://www.dailymail.co.uk/sciencetech/article-9275621/amp/Will-blue-gas-kill-Tesla-New-emission-free-liquid-hydrocarbon-fuels-300-mile-trip-tank.html)
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/btQeM4ZAJOI?start=122&end=152" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@BakerHugh
+
+People never lie so much as after a hunt, during a war or before an
+election --- Otto von Bismarck"
 
 ---
 
-With a quarter share of the input, how likely is that wind energy
-brought major part of the state's power system to a halt?
-\#frozenwindmill
+This gets better and better. Went AWOL, lied about it, then left pet home alone
+
+[Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
 
 ---
 
-Biden: "Nobody should go to jail for a drug offense. No one should go
-to jail for the use of a drug. They should go to drug rehabilitation."
+This guy cant catch a break. All self-inflicted of course.
 
 ---
 
-Europe pulls ahead in race for hydrogen, as global project pipeline grows
-
-[Link](https://mobile.reuters.com/article/amp/idUSKBN2AH0IB)
+"Flyin Lyin Ted" 🤣 🤣 🤣 
 
 ---
 
-CNBC: "A subsidiary of multinational building materials firm
-Heidelberg Cement is working with researchers from Swansea University
-to install and operate a green hydrogen demonstration unit at a site
-in the U.K."
+"The main objective of the HyCARE project is the development of a
+prototype hydrogen storage tank with use of a solid-state hydrogen
+carrier on large scale"
 
-[Link](https://www.cnbc.com/2021/02/15/cement-giants-turn-to-green-hydrogen-carbon-capture-to-curb-emissions.html	)
+[Link](https://hycare-project.eu/project/)
 
 ---
 
-"Australians outraged after Facebook blocks news to protest revenue-sharing law"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last but not least, <a href="https://twitter.com/ENGIELabCRIGEN?ref_src=twsrc%5Etfw">@ENGIELabCRIGEN</a>! <a href="https://twitter.com/ENGIELabCRIGEN?ref_src=twsrc%5Etfw">@ENGIELabCRIGEN</a> will host soon the <a href="https://twitter.com/HycareP?ref_src=twsrc%5Etfw">@HycareP</a> demonstration plant!<br>Watch&amp;share 👇👇👍👍<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://twitter.com/hashtag/hydrogenstorage?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenstorage</a><a href="https://twitter.com/dipchim?ref_src=twsrc%5Etfw">@dipchim</a> <a href="https://twitter.com/FBK_research?ref_src=twsrc%5Etfw">@FBK_research</a> <a href="https://twitter.com/HZG_de?ref_src=twsrc%5Etfw">@HZG_de</a> <a href="https://twitter.com/CNRS?ref_src=twsrc%5Etfw">@CNRS</a> <a href="https://twitter.com/GKNPowderMetal?ref_src=twsrc%5Etfw">@GKNPowderMetal</a> <a href="https://twitter.com/ife_norway?ref_src=twsrc%5Etfw">@ife_norway</a> <a href="https://twitter.com/hashtag/tecnodelta?src=hash&amp;ref_src=twsrc%5Etfw">#tecnodelta</a> <a href="https://twitter.com/hashtag/St%C3%BChffGmbH?src=hash&amp;ref_src=twsrc%5Etfw">#StühffGmbH</a> <a href="https://t.co/9JiodLpBd3">pic.twitter.com/9JiodLpBd3</a></p>&mdash; HyCARE Project (@HycareP) <a href="https://twitter.com/HycareP/status/1361342477278543872?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Follow list upkeep.. Sometimes I reverse-engineer from content to
+person.  If good share does not show up on my feed, Ill find someone
+who shared it, if person not a punk (usually not so on socmed) I'll
+add to follow.
+
+---
+
+That is already [known](2016/03/life.md#unique); "life’s simpler
+building blocks are so prevalent in the universe that molecules from
+space may have seeded life on earth itself".
+
+"We will find out life is not unique to Earth"
+
+---
+
+Funny.. But this has been true for a large chunk of the world post
+Berlin Wall.
+
+Mitterand: "the French center is neither left nor left"
+
+---
+
+A *Mandalorian* star has been canceled? Her costars have pol stance
+too what abt them?
+
+---
+
+<blockquote width="340" class="twitter-tweet"><p lang="en" dir="ltr">Extraordinary view of the Myanmar protests <a href="https://t.co/0wd7cNygf2">pic.twitter.com/0wd7cNygf2</a></p>&mdash; ian bremmer (@ianbremmer) <a href="https://twitter.com/ianbremmer/status/1362488304348901381?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
