@@ -7,7 +7,7 @@ lingua-franca of the world etc.
 
 These developments hit the Dems in US particularly hard. After their
 loss to Bush 1,  and 1989, US Dems made the decision to mirror
-Republicans almost exactly bcz they were "lost in the wilderness",  so
+Republicans almost exactly bcz they were "lost in the wilderness", so
 they nominated the Southern Ronald Reagan for 1992. Clinton defined
 the party around centrists (i.e. crypto-Republicans in the Democratic
 Party). He created his contrasts only in execution (we'll deliver
@@ -31,14 +31,13 @@ waffles, he is a thief, a liar, a philanderer. In one case they even
 indicated he was a murderer I think.. They were wrong on most of these
 counts, right in some.. but it didn't matter.
 
-They did all that, however the first mistake comes from the
-Democrats. Sure 1989 was a big deal, it is kinda understandable they
-did what they did, but insisting on that mistake today is
-senseless. Look at where US is now: Reps are not touching the
-secondary issues with a ten foot pole. Reagan was pro-gun
-control. Richard Nixon founded the frickin EPA, but Reps today are not
-going near gun control (even after all these deaths) and the EPA chief
-is a guy who wants to abolish the EPA.
+However the first mistake is from the Democrats.. Sure 1989 was a big
+deal, it is kinda understandable they did what they did, but insisting
+on that mistake today is senseless. Look at where US is now: Reps are
+not touching the secondary issues with a ten foot pole. Reagan was
+pro-gun control. Richard Nixon founded the frickin EPA, but Reps today
+are not going near gun control (even after all these deaths) and the
+EPA chief is a guy who wants to abolish the EPA.
 
 The secondary issues grew and grew due to neglect and they became much
 bigger. Corporate Democrats are not getting anything for their
