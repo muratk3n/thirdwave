@@ -95,7 +95,7 @@ molecules from space may have seeded life on earth itself".
 
 Funny.. but also true for other democracies post Berlin Wall.
 
-Mitterand: "the French center is neither left nor left"
+Mitterand: "The French center is neither left nor left"
 
 ---
 
