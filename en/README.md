@@ -37,7 +37,7 @@ The Guardian: "Uber drivers are workers, UK supreme court rules"
 
 ---
 
-This gets better and better. Went awol, lied about it, then left pet home alone
+This gets better and better. Went awol, lied about why, then left pet home alone
 
 [Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
 
