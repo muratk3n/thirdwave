@@ -84,23 +84,18 @@ add to follow.
 
 ---
 
-That is already [known](2016/03/life.md#unique); "life’s simpler
-building blocks are so prevalent in the universe that molecules from
-space may have seeded life on earth itself".
+That is already known, see [link](2016/03/life.md#unique); "life’s
+simpler building blocks are so prevalent in the universe that
+molecules from space may have seeded life on earth itself".
 
 "We will find out life is not unique to Earth"
 
 ---
 
-Funny.. But this has been true for a large chunk of the world post
+Funny.. But this has been true for a large chunk of the world, post
 Berlin Wall.
 
 Mitterand: "the French center is neither left nor left"
-
----
-
-A *Mandalorian* star has been canceled? Her costars have pol stance
-too what abt them?
 
 ---
 
