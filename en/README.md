@@ -81,7 +81,7 @@ carrier on large scale"
 Follow list upkeep.. Sometimes I reverse-engineer from content to
 person.  If good share does not show up on my feed, Ill find someone
 who shared it, if person not a punk (not uncommon on socmed) I'll add
-to follow.
+the follow.
 
 ---
 
