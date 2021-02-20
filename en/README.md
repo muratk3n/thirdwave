@@ -37,6 +37,20 @@ The Guardian: "Uber drivers are workers, UK supreme court rules"
 
 ---
 
+This gets better and better. Went AWOL, lied about it, then left pet home alone
+
+[Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
+
+---
+
+This guy cant catch a break. All self-inflicted of course.
+
+---
+
+"Flyin Lyin Ted" 🤣 🤣 🤣 
+
+---
+
 "[Lithium, element required for batteries] extraction process requires
 500,000 gallons of water per metric ton of lithium, harms the soil and
 causes air contamination"
@@ -49,20 +63,6 @@ causes air contamination"
 
 People never lie so much as after a hunt, during a war or before an
 election --- Otto von Bismarck"
-
----
-
-This gets better and better. Went AWOL, lied about it, then left pet home alone
-
-[Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
-
----
-
-This guy cant catch a break. All self-inflicted of course.
-
----
-
-"Flyin Lyin Ted" 🤣 🤣 🤣 
 
 ---
 
