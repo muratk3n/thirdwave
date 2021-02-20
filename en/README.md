@@ -20,9 +20,10 @@ acceleration of hydrogen development"
 
 ---
 
-Daleep Singh; [sanction guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
-Considered both as NSC and NEC deputy..? US planning to inflict some damage on
-some autocrats, rogoue states?
+Daleep Singh; [sanction
+guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
+Considered for both as NSC and NEC deputy..? US preparing to inflict
+some damage on some autocrats, rogoue states?
 
 ---
 
@@ -79,8 +80,8 @@ carrier on large scale"
 
 Follow list upkeep.. Sometimes I reverse-engineer from content to
 person.  If good share does not show up on my feed, Ill find someone
-who shared it, if person not a punk (usually not so on socmed) I'll
-add to follow.
+who shared it, if person not a punk (not uncommon on socmed) I'll add
+to follow.
 
 ---
 
