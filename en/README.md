@@ -114,10 +114,10 @@ During emerg turn off heating.. turn off AC if summer. WTF?
 
 ---
 
-This confirms what I know from motorhomes; batteries are for
-non-essential appliances, Nintendo, Playstation console or whatever,
-but for anything serious, AC, heating, oven, they have a gas based
-solution.
+This confirms what's known from caravans, campervans, motorhomes;
+batteries are for non-essential appliances, Nintendo, Playstation
+console or whatever, but for anything serious, AC, heating, oven, they
+have a gas based solution.
 
 "If you’re one of those homeowners looking to add a home battery
 system to your solar installation .. things you should know
