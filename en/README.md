@@ -29,15 +29,6 @@ house"
 
 ---
 
-@jhutchings0
-
-Can confirm. Was literally in those meetings ~13 years ago during
-Windows 7 development. There's also a generic device icon we called a
-beer fridge because a smart fridge seemed absolutely silly at the
-time.
-
----
-
 Satya Nutella.. Not bad.. Not bad
 
 Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
@@ -46,6 +37,15 @@ tech giant has waded into the war between Facebook, Google and the
 Australian government – and may emerge the ultimate victor"
 
 [Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
+
+---
+
+@jhutchings0
+
+Can confirm. Was literally in those meetings ~13 years ago during
+Windows 7 development. There's also a generic device icon we called a
+beer fridge because a smart fridge seemed absolutely silly at the
+time.
 
 ---
 
