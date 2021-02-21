@@ -21,12 +21,6 @@ Australian government – and may emerge the ultimate victor"
 
 ---
 
-Eumir Deodato - Border Line (feat. Airto Moreira) \#music
-
-[Link](https://youtu.be/bb7Scv6HI54)
-
----
-
 Pull yourself up.. hang yourself .. with rope .. by your
 bootstraps.. or something..?
 
