@@ -1,5 +1,108 @@
 # Week 7
 
+Former Oz PM Rudd, talking abt Murdoch monopoly
+
+<iframe width="340" src="https://www.youtube.com/embed/Ap_LuSQ5NSc?start=235&end=287" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"Nicolas [Brahy] will join the hydrogen infrastructure fund initiative
+...which intends to play a critical role in the context of the
+European Green Deal and the climate activities of the European
+Union. Many Member States have already earmarked more than 45 billion
+Euros in their respective national hydrogen strategies. Public funding
+will need to be blended with private investment in order to guarantee
+long term market structures. Nicolas is perfectly suited to boost the
+investment activities and will integrate his broad knowledge into the
+acceleration of hydrogen development"
+
+[Link](https://hydrogeneurope.eu/news/nicolas-brahy-heading-next-chapter-his-career-hydrogen-sector)
+
+---
+
+Daleep Singh; [sanction
+guy](https://www.congress.gov/116/meeting/house/109498/witnesses/HHRG-116-BA10-Wstate-SinghD-20190515.pdf).
+Considered for both as NSC and NEC deputy..? US preparing to inflict
+some damage on some autocrats, rogoue states?
+
+---
+
+Nice location, saw in one scifi show, Widgeon Slough, Vancouver is it?
+
+<img width="340" src="https://pbs.twimg.com/media/EumhAR4WgAAAwuL?format=jpg&name=small"/>
+
+---
+
+The Guardian: "Uber drivers are workers, UK supreme court rules"
+
+---
+
+"@BakerHugh
+
+People never lie so much as after a hunt, during a war or before an
+election --- Otto von Bismarck"
+
+---
+
+This gets better and better. Went awol, lied about why, then left pet home alone
+
+[Link](https://twitter.com/mkerrhardy/status/1362483919086624775)
+
+---
+
+This guy cant catch a break. All self-inflicted of course.
+
+---
+
+"Flyin Lyin Ted" 🤣 🤣 🤣 
+
+---
+
+"[Lithium, element required for batteries] extraction process requires
+500,000 gallons of water per metric ton of lithium, harms the soil and
+causes air contamination"
+
+[Link](https://dialogochino.net/en/extractive-industries/38662-explainer-the-opportunities-and-challenges-of-the-lithium-industry/)
+
+---
+
+"The main objective of the HyCARE project is the development of a
+prototype hydrogen storage tank with use of a solid-state hydrogen
+carrier on large scale"
+
+[Link](https://hycare-project.eu/project/)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last but not least, <a href="https://twitter.com/ENGIELabCRIGEN?ref_src=twsrc%5Etfw">@ENGIELabCRIGEN</a>! <a href="https://twitter.com/ENGIELabCRIGEN?ref_src=twsrc%5Etfw">@ENGIELabCRIGEN</a> will host soon the <a href="https://twitter.com/HycareP?ref_src=twsrc%5Etfw">@HycareP</a> demonstration plant!<br>Watch&amp;share 👇👇👍👍<a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://twitter.com/hashtag/hydrogenstorage?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenstorage</a><a href="https://twitter.com/dipchim?ref_src=twsrc%5Etfw">@dipchim</a> <a href="https://twitter.com/FBK_research?ref_src=twsrc%5Etfw">@FBK_research</a> <a href="https://twitter.com/HZG_de?ref_src=twsrc%5Etfw">@HZG_de</a> <a href="https://twitter.com/CNRS?ref_src=twsrc%5Etfw">@CNRS</a> <a href="https://twitter.com/GKNPowderMetal?ref_src=twsrc%5Etfw">@GKNPowderMetal</a> <a href="https://twitter.com/ife_norway?ref_src=twsrc%5Etfw">@ife_norway</a> <a href="https://twitter.com/hashtag/tecnodelta?src=hash&amp;ref_src=twsrc%5Etfw">#tecnodelta</a> <a href="https://twitter.com/hashtag/St%C3%BChffGmbH?src=hash&amp;ref_src=twsrc%5Etfw">#StühffGmbH</a> <a href="https://t.co/9JiodLpBd3">pic.twitter.com/9JiodLpBd3</a></p>&mdash; HyCARE Project (@HycareP) <a href="https://twitter.com/HycareP/status/1361342477278543872?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Follow list upkeep.. Sometimes I reverse-engineer from content to
+person.  If good share does not show up on my feed, Ill find someone
+who shared it, if person not a punk (it is socmed) I'll add the
+follow.
+
+---
+
+This is already known, see [link](2016/03/life.md#unique); "life’s
+simpler building blocks are so prevalent in the universe that
+molecules from space may have seeded life on earth itself".
+
+"We hope to confirm life is not unique to Earth"
+
+---
+
+Funny.. but also true for other democracies post Berlin Wall.
+
+Mitterand: "The French center is neither left nor left"
+
+---
+
+<blockquote width="340" class="twitter-tweet"><p lang="en" dir="ltr">Extraordinary view of the Myanmar protests <a href="https://t.co/0wd7cNygf2">pic.twitter.com/0wd7cNygf2</a></p>&mdash; ian bremmer (@ianbremmer) <a href="https://twitter.com/ianbremmer/status/1362488304348901381?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Im worried I’m not in enough group chats.</p>&mdash; Molly Jong-Fast🏡 (@MollyJongFast) <a href="https://twitter.com/MollyJongFast/status/1362574137990995970?ref_src=twsrc%5Etfw">February 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
