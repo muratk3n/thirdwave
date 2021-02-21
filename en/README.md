@@ -1,5 +1,26 @@
 # Tweets
 
+"@arcanakhalil
+
+Our information ecosystem is controlled by a few commercial entities
+who operate based on profit motive- not on user experience or public
+good. Flag of Australia \#facebooknewsban is an impt moment of
+disruption. We can’t let it go to waste. Bring on public digital
+infrastructure!"
+
+---
+
+Satya Nutella.. Not bad.. Not bad
+
+Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
+great digital media battle From seemingly out of nowhere, the veteran
+tech giant has waded into the war between Facebook, Google and the
+Australian government – and may emerge the ultimate victor"
+
+[Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
+
+---
+
 Eumir Deodato - Border Line (feat. Airto Moreira) \#music
 
 [Link](https://youtu.be/bb7Scv6HI54)
@@ -35,27 +56,6 @@ time.
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">microsoft dev relations meeting, 15 years ago:<br><br>“see, we use a TOASTER since no one in their right mind would ever think to plug a toaster into their computer. right?”<br><br>*15 years later*<br><br>dammit.</p>&mdash; Kyle Seth Gray (@kylesethgray) <a href="https://twitter.com/kylesethgray/status/1362047030537973763?ref_src=twsrc%5Etfw">February 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@arcanakhalil
-
-Our information ecosystem is controlled by a few commercial entities
-who operate based on profit motive- not on user experience or public
-good. Flag of Australia #facebooknewsban is an impt moment of
-disruption. We can’t let it go to waste. Bring on public digital
-infrastructure!"
-
----
-
-Satya Nutella.. Not bad.. Not bad
-
-Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
-great digital media battle From seemingly out of nowhere, the veteran
-tech giant has waded into the war between Facebook, Google and the
-Australian government – and may emerge the ultimate victor"
-
-[Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
 
 ---
 
