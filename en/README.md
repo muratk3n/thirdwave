@@ -10,17 +10,6 @@ infrastructure!"
 
 ---
 
-Satya Nutella.. Not bad.. Not bad
-
-Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
-great digital media battle From seemingly out of nowhere, the veteran
-tech giant has waded into the war between Facebook, Google and the
-Australian government – and may emerge the ultimate victor"
-
-[Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
-
----
-
 Pull yourself up.. hang yourself .. with rope .. by your
 bootstraps.. or something..?
 
@@ -46,6 +35,17 @@ Can confirm. Was literally in those meetings ~13 years ago during
 Windows 7 development. There's also a generic device icon we called a
 beer fridge because a smart fridge seemed absolutely silly at the
 time.
+
+---
+
+Satya Nutella.. Not bad.. Not bad
+
+Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
+great digital media battle From seemingly out of nowhere, the veteran
+tech giant has waded into the war between Facebook, Google and the
+Australian government – and may emerge the ultimate victor"
+
+[Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
 
 ---
 
