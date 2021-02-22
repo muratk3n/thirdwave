@@ -1,5 +1,24 @@
 # Tweets
 
+"Although they are increasing in popularity with consumers, electric
+vehicles still account for a relatively small share of ground
+transpiration. Electrification is unlikely to replace conventional jet
+fuel for air travel anytime soon.
+
+That has some officials [in Hawaii] looking at another carbon-free
+energy source: hydrogen"
+
+[Link](ttps://www.hawaiipublicradio.org/post/hawaii-lawmaker-pushes-expanded-role-hydrogen-fuel#stream/0)
+
+---
+
+CNBC: "Britain will build its first hydrogen fueled homes by April, offering
+public a glimpse of the future"
+
+[Link](https://www.cnbc.com/2021/02/16/britain-will-build-its-first-hydrogen-fueled-homes-by-april.html)
+
+---
+
 "U.S. Report Allows Russian Pipeline Project to Proceed, for Now"
 
 ---
