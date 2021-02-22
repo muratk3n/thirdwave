@@ -84,7 +84,7 @@ poach"
 
 ---
 
-Both *Ghostbusters* and its sequel were a perfect encapsulation of
+"Both *Ghostbusters* and its sequel were a perfect encapsulation of
 Ronald Reagan’s 1980s, and the two movies reflect the ambivalent and
 inchoate resentments of a rapidly deindustrializing working class. But
 the most important — and culturally significant — embodiment of the
