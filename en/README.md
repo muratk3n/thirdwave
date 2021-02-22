@@ -66,7 +66,7 @@ I bet he is from Brooklyn.. "Newton's Luuuaaa".
 ---
 
 Landau, great computational sci professor.. Wrote a fine book, and
-shared vids of his lecture. Fantastic. Writes tight Python code too.
+shared vids of his lecture. Fantastic. Writes solid Python code.
 
 ---
 
