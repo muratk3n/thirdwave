@@ -1,6 +1,6 @@
 # LPG Cylinders, Energy, Taxis, Kitchens
 
-You know, you can heat, light a house using portable LPG
+It is possible to heat, power a house using portable LPG
 cylinders. Such things are common in many kitchens in various
 countries. Completely off-grid, cheap.
 
