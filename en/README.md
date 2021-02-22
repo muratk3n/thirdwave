@@ -42,7 +42,7 @@ Floating point numbah 🤣
 
 ---
 
-I bet he is from Brooklyn.. "Neeewton's Luuuaaa".
+I bet he is from Brooklyn.. "Newton's Luuuaaa".
 
 ---
 
