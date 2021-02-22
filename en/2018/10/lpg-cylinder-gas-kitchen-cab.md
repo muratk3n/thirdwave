@@ -19,7 +19,7 @@ One delivery company, Aygaz, [sold](https://www.aygaz.com.tr/uploads/yatirimci-i
 25 million standard cylinder worth of this stuff in 2019.
 
 Empty cylinders get refilled in a [plant](https://pbs.twimg.com/media/EuvTpEwWgAAh9ac?format=jpg&name=small).
-At home call a guy cylinder gets picked up. Like reverse-delivery of pizza
+Call the same number, cylinder gets picked up. Like reverse-delivery of pizza
 
 They pack a punch (molecules better than electrons). Ex, standard size
 12 kg, keg size cylinder based stove in kitchen, it will go for
