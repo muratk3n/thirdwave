@@ -21,13 +21,13 @@ Ah. Scipy has constants.. No need to be "online" to lookup basic unit conversion
 import scipy.constants
 print (scipy.constants.psi)
 print (scipy.constants.bar)
-'%0.2f' % (scipy.constants.psi*10000/scipy.constants.bar)
+print ('%0.2f' % (scipy.constants.psi*10000/scipy.constants.bar))
 ```
 
 ```text
 6894.757293168361
 100000.0
-Out[1]: '689.48'
+689.48
 ```
 
 ---
