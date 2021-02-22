@@ -61,7 +61,7 @@ print (energy_req / cylinder)
 Every month, you get 4 of those cylinders (little bigger 16 kg size),
 you'd be fine.
 
-There are 45 kg versions too.
+And just saw there are 45 kg versions
 
 <img width="340" src="https://pbs.twimg.com/media/EuvTvxaXUAAgkJ9?format=jpg&name=small"/>
 
