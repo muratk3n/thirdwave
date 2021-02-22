@@ -38,8 +38,8 @@ print ('%0.2f h' % (46*12*277.7/(1500/3)))
 306.58 h
 ```
 
-This rings true, if you left stove on at high heat, it would
-continuously go for >300 hours, have it on 1 hr a day, lasts a year.
+This rings true, if you left stove on at high heat, it can
+continuously run for >300 hours, have it on 1 hr a day, lasts a year.
 
 Think about how much energy that is, at such a cheap price.
 
