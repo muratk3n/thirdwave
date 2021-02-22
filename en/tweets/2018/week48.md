@@ -1,5 +1,10 @@
 # Week 48
 
+Ah, the LPG pungent smell is added, by cylinder-filler companies so gas leaks
+become easier to detect. Otherwise LPG is odorless.
+
+---
+
 Q: If ammonia or regular temparature liquid H2 was not deployed, how
 easy is it for cars to use H2 tanks (for pressurized containment)?
 

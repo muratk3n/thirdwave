@@ -1,133 +1,111 @@
 # Tweets
 
-"@arcanakhalil
-
-Our information ecosystem is controlled by a few commercial entities
-who operate based on profit motive- not on user experience or public
-good. Flag of Australia \#facebooknewsban is an impt moment of
-disruption. We can’t let it go to waste. Bring on public digital
-infrastructure!"
+"U.S. Report Allows Russian Pipeline Project to Proceed, for Now"
 
 ---
 
-Pull yourself up.. hang yourself .. with rope .. by your
-bootstraps.. or something..?
-
-Howdy partner?
-
-"@Mike_Hixenbaugh
-
-The fact that Texans have to shop for electricity from middle-man
-companies that don’t actually generate power has always baffled
-me. Remember to lock in your rate every year or you’ll get kicked onto
-a variable rate plan and pay thousands to shiver in a dark, frozen
-house"
+Gases, liquids are awesome. Love the molecules. 
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never in my life as a native Houstonian did I ever think I&#39;d see this <a href="https://t.co/ceHUf8M8MR">https://t.co/ceHUf8M8MR</a></p>&mdash; Michael Hardy (@mkerrhardy) <a href="https://twitter.com/mkerrhardy/status/1362940026707869697?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+200 bar cylinders are standard, 40 liter will cost around $40
+(recyclable anyway). Little higher, at 500 bars (10K psi), vol triple
+but store same energy much lighter. Hyundai Nexo stores at 700 bars, 3
+tanks w enough H2 gas energy to move a car for >700 km.
 
 ---
 
-Satya Nutella.. Not bad.. Not bad
+Ah. Scipy has constants.. No need to be "online" to lookup basic unit conversions.
 
-Hal Crawford: "Microsoft just landed a knockout blow in Australia’s
-great digital media battle From seemingly out of nowhere, the veteran
-tech giant has waded into the war between Facebook, Google and the
-Australian government – and may emerge the ultimate victor"
+```python
+import scipy.constants
+print (scipy.constants.psi)
+print (scipy.constants.bar)
+'%0.2f' % (scipy.constants.psi*10000/scipy.constants.bar)
+```
 
-[Link](https://thespinoff.co.nz/media/10-02-2021/microsoft-just-landed-a-knockout-blow-in-australias-great-digital-media-battle/)
-
----
-
-@jhutchings0
-
-Can confirm. Was literally in those meetings ~13 years ago during
-Windows 7 development. There's also a generic device icon we called a
-beer fridge because a smart fridge seemed absolutely silly at the
-time.
+```text
+6894.757293168361
+100000.0
+Out[1]: '689.48'
+```
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">microsoft dev relations meeting, 15 years ago:<br><br>“see, we use a TOASTER since no one in their right mind would ever think to plug a toaster into their computer. right?”<br><br>*15 years later*<br><br>dammit.</p>&mdash; Kyle Seth Gray (@kylesethgray) <a href="https://twitter.com/kylesethgray/status/1362047030537973763?ref_src=twsrc%5Etfw">February 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Many countries use fossil [gas
+based](2018/10/lpg-cylinder-gas-kitchen-cab.md) solutions for energy,
+it's cheap. With some increase in volume, the same delivery cld be
+performed thr H2. 
 
 ---
 
-Moon Mission - Kai Rautenberg Organ \#mission
-
-[Link](https://youtu.be/eCqBPGmj0Uo)
+Floating point numbah 🤣
 
 ---
 
-Malibu - D.I.E.T. \#music
-
-[Link](https://youtu.be/ZKvi2Qyj4Yg)
+I bet he is from Brooklyn.. "Neeewton's Luuuaaa".
 
 ---
 
-Dehydrating tuna.
-
-This guy has some serious hardware.. vacuum sealer? 
-
-[Link](https://youtu.be/UC0KVAfUc8c?t=363)
+Landau, great professor.. Wrote a fine book, and shared vids of his
+lecture. Fantastic. Writes tight Python code too.
 
 ---
 
-Key to mobility / camping is dried food. Dried plums, sour cherry...
-
-[Boom](https://pbs.twimg.com/media/EugM3UxWgAIxTLp?format=jpg&name=small).
-[Boom](https://pbs.twimg.com/media/EugM73bXIAE8SSr?format=jpg&name=small).
-
-Before eat dont forget to rehydrate (can hurt some stomach dry),
-boil in water (dont throw away water, nutr in there).
-
-Coupled with some aminos, covers all bases.
+Gaza receives 20,000 Sputnik V Covid-19 vaccine doses from UAE
 
 ---
 
-Yea, typical output of 5 kw cannot drive such a system
+"Uber and Lyft say they’re just tech platforms, not transportation
+companies that employ drivers, even as they tell city officials that
+their drivers’ names should be treated as confidential trade secrets
+because disclosure would make them easier for other companies to
+poach"
 
-"An electric furnace is a type of heating system which utilizes
-electricity to heat the home, often using a fan to provide forced-air
-through the home's ducts. It is generally more expensive to heat a
-home using electricity rather than natural gas or other [wink wink H2]
-sources of fuel. The cost of running an electric furnace varies
-significantly depending on the size of the home, the type of electric
-furnace used, cost of electricity, and the climate. Electric furnaces
-range from 10 kilowatts to 50 kilowatts, we estimate that a 2,400
-square foot home using a modern high efficiency electric furnace uses
-18,000 watts for heating when the furnace is being used"
-
-[Link](https://energyusecalculator.com/electricity_furnace.htm)
+[Link](https://www.bloomberg.com/news/features/2021-02-17/gig-economy-coming-for-millions-of-u-s-jobs-after-california-s-uber-lyft-vote)
 
 ---
 
-During emerg turn off heating.. turn off AC if summer. WTF? 
+Both *Ghostbusters* and its sequel were a perfect encapsulation of
+Ronald Reagan’s 1980s, and the two movies reflect the ambivalent and
+inchoate resentments of a rapidly deindustrializing working class. But
+the most important — and culturally significant — embodiment of the
+“Me First” decade in Ghostbusters was a small, pudgy green ghost who
+eventually became known as 'Slimer.' ...
 
-[Link](https://swellenergy.zendesk.com/hc/en-us/articles/360013558094-Powerwall-Operations-During-A-Utility-Outage)
+Instead of Slimer, Afterlife’s creators have given us Muncher, a
+blobbish ghost who looks like Gudetama joined the Blue Man Group and
+became carbuncular with tumors. Where Slimer was joy, Muncher is
+depression; where Slimer was sex, Muncher is abstinence; where Slimer
+gave his captors a run for their money, Muncher is snail-like; where
+Slimer was booze and cocaine, Muncher is ketamine and opioids; and,
+most important, where Slimer devoured with hedonistic abandon, Muncher
+merely munches.
+
+If Slimer was the Marquis de Sade, Muncher is a basement-dwelling
+failson. Sluggish and anhedonic, neutered and soft, the big blue ghost
+is the perfect embodiment of our era of permanent decline, in which
+every downwardly mobile middle-class American has become lobotomized
+by the internet and unsustainable consumption"
+
+[Link](https://www.jacobinmag.com/2021/02/ghostbusters-afterlife-reboot-slimer-muncher)
 
 ---
 
-This confirms what's known from caravans, campervans, motorhomes;
-batteries are for non-essential appliances, Nintendo, Playstation
-console or whatever, but for anything serious, AC, heating, oven, they
-have a gas based solution.
+"@bocxtop
 
-"If you’re one of those homeowners looking to add a home battery
-system to your solar installation .. things you should know
-... Whole-home backup protection is not possible for very long. No
-residential storage system on the market has enough power and storage
-capacity to run an entire home, regardless of their
-advertising... Most homes use between 20 and 60 amps or more of power
-per hour. High-amperage appliances like air conditioning, electric
-ovens, and electric water heaters use massive amounts of power when
-running, so whole-home backup is not realistic with today’s battery
-and inverter technology. What the right system can do is keep your
-lights and your critical appliances on long enough to get you through
-a blackout and have your solar panels recharge your battery the next
-day"
+Gofundme (2012): just a cool lil website where ur friends can support
+your projects :)
 
-[Link](https://www.globenewswire.com/news-release/2020/01/14/1970196/0/en/Five-Things-You-Should-Know-When-Buying-a-Home-Solar-Battery-System.html)
+Gofundme (2021): the backbone of the american healthcare system
+
+imagine if we all put money into one national gofundme so that the
+money would just be there if someone got sick, why has no one ever
+thought of this :/"
+
+---
+
+"Oil spill from passing ship blackens Israel's Mediterranean shoreline"
 
 ---
 
