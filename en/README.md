@@ -64,12 +64,12 @@ I bet he is from Brooklyn.. "Newton's Luuuaaa".
 
 ---
 
-Landau, great professor.. Wrote a fine book, and shared vids of his
-lecture. Fantastic. Writes tight Python code too.
+Landau, great computational sci professor.. Wrote a fine book, and
+shared vids of his lecture. Fantastic. Writes tight Python code too.
 
 ---
 
-Gaza receives 20,000 Sputnik V Covid-19 vaccine doses from UAE
+"Gaza receives 20,000 Sputnik V Covid-19 vaccine doses from UAE"
 
 ---
 
