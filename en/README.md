@@ -33,7 +33,8 @@ tanks w enough H2 gas energy to move a car for >700 km.
 
 ---
 
-Ah. Scipy has constants.. No need to be "online" to lookup basic unit conversions.
+Ah. `scipy` has a `constants` package.. No need to be "online" to
+lookup basic unit conversions.
 
 ```python
 import scipy.constants
