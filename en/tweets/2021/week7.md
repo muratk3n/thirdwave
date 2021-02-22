@@ -492,7 +492,7 @@ Always looking for an angle here..
 
 But Japan surely gets a lot of quakes
 
-Retrieval [code](https://muratk3n.github.io/thirdwave/en/tweets/2021/util.py)
+Retrieval [code](util.py)
 
 ```python
 import cartopy.crs as ccrs, cartopy, util
