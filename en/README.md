@@ -8,7 +8,7 @@ fuel for air travel anytime soon.
 That has some officials [in Hawaii] looking at another carbon-free
 energy source: hydrogen"
 
-[Link](ttps://www.hawaiipublicradio.org/post/hawaii-lawmaker-pushes-expanded-role-hydrogen-fuel#stream/0)
+[Link](https://www.hawaiipublicradio.org/post/hawaii-lawmaker-pushes-expanded-role-hydrogen-fuel)
 
 ---
 
