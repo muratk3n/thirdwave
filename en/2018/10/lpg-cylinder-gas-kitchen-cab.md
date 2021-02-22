@@ -6,8 +6,8 @@ countries. Completely off-grid, cheap.
 
 <img width="200" src="https://pbs.twimg.com/media/EurzkRsXEAUWPwi?format=jpg&name=small"/>
 
-India, TR.. never saw in US, or DE, below image from an AU site, cld
-be prevalent there
+India, TR.. never saw in US, or DE, the image above was from an AU
+site, cld be prevalent there
 
 Standard cylinder < 15 dollars. Call a number, have one delivered at
 home, like ordering pizza. These gas companies have
