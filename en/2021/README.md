@@ -6,5 +6,9 @@
 
 [Power Paste (Solid Magnesium Hydride)](02/h2-power-paste.md)
 
+[Nutritional Values, Requirements](02/nutritional-values.md)
+
 [Unity](02/unity.md)
+
+[Vietnam](02/vietnam.md)
 

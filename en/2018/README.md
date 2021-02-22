@@ -144,6 +144,8 @@
 
 [Fracked Up (and Ammonia)](10/fracked-up.md)
 
+[LPG Cylinders, Energy, Taxis, Kitchens](10/lpg-cylinder-gas-kitchen-cab.md)
+
 [Paraffin Wax](10/paraffin-wax.md)
 
 [Patent Codebook](10/patents-code.md)

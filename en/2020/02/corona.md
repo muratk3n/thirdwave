@@ -14,10 +14,10 @@ plt.savefig('mort.png')
 ```
 
 ```text
-1/27/21    2.155877
-1/28/21    2.159727
-1/29/21    2.161726
-1/30/21    2.164064
+2/17/21    2.211401
+2/18/21    2.213438
+2/19/21    2.214651
+2/20/21    2.215223
 Name: deaths / 100 confirmed, dtype: float64
 ```
 
@@ -73,28 +73,27 @@ df = util.get_data()
 ```python
 df['Germany +'] = df['Germany'].diff()
 df['UK +'] = df['United Kingdom'].diff()
-df['Germany %'] = df['Germany'].pct_change().rolling(10).mean()*100.0
-df['UK %'] = df['United Kingdom'].pct_change().rolling(10).mean()*100.0
+df['US +'] = df['US'].diff()
 ```
 
 ```python
 pd.set_option('display.width', 2000)
 pd.set_option('display.max_columns', None)
-print (df[['Germany +','Germany %','UK +','UK %']].tail(10))
+print (df[['Germany +','UK +','US +']].tail(10))
 ```
 
 ```text
-Country/Region  Germany +  Germany %     UK +      UK %
-1/21/21            8277.0   0.833230  37977.0  1.285756
-1/22/21           16366.0   0.770658  40321.0  1.253265
-1/23/21           12430.0   0.699258  33652.0  1.196699
-1/24/21           10078.0   0.639360  30111.0  1.128181
-1/25/21            6887.0   0.628786  22244.0  1.018077
-1/26/21            9387.0   0.599139  20167.0  0.948306
-1/27/21           15636.0   0.615061  25369.0  0.902018
-1/28/21           14883.0   0.638208  28811.0  0.868919
-1/29/21           12831.0   0.637274  29145.0  0.849391
-1/30/21           17518.0   0.576633  23400.0  0.799088
+Country/Region  Germany +     UK +      US +
+2/11/21            9928.0  13543.0  105398.0
+2/12/21            9197.0  15198.0   99444.0
+2/13/21            6484.0  13355.0   86984.0
+2/14/21            4838.0  10991.0   64956.0
+2/15/21            5132.0   9776.0   53977.0
+2/16/21            5890.0  10636.0   62470.0
+2/17/21            9598.0  12760.0   69829.0
+2/18/21            9845.0  12095.0   69266.0
+2/19/21            9050.0  12099.0  106355.0
+2/20/21            7162.0  10453.0   71510.0
 ```
 
 <a name='Rt'/>
@@ -120,24 +119,16 @@ plt.savefig('Rt-US.png')
 ```
 
 ```text
-195    1.048635
-196    1.047065
-197    1.045581
-198    1.044175
-199    1.042812
+195    1.022753
+196    1.021731
+197    1.020679
+198    1.019821
+199    1.019037
 Name: 1, dtype: float64
 ```
 
 ![](Rt-US.png)
 
-
-County Level Data (NYT)
-
-```python
-! wget https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
-! zip /tmp/corona-county.zip us-counties.csv
-! rm us-counties.csv
-```
 
 Code
 

@@ -7,13 +7,12 @@ A: Easy
 
 This is one of the few times when being from a developing world helped
 me... I've seen many taxi drivers in Turkland who had their fuel tank
-replaced with LNG tank (liquid natural gas). It looks like a frickin
-kitchen gas cylinder in the trunk. In fact, at 1st I though dude just
-had his kitchen gas cylinder installed in there. But it turns out the
-op was more pro, there is an entire cottage industry around this; u go
-to a guy, he replaces the fossil fuel mechanism of the car with LNG
-based one, there are companies selling the full LNG tank for cars,
-etc.
+replaced with LPG tank. It looks like a frickin kitchen gas cylinder
+in the trunk. In fact, at 1st I though dude just had his kitchen gas
+cylinder installed in there. But it turns out the op was more pro,
+there is an entire cottage industry around this; u go to a guy, he
+replaces the fossil fuel mechanism of the car with LNG based one,
+there are companies selling the full LNG tank for cars, etc.
 
 If u can do that, H2 is e-z.
 

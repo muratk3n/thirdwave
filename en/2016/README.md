@@ -286,8 +286,6 @@
 
 [#election](11/election.md)
 
-[In Good Company](11/in-good-company.md)
-
 [#meyers](11/meyers.md)
 
 [#ng](11/ng.md)

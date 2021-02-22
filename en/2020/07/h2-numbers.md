@@ -102,6 +102,8 @@ H2
 
 1 kg has energy of 39.7 kWh (143 MJ).
 
+At 500 bar, 33 kg H2 /m3.
+
 Liquid hydrogen has a density of 8 MJ/L.
 
 Personal Consumption
