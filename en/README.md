@@ -2,8 +2,8 @@
 
 "Although they are increasing in popularity with consumers, electric
 vehicles still account for a relatively small share of ground
-transpiration. Electrification is unlikely to replace conventional jet
-fuel for air travel anytime soon.
+transportation. Electrification is unlikely to replace conventional
+jet fuel for air travel anytime soon.
 
 That has some officials [in Hawaii] looking at another carbon-free
 energy source: hydrogen"
