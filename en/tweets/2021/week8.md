@@ -40,12 +40,12 @@ Australian government – and may emerge the ultimate victor"
 
 ---
 
-@jhutchings0
+"@jhutchings0
 
 Can confirm. Was literally in those meetings ~13 years ago during
 Windows 7 development. There's also a generic device icon we called a
 beer fridge because a smart fridge seemed absolutely silly at the
-time.
+time"
 
 ---
 
