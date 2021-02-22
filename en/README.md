@@ -88,7 +88,7 @@ poach"
 Ronald Reagan’s 1980s, and the two movies reflect the ambivalent and
 inchoate resentments of a rapidly deindustrializing working class. But
 the most important — and culturally significant — embodiment of the
-“Me First” decade in Ghostbusters was a small, pudgy green ghost who
+'Me First' decade in Ghostbusters was a small, pudgy green ghost who
 eventually became known as 'Slimer.' ...
 
 Instead of Slimer, Afterlife’s creators have given us Muncher, a
