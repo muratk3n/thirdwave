@@ -9,8 +9,7 @@ Gases, liquids are awesome. Love the molecules.
 ---
 
 200 bar cylinders are standard, 40 liter will cost around $40
-(recyclable anyway). Little higher, at 500 bars (10K psi), vol triple
-but store same energy much lighter. Hyundai Nexo stores at 700 bars, 3
+(recyclable anyway). Hyundai Nexo stores at 700 bars (10K psi), 3
 tanks w enough H2 gas energy to move a car for >700 km.
 
 ---
