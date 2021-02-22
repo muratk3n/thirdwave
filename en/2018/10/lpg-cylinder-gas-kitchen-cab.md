@@ -66,8 +66,7 @@ And just saw there are 45 kg versions
 <img width="340" src="https://pbs.twimg.com/media/EuvTvxaXUAAgkJ9?format=jpg&name=small"/>
 
 LPG is fossil of course. But same tech could be extended to renewable
-gases, fuels. Portable cylinders could appeal to low end, for off-grid
-type usage.
-
-For high end, on-grid, pipelines are still way to go... Or in bulk, H2
-is used on generator turbines to generate electricity. 
+gases, fuels. Portable cylinders could appeal to low end,
+off-grid. For high end, on-grid, pipelines are still way to go... Or
+in bulk, renewables are used on generator turbines to generate
+electricity.
