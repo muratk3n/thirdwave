@@ -100,7 +100,7 @@ of the Labour Party in 1906 and its displacement of the Liberals"
 
 ---
 
-Half a million people are dead. No joke \#covid \#us
+Half a million dead. No joke \#covid \#us
 
 ---
 
