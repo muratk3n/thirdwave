@@ -78,7 +78,7 @@ Sure left wing cld leave too, but leaving the party of FDR? Its weird
 
 ---
 
-That's right, libs have their own party in UK. Here is your cue Us libs
+True, libs have their own party in UK. Here is your cue US libs
 
 "A major reason why the US welfare state is so meager, its union
 movement so frail, and its working class so divided is that the United
