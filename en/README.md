@@ -8,6 +8,11 @@ important salvo in the effort"
 
 ---
 
+Hah, Kundt is friends with Penrose, S. Hawking's PhD advisor. Penrose
+consulted Kundt a few times
+
+---
+
 That's right there is ejection from the middle of so-called black
 holes, outward, even many artistic representation of BH's show
 it.. But then how could there be any ejection at all? The f-ing thing
