@@ -80,11 +80,11 @@ Sure left wing cld leave too, but leaving the party of FDR? Its weird
 
 True, libs have their own party in UK. Here is your cue US libs
 
-"A major reason why the US welfare state is so meager, its union
-movement so frail, and its working class so divided is that the United
-States is the only advanced capitalist democracy where parties of big
-business have always monopolized the political arena. The morbid
-symptoms of this impasse are everywhere today, from the rise of
+Jacobin: "A major reason why the US welfare state is so meager, its
+union movement so frail, and its working class so divided is that the
+United States is the only advanced capitalist democracy where parties
+of big business have always monopolized the political arena. The
+morbid symptoms of this impasse are everywhere today, from the rise of
 Trumpism, to the Democratic establishment’s stubborn opposition to
 Medicare for All in the midst of a pandemic, to the deepening
 polarization of national politics along partisan lines free from any
