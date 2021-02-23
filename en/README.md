@@ -1,129 +1,110 @@
 # Tweets
 
-"Although they are increasing in popularity with consumers, electric
-vehicles still account for a relatively small share of ground
-transportation. Electrification is unlikely to replace conventional
-jet fuel for air travel anytime soon.
+"Australia is showing the U.S. how to regulate Facebook and
+Google.. The nation’s bid to force platforms to pay for news is an
+important salvo in the effort"
 
-That has some officials [in Hawaii] looking at another carbon-free
-energy source: hydrogen"
-
-[Link](https://www.hawaiipublicradio.org/post/hawaii-lawmaker-pushes-expanded-role-hydrogen-fuel)
+[Link](https://www.washingtonpost.com/outlook/2021/02/22/facebook-platforms-australia-payments-news/)
 
 ---
 
-CNBC: "Britain will build its first hydrogen fueled homes by April, offering
-public a glimpse of the future"
-
-[Link](https://www.cnbc.com/2021/02/16/britain-will-build-its-first-hydrogen-fueled-homes-by-april.html)
+Hope eeaders dont see giddy 'gotcha' slant in these.. Its more
+disappointment, than giddy..
 
 ---
 
-"U.S. Report Allows Russian Pipeline Project to Proceed, for Now"
+That's right there is ejection from the middle of so-called black
+holes, outward, even many artistic representation of BH's show
+it.. But then how could there be any ejection at all? The f-ing thing
+is supposed to pull everything in..
+
+<iframe height="100" width="200" src="https://www.youtube.com/embed/BhDpApRa6BI?start=802&end=929" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Gases, liquids are awesome. Love the molecules. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The UK’s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered <a href="https://twitter.com/hashtag/train?src=hash&amp;ref_src=twsrc%5Etfw">#train</a> has successfully undertaken its first mainline test, achieving a top speed of 50 mph. <a href="https://t.co/w86JyGt2J6">https://t.co/w86JyGt2J6</a></p>&mdash; Ballard Power (@BallardPwr) <a href="https://twitter.com/BallardPwr/status/1363761441329864706?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-200 bar cylinders are standard, 40 liter will cost around $40
-(recyclable anyway). Hyundai Nexo stores at 700 bars (10K psi), 3
-tanks w enough H2 gas energy to move a car for >700 km.
+Half a million people are dead. No joke \#covid \#us
 
 ---
 
-Ah. `scipy` has a `constants` package.. No need to be "online" to
-lookup basic unit conversions.
+"Biden is tired of dealing with the Middle East — and, barely a month
+into his tenure, the region has noticed.
+
+The signals are not meant to be subtle, his advisers say. The
+president has made only one call to a head of state in the Middle East
+— Israeli Prime Minister Benjamin Netanyahu on Wednesday — which
+itself was delayed by more than three weeks and followed calls to
+other allies and even adversaries like Russia and China"
+
+[Link](https://www.politico.com/news/2021/02/22/biden-middle-east-foreign-policy-470589)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/ProtonMotor?ref_src=twsrc%5Etfw">@ProtonMotor</a> Joins e-SHyIPS as Project Partner-Aim is to define guidelines for introduction of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> in passenger <a href="https://twitter.com/hashtag/shippingand?src=hash&amp;ref_src=twsrc%5Etfw">#shippingand</a> to promote its adoption within the framework of the global and EU strategy -<a href="https://t.co/b6x3uIQH0L">https://t.co/b6x3uIQH0L</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1362775716346163200?ref_src=twsrc%5Etfw">February 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Earthquakes of the past two years >4.5 seem to be focused around the
+Agean..
+
+[Code](https://muratk3n.github.io/thirdwave/en/tweets/2021/util.py)
+
 
 ```python
-import scipy.constants
-print ('%0.2f' % scipy.constants.psi)
-print ('%0.2f' % scipy.constants.bar)
-print ('%0.2f' % (scipy.constants.psi*10000/scipy.constants.bar))
+import cartopy.crs as ccrs, cartopy, util
+#df = util.get_eq3()
+fig = plt.figure(figsize=(20, 20))
+ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
+ax.set_global()
+ax.stock_img()
+ax.coastlines()
+ago = np.max(df.ago)-df.ago
+s = np.power(3,df.mag)
+ax.scatter(df.lon, df.lat, c=df.ago, \
+           cmap=plt.cm.Reds, s=s, alpha=0.7,  \
+	   transform=ccrs.PlateCarree())
+ax.set_extent([minx,maxx,miny,maxy], crs=ccrs.PlateCarree())
+plt.savefig('eq.png')
 ```
 
-```text
-6894.76
-100000.00
-689.48
-```
+<img width="340"src="https://pbs.twimg.com/media/Eu2zz5HXEAERzGs?format=jpg&name=small"/>
 
 ---
 
-Many countries use fossil [gas based](2018/10/lpg-cylinder-gas-kitchen-cab.md)
-solutions for energy, it's cheap. With some increase in volume, the same delivery
-cld be performed thr H2. 
+Sure left wing cld leave too, but leaving the party of FDR? Its weird
 
 ---
 
-Floating point numbah 🤣
+That's right, libs have their own party in UK. Here is your cue Us libs
 
----
+"A major reason why the US welfare state is so meager, its union
+movement so frail, and its working class so divided is that the United
+States is the only advanced capitalist democracy where parties of big
+business have always monopolized the political arena. The morbid
+symptoms of this impasse are everywhere today, from the rise of
+Trumpism, to the Democratic establishment’s stubborn opposition to
+Medicare for All in the midst of a pandemic, to the deepening
+polarization of national politics along partisan lines free from any
+focus on redistributing wealth and power.
 
-I bet he is from Brooklyn.. "Newton's Luuuaaa".
+Identifying this problem, unfortunately, has proven to be much easier
+than effectively overcoming it. ...
 
----
+Like the United States today, the UK had an entrenched two-party
+system in which the Liberal Party was politically hegemonic over
+workers and their organizations in the late nineteenth century. Aiming
+to win over the Libs’ working-class base, socialists avoided the twin
+perils of marginalization and co-optation by organizing in and against
+the party, building workplace militancy, confronting establishment
+Liberals when possible, and allying with them when necessary.
 
-Landau, great computational sci professor.. Wrote a fine book, and
-shared vids of his lecture. Fantastic. Writes solid Python code.
+The result was a decades-long dirty break, culminating in the founding
+of the Labour Party in 1906 and its displacement of the Liberals"
 
----
-
-"Gaza receives 20,000 Sputnik V Covid-19 vaccine doses from UAE"
-
----
-
-"Uber and Lyft say they’re just tech platforms, not transportation
-companies that employ drivers, even as they tell city officials that
-their drivers’ names should be treated as confidential trade secrets
-because disclosure would make them easier for other companies to
-poach"
-
-[Link](https://www.bloomberg.com/news/features/2021-02-17/gig-economy-coming-for-millions-of-u-s-jobs-after-california-s-uber-lyft-vote)
-
----
-
-"Both *Ghostbusters* and its sequel were a perfect encapsulation of
-Ronald Reagan’s 1980s, and the two movies reflect the ambivalent and
-inchoate resentments of a rapidly deindustrializing working class. But
-the most important — and culturally significant — embodiment of the
-'Me First' decade in Ghostbusters was a small, pudgy green ghost who
-eventually became known as 'Slimer.' ...
-
-Instead of Slimer, Afterlife’s creators have given us Muncher, a
-blobbish ghost who looks like Gudetama joined the Blue Man Group and
-became carbuncular with tumors. Where Slimer was joy, Muncher is
-depression; where Slimer was sex, Muncher is abstinence; where Slimer
-gave his captors a run for their money, Muncher is snail-like; where
-Slimer was booze and cocaine, Muncher is ketamine and opioids; and,
-most important, where Slimer devoured with hedonistic abandon, Muncher
-merely munches.
-
-If Slimer was the Marquis de Sade, Muncher is a basement-dwelling
-failson. Sluggish and anhedonic, neutered and soft, the big blue ghost
-is the perfect embodiment of our era of permanent decline, in which
-every downwardly mobile middle-class American has become lobotomized
-by the internet and unsustainable consumption"
-
-[Link](https://www.jacobinmag.com/2021/02/ghostbusters-afterlife-reboot-slimer-muncher)
-
----
-
-"@bocxtop
-
-Gofundme (2012): just a cool lil website where ur friends can support
-your projects :)
-
-Gofundme (2021): the backbone of the american healthcare system
-
-imagine if we all put money into one national gofundme so that the
-money would just be there if someone got sick, why has no one ever
-thought of this :/"
-
----
-
-"Oil spill from passing ship blackens Israel's Mediterranean shoreline"
+[Link](https://jacobinmag.com/2021/02/labour-party-uk-lessons-socialists)
 
 ---
 
