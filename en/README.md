@@ -26,10 +26,6 @@ is supposed to pull everything in..
 
 ---
 
-Half a million people are dead. No joke \#covid \#us
-
----
-
 "Biden is tired of dealing with the Middle East — and, barely a month
 into his tenure, the region has noticed.
 
@@ -101,6 +97,10 @@ The result was a decades-long dirty break, culminating in the founding
 of the Labour Party in 1906 and its displacement of the Liberals"
 
 [Link](https://jacobinmag.com/2021/02/labour-party-uk-lessons-socialists)
+
+---
+
+Half a million people are dead. No joke \#covid \#us
 
 ---
 
