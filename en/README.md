@@ -8,11 +8,6 @@ important salvo in the effort"
 
 ---
 
-Hope eeaders dont see giddy 'gotcha' slant in these.. Its more
-disappointment, than giddy..
-
----
-
 That's right there is ejection from the middle of so-called black
 holes, outward, even many artistic representation of BH's show
 it.. But then how could there be any ejection at all? The f-ing thing
