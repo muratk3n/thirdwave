@@ -55,7 +55,7 @@ be focused around the Agean..
 
 ```python
 import cartopy.crs as ccrs, cartopy, util
-#df = util.get_eq3()
+df = util.get_eq3()
 fig = plt.figure(figsize=(20, 20))
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 ax.set_global()
