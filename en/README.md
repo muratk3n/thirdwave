@@ -70,7 +70,7 @@ ax.set_extent([minx,maxx,miny,maxy], crs=ccrs.PlateCarree())
 plt.savefig('eq.png')
 ```
 
-<img width="340"src="https://pbs.twimg.com/media/Eu2zz5HXEAERzGs?format=jpg&name=small"/>
+<img width="340" src="https://pbs.twimg.com/media/Eu2zz5HXEAERzGs?format=jpg&name=small"/>
 
 ---
 
