@@ -12,6 +12,10 @@ Of course the "battery" tech mentioned here uses H2 combined with a
 metal hydride. It is basically creating renewable fuel internally, on
 demand.
 
+This speaks to the versatility of the approach.. H2 can be stored in
+huge amounts, transported with ease, and in a certain type of usages,
+yes, it can also act like a battery.
+
 "With Texan power outages hitting the headlines this week, it’s worth
 looking to a startup that’s developed the world’s first renewable,
 hydrogen-powered energy storage system. At full charge, it can furnish
