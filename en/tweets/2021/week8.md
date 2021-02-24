@@ -46,7 +46,7 @@ other allies and even adversaries like Russia and China"
 Looking at the hood.. Earthquakes of the past two years >4.5 seem to
 be focused around the Agean.. 
 
-[Code](https://muratk3n.github.io/thirdwave/en/tweets/2021/util.py)
+[Code](util.py)
 
 
 ```python
