@@ -46,13 +46,13 @@ later hurt his mov career.
 
 ---
 
-*Bright*, in the spirit of MIB and even some 5th Elem. Only Will Smith
-cld have pulled this off.
+*Bright*, in the spirit of MIB and even some t5th Elem. Only Will
+Smith cld have pulled this off.
 
 ---
 
-No, AU is proposing a new math to simplify current approaches, a more
-expressive language in a way.. Not stuffing, squeezing shite into
+No, Unzic is proposing a new math to simplify current approaches, a
+more expressive language in a way.. Not stuffing, squeezing shite into
 extra dimensions so some data fits better.
 
 "Is the [quaternion idea](2021/02/unzicker.md#quaternions) an hidden
