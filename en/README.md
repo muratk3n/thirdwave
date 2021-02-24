@@ -33,7 +33,7 @@ solar farms but PV panels mounted on rooftops"
 
 ---
 
-Scott Glenn was like David f..ing Caradane, mystical mountain guy.
+Scott Glenn was like David f..ing Carradine, mystical mountain guy.
 
 ---
 
