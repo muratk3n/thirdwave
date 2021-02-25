@@ -233,32 +233,35 @@ DATE
 
 <a name="unempl"></a>
 
-Unemployment: Reverse of Employment-to-Population Ratio
 
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
+start=datetime.datetime(1986, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
-cols = ['CLF16OV','LFWA64TTUSM647S']
+cols = ['LNS12032194','UNEMPLOY','NILFWJN','LNS12600000','CLF16OV','UNRATE','U6RATE']
 df = data.DataReader(cols, 'fred', start, end)
-df = df.interpolate()
-df['ratio'] = 100.0 - ((df.CLF16OV*1000.0 / df.LFWA64TTUSM647S) * 100.0)
-print (df[['ratio','LFWA64TTUSM647S']].tail(5))
-df.ratio.plot()
+df['REAL_UNEMP_LEVEL'] = df.LNS12032194*0.5 + df.UNEMPLOY + df.NILFWJN
+df['REAL_UNRATE'] = (df.REAL_UNEMP_LEVEL / df.CLF16OV) * 100.0
+pd.set_option('display.max_columns', None)
+df1 = df.loc[df.index > '2005-01-01']
+df1 = df1[['UNRATE','U6RATE','REAL_UNRATE']]
+df1.plot()
+print (df1.tail(5))
 plt.savefig('unemploy.png')
 ```
 
+
 ```text
-                ratio  LFWA64TTUSM647S
-DATE                                  
-2020-09-01  22.352157     2.061590e+08
-2020-10-01  21.919663     2.058367e+08
-2020-11-01  22.017721     2.058622e+08
-2020-12-01  21.900340     2.055924e+08
-2021-01-01  21.956048     2.052190e+08
+            UNRATE  U6RATE  REAL_UNRATE
+DATE                                   
+2020-09-01     7.8    12.8    14.280851
+2020-10-01     6.9    12.1    13.106808
+2020-11-01     6.7    12.0    13.190499
+2020-12-01     6.7    11.7    13.173317
+2021-01-01     6.3    11.1    12.527394
 ```
 
 ![](unemploy.png)
