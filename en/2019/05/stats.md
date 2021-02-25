@@ -249,10 +249,10 @@ pd.set_option('display.max_columns', None)
 df1 = df.loc[df.index > '2005-01-01']
 df1 = df1[['UNRATE','U6RATE','REAL_UNRATE']]
 df1.plot()
+plt.title('Unemployment Rate')
 print (df1.tail(5))
 plt.savefig('unemploy.png')
 ```
-
 
 ```text
             UNRATE  U6RATE  REAL_UNRATE
