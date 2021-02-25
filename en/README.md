@@ -48,12 +48,6 @@ remember talk of a 'work requirement' for billionaires' kids"
 
 ---
 
-This shit is larger than any one individual.. Modernity did that. It
-was built upon the pieces scattered about and its connections.. and
-its connectors. 
-
----
-
 Case in point
 
 "@rebeccaballhaus
