@@ -18,10 +18,10 @@ Haha .. "being few meal packs short of a picnic", a way of calling a person craz
 
 ---
 
-The magic of `plt.savefig('%04d.png' % i)` and `convert -delay 30 *.png anim.gif`. 
-
-This book had its code depend too tighly on `vpython`, after many
-versions failed. Trick above makes it work again. Simple.
+The magic of `plt.savefig('%04d.png' % i)` and `convert -delay 30
+*.png anim.gif`. This book had its code depend too tighly on
+`vpython`, after many versions failed. Trick above makes it work
+again. Simple.
 
 ---
 
