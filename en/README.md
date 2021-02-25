@@ -44,7 +44,7 @@ Department and Township Officials"
 
 Republicans now pushing a 'work requirement' for child tax credit for
 poor families. Funny, when they slashed the inheritance tax, I don't
-remember talk of a "work requirement" for billionaires' kids"
+remember talk of a 'work requirement' for billionaires' kids"
 
 ---
 
