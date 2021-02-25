@@ -842,9 +842,12 @@ dtype: float64
 
 ![](gini.png)
 
-References, Nots
+---
+
+References, Notes
 
 [1] Note: for Quandl retrieval get the API key from Quandl, and place the
 key in a `.quandl` file in the same directory as this file.
 
 [2] [Komlos](https://www.longfinance.net/news/pamphleteers/true-us-unemployment-rate-march-2019/)
+
