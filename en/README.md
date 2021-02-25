@@ -1,103 +1,82 @@
 # Tweets
 
-"APA Group ... announced a plan to make a 43 kilometre section of its
-Parmelia gas pipeline in Western Australia 100 per cent ready to
-transport hydrogen"
-
-[Link](https://www.afr.com/chanticleer/apa-joins-asx-hydrogen-push-20210223-p5754d)
+"Hit TV show Frasier to be revived after 20 years"
 
 ---
 
-Of course the "battery" tech mentioned here uses H2 combined with a
-metal hydride. It is basically creating renewable fuel internally, on
-demand.
+"@Istanbultelaviv
 
-This speaks to the versatility of the approach.. H2 can be stored in
-huge amounts, transported with ease, and in certain type of usages,
-yes, it can also act like a battery.
-
-"With Texan power outages hitting the headlines this week, it’s worth
-looking to a startup that’s developed the world’s first renewable,
-hydrogen-powered energy storage system. At full charge, it can furnish
-a house with electricity for about three days"
-
-[Link](https://www.goodnewsnetwork.org/worlds-first-home-green-hydrogen-battery-powers-your-house-for-3-days/)
+It is beyond scandalous Netanyahu is handing out vaccines to Czech
+Republic, Honduras, Guatemala, and Hungary, related to their opening
+diplomatic offices/embassies in Jerusalem. Netanyahu is doing this on
+own and is not gov policy-all the while Palestinians not being
+vaccinated"
 
 ---
 
-"South Australia has met 100% of its electricity demands with solar
-energy for the first time over the weekend—most of it coming not from
-solar farms but PV panels mounted on rooftops"
-
-[Link](https://www.goodnewsnetwork.org/south-australia-solar-meets-100-percent-energy-demands/)
+Haha .. "being few meal packs short of a picnic", a way of calling a person crazy.
 
 ---
 
-Scott Glenn was like David f..ing Carradine, mystical mountain guy.
+The magic of `plt.savefig('%04d.png' % i)` and `convert -delay 30 *.png anim.gif`. 
+
+This book had its code depend too tighly on `vpython`, after many
+versions failed. Trick above makes it work again. Simple.
 
 ---
 
-Good acting by Ch O'Don. But IMO playing Robin to nipple-suit batman
-later hurt his mov career. 
+"China Faces European Obstacles as Some Countries Heed U.S. Pressure"
 
 ---
 
-*Vertical Limit* kept it real. 5 stars
+"@Cm_KeithKaplan
+
+We just banned Facial Recognition use by the @TeaneckNJGov Police
+Department and Township Officials"
 
 ---
 
-*Bright*, in the spirit of MIB and even some t5th Elem. Only Will
-Smith cld have pulled this off.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Nikola Corp on Tuesday disclosed details on its hydrogen fuel-cell-powered product lineup that will include vehicles with a driving range of up to 900 miles.&quot;<a href="https://t.co/WXbJgAdFxJ">https://t.co/WXbJgAdFxJ</a></p>&mdash; Bj�rn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1364220898933305344?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-No, Unzic is proposing a new math to simplify current approaches, a
-more expressive language in a way.. Not stuffing, squeezing shite into
-extra dimensions so some data fits better.
+"@ChrisMurphyCT
 
-"Is the [quaternion idea](2021/02/unzicker.md#quaternions) an hidden
-dimension approach to physics?"
-
----
-
-"@newyorkerunion
-
-We’re back at the bargaining table tomorrow, and we’ve told @newyorker
-and @condenast management that we expect them to bring a serious
-counter to our wage proposal—one that will let us begin remedying
-decades of low, stagnant, irregular pay"
+Republicans now pushing a 'work requirement' for child tax credit for
+poor families. Funny, when they slashed the inheritance tax, I don't
+remember talk of a "work requirement" for billionaires' kids"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I always dreamed of working in journalism but early in my career, i realized it wasn’t a financially viable path for someone like me, someone who grew up below the poverty line. <br>Appalling that nothing’s changed in 15 years, even at the most prestigious pubs. <a href="https://t.co/9xNuy2XMoP">https://t.co/9xNuy2XMoP</a></p>&mdash; Dina Fierro (@dinafierro_) <a href="https://twitter.com/dinafierro_/status/1364035581219643392?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This shit is larger than any one individual.. Modernity did that. It
+was built upon the pieces scattered about and its connections.. and
+its connectors. 
 
 ---
 
-Reuters: "For the longer term, the industry is closely watching
-Europe’s biggest energy grid operator, E.ON, which is converting a gas
-pipeline in Germany to deliver pure hydrogen"
+Case in point
 
-[Link](https://www.reuters.com/article/us-australia-pipeline-hydrogen/future-proofing-australias-gas-networks-look-to-go-green-with-hydrogen-idUSKBN2AM0BR)
+"@rebeccaballhaus
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i wish to write in such a way that google docs can never anticipate what im going to say next</p>&mdash; biblically accurate devil (@lil_morgy) <a href="https://twitter.com/lil_morgy/status/1363905597540720640?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-😊 👍
-
-"@jonathanavila
-
-Do any other hydrogen #fuelcell drivers get that awkward look from
-surrounding motorist when you accelerate and all the H2O spews out of
-the tailpipe?"
+When Texas deregulated power generation—creating the system that
+failed last week—it required 60% of consumers to buy power from retail
+providers, rather than a local utility. Those consumers paid $28B more
+since 2004 than the utilities’ rates, WSJ finds"
 
 ---
 
-Supersymmetry
+Too many pro-market types not seeing the monopoly, rigged playing
+field problem. You can fashion yourself as the hunter in the
+wilderness, aaall free, independent, fine.. But no hunter would go
+into a woods where the trees were magically being shifted around, and
+game appears and disappears at a whim.. How come is this missed?  For
+a self-reliant folk, they dont come across as too alert
 
-<iframe width="240"  src="https://www.youtube.com/embed/xDXWelcSRH4?start=344&end=521" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+\#WSJ
+
+<img width="340" src="https://pbs.twimg.com/media/EvAJ_csVkAEi7v8?format=jpg&name=small"/>
 
 ---
 
