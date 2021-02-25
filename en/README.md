@@ -76,7 +76,7 @@ a self-reliant folk, they dont come across as too alert
 
 \#WSJ
 
-<img width="340" src="https://pbs.twimg.com/media/EvAJ_csVkAEi7v8?format=jpg&name=small"/>
+<img width="240" src="https://pbs.twimg.com/media/EvAJ_csVkAEi7v8?format=jpg&name=small"/>
 
 ---
 
