@@ -55,7 +55,7 @@ No, Unzic is proposing a new math to simplify current approaches, a
 more expressive language in a way.. Not stuffing, squeezing shite into
 extra dimensions so some data fits better.
 
-"Is the [quaternion idea](2021/02/unzicker.md#quaternions) an hidden
+"Is the [quaternion idea](../../2021/02/unzicker.md#quaternions) an hidden
 dimension approach to physics?"
 
 ---

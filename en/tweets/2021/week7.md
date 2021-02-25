@@ -85,7 +85,7 @@ follow.
 
 ---
 
-This is already known, see [link](2016/03/life.md#unique); "life’s
+This is already known, see [link](../../2016/03/life.md#unique); "life’s
 simpler building blocks are so prevalent in the universe that
 molecules from space may have seeded life on earth itself".
 
@@ -117,7 +117,7 @@ midst of a once-in-a-century global pandemic"
 ---
 
 Why did LBJ escalate the Vietnam conflict? He saw the alternative as
-[appeasement](2021/02/vietnam.md#lbj). Costly decision.
+[appeasement](../../2021/02/vietnam.md#lbj). Costly decision.
 
 ---
 
@@ -440,7 +440,7 @@ They need to take that shite off the Internet.
 ---
 
 If an area as large as Texas was covered with panels today, it would
-[provide](2019/05/bezos-space-infrastructure.md#energy) ample energy,
+[provide](../../2019/05/bezos-space-infrastructure.md#energy) ample energy,
 twice of what is required actually, for the entire world.
 
 Colonization fine for other things, not urgent for energy.
@@ -594,7 +594,7 @@ closely resembles the physics being done today"
 
 ---
 
-Creator is [more likely](2015/04/god.md)
+Creator is [more likely](../../2015/04/god.md)
 
 "Which is likely? Creator or not?"
 
