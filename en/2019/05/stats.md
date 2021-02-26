@@ -659,12 +659,22 @@ today = datetime.datetime.now()
 start=datetime.datetime(2000, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
+print (df.tail(5))
 ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
 ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
 h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
 plt.savefig('10yrgld.png')
+```
+
+```text
+            DGS10  GOLDAMGBD228NLBM
+DATE                               
+2021-02-19   1.34           1773.75
+2021-02-22   1.37           1798.80
+2021-02-23   1.37           1809.50
+2021-02-24   1.38           1807.25
 ```
 
 ![](10yrgld.png)
