@@ -13,9 +13,9 @@ largest employers, urban centers, and campuses in the United States"
 
 ---
 
-Using electricity from the grid, and w electric heaters producing get
-heat is a bad, bad idea. The grid is only 40% efficient, elec. heating
-is 33%, giving you overall efficiency of 13%.
+Using electricity from the grid, and w electric heaters producing heat
+is a bad, bad idea. The grid is only 40% efficient, elec. heating is
+33%, giving you overall efficiency of 13%.
 
 Molecule based transmission is more efficient, use that to generate
 both heat and electricity, on site, through this CHP.
@@ -118,14 +118,6 @@ What matters is ppl having healthcare and enough money to spend.
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">While blue and green hydrogen are both options when it comes to future clean energy, <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> has been endorsed by a majority of Europe and Asia, accelerating the adoption of green hydrogen strategies. Read more in <a href="https://twitter.com/Forbes?ref_src=twsrc%5Etfw">@Forbes</a>. <a href="https://twitter.com/hashtag/renewables?src=hash&amp;ref_src=twsrc%5Etfw">#renewables</a> <a href="https://twitter.com/hashtag/energy?src=hash&amp;ref_src=twsrc%5Etfw">#energy</a><a href="https://t.co/rTqsFOJo6F">https://t.co/rTqsFOJo6F</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1364965051665420300?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-I wonder if u can model earthquakes with a plate swirling on a rod,
-rotating on a head.. An active quake region is "the plate", and it's
-like quakes are weights dropped on that plate, plate wants to be in
-equilibrium, at level, so 1 hit on one side needs to be balanced with
-another hit on the other..? 🤔
 
 ---
 
