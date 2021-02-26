@@ -112,11 +112,6 @@ Scott Glenn was like David f..ing Carradine, mystical mountain guy.
 
 ---
 
-Good acting by Ch O'Don. But IMO playing Robin to nipple-suit batman
-later hurt his mov career. 
-
----
-
 *Vertical Limit* kept it real. 5 stars
 
 ---
