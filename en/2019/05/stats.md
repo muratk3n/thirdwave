@@ -649,6 +649,26 @@ DATE
 ![](t3mff.png)
 
 
+Gold and 10 Year Treasuries
+
+```python
+from pandas_datareader import data
+import datetime
+
+today = datetime.datetime.now()
+start=datetime.datetime(2000, 1, 1)
+end=datetime.datetime(today.year, today.month, today.day)
+df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
+ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
+ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+plt.savefig('10yrgld.png')
+```
+
+![](10yrgld.png)
+
 <a name="vix"></a>
 
 ## VIX
