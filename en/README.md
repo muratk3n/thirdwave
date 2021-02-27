@@ -129,8 +129,6 @@ monster!"
 "NPROXX can provide a hydrogen storage solution best suited to the
 needs, pressures and the range of the vehicle"
 
-<img width="340" src="https://www.nproxx.com/wp-content/uploads/2021/02/hydrogen_powered_vehicles_infographicv2.png"/>
-
 [Link](https://www.nproxx.com/how-hydrogen-powers-different-vehicles/)
 
 ---
