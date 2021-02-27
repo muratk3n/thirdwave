@@ -44,8 +44,9 @@ alternative to the existing system.
 
 ---
 
-Gold is deemed as "safe haven" during downturns (as in macro, not in
-currency scare) , it is prefered during such times.
+Gold is deemed as "safe haven" during downturns (as in
+finance/liquidity, not in currency scare, end-of-the-world sense) , it
+is prefered during such times.
 
 Once possibility of growth appears, rates go up, gold goes down.
 
