@@ -14,7 +14,7 @@ I remember this fine innovation from 2019.. Aliminium hydride stores
 H2, then just add water and H2 comes out?
 
 A patent was granted on it, a start-up founded set to produce.. News
-of eaceful applications of it wld be nice.
+of peaceful applications of it wld be nice.
 
 US DOE: "Ideal [military] equipment weight is 30% of a person’s body
 weight, but some soldiers have to carry more than 100 pounds. To
