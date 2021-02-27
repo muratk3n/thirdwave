@@ -40,7 +40,7 @@ portable fuel systems"
 
 Im not talking about the deficit / thrift decision which is a
 political decision.. I am talking about how finite-reserve constructs
-can figure into the discussion, whether they even should.
+figure into the discussion, and whether they even should.
 
 ---
 
