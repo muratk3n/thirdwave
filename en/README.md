@@ -45,13 +45,13 @@ can figure into the discussion, whether they even should.
 ---
 
 Gold is deemed as "safe haven" during downturns (as in
-finance/liquidity sense, not in currency, end-of-the-world scare) , it
-is prefered during such times.
+finance/liquidity and part macro sense, not in currency,
+end-of-the-world scare sense), it is prefered during such times.
 
 Once possibility of growth appears, rates go up, gold goes down.
 
 Will some pundits who constantly "stan gold" (and bitcoin) in that
-currency alternative sense update their view of the world now?
+currency alternative way update their view of the world now?
 
 ---
 
