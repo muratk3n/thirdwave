@@ -38,9 +38,9 @@ portable fuel systems"
 
 ---
 
-Neither gold, nor bitcoin can form the backbone of a fiat system. We
-need to ponder new digital currency systems that can truly present an
-alternative to the existing system.
+Im not talking about the deficit / thrift decision which is a
+political decision.. I am talking about how finite-reserve constructs
+can figure into the discussion, whether they even should.
 
 ---
 
