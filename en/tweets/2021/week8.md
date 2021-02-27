@@ -73,7 +73,7 @@ Powell to his credit recently said the real rate is closer to 10.
 
 ---
 
-Attempted to replicate the Komlos calculation [here](2019/05/stats.md#unempl).
+Attempted to replicate the Komlos calculation [here](../../2019/05/stats.md#unempl).
 This is now **my** official unemployment rate.
 
 Says the real rate is 12.52%, while official is 6.3%. Even U6
