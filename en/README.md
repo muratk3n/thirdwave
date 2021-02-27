@@ -50,7 +50,7 @@ isn't doing what they think it is doing.
 
 ---
 
-Gold and the 10 year treasury.. It doesn't get any more opposite then
+Gold and the 10 year treasury.. It doesn't get any more opposite than
 this... One is up other is down, one is down other is up.. They are
 comically negatively correlated.
 
