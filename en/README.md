@@ -82,7 +82,6 @@ DATE
 2021-02-22   1.37           1798.80
 2021-02-23   1.37           1809.50
 2021-02-24   1.38           1807.25
-2021-02-25    NaN           1792.10
 ```
 
 <img width="340" src="https://pbs.twimg.com/media/EvJK3X_WYAAN3Hx?format=png&name=small"/>
