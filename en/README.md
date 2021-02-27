@@ -45,7 +45,7 @@ alternative to the existing system.
 ---
 
 Gold is deemed as "safe haven" during downturns (as in
-finance/liquidity, not in currency scare, end-of-the-world sense) , it
+finance/liquidity sense, not in currency, end-of-the-world scare) , it
 is prefered during such times.
 
 Once possibility of growth appears, rates go up, gold goes down.
