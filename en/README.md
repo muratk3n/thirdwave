@@ -54,8 +54,9 @@ currency alternative sense update their view of the world now?
 
 ---
 
-You cannot get any more opposite then this... One is up other is down,
-one is down other is up.. They are comically negatively correlated.
+Gold and the 10 year treasury.. It doesn't get any more opposite then
+this... One is up other is down, one is down other is up.. They are
+comically negatively correlated.
 
 ```python
 from pandas_datareader import data
