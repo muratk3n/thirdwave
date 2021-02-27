@@ -45,7 +45,8 @@ end-of-the-world scare sense), it is prefered during such times.
 Once possibility of growth appears, rates go up, gold goes down.
 
 Will some pundits who constantly "stan gold" (and bitcoin) in that
-currency alternative way update their fin knowledge now?
+currency doom scenario update their fin knowledge now? The market
+isn't doing what they think it is doing.
 
 ---
 
