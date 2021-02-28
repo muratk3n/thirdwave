@@ -14,10 +14,12 @@ today. This is proven tech.
 
 ---
 
-JM was cohost of the world famous car show *Top Gear*.
-
-Main host Jeremy Clarkson's [interest](https://www.hydrogenfuelnews.com/jeremy-clarkson-comes-out-in-support-of-hydrogen-fuel-cells/8528018/amp/)
+The main *Top Gear* host Jeremy Clarkson's [interest](https://www.hydrogenfuelnews.com/jeremy-clarkson-comes-out-in-support-of-hydrogen-fuel-cells/8528018/amp/)
 in HFCs is also well-known.
+
+---
+
+JM was cohost of the world famous car show *Top Gear*.
 
 "THE GRAND Tour host James May has written about .. fuel cell electric
 vehicles ..  in a piece for the Sunday Times Magazine"
