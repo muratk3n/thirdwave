@@ -1,143 +1,133 @@
 # Tweets
 
-<img width="340" src="https://pbs.twimg.com/card_img/1364925382311489540/CCjbXwd_?format=jpg&name=small"/>
 
-[Link](https://www.alexander-dennis.com/media/news/2021/february/adl-s-british-built-h20-next-generation-hydrogen-bus-to-deliver-up-to-300-zero-emission-mile-range/)
-
----
-
-<blockquote width="340" class="twitter-tweet"><p lang="en" dir="ltr">Happy to see <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> cooperation also outside Europe! Our colleague <a href="https://twitter.com/SabrineEU?ref_src=twsrc%5Etfw">@SabrineEU</a> spoke at &quot;EU-Korea green partnership: Connecting Korea and EU&#39;s <a href="https://twitter.com/hashtag/GreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#GreenDeal</a>&quot; about hydrogen strategies at EU and national level, w/ a focus on <a href="https://twitter.com/hashtag/mobility?src=hash&amp;ref_src=twsrc%5Etfw">#mobility</a> aspects. 🇪🇺🇰🇷<br>Recording <a href="https://t.co/nGmgj0kbKc">https://t.co/nGmgj0kbKc</a> <a href="https://t.co/IA5UEo2zMV">pic.twitter.com/IA5UEo2zMV</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1365216728045608960?ref_src=twsrc%5Etfw">February 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Long-range over land hydrogen pipelines can transport 10 times more energy than long-distance electricity transmission lines at one eighth the cost. And existing pipelines can be retrofitted to handle hydrogen to vastly reduce the cost of pipeline projects.<a href="https://t.co/MfCwxjI1YT">https://t.co/MfCwxjI1YT</a></p>&mdash; At War With The Dinosaurs (@WarWithTheDinos) <a href="https://twitter.com/WarWithTheDinos/status/1365344645669093379?ref_src=twsrc%5Etfw">February 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I remember this fine innovation from 2019.. Aliminium hydride stores
-H2, then just add water and H2 comes out?
-
-A patent was granted on it, a start-up founded set to produce.. News
-of peaceful applications of it wld be nice.
-
-US DOE: "Ideal [military] equipment weight is 30% of a person’s body
-weight, but some soldiers have to carry more than 100 pounds. To
-lighten the load, the Army is looking into replacing lithium-ion
-batteries with fuel cells for power generation—decreasing battery
-weight by 50%. These 'wearable power systems' for the dismounted
-solider can produce 20 watts (W) of continuous output and 35W of peak
-power. To aid this effort, the U.S. Department of Energy (DOE) is
-working to drive down the cost of aluminum hydride—a promising
-material that can be used for storing hydrogen to utilize in these
-portable fuel systems"
-
-[Link](https://www.energy.gov/eere/articles/4-ways-fuel-cells-power-us-military)
+"What goes around comes around" while on a topic abt recycling. Not shabby \#f24
 
 ---
 
+JM was cohost of the world famous car show *Top Gear*.
 
-<iframe width="300" src="https://www.youtube.com/embed/caYHHcP6jrs?start=29&end=114" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Main host Jeremy Clarkson's [interest](https://www.hydrogenfuelnews.com/jeremy-clarkson-comes-out-in-support-of-hydrogen-fuel-cells/8528018/amp/)
+in HFCs is also well-known.
 
-"What is the reflation trade?"
+"THE GRAND Tour host James May has written about .. fuel cell electric
+vehicles ..  in a piece for the Sunday Times Magazine"
 
----
-
-Gold is deemed as "safe haven" during downturns (as in
-finance/liquidity and part macro sense, not in currency,
-end-of-the-world scare sense), it is prefered during such times.
-
-Once possibility of growth appears, rates go up, gold goes down.
-
-Will some pundits who constantly "stan gold" (and bitcoin) in that
-currency doom scenario update their fin knowledge now? The market
-isn't doing what they think it is doing.
+[Link](https://www.driving.co.uk/news/technology/james-may-written-hydrogen-manifesto-instead-reviewing-toyota-mirai/)
 
 ---
 
-Gold and the 10 year treasury.. It doesn't get any more opposite than
-this... One is up other is down, one is down other is up.. They are
-comically negatively correlated.
+"@brianschatz
 
-```python
-from pandas_datareader import data
-import datetime
-
-today = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
-print (df.tail(5))
-ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
-ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('10yrgld.png')
-```
-
-```text
-            DGS10  GOLDAMGBD228NLBM
-DATE                               
-2021-02-19   1.34           1773.75
-2021-02-22   1.37           1798.80
-2021-02-23   1.37           1809.50
-2021-02-24   1.38           1807.25
-```
-
-<img width="340" src="https://pbs.twimg.com/media/EvJK3X_WYAAN3Hx?format=png&name=small"/>
+The filibuster was never in the constitution, originated mostly by
+accident, and has historically been used to block civil rights. No
+legislatures on earth have a supermajority requirement because that’s
+stupid and paralyzing. It’s time to trash the Jim Crow filibuster"
 
 ---
 
-Gold and treasury rates move in opposites..
+Long-run consensus is still consensus!
+
+"@ericawerner
+
+219-212 , Biden $1.9T relief plan passes House. 
+
+Zero R 'yes' votes.
+
+Two D 'no' votes"
 
 ---
 
-But the gold price went down recently. Shouldnt even the talk of more
-stimulus keep the price up? Well it didnt.
-
-"They are printing money, so gold price will soar"
+(Dont try at home, works in some cases not in all)
 
 ---
 
-I wonder if u can model earthquakes with a plate staying / swirling on
-a rod. An active quake region is "the plate", and it's like quakes are
-weights dropped on that plate, plate wants to be in equilibrium, at
-level, hit on one side needs to be balanced with another hit on the
-other..? 🤔
+$\theta \approx \sin\theta \approx \tan\theta = \partial y/\partial x$? Hot damn!
 
 ---
 
-S. Strogatz's new Cornell lecture, Asymptotics and perturbation methods, on YouTube.
+Indigo Swing - Swing Lover \#music
 
-[Link](https://www.youtube.com/watch?v=KZsk8B_z8pI&list=PL5EH0ZJ7V0jV7kMYvPcZ7F9oaf_YAlfbI)
-
----
-
-Movie summary: "In the final days of World War II, a secret experiment
-to weaponize sharks is shut down and destroyed by the Third Reich. But
-now 60 years later, a small ocean town is plagued by a bloodthirsty,
-mysterious creature, one built and reanimated using parts of the
-greatest killers to ever inhabit in the sea - the Sharkenstein
-monster!"
+[Link](https://youtu.be/OX9Qd-ri7ks?t=37)
 
 ---
 
-*Sharkenstein* 😆 I have to see this shit.
+UK vaccinated more than all of EU combined? First vaccine development
+was partly based in Germany!  There are prod centers in Belgium! Were they
+shipping it all to Britain? 
 
 ---
 
-"NPROXX can provide a hydrogen storage solution best suited to the
-needs, pressures and the range of the vehicle"
-
-[Link](https://www.nproxx.com/how-hydrogen-powers-different-vehicles/)
+Nine great words in the English language; "I'm from the Government,
+and I'm here to help.
 
 ---
 
-Dat $tick - not bad chigga
+Gov can work..
 
-"Fuck a Crip walk, hit the strip like in Bangkok ♪♬
+"@tomgara
 
-Never ever see me ever trip 'bout a lil' broad
+I got vaccinated at the new FEMA site in Brooklyn today, and one thing
+I didn’t expect was just how good it would feel seeing the kind of
+mass public mobilization that’s been missing for the last year ...
 
-See me on the TV screamin', 'Bitch, you a damn fraud'
+The site is running like clockwork and just cranking through the
+vaccinations, must've done hundreds in the 15 mins I was there. Was
+staffed by a huge number of really delightful National Guard people
+from all over the country - the people who gave me my shot were from
+Georgia"
 
-And you don't wanna fuck with a chigga like me"
+---
+
+Hah.. says "fig as old as humanity itself".. Another case of confusing
+agro history with real history. We lived half a millon years before
+that.. doesnt that count? (Fig is only 5000 yrs old)
+
+---
+
+They have their stashhhhh, yeeeaaa.. they took their fill, they
+stashed it, now they want its value to be maintained for that
+stash. That's why they are "stans". Or "gold permabulls" is it called?
+Goldcucks? Sorry, goldbugs?
+
+---
+
+You have to wonder why so many millionaires, billionaires support Bitcoin.. 
+
+---
+
+The unemployment measurement problem was known at the FED, among the
+various branches, at highest levels. Another Komlos paper
+[here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3467994)
+talks about alternative measurements proposed by the officials
+themselves over the years.
+
+---
+
+Hey man, if it is possible to have SA rels wout the crazy stuff, Im
+all for it. 
+
+---
+
+Retweeted by COS dam
+
+"@MaxBoot
+
+The crown prince is a dangerous loose cannon"
+
+---
+
+Khasoggi act .. fits the overall pro dem, pro-human rights stance.. 
+
+---
+
+"Mars Is a Hellhole. Colonizing the red planet is a ridiculous way to help humanity"
+
+[Link](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
 
 ---
 
