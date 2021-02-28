@@ -91,6 +91,10 @@ print (1.00*0.40*0.60) # be
 0.24
 ```
 
+Pipelines can transmit 10 times the energy at one-eighth the costs
+associated with electricity transmission lines [8].
+
+
 Gasoline
 
 1 gallon is 2.56 kg. In Europe the gasoline price is about 9 dollar
@@ -207,3 +211,6 @@ References
 [6] https://www.ammoniaenergy.org/articles/round-trip-efficiency-of-ammonia-as-a-renewable-energy-transportation-media
 
 [7] https://danwatch.dk/en/undersoegelse/how-much-water-is-used-to-make-the-worlds-batteries/
+
+[8] https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf
+
