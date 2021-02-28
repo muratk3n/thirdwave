@@ -68,7 +68,7 @@ shipping it all to Britain?
 ---
 
 Nine great words in the English language; "I'm from the Government,
-and I'm here to help.
+and I'm here to help".
 
 ---
 
