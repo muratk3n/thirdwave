@@ -944,26 +944,6 @@ charset="utf-8"></script>
 
 ---
 
-"Titan is one of the many satellites in the outer solar system with an
-interior water ocean, making it an ideal place to search for elements
-necessary for the origin of life. It's much colder than our planet,
-but is chemically similar to early Earth, Turtle said.
-
-<img width="340" src="https://d3i6fh83elv35t.cloudfront.net/static/2019/12/dragonfly1-768x432.jpg"/>
-
-Humans have probed Titan in the past. In 2005, the European Space
-Agency landed on the moon during the Cassini mission, parachuting a
-camera toward the terrain that took photos during its
-two-and-a-half-hour descent. With Dragonfly, scientists hope to
-measure the chemical composition of the moon's surface. They'll look
-at how Titan's atmosphere could affect those chemical compounds to get
-a better picture of which might be biologically relevant to the
-development of life"
-
-[Link](https://www.pbs.org/newshour/amp/science/this-drone-will-fly-on-one-of-saturns-moons-heres-the-woman-leading-the-mission)
-
----
-
 "Toshiba today announced that the company has delivered a mobile 30kW
 hydrogen fuel cell system, which volume per unit power output is
 reduced to 1/3 compared to the stationary fuel cell systems, to a fuel

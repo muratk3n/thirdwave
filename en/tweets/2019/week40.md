@@ -747,15 +747,6 @@ of landing.
 
 ---
 
-See helicopter works bcz Titan has dense atmo. Rotors have air to push
-to create lift. The same task is much harder on Mars.
-
-And this article saz terraforming Titan is at least possible? 🖖
-
-[Link](https://www.universetoday.com/128532/terraform-saturns-moons/)
-
----
-
 GET TO DA CHOPPA
 
 That's awesome. Sending a helicopter to Titan.

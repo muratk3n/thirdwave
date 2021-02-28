@@ -255,10 +255,6 @@ crewed Mars mission"
 
 ---
 
-Options are multiplying.. Genymeade, Titan, Venus.
-
----
-
 \#occupyVenus
 
 \#occupyVenus

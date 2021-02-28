@@ -325,19 +325,6 @@ US"
 
 ---
 
-From the ACC novel abt a Titan colony, 23rd century.. The comm issue
-would be real. No Zoom calls with Saturn 
-
-A. C. Clarke: "It might have been different if the velocity of light
-were infinite; but it was a mere billion kilometers an hour—and
-therefore, real-time conversation would be forever impossible between
-Earth and anyone beyond the orbit of the Moon. The global electronic
-village which had existed for centuries on the mother world could
-never be extended into space; the political and psychological effects
-of this were enormous, and still not fully understood"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This article is so great:<br><br>“We’re going to sell the living heck out of hydrogen to everybody,” Milton said. “Our stations are not just for us. We’re not just going to sell our location. We’re going to distribute it to others”<a href="https://twitter.com/nikolatrevor?ref_src=twsrc%5Etfw">@nikolatrevor</a> <a href="https://twitter.com/nelhydrogen?ref_src=twsrc%5Etfw">@nelhydrogen</a> <a href="https://t.co/oeffWm7wQK">https://t.co/oeffWm7wQK</a></p>&mdash; Bjørn Eng (@H2Bjorn) <a href="https://twitter.com/H2Bjorn/status/1292819117062402048?ref_src=twsrc%5Etfw">August 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -561,12 +548,6 @@ via @katiesackoff
 I dont understand how hobbiest keeps building the small stuff but
 never move on to bigger stuf... Model Chinook is awesome. But u know
 what's more awesome? A big-ass Chinook!
-
----
-
-Telling ya, Titan is the shit. Or O'Neil cylinders.
-
-Apparently A. C. Clarke’s novel *Imperial Earth* has some good info.
 
 ---
 

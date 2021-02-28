@@ -709,23 +709,6 @@ That is not crazy
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NASA plans to launch a spacecraft to Titan <a href="https://t.co/AuDYl82HyN">https://t.co/AuDYl82HyN</a> <a href="https://twitter.com/hashtag/Nasa?src=hash&amp;ref_src=twsrc%5Etfw">#Nasa</a> <a href="https://twitter.com/hashtag/Titan?src=hash&amp;ref_src=twsrc%5Etfw">#Titan</a></p>&mdash; Stéphane Edgard (@StephaneEdgard) <a href="https://twitter.com/StephaneEdgard/status/1223956076690903045?ref_src=twsrc%5Etfw">February 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Huygens .. landed successfully on Saturn's moon Titan in 2005. Built
-and operated by the European Space Agency, it was part of the
-Cassini–Huygens mission and became the first spacecraft to land on
-Titan and the farthest landing from Earth a spacecraft has ever made.
-
-The Cassini part of the mission was US AFAIK, the probe itself was
-EU. Brits played a major role too, I wonder if this kind of thing will
-happen after Brexit.
-
-<iframe width="340" height="158" src="https://www.youtube.com/embed/msiLWxDayuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 __2 BILLION__
 
 "@fuelcellsworks

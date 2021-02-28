@@ -432,10 +432,6 @@ market. But that could be a tough sell for policy makers"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Descent to Titan: 15 years ago today, <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>’s Huygens probe, having traveled from Earth aboard the Cassini spacecraft, made the first landing in the outer solar system, touching down on Saturn&#39;s planet-sized moon Titan. See what we discovered there: <a href="https://t.co/nOxyCdD8bz">https://t.co/nOxyCdD8bz</a> <a href="https://t.co/ujGmz3OEGh">pic.twitter.com/ujGmz3OEGh</a></p>&mdash; NASA Solar System (@NASASolarSystem) <a href="https://twitter.com/NASASolarSystem/status/1217086120535711744?ref_src=twsrc%5Etfw">January 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tokyo Governor Yoichi Masuzoe declared in 2016, “The 1964 Tokyo Olympics left the Shinkansen high-speed train system as its legacy. The upcoming Olympics will leave a hydrogen society as its legacy.” <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/RenewableEnergy?src=hash&amp;ref_src=twsrc%5Etfw">#RenewableEnergy</a> <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a> <a href="https://t.co/6AC07YR1pB">https://t.co/6AC07YR1pB</a></p>&mdash; TechScale Solutions (@Tech_Scale) <a href="https://twitter.com/Tech_Scale/status/1216516364162273286?ref_src=twsrc%5Etfw">January 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
