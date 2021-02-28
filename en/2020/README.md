@@ -52,6 +52,8 @@
 
 [Knuth on Patents](08/knuth-on-patents.md)
 
+[Space Exploration Goals, Human Colonization](09/space-exploration-goals-colonization.md)
+
 [Why Did Hillary Lose?](09/why-did-hillary-lose.md)
 
 [Floating City Design](10/floating-city.md)
