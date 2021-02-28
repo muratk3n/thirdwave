@@ -14,8 +14,6 @@
 
 [#brexitexit](02/brexitexit.md)
 
-[Article 13](03/article13.md)
-
 [A Matter of Degrees](03/degrees.md)
 
 [H2@Scale](03/h2scale.md)
