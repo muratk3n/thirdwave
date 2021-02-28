@@ -2,6 +2,8 @@
 
 ### Venus
 
+<a name='venus'/>
+
 Venus is relatively close, has the right gravity and in its upper
 atmo, with extra engineering, can be made habitable. 
 
@@ -17,6 +19,8 @@ to explore Venus for up to a month. Such a mission would require less
 time to complete than a crewed Mars mission"
 
 ### O'Neill Cylinders
+
+<a name='oneill'/>
 
 Informative tweet storm
 
