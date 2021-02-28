@@ -130,7 +130,8 @@ Khasoggi act .. fits the overall pro dem, pro-human rights stance..
 
 ---
 
-"Mars Is a Hellhole. Colonizing the red planet is a ridiculous way to help humanity"
+The Atlantic: "Mars Is a Hellhole. Colonizing the red planet is a
+ridiculous way to help humanity"
 
 [Link](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
 
