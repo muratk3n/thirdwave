@@ -21,3 +21,7 @@ once one of O'Neill's students)
 
 <iframe width="340" src="https://www.youtube.com/embed/GQ98hGUe6FM?start=764" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Planetary chauvinism comment by Asimov was the kicker.
+
+Bezos is infrastructure-minded, that is the way to go.
+
