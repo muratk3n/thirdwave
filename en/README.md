@@ -5,6 +5,11 @@
 
 ---
 
+Reminder: Abt 1000 miles of H2 pipelines are already [operational](2019/03/wirespipes.md#doe) in US
+today. This is proven tech.
+
+---
+
 "What goes around comes around" while on a topic abt recycling. Not shabby \#f24
 
 ---
