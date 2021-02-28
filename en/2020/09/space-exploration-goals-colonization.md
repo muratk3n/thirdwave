@@ -7,6 +7,15 @@ atmo, with extra engineering, can be made habitable.
 
 <iframe width="340"  src="https://www.youtube.com/embed/gJ5KV3rzuag?start=60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+NASA has been clearly thinking about this possibility, with its High
+Altitude Venus Operational Concept: "The upper atmosphere of Venus,
+with similar pressure, density, gravity, and radiation protection to
+that of the surface of the earth, is relatively benign at 50 km. A
+lighter-than-air vehicle could carry either a host of instruments and
+probes, or a habitat and ascent vehicle for a crew of two astronauts
+to explore Venus for up to a month. Such a mission would require less
+time to complete than a crewed Mars mission"
+
 ### O'Neill Cylinders
 
 Informative tweet storm on the subject
