@@ -103,8 +103,8 @@ this age.. doesnt that count? (Fig is only 5000 yrs old)
 
 They have their stashhhhh, yeeeaaa.. they took their fill, they
 stashed it, now they want its value to be maintained for that
-stash. That's why they are "stans". Or "gold permabulls" is it called?
-Goldcucks? Sorry, goldbugs?
+stash. That's why they are "stans", and most are also "gold permabulls", is
+it called?  Goldcucks? Sorry, goldbugs?
 
 ---
 
