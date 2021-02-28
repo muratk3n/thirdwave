@@ -39,6 +39,20 @@ use electricity efficiently you would have to install expensive heat
 pumps in every house. Green gas can also be used for vehicles, as
 compressed natural gas already is. 
 
+[Hydrogen Council](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
+
+Longer-term, a hydrogen pipeline network offers the most
+cost-efficient means of distribution. For example, pipelines can
+transmit 10 times the energy at one-eighth the costs associated with
+electricity transmission lines and have capex costs similar to those
+for natural gas. The industry can partially reuse existing gas
+infrastructure, but even newly constructed pipelines would not be cost
+prohibitive (assuming leakage and other safety risks are properly
+addressed). For example, we estimate the cost to transport hydrogen
+from North Africa to central Germany via pipeline could amount to
+about USD 0.5 per kg of H2 – less than the cost difference of domestic
+renewable hydrogen production in these two regions
+
 <a name='doe'/>
 
 [US Department of Energy](https://www.energy.gov/eere/fuelcells/hydrogen-pipelines)
