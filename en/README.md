@@ -88,9 +88,14 @@ Georgia"
 
 ---
 
+Our anatomy has largely remained unchanged in the past 300K years, so
+yes, human history is much longer. 
+
+---
+
 Hah.. says "fig as old as humanity itself".. Another case of confusing
-agro history with real history. We lived half a millon years before
-that.. doesnt that count? (Fig is only 5000 yrs old)
+agro history with real history. We lived thousands of years before
+this age.. doesnt that count? (Fig is only 5000 yrs old)
 
 ---
 
