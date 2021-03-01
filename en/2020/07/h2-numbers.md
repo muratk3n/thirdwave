@@ -91,6 +91,8 @@ print (1.00*0.40*0.60) # be
 0.24
 ```
 
+<a name='pipevswire'/>
+
 Pipelines can transmit 10 times the energy at one-eighth the costs
 associated with electricity transmission lines [8]. Verification; take
 10 m/s gas flow, at 350 bars density H2 is 28 kg/m3, assuming a pipe
