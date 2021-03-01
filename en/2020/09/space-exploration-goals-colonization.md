@@ -40,5 +40,3 @@ elements so more people, organizations can explore space, in the same
 way he was able to bulid Amazon on elements that were available to
 him during the 90s.
 
-
-

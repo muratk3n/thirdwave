@@ -92,7 +92,7 @@ of numbers, before the sequence repeats itself.
 
 ---
 
-Could actually be even more efficient than H2->electricity->engine. 
+H2->engine could even be more efficient than H2->electricity->engine. 
 
 "Japan’s Mitsubishi Heavy Industries Engine & Turbocharger, Ltd (MHIET)
 is conducting tests on a pure hydrogen gas engine based on its
