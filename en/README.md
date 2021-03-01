@@ -95,8 +95,7 @@ def pseudr(x):
     kk = int(x/127773)
     x = 16807*(x - kk*121773) - kk*2836
     if x < 0: x = x + 2147483647
-    u = x*3.6565e-10 
-    return x, u
+    return x, x*3.6565e-10 
 
 x, u = pseudr(1e7); print (u)
 x, u = pseudr(x); print (u)
