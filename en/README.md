@@ -87,24 +87,8 @@ formula describing everything.
 ---
 
 Creating randomness deterministicallly, sure. Pseudorandom numbers are
-generated with algorithms, with the code below I can generate 2
-billion numbers, before the sequence repeats itself. 
-
-```python
-def pseudr(x): 
-    kk = int(x/127773)
-    x = 16807*(x - kk*121773) - kk*2836
-    if x < 0: x = x + 2147483647
-    return x, x*3.6565e-10 
-
-x, u = pseudr(1e7); print (u)
-x, u = pseudr(x); print (u)
-```
-
-```text
-3.0831430784071
-2433.72270656586
-```
+generated with algorithms, with the right code u can generate billions
+of numbers, before the sequence repeats itself.
 
 ---
 
