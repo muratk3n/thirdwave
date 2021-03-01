@@ -1,146 +1,121 @@
 # Tweets
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Long-range over land hydrogen pipelines can transport 10 times more energy than long-distance electricity transmission lines at one eighth the cost. And existing pipelines can be retrofitted to handle hydrogen to vastly reduce the cost of pipeline projects.<a href="https://t.co/MfCwxjI1YT">https://t.co/MfCwxjI1YT</a></p>&mdash; At War With The Dinosaurs (@WarWithTheDinos) <a href="https://twitter.com/WarWithTheDinos/status/1365344645669093379?ref_src=twsrc%5Etfw">February 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Reminder: Abt 1000 miles of H2 pipelines are already [operational](2019/03/wirespipes.md#doe) in US
-today. This is proven tech.
-
----
-
-"What goes around comes around" while on a topic abt recycling. Not shabby \#f24
+Jacobin: "Finland Had a Patent-Free COVID-19 Vaccine Nine Months Ago —
+But Still Went With Big Pharma. A team of leading Finnish researchers
+had a patent-free COVID-19 vaccine ready last May, which could have
+allowed countries all over the world to inoculate their populations
+without paying top dollar. Yet rather than help the initiative,
+Finland's government sided with Big Pharma — showing how a
+patent-based funding model puts profit over public health"
 
 ---
 
-The main *Top Gear* host Jeremy Clarkson's [interest](https://www.hydrogenfuelnews.com/jeremy-clarkson-comes-out-in-support-of-hydrogen-fuel-cells/8528018/amp/)
-in HFCs is also well-known.
+Gravity is the [main issue](2020/09/space-exploration-goals-colonization.md).
+Must have a near-Earth gravity.
+
+"Why not go to any ol' place in space and colonize?"
 
 ---
 
-JM was cohost of the world famous car show *Top Gear*.
-
-"THE GRAND Tour host James May has written about .. fuel cell electric
-vehicles ..  in a piece for the Sunday Times Magazine"
-
-[Link](https://www.driving.co.uk/news/technology/james-may-written-hydrogen-manifesto-instead-reviewing-toyota-mirai/)
-
----
-
-"@brianschatz
-
-The filibuster was never in the constitution, originated mostly by
-accident, and has historically been used to block civil rights. No
-legislatures on earth have a supermajority requirement because that’s
-stupid and paralyzing. It’s time to trash the Jim Crow filibuster"
+Started using an alternate browser on YouTube, wout logging to GOOG,
+works just fine. Recommendations, to the extent they worked before,
+continue to work, YT keeps track prev watched vids using browser
+cookie, wout knowing true ID. If I manually remove the cookie, the
+memory is gone, clean slate.
 
 ---
 
-Long-run consensus is still consensus!
+Report was prepared by H2 Council and McKinsey.
 
-"@ericawerner
+The council is made up of >100 companies, w some [well-known](https://pbs.twimg.com/media/EvS25tLXYAAnWCA?format=jpg&name=small)
+names.
 
-219-212 , Biden $1.9T relief plan passes House. 
+"Longer-term, a hydrogen pipeline network offers the most
+cost-efficient means of distribution. For example, pipelines can
+transmit 10 times the energy at one-eighth the costs associated with
+electricity transmission lines and have capex costs similar to those
+for natural gas. The industry can partially reuse existing gas
+infrastructure, but even newly constructed pipelines would not be cost
+prohibitive (assuming leakage and other safety risks are properly
+addressed). For example, we estimate the cost to transport hydrogen
+from North Africa to central Germany via pipeline could amount to
+about USD 0.5 per kg of H2 – less than the cost difference of domestic
+renewable hydrogen production in these two regions"
 
-Zero R 'yes' votes.
-
-Two D 'no' votes"
-
----
-
-(Dont try at home, works in some cases not in all)
-
----
-
-$\theta \approx \sin\theta \approx \tan\theta = \partial y/\partial x$? Hot damn!
-
----
-
-Indigo Swing - Swing Lover \#music
-
-[Link](https://youtu.be/OX9Qd-ri7ks?t=37)
+[PDF](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
 ---
 
-UK vaccinated more than all of EU combined? First vaccine development
-was partly based in Germany!  There are prod centers in Belgium! Were they
-shipping it all to Britain? 
+
+Air can be DIY compressed in plastic soda bottles, or any other
+regular item.
+
+Just saw this kid, pumps 45 psi into PVC pipe through car tire valve
+and a hand pump, sealed one end with ball valve, once released the
+thing shot a nail with such power it went in the whole 3 inches into
+plywood... Dont try at home, jaw-jaw not war-war, etc but this stuff
+is no joke... Gases, liquids can be extremely efficient.
 
 ---
 
-Nine great words in the English language; "I'm from the Government,
-and I'm here to help".
+Gases, liquids are awesome.
 
 ---
 
-Gov can work..
+DIY compressed air turbine from aerodynamics engineer
 
-"@tomgara
-
-I got vaccinated at the new FEMA site in Brooklyn today, and one thing
-I didn’t expect was just how good it would feel seeing the kind of
-mass public mobilization that’s been missing for the last year ...
-
-The site is running like clockwork and just cranking through the
-vaccinations, must've done hundreds in the 15 mins I was there. Was
-staffed by a huge number of really delightful National Guard people
-from all over the country - the people who gave me my shot were from
-Georgia"
+<iframe width="340" src="https://www.youtube.com/embed/zXEnXEfVBA8?start=269" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Our anatomy has largely remained unchanged in the past 300K years, so
-yes, human history is much longer. 
+But there cld be true randomness present.. from outside actors, as in
+players in a big simulation, whose choices r independent of any
+self-contained stimuli.
 
 ---
 
-Hah.. says "fig as old as humanity itself".. Another case of confusing
-agro history with real history. We lived thousands of years before
-this age.. doesnt that count? (Fig is only 5000 yrs old)
+A lot of random appearing stuff may not be random.. Chaos is similar,
+but in multiple dimensions, like weather. Its unpredictability stems
+tiny deviations causing large changes later, and we can never measure
+the tiny starting point effectively, even if we had the perfect
+formula describing everything.
 
 ---
 
-They have their stashhhhh, yeeeaaa.. they took their fill, they
-stashed it, now they want its value to be maintained for that
-stash. That's why they are "stans", and most are also "gold permabulls", is
-it called?  Goldcucks? Sorry, goldbugs?
+<img width="340" src="https://pbs.twimg.com/media/EvSnG6IXcAAfkfU?format=png&name=small"/>
 
 ---
 
-You have to wonder why so many millionaires, billionaires support Bitcoin.. 
+Creating randomness deterministicallly, sure. Pseudorandom numbers are
+generated with algorithms, with the code below I can generate 2
+billion numbers, before the sequence repeats itself. 
+
+```python
+def pseudr(x): 
+    kk = int(x/127773)
+    x = 16807*(x - kk*121773) - kk*2836
+    if x < 0: x = x + 2147483647
+    u = x*3.6565e-10 
+    return x, u
+
+x, u = pseudr(1e7); print (u)
+x, u = pseudr(x); print (u)
+```
+
+```text
+3.0831430784071
+2433.72270656586
+```
 
 ---
 
-The unemployment measurement problem was known at the FED, among the
-various branches, at highest levels. Another Komlos paper
-[here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3467994)
-talks about alternative measurements proposed by the officials
-themselves over the years.
+Could actually be even more efficient than H2->electricity->engine. 
 
----
+"Japan’s Mitsubishi Heavy Industries Engine & Turbocharger, Ltd (MHIET)
+is conducting tests on a pure hydrogen gas engine based on its
+four-stroke diesel and gas engine technology"
 
-Hey man, if it is possible to have SA rels wout the crazy stuff, Im
-all for it. 
-
----
-
-Retweeted by COS dam
-
-"@MaxBoot
-
-The crown prince is a dangerous loose cannon"
-
----
-
-Khasoggi act .. fits the overall pro dem, pro-human rights stance.. 
-
----
-
-The Atlantic: "Mars Is a Hellhole. Colonizing the red planet is a
-ridiculous way to help humanity"
-
-[Link](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
+[Link](https://www.rivieramm.com/news-content-hub/news-content-hub/mhi-tests-pure-hydrogen-gas-engine-63725)
 
 ---
 
