@@ -7,9 +7,6 @@ Max*.
 
 ---
 
-[Plotted](https://muratk3n.github.io/thirdwave/en/2019/05/stats.html#p2s)
-the data from Quandl. Doesn't look too attractive to me.
-
 "The price-to-sales ratio (Price/Sales or P/S) is calculated by taking
 a company's market capitalization (the number of outstanding shares
 multiplied by the share price) and divide it by the company's total

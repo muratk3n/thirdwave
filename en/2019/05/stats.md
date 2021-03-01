@@ -393,12 +393,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2021-02-08    90.930000
-2021-02-09    90.440002
-2021-02-10    90.370003
-2021-02-11    90.400002
+2021-02-24    90.180000
+2021-02-25    90.129997
+2021-02-26    90.930000
+2021-03-01    90.806999
 Name: Adj Close, dtype: float64
-[ 80.65387323 111.46019544]
+[ 80.65502556 111.44730158]
 ```
 
 ![](dollar.png)
@@ -445,40 +445,6 @@ Name: nfpyoy, dtype: float64
 ```
 
 ![](pay-wage.png)
-
-<a name="p2s"></a>
-
-## SP 500 Price to Sales Ratio
-
-```python
-import datetime, quandl
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = quandl.get("MULTPL/SP500_PSR_QUARTER-S-P-500-Price-to-Sales-Ratio-by-Quarter", 
-returns="pandas",
-start_date=start.strftime('%Y-%m-%d'),
-end_date=end.strftime('%Y-%m-%d'),
-authtoken=open(".quandl").read())
-print (df.tail(5))
-
-df.plot()
-plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
-plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
-plt.savefig('price-sales.png')
-```
-
-```text
-            Value
-Date             
-2020-10-01   2.40
-2020-11-30   2.64
-2020-12-01   2.67
-2020-12-31   2.75
-2021-02-01   2.77
-```
-
-![](price-sales.png)
 
 <a name="sp500prof"></a>
 
@@ -531,10 +497,10 @@ plt.savefig('wilshire.png')
 ```text
             WILL5000IND
 DATE                   
-2021-02-19       195.80
 2021-02-22       194.01
 2021-02-23       194.00
 2021-02-24       196.29
+2021-02-25       191.17
 ```
 
 ![](wilshire.png)
@@ -564,12 +530,12 @@ plt.savefig('junkbond.png')
 ```text
             BAMLH0A2HYBEY
 DATE                     
-2021-02-17           4.44
 2021-02-18           4.45
 2021-02-19           4.43
 2021-02-22           4.47
 2021-02-23           4.51
 2021-02-24           4.45
+2021-02-25           4.60
 ```
 
 ![](junkbond.png)
@@ -604,12 +570,12 @@ plt.savefig('yield-curve.png')
 ```text
             DGS10  DGS3MO  Yield Curve
 DATE                                  
-2021-02-16   1.30    0.04         1.26
-2021-02-17   1.29    0.04         1.25
 2021-02-18   1.29    0.03         1.26
 2021-02-19   1.34    0.04         1.30
 2021-02-22   1.37    0.03         1.34
 2021-02-23   1.37    0.04         1.33
+2021-02-24   1.38    0.03         1.35
+2021-02-25   1.54    0.04         1.50
 ```
 
 ![](yield-curve.png)
@@ -639,12 +605,12 @@ plt.savefig('t3mff.png')
 ```text
             T3MFF
 DATE             
-2021-02-16  -0.04
-2021-02-17  -0.04
 2021-02-18  -0.04
 2021-02-19  -0.03
 2021-02-22  -0.04
 2021-02-23  -0.03
+2021-02-24  -0.04
+2021-02-25  -0.03
 ```
 ![](t3mff.png)
 
@@ -671,10 +637,11 @@ plt.savefig('10yrgld.png')
 ```text
             DGS10  GOLDAMGBD228NLBM
 DATE                               
-2021-02-19   1.34           1773.75
 2021-02-22   1.37           1798.80
 2021-02-23   1.37           1809.50
 2021-02-24   1.38           1807.25
+2021-02-25   1.54           1792.10
+2021-02-26    NaN           1765.10
 ```
 
 ![](10yrgld.png)
@@ -701,13 +668,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2021-02-17    21.500000
 2021-02-18    22.490000
 2021-02-19    22.049999
 2021-02-22    23.450001
 2021-02-23    23.110001
 2021-02-24    21.340000
-2021-02-25    23.610001
+2021-02-25    28.889999
+2021-02-26    27.950001
 Name: Adj Close, dtype: float64
 ```
 
@@ -736,11 +703,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2021-02-19    59.240002
-2021-02-22    61.490002
 2021-02-23    61.669998
 2021-02-24    63.220001
-2021-02-25    63.330002
+2021-02-25    63.529999
+2021-02-26    61.500000
+2021-03-01    62.439999
 Name: Close, dtype: float64
 ```
 
