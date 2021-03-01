@@ -5,7 +5,7 @@
 <a name='venus'/>
 
 Venus is relatively close, has the right gravity and in its upper
-atmo, with extra engineering, can be made habitable. 
+atmo, with the proper engineering, can be made habitable.
 
 <iframe width="340"  src="https://www.youtube.com/embed/gJ5KV3rzuag?start=60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
