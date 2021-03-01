@@ -35,6 +35,10 @@ once one of O'Neill's students)
 
 Note the "planetary chauvinism" comment by Isaac Asimov.
 
-Bezos is infrastructure-minded, and that's good, that is the way to
-approach these problems.
+Bezos is infrastructure-minded, talks about building the necessary
+elements so more people, organizations can explore space, in the same
+way he was able to bulid Amazon on elements that were available to
+him during the 90s.
+
+
 
