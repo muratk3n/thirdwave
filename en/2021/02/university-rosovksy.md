@@ -39,9 +39,7 @@ employees but shareholders of the university: a group of
 owners. “Share values” are determined by the quality of management and
 the product. We seek to keep those values as high as possible. None of
 this is to deny that we very much enjoy the calling, and believe that
-we are engaged in activities of high social value.
-
-Deans
+we are engaged in activities of high social value... 
 
 Both professors and students have in their possession uninterrupted
 time. Time to write, read, think, dream—and to waste. A dean’s
@@ -54,7 +52,30 @@ surprisingly, professors have a certain contempt for
 politicians—compromisers, talkers, windbags. I do not believe that
 many deans share these simple-minded views. Over the years, I have
 developed profound sympathy especially for politicians attempting to
-survive in a democracy.
+survive in a democracy... 
 
+Governance is another area in which American universities are
+unusual. The extensive role of private higher education must be a
+major factor, but that is clearly not the entire explanation. Public
+and private university governance in this country is quite similar,
+and differs in important respect from what might be called the
+“continental model.”
 
-
+The American system is unitary: ultimately one person—a president—is
+in charge. Typically, educational policy—curriculum, nature of
+degrees, selection of faculty, admissions, etc.—is initiated by or
+delegated to academics. But budgets, management of endowment,
+decisions on new programs, long-range plans, and similar matters are
+in the hands of a hierarchy headed by a president who is responsible
+to a board of trustees. Two points are noteworthy in this
+system. First, chairmen, deans, provosts, and similar levels of senior
+and middle management are appointed—not elected—and they can be
+dismissed. This is crucial because academic elections tend to result
+in weak leadership. What professors in their right minds would vote
+for a dean advocating cuts in their subjects? Secondly, relatively
+independent trustees serve both public and private schools, giving
+considerable protection from political interference even to state
+universities. We have a system of governance that permits
+non-consensual and unpopular decisions to be made when necessary. We
+have learned that not everything is improved by making it more
+democratic.
