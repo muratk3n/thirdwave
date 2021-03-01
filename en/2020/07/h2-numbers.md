@@ -46,7 +46,7 @@ print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
 Storing today's energy consumption for half a day would require over
 ten times the amount of available lithium in the world.
 
-BEV
+BEV, Electricity
 
 The EV has an overall efficiency of about 60%. Electric grid
 efficiency is 40%, 60% x 40% gives a total of 24%.
@@ -92,7 +92,24 @@ print (1.00*0.40*0.60) # be
 ```
 
 Pipelines can transmit 10 times the energy at one-eighth the costs
-associated with electricity transmission lines [8].
+associated with electricity transmission lines [8]. Verification; take
+10 m/s gas flow, at 350 bars density H2 is 28 kg/m3, assuming a pipe
+output area of 1 m2, energy density of 33.6 kWh/kg. Compare it with a
+standard tower [9] which is a 765 kV line can reliably transmit
+2200-2400 MW [10].
+
+```python
+dens = 33.6 # kWh/kg
+kg_vol = 28 # kg/m^3 at 350 bars
+v = 10 # m/s
+A = 1 # m^2
+kg_1h = v*A*kg_vol*60*60
+print (kg_1h*dens / 1000.0, 'MWh')
+```
+
+```text
+33868.8 MWh
+```
 
 
 Gasoline
@@ -107,6 +124,8 @@ H2
 1 kg has energy of 39.7 kWh (143 MJ).
 
 At 500 bar, 33 kg H2 /m3.
+
+At 350 bars density is 28 kg/m3.
 
 Liquid hydrogen has a density of 8 MJ/L.
 
@@ -213,4 +232,8 @@ References
 [7] https://danwatch.dk/en/undersoegelse/how-much-water-is-used-to-make-the-worlds-batteries/
 
 [8] https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf
+
+[9] https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small
+
+[10] https://web.ecs.baylor.edu/faculty/grady/_13_EE392J_2_Spring11_AEP_Transmission_Facts.pdf
 
