@@ -142,3 +142,7 @@ ridiculous way to help humanity"
 [Link](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
 
 ---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">the US is already producing 10Mil. metric tons of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> / year. there are 1,600 miles of <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> pipelines in the US. Hydrogen that can be used for our Hydrogen Electric Cars (w/ Zero GHG <a href="https://twitter.com/hashtag/Emissions?src=hash&amp;ref_src=twsrc%5Etfw">#Emissions</a>) today &amp; meet the growing demand for years to come. <a href="https://twitter.com/ENERGY?ref_src=twsrc%5Etfw">@ENERGY</a> <a href="https://twitter.com/hashtag/FunFactFriday?src=hash&amp;ref_src=twsrc%5Etfw">#FunFactFriday</a> <a href="https://t.co/5BngJE4trS">pic.twitter.com/5BngJE4trS</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1002662705570836480?ref_src=twsrc%5Etfw">June 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
