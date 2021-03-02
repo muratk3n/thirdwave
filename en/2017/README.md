@@ -122,8 +122,6 @@
 
 [Kaleefornia](06/kaleefornia.md)
 
-[#uber](06/uber.md)
-
 [War on Drugs](06/war-on-drugs.md)
 
 [War on People](06/war-on-people.md)
