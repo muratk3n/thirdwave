@@ -22,8 +22,8 @@ Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
 
-Let's look at the past 40 years, and we see a -0.89 correlation
-between gold and treasuries.
+Calc o past 40 years below, see a -0.89 correlation between gold and
+treasuries.
 
 ```python
 import pandas as pd
