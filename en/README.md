@@ -113,8 +113,6 @@ Production Facility.. Hyzon Motors chooses Chicago Area as Location
 for High-Volume Fuel Cell Membrane Electrode Assembly (MEA) Production
 Line"
 
-[Link](https://hyzonmotors.com/largest-fuel-cme-production-facility/)
-
 ---
 
 Reuters: "Nikola Corp on Tuesday disclosed details for the rollout of
