@@ -55,10 +55,10 @@ renewable hydrogen production in these two regions
 
 <a name='10calc'/>
 
-Verification; take 10 m/s gas flow, at 350 bars density H2 is 28
-kg/m3, assuming a pipe output area of 1 m2, energy density of 33.6
-kWh/kg. Compare it with a standard tower [1] which is a 765 kV line
-can reliably transmit 2200-2400 MW [2].
+Verification of the 10x tranmission; take 10 m/s gas flow, at 350 bars
+density H2 is 28 kg/m3, assuming a pipe output area of 1 m2, energy
+density of 33.6 kWh/kg. Compare it with a standard tower [1] which is
+a 765 kV line can reliably transmit 2200-2400 MW [2].
 
 
 ```python
@@ -74,6 +74,8 @@ print (kg_1h*dens / 1000.0, 'MWh')
 33868.8 MWh
 ```
 
+This is the power carried in one hour compared to 2400 MWh by typical
+765 kV electrical tower.
 
 <a name='doe'/>
 
