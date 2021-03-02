@@ -90,7 +90,7 @@ behind each 1 cld learn, had I the time to dive in
 
 ---
 
-The "Planet Chauvinism" comment by Isaac Asimov 
+The "planet chauvinism" comment by Isaac Asimov 
 
 <iframe width="340" src="https://www.youtube.com/embed/GQ98hGUe6FM?start=1078&end=1118" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
