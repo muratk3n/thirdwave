@@ -10,7 +10,7 @@ patent-based funding model puts profit over public health"
 
 ---
 
-Gravity is the [main issue](2020/09/space-exploration-goals-colonization.md).
+Gravity is the [main issue](../../2020/09/space-exploration-goals-colonization.md).
 Must have a near-Earth gravity.
 
 "Why not go to any ol' place in space and colonize?"
@@ -106,7 +106,7 @@ four-stroke diesel and gas engine technology"
 
 ---
 
-Reminder: Abt 1600 miles of H2 pipelines are already [operational](2019/03/wirespipes.md#doe) in US
+Reminder: Abt 1600 miles of H2 pipelines are already [operational](../../2019/03/wirespipes.md#doe) in US
 today. This is proven tech.
 
 ---
