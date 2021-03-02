@@ -27,6 +27,17 @@ designed to tie down any potential regional hegemon. ...
 
 <a name='china'/>
 
+China is inherently unstable. Whenever it opens its borders to the
+outside world, the coastal region becomes prosperous, but the vast
+majority of 14Chinese in the interior remain impoverished. This leads
+to tension, conflict, and instability. It also leads to economic
+decisions made for political reasons, resulting in inefficiency and
+corruption. This is not the first time that China has opened itself to
+foreign trade, and it will not be the last time that it becomes
+unstable as a result. Nor will it be the last time that a figure like
+Mao emerges to close the country off from the outside, equalize the
+wealth—or poverty— and begin the cycle anew....
+
 The vast majority of China's population lives within one thousand
 miles of the coast, populating the eastern third of the country, with
 the other two-thirds being quite underpopulated ...
@@ -42,3 +53,11 @@ to the weakening of the central government's control over the coastal
 regions, and to increased instability and chaos. The coastal regions
 preferred close ties to (and even domination by) the Europeans.
 
+The period of chaos lasted from the mid-nineteenth century until the
+Communists took power in 1949. Mao had tried to foment a revolution in
+coastal cities like Shanghai. Having failed, he took the famous long
+march into the interior, where he raised an army of poor peasants,
+fought a civil war, and retook the coast. He then returned China to
+its pre-European enclosure. From 1949 until Mao's death, China was
+united and dominated by a strong government, but was isolated and
+poor.
