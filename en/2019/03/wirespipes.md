@@ -64,8 +64,8 @@ a 765 kV line can reliably transmit 2200-2400 MW [2].
 ```python
 dens = 33.6 # kWh/kg
 kg_vol = 28 # kg/m^3 at 350 bars
-v = 10 # m/s
-A = 1 # m^2
+v = 10 # m/s, conservative flow speed
+A = 1 # m^2, pipe crosssection area
 kg_1h = v*A*kg_vol*60*60
 print (kg_1h*dens / 1000.0, 'MWh')
 ```
