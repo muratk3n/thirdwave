@@ -22,7 +22,7 @@ Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
 
-Calc o past 40 years below, see a -0.89 correlation between gold and
+Calc on past 40 years below. See a -0.89 correlation between gold and
 treasuries.
 
 ```python
