@@ -57,8 +57,8 @@ renewable hydrogen production in these two regions
 
 Verification; take 10 m/s gas flow, at 350 bars density H2 is 28
 kg/m3, assuming a pipe output area of 1 m2, energy density of 33.6
-kWh/kg. Compare it with a standard tower [9] which is a 765 kV line
-can reliably transmit 2200-2400 MW [10].
+kWh/kg. Compare it with a standard tower [1] which is a 765 kV line
+can reliably transmit 2200-2400 MW [2].
 
 
 ```python
@@ -86,4 +86,10 @@ petroleum refineries and chemical plants, are concentrated such as the
 Gulf Coast region. Transporting gaseous hydrogen via existing
 pipelines is a low-cost option for delivering large volumes of
 hydrogen
+
+References
+
+[1] https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small
+
+[2] https://web.ecs.baylor.edu/faculty/grady/_13_EE392J_2_Spring11_AEP_Transmission_Facts.pdf
 
