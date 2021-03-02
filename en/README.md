@@ -92,7 +92,7 @@ The "Planet Chauvinism" comment by Isaac Asimov
 ---
 
 Just look at FED [GPDNow](https://www.frbatlanta.org/cqer/research/gdpnow) estimate..
-As of 3/1 the latest estimate is 10%.
+As of 3/1 the estimate is 10%.
 
 I am sure they use many base indicators to calculate this.. there are
 some known ones, such as [ISM PMI](2019/05/stats.md#pmi) 
