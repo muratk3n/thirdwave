@@ -89,7 +89,7 @@ hydrogen
 
 References
 
-[1] https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small
+[1] Typical Elec Tower [Pic](https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small)
 
-[2] https://web.ecs.baylor.edu/faculty/grady/_13_EE392J_2_Spring11_AEP_Transmission_Facts.pdf
+[2] US Electical Power, [Transmission Facts](https://web.ecs.baylor.edu/faculty/grady/_13_EE392J_2_Spring11_AEP_Transmission_Facts.pdf)
 
