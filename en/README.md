@@ -22,6 +22,11 @@ Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
 
+Printing can cause crash in certain cases, if ur President is a bus
+driver and the country is f-ing Venezuella.
+
+---
+
 Calc on past 40 years below. See a -0.89 correlation between gold and
 treasuries.
 
