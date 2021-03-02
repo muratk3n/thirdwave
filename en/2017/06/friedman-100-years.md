@@ -156,4 +156,20 @@ were vilified, so was Reagan vilified as a betrayer of America's
 common man. But Reagan had no more choice in the end than did
 Roosevelt or Hayes or Jackson. Reality dictated this evolution.
 
+<a name='china'/>
+
+The vast majority of China's population lives within one thousand
+miles of the coast, populating the eastern third of the country, with
+the other two-thirds being quite underpopulated ...
+
+The Europeans encountered a China in the mid-nineteenth century that
+was going through one of its isolationist periods. It was united but
+relatively poor. The Europeans forced their way in, engaging coastal
+China in intense trade. This had two effects. The first was the
+dramatic increase in wealth in the coastal areas that were engaged in
+trade. The second was the massive increase in inequality between
+China's coast and the poor interior regions. This disparity also led
+to the weakening of the central government's control over the coastal
+regions, and to increased instability and chaos. The coastal regions
+preferred close ties to (and even domination by) the Europeans.
 
