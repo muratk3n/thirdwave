@@ -91,28 +91,8 @@ print (1.00*0.40*0.60) # be
 0.24
 ```
 
-<a name='pipevswire'/>
-
 Pipelines can transmit 10 times the energy at one-eighth the costs
-associated with electricity transmission lines [8]. Verification; take
-10 m/s gas flow, at 350 bars density H2 is 28 kg/m3, assuming a pipe
-output area of 1 m2, energy density of 33.6 kWh/kg. Compare it with a
-standard tower [9] which is a 765 kV line can reliably transmit
-2200-2400 MW [10].
-
-```python
-dens = 33.6 # kWh/kg
-kg_vol = 28 # kg/m^3 at 350 bars
-v = 10 # m/s
-A = 1 # m^2
-kg_1h = v*A*kg_vol*60*60
-print (kg_1h*dens / 1000.0, 'MWh')
-```
-
-```text
-33868.8 MWh
-```
-
+associated with electricity transmission lines [8]. 
 
 Gasoline
 
