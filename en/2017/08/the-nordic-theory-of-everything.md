@@ -107,3 +107,8 @@ no means inevitable. The more I experienced life in the United States,
 the more I began to think that what Nordic societies [..] had
 succeeded in pushing past outdated forms of social dependency, and
 that they had taken modernity to its logical conclusion.
+
+References
+
+[1] [Video](https://youtu.be/6Pm0Mn0-jYU?t=371)
+
