@@ -22,7 +22,7 @@ Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
 
-Printing can cause crash in certain cases, if ur President is a bus
+Printing can cause crash in certain cases, if ur President is the bus
 driver and the country is f-ing Venezuella.
 
 ---
