@@ -207,15 +207,12 @@ References
 
 [4] [extremetech](https://www.extremetech.com/extreme/280219-2019-hyundai-nexo-review-380-miles-on-hydrogen-can-your-ev-go-that-far)
 
-[5] https://www.businessinsider.com/this-toyota-fuel-cell-car-can-power-your-house-2014-11
+[5] [Business Insider](https://www.businessinsider.com/this-toyota-fuel-cell-car-can-power-your-house-2014-11)
 
-[6] https://www.ammoniaenergy.org/articles/round-trip-efficiency-of-ammonia-as-a-renewable-energy-transportation-media
+[6] [Ammonia Energy Association](https://www.ammoniaenergy.org/articles/round-trip-efficiency-of-ammonia-as-a-renewable-energy-transportation-media)
 
-[7] https://danwatch.dk/en/undersoegelse/how-much-water-is-used-to-make-the-worlds-batteries/
+[7] [Danwatch](https://danwatch.dk/en/undersoegelse/how-much-water-is-used-to-make-the-worlds-batteries/)
 
-[8] https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf
+[8] [Hydrogen Insights](https://hydrogencouncil.com/wp-content/uploads/2021/02/Hydrogen-Insights-2021-Report.pdf)
 
-[9] https://pbs.twimg.com/media/EvasTd_XEAAQ86Q?format=jpg&name=small
-
-[10] https://web.ecs.baylor.edu/faculty/grady/_13_EE392J_2_Spring11_AEP_Transmission_Facts.pdf
 
