@@ -95,8 +95,8 @@ Just look at FED [GPDNow](https://www.frbatlanta.org/cqer/research/gdpnow) estim
 As of 3/1 the estimate is 10%.
 
 I am sure they use many base indicators to calculate this.. there are
-some known ones, such as [ISM PMI](2019/05/stats.md#pmi) 
-That's how I knew a month ago growth was coming.
+some known ones, eg [ISM PMI](2019/05/stats.md#pmi) That's how I knew
+a month ago growth was coming.
 
 "How can some people know GDP will grow?"
 
