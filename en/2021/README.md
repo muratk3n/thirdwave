@@ -10,9 +10,11 @@
 
 [Unity](02/unity.md)
 
-[University, An Owner's Manual by Rosovsky](02/university-rosovksy.md)
+[University, An Owner's Manual](02/university-rosovksy.md)
 
 [Alex Unzicker](02/unzicker.md)
 
 [Vietnam](02/vietnam.md)
+
+[On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.md)
 
