@@ -32,11 +32,6 @@ takes Matsu islands, Taiwan becomes independent"
 
 ---
 
-I dont know why I bleeped that... "Only I curse in this blog!". "It's my
-shit!". "Do you know who I am?!!"
-
----
-
 "@lawyerinbeta
 
 Our [bleeping] brand new Nest decided, on its own, to override our
