@@ -74,7 +74,7 @@ Anita O'Day - Sing, Sing, Sing (Rsl Remix) \#music
 
 ---
 
-What is a university? How does it work? Some collated [points](2021/02/university-rosovksy.md)
+Universities, governance, professors.. Some collated [points](2021/02/university-rosovksy.md)
 from H. Rosovsky.
 
 ---
