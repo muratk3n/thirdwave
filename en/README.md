@@ -27,8 +27,8 @@ current situation being in limbo taking Matsu and other islands (now
 belonging to Taiwan) wld draw a clear line in the sand, that would
 push Taiwan towards clear independence.
 
-Steve Tsang (SOAS CH Inst Director): "[Paraphr] Unlikely but If China
-takes Matsu islands, Taiwan becomes independent"
+Steve Tsang (SOAS CH Inst Director): "[Paraphrasing] Unlikely but If
+China takes Matsu islands, Taiwan becomes independent"
 
 ---
 
