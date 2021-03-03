@@ -1,4 +1,6 @@
-# University, An Owner's Manual by Rosovsky
+# University, An Owner's Manual 
+
+Henry Rosovsky
 
 Another critical virtue of academic life—I am thinking of tenured
 professors at, say, America’s top fifty to one hundred institutions—is
@@ -55,16 +57,10 @@ developed profound sympathy especially for politicians attempting to
 survive in a democracy... 
 
 Governance is another area in which American universities are
-unusual. The extensive role of private higher education must be a
-major factor, but that is clearly not the entire explanation. Public
-and private university governance in this country is quite similar,
-and differs in important respect from what might be called the
-“continental model.”
-
-The American system is unitary: ultimately one person—a president—is
-in charge. Typically, educational policy—curriculum, nature of
-degrees, selection of faculty, admissions, etc.—is initiated by or
-delegated to academics. But budgets, management of endowment,
+unusual...  The American system is unitary: ultimately one person—a
+president—is in charge. Typically, educational policy—curriculum,
+nature of degrees, selection of faculty, admissions, etc.—is initiated
+by or delegated to academics. But budgets, management of endowment,
 decisions on new programs, long-range plans, and similar matters are
 in the hands of a hierarchy headed by a president who is responsible
 to a board of trustees. Two points are noteworthy in this
