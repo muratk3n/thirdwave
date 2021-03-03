@@ -18,8 +18,7 @@ modern household.. Where does this shit all go?
 
 ---
 
-STrek Voyager episode *The Void* has great lessons for alliance
-building.
+ST Voyager episode *The Void* has great lessons for alliance building.
 
 ---
 
