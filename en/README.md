@@ -9,7 +9,7 @@ Pinned Tweets
 It definitely feels like Texas' time has come to swing the other way,
 towards the left, towards more regulation.. One side regulates, the
 other deregulates.. long-run avg lands somewhere in the middle. We
-need both sides (I will root for one side, Im saying overall).
+need both sides (I will root for one side, jus saying overall).
 
 ---
 
