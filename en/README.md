@@ -6,123 +6,102 @@ Pinned Tweets
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/YNKehLXpLRI?start=214" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+It definitely feels like Texas' time has come to swing the other way,
+towards the left, towards more regulation.. One side regulates, the
+other deregulates.. long-run avg lands somewhere in the middle. We
+need both sides (I will root for one side, Im saying overall).
 
 ---
 
-"The U.S. Department of Energy (DOE) is funding a demonstration of the
-design, build and operation of the country's first dedicated renewable
-hydrogen network, starting in Texas"
-
-[Link](https://www.forbes.com/sites/mitsubishiheavyindustries/2021/02/25/how-the-lone-star-state-is-building-a-green-hydrogen-future/amp/?sh=38354eae7e8a)
+Obscene amounts of nylon, plastic bags, containers come out of each
+modern household.. Where does this shit all go?
 
 ---
 
-Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
+ST Voyager episode *The Void*  has great lessons for alliance building.
 
 ---
 
-Printing can cause crash in certain cases, if ur President is the bus
-driver and the country is f-ing Venezuella.
+Those islands are extremely close to CH BTW.  I guess what he means is
+current situation being in limbo taking Matsu and other islands (now
+belonging to Taiwan) wld draw a clear line in the sand, that would
+push Taiwan towards clear independence.
+
+Steve Tsang (SOAS CH Inst Director): "[Paraphr] Unlikely but If China
+takes Matsu islands, Taiwan becomes independent"
 
 ---
 
-Calc on past 40 years below. See a -0.89 correlation between gold and
-treasuries.
-
-```python
-import pandas as pd
-import pandas_datareader.data as web
-pd.set_option('display.max_columns', None)
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader(['GC=F', '^TNX','DX-Y.NYB'], 'yahoo', start, end)['Adj Close']
-df.columns = ['gold','treasuries','dollar']
-df = df.dropna()
-print (df.tail(4))
-```
-
-```text
-                   gold  treasuries     dollar
-Date                                          
-2021-02-23  1804.400024       1.362  90.169998
-2021-02-24  1796.400024       1.389  90.180000
-2021-02-25  1774.400024       1.518  90.129997
-2021-02-26  1728.099976       1.460  90.930000
-```
-
-```python
-print (df.corr())
-```
-
-```text
-                gold  treasuries    dollar
-gold        1.000000   -0.891583 -0.395122
-treasuries -0.891583    1.000000  0.197605
-dollar     -0.395122    0.197605  1.000000
-```
+I dont know why I bleeped that... "Only I curse in this blog!". "It's my
+shit!". "Do you know who I am?!!"
 
 ---
 
-The highest correlation among the triplet dollar, gold, and treasuries
-is between treasuries and gold. This corr is **highly** negative. The
-correlation between dollar and gold is much weaker. This means growth
-(and inflation) expectations are the main drivers, not some
-end-of-the-world currency collapse scenario.
+"@lawyerinbeta
 
-"But printing money will crush the dollar, that's what I know!"
+Our [bleeping] brand new Nest decided, on its own, to override our
+programmed 73° overnight temp to its choice of 77°. That’s too toasty
+even for me. WHY.  @internetofshit"
 
 ---
 
-"New York Governor Andrew Cuomo announced Thursday Plug Power will
-invest $290 million in the construction of a state-of-the-art green
-hydrogen fuel production facility [which] will produce 45 tons of
-green hydrogen daily. Construction is expected to begin this summer."
-
-[Link](https://www.wkbw.com/news/local-news/green-hydrogen-fuel-production-facility-to-bring-68-jobs-to-genesee-county)
+Forbes: "The U.S. Department of Energy (DOE) is funding a
+demonstration of the design, build and operation of the country's
+first dedicated renewable hydrogen network, starting in Texas"
 
 ---
 
-The Bernal sphere, the Stanford Torus, O'Neill Cylinder.. A lot of
-different names for the same thing. There must be excellent stories
-behind each 1 cld learn, had I the time to dive in
+"India Plans Green Hydrogen Auctions... India will soon issue tenders
+for production and procurement of hydrogen from renewable energy
+sources, India’s minister for renewable energy revealed"
+
+[Link](https://cleantechnica.com/2021/02/28/india-plans-green-hydrogen-auctions/amp/)
 
 ---
 
-The "planet chauvinism" comment by Isaac Asimov 
+The Germans are coming
 
-<iframe width="340" src="https://www.youtube.com/embed/GQ98hGUe6FM?start=1078&end=1118" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@idreesali114
 
----
-
-Just look at FED [GPDNow](https://www.frbatlanta.org/cqer/research/gdpnow) estimate..
-As of 3/1 the estimate is 10% growth for Q1.
-
-I am sure they use many base indicators to calculate this.. some
-widely known ones [ISM PMI](2019/05/stats.md#gdpism) for ex. That's
-how I knew a month ago growth was coming.
-
-"How can some people know GDP will grow?"
+A German frigate will set sail for Asia in August and, on its return
+journey, become the first German warship to cross the South China Sea
+since 2002, senior government officials in Berlin said on Tuesday"
 
 ---
 
-Better believe it ... See [calc](2019/03/wirespipes.md#10calc)
-
-"I can't believe H2 pipeline can transmit 10x faster than electrical grids"
-
----
-
-"Hyzon Motors to Build United States’ Largest Fuel Cell Material
-Production Facility.. Hyzon Motors chooses Chicago Area as Location
-for High-Volume Fuel Cell Membrane Electrode Assembly (MEA) Production
-Line"
+SF Chronicle: "[Assembly Member Bill Quirk and Autumn Burke say]
+California must invest in hydrogen infrastructure to meet
+zero-emission goals"
 
 ---
 
-Reuters: "Nikola Corp on Tuesday disclosed details for the rollout of
-its hydrogen fuel-cell-powered product lineup, including vehicles with
-a driving range of up to 900 miles"
+Cuomo approval did not budge after the first allegations.. what
+happens after a second, or third? 
+
+---
+
+Anita O'Day - Sing, Sing, Sing (Rsl Remix) \#music
+
+[Link](https://youtu.be/BPI6jHTiJqc)
+
+---
+
+What is a university? How does it work? Some collated [points](2021/02/university-rosovksy.md)
+from H. Rosovsky.
+
+---
+
+On the [coastal regions and the inland](2017/06/friedman-100-years.md#china) of China.
+
+---
+
+Ditch the space program altogether..? Nooo.. Space is fine. A good trigger for inno.
+
+---
+
+🤣
+
+CNBC: "Most investors 'just aren’t prepared' for surging bond yields, fund manager warns"
 
 ---
 

@@ -164,7 +164,7 @@ efficient [6].
 
 Desalination
 
-Energy consumption [2] of seawater desalination has reached as low as 3 kWh/$m^3$,
+Energy consumption [2] of seawater desalination has reached as low as 4 kWh/$m^3$,
 
 <a name='arabia'/>
 
