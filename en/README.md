@@ -59,8 +59,6 @@ sources, India’s minister for renewable energy revealed"
 
 ---
 
-The Germans are coming
-
 "@idreesali114
 
 A German frigate will set sail for Asia in August and, on its return
