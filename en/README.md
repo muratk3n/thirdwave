@@ -75,11 +75,6 @@ zero-emission goals"
 
 ---
 
-Cuomo approval did not budge after the first allegations.. what
-happens after a second, or third? 
-
----
-
 Anita O'Day - Sing, Sing, Sing (Rsl Remix) \#music
 
 [Link](https://youtu.be/BPI6jHTiJqc)
