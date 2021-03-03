@@ -27,6 +27,8 @@ designed to tie down any potential regional hegemon. ...
 
 <a name='china'/>
 
+China
+
 China is inherently unstable. Whenever it opens its borders to the
 outside world, the coastal region becomes prosperous, but the vast
 majority of Chinese in the interior remain impoverished. This leads to
