@@ -44,7 +44,7 @@ working in all the other ones"
 At the very least weekly working days need to be reduced down to 4.
 Not even during hunter-gathering era, when humans literally had to
 go out and **kill** other animals (and forage) for food, did people
-work this much.. Now we have tech up the vazoo, 2% of ppl can feed the
+work this much.. Now we have tech up the wazoo, 2% of ppl can feed the
 entire population, yet everyone is still running around as if they are
 fighting for survival.
 
