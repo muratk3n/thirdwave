@@ -40,10 +40,10 @@ work, not among everyone.
 The Mechanism of Averaging
 
 To elaborate more on how consensus among (knowledgeable) people can
-result in correct decisions.. Remember earlier we saidat a country
-fair 800 people estimated the weight of an ox. Statistician Francis
-Galton observed that the median guess, 1207 pounds, was accurate
-within 1% of the true weight. Magic.
+result in correct decisions.. Remember earlier we said 800 people
+estimated the weight of an ox correctly. Statistician Francis Galton
+observed that the median guess, 1207 pounds, was accurate within 1% of
+the true weight. Magic.
 
 The reason is, guesses have noise, the right kind of noise, around the
 right answer. Averaging removes noise.
