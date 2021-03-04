@@ -7,11 +7,13 @@ Pinned Tweets
 ---
 
 Not everything needs to be fun, or "visibly fun" as seen from
-outside. Electricity is fun and interesting, there can be sparks,
+outside. Electricity is fun and interesting, there are sparks,
 current, voltage wooohooo! But it is an inefficient way of delivering
-energy. Gases are better. If we keep banging on the "fun stuff", we
-are making a pedagogical mistake, plus might burden, condemn the next
-generation to inefficient, bizarre solutions.
+energy.
+
+If we overly focus on the "fun stuff", we are making a pedagogical
+mistake, plus might burden / condemn the next generation to
+inefficient, bizarre solutions.
 
 ---
 
