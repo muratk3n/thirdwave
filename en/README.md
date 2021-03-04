@@ -22,7 +22,7 @@ relationship.. There are many solutions to Einstein's field
 equations. There are many interpretations of quantum mechanics. But
 out of all possible solutions and interpretations, mov and tv land
 chooses the most flashy one, and sadly it chooses the same ones
-consistently, that from the outside it looks like that direction is
+consistently, then from the outside it looks like that direction is
 the new direction of physics.
 
 For example **out of all solutions to Einstein's field equations**,
