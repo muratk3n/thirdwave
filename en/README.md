@@ -68,9 +68,15 @@ plans to expand it by an additional 80,000 square feet"
 
 ---
 
+Dreaming up shit is fine, but done in excess, and
+repeatedly/consistently creates an illusion where the perception of
+science seen from outside becomes disturbed.
+
+---
+
 Lota weirdo funk seems to be the by-product of these "field
-equations". Its singularities "predict" black holes for instance. But
-better field equations cld do away with singularities, ie no black holes.
+equations". Its singularities "predict" black holes? But better field
+equations cld do away with singularities, ie no black holes.
 
 ---
 
