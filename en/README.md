@@ -68,6 +68,12 @@ plans to expand it by an additional 80,000 square feet"
 
 ---
 
+Lota weirdo funk seems to be the by-product of these "field
+equations". Its singularities "predict" black holes for instance. But
+better field equations cld do away with singularities, ie no black holes.
+
+---
+
 <iframe width="220" src="https://www.youtube.com/embed/dWxGXIPx5A4?start=71&end=132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
