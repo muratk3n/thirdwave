@@ -91,14 +91,6 @@ CNBC: "Most investors 'just aren’t prepared' for surging bond yields, fund man
 
 ---
 
-"The U.S. Department of Energy (DOE) is funding a demonstration of the
-design, build and operation of the country's first dedicated renewable
-hydrogen network, starting in Texas"
-
-[Link](https://www.forbes.com/sites/mitsubishiheavyindustries/2021/02/25/how-the-lone-star-state-is-building-a-green-hydrogen-future/amp/?sh=38354eae7e8a)
-
----
-
 Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
