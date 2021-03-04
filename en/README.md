@@ -89,8 +89,8 @@ guy later fell into a post-Nobel funk... who knows..?
 
 ---
 
-Yes yes.. KIP THORNE helped develop the visualizations for the movie
-*Interstellar*. KIP THORNE.
+Yes yes.. KIP THORNE helped develop the WH visualizations for the
+movie *Interstellar*. KIP THORNE.
 
 But that still doesn't mean there is any substance to this "theory".
 
