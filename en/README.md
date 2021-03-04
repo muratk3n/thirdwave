@@ -74,9 +74,9 @@ science seen from outside becomes disturbed.
 
 ---
 
-Lota weirdo funk seems to be the by-product of these "field
-equations". Its singularities "predict" black holes? But better field
-equations cld do away with singularities, ie no black holes.
+Lota weirdo funk seems to be the by-product of these field
+equations. Its singularities "predict" black holes.. But diff form of
+the field equations cld do away with singularities, ie no black holes.
 
 ---
 
