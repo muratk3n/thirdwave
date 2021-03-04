@@ -6,90 +6,97 @@ Pinned Tweets
 
 ---
 
-It definitely feels like Texas' time has come to swing the other way,
-towards the left, towards more regulation.. One side regulates, the
-other deregulates.. long-run avg lands somewhere in the middle. We
-need both sides (I will root for one side, jus saying overall).
+"Energy transition is underway at an exceptional level ... Government
+of India’s (GOI) National Hydrogen Energy Mission (NHM) initiative
+will capitalise on one of the most abundant elements on earth for
+cleaner alternative fuel option"
+
+[Link](https://energy.economictimes.indiatimes.com/amp/news/renewable/national-hydrogen-mission-leapfrogging-towards-indias-cleaner-future/80991679)
 
 ---
 
-Obscene amounts of nylon, plastic bags, containers come out of each
-modern household.. Where does this shit all go?
+The Clintonite OMB appt craters? 🤣 🤣 🤣 I love it
 
 ---
 
-ST Voyager episode *The Void* has great lessons for alliance building.
+Graeber: "[P]roductive jobs have, just as predicted, been largely
+automated away. (Even if you count industrial workers globally,
+including the toiling masses in India and China, such workers are
+still not nearly so large a percentage of the world population as they
+used to be.)
+
+But rather than allowing a massive reduction of working hours to free
+the world’s population to pursue their own projects, pleasures,
+visions, and ideas, we have seen the ballooning not even so much of
+the “service” sector as of the administrative sector, up to and
+including the creation of whole new industries like financial services
+or telemarketing, or the unprecedented expansion of sectors like
+corporate law, academic and health administration, human resources,
+and public relations. And these numbers do not even reflect all those
+people whose job is to provide administrative, technical, or security
+support for these industries, or, for that matter, the whole host of
+ancillary industries (dog washers, all-night pizza deliverymen) that
+only exist because everyone else is spending so much of their time
+working in all the other ones"
 
 ---
 
-Those islands are extremely close to CH BTW.  I guess what he means is
-current situation being in limbo taking Matsu and other islands (now
-belonging to Taiwan) wld draw a clear line in the sand, that would
-push Taiwan towards clear independence.
-
-Steve Tsang (SOAS CH Inst Director): "[Paraphrasing] Unlikely but If
-China takes Matsu islands, Taiwan becomes independent"
+Nah some well-to-do do want people to be employed, have jobs, yes. But
+what they really want is having people around to fetch them coffee,
+service them, and put a stupid hat on during "Christmas sale".
 
 ---
 
-"@lawyerinbeta
-
-Our [bleeping] brand new Nest decided, on its own, to override our
-programmed 73° overnight temp to its choice of 77°. That’s too toasty
-even for me. WHY.  @internetofshit"
-
----
-
-Forbes: "The U.S. Department of Energy (DOE) is funding a
-demonstration of the design, build and operation of the country's
-first dedicated renewable hydrogen network, starting in Texas"
+At the very least weekly working days need to be reduced down to
+4. Not even during hunter-gathering era, when humans literally had to
+go out and **kill** other animals (and forage) for food, did people
+work this much.. Now we have tech up the vazoo, 2% of ppl can feed the
+entire population, yet everyone is still running around as if they are
+fighting for survival.
 
 ---
 
-"India Plans Green Hydrogen Auctions... India will soon issue tenders
-for production and procurement of hydrogen from renewable energy
-sources, India’s minister for renewable energy revealed"
-
-[Link](https://cleantechnica.com/2021/02/28/india-plans-green-hydrogen-auctions/amp/)
+The famous [Graber article](2021/03/bullshit-jobs-article-graeber.md)
+that caused much stir back in 2013. Still a good read.
 
 ---
 
-"@idreesali114
+TechCrunch: "Hyzon Motors plans to produce fuel cells, including a
+critical component required to power hydrogen vehicles, at two
+U.S. factories in a move aimed at kickstarting domestic production at
+a commercial scale.
 
-A German frigate will set sail for Asia in August and, on its return
-journey, become the first German warship to cross the South China Sea
-since 2002, senior government officials in Berlin said on Tuesday"
+The hydrogen-powered truck and bus manufacturer has already leased a
+28,000-square-foot facility in the Chicago suburb of Bolingbrook and
+plans to expand it by an additional 80,000 square feet"
 
----
-
-SF Chronicle: "[Assembly Member Bill Quirk and Autumn Burke say]
-California must invest in hydrogen infrastructure to meet
-zero-emission goals"
-
----
-
-Anita O'Day - Sing, Sing, Sing (Rsl Remix) \#music
-
-[Link](https://youtu.be/BPI6jHTiJqc)
+[Link](https://techcrunch.com/2021/03/01/hyzon-motors-hydrogen-fuel-ambitions-include-two-us-factories/)
 
 ---
 
-Universities, governance, professors.. Some collated [points](2021/02/university-rosovksy.md)
-from H. Rosovsky.
+<iframe width="220" src="https://www.youtube.com/embed/dWxGXIPx5A4?start=71&end=132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-On the [coastal regions and the inland](2017/06/friedman-100-years.md#china) of China.
+He received the Nobel prize for gravity waves, not "wormholes". Maybe
+guy later fell into a post-Nobel funk... who knows..?
 
 ---
 
-Ditch the space program altogether..? Nooo.. Space is fine. A good trigger for inno.
+Yes yes.. KIP THORNE helped develop the visualizations for the movie
+*Interstellar*. KIP THORNE.
+
+But that still doesn't mean there is any substance to this "theory".
 
 ---
 
-🤣
+Landau.. you were doing so well.. then I saw the appendix on
+visualizing wormholes.. treating this subject as if it is proven
+science. Tsck tsck tsck..
 
-CNBC: "Most investors 'just aren’t prepared' for surging bond yields, fund manager warns"
+---
+
+I guess the name of this song is 'one way ticket'
 
 ---
 
