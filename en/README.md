@@ -6,6 +6,25 @@ Pinned Tweets
 
 ---
 
+Here is what's wrong with the current science / scifi entertaiment
+relationship. There are many solutions to Einstein's field
+equations. There are many interpretations of quantum mechanics. But
+out of all possible solutions and interpretations, mov and tv land
+chooses the most flashy one, and sadly it chooses the same ones
+consistently, that from the outside it looks like that direction is
+the new direction of physics.
+
+For example **out of all solutions to Einstein's field equations**,
+movies choose the one that will give them wormholes, that way Loki and
+Thor can come from Asgard and visit Earth. Or **out of all possible
+interpretations of QM** they pick the one that gives them multiple
+universes, that way actors can play their doppelganger with a goatee
+visiting from a different universe.
+
+🤷‍♂️
+
+---
+
 "Energy transition is underway at an exceptional level ... Government
 of India’s (GOI) National Hydrogen Energy Mission (NHM) initiative
 will capitalise on one of the most abundant elements on earth for
