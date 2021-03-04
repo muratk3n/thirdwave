@@ -68,12 +68,12 @@ Anita O'Day - Sing, Sing, Sing (Rsl Remix) \#music
 
 ---
 
-Universities, governance, professors.. Some collated [points](2021/02/university-rosovksy.md)
+Universities, governance, professors.. Some collated [points](../../2021/02/university-rosovksy.md)
 from H. Rosovsky.
 
 ---
 
-On the [coastal regions and the inland](2017/06/friedman-100-years.md#china) of China.
+On the [coastal regions and the inland](../../2017/06/friedman-100-years.md#china) of China.
 
 ---
 
@@ -173,14 +173,14 @@ Just look at FED [GPDNow](https://www.frbatlanta.org/cqer/research/gdpnow) estim
 As of 3/1 the estimate is 10% growth for Q1.
 
 I am sure they use many base indicators to calculate this.. some
-widely known ones [ISM PMI](2019/05/stats.md#gdpism) for ex. That's
+widely known ones [ISM PMI](../../2019/05/stats.md#gdpism) for ex. That's
 how I knew a month ago growth was coming.
 
 "How can some people know GDP will grow?"
 
 ---
 
-Better believe it ... See [calc](2019/03/wirespipes.md#10calc)
+Better believe it ... See [calc](../../2019/03/wirespipes.md#10calc)
 
 "I can't believe H2 pipeline can transmit 10x faster than electrical grids"
 
