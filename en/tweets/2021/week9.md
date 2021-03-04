@@ -167,7 +167,7 @@ green hydrogen daily. Construction is expected to begin this summer."
 
 The Bernal sphere, the Stanford Torus, O'Neill Cylinder.. A lot of
 different names for the same thing. There must be excellent stories
-behind each 1 cld learn, had I the time to dive in
+behind each 1 cld learn, had I had the time to dive in
 
 ---
 
