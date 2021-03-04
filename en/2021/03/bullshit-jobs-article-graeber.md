@@ -161,29 +161,7 @@ measure is hard to find, but one easy way to get a sense is to ask:
 What would happen were this entire class of people to simply
 disappear? Say what you like about nurses, garbage collectors, or
 mechanics, it’s obvious that were they to vanish in a puff of smoke,
-the results would be immediate and catastrophic. A world without
-teachers or dockworkers would soon be in trouble, and even one without
-science-fiction writers or ska musicians would clearly be a lesser
-place. It’s not entirely clear how humanity would suffer were all
-private equity CEOs, lobbyists, PR researchers, actuaries,
-telemarketers, bailiffs, or legal consultants to similarly vanish. 1
-(Many suspect it might improve markedly.) Yet apart from a handful of
-well-touted exceptions (doctors), the rule holds surprisingly well.
-
-Even more perverse, there seems to be a broad sense that this is the
-way things should be. This is one of the secret strengths of
-right-wing populism. You can see it when tabloids whip up resentment
-against tube workers for paralyzing London during contract disputes:
-the very fact that tube workers can paralyze London shows that their
-work is actually necessary, but this seems to be precisely what annoys
-people. It’s even clearer in the United States, where Republicans have
-had remarkable success mobilizing resentment against schoolteachers
-and autoworkers (and not, significantly, against the school
-administrators or auto industry executives who actually cause the
-problems) for their supposedly bloated wages and benefits. It’s as if
-they are being told “But you get to teach children! Or make cars! You
-get to have real jobs! And on top of that, you have the nerve to also
-expect middle-class pensions and health care?”
+the results would be immediate and catastrophic...
 
 If someone had designed a work regime perfectly suited to maintaining
 the power of finance capital, it’s hard to see how he or she could
