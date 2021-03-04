@@ -1,6 +1,6 @@
 # On the Phenomenon of Bullshit Jobs
 
-First Published in 2013
+David Graeber, First Published in 2013
 
 In the year 1930, John Maynard Keynes predicted that, by century’s
 end, technology would have advanced sufficiently that countries like

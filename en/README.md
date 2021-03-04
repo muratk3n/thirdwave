@@ -50,7 +50,7 @@ fighting for survival.
 
 ---
 
-The famous [Graber article](2021/03/bullshit-jobs-article-graeber.md)
+The famous [Graeber article](2021/03/bullshit-jobs-article-graeber.md)
 that caused much stir back in 2013. Still a good read.
 
 ---
