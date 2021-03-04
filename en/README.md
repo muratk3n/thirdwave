@@ -41,12 +41,6 @@ working in all the other ones"
 
 ---
 
-Nah some well-to-do do want people to be employed, have jobs, yes. But
-what they really want is having people around to fetch them coffee,
-service them, and put a stupid hat on during "Christmas sale".
-
----
-
 At the very least weekly working days need to be reduced down to 4.
 Not even during hunter-gathering era, when humans literally had to
 go out and **kill** other animals (and forage) for food, did people
