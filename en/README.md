@@ -17,8 +17,8 @@ inefficient, bizarre solutions.
 
 ---
 
-Here is what's wrong with the current science / scifi entertaiment
-relationship. There are many solutions to Einstein's field
+Here is what's wrong with the current science - scifi
+relationship.. There are many solutions to Einstein's field
 equations. There are many interpretations of quantum mechanics. But
 out of all possible solutions and interpretations, mov and tv land
 chooses the most flashy one, and sadly it chooses the same ones
