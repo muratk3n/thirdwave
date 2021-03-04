@@ -115,7 +115,8 @@ the field equations cld do away with singularities, ie no black holes.
 ---
 
 He received the Nobel prize for gravity waves, not "wormholes". Maybe
-guy later fell into a post-Nobel funk... who knows..?
+guy later fell into a post-Nobel funk... even Einstein did in his
+later years.. who knows..?
 
 ---
 
