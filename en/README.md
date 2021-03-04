@@ -68,9 +68,9 @@ plans to expand it by an additional 80,000 square feet"
 
 ---
 
-Dreaming up shit is fine, but done in excess, and
-repeatedly/consistently creates an illusion where the perception of
-science seen from outside becomes disturbed.
+Dreaming shit up is fine, but done in excess, and repeatedly /
+consistently in a certain direction creates an illusion where the
+perception of science from outside becomes disturbed.
 
 ---
 
