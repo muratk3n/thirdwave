@@ -99,7 +99,7 @@ compelling theory"
 ---
 
 That makes sense I guess; a pandemic doesn't make 1 optimistic abt the
-future, a world into which makes 1 want to bring new ppl into.
+future, a world into which makes parents want to bring new ppl into.
 
 "WSJ: The Covid-19 Baby Bust Is Here"
 
