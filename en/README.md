@@ -52,18 +52,16 @@ America?"
 
 ---
 
-"The sweeping democracy reform bill has been top of the list since
-House Democrats first took back the majority in the 2018 midterms and
-immediately set about expanding voting rights and getting money out of
-politics.
+Vox: "The sweeping democracy reform bill [HR1] has been top of the list
+since House Democrats first took back the majority in the 2018
+midterms and immediately set about expanding voting rights and getting
+money out of politics.
 
 There’s a lot of ground covered in its nearly 800 pages, but some of
 its key points are creating a national system for automatic voter
 registration, putting in transparency requirements for political
 advertising, and instituting nonpartisan redistricting commissions to
 end partisan gerrymandering"
-
-[Link](www.vox.com/platform/amp/2021/3/3/22309123/house-democrats-pass-voting-rights-bill-hr1)
 
 ---
 
