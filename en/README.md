@@ -6,134 +6,106 @@ Pinned Tweets
 
 ---
 
-Not everything needs to be fun, or "visibly fun" as seen from
-outside. Electricity is fun and interesting, there are sparks,
-current, voltage wooohooo! But it is an inefficient way of delivering
-energy.
+"@Jonnelle
 
-If we overly focus on the "fun stuff", we are making a pedagogical
-mistake, plus might burden / condemn the next generation to
-inefficient, bizarre solutions.
+.@Reuters SCOOP: Just days after seizing power, Myanmar’s military
+rulers attempted to withdraw about $1 billion from an account at the
+Federal Reserve Bank of New York but the transfer was blocked by
+authorities'
 
 ---
 
-Here is what's wrong with the current science - scifi
-relationship.. There are many solutions to Einstein's field
-equations. There are many interpretations of quantum mechanics. But
-out of all possible solutions and interpretations, mov and tv land
-chooses the most flashy one, and sadly it chooses the same ones
-consistently, then from the outside it looks like that direction is
-the new direction of physics.
-
-For example **out of all solutions to Einstein's field equations**,
-movies choose the one that will give them wormholes, that way Loki and
-Thor can come from Asgard and visit Earth. Or **out of all possible
-interpretations of QM** they pick the one that gives them multiple
-universes, that way actors can play their doppelganger with a goatee
-visiting from a different universe.
-
-🤷‍♂️
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With great generalizability comes great foolability?<br>Interesting insights from OpenAI <a href="https://t.co/H8myO1XcqG">https://t.co/H8myO1XcqG</a> <a href="https://t.co/Ea4QIYG8EI">pic.twitter.com/Ea4QIYG8EI</a></p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1367590414627205124?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"Energy transition is underway at an exceptional level ... Government
-of India’s (GOI) National Hydrogen Energy Mission (NHM) initiative
-will capitalise on one of the most abundant elements on earth for
-cleaner alternative fuel option"
-
-[Link](https://energy.economictimes.indiatimes.com/amp/news/renewable/national-hydrogen-mission-leapfrogging-towards-indias-cleaner-future/80991679)
+Miles upon miles of electricity cables... whose brilliant idea was that?
 
 ---
 
-The Clintonite OMB appt craters? 🤣 🤣 🤣 I love it
+Jump-Ball.. Well said! \#Kerry
+
+"The US oil & gas industry should embrace 'huge opportunities'
+producing & transporting \#hydrogen, with the potential for that
+cutting-edge energy source to fuel long-haul trucks & supply power
+globally, presidential climate envoy John Kerry said Tuesday"
+
+[Link](https://www.bloomberg.com/news/articles/2021-03-02/hydrogen-is-jump-ball-in-global-clean-energy-race-kerry-says)
 
 ---
 
-Graeber: "[P]roductive jobs have, just as predicted, been largely
-automated away. (Even if you count industrial workers globally,
-including the toiling masses in India and China, such workers are
-still not nearly so large a percentage of the world population as they
-used to be.)
+"@CGHollins
 
-But rather than allowing a massive reduction of working hours to free
-the world’s population to pursue their own projects, pleasures,
-visions, and ideas, we have seen the ballooning not even so much of
-the “service” sector as of the administrative sector, up to and
-including the creation of whole new industries like financial services
-or telemarketing, or the unprecedented expansion of sectors like
-corporate law, academic and health administration, human resources,
-and public relations. And these numbers do not even reflect all those
-people whose job is to provide administrative, technical, or security
-support for these industries, or, for that matter, the whole host of
-ancillary industries (dog washers, all-night pizza deliverymen) that
-only exist because everyone else is spending so much of their time
-working in all the other ones"
+\#HR1 is one of the most important bills in history, as it will help
+more U.S. citizens to participate fairly in our democracy. The Jim
+Crow filibuster in the Senate will almost certainly stand in its
+way. Will Senators have the courage to kill the filibuster and save
+America?"
 
 ---
 
-At the very least weekly working days need to be reduced down to 4.
-Not even during hunter-gathering era, when humans literally had to go
-out and physically hunt (and forage) for food, did people work this
-much.. Now we have tech up the wazoo, 2% of ppl can feed the entire
-population, yet everyone is still running around as if they are
-fighting for survival.
+"The sweeping democracy reform bill has been top of the list since
+House Democrats first took back the majority in the 2018 midterms and
+immediately set about expanding voting rights and getting money out of
+politics.
+
+There’s a lot of ground covered in its nearly 800 pages, but some of
+its key points are creating a national system for automatic voter
+registration, putting in transparency requirements for political
+advertising, and instituting nonpartisan redistricting commissions to
+end partisan gerrymandering"
+
+[Link](www.vox.com/platform/amp/2021/3/3/22309123/house-democrats-pass-voting-rights-bill-hr1)
 
 ---
 
-The famous [Graeber article](2021/03/bullshit-jobs-article-graeber.md)
-that caused much stir back in 2013. Still a good read.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big move up in bond yields after Fed Chair Powell&#39;s remarks today.<br><br>The 10-year yield surpasses last week&#39;s high.<br><br>What does this mean?<br>1) Bond traders betting inflation will rise<br>2) Bond traders betting economy will get a lot stronger<br><br>This is OK for now. But keep an eye on it.. <a href="https://t.co/6g0WJO8Gj2">pic.twitter.com/6g0WJO8Gj2</a></p>&mdash; Heather Long (@byHeatherLong) <a href="https://twitter.com/byHeatherLong/status/1367532716191842309?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-TechCrunch: "Hyzon Motors plans to produce fuel cells, including a
-critical component required to power hydrogen vehicles, at two
-U.S. factories in a move aimed at kickstarting domestic production at
-a commercial scale.
 
-The hydrogen-powered truck and bus manufacturer has already leased a
-28,000-square-foot facility in the Chicago suburb of Bolingbrook and
-plans to expand it by an additional 80,000 square feet"
+Tetris - Green Hair \#music
 
-[Link](https://techcrunch.com/2021/03/01/hyzon-motors-hydrogen-fuel-ambitions-include-two-us-factories/)
+[Link](https://youtu.be/xGvjZWVxVfY)
 
 ---
 
-Dreaming shit up is fine, but done in excess, and repeatedly /
-consistently in a certain direction creates an illusion where the
-perception of science seen from outside becomes askew.
+Man.. they really want Sarko gone don't they? Whenever there are hints
+for another run, courts jump on him. I dont know whether they have
+something solid but were holding back bcz he is ex-Prez but rerun
+makes them reveal stuff, or it is more action-reaction style
+punishment, just raw, wanton hammering a politician they dont like.
 
 ---
 
-Lota weirdo funk seems to be the by-product of these field
-equations. Its singularities "predict" black holes.. But diff form of
-the field equations cld do away with singularities, ie no black holes.
+They come across as a pro-Trump outfit.. Somewhat shady, and not
+necessarily bcz they are pro-Trump.
+
+"The Hill’s owner seeks potential buyers, investors... Under fire for
+its role in promoting alleged Ukraine conspiracy theories, the
+D.C.-based publication faces new questions about its future"
 
 ---
 
-<iframe width="220" src="https://www.youtube.com/embed/dWxGXIPx5A4?start=71&end=132" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+That makes sense I guess; a pandemic doesn't make 1 optimistic abt the
+future, a world into which makes 1 want to bring new ppl into.
+
+"WSJ: The Covid-19 Baby Bust Is Here"
 
 ---
 
-He received the Nobel prize for gravity waves, not "wormholes". Maybe
-guy later fell into a post-Nobel funk... even Einstein did in his
-later years.. who knows..?
+An actress was canceled from *The Mandalorian*.. For mucks sake.. "We
+want strong women" then "we cancel a strong woman". Way to
+go [sarcastic thumbs up] 👍 😶
 
 ---
 
-Yes yes.. KIP THORNE helped develop the WH visualizations for the
-movie *Interstellar*. KIP THORNE.
+Too soon.. but still funny
 
-But that still doesn't mean there is any substance to this "theory".
+"@TheOnion
 
----
-
-Landau.. you were doing so well.. then I saw the appendix on
-visualizing wormholes.. treating this subject as if it is proven
-science. Tsck tsck tsck..
-
----
-
-I guess the name of this song is 'one way ticket'
+Covid Announces Plan To Move Operations To Texas Full-Time To Escape
+Burdensome Regulations"
 
 ---
 
