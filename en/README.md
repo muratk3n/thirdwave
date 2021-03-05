@@ -11,7 +11,7 @@ Pinned Tweets
 .@Reuters SCOOP: Just days after seizing power, Myanmar’s military
 rulers attempted to withdraw about $1 billion from an account at the
 Federal Reserve Bank of New York but the transfer was blocked by
-authorities'
+authorities"
 
 ---
 
