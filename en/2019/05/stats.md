@@ -248,21 +248,20 @@ df['REAL_UNEMP_LEVEL'] = df.LNS12032194*0.5 + df.UNEMPLOY + df.NILFWJN
 df['REAL_UNRATE'] = (df.REAL_UNEMP_LEVEL / df.CLF16OV) * 100.0
 pd.set_option('display.max_columns', None)
 df1 = df.loc[df.index > '2005-01-01']
-df1 = df1[['UNRATE','U6RATE','REAL_UNRATE']]
-df1.plot()
+df1[['UNRATE','U6RATE','REAL_UNRATE']].plot()
 plt.title('Unemployment Rate')
-print (df1.tail(5))
+print (df1[['UNRATE','U6RATE','REAL_UNRATE','REAL_UNEMP_LEVEL']].tail(5))
 plt.savefig('unemploy.png')
 ```
 
 ```text
-            UNRATE  U6RATE  REAL_UNRATE
-DATE                                   
-2020-09-01     7.8    12.8    14.280851
-2020-10-01     6.9    12.1    13.106808
-2020-11-01     6.7    12.0    13.190499
-2020-12-01     6.7    11.7    13.173317
-2021-01-01     6.3    11.1    12.527394
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+DATE                                                     
+2020-10-01     6.9    12.1    13.106808           21065.0
+2020-11-01     6.7    12.0    13.190499           21175.5
+2020-12-01     6.7    11.7    13.173317           21152.0
+2021-01-01     6.3    11.1    12.527394           20064.0
+2021-02-01     6.2    11.1    12.451704           19949.0
 ```
 
 ![](unemploy.png)
