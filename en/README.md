@@ -63,7 +63,6 @@ end partisan gerrymandering"
 
 ---
 
-
 Tetris - Green Hair \#music
 
 [Link](https://youtu.be/xGvjZWVxVfY)
@@ -84,6 +83,18 @@ necessarily bcz they are pro-Trump.
 "The Hill’s owner seeks potential buyers, investors... Under fire for
 its role in promoting alleged Ukraine conspiracy theories, the
 D.C.-based publication faces new questions about its future"
+
+---
+
+Another theory-of-everything bites the dust
+
+"Theo .. and I became aware of Weinstein and Geometric Unity through
+his podcast The Portal. We independently communicated with Weinstein
+on Discord and we both came to the conclusion that Weinstein was
+unable to provide an adequate explanation of GU or why it was a
+compelling theory"
+
+[Link](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html)
 
 ---
 
