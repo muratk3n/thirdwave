@@ -31,7 +31,7 @@ Miles upon miles of electricity cables... whose brilliant idea was that?
 
 ---
 
-Jump-Ball.. Well said! \#Kerry
+Jump Ball.. Well said! \#Kerry
 
 "The US oil & gas industry should embrace 'huge opportunities'
 producing & transporting \#hydrogen, with the potential for that
