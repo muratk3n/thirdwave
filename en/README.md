@@ -15,6 +15,14 @@ authorities'
 
 ---
 
+Man.. they really want Sarko gone don't they? Whenever there are hints
+for another run, courts jump on him. I dont know whether they have
+something solid but were holding back bcz he is ex-Prez but rerun
+makes them reveal stuff, or it is more action-reaction style
+punishment, just raw, wanton hammering a politician they dont like.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">With great generalizability comes great foolability?<br>Interesting insights from OpenAI <a href="https://t.co/H8myO1XcqG">https://t.co/H8myO1XcqG</a> <a href="https://t.co/Ea4QIYG8EI">pic.twitter.com/Ea4QIYG8EI</a></p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1367590414627205124?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -66,14 +74,6 @@ end partisan gerrymandering"
 Tetris - Green Hair \#music
 
 [Link](https://youtu.be/xGvjZWVxVfY)
-
----
-
-Man.. they really want Sarko gone don't they? Whenever there are hints
-for another run, courts jump on him. I dont know whether they have
-something solid but were holding back bcz he is ex-Prez but rerun
-makes them reveal stuff, or it is more action-reaction style
-punishment, just raw, wanton hammering a politician they dont like.
 
 ---
 
