@@ -91,7 +91,7 @@ seems unlikely for now.
 
 UBI mechanism? Easy. 1st of every month the system does a "printing
 round", expands its base by depositing $ digitally into everyone's
-acct. And genuine pers detection wld be needed, yes.
+acct. And genuine person detection wld be needed too, yes.
 
 ---
 
