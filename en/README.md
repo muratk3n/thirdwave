@@ -6,115 +6,99 @@ Pinned Tweets
 
 ---
 
-"@Jonnelle
-
-.@Reuters SCOOP: Just days after seizing power, Myanmar’s military
-rulers attempted to withdraw about $1 billion from an account at the
-Federal Reserve Bank of New York but the transfer was blocked by
-authorities"
-
----
-
-Man.. they really want Sarko gone don't they? Whenever there are hints
-for another run, courts jump on him. I dont know whether they have
-something solid but were holding back bcz he is ex-Prez but rerun
-makes them reveal stuff, or it is more action-reaction style
-punishment, just raw, wanton hammering a politician they dont like.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With great generalizability comes great foolability?<br>Interesting insights from OpenAI <a href="https://t.co/H8myO1XcqG">https://t.co/H8myO1XcqG</a> <a href="https://t.co/Ea4QIYG8EI">pic.twitter.com/Ea4QIYG8EI</a></p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1367590414627205124?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Vague, *A Brief History of Doom*: "The iconic structures of American
+skylines form the silhouette of the Great Depression: New York’s
+Chrysler Building, Empire State Building, and RCA Building; Chicago’s
+Merchandise Mart, Wrigley Building, and Tribune Tower; Philadelphia’s
+PSFS Building; Los Angeles’s City Hall; Dallas’s Cotton Exchange
+Building; Detroit’s Fischer Building; and Houston’s Gulf
+Building. These are enduring architectural feats of the 1920s,
+vestiges of the real estate eruption that came before the fall. Many
+were speculative projects, unsupported by actual real estate demand;
+begun toward the end of the 1920s, when loans were still available;
+and finished after the crash, when lenders had little choice but to
+make funds available to complete construction or else see their entire
+loan go bad. None was financially successful for its original
+investors. They remained partly or largely empty for a decade or more
+after completion, as would hundreds of others"
 
 ---
 
-Miles upon miles of electricity cables... whose brilliant idea was that?
+The AG is black BTW. Craft is female. Isnt Mitch also married to a
+Asian? An eq opportunity kinda guy.
+
+"Mitch McConnell has compiled a short list of successors in his home
+state of Kentucky, preparing for the possibility that he does not
+serve out his full term...  The list is topped by his protégé, state
+Attorney General Daniel Cameron, and also includes former United
+Nations Ambassador Kelly Craft"
 
 ---
 
-Jump Ball.. Well said! \#Kerry
+"Australia-based hydrogen specialist Enegix Energy is planning to
+build a green hydrogen plant on 500 hectares of commercial land in the
+Port of Pecém, in the Brazilian, northeastern state of Ceará. The
+facility is expected to be located in the state of Ceará and to be
+powered by around 3.6 GW of wind and solar facilities located in the
+region"
 
-"The US oil & gas industry should embrace 'huge opportunities'
-producing & transporting \#hydrogen, with the potential for that
-cutting-edge energy source to fuel long-haul trucks & supply power
-globally, presidential climate envoy John Kerry said Tuesday"
-
-[Link](https://www.bloomberg.com/news/articles/2021-03-02/hydrogen-is-jump-ball-in-global-clean-energy-race-kerry-says)
-
----
-
-"@CGHollins
-
-\#HR1 is one of the most important bills in history, as it will help
-more U.S. citizens to participate fairly in our democracy. The Jim
-Crow filibuster in the Senate will almost certainly stand in its
-way. Will Senators have the courage to kill the filibuster and save
-America?"
+[Link](https://www.pv-magazine.com/2021/03/03/brazil-may-host-5-4bn-green-hydrogen-plant/)
 
 ---
 
-Vox: "The sweeping democracy reform bill [HR1] has been top of the list
-since House Democrats first took back the majority in the 2018
-midterms and immediately set about expanding voting rights and getting
-money out of politics.
-
-There’s a lot of ground covered in its nearly 800 pages, but some of
-its key points are creating a national system for automatic voter
-registration, putting in transparency requirements for political
-advertising, and instituting nonpartisan redistricting commissions to
-end partisan gerrymandering"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big move up in bond yields after Fed Chair Powell&#39;s remarks today.<br><br>The 10-year yield surpasses last week&#39;s high.<br><br>What does this mean?<br>1) Bond traders betting inflation will rise<br>2) Bond traders betting economy will get a lot stronger<br><br>This is OK for now. But keep an eye on it.. <a href="https://t.co/6g0WJO8Gj2">pic.twitter.com/6g0WJO8Gj2</a></p>&mdash; Heather Long (@byHeatherLong) <a href="https://twitter.com/byHeatherLong/status/1367532716191842309?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+*The Time Machine*, 2002 is about taking a stand IMO. The prof loses
+his wife, tries to save her by going to past, fails. Then he "escapes
+to the future", keeps going further and further in time, and during
+stops he sees one catastrophe after another. One way to see that
+future was bad bcz prof wasnt in their history. See? The library
+assist prog did not know abt time travel tech waay ahead, so his
+science had not been reinvented after him. Of course this is unlikely
+the non-fictional world, techniques are discovered simultaneously by
+many. But allowing this 1 artistic license, this cld be the
+message. And only after prof starts fighting for **a** present (the
+idyllic place) things start to improve. Could not save his wife, but
+could help some, a certain time period.
 
 ---
 
-Tetris - Green Hair \#music
+"@ceciliakang
 
-[Link](https://youtu.be/xGvjZWVxVfY)
-
----
-
-They come across as a pro-Trump outfit.. Somewhat shady, and not
-necessarily bcz they are pro-Trump.
-
-"The Hill’s owner seeks potential buyers, investors... Under fire for
-its role in promoting alleged Ukraine conspiracy theories, the
-D.C.-based publication faces new questions about its future"
+NEW: Big Antitrust Crusader Joins White House.. @POTUS Biden To
+Appoint Tim Wu, A Leading Critic of Big Tech, as Tech & Competition
+Policy Special Assistant to the President"
 
 ---
 
-Another theory-of-everything bites the dust
+"In Palm Beach, Covid-19 vaccines intended for rural Black communities
+are instead going to wealthy white Floridians"
 
-"Theo .. and I became aware of Weinstein and Geometric Unity through
-his podcast The Portal. We independently communicated with Weinstein
-on Discord and we both came to the conclusion that Weinstein was
-unable to provide an adequate explanation of GU or why it was a
-compelling theory"
-
-[Link](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html)
+[Link](https://www.statnews.com/2021/03/04/covid19-vaccines-for-rural-black-communities-going-to-wealthy-white-floridians)
 
 ---
 
-That makes sense I guess; a pandemic doesn't make 1 optimistic abt the
-future, a world into which makes parents want to bring new person into.
-
-"WSJ: The Covid-19 Baby Bust Is Here"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This stat blew my mind: do public health measures like social distancing, mask wearing and hand-washing really reduce the transmission of viral respiratory illnesses? Uh, yes. <a href="https://t.co/MAAxAh0fnj">pic.twitter.com/MAAxAh0fnj</a></p>&mdash; Chris Hayes (@chrislhayes) <a href="https://twitter.com/chrislhayes/status/1367699305411338241?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-An actress was canceled from *The Mandalorian*.. For mucks sake.. "We
-want strong women" then "we cancel a strong woman". Way to
-go [sarcastic thumbs up] 👍 😶
+<blockquote width="240" class="twitter-tweet"><p lang="und" dir="ltr">🤔 <a href="https://t.co/ZR5nMKd9CU">pic.twitter.com/ZR5nMKd9CU</a></p>&mdash; CharliePatrick (@CharliePatrick) <a href="https://twitter.com/CharliePatrick/status/1367705310618521600?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Too soon.. but still funny
+UBI + Crypto is likely 3W. Current 2W system cld pull it off, but they
+likely wont.
 
-"@TheOnion
+---
 
-Covid Announces Plan To Move Operations To Texas Full-Time To Escape
-Burdensome Regulations"
+A new cyrpto is needed with UBI built-in.  Two birds with one stone;
+monetary base expansion is achieved through UBI, stopping deflation,
+in the meantime, helping create a mechanism of redistribution. Current
+approaches are too stuck in "digital gold" mentality. They understand
+computer science, but not economics.
+
+---
+
+\#Covid This entire process has been abysmally slow which gave the
+virus time to mutate. 
 
 ---
 

@@ -1,5 +1,117 @@
 # Week 9
 
+"@Jonnelle
+
+.@Reuters SCOOP: Just days after seizing power, Myanmar’s military
+rulers attempted to withdraw about $1 billion from an account at the
+Federal Reserve Bank of New York but the transfer was blocked by
+authorities"
+
+---
+
+Man.. they really want Sarko gone don't they? Whenever there are hints
+for another run, courts jump on him. I dont know whether they have
+something solid but were holding back bcz he is ex-Prez but rerun
+makes them reveal stuff, or it is more action-reaction style
+punishment, just raw, wanton hammering a politician they dont like.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With great generalizability comes great foolability?<br>Interesting insights from OpenAI <a href="https://t.co/H8myO1XcqG">https://t.co/H8myO1XcqG</a> <a href="https://t.co/Ea4QIYG8EI">pic.twitter.com/Ea4QIYG8EI</a></p>&mdash; Joris Gillis (@jgillis42) <a href="https://twitter.com/jgillis42/status/1367590414627205124?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Miles upon miles of electricity cables... whose brilliant idea was that?
+
+---
+
+Jump Ball.. Well said! \#Kerry
+
+"The US oil & gas industry should embrace 'huge opportunities'
+producing & transporting \#hydrogen, with the potential for that
+cutting-edge energy source to fuel long-haul trucks & supply power
+globally, presidential climate envoy John Kerry said Tuesday"
+
+[Link](https://www.bloomberg.com/news/articles/2021-03-02/hydrogen-is-jump-ball-in-global-clean-energy-race-kerry-says)
+
+---
+
+"@CGHollins
+
+\#HR1 is one of the most important bills in history, as it will help
+more U.S. citizens to participate fairly in our democracy. The Jim
+Crow filibuster in the Senate will almost certainly stand in its
+way. Will Senators have the courage to kill the filibuster and save
+America?"
+
+---
+
+Vox: "The sweeping democracy reform bill [HR1] has been top of the list
+since House Democrats first took back the majority in the 2018
+midterms and immediately set about expanding voting rights and getting
+money out of politics.
+
+There’s a lot of ground covered in its nearly 800 pages, but some of
+its key points are creating a national system for automatic voter
+registration, putting in transparency requirements for political
+advertising, and instituting nonpartisan redistricting commissions to
+end partisan gerrymandering"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big move up in bond yields after Fed Chair Powell&#39;s remarks today.<br><br>The 10-year yield surpasses last week&#39;s high.<br><br>What does this mean?<br>1) Bond traders betting inflation will rise<br>2) Bond traders betting economy will get a lot stronger<br><br>This is OK for now. But keep an eye on it.. <a href="https://t.co/6g0WJO8Gj2">pic.twitter.com/6g0WJO8Gj2</a></p>&mdash; Heather Long (@byHeatherLong) <a href="https://twitter.com/byHeatherLong/status/1367532716191842309?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Tetris - Green Hair \#music
+
+[Link](https://youtu.be/xGvjZWVxVfY)
+
+---
+
+They come across as a pro-Trump outfit.. Somewhat shady, and not
+necessarily bcz they are pro-Trump.
+
+"The Hill’s owner seeks potential buyers, investors... Under fire for
+its role in promoting alleged Ukraine conspiracy theories, the
+D.C.-based publication faces new questions about its future"
+
+---
+
+Another theory-of-everything bites the dust
+
+"Theo .. and I became aware of Weinstein and Geometric Unity through
+his podcast The Portal. We independently communicated with Weinstein
+on Discord and we both came to the conclusion that Weinstein was
+unable to provide an adequate explanation of GU or why it was a
+compelling theory"
+
+[Link](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html)
+
+---
+
+That makes sense I guess; a pandemic doesn't make 1 optimistic abt the
+future, a world into which makes parents want to bring new person into.
+
+"WSJ: The Covid-19 Baby Bust Is Here"
+
+---
+
+An actress was canceled from *The Mandalorian*.. For mucks sake.. "We
+want strong women" then "we cancel a strong woman". Way to
+go [sarcastic thumbs up] 👍 😶
+
+---
+
+Too soon.. but still funny
+
+"@TheOnion
+
+Covid Announces Plan To Move Operations To Texas Full-Time To Escape
+Burdensome Regulations"
+
+---
+
 Not everything needs to be fun, or "visibly fun" as seen from
 outside. Electricity is fun and interesting, there are sparks,
 current, voltage wooohooo! But it is an inefficient way of delivering
