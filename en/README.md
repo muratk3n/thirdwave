@@ -89,6 +89,12 @@ seems unlikely for now.
 
 ---
 
+UBI mechanism? Easy. 1st of every month the system does a "printing
+round", expands its base by depositing $ digitally into everyone's
+acct. And genuine pers detection wld be needed, yes.
+
+---
+
 A new cyrpto is needed with UBI built-in.  Two birds with one stone;
 monetary base expansion is achieved through UBI, stopping deflation,
 in the meantime, helping create a mechanism of redistribution. Current
