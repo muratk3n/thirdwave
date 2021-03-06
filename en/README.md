@@ -84,8 +84,8 @@ are instead going to wealthy white Floridians"
 
 ---
 
-UBI + Crypto is likely 3W. Current 2W system cld pull it off, but they
-likely wont.
+UBI + Crypto is likely 3W. Current 2W system cld do UBI, through its channels, but
+seems unlikely for now.
 
 ---
 
