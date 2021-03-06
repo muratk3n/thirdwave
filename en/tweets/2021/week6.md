@@ -567,6 +567,8 @@ print (df[['Event Date','Source Name','Event Text','Target Name']])
 
 [Link](https://www.prio.org/Data/Armed-Conflict/UCDP-PRIO/)
 
+[Data](https://ucdp.uu.se/downloads/)
+
 2) ICEWS
 
 [Weekly Sample](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QI2T9A) 

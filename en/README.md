@@ -80,7 +80,7 @@ are instead going to wealthy white Floridians"
 
 ---
 
-<blockquote width="240" class="twitter-tweet"><p lang="und" dir="ltr">🤔 <a href="https://t.co/ZR5nMKd9CU">pic.twitter.com/ZR5nMKd9CU</a></p>&mdash; CharliePatrick (@CharliePatrick) <a href="https://twitter.com/CharliePatrick/status/1367705310618521600?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote width="240" class="twitter-tweet"><p lang="en" dir="ltr">&quot;The US has the most progressive tax system in the world&quot; <a href="https://t.co/StdXrCn95G">pic.twitter.com/StdXrCn95G</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1367697597603868673?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
