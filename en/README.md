@@ -97,11 +97,6 @@ computer science, but not economics.
 
 ---
 
-\#Covid This entire process has been abysmally slow which gave the
-virus time to mutate. 
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
