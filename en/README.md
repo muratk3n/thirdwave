@@ -6,104 +6,171 @@ Pinned Tweets
 
 ---
 
-Vague, *A Brief History of Doom*: "The iconic structures of American
-skylines form the silhouette of the Great Depression: New York’s
-Chrysler Building, Empire State Building, and RCA Building; Chicago’s
-Merchandise Mart, Wrigley Building, and Tribune Tower; Philadelphia’s
-PSFS Building; Los Angeles’s City Hall; Dallas’s Cotton Exchange
-Building; Detroit’s Fischer Building; and Houston’s Gulf
-Building. These are enduring architectural feats of the 1920s,
-vestiges of the real estate eruption that came before the fall. Many
-were speculative projects, unsupported by actual real estate demand;
-begun toward the end of the 1920s, when loans were still available;
-and finished after the crash, when lenders had little choice but to
-make funds available to complete construction or else see their entire
-loan go bad. None was financially successful for its original
-investors. They remained partly or largely empty for a decade or more
-after completion, as would hundreds of others"
+"@dylanmatt
+
+Still kind of stunned and heartened at the scale of the American
+Rescue Plan. The 2009 stimulus was 5.5% of 2008 GDP. The Rescue plan
+is 9.1% of 2020 GDP. And it creates a child allowance that will (knock
+wood) be very hard to roll back"
 
 ---
 
-The AG is black BTW. Craft is female. Isnt Mitch also married to a
-Asian? An eq opportunity kinda guy.
+Calibro 35 - You, Filthy Bastards! \#music
 
-"Mitch McConnell has compiled a short list of successors in his home
-state of Kentucky, preparing for the possibility that he does not
-serve out his full term...  The list is topped by his protégé, state
-Attorney General Daniel Cameron, and also includes former United
-Nations Ambassador Kelly Craft"
+[Link](https://youtu.be/AZOQ8BucVck)
 
 ---
 
-"Australia-based hydrogen specialist Enegix Energy is planning to
-build a green hydrogen plant on 500 hectares of commercial land in the
-Port of Pecém, in the Brazilian, northeastern state of Ceará. The
-facility is expected to be located in the state of Ceará and to be
-powered by around 3.6 GW of wind and solar facilities located in the
-region"
-
-[Link](https://www.pv-magazine.com/2021/03/03/brazil-may-host-5-4bn-green-hydrogen-plant/)
+"Venezuela to introduce 1-million-bolivar bill"
 
 ---
 
-*The Time Machine*, 2002 is about taking a stand IMO. The prof loses
-his wife, tries to save her by going to past, fails. Then he "escapes
-to the future", keeps going further and further in time, and during
-stops he sees one catastrophe after another. One way to see that
-future was bad bcz prof wasnt in their history. See? The library
-assist prog did not know abt time travel tech waay ahead, so his
-science had not been reinvented after him. Of course this is unlikely
-the non-fictional world, techniques are discovered simultaneously by
-many. But allowing this 1 artistic license, this cld be the
-message. And only after prof starts fighting for **a** present (the
-idyllic place) things start to improve. Could not save his wife, but
-could help some, a certain time period.
+Jacobin: "Despite America’s two-party duopoly, third parties have played a
+crucial role in shaping US politics for good and ill — from bringing
+us pro-worker reforms and the welfare state"
+
+[Link](https://jacobinmag.com/2021/03/third-parties-united-states-history/)
 
 ---
 
-"@ceciliakang
+US side softened then; that's good.
 
-NEW: Big Antitrust Crusader Joins White House.. @POTUS Biden To
-Appoint Tim Wu, A Leading Critic of Big Tech, as Tech & Competition
-Policy Special Assistant to the President"
-
----
-
-"In Palm Beach, Covid-19 vaccines intended for rural Black communities
-are instead going to wealthy white Floridians"
-
-[Link](https://www.statnews.com/2021/03/04/covid19-vaccines-for-rural-black-communities-going-to-wealthy-white-floridians)
+"The U.S. and the European Union agreed Friday to suspend tariffs on
+wine, luggage, produce and other goods related to a longstanding
+dispute over government subsidies to Boeing Co. and Airbus"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This stat blew my mind: do public health measures like social distancing, mask wearing and hand-washing really reduce the transmission of viral respiratory illnesses? Uh, yes. <a href="https://t.co/MAAxAh0fnj">pic.twitter.com/MAAxAh0fnj</a></p>&mdash; Chris Hayes (@chrislhayes) <a href="https://twitter.com/chrislhayes/status/1367699305411338241?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+So sweet.. An O'Neill Cylinder, look at that thing turn.. Love it! Oh yeah!
+
+<img width="340" src="https://drive.google.com/uc?export=view&id=13LegEelVGN4YNde44TfBcidL81fWBlOy"/>
 
 ---
 
-<blockquote width="240" class="twitter-tweet"><p lang="en" dir="ltr">&quot;The US has the most progressive tax system in the world&quot; <a href="https://t.co/StdXrCn95G">pic.twitter.com/StdXrCn95G</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1367697597603868673?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Biden obviously knows all this.. So when he said the other day "I
+spoke to the King, not to the prince" it was to placate ppl in his own
+party who dont like MBS. But in reality whether you are talking to the
+King or the prince, you are always talking to the prince.
 
 ---
 
-UBI + Crypto is likely 3W. Current 2W system cld do UBI, through its channels, but
-seems unlikely for now.
+:) That's some funny shit.
+
+"During the Obama presidency, I heard stories, since confirmed, of two
+senior U.S. officials, on two separate occasions, meeting with King
+Salman in his palace office. While talking, the king gazed at a
+picture frame on his desk. Off in a corner, the crown prince sat at a
+desk, diligently typing on a computer. The officials soon realized
+what was going on: MBS was typing out what the king should say; the
+picture frame was, in fact, a computer screen, and the king was
+reading aloud the script by the crown prince"
+
+[Link](https://slate.com/news-and-politics/2021/03/mbs-khashoggi-biden-punishment.html)
 
 ---
 
-UBI mechanism? Easy. 1st of every month the system does a "printing
-round", expands its base by depositing $ digitally into everyone's
-acct. And genuine person detection wld be needed too, yes.
+"The Parliamenterian" is an excuse.. WH didn't want to spend pol
+capital on 15MW, that's why it's dead.
 
 ---
 
-A new cyrpto is needed with UBI built-in.  Two birds with one stone;
-monetary base expansion is achieved through UBI, stopping deflation,
-in the meantime, helping create a mechanism of redistribution. Current
-approaches are too stuck in "digital gold" mentality. They understand
-computer science, but not economics.
+"‘Kill them’: Duterte wants to ‘finish off’ communist rebels"
+
+[Link](https://www.aljazeera.com/news/2021/3/6/kill-them-all-duterte-wants-communist-rebels-finished)
 
 ---
 
-10 million unemployed? [Try 20](2019/05/stats.md#unempl).
+I find the way ppl just throw around random info as extremely
+archaic. In the journalists will do what I just did; knowing legit,
+well curated datasets, and run analysis' on them to base reporting on.
+
+---
+
+Looking at Jan 2021 (Feb data is not in yet)
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+df = pd.read_csv('https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_1.csv')
+pd.set_option('display.max_rows', 100)
+pd.set_option('display.max_colwidth', 20)
+df1 = df[(df['side_a'] == 'IS' )]
+print (df1[['side_b','deaths_b','country']])
+```
+
+```text
+                  side_b  deaths_b       country
+339            Civilians         0   Afghanistan
+340            Civilians         0   Afghanistan
+341            Civilians         0   Afghanistan
+362              Taleban         5   Afghanistan
+399            Civilians         0  Burkina Faso
+400            Civilians         0  Burkina Faso
+401            Civilians         0  Burkina Faso
+411                 JNIM         0  Burkina Faso
+570            Civilians         0          Iraq
+714            Civilians         0    Mozambique
+715            Civilians         0    Mozambique
+716            Civilians         0    Mozambique
+717            Civilians         0    Mozambique
+718            Civilians         0    Mozambique
+731            Civilians         0         Niger
+737  Jama'atu Ahlis S...         3         Niger
+768            Civilians         0       Nigeria
+820             Yan Gora         0       Nigeria
+837            Civilians         0      Pakistan
+907            Civilians         0         Syria
+950                  SDF         0         Syria
+951                  SDF         0         Syria
+952                  SDF         0         Syria
+953                  SDF         0         Syria
+954                  SDF         0         Syria
+956                  HTS         1         Syria
+```
+
+Occurence-wise, I'd say this is lower than average. For Syria I cant see how
+66 number can be reached. Sounds too high.
+
+Also; IS killed Taleban, in Afganistan??? WTF?
+
+---
+
+Let's check 2020. I am going to use Uppsala Conflict datasets, montly
+IS activity plot,
+
+https://ucdp.uu.se/downloads/
+
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+df = pd.read_csv('https://ucdp.uu.se/downloads/candidateged/GEDEvent_v20_01_20_12.csv',parse_dates=True)
+df1 = df[(df['side_a'] == 'IS' )]
+df1['date'] = pd.to_datetime(df1['date_start'])
+df1['mon'] = df1.date.dt.month
+df1.groupby('mon').size().plot()
+g2 = df1.groupby('mon').sum()['deaths_b'].plot()
+plt.legend(['Attacks','Deaths'])
+plt.title('IS Activity')
+plt.savefig('out.png')
+```
+
+<img width="340" src="https://pbs.twimg.com/media/Ev0SdqoXMAcQltI?format=png&name=small"/>
+
+---
+
+🤔 What's missing here is context, what is the trend, and how many
+deaths were there, etc. 
+
+"North Press Agency counted 66 military operations, which the Islamic
+State (ISIS) claimed responsible for, in north and east Syria during
+January and February, 2021"
+
+[Link](https://npasyria.com/en/55504/)
+
+---
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="und" dir="ltr"> <a href="https://t.co/jFaduNgME8">pic.twitter.com/jFaduNgME8</a></p>&mdash; Jim Salsman (@jsalsman) <a href="https://twitter.com/jsalsman/status/1367708192193482752?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
