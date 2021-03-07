@@ -151,6 +151,8 @@ plt.savefig('out.png')
 
 <img width="340" src="https://pbs.twimg.com/media/Ev0SdqoXMAcQltI?format=png&name=small"/>
 
+Occurence of attacks globally hover around 30.
+
 ---
 
 🤔 What's missing here is context, what is the trend, and how many
