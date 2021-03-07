@@ -61,8 +61,8 @@ reading aloud the script by the crown prince"
 
 ---
 
-"The Parliamenterian" is an excuse.. WH didn't want to spend pol
-capital on 15MW, that's why it's dead.
+"The Parliamenterian" is an excuse.. The votes werent there for 15MW,
+and WH didn't want to spend pol capital, that's why it's dead.
 
 ---
 
