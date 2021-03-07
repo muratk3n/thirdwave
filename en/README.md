@@ -130,10 +130,8 @@ can't see how 66 number can be reached. Sounds too high.
 
 ---
 
-Let's check 2020. I am going to use Uppsala Conflict datasets, montly
-IS activity plot,
-
-https://ucdp.uu.se/downloads/
+Let's check 2020. I am going to use Uppsala Conflict [datasets](https://ucdp.uu.se/downloads/),
+montly IS activity plot,
 
 
 ```python
