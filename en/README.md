@@ -33,7 +33,7 @@ dispute over government subsidies to Boeing Co. and Airbus"
 
 ---
 
-Here is an O'Neill Cylinder. Look at that thing turn.. Love it! Oh yeah!
+Here is an O'Neill Cylinder. Look at that thing turn.. Oh yeah! Love it
 
 <img width="340" src="https://drive.google.com/uc?export=view&id=13LegEelVGN4YNde44TfBcidL81fWBlOy"/>
 
