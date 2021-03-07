@@ -75,9 +75,8 @@ us pro-worker reforms and the welfare state"
 ---
 
 I find the way ppl just throw around random info as extremely
-archaic. In the future journalists will perform the kind of analysis I
-just did below; looking for legit, well curated datasets, and run
-analysis' to base reporting on.
+archaic. In the future more journalists do what I just did below;
+looking for legit, well curated datasets, and run analysis on them.
 
 ---
 
