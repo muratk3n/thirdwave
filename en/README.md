@@ -153,7 +153,7 @@ Occurence of attacks globally hover around 30.
 
 ---
 
-Was it that high really? 🤔 Plus shat's missing here is context, what
+Was it that high? 🤔 Plus what's missing here is context, what
 is the trend, and how many deaths were there, etc.
 
 "North Press Agency counted 66 military operations, which the Islamic
