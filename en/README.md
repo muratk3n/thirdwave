@@ -39,10 +39,10 @@ Here is an O'Neill Cylinder. Look at that thing turn.. Love it! Oh yeah!
 
 ---
 
-Biden obviously knows all this.. So when he said the other day "I
-spoke to the King, not to the prince" it was to placate ppl in his own
-party who dont like MBS. But in reality whether you are talking to the
-King or the prince, you are always talking to the prince.
+Biden obviously knows all this.. So when he said "I spoke to the King,
+not to the prince" it was to placate ppl in his own party who dont
+like MBS. But in reality whether you are talking to the King or the
+prince, you are always talking to the prince.
 
 ---
 
