@@ -156,8 +156,8 @@ Occurence of attacks globally hover around 30.
 
 ---
 
-🤔 What's missing here is context, what is the trend, and how many
-deaths were there, etc. 
+Was it that high really? 🤔 Plus shat's missing here is context, what
+is the trend, and how many deaths were there, etc.
 
 "North Press Agency counted 66 military operations, which the Islamic
 State (ISIS) claimed responsible for, in north and east Syria during
