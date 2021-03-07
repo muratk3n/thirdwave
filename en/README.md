@@ -25,14 +25,6 @@ Calibro 35 - You, Filthy Bastards! \#music
 
 ---
 
-Jacobin: "Despite America’s two-party duopoly, third parties have played a
-crucial role in shaping US politics for good and ill — from bringing
-us pro-worker reforms and the welfare state"
-
-[Link](https://jacobinmag.com/2021/03/third-parties-united-states-history/)
-
----
-
 US side softened then; that's good.
 
 "The U.S. and the European Union agreed Friday to suspend tariffs on
@@ -71,6 +63,14 @@ reading aloud the script by the crown prince"
 
 "The Parliamenterian" is an excuse.. WH didn't want to spend pol
 capital on 15MW, that's why it's dead.
+
+---
+
+Jacobin: "Despite America’s two-party duopoly, third parties have played a
+crucial role in shaping US politics for good and ill — from bringing
+us pro-worker reforms and the welfare state"
+
+[Link](https://jacobinmag.com/2021/03/third-parties-united-states-history/)
 
 ---
 
