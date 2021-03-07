@@ -122,10 +122,10 @@ print (df1[['side_b','deaths_b','country']])
 956                  HTS         1         Syria
 ```
 
-Occurence-wise, I'd say this is lower than average. For Syria I cant see how
-66 number can be reached. Sounds too high.
+I'd say attacks are lower than average. And just looking at Syria I
+can't see how 66 number can be reached. Sounds too high.
 
-Also; IS killed Taleban, in Afganistan??? WTF?
+(Also; IS killed 5 Taleban, in Afganistan??? WTF?)
 
 ---
 
