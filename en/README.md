@@ -74,12 +74,6 @@ us pro-worker reforms and the welfare state"
 
 ---
 
-"‘Kill them’: Duterte wants to ‘finish off’ communist rebels"
-
-[Link](https://www.aljazeera.com/news/2021/3/6/kill-them-all-duterte-wants-communist-rebels-finished)
-
----
-
 I find the way ppl just throw around random info as extremely
 archaic. In the journalists will do what I just did; knowing legit,
 well curated datasets, and run analysis' on them to base reporting on.
@@ -167,6 +161,12 @@ State (ISIS) claimed responsible for, in north and east Syria during
 January and February, 2021"
 
 [Link](https://npasyria.com/en/55504/)
+
+---
+
+"‘Kill them’: Duterte wants to ‘finish off’ communist rebels"
+
+[Link](https://www.aljazeera.com/news/2021/3/6/kill-them-all-duterte-wants-communist-rebels-finished)
 
 ---
 
