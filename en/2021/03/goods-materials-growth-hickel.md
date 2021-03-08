@@ -1,5 +1,47 @@
 # Goods, Materials, Hickel
 
+By Jason Hickle
+
+Imagine you’re an investor. You want returns of, say, 5% per year, so
+you decide to invest in Facebook. Remember, this is an exponential
+function. So if Facebook keeps churning out the same profits year
+after year (i.e., 0% growth), it will be able to repay your initial
+investment but it won’t be able to pay you any interest on it. The
+only way to generate enough surplus for investor returns is to
+generate more profit each year than the year before.
+
+This is why when investors assess the ‘health’ of a firm, they don’t
+look at net profits; they look at the rate of profit – in other words,
+how much the firm’s profits grow each year. From the perspective of
+capital, profit alone doesn’t count. It is meaningless. All that
+counts is growth.  Investors – people who hold accumulated capital –
+scour the globe in desperate search of anything that smells like
+growth. If Facebook’s growth shows signs of slowing down, they’ll pump
+their money into Exxon instead, or into tobacco companies, or into
+student loans – wherever the growth is at.  This restless movement of
+capital puts companies under enormous pressure to do whatever they can
+to grow... 
+
+In the nineteenth century the global economy was worth a little more
+than $1 trillion, in today’s money. That means each year capital
+needed to find new investments worth about $30 billion – a significant
+sum. This required a huge effort on the part of capital, including the
+colonial expansion that characterised the nineteenth century. Today
+the global economy is worth over $80 trillion, so to maintain an
+acceptable rate of growth capital needs to find outlets for new
+investments worth another $2.5 trillion next year. That’s the size of
+the entire British economy – one of the biggest in the world...
+
+Where can this quantity of growth possibly be found? The pressures
+become enormous. It’s what is driving the pharmaceutical companies
+behind the opioid crisis in the United States; the beef companies that
+are burning down the Amazon; the arms companies that lobby against gun
+control; the oil companies that bankroll climate denialism; and the
+retail firms that are invading our lives with ever-more sophisticated
+advertising techniques to get us to buy things we don’t actually
+want. These are not ‘bad apples’ – they are obeying the iron law of
+capital... 
+
 When we look at the impact that growthism has had on our planet since
 the 1980s, it makes the period of enclosure and colonisation seem
 quaint by comparison. All of the land and resources that colonisers
