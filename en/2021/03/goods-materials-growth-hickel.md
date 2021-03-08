@@ -1,6 +1,6 @@
 # Goods, Materials, Hickel
 
-By Jason Hickle
+Jason Hickle, *Less Is More*
 
 Imagine you’re an investor. You want returns of, say, 5% per year, so
 you decide to invest in Facebook. Remember, this is an exponential
