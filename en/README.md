@@ -75,7 +75,7 @@ makes me want to scream"
 ---
 
 *Ride Along* 👍. That part where IC corners a guy and he gets scared
-starts singing "mamasay mamasa mamakusa". That was really funny..
+starts singing "mamasay mamasa mamakusa". It was funny..
 
 ---
 
