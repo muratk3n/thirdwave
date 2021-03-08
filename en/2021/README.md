@@ -18,3 +18,7 @@
 
 [On the Phenomenon of Bullshit Jobs](03/bullshit-jobs-article-graeber.md)
 
+[Goods, Materials, Hickel](03/goods-materials-growth-hickel.md)
+
+[Good Reductionism (Sum Is Greater Than Whole)](03/sum-greater-than-whole-reductionism.md)
+
