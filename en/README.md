@@ -27,7 +27,7 @@ hears cases in English"
 
 ---
 
-"Study of Aggressive Covid-19 Strain in Brazil Suggests Limits of China Vaccine"
+WSJ: "Study of Aggressive Covid-19 Strain in Brazil Suggests Limits of China Vaccine"
 
 ---
 
