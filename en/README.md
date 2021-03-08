@@ -48,15 +48,6 @@ Answer
 
 ---
 
-"@AJentleson
-
-President Biden & Democratic leaders deserve tremendous credit for not
-letting the Collins gang water down the aid package. Hard to overstate
-what a watershed that could be. It was never a foregone conclusion &
-sticking to their guns took a lot of guts. Now lets play it forward"
-
----
-
 "@nickmartin
 
 Replying to @OliviaMesser
