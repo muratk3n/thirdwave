@@ -99,7 +99,7 @@ Sheik can still generate some returns.
 
 ---
 
-I started patching up strang lecs.. this is some next level shit
+I started patching up MIT Strang lecs.. this is some next level shit
 
 ---
 
