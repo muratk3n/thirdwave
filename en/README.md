@@ -74,10 +74,6 @@ makes me want to scream"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really hard to believe that hereditary monarchy is a bad idea. Just stunning stuff. Gonna take a while to process.</p>&mdash; Binyamin Appelbaum (@BCAppelbaum) <a href="https://twitter.com/BCAppelbaum/status/1368769786835066882?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 *Ride Along* 👍. That part where IC corners a guy and he gets scared
 starts singing "mamasay mamasa mamakusa". That was really funny..
 
