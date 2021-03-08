@@ -41,18 +41,11 @@ It is somehow pleasant seeing Rob dealing with a random jagoff tuber.
 
 🤣 🤣 Robitaille answers a tuber claim
 
-<table>
-<tr>
-<td width="50%">
-Claim<br/>
-<iframe src="https://www.youtube.com/embed/JRrTvP95kf4?start=944&end=985" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</td>
-<td>
-Answer<br/>
-<iframe src="https://www.youtube.com/embed/JRrTvP95kf4?start=1152&end=1310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</td width="50%">
-</tr>
-</table>
+Claim
+<iframe width="200" src="https://www.youtube.com/embed/JRrTvP95kf4?start=944&end=985" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Answer
+<iframe width="200" src="https://www.youtube.com/embed/JRrTvP95kf4?start=1152&end=1310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
