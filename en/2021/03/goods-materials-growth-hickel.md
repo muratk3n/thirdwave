@@ -23,14 +23,15 @@ capital puts companies under enormous pressure to do whatever they can
 to grow... 
 
 In the nineteenth century the global economy was worth a little more
-than $1 trillion, in today’s money. That means each year capital
-needed to find new investments worth about $30 billion – a significant
-sum. This required a huge effort on the part of capital, including the
-colonial expansion that characterised the nineteenth century. Today
-the global economy is worth over $80 trillion, so to maintain an
-acceptable rate of growth capital needs to find outlets for new
-investments worth another $2.5 trillion next year. That’s the size of
-the entire British economy – one of the biggest in the world...
+than 1 trillion dollars, in today’s money. That means each year
+capital needed to find new investments worth about 30 billion – a
+significant sum. This required a huge effort on the part of capital,
+including the colonial expansion that characterised the nineteenth
+century. Today the global economy is worth over 80 trillion, so to
+maintain an acceptable rate of growth capital needs to find outlets
+for new investments worth another 2.5 trillion dollars next
+year. That’s the size of the entire British economy – one of the
+biggest in the world...
 
 Where can this quantity of growth possibly be found? The pressures
 become enormous. It’s what is driving the pharmaceutical companies
