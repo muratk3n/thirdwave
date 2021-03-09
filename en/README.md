@@ -84,7 +84,7 @@ plt.savefig('out.png')
 
 There was reduction soon after 1989, the fall of the Berlin Wall. Kept
 on going down past 9/11, past 2001, past the invasion of Iraq.. But, I
-guess bcz by 2008-10 Iraq became FUBAR, vio picked up. Started to
+guess bcz eg by 2008-10 Iraq became FUBAR, vio picked up. Started to
 decrease little before 2016, but still did not go down to 2010 levels.
 
 ---
