@@ -1,4 +1,6 @@
-# The Next 100 Years, Friedman
+# The Next 100 Years
+
+George Friedman
 
 <a name='navies'/>
 
