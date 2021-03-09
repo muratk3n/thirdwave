@@ -63,8 +63,9 @@ More from UCDP conflict dataset...
 20.1". Conflict records are (global) events where at least 25 ppl
 died, for each dyad-year. "Dyads", meaning action pairs (A attacks B
 is a dyad), are captured at yearly granularity (A attacks B in a year
-N times, appears once in record). Simple plot here on dyad action
-occurences per year,
+N times, appears once in record). Simple plot here on all dyad action
+occurences per year, it can give a general idea on violence level
+throughout the world,
 
 
 ```python 
