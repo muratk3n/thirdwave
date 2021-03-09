@@ -18,10 +18,8 @@ Govs may want it bcz it means more taxes in the future, easing debt
 repayment. Companies want growth bcz of their investors who need
 returns. That wld be fine but even with services factored in, more
 growth means more shit. As in **physical shit**, goods and materials,
-resources extracted, planet plundered. See the
-[excerpts](03/2021/goods-materials-growth-hickel.md) from a Jason
-Hickel book. And there is only so much the planet can handle in terms
-of resource extraction.
+resources extracted, planet plundered. See [excerpts](03/2021/goods-materials-growth-hickel.md)
+a book on the matter. There is only so much the planet can handle for such extraction.
 
 "Why does everyone want growth?"
 
@@ -37,7 +35,7 @@ Im just kidding.. Less royalty when possible is a good thing.
 ---
 
 RoyalExit; US and Canada can use this... Canada breaks off from
-CommonWealth, construct a new one under Harry and Meghan. It will be a
+Commonwealth, construct a new one under Harry and Meghan. It will be a
 new Pacific based CW, Oz and NZ will join. 
 
 ---
@@ -74,9 +72,8 @@ More from UCDP conflict dataset...
 "Yearly Datasets covering 1946 - 2019", "UCDP Dyadic Dataset version
 20.1". All conflicts (global), events recorded are where at least 25
 ppl died. "Dyads", meaning action pairs (A attacks B is a dyad), are
-captured at yearly granularity (A attacks B, in year X, N times,
-appears once in record). Simple plot here on dyad action occurences
-per year,
+captured at yearly granularity (A attacks B in a year N times, appears
+once in record). Simple plot here on dyad action occurences per year,
 
 
 ```python 
