@@ -23,5 +23,29 @@ the seller as free as before, puts the seller under the authority of
 their boss. Since the decline of the labor movement, however, we don’t
 have effective ways to talk about this fact, and hence about what
 kinds of authority bosses should and shouldn’t have over their
-workers.
+workers....
+
+Paine’s low-tax, free-trade libertarian agenda made considerable sense
+for an export-led agricultural economy facing high grain prices, as
+was true for late eighteenth- century America.  “The commerce by which
+[America] hath enriched herself are the necessaries of life, and will
+always have a market while eat- ing is the custom of Europe.”84 Free
+market wages were high in a country suffering from chronic labor
+shortages, and in which self- employment was a ready option for nearly
+all.85 When the bulk of the population is self- employed, pleading for
+relief from state meddling is quite a different proposition than it
+would be today. There is not much call for employment regulations if
+there are few employees, and virtually all have a ready exit into
+self- employment.
+
+When no enterprises are large enough to have market power, there is no
+need for anti- trust regulation.  When land is abundant and
+practically free, land use and pol- lution regulations are hardly
+needed because people are spread out and environmental effects (as far
+as people understood at the time) minimal. When people can appraise
+the quality of virtually all goods for sale on inspection, and nearly
+everyone grows what they eat, there is little need for laws regulating
+the safety of consumer goods. Arcane financial instruments could not
+bring an economy to its knees in an era in which banking was primitive
+and much of the economy was not monetized.
 
