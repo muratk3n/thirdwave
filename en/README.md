@@ -16,10 +16,12 @@ incentives, funding to encourage less growth.
 
 Govs may want it bcz it means more taxes in the future, easing debt
 repayment. Companies want growth bcz of their investors who need
-returns. That wld be fine but even with services factored in, more
-growth means more shit. As in **physical shit**, goods and materials,
-resources extracted, planet plundered. See [excerpts](2021/03/goods-materials-growth-hickel.md)
-a book on the matter. There is only so much the planet can handle for such extraction.
+returns. All that cld be fine but even with services dominating the
+economy, more growth still means more shit. As in **physical shit**,
+goods and materials, resources extracted, planet plundered. See
+[excerpts](2021/03/goods-materials-growth-hickel.md) a book on the
+matter. There is only so much the planet can handle for such
+extraction.
 
 "Why does everyone want growth?"
 
