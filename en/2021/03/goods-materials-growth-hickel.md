@@ -69,9 +69,9 @@ of this increase represents important improvements in people’s access
 to necessary goods (in other words, use-value), particularly in poorer
 parts of the world; and we should celebrate that. But most of it does
 not. Scientists estimate that the planet can handle a total material
-footprint of up to about 50 billion tons per year. 13 That’s
-considered to be a maximum safe boundary.  Today we’re exceeding that
-boundary twice over...
+footprint of up to about 50 billion tons per year. That’s considered
+to be a maximum safe boundary.  Today we’re exceeding that boundary
+twice over...
 
 ![](material-flows.png)
 
