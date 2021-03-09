@@ -172,8 +172,6 @@
 
 [The Fabric of Creativity](05/fabric-of-creativity.md)
 
-[The High Price of Materialism](05/high-price-of-materialism.md)
-
 [How Data Mining is Different](05/how-data-mining-is-different.md)
 
 [India freeing itself slowly from Delhi](05/india-freeing-itself-slowly-from-delhi.md)

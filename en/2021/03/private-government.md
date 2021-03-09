@@ -29,13 +29,13 @@ workers....
 
 [Thinker T. Paine] shows enormous faith in free markets and does not
 display a trace of the anti-capitalist class conflict that
-characterized nineteenth-century politics.  The answer is that labor
-radicals saw access to self-employment as central to avoiding poverty
-and attaining standing as equals in society. In the late eighteenth
-and early nineteenth centuries, the most radical workers were not the
-emerging industrial proletariat, but artisans who operated their own
-enterprises. As such, they were simultaneously capitalists and
-workers...
+characterized nineteenth-century politics. [Why?] The answer is that
+labor radicals saw access to self-employment as central to avoiding
+poverty and attaining standing as equals in society. In the late
+eighteenth and early nineteenth centuries, the most radical workers
+were not the emerging industrial proletariat, but artisans who
+operated their own enterprises. As such, they were simultaneously
+capitalists and workers...
 
 In an economic context in which the self-employed find their status
 and opportunities threatened by powerful institutions, it does not
@@ -48,10 +48,10 @@ Paine’s low-tax, free-trade libertarian agenda made considerable sense
 for an export-led agricultural economy facing high grain prices, as
 was true for late eighteenth-century America. “The commerce by which
 [America] hath enriched herself are the necessaries of life, and will
-always have a market while eating is the custom of Europe.”84 Free
+always have a market while eating is the custom of Europe.” Free
 market wages were high in a country suffering from chronic labor
 shortages, and in which self-employment was a ready option for nearly
-all.85 When the bulk of the population is self-employed, pleading for
+all. When the bulk of the population is self-employed, pleading for
 relief from state meddling is quite a different proposition than it
 would be today. There is not much call for employment regulations if
 there are few employees, and virtually all have a ready exit into
