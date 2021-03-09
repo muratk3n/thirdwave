@@ -57,6 +57,11 @@ circuit with much better fidelity. This sheds doubts on Google's
 
 ---
 
+1989, 2008 as beginning/end of certain ideologies? World is looking
+for a new system, in a funk.
+
+---
+
 More from UCDP conflict dataset...
 
 "Yearly Datasets covering 1946 - 2019", "UCDP Dyadic Dataset version
