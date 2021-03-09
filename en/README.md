@@ -30,16 +30,6 @@ on lithium production.
 
 ---
 
-Im just kidding.. Less royalty when possible is a good thing.
-
----
-
-RoyalExit; US and Canada can use this... Canada breaks off from
-Commonwealth, construct a new one under Harry and Meghan. It will be a
-new Pacific based CW, Oz and NZ will join. 
-
----
-
 Was that RoyalExit? So many exits over there
 
 ---
