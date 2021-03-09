@@ -8,9 +8,9 @@ Pinned Tweets
 
 Now if we can fix the energy side with renewable fuels that relies on
 common ingredients, and physical goods side with truly substituting
-knowledge for atoms, building everything on demand, we might have a
-chance.. Not there yet.  Absent these, might have to change
-incentives, funding to encourage less growth.
+knowledge for atoms, building everything on demand, that cld be a
+route.. Absent these, might have to change incentives, funding to
+encourage less growth.
 
 ---
 
