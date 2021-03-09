@@ -35,13 +35,14 @@ emerging industrial pro- letariat, but artisans who operated their own
 enterprises.77 As such, they were simultaneously capitalists and
 workers...
 
+<a name='elites'/>
+
 In an economic context in which the self- employed find their status
 and opportunities threatened by powerful insti- tutions, it does not
 make sense to pit workers against capital- ists. Popular politics
-instead pits the common working people against elites— that is,
-whoever controls the more powerful in- stitutions. It may also pit the
-common working people against idlers— those who, like aristocrats, do
-not have to work for a liv- ing, but live off the labor of others...
+instead pits the common working people against elites — that is,
+whoever controls the more powerful institutions. It may also pit the
+common working people against idlers ...
 
 Paine’s low-tax, free-trade libertarian agenda made considerable sense
 for an export-led agricultural economy facing high grain prices, as
