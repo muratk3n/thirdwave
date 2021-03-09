@@ -40,7 +40,7 @@ new Pacific based CW, Oz and NZ will join.
 
 ---
 
-So this was RoyalExit? So many exits over there
+Was that RoyalExit? So many exits over there
 
 ---
 
