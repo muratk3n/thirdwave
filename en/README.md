@@ -44,7 +44,7 @@ sci/tech blowing smoke up everyone's ass.
 
 ---
 
-"Quan Supremacy" is achieving a computation through quantum comp that
+"Quan. supremacy" is achieving a computation through quantum comp that
 no regular computer can match. Kalai is raising doubts on Goog
 supremacy claims.
 
