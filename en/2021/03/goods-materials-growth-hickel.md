@@ -1,4 +1,4 @@
-# Goods, Materials, Hickel
+# Goods, Materials, Growth
 
 Jason Hickle, *Less Is More*
 
