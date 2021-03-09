@@ -2,7 +2,7 @@
 
 Pinned Tweets
 
-<img width="90%" src="https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small"/>
+<img width="96%" src="https://pbs.twimg.com/media/EvdKNhvXAAE9Rr2?format=png&name=small"/>
 
 ---
 
