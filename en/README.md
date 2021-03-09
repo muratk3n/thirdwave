@@ -6,103 +6,129 @@ Pinned Tweets
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Saudi Arabia is building a $5 billion hydrogen plant powered entirely by sun and wind to beat out China and Europe <a href="https://t.co/5RyXbhjrKG">https://t.co/5RyXbhjrKG</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/1368542709238095873?ref_src=twsrc%5Etfw">March 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Now if we can fix the energy side with renewable fuels that relies on
+common ingredients, and physical goods side with truly substituting
+knowledge for atoms, building everything on demand, we might have a
+chance.. Not there yet.  Absent these, might have to change
+incentives, funding to encourage less growth.
 
 ---
 
-This is how important the legal system is. I bet UEA set up this
-English based seperate court system to pull in visitors, investment.
+Govs may want it bcz of their elderly; more citizens paying (tax) for
+a fewer citizens. Companies want growth bcz of their investors who need returns.
+That cld all be fine but sadly, even with services factored in, more growth
+means more shit. As in **physical shit**, goods and materials, resources extracted,
+planet plundered. See the [excerpts](03/2021/goods-materials-growth-hickel.md)
+from a Jason Hickel book. And there is only so much the planet can handle in terms
+of resource extraction.
 
-"[UAE] DIFC Courts began operations in 2006 and was established to
-manage cases relating to companies licensed by the Dubai International
-Financial Centre (DIFC) Free Zone. DIFC Courts is an English language
-court based on those operating within the UK’s common law
-system. Originally set up to manage cases for DIFC companies only,
-today any company in the UAE can opt-in to use DIFC Courts for legal
-matters; all that is required is a clause in a new contract or an
-amendment to an existing one. Differing to onshore courts, DIFC Courts
-hears cases in English"
-
-[Link](https://bcbuae.com/2018/02/05/uaes-commercial-zones-legal-jurisdictions-part-two/)
+"Why does everyone want growth?"
 
 ---
 
-WSJ: "Study of Aggressive Covid-19 Strain in Brazil Suggests Limits of China Vaccine"
+[Wired article](https://www.wired.co.uk/article/lithium-batteries-environment-impact)
+on lithium production.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Blue Vs. Green Hydrogen: Which Will The Market Choose? via <a href="https://twitter.com/Forbes?ref_src=twsrc%5Etfw">@forbes</a> <a href="https://t.co/Jjl3xyd8Qh">https://t.co/Jjl3xyd8Qh</a></p>&mdash; Asia-Pacific Hydrogen Association (@APAC_Hydrogen) <a href="https://twitter.com/APAC_Hydrogen/status/1368416220647727104?ref_src=twsrc%5Etfw">March 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Im just kidding.. Less royalty when possible is a good thing.
 
 ---
 
-It is somehow pleasant seeing Rob dealing with a random jagoff tuber. 
+RoyalExit; US and Canada can use this... Canada breaks off from
+CommonWealth, construct a new one under Harry and Meghan. It will be a
+new Pacific based CW, Oz and NZ will join. 
 
 ---
 
-🤣 🤣 Robitaille answers a tuber claim
-
-Claim
-<iframe height="100" width="200" src="https://www.youtube.com/embed/JRrTvP95kf4?start=944&end=985" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Answer
-<iframe height="100" width="200" src="https://www.youtube.com/embed/JRrTvP95kf4?start=1152&end=1310" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+So this was RoyalExit? So many exits over there
 
 ---
 
-"@nickmartin
-
-Replying to @OliviaMesser
-
-I experienced something similar at the beginning of a period of being
-uninsured. CVS wanted to charge 750D for a month's supply of a
-medication. Thankfully I didn't pay, and I quickly learned that
-Walmart sold it for $25. Mom and pop pharmacies are usually good about
-this too"
+ITM is a BUY
 
 ---
 
-"@OliviaMesser
-
-Sans insurance for a few days bc paperwork issue. Pharmacy charged me
-$500 for a month’s worth of medicine I *have* to take. With GoodRX the
-same pharmacy would fill the same amount for 13ish. I HATE this. WHICH
-IS IT?? If it’s not worth $500, WHY are you asking me to pay that
-
-This country’s healthcare system is so broken, and sometimes you’re
-randomly presented with irrefutable and absurd evidence of how
-arbitrary the dollar amounts assigned to meds and services are. It
-makes me want to scream"
+Lots of doubters, sure. Unfortunately I have to follow such characters
+because the landscape is littered with dipshits in all walks of
+sci/tech blowing smoke up everyone's ass.
 
 ---
 
-*Ride Along* 👍. That part where IC corners a guy and he gets scared
-starts singing "mamasay mamasa mamakusa". It was funny..
+"Quan Supremacy" is achieving a computation through quantum comp that
+no regular computer can match. Kalai is raising doubts on Goog
+supremacy claims.
+
+"@GilKalai
+
+[Scientists] proposed a general method for simulating quantum circuits
+and announce that they could generate samples from the Sycamore
+circuit with much better fidelity. This sheds doubts on Google's
+'supremacy' claims"
 
 ---
 
-I see.. Whether The Line picks up or not, the area oppo to Sharm El
-Sheik can still generate some returns.
+More from UCDP conflict dataset...
 
-<iframe width="340" src="https://www.youtube.com/embed/41sgRP0G6y4?start=174&end=313" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"Yearly Datasets covering 1946 - 2019", "UCDP Dyadic Dataset version
+20.1". All conflicts (global), events recorded are where at least 25
+ppl died. "Dyads", meaning action pairs (A attacks B is a dyad), are
+captured at yearly granularity (A attacks B, in year X, N times,
+appears once in record). Simple plot here on dyad action occurences
+per year,
+
+
+```python 
+import pandas as pd, zipfile
+with zipfile.ZipFile('ucdp-dyadic-201-csv.zip', 'r') as z:
+      df =  pd.read_csv(z.open('ucdp-dyadic-201.csv'))
+df = df[['year','side_a','type_of_conflict','intensity_level']]
+df.groupby('year').size().plot()
+plt.axvspan(2008,2008,color='y')
+plt.axvspan(1989,1989,color='y')
+plt.axvspan(2016,2016,color='y')
+plt.savefig('out.png')
+```
+
+<img width="340" src="https://pbs.twimg.com/media/Ev9qgiUXMAIq6Br?format=png&name=small"/>
+
+There was reduction soon after 1989, the fall of the Berlin Wall. Kept
+on going down past 9/11, past 2001, past the invasion of Iraq.. But, I
+guess bcz by 2008-10 Iraq became FUBAR, vio picked up. Started to
+decrease little before 2016, but still did not go down to 2010 levels.
 
 ---
 
-I started patching up MIT Strang lecs.. this is some next level shit
+Bloomberg: "As governments and industries seek less-polluting
+alternatives to hydrocarbons, the world’s biggest crude exporter
+doesn’t want to cede the burgeoning hydrogen business to China, Europe
+or Australia and lose a potentially massive source of income. So it’s
+building a $5 billion plant powered entirely by sun and wind that will
+be among the world’s biggest green hydrogen makers when it opens in
+the planned megacity of Neom in 2025.
 
----
+The task of turning a patch of desert the size of Belgium into a
+metropolis powered by renewable energy falls to Peter Terium, the
+former chief executive officer of RWE AG, Germany’s biggest utility,
+and clean-energy spinoff Innogy SE...
 
-TechCrunch: "Hyzon Motors' hydrogen fuel ambitions include two US factories"
+That should mean plenty of potential customers for the plant called
+Helios Green Fuels... Saudi Arabia possesses a competitive advantage
+in its perpetual sunshine and wind, and vast tracts of unused
+land. Helios’s costs likely will be among the lowest globally and
+could reach $1.50 per kilogram by 2030, according to BNEF. That’s
+cheaper than some hydrogen made from non-renewable sources today
 
----
+For starters, Helios will produce 650 tons of hydrogen a day by
+electrolysis – enough for conversion to 1.2 million tons per year of
+green ammonia. Air Products will buy all of that ammonia, which is
+easier to ship than liquid or gaseous hydrogen, and convert it back
+upon delivery to customers...
 
-"HyPoint has unveiled the first operable prototype version of its turbo
-air-cooled hydrogen fuel cell system ... Testing has shown that
-HyPoint’s turbo air-cooled hydrogen fuel cell system will be able to
-achieve up to 2,000 watts per kilogram of specific power. Dr. Alex
-Ivanenko, founder and CEO of HyPoint, told Avionics International that
-their technology has drawn interest from a wide range of aircraft
-developers"
+Germany said it needs 'enormous' volumes of green hydrogen, and it
+hopes Saudi Arabia will be a supplier"
 
-[Link](https://www.aviationtoday.com/2021/03/02/hypoint-ceo-talks-new-hydrogen-fuel-cell-operable-prototype-electric-aircraft/)
+[Link](https://www.bloomberg.com/news/articles/2021-03-07/saudi-arabia-s-plan-to-rule-700-billion-hydrogen-market)
 
 ---
 
