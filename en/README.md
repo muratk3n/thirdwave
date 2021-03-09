@@ -6,11 +6,11 @@ Pinned Tweets
 
 ---
 
-Now if we can fix the energy side with renewable fuels that relies on
-common ingredients, and physical goods side with truly substituting
-knowledge for atoms, building everything on demand, that cld be a
-route.. Absent these, might have to change incentives, funding to
-encourage less growth. 
+If we can fix the physical goods side by truly substituting knowledge
+for atoms, building everything on demand, and the energy side with
+renewable fuels (that relies on common ingredients), we could have a
+route.. Absent these, might have to change incentives to encourage
+less growth.
 
 ---
 
