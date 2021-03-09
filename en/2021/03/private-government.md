@@ -34,10 +34,8 @@ radicals saw access to self-employment as central to avoiding poverty
 and attaining standing as equals in society. In the late eighteenth
 and early nineteenth centuries, the most radical workers were not the
 emerging industrial proletariat, but artisans who operated their own
-enterprises.77 As such, they were simultaneously capitalists and
+enterprises. As such, they were simultaneously capitalists and
 workers...
-
-<a name='elites'/>
 
 In an economic context in which the self-employed find their status
 and opportunities threatened by powerful institutions, it does not
