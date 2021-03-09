@@ -118,7 +118,7 @@
 
 [Ethereum](06/ethereum.md)
 
-[The Next 100 Years, Friedman](06/friedman-100-years.md)
+[The Next 100 Years](06/friedman-100-years.md)
 
 [Kaleefornia](06/kaleefornia.md)
 
