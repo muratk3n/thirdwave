@@ -84,5 +84,4 @@ crops. Many have had no choice but to abandon their land
 altogether. Meanwhile, chemical leaks from lithium mines have poisoned
 rivers from Chile to Argentina, Nevada to Tibet, killing off whole
 freshwater ecosystems. The lithium boom has barely started, and it’s
-already a catastrophe
-
+already a catastrophe.
