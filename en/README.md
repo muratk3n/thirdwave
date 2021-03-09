@@ -18,8 +18,8 @@ Govs may want it bcz it means more taxes in the future, easing debt
 repayment. Companies want growth bcz of their investors who need
 returns. All that cld be fine but even with services dominating the
 economy, more growth still means more shit. As in **physical shit**,
-goods and materials, leading to resource extraction, planet plundered. See
-[excerpts](2021/03/goods-materials-growth-hickel.md). 
+goods and materials, leading to resource extraction, a plundered
+planet. See [excerpts](2021/03/goods-materials-growth-hickel.md).
 
 "Why does everyone want growth?"
 
@@ -38,7 +38,7 @@ ITM is a BUY
 
 ---
 
-Lots of doubters, sure. Unfortunately I have to follow such characters
+Lots of doubters, sure. Unfort'ly have to follow such characters
 because the landscape is littered with dipshits in all walks of
 sci/tech blowing smoke up everyone's ass.
 
