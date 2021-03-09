@@ -60,10 +60,11 @@ circuit with much better fidelity. This sheds doubts on Google's
 More from UCDP conflict dataset...
 
 "Yearly Datasets covering 1946 - 2019", "UCDP Dyadic Dataset version
-20.1". All conflicts (global), events recorded are where at least 25
-ppl died. "Dyads", meaning action pairs (A attacks B is a dyad), are
-captured at yearly granularity (A attacks B in a year N times, appears
-once in record). Simple plot here on dyad action occurences per year,
+20.1". Conflict records are (global) events where at least 25 ppl
+died, for each dyad-year. "Dyads", meaning action pairs (A attacks B
+is a dyad), are captured at yearly granularity (A attacks B in a year
+N times, appears once in record). Simple plot here on dyad action
+occurences per year,
 
 
 ```python 
