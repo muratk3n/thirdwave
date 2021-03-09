@@ -39,9 +39,9 @@ ITM is a BUY
 
 ---
 
-Lots of doubters, sure. Unfort'ly have to follow such characters
-because the landscape is littered with dipshits in all walks of
-sci/tech blowing smoke up everyone's ass.
+Lots of doubters showcased, yes. Unfort'ly have to follow such
+characters because the landscape is littered with dipshits in all
+walks of sci/tech blowing smoke up everyone's ass.
 
 ---
 

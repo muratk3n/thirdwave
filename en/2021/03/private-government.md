@@ -4,8 +4,8 @@ American public discourse is also mostly silent about the regulations
 employers impose on their workers. We have the language of fairness
 and distributive justice to talk about low wages and inadequate
 benefits. We know how to talk about the Fight for $15, whatever side
-of this issue we are on. But we don’t have good ways to talk about the
-way bosses rule workers’ lives.  Instead, we talk as if workers aren’t
+of this issue we are on. But we don't have good ways to talk about the
+way bosses rule workers' lives.  Instead, we talk as if workers aren't
 ruled by their bosses.  We are told that unregulated markets make us
 free, and that the only threat to our liberties is the state. We are
 told that in the market, all transactions are voluntary. We are told
@@ -20,12 +20,12 @@ before. Labor markets are differ- ent. When workers sell their labor
 to an employer, they have to hand themselves over to their boss, who
 then gets to order them around. The labor contract, instead of leaving
 the seller as free as before, puts the seller under the authority of
-their boss. Since the decline of the labor movement, however, we don’t
+their boss. Since the decline of the labor movement, however, we don't
 have effective ways to talk about this fact, and hence about what
-kinds of authority bosses should and shouldn’t have over their
+kinds of authority bosses should and shouldn't have over their
 workers....
 
-Paine’s low-tax, free-trade libertarian agenda made considerable sense
+Paine's low-tax, free-trade libertarian agenda made considerable sense
 for an export-led agricultural economy facing high grain prices, as
 was true for late eighteenth- century America.  “The commerce by which
 [America] hath enriched herself are the necessaries of life, and will
@@ -47,5 +47,10 @@ the quality of virtually all goods for sale on inspection, and nearly
 everyone grows what they eat, there is little need for laws regulating
 the safety of consumer goods. Arcane financial instruments could not
 bring an economy to its knees in an era in which banking was primitive
-and much of the economy was not monetized.
+and much of the economy was not monetized...
+
+The Industrial Revolution shattered the egalitarian ideal of uni-
+versal self-government in the realm of production. Economies of scale
+overwhelmed the economy of small proprietors, replac- ing them with
+large enterprises that employed many workers.
 
