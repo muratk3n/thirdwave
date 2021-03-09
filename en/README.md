@@ -15,11 +15,11 @@ encourage less growth.
 ---
 
 Govs may want it bcz it means more taxes in the future, easing debt
-repayment. Companies want growth bcz of their investors need
-returns. All that cld be fine but even with services dominating the
-economy, more growth still means more shit. As in **physical shit**,
-goods and materials, leading to resource extraction, a plundered
-planet. See [excerpts](2021/03/goods-materials-growth-hickel.md).
+repayment. Companies want growth bcz their investors need returns. All
+that cld be fine but even with services dominating the economy, more
+growth still means more shit. As in **physical shit**, goods and
+materials, leading to resource extraction, a plundered planet. See
+[excerpts](2021/03/goods-materials-growth-hickel.md).
 
 "Why does everyone want growth?"
 
