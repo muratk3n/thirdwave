@@ -57,8 +57,8 @@ state of Tamil Nadu"
 ---
 
 Actually Dem div indirectly caused Rep division later.  If everyone
-stuck one side, -ism, none of that wld happen. Had to happen this way
-I guess..
+stuck one side, -ism, none of that wld take place. Had to happen this
+way I guess..
 
 ---
 
