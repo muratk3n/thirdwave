@@ -6,124 +6,110 @@ Pinned Tweets
 
 ---
 
-If we can fix the physical goods side by truly substituting knowledge
-for atoms, building everything on demand, and the energy side with
-renewable fuels (that relies on common ingredients), we could have a
-route.. Absent these, might have to change incentives to encourage
-less growth.
+Go for it!!
+
+"Capsule gets $1.5M to build ‘super simple’ decentralized social media
+[on Dfinity’s decentralized network]"
+
+[Link](https://techcrunch.com/2021/03/09/capsule-gets-1-5m-to-build-super-simple-decentralized-social-media/)
 
 ---
 
-Govs may want it bcz it means more taxes in the future, easing debt
-repayment. Companies want growth bcz their investors need returns. All
-that cld be fine but even with services dominating the economy, more
-growth still means more shit. As in **physical shit**, goods and
-materials, leading to resource extraction, a plundered planet. See
-[excerpts](2021/03/goods-materials-growth-hickel.md).
+"@rcbregman
 
-"Why does everyone want growth?"
+... The child tax credit in the Rescue Plan is a basic income for
+children. It'll cut child poverty in half. IN HALF!!! The word
+'historic' is overused but this seems very very historic to me"
 
 ---
 
-[Wired article](https://www.wired.co.uk/article/lithium-batteries-environment-impact)
-on lithium production.
+Lula is free for politics. Excellent news. The Left needs good
+leadership.
 
 ---
 
-Was that RoyalExit? So many exits over there
+*Private Government*, good book. Some excerpts [here](2021/03/private-government.md).
 
 ---
 
-ITM is a BUY
+Marx missed that same point about the Second Wave; thinking [too
+highly](2011/03/integrators.md#marx) of the masses.
 
 ---
 
-Lots of doubters showcased, yes. Unfort'ly have to follow such
-characters because the landscape is littered with dipshits in all
-walks of sci/tech blowing smoke up everyone's ass.
+People power.. Sure..
+
+Remember 2006 TIME [Person of the Year](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)?
+
+And what happened since? Think grasshopper.
 
 ---
 
-"Quan. supremacy" is achieving a computation through quantum comp that
-no regular computer can match. Kalai is raising doubts on Goog
-supremacy claims.
-
-"@GilKalai
-
-[Scientists] proposed a general method for simulating quantum circuits
-and announce that they could generate samples from the Sycamore
-circuit with much better fidelity. This sheds doubts on Google's
-'supremacy' claims"
+Forbes: "Fossil Fuel Air Pollution Kills Twice As Many As Previously
+Thought"
 
 ---
 
-1989, 2008 as beginning/end of certain ideologies? World is looking
-for a new system, in a funk.
+"Indian-Irish partnership to produce green hydrogen... Ireland’s Fusion
+Fuel Green has agreed to set up a demonstrator plant in the Indian
+state of Tamil Nadu"
 
 ---
 
-More from UCDP conflict dataset...
+If everyone stuck to their side, none of what followed wld be necessary.
 
-"Yearly Datasets covering 1946 - 2019", "UCDP Dyadic Dataset version
-20.1". Conflict records are (global) events where at least 25 ppl
-died, for each dyad-year. "Dyads", meaning action pairs (A attacks B
-is a dyad), are captured at yearly granularity (A attacks B in a year
-N times, appears once in record). Simple plot here on all dyad action
-occurences per year, it can give a general idea on violence level
-throughout the world,
-
-
-```python 
-import pandas as pd, zipfile
-with zipfile.ZipFile('ucdp-dyadic-201-csv.zip', 'r') as z:
-      df =  pd.read_csv(z.open('ucdp-dyadic-201.csv'))
-df = df[['year','side_a','type_of_conflict','intensity_level']]
-df.groupby('year').size().plot()
-plt.axvspan(2008,2008,color='y')
-plt.axvspan(1989,1989,color='y')
-plt.axvspan(2016,2016,color='y')
-plt.savefig('out.png')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/Ev9qgiUXMAIq6Br?format=png&name=small"/>
-
-There was decrease soon after 1989, the fall of the Berlin Wall. Kept
-on going down past 9/11, past the invasion of Iraq.. But, I guess bcz
-by 2008-10 Iraq became FUBAR (one example), vio picked up. Started to
-decrease little before 2016, but still did not go down to 2010 levels.
+But the process had to happen this way I guess..
 
 ---
 
-Bloomberg: "As governments and industries seek less-polluting
-alternatives to hydrocarbons, the world’s biggest crude exporter
-doesn’t want to cede the burgeoning hydrogen business to China, Europe
-or Australia and lose a potentially massive source of income. So it’s
-building a $5 billion plant powered entirely by sun and wind that will
-be among the world’s biggest green hydrogen makers when it opens in
-the planned megacity of Neom in 2025.
+Reps div is partially due to Dem div many years earlier, if u think
+about it.. So weird..
 
-The task of turning a patch of desert the size of Belgium into a
-metropolis powered by renewable energy falls to Peter Terium, the
-former chief executive officer of RWE AG, Germany’s biggest utility,
-and clean-energy spinoff Innogy SE...
+---
 
-That should mean plenty of potential customers for the plant called
-Helios Green Fuels... Saudi Arabia possesses a competitive advantage
-in its perpetual sunshine and wind, and vast tracts of unused
-land. Helios’s costs likely will be among the lowest globally and
-could reach $1.50 per kilogram by 2030, according to BNEF. That’s
-cheaper than some hydrogen made from non-renewable sources today
+A lot of the divisions Trump caused in the Reps remind me of the
+triangulation Clinton did in the Dem Party. At the time Reps probably
+enjoyed that, seeing the in-fighting in the Dems (until BC started
+encroaching on their shit, then they panicked) so what goes around,
+comes around, a kind of division hit them too in the end.
 
-For starters, Helios will produce 650 tons of hydrogen a day by
-electrolysis – enough for conversion to 1.2 million tons per year of
-green ammonia. Air Products will buy all of that ammonia, which is
-easier to ship than liquid or gaseous hydrogen, and convert it back
-upon delivery to customers...
+---
 
-Germany said it needs 'enormous' volumes of green hydrogen, and it
-hopes Saudi Arabia will be a supplier"
+Chevron needs to smell the coffee. Follow Shell. Be part of the
+solution buddy.
 
-[Link](https://www.bloomberg.com/news/articles/2021-03-07/saudi-arabia-s-plan-to-rule-700-billion-hydrogen-market)
+---
+
+Daam. They really went after this guy didnt they?
+
+"Steven Donziger won a multibillion-dollar judgment against Chevron in
+Ecuador. The company sued him in New York, and now he’s under house
+arrest"
+
+[Link](https://theintercept.com/2020/01/29/chevron-ecuador-lawsuit-steven-donziger/)
+
+---
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1 year, 1.100k validated tickets, and 419k km later, our green <a href="https://twitter.com/hashtag/ExquiCity?src=hash&amp;ref_src=twsrc%5Etfw">#ExquiCity</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses for <a href="https://twitter.com/Ville_Pau?ref_src=twsrc%5Etfw">@ville_pau</a> have increased local use of public transit with 30%. Happy birthday from <a href="https://twitter.com/hashtag/teamvanhool?src=hash&amp;ref_src=twsrc%5Etfw">#teamvanhool</a>!🎂 More info on our green ExquiCity range: <a href="https://t.co/IzEByOfGN4">https://t.co/IzEByOfGN4</a> 🌱</p>&mdash; Van Hool (@vanhool) <a href="https://twitter.com/vanhool/status/1369302148228472837?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Yes its a 24-hour clock. These mucers wld be confused with a 12-hour one.
+
+---
+
+She just kept betting on tech, TSLA etc.  People thought this was some
+kind of genius but all they did was betting on tech by luck when it
+was time for tech (growth stocks). When the situation **turned** they
+could not see it coming. Their playbook had one page. They were like
+that broken clock showing the right time once a day.
+
+---
+
+🤣 🤣 🤣
+
+"Why once hot ETK Ark Innovation ETF Katie Wood lost all her profits in 2021"
 
 ---
 
