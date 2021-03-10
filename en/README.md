@@ -56,7 +56,8 @@ state of Tamil Nadu"
 
 ---
 
-If everyone stuck to their side, none of what followed wld be necessary.
+If everyone stuck one side, -ism, none of what followed wld be
+necessary.
 
 But the process had to happen this way I guess..
 
@@ -100,10 +101,11 @@ Yes its a 24-hour clock. These mucers wld be confused with a 12-hour one.
 ---
 
 She just kept betting on tech, TSLA etc.  People thought this was some
-kind of genius but all they did was betting on tech by luck when it
-was time for tech (growth stocks). When the situation **turned** they
-could not see it coming. Their playbook had one page. They were like
-that broken clock showing the right time once a day.
+kind of genius but all they did was betting on tech when it happened
+to be doing well, it was time for tech (growth stocks). When the
+situation **turned** they could not see it coming. Their playbook had
+one page. They were like that broken clock showing the right time once
+a day.
 
 ---
 
