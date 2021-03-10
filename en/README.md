@@ -62,11 +62,11 @@ I guess..
 
 ---
 
-A lot of the divisions Trump caused in the Reps remind me of the
-triangulation Clinton did in the Dem Party. At the time Reps probably
-enjoyed that, seeing the in-fighting at the other side (until BC
-started encroaching on their shit, then they panicked) so what goes
-around, comes around, a kind of division hit them too in the end.
+Divisions Trump trig'd at the Reps remind me of Clinton triangulation
+with the Dems. At the time Reps probably enjoyed that, seeing the
+in-fighting at the other side (until BC started encroaching on their
+shit, then they panicked). What goes around, comes around, a kind of
+division hit them too in the end.
 
 ---
 
