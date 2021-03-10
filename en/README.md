@@ -81,22 +81,22 @@ solution buddy.
 
 ---
 
-Daam. They really went after this guy didnt they?
+@maxwellstrachan
 
-"Steven Donziger won a multibillion-dollar judgment against Chevron in
-Ecuador. The company sued him in New York, and now he’s under house
-arrest"
-
-[Link](https://theintercept.com/2020/01/29/chevron-ecuador-lawsuit-steven-donziger/)
+journalism is a public service playing by the rules of private enterprise—a contract that appears increasingly untenable. 
 
 ---
 
+Bloodbath at HuffPo. Frankly hadnt read their stuff for a while..
+
+"@emmaladyrose
+
+Today I got laid off at HuffPost, after a decade of work I am so
+incredibly proud of. I am one of 47"
+
+---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1 year, 1.100k validated tickets, and 419k km later, our green <a href="https://twitter.com/hashtag/ExquiCity?src=hash&amp;ref_src=twsrc%5Etfw">#ExquiCity</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses for <a href="https://twitter.com/Ville_Pau?ref_src=twsrc%5Etfw">@ville_pau</a> have increased local use of public transit with 30%. Happy birthday from <a href="https://twitter.com/hashtag/teamvanhool?src=hash&amp;ref_src=twsrc%5Etfw">#teamvanhool</a>!🎂 More info on our green ExquiCity range: <a href="https://t.co/IzEByOfGN4">https://t.co/IzEByOfGN4</a> 🌱</p>&mdash; Van Hool (@vanhool) <a href="https://twitter.com/vanhool/status/1369302148228472837?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Yes its a 24-hour clock. These mucers wld be confused with a 12-hour one.
 
 ---
 
