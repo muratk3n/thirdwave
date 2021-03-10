@@ -76,11 +76,11 @@
 
 [Terry Jones' Barbarians](10/terry-jones-barbarians.md)
 
+[America's Secret War](11/americas-secret-war-friedman.md)
+
 [Hacking the Constitution](11/constitution.md)
 
 [Cultures, Identities, Something Dash Something Americans, Immigrants](11/faux-ambassadors.md)
-
-[France - China - US](11/france-china-us.md)
 
 [A Post-Scarcity World](11/post-scarcity.md)
 

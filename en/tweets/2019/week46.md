@@ -344,8 +344,7 @@ YES. Huge report: Road Map to a US #Hydrogen Economy released. Written by:
 
 ---
 
-Interesting
-[tidbit](https://muratk3n.github.io/thirdwave/en/2019/11/france-china-us.html)
+Interesting [tidbit](../../2019/11/americas-secret-war-friedman.md#france)
 from G. Friedman.  France likes to stay apart from US, and want to be
 seen as a leader. They saw a chance during before the Iraq War but it
 backfired. The Eastern Europe freaked out abt a possible entente with

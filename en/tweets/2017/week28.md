@@ -1,51 +1,6 @@
 # Week 28
 
-G. Friedman
-
-[From America's Secret War, 2005] When U.S. forces first deployed in
-Saudi Arabia in order to face down Iraq, they were confined to
-bases. The reason was that the Saudis were afraid that public
-awareness of the American presence on their soil would generate a
-massive reaction. On one rare occasion when U.S. troops went off base,
-a small group visited a Saudi coffee shop. There they were taunted by
-Saudis, who told them that the Saudi government had merely hired the
-U.S. Army, just as they hired engineers or servants. The U.S. soldiers
-responded vigorously, and were later brought up on charges.
-
-The incident resulted in a sharp encounter between Norman Schwarzkopf
-and the Saudi command. Schwarzkopf demanded that the Saudis take steps
-to stamp out the perception, encouraged by the government, that the
-Americans were simply hired mercenaries under Saudi control. What
-Schwarzkopf and the rest of the U.S. government didn't grasp is that
-the story was spread among the Saudi population because the Saudi
-government harbored a desperate fear: that the presence of U.S. forces
-in Arabia would trigger an uprising. In fact it did generate a rising,
-but not an immediate one. It triggered Al Qaeda.[..]
-
-[After 9/11] The Saudis simply did not want to participate in the
-American war [against al Qaida] to any extent that would have made a
-difference. This startled the United States, which believed it had
-saved the Saudis during Desert Storm. It was the culmination of a
-policy that had been evolving for a decade. The United States needed a
-way to pressure the Saudis into doing what the Americans needed—even
-though it was not in the Saudi interest. The United States pressed,
-and the Saudis deflected [..]
-
-The central dilemma the U.S. now faced was how to get the Saudis into
-the war. The problem was that the Saudis did not think the United
-States was going to win this war. They understood the region and their
-own country far better than the Americans, and the United States did
-not terrify the Saudis nearly as much as Al Qaeda did. The Saudis had
-heard U.S. rhetoric in the past and were not impressed. Somehow the
-U.S. had to demonstrate just how serious and frightening it could be,
-and then be in a position to put massive military and political
-pressure on the Saudis.
-
-This was the origin of the U.S. decision to invade Iraq.[..]
-
-I see
-
-According to this argument, after 9/11 United States was getting
+According to argument [here](../../2019/11/americas-secret-war-friedman.md), after 9/11 United States was getting
 kicked out of SA, so it not only needed a new base that'd be strategic
 enough to project power into Middle East and beyond, they also needed
 to force Saudis (and Pakistani) cooperation (SA was encircled by US
