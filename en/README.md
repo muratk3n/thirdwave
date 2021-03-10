@@ -32,8 +32,8 @@ leadership.
 
 ---
 
-Marx missed that same point about the Second Wave; thinking [too
-highly](2011/03/integrators.md#marx) of the masses.
+Marx missed that same point about the Second Wave; thinking
+[too highly](2011/03/integrators.md#marx) of the masses.
 
 ---
 
