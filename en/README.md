@@ -64,15 +64,16 @@ I guess..
 
 Divisions Trump trig'd at the Reps remind me of Clinton triangulation
 with the Dems. At the time Reps probably enjoyed that, seeing the
-in-fighting at the other side (until BC started encroaching on their
+in-fighting on the other side (until BC started encroaching on their
 shit, then they panicked). What goes around, comes around, a kind of
 division hit them too in the end.
 
 ---
 
-@maxwellstrachan
+"@maxwellstrachan
 
-journalism is a public service playing by the rules of private enterprise—a contract that appears increasingly untenable. 
+journalism is a public service playing by the rules of private
+enterprise—a contract that appears increasingly untenable"
 
 ---
 
