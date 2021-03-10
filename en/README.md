@@ -70,11 +70,6 @@ around, comes around, a kind of division hit them too in the end.
 
 ---
 
-Chevron needs to smell the coffee. Follow Shell. Be part of the
-solution buddy.
-
----
-
 @maxwellstrachan
 
 journalism is a public service playing by the rules of private enterprise—a contract that appears increasingly untenable. 
