@@ -102,7 +102,7 @@ incredibly proud of. I am one of 47"
 
 She just kept betting on tech, TSLA etc.  People thought this was some
 kind of genius but all they did was betting on tech when it happened
-to be doing well, it was time for tech (growth stocks). When the
+to be doing well, when it was time for tech (growth stocks). When the
 situation **turned** they could not see it coming. Their playbook had
 one page. They were like that broken clock showing the right time once
 a day.
