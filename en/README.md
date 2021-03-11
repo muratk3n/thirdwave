@@ -56,8 +56,8 @@ strategy"
 
 The Pacific has its own royals now..  Canada can dump UK ones and form
 its own CommonWealth (Calif, WA, Canada, whats the difference). Add
-the US, u have modern pre-modern/empire for the Pacific. Oz, NZ could
-join. H&M can be Duke and Duchess of O.C.
+the US, u have an empire for the Pacific. Oz, NZ could join. H&M can
+be Duke and Duchess of O.C.
 
 ---
 
