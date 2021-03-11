@@ -76,7 +76,7 @@ showing that GDP per capita serves as a reliable proxy for economic
 and military efaciency....
 
 To create a rough proxy for net resources, I follow Bairoch’s advice
-by sim- ply multiplying GDP by GDP per capita, creating an index that
+by simply multiplying GDP by GDP per capita, creating an index that
 gives equal weight to a nation’s gross output and its output per
 person. This two-variable index obviously does not measure net
 resources directly, nor does it resolve all of the shortcomings of GDP
@@ -86,29 +86,27 @@ indicators alone...
 
 By standard indicators, China looked like a superpower in the
 nineteenth and early twentieth centuries. It had the largest GDP and
-military in the world un- til the 1890s, and the second largest GDP
-and military until the 1930s. 56 During this time, however, China
-suffered a “century of humiliation” in which it lost significant
-territory and most of its sovereign rights, aghting at least a dozen
-wars on its home soil — and losing every single one of them...
+military in the world until the 1890s, and the second largest GDP and
+military until the 1930s. During this time, however, China suffered a
+“century of humiliation” in which it lost significant territory and
+most of its sovereign rights, fighting at least a dozen wars on its
+home soil — and losing every single one of them...
 
 Clearly, Britain was more powerful than China during the Opium
 Wars. This fact, however, is not captured by standard gross metrics:
-China’s GDP and de- fense budget were more than twice the size of
+China’s GDP and defense budget were more than twice the size of
 Britain’s, and China’s army of 800,000 troops dwarfed the 7,000-troop
 force that Britain sent to China to fight the wars.
 
-China’s weakness is apparent only when costs are taken into
-account. Fig- ure 1 provides a first-cut assessment and hints at what
-more detailed research makes clear: China suffered from greater
-production, welfare, and security costs than Britain and thus had
-fewer resources to draw on in their many disputes. Whereas Britain
-comes out far ahead of China when power is measured by my proxy for
-net resources (GDP x GDP per capita), Britain never overtook China in
-terms of GDP. Moreover, CINC suggests, nonsensically, that China and
-Britain were equally matched in the mid-nineteenth century and that
-China surpassed Britain in power in 1907, ave years before the Chinese
-government collapsed.
+China’s weakness is apparent only when costs are taken into account...
+China suffered from greater production, welfare, and security costs
+than Britain and thus had fewer resources to draw on in their many
+disputes. Whereas Britain comes out far ahead of China when power is
+measured by my proxy for net resources (GDP x GDP per capita), Britain
+never overtook China in terms of GDP. Moreover, CINC suggests,
+nonsensically, that China and Britain were equally matched in the
+mid-nineteenth century and that China surpassed Britain in power in
+1907, five years before the Chinese government collapsed.
 
 <a name='chinajapan'/>
 
