@@ -5,14 +5,14 @@ Michael Beckley [Article](https://www.mitpressjournals.org/doi/pdf/10.1162/isec_
 Many scholars and analysts measure power in terms of
 resources. Unfortunately, most of them measure resources in gross
 rather than net terms. As noted, gross indicators systematically
-overstate the power of populous coun- tries, because they count the
-beneats of having a big population, but not the costs...
+overstate the power of populous countries, because they count the
+benefits of having a big population, but not the costs...
 
 To rank among the most powerful nations in the world, a state needs to
 amass a large stock of resources, and to do that a state must be big
-and ef- acient. It must produce high output at low costs. It must not
-only mobilize vast inputs, but also produce signiacant output per unit
-of input. In short, a nation’s power stems not from its gross
+and efficient. It must produce high output at low costs. It must not
+only mobilize vast inputs, but also produce significant output per
+unit of input. In short, a nation’s power stems not from its gross
 resources, but from its net resources—the resources left over after
 subtracting costs.
 
@@ -26,7 +26,7 @@ Security costs are the price a government pays to police and protect
 its citizens. The logic of deducting assets tied up in domestic law
 enforcement and homeland security is simple: police and military units
 that are bogged down chasing criminals, quelling rebellions, or
-defending borders against foreign in- vasions cannot project power
+defending borders against foreign invasions cannot project power
 abroad or create wealth at home. Measuring security costs thus
 accounts for the fact that two nations with identical sets of gross
 resources may, nevertheless, wield vastly different levels of power if
@@ -34,15 +34,15 @@ one country is surrounded by enemies and wracked by internal strife
 whereas the other is stable and surrounded by allies...
 
 The most popular indicator is GDP, which records the value of all
-goods and services produced within a country over a axed period of
+goods and services produced within a country over a fixed period of
 time... Despite the widespread use of GDP, however, few people know
 what it actually measures or recognize that it does not deduct
 costs... GDP counts security spending as economic output. GDP does not
-distinguish between guns and butter. It counts a $100 million gulag
-the same as a $100 million innovation center. Hence, GDP fails to
-account fully for the economic costs of domestic instability and
-international conoict. In fact, GDP usually rises when a country
-mobilizes for war...
+distinguish between guns and butter. It counts a 100 million gulag the
+same as a $100 million innovation center. Hence, GDP fails to account
+fully for the economic costs of domestic instability and international
+conflict. In fact, GDP usually rises when a country mobilizes for
+war...
 
 Academics, too, typically measure the power of nations in terms of war
 potential. As noted, more than 1,000 peer-reviewed studies have used
@@ -59,12 +59,12 @@ so a country could substantially increase its CINC score by making
 enemies and then raising a huge, oil-guzzling army to attack them.
 
 How can scholars address the shortcomings of the standard indicators
-of na- tional power discussed above? The ideal solution would be to
+of national power discussed above? The ideal solution would be to
 deduct costs... The obvious problem with such an approach, however, is
 that compiling balance sheets for every country is a painstaking
 process that requires substantial data and time... [S]cholars need a
 proxy for net resources that has data covering many countries going
-back many decades. Does such an in- dicator exist?
+back many decades. Does such an indicator exist?
 
 In an oft-cited statistical reference, the historian Paul Bairoch
 suggested that the 'strength of a nation could be found in a formula
