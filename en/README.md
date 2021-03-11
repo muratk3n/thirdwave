@@ -63,10 +63,9 @@ Oz, NZ could join the New CW.
 
 ---
 
-I wonder if TV anchors get a mood warning before they start reading
-the next news item. Like "sad mood", "happy mood" etc. Stuff flows
-fast and u cld roll into a sad story smiling like a jackass. Warning
-could help here.
+Do TV anchors get a mood warning before they start reading the next
+news item? Like, "sad mood", "happy mood" etc. Stuff flows fast and u
+cld roll into a sad story smiling like a jackass.. Warning could help.
 
 ---
 
