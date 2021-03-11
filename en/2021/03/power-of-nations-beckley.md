@@ -129,7 +129,7 @@ World War I broke out in 1914, Japan entered the war on the Allies’
 side and seized the German-controlled city of Qingdao on China’s
 Shandong Peninsula. Japan then presented China with the infamous
 “Twenty-One Demands,” which basically called for China to become a
-Japanese ward.76 The United States forced Japan to abandon its most
+Japanese ward. The United States forced Japan to abandon its most
 punishing demands, but Japan still extracted substantial territorial
 and economic concessions from China.
 
@@ -143,4 +143,11 @@ By the time World War II began in Europe in 1939, Japan controlled
 most of eastern China plus Taiwan and its outlying islands. Japanese
 expansion stopped only when it ran afoul of the United States, which
 decisively defeated Japan in 1945.
+
+Obviously Japan was more powerful than China during their rivalry. Yet
+by standard metrics, China appeared to have far greater power
+resources. China’s population, GDP, and military were several times
+larger than Japan’s, but Japan had greater net resources because it
+was much more efficient than China ...
+
 
