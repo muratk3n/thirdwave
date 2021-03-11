@@ -55,9 +55,11 @@ strategy"
 ---
 
 The Pacific has its own royals now..  Canada can dump UK ones and form
-its own CommonWealth (CA, WA, Canada, whats the difference). Add the
-US, u have modern pre-modern/empire for the Pacific. H&M can be Duke
-and Duchess of O.C.
+its own CommonWealth (Calif, WA, Canada, whats the difference). Add
+the US, u have modern pre-modern/empire for the Pacific. H&M can be
+Duke and Duchess of O.C.
+
+Oz, NZ could join the New CW.
 
 ---
 
