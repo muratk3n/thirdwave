@@ -22,12 +22,12 @@ leadership.
 
 ---
 
-*Private Government*, good book. Some excerpts [here](2021/03/private-government.md).
+*Private Government*, good book. Some excerpts [here](../../2021/03/private-government.md).
 
 ---
 
 Marx missed that same point about the Second Wave; thinking
-[too highly](2011/03/integrators.md#marx) of the masses.
+[too highly](../../2011/03/integrators.md#marx) of the masses.
 
 ---
 
@@ -112,7 +112,7 @@ repayment. Companies want growth bcz their investors need returns. All
 that cld be fine but even with services dominating the economy, more
 growth still means more shit. As in **physical shit**, goods and
 materials, leading to resource extraction, a plundered planet. See
-[excerpts](2021/03/goods-materials-growth-hickel.md).
+[excerpts](../../2021/03/goods-materials-growth-hickel.md).
 
 "Why does everyone want growth?"
 
