@@ -2,6 +2,8 @@
 
 George Friedman
 
+Saudis
+
 When U.S. forces first deployed in Saudi Arabia in order to face down
 Iraq, they were confined to bases. The reason was that the Saudis were
 afraid that public awareness of the American presence on their soil
@@ -45,6 +47,8 @@ This was the origin of the U.S. decision to invade Iraq.[..]
 
 <a name='china'/>
 
+China
+
 Donald Rumsfeld had said, just before September 11, that the
 United States was going to reorient its entire defense policy to focus
 on Asia—which meant to counter the growth of Chinese power.  This was
@@ -62,6 +66,8 @@ U.S. victory in the war on Al Qaeda would leave China extremely
 vulnerable to U.S. power...
 
 <a name='france'/>
+
+France
 
 Ever since Charles de Gaulle, France had been deeply concerned about
 its declining position in the world. France saw the rise of American
