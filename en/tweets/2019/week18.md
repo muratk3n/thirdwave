@@ -7,7 +7,7 @@ Wow.. A lot of female Trek fans dislike Disco STD too; So Woke stuff doesn't wor
 
 This is pussyxploitation. Just like blaxploitation movies of 70s.. 
 
-[Link](/thirdwave/en/2011/12/blaxploitation.html)
+[Link](../../2011/12/blaxploitation.md)
 
 "Part Devil, Part Legend, All Man!!"
 

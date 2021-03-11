@@ -1412,7 +1412,7 @@ People don't seem to appreciate what modernity does to its
 citizens. You get thrown around, from one concentrated institution to
 another, in a constant game of musical chairs. You are constantly
 interacting, moving, and need to adapt to the common language to
-survive. From [Gellner](/en/2013/03/nations-and-nationalism-gellner.md),
+survive. From [Gellner](../../2013/03/nations-and-nationalism-gellner.md),
 
 >Men located within [modernity] cannot generally rest in the same
 >niches all their lives; and they can only seldom rest in them, so to
