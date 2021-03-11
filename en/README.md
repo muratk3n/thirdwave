@@ -6,102 +6,99 @@ Pinned Tweets
 
 ---
 
-Go for it!!
-
-"Capsule gets $1.5M to build ‘super simple’ decentralized social media
-[on Dfinity’s decentralized network]"
-
-[Link](https://techcrunch.com/2021/03/09/capsule-gets-1-5m-to-build-super-simple-decentralized-social-media/)
+CNBC: "India is turning to 'green hydrogen' in a bid to decarbonize its economy"
 
 ---
 
-"@rcbregman
+Lula comes out swinging. Excellent.
 
-... The child tax credit in the Rescue Plan is a basic income for
-children. It'll cut child poverty in half. IN HALF!!! The word
-'historic' is overused but this seems very very historic to me"
+🤣 🤣 🤣 
 
----
-
-Lula is free for politics. Excellent news. The Left needs good
-leadership.
+‘Brazil has no government’: Lula tears into Bolsonaro in comeback speech
 
 ---
 
-*Private Government*, good book. Some excerpts [here](2021/03/private-government.md).
+"Brazil Overtakes U.S. in Daily Covid-19 Deaths"
 
 ---
 
-Marx missed that same point about the Second Wave; thinking
-[too highly](2011/03/integrators.md#marx) of the masses.
+"@foxjust
+
+2020 was the first year since 1947 in which more than 1% of the
+U.S. population died"
+
 
 ---
 
-People power.. Sure..
-
-Remember 2006 TIME [Person of the Year](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)?
-
-And what happened since? Think grasshopper.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bringing down emissions from buildings to zero might be the hardest nut to crack for the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a>.<br>The PACE project promotes Fuel Cell micro-Cogeneration to reduce emissions from buildings.<a href="https://t.co/8ptgpsNUHN">https://t.co/8ptgpsNUHN</a> <a href="https://twitter.com/hashtag/FuelCells4Homes?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells4Homes</a> <a href="https://t.co/aAo9eP3j5z">pic.twitter.com/aAo9eP3j5z</a></p>&mdash; PACE (@PACEmCHP) <a href="https://twitter.com/PACEmCHP/status/1369679451903131655?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Forbes: "Fossil Fuel Air Pollution Kills Twice As Many As Previously
-Thought"
+"With heating and cooling in buildings responsible for 40% of energy
+consumption and 36% of emissions, the importance of its
+decarbonisation is paramount. As the current annual renovation rate is
+below 1% and more than 70% of heating in buildings is supplied by old
+and inefficient boilers, buildings are unanimously recognised as a
+hard-to-decarbonise sector...
+
+Direct electrification with heat pumps is not always economically
+feasible in every building and will double the peak demand for
+electricity in winter in most European countries... The town of
+Hassfurt in Germany demonstrates how a cogeneration unit running on
+hydrogen can be at the centre of the city’s long-term decarbonisation
+strategy"
+
+[Link](https://www.euractiv.com/section/energy-environment/opinion/decarbonising-a-diverse-european-building-stock/)
 
 ---
 
-"Indian-Irish partnership to produce green hydrogen... Ireland’s Fusion
-Fuel Green has agreed to set up a demonstrator plant in the Indian
-state of Tamil Nadu"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> and <a href="https://twitter.com/Universal_H2?ref_src=twsrc%5Etfw">@Universal_H2</a> have strengthened their industry relationship as part of an effort to make <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> cost-competitive with jet fuel by 2025.<a href="https://t.co/c0Niy2EKl6">https://t.co/c0Niy2EKl6</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1369646105907060736?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Actually Dem div indirectly caused Rep division later.  If everyone
-stuck to one side, -ism, none of that wld take place. Had to happen
-this way I guess..
+The Pacific has its own royals now..  Canada can dump UK ones and form
+its own CommonWealth (CA, WA, Canada, whats the difference). Add the
+US, u have modern pre-modern/empire for the Pacific. H&M can be Duke
+and Duchess of O.C.
 
 ---
 
-Divisions Trump trig'd at the Reps remind me of Clinton triangulation
-with the Dems. At the time Reps probably enjoyed that, seeing the
-in-fighting on the other side (until BC started encroaching on their
-shit, then they panicked). What goes around, comes around, a kind of
-division hit them too in the end.
+I wonder if TV anchors get a mood warning before they start reading
+the next news item. Like "sad mood", "happy mood" etc. Stuff flows
+fast and u cld roll into a sad story smiling like a jackass. Warning
+could help here.
 
 ---
 
-"@maxwellstrachan
-
-journalism is a public service playing by the rules of private
-enterprise—a contract that appears increasingly untenable"
+1 cld say 2008-16 admin was diverted too, bcz of ISIS.
 
 ---
 
-Bloodbath at HuffPo. Frankly hadnt read their stuff for a while..
-
-"@emmaladyrose
-
-Today I got laid off at HuffPost, after a decade of work I am so
-incredibly proud of. I am one of 47"
+US was "diverted" away from Info-Pacific [20 yrs
+ago](2019/11/americas-secret-war-friedman.md#china).  I do not think
+the same situation will repeat itself this time.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1 year, 1.100k validated tickets, and 419k km later, our green <a href="https://twitter.com/hashtag/ExquiCity?src=hash&amp;ref_src=twsrc%5Etfw">#ExquiCity</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses for <a href="https://twitter.com/Ville_Pau?ref_src=twsrc%5Etfw">@ville_pau</a> have increased local use of public transit with 30%. Happy birthday from <a href="https://twitter.com/hashtag/teamvanhool?src=hash&amp;ref_src=twsrc%5Etfw">#teamvanhool</a>!🎂 More info on our green ExquiCity range: <a href="https://t.co/IzEByOfGN4">https://t.co/IzEByOfGN4</a> 🌱</p>&mdash; Van Hool (@vanhool) <a href="https://twitter.com/vanhool/status/1369302148228472837?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@screenqueenz
+
+Elizabeth Banks to direct bear-centric thriller COCAINE BEAR for
+Universal. The film is based on true events from 1985; a 175-pound
+bear accidentally consumed over 70 ponds of cocaine that was dropped
+it from a plane by a smuggler"
 
 ---
 
-She just kept betting on tech, TSLA etc.  People thought this was some
-kind of genius but all they did was betting on tech when it happened
-to be doing well, when it was time for tech (growth stocks). When the
-situation **turned** they could not see it coming. Their playbook had
-one page. They were like that broken clock showing the right time once
-a day.
+MLK: "If a man hasn't found something he will die for, he isn't fit to
+live"
 
 ---
 
-🤣 🤣 🤣
+<img width="340" src="https://pbs.twimg.com/media/EwIHGadXYAAKAgr?format=jpg&name=medium"/>
 
-"Why once hot ETK Ark Innovation ETF Katie Wood lost all her profits in 2021"
+---
+
+AlJazeera: "Myanmar’s military on ‘killing spree’ against protesters: Amnesty"
 
 ---
 
