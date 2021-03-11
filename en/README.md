@@ -72,9 +72,8 @@ could help here.
 
 ---
 
-US was "diverted" away from Info-Pacific [20 yrs
-ago](2019/11/americas-secret-war-friedman.md#china).  I do not think
-the same situation will repeat itself this time.
+US was "diverted" away from Info-Pacific [20 yrs ago](2019/11/americas-secret-war-friedman.md#china).
+I do not think the same situation will repeat itself this time.
 
 ---
 
