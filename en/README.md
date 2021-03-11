@@ -10,7 +10,7 @@ CNBC: "India is turning to 'green hydrogen' in a bid to decarbonize its economy"
 
 ---
 
-:) Lula comes out swinging. Excellent.
+Lula comes out swinging. :) 
 
 "‘Brazil has no government’: Lula tears into Bolsonaro in comeback speech"
 
