@@ -75,7 +75,7 @@ U cld say 2008-16 admin was also diverted, bcz of ISIS.
 ---
 
 US was "diverted" away from Info-Pacific [20 yrs ago](2019/11/americas-secret-war-friedman.md#china).
-They are likely more intent engage this time around.
+They are likely more intent to engage this time around.
 
 ---
 
