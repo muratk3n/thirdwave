@@ -25,7 +25,7 @@ GDP per capita, them vs others (data from World Bank, [GDP](https://en.wikipedia
 ```python
 import pandas as pd
 df = pd.read_csv('gdpw.csv')
-df['gdpw'] = df.gdp * df.population
+df['gdpw'] = df.gdpcap * df.population
 anc = ['China','Italy','Turkey','Greece','Egypt','Iran']
 dfc1 = df[df.country.isin(anc)]
 dfc2 = df[df.country.isin(anc) == False ]
