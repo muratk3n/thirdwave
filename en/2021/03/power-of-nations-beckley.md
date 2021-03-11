@@ -73,7 +73,7 @@ point, but subsequent research supports his intuition: as noted,
 scholars already believe that GDP represents the gross size of a
 state’s economic and military output, and there is a large literature
 showing that GDP per capita serves as a reliable proxy for economic
-and military efaciency....
+and military efficiency....
 
 To create a rough proxy for net resources, I follow Bairoch’s advice
 by simply multiplying GDP by GDP per capita, creating an index that
