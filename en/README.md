@@ -18,9 +18,13 @@ Yoshinori Sunahara - Summer \#music
 
 ---
 
+Thucydides's Trap? Bih who dat Thucydides? Speaka English.
+
 ---
 
-Thucydides's Trap? Bih who dat Thucydides? Speaka English.
+They are at 1/10th (which they got to with Western help), does it make
+sense that ratio go up to 1/2th? It'd seem not. The obscene help so
+far creates weird dynamics, even movies beome bizarre. 
 
 ---
 
