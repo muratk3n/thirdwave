@@ -22,9 +22,10 @@ Thucydides's Trap? Bih who dat Thucydides? Speaka English.
 
 ---
 
-They are at 1/10th (which they got to with Western help), does it make
-sense that ratio go up to 1/2th? It'd seem not. The obscene help so
-far creates weird dynamics, even movies beome bizarre. 
+They are at 1/10th (which they got to with Western help, lets make
+this clear), does it make sense to help them so the ratio go up to
+1/3th, or 1/2th? Such obscene help creates weird dynamics, even movies
+beome bizarre.
 
 ---
 
