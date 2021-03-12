@@ -84,6 +84,10 @@ and CINC. By penalizing population, however, it provides a better
 sense of a nation’s net resources than GDP, CINC, or other gross
 indicators alone...
 
+UK and China
+
+<a name='ukch'/>
+
 By standard indicators, China looked like a superpower in the
 nineteenth and early twentieth centuries. It had the largest GDP and
 military in the world until the 1890s, and the second largest GDP and
@@ -107,8 +111,6 @@ never overtook China in terms of GDP. Moreover, CINC suggests,
 nonsensically, that China and Britain were equally matched in the
 mid-nineteenth century and that China surpassed Britain in power in
 1907, five years before the Chinese government collapsed.
-
-<a name='chinajapan'/>
 
 China and Japan
 

@@ -29,6 +29,10 @@ CH otherwise can create problems. Spreading nondemocracy is not a-ok.
 
 ---
 
+Another ex of CINC problems [applied](2021/03/power-of-nations-beckley.md#ukch) to UK/CH.
+
+---
+
 Beckley says his method has 8 percentage points more success in
 predicting results of conflicts, wars (who the winner will be) than CINC.
 
