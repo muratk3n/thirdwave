@@ -50,11 +50,11 @@ df = pd.read_csv('../../2020/07/gdpw.csv')
 df = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
 df['gdp'] = df.gdpcap * df.population
 df['new index'] = (df.gdpcap * df.gdp)/1e14
-print (df[['country','new index']])
+print (df[['country','mbindex']])
 ```
 
 ```text
-          country     new index
+          country     mbindex
 13  United States  12898.099255
 51         Greece     43.463713
 85          China   1363.010190
