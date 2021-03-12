@@ -66,20 +66,19 @@ tegros are drowning down there in the list, next to, like, Greece.
 
 ---
 
-Instead MB's method is GDP x GDP Per Capita. This punishes population
-size (GDP Per Capita is GDP divided by population), bcz the more
-people you have the more you are spending as well (especially for
+
+MB doesnt like the widely used military capability index CINC either.
+The famous Correlates of War project uses it, but I can see his point;
+like the GDP, it's a gross measure, does not account for costs..
+
+His alternative method is GDP x GDP Per Capita. This punishes
+population size (GDP Per Capita is GDP divided by population), bcz the
+more people you have the more you are spending as well (especially for
 nondemocracies they spend on internal security). On the upside GDP Per
 Capita rewards innovation, it's a sign of efficiency, being able to
 produce more with less means there is innovation in the economy. The
 gross obviously has to enter the picture, at some level, that's why it
 gets multiplied.
-
----
-
-MB doesnt like the widely used military capability index CINC either.
-The famous Correlates of War project uses it, but I can see his point;
-like the GDP, it's a gross measure, does not account for costs..
 
 ---
 
