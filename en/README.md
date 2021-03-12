@@ -83,10 +83,9 @@ gets multiplied.
 
 MB doesnt like the widely used military capability index CINC either.
 The famous Correlates of War project uses it, but I can see his point;
-like the GDP, it's a gross measure, does not account for costs..
-
-CINC is a combined measure of iron and steel production, energy
-consumption, military expenditure, personel, etc.
+like the GDP, it's a gross measure, does not account for costs..(CINC
+is a combined measure of iron and steel production, energy
+consumption, military expenditure, personel, etc.)
 
 ---
 
