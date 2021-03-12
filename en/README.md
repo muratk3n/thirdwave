@@ -47,10 +47,10 @@ Let's use his method on a few countries,
 ```python
 import pandas as pd
 df = pd.read_csv('../../2020/07/gdpw.csv')
+df = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
 df['gdp'] = df.gdpcap * df.population
 df['new index'] = (df.gdpcap * df.gdp)/1e14
-df1 = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
-print (df1[['country','new index']])
+print (df[['country','new index']])
 ```
 
 ```text
