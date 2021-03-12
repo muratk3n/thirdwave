@@ -66,10 +66,6 @@ tegros are drowning down there in the list, next to, like, Greece.
 
 ---
 
-Hah. By CINC China is at the top. You know that shit aint true.
-
----
-
 Instead MB's method is GDP x GDP Per Capita. This punishes population
 size (GDP Per Capita is GDP divided by population), bcz the more
 people you have the more you are spending as well (especially for
@@ -83,9 +79,7 @@ gets multiplied.
 
 MB doesnt like the widely used military capability index CINC either.
 The famous Correlates of War project uses it, but I can see his point;
-like the GDP, it's a gross measure, does not account for costs..(CINC
-is a combined measure of iron and steel production, energy
-consumption, military expenditure, personel, etc.)
+like the GDP, it's a gross measure, does not account for costs..
 
 ---
 
@@ -117,6 +111,16 @@ resources devoted to policing and protection drain wealth rather than
 create it"
 
 [Link](2021/03/power-of-nations-beckley.md)
+
+---
+
+Hah. By CINC China is at the top. You know that shit aint true.
+
+---
+
+How to compare the power of countries? Some use CINC, a combined
+measure of iron and steel production, energy consumption, military
+expenditure, personel, etc.
 
 ---
 
