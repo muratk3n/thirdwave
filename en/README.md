@@ -6,95 +6,110 @@ Pinned Tweets
 
 ---
 
-CNBC: "India is turning to 'green hydrogen' in a bid to decarbonize its economy"
+A certain generation of socsci researchers are just way into f-ing
+Stata. And I am into reverse-engineering their .. wonderful code
+.. and porting it into 🐍
 
 ---
 
-Lula comes out swinging. :) 
+Yoshinori Sunahara - Summer \#music
 
-"‘Brazil has no government’: Lula tears into Bolsonaro in comeback speech"
-
----
-
-"Brazil Overtakes U.S. in Daily Covid-19 Deaths"
+[Link](https://youtu.be/GrPQ_fzvW7Q)
 
 ---
 
-"@foxjust
+---
 
-2020 was the first year since 1947 in which more than 1% of the
-U.S. population died"
-
+Thucydides's Trap? Bih who dat Thucydides? Speaka English.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bringing down emissions from buildings to zero might be the hardest nut to crack for the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a>.<br>The PACE project promotes Fuel Cell micro-Cogeneration to reduce emissions from buildings.<a href="https://t.co/8ptgpsNUHN">https://t.co/8ptgpsNUHN</a> <a href="https://twitter.com/hashtag/FuelCells4Homes?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells4Homes</a> <a href="https://t.co/aAo9eP3j5z">pic.twitter.com/aAo9eP3j5z</a></p>&mdash; PACE (@PACEmCHP) <a href="https://twitter.com/PACEmCHP/status/1369679451903131655?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+China looks like a paper tiger. But countries -and themselves- seeing
+CH otherwise can create problems. Spreading nondemocracy is not a-ok.
 
 ---
 
-"With heating and cooling in buildings responsible for 40% of energy
-consumption and 36% of emissions, the importance of its
-decarbonisation is paramount. As the current annual renovation rate is
-below 1% and more than 70% of heating in buildings is supplied by old
-and inefficient boilers, buildings are unanimously recognised as a
-hard-to-decarbonise sector...
+Beckley says his method has 8 percentage points more success in
+predicting results of conflicts, wars (who the winner will be) than CINC.
 
-Direct electrification with heat pumps is not always economically
-feasible in every building and will double the peak demand for
-electricity in winter in most European countries... The town of
-Hassfurt in Germany demonstrates how a cogeneration unit running on
-hydrogen can be at the centre of the city’s long-term decarbonisation
-strategy"
+Let's use his method on a few countries,
 
-[Link](https://www.euractiv.com/section/energy-environment/opinion/decarbonising-a-diverse-european-building-stock/)
+```python
+import pandas as pd
+df = pd.read_csv('../../2020/07/gdpw.csv')
+df['gdp'] = df.gdpcap * df.population
+df['new index'] = (df.gdpcap * df.gdp)/1e14
+df1 = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
+print (df1[['country','new index']])
+```
 
----
+```text
+          country     new index
+13  United States  12898.099255
+51         Greece     43.463713
+85          China   1363.010190
+87         Turkey     68.576017
+```
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PlugPowerInc?ref_src=twsrc%5Etfw">@PlugPowerInc</a> and <a href="https://twitter.com/Universal_H2?ref_src=twsrc%5Etfw">@Universal_H2</a> have strengthened their industry relationship as part of an effort to make <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> cost-competitive with jet fuel by 2025.<a href="https://t.co/c0Niy2EKl6">https://t.co/c0Niy2EKl6</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1369646105907060736?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-The Pacific has its own royals now..  Canada can dump UK ones and form
-its own CommonWealth (Calif, WA, Canada, whats the difference). Add
-the US as outside ally, Oz, NZ as members u have an empire for the
-Pacific. H&M can be Duke and Duchess of O.C.
+This is so sad... US has 10 times more pow than the next guy. My
+tegros are drowning down there in the list, next to, like, Greece.
 
 ---
 
-Do TV anchors get a mood warning before they start reading the next
-news item? Like, "sad mood", "happy mood" etc. Stuff flows fast and u
-cld roll into a sad story smiling like a jackass.. Warning could help.
+Hah. By CINC China is at the top. You know that shit aint true.
 
 ---
 
-U cld say 2008-16 admin was also diverted, bcz of ISIS.
+Instead MB's method is GDP x GDP Per Capita. This punishes population
+size (GDP Per Capita is GDP divided by population), bcz the more
+people you have the more you are spending as well (especially for
+nondemocracies they spend on internal security). On the upside GDP Per
+Capita rewards innovation, it's a sign of efficiency, being able to
+produce more with less means there is innovation in the economy. The
+gross obviously has to enter the picture, at some level, that's why it
+gets multiplied.
 
 ---
 
-US was "diverted" away from Indo-Pacific [20 yrs ago](2019/11/americas-secret-war-friedman.md#china).
-They are likely more intent to engage this time around.
+MB doesnt like the widely used military capability index CINC either.
+The famous Correlates of War project uses it, but I can see his point;
+like the GDP, it's a gross measure, does not account for costs..
+
+CINC is a combined measure of iron and steel production, energy
+consumption, military expenditure, personel, etc.
 
 ---
 
-"@screenqueenz
+M. Beckley: "Despite the widespread use of GDP, however, few people
+know what it actually measures or recognize that it does not deduct
+costs.  To begin, GDP counts production costs (inputs and
+externalities) as output.  Spending money always increases GDP, even
+if the funds are wasted on boondoggles; in fact, the most common
+method of calculating GDP is called the 'expenditure method' and
+involves simply adding up all of the spending done by the government,
+consumers, and businesses in a country in a given time period. Thus,
+hiring workers always increases GDP, even if they spend all day
+getting drunk in the break room. Boosting production always increases
+GDP, even if the goods rot on the shelf and tons of toxic waste are
+released in the process. In fact, a country can increase its GDP by
+dumping toxic waste into the streets and then spending billions of
+dollars to clean it up.  GDP also does not deduct welfare costs. Money
+spent feeding people is counted the same as profits earned selling
+supercomputers on world markets.
 
-Elizabeth Banks to direct bear-centric thriller COCAINE BEAR for
-Universal. The film is based on true events from 1985; a 175-pound
-bear accidentally consumed over 70 ponds of cocaine that was dropped
-it from a plane by a smuggler"
+Consequently, populous countries generate considerable economic
+activity simply by existing. Even a nation caught in a Malthusian
+hell, in which all output is immediately devoured, will post a large
+GDP if it has a big population.  Finally, GDP counts security spending
+as economic output. GDP does not distinguish between guns and
+butter. It counts a 100 million dollar gulag the same as a $100 million
+innovation center. Hence, GDP fails to account fully for the economic
+costs of domestic instability and international conflict. In fact, GDP
+usually rises when a country mobilizes for war... In general, however,
+resources devoted to policing and protection drain wealth rather than
+create it"
 
----
-
-MLK: "If a man hasn't found something he will die for, he isn't fit to
-live"
-
----
-
-<img width="340" src="https://pbs.twimg.com/media/EwIHGadXYAAKAgr?format=jpg&name=medium"/>
-
----
-
-AlJazeera: "Myanmar’s military on ‘killing spree’ against protesters: Amnesty"
+[Link](2021/03/power-of-nations-beckley.md)
 
 ---
 
