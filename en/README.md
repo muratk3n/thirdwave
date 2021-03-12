@@ -93,9 +93,7 @@ getting drunk in the break room. Boosting production always increases
 GDP, even if the goods rot on the shelf and tons of toxic waste are
 released in the process. In fact, a country can increase its GDP by
 dumping toxic waste into the streets and then spending billions of
-dollars to clean it up.  GDP also does not deduct welfare costs. Money
-spent feeding people is counted the same as profits earned selling
-supercomputers on world markets.
+dollars to clean it up...
 
 Consequently, populous countries generate considerable economic
 activity simply by existing. Even a nation caught in a Malthusian
