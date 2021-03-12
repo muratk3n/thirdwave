@@ -109,6 +109,8 @@ At 500 bar, 33 kg H2 /m3.
 
 At 350 bars density is 28 kg/m3.
 
+At 300 bars density is 20 kg/m3.
+
 Liquid hydrogen has a density of 8 MJ/L.
 
 Personal Consumption
@@ -175,7 +177,9 @@ crude output's equiv energy,
 
 Production is 9.01 million barrels / day (Nov 2020).
 
-1 Barrel of oil is 136 kg. Energy density of crude oil 158.4 Kwh/kg.
+1 Barrel of oil is 136 kg. 1 barrel is 0.16 m3. Energy density of
+crude oil 158.4 Kwh/kg. 1 million barrels of oil can produce half a
+million barrels of gasoline. Gasoline energy density is 12.88 kwh/kg.
 
 Sun energy falling on Earth 1 kW/m2, 24 KWh/m2 in a day.
 

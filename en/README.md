@@ -82,6 +82,8 @@ gets multiplied.
 
 ---
 
+On whether to use GDP for nation-power comparison
+
 M. Beckley: "Despite the widespread use of GDP, however, few people
 know what it actually measures or recognize that it does not deduct
 costs.  To begin, GDP counts production costs (inputs and
