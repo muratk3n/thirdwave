@@ -40,7 +40,7 @@ Another ex of CINC problems [applied](2021/03/power-of-nations-beckley.md#ukch) 
 ---
 
 Beckley says his method has 8 percentage points more success in
-predicting results of conflicts, wars (who the winner will be) than CINC.
+predicting results of conflicts, wars than CINC.
 
 Let's use his method on a few countries,
 
