@@ -25,7 +25,8 @@ Thucydides's Trap? Bih who dat Thucydides? Speaka English.
 ---
 
 China looks like a paper tiger. But countries -and themselves- seeing
-CH otherwise can create problems. Spreading nondemocracy is not a-ok.
+CH otherwise can create problems. Spreading authoritarinism is not
+a-ok.
 
 ---
 
