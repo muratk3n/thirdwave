@@ -71,5 +71,5 @@ print ('%0.2f' % results.rsquared)
 ```
 
 As we see the $R^2$ of the regression that predicts war outcome from
-Beckley's measure is at 0.26 (highest is 1), is much higher than CINC
-or GDP.
+the new measure is at 0.26 (highest is 1), much higher than CINC or
+GDP.
