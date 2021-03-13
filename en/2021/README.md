@@ -20,6 +20,8 @@
 
 [Goods, Materials, Growth](03/goods-materials-growth-hickel.md)
 
+[The Power of Nations Code](03/power-of-nations-beckley-code.md)
+
 [The Power of Nations](03/power-of-nations-beckley.md)
 
 [Private Government](03/private-government.md)
