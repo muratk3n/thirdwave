@@ -12,9 +12,9 @@ repository.
 
 My zipped version of the data is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
 
-In order to run the regression, MB creates fractions of each measure
-in question, to get a value between 0 and 1 that can 'decide' the
-outcome of the war, that is also code in `win` as 1 or 0 meaning
+In order to run the regression, MB creates fractions of each measure,
+to compare two sides of the measure, through a value between 0 and 1.
+These fractions can now 'decide' the outcome of the war, `win` 1 or 0,
 whether the initiator (side a) won the conflict or not. The fractions
 are in the form of,
 
@@ -22,7 +22,7 @@ $$
 y_{frac} = \frac{y_A}{y_A + y_B}
 $$
 
-Same approach is used for $CINC_{frac}$, and $GDP_{frac}$. 
+Same approach is used for CINC and GDP.
 
 ```python
 import pandas as pd
@@ -69,6 +69,4 @@ print ('%0.2f' % results.rsquared)
 
 As we see the $R^2$ of the regression that predicts war outcome from
 Beckley's measure is at 0.26 (highest is 1), is much higher than CINC
-or GDP used on it own.
-
-
+or GDP.
