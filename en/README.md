@@ -97,7 +97,7 @@ emission fuel with zero emission! Sign me up!
 
 ---
 
-That's a copressed H2 transport ship with 2000 tones of capacity.
+That's a compressed H2 transport ship with 2000 tones of capacity.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week we presented to the <a href="https://twitter.com/H2MobilityAus?ref_src=twsrc%5Etfw">@H2MobilityAus</a> our C-H2 Scoping Study findings. Fore more details you can read here <a href="https://t.co/cFCPV1ZUdT">https://t.co/cFCPV1ZUdT</a> and also refer to our investor page for the full report at <a href="https://t.co/8sbUXWjJ0w">https://t.co/8sbUXWjJ0w</a> <a href="https://t.co/AtVkTXVFLz">pic.twitter.com/AtVkTXVFLz</a></p>&mdash; Global Energy Ventures (@GEVmarineCH2) <a href="https://twitter.com/GEVmarineCH2/status/1369955204431450114?ref_src=twsrc%5Etfw">March 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
