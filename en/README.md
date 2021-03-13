@@ -42,9 +42,9 @@ a changing strategy on the U.S.-Mexico border"
 ---
 
 Khan is like boomer Trek, man.. and boomers are busy w other stuff,
-checking returns of their real estate, so u gotta make some other
-stuff. Little later ST material, or if you want to go "dark and edgy"
-try Firefly approach, and stay away from cuck.
+checking returns of their real estate, so lets see some other
+stories. Later ST material, or if you want to go "dark and edgy" a
+Firefly approach, and stay away from cuck.
 
 ---
 
