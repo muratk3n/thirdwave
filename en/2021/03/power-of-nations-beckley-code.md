@@ -1,15 +1,28 @@
 # The Power of Nations Code
 
-We can check if Beckley's GDP x GDP Per Capita can predict war outcomes.
+We can check if Michale Beckley's GDP x GDP Per Capita can predict war outcomes.
 
 The data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
 `reiterwars.tab` has wars from past few centuries, `power1.tab`
 carries `GDP`, `CINC`, population and Beckley's measure `y`. We could
 reconstruct it from `GDP` and `tpop` which I did to check, the results
-are the same.
+are the same. I based my code on `wars do.do` State code in the same
+repository.
 
-My zipped version is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
+My zipped version of the data is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
+
+In order to run the regression, MB creates fractions of each measure
+in question, to get a value between 0 and 1 that can 'decide' the
+outcome of the war, that is also code in `win` as 1 or 0 meaning
+whether the initiator (side a) won the conflict or not. The fractions
+are in the form of,
+
+$$
+y_{frac} = \frac{y_A}{y_A + y_B}
+$$
+
+Same approach is used for $CINC_{frac}$, and $GDP_{frac}$. 
 
 ```python
 import pandas as pd
