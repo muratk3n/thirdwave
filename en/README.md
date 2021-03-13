@@ -61,9 +61,10 @@ advantage, but fine, we take it from there, every1 competes on other fronts.
 
 ---
 
-H2 energy density 39.7 kWh. Typical tanker carries 400,000 barrels, 1
-barrel oil gives 1/2 barrel gasoline, barrel 0.158 m3, gasoline is
-748.90002 kg/m3, has 12.88 kwh/kg energy density,
+Comparing energy delivery in kwh to crude oil. H2 energy density 39.7
+kWh. Typical tanker carries 400,000 barrels, 1 barrel oil gives 1/2
+barrel gasoline, barrel 0.158 m3, gasoline is 748.90002 kg/m3, has
+12.88 kwh/kg energy density,
 
 
 ```python
@@ -84,6 +85,8 @@ itself; carrying zero emission fuel with zero emission! Sign me up!
 
 ---
 
+That's a copressed H2 transport ship with 2000 tones of capacity.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week we presented to the <a href="https://twitter.com/H2MobilityAus?ref_src=twsrc%5Etfw">@H2MobilityAus</a> our C-H2 Scoping Study findings. Fore more details you can read here <a href="https://t.co/cFCPV1ZUdT">https://t.co/cFCPV1ZUdT</a> and also refer to our investor page for the full report at <a href="https://t.co/8sbUXWjJ0w">https://t.co/8sbUXWjJ0w</a> <a href="https://t.co/AtVkTXVFLz">pic.twitter.com/AtVkTXVFLz</a></p>&mdash; Global Energy Ventures (@GEVmarineCH2) <a href="https://twitter.com/GEVmarineCH2/status/1369955204431450114?ref_src=twsrc%5Etfw">March 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -91,8 +94,7 @@ itself; carrying zero emission fuel with zero emission! Sign me up!
 Except for special ed and early students, there is absolutely no need
 for a teacher to be present in the old sense of the word.. It is even
 downright harmful that a random average jagoff is teaching kids
-algebra, calculus.  US is all about efficiency, innovation, they need
-to get the ball rolling.
+algebra, calculus. 
 
 ---
 
@@ -101,7 +103,7 @@ Google is all about scale, so probably not.
 
 ---
 
-Yes, good. Do this instead of that quantum bullshit.
+Yes, great. Do this instead of that quantum bullshit.
 
 "How Google's New Career Certificates Could Disrupt the College Degree"
 
@@ -109,11 +111,11 @@ Yes, good. Do this instead of that quantum bullshit.
 
 ---
 
-"Dreams of Massachusettsification"
+Dreams of Massachusettsification
 
 ---
 
-🤣
+Nice
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes I feel like a don’t have a paakd caa</p>&mdash; Cry Me A Rivard (@rivardless) <a href="https://twitter.com/rivardless/status/1370219618418094085?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
