@@ -88,9 +88,10 @@ print ('%0.2f kwh' % (400000*0.5*0.158*748.9*12.88*0.85))
 259087047.52 kwh
 ```
 
-Hey the tech will improve I am sure.. this isnt bad for first. Another
-good news is the proposed C-H2 ship uses its own fuel to propel
-itself; carrying zero emission fuel with zero emission! Sign me up!
+Hey the tech will improve I am sure.. this isnt bad for first. Lets
+also not forget ammonia as an H2 carrier. Another good news is the
+proposed C-H2 ship uses its own fuel to propel itself; carrying zero
+emission fuel with zero emission! Sign me up!
 
 [PDF](https://gev.com/wp-content/uploads/2021/03/gev-march-2021-ahc-presentation.pdf)
 
