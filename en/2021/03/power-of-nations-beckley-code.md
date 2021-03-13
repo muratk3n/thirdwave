@@ -68,8 +68,8 @@ print ('%0.2f' % results.rsquared)
 0.26
 ```
 
-$R^2$ of the regression that predicts war outcome with the new measure
-is 0.26 (highest is 1), higher than CINC or GDP.
+$R^2$ of the regression that predicts war outcome using the new
+measure is 0.26 (highest score being 1), better than CINC or GDP.
 
-The raw data used in the regression is [here](beckley-wars.csv).
+Preprocessed data for the regression is [here](beckley-wars.csv).
 
