@@ -56,7 +56,7 @@ old now. No significance for me, at the level of say, Borg.
 
 Beckley, Unrivaled: "China has large reserves of oil and natural gas
 encased in shale basins, but China has not been able to tap them and,
-according to some analyses, may never do so. 143 One reason is that
+according to some analyses, may never do so. One reason is that
 China’s shale deposits were left behind by prehistoric lakes and,
 consequently, have rock layers that are more ductile and less amenable
 to hydraulic fracturing than the brittle marine shales in North
