@@ -81,11 +81,8 @@ from sklearn.metrics import classification_report,  confusion_matrix
 
 df = pd.read_csv('beckley-wars.csv')
 df = df.dropna()
-
-Y_test = df.win
-
-predicted = df.yfrac > 0.6
-report = classification_report(Y_test, predicted)
+predicted = df.yfrac > 0.5
+report = classification_report(df.win, predicted)
 print(report)
 print (confusion_matrix(df.win, predicted))
 ```
@@ -93,15 +90,15 @@ print (confusion_matrix(df.win, predicted))
 ```text
               precision    recall  f1-score   support
 
-         0.0       0.57      0.64      0.61        42
-         1.0       0.84      0.80      0.82        99
+         0.0       0.60      0.60      0.60        42
+         1.0       0.83      0.83      0.83        99
 
-    accuracy                           0.75       141
-   macro avg       0.71      0.72      0.71       141
-weighted avg       0.76      0.75      0.76       141
+    accuracy                           0.76       141
+   macro avg       0.71      0.71      0.71       141
+weighted avg       0.76      0.76      0.76       141
 
-[[27 15]
- [20 79]]
+[[25 17]
+ [17 82]]
 ```
 
 
