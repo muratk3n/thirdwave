@@ -1,13 +1,11 @@
 # The Power of Nations Code
 
-We can check if Michale Beckley's GDP x GDP Per Capita measure can
-predict war outcomes. Excerpts from the article are
-[here](power-of-nations-beckley.md).
-
-The data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
+Checking if Michale Beckley's GDP x GDP Per Capita measure can predict
+war outcomes. Excerpts from the article are [here](power-of-nations-beckley.md).
+Data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
 `reiterwars.tab` has wars from past few centuries, `power1.tab`
-carries `GDP`, `CINC`, population and MB's measure `y`. We could
+carries `GDP`, `CINC`, total population `tpop` and MB's measure `y`. We could
 reconstruct the measure from `GDP` and `tpop` (which I did to
 double-check, the results are the same). I based my code on `wars do.do`
 Stata code in the same repository.
