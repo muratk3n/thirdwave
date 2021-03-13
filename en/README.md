@@ -106,9 +106,9 @@ That's a compressed H2 transport ship with 2000 tones of capacity.
 
 Except for special ed and early students, there is absolutely no need
 for a teacher to be present in the old sense of the word.. It is even
-downright harmful that a random average jagoff is teaching kids
-algebra, calculus. There can still be schools, but not necessarily
-with teachers in them.
+downright harmful that a random average .. wonderful person is
+teaching kids algebra, calculus. There can still be schools, but not
+necessarily with teachers in them.
 
 ---
 
