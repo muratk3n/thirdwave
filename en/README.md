@@ -54,7 +54,7 @@ old now. No significance for me, at the level of say, Borg.
 
 ---
 
-Beckley, Unrivaled: "China has large reserves of oil and natural gas
+Beckley, *Unrivaled*: "China has large reserves of oil and natural gas
 encased in shale basins, but China has not been able to tap them and,
 according to some analyses, may never do so. One reason is that
 China’s shale deposits were left behind by prehistoric lakes and,
