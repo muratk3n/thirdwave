@@ -92,7 +92,7 @@ Hey the tech will improve I am sure.. this isnt bad for first. Another
 good news is the proposed C-H2 ship uses its own fuel to propel
 itself; carrying zero emission fuel with zero emission! Sign me up!
 
-[Link](https://gev.com/wp-content/uploads/2021/03/gev-march-2021-ahc-presentation.pdf)
+[PDF](https://gev.com/wp-content/uploads/2021/03/gev-march-2021-ahc-presentation.pdf)
 
 ---
 
