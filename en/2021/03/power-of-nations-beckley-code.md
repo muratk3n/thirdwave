@@ -5,10 +5,10 @@ war outcomes. Excerpts from the article are [here](power-of-nations-beckley.md).
 Data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
 `reiterwars.tab` has wars from past few centuries, `power1.tab`
-carries `GDP`, `CINC`, total population `tpop` and MB's measure `y`. We could
-reconstruct the measure from `GDP` and `tpop` (which I did to
-double-check, the results are the same). I based my code on `wars do.do`
-Stata code in the same repository.
+carries `GDP`, `CINC`, total population `tpop` and MB's measure
+`y`. We could reconstruct the measure from `GDP` and `tpop`
+(double-checked, it works, same as `y`). Code was based on Stata `wars
+do.do` code in the same repo.
 
 My zipped version of the data is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
 
