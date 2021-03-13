@@ -74,18 +74,18 @@ advantage, but fine, we take it from there, every1 competes on other fronts.
 
 Comparing energy delivery in kwh to crude oil. H2 energy density 39.7
 kWh. Typical tanker carries 400,000 barrels, 1 barrel oil gives 1/2
-barrel gasoline, barrel 0.158 m3, gasoline is 748.90002 kg/m3, has
-12.88 kwh/kg energy density,
+barrel gasoline, refn proc is 85% eff, barrel 0.158 m3, gasoline is
+748.90002 kg/m3, has 12.88 kwh/kg energy density,
 
 
 ```python
 print ('%0.2f kwh' % (2000*1000*39.7))
-print ('%0.2f kwh' % (400000*0.5*0.158*748.9*12.88))
+print ('%0.2f kwh' % (400000*0.5*0.158*748.9*12.88*0.85))
 ```
 
 ```text
 79400000.00 kwh
-304808291.20 kwh
+259087047.52 kwh
 ```
 
 Hey the tech will improve I am sure.. this isnt bad for first. Another
