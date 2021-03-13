@@ -49,7 +49,7 @@ dfj2 = dfj2[dfj2.annual_outcome != 0]
 dfj2['cincfrac']=dfj2.cinca/(dfj2.cinca+dfj2.cincb)
 dfj2['gdpfrac']=dfj2.gdpa/(dfj2.gdpa+dfj2.gdpb)
 dfj2['yfrac']=dfj2.ya/(dfj2.ya+dfj2.yb)
-dfj2.to_csv('out.csv')
+dfj2.to_csv('beckley-wars.csv')
 ```
 
 ```python
@@ -72,4 +72,41 @@ $R^2$ of the regression that predicts war outcome using the new
 measure is 0.26 (highest score being 1), better than CINC or GDP.
 
 Preprocessed data for the regression is [here](beckley-wars.csv).
+
+Additional Metrics
+
+```python
+import pandas as pd
+from sklearn.metrics import classification_report,  confusion_matrix
+
+df = pd.read_csv('beckley-wars.csv')
+df = df.dropna()
+
+Y_test = df.win
+
+predicted = df.yfrac > 0.6
+report = classification_report(Y_test, predicted)
+print(report)
+print (confusion_matrix(df.win, predicted))
+```
+
+```text
+              precision    recall  f1-score   support
+
+         0.0       0.57      0.64      0.61        42
+         1.0       0.84      0.80      0.82        99
+
+    accuracy                           0.75       141
+   macro avg       0.71      0.72      0.71       141
+weighted avg       0.76      0.75      0.76       141
+
+[[27 15]
+ [20 79]]
+```
+
+
+
+
+
+
 
