@@ -65,10 +65,11 @@ fracking"
 
 ---
 
-Fossil based energy system was advantageout for US.. ample resources
+Fossil based energy system was advantageous for US.. ample resources
 that are easy to get to.. But.. the planet is getting screwed in the
 process. Renewable fuels might give other nations little more
-advantage, but fine, we take it from there, every1 competes on other fronts.
+advantage, but fine, we take it from there, every1 competes on other
+fronts.
 
 ---
 
