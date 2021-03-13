@@ -1,6 +1,8 @@
 # The Power of Nations Code
 
-We can check if Michale Beckley's GDP x GDP Per Capita can predict war outcomes.
+We can check if Michale Beckley's GDP x GDP Per Capita measure can
+predict war outcomes. Excerpts from the article are
+[here](power-of-nations-beckley.md).
 
 The data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
@@ -49,6 +51,7 @@ dfj2 = dfj2[dfj2.annual_outcome != 0]
 dfj2['cincfrac']=dfj2.cinca/(dfj2.cinca+dfj2.cincb)
 dfj2['gdpfrac']=dfj2.gdpa/(dfj2.gdpa+dfj2.gdpb)
 dfj2['yfrac']=dfj2.ya/(dfj2.ya+dfj2.yb)
+dfj2.to_csv('out.csv')
 ```
 
 ```python
