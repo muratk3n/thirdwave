@@ -73,3 +73,8 @@ print ('%0.2f' % results.rsquared)
 As we see the $R^2$ of the regression that predicts war outcome from
 the new measure is at 0.26 (highest is 1), much higher than CINC or
 GDP.
+
+For people who want to eyeball the raw data used in the regression
+with all fraction computations in it, I include it
+[here](beckley-wars.csv).
+
