@@ -60,8 +60,8 @@ according to some analyses, may never do so. One reason is that
 China’s shale deposits were left behind by prehistoric lakes and,
 consequently, have rock layers that are more ductile and less amenable
 to hydraulic fracturing than the brittle marine shales in North
-America. 144 Another reason is that China lacks the water necessary
-for fracking"
+America. Another reason is that China lacks the water necessary for
+fracking"
 
 ---
 
