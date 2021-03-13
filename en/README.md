@@ -74,9 +74,9 @@ fronts.
 ---
 
 Comparing energy delivery in kwh to crude oil. H2 energy density 39.7
-kWh. Typical tanker carries 400,000 barrels, 1 barrel oil gives 1/2
-barrel gasoline, refn proc is 85% eff, barrel 0.158 m3, gasoline is
-748.90002 kg/m3, has 12.88 kwh/kg energy density,
+kWh/kg. Typical tanker carries 400,000 barrels, 1 barrel oil gives 1/2
+barrel gasoline, refn proc is 85% efficient, barrel is 0.158 m3,
+gasoline is 748.90002 kg/m3, has 12.88 kwh/kg energy density,
 
 
 ```python
