@@ -30,7 +30,7 @@ Why is the ECB buying up bonds.. u r mucking up  the signal
 
 ---
 
-It was probably due to the "changed strategy" where Mexico
+The "changed strategy" is the one where Mexico
 [itself](https://www.theatlantic.com/ideas/archive/2019/06/trumps-deal-mexico-could-have-unintended-effects/592828/)
 became a wall.
 
