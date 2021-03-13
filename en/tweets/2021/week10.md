@@ -29,7 +29,8 @@ a-ok.
 
 ---
 
-Another ex of CINC problems [applied](2021/03/power-of-nations-beckley.md#ukch) to UK/CH.
+Another ex of CINC problems [applied](../../2021/03/power-of-nations-beckley.md#ukch)
+to UK/CH.
 
 ---
 
@@ -105,7 +106,7 @@ usually rises when a country mobilizes for war... In general, however,
 resources devoted to policing and protection drain wealth rather than
 create it"
 
-[Link](2021/03/power-of-nations-beckley.md)
+[Link](../../2021/03/power-of-nations-beckley.md)
 
 ---
 
@@ -184,7 +185,7 @@ U cld say 2008-16 admin was also diverted, bcz of ISIS.
 
 ---
 
-US was "diverted" away from Indo-Pacific [20 yrs ago](2019/11/americas-secret-war-friedman.md#china).
+US was "diverted" away from Indo-Pacific [20 yrs ago](../../2019/11/americas-secret-war-friedman.md#china).
 They are likely more intent to engage this time around.
 
 ---
