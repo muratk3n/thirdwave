@@ -1,5 +1,124 @@
 # Week 10
 
+A certain generation of socsci researchers are just way into f-ing
+Stata. And I am into reverse-engineering their .. wonderful code
+.. and porting it into 🐍
+
+---
+
+Yoshinori Sunahara - Summer \#music
+
+[Link](https://youtu.be/GrPQ_fzvW7Q)
+
+---
+
+Thucydides's Trap? Bih who dat Thucydides? Speaka English.
+
+---
+
+They are at 1/10th (which they got to with Western help, lets make
+this clear), does it make sense to help them so the ratio goes up to
+1/3th, or 1/2? Such obscene help creates weird dynamics too, even
+movies become bizarre.
+
+---
+
+China looks like a paper tiger. But countries -and themselves- seeing
+CH otherwise can create problems. Spreading authoritarinism is not
+a-ok.
+
+---
+
+Another ex of CINC problems [applied](2021/03/power-of-nations-beckley.md#ukch) to UK/CH.
+
+---
+
+Beckley says his method has 8 percentage points more success in
+predicting results of conflicts, wars than CINC.
+
+Let's use his method on a few countries,
+
+```python
+import pandas as pd
+df = pd.read_csv('../../2020/07/gdpw.csv')
+df = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
+df['gdp'] = df.gdpcap * df.population
+df['new index'] = (df.gdpcap * df.gdp)/1e14
+print (df[['country','mbindex']])
+```
+
+```text
+          country     mbindex
+13  United States  12898.099255
+51         Greece     43.463713
+85          China   1363.010190
+87         Turkey     68.576017
+```
+
+This is so sad... US has 10 times more pow than the next guy. My
+tegros are drowning down there in the list, next to, like, Greece.
+
+---
+
+
+MB doesnt like the widely used military capability index CINC either.
+The famous Correlates of War project uses it, but I can see his point;
+like the GDP, it's a gross measure, does not account for costs..
+
+His alternative method is GDP x GDP Per Capita. This punishes
+population size (GDP Per Capita is GDP divided by population), bcz the
+more people you have the more you are spending as well (especially for
+nondemocracies they spend on internal security). On the upside GDP Per
+Capita rewards innovation, it's a sign of efficiency, being able to
+produce more with less means there is innovation in the economy. The
+gross obviously has to enter the picture, at some level, that's why it
+gets multiplied.
+
+---
+
+On whether to use GDP for nation-power comparison
+
+M. Beckley: "Despite the widespread use of GDP, however, few people
+know what it actually measures or recognize that it does not deduct
+costs.  To begin, GDP counts production costs (inputs and
+externalities) as output.  Spending money always increases GDP, even
+if the funds are wasted on boondoggles; in fact, the most common
+method of calculating GDP is called the 'expenditure method' and
+involves simply adding up all of the spending done by the government,
+consumers, and businesses in a country in a given time period. Thus,
+hiring workers always increases GDP, even if they spend all day
+getting drunk in the break room. Boosting production always increases
+GDP, even if the goods rot on the shelf and tons of toxic waste are
+released in the process. In fact, a country can increase its GDP by
+dumping toxic waste into the streets and then spending billions of
+dollars to clean it up...
+
+Consequently, populous countries generate considerable economic
+activity simply by existing. Even a nation caught in a Malthusian
+hell, in which all output is immediately devoured, will post a large
+GDP if it has a big population.  Finally, GDP counts security spending
+as economic output. GDP does not distinguish between guns and
+butter. It counts a 100 million dollar gulag the same as a $100 million
+innovation center. Hence, GDP fails to account fully for the economic
+costs of domestic instability and international conflict. In fact, GDP
+usually rises when a country mobilizes for war... In general, however,
+resources devoted to policing and protection drain wealth rather than
+create it"
+
+[Link](2021/03/power-of-nations-beckley.md)
+
+---
+
+Hah. By CINC China is at the top. You know that shit aint true.
+
+---
+
+How to compare the power of countries? Some use CINC, a combined
+measure of iron and steel production, energy consumption, military
+expenditure, personel, etc.
+
+---
+
 CNBC: "India is turning to 'green hydrogen' in a bid to decarbonize its economy"
 
 ---

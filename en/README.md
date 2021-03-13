@@ -6,122 +6,116 @@ Pinned Tweets
 
 ---
 
-A certain generation of socsci researchers are just way into f-ing
-Stata. And I am into reverse-engineering their .. wonderful code
-.. and porting it into 🐍
+Jacobin: "Don’t Be Fooled: Little Marco Rubio Is Still an Enemy of Labor"
 
 ---
 
-Yoshinori Sunahara - Summer \#music
+🤣 
 
-[Link](https://youtu.be/GrPQ_fzvW7Q)
-
----
-
-Thucydides's Trap? Bih who dat Thucydides? Speaka English.
+<iframe width="200" src="https://www.youtube.com/embed/RGZzSd6dURU?start=21&end=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-They are at 1/10th (which they got to with Western help, lets make
-this clear), does it make sense to help them so the ratio goes up to
-1/3th, or 1/2? Such obscene help creates weird dynamics too, even
-movies become bizarre.
+Super Mario calls ECB, he is like "a-bond a-selling a-can a-raise
+a-rates, a-help us". ECB is like 'sure'.
 
 ---
 
-China looks like a paper tiger. But countries -and themselves- seeing
-CH otherwise can create problems. Spreading authoritarinism is not
-a-ok.
+I bet they do it to keep the bond rates low so indebted countries can
+turn over debt.
 
 ---
 
-Another ex of CINC problems [applied](2021/03/power-of-nations-beckley.md#ukch) to UK/CH.
+Why is the ECB buying up bonds.. u r mucking up  the signal
 
 ---
 
-Beckley says his method has 8 percentage points more success in
-predicting results of conflicts, wars than CINC.
+It was probably due to the "changed strategy" where Mexico
+[itself](https://www.theatlantic.com/ideas/archive/2019/06/trumps-deal-mexico-could-have-unintended-effects/592828/)
+became a wall.
 
-Let's use his method on a few countries,
+Dec 2020: "[ICE] arrested and deported fewer people last fiscal year
+than in any other during President Donald Trump's term... a trend the
+agency has linked to restrictions forced by the Covid-19 pandemic and
+a changing strategy on the U.S.-Mexico border"
+
+---
+
+Khan is like boomer Trek, man.. and boomers are busy w other stuff,
+checking returns of their real estate, so u gotta make some other
+stuff. Little later ST material, or if you want to go "dark and edgy"
+try Firefly approach, and stay away from cuck.
+
+---
+
+TBH never really cared for the Khan story of Trek.. Khan is based on a
+Trek OS movie, which I watched many years ago, it was ok.. but sorta
+old now. No significance for me, at the level of say, Borg.
+
+---
+
+Fossil based energy system was advantageout for US.. ample resources
+that are easy to get to.. But.. the planet is getting screwed in the
+process. Renewable fuels might give other nations little more
+advantage, but fine, we take it from there, every1 competes on other fronts.
+
+---
+
+H2 energy density 39.7 kWh. Typical tanker carries 400,000 barrels, 1
+barrel oil gives 1/2 barrel gasoline, barrel 0.158 m3, gasoline is
+748.90002 kg/m3, has 12.88 kwh/kg energy density,
+
 
 ```python
-import pandas as pd
-df = pd.read_csv('../../2020/07/gdpw.csv')
-df = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
-df['gdp'] = df.gdpcap * df.population
-df['new index'] = (df.gdpcap * df.gdp)/1e14
-print (df[['country','mbindex']])
+print ('%0.2f kwh' % (2000*1000*39.7))
+print ('%0.2f kwh' % (400000*0.5*0.158*748.9*12.88))
 ```
 
 ```text
-          country     mbindex
-13  United States  12898.099255
-51         Greece     43.463713
-85          China   1363.010190
-87         Turkey     68.576017
+79400000.00 kwh
+304808291.20 kwh
 ```
 
-This is so sad... US has 10 times more pow than the next guy. My
-tegros are drowning down there in the list, next to, like, Greece.
+Hey the tech will improve I am sure.. this isnt bad for first. Another
+good news is the proposed C-H2 ship uses its own fuel to propel
+itself; carrying zero emission fuel with zero emission! Sign me up!
+
+[Link](https://gev.com/wp-content/uploads/2021/03/gev-march-2021-ahc-presentation.pdf)
 
 ---
 
-
-MB doesnt like the widely used military capability index CINC either.
-The famous Correlates of War project uses it, but I can see his point;
-like the GDP, it's a gross measure, does not account for costs..
-
-His alternative method is GDP x GDP Per Capita. This punishes
-population size (GDP Per Capita is GDP divided by population), bcz the
-more people you have the more you are spending as well (especially for
-nondemocracies they spend on internal security). On the upside GDP Per
-Capita rewards innovation, it's a sign of efficiency, being able to
-produce more with less means there is innovation in the economy. The
-gross obviously has to enter the picture, at some level, that's why it
-gets multiplied.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week we presented to the <a href="https://twitter.com/H2MobilityAus?ref_src=twsrc%5Etfw">@H2MobilityAus</a> our C-H2 Scoping Study findings. Fore more details you can read here <a href="https://t.co/cFCPV1ZUdT">https://t.co/cFCPV1ZUdT</a> and also refer to our investor page for the full report at <a href="https://t.co/8sbUXWjJ0w">https://t.co/8sbUXWjJ0w</a> <a href="https://t.co/AtVkTXVFLz">pic.twitter.com/AtVkTXVFLz</a></p>&mdash; Global Energy Ventures (@GEVmarineCH2) <a href="https://twitter.com/GEVmarineCH2/status/1369955204431450114?ref_src=twsrc%5Etfw">March 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-On whether to use GDP for nation-power comparison
-
-M. Beckley: "Despite the widespread use of GDP, however, few people
-know what it actually measures or recognize that it does not deduct
-costs.  To begin, GDP counts production costs (inputs and
-externalities) as output.  Spending money always increases GDP, even
-if the funds are wasted on boondoggles; in fact, the most common
-method of calculating GDP is called the 'expenditure method' and
-involves simply adding up all of the spending done by the government,
-consumers, and businesses in a country in a given time period. Thus,
-hiring workers always increases GDP, even if they spend all day
-getting drunk in the break room. Boosting production always increases
-GDP, even if the goods rot on the shelf and tons of toxic waste are
-released in the process. In fact, a country can increase its GDP by
-dumping toxic waste into the streets and then spending billions of
-dollars to clean it up...
-
-Consequently, populous countries generate considerable economic
-activity simply by existing. Even a nation caught in a Malthusian
-hell, in which all output is immediately devoured, will post a large
-GDP if it has a big population.  Finally, GDP counts security spending
-as economic output. GDP does not distinguish between guns and
-butter. It counts a 100 million dollar gulag the same as a $100 million
-innovation center. Hence, GDP fails to account fully for the economic
-costs of domestic instability and international conflict. In fact, GDP
-usually rises when a country mobilizes for war... In general, however,
-resources devoted to policing and protection drain wealth rather than
-create it"
-
-[Link](2021/03/power-of-nations-beckley.md)
+Except for special ed and early students, there is absolutely no need
+for a teacher to be present in the old sense of the word.. It is even
+downright harmful that a random average jagoff is teaching kids
+algebra, calculus.  US is all about efficiency, innovation, they need
+to get the ball rolling.
 
 ---
 
-Hah. By CINC China is at the top. You know that shit aint true.
+I hope delivery of the lectures do not require a "live teacher". But
+Google is all about scale, so probably not.
 
 ---
 
-How to compare the power of countries? Some use CINC, a combined
-measure of iron and steel production, energy consumption, military
-expenditure, personel, etc.
+Yes, good. Do this instead of that quantum bullshit.
+
+"How Google's New Career Certificates Could Disrupt the College Degree"
+
+[Link](https://www.inc.com/justin-bariso/inside-googles-plan-to-disrupt-college-degree-exclusive.html)
+
+---
+
+"Dreams of Massachusettsification"
+
+---
+
+🤣
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes I feel like a don’t have a paakd caa</p>&mdash; Cry Me A Rivard (@rivardless) <a href="https://twitter.com/rivardless/status/1370219618418094085?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
