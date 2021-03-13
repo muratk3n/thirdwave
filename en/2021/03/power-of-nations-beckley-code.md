@@ -7,10 +7,10 @@ predict war outcomes. Excerpts from the article are
 The data comes from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/58KDCM)
 
 `reiterwars.tab` has wars from past few centuries, `power1.tab`
-carries `GDP`, `CINC`, population and Beckley's measure `y`. We could
-reconstruct it from `GDP` and `tpop` which I did to check, the results
-are the same. I based my code on `wars do.do` State code in the same
-repository.
+carries `GDP`, `CINC`, population and MB's measure `y`. We could
+reconstruct the measure from `GDP` and `tpop` (which I did to
+double-check, the results are the same). I based my code on `wars do.do`
+Stata code in the same repository.
 
 My zipped version of the data is [here](https://drive.google.com/uc?export=view&id=1Gh2-Kq9EigyQ_llE_mwG-WS8Knyi7KQR)
 
