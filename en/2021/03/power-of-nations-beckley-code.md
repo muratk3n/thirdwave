@@ -29,7 +29,7 @@ import pandas as pd
 dfp = pd.read_csv('power1.tab',sep='\t')
 dfw = pd.read_csv('reiterwars.tab',sep='\t')
 dfw = dfw[dfw.joiner==0]
-# join in the reference data, twice, once for side, other for side b
+# join in the reference data, twice, once for side a, other for side b
 dfj1 = dfw.merge(dfp, left_on=['year','init_ccode'], right_on=['year','ccode'],how='left')
 dfj1['tpopa'] = dfj1['tpop'] 
 dfj1['cinca'] = dfj1['cinc'] 
