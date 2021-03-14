@@ -300,15 +300,11 @@
 
 [Ouch](07/ouch.md)
 
-[Patent 5,893,120](07/patent-5893120.md)
-
 [Rome Killed Jesus](07/rome-killed-jesus.md)
 
 [Sadly He Did Not Succeed](07/sadly-he-did-not-succeed.md)
 
 [The Shuttle](07/shuttle.md)
-
-[Stark and Downey Jr.](07/stark-and-downey-jr.md)
 
 [Too Cool for School](07/too-cool-for-school.md)
 

@@ -8,8 +8,6 @@
 
 [John Oliver on Patents](../../2015/05/john-oliver-on-patents.md)
 
-[Patent 5,893,120](../../2011/07/patent-5893120.md)
-
 [Shuttleworth on Patents](../../2011/08/shuttleworth-on-patents.md)
 
 [When Patents Attack!](../../2012/08/when-patents-attack.md)
