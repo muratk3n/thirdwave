@@ -22,7 +22,7 @@ PROVINCE RESOURCES (ASX:PRL)"
 VACCINE DATA UPDATE (March 13)
 
 Record day of reported vaccinations, with 4.6M. 50% higher than past
-2.9M record. Looking into why (data dump/lag, +capacity, etc.)"
+2.9M record... "
 
 ---
 
