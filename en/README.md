@@ -76,12 +76,11 @@ and also it's just v annoying"
 Gross measures and other beliefs "trickle down" from academia to
 journos who repeat what they get from "upstream". Left unchecked such
 info can cause nonsense to become entrenched eg neophyte can conclude
-"mo ppl no mo problems" perpetuating junk. Esp watch for Tom Friedman
-like glib jagoffs, pop philosop journos who fashion themselves
-"thinkers" but merely are adept at slapping catchy book titles on
-stuff trickling down. Then, anyone who is able to question the base
-assumptions of the measures in research, needs to do so. Quash this
-shit at its source.
+"mo ppl no mo problems". Esp watch for Tom Friedman-like glib jagoffs,
+pop philosop journos who fashion themselves "thinkers" but merely are
+adept at slapping catchy book titles on stuff trickling down. Then,
+anyone who is able to question the base assumptions of the measures in
+research, needs to do so. Quash this shit at its source.
 
 ---
 
