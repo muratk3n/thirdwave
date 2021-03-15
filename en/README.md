@@ -38,8 +38,8 @@ predecessors"
 
 ---
 
-Couldnt you set up one of those fake flames with little lighting, wind
-blower etc..?
+Couldnt they just set up one of those fake flames, a cloth flapping
+away with red lighting, wind blowing etc..?
 
 ---
 
