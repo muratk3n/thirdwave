@@ -38,11 +38,12 @@ predecessors"
 
 ---
 
-
-Hey thats lota of carbon, asshole.
-
 Couldnt you set up one of those fake flames with little lighting, wind
 blower etc..?
+
+---
+
+Hey thats lota of carbon, asshole.
 
 <img width="340" src="https://pbs.twimg.com/media/EwanhMtXMAE2E-A?format=jpg&name=small"/>
 
@@ -50,7 +51,7 @@ blower etc..?
 
 🤣 🤣 🤣  😢 😢 😢 😢 
 
-<img width="60%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=4096x4096"/>
+<img width="90%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=4096x4096"/>
 
 ---
 
