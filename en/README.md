@@ -56,8 +56,8 @@ Hey thats lota of carbon, asshole.
 
 ---
 
-I wonder if there is a town named Douche somewhere. We cld have Duke
-and Duchess of Douche.
+I wonder if there is a town named Douche somewhere. Then u cld have
+Duke and Duchess of Douche.
 
 ---
 
