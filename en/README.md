@@ -38,8 +38,9 @@ predecessors"
 
 ---
 
-Couldnt they just set up one of those fake flames, a cloth flapping
-away with red lighting, wind blowing etc..?
+Couldnt they just set up one of those fake flames, a piece of cloth
+flapping away, with red lighting underneath, wind blowing etc..? C'mon
+man.. 
 
 ---
 
