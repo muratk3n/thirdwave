@@ -70,9 +70,9 @@ assumptions of such measures, needs to do so.
 
 ---
 
-Just saw Russio-Otto war of 1828/29 in the data.. Otto got its ass
-kicked on that one... Beckl measure predicts 0.94 (max 1) win for
-Russia. Doh!
+Just saw Russio-Otto war of 1828/29 in the conflict prediction
+data.. Otto got its ass kicked on that one... Beckl measure predicts
+0.94 (out of 1) win for Russia. Doh!
 
 ---
 
