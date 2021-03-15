@@ -61,7 +61,8 @@ Duke and Duchess of Douche.
 
 ---
 
-Douche means "shower" in French.. so not a curse word on them really.
+Douche means "shower" in French, right? So not a curse word on them
+really.
 
 ---
 
