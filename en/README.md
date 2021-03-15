@@ -79,9 +79,9 @@ info can cause nonsense to become entrenched eg neophyte can conclude
 "mo ppl no mo problems" perpetuating junk. Esp watch for Tom Friedman
 like glib jagoffs, pop philosop journos who fashion themselves
 "thinkers" but merely are adept at slapping catchy book titles on
-things trickling down from upstream. Then, anyone who is able to
-question the base assumptions of the measures in research, needs to do
-so. Quash this shit at its source.
+stuff trickling down. Then, anyone who is able to question the base
+assumptions of the measures in research, needs to do so. Quash this
+shit at its source.
 
 ---
 
