@@ -75,8 +75,12 @@ and also it's just v annoying"
 Gross measures and other beliefs "trickle down" from academia to
 journos who repeat what they get from "upstream". Left unchecked such
 info can cause nonsense to become entrenched eg neophyte can conclude
-"mo ppl no mo problems". Then anyone who is able to question the base
-assumptions of such measures, needs to do so.
+"mo ppl no mo problems". Esp need to watch for Tom Friedman like pop
+philos journo who fashion himself "thinker" but merely adapt at slappin
+catchy book titles on things trickling down from upstream. 
+
+Anyone who is able to question the base assumptions of these measures,
+needs to do so. Quash this shit at its source.
 
 ---
 
