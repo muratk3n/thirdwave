@@ -51,7 +51,7 @@ Hey thats lota of carbon, asshole.
 
 🤣 🤣 🤣  😢 😢 😢 😢 
 
-<img width="98%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=4096x4096"/>
+<img width="98%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=small"/>
 
 ---
 
