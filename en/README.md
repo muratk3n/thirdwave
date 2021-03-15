@@ -65,8 +65,8 @@ and also it's just v annoying"
 Gross measures and other beliefs "trickle down" from academia to
 journos who repeat what they get from "upstream". Left unchecked such
 info can cause nonsense to become entrenched eg neophyte can conclude
-"mo ppl no mo problems" and "that is a good thing".. Anyone who is
-able to question the base assumptions of such measures need to do so.
+"mo ppl no mo problems". Then anyone who is able to question the base
+assumptions of such measures, needs to do so.
 
 ---
 
