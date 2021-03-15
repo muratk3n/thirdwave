@@ -55,6 +55,15 @@ Hey thats lota of carbon, asshole.
 
 ---
 
+I wonder if there is a town named Douche somewhere. Then there cld be
+Duke and Duchess of Douche.
+
+---
+
+Douche means "shower" in French.. so not a curse word on them really.
+
+---
+
 "@ds_wats0n
 
 Day light savings is an unnecessary relic of the early industrial age
