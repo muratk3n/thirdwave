@@ -1,8 +1,81 @@
 # Tweets
 
-Checked Beckley's theory with data.. Result validates his claim. GDP *
-GDP Per Capita is a better indicator than CINC or GDP alone. See
-[post](2021/03/power-of-nations-beckley-code.md).
+"Globally, there are now 228 large-scale projects for a combined $US300
+billion of proposed investment through to 2030, according to the
+Hydrogen Council.. these are some of the stocks to watch.
+ 
+
+HAZER GROUP (ASX:HZR)
+
+HEXAGON ENERGY MATERIALS (ASX: HXG)
+
+GLOBAL ENERGY VENTURES (ASX:GEV)
+
+PROVINCE RESOURCES (ASX:PRL)"
+
+[Link](https://stockhead.com.au/energy/these-asx-stocks-want-a-piece-of-the-us300-billion-hydrogen-sector/)
+
+---
+
+"@ArmstrongDrew
+
+VACCINE DATA UPDATE (March 13)
+
+Record day of reported vaccinations, with 4.6M. 50% higher than past
+2.9M record. Looking into why (data dump/lag, +capacity, etc.)"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whistle-blower says Credit Suisse helped Americans evade taxes,�after promising to stop in 2014<a href="https://t.co/xhUHkLehF8">https://t.co/xhUHkLehF8</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1370936648377061377?ref_src=twsrc%5Etfw">March 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"U.S. Secretary of State Antony Blinken on Wednesday (March 10)
+referred to Taiwan as a country, a label usually avoided by his
+predecessors"
+
+[Link](https://www.taiwannews.com.tw/en/news/4148761)
+
+---
+
+
+Hey thats lota of carbon, asshole.
+
+Couldnt you set up one of those fake flames with little lighting, wind
+blower etc..?
+
+<img width="340" src="https://pbs.twimg.com/media/EwanhMtXMAE2E-A?format=jpg&name=small"/>
+
+---
+
+🤣 🤣 🤣  😢 😢 😢 😢 
+
+<img width="60%" src="https://pbs.twimg.com/media/EwTcKI6WYAcYyJ_?format=jpg&name=4096x4096"/>
+
+---
+
+"@ds_wats0n
+
+Day light savings is an unnecessary relic of the early industrial age
+and also it's just v annoying"
+
+---
+
+Gross measures and other beliefs "trickle down" from academia to
+journos who repeat what they get from "upstream". Left unchecked such
+info can cause nonsense to become entrenched eg neophyte can conclude
+"mo ppl no mo problems" and "that is a good thing".. Anyone who is
+able to question the base assumptions of such measures need to do so.
+
+---
+
+Just saw Russio-Otto war of 1828/29 in the data.. Otto got its ass
+kicked on that one... Beckl measure predicts 0.94 (max 1) win for
+Russia. Doh!
+
+---
+
+"Germany seeks to be vaccine self-sufficient by next year"
 
 ---
 
