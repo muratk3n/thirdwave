@@ -124,7 +124,7 @@ compressed gas.
 
 ---
 
-Oz official says they didnt see problems with AstZen vacc, so far
+Oz official says didnt see problems with AstZen vacc so far
 
 ---
 
