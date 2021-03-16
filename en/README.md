@@ -21,6 +21,13 @@ to agree to end the "race to the bottom" w/ a new minimum tax"
 
 ---
 
+Siena: "By 48-34 percent, [voters say Cuomo] can continue to
+effectively do his job as governor."
+
+[Link](https://scri.siena.edu/2021/03/15/voters-say-cuomo-should-not-resign-50-35/)
+
+---
+
 "A public utility in northern Central Washington broke ground Monday
 for a hydrogen production facility. It’s one of several related
 actions in the Pacific Northwest that reflect renewed interest in
@@ -95,6 +102,15 @@ Wall Street was relieved when @SenWarren was passed over for Treasury
 secretary. But now the financial industry faces another threat:
 President Biden is enlisting a small army of her former aides and
 allies to run his government"
+
+---
+
+45 psi is 3 bars? Regular air outside is 1 bar, so take air, reduce
+its volume by 1/3 (bcz $PV = nRT)$, that is enough pressure for a good
+mechanic push.
+
+We know thats doable of course from break-barrel airguns, some use
+compressed gas.
 
 ---
 
