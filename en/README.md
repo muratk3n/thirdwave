@@ -80,7 +80,7 @@ An FT writer is being skooled
 
 ---
 
-GöterErErErErSiperÇavuşAsker AskerCavuşSiperErErErErErgöt
+GöterErErErErSiperAskerÇavuş CavuşSiperAskerErErErErErgöt
 
 ---
 
