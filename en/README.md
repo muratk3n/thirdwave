@@ -16,8 +16,8 @@ complaints, disorderly conduct, and wellness checks"
 "@JStein_WaPo
 
 NEW: In every corner of the globe, taxes on multinational corporations
-have gone down, down, down Janet Yellen's big objective: Get the world
-to agree to end the "race to the bottom" w/ a new minimum tax"
+have gone down, down, down... Janet Yellen's big objective: Get the
+world to agree to end the "race to the bottom" w/ a new minimum tax"
 
 ---
 
