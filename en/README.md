@@ -134,7 +134,7 @@ border issues heating up with EU.
 
 ---
 
-Hey is clearly into fuels, so he'd be into an H2 based econ (didnt
+He is clearly into fuels, so wld be into an H2 based econ (didnt
 Mercedes give him a fuel-cell car?)
 
 "Kretschmann has mass appeal in Germany's conservative south and is
