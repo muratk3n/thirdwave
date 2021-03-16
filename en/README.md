@@ -86,7 +86,7 @@ GöterErErErSiperÇavuş CavuşSiperErErErErgöt
 
 ErEr 🤣 🤣 Double the soldier.. it's hilarious
 
-https://pbs.twimg.com/media/Ewk5sKFXEAIkia9?format=jpg&name=360x360
+[Link](https://pbs.twimg.com/media/Ewk5sKFXEAIkia9?format=jpg&name=small)
 
 ---
 
