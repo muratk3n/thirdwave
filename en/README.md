@@ -101,7 +101,8 @@ in the garbage plants, tax their ass.
 
 ---
 
-I consider that a win
+Wouldnt be too happy with Yellen just yet, but EW ppl in admin I is
+still a win for progs
 
 "@Zachary
 
