@@ -114,6 +114,12 @@ compressed gas.
 
 ---
 
+All of a sudden UK is getting hammered from all directions.. Royal
+racism claims, then AstraZeneca vacc problems, and now Irish border
+issues heating with EU.
+
+---
+
 Hey is clearly into fuels, so he'd be into an H2 based econ (didnt
 Mercedes give him a fuel-cell car?)
 
