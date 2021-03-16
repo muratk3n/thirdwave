@@ -80,6 +80,10 @@ An FT writer is being skooled
 
 ---
 
+GöterErErErErSiperÇavuşAsker AskerCavuşSiperErErErErErgöt
+
+---
+
 We encourage certain biz behaviours all the time.. There is food
 safety, regulations.. We already punish prods that might *kill you*
 over others who dont.
