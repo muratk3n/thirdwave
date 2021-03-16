@@ -21,12 +21,6 @@ to agree to end the "race to the bottom" w/ a new minimum tax"
 
 ---
 
-Voters Say Cuomo Should Not Resign, 50-35%
-
-[Link](https://myemail.constantcontact.com/Voters-Say-Cuomo-Should-Not-Resign--50-35---They-Say-He-Can-Effectively-Do-Job-as-Governor-Despite-Investigations--48-34-.html)
-
----
-
 "A public utility in northern Central Washington broke ground Monday
 for a hydrogen production facility. It’s one of several related
 actions in the Pacific Northwest that reflect renewed interest in
@@ -36,15 +30,6 @@ hydrogen production plant on the east bank of the Columbia River north
 of Wenatchee"
 
 [Link](https://www.opb.org/article/2021/03/09/hydrogen-production-washington-oregon-renewed-look/)
-
----
-
-45 psi is 3 bars? Regular air outside is 1 bar, so take air, reduce
-its volume by 1/3 (bcz $PV = nRT)$, that is enough pressure for a good
-mechanic push.
-
-We know thats doable of course from break-barrel airguns, some use
-compressed gas.
 
 ---
 
