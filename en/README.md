@@ -93,8 +93,7 @@ hard-to-recycle items in the garbage plants, tax their ass.
 
 ---
 
-Wouldnt be too happy with Yellen just yet, but EW ppl in admin I is
-still a win for progs
+EW ppl in admin is a win for progs
 
 "@Zachary
 
