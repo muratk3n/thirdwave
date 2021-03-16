@@ -116,7 +116,7 @@ compressed gas.
 
 All of a sudden UK is getting hammered from all directions.. Royal
 racism claims, then AstraZeneca vacc problems, and now Irish border
-issues heating with EU.
+issues heating up with EU.
 
 ---
 
