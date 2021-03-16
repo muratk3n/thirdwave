@@ -113,9 +113,13 @@ compressed gas.
 
 ---
 
+Oz official says they didnt see problems with AstZen vacc, so far
+
+---
+
 All of a sudden UK is getting hammered from all directions.. Royal
-racism claims, then AstraZeneca vacc problems, and now Irish border
-issues heating up with EU.
+racism claims, then AstraZeneca vacc defect claims, and now Irish
+border issues heating up with EU.
 
 ---
 
