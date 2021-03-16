@@ -95,9 +95,9 @@ over others who dont.
 ---
 
 We can encourage 'recyclable capitalism' by rewarding comps whose
-output is more recyclable. Just look in the garbage... Find out whose
-products generate most single-use plastic, other hard-to-recycle items
-in the garbage plants, tax their ass.
+output is more recyclable. How? Look at the "garbage stats"... Find
+out whose products generate most single-use plastic, other
+hard-to-recycle items in the garbage plants, tax their ass.
 
 ---
 
