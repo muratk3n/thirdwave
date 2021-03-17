@@ -26,9 +26,7 @@ and two parents high-fived after the bus pulled away"
 ---
 
 "Compressed green hydrogen ship for Aussie exports deemed ‘highly
-competitive’.. A scoping study has found Global Energy Ventures’
-compressed hydrogen ship to be both technically feasible and ‘highly
-competitive’
+competitive’’
 
 [Link](https://www.pv-magazine-australia.com/2021/03/02/compressed-green-hydrogen-ship-for-aussie-exports-deemed-highly-competitive/)
 
