@@ -80,16 +80,6 @@ An FT writer is being skooled
 
 ---
 
-GöterErErErSiperÇavuş CavuşSiperErErErErgöt
-
----
-
-Erer 🤣 🤣 Double the soldier.. it's hilarious
-
-[Link](https://pbs.twimg.com/media/Ewk5sKFXEAIkia9?format=jpg&name=small)
-
----
-
 We encourage certain biz behaviours all the time.. There is food
 safety, regulations.. We already punish prods that might *kill you*
 over others who dont.

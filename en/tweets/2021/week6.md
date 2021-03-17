@@ -577,6 +577,10 @@ print (df[['Event Date','Source Name','Event Text','Target Name']])
 
 [Starter code](https://nbviewer.jupyter.org/gist/dmasad/f79ce5abfd4fb61d253b)
 
+3) Center for Systemic Peace, Major Episodes of Political Violence
+
+http://www.systemicpeace.org/inscrdata.html (scroll below)
+
 ---
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">Via <a href="https://twitter.com/gazettedotcom?ref_src=twsrc%5Etfw">@gazettedotcom</a><a href="https://t.co/J3qyp16So2">https://t.co/J3qyp16So2</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1358130409335377922?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
