@@ -117,18 +117,6 @@ a "skinny" Biden win or a landslide"
 
 ---
 
-
-🤣 🤣 🤣 Türker Ertürk.. That's the man's name.
-
-They named this asshole TurkSoldier so his full name could be
-TurkSoldier SoldierTurk. 🤣 🤣 The crassness of the rampant, showboat
-nationalism is disgusting.
-
-The history behind these names was shared
-[here](2020/04/turks-culture-national-narrative.md#wolf).
-
----
-
 At another level anti-semitism is Labor's Russiagate. It unites
 certain people, against certain other people.... It serves a
 purpose. Obviously, just like Russiagate, is is based on half-truths,
