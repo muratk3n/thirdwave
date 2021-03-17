@@ -34,6 +34,19 @@ competitive’
 
 ---
 
+On gender, race swap: the issue about the characteristics of the role,
+especially if the role is a known one. Take James Bond, what are the
+characteristics? JB is British first of all. Could there be an
+Hawaiian James Bond? Thatd be ridiculous. Id watch a movie around an
+Hawaian secret agent, but that would be now James Bond. Second JB is
+former military, and third, a bloke. The race for this character I
+dont care much abt (not part of its lore), but when they were thinking
+casting someone black, and they asked Idris Elba, he refused.. He said
+he doesnt want to be known as the "black James Bond" for the rest of
+his life.
+
+---
+
 ♪♬ Who's the cat that won't cop out
 
 ♪♬ When there's danger all about?
