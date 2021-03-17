@@ -19,13 +19,6 @@ and two parents high-fived after the bus pulled away"
 
 ---
 
-Drug deficiency claims make everyone nervous, India, Oz, Italy all use
-this thing..
-
-"EU regulator: AstraZeneca vaccine is safe"
-
----
-
 "Compressed green hydrogen ship for Aussie exports deemed ‘highly
 competitive’.. A scoping study has found Global Energy Ventures’
 compressed hydrogen ship to be both technically feasible and ‘highly
