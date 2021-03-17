@@ -4,9 +4,9 @@
 
 ---
 
-This is a vital pt that bears repeating: freedom costs less. There is
-nothing good about the Chink system, the c*%ksuckers spend half their
-money on internal security.
+This is a vital pt that bears repeating: freedom costs less. Nothing
+to admire about the Chink system, the cobmuchers spend half their
+money and energy on internal security.
 
 ---
 
