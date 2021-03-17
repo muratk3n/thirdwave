@@ -48,8 +48,8 @@ I wonder how people would react if we modified female, or black
 characters. Lets say, I take Andy Dick, and make him White
 Shaft. Would black people like that?  Imagine the scene, bar door
 swings open, and this guy walks in with the shades on, has the leather
-jacket.. the music playing wha wha-wha-wha wha wha Andy walking with
-that strut. How would that go down? That would be insane right?
+jacket.. the music playing wha wha-wha-wha wha wha AD walking with
+that strut.. How would that go down? That would be insane right?
 
 ---
 
