@@ -4,6 +4,12 @@
 
 ---
 
+This is a vital pt that bears repeating: freedom costs less. There is
+nothing good about the Chink system, the c*%ksuckers spend half their
+money on internal security.
+
+---
+
 "@kurtopsahl
 
 Authoritarians don’t like end-to-end encryption.
