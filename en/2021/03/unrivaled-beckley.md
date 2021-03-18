@@ -8,13 +8,13 @@ Russia - China
 
 Russia and China currently maintain a “strategic partnership,” but
 this relationship is unlikely to become a genuine alliance, because
-the two coun- tries share a 2,600-mile border and a desire to dominate
+the two countries share a 2,600-mile border and a desire to dominate
 Eurasia—a goal that one side can accomplish only by subjugating the
 other. Perhaps a shared hatred of the United States will bring Russia
 and China together, but history suggests otherwise. At the start of
 the Cold War, China initially aligned with the Soviet Union, but by
 the 1960s the two Communist powers were literally at war with each
-other, and in the 1970s China offi - cially switched sides and aligned
+other, and in the 1970s China officially switched sides and aligned
 with the United States.
 
 Today, many Russian and Chinese strategists warn their respective gov-
