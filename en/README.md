@@ -1,165 +1,95 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are very grateful &amp; overwhelmed by the media coverage we have received for our efforts to include <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Fuel Cell Vehicles &amp; H₂ refuelling infrastructure within the ambit of FAME India scheme so that government benefits may be passed on to such H₂ programs. 🙏 <a href="https://t.co/zP9W0fyDhH">pic.twitter.com/zP9W0fyDhH</a></p>&mdash; Fuel Cell India 🇮🇳 (@FCIndia_) <a href="https://twitter.com/FCIndia_/status/1371714241506385920?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TECO2030?src=hash&amp;ref_src=twsrc%5Etfw">#TECO2030</a> sets plan to establish Norway&#39;s first large-scale production of <a href="https://twitter.com/hashtag/hydrogenfuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenfuelcells</a>. <a href="https://t.co/qmIGegVhue">https://t.co/qmIGegVhue</a><a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1372250431825571849?ref_src=twsrc%5Etfw">March 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-This is a vital pt that bears repeating: freedom costs less. Nothing
-to admire about the CH system, as they spend half their money and
-energy on internal security.
+"@jonty
+
+Out of curiosity I dug into how NFT's actually reference the media
+you're "buying" and my eyebrows are now orbiting the moon
+
+Short version:
+
+The NFT token you bought either points to a URL on the internet, or an
+IPFS hash. In most circumstances it references an IPFS gateway on the
+internet run by the startup you bought the NFT from"
+
+[Link](https://twitter.com/jonty/status/1372163423446917122)
 
 ---
 
-"@kurtopsahl
-
-Authoritarians don’t like end-to-end encryption.
-
-'China appears to have blocked Signal, the encrypted chat app'"
+Yea.. that sounded like a potential future change in the filibuster
+rules \#ABC
 
 ---
 
-"@MEPFuller
+Vice: "A surveillance contractor ... is advertising a product that it
+says can locate the real-time locations of specific cars in nearly any
+country on Earth."
 
-Just saw a Fairfax County school bus pick up a bunch of little kids,
-and two parents high-fived after the bus pulled away"
-
----
-
-"Compressed green hydrogen ship for Aussie exports deemed ‘highly
-competitive’’
-
-[Link](https://www.pv-magazine-australia.com/2021/03/02/compressed-green-hydrogen-ship-for-aussie-exports-deemed-highly-competitive/)
+[Link](https://www.vice.com/en/article/k7adn9/car-location-data-telematics-us-military-ulysses-group)
 
 ---
 
-♪♬ Who's the cat that won't cop out
+"@nickgutteridge
 
-♪♬ When there's danger all about?
-
-♪♬ White Shaft
-
-Right on 👉
+Von der Leyen says the EU could seize production of vaccines and
+suspend intellectual property rights"
 
 ---
 
-Why gender swap, race swap existing characters?
-
-I wonder how people would react if we modified female, or black
-characters. Lets say, I take Andy Dick, and make him White
-Shaft. Would black people like that?  Imagine the scene, bar door
-swings open, and this guy walks in with the shades on, has the leather
-jacket.. the music playing wha wha-wha-wha wha wha AD walking with
-that strut.. How would that go down? That would be insane right?
+More teachers.. better teachers..? When horse carrieges gave way to
+cars, 'better' or 'more' horses talk became moot. Tech will cause
+drastic change.
 
 ---
 
-"If Penthouse suddenly switched all of its glossy double-page spreads
-to abs and cocks, you’d expect some backlash. A few awkward
-silences. Probably a sharp drop in subscriptions.
-
-Does this make its readers a pack of bigots, misandrists, and
-man-hating homophobes burdened by fragile sexuality? No. They were
-simply looking for something else. The magazine’s target audience has
-an established sexual preference, confirming the old adage ‘sex
-sells!’ is as true for Penthouse as it is for a fifty-year-old science
-fiction show.
-
-Doctor Who is the James Bond of the geek world – men want to be him,
-and girls want to shag him. I can’t speak for the boys, but who
-doesn’t want a gorgeous, older boyfriend with a time machine, infinite
-bank balance, no job, endless adventure, and a demi-god status in the
-universe? He is an inconvenient sexual fantasy that contradicts the
-preferred social politics of the BBC, despite being its flagship show.
-
-It is no accident that ratings soared when Scottish heart-throb David
-Tennant took over the role in 2005 alongside his young, attractive
-female companion Billie Piper. Their will-they, won’t-they romantic
-tragedy elevated the BBC production out of the fringe geek world and
-into the mainstream market of swooning teenagers.... 
-
-2018 saw the progressive agenda inside the BBC hit peak woke –
-cannibalising their golden goose. The desire to promote inclusivity
-with casting choices, led new showrunner Chris Chibnall to hire Jodie
-Whittaker as the first female Doctor. Token casting is normally fatal
-but identifying as a taxpayer parasite makes it impossible for the BBC
-to ‘go broke’ like its corporate peers. This artificial survival
-allowed us to watch the gender-bender experiment play out to hilarious
-disparities between glowing critical reviews and god-awful audience
-scores that were so bad BBC management kept deleting them"
-
-[Link](https://www.penthouse.com.au/articles/opinion/doctor-what-is-that)
+Developed an appreciation for French press coffee.. When I started
+drinking more java at home but didnt want an whole hunking coffee
+machine. FP did the job with acceptable quality and cheap equipment.
 
 ---
 
-"Nuvera® E-Series Fuel Cell Engines for heavy-duty applications allow
-port operators to comply with tightening emissions regulations and
-mandates and remain economically competitive"
+US support for China since the 70s might have another logic in it 🤔
+besides containing Russia. Lets say u are US, and want to be included
+in a region. Which country would you support in that region?  Answer:
+the one that is surrounded by 19 countries who are hostile to it. Then
+once that country gets stronger, everyone in the region will freak
+out, and call the superpower for help (as they should). 
 
-[Link](https://www.nuvera.com/ports)
-
----
-
-Andy Dick is it? 
-
----
-
- :) That guy has good physical comedy chops \#Trek
-
-[Vid](https://youtu.be/7FJuFONaQBo?t=23)
+CH doesnt have to play this game. Work on yiour pluralism,
+democracy. 
 
 ---
 
-Beckley: "The U.S. military ... can sink Chinese ships and submarines
-virtually anywhere in East Asia. The main reason is that the United
-States has dozens of missile-armed submarines that are almost
-invulnerable to China’s notoriously weak antisubmarine
-capabilities. In wartime, U.S. submarines, with the aid of America’s
-vast undersea surveillance network in East Asia, could set up picket
-lines near the combat theater, or near China’s ports, and sink China’s
-ships and submarines with torpedoes, missiles, and mines"
+Beckley: "China may have the world’s biggest economy and military, but
+it also leads the world in debt; resource consumption; pollution;
+useless infrastructure and wasted industrial capacity; scientific
+fraud; internal security spending; border disputes... China also uses
+seven times the input to generate a given level of economic output as
+the United States and is surrounded by nineteen countries, most of
+which are hostile toward China, politically unstable, or both"
 
 ---
 
-Beckley: "Taiwan retains enduring advantages that could make the island
-virtually unconquerable—provided that Taipei and Washington capitalize
-on them. Armadas of the kind China would need to invade or blockade
-Taiwan are extremely vulnerable to modern missiles and
-mines. Meanwhile, the Taiwan Strait is perilous—typhoons and 20-foot
-waves are common most of the year—and Taiwan itself is a natural
-fortress. Its east coast consists of steep cliffs, and its west coast
-is dominated by mud flats that extend miles out to sea and are
-buffeted by severe tides. As a result, there are only a dozen beaches
-on Taiwan where an invading force could even land.
-
-Taiwan’s defenders also have history on their side. No blockade in the
-past 200 years has coerced a country into surrendering its
-sovereignty, and there has been only one successful amphibious
-invasion of a developed nation in modern history (the Allied invasion
-of Italy in 1943). All other successful amphibious assaults were
-against overstretched forces defending hastily dug positions on
-foreign or contested territory with small arms. If China invaded
-Taiwan today, it would be attacking massed forces defending fortified
-positions on home soil with precision-guided munitions"
-
-[Link](https://foreignpolicy.com/2020/10/19/china-keeps-inching-closer-to-taiwan/)
+"Oh but there is a formula for vaccs?" Same for Coca-Cola. Arent there
+urban legends around that? "Bro it's sooo secret, it is kept at
+[insert weird vault locale]"
 
 ---
 
-Redtenbacher's Funkestra - Cave Canem \#music
+Vaccine shortages in so many countries. Unbelievable..
 
-[Link](https://youtu.be/JR2oGJ2verg)
-
----
-
-"@stephendziedzic
-
-Golly. Scott Morrison told joint party room that the Quad leaders'
-meeting was 'the most significant thing to have occurred to protect
-Australia's security and sovereignty since ANZUS'"
+Coca-Cola can shit out its shit product to the tune of 1 billion A
+DAY, but we cant make potentially life saving drug for everyone fast
+enough? And this is after *a year* has passed. Good to see capitalism
+has its priorities straight.. Sugared water vs life saving
+drug. Mmmm... "I'll go with sugared water".
 
 ---
 
-Minimum wage in Canada is $8.88?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses are excellent, here in <a href="https://twitter.com/hashtag/Aberdeen?src=hash&amp;ref_src=twsrc%5Etfw">#Aberdeen</a> we have years of experience with them and are thrilled with the news that they will be more common place across the UK<a href="https://t.co/CL1RJs6fNp">https://t.co/CL1RJs6fNp</a> <a href="https://twitter.com/Fuelcellbus?ref_src=twsrc%5Etfw">@Fuelcellbus</a> <a href="https://twitter.com/fch_ju?ref_src=twsrc%5Etfw">@fch_ju</a> <a href="https://twitter.com/hashtag/sustainabletransport?src=hash&amp;ref_src=twsrc%5Etfw">#sustainabletransport</a></p>&mdash; H2Aberdeen (@H2Aberdeen) <a href="https://twitter.com/H2Aberdeen/status/1371844536985587716?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
