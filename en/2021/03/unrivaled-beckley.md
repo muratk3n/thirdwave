@@ -20,7 +20,7 @@ with the United States.
 Today, many Russian and Chinese strategists warn their respective
 governments not to place too much faith in a sustainable partnership.
 Foreign analysts come to similar conclusions. As one study explains:
-“[Sino-Russian] cooperationp is limited to areas where their interests
+“[Sino-Russian] cooperation is limited to areas where their interests
 already overlap, like bolstering trade. In the parts of the world that
 matter most to them, Russia and China are more rivals than allies.”
 
@@ -34,7 +34,7 @@ Sino-Russian war. The two countries share an interest in developing
 Central Asia, but Russia wants to tether the region to Moscow via the
 Eurasian Economic Union whereas China wants to reconstitute the Silk
 Road and link China to the Middle East and Europe while bypassing
-Russia. Collectively, these confl icting interests have placed Russia
+Russia. Collectively, these conflicting interests have placed Russia
 and China “on a trajectory toward intensifying competition from latent
 to emergent rivalry.”
 
