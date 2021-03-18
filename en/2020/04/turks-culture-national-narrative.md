@@ -49,13 +49,13 @@ identity to inspire people, to make them forget about the "here and
 now" so they chose something "outside". This was the Turk. He was from
 Central Asia, and he was the ideal, the pure.
 
-Sadly this was a bad choice. This particular ethnicity was never known
-as imagined then, usually it would be conflated with religion, and/or
-(rightfully) to the few number of *Turkomans* who arrived at a some
-point, and settled in Anatolia in a particular region. Within the ball
-busting ethnic relations the particular word's standing wasn't that
-hot either, the ethnic label could even be considered a slur, no more
-than 100 years ago.
+However this particular ethnicity was never known as imagined then,
+usually it would be conflated with religion, and/or (rightfully) to
+the few number of *Turkomans* who arrived at a some point, and settled
+in Anatolia in a particular region. Within the ball busting ethnic
+relations the particular word's standing wasn't that hot either, the
+ethnic label could even be considered a slur, no more than 100 years
+ago.
 
 Best account of this comes from an officer in the Ottoman army. At the
 last days of the empire the new nationalism was circulating among the
@@ -71,50 +71,26 @@ means... Say your friend drops something, or makes a mistake, and says
 c'mon", "don't sell yourself short", forgive urself. IT CAN'T BE THAT
 BAD.
 
-This identity is hallow. In the need of major change.
+<a name='add1'/>
 
-How does the narrative compare to other countries? Some countries do
-better than others. Russia nat stories are a crock. US does better;
-Here is portion of the US narrative; "Why did we seperate from
-England?". "Because ruling from a distance was not effective". Fine.
+To top if off, TR identity went through some incarnations that turned
+it defunct. As it was constructed, as delusional it might have been,
+it was imagined to be a secular identity. That was the other reason
+for "the Turk" to come "from outside", "Central Asia", meaning outside
+the realm of Islam. In fact many of the Turkists performed "research"
+that found that Turk to be followers of shamanistic religions, living
+as one with nature etc. In some ways they found what they wanted to
+find, a non-Islamic Turk.
 
-Here is what TR text claims why it lost during World War I. Uh, like,
-our big ally Germany lost, so we lost, indirectly, *by association*.
-This sounds like a B-movie tough guy routine. I wanted-a smash-a but
-they would not-a let meeee! It is not only wrong, it is childish. 
-
-<a name='wolf'/>
-
-Let's not get into stories around wolves, weird treks out of nowhere
-to f-ck knows where, whose at least wolf part sound awefully like the
-Romulus and Remus story, two lost babies who were suckled by a
-she-wolf, which was the beginning of the Roman legend (as much as a
-lie as anything). Delusional nats today making a variation of the
-heavy metal sign extended two mid fingers (wolve's nose) are on this
-particular drug. Sadly, not even my people's fairy tales are original.
-
-Question: Why do we hear some lastnames that have the word "Turk" in
-them in TR?"
-
-When the state came up with its delusional origin story, some ppl took
-as their lastname something Turkic, to make themselves friendly to the
-state. The lastnames are quite comical, walking turk, born soldier, or
-my favorite: soldier turk. Then, by implication, the Turkic lastnames
-can be taken to indicate a certain unawareness of history on the part
-of that family, due to lack of education, being far from the center,
-etc. It is sad in a way, the names scream not only "I am a pleb" they
-try to scream "I am *your* pleb".
-
-I am certain once the descendants realize how foolish their ancestors
-have been to chose these stupid shit of names, they will rush to legal
-services __en masse__ to have them changed. One day.
-
-Nationalism in many countries, but especially in TR, is like a
-reverse-telephone game. The guy at the end of the line hears the
-message much more clearly than the people in the beginning of the
-line. The people at the beginning, closer to circle, know the nuances,
-warts, ignore and get around stuff. The guy at the end drinks the
-Kool-Aid, he is the true believer. He doesn't know any better.
+But later, after the political upheavals, coups in the country, and
+finally after the final 1980 fascist coup (which was also trying to
+ingratiate itself into the 'green belt' strategy against the "Godless"
+Soviets) changed the identity to be religious as well. Ottomans were
+also back in vogue. So now the identity became both secular and
+religious, Kemalist and Ottomanist (Kemal was a staunch
+anti-royalist), right and left, anything under the sun (I guess except
+Kurds, who stayed away from this crooked identity en masse, to their
+detriment).
 
 <a name='whyfix'/>
 
@@ -155,11 +131,17 @@ since. These problems are not their fault.
 The solution
 
 The solution lies in the identity being rebuilt based on historic
-reality. Pick a different name, Anatolians, New Galatians, South
-Eurasians, whatever. Decentralize. Even Germany has states which enjoy
-certain levels of autonomy. And these people lived through Hitler! The
-identity needs to be something that signifies *the place*, instead of
-an oddball ethnicity, distant past that noone can truly define.
+reality. First pick a different name, Anatolians, New Galatians, South
+Eurasians, whatever. The identity needs to be something that signifies
+*the place*, instead of an oddball ethnicity, distant past that noone
+can truly define.
+
+The narrative, identity needs to be as simple, core as
+possible. Imbuing certain political choices on this identity turns it
+into a fascist propaganda tool. Any particular choice of religion (or
+rejection of) cannot be part of it. Neither can be synphatizes toward
+long-gone royals, or left / right ideological preferences which change
+from person to person.
 
 Addendums
 
@@ -208,6 +190,55 @@ this suggests the presence of these migrants was irrelevant. Even the
 "carrier" label itself suggests their role was nothing bigger than
 their numbers, tied to the region, whose realities would forge them as
 deeply as any other.
+
+Urban Legends
+
+WWI
+
+Here is what TR text claims why it lost during World War I. Uh, like,
+our big ally Germany lost, so we lost, indirectly, *by association*.
+This sounds like a B-movie tough guy routine. I wanted-a smash-a but
+they would not-a let meeee! It is not only wrong, it is childish.
+
+Wolf
+
+Let's not get into stories around wolves, weird treks out of nowhere
+to f-ck knows where, whose at least wolf part sound awefully like the
+Romulus and Remus story, two lost babies who were suckled by a
+she-wolf, which was the beginning of the Roman legend (as much as a
+lie as anything). Delusional nats today making a variation of the
+heavy metal sign extended two mid fingers (wolve's nose) are on this
+particular drug. Sadly, not even my people's fairy tales are original.
+
+Other countries
+
+How does the narrative compare to other countries? Some countries do
+better than others. Russia nationalist stories are a crock. US does
+better; Here is portion of the US narrative; "Why did we seperate from
+England?". "Because ruling from a distance was not effective". Fine.
+
+Question: Why do we hear some lastnames that have the word "Turk" in
+them in TR?"
+
+When the state came up with its delusional origin story, some ppl took
+as their lastname something Turkic, to make themselves friendly to the
+state. The lastnames are quite comical, walking turk, born soldier, or
+my favorite: soldier turk. Then, by implication, the Turkic lastnames
+can be taken to indicate a certain unawareness of history on the part
+of that family, due to lack of education, being far from the center,
+etc. It is sad in a way, the names scream not only "I am a pleb" they
+try to scream "I am *your* pleb".
+
+I am certain once the descendants realize how foolish their ancestors
+have been to chose these stupid shit of names, they will rush to legal
+services __en masse__ to have them changed. One day.
+
+Nationalism in many countries, but especially in TR, is like a
+reverse-telephone game. The guy at the end of the line hears the
+message much more clearly than the people in the beginning of the
+line. The people at the beginning, closer to circle, know the nuances,
+warts, ignore and get around stuff. The guy at the end drinks the
+Kool-Aid, he is the true believer. He doesn't know any better.
 
 References
 
