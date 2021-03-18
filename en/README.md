@@ -4,6 +4,14 @@
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to win friends &amp; influence people, China edition. <a href="https://t.co/nk5CUeUloJ">https://t.co/nk5CUeUloJ</a></p>&mdash; Tanvi Madan (@tanvi_madan) <a href="https://twitter.com/tanvi_madan/status/1372309749790871554?ref_src=twsrc%5Etfw">March 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Reuters: Germany and Canada agreed on Tuesday to explore the joint development of green hydrogen from Canadian hydroelectric power for export to Germany.
+
+---
+
 "@jonty
 
 Out of curiosity I dug into how NFT's actually reference the media
