@@ -70,10 +70,6 @@ democracy.
 
 ---
 
-"US warns China it will enforce sanctions on Iran oil shipments"
-
----
-
 Beckley: "China may have the world’s biggest economy and military, but
 it also leads the world in debt; resource consumption; pollution;
 useless infrastructure and wasted industrial capacity; scientific
@@ -81,6 +77,10 @@ fraud; internal security spending; border disputes... China also uses
 seven times the input to generate a given level of economic output as
 the United States and is surrounded by nineteen countries, most of
 which are hostile toward China, politically unstable, or both"
+
+---
+
+"US warns China it will enforce sanctions on Iran oil shipments"
 
 ---
 
