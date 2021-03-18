@@ -65,7 +65,7 @@ the one that is surrounded by 19 countries who are hostile to it. Then
 once that country gets stronger, everyone in the region will freak
 out, and call the superpower for help (as they should). 
 
-CH doesnt have to play this game. Work on yiour pluralism,
+CH doesnt have to play this game. Work on your pluralism,
 democracy. 
 
 ---
