@@ -42,7 +42,7 @@
 
 [Tolay, National Narratives, Migrations, Anatolia](07/migrations-anatolia.md)
 
-[Right Acting Left](07/right-acting-left.md)
+[Right Acting Left, Fascism](07/right-acting-left.md)
 
 [Robot Frankenstein](07/robot-frankenstein.md)
 
