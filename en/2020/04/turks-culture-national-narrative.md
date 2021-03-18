@@ -93,27 +93,28 @@ that found that Turk to be followers of shamanistic religions, living
 as one with nature etc. In some ways they found what they wanted to
 find, a non-Islamic Turk.
 
-But later, after the political upheavals, coups in the country, and
-finally after the final 1980 fascist coup (which was also trying to
-ingratiate itself into the 'green belt' strategy against the "Godless"
-Soviets) changed the identity to be religious as well. Ottomans were
-also back in vogue. So now the identity became both secular and
-religious, Kemalist and Ottomanist (Kemal was a staunch
-anti-royalist), right and left, anything under the sun (I guess except
-Kurds, who stayed away from this crooked identity en masse, to their
-detriment). A grab-bag of ideologies thrown together is obviously a
-perfect example of [fascism](../../2020/07/right-acting-left.md#fascism).
+But later, after the many political upheavals, coups in the country,
+and finally after the final 1980 fascist coup (which was also trying
+to ingratiate itself into the 'green belt' strategy against the
+"Godless" Soviets) changed the identity to be religious as
+well. Ottomans were also back in vogue. So now the identity became
+both secular and religious, Kemalist and Ottomanist (quite ironic
+since Kemal was a staunch anti-royalist), right and left, anything
+under the sun, except Kurds, who stayed away from this crooked
+identity en masse (to their detriment). A grab-bag of ideologies
+thrown together is obviously a perfect example of
+[fascism](../../2020/07/right-acting-left.md#fascism).
 
 If more and more admins to follow emphasized the fairy tales less and
-less in this manner, gradually it would help alleviate the
-bizarreness. The problem is the narrative is too tied with the
-foundation of the Republic, and whenever there is a crisis, the
-tendency is to get back to it, as if moving away from bizarreness
-wasn't the right thing to do to begin with. Since shit is always wrong
-in TR, such returns are common. The most recent flare-up happened
-after the 80 fascist coup, admin doubled down on crazy, even added
-some of its own -- now Otto past was fine along wolves, meandering
-treks, so niggers are now both from outside, and not.
+less, gradually it would help alleviate the bizarreness. The problem
+is the narrative is too tied with the foundation of the Republic, and
+whenever there is a crisis, the tendency is to get back to it, as if
+moving away from bizarreness wasn't the right thing to do to begin
+with. Since shit is always wrong in TR, such returns are common. The
+most recent flare-up happened after the 80 fascist coup, admin doubled
+down on crazy, even added some of its own -- now Otto past was fine
+along wolves, meandering treks, so niggers are now both from outside,
+and not.
 
 That's why the objection "well if the narrative works, keep it" is
 moot. All indications are it stopped working long ago. A portion of
