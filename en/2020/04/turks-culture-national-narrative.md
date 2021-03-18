@@ -102,7 +102,7 @@ religious, Kemalist and Ottomanist (Kemal was a staunch
 anti-royalist), right and left, anything under the sun (I guess except
 Kurds, who stayed away from this crooked identity en masse, to their
 detriment). A grab-bag of ideologies thrown together is obviously a
-perfect example of [fascism](2020/07/right-acting-left.md#fascism).
+perfect example of [fascism](../../2020/07/right-acting-left.md#fascism).
 
 If more and more admins to follow emphasized the fairy tales less and
 less in this manner, gradually it would help alleviate the
