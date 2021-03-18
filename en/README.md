@@ -11,7 +11,7 @@ Reuters: Germany and Canada agreed on Tuesday to explore the joint development o
 "@jonty
 
 Out of curiosity I dug into how NFT's actually reference the media
-you're "buying" and my eyebrows are now orbiting the moon
+you're 'buying' and my eyebrows are now orbiting the moon
 
 Short version:
 
