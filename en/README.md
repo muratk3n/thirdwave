@@ -44,8 +44,7 @@ suspend intellectual property rights"
 ---
 
 More teachers.. better teachers..? When horse carrieges gave way to
-cars, 'better' or 'more' horses talk became moot. Tech will cause
-drastic change.
+cars, 'better' or 'more' horses talk became moot. 
 
 ---
 
@@ -68,6 +67,10 @@ out, and call the superpower for help (as they should).
 
 CH doesnt have to play this game. Work on yiour pluralism,
 democracy. 
+
+---
+
+"US warns China it will enforce sanctions on Iran oil shipments"
 
 ---
 
