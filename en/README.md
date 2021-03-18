@@ -48,7 +48,7 @@ cars, 'better' or 'more' horses talk became moot.
 
 ---
 
-Developed an appreciation for French press coffee.. When I started
+Developing a new appreciation for French press coffee.. When I started
 drinking more java at home but didnt want an whole hunking coffee
 machine. FP did the job with acceptable quality and cheap equipment.
 
