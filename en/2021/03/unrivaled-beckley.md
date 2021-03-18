@@ -17,10 +17,10 @@ the 1960s the two Communist powers were literally at war with each
 other, and in the 1970s China officially switched sides and aligned
 with the United States.
 
-Today, many Russian and Chinese strategists warn their respective gov-
-ernments not to place too much faith in a sustainable partnership.
+Today, many Russian and Chinese strategists warn their respective
+governments not to place too much faith in a sustainable partnership.
 Foreign analysts come to similar conclusions. As one study explains:
-“[Sino- Russian] cooperationp is limited to areas where their interests
+“[Sino-Russian] cooperationp is limited to areas where their interests
 already overlap, like bolstering trade. In the parts of the world that
 matter most to them, Russia and China are more rivals than allies.”
 
@@ -30,7 +30,7 @@ China, but it recently reduced sales to China while increasing sales
 to China’s rivals, most notably India and Vietnam. Russia and China
 conduct joint military exercises, but they also train with each
 other’s enemies and conduct unilateral exercises simulating a
-Sino-Russian war. The two countries share an interest in devel- oping
+Sino-Russian war. The two countries share an interest in developing
 Central Asia, but Russia wants to tether the region to Moscow via the
 Eurasian Economic Union whereas China wants to reconstitute the Silk
 Road and link China to the Middle East and Europe while bypassing
