@@ -1,4 +1,4 @@
-# Right Acting Left
+# Right Acting Left, Fascism
 
 Right can adapt left politics too, but they do not refer to it
 excessively. Did this happen in history before? Yes. By a party who
@@ -72,21 +72,20 @@ beaten down, economy in ruins, in a terrible state. You can't be like
 Camacho. Fascist then first says **let me help you brother**. Much
 later it's like let's kill some people over there.
 
-<a name='tmp1'/>
+<a name='fascism'/>
 
-I am starting to understand these motherruckers little
-better.. Fascist is the "whatever it takes" guy basically... His
-people are beaten down and he wants to do *whatever it takes* to
-help. He'll take from left, he'll take from right. Whatever. The
-problem is he sees himself as "firefighting" he'll mostly be dealing
-with symptoms rather than causes. You are being laid off, he tells the
-employer not to lay off, disregarding economic machinery. The
-country's culture is getting out of kilter, foreigners have not
-assimilated properly, instead of thinking better inclusion policy, he
-might say "let's just kill them". He is fixing the problem, u see, or
-rather its outward component, "doing whatever it takes" (while
-actually creating bigger problems).  He's turned into locust from a
-mere grasshopper. Desparation did that to him.
+Fascist is the "whatever it takes" guy basically... His people are
+beaten down and he wants to do *whatever it takes* to help. He'll take
+from left, he'll take from right. Anything goes. The problem is he
+sees himself as "firefighting" he'll mostly be dealing with symptoms
+rather than causes. You are being laid off, he tells the employer not
+to lay off, disregarding economic machinery. The country's culture is
+getting out of kilter, foreigners have not assimilated properly,
+instead of thinking better inclusion policy, he might say "let's just
+kill them". He is fixing the problem, u see, or rather its outward
+component, "doing whatever it takes" (while actually creating bigger
+problems).  He's turned into locust from a mere
+grasshopper. Desparation did that to him.
 
 This partly explains his authoritarinism, since the fascist is trying
 to *whatever it takes* to help, anyone who is objecting would be
@@ -95,22 +94,44 @@ doing everything I can to help people". It's too personal you see,
 instead of deciding on a general approach, selling it and executing it
 once in power, he is "helping", right now, doing "whatever it takes".
 
+In TR during the single-party rule and staunch nationalism one of its
+governors was known to have said "if communism was necessary for this
+country, we would surely import it". Sounds like a joke and it is told
+as such, but the guy was dead serious. There you go, nationalist
+talking about utilizing communism.. Or in China today, they are
+communists, but imported capitalism, and happily using it. Italian
+fascists created the social security system of the country.
 
+That's why TR parties, coalitions are cesspools of proto-fascim, bunch
+of stuff thrown in some container *beforehand*, from get-go, either
+after coups, or in "parties" that live in the aftermath of those
+coups. Take 4 views, throw them in, done. Of course it is impossible
+to maintain incompatibilities for an extended period of time, that's
+where fascism comes in.
 
+A by-product of the approach is whatever the mix happens to be,
+anything that is left out, is immediately deligitimized. This can be
+the left, sometimes the right (and almost always Kurds), but there is
+always the legitimate mix and "others".
 
+Which and how the ideological parts get included can be completely
+arbitrary, the mix is all in the mind of the fascist.
 
+The leaders of these parties, coalitions are effective schizophrenics,
+mental patients of DID (dissociative identity disorder). This is not
+surprising bcz the poor asshole has to maintain all that crud in a
+singular head. So one day he'll talk about his "pure race from the
+steppes of Central Asia", the next socialism-level state intervention,
+the one after that neoliberal market action. The followers clap
+nevertheless, too braindead to realize something is off, but sadly for
+the country, its media also suffer from the same condition who
+mistake this show for politics.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Intensely opposing ideologies cannot be held together under one roof
+in anything other than fascism.. A whatever-it-takes attitude usually
+accompanies the approach, 4 whatever reason said country falls into a
+state-of-emergency mentality from which they never emerge, so they
+keep on living in an hand-to-mouth existence, "I'll take from here,
+I'll take from there, whatever-it-takes, ends-justify-the-means", and
+on it goes..
 

@@ -90,7 +90,8 @@ also back in vogue. So now the identity became both secular and
 religious, Kemalist and Ottomanist (Kemal was a staunch
 anti-royalist), right and left, anything under the sun (I guess except
 Kurds, who stayed away from this crooked identity en masse, to their
-detriment).
+detriment). A grab-bag of ideologies thrown together is obviously a
+perfect example of [fascism](2020/07/right-acting-left.md#fascism).
 
 <a name='whyfix'/>
 
