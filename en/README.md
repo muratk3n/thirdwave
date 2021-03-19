@@ -4,7 +4,7 @@
 
 ---
 
-"CNBC: Hydrogen is currently the only solution to decarbonize some
+CNBC: "Hydrogen is currently the only solution to decarbonize some
 industries, RWE exec says"
 
 [Link](https://www.cnbc.com/amp/2021/03/16/hydrogen-only-current-solution-to-decarbonize-some-industries-exec-says.html)
