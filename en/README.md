@@ -93,10 +93,7 @@ print (df[['Country']])
 42              Turkey
 ```
 
-TR is just f-ing drownin.. If G20 was reorganized using GII, my peeps
-would be kicked out of it.
-
-NE, not bad. 
+TR is just f-ing drownin.. NE, not bad. 
 
 ---
 
