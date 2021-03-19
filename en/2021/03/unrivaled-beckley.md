@@ -2,7 +2,7 @@
 
 Michael Beckley
 
-<a nmae='chru'/>
+<a name='chru'/>
 
 Russia - China
 
@@ -38,3 +38,20 @@ Russia. Collectively, these conflicting interests have placed Russia
 and China “on a trajectory toward intensifying competition from latent
 to emergent rivalry.”
 
+<a name='chnk'/>
+
+North Korea - China
+
+North Korea is a formal ally of China, but China stations three Group
+Armies (roughly 150,000 troops) and a border defense brigade near
+their 880-mile shared border. 136 China maintains twenty-four-hour
+video and aerial drone surveillance of the border, has built bunkers
+there to protect Chinese forces against nuclear and chemical blasts,
+and has surged addi- tional units to the border on several recent
+occasions, including in 2010 when North Korea shelled South Korea’s
+Yeonpyeong Island; in 2013 after the purge of Jang Song Thaek, a
+high-ranking North Korean offi cial and uncle of North Korea’s leader
+Kim Jong Un; in August 2015 after an out- break of hostilities between
+North and South Korea in the Korean demilita- rized zone; and in 2017
+when North Korea and the United States threatened each other with
+nuclear annihilation.
