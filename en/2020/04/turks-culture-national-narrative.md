@@ -85,7 +85,7 @@ Sun-Language-Theory after the Sun has set?".
 <a name='add1'/>
 
 To top if off, TR identity went through some incarnations that highly
-reduced its usefulness. As it was constructed, as delusional its root
+reduced its usefulness. As it was constructed, as delusional its roots
 might have been, it was imagined to be a secular identity. That was
 the other reason for "the Turk" to come "from outside", "Central
 Asia", meaning outside the realm of Islam. In fact many of the
