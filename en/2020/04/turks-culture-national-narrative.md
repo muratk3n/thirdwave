@@ -84,26 +84,25 @@ Sun-Language-Theory after the Sun has set?".
 
 <a name='add1'/>
 
-To top if off, TR identity went through some incarnations that turned
-it defunct. As it was constructed, as delusional it might have been,
-it was imagined to be a secular identity. That was the other reason
-for "the Turk" to come "from outside", "Central Asia", meaning outside
-the realm of Islam. In fact many of the Turkists performed "research"
-that found that Turk to be followers of shamanistic religions, living
-as one with nature etc. In some ways they found what they wanted to
-find, a non-Islamic Turk.
+To top if off, TR identity went through some incarnations that highly
+reduced its usefulness. As it was constructed, as delusional its root
+might have been, it was imagined to be a secular identity. That was
+the other reason for "the Turk" to come "from outside", "Central
+Asia", meaning outside the realm of Islam. In fact many of the
+Turkists performed "research" that found that Turk to be followers of
+shamanistic religions, living as one with nature etc. In some ways
+they found what they wanted to find, a non-Islamic Turk.
 
 But later, after the many political upheavals, coups in the country,
-and finally after the final 1980 fascist coup (which was also trying
-to ingratiate itself into the 'green belt' strategy against the
-"Godless" Soviets) changed the identity to be religious as
-well. Ottomans were also back in vogue. So now the identity became
-both secular and religious, Kemalist and Ottomanist (quite ironic
-since Kemal was a staunch anti-royalist), right and left, anything
-under the sun, except Kurds, who stayed away from this crooked
-identity en masse (to their detriment). A grab-bag of ideologies
-thrown together is obviously a perfect example of
-[fascism](../../2020/07/right-acting-left.md#fascism).
+and finally after the final 1980 fascist coup which was also trying to
+ingratiate itself into the 'green belt' strategy against the "Godless"
+Soviets changed the identity to be religious as well. Ottomans were
+also back in vogue. So now the identity became both secular and
+religious, Kemalist and Ottomanist (quite ironic since Kemal was a
+staunch anti-royalist), a weird potpourri of ideologies, except space
+for Kurds, who stayed away from this crooked identity en masse, to
+their detriment. A grab-bag of ideologies thrown together is obviously
+a perfect example of [fascism](../../2020/07/right-acting-left.md#fascism).
 
 If more and more admins to follow emphasized the fairy tales less and
 less, gradually it would help alleviate the bizarreness. The problem
