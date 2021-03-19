@@ -17,11 +17,11 @@ industries, RWE exec says"
 
 ---
 
-I've come across some weird storage methods myself.. eg "pumped
-hydro". They just lift up bunch of water, thats it. Water's "potential
-energy" is stored, to take back energy, just allow it to go down.  Not
-bad, but just like the Li-on batteries, it is a circus monkey. Too
-specialized, doing only one thing.
+There r some weird storage methods .. eg "pumped hydro". They just
+lift up bunch of water, thats it. Water's "potential energy" is
+stored, to take back energy, just allow it to go down.  Not bad, but
+just like the Li-on batteries, it is a circus monkey. Too specialized,
+doing only one thing.
 
 ---
 
