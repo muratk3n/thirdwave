@@ -47,7 +47,7 @@ propaganda tool.
 
 ---
 
-Some components of GII, interesting.. 
+Some components of GII.. 
 
 ```python
 df.columns
