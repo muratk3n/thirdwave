@@ -94,7 +94,7 @@ print (df[['Country']])
 42              Turkey
 ```
 
-TR is just f-ing drownin.. NE, not bad. 
+TR is just f-ing drownin.. NL, not bad. 
 
 ---
 
