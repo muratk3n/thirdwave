@@ -72,12 +72,13 @@ Index(['index', 'Country', 'GII', ' Innovation Efficiency Ratio',
 
 Just found out about [Global Innovation Index](https://www.wipo.int/global_innovation_index/en/2020/). 
 
-Someone shared its data [here](https://github.com/avinzons/GIIDataViz/)
+Someone shared its data [at](https://github.com/avinzons/GIIDataViz/), local
+version [here](tweets/2021/GII-2021.csv).
 
 ```python
 import pandas as pd
 
-df = pd.read_csv('Country-Data2.csv')
+df = pd.read_csv('GII-2021.csv')
 df = df.rename(columns={' Global Innovation Index':'GII', 'Unnamed: 0': 'Country'})
 df = df.sort_values('GII',ascending=False)
 df = df.reset_index()
