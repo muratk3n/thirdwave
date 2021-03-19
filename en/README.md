@@ -1,106 +1,102 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TECO2030?src=hash&amp;ref_src=twsrc%5Etfw">#TECO2030</a> sets plan to establish Norway&#39;s first large-scale production of <a href="https://twitter.com/hashtag/hydrogenfuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenfuelcells</a>. <a href="https://t.co/qmIGegVhue">https://t.co/qmIGegVhue</a><a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1372250431825571849?ref_src=twsrc%5Etfw">March 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: I saved this one up for the US morning, because it’s a big &quot;good Covid news&quot; moment for our friends across the Atlantic<br><br>A &quot;vaccine effect&quot; is now clear in US data, with hospitalisations falling faster among the old (mostly vaccinated) than the young <a href="https://t.co/3qZYpUGClA">https://t.co/3qZYpUGClA</a> <a href="https://t.co/JOfIMbR85t">pic.twitter.com/JOfIMbR85t</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1372540703188860940?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Reuters: Germany and Canada agreed on Tuesday to explore the joint development of green hydrogen from Canadian hydroelectric power for export to Germany.
+"CNBC: Hydrogen is currently the only solution to decarbonize some
+industries, RWE exec says"
+
+[Link](https://www.cnbc.com/amp/2021/03/16/hydrogen-only-current-solution-to-decarbonize-some-industries-exec-says.html)
 
 ---
 
-"@jonty
+[What of it?](2021/03/unrivaled-beckley.md#chru)
 
-Out of curiosity I dug into how NFT's actually reference the media
-you're 'buying' and my eyebrows are now orbiting the moon
-
-Short version:
-
-The NFT token you bought either points to a URL on the internet, or an
-IPFS hash. In most circumstances it references an IPFS gateway on the
-internet run by the startup you bought the NFT from"
-
-[Link](https://twitter.com/jonty/status/1372163423446917122)
+"But what of the China-Russia alliance?"
 
 ---
 
-Yea.. that sounded like a potential future change in the filibuster
-rules \#ABC
+I've come across some weird storage methods myself.. eg "pumped
+hydro". They just lift up bunch of water, thats it. Water's "potential
+energy" is stored, to take back energy, just allow it to go down.  Not
+bad, but just like the Li-on batteries, it is a circus monkey. Too
+specialized, doing only one thing.
 
 ---
 
-Vice: "A surveillance contractor ... is advertising a product that it
-says can locate the real-time locations of specific cars in nearly any
-country on Earth."
+"@FORESIGHTdk
 
-[Link](https://www.vice.com/en/article/k7adn9/car-location-data-telematics-us-military-ulysses-group)
-
----
-
-"@nickgutteridge
-
-Von der Leyen says the EU could seize production of vaccines and
-suspend intellectual property rights"
+While there are electronic, mechanical, kinetic, and other creative
+methods to store power, chemical #storage has the greatest propensity
+for widespread use, says @ReshefRami, CEO at Israeli fuel cell
+manufacturer @gencellenergy"
 
 ---
 
-More teachers.. better teachers..? When horse carrieges gave way to
-cars, 'better' or 'more' horses talk became moot. 
+Light Through The Veins (Tom Middleton Remix) \#music
+
+[Link](https://youtu.be/eo99GxHgseY?t=202)
 
 ---
 
-Developing a new appreciation for French press coffee.. When I started
-drinking more java at home but didnt want an whole hunking coffee
-machine. FP did the job with acceptable quality and cheap equipment.
+Anti-lessons from TR; keep national narrative / identity as simple as
+possible, dont overload it with [political preferences](2020/04/turks-culture-national-narrative.md#add1).
+Imbuing political choices on identity can turn it into a fascist
+propaganda tool.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to win friends &amp; influence people, China edition. <a href="https://t.co/nk5CUeUloJ">https://t.co/nk5CUeUloJ</a></p>&mdash; Tanvi Madan (@tanvi_madan) <a href="https://twitter.com/tanvi_madan/status/1372309749790871554?ref_src=twsrc%5Etfw">March 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Some components of GII, interesting.. 
+
+```python
+df.columns
+```
+
+```text
+Out[1]: 
+Index(['index', 'Country', 'GII', ' Innovation Efficiency Ratio',
+       ' Innovation Input Sub-index', ' Innovation Output Sub-index',
+       'Institutions(ranking)', 'Human capital and research(ranking)',
+       'Infrastructure(ranking)', 'Market sophistication(ranking)',
+       'Business sophistication(ranking)',
+       'Knowledge and technology outputs(ranking)', 'Creative outputs',
+       'Institutions(value)', 'Human capital and research(value)',
+       'Infrastructure(value)', 'Market sophistication(value)',
+       'Business sophistication(value)',
+       'Knowledge and technology outputs(value)', 'Creative outputs(value)'],
+      dtype='object')
+```
 
 ---
 
-US support for China since the 70s might have another logic in it 🤔
-besides containing Russia. Lets say u are US, and want to be included
-in a region. Which country would you support in that region?  Answer:
-the one that is surrounded by 19 countries who are hostile to it. Then
-once that country gets stronger, everyone in the region will freak
-out, and call the superpower for help (as they should). 
+Just found out about [Global Innovation Index](https://www.wipo.int/global_innovation_index/en/2020/). 
 
-CH doesnt have to play this game. Work on your pluralism,
-democracy. 
+Someone shared its data [here](https://github.com/avinzons/GIIDataViz/)
 
----
+```python
+import pandas as pd
 
-Beckley: "China may have the world’s biggest economy and military, but
-it also leads the world in debt; resource consumption; pollution;
-useless infrastructure and wasted industrial capacity; scientific
-fraud; internal security spending; border disputes... China also uses
-seven times the input to generate a given level of economic output as
-the United States and is surrounded by nineteen countries, most of
-which are hostile toward China, politically unstable, or both"
+df = pd.read_csv('Country-Data2.csv')
+df = df.rename(columns={' Global Innovation Index':'GII', 'Unnamed: 0': 'Country'})
+df = df.sort_values('GII',ascending=False)
+df = df.reset_index()
+df = df[df.Country.isin(['United States', 'Korea, Republic of', 'Netherlands', 'Turkey'])]
+print (df[['Country']])
+```
 
----
+```text
+               Country
+2          Netherlands
+3        United States
+10  Korea, Republic of
+42              Turkey
+```
 
-"US warns China it will enforce sanctions on Iran oil shipments"
+TR is just f-ing drownin.. If G20 was reorganized using GII, my peeps
+would be kicked out of it.
 
----
-
-"Oh but there is a formula for vaccs?" Same for Coca-Cola. Arent there
-urban legends around that? "Bro it's sooo secret, it is kept at
-[insert weird vault locale]"
-
----
-
-Vaccine shortages in so many countries. Unbelievable..
-
-Coca-Cola can shit out its shit product to the tune of 1 billion A
-DAY, but we cant make potentially life saving drug for everyone fast
-enough? And this is after *a year* has passed. Good to see capitalism
-has its priorities straight.. Sugared water vs life saving
-drug. Mmmm... "I'll go with sugared water".
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> buses are excellent, here in <a href="https://twitter.com/hashtag/Aberdeen?src=hash&amp;ref_src=twsrc%5Etfw">#Aberdeen</a> we have years of experience with them and are thrilled with the news that they will be more common place across the UK<a href="https://t.co/CL1RJs6fNp">https://t.co/CL1RJs6fNp</a> <a href="https://twitter.com/Fuelcellbus?ref_src=twsrc%5Etfw">@Fuelcellbus</a> <a href="https://twitter.com/fch_ju?ref_src=twsrc%5Etfw">@fch_ju</a> <a href="https://twitter.com/hashtag/sustainabletransport?src=hash&amp;ref_src=twsrc%5Etfw">#sustainabletransport</a></p>&mdash; H2Aberdeen (@H2Aberdeen) <a href="https://twitter.com/H2Aberdeen/status/1371844536985587716?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+NE, not bad. 
 
 ---
 
