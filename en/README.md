@@ -1,11 +1,5 @@
 # Tweets
 
-I have to admit the extent that natural scientists took so much base
-info as granted and built sandcastles upon sand was surprising. I
-thought its practitioners would be wiser.
-
----
-
 Jeans: "Mathematical analysis shows that if the centre of a star is
 either liquid, or partially so, there is no danger of collapse; the
 liquid center provides so firm a basis for the star, as to render the
