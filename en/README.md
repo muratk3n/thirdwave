@@ -22,7 +22,7 @@ too many holes (!).
 Gases cannot act like blackbodies. Now take the next natural step and
 admit stars are made up of solids.
 
-Is cosmology science? Effin Astrology has better science than you bro
+Is cosmology science? Effin Astrology has better science than you
 
 "Stars (which are dense balls of hot gas) also behave like blackbodies"
 
