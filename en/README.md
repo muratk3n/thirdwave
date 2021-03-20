@@ -77,12 +77,10 @@ or decrease for country X?
 
 I am pretty sure if there was a Greece-TR war, GR could manage to
 tie.. In every metric I look at, innovation, GII, military hardware,
-two countries are close. GDP/PerCap little diff, but they are in the
-same class which is decidedly lightweight.
-
-The sameness on so many fronts is another indication of ppl culture,
-and gov similarities, and that Anatolians belong to where they live,
-are not bunch of ragged punks from .. whereever. 
+two countries are close. GDP/PerCap is in the same class basically
+which is decidedly lightweight. Sameness on many fronts is another
+indication of ppl / gov similarities, and that Anatolians belong to
+where they live, not bunch of ragged punks from whereever.
 
 ---
 
