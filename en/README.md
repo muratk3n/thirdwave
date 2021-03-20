@@ -8,14 +8,13 @@
 import pandas as pd
 pd.set_option('display.max_columns', None)
 df = pd.read_csv('gfp-2021.csv')
-df = df[df.country.isin(['USA','Russia','China'])]
+df = df[df.country.isin(['USA','Russia'])]
 print (df['Submarines'])
 ```
 
 ```text
 0     68.0
 46    64.0
-49    79.0
 Name: Submarines, dtype: float64
 ```
 
