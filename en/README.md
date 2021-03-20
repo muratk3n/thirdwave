@@ -70,7 +70,7 @@ did 2017, both versions are below in CSV format
 [2017](tweets/2021/gfp-2017.csv)
 [2021](tweets/2021/gfp-2021.csv)
 
-Comparing both years cld be interesting. Did military budgets increase
+Comparing both years cld be interesting. Did military budget increase
 or decrease for country X?
 
 ---
