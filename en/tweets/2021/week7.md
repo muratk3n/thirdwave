@@ -713,8 +713,8 @@ Atlantic and the Pacific [do not mix](https://thumbs.gfycat.com/FlawedEuphoricIn
 ---
 
 I was told during their conflict, RU media played [this
-video](https://i.imgur.com/1RBuOEV.gif?1) on a loop. That's
-Shakasvili, the then GE president
+video](https://drive.google.com/uc?export=view&id=1tvtyxTs6BH91gGWhlcnbGhiOeD1XsTrH)
+on a loop. That's Saakashvili, the then GE president
 
 ---
 
