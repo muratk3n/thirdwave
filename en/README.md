@@ -80,7 +80,7 @@ tie.. In every metric I look at, innovation, GII, military hardware,
 two countries are close. GDP/PerCap is in the same class basically
 which is decidedly lightweight. Sameness on many fronts is another
 indication of ppl / gov similarities, and that Anatolians culturally
-belong to where they live, not bunch of ragged punks from whereever.
+belong to where they live, are not "migrants".
 
 ---
 
