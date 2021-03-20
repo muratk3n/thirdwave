@@ -41,6 +41,12 @@ Cutting Machines They Already Own http://dlvr.it/RvgrQ3'"
 
 ---
 
+'Scraping' means having a program visit a page and take its raw data,
+leaving behind the visual elements.. so it's like scraping paint off a
+wall.
+
+---
+
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
