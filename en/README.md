@@ -50,15 +50,15 @@ wall.
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
-df = pd.read_csv('gfp-2021.csv')
+df = pd.read_csv('tweets/2021/gfp-2021.csv')
 df = df[df.country.isin(['USA','Russia'])]
-print (df['Submarines'])
+print (df[['country','Submarines']])
 ```
 
 ```text
-0     68.0
-46    64.0
-Name: Submarines, dtype: float64
+   country  Submarines
+0      USA        68.0
+46  Russia        64.0
 ```
 
 ---
