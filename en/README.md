@@ -1,6 +1,49 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i literally expect to wake up one day and my nest thermostat is going to hold me hostage for a $10/month subscription, we live in the worst timeline</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1372704177147805696?ref_src=twsrc%5Etfw">March 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I have to admit the extent that natural scientists took so much base
+info as granted and built sandcastles upon sand was surprising. I
+thought its practitioners would be wiser.
+
+---
+
+Jeans: "Mathematical analysis shows that if the centre of a star is
+either liquid, or partially so, there is no danger of collapse; the
+liquid center provides so firm a basis for the star, as to render the
+collapse impossible".
+
+---
+
+The radiation part of that story is crooked to begin with. In terms of
+condensed matter, which is more likely for stars, they
+[cannot collapse](https://youtu.be/cHGT0DgvhNM?t=79) on themselves,
+James Jeans admitted this, in 1933 (see vid). Black hole theory has
+too many holes (!).
+
+"When old star die their core collapses forming black holes"
+
+[Link](https://youtu.be/ZPI9Fa-FXqM?t=653)
+
+---
+
+Gases cannot act like blackbodies. Now take the next natural step and
+admit stars are made up of solids.
+
+Is cosmology science? Effin Astrology has better science than you bro
+
+"Stars (which are dense balls of hot gas) also behave like blackbodies"
+
+[Link](https://faculty.virginia.edu/skrutskie/ASTR1210/notes/bb/bb.html)
+
+---
+
+"@internetofshit
+
+i literally expect to wake up one day and my nest thermostat is going
+to hold me hostage for a $10/month subscription, we live in the worst
+timeline
+
+'@Gizmodo Cricut Now Wants Users to Pay Extra for Unlimited Use of the
+Cutting Machines They Already Own http://dlvr.it/RvgrQ3'"
 
 ---
 
@@ -41,42 +84,6 @@ lightweight.
 The sameness on so many fronts is another indication of ppl culture,
 and gov similarities, and that Anatolians belong to where they live,
 are not bunch of ragged punks from .. whereever. 
-
----
-
-I have to admit the extent that natural scientists took so much base
-info as granted and built sandcastles upon sand was surprising. I
-thought its practitioners would be wiser.
-
----
-
-Jeans: "Mathematical analysis shows that if the centre of a star is
-either liquid, or partially so, there is no danger of collapse; the
-liquid center provides so firm a basis for the star, as to render the
-collapse impossible".
-
----
-
-The radiation part of that story is crooked to begin with. In terms of
-condensed matter, which is more likely for stars, they
-[cannot collapse](https://youtu.be/cHGT0DgvhNM?t=79) on themselves,
-James Jeans admitted this, in 1933 (see vid). Black hole theory has
-too many holes (!).
-
-"When old star die their core collapses forming black holes"
-
-[Link](https://youtu.be/ZPI9Fa-FXqM?t=653)
-
----
-
-Gases cannot act like blackbodies. Now take the next natural step and
-admit stars are made up of solids.
-
-Is cosmology science? Effin Astrology has better science than you bro
-
-"Stars (which are dense balls of hot gas) also behave like blackbodies"
-
-[Link](https://faculty.virginia.edu/skrutskie/ASTR1210/notes/bb/bb.html)
 
 ---
 
