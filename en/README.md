@@ -79,8 +79,8 @@ I am pretty sure if there was a Greece-TR war, GR could manage to
 tie.. In every metric I look at, innovation, GII, military hardware,
 two countries are close. GDP/PerCap is in the same class basically
 which is decidedly lightweight. Sameness on many fronts is another
-indication of ppl / gov similarities, and that Anatolians belong to
-where they live, not bunch of ragged punks from whereever.
+indication of ppl / gov similarities, and that Anatolians culturally
+belong to where they live, not bunch of ragged punks from whereever.
 
 ---
 
