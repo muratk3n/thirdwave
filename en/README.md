@@ -42,8 +42,7 @@ Cutting Machines They Already Own http://dlvr.it/RvgrQ3'"
 ---
 
 'Scraping' means having a program visit a page and take its raw data,
-leaving behind the visual elements.. so it's like scraping paint off a
-wall.
+leaving behind the visual elements.. like scraping paint off a wall.
 
 ---
 
