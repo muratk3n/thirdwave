@@ -65,7 +65,7 @@ did 2017, both versions are below in CSV format
 [2021](tweets/2021/gfp-2021.csv)
 
 Comparing both years cld be interesting. Did military budgets increase
-or decrease within 3 yrs, for country X?
+or decrease for country X?
 
 ---
 
