@@ -37,7 +37,7 @@ to hold me hostage for a $10/month subscription, we live in the worst
 timeline
 
 '@Gizmodo Cricut Now Wants Users to Pay Extra for Unlimited Use of the
-Cutting Machines They Already Own http://dlvr.it/RvgrQ3'"
+Cutting Machines They Already Own'"
 
 ---
 
