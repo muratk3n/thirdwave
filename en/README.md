@@ -62,8 +62,8 @@ shadow to happen),
 
 Then he estimates angle $\varphi$, around 87 deg (point to one, then
 swing arm to the other, angle covered is $\varphi$). Now u got your
-right angle triangle, can do basic trig; What is S/L? Reverse of cosine,
-$1/\cos(\varphi)$ 
+right angle triangle, rest is basic trig, reverse of cos,
+$1/\cos(\varphi)$
 
 ```python
 "%0.2f" % (1./np.cos(np.deg2rad(87)))
