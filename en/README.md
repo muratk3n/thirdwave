@@ -48,8 +48,7 @@ trained actor, has that posh accent, probably watches those artsy
 movies all the time.. But the guy isnt like that.. He likes action. He
 watches Schwarzenegger movies. He said so in an interview. So u
 thought something abt the guy, but he was something else. He clearly
-likes the genre, he keeps playing roles in them! Viewers of such
-movies wld know.
+likes the genre, he keeps playing roles in them! 
 
 ---
 
@@ -61,9 +60,10 @@ shadow to happen),
 
 <img width="340" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/AristarchusHalfLitMoon2.png"/>
 
-The angle $\varphi$ he estimates around 87 deg (point to one, then
+Then he estimates angle $\varphi$, around 87 deg (point to one, then
 swing arm to the other, angle covered is $\varphi$). Now u got your
-right angle triangle, can do basic trig; What is S/L?
+right angle triangle, can do basic trig; What is S/L? Reverse of cosine,
+$1/\cos(\varphi)$ 
 
 ```python
 "%0.2f" % (1./np.cos(np.deg2rad(87)))
