@@ -1,5 +1,119 @@
 # Week 11
 
+Jeans: "Mathematical analysis shows that if the centre of a star is
+either liquid, or partially so, there is no danger of collapse; the
+liquid center provides so firm a basis for the star, as to render the
+collapse impossible".
+
+---
+
+The radiation part of that story is crooked to begin with. In terms of
+condensed matter, which is more likely for stars, they
+[cannot collapse](https://youtu.be/cHGT0DgvhNM?t=79) on themselves,
+James Jeans admitted this, in 1933 (see vid). Black hole theory has
+too many holes (!).
+
+"When old star die their core collapses forming black holes"
+
+[Link](https://youtu.be/ZPI9Fa-FXqM?t=653)
+
+---
+
+Gases cannot act like blackbodies. Now take the next natural step and
+admit stars are made up of solids.
+
+Is cosmology science? Effin Astrology has better science than you
+
+"Stars (which are dense balls of hot gas) also behave like blackbodies"
+
+[Link](https://faculty.virginia.edu/skrutskie/ASTR1210/notes/bb/bb.html)
+
+---
+
+"@internetofshit
+
+i literally expect to wake up one day and my nest thermostat is going
+to hold me hostage for a $10/month subscription, we live in the worst
+timeline
+
+'@Gizmodo Cricut Now Wants Users to Pay Extra for Unlimited Use of the
+Cutting Machines They Already Own'"
+
+---
+
+'Scraping' means having a program visit a page and take its raw data,
+leaving behind the visual elements.. like scraping paint off a wall.
+
+---
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+df = pd.read_csv('tweets/2021/gfp-2021.csv')
+df = df[df.country.isin(['USA','Russia'])]
+print (df[['country','Submarines']])
+```
+
+```text
+   country  Submarines
+0      USA        68.0
+46  Russia        64.0
+```
+
+---
+
+For military comparisons see [Global Firepower](https://www.globalfirepower.com/).
+I scraped their site, [someone else](https://github.com/prasertcbs/basic-dataset/tree/master/GlobalFirePower)
+did 2017, both versions are below in CSV format
+
+[2017](tweets/2021/gfp-2017.csv)
+[2021](tweets/2021/gfp-2021.csv)
+
+Comparing both years cld be interesting. Did military budget increase
+or decrease for country X?
+
+---
+
+I am pretty sure if there was a Greece-TR war, GR could manage to
+tie.. In every metric I look at, innovation, GII, military hardware,
+two countries are close. GDP/PerCap is in the same class basically
+which is decidedly lightweight. Sameness on many fronts is another
+indication of ppl / gov similarities, and that Anatolians culturally
+belong to where they live, are not "migrants".
+
+---
+
+The fact that Taiwan is a natural fortress makes u think, people live
+in these places and its probably for a good reason.. there is a
+natural selection of locales?
+
+---
+
+Falcon, WSold not bad.. Takes place after the 1/2 humanity
+disappearance was restored (another movie), and it looks like they are
+using that event as parallel to a post covid world, talks of
+restoration, etc. Show wasnt cuck, didnt use wormholes, time travel,
+multiverse, so far. Solid sci can give enough fi, see.
+
+---
+
+"@isaiah_bb
+
+Me watching The Lighthouse in 4:3: Haha fuck yeah!!! Yes!! 
+
+Me watching Snyder's Justice League in 4:3: Well this fucking sucks. What the fuck"
+
+---
+
+Snyder Cut JL, better than the prev version. Storylines make more
+sense. It is long tho.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The future has begun! 💧<a href="https://twitter.com/hashtag/MissionH24?src=hash&amp;ref_src=twsrc%5Etfw">#MissionH24</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://t.co/EZyI4cW732">pic.twitter.com/EZyI4cW732</a></p>&mdash; Mission H24 (@MissionH24) <a href="https://twitter.com/MissionH24/status/1372579434419658758?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: I saved this one up for the US morning, because it’s a big &quot;good Covid news&quot; moment for our friends across the Atlantic<br><br>A &quot;vaccine effect&quot; is now clear in US data, with hospitalisations falling faster among the old (mostly vaccinated) than the young <a href="https://t.co/3qZYpUGClA">https://t.co/3qZYpUGClA</a> <a href="https://t.co/JOfIMbR85t">pic.twitter.com/JOfIMbR85t</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1372540703188860940?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
