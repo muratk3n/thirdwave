@@ -28,7 +28,7 @@ Dang
 
 ---
 
-Privilege? They are no more privelege than Coca Cola is as a
+Privilege? They are no more privelege than Coca Cola as a
 drink. 
 
 "@ClaraDFMarques
