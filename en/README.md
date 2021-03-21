@@ -11,7 +11,7 @@ Beat.dowsing - Renegades \#music
 ---
 
 Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
-mültür yaratamaz. Türk diye bir şey yoktur.. Bunların hepsi uydurmaca.
+mültür yaratamaz. Bozkurbağa, bozdavar.. Bunların hepsi uydurmaca.
 Seni kandırıyorlar.
 
 ---
