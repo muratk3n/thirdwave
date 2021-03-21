@@ -73,7 +73,7 @@ $1/\cos(\varphi)$
 Out[1]: '19.11'
 ```
 
-The sun is roughtly 19 times further than the Moon.
+The sun is roughly 19 times further than the Moon.
 
 [Well done](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_(Aristarchus))
 Aristarchus
