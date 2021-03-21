@@ -52,7 +52,7 @@ likes the genre, he keeps playing roles in them!
 
 ---
 
-Measuring relative distance between Moon and the Sun, in ancient times.
+Calculating distance ratios for Moon and the Sun, ancient times.
 
 Dude waited until it was half moon, then he knows Earth-Moon-Sun are
 at right angle (light has to hit perfectly from one side for that half
