@@ -15,7 +15,8 @@ disco, Studio 54, I dig it, but some stuff got lost during the show..
 
 ---
 
-Extend rays like below, angle between two cities is 7.2
+Extend rays like below, implies angle between two cities is 7.2
+relative to Earth center
 
 <img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
 
