@@ -50,12 +50,6 @@ earlier.
 
 ---
 
-Doesnt look good, Focker
-
-"Peter Thiel Met With Racist Fringe While Backing Trump"
-
----
-
 Vacc dev was too slow. The delay gave time to the virus to
 mutate. Vacc clda been done in a month, two tops.
 
