@@ -10,12 +10,6 @@ Beat.dowsing - Renegades \#music
 
 ---
 
-Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
-mültür yaratamaz. Bozdavar, bozkurbağa, .. Bunların hepsi uydurmaca.
-Seni kandırıyorlar.
-
----
-
 Al Jazeera: "EU threatens to ban AstraZeneca exports if vaccines not
 delivered... EU chief says AstraZeneca could see its COVID vaccine
 exports blocked if it does not meet its contractual obligations"

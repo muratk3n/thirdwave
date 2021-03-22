@@ -55,6 +55,15 @@ mutate. Vacc clda been done in a month, two tops.
 
 ---
 
+Politico: "The Rocky Road to Bidencare — Fresh off securing the first
+major expansion of Obamacare since the law’s passage a decade ago,
+Democrats are dipping their toes into the next major health care
+fight...  The health care industry is already trying to kill it. A
+lobbying group backed by the industry is running state and national
+ads against the idea"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
