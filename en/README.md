@@ -49,7 +49,7 @@ degrees,
 
 ---
 
-B Johns net approval up to -3%. Major improvement over -25% 6 months
+B Johnson net approval up to -3%. Major improvement over -25% 6 months
 earlier.
 
 [Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
