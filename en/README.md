@@ -57,7 +57,7 @@ earlier.
 ---
 
 Vacc dev was too slow. The delay gave time to the virus to
-mutate. Vacc clda been done in a month, two tops.
+mutate. Clda been done in a month, two tops.
 
 ---
 
