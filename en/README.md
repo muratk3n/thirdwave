@@ -35,9 +35,15 @@ sticks, shadows, simple angle measurement. Ella re malaka
 
 ---
 
-Erotosthenes heard from someone, during summer solst., stick in Syene
-has no shadow, at noon. He tried it in Alexandria (little north) saw
-shadow. Measured angle, 7.2 degrees,
+Library as in the freaking Library of Alexandria
+
+---
+
+First approx calculation of Earth circumference, BC 200s. Oh
+yeah. Erotosthenes (scientists, head librarian) heard from someone,
+during summer solst., stick in Syene has no shadow, at noon. He tried
+it in Alexandria (little north) saw shadow. Measured angle, 7.2
+degrees,
 
 <img width="340" src="https://pbs.twimg.com/media/ExBiiH1WUAUaG6W?format=jpg&name=small"/>
 
