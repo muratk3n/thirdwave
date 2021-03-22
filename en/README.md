@@ -1,7 +1,7 @@
 # Tweets
 
-Lesson here for all teachers, dont dumb stuff down for the service of
-glitz.  Your jobs is to *demystify*, not creating a new level of
+Lesson here for all teachers, dont dumb stuff down for shinier
+delivery. Your jobs is to *demystify*, not creating a new level of
 mystery around your character, your props, or whatever.
 
 ---
