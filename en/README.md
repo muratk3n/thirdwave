@@ -1,88 +1,63 @@
 # Tweets
 
-Beat.dowsing - Renegades \#music
-
-[Link](https://youtu.be/Y-uyCcHJuFc)
-
----
-
-"U.S., India Vow to Deepen Defense Ties"
+Lesson here for all teachers, dont dumb stuff down for the service of
+glitz.  Your jobs is to *demystify*, not creating a new level of
+mystery around your character, your props, or whatever.
 
 ---
 
-Oolm Orta Asya'dan fırlamış üç beş tane götten bacaklı pezevenk kültür
-mültür yaratamaz. Bozdavar, bozkurbağa, .. Bunların hepsi uydurmaca.
-Seni kandırıyorlar.
+Carl Sagan had an [eduvid](https://youtu.be/G8cbIWMv0rI?t=333) on that
+too. Ok but some missing elements.. Lemme tell u what you did wrong here
+Carl, forgot to mention how stick angle translates to btw-city angle..
+
+He is really rockin that brown jacket with the turtleneck tho. Disco,
+I dig it, but some stuff got lost in the show..
 
 ---
 
-Al Jazeera: "EU threatens to ban AstraZeneca exports if vaccines not
-delivered... EU chief says AstraZeneca could see its COVID vaccine
-exports blocked if it does not meet its contractual obligations"
+Extend rays like below, angle between two cities is 7.2
 
----
+<img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
 
-Dang
-
-<img width="340" src="https://pbs.twimg.com/media/Ew6wXKaXMAIn0dE?format=jpg&name=small"/>
-
----
-
-Privilege? They are no more privelege than Coca Cola is a
-drink. 
-
-"@ClaraDFMarques
-
-Vaccines are a privilege that few have, so appreciate it"
-
----
-
-Insight (feat. Asheru) \#music
-
-[Link](https://youtu.be/8nTvzsnHnpk)
-
----
-
-What wld someone's first impression of Anthony Hopkins be? Classically
-trained actor, has that posh accent, probably watches those artsy
-movies all the time.. But the guy isnt like that.. He likes action. He
-watches Schwarzenegger movies. He said so in an interview. So u
-thought something abt the guy, but he was something else. He clearly
-likes the genre, he keeps playing roles in them! 
-
----
-
-Calculating distance ratios for Moon and the Sun, ancient times.
-
-Dude waited until it was half moon, then he knows Earth-Moon-Sun are
-at right angle (light has to hit perfectly from one side for that half
-shadow to happen),
-
-<img width="340" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/AristarchusHalfLitMoon2.png"/>
-
-Then he estimates angle $\varphi$, around 87 deg (point to one, then
-swing arm to the other, angle covered is $\varphi$). Now u got your
-right angle triangle, rest is basic trig, reverse of cos,
-$1/\cos(\varphi)$
+Btw city angle is 7.2 out of 360 deg. He had a guy walk btw cities,
+dist 5000 stadia = 800 km. Convert angle ratio to dist ratio,
 
 ```python
-"%0.2f" % (1./np.cos(np.deg2rad(87)))
+print ('%0.0f km' % (360/7.2 * 800))
 ```
 
 ```text
-Out[1]: '19.11'
+40000 km
 ```
 
-The sun is roughly 19 times further than the Moon.
-
-[Well done](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_(Aristarchus))
-Aristarchus
+This guy found a good approx for Earth circumference with f-ing
+sticks, shadows, simple angle measurement. Ella re malaka
 
 ---
 
-I dont like ragging on govs on vaccs, I know many are doing their
-best. But IMO we are stuck with some sucky infra, this cant be the
-setup we meet the next pandemic with.
+Erotosthenes heard from someone, during summer solst., stick in Syene
+has no shadow, at noon. He tried it in Alexandria (little north) saw
+shadow. Measured angle, 7.2 degrees,
+
+<img width="340" src="https://pbs.twimg.com/media/ExBiiH1WUAUaG6W?format=jpg&name=small"/>
+
+---
+
+B Johns net approval up to -3%. Major improvement over -25% 6 months
+earlier.
+
+[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
+
+---
+
+Doesnt look good, Focker
+
+"Peter Thiel Met With Racist Fringe While Backing Trump"
+
+---
+
+Vacc dev was too slow. The delay gave time to the virus to
+mutate. Vacc clda been done in a month, two tops.
 
 ---
 
