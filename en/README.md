@@ -10,8 +10,8 @@ Carl Sagan had an [eduvid](https://youtu.be/G8cbIWMv0rI?t=333) on that
 too. Not bad, but lemme tell u what you did wrong here Carl, forgot to
 mention how stick angle translates to btw-city angle..
 
-He is really rockin that brown jacket with the turtleneck tho. Disco,
-I dig it, but some stuff got lost in the show..
+He is really rockin that brown jacket with the turtleneck tho. Very
+disco, Studio 54, I dig it, but some stuff got lost during the show..
 
 ---
 
