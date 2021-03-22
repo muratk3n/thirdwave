@@ -21,7 +21,8 @@ relative to Earth center
 <img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
 
 Btw city angle is 7.2 out of 360 deg. He had a guy walk btw cities,
-dist 5000 stadia = 800 km. Convert angle ratio to dist ratio,
+dist 5000 stadia = 800 km. Using angle ratio equalness to
+circumference / city dist ratio,
 
 ```python
 print ('%0.0f km' % (360/7.2 * 800))
