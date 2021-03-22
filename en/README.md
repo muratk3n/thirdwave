@@ -11,7 +11,7 @@ too. Not bad, but lemme tell u what you did wrong here Carl, forgot to
 mention how stick angle translates to btw-city angle..
 
 He is really rockin that brown jacket with the turtleneck tho. Very
-disco, Studio 54, I dig it, but some stuff got lost during the show..
+disco, Studio 54, I dig it, but some stuff got lost during "the show".
 
 ---
 
