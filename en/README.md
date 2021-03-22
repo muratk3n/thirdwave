@@ -33,7 +33,8 @@ print ('%0.0f km' % (360/7.2 * 800))
 ```
 
 This guy found a good approx for Earth circumference with f-ing
-sticks, shadows, simple angle measurement. Ella re malaka
+sticks, shadows, simple angle measurement. Also an indirect debunking
+of flat Earth hypo. Ella re malaka
 
 ---
 
