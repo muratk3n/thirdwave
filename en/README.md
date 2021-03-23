@@ -36,7 +36,7 @@ Cohomology 😶
 
 ---
 
-Will Ferrell as Mustafa.. He gets thrown to the lava pit. 🤣 
+Will Ferrell as Mustafa.. He gets thrown into the lava pit. 🤣
 
 <iframe width="340" src="https://www.youtube.com/embed/htRHj3tyYyo?start=26&end=45" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
