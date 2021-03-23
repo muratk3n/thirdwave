@@ -68,9 +68,14 @@ Oh yea...
 
 ---
 
+Sure the Sun is hotter than lava, but not a million times hotter. It's
+only five times hotter.
+
+---
+
 Easy to intuit the Sun is liquid. What is the hottest natural thing we
 know on Earth? It is lava. And lava is liquid, it flows. We know
-this. So why do some readily accept the gaseous condition?
+this. So why do some so readily accept the gaseous hyphothsis?
 
 ---
 
