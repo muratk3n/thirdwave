@@ -4,9 +4,9 @@
 
 ---
 
-Resillience is part of good tech. Yes. Imagine having an electric
-rifle and the shit runs out of battery in the middle of a skirmish.
-That rifle then would not be high tech, it'd just be dumb tech.
+Resillience is part of good tech, yes. Imagine having an electric
+rifle and the shit runs out of battery in the middle of the battle..
+That rifle would not be high tech, it'd just be dumb tech.
 
 "French army chief of staff: 'We should therefore not get caught up in
 very high technology. Our weapon systems must always be relatively
