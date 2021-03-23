@@ -1,5 +1,78 @@
 # Week 12
 
+Lesson here for all teachers, dont dumb stuff down for shinier
+delivery. Your jobs is to *demystify*, not creating a new level of
+mystery around your character, your props, or whatever.
+
+---
+
+Carl Sagan had an [eduvid](https://youtu.be/G8cbIWMv0rI?t=333) on that
+too. Not bad, but lemme tell u what you did wrong here Carl, forgot to
+mention how stick angle translates to btw-city angle..
+
+He is really rockin that brown jacket with the turtleneck tho. Very
+disco, Studio 54, I dig it, but some stuff got lost during "the show".
+
+---
+
+Extend rays like below, implies angle between two cities is 7.2
+relative to Earth center
+
+<img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
+
+Btw city angle is 7.2 out of 360 deg. He had a guy walk btw cities,
+dist 5000 stadia = 800 km. Using angle ratio equalness to
+circumference / city dist ratio,
+
+```python
+print ('%0.0f km' % (360/7.2 * 800))
+```
+
+```text
+40000 km
+```
+
+This guy found a good approx for Earth circumference with f-ing
+sticks, shadows, simple angle measurement, plus indirectly
+debunked flat Earth hypo. Ella re malaka
+
+---
+
+Library as in the freaking Library of Alexandria
+
+---
+
+First approx calculation of Earth circumference, BC 200s. Oh
+yeah. Erotosthenes (scientists, head librarian) heard from someone,
+during summer solst., stick in Syene has no shadow, at noon. He tried
+it in Alexandria (little north) saw shadow. Measured angle, 7.2
+degrees,
+
+<img width="340" src="https://pbs.twimg.com/media/ExBiiH1WUAUaG6W?format=jpg&name=small"/>
+
+---
+
+B Johnson net approval up to -3%. Major improvement over -25% 6 months
+earlier.
+
+[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
+
+---
+
+Vacc dev was too slow. The delay gave time to the virus to
+mutate. Clda been done in a month, two tops.
+
+---
+
+Politico: "The Rocky Road to Bidencare — Fresh off securing the first
+major expansion of Obamacare since the law’s passage a decade ago,
+Democrats are dipping their toes into the next major health care
+fight...  The health care industry is already trying to kill it. A
+lobbying group backed by the industry is running state and national
+ads against the idea"
+
+---
+
 Beat.dowsing - Renegades \#music
 
 [Link](https://youtu.be/Y-uyCcHJuFc)

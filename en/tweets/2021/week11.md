@@ -49,7 +49,7 @@ leaving behind the visual elements.. like scraping paint off a wall.
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
-df = pd.read_csv('tweets/2021/gfp-2021.csv')
+df = pd.read_csv('gfp-2021.csv')
 df = df[df.country.isin(['USA','Russia'])]
 print (df[['country','Submarines']])
 ```
@@ -66,8 +66,8 @@ For military comparisons see [Global Firepower](https://www.globalfirepower.com/
 I scraped their site, [someone else](https://github.com/prasertcbs/basic-dataset/tree/master/GlobalFirePower)
 did 2017, both versions are below in CSV format
 
-[2017](tweets/2021/gfp-2017.csv)
-[2021](tweets/2021/gfp-2021.csv)
+[2017](gfp-2017.csv)
+[2021](gfp-2021.csv)
 
 Comparing both years cld be interesting. Did military budget increase
 or decrease for country X?
@@ -125,7 +125,7 @@ industries, RWE exec says"
 
 ---
 
-[What of it?](2021/03/unrivaled-beckley.md#chru)
+[What of it?](../../2021/03/unrivaled-beckley.md#chru)
 
 "But what of the China-Russia alliance?"
 
@@ -155,7 +155,7 @@ Light Through The Veins (Tom Middleton Remix) \#music
 ---
 
 Anti-lessons from TR; keep national narrative / identity as simple as
-possible, dont overload it with [political preferences](2020/04/turks-culture-national-narrative.md#add1).
+possible, dont overload it with [political preferences](../../2020/04/turks-culture-national-narrative.md#add1).
 Imbuing political choices on identity can turn it into a fascist
 propaganda tool.
 

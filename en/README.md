@@ -1,75 +1,91 @@
 # Tweets
 
-Lesson here for all teachers, dont dumb stuff down for shinier
-delivery. Your jobs is to *demystify*, not creating a new level of
-mystery around your character, your props, or whatever.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;To achieve the net-zero emissions goal, the Biden administration is banking on increasing the green hydrogen supply and making it available at a fraction of the cost of natural gas...&quot; Via <a href="https://twitter.com/MarketRealist?ref_src=twsrc%5Etfw">@MarketRealist</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/Voa9N2j6c0">https://t.co/Voa9N2j6c0</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1374015614508003338?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Carl Sagan had an [eduvid](https://youtu.be/G8cbIWMv0rI?t=333) on that
-too. Not bad, but lemme tell u what you did wrong here Carl, forgot to
-mention how stick angle translates to btw-city angle..
+"French army chief of staff: 'We should therefore not get caught up in
+very high technology. Our weapon systems must always be relatively
+resilient and stable and ... they must be able to operate in degraded
+mode'"
 
-He is really rockin that brown jacket with the turtleneck tho. Very
-disco, Studio 54, I dig it, but some stuff got lost during "the show".
-
----
-
-Extend rays like below, implies angle between two cities is 7.2
-relative to Earth center
-
-<img width="340" src="https://pbs.twimg.com/media/ExBij1KXMAA5ekf?format=jpg&name=small"/>
-
-Btw city angle is 7.2 out of 360 deg. He had a guy walk btw cities,
-dist 5000 stadia = 800 km. Using angle ratio equalness to
-circumference / city dist ratio,
-
-```python
-print ('%0.0f km' % (360/7.2 * 800))
-```
-
-```text
-40000 km
-```
-
-This guy found a good approx for Earth circumference with f-ing
-sticks, shadows, simple angle measurement, plus indirectly
-debunked flat Earth hypo. Ella re malaka
+[Link](https://mobile.twitter.com/shashj/status/1373959139840425984)
 
 ---
 
-Library as in the freaking Library of Alexandria
+"Tax Evasion at the Top of the Income Distribution: Theory and Evidence"
+
+[Link](https://www.nber.org/papers/w28542)
 
 ---
 
-First approx calculation of Earth circumference, BC 200s. Oh
-yeah. Erotosthenes (scientists, head librarian) heard from someone,
-during summer solst., stick in Syene has no shadow, at noon. He tried
-it in Alexandria (little north) saw shadow. Measured angle, 7.2
-degrees,
+"@JohnHemmings2
 
-<img width="340" src="https://pbs.twimg.com/media/ExBiiH1WUAUaG6W?format=jpg&name=small"/>
-
----
-
-B Johnson net approval up to -3%. Major improvement over -25% 6 months
-earlier.
-
-[Link](https://yougov.co.uk/topics/politics/trackers/boris-johnson-approval-rating)
+'freedom of information requests obtained by Reuters revealed that at
+least half of London’s boroughs have bought and deployed surveillance
+systems made by Chinese suppliers, including Hikvision [linked to]
+Beijing’s repression of Uyghur Muslims in China.'"
 
 ---
 
-Vacc dev was too slow. The delay gave time to the virus to
-mutate. Clda been done in a month, two tops.
+Cohomology 😶
 
 ---
 
-Politico: "The Rocky Road to Bidencare — Fresh off securing the first
-major expansion of Obamacare since the law’s passage a decade ago,
-Democrats are dipping their toes into the next major health care
-fight...  The health care industry is already trying to kill it. A
-lobbying group backed by the industry is running state and national
-ads against the idea"
+Will Ferrell as Mustafa.. He gets thrown to the lava pit. 🤣 
+
+<iframe width="340" src="https://www.youtube.com/embed/htRHj3tyYyo?start=26&end=45" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"Double-duty catalyst generates hydrogen fuel while cleaning up wastewater"
+
+[Link](https://www.eurekalert.org/pub_releases/2021-03/acs-dcg031721.php)
+
+---
+
+"Woodland, Calif.-based Sierra Northern Railway (SERA) will build a
+hydrogen fuel cell (HFC)-powered switcher under a nearly $4 million
+grant from the California Energy Commission (CEC)"
+
+[Link](https://www.railwayage.com/mechanical/locomotives/sera-to-build-hydrogen-powered-switcher/)
+
+---
+	
+"Tanker Firm Ardmore Backs Hydrogen Fuel Cells for Shipping"
+
+[Link](https://shipandbunker.com/news/world/207484-tanker-firm-ardmore-backs-hydrogen-fuel-cells-for-shipping)
+
+---
+
+<iframe width="340" src="https://www.youtube.com/embed/yVo1S52xdpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Oh yea...
+
+<img width="340" src="https://64.media.tumblr.com/tumblr_lzvh0vPqs81qlx107o1_500.gif"/>
+
+---
+
+Easy to intuit the Sun is liquid. What is the hottest natural thing we
+know on Earth? It is lava. And lava is liquid, it flows. We know
+this. So why do some readily accept the gaseous condition?
+
+---
+
+Accusers keep piling up on AC, but the potential challenger is ruined?
+
+"@ryanobles
+
+Significant development-> Rep. Tom Reed (R-NY) apologizes for an
+incident in 2017 that led to an accusation of sexual misconduct and
+said he will not run for public office in 2022. Reed was considering a
+challenge to NY Gov. Andrew Cuomo"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you ever worry that technology is primarily good at solving problems we don&#39;t have? <a href="https://t.co/eyiGtAMaKX">pic.twitter.com/eyiGtAMaKX</a></p>&mdash; foone (@Foone) <a href="https://twitter.com/Foone/status/1373169368092139522?ref_src=twsrc%5Etfw">March 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
