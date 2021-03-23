@@ -64,6 +64,12 @@ grant from the California Energy Commission (CEC)"
 
 Oh yea...
 
+<img width="340" src="https://giffiles.alphacoders.com/115/115828.gif"/>
+
+---
+
+Oh yea...
+
 <img width="340" src="https://64.media.tumblr.com/tumblr_lzvh0vPqs81qlx107o1_500.gif"/>
 
 ---
