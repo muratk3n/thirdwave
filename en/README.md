@@ -1,106 +1,87 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;To achieve the net-zero emissions goal, the Biden administration is banking on increasing the green hydrogen supply and making it available at a fraction of the cost of natural gas...&quot; Via <a href="https://twitter.com/MarketRealist?ref_src=twsrc%5Etfw">@MarketRealist</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/Voa9N2j6c0">https://t.co/Voa9N2j6c0</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1374015614508003338?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+MovieLens keeps its ratings records relatvely up-to-date.. nice. Last
+update was on 2018..  That cld be good enough..
+
+"MovieLens Latest Datasets", the 265 MB file, [here](https://grouplens.org/datasets/movielens/).
 
 ---
 
-Resillience is part of good tech, yes. Imagine having an electric
-rifle and the shit runs out of battery in the middle of a skirmish..
-That rifle would not be high tech, it'd just be dumb tech.
+Really tired of these shit recommenders.. Pointy clicky clicky click.. Fuckin UI
 
-"French army chief of staff: 'We should therefore not get caught up in
-very high technology. Our weapon systems must always be relatively
-resilient and stable and ... they must be able to operate in degraded
-mode'"
-
-[Link](https://mobile.twitter.com/shashj/status/1373959139840425984)
+I might have to write my own
 
 ---
 
-"Tax Evasion at the Top of the Income Distribution: Theory and Evidence"
-
-[Link](https://www.nber.org/papers/w28542)
+Heiner Igel, good lecturer. 
 
 ---
 
-"@JohnHemmings2
+The best way to see these "AI" products is as parrots. Like parrot can
+speak, and make intelligable human-like sounds, and even say stuff on
+occasion that seems to fit a certain mood, they cannot converse with
+humans. These tools are trained with very specific aims in mind,
+writing a story wld be a tough barrier to cross.
 
-'freedom of information requests obtained by Reuters revealed that at
-least half of London’s boroughs have bought and deployed surveillance
-systems made by Chinese suppliers, including Hikvision [linked to]
-Beijing’s repression of Uyghur Muslims in China.'"
-
----
-
-Cohomology 😶
-
----
-
-Will Ferrell as Mustafa.. He gets thrown into the lava pit. 🤣
-
-<iframe width="340" src="https://www.youtube.com/embed/htRHj3tyYyo?start=26&end=45" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"Can robots write stories?.. Strange things unfold when artificial
+intelligence attempts to write a story. Author Daniel Kehlmann
+recounts his co-authoring experiment"
 
 ---
 
-"Double-duty catalyst generates hydrogen fuel while cleaning up wastewater"
+"@gabriel_zucman
 
-[Link](https://www.eurekalert.org/pub_releases/2021-03/acs-dcg031721.php)
-
----
-
-"Woodland, Calif.-based Sierra Northern Railway (SERA) will build a
-hydrogen fuel cell (HFC)-powered switcher under a nearly $4 million
-grant from the California Energy Commission (CEC)"
-
-[Link](https://www.railwayage.com/mechanical/locomotives/sera-to-build-hydrogen-powered-switcher/)
-
----
-	
-"Tanker Firm Ardmore Backs Hydrogen Fuel Cells for Shipping"
-
-[Link](https://shipandbunker.com/news/world/207484-tanker-firm-ardmore-backs-hydrogen-fuel-cells-for-shipping)
+Honored to testify before the Senate Budget Committee on Thursday,
+about ways to improve the progressivity of the US tax system"
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/yVo1S52xdpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@Michael_Zingale
+
+I am 100% adding things I've already done to my to-do list just so I
+can cross them off!"
 
 ---
 
-Oh yea...
-
-<img width="340" src="https://giffiles.alphacoders.com/115/115828.gif"/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How quickly does a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> car fill? 3 mins 11secs for 139kW ready for another 400 miles. Molecules move faster than electrons 💪🌬🍃 <a href="https://t.co/dzJ9kchKht">pic.twitter.com/dzJ9kchKht</a></p>&mdash; Jon Hunt (@JontheHunt) <a href="https://twitter.com/JontheHunt/status/1374136078748286983?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Oh yea...
-
-<img width="340" src="https://64.media.tumblr.com/tumblr_lzvh0vPqs81qlx107o1_500.gif"/>
-
----
-
-Sure the Sun is hotter than lava, but not a million times hotter. It's
-only five times hotter.
+Shld the reverse of density (ie opposite of population / landmass
+ratio) be in a power index..? 🤔 Being able to command / keep / manage
+a big landmass with few people should count for something.. bcz it
+requires certain form of organization, management apparatus.
 
 ---
 
-Easy to intuit the Sun is liquid. What is the hottest natural thing we
-know on Earth? It is lava. And lava is liquid, it flows. We know
-this. So why do some so readily accept the gaseous hyphothsis?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Japan’s ongoing technological advances bring hydrogen to the cusp of adoption for a range of applications, including fueling passenger cars, power-generation turbines, steelmaking...&quot; Via <a href="https://twitter.com/HarvardBiz?ref_src=twsrc%5Etfw">@HarvardBiz</a>. <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://twitter.com/hashtag/greenenergy?src=hash&amp;ref_src=twsrc%5Etfw">#greenenergy</a> <a href="https://t.co/FRCcqKUUSj">https://t.co/FRCcqKUUSj</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1374360619714019336?ref_src=twsrc%5Etfw">March 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Accusers keep piling up on AC, but the potential challenger is ruined?
+Tycho – Weather (Nitemoves Remix) \#music
 
-"@ryanobles
-
-Significant development-> Rep. Tom Reed (R-NY) apologizes for an
-incident in 2017 that led to an accusation of sexual misconduct and
-said he will not run for public office in 2022. Reed was considering a
-challenge to NY Gov. Andrew Cuomo"
+[Link](https://youtu.be/B22caOZewow)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you ever worry that technology is primarily good at solving problems we don&#39;t have? <a href="https://t.co/eyiGtAMaKX">pic.twitter.com/eyiGtAMaKX</a></p>&mdash; foone (@Foone) <a href="https://twitter.com/Foone/status/1373169368092139522?ref_src=twsrc%5Etfw">March 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This thing will eat itself if we wait long enough \#woke
+
+---
+
+They were both very young BTW when they did this. And staffer used the
+N-word on a wigga
+
+---
+
+Too good
+
+"A senior Teen Vogue staffer who expressed concern about the racist
+tweets posted by the magazine's now-departed editor used the N-word in
+her own tweets. Christine Davitt, a senior social media manager at
+Teen Vogue, wrote two tweets in 2009 to a friend identifying him as a
+'ni--a,' and another in 2010 using the word 'ni--a'"
+
+[Link](https://www.dailymail.co.uk/news/article-9385117/Teen-Vogue-staffer-supported-ouster-new-editor-used-N-word-decade-old-tweets.html)
 
 ---
 
