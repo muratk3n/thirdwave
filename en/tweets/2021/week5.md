@@ -196,7 +196,7 @@ officials with army men a 'major cabinet reshuffle'"
 
 ---
 
-That part is embarrasing.. R paper [says](../../2021/01/kirchoff-sun-bigbang.md#bigbang)
+That part is embarrasing.. R paper [says](../../2021/01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md#bigbang)
 they most likely measured Earth's own (nearby) oceans and mistook that for
 the Big Bang. D'oh!
 
@@ -414,7 +414,7 @@ dist is the formulaic form of a histogram, occurence count, frequency).
 ---
 
 Haha.. Robitaille took an ad on *New York Times* about his findings in 2002.
-I share it [here](../../2021/01/kirchoff-sun-bigbang.md).
+I share it [here](../../2021/01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md).
 
 ---
 

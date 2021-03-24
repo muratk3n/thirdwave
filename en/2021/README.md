@@ -1,6 +1,6 @@
 # 2021
 
-[The Collapse of the Big Bang and the Gaseous Sun](01/kirchoff-sun-bigbang.md)
+[The Collapse of the Big Bang and the Gaseous Sun](01/collapse_of_the_big_bang_and_the_gaseous_sun_robitaille.md)
 
 [Earthquakes](02/equakes.md)
 
