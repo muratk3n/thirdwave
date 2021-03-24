@@ -43,7 +43,13 @@ can cross them off!"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How quickly does a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> car fill? 3 mins 11secs for 139kW ready for another 400 miles. Molecules move faster than electrons 💪🌬🍃 <a href="https://t.co/dzJ9kchKht">pic.twitter.com/dzJ9kchKht</a></p>&mdash; Jon Hunt (@JontheHunt) <a href="https://twitter.com/JontheHunt/status/1374136078748286983?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@JontheHunt
+
+How quickly does a #hydrogen #fuelcell car fill?  3 mins 11secs for
+139kW ready for another 400 miles. Molecules move faster than
+electrons 💪🌬🍃"
+
+[Link](https://twitter.com/JontheHunt/status/1374136078748286983)
 
 ---
 
