@@ -32,7 +32,7 @@ sector"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the news of financial commitments to <a href="https://twitter.com/hashtag/climategoals?src=hash&amp;ref_src=twsrc%5Etfw">#climategoals</a> and <a href="https://twitter.com/hashtag/decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonisation</a> technologies is anything to go by, <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will be one of the buzzwords of this decade. <br><br>This is certainly the case in the <a href="https://twitter.com/hashtag/transportation?src=hash&amp;ref_src=twsrc%5Etfw">#transportation</a> sector. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> 💧🚗🚛🚍🚆✈️<a href="https://t.co/XNyA20shz2">https://t.co/XNyA20shz2</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1374657146541981699?ref_src=twsrc%5Etfw">March 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-tw---
+---
 
 Cecilia not bad ho
 
