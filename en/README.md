@@ -77,7 +77,7 @@ hydrogen with Australian power company Stanwell"
 
 ---
 
-"Since 1983, [KWI} has developed, manufactured, and operated a
+"Since 1983, [KWI] has developed, manufactured, and operated a
 liquefied-hydrogen storage tank at the rocket-launch site facility of
 the JAXA Tanegashima Space Center. The hydrogen liquefaction system,
 installed in the Hydrogen Technology Demonstration Center at the
