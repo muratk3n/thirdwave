@@ -1,93 +1,114 @@
 # Tweets
 
-MovieLens keeps its ratings records relatvely up-to-date.. nice. Last
-update was on 2018..  That cld be good enough..
+"@HydrogenHub
 
-"MovieLens Latest Datasets", the 265 MB file, [here](https://grouplens.org/datasets/movielens/).
+Three UK firms are to be the receivers of a £54m package from the
+Government in order to develop hydrogen-fuel technology... Read more
+in this @BBCNews article [below]"
 
----
-
-Really tired of these shit recommenders.. Pointy clicky clicky click.. Fuckin UI
-
-I might have to write my own
+[Link](http://ow.ly/OBRD50E6we3)
 
 ---
 
-Heiner Igel, good lecturer. 
+The blocking ship is out they say? It was still in the Canal at Oh
+Nine Hundred Hours EST last I checked.
+
+<img width="340" src="https://pbs.twimg.com/media/ExQ3CFQWUAED23z?format=png&name=small"/>
+
+[Link](https://www.marinetraffic.com/en/ais/home/centerx:32.542/centery:30.035/zoom:13)
 
 ---
 
-The best way to see these "AI" products is as parrots. Like parrot can
-speak, and make intelligable human-like sounds, and even say stuff on
-occasion that seems to fit a certain mood, they cannot converse with
-humans. These tools are trained with very specific aims in mind,
-writing a story wld be a tough barrier to cross.
+"@PACEmCHP
 
-"Can robots write stories?.. Strange things unfold when artificial
-intelligence attempts to write a story. Author Daniel Kehlmann
-recounts his co-authoring experiment"
+100 million boilers are installed in residential buildings across
+Europe. Learn how development of Fuel Cell micro-Cogeneration can
+accelerate energy savings and emission reductions in the building
+sector"
 
----
-
-"@gabriel_zucman
-
-Honored to testify before the Senate Budget Committee on Thursday,
-about ways to improve the progressivity of the US tax system"
+[Link](https://mobile.twitter.com/PACEmCHP/status/1374644589982810113)
 
 ---
 
-"@Michael_Zingale
-
-I am 100% adding things I've already done to my to-do list just so I
-can cross them off!"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the news of financial commitments to <a href="https://twitter.com/hashtag/climategoals?src=hash&amp;ref_src=twsrc%5Etfw">#climategoals</a> and <a href="https://twitter.com/hashtag/decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonisation</a> technologies is anything to go by, <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will be one of the buzzwords of this decade. <br><br>This is certainly the case in the <a href="https://twitter.com/hashtag/transportation?src=hash&amp;ref_src=twsrc%5Etfw">#transportation</a> sector. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> 💧🚗🚛🚍🚆✈️<a href="https://t.co/XNyA20shz2">https://t.co/XNyA20shz2</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1374657146541981699?ref_src=twsrc%5Etfw">March 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@JontheHunt
+Budding cosmologists.. this is where u can make a name 4
+yourself. Disprove overabundance of helium, the whole house of cards
+comes crushing down.
 
-How quickly does a #hydrogen #fuelcell car fill?  3 mins 11secs for
-139kW ready for another 400 miles. Molecules move faster than
-electrons 💪🌬🍃"
+"‘Primordial’ helium levels strongly guide all solar helium abundance
+determinations, as the amount of helium in the stars is said to be
+closely correlated with the synthesis of this element soon after the
+Big Bang. Helium abundances currently act as one of the 'Great
+Pillars' of cosmology... As such, any attempt to alter accepted helium
+levels within the Sun has great implications throughout astrophysics.
+Recently, the author has reviewed the determination of solar helium
+abundances and reached the conclusion that these levels are likely to
+have been overstated. The most prudent outlook remains that the Sun,
+like the visible universe, is composed primarily of hydrogen, as first
+outlined by Cecilia Payne"
 
-[Link](https://twitter.com/JontheHunt/status/1374136078748286983)
-
----
-
-Shld the reverse of density (ie opposite of population / landmass
-ratio) be in a power index..? 🤔 Being able to command / keep / manage
-a big landmass with few people should count for something.. bcz it
-requires certain form of organization, management apparatus.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Japan’s ongoing technological advances bring hydrogen to the cusp of adoption for a range of applications, including fueling passenger cars, power-generation turbines, steelmaking...&quot; Via <a href="https://twitter.com/HarvardBiz?ref_src=twsrc%5Etfw">@HarvardBiz</a>. <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://twitter.com/hashtag/greenenergy?src=hash&amp;ref_src=twsrc%5Etfw">#greenenergy</a> <a href="https://t.co/FRCcqKUUSj">https://t.co/FRCcqKUUSj</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1374360619714019336?ref_src=twsrc%5Etfw">March 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Tycho – Weather (Nitemoves Remix) \#music
-
-[Link](https://youtu.be/B22caOZewow)
+[Link](https://www.researchgate.net/publication/257931293_The_Liquid_Metallic_Hydrogen_Model_of_the_Sun_and_the_Solar_Atmosphere_VI_Helium_in_the_Chromosphere)
 
 ---
 
-This thing will eat itself if we wait long enough \#woke
+@ashleytownshend
+
+China’s use of ... disinformation, economic threats, covert foreign
+interference etc. — is and will remain the day to day reality of
+international affairs in our region. It’s not the product of a
+mishandled China relationship; it is the way Beijing seeks to advance
+its interests against countries, like Australia, that do not comply
+with its preferences and are active in defending their own.
 
 ---
 
-They were both very young BTW when they did this. And staffer used the
-N-word on a wigga
+"Iwatani is [also] exploring the production of 'green hydrogen'
+(produced from nonfossil fuels) with KHI and Fortescue Metals Group,
+the world’s fourth-largest iron-ore producer, in
+Australia. Additionally, Iwatani is studying the production of green
+hydrogen with Australian power company Stanwell"
 
 ---
 
-Too good
+"Since 1983, [KWI} has developed, manufactured, and operated a
+liquefied-hydrogen storage tank at the rocket-launch site facility of
+the JAXA Tanegashima Space Center. The hydrogen liquefaction system,
+installed in the Hydrogen Technology Demonstration Center at the
+Harima Works, has the capacity to liquefy approximately five tons of
+hydrogen per day...
 
-"A senior Teen Vogue staffer who expressed concern about the racist
-tweets posted by the magazine's now-departed editor used the N-word in
-her own tweets. Christine Davitt, a senior social media manager at
-Teen Vogue, wrote two tweets in 2009 to a friend identifying him as a
-'ni--a,' and another in 2010 using the word 'ni--a'"
+KHI and Iwatani Corp ..  are conducting a pilot demonstration for an
+international liquefied-hydrogen supply chain using hydrogen produced
+from coal in the state of Victoria, Australia. This flagship project
+launched in 2015 with subsidization from New Energy and Industrial
+Technology Development Organization (NEDO). In 2021, the world’s first
+liquefied-hydrogen carrier, built by KHI, will make its first
+round-trip between Japan and Australia. And Iwatani will load, unload,
+and store the liquefied hydrogen"
 
-[Link](https://www.dailymail.co.uk/news/article-9385117/Teen-Vogue-staffer-supported-ouster-new-editor-used-N-word-decade-old-tweets.html)
+[Link](https://hbr.org/sponsored/2021/03/how-japans-hydrogen-innovations-may-fuel-cleaner-days-ahead)
+
+---
+
+Noo no.. dont wave ur arms on that CFL condition.. You need to derive
+that muthafucka
+
+---
+
+<img width="300" src="https://pbs.twimg.com/media/ExRCvikWQAAeQUj?format=jpg&name=small"/>
+
+---
+
+*Time to Kill* it is 
+
+---
+
+Just wrote a 15 line recommendation algo, Movielens file has 15 mil
+ratings, simple user-item cosine similarity based collab
+approach. Works fine.
 
 ---
 

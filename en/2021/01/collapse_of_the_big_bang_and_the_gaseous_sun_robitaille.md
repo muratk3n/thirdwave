@@ -175,7 +175,7 @@ It can be said that Langley’s experiment was the beginning of a new
 age for astronomy.[12,13] For the first time, the emission spectrum
 (plot of the intensity of light as a function of frequency) of a star
 had been recorded. When Eddington was working on his theory of the
-gaseous sun,8,9 he was well aware of Langley’s temperature for the
+gaseous sun,[8,9] he was well aware of Langley’s temperature for the
 photosphere (~6,000 K). Yet, Eddington had deduced that the internal
 portion of the sun was at temperatures of millions of
 degrees. Furthermore, these photons should be produced at X-ray
@@ -310,9 +310,9 @@ in the translational and rotational degrees of freedom. This leaves
 much less energy than expected at a given temperature in the
 vibrational degrees of freedom of the lattice. This fact can cause a
 liquid to report a much lower temperature than its real temperature
-when the Laws of Thermal Emission6,10,11 are utilized to monitor its
-emission spectrum. Since the frequency and amount of photons released
-by an object is related only to the amount of energy in the
+when the Laws of Thermal Emission [6,10,11] are utilized to monitor
+its emission spectrum. Since the frequency and amount of photons
+released by an object is related only to the amount of energy in the
 vibrational degrees of freedom of the lattice Evib, it is easy to see
 why Langley was tricked into thinking that the photosphere was sitting
 at a temperature of only ~6,000 K. A liquid can instantaneously lower
