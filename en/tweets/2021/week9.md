@@ -439,59 +439,6 @@ Newer is usually better.. I'd much rather watch *The Island* than *Logans Run*
 
 ---
 
-Printing can cause crash in certain cases, if ur President is the bus
-driver and the country is f-ing Venezuella.
-
----
-
-Calc on past 40 years below. See a -0.89 correlation between gold and
-treasuries.
-
-```python
-import pandas as pd
-import pandas_datareader.data as web
-pd.set_option('display.max_columns', None)
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader(['GC=F', '^TNX','DX-Y.NYB'], 'yahoo', start, end)['Adj Close']
-df.columns = ['gold','treasuries','dollar']
-df = df.dropna()
-print (df.tail(4))
-```
-
-```text
-                   gold  treasuries     dollar
-Date                                          
-2021-02-23  1804.400024       1.362  90.169998
-2021-02-24  1796.400024       1.389  90.180000
-2021-02-25  1774.400024       1.518  90.129997
-2021-02-26  1728.099976       1.460  90.930000
-```
-
-```python
-print (df.corr())
-```
-
-```text
-                gold  treasuries    dollar
-gold        1.000000   -0.891583 -0.395122
-treasuries -0.891583    1.000000  0.197605
-dollar     -0.395122    0.197605  1.000000
-```
-
----
-
-The highest correlation among the triplet dollar, gold, and treasuries
-is between treasuries and gold. This corr is **highly** negative. The
-correlation between dollar and gold is much weaker. This means growth
-(and inflation) expectations are the main drivers, not some
-end-of-the-world currency collapse scenario.
-
-"But printing money will crush the dollar, that's what I know!"
-
----
-
 "New York Governor Andrew Cuomo announced Thursday Plug Power will
 invest $290 million in the construction of a state-of-the-art green
 hydrogen fuel production facility [which] will produce 45 tons of

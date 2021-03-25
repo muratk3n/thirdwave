@@ -31,67 +31,9 @@ portable fuel systems"
 
 ---
 
-
 <iframe width="300" src="https://www.youtube.com/embed/caYHHcP6jrs?start=29&end=114" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "What is the reflation trade?"
-
----
-
-Gold is deemed as "safe haven" during downturns (as in
-finance/liquidity and part macro sense, not in currency,
-end-of-the-world scare sense), it is prefered during such times.
-
-Once possibility of growth appears, rates go up, gold goes down.
-
-Will some pundits who constantly "stan gold" (and bitcoin) in that
-currency doom scenario update their fin knowledge now? The market
-isn't doing what they think it is doing.
-
----
-
-Gold and the 10 year treasury.. It doesn't get any more opposite than
-this... One is up other is down, one is down other is up.. They are
-comically negatively correlated.
-
-```python
-from pandas_datareader import data
-import datetime
-
-today = datetime.datetime.now()
-start=datetime.datetime(2000, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = data.DataReader(['DGS10', 'GOLDAMGBD228NLBM'], 'fred', start, end)
-print (df.tail(5))
-ax1 = df.DGS10.plot(color='blue', grid=True, label='10Y')
-ax2 = df.GOLDAMGBD228NLBM.plot(color='red', grid=True, label='GOLD',secondary_y=True)
-h1, l1 = ax1.get_legend_handles_labels()
-h2, l2 = ax2.get_legend_handles_labels()
-plt.legend(h1+h2, l1+l2, loc=2)
-plt.savefig('10yrgld.png')
-```
-
-```text
-            DGS10  GOLDAMGBD228NLBM
-DATE                               
-2021-02-19   1.34           1773.75
-2021-02-22   1.37           1798.80
-2021-02-23   1.37           1809.50
-2021-02-24   1.38           1807.25
-```
-
-<img width="340" src="https://pbs.twimg.com/media/EvJK3X_WYAAN3Hx?format=png&name=small"/>
-
----
-
-Gold and treasury rates move in opposites..
-
----
-
-But the gold price went down recently. Shouldnt even the talk of more
-stimulus keep the price up? Well it didnt.
-
-"They are printing money, so gold price will soar"
 
 ---
 
