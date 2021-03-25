@@ -110,8 +110,8 @@ that muthafucka
 
 ---
 
-Just wrote a 15 line recommendation algo, Movielens file has 15 mil
-ratings. Simple user-item cosine similarity based collab
+Just wrote a 15 line recommendation algo, Movielens file has over 10
+mil ratings. Simple user-item cosine similarity based collab
 approach. Works fine.
 
 ---
