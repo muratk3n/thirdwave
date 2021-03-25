@@ -36,7 +36,7 @@ sector"
 
 Budding cosmologists.. this is where u can make a name 4
 yourself. Disprove overabundance of helium, the whole house of cards
-comes crushing down.
+will come crushing down.
 
 "‘Primordial’ helium levels strongly guide all solar helium abundance
 determinations, as the amount of helium in the stars is said to be
