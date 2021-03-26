@@ -88,22 +88,20 @@ Party (and overall optimism) really comes through"
 
 ---
 
-Using recorded lectures will keep quality high. See prev vid, there
-arent many people in the world who can teach that course better than
-him. Why waste time on "training" teachers?
-
----
-
-There will be "graders" not teachers in my system. Grade is only
-pass/fail. Graders can hang around in study halls if they are not
-grading (rare) both to keep it quite, but also answer questions in
-their field.
+Using recorded lectures will keep quality high. As in lec below, can
+teach that course better than this guy..? Not many. "Training"
+teachers is a waste of time.
 
 ---
 
 Record once, use everywhere. Govs can fund recording of such vids for
 every subject, kids at school watch them over tablets. No more teachers
-in the old sense of the word. 
+in the old sense of the word.
+
+There will be "graders" not teachers in the new system. Grade is
+pass/fail. Graders can hang around in study halls if they are not
+grading (rare) both to keep it quite, but also answer questions in
+their field.
 
 ---
 
