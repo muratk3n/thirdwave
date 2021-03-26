@@ -56,19 +56,13 @@ weeks to clear"
 
 ---
 
-Thats a satellite image? \#suez
+Satellite images improved ... \#suez
 
 <img width="340" src="https://pbs.twimg.com/media/ExVGnbcWgAEeoQ9?format=jpg&name=small"/>
 
 ---
 
 Which country does the canal blockage hurt the most? China? \#suez
-
----
-
-Icelanders cooking stuff on the outskirts of the lava flow.. using the
-hardened parts.. But u have to just put the food on, dude said someone
-put a pan and "the lava ate the pan"
 
 ---
 
