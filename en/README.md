@@ -30,11 +30,8 @@ bid to prioritise India's own innoculation programme"
 "@F24Debate
 
 'It's like cholesterol. Before all #Arabs were bad, but now there's
-good AND bad.'
-
-With #Netanyahu potentially relying on Arab support to stay in power,
-@Causeur Editor-in-Chief Gil Mihaely says the Israeli PM has been
-forced to change his tune"
+good AND bad.' With #Netanyahu potentially relying on Arab support to
+stay in power ..  the Israeli PM has been forced to change his tune"
 
 ---
 
