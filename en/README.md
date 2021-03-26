@@ -51,11 +51,6 @@ shortages, lack of health care and ill-treatment"
 
 ---
 
-CNBC: "Massive cargo ship still stuck in Egypt's Suez Canal could take
-weeks to clear"
-
----
-
 Satellite images improved ... \#suez
 
 <img width="340" src="https://pbs.twimg.com/media/ExVGnbcWgAEeoQ9?format=jpg&name=small"/>
@@ -63,6 +58,11 @@ Satellite images improved ... \#suez
 ---
 
 Which country does the canal blockage hurt the most? China? \#suez
+
+---
+
+CNBC: "Massive cargo ship still stuck in Egypt's Suez Canal could take
+weeks to clear"
 
 ---
 
