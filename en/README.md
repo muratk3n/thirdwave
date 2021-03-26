@@ -1,118 +1,141 @@
 # Tweets
 
-"@HydrogenHub
+"The great seismic quiet period... Noise from trains, airplanes,
+industrial processes, and other sources is recorded on seismometers
+worldwide. Disentangling this noise is important for extracting out
+natural signals [scientists] found a substantial decrease in noise
+resulting from lockdown measures imposed in response to the
+coronavirus disease 2019 pandemic"
 
-Three UK firms are to be the receivers of a £54m package from the
-Government in order to develop hydrogen-fuel technology... Read more
-in this @BBCNews article [below]"
-
-[Link](http://ow.ly/OBRD50E6we3)
-
----
-
-The blocking ship is out they say? It was still in the Canal at Oh
-Nine Hundred Hours EST last I checked.
-
-<img width="340" src="https://pbs.twimg.com/media/ExQ3CFQWUAED23z?format=png&name=small"/>
-
-[Link](https://www.marinetraffic.com/en/ais/home/centerx:32.542/centery:30.035/zoom:13)
+[Link](https://science.sciencemag.org/content/369/6509/1338)
 
 ---
 
-"@PACEmCHP
-
-100 million boilers are installed in residential buildings across
-Europe. Learn how development of Fuel Cell micro-Cogeneration can
-accelerate energy savings and emission reductions in the building
-sector"
-
-[Link](https://mobile.twitter.com/PACEmCHP/status/1374644589982810113)
+Man this immigration issue scares the crap out of the Democrats. 
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the news of financial commitments to <a href="https://twitter.com/hashtag/climategoals?src=hash&amp;ref_src=twsrc%5Etfw">#climategoals</a> and <a href="https://twitter.com/hashtag/decarbonisation?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonisation</a> technologies is anything to go by, <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> will be one of the buzzwords of this decade. <br><br>This is certainly the case in the <a href="https://twitter.com/hashtag/transportation?src=hash&amp;ref_src=twsrc%5Etfw">#transportation</a> sector. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> 💧🚗🚛🚍🚆✈️<a href="https://t.co/XNyA20shz2">https://t.co/XNyA20shz2</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1374657146541981699?ref_src=twsrc%5Etfw">March 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Economist: “In 2020 China abused human rights in Xinjiang, waged
+cyber-warfare, threatened its neighbours and intensified the cult of
+personality surrounding President Xi...Yet when they talk to
+shareholders about China, global firms gloss over this brutal
+reality..."
 
 ---
 
-Cecilia not bad ho
+"@haxieMB
+
+Flag of India With #Covid cases surging in India, Delhi has reportedly
+decided to place a temporary ban on exports of #AstraZenaca jabs in a
+bid to prioritise India's own innoculation programme"
 
 ---
 
-Budding cosmologists.. this is where u can make a name 4
-yourself. Disprove overabundance of helium, the whole house of cards
-will come crushing down.
+"@F24Debate
 
-"‘Primordial’ helium levels strongly guide all solar helium abundance
-determinations, as the amount of helium in the stars is said to be
-closely correlated with the synthesis of this element soon after the
-Big Bang. Helium abundances currently act as one of the 'Great
-Pillars' of cosmology... As such, any attempt to alter accepted helium
-levels within the Sun has great implications throughout astrophysics.
-Recently, the author has reviewed the determination of solar helium
-abundances and reached the conclusion that these levels are likely to
-have been overstated. The most prudent outlook remains that the Sun,
-like the visible universe, is composed primarily of hydrogen, as first
-outlined by Cecilia Payne"
+'It's like cholesterol. Before all #Arabs were bad, but now there's
+good AND bad.'
 
-[Link](https://www.researchgate.net/publication/257931293_The_Liquid_Metallic_Hydrogen_Model_of_the_Sun_and_the_Solar_Atmosphere_VI_Helium_in_the_Chromosphere)
+With #Netanyahu potentially relying on Arab support to stay in power,
+@Causeur Editor-in-Chief Gil Mihaely says the Israeli PM has been
+forced to change his tune"
 
 ---
 
-@ashleytownshend
+Built by a French-Egypt company.
 
-China’s use of ... disinformation, economic threats, covert foreign
-interference etc. — is and will remain the day to day reality of
-international affairs in our region. It’s not the product of a
-mishandled China relationship; it is the way Beijing seeks to advance
-its interests against countries, like Australia, that do not comply
-with its preferences and are active in defending their own.
+We are talking big construction in Egypt so of course ppl had to die
+as in during the time of Pheroahs.
 
----
+"[The Suez Canal took] 10 years. Digging the canal began on April 25,
+1859.. Around one million Egyptians, mostly peasants, were recruited
+to do the job under harsh conditions including poor wages.. They had
+to remove about 74 million cubic metres of earth... Around 120,000 of
+the labour died in the process due to food shortages, lack of health
+care and ill-treatment"
 
-"Iwatani is [also] exploring the production of 'green hydrogen'
-(produced from nonfossil fuels) with KHI and Fortescue Metals Group,
-the world’s fourth-largest iron-ore producer, in
-Australia. Additionally, Iwatani is studying the production of green
-hydrogen with Australian power company Stanwell"
+[Link](https://www.hellenicshippingnews.com/150-years-on-the-suez-canal-remains-main-gateway-for-global-trade/)
 
 ---
 
-"Since 1983, [KWI] has developed, manufactured, and operated a
-liquefied-hydrogen storage tank at the rocket-launch site facility of
-the JAXA Tanegashima Space Center. The hydrogen liquefaction system,
-installed in the Hydrogen Technology Demonstration Center at the
-Harima Works, has the capacity to liquefy approximately five tons of
-hydrogen per day...
-
-KHI and Iwatani Corp ..  are conducting a pilot demonstration for an
-international liquefied-hydrogen supply chain using hydrogen produced
-from coal in the state of Victoria, Australia. This flagship project
-launched in 2015 with subsidization from New Energy and Industrial
-Technology Development Organization (NEDO). In 2021, the world’s first
-liquefied-hydrogen carrier, built by KHI, will make its first
-round-trip between Japan and Australia. And Iwatani will load, unload,
-and store the liquefied hydrogen"
-
-[Link](https://hbr.org/sponsored/2021/03/how-japans-hydrogen-innovations-may-fuel-cleaner-days-ahead)
+CNBC: "Massive cargo ship still stuck in Egypt's Suez Canal could take
+weeks to clear"
 
 ---
 
-Noo no.. dont wave ur arms on that CFL condition.. You need to derive
-that muthafucka
+Thats a satellite image? \#suez
+
+<img width="340" src="https://pbs.twimg.com/media/ExVGnbcWgAEeoQ9?format=jpg&name=small"/>
 
 ---
 
-<img width="300" src="https://pbs.twimg.com/media/ExRCvikWQAAeQUj?format=jpg&name=small"/>
+Which country does the canal blockage hurt the most? China? \#suez
 
 ---
 
-*Time to Kill* it is 
+Icelanders cooking stuff on the outskirts of the lava flow.. using the
+hardened parts.. But u have to just put the food on, dude said someone
+put a pan and "the lava ate the pan"
 
 ---
 
-Just wrote a 15 line recommendation algo, Movielens file has over 10
-mil ratings. Simple user-item cosine similarity based collab
-approach. Works fine.
+"@ds_wats0n
+
+Admittedly weird hangup but ever since I started doing my own #taxes
+I've thought that brackets should be replaced by smooth
+functions. Apparently actual economists have worked out the details
+and it's kind of awesome"
+
+---
+
+"@maxberger
+
+Bernie's conversation with @ezraklein is worth listening to in
+full. Bernie's comments on Trump's twitter account drove all the
+headlines, but his comments on Biden and the shifts in the Democratic
+Party (and overall optimism) really comes through"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">U.S.-China rivalry will probably come to a head in the 20s, argue Michael Beckley and Hal Brands.<br><br>I tend to agree.<a href="https://t.co/kwiq95Fwpg">https://t.co/kwiq95Fwpg</a></p>&mdash; Noah Smith 🐇 (@Noahpinion) <a href="https://twitter.com/Noahpinion/status/1343678573907824641?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Using recorded lectures will keep quality high. See prev vid, there
+arent many people in the world who can teach that course better than
+him. Why waste time on "training" teachers?
+
+---
+
+There will be "graders" not teachers in my system. Grade is only
+pass/fail. Graders can hang around in study halls if they are not
+grading (rare) both to keep it quite, but also answer questions in
+their field.
+
+---
+
+Record once, use everywhere. Govs can fund recording of such vids for
+every subject, kids at school watch them over tablets. No more teachers
+in the old sense of the word. 
+
+---
+
+I like this lecture format. You see the lecturer, and the equations
+simply appear while he talks, parts gets highlighted for emphasis, and
+necessary pieces get carried over to the next slide if
+necessary. 3Blue1Brown style, which is all animation and lecturer
+voice, is fine too but this one has more of a lecture feel to it.
+
+<iframe width="340"  src="https://www.youtube.com/embed/sOdMdsD4YgU?start=69&end=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+*Rat Race*? Jon Lovitz driving around in Hitler's car giving speeches in fake
+German accent to veterans (trailer).. Its already funny.
+
+---
+
+*Time to Kill*, good recommendation.
 
 ---
 
