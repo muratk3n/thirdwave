@@ -88,7 +88,7 @@ Party (and overall optimism) really comes through"
 
 ---
 
-Using recorded lectures will keep ed quality high. 
+Using pre-recorded lectures will keep ed quality high. 
 
 ---
 
