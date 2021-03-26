@@ -88,9 +88,7 @@ Party (and overall optimism) really comes through"
 
 ---
 
-Using recorded lectures will keep quality high. As in lec below, can
-teach that course better than this guy..? Not many. "Training"
-teachers is a waste of time.
+Using recorded lectures will keep ed quality high. 
 
 ---
 
@@ -100,8 +98,8 @@ in the old sense of the word.
 
 There will be "graders" not teachers in the new system. Grade is
 pass/fail. Graders can hang around in study halls if they are not
-grading (rare) both to keep it quite, but also answer questions in
-their field.
+grading (rare) both to keep it quite, and answer the occas questions
+in their field.
 
 ---
 
