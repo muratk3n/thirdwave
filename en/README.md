@@ -11,10 +11,6 @@ coronavirus disease 2019 pandemic"
 
 ---
 
-Man this immigration issue scares the crap out of the Democrats. 
-
----
-
 The Economist: “In 2020 China abused human rights in Xinjiang, waged
 cyber-warfare, threatened its neighbours and intensified the cult of
 personality surrounding President Xi...Yet when they talk to
