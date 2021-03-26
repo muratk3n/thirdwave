@@ -40,12 +40,12 @@ Built by a French-Egypt company.
 We are talking big construction in Egypt so of course ppl had to die
 as in during the time of Pheroahs.
 
-"[The Suez Canal took] 10 years. Digging the canal began on April 25,
-1859.. Around one million Egyptians, mostly peasants, were recruited
-to do the job under harsh conditions including poor wages.. They had
-to remove about 74 million cubic metres of earth... Around 120,000 of
-the labour died in the process due to food shortages, lack of health
-care and ill-treatment"
+"[The Suez Canal construction took] 10 years. Digging the canal began
+on April 25, 1859.. Around one million Egyptians, mostly peasants,
+were recruited to do the job under harsh conditions including poor
+wages.. They had to remove about 74 million cubic metres of
+earth... Around 120,000 of the labour died in the process due to food
+shortages, lack of health care and ill-treatment"
 
 [Link](https://www.hellenicshippingnews.com/150-years-on-the-suez-canal-remains-main-gateway-for-global-trade/)
 
