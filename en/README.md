@@ -51,7 +51,7 @@ is "The Pond". Nothing for the Pacific?
 ---
 
 Haha of course PCA of simple sinusodial wld be like this.. imagine self at that
-blue line u constantly see plot moving up and down from you - largest variation.
+blue line u constantly see points of plot falling all over you - largest variation.
 
 <img width="340" src="https://pbs.twimg.com/media/ExYlEFJWYAAFleu?format=png&name=small"/>
 
