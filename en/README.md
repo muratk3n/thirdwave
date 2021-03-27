@@ -1,10 +1,5 @@
 # Tweets
 
-Aha.. Ozzies call the Tasman Sea "The Ditch"?. For US UK the Atlantic
-is "The Pond". Nothing for the Pacific?
-
----
-
 "@_laujessie
 
 . Steve Tsang of @SOAS_CI called Beijing's move an 'overkill' and says
@@ -47,6 +42,11 @@ medical outcomes"
 Alternative protein investments are taking off, says @GoodFoodInst,
 citing 3x increase in plant-based meat, dairy, and egg companies and a
 6x increase in cultivated meat startups"
+
+---
+
+Aha.. Ozzies call the Tasman Sea "The Ditch"?. For US UK the Atlantic
+is "The Pond". Nothing for the Pacific?
 
 ---
 
