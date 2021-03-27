@@ -1,124 +1,108 @@
 # Tweets
 
-"The great seismic quiet period... Noise from trains, airplanes,
-industrial processes, and other sources is recorded on seismometers
-worldwide. Disentangling this noise is important for extracting out
-natural signals [scientists] found a substantial decrease in noise
-resulting from lockdown measures imposed in response to the
-coronavirus disease 2019 pandemic"
-
-[Link](https://science.sciencemag.org/content/369/6509/1338)
+Aha.. Ozzies call the Tasman Sea "The Ditch"?. For US UK the Atlantic
+is "The Pond". Nothing for the Pacific?
 
 ---
 
-The Economist: “In 2020 China abused human rights in Xinjiang, waged
-cyber-warfare, threatened its neighbours and intensified the cult of
-personality surrounding President Xi...Yet when they talk to
-shareholders about China, global firms gloss over this brutal
-reality..."
+"@_laujessie
+
+. Steve Tsang of @SOAS_CI called Beijing's move an 'overkill' and says
+EU sanctions 'were extremely calibrated in order to basically do
+something, but not to an extent that would necessitate a response'"
 
 ---
 
-"@haxieMB
+Dining Rooms - La Citta' Nuda \#music
 
-Flag of India With #Covid cases surging in India, Delhi has reportedly
-decided to place a temporary ban on exports of #AstraZenaca jabs in a
-bid to prioritise India's own innoculation programme"
+https://youtu.be/qSElwl8aklw
 
 ---
 
-"@F24Debate
+Suez traffic update
 
-'It's like cholesterol. Before all #Arabs were bad, but now there's
-good AND bad.' With #Netanyahu potentially relying on Arab support to
-stay in power ..  the Israeli PM has been forced to change his tune"
+<img width="200" src="https://pbs.twimg.com/media/Exb5TG5W8AEq5BR?format=png&name=small"/>
 
 ---
 
-Built by a French-Egypt company.
+"@newyorkerunion
 
-We are talking big construction in Egypt so of course ppl had to die
-as in during the time of Pheroahs.
-
-"[The Suez Canal construction took] 10 years. Digging the canal began
-on April 25, 1859.. Around one million Egyptians, mostly peasants,
-were recruited to do the job under harsh conditions including poor
-wages.. They had to remove about 74 million cubic metres of
-earth... Around 120,000 of the labour died in the process due to food
-shortages, lack of health care and ill-treatment"
-
-[Link](https://www.hellenicshippingnews.com/150-years-on-the-suez-canal-remains-main-gateway-for-global-trade/)
+BREAKING: The New Yorker Union has voted 98% in favor of authorizing a
+strike"
 
 ---
 
-Satellite images improved ... \#suez
+"@emollick
 
-<img width="340" src="https://pbs.twimg.com/media/ExVGnbcWgAEeoQ9?format=jpg&name=small"/>
+Another new paper that finds no benefits in using more complex machine
+learning techniques over standard logistic regression in predicting
+medical outcomes"
 
----
-
-Which country does the canal blockage hurt the most? China? \#suez
-
----
-
-CNBC: "Massive cargo ship still stuck in Egypt's Suez Canal could take
-weeks to clear"
+[Link](https://twitter.com/emollick/status/1375499816898297856)
 
 ---
 
-"@ds_wats0n
+"@SOSV
 
-Admittedly weird hangup but ever since I started doing my own #taxes
-I've thought that brackets should be replaced by smooth
-functions. Apparently actual economists have worked out the details
-and it's kind of awesome"
-
----
-
-"@maxberger
-
-Bernie's conversation with @ezraklein is worth listening to in
-full. Bernie's comments on Trump's twitter account drove all the
-headlines, but his comments on Biden and the shifts in the Democratic
-Party (and overall optimism) really comes through"
+Alternative protein investments are taking off, says @GoodFoodInst,
+citing 3x increase in plant-based meat, dairy, and egg companies and a
+6x increase in cultivated meat startups"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">U.S.-China rivalry will probably come to a head in the 20s, argue Michael Beckley and Hal Brands.<br><br>I tend to agree.<a href="https://t.co/kwiq95Fwpg">https://t.co/kwiq95Fwpg</a></p>&mdash; Noah Smith 🐇 (@Noahpinion) <a href="https://twitter.com/Noahpinion/status/1343678573907824641?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Haha of course PCA of simple sinusodial wld be like this.. imagine self at that
+blue line u constantly see plot moving up and down from you - largest variation.
+
+<img width="340" src="https://pbs.twimg.com/media/ExYlEFJWYAAFleu?format=png&name=small"/>
 
 ---
 
-Using pre-recorded lectures will keep ed quality high. 
+Seshat data is at [GH](https://github.com/jaewshin/Holocene)
 
 ---
 
-Record once, use everywhere. Govs can fund recording of such vids for
-every subject, kids at school watch them over tablets. No more teachers
-in the old sense of the word.
-
-There will be "graders" not teachers in the new system. Grade is
-pass/fail. Graders can hang around in study halls if they are not
-grading (rare) both to keep it quite, and answer the occas questions
-in their field.
+"Seshat: Global History Databank..  is an ambitious coding of more
+than 1500 variables containing state-of-the-art knowledge on variables
+related to social complexity for hundreds of polities. The polities in
+the Seshat database for which comprehensive data are available span
+six continents and date from the Neolithic to the middle of the last
+millennium"
 
 ---
 
-I like this lecture format. You see the lecturer, and the equations
-simply appear while he talks, parts gets highlighted for emphasis, and
-necessary pieces get carried over to the next slide if
-necessary. 3Blue1Brown style, which is all animation and lecturer
-voice, is fine too but this one has more of a lecture feel to it.
-
-<iframe width="340"  src="https://www.youtube.com/embed/sOdMdsD4YgU?start=69&end=114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Propinquity 😶
 
 ---
 
-*Rat Race*? Jon Lovitz driving around in Hitler's car giving speeches in fake
-German accent to veterans (trailer).. Its already funny.
+Quality over quantity (or, cant have more quantity without quality
+first)
+
+"@emollick
+
+A paper by mathematicians & archeologists studying the past 10k years
+argues population growth needs to be matched with information
+processing ability... otherwise societies collapse. Each level of info
+processing (writing, currency) unlocks new growth"
+
+[Link](https://twitter.com/emollick/status/1375287903731937282)
 
 ---
 
-*Time to Kill*, good recommendation.
+"The torch will be lit in the town of Olympia, Greece and then moved
+across a large number of Japanese cities... Some of the other
+eco-friendly initiatives include beds at the Olympics Village made out
+of recyclable cardboard and medals made from recycled electronic waste
+material. About 500 hydrogen-powered fuel cell vehicles will also be
+used during the Olympics"
+
+[Link](https://www.sportskeeda.com/sports/tokyo-olympics-2020-olympic-torch-will-be-powered-by-hydrogen-during-the-relay-event)
+
+---
+
+"The Tokyo 2020 Olympic torch, which began its 121-day relay from
+Naraha, Fukushima, is being powered by hydrogen in selected legs of
+the relay meaning there will be no carbon emissions from the torch
+itself"
 
 ---
 
