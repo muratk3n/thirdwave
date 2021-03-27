@@ -1,13 +1,5 @@
 # Tweets
 
-"@_laujessie
-
-. Steve Tsang of @SOAS_CI called Beijing's move an 'overkill' and says
-EU sanctions 'were extremely calibrated in order to basically do
-something, but not to an extent that would necessitate a response'"
-
----
-
 Dining Rooms - La Citta' Nuda \#music
 
 [Link](https://youtu.be/qSElwl8aklw)
@@ -24,6 +16,14 @@ Suez traffic update
 
 BREAKING: The New Yorker Union has voted 98% in favor of authorizing a
 strike"
+
+---
+
+"@_laujessie
+
+Steve Tsang of @SOAS_CI called Beijing's move an 'overkill' and says
+EU sanctions 'were extremely calibrated in order to basically do
+something, but not to an extent that would necessitate a response'"
 
 ---
 
