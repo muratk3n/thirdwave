@@ -57,9 +57,7 @@ blue line u constantly see plot moving up and down from you - largest variation.
 
 ---
 
-Seshat data is at [GH](https://github.com/jaewshin/Holocene)
-
----
+Data is at [GH](https://github.com/jaewshin/Holocene)
 
 "Seshat: Global History Databank..  is an ambitious coding of more
 than 1500 variables containing state-of-the-art knowledge on variables
