@@ -130,11 +130,10 @@ spices is to kill food-borne bacteria and fungi."
 
 It was all good when sugered water invent in US had its bottle
 produced in Phillipines, cap in Singapore, soda in Mexico, bottled in
-Spain, and shipped to US..  It aint so fine when vaccines, invented in
-DE, bottled in Belgium, and all shipped to UK/US, is it?
-
-Globalist centrist cuck libs and cons all be bitchin now. Where is
-TINA?
+Spain, and shipped to US..  It aint so fine when invented in DE,
+bottled in Belgium, and all shipped to UK/US, is it? Esp if the latter
+is life-saving vaccine. Globalist centrist cuck libs and cons all be
+bitchin now. Where is TINA?
 
 ---
 
