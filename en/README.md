@@ -23,9 +23,9 @@ private head tax) today
 
 ---
 
-Electricity is misused a lot.. They are not suitable for power
-transmission, terribly inflexible in case of storage.. In the future
-we will probably see less uses of it, not more.
+Electricity is frequently misused. Elec is not suitable for power
+transmission for instance, terribly inflexible in case of storage.. In
+the future we will probably see less uses of it, not more.
 
 ---
 
