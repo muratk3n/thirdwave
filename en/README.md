@@ -44,18 +44,16 @@ Quantitative history. Very awesome.
 
 ---
 
-The 9 variables in the data file;
-
-"Polity population (`PolPop`), extent of polity territory (`PolTerr`),
-the size of the largest urban center, `CapPop`. Infrastructure
-(`Infra`) captures the variety of observable structures and facilities
-that are involved in the functioning of the polity. The variable
-`texts`, which scales from 0 to 9, sums the number of securely
-attested types of texts (that is, coded as 'present').  The idea here
-is that the more sophisticated a society is informationally, the more
-different types of texts it will have in circulation. economic
-development is reflected in Monetary System (`Money`). Presence of
-writing system is in `writing`"
+Some of the 9 variables in the data file: "Polity population
+(`PolPop`), extent of polity territory (`PolTerr`), the size of the
+largest urban center, `CapPop`. Infrastructure (`Infra`) captures the
+variety of observable structures and facilities that are involved in
+the functioning of the polity. The variable `texts`, which scales from
+0 to 9, sums the number of securely attested types of texts (that is,
+coded as 'present').  The idea here is that the more sophisticated a
+society is informationally, the more different types of texts it will
+have in circulation. economic development is reflected in Monetary
+System (`Money`). Presence of writing system is in `writing`"
 
 [Link](https://escholarship.org/content/qt99x6r11m/qt99x6r11m_noSplash_0ec83bc0d39d185f00345309a3db5508.pdf)
 
