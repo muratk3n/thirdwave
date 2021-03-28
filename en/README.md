@@ -53,7 +53,7 @@ the functioning of the polity. The variable `texts`, which scales from
 coded as 'present').  The idea here is that the more sophisticated a
 society is informationally, the more different types of texts it will
 have in circulation. economic development is reflected in Monetary
-System (`Money`). Presence of writing system is in `writing`"
+System (`money`). Presence of writing system is in `writing`"
 
 [Link](https://escholarship.org/content/qt99x6r11m/qt99x6r11m_noSplash_0ec83bc0d39d185f00345309a3db5508.pdf)
 
