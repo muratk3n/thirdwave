@@ -129,7 +129,7 @@ spices is to kill food-borne bacteria and fungi."
 It was all good when sugered water invent in US had its bottle
 produced in Phillipines, cap in Singapore, soda in Mexico, bottled in
 Spain, and shipped to US..  It aint so fine when invented in DE,
-bottled in Belgium, and all shipped to UK/US, is it? 
+bottled in Belgium, and all shipped to UK/US, is it? \#globalooney
 
 ---
 
