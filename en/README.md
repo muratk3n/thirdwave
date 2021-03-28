@@ -23,8 +23,6 @@ private head tax) today
 
 ---
 
-Electricity is overrated
-
 "Northwestern University soft robot moves without hardware or electricity"
 
 [Link](https://www.slashgear.com/northwestern-university-soft-robot-moves-without-hardware-or-electricity-10650521/)
@@ -40,7 +38,7 @@ Quantitative history. Very awesome.
 
 ---
 
-The 9 variables in the data file
+The 9 variables in the data file;
 
 "Polity population (`PolPop`), extent of polity territory (`PolTerr`),
 the size of the largest urban center, `CapPop`. Infrastructure
