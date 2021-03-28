@@ -1,106 +1,148 @@
 # Tweets
 
-Dining Rooms - La Citta' Nuda \#music
+"@mattblaze
 
-[Link](https://youtu.be/qSElwl8aklw)
-
----
-
-Suez traffic update
-
-<img width="200" src="https://pbs.twimg.com/media/Exb5TG5W8AEq5BR?format=png&name=small"/>
+Actually, 'Evergreen' is the name of the company that operates the
+ship. The name of the ship is 'Evergreen's Monster'"
 
 ---
 
-"@newyorkerunion
+"@gabriel_zucman
 
-BREAKING: The New Yorker Union has voted 98% in favor of authorizing a
-strike"
+Your periodic reminder that 40% of the pre-tax income of the US
+middle-class goes to taxes and health insurance premiums (a de facto
+private head tax) today
 
----
+... as opposed to less than 25% for billionaires"
 
-"@_laujessie
-
-Steve Tsang of @SOAS_CI called Beijing's move an 'overkill' and says
-EU sanctions 'were extremely calibrated in order to basically do
-something, but not to an extent that would necessitate a response'"
+[Link](https://twitter.com/gabriel_zucman/status/1375940908760231938)
 
 ---
 
-"@emollick
-
-Another new paper that finds no benefits in using more complex machine
-learning techniques over standard logistic regression in predicting
-medical outcomes"
-
-[Link](https://twitter.com/emollick/status/1375499816898297856)
+"Myanmar security forces kill at least 114 people, including children"
 
 ---
 
-"@SOSV
+Electricity is overrated
 
-Alternative protein investments are taking off, says @GoodFoodInst,
-citing 3x increase in plant-based meat, dairy, and egg companies and a
-6x increase in cultivated meat startups"
+"Northwestern University soft robot moves without hardware or electricity"
 
----
-
-Aha.. Ozzies call the Tasman Sea "The Ditch"?. For US UK the Atlantic
-is "The Pond". Nothing for the Pacific?
+[Link](https://www.slashgear.com/northwestern-university-soft-robot-moves-without-hardware-or-electricity-10650521/)
 
 ---
 
-Haha of course PCA of simple sinusodial wld be like this.. imagine self at that
-blue line u constantly see points of plot falling all around you - largest variation.
-
-<img width="340" src="https://pbs.twimg.com/media/ExYlEFJWYAAFleu?format=png&name=small"/>
+"Soft robots are a growing trend in the industry...  DraBot works by
+controlling the air pressure coming into its wings"
 
 ---
 
-Data is at [GH](https://github.com/jaewshin/Holocene)
-
-"Seshat: Global History Databank..  is an ambitious coding of more
-than 1500 variables containing state-of-the-art knowledge on variables
-related to social complexity for hundreds of polities. The polities in
-the Seshat database for which comprehensive data are available span
-six continents and date from the Neolithic to the middle of the last
-millennium"
+Quantitative history. Very awesome.
 
 ---
 
-Propinquity 😶
+The 9 variables in the data file
+
+"Polity population (`PolPop`), extent of polity territory (`PolTerr`),
+the size of the largest urban center, `CapPop`. Infrastructure
+(`Infra`) captures the variety of observable structures and facilities
+that are involved in the functioning of the polity. The variable
+`texts`, which scales from 0 to 9, sums the number of securely
+attested types of texts (that is, coded as 'present').  The idea here
+is that the more sophisticated a society is informationally, the more
+different types of texts it will have in circulation"
+
+[Link](https://escholarship.org/content/qt99x6r11m/qt99x6r11m_noSplash_0ec83bc0d39d185f00345309a3db5508.pdf)
 
 ---
 
-Quality over quantity (or, cant have more quantity without quality
-first)
+Attempted repl of the scale and information-processing [paper](https://www.nature.com/articles/s41467-020-16035-9).
+Similar output plot to the PCA plot of Figure 2 is below. [Data](https://github.com/jaewshin/Holocene)
 
-"@emollick
+```python
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
 
-A paper by mathematicians & archeologists studying the past 10k years
-argues population growth needs to be matched with information
-processing ability... otherwise societies collapse. Each level of info
-processing (writing, currency) unlocks new growth"
+pnas_data1 = pd.read_csv('https://raw.githubusercontent.com/jaewshin/Holocene/master/data1.csv')
 
-[Link](https://twitter.com/emollick/status/1375287903731937282)
+features = ['PolPop', 'PolTerr', 'CapPop', 'levels', \
+'government','infrastr', 'writing', 'texts', 'money']
+
+data_mat = pnas_data1.loc[:, features].values
+scaler = StandardScaler()
+scaler.fit(data_mat)
+scaled = scaler.transform(data_mat)
+mean = np.mean(data, axis=0)
+data -= mean
+P, D, Q = np.linalg.svd(data, full_matrices=False)
+data = np.matmul(scaled, Q.T) 
+X, Y = data[:, 0], data[:, 1]
+p = np.poly1d(np.polyfit(X, Y, 4))
+fig = plt.figure()
+plt.scatter(X, Y, s=1)
+plt.plot(X, p(X),'r.')
+plt.xlabel('First PC')
+plt.ylabel('Second PC')
+plt.savefig('pnas.png')
+```
+
+<img width="340" src="https://pbs.twimg.com/media/ExgVXABWgAUEAG9?format=png&name=small"/>
 
 ---
 
-"The torch will be lit in the town of Olympia, Greece and then moved
-across a large number of Japanese cities... Some of the other
-eco-friendly initiatives include beds at the Olympics Village made out
-of recyclable cardboard and medals made from recycled electronic waste
-material. About 500 hydrogen-powered fuel cell vehicles will also be
-used during the Olympics"
+"While the Wright brothers are credited with the first powered flight
+of a heavier than air vehicle that could take off and land from level
+ground, it was the German aviator, Otto Lilienthal, who first mastered
+the aerodynamics of hang gliders. In fact, the experiments of
+Lilienthal helped the Wright brothers a great deal in understanding
+the basics of flight. Lilienthal himself built eighteen different hang
+glider models over a period of five years and test flew them"
 
-[Link](https://www.sportskeeda.com/sports/tokyo-olympics-2020-olympic-torch-will-be-powered-by-hydrogen-during-the-relay-event)
+[Link](https://www.researchgate.net/publication/37179495_Powered_Hang_Gliding)
 
 ---
 
-"The Tokyo 2020 Olympic torch, which began its 121-day relay from
-Naraha, Fukushima, is being powered by hydrogen in selected legs of
-the relay meaning there will be no carbon emissions from the torch
-itself"
+I agree. Spices are absolutely necessary to keep meat bacteria-free,
+they are in fact healthy, not just tasty.
+
+
+"Humans' use of antimicrobial spices developed in parallel with
+food-spoilage microorganisms, Cornell University biologists have
+demonstrated in a international survey of spice use in cooking... The
+proximate reason for spice use obviously is to enhance food
+palatability... But why do spices taste good? Traits that are
+beneficial are transmitted both culturally and genetically, and that
+includes taste receptors in our mouths and our taste for certain
+flavors. People who enjoyed food with antibacterial spices probably
+were healthier, especially in hot climates. They lived longer and left
+more offspring. And they taught their offspring and others: 'This is
+how to cook a mastodon.' We believe the ultimate reason for using
+spices is to kill food-borne bacteria and fungi."
+
+[Link](https://news.cornell.edu/stories/1998/03/food-bacteria-spice-survey-shows-why-some-cultures-it-hot)
+
+---
+
+It was all good when sugered water invent in US had its bottle
+produced in Phillipines, cap in Singapore, soda in Mexico, bottled in
+Spain, and shipped to US..  It aint so fine when invented in DE,
+bottled in Belgium, and all shipped to UK/US, is it?
+
+Globalist centrist cuck libs and cons all be bitchin now. Where is
+TINA?
+
+---
+
+"@james_oaten
+
+Australia's ambassador to China says Beijing's trade behaviour is
+'vindictive'"
+
+---
+
+"@unzicker_a
+
+\#Corona München will Modellstadt werden, aber der nächsten
+PCR-Testtermine gibt es im April?? Was sind heir für idioten am Werk?"
 
 ---
 
