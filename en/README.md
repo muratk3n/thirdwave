@@ -23,6 +23,12 @@ private head tax) today
 
 ---
 
+Electricity is misused a lot.. They are not suitable for power
+transmission, terribly inflexible in case of storage.. In the future
+we will probably see less uses of it, not more.
+
+---
+
 "Northwestern University soft robot moves without hardware or electricity"
 
 [Link](https://www.slashgear.com/northwestern-university-soft-robot-moves-without-hardware-or-electricity-10650521/)
