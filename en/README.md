@@ -55,8 +55,8 @@ different types of texts it will have in circulation"
 
 ---
 
-Attempted repl of the scale and information-processing [paper](https://www.nature.com/articles/s41467-020-16035-9).
-Similar output plot to the PCA plot of Figure 2 is below. [Data](https://github.com/jaewshin/Holocene)
+Attempted repl of a plot from the scale and information-processing [paper](https://www.nature.com/articles/s41467-020-16035-9).
+Similar output to Figure 2 is below. [Data](https://github.com/jaewshin/Holocene)
 
 ```python
 import pandas as pd
