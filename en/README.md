@@ -75,14 +75,15 @@ data_mat = pnas_data1.loc[:, features].values
 scaler = StandardScaler()
 scaler.fit(data_mat)
 scaled = scaler.transform(data_mat)
-mean = np.mean(data, axis=0)
-data -= mean
-P, D, Q = np.linalg.svd(data, full_matrices=False)
+data_mat = scaled
+mean = np.mean(data_mat, axis=0)
+data_mat -= mean
+P, D, Q = np.linalg.svd(data_mat, full_matrices=False)
 data = np.matmul(scaled, Q.T) 
+fig = plt.figure()
 X, Y = data[:, 0], data[:, 1]
 p = np.poly1d(np.polyfit(X, Y, 4))
-fig = plt.figure()
-plt.scatter(X, Y, s=1)
+plt.scatter(X, Y, s=3)
 plt.plot(X, p(X),'r.')
 plt.xlabel('First PC')
 plt.ylabel('Second PC')
