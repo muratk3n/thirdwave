@@ -1,150 +1,98 @@
 # Tweets
 
-"@mattblaze
+"@tomgara
 
-Actually, 'Evergreen' is the name of the company that operates the
-ship. The name of the ship is 'Evergreen's Monster'"
-
----
-
-"@gabriel_zucman
-
-Your periodic reminder that 40% of the pre-tax income of the US
-middle-class goes to taxes and health insurance premiums (a de facto
-private head tax) today
-
-... as opposed to less than 25% for billionaires"
-
-[Link](https://twitter.com/gabriel_zucman/status/1375940908760231938)
+An amazing little subplot in the Suez thing is that Egyptian media,
+which basically reached North Korean levels in recent years, has been
+reporting that the problem was solved and done with days ago"
 
 ---
 
-"Myanmar security forces kill at least 114 people, including children"
+"@man_integrated
+
+Pertamina (Indonesia's state-owned oil company) signed a deal with CPC
+[Taiwan's state-owned oil and petrochemical company] in June 2020 to
+double this refinery's capacity... This marks two of Taiwan's most
+strategically important companies [along with Evergreen] to be hit in
+the past five days.
+
+'@disclosetv JUST IN - Massive explosion at the Balongan oil refinery in Indonesia'"
 
 ---
 
-Electricity is frequently misused. Elec is not suitable for power
-transmission for instance, terribly inflexible in case of storage.. In
-the future we will probably see less uses of it, not more.
+Hey I'm all into that contra jive, but this one is little out of whack.
+
+"[Aero] lift is generated due to Coanda effect, not pressure differential"
 
 ---
 
-"Northwestern University soft robot moves without hardware or electricity"
+Walk before you can run. And .. glide before you motor fly?
 
-[Link](https://www.slashgear.com/northwestern-university-soft-robot-moves-without-hardware-or-electricity-10650521/)
+"Orville and Wilbur Wright integrated and safely flew the first
+successftrl, controlled, powered airplane. The process thev used was
+one of progressive design and was successful to a large degree because
+of their experience with gliders. Previous attempts at powered flight
+were unsuccessful because the inventors tried to fly first with power
+before the subtleties of conirol were addressed. The Wrights instead
+first learned how to fly using gliders as tools to solve the
+challenges of actutator control, and then added power to invent the
+airplane"
 
----
-
-"Soft robots are a growing trend in the industry...  DraBot works by
-controlling the air pressure coming into its wings"
-
----
-
-Quantitative history. Very awesome.
-
----
-
-Some of the 9 variables in the data file: "Polity population
-(`PolPop`), extent of polity territory (`PolTerr`), the size of the
-largest urban center, `CapPop`. Infrastructure (`infrastr`) captures
-the variety of observable structures and facilities that are involved
-in the functioning of the polity. The variable `texts`, which scales
-from 0 to 9, sums the number of securely attested types of texts (that
-is, coded as 'present').  The idea here is that the more sophisticated
-a society is informationally, the more different types of texts it
-will have in circulation. economic development is reflected in
-Monetary System (`money`). Presence of writing system is in `writing`"
-
-[Link](https://escholarship.org/content/qt99x6r11m/qt99x6r11m_noSplash_0ec83bc0d39d185f00345309a3db5508.pdf)
+[Link](https://journals.sfu.ca/ts/index.php/ts/article/viewFile/247/230)
 
 ---
 
-Attempted repl of a plot from the scale and information-processing [paper](https://www.nature.com/articles/s41467-020-16035-9).
-Similar output to Figure 2 is below. [Data](https://github.com/jaewshin/Holocene)
-
-```python
-import pandas as pd
-from sklearn.preprocessing import StandardScaler
-
-pnas_data1 = pd.read_csv('https://raw.githubusercontent.com/jaewshin/Holocene/master/data1.csv')
-
-features = ['PolPop', 'PolTerr', 'CapPop', 'levels', \
-'government','infrastr', 'writing', 'texts', 'money']
-
-data_mat = pnas_data1.loc[:, features].values
-scaler = StandardScaler()
-scaler.fit(data_mat)
-scaled = scaler.transform(data_mat)
-data_mat = scaled
-mean = np.mean(data_mat, axis=0)
-data_mat -= mean
-P, D, Q = np.linalg.svd(data_mat, full_matrices=False)
-data = np.matmul(scaled, Q.T) 
-fig = plt.figure()
-X, Y = data[:, 0], data[:, 1]
-p = np.poly1d(np.polyfit(X, Y, 4))
-plt.scatter(X, Y, s=3)
-plt.plot(X, p(X),'r.')
-plt.xlabel('First PC')
-plt.ylabel('Second PC')
-plt.savefig('pnas.png')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/ExgVXABWgAUEAG9?format=png&name=small"/>
+Dude can rearrange shit at a molecular level.. It's not even fair.
 
 ---
 
-"While the Wright brothers are credited with the first powered flight
-of a heavier than air vehicle that could take off and land from level
-ground, it was the German aviator, Otto Lilienthal, who first mastered
-the aerodynamics of hang gliders. In fact, the experiments of
-Lilienthal helped the Wright brothers a great deal in understanding
-the basics of flight. Lilienthal himself built eighteen different hang
-glider models over a period of five years and test flew them"
-
-[Link](https://www.researchgate.net/publication/37179495_Powered_Hang_Gliding)
+[Doh!](https://pbs.twimg.com/media/ExjsLenXEAISkRY?format=jpg&name=small)
 
 ---
 
-I agree. Spices are absolutely necessary to keep meat bacteria-free,
-they are in fact healthy, not just tasty.
-
-
-"Humans' use of antimicrobial spices developed in parallel with
-food-spoilage microorganisms, Cornell University biologists have
-demonstrated in a international survey of spice use in cooking... The
-proximate reason for spice use obviously is to enhance food
-palatability... But why do spices taste good? Traits that are
-beneficial are transmitted both culturally and genetically, and that
-includes taste receptors in our mouths and our taste for certain
-flavors. People who enjoyed food with antibacterial spices probably
-were healthier, especially in hot climates. They lived longer and left
-more offspring. And they taught their offspring and others: 'This is
-how to cook a mastodon.' We believe the ultimate reason for using
-spices is to kill food-borne bacteria and fungi."
-
-[Link](https://news.cornell.edu/stories/1998/03/food-bacteria-spice-survey-shows-why-some-cultures-it-hot)
+Who is the baddest mofo in Marvel Uni? Warlock? Molecule Man?
 
 ---
 
-It was all good when sugered water invent in US had its bottle
-produced in Phillipines, cap in Singapore, soda in Mexico, bottled in
-Spain, and shipped to US..  It aint so fine when invented in DE,
-bottled in Belgium, and all shipped to UK/US, is it? \#globalooney
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are for-profit scientific publishers good for science? No. Well, don’t they provide some useful services to scientists? No. Is there anything redeemable about them? Still, no. 🤷‍♂️ <a href="https://t.co/UVAobgDptY">https://t.co/UVAobgDptY</a></p>&mdash; Aaron Clauset (@aaronclauset) <a href="https://twitter.com/aaronclauset/status/1369673135176314883?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@james_oaten
+"@BDMurray
 
-Australia's ambassador to China says Beijing's trade behaviour is
-'vindictive'"
+Russia definitely *wants* to be a critical force in Myanmar, and
+elsewhere in ASEAN. Such a status would certainly be welcomed in the
+region as a counterbalance against China and the U.S. But, as I wrote
+last summer, it has trouble delivering"
 
 ---
 
-"@unzicker_a
+"Flipping the classroom" decsription doesnt do justice.. I dont want
+to flip the classroom around the same avg teacher, but to flip it
+around the bestest, for every subj, with prerec lecs. And also.. there
+is no classroom, only study halls, everyone learns at their own
+pace. Async is key. Async is the way to scale.
 
-\#Corona München will Modellstadt werden, aber der nächsten
-PCR-Testtermine gibt es im April?? Was sind heir für idioten am Werk?"
+---
+
+We like seeing people toiling away, actively, busily 'doing
+stuff'. Our current view of work is faulty. The grader position in my
+ed system will admittedly not be too 'busy', simply sitting around in
+the study halls, answering the occas question. But combined with
+pre-recorded delivery of lectures to all kids, this system will create
+better results compared to now where the teacher is "busily"
+lecturing, "doing stuff" all the time.
+
+---
+
+The answer is "historical statistics" apparently... It's true, a lot
+of internal dev stats cld be gleaned from wars.
+
+---
+
+Ha good title
+
+"What Studying War Is Good for"
 
 ---
 
