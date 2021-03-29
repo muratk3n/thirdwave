@@ -39,6 +39,69 @@ https://en.wikipedia.org/wiki/Test_functions_for_optimization
 ![](holder.png)
 
 
+<table>
+
+<tr>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=12Jo-UCYO80oBnz2GDVf5HFldtapS3i5I">
+</audio>
+</td>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1ooRjn-sHR8AfkTrGiUo2HQPJBgVbozGk">
+</audio>
+</td>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1KLMiRvfR-8hDn_H1mg9ejw2d4TEavqng">
+</audio>
+</td>
+</tr>
+
+<tr>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=12Jo-UCYO80oBnz2GDVf5HFldtapS3i5I">
+</audio>
+</td>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1ooRjn-sHR8AfkTrGiUo2HQPJBgVbozGk">
+</audio>
+</td>
+<td>
+<audio controls="controls">
+  <source src="https://drive.google.com/uc?export=view&id=1KLMiRvfR-8hDn_H1mg9ejw2d4TEavqng">
+</audio>
+</td>
+</tr>
+
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Diff Rhytm](diff-rhytm.gif)
 
 
