@@ -23,7 +23,8 @@ the past five days.
 
 I'm all into that contra jive too, but this one is little out of whack.
 
-"[Aero] lift is generated due to Coanda effect, not pressure differential"
+"[Aero] lift is generated due to Coanda effect, not pressure
+differential as a consequence of Bernoulli's Theorem"
 
 ---
 
