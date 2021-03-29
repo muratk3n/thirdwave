@@ -28,7 +28,7 @@ differential as a consequence of Bernoulli's Theorem"
 
 ---
 
-Walk before you can run. And glide before you motor fly?
+Walk before you can run. Glide before you.. motor fly?
 
 "Orville and Wilbur Wright integrated and safely flew the first
 successful, controlled, powered airplane. The process they used was
