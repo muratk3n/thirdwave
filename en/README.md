@@ -2,13 +2,10 @@
 
 "@mercoglianos
 
-'@Splash_247 have the word-ship is fully afloat & free to navigate.
-
-Her engine is available but they will not use it.
-
-\#Evergiven will be towed into the Lake to open up the lane & get traffic moving.
-
-They will clear the lake & then livestock carriers'"
+[Via @Splash_247] have the word-ship is fully afloat & free to
+navigate. Her engine is available but they will not use
+it. \#Evergiven will be towed into the Lake to open up the lane & get
+traffic moving. They will clear the lake & then livestock carriers'"
 
 ---
 
