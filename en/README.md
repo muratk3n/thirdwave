@@ -1,5 +1,14 @@
 # Tweets
 
+"@mercoglianos
+
+[Via @Splash_247] have the word-ship is fully afloat & free to
+navigate. Her engine is available but they will not use
+it. \#Evergiven will be towed into the Lake to open up the lane & get
+traffic moving. They will clear the lake & then livestock carriers"
+
+---
+
 "@man_integrated
 
 Pertamina (Indonesia's state-owned oil company) signed a deal with CPC
