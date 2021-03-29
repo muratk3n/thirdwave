@@ -1,10 +1,14 @@
 # Tweets
 
-"@tomgara
+"@mercoglianos
 
-An amazing little subplot in the Suez thing is that Egyptian media,
-which basically reached North Korean levels in recent years, has been
-reporting that the problem was solved and done with days ago"
+'@Splash_247 have the word-ship is fully afloat & free to navigate.
+
+Her engine is available but they will not use it.
+
+\#Evergiven will be towed into the Lake to open up the lane & get traffic moving.
+
+They will clear the lake & then livestock carriers'"
 
 ---
 
@@ -91,6 +95,14 @@ of internal dev stats cld be gleaned from wars.
 Ha good title
 
 "What Studying War Is Good for"
+
+---
+
+"@tomgara
+
+An amazing little subplot in the Suez thing is that Egyptian media,
+which basically reached North Korean levels in recent years, has been
+reporting that the problem was solved and done with days ago"
 
 ---
 
