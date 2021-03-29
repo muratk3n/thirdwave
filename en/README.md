@@ -69,9 +69,9 @@ last summer, it has trouble delivering"
 
 "Flipping the classroom" decsription doesnt do justice.. I dont want
 to flip the classroom around the same avg teacher, but flip it around
-the bestest, for every subj, with prerec lecs. And also.. there is no
-classroom, only study halls, everyone learns at their own pace. Async
-is key. Async is the way to scale.
+the bestest, for every subj (thr prerec lectures). And also.. there is
+no classroom, only study halls, everyone learns at their own
+pace. Async is key. Async is the way to scale.
 
 ---
 
