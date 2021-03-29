@@ -1,12 +1,5 @@
 # Week 12
 
-"@mattblaze
-
-Actually, 'Evergreen' is the name of the company that operates the
-ship. The name of the ship is 'Evergreen's Monster'"
-
----
-
 "@gabriel_zucman
 
 Your periodic reminder that 40% of the pre-tax income of the US
