@@ -31,7 +31,7 @@ differential as a consequence of Bernoulli's Theorem"
 Walk before you can run. And glide before you motor fly?
 
 "Orville and Wilbur Wright integrated and safely flew the first
-successftrl, controlled, powered airplane. The process thev used was
+successful, controlled, powered airplane. The process they used was
 one of progressive design and was successful to a large degree because
 of their experience with gliders. Previous attempts at powered flight
 were unsuccessful because the inventors tried to fly first with power
