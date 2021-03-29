@@ -20,20 +20,20 @@ the past five days.
 
 ---
 
-Hey I'm all into that contra jive, but this one is little out of whack.
+I'm all into that contra jive too, but this one is little out of whack.
 
 "[Aero] lift is generated due to Coanda effect, not pressure differential"
 
 ---
 
-Walk before you can run. And .. glide before you motor fly?
+Walk before you can run. And glide before you motor fly?
 
 "Orville and Wilbur Wright integrated and safely flew the first
 successftrl, controlled, powered airplane. The process thev used was
 one of progressive design and was successful to a large degree because
 of their experience with gliders. Previous attempts at powered flight
 were unsuccessful because the inventors tried to fly first with power
-before the subtleties of conirol were addressed. The Wrights instead
+before the subtleties of control were addressed. The Wrights instead
 first learned how to fly using gliders as tools to solve the
 challenges of actutator control, and then added power to invent the
 airplane"
