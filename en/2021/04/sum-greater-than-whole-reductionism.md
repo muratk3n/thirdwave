@@ -208,8 +208,6 @@ the sounds in the 50'th second of *Superstition*. The guitar wont be
 good for anything else, its components will be bizarre, not applicable
 to anything, inflexible, dumb.
 
-Addn 1
-
 Philosophers stumbled upon on the idea at times in the East; Ghazali
 said for instance "you combine something with something else, you get
 a third thing". He was aware of combinations, but did not offer
@@ -223,17 +221,17 @@ might be, it lies in their interactions, how they jell with another,
 and the myriad ways they can produce a solution.
 
 The West can go awry in its prevelant use of this method, at least, in
-a subconcious level. The fear of
-[Frankenstein](2020/07/robot-frankenstein.md), of industry, now of AI
-can be seen as an example of this, as a society it has seen how
-interactions of simple components brought much power, and sure, deep
-net neural "AI" solutions are composed of such simple things,
-neurons. What is missed here that such combinations need to be
-crafted, very carefully, for every problem, which makes it hard for
-any system going "productively berserk", or even step outside its
-programming in an malicious way.
+a subconcious level. The fear of [Frankenstein](2020/07/robot-frankenstein.md),
+of industry, now of AI can be seen as an example of this, as a society
+it has seen how interactions of simple components brought much power,
+and sure, deep net neural "AI" solutions are composed of such simple
+things, neurons. What is missed here that such combinations need to be
+crafted, very carefully, for every problem (or channeled as in case of
+social systems through institutions, as in the party system for
+democracies), which makes it hard for any system going "productively
+berserk", or even step outside its programming in an malicious way.
 
-Addn 2
+Note
 
 When scientists analyze complex systems, and if they came up with
 simple additive looking results, we need to be careful, look beyond
