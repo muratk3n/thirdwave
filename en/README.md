@@ -108,9 +108,10 @@ Yan Gora             Nigeria                   3       0
 
 ---
 
-I realized Seshat data file had some columns "scaled", so they dont reflect
-the raw value. Where is the raw value? I find the orig, but it has columns
-seperated to *rows*. Woha. Scrubbing now.
+I realized Seshat data file had some columns "scaled", so they dont
+reflect the raw value. Where is the raw value? I find the original,
+which has column values spread out to multiple *rows*. Woha. Scrubbing
+now.
 
 ---
 
