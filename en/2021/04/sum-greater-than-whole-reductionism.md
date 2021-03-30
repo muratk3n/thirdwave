@@ -204,9 +204,8 @@ said areas.. Many a times the approach chosen by a developing country
 is copying the product, the final sum, in bizarrely divvied up
 ways. In essence they end up creating that weird guitar just for one
 song, that when one of its 1000's of strings is plucked, will play all
-the sounds in the 50'th second of *Superstition*. The guitar wont be
-good for anything else, its components will be bizarre, not applicable
-to anything, inflexible, dumb.
+the sounds in the eg 50'th second of *Superstition*. The guitar wont
+be good for anything else, not be applicable to anything else.
 
 Philosophers stumbled upon on the idea at times in the East; Ghazali
 said for instance "you combine something with something else, you get
