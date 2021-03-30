@@ -63,15 +63,12 @@ la promenade des anglais. #baiedesanges #nice #bikelife #h2bike #h2now
 
 ---
 
-Huge actv spike in DR Congo, Mozambique. Many deaths in Mali, MSA is
+Huge actv spike in DR Congo, Mozambique. Lot of deaths in Mali, MSA is
 French aligned right?
 
 ---
 
-UCDP Feb 2021 data is out.
-
-Looking at IS activity. First total is incidence count, other is
-deaths total.
+UCDP Feb 2021 data is out. Looking at IS activity. 
 
 ```python
 import pandas as pd
