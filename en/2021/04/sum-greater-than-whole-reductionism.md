@@ -220,18 +220,20 @@ power lies not simple addition of the components however good they
 might be, it lies in their interactions, how they jell with another,
 and the myriad ways they can produce a solution.
 
-The West can go awry in its prevelant use of this method, at least, in
-a subconcious level. The fear of [Frankenstein](2020/07/robot-frankenstein.md),
-of industry, now of AI can be seen as an example of this, as a society
-it has seen how interactions of simple components brought much power,
-and sure, deep net neural "AI" solutions are composed of such simple
-things, neurons. What is missed here that such combinations need to be
+Addend 1
+
+The West can experience misplaced fear, at least, in a subconcious
+level. The fear of [Frankenstein](2020/07/robot-frankenstein.md), of
+industry, now of AI can be an example, as a society it has seen how
+interactions of simple components brought much power, and sure, deep
+net neural "AI" solutions are composed of such simple things,
+neurons. What is missed here that such combinations need to be
 crafted, very carefully, for every problem (or channeled as in case of
 social systems through institutions, as in the party system for
 democracies), which makes it hard for any system going "productively
-berserk", or even step outside its programming in an malicious way.
+berserk", or even step outside its programming in a malicious way.
 
-Note
+Addend 2
 
 When scientists analyze complex systems, and if they came up with
 simple additive looking results, we need to be careful, look beyond
