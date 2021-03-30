@@ -26,7 +26,7 @@
 
 [Private Government](03/private-government.md)
 
-[Good Reductionism (Sum Is Greater Than Whole)](03/sum-greater-than-whole-reductionism.md)
-
 [Unrivaled](03/unrivaled-beckley.md)
+
+[Good Reductionism and Nonlinear Power](04/sum-greater-than-whole-reductionism.md)
 

@@ -1,4 +1,24 @@
-# Good Reductionism (Sum Is Greater Than Whole)
+# Good Reductionism and Nonlinear Power
+
+*Das Ganze ist etwas anderes als die Summe seiner Teile* (the whole
+is something else than the sum of its parts) -- Kurt Koffka
+
+
+I hear criticisms using the words "oh but that's too reductionist" on
+analysis' that involve break an issue into individual components. This
+criticism can be unfair and I will try to outline why. On the reverse
+side, combination of little pieces in a certain way leads to much
+power, so it's key we understand both sides of this equation.
+
+First *lineer* addition of components is uninteresting. They can be
+figured out easily, twice of something that do X can do 2X. I have A,
+add B, I get AB. The analysis and creation of such mechanisms yield
+to average results.
+
+However when scientists analyze interesting systems, or engineers
+build them what they look for is individual components, yes, but also
+the *nonlinear ways* they can interact which give 
+
 
 ![](vengine.png)
 
