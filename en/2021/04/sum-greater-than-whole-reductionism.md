@@ -3,26 +3,42 @@
 *Das Ganze ist etwas anderes als die Summe seiner Teile* (the whole
 is something else than the sum of its parts) -- Kurt Koffka
 
-
 I hear criticisms using the words "oh but that's too reductionist" on
-analysis' that involve break an issue into individual components. This
-criticism can be unfair and I will try to outline why. On the reverse
-side, combination of little pieces in a certain way leads to much
-power, so it's key we understand both sides of this equation.
+analysis' that might involve break an issue into individual
+components.. This criticism is usually misguided and I will try to
+outline why. They miss the interaction, the nonlinearity of those
+"pieces" and on the reverse side, the power that stems from the
+combination of those little pieces that gave us much of the modern
+world today. It's key we understand both sides of this equation.
 
-First *lineer* addition of components is uninteresting. They can be
-figured out easily, twice of something that do X can do 2X. I have A,
-add B, I get AB. The analysis and creation of such mechanisms yield
-to average results.
+In a system we see pieces, but how are they together? How were they
+added? *Linear* addition of components is uninteresting.. They are
+simple to see, and frankly will not achieve much beyond their domain.
+Twice of something that do X, can do 2X. I have A, add B, I get
+A+B. There is nothing to this. The analysis and creation of such
+mechanisms yield to average results.
 
 However when scientists analyze interesting systems, or engineers
-build them what they look for is individual components, yes, but also
-the *nonlinear ways* they can interact which give 
-
+build them, what they look for is individual components, yes, but also
+the *nonlinear ways* they can interact. It is this interaction that
+leads to power. Look at the way the V-engine shaft turns,
 
 ![](vengine.png)
 
-[Link](https://drive.google.com/uc?export=view&id=18wE8NaHsydycnITM_OGuDX3WMrjndPgN)
+It is a simple rotation, right. One shaft. There are two other axes
+connected to it. But look at the connection, at different
+angles. Rotation easy. Connecting easy. Rods easy. But connect two, to
+the same shaft, at angle, gives you this,
+
+[Video](https://drive.google.com/uc?export=view&id=18wE8NaHsydycnITM_OGuDX3WMrjndPgN)
+
+We just created an orderly movement, one push after another, and guaranteed
+certain force, using "simple components".
+
+What if I wanted to create non-rhytmic push action? I have simple rotation, 
+
+[Diff Rhytm](diff-rhytm.gif)
+
 
 
 ```python
@@ -125,7 +141,6 @@ The Making of BTS https://youtu.be/qBCM1Fy-ByY
 
 
 
-[Diff Rhytm](diff-rhytm.gif)
 
 
 
