@@ -1,5 +1,12 @@
 # Population of Asia Minor 
 
+The arrival of new ppl into Asia Minor (Anatolia) seems to be around 1
+million arriving into a population of 9 million, roughly 10%. These
+people came to settle, not to battle (unlike Mongols later, who came
+to conquer and killed a lot of people, in fact beat the Seljuks the
+dominant power at the time. Many pop decreases have to do with plaque,
+and the Mongols. 
+
 
 ```python
 import pandas as pd, zipfile
@@ -37,3 +44,12 @@ plt.savefig('asiaminor.png')
 ```
 
 ![](asiaminor.png)
+
+
+From *Demography, Part 1* by Vinogradov,
+
+![](pop-asia-minor.png)
+
+Population hovers mostly around 7 million, it was 8 million at 1025,
+7.2 million on 1300, 7 million 1500...
+

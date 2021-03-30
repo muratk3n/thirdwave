@@ -832,7 +832,7 @@ days.
 
 ---
 
-I bet [you can't](../../2020/04/turks-culture-national-narrative.md#population)
+I bet [you can't](../../2020/04/asia-minor-population.md)
 
 "Tigger: But I bet I can find our nat roots in the population data"
 
