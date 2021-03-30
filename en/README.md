@@ -80,28 +80,30 @@ df = pd.read_csv('https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_2.csv
 pd.set_option('display.max_rows', 100)
 pd.set_option('display.max_colwidth', 20)
 df1 = df[(df['side_a'] == 'IS' )]
-print (df1[['side_b','deaths_b','country']].\
-      groupby(['side_b','country']).\
-      agg({'country':'count', 'deaths_b': 'sum'}) )
+g = df1[['side_b','deaths_b','country']].\
+    groupby(['side_b','country']).\
+    agg({'country':'count', 'deaths_b': 'sum'})
+g.columns = ['incidents','deaths']    
+print (g)
 ```
 
 ```text
-                                       country  deaths_b
+                                       incidents  deaths
 side_b               country                            
-Civilians            Afghanistan             3         0
-                     Burkina Faso            6         0
-                     DR Congo (Zaire)       13         0
-                     Egypt                   1         0
-                     Mozambique              7         0
-                     Nigeria                 1         0
-                     Syria                   5         0
-JNIM                 Burkina Faso            3         4
-Jama'atu Ahlis Su... Niger                   1         0
-                     Nigeria                 1         3
-MSA                  Mali                    1        10
-SDF                  Syria                   9         9
-Taleban              Pakistan                1         1
-Yan Gora             Nigeria                 3         0
+Civilians            Afghanistan               3       0
+                     Burkina Faso              6       0
+                     DR Congo (Zaire)         13       0
+                     Egypt                     1       0
+                     Mozambique                7       0
+                     Nigeria                   1       0
+                     Syria                     5       0
+JNIM                 Burkina Faso              3       4
+Jama'atu Ahlis Su... Niger                     1       0
+                     Nigeria                   1       3
+MSA                  Mali                      1      10
+SDF                  Syria                     9       9
+Taleban              Pakistan                  1       1
+Yan Gora             Nigeria                   3       0
 ```
 
 ---
