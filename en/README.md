@@ -1,18 +1,5 @@
 # Tweets
 
-Peter Beck of Rocketlab on Venus. RocketLab has delivered successful
-payloads to space, solid outfit. 
-
-[Link](https://youtu.be/SjuxmH7eWHc?t=1581)
-
----
-
-Venezuella and TR near the top.. It's like the order of disfunction.
-
-<img width="340" src="https://pbs.twimg.com/media/ExobutwXIAEznKF?format=png&name=small"/>
-
----
-
 France 24: "Glimpse of a post-Covid future? Masks ditched as Gibraltar
 nears total vaccination... Signs reminding people to wear a face mask
 in public were taken down by workmen in Gibraltar on Sunday in the
@@ -21,6 +8,19 @@ normal in the small British overseas territory. Gibraltar is one of
 the first places in the world to have vaccinated virtually its entire
 adult population against Covid-19 and may now offer a clue as to how
 other nations will fare when their own populations are inoculated"
+
+---
+
+Peter Beck of Rocketlab on Venus. RocketLab has delivered successful
+payloads to space, solid outfit. 
+
+[Link](https://youtu.be/SjuxmH7eWHc?t=1581)
+
+---
+
+Venezuella and TR near the top.. 
+
+<img width="340" src="https://pbs.twimg.com/media/ExobutwXIAEznKF?format=png&name=small"/>
 
 ---
 
