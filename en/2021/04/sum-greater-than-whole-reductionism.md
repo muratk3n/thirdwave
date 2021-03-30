@@ -35,10 +35,27 @@ the same shaft, at angle, gives you this,
 We just created an orderly movement, one push after another, and guaranteed
 certain force, using "simple components".
 
-What if I wanted to create non-rhytmic push action? I have simple rotation, 
+What if I wanted to create a push action at different intervals, not
+just regular?
 
-[Diff Rhytm](diff-rhytm.gif)
+I immediately try to think of simple components, and try to achieve
+nonlinearity through interactions.. Simple rotation. Simple rod. But
+the rotating object is not round, has certain nonlinear shape which is
+how it interacts with the rod, and that in turn gets pushed in an
+interval I want.
 
+[Video](diff-rhytm.gif)
+
+Let's look at a subect I studied, optimization. In this subject, we
+run our algorithms on "funky 3D shapes" that are famous for having
+many ups and downs, we want tricky shapes bcz the minima searching
+algs usually looks to its nearby region, we want to see if they will
+"fall" into one of those holes and get stuck there. So the subject
+over the years zoned in to a few of those funky shapes that are the
+result of short, simple formulas, which gives us good examples now to
+demo how complicated results can be the result of simple components.
+
+Here is one of those famous functions, the Hölder table function,
 
 
 ```python
@@ -60,7 +77,9 @@ surf = ax.plot_surface(X, Y, Z, cmap=cm.viridis)
 plt.savefig('out.png')
 ```
 
-Hölder table function
+![](holder.png)
+
+Its formula is
 
 $$
 f(x,y) =
@@ -70,15 +89,19 @@ f(x,y) =
 \bigg| 
 $$
 
-https://en.wikipedia.org/wiki/Test_functions_for_optimization
+Short and sweet. There is a boring cosine, boring sine, x and y, a few
+additions.. But let's see how are these components put together;
+Nonlinearly.
 
-![](holder.png)
+Sine *times* cosine, *squared* x and y, only then added. The result is
+"the table we see, nothing that u could have guessed by looking at the
+components. The whole is something else than the sum of its parts
+(meaning linear sum).
 
-
-The Making of BTS https://youtu.be/qBCM1Fy-ByY
+Same with music. Here are the components that make up K-Pop band BTS's
+song Dynamite, written by the British composer David Stewart [2]. 
 
 <table>
-
 <tr>
 <td>
 <audio controls="controls">
@@ -96,7 +119,6 @@ The Making of BTS https://youtu.be/qBCM1Fy-ByY
 </audio>
 </td>
 </tr>
-
 <tr>
 <td>
 <audio controls="controls">
@@ -114,7 +136,6 @@ The Making of BTS https://youtu.be/qBCM1Fy-ByY
 </audio>
 </td>
 </tr>
-
 <tr>
 <td>
 <audio controls="controls">
@@ -132,15 +153,34 @@ The Making of BTS https://youtu.be/qBCM1Fy-ByY
 </audio>
 </td>
 </tr>
-
 </table>
+
+Simple, boring components right? But they are crafted in a certain way, so when
+they are put together, this results,
 
 <audio controls="controls">
   <source src="https://drive.google.com/uc?export=view&id=1MzNva_prkzCmM2O3FmhtotyOtU1AtHvD">
 </audio>
 
+Analyzing
+
+When scientists analyze complex systems, and if they came up with
+simple additive looking results, we need to be careful, look beyond
+it, and see if they used nonlinearity elsewhere. $u_x + u_t = 0$ might
+seem an seem inocuous looking statement, but that subscript hides
+concept from differential calculus that took centuries to perfect. So
+scientists sometimes smush, twist, bend a problem to get a "linear
+superposition", lest be mistaken, there will be much nonlinearity
+hidden in the path of getting there. It's like taking the log of
+exponential data that gives you a simple, straight line. The act of
+taking the log, and recognizing the exponential curve is what gave us
+that linear line. 
 
 
 
+References
 
+[1] https://en.wikipedia.org/wiki/Test_functions_for_optimization
+
+[2] [The Making of BTS Dynamite](https://youtu.be/qBCM1Fy-ByY)
 
