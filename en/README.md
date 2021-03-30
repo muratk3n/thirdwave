@@ -18,12 +18,6 @@ payloads to space, solid outfit.
 
 ---
 
-Venezuella and TR near the top.. 
-
-<img width="340" src="https://pbs.twimg.com/media/ExobutwXIAEznKF?format=png&name=small"/>
-
----
-
 WSJ: "WHO Report Into Covid-19 Origins Leaves Key Questions
 Unanswered... A World Health Organization-led team investigating the
 origins of the Covid-19 pandemic found that data examined during a
