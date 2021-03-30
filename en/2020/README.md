@@ -10,6 +10,8 @@
 
 [Are Black People a Monolith?](03/monolith.md)
 
+[](04/asia-minor-population.md)
+
 [Turks, Culture, National Narrative](04/turks-culture-national-narrative.md)
 
 [10 Myths about Israel](06/10-myths-israel.md)
