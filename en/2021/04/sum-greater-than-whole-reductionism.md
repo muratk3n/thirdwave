@@ -12,6 +12,8 @@ to the combination of those little pieces, that gave us much of the
 modern world today. It's key we understand both sides of this
 equation.
 
+Systems
+
 There are many systems, some mechanical, some social. In those systems
 we see pieces, but how are they held together? How were they added?
 *Linear* addition of components is uninteresting.. They are simple to
@@ -93,13 +95,12 @@ f(x,y) =
 $$
 
 Short and sweet. There is a boring cosine, boring sine, x and y,
-booring, and a few additions.. But let's see how are these components
-put together; Nonlinearly.
-
-Sine *times* cosine, *squared* x and y, only *then* added. The result
-is "the table" we see, nothing that we could have guessed by just
-looking at the individual components.. The whole is something else
-than the sum of its parts entirely, and by sum I mean linear sum.
+booring, and a few additions.. But pay attention to how are these
+components put together; Nonlinearly. Sine *times* cosine, *squared* x
+and y, only *then* added. The result is "the table" we see, nothing
+that we could have guessed by just looking at the individual
+components.. The whole is something else other than the sum of its
+parts, entirely (by sum of course I mean linear sum)
 
 Same with music. Here are the components that make up K-Pop band BTS's
 song Dynamite, written by the British composer David Stewart [2]. 
@@ -167,19 +168,10 @@ when they are finally placed together, this results,
   <source src="https://drive.google.com/uc?export=view&id=1MzNva_prkzCmM2O3FmhtotyOtU1AtHvD">
 </audio>
 
-Systems Analysis 
-
-When scientists analyze complex systems, and if they came up with
-simple additive looking results, we need to be careful, look beyond
-it, and see if they used nonlinearity elsewhere. $u_x + u_t = 0$ might
-seem an seem inocuous looking statement, but that subscript hides
-concept from differential calculus that took centuries to perfect. So
-scientists sometimes smush, twist, bend a problem to get a "linear
-superposition", but lest be mistaken, there will be much nonlinearity
-hidden in the path of getting there. It's like taking the log of
-exponential data that gives you a simple, straight line. The act of
-taking the log, and recognizing the exponential curve is what gave us
-that linear line.
+Fantastic result. I remember when I first listened to Stevie Wonder's
+*Supersitition* I was similarly impressed to notice its tracks, its
+components, and how they came together in that song, and realized the
+genius of it. Brilliant.
 
 Social Implications
 
@@ -200,15 +192,23 @@ democracies, still does not get **it**. China fears the components (ie
 its citizens), how they can come together, so opresses their
 interactions, and the human elements themselves. These countries are
 stuck in First Wave agrarian mentality, where X + X got you 2X. More
-land, more peasants, more
-produce. The-whole-large-than-the-sum-of-parts gives you something
+land, more peasants, more produce. The-whole-large-than-the-sum-of-parts gives you something
 different entirely. It leads to much ability, and power. This is how
 the British dominated the seas, their biggest trick was combining a
 clock, with a reference point and simple math. This allows the
 calculation of the correct longitude, and that combined with simple
-latitude info, gave te ships their precise locations on Earth. 
+latitude info, gave te ships their precise locations on Earth.
 
-Note
+Countries need to come to terms with this; if there is deficiency in
+said areas.. Many a times the approach chosen by a developing country
+is copying the product, the final sum, in bizarrely divvied up
+ways. In essence they end up creating that weird guitar just for one
+song, that when one of its 1000's of strings is plucked, will play all
+the sounds in the 50'th second of *Superstition*. The guitar wont be
+good for anything else, its components will be bizarre, not applicable
+to anything, inflexible, dumb.
+
+Addn 1
 
 Philosophers stumbled upon on the idea at times in the East; Ghazali
 said for instance "you combine something with something else, you get
@@ -232,6 +232,20 @@ neurons. What is missed here that such combinations need to be
 crafted, very carefully, for every problem, which makes it hard for
 any system going "productively berserk", or even step outside its
 programming in an malicious way.
+
+Addn 2
+
+When scientists analyze complex systems, and if they came up with
+simple additive looking results, we need to be careful, look beyond
+it, and see if they used nonlinearity elsewhere. $u_x + u_t = 0$ might
+seem an seem inocuous looking statement, but that subscript hides
+concepts from differential calculus that took centuries to perfect. So
+scientists sometimes smush, twist, bend a problem to get a "linear
+superposition", but lest we be mistaken, there will be much
+nonlinearity hidden in the path of getting there. It's like taking the
+log of exponential data that gives you a simple, straight line. The
+act of taking the log, and recognizing the exponential curve is what
+gave us that final "linearity".
 
 References
 
