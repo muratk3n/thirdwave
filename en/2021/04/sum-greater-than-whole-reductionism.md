@@ -193,7 +193,7 @@ gave us that final "linearity".
 
 References
 
-[1] https://en.wikipedia.org/wiki/Test_functions_for_optimization
+[1] [Test functions](https://en.wikipedia.org/wiki/Test_functions_for_optimization)
 
 [2] [The Making of BTS Dynamite](https://youtu.be/qBCM1Fy-ByY?t=33)
 
