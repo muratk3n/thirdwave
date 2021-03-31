@@ -58,11 +58,9 @@ that the UK is also part of a wider European tilt to the region
 
 ---
 
-"We shouldn’t have had to go to court. For a year, we’ve been fighting
-legal battles over the British government’s secretive NHS data deals
-with controversial ‘spy tech’ firm Palantir.
-
-Today, we can announce an important victory.
+"For a year, we’ve been fighting legal battles over the British
+government’s secretive NHS data deals with controversial ‘spy tech’
+firm Palantir. Today, we can announce an important victory.
 
 Back in December, after we had spent months on legal efforts to get
 transparency, the government snuck through a massive £23m, two-year
