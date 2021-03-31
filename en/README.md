@@ -1,114 +1,85 @@
 # Tweets
 
-France 24: "Glimpse of a post-Covid future? Masks ditched as Gibraltar
-nears total vaccination... Signs reminding people to wear a face mask
-in public were taken down by workmen in Gibraltar on Sunday in the
-latest indication that life is slowly returning to something close to
-normal in the small British overseas territory. Gibraltar is one of
-the first places in the world to have vaccinated virtually its entire
-adult population against Covid-19 and may now offer a clue as to how
-other nations will fare when their own populations are inoculated"
+"@Joyce_Karam
+
+BREAKING: US, UK and 12 Other Govs issue Statement of 'Shared
+Concerns' on WHO - \#China study that stresses animal transmission of
+\#Covid"
+
+[Link](https://mobile.twitter.com/Joyce_Karam/status/1376937299477417988)
 
 ---
 
-Peter Beck of Rocketlab on Venus. RocketLab has delivered successful
-payloads to space, solid outfit. 
-
-[Link](https://youtu.be/SjuxmH7eWHc?t=1581)
+NYT: "Coronavirus Origins Remain Unclear in W.H.O.-China Inquiry"
 
 ---
 
-WSJ: "WHO Report Into Covid-19 Origins Leaves Key Questions
-Unanswered... A World Health Organization-led team investigating the
-origins of the Covid-19 pandemic found that data examined during a
-recent mission to China was insufficient to answer critical questions
-as to when, where and how the virus began spreading"
+"Pfizer has been accused of 'bullying' Latin American governments in
+Covid vaccine negotiations and has asked some countries to put up
+sovereign assets, such as embassy buildings and military bases, as a
+guarantee against the cost of any future legal cases, the Bureau of
+Investigative Journalism can reveal.
+
+In the case of one country, demands made by the pharmaceutical giant
+led to a three-month delay in a vaccine deal being agreed. For
+Argentina and Brazil, no national deals were agreed at all. Any
+hold-up in countries receiving vaccines means more people contracting
+Covid-19 and potentially dying"
+
+[Link](https://www.thebureauinvestigates.com/stories/2021-02-23/held-to-ransom-pfizer-demands-governments-gamble-with-state-assets-to-secure-vaccine-deal)
 
 ---
 
-"Stanford Scientists Reverse Engineer Moderna Vaccine, Post Code on Github"
-
-[Link](https://www.vice.com/amp/en/article/7k9gya/stanford-scientists-reverse-engineer-moderna-vaccine-post-code-on-github)
+Processed Seshat dataset for Asia Minor population, [post](2020/04/asia-minor-population.md).
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢The UK is planning to have its first hydrogen town by 2030! The fuel cell sector is looking forward.<br>✅No CO2 emissions<br>✅High efficiencies<br>✅Empowered local communities<br>➡️<a href="https://t.co/ifIsrdNk54">https://t.co/ifIsrdNk54</a> <a href="https://t.co/KMD7X9bTn1">pic.twitter.com/KMD7X9bTn1</a></p>&mdash; PACE (@PACEmCHP) <a href="https://twitter.com/PACEmCHP/status/1376496265337450496?ref_src=twsrc%5Etfw">March 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Previous PCA analysis still valid on scaled values, yes \#Seshat
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t know what people expect here. There is no co-ordinated state or global effort that has any control over these vaccines, and no serious non marketized alternative. This is HOW the market delivers--by stripping state assets. <a href="https://t.co/Va7lEpeXAC">https://t.co/Va7lEpeXAC</a></p>&mdash; Stephen Buranyi (@stephenburanyi) <a href="https://twitter.com/stephenburanyi/status/1364179702831792134?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@StellaMoris1
+
+After a hard night, Julian woke up this morning to a kind, personal
+message from Pope Francis @pontifex delivered to his cell door by the
+prison priest"
 
 ---
 
-My approach allows for it..  We cant rule out schools tho, or "that
-other place where kids can go to outside their home", or whatever it
-may be called in the future, bcz it doubles as a daycare center for
-many working parents (the pandemic made this clear), and especially in
-poorer neighborhoods, if there is trouble at home, etc it can work as
-a sanctuary of sorts, kids go there, to a well-known place where other
-adults are present.
-
-"But a lot of new ed approaches are around homeschooling, why aren't
-you for homeschooling?"
+[Good Reductionism and Nonlinear Power](2021/04/sum-greater-than-whole-reductionism.md)
 
 ---
 
-"@MobilityPragma
+"@shashj
 
-Hello @villedenice !!! 😎🌞Le vélo à #hydrogène Alpha de passage sur
-la promenade des anglais. #baiedesanges #nice #bikelife #h2bike #h2now
-@provencealpescotedazur à Nice Ville - Promenade des Anglais"
-
-<img width="340" src="https://pbs.twimg.com/media/ExqAP64WQAkjHK_?format=jpg&name=small"/>
+So much discussion around the UK's Indo-Pacific tilt misses the point
+that the UK is also part of a wider European tilt to the region
+(rather than indulging in some sort of neo-colonial nostalgia trip)"
 
 ---
 
-Huge actv spike in DR Congo, Mozambique. Lot of deaths in Mali, MSA is
-French aligned right?
+"We shouldn’t have had to go to court. For a year, we’ve been fighting
+legal battles over the British government’s secretive NHS data deals
+with controversial ‘spy tech’ firm Palantir.
 
----
+Today, we can announce an important victory.
 
-UCDP Feb 2021 data is out. Looking at IS activity. 
+Back in December, after we had spent months on legal efforts to get
+transparency, the government snuck through a massive £23m, two-year
+deal with Palantir, a CIA-backed data firm. They contracted Palantir
+to process our sensitive health data.
 
-```python
-import pandas as pd
-pd.set_option('display.max_columns', None)
-df = pd.read_csv('https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_2.csv')
-pd.set_option('display.max_rows', 100)
-pd.set_option('display.max_colwidth', 20)
-df1 = df[(df['side_a'] == 'IS' )]
-g = df1[['side_b','deaths_b','country']].\
-    groupby(['side_b','country']).\
-    agg({'country':'count', 'deaths_b': 'sum'})
-g.columns = ['incidents','deaths']    
-print (g)
-```
+We raised objections: the initial deals were framed as a short-term,
+emergency COVID response, but the new contract revealed mission creep
+well beyond the pandemic.
 
-```text
-                                       incidents  deaths
-side_b               country                            
-Civilians            Afghanistan               3       0
-                     Burkina Faso              6       0
-                     DR Congo (Zaire)         13       0
-                     Egypt                     1       0
-                     Mozambique                7       0
-                     Nigeria                   1       0
-                     Syria                     5       0
-JNIM                 Burkina Faso              3       4
-Jama'atu Ahlis Su... Niger                     1       0
-                     Nigeria                   1       3
-MSA                  Mali                      1      10
-SDF                  Syria                     9       9
-Taleban              Pakistan                  1       1
-Yan Gora             Nigeria                   3       0
-```
+Government lawyers insisted that citizens have no right to a say in
+major NHS contracts with big tech. But we believed the
+public does have those rights. So we sued.
 
----
+Facing our lawsuit, the government has finally caved"
 
-I realized Seshat data file had some columns "scaled", so they dont
-reflect the raw value. Where is the raw value? I find the original,
-which has column values spread out to multiple *rows*. Woha. Scrubbing
-now.
+[Link](https://www.opendemocracy.net/en/ournhs/weve-won-our-lawsuit-over-matt-hancocks-23m-nhs-data-deal-with-palantir/)
 
 ---
 
