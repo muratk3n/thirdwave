@@ -1,6 +1,7 @@
 # Population of Asia Minor 
 
-Analysis using the Seshat data; We used the Equinox-2020 dataset,
+Analysis using the Seshat data; We used the Equinox-2020 dataset from below,
+local version [here](seshat-row.zip)
 
 http://seshatdatabank.info/datasets/
 
