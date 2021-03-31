@@ -82,10 +82,9 @@ plt.savefig('out.png')
 
 ![](holder.png)
 
-Its formula is
+Its formula, for $f(x,y)$
 
 $$
-f(x,y) =
 -
 \bigg|
 \sin(x) \cos(y) \exp \left( \bigg| 1 - \frac{\sqrt(x^2+y^2)}{\pi}  \bigg| \right)
