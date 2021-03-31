@@ -57,12 +57,13 @@ As an alternative source, data from *Demography, Part 1* by Vinogradov is also b
 
 ![](pop-asia-minor.png)
 
-Accoring to this source, population hovers mostly around 7 million, it
-was 8 million at 1025, 7.2 million on 1300, 7 million 1500...
+According to this source, AM population hovers mostly around 7
+million, it was 8 million at 1025, 7.2 million on 1300, 7 million
+1500...
 
 Both datasets support a minority thesis, and since culture codes are
-the important element here which is tied to geography, arrivals wld
-mostly be assimilated and be part of their region. This is the reason
+the important element, that are tied to geography, arrivals wld mostly
+be assimilated and belong to their region. This is the reason why
 today's Anatolians are close in culture to Greeks, Armenians, or
-Kurds, one cld say *are* a combination of all these cultures / peoples.
-
+Kurds, or one cld say *are* a culmination of all of them, including of
+course some migrants, in a small fashion. 
