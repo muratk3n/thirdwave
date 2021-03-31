@@ -1,16 +1,15 @@
 # Population of Asia Minor 
 
-Analysis using the Seshat data below. We used the Equinox-2020 dataset,
+Analysis using the Seshat data; We used the Equinox-2020 dataset,
 
 http://seshatdatabank.info/datasets/
 
 The encoding of this dataset carries different attributes in seperate
-rows, instead of columns, so preprocessing was necessary.
-
-We filter out population and territory data for Anatolia, and adjust
-the population for the current size of TR, ~780K sq meters. This way
-in a sense we are always looking at "the same area" no matter which
-empire, gov that seems to be in charge, however big, in that region.
+rows, instead of columns, so preprocessing was necessary. We filter
+out population and territory data for Asia Minor, adjust the
+population for the current size of TR, ~800K sq meters. This way we
+are always looking at the same area, no matter under which gov that
+happened to b around, however big or small in that region.
 
 
 ```python
@@ -48,11 +47,11 @@ plt.savefig('asiaminor.png')
 The arrival of new ppl into Asia Minor (Anatolia) starting from 600s
 and continuing for a few centuries seems to be around 1 million
 arriving into a population of 8 million. These people came to settle,
-not to battle (unlike Mongols later who did). Once governance
-structures formed, around them, including them, they battled with
-Byzantium but also with eachother. Many pop decreases have probably to
-do with this, but also with the plaque, and later the Mongols who beat
-the dominant gov at the time, the Seljuks.
+not to battle (unlike Mongols later, who did). Once governance
+structures formed, around them, including them, they would have
+battled with Byzantium and also with eachother causing pop decreases,
+but the real killes were the plaques, and later the Mongols who beat
+the gov of the time, the Seljuks.
 
 As an alternative source, data from *Demography, Part 1* by Vinogradov is also below.
 
