@@ -35,11 +35,13 @@ df3['pop_scaled'] = (800000.0 / df3['area']) * df3['pop'] / 1e6
 df4 = df3.set_index('date')
 df4['pop_scaled'].plot()
 plt.axvspan(541, 549, color='y', alpha=0.5, lw=0)
-plt.axvspan(1200, 1250, color='y', alpha=0.5, lw=0)
+plt.axvspan(1204, 1220, color='y', alpha=0.5, lw=0)
+plt.axvspan(1240, 1250, color='y', alpha=0.5, lw=0)
 plt.axvspan(1347, 1351, color='y', alpha=0.5, lw=0)
 plt.text(550,12,'Plaque #1')
-plt.text(1030,11,'Mongols')
-plt.text(1300,8,'Plaque #2')
+plt.text(900,11,'      Sack of \n Constantinople')
+plt.text(1240,10,'Mongols')
+plt.text(1370,8,'Plaque #2')
 plt.savefig('asiaminor.png')
 ```
 
@@ -52,7 +54,8 @@ not to battle (unlike Mongols later, who did). Once governance
 structures formed, around them, including them, they would have
 battled with Byzantium and also with eachother causing pop decreases,
 but the real killes were the plaques, and later the Mongols who beat
-the gov of the time, the Seljuks.
+the gov of the time, the Seljuks. On the Byzantine side the capital
+city was sacked by Crusaders in 1204.
 
 As an alternative source, data from *Demography, Part 1* by Vinogradov is also below.
 
