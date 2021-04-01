@@ -15,8 +15,8 @@ If enacted, the development model of tax havens collapses"
 
 ---
 
-Forbes: "Disney’s Firing Of Gina Carano Is Confusing And Hypocritical
-- Lacking Sound Management"
+Forbes: "Disney’s Firing Of Gina Carano Is Confusing And Hypocritical,
+Lacking Sound Management"
 
 [Link](forbes.com/sites/genedelvecchio/2021/03/11/disneys-cancel-culture-is-confused-hypocritical-and-dangerous--lacking-sound-management/?sh=273c9bf565a4)
 
