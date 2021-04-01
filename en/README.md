@@ -1,83 +1,89 @@
 # Tweets
 
-"@Joyce_Karam
 
-BREAKING: US, UK and 12 Other Govs issue Statement of 'Shared
-Concerns' on WHO - \#China study that stresses animal transmission of
-\#Covid"
+"@gabriel_zucman
 
-[Link](https://mobile.twitter.com/Joyce_Karam/status/1376937299477417988)
+Biden corporate tax plan released today:
 
----
+- Increase rate to 28%
 
-NYT: "Coronavirus Origins Remain Unclear in W.H.O.-China Inquiry"
+- Tax profits booked by US firms abroad at 21%, country by country
 
----
+- Calls for strong global minimum tax (with penalties for uncooperative countries)
 
-"Pfizer has been accused of 'bullying' Latin American governments in
-Covid vaccine negotiations and has asked some countries to put up
-sovereign assets, such as embassy buildings and military bases, as a
-guarantee against the cost of any future legal cases, the Bureau of
-Investigative Journalism can reveal.
-
-In the case of one country, demands made by the pharmaceutical giant
-led to a three-month delay in a vaccine deal being agreed. For
-Argentina and Brazil, no national deals were agreed at all. Any
-hold-up in countries receiving vaccines means more people contracting
-Covid-19 and potentially dying"
-
-[Link](https://www.thebureauinvestigates.com/stories/2021-02-23/held-to-ransom-pfizer-demands-governments-gamble-with-state-assets-to-secure-vaccine-deal)
+If enacted, the development model of tax havens collapses"
 
 ---
 
-Processed Seshat dataset for Asia Minor population, [post](2020/04/asia-minor-population.md).
+Forbes: "Disney’s Firing Of Gina Carano Is Confusing And Hypocritical
+- Lacking Sound Management"
+
+[Link](forbes.com/sites/genedelvecchio/2021/03/11/disneys-cancel-culture-is-confused-hypocritical-and-dangerous--lacking-sound-management/?sh=273c9bf565a4)
 
 ---
 
-Previous PCA analysis still valid on scaled values, yes \#Seshat
+"@ABarbashin
+
+We are not that used to the idea of China - Russia competition
+lately. Most watchers argue about the "alliance" and degree of
+cooperation of the two. Sure, there's a lot of cooperation. But,
+competition between the two is growing across the board. Neither
+Moscow, nor Beijing like to talk about this too much publicly. One
+evident example is Central Asia where China has long surpassed Russia
+in terms of investment and overall economic engagement. Russia still
+holds to the security role but it is being challenged by China
+continuously.
+
+Another telling example is Serbia. Russia's "little sister" that is
+becoming truly a battleground for Moscow and Beijing. China's trade
+with Serbia is already surpassing Russia's, same goes for the
+investment. China is challenging Russia as a main arms exporter.
+
+And yet another story is Covid vaccine. We have a detailed text at
+@RiddleRussia on this coming up later this week. China-Russia
+competition is "almost silent" but nevertheless growing. And it
+doesn't seem that Russia is winning"
 
 ---
 
-"@StellaMoris1
-
-After a hard night, Julian woke up this morning to a kind, personal
-message from Pope Francis @pontifex delivered to his cell door by the
-prison priest"
+PNG does not come up much in strat talks but they have a prime
+location and sizeable enough landmass.
 
 ---
 
-[Good Reductionism and Nonlinear Power](2021/04/sum-greater-than-whole-reductionism.md)
+"@supbrow
+
+Australia's #SecurityAssistance to [Papua New Guinea] is significant &
+important. Donating Patrol Boats is more than just delivery of the
+boat, but long term #SecurityCooperation btn neighbors w shared
+\#MaritimeSecurity concerns"
+
+[Link](https://twitter.com/supbrow/status/1377157477230239746)
 
 ---
 
-"@shashj
-
-So much discussion around the UK's Indo-Pacific tilt misses the point
-that the UK is also part of a wider European tilt to the region
-(rather than indulging in some sort of neo-colonial nostalgia trip)"
+<img width="340" src="https://pbs.twimg.com/media/ExyERpUU8AU1tFi?format=png&name=small"/>
 
 ---
 
-"For a year, we’ve been fighting legal battles over the British
-government’s secretive NHS data deals with controversial ‘spy tech’
-firm Palantir. Today, we can announce an important victory.
+"Possible cooperation: Merkel, Putin and Macron advise on Sputnik"
 
-Back in December, after we had spent months on legal efforts to get
-transparency, the government snuck through a massive £23m, two-year
-deal with Palantir, a CIA-backed data firm. They contracted Palantir
-to process our sensitive health data.
+[Link](https://twitter.com/ntvde/status/1377024723415048192)
 
-We raised objections: the initial deals were framed as a short-term,
-emergency COVID response, but the new contract revealed mission creep
-well beyond the pandemic.
+---
 
-Government lawyers insisted that citizens have no right to a say in
-major NHS contracts with big tech. But we believed the
-public does have those rights. So we sued.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Hydrogen has been identified as a key source of power for Northern Ireland’s decarbonization projects ranging from mobility like buses and trains to utilization in the gas grid for heating...&quot; Via <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/JxM2WR6VA4">https://t.co/JxM2WR6VA4</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1377265830103298049?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Facing our lawsuit, the government has finally caved"
+---
 
-[Link](https://www.opendemocracy.net/en/ournhs/weve-won-our-lawsuit-over-matt-hancocks-23m-nhs-data-deal-with-palantir/)
+"The episode examines 'mob mentality,' the court of public opinion,
+and the role of social media."
+
+[Link](https://orville.fandom.com/wiki/Majority_Rule)
+
+---
+
+*The Orville* episode *Majority Rule*; excellent. Scifi at its best.
 
 ---
 

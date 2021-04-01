@@ -1,5 +1,86 @@
 # Week 13
 
+"@Joyce_Karam
+
+BREAKING: US, UK and 12 Other Govs issue Statement of 'Shared
+Concerns' on WHO - \#China study that stresses animal transmission of
+\#Covid"
+
+[Link](https://mobile.twitter.com/Joyce_Karam/status/1376937299477417988)
+
+---
+
+NYT: "Coronavirus Origins Remain Unclear in W.H.O.-China Inquiry"
+
+---
+
+"Pfizer has been accused of 'bullying' Latin American governments in
+Covid vaccine negotiations and has asked some countries to put up
+sovereign assets, such as embassy buildings and military bases, as a
+guarantee against the cost of any future legal cases, the Bureau of
+Investigative Journalism can reveal.
+
+In the case of one country, demands made by the pharmaceutical giant
+led to a three-month delay in a vaccine deal being agreed. For
+Argentina and Brazil, no national deals were agreed at all. Any
+hold-up in countries receiving vaccines means more people contracting
+Covid-19 and potentially dying"
+
+[Link](https://www.thebureauinvestigates.com/stories/2021-02-23/held-to-ransom-pfizer-demands-governments-gamble-with-state-assets-to-secure-vaccine-deal)
+
+---
+
+Processed Seshat dataset for Asia Minor population, [post](2020/04/asia-minor-population.md).
+
+---
+
+Previous PCA analysis still valid on scaled values, yes \#Seshat
+
+---
+
+"@StellaMoris1
+
+After a hard night, Julian woke up this morning to a kind, personal
+message from Pope Francis @pontifex delivered to his cell door by the
+prison priest"
+
+---
+
+[Good Reductionism and Nonlinear Power](2021/04/sum-greater-than-whole-reductionism.md)
+
+---
+
+"@shashj
+
+So much discussion around the UK's Indo-Pacific tilt misses the point
+that the UK is also part of a wider European tilt to the region
+(rather than indulging in some sort of neo-colonial nostalgia trip)"
+
+---
+
+"For a year, we’ve been fighting legal battles over the British
+government’s secretive NHS data deals with controversial ‘spy tech’
+firm Palantir. Today, we can announce an important victory.
+
+Back in December, after we had spent months on legal efforts to get
+transparency, the government snuck through a massive £23m, two-year
+deal with Palantir, a CIA-backed data firm. They contracted Palantir
+to process our sensitive health data.
+
+We raised objections: the initial deals were framed as a short-term,
+emergency COVID response, but the new contract revealed mission creep
+well beyond the pandemic.
+
+Government lawyers insisted that citizens have no right to a say in
+major NHS contracts with big tech. But we believed the
+public does have those rights. So we sued.
+
+Facing our lawsuit, the government has finally caved"
+
+[Link](https://www.opendemocracy.net/en/ournhs/weve-won-our-lawsuit-over-matt-hancocks-23m-nhs-data-deal-with-palantir/)
+
+---
+
 France 24: "Glimpse of a post-Covid future? Masks ditched as Gibraltar
 nears total vaccination... Signs reminding people to wear a face mask
 in public were taken down by workmen in Gibraltar on Sunday in the
