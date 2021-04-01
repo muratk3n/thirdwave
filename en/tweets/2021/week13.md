@@ -30,7 +30,7 @@ Covid-19 and potentially dying"
 
 ---
 
-Processed Seshat dataset for Asia Minor population, [post](2020/04/asia-minor-population.md).
+Processed Seshat dataset for Asia Minor population, [post](../../2020/04/asia-minor-population.md).
 
 ---
 
@@ -46,7 +46,7 @@ prison priest"
 
 ---
 
-[Good Reductionism and Nonlinear Power](2021/04/sum-greater-than-whole-reductionism.md)
+[Good Reductionism and Nonlinear Power](../../2021/04/sum-greater-than-whole-reductionism.md)
 
 ---
 
