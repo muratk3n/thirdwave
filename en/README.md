@@ -1,5 +1,8 @@
 # Tweets
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Researchers 🇯🇵 developed a cheaper and 30x more efficient way to produce <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> from water electrolysis, which could lead to clean-fuel production becoming more sustainable. Catalyst uses ruthenium (94%) and iridium (6%) instead of platinum &amp; iridium. <a href="https://t.co/FaebjfCL0I">https://t.co/FaebjfCL0I</a> <a href="https://t.co/PNWfCordFP">pic.twitter.com/PNWfCordFP</a></p>&mdash; Hydrogen Standard (@H2Standard) <a href="https://twitter.com/H2Standard/status/1377366645597868034?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 "@gabriel_zucman
 
