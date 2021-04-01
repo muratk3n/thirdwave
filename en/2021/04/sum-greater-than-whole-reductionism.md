@@ -190,7 +190,7 @@ log of exponential data that gives you a simple, straight line. The
 act of taking the log, and recognizing the exponential curve is what
 gave us that final "linearity".
 
-<a name="addend4'/>
+<a name='addend4'/>
 
 Addend 4
 
