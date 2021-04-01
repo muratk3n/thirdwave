@@ -55,10 +55,6 @@ boat, but long term #SecurityCooperation btn neighbors w shared
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/ExyERpUU8AU1tFi?format=png&name=small"/>
-
----
-
 "Possible cooperation: Merkel, Putin and Macron advise on Sputnik"
 
 [Link](https://twitter.com/ntvde/status/1377024723415048192)
