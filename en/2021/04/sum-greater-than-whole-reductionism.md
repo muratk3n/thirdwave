@@ -126,7 +126,7 @@ process was in fact the perfect example of nonlinear interactions of
 simple, focused components.. I join a party arguing for high taxes,
 some in low, our oscillations in and out of gov, sometimes together,
 lands us in an optimal solution. We pursued our simple, focused view,
-came together in certain ways that led us somewhere: an acceptable solution.3	
+came together in certain ways that led us somewhere: an acceptable solution.
 
 We have to admit the West has been a good follower of these ideas. The
 East, with the exception of perhaps India, and a few Asian
@@ -138,7 +138,7 @@ peasants, more produce. The-whole-large-than-the-sum-of-parts is
 ignored which is a genuine source of power. This is how the British
 came to dominate the seas in the 18/19th centuries, their biggest
 trick was combining a clock, with a reference point and simple math
-that gets you the correct longitude, and combined with simple latitude
+that gets you the correct longitude, with simple latitude
 info gave te ships their precise locations on Earth. Developing
 countries wld be served well to understand this process. Many a times
 "copy the final product" approach is chosen, where the final sum is
@@ -151,16 +151,16 @@ stop some from trying.
 Addend 1
 
 Philosophers stumbled upon on the idea at times in the East; Ghazali
-said for instance "you combine something with something else, you get
-a third thing". He was aware of combinations, but did not offer
-further formulation. His pin factory studies seperate competencies,
-types of workers working on different part of a product, but he
-thought overall efficiency was achieved because same people working on
-the same type of problem made them faster thereby improving the
-overall efficiency.. This means he missed the point entirely, the
-power lies not simple addition of the components however good they
-might be, it lies in their interactions, how they jell with another,
-and the myriad ways they can produce a solution.
+said "you combine something with something else, you get a third
+thing". He was aware of combinations, but did not offer further
+formulation. His pin factory studies seperate competencies, types of
+workers working on different part of a product, but he thought overall
+efficiency was achieved because same people working on the same type
+of problem made them faster thereby improving the overall
+efficiency.. This means he missed the point entirely, the power lies
+not simple addition of the components however good they might be, it
+lies in their interactions, how they jell with another, and the myriad
+ways they can produce a solution.
 
 Addend 2
 
@@ -189,6 +189,17 @@ nonlinearity hidden in the path of getting there. It's like taking the
 log of exponential data that gives you a simple, straight line. The
 act of taking the log, and recognizing the exponential curve is what
 gave us that final "linearity".
+
+<a name="addend4'/>
+
+Addend 4
+
+Individual pieces in a solution are simple, but let's not mistake
+simple for dumb. Better word to describe the pieces would be
+*fundamental*, simple but no simpler. They also are sufficiently
+different from one another.. Sine function is different from
+cosine. Left is different from right. Both help to cover a different
+aspect of a problem, when combined, deliver the final solution.
 
 References
 
