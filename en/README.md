@@ -1,9 +1,9 @@
 # Tweets
 
 Yes students need to understand the individual pieces of every
-approach and how they are put together (that is how inno comes about),
-not just learn how to turn knobs on a ready-made black-box,
-prepackaged solution. Demystify.
+approach and how they are put together (key to inno), not just learn
+how to turn knobs on a ready-made black-box, prepackaged
+solution. Demystify.
 
 Professor: "The simulation of non-trivial practical problems in fluid
 dynamics ... usually requires sophisticated tools. These tools often
