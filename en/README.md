@@ -69,8 +69,8 @@ Stats). Then I realized he is just saying "loss" with an accent
 
 ---
 
-Certain part of physics will forever be etched in my brain in Brooklyn accent,
-"it's not energy luuoos, it is information luuoos"
+Certain part of physics will forever be etched in my brain in Brooklyn
+accent.  "It's not energy luuoos, it is information luuoos"
 
 ---
 
