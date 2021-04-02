@@ -1,9 +1,9 @@
 # Tweets
 
-Yes ppl need to understand the individual pieces of every approach
-(that is how inno comes about) and how they are put together, not just
-learn how to turn knobs on a ready-made black-box, prepackaged
-solution. Demystify. 
+Yes students need to understand the individual pieces of every
+approach and how they are put together (that is how inno comes about),
+not just learn how to turn knobs on a ready-made black-box,
+prepackaged solution. Demystify.
 
 Professor: "The simulation of non-trivial practical problems in fluid
 dynamics (defined as problems in more than one dimension) usually
