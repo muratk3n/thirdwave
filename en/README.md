@@ -65,7 +65,7 @@ hydrogen, the researchers said"
 
 It stands out bcz I was listening intently, the descr makes a
 difference, maybe it is Lowess? Loess? (all legit terms from
-Stats). Then I nah, he is just saying "loss" with an accent
+Stats). Then I realized he is just saying "loss" with an accent
 
 ---
 
