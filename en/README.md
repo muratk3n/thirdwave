@@ -1,88 +1,86 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Researchers 🇯🇵 developed a cheaper and 30x more efficient way to produce <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> from water electrolysis, which could lead to clean-fuel production becoming more sustainable. Catalyst uses ruthenium (94%) and iridium (6%) instead of platinum &amp; iridium. <a href="https://t.co/FaebjfCL0I">https://t.co/FaebjfCL0I</a> <a href="https://t.co/PNWfCordFP">pic.twitter.com/PNWfCordFP</a></p>&mdash; Hydrogen Standard (@H2Standard) <a href="https://twitter.com/H2Standard/status/1377366645597868034?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Yes ppl need to understand the individual pieces of every approach
+(that is how inno comes about) and how they are put together, not just
+learn how to turn knobs on a ready-made black-box, prepackaged
+solution. Demystify. 
+
+Professor: "The simulation of non-trivial practical problems in fluid
+dynamics (defined as problems in more than one dimension) usually
+requires sophisticated tools. These tools often come with many
+whistles and bells, are proprietary or difficult to tinker with,
+modify the code and add to it.  Students with access to these tools
+end up spending most of the time learning how to press their many
+buttons and become technicians instead of professionals. It is the
+experience of the author (in a similar field, Electrical Engineering)
+that most of these technicians are laid off in their thirties when the
+standard recession cycle hits the industry. Their diplomas were not of
+much help. Expensive and proprietary software tools have their place
+in the industry. Students in their formative years at school should be
+able to write code, be able to read the code written by others and
+modify, improve and expand it. Code, simulate, debug and correct. This
+is the way to develop understanding and intuition"
 
 ---
 
-"@gabriel_zucman
-
-Biden corporate tax plan released today:
-
-- Increase rate to 28%
-
-- Tax profits booked by US firms abroad at 21%, country by country
-
-- Calls for strong global minimum tax (with penalties for uncooperative countries)
-
-If enacted, the development model of tax havens collapses"
+"Reuters: Fuel cell maker Plug Power Inc said on Tuesday it planned to
+build a green hydrogen production plant in south-central Pennsylvania
+with Brookfield Renewable Partners"
 
 ---
 
-"@ABarbashin
+"@SoutheastAsiaDC
 
-We are not that used to the idea of China - Russia competition
-lately. Most watchers argue about the 'alliance' and degree of
-cooperation of the two. Sure, there's a lot of cooperation. But,
-competition between the two is growing across the board. Neither
-Moscow, nor Beijing like to talk about this too much publicly. One
-evident example is Central Asia where China has long surpassed Russia
-in terms of investment and overall economic engagement. Russia still
-holds to the security role but it is being challenged by China
-continuously.
-
-Another telling example is Serbia. Russia's 'little sister' that is
-becoming truly a battleground for Moscow and Beijing. China's trade
-with Serbia is already surpassing Russia's, same goes for the
-investment. China is challenging Russia as a main arms exporter.
-
-And yet another story is Covid vaccine. We have a detailed text at
-@RiddleRussia on this coming up later this week. China-Russia
-competition is 'almost silent' but nevertheless growing. And it
-doesn't seem that Russia is winning"
+Australia on Wednesday announced it would begin building its own
+guided missiles in close collaboration with the United States as it
+seeks to boost its defense capabilities"
 
 ---
 
-PNG does not come up much in strat talks but they have a prime
-location and sizeable enough landmass.
+"Researchers have developed a cheaper and more efficient way to produce
+hydrogen from water... [T]he new metal catalyst developed by this team
+of researchers uses an alloy made of ruthenium and iridium, so that
+both hydrogen and oxygen can be generated at the same time through
+accelerating chemical reactions.
+
+The alloy comprises of microscopic crystal sheets measuring just 3
+nanometers thick. One nanometer is one-millionth of a millimeter.
+
+Because it is so dense, the crystalline structure can be seen on its
+surface, giving it an appearance similar to coral.
+
+Ruthenium is a relatively cheaper material and it accounts for 94
+percent of the catalyst’s composition, so the cost of the catalyst’s
+metal ingredients can be reduced to a fraction of the cost of using a
+combination of platinum and iridium oxide...
+
+The team’s results suggest it is much more efficient than other
+conventional methods that use the same voltage. Due to its high
+reaction rate, this method can produce around 30 times the amount of
+hydrogen, the researchers said"
+
+[Link](http://www.asahi.com/ajw/articles/14269826)
 
 ---
 
-"@supbrow
-
-Australia's #SecurityAssistance to [Papua New Guinea] is significant &
-important. Donating Patrol Boats is more than just delivery of the
-boat, but long term #SecurityCooperation btn neighbors w shared
-\#MaritimeSecurity concerns"
-
-[Link](https://twitter.com/supbrow/status/1377157477230239746)
+It stands out bcz I was listening intently, the descr makes a
+difference, maybe it is Lowess? Loess? (all legit terms from
+Stats). Then I nah, he is just saying "loss" with an accent
 
 ---
 
-"Possible cooperation: Merkel, Putin and Macron advise on Sputnik"
-
-[Link](https://twitter.com/ntvde/status/1377024723415048192)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Hydrogen has been identified as a key source of power for Northern Ireland’s decarbonization projects ranging from mobility like buses and trains to utilization in the gas grid for heating...&quot; Via <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/JxM2WR6VA4">https://t.co/JxM2WR6VA4</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1377265830103298049?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Certain part of physics will forever be etched in my brain in Brooklyn accent,
+"it's not energy luuoos, it is information luuoos"
 
 ---
 
-Forbes: "Disney’s Firing Of Gina Carano Is Confusing And Hypocritical,
-Lacking Sound Management"
+[Answer](2021/04/sum-greater-than-whole-reductionism.md#addend4)
 
-[Link](https://forbes.com/sites/genedelvecchio/2021/03/11/disneys-cancel-culture-is-confused-hypocritical-and-dangerous--lacking-sound-management/?sh=273c9bf565a4)
-
----
-
-"The episode examines 'mob mentality,' the court of public opinion,
-and the role of social media."
-
-[Link](https://orville.fandom.com/wiki/Majority_Rule)
+"In a greater-whole concoctoin how simple is each piece?"
 
 ---
 
-*The Orville* episode *Majority Rule*; excellent. Scifi at its best.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is Electrification &amp; Hydrogen the safest route for Canada’s path to net-zero? Because it helps lower air pollution more than any other system and generates a greater potential for export opportunities, which will be the most adopted abroad. <a href="https://t.co/Yy9hx9Zxqz">https://t.co/Yy9hx9Zxqz</a><a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/dWrBgUjCXw">pic.twitter.com/dWrBgUjCXw</a></p>&mdash; Xebec Adsorption Inc (@XebecInc) <a href="https://twitter.com/XebecInc/status/1377804577685303297?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

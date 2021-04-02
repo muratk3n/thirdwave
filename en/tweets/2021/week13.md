@@ -1,5 +1,91 @@
 # Week 13
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Researchers 🇯🇵 developed a cheaper and 30x more efficient way to produce <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> from water electrolysis, which could lead to clean-fuel production becoming more sustainable. Catalyst uses ruthenium (94%) and iridium (6%) instead of platinum &amp; iridium. <a href="https://t.co/FaebjfCL0I">https://t.co/FaebjfCL0I</a> <a href="https://t.co/PNWfCordFP">pic.twitter.com/PNWfCordFP</a></p>&mdash; Hydrogen Standard (@H2Standard) <a href="https://twitter.com/H2Standard/status/1377366645597868034?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@gabriel_zucman
+
+Biden corporate tax plan released today:
+
+- Increase rate to 28%
+
+- Tax profits booked by US firms abroad at 21%, country by country
+
+- Calls for strong global minimum tax (with penalties for uncooperative countries)
+
+If enacted, the development model of tax havens collapses"
+
+---
+
+"@ABarbashin
+
+We are not that used to the idea of China - Russia competition
+lately. Most watchers argue about the 'alliance' and degree of
+cooperation of the two. Sure, there's a lot of cooperation. But,
+competition between the two is growing across the board. Neither
+Moscow, nor Beijing like to talk about this too much publicly. One
+evident example is Central Asia where China has long surpassed Russia
+in terms of investment and overall economic engagement. Russia still
+holds to the security role but it is being challenged by China
+continuously.
+
+Another telling example is Serbia. Russia's 'little sister' that is
+becoming truly a battleground for Moscow and Beijing. China's trade
+with Serbia is already surpassing Russia's, same goes for the
+investment. China is challenging Russia as a main arms exporter.
+
+And yet another story is Covid vaccine. We have a detailed text at
+@RiddleRussia on this coming up later this week. China-Russia
+competition is 'almost silent' but nevertheless growing. And it
+doesn't seem that Russia is winning"
+
+---
+
+PNG does not come up much in strat talks but they have a prime
+location and sizeable enough landmass.
+
+---
+
+"@supbrow
+
+Australia's #SecurityAssistance to [Papua New Guinea] is significant &
+important. Donating Patrol Boats is more than just delivery of the
+boat, but long term #SecurityCooperation btn neighbors w shared
+\#MaritimeSecurity concerns"
+
+[Link](https://twitter.com/supbrow/status/1377157477230239746)
+
+---
+
+"Possible cooperation: Merkel, Putin and Macron advise on Sputnik"
+
+[Link](https://twitter.com/ntvde/status/1377024723415048192)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Hydrogen has been identified as a key source of power for Northern Ireland’s decarbonization projects ranging from mobility like buses and trains to utilization in the gas grid for heating...&quot; Via <a href="https://twitter.com/h2_view?ref_src=twsrc%5Etfw">@h2_view</a>. <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://t.co/JxM2WR6VA4">https://t.co/JxM2WR6VA4</a></p>&mdash; SunHydrogen (@SunHydrogen) <a href="https://twitter.com/SunHydrogen/status/1377265830103298049?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Forbes: "Disney’s Firing Of Gina Carano Is Confusing And Hypocritical,
+Lacking Sound Management"
+
+[Link](https://forbes.com/sites/genedelvecchio/2021/03/11/disneys-cancel-culture-is-confused-hypocritical-and-dangerous--lacking-sound-management/?sh=273c9bf565a4)
+
+---
+
+"The episode examines 'mob mentality,' the court of public opinion,
+and the role of social media."
+
+[Link](https://orville.fandom.com/wiki/Majority_Rule)
+
+---
+
+*The Orville* episode *Majority Rule*; excellent. Scifi at its best.
+
+---
+
 "@Joyce_Karam
 
 BREAKING: US, UK and 12 Other Govs issue Statement of 'Shared
