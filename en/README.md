@@ -76,7 +76,7 @@ accent.  "It's not energy luuoos, it is information luuoos"
 
 [Answer](2021/04/sum-greater-than-whole-reductionism.md#addend4)
 
-"In a greater-whole concoction how simple is each piece?"
+"In a greater-whole concoction how simple should each piece be?"
 
 ---
 
