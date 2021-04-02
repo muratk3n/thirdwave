@@ -6,20 +6,20 @@ not just learn how to turn knobs on a ready-made black-box,
 prepackaged solution. Demystify.
 
 Professor: "The simulation of non-trivial practical problems in fluid
-dynamics (defined as problems in more than one dimension) usually
-requires sophisticated tools. These tools often come with many
-whistles and bells, are proprietary or difficult to tinker with,
-modify the code and add to it.  Students with access to these tools
-end up spending most of the time learning how to press their many
-buttons and become technicians instead of professionals. It is the
-experience of the author (in a similar field, Electrical Engineering)
-that most of these technicians are laid off in their thirties when the
-standard recession cycle hits the industry. Their diplomas were not of
-much help. Expensive and proprietary software tools have their place
-in the industry. Students in their formative years at school should be
-able to write code, be able to read the code written by others and
-modify, improve and expand it. Code, simulate, debug and correct. This
-is the way to develop understanding and intuition"
+dynamics ... usually requires sophisticated tools. These tools often
+come with many whistles and bells, are proprietary or difficult to
+tinker with, modify the code and add to it.  Students with access to
+these tools end up spending most of the time learning how to press
+their many buttons and become technicians instead of professionals. It
+is the experience of the author (in a similar field, Electrical
+Engineering) that most of these technicians are laid off in their
+thirties when the standard recession cycle hits the industry. Their
+diplomas were not of much help. Expensive and proprietary software
+tools have their place in the industry. Students in their formative
+years at school should be able to write code, be able to read the code
+written by others and modify, improve and expand it. Code, simulate,
+debug and correct. This is the way to develop understanding and
+intuition"
 
 ---
 
