@@ -62,8 +62,8 @@ others had trouble securing any doses at all"
 
 ---
 
-Why so many BEV charging stations? Wasnt the selling pt ppl of this
-shit "charge at home" (or just use existing infra)? What happened?
+Why so many BEV charging stations? Wasnt the selling pt of this shit
+"charge at home" (or just use existing infra)? What happened?
 @garrygolden
 
 ---
