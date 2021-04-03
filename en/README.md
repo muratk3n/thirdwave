@@ -78,11 +78,6 @@ Zero emission vehicles. Good wording..
 
 ---
 
-Why did it take so long for the EU to even consider RU vax? Was US
-blocking this?
-
----
-
 No it is no necessarily a constant descend for gliders.. there are
 "thermals" hot pockets of air rising, if they catch one of them they
 can climb. Ride enough of them glider can keep going and going.. 
