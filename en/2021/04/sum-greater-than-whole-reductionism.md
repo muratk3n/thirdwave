@@ -166,7 +166,7 @@ Addend 2
 
 The West can experience misplaced fear, at least, in a subconcious
 level of the "sum". The fear of
-[Frankenstein](2020/07/robot-frankenstein.md), in general of industry,
+[Frankenstein](../../2020/07/robot-frankenstein.md), in general of industry,
 now of AI is an example, as a society it has seen how the
 greater-whole approach displayed much power, and sure, deep net neural
 "AI" solutions are composed of such simple things, neurons but what is
