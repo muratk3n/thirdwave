@@ -17,7 +17,7 @@ Good times"
 
 ---
 
-Moscow criteron.. 
+Moscow criteron..  interesting. 
 
 "[About UK doctrine 'Moscow criteron'] It has been the UK’s policy
 that the independent British nuclear deterrent should be able to
