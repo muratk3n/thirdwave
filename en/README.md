@@ -83,6 +83,12 @@ blocking this?
 
 ---
 
+No it is no necessarily a constant descend for gliders.. there are
+"thermals" hot pockets of air rising, if they catch one of them they
+can climb. Ride enough of them they can keep going and going.. 
+
+---
+
 Dude broke hang glider distance record, 368 km, that is flying
 uninterrupted in a single day, clocking in 40 km/h on average.
 
