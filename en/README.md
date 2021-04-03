@@ -70,7 +70,7 @@ shit "charge at home" (or just use existing infra)? What happened?
 
 BEVs (retarded ZEVs) are environmentally dangerous.
 
-[Wired](https://www.wired.co.uk/article/lithium-batteries-environment-impact).
+[Wired](https://www.wired.co.uk/article/lithium-batteries-environment-impact)
 
 ---
 
