@@ -1,11 +1,11 @@
 # Tweets
 
-Thesis: "In the past 10 years, there has been a new trend in wind
-power: harvesting the energy of high-altitude winds. At 1000 m
-altitude, winds are about three-times faster than surface
-winds... Furthermore, high winds are steadier and available almost all
-over the world, unlike surface winds which are intermittent and only
-exploitable in certain areas of the globe"
+"In the past 10 years, there has been a new trend in wind power:
+harvesting the energy of high-altitude winds. At 1000 m altitude,
+winds are about three-times faster than surface winds... Furthermore,
+high winds are steadier and available almost all over the world,
+unlike surface winds which are intermittent and only exploitable in
+certain areas of the globe"
 
 ---
 
@@ -17,7 +17,7 @@ Good times"
 
 ---
 
-Moscow criteron eh? Daam.
+Moscow criteron.. 
 
 "[About UK doctrine 'Moscow criteron'] It has been the UK’s policy
 that the independent British nuclear deterrent should be able to
