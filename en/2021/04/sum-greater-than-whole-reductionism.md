@@ -212,8 +212,9 @@ dumb addition?"
 Not necessarily.. Take the discovery of circle area formula. [3] talks
 about how Archimedes discovered it; he divided a circle into pieces
 then put them back together and he realized smaller, smaller pieces
-would give you a rectngle with sides corresponding to the circle, and
-rect area is easy to calculate.
+would give you a rectangle with sides corresponding to the circle, and
+rect area is easy to calculate ($C=2\pi r$ obviously, from there thru
+rectangle, area is easy).
 
 <img width="200" src="circle.jpg"/>
 
