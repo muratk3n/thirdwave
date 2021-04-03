@@ -1,86 +1,92 @@
 # Tweets
 
-Yes students need to understand the individual pieces of every
-approach and how they are put together (key to inno), not just learn
-how to turn knobs on a ready-made black-box, prepackaged
-solution. Demystify.
-
-Professor: "The simulation of non-trivial practical problems in fluid
-dynamics ... usually requires sophisticated tools. These tools often
-come with many whistles and bells, are proprietary or difficult to
-tinker with, modify the code and add to it.  Students with access to
-these tools end up spending most of the time learning how to press
-their many buttons and become technicians instead of professionals. It
-is the experience of the author (in a similar field, Electrical
-Engineering) that most of these technicians are laid off in their
-thirties when the standard recession cycle hits the industry. Their
-diplomas were not of much help. Expensive and proprietary software
-tools have their place in the industry. Students in their formative
-years at school should be able to write code, be able to read the code
-written by others and modify, improve and expand it. Code, simulate,
-debug and correct. This is the way to develop understanding and
-intuition"
+Thesis: "In the past 10 years, there has been a new trend in wind
+power: harvesting the energy of high-altitude winds. At 1000 m
+altitude, winds are about three-times faster than surface
+winds... Furthermore, high winds are steadier and available almost all
+over the world, unlike surface winds which are intermittent and only
+exploitable in certain areas of the globe"
 
 ---
 
-"Reuters: Fuel cell maker Plug Power Inc said on Tuesday it planned to
-build a green hydrogen production plant in south-central Pennsylvania
-with Brookfield Renewable Partners"
+"@bkeegan
+
+Anyone else remember when people and corporations were shelling out
+huge sums of cash to buy virtual islands in Second Life around 2006?
+Good times"
 
 ---
 
-"@SoutheastAsiaDC
+Moscow criteron eh? Daam.
 
-Australia on Wednesday announced it would begin building its own
-guided missiles in close collaboration with the United States as it
-seeks to boost its defense capabilities"
+"[About UK doctrine 'Moscow criteron'] It has been the UK’s policy
+that the independent British nuclear deterrent should be able to
+defeat ballistic missile defences around Moscow. If the UK decided
+alone to take the apocalyptic decision to use its nuclear weapons, it
+would want to be able to target large centres of population such as
+Moscow. Hiroshima and Nagasaki would be dwarfed by such events. The
+rationale for this policy is that our independent deterrent has to
+cover the possibility that, if the US decided for any reason not to
+use its nuclear capability to defend Europe, the continent and the UK
+in particular could defend itself"
 
----
-
-"Researchers have developed a cheaper and more efficient way to produce
-hydrogen from water... [T]he new metal catalyst developed by this team
-of researchers uses an alloy made of ruthenium and iridium, so that
-both hydrogen and oxygen can be generated at the same time through
-accelerating chemical reactions.
-
-The alloy comprises of microscopic crystal sheets measuring just 3
-nanometers thick. One nanometer is one-millionth of a millimeter.
-
-Because it is so dense, the crystalline structure can be seen on its
-surface, giving it an appearance similar to coral.
-
-Ruthenium is a relatively cheaper material and it accounts for 94
-percent of the catalyst’s composition, so the cost of the catalyst’s
-metal ingredients can be reduced to a fraction of the cost of using a
-combination of platinum and iridium oxide...
-
-The team’s results suggest it is much more efficient than other
-conventional methods that use the same voltage. Due to its high
-reaction rate, this method can produce around 30 times the amount of
-hydrogen, the researchers said"
-
-[Link](http://www.asahi.com/ajw/articles/14269826)
+[Link](https://www.ft.com/content/3ce68230-9dd1-11e1-9a9e-00144feabdc0)
 
 ---
 
-It stands out bcz I was listening intently, the descr makes a
-difference, maybe it is Lowess? Loess? (all legit terms from
-Stats). Then I realized he is just saying "loss" with an accent
+"@H2Europe
+
+@Alstom acquires @HelionPower to foster its \#hydrogen knowledge.
+"[...]This transaction is in line with Alstom's strategy to extend and
+enhance its expertise in \#sustainable, intelligent #mobility," says
+Jean-Baptiste Eyméoud, President of @AlstomFrance"
+
+
+----
+
+"The market is efficient!". "It will cure all!". Wigger please.
 
 ---
 
-Certain part of physics will forever be etched in my brain in Brooklyn
-accent.  "It's not energy luuoos, it is information luuoos"
+NYT: "In the early days of the pandemic, when drug makers were just
+starting to develop vaccines, placing orders for any of them was a
+risk. Wealthier countries could mitigate that risk by placing orders
+for multiple vaccines and, by doing so, tied up doses that smaller
+countries may have otherwise purchased, according to experts.
+
+As a result, most higher-income countries were able to pre-order
+enough vaccines to cover their populations several times over, while
+others had trouble securing any doses at all"
+
+[Link](https://www.nytimes.com/interactive/2021/03/31/world/global-vaccine-supply-inequity.html)
 
 ---
 
-[Answer](2021/04/sum-greater-than-whole-reductionism.md#addend4)
-
-"In a greater-whole concoction how simple should each piece be?"
+Why so many BEV charging stations? Wasnt the selling pt ppl of this
+shit "charge at home" (or just use existing infra)? What happened?
+@garrygolden
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is Electrification &amp; Hydrogen the safest route for Canada’s path to net-zero? Because it helps lower air pollution more than any other system and generates a greater potential for export opportunities, which will be the most adopted abroad. <a href="https://t.co/Yy9hx9Zxqz">https://t.co/Yy9hx9Zxqz</a><a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/dWrBgUjCXw">pic.twitter.com/dWrBgUjCXw</a></p>&mdash; Xebec Adsorption Inc (@XebecInc) <a href="https://twitter.com/XebecInc/status/1377804577685303297?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+BEVs (retarded ZEVs) are environmentally dangerous.
+
+[Wired](https://www.wired.co.uk/article/lithium-batteries-environment-impact).
+
+---
+
+Zero emission vehicles. Good wording.. 
+
+---
+
+Why did it take so long for the EU to even consider RU vax? Was US
+blocking this?
+
+---
+
+Dude broke hang glider distance record, 368 km, in one day, that is
+flying uninterrupted in a single day, clocking in 40 km/h on average.
+
+[Link](https://www.willswing.com/owen-morses-new-out-and-return-world-record-flight-on-the-t3-154/)
 
 ---
 

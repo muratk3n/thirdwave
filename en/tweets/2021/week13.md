@@ -1,5 +1,89 @@
 # Week 13
 
+Yes students need to understand the individual pieces of every
+approach and how they are put together (key to inno), not just learn
+how to turn knobs on a ready-made black-box, prepackaged
+solution. Demystify.
+
+Professor: "The simulation of non-trivial practical problems in fluid
+dynamics ... usually requires sophisticated tools. These tools often
+come with many whistles and bells, are proprietary or difficult to
+tinker with, modify the code and add to it.  Students with access to
+these tools end up spending most of the time learning how to press
+their many buttons and become technicians instead of professionals. It
+is the experience of the author (in a similar field, Electrical
+Engineering) that most of these technicians are laid off in their
+thirties when the standard recession cycle hits the industry. Their
+diplomas were not of much help. Expensive and proprietary software
+tools have their place in the industry. Students in their formative
+years at school should be able to write code, be able to read the code
+written by others and modify, improve and expand it. Code, simulate,
+debug and correct. This is the way to develop understanding and
+intuition"
+
+---
+
+"Reuters: Fuel cell maker Plug Power Inc said on Tuesday it planned to
+build a green hydrogen production plant in south-central Pennsylvania
+with Brookfield Renewable Partners"
+
+---
+
+"@SoutheastAsiaDC
+
+Australia on Wednesday announced it would begin building its own
+guided missiles in close collaboration with the United States as it
+seeks to boost its defense capabilities"
+
+---
+
+"Researchers have developed a cheaper and more efficient way to produce
+hydrogen from water... [T]he new metal catalyst developed by this team
+of researchers uses an alloy made of ruthenium and iridium, so that
+both hydrogen and oxygen can be generated at the same time through
+accelerating chemical reactions.
+
+The alloy comprises of microscopic crystal sheets measuring just 3
+nanometers thick. One nanometer is one-millionth of a millimeter.
+
+Because it is so dense, the crystalline structure can be seen on its
+surface, giving it an appearance similar to coral.
+
+Ruthenium is a relatively cheaper material and it accounts for 94
+percent of the catalyst’s composition, so the cost of the catalyst’s
+metal ingredients can be reduced to a fraction of the cost of using a
+combination of platinum and iridium oxide...
+
+The team’s results suggest it is much more efficient than other
+conventional methods that use the same voltage. Due to its high
+reaction rate, this method can produce around 30 times the amount of
+hydrogen, the researchers said"
+
+[Link](http://www.asahi.com/ajw/articles/14269826)
+
+---
+
+It stands out bcz I was listening intently, the descr makes a
+difference, maybe it is Lowess? Loess? (all legit terms from
+Stats). Then I realized he is just saying "loss" with an accent
+
+---
+
+Certain part of physics will forever be etched in my brain in Brooklyn
+accent.  "It's not energy luuoos, it is information luuoos"
+
+---
+
+[Answer](2021/04/sum-greater-than-whole-reductionism.md#addend4)
+
+"In a greater-whole concoction how simple should each piece be?"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is Electrification &amp; Hydrogen the safest route for Canada’s path to net-zero? Because it helps lower air pollution more than any other system and generates a greater potential for export opportunities, which will be the most adopted abroad. <a href="https://t.co/Yy9hx9Zxqz">https://t.co/Yy9hx9Zxqz</a><a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://t.co/dWrBgUjCXw">pic.twitter.com/dWrBgUjCXw</a></p>&mdash; Xebec Adsorption Inc (@XebecInc) <a href="https://twitter.com/XebecInc/status/1377804577685303297?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Researchers 🇯🇵 developed a cheaper and 30x more efficient way to produce <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> from water electrolysis, which could lead to clean-fuel production becoming more sustainable. Catalyst uses ruthenium (94%) and iridium (6%) instead of platinum &amp; iridium. <a href="https://t.co/FaebjfCL0I">https://t.co/FaebjfCL0I</a> <a href="https://t.co/PNWfCordFP">pic.twitter.com/PNWfCordFP</a></p>&mdash; Hydrogen Standard (@H2Standard) <a href="https://twitter.com/H2Standard/status/1377366645597868034?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
