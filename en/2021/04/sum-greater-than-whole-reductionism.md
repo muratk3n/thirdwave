@@ -224,8 +224,8 @@ every other piece.. now we're getting somewhere. IDK, how do u encode
 that..? Let +1/-1 be up and down direction, $-1^n$ for $n=1,2,..$? I
 smell nonlinearity..
 
-Also notice how pieces are different, each cover a different aspect of
-the problem. Same fundamental difference angle at work here.
+Also we notice how pieces are different, each cover a different aspect
+of the problem, are fundamental / different.
 
 References
 
