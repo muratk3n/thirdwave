@@ -83,8 +83,8 @@ blocking this?
 
 ---
 
-Dude broke hang glider distance record, 368 km, in one day, that is
-flying uninterrupted in a single day, clocking in 40 km/h on average.
+Dude broke hang glider distance record, 368 km, that is flying
+uninterrupted in a single day, clocking in 40 km/h on average.
 
 [Link](https://www.willswing.com/owen-morses-new-out-and-return-world-record-flight-on-the-t3-154/)
 
