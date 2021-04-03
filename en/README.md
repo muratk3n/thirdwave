@@ -44,7 +44,7 @@ Jean-Baptiste Eyméoud, President of @AlstomFrance"
 
 ----
 
-"The market is efficient!". "It will cure all!". .
+"The market is efficient!". "It will cure all!"
 
 ---
 
