@@ -224,8 +224,8 @@ every other piece.. now we're getting somewhere. IDK, how do u encode
 that..? Let +1/-1 be up and down direction, $-1^n$ for $n=1,2,..$? I
 smell nonlinearity..
 
-Also notice how pieces are different, each cover one aspecct of the
-problem. Same fundamental-ness angle at work here.
+Also notice how pieces are different, each cover a different aspect of
+the problem. Same fundamental difference angle at work here.
 
 References
 
@@ -234,3 +234,4 @@ References
 [2] [The Making of BTS Dynamite](https://youtu.be/qBCM1Fy-ByY?t=33)
 
 [3] Strogatz, *Infinite Powers*
+
