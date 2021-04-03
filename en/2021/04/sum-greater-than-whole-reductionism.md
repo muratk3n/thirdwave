@@ -201,6 +201,32 @@ different from one another.. Sine function is different from
 cosine. Left is different from right. Both help to cover a different
 aspect of a problem, when combined, deliver the final solution.
 
+<a name='circle'/>
+
+Question
+
+"I heard someone say Calculus is all about dividing a problem into
+pieces and putting it back together.. Doesn't that sound simple,
+dumb addition?"
+
+Not necessarily.. Take the discovery of circle area formula. [3] talks
+about how Archimedes found this formula; divided a circle into pieces
+then put them back together and he realized smaller, smaller pieces
+would give you a rectngle with sides corresponding to the circle, but
+rect area is easy to calculate.
+
+<img width="200" src="circle.jpg"/>
+
+But notice how the pieces were put back together, he flips around
+*every other piece*. He doesnt just cut it into pieces and put
+it back toegether as-is. That would simply result the same circle!
+Flipping every other pieces, IDK how to encode that..? Say +1/-1 are
+up and down, so $-1^n$ for $n=1,2,..$? I smell nonlinearity.
+
+Also noticce how pieces are different, each cover one aspecct of the
+problem. Same pieces added again does nothing. Multiple fundamentally
+different pieces give something else. 
+
 References
 
 [1] [Test functions](https://en.wikipedia.org/wiki/Test_functions_for_optimization)
