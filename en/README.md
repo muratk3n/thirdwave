@@ -16,12 +16,12 @@ mistake.'"
 
 ---
 
-Were they waiting for muneee? Lemme see Benjamins baaby? 
+Were they waiting for muneee? The Benjamins?
 
 ---
 
-A year ago? Why did it take so long for widespread rollout?  Testing
-couldnt have taken that long.
+A year ago? Why did it take so long for a wider rollout?  Testing
+shouldn't have taken that long.
 
 "@ichaydon
 
