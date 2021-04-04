@@ -214,8 +214,8 @@ about how Archimedes discovered it; he divided a circle into pieces
 then put them back together and he realized combining even smaller,
 and smaller pieces would give you a rectangle whose sides correspond
 to the circle, and since rectangle area is easy to calculate ($C=2\pi
-r$ obviously), from there circle area calc wld be easy, a major
-innovation at the time.
+r$ obviously), from there circle area calc wld be easy, plug in we get
+$\pi r^2$, a major innovation at the time.
 
 <img width="200" src="circle.jpg"/>
 
