@@ -38,6 +38,13 @@ safe. (Spoiler: It is!) "
 
 ---
 
+"Uniper Site in Wilhelmshaven Set to Cease Coal-Based Power Generation this Year
+and Focus Attention on Hydrogen"
+
+[Link](https://fuelcellsworks.com/news/uniper-site-in-wilhelmshaven-set-to-cease-coal-based-power-generation-this-year-and-focus-attention-on-hydrogen/)
+
+---
+
 V awesome.. Laudato Si
 
 "It's a Mirai-cle: the Pope has a hydrogen Toyota"
