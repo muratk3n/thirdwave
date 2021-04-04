@@ -38,7 +38,7 @@ safe. (Spoiler: It is!) "
 
 ---
 
-Good good.. Laudato Si
+V awesome.. Laudato Si
 
 "It's a Mirai-cle: the Pope has a hydrogen Toyota"
 
