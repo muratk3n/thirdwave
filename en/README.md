@@ -1,93 +1,47 @@
 # Tweets
 
-"In the past 10 years, there has been a new trend in wind power:
-harvesting the energy of high-altitude winds. At 1000 m altitude,
-winds are about three-times faster than surface winds... Furthermore,
-high winds are steadier and available almost all over the world,
-unlike surface winds which are intermittent and only exploitable in
-certain areas of the globe"
+Ill Boogs - Super Suede \#music
+
+[Link](https://youtu.be/7o8q81-bkew)
 
 ---
 
-"@bkeegan
+It's true. [See](2021/04/suez-aftermath-ike-didnt-like.md)
 
-Anyone else remember when people and corporations were shelling out
-huge sums of cash to buy virtual islands in Second Life around 2006?
-Good times"
+"@rabrowne75
 
----
-
-Moscow criteron..  interesting. 
-
-"[About UK doctrine 'Moscow criteron'] It has been the UK’s policy
-that the independent British nuclear deterrent should be able to
-defeat ballistic missile defences around Moscow. If the UK decided
-alone to take the apocalyptic decision to use its nuclear weapons, it
-would want to be able to target large centres of population such as
-Moscow. Hiroshima and Nagasaki would be dwarfed by such events. The
-rationale for this policy is that our independent deterrent has to
-cover the possibility that, if the US decided for any reason not to
-use its nuclear capability to defend Europe, the continent and the UK
-in particular could defend itself"
-
-[Link](https://www.ft.com/content/3ce68230-9dd1-11e1-9a9e-00144feabdc0)
+'Years later,' Richard Nixon wrote in the 1980s, 'I talked to
+Eisenhower about Suez; he told me it was his major foreign policy
+mistake.'"
 
 ---
 
-"@H2Europe
-
-@Alstom acquires @HelionPower to foster its \#hydrogen knowledge.
-"[...]This transaction is in line with Alstom's strategy to extend and
-enhance its expertise in \#sustainable, intelligent #mobility," says
-Jean-Baptiste Eyméoud, President of @AlstomFrance"
-
-
-----
-
-"The market is efficient!". "It will cure all!"
+Were they waiting for muneee? Lemme see Benjamins baaby? 
 
 ---
 
-NYT: "In the early days of the pandemic, when drug makers were just
-starting to develop vaccines, placing orders for any of them was a
-risk. Wealthier countries could mitigate that risk by placing orders
-for multiple vaccines and, by doing so, tied up doses that smaller
-countries may have otherwise purchased, according to experts.
+A year ago? Why did it take so long for widespread rollout?  Testing
+couldnt have taken that long.
 
-As a result, most higher-income countries were able to pre-order
-enough vaccines to cover their populations several times over, while
-others had trouble securing any doses at all"
+"@ichaydon
 
-[Link](https://www.nytimes.com/interactive/2021/03/31/world/global-vaccine-supply-inequity.html)
+A year ago I tried the Moderna vaccine to see if it was
+safe. (Spoiler: It is!) "
 
 ---
 
-Why so many BEV charging stations? Wasnt the selling pt of this shit
-"charge at home" (or just use existing infra)? What happened?
-@garrygolden
+[Answer](2021/04/sum-greater-than-whole-reductionism.md#circle)
+
+"I heard someone say Calculus is all about dividing something into pieces and
+putting it back together"
 
 ---
 
-BEVs (retarded ZEVs) are environmentally dangerous.
+This Pope has it all figured out. Laudato Si
 
-[Wired](https://www.wired.co.uk/article/lithium-batteries-environment-impact)
+"It's a Mirai-cle: the Pope has a hydrogen Toyota"
 
----
-
-Zero emission vehicles. Good wording.. 
-
----
-
-No it is no necessarily a constant descend for gliders.. there are
-"thermals" hot pockets of air rising, if they catch one of them they
-can climb. Ride enough of them glider can keep going and going.. 
-
----
-
-Dude broke hang glider distance record, 368 km, that is flying
-uninterrupted in a single day, clocking in 40 km/h on average.
-
-[Link](https://www.willswing.com/owen-morses-new-out-and-return-world-record-flight-on-the-t3-154/)
+[Link](https://www.topgear.com/car-news/future-tech/its-mirai-cle-pope-has-hydrogen-toyota)
 
 ---
 
