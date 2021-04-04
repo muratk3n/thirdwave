@@ -201,32 +201,34 @@ different from one another.. Sine function is different from
 cosine. Left is different from right. Both help to cover a different
 aspect of a problem, when combined, deliver the final solution.
 
-<a name='circle'/>
-
 Question
 
 "I read somewhere that Calculus is all about dividing something into
 pieces and putting it back together.. In terms of the basis of
 innovation, doesn't that sound like simple addition?"
 
+<a name='circle'/>
+
 Not necessarily.. Take the discovery of circle area formula. [3] talks
 about how Archimedes discovered it; he divided a circle into pieces
-then put them back together and he realized smaller, smaller pieces
-would give you a rectangle with sides corresponding to the circle, and
-rect area is easy to calculate ($C=2\pi r$ obviously, from there thru
-rectangle, area is easy).
+then put them back together and he realized combining even smaller,
+and smaller pieces would give you a rectangle whose sides correspond
+to the circle, and since rectangle area is easy to calculate ($C=2\pi
+r$ obviously), from there circle area calc wld be easy, a major
+innovation at the time.
 
 <img width="200" src="circle.jpg"/>
 
-But notice how he put the pieces back together, he *flips around every
-other piece*. He doesnt just cut it into pieces and put them back
-toegether as-is. That just gives you the same circle! But flipping
-every other piece.. now we're getting somewhere. IDK, how do u encode
-that..? Let +1/-1 be up and down direction, $-1^n$ for $n=1,2,..$? I
-smell nonlinearity..
+But notice how he puts the pieces back together, he flips *every other
+piece*. He doesnt just cut the circle into pieces and put the pieces
+back toegether as-is. That just gives you the same circle! But
+flipping every other piece.. now we're getting somewhere. How do u
+encode that action..? If +1/-1 encodes up and down direction, $-1^n$
+for $n=1,2,..$? I smell nonlinearity..
 
-Also we notice how pieces are different, each cover a different aspect
-of the problem, are fundamental / different.
+Also notice up pieces are different then down pieces, in terms of how
+they contribute to the overall solution, each cover a different aspect
+of the problem. They are fundamental and different.
 
 References
 
