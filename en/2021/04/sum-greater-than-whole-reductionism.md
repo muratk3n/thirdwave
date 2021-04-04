@@ -205,9 +205,9 @@ aspect of a problem, when combined, deliver the final solution.
 
 Question
 
-"I heard someone say Calculus is all about dividing a problem into
-pieces and putting it back together.. Doesn't that sound simple,
-dumb addition?"
+"I read somewhere that Calculus is all about dividing something into
+pieces and putting it back together.. In terms of the basis of
+innovation, doesn't that sound like simple addition?"
 
 Not necessarily.. Take the discovery of circle area formula. [3] talks
 about how Archimedes discovered it; he divided a circle into pieces

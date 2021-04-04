@@ -6,6 +6,14 @@ Ill Boogs - Super Suede \#music
 
 ---
 
+[Answer](2021/04/sum-greater-than-whole-reductionism.md#circle)
+
+"I read somewhere that Calculus is all about dividing something into
+pieces and putting it back together.. In terms of the basis of
+innovation, doesn't that sound like simple addition?"
+
+---
+
 It's true. [See](2021/04/suez-aftermath-ike-didnt-like.md)
 
 "@rabrowne75
@@ -27,13 +35,6 @@ shouldn't have taken that long.
 
 A year ago I tried the Moderna vaccine to see if it was
 safe. (Spoiler: It is!) "
-
----
-
-[Answer](2021/04/sum-greater-than-whole-reductionism.md#circle)
-
-"I heard someone say Calculus is all about dividing something into pieces and
-putting it back together"
 
 ---
 
