@@ -19,10 +19,12 @@ into an omnipresent payment scheme.
 
 ---
 
-We need voluntery, "monetized likes" scheme tied to a new crypto. Fast
-payment tech, connect to a naming system (akin to Twitter checkmark),
-then while listening to a song (downloaded from .. wherever), if liked
-send small payment to just a name. Bee Gees? Weekend? Send it.
+Docu shows challenges around paying for content in a post-industrial
+era. My take: we need voluntery, "monetized likes" scheme tied to a
+new crypto. Fast payment tech, connect to a naming system (akin to
+Twitter checkmark), then while listening to a song (downloaded from
+.. wherever), if liked, u send small payment to just a name. Bee Gees?
+Weekend? Send it to that name and it gets routed to the artist.
 
 ---
 
@@ -37,13 +39,10 @@ the music biz.
 
 ---
 
-It is as if they don't want innovative, free-thinking people.
-
----
-
 Archimedes circle area formula invention is not covered at
 schools.. Sad state of our ed system.. Stuff that should be taught
-first arrives last.
+first arrives last. It is as if they don't want innovative,
+free-thinking people.
 
 ---
 
