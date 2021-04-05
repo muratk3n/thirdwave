@@ -197,6 +197,21 @@ better than others. Russia nationalist stories are a crock. US does
 better; Here is portion of the US narrative; "Why did we seperate from
 England?". "Because ruling from a distance was not effective". Fine.
 
+The best way to explain TR situation is this; Let's say US founders,
+bcz for whatever reason, due to loss in a war, cultural baggage,
+whatever, pick some marginal identity to get away from it all. Say
+they pick .. the Amish as the new identity. They'd say "happy are
+those who say they are Amish", and "everyone in the world is Amish
+they just don't know it yet". They'd rename the country Amishland,
+even George Washington changed his lastname to George
+GrandAncestorAmish. then many years later, confused citizens would
+turn to eachother, maybe to a grandson of a Japanese immigrant who is
+100% culturally native, and say "you are Amish!", "fuck you if you
+dont say you are Amish". The Japanese looking dude would balk, he'd
+say I know I am not f-ing Amish, and this guy is ragging on me, maybe
+I should start *learning Japanese* (see how it backfires)", and the
+downslide begins. 
+
 Question: Why do we hear some lastnames that have the word "Turk" in
 them in TR?"
 
