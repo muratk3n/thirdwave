@@ -24,7 +24,9 @@ era. My take: we need voluntery, "monetized likes" scheme tied to a
 new crypto. Fast payment tech, connect to a naming system (akin to
 Twitter checkmark), then while listening to a song (downloaded from
 .. wherever), if liked, u send small payment to just a name. Bee Gees?
-Weekend? Send it to that name and it gets routed to the artist.
+Weekend? Send it to that name and it gets routed to the artist. Or
+even send it to a work (a song, or movie, and payment gets divided up
+automatically behind the scenes according to a formula.
 
 ---
 
