@@ -197,6 +197,8 @@ better than others. Russia nationalist stories are a crock. US does
 better; Here is portion of the US narrative; "Why did we seperate from
 England?". "Because ruling from a distance was not effective". Fine.
 
+<a name='amish'/>
+
 The best way to explain TR situation is this; Let's say US founders,
 bcz for whatever reason, due to loss in a war, cultural baggage,
 whatever, pick some marginal identity to get away from it all. Say

@@ -343,21 +343,8 @@ consoles?"
 
 No. The US non-insistence is part of the assimilation actually, it
 works well.. 10 times better than the TR approach. If TR appr was used
-in US, here is how it would go.
-
-US founders, bcz for whatever reason, they were shellshocked by the
-[here-and-now](../../2020/04/turks-culture-national-narrative.md)
-of their time, etc. would pick some marginal identity to get away from
-it all. Say they pick .. the Amish as the new identity. They'd say
-"happy are those who say they are Amish", and that, "everyone in the
-world is Amish they just don't know it yet". They'd rename the country
-Amishland, then many years later, confused citizens would turn to
-eachother, like to a grandson of a Japanese immigrant who is 100%
-culturally native, and say "you are Amish!", "fuck you if you dont say
-you are Amish".  The Japanese looking dude would balk, he'd say I'm
-pretty sure I am not f-ing Amish, and this guy is ragging on me, maybe
-I should start *learning Japanese* (see how it backfires), bcz I cant
-be whatever these ppl want me to be. And the downslide begins.
+in US, [here is](../../2020/04/turks-culture-national-narrative.md#amish)
+how it would go. 
 
 "But then should we tell ppl to supress their 'identity' as deluded as
 it might be, like in TR?"
