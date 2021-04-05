@@ -8,8 +8,8 @@ hinder the achievement of worldwide protection against Covid-19"
 
 ---
 
-Sure I tie lots of thing into this payment scheme, eg digital UBI.
-\#muneee
+Sure I tie lots of thing into a digi payment, eg UBI. Monetary system
+is at the center of many things \#muneee
 
 ---
 
