@@ -41,10 +41,9 @@ It is as if they don't want innovative, free-thinking people.
 
 ---
 
-I did not know about how Archimedes found the circle area formula
-until I read it in Strogatz. I doubt many others knew this little gem
-either.. Sad state of the ed system.. Stuff oughta be taught first
-arrives last. 
+Archimedes circle area formula invention is not covered at
+schools.. Sad state of our ed system.. Stuff that should be taught
+first arrives last.
 
 ---
 
