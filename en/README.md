@@ -32,7 +32,7 @@ yells “BONERRRRR! BONERRRRRR! TIME FOR DINNERRRR!” like Beavis"
 
 ---
 
-Words like "summation" are misleading.. We are computing a "smart
+Words like "summation" can be misleading.. We are computing a "smart
 sum", a sum that takes into account the upper boundary. Or a [smart
 multiplication](https://betterexplained.com/articles/a-calculus-analogy-integrals-as-multiplication/).
 
