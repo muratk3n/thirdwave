@@ -1,5 +1,53 @@
 # Week 14
 
+"Big Pharma did not save the day.. The industry is celebrating a great
+PR win—but Big Pharma's iron grip on intellectual property could
+hinder the achievement of worldwide protection against Covid-19"
+
+[Link](https://www.prospectmagazine.co.uk/politics/big-pharma-covid-19-vaccine-uk-revenue-stephen-buranyi)
+
+---
+
+Sure I tie lots of thing into a digi payment, eg UBI. Monetary system
+is at the center of many things \#muneee
+
+---
+
+Patreon is not good enough, ppl still have to signup to this
+particular service. Monetized likes, naming all needs to be integrated
+into an omnipresent payment scheme.
+
+---
+
+Docu shows challenges around paying for content in a post-industrial
+era. My take: we need voluntery, "monetized likes" scheme tied to a
+new crypto. Fast payment tech, connect to a naming system (akin to
+Twitter checkmark), then while listening to a song (downloaded from
+.. wherever), if liked, u send small payment to just a name. Bee Gees?
+Weekend? Send it to that name and it gets routed to the artist. Or
+even send it to a work (a song, or a movie), and payment gets divided
+up automatically behind the scenes according to a formula.
+
+---
+
+Great Bloomberg docu on history of file sharing, MP3, its effect on
+the music biz.
+
+[Part 1](https://www.youtube.com/watch?v=OHVRItc38-c)
+
+[Part 2](https://www.youtube.com/watch?v=01DOCnCA1j0)
+
+[Part 3](https://www.youtube.com/watch?v=392B71DgBCY)
+
+---
+
+Archimedes circle area formula invention is not covered at
+schools.. Sad state of our ed system.. Stuff that should be taught
+first arrives last. It is as if they don't want innovative,
+free-thinking people.
+
+---
+
 Ill Boogs - Super Suede \#music
 
 [Link](https://youtu.be/7o8q81-bkew)
