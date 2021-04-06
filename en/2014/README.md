@@ -122,8 +122,6 @@
 
 [World In Transition](05/world-in-transition.md)
 
-[All Our Patent Are Belong To You](06/all-our-patent-are-belong-to-you.md)
-
 [China and CO2](06/china-and-co2.md)
 
 [Dragon V2](06/dragon-v2.md)

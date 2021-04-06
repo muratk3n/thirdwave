@@ -28,5 +28,7 @@
 
 [Unrivaled](03/unrivaled-beckley.md)
 
+[The Suez Aftermath Ike Didn't Like](04/suez-aftermath-ike-didnt-like.md)
+
 [Good Reductionism and Nonlinear Power](04/sum-greater-than-whole-reductionism.md)
 

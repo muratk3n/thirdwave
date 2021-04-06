@@ -204,8 +204,6 @@
 
 [More Data Is Better Than None](05/more-data-is-better-than-none.md)
 
-[Obama's Zinger](05/obamas-zinger.md)
-
 [Osama bin Laden Dead](05/osama-bin-laden-dead.md)
 
 [Peak Oil Confirmed](05/peak-oil-confirmed.md)

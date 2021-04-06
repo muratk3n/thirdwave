@@ -80,3 +80,38 @@ and this pride is so ingrained that people raised in that culture
 think of engineering first when they think of cars.
 
 
+US
+
+Life is tension. Everything we experience in life lies somewhere on an
+axis between two extremes. One cannot truly know pleasure without
+knowing pain. One cannot legitimately feel joy without having felt
+sorrow. The degree to which we feel an experience depends on where
+that experience lies on the axis (a little painful, overwhelmingly
+joyful, and so on).... Every culture is composed of an endless number
+of archetypes and of the tensions between each archetype and an
+opposing one. For example, one of the primary tensions in the American
+culture is the one between freedom and prohibition.
+
+<a name='france'/>
+
+France
+
+In France, for example, the archetype on the other side of the axis
+from freedom is not prohibition; it is privilege. Throughout their
+history, the French have vacillated between periods when a privileged
+class ruled the day and periods when this class is overthrown and the
+nation abolishes privileges and titles. The most famous example
+occurred, of course, in 1789, though it is interesting to note that
+Napoleon began a new era of titles and privilege not long
+thereafter...  When Disney launched Euro Disney in Paris, they learned
+how much privilege means to the French culture. Originally, the theme
+park had the same rules as all other Disney parks, barring pets,
+smoking, and the consumption of alcohol. The French stayed away in
+droves because they didn’t like such restrictions. Disney broke
+through to the French market only when they began to offer special
+“privilege passes” that allowed access (for a premium price) to
+certain parts of the park where visitors could take their pets, smoke,
+and drink wine. The idea of islands of privilege in a sea of equality
+was right on Code for the French.
+
+

@@ -1,9 +1,0 @@
-# Obama's Zinger
-
-Obama comes up with a zinger for Matt Damon, says he was disappointed with his latest movie The Adjustment Bureau. I was somewhat disappointed too, because it did not fit Damon's usual selection of roles that pits him as a hero against the system. TAB's overriding message, from The Integrators to us, seems to be "just come to terms with da plan. we are still necessary, and the moment you dont need a plan, we will relinquish control". TAB was trying to make the case for the modernist / industrial system, arguing, albeit quitely, that it is still somewhat useful. And Damon's character was apparently happy with this message, as long as he could be with the woman he loved. A culture code is relied upon heavily here, the US code for women is MEN'S SALVATION. Damon gets the girl and saves his soul. Rest of the stuff ?.. Dont bother your pretty little head with it. We will let you know when it's your turn.
-
-IMHO this message diluted, lessened the movie's mojo. Not all movies can be The Matrix, but zeitgeist is what it is, and if movies are in synch with it, the more expressive they will be for their audience. That aside, I enjoy any form of entertainment above a certain calibre like TAB, and Damon is still watchable and a good leading man.
-
----
-
-[1] In a related topic, in the foreign language version of this blog, we wrote about Jason Bourne / Bond division before; All recent Bond movies tried to copy from Bourne, we said Bond is a second-wave spy whereas Bourne is a third wave one. Bond memorizes bunch of facts, Bourne googles stuff. Bond is a tool of the "machine", Bourne is hunted by it. Et cetera. Matt Damon was not easy on Bond either, he calls the character "an imperialist, misogynist sociopath who goes around bedding women and swilling martinis and killing people. He's repulsive". Rough words.
