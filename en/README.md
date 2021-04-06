@@ -15,9 +15,7 @@ production of FCEVs. And yet Volkswagen AG still claims, that
 
 ---
 
-Winger is the best band ever
-
-\#kidding 
+All of a sudden I want to listen to Winger 😶
 
 ---
 
