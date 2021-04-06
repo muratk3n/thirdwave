@@ -64,7 +64,7 @@ downloading cars"
 
 ---
 
-New streaming device counts ppl in the room? Seriuusly.
+New streaming device counts ppl in the room? Seriously.
 
 "@Sean8UrSon
 
