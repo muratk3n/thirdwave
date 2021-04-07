@@ -114,8 +114,7 @@ BTW the so-called Turkish coffee is actually Greek coffee, and that
 itself is similar to a espresso, clearly all originating from
 Aegy/Medi region; bunch of punks from distant whereever did not bring
 it with them... Off-the-boat, or off-the-goat types like everyone else
-who arrived and assimilated, picked these things up from where they
-started to live.
+who arrived and assimilated, picked these things up from their region.
 
 ---
 
