@@ -117,8 +117,8 @@ who arrived and assimilated, picked these things up from their region.
 
 ---
 
-Haha.. a few Byzantian music samples below.. sounds awfullly like the
-so-called *sanat müziği* (tigger art music)
+Haha.. few Byzantian music samples below.. sounds awfullly like the
+so-called "Turkish" art music, *sanat müziği*.
 
 [Song 1](https://youtu.be/Da9FeNoFIm0),
 [Song 2](https://youtu.be/kOhCB4RUc8U),
