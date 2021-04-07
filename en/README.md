@@ -105,7 +105,7 @@ Unions [lost a lot of power](2019/08/focus-group-democracy.md) after
 70s. The left sufered due to losing org structure and
 leadership. Politicians themselves like that single contact to be
 lobbied by, u cant have bunch of ppl running around trying to make
-policy. Some kind of filter was needed
+policy, some kind of filter is necessary.
 
 ---
 
