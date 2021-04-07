@@ -30,8 +30,7 @@ others on it.. U get on it, then more might choose it for payments..
 
 ---
 
-Self fullfilling bubble.. :) NR never runs out of ways of hitting this
-thing, BTC.
+Ha :) NR never runs out of ways of hitting this thing, BTC.
 
 "@business
 
@@ -84,7 +83,7 @@ definitely the third. The Jar Jar one... It is objectively bad.
 ---
 
 I have zero interest in approaches that cannot be scaled up. Works on
-little toy examples in 2D not 3D? I'll pass.
+little toy examples in 2D not 3D? Pass.
 
 ---
 
