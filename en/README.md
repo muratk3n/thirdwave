@@ -1,80 +1,133 @@
 # Tweets
 
-Not surprisingly the same company caught cheating in an emission
-scandal.. Biatch!
+"@gabriel_zucman
+
+Global effective corporate income tax rate (all taxes included:
+federal + state + foreign) of the largest US companies, as printed in
+their 2020 annual reports:
+
+- Amazon: 11.8%
+- Apple: 14.4%
+- Alphabet: 16.2%
+- Facebook: 12.2%"
 
 ---
 
-Hah
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stellantis to deliver Europe&#39;s first series manufactured vehicles to European markets still this year:<a href="https://t.co/AUNs2Wny1b">https://t.co/AUNs2Wny1b</a><br>with large volume mass manufactured FC stacks in the coming years:<a href="https://t.co/IfZFpeDsxw">https://t.co/IfZFpeDsxw</a></p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1379543235211714562?ref_src=twsrc%5Etfw">April 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-"@H2_MOBILITY_DE
-
-3 out of the 5 biggest automakers worldwide have started serial
-production of FCEVs. And yet Volkswagen AG still claims, that
-\#hydrogen and \#fuelcells cells have 'no market maturity'"
 
 ---
 
-All of a sudden I want to listen to Winger 😶
+BTC specifically is badly designed but the next crypto cld remedy
+that, fix the warts.
 
 ---
 
-Bcz of Bono? That's funny 
-
-"@meatheadsadie
-
-Every - single - time I hear 'Mysterious Ways' by U2, my brain always
-yells “BONERRRRR! BONERRRRRR! TIME FOR DINNERRRR!” like Beavis"
+Maybe 1 cld see a crypto as holding a ticket that gets u into a
+payment system, and the system is the value.. It is sorta circular
+tho.. why would someone want to pay with a crypto? Bcz there are
+others on it.. U get on it, then more might choose it for payments..
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A high global minimum tax can change the face of globalization—by making its main winners (multinational companies) pay more in taxes, instead of them paying less and less<br><br>I&#39;m old enough to remember when this idea was deemed utopian, so could not be happier to see this! <a href="https://t.co/tDSZGEkLXt">pic.twitter.com/tDSZGEkLXt</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1379115765194846209?ref_src=twsrc%5Etfw">April 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Self fullfilling bubble.. :) NR never runs out of ways of hitting this
+thing, BTC.
+
+"@business
+
+Bitcoin is a 'speculative self-fulfilling bubble' without any feature
+of an asset, says Nouriel Roubini"
+
+[Link](https://twitter.com/business/status/1362305213269442560)
 
 ---
 
-Words like "summation" can be misleading.. We are computing a "smart
-sum", a sum that takes into account the upper boundary. Or a [smart
-multiplication](https://betterexplained.com/articles/a-calculus-analogy-integrals-as-multiplication/).
+"@ForeignAffairs
+
+Nothing less than a bold new regime of domestic and international
+taxes will save wealthy democracies and economies from the distortions
+and dangers of rampant inequality, write @JosephEStiglitz,
+@toddntucker, and @gabriel_zucman"
+
+[Link](https://twitter.com/ForeignAffairs/status/1379470434551394313)
 
 ---
 
-How about the top part? They are not the same. Their upper boundary
-changes as we go to right, depending on the function we are
-integrating, so it's not simple sum.
+The solution is more / better speech. Meddling with section 230 wld
+hamper it IMO.
 
-Pay attn that integration result too, anything above first degree will
-give you polynomial of deg higher and including than 2 = nonlinearity.
+"Disinfo Wars: Fixing the Media’s Fake News Problem A toxic focus on
+misinformation has taken over the media ecosystem"
 
-<img width="200" src="https://pbs.twimg.com/media/EyNNfspWEAQht1Y?format=jpg&name=small"/>
-
-"If we think of integration of regular functions, they look like
-addition of simple components, side by side, wout flipping"
+[Link](https://thereboot.com/disinfo-wars-fixing-the-medias-fake-news-problem/)
 
 ---
 
-"@mattblaze
-
-Mark my words, this API decision from the Supreme Court is going to
-lead straight to gangs of lawless youth roaming the streets and
-downloading cars"
+It's like arguing for the price of oil is high or low disregarding the
+entire security apparatus to bring it into the market.
 
 ---
 
-"Google v Oracle: Supreme Court declares Google's code copying fair"
+Water is more abundant and easy to process, jagoff. Even if water was
+tad more harder to find, process, one is still needed more than the
+other. Effin fin guy.. Sees only what he is allowed to "bet" on, that
+is his world... 
+
+Finance guy: "They say water is in nature and it's free. Diamonds also occur in
+nature but they are not free"
 
 ---
 
-New streaming device counts ppl in the room? Seriously.
+The worst *Mission Impossible* is the second..? Nah man... it is
+definitely the third. The Jar Jar one... It is objectively bad.
 
-"@Sean8UrSon
+---
 
-just got this frightening press email 
+I have zero interest in approaches that cannot be scaled up. Works on
+little toy examples in 2D not 3D? I'll pass.
 
-IT COUNTS PEOPLE IN THE ROOM SO IT CAN CHARGE PER PERSON??!?!
+---
 
-capitalism is fucking exhausting"
+Sounds like a culture code in play here. French cultural tug of war
+is between freedom and privelege. See [Rapaille](2014/06/the-culture-code.md#france).
 
-[Link](https://twitter.com/Sean8UrSon/status/1379156103557120001)
+"Covid: Paris police probe 'secret luxury dinner parties'"
+
+---
+
+"@BFMTV
+
+Covid-19: seven in ten French people approve of the measures announced
+by Emmanuel Macron, but almost half plan to break the new rules"
+
+---
+
+Unions [lost a lot of power](2019/08/focus-group-democracy.md) after
+70s. The left sufered due to losing org structure and
+leadership. Politicians themselves like that single contact to be
+lobbied by, u cant have bunch of ppl running around trying to make
+policy. Some kind of filter was needed
+
+---
+
+BTW the so-called Turkish coffee is actually Greek coffee, and that
+itself is similar to a espresso, clearly all originating from
+Aegy/Medi region; bunch of punks from distant whereever did not bring
+it with them... Off-the-boat, or off-the-goat types like everyone else
+who arrived and assimilated, picked these things up from where they
+started to live.
+
+---
+
+Haha.. a few Byzantian music samples below.. sounds awfullly like the
+so-called *sanat müziği* (tigger art music)
+
+[Song 1](https://youtu.be/Da9FeNoFIm0),
+[Song 2](https://youtu.be/kOhCB4RUc8U),
+[Song 3](https://youtu.be/9_8aSrsTlCE),
+[Song 4](https://youtu.be/lR4E7XrS9gI),
+[Song 5](https://youtu.be/JSHiM36GmkY),
+[Song 6](https://youtu.be/k_srWY7hddw)
 
 ---
 
