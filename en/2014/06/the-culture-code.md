@@ -2,7 +2,7 @@
 
 Clotaire Rapaille, The Culture Code
 
-All human beings are born with brains divided into three parts.  One
+All human beings are born with brains divided into three parts. One
 part, the cortex (the cerebral hemispheres), handles learning,
 abstract thought, and imagination. The cortex comes into practical use
 in most children after they are seven years old [..] [T]he limbic
@@ -79,8 +79,7 @@ manufacturers pride themselves on the quality of their engineering,
 and this pride is so ingrained that people raised in that culture
 think of engineering first when they think of cars.
 
-
-US
+Tug of War
 
 Life is tension. Everything we experience in life lies somewhere on an
 axis between two extremes. One cannot truly know pleasure without
@@ -89,8 +88,12 @@ sorrow. The degree to which we feel an experience depends on where
 that experience lies on the axis (a little painful, overwhelmingly
 joyful, and so on).... Every culture is composed of an endless number
 of archetypes and of the tensions between each archetype and an
-opposing one. For example, one of the primary tensions in the American
-culture is the one between freedom and prohibition.
+opposing one... 
+
+US
+
+For example, one of the primary tensions in the American culture is
+the one between freedom and prohibition.
 
 <a name='france'/>
 
