@@ -87,8 +87,9 @@ little toy examples in 2D not 3D? Pass.
 
 ---
 
-Sounds like a culture code in play here. French cultural tug of war
-is between freedom and privelege. See [Rapaille](2014/06/the-culture-code.md#france).
+Sounds like a culture code is in play here. French cultural tug of war
+is between freedom and privelege. See
+[Rapaille](2014/06/the-culture-code.md#france).
 
 "Covid: Paris police probe 'secret luxury dinner parties'"
 
