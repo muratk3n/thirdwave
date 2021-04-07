@@ -30,7 +30,7 @@ others on it.. U get on it, then more might choose it for payments..
 
 ---
 
-Ha :) NR never runs out of ways of hitting this thing, BTC.
+NR never runs out of ways of hitting this thing, BTC.
 
 "@business
 
