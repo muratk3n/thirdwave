@@ -112,6 +112,6 @@ through to the French market only when they began to offer special
 “privilege passes” that allowed access (for a premium price) to
 certain parts of the park where visitors could take their pets, smoke,
 and drink wine. The idea of islands of privilege in a sea of equality
-was right on Code for the French.
+was right on Code for [them].
 
 
