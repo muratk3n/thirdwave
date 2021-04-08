@@ -130,7 +130,7 @@ Out[1]: 872.9
 ```
 
 Not bad.. It can change obviously, export-dependency is just another
-dependency. CH is a basket case and has lotsa mouths to feed.
+dependency. 
 
 ---
 
