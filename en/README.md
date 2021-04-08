@@ -119,7 +119,7 @@ Out[1]: 872.9
 ```
 
 This USD u can spend, to buy the steel for those ghost cities.. But
-export-dependency is just another dependency, lets not forget. 
+export-dependency is just another dependency, it can get cut
 
 ---
 
