@@ -129,8 +129,8 @@ np.sum(defc)
 Out[1]: 872.9
 ```
 
-Not bad.. It can change obviously, export-dependency is just another
-dependency. 
+This USD u can spend, to buy the steel for those ghost cities.. But
+export-dependency is just another dependency, lets not forget. 
 
 ---
 
