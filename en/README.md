@@ -12,7 +12,7 @@ accelerate the implementation of #H2 market!"
 ---
 
 K.. as long as there is FCEV refueling next to these BEV chargers,
-it's fine.. BEVtards will get crushed in due course.
+it's fine. BEVtards will get crushed in due course.
 
 "US Senate Committee Introduces Clean Vehicle Charging
 Legislation.. Earlier this week, a group of cross-party US senators
@@ -26,10 +26,9 @@ cell vehicles"
 
 ---
 
-Little helper code to report attacks on a specific country on a
-specific month.
-
-Israel attacks Syria regularly it seems, w some hard kills too man.. Daam
+Util code to report attacks on a specific country on a specific
+month. Israel attacks Syria regularly it seems, w some hard kills
+too.. Dam
 
 ```python
 import pandas as pd
