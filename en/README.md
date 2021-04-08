@@ -1,28 +1,20 @@
 # Tweets
 
-\#2021PortugalEU
+"@josheidelson
 
-"@H2Europe
+New: After years of mostly unsuccessful efforts, Uber, Lyft and peers
+are poised to secure deals with major unions, just in time to help
+defuse threats from the new Biden Administration"
 
-H2Europe presented its #H2Act, representing a strategic collaborative
-effort, giving an excellent contribution to the vision & development
-of a future #hydrogeneconomy. We need collective focus and drive to
-accelerate the implementation of #H2 market!"
- 
 ---
 
-K.. as long as there is FCEV refueling next to these BEV chargers,
-it's fine. BEVtards will get crushed in due course.
+"@hazergroupltd
 
-"US Senate Committee Introduces Clean Vehicle Charging
-Legislation.. Earlier this week, a group of cross-party US senators
-introduced the Securing America’s Clean Fuels Infrastructure Act (the
-Act) to promote investments in clean vehicle infrastructure. The types
-of infrastructure supported by the legislation include electric
-vehicle charging stations and hydrogen refueling stations for fuel
-cell vehicles"
+A new report has detailed exactly how Australia’s current gas
+regulations can be modernised to facilitate the future use of
+hydrogen, biomethane and other potential future fuels"
 
-[Link](https://www.natlawreview.com/article/us-senate-committee-introduces-clean-vehicle-charging-legislation)
+[Link](http://ow.ly/uAHO50EhgEg)
 
 ---
 
@@ -57,11 +49,18 @@ Government of Israel Government of Syria          2       9
 ```
 ---
 
-"@josheidelson
+K.. as long as there is FCEV refueling next to these BEV chargers,
+it's fine. BEVtards will get crushed in due course.
 
-New: After years of mostly unsuccessful efforts, Uber, Lyft and peers
-are poised to secure deals with major unions, just in time to help
-defuse threats from the new Biden Administration"
+"US Senate Committee Introduces Clean Vehicle Charging
+Legislation.. Earlier this week, a group of cross-party US senators
+introduced the Securing America’s Clean Fuels Infrastructure Act (the
+Act) to promote investments in clean vehicle infrastructure. The types
+of infrastructure supported by the legislation include electric
+vehicle charging stations and hydrogen refueling stations for fuel
+cell vehicles"
+
+[Link](https://www.natlawreview.com/article/us-senate-committee-introduces-clean-vehicle-charging-legislation)
 
 ---
 
@@ -82,16 +81,6 @@ previously wld give major "growth".
 
 "Record growth is expected this year, all around the world, w rates
 not seen since 60s"
-
----
-
-"@hazergroupltd
-
-A new report has detailed exactly how Australia’s current gas
-regulations can be modernised to facilitate the future use of
-hydrogen, biomethane and other potential future fuels"
-
-[Link](http://ow.ly/uAHO50EhgEg)
 
 ---
 
