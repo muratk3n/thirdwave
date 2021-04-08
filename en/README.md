@@ -128,7 +128,7 @@ np.sum(defc)
 Out[1]: 872.9
 ```
 
-This is US curr available for 2018.  It can change obviously,
+This is USD available for 2018 in bil.  It can change obviously,
 export-dependency is just another dependency.
 
 ---
