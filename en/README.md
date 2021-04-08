@@ -116,7 +116,8 @@ sectors. - R. Mourinho Felix, VP, [European Inv Bank]"
 ---
 
 2018 trade balance with CH top trading [partners](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_China),
-Neg for deficit, pos for surplus; so simple sum shld give money on hand,
+Neg for deficit, pos for surplus; so simple sum shld give the net received,
+in billions,
 
 ```python
 defc = [419.6,275.8,177.1,-28.6,206.1,-74.8,-112,-53.6,21.3,-12.7,\
@@ -128,8 +129,8 @@ np.sum(defc)
 Out[1]: 872.9
 ```
 
-This is USD available for 2018 in bil.  It can change obviously,
-export-dependency is just another dependency.
+Not bad.. It can change obviously, export-dependency is just another
+dependency.
 
 ---
 
