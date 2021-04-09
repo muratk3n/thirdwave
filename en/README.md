@@ -60,8 +60,6 @@ producing hydrogen as a potentially lucrative byproduct"
 
 ---
 
-The revolution will not be televised. It will not be live. 
-
 "@Dr__Dix
 
 I just taught a class where only 5 students showed up, none of them had their cameras on, and only 1 student spoke when I asked questions. 
