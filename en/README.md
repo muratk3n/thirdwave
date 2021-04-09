@@ -1,135 +1,97 @@
 # Tweets
 
-"@josheidelson
-
-New: After years of mostly unsuccessful efforts, Uber, Lyft and peers
-are poised to secure deals with major unions, just in time to help
-defuse threats from the new Biden Administration"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/everfuel?ref_src=twsrc%5Etfw">@everfuel</a> will plan, install and operate an optimised, scalable hydrogen fuelling solution for a brand-new zero emission ship which is expected to consume approximately 1,000kg of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> per day. <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogenmobility?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenmobility</a><a href="https://t.co/cEXdC5OIiw">https://t.co/cEXdC5OIiw</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1380076956134354944?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@hazergroupltd
+Cantoma - Overtime \#music
 
-A new report has detailed exactly how Australia’s current gas
-regulations can be modernised to facilitate the future use of
-hydrogen, biomethane and other potential future fuels"
-
-[Link](http://ow.ly/uAHO50EhgEg)
+[Link](https://youtu.be/4CVA7h2qM5c)
 
 ---
 
-Util code to report attacks on a specific country on a specific
-month. Israel attacks Syria regularly it seems, w some hard kills
-too.. Dam
-
-```python
-import pandas as pd
-
-def country_attacked(mon, country):
-   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_%d.csv' % mon
-   df = pd.read_csv(url)
-   df1 = df[(df['side_b'] == 'Government of %s' % country)]
-   g = df1[['side_a','deaths_b','side_b']].\
-       groupby(['side_a','side_b']).\
-       agg({'side_b':'count', 'deaths_b': 'sum'})
-   g.columns = ['incidents','deaths']
-   return g
-
-print (country_attacked(1, 'Syria'))
-print (country_attacked(2, 'Syria'))
-```
-
-```text
-                                          incidents  deaths
-side_a               side_b                                
-Government of Israel Government of Syria          2      57
-                                          incidents  deaths
-side_a               side_b                                
-Government of Israel Government of Syria          2       9
-```
----
-
-K.. as long as there is FCEV refueling next to these BEV chargers,
-it's fine. BEVtards will get crushed in due course.
-
-"US Senate Committee Introduces Clean Vehicle Charging
-Legislation.. Earlier this week, a group of cross-party US senators
-introduced the Securing America’s Clean Fuels Infrastructure Act (the
-Act) to promote investments in clean vehicle infrastructure. The types
-of infrastructure supported by the legislation include electric
-vehicle charging stations and hydrogen refueling stations for fuel
-cell vehicles"
-
-[Link](https://www.natlawreview.com/article/us-senate-committee-introduces-clean-vehicle-charging-legislation)
+"Bus hijacked by protesters and set alight on sixth night of unrest in
+Northern Ireland"
 
 ---
 
-"@SecYellen
-
-By choosing to compete on taxes, we’ve neglected to compete on the
-skill of our workers and the strength of our infrastructure. It’s a
-self-defeating competition, and neither President Biden nor I are
-interested in participating in it anymore.
-
-We want to change the game"
+AstraZen deaths due to side effect seem minimal
 
 ---
 
-Context? There was huge contraction due to pand so it shld not be
-surprising to expect growth, just going back to where econ was
-previously wld give major "growth".
+Playing games over ppls lives.. not a good way to improve your image
+chigga
 
-"Record growth is expected this year, all around the world, w rates
-not seen since 60s"
-
----
-
-Good docu on Soviets, Russia
-
-[Moscow's empire - rise and fall (2/4)](https://youtu.be/fSqMpZ5qhz0)
-
-[Moscow's empire - rise and fall (3/4)](https://youtu.be/DCgDChqQZwk)
-
-[Moscow's empire - rise and fall (4/4)](https://youtu.be/DCgDChqQZwk)
+"Taiwan worked with other democracies to help its diplomatic ally
+Paraguay get  Covid-19 vaccines after China put pressure on the South
+American country to ditch Taipei in exchange for shots, and India
+stepped in to help, Taiwan's foreign minister said"
 
 ---
 
-\#2021PortugalEU
+"@_NPROXX
 
-"@H2Europe
-
-\#GreenHydrogen is in our view one of the most promising techs to
-eliminate hard to abate emissions from industrial & transport
-sectors. - R. Mourinho Felix, VP, [European Inv Bank]"
+NPROXX is currently completing the manufacture of an innovative
+hydrogen fuel tank system that is designed to power the world’s
+largest mine haul truck"
 
 ---
 
-2018 trade balance with CH top trading [partners](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_China),
-Neg for deficit, pos for surplus; so simple sum shld give the net received,
-in billions,
+"In a nutshell, the natural geological process of scrubbing carbon
+dioxide from the air works like this: carbon dioxide dissolves into
+rainwater, which then falls on rocks. Over time, rocks absorb carbon
+dioxide, consuming the gas and creating a mineral-based bicarbonate
+akin to baking soda that gets washed into the ocean. As effective as
+it may be, it’s also a glacially slow process that can take hundreds
+of centuries, Kelland notes. 'We don’t have 100,000 years to fix this
+problem,' he says. 'How can we speed that process up? Effectively,
+that's what our process does.' Planetary Hydrogen’s patented system,
+dubbed SeaOH2, uses an electric current to split ocean water molecules
+into hydrogen and oxygen.
 
-```python
-defc = [419.6,275.8,177.1,-28.6,206.1,-74.8,-112,-53.6,21.3,-12.7,\
-       -29.9,52,1.5,-3.1,10.8,6.2,10.9,12.8,-13.4,16.4,-9.5]
-np.sum(defc)
-```
+Known as electrolysis, that process isn’t groundbreaking in
+itself. But by adding a mineral salt to the electrolysis cell, the
+company’s engineers have created an atmosphere-scrubbing compound
+called mineral hydroxide as a waste product. The hydroxide binds with
+carbon dioxide, effectively “capturing' the greenhouse gas while
+producing hydrogen as a potentially lucrative byproduct"
 
-```text
-Out[1]: 872.9
-```
-
-This USD u can spend, to buy the steel for those ghost cities.. But
-export-dependency is just another dependency, it can get cut
+[Link](https://obj.ca/article/techopia/ottawa-startup-sees-ocean-opportunities-new-carbon-capture-technology)
 
 ---
 
-"@gideonrachman
+The revolution will not be televised. It will not be live. 
 
-Soros-backed Central Europe University (CEU) is forced out of
-Budapest. In its place comes Fudan University from China
+"@Dr__Dix
 
-'@eublogo \#Hungary will make 1 of the largest investments in the
-higher education in decades financed by #China'"
+I just taught a class where only 5 students showed up, none of them had their cameras on, and only 1 student spoke when I asked questions. 
+
+Y'all I had videos, gifs, activities. I came with smiles and jokes. 
+
+It was the most dejected I have felt while teaching in the pandemic.
+
+@rockswhisperer
+
+I went with Asychronous recorded lectures. Watch when it is convenient
+for you. I use the lecture time for come in if and when you need
+help. Do you really need to be in class at 9 AM to hear me...or does
+watching a recording at 11 pm work for you and your career goals...
+
+@AnnieBode1
+
+this asynchronous stuff is working great for my son. He is a night owl
+
+@stefan_seuring
+
+I also use pre-recorded lectures and have good feedback from students"
+
+---
+
+"@Andrew__Roth
+
+Russia is moving a large force toward the Ukrainian border, Navalny is
+in jail for Yves Rocher, Jen Psaki is the press secretary, and I have
+been transported back in time to 2014"
 
 ---
 

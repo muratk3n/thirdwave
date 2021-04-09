@@ -1,5 +1,138 @@
 # Week 14
 
+"@josheidelson
+
+New: After years of mostly unsuccessful efforts, Uber, Lyft and peers
+are poised to secure deals with major unions, just in time to help
+defuse threats from the new Biden Administration"
+
+---
+
+"@hazergroupltd
+
+A new report has detailed exactly how Australia’s current gas
+regulations can be modernised to facilitate the future use of
+hydrogen, biomethane and other potential future fuels"
+
+[Link](http://ow.ly/uAHO50EhgEg)
+
+---
+
+Util code to report attacks on a specific country on a specific
+month. Israel attacks Syria regularly it seems, w some hard kills
+too.. Dam
+
+```python
+import pandas as pd
+
+def country_attacked(mon, country):
+   url = 'https://ucdp.uu.se/downloads/candidateged/GEDEvent_v21_0_%d.csv' % mon
+   df = pd.read_csv(url)
+   df1 = df[(df['side_b'] == 'Government of %s' % country)]
+   g = df1[['side_a','deaths_b','side_b']].\
+       groupby(['side_a','side_b']).\
+       agg({'side_b':'count', 'deaths_b': 'sum'})
+   g.columns = ['incidents','deaths']
+   return g
+
+print (country_attacked(1, 'Syria'))
+print (country_attacked(2, 'Syria'))
+```
+
+```text
+                                          incidents  deaths
+side_a               side_b                                
+Government of Israel Government of Syria          2      57
+                                          incidents  deaths
+side_a               side_b                                
+Government of Israel Government of Syria          2       9
+```
+---
+
+K.. as long as there is FCEV refueling next to these BEV chargers,
+it's fine. BEVtards will get crushed in due course.
+
+"US Senate Committee Introduces Clean Vehicle Charging
+Legislation.. Earlier this week, a group of cross-party US senators
+introduced the Securing America’s Clean Fuels Infrastructure Act (the
+Act) to promote investments in clean vehicle infrastructure. The types
+of infrastructure supported by the legislation include electric
+vehicle charging stations and hydrogen refueling stations for fuel
+cell vehicles"
+
+[Link](https://www.natlawreview.com/article/us-senate-committee-introduces-clean-vehicle-charging-legislation)
+
+---
+
+"@SecYellen
+
+By choosing to compete on taxes, we’ve neglected to compete on the
+skill of our workers and the strength of our infrastructure. It’s a
+self-defeating competition, and neither President Biden nor I are
+interested in participating in it anymore.
+
+We want to change the game"
+
+---
+
+Context? There was huge contraction due to pand so it shld not be
+surprising to expect growth, just going back to where econ was
+previously wld give major "growth".
+
+"Record growth is expected this year, all around the world, w rates
+not seen since 60s"
+
+---
+
+Good docu on Soviets, Russia
+
+[Moscow's empire - rise and fall (2/4)](https://youtu.be/fSqMpZ5qhz0)
+
+[Moscow's empire - rise and fall (3/4)](https://youtu.be/DCgDChqQZwk)
+
+[Moscow's empire - rise and fall (4/4)](https://youtu.be/DCgDChqQZwk)
+
+---
+
+\#2021PortugalEU
+
+"@H2Europe
+
+\#GreenHydrogen is in our view one of the most promising techs to
+eliminate hard to abate emissions from industrial & transport
+sectors. - R. Mourinho Felix, VP, [European Inv Bank]"
+
+---
+
+2018 trade balance with CH top trading [partners](https://en.wikipedia.org/wiki/List_of_the_largest_trading_partners_of_China),
+Neg for deficit, pos for surplus; so simple sum shld give the net received,
+in billions,
+
+```python
+defc = [419.6,275.8,177.1,-28.6,206.1,-74.8,-112,-53.6,21.3,-12.7,\
+       -29.9,52,1.5,-3.1,10.8,6.2,10.9,12.8,-13.4,16.4,-9.5]
+np.sum(defc)
+```
+
+```text
+Out[1]: 872.9
+```
+
+This USD u can spend, to buy the steel for those ghost cities.. But
+export-dependency is just another dependency, it can get cut
+
+---
+
+"@gideonrachman
+
+Soros-backed Central Europe University (CEU) is forced out of
+Budapest. In its place comes Fudan University from China
+
+'@eublogo \#Hungary will make 1 of the largest investments in the
+higher education in decades financed by #China'"
+
+---
+
 "@gabriel_zucman
 
 Global effective corporate income tax rate (all taxes included:
