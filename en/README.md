@@ -19,11 +19,8 @@ AstraZen deaths due to side effect seem minimal
 
 ---
 
-Playing games over ppls lives.. not a good way to improve your image
-chigga
-
 "Taiwan worked with other democracies to help its diplomatic ally
-Paraguay get  Covid-19 vaccines after China put pressure on the South
+Paraguay get Covid-19 vaccines after China put pressure on the South
 American country to ditch Taipei in exchange for shots, and India
 stepped in to help, Taiwan's foreign minister said"
 
