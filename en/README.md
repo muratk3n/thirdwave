@@ -1,6 +1,33 @@
 # Tweets
 
 
+"After the United Kingdom left the European Union at the start of this
+year, checks and tariffs were introduced on some goods moving from
+mainland Britain to Northern Ireland as the province now borders the
+bloc via EU member Ireland.
+
+British Prime Minister Boris Johnson had promised there would be no
+hard border between Ireland and Northern Ireland as result of Brexit,
+and unfettered trade between the province and the rest of the United
+Kingdom would continue.
+
+But critics of the departure deal's Northern Ireland Protocol say a
+border is now in effect in the Irish Sea, leaving unionists, who want
+to stay in the United Kingdom, feeling betrayed"
+
+[Link](https://www.france24.com/en/europe/20210410-n-ireland-loyalist-militants-urge-end-to-street-violence-demand-brexit-changes)
+
+---
+
+"China's factories automate as worker shortage looms"
+
+---
+
+"WHO says more than 87% of the world's Covid vaccine supply has gone to
+higher-income countries"
+
+---
+
 "@transport_urban
 
 German operator @ruhrbahn announces the intention to purchase 258
