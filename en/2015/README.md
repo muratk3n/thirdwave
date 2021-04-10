@@ -12,8 +12,6 @@
 
 [Flipping a Class](01/flipping-class.md)
 
-[#justkidding](01/justkidding.md)
-
 [Money and Honeys](01/money-and-honeys.md)
 
 [#nice](01/nice.md)
@@ -124,8 +122,6 @@
 
 [#mythbuster](05/mythbuster.md)
 
-[#powerwall](05/powerwall.md)
-
 [Radical Conservative](05/radical-conservative.md)
 
 [Robots Eating Jobs](05/robots-are-eating-jobs.md)
@@ -135,8 +131,6 @@
 [TR Elections 2015](05/tr-elections-.md)
 
 [Trolls](05/trolls.md)
-
-[Ad Astra](06/ad-astra.md)
 
 [#canada #us](06/canada-us.md)
 

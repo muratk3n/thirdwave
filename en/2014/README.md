@@ -124,8 +124,6 @@
 
 [China and CO2](06/china-and-co2.md)
 
-[Dragon V2](06/dragon-v2.md)
-
 [Entrepreneurship and Jobs (not Steve)](06/entrepreneurship-and-jobs-not-steve.md)
 
 [Extremistan](06/extremistan.md)
