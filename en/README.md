@@ -1,92 +1,92 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/everfuel?ref_src=twsrc%5Etfw">@everfuel</a> will plan, install and operate an optimised, scalable hydrogen fuelling solution for a brand-new zero emission ship which is expected to consume approximately 1,000kg of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> per day. <a href="https://twitter.com/hashtag/H2View?src=hash&amp;ref_src=twsrc%5Etfw">#H2View</a> <a href="https://twitter.com/hashtag/hydrogenmobility?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogenmobility</a><a href="https://t.co/cEXdC5OIiw">https://t.co/cEXdC5OIiw</a></p>&mdash; H2 View (@h2_view) <a href="https://twitter.com/h2_view/status/1380076956134354944?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+"@transport_urban
+
+German operator @ruhrbahn announces the intention to purchase 258
+\#hydrogen fuel cell buses for Essen and Mülheim. A first bus is
+undergoing tests"
 
 ---
 
-Cantoma - Overtime \#music
-
-[Link](https://youtu.be/4CVA7h2qM5c)
-
----
-
-"Bus hijacked by protesters and set alight on sixth night of unrest in
-Northern Ireland"
+When in Montpellier? Two years ago.. I saw f-ing smoke out there
+somewhere in the city, maybe protesters were burning some shit..?
 
 ---
 
-AstraZen deaths due to side effect seem minimal
+I traveled by train from Lyon to Montpellier once, was a comfortable, fast trip.
 
 ---
 
-"Taiwan worked with other democracies to help its diplomatic ally
-Paraguay get Covid-19 vaccines after China put pressure on the South
-American country to ditch Taipei in exchange for shots, and India
-stepped in to help, Taiwan's foreign minister said"
+SNCF = French Rail 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SNCF?src=hash&amp;ref_src=twsrc%5Etfw">#SNCF</a> announced yesterday that it had ordered 12 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/trains?src=hash&amp;ref_src=twsrc%5Etfw">#trains</a>. They work in dual mode (with electric traction under catenaries and in hydrogen mode on non-electrified lines). Range 600 km. The first tests end of 2023 and in service in 2025. SNCF uses almost 1,100 trains. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/qsYfZoxKgk">pic.twitter.com/qsYfZoxKgk</a></p>&mdash; Hydrogfan (@hydrogfan) <a href="https://twitter.com/hydrogfan/status/1380430595386445824?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@_NPROXX
+Sounds From The Ground - Clover \#music
 
-NPROXX is currently completing the manufacture of an innovative
-hydrogen fuel tank system that is designed to power the world’s
-largest mine haul truck"
+[Link](https://www.youtube.com/watch?v=6NdOgPyMJDM)
 
 ---
 
-"In a nutshell, the natural geological process of scrubbing carbon
-dioxide from the air works like this: carbon dioxide dissolves into
-rainwater, which then falls on rocks. Over time, rocks absorb carbon
-dioxide, consuming the gas and creating a mineral-based bicarbonate
-akin to baking soda that gets washed into the ocean. As effective as
-it may be, it’s also a glacially slow process that can take hundreds
-of centuries, Kelland notes. 'We don’t have 100,000 years to fix this
-problem,' he says. 'How can we speed that process up? Effectively,
-that's what our process does.' Planetary Hydrogen’s patented system,
-dubbed SeaOH2, uses an electric current to split ocean water molecules
-into hydrogen and oxygen.
+Gov provides the seed. Without the seed, the infra, noones got
+nothin, you is broke
 
-Known as electrolysis, that process isn’t groundbreaking in
-itself. But by adding a mineral salt to the electrolysis cell, the
-company’s engineers have created an atmosphere-scrubbing compound
-called mineral hydroxide as a waste product. The hydroxide binds with
-carbon dioxide, effectively “capturing' the greenhouse gas while
-producing hydrogen as a potentially lucrative byproduct"
-
-[Link](https://obj.ca/article/techopia/ottawa-startup-sees-ocean-opportunities-new-carbon-capture-technology)
+"[I]n 1965, NASA funded a project to develop a general-purpose finite
+element program by a group in California led by Dick MacNeal. This
+program, which came to be known as NASTRAN, included a large array of
+capabilities, such as two- and three-dimensional stress analyses, beam
+and shell elements, for analyzing complex structures, such as
+airframes, and analysis of vibrations and time-dependent response to
+dynamic loads. NASA funded this project with 3 [mil] (like 30 [mil]
+today). The initial program was put in the public domain, but it had
+many bugs. Shortly after the completion of the program, Dick MacNeal
+and Bruce McCormick started a software firm that fixed most of the
+bugs and marketed the program to industry. By 1990, the program was
+the workhorse of most large industrial firms and the company,
+MacNeal-Schwendler, was a D100 million company"
 
 ---
 
-"@Dr__Dix
-
-I just taught a class where only 5 students showed up, none of them had their cameras on, and only 1 student spoke when I asked questions. 
-
-Y'all I had videos, gifs, activities. I came with smiles and jokes. 
-
-It was the most dejected I have felt while teaching in the pandemic.
-
-@rockswhisperer
-
-I went with Asychronous recorded lectures. Watch when it is convenient
-for you. I use the lecture time for come in if and when you need
-help. Do you really need to be in class at 9 AM to hear me...or does
-watching a recording at 11 pm work for you and your career goals...
-
-@AnnieBode1
-
-this asynchronous stuff is working great for my son. He is a night owl
-
-@stefan_seuring
-
-I also use pre-recorded lectures and have good feedback from students"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">H₂ Fuel cells are becoming increasingly sought after by the Government departments in India due to their high reliability, low maintenance, and massive logistical advantages especially where conventional forms of energy cannot be relied upon. <a href="https://twitter.com/fc_tecnrgy?ref_src=twsrc%5Etfw">@fc_tecnrgy</a> <a href="https://t.co/Qe2vDQw9Qk">https://t.co/Qe2vDQw9Qk</a></p>&mdash; Fuel Cell India 🇮🇳 (@FCIndia_) <a href="https://twitter.com/FCIndia_/status/1380022758373871617?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@Andrew__Roth
+<iframe width="340"  src="https://www.youtube.com/embed/FGb_kPhQsxQ?start=76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Russia is moving a large force toward the Ukrainian border, Navalny is
-in jail for Yves Rocher, Jen Psaki is the press secretary, and I have
-been transported back in time to 2014"
+---
+
+"@divert_thruster..
+
+Taiwan took delivery of 23 TK-III missiles this year"
+
+---
+
+Reuters: "Taiwan says may shoot down Chinese drones in South China Sea"
+
+---
+
+"@CNBCnow
+
+State Department says U.S. considering a joint boycott with allies of
+the 2022 Winter Olympics in Beijing"
+
+---
+
+Simulation is becoming more prevalent. Even for airplane
+manufacturers.. they started to use wind tunnels [less and
+less](https://youtu.be/2M3iVfOQ_T8?t=354), and rely more and more on
+simulation. Sims can get incredibly realistic.
+
+---
+
+Good stuff.. 
+
+Wiki: "Schrödinger, Inc. is an American life sciences and materials
+science company founded in 1990 that develops software for
+computational chemistry and has a pipeline of collaborative and
+internal drug discovery programs"
 
 ---
 
