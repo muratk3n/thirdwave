@@ -9,11 +9,6 @@ undergoing tests"
 
 ---
 
-When in Montpellier? Two years ago.. I saw smoke out there somewhere
-in the city too, maybe protesters were burning some shit..?
-
----
-
 I traveled by train from Lyon to Montpellier once, was a comfortable, fast trip.
 
 ---
