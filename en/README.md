@@ -36,7 +36,7 @@ undergoing tests"
 
 ---
 
-I traveled by train from Lyon to Montpellier once, was a comfortable, fast trip.
+I traveled by train from Lyon to Montpellier once, comf. fast trip.
 
 ---
 
