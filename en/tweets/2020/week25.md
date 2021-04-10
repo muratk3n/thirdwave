@@ -66,16 +66,6 @@ effects of many genes)"
 
 ---
 
-And this is Gaetz as Robin in his early career with the nipple-suit Batman
-
-<img width="340" src="https://i0.wp.com/www.thestopbutton.com/wp-content/uploads/2016/03/Batman-Robin-1997-tt0118688.jpg?fit=672%2C228&ssl=1"/>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For all those wondering, this is my son Nestor. <a href="https://t.co/8R7Hv7fi14">pic.twitter.com/8R7Hv7fi14</a></p>&mdash; Spencer Ackerman (@attackerman) <a href="https://twitter.com/attackerman/status/1273697799956238336?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Hand-craft it mathematically; so much more fun (plus higher chance
 of success)
 

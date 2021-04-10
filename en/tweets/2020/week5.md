@@ -193,21 +193,6 @@ like it when he gets hammy" 😆
 
 ---
 
-Hey this Gaetz isnt too bad. I know L. Graham has green
-leanings. There r some Reps for pro climate agenda.
-
-"'Of course, we need to use less fossil fuels,' Gaetz said. 'For those
-who don't believe we should use less fossil fuels, what are we
-innovating toward?'"
-
-[Link](https://www.washingtonexaminer.com/policy/energy/how-house-republicans-won-over-conservatives-to-gain-consensus-on-a-climate-agenda)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/energytwitter?src=hash&amp;ref_src=twsrc%5Etfw">#energytwitter</a> (largely) clings to &#39;electrify everything&#39;... <br>Meanwhile (off of Twitter) case for molecules (hydrogen) grows among govt policy makers. <br>Below: Germany&#39;s Power-to-Gas Expansion <a href="https://t.co/3XWRDkaaNJ">https://t.co/3XWRDkaaNJ</a> We cannot/will not decarbonize without clean molecules. Period.</p>&mdash; Garry Golden (@garrygolden) <a href="https://twitter.com/garrygolden/status/1223251748174860290?ref_src=twsrc%5Etfw">January 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bernie: George Wallace reminds me of Hitler.<br><br>Media: Bernie praised George Wallace.</p>&mdash; Pat the Berner🌹 (@PatTheBerner) <a href="https://twitter.com/PatTheBerner/status/1223039309961297922?ref_src=twsrc%5Etfw">January 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
