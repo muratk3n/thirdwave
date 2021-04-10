@@ -9,8 +9,8 @@ undergoing tests"
 
 ---
 
-When in Montpellier? Two years ago.. I saw f-ing smoke out there
-somewhere in the city, maybe protesters were burning some shit..?
+When in Montpellier? Two years ago.. I saw smoke out there somewhere
+in the city too, maybe protesters were burning some shit..?
 
 ---
 
@@ -45,7 +45,7 @@ many bugs. Shortly after the completion of the program, Dick MacNeal
 and Bruce McCormick started a software firm that fixed most of the
 bugs and marketed the program to industry. By 1990, the program was
 the workhorse of most large industrial firms and the company,
-MacNeal-Schwendler, was a D100 million company"
+MacNeal-Schwendler, was a $100 million company"
 
 ---
 
