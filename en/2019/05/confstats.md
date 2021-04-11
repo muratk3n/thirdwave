@@ -14,7 +14,7 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(2))
+print (overall_deaths(mon=2))
 ```
 
 ```text
@@ -78,7 +78,7 @@ def country_attacked(mon, country):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (country_attacked(2, 'Syria'))
+print (country_attacked(mon=2, 'Syria'))
 ```
 
 ```text
