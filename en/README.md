@@ -1,114 +1,83 @@
 # Tweets
 
-
-"After the United Kingdom left the European Union at the start of this
-year, checks and tariffs were introduced on some goods moving from
-mainland Britain to Northern Ireland as the province now borders the
-bloc via EU member Ireland.
-
-British Prime Minister Boris Johnson had promised there would be no
-hard border between Ireland and Northern Ireland as result of Brexit,
-and unfettered trade between the province and the rest of the United
-Kingdom would continue.
-
-But critics of the departure deal's Northern Ireland Protocol say a
-border is now in effect in the Irish Sea, leaving unionists, who want
-to stay in the United Kingdom, feeling betrayed"
-
-[Link](https://www.france24.com/en/europe/20210410-n-ireland-loyalist-militants-urge-end-to-street-violence-demand-brexit-changes)
+It is like Reps are deciding on the next leader, starting now. Gaetz
+got hit pretty badly, nobody is coming to his defense. Clearing the
+path for Ted? Pompeo?
 
 ---
 
-"China's factories automate as worker shortage looms"
+Replacing lead pipes is a good thing sure.. Wasnt that the problem in
+Flint Michigan?
 
 ---
 
-"WHO says more than 87% of the world's Covid vaccine supply has gone to
-higher-income countries"
+"US senators on Thursday unveiled broad legislation on China that would
+step up pressure over Beijing's alleged theft of intellectual property
+and solidify US ties with Taiwan.
+
+In a rare bipartisan initiative in the polarized Congress, the top
+Democrat and Republican on the Senate Foreign Relations Committee
+together presented the Strategic Competition Act which aims to govern
+the fraught US relationship with Beijing.
+
+'The United States government must be clear-eyed and sober about
+Beijing's intentions and actions, and calibrate our policy and
+strategy accordingly,' said Senator Bob Menendez, the Democrat who
+leads the committee"
+
+[Link](https://www.barrons.com/news/us-bill-to-pressure-china-on-trade-and-rights-back-taiwan-01617915009?tesla=y)
 
 ---
 
-"@transport_urban
-
-German operator @ruhrbahn announces the intention to purchase 258
-\#hydrogen fuel cell buses for Essen and Mülheim. A first bus is
-undergoing tests"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A record-breaking commercial-scale <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> plane has taken off in the UK, with more set to join it soon. <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/Aviation?src=hash&amp;ref_src=twsrc%5Etfw">#Aviation</a> <a href="https://twitter.com/BBC_Future?ref_src=twsrc%5Etfw">@BBC_Future</a> <a href="https://t.co/idfW3qWXod">https://t.co/idfW3qWXod</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1380784367354658816?ref_src=twsrc%5Etfw">April 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I traveled by train from Lyon to Montpellier once, comf. fast trip.
+"Greece, Israel Seal $1.6 Billion Defense Deal"
+
+[Link](https://www.voanews.com/europe/greece-israel-seal-16-billion-defense-deal)
 
 ---
 
-SNCF = French Rail 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SNCF?src=hash&amp;ref_src=twsrc%5Etfw">#SNCF</a> announced yesterday that it had ordered 12 <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/trains?src=hash&amp;ref_src=twsrc%5Etfw">#trains</a>. They work in dual mode (with electric traction under catenaries and in hydrogen mode on non-electrified lines). Range 600 km. The first tests end of 2023 and in service in 2025. SNCF uses almost 1,100 trains. <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> <a href="https://t.co/qsYfZoxKgk">pic.twitter.com/qsYfZoxKgk</a></p>&mdash; Hydrogfan (@hydrogfan) <a href="https://twitter.com/hydrogfan/status/1380430595386445824?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Sounds From The Ground - Clover \#music
-
-[Link](https://www.youtube.com/watch?v=6NdOgPyMJDM)
+Gobble gobble, though not a great power, displays some of the same
+behavs lately. Kabuki theather power, throwing its little kabuki
+tantrum on the way down.
 
 ---
 
-Gov provides the seed. Without the seed, the infra, noones got
-nothin, you is broke
-
-"[I]n 1965, NASA funded a project to develop a general-purpose finite
-element program by a group in California led by Dick MacNeal. This
-program, which came to be known as NASTRAN, included a large array of
-capabilities, such as two- and three-dimensional stress analyses, beam
-and shell elements, for analyzing complex structures, such as
-airframes, and analysis of vibrations and time-dependent response to
-dynamic loads. NASA funded this project with 3 [mil] (like 30 [mil]
-today). The initial program was put in the public domain, but it had
-many bugs. Shortly after the completion of the program, Dick MacNeal
-and Bruce McCormick started a software firm that fixed most of the
-bugs and marketed the program to industry. By 1990, the program was
-the workhorse of most large industrial firms and the company,
-MacNeal-Schwendler, was a $100 million company"
+Beckley: "Historically, when fast-growing great powers slow down, they
+do not mellow out. Instead, they become more repressive at home and
+aggressive abroad. They crack down on domestic dissent and expand
+overseas to find new sources of wealth, rally citizens around the
+ruling regime, and deter foreign rivals from exploiting their economic
+problems. China is already on this path—as its growth slows, it is
+repressing freedom in the mainland and in Hong Kong, ramping up
+pressure on Taiwan, colonizing the South China Sea, building the
+largest navy in the world, and buying assets and building ports all
+over the world"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">H₂ Fuel cells are becoming increasingly sought after by the Government departments in India due to their high reliability, low maintenance, and massive logistical advantages especially where conventional forms of energy cannot be relied upon. <a href="https://twitter.com/fc_tecnrgy?ref_src=twsrc%5Etfw">@fc_tecnrgy</a> <a href="https://t.co/Qe2vDQw9Qk">https://t.co/Qe2vDQw9Qk</a></p>&mdash; Fuel Cell India 🇮🇳 (@FCIndia_) <a href="https://twitter.com/FCIndia_/status/1380022758373871617?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ABC Oz Planet America is pretty good. They catch some interesting angles.
 
 ---
 
-<iframe width="340"  src="https://www.youtube.com/embed/FGb_kPhQsxQ?start=76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The Spirit of '75 (feat. Mustafa Akbar) \#music
+
+[Link](https://youtu.be/doFad9LdZ_k)
 
 ---
 
-"@divert_thruster..
+sounds like discrimination, likely an oversight, but not cool
 
-Taiwan took delivery of 23 TK-III missiles this year"
-
----
-
-Reuters: "Taiwan says may shoot down Chinese drones in South China Sea"
-
----
-
-"@CNBCnow
-
-State Department says U.S. considering a joint boycott with allies of
-the 2022 Winter Olympics in Beijing"
+DW: "Study unveils Facebook gender bias in job ads A new study examined
+Facebook's ad-delivery algorithms and found that some ads were
+directed to a particular gender "beyond what can be legally justified"
+by differences in job qualifications"
 
 ---
 
-Simulation is becoming more prevalent. Even for airplane
-manufacturers.. they started to use wind tunnels [less and
-less](https://youtu.be/2M3iVfOQ_T8?t=354), and rely more and more on
-simulation. Sims can get incredibly realistic.
-
----
-
-Good stuff.. 
-
-Wiki: "Schrödinger, Inc. is an American life sciences and materials
-science company founded in 1990 that develops software for
-computational chemistry and has a pipeline of collaborative and
-internal drug discovery programs"
+Nincompoop? 😶
 
 ---
 
