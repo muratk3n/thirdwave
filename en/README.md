@@ -72,6 +72,11 @@ The Spirit of '75 (feat. Mustafa Akbar) \#music
 
 ---
 
+C its possible to advocate for opportunities for everyone wout
+resorting to cuck
+
+---
+
 sounds like discrimination, likely an oversight, but not cool
 
 DW: "Study unveils Facebook gender bias in job ads A new study examined
