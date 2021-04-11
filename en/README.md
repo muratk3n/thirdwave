@@ -1,11 +1,5 @@
 # Tweets
 
-It is like Reps are deciding on the next leader, starting now. Gaetz
-got hit pretty badly, nobody is coming to his defense. Clearing the
-path for Ted? Pompeo?
-
----
-
 Replacing lead pipes is a good thing sure.. Wasnt that the problem in
 Flint Michigan?
 
@@ -62,6 +56,16 @@ ABC Oz Planet America is pretty good. They catch some interesting angles.
 
 ---
 
+Reps started culling out some unwanted leaders for 2024 already? Gaetz
+is hit pretty bad, nobody is coming to his defense. Clearing the path
+for Ted? Pompeo?
+
+---
+
+Nincompoop? 😶
+
+---
+
 The Spirit of '75 (feat. Mustafa Akbar) \#music
 
 [Link](https://youtu.be/doFad9LdZ_k)
@@ -74,10 +78,6 @@ DW: "Study unveils Facebook gender bias in job ads A new study examined
 Facebook's ad-delivery algorithms and found that some ads were
 directed to a particular gender "beyond what can be legally justified"
 by differences in job qualifications"
-
----
-
-Nincompoop? 😶
 
 ---
 
