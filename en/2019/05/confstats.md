@@ -1,5 +1,9 @@
 # Conflict Stats
 
+Based on UCDP/PRIO Armed Conflict Dataset
+
+[Data](https://ucdp.uu.se/downloads/)
+
 ## Overall Deaths Globally, Specific Month
 
 ```python
