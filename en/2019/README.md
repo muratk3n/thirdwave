@@ -24,6 +24,8 @@
 
 [Infrastructure for Space, Bezos](05/bezos-space-infrastructure.md)
 
+[Conflict Stats](05/confstats.md)
+
 [Get On With It](05/geton.md)
 
 [Slippage, H2, the Transition](05/slippage.md)
