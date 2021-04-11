@@ -34,7 +34,7 @@ leads the committee"
 ---
 
 Gobble gobble, though not a great power, displays some of the same
-behavs lately. Kabuki theather power, throwing its little kabuki
+behaviours lately.. Kabuki theather power, throwing its little kabuki
 tantrum on the way down.
 
 ---
