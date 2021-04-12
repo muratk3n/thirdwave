@@ -50,8 +50,8 @@ Kochan, a professor of management at MIT, told Insider"
 ---
 
 Too bad the Amazon unionization effort failed.. But 'ppl have spoken'
-answer is the wrong conclusion to draw here.. The system was favoring
-the employer. Change of labor laws needed? AMZN clearly was the better
+is the wrong conclusion to draw here.. The system was favoring the
+employer. Change of labor laws needed? AMZN clearly was the better
 closer.
 
 ---
