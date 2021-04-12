@@ -105,11 +105,11 @@ for dt in dates:
 
 ---
 
-I looked at GDELT [event files](http://data.gdeltproject.org/events/index.html),
-going back go 18 March; did not find any initial Ukraine movement. The first time
-any build-up is reported in the region, in the 18/3-1/4 timeframe, was April 1,
-by RUS. One of the news links parsed by GDELT is
-[here](https://www.euractiv.com/section/global-europe/news/top-us-general-calls-russia-ukraine-amid-reported-moscow-troop-buildup/).
+I looked at GDELT [event files](http://data.gdeltproject.org/events/),
+going back go March 1st; did not find any initial Ukraine
+movement. The first time any build-up is reported in the region, in
+the 1/3-1/4 timeframe, was April 1, by RUS. One of the news links
+parsed by GDELT is [here](https://www.euractiv.com/section/global-europe/news/top-us-general-calls-russia-ukraine-amid-reported-moscow-troop-buildup/).
 
 "In terms of the latest escalation, who is responsible? Who deployed
 its military first?  Russia or Ukraine?"
