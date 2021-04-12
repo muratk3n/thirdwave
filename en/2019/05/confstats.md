@@ -1,10 +1,10 @@
-# Conflict Stats
+# Conflict Statistics
 
 Based on UCDP/PRIO Armed Conflict Dataset
 
 [Data](https://ucdp.uu.se/downloads/)
 
-## Overall Deaths Globally, Specific Month
+### Overall Deaths Globally, Specific Month
 
 ```python
 import pandas as pd
@@ -69,7 +69,7 @@ Honduras                          1       0
 Brazil                           14       0
 ```
 
-## Details for Specific Country
+### Details for Specific Country
 
 ```python
 def country_attacked(mon, country):
