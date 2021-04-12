@@ -4,7 +4,7 @@ Based on UCDP/PRIO Armed Conflict Dataset
 
 [Data](https://ucdp.uu.se/downloads/)
 
-### Overall Deaths Globally, Specific Month
+### Deaths, Incidences, Globally
 
 ```python
 import pandas as pd
