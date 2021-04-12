@@ -114,7 +114,8 @@ its military first?  Russia or Ukraine?"
 
 Maybe the mechanical vs wild animal theme in scifi movies is a
 throwback to that feeling, way of coping with insane recent
-advances. It was mysterious to be scared of the beast. 
+advances. It was mysterious to be scared of the beast? Now smaller
+ones are causing more damage.
 
 
 ---
