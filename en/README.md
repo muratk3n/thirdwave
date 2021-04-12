@@ -22,7 +22,7 @@ Korean banks as its prime minister heads for talks"
 
 ---
 
-Guy had a stroke in 2016, so it cld just be health related
+Guy had a stroke in 2016, so it could just be health related
 
 "Deputy Prime Minister Heng Swee Keat shocked the nation on Thursday,
 announcing he will step aside as the designated successor to Prime
@@ -37,7 +37,7 @@ Added new page for conflict stats
 ---
 
 WTF happened to dry parsley flakes? The prod disappeared all markets
-all of a sudden
+all of a sudden. God dam..
 
 ---
 
@@ -107,7 +107,7 @@ for d in dates:
 
 ---
 
-I looked at GDELT event files [here](http://data.gdeltproject.org/events/index.html),
+I looked at GDELT [event files](http://data.gdeltproject.org/events/index.html),
 going back go 18 March; did not find any initial Ukraine movement. The first time
 any build-up is reported in the region, in the 18/3-1/4 timeframe, was April 1,
 by RUS. One of the news links parsed by GDELT is
