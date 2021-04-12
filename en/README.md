@@ -73,10 +73,9 @@ pd.set_option('display.max_colwidth',-1)
 
 dates = ['0331','0401'] # add more dates here w files
 
-for d in dates:
-
-    with zipfile.ZipFile('gdelt/2021%s.export.CSV.zip' % d, 'r') as z:
-         df = pd.read_csv(z.open('2021%s.export.CSV' % d),sep='\t',header=None)
+for dt in dates:
+    with zipfile.ZipFile('gdelt/2021%s.export.CSV.zip' % dt, 'r') as z:
+         df = pd.read_csv(z.open('2021%s.export.CSV' % dt),sep='\t',header=None)
     print (len(df.columns))
     urls = df[57]
     cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
@@ -90,12 +89,12 @@ for d in dates:
     df2 = df[range(len(cols))]
     df2.columns = cols
 
-    m = (df2.EventCode==154) & (df2.Actor1Code=='RUS') & (df2.Actor2Code=='UKR')
-    print (d)
-    df3 = df2[m]
+    flt = (df2.EventCode==154) & (df2.Actor1Code=='RUS') & (df2.Actor2Code=='UKR')
+    print (dt)
+    df3 = df2[flt]
     if not df3.empty:
         print (df3[['Actor1Code','Actor2Code','EventCode','EventBaseCode']])
-        url3 = urls[m]
+        url3 = urls[flt]
         print (url3)
 ```
 
