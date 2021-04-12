@@ -4,12 +4,6 @@
 
 ---
 
-*The Expanse* fifth season shows the way for future scifi; except a
-few weirdo phantastisms the show is grounded, has serious
-anthropology, grand politics overtones in it.. Techo gismos are awesome.
-
----
-
 "@fuelcellsworks
 
 Solar-to-#Hydrogen Tech Increase Shows 100-fold Improvement in #Solar
