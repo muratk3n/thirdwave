@@ -24,7 +24,7 @@
 
 [Infrastructure for Space, Bezos](05/bezos-space-infrastructure.md)
 
-[Conflict Stats](05/confstats.md)
+[Conflict Statistics](05/confstats.md)
 
 [Get On With It](05/geton.md)
 

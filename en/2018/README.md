@@ -86,9 +86,9 @@
 
 [Governments, Money, Economy](06/governments-money-economy.md)
 
-[#piece](06/piece_15.md)
+[Guiding Regulation, South Korea](06/guiding-regulation-south-korea.md)
 
-[Regulation is a Good Thing](06/regulation-is-good-thing.md)
+[#piece](06/piece_15.md)
 
 [#russia #russia #russia](06/russia-russia-russia.md)
 
