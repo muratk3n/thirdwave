@@ -31,7 +31,7 @@ I am not saying make war, but if there was war, it wld not be good for Iran.
 ---
 
 US power is hundreds of times more than Iran's. Israel is way ahead of
-them too (see [method](en/2021/03/power-of-nations-beckley-code.md) )
+them too (see [method](2021/03/power-of-nations-beckley-code.md))
 
 ```python
 import pandas as pd
