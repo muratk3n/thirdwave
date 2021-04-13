@@ -582,7 +582,8 @@ Oh man.. this is just so horrible.
 
 https://www.wired.com/story/electric-buses-havent-taken-over-world/
 
-There is exactly zero reasons to go on the BEV route; if you haven't completely lost your mind. 
+There is exactly zero reasons to go on the BEV route; if you haven't
+completely lost your mind.
     
 ---
 
