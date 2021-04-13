@@ -76,7 +76,7 @@ in support of a unitary Ukraine"
 
 ---
 
-[Link](https://i.gifer.com/8nMV.gif)
+[Link](https://media1.tenor.com/images/3f5eee5a7f3789608d9b8ba204afdeee/tenor.gif)
 
 ---
 
