@@ -4,7 +4,7 @@ Bloomberg: "Michelin Reinforces Bet on Hydrogen to Move Beyond Tires"
 
 ---
 
-Hybrid btw fuel-cell and turbine? Wow.
+Hybrid btw fuel-cell and turbine? Cool.
 
 This is what H2 brings to the table; flexibility, options.
 
@@ -85,18 +85,18 @@ interesting info than a random tuber throwing a fit or even some MSM.
 
 ---
 
-This is interesting, for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
-and wrongly classified it as military escalation.. It is more like "cage rattling",
-not actual mobilization. 
+Interesting.. for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
+and wrongly classified it as military escalation.. It is more like "cage rattling" though.
 
 ---
 
 GDELT uses news web pages as raw source, applies natural lang
 processing algos on them to extract Actor1-Action-Actor2 type "events"
 for ex "Thailand warned South Africa", where diplomatic "warn" is the
-action.. There are mistakes sometimes, when there are they are on the
-false positive side -- event is reported but it didnt really happen. I
-had to go through every result one by one to filter out junk.
+action.. There are mistakes sometimes, when they occur, seem to be on
+the false positive side -- event is extracted, but didnt really
+happen. I had to go through every result one by one to filter out
+such false positives.3
 
 ---
 
