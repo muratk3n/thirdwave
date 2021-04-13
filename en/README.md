@@ -78,6 +78,11 @@ in support of a unitary Ukraine"
 
 ---
 
+Just bcz GDELT is "AI" u cant dive blindfolded.. The algos are nowhere
+near to being AI.
+
+---
+
 [Link](https://media1.tenor.com/images/3f5eee5a7f3789608d9b8ba204afdeee/tenor.gif)
 
 ---

@@ -26,7 +26,7 @@ Minister Lee Hsien Loong"
 
 Added new page for conflict stats
 
-[Link](2019/05/confstats.md)
+[Link](../../2019/05/confstats.md)
 
 ---
 
