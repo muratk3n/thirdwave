@@ -79,7 +79,7 @@ in support of a unitary Ukraine"
 ---
 
 Just bcz GDELT is "AI" u cant dive blindfolded.. The algos are nowhere
-near to being AI.
+near close to being AI.
 
 ---
 
@@ -101,10 +101,8 @@ It is more like "cage rattling" I'd say.
 GDELT uses news web pages as raw source, applies natural lang
 processing algos on them to extract Actor1-Action-Actor2 type "events"
 for ex "Thailand warned South Africa", where diplomatic "warn" is the
-action.. There are mistakes sometimes, when they occur, seem to be on
-the false positive side -- event is extracted, but didnt really
-happen. I had to go through every result one by one to filter out
-such false positives.
+action.. There are mistakes sometimes. I had to go through every
+result one by one to filter out such false positives.
 
 ---
 
