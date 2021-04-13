@@ -29,7 +29,7 @@ I am not saying make war, but if there was war, it wld not be good for Iran.
 
 ---
 
-US power is over 100 times more than Iran's. Israel is way ahead of them too
+US power is hundreds of times more than Iran's. Israel is way ahead of them too
 
 ```python
 import pandas as pd
