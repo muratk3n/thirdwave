@@ -19,7 +19,8 @@ within two and a half hours instead"
 ---
 
 Talked abt that before; see the [South Korean](2018/06/guiding-regulation-south-korea.md)
-example. It's the invisible hand approach, with a caveat, it is government's hand. 😶
+example. It's the invisible hand approach, with a caveat, the invisible hand is
+government's 😶
 
 "How can government push for faster Internet speeds?"
 
