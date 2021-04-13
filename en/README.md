@@ -88,7 +88,8 @@ interesting info than a random tuber throwing a fit or even some MSM.
 ---
 
 Interesting.. for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
-and wrongly classified it as military escalation.. It is more like "cage rattling" though.
+and wrongly classified it as military escalation..
+It is more like "cage rattling" I'd say.
 
 ---
 
@@ -98,7 +99,7 @@ for ex "Thailand warned South Africa", where diplomatic "warn" is the
 action.. There are mistakes sometimes, when they occur, seem to be on
 the false positive side -- event is extracted, but didnt really
 happen. I had to go through every result one by one to filter out
-such false positives.3
+such false positives.
 
 ---
 
