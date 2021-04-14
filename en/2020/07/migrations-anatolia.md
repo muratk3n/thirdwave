@@ -27,12 +27,7 @@ partially by the academic knowledge of what we know about this history
 construction of a national narrative is one that reflects more the
 politics of the present than our knowledge of the past: ‘To write the
 story of the nation demands that we articulate that archaic
-ambivalence that informs modernity’ (Bhabha, 1990, p. 294). There are
-many different ways in which national narratives are expressed (such
-as films, literature, folk tales, myths and personal stories), but
-here, following Laurie Brand, I am mostly concerned by the official
-national narrative, that is ‘state-sanctioned and propagated’ (Brand,
-2010, p. 84).
+ambivalence that informs modernity’ (Bhabha, 1990, p. 294)... 
 
 Turkish historiography offers a particularly interesting example of
 such a construction of a ‘Turkish’ identity through inclusion and
