@@ -1,6 +1,6 @@
 # Milli Söylem, Göçmenler, Anadolu, Tolay
 
-[Orijinali](../../../en/2020/07/migrations-anatolia.md)
+[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md) 
 
 Ulusların kurgusal / hayali taraflarını anlamak için önemli bir öğe
 tarihi ulusal söylemdir, ve kurucuların tarihi hafızasını kontrol
@@ -37,7 +37,7 @@ bazılarını dahil eden 'Türk' kimliği yaratmanın ilginç bazı
 kendini Türk ulus-devleti diye gören bir şey yoktu. Geniş ölçekte
 bilinçli / kasti ya da dolaylı şekilde Türk kimliği yaratma süreci
 Osmanlı imparatorluğu sonlarında, imparatorluk içinde kendini
-milliyetçi, reformcu gören kişilerle beraber basladi (mesela 19'uncu
+milliyetçi, reformcu gören kişilerle beraber basladı (mesela 19'uncu
 yüzyıl sonunda Genç Osmanlılar, ve erken 20'inci yüzyılda Genç Türkler
 hareketleri). Bu hareketler 1923'te doğan Türk Cumhuriyeti'na varlık
 sebebi sağlamalarıyla zirveye vardılar; Mustafa Kemal Atatürk'un "Türk
@@ -61,33 +61,31 @@ Tezi' denen bir kurguydu. Bu teze göre
 
 Cumhuriyet'in bu belirleyici, gelişimsel dönemi Osmanlı öncesine
 gitmeye mecbur olan ve Orta Asya'ya dayanan bir Türkiye tarih
-vizyonunu oluşturmakta başarılı oldu [herhalde öyle, etraf dangalak
-dolu -Osmanlı da matah değildi tabii Romalı köpek sürüsü-]. Bu sebeple
-bugün Türkiye'de 'bizim tarihimiz'den bahsetmek Orta Asya'dan
-Anadolu'ya göçen Türklerin tarihinden' bahsetmek anlamına geliyor. Bu
-bahis Türkiye'nin coğrafyasının tarihinden farklı bir şey, çünkü
-coğrafyanın tarihine bakılsaydı 1000'lı yıllardaki ilk Türki kabileler
-gelmeden önceki tarihi işlemek gerekirdi, o Türki kabilelerin
-karıştığı toplumların geniş tarihini ele almak gerekirdi (mesela
-Yunanlar, Ermeniler, Süryaniler, Araplar, Kürtler, vs).  Ayrıca bu
-vizyon bazı göçlere vurgu yapıyor, diğerlerini önemsiz sayıyordu.
+vizyonunu oluşturmakta başarılı oldu. Bu sebeple bugün Türkiye'de
+'bizim tarihimiz'den bahsetmek Orta Asya'dan Anadolu'ya göçen
+Türklerin tarihinden' bahsetmek anlamına geliyor. Bu bahis Türkiye'nin
+coğrafyasının tarihinden farklı bir şey, çünkü coğrafyanın tarihine
+bakılsaydı 1000'lı yıllardaki ilk Türki kabileler gelmeden önceki
+tarihi işlemek gerekirdi, o Türki kabilelerin karıştığı toplumların
+geniş tarihini ele almak gerekirdi (mesela Yunanlar, Ermeniler,
+Süryaniler, Araplar, Kürtler, vs). Bu vizyon diğer yandan bazı
+spesifik göçlere vurgu yapıyor, diğerlerini önemsiz sayıyordu.
 
 Ben 2008 ve 2013 arasında halk arasında Türkiye'ye olan bu göçler
 hakkına bilgiyi ölçmek için Türkiye'de yarı yapılı, resmi mülakatlar
-yaptım. Mülakatlar sırasında berrak bir şekilde belli oldu ki soru
-sorulanlar Türkiye tarihindeki birkaç göçten haberdarlar ama diğerleri
-hakkında hiçbir şey bilmiyorlardı, en azından diğer göçlerin
-'tanımlayıcı bir göç hikayesi' olduğunu düşünmüyorlardı. Bu
-düşüncelerin ilköğretim müfradatıyla bağlantıları olduğunu
-gözlemledik.
-
-Mülakatlar sırasında cevap verenler göçlerin Türk tarihinde çok önemli
-rol oynadığını söylediler. Spesifik olarak 3 türlü göç tecrübesi
-sürekli gündeme getirildi 1) Türk insanları zaten hep hareket halinde
-olmuştur, çünkü onların ilk baştaki yaşayış tarzı göçebeliktir (burada
-kabaca Türklerin Orta Asya geçmişine vurgu yapılıyor) 2) TÜrk insanları
-göçlere kucak açmıştır ve gelenlerin çeşitliliğini kabul etmiştir (kabaca
-Osmanlı kastediliyor burada) 3) Türk insanının kendisi [sonradan da] tekrar
+gerçekleştirdiğimde durumu yakından gördüm. Mülakatlar sırasında açık
+bir şekilde belli oldu ki soru sorulanlar Türkiye tarihindeki birkaç
+göçten haberdarlar ama diğerleri hakkında hiçbir şey bilmiyorlar, en
+azından diğer göçlerin 'tanımlayıcı bir göç hikayesi' olduğunu
+düşünmüyorlardı. Bu düşüncelerin ilköğretim müfradatıyla bağlantıları
+olduğunu gözlemledik. Mülakatlar sırasında cevap verenler göçlerin
+Türk tarihinde çok önemli rol oynadığına vurgu yaptılar. Spesifik
+olarak 3 türlü göç tecrübesi sürekli gündeme getirildi 1) Türk
+insanları zaten hep hareket halinde olmuştur, çünkü onların ilk
+baştaki yaşayış tarzı göçebeliktir (burada kabaca Türklerin Orta Asya
+geçmişine vurgu yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve
+gelenlerin çeşitliliğini kabul etmiştir (kabaca Osmanlı zamanı
+kastediliyor burada) 3) Türk insanının kendisi sonradan da tekrar
 göçmeye başlamıştır (kabaca 20'inci yüzyıla referans yapılıyor)
 
 
