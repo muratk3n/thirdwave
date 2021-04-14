@@ -92,7 +92,7 @@ interesting info than a random tuber throwing a fit or even some MSM.
 
 ---
 
-Interesting.. for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
+Interesting.. for March 3rd, GDELT found [this](https://web.archive.org/web/20210307004657/http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
 and wrongly classified it as military escalation..
 It is more like "cage rattling" I'd say.
 
