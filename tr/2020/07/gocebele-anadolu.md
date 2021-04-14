@@ -1,6 +1,6 @@
 # Tolay, Milli Söylem, Göçmenler, Anadolu
 
-[Orijinali](../../../tr/2020/07/migrations-anatolia.md)
+[Orijinali](../../../en/2020/07/migrations-anatolia.md)
 
 Ulusların kurgusal / hayali taraflarını anlamak için önemli bir öğe
 tarihi ulusal söylemdir, ve kurucuların tarihi hafızasını kontrol
