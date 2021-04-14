@@ -36,6 +36,16 @@ bazılarını dahil ederek 'Türk' kimliği yaratmanın ilginç bazı
 örneklerini sunuyor bize (Çagaptay, 2006). Ondokuzuncu yüzyıldan
 önce kendini Türk ulus-devleti diye gören bir şey yoktu. 
 
+Geniş ölçekte bilinçli, kastı ya da dolaylı şekilde Türk kimliği
+yaratma süreci Osmanlı imparatorluğu sonlarında, imparatorluk içinde
+kendini milliyetçi, reformcu gören kişilerle beraber oluşmaya başladı
+(mesela 19'uncu yüzyıl sonunda Genç Osmanlılar, ve erken 20'inci
+yüzyılda Genç Türkler hareketleri). Bu hareketler 1923'te doğan Türk
+Cumhuriyeti'na varlık sebebi sağlamalarıyla zirve noktalarına
+vardılar; Mustafa Kemal Atatürk 'Türk ulus-devleti'ne ev sahipliği
+yapan 'Türk devleti' kurgusuyla Cumhuriyet doğuşu onların
+düşüncelerini radikal, somut, ve kapsayıcı seviyeye taşıdı (Karpat,
+2001).
 
 
 
@@ -50,4 +60,7 @@ Berger, S., Donovan, M., & Passmore, K. (2002). Writing national histories Weste
 Bhabha, H. K. (1990). DissemiNation: Time, narrative, and the margins of the modern nation. In H. K. Bhabha (Ed.), Nation and narration. London: Routledge.
 
 Çağaptay, S. (2006). Islam, secularism, and nationalism in modern Turkey who is a Turk? London: Routledge.
+
+Karpat, K. H. (2001). The politicization of Islam: Reconstructing identity, state, faith, and community in the late
+Ottoman state. Oxford: Oxford University Press.
 
