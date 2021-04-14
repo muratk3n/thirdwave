@@ -1,4 +1,4 @@
-# Tolay, Milli Söylem, Göçmenler, Anadolu
+# Milli Söylem, Göçmenler, Anadolu, Tolay
 
 [Orijinali](../../../en/2020/07/migrations-anatolia.md)
 
@@ -62,14 +62,35 @@ Tezi' denen bir kurguydu. Bu teze göre
 Cumhuriyet'in bu belirleyici, gelişimsel dönemi Osmanlı öncesine
 gitmeye mecbur olan ve Orta Asya'ya dayanan bir Türkiye tarih
 vizyonunu oluşturmakta başarılı oldu [herhalde öyle, etraf dangalak
-dolu, Osmanlı da matah değildi tabii Romalı köpek sürüsü]. Bu sebeple
+dolu -Osmanlı da matah değildi tabii Romalı köpek sürüsü-]. Bu sebeple
 bugün Türkiye'de 'bizim tarihimiz'den bahsetmek Orta Asya'dan
 Anadolu'ya göçen Türklerin tarihinden' bahsetmek anlamına geliyor. Bu
 bahis Türkiye'nin coğrafyasının tarihinden farklı bir şey, çünkü
-coğrafyanin tarihine bakılsaydı 1000'lı yıllardaki ilk Türki kabileler
-gelmeden önceki tarihi işlemek gerekirdi, o TÜrki kabilelerin
-karıştığı toplumların geniş tarihini ele almak gerekiri (mesela
-Yunanlar, Ermeniler, Süryaniler, Araplar, Kürtler, vs).
+coğrafyanın tarihine bakılsaydı 1000'lı yıllardaki ilk Türki kabileler
+gelmeden önceki tarihi işlemek gerekirdi, o Türki kabilelerin
+karıştığı toplumların geniş tarihini ele almak gerekirdi (mesela
+Yunanlar, Ermeniler, Süryaniler, Araplar, Kürtler, vs).  Ayrıca bu
+vizyon bazı göçlere vurgu yapıyor, diğerlerini önemsiz sayıyordu.
+
+Ben 2008 ve 2013 arasında halk arasında Türkiye'ye olan bu göçler
+hakkına bilgiyi ölçmek için Türkiye'de yarı yapılı, resmi mülakatlar
+yaptım. Mülakatlar sırasında berrak bir şekilde belli oldu ki soru
+sorulanlar Türkiye tarihindeki birkaç göçten haberdarlar ama diğerleri
+hakkında hiçbir şey bilmiyorlardı, en azından diğer göçlerin
+'tanımlayıcı bir göç hikayesi' olduğunu düşünmüyorlardı. Bu
+düşüncelerin ilköğretim müfradatıyla bağlantıları olduğunu
+gözlemledik.
+
+Mülakatlar sırasında cevap verenler göçlerin Türk tarihinde çok önemli
+rol oynadığını söylediler. Spesifik olarak 3 türlü göç tecrübesi
+sürekli gündeme getirildi 1) Türk insanları zaten hep hareket halinde
+olmuştur, çünkü onların ilk baştaki yaşayış tarzı göçebeliktir (burada
+kabaca Türklerin Orta Asya geçmişine vurgu yapılıyor) 2) TÜrk insanları
+göçlere kucak açmıştır ve gelenlerin çeşitliliğini kabul etmiştir (kabaca
+Osmanlı kastediliyor burada) 3) Türk insanının kendisi [sonradan da] tekrar
+göçmeye başlamıştır (kabaca 20'inci yüzyıla referans yapılıyor)
+
+
 
 
 

@@ -76,9 +76,8 @@ into Turkey. During the interviews, it became clear that respondents
 were aware of a number of migratory experiences in Turkish history,
 but were not about others, or rather that others were not conceived as
 a migratory experience. When appropriate, this information is
-triangulated with secondary sources, the scholarly literature on this
-topic, as well as a quick analytical overview of the official Turkish
-history curriculum in primary and secondary education.
+triangulated with .. a quick analytical overview of the official
+Turkish history curriculum in primary and secondary education.
 
 During the interviews, respondents generally affirmed that migration
 has always played an important role in Turkish history. More

@@ -14,3 +14,5 @@
 
 [Ermeniler, Kurtler](../../2009/09/ermeniler-kurtler.md)
 
+[Milli Söylem, Göçmenler, Anadolu, Tolay](../../2020/07/gocebele-anadolu.md)
+
