@@ -1,5 +1,115 @@
 # Week 15
 
+Bloomberg: "Michelin Reinforces Bet on Hydrogen to Move Beyond Tires"
+
+---
+
+Hybrid btw fuel-cell and turbine? Cool.
+
+This is what H2 brings to the table; flexibility, options.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Airbus are getting serious about Hydrogen Hybrid aircraft - burning H2 in gas turbines AND having electric motor inputs. Could be a clever use of Green H2 in the drive for <a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a>. <a href="https://t.co/sWrbFJVUfb">https://t.co/sWrbFJVUfb</a></p>&mdash; Graham Hodgson (@GraHod) <a href="https://twitter.com/GraHod/status/1381578306525523973?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"France to ban some domestic flights where train available.. MPs vote
+to suspend internal flights if the trip can be completed by train
+within two and a half hours instead"
+
+---
+
+Talked abt that before; see the [South Korean](2018/06/guiding-regulation-south-korea.md)
+example. It's the invisible hand approach, with a caveat, the invisible hand is
+government's 😶
+
+"How can government push for faster Internet speeds?"
+
+---
+
+I am not saying make war, but if there was war, it wld not be good for Iran.
+
+---
+
+US power is hundreds of times more than Iran's. Israel is way ahead of
+them too (see [method](2021/03/power-of-nations-beckley-code.md))
+
+```python
+import pandas as pd
+df = pd.read_csv('../../2020/07/gdpw.csv')
+df = df[df['country'].isin(['United States','Iran','Israel']) ]
+df['gdp'] = df.gdpcap * df.population
+df['mb'] = (df.gdpcap * df.gdp)/1e14
+print (df[['country','mb']])
+```
+
+```text
+           country            mb
+13   United States  12898.099255
+31          Israel    145.850215
+114           Iran     25.909706
+```
+
+---
+
+Not true
+
+"A war with Iran would be much, much harder than against Iraq"
+
+---
+
+"Churchill implored FDR to join the war", yes he did, and he [failed](https://youtu.be/kRzmpCE96kU).
+FDR didnt listen to him. 
+
+---
+
+FDR did not want to fight in WWII. How do I know? Bcz he'd rather have
+these monstrous "Liberty ships" built than send a single man to the
+war.
+
+[Link](https://youtu.be/8qDxqBvK3NA)
+
+---
+
+Aha
+
+(Same 3/3 ukrweekly link) "The previous day, Crimean Tatars held their
+biggest rally at the peninsula’s parliamentary building in Simferopol
+in support of a unitary Ukraine"
+
+---
+
+Just bcz GDELT is "AI" u cant dive blindfolded.. The algos are nowhere
+near close to being AI.
+
+---
+
+[Link](https://media1.tenor.com/images/3f5eee5a7f3789608d9b8ba204afdeee/tenor.gif)
+
+---
+
+This is fun.. research by GDELT.. The dataset surely contains more
+interesting info than a random tuber throwing a fit or even some MSM.
+
+---
+
+Interesting.. for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
+and wrongly classified it as military escalation..
+It is more like "cage rattling" I'd say.
+
+---
+
+GDELT uses news web pages as raw source, applies natural lang
+processing algos on them to extract Actor1-Action-Actor2 type "events"
+for ex "Thailand warned South Africa", where diplomatic "warn" is the
+action.. There are mistakes sometimes. I had to go through every
+result one by one to filter out such false positives.
+
+---
+
+@PaulEremenko of @Universal_H2 was the former CTO of @Airbus?
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">European energy ministers have highlighted the need to create a stable regulatory framework for <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> in the <a href="https://twitter.com/hashtag/EuropeanUnion?src=hash&amp;ref_src=twsrc%5Etfw">#EuropeanUnion</a>, capable of attracting private investors into a competitive and predictable market. 💧🇪🇺<a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://t.co/pvJciLaYDd">https://t.co/pvJciLaYDd</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1381290716891127812?ref_src=twsrc%5Etfw">April 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

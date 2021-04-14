@@ -1,112 +1,80 @@
 # Tweets
 
-Bloomberg: "Michelin Reinforces Bet on Hydrogen to Move Beyond Tires"
+"Breaking Tech Open: Why Social Platforms Should Work More Like Email
+Email is a stable, decentralized technology that spurs
+interoperability and competition, presenting a model for other
+internet technologies"
+
+[Link](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/)
 
 ---
 
-Hybrid btw fuel-cell and turbine? Cool.
-
-This is what H2 brings to the table; flexibility, options.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Airbus are getting serious about Hydrogen Hybrid aircraft - burning H2 in gas turbines AND having electric motor inputs. Could be a clever use of Green H2 in the drive for <a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a>. <a href="https://t.co/sWrbFJVUfb">https://t.co/sWrbFJVUfb</a></p>&mdash; Graham Hodgson (@GraHod) <a href="https://twitter.com/GraHod/status/1381578306525523973?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://pbs.twimg.com/media/EyxhpofXEAA0Tw4?format=jpg&name=small"/>
 
 ---
 
-"France to ban some domestic flights where train available.. MPs vote
-to suspend internal flights if the trip can be completed by train
-within two and a half hours instead"
+I was rooting for the other guy but apparently it is right's turn
+
+"Voters in Ecuador appeared to turn to a conservative businessman in
+Sunday’s presidential runoff election, rebuffing a leftist movement
+that held the presidency for over a decade marked by an economic boom
+and then a years-long recession"
 
 ---
 
-Talked abt that before; see the [South Korean](2018/06/guiding-regulation-south-korea.md)
-example. It's the invisible hand approach, with a caveat, the invisible hand is
-government's 😶
-
-"How can government push for faster Internet speeds?"
+That's a load of bullshit
 
 ---
 
-I am not saying make war, but if there was war, it wld not be good for Iran.
+???
+
+"Brooklyn Center Police says police shooting of Daunte Wright was ‘an
+accidental discharge’ as officer intended to discharge a taser"
 
 ---
 
-US power is hundreds of times more than Iran's. Israel is way ahead of
-them too (see [method](2021/03/power-of-nations-beckley-code.md))
+"@JosephEStiglitz
 
-```python
-import pandas as pd
-df = pd.read_csv('../../2020/07/gdpw.csv')
-df = df[df['country'].isin(['United States','Iran','Israel']) ]
-df['gdp'] = df.gdpcap * df.population
-df['mb'] = (df.gdpcap * df.gdp)/1e14
-print (df[['country','mb']])
-```
+Saving Journalism: Should Other Countries Copy Australia’s News Media
+Code? Thursday in NYC on April 15th"
 
-```text
-           country            mb
-13   United States  12898.099255
-31          Israel    145.850215
-114           Iran     25.909706
-```
+[Link](https://mobile.twitter.com/JosephEStiglitz/status/1381583090276044802)
 
 ---
 
-Not true
+I am *not* iron man
 
-"A war with Iran would be much, much harder than against Iraq"
-
----
-
-"Churchill implored FDR to join the war", yes he did, and he [failed](https://youtu.be/kRzmpCE96kU).
-FDR didnt listen to him. 
+<img width="200" src="https://media.tenor.com/images/fee151befb52a3e437a59890be52fdb3/tenor.gif"/>
 
 ---
 
-FDR did not want to fight in WWII. How do I know? Bcz he'd rather have
-these monstrous "Liberty ships" built than send a single man to the
-war.
+Frankly not into ironing.. 
 
-[Link](https://youtu.be/8qDxqBvK3NA)
+"What is the one housekeeping work u never do?"
 
 ---
 
-Aha
-
-(Same 3/3 ukrweekly link) "The previous day, Crimean Tatars held their
-biggest rally at the peninsula’s parliamentary building in Simferopol
-in support of a unitary Ukraine"
+It's like Israelis. The Jews didnt "leave" the region, they converted and [they
+stayed](2020/06/10-myths-israel.md). Leaving is hard, ppl usually dont.
 
 ---
 
-Just bcz GDELT is "AI" u cant dive blindfolded.. The algos are nowhere
-near close to being AI.
+Galatians 1st century are my people, as are everyone before and after
+there. The current make up of Anatolia is composed of their
+descendants and little of later arrivals, like some punks from
+Punkbuttfuck from Central FuckFuck.
 
 ---
 
-[Link](https://media1.tenor.com/images/3f5eee5a7f3789608d9b8ba204afdeee/tenor.gif)
+See, you dont start out just preachin with my people. You talk about
+some food, some creole, some chicken wings.. Bring some grass for the
+goat..  Then you seque into afterlife, right and wrong, etc..
 
 ---
 
-This is fun.. research by GDELT.. The dataset surely contains more
-interesting info than a random tuber throwing a fit or even some MSM.
+Dam, Paul had it pretty bad in Galatia, today's Anatolia..
 
----
-
-Interesting.. for March 3rd, GDELT found [this](http://www.ukrweekly.com/uwwp/ukraine-receives-additional-u-s-security-aid-while-biden-and-eu-prolong-russia-sanctions/)
-and wrongly classified it as military escalation..
-It is more like "cage rattling" I'd say.
-
----
-
-GDELT uses news web pages as raw source, applies natural lang
-processing algos on them to extract Actor1-Action-Actor2 type "events"
-for ex "Thailand warned South Africa", where diplomatic "warn" is the
-action.. There are mistakes sometimes. I had to go through every
-result one by one to filter out such false positives.
-
----
-
-@PaulEremenko of @Universal_H2 was the former CTO of @Airbus?
+<iframe width="340" src="https://www.youtube.com/embed/NVB4jJaksJU?start=26&end=56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
