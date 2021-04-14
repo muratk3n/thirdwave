@@ -218,7 +218,6 @@ herhangi bir yama / parça bu görevi yerine getirebilirdi.
 
 [Ardından] milliyetçi toplum alanen / açık açık kendisine tapınmaya başlar.
 
-
 Milliyetçiliğin kendine has unutkanlıkları ve cımbızla seçtiği favori
 konuları vardır; bu tercihler her ne kadar diğerlerine dünyevi imis
 gibi görünseler de, yine de çok ciddi göz boyama ve yalanlar
