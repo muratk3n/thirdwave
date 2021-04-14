@@ -1,5 +1,9 @@
 # Tweets
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">North QLD will soon be home to the production and export of renewable <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> thanks to an MoU between <a href="https://twitter.com/townsvilleport?ref_src=twsrc%5Etfw">@townsvilleport</a> and <a href="https://twitter.com/originenergy?ref_src=twsrc%5Etfw">@originenergy</a>. The partnership will play a key role in the development of QLD’s <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> industry as a whole. <a href="https://t.co/CmmZ5jCGz6">https://t.co/CmmZ5jCGz6</a></p>&mdash; Australian Hydrogen Council (@H2MobilityAus) <a href="https://twitter.com/H2MobilityAus/status/1382155646330494976?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "Breaking Tech Open: Why Social Platforms Should Work More Like Email
 Email is a stable, decentralized technology that spurs
 interoperability and competition, presenting a model for other
