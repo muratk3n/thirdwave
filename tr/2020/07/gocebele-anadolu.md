@@ -35,7 +35,7 @@ Türkiye tarih yazıcılığı bu tür bazı öğeleri dışarıda bırakıp,
 bazılarını dahil eden 'Türk' kimliği yaratmanın ilginç bazı
 örneklerini sunuyor bize (Çagaptay, 2006). Ondokuzuncu yüzyıldan önce
 kendini Türk ulus-devleti diye gören bir şey yoktu. Geniş ölçekte
-bilinçli, kastı ya da dolaylı şekilde Türk kimliği yaratma süreci
+bilinçli / kasti ya da dolaylı şekilde Türk kimliği yaratma süreci
 Osmanlı imparatorluğu sonlarında, imparatorluk içinde kendini
 milliyetçi, reformcu gören kişilerle beraber basladi (mesela 19'uncu
 yüzyıl sonunda Genç Osmanlılar, ve erken 20'inci yüzyılda Genç Türkler
@@ -46,18 +46,36 @@ düşüncelerini radikal, somut, ve kapsayıcı yeni bir seviyeye taşıdı
 (Karpat, 2001).
 
 Mustafa Kemal yönetimi geniş ölçekte ve hedefli bir tarih yazma
-projesini yönetti. 1932'de ilk Türk Tarih Kongresi toplandı, burada
+projesini ele aldı. 1932'de ilk Türk Tarih Kongresi toplandı, burada
 Türk Tarihinin Ana Temaları sunuldu, ki temanın ana hattı 'Türk Tarih
 Tezi' denen bir kurguydu. Bu teze göre
 
 >Türkler büyük ve kadim bir ırktır [..] Orta Asya'da bir iç deniz
 >etrafına aydınlık bir medeniyet yarattılar [..] İklim değişikliği
->sebebiyle bu iç deniz kuruyunca evlerini terkedip dünyanin her bir
->yanina dağıldılar ve böylece dünyanin o noktalarına medeniyet
+>sebebiyle bu iç deniz kuruyunca evlerini terkedip dünyanın her bir
+>yanına dağıldılar ve böylece dünyanın o noktalarına medeniyet
 >taşıdılar. Çin'e gittiler, Doğu'ya gittiler, Hindistan'a, oradan da
 >güneye gittiler. Mısır'a, Mezopotamya'ya Fars'a, Anadolu'ya,
 >Yunanistan'a, İtalya'ya, sonra Batı'ya ulaştılar (Çagaptay, 2006,
 >sf. 51)
+
+Cumhuriyet'in bu belirleyici, gelişimsel dönemi Osmanlı öncesine
+gitmeye mecbur olan ve Orta Asya'ya dayanan bir Türkiye tarih
+vizyonunu oluşturmakta başarılı oldu [herhalde öyle, etraf dangalak
+dolu, Osmanlı da matah değildi tabii Romalı köpek sürüsü]. Bu sebeple
+bugün Türkiye'de 'bizim tarihimiz'den bahsetmek Orta Asya'dan
+Anadolu'ya göçen Türklerin tarihinden' bahsetmek anlamına geliyor. Bu
+bahis Türkiye'nin coğrafyasının tarihinden farklı bir şey, çünkü
+coğrafyanin tarihine bakılsaydı 1000'lı yıllardaki ilk Türki kabileler
+gelmeden önceki tarihi işlemek gerekirdi, o TÜrki kabilelerin
+karıştığı toplumların geniş tarihini ele almak gerekiri (mesela
+Yunanlar, Ermeniler, Süryaniler, Araplar, Kürtler, vs).
+
+
+
+
+
+
 
 
 
