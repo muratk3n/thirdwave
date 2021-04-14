@@ -31,6 +31,10 @@ gündelik siyasi ihtiyaçları yansıtır. Bu sebeple 'bir ulusun tarihini
 yazmak moderniteye yakıt sağlayan o ilkel karmaşayı seslendirmektir'
 (Bhabha, 1990, sf. 294). 
 
+Türkiye tarih yazıcılığı bu tür bazı öğeleri dışarıda bırakıp,
+bazılarını dahil ederek 'Türk' kimliği yaratmanın ilginç bazı
+örneklerini sunuyor bize (Çagaptay, 2006). Ondokuzuncu yüzyıldan
+önce kendini Türk ulus-devleti diye gören bir şey yoktu. 
 
 
 
@@ -45,18 +49,5 @@ Berger, S., Donovan, M., & Passmore, K. (2002). Writing national histories Weste
 
 Bhabha, H. K. (1990). DissemiNation: Time, narrative, and the margins of the modern nation. In H. K. Bhabha (Ed.), Nation and narration. London: Routledge.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Çağaptay, S. (2006). Islam, secularism, and nationalism in modern Turkey who is a Turk? London: Routledge.
 

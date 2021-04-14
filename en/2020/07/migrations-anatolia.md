@@ -31,7 +31,7 @@ ambivalence that informs modernity’ (Bhabha, 1990, p. 294)...
 
 Turkish historiography offers a particularly interesting example of
 such a construction of a ‘Turkish’ identity through inclusion and
-exclusion of particular events (Çağ aptay, 2006).  There was no
+exclusion of particular events (Çağaptay, 2006).  There was no
 self-perceived ‘Turkish nation’ before the nineteenth century. The
 broader intentional and unintentional process of creating a Turkish
 identity started indeed with the late Ottoman empire, and the
