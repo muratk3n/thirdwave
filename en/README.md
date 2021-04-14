@@ -52,14 +52,14 @@ I am *not* iron man
 
 ---
 
-Frankly not into ironing.. 
+Not into ironing.. 
 
 "What is the one housekeeping work u never do?"
 
 ---
 
-It's like Israelis. The Jews didnt "leave" the region, they converted and [they
-stayed](2020/06/10-myths-israel.md). Leaving is hard, ppl usually dont.
+It's like Israelis. The Jews didnt "leave" the region, they converted and
+[they stayed](2020/06/10-myths-israel.md). Leaving is hard, ppl usually dont.
 
 ---
 
