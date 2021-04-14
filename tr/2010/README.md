@@ -128,17 +128,17 @@
 
 [Endüstriyel İdeolojilerin Temelleri: Konsentrasyon](06/endustriyel-ideolojilerin-temelleri-konsantrasyon.md)
 
+[Endüstriyel İdeolojilerin Temelleri: Maksimizasyon](06/endustriyel-ideolojilerin-temelleri-maksimizasyon.md)
+
+[Endüstriyel İdeolojilerin Temelleri: Merkezileştirme](06/endustriyel-ideolojilerin-temelleri-merkezilestirme.md)
+
+[Endüstriyel İdeolojilerin Temelleri: Senkronizasyon](06/endustriyel-ideolojilerin-temelleri-senkronizasyon.md)
+
+[Endüstriyel İdeolojilerin Temelleri: Standardizasyon](06/endustriyel-ideolojilerin-temelleri-standardizasyon.md)
+
 [Endüstriyel İdeolojilerin Temelleri: Tek Alanda Çalışmak](06/endustriyel-ideolojilerin-temelleri-tek.md)
 
 [Endüstriyel İdeolojilerin Temelleri](06/endustriyel-ideolojilerin-temelleri.md)
-
-[Endüstriyel İdeolojilerin Temelleri: Standardizasyon](06/endustriyel-ideolojilerin-temelleri_05.md)
-
-[Endüstriyel İdeolojilerin Temelleri: Senkronizasyon](06/endustriyel-ideolojilerin-temelleri_06.md)
-
-[Endüstriyel İdeolojilerin Temelleri: Maksimizasyon](06/endustriyel-ideolojilerin-temelleri_10.md)
-
-[Endüstriyel İdeolojilerin Temelleri: Merkezileştirme](06/endustriyel-ideolojilerin-temelleri_12.md)
 
 [Grafiti..](06/grafiti.md)
 
