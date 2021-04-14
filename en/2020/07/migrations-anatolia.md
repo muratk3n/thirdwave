@@ -120,8 +120,6 @@ Turkish migrations from Central Asia are covered pervasively in 6th,
 of life and culture of the Turkic population, and the migration routes
 they took up through Eurasia.
 
-<a name='unique'/>
-
 As was mentioned above, the creation of the idea of Turkish nation has
 made extensive use of history as a means to instil a feeling of
 uniqueness and commonality as a member of the Turkish nation. However,
@@ -222,4 +220,19 @@ recognizing that the victims are an integral part of the nation (by
 recognizing their history as well) can also help mitigate the
 recognition of past violence, by seeing the nation as being
 simultaneously perpetrator and victim.
+
+References
+
+Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso
+
+Gellner, E. (1983). Nations and nationalism. Ithaca, NY: Cornell University Press.
+
+Berger, S., Donovan, M., & Passmore, K. (2002). Writing national histories Western Europe since 1800. London: Routledge.
+
+Bhabha, H. K. (1990). DissemiNation: Time, narrative, and the margins of the modern nation. In H. K. Bhabha (Ed.), Nation and narration. London: Routledge.
+
+Çağaptay, S. (2006). Islam, secularism, and nationalism in modern Turkey who is a Turk? London: Routledge.
+
+Karpat, K. H. (2001). The politicization of Islam: Reconstructing identity, state, faith, and community in the late
+Ottoman state. Oxford: Oxford University Press.
 
