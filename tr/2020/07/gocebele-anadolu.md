@@ -1,6 +1,7 @@
-# Milli Söylem, Göçmenler, Anadolu, J. Tolay
+# Milli Söylem, Göçmenler, Anadolu
 
-[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md)
+[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md),
+J. Tolay
 
 Ulusların kurgusal / hayali taraflarını anlamak için önemli bir öğe
 tarihi ulusal söylemdir, ve kurucuların tarihi hafızasını kontrol
