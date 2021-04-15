@@ -3,11 +3,11 @@
 [Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md),
 J. Tolay
 
-Ulusların kurgusal / hayali taraflarını anlamak için önemli bir öğe
-tarihi ulusal söylemdir, ve kurucuların tarihi hafızasını kontrol
-etmek istemeleridir, ki bu sayede belli bir şekildeki ulus-devlet
-fikrini yaratmak ve korumak isterler. Tarihin tabii ki devlet
-oluşumunda merkezi bir rolü vardır, sadece o tarihte önceden olanların
+Ulusların kurgusal / hayali oluşlarını anlamak için önemli bir öğe
+tarihi ulusal söylemdir, ve kurucuların tarih hafızasını kontrol etmek
+istemeleridir, ki bu sayede belli bir şekildeki ulus-devlet fikrini
+yaratmak ve korumak isterler. Tarihin tabii ki devlet oluşumunda
+merkezi bir rolü vardır, sadece o tarihte önceden olanların
 belgelendiği için değil, o tarihin ülkenin kimliğini tanımlamasındaki
 ana rolü yüzünden. Ulus-devlet ve milliyetçilik hakkında yapılan
 araştırmalar gösteriyor ki tarihteki belli olayları belli bir grubu
