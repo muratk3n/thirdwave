@@ -86,7 +86,6 @@ hep hareket halinde olmuştur, çünkü onların ilk baştaki yaşayış tarzı
 göçebeliktir (burada kabaca Türklerin Orta Asya geçmişine vurgu
 yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve gelenlerin
 çeşitliliğini kabul etmiştir (kabaca Osmanlı zamanı kastediliyor
-
 burada) 3) Türk insanının kendisi sonradan da tekrar göçmeye
 başlamıştır (kabaca 20'inci yüzyıla referans)
 
