@@ -1,6 +1,6 @@
-# Milli Söylem, Göçmenler, Anadolu, Tolay
+# Milli Söylem, Göçmenler, Anadolu, J. Tolay
 
-[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md) 
+[Rewriting National Narratives through the Study of Past Migrations](../../../en/2020/07/migrations-anatolia.md)
 
 Ulusların kurgusal / hayali taraflarını anlamak için önemli bir öğe
 tarihi ulusal söylemdir, ve kurucuların tarihi hafızasını kontrol
@@ -14,13 +14,13 @@ yüceltecek şekilde sunmak, hatta yoktan yaratmak şimdiye kadar görülen
 ulusların oluşmasında temel oluşturuyor (Anderson, 1991; Gellner,
 1983).  Tarihsel olaylar ve şahsiyetler sembol ve 'kim olduğumuz'
 hakkında referans haline geliyorlar. Muhakkak tarih araştırmalarında
-[diğer bilim dallarında olduğu gibi] kısmı [sonradan düzeltilebilecek]
-subjektif bakış açıları olabiliyor fakat bu sübjektiflik milli tarih
-denen oluşlarda çok daha belirgin hale geliyor. Gellner'in sözleriyle
-"[milliyetciligin] koruduğu, kolladığı, tekrar ayaklandırmak
-istediğini iddia ettiği kültürler aslında tamamen kendi uydurmasıdır,
-ve o kültürel öğelerin tanımları, içeriği değiştirile değiştirile
-artık tanınmaz hale gelmiştir". (Gellner, 1983, sf. 56).
+[diğer bilim dallarında olduğu gibi] kısmi subjektif bakış açıları
+olabiliyor fakat bu sübjektiflik milli tarih denen oluşlarda çok daha
+belirgin hale geliyor. Gellner'in sözleriyle "[milliyetciligin]
+koruduğu, kolladığı, tekrar ayaklandırmak istediğini iddia ettiği
+kültürler aslında tamamen kendi uydurmasıdır, ve o kültürel öğelerin
+tanımları, içeriği değiştirile değiştirile artık tanınmaz hale
+gelmiştir". (Gellner, 1983, sf. 56).
 
 Milli tarih bazı olayları örtbas etmek, diğerlerini daha fazla
 vurgulama sürecidir, ki bu süreç tarihi bir tür sosyal kurgu haline
@@ -37,18 +37,18 @@ bazılarını dahil eden 'Türk' kimliği yaratmanın ilginç bazı
 kendini Türk ulus-devleti diye gören bir şey yoktu. Geniş ölçekte
 bilinçli / kasti ya da dolaylı şekilde Türk kimliği yaratma süreci
 Osmanlı imparatorluğu sonlarında, imparatorluk içinde kendini
-milliyetçi, reformcu gören kişilerle beraber basladı (mesela 19'uncu
+milliyetçi, reformcu gören kişilerle beraber başladi (mesela 19'uncu
 yüzyıl sonunda Genç Osmanlılar, ve erken 20'inci yüzyılda Genç Türkler
 hareketleri). Bu hareketler 1923'te doğan Türk Cumhuriyeti'na varlık
-sebebi sağlamalarıyla zirveye vardılar; Mustafa Kemal Atatürk'un "Türk
+sebebi sağlamalarıyla zirveye vardılar; Mustafa Kemal'in "Türk
 ulus-devleti"'ne ev sahipliği yapan "Türk devleti" kurgusu onların
 düşüncelerini radikal, somut, ve kapsayıcı yeni bir seviyeye taşıdı
 (Karpat, 2001).
 
-Mustafa Kemal yönetimi geniş ölçekte ve hedefli bir tarih yazma
-projesini ele aldı. 1932'de ilk Türk Tarih Kongresi toplandı, burada
-Türk Tarihinin Ana Temaları sunuldu, ki temanın ana hattı 'Türk Tarih
-Tezi' denen bir kurguydu. Bu teze göre
+Kemal yönetimi geniş ölçekte ve hedefli bir tarih yazma projesini ele
+aldı. 1932'de ilk Türk Tarih Kongresi toplandı, burada Türk Tarihinin
+Ana Temaları sunuldu, ki temanın ana hattı 'Türk Tarih Tezi' denen bir
+kurguydu. Bu teze göre
 
 >Türkler büyük ve kadim bir ırktır [..] Orta Asya'da bir iç deniz
 >etrafına aydınlık bir medeniyet yarattılar [..] İklim değişikliği
@@ -73,22 +73,23 @@ spesifik göçlere vurgu yapıyor, diğerlerini önemsiz sayıyordu.
 
 Ben 2008 ve 2013 arasında halk arasında Türkiye'ye olan bu göçler
 hakkına bilgiyi ölçmek için Türkiye'de yarı yapılı, resmi mülakatlar
-gerçekleştirdiğimde durumu yakından gördüm. Mülakatlar sırasında açık
-bir şekilde belli oldu ki soru sorulanlar Türkiye tarihindeki birkaç
-göçten haberdarlar ama diğerleri hakkında hiçbir şey bilmiyorlar, en
-azından diğer göçlerin 'tanımlayıcı bir göç hikayesi' olduğunu
-düşünmüyorlardı. Bu düşüncelerin ilköğretim müfradatıyla bağlantıları
-olduğunu gözlemledik. Mülakatlar sırasında cevap verenler göçlerin
-Türk tarihinde çok önemli rol oynadığına vurgu yaptılar. Spesifik
-olarak 3 türlü göç tecrübesi sürekli gündeme getirildi 1) Türk
-insanları zaten hep hareket halinde olmuştur, çünkü onların ilk
-baştaki yaşayış tarzı göçebeliktir (burada kabaca Türklerin Orta Asya
-geçmişine vurgu yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve
-gelenlerin çeşitliliğini kabul etmiştir (kabaca Osmanlı zamanı
-kastediliyor burada) 3) Türk insanının kendisi sonradan da tekrar
-göçmeye başlamıştır (kabaca 20'inci yüzyıla referans yapılıyor)
+gerçekleştirdiğim. Mülakatlar sırasında açık bir şekilde belli oldu ki
+soru sorulanlar Türkiye tarihindeki birkaç göçten haberdarlar ama
+diğerleri hakkında hiçbir şey bilmiyorlar, en azından diğer göçlerin
+'tanımlayıcı bir göç hikayesi' olduğunu düşünmüyorlardı. Bu
+düşüncelerin ilköğretim müfradatıyla bağlantıları olduğunu
+gözlemledik. Mülakatlar sırasında cevap verenler göçlerin Türk
+tarihinde çok önemli rol oynadığına vurgu yaptılar. Spesifik olarak 3
+türlü göç tecrübesi sürekli gündeme getirildi 1) Türk insanları zaten
+hep hareket halinde olmuştur, çünkü onların ilk baştaki yaşayış tarzı
+göçebeliktir (burada kabaca Türklerin Orta Asya geçmişine vurgu
+yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve gelenlerin
+çeşitliliğini kabul etmiştir (kabaca Osmanlı zamanı kastediliyor
 
+burada) 3) Türk insanının kendisi sonradan da tekrar göçmeye
+başlamıştır (kabaca 20'inci yüzyıla referans)
 
+[devam edecek]
 
 
 
