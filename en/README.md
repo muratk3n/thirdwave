@@ -1,6 +1,5 @@
 # Tweets
 
-
 ---
 
 Little TR [translation](https://muratk3n.github.io/thirdwave/tr/2020/07/gocebele-anadolu.html)

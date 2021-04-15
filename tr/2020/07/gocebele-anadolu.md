@@ -74,7 +74,7 @@ spesifik göçlere vurgu yapıyor, diğerlerini önemsiz sayıyordu.
 
 Ben 2008 ve 2013 arasında halk arasında Türkiye'ye olan bu göçler
 hakkına bilgiyi ölçmek için Türkiye'de yarı yapılı, resmi mülakatlar
-gerçekleştirdiğim. Mülakatlar sırasında açık bir şekilde belli oldu ki
+gerçekleştirdim. Mülakatlar sırasında açık bir şekilde belli oldu ki
 soru sorulanlar Türkiye tarihindeki birkaç göçten haberdarlar ama
 diğerleri hakkında hiçbir şey bilmiyorlar, en azından diğer göçlerin
 'tanımlayıcı bir göç hikayesi' olduğunu düşünmüyorlardı. Bu
