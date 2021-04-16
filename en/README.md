@@ -21,8 +21,8 @@ providers, fueling solutions and component suppliers"
 ---
 
 Didnt QE say about the 2008 crisis 'it's awful - Why did nobody see it
-coming?' That sounds like she is not someone who likes to remain
-up-to-date on matters, but *has* to remain up-to-date.
+coming?' That sounds like this is not someone who likes to remain
+up-to-date on matters, but *has* to
 
 ---
 
