@@ -48,9 +48,15 @@ to boost inoculation rates around the world. It's that simple"
 
 ---
 
-FT: "Former world leaders call on Biden to suspend Covid-19 vaccine patents"
+"Former world leaders urge Biden to waive COVID vaccine patents More
+than 170 former world leaders and Nobel laureates say waiver is key to
+ramp up global vaccine production. At the current rate, the world’s
+poorest nations will have to wait until at least 2024 to reach 'mass
+immunisation', the signatories, which included former UK Prime
+Minister Gordon Brown, ex-French President François Hollande and
+Muhammad Yunus, winner of the Nobel Peace Prize"
 
-[Link](https://www.ft.com/content/43fd53f5-2b82-4e41-981c-8544a6ce996b)
+[Link](https://www.aljazeera.com/news/2021/4/14/world-leaders-call-on-biden-authorise-covid-vaccine-patent-waiver)
 
 ---
 
