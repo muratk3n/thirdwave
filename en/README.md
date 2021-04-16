@@ -5,10 +5,6 @@
 
 ---
 
-MSM do you really have to have the doctor talking abt the man's heart muscles, contraction etc.. 
-
----
-
 @H2Standard
 
 Loop Energy and BayoTech have entered into a #hydrogen vehicle deployment agreement focusing on #fuelcell vehicles and #h2 infrastructure. Purpose is to build 360-degree ecosystem incl service providers, fueling solutions and component suppliers.
