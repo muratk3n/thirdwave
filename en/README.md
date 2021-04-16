@@ -5,11 +5,14 @@
 
 ---
 
-@H2Standard
+"@H2Standard
 
-Loop Energy and BayoTech have entered into a #hydrogen vehicle deployment agreement focusing on #fuelcell vehicles and #h2 infrastructure. Purpose is to build 360-degree ecosystem incl service providers, fueling solutions and component suppliers.
+Loop Energy and BayoTech have entered into a #hydrogen vehicle
+deployment agreement focusing on #fuelcell vehicles and #h2
+infrastructure. Purpose is to build 360-degree ecosystem incl service
+providers, fueling solutions and component suppliers"
 
-https://bit.ly/3wRoboZ
+[Link](https://bit.ly/3wRoboZ)
 
 ---
 
