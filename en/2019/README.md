@@ -52,6 +52,8 @@
 
 [Focus-Group Democracy](08/focus-group-democracy.md)
 
+[Future Shock](08/future-shock-toffler.md)
+
 [Manganese Hydride](08/manganese-hydride.md)
 
 [Marx](08/marx.md)
