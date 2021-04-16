@@ -343,14 +343,6 @@ I hear
 
 ---
 
-"@davidsirota
-
-It's 100 degrees in the Arctic -- how are you cool with the Democratic
-Party spending big money to defeat progressive @Romanoff2020 and buy a
-primary for oil ally @Hickenlooper"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Imagine if there was a competent 3rd party in the US right now.</p>&mdash; Erick Erickson (@EWErickson) <a href="https://twitter.com/EWErickson/status/1275402926132015104?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

@@ -407,13 +407,6 @@ quality that meets the required level'".
 
 ---
 
-"@davidsirota
-
-NEWS: Mitch McConnell is blocking aid to his own state -- even as
-Kentucky faces one of the worst pension crises in the entire country"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuel cells are driving <a href="https://twitter.com/hashtag/sustainable?src=hash&amp;ref_src=twsrc%5Etfw">#sustainable</a> mobility on land and water - and are set for the Moon and even Mars! 🌔 ABB spoke to JAXA about the <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> powered Moon rover project, in tandem with Toyota. Read all about it ⬇️<a href="https://t.co/IoDKbMzsLC">https://t.co/IoDKbMzsLC</a><br>Image: Toyota Motor Corporation <a href="https://t.co/mhEqAunHSJ">pic.twitter.com/mhEqAunHSJ</a></p>&mdash; ABB Marine &amp; Ports (@ABBMarine) <a href="https://twitter.com/ABBMarine/status/1253243096168648705?ref_src=twsrc%5Etfw">April 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

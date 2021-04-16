@@ -545,15 +545,6 @@ left was that the broad is really dumb
 
 ---
 
-"@davidsirota
-
-IMO, it is not a coincidence that they are putting Neera Tanden -- the
-single biggest, most aggressive Bernie Sanders critic in the United
-States of America -- specifically at OMB while Sanders is Senate
-Budget Committee ranking/chair"
-
----
-
 *The Nordic Theory of Everything* book [opens](../../2017/08/the-nordic-theory-of-everything.md)
 with Clinton introducing Finland President Halonen, praising the country
 for its .. leftists ways 😶. BC atoning for some of his sins.,? Democrat Prez

@@ -49,16 +49,6 @@ BBC: 'Oldest woman in Spain' beats coronavirus at 113"
 
 ---
 
-"@davidsirota
-
-At some point there’s gonna be 295 million Americans without health
-insurance, and Democrats and their shills in DC will be saying
-Medicare for All is too idealistic, let’s write a $50 trillion check
-to the CEOs of UnitedHealth and Aetna to pay them to deal with the
-issue"
-
----
-
 "@KenzoShibata
 
 Thinking about people who think Nader gave us Bush and have never
@@ -541,13 +531,6 @@ schools, public health, and public safety services"
 
 ---
 
-"@davidsirota
-
-If corporations are people, then why can't people have access to the
-Fed window?"
-
----
-
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">WATCH: Protesters calling for gyms to reopen in Florida are doing squats and push-ups outside the Clearwater courthouse <a href="https://t.co/3BVzxHQPEJ">https://t.co/3BVzxHQPEJ</a> <a href="https://twitter.com/hashtag/Florida?src=hash&amp;ref_src=twsrc%5Etfw">#Florida</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/3cjgQ6kaM8">pic.twitter.com/3cjgQ6kaM8</a></p>&mdash; WFLA NEWS (@WFLA) <a href="https://twitter.com/WFLA/status/1259867354206535681?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -743,15 +726,6 @@ year, there's an asterisk.'"
 
 The U.S. has 4.2% of the world's population, but 28.5% of the world's
 confirmed coronavirus deaths"
-
----
-
-"@davidsirota
-
-Gotta say this about Resistance Libs on Twitter: they are committed to
-just tweeting & sneering at Medicare for All & progressives even as
-thousands die in a pandemic. I thought they might change — but their
-commitment to partisan nihilism is astonishingly unwavering"
 
 ---
 
