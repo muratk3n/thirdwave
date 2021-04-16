@@ -10,10 +10,6 @@ God must be Bernie-or-bust voter
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prediction: the financial press will be simultaneously publishing opeds slamming Medicare for All, and articles saying savvy investors should definitely put their money into funeral homes, graveyards and cremation facilities <a href="https://t.co/3MaMVsVCTf">https://t.co/3MaMVsVCTf</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1241152083673272320?ref_src=twsrc%5Etfw">March 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@MacBrandt
 
 Remember two weeks ago? Neither do I"

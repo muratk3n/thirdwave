@@ -151,15 +151,6 @@ income support]"
 
 ---
 
-"@davidsirota
-
-NEWS: Fossil fuel companies? abandoned wells are leaking and making
-climate change worse ? and now states must spend up to 280 BILLION to
-clean up the mess. Meanwhile, Trump & the Fed gave fossil fuel
-companies a $100 billion government bailout"
-
----
-
 The mintuea of future policy choices never mattered to people the
 extent the commentariat thought it did
 

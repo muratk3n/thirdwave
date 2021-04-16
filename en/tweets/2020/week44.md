@@ -95,10 +95,6 @@ There's a war on truth-tellers"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m renting a rowboat with a Jared Kushner Sucks sign, please give me $40 million <a href="https://t.co/IOXXBCcdhh">https://t.co/IOXXBCcdhh</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1322381197079576576?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Pine Phone
 
 <iframe width="340" src="https://www.youtube.com/embed/zlI14bb1zEM?start=275" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -744,10 +740,6 @@ arithmetic could have shown what's what... So sad.
 internet is shutdown. 12 metro stations in #Minsk are closed. The
 authorities are clearly scared, as they are doing it earlier than
 usual"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10 days until the ?don?t pressure Dems before the 2020 election!? instantly becomes ?don?t pressure Dems before the 2022 election!? Gonna rule.</p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1320247516231708672?ref_src=twsrc%5Etfw">October 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

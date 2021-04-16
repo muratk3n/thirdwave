@@ -195,16 +195,6 @@ Padilla sounds like a centrist jagoff. 1st impression.
 
 ---
 
-"@davidsirota
-
-Bernie getting the cold shoulder from Democrats on direct aid to
-starving people and then having to find one random maverick Republican
-(Hawley) to then force at least something into the bill is a parable
-about the entire grotesque bipartisan political class that owns
-Washington"
-
----
-
 Even if an evil commitee planned and executed the whole thing, they
 could not control any gov's response to it.
 
@@ -271,15 +261,6 @@ driver to be President which gets you f-ing Venezuella.
 
 ---
 
-
-"@davidsirota 
-
-@davidckamin helped us sleuth out the Corker Kickback story.
-@BharatRamamurti has been a strong voice of oversight on the CARES Act
-slush fund. These are encouraging appointments"
-
----
-
 "@AlexThomp
 
 Biden adds @davidckamin and @BharatRamamurti to the NEC. Ramamurti is
@@ -335,15 +316,6 @@ of green hydrogen 50-fold in the next six years"
 
 Bloomberg: "Fifty Years of Tax Cuts for Rich Didn’t Trickle Down,
 Study Says"
-
----
-
-"@davidsirota
-
-The stimulus bill spends 166 billion for meager 600 survival checks as
-America faces mass starvation and poverty. That’s less than the
-estimated $200 billion increase in the net worth of Bezos, Musk &
-Zuckerberg during the pandemic"
 
 ---
 

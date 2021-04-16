@@ -586,10 +586,6 @@ Reuters: "Hong Kong police arrest more than 200 as pro-democracy protests return
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cuomo refuses to support Democratic proposals to tax his billionaire donors — all while he appoints billionaires to take over the state <a href="https://t.co/Jy6QXuYaXI">pic.twitter.com/Jy6QXuYaXI</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1259849182678003712?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@fuelcellsworks
 
 Leipzig Will Soon be Able to Heat with #Hydrogen Thanks to Siemens

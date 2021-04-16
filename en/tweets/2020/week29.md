@@ -575,16 +575,6 @@ Frakked up
 
 ---
 
-"@davidsirota
-
-Dear whiney babies: 
-
-Free speech = you get to publicly say what you believe. 
-
-Free speech =/= you get to publicly say what you believe and never face any criticism"
-
----
-
 Sometimes this is how people trying to talk to me about tech, or
 lately politics sounds like ...
 

@@ -58,14 +58,6 @@ Added bonus, small, with pinned outputs it can control embedded electronics.
 
 ---
 
-"@davidsirota
-
-I’m OK with being like one of 5 remaining people on the planet who
-remembers Democrats refused to force a Senate reconciliation vote on a
-public option 10 years ago"
-
----
-
 "@HelenHet20
 
 Hong Kong was how Communist-party-ruled China and the capital side of
@@ -168,10 +160,6 @@ releasing a 'Trank Cut'"
 A certain focus on essentials, deriving from base theories; this I
 usually get from Europeans. For a derivation I was looking for, I
 found it on a book written by a Dane based on lecs in Denmark. 
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good statement here <a href="https://t.co/buXU2ruopi">https://t.co/buXU2ruopi</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1265483865180626944?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -503,17 +491,11 @@ was funny. Good-funny.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At a time when we need hard hitting reporting more than ever, we’ve launched this new journalism project and have been breaking some solid stories. Pitch in to help us expand by becoming a supporting subscriber — and please retweet! <a href="https://t.co/bhrAPu1jlk">https://t.co/bhrAPu1jlk</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1264353479490859009?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
 Reducing econ follows
 
 ---
 
 :) "Dream on, Klingon" 
-
 
 ---
 
@@ -564,16 +546,6 @@ because it's a total banger"
 Trump net approv -10%
 
 \#538
-
----
-
-"@davidsirota
-
-When you’ve lost a job & have a sick kid, the thing you are most
-hoping for is not a ream of paperwork during an open enrollment period
-for a for-profit insurance marketplace that may deny your claims —
-you’re most hoping for a program that just lets you go to the doctor
-ASAP"
 
 ---
 
@@ -691,10 +663,6 @@ envelope' kind of day"
 
 Took me a month but finally realized that 98% of VC tweets are really
 meant for other VCs. (Leaders at high growth cos have no time.)"
-
----
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/SnkdX2Vmm0">https://t.co/SnkdX2Vmm0</a> <a href="https://t.co/YeBJdCPA2H">pic.twitter.com/YeBJdCPA2H</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1263559188346617858?ref_src=twsrc%5Etfw">May 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

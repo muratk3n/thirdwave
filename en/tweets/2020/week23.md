@@ -61,10 +61,6 @@ they want. Cotton is wrong IMO, another matter.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NYT&#39;s <a href="https://twitter.com/JBennet?ref_src=twsrc%5Etfw">@JBennet</a> in full damage control mode now, sending out a blast email trying to defend his decision to publish a call for the military occupation of American cities <a href="https://t.co/27erNEirMG">pic.twitter.com/27erNEirMG</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1268581092174360576?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Sounds like a win for protesters
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yes. We are going to dismantle the Minneapolis Police Department and replace it with a transformative new model of public safety. <a href="https://t.co/FCfjoPy64k">https://t.co/FCfjoPy64k</a></p>&mdash; Lisa Bender (@lisabendermpls) <a href="https://twitter.com/lisabendermpls/status/1268644819628224513?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -144,15 +140,6 @@ times. At a protest against police brutality.
 
 'SF resident was kneeling when fatally shot by Vallejo police during
 civil unrest sfchronicle.com'"
-
----
-
-"@davidsirota
-
-In 2014, some Democratic lawmakers pushed legislation to block the
-transfer of military weapons to local police departments. Now that
-they control the House, Dems have the power to insert that prohibition
-into this year’s Pentagon spending bill"
 
 ---
 
@@ -534,15 +521,6 @@ need to dominate the battlespace.'"
 
 ---
 
-"@davidsirota
-
-IMPORTANT: Trump shut down the federal initiative scrutinizing local
-police departments -- then he made it easier for police departments to
-access military weaponry, even as research showed that such weaponry
-corresponds to more violent police behavior"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We live in farce <a href="https://t.co/7JtuYSZk6Y">https://t.co/7JtuYSZk6Y</a></p>&mdash; Aaron Stein (@aaronstein1) <a href="https://twitter.com/aaronstein1/status/1267522218902335489?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -585,10 +563,6 @@ Read my mind
 
 What would really calm down these protestors now is a capital gains
 tax suspension on assets bought between now and the end of the year"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This GOP senator who bought and sold stock after getting non-public information about the pandemic is now pontificating about accountability...because in our political culture, absolutely positively nothing matters at all <a href="https://t.co/1pXTCN8FnN">https://t.co/1pXTCN8FnN</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1267508159599394816?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -1020,15 +994,6 @@ I think I was well past a PhD in physics before I realized that a rocket never a
 @drewmckevitt
 
 There's actually a great deal of evidence that police violence is so much more pervasive and deadly in the United States precisely because there are so many guns here. Police tactics have evolved to assume everyone is potentially an armed enemy prepared to kill them
-
----
-
-"@davidsirota
-
-History will not judge kindly how the ruling party and opposition
-party joined together to oppose Medicare for All in the lead up to —
-and during — a lethal pandemic in which 43 million people lost their
-private health insurance"
 
 ---
 

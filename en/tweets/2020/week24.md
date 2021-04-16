@@ -454,10 +454,6 @@ F..ing Rahm
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">LOL <a href="https://t.co/jVUCFfxO6j">https://t.co/jVUCFfxO6j</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1270201036595007488?ref_src=twsrc%5Etfw">June 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 I dont think Ive ever coded a Hello World with a new prog language
 
 ---
@@ -510,14 +506,6 @@ Spider-Man on his son's tombstone.
 
 ---
 
-"@davidsirota
-
-The protests are clearly working and it is fantastic that the police
-are clearly feeling the pressure to change. We must keep up that
-pressure on all levels of government"
-
----
-
 "@dhnexon
 
 I worry that the controversy over the @nytimes's handling of the
@@ -564,10 +552,6 @@ misunderstand their understanding...
 Next up on the docket: free every black man unfairly rotting in jail
 for any marijuana related charge when now the American economy
 IMMENSELY benefits from its legalization/production/sale"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEWS: Data show spending on police has TRIPLED the pace of American population growth. In New York City alone, police spending has grown by 46% in just 12 years, despite almost no population growth. <a href="https://t.co/2gFwLYlkYy">https://t.co/2gFwLYlkYy</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1270048219339218944?ref_src=twsrc%5Etfw">June 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -780,10 +764,6 @@ imagination unconstrained by evidence.'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New York is the global financial capital — the home of Wall Street banks and the largest Fed branch. And yet the state government uses some random out-of-state bank with one ATM as its distributor of unemployment benefits? WTAF? <a href="https://t.co/AwR8y1kpnn">https://t.co/AwR8y1kpnn</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1269633893344276482?ref_src=twsrc%5Etfw">June 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@RojavaNetwork
 
 \#Idlib: Since the morning of Sunday, June 7, intense Russian
@@ -937,10 +917,6 @@ breaking curfew will not be prosecuted"
 "@briantylercohen
 
 And there it is. New polling out of TEXAS (@ppppolls) Biden: 48% Trump: 48%"
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">35 of the largest 50 cities and their police forces are run by Democrats. These mayors have power to deescalate. They should use that power. <br><br>If saying that upsets you, then I can’t help you. <a href="https://t.co/AbLoGaH25l">https://t.co/AbLoGaH25l</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1268999197883133952?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

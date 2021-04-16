@@ -109,15 +109,6 @@ economic relief for coronavirus"
 
 ---
 
-"@davidsirota
-
-I find that whenever you research basically any Democratic Party
-corruption from the past 20 years, you are only about 3 degrees of
-separation from @RahmEmanuel. Almost every single door eventually
-leads to him"
-
----
-
 "[The] New Thing in Fuel. Just Look at Truck Makers’ Earnings"
 
 [Link](https://www.barrons.com/articles/hydrogen-fuel-trucks-nikola-green-energy-51595430426)
@@ -227,15 +218,6 @@ print (np.round(work / 85000 * 100), '%')
 
 ---
 
-"@davidsirota
-
-BREAKING: A major Wall Street scandal just exploded in Kentucky -- the
-newly elected GOP Attorney General is suing the world's largest
-financial firms & targeting the billionaire CEO who bankrolls Trump
-and McConnell's national Republican machine"
-
----
-
 "@nikolamotor
 
 How do we pay for the hydrogen infrastructure? Listen to this few
@@ -324,17 +306,6 @@ Saudi Arabia"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">capital-gains tax cut <a href="https://t.co/15NmzSDdlz">https://t.co/15NmzSDdlz</a></p>&mdash; Matt Pearce 🦅 (@mattdpearce) <a href="https://twitter.com/mattdpearce/status/1285717071788224513?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@davidsirota
-
-TMI is a grassroots-funded journalism project. We broke these stories
-open in just the last 24 hours. We are doing this work day in and day
-out. Please become a supporting subscriber to help us expand this
-work
-
-http://sirota.substack.com/subscribe"
 
 ---
 
@@ -456,10 +427,6 @@ finished, will have the same characteristics.
 transition from natural gas"
 
 [Link](https://mobile.twitter.com/fuelcellsworks/status/1285544855192641537)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unemployment laws have been rigged to cut workers off benefits if they refuse to return to Covid-plagued workplaces. <br><br>That means lifting stay-at-home orders in the name of “freedom” gives corporations the freedom to force workers to die in the pandemic. <a href="https://t.co/XlHOUHUhev">https://t.co/XlHOUHUhev</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1285572283470241792?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

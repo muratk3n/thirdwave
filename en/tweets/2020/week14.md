@@ -27,10 +27,6 @@ in Britain have proved him 'absolutely right'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s almost as if it was a terrible immoral mistake for so many Democratic Party politicians, pundits &amp; think tankers to spend the last year vilifying Medicare for All <a href="https://t.co/QgmNtMv2es">https://t.co/QgmNtMv2es</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1246286428377468928?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 I have to say ppl 3D printing filters, masks is awesome.
 
 ---
@@ -910,10 +906,6 @@ pushed me over edge”. Does Corona effectively end the rush to cities?"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">radical idea right here <a href="https://t.co/1hSdAVZKO1">https://t.co/1hSdAVZKO1</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1244011781040697344?ref_src=twsrc%5Etfw">March 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@ianbremmer
 
 7 million people left Wuhan, China in January...after govt officials
@@ -1040,16 +1032,6 @@ It's proven that:
 -most of our work is unessential 
 
 -the environment will heal if we crush capitalism"
-
----
-
-Money running out.. ?
-
-"@davidsirota
-
-Rather than raising taxes on billionaires to deal with a budget
-shortfall, @NYGovCuomo is instead trying to cut Medicaid during a
-lethal pandemic"
 
 ---
 

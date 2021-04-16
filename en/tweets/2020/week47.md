@@ -637,10 +637,6 @@ E! News: "Influencer Dies Of COVID-19 After Telling Followers It
 
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">thinking about launching a new podcast series called Goldman Sachs Is Actually Awesome sponsored by Goldman Sachs and then starting a newsletter pretending I’m oppressed <a href="https://t.co/KYTRNp9ohi">https://t.co/KYTRNp9ohi</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1327850533101527041?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
----
-
 Not sure whether RCEP is good or bad for the respective middle-classes
 of all those RCEP countries, but the exclusion of US is strategically
 significant.

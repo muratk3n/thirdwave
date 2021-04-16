@@ -880,17 +880,6 @@ Can we just pause to note that somehow Bloomberg managed to be on the
 
 ---
 
-"@davidsirota
-
-The 'revolutionary politics of the 1960s' gave us Medicare, Medicaid
-and civil rights laws.
-
-This is what Bernie was doing in the 1960s 👇🏻"
-
-<img width="340" src="https://pbs.twimg.com/media/ERrjoDkUYAIwnoE?format=jpg&name=small"/>
-
----
-
 They are all trying to close - I respect that. Feeling the \#Bern.
 
 \#demdebate
@@ -1363,14 +1352,6 @@ something to this guy". They can't win.
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s not just bros: ⁦<a href="https://twitter.com/BernieSanders?ref_src=twsrc%5Etfw">@BernieSanders</a>⁩ wins with a diverse coalition, by ⁦<a href="https://twitter.com/jonallendc?ref_src=twsrc%5Etfw">@jonallendc</a>⁩ <a href="https://t.co/5g3yLXTKZH">https://t.co/5g3yLXTKZH</a></p>&mdash; Ali Velshi (@AliVelshi) <a href="https://twitter.com/AliVelshi/status/1231411003033706496?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@davidsirota
-
-Bernie Sanders is the only leading candidate who has released a
-comprehensive plan to protect journalists, defend the free press, and
-support the vibrant & diverse media that our democracy needs"
 
 ---
 

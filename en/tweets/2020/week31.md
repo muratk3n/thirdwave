@@ -176,10 +176,6 @@ One word is worth thousands of pictures.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doing some research tonight &amp; stumbled onto this story of <a href="https://twitter.com/EdMarkey?ref_src=twsrc%5Etfw">@EdMarkey</a> being one of the few Dems who had the guts to stand up to Wall Street. <br><br>“Markey could bid fair claim to being farther ahead of the curve on the financial crisis than almost any elected official in Washington.” <a href="https://t.co/2oziHO9wrS">pic.twitter.com/2oziHO9wrS</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1288700118657507328?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The subtext of this hearing is that the Justice Department&#39;s antitrust division hasn&#39;t done its job for a very long time. <a href="https://t.co/9S3gI1u0UV">https://t.co/9S3gI1u0UV</a></p>&mdash; Binyamin Appelbaum (@BCAppelbaum) <a href="https://twitter.com/BCAppelbaum/status/1288582660038811649?ref_src=twsrc%5Etfw">July 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -916,12 +912,6 @@ Suranne Jones, wonderful as the female Tardis.
 
 Coalition mgmt as orchestra conducting, fine. As long as the horns get
 their turn as much as the cellos
-
----
-
-"@davidsirota
-
-For the most part, if you shill for corporate power, you’re never canceled for anything. If you challenge corporate power, you run the risk of being canceled for anything"
 
 ---
 

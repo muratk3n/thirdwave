@@ -791,10 +791,6 @@ pick.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stage of feudalism is this? <a href="https://t.co/cCUjLKu1yf">https://t.co/cCUjLKu1yf</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1289243954156728320?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Paccar stepping up <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> and <a href="https://twitter.com/hashtag/electric?src=hash&amp;ref_src=twsrc%5Etfw">#electric</a> truck production.&quot; ---&gt; <a href="https://t.co/JjLUC8aukK">https://t.co/JjLUC8aukK</a> <a href="https://t.co/rU9JUJchEc">pic.twitter.com/rU9JUJchEc</a></p>&mdash; Energy Independence Now (@DriveH2) <a href="https://twitter.com/DriveH2/status/1289234247077650433?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -837,20 +833,6 @@ said. He expects costs to decline as governments grow policies
 supporting it like they did with solar"
 
 [Link](https://www.axios.com/hydrogen-support-growing-5ee4cfbb-ee83-4494-8561-c172467b7e5e.html)
-
----
-
-"@davidsirota
-
-A few months after Laquan McDonald was murdered by Rahm Emanuel's
-police department, Elon Musk funneled $50,000 to @RahmEmanuel 's
-reelection campaign"
-
-[Link](https://twitter.com/davidsirota/status/1287838364427673600)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Turkey?src=hash&amp;ref_src=twsrc%5Etfw">#Turkey</a> macro eerily resembles <a href="https://twitter.com/hashtag/Lebanon?src=hash&amp;ref_src=twsrc%5Etfw">#Lebanon</a>. A) Banks saddled with huge dollar deposits that are increasingly parked at CB; B) tourism collapse is leading to dollar shortages; C) explosive TL liquidity is adding to $ demand; &amp; D) FX intervention is causing negative net reserves. Can’t end well</p>&mdash; Amer Bisat (@abisat) <a href="https://twitter.com/abisat/status/1288949984784781313?ref_src=twsrc%5Etfw">July 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

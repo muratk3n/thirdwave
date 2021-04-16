@@ -434,10 +434,6 @@ CV is just a pin"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wait, <a href="https://twitter.com/tomfriedman?ref_src=twsrc%5Etfw">@tomfriedman</a> told me not to worry about that <a href="https://t.co/5Y8GT9I9Bz">https://t.co/5Y8GT9I9Bz</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1242487032292593666?ref_src=twsrc%5Etfw">March 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 @lee_gsc
 
 Warren's "excuse me????" moment here is so important. We can't afford to let Republicans gaslight the American people.
@@ -554,16 +550,6 @@ is near zero which will be at global minimum?
 
 ----- 
 
-"@davidsirota
-
-Pundits & politicians in the world's richest nation are now
-mainstreaming the idea of sending people back to work during a lethal
-pandemic with no guaranteed paid sick days, no guaranteed health care
-and no guaranteed access to protective gear. What stage of feudalism
-is this?"
-
----
-
 "@MSDNCNews
 
 \#BREAKING:
@@ -590,10 +576,6 @@ Stawks!! Stawks!!
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meanwhile Cramer sees the color of a ticker and tells himself a story about the economy</p>&mdash; Keith McCullough (@KeithMcCullough) <a href="https://twitter.com/KeithMcCullough/status/1242091418384052226?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when you’re a billionaire and you’re getting really annoyed about the Amazon deliveries to your luxury bunker now taking a bit longer than usual 👇🏻 <a href="https://t.co/ATByhne2IA">https://t.co/ATByhne2IA</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1242110271490912256?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

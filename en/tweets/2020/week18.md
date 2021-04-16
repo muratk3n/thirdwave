@@ -287,14 +287,6 @@ fleet of 273 hydrogen fuel cell forklifts"
 
 ---
 
-"@davidsirota
-
-Taxpayers helped fund the development of remdesivir — keep this in
-mind if Gilead attempts to fleece the public with high prices for the
-medicine"
-
----
-
 Hah. Very partisan, colorful history. And former pharma lobbyst - of course.
 
 "After law school [HHS Sec Azar] served as a law clerk under late

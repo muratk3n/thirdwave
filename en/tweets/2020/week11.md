@@ -425,10 +425,6 @@ tests positive?"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We can&#39;t afford Medicare for All&quot; <a href="https://t.co/4MxpuXIsse">https://t.co/4MxpuXIsse</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1238185712576376832?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@AmandaAskell
 
 I panic bought boxes of tea before realizing that no one else in the

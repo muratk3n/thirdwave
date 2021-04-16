@@ -302,12 +302,6 @@ New higher R0 from CDC reanalysis... it’s a 5.7!"
 
 ---
 
-\#Bernie
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a good campaign against the odds in every single way &amp; has clearly changed the course of history for the better. Feel bad but also feel proud — and feel hopeful that Trump will be defeated and the movement for real change will grow. It will. <a href="https://twitter.com/hashtag/InThisTogether?src=hash&amp;ref_src=twsrc%5Etfw">#InThisTogether</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1247911732669898757?ref_src=twsrc%5Etfw">April 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Politically astute ad and timing. 
 
 [Link](https://twitter.com/postXamerica/status/1245867699063803904)

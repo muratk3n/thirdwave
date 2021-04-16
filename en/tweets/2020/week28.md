@@ -28,14 +28,6 @@ Reuters:  "Energy industry veterans to launch hydrogen investment fund"
 
 ---
 
-"@davidsirota
-
-Huge kudos to @BernieSanders for getting the Congressional Budget
-Office to publish this report on tax cheating, and how it relates to
-cuts to the IRS enforcement budget"
-
----
-
 The last of my blogspot blog hits the dust, now all in markdown. There
 is no 'add post' button. There is no 'publish' button. Just files, and
 `git push`.

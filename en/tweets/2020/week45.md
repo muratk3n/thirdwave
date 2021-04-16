@@ -216,15 +216,6 @@ should have fixed in hardware.
 
 ---
 
-"@davidsirota
-
-The Overton Window has moved so far to the right that the debate over
-health care during a pandemic is only over whether or not to help
-insurance companies economically punish sick people for the crime of
-being sick"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is both completely nuts and completely predictable. Censorship invariably ends in impossible policy contradictions and embarrassing logic knots <a href="https://t.co/rTQaPqI8Yp">https://t.co/rTQaPqI8Yp</a> via <a href="https://twitter.com/verge?ref_src=twsrc%5Etfw">@Verge</a></p>&mdash; Chris Anderson (@chr1sa) <a href="https://twitter.com/chr1sa/status/1322347515069431808?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

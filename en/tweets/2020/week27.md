@@ -531,15 +531,6 @@ fabric of society at a 10,000% markup"
 
 ---
 
-"@davidsirota
-
-NEWS: COVID tests were supposed to be free -- but now the Trump
-administration has issued a directive allowing insurance companies to
-charge workers for COVID tests when employers require them to be
-tested before coming back to work"
-
----
-
 "@ppolitics
 
 On June 30, 2000, eight Senate Democrats joined 48 Republicans to kill

@@ -212,14 +212,6 @@ national strategy"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Please don’t make me and my rich friends pay slightly higher taxes” <a href="https://t.co/XcEESIz9IH">https://t.co/XcEESIz9IH</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1262638272133488640?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">love to live in a state that&#39;s home to billionaires &amp; anti-tax lunatics who preach &quot;family values&quot; and then created constitutional provisions that effectively tell everyone&#39;s kids they&#39;ll have to face a lifetime of crushing debt if they ever hope to get a college education <a href="https://t.co/B0koljNKFi">https://t.co/B0koljNKFi</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1262875393918332929?ref_src=twsrc%5Etfw">May 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@RealTimBlack
 
 Stacey Abrams is a Corporate tool who leans very much Republican,

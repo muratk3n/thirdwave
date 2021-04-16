@@ -272,14 +272,6 @@ first election.
 
 ---
 
-via @davidsirota
-
-<img width="240" src="https://pbs.twimg.com/media/EV0EQWDU8AAY7Jp?format=jpg&name=small"/>
-
-<img width="240" src="https://pbs.twimg.com/media/EV0EQWFUMAI31Su?format=jpg&name=small"/>
-
----
-
 Dude that totally sounded like Michael Jackson
 
 ---

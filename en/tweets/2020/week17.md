@@ -969,10 +969,6 @@ rethink the entire system.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few years ago, <a href="https://twitter.com/Hickenlooper?ref_src=twsrc%5Etfw">@Hickenlooper</a> helped his corporate pals kill a paid sick leave initiative -- a move that makes things worse for Colorado workers during this <a href="https://twitter.com/hashtag/COVID?src=hash&amp;ref_src=twsrc%5Etfw">#COVID</a> crisis.<br><br>Hickenlooper shouldn&#39;t be Dems&#39; Senate nominee. <a href="https://twitter.com/Romanoff2020?ref_src=twsrc%5Etfw">@Romanoff2020</a> is a progressive - he should be the nominee. <a href="https://t.co/tedAsI8hYv">pic.twitter.com/tedAsI8hYv</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1251923759067357184?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">fuck it, organized rice <a href="https://t.co/RKDgtXbRwb">pic.twitter.com/RKDgtXbRwb</a></p>&mdash; beep boop bop (@zoopti) <a href="https://twitter.com/zoopti/status/1249926207933763586?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

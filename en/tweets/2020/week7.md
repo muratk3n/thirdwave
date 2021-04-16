@@ -783,10 +783,6 @@ plant"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to be extremely clear: I worked for House Dems, I helped elect a Dem congressman &amp; a Dem governor. I&#39;m literally married to a Dem state representative. <br><br>I have done far more for the Democratic Party than 99.9% of the people trying to read me out of the party. Full stop.</p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1226640328637071361?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Wikipedia's "Download as PDF" feature is awesome. Better than going
 through browser's print as pdf option - internally WP aligns
 everything, PDF looks better 👍🍺

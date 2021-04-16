@@ -458,10 +458,6 @@ NOWPayments"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giving money to people who desperately need it is good policy. Who could have possibly known? <a href="https://t.co/B3e0pk1agg">https://t.co/B3e0pk1agg</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1275426194561748992?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">McPhy Selected to Equip the Largest Zero-Emission <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Mobility Deployment Project in France and one of the Most Ambitious in Europe: <a href="https://twitter.com/hashtag/ZeroEmission?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroEmission</a> Valley--<a href="https://twitter.com/McPhyEnergy?ref_src=twsrc%5Etfw">@McPhyEnergy</a> selected to supply 14 hydrogen stations-<a href="https://t.co/W3BEbuzwdb">https://t.co/W3BEbuzwdb</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/cleanenergy?src=hash&amp;ref_src=twsrc%5Etfw">#cleanenergy</a> <a href="https://twitter.com/hashtag/h2?src=hash&amp;ref_src=twsrc%5Etfw">#h2</a> <a href="https://t.co/gh2wx0XPFA">pic.twitter.com/gh2wx0XPFA</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1273650589109493766?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

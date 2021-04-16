@@ -432,10 +432,6 @@ futuristic.'"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CNBC thinks $400,000 a year of income is only middle class. <br><br>I don’t care what city you live in, $400,000 a year IS NOT MIDDLE CLASS. <a href="https://t.co/ITaswaS6DW">https://t.co/ITaswaS6DW</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1313512554249949185?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@H2Europe
 
 Did you know that Germany has by far the largest \#hydrogen production

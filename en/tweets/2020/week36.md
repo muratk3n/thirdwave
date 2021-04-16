@@ -368,15 +368,6 @@ it". The guy with the big teeth will tell you how.
 
 ---
 
-"@davidsirota
-
-Rahm Emanuel presided over the suppression of a video of a police
-murder of a teenager, then left office in disgrace to become a Wall St
-exec. He’s billed as an honorable Democratic statesman. Meanwhile,
-Medicare for All proponents are called 'grifters.'"
-
----
-
 "The conflict between the haves and have-nots also feeds into another
 major theme of cyberpunk.  Often depicting future dystopias where
 megacorporations wield more power than governments, and rule the world
