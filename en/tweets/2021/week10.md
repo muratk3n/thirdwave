@@ -177,7 +177,7 @@ import pandas as pd
 df = pd.read_csv('../../2020/07/gdpw.csv')
 df = df[df['country'].isin(['Turkey','Greece','United States','China']) ]
 df['gdp'] = df.gdpcap * df.population
-df['new index'] = (df.gdpcap * df.gdp)/1e14
+df['mbindex'] = (df.gdpcap * df.gdp)/1e14
 print (df[['country','mbindex']])
 ```
 
