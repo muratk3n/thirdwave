@@ -469,14 +469,6 @@ content...
 
 ---
 
-@davidsirota
-
-A thought: Making the oligarchic ruling class more diverse should be a
-lower priority than ending the existence of an oligarchic ruling
-class.
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BOSCH to start series manufacturing of 100 kW heavy duty PEM fuel cell stack in Bamberg, Germany, by 2022/2023 [in German: <a href="https://t.co/bImW8iphcm">https://t.co/bImW8iphcm</a>] and in the long-term sees 20% of all EVs being FCEVs (cars, buses, trucks) and advocates rapid ramp-up of green H2 production NOW.</p>&mdash; Reiner (@H2FCEV) <a href="https://twitter.com/H2FCEV/status/1303062615070044160?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
@@ -491,14 +483,6 @@ My youngest hacked our Netflix parental code. She put light grease on
 the remote and got me to input the code when she wasn’t looking. Then
 she noted the numbers I’d pressed and went through the combinations
 later. I’m both frightened and impressed"
-
----
-
-"@davidsirota
-
-Find a life partner as loyal to you as Andrew Cuomo is loyal to his big donors
-
-'Tax the Ultrarich? Cuomo Resists, Even With a $14 Billion Budget Gap -- nytimes.com'"
 
 ---
 

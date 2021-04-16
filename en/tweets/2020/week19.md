@@ -891,14 +891,6 @@ do anything against their class interest.
 
 ---
 
-"@davidsirota
-
-There’s something deeply wrong when a state’s governor gets more
-positive press and becomes more popular as he cuts Medicaid and his
-state leads the world in pandemic deaths"
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: <a href="https://twitter.com/GovJVentura?ref_src=twsrc%5Etfw">@GovJVentura</a> becomes a member of <a href="https://twitter.com/GreenPartyMN?ref_src=twsrc%5Etfw">@GreenPartyMN</a> as co-chair <a href="https://twitter.com/TrahernCrews?ref_src=twsrc%5Etfw">@TrahernCrews</a> looks on. It&#39;s coming!! <a href="https://twitter.com/hashtag/Ventura2020?src=hash&amp;ref_src=twsrc%5Etfw">#Ventura2020</a> <a href="https://twitter.com/hashtag/VforVentura?src=hash&amp;ref_src=twsrc%5Etfw">#VforVentura</a> <a href="https://t.co/xVLlxPmmIr">pic.twitter.com/xVLlxPmmIr</a></p>&mdash; Neil Jones (@dneiljones813) <a href="https://twitter.com/dneiljones813/status/1256630393509462018?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

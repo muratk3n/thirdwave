@@ -2,6 +2,15 @@
 
 # Mortality Rate
 
+Fatality / Cases ratio is around 3%, the cases is for people with
+symptoms. What would be the fatality rate for the broader population?
+On one of those cruise ships which experienced the epidemic in an
+isolated environment, they found about 30% of the people were
+infected. We can assume the virus reached everyone possible on that
+ship. 30% of 3% is nearly 1%. So if given the chance, covid can kill
+1% of an entire population. As a reference point, annual growth of
+world population hovers around 1% as well.
+
 Code is from [2]
 
 <a mame='mortality'/>
@@ -14,10 +23,10 @@ plt.savefig('mort.png')
 ```
 
 ```text
-2/24/21    2.218918
-2/25/21    2.219109
-2/26/21    2.219643
-2/27/21    2.219455
+4/12/21    2.155482
+4/13/21    2.152956
+4/14/21    2.150022
+4/15/21    2.146887
 Name: deaths / 100 confirmed, dtype: float64
 ```
 
@@ -80,17 +89,17 @@ print (df[['Germany +','UK +','US +']].tail(10))
 ```
 
 ```text
-Country/Region  Germany +     UK +      US +
-2/18/21            9845.0  12095.0   69266.0
-2/19/21            9050.0  12099.0  106355.0
-2/20/21            7162.0  10453.0   71510.0
-2/21/21            6094.0   9835.0   56495.0
-2/22/21            4984.0  10659.0   56044.0
-2/23/21            5764.0   8523.0   71436.0
-2/24/21           10774.0   9947.0   74502.0
-2/25/21           11032.0  10020.0   77291.0
-2/26/21            9437.0   8588.0   73006.0
-2/27/21            7671.0   7457.0   68071.0
+Country/Region  Germany +    UK +     US +
+4/6/21             7593.0  2404.0  60544.0
+4/7/21            30377.0  2797.0  75038.0
+4/8/21            26510.0  3124.0  79878.0
+4/9/21            23935.0 -4787.0  82698.0
+4/10/21           18728.0  2713.0  66535.0
+4/11/21            2706.0  1730.0  46380.0
+4/12/21           12446.0  3686.0  70230.0
+4/13/21           29421.0  2505.0  77878.0
+4/14/21           31117.0  2529.0  75375.0
+4/15/21           25110.0  2766.0  74289.0
 ```
 
 <a name='Rt'/>
@@ -116,11 +125,11 @@ plt.savefig('Rt-US.png')
 ```
 
 ```text
-195    1.017378
-196    1.017080
-197    1.016888
-198    1.016570
-199    1.016272
+195    1.013563
+196    1.013634
+197    1.013765
+198    1.013877
+199    1.013940
 Name: 1, dtype: float64
 ```
 

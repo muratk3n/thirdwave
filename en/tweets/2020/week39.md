@@ -67,10 +67,6 @@ really fast"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The old “normal” was bad because in the old “normal” a financial crisis destroyed millions of lives, people were being bankrupted by health insurers and the climate crisis was destroying the ecosystem. <br><br>We need to do something more than just going back to that old “normal.” <a href="https://t.co/svXd6M8GPX">https://t.co/svXd6M8GPX</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1309207348058095617?ref_src=twsrc%5Etfw">September 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 The downside is if there is too much change, the sensors are
 overloaded, the result: future shock.
 
@@ -602,15 +598,6 @@ Country/Region  Germany +  Germany %    UK +      UK %
 Looks like higher than average, yes.
 
 [Link](../../2020/02/corona.md#daily)
-
----
-
-"@davidsirota
-
-Sorta feel like our future is Tatooine — it’s hot and dry and all the
-gadgets are super cool but decaying and dusty and the place is run by
-local gangsters with a national government that is just a stormtrooper
-militia but provides no public services"
 
 ---
 

@@ -536,10 +536,6 @@ of all governments."
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Lincoln Project&#39;s founder is angry that The <a href="https://twitter.com/dailyposter?ref_src=twsrc%5Etfw">@DailyPoster</a> published this report on how ineffective their ads were, and how they incinerated $67 million of liberals&#39; money that coulda gone to help Dems win state legislatures in advance of redistricting: <a href="https://t.co/WTn7cqyKHk">https://t.co/WTn7cqyKHk</a> <a href="https://t.co/0ft2gGOHPQ">https://t.co/0ft2gGOHPQ</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1325487694625927173?ref_src=twsrc%5Etfw">November 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 "@ryanobles
 
 Because it took longer than normal to count the votes, there is the

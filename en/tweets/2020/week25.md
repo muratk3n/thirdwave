@@ -542,17 +542,6 @@ November"
 
 ---
 
-"@davidsirota
-
-NEWS: Trump just quietly gave private equity a huge gift that could
-transfer hundreds of billions of dollars from workers to Wall Street
-billionaires.
-
-The move followed a $3 MILLION super PAC donation from the private
-equity mogul pushing for the change"
-
----
-
 "Australian hydrogen generation set to soar with Sydney-based Amtronics"
 
 ---

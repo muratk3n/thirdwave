@@ -579,10 +579,6 @@ Willetts. 'They just think: who’s the gambler?' "
 
 ---
 
-[BERN NOTICE](https://mobile.twitter.com/davidsirota/status/1167839033382195200)
-
----
-
 "@premnsikka
 
 The Rentier Class: Hedge funds make £7bn bet against pound as Brexit

@@ -412,11 +412,6 @@ win a state-wide race. His record as mayor is not exactly stellar"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/OKBillionaire?src=hash&amp;ref_src=twsrc%5Etfw">#OKBillionaire</a> <a href="https://t.co/R3moRDaDTl">https://t.co/R3moRDaDTl</a></p>&mdash; David Sirota (@davidsirota) <a href="https://twitter.com/davidsirota/status/1193278187339272192?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-
 That's hilarious
 
 "@lopp
