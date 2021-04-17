@@ -1,62 +1,98 @@
 # Tweets
 
+Having worked on control code for inverted pendulum, can say this is awesome
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The EU <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> Backbone initiative updated its vision for a dedicated <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a> transport infrastructure across Europe. The group proposes a hydrogen network of 39,700km by 2040, with further growth expected after 2040. This grid connects 21 ?? countries.<a href="https://t.co/WbLo5y9nms">https://t.co/WbLo5y9nms</a> <a href="https://t.co/43DRmGv0Pb">pic.twitter.com/43DRmGv0Pb</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1382636089475747847?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@H2Standard
-
-Loop Energy and BayoTech have entered into a #hydrogen vehicle
-deployment agreement focusing on #fuelcell vehicles and #h2
-infrastructure. Purpose is to build 360-degree ecosystem incl service
-providers, fueling solutions and component suppliers"
-
-[Link](https://bit.ly/3wRoboZ)
+<iframe width="340"  src="https://www.youtube.com/embed/cyN-CRNrb3E?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/nikolamotor?ref_src=twsrc%5Etfw">@nikolamotor</a>, <a href="https://twitter.com/IVECO?ref_src=twsrc%5Etfw">@IVECO</a> &amp; <a href="https://twitter.com/OpenGridEurope?ref_src=twsrc%5Etfw">@OpenGridEurope</a> announced their intention of collaborating to establish a business structure for transporting <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> via pipeline network from production sources to H2 refuelling stations in support of <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> electric vehicles<a href="https://t.co/tuJsKhwErL">https://t.co/tuJsKhwErL</a></p>&mdash; Hydrogen Europe (@H2Europe) <a href="https://twitter.com/H2Europe/status/1382665247870304256?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@gabriel_zucman
+
+Post Trump tax reform, the United States collects less corporate
+income tax revenue (as a fraction of GDP) than all other OECD
+countries. Even Hungary, with its 9% tax rate, does better than the
+US...
+
+This matters because, fundamentally, the corporate tax is a minimum
+tax for the very rich. Bezos, Buffett, Zuckerberg, etc can avoid the
+individual income tax by asking their companies not to pay
+dividends. But they still have to pay the corporate tax
+
+Except now it's almost gone"
 
 ---
 
-Didnt QE say about the 2008 crisis 'it's awful - Why did nobody see it
-coming?' That sounds like this is not someone who likes to remain
-up-to-date on matters, but *has* to
+As discussions on how to help save local news continue, new bills and
+ideas have come to the fore. Independent newspapers are coalescing
+around the Local Journalism Sustainability Act which proposes direct
+subsidies (in the form of tax credits) for news subscribers, local
+journalists and small business advertisers. Sweden has a similar news
+subsidy system.
+
+Large media outlets are backing the Journalism Competition and
+Preservation Act which will allow outlets to band together to
+negotiate with Google and Facebook. In some ways this is like
+Australia’s recent News Media and Digital Platforms Mandatory
+Bargaining Code"
+
+[Link](https://www.cjr.org/business_of_news/how-to-fund-local-news.php)
 
 ---
 
-What is more surprising to me is *how come this wasn't known before*?
+Another former Airbus CTO, pursuing my favorite first element
 
-"Now we know that the mysterious ‘Queen’s consent’ is more than just a
-procedural formality, it must be scrapped.. The anti-democratic
-potential of the consent process is obvious: it gives the Queen a
-possible veto, to be exercised in secret, over proposed laws"
+"@graziavittadini
 
-[Link](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent)
+The ultimate vision is zero emission.
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hyped on <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>? Read our latest in-focus article and find out how hydrogen ⚡️ will <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> the EU 🇪🇺 economy and drive the green 💚 <a href="https://twitter.com/hashtag/energytransition?src=hash&amp;ref_src=twsrc%5Etfw">#energytransition</a>! <a href="https://t.co/EALJRmWUAI">https://t.co/EALJRmWUAI</a> <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> <a href="https://twitter.com/hashtag/ClimateNeutralEU?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateNeutralEU</a> <a href="https://t.co/r2cWHHmyCQ">pic.twitter.com/r2cWHHmyCQ</a></p>&mdash; Energy4Europe 🇪🇺 (@Energy4Europe) <a href="https://twitter.com/Energy4Europe/status/1382326600616841224?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+One main key is \#hydrogen"
 
 ---
 
-"@JosephEStiglitz
+Yea thats f...d up. They destroyed that guy jus bcz he was successful
+against them in the court of law.
 
-Intellectual property rights for Covid-19 vaccines must be suspended
-to boost inoculation rates around the world. It's that simple"
+Jacobin: "When human rights lawyer Steven Donziger won a
+multibillion-dollar lawsuit against the oil giant Chevron, the company
+retaliated by setting out to destroy Donziger’s life. Now in his
+twentieth month of house arrest on the orders of a Chevron-linked
+judge, his Kafkaesque story is a window into the corrupt and
+corporate-captured US legal system"
 
 ---
 
-"Former world leaders urge Biden to waive COVID vaccine patents More
-than 170 former world leaders and Nobel laureates say waiver is key to
-ramp up global vaccine production. At the current rate, the world’s
-poorest nations will have to wait until at least 2024 to reach 'mass
-immunisation', the signatories, which included former UK Prime
-Minister Gordon Brown, ex-French President François Hollande and
-Muhammad Yunus, winner of the Nobel Peace Prize"
+"EU-UK talks over Brexit fail to reach breakthrough.. Top European
+Union and British officials failed to get a breakthrough at talks on
+Northern Ireland trade rules"
 
-[Link](https://www.aljazeera.com/news/2021/4/14/world-leaders-call-on-biden-authorise-covid-vaccine-patent-waiver)
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AHC member H2U will be joining forces with RWE to develop hydrogen trading between Australia and Germany. The new MoU will involve the production and export of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> at the Eyre Peninsula Gateway in South Australia. Well done to all involved. <a href="https://t.co/buuh5yAhKz">https://t.co/buuh5yAhKz</a></p>&mdash; Australian Hydrogen Council (@H2MobilityAus) <a href="https://twitter.com/H2MobilityAus/status/1382929898457636866?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+39,700 kilometers! That is enough pipeline to circle to globe! 
+
+"@H2Europe
+
+The EU \#Hydrogen Backbone initiative updated its vision for a
+dedicated #H2 transport infrastructure across Europe. The group
+proposes a hydrogen network of 39,700km by 2040"
+
+---
+
+"@ExpressDrives
+
+Hydrogen-fuel cell cars likely to fall under FAME II rules: Huge
+benefits possible [India]"
+
+[Link](https://twitter.com/ExpressDrives/status/1382656082040950787)
+
+---
+
+🤣 🤣 🤣 
+
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&quot;I think that was vodka that&#39;s now in my eye.&quot;<br><br>Our correspondent <a href="https://twitter.com/olivermiocic?ref_src=twsrc%5Etfw">@olivermiocic</a> has been covering today&#39;s protests from Lyon. Things got messy a few times. <a href="https://twitter.com/hashtag/greve5decembre?src=hash&amp;ref_src=twsrc%5Etfw">#greve5decembre</a> (pension reforms strikes) <a href="https://t.co/BwqJUhkrAr">pic.twitter.com/BwqJUhkrAr</a></p>&mdash; euronews (@euronews) <a href="https://twitter.com/euronews/status/1202592072806612994?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
