@@ -22,12 +22,12 @@ Having worked on control code for inverted pendulum, can say this is awesome
 
 ---
 
-As discussions on how to help save local news continue, new bills and
-ideas have come to the fore. Independent newspapers are coalescing
-around the Local Journalism Sustainability Act which proposes direct
-subsidies (in the form of tax credits) for news subscribers, local
-journalists and small business advertisers. Sweden has a similar news
-subsidy system.
+CJR: "As discussions on how to help save local news continue, new
+bills and ideas have come to the fore. Independent newspapers are
+coalescing around the Local Journalism Sustainability Act which
+proposes direct subsidies (in the form of tax credits) for news
+subscribers, local journalists and small business advertisers. Sweden
+has a similar news subsidy system.
 
 Large media outlets are backing the Journalism Competition and
 Preservation Act which will allow outlets to band together to
