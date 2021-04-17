@@ -90,7 +90,7 @@ benefits possible [India]"
 
 ---
 
-🤣 🤣 🤣 
+🤣 
 
 <blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&quot;I think that was vodka that&#39;s now in my eye.&quot;<br><br>Our correspondent <a href="https://twitter.com/olivermiocic?ref_src=twsrc%5Etfw">@olivermiocic</a> has been covering today&#39;s protests from Lyon. Things got messy a few times. <a href="https://twitter.com/hashtag/greve5decembre?src=hash&amp;ref_src=twsrc%5Etfw">#greve5decembre</a> (pension reforms strikes) <a href="https://t.co/BwqJUhkrAr">pic.twitter.com/BwqJUhkrAr</a></p>&mdash; euronews (@euronews) <a href="https://twitter.com/euronews/status/1202592072806612994?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
