@@ -1,11 +1,5 @@
 # Tweets
 
-Having worked on control code for inverted pendulum, can say this is awesome
-
-<iframe width="340"  src="https://www.youtube.com/embed/cyN-CRNrb3E?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 "@gabriel_zucman
 
 Post Trump tax reform, the United States collects less corporate
@@ -19,6 +13,12 @@ individual income tax by asking their companies not to pay
 dividends. But they still have to pay the corporate tax
 
 Except now it's almost gone"
+
+---
+
+Having worked on control code for inverted pendulum, can say this is awesome
+
+<iframe width="340"  src="https://www.youtube.com/embed/cyN-CRNrb3E?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
