@@ -26,7 +26,7 @@ they will be the fruits of lifelong, very prolonged and totally
 dedicated training, which may have commenced in early youth and
 required an almost complete renunciation of other concerns. The
 achievements of craft and art production in these societies are
-extremely labour- and skill-intensive, and often reach levels of
+extremely labour-and skill-intensive, and often reach levels of
 intricacy and perfection never remotely equalled by anything later
 attained by industrial societies, whose domestic arts and decorations,
 gastronomy, tools and adornments are notoriously shoddy [..].
