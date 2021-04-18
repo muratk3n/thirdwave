@@ -6,15 +6,6 @@ Incredible Bongo Band - (I Can't Get No) Satisfaction \#music
 
 ---
 
-DC requires mining too.. incredibly stupid. Crypto should not require
-mining, and it should allow its money base to expand, ad infinitum
-
-"Dogecoin spikes 400% in a week, stoking fears of a cryptocurrency
-bubble.. Defying all odds, dogecoin is now worth $40 billion, and its
-price has risen by a whopping 300% in the last seven days"
-
----
-
 WSJ: "With Militants Gaining New Footholds, Afghanistan No Longer
 Central to Counterterrorism Fight"
 
@@ -82,6 +73,15 @@ A new study suggests large chunks of police work can be safely
 transitioned to non-police public safety workers: Across five cities,
 between 23 and 45 percent of 911 calls were for issues like noise
 complaints, disorderly conduct, and wellness checks"
+
+---
+
+DC requires mining too.. incredibly stupid. Crypto should not require
+mining, and it should allow its money base to expand, ad infinitum
+
+"Dogecoin spikes 400% in a week, stoking fears of a cryptocurrency
+bubble.. Defying all odds, dogecoin is now worth $40 billion, and its
+price has risen by a whopping 300% in the last seven days"
 
 ---
 
