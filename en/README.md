@@ -55,6 +55,18 @@ Proven tech.
 
 ---
 
+<img width="340" src="https://pbs.twimg.com/media/EzGog7WVcAMUaUG?format=jpg&name=medium"/>
+
+---
+
+@PplsCityCouncil
+
+... we give LAPD $3 billion every year! They have already shot 14
+people this year.
+
+---
+
+
 If more work was offloaded to other kinds of social workers, than
 there'd be less need for police, than less funds for them; ergo it'd
 be *defunding the police*. Notice this is not the same as saying "f..k
