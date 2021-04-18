@@ -31,7 +31,7 @@ to do personal tasks -watchdog"
 
 ---
 
-CH doesnt have to lie on its GDP numbers; but the number could be
+CH doesnt have to lie on its GDP numbers; the number could be
 "juiced", based on dumb expenditure, not innovation. Wanna double GDP,
 build another ghost city. Dig up holes, fill them back up again. Done.
 
