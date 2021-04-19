@@ -59,6 +59,13 @@ interesting games
 
 ---
 
+Market did right on this one, Coinbase offers services for many
+different cryptos, it's not tied down by any shitcoin.
+
+"Coinbase's IPO Lived Up to the Hype"
+
+---
+
 Ethereum DApps arguably offers distributed apps but their platform
 emerged out of (another badly designed) crypto. Its founder is not an
 system architecture guy.. I remember hearing performance issues a
