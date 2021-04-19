@@ -71,10 +71,10 @@ different cryptos, it's not tied down by any shitcoin.
 ---
 
 Ethereum DApps arguably offers distributed apps but their platform
-emerged out of (another badly designed) crypto. Its founder is not an
+emerged out of another (badly designed) crypto. Its founder is not an
 system architecture guy.. I remember hearing performance issues a
 while back. Better to start clean slate for distributed apps, then
-plop on there whatever apps you like or need. 
+plop on there whatever apps 1 might like or need.
 
 ---
 
