@@ -64,7 +64,7 @@ Both Coinbase and DFinity are backed by a16z oddly enough
 ---
 
 Market did right on this one, Coinbase offers services for many
-different cryptos, it's not tied down by any shitcoin.
+different cryptos, it's not tied down to any single shitcoin.
 
 "Coinbase's IPO Lived Up to the Hype"
 
