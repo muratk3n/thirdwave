@@ -1,27 +1,5 @@
 # Tweets
 
-Some World War 4 level shit going on down there..
-
-"Myanmar’s Protesters Face Down the Military With Slingshots and Rocks"
-
----
-
-"Indianapolis gunman ...  Brandon Hole legally bought two rifles
-despite having had a gun confiscated by police months before"
-
----
-
-Force feeding?
-
-The wonders of running a country with weak democracy -- u get to
-decide whether to force feed a guy or not.
-
-"Putin critic Navalny 'will not be allowed to die in
-prison'... Russia's ambassador to the UK says opposition leader Alexei
-Navalny's medical treatment will be "taken care of""
-
----
-
 Heat water through geothermal, rotate turbine, create H2, ship it over
 pipelines.
 
@@ -49,6 +27,28 @@ worldwide (Shere, 2013). Moreover, there is a strong economic case for
 the deployment of geothermal energy"
 
 [Link](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2017/Aug/IRENA_Geothermal_Power_2017.pdf&ved=2ahUKEwj1jqKW4ofwAhUn_rsIHSqZCjYQFjAOegQIEBAG&usg=AOvVaw34lrv1Ic-eGcupThfJ4TuD)
+
+---
+
+Some World War 4 level shit going on down there..
+
+"Myanmar’s Protesters Face Down the Military With Slingshots and Rocks"
+
+---
+
+"Indianapolis gunman ...  Brandon Hole legally bought two rifles
+despite having had a gun confiscated by police months before"
+
+---
+
+Force feeding?
+
+The wonders of running a country with weak democracy -- u get to
+decide whether to force feed a guy or not.
+
+"Putin critic Navalny 'will not be allowed to die in
+prison'... Russia's ambassador to the UK says opposition leader Alexei
+Navalny's medical treatment will be "taken care of""
 
 ---
 
