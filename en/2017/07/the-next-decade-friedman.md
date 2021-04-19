@@ -11,16 +11,51 @@ create a force whose population, technological and industrial
 capability, and natural resources would at the very least equal
 America’s, and in all likelihood outstrip them. ...
 
+Russia
+
+Putin’s strategy of focusing on energy production and export is a
+superb short-term tool, but it works only if it forms the basis for
+major economic expansion. To achieve this larger objective, Russia has
+to deal with its underlying structural weaknesses, yet these
+weaknesses are rooted in geographical problems that are not readily
+overcome.
+
+Unlike much of the industrial world, Russia has both a relatively
+small population for its size and a population that is highly
+dispersed, tied together by little more than a security apparatus and
+a common culture.
+
+Even the major cities, such as Moscow and St. Petersburg, are not the
+centers of a giant megalopolis. They are stand-alone entities,
+separated from each other by vast distances of farmland and
+forest. Leaving apart the fact that the Russian population is in
+decline, the current distribution of population makes a modern
+economy, or even efficient distribution of food, difficult, if not
+impossible. The infrastructure connecting farming areas to the city is
+poor, as is the infrastructure connecting industrial and commercial
+centers.
+
+<a name='ruriver'/>
+
+The problem in connectivity stems from the fact that Russia’s rivers
+go the wrong way. Unlike American rivers, which connect farming
+country to ports where food can be distributed, Russian rivers merely
+create barriers. Neither the czars and their railway bonds nor Stalin
+with his enforced starvation ever came close to overcoming the
+problem, and the cost of building a connective tissue for the Russian
+economy—extensive rail systems and roads—remains staggering. Russia
+has always wielded a military force that outstripped its economy,
+
 Germany
 
-[From The Next Decade] History had placed Germany on the north of the
-North European Plain, an area with a few rivers to serve as defenses,
-but some of the most productive parts of this new nation-state were on
-the opposite bank of the Rhine, completely unprotected. To the west
-was France. To the east was Russia. Both had enjoyed the centuries
-when Germany was fragmented and weak, but now there was a frightening
-new Germany, economically the most dynamic country in Europe, with a
-powerful military and with a deep sense of insecurity.
+History had placed Germany on the north of the North European Plain,
+an area with a few rivers to serve as defenses, but some of the most
+productive parts of this new nation-state were on the opposite bank of
+the Rhine, completely unprotected. To the west was France. To the east
+was Russia. Both had enjoyed the centuries when Germany was fragmented
+and weak, but now there was a frightening new Germany, economically
+the most dynamic country in Europe, with a powerful military and with
+a deep sense of insecurity.
 
 Germany in turn was frightened by its neighbors’ fears. Germany’s
 leaders knew their nation could not survive if it was attacked
