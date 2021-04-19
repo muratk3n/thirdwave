@@ -52,7 +52,7 @@ Navalny's medical treatment will be "taken care of""
 
 ---
 
-Im going to guess the latter shot locations resuled in less
+Im going to guess the latter shot locations resulted in less
 interesting games
 
 <img width="340" src="https://pbs.twimg.com/media/EzQhsRQUYAk2bkY?format=jpg&name=small"/>
@@ -61,11 +61,12 @@ interesting games
 
 Crypto mining is there to encourage people to share their computing
 resources with the network right? First of all, Nano proved you can
-have a crypto without mining, but, let's say for it's nice to have a computing
-resources for additional services. Then, wouldnt a computing environment
-that promises constant availability of such resource be a better fit for
-a crypto? I am thinking of DFinity Internet Computer now. A crypto would
-be just another app for this platform.
+have a crypto without mining, but, let's say for u need computing
+resources for additional services. Then, wouldnt a computing
+environment that promises constant availability of such resources, and
+offers them peer-to-peer, be a better fit for a crypto? I am thinking
+of DFinity Internet Computer right now.. A crypto would be just
+another app on such a platform. 
 
 ---
 
