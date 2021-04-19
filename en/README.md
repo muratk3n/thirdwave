@@ -59,6 +59,14 @@ interesting games
 
 ---
 
+Ethereum DApps arguably offers distributed apps but their platform
+emerged out of (another badly designed) crypto. Its founder is not an
+system architecture guy.. I remember hearing performance issues a
+while back. Better to start clean slate for distributed apps, then
+plop on there whatever apps you like or need. 
+
+---
+
 Crypto mining is there to encourage people to share their computing
 resources with the network right? First of all, Nano proved you can
 have a crypto without mining, but, let's say for u need computing
