@@ -80,7 +80,7 @@ plop on there whatever apps you like or need.
 
 Crypto mining is there to encourage people to share their computing
 resources with the network right? First of all, Nano proved you can
-have a crypto without mining, but, let's say for u need computing
+have a crypto without mining, but, let's say u need computing
 resources for additional services. Then, wouldnt a computing
 environment that promises constant availability of such resources, and
 offers them peer-to-peer, be a better fit for a crypto? I am thinking
