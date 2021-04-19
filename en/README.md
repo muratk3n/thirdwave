@@ -66,7 +66,8 @@ resources for additional services. Then, wouldnt a computing
 environment that promises constant availability of such resources, and
 offers them peer-to-peer, be a better fit for a crypto? I am thinking
 of DFinity Internet Computer right now.. A crypto would be just
-another app on such a platform. 
+another app on such a platform. There will be chat app, social net
+app, and crypto app.
 
 ---
 
