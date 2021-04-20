@@ -89,9 +89,9 @@ democratize..
 Navalny has a feel for working the media, public opinion.. He rode the
 momentum after his recovery, w that Putin's Palace stuff, then his
 travel back to Russia, clearly with an eye towards US since the new
-admin talked about defending democracy.. Whatever the tactics though,
-one cannot deny he is fighting for democracy, and willing to put his
-life on the line for it.
+admin talked about not accommodating autocrats.. Whatever the tactics
+though, one cannot deny he is fighting for democracy, and willing to
+put his life on the line for it.
 
 ---
 
