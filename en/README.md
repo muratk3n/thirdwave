@@ -1,11 +1,5 @@
 # Tweets
 
-Word is Biden will recognize the "alleged" Armenian genocide claims
-this time around (April 24th)? No more Mr. Nice Guy \#WhiteHouse. TR
-nationalists will go apeshit.
-
----
-
 "@TonyRomm
 
 News: Manchin says at event with the National Press Club he is
@@ -27,6 +21,12 @@ on-site mailbox; surveillance; interrogation"
 "How cancer put me off joining Amazon union"
 
 [Link](https://www.bbc.com/news/technology-56742772)
+
+---
+
+Word is Biden will recognize the "alleged" Armenian genocide claims
+this time around (April 24th)? No more Mr. Nice Guy \#WhiteHouse. TR
+nationalists will go apeshit.
 
 ---
 
