@@ -94,8 +94,6 @@ put his life on the line for it.
 "Heating and cooling in buildings is responsible for 40% of energy consumption
 36% of emissions"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuel cells for homes create conditions for a cleaner and greener Europe, bringing independence in energy supply and achieving a sustainable and climate friendly future.<a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> <a href="https://t.co/DLthxy0o2k">pic.twitter.com/DLthxy0o2k</a></p>&mdash; PACE (@PACEmCHP) <a href="https://twitter.com/PACEmCHP/status/1384152718910967809?ref_src=twsrc%5Etfw">April 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
 
 As tech challenges these are good; but still, human colonization of
