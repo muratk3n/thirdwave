@@ -2,16 +2,16 @@
 
 "@TonyRomm
 
-News: Manchin says at event with the National Press Club he is
-co-sponsoring PRO Act, saying it will "level the playing field" for
-union workers, adding he wants to work with both parties to move it
-through the 'legislative process.'"
+Manchin says at event with the National Press Club he is co-sponsoring
+PRO Act, saying it will 'level the playing field' for union workers,
+adding he wants to work with both parties to move it through the
+'legislative process.'"
 
 ---
 
 "@josheidelson
 
-New: Union asks Labor Board to nullify Amazon election result, citing
+Union asks Labor Board to nullify Amazon election result, citing
 alleged misconduct including threat to shutter the warehouse; firing
 an employee for circulating union cards; defying mail-ballot order via
 on-site mailbox; surveillance; interrogation"
