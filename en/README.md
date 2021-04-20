@@ -38,11 +38,9 @@ partner IVECO and German pipeline company OGE will work together to
 transport hydrogen to stations serving commercial fuel cell electric
 vehicles (FCEVs). The 124-mile natural gas pipeline network will move
 hydrogen from where it is produced to hydrogen stations. Nikola will
-not begin heavy-duty fuel cell truck production until late 2022.
+not begin heavy-duty fuel cell truck production until late 2022...
 
-A lot of details of the three-way partnership remain uncertain, such
-as roles and responsibilities and how the collaboration will govern
-itself. 'We believe this collaboration, in particular, presents a very
+'We believe this collaboration, in particular, presents a very
 compelling long-term fueling distribution solution that we expect to
 advance industry and overall market adoption of FCEV technologies,'
 Nikola President of Energy and Commercial Pablo Koziner said in a
