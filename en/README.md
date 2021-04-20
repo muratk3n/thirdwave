@@ -25,8 +25,7 @@ on-site mailbox; surveillance; interrogation"
 ---
 
 Word is Biden will recognize the "alleged" Armenian genocide claims
-this time around (April 24th)? No more Mr. Nice Guy \#WhiteHouse. TR
-nationalists will go apeshit.
+this time around (April 24th)? No more Mr. Nice Guy \#WhiteHouse. 
 
 ---
 
