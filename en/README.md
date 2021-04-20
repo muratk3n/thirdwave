@@ -53,15 +53,13 @@ press release"
 ---
 
 "One country that has already seen significant growth in fuel cell
-usage is South Korea. POWER reported on three new electricity
-generating facilities based on fuel cell technology that were deployed
-in South Korea last summer: a 50-MW power plant placed in service by
-Hanwha Energy at its Daesan Industrial Complex in Seosan, a 19.8-MW
-installation in Hwasung, and an 8.1-MW facility in Paju.
-
-'Part of the magic that we’re seeing in Korea as it relates to
-stationary power using fuel cells is incentives,' said Joe Cargnelli,
-director of engineering for Cummins’ Fuel Cell and Hydrogen
+usage is South Korea. *Power* [magazine] reported on three new
+electricity generating facilities based on fuel cell technology that
+were deployed in South Korea last summer: a 50-MW power plant placed
+in ...  Seosan, a 19.8-MW installation in Hwasung, and an 8.1-MW
+facility in Paju. 'Part of the magic that we’re seeing in Korea as it
+relates to stationary power using fuel cells is incentives,' said Joe
+Cargnelli, director of engineering for Cummins’ Fuel Cell and Hydrogen
 Technologies division. “What Korea has done is they’ve created
 essentially the feed-in tariff for fuel cells—for stationary fuel
 cells. So, if you think back to how solar energy and wind energy got
