@@ -1,98 +1,117 @@
 # Tweets
 
-Heat water through geothermal, rotate turbine, create H2, ship it over
-pipelines.
+Word is Biden will recognize the "alleged" Armenian genocide claims
+this time around (April 24th)? No more Mr. Nice Guy \#WhiteHouse. TR
+nationalists will go apeshit.
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/vZLo0-lwK1k?start=75&end=648" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@TonyRomm
+
+News: Manchin says at event with the National Press Club he is
+co-sponsoring PRO Act, saying it will "level the playing field" for
+union workers, adding he wants to work with both parties to move it
+through the 'legislative process.'"
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/c7dy0hUZ9xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"@josheidelson
+
+New: Union asks Labor Board to nullify Amazon election result, citing
+alleged misconduct including threat to shutter the warehouse; firing
+an employee for circulating union cards; defying mail-ballot order via
+on-site mailbox; surveillance; interrogation"
 
 ---
 
-No wonder, under the crust there is magma, at 1000° C degrees, only
-the Sun itself is hotter (5000° C). Hell the inner Earth core is as
-hot as the Sun! So theoretically it is unlimited energy. Challanges
-are drilling, finding pockets close enough.
+"How cancer put me off joining Amazon union"
+
+[Link](https://www.bbc.com/news/technology-56742772)
 
 ---
 
-"Geothermal power has considerable potential for growth. The amount of
-heat within 10 000 metres of the earth's surface is estimated to
-contain 50 000 times more energy than all oil and gas resources
-worldwide (Shere, 2013). Moreover, there is a strong economic case for
-the deployment of geothermal energy"
-
-[Link](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2017/Aug/IRENA_Geothermal_Power_2017.pdf&ved=2ahUKEwj1jqKW4ofwAhUn_rsIHSqZCjYQFjAOegQIEBAG&usg=AOvVaw34lrv1Ic-eGcupThfJ4TuD)
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">✈️ Join us at the Electric and Hybrid Aerospace Technology Virtual Live! <br><br>📍 Register here: <a href="https://t.co/2sxFxoRD4S">https://t.co/2sxFxoRD4S</a><br><br>📅 When? Wednesday 21st, April (6:55pm SGT; 12:55pm French Time)<br>💻 Where? Online<a href="https://twitter.com/EHAerospaceTech?ref_src=twsrc%5Etfw">@EHAerospaceTech</a> <a href="https://twitter.com/hashtag/beyond1000solutions?src=hash&amp;ref_src=twsrc%5Etfw">#beyond1000solutions</a> <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://t.co/45mVqrlH41">pic.twitter.com/45mVqrlH41</a></p>&mdash; H3 Dynamics Group (@H3_Dynamics) <a href="https://twitter.com/H3_Dynamics/status/1384091908142628873?ref_src=twsrc%5Etfw">April 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Some World War 4 level shit going on down there..
+"Nikola Corp. (NASDAQ: NKLA), its European joint venture manufacturing
+partner IVECO and German pipeline company OGE will work together to
+transport hydrogen to stations serving commercial fuel cell electric
+vehicles (FCEVs). The 124-mile natural gas pipeline network will move
+hydrogen from where it is produced to hydrogen stations. Nikola will
+not begin heavy-duty fuel cell truck production until late 2022.
 
-"Myanmar’s Protesters Face Down the Military With Slingshots and Rocks"
+A lot of details of the three-way partnership remain uncertain, such
+as roles and responsibilities and how the collaboration will govern
+itself. 'We believe this collaboration, in particular, presents a very
+compelling long-term fueling distribution solution that we expect to
+advance industry and overall market adoption of FCEV technologies,'
+Nikola President of Energy and Commercial Pablo Koziner said in a
+press release"
 
----
-
-"Indianapolis gunman ...  Brandon Hole legally bought two rifles
-despite having had a gun confiscated by police months before"
-
----
-
-Force feeding?
-
-The wonders of running a country with weak democracy -- u get to
-decide whether to force feed a guy or not.
-
-"Putin critic Navalny 'will not be allowed to die in
-prison'... Russia's ambassador to the UK says opposition leader Alexei
-Navalny's medical treatment will be "taken care of""
+[Link](https://www.freightwaves.com/news/nikola-finds-hydrogen-distributor-for-future-european-fuel-cell-trucks)
 
 ---
 
-Im going to guess the latter shot locations resulted in less
-interesting games
+"One country that has already seen significant growth in fuel cell
+usage is South Korea. POWER reported on three new electricity
+generating facilities based on fuel cell technology that were deployed
+in South Korea last summer: a 50-MW power plant placed in service by
+Hanwha Energy at its Daesan Industrial Complex in Seosan, a 19.8-MW
+installation in Hwasung, and an 8.1-MW facility in Paju.
 
-<img width="340" src="https://pbs.twimg.com/media/EzQhsRQUYAk2bkY?format=jpg&name=small"/>
+'Part of the magic that we’re seeing in Korea as it relates to
+stationary power using fuel cells is incentives,' said Joe Cargnelli,
+director of engineering for Cummins’ Fuel Cell and Hydrogen
+Technologies division. “What Korea has done is they’ve created
+essentially the feed-in tariff for fuel cells—for stationary fuel
+cells. So, if you think back to how solar energy and wind energy got
+started back in the mid-90s, it was through a solar feed-in tariff and
+a wind tariff, and it started in Germany and kind of caught on, and
+that’s what sort of gave solar and wind their start. Korea has done
+that for fuel cells and stationary power. So, they have incentives
+that promote the deployment of stationary fuel cells and [they’ve
+been] highly successful, and I think it’s a great strategy.'"
 
----
-
-Both Coinbase and DFinity are backed by a16z oddly enough
-
----
-
-Market did right on this one, Coinbase offers services for many
-different cryptos, it's not tied down to any single shitcoin.
-
-"Coinbase's IPO Lived Up to the Hype"
-
----
-
-Ethereum DApps arguably offers distributed apps but their platform
-emerged out of another (badly designed) crypto. Its founder is not an
-system architecture guy.. I remember hearing performance issues a
-while back. Better to start clean slate for distributed apps, then
-plop on there whatever apps 1 might like or need.
+[Link](https://www.powermag.com/whats-been-holding-hydrogen-fuel-cells-back-and-how-to-change-that/)
 
 ---
 
-Crypto mining is there to encourage people to share their computing
-resources with the network right? First of all, Nano proved you can
-have a crypto without mining, but, let's say u need computing
-resources for additional services. Then, wouldnt a computing
-environment that promises constant availability of such resources, and
-offers them peer-to-peer, be a better fit for a crypto? I am thinking
-of DFinity Internet Computer right now.. A crypto would be just
-another app on such a platform. There will be chat app, social net
-app, and crypto app.
+What defines whether a country becomes democratic or authoratic? Geo
+plays a role? Russia's rivers flow in the [wrong direction](2017/07/the-next-decade-friedman.md#rurivers).
+Geo forms a big obstacle, then the state has to help more, then
+later becomes a burden itself?
+
+Still no excuse to get stuck where u r, utilize tech, strenghten infra, and
+democratize.. 
 
 ---
 
-Man geo mapping with some tools is a pain in the ass.. Leaflet.js is a
-lightweight, relatively new approach tho, I like it. For Py access,
-Folium.
+Navalny has a feel for working the media, public opinion.. He rode the
+momentum after his recovery, w that Putin's Palace stuff, then his
+travel back to Russia, clearly with an eye towards US since the new
+admin talked about defending democracy.. But all that aside he is
+fighting for democracy, and willing to put his life on the line for
+it.
+
+---
+
+"Heating and cooling in buildings is responsible for 40% of energy consumption
+36% of emissions"
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuel cells for homes create conditions for a cleaner and greener Europe, bringing independence in energy supply and achieving a sustainable and climate friendly future.<a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> <a href="https://t.co/DLthxy0o2k">pic.twitter.com/DLthxy0o2k</a></p>&mdash; PACE (@PACEmCHP) <a href="https://twitter.com/PACEmCHP/status/1384152718910967809?ref_src=twsrc%5Etfw">April 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+As tech challenges these are good; but still human colonization of the
+planet is fool's errand.
+
+---
+
+Yes - coaxial choppa; blogged abt it before. Mars has weak atmo so
+they had to go for most optimal propeller design.
+
+"Ingenuity helicopter lifted off successfully"
 
 ---
 
