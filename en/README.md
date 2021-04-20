@@ -102,8 +102,8 @@ life on the line for it.
 
 ---
 
-As tech challenges these are good; but still human colonization of the
-planet is fool's errand.
+As tech challenges these are good; but still, human colonization of
+the planet is a fool's errand.
 
 ---
 
