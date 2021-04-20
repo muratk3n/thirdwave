@@ -35,7 +35,7 @@ impossible. The infrastructure connecting farming areas to the city is
 poor, as is the infrastructure connecting industrial and commercial
 centers.
 
-<a name='ruriver'/>
+<a name='rurivers'/>
 
 The problem in connectivity stems from the fact that Russia’s rivers
 go the wrong way. Unlike American rivers, which connect farming
