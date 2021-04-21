@@ -4,12 +4,6 @@
 
 ---
 
-Not true
-
-"Mars helicopter flight was a Wright Brothers moment"
-
----
-
 "@AlpertReyes
 
 Garcetti is seeking to budget 24 million for a 'guaranteed basic
@@ -118,6 +112,12 @@ against it.
 These billionaires.. so removed from events around them 
  
 "How about the European Super League plans?"
+
+---
+
+Not true. Good tech, but adv not that big
+
+"Mars helicopter flight was a Wright Brothers moment"
 
 ---
 
