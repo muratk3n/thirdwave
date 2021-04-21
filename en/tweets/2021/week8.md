@@ -278,7 +278,6 @@ a self-reliant folk, they dont come across as too alert
 
 ---
 
-
 "APA Group ... announced a plan to make a 43 kilometre section of its
 Parmelia gas pipeline in Western Australia 100 per cent ready to
 transport hydrogen"

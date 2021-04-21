@@ -130,9 +130,8 @@ cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'IsRootEvent','EventCode', 'EventBaseCode']
 df2 = df[range(len(cols))]
 df2.columns = cols
-flt = (df2.EventCode==180)
+flt = (df2.EventCode==180) # attacks
 df3 = df2[flt]
-#print (df3[['Actor1Name','Actor1CountryCode','Actor2Name','EventCode']])
 urls[flt].to_csv('/tmp/gdelturl.csv')
 g = df3.groupby(['Actor1CountryCode','Actor1Name','Actor2Name']).size()
 g = g[g>1]
@@ -194,19 +193,4 @@ ZWE                ZIMBABWE        GAZA                       2
                                    VILLAGE                    2 
 dtype: int64
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
