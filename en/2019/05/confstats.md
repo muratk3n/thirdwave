@@ -102,17 +102,22 @@ Civilians         Syria           17       0
 
 ### GDELT
 
+GDELT uses natural language processing ("AI") to extract Actor -
+Action - Actor triplets. The result is not curated, there can be
+mistakes, but as an overall outlook, it can be useful.
+
 [Codes](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
 
-[Data](https://www.gdeltproject.org/data.html#rawdatafiles)
+[Data](http://data.gdeltproject.org/events/)
 
 ```python
 import pandas as pd, zipfile
 pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth',-1)
 
-with zipfile.ZipFile('/tmp/20210418.export.CSV.zip', 'r') as z:
-     df = pd.read_csv(z.open('20210418.export.CSV'),sep='\t',header=None)
+with zipfile.ZipFile('/tmp/20210420.export.CSV.zip', 'r') as z:
+     df = pd.read_csv(z.open('20210420.export.CSV'),sep='\t',header=None)
 print (len(df.columns))
 urls = df[57]
 cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
@@ -129,25 +134,65 @@ flt = (df2.EventCode==180)
 df3 = df2[flt]
 #print (df3[['Actor1Name','Actor1CountryCode','Actor2Name','EventCode']])
 urls[flt].to_csv('/tmp/gdelturl.csv')
-g = df3.groupby(['Actor1CountryCode','Actor1Name','Actor2Name'])
-print (g.size())
+g = df3.groupby(['Actor1CountryCode','Actor1Name','Actor2Name']).size()
+g = g[g>1]
+print (g)
 ```
 
 ```text
 58
-Actor1CountryCode  Actor1Name     Actor2Name   
-AFG                TALIBAN        AFGHANISTAN      1
-                                  GOVERNOR         1
-AFR                AFRICA         AMERICAN         2
-                                  POPULATION       2
-                                  UNITED STATES    1
-                                                  ..
-USA                UNITED STATES  PROTESTER        1
-                                  UNITED STATES    6
-                   WASHINGTON     ABBOT            1
-                                  JOE BIDEN        2
-                                  UNITED STATES    2
-Length: 89, dtype: int64
+Actor1CountryCode  Actor1Name      Actor2Name             
+AFR                AFRICA          VILLAGE                    2 
+AUS                AUSTRALIA       GOVERNMENT                 4 
+                   PERTH           SCHOOL                     3 
+                   VICTORIA        UNITED STATES              2 
+COD                CONGOLESE       RUSSIA                     2 
+EUR                EUROPE          SERBIA                     2 
+GBR                BRITISH         UNITED KINGDOM             2 
+                   UNITED KINGDOM  UNITED KINGDOM             4 
+IND                CHHATTISGARH    POLITICIAN                 3 
+ISR                ISRAEL          PALESTINIAN                2 
+NGA                NIGERIA         AFRICA                     3 
+                                   POLICEMAN                  3 
+PAK                PAKISTAN        POLICE                     2 
+RUS                RUSSIA          FINLAND                    3 
+                                   UKRAINE                    3 
+SYR                SYRIA           CIVILIAN                   2 
+                                   RICHMOND                   2 
+TWN                TAIPEI          TAIWAN                     2 
+                   TAIWAN          TAIWAN                     2 
+UKR                UKRAINE         RUSSIA                     2 
+                                   RUSSIAN                    5 
+                   UKRAINIAN       MEXICO                     2 
+USA                AUSTIN          CIVILIAN                   2 
+                   BOSTON          CRIMINAL                   2 
+                   FLORIDA         SENATE                     2 
+                   INDIANA         POLICE                     3 
+                   KENTUCKY        PRISON                     2 
+                   LOS ANGELES     DETECTIVE                  3 
+                   NEW YORK        KILLERS                    3 
+                                   UYGHUR                     3 
+                   TEXAS           UNIVERSITY                 2 
+                   THE US          JOURNALIST                 2 
+                   UNITED STATES   ATTORNEY                   6 
+                                   AUSTRALIA                  2 
+                                   FELON                      3 
+                                   JOURNALIST                 3 
+                                   LAW ENFORCEMENT OFFICER    2 
+                                   NASSAU                     2 
+                                   NAVAJO                     2 
+                                   NAVY                       4 
+                                   NEWSPAPER                  2 
+                                   POLICE                     8 
+                                   POLICE OFFICER             2 
+                                   POLICEMAN                  2 
+                                   PRISON                     4 
+                                   SAUDI ARABIA               2 
+                                   UNITED STATES              12
+                   VIRGINIA        AUTHORITIES                2 
+ZWE                ZIMBABWE        GAZA                       2 
+                                   VILLAGE                    2 
+dtype: int64
 ```
 
 
