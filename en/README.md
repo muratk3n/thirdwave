@@ -12,10 +12,6 @@ year, 'no questions asked, wherever poverty lives in our city.'"
 
 ---
 
-GDELT processing addition to conflict [stats](2019/05/confstats.md#gdelt)
-
----
-
 H2 from thin air.. Also (perhaps more important), a better way for
 electrolysis (boil water, get the vapor, this process will electrolyze
 it better)
