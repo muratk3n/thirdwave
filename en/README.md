@@ -101,15 +101,14 @@ will give you some crums too, dont you worry.. WTF?
 A dozen or so famous football (the game where u kick the ball around
 with your foot) teams headed by billionaires want to break away and
 form their own close circuit league. The move smacks of
-"royalty".. cuz these teams wont be competing in champion's league
-anymore, for which they have to win every year in their domestic
-leagues to qualify for, but they will auto-qualify for this "super"
-league always and get to compete against eachother. Summary from
-[Corden](https://youtu.be/VbxvgwvaX_4?t=47). It's a bad idea. Not
-surprisingly almost everyone with a stake in the game seems to be
-against it.
+"royalty".. these 'founding' teams wont be competing in champion's
+league anymore, for which they have to win every year in their
+domestic leagues, but they would auto-qualify for this "super" league
+and always compete against eachother/. Summary from It's a bad
+idea. Not surprisingly almost everyone with a stake in the game seems
+to be against it.
 
-These billionaires.. so removed from events around them 
+These billionaires.. so removed from things around them 
  
 "How about the European Super League plans?"
 
