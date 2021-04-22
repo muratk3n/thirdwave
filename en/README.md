@@ -46,10 +46,10 @@ Premier League clubs moved to withdraw from the plan"
 
 ---
 
-Sounds like a useless team.. therein lies the problem IMO. First of
-all the tech is nowhere near being "AI", second, its mishaps, when it's
-responsible for them, can be addressed at a managerial level any other
-software mistake. 
+Sounds like a useless team.. therein lies the problem. First of all
+the tech is nowhere near being "AI", second, its mishaps and mistakes,
+when it does them, can be addressed at a managerial level like any
+other software mistake.
 
 "@josheidelson
 
