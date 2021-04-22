@@ -8,8 +8,8 @@ Johannesburg, Mogalakwena and Kwazulu Natal.
 
 The primary angle is to decarbonise transport sectors as well as
 exploiting surrounding industry, in particular its platinum resources,
-which could create a domestic hydrogen economy of up to $10bn per year
-and tap into an export potential of $100bn annually"
+which could create a domestic hydrogen economy of up to 10bn per year
+and tap into an export potential of 100bn annually"
 
 [Link](https://www.h2-view.com/story/south-africa-could-tap-into-export-potential-of-100bn-with-new-hydrogen-valley)
 
