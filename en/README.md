@@ -1,38 +1,5 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“I want Australia and hydrogen technology to be synonymous around the world” – Scott Morrison at Star Scientific’s Berkeley Vale facility today. The time for our HERO® technology is now. <a href="https://t.co/KJAosZUZcw">pic.twitter.com/KJAosZUZcw</a></p>&mdash; Star_Scientific_Ltd (@StarScientific_) <a href="https://twitter.com/StarScientific_/status/1384758481203318784?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@SkyNewsAust
-
-Australia has the potential to be a 'world leader' in clean hydrogen
-as the government invests $276 million in clean hydrogen projects"
-
----
-
-Australian Hydrogen Council
-
-@H2MobilityAus
-
-Investing a further $275.5m to develop 4 clean hydrogen hubs in
-regional Australia and implementing a clean H2 certification scheme is
-exactly the kind of action we need to build Australia’s #H2
-industry. We welcome today's announcement from the Aus Gov.
-
----
-
-"@nytimes
-
-A proposed European soccer superleague collapsed as the project’s six
-Premier League clubs moved to withdraw from the plan"
-
----
-
-"Australia nixes two Belt and Road deals with China"
-
----
-
 "South Africa could tap into export potential of $100bn with new
 hydrogen valley..  South Africa is set to exploit the vast hydrogen
 market with a new collaboration signed today (31st March) which aims
@@ -45,6 +12,37 @@ which could create a domestic hydrogen economy of up to $10bn per year
 and tap into an export potential of $100bn annually"
 
 [Link](https://www.h2-view.com/story/south-africa-could-tap-into-export-potential-of-100bn-with-new-hydrogen-valley)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“I want Australia and hydrogen technology to be synonymous around the world” – Scott Morrison at Star Scientific’s Berkeley Vale facility today. The time for our HERO® technology is now. <a href="https://t.co/KJAosZUZcw">pic.twitter.com/KJAosZUZcw</a></p>&mdash; Star_Scientific_Ltd (@StarScientific_) <a href="https://twitter.com/StarScientific_/status/1384758481203318784?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@SkyNewsAust
+
+Australia has the potential to be a 'world leader' in clean hydrogen
+as the government invests $276 million in clean hydrogen projects"
+
+---
+
+"@H2MobilityAus
+
+Investing a further $275.5m to develop 4 clean hydrogen hubs in
+regional Australia and implementing a clean H2 certification scheme is
+exactly the kind of action we need to build Australia’s \#H2
+industry. We welcome today's announcement from the Aus Gov"
+
+---
+
+"@nytimes
+
+A proposed European soccer superleague collapsed as the project’s six
+Premier League clubs moved to withdraw from the plan"
+
+---
+
+"Australia nixes two Belt and Road deals with China"
 
 ---
 
