@@ -46,6 +46,20 @@ Premier League clubs moved to withdraw from the plan"
 
 ---
 
+Sounds like a useless team.. therein lies the problem IMO. First of
+all the tech is nowhere near being "AI", second, its mishaps, when it's
+responsible for them, can be addressed at a managerial level any other
+software mistake. 
+
+"@josheidelson
+
+Google's Ethical AI team has been running aground for years, mired in
+conflict over the handling of alleged harassment, racism and sexism,
+according to over a dozen current and former employees and AI
+researchers"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
