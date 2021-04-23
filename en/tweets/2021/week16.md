@@ -249,7 +249,7 @@ been] highly successful, and I think it’s a great strategy.'"
 ---
 
 What defines whether a country becomes democratic or authoratic? Geo
-plays a role? Russia's rivers flow in the [wrong direction](2017/07/the-next-decade-friedman.md#rurivers).
+plays a role? Russia's rivers flow in the [wrong direction](../../2017/07/the-next-decade-friedman.md#rurivers).
 Geo forms a big obstacle, then the state has to help more, then
 later becomes a burden itself?
 
