@@ -74,9 +74,9 @@ on all counts.
 
 ---
 
-"In Australia our ambition is to produce the cheapest green hydrogen
-in the world, at $2/kg. In US you have the Silicon Valley, here in
-Australia we are creating our own Hydrogen Valleys"
+Morrison: "In Australia our ambition is to produce the cheapest green
+hydrogen in the world, at $2/kg. In US you have the Silicon Valley,
+here in Australia we are creating our own Hydrogen Valleys"
 
 \#ClimateSummit
 
