@@ -65,12 +65,12 @@ That. Is. Hilarious
 
 ---
 
-This is fantastic.. it makes a lot of sense for Oz.. South Korea,
-Japan are already reorienting their econ around renewable fuels, Oz
-has natural resources and needs a green way to ship its energy. The
-buyers will be ready, waiting to buy the product.. And once H2 is
-produced at such scales, why not reorient domestic econ for its use as
-well?  Slam dunk on all counts.
+Fantastic news.. makes a lot of sense for Oz.. South Korea, Japan are
+already reorienting their econ around renewable fuels, Oz has natural
+resources and needs a green way to ship its energy. The buyers will be
+ready, waiting to buy the product.. And once H2 is produced at such
+scales, why not reorient domestic econ for its use as well?  Slam dunk
+on all counts.
 
 ---
 
