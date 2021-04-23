@@ -1,5 +1,65 @@
 # Week 16
 
+"South Africa could tap into export potential of $100bn with new
+hydrogen valley..  South Africa is set to exploit the vast hydrogen
+market with a new collaboration signed today (31st March) which aims
+to explore the feasibility in developing a hydrogen valley near
+Johannesburg, Mogalakwena and Kwazulu Natal.
+
+The primary angle is to decarbonise transport sectors as well as
+exploiting surrounding industry, in particular its platinum resources,
+which could create a domestic hydrogen economy of up to 10bn per year
+and tap into an export potential of 100bn annually"
+
+[Link](https://www.h2-view.com/story/south-africa-could-tap-into-export-potential-of-100bn-with-new-hydrogen-valley)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“I want Australia and hydrogen technology to be synonymous around the world” – Scott Morrison at Star Scientific’s Berkeley Vale facility today. The time for our HERO® technology is now. <a href="https://t.co/KJAosZUZcw">pic.twitter.com/KJAosZUZcw</a></p>&mdash; Star_Scientific_Ltd (@StarScientific_) <a href="https://twitter.com/StarScientific_/status/1384758481203318784?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@SkyNewsAust
+
+Australia has the potential to be a 'world leader' in clean hydrogen
+as the government invests $276 million in clean hydrogen projects"
+
+---
+
+"@H2MobilityAus
+
+Investing a further $275.5m to develop 4 clean hydrogen hubs in
+regional Australia and implementing a clean H2 certification scheme is
+exactly the kind of action we need to build Australia’s \#H2
+industry. We welcome today's announcement from the Aus Gov"
+
+---
+
+"@nytimes
+
+A proposed European soccer superleague collapsed as the project’s six
+Premier League clubs moved to withdraw from the plan"
+
+---
+
+"Australia nixes two Belt and Road deals with China"
+
+---
+
+Sounds like a useless team.. therein lies the problem. First of all
+the tech is nowhere near being "AI", second, its mishaps and mistakes,
+when it does them, can be addressed at a managerial level like any
+other software mistake.
+
+"@josheidelson
+
+Google's Ethical AI team has been running aground for years, mired in
+conflict over the handling of alleged harassment, racism and sexism,
+according to over a dozen current and former employees and AI
+researchers"
+
+---
+
 "Morrison government flags $540m for hydrogen and carbon capture ahead of Biden summit"
 
 ---
