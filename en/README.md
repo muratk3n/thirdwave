@@ -8,8 +8,8 @@ like a forager, the way we've lived for half a million years.
 ---
 
 Since the approach is well contained and controlled, I bet it can be
-fully automated one day.. Load up seeds through from one end, come
-back in two months to get your fully grown beans from the other end..
+fully automated one day.. Load up seeds from one end, come back in two
+months to get your fully grown beans from the other end..
 
 ---
 
