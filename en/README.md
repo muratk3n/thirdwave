@@ -1,106 +1,123 @@
 # Tweets
 
+Wanna be outdoors, be outdoors. Hike, camp whatever. Be outdoors like
+like a forager, the way we've lived for half a million years.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is <a href="https://twitter.com/hashtag/EarthDay2021?src=hash&amp;ref_src=twsrc%5Etfw">#EarthDay2021</a>, and we&#39;re excited to announce our investment in <a href="https://twitter.com/Universal_H2?ref_src=twsrc%5Etfw">@Universal_H2</a>, which is working to make carbon-free commercial flight a near-term reality. Learn more about why we invested in <a href="https://twitter.com/jim_adler?ref_src=twsrc%5Etfw">@Jim_Adler</a>&#39;s blog post: <a href="https://t.co/o3njSNSuTP">https://t.co/o3njSNSuTP</a> <a href="https://t.co/UR17YlsaGo">pic.twitter.com/UR17YlsaGo</a></p>&mdash; Toyota AI Ventures (@Toyota_AI_VC) <a href="https://twitter.com/Toyota_AI_VC/status/1385264096849715200?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-"@JetBlueVentures
-
-This #EarthDay we're excited to announce our investment in
-@Universal_H2 as part of our growing portfolio to support @JetBlue's
-ambitious sustainability strategy!"
+"But I want to be outdoors, work the land"
 
 ---
 
-NYT: "Seven House Republicans pledge to take no donations from major tech companies."
+Since the approach is well contained and controlled, I bet it can be
+fully automated one day.. Load up seeds through from one end, come
+back in two months to get your fully grown beans from the other end..
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At Sunfire, everyday is <a href="https://twitter.com/hashtag/EarthDay?src=hash&amp;ref_src=twsrc%5Etfw">#EarthDay</a> With our electrolysis solutions we help CO2-intensive industries to become carbon-neutral. A world without fossil fuels - this is our vision, continuously motivating and uniting us at Sunfire. Will you join the <a href="https://twitter.com/hashtag/GreenHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#GreenHydrogen</a> revolution? <a href="https://t.co/hO7uCMkF8I">pic.twitter.com/hO7uCMkF8I</a></p>&mdash; Sunfire_global (@GlobalSunfire) <a href="https://twitter.com/GlobalSunfire/status/1385169715195224066?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+VF approach uses artificial light, artificial soil, utilizes less
+water, it is a completely contained environment can be easier to
+protect against chaotic weather, harmful instects (less need for
+pesticides, another bonus).
 
 ---
 
-CNBC: "The U.S., Canada and U.K. are among some of the high-income countries
-actively blocking a patent-waiver proposal designed to boost the
-global production of Covid-19 vaccines... It comes as coronavirus
-cases worldwide surge to their highest level so far and the World
-Health Organization has repeatedly admonished a “shocking imbalance”
-in the distribution of vaccines amid the pandemic"
+<img width="340" src="https://pbs.twimg.com/media/Ezoq6tuXsAEFmsv?format=jpg&name=small"/>
 
 ---
 
-The Independent: "EU prepares to sue AstraZeneca over failure to deliver enough Covid-19 vaccines"
+"Vertical or indoor farming is increasingly heralded as the future of
+modern agriculture... These companies have been able to raise millions
+of dollars to expand their current facilities and establish new
+ones...
+
+Fundamental to the creation of a perfect indoor farming environment
+for both small and large operations is the availability of affordable,
+sophisticated lighting technologies. In fact, there are many different
+types of grow lights... 
+
+In its simplest definition, a grow light is an artificial source of
+light, commonly an electric light, which is designed to stimulate the
+growth of plants by emitting an electromagnetic spectrum perfect for
+photosynthesis"
+
+[Link](https://www.thebalancesmb.com/grow-light-options-for-indoor-and-vertical-farming-4147429)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the thing they are telling you is impossible because we are “at capacity” and can’t possibly make more vaccines. A Canadian company wants to pay J&amp;J for its vaccine recipe, and is being refused. <a href="https://t.co/fwAoUB06Ll">https://t.co/fwAoUB06Ll</a></p>&mdash; Stephen Buranyi (@stephenburanyi) <a href="https://twitter.com/stephenburanyi/status/1385228389360017416?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img width="340" src="https://pbs.twimg.com/media/EzoqgiOXMAEnHCY?format=jpg&name=small"/>
 
 ---
 
-Syria is getting hit constantly by Israel, for months now.. it is
-'fragility' when they hit back?
+"Vertical farming is the practice of producing food on vertically
+inclined surfaces. Instead of farming vegetables and other foods on a
+single level, such as in a field or a greenhouse, this method produces
+foods in vertically stacked layers commonly integrated into other
+structures like a skyscraper, shipping container or repurposed
+warehouse...
 
-"A region on edge: Syrian missile blast near Israel nuclear site
-underscores military fragility of region"
+Instead of soil, aeroponic, aquaponic or hydroponic growing mediums
+are used. Peat moss or coconut husks and similar non-soil mediums are
+very common in vertical farming. Finally, the vertical farming method
+uses various sustainability features to offset the energy cost of
+farming. In fact, vertical farming uses 95% less water"
 
----
-
-DW: "Spanish study shows coffee *still* good for your
-health.. Drinking up to 6 cups of caffeinated coffee a day is good for
-your heart and may even protect against cancer"
-
----
-
-DW: "Germany wants to buy 30 million Sputnik V vaccine doses.. Saxony
-state Premier Michael Kretschmer said the purchases were pending EMA
-approval. He was in Moscow on Thursday for talks with the health
-minister and Vladimir Putin"
+[Link](https://www.thebalancesmb.com/what-you-should-know-about-vertical-farming-4144786)
 
 ---
 
-That. Is. Hilarious
-
-<iframe width="340" src="https://www.youtube.com/embed/WVCOYUXkeKg?start=35&end=170" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Our focus is fundamental tech, not trinkets. 
 
 ---
 
-Fantastic news.. makes a lot of sense for Oz.. South Korea, Japan are
-already reorienting their econ around renewable fuels, Oz has natural
-resources and needs a green way to ship its energy. The buyers will be
-ready, waiting to buy the product.. And once H2 is produced at such
-scales, why not reorient domestic econ for its use as well?  Slam dunk
-on all counts.
+Toiling away on a piece of land, throwing bunch of shit on the soil,
+(pesticides etc seeping into the soil). Isnt this incredibly outdated?
+Technology should transform this field..
 
 ---
 
-Morrison: "In Australia our ambition is to produce the cheapest green
-hydrogen in the world, at $2/kg. Mr. President, in US you have the
-Silicon Valley, here in Australia we are creating our own Hydrogen
-Valleys"
-
-\#ClimateSummit
-
-<iframe width="340" src="https://www.youtube.com/embed/nzg2VK5iBHc?start=7256&end=7396" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s pretty clean.</p>&mdash; Philip Bump (@pbump) <a href="https://twitter.com/pbump/status/1385253752685408260?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"At Earth Day Climate Summit, Biden Pushes for Sharp Cut to
-Greenhouse-Gas Emissions"
-
-\#ClimateSummit
+As the Oz Prime Minister says: "technology first"
 
 ---
 
-"Bolsonaro Seeks International Funding for Amazon Protection"
+"@PaulEremenko
 
-\#ClimateSummit
+Thoughtful piece from @timhepher at @Reuters captures key issue..
+@Universal_H2 can decarbonize regional aviation in the 2020s--no
+problem. The big challenge is to de-risk hydrogen for @Boeing &
+@Airbus to make 737 & A320 successor in 2030s zero-emissions!"
+Otherwise there's no way for aviation to meet Paris Agreement
+targets. Synfuels and biofuels are a partial carbon offset scheme that
+doesn't get us to the 1.5°C emissions trajectory. There just isn't
+another way!
 
 ---
 
-Bolsonaro said supports net zero for 2050?
+Reuters: "Universal Hydrogen, a U.S.-based firm planning to provide
+hydrogen propulsion for regional aircraft, said on Thursday it would
+accelerate development after raising $20.5 million in funds amid a
+debate over carbon-free aviation"
 
-\#ClimateSummit
+---
+
+On Wirecard fin troubles and Germany.. some of the self-flagellation is
+probably unnecessary but interesting story 
+
+[Link](https://newrepublic.com/article/162084/weird-extremely-german-origins-wirecard-scandal)
+
+---
+
+Cld insert all recent GDELT data files into a lite SQL DB, then
+anytime something happens to a country can go back in time and find
+all actions that was done to that country until that event, diplo
+warnings, attacks, etc. look at the source groups and try to see
+patterns.. \#ifIHadTheTime
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I bought a desk light. then I opened the box and discovered I had to install an app to control my desk light</p>&mdash; Adrienne Porter Felt (@__apf__) <a href="https://twitter.com/__apf__/status/1385370756016611333?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
