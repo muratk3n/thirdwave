@@ -77,8 +77,8 @@ SSt cld provide a springboard to new outlets, those outlets need to
 grow institutional muscle tho to compete
 
 Slate: "Substack today has somewhere north of 500,000 paid
-subscribers, which represents a meteoric growth rate [but is still
-just a fraction of, say, the New York Times’ 7.5 million... A key to
+subscribers, which represents a meteoric growth rate but is still just
+a fraction of, say, the New York Times’ 7.5 million... A key to
 understanding Substack’s impact on the news is to recognize that the
 kind of journalism that tends to thrive there—so far, at least for the
 most part—is not actually news. It’s commentary and analysis, aimed at
