@@ -129,8 +129,8 @@ The #UK is set for what could be its first ever conversion of a diesel locomotiv
 
 ---
 
-Denialism is not that surprising the entire being of these people is
-made-up. Denialism is just another set of fairy tales
+Denialism is not that surprising as the nat identity is also
+made-up... Denialism is just another set of fairy tales
 
 ---
 
