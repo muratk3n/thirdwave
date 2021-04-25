@@ -52,8 +52,8 @@ on some fundamental questions.
 
 Frankly it was a bit surprising at first seeing sci folk still do not
 know why planes fly. But then u think about misconceptions around
-black holes, the big-bang, gasesous sun, then you are like 'yeah mfers
-could eff that up no problem'.
+black holes, the big-bang, gasesous sun, then you are like 'yeah that
+cld fall through the cracks no problem'
 
 It is encouraging in some ways in that there is much to do.
 
