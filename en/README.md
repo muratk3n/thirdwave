@@ -45,7 +45,7 @@ export to India"
 
 ---
 
-We've achieved much but there are still holes in the grand knowledge,
+Sci achieved much but there are still holes in the grand knowledge,
 on some fundamental questions.
 
 ---
