@@ -129,7 +129,7 @@ The #UK is set for what could be its first ever conversion of a diesel locomotiv
 
 ---
 
-Denialism is not that surprising as the nat identity is also
+Denialism is not that surprising as the nat identity of the country is
 made-up... Denialism is just another set of fairy tales
 
 ---
