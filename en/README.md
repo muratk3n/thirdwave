@@ -18,9 +18,9 @@ Smooth Genestar - Blu Country \#music
 
 ---
 
-NYT (12/22/2020): "To help Pfizer, the deal calls for the government
-to invoke the Defense Production Act to give the company better access
-to roughly nine specialized products it needs to make the vaccine. One
+NYT (Dec 2020): "To help Pfizer, the deal calls for the government to
+invoke the Defense Production Act to give the company better access to
+roughly nine specialized products it needs to make the vaccine. One
 person familiar with the list said it included lipids, the oily
 molecules in which the genetic material that is used in both the
 Moderna and Pfizer vaccines is encased"

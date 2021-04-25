@@ -2,14 +2,15 @@
 
 # Mortality Rate
 
-Fatality / Cases ratio is around 3%, the cases is for people with
+Fatality / Cases ratio is around 2.2%, the cases is for people with
 symptoms. What would be the fatality rate for the broader population?
 On one of those cruise ships which experienced the epidemic in an
-isolated environment, they found about 30% of the people were
+isolated environment, they found about 1/3 rd of the people were
 infected. We can assume the virus reached everyone possible on that
-ship. 30% of 3% is nearly 1%. So if given the chance, covid can kill
-1% of an entire population. As a reference point, annual growth of
-world population hovers around 1% as well.
+ship. 1/3 of mortality rate is nearly 1%. So if given the chance,
+covid can kill 1% of an entire population. As a reference point,
+annual growth of world population hovers around the same ratio
+
 
 Code is from [2]
 
