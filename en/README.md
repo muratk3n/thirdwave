@@ -108,8 +108,6 @@ out. It worked... How the country has kept coronavirus deaths to just
 
 ---
 
----
-
 "@qrs
 
 The clothes dryer is installing an over the air firmware update"
@@ -128,7 +126,7 @@ The #UK is set for what could be its first ever conversion of a diesel locomotiv
 
 ---
 
-\#trek \#voyager Of course they could beam a baby rigbt out of mother's vomb 
+\#trek \#voyager Of course they could beam a baby right out of mother's vomb
 
 ---
 
