@@ -89,6 +89,30 @@ yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve gelenlerin
 burada) 3) Türk insanının kendisi sonradan da tekrar göçmeye
 başlamıştır (kabaca 20'inci yüzyıla referans)
 
+Ankete cevap verenlere göre Türklerin tarihinin en tanımlayıcı kısmı
+göçmektir, ve göçme kültürüyle temelden bir ilişkide olmaktır, göçebe
+insanlar olmak ve yüzlerce yıl sürekli göçme halinde olmaktır. Bu mealdeki
+ifadelerin bazılar şöyleydi:
+
+>Türklerin gidiş yönü her zaman Batı'ya doğru olmuştur. Orta Asya'dan
+>geldik Vienna kapısına dayandık, şimdi de Batı Avrupa'ya ve yakında
+>Brüksel'e gidiyoruz
+>
+>Bin sene önce Orta Asya'dan geldik. Göçmenlerin coğrafyasından geliyoruz.
+>Bizim kimliğimiz budur.
+>
+>.. kültürel açıdan söylüyorum. Çünkü, Orta Asya'dan göçmüş olmak sebebiyle,
+>yani, bildiğiniz gibi, göçmek bizler için çok normal bir şey
+>
+
+
+
+
+
+
+
+
+
 [devam edecek]
 
 

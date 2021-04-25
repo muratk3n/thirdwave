@@ -1,123 +1,134 @@
 # Tweets
 
-Wanna be outdoors, be outdoors. Hike, camp whatever. Be outdoors like
-like a forager, the way we've lived for half a million years.
+"@axios
 
-"But I want to be outdoors, work the land"
-
----
-
-Since the approach is well contained and controlled, I bet it can be
-fully automated one day.. Load up seeds from one end, come back in two
-months to get your fully grown beans from the other end..
+President Biden in the next few days will unveil eye-popping new tax
+rates for the wealthiest Americans —a top marginal income tax rate of
+39.6% and a capital gains rate of 43.4%"
 
 ---
 
-VF approach uses artificial light, artificial soil, utilizes less
-water, it is a completely contained environment can be easier to
-protect against chaotic weather, harmful instects (less need for
-pesticides, another bonus).
+"Solid Continua" 😶
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/Ezoq6tuXsAEFmsv?format=jpg&name=small"/>
+Smooth Genestar - Blu Country \#music
+
+[Link](https://youtu.be/Rn-kVWnHPmY?t=5674)
 
 ---
 
-"Vertical or indoor farming is increasingly heralded as the future of
-modern agriculture... These companies have been able to raise millions
-of dollars to expand their current facilities and establish new
-ones...
+NYT (12/22/2020): "To help Pfizer, the deal calls for the government
+to invoke the Defense Production Act to give the company better access
+to roughly nine specialized products it needs to make the vaccine. One
+person familiar with the list said it included lipids, the oily
+molecules in which the genetic material that is used in both the
+Moderna and Pfizer vaccines is encased"
 
-Fundamental to the creation of a perfect indoor farming environment
-for both small and large operations is the availability of affordable,
-sophisticated lighting technologies. In fact, there are many different
-types of grow lights... 
-
-In its simplest definition, a grow light is an artificial source of
-light, commonly an electric light, which is designed to stimulate the
-growth of plants by emitting an electromagnetic spectrum perfect for
-photosynthesis"
-
-[Link](https://www.thebalancesmb.com/grow-light-options-for-indoor-and-vertical-farming-4147429)
+[Link](https://www.nytimes.com/2020/12/22/us/politics/pfizer-vaccine-doses.html)
 
 ---
 
-<img width="340" src="https://pbs.twimg.com/media/EzoqgiOXMAEnHCY?format=jpg&name=small"/>
+What are the raw materials? SciAm [says](https://www.scientificamerican.com/article/new-covid-vaccines-need-absurd-amounts-of-material-and-labor1/)
+polymerases, caccinia capping enzyme (VCE)
 
 ---
 
-"Vertical farming is the practice of producing food on vertically
-inclined surfaces. Instead of farming vegetables and other foods on a
-single level, such as in a field or a greenhouse, this method produces
-foods in vertically stacked layers commonly integrated into other
-structures like a skyscraper, shipping container or repurposed
-warehouse...
+Cant say I blame them
 
-Instead of soil, aeroponic, aquaponic or hydroponic growing mediums
-are used. Peat moss or coconut husks and similar non-soil mediums are
-very common in vertical farming. Finally, the vertical farming method
-uses various sustainability features to offset the energy cost of
-farming. In fact, vertical farming uses 95% less water"
+@sidhant
 
-[Link](https://www.thebalancesmb.com/what-you-should-know-about-vertical-farming-4144786)
+"United States first and foremost is engaged in an ambitious and
+effective and, so far, successful effort to vaccinate the American
+people", US State Dept when asked about #COVID vaccine raw materials
+export to India"
 
 ---
 
-Our focus is fundamental tech, not trinkets. 
+We've achieved much but there are still holes in the grand knowledge,
+on some fundamental questions.
 
 ---
 
-Toiling away on a piece of land, throwing bunch of shit on the soil,
-(pesticides etc seeping into the soil). Isnt this incredibly outdated?
-Technology should transform this field..
+Frankly it was a bit surprising at first seeing sci folk still do not
+know why planes fly. But then u think about misconceptions around
+black holes, the big-bang, gasesous sun, then you are like 'yeah mfers
+could eff that up no problem'.
+
+It is encouraging in some ways in that there is much to do.
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s pretty clean.</p>&mdash; Philip Bump (@pbump) <a href="https://twitter.com/pbump/status/1385253752685408260?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Was just thinking about this today.. and bingo found this
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">tl;dr<br>- it&#39;s not just bernoulli&#39;s principle<br>- it&#39;s in large part just air deflection downward<br>- the equal transit time for the top and bottom of the wing is bullshit<br>- the blowing air over paper example is bullshit<br>- asking hard questions is tough and i&#39;m glad some ppl do it</p>&mdash; thinkagainer of the thought palace (~129 yrs old) (@thinkagainer) <a href="https://twitter.com/thinkagainer/status/1307849362295394305?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-As the Oz Prime Minister says: "technology first"
+The 90s-2010s period was spent on "barbarians at the gates"
+narrative..  this narrative was excessive. Old Guard is still there,
+carries some influence.. Notice "the Internet Guy" Bezos bought WaPo
+joining the guard, rather than start his own thing doing "dhat
+disrupting binness".
 
 ---
 
-"@PaulEremenko
+SSt cld provide a springboard to new outlets, those outlets need to
+grow institutional muscle tho to compete
 
-Thoughtful piece from @timhepher at @Reuters captures key issue..
-@Universal_H2 can decarbonize regional aviation in the 2020s--no
-problem. The big challenge is to de-risk hydrogen for @Boeing &
-@Airbus to make 737 & A320 successor in 2030s zero-emissions!"
-Otherwise there's no way for aviation to meet Paris Agreement
-targets. Synfuels and biofuels are a partial carbon offset scheme that
-doesn't get us to the 1.5°C emissions trajectory. There just isn't
-another way!
+Slate: "Substack today has somewhere north of 500,000 paid
+subscribers, which represents a meteoric growth rate [but is still
+just a fraction of, say, the New York Times’ 7.5 million... A key to
+understanding Substack’s impact on the news is to recognize that the
+kind of journalism that tends to thrive there—so far, at least for the
+most part—is not actually news. It’s commentary and analysis, aimed at
+the chattering classes"
 
----
-
-Reuters: "Universal Hydrogen, a U.S.-based firm planning to provide
-hydrogen propulsion for regional aircraft, said on Thursday it would
-accelerate development after raising $20.5 million in funds amid a
-debate over carbon-free aviation"
+[Link](https://slate.com/business/2021/04/substack-media-new-york-times-subscriptions-poaching.amp?__twitter_impression=true)
 
 ---
 
-On Wirecard fin troubles and Germany.. some of the self-flagellation is
-probably unnecessary but interesting story 
+But.. but.. we are globalized and shit, travel freedom earth is flat
+blah blah
 
-[Link](https://newrepublic.com/article/162084/weird-extremely-german-origins-wirecard-scandal)
+"Vietnam defied the experts and sealed its border to keep Covid-19
+out. It worked... How the country has kept coronavirus deaths to just
+35, and grew its economy in 2020"
 
----
-
-Cld insert all recent GDELT data files into a lite SQL DB, then
-anytime something happens to a country can go back in time and find
-all actions that was done to that country until that event, diplo
-warnings, attacks, etc. look at the source groups and try to see
-patterns.. \#ifIHadTheTime
+[Link](https://www.vox.com/platform/amp/22346085/covid-19-vietnam-response-travel-restrictions)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I bought a desk light. then I opened the box and discovered I had to install an app to control my desk light</p>&mdash; Adrienne Porter Felt (@__apf__) <a href="https://twitter.com/__apf__/status/1385370756016611333?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+"@qrs
+
+The clothes dryer is installing an over the air firmware update"
+
+<img width="340" src="https://pbs.twimg.com/media/EwHmiRtXEAEmmTN?format=jpg&name=small"/>
+
+---
+
+Oil Price: "The Hydrogen Boom Will Provide A $200B Boost To Wind And Solar Energy"
+
+---
+
+@h2_view
+
+The #UK is set for what could be its first ever conversion of a diesel locomotive to run on #hydrogen power which will then be put into operation by the #SevenValleyRailway.
+
+---
+
+\#trek \#voyager Of course they could beam a baby rigbt out of mother's vomb 
+
+---
+
+Denialism is not that surprising.. the entire being of these people is made-up,
+denialism is just another set of fairy tales
+
+---
+
+"Grundlagen und Anwendungen" 😶
 
 ---
 
