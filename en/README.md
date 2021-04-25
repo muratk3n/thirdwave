@@ -88,6 +88,15 @@ the chattering classes"
 
 ---
 
+Yes. Making diverse set of products is what contributes to innovation,
+as Hidalgo [found](2017/08/production-gdp-globalization.md). Whether
+from that angle, or from my greater-sum angle, the conclusion is the
+same.
+
+"But then should everyone be able to produce everything?"
+
+---
+
 But.. but.. we are globalized and shit, travel freedom earth is flat
 blah blah
 
