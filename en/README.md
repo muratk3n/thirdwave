@@ -84,9 +84,9 @@ Florentino Perez"
 ---
 
 Countries, US states with fossil resources would be interested in this
-tech. Machin is from a coal heavy state, right? And a key vote in the
-Senate? Keep coal, CCS, produce green fuel, a bill like that cld get
-his support?
+tech. Machin is from a coal heavy state, right, and a key vote in the
+Senate..  A bill with coal CCS, green fuel prodcution cld get his
+support maybe.
 
 Reuters: "A Japanese-Australian venture has begun producing hydrogen
 from brown coal in a A$500 million ($387 million) test project that
