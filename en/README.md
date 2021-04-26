@@ -73,9 +73,9 @@ Gotta void it bitch.. Otherwise some' fierce is coming your
 way.. There were plans to bar players who wld play in SL from World
 Cup even, which wld be a problem for many players.
 
-"Clubs cannot leave Super League, says Perez The 12 clubs that agreed
-to join a new European Super League have 'binding contracts' and
-"cannot leave", says Real Madrid president Florentino Perez"
+"The 12 clubs that agreed to join a new European Super League have
+'binding contracts' and "cannot leave", says Real Madrid president
+Florentino Perez"
 
 ---
 
