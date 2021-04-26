@@ -91,9 +91,8 @@ cld get his support
 ---
 
 Reuters: "A Japanese-Australian venture has begun producing hydrogen
-from brown coal in a A$500 million ($387 million) test project that
-aims to show liquefied hydrogen can be produced and exported safely to
-Japan...
+from brown coal in a $387 million test project that aims to show
+liquefied hydrogen can be produced and exported safely to Japan...
 
 Japan’s Kawasaki Heavy Industries is running the pilot project with
 government financial support from both Japan and Australia in the
