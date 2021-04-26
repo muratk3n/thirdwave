@@ -83,6 +83,32 @@ to join a new European Super League have 'binding contracts' and
 
 ---
 
+Countries, US states with fossil resources would be interested in this
+tech. Machin is from a coal heavy state, right? Include this tech in
+a bill to get his support.
+
+Reuters: "A Japanese-Australian venture has begun producing hydrogen
+from brown coal in a A$500 million ($387 million) test project that
+aims to show liquefied hydrogen can be produced and exported safely to
+Japan...
+
+Japan’s Kawasaki Heavy Industries is running the pilot project with
+government financial support from both Japan and Australia in the
+state of Victoria, home to a quarter of the world’s known brown coal
+reserves.a
+
+The project is producing hydrogen by reacting coal with oxygen and
+steam under high heat and pressure in a process that also yields
+carbon dioxide and other gases.
+
+If the project goes commercial, the plan would be to bury the carbon
+dioxide off the coast of Victoria, KHI has previously said"
+
+[Link](https://www.reuters.com/article/australia-hydrogen-kawasaki-heavy-idUSL4N2L81IF)
+
+---
+
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
