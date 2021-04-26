@@ -84,7 +84,7 @@ to join a new European Super League have 'binding contracts' and
 ---
 
 According to the numbers then, it was not W, but Obama who invaded
-Afghanistan (Trump too a little, later)
+Afghanistan (Trump too, a little, later)
 
 [CNN](https://youtu.be/Gw8sAMKDknA?t=11)
 
