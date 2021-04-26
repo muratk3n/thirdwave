@@ -84,8 +84,9 @@ to join a new European Super League have 'binding contracts' and
 ---
 
 Countries, US states with fossil resources would be interested in this
-tech. Machin is from a coal heavy state, right? Include this tech in
-a bill to get his support.
+tech. Machin is from a coal heavy state, right? And a key vote in the
+Senate? Keep coal, CCS, produce green fuel, a bill like that cld get
+his support?
 
 Reuters: "A Japanese-Australian venture has begun producing hydrogen
 from brown coal in a A$500 million ($387 million) test project that
