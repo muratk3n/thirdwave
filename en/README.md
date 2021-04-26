@@ -83,23 +83,6 @@ to join a new European Super League have 'binding contracts' and
 
 ---
 
-According to the numbers then, it was not W, but Obama who invaded
-Afghanistan (Trump too, a little, later)
-
-[CNN](https://youtu.be/Gw8sAMKDknA?t=11)
-
----
-
-K.. Policing Act by Booker, Harris; "prohibit[s] federal police
-officers from using chokeholds or other carotid holds (which led to
-the death of Eric Garner)".
-
-Passed the House. Senate? Any takers?
-
-[Link](https://en.wikipedia.org/wiki/George_Floyd_Justice_in_Policing_Act)
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
