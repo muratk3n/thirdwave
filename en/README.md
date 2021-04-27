@@ -1,5 +1,13 @@
 # Tweets
 
+"@hazergroupltd
+
+A new blueprint plotting the course to transition New Zealand’s gas
+pipeline network, from natural gas to 100% hydrogen by 2050, was
+unveiled last month by Firstgas Group"
+
+---
+
 <iframe width="340" src="https://www.youtube.com/embed/1OO5YpCevfY?start=128&end=227" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -61,7 +69,6 @@ can make it, teacher same way. But we modernized shoemaking, all kinds
 of food prep. But we only modernized [some parts](2011/02/grading.md)
 of it, of the "craft", ending up with a bastardized, bizarre mixture
 of modern and pre-modern. Grading is an industrial approach. 
-
 
 ---
 
