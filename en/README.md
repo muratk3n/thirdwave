@@ -70,6 +70,16 @@ What modern education..? It's not even modern!
 
 ---
 
+Worse version of all things can be found in gobble gobble
+
+---
+
+🤣 🤣 🤣
+
+[Link](https://twitter.com/lituainianach/status/1386620096215408640)
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/BoschPress?ref_src=twsrc%5Etfw">@BoschPress</a>: <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> megatrend: <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> Market Worth Billions-Market for <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> in the <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> will be worth almost 40 billion euros by 2030. From 2021-2024, Bosch plans to invest one billion euros in fuel-cell technology-<a href="https://t.co/A2eCdP797S">https://t.co/A2eCdP797S</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://t.co/TfTvYHq6hR">pic.twitter.com/TfTvYHq6hR</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1386344257980706816?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
