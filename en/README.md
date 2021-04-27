@@ -20,12 +20,6 @@ But the mfker is like 'Sun is gaseous'? Bitch u dumb
 
 ---
 
-Playing musical chairs with carbon will be hard to track.. Must quash
-this shit at its source. If we enforce production of green fuel at the
-source, then all the way down the line no checks will be necessary.
-
----
-
 "US utilities are moving ahead with hydrogen pilot programs as part of
 their push toward net-zero emissions, with San Diego Gas & Electric
 and Dominion Energy April 19 providing details about projects to
