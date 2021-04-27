@@ -61,7 +61,7 @@ there was the shoemaker, ironsmith, bakery, there is.. the
 teacher. Shoemaker works on his shoes, his product is as good as he
 can make it, teacher same way. But we modernized shoemaking, all kinds
 of food prep. But we only modernized [some parts](2011/02/grading.md)
-of it, of the "craft", ending up with a bastardized, bizarre mixture
+of ed, of the "craft", ending up with a bastardized, bizarre mixture
 of modern and pre-modern. Grading is an industrial approach.
 
 ---
