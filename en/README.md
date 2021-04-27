@@ -67,7 +67,7 @@ What modern education..? It's not even modern!
 ---
 
 The shoddiest version of everything can be found in gobble gobble.. couldn't
-you at least _try_ to be a good conspiracy theorist? F-ing losah
+you at least _try_ to be a good conspiracy theorist? 
 
 ---
 
