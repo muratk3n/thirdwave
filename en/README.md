@@ -36,12 +36,6 @@ other applications"
 
 ---
 
-"Hydrogen, the fuel that is uniting the globe"
-
-[Link](https://eandt.theiet.org/content/articles/2021/04/hydrogen-the-fuel-that-is-uniting-the-globe/)
-
----
-
 Grading (only pass/fail) which takes the least amount of time, can
 remain in-person, craftsman-like, but through certifiers. The process
 will also be async, paving the way for the system's eventual
