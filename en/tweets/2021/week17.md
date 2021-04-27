@@ -1,5 +1,115 @@
 # Week 17
 
+NYT: "Last year, India and South Africa requested a waiver from World
+Trade Organization rules governing intellectual property for
+technology dealing with the pandemic. Dozens of mostly developing
+countries have since joined them. A handful of rich nations, including
+the United States, oppose the waiver, but there’s a widespread belief
+that if America changes its position, other countries will follow"
+
+[Link](https://www.nytimes.com/2021/04/23/opinion/global-vaccine-patents.html)
+
+---
+
+"@doctorow
+
+2.5b people in Earth's 130 poorest countries have not been
+vaccinated... The humanitarian cost is unforgivable - and
+self-defeating, as each infected person is a potential source of new
+strains...
+
+It was Gates who sabotaged the WHO Covid-19 Technology Access Pool
+(C-TAP), replacing it with his failed ACT-Accelerator, a system of
+patents and secrecy and vast profits for the pharma industry"
+
+---
+
+"Biolyse is a small pharmaceutical manufacturer in Canada with a simple
+proposition: provide a recipe for a coronavirus vaccine, and it will
+produce 20m doses for nations in the global south. It has approached
+AstraZeneca and Johnson & Johnson, and even asked the Canadian
+government to help it with compulsory licensing – which would give it
+the authorisation to produce another company’s patented product for
+emergency use – but so far no one has taken up its offer.
+
+When I reached him by phone this week, John Fulton, the vice-president
+of Biolyse, told me: 'We’ve been passed over. We’ve got this
+production capacity and it’s not being put to use'"
+
+[Link](https://amp.theguardian.com/commentisfree/2021/apr/24/covid-vaccines-patents-pharmaceutical-companies-secrecy)
+
+---
+
+"@shailjapatel
+
+During WW2, the US government forced pharmaceutical companies to share
+recipes for antibiotics. In the worldwide campaign against smallpox,
+the WHO maintained a register of manufacturing techniques and
+recipes...to share the technology globally." via The Guardian
+
+---
+
+Jacobin: "For the Left, it’s easy to hate the media, with its
+entrenched centrist biases and loyalty to the status quo. But a world
+without high-quality news is a world where meaningful democracy is
+impossible. That’s the message of media scholar Victor Pickard, who
+argues for a transformation of our media system away from the model of
+commercial news and toward a 'public option'"
+
+[Link](https://jacobinmag.com/2021/04/media-public-journalism-funding-news/)
+
+---
+
+Since if let loose, covid [can kill](2020/02/corona.md) 1% of a
+broader population (human pop grows by that exact amount each year)
+65% reduction is a major deal.
+
+"Single dose of Pfizer-BioNTech or Oxford-AstraZenca vaccine reduces
+infection rate by 65%, study finds"
+
+---
+
+Gotta void it bitch.. Otherwise some' fierce is coming your
+way.. There were plans to bar players who wld play in SL from World
+Cup even, which wld be a problem for many players.
+
+"The 12 clubs that agreed to join a new European Super League have
+'binding contracts' and "cannot leave", says Real Madrid president
+Florentino Perez"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really miss coffee shops so I asked my husband to change our Wi-Fi password and not tell me what it is unless I give him $7</p>&mdash; Adrienne Porter Felt (@__apf__) <a href="https://twitter.com/__apf__/status/1264230977158524933?ref_src=twsrc%5Etfw">May 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Countries, US states with fossil resources would be interested in this
+tech.. US Dem Senator Manchin is from a coal heavy state right, and a
+key vote in the Senate..? A bill with coal CCS, green fuel prodcution
+cld get his support 
+
+---
+
+Reuters: "A Japanese-Australian venture has begun producing hydrogen
+from brown coal in a $387 million test project that aims to show
+liquefied hydrogen can be produced and exported safely to Japan...
+
+Japan’s Kawasaki Heavy Industries is running the pilot project with
+government financial support from both Japan and Australia in the
+state of Victoria, home to a quarter of the world’s known brown coal
+reserves.a
+
+The project is producing hydrogen by reacting coal with oxygen and
+steam under high heat and pressure in a process that also yields
+carbon dioxide and other gases.
+
+If the project goes commercial, the plan would be to bury the carbon
+dioxide off the coast of Victoria, KHI has previously said"
+
+[Link](https://www.reuters.com/article/australia-hydrogen-kawasaki-heavy-idUSL4N2L81IF)
+
+---
+
 "@axios
 
 President Biden in the next few days will unveil eye-popping new tax

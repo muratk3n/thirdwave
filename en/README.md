@@ -1,115 +1,79 @@
 # Tweets
 
-NYT: "Last year, India and South Africa requested a waiver from World
-Trade Organization rules governing intellectual property for
-technology dealing with the pandemic. Dozens of mostly developing
-countries have since joined them. A handful of rich nations, including
-the United States, oppose the waiver, but there’s a widespread belief
-that if America changes its position, other countries will follow"
-
-[Link](https://www.nytimes.com/2021/04/23/opinion/global-vaccine-patents.html)
+<iframe width="340" src="https://www.youtube.com/embed/1OO5YpCevfY?start=128&end=227" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"@doctorow
+Under the crust lava is liquid 1000 deg.
 
-2.5b people in Earth's 130 poorest countries have not been
-vaccinated... The humanitarian cost is unforgivable - and
-self-defeating, as each infected person is a potential source of new
-strains...
+Earth core 5000 deg, as hot as the Sun itself, also liquid / solid.
 
-It was Gates who sabotaged the WHO Covid-19 Technology Access Pool
-(C-TAP), replacing it with his failed ACT-Accelerator, a system of
-patents and secrecy and vast profits for the pharma industry"
+But the mfker is like 'Sun is gaseous'? Bitch u dumb
 
 ---
 
-"Biolyse is a small pharmaceutical manufacturer in Canada with a simple
-proposition: provide a recipe for a coronavirus vaccine, and it will
-produce 20m doses for nations in the global south. It has approached
-AstraZeneca and Johnson & Johnson, and even asked the Canadian
-government to help it with compulsory licensing – which would give it
-the authorisation to produce another company’s patented product for
-emergency use – but so far no one has taken up its offer.
-
-When I reached him by phone this week, John Fulton, the vice-president
-of Biolyse, told me: 'We’ve been passed over. We’ve got this
-production capacity and it’s not being put to use'"
-
-[Link](https://amp.theguardian.com/commentisfree/2021/apr/24/covid-vaccines-patents-pharmaceutical-companies-secrecy)
+Playing musical chairs with carbon will be hard to track.. Must quash
+this shit at its source. If we enforce production of green fuel at the
+source, then all the way down the line no checks will be necessary.
 
 ---
 
-"@shailjapatel
+"US utilities are moving ahead with hydrogen pilot programs as part of
+their push toward net-zero emissions, with San Diego Gas & Electric
+and Dominion Energy April 19 providing details about projects to
+blend hydrogen into natural gas distribution systems, along with
+other applications"
 
-During WW2, the US government forced pharmaceutical companies to share
-recipes for antibiotics. In the worldwide campaign against smallpox,
-the WHO maintained a register of manufacturing techniques and
-recipes...to share the technology globally." via The Guardian
-
----
-
-Jacobin: "For the Left, it’s easy to hate the media, with its
-entrenched centrist biases and loyalty to the status quo. But a world
-without high-quality news is a world where meaningful democracy is
-impossible. That’s the message of media scholar Victor Pickard, who
-argues for a transformation of our media system away from the model of
-commercial news and toward a 'public option'"
-
-[Link](https://jacobinmag.com/2021/04/media-public-journalism-funding-news/)
+[Link](https://www.spglobal.com/platts/en/market-insights/latest-news/electric-power/041921-sdgampe-dominion-starting-hydrogen-pilot-programs-to-help-reach-net-zero-emissions)
 
 ---
 
-Since if let loose, covid [can kill](2020/02/corona.md) 1% of a
-broader population (human pop grows by that exact amount each year)
-65% reduction is a major deal.
+"JetBlue Invests in Hydrogen-Fueled Aviation Technology Company"
 
-"Single dose of Pfizer-BioNTech or Oxford-AstraZenca vaccine reduces
-infection rate by 65%, study finds"
+[Link](https://www.businesstravelnews.com/Transportation/Air/JetBlue-Invests-in-Hydrogen-Fueled-Aviation-Technology-Company)
 
 ---
 
-Gotta void it bitch.. Otherwise some' fierce is coming your
-way.. There were plans to bar players who wld play in SL from World
-Cup even, which wld be a problem for many players.
+"Hydrogen, the fuel that is uniting the globe"
 
-"The 12 clubs that agreed to join a new European Super League have
-'binding contracts' and "cannot leave", says Real Madrid president
-Florentino Perez"
+[Link](https://eandt.theiet.org/content/articles/2021/04/hydrogen-the-fuel-that-is-uniting-the-globe/)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really miss coffee shops so I asked my husband to change our Wi-Fi password and not tell me what it is unless I give him $7</p>&mdash; Adrienne Porter Felt (@__apf__) <a href="https://twitter.com/__apf__/status/1264230977158524933?ref_src=twsrc%5Etfw">May 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Let's truly [modernise](2018/09/public-education.md), so the crux of
+ed, the delivery has a guaranteed quality. Grading which takes the
+least amount of time, can remain in-person, craftsman-like, but
+through carefully certified officials. The process will also be async,
+paving the way for the system's eventual transition to 3W.
 
 ---
 
-Countries, US states with fossil resources would be interested in this
-tech.. US Dem Senator Manchin is from a coal heavy state right, and a
-key vote in the Senate..? A bill with coal CCS, green fuel prodcution
-cld get his support 
+Modernity, as in industrial production, gives you products that are
+copies of a template; I buy a 27'' LCD monitor, it is exactly like the
+next 27'' LCD monitor produced by the same brand.
+
+But education still varies from teacher to teacher; why? Because we
+chose to deliver lectures through individuals.. Ed therefore is still
+not a product. It is treated as some sort of pre-modern craft. Just
+like there was the shoemaker, ironsmith, bakery, there is.. the
+teacher. Shoemaker works on his shoes, his product is as good as he
+can make it, teacher same way. But we modernized shoemaking, all kinds
+of food prep. But we only modernized [some parts](2011/02/grading.md)
+of it, of the "craft", ending up with a bastardized, bizarre mixture
+of modern and pre-modern. Grading is an industrial approach. 
+
 
 ---
 
-Reuters: "A Japanese-Australian venture has begun producing hydrogen
-from brown coal in a $387 million test project that aims to show
-liquefied hydrogen can be produced and exported safely to Japan...
+What modern education..? It's not even modern!
 
-Japan’s Kawasaki Heavy Industries is running the pilot project with
-government financial support from both Japan and Australia in the
-state of Victoria, home to a quarter of the world’s known brown coal
-reserves.a
-
-The project is producing hydrogen by reacting coal with oxygen and
-steam under high heat and pressure in a process that also yields
-carbon dioxide and other gases.
-
-If the project goes commercial, the plan would be to bury the carbon
-dioxide off the coast of Victoria, KHI has previously said"
-
-[Link](https://www.reuters.com/article/australia-hydrogen-kawasaki-heavy-idUSL4N2L81IF)
+"What is wrong with modern education?"
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/BoschPress?ref_src=twsrc%5Etfw">@BoschPress</a>: <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> megatrend: <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> Market Worth Billions-Market for <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> in the <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> will be worth almost 40 billion euros by 2030. From 2021-2024, Bosch plans to invest one billion euros in fuel-cell technology-<a href="https://t.co/A2eCdP797S">https://t.co/A2eCdP797S</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://t.co/TfTvYHq6hR">pic.twitter.com/TfTvYHq6hR</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1386344257980706816?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
