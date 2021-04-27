@@ -54,15 +54,15 @@ Modernity, as in industrial production, gives you products that are
 copies of a template; I buy a 27'' LCD monitor, it is exactly like the
 next 27'' LCD monitor produced by the same brand.
 
-But education still varies from teacher to teacher; why? Because we
-chose to deliver lectures through individuals.. Ed therefore is still
-not a product. It is treated as some sort of pre-modern craft. Just
-like there was the shoemaker, ironsmith, bakery, there is.. the
+But education still varies from teacher to teacher because we chose to
+deliver lectures through individuals.. Ed therefore is still not a
+product. It is treated as some sort of pre-modern craft. Just like
+there was the shoemaker, ironsmith, bakery, there is.. the
 teacher. Shoemaker works on his shoes, his product is as good as he
 can make it, teacher same way. But we modernized shoemaking, all kinds
 of food prep. But we only modernized [some parts](2011/02/grading.md)
 of it, of the "craft", ending up with a bastardized, bizarre mixture
-of modern and pre-modern. Grading is an industrial approach. 
+of modern and pre-modern. Grading is an industrial approach.
 
 ---
 
