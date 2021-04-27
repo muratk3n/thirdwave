@@ -76,7 +76,7 @@ The shoddiest version of everything can be found in gobble gobble
 
 🤣 🤣 🤣
 
-[Link](https://twitter.com/lituainianach/status/1386620096215408640)
+[Link](https://twitter.com/MiddleEastTakes/status/1386589167967158273)
 
 ---
 
