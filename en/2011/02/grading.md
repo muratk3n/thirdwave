@@ -81,7 +81,3 @@ A process of sorting and discarding the misfits began (just like in
 the shoe factory) which, to this day, rewards the "standard" and
 wounds the "different."
 
-Video by Salman Khan (of Khanacademy)
-
-[Let's teach for mastery](https://youtu.be/-MTRxRO5SRA)
-
