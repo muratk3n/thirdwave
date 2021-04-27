@@ -42,11 +42,15 @@ other applications"
 
 ---
 
+Grading (only pass/fail) which takes the least amount of time, can
+remain in-person, craftsman-like, but through certifiers. The process
+will also be async, paving the way for the system's eventual
+transition to 3W.
+
+---
+
 Let's truly [modernise](2018/09/public-education.md), so the crux of
-ed, the delivery has a guaranteed quality. Grading which takes the
-least amount of time, can remain in-person, craftsman-like, but
-through carefully certified officials. The process will also be async,
-paving the way for the system's eventual transition to 3W.
+ed, so the delivery has a guaranteed quality. 
 
 ---
 
