@@ -57,10 +57,10 @@ deliver lectures through individuals.. Ed therefore is still not a
 product. It is treated as some sort of pre-modern craft. Just like
 there was the shoemaker, ironsmith, bakery, there is.. the
 teacher. Shoemaker works on his shoes, his product is as good as he
-can make it, teacher same way. But we modernized shoemaking, all kinds
-of food prep. But we only modernized [some parts](2011/02/grading.md)
-of ed, of the "craft", ending up with a bastardized, bizarre mixture
-of modern and pre-modern. Grading is an industrial approach.
+can make it, teacher same way. We modernized shoemaking, all kinds of
+food prep but we only modernized [some parts](2011/02/grading.md) of
+ed, of the "craft", ending up with a bastardized, bizarre mixture of
+modern and pre-modern. Grading is an industrial approach.
 
 ---
 
