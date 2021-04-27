@@ -38,8 +38,6 @@
 
 [After Mubarak](02/after-mubarak.md)
 
-[Average Teachers](02/average-teachers.md)
-
 [Bureucracy - Part I](02/bureucracy-part-i.md)
 
 [Bureucracy - Part II](02/bureucracy-part-ii.md)
@@ -47,8 +45,6 @@
 [Bureucracy](02/bureucracy.md)
 
 [Conservatives for Liberty](02/conservatives-for-liberty.md)
-
-[Fire All Teachers](02/fire-all-teachers.md)
 
 [Google Map of Protests](02/google-map-of-protests.md)
 
@@ -89,8 +85,6 @@
 [Sudburry Valley](02/sudburry-valley.md)
 
 [Take That Kill-Switch and Shove It Up Your Ass](02/take-that-kill-switch-and-shove-it-up.md)
-
-[Teaching by Example](02/teaching-by-example.md)
 
 [Viewpoint: Too early to celebrate in Egypt?](02/viewpoint-too-early-to-celebrate-in.md)
 
