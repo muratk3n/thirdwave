@@ -36,14 +36,11 @@ other applications"
 
 ---
 
-Let's truly modernise ed by replacing the teacher, so the crux of ed,
-so the delivery has a guaranteed quality.
-
-Grading (only pass/fail) which takes the least amount of time, can
-remain in-person, craftsman-like, but through certifiers. The process
-will also be async, paving the way for the system's eventual
-transition to 3W.
-
+Let's truly modernise ed by replacing the teacher, so the crux, the
+delivery, has a guaranteed quality. Grading (only pass/fail) which
+takes the least amount of time, can remain in-person, craftsman-like,
+but through certifiers. The process will also be async, paving the way
+for the system's eventual transition to 3W.
 
 ---
 
