@@ -70,7 +70,7 @@ What modern education..? It's not even modern!
 
 ---
 
-Worse version of all things can be found in gobble gobble
+The shoddiest of everything can be found in gobble gobble
 
 ---
 
