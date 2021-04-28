@@ -56,6 +56,10 @@ Everything else aside Astra Zeneca is a cool name.
 
 ---
 
+And of course there should not be any billionaires
+
+---
+
 Got money, fund some unseen, unorthodox idea, fine. But seriously
 during serious events, fuck off
 
