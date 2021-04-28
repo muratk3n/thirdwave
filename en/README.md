@@ -63,10 +63,10 @@ during serious events, fuck off
 
 Remember Gates on some news show talking abt pandemic.. This guy was
 like 'I droped a billion here and a billion there" and I am thinking
-dude talks like government. Acting like one. Now I worry with so much
-resources he is getting in the way.. There are only so many vacc
-researchers, resources to make stuff happen.. But who does he answer
-to? Noone elected him.
+dude talks like government. Acting like one. Now I worry if he is
+getting in the way.. There are only so many vacc researchers,
+resources to make stuff happen.. But who does he answer to? Noone
+elected him.
 
 ---
 
