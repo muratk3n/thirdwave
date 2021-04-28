@@ -57,14 +57,14 @@ Everything else aside Astra Zeneca is a cool name.
 ---
 
 Got money, fund some unseen, unorthodox idea, fine. But seriously
-during serious events, buzz off
+during serious events, fuck off
 
 ---
 
 Remember Gates on some news show talking abt pandemic.. This guy was
 like 'I droped a billion here and a billion there" and I am thinking
-guy talks like government. Acting like one. Now I worry with so much
-resources if he is getting in the way.. There are only so many vacc
+dude talks like government. Acting like one. Now I worry with so much
+resources he is getting in the way.. There are only so many vacc
 researchers, resources to make stuff happen.. But who does he answer
 to? Noone elected him.
 
