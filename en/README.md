@@ -36,10 +36,10 @@ giant .. vows to defend itself"
 
 ---
 
-That custom can be found everywhere from Italy, to Greece, to other
-Eastern European countries, as well as some Arabic countries. Again,
-another custom that is regional and u assimilated into bitch, not
-brought by some punks 
+That custom can be found [anywhere](https://en.wikipedia.org/wiki/Tradition_of_removing_shoes_in_the_home_and_houses_of_worship)
+from Italy, to Greece, to other Eastern European countries, as well
+as some Arabic countries. Again, another custom that is regional and
+u assimilated into bitch... not brought by some punks 
 
 "I went to Japan and they take their shoes off before entering
 someone's house just like in TR, proof that we are Asiatic"
