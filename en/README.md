@@ -31,6 +31,10 @@ level such allegations"
 
 ---
 
+Everything else aside Astra Zeneca is a cool name.
+
+---
+
 "EU sues AstraZeneca over vaccine delivery delays.. The pharmaceutical
 giant .. vows to defend itself"
 
@@ -49,10 +53,6 @@ someone's house just like in TR, proof that we are Asiatic"
 Dam
 
 "West Virginia paying young people to get vaccinated"
-
----
-
-Everything else aside Astra Zeneca is a cool name.
 
 ---
 
