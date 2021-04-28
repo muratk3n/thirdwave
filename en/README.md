@@ -56,8 +56,8 @@ Everything else aside Astra Zeneca is a very cool name.
 
 ---
 
-Got money, fund some off-the-beaten-path idea, fine. But seriously during
-serious biz fuck off
+Got money, fund some unseen, unorthodox idea, fine. But seriously
+during serious events, buzz off
 
 ---
 
