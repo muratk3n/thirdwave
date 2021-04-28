@@ -32,14 +32,14 @@ level such allegations"
 ---
 
 "EU sues AstraZeneca over vaccine delivery delays.. The pharmaceutical
-giant says the legal action is 'without merit' and vows to defend
-itself"
+giant .. vows to defend itself"
 
 ---
 
 That custom can be found everywhere from Italy, to Greece, to other
 Eastern European countries, as well as some Arabic countries. Again,
-another custom that is regional
+another custom that is regional and u assimilated into bitch, not
+brought by punks from whereverfuck.
 
 "I went to Japan and they take their shoes off before entering
 someone's house just like in TR, proof that we are Asiatic"
@@ -52,7 +52,7 @@ Dam
 
 ---
 
-Everything else aside Astra Zeneca is a very cool name.
+Everything else aside Astra Zeneca is a cool name.
 
 ---
 
