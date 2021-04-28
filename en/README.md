@@ -39,8 +39,7 @@ giant .. vows to defend itself"
 That custom can be found everywhere from Italy, to Greece, to other
 Eastern European countries, as well as some Arabic countries. Again,
 another custom that is regional and u assimilated into bitch, not
-brought by punks from whereverfuck (plus the Japanese arent exactly
-Central As)
+brought by some punks 
 
 "I went to Japan and they take their shoes off before entering
 someone's house just like in TR, proof that we are Asiatic"
