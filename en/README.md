@@ -1,83 +1,76 @@
 # Tweets
 
-"@hazergroupltd
 
-A new blueprint plotting the course to transition New Zealand’s gas
-pipeline network, from natural gas to 100% hydrogen by 2050, was
-unveiled last month by Firstgas Group"
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/jcXWuJv329">https://t.co/jcXWuJv329</a></p>&mdash; Asia-Pacific Hydrogen Association (@APAC_Hydrogen) <a href="https://twitter.com/APAC_Hydrogen/status/1387150949915971589?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<iframe width="340" src="https://www.youtube.com/embed/1OO5YpCevfY?start=128&end=227" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Ridge lift eh.. nice...
 
 ---
 
-Under the crust lava is liquid 1000 deg.
+Solid carbon. Interesting.
 
-Earth core 5000 deg, as hot as the Sun itself, also liquid / solid.
+"Ekona's pulsed-methane pyrolysis (PMP) solution converts natural gas
+feedstock into hydrogen and *solid carbon*, virtually eliminating CO2
+emissions"
 
-But the mfker is like 'Sun is gaseous'? Bitch u dumb
-
----
-
-"US utilities are moving ahead with hydrogen pilot programs as part of
-their push toward net-zero emissions, with San Diego Gas & Electric
-and Dominion Energy April 19 providing details about projects to
-blend hydrogen into natural gas distribution systems, along with
-other applications"
-
-[Link](https://www.spglobal.com/platts/en/market-insights/latest-news/electric-power/041921-sdgampe-dominion-starting-hydrogen-pilot-programs-to-help-reach-net-zero-emissions)
+[Link](https://www.newswire.ca/news-releases/ekona-power-raises-3-0-million-from-bdc-capital-to-accelerate-the-development-of-its-novel-technology-for-low-cost-clean-hydrogen-828153584.html)
 
 ---
 
-"JetBlue Invests in Hydrogen-Fueled Aviation Technology Company"
-
-[Link](https://www.businesstravelnews.com/Transportation/Air/JetBlue-Invests-in-Hydrogen-Fueled-Aviation-Technology-Company)
-
----
-
-Let's truly modernise ed by replacing the teacher, so the crux, the
-delivery, has a guaranteed quality. Grading (only pass/fail) which
-takes the least amount of time, can remain in-person, craftsman-like,
-but through certifiers. The process will also be async, paving the way
-for the system's eventual transition to 3W.
+The Guardian: "Israel is committing the crime of apartheid, rights
+watchdog says.. Human Rights Watch calls on international criminal
+court to investigate ‘systematic discrimination’ against
+Palestinians.. has accused Israeli officials of committing the crimes
+of apartheid and persecution, claiming the government enforces an
+overarching policy to “maintain the domination by Jewish Israelis over
+Palestinians”. In a report released on Tuesday, the New York-based
+advocacy group became the first major international rights body to
+level such allegations"
 
 ---
 
-Modernity, as in industrial production, gives you products that are
-copies of a template; I buy a 27'' LCD monitor, it is exactly like the
-next 27'' LCD monitor produced by the same brand.
-
-But education still varies from teacher to teacher because we chose to
-deliver lectures through individuals.. Ed therefore is still not a
-product. It is treated as some sort of pre-modern craft. Just like
-there was the shoemaker, ironsmith, bakery, there is.. the
-teacher. Shoemaker works on his shoes, his product is as good as he
-can make it, teacher same way. We modernized shoemaking, all kinds of
-food prep but we only modernized [some parts](2011/02/grading.md) of
-ed, of the "craft", ending up with a bastardized, bizarre mixture of
-modern and pre-modern. Grading is an industrial approach.
+"EU sues AstraZeneca over vaccine delivery delays.. The pharmaceutical
+giant says the legal action is 'without merit' and vows to defend
+itself"
 
 ---
 
-What modern education..? It's not even modern!
+That custom can be found everywhere from Italy, to Greece, to other
+Eastern European countries, as well as some Arabic countries. Again,
+another custom that is regional
 
-"What is wrong with modern education?"
-
----
-
-The shoddiest version of everything can be found in gobble gobble.. couldn't
-you at least _try_ to be a good conspiracy theorist? 
+"I went to Japan and they take their shoes off before entering
+someone's house just like in TR, proof that we are Asiatic"
 
 ---
 
-🤣 🤣 🤣
+Dam
 
-[Link](https://twitter.com/MiddleEastTakes/status/1386589167967158273)
+"West Virginia paying young people to get vaccinated"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/BoschPress?ref_src=twsrc%5Etfw">@BoschPress</a>: <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> megatrend: <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> Market Worth Billions-Market for <a href="https://twitter.com/hashtag/greenhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#greenhydrogen</a> in the <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> will be worth almost 40 billion euros by 2030. From 2021-2024, Bosch plans to invest one billion euros in fuel-cell technology-<a href="https://t.co/A2eCdP797S">https://t.co/A2eCdP797S</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://t.co/TfTvYHq6hR">pic.twitter.com/TfTvYHq6hR</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1386344257980706816?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Everything else aside Astra Zeneca is a very cool name.
+
+---
+
+Got money, fund some off-the-beaten-path idea, fine. But seriously during
+serious biz fuck off
+
+---
+
+Gates on some news show talking abt pandemic.. This guy was like 'I
+droped a billion here and a billion there" and I am thinking guy talks
+like government. Acting like one. Now I worry with so much resources
+if he is getting in the way.. There are only so many vacc researchers,
+resources to make stuff happen.. But who does he answer to? Noone
+elected him.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bizarre! Same here! It&#39;s like the other c-viruses got pissed b/c the upstart newbie was getting all the attention, decided to reassert themselves.</p>&mdash; Leslie K. Paige (@lesliekpaige) <a href="https://twitter.com/lesliekpaige/status/1387169779753046019?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
