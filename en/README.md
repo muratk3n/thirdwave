@@ -1,16 +1,5 @@
 # Tweets
 
-U-oh
-
-BBC: "[AAPL, FB] are locked in a stand-off after Apple announced the
-latest version of its iOS operating system this week. A new feature
-will prompt device users to decide whether they are happy for their
-data to be collected by apps. Many are likely to say no. But user data
-is a large reason why Facebook's ad-based business model is so
-profitable"
-
----
-
 "Giuliani: US investigators raid former Trump lawyer's home. The
 former New York mayor and lawyer to Donald Trump is being investigated
 for dealings with Ukraine"
@@ -24,6 +13,16 @@ pure hydrogen fuel cell will offer both heat and electric power"
 
 [Link](https://www.h2-view.com/story/a-hydrogen-society-an-interview-with-panasonic-part-1/)
 
+---
+
+U-oh
+
+BBC: "[AAPL, FB] are locked in a stand-off after Apple announced the
+latest version of its iOS operating system this week. A new feature
+will prompt device users to decide whether they are happy for their
+data to be collected by apps. Many are likely to say no. But user data
+is a large reason why Facebook's ad-based business model is so
+profitable"
 
 ---
 
