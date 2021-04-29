@@ -1,5 +1,21 @@
 # Tweets
 
+U-oh
+
+"[AAPL, FB] are locked in a stand-off after Apple announced the latest
+version of its iOS operating system this week. A new feature will
+prompt device users to decide whether they are happy for their data to
+be collected by apps. Many are likely to say no. But user data is a
+large reason why Facebook's ad-based business model is so profitable"
+
+---
+
+"Giuliani: US investigators raid former Trump lawyer's home. The
+former New York mayor and lawyer to Donald Trump is being investigated
+for dealings with Ukraine"
+
+---
+
 "In some European countries – the UK, the Netherlands and some parts of
 Germany for example – the plan is to switch from the current supply of
 natural gas to pure hydrogen for residential markets. In this case our
