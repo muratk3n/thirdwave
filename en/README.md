@@ -31,7 +31,7 @@ No bitch dont smoke it, eat it 🙄
 
 ---
 
-Dam there is nicotine in eggplant.. give up smoking eat some eggplant
+Dam there is nicotine in eggplant.. give up smoking have some eggplant
 
 ---
 
