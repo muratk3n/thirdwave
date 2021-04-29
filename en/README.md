@@ -85,11 +85,15 @@ Sinovac is some subpar prod isnt it? WHO still hasnt approved it
 
 ---
 
+All [lines](https://www.youtube.com/watch?v=b4zVu0sN8cw) from *Deuce Bigalow*
+
+---
+
 Wut! Wut! Wut!
 
 ---
 
-Mfker is a man-ho. He have manjina
+Mfker is a man-ho. He have mangina
 
 ---
 
