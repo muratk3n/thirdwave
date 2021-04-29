@@ -2,11 +2,12 @@
 
 U-oh
 
-"[AAPL, FB] are locked in a stand-off after Apple announced the latest
-version of its iOS operating system this week. A new feature will
-prompt device users to decide whether they are happy for their data to
-be collected by apps. Many are likely to say no. But user data is a
-large reason why Facebook's ad-based business model is so profitable"
+BBC: "[AAPL, FB] are locked in a stand-off after Apple announced the
+latest version of its iOS operating system this week. A new feature
+will prompt device users to decide whether they are happy for their
+data to be collected by apps. Many are likely to say no. But user data
+is a large reason why Facebook's ad-based business model is so
+profitable"
 
 ---
 
