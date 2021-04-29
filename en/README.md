@@ -26,7 +26,7 @@ profitable"
 
 ---
 
-No bitch dont smoke it, eat it 🙄
+No bitch dont smoke it, eat it 🤨
 
 ---
 
