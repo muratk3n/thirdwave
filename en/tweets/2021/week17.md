@@ -1,5 +1,83 @@
 # Week 17
 
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/jcXWuJv329">https://t.co/jcXWuJv329</a></p>&mdash; Asia-Pacific Hydrogen Association (@APAC_Hydrogen) <a href="https://twitter.com/APAC_Hydrogen/status/1387150949915971589?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Ridge lift eh.. nice...
+
+---
+
+Solid carbon. Interesting.
+
+"Ekona's pulsed-methane pyrolysis (PMP) solution converts natural gas
+feedstock into hydrogen and *solid carbon*, virtually eliminating CO2
+emissions"
+
+[Link](https://www.newswire.ca/news-releases/ekona-power-raises-3-0-million-from-bdc-capital-to-accelerate-the-development-of-its-novel-technology-for-low-cost-clean-hydrogen-828153584.html)
+
+---
+
+The Guardian: "Israel is committing the crime of apartheid, rights
+watchdog says.. Human Rights Watch calls on international criminal
+court to investigate ‘systematic discrimination’ against
+Palestinians.. has accused Israeli officials of committing the crimes
+of apartheid and persecution, claiming the government enforces an
+overarching policy to “maintain the domination by Jewish Israelis over
+Palestinians”. In a report released on Tuesday, the New York-based
+advocacy group became the first major international rights body to
+level such allegations"
+
+---
+
+Everything else aside Astra Zeneca is a cool name.
+
+---
+
+"EU sues AstraZeneca over vaccine delivery delays.. The pharmaceutical
+giant .. vows to defend itself"
+
+---
+
+That custom can be found [anywhere](https://en.wikipedia.org/wiki/Tradition_of_removing_shoes_in_the_home_and_houses_of_worship)
+from Italy, to Greece, to other Eastern European countries, as well
+as some Arabic countries. Again, another custom that is regional and
+every1 assimilated into... not brought by some punks 
+
+"I went to Japan and they take their shoes off before entering
+someone's house just like in TR, proof that we are Asiatic"
+
+---
+
+Dam
+
+"West Virginia paying young people to get vaccinated"
+
+---
+
+And of course there should not be any billionaires
+
+---
+
+Got money, fund some unseen, unorthodox idea, fine. But seriously
+during serious events, fuck off
+
+---
+
+Remember Gates on some news show talking abt pandemic.. This guy was
+like 'I droped a billion here and a billion there" and I am thinking
+dude talks like government. Acting like one. Now I worry if he is
+getting in the way.. There are only so many vacc researchers,
+resources to make stuff happen.. But who does he answer to? Noone
+elected him.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bizarre! Same here! It&#39;s like the other c-viruses got pissed b/c the upstart newbie was getting all the attention, decided to reassert themselves.</p>&mdash; Leslie K. Paige (@lesliekpaige) <a href="https://twitter.com/lesliekpaige/status/1387169779753046019?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@hazergroupltd
 
 A new blueprint plotting the course to transition New Zealand’s gas

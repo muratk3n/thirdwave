@@ -1,80 +1,78 @@
 # Tweets
 
+"In some European countries – the UK, the Netherlands and some parts of
+Germany for example – the plan is to switch from the current supply of
+natural gas to pure hydrogen for residential markets. In this case our
+pure hydrogen fuel cell will offer both heat and electric power"
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/jcXWuJv329">https://t.co/jcXWuJv329</a></p>&mdash; Asia-Pacific Hydrogen Association (@APAC_Hydrogen) <a href="https://twitter.com/APAC_Hydrogen/status/1387150949915971589?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://www.h2-view.com/story/a-hydrogen-society-an-interview-with-panasonic-part-1/)
 
----
-
-Ridge lift eh.. nice...
-
----
-
-Solid carbon. Interesting.
-
-"Ekona's pulsed-methane pyrolysis (PMP) solution converts natural gas
-feedstock into hydrogen and *solid carbon*, virtually eliminating CO2
-emissions"
-
-[Link](https://www.newswire.ca/news-releases/ekona-power-raises-3-0-million-from-bdc-capital-to-accelerate-the-development-of-its-novel-technology-for-low-cost-clean-hydrogen-828153584.html)
 
 ---
 
-The Guardian: "Israel is committing the crime of apartheid, rights
-watchdog says.. Human Rights Watch calls on international criminal
-court to investigate ‘systematic discrimination’ against
-Palestinians.. has accused Israeli officials of committing the crimes
-of apartheid and persecution, claiming the government enforces an
-overarching policy to “maintain the domination by Jewish Israelis over
-Palestinians”. In a report released on Tuesday, the New York-based
-advocacy group became the first major international rights body to
-level such allegations"
+Dam there is nicotine in eggplant.. give up smoking eat some eggplant
 
 ---
 
-Everything else aside Astra Zeneca is a cool name.
+"@stephenburanyi
+
+Same reason the US Chamber of Commerce briefed against
+it. International IP rules benefit almost all US big business. This is
+an existential issue for them that goes well beyond Covid. Any
+precedent for suspending those rules will be fought tooth and nail.
+
+'@lhfang
+
+Hollywood lobbyists and the recording industry are intervening against
+the emergency proposal to share vaccine technology. Why? There's a
+fear that suspending trade rules will weaken copyright enforcement,
+the waiver at the WTO will be too broad'"
+
+[Link](https://interc.pt/3aHSVzg)
 
 ---
 
-"EU sues AstraZeneca over vaccine delivery delays.. The pharmaceutical
-giant .. vows to defend itself"
+I bet such diy deals cld even be used for money laundering
+
+Reuters: "A growing number of private equity firms are establishing new
+funds to buy portfolio companies from funds they already control. With
+the buyer and seller each an entity controlled by the same private
+equity firm, scrutiny is growing over how they price such deals"
 
 ---
 
-That custom can be found [anywhere](https://en.wikipedia.org/wiki/Tradition_of_removing_shoes_in_the_home_and_houses_of_worship)
-from Italy, to Greece, to other Eastern European countries, as well
-as some Arabic countries. Again, another custom that is regional and
-every1 assimilated into... not brought by some punks 
+Great. While u r on it kill the BEV initiatives, a lot of your
+carmakers got swept up by hype stirred by bunch of lost souls in US,
+ignorant celebrities
 
-"I went to Japan and they take their shoes off before entering
-someone's house just like in TR, proof that we are Asiatic"
+"Federal Minister of Transport Andreas Scheuer.. Germany will become a
+hydrogen country. In our search for suitable locations for hydrogen
+technology, we received 15 exciting applications from all over
+Germany"
 
----
-
-Dam
-
-"West Virginia paying young people to get vaccinated"
+[Link](https://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2021/042-scheuer-deutschland-wird-wasserstoffland.html)
 
 ---
 
-And of course there should not be any billionaires
+@AFP
+
+\#BREAKING Germany, France back 21% global minimum corporate tax proposal: ministers
 
 ---
 
-Got money, fund some unseen, unorthodox idea, fine. But seriously
-during serious events, fuck off
+Vacc diplomacy? What vacc diplomacy? Your vacc is a piece of shit 
 
 ---
 
-Remember Gates on some news show talking abt pandemic.. This guy was
-like 'I droped a billion here and a billion there" and I am thinking
-dude talks like government. Acting like one. Now I worry if he is
-getting in the way.. There are only so many vacc researchers,
-resources to make stuff happen.. But who does he answer to? Noone
-elected him.
+Sinovac is some subpar prod isnt it? WHO still hasnt approved it
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bizarre! Same here! It&#39;s like the other c-viruses got pissed b/c the upstart newbie was getting all the attention, decided to reassert themselves.</p>&mdash; Leslie K. Paige (@lesliekpaige) <a href="https://twitter.com/lesliekpaige/status/1387169779753046019?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Wut! Wut! Wut!
+
+---
+
+Mfker is a man-ho. He have manjina
 
 ---
 
