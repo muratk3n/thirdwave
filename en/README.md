@@ -15,12 +15,6 @@ with Jason Alexander as Gorbachev and Dolph Lundgren as Yeltsin"
 
 ---
 
-Jacobin: "Demanding an End to Uyghur Oppression... We can oppose the
-saber-rattling and militarism of the US’s China hawks without
-downplaying the oppression of the Uyghur people"
-
----
-
 @ABC
 
 Pres. Biden: “The IRS is going to crack down on millionaires and
@@ -75,6 +69,12 @@ list/groups/contacts/stickers/profile name/avatar. As result the only
 info it can give in response to subpoena is: Unix timestamps for when
 each account was created and date each account last connected to
 Signal"
+
+---
+
+Jacobin: "Demanding an End to Uyghur Oppression... We can oppose the
+saber-rattling and militarism of the US’s China hawks without
+downplaying the oppression of the Uyghur people"
 
 ---
 
