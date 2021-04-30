@@ -1,102 +1,80 @@
 # Tweets
 
-"Giuliani: US investigators raid former Trump lawyer's home. The
-former New York mayor and lawyer to Donald Trump is being investigated
-for dealings with Ukraine"
+Billy May - Window Washer \#music
+
+[Link](https://youtu.be/13xUU9GbMFc)
 
 ---
 
-"In some European countries – the UK, the Netherlands and some parts of
-Germany for example – the plan is to switch from the current supply of
-natural gas to pure hydrogen for residential markets. In this case our
-pure hydrogen fuel cell will offer both heat and electric power"
+Strange casting choice but I'd watch that movie
 
-[Link](https://www.h2-view.com/story/a-hydrogen-society-an-interview-with-panasonic-part-1/)
+"@mkerrhardy
 
----
-
-U-oh
-
-BBC: "[AAPL, FB] are locked in a stand-off after Apple announced the
-latest version of its iOS operating system this week. A new feature
-will prompt device users to decide whether they are happy for their
-data to be collected by apps. Many are likely to say no. But user data
-is a large reason why Facebook's ad-based business model is so
-profitable"
+I demand a sequel to The Death of Stalin called The Death of the USSR,
+with Jason Alexander as Gorbachev and Dolph Lundgren as Yeltsin"
 
 ---
 
-No bitch dont smoke it, eat it 🤨
+Jacobin: "Demanding an End to Uyghur Oppression... We can oppose the
+saber-rattling and militarism of the US’s China hawks without
+downplaying the oppression of the Uyghur people"
 
 ---
 
-Dam there is nicotine in eggplant.. give up smoking have some eggplant
+@ABC
+
+Pres. Biden: “The IRS is going to crack down on millionaires and
+billionaires who cheat on their taxes. It's estimated to be billions
+of dollars.”
 
 ---
 
-"@stephenburanyi
+.. says the only black Republican in the US Senate. Yeah you are
+believable
 
-Same reason the US Chamber of Commerce briefed against
-it. International IP rules benefit almost all US big business. This is
-an existential issue for them that goes well beyond Covid. Any
-precedent for suspending those rules will be fought tooth and nail.
+"@MSNBC
 
-'@lhfang
-
-Hollywood lobbyists and the recording industry are intervening against
-the emergency proposal to share vaccine technology. Why? There's a
-fear that suspending trade rules will weaken copyright enforcement,
-the waiver at the WTO will be too broad'"
-
-[Link](https://interc.pt/3aHSVzg)
+"I get called Uncle Tom and the N word by progressives" Sen. Tim Scott
+says in GOP rebuttal of President Biden's address to Congress"
 
 ---
 
-I bet such diy deals cld even be used for money laundering
-
-Reuters: "A growing number of private equity firms are establishing new
-funds to buy portfolio companies from funds they already control. With
-the buyer and seller each an entity controlled by the same private
-equity firm, scrutiny is growing over how they price such deals"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to the Green Energy Association of Israel for sharing! <a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> pioneers bringing H2 &amp; fuel cells to the Israeli power sector &amp; takes action to accelerate Israel&#39;s transition to <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a>! <a href="https://t.co/2y8TBI4PDe">https://t.co/2y8TBI4PDe</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1387750763800182788?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Great. While u r on it kill the BEV initiatives, a lot of your
-carmakers got swept up by hype stirred by bunch of lost souls in US,
-ignorant celebrities
 
-"Federal Minister of Transport Andreas Scheuer.. Germany will become a
-hydrogen country. In our search for suitable locations for hydrogen
-technology, we received 15 exciting applications from all over
-Germany"
+"Led by an unlikely partnership between top venture capitalist Keith
+Rabois and Miami mayor Francis Suarez, Miami has become the latest
+city to grab headlines as the next big tech hub. From December 2020 to
+January 2021, Miami saw a net migration of 145%, while the Silicon
+Valley-Bay Area region saw -47.2% net migration"
 
-[Link](https://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2021/042-scheuer-deutschland-wird-wasserstoffland.html)
+[Link](https://www.movebuddha.com/blog/silicon-valley-miami-migration/)
 
 ---
 
-@AFP
-
-\#BREAKING Germany, France back 21% global minimum corporate tax proposal: ministers
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re on track with the BMW i Hydrogen NEXT. Prototypes will now enter the next phase and start road tests throughout Europe. We welcome the <a href="https://twitter.com/BMVI?ref_src=twsrc%5Etfw">@BMVI</a> initiative to support the use of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> in passenger cars.<a href="https://twitter.com/hashtag/BMWGroup?src=hash&amp;ref_src=twsrc%5Etfw">#BMWGroup</a> <a href="https://t.co/CK3in2bwVr">pic.twitter.com/CK3in2bwVr</a></p>&mdash; BMW Group (@BMWGroup) <a href="https://twitter.com/BMWGroup/status/1387360955567382528?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Vacc diplomacy? What vacc diplomacy? Your vacc is a piece of shit 
+"@H2Europe
 
----
+@BMWGroup, @HMGnewsroom, @Stellantis & @toyota_europe sent a joint
+letter to VP @TimmermansEU to confirm their dedication to further
+develop the \#fuelcell passenger car + LCV market and call for an
+expansion of the established (and proven) 700bar refuelling
+network"
 
-Sinovac is some subpar prod isnt it? WHO still hasnt approved it
+----
 
----
+"@KimZetter
 
-All [lines](https://www.youtube.com/watch?v=b4zVu0sN8cw) from *Deuce Bigalow*
-
----
-
-Wut! Wut! Wut!
-
----
-
-Mfker is a man-ho. He have mangina
+Signal doesn’t have access to messages/chat
+list/groups/contacts/stickers/profile name/avatar. As result the only
+info it can give in response to subpoena is: Unix timestamps for when
+each account was created and date each account last connected to
+Signal"
 
 ---
 

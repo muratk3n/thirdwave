@@ -1,6 +1,106 @@
 # Week 17
 
 
+"Giuliani: US investigators raid former Trump lawyer's home. The
+former New York mayor and lawyer to Donald Trump is being investigated
+for dealings with Ukraine"
+
+---
+
+"In some European countries – the UK, the Netherlands and some parts of
+Germany for example – the plan is to switch from the current supply of
+natural gas to pure hydrogen for residential markets. In this case our
+pure hydrogen fuel cell will offer both heat and electric power"
+
+[Link](https://www.h2-view.com/story/a-hydrogen-society-an-interview-with-panasonic-part-1/)
+
+---
+
+U-oh
+
+BBC: "[AAPL, FB] are locked in a stand-off after Apple announced the
+latest version of its iOS operating system this week. A new feature
+will prompt device users to decide whether they are happy for their
+data to be collected by apps. Many are likely to say no. But user data
+is a large reason why Facebook's ad-based business model is so
+profitable"
+
+---
+
+No bitch dont smoke it, eat it 🤨
+
+---
+
+Dam there is nicotine in eggplant.. give up smoking have some eggplant
+
+---
+
+"@stephenburanyi
+
+Same reason the US Chamber of Commerce briefed against
+it. International IP rules benefit almost all US big business. This is
+an existential issue for them that goes well beyond Covid. Any
+precedent for suspending those rules will be fought tooth and nail.
+
+'@lhfang
+
+Hollywood lobbyists and the recording industry are intervening against
+the emergency proposal to share vaccine technology. Why? There's a
+fear that suspending trade rules will weaken copyright enforcement,
+the waiver at the WTO will be too broad'"
+
+[Link](https://interc.pt/3aHSVzg)
+
+---
+
+I bet such diy deals cld even be used for money laundering
+
+Reuters: "A growing number of private equity firms are establishing new
+funds to buy portfolio companies from funds they already control. With
+the buyer and seller each an entity controlled by the same private
+equity firm, scrutiny is growing over how they price such deals"
+
+---
+
+Great. While u r on it kill the BEV initiatives, a lot of your
+carmakers got swept up by hype stirred by bunch of lost souls in US,
+ignorant celebrities
+
+"Federal Minister of Transport Andreas Scheuer.. Germany will become a
+hydrogen country. In our search for suitable locations for hydrogen
+technology, we received 15 exciting applications from all over
+Germany"
+
+[Link](https://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2021/042-scheuer-deutschland-wird-wasserstoffland.html)
+
+---
+
+@AFP
+
+\#BREAKING Germany, France back 21% global minimum corporate tax proposal: ministers
+
+---
+
+Vacc diplomacy? What vacc diplomacy? Your vacc is a piece of shit 
+
+---
+
+Sinovac is some subpar prod isnt it? WHO still hasnt approved it
+
+---
+
+All [lines](https://www.youtube.com/watch?v=b4zVu0sN8cw) from *Deuce Bigalow*
+
+---
+
+Wut! Wut! Wut!
+
+---
+
+Mfker is a man-ho. He have mangina
+
+---
+
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/jcXWuJv329">https://t.co/jcXWuJv329</a></p>&mdash; Asia-Pacific Hydrogen Association (@APAC_Hydrogen) <a href="https://twitter.com/APAC_Hydrogen/status/1387150949915971589?ref_src=twsrc%5Etfw">April 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
