@@ -1,5 +1,11 @@
 # Tweets
 
+Pinned Tweet
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Same reason the US Chamber of Commerce briefed against it. International IP rules benefit almost all US big business. This is an existential issue for them that goes well beyond Covid. Any precedent for suspending those rules will be fought tooth and nail. <a href="https://t.co/a0hXDHaPUT">https://t.co/a0hXDHaPUT</a></p>&mdash; Stephen Buranyi (@stephenburanyi) <a href="https://twitter.com/stephenburanyi/status/1387411798505230343?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Billy May - Window Washer \#music
 
 [Link](https://youtu.be/13xUU9GbMFc)
@@ -60,7 +66,7 @@ develop the \#fuelcell passenger car + LCV market and call for an
 expansion of the established (and proven) 700bar refuelling
 network"
 
-----
+---
 
 "@KimZetter
 

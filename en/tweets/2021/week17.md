@@ -232,7 +232,7 @@ product. It is treated as some sort of pre-modern craft. Just like
 there was the shoemaker, ironsmith, bakery, there is.. the
 teacher. Shoemaker works on his shoes, his product is as good as he
 can make it, teacher same way. We modernized shoemaking, all kinds of
-food prep but we only modernized [some parts](2011/02/grading.md) of
+food prep but we only modernized [some parts](../../2011/02/grading.md) of
 ed, of the "craft", ending up with a bastardized, bizarre mixture of
 modern and pre-modern. Grading is an industrial approach.
 
@@ -319,7 +319,7 @@ commercial news and toward a 'public option'"
 
 ---
 
-Since if let loose, covid [can kill](2020/02/corona.md) 1% of a
+Since if let loose, covid [can kill](../../2020/02/corona.md) 1% of a
 broader population (human pop grows by that exact amount each year)
 65% reduction is a major deal.
 
@@ -458,7 +458,7 @@ the chattering classes"
 ---
 
 Mostly, yes. Making diverse set of products is what contributes to
-innovation, as Hidalgo [found](2017/08/production-gdp-globalization.md).
+innovation, as Hidalgo [found](../../2017/08/production-gdp-globalization.md).
 Whether from that angle, or from my greater-sum angle, the conclusion is the same.
 
 "But then should everyone be able to produce everything?"
