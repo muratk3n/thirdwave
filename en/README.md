@@ -6,81 +6,77 @@ Pinned Tweet
 
 ---
 
-Billy May - Window Washer \#music
+"Biden’s Wall Street cop feels progressives' heat after hiring blunder"
 
-[Link](https://youtu.be/13xUU9GbMFc)
-
----
-
-Strange casting choice but I'd watch that movie
-
-"@mkerrhardy
-
-I demand a sequel to The Death of Stalin called The Death of the USSR,
-with Jason Alexander as Gorbachev and Dolph Lundgren as Yeltsin"
+[Link](https://www.politico.com/amp/news/2021/04/30/progressives-sec-wall-street-485146)
 
 ---
 
-@ABC
+"@daphnehk
 
-Pres. Biden: “The IRS is going to crack down on millionaires and
-billionaires who cheat on their taxes. It's estimated to be billions
-of dollars.”
+Pay attention to this talk of criminalizing encryption in the
+UK. Expect a similar playbook where you live: A fundamental threat to
+a functioning digital infrastructure getting buried in rhetoric and
+hustled along the lawmaking path without the enormous public debate it
+warrants"
 
----
-
-.. says the only black Republican in the US Senate. Yeah you are
-believable
-
-"@MSNBC
-
-"I get called Uncle Tom and the N word by progressives" Sen. Tim Scott
-says in GOP rebuttal of President Biden's address to Congress"
+[Link](https://mobile.twitter.com/daphnehk/status/1388119545278210050)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to the Green Energy Association of Israel for sharing! <a href="https://twitter.com/gencellenergy?ref_src=twsrc%5Etfw">@gencellenergy</a> pioneers bringing H2 &amp; fuel cells to the Israeli power sector &amp; takes action to accelerate Israel&#39;s transition to <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a>! <a href="https://t.co/2y8TBI4PDe">https://t.co/2y8TBI4PDe</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/BackupPower?src=hash&amp;ref_src=twsrc%5Etfw">#BackupPower</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1387750763800182788?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"42,000 ...  people in the Brazilian town of Marica receiving mumbucas
+– a virtual currency created by the oil-wealthy seaside town prior to
+the pandemic as a form of universal basic income (UBI). Mumbacas and
+other measures designed to bolster Marica’s social safety net have
+made the socialist town a standout success story during the pandemic,
+as Al Jazeera’s Monica Yanakiew reports, while most of Brazil battles
+the virus, which has cost at least 400,000 lives and thrown more than
+25 million into poverty"
+
+[Link](https://www.aljazeera.com/economy/2021/4/30/tax-hikes-brazils-exception-mbss-plan-b-and-heavenly-harmony)
 
 ---
 
-
-"Led by an unlikely partnership between top venture capitalist Keith
-Rabois and Miami mayor Francis Suarez, Miami has become the latest
-city to grab headlines as the next big tech hub. From December 2020 to
-January 2021, Miami saw a net migration of 145%, while the Silicon
-Valley-Bay Area region saw -47.2% net migration"
-
-[Link](https://www.movebuddha.com/blog/silicon-valley-miami-migration/)
+"Record inflows into sustainability-focused funds during the first
+quarter pushed total assets to nearly $2 trillion."
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re on track with the BMW i Hydrogen NEXT. Prototypes will now enter the next phase and start road tests throughout Europe. We welcome the <a href="https://twitter.com/BMVI?ref_src=twsrc%5Etfw">@BMVI</a> initiative to support the use of <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> in passenger cars.<a href="https://twitter.com/hashtag/BMWGroup?src=hash&amp;ref_src=twsrc%5Etfw">#BMWGroup</a> <a href="https://t.co/CK3in2bwVr">pic.twitter.com/CK3in2bwVr</a></p>&mdash; BMW Group (@BMWGroup) <a href="https://twitter.com/BMWGroup/status/1387360955567382528?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"@gabriel_zucman
+
+arSwitzerland still a prime shifting destination, second only to Ireland
+and Singapore in 2018"
 
 ---
 
-"@H2Europe
+"@stephenburanyi
 
-@BMWGroup, @HMGnewsroom, @Stellantis & @toyota_europe sent a joint
-letter to VP @TimmermansEU to confirm their dedication to further
-develop the \#fuelcell passenger car + LCV market and call for an
-expansion of the established (and proven) 700bar refuelling
-network"
+Spoke to @LukewSavage at Jacobin about vaccines and worldwide
+response. Blindly protecting pharma giants is a relatively new thing!
+People in the past would be stunned by the way we defer to these CEOs"
 
----
-
-"@KimZetter
-
-Signal doesn’t have access to messages/chat
-list/groups/contacts/stickers/profile name/avatar. As result the only
-info it can give in response to subpoena is: Unix timestamps for when
-each account was created and date each account last connected to
-Signal"
+[Link](https://mobile.twitter.com/stephenburanyi/status/1388061095311683584)
 
 ---
 
-Jacobin: "Demanding an End to Uyghur Oppression... We can oppose the
-saber-rattling and militarism of the US’s China hawks without
-downplaying the oppression of the Uyghur people"
+"@business
+
+Global heavy-truck rivals Daimler and Volvo Group kick off a joint
+venture for hydrogen-powered fuel cell stacks"
+
+---
+
+"Senators Markey, Wyden, and Merkley reintroduce legislation to defend
+fundamental human rights in Turkey"
+
+---
+
+🤣 Just found out during that scandal of yesteryear Milli Vanilli
+marketing claimed the band's name meant "positive energy" in TR
+speak. Completely false.. but the lie fits in their overall scam, so
+its still hilarious
+
+[Link](https://djrobblog.com/archives/7297)
 
 ---
 
