@@ -129,8 +129,7 @@ among Greek, Armenian, Kurd and Assyrian citizens of Turkey) who do
 not necessarily share the idea of ‘Central Asian origins.’ But even
 these existing ‘minority’ narratives are not the only ones that can be
 found in the wealth of historical knowledge available about the
-history of Anatolia. ... But .. it seems obvious that the contemporary
-Turkish population is a mix of Turkish and Anatolian populations.
+history of Anatolia... 
 
 The history of migration and settlement in Anatolia—or Asia Minor
 —before the arrival of Turks ..  is a history of rich and
@@ -162,12 +161,12 @@ with the Greek Seleucid Empire dominating most of Anatolia. In the
 east, the Armenian kingdom was established reaching the Caspian,
 Black Sea and Mediterranean Sea (Mossé et al., 2005). ...
 
-There seems to be three complementary explanations to why specific
-migratory experiences have been included or excluded in Turkey
-national narrative. One is about the ‘homogeneity’ requirement of
-nationalist discourses: nationalism is typically conceived around a
-single identity and a single ancestor. In many European nation-states,
-the national narrative tends to ignore or undermine the role played by
+There seems to be [various] explanations to why specific migratory
+experiences have been included or excluded in Turkey national
+narrative. One is about the ‘homogeneity’ requirement of nationalist
+discourses: nationalism is typically conceived around a single
+identity and a single ancestor. In many European nation-states, the
+national narrative tends to ignore or undermine the role played by
 past migrations as a source of diversity. In contrast, in the case of
 Turkey, the single, ‘homogenous’ ancestor is constructed as the
 migrant, the Central Asian nomad that came to Anatolia, and who
@@ -235,4 +234,9 @@ Bhabha, H. K. (1990). DissemiNation: Time, narrative, and the margins of the mod
 
 Karpat, K. H. (2001). The politicization of Islam: Reconstructing identity, state, faith, and community in the late
 Ottoman state. Oxford: Oxford University Press.
+
+Strassler, R. B., Romm, J., Mensch, P., & Cartledge, P. (2010). The
+landmark Arrian’s campaigns of Alexander.  Anchor Books.
+
+Mossé, C., Azoulai, M., Baslez, M.-F., & Blanchon, F. (2005). Une histoire du monde antique. Paris: Larousse.
 

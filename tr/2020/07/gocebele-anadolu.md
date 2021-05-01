@@ -89,6 +89,8 @@ yapılıyor) 2) Türk insanları göçlere kucak açmıştır ve gelenlerin
 burada) 3) Türk insanının kendisi sonradan da tekrar göçmeye
 başlamıştır (kabaca 20'inci yüzyıla referans)
 
+<a name='part2'/>
+
 Ankete cevap verenlere göre Türklerin tarihinin en tanımlayıcı kısmı
 göçmektir, ve göçme kültürüyle temelden bir ilişkide olmaktır, göçebe
 insanlar olmak ve yüzlerce yıl sürekli göçme halinde olmaktır. Bu mealdeki
@@ -105,6 +107,88 @@ ifadelerin bazılar şöyleydi:
 >yani, bildiğiniz gibi, göçmek bizler için çok normal bir şey
 >
 
+Ve daha önce söylediğimiz gibi, hakikaten bu "Türk Tarih Tezi"
+etkisiyle öğrencilere okulda Türklerin tarih öncesi, neolitik
+çağlardaki göçleri öğretiliyor ki bu insanlar dünyanin dört köşesine
+uygarlık taşımış gibi gösteriliyor.. [Bu] ilk Türk göçü imajı
+Türklerin bilincine kazınmış durumda, "bu tarih bilinci Asyalı
+geçmişinin, onun etkisini sürekli düşünüyor, ve bu etki bir şekilde
+Anadolu'ya yerleşmiş olma isteğiyle içiçe "(benim Copeaux, 1997,
+p. 230 tercümem). Şu anda ilköğretimde kullanılan sosyal bilim ve
+tarih müfredatında Orta Asya'dan gelen Türk göçü 6, 9, ve tekrar
+11'inci senede yoğun şekilde işleniyor ki bu eğitimde odak göçebe
+hayat tarzı, Türkik nüfusun kültürü ve Avrasya'daki takip ettikleri
+göç yolları.
+
+Yine biraz önce bahsettiğimiz gibi Türk ulus-devletinin fikri
+oluşturulurken tarih bir özgünlük ve Türk ulusunun parçalarına ortak
+paydalar hissi yaratmak için için kullanıldı. Fakat bu belli şekilde
+işlenen tarihe alternatif anlatılanların olduğunun bilinmesi
+gerekiyor, bu alternatifler hem yerli hem yabancı kaynaklarda mevcut,
+özellikle Türkiye'nin etnik azınlıkları arasında (Türkiye'nin Yunan,
+Ermeni, Kürt, Süryani vatandaşları arasında mesela). Bu insanların
+"Orta Asya başlangıcı" fikrine katıldığı söylenemez, fakat bir tek
+onlar değil, bu 'azınlık' söylemi bile Anadolu'nun tarihi hakkındaki
+zengin bilgiyi tam kapsamıyor... 
+
+Anadolu'ya, ya da Türkler öncesi Küçük Asya olarak bilinen yere
+.. göç, ve oraya yerleşim hikayesi müthiş zengin ve geniş bir medeniyetler
+tarihidir. Bu tarihin hikayesi Ege, Akdeniz ve Karadeniz arasındaki
+o stratejik alanı kapsar doğusunda Mezopotamya'ya ve oradan ileride geniş
+Avrasya kıtasına bağlanır ... 
+
+Böyle olduğu için ilk Türk göçmenleri Anadolu'ya eriştiğinde orayı
+abartılı bir kültürel çeşitlilik halinde buldular. Hoerder'e göre
+
+>Yunan yönetimi zamanında Hellenleştirilmiş, Bizans imparatorları
+>zamanında Hristiyanlaşmış Küçük Asya çok sayıda istenmeyen taşınma /
+>teçhir ya da isteyerek gelenlerin göçüne sahne olmuştur. Bu
+>gelenlerin bir listesi şöyle olabilir; Arap ülkelerinden gelen
+>Hristiyan göçmenler, Kıbrıslı Yunanlılar, Frenk, Rus, İngiliz,
+>Norman, Alman, Bulgar, Saracen, ya da Arnavut ordularından çıkmış
+>olanlar, Kürt, Gürcü, Suriyeli ve Ermeni insanlar..
+
+Büyük İskender'in fethi MO 380'e kadar Fars yönetiminde olan
+Anadolu'nun politik sisteminde kalıcı bir Fars etkisi olmuştur (satrap
+sistemı) fakat buna rağmen bu yöneti mAnadolu'nun Hellenik kültürünü
+temelden değiştirmemiştir.
+
+MO 334 tarihinde İskender Çanakkale boğazını geçip Anadolu'nun fethine
+başladı (Strassler, Romm, Mensch, & Cartledge, 2010,
+pp. 2–54). İskender sonrası onun imparatorluğu ardından pek çok Yunan
+/ Hellen yönetimi (Pergamum, Lidya, Bitanıya, Galatia, Pontus,
+Kapadokya gibi) onu takip etti, bunların arasında Yunan Selevkos
+imparatorluğu Anadolu'nun çoğunda etkiliydi. Doğuda Ermeni krallığı
+kurulmuştu ve onlar da Hazar denizi, Akdeniz ve Karadeniz'e kadar
+gelmişlerdi (Mossé et al., 2005)...
+
+Türkiye milli söyleminde niye spesifik bazı göç hikayelerinin dahil
+edildiği niye bazılarının dışarıda bırakıldığı sorusuna farklı
+cevaplar var. Bunlardan biri milli söylemlerinin 'homojenlik'
+ihtiyacı; milliyetçilik tipik olarak tek bir kimlik ve tek bir ata
+etrafında kurulur. Çoğu Avrupalı ulus-devletlerin milli söylemleri
+tarihlerindeki göçleri bir çoğulculuk kaynağı olarka yoksaymaya
+meyillidır. Kıyasla Türkiye durumunda tek, 'homojen' ata bir göçebe
+etrafında kurgulanmıştır, Orta Asya'dan Anadolu'ya gelen göçmen
+etrafında, ki bu insanlar yerel halk ile güya hiç karışmamıştır, ve bu
+sebeple Türk öncesi Anadolu'ya olan göçleri Türkiye'nin tarihinin
+parçası saymama durumu ortaya çıkar.
+
+Türk insanları göç tecrübeleri ve sonradan gelen göçlere evsahipliği
+yapmalarından gurur duyarlar (Tolay, 2014). Fakat Türklerin tarihine
+ve göçmenlere olan bu tür normatif bir beğeninin kendisi kırpılmış,
+yontulmuş bir tarih görüşünü temel alıyor, bu görüş göç etrafındaki
+negatif tecrübeleri görmemek hatta susturmaya çalışmaya yol
+açabilmektedir; mesela Türk tarihinin son bin yılında meydana gelmiş
+zorla göçler. Üstte bahsettiğimiz göçler tarihi alternatif, daha geniş
+bir milli söylemin nasıl kurulabileceği yönünde bazı ipuçları
+verebilir. Bugünkü kırpılmış söylemin en problemli tarafı çok zengin
+bir göç demografisini görmemesi, ki aslında bu göçler bir gurur
+vesilesi olabilirler. Türk öncesi Anadolu göçleri bugünkü Türkiye
+nüfusunu (buna kendini etnik Türk görenler dahil, ama tabii, onlar da
+aslında Türk olmayan karışık bir etnik yapıdan geliyorlar) ardı ardına
+gelen başarılı medeniyetlere, zenginleştiren göçlere bağlayan müthiş
+bir tarihi anlatıyor. 
 
 
 
@@ -114,13 +198,6 @@ ifadelerin bazılar şöyleydi:
 
 
 [devam edecek]
-
-
-
-
-
-
-
 
 
 
@@ -138,4 +215,15 @@ Bhabha, H. K. (1990). DissemiNation: Time, narrative, and the margins of the mod
 
 Karpat, K. H. (2001). The politicization of Islam: Reconstructing identity, state, faith, and community in the late
 Ottoman state. Oxford: Oxford University Press.
+
+Strassler, R. B., Romm, J., Mensch, P., & Cartledge, P. (2010). The
+landmark Arrian’s campaigns of Alexander.  Anchor Books.
+
+Mossé, C., Azoulai, M., Baslez, M.-F., & Blanchon, F. (2005). Une histoire du monde antique. Paris: Larousse.
+
+Tolay, J. (2014). Deconstructing Turkish public attitudes towards refugees: Empowering rights over politicization
+and self-gratification. USAK Yearbook of Political and International Relations, 6, 1–29.
+
+
+
 
