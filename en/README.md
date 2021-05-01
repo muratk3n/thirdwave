@@ -44,7 +44,7 @@ quarter pushed total assets to nearly $2 trillion."
 
 "@gabriel_zucman
 
-arSwitzerland still a prime shifting destination, second only to Ireland
+Switzerland still a prime shifting destination, second only to Ireland
 and Singapore in 2018"
 
 ---
