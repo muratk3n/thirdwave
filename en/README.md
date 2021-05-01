@@ -71,10 +71,10 @@ fundamental human rights in Turkey"
 
 ---
 
-🤣 Just found out during that scandal of yesteryear Milli Vanilli
-marketing claimed the band's name meant "positive energy" in TR
-speak. Completely false.. but the lie fits in their overall scam, so
-its still hilarious
+🤣 Just found out during that scandal of yesteryear w Milli Vanilli,
+their marketing claimed the band's name meant "positive energy" in
+TR-speak. Completely false.. but the lie fits in their overall scam,
+so its still hilarious
 
 [Link](https://djrobblog.com/archives/7297)
 
