@@ -1,5 +1,80 @@
 # Week 17
 
+
+"Biden’s Wall Street cop feels progressives' heat after hiring blunder"
+
+[Link](https://www.politico.com/amp/news/2021/04/30/progressives-sec-wall-street-485146)
+
+---
+
+"@daphnehk
+
+Pay attention to this talk of criminalizing encryption in the
+UK. Expect a similar playbook where you live: A fundamental threat to
+a functioning digital infrastructure getting buried in rhetoric and
+hustled along the lawmaking path without the enormous public debate it
+warrants"
+
+[Link](https://mobile.twitter.com/daphnehk/status/1388119545278210050)
+
+---
+
+"42,000 ...  people in the Brazilian town of Marica receiving mumbucas
+– a virtual currency created by the oil-wealthy seaside town prior to
+the pandemic as a form of universal basic income (UBI). Mumbacas and
+other measures designed to bolster Marica’s social safety net have
+made the socialist town a standout success story during the pandemic,
+as Al Jazeera’s Monica Yanakiew reports, while most of Brazil battles
+the virus, which has cost at least 400,000 lives and thrown more than
+25 million into poverty"
+
+[Link](https://www.aljazeera.com/economy/2021/4/30/tax-hikes-brazils-exception-mbss-plan-b-and-heavenly-harmony)
+
+---
+
+"Record inflows into sustainability-focused funds during the first
+quarter pushed total assets to nearly $2 trillion."
+
+---
+
+"@gabriel_zucman
+
+Switzerland still a prime shifting destination, second only to Ireland
+and Singapore in 2018"
+
+---
+
+"@stephenburanyi
+
+Spoke to @LukewSavage at Jacobin about vaccines and worldwide
+response. Blindly protecting pharma giants is a relatively new thing!
+People in the past would be stunned by the way we defer to these CEOs"
+
+[Link](https://mobile.twitter.com/stephenburanyi/status/1388061095311683584)
+
+---
+
+"@business
+
+Global heavy-truck rivals Daimler and Volvo Group kick off a joint
+venture for hydrogen-powered fuel cell stacks"
+
+---
+
+"Senators Markey, Wyden, and Merkley reintroduce legislation to defend
+fundamental human rights in Turkey"
+
+---
+
+🤣 Just found out during that scandal of yesteryear w Milli Vanilli,
+their marketing claimed the band's name meant "positive energy" in
+TR-speak. Completely false.. but the lie fits in their overall scam,
+so its still hilarious
+
+[Link](https://djrobblog.com/archives/7297)
+
+---
+
 Billy May - Window Washer \#music
 
 [Link](https://youtu.be/13xUU9GbMFc)

@@ -222,6 +222,7 @@ simultaneously perpetrator and victim.
 
 References
 
+
 Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso
 
 Gellner, E. (1983). Nations and nationalism. Ithaca, NY: Cornell University Press.
@@ -239,4 +240,17 @@ Strassler, R. B., Romm, J., Mensch, P., & Cartledge, P. (2010). The
 landmark Arrian’s campaigns of Alexander.  Anchor Books.
 
 Mossé, C., Azoulai, M., Baslez, M.-F., & Blanchon, F. (2005). Une histoire du monde antique. Paris: Larousse.
+
+Tolay, J. (2014). Deconstructing Turkish public attitudes towards refugees: Empowering rights over politicization
+and self-gratification. USAK Yearbook of Political and International Relations, 6, 1–29.
+
+Göçek, F. M. (2011). Genocide: Turkish historiography on 1915. In R. G. Suny, F. M. Göçek, & N. M. Naimark
+(Eds.), A question of genocide: Armenians and Turks at the end of the Ottoman empire (pp. 42–52). New
+York: Oxford University Press.
+
+Copeaux, E. (1997). Espaces et temps de la nation turque: Analyse d’une historiographie nationaliste, 1931-1993.
+Paris: CNRS Éditions. Danış , D. A. (2010).
+
+Olick, J. K. (2007). The politics of regret: On collective memory and historical responsibility. New York, NY:
+Routledge.
 
