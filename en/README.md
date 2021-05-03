@@ -1,7 +1,73 @@
 # Tweets
 
-Little TR [translation](https://muratk3n.github.io/thirdwave/tr/2020/07/gocebele-anadolu.html#part2)
-Part 2
+And STL files can be sent to a 3D printer yes. Imagine during class
+simulate an object, design it, at the end, print it.
+
+---
+
+Many do not realize how far modern scripting envs have come.. Talked
+to someone the other day poor guy still toiling away in Matlab. Bro -
+Wake up.
+
+---
+
+Yes there are big hunking programs, like Chrono.. I'm talking about
+something simpler. Reading STL files in Py is easy. Add some grav
+effects, simple center of mass calc, force => movement etc.
+
+---
+
+Another subj to be added to STEM curriculum, given an physical obj
+description in an STL file (CAD progs like Tinkercad can create it),
+learn to simulate effects to it in 3D space, w some code (use ready
+lib). Apply force, see what happens.
+
+---
+
+Ok.. that guy who played the French guy was the token French guy of
+90s. Musta played that role bazillion times \#thecore
+
+---
+
+*The Core*, from an era of movies when stuff went wrong and you could
+fix it by blowing shit up. Still it had its moments. 
+
+---
+
+"US sanctions on oil, banks expected to be lifted: Iran negotiator"
+
+---
+
+"EU says Apple’s App Store breaks competition rules after Spotify
+complaint.. Apple has 'abused its dominant position' in the
+distribution of music streaming apps, the European Commission said"
+
+---
+
+"Warren Buffett faces showdown with ordinary savers over refusal to
+act on climate crisis.. Buffett’s company, Berkshire Hathaway, refuses
+to publish information on his company’s climate impact and the risks
+it faces as temperatures rise; now shareholders are taking a stand. By
+Ben Chapman"
+
+---
+
+"Fierce Foes, Iran and Saudi Arabia Secretly Explore Defusing
+Tensions.. Talks between the two regional powers, if successful, could
+start to lower the temperature on several conflicts across the Middle
+East"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was skeptical at first but Airbus do seem to be taking Hydrogen fuelling options seriously in the aviation race to <a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a> <a href="https://t.co/sWrbFJVUfb">https://t.co/sWrbFJVUfb</a></p>&mdash; Graham Hodgson (@GraHod) <a href="https://twitter.com/GraHod/status/1388429712683307008?ref_src=twsrc%5Etfw">May 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Punta la Tegra
+
+---
+
+That's a medium-ish mountain..\#tr
 
 ---
 
