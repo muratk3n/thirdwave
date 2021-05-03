@@ -52,6 +52,25 @@ Ben Chapman"
 
 ---
 
+Culture is not something that is "declared", and "assumed". It is
+burned in the brain through the culture around you, through osmosis at
+around age 7. First generation children of immig parents are getting
+the culture of their lands burned in their brains, not their
+parents'. So that weirdo fuck who came in with his bags, chicken coops
+and shit who talks to you with an accent -your parents- are as foreign
+to you as they are to their country. That is how people who arrive into
+area / cultures become part of those areas / cultures.
+
+---
+
+'Feel connected to your land', I dont just mean 'a physical
+coincidence', not 'he was there, and I am there'.. I saw Golden Gate
+bridge and you did too! How awesome maan.. No, I mean something
+else. Think of the guy who lived on your land in the past, his
+culture, if not his genes are *inside you*.
+
+---
+
 "Fierce Foes, Iran and Saudi Arabia Secretly Explore Defusing
 Tensions.. Talks between the two regional powers, if successful, could
 start to lower the temperature on several conflicts across the Middle
