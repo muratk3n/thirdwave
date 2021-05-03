@@ -5,15 +5,13 @@ simulate an object, design it, at the end, print it.
 
 ---
 
-Many do not realize how far modern scripting envs have come.. Talked
-to someone the other day poor guy still toiling away in Matlab. Bro -
-Wake up.
-
----
-
 Yes there are big hunking programs, like Chrono.. I'm talking about
-something simpler. Reading STL files in Py is easy. Add some grav
+something simpler. Reading STL files in Python is easy. Add some grav
 effects, simple center of mass calc, force => movement etc.
+
+Many dont realize how far modern scripting envs have come.. Talked to
+someone the other day poor guy still toiling away in Matlab. Bro -
+Wake up.
 
 ---
 
