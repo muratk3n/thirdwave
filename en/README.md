@@ -1,6 +1,6 @@
 # Tweets
 
-And STL files can be sent to a 3D printer yes. Imagine during class
+And STL files can be sent to a 3D printer..[ Imagine during class
 simulate an object, design it, at the end, print it.
 
 ---
@@ -18,19 +18,20 @@ effects, simple center of mass calc, force => movement etc.
 ---
 
 Another subj to be added to STEM curriculum, given an physical obj
-description in an STL file (CAD progs like Tinkercad can create it),
-learn to simulate effects to it in 3D space, w some code (use ready
-lib). Apply force, see what happens.
+description in an STL file (CAD progs create it), learn to simulate
+effects to it in 3D space, w some code (use ready lib). Apply force,
+see what happens.
 
 ---
 
 Ok.. that guy who played the French guy was the token French guy of
-90s. Musta played that role bazillion times \#thecore
+90s. Must have played that role a bazillion times \#thecore
 
 ---
 
 *The Core*, from an era of movies when stuff went wrong and you could
-fix it by blowing shit up. Still it had its moments. 
+fix it by blowing shit up. Still good movie. Much rather watch this than
+Disney Star Wars.
 
 ---
 
