@@ -25,7 +25,7 @@ see what happens.
 ---
 
 Ok.. that guy who played the French guy was the token French guy of
-90s. Must have played that role a bazillion times \#thecore
+90s. He must have played that role like a bazillion times \#thecore
 
 ---
 
