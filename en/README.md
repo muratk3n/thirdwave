@@ -1,7 +1,7 @@
 # Tweets
 
-And STL files can be sent to a 3D printer..[ Imagine during class
-simulate an object, design it, at the end, print it.
+Aand STL files can be sent to a 3D printer..Imagine during class
+simulate an object, design it, at the end, print it 😶
 
 ---
 
