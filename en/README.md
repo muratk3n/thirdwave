@@ -34,7 +34,7 @@ cellcentric would start producing hydrogen fuel cells in Europe in
 
 ---
 
-The US president .. wants 15 decarbonized hydrogen demonstration projects
+"The US president .. wants 15 decarbonized hydrogen demonstration projects"
 
 [Link](https://www.dw.com/en/how-to-be-sure-hydrogen-is-green-when-it-comes-in-so-many-colors/a-57421078?maca=en-rss-en-all-1573-rdf)
 
