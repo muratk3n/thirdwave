@@ -61,6 +61,11 @@ Aha turns out Rodrigues, of the Rodrigues formula fame was French.
 
 ---
 
+MB: "France has banned fracking entirely, partly because its best
+shale fi eld lies directly under Paris"
+
+---
+
 MB has critism for US too when it is called for
 
 Beckley: "Other worrying trends include the fact that the U.S. startup
