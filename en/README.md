@@ -1,97 +1,79 @@
 # Tweets
 
-Beckley, *Unrivaled*: "The U.S. military ... can sink Chinese ships
-and submarines virtually anywhere in East Asia. The main reason is
-that the United States has dozens of missile-armed submarines that are
-almost invulnerable to China’s notoriously weak antisubmarine
-capabilities. In wartime, U.S. submarines, with the aid of America’s
-vast undersea surveillance network in East Asia, could set up picket
-lines near the combat theater, or near China’s ports, and sink China’s
-ships and submarines with torpedoes, missiles, and mines.  According
-to estimates by the RAND Corporation, in a PLA invasion of Taiwan,
-eight U.S. submarines could destroy almost 40 percent of China’s
-amphibious ships as they attempt to cross the Taiwan Strait while
-losing perhaps one submarine. The same study estimates that in a
-conflict in the South China Sea—where the sea is deeper and provides
-U.S. submarines with better acoustics and more room to operate, and
-where most of the PLA’s meager antisubmarine warfare forces cannot
-reach—U.S. submarines could destroy Chinese ships at almost no risk of
-being attacked themselves"
+"Taiwan's Tsai wins Canadian government-backed award that Ottawa
+reportedly tried to block"
 
 ---
 
-CH acting up..? Id be wary of the military position.. 
-
----
- 
-Yes and the solution wasnt a 'global approach'. Global pharma had to
-be bslapped, its patents open-sourced. Global travel had to be
-curtailed early, and fast.
-
-CNN: "The world is in the midst of its worst Covid crisis so far. It
-didn't have to be this way"
+"Philippine foreign minister tells China to 'Get the F**k Out' over
+South China Sea dispute.. The Philippine foreign minister on Monday
+demanded in an expletive-laced Twitter message that China's vessels
+get out of disputed waters, the latest exchange in a war of words with
+Beijing over the South China Sea"
 
 ---
 
-So many econs see this thing as vile..
+NBC: "The California Energy Commission is providing $2 million
+for the project, which will test a commercial marine vessel modified
+to incorporate hydrogen"
 
-"Charlie Munger calls bitcoin 'disgusting and contrary to the
-interests of civilization'"
-
----
-
-Watched Russian scifi, dude's backstory was that he fought in Syria,
-felt like those Vietnam backstories in US movies.
-
-Cinematography was ok.. it was too tac-team heavy for my taste. There was a
-odd looking alien at the end. 
+[Link](https://www.nbclosangeles.com/news/local/socalgas-to-provide-funding-for-testing-of-hydrogen-fuel-cell-technology-for-marine-vessels/2582877/)
 
 ---
 
-The Guardian: "[NZ] prime minister has been coming under pressure from
-allies to take a tougher approach towards country’s largest trading
-partner. New Zealand’s differences with China are becoming “harder to
-reconcile,” the prime minister Jacinda Ardern has said... Ardern’s
-comments were made as New Zealand’s government comes under increasing
-pressure, both internally and from international allies, to take a
-firmer stance on concerns over human rights abuses of Uyghur people in
-China’s Xinjiang province. Last week, the Act party presented a motion
-for New Zealand’s parliament to debate whether the treatment of
-Uyghurs in Xinjiang constitutes genocide"
+"French builder Fountaine Pajot will soon introduce zero-emissions,
+zero-noise hydrogen power to the cruising world via its Samana 59"
 
 ---
 
-Blinken: "China is acting 'more aggressively abroad'... Washington was
-not trying to 'contain' China, US State Secretary Anthony Blinken
-said, but warned that Beijing was acting in 'increasingly adversarial'
-ways"
+"The German and Swedish makers of large freight-hauling trucks said
+cellcentric would start producing hydrogen fuel cells in Europe in
+2025"
+
+[Link](https://www.reuters.com/business/energy/daimler-volvo-plan-hydrogen-fuel-cell-production-europe-2025-2021-04-29)
 
 ---
 
-Cons nominated a lackluster guy for next elec, passing over the better
-candidate Soder. In any case S will probably still be around so he can
-be the 'comeback candidate' later
+The US president .. wants 15 decarbonized hydrogen demonstration projects
 
-@business
-
-Chancellor Angela Merkel’s conservatives slipped to a 14-month low in
-a poll published Sunday, further behind a Green party that’s
-increasingly poised for a bid to lead Germany’s next government
+[Link](https://www.dw.com/en/how-to-be-sure-hydrogen-is-green-when-it-comes-in-so-many-colors/a-57421078?maca=en-rss-en-all-1573-rdf)
 
 ---
 
-The list of BEV problems keep piling up, not even BEVtards can
-ignore. Not enough lithium in the world, barely enough for cars
-assuming certain charging patterns.. And, they cant handle freight
-properly. Forget aviation, or shipping which this bitch tech cant even
-touch.
+I am wary of these pricing, offseting schemes myself.. See vid
+below. This is why quashing carbon at its source sounds
+better. Renewable fuel comes out of producers, then the rest is
+guaranteed to be green. No offseting, no pricing.. The infra of the
+world becomes green from top to bottom.
+
+[Video](https://www.youtube.com/watch?v=Id5B6ZEG30E)
 
 ---
 
-It is ridiculous. 
+"Guardian investigation finds carbon credits generated by forest
+protection schemes are based on flawed system"
 
-"A battery-electric 40 ton truck with 500km range needs 8 tons of
-battery. That’s ridiculous" says Toyota’s FCV-boss Katsuhiko Hirose.
+[Link](https://www.theguardian.com/environment/2021/may/04/carbon-offsets-used-by-major-airlines-based-on-flawed-system-warn-experts)
+
+----
+
+Aha turns out Rodrigues, of the Rodrigues formula fame was French.
+
+---
+
+MB has critism for US too when it is called for
+
+Beckley: "Other worrying trends include the fact that the U.S. startup
+rate (the share of new firms in the total number) has declined by 50
+percent since 1978, and business deaths now outnumber business births
+for the first time in generations. American corporate profits are at
+all-time highs, but two thirds of U.S. economic sectors have become
+more concentrated among a handful of mega firms, a fact that suggests
+that rent seeking and price gouging, rather than innovation, caused
+the rise in profits. For example, the four airlines that now control
+80 percent of the U.S. commercial airline market (compared to 48
+percent a decade ago) have profited immensely in recent years by
+cramming more passengers onto planes without reducing ticket prices"
 
 ---
 
