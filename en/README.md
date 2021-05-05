@@ -79,6 +79,28 @@ shale field lies directly under Paris"
 
 ---
 
+Another (easier) way to fix the problem wld be to remove the problem
+itself -- the teacher. 
+
+---
+
+MB: "[C]ross-national data suggest that the American system of teacher
+recruitment, training, and accountability has been put together
+backward: it draws teachers from the bottom half of college classes;
+gives them minimal training; and when teachers fail to improve student
+perfor- mance, the government imposes rigid standards, hoping to do on
+the back end what it failed to create on the front end. By contrast,
+countries with top PISA scores, such as Japan, Singapore, and Finland,
+do the opposite: they select teachers from the top third of college
+classes, train them rigorously, and then give them the freedom and
+time to hone their skills and share best practices with other
+teachers. As Harvard’s Jal Mehta has shown, such methods largely
+obviate the need for external accountability, because 'selection and
+preparation on the front end makes extensive monitoring on the back
+end unnecessary.'"
+
+---
+
 MB has critism for US too when it is called for
 
 Beckley: "Other worrying trends include the fact that the U.S. startup
