@@ -13,9 +13,9 @@ Beijing over the South China Sea"
 
 ---
 
-NBC: "The California Energy Commission is providing $2 million
-for the project, which will test a commercial marine vessel modified
-to incorporate hydrogen"
+NBC: "The California Energy Commission is providing $2 million for [a]
+project which will test a commercial marine vessel modified to
+incorporate hydrogen"
 
 [Link](https://www.nbclosangeles.com/news/local/socalgas-to-provide-funding-for-testing-of-hydrogen-fuel-cell-technology-for-marine-vessels/2582877/)
 
