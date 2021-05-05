@@ -58,15 +58,15 @@ protection schemes are based on flawed system"
 ---
 
 MB: "During his first two terms, more than 1,800 of Putin’s decrees
-were ignored or circumvented, 208 and Putin himself estimates that
-only about 20 percent of his decisions get implemented unless he
-intervenes forcefully. 209 The former president, Dmitri Medvedev, has
-stated: 'Without exaggeration, Russia is a country of legal
-nihilism. . . . No other European country can boast of such a level of
-disregard for law.' Rigorous studies corroborate this claim: nearly 30
-percent of Russians admit to breaking the law on a regular basis, and
-Russian police earn more money from second jobs (roughly 40 percent of
-which involves illegal activity) than from their offi cial salaries"
+were ignored or circumvented, and Putin himself estimates that only
+about 20 percent of his decisions get implemented unless he intervenes
+forcefully. The former president, Dmitri Medvedev, has stated:
+'Without exaggeration, Russia is a country of legal nihilism. . . . No
+other European country can boast of such a level of disregard for
+law.' Rigorous studies corroborate this claim: nearly 30 percent of
+Russians admit to breaking the law on a regular basis, and Russian
+police earn more money from second jobs (roughly 40 percent of which
+involves illegal activity) than from their offi cial salaries"
 
 ---
 
@@ -75,7 +75,7 @@ Aha turns out Rodrigues, of the Rodrigues formula fame was French.
 ---
 
 MB: "France has banned fracking entirely, partly because its best
-shale fi eld lies directly under Paris"
+shale field lies directly under Paris"
 
 ---
 
