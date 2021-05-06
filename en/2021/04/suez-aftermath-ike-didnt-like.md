@@ -3,8 +3,8 @@
 [Link](http://www.thetower.org/article/we-are-still-living-with-eisenhowers-biggest-mistake-suez-egypt-israel-ikes-gamble-michael-doran/)
 
 Michael Doran’s valiant attempt to save us from ignorance and bad
-history in his bracing new book, Ike’s Gamble: America’s Rise to
-Dominance in the Middle East. He expertly walks us through the Suez
+history in his bracing new book, *Ike’s Gamble: America’s Rise to
+Dominance in the Middle East*. He expertly walks us through the Suez
 Crisis of 1956 and its ghastly aftermath when Republican President
 Dwight “Ike” Eisenhower learned the hard way that Israel, not Egypt or
 any other Arab state, should be the foundation of America’s security
