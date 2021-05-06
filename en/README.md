@@ -18,7 +18,6 @@ Deutsche Welle: "EU-China investment deal put on ice over sanctions"
 
 ---
 
-
 MB: "[T]he Filipino president, Rodrigo Duterte, has repeatedly
 threatened to downgrade the U.S.-Filipino alliance, but he also has
 authorized the United States to upgrade its military facilities in the
