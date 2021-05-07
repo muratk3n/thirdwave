@@ -55,7 +55,6 @@ HuffPo: "Pharma-Backed Democrats Rally Opposition To Vaccine Patent Waiver"
 
 ---
 
-
 Democratic process would take care of the differing viewpoints; but
 the state's official ideology is what these morons mumble, so they
 linger, and once in a while get to be part of coalitions which is a
@@ -105,9 +104,9 @@ to address a shortage in lethal injection drugs"
 
 "The Biden team views inequality much more as something molded by
 human hands?the result of policies that have weakened workers and
-strengthened corporations? marketplace leverage. To a greater degree
-than Obama?s and especially Clinton?s teams, it believes that
-generating widely shared prosperity isn?t possible without aggressive
+strengthened corporations' marketplace leverage. To a greater degree
+than Obama's and especially Clinton's teams, it believes that
+generating widely shared prosperity isn't possible without aggressive
 government intervention"
 
 [Link](https://www.theatlantic.com/politics/archive/2021/05/biden-economy-inflation-yellen/618816/)
