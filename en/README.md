@@ -1,18 +1,18 @@
 # Tweets
 
 
-France expands vaccine rollout as Macron voices support for patent
+"France expands vaccine rollout as Macron voices support for patent
 waiver.. French President Emmanuel Macron said Thursday that he was
-"absolutely in favour" of a global waiver on patent protection for
+'absolutely in favour' of a global waiver on patent protection for
 Covid-19 vaccines, adding his voice to a campaign backed by US
-President Joe Biden.
+President Joe Biden"
 
 ---
 
-The European Union is willing to discuss a proposal, now backed by US
+"The European Union is willing to discuss a proposal, now backed by US
 President Joe Biden's administration, to waive intellectual property
 rights for Covid-19 vaccines, European Commission chief Ursula von der
-Leyen said on Thursday.
+Leyen said on Thursday"
 
 ---
 
@@ -21,8 +21,8 @@ new study says. The U.S. accounts for 11% of the global total"
 
 ---
 
-Negative reviews of TikTok on Glassdoor are putting some people off
-joining the company
+"Negative reviews of TikTok on Glassdoor are putting some people off
+joining the company"
 
 ---
 
