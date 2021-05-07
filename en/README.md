@@ -39,7 +39,7 @@ Do we really need to pose in front of cams to get job done?
 
 ---
 
-"Even the chief executive of Zoom says he has 'Zoom fatigue?'"
+"Even the chief executive of Zoom says he has 'Zoom fatigue'"
 
 ---
 
@@ -80,19 +80,6 @@ politics, and some of those viewpoints on the pro side form parties.
 [in Berlin](2013/12/inventions-of-kebabic-kind.md). Dish is not "Turkish"
 either.. Armenian *tarna* is the same thing and older, was around
 before that, and guess what the word means in Armenian...
-
----
-
-Also leader being part of that culture, would be likely to bend rules
-to stay in power? Another problem.
-
----
-
-I wonder if reduced rule-following in cultures give rise to more
-authoritarian leaders.. If a leader, even at the max of their control
-can only get 30% of their asks done, with less authority, that number
-would fall down even lower.. Then, since rule-following doesn't go up,
-to do more, leader wants his authority to increase?
 
 ---
 
