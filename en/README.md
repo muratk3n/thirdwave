@@ -1,18 +1,18 @@
 # Tweets
 
 
-"France expands vaccine rollout as Macron voices support for patent
-waiver.. French President Emmanuel Macron said Thursday that he was
-'absolutely in favour' of a global waiver on patent protection for
+F24: "France expands vaccine rollout as Macron voices support for
+patent waiver.. French President Emmanuel Macron said Thursday that he
+was 'absolutely in favour' of a global waiver on patent protection for
 Covid-19 vaccines, adding his voice to a campaign backed by US
 President Joe Biden"
 
 ---
 
-"The European Union is willing to discuss a proposal, now backed by US
-President Joe Biden's administration, to waive intellectual property
-rights for Covid-19 vaccines, European Commission chief Ursula von der
-Leyen said on Thursday"
+F24: "The European Union is willing to discuss a proposal, now backed
+by US President Joe Biden's administration, to waive intellectual
+property rights for Covid-19 vaccines, European Commission chief
+Ursula von der Leyen said on Thursday"
 
 ---
 
@@ -43,7 +43,7 @@ Do we really need to pose in front of cams to get job done?
 
 ---
 
-Will there be war? Boom.
+Will there be war? 😶
 
 "U.K. and France Send Naval Ships to Channel Island in Tense Fishing Dispute"
 
@@ -67,7 +67,7 @@ There are TR parties who stress the nat identity more, yes.
 
 But this identity is supposedly shared by everyone, why are there
 parties stressing it? Notice not talking about conservatism, nor
-defending cultural values.. These parties are about a particular
+defending cultural values per se. These parties are about a particular
 wording. Why? Well the reason is that the label, and its underlying
 narrative is bunk. It has little relation to the culture it supposedly
 'labels'. With so much abject stupidity naturally there are
@@ -79,7 +79,7 @@ politics, and some of those viewpoints on the pro side form parties.
 *Döner* (tigger gyro, the word means 'it turns') was not invented
 [in Berlin](2013/12/inventions-of-kebabic-kind.md). Dish is not "Turkish"
 either.. Armenian *tarna* is the same thing and older, was around
-before that, and guess what the word means in Armenian...
+before that, and guess what the word means in Armenian.
 
 ---
 
@@ -91,12 +91,12 @@ to address a shortage in lethal injection drugs"
 
 ---
 
-"The Biden team views inequality much more as something molded by
-human hands?the result of policies that have weakened workers and
-strengthened corporations' marketplace leverage. To a greater degree
-than Obama's and especially Clinton's teams, it believes that
-generating widely shared prosperity isn't possible without aggressive
-government intervention"
+The Atlantic: "The Biden team views inequality much more as something
+molded by human hands, the result of policies that have weakened
+workers and strengthened corporations' marketplace leverage. To a
+greater degree than Obama's and especially Clinton's teams, it
+believes that generating widely shared prosperity isn't possible
+without aggressive government intervention"
 
 [Link](https://www.theatlantic.com/politics/archive/2021/05/biden-economy-inflation-yellen/618816/)
 
