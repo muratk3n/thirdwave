@@ -83,14 +83,16 @@ before that, and guess what the word means in Armenian...
 
 ---
 
+Also leader being part of that culture, would be likely to bend rules
+to stay in power? Another problem.
+
+---
+
 I wonder if reduced rule-following in cultures give rise to more
 authoritarian leaders.. If a leader, even at the max of their control
 can only get 30% of their asks done, with less authority, that number
-would fall down drastically. Then, since rule-following doesn't go up,
-to do more, leader wants his authority to increase? 
-
-Also leader being part of that culture, would be likely to bend rules
-to stay in power -- another problem.
+would fall down even lower.. Then, since rule-following doesn't go up,
+to do more, leader wants his authority to increase?
 
 ---
 
