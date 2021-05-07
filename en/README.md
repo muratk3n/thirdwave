@@ -32,9 +32,9 @@ working.. The Internet at its core is async (send email I dont have to
 be constantly looking to 'get' my message, the message just waits for
 you).
 
-The Linux OS, one of the largest software projects ever undertaken by
-mankind, was mostly developed in this fashion, async, through email,
-patch files, shared repos etc.
+The open-source OS Linux, the largest software project ever undertaken
+by mankind, was mostly developed in this fashion, async, through
+email, patch files, shared repos etc.
 
 Do we really need to pose in front of cams to get job done?
 
