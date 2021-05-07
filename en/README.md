@@ -16,13 +16,14 @@ Ursula von der Leyen said on Thursday"
 
 ---
 
-"China is responsible for more than 27% of total global emissions, a
-new study says. The U.S. accounts for 11% of the global total"
+CNBC: "China is responsible for more than 27% of total global
+emissions, a new study says. The U.S. accounts for 11% of the global
+total"
 
 ---
 
-"Negative reviews of TikTok on Glassdoor are putting some people off
-joining the company"
+CNBC: "Negative reviews of TikTok on Glassdoor are putting some people
+off joining the company"
 
 ---
 
