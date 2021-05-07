@@ -1,169 +1,116 @@
 # Tweets
 
-DW: "Opinion: China's New Silk Road is full of potholes. As the harsh
-realities of China's growing power sink in, the county's appeal is
-diminishing in the West. To keep it in check, more coordinated efforts
-are needed and come September the tone from Germany may be decisive"
+
+France expands vaccine rollout as Macron voices support for patent
+waiver.. French President Emmanuel Macron said Thursday that he was
+"absolutely in favour" of a global waiver on patent protection for
+Covid-19 vaccines, adding his voice to a campaign backed by US
+President Joe Biden.
 
 ---
 
-F24: "US President Joe Biden’s administration on Wednesday announced
-support for a global waiver on patent protections for Covid-19
-vaccines, offering hope to poor nations that have struggled to access
-the life-saving doses"
+The European Union is willing to discuss a proposal, now backed by US
+President Joe Biden's administration, to waive intellectual property
+rights for Covid-19 vaccines, European Commission chief Ursula von der
+Leyen said on Thursday.
 
 ---
 
-Deutsche Welle: "EU-China investment deal put on ice over sanctions"
+"China is responsible for more than 27% of total global emissions, a
+new study says. The U.S. accounts for 11% of the global total"
 
 ---
 
-MB: "[T]he Filipino president, Rodrigo Duterte, has repeatedly
-threatened to downgrade the U.S.-Filipino alliance, but he also has
-authorized the United States to upgrade its military facilities in the
-Philippines, ordered further reclamation on Philippine-held islands in
-the Spratlys, instructed Filipino troops to 'fight to the death' to
-defend these 95 ​islands against China, and threatened to raise the
-Philippine flag himself on Thitu Island and to ride out to other
-Chinese-claimed features on his jet ski and plant Philippine flags on
-them too"
+Negative reviews of TikTok on Glassdoor are putting some people off
+joining the company
 
 ---
 
-MB: "China’s neighbors have shown that they are willing to use
-military force against China’s civilian vessels. Indonesia and
-Malaysia, for example, announced in 2016 that they would sink foreign
-vessels that fish or drill in their claimed waters in the South China
-Sea, and Indonesia made good on this promise at least three times in
-2016, firing on Chinese fishing vessels and blowing them up on
-national TV—all while Chinese coast guard cutters watched from a
-distance"
+Tech should allow new ways of working not just extend existing ways of
+working.. The Internet at its core is async (send email I dont have to
+be constantly looking to 'get' my message, the message just waits for
+you).
+
+The Linux OS, one of the largest software projects ever undertaken by
+mankind, was mostly developed in this fashion, async, through email,
+patch files, shared repos etc.
+
+Do we really need to pose in front of cams to get job done?
 
 ---
 
-MB: "China .. cannot enforce its South China Sea claims. The sea is a
-hotly contested zone, with five other countries laying claims to
-portions of ​it. China has a more powerful military than these
-Southeast Asian states, but they are closer than China to the areas of
-the sea that they claim. In a war, Chinese forces would need to cycle
-between the combat theater and a few bases hundreds of miles away in
-southern China to refuel and reload, a commute that would severely
-limit the amount of combat power China could sustain on the
-battlefield. Southeast Asian forces, by contrast, could operate from
-home bases bordering the combat theater and would have their full
-arsenals at their disposal"
+"Even the chief executive of Zoom says he has 'Zoom fatigue?'"
 
 ---
 
-MB: "China’s neighbors have developed their own A2/AD capabilities,
-which can deny China sea and air control throughout most of its near
-seas—even without U.S. assistance"
+Will there be war? Boom.
+
+"U.K. and France Send Naval Ships to Channel Island in Tense Fishing Dispute"
 
 ---
 
-MB: "[Due to amphibious difficulties] China, therefore, probably could
-not conquer Taiwan, even in the absence of U.S. intervention. Even if
-China’s prospects are better than I have suggested, the PLA clearly
-would have its hands full just dealing with Taiwan’s defenders.
-Consequently, the United States would only need to tip the scales of
-the battle to foil a Chinese invasion, a mission that could be
-accomplished in numerous ways without exposing U.S. surface ships or
-nonstealth aircraft to China’s [antiaccess-areadenial -A2/AD-] forces.
-Specifically, American defense planners estimate that it would take
-ten thousand to twenty thousand pounds of ordnance to decimate a PLA
-invasion force on the beaches of Taiwan. The U.S. military could
-deliver that payload many times over with a single B-2 bomber or an
-Ohio-class submarine firing cruise missiles from an underwater
-location hundreds of miles away. Alternatively, the United States
-could unleash its attack submarines on the PLA invasion fleet"
+Oh yeaa.. bought and paid for by big pharma.. cry baby cry
+
+HuffPo: "Pharma-Backed Democrats Rally Opposition To Vaccine Patent Waiver"
 
 ---
 
-MB: "[In a conflict with Taiwan] China would try to sink merchant
-ships supplying Taiwan, but rigorous research suggests that the PLA
-could sink only 1 to 6 percent of Taiwan’s shipping, and these results
-are based on assumptions that heavily favor China... China might hope
-that sinking a few merchant ships would deter others from supplying
-Taiwan. Historically, however, shipping companies and privateers have
-operated in wartime; in fact, many have volunteered to enter dangerous
-areas so that they could charge higher premiums. For example, the lure
-of profits kept seaborne commerce going throughout both world wars and
-the 1980–88 Iran-Iraq War, wars in which shipping losses were several
-times greater than what China could hope to inflict on Taiwan"
+
+Democratic process would take care of the differing viewpoints; but
+the state's official ideology is what these morons mumble, so they
+linger, and once in a while get to be part of coalitions which is a
+problem. The state needs to stop picking sides, correct its narrative,
+the democratic process would take care of the rest.
 
 ---
 
-MB: "[R]ecent internal investigations found that the PLA 'is riddled
-with corruption and professional decay, compromised by ties of
-patronage, and asphyxiated by the ever-greater effort required to
-impose political control.' According to U.S. intelligence assessments,
-'the level of corruption in the PLA at least equals, and probably far
-exceeds, the level of corruption in the civilian economy.'"
+There are TR parties who stress the nat identity more, yes.
+
+But this identity is supposedly shared by everyone, why are there
+parties stressing it? Notice not talking about conservatism, nor
+defending cultural values.. These parties are about a particular
+wording. Why? Well the reason is that the label, and its underlying
+narrative is bunk. It has little relation to the culture it supposedly
+'labels'. With so much abject stupidity naturally there are
+disagreements, and viewpoints around the label, which should be above
+politics, and some of those viewpoints on the pro side form parties.
 
 ---
 
-MB: "When Chinese firms imported foreign technology, they spent less
-than 25 percent of the total cost on absorbing the technology, a share
-far lower than the 200 to 300 percent spent by Korean and Japanese
-firms when they were trying to catch up to the West in the 1970s. As a
-result, many Chinese firms remain dependent on foreign technologies
-and manual labor and have a rudimentary level of automation and
-digitization"
+*Döner* (tigger gyro, the word means 'it turns') was not invented
+[in Berlin](2013/12/inventions-of-kebabic-kind.md). Dish is not "Turkish"
+either.. Armenian *tarna* is the same thing and older, was around
+before that, and guess what the word means in Armenian...
 
 ---
 
-MB: "According to a former Chinese biochemist turned whistle-blower,
-'misconduct is so widespread among Chinese academics that they have
-almost become used to it.' China now leads the world in retractions of
-scientific studies due to fraud"
+I wonder if reduced rule-following in cultures give rise to more
+authoritarian leaders.. If a leader, even at the max of their control
+can only get 30% of their asks done, with less authority, that number
+would fall down drastically. Then, since rule-following doesn't go up,
+to do more, leader wants his authority to increase? 
+
+Also leader being part of that culture, would be likely to bend rules
+to stay in power -- another problem.
 
 ---
 
-MB: "Since 2006, [CH] has tripled its spending on research and
-development (R&D), employed more scientists and engineers than any
-other country, and mounted the most extensive corporate espionage
-campaign in history. So far, however, these measures have failed to
-turn China into an innovation powerhouse"
+Dude. Why not a fold toaster..? Or a wooden hammer? It would take longer 😶
+
+"South Carolina lawmakers vote to add firing squad to execution
+methods.. The governor has said he will sign the bill, which is meant
+to address a shortage in lethal injection drugs"
 
 ---
 
-MB: "[O]ne-third of China’s GDP and 90 percent of its high-technology
-goods are produced by foreign firms that have merely set up factories
-in China to snap together components produced elsewhere. This
-practice, known as 'export processing,' accounts for 90 percent of
-China’s high-technology exports and 100 percent of China’s trade
-surplus. On average, of every dollar an American consumer spends on an
-item labeled 'Made in China,' 55 cents go for components and services
-produced in the United States. In other words, more than half of the
-content of 'Made in China' is American"
+"The Biden team views inequality much more as something molded by
+human hands?the result of policies that have weakened workers and
+strengthened corporations? marketplace leverage. To a greater degree
+than Obama?s and especially Clinton?s teams, it believes that
+generating widely shared prosperity isn?t possible without aggressive
+government intervention"
 
----
-
-MB: "Whereas the United States can feed itself with only 1 percent of
-its workforce in agriculture, China devotes 30 percent of its
-workforce to farming—and still depends on food imports to feed its
-population... Economic development is, at its core, a process of
-structural change from agriculture to industry"
-
----
-
-MB: "American live in a less toxic environment. Air pollution is seven
-times worse in China than in the United States and kills 1.6 million
-Chinese citizens each year versus 200,000 Americans. Breathing
-Beijing’s air is the equivalent of smoking forty cigarettes a day.
-
----
-
-MB: "Many Chinese college students describe their schools as 'diploma
-factories,' where student-teacher ratios are double the average in
-U.S. universities, cheating is rampant, students spend a quarter of
-their time studying 'Mao Zedong thought'"
-
----
-
-*Unrivaled*, M. Beckley: "Entrepreneurs in China have reported
-spending roughly 70 percent of their time schmoozing with party
-members"
+[Link](https://www.theatlantic.com/politics/archive/2021/05/biden-economy-inflation-yellen/618816/)
 
 ---
 
