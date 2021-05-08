@@ -78,7 +78,7 @@ Look It Up - Ashton Shepherd \#music
 
 ---
 
-So many thimgs are theft in con jargon.. what else..? Taxation is
+So many things are theft in con jargon.. what else..? Taxation is
 theft too right?
 
 ---
