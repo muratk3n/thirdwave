@@ -66,10 +66,6 @@ a library in Matlab redid the whole f-ing thing in 🐍
 
 ---
 
-Göt
-
----
-
 New Vibe Who Dis - Madison Mars \#music
 
 [Link](https://youtu.be/FXZ1xjCCCDk)
