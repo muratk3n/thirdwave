@@ -48,10 +48,10 @@ the seat?"
 
 ---
 
-"President Joe Biden called for Congress during his joint address last
-week to pass labor reform legislation, a slate of gig companies has
-spent over $1 million lobbying Congress to influence the PRO Act and
-other related issues in 2021 alone"
+"Biden called for Congress during his joint address last week to pass
+labor reform legislation, a slate of gig companies has spent over $1
+million lobbying Congress to influence the PRO Act and other related
+issues in 2021 alone"
 
 [Link](https://theintercept.com/2021/05/06/pro-act-uber-lyft-doordash-instacart-lobbying/)
 
