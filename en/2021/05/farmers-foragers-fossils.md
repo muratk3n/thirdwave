@@ -22,8 +22,8 @@ themes, energy capture is the motor driving the big pattern...
 overwhelming majority (probably more than 95 percent) of all the
 people who have ever lived...
 
-my argument is also explicitly evolutionist.. What I mean by this is
-that human values have evolved biologically in the seven to eight
+[My]y argument is also explicitly evolutionist.. What I mean by this
+is that human values have evolved biologically in the seven to eight
 million years since we split off genetically from the last common
 ancestor we 24 shared with the other great apes. Because our biology
 has not changed very much in the ten to fifteen thousand years since
@@ -38,6 +38,8 @@ Wilson observed forty years ago, “Scientists and humanists should
 consider together the possibility that the time has come for ethics to
 be removed temporarily from the 25 hands of philosophers and
 biologicized.”...
+
+Foragers
 
 Everywhere from the Arctic to Australia, ethnographers have commented
 on foragers’ aversion to political hierarchy. (In the excellent
@@ -92,11 +94,129 @@ between generations, which in turn means that questions about the
 legitimacy of children matter a lot less than they do when only
 legitimate offspring will inherit land and capital.
 
+Farmers
 
+Like foraging, farming emerged in a particular place—in this case,
+what archaeologists call the “Hilly Flanks” (see figure 3.2;
+basically, an arc curving up through the Jordan Valley to the Turkish
+border and then back down along the Iraq- Iran frontier)—at a
+particular time (roughly ten thousand to fifteen thousand years ago),
+and then spread across the rest of the planet...
 
+Because all farming societies sooner or later invented or adopted
+writing, beginning around 3300 BC in what is now southern Iraq, we
+have enormous 11 numbers of primary sources for farming societies.
+However, of the millions of texts that survive, most share a serious
+problem: their authors belonged to small, educated, and overwhelmingly
+male elites, and usually wrote for their own peers and
+purposes. Consequently, the primary historical sources tell us
+surprisingly little about the lives of the three-quarters or more of
+the population that actually did the farming...
 
+Taking agriculture into new environments, however, opened new
+possibilities, and farmers gradually learned that great
+rivers—particularly the Euphrates, Tigris, Nile, Indus, and Yellow
+Rivers—could be turned to the purposes of irrigation, transport, and
+communication. This pushed yields and economic integration higher, and
+it was along 64these rivers that farmers built the first true cities,
+with populations running into the tens or occasionally the hundreds of
+thousands. Yet if having access to a great river was good for farming,
+having access to an entire sea was even better. In the late first
+millennium BC, the Roman Empire brought the whole Mediterranean basin
+under its control, and the city of Rome grew to a million residents...
 
+The steady increase in energy captured per acre of farmland made it
+possible to feed these millions of mouths, but it came at the price of
+constant, backbreaking labor. The relatively leisured foragers of
+Sahlins’s primitive affluent society make a striking contrast with the
+brutally overworked farmers documented by historians, anthropologists,
+and development economists. “Pile work with work upon more work,”
+advised the ancient Greek poet Hesiod, whose Works and Days (composed
+around 700 BC) is our oldest surviving source purporting to describe
+life from a 30 peasant’s point of view. Twenty-six centuries later, a
+priest in southern Italy concluded that “the peasant works in order to
+eat, he eats in order to have the strength 31 to work; and then he
+sleeps.” Excavated skeletons suggest that ancient farmers tended to
+suffer more than foragers from repetitive stress injuries; their teeth
+were often terrible, thanks to restricted diets heavy on sugary
+carbohydrates; and their stature, which is a fairly good proxy for
+overall nutrition, tended to fall slightly with 32 the onset of
+agriculture, not increasing noticeably until the twentieth century AD...
 
+[B]etween 1346 and 1400, the Black Death —which killed nearly half the
+continent’s population—shifted the land-labor ratio back dramatically
+in the survivors’ favor. Unskilled workers’ real wages spiked up to
+unheard-of levels in the fifteenth century, but as population
+recovered, farmers once again began having to work harder for lower
+returns (shown in figure 5.8, later). In eighteenth-century Europe,
+enlightened intellectuals found that peasants looked back on the
+fifteenth century as a golden age of leisure, cakes, and ale, in sharp
+contrast to the misery of their own days...
+
+[On inequality] The earliest case for which we have actual statistics
+is the Roman Empire, and here some people were astonishingly
+rich... [A] senior military man named L. Tarius Rufus lost 100 million
+sesterces when a single property deal went 40 wrong, and the historian
+Chris Wickham suggests that by the fourth century AD, the greatest
+families—the Anicii, Petronii, and Caeonii—“may have been the richest
+private landowners of all time.”...
+
+Because (1) the foods produced by farmers often required more
+processing (threshing, sifting, grinding, baking, and so on) than
+those brought home by foragers; (2) the increasingly permanent homes
+that farmers built required a lot more upkeep and cleaning than
+foragers’ temporary shelters; and (3) these activities could be done
+in the home by women supervising small children, the logic of farming
+pointed toward a new sexual division of labor and space. The
+conclusion that farmers all over the world apparently reached was that
+men should go out to work in the fields while women stayed home to
+work in the house. So obvious did this decision seem, in fact, that no
+farming society that moved beyond horticulture ever seems to have
+decided anything else...
+
+In twentieth-century preindustrial farming societies, anthropologists
+and sociologists typically found strong correlations between the
+intensity of agricultural practices, the importance of inheritance,
+and male obsession with female sexual purity. This too seems to be a
+consequence of the logic of agriculture. Foragers share their
+knowledge with the young, teaching them how to find ripe plants, wild
+game, and safe campsites, but farmers have something much more
+concrete to pass on: property.  To flourish in a farming world, people
+need a house, fields, and flocks, not to mention wells, walls, and
+tools, and improvements such as weeding, watering, terracing, and
+removing stones. Inheriting property from older generations literally
+becomes a matter of life and death, and with so much at stake, peasant
+men want to be sure that they are the fathers of the children who will
+inherit their property. Foragers’ rather casual attitudes about sex
+yield to ferocious policing of daughters’ premarital virginity (the 55
+“symbol of symbols,” one anthropologist of southern Italy called it in
+the 1950s) and wives’ extramarital activities. Peasant men tended to
+marry around the age of thirty, after they had come into their
+inheritance, while women generally married around fifteen, before they
+had had much time to stray...
+
+Many early farming societies seem to have been obsessed with
+ancestors, and even to have worshipped them as supernatural beings.
+73Several sites in the Hilly Flanks have apparent ancestor cults
+(strange semisubterranean rooms containing jawless human skulls) going
+back to 10,000 BC, just as domestication was beginning. By 7000 BC,
+people at Jericho, Çatalhöyük, and numerous other sites were burying
+their ancestors under their house floors while cutting off and keeping
+their heads, often coating the skulls with painted plaster and passing
+them around for generations. By this time, girls in the Hilly Flanks
+probably no longer lived like the !Kung forager Nisa. Instead, they
+grew up under the authority of their fathers and then, as teenagers,
+exchanged that for the authority of husbands old enough to be their
+fathers...
+
+[M]ost material goods, in most farming societies, were produced within
+the household. The ancient Greek farmer-poet Hesiod assumed that
+farmers would make everything they possibly could at home, rather than
+buying, bartering, or borrowing 59 outside the household... Despite
+his commitment to self-sufficiency, however, .. no farm family could
+do everything for itself, increasing specialization [occured] between
+households... [some] would specialize in particular crafts, exchanging
+goods in marketplaces 61 and competing with each other..
 
 
 
