@@ -32,3 +32,5 @@
 
 [Good Reductionism and Nonlinear Power](04/sum-greater-than-whole-reductionism.md)
 
+[Farmers, Foragers, Fossils](05/farmers-foragers-fossils.md)
+
