@@ -340,14 +340,14 @@ plt.savefig('gdp-ism.png')
 
 <a name="cpyoy"></a>
 
-## Profits
+## Profits YoY
 
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
 
 today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
+start=datetime.datetime(2000, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
 cols = ['CPROFIT']
 df = data.DataReader(cols, 'fred', start, end)
@@ -361,10 +361,10 @@ plt.savefig('profit.png')
 ```text
              CPROFIT      cpyoy
 DATE                           
-2019-10-01  2311.272   1.260370
 2020-01-01  2035.030  -6.700416
 2020-04-01  1826.137 -19.309944
 2020-07-01  2325.730   3.528294
+2020-10-01  2294.300  -0.734314
 ```
 
 ![](profit.png)
@@ -636,11 +636,11 @@ plt.savefig('10yrgld.png')
 ```text
             DGS10  GOLDAMGBD228NLBM
 DATE                               
-2021-04-26   1.58           1779.65
-2021-04-27   1.63           1780.90
-2021-04-28   1.63           1764.15
-2021-04-29   1.65           1774.65
-2021-04-30    NaN           1768.80
+2021-05-03   1.63               NaN
+2021-05-04   1.61           1784.95
+2021-05-05   1.59           1778.05
+2021-05-06   1.58           1793.15
+2021-05-07    NaN           1820.50
 ```
 
 ![](10yrgld.png)
@@ -772,10 +772,10 @@ plt.savefig('debt.png')
 
 ```text
 DATE
-2020-11-01    19.230303
-2020-12-01    19.109282
-2021-01-01    18.949615
-2021-02-01    19.074692
+2020-12-01    19.154885
+2021-01-01    19.001602
+2021-02-01    19.120111
+2021-03-01    19.237312
 Freq: MS, Name: debt, dtype: float64
 ```
 
