@@ -75,6 +75,14 @@ recycled"
 
 ---
 
+"Ammonia is more efficient than an HFC-based system. Ammonia is 3-10
+percent more efficient than HFC, which reduces electricity use and
+operating costs"
+
+[Link](https://www.keepitcooltompkins.org/alternatives-to-hfc.html)
+
+---
+
 Guess what Im going to recommend for green refigration?
 
 ---
