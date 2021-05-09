@@ -46,8 +46,17 @@ cave"
 
 ---
 
-Ammonia can be a natural by-product of a green hydrogen economy. A
-major input to ammonia generation is H2.
+"The world's first shipment of blue ammonia was dispatched from Saudi
+Arabia to Japan on Sep. 27, 2020 for use in a power station for the
+production of zero-carbon power generation, paving the way for the
+further use of hydrogen in the energy system"
+
+[Link](https://www.hellenicshippingnews.com/blue-ammonias-role-in-the-energy-transition-of-saudi-arabia-and-japan)
+
+---
+
+Ammonia can be a natural by-product of a hydrogen economy. A major
+input to ammonia generation is H2.
 
 ---
 
