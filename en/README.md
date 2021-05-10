@@ -7,8 +7,8 @@ support opportunities to boost any point in the pipeline.
 
 ---
 
-I love it now all arguments can be turned around verbatim against the
-English. "Will of the people!". "Freedom!"
+I love it all those Brexit arguments can be turned around verbatim
+against the English now. "Will of the people!". "Freedom!"
 
 ---
 
