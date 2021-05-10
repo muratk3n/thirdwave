@@ -1,15 +1,5 @@
 # Tweets
 
-Many things are possible.. but viable? Efficient? That is the
-question. If one is fine cutting 100 mile from his range, wait a day
-while the f-ing truck charges during long trips, 8 tons added to his
-curb weight, fine. Like aspirin is "fine" for cancer, or cutting fat
-from diet but drinking Coca-Cola. It's all "fine".
-
-"But battery trucks are possible"
-
----
-
 Summer Glau did a brilliant Scottish accent on *Firefly*. Wow. A lot
 of these ppl are top notch
 
@@ -50,6 +40,16 @@ Anti-independence: 57 (-3)
 "Scotland's Independence Parties Gain Upper Hand as Pressure Builds on
 U.K... SNP’s Nicola Sturgeon is pushing a referendum plan with Green
 Party allies as Boris Johnson gains ground in England"
+
+---
+
+Many things are possible.. but viable? Efficient? That is the
+question. If one is fine cutting 100 mile from his range, wait a day
+while the f-ing truck charges during long trips, 8 tons added to his
+curb weight, fine. Like aspirin is "fine" for cancer, or cutting fat
+from diet but drinking Coca-Cola. It's all "fine".
+
+"But battery trucks are possible"
 
 ---
 
