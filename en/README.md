@@ -58,7 +58,7 @@ Australian Government’s Hydrogen Plan"
 
 ---
 
-We hear the occasional lefty muttering from even G. Brown, the other
+We hear the occasional lefty mutterings from even G. Brown, the other
 one-time "New Labor" leader -- he supported covid patent
 waiver.. Where is TB? Drop this Third Way, TINA, Clinton bullshit
 
