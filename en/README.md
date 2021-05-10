@@ -1,7 +1,9 @@
 # Tweets
 
-Summer Glau did a brilliant Scottish accent on *Firefly*. Wow. A lot
-of these ppl are top notch
+Given all these potential weak spots I dont understand why more do not
+support opportunities to boost any point in the pipeline.
+
+"Supply shortages and vaccine inequality leaves Covax facing uncertain future"
 
 ---
 
@@ -15,13 +17,6 @@ Hah.. I bet the same thing EU told Britain before their referandum
 "With a pro-independence majority in the Scottish parliament, Prime
 Minister Boris Johnson said the UK was 'best served when we work
 together.'"
-
----
-
-Given all these potential weak spots I dont understand why more do not
-support opportunities to boost any point in the pipeline.
-
-"Supply shortages and vaccine inequality leaves Covax facing uncertain future"
 
 ---
 
