@@ -93,7 +93,7 @@ the PR war.. advocating the rights of Big Pharma against poor nations"
 Because it'd make them feel butt-hurt, giving out hundreds of millions
 rather than mere millions, so they would not be incentivized to *help*
 us, "disrupt" industries and shit, fight our crime when government
-fails like Batman
+fails, like Batman
 
 "@M_SullivanTax
 
