@@ -38,11 +38,11 @@ Party allies as Boris Johnson gains ground in England"
 
 ---
 
-Many things are possible.. but viable? Efficient? That is the
-question. If one is fine cutting 100 mile from his range, wait a day
-while the f-ing truck charges during long trips, 8 tons added to his
-curb weight, fine. Like aspirin is "fine" for cancer, or cutting fat
-from diet but drinking Coca-Cola. It's all "fine".
+Many things are possible.. but viable? Efficient?  If u r fine cutting
+100 mile from your range, wait a day while the f-ing truck charges
+during long trips, 8 tons added to your curb weight, fine. Like
+aspirin is "fine" for cancer. Or cutting fat from diet but drinking
+Coca-Cola. It's all "fine".
 
 "But battery trucks are possible"
 
