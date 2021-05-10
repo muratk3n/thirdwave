@@ -18,8 +18,8 @@ together.'"
 
 ---
 
-Given all these potential weak spots I dont understand more ppl do not
-support effort to boost any point in the pipeline.
+Given all these potential weak spots I dont understand why more do not
+support opportunities to boost any point in the pipeline.
 
 "Supply shortages and vaccine inequality leaves Covax facing uncertain future"
 
