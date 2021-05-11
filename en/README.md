@@ -91,6 +91,14 @@ Dogecoin is basically built around pure nihilism"
 
 ---
 
+Mistakes here, mistake over there.. There is difference in scale
+here. Their ppl did not say 'we are all Amish' and one founder did not
+change his name to George GrandAncestorAmish. You are not comparing
+apples and oranges at this point, but apples with.. hoola
+hoops. Doorknobs.. That is the sad truth.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Using surplus solar &amp; wind power, green ammonia is the ultimate <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> carrier, generating clean power and accelerating decarbonization across regions &amp; industries. Check out this video from <a href="https://twitter.com/ScienceMagazine?ref_src=twsrc%5Etfw">@ScienceMagazine</a>: <a href="https://t.co/c8Qos0evJ0">https://t.co/c8Qos0evJ0</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1391656719969890305?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
