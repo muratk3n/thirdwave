@@ -1,110 +1,141 @@
 # Tweets
 
-Given all these potential weak spots I dont understand why more do not
-support opportunities to boost any point in the pipeline.
-
-"Supply shortages and vaccine inequality leaves Covax facing uncertain future"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PKN_ORLEN?ref_src=twsrc%5Etfw">@PKN_ORLEN</a> to deploy its first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations in <a href="https://twitter.com/hashtag/Poland?src=hash&amp;ref_src=twsrc%5Etfw">#Poland</a> - To be located at an existing ORLEN service stations in <a href="https://twitter.com/hashtag/Pozna%C5%84?src=hash&amp;ref_src=twsrc%5Etfw">#Poznań</a> and <a href="https://twitter.com/hashtag/Katowice?src=hash&amp;ref_src=twsrc%5Etfw">#Katowice</a>, the first two refuelling points will serve buses and passenger cars. ⛽️💧🚍🚗🇵🇱<a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/Y9dxj9YeXS">https://t.co/Y9dxj9YeXS</a> <a href="https://t.co/Hs0nhqjUNF">pic.twitter.com/Hs0nhqjUNF</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1391658110729826304?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-I love it all those Brexit arguments can be turned around verbatim
-against the English now. "Will of the people!". "Freedom!"
+Because that would be a disincentive for EU members to stay / be in
+the EU.  If they felt their pieces would just be taken in, then
+there's no incentive to be a member. But, if you are __not__ in the EU
+like the UK is not, anymore, especially after a bad divorce like the
+one UK had, then the EU could be like "fine, come on in, in pieces,
+whatever".
+
+"Why would EU care about pieces of countries joining to it, or not, like Catalonia?"
 
 ---
 
-Hah.. I bet the same thing EU told Britain before their referandum
+"@smdiehl
 
-"With a pro-independence majority in the Scottish parliament, Prime
-Minister Boris Johnson said the UK was 'best served when we work
-together.'"
+Let's talk about the phenomenon of 'mathcoins' and how fancy tech and
+academic obscurantism is used to defraud the public into buying scam
+crypto investments. 
+
+Cryptocurrencies are nothing but a form of investment fraud that
+enriches a small group of people by directing funds from new investors
+to pay out old investors. They're a variant of the classic Ponzi
+scheme, but where the cashflows are obscured with internet
+technology. 
+
+Now Ponzis schemes can indeed make people very rich. Madoff got rich,
+and made plenty of his early investors rich. But at some point there
+is an inflection point in which cash outflows exceed inflows and the
+scheme inevitably collapses. 
+
+Any conman will tell you, swindling a mark requires more than just
+deceit, and you have to mix lies with truth. You need a story with a
+germ of an idea crystallised around a narrative that is seemingly
+plausible and that someone already feels an emotional attachment
+to. 
+
+Bitcoin's narrative is crystallized around alt-right populism, a
+strange variant of Austrian economics, goldbuggery, distrust of
+institutions and resentment about the 2008 financial crisis.  While
+Dogecoin is basically built around pure nihilism. 
+
+With this germ of the narrative in place, the next step is to buy
+yourself some credibility to play the long con and convince people
+that your token somehow isn't like the thousands of other scams. That
+it will stand the test of time and be "real". 
+
+It's a straightforward arrangement, you ask respected people in their
+field to trade their reputation for cash to promote your token
+investment. And because having someone at arm's length who does the
+illicit toting of the investment keeps your hands clean...
+
+Keep in mind that all cryptocurrencies are designed to be investments
+that divert massive amounts of funds to insiders who create them. This
+creates an inherent moral hazard to engaging in this sort of
+deal. 
+
+For most tokens these people are rappers, Hollywood actors,
+influencers, or other notable celebrities or public figures.
+
+The narrative is simple: Rapper X is collaborating so it's a winner.
+
+Go watch the Netflix Fyre festival documentary if you want to see how
+this ends....
+
+Most mathcoins were started during the ICO bubble of 2017 and are
+nothing but a fork of bitcoin code attached to a rambling whitepaper
+for what amounts to an economic perpetual motion machine but rendered
+in the LaTeX typesetting system to appear credible. 
+
+They'll use some combination of crackpot tokenomics, cryptography,
+proof of stake, zero-knowledge proofs, smart contracts, and
+"artificial scarcity" to make a rambling argument that makes sense
+until you look at the details. But most people can't understand the
+details. 
+
+These papers all look seemingly plausible, are full of equations,
+economic notation, game theory and tons of seemingly plausible content
+... except for one notable exception:
+
+They can't tell you what problem they're trying to solve.
+
+It's not secret that grants money in academia is hard to come by these
+days, so a lot of universities have turned to a back room deals with
+crypto companies to make ends meet.
+
+This kind of low-level corruption is widespread across the US and Europe.
+
+Imperial College London got in hot water when the press exposed that
+researchers were using their academic credentials to write marketing
+material for promoting token investments on the shady crypto broker
+eToro. 
+
+To this day the University of Edinburgh has an entire blockchain lab
+that does nothing but whitewash crypto and print marketing material
+about very questionable crypto investments.
+https://ed.ac.uk/informatics/blockchain
+
+Algorand is a crypto claiming to be some hand-wavy "decentralized
+revolution" with no lack of big ideas, but a big lack of any real
+application.
+
+The marketing slathers the eminent 'Massachusetts Institute of
+Technology' brand all over the digital penny-stock prospectus. 
+
+Despite all this "innovative" research, crypto can't escape the simple
+fact that it's not used for anything but get-rich-quick schemes.
+
+MIT's cryptocurrency is massively outperformed by a coin whose
+'research' is a talking shiba that Elon Musk tweets about while
+stoned. ...
+
+Indeed, there is a pervasive meme in software circles, that all
+software is value-neutral.
+
+However outside of software circles, nobody believes that. 
+
+Slot machines are purposely designed to feed on a person’s gambling
+addiction and to take their money.
+
+Dirty bombs are designed as weapons of mass death.
+
+Cryptocurrencies are designed as mass investment frauds.
+
+The days in which technology, especially those with vast reach, can be
+considered in an intellectual vacuum are long gone.
+
+And the tragic human cost of crypto research being used to proliferate
+financial scams is very real"
+
+[Link](https://twitter.com/smdiehl/status/1391309574762795009)
 
 ---
 
-"@EuropeElects
-
-UK (Scotland) election: Final result (seats)
-
-Pro-independence: 72 (+3)
-
-Anti-independence: 57 (-3)
-
-+/- vs 2016"
-
----
-
-"Scotland's Independence Parties Gain Upper Hand as Pressure Builds on
-U.K... SNP’s Nicola Sturgeon is pushing a referendum plan with Green
-Party allies as Boris Johnson gains ground in England"
-
----
-
-Many things are possible.. but viable? Efficient?  If u r fine cutting
-100 mile from your range, wait a day while the f-ing truck charges
-during long trips, 8 tons added to your curb weight, fine. Like
-aspirin is "fine" for cancer. Or cutting fat from diet but drinking
-Coca-Cola. It's all "fine".
-
-"But battery trucks are possible"
-
----
-
-"@AMP_AU Will Develop a $2 Billion \#RenewableEnergy Hub Incorporating
-\#Hydrogen Energy in South #Australia
-
-Hub includes Spencer Gulf Hydrogen Energy Ecoplex, part of South
-Australian Government’s Hydrogen Plan"
-
-[Link](https://bit.ly/3uuSSyQ)
-
----
-
-We hear the occasional lefty mutterings from even G. Brown, the other
-one-time "New Labor" leader -- he supported covid patent
-waiver.. Where is TB? Drop this Third Way, TINA, Clinton bullshit
-
----
-
-Now that Labor centrists took a beating, it's time for a left
-turn. The sacking of Rebecca Long-Bailey was a mistake. She needs to
-be the next leader of Labor. And forget this anti-semitism non-sense
-
----
-
-Oh yea Keir was his guy
-
----
-
-Tony Blair lost on Thursday.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“A battery-electric 40 ton truck with 500km range needs 8 tons of battery. That’s ridiculous,” says Toyota’s FCV-boss Katsuhiko Hirose <a href="https://twitter.com/hashtag/nocompromise?src=hash&amp;ref_src=twsrc%5Etfw">#nocompromise</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> # <a href="https://twitter.com/hashtag/energystorage?src=hash&amp;ref_src=twsrc%5Etfw">#energystorage</a> <a href="https://twitter.com/hashtag/cleanfuel?src=hash&amp;ref_src=twsrc%5Etfw">#cleanfuel</a> <a href="https://twitter.com/hashtag/smartcities?src=hash&amp;ref_src=twsrc%5Etfw">#smartcities</a> <a href="https://twitter.com/hashtag/economicdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#economicdevelopment</a> <a href="https://twitter.com/hashtag/climatechangemitigation?src=hash&amp;ref_src=twsrc%5Etfw">#climatechangemitigation</a> <a href="https://t.co/HhF8QNC9Ve">https://t.co/HhF8QNC9Ve</a></p>&mdash; Charles Purkess (@CharlesPurkess) <a href="https://twitter.com/CharlesPurkess/status/1134741066068795392?ref_src=twsrc%5Etfw">June 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Politico: "Biden's bombshell proposal to waive intellectual property
-rights on coronavirus vaccines [led to] the EU .. now floundering in
-the PR war.. advocating the rights of Big Pharma against poor nations"
-
-[Link](https://www.politico.eu/article/biden-makes-the-eu-look-like-the-bad-guys/)
-
----
-
-Because it'd make them feel butt-hurt, giving out hundreds of millions
-rather than mere millions, so they would not be incentivized to *help*
-us, "disrupt" industries and shit, fight our crime when government
-fails, like Batman
-
-"@M_SullivanTax
-
-Ways and Means will have a hearing Wednesday on taxation of wealthy.
-Doesn't it all boil down to:
-
-Fact: the super rich are taxed at lower effective rate than a
-2-earner-middle class couple.
-
-Then ask: Is there any reason to tax the rich at a lower rate than the
-middle class?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Using surplus solar &amp; wind power, green ammonia is the ultimate <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> carrier, generating clean power and accelerating decarbonization across regions &amp; industries. Check out this video from <a href="https://twitter.com/ScienceMagazine?ref_src=twsrc%5Etfw">@ScienceMagazine</a>: <a href="https://t.co/c8Qos0evJ0">https://t.co/c8Qos0evJ0</a><a href="https://twitter.com/hashtag/FuelCells?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCells</a> <a href="https://twitter.com/hashtag/SayNoToDiesel?src=hash&amp;ref_src=twsrc%5Etfw">#SayNoToDiesel</a></p>&mdash; GenCell Energy (@gencellenergy) <a href="https://twitter.com/gencellenergy/status/1391656719969890305?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

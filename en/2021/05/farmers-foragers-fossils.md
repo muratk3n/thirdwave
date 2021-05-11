@@ -218,6 +218,25 @@ do everything for itself, increasing specialization [occured] between
 households... [some] would specialize in particular crafts, exchanging
 goods in marketplaces 61 and competing with each other..
 
+Forced labor was almost unknown within foraging societies. .. unlike
+the slaves in many of the more developed farming societies, who
+remained permanent, 78 subjugated outsiders. Farming societies seem to
+have shifted toward forced labor because they had to: neither kinship
+nor the market could generate the labor needed to build the ships,
+harbors, roads, temples, and monuments without which their
+(relatively) huge populations could not have fed themselves or
+maintained their societies. In a classic paper published in 1959, the
+ancient historian Moses Finley asked “Was Greek civilization based on
+slave labor?” The answer, he concluded, was yes, and, if we broaden
+the question to include forced labor of all kinds, Finley’s answer
+applies (to varying degrees) to all farming societies. In extreme
+cases, of which classical Athens was one, as many as one person in
+three was a chattel slave, and few if any farming societies did
+without slavery or serfdom altogether. Forced labor, like patriarchy,
+was functionally necessary to farming societies..
+
+
+
 
 
 

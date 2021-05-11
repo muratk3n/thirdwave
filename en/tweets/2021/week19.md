@@ -1,5 +1,113 @@
 # Week 19
 
+Given all these potential weak spots I dont understand why more do not
+support opportunities to boost any point in the pipeline.
+
+"Supply shortages and vaccine inequality leaves Covax facing uncertain future"
+
+---
+
+I love it all those Brexit arguments can be turned around verbatim
+against the English now. "Will of the people!". "Freedom!"
+
+---
+
+Hah.. I bet the same thing EU told Britain before their referandum
+
+"With a pro-independence majority in the Scottish parliament, Prime
+Minister Boris Johnson said the UK was 'best served when we work
+together.'"
+
+---
+
+"@EuropeElects
+
+UK (Scotland) election: Final result (seats)
+
+Pro-independence: 72 (+3)
+
+Anti-independence: 57 (-3)
+
++/- vs 2016"
+
+---
+
+"Scotland's Independence Parties Gain Upper Hand as Pressure Builds on
+U.K... SNP’s Nicola Sturgeon is pushing a referendum plan with Green
+Party allies as Boris Johnson gains ground in England"
+
+---
+
+Many things are possible.. but viable? Efficient?  If u r fine cutting
+100 mile from your range, wait a day while the f-ing truck charges
+during long trips, 8 tons added to your curb weight, fine. Like
+aspirin is "fine" for cancer. Or cutting fat from diet but drinking
+Coca-Cola. It's all "fine".
+
+"But battery trucks are possible"
+
+---
+
+"@AMP_AU Will Develop a $2 Billion \#RenewableEnergy Hub Incorporating
+\#Hydrogen Energy in South #Australia
+
+Hub includes Spencer Gulf Hydrogen Energy Ecoplex, part of South
+Australian Government’s Hydrogen Plan"
+
+[Link](https://bit.ly/3uuSSyQ)
+
+---
+
+We hear the occasional lefty mutterings from even G. Brown, the other
+one-time "New Labor" leader -- he supported covid patent
+waiver.. Where is TB? Drop this Third Way, TINA, Clinton bullshit
+
+---
+
+Now that Labor centrists took a beating, it's time for a left
+turn. The sacking of Rebecca Long-Bailey was a mistake. She needs to
+be the next leader of Labor. And forget this anti-semitism non-sense
+
+---
+
+Oh yea Keir was his guy
+
+---
+
+Tony Blair lost on Thursday.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“A battery-electric 40 ton truck with 500km range needs 8 tons of battery. That’s ridiculous,” says Toyota’s FCV-boss Katsuhiko Hirose <a href="https://twitter.com/hashtag/nocompromise?src=hash&amp;ref_src=twsrc%5Etfw">#nocompromise</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> # <a href="https://twitter.com/hashtag/energystorage?src=hash&amp;ref_src=twsrc%5Etfw">#energystorage</a> <a href="https://twitter.com/hashtag/cleanfuel?src=hash&amp;ref_src=twsrc%5Etfw">#cleanfuel</a> <a href="https://twitter.com/hashtag/smartcities?src=hash&amp;ref_src=twsrc%5Etfw">#smartcities</a> <a href="https://twitter.com/hashtag/economicdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#economicdevelopment</a> <a href="https://twitter.com/hashtag/climatechangemitigation?src=hash&amp;ref_src=twsrc%5Etfw">#climatechangemitigation</a> <a href="https://t.co/HhF8QNC9Ve">https://t.co/HhF8QNC9Ve</a></p>&mdash; Charles Purkess (@CharlesPurkess) <a href="https://twitter.com/CharlesPurkess/status/1134741066068795392?ref_src=twsrc%5Etfw">June 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Politico: "Biden's bombshell proposal to waive intellectual property
+rights on coronavirus vaccines [led to] the EU .. now floundering in
+the PR war.. advocating the rights of Big Pharma against poor nations"
+
+[Link](https://www.politico.eu/article/biden-makes-the-eu-look-like-the-bad-guys/)
+
+---
+
+Because it'd make them feel butt-hurt, giving out hundreds of millions
+rather than mere millions, so they would not be incentivized to *help*
+us, "disrupt" industries and shit, fight our crime when government
+fails, like Batman
+
+"@M_SullivanTax
+
+Ways and Means will have a hearing Wednesday on taxation of wealthy.
+Doesn't it all boil down to:
+
+Fact: the super rich are taxed at lower effective rate than a
+2-earner-middle class couple.
+
+Then ask: Is there any reason to tax the rich at a lower rate than the
+middle class?"
+
+---
+
 "@Istanbultelaviv
 
 Watching videos of Israeli police raiding the grounds of the Haram
