@@ -1,135 +1,58 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PKN_ORLEN?ref_src=twsrc%5Etfw">@PKN_ORLEN</a> to deploy its first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations in <a href="https://twitter.com/hashtag/Poland?src=hash&amp;ref_src=twsrc%5Etfw">#Poland</a> - To be located at an existing ORLEN service stations in <a href="https://twitter.com/hashtag/Pozna%C5%84?src=hash&amp;ref_src=twsrc%5Etfw">#Poznań</a> and <a href="https://twitter.com/hashtag/Katowice?src=hash&amp;ref_src=twsrc%5Etfw">#Katowice</a>, the first two refuelling points will serve buses and passenger cars. ⛽️💧🚍🚗🇵🇱<a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/Y9dxj9YeXS">https://t.co/Y9dxj9YeXS</a> <a href="https://t.co/Hs0nhqjUNF">pic.twitter.com/Hs0nhqjUNF</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1391658110729826304?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 Because that would be a disincentive for EU members to stay / be in
-the EU.  If they felt their pieces would just be taken in, then
-there's no incentive to be a member. But, if you are __not__ in the EU
-like the UK is not, anymore, especially after a bad divorce like the
-one UK had, then the EU could be like "fine, come on in, in pieces,
-whatever".
+the EU.  If they felt their pieces would just be taken in seperately
+after membership, countries would have less of an incentive to be a
+member. But, if you are __not__ in the EU like the UK is not anymore,
+especially after a bad divorce like the one UK had, then EU could be
+like "fine, come on in, in pieces, whatever".
 
 "Why would EU care about pieces of countries joining to it, or not, like Catalonia?"
 
 ---
 
+"ZeroAvia Selected As Finalist In Transportation Category Of Fast
+Company’s 2021 World Changing Ideas Awards-In Sept. 2020, company
+achieved world’s first hydrogen fuelcell ..  flight of a
+commercial-grade aircraft"
+
+[Link](https://bit.ly/3f9ur3u)
+
+---
+
+"@PowerHouseEG Plastic Waste to H2 Technology to be Rolled out Across
+Hungary & Greece"
+
+[Link](https://bit.ly/3xTVQ1X )
+
+---
+
+CNBC: "Cathie Wood's ARK Innovation ETF falls to new low for the year,
+off nearly 35% from recent high"
+
+---
+
+CH vax is no good
+
+"[Seychelles] is experiencing its largest coronavirus outbreak after
+vaccinating some 60% of its population, mostly with China’s Sinopharm
+shot"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PKN_ORLEN?ref_src=twsrc%5Etfw">@PKN_ORLEN</a> to deploy its first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations in <a href="https://twitter.com/hashtag/Poland?src=hash&amp;ref_src=twsrc%5Etfw">#Poland</a> - To be located at an existing ORLEN service stations in <a href="https://twitter.com/hashtag/Pozna%C5%84?src=hash&amp;ref_src=twsrc%5Etfw">#Poznań</a> and <a href="https://twitter.com/hashtag/Katowice?src=hash&amp;ref_src=twsrc%5Etfw">#Katowice</a>, the first two refuelling points will serve buses and passenger cars. ⛽️💧🚍🚗🇵🇱<a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/Y9dxj9YeXS">https://t.co/Y9dxj9YeXS</a> <a href="https://t.co/Hs0nhqjUNF">pic.twitter.com/Hs0nhqjUNF</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1391658110729826304?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Long thread.. the rest calls cryptos 'Ponzi schemes'. In a certain
+light they could be seen that way.
+
 "@smdiehl
-
-Let's talk about the phenomenon of 'mathcoins' and how fancy tech and
-academic obscurantism is used to defraud the public into buying scam
-crypto investments. 
-
-Cryptocurrencies are nothing but a form of investment fraud that
-enriches a small group of people by directing funds from new investors
-to pay out old investors. They're a variant of the classic Ponzi
-scheme, but where the cashflows are obscured with internet
-technology. 
-
-Now Ponzis schemes can indeed make people very rich. Madoff got rich,
-and made plenty of his early investors rich. But at some point there
-is an inflection point in which cash outflows exceed inflows and the
-scheme inevitably collapses. 
-
-Any conman will tell you, swindling a mark requires more than just
-deceit, and you have to mix lies with truth. You need a story with a
-germ of an idea crystallised around a narrative that is seemingly
-plausible and that someone already feels an emotional attachment
-to. 
 
 Bitcoin's narrative is crystallized around alt-right populism, a
 strange variant of Austrian economics, goldbuggery, distrust of
 institutions and resentment about the 2008 financial crisis.  While
-Dogecoin is basically built around pure nihilism. 
-
-With this germ of the narrative in place, the next step is to buy
-yourself some credibility to play the long con and convince people
-that your token somehow isn't like the thousands of other scams. That
-it will stand the test of time and be "real". 
-
-It's a straightforward arrangement, you ask respected people in their
-field to trade their reputation for cash to promote your token
-investment. And because having someone at arm's length who does the
-illicit toting of the investment keeps your hands clean...
-
-Keep in mind that all cryptocurrencies are designed to be investments
-that divert massive amounts of funds to insiders who create them. This
-creates an inherent moral hazard to engaging in this sort of
-deal. 
-
-For most tokens these people are rappers, Hollywood actors,
-influencers, or other notable celebrities or public figures.
-
-The narrative is simple: Rapper X is collaborating so it's a winner.
-
-Go watch the Netflix Fyre festival documentary if you want to see how
-this ends....
-
-Most mathcoins were started during the ICO bubble of 2017 and are
-nothing but a fork of bitcoin code attached to a rambling whitepaper
-for what amounts to an economic perpetual motion machine but rendered
-in the LaTeX typesetting system to appear credible. 
-
-They'll use some combination of crackpot tokenomics, cryptography,
-proof of stake, zero-knowledge proofs, smart contracts, and
-"artificial scarcity" to make a rambling argument that makes sense
-until you look at the details. But most people can't understand the
-details. 
-
-These papers all look seemingly plausible, are full of equations,
-economic notation, game theory and tons of seemingly plausible content
-... except for one notable exception:
-
-They can't tell you what problem they're trying to solve.
-
-It's not secret that grants money in academia is hard to come by these
-days, so a lot of universities have turned to a back room deals with
-crypto companies to make ends meet.
-
-This kind of low-level corruption is widespread across the US and Europe.
-
-Imperial College London got in hot water when the press exposed that
-researchers were using their academic credentials to write marketing
-material for promoting token investments on the shady crypto broker
-eToro. 
-
-To this day the University of Edinburgh has an entire blockchain lab
-that does nothing but whitewash crypto and print marketing material
-about very questionable crypto investments.
-https://ed.ac.uk/informatics/blockchain
-
-Algorand is a crypto claiming to be some hand-wavy "decentralized
-revolution" with no lack of big ideas, but a big lack of any real
-application.
-
-The marketing slathers the eminent 'Massachusetts Institute of
-Technology' brand all over the digital penny-stock prospectus. 
-
-Despite all this "innovative" research, crypto can't escape the simple
-fact that it's not used for anything but get-rich-quick schemes.
-
-MIT's cryptocurrency is massively outperformed by a coin whose
-'research' is a talking shiba that Elon Musk tweets about while
-stoned. ...
-
-Indeed, there is a pervasive meme in software circles, that all
-software is value-neutral.
-
-However outside of software circles, nobody believes that. 
-
-Slot machines are purposely designed to feed on a person’s gambling
-addiction and to take their money.
-
-Dirty bombs are designed as weapons of mass death.
-
-Cryptocurrencies are designed as mass investment frauds.
-
-The days in which technology, especially those with vast reach, can be
-considered in an intellectual vacuum are long gone.
-
-And the tragic human cost of crypto research being used to proliferate
-financial scams is very real"
+Dogecoin is basically built around pure nihilism"
 
 [Link](https://twitter.com/smdiehl/status/1391309574762795009)
 
