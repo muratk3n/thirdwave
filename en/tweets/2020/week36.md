@@ -540,10 +540,6 @@ yourselves, it is the gift of God"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bill Gates discusses the future of <a href="https://twitter.com/hashtag/cleantransportation?src=hash&amp;ref_src=twsrc%5Etfw">#cleantransportation</a> and <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>’s potential in long-haul scenarios: <a href="https://t.co/IG8JBdHbqz">https://t.co/IG8JBdHbqz</a></p>&mdash; Nuvera Fuel Cells (@NuveraH2) <a href="https://twitter.com/NuveraH2/status/1300421685988995074?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 They are still printing in layers, but the layer resolution is
 extremely high, and the process is more continuous. Promising tech.
 

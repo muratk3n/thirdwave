@@ -11,7 +11,7 @@ like "fine, come on in, in pieces, whatever".
 
 ---
 
-Waited until org agro to have spices in cooking..?  Foragers cld have
+Wasnt until agro era to get spices in cooking..?  Foragers cld have
 figured that out.. They knew fire, they cooked meat (cooking softened
 it, allowing more of it to be eaten in one sitting, more energy), they
 also foraged for plants obviouly, and a few wld have figured to throw
@@ -53,8 +53,8 @@ shot"
 
 ---
 
-Wut? They are all younger than your sitting President! (except Carter
-I guess). Yea.. No more elderly respect for the ex-Prez.. It's open
+They are all younger than your sitting President! (except Carter I
+guess). Yea.. No more elderly respect for the ex-Prez.. It's open
 season now.. Run for cover
 
 "Ex-Presidents are retired, elderly now, should we criticize them
@@ -62,11 +62,13 @@ less?"
 
 ---
 
-".. be Americans again". What the f-k does that even mean?
-
 That's nother one of those pull yourself up .. bootstraps thingies
 again isn't it?  This guy was a smooth mo..f..ker... See how he
 slipped that in there..? Masterfully done.
+
+---
+
+".. be Americans again". What the f-k does that even mean?
 
 ---
 
@@ -92,10 +94,10 @@ Dogecoin is basically built around pure nihilism"
 ---
 
 Mistakes here, mistake over there.. There is difference in scale
-here. Their ppl did not say 'we are all Amish' and one founder did not
-change his name to George GrandAncestorAmish. You are not comparing
-apples and oranges at this point, but apples with.. hoola
-hoops. Doorknobs.. That is the sad truth.
+here. Their founder did not say 'we are all Amish' and change his name
+to George GrandAncestorAmish. You are not comparing apples and oranges
+at this point, but apples with hoola hoops... Doorknobs.. That is the
+sad truth.
 
 ---
 

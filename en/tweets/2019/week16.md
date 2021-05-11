@@ -79,20 +79,21 @@ Did they try too hard to push for denuke?
 
 ---
 
-If funny money through speculative credit is given to speculators and they made bunch of money which gov taxed and spent, when after a crisis that money disappears (it was bubble money) and tax revenue decreases the cuts made to services is not austerity.
+If funny money through speculative credit is given to speculators and
+they made bunch of money which gov taxed and spent, when after a
+crisis that money disappears (it was bubble money) and tax revenue
+decreases the cuts made to services is not austerity.
 
 ---
 
-Teachers are a weird problem for the industrial left. They keep looking at them as "wage earners" which they are not. We expect quality from these ppl not pressing a knob over and over.
+Teachers are a weird problem for the industrial left. They keep
+looking at them as "wage earners" which they are not. We expect
+quality from these ppl not pressing a knob over and over.
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bill Gates not really understanding conditional probabilities is my 🙃 of the week. <a href="https://t.co/dO1GKm0KDa">https://t.co/dO1GKm0KDa</a></p>&mdash; Erich Owens (@erich_owens) <a href="https://twitter.com/erich_owens/status/1118598678086701056?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-I don't like what Israel is doing in Palestine, but for US, Israel is the natural ally.
+I don't like what Israel is doing in Palestine, but for US, Israel is
+the natural ally.
 
 ---
 
