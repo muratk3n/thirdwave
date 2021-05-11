@@ -25,8 +25,8 @@ people who have ever lived...
 [My]y argument is also explicitly evolutionist.. What I mean by this
 is that human values have evolved biologically in the seven to eight
 million years since we split off genetically from the last common
-ancestor we 24 shared with the other great apes. Because our biology
-has not changed very much in the ten to fifteen thousand years since
+ancestor we shared with the other great apes. Because our biology has
+not changed very much in the ten to fifteen thousand years since
 farming began, anthropologists, psychologists, and historians find
 that a few core concerns—treating people fairly, being just, love and
 hate, preventing harm, agreeing that some things are sacred—recur all
@@ -36,7 +36,7 @@ dolphins and whales too. Up to a point, at least, human values are
 genetically hardwired, and because of this, the biologist E. O.
 Wilson observed forty years ago, “Scientists and humanists should
 consider together the possibility that the time has come for ethics to
-be removed temporarily from the 25 hands of philosophers and
+be removed temporarily from the hands of philosophers and
 biologicized.”...
 
 Foragers
@@ -133,15 +133,16 @@ brutally overworked farmers documented by historians, anthropologists,
 and development economists. “Pile work with work upon more work,”
 advised the ancient Greek poet Hesiod, whose Works and Days (composed
 around 700 BC) is our oldest surviving source purporting to describe
-life from a 30 peasant’s point of view. Twenty-six centuries later, a
+life from a peasant’s point of view. Twenty-six centuries later, a
 priest in southern Italy concluded that “the peasant works in order to
-eat, he eats in order to have the strength 31 to work; and then he
+eat, he eats in order to have the strength to work; and then he
 sleeps.” Excavated skeletons suggest that ancient farmers tended to
 suffer more than foragers from repetitive stress injuries; their teeth
 were often terrible, thanks to restricted diets heavy on sugary
 carbohydrates; and their stature, which is a fairly good proxy for
-overall nutrition, tended to fall slightly with 32 the onset of
-agriculture, not increasing noticeably until the twentieth century AD...
+overall nutrition, tended to fall slightly with the onset of
+agriculture, not increasing noticeably until the twentieth century
+AD...
 
 [B]etween 1346 and 1400, the Black Death —which killed nearly half the
 continent’s population—shifted the land-labor ratio back dramatically
@@ -156,7 +157,7 @@ contrast to the misery of their own days...
 [On inequality] The earliest case for which we have actual statistics
 is the Roman Empire, and here some people were astonishingly
 rich... [A] senior military man named L. Tarius Rufus lost 100 million
-sesterces when a single property deal went 40 wrong, and the historian
+sesterces when a single property deal went wrong, and the historian
 Chris Wickham suggests that by the fourth century AD, the greatest
 families—the Anicii, Petronii, and Caeonii—“may have been the richest
 private landowners of all time.”...
@@ -242,12 +243,12 @@ with the divine sphere on their behalf and protecting them from
 predators, became a staple of political philosophy in most agrarian
 societies [author calls this the Old Deal]. All over the world,
 political hierarchy tended to rest on the idea that the men (or, very
-occasionally, women) at the top were to some degree godlike, and in
-extreme cases, such as pharaonic Egypt.. The Old Deal was at heart a
-circular argument, tying political and economic inequality together
-and justifying both. Virtue and power followed each other: because the
-gods loved the rulers, the rulers were rich, and the fact that the
-rulers were rich showed that the gods loved them...
+occasionally, women) at the top were to some degree godlike.. The Old
+Deal was at heart a circular argument, tying political and economic
+inequality together and justifying both. Virtue and power followed
+each other: because the gods loved the rulers, the rulers were rich,
+and the fact that the rulers were rich showed that the gods loved
+them...
 
 When protests and threats failed to change elite behavior, farmers
 sometimes took direct action, but when they did do this, they
@@ -265,7 +266,7 @@ people needed to transcend the squalor, corruption, and impermanence
 of our own sullied world to attain a state of purity and goodness that
 lies beyond it.  One key factor behind this claim seems to have been a
 general loss of confidence in older visions in which the great chain
-of being, culminating in a godlike king, was 137 enough to anchor the
+of being, culminating in a godlike king, was enough to anchor the
 moral order.
 
 From China to Greece, Axial theorists generally felt that the
@@ -304,7 +305,7 @@ Axial thinkers, but overall, all the great ancient empires eventually
 coopted the critics, taming the wilder fringes of Axial thought and
 bringing its bright young men into the establishment...
 
-The Han dynasty that united China in 206 BC did [great] at turning
+The Han dynasty that united China in 206 BC [was succesful] at turning
 Axial critiques into a state ideology, rewarding with wealth and
 influence those Confucians who emphasized texts that stressed duty and
 submission to authority rather than those that pointed toward
