@@ -197,7 +197,7 @@ had had much time to stray...
 
 Many early farming societies seem to have been obsessed with
 ancestors, and even to have worshipped them as supernatural beings.
-73Several sites in the Hilly Flanks have apparent ancestor cults
+Several sites in the Hilly Flanks have apparent ancestor cults
 (strange semisubterranean rooms containing jawless human skulls) going
 back to 10,000 BC, just as domestication was beginning. By 7000 BC,
 people at Jericho, Çatalhöyük, and numerous other sites were burying
@@ -212,9 +212,9 @@ fathers...
 [M]ost material goods, in most farming societies, were produced within
 the household. The ancient Greek farmer-poet Hesiod assumed that
 farmers would make everything they possibly could at home, rather than
-buying, bartering, or borrowing 59 outside the household... Despite
-his commitment to self-sufficiency, however, .. no farm family could
-do everything for itself, increasing specialization [occured] between
+buying, bartering, or borrowing outside the household... Despite his
+commitment to self-sufficiency, however, .. no farm family could do
+everything for itself, increasing specialization [occured] between
 households... [some] would specialize in particular crafts, exchanging
 goods in marketplaces 61 and competing with each other..
 
@@ -234,6 +234,93 @@ cases, of which classical Athens was one, as many as one person in
 three was a chattel slave, and few if any farming societies did
 without slavery or serfdom altogether. Forced labor, like patriarchy,
 was functionally necessary to farming societies..
+
+<a name='olddeal'/>
+
+[The] image of the king as his people’s shepherd, dealing directly
+with the divine sphere on their behalf and protecting them from
+predators, became a staple of political philosophy in most agrarian
+societies [author calls this the Old Deal]. All over the world,
+political hierarchy tended to rest on the idea that the men (or, very
+occasionally, women) at the top were to some degree godlike, and in
+extreme cases, such as pharaonic Egypt.. The Old Deal was at heart a
+circular argument, tying political and economic inequality together
+and justifying both. Virtue and power followed each other: because the
+gods loved the rulers, the rulers were rich, and the fact that the
+rulers were rich showed that the gods loved them...
+
+When protests and threats failed to change elite behavior, farmers
+sometimes took direct action, but when they did do this, they
+regularly insisted that they were attacking only the local authorities
+rather than the ultimate authority, be he king, emperor, or pope. The
+distant ruler, they asserted, remained virtuous, but his underlings
+were betraying him (“The tsar is good, but the boyars are bad,” went a
+Russian saying).  By attacking these wicked minions, the logic of
+peasant resistance said, rebels were actually helping the king
+maintain the Old Deal...
+
+Socrates, the Buddha, Zoroaster, and Jesus [called Axial thinkers]
+.. seem to have agreed on the general point of the exercise: that
+people needed to transcend the squalor, corruption, and impermanence
+of our own sullied world to attain a state of purity and goodness that
+lies beyond it.  One key factor behind this claim seems to have been a
+general loss of confidence in older visions in which the great chain
+of being, culminating in a godlike king, was 137 enough to anchor the
+moral order.
+
+From China to Greece, Axial theorists generally felt that the
+transcendent realm beyond this world—the Buddhist nirvana (literally
+“blowing out,” a state of mind in which the passions of this world are
+snuffed out like a candle), the Confucian ren (often translated
+“humaneness”), the Platonic to kalon (“the good”), the Christian
+Kingdom of Heaven, and the Daoist “Way”—was ultimately indefinable,
+but despite their vagueness about where they were going, they showed
+remarkable agreement on how to get there. Neither godlike kings nor
+the priests who worked for them, the new critics argued, could anchor
+the moral order by providing transcendence. That depended on
+self-fashioning, an internal, personal reorientation toward
+goodness. Each Axial tradition had its own recommended way to achieve
+this (meditation for Buddhists, conversation for Socratics, study for
+Jews, a combination of study and punctilious observation of ritual for
+Confucians), but all these techniques—and others —worked to guide
+followers toward the same ends: living ethically.. 
+
+Much in Axial thought was radical and countercultural, threatening
+.. status quo. Axial thinkers (and their first-millennium AD heirs)
+tended to be men from the lower reaches of the elite (Socrates,
+Confucius, Muhammad, and most of the Hebrew Prophets fit this bill),
+or even from outside it (such as Jesus). They also hailed from the
+geographical margins of the great empires—places like Confucius’s home
+state of Lu, the Buddha’s of Sakya, or peripheries such as Israel,
+Greece, and Arabia— rather than from great, powerful states such as
+Wei and Zhao in China, Magadha in India, or Assyria, Persia, and
+Egypt. At least some of them cast doubt on the need for the poor to
+defer to the rich, the humble to the wellborn, and even women to men.
+Daoists and Buddhists tended to ignore political hierarchy; Confucius,
+Socrates, and Jesus upbraided rulers for their ethical shortcomings;
+and the Hebrew Prophets positively abused their kings. Agrarian elites
+regularly returned the compliment, persecuting, exiling, or executing
+Axial thinkers, but overall, all the great ancient empires eventually
+coopted the critics, taming the wilder fringes of Axial thought and
+bringing its bright young men into the establishment...
+
+The Han dynasty that united China in 206 BC did [great] at turning
+Axial critiques into a state ideology, rewarding with wealth and
+influence those Confucians who emphasized texts that stressed duty and
+submission to authority rather than those that pointed toward
+independence and critique... The greatest success story of all,
+though, was surely the Roman Empire. Greek philosophy caused constant
+conflict within the Roman ruling class in the second century BC, but
+over the next hundred years or so the state turned Stoicism into the
+same kind of ideology of public service as Confucianism. No sooner was
+this accomplished, though, than Christianity emerged as a much more
+powerful critique— only for Rome to tame it too...
+
+The Old Deal proved to be remarkably resilient. Despite constant
+criticism of inequality in Buddhist, Confucian, and Christian texts,
+post-Axial political and economic hierarchy was just as robust as the
+pre-Axial version (in the fourteenth century AD, one pope even tried
+to ban Christians from saying that Jesus had been poor)...
 
 
 

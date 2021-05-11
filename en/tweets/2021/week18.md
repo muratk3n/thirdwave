@@ -165,7 +165,7 @@ politics, and some of those viewpoints on the pro side form parties.
 ---
 
 *Döner* (tigger gyro, the word means 'it turns') was not invented
-[in Berlin](2013/12/inventions-of-kebabic-kind.md). Dish is not "Turkish"
+[in Berlin](.././2013/12/inventions-of-kebabic-kind.md). Dish is not "Turkish"
 either.. Armenian *tarna* is the same thing and older, was around
 before that, and guess what the word means in Armenian.
 
