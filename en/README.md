@@ -11,6 +11,15 @@ like "fine, come on in, in pieces, whatever".
 
 ---
 
+Waited until org agro to have spices in cooking..?  Foragers cld have
+figured that out.. They knew fire, they cooked meat (cooking softened
+it, allowing more of it to be eaten in one sitting, more energy), they
+also foraged for plants obviouly, and a few wld have figured to throw
+in some bay leaves in there in the pot along with water. Sounds
+plausible to me.
+
+---
+
 "ZeroAvia Selected As Finalist In Transportation Category Of Fast
 Company’s 2021 World Changing Ideas Awards-In Sept. 2020, company
 achieved world’s first hydrogen fuelcell ..  flight of a
@@ -41,6 +50,30 @@ shot"
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/PKN_ORLEN?ref_src=twsrc%5Etfw">@PKN_ORLEN</a> to deploy its first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> stations in <a href="https://twitter.com/hashtag/Poland?src=hash&amp;ref_src=twsrc%5Etfw">#Poland</a> - To be located at an existing ORLEN service stations in <a href="https://twitter.com/hashtag/Pozna%C5%84?src=hash&amp;ref_src=twsrc%5Etfw">#Poznań</a> and <a href="https://twitter.com/hashtag/Katowice?src=hash&amp;ref_src=twsrc%5Etfw">#Katowice</a>, the first two refuelling points will serve buses and passenger cars. ⛽️💧🚍🚗🇵🇱<a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a><a href="https://t.co/Y9dxj9YeXS">https://t.co/Y9dxj9YeXS</a> <a href="https://t.co/Hs0nhqjUNF">pic.twitter.com/Hs0nhqjUNF</a></p>&mdash; Fuel cell bus (@Fuelcellbus) <a href="https://twitter.com/Fuelcellbus/status/1391658110729826304?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Wut? They are all younger than your sitting President! (except Carter
+I guess). Yea.. No more elderly respect for the ex-Prez.. It's open
+season now.. Run for cover
+
+"Ex-Presidents are retired, elderly now, should we criticize them
+less?"
+
+---
+
+".. be Americans again". What the f-k does that even mean?
+
+That's nother one of those pull yourself up .. bootstraps thingies
+again isn't it?  This guy was a smooth mo..f..ker... See how he
+slipped that in there..? Masterfully done.
+
+---
+
+???
+
+[Clinton, 1992 campaign] "I desperately want to be your President, but
+you have to be Americans again"
 
 ---
 
