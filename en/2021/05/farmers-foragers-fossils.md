@@ -15,17 +15,17 @@ for them...
 
 Culture, religion, and moral philosophy certainly do shape the
 regional versions of each of my three stages—no one would mistake,
-say, Plato’s Apology for Confucius’s Analects—and I devote a lot of
-space to them in chapters 2 to 4. That said, though, the bottom line
-is that while cultural traditions generate variations on the central
-themes, energy capture is the motor driving the big pattern...
+say, Plato’s Apology for Confucius’s Analects... That said, though,
+the bottom line is that while cultural traditions generate variations
+on the central themes, energy capture is the motor driving the big
+pattern...
 
 [My] argument is .. universalist. .. my framework does incorporate the
 overwhelming majority (probably more than 95 percent) of all the
 people who have ever lived...
 
-[My]y argument is also explicitly evolutionist.. What I mean by this
-is that human values have evolved biologically in the seven to eight
+[My] argument is also explicitly evolutionist.. What I mean by this is
+that human values have evolved biologically in the seven to eight
 million years since we split off genetically from the last common
 ancestor we shared with the other great apes. Because our biology has
 not changed very much in the ten to fifteen thousand years since
@@ -52,7 +52,7 @@ writing have no institutionalized leaders.)...
 Nonhierarchical values are just as pronounced in economics as in
 politics, even if the nineteenth-century notion that foragers
 practiced “primitive communism,” holding all goods in common, was
-clearly mistaken. Rather, as Johnson and Earle emphasize 52in their
+clearly mistaken. Rather, as Johnson and Earle emphasize in their
 survey of social evolution, foragers “are closely attentive to matters
 of possession and ownership. As a rule, every item produced has an
 individual owner who decides how it is to be used.”
@@ -62,7 +62,7 @@ rentier class that owns the means of production. Excluding others from
 access to wild plants that are scattered over a huge area or wild
 animals and fish that are constantly on the move is normally
 impossible... In almost all foraging societies, these practical
-constraints on wealth accumulation 60 are reinforced by a strong sense
+constraints on wealth accumulation are reinforced by a strong sense
 that material hierarchy is morally wrong. In most societies, the value
 of sharing is drummed into children early on... Refusing to share the
 good things that come your way is a forager deadly sin, every bit as
@@ -99,15 +99,15 @@ legitimate offspring will inherit land and capital.
 Farmers
 
 Like foraging, farming emerged in a particular place—in this case,
-what archaeologists call the “Hilly Flanks” (see figure 3.2;
-basically, an arc curving up through the Jordan Valley to the Turkish
-border and then back down along the Iraq- Iran frontier)—at a
-particular time (roughly ten thousand to fifteen thousand years ago),
-and then spread across the rest of the planet...
+what archaeologists call the “Hilly Flanks” (.. basically, an arc
+curving up through the Jordan Valley to the Turkish border and then
+back down along the Iraq- Iran frontier)—at a particular time (roughly
+ten thousand to fifteen thousand years ago), and then spread across
+the rest of the planet...
 
 Because all farming societies sooner or later invented or adopted
 writing, beginning around 3300 BC in what is now southern Iraq, we
-have enormous 11 numbers of primary sources for farming societies.
+have enormous numbers of primary sources for farming societies.
 However, of the millions of texts that survive, most share a serious
 problem: their authors belonged to small, educated, and overwhelmingly
 male elites, and usually wrote for their own peers and
@@ -151,10 +151,10 @@ continent’s population—shifted the land-labor ratio back dramatically
 in the survivors’ favor. Unskilled workers’ real wages spiked up to
 unheard-of levels in the fifteenth century, but as population
 recovered, farmers once again began having to work harder for lower
-returns (shown in figure 5.8, later). In eighteenth-century Europe,
-enlightened intellectuals found that peasants looked back on the
-fifteenth century as a golden age of leisure, cakes, and ale, in sharp
-contrast to the misery of their own days...
+returns.. In eighteenth-century Europe, enlightened intellectuals
+found that peasants looked back on the fifteenth century as a golden
+age of leisure, cakes, and ale, in sharp contrast to the misery of
+their own days...
 
 [On inequality] The earliest case for which we have actual statistics
 is the Roman Empire, and here some people were astonishingly
@@ -191,7 +191,7 @@ removing stones. Inheriting property from older generations literally
 becomes a matter of life and death, and with so much at stake, peasant
 men want to be sure that they are the fathers of the children who will
 inherit their property. Foragers’ rather casual attitudes about sex
-yield to ferocious policing of daughters’ premarital virginity (the 55
+yield to ferocious policing of daughters’ premarital virginity (the
 “symbol of symbols,” one anthropologist of southern Italy called it in
 the 1950s) and wives’ extramarital activities. Peasant men tended to
 marry around the age of thirty, after they had come into their
@@ -219,11 +219,11 @@ buying, bartering, or borrowing outside the household... Despite his
 commitment to self-sufficiency, however, .. no farm family could do
 everything for itself, increasing specialization [occured] between
 households... [some] would specialize in particular crafts, exchanging
-goods in marketplaces 61 and competing with each other..
+goods in marketplaces and competing with each other..
 
 Forced labor was almost unknown within foraging societies. .. unlike
 the slaves in many of the more developed farming societies, who
-remained permanent, 78 subjugated outsiders. Farming societies seem to
+remained permanent, subjugated outsiders. Farming societies seem to
 have shifted toward forced labor because they had to: neither kinship
 nor the market could generate the labor needed to build the ships,
 harbors, roads, temples, and monuments without which their
