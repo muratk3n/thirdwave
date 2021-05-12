@@ -10,16 +10,17 @@ they were swiftly coopted.
 
 ---
 
-"Amid escalation, Israel's Arab allies walk a diplomatic
-tightrope.. The escalation of violence in Israel and the Palestinian
-territories is straining Israel's relations with the Arab
-world. Countries that have agreed to a normalization of bilateral
-relations are now under pressure"
+Lose-Lose
+
+"The escalation of violence in Israel and the Palestinian territories
+is straining Israel's relations with the Arab world. Countries that
+have agreed to a normalization of bilateral relations are now under
+pressure"
 
 ---
 
-This minority usually causes no trouble.. They truly must be up in
-arms about the latest situation. Sad.
+The Arab minority does not usuallly cause no trouble.. They must be up
+in arms about the latest situation. 
 
 SWI: "Israel's Arab minority - Palestinian by heritage, Israeli by
 citizenship - is mostly descended from the Palestinians..  Most are
@@ -30,7 +31,7 @@ housing, healthcare, and education services"
 
 ---
 
-SWI: "We have lost control of the city and the streets" [Israeli city] Lod Mayor 
+SWI: "We have lost control of the city and the streets" -- [Israeli city] Lod Mayor 
 
 ---
 
@@ -39,7 +40,7 @@ Wednesday"
 
 ---
 
-F24: Indian Covid-19 variant found in 44 countries around world, says WHO
+F24: "Indian Covid-19 variant found in 44 countries around world, says WHO"
 
 ---
 
@@ -70,7 +71,7 @@ wants to do in the future.. In that war Oz offered manpower due to its
 [quid-pro-quo](2017/07/the-next-decade-friedman.md#australia) for
 naval protection with the UK. That's how Oz soldiers ended up on the
 other side of the planet. The same need exists today, albeit with a
-different naval power, US, so the nation "commemorates" to keep that
+different naval power, US, so the nation commemorates to keep that
 memory fresh in case similar sacrifice might be needed in the future.
 
 "Australia commemorates the Anzak Day for their WWI losses in
