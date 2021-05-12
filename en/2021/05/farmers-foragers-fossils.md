@@ -1,5 +1,7 @@
 # Farmers, Foragers, Fossils
 
+Ian Morris
+
 I am convinced, like the eighteenth-century philosophical historians,
 that the sources of energy available to a society set the limits on
 what kinds of values can flourish. Foragers living off wild plants and
