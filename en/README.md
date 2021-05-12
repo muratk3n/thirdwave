@@ -10,8 +10,6 @@ they were swiftly coopted.
 
 ---
 
-lose-lose
-
 "Amid escalation, Israel's Arab allies walk a diplomatic
 tightrope.. The escalation of violence in Israel and the Palestinian
 territories is straining Israel's relations with the Arab
@@ -20,18 +18,35 @@ relations are now under pressure"
 
 ---
 
-"Families of Black Americans killed by police push for UN to
-intervene.. The families have been pushing the international community
-to take action since last summer’s protests"
+This minority usually causes no trouble.. They truly must be up in
+arms about the latest situation. Sad.
+
+SWI: "Israel's Arab minority - Palestinian by heritage, Israeli by
+citizenship - is mostly descended from the Palestinians..  Most are
+bilingual in Arabic and Hebrew, and feel a sense of kinship with their
+fellow Palestinians in the occupied West Bank and Gaza. And they often
+complain of systemic discrimination, as well as unfair access to
+housing, healthcare, and education services"
 
 ---
 
-"@Jill_Jorgensen
+SWI: "We have lost control of the city and the streets" [Israeli city] Lod Mayor 
 
-Here's what you can get under 100k in Brooklyn. None of the four
-listings are actually homes. The 100k listing is a PARKING SPACE. The
-2,600 one is a shared medical office for rent. The other two are
-vacant lots. Happy house-hunting!"
+---
+
+SWI: "Violence in mixed Jewish-Arab towns in Israel flared early on
+Wednesday"
+
+---
+
+F24: Indian Covid-19 variant found in 44 countries around world, says WHO
+
+---
+
+
+"Families of Black Americans killed by police push for UN to
+intervene.. The families have been pushing the international community
+to take action since last summer’s protests"
 
 ---
 
