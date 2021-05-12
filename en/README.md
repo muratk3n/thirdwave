@@ -1,6 +1,6 @@
 # Tweets
 
-The [Old Deal](2021/05/farmers-foragers-fossils.md#olddeal.md).
+The [Old Deal](2021/05/farmers-foragers-fossils.md#olddeal).
 
 - The "benevolent king / rulers" who is "kind and just" to its
 subjects narrative of the agro age cements the status of both.
