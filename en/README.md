@@ -10,7 +10,7 @@ they were swiftly coopted.
 
 ---
 
-There u go.. lose-lose howevs we look at it..
+lose-lose
 
 "Amid escalation, Israel's Arab allies walk a diplomatic
 tightrope.. The escalation of violence in Israel and the Palestinian
