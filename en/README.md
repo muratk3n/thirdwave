@@ -51,6 +51,30 @@ GOP expected to oust Cheney"
 
 ---
 
+"@Istanbultelaviv
+
+An organized pogrom took place tonight against Arabs in Bat Yam
+despite the fact they they all learned about Kristallnacht"
+
+---
+
+Jacobin: "[T]he reality is not all that complicated. Hamas?s rockets
+and Palestinians protesting, throwing rocks, or even rioting: these
+are all desperate responses to sustained, systematic, and brutal
+repression and land theft by Israel that has been going on for
+decades, and has sharply escalated over the last decade in
+particular. It is the ?language of the unheard,? as Martin Luther King
+called the African-American riots of the 1960s, which, like their
+counterparts last year and in the decades between, are a similar howl
+of frustration from those who have been relentlessly dispossessed and
+brutalized with seemingly no recourse.
+
+There are ways of putting an end to such things, whether rocket
+attacks or property destruction from rioters. But to do that requires
+first accurately describing the injustices that drive them"
+
+---
+
 Another use of that cool metal hydride solution.. Oz Lavo uses this
 tech too..  GKN can store H2 at 40 bars (usually 700 bars is used).
 
