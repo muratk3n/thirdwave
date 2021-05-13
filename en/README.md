@@ -1,81 +1,64 @@
 # Tweets
 
-The [Old Deal](2021/05/farmers-foragers-fossils.md#olddeal).
+"Chemical giants DuPont and Daikin knew the dangers of a PFAS compound
+widely used in food packaging since 2010, but hid them from the public
+and the Food and Drug Administration (FDA), company studies obtained
+by the Guardian reveal.The chemicals ... are now linked to a range of
+serious health issues, and Americans are still being exposed to them
+in greaseproof pizza boxes, carryout containers, fast-food wrappers,
+and paperboard packaging"
 
-- The "benevolent king / rulers" who is "kind and just" to its
-subjects narrative of the agro age cements the status of both.
-
-- Religions, philosophies rose up to challange the status quo, and
-they were swiftly coopted.
-
----
-
-Lose-Lose
-
-"The escalation of violence in Israel and the Palestinian territories
-is straining Israel's relations with the Arab world. Countries that
-have agreed to a normalization of bilateral relations are now under
-pressure"
+[Link](https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont)
 
 ---
 
-The Arab minority does not usuallly cause no trouble.. They must be up
-in arms about the latest situation. 
+"World could have prevented COVID catastrophe, independent panel finds
 
-SWI: "Israel's Arab minority - Palestinian by heritage, Israeli by
-citizenship - is mostly descended from the Palestinians..  Most are
-bilingual in Arabic and Hebrew, and feel a sense of kinship with their
-fellow Palestinians in the occupied West Bank and Gaza. And they often
-complain of systemic discrimination, as well as unfair access to
-housing, healthcare, and education services"
+The scale of the coronavirus pandemic could have been prevented, an
+independent global panel has said. Governments and the WHO have been
+accused of not reacting quickly enough to early warning signs"
+
+[Link](https://www.dw.com/en/world-could-have-prevented-covid-catastrophe-independent-panel-finds/a-57506437?maca=en-rss-en-all-1573-rdf)
 
 ---
 
-SWI: "We have lost control of the city and the streets" -- [Israeli city] Lod Mayor 
+"@HypersonixAU Successfully Demonstrates Spartan Scramjet Performance
+From Mach 5 to Mach 10.
+
+SPARTAN is a composite, self-igniting re-usable scramjet engine
+powered by #Greenhydrogen"
+
+[Link](https://bit.ly/3eG4Sbl)
 
 ---
 
-SWI: "Violence in mixed Jewish-Arab towns in Israel flared early on
-Wednesday"
+"UK: Ministers Told to Commit to a New H2 Target"
+
+[Link](https://bit.ly/3hm6jxi)
 
 ---
 
-F24: "Indian Covid-19 variant found in 44 countries around world, says WHO"
+"Over 100 anti-Trump republicans threaten to form breakaway party as
+GOP expected to oust Cheney"
 
 ---
 
+"We Can't Wait" Aerospace Entrepreneur
 
-"Families of Black Americans killed by police push for UN to
-intervene.. The families have been pushing the international community
-to take action since last summer’s protests"
+@MIT_alumni
 
----
-
-"@Suncor And @ATCO Partner On A Potential World-Scale CleanHydrogen
-Project In Alberta-Project would produce more than 300,000 tonnes per
-year of clean hydrogen"
-
-[Link](https://bit.ly/3y19LDp)
+[Link](https://t.co/z4JV2ZtLY1?amp=1)
 
 ---
 
-"New York State Adds Another $30 Million for Drive Clean Rebate
-Program-Includes FuelCell Hydrogen Vehicles"
+Another use of that cool metal hydride solution.. Oz Lavo uses this
+tech too..  GKN can store H2 at 40 bars (usually 700 bars is used).
 
-[Link](https://bit.ly/3bffGuN)
+"GKN HY2 Energy System requires 15 times less space compared to
+gaseous hydrogen storage systems when holding the same amount of
+energy at the same pressure"
 
----
-
-What is being "commemorated" is always related to what the nation
-wants to do in the future.. In that war Oz offered manpower due to its
-[quid-pro-quo](2017/07/the-next-decade-friedman.md#australia) for
-naval protection with the UK. That's how Oz soldiers ended up on the
-other side of the planet. The same need exists today, albeit with a
-different naval power, US, so the nation commemorates to keep that
-memory fresh in case similar sacrifice might be needed in the future.
-
-"Australia commemorates the Anzak Day for their WWI losses in
-Gallipoli. Why?"
+[Link](https://fuelcellsworks.com/news/pioneering-hydrogen-at-the-gkn-hydrogen-launch-event-on-may-11/)
 
 ---
 

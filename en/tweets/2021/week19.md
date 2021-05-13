@@ -1,5 +1,84 @@
 # Week 19
 
+The [Old Deal](2021/05/farmers-foragers-fossils.md#olddeal).
+
+- The "benevolent king / rulers" who is "kind and just" to its
+subjects narrative of the agro age cements the status of both.
+
+- Religions, philosophies rose up to challange the status quo, and
+they were swiftly coopted.
+
+---
+
+Lose-Lose
+
+"The escalation of violence in Israel and the Palestinian territories
+is straining Israel's relations with the Arab world. Countries that
+have agreed to a normalization of bilateral relations are now under
+pressure"
+
+---
+
+The Arab minority does not usuallly cause no trouble.. They must be up
+in arms about the latest situation. 
+
+SWI: "Israel's Arab minority - Palestinian by heritage, Israeli by
+citizenship - is mostly descended from the Palestinians..  Most are
+bilingual in Arabic and Hebrew, and feel a sense of kinship with their
+fellow Palestinians in the occupied West Bank and Gaza. And they often
+complain of systemic discrimination, as well as unfair access to
+housing, healthcare, and education services"
+
+---
+
+SWI: "We have lost control of the city and the streets" -- [Israeli city] Lod Mayor 
+
+---
+
+SWI: "Violence in mixed Jewish-Arab towns in Israel flared early on
+Wednesday"
+
+---
+
+F24: "Indian Covid-19 variant found in 44 countries around world, says WHO"
+
+---
+
+
+"Families of Black Americans killed by police push for UN to
+intervene.. The families have been pushing the international community
+to take action since last summer’s protests"
+
+---
+
+"@Suncor And @ATCO Partner On A Potential World-Scale CleanHydrogen
+Project In Alberta-Project would produce more than 300,000 tonnes per
+year of clean hydrogen"
+
+[Link](https://bit.ly/3y19LDp)
+
+---
+
+"New York State Adds Another $30 Million for Drive Clean Rebate
+Program-Includes FuelCell Hydrogen Vehicles"
+
+[Link](https://bit.ly/3bffGuN)
+
+---
+
+What is being "commemorated" is always related to what the nation
+wants to do in the future.. In that war Oz offered manpower due to its
+[quid-pro-quo](2017/07/the-next-decade-friedman.md#australia) for
+naval protection with the UK. That's how Oz soldiers ended up on the
+other side of the planet. The same need exists today, albeit with a
+different naval power, US, so the nation commemorates to keep that
+memory fresh in case similar sacrifice might be needed in the future.
+
+"Australia commemorates the Anzak Day for their WWI losses in
+Gallipoli. Why?"
+
+---
+
 Because that would be a disincentive for EU members to stay / be in
 the EU.  If they felt their pieces would just be taken in seperately
 after membership, countries would have less of an incentive to be a
