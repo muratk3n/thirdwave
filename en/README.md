@@ -17,9 +17,9 @@ shtick starting with people copying Jesse Ventura until 2020 showed
 the outsider has no silver bullet.. I asked bunch of Californians the
 other day abt Ahnuld, they said 'he didnt fix the budget issue' (the
 issue that led to Gray's recall and his election), due to his ideology
-apparently.. Well then how is that different from any other
-spend-thrift politician? Trump had some good but made bunch of
-mistakes.. All in all, more experience is better
+apparently.. Well then how is that different from any other small-gov
+anti-tax politician? Trump had some good but made bunch of
+mistakes.. All in all, more experience is better.
 
 ---
 
