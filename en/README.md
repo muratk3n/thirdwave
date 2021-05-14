@@ -1,88 +1,101 @@
 # Tweets
 
-"Chemical giants DuPont and Daikin knew the dangers of a PFAS compound
-widely used in food packaging since 2010, but hid them from the public
-and the Food and Drug Administration (FDA), company studies obtained
-by the Guardian reveal.The chemicals ... are now linked to a range of
-serious health issues, and Americans are still being exposed to them
-in greaseproof pizza boxes, carryout containers, fast-food wrappers,
-and paperboard packaging"
 
-[Link](https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont)
+"Amid the Shooting, Netanyahu’s Foes See an Opening, and
+Risks... Israeli politicians often close ranks in a crisis, but this
+time the prime minister’s enemies, trying to form a government and
+oust him, are blaming the violence on him"
 
 ---
 
-"World could have prevented COVID catastrophe, independent panel finds
-
-The scale of the coronavirus pandemic could have been prevented, an
-independent global panel has said. Governments and the WHO have been
-accused of not reacting quickly enough to early warning signs"
-
-[Link](https://www.dw.com/en/world-could-have-prevented-covid-catastrophe-independent-panel-finds/a-57506437?maca=en-rss-en-all-1573-rdf)
+The country needs insiders, not outsiders.. dividers, not uniters.
 
 ---
 
-"@HypersonixAU Successfully Demonstrates Spartan Scramjet Performance
-From Mach 5 to Mach 10.
-
-SPARTAN is a composite, self-igniting re-usable scramjet engine
-powered by #Greenhydrogen"
-
-[Link](https://bit.ly/3eG4Sbl)
-
----
-
-"UK: Ministers Told to Commit to a New H2 Target"
-
-[Link](https://bit.ly/3hm6jxi)
+With Trump exiting the "outsiders" wave took a hit.. That whole sales
+shtick starting with people copying Jesse Ventura until 2020 showed
+the outsider has no silver bullet.. I asked bunch of Californians the
+other day abt Ahnuld, they said 'he didnt fix the budget issue' (the
+issue that led to Gray's recall and his election), due to his ideology
+apparently.. Well then how is that different from any other
+spend-thrift politician? Trump had some good but made bunch of
+mistakes.. All in all, more experience is better
 
 ---
 
-"Over 100 anti-Trump republicans threaten to form breakaway party as
-GOP expected to oust Cheney"
+We need less direct democracy, not more. As long as modern
+institutions exist, no need to hobble them with too many "people
+intrusions".
 
 ---
 
-"We Can't Wait" Aerospace Entrepreneur
+I support recalling the recall law. 
 
-@MIT_alumni
+"The recall election coming later this year for California Governor
+Gavin Newsom doesn’t appear likely to end with his removal from
+office. Although Newsom’s opponents have gathered enough signatures to
+require a vote—and conditions in the state could still change—polls
+show that public support for the effort is far below what Newsom’s
+critics will need to force his removal.Nevertheless, the drive may
+trigger another form of recall: It may finally prompt California to
+examine whether the 110-year-old state law that governs recalls still
+makes sense in our modern era of unrelenting partisan conflict. The
+law was instituted during the Progressive era as a tool to tame
+special interests, but the effort against Newsom suggests that it’s
+become a weapon of harassment and manipulation by Republicans"
 
-[Link](https://t.co/z4JV2ZtLY1?amp=1)
-
----
-
-"@Istanbultelaviv
-
-An organized pogrom took place tonight against Arabs in Bat Yam
-despite the fact they they all learned about Kristallnacht"
-
----
-
-Jacobin: "[T]he reality is not all that complicated. Hamas?s rockets
-and Palestinians protesting, throwing rocks, or even rioting: these
-are all desperate responses to sustained, systematic, and brutal
-repression and land theft by Israel that has been going on for
-decades, and has sharply escalated over the last decade in
-particular. It is the ?language of the unheard,? as Martin Luther King
-called the African-American riots of the 1960s, which, like their
-counterparts last year and in the decades between, are a similar howl
-of frustration from those who have been relentlessly dispossessed and
-brutalized with seemingly no recourse.
-
-There are ways of putting an end to such things, whether rocket
-attacks or property destruction from rioters. But to do that requires
-first accurately describing the injustices that drive them"
+[Link](https://www.theatlantic.com/politics/archive/2021/05/newsom-recall-california/618872/)
 
 ---
 
-Another use of that cool metal hydride solution.. Oz Lavo uses this
-tech too..  GKN can store H2 at 40 bars (usually 700 bars is used).
+Sing a lulaby it will all be ok
 
-"GKN HY2 Energy System requires 15 times less space compared to
-gaseous hydrogen storage systems when holding the same amount of
-energy at the same pressure"
+"Gal Gadot, who previously served in the Israeli army, said Israel was
+'at war', adding it 'deserves to live as a free and safe nation'
 
-[Link](https://fuelcellsworks.com/news/pioneering-hydrogen-at-the-gkn-hydrogen-launch-event-on-may-11/)
+Her comments drew a barrage of criticism.
+
+'She can’t even say the word Palestinian,' one Twitter user commented
+in reference to Gadot’s post"
+
+---
+
+"Study: Companies Are Developing Over 200 GW of Hydrogen Electrolyser
+Projects Globally, 85% of Which Are in Europe-Germany the clear
+front-runner with 23% of planned electrolyser capacity
+globally"
+
+[Link](https://bit.ly/3ho5hAU)
+
+---
+
+"Australian Hyundai [H2 Fuel Cell] NEXO Breaks World Distance
+Record-The 887.5km..  trip from Melbourne to Broken Hill"
+
+[Link](https://bit.ly/3hAJm9R )
+
+---
+
+"Riots continue across Israel: A Jewish man in his 30s was lynched by
+Arab rioters in a demonstration in Acre tonight, while another Jewish
+man was lynched by right wing Jewish extremists who mistook him for an
+Arab"
+
+---
+
+Wuhan Lab Kung-Flu
+
+---
+
+"COVID cases across India being traced to weeks-long Kumbh
+Mela.. Dozens of cases across India being traced to mega Hindu
+festival held at the banks of Ganges in Haridwar last month"
+
+---
+
+🤣 This is an example of a bad divorce
+
+"EU citizens arriving in UK being locked up and expelled"
 
 ---
 
