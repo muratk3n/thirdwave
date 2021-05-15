@@ -156,6 +156,8 @@ found that peasants looked back on the fifteenth century as a golden
 age of leisure, cakes, and ale, in sharp contrast to the misery of
 their own days...
 
+Inequality
+
 [On inequality] The earliest case for which we have actual statistics
 is the Roman Empire, and here some people were astonishingly
 rich... [A] senior military man named L. Tarius Rufus lost 100 million
@@ -198,6 +200,21 @@ marry around the age of thirty, after they had come into their
 inheritance, while women generally married around fifteen, before they
 had had much time to stray...
 
+Patriarchal values made sense in societies that captured energy
+through farming.  Male power over women increased after the
+agricultural revolution not because male farmers were more brutish
+than male hunters, but because this was the most efficient way to
+organize labor in peasant societies. In a world of constant
+competition over scarce resources, over the course of several thousand
+years the most efficient societies replaced less efficient ones, and
+because patriarchy proved so successful, men and women alike accepted
+patriarchal values as just. If either of these conditions had not
+applied, the historical and anthropological records would contain at
+least some examples of farming societies organized along different
+lines and expressing different values...
+
+Worship
+
 Many early farming societies seem to have been obsessed with
 ancestors, and even to have worshipped them as supernatural beings.
 Several sites in the Hilly Flanks have apparent ancestor cults
@@ -211,6 +228,8 @@ probably no longer lived like the !Kung forager Nisa. Instead, they
 grew up under the authority of their fathers and then, as teenagers,
 exchanged that for the authority of husbands old enough to be their
 fathers...
+
+Slavery
 
 [M]ost material goods, in most farming societies, were produced within
 the household. The ancient Greek farmer-poet Hesiod assumed that
@@ -237,6 +256,8 @@ cases, of which classical Athens was one, as many as one person in
 three was a chattel slave, and few if any farming societies did
 without slavery or serfdom altogether. Forced labor, like patriarchy,
 was functionally necessary to farming societies..
+
+The Old Deal
 
 <a name='olddeal'/>
 
@@ -325,7 +346,15 @@ post-Axial political and economic hierarchy was just as robust as the
 pre-Axial version (in the fourteenth century AD, one pope even tried
 to ban Christians from saying that Jesus had been poor)...
 
-
+There were no feminists in Agraria, and precious few communists or
+anarchists either. Rather, most people recognized that hierarchy, and
+its endless degrees of rank, was the moral foundation of the good
+life... Thomas Hobbes [then wrote.. ] one of the most important
+arguments ever made in political philosophy [during agrarian age]:
+that the only way to prevent the war of all against all is to enshrine
+degree so firmly that it brings forth a Leviathan, a government
+powerful enough to intimidate its unruly subjects into living
+peacefully... Farming could only work if rates of violent death fell.
 
 
 

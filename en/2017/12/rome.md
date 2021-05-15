@@ -16,7 +16,9 @@
 
 [Rome by Rifkin](../../2020/07/rome-rifkin.md)
 
-[Foragers, Farmers by Morris](../../2017/10/foragers-farmers-morris.md)
+[Foragers, Farmers by Morris](../../2017/10/wtwrfn-foragers-farmers.md)
+
+[Foragers, Farmers, Fossil Fuels by Morris](../../2021/05/farmers-foragers-fossils.md)
 
 [Not An Empire](../../2015/01/not-empire.md)
 
