@@ -1,5 +1,104 @@
 # Week 19
 
+
+"Amid the Shooting, Netanyahu’s Foes See an Opening, and
+Risks... Israeli politicians often close ranks in a crisis, but this
+time the prime minister’s enemies, trying to form a government and
+oust him, are blaming the violence on him"
+
+---
+
+The country needs insiders, not outsiders.. dividers, not uniters.
+
+---
+
+With Trump exiting the "outsiders" wave took a hit.. That whole sales
+shtick starting with people copying Jesse Ventura until 2020 showed
+the outsider has no silver bullet.. I asked bunch of Californians the
+other day abt Ahnuld, they said 'he didnt fix the budget issue' (the
+issue that led to Gray's recall and his election), due to his ideology
+apparently.. Well then how is that different from any other small-gov
+anti-tax politician? Trump had some good but made bunch of
+mistakes.. All in all, more experience is better.
+
+---
+
+We need less direct democracy, not more. As long as modern
+institutions exist, no need to hobble them with too many "people
+intrusions".
+
+---
+
+I support recalling the recall law. 
+
+"The recall election coming later this year for California Governor
+Gavin Newsom doesn’t appear likely to end with his removal from
+office. Although Newsom’s opponents have gathered enough signatures to
+require a vote—and conditions in the state could still change—polls
+show that public support for the effort is far below what Newsom’s
+critics will need to force his removal.Nevertheless, the drive may
+trigger another form of recall: It may finally prompt California to
+examine whether the 110-year-old state law that governs recalls still
+makes sense in our modern era of unrelenting partisan conflict. The
+law was instituted during the Progressive era as a tool to tame
+special interests, but the effort against Newsom suggests that it’s
+become a weapon of harassment and manipulation by Republicans"
+
+[Link](https://www.theatlantic.com/politics/archive/2021/05/newsom-recall-california/618872/)
+
+---
+
+Sing a lulaby it will all be ok
+
+"Gal Gadot, who previously served in the Israeli army, said Israel was
+'at war', adding it 'deserves to live as a free and safe nation'
+
+Her comments drew a barrage of criticism.
+
+'She can’t even say the word Palestinian,' one Twitter user commented
+in reference to Gadot’s post"
+
+---
+
+"Study: Companies Are Developing Over 200 GW of Hydrogen Electrolyser
+Projects Globally, 85% of Which Are in Europe-Germany the clear
+front-runner with 23% of planned electrolyser capacity
+globally"
+
+[Link](https://bit.ly/3ho5hAU)
+
+---
+
+"Australian Hyundai [H2 Fuel Cell] NEXO Breaks World Distance
+Record-The 887.5km..  trip from Melbourne to Broken Hill"
+
+[Link](https://bit.ly/3hAJm9R )
+
+---
+
+"Riots continue across Israel: A Jewish man in his 30s was lynched by
+Arab rioters in a demonstration in Acre tonight, while another Jewish
+man was lynched by right wing Jewish extremists who mistook him for an
+Arab"
+
+---
+
+Wuhan Lab Kung-Flu
+
+---
+
+"COVID cases across India being traced to weeks-long Kumbh
+Mela.. Dozens of cases across India being traced to mega Hindu
+festival held at the banks of Ganges in Haridwar last month"
+
+---
+
+🤣 This is an example of a bad divorce
+
+"EU citizens arriving in UK being locked up and expelled"
+
+---
+
 "Chemical giants DuPont and Daikin knew the dangers of a PFAS compound
 widely used in food packaging since 2010, but hid them from the public
 and the Food and Drug Administration (FDA), company studies obtained

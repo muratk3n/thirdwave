@@ -1,101 +1,100 @@
 # Tweets
 
+"Australian Govt Announces Oakajee Renewable Hydrogen Expression of
+Interest. Government intends to transform this greenfields site into a
+globally competitive, multi-product renewable hydrogen industrial
+precinct"
 
-"Amid the Shooting, Netanyahu’s Foes See an Opening, and
-Risks... Israeli politicians often close ranks in a crisis, but this
-time the prime minister’s enemies, trying to form a government and
-oust him, are blaming the violence on him"
-
----
-
-The country needs insiders, not outsiders.. dividers, not uniters.
+[Link](https://bit.ly/3ogjlxw)
 
 ---
 
-With Trump exiting the "outsiders" wave took a hit.. That whole sales
-shtick starting with people copying Jesse Ventura until 2020 showed
-the outsider has no silver bullet.. I asked bunch of Californians the
-other day abt Ahnuld, they said 'he didnt fix the budget issue' (the
-issue that led to Gray's recall and his election), due to his ideology
-apparently.. Well then how is that different from any other small-gov
-anti-tax politician? Trump had some good but made bunch of
-mistakes.. All in all, more experience is better.
+Why did Sharon pull out of Gaza unilaterally in 2005? The narrative at
+the time was "yielding Gaza would help promote goodwill and peace".
+But when did anyone leave territory without anything substantial in
+return?
+
+We also know Hamas is an [Israeli creation](2020/06/10-myths-israel.md#hamas).
+
+Put the two together.. maybe Israel wanted that persistent flashpoint
+to fight against, to keep the right mobilized, and militarized, and
+always show the international crowd they are "under attack", so they
+could continuously play the victim. It is unbelievable such a tiny ass
+area can give Israel so much grief, to the extent ppl tremble behind
+some "Iron Dome", hide in shelters everytime there are attacks.
 
 ---
 
-We need less direct democracy, not more. As long as modern
-institutions exist, no need to hobble them with too many "people
-intrusions".
+Need all hands on deck working towards green fuels, bunch of asswipe
+bulls..t keeps interjecting.. Freaking tragedy
 
 ---
 
-I support recalling the recall law. 
+Sad good things like this happen in tandem with haneous other things
 
-"The recall election coming later this year for California Governor
-Gavin Newsom doesn’t appear likely to end with his removal from
-office. Although Newsom’s opponents have gathered enough signatures to
-require a vote—and conditions in the state could still change—polls
-show that public support for the effort is far below what Newsom’s
-critics will need to force his removal.Nevertheless, the drive may
-trigger another form of recall: It may finally prompt California to
-examine whether the 110-year-old state law that governs recalls still
-makes sense in our modern era of unrelenting partisan conflict. The
-law was instituted during the Progressive era as a tool to tame
-special interests, but the effort against Newsom suggests that it’s
-become a weapon of harassment and manipulation by Republicans"
+"Tel Aviv University Researchers Develop Method of Clean Production of
+Hydrogen as Fuel for Vehicles-An easy-to-manufacture, multifunctional
+biological nanomaterial to protect the enzyme that enables the
+production of hydrogen"
 
-[Link](https://www.theatlantic.com/politics/archive/2021/05/newsom-recall-california/618872/)
+[Link](https://bit.ly/3fkhfZw )
 
 ---
 
-Sing a lulaby it will all be ok
-
-"Gal Gadot, who previously served in the Israeli army, said Israel was
-'at war', adding it 'deserves to live as a free and safe nation'
-
-Her comments drew a barrage of criticism.
-
-'She can’t even say the word Palestinian,' one Twitter user commented
-in reference to Gadot’s post"
+DW: "Germany stands by Israel - despite the Holocaust, and because of
+the Holocaust"
 
 ---
 
-"Study: Companies Are Developing Over 200 GW of Hydrogen Electrolyser
-Projects Globally, 85% of Which Are in Europe-Germany the clear
-front-runner with 23% of planned electrolyser capacity
-globally"
-
-[Link](https://bit.ly/3ho5hAU)
+Fin media laments population stalling in country X! Country Y! Pop
+increase is related to GDP increase, so they fear loss of returns? On
+stawks, bonds? But pop inc can just mean dumb increase.. Countries
+need gdp per capita increase, increase efficiency, quality.
 
 ---
 
-"Australian Hyundai [H2 Fuel Cell] NEXO Breaks World Distance
-Record-The 887.5km..  trip from Melbourne to Broken Hill"
+"Leading CEO's Ask California Governor To Dedicate $500 Million In
+Hydrogen Infrastructure Funds..
 
-[Link](https://bit.ly/3hAJm9R )
+CEO's of 25 companies included Toyota, Hyundai, @nikolamotor"
 
----
-
-"Riots continue across Israel: A Jewish man in his 30s was lynched by
-Arab rioters in a demonstration in Acre tonight, while another Jewish
-man was lynched by right wing Jewish extremists who mistook him for an
-Arab"
+[Link](https://bit.ly/3y2ZBCh )
 
 ---
 
-Wuhan Lab Kung-Flu
+Whenever I see B Johnson on TV giving interviews nowadays he is always
+in those yellow colored workman's clothes.. Let's guess on what kind
+of image he is trying to project.. Courting low-income Labour votes
+maybe..?  Centrists.. where are you?  Fell asleep at the wheel..?
+Opposite BJ there is the lawyer looking guy not too comfortable with
+retail politics.. Leave aside pol this is bad optics.
 
 ---
 
-"COVID cases across India being traced to weeks-long Kumbh
-Mela.. Dozens of cases across India being traced to mega Hindu
-festival held at the banks of Ganges in Haridwar last month"
+"Paris seeks to ban through traffic in city centre by 2022"
 
 ---
 
-🤣 This is an example of a bad divorce
+When Macron sounded a little "too respectful" toward Pute in his
+handoff during the climate summit, all of a sudden there were
+"communication issues"? 
 
-"EU citizens arriving in UK being locked up and expelled"
+---
+
+EU-RU alliance would be great.. if some countries grumble about it,
+kick'em out. Like Poland.. EU-RU entente possibility scares the shit
+out of UK/US.
+
+---
+
+Jesse wasnt an outsider really.. even when he ran for Governor. He had
+been a mayor before that, and military service previous to that (also
+considered public service right, its government?).
+
+---
+
+"Harry thought about quitting royal life in his 20s.. compares his
+royal experience to being on 'The Truman Show' and 'living in a zoo.'"
 
 ---
 

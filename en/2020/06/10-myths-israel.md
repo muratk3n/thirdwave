@@ -144,8 +144,8 @@ temporarily in quelling the uprising ...
 Hamas became a significant player on the ground in part thanks to the
 Israeli policy of encouraging the construction of an Islamic
 educational infrastructure [most likely teaching a variation of
-Ottocunt Romanized peasant Islam] in Gaza as a counterbalance to the
-grip of the secular Fatah movement on the local population.
+Ottocuck Romanized Islam] in Gaza as a counterbalance to the grip of
+the secular Fatah movement on the local population.
 
 In 2009, Avner Cohen, who served in the Gaza Strip around the time
 Hamas began to gain power in the late 1980s, and was responsible for
