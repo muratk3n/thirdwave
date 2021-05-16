@@ -4,14 +4,14 @@ Ata'miz Damal'a iniş yaptığından beri onu yakınen takip
 ediyoruz. Bugün onun gizemli asasından bahsedeceğiz. Aşa'nın özel
 güçleri var. Ata istediği anda ondan çok parlak bir ışık
 çıkartabiliyor ve bu ışıkla karanlıkta olan herkes aydınlanıyor. Bu
-asanın tarihteki bilinen ismi Asena. İsim "bu aşa ebene atlar'
+asanın tarihteki bilinen ismi Asena. İsim "bu **as**a eb**en**e **a**tlar'
 kelimelerinin parçaları birleştirilerek oluşturulmuş. Damal Tapınağı
 rahipleri asanın güçlerini iyi biliyorlar.
 
 ![](namaz-ata-uzayli-supernova.jpg)
 
 Asena, ilk insan (yani Türk) dünyaya getirildiği zaman Ata'nın yaninda
-getirdiği aşa. Çatalhöyük'teki ilk insanın (yanı Türkün) yaptığı
+getirdiği asa. Çatalhöyük'teki ilk insanın (yanı Türkün) yaptığı
 mağara duvar resimlerinde Asena'nın resmedildiğini görüyoruz.
 
 ![](cave-asena.jpg)
@@ -29,5 +29,4 @@ bahsedeceğiz.
 
 Üçüncü Dalga Geliyor Blog
 
-"Ilk bilen siz olun"
-
+"İlk bilen siz olun"

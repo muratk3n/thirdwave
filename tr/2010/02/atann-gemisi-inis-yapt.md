@@ -2,32 +2,30 @@
 
 ![](ata-ufo.jpg)
 
-Heyecanla beklenen an gerceklesti..! Ata'mizin uzay gemisi Damal'a
-inis yapti. Bu surpriz ziyaret Damal Tapinagi'nda inanilmaz bir
-heyecan yaratti, derhal disari kosan rahipler, Ata'nin ve yaverlerinin
-onunde secdeye vardilar.
+Heyecanla beklenen an gerçekleşti..! Ata'mızın uzay gemisi Damal'a
+iniş yaptı. Bu sürpriz ziyaret Damal Tapınağı'nda inanılmaz bir
+heyecan yarattı, derhal dışarı koşan rahipler, Ata'nın ve yaverlerinin
+önünde secdeye vardılar.
 
 ![](namaz-ata-uzayli.jpg)
 
-Ata'nin mucizevi donusu bazi soru isaretlerini ortaya cikardi. Eger
-Ata olmediyse, 1938 yilinda olen kimdi? Ilk paylasilan bilgilere gore,
-bugun geri gelen biyolojik olarak gercek, esas Ata. 1881'de dunyaya
-gonderilen ise Ata'nin biyolojik bir kopyasiydi, yani bir
-klondu. Gercek Ata yaslanmiyor ve olmuyor. Ikamet ettigi yer ise
-Sirius Galaksisi. Turkler bu galaksiden geliyorlar, demek ki ilk insan
-bir Turk. Anlasildigi uzere Turkiye'deki tum kasaba ve sehirler
-aslinda Sirius'taki gezegen ve yildiz isimlerine gore isimlendirilmis,
-yerleri bile ufaltilmis boyutta Sirius'taki yerler ile birebir ayni.
+Ata'nın mucizevi dönüşü bazı soru işaretlerini ortaya çıkardı. Eğer
+Ata ölmediyse, 1938 yılında ölen kimdi? İlk paylaşılan bilgilere göre,
+bugün geri gelen biyolojik olarak gerçek, esas Ata. 1881'de dünyaya
+gönderilen ise Ata'nın biyolojik bir kopyasıydı, yani bir
+klondu. Gerçek Ata yaslanmıyor ve olmuyor. İkamet ettiği yer ise
+Sırıus Galaksisi. Türkler bu galaksiden geliyorlar, demek ki ilk insan
+bir Türk. Anlaşıldığı üzere Türkiye'deki tüm kasaba ve şehirler
+aslında Sırıus'taki gezegen ve yıldız ışimlerine göre isimlendirilmiş,
+yerleri bile ufaltılmış boyutta Sırıus'taki yerler ile birebir aynı.
 
 ![](stars.jpg)
 
-Bu gezegen ve yildiz isimlerinden bazilari yukaridaki haritada
-goruluyor.Haritada ortada bulunan Ankara bir kara delik.Daha fazla
-detayi bir sonraki yazida paylasacagiz.
+Bu gezegen ve yıldız ışimlerinden bazıları yukarıdaki haritada
+görülüyor.Haritada ortada bulunan Ankara bir kara delik.Daha fazla
+detayı bir sonraki yazıda paylaşacağız.
 
-Ucuncu Dalga Geliyor Blog
+Üçüncü Dalga Geliyor Blog
 
-"Ilk bilen siz olun"
-
-
+"İlk bilen siz olun"
 

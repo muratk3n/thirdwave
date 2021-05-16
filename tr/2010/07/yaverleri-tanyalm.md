@@ -25,17 +25,18 @@ gemisi ile kurtardı.
 
 [koro halinde şiire başlıyorlar]
 
-Atam! Ufkunda doğacağım, ufkunda batacağım
-
-Asırlarca yazsam hep seni anlatacağım.
-
-Ben de giyersem eğer bir gün deha tacını
-
-"İstersen çiğne" diye önüne atacağım...
+>Atam! Ufkunda doğacağım, ufkunda batacağım
+>
+>Asırlarca yazsam hep seni anlatacağım.
+>
+>Ben de giyersem eğer bir gün deha tacını
+>
+>"İstersen çiğne" diye önüne atacağım...
 
 UDG: Pekala.. Ata sizi kurtardı. Ondan sonra onun yaveri mi
-oldunuz?Hakkı: Öyle oldu. Gemisi Savarona'da seyahat etmeye
-başladık.
+oldunuz?
+
+Hakkı: Öyle oldu. Gemisi Savarona'da seyahat etmeye başladık.
 
 UDG: Soyadlarınız var mı?
 
