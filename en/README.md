@@ -50,7 +50,7 @@ Florida, and South Dakota"
 
 ---
 
-Haha well said
+well said
 
 "The physics simulation is also what makes a game world feel solid—it
 puts the 'there' there, if you know what I mean"
