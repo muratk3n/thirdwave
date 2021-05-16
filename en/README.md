@@ -123,6 +123,15 @@ about its European users to the US"
 
 ---
 
+"@istanbultelaviv
+
+The Minister of Public Security Amir Ohana, together w/Netanyahu, is
+responsible for the total breakdown of security. Had he instructed the
+police force to act differently in Jerusalem during Ramadan, it is
+hard to imagine we'd be where we are today. That is the truth"
+
+---
+
 "In 1949, a Polish Holocaust survivor named Genya Kowalski was offered
 a Palestinian house in Haifa. She refused, saying: 'I don’t want to
 live [in a house] of people who were thrown out...a human being is a
