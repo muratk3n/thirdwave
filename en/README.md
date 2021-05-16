@@ -27,10 +27,10 @@ WSJ: "Israel's Turmoil Hands Political Lifeline to Embattled Prime Minister"
 
 ---
 
-MSNBC's @AliVelshi: ?Palestinians are at best third-class citizens in
-the nation of their birth. The idea that it?s even remotely
+"MSNBC's @AliVelshi: 'Palestinians are at best third-class citizens in
+the nation of their birth. The idea that it's even remotely
 controversial to call what Israel has imposed on Palestinians a form
-of apartheid is laughable.
+of apartheid is laughable'"
 
 ---
 
@@ -39,13 +39,6 @@ of apartheid is laughable.
 new Chile begins taking shape this weekend as the South American
 country elects 155 people to draft a constitution to replace one that
 drafted under a military dictatorship"
-
----
-
-Sometimes water droplet falls in stovetops little mid cavity area, and
-while cooking that becomes steam, man those little gas molecules can
-push the entire f--ing pot above it, with a loud pop to get out. Steam
-has awesome power.
 
 ---
 
@@ -127,19 +120,6 @@ about its European users to the US"
 ---
 
 "@SolarisBusCoach Starts Delivery of Hydrogen Buses to Italian City Of Bolzano"
-
----
-
-If it was "Florida man jumps off airplane falls on the alligator
-who wakes up and bites him, only to get his prosthetic leg", then,
-maybe..
-
----
-
-Sorry this doesn't do anything for me.. The standards are much higher
-for the Florida man
-
-"Florida man wrestles alligator to save pet dog"
 
 ---
 
