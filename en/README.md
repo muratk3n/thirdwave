@@ -104,9 +104,9 @@ get scurvy"
 
 ---
 
-So this isq how its done.. elect body who drafts constitution..
+So this is how its done.. elect body who drafts constitution..
 
-Punta la Tegra.. Where are thou?
+Punta la Tegra.. Where art thou?
 
 DW: "Chileans elect body to rewrite Pinochet-era constitution.. The
 weekend poll to pick delegates to revise Chile's dictatorship-era
