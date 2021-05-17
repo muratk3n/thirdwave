@@ -159,22 +159,6 @@ This doesn't do anything for me.. We expect more from the Florida man
 
 ---
 
-Jacobin: "Biden administration’s economic experts have been
-spotlighting the basic facts showing that the economy is functioning
-normally and private-sector pay has not unsustainably spiked. In fact,
-average hourly earnings increased from March to April by less than the
-rise in the consumer price index — which suggests there is less of a
-worker shortage, and more a shortage of employers willing to increase
-pay even a little bit. For his part, President Joe Biden has
-thankfully shed his past Reagan-appeasing habits and has avoided
-echoing his own old 'welfare queen' language. But ... his rhetoric is
-now starting to subtly shift from calling out GOP bullshit to trying
-to accommodate it"
-
-[Link](https://jacobinmag.com/2021/05/gop-unemployment-covid-reagan-welfare-queen/)
-
----
-
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
