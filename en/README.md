@@ -76,6 +76,12 @@ the world deeply unappealing"
 
 ---
 
+It's sad cabbie is culturally Anatolian, but some ppl told him bunch
+of lies which he believed, and now gets bent all out of shape bcz of those
+lies. 
+
+---
+
 🤣 🤣 It's hilarious.. historian gets kicked out of a cab bcz he said
 to a 'Turkish' cabbie that stuffed mussels are not Turkic in
 origin.. Obviously they are not, there are no mussels in bleeping
