@@ -42,9 +42,6 @@ hydrogen gas toward the transportation fuel market"
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/4zU0o2_4YdM?start=310&end=494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
 
 "US climate envoy [Kerry] says people will not have to give up quality
 of life to achieve some of net zero goals"
@@ -65,14 +62,18 @@ force"
 
 ---
 
-Burgis [via Jacobin]: "[T]he underlying phenomenon [of cancel culture]
-is real.... I don’t want the Left to eat itself, because I want us to
-win. If we’re going to get everyone health care and end police
-violence at home and imperialist wars abroad and expand democracy into
-the workplace, we need to learn to appeal to the broadest possible
-subset of the population. Far too many people whose material interests
-align with our program will find the face the Left often presents to
-the world deeply unappealing"
+<iframe width="200" src="https://www.youtube.com/embed/4zU0o2_4YdM?start=310&end=494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Burgis: "[T]he underlying phenomenon [of cancel culture] is real.... I
+don’t want the Left to eat itself, because I want us to win. If we’re
+going to get everyone health care and end police violence at home and
+imperialist wars abroad and expand democracy into the workplace, we
+need to learn to appeal to the broadest possible subset of the
+population. Far too many people whose material interests align with
+our program will find the face the Left often presents to the world
+deeply unappealing"
 
 ---
 
