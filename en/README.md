@@ -83,8 +83,8 @@ it.
 
 ---
 
-🤣 🤣 It's hilarious.. historian gets kicked out of a cab bcz he said
-to a 'Turkish' cabbie that stuffed mussels are not Turkic in
+It's funny.. historian gets kicked out of a cab bcz he said to a
+'Turkish' cabbie that stuffed mussels are not Turkic in
 origin.. Obviously they are not, there are no mussels in bleeping
 Central Asia
 
