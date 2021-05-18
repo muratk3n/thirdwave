@@ -76,9 +76,9 @@ the world deeply unappealing"
 
 ---
 
-It's sad cabbie is culturally Anatolian, but some ppl told him bunch
-of lies which he believed, and now gets bent all out of shape bcz of those
-lies. 
+It's sad cabbie is likely culturally Anatolian, but some ppl told him
+bunch of lies about who he is which he believed, and now gets bent all
+out of shape bcz of those lies.
 
 ---
 
