@@ -48,17 +48,18 @@ of life to achieve some of net zero goals"
 
 ---
 
-Jacobin: "As an Occupier, Israel Has No Right to 'Self-Defense'.. This
-commonsense statement is repeated everywhere — by state officials and
-media outlets, by commentators and anchors. It seems so basic and
-self-evident that it is hard to argue with. But today Israel uses
-self-defense as its key rhetorical tool for war. By invoking
-self-defense, Israel changes the conversation from its colonial crimes
-against the Palestinians to the injuries it has itself incurred as a
-result. Yet it is precisely because Israel is denying Palestinians
-their human rights, including the right of self-determination, that it
-cannot claim self-defense as a legal justification for the use of
-force"
+Jacobin: "As an Occupier, Israel Has No Right to 'Self-Defense'..
+
+'Israel has a right of self-defense'. This commonsense statement is
+repeated everywhere — by state officials and media outlets, by
+commentators and anchors. It seems so basic and self-evident that it
+is hard to argue with. But today Israel uses self-defense as its key
+rhetorical tool for war. By invoking self-defense, Israel changes the
+conversation from its colonial crimes against the Palestinians to the
+injuries it has itself incurred as a result. Yet it is precisely
+because Israel is denying Palestinians their human rights, including
+the right of self-determination, that it cannot claim self-defense as
+a legal justification for the use of force"
 
 ---
 
