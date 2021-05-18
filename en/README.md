@@ -15,12 +15,6 @@ tax hikes by pressuring moderate Democrats in the House and Senate"
 
 ---
 
-Beers Ago - Toby Keith \#music
-
-[Link](https://youtu.be/Hosifr6ycwU)
-
----
-
 "Air Liquide, an international industrial gas company, projects their
 new hydrogen plant in North Las Vegas will finish construction in
 November of this year. Although hydrogen production plants have been
@@ -99,6 +93,12 @@ origin.. Obviously they are not, there are no mussels in bleeping
 Central Asia
 
 [Link](https://youtu.be/1Q1lnWS0LR0?t=2201)
+
+---
+
+Beers Ago - Toby Keith \#music
+
+[Link](https://youtu.be/Hosifr6ycwU)
 
 ---
 
