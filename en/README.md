@@ -80,7 +80,7 @@ deeply unappealing"
 YOu could certainly make that case for fascism, communism, or any -ism
 that did not work, couldn't you? These -isms[ didn't work bcz they are
 too far removed from reality and it took too much effort to prop them
-up rather than throwing them out.
+up rather than throwing them out, in many places in the world.
 
 "If everyone believed X then it would be ok"
 
