@@ -78,7 +78,7 @@ the world deeply unappealing"
 
 🤣 🤣 It's hilarious.. historian gets kicked out of a cab bcz he said
 to a 'Turkish' cabbie that stuffed mussels are not Turkic in
-origin.. Obviously they are not, there are no mussels in fucking
+origin.. Obviously they are not, there are no mussels in bleeping
 Central Asia
 
 [Link](https://youtu.be/1Q1lnWS0LR0?t=2201)
