@@ -77,10 +77,10 @@ deeply unappealing"
 
 ---
 
-YOu could certainly make that case for fascism, communism, or any -ism
-that did not work, couldn't you? These -isms[ didn't work bcz they are
-too far removed from reality and it took too much effort to prop them
-up rather than throwing them out, in many places in the world.
+You could certainly make that case for fascism, odd religious orders,
+or any -ism that did not work, couldn't you? But faied -isms fail bcz
+they are too far removed from reality and it takes too much effort to
+prop them up rather than throwing them out.
 
 "If everyone believed X then it would be ok"
 
