@@ -77,9 +77,18 @@ deeply unappealing"
 
 ---
 
-Sad. Cabbie is culturally Anatolian, but some ppl told him bunch of
-lies which he believed, and now gets bent all out of shape bcz of
-it.
+YOu could certainly make that case for fascism, communism, or any -ism
+that did not work, couldn't you? These -isms[ didn't work bcz they are
+too far removed from reality and it took too much effort to prop them
+up rather than throwing them out.
+
+"If everyone believed X then it would be ok"
+
+---
+
+Sad.. Cabbie has his country's culture naturally, but someone told him
+bunch of other lies which he believed, and now gets bent all out of
+shape bcz of it. 
 
 ---
 
