@@ -9,20 +9,6 @@ international leader
 
 ---
 
-Uhhh uhh he said 'baseload'
-
-"Within the context of our energy landscape, where we’ve typically been
-forced to choose between 'clean' and 'baseload,' fuel cells are
-something of a paradigm shift: Fuel cells mean we can deliver reliable
-baseload power without burning any fuel. We can reliably power a city
-or a factory, while outputting virtually zero NOx or SOx emissions. We
-can finally have it both ways, or as some might say, 'have our cake
-and eat it, too'"
-
-[Link](https://medium.com/authority-magazine/fuelcell-energy-jason-fews-big-idea-that-might-change-the-world-5b573f5e3e09)
-
----
-
 Amazon buying MGM? Can we have some more *Stargate* shows? Bezos saved
 *The Expanse* right? (I have no problem rich companies giving me
 better entertainment)
