@@ -56,21 +56,9 @@ fix. Plus there is flaring, etc..
 
 ---
 
-Im fine w blue, or gray H2, ammonia..
-
-My whole angle here is enticing fossil comps into clean fuel, and make
-up the H2 production shortfall if there are any, at least in the
-beginning.
-
-A clean fuel's very presence would ensure zero emission all the way
-down the pipeline, including the end user.
-
-If policy maker can work the knobs in a way we get massive green H2
-generation now, fine. Politicking: how much of a pain in the ass can
-fossil ppl can get, better off with them or without them? That's their
-job to manage.
-
----
+Im fine w blue, or gray H2, ammonia.. but green is preferred. My whole
+angle here is enticing fossil comps into clean fuel, and make up the
+H2 production shortfall if there are any.
 
 "Graham Cooley
 
