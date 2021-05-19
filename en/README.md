@@ -1,110 +1,136 @@
 # Tweets
 
-Politico: "President Joe Biden wants to fund his $4.1 trillion
-infrastructure and family policy agenda with a huge pile of tax
-increases on corporations and the wealthy. The business community is
-dismissing the threat.
+UK: C-ALPS Targets Hydrogen FuelCell Opportunities with £2m New Lab
+Investment @covcampus University building a world-class hydrogen
+fuelcells development facility to support the UK’s bid to become an
+international leader
 
-Corporate executives and lobbyists in Washington, New York and around
-the country say they are confident they can kill almost all of these
-tax hikes by pressuring moderate Democrats in the House and Senate"
+[Link](https://bit.ly/2T3Le0B)
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/F2-A6r79heQ?start=995&end=1246" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Uhhh uhh he said 'baseload'
+
+"Within the context of our energy landscape, where we’ve typically been
+forced to choose between 'clean' and 'baseload,' fuel cells are
+something of a paradigm shift: Fuel cells mean we can deliver reliable
+baseload power without burning any fuel. We can reliably power a city
+or a factory, while outputting virtually zero NOx or SOx emissions. We
+can finally have it both ways, or as some might say, 'have our cake
+and eat it, too'"
+
+[Link](https://medium.com/authority-magazine/fuelcell-energy-jason-fews-big-idea-that-might-change-the-world-5b573f5e3e09)
 
 ---
 
-"Air Liquide, an international industrial gas company, projects their
-new hydrogen plant in North Las Vegas will finish construction in
-November of this year. Although hydrogen production plants have been
-in existence for years, mostly for industrial and refinery purposes,
-Air Liquide’s plant will be the first of its kind to direct its
-hydrogen gas toward the transportation fuel market"
-
-[Link](https://www.sierranevadaally.org/2021/05/13/new-hydrogen-fuel-plant-in-nevada-launches-greater-role-for-hydrogen-fuel-cell-vehicles-in-zero-emission-transportation-mix/)
+Amazon buying MGM? Can we have some more *Stargate* shows? Bezos saved
+*The Expanse* right? (I have no problem rich companies giving me
+better entertainment)
 
 ---
 
-"Hydrogen-Powered BMW X5 Will Be Unveiled Next Year"
-
-[Link](https://www.carglancer.com/hydrogen-powered-bmw-x5-will-be-unveiled-next-year/)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Translation: French news agency <a href="https://twitter.com/AFP?ref_src=twsrc%5Etfw">@AFP</a> has decided to host <a href="https://twitter.com/AP?ref_src=twsrc%5Etfw">@AP</a> and <a href="https://twitter.com/AJEnglish?ref_src=twsrc%5Etfw">@AJEnglish</a> in its Gaza bureau, after theirs were destroyed by the Israeli military. <a href="https://t.co/lKfei7cv5F">https://t.co/lKfei7cv5F</a></p>&mdash; Philip Crowther (@PhilipinDC) <a href="https://twitter.com/PhilipinDC/status/1393878918671839232?ref_src=twsrc%5Etfw">May 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+So much plastic waste.. I bet u go anywhere in the world today, to a
+deserted island even, and waste would find you. That Hanks character
+on *Cast Away* today would only have to wait until he collected enough
+plastic bottles by way of sea, then just McGyver a freaking super boat
+and GTF outa there
 
 ---
 
-
-"US climate envoy [Kerry] says people will not have to give up quality
-of life to achieve some of net zero goals"
+WSJ: "Chile Elects Left-Leaning Assembly to Replace Dictatorship-Era Constitution"
 
 ---
 
-Jacobin: "As an Occupier, Israel Has No Right to 'Self-Defense'..
-
-'Israel has a right of self-defense'. This commonsense statement is
-repeated everywhere — by state officials and media outlets, by
-commentators and anchors. It seems so basic and self-evident that it
-is hard to argue with. But today Israel uses self-defense as its key
-rhetorical tool for war. By invoking self-defense, Israel changes the
-conversation from its colonial crimes against the Palestinians to the
-injuries it has itself incurred as a result. Yet it is precisely
-because Israel is denying Palestinians their human rights, including
-the right of self-determination, that it cannot claim self-defense as
-a legal justification for the use of force"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📍 The South Australian Government is inviting national and international expressions of interest to develop land at Port Bonython in the Upper Spencer Gulf – one of our most prospective hydrogen export hubs. Read more here &gt; <a href="https://t.co/V4G6j4XMTU">https://t.co/V4G6j4XMTU</a> <a href="https://t.co/3erWdn9cFh">pic.twitter.com/3erWdn9cFh</a></p>&mdash; DEM_sagov (@DEM_sagov) <a href="https://twitter.com/DEM_sagov/status/1394445152853372931?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/4zU0o2_4YdM?start=310&end=494" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+😶 😶 😶 
+
+"...every point on the evolute is a center of curvature of the evolvent"
 
 ---
 
-Burgis: "[T]he underlying phenomenon [of cancel culture] is real.... I
-don’t want the Left to eat itself, because I want us to win. If we’re
-going to get everyone health care and end police violence at home and
-imperialist wars abroad and expand democracy into the workplace, we
-need to learn to appeal to the broadest possible subset of the
-population. Far too many people whose material interests align with
-our program will find the face the Left often presents to the world
-deeply unappealing"
+Still against fracking, creates harm at the source that no tech can
+fix. Plus there is flaring, etc..  
 
 ---
 
-You could certainly make that case for fascism, communism, odd
-religious orders, or any -ism that failed, couldn't you?  -isms fail
-when they are too far removed from reality and it takes too much
-effort to prop them up rather than throwing them out.
+Im fine w blue, or gray H2, ammonia..
 
-"If everyone believed X then it would be ok"
+My whole angle here is enticing fossil comps into clean fuel, and make
+up the H2 production shortfall if there are any, at least in the
+beginning.
 
----
+A clean fuel's very presence would ensure zero emission all the way
+down the pipeline, including the end user.
 
-Sad.. Cabbie has his country's culture naturally, but someone told him
-bunch of other lies which he believed, and now gets bent all out of
-shape bcz of it. 
-
----
-
-It's funny.. historian gets kicked out of a cab bcz he said to a
-'Turkish' cabbie that stuffed mussels are not Turkic in
-origin.. Obviously they are not, there are no mussels in bleeping
-Central Asia
-
-[Link](https://youtu.be/1Q1lnWS0LR0?t=2201)
+If policy maker can work the knobs in a way we get massive green H2
+generation now, fine. Politicking: how much of a pain in the ass can
+fossil ppl can get, better off with them or without them? That's their
+job to manage.
 
 ---
 
-Beers Ago - Toby Keith \#music
+"Graham Cooley
 
-[Link](https://youtu.be/Hosifr6ycwU)
+The letter, sent by the climate think tank E3G [to UK gov] and signed
+by Greenpeace, WWF and Friends of the Earth, urges the government to
+prioritise investment in \#greenhydrogen over 'blue #hydrogen'"
 
 ---
 
-Uhhh huhh huhh this sucks Beavis 
+TC must be like an Australian *The Onion*.
 
-[Link](https://youtu.be/txpzAuXdpi0?t=65)
+The Chaser: "Countries supplying Israel weapons wish there was some
+way to stop the ‘conflict’"
+
+---
+
+"@malsaafin
+
+So among the people killed in yesterday's airstrikes on Gaza:
+
+Gaza's top neurologist (Dr Mouin Al-Aloul)
+
+The head of Coronavirus response at Gaza's biggest hospital (Dr Ayman Abu Al-Ouf)
+
+Psychologist and social worker Rajaa Abu Al-Ouf (as well as her children)"
+
+---
+
+<iframe width="200" src="https://www.youtube.com/embed/gKkjPtleWEU?start=12&end=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Inflation YoY increase for April 4.1%. Similar rise was seen during
+2008/9 crisis, it went down. The knee-jerk con "gov spending" angle is
+not fully thought through
+
+<img width="340" src="https://pbs.twimg.com/media/E1sd_X4X0AAneWQ?format=png&name=small"/>
+
+---
+
+"@hazergroupltd
+
+Under a government plan to become a carbon-neutral port by 2050,
+Japan’s Kobe port is looking into the use of hydrogen and ammonia"
+
+[Link](http://ow.ly/sd7j50EO1sQ)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good news! We decided to start our own cryptocurrency. We will now pay all faculty salaries in our university currency, redeemable at the food court, bodega, and book store! Just wait until ucoin catches on!</p>&mdash; Associate Deans (@ass_deans) <a href="https://twitter.com/ass_deans/status/1394463623653773313?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Haha "Australia was British empire's Guantanamo Bay"
+
+---
+
+What a piece of shit
+
+<iframe width="200" src="https://www.youtube.com/embed/NsKwMryKqRE?start=25&end=149" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
