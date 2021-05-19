@@ -118,7 +118,7 @@ Haha "Australia was British empire's Guantanamo Bay"
 
 What a piece of shit
 
-<iframe width="200" src="https://www.youtube.com/embed/NsKwMryKqRE?start=25&end=149" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" src="https://www.youtube.com/embed/NsKwMryKqRE?start=25&end=148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
