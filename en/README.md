@@ -54,6 +54,20 @@ prioritise investment in \#greenhydrogen over 'blue #hydrogen'"
 
 ---
 
+On top of the mistakes made by TR founders, others' nationalisms
+forming in the region also helped in the bizarre identity
+formation.. Modern Greek nationalism for example call Ottocuck empire
+belonging to "Turks" and their time with it as "our dark 400
+years". They claimed ownership of one piece of history, pushing other
+pieces, and its peoples the other way.. Others in the Balkans acted
+similarly. In reality Otto were just as bad as Byzantium, and both are
+Roman, which means all are corksuckers. Agrarian empires,
+i.e. organized crime, mafia in all but name.. Everyone suffers
+similarly, all are subjects. Anatolian peasant did not have an easy
+time bcz he was Moslem in a "Moslem empire".
+
+---
+
 TC must be like an Australian *The Onion*.
 
 The Chaser: "Countries supplying Israel weapons wish there was some
