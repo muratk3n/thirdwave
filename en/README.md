@@ -19,7 +19,7 @@ So much plastic waste.. I bet u go anywhere in the world today, to a
 deserted island even, and waste would find you. That Hanks character
 on *Cast Away* today would only have to wait until he collected enough
 plastic bottles by way of sea, then just McGyver a freaking super boat
-and GTF outa there
+and just cruise outa there
 
 ---
 
