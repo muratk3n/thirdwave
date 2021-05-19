@@ -1110,17 +1110,6 @@ happening way too fast.
 
 ---
 
-Fauci sounds straight-up Brooklyn. Tuualking. Communicates direct,
-sounds like Bernie actually.
-
-The last name could suggest, there, a paisan. But he is more
-Brooklyner than whatever fucktard immig label ppl might attach to
-him. So he is like Bernie - who is Jewish :| Culture is shaped by
-region - local, national. The mantras you mumble, some frickin beads u
-play are irrelevant, including your parents' ethnicity.
-
----
-
 <img width="340" src="https://pbs.twimg.com/media/ETKWLPmWAAIcpNa?format=png&name=small"/>
 
 ---

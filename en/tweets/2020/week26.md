@@ -586,15 +586,6 @@ McCain-W connection (voted with W 90% of the time, etc etc). It worked
 it](https://youtu.be/pq4zrOoHXeg?t=547).
 
 ---
-"@MaitreyaBhakal
-
-What stage of capitalism is it when the government says masks aren't
-useful just because there aren't enough of them?
-
-"Fauci said US government held off promoting face masks because it
-knew shortages were so bad that even doctors couldn't get enough""
-
----
 
 Tommy Lee Jones was in the '95 movie? Did that guy always look old? Al
 Gore's roommate.. I saw a pic as student, he still looked old as fuck.
