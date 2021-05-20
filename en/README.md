@@ -62,9 +62,9 @@ into Germany"
 
 ---
 
-Fauci fukked up twice. Trump by being the chaos agent that he was. CH
-too for acting like the Thirld World gov most know they really
-are.. To borrow a 2016 term - sad.
+Fauci fukked up twice. Trump by being the outsider, chaos agent that
+he was. CH too for acting like the Thirld World gov most know they
+really are.. To borrow a 2016 term - sad.
 
 ---
 
