@@ -1,5 +1,126 @@
 # Week 20
 
+UK: C-ALPS Targets Hydrogen FuelCell Opportunities with £2m New Lab
+Investment @covcampus University building a world-class hydrogen
+fuelcells development facility to support the UK’s bid to become an
+international leader
+
+[Link](https://bit.ly/2T3Le0B)
+
+---
+
+Amazon buying MGM? Can we have some more *Stargate* shows? Bezos saved
+*The Expanse* right? (I have no problem rich companies giving me
+better entertainment)
+
+---
+
+So much plastic waste.. I bet u go anywhere in the world today, to a
+deserted island even, and waste would find you. That Hanks character
+on *Cast Away* today would only have to wait until he collected enough
+plastic bottles by way of sea, then just McGyver a freaking super boat
+and just cruise outa there
+
+---
+
+WSJ: "Chile Elects Left-Leaning Assembly to Replace Dictatorship-Era Constitution"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📍 The South Australian Government is inviting national and international expressions of interest to develop land at Port Bonython in the Upper Spencer Gulf – one of our most prospective hydrogen export hubs. Read more here &gt; <a href="https://t.co/V4G6j4XMTU">https://t.co/V4G6j4XMTU</a> <a href="https://t.co/3erWdn9cFh">pic.twitter.com/3erWdn9cFh</a></p>&mdash; DEM_sagov (@DEM_sagov) <a href="https://twitter.com/DEM_sagov/status/1394445152853372931?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+😶 😶 😶 
+
+"...every point on the evolute is a center of curvature of the evolvent"
+
+---
+
+Still against fracking, creates harm at the source that no tech can
+fix. Plus there is flaring, etc..  
+
+---
+
+Im fine w blue, or gray H2, ammonia.. but green is preferred. My whole
+angle here is enticing fossil comps into clean fuel, and make up the
+H2 production shortfall if there are any.
+
+"Graham Cooley
+
+The letter, sent by the climate think tank E3G [to UK gov] and signed
+by Greenpeace, WWF and Friends of the Earth, urges the government to
+prioritise investment in \#greenhydrogen over 'blue #hydrogen'"
+
+---
+
+On top of the mistakes made by TR founders, others' nationalisms
+forming in the region also helped in the bizarre identity
+formation.. Modern Greek nationalism for example call Ottocuck empire
+belonging to "Turks" and their time with it as "our dark 400
+years". They claimed ownership of one piece of history, pushing other
+pieces, and its peoples the other way.. Others in the Balkans acted
+similarly. In reality Otto were just as bad as Byzantium, and both are
+Roman, which means all are corksuckers. Agrarian empires,
+i.e. organized crime, mafia in all but name.. Everyone suffers
+similarly, all are subjects. Anatolian peasant did not have an easy
+time bcz he was Moslem in a "Moslem empire".
+
+---
+
+TC must be like an Australian *The Onion*.
+
+The Chaser: "Countries supplying Israel weapons wish there was some
+way to stop the ‘conflict’"
+
+---
+
+"@malsaafin
+
+So among the people killed in yesterday's airstrikes on Gaza:
+
+Gaza's top neurologist (Dr Mouin Al-Aloul)
+
+The head of Coronavirus response at Gaza's biggest hospital (Dr Ayman Abu Al-Ouf)
+
+Psychologist and social worker Rajaa Abu Al-Ouf (as well as her children)"
+
+---
+
+<iframe width="200" src="https://www.youtube.com/embed/gKkjPtleWEU?start=12&end=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Inflation YoY increase for April 4.1%. Similar rise was seen during
+2008/9 crisis, it went down. The knee-jerk con "gov spending" angle is
+not fully thought through
+
+<img width="340" src="https://pbs.twimg.com/media/E1sd_X4X0AAneWQ?format=png&name=small"/>
+
+---
+
+"@hazergroupltd
+
+Under a government plan to become a carbon-neutral port by 2050,
+Japan’s Kobe port is looking into the use of hydrogen and ammonia"
+
+[Link](http://ow.ly/sd7j50EO1sQ)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good news! We decided to start our own cryptocurrency. We will now pay all faculty salaries in our university currency, redeemable at the food court, bodega, and book store! Just wait until ucoin catches on!</p>&mdash; Associate Deans (@ass_deans) <a href="https://twitter.com/ass_deans/status/1394463623653773313?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Haha "Australia was British empire's Guantanamo Bay"
+
+---
+
+What a piece of shit
+
+<iframe width="200" src="https://www.youtube.com/embed/NsKwMryKqRE?start=25&end=148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 Politico: "President Joe Biden wants to fund his $4.1 trillion
 infrastructure and family policy agenda with a huge pile of tax

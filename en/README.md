@@ -1,124 +1,96 @@
 # Tweets
 
-UK: C-ALPS Targets Hydrogen FuelCell Opportunities with £2m New Lab
-Investment @covcampus University building a world-class hydrogen
-fuelcells development facility to support the UK’s bid to become an
-international leader
 
-[Link](https://bit.ly/2T3Le0B)
+"South Korea Air Force Purchases Hydrogen Powered Drones"
 
 ---
 
-Amazon buying MGM? Can we have some more *Stargate* shows? Bezos saved
-*The Expanse* right? (I have no problem rich companies giving me
-better entertainment)
+"Electrolyser project sizes are scaling up very quickly too as the
+technology and supply chain matures: to date most projects have been
+between 1-10 MWs. By 2025 a typical project will be 100-500 MWs.. By
+2030, typical projects are expected to scale up further to 1 GW+, with
+the emergence of large-scale hydrogen export projects, deployed in
+countries benefiting from cheap electricity"
+
+[Link](https://auroraer.com/media/companies-are-developing-over-200-gw-of-hydrogen-electrolyser-projects-globally-85-of-which-are-in-europe/)
 
 ---
 
-So much plastic waste.. I bet u go anywhere in the world today, to a
-deserted island even, and waste would find you. That Hanks character
-on *Cast Away* today would only have to wait until he collected enough
-plastic bottles by way of sea, then just McGyver a freaking super boat
-and just cruise outa there
+Need to tap that
+
+"Democrats are relying on greater IRS enforcement to contribute
+billions toward the cost of their infrastructure spending plans. If
+they can’t tap that, it could blow a big hole in their budget numbers"
+
+[Link](https://www.politico.com/news/2021/05/19/tax-cheats-spending-biden-489387)
 
 ---
 
-WSJ: "Chile Elects Left-Leaning Assembly to Replace Dictatorship-Era Constitution"
+"Joule Processing Brings Ultra-Energy Efficient Hydrogen Liquefaction
+Plant To Market-Plants liquify hydrogen for transportation near
+atmospheric pressure and temperatures below -400°F, with a minimum
+specific energy consumption"
+
+[Link](https://bit.ly/3ot9Z1J)
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📍 The South Australian Government is inviting national and international expressions of interest to develop land at Port Bonython in the Upper Spencer Gulf – one of our most prospective hydrogen export hubs. Read more here &gt; <a href="https://t.co/V4G6j4XMTU">https://t.co/V4G6j4XMTU</a> <a href="https://t.co/3erWdn9cFh">pic.twitter.com/3erWdn9cFh</a></p>&mdash; DEM_sagov (@DEM_sagov) <a href="https://twitter.com/DEM_sagov/status/1394445152853372931?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Japan Allocates Up to US $3.4 Billion From Green Fund to Accelerate and in Hydrogen"
+
+[Link](https://bit.ly/3bSGJMX )
 
 ---
 
-😶 😶 😶 
-
-"...every point on the evolute is a center of curvature of the evolvent"
+Jacobin: "Israel Created the Refugees in Gaza That They’re Now Bombing"
 
 ---
 
-Still against fracking, creates harm at the source that no tech can
-fix. Plus there is flaring, etc..  
+Jacobin: "Last week, CNN interviewed [someone in] Jerusalem — almost
+certainly the first time a Palestinian resisting dispossession was
+given the chance to speak on the network. With that brief opportunity,
+the young Palestinian swiftly challenged decades of malicious
+portrayals of the Palestinian struggle in mainstream media"
 
 ---
 
-Im fine w blue, or gray H2, ammonia.. but green is preferred. My whole
-angle here is enticing fossil comps into clean fuel, and make up the
-H2 production shortfall if there are any.
+Allowing RU gas into DE. RU-EU superstate is nigh.. They will build
+navy and invade New York tomorrow.
 
-"Graham Cooley
-
-The letter, sent by the climate think tank E3G [to UK gov] and signed
-by Greenpeace, WWF and Friends of the Earth, urges the government to
-prioritise investment in \#greenhydrogen over 'blue #hydrogen'"
+"The Biden administration will waive sanctions on the corporate entity
+and CEO overseeing the construction of Russia’s Nord Stream 2 pipeline
+into Germany"
 
 ---
 
-On top of the mistakes made by TR founders, others' nationalisms
-forming in the region also helped in the bizarre identity
-formation.. Modern Greek nationalism for example call Ottocuck empire
-belonging to "Turks" and their time with it as "our dark 400
-years". They claimed ownership of one piece of history, pushing other
-pieces, and its peoples the other way.. Others in the Balkans acted
-similarly. In reality Otto were just as bad as Byzantium, and both are
-Roman, which means all are corksuckers. Agrarian empires,
-i.e. organized crime, mafia in all but name.. Everyone suffers
-similarly, all are subjects. Anatolian peasant did not have an easy
-time bcz he was Moslem in a "Moslem empire".
+Fauci fukked up twice. Trump by being the chaos agent that he was. CH
+too for acting like the Thirld World gov most know they really
+are.. To borrow a 2016 term - sad.
 
 ---
 
-TC must be like an Australian *The Onion*.
-
-The Chaser: "Countries supplying Israel weapons wish there was some
-way to stop the ‘conflict’"
-
----
-
-"@malsaafin
-
-So among the people killed in yesterday's airstrikes on Gaza:
-
-Gaza's top neurologist (Dr Mouin Al-Aloul)
-
-The head of Coronavirus response at Gaza's biggest hospital (Dr Ayman Abu Al-Ouf)
-
-Psychologist and social worker Rajaa Abu Al-Ouf (as well as her children)"
+Scenario: Fauci funded bunch of research whose job was to preempively
+supercharge viruses to see destructive potential. Program was stopped
+during Bam admin, restarted during the DJT WH chaos (when the cat is
+away the mice will play) by AF.. They outsourced some of the work to a
+Chinese lab with questionable standards.. *Engineered* virus
+leaked. When CCP saw shit hitting the fan among their population maybe
+they suspected conspiracy against them so they did not shut air travel
+to get back to 'the West'. Fast forward, 3 million dead.
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/gKkjPtleWEU?start=12&end=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Rogin is a legit journo.. These are serious allegations here.. Come
+clean Fauci.. did the hero become zero? 
+
+[Video](https://youtu.be/IqhKlkkc2Eo?t=95)
 
 ---
 
-Inflation YoY increase for April 4.1%. Similar rise was seen during
-2008/9 crisis, it went down. The knee-jerk con "gov spending" angle is
-not fully thought through
+Good keyb solo
 
-<img width="340" src="https://pbs.twimg.com/media/E1sd_X4X0AAneWQ?format=png&name=small"/>
+Alan Hawkshaw - Move Move Move \#music
 
----
-
-"@hazergroupltd
-
-Under a government plan to become a carbon-neutral port by 2050,
-Japan’s Kobe port is looking into the use of hydrogen and ammonia"
-
-[Link](http://ow.ly/sd7j50EO1sQ)
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good news! We decided to start our own cryptocurrency. We will now pay all faculty salaries in our university currency, redeemable at the food court, bodega, and book store! Just wait until ucoin catches on!</p>&mdash; Associate Deans (@ass_deans) <a href="https://twitter.com/ass_deans/status/1394463623653773313?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Haha "Australia was British empire's Guantanamo Bay"
-
----
-
-What a piece of shit
-
-<iframe width="200" src="https://www.youtube.com/embed/NsKwMryKqRE?start=25&end=148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link](https://youtu.be/56_O0awIlBc?t=89)
 
 ---
 
