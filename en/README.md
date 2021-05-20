@@ -53,8 +53,8 @@ portrayals of the Palestinian struggle in mainstream media"
 
 ---
 
-Allowing RU gas into DE. RU-EU superstate is nigh.. They will build
-navy and invade New York tomorrow.
+Allowing RU gas into DE... An RU-EU superstate is nigh.. They will
+build navy and invade New York tomorrow.
 
 "The Biden administration will waive sanctions on the corporate entity
 and CEO overseeing the construction of Russia’s Nord Stream 2 pipeline
