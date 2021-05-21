@@ -14,7 +14,7 @@ the time was "yielding Gaza would help promote goodwill and peace".
 But when did anyone leave territory without anything substantial in
 return?
 
-We also know Hamas is an [Israeli creation](2020/06/10-myths-israel.md#hamas).
+We also know Hamas is an [Israeli creation](../../2020/06/10-myths-israel.md#hamas).
 
 Put the two together.. maybe Israel wanted that persistent flashpoint
 to fight against, to keep the right mobilized, and militarized, and

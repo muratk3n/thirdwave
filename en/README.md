@@ -1,96 +1,160 @@
 # Tweets
 
+Politico: "A wave of pandemic-era speculation in Bitcoin and new shell
+corporations known as SPACs is crashing, and Washington policymakers
+are scrambling to come to the rescue of investors.
 
-"South Korea Air Force Purchases Hydrogen Powered Drones"
+After a year of letting markets run wild, lawmakers are calling for a
+crackdown amid concern that many small investors are about to be
+burned"
 
----
-
-"Electrolyser project sizes are scaling up very quickly too as the
-technology and supply chain matures: to date most projects have been
-between 1-10 MWs. By 2025 a typical project will be 100-500 MWs.. By
-2030, typical projects are expected to scale up further to 1 GW+, with
-the emergence of large-scale hydrogen export projects, deployed in
-countries benefiting from cheap electricity"
-
-[Link](https://auroraer.com/media/companies-are-developing-over-200-gw-of-hydrogen-electrolyser-projects-globally-85-of-which-are-in-europe/)
+[Link](https://www.politico.com/amp/news/2021/05/20/washington-crypto-spacs-tank-490075?__twitter_impression=true)
 
 ---
 
-Need to tap that
+"@Grits4Breakfast
 
-"Democrats are relying on greater IRS enforcement to contribute
-billions toward the cost of their infrastructure spending plans. If
-they can’t tap that, it could blow a big hole in their budget numbers"
-
-[Link](https://www.politico.com/news/2021/05/19/tax-cheats-spending-biden-489387)
+\#HB1758 authorizing cops to use aerial drones for deadly force is up
+today in Senate Jurisprudence at the #txlege"
 
 ---
 
-"Joule Processing Brings Ultra-Energy Efficient Hydrogen Liquefaction
-Plant To Market-Plants liquify hydrogen for transportation near
-atmospheric pressure and temperatures below -400°F, with a minimum
-specific energy consumption"
-
-[Link](https://bit.ly/3ot9Z1J)
+[Murmansk](https://thebarentsobserver.com/en/new-energy/2021/01/new-major-wind-power-plant-murmansk-might-produce-green-hydrogen)
 
 ---
 
-"Japan Allocates Up to US $3.4 Billion From Green Fund to Accelerate and in Hydrogen"
-
-[Link](https://bit.ly/3bSGJMX )
+Did I hear that right? Russia plans green H2 production on the Arctic? \#F24
 
 ---
 
-Jacobin: "Israel Created the Refugees in Gaza That They’re Now Bombing"
+Vox: "Why Covax, the fund to vaccinate the world, is
+struggling.. Covax wanted to send 2 billion doses worldwide this
+year. It's 3.4 percent of the way there"
 
 ---
 
-Jacobin: "Last week, CNN interviewed [someone in] Jerusalem — almost
-certainly the first time a Palestinian resisting dispossession was
-given the chance to speak on the network. With that brief opportunity,
-the young Palestinian swiftly challenged decades of malicious
-portrayals of the Palestinian struggle in mainstream media"
+"NPROXX and Cummins: the perfect match"
+
+[Link](https://www.nproxx.com/nproxx-and-cummins-the-perfect-match-for-the-transition-to-hydrogen/)
 
 ---
 
-Allowing RU gas into DE... An RU-EU superstate is nigh.. Next they
-build a navy and invade New York
+"@laborgiant
 
-"The Biden administration will waive sanctions on the corporate entity
-and CEO overseeing the construction of Russia’s Nord Stream 2 pipeline
-into Germany"
+Europe is hilarious to me, there's like a different country 35 minutes
+down the road and everyone is like fucc those guys"
 
 ---
 
-Fauci fukked up twice. Trump by being the outsider, chaos agent that
-he was. CH too for acting like the Thirld World gov most know they
-really are.. To borrow a 2016 term - sad.
+"@FCHEA_News
+
+@IEA recommends increasing global investment in hydrogen from 1B to
+40B dollars annually by 2030"
 
 ---
 
-Scenario: Fauci funded bunch of research whose job was to preempively
-supercharge viruses to see destructive potential. Program was stopped
-during Bam admin, restarted during the DJT WH chaos (when the cat is
-away the mice will play) by AF.. They outsourced some of the work to a
-Chinese lab with questionable standards.. *Engineered* virus
-leaked. When CCP saw shit hitting the fan among their population maybe
-they suspected conspiracy against them so they did not shut air travel
-to get back to 'the West'. Fast forward, 3 million dead.
+I'm talking truly hard limits.. e.g. if everyone in an apartment complex
+were charging their BEVs, at night, you end up [blowing a fuse](https://news.uci.edu/2021/01/27/uci-podcast-solving-climate-change-with-clean-hydrogen-fuel).
+No electric line setup going into even complexes can handle that kind of current.. So a major 
+BEVtard argument is quashed -- they cannot use existing infra, they need
+brand new, expensive infra, for what is essentially an inferior solution.
 
 ---
 
-Rogin is a legit journo.. These are serious allegations here.. Come
-clean Fauci.. did the hero become zero? 
+There are hard limits on what electricity can deliver. 
 
-[Video](https://youtu.be/IqhKlkkc2Eo?t=95)
+"On a normal February day, Texans need about 54,000 megawatts of
+electricity at peak demand. Early on that Monday morning [when
+statewide failures happened] we needed over 70,000 megawatts as
+heating our homes required more energy. When generators started going
+down"
 
 ---
 
-Good keyb solo
+Civil Rights Trump Quiet
 
-Alan Hawkshaw - Move Move Move \#music
+ABC: "Israeli's say we want quiet. Palestenians living under ISR military
+occupation say we want civil rights"
 
-[Link](https://youtu.be/56_O0awIlBc?t=89)
+---
+
+"@matthew_petti
+
+It seems anti-Palestinianism is one of the most socially acceptable
+kinds of racism in America.
+
+I don’t know of any other ethnic conflict where educated Americans are
+openly hostile towards an entire people…no one writes columns about
+how Kosovars or Tigrayans have it coming"
+
+---
+
+Hamas advanced weaponry..(!) These are $500 rockets shot towards a
+billion dollar defense system that can't hit a camel in the ass. The
+casualties as of now are 20 to 1.
+
+---
+
+"@SohrabAhmari
+
+I never want to hear about Politifact. Ever. Never. Ever. I’m going to
+use [these two screencaps](https://twitter.com/SohrabAhmari/status/1395159392287342592) if anyone ever cites that source"
+
+---
+
+The link suggests Einstein never dropped the variable speed of light
+idea.
+
+1920: *Die Ausbreitungsge-schwindigkeit des Lichtes mit dem Orte
+variiert*
+
+---
+
+Constant speed of light. Black holes. The Big Bang. The Higgs
+Boson. QED. All under attack.
+
+---
+
+"Note that the speed of sound in air varies, the speed of sound in
+water varies, and the speed of seismic waves in rock varies. But it is
+said that the speed of light in space does not vary"
+
+[Link](https://physicsdetective.com/the-speed-of-light/#comment-4824)
+
+---
+
+Modified gravity apprently can supplant the dark matter hypothesis but
+contradicts early universe theories? Well scientists have their early
+universe theories wrong [anyway](https://youtu.be/NHOo3elX5-c?t=519),
+so drop the necessity to co-exist with that failed shit, problem solved.
+
+---
+
+:) Arctic blast of the corp ac... 
+
+"[Some] workers .. would be happy to never again drag an extra sweater
+into the office to protect themselves against the arctic blast of the
+corporate air conditioner"
+
+---
+
+Mining itself is unnecessary, it's a technical kludge. See Nano.
+
+---
+
+The world needs green energy for actually productive things and there
+is major shortfall of it, and this person is like "let's use green
+energy for the most unproductive work ever, BTC mining"
+
+---
+
+Cathie "she gives me no" Wood [addressing Bitcoin's environmental
+damage concerns due to excessive use of energy for its mining] those
+issues can be addressed by using green energy". Beyond hilarious
+
+---
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">Lol. <a href="https://t.co/FAfnMhxI8y">https://t.co/FAfnMhxI8y</a></p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1395454230224416773?ref_src=twsrc%5Etfw">May 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
