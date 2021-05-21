@@ -71,8 +71,8 @@ down"
 
 Civil Rights Trump Quiet
 
-ABC: "Israeli's say we want quiet. Palestenians living under ISR military
-occupation say we want civil rights"
+ABC: "Israelis say we want quiet. Palestenians living under ISR
+military occupation say we want civil rights"
 
 ---
 
@@ -124,7 +124,7 @@ said that the speed of light in space does not vary"
 Modified gravity apprently can supplant the dark matter hypothesis but
 contradicts early universe theories? Well scientists have their early
 universe theories wrong [anyway](https://youtu.be/NHOo3elX5-c?t=519),
-so drop the necessity to co-exist with that failed shit, problem solved.
+so drop the necessity to co-exist with that junk, problem solved.
 
 ---
 
