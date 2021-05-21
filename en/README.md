@@ -19,11 +19,9 @@ today in Senate Jurisprudence at the #txlege"
 
 ---
 
-[Murmansk](https://thebarentsobserver.com/en/new-energy/2021/01/new-major-wind-power-plant-murmansk-might-produce-green-hydrogen)
-
----
-
 Did I hear that right? Russia plans green H2 production on the Arctic? \#F24
+
+Found [this](https://thebarentsobserver.com/en/new-energy/2021/01/new-major-wind-power-plant-murmansk-might-produce-green-hydrogen)
 
 ---
 
