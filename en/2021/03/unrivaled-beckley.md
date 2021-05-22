@@ -52,9 +52,8 @@ North and South Korea in the Korean demilitarized zone; and in 2017
 when North Korea and the United States threatened each other with
 nuclear annihilation...
 
-*Unrivaled*, M. Beckley: "Entrepreneurs in China have reported
-spending roughly 70 percent of their time schmoozing with party
-members"..
+Entrepreneurs in China have reported spending roughly 70 percent of
+their time schmoozing with party members"..
 
 Many Chinese college students describe their schools as 'diploma
 factories,' where student-teacher ratios are double the average in
@@ -171,5 +170,29 @@ Philippine flag himself on Thitu Island and to ride out to other
 Chinese-claimed features on his jet ski and plant Philippine flags on
 them too...
 
+<a name="noko"/>
 
+North Korea
+
+US has no good options and only one nonhorrible option: deterrence. 14
+North Korea will never give up its nuclear arsenal, which is its main
+insurance policy against a U.S. or South Korean attack, and the U.S.
+military cannot reliably destroy North Korea’s nuclear weapons or
+conventional artillery before it has a chance to use them...
+
+The U.S. Department of Defense estimates that a U.S.-North Korean war
+would kill 20,000 people per day in South Korea alone, even if no
+nuclear weapons were used. It also admits that the U.S. national
+missile defense system only has a 50 percent chance of intercepting a
+North Korean ballistic missile headed for the U.S. mainland. 17 Given
+these dire statistics, the United States should learn to live with a
+North Korean nuclear capability..
+
+Deterrence, however, does not mean doing nothing. The United States
+should continue to make clear that it will “totally destroy” North
+Korea if it attacks the United States or its allies or transfers
+nuclear materials to other states or groups. To back up these threats,
+the United States should inte- grate additional terminal and midcourse
+interceptors to its national missile defense system and develop
+boost-phase interceptors.
 
