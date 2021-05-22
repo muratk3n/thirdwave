@@ -4,6 +4,11 @@ By Ilan Pappe
 
 <a name='madonna'/>
 
+Myth: The Jews Were a People Without Land
+
+The claim .. is that Palestine was a land without people, goes hand in
+hand with the claim that the Jews were a people without a land...
+
 The myth insists that the Jews who arrived in 1882 were the
 descendants of the Jews expelled by the Romans around 70 CE. The
 counterargument questions this genealogical connection. Quite a hefty
@@ -11,10 +16,22 @@ scholarly effort has shown that the Jews of Roman Palestine remained
 on the land and were first converted to Christianity and then to
 Islam. ...
 
-[We] question..  whether the 1967 war was forced on Israel and was
-therefore a 'no choice' war. I claim that this was part of Israel’s
-desire to complete the takeover of Palestine that had almost been
-completed in the 1948 war ...
+[Some also say] Palestine was an empty land [when Jews 'came
+back']. In this story, by 1800 Palestine had become a desert, where
+farmers who did not belong there somehow cultivated parched land that
+was not theirs. The same land appeared to be an island, with a
+significant Jewish population .. . Every passing year the land became
+more barren, deforestation increased, and farmland turned to desert.
+
+Promoted through an official state website this fabricated picture is
+unprecedented. ..  Quite a few [researchers], such as David Grossman
+(the demographer not the famous author), Amnon Cohen, and Yehoushua
+Ben-Arieh, have indeed successfully challenged it. Their research
+shows that, over the centuries, Palestine, rather than being a desert,
+was a thriving Arab society—mostly Muslim, predominantly rural, but
+with vibrant urban centers
+
+Myth: Zionism is Judaism
 
 The new post-1904 fixation on Palestine as the only territory in which
 Zionism could be implemented was reinforced by the growing power of
@@ -123,6 +140,7 @@ quite a few commentators, a Swiss cheese.
 Once this program became clear, the decline of the negotiations was
 swift ...
 
+Myth around The Oslo Accord 
 
 In May 2001, [W] appointed Senator Robert Mitchell as a special envoy
 to the Middle East. Mitchell produced a report ... [where] he blamed
@@ -141,6 +159,8 @@ achieved through the barbaric operation of 'Defensive Shield' in 2002
 and the building of the infamous 'apartheid wall' did they succeed
 temporarily in quelling the uprising ...
 
+Myths On Gaza
+
 <a name="hamas"/>
 
 Hamas became a significant player on the ground in part thanks to the
@@ -153,26 +173,5 @@ In 2009, Avner Cohen, who served in the Gaza Strip around the time
 Hamas began to gain power in the late 1980s, and was responsible for
 religious affairs in the occupied territories, told the Wall Street
 Journal, 'the Hamas, to my great regret, is Israel’s creation.' ...
-
-Palestine was an empty land [when Jews 'came back'].
-
-In this story, by 1800 Palestine had become a desert, where farmers
-who did not belong there somehow cultivated parched land that was not
-theirs. The same land appeared to be an island, with a significant
-Jewish population .. . Every passing year the land became more barren,
-deforestation increased, and farmland turned to desert.
-
-Promoted through an official state website this fabricated picture is
-unprecedented. ..  Quite a few [researchers], such as David Grossman
-(the demographer not the famous author), Amnon Cohen, and Yehoushua
-Ben-Arieh, have indeed successfully challenged it. Their research
-shows that, over the centuries, Palestine, rather than being a desert,
-was a thriving Arab society—mostly Muslim, predominantly rural, but
-with vibrant urban centers
-
-
-
-
-
 
 
