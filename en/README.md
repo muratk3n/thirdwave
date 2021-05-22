@@ -70,7 +70,7 @@ grandfather was never in Palestine, so could
 [not](2020/06/10-myths-israel.md#madonna) have been kicked out by a
 Palestenians great great great great grandfather. His great great
 great great grandfather was like Madonna, became "interested" in the
-religion because it was "something cool". He was learning that, like
+religion because it was "something cool".. he was learning that, like
 Kabala meditation, along with spiritual Taibo while in Booty Bootcamp.
 
 <iframe width="340" src="https://www.youtube.com/embed/1e_dbsVQrk4?start=209&end=848" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
