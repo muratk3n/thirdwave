@@ -1,14 +1,5 @@
 # Tweets
 
-Jacobin: "Tony Blair Wants to Drag the Left Into His Own Political
-Grave... A decade after Blair’s departure from 10 Downing Street, 64
-percent of people still had an unfavorable opinion of the man, with
-just 21 percent declaring their view to be positive.. His latest
-performance comes after a poor set of election results for the current
-Labour leader [his boy] Keir Starmer [in an essay] for the New Statesman"
-
----
-
 Jacobin: "If nothing else, the COVID-19 pandemic has been an
 incredibly instructive case study in what the neoliberal dogma that
 now governs our waking lives really means when stripped of artifice or
@@ -35,6 +26,15 @@ from a completely separate reality now:
 
 'Opinion | Bill Gates Is the Most Interesting Man in the World -
 nytimes.com'"
+
+---
+
+Jacobin: "Tony Blair Wants to Drag the Left Into His Own Political
+Grave... A decade after Blair’s departure from 10 Downing Street, 64
+percent of people still had an unfavorable opinion of the man, with
+just 21 percent declaring their view to be positive.. His latest
+performance comes after a poor set of election results for the current
+Labour leader [his boy] Keir Starmer [in an essay] for the New Statesman"
 
 ---
 
