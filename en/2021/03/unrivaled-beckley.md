@@ -174,7 +174,7 @@ them too...
 
 North Korea
 
-US has no good options and only one nonhorrible option: deterrence. 14
+US has no good options and only one nonhorrible option: deterrence.
 North Korea will never give up its nuclear arsenal, which is its main
 insurance policy against a U.S. or South Korean attack, and the U.S.
 military cannot reliably destroy North Korea’s nuclear weapons or
@@ -184,7 +184,7 @@ The U.S. Department of Defense estimates that a U.S.-North Korean war
 would kill 20,000 people per day in South Korea alone, even if no
 nuclear weapons were used. It also admits that the U.S. national
 missile defense system only has a 50 percent chance of intercepting a
-North Korean ballistic missile headed for the U.S. mainland. 17 Given
+North Korean ballistic missile headed for the U.S. mainland. Given
 these dire statistics, the United States should learn to live with a
 North Korean nuclear capability..
 
@@ -194,5 +194,9 @@ Korea if it attacks the United States or its allies or transfers
 nuclear materials to other states or groups. To back up these threats,
 the United States should inte- grate additional terminal and midcourse
 interceptors to its national missile defense system and develop
-boost-phase interceptors.
+boost-phase interceptors...
+
+North Korea will never negotiate away its nuclear arsenal, but it
+might accept limits on that arsenal in exchange for U.S. security
+assurances.
 
