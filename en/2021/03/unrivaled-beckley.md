@@ -192,7 +192,7 @@ Deterrence, however, does not mean doing nothing. The United States
 should continue to make clear that it will “totally destroy” North
 Korea if it attacks the United States or its allies or transfers
 nuclear materials to other states or groups. To back up these threats,
-the United States should inte- grate additional terminal and midcourse
+the United States should integrate additional terminal and midcourse
 interceptors to its national missile defense system and develop
 boost-phase interceptors...
 
