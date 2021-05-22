@@ -55,6 +55,16 @@ quality there.
 
 ---
 
+
+There needs to be accountability after covid. If the scenario I shared
+is correct, then, well.. Ok one person involved already got punished,
+Trump lost his job.  But Fauci is still there.. The muckmuckers of CCP
+are still where they are..
+
+Over three million are dead. HEADS NEED TO ROLL
+
+---
+
 The kid at the end is wrong BTW. His great great great great
 grandfather was never in Palestine, so could
 [not](2020/06/10-myths-israel.md#madonna) have been kicked out by a
@@ -94,21 +104,12 @@ government's apartheid in the West Bank"
 
 ---
 
-There needs to be accountability after covid. If the scenario I shared
-is correct, then, well.. Ok one person involved already got punished,
-Trump lost his job.  But Fauci is still there.. The muckmuckers of CCP
-are still where they are..
-
-Over three million are dead. HEADS NEED TO ROLL
-
----
-
 The protoganist of the witty ME stories, Nasreddin, can just easily be
 claimed by Iranianians as by the so-called Turks. The stories
 certainly belong to the region, but how much of the region's culture
 belongs to the "Turk"?  The answer is - not much.. For Anatolians the
-share of the Central As culture is a tiny fraction, basically they are
-as much tr as an American is Amish. 
+share of the Central As culture is a tiny fraction, basically is is as
+much tr as an American is Amish.
 
 ---
 
