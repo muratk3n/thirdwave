@@ -1,158 +1,114 @@
 # Tweets
 
-Politico: "A wave of pandemic-era speculation in Bitcoin and new shell
-corporations known as SPACs is crashing, and Washington policymakers
-are scrambling to come to the rescue of investors.
-
-After a year of letting markets run wild, lawmakers are calling for a
-crackdown amid concern that many small investors are about to be
-burned"
-
-[Link](https://www.politico.com/amp/news/2021/05/20/washington-crypto-spacs-tank-490075?__twitter_impression=true)
+Jacobin: "Tony Blair Wants to Drag the Left Into His Own Political
+Grave... A decade after Blair’s departure from 10 Downing Street, 64
+percent of people still had an unfavorable opinion of the man, with
+just 21 percent declaring their view to be positive.. His latest
+performance comes after a poor set of election results for the current
+Labour leader [his boy] Keir Starmer [in an essay] for the New Statesman"
 
 ---
 
-"@Grits4Breakfast
+Jacobin: "If nothing else, the COVID-19 pandemic has been an
+incredibly instructive case study in what the neoliberal dogma that
+now governs our waking lives really means when stripped of artifice or
+pretense. As things stand, just a handful of profit-driven private
+companies currently control the knowledge and expertise required to
+produce vaccines — with people in many poorer countries not expected
+to be vaccinated until at least 2024. It didn’t have to be this way,
+of course.
 
-\#HB1758 authorizing cops to use aerial drones for deadly force is up
-today in Senate Jurisprudence at the #txlege"
-
----
-
-Did I hear that right? Russia plans green H2 production on the Arctic? \#F24
-
-Found [this](https://thebarentsobserver.com/en/new-energy/2021/01/new-major-wind-power-plant-murmansk-might-produce-green-hydrogen)
-
----
-
-Vox: "Why Covax, the fund to vaccinate the world, is
-struggling.. Covax wanted to send 2 billion doses worldwide this
-year. It's 3.4 percent of the way there"
-
----
-
-"NPROXX and Cummins: the perfect match"
-
-[Link](https://www.nproxx.com/nproxx-and-cummins-the-perfect-match-for-the-transition-to-hydrogen/)
+Enabled by a monopolistic global intellectual property (IP) regime and
+with a tip of the hat to billionaire Bill Gates, Big Pharma and its
+political allies have largely succeeded in controlling and defining
+the narrative during the early vaccine rollout — transforming the
+prospective solution to a global crisis into yet another occasion for
+narrow corporate profit, in this case at the expense of public health
+and a speedy end to the pandemic"
 
 ---
 
-"@laborgiant
+"@stephenburanyi
 
-Europe is hilarious to me, there's like a different country 35 minutes
-down the road and everyone is like fucc those guys"
+Reading some early pandemic takes and goddamn does this seem piped in
+from a completely separate reality now:
 
----
-
-"@FCHEA_News
-
-@IEA recommends increasing global investment in hydrogen from 1B to
-40B dollars annually by 2030"
+'Opinion | Bill Gates Is the Most Interesting Man in the World -
+nytimes.com'"
 
 ---
 
-I'm talking truly hard limits.. e.g. if everyone in an apartment complex
-were charging their BEVs, at night, you end up [blowing a fuse](https://news.uci.edu/2021/01/27/uci-podcast-solving-climate-change-with-clean-hydrogen-fuel).
-No electric line setup going into even complexes can handle that kind of current.. So a major 
-BEVtard argument is quashed -- they cannot use existing infra, they need
-brand new, expensive infra, for what is essentially an inferior solution.
+The lead Arabic guy on *True Lies* is the most stretotype Arabic bad
+guy ever.. Cameron has him shoot AK in air and dude is like in a
+trance, it was comically overdone, makes u wanna go like "that mfker
+is bad, lets shoot the SOB!"
 
 ---
 
-There are hard limits on what electricity can deliver. 
+BBC went down hill compared to 10 yrs ago. They used to have great
+programs. That weekly discussion among journos on world events w that
+Gavin guy.. I dont see anything like that from BBC, at least not on
+Net. Plus they mucked up Dr Who it became fully cuck.. Massive loss of
+quality there.
 
-"On a normal February day, Texans need about 54,000 megawatts of
-electricity at peak demand. Early on that Monday morning [when
-statewide failures happened] we needed over 70,000 megawatts as
-heating our homes required more energy. When generators started going
-down"
-
----
-
-Civil Rights Trump Quiet
-
-ABC: "Israelis say we want quiet. Palestenians living under ISR
-military occupation say we want civil rights"
+"Government considers BBC shake-up after damning Diana report"
 
 ---
 
-"@matthew_petti
+The kid at the end is wrong BTW. His great great great great
+grandfather was never in Palestine, so could
+[not](2020/06/10-myths-israel.md#madonna) have been kicked out by a
+Palestenians great great great great grandfather. His great great
+great great grandfather was like Madonna, became "interested" in the
+religion because it was "something cool". He was learning that, like
+Kabala meditation, along with spiritual Taibo while in Booty Bootcamp.
 
-It seems anti-Palestinianism is one of the most socially acceptable
-kinds of racism in America.
-
-I don’t know of any other ethnic conflict where educated Americans are
-openly hostile towards an entire people…no one writes columns about
-how Kosovars or Tigrayans have it coming"
-
----
-
-Hamas advanced weaponry..(!) These are $500 rockets shot towards a
-billion dollar defense system that can't hit a camel in the ass. The
-casualties as of now are 20 to 1.
+<iframe width="340" src="https://www.youtube.com/embed/1e_dbsVQrk4?start=209&end=848" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"@SohrabAhmari
+"@istanbultrlaviv
 
-I never want to hear about Politifact. Ever. Never. Ever. I’m going to
-use [these two screencaps](https://twitter.com/SohrabAhmari/status/1395159392287342592) if anyone ever cites that source"
-
----
-
-The link suggests Einstein never dropped the variable speed of light
-idea.
-
-1920: *Die Ausbreitungsge-schwindigkeit des Lichtes mit dem Orte
-variiert*
+39 years ago, Benjamin Netanyahu began his public career as a deputy
+ambassador in talks with a US administration that was negotiating
+ceasefires between Israel and the Palestinians. That was in 1982. He’s
+now prime minister and it’s 2021 but he’s essentially doing the same
+thing"
 
 ---
 
-Constant speed of light. Black holes. The Big Bang. The Higgs
-Boson. QED. All under attack.
+"@RegGBlinker
+
+Big day in GDPR news today - Germany have issued an immediate
+enforceable order prohibiting @Facebook from processing personal data
+from @WhatsApp"
 
 ---
 
-"Note that the speed of sound in air varies, the speed of sound in
-water varies, and the speed of seismic waves in rock varies. But it is
-said that the speed of light in space does not vary"
+"@KenRoth
 
-[Link](https://physicsdetective.com/the-speed-of-light/#comment-4824)
-
----
-
-Modified gravity apprently can supplant the dark matter hypothesis but
-contradicts early universe theories? Well scientists have their early
-universe theories wrong [anyway](https://youtu.be/NHOo3elX5-c?t=519),
-so drop the necessity to co-exist with that junk, problem solved.
+American diplomats reportedly 'will take a new look at the issue of
+Israeli settlements in the West Bank.' Good idea. They are war crimes
+(Art 49 of 4th Geneva Convention) and an integral part of the Israeli
+government's apartheid in the West Bank"
 
 ---
 
-:) Arctic blast of the corp ac... 
+There needs to be accountability after covid. If the scenario I shared
+is correct, then, well.. Ok one person involved already got punished,
+Trump lost his job.  But Fauci is still there.. The muckmuckers of CCP
+are still where they are..
 
-"[Some] workers .. would be happy to never again drag an extra sweater
-into the office to protect themselves against the arctic blast of the
-corporate air conditioner"
-
----
-
-Mining itself is unnecessary, it's a technical kludge. See Nano.
+Over three million are dead. HEADS NEED TO ROLL
 
 ---
 
-The world needs green energy for actually productive things and there
-is major shortfall of it, and this person is like "let's use green
-energy for the most unproductive work ever, BTC mining"
-
----
-
-Cathie "she gives me no" Wood [addressing Bitcoin's environmental
-damage concerns due to excessive use of energy for its mining] those
-issues can be addressed by using green energy". Beyond hilarious
-
----
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">Lol. <a href="https://t.co/FAfnMhxI8y">https://t.co/FAfnMhxI8y</a></p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1395454230224416773?ref_src=twsrc%5Etfw">May 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The protoganist of the witty ME stories, Nasreddin, can just easily be
+claimed by Iranianians as by the so-called Turks. The stories
+certainly belong to the region, but how much of the region's culture
+belongs to the "Turk"?  The answer is - not much.. For Anatolians the
+share of the Central As culture is a tiny fraction, basically they are
+as much tr as an American is Amish. 
 
 ---
 

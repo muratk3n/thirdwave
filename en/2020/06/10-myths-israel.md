@@ -2,6 +2,8 @@
 
 By Ilan Pappe
 
+<a name='madonna'/>
+
 The myth insists that the Jews who arrived in 1882 were the
 descendants of the Jews expelled by the Romans around 70 CE. The
 counterargument questions this genealogical connection. Quite a hefty
