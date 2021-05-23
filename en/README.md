@@ -73,7 +73,7 @@ US negotiating limits on the nuke arsenal?
 
 ---
 
-NK strat called for NK [not giving up on nukes](2021/03/unrivaled-beckley.md).
+NK strat called for NK [not giving up on nukes](2021/03/unrivaled-beckley.md#noko).
 What changed?
 
 ---
