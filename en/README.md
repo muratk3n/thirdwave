@@ -1,116 +1,84 @@
 # Tweets
 
-Jacobin: "If nothing else, the COVID-19 pandemic has been an
-incredibly instructive case study in what the neoliberal dogma that
-now governs our waking lives really means when stripped of artifice or
-pretense. As things stand, just a handful of profit-driven private
-companies currently control the knowledge and expertise required to
-produce vaccines — with people in many poorer countries not expected
-to be vaccinated until at least 2024. It didn’t have to be this way,
-of course.
+"@Opel Unveils its Opel Vivaro-e: Plug-In FuelCell Electric Vehicle
+Offers ZeroEmissions and Quick Refuelling. Fuelcells system in the
+engine bay, hydrogen tanks replace the battery"
 
-Enabled by a monopolistic global intellectual property (IP) regime and
-with a tip of the hat to billionaire Bill Gates, Big Pharma and its
-political allies have largely succeeded in controlling and defining
-the narrative during the early vaccine rollout — transforming the
-prospective solution to a global crisis into yet another occasion for
-narrow corporate profit, in this case at the expense of public health
-and a speedy end to the pandemic"
+[Link](https://bit.ly/2SM6Ii7)
 
 ---
 
-"@stephenburanyi
+U can do that see bcz fuel is energy dense as f--k
 
-Reading some early pandemic takes and goddamn does this seem piped in
-from a completely separate reality now:
+"@DaimlerTruckBus as it Began Rigorous Testing of Its FuelCell
+Truck. The Aim is to achieve ranges of up to 1,000 kilometres and more
+without any ... refuelling"
 
-'Opinion | Bill Gates Is the Most Interesting Man in the World -
-nytimes.com'"
-
----
-
-Jacobin: "Tony Blair Wants to Drag the Left Into His Own Political
-Grave... A decade after Blair’s departure from 10 Downing Street, 64
-percent of people still had an unfavorable opinion of the man, with
-just 21 percent declaring their view to be positive.. His latest
-performance comes after a poor set of election results for the current
-Labour leader [his boy] Keir Starmer [in an essay] for the New Statesman"
+[Link](https://bit.ly/33XedFo )
 
 ---
 
-The lead Arabic guy on *True Lies* is the most stretotype Arabic bad
-guy ever.. Cameron has him shoot AK in air and dude is like in a
-trance, it was comically overdone, makes u wanna go like "that mfker
-is bad, lets shoot the SOB!"
+Jacobin: "Palestine Is No Longer the Third Rail for Democrats.. For
+decades, the US media and political class have parroted Israel’s
+claims of victimhood, despite Israel being an occupying state power
+acting against an occupied people. The details change, but the story
+remains the same: Israeli forces attack civilians.. In the wake of
+these latest strikes, however, this consensus may finally be
+crumbling"
 
 ---
 
-BBC went down hill compared to 10 yrs ago. They used to have great
-programs. That weekly discussion among journos on world events w that
-Gavin guy.. I dont see anything like that from BBC, at least not on
-Net. Plus they mucked up Dr Who it became fully cuck.. Massive loss of
-quality there.
-
-"Government considers BBC shake-up after damning Diana report"
+Politico: "After months of letting their power to obstruct go unused,
+the Senate GOP is ready to filibuster legislation creating a Jan. 6
+commission. If Republicans follow through, they'll spark a
+long-building fight over the filibuster’s very existence"
 
 ---
 
+"@istanbultelaviv
 
-There needs to be accountability after covid. If the scenario I shared
-is correct, then, well.. Ok one person involved already got punished,
-Trump lost his job.  But Fauci is still there.. The muckmuckers of CCP
-are still where they are..
-
-Over three million are dead. HEADS NEED TO ROLL
-
----
-
-The kid at the end is wrong BTW. His great great great great
-grandfather was never in Palestine, so could
-[not](2020/06/10-myths-israel.md#madonna) have been kicked out by a
-Palestenians great great great great grandfather. His great great
-great great grandfather was like Madonna, became "interested" in the
-religion outside, because it was "something cool".. he was learning
-that, like Kabala meditation, along with spiritual Taibo while in
-Booty Bootcamp.
-
-<iframe width="340" src="https://www.youtube.com/embed/1e_dbsVQrk4?start=209&end=848" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[In an ISR talk show] Berko and Ofira usually nails it. Berko: 'I
+heard all analysts blabbering; at school they taught us 1+1=2... once
+the mandate went to Lapid, a war started....I'm not hinting, I am
+saying, Netanyahu did all of this...he needed a war to save himself'"
 
 ---
 
-"@istanbultrlaviv
+Orgone - Hambone \#music
 
-39 years ago, Benjamin Netanyahu began his public career as a deputy
-ambassador in talks with a US administration that was negotiating
-ceasefires between Israel and the Palestinians. That was in 1982. He’s
-now prime minister and it’s 2021 but he’s essentially doing the same
-thing"
+[Link](https://youtu.be/TZvOoOUXgBc)
 
 ---
 
-"@RegGBlinker
+The evidence is destroyed, got nothing to worry about. Might as well
+act like it for optics.. Preemptive ask now is better than being asked
+later.. This guy cld be a politician. Clearly not a good scientist,
+the whole mask thing (first none, then double) was straight up stupid
 
-Big day in GDPR news today - Germany have issued an immediate
-enforceable order prohibiting @Facebook from processing personal data
-from @WhatsApp"
+"@joshrogin
 
----
-
-"@KenRoth
-
-American diplomats reportedly 'will take a new look at the issue of
-Israeli settlements in the West Bank.' Good idea. They are war crimes
-(Art 49 of 4th Geneva Convention) and an integral part of the Israeli
-government's apartheid in the West Bank"
+Fauci is now saying he’s not confident the coronavirus emerged naturally"
 
 ---
 
-The protoganist of the witty ME stories, Nasreddin, can just easily be
-claimed by Iranianians as by the so-called Turks. The stories
-certainly belong to the region, but how much of the region's culture
-belongs to the "Turk"?  The answer is - not much.. For Anatolians the
-share of the Central As culture is a tiny fraction, basically is is as
-much tr as an American is Amish.
+"Africa Could Become Germany’s Hydrogen Supplier. First results of the
+BMBF project “GreenHydrogen Potential Atlas” show immense potential
+for a hydrogen partnership between Germany and West Africa"
+
+[Link](https://bit.ly/3u8RrF2)
+
+---
+
+US negotiating limits on the nuke arsenal?
+
+---
+
+NK strat called for NK [not giving up on nukes](2021/03/unrivaled-beckley.md).
+What changed?
+
+---
+
+Not much going on.. that's f-ing great. Less news. 
 
 ---
 
