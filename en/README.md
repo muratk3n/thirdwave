@@ -37,10 +37,10 @@ long-building fight over the filibuster’s very existence"
 
 "@istanbultelaviv
 
-[In an ISR talk show] Berko and Ofira usually nails it. Berko: 'I
-heard all analysts blabbering; at school they taught us 1+1=2... once
-the mandate went to Lapid, a war started....I'm not hinting, I am
-saying, Netanyahu did all of this...he needed a war to save himself'"
+[ISR talk show] Berko and Ofira usually nails it. Berko: 'I heard all
+analysts blabbering; at school they taught us 1+1=2... once the
+mandate went to Lapid, a war started....I'm not hinting, I am saying,
+Netanyahu did all of this...he needed a war to save himself'"
 
 ---
 
