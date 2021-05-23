@@ -8,7 +8,7 @@ engine bay, hydrogen tanks replace the battery"
 
 ---
 
-U can do that see bcz fuel energy dense as f--k
+U can do that see bcz fuel energy is dense as f--k
 
 "@DaimlerTruckBus as it Began Rigorous Testing of Its FuelCell
 Truck. The Aim is to achieve ranges of up to 1,000 kilometres and more
