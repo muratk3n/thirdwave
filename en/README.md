@@ -52,9 +52,7 @@ Orgone - Hambone \#music
 
 The evidence is destroyed, got nothing to worry about. Might as well
 act like it for optics.. Preemptive ask now is better than being asked
-later.. This guy cld be good in marketing.. Clearly not a good
-scientist, the whole mask thing (first none, then double) was straight
-up stupid
+later.. This guy cld be good in marketing.. 
 
 "@joshrogin
 
