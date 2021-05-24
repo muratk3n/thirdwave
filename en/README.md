@@ -24,7 +24,7 @@ BOUGHT GME AT $483"
 
 ---
 
-This VW is of the VW emission scandal fame BTW. Comp is a stuffed w
+This VW is of the VW emission scandal fame BTW. Comp is stuffed w
 crooks *and* morons. Quite an achivement..
 
 ---
