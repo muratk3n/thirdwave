@@ -44,7 +44,7 @@ Managing ISR must be like dealing with an infant
 
 Not making a public spat with ISR probably made sense. Publicly
 shitting on them cld push the muckers to more attacks.. The 2014
-"conflict" lasted for 50 days, Biden surely remembered that.
+"conflict" lasted for 50 days after all, Biden surely remembered that.
 
 ---
 
