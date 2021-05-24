@@ -59,7 +59,7 @@ democracy'"
 
 ---
 
-"Robert Redfield, director of the [CDC, himself a scientist] under
+"Robert Redfield, director of the [CDC, himself a virologist] under
 Trump, recently said he believes that a lab leak is the most likely
 explanation of how the pandemic started"
 
