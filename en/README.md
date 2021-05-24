@@ -6,11 +6,9 @@ House and the Senate"
 
 ---
 
-"In Ludwigshafen, Germany, Dr. Martin Brudermüller (BASF) and
-Dr. Markus Krebber (RWE), accompanied by Chairman of the Mining,
-Chemical and Energy Industries Union (IG BCE) Michael
-Vassiliadis, presented a project idea that envisions a new 2 GW
-offshore wind farm in the German North Sea"
+"Dr. Martin Brudermüller (BASF) and Dr. Markus Krebber (RWE) ..
+presented a project idea that envisions a new 2 GW offshore wind farm
+in the German North Sea"
 
 [Link](https://www.greencarcongress.com/2021/05/20210523-basf.html)
 
