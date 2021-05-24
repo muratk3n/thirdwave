@@ -1,11 +1,5 @@
 # Tweets
 
-
-"In a recent post on Twitter VW CEO criticized hydrogen #fuelcell cars
-and Glickenhaus challenged him to a race in the upcoming Baja 1000"
-
----
-
 "Sen. Cory Booker said on Sunday that 'meaningful progress' has been
 made in the negotiations on police reform that have taken place in the
 House and the Senate"
@@ -29,6 +23,18 @@ People Power ✊
 IF YOU ARE HAVING A BAD DAY REMEMBER THERE ARE PEOPLE WHO: 
 
 BOUGHT GME AT $483"
+
+---
+
+This VW is of the VW emission scandal fame BTW. Comp is a stuffed w
+crooks *and* morons. Quite an achivement..
+
+---
+
+🤣 🤣 🤣 
+
+"In a recent post on Twitter VW CEO criticized hydrogen #fuelcell cars
+and Glickenhaus challenged him to a race in the upcoming Baja 1000"
 
 ---
 
