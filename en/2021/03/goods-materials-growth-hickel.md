@@ -75,6 +75,19 @@ twice over...
 
 ![](material-flows.png)
 
+<a name='decouple'/>
+
+This increase in material use tracks more or less exactly with the
+rise of global GDP. The two have grown together in lockstep. Every
+additional unit of GDP means roughly an additional unit of material
+extraction. There were times, such as during the 1990s, when GDP grew
+at a slightly faster rate than material use, prompting some to hope we
+were on our way to decoupling GDP from material use altogether. But
+those hopes have been dashed in the decades since. In fact, exactly
+the opposite has happened. Since 2000, the growth of material use has
+outpaced the growth of GDP. Instead of gradually dematerialising, the
+global economy has been rematerialising...
+
 Lithium is another ecological disaster. It takes 500,000 gallons of
 water to produce a single ton of lithium. Even at present levels of
 extraction this is causing real problems. In the Andes, where most of
