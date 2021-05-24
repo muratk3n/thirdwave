@@ -38,10 +38,6 @@ and Glickenhaus challenged him to a race in the upcoming Baja 1000"
 
 ---
 
-Managing ISR must be like dealing with an infant 
-
----
-
 Not making a public spat with ISR probably made sense. Publicly
 shitting on them cld push the muckers to more attacks.. The 2014
 "conflict" lasted for 50 days after all, Biden surely remembered that.
