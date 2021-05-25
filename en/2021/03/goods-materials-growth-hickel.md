@@ -88,13 +88,13 @@ the opposite has happened. Since 2000, the growth of material use has
 outpaced the growth of GDP. Instead of gradually dematerialising, the
 global economy has been rematerialising...
 
-Lithium is another ecological disaster. It takes 500,000 gallons of
-water to produce a single ton of lithium. Even at present levels of
-extraction this is causing real problems. In the Andes, where most of
-the world’s lithium is located, mining companies are burning through
-the water tables and leaving farmers with nothing to irrigate their
-crops. Many have had no choice but to abandon their land
-altogether. Meanwhile, chemical leaks from lithium mines have poisoned
-rivers from Chile to Argentina, Nevada to Tibet, killing off whole
-freshwater ecosystems. The lithium boom has barely started, and it’s
-already a catastrophe.
+Lithium [used in batteries] is another ecological disaster. It takes
+500,000 gallons of water to produce a single ton of lithium. Even at
+present levels of extraction this is causing real problems. In the
+Andes, where most of the world’s lithium is located, mining companies
+are burning through the water tables and leaving farmers with nothing
+to irrigate their crops. Many have had no choice but to abandon their
+land altogether. Meanwhile, chemical leaks from lithium mines have
+poisoned rivers from Chile to Argentina, Nevada to Tibet, killing off
+whole freshwater ecosystems. The lithium boom has barely started, and
+it’s already a catastrophe.
