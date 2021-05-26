@@ -122,9 +122,8 @@ against Ryanair plane: senior transport official'"
 Sometimes all it takes to shift a conclusion is modifying one
 underlying assumption.. It's true modern world is based on many little
 pieces coming together and there usually isnt enough time to question
-every piece otherwise u cant move forward.. But at a certain level of
-narrative generation, analysis, u have to be able to - else there is
-no progress.
+every piece otherwise u cant move forward.. But for a certain kind of
+analysis, u have to be able to - else, no progress.
 
 ---
 
