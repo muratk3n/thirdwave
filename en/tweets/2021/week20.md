@@ -106,11 +106,7 @@ government's apartheid in the West Bank"
 ---
 
 The protoganist of the witty ME stories, Nasreddin, can just easily be
-claimed by Iranianians as by the so-called Turks. The stories
-certainly belong to the region, but how much of the region's culture
-belongs to the "Turk"?  The answer is - not much.. For Anatolians the
-share of the Central As culture is a tiny fraction, basically is is as
-much tr as an American is Amish.
+claimed by Iranianians as by TR. 
 
 ---
 
