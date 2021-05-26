@@ -1,16 +1,6 @@
 # Tweets
 
 
-👍 👍 👍 
-
-"@kurtopsahl
-
-The European Court of Human Rights ruled the GCHQ’s methods for bulk
-interception of online communications violated the right to privacy
-and the regime for collection of data was unlawful"
-
----
-
 "@mattsheffield
 
 Texas has so many additional taxes that its burden is actually higher
@@ -104,6 +94,17 @@ $r_\alpha \times p_\alpha$ instead of $r_i \times p_i$ 🤦‍♂️ Insanely
 annoying
 
 ---
+
+👍 👍 👍 
+
+"@kurtopsahl
+
+The European Court of Human Rights ruled the GCHQ’s methods for bulk
+interception of online communications violated the right to privacy
+and the regime for collection of data was unlawful"
+
+---
+
 
 It's funny Belarus still calls their secret service KGB.
 
