@@ -47,7 +47,7 @@ new jobs and help position Australia as a #renewable energy leader"
 ---
 
 TR is beaten by MEXICO. Mexico, with all its problems with drug
-cartels, is better off.. 
+cartels 🤨 is better off.. 
 
 ---
 
