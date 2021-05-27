@@ -102,7 +102,7 @@ Turkey’s far-right Grey Wolves on the EU terrorist list."
 ---
 
 The upcoming movie is ruined for me now.. I thought was going to watch
-a bad, tough guy, but he mopes and cries like a little girl. 
+a bad hombre, but he mopes and cries like a little girl.
 
 ---
 
