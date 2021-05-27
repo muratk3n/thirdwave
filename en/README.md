@@ -113,6 +113,13 @@ after describing Taiwan as a "country""
 
 ---
 
+Politico: "Democrats back growing calls for Congress to probe lab leak
+theory... The ongoing discussions on Capitol Hill represent a
+remarkable bipartisan agreement that Congress should investigate the
+origins of a virus that has killed 3.5 million people worldwide"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
