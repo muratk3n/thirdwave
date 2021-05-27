@@ -51,9 +51,9 @@ Innovators go out, coke dealers come in.
 ---
 
 The solution isnt "more people", or importing bunch of idiots from
-abroad, with their chicken coops in crooked trucks...  The truck hits
-a bump and the chicken jump "bwak bwak bwak bwak! bwak bwak bwak
-bwak!"... 
+abroad, with their chicken coops and shit, in crooked trucks...  The
+truck hits a bump and the chicken jump "bwak bwak bwak bwak! bwak bwak
+bwak bwak!". No.
 
 ---
 
