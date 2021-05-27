@@ -67,7 +67,7 @@ Over three million are dead. HEADS NEED TO ROLL
 
 The kid at the end is wrong BTW. His great great great great
 grandfather was never in Palestine, so could
-[not](2020/06/10-myths-israel.md#madonna) have been kicked out by a
+[not](../../2020/06/10-myths-israel.md#madonna) have been kicked out by a
 Palestenians great great great great grandfather. His great great
 great great grandfather was like Madonna, became "interested" in the
 religion outside, because it was "something cool".. he was learning

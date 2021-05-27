@@ -212,7 +212,7 @@ DJ Food - Well Swung \#music
 
 ---
 
-That much-awaited [decoupling](2021/03/goods-materials-growth-hickel.md#decouple)
+That much-awaited [decoupling](../../2021/03/goods-materials-growth-hickel.md#decouple)
 did not take place. In the umpteenth step of a fully fledged knowledge econ (3W),
 maybe, it cld happen. But we are far off from that.
 
@@ -452,7 +452,7 @@ US negotiating limits on the nuke arsenal?
 
 ---
 
-NK strat called for NK [not giving up on nukes](2021/03/unrivaled-beckley.md#noko).
+NK strat called for NK [not giving up on nukes](../../2021/03/unrivaled-beckley.md#noko).
 What changed?
 
 ---
