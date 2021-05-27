@@ -47,10 +47,7 @@ new jobs and help position Australia as a #renewable energy leader"
 ---
 
 TR is beaten by MEXICO. Mexico, with all its problems with drug
-cartels, is better off.. But then again, according to some recent
-revelations TR is becoming a major drug center of her own.
-
-Innovators go out, coke dealers come in.
+cartels, is better off.. 
 
 ---
 
