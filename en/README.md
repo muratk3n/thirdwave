@@ -16,22 +16,6 @@ acres in Pecos County Texas"
 
 ---
 
-Huhh uhhh uhhh he said "organ"
-
----
-
-Alan Hawkshaw - Soul Organ Impromptu \#music
-
-[Link](https://youtu.be/qYhsoxFO21Q)
-
----
-
-And it was...
-
-<iframe width="340"  src="https://www.youtube.com/embed/OmLRwMo8XLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 "The Eiffel Tower will be illuminated with certified #renewablehydrogen
 electricity on Tuesday evening"
 
@@ -131,12 +115,6 @@ a bad, tough guy, but he mopes and cries like a little girl.
 
 "John Cena: Fast and Furious star ... posts a video apology in Chinese
 after describing Taiwan as a "country""
-
----
-
-Mother's Worry - Spy-Fi \#music
-
-[Link](https://youtu.be/YCHfiNJgj3o)
 
 ---
 
