@@ -57,14 +57,11 @@ bwak!"...
 
 ---
 
-Democracy goes, innovative people leave.. 
-
----
-
 GDP Per Capita fell for TR dramatically, a trend since 2013. Probably
-coincides with degradation of its democracy. WB API doesnt have
-numbers for 2020, but most state it did not get better. Some estimates
-even place the current number to be around $7000. Sad.
+coincides with degradation of its democracy (dem goes, innovative
+people leave). WB API doesnt have numbers for 2020, but most state it
+did not get better. Some estimates even place the current number to be
+around $7000. Sad.
 
 
 ```python
