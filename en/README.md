@@ -55,8 +55,6 @@ abroad, with their chicken coops in crooked trucks...  The truck hits
 a bump and the chicken jump "bwak bwak bwak bwak! bwak bwak bwak
 bwak!"... 
 
-Must aim for quality.
-
 ---
 
 Democracy goes, innovative people leave.. 
