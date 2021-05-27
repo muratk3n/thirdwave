@@ -43,17 +43,17 @@ new jobs and help position Australia as a #renewable energy leader"
 ---
 
 TR is beaten by MEXICO. Mexico, with all its problems with drug
-cartels is better off.. But then again, according to some recent
+cartels, is better off.. But then again, according to some recent
 revelations TR is becoming a major drug center of her own.
 
 Innovators go out, coke dealers come in.
 
 ---
 
-The solution isnt "more people", or importing bunch of f-ing morons
-from abroad, with their chicken coops and shit, in a crooked trucks...
-The truck hits a bump and the chicken jump "bwak bwak bwak bwak! bwak
-bwak bwak bwak!"... stuff like that.
+The solution isnt "more people", or importing bunch of idiots from
+abroad, with their chicken coops in crooked trucks...  The truck hits
+a bump and the chicken jump "bwak bwak bwak bwak! bwak bwak bwak
+bwak!"... 
 
 Must aim for quality.
 
