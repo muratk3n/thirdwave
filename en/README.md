@@ -20,8 +20,9 @@ country"
 
 ---
 
-No war is surely better. I am saying If there is an option for defense
-of an ally wout much downside, the exec better freaking know it.
+No war is surely better. I am saying If there is an option to help
+defend an ally wout much downside, the exec better freaking know about
+it..
 
 ---
 
