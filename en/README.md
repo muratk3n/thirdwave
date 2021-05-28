@@ -59,7 +59,7 @@ managed at the very top of both governments"
 
 ---
 
-CCP lovin Kusshhhhh 
+China lovin Kusshhhhh 
 
 "It soon became clear to the [China] hawks that Kushner’s instincts
 led him to agree more with the finance executives and billionaires he
