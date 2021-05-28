@@ -107,6 +107,8 @@ impose political control.' According to U.S. intelligence assessments,
 'the level of corruption in the PLA at least equals, and probably far
 exceeds, the level of corruption in the civilian economy.'...
 
+<a name='taiwan'/>
+
 [In a conflict with Taiwan] China would try to sink merchant
 ships supplying Taiwan, but rigorous research suggests that the PLA
 could sink only 1 to 6 percent of Taiwan’s shipping, and these results

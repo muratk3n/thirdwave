@@ -1,123 +1,116 @@
 # Tweets
 
-"@Cummins
 
-@Cummins is locating one of the world’s largest electrolyzer plants in
-Spain to produce green hydrogen"
+"Oman plans to build world's largest green hydrogen plant"
 
-[Link](https://twitter.com/Cummins/status/1396765441020899331)
+[Link](https://t.co/1t6DKmb9Xz?amp=1)
 
 ---
 
-"[MMEX Resources Corp] .. signed agreement to purchase additional 324
-acres in Pecos County Texas"
-
-[Link](https://bit.ly/3hSqPWv)
+No war is obviously better. I am saying If there is an option for some
+defense w little casualties the exec better freaking know it.
 
 ---
 
-"Biden Calls for Intelligence Report on Origins of Covid-19"
+Not necessarily one expert.. get many, see the mix.. If the right ppl
+are in the room, like [this guy](2021/03/unrivaled-beckley.md#taiwan),
+the mix will be good.
 
 ---
 
-"The Eiffel Tower will be illuminated with certified #renewablehydrogen
-electricity on Tuesday evening"
-
-[Link](https://bit.ly/3wwn5Ol)
+That comment is the half-assed analysis you'd expect from an
+outsider.. Need to talk to EXPERTS to get the base facts of the
+situation.. Cant be like 'ew that looks round, that's like far'.. 🤷‍♂️
 
 ---
 
-"Momentum Grows in Queensland’s Hydrogen Sector With Addition of Two
-More Technology Clusters.. The two new clusters join the #H2TCA, the
-national network of 13 clusters unveiled in February"
+That's completely wrong
 
-[Link](https://bit.ly/2ThzRCd)
+"Taiwan is like two feet from China," Trump told the senator. "We are
+eight thousand miles away. If they invade, there isn't a f... thing
+we can do about it"
+
+---
+
+"[F]or a time, Kushner and his conciliatory views toward China seemed
+to have won out. After Trump's inauguration .., Kushner was the
+official who had the direct line to Beijing, so he had the most
+influence. He was listening to Henry Kissinger, Mnuchin, Cohn, and the
+billionaires, all of whom steered him toward a friendly relationship
+managed at the very top of both governments"
+
+\#rogin \#book
+
+---
+
+"Mnuchin, the former investment banker and movie producer, became the
+head of the Treasury Department and the lead official for dealing with
+Beijing on trade negotiations, along with Lighthizer. He also played a
+complex and covert game pushing back against the China hawks inside
+the system for years, defending the interests of his Wall Street
+associates and, some would say, the pro-China lobby in Washington"
+
+\#rogin \#book
+
+---
+
+"During the campaign, dozens of GOP foreign policy establishment
+figures signed public letters condemning Trump's candidacy. Those who
+didn't sign such letters were privately pressured not to join Trump's
+movement. That's why Trump had to rely on amateurs and unknown
+outsiders like George Papadopoulos, Carter Page, and J. D. Gordon to
+staff him on foreign policy during the campaign. They weren't Russian
+assets. They were fringe players in the GOP foreign policy scene who
+loved the idea of a huge payoff from a longshot bet on a kooky
+candidate"
+
+\#rogin \#book
+
+---
+
+Saw a shopping dist, some cafes got crushed, supermarkets took over in
+their place
+
+---
+
+"U.S. Senators Heinrich, Luján, Fernández Push Biden Administration To
+Prioritize #HydrogenEconomy"
+
+---
+
+Total! Excellent news.. fossil mfkers can transition easy to the new
+thing.. it will benefit them and the env
+
+"France: @Total Acquires 20% Stake in #Hydrogen Taxi Provider Hysetco"
+
+---
+
+"Almatech is set to develop a #zeroemission electric passenger ship
+powered by the hydrogen fuelcells system"
+
+[Link](https://bit.ly/3yIJ2eW )
 
 ---
 
 "@H2MobilityAus
 
-Significant announcement at the #AusHydrogenConf with @DrLarryMarshall
-unveiling @CSIRO's new Hydrogen Industry Mission. The $68m research
-mission will support the world’s transition to decarbonisation, create
-new jobs and help position Australia as a #renewable energy leader"
+.. Updates on the HySupply partnership and why Germany is eager to
+explore Australian hydrogen from BDI and UNSW"
 
-[Link](https://twitter.com/H2MobilityAus/status/1397424107260571648)
+[Link](https://mobile.twitter.com/H2MobilityAus/status/1397729193375322114)
 
 ---
 
-TR is beaten by MEXICO. Mexico, with all its problems with drug
-cartels 🤨 is better off.. 
+"Iran bans bitcoin mining as its cities suffer blackouts and power
+shortages"
 
 ---
 
-The solution isnt "more people", or importing bunch of idiots from
-abroad, with their chicken coops and shit, in crooked trucks...  The
-truck hits a bump and the chicken jump "bwak bwak bwak bwak! bwak bwak
-bwak bwak!". No.
-
----
-
-GDP Per Capita fell for TR dramatically since 2013. Probably coincides
-with degradation of its democracy (dem goes, innovative people
-leave). WB API doesnt have numbers for 2020, but most state it did not
-get better. Some estimates even place the current number to be around
-$7000. Sad.
-
-
-```python
-from pandas_datareader import data, wb
-import pandas as pd
-
-dat = wb.download(indicator='NY.GDP.PCAP.CD', country=['TR','GR','MX'], start=2010, end=2020)
-df = dat.reset_index()
-df = df.sort_values('year')
-df = df.set_index('year')
-pd.set_option('display.max_columns', None)
-df2 = pd.concat((df[df['country']=='Greece'],\
-                 df[df['country']=='Turkey'],\
-                 df[df['country']=='Mexico']),axis=1)
-df2.columns = ['c1','GR','c2','TR','c3','MX']
-print (df2[['GR','MX','TR']].dropna().tail(3))
-df2[['GR','TR','MX']].plot()
-plt.savefig('out.png')
-```
-
-```text
-                GR           MX            TR
-year                                         
-2017  18930.218628  9287.849736  10591.474371
-2018  20324.304992  9686.513783   9455.593654
-2019  19580.988331  9946.033829   9126.561346
-```
-
-<img width="340" src="https://pbs.twimg.com/media/E2TzbPCXMAAAKdP?format=png&name=small"/>
-
----
-
-That's a good idea.
-
-"The European Parliament’s annual report on Turkey suggests placing
-Turkey’s far-right Grey Wolves on the EU terrorist list."
-
----
-
-The upcoming movie is ruined for me now.. I thought was going to watch
-a bad hombre, but he mopes and cries like a little girl.
-
----
-
-🤣 Big tough guy.. money talked bro squirmed
-
-"John Cena: Fast and Furious star ... posts a video apology in Chinese
-after describing Taiwan as a "country""
-
----
-
-Politico: "Democrats back growing calls for Congress to probe lab leak
-theory... The ongoing discussions on Capitol Hill represent a
-remarkable bipartisan agreement that Congress should investigate the
-origins of a virus that has killed 3.5 million people worldwide"
+"Canada wants to force YouTube, TikTok and other video- and
+audio-sharing sites to prominently feature the country’s artists, a
+move that digital-law experts and former government officials call one
+of the most aggressive internet regulations yet from a Western
+country"
 
 ---
 
