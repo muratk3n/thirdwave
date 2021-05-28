@@ -58,6 +58,19 @@ managed at the very top of both governments"
 
 ---
 
+CCP lovin Kusshhhhh 
+
+"Kushner was not a part of the “China team,” but only because he was
+part of his own faction, the Trump family. That faction was the best
+one to be in. The Trump Organization was a family business and Kushner
+had grown up in his own. It soon became clear to the hawks that
+Kushner’s instincts led him to agree more with the finance executives
+and billionaires he had known his whole life"
+
+\#rogin \#book
+
+---
+
 "Mnuchin, the former investment banker and movie producer, became the
 head of the Treasury Department and the lead official for dealing with
 Beijing on trade negotiations, along with Lighthizer. He also played a
