@@ -30,6 +30,8 @@ Well *that's* completely wrong
 eight thousand miles away. If they invade, there isn't a f... thing
 we can do about it"
 
+\#rogin \#book
+
 ---
 
 "[F]or a time, Kushner and his conciliatory views toward China seemed
