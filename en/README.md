@@ -44,7 +44,7 @@ Well *that's* completely wrong
 eight thousand miles away. If they invade, there isn't a f... thing
 we can do about it"
 
-\#rogin \#book
+\#rogin 
 
 ---
 
@@ -55,7 +55,7 @@ influence. He was listening to Henry Kissinger, Mnuchin, Cohn, and the
 billionaires, all of whom steered him toward a friendly relationship
 managed at the very top of both governments"
 
-\#rogin \#book
+\#rogin 
 
 ---
 
@@ -65,7 +65,7 @@ China lovin Kusshhhhh
 led him to agree more with the finance executives and billionaires he
 had known his whole life"
 
-\#rogin \#book
+\#rogin 
 
 ---
 
@@ -76,7 +76,7 @@ complex and covert game pushing back against the China hawks inside
 the system for years, defending the interests of his Wall Street
 associates and, some would say, the pro-China lobby in Washington"
 
-\#rogin \#book
+\#rogin 
 
 ---
 
@@ -90,7 +90,13 @@ assets. They were fringe players in the GOP foreign policy scene who
 loved the idea of a huge payoff from a longshot bet on a kooky
 candidate"
 
-\#rogin \#book
+\#rogin 
+
+---
+
+Excerpts from *Chaos Under Heaven* book
+
+\#rogin
 
 ---
 
