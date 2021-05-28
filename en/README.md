@@ -40,9 +40,9 @@ situation.. Cant be like 'ew that looks round, that's like far'.. 🤷‍♂️
 
 Well *that's* completely wrong
 
-"Taiwan is like two feet from China," Trump told the senator. "We are
+"'Taiwan is like two feet from China,' Trump told the senator. 'We are
 eight thousand miles away. If they invade, there isn't a f... thing
-we can do about it"
+we can do about it'"
 
 \#rogin 
 
