@@ -7,8 +7,21 @@
 
 ---
 
-No war is obviously better. I am saying If there is an option for some
-defense w little casualties the exec better freaking know it.
+"Iran bans bitcoin mining as its cities suffer blackouts and power
+shortages"
+
+---
+
+"Canada wants to force YouTube, TikTok and other video- and
+audio-sharing sites to prominently feature the country’s artists, a
+move that digital-law experts and former government officials call one
+of the most aggressive internet regulations yet from a Western
+country"
+
+---
+
+No war is surely better. I am saying If there is an option for defense
+of an ally w little casualties the exec better freaking know it.
 
 ---
 
@@ -100,19 +113,6 @@ powered by the hydrogen fuelcells system"
 explore Australian hydrogen from BDI and UNSW"
 
 [Link](https://mobile.twitter.com/H2MobilityAus/status/1397729193375322114)
-
----
-
-"Iran bans bitcoin mining as its cities suffer blackouts and power
-shortages"
-
----
-
-"Canada wants to force YouTube, TikTok and other video- and
-audio-sharing sites to prominently feature the country’s artists, a
-move that digital-law experts and former government officials call one
-of the most aggressive internet regulations yet from a Western
-country"
 
 ---
 
