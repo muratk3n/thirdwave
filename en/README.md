@@ -1,135 +1,44 @@
 # Tweets
 
+"German Government is launching 62 Large-Scale #Hydrogen Projects. 'We
+want to become number 1 in the world in hydrogen technologies'"
 
-"Oman plans to build world's largest green hydrogen plant"
-
-[Link](https://t.co/1t6DKmb9Xz?amp=1)
-
----
-
-"Iran bans bitcoin mining as its cities suffer blackouts and power
-shortages"
+[Link](https://bit.ly/3wHzkYO)
 
 ---
 
-"Canada wants to force YouTube, TikTok and other video- and
-audio-sharing sites to prominently feature the country’s artists, a
-move that digital-law experts and former government officials call one
-of the most aggressive internet regulations yet from a Western
-country"
+"San Jose gunman stockpiled weapons and 22,000 rounds of ammunition"
 
 ---
 
-No war is surely better. I am saying If there is an option to help
-defend an ally wout much downside, the exec better freaking know about
-it..
+"Approximately 2.6 billion kilograms of carbon monoxide and 5.2
+billion kilograms of methane are released into the air annually
+from cigarettes alone"
 
 ---
 
-Not necessarily one expert.. get many, see the mix.. If the right ppl
-are in the room, like [this guy](2021/03/unrivaled-beckley.md#taiwan),
-the mix will be good.
+Smoking wld produce a lot of carbon too wouldn't it?
+
+"Number of smokers has reached all-time high of 1.1 billion, study finds"
 
 ---
 
-That comment is the half-assed analysis you'd expect from an
-outsider.. Need to talk to EXPERTS to get the base facts of the
-situation.. Cant be like 'ew that looks round, that's like far'.. 🤷‍♂️
+Jacobin: "The Sackler family behind Purdue Pharma became incredibly
+rich off of America’s opioid crisis. Now, they are trying to shield
+themselves from the punishment for creating that crisis"
 
 ---
 
-Well *that's* completely wrong
+"Once online, the [Oman] plant will use renewable energy to split water
+in an electrolyser to produce green hydrogen, which is able to replace
+fossil fuels without producing carbon emissions. Most will be exported
+to Europe and Asia, said Alicia Eastman, the co-founder and president
+of InterContinental Energy, either as hydrogen or converted into green
+ammonia, which is easier to ship and store. The facility aims to
+produce 1.8m tonnes of green hydrogen and up to 10m tonnes of green
+ammonia a year"
 
-"'Taiwan is like two feet from China,' Trump told the senator. 'We are
-eight thousand miles away. If they invade, there isn't a f... thing
-we can do about it'"
-
-\#rogin 
-
----
-
-"[F]or a time, Kushner and his conciliatory views toward China seemed
-to have won out. After Trump's inauguration .., Kushner was the
-official who had the direct line to Beijing, so he had the most
-influence. He was listening to Henry Kissinger, Mnuchin, Cohn, and the
-billionaires, all of whom steered him toward a friendly relationship
-managed at the very top of both governments"
-
-\#rogin 
-
----
-
-China lovin Kusshhhhh 
-
-"It soon became clear to the [China] hawks that Kushner’s instincts
-led him to agree more with the finance executives and billionaires he
-had known his whole life"
-
-\#rogin 
-
----
-
-"Mnuchin, the former investment banker and movie producer, became the
-head of the Treasury Department and the lead official for dealing with
-Beijing on trade negotiations, along with Lighthizer. He also played a
-complex and covert game pushing back against the China hawks inside
-the system for years, defending the interests of his Wall Street
-associates and, some would say, the pro-China lobby in Washington"
-
-\#rogin 
-
----
-
-"During the campaign, dozens of GOP foreign policy establishment
-figures signed public letters condemning Trump's candidacy. Those who
-didn't sign such letters were privately pressured not to join Trump's
-movement. That's why Trump had to rely on amateurs and unknown
-outsiders like George Papadopoulos, Carter Page, and J. D. Gordon to
-staff him on foreign policy during the campaign. They weren't Russian
-assets. They were fringe players in the GOP foreign policy scene who
-loved the idea of a huge payoff from a longshot bet on a kooky
-candidate"
-
-\#rogin 
-
----
-
-Excerpts from *Chaos Under Heaven* book
-
-\#rogin
-
----
-
-Saw a shopping dist, some cafes got crushed, supermarkets took over in
-their place
-
----
-
-"U.S. Senators Heinrich, Luján, Fernández Push Biden Administration To
-Prioritize #HydrogenEconomy"
-
----
-
-Total! Excellent news.. fossil mfkers can transition easy to the new
-thing.. it will benefit them and the env
-
-"France: @Total Acquires 20% Stake in #Hydrogen Taxi Provider Hysetco"
-
----
-
-"Almatech is set to develop a #zeroemission electric passenger ship
-powered by the hydrogen fuelcells system"
-
-[Link](https://bit.ly/3yIJ2eW )
-
----
-
-"@H2MobilityAus
-
-.. Updates on the HySupply partnership and why Germany is eager to
-explore Australian hydrogen from BDI and UNSW"
-
-[Link](https://mobile.twitter.com/H2MobilityAus/status/1397729193375322114)
+[Link](https://amp.theguardian.com/world/2021/may/27/oman-plans-to-build-worlds-largest-green-hydrogen-plant)
 
 ---
 
