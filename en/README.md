@@ -2,8 +2,8 @@
 
 
 Sounds like she was canceled.. Cotton joined in that pile on? Dont
-some of these mfkers complain about the cancel culture? Congrats bozo,
-now u are the instigator.
+some of these mfkers complain about cancel culture? Congrats bozo, now
+u are the instigator.
 
 <iframe width="200" src="https://www.youtube.com/embed/1gBmlQXXrfQ?start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
