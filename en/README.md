@@ -1,52 +1,97 @@
 # Tweets
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This <a href="https://twitter.com/Monash_Science?ref_src=twsrc%5Etfw">@Monash_Science</a>-developed fuel cell effectively “bottles” sunshine and wind, turning them into into energy-rich ammonia that can be liquified and shipped worldwide. ☀️<a href="https://t.co/z1GINdOge9">https://t.co/z1GINdOge9</a><a href="https://twitter.com/DRMacFarlane?ref_src=twsrc%5Etfw">@DRMacFarlane</a> <a href="https://twitter.com/hashtag/ChangeIt?src=hash&amp;ref_src=twsrc%5Etfw">#ChangeIt</a> <a href="https://t.co/PqIclQ2LtW">pic.twitter.com/PqIclQ2LtW</a></p>&mdash; Monash University (@MonashUni) <a href="https://twitter.com/MonashUni/status/1392087136300675075?ref_src=twsrc%5Etfw">May 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Sounds like she was canceled.. Cotton was in on that pile on? Dont
+some of these mfkers complain about the cancel culture? Congrats, u r
+now part of it.
+
+<iframe width="200" src="https://www.youtube.com/embed/1gBmlQXXrfQ?start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-"German Government is launching 62 Large-Scale #Hydrogen Projects. 'We
-want to become number 1 in the world in hydrogen technologies'"
+One country / continent with 219,000 TWh of annual potential. That is
+just insane.
 
-[Link](https://bit.ly/3wHzkYO)
-
----
-
-"San Jose gunman stockpiled weapons and 22,000 rounds of ammunition"
+It's great!
 
 ---
 
-"Approximately 2.6 billion kilograms of carbon monoxide and 5.2
-billion kilograms of methane are released into the air annually
-from cigarettes alone"
+According to IEA world energy consumption for 2013 was estimated to be
+157,481 Terrawatt hours. In one year Oz can produce
+
+```python
+print ((25000 * 24 * 365) / 1000, 'TWh')
+```
+
+```text
+219000.0 TWh
+```
+
+.. meaning single-handedly Oz could produce *more* energy required for
+the entire world, using completely renewable resources 😶
 
 ---
 
-Smoking wld produce a lot of carbon too wouldn't it?
+Is this serious? That number is crazy.. 
 
-"Number of smokers has reached all-time high of 1.1 billion, study finds"
-
----
-
-Jacobin: "The Sackler family behind Purdue Pharma became incredibly
-rich off of America’s opioid crisis. Now, they are trying to shield
-themselves from the punishment for creating that crisis"
+"Australia receives more sunlight per square meter than just about any
+other country. Its south and west coasts are also buffeted by powerful
+winds. Overall, the country boasts a renewable energy potential of
+25,000 gigawatts"
 
 ---
 
-"Once online, the [Oman] plant will use renewable energy to split water
-in an electrolyser to produce green hydrogen, which is able to replace
-fossil fuels without producing carbon emissions. Most will be exported
-to Europe and Asia, said Alicia Eastman, the co-founder and president
-of InterContinental Energy, either as hydrogen or converted into green
-ammonia, which is easier to ship and store. The facility aims to
-produce 1.8m tonnes of green hydrogen and up to 10m tonnes of green
-ammonia a year"
+It can be stored at room temparature, major advantage
 
-[Link](https://amp.theguardian.com/world/2021/may/27/oman-plans-to-build-worlds-largest-green-hydrogen-plant)
+"Research also indicates that the energy density by volume of ammonia
+is nearly double that of liquid hydrogen, its primary competitor as a
+green alternative fuel. Ammonia is also much easier to ship and
+distribute"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“We are making Germany a <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> country,” Transport Minister Andreas Scheuer. <a href="https://twitter.com/hashtag/renewableenergy?src=hash&amp;ref_src=twsrc%5Etfw">#renewableenergy</a> <a href="https://twitter.com/hashtag/transport?src=hash&amp;ref_src=twsrc%5Etfw">#transport</a> <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://t.co/lRPw2Gzm3n">https://t.co/lRPw2Gzm3n</a></p>&mdash; Graham Cooley (@GrahamCooley4) <a href="https://twitter.com/GrahamCooley4/status/1398373438864166913?ref_src=twsrc%5Etfw">May 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"In 2018, Douglas MacFarlane, a professor of chemistry at Monash
+University in Australia, developed fuel cells that can transform
+renewable electricity into ammonia... MacFarlane’s fuel cells operate
+in reverse, making carbon-free fuel from electricity
+
+'This is breathing nitrogen in and breathing ammonia out,' said
+MacFarlane, showing his fuel cell. It is almost the size of a hockey
+puck and clad in stainless steel. Two plastic tubes on the cell’s
+backside feed it nitrogen gas and water. It has a power cord for
+electricity and a third tube on the front that silently exhales
+ammonia"
+
+[Link](http://www.power.news/2021-05-06-chemist-develops-ammonia-fuel-cells.html)
+
+---
+
+Van Wilder knows how to party! 
+
+---
+
+Yeah [that's you](https://pbs.twimg.com/media/EXumlWcXsAIQNdx?format=jpg&name=small)
+
+---
+
+This guy is talking out of his ass..
+
+I would expect nothing less from a company founded by ADOLF HITLER
+
+"VW CEO says fuel cell cars 'not the answer'"
+
+---
+
+Class is weird in UK. Actor Dominic West, from Jimmy "Fuckin" McNulty
+fame, in *The Wire*, says when he met one director and he first looked
+at him he commented "posh". As in he labeled him as posh. Funny thing
+is West mostly played working class roles in his career.
+
+Posh not posh.. who decides these things.. Just by the look it's done?
+
+Damian Lewis would be.. posh?
+
+Jason Statham? Not posh.
 
 ---
 
