@@ -9,6 +9,12 @@ u are the instigator.
 
 ---
 
+If politically gov chooses fossil -> H2 rather than green -> H2 w CCS,
+fine..  Just saying there is immense potential, for many other
+countries as well, Africa, South America..
+
+---
+
 One country / continent with 219,000 TWh of annual potential. That is
 just insane.
 
