@@ -84,7 +84,7 @@ I would expect nothing less from a company founded by ADOLF HITLER
 
 ---
 
-This guy is talking out of his ass..
+Guy is talking out of his ass..
 
 "VW CEO says fuel cell cars 'not the answer'"
 
