@@ -92,8 +92,8 @@ Guy is talking out of his ass..
 
 Class is weird in UK. Actor Dominic West (Jimmy "Fuckin" McNulty, *The
 Wire*), tells a story when he first met one director he just looked at
-him then said "posh". As in he labeled him as a posh type.. Funny
-thing is West mostly played working class roles in his career.
+him and said "posh". As in he labeled him as a posh type.. Funny thing
+is West mostly played working class roles in his career.
 
 Posh not posh.. who decides these things.. Just by the look, and it's
 done? Who wld fall in that bucket?
