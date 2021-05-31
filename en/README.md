@@ -43,8 +43,7 @@ werent either.
 
 There is still a filtering mechanism, and they are at the center of
 it. At least in the developed world where media isn't completely sold
-out.. We want them to be better of course. But they cant be dismissed
-and barbarians at the gates has not produced something bigger yet.
+out.. We want them to be better of course.
 
 ---
 
