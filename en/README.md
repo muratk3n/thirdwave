@@ -26,7 +26,8 @@ official said"
 
 .. after he tried so hard to hang on.. 😢 
 
-"Israeli opposition parties reach agreement to oust Prime Minister Benjamin Netanyahu"
+WaPo: "Israeli opposition parties reach agreement to oust Prime
+Minister Benjamin Netanyahu"
 
 ---
 
