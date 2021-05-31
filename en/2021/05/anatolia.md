@@ -80,16 +80,17 @@ arrogance that can only result from a combination of ignorance with
 untouchable power, that various amateur linguists who had made their
 way into Atatürk’s close circle began to vie with one another in
 proposing word-meanings intended to bolster the Turkish Thesis of
-History. From that evening table, the famous sofra of Kemalist lore
-and legend, a virtual hysteria rose and spread to the rest of the
-elite. Such spasms have marked many hyper-nationalist dictatorial
-cultures. The time, too, was auspicious: Fascism and Nazism were on
-the rise; Mussolini had already come to power in 1922, and Hitler was
-about to do so in 1933. Trolls flourished, and some unbelievable
-etymologies were concocted, all the way to Ancient Greek gods and
-goddesses. Turks and Turkish seemed to have been everywhere, naming
-everything, including South and North America. Hence the Amazon came
-to be derived from amma+uzun (how long it is)...
+History. From that evening table [Kemal's drinking was legendary], the
+famous sofra of Kemalist lore and legend, a virtual hysteria rose and
+spread to the rest of the elite. Such spasms have marked many
+hyper-nationalist dictatorial cultures. The time, too, was auspicious:
+Fascism and Nazism were on the rise; Mussolini had already come to
+power in 1922, and Hitler was about to do so in 1933. Trolls
+flourished, and some unbelievable etymologies were concocted, all the
+way to Ancient Greek gods and goddesses. Turks and Turkish seemed to
+have been everywhere, naming everything, including South and North
+America. Hence the Amazon came to be derived from amma+uzun (how long
+it is)...
 
 As Byzantium’s eastern defences collapsed, more and more Turcoman
 tribes made their way through Azerbaycan to establish new
