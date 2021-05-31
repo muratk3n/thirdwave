@@ -545,13 +545,6 @@ would be out of the question, but would we really miss it?"
 
 ---
 
-There u go.. even the f-ing CCP figured it out
-
-"From driverless cars to robotic warehouses, China looks to automation
-to solve population issues"
-
----
-
 Bcz due to loss of GDP, "growth"? Two ways to increase GDP, either
 through more ppl, eg immigration, 2% more ppl 2% more growth which is
 "dumb growth". Or you produce more per person, GDP Per Capita
