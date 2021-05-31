@@ -7,8 +7,9 @@ Turkish equivalent of the English “Anatolia.” But which led to which?
 Or could both be translations of a third word in some other language?
 Alternatively, is it possible or plausible that the Turkish word came
 first? That, moreover, it was originally a combination of two other
-Turkish words, ana for mother and dolu for full, so that ana+dolu =
-Anadolu must mean “land of mothers” or “a land full of mothers”?.. 
+Turkish words, *ana* for mother and *dolu* for full, so that
+*ana+dolu* = *Anadolu* must mean “land of mothers” or “a land full of
+mothers”?..
 
 This interpretation is not very new. It goes back at least ninety
 years and to a not very nice kind of precedent: the Kemalist Cultural
@@ -26,12 +27,11 @@ modernist nation-state identity and affinity. Islam was not
 wanted. The Ottoman past was not wanted. Ankara was to be counterposed
 to Istanbul. The Society for Research on Turkish History (later the
 TTK, the Turkish Historical Society) counterposed to the Committee on
-Ottoman History (my italics). The Turks had to be associated with
-Europe and the West through both racial and civilizational
-arguments. Last but not least, Anatolia had to be shown to have
-belonged to “us” from time immemorial. All of which implied creating a
-new past conforming to the new present — hence a whole new theory of
-history...
+Ottoman History... The Turks had to be associated with Europe and the
+West through both racial and civilizational arguments. Last but not
+least, Anatolia had to be shown to have belonged to “us” from time
+immemorial. All of which implied creating a new past conforming to the
+new present — hence a whole new theory of history...
 
 It was all topped by the Sun Theory of Language and the Turkish Thesis
 of History. According to the latter, once upon a time there had been a
@@ -47,7 +47,7 @@ was small, there was a map of “The Turks’ Motherland and Routes of
 Migration” that was never taken back to my primary school’s map room
 but used to hang all the time to the front-right of the
 blackboard. From a dark pink blob in Central Asia, thick red arrows
-radiated in all directions...
+radiated in all directions...)
 
 These Turkish movements starting c.7000 BC meant, among other things,
 that “we” had entered Anatolia not after AD 1071 but much earlier,
@@ -92,8 +92,8 @@ have been everywhere, naming everything, including South and North
 America. Hence the Amazon came to be derived from amma+uzun (how long
 it is)...
 
-As Byzantium’s eastern defences collapsed, more and more Turcoman
-tribes made their way through Azerbaycan to establish new
+[In history] As Byzantium’s eastern defences collapsed, more and more
+Turcoman tribes made their way through Azerbaycan to establish new
 homelands.. for themselves in former Roman territory. It was not a
 unified, centralized invasion but a much more diverse and fragmented
 kind of wave under various tribal or semi-tribal war-leaders. Just who
@@ -105,10 +105,7 @@ even if we hypothesize that they did, just where and when did it
 happen? And where might we find it in our sources or primary
 documents?...
 
-So then, in linguistic terms where was Anadolu before the 1071 battle
-of Manzikert (in Armenian) or Malazgirt (in Turkish)? What would you
-suspect, given that for some thousands of years there were all these
-other peoples and languages in Anatolia?
+So then, in linguistic terms where was Anadolu..?
 
 It was always there (or here); it was a Greek word waiting for the
 Turks to arrive. Long before Byzantium, it already existed in Ancient
