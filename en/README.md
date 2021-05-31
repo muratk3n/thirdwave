@@ -15,7 +15,8 @@ swings of crypto prices sound an alarm that every regulator hears'"
 
 ---
 
-And there is that.. but change is good. Fingers crossed
+And there is that.. but change is good. Fingers crossed.. hopefully
+Pals will die less this time. Even that would be an improvement, right?
 
 Haaretz: "The Palestinians believe a Bennett-Lapid government would be
 'extreme rightist' and 'no different' from Benjamin Netanyahu, a PLO
