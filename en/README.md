@@ -31,10 +31,6 @@ Minister Benjamin Netanyahu"
 
 ---
 
-Hopefully Assange is freed. 
-
----
-
 As long as gov is central, concentrated, maximized, we need similar
 institutions in scale that can take them on..
 
