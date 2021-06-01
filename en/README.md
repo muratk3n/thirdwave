@@ -23,9 +23,9 @@ Project"
 ---
 
 The devoutness signal can also be used a means to stratify, create
-hierarchy. If someone buys in, into something this out of whack, which
-by the very nature of its whackiness *surely* leaves out certain
-people, then you automatically are creating yourself an
+hierarchy in society. If someone buys in, into something this out of
+whack, which by the very nature of its whackiness *surely* leaves out
+certain people, then you automatically are creating yourself an
 "in-crowd". It's like a college fraternity, who is allowed in? The
 pledge who puts panties on his head runs around half-naked screaming
 "I am from outerspace" while riding a broom. That's the guy you want,
