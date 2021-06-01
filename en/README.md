@@ -103,7 +103,7 @@ must scarcely have existed at all"
 
 ---
 
-Governance culture is different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
+Governance culture can be different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
 
 >The Persian dominance in Anatolia until Alexander the Great’s
 >conquests in 380 BCE had a great impact on the political structure of
