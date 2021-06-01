@@ -11,6 +11,13 @@ Project"
 
 ---
 
+On paper the identity is "inclusive", but in bizarre ways. Kurds are
+actually "mounain Turks", they can accept that and be included.
+Obviously they won't do that, so u can get mad at them, and leave them
+out, thereby having created your little clique.
+
+---
+
 The devoutness signal can also be used a means to stratify, create
 hierarchy in society. If someone buys in, into something this out of
 whack, which by the very nature of its whackiness *surely* leaves out
