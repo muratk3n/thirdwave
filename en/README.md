@@ -1,13 +1,18 @@
 # Tweets
 
-🤣 🤣 🤣 
+Governance culture is different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
 
-"On Sunday, the Turkish DNA Project took to Twitter to call on Turks to
-boycott Ancestry.com, the largest for-profit genealogy company in the
-world, after results on the website highlighted how non-Turkish groups
-in Anatolia assimilated over time into modern Turks"
+>The Persian dominance in Anatolia until Alexander the Great’s
+>conquests in 380 BCE had a great impact on the political structure of
+>the area (satrap system), but did not fundamentally alter the
+>overwhelmingly Hellenic culture of Anatolia
 
-[Link](https://ahvalnews-com.cdn.ampproject.org/c/s/ahvalnews.com/turkey/online-turkish-group-calls-boycott-ancestrycom-demonising-turks?amp)
+Gaul was invaded by Rome, but how Roman is France? They still carry
+much of their Gaulish culture. 
+
+TR governance is Romanesque, people's culture today is of many things;
+Hellenic, little Celtic, Christianity and Islam (both variants) are
+there, including some migrants (not just "Turks").
 
 ---
 
