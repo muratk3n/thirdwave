@@ -1,19 +1,5 @@
 # Tweets
 
-Governance culture is different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
-
->The Persian dominance in Anatolia until Alexander the Great’s
->conquests in 380 BCE had a great impact on the political structure of
->the area (satrap system), but did not fundamentally alter the
->overwhelmingly Hellenic culture of Anatolia
-
-Gaul was invaded by Rome, but how Roman is France? They still carry
-much of their Gaulish culture. TR governance is Romanesque, people's
-culture today is of many things; Hellenic, little Celtic, Christianity
-and Islam (both variants), including some migrants (not just "Turks").
-
----
-
 <img src="https://pbs.twimg.com/media/E2vFfx_XEAII6AK?format=jpg&name=small"/>
 
 ---
@@ -114,6 +100,20 @@ of view of the bureaucracy and their own leaders. In the towns and
 villages of the provinces, however, the form of the institution, and
 the degree of institutionalization varied greatly; in some places they
 must scarcely have existed at all"
+
+---
+
+Governance culture is different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
+
+>The Persian dominance in Anatolia until Alexander the Great’s
+>conquests in 380 BCE had a great impact on the political structure of
+>the area (satrap system), but did not fundamentally alter the
+>overwhelmingly Hellenic culture of Anatolia
+
+Gaul was invaded by Rome, but how Roman is France? They still carry
+much of their Gaulish culture. TR governance is Romanesque, people's
+culture today is of many things; Hellenic, little Celtic, Christianity
+and Islam (both variants), including some migrants (not just "Turks"). 
 
 ---
 
