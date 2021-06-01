@@ -113,7 +113,8 @@ Governance culture can be different from people culture. As Tolay [said](2020/07
 Gaul was invaded by Rome, but how Roman is France? They still carry
 much of their Gaulish culture. TR governance is Romanesque, people's
 culture today is of many things; Hellenic, little Celtic, Christianity
-and Islam (both variants), including some migrants (not just "Turks"). 
+and Islam (both variants), including, marginally, some migrants (not
+just "Turks").
 
 ---
 
