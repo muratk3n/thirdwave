@@ -50,7 +50,7 @@ John 9:25
 
 ---
 
-Kemal himself was born in Thessaloniki BTW, in today's Greece.
+Kemal himself was born and raised in Thessaloniki BTW, in today's Greece.
 
 He sure as shit didn't look Asiatic.
 
