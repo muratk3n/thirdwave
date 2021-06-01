@@ -110,9 +110,9 @@ Governance culture can be different from people culture. As Tolay [said](2020/07
 >the area (satrap system), but did not fundamentally alter the
 >overwhelmingly Hellenic culture of Anatolia
 
-TR governance is Romanesque (cocksuckers), people's culture today is
-of many things; Hellenic, little Celtic, Christianity and Islam (both
-variants), including, marginally, some migrants (not just "Turks").
+TR governance is Romanesque, people's culture today is of many things;
+Hellenic, little Celtic, Christianity and Islam (both variants),
+including, marginally, some migrants (not just "Turks").
 
 ---
 
