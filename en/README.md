@@ -74,7 +74,7 @@ dragnet in history, you're down right? xoxo, Bezos"
 
 Also you have to download the app to opt-out, can’t do it on web,
 which makes your device a Sidealk beacon unless you go through a
-different opt-out flow/ delete Amazon"
+different opt-out"
 
 ---
 
