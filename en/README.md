@@ -79,7 +79,7 @@ different opt-out flow/ delete Amazon"
 ---
 
 The Guardian: "Amazon US customers have one week to opt out of mass
-wireless sharing Critics raise transparency fears over plan to turn
+wireless sharing. Critics raise transparency fears over plan to turn
 all smart home devices into ‘mesh network’"
 
 ---
