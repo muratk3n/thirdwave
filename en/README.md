@@ -51,7 +51,7 @@ collective liberation"
 ---
 
 My GSI Outdoors boiling [pot](https://pbs.twimg.com/media/E2xhG5YXoAM-M4V?format=jpg&name=small) has a
-snug-fit cover, never gets too hot, cooks perfectly, is light. There is some
+snug-fit cover, lid never gets too hot, cooks perfectly, is light. There is some
 freak science going on in there.. 
 
 ---
