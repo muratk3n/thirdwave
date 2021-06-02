@@ -1,118 +1,92 @@
 # Tweets
 
-<img src="https://pbs.twimg.com/media/E2vFfx_XEAII6AK?format=jpg&name=small"/>
+The Guardian: "Biden corporate tax plan could earn EU and UK billions, study shows"
 
 ---
 
-"Bee’ah And Chinook Sciences Announces Region’s First Waste-To-Hydrogen
-Project"
+Go for it
 
-[Link](https://bit.ly/3i7uVdA)
-
----
-
-The devoutness signal can also be used a means to stratify, create
-hierarchy in society. If someone buys in, into something this out of
-whack, which by the very nature of its whackiness *surely* leaves out
-certain people, then you automatically are creating yourself an
-"in-crowd". It's like a college fraternity, who is allowed in? The
-pledge who puts panties on his head runs around half-naked screaming
-"I am from outerspace" while riding a broom. That's the guy you want,
-right? He is signaling he *really* wants to be in the club.
+Bloomberg: "Instacart Wants to Replace Army of Gig Shoppers With
+Robots"
 
 ---
 
-Tigger national narrative being so broken creates many unwanted
-side-effects. Because the narrative is bizarre, only the most devout
-can buy into it wholesale. Then higher-ups can use that buy-in as a
-signal, to weed out normals, allowing in fanatics. Those fanatics you
-can direct anywhere, to your mafiatic organizations, extrajudicial
-killings, whatever.
+"@Greene_DM
+
+It is difficult to overstate the degree to which the Gates Foundation
+turned education into a field for venture capital: long-shot
+investments reorganizing whole states and schools, that mostly fail,
+in the search for high-scoring unicorns"
+
+[Link](https://mobile.twitter.com/Greene_DM/status/1399344835727966210)
 
 ---
 
-Surah Al-Hajj - 46
+"@RachelBarkow
+
+Doesn't anyone fact check opinion columnists @nytimes? Because police
+budgets have largely increased around the country, not decreased, and
+homicides are up in cities with increased police budgets as well as
+those that have stayed the same"
+
+>@nytimes
+>In Opinion "They got what they wanted," former NYPD and LAPD
+>commissioner Bill Bratton tells @MaureenDowd. "They defunded the
+>police. What do they get? Rising crime
+
+[Link](https://mobile.twitter.com/RachelBarkow/status/1398980129188089864)
 
 ---
 
-John 9:25
+Demilitarize US To Palestine
+
+"We condemn the continuation of these militarized practices used to
+repress marginalized communities. We know that freedom from state
+violence in the U.S. is deeply intertwined with freedom from state
+violence in Palestine — recognizing this is the first step towards our
+collective liberation"
+
+[Link](https://demilitarizeu2p.org/)
 
 ---
 
-Kemal himself was born and raised in Thessaloniki BTW, in today's Greece.
-
-He sure as shit didn't look Asiatic.
-
----
-
-It's true.. for someone who wanted science based, pro-Western reforms,
-Kemal was pretty [unscientific](2021/05/anatolia.md#unscientific) in
-his approach to history.
+My GSI Outdoors boiling [pot](https://pbs.twimg.com/media/E2xhG5YXoAM-M4V?format=jpg&name=small) has a
+snug-fit cover, never gets too hot, cooks perfectly, is light. There is some
+freak science going on in there.. 
 
 ---
 
-[Anatolia](2021/05/anatolia.md)
+[Pandering to the crowd](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)
+is profitable for companies as well, and now, for big tech. Users
+think they are "changing the world" by dancing on TikTok, engagement increases,
+more money for the platform.
 
 ---
 
-"@NektariaAna
+"@internetofshit
 
-Istanbul Greek Idiom #25: Α mansion on the shores of the Bosporus is
-called γιαλί/yalí. The word descends from the Ancient Greek
-αιγιαλός/eyialós (seashore) and has passed into Turkish as *yalı*"
-
----
-
-I didnt have to use braces after `\dot`? Why didnt you say so foo!
-
-`\dot{X}` -> $\dot{X}$
-
-`\dot X` -> $\dot X$. 
-
-Still $\LaTeX$ is awesome
+Hey it's Amazon here, we're opting you into the largest surveillance
+dragnet in history, you're down right? xoxo, Bezos"
 
 ---
 
-"[There] is an effort led by Secretary of Energy Ken Wagner to drive
-commitments of $1 billion of investment to develop a hydrogen fuel
-industry in Oklahoma. Such an industry could yield investments in new
-power and processing plants, retrofitting existing gas power plants,
-pipeline expansion, fuel storage, trucking company opportunities and
-carbon sequestration.
+"@cullend
 
-'As of right now, it’s my No. 1 priority,' Wagner said. 'This is the
-one technology that is complementary to all of our best resources. (…)
-I think the long-term impact is tremendous.'"
-
-[Link](https://nondoc.com/2021/05/24/oklahoma-could-be-epicenter-of-hydrogen-fuel-industry/)
+Also you have to download the app to opt-out, can’t do it on web,
+which makes your device a Sidealk beacon unless you go through a
+different opt-out flow/ delete Amazon"
 
 ---
 
-Much interaction between peoples.
-
-Grillo, *Pluralism and Politics of Difference*: "From the seventeenth
-centuiy, [the Ottoman] *millet* [a system whereby peoples usually
-grouped under religion, eg. Armenian millet] was 'probably current' in
-the offices of the central government... In sum, then, *millets* were
-institutions which were quite heavily organized at the top and at the
-centre (in Istanbul) and thus 'existed' in some sense from the point
-of view of the bureaucracy and their own leaders. In the towns and
-villages of the provinces, however, the form of the institution, and
-the degree of institutionalization varied greatly; in some places they
-must scarcely have existed at all"
+The Guardian: "Amazon US customers have one week to opt out of mass
+wireless sharing Critics raise transparency fears over plan to turn
+all smart home devices into ‘mesh network’"
 
 ---
 
-Governance culture can be different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
+Tap that
 
->The Persian dominance in Anatolia until Alexander the Great’s
->conquests in 380 BCE had a great impact on the political structure of
->the area (satrap system), but did not fundamentally alter the
->overwhelmingly Hellenic culture of Anatolia
-
-TR governance is (sadly) Roman, people's culture today is of many
-things; Hellenic, little Celtic, Christianity and Islam (both
-variants), including, marginally, some migrants (not just "Turks").
+"The EU is finally ready to tap [debt] markets in a $900 billion stimulus push"
 
 ---
 
