@@ -46,12 +46,12 @@ He sure as shit didn't look Asiatic.
 ---
 
 It's true.. for someone who wanted science based, pro-Western reforms,
-Kemal was pretty [unscientific](2021/05/anatolia.md#unscientific) in
+Kemal was pretty [unscientific](../../2021/05/anatolia.md#unscientific) in
 his approach to history.
 
 ---
 
-[Anatolia](2021/05/anatolia.md)
+[Anatolia](../../2021/05/anatolia.md)
 
 ---
 
@@ -103,7 +103,7 @@ must scarcely have existed at all"
 
 ---
 
-Governance culture can be different from people culture. As Tolay [said](2020/07/migrations-anatolia.md)
+Governance culture can be different from people culture. As Tolay [said](../../2020/07/migrations-anatolia.md)
 
 >The Persian dominance in Anatolia until Alexander the Great’s
 >conquests in 380 BCE had a great impact on the political structure of

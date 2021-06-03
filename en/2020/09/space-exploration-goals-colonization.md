@@ -18,6 +18,13 @@ probes, or a habitat and ascent vehicle for a crew of two astronauts
 to explore Venus for up to a month. Such a mission would require less
 time to complete than a crewed Mars mission"
 
+<a name='lando'/>
+
+Great idea but a new name with a different acronym than HAVOC might be
+called for, I propose **L**evitating **A**irbor**N**e **DO**me -
+LANDO, also the name of a character in *Star Wars*, the leader of a
+floating city.
+
 ### O'Neill Cylinders
 
 <a name='oneill'/>
