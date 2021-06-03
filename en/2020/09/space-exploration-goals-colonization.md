@@ -1,6 +1,6 @@
 # Space Exploration Goals, Human Colonization
 
-### Venus
+Venus
 
 <a name='venus'/>
 
@@ -25,7 +25,7 @@ called for, I propose **L**evitating **A**irbor**N**e **DO**me -
 LANDO, also the name of a character in *Star Wars*, the leader of a
 floating city.
 
-### O'Neill Cylinders
+O'Neill Cylinders
 
 <a name='oneill'/>
 
