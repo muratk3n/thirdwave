@@ -1,5 +1,95 @@
 # Week 22
 
+The Guardian: "Biden corporate tax plan could earn EU and UK billions, study shows"
+
+---
+
+Go for it
+
+Bloomberg: "Instacart Wants to Replace Army of Gig Shoppers With
+Robots"
+
+---
+
+"@Greene_DM
+
+It is difficult to overstate the degree to which the Gates Foundation
+turned education into a field for venture capital: long-shot
+investments reorganizing whole states and schools, that mostly fail,
+in the search for high-scoring unicorns"
+
+[Link](https://mobile.twitter.com/Greene_DM/status/1399344835727966210)
+
+---
+
+"@RachelBarkow
+
+Doesn't anyone fact check opinion columnists @nytimes? Because police
+budgets have largely increased around the country, not decreased, and
+homicides are up in cities with increased police budgets as well as
+those that have stayed the same"
+
+>@nytimes
+>In Opinion "They got what they wanted," former NYPD and LAPD
+>commissioner Bill Bratton tells @MaureenDowd. "They defunded the
+>police. What do they get? Rising crime
+
+[Link](https://mobile.twitter.com/RachelBarkow/status/1398980129188089864)
+
+---
+
+Demilitarize US To Palestine
+
+"We condemn the continuation of these militarized practices used to
+repress marginalized communities. We know that freedom from state
+violence in the U.S. is deeply intertwined with freedom from state
+violence in Palestine — recognizing this is the first step towards our
+collective liberation"
+
+[Link](https://demilitarizeu2p.org/)
+
+---
+
+My GSI Outdoors boiling [pot](https://pbs.twimg.com/media/E2xhG5YXoAM-M4V?format=jpg&name=small) has a
+snug-fit cover, lid never gets too hot, cooks perfectly, is light. There is some
+freak science going on in there.. 
+
+---
+
+[Pandering to the crowd](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)
+is profitable for companies as well, and now, for big tech. Users
+think they are "changing the world" by dancing on TikTok, engagement increases,
+more money for the platform.
+
+---
+
+"@internetofshit
+
+Hey it's Amazon here, we're opting you into the largest surveillance
+dragnet in history, you're down right? xoxo, Bezos"
+
+---
+
+"@cullend
+
+Also you have to download the app to opt-out, can’t do it on web,
+which makes your device a Sidealk beacon unless you go through a
+different opt-out"
+
+---
+
+The Guardian: "Amazon US customers have one week to opt out of mass
+wireless sharing. Critics raise transparency fears over plan to turn
+all smart home devices into ‘mesh network’"
+
+---
+
+Tap that
+
+"The EU is finally ready to tap [debt] markets in a $900 billion stimulus push"
+
+---
+
 <img src="https://pbs.twimg.com/media/E2vFfx_XEAII6AK?format=jpg&name=small"/>
 
 ---

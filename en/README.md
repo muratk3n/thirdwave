@@ -1,93 +1,107 @@
 # Tweets
 
-The Guardian: "Biden corporate tax plan could earn EU and UK billions, study shows"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia’s first “hydrogen valley” is being created in New South Wales, led by renewables business <a href="https://twitter.com/EnergyEstate?ref_src=twsrc%5Etfw">@EnergyEstate</a>. The valley will run entirely on renewable energy under a $2bn proposal supported by local &amp; global energy companies.<br><br>Read more here: <a href="https://t.co/vlIAwD6B4P">https://t.co/vlIAwD6B4P</a> <a href="https://t.co/qJBJnagDvS">pic.twitter.com/qJBJnagDvS</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1400225950042935299?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Go for it
+*Wrath of Man* 👍
 
-Bloomberg: "Instacart Wants to Replace Army of Gig Shoppers With
-Robots"
-
----
-
-"@Greene_DM
-
-It is difficult to overstate the degree to which the Gates Foundation
-turned education into a field for venture capital: long-shot
-investments reorganizing whole states and schools, that mostly fail,
-in the search for high-scoring unicorns"
-
-[Link](https://mobile.twitter.com/Greene_DM/status/1399344835727966210)
+Scott Eastwood can play good guy, bad guy.. nice. He shed daddy's
+image pretty early on, saw what u did there..  Good choice. This guy
+is smart.
 
 ---
 
-"@RachelBarkow
-
-Doesn't anyone fact check opinion columnists @nytimes? Because police
-budgets have largely increased around the country, not decreased, and
-homicides are up in cities with increased police budgets as well as
-those that have stayed the same"
-
->@nytimes
->In Opinion "They got what they wanted," former NYPD and LAPD
->commissioner Bill Bratton tells @MaureenDowd. "They defunded the
->police. What do they get? Rising crime
-
-[Link](https://mobile.twitter.com/RachelBarkow/status/1398980129188089864)
+Other [H2 storage methods](2020/10/h2-storage.md)
 
 ---
 
-Demilitarize US To Palestine
-
-"We condemn the continuation of these militarized practices used to
-repress marginalized communities. We know that freedom from state
-violence in the U.S. is deeply intertwined with freedom from state
-violence in Palestine — recognizing this is the first step towards our
-collective liberation"
-
-[Link](https://demilitarizeu2p.org/)
+Blogged about [LOHC](2020/11/h2-toloune-lohc.md) before.
 
 ---
 
-My GSI Outdoors boiling [pot](https://pbs.twimg.com/media/E2xhG5YXoAM-M4V?format=jpg&name=small) has a
-snug-fit cover, lid never gets too hot, cooks perfectly, is light. There is some
-freak science going on in there.. 
+CNBC: "Siemens Mobility to work on hydrogen tech for trains after
+signing agreement.. Siemens Mobility has signed a memorandum of
+understanding with a Germany-based organization to undertake joint
+research into the use of liquid organic hydrogen carrier technology in
+the railway sector...
+
+According to Siemens Mobility, LOHC technology involves an organic
+carrier liquid absorbing hydrogen, releasing it only when
+required. Among other things, the company says this stops hydrogen
+escaping as a gas and negates the need for it to be stored at low
+temperatures or high pressure. Transportation, it adds, is
+inexpensive"
 
 ---
 
-[Pandering to the crowd](https://pbs.twimg.com/media/Ev3M9t0WgAAdkKv?format=png&name=small)
-is profitable for companies as well, and now, for big tech. Users
-think they are "changing the world" by dancing on TikTok, engagement increases,
-more money for the platform.
+NYT: "Iranian Navy’s Largest Ship Catches Fire and Sinks"
 
 ---
 
-"@internetofshit
-
-Hey it's Amazon here, we're opting you into the largest surveillance
-dragnet in history, you're down right? xoxo, Bezos"
-
----
-
-"@cullend
-
-Also you have to download the app to opt-out, can’t do it on web,
-which makes your device a Sidealk beacon unless you go through a
-different opt-out"
+BBC: "Chemical-laden ship sinking off Sri Lanka.. Hundreds of tonnes of
+fuel oil could leak into the sea with devastating impact on marine
+life"
 
 ---
 
-The Guardian: "Amazon US customers have one week to opt out of mass
-wireless sharing. Critics raise transparency fears over plan to turn
-all smart home devices into ‘mesh network’"
+Fareed [on China](https://youtu.be/1zj-HFUSagA?t=30)
 
 ---
 
-Tap that
+"EU agrees to new tax transparency rules for multinationals.. The new
+rules would require multinational companies to list their profits
+made, taxes paid and the number of people they employed in individual
+EU countries"
 
-"The EU is finally ready to tap [debt] markets in a $900 billion stimulus push"
+---
 
+Bywalec's got the goods! So does that Witkin guy from Pixar.
+
+---
+
+And the mission after that: [LANDO](2020/09/space-exploration-goals-colonization.md#lando).
+
+---
+
+Great
+
+BBC: "Nasa has announced that it is sending two new missions to Venus
+in order to examine the planet's atmosphere and geological
+features.. '[C]ombined results of these missions will tell us about
+the planet from the clouds in the sky through the volcanoes on its
+surface all the way down to its very core,' said Tom Wagner from
+Nasa's Planetary Science Division"
+
+---
+
+"Developed Countries Lock Up Covid-19 Vaccines Through 2023"
+
+---
+
+New stuff.. new stuff.. bring the new stuff
+
+---
+
+Ditto for *The Tomorrow War*.
+
+---
+
+*Infinite* trailer looked good
+
+---
+
+"£10B Floating #Wind and Hydrogen Development Project to Decarbonize
+UK. CeruleanWinds reveals plan to accelerate decarbonisation of oil
+and gas assets through an integrated 200-turbine floating wind and
+hydrogen development"
+
+[Link](https://bit.ly/2TtbEJ3)
+
+---
+
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">THIS IS NOT THE FUTURE I WANTED <a href="https://t.co/FjrR0uZKUE">pic.twitter.com/FjrR0uZKUE</a></p>&mdash; following the dopamine (@randileeharper) <a href="https://twitter.com/randileeharper/status/1399918327657484295?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
 ---
 
 Industrial Age society, the Second Wave began in Western Europe with
