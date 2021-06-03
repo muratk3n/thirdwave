@@ -6,9 +6,9 @@
 
 *Wrath of Man* 👍
 
-Scott Eastwood can play good guy, bad guy.. nice. He shed daddy's
-image pretty early on, saw what u did there..  Good choice. This guy
-is smart.
+Scott Eastwood can play good guy, bad guy.. not too shabby. He shed
+daddy's image pretty early on, made some interesting mov choices..
+This guy is smart.
 
 ---
 
