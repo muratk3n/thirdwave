@@ -8,7 +8,7 @@
 
 Scott Eastwood can play good guy, bad guy.. not too shabby. He shed
 daddy's image pretty early on, made some interesting mov choices..
-This guy is smart.
+Smart actor.
 
 ---
 
