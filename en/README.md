@@ -1,5 +1,14 @@
 # Tweets
 
+"@sambrodey
+
+Schumer has lined up June votes on high-priority Dem bills that won't
+get 60 votes, maybe not even 50. It'll be a reality check, but some
+are reading the tea leaves and hoping this is some strategic L-taking
+in service of ending the filibuster"
+
+---
+
 "As spare vaccines are set to expire at the end of this month, the
 Biden administration is considering donating unused doses to countries
 in need"
