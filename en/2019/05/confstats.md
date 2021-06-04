@@ -108,18 +108,17 @@ mistakes, but as an overall outlook, it can be useful.
 
 [Codes](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
 
-[Data](http://data.gdeltproject.org/events/)
+[Data](http://data.gdeltproject.org/events)
 
 ```python
-import pandas as pd, zipfile
-pd.set_option('display.max_columns', None)
-pd.set_option('display.max_rows', None)
-pd.set_option('display.max_colwidth',-1)
+import pandas as pd, datetime
+from zipfile import ZipFile
+from io import BytesIO
+import urllib.request as urllib2
+import folium
 
-with zipfile.ZipFile('/tmp/20210420.export.CSV.zip', 'r') as z:
-     df = pd.read_csv(z.open('20210420.export.CSV'),sep='\t',header=None)
-print (len(df.columns))
-urls = df[57]
+base_url = "http://data.gdeltproject.org/events"
+
 cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor1Code', 'Actor1Name', 'Actor1CountryCode', 'Actor1KnownGroupCode',\
        'Actor1EthnicCode', 'Actor1Religion1Code', 'Actor1Religion2Code',\
@@ -134,14 +133,42 @@ cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
         'Actor1Geo_Long', 'Actor1Geo_FeatureID','Actor2Geo_Type', \
         'Actor2Geo_FullName','Actor2Geo_CountryCode', 'Actor2Geo_ADM1Code',\
         'Actor2Geo_Lat', 'Actor2Geo_Long']
-df2 = df[range(len(cols))]
-df2 = pd.concat((df2,urls),axis=1)
-df2.columns = cols + ['url']
-flt1 = ((df2.Actor2Name == 'IRAQ')|(df2.Actor2Name == 'Kurdistan'))
-flt2 = ((df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194))
-flt = flt1 & flt2
-df3 = df2[flt]
-df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','url']].to_csv('/tmp/out.csv')
+
+now = datetime.datetime.now()
+dfs = []
+m = folium.Map(location=[34.933582413578954, 42.04398758620605], zoom_start=7, tiles="Stamen Terrain")
+
+for i in range(7):
+    d = now - datetime.timedelta(days=i+1)
+    sd = "%d%02d%02d" % (d.year, d.month, d.day)
+    r = urllib2.urlopen(base_url + "/%s.export.CSV.zip" % sd).read()
+    file = ZipFile(BytesIO(r))
+    csv = file.open("%s.export.CSV" % sd)
+    df = pd.read_csv(csv,sep='\t',header=None)
+    urls = df[57]        
+    df2 = df[range(len(cols))]
+    df2 = pd.concat((df2,urls),axis=1)
+    df2.columns = cols + ['url']
+    flt1 = ((df2.Actor2Name == 'IRAQ')|(df2.Actor2Name == 'SYRIA'))
+    flt2 = ((df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194))
+    flt = flt1 & flt2
+    df3 = df2[flt]
+    dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
+    dfs.append(dft)
+
+df4 = pd.concat(dfs,axis=0)
+
+for index, row in df4.iterrows():
+    if str(row['Actor2Geo_Lat'])=='nan': continue
+    if str(row['Actor1CountryCode'])=='nan': continue
+    folium.Marker(
+        [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
+    ).add_to(m)
+
+m.save('conflict-out.html')
 ```
 
+The output of the code above is here
+
+[Output](conflict-out.html)
 
