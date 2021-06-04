@@ -1,13 +1,5 @@
 # Tweets
 
-I like how UK and Oz parliament's have speakers who regulate question
-time, and whoever talks talks to him/her do not address any opponent
-directly, unless its a direct question to someone in gov. Its a useful
-custom that can reduce friction, add little etiquette, help raise
-discourse above trash talk.
-
----
-
 "As spare vaccines are set to expire at the end of this month, the
 Biden administration is considering donating unused doses to countries
 in need"
@@ -27,6 +19,14 @@ Italy, Morocco, Norway, SaudiArabia, South Korea and UK to
 collaborate"
 
 [Link](https://bit.ly/34DYhID )
+
+---
+
+I like how UK and Oz parliament's have speakers who regulate question
+time, and whoever talks talks to him/her do not address any opponent
+directly, unless its a direct question to someone in gov. Its a useful
+custom that can reduce friction, add little etiquette, help raise
+discourse above trash talk.
 
 ---
 
