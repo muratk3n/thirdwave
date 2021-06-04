@@ -17,8 +17,7 @@ in need"
 
 How about H2 Lada?
 
-"Russia: Aurus Unveils a \#Hydrogen \#FuelCell-Powered Luxury
-Limousine-"
+"Russia: Aurus Unveils a Hydrogen FuelCell-Powered Luxury Limousine"
 
 ---
 
