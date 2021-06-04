@@ -129,68 +129,13 @@ cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor2Type1Code', 'Actor2Type2Code', 'Actor2Type3Code', \
        'IsRootEvent','EventCode', 'EventBaseCode']
 df2 = df[range(len(cols))]
-df2.columns = cols
-flt = (df2.EventCode==180) # attacks
+df2 = pd.concat((df2,urls),axis=1)
+df2.columns = cols + ['url']
+flt1 = ((df2.Actor2Name == 'IRAQ')|(df2.Actor2Name == 'Kurdistan'))
+flt2 = ((df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194))
+flt = flt1 & flt2
 df3 = df2[flt]
-urls[flt].to_csv('/tmp/gdelturl.csv')
-g = df3.groupby(['Actor1CountryCode','Actor1Name','Actor2Name']).size()
-g = g[g>1]
-print (g)
+df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','url']].to_csv('/tmp/out.csv')
 ```
 
-```text
-58
-Actor1CountryCode  Actor1Name      Actor2Name             
-AFR                AFRICA          VILLAGE                    2 
-AUS                AUSTRALIA       GOVERNMENT                 4 
-                   PERTH           SCHOOL                     3 
-                   VICTORIA        UNITED STATES              2 
-COD                CONGOLESE       RUSSIA                     2 
-EUR                EUROPE          SERBIA                     2 
-GBR                BRITISH         UNITED KINGDOM             2 
-                   UNITED KINGDOM  UNITED KINGDOM             4 
-IND                CHHATTISGARH    POLITICIAN                 3 
-ISR                ISRAEL          PALESTINIAN                2 
-NGA                NIGERIA         AFRICA                     3 
-                                   POLICEMAN                  3 
-PAK                PAKISTAN        POLICE                     2 
-RUS                RUSSIA          FINLAND                    3 
-                                   UKRAINE                    3 
-SYR                SYRIA           CIVILIAN                   2 
-                                   RICHMOND                   2 
-TWN                TAIPEI          TAIWAN                     2 
-                   TAIWAN          TAIWAN                     2 
-UKR                UKRAINE         RUSSIA                     2 
-                                   RUSSIAN                    5 
-                   UKRAINIAN       MEXICO                     2 
-USA                AUSTIN          CIVILIAN                   2 
-                   BOSTON          CRIMINAL                   2 
-                   FLORIDA         SENATE                     2 
-                   INDIANA         POLICE                     3 
-                   KENTUCKY        PRISON                     2 
-                   LOS ANGELES     DETECTIVE                  3 
-                   NEW YORK        KILLERS                    3 
-                                   UYGHUR                     3 
-                   TEXAS           UNIVERSITY                 2 
-                   THE US          JOURNALIST                 2 
-                   UNITED STATES   ATTORNEY                   6 
-                                   AUSTRALIA                  2 
-                                   FELON                      3 
-                                   JOURNALIST                 3 
-                                   LAW ENFORCEMENT OFFICER    2 
-                                   NASSAU                     2 
-                                   NAVAJO                     2 
-                                   NAVY                       4 
-                                   NEWSPAPER                  2 
-                                   POLICE                     8 
-                                   POLICE OFFICER             2 
-                                   POLICEMAN                  2 
-                                   PRISON                     4 
-                                   SAUDI ARABIA               2 
-                                   UNITED STATES              12
-                   VIRGINIA        AUTHORITIES                2 
-ZWE                ZIMBABWE        GAZA                       2 
-                                   VILLAGE                    2 
-dtype: int64
-```
 
