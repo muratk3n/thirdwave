@@ -127,7 +127,13 @@ cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor2Code', 'Actor2Name', 'Actor2CountryCode', 'Actor2KnownGroupCode',
        'Actor2EthnicCode', 'Actor2Religion1Code', 'Actor2Religion2Code',
        'Actor2Type1Code', 'Actor2Type2Code', 'Actor2Type3Code', \
-       'IsRootEvent','EventCode', 'EventBaseCode']
+        'IsRootEvent','EventCode', 'EventBaseCode','EventRootCode',\
+        'QuadClass', 'GoldsteinScale','NumMentions','NumSources', \
+        'NumArticles', 'AvgTone','Actor1Geo_Type', 'Actor1Geo_FullName',\
+        'Actor1Geo_CountryCode', 'Actor1Geo_ADM1Code','Actor1Geo_Lat', \
+        'Actor1Geo_Long', 'Actor1Geo_FeatureID','Actor2Geo_Type', \
+        'Actor2Geo_FullName','Actor2Geo_CountryCode', 'Actor2Geo_ADM1Code',\
+        'Actor2Geo_Lat', 'Actor2Geo_Long']
 df2 = df[range(len(cols))]
 df2 = pd.concat((df2,urls),axis=1)
 df2.columns = cols + ['url']
