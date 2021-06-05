@@ -75,11 +75,11 @@ Smart actor.
 
 ---
 
-Other [H2 storage methods](2020/10/h2-storage.md)
+Other [H2 storage methods](../../2020/10/h2-storage.md)
 
 ---
 
-Blogged about [LOHC](2020/11/h2-toloune-lohc.md) before.
+Blogged about [LOHC](../../2020/11/h2-toloune-lohc.md) before.
 
 ---
 
@@ -123,7 +123,7 @@ Bywalec's got the goods! So does that Witkin guy from Pixar.
 
 ---
 
-And the mission after that: [LANDO](2020/09/space-exploration-goals-colonization.md#lando).
+And the mission after that: [LANDO](../../2020/09/space-exploration-goals-colonization.md#lando).
 
 ---
 
