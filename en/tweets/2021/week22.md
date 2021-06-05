@@ -1,5 +1,68 @@
 # Week 22
 
+"@sambrodey
+
+Schumer has lined up June votes on high-priority Dem bills that won't
+get 60 votes, maybe not even 50. It'll be a reality check, but some
+are reading the tea leaves and hoping this is some strategic L-taking
+in service of ending the filibuster"
+
+---
+
+"As spare vaccines are set to expire at the end of this month, the
+Biden administration is considering donating unused doses to countries
+in need"
+
+---
+
+How about an H2 Lada?
+
+"Russia: Aurus Unveils a Hydrogen FuelCell-Powered Luxury Limousine"
+
+---
+
+"An International Coalition Is Being Set Up to Support the Use of
+Clean [H2]. Australia, Austria, Canada, Chile, China, Germany, India,
+Italy, Morocco, Norway, SaudiArabia, South Korea and UK to
+collaborate"
+
+[Link](https://bit.ly/34DYhID )
+
+---
+
+I like how UK and Oz parliament's have speakers who regulate question
+time, and whoever talks talks to him/her do not address any opponent
+directly, unless its a direct question to someone in gov. Its a useful
+custom that can reduce friction, add little etiquette, help raise
+discourse above trash talk.
+
+---
+
+"Clean Power Announces Transition To Single Purpose #Hydrogen Tech
+Company--Will now focus on the design, build, installation, and
+operation of hydrogen dispensing units for hydrogen-fueled vehicles"
+
+[Link](https://bit.ly/3fKOEOF)
+
+---
+
+Perhaps worse than half-assed, unverified theories in fundam physics
+is half-assed but seemingly verified theories. The Big Bang's
+existence is not conclusive. It is based on a few shoddy theories and
+some measurements that can be explained in different ways.
+
+But it is accepted as base truth, now new theories feel the burden to
+coexist with it. This is ten times worse than weirdo bullshit like
+String Theory, multiple universes, etc. 
+
+---
+
+Previous Nasa admin
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life on Venus? The discovery of phosphine, a byproduct of anaerobic biology, is the most significant development yet in building the case for life off Earth. About 10 years ago NASA discovered microbial life at 120,000ft in Earth’s upper atmosphere. It’s time to prioritize Venus. <a href="https://t.co/hm8TOEQ9es">https://t.co/hm8TOEQ9es</a></p>&mdash; Jim Bridenstine (@JimBridenstine) <a href="https://twitter.com/JimBridenstine/status/1305598182571810822?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Australia’s first “hydrogen valley” is being created in New South Wales, led by renewables business <a href="https://twitter.com/EnergyEstate?ref_src=twsrc%5Etfw">@EnergyEstate</a>. The valley will run entirely on renewable energy under a $2bn proposal supported by local &amp; global energy companies.<br><br>Read more here: <a href="https://t.co/vlIAwD6B4P">https://t.co/vlIAwD6B4P</a> <a href="https://t.co/qJBJnagDvS">pic.twitter.com/qJBJnagDvS</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1400225950042935299?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---

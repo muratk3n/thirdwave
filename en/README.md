@@ -1,67 +1,104 @@
 # Tweets
 
-"@sambrodey
+AFP: "The European Union and Britain launched parallel competition
+probes on Friday into whether Facebook uses data from advertisers to
+unfairly dominate the online classifieds market"
 
-Schumer has lined up June votes on high-priority Dem bills that won't
-get 60 votes, maybe not even 50. It'll be a reality check, but some
-are reading the tea leaves and hoping this is some strategic L-taking
-in service of ending the filibuster"
-
----
-
-"As spare vaccines are set to expire at the end of this month, the
-Biden administration is considering donating unused doses to countries
-in need"
+[Link](http://u.afp.com/U7Ce )
 
 ---
 
-How about an H2 Lada?
-
-"Russia: Aurus Unveils a Hydrogen FuelCell-Powered Luxury Limousine"
-
----
-
-"An International Coalition Is Being Set Up to Support the Use of
-Clean [H2]. Australia, Austria, Canada, Chile, China, Germany, India,
-Italy, Morocco, Norway, SaudiArabia, South Korea and UK to
-collaborate"
-
-[Link](https://bit.ly/34DYhID )
+Politico: "Biden is formally directing federal departments and
+agencies to make fighting global corruption a priority... [said]
+corruption 'makes government less effective,' 'exacerbates
+inequalities' and 'attacks the foundations of democratic
+institutions.' 'Fighting corruption is not just good governance. It is
+self-defense'"
 
 ---
 
-I like how UK and Oz parliament's have speakers who regulate question
-time, and whoever talks talks to him/her do not address any opponent
-directly, unless its a direct question to someone in gov. Its a useful
-custom that can reduce friction, add little etiquette, help raise
-discourse above trash talk.
+Conflict Stats code update: 
+
+New [script](2019/05/confstats.md#gdelt) takes GDELT conflict data set
+for past 7 days (for Iraq and Syria) and plot attacks on a map,
+markers showing the "from" actor. GDELT event codes I used for
+filtering were 190, 194 and 195 (the "AI" isn't too accurate, so it
+shows some non-attacks too. But it can give a rough idea).
+
+The output is a snazzy Leaflet.js map, just click on the "Output" link
+to see it.
 
 ---
 
-"Clean Power Announces Transition To Single Purpose #Hydrogen Tech
-Company--Will now focus on the design, build, installation, and
-operation of hydrogen dispensing units for hydrogen-fueled vehicles"
+"Severstal and Gazprom Neft Join Forces on Decarbonization Using
+Hydrogen. Jointly pursue and develop opportunities and techs for
+capturing &amp; utilizing carbon dioxide, as well as using hydrogen in
+metallurgical production"
 
-[Link](https://bit.ly/3fKOEOF)
-
----
-
-Perhaps worse than half-assed, unverified theories in fundam physics
-is half-assed but seemingly verified theories. The Big Bang's
-existence is not conclusive. It is based on a few shoddy theories and
-some measurements that can be explained in different ways.
-
-But it is accepted as base truth, now new theories feel the burden to
-coexist with it. This is ten times worse than weirdo bullshit like
-String Theory, multiple universes, etc. 
+[Link](https://bit.ly/3g2X036)
 
 ---
 
-Previous Nasa admin
+"Grupo Antolin Is Researching on Carbon Nanofibers to Drive #Hydrogen
+FuelCell Development. Aim is to improve the efficiency, durability,
+cost reduction of critical components in next-generation hydrogen
+\#fuelcells"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life on Venus? The discovery of phosphine, a byproduct of anaerobic biology, is the most significant development yet in building the case for life off Earth. About 10 years ago NASA discovered microbial life at 120,000ft in Earth’s upper atmosphere. It’s time to prioritize Venus. <a href="https://t.co/hm8TOEQ9es">https://t.co/hm8TOEQ9es</a></p>&mdash; Jim Bridenstine (@JimBridenstine) <a href="https://twitter.com/JimBridenstine/status/1305598182571810822?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Link](https://bit.ly/3wTG4mq)
 
 ---
+
+"@Renault and @PlugPowerInc’s Joint Venture Leads the Way to a Complete
+Ecosystem of #FuelCell Powered LCVS, Green Hydrogen and Refueling
+Stations Across Europe"
+
+[Link](http://bit.ly/2T9Vb7b)
+
+---
+
+California prisoners 2011-21 via @CraigOGilmore
+
+<img width="340" src="https://pbs.twimg.com/media/E2_epunWYAIRpzl?format=jpg&name=small"/>
+
+---
+
+WaPo: "Looking specifically at California, where full marijuana
+decriminalization went into effect on Jan. 1, 2011, the report finds
+that "marijuana decriminalization in California has not resulted in
+harmful consequences for teenagers, such as increased
+crime, drug overdose, driving under the influence, or school dropout"
+
+---
+
+"@zackwhittaker
+
+New: TikTok has changed its privacy policy allowing it to collect
+biometric data on U.S. users, including 'faceprints and voiceprints'"
+
+---
+
+Probably en route to pick up some shady shit
+
+Politico: "Two Iranian Navy ships rounded the Cape of Good Hope for
+the first time and appear to be headed across the Atlantic, continuing
+a journey U.S. officials believe could ultimately end in Venezuela"
+
+---
+
+I mean look at [this](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small).
+"95% of stuff in the universe, we basically don't understand". This is
+f-ing embarrassing. 
+
+---
+
+Why bother with modified Newton dynamics? Bcz it is one thing we can
+cross out in our list of undone items. The list is already huge.
+
+---
+
+AFP: "Putin says wants to find ways with Biden to improve ties"
+
+----
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
