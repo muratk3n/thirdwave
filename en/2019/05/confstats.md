@@ -1,10 +1,10 @@
 # Conflict Statistics
 
-Based on UCDP/PRIO Armed Conflict Dataset
+### UCDP/PRIO Armed Conflict Dataset
 
 [Data](https://ucdp.uu.se/downloads/)
 
-### Deaths, Incidences, Globally
+Deaths, Incidences, Globally
 
 ```python
 import pandas as pd
@@ -72,7 +72,7 @@ Azerbaijan                        1       0
 Zimbabwe (Rhodesia)               1       0
 ```
 
-### Details for Specific Country
+Details for Specific Country
 
 ```python
 def country_attacked(mon, country):
