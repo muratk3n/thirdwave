@@ -168,7 +168,7 @@ for index, row in df4.iterrows():
 m.save('conflict-out.html')
 ```
 
-The output of the code above is here
+The output of the code is below
 
 [Output](conflict-out.html)
 
