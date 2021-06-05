@@ -119,10 +119,6 @@ EU countries"
 
 ---
 
-Bywalec's got the goods! So does that Witkin guy from Pixar.
-
----
-
 And the mission after that: [LANDO](../../2020/09/space-exploration-goals-colonization.md#lando).
 
 ---
