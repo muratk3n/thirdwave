@@ -22,7 +22,7 @@ Conflict Stats code update:
 New [script](2019/05/confstats.md#gdelt) takes GDELT conflict data set
 for past 7 days (for Iraq and Syria) and plots attacks on a map,
 markers showing the "from" actor. GDELT event codes used for filtering
-were 190, 194 and 195 (the "AI" producding GDELT data isn't too
+were 190, 194 and 195 (the "AI" producing GDELT data isn't too
 accurate, so it shows some non-attacks too. But the map can give a
 rough idea).
 
