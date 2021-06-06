@@ -57,6 +57,12 @@ tomorrow"
 
 ---
 
+Strange.. it's all very strange..
+
+"California governor slams judge as assault rifles ban overturned"
+
+---
+
 Adams, isn't that the guy saying he'll be packing if elected mayor? And a Democrat..?
 
 ---
