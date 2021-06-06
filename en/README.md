@@ -18,8 +18,8 @@ President Alexander Lukashenko to lift a border closure"
 
 ---
 
-Liked by many but for set of problems I deal w at quaternions seem
-like overkill.
+Liked by many but for set of problems I deal w quaternions seem like
+overkill.
 
 ---
 
