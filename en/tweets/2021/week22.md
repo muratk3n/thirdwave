@@ -1,5 +1,106 @@
 # Week 22
 
+AFP: "The European Union and Britain launched parallel competition
+probes on Friday into whether Facebook uses data from advertisers to
+unfairly dominate the online classifieds market"
+
+[Link](http://u.afp.com/U7Ce )
+
+---
+
+Politico: "Biden is formally directing federal departments and
+agencies to make fighting global corruption a priority... [said]
+corruption 'makes government less effective,' 'exacerbates
+inequalities' and 'attacks the foundations of democratic
+institutions.' 'Fighting corruption is not just good governance. It is
+self-defense'"
+
+---
+
+Conflict Stats code update: 
+
+New [script](2019/05/confstats.md#gdelt) takes GDELT conflict data set
+for past 7 days (for Iraq and Syria) and plots attacks on a map,
+markers showing the "from" actor. GDELT event codes used for filtering
+were 190, 194 and 195 (the "AI" producing GDELT data isn't too
+accurate, so it shows some non-attacks too. But the map can give a
+rough idea).
+
+The output is a snazzy Leaflet.js map, just click on the "Output" link
+to see it.
+
+---
+
+"Severstal and Gazprom Neft Join Forces on Decarbonization Using
+Hydrogen. Jointly pursue and develop opportunities and techs for
+capturing &amp; utilizing carbon dioxide, as well as using hydrogen in
+metallurgical production"
+
+[Link](https://bit.ly/3g2X036)
+
+---
+
+"Grupo Antolin Is Researching on Carbon Nanofibers to Drive #Hydrogen
+FuelCell Development. Aim is to improve the efficiency, durability,
+cost reduction of critical components in next-generation hydrogen
+\#fuelcells"
+
+[Link](https://bit.ly/3wTG4mq)
+
+---
+
+"@Renault and @PlugPowerInc’s Joint Venture Leads the Way to a Complete
+Ecosystem of #FuelCell Powered LCVS, Green Hydrogen and Refueling
+Stations Across Europe"
+
+[Link](http://bit.ly/2T9Vb7b)
+
+---
+
+California prisoners 2011-21 via @CraigOGilmore
+
+<img width="340" src="https://pbs.twimg.com/media/E2_epunWYAIRpzl?format=jpg&name=small"/>
+
+---
+
+WaPo: "Looking specifically at California, where full marijuana
+decriminalization went into effect on Jan. 1, 2011, the report finds
+that "marijuana decriminalization in California has not resulted in
+harmful consequences for teenagers, such as increased
+crime, drug overdose, driving under the influence, or school dropout"
+
+---
+
+"@zackwhittaker
+
+New: TikTok has changed its privacy policy allowing it to collect
+biometric data on U.S. users, including 'faceprints and voiceprints'"
+
+---
+
+Probably en route to pick up some shady shit
+
+Politico: "Two Iranian Navy ships rounded the Cape of Good Hope for
+the first time and appear to be headed across the Atlantic, continuing
+a journey U.S. officials believe could ultimately end in Venezuela"
+
+---
+
+I mean look at [this](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small).
+"95% of stuff in the universe, we basically don't understand". This is
+f-ing embarrassing. 
+
+---
+
+Why bother with modified Newton dynamics? Bcz it is one thing we can
+cross out in our list of undone items. The list is already huge.
+
+---
+
+AFP: "Putin says wants to find ways with Biden to improve ties"
+
+----
+
 "@sambrodey
 
 Schumer has lined up June votes on high-priority Dem bills that won't

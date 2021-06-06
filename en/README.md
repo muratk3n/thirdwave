@@ -1,105 +1,80 @@
 # Tweets
 
-AFP: "The European Union and Britain launched parallel competition
-probes on Friday into whether Facebook uses data from advertisers to
-unfairly dominate the online classifieds market"
+Politico: "The SEC has removed William Duhnke as chair of the Public
+Company Accounting Oversight Board, in a victory for Sens. Elizabeth
+Warren and Bernie Sanders, days after they called for the audit
+watchdog's leadership to be fired"
 
-[Link](http://u.afp.com/U7Ce )
-
----
-
-Politico: "Biden is formally directing federal departments and
-agencies to make fighting global corruption a priority... [said]
-corruption 'makes government less effective,' 'exacerbates
-inequalities' and 'attacks the foundations of democratic
-institutions.' 'Fighting corruption is not just good governance. It is
-self-defense'"
+[Link](https://www.politico.com/news/2021/06/04/sec-fires-republican-watchdog-491939)
 
 ---
 
-Conflict Stats code update: 
+???? blocking the Polish border?
 
-New [script](2019/05/confstats.md#gdelt) takes GDELT conflict data set
-for past 7 days (for Iraq and Syria) and plots attacks on a map,
-markers showing the "from" actor. GDELT event codes used for filtering
-were 190, 194 and 195 (the "AI" producing GDELT data isn't too
-accurate, so it shows some non-attacks too. But the map can give a
-rough idea).
+"Belarusians protested on Saturday at the Polish frontier, calling for
+President Alexander Lukashenko to lift a border closure"
 
-The output is a snazzy Leaflet.js map, just click on the "Output" link
-to see it.
+[Link](http://u.afp.com/U8Jd)
 
 ---
 
-"Severstal and Gazprom Neft Join Forces on Decarbonization Using
-Hydrogen. Jointly pursue and develop opportunities and techs for
-capturing &amp; utilizing carbon dioxide, as well as using hydrogen in
-metallurgical production"
-
-[Link](https://bit.ly/3g2X036)
+Liked by many but for set of problems I deal w at quaternions seem
+like overkill.
 
 ---
 
-"Grupo Antolin Is Researching on Carbon Nanofibers to Drive #Hydrogen
-FuelCell Development. Aim is to improve the efficiency, durability,
-cost reduction of critical components in next-generation hydrogen
-\#fuelcells"
+The downtrend on the real unemployment [continued](2019/05/stats.md#unempl).
+The defunct unemployment number did its little fluctuation, threw ppl off,
+and they were shitting bricks for a month. If they followed better stats
+they would be not be shitting a William Shatner, it would just be a little
+Leonarda Di Caprio.
 
-[Link](https://bit.ly/3wTG4mq)
-
----
-
-"@Renault and @PlugPowerInc’s Joint Venture Leads the Way to a Complete
-Ecosystem of #FuelCell Powered LCVS, Green Hydrogen and Refueling
-Stations Across Europe"
-
-[Link](http://bit.ly/2T9Vb7b)
+```
+            UNRATE  U6RATE  REAL_UNRATE  REAL_UNEMP_LEVEL
+2021-03-01     6.0    10.7    12.128327           19473.0
+2021-04-01     6.1    10.4    11.852126           19080.5
+2021-05-01     5.8    10.2    11.527325           18551.5
+```
 
 ---
 
-California prisoners 2011-21 via @CraigOGilmore
+"The [Australian] government’s ‘H2 under $2’ goal could be achieved sooner"
 
-<img width="340" src="https://pbs.twimg.com/media/E2_epunWYAIRpzl?format=jpg&name=small"/>
-
----
-
-WaPo: "Looking specifically at California, where full marijuana
-decriminalization went into effect on Jan. 1, 2011, the report finds
-that "marijuana decriminalization in California has not resulted in
-harmful consequences for teenagers, such as increased
-crime, drug overdose, driving under the influence, or school dropout"
+[Link](https://bit.ly/3ch3qKN )
 
 ---
 
-"@zackwhittaker
+"Citroen Unveils the 400-km Hydrogen FuelCell Powered..  Van. With
+More than 400 km's of autonomy and hydrogen refueling in less than 3
+minutes, Citroën ë-Jumpy Hydrogen foreshadows electric utility of
+tomorrow"
 
-New: TikTok has changed its privacy policy allowing it to collect
-biometric data on U.S. users, including 'faceprints and voiceprints'"
-
----
-
-Probably en route to pick up some shady shit
-
-Politico: "Two Iranian Navy ships rounded the Cape of Good Hope for
-the first time and appear to be headed across the Atlantic, continuing
-a journey U.S. officials believe could ultimately end in Venezuela"
+[Link](https://bit.ly/3fP2D5L)
 
 ---
 
-I mean look at [this](https://pbs.twimg.com/media/EcQ5MTgWAAEMbqZ?format=png&name=small).
-"95% of stuff in the universe, we basically don't understand". This is
-f-ing embarrassing. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m old enough to remember when the idea of a global minimum tax was deemed utopian<br><br>So despite the low rate (probably 15%), couldn&#39;t be more excited to see this<br><br>It&#39;s a start—nothing prevents coalitions of countries to soon choose higher rates<a href="https://t.co/W1UEG3a4Uq">https://t.co/W1UEG3a4Uq</a> <a href="https://t.co/yBjPwW0ZYG">https://t.co/yBjPwW0ZYG</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1400906917938094081?ref_src=twsrc%5Etfw">June 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Why bother with modified Newton dynamics? Bcz it is one thing we can
-cross out in our list of undone items. The list is already huge.
+Adams, isn't that the guy saying he'll be packing if elected mayor? And a Democrat..?
 
 ---
 
-AFP: "Putin says wants to find ways with Biden to improve ties"
+🔥🔥🔥
 
-----
+@KGforNYC
+
+During COVID I delivered a million meals a day, while Eric Adams wrote a cookbook. 
+
+---
+
+Did a little autocrat trolling to look good w Putin before that meeting
+look where it got you
+
+DW: "EU bans Belarus carriers from its airspace"
+
+---
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
