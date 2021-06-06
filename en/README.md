@@ -63,15 +63,19 @@ Strange.. it's all very strange..
 
 ---
 
+@KGforNYC sounds competent, but not prog enough. 
+
+---
+
 Adams, isn't that the guy saying he'll be packing if elected mayor? And a Democrat..?
 
 ---
 
-🔥🔥🔥
+Burn
 
-@KGforNYC
+"@KGforNYC
 
-During COVID I delivered a million meals a day, while Eric Adams wrote a cookbook. 
+During COVID I delivered a million meals a day, while Eric Adams wrote a cookbook"
 
 ---
 
