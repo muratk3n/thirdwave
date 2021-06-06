@@ -63,7 +63,8 @@ Strange.. it's all very strange..
 
 ---
 
-@KGforNYC sounds competent, but not prog enough. 
+@KGforNYC sounds competent, but not too prog. Would not be my first choice.
+Interesting life history though..
 
 ---
 
