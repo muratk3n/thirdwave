@@ -66,9 +66,10 @@ Scholze is a rising star, hell already a star, in mathematics. Good to
 hear confirmation on tools like Lean from him. Computer-aid in any
 field is a good thing.
 
-Peter Scholze: "I find it absolutely insane that interactive proof
-assistants are now at the level that within a very reasonable time
-span they can formally verify difficult original research"
+Peter Scholze: "I find it absolutely insane [in a good way] that
+interactive proof assistants are now at the level that within a very
+reasonable time span they can formally verify difficult original
+research"
 
 [Link](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
 
