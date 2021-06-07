@@ -14,6 +14,8 @@
 
 [The West Bank](../../2018/06/westbank.md)
 
+[Conflict Stats](../../2019/05/confstats.md)
+
 [Israel-TR](../../tweets/tweets/2018/week28.md#israeltr)
 
 [Armenians of Anatolia](../../2015/03/armenians-anatolia.md)
