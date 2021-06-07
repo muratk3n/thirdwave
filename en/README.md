@@ -1,27 +1,5 @@
 # Tweets
 
-Plus notice how bitch batteries are not even part of the
-discussion. That's because it is inferior tech.
-
----
-
-"Fuel repurposed from waste or organic sources"? You could say the
-same for kerosene "repurposed from organic, dead dinaseurs". Or does
-net-zero mean producer of the fuel just plants bunch of trees
-balancing bad pollution with good trees?
-
-You are barking up the wrong tree.
-
-"Several startups are racing to get supersonic planes flying
-again... United and Boom also want to make these flights
-environmentally friendly, promising that these flights will be
-'net-zero carbon from day one,' and rely completely on sustainable
-aviation fuel, which is repurposed from waste or organic sources"
-
-[Link](https://www.vox.com/recode/22508975/united-supersonic-plane-concorde-boom-hermeus-virgin-nasa)
-
----
-
 "Peru's Election Too Close to Call as Pedro Castillo Takes Lead.. The
 leftist candidate has 50.2% support, pollster Ipsos said, versus 49.8%
 for his right-wing opponent Keiko Fujimori"
@@ -53,6 +31,28 @@ mismanagement? More of the latter wld be my guess.
 ---
 
 <iframe width="200" src="https://www.youtube.com/embed/IrhqLvAhli0?start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Plus notice how batteries are not even part of the discussion. That's
+because it is inferior tech.
+
+---
+
+"Fuel repurposed from waste or organic sources"? You could say the
+same for kerosene "repurposed from organic, dead dinaseurs". Or does
+net-zero mean producer of the fuel just plants bunch of trees
+balancing bad pollution with good trees?
+
+You are barking up the wrong tree.
+
+"Several startups are racing to get supersonic planes flying
+again... United and Boom also want to make these flights
+environmentally friendly, promising that these flights will be
+'net-zero carbon from day one,' and rely completely on sustainable
+aviation fuel, which is repurposed from waste or organic sources"
+
+[Link](https://www.vox.com/recode/22508975/united-supersonic-plane-concorde-boom-hermeus-virgin-nasa)
 
 ---
 
