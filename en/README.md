@@ -42,7 +42,7 @@ because it is inferior tech.
 "Fuel repurposed from waste or organic sources"? You could say the
 same for kerosene "repurposed from organic, dead dinaseurs". Or does
 net-zero mean producer of the fuel just plants bunch of trees
-balancing bad pollution with good trees?
+balancing "bad" pollution with "good" trees?
 
 You are barking up the wrong tree.
 
