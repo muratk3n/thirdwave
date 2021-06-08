@@ -55,7 +55,7 @@ force behind several major deals"
 
 "In a White House ... Press Call a Biden administration official
 admitted that the CIA and other parts of the U.S. intelligence
-apparatus were involved in assisting the “War on Corruption” which
+apparatus were involved in assisting the 'War on Corruption' which
 jailed former president Luiz Inacio Lula da Silva and elected Jair
 Bolsonaro...
 
@@ -63,7 +63,7 @@ In July 2017 .. Kenneth A. Blanco gave a speech at NATO think tank the
 Atlantic Council in which he bragged of FBI personnel informally
 involved in Brazilian anti-corruption operation Lava Jato and its
 prosecution of former president Lula. FBI personnel involved later
-boasted that it had “toppled presidents“. Lava Jato prosecutor Deltan
+boasted that it had 'toppled presidents'. Lava Jato prosecutor Deltan
 Dellagnol described Lula’s 2018 arrest which kept him out of the
 election he was on course to win, as “a gift from the CIA“. The judge
 who prosecuted Lula, Sergio Moro, became Bolsonaro’s Justice Minister,
