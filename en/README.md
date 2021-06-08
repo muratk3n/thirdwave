@@ -53,6 +53,29 @@ force behind several major deals"
 
 ---
 
+"In a White House ... Press Call a Biden administration official
+admitted that the CIA and other parts of the U.S. intelligence
+apparatus were involved in assisting the “War on Corruption” which
+jailed former president Luiz Inacio Lula da Silva and elected Jair
+Bolsonaro...
+
+In July 2017 .. Kenneth A. Blanco gave a speech at NATO think tank the
+Atlantic Council in which he bragged of FBI personnel informally
+involved in Brazilian anti-corruption operation Lava Jato and its
+prosecution of former president Lula. FBI personnel involved later
+boasted that it had “toppled presidents“. Lava Jato prosecutor Deltan
+Dellagnol described Lula’s 2018 arrest which kept him out of the
+election he was on course to win, as “a gift from the CIA“. The judge
+who prosecuted Lula, Sergio Moro, became Bolsonaro’s Justice Minister,
+and both made an unprecedented visit to CIA headquarters in Langley
+within months of taking office. Lava Jato’s origins can be traced back
+to 2008/09, where Moro and a blueprint for an operation of its type
+appear in State Department cables"
+
+[Link](https://www.brasilwire.com/white-house-admits-cia-involvement-in-latin-americas-war-on-corruption/)
+
+---
+
 "The generator built by IIT [Delhi] utilises hydrogen in internal
 combustion engines 'for zero emission with higher thermal
 efficiency'. A dedicated lubricating oil for the engine was also
