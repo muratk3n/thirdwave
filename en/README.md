@@ -45,16 +45,6 @@ force behind several major deals"
 
 ---
 
-"@RzstProgramming
-
-Movie camera 1963 Archived Video
-
-Martin Luther King, Jr. called the filibuster a 'tragedy'"
-
-[Link](https://twitter.com/RzstProgramming/status/1401558139443597319)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out our article on enabling large-scale offshore wind with underground <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> storage in the June edition of <a href="https://twitter.com/EAGE_Global?ref_src=twsrc%5Etfw">@EAGE_Global</a> First Break (p. 59). <a href="https://t.co/abUTXAPtMF">https://t.co/abUTXAPtMF</a><a href="https://twitter.com/HyStorPor?ref_src=twsrc%5Etfw">@HyStorPor</a> <a href="https://twitter.com/GeosciencesEd?ref_src=twsrc%5Etfw">@GeosciencesEd</a> <a href="https://twitter.com/jmouli_castillo?ref_src=twsrc%5Etfw">@jmouli_castillo</a> <a href="https://twitter.com/EdlmannKatriona?ref_src=twsrc%5Etfw">@EdlmannKatriona</a> <a href="https://twitter.com/EdinGeoenergy?ref_src=twsrc%5Etfw">@EdinGeoenergy</a> <a href="https://t.co/6dY57zmIio">pic.twitter.com/6dY57zmIio</a></p>&mdash; Jonny Scafidi (@jonafushi) <a href="https://twitter.com/jonafushi/status/1401804983075495937?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
