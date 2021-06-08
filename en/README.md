@@ -10,7 +10,7 @@ Everything is a provocation for CH
 
 ---
 
-Texas es mexicano!!
+Texas es Mexicano!!
 
 ---
 
