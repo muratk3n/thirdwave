@@ -5,27 +5,6 @@ to reduce the cost of clean hydrogen by 80% within the next decade
 
 [Link](https://twitter.com/ENERGY/status/1401924670035746818)
 
-
----
-
-Everything is a provocation for CH	
-
-"The US is helping Taiwan battle Covid-19. To China, that's a provocation"
-
----
-
-Texas es Mexicano!!
-
----
-
-Si se puede
-
-"López Obrador's Coalition Wins a Majority in Mexico's Lower House"
-
----
-
-*Chaos Walking* was ok
-
 ---
 
 Some in EU want to do away with their version of filibuster
@@ -109,6 +88,26 @@ win 🤨?
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haunted houses are just malfunctioning smart houses</p>&mdash; MaxTheSilva 🔥 (@MaxTheSilva96) <a href="https://twitter.com/MaxTheSilva96/status/1401530571277455367?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Everything is a provocation for CH	
+
+"The US is helping Taiwan battle Covid-19. To China, that's a provocation"
+
+---
+
+Texas es Mexicano!!
+
+---
+
+Si se puede
+
+"López Obrador's Coalition Wins a Majority in Mexico's Lower House"
+
+---
+
+*Chaos Walking* was ok
 
 ---
 
