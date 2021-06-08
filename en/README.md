@@ -1,7 +1,7 @@
 # Tweets
 
 US DOE: "We're announcing the first-ever Energy Earthshot Initiative
-to reduce the cost of clean hydrogen by 80% within the next decade
+to reduce the cost of clean hydrogen by 80% within the next decade"
 
 [Link](https://twitter.com/ENERGY/status/1401924670035746818)
 
