@@ -1,5 +1,80 @@
 # Week 23
 
+"Peru's Election Too Close to Call as Pedro Castillo Takes Lead.. The
+leftist candidate has 50.2% support, pollster Ipsos said, versus 49.8%
+for his right-wing opponent Keiko Fujimori"
+
+---
+
+That's Trump territory... Aren't there new approaches in ISR? Boh-ring
+
+"Netanyahu slams coalition pact as 'greatest election fraud'"
+
+---
+
+'US security guarantee helped countries develop' says MB.. And you
+know he has that statement backed by stat analysis. 
+
+<iframe width="200" src="https://www.youtube.com/embed/XjzXB-_-ny4?start=776&end=961" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+One cld argue either sanction fully or not at all. Fully meaning
+forcing all outbound shipments, flights to go through certain hops,
+inspecting them.
+
+---
+
+Did sanctions push them into the drug trade or the reason was economic
+mismanagement? More of the latter wld be my guess.
+
+---
+
+<iframe width="200" src="https://www.youtube.com/embed/IrhqLvAhli0?start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Plus notice how batteries are not even part of the discussion. That's
+because it is inferior tech.
+
+---
+
+"Fuel repurposed from waste or organic sources"? You could say the
+same for kerosene "repurposed from organic, dead dinaseurs". Or does
+net-zero mean producer of the fuel just plants bunch of trees
+balancing "bad" pollution with "good" trees?
+
+You are barking up the wrong tree.
+
+"Several startups are racing to get supersonic planes flying
+again... United and Boom also want to make these flights
+environmentally friendly, promising that these flights will be
+'net-zero carbon from day one,' and rely completely on sustainable
+aviation fuel, which is repurposed from waste or organic sources"
+
+[Link](https://www.vox.com/recode/22508975/united-supersonic-plane-concorde-boom-hermeus-virgin-nasa)
+
+---
+
+Looks like Fox News is trying to plug an anchor..?  Are the ratings
+down for the guy?  What's his name.. Sean Finnigan. Shamrock?
+McCohohonehehey
+
+---
+
+Scholze is a rising star, hell already a star, in mathematics. Good to
+hear confirmation on tools like Lean from him. Computer-aid in any
+field is a good thing.
+
+Peter Scholze: "I find it absolutely insane [in a good way] that
+interactive proof assistants are now at the level that within a very
+reasonable time span they can formally verify difficult original
+research"
+
+[Link](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
+
+---
+
 Politico: "The SEC has removed William Duhnke as chair of the Public
 Company Accounting Oversight Board, in a victory for Sens. Elizabeth
 Warren and Bernie Sanders, days after they called for the audit

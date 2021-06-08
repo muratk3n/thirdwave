@@ -1,77 +1,97 @@
 # Tweets
 
-"Peru's Election Too Close to Call as Pedro Castillo Takes Lead.. The
-leftist candidate has 50.2% support, pollster Ipsos said, versus 49.8%
-for his right-wing opponent Keiko Fujimori"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🌎BREAKING: We&#39;re announcing the first-ever Energy Earthshot Initiative to reduce the cost of clean hydrogen by 80% within the next decade to help the U.S. compete in the global clean energy market, decrease GHG emissions and create more good-paying jobs. <a href="https://t.co/b1kc72whzE">https://t.co/b1kc72whzE</a> <a href="https://t.co/yAfdLIcDTr">pic.twitter.com/yAfdLIcDTr</a></p>&mdash; U.S. Department of Energy (@ENERGY) <a href="https://twitter.com/ENERGY/status/1401924670035746818?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-That's Trump territory... Aren't there new approaches in ISR? Boh-ring
+Everything is a provocation for CH	
 
-"Netanyahu slams coalition pact as 'greatest election fraud'"
-
----
-
-'US security guarantee helped countries develop' says MB.. And you
-know he has that statement backed by stat analysis. 
-
-<iframe width="200" src="https://www.youtube.com/embed/XjzXB-_-ny4?start=776&end=961" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"The US is helping Taiwan battle Covid-19. To China, that's a provocation"
 
 ---
 
-One cld argue either sanction fully or not at all. Fully meaning
-forcing all outbound shipments, flights to go through certain hops,
-inspecting them.
+Texas es mexicano!!
 
 ---
 
-Did sanctions push them into the drug trade or the reason was economic
-mismanagement? More of the latter wld be my guess.
+Si se puede
+
+"López Obrador's Coalition Wins a Majority in Mexico's Lower House"
 
 ---
 
-<iframe width="200" src="https://www.youtube.com/embed/IrhqLvAhli0?start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Chaos Walking* was ok
 
 ---
 
-Plus notice how batteries are not even part of the discussion. That's
-because it is inferior tech.
+Some in EU want to do away with their version of filibuster
+
+"Germany's foreign minister Heiko Maas said Monday that the right for
+individual EU member states to veto decisions must be scrapped,
+arguing that the 27-member bloc cannot be hamstrung by single
+hold-outs"
+
+[Link](http://u.afp.com/U8gp)
 
 ---
 
-"Fuel repurposed from waste or organic sources"? You could say the
-same for kerosene "repurposed from organic, dead dinaseurs". Or does
-net-zero mean producer of the fuel just plants bunch of trees
-balancing "bad" pollution with "good" trees?
+"This week several agreements regarding hydrogen in the transportation
+and industrial sectors have been inked. Europe has remained active in
+the hydrogen market as usual. However, the St. Petersburg
+International Economic Forum (Spief) in Russia has remained a driving
+force behind several major deals"
 
-You are barking up the wrong tree.
-
-"Several startups are racing to get supersonic planes flying
-again... United and Boom also want to make these flights
-environmentally friendly, promising that these flights will be
-'net-zero carbon from day one,' and rely completely on sustainable
-aviation fuel, which is repurposed from waste or organic sources"
-
-[Link](https://www.vox.com/recode/22508975/united-supersonic-plane-concorde-boom-hermeus-virgin-nasa)
+[Link](https://www.h2bulletin.com/hydrogen-economy-review-russian-companies-sign-several-hydrogen-related-agreements-during-spief/)
 
 ---
 
-Looks like Fox News is trying to plug an anchor..?  Are the ratings
-down for the guy?  What's his name.. Sean Finnigan. Shamrock?
-McCohohonehehey
+"@RzstProgramming
+
+Movie camera 1963 Archived Video
+
+Martin Luther King, Jr. called the filibuster a 'tragedy'"
+
+[Link](https://twitter.com/RzstProgramming/status/1401558139443597319)
 
 ---
 
-Scholze is a rising star, hell already a star, in mathematics. Good to
-hear confirmation on tools like Lean from him. Computer-aid in any
-field is a good thing.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out our article on enabling large-scale offshore wind with underground <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> storage in the June edition of <a href="https://twitter.com/EAGE_Global?ref_src=twsrc%5Etfw">@EAGE_Global</a> First Break (p. 59). <a href="https://t.co/abUTXAPtMF">https://t.co/abUTXAPtMF</a><a href="https://twitter.com/HyStorPor?ref_src=twsrc%5Etfw">@HyStorPor</a> <a href="https://twitter.com/GeosciencesEd?ref_src=twsrc%5Etfw">@GeosciencesEd</a> <a href="https://twitter.com/jmouli_castillo?ref_src=twsrc%5Etfw">@jmouli_castillo</a> <a href="https://twitter.com/EdlmannKatriona?ref_src=twsrc%5Etfw">@EdlmannKatriona</a> <a href="https://twitter.com/EdinGeoenergy?ref_src=twsrc%5Etfw">@EdinGeoenergy</a> <a href="https://t.co/6dY57zmIio">pic.twitter.com/6dY57zmIio</a></p>&mdash; Jonny Scafidi (@jonafushi) <a href="https://twitter.com/jonafushi/status/1401804983075495937?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Peter Scholze: "I find it absolutely insane [in a good way] that
-interactive proof assistants are now at the level that within a very
-reasonable time span they can formally verify difficult original
-research"
+---
+	
+"Austrian supermarket orders 70 hydrogen fuel cell trucks from Hyzon"
 
-[Link](https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/)
+---
+
+"The generator built by IIT [Delhi] utilises hydrogen in internal
+combustion engines 'for zero emission with higher thermal
+efficiency'. A dedicated lubricating oil for the engine was also
+developed by the IOCL"
+
+[Link](https://indianexpress.com/article/cities/delhi/iit-delhi-builds-environment-friendly-engine-generator-fuelled-by-hydrogen-7344361/)
+
+---
+
+There r some good tubers nothing against them. 
+
+---
+
+[Link](https://drive.google.com/uc?export=view&id=1PYHBnDJxHPEFEBlUDc0V95dWJfKe-qCj)
+
+---
+
+Of course he did... Mayweather is an **expert** boxer.. Even retired,
+nearly 20 yrs older, with Paul being in a higher weight class, MW did
+better.
+
+Tuber thinks he'll just get out there, "do some shit", "get likes" and
+win 🤨?
+
+"Floyd Mayweather Dominates Youtuber Logan Paul"
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haunted houses are just malfunctioning smart houses</p>&mdash; MaxTheSilva 🔥 (@MaxTheSilva96) <a href="https://twitter.com/MaxTheSilva96/status/1401530571277455367?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
