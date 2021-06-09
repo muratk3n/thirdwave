@@ -61,9 +61,8 @@ Fuel Cell"
 
 ---
 
-Oz "H2 under $2" vs US "80% Cheaper by 2020 to 1 dollars/kg".
-
-The race is on!
+Oz "H2 under $2" vs US "80% Cheaper by 2020 to 1 dollars/kg". The race
+is on
 
 ---
 
