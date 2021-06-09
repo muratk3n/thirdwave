@@ -31,10 +31,6 @@ Bicycle without a chain. Great.
 
 Apparently this Blanco guy is canned as part of FinCEN shake-up.
 
----
-
-So ugly what was done.. Inexcusable.
-
 "In a White House ... Press Call a Biden administration official
 admitted that the CIA and other parts of the U.S. intelligence
 apparatus were involved in assisting the “War on Corruption” which
