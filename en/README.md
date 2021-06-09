@@ -56,12 +56,6 @@ razor-thin lead"
 
 ---
 
-Kamala basically said 'do not come to the border'
-
-\#guetamala
-
----
-
 "@adventnrg Technologies Signs New Contract with U.S. DOD for Wearable
 Fuel Cell"
 
