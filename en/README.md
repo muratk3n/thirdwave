@@ -65,6 +65,8 @@ Oz "H2 under $2" vs US "80% Cheaper by 2020 to 1 dollars/kg".
 
 The race is on!
 
+---
+
 "Secretary Granholm Launches Energy Earthshot Initiative to Make Clean
 Hydrogen 80% Cheaper by 2020 to $1 per Kilogram"
 
