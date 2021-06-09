@@ -1,8 +1,8 @@
 # Tweets
 
-Nice.. he shows wind / H2 fuel station, it's like green energy comes
-from up thereeee... goes into my car down hereeee as green
-fuel. Boom. Boom.
+Nice.. cam shows wind part, then H2 fuel station, it's like green
+energy comes from up thereeee... goes into my car down
+hereeee. Boom. Boom.
 
 "@JontheHunt
 
