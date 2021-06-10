@@ -1,76 +1,110 @@
 # Tweets
 
-"US buying 500 mn doses of Pfizer Covid vaccine for world"
+Damn.. How about Cem Ozdemir as the next leader? 
+
+Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
+her résumé, a comparatively minor sin. Her election chances are
+ruined, however"
 
 ---
 
-"@levfacher
+"@pauldauenhauer
 
-New: There are about 7,000 state legislators in the United States, and
-about 1/3 of them used pharmaceutical industry money to fund their
-campaigns last year"
-
----
-
-But if "both sides of the aisle" are lukewarm abt China,
-independently, then the consensus will reflect that lukewarmess abt
-China. Nothing weird about that.
+Opinion: The phrase 'in order to' can always be shorted to 'to' and it
+will be more concise and equally effective"
 
 ---
 
-If bipartisanship is naturally occuring, fine.. no need to harp about
-it. The problem, the thing to be avoided is when one-side is
-constantly "urged" to be bipartisan, to go towards some mythical
-consensus, preemptively.
+Marine tracking site.. cld scrape this later
+
+[Link](https://www.vesselfinder.com/vessels?type=7&flag=US)
 
 ---
 
-<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&quot;We&#39;re trying to create nonviolent &#39;co-resistance&#39; so Israelis &amp; Palestinians can live together peacefully. That can only happen in a future, where 18 yr old (Israeli soldiers) don&#39;t control another people by force.&quot; <a href="https://twitter.com/SanamF24?ref_src=twsrc%5Etfw">@SanamF24</a> speaks w/ex <a href="https://twitter.com/IDF?ref_src=twsrc%5Etfw">@IDF</a> sniper <a href="https://twitter.com/AGvaryahu?ref_src=twsrc%5Etfw">@AGvaryahu</a> on <a href="https://twitter.com/MEastMatters?ref_src=twsrc%5Etfw">@MEastMatters</a> <a href="https://t.co/4Pv0R9xINd">pic.twitter.com/4Pv0R9xINd</a></p>&mdash; Middle East Matters – France 24 (@MEastMatters) <a href="https://twitter.com/MEastMatters/status/1402297987389345792?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Do not use region codes for filtering anymore, using target lat/lon
+coordinates. 
 
 ---
 
-"@vtg2
-
-CFTC Commissioner Berkovitz warned that derivatives trading on
-blockchain-based “DeFi” platforms was likely happening illegally &
-that policymakers needed to halt the development of what could become
-an 'unregulated shadow financial market'"
+Conflict stats [update](2019/05/confstats.md#gdelt), past 5 days,
+around Iraq and Syria.
 
 ---
 
-"@CSIRO and Ampol Launch Endua to Build Next Gen of Clean Energy
-Storage.. New startup will solve some of the hardest problems in the
-transition to \#renewablenergy"
-
-[Link](https://bit.ly/353haVk)
+"Meme stock favourite GameStop says it is subject of SEC probe"
 
 ---
 
-45% from renewables ain't so bad
-
-<img width="300" src="https://pbs.twimg.com/media/E3dq9veWYAMSH6v?format=png&name=small"/>
-
----
-
-"Lithuania: Plans Are Underway to Prepare National #Hydrogen
-Development Guidelines"
-
-[Link](https://bit.ly/3iwppS1)
+CNBC: "Wind turbine giant Siemens Gamesa lays out plan to drive down
+cost of 'green' hydrogen"
 
 ---
 
-"Hoegh LNG Acquires Minority Stake in GEN2 Energy and Signs
-Cooperation Agreement on Seaborne Logistics for Green
-Hydrogen. Targets to take a first-mover position in seaborne transport
-of green \#hydrogen"
-
-[Link](https://bit.ly/34WS5LV )
+The Guardian: "Leaders at the G7 summit will call for a new,
+transparent investigation by the World Health Organization into the
+origins of the coronavirus, according to a leaked draft communique for
+the meeting.The call was initiated by Joe Biden’s administration and
+follows the US president’s decision to expand the American
+investigation into the origins of the pandemic, with one intelligence
+agency leaning towards the theory that it escaped from a Wuhan
+laboratory"
 
 ---
 
-Goofiest meme Ive ever seen
+"China Returns to Its Strict Covid Restrictions to Fight a New
+Outbreak. Foreign businesses worry that tough quarantines and
+restrictions could persist into next year as Beijing struggles with
+variants and questions about its vaccines"
 
-<img width="300" src="https://pbs.twimg.com/media/E3YNMUQWYAkxN9r?format=jpg&name=small"/>
+---
+
+On EU-UK tussle, the "sausage-war".
+
+Good summary from Chuck Norris. 
+
+<iframe width="240"  src="https://www.youtube.com/embed/O9GDIyQ7mew?start=143&242" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"Canadian pipeline company TC Energy is formally ending its bid to
+build the Keystone XL pipeline project"
+
+---
+
+"House Democrats about to uncork 5-pronged assault on tech.. Bills set
+to be announced in the coming days would make it easier to break up
+giant tech companies, block them from merging and prohibit them from
+hobbling their rivals"
+
+[Link](https://www.politico.com/news/2021/06/09/house-democrats-announce-tech-bills-492703)
+
+---
+
+"Whitepaper from @SiemensGamesa sets out roadmap to drive down cost of
+green \#hydrogen"
+
+[Link](https://bit.ly/353kIad)
+
+---
+
+"@airproducts Announces $1.3 Billion #NetZero #Hydrogen Energy Complex
+in Edmonton, Alberta, \#Canada"
+
+[Link](https://bit.ly/3itkbpT )
+
+---
+
+"@TPGroupUK Powers the UK’s First Full-Scale #Hydrogen Train"
+
+[Link](https://bit.ly/3g8UXLY )
+
+---
+
+[Link](https://pbs.twimg.com/media/EgPe-HTWkAAKbbl?format=jpg&name=small)
+
+---
+
+What? Monkey boy pays [no income tax](https://news.sky.com/story/wealthiest-americans-including-elon-musk-and-jeff-bezos-paid-no-income-tax-12328061)?
 
 ---
 
