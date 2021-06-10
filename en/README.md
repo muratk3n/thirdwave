@@ -1,75 +1,81 @@
 # Tweets
 
-Nice.. cam shows wind part, then H2 fuel station, it's like green
-energy comes from up thereeee... goes into my car down
-hereeee. Boom. Boom.
-
-"@JontheHunt
-
-Refuelling with #hydrogen from wind & water @ITMPowerPlc Gen
-1 & Gen 2 #toyota #mirai. Glorious weather for a road trip"
-
-[Link](https://twitter.com/JontheHunt/status/1402279495185358865)
+<img width="300" src="https://pbs.twimg.com/media/E3dq9veWYAMSH6v?format=png&name=small"/>
 
 ---
 
-"The Group of Seven (G7) has agreed to step up efforts to advance
-commercial scale hydrogen from low carbon and renewable sources across
-its economies, including support for fuel cell deployment globally"
+Good good
 
-[Link](https://www.h2-view.com/story/g7-to-step-up-efforts-to-advance-commercial-scale-hydrogen/)
+"US buying 500 mn doses of Pfizer Covid vaccine for world"
 
 ---
 
-Bicycle without a chain. Great.
+"@levfacher
 
-"Aiming for a practical 99% efficient drive train is the goal of Project"
-
-<iframe width="200"  src="https://www.youtube.com/embed/rgo-yEaXDzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-Apparently this Blanco guy is canned as part of FinCEN shake-up.
-
-"In a White House ... Press Call a Biden administration official
-admitted that the CIA and other parts of the U.S. intelligence
-apparatus were involved in assisting the “War on Corruption” which
-jailed former president Luiz Inacio Lula da Silva and elected Jair
-Bolsonaro"
-
-[Link](https://www.brasilwire.com/white-house-admits-cia-involvement-in-latin-americas-war-on-corruption/)
+New: There are about 7,000 state legislators in the United States, and
+about 1/3 of them used pharmaceutical industry money to fund their
+campaigns last year"
 
 ---
 
-"An atmospheric research station in Hawaii recorded its highest
-concentrations of carbon dioxide since accurate measurements began 63
-years ago"
+But if "both sides of the aisle" are lukewarm abt China,
+independently, then the consensus will reflect that lukewarmess abt
+China. Nothing weird about that.
 
 ---
 
-Boh-ring
-
-"Peru's right-wing presidential candidate Keiko Fujimori raises
-allegations of 'irregularities' and 'signs of fraud' in Sunday's
-election as her rival, far-left trade unionist Pedro Castillo, takes a
-razor-thin lead"
+If bipartisanship is naturally occuring, fine.. no need to harp about
+it. The problem, the thing to be avoided is when one-side is
+constantly "urged" to be bipartisan, to go towards some mythical
+consensus, preemptively.
 
 ---
 
-"@adventnrg Technologies Signs New Contract with U.S. DOD for Wearable
-Fuel Cell"
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&quot;We&#39;re trying to create nonviolent &#39;co-resistance&#39; so Israelis &amp; Palestinians can live together peacefully. That can only happen in a future, where 18 yr old (Israeli soldiers) don&#39;t control another people by force.&quot; <a href="https://twitter.com/SanamF24?ref_src=twsrc%5Etfw">@SanamF24</a> speaks w/ex <a href="https://twitter.com/IDF?ref_src=twsrc%5Etfw">@IDF</a> sniper <a href="https://twitter.com/AGvaryahu?ref_src=twsrc%5Etfw">@AGvaryahu</a> on <a href="https://twitter.com/MEastMatters?ref_src=twsrc%5Etfw">@MEastMatters</a> <a href="https://t.co/4Pv0R9xINd">pic.twitter.com/4Pv0R9xINd</a></p>&mdash; Middle East Matters – France 24 (@MEastMatters) <a href="https://twitter.com/MEastMatters/status/1402297987389345792?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Oz "H2 under $2" vs US "80% Cheaper by 2020 to 1 dollars/kg". The race
-is on
+"@vtg2
+
+CFTC Commissioner Berkovitz warned that derivatives trading on
+blockchain-based “DeFi” platforms was likely happening illegally &
+that policymakers needed to halt the development of what could become
+an 'unregulated shadow financial market'"
 
 ---
 
-"Secretary Granholm Launches Energy Earthshot Initiative to Make Clean
-Hydrogen 80% Cheaper by 2020 to $1 per Kilogram"
+"@CSIRO and Ampol Launch Endua to Build Next Gen of Clean Energy
+Storage.. New startup will solve some of the hardest problems in the
+transition to \#renewablenergy"
 
-[Link](https://bit.ly/2RwDMKX)
+[Link](https://bit.ly/353haVk)
+
+---
+
+"Lithuania: Plans Are Underway to Prepare National #Hydrogen
+Development Guidelines"
+
+[Link](https://bit.ly/3iwppS1)
+
+---
+
+"Hoegh LNG Acquires Minority Stake in GEN2 Energy and Signs
+Cooperation Agreement on Seaborne Logistics for Green
+Hydrogen. Targets to take a first-mover position in seaborne transport
+of green \#hydrogen"
+
+[Link](https://bit.ly/34WS5LV )
+
+---
+
+I thought Granholm was just another BEVtard shitlib, but, she made a
+good announcement, with WH direction too I am sure
+
+---
+
+Goofiest meme Ive ever seen
+
+<img width="300" src="https://pbs.twimg.com/media/E3YNMUQWYAkxN9r?format=jpg&name=small"/>
 
 ---
 

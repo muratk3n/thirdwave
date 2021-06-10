@@ -1,5 +1,78 @@
 # Week 23
 
+Nice.. cam shows wind part, then H2 fuel station, it's like green
+energy comes from up thereeee... goes into my car down
+hereeee. Boom. Boom.
+
+"@JontheHunt
+
+Refuelling with #hydrogen from wind & water @ITMPowerPlc Gen
+1 & Gen 2 #toyota #mirai. Glorious weather for a road trip"
+
+[Link](https://twitter.com/JontheHunt/status/1402279495185358865)
+
+---
+
+"The Group of Seven (G7) has agreed to step up efforts to advance
+commercial scale hydrogen from low carbon and renewable sources across
+its economies, including support for fuel cell deployment globally"
+
+[Link](https://www.h2-view.com/story/g7-to-step-up-efforts-to-advance-commercial-scale-hydrogen/)
+
+---
+
+Bicycle without a chain. Great.
+
+"Aiming for a practical 99% efficient drive train is the goal of Project"
+
+<iframe width="200"  src="https://www.youtube.com/embed/rgo-yEaXDzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Apparently this Blanco guy is canned as part of FinCEN shake-up.
+
+"In a White House ... Press Call a Biden administration official
+admitted that the CIA and other parts of the U.S. intelligence
+apparatus were involved in assisting the “War on Corruption” which
+jailed former president Luiz Inacio Lula da Silva and elected Jair
+Bolsonaro"
+
+[Link](https://www.brasilwire.com/white-house-admits-cia-involvement-in-latin-americas-war-on-corruption/)
+
+---
+
+"An atmospheric research station in Hawaii recorded its highest
+concentrations of carbon dioxide since accurate measurements began 63
+years ago"
+
+---
+
+Boh-ring
+
+"Peru's right-wing presidential candidate Keiko Fujimori raises
+allegations of 'irregularities' and 'signs of fraud' in Sunday's
+election as her rival, far-left trade unionist Pedro Castillo, takes a
+razor-thin lead"
+
+---
+
+"@adventnrg Technologies Signs New Contract with U.S. DOD for Wearable
+Fuel Cell"
+
+---
+
+Oz "H2 under $2" vs US "80% Cheaper by 2020 to 1 dollars/kg". The race
+is on
+
+---
+
+"Secretary Granholm Launches Energy Earthshot Initiative to Make Clean
+Hydrogen 80% Cheaper by 2020 to $1 per Kilogram"
+
+[Link](https://bit.ly/2RwDMKX)
+
+---
+
 US DOE: "We're announcing the first-ever Energy Earthshot Initiative
 to reduce the cost of clean hydrogen by 80% within the next decade"
 
