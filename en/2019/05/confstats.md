@@ -111,15 +111,16 @@ mistakes, but as an overall outlook, it can be useful.
 [Data](http://data.gdeltproject.org/events)
 
 ```python
+from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
 import pandas as pd, datetime
 from zipfile import ZipFile
 from io import BytesIO
 import urllib.request as urllib2
 import folium
 
-base_url = "http://data.gdeltproject.org/events"
+base_conflict_url = "http://data.gdeltproject.org/events"
 
-cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
+conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor1Code', 'Actor1Name', 'Actor1CountryCode', 'Actor1KnownGroupCode',\
        'Actor1EthnicCode', 'Actor1Religion1Code', 'Actor1Religion2Code',\
        'Actor1Type1Code', 'Actor1Type2Code', 'Actor1Type3Code', \
@@ -136,23 +137,38 @@ cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 
 now = datetime.datetime.now()
 dfs = []
-m = folium.Map(location=[34.933582413578954, 42.04398758620605], zoom_start=7, tiles="Stamen Terrain")
+
+clat = 34.933582413578954
+clon = 42.04398758620605
+how_far = 700.0
+
+m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
+
+def spherical_distance(lat1, long1, lat2, long2):
+    phi1 = 0.5*pi - lat1
+    phi2 = 0.5*pi - lat2
+    r = 0.5*(6378137 + 6356752) # mean radius in meters
+    t = sin(phi1)*sin(phi2)*cos(long1-long2) + cos(phi1)*cos(phi2)
+    return r * arccos(t) / 1000.
+
+def dist(x):
+    return spherical_distance(np.deg2rad(clat),np.deg2rad(clon),np.deg2rad(x['Actor2Geo_Lat']),np.deg2rad(x['Actor2Geo_Long']))
 
 for i in range(7):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
-    r = urllib2.urlopen(base_url + "/%s.export.CSV.zip" % sd).read()
+    url = base_conflict_url + "/%s.export.CSV.zip" % sd
+    r = urllib2.urlopen(url).read()
     file = ZipFile(BytesIO(r))
     csv = file.open("%s.export.CSV" % sd)
-    df = pd.read_csv(csv,sep='\t',header=None)
+    df = pd.read_csv(csv,sep='\t',header=None)    
     urls = df[57]        
-    df2 = df[range(len(cols))]
-    df2 = pd.concat((df2,urls),axis=1)
-    df2.columns = cols + ['url']
-    flt1 = ((df2.Actor2Name == 'IRAQ')|(df2.Actor2Name == 'SYRIA'))
-    flt2 = ((df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194))
-    flt = flt1 & flt2
-    df3 = df2[flt]
+    df2 = df[range(len(conf_cols))]
+    df2 = pd.concat((df2,urls),axis=1)    
+    df2.columns = conf_cols + ['url']
+    df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
+    df3.loc[:,'dist'] = df3.apply(dist, axis=1)
+    df3 = df3[df3.dist < how_far]
     dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
     dfs.append(dft)
 
