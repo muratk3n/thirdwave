@@ -1,11 +1,5 @@
 # Tweets
 
-<img width="300" src="https://pbs.twimg.com/media/E3dq9veWYAMSH6v?format=png&name=small"/>
-
----
-
-Good good
-
 "US buying 500 mn doses of Pfizer Covid vaccine for world"
 
 ---
@@ -49,6 +43,12 @@ Storage.. New startup will solve some of the hardest problems in the
 transition to \#renewablenergy"
 
 [Link](https://bit.ly/353haVk)
+
+---
+
+45% from renewables ain't so bad
+
+<img width="300" src="https://pbs.twimg.com/media/E3dq9veWYAMSH6v?format=png&name=small"/>
 
 ---
 
