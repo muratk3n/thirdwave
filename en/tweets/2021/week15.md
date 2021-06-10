@@ -324,7 +324,7 @@ near close to being AI.
 
 ---
 
-[Link](https://media1.tenor.com/images/3f5eee5a7f3789608d9b8ba204afdeee/tenor.gif)
+[Link](https://drive.google.com/uc?export=view&id=1IxacYfL0ZIRPgQ4MR3ZWclmulwye-G9l)
 
 ---
 
