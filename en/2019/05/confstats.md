@@ -138,9 +138,8 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 now = datetime.datetime.now()
 dfs = []
 
-clat = 34.933582413578954
-clon = 42.04398758620605
-how_far = 700.0
+clat,clon=33.01136975577918, 40.98527636859822
+how_far = 600.0
 
 m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
 
@@ -154,7 +153,7 @@ def spherical_distance(lat1, long1, lat2, long2):
 def dist(x):
     return spherical_distance(np.deg2rad(clat),np.deg2rad(clon),np.deg2rad(x['Actor2Geo_Lat']),np.deg2rad(x['Actor2Geo_Long']))
 
-for i in range(7):
+for i in range(5):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
     url = base_conflict_url + "/%s.export.CSV.zip" % sd
