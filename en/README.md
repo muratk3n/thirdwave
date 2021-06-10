@@ -68,11 +68,6 @@ of green \#hydrogen"
 
 ---
 
-I thought Granholm was just another BEVtard shitlib, but, she made a
-good announcement, with WH direction too I am sure
-
----
-
 Goofiest meme Ive ever seen
 
 <img width="300" src="https://pbs.twimg.com/media/E3YNMUQWYAkxN9r?format=jpg&name=small"/>
