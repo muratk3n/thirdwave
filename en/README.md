@@ -1,13 +1,5 @@
 # Tweets
 
-Damn.. How about Cem Ozdemir as the next leader? 
-
-Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
-her résumé, a comparatively minor sin. Her election chances are
-ruined, however"
-
----
-
 "@pauldauenhauer
 
 Opinion: The phrase 'in order to' can always be shorted to 'to' and it
@@ -32,6 +24,14 @@ around Iraq and Syria. As before click on Output for the map.
 ---
 
 "Meme stock favourite GameStop says it is subject of SEC probe"
+
+---
+
+Damn.. How about Cem Ozdemir as the next leader? 
+
+Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
+her résumé, a comparatively minor sin. Her election chances are
+ruined, however"
 
 ---
 
