@@ -1,13 +1,5 @@
 # Tweets
 
-I am looking forward for Kenobi
-
----
-
-Interesting tech.. so, no more green screens?
-
-<iframe width="230" src="https://www.youtube.com/embed/hsxQXs9bjbo?start=31&end=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 Politico: despite the higher-than-expected inflation numbers, bond
@@ -27,6 +19,16 @@ Couldnt they just fake earnings report with some good ol' people power?
 "GameStop stock plummets 27 percent following earnings report. The
 stock was among the first to get a huge Reddit and social media
 following earlier this year"
+
+---
+
+I am looking forward to Kenobi
+
+---
+
+Interesting tech.. so, no more green screens?
+
+<iframe width="230" src="https://www.youtube.com/embed/hsxQXs9bjbo?start=31&end=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -53,7 +55,7 @@ WSJ: "France Ends Africa Military Operation to Join Broader Alliance"
 
 ---
 
-WSJ: "Covid-19 Deaths This Year Have Already Eclipsed 2020's Toll"3
+WSJ: "Covid-19 Deaths This Year Have Already Eclipsed 2020's Toll"
 
 ---
 
