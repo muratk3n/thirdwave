@@ -1,5 +1,105 @@
 # Week 23
 
+"@pauldauenhauer
+
+Opinion: The phrase 'in order to' can always be shorted to 'to' and it
+will be more concise and equally effective"
+
+---
+
+Marine tracking site.. might scrape this later
+
+[Link](https://www.vesselfinder.com/vessels?type=7&flag=US)
+
+---
+
+Do not use region codes for filtering anymore, using target lat/lon
+coordinates. 
+
+---
+
+Conflict stats [update](2019/05/confstats.md#gdelt), past 5 days,
+around Iraq and Syria. As before click on Output for the map.
+
+---
+
+"Meme stock favourite GameStop says it is subject of SEC probe"
+
+---
+
+Damn.. How about Cem Ozdemir as the next leader? 
+
+Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
+her résumé, a comparatively minor sin. Her election chances are
+ruined, however"
+
+---
+
+CNBC: "Wind turbine giant Siemens Gamesa lays out plan to drive down
+cost of 'green' hydrogen"
+
+---
+
+The Guardian: "Leaders at the G7 summit will call for a new,
+transparent investigation by the World Health Organization into the
+origins of the coronavirus, according to a leaked draft communique for
+the meeting.The call was initiated by Joe Biden’s administration and
+follows the US president’s decision to expand the American
+investigation into the origins of the pandemic, with one intelligence
+agency leaning towards the theory that it escaped from a Wuhan
+laboratory"
+
+---
+
+"China Returns to Its Strict Covid Restrictions to Fight a New
+Outbreak. Foreign businesses worry that tough quarantines and
+restrictions could persist into next year as Beijing struggles with
+variants and questions about its vaccines"
+
+---
+
+On EU-UK tussle, the "sausage-war".
+
+Good summary from Chuck Norris. 
+
+<iframe width="240"  src="https://www.youtube.com/embed/O9GDIyQ7mew?start=143&242" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"Canadian pipeline company TC Energy is formally ending its bid to
+build the Keystone XL pipeline project"
+
+---
+
+"House Democrats about to uncork 5-pronged assault on tech.. Bills set
+to be announced in the coming days would make it easier to break up
+giant tech companies, block them from merging and prohibit them from
+hobbling their rivals"
+
+[Link](https://www.politico.com/news/2021/06/09/house-democrats-announce-tech-bills-492703)
+
+---
+
+"Whitepaper from @SiemensGamesa sets out roadmap to drive down cost of
+green \#hydrogen"
+
+[Link](https://bit.ly/353kIad)
+
+---
+
+"@airproducts Announces $1.3 Billion #NetZero #Hydrogen Energy Complex
+in Edmonton, Alberta, \#Canada"
+
+[Link](https://bit.ly/3itkbpT )
+
+---
+
+"@TPGroupUK Powers the UK’s First Full-Scale #Hydrogen Train"
+
+[Link](https://bit.ly/3g8UXLY )
+
+---
+
 "US buying 500 mn doses of Pfizer Covid vaccine for world"
 
 ---

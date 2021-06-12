@@ -1,102 +1,81 @@
 # Tweets
 
-"@pauldauenhauer
-
-Opinion: The phrase 'in order to' can always be shorted to 'to' and it
-will be more concise and equally effective"
+I am looking forward for Kenobi
 
 ---
 
-Marine tracking site.. might scrape this later
+Interesting tech.. so, no more green screens?
 
-[Link](https://www.vesselfinder.com/vessels?type=7&flag=US)
-
----
-
-Do not use region codes for filtering anymore, using target lat/lon
-coordinates. 
+<iframe width="230" src="https://www.youtube.com/embed/hsxQXs9bjbo?start=31&end=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Conflict stats [update](2019/05/confstats.md#gdelt), past 5 days,
-around Iraq and Syria. As before click on Output for the map.
+Politico: despite the higher-than-expected inflation numbers, bond
+investors shrugged at the news, with long-term interest rates on
+U.S. government debt declining on the day.
 
 ---
 
-"Meme stock favourite GameStop says it is subject of SEC probe"
+A nascent martini... i like it
+
+"I received a message that shook me like a nascent martini"
 
 ---
 
-Damn.. How about Cem Ozdemir as the next leader? 
-
-Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
-her résumé, a comparatively minor sin. Her election chances are
-ruined, however"
+"GameStop stock plummets 27 percent following earnings report The
+stock was among the first to get a huge Reddit and social media
+following earlier this year"
 
 ---
 
-CNBC: "Wind turbine giant Siemens Gamesa lays out plan to drive down
-cost of 'green' hydrogen"
+The Guardian: "Half of clothes sold by online fashion brands ‘made from
+virgin plastic’"
 
 ---
 
-The Guardian: "Leaders at the G7 summit will call for a new,
-transparent investigation by the World Health Organization into the
-origins of the coronavirus, according to a leaked draft communique for
-the meeting.The call was initiated by Joe Biden’s administration and
-follows the US president’s decision to expand the American
-investigation into the origins of the pandemic, with one intelligence
-agency leaning towards the theory that it escaped from a Wuhan
-laboratory"
+Thats bcz they used the kung-fu vaccine.. it's no good
+
+"Chile capital enters lockdown – despite mass vaccination"
 
 ---
 
-"China Returns to Its Strict Covid Restrictions to Fight a New
-Outbreak. Foreign businesses worry that tough quarantines and
-restrictions could persist into next year as Beijing struggles with
-variants and questions about its vaccines"
+BBC: "China has created a dystopian hellscape in Xinjiang, Amnesty
+report says"
 
 ---
 
-On EU-UK tussle, the "sausage-war".
+Ok.. this makes more sense.. leaving.. to come back in, as part of a
+broader effort.
 
-Good summary from Chuck Norris. 
-
-<iframe width="240"  src="https://www.youtube.com/embed/O9GDIyQ7mew?start=143&242" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-"Canadian pipeline company TC Energy is formally ending its bid to
-build the Keystone XL pipeline project"
+WSJ: "France Ends Africa Military Operation to Join Broader Alliance"
 
 ---
 
-"House Democrats about to uncork 5-pronged assault on tech.. Bills set
-to be announced in the coming days would make it easier to break up
-giant tech companies, block them from merging and prohibit them from
-hobbling their rivals"
-
-[Link](https://www.politico.com/news/2021/06/09/house-democrats-announce-tech-bills-492703)
+WSJ: "Covid-19 Deaths This Year Have Already Eclipsed 2020's Toll"3
 
 ---
 
-"Whitepaper from @SiemensGamesa sets out roadmap to drive down cost of
-green \#hydrogen"
-
-[Link](https://bit.ly/353kIad)
-
----
-
-"@airproducts Announces $1.3 Billion #NetZero #Hydrogen Energy Complex
-in Edmonton, Alberta, \#Canada"
-
-[Link](https://bit.ly/3itkbpT )
+WSJ: "Germany Shuts Door on Patent Trolls.. The nation removed a
+legislative quirk that had made it a prime destination for globally
+active patent litigators who increasingly target fast-growing tech
+companies"
 
 ---
 
-"@TPGroupUK Powers the UK’s First Full-Scale #Hydrogen Train"
+Members can run the Conflict Stats report for any region, anytime they want
 
-[Link](https://bit.ly/3g8UXLY )
+---
+
+Adamentium vs vibranium.. now thats an interesting question..
+
+---
+
+"@alastair_hick
+
+Breakthrough research in nitrogen reduction to ammonia at high
+efficiency and rates from @DRMacFarlane"
+
+[Link](https://mobile.twitter.com/alastair_hick/status/1403096416868659201)
 
 ---
 
