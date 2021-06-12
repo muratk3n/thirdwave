@@ -23,6 +23,11 @@ import folium
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 ships = [
+    [338813000, 'USS Iwo Jima (LHD-7)','https://www.vesselfinder.com/vessels/US-GOVT-VESSEL-IMO-0-MMSI-338813000'],
+    [368938000, 'USS Ross (DDG-71)','https://www.vesselfinder.com/vessels/US-GOV-VESSEL-IMO-0-MMSI-368938000'],
+    [366992000, 'USS Barry (DDG-52)','https://www.vesselfinder.com/vessels/USGOVT-VESSEL--IMO-0-MMSI-366992000'],
+    [366986000, 'USS Arleigh Burke (DDG-51)','https://www.vesselfinder.com/vessels/US-GOV-VESSEL-IMO-8406286-MMSI-366986000'],
+    [338822000, 'USS Roosevelt (DDG-80)', 'https://www.vesselfinder.com/vessels/US-GOVERNMENT-VESSEL-IMO-0-MMSI-338822000'],
     [369970410, 'USS RONALD REAGAN (CVN-76)', 'https://www.vesselfinder.com/vessels/US-GOV-VSL-IMO-0-MMSI-369970410'],
     [369970663, 'USS George H.W. Bush (CVN-77)]',''],
     [368913000, 'USS GEORGE WASHINGTON (CVN-73)]',''],
@@ -33,7 +38,7 @@ ships = [
     [369970406, 'USS Abraham Lincoln (CVN-72)', 'https://www.vesselfinder.com/vessels/WARSHIP-72-IMO-0-MMSI-369970406'],
     [368912000, 'USS John C. Stennis (CVN-74)',''],
     [338803000, 'USS Gerald R. Ford (CVN-78)', 'https://www.vesselfinder.com/vessels/US-GOV-VESSEL-IMO-0-MMSI-338803000'],
-    [369970739, 'USS AMERICA (LHA-6)', 'https://www.vesselfinder.com/vessels/US-AIRCRAFTCARRIER-6-IMO-0-MMSI-369970739']
+    [369970739, 'USS AMERICA (LHA-6)', 'https://www.vesselfinder.com/vessels/US-AIRCRAFTCARRIER-6-IMO-0-MMSI-369970739'],
     ]
 
 def ship_detail(url):
@@ -64,7 +69,7 @@ for s in ships:
     if len(url)>0: 
         course,speed,ago,name,flat,flon = ship_detail(url)
     folium.Marker(
-        [flat, flon], popup="<a href='%s'>Link</a>" % url
+        [flat, flon], popup="<a href='%s'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
     ).add_to(m)
     
 m.save('navy-out.html')
