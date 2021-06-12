@@ -14,7 +14,7 @@ A nascent martini... :)
 
 ---
 
-Couldnt they just fake a good earnings report with some good ol' people power? ✊ 
+Couldnt they just fake a good earnings report with people power? 
 
 "GameStop stock plummets 27 percent following earnings report. The
 stock was among the first to get a huge Reddit and social media
