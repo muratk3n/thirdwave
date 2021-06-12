@@ -52,7 +52,7 @@ for s in ships:
     if len(url)>0: 
         course,speed,ago,name,flat,flon = ship_detail(url)
     folium.Marker(
-        [flat, flon], popup="<a href='%s'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
+        [flat, flon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
     ).add_to(m)
     
 m.save('navy-out.html')
