@@ -21,7 +21,7 @@ around Iraq and Syria. As before click on Output for the map.
 
 ---
 
-Damn.. How about Cem Ozdemir as the next leader? 
+Damn.. that serious?
 
 Der Spiegel: "[Green Party Leader] Annalena Baerbock has spruced up
 her résumé, a comparatively minor sin. Her election chances are
