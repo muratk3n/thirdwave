@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_60f2bce26238456e86b3b544a1410c9e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_60f2bce26238456e86b3b544a1410c9e" ></div>
+        
+</body>
+<script>    
+    
+            var map_60f2bce26238456e86b3b544a1410c9e = L.map(
+                "map_60f2bce26238456e86b3b544a1410c9e",
+                {
+                    center: [30.0, 30.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_98eedb4bc18a4922b3a0c9236c8ed390 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+            var marker_4b15f12b41ce45fc93fef9f5129d9172 = L.marker(
+                [34.83601, 139.5091],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_8910fe6c0bb1467fabb080628b2c726c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_21e147d1005e470c91d8e311583456cd = $(`<div id="html_21e147d1005e470c91d8e311583456cd" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/US-GOV-VSL-IMO-0-MMSI-369970410'>Link</a></div>`)[0];
+            popup_8910fe6c0bb1467fabb080628b2c726c.setContent(html_21e147d1005e470c91d8e311583456cd);
+        
+
+        marker_4b15f12b41ce45fc93fef9f5129d9172.bindPopup(popup_8910fe6c0bb1467fabb080628b2c726c)
+        ;
+
+        
+    
+    
+            var marker_2f8bf29cae0742649dddaf4806ba59d0 = L.marker(
+                [34.83601, 139.5091],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_b83d05cd772b4724be0f4ed4662655de = L.popup({"maxWidth": "100%"});
+
+        
+            var html_00c3ee96c83c4fc9b672c0ff18ef8aa4 = $(`<div id="html_00c3ee96c83c4fc9b672c0ff18ef8aa4" style="width: 100.0%; height: 100.0%;"><a href=''>Link</a></div>`)[0];
+            popup_b83d05cd772b4724be0f4ed4662655de.setContent(html_00c3ee96c83c4fc9b672c0ff18ef8aa4);
+        
+
+        marker_2f8bf29cae0742649dddaf4806ba59d0.bindPopup(popup_b83d05cd772b4724be0f4ed4662655de)
+        ;
+
+        
+    
+    
+            var marker_d2fc8800f8bd449cad6dc55f267ab4c9 = L.marker(
+                [34.83601, 139.5091],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_0beba18788f64ee288bdb82e2104594f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0493e26bf21d45e8b4bd4c2d5cc605d0 = $(`<div id="html_0493e26bf21d45e8b4bd4c2d5cc605d0" style="width: 100.0%; height: 100.0%;"><a href=''>Link</a></div>`)[0];
+            popup_0beba18788f64ee288bdb82e2104594f.setContent(html_0493e26bf21d45e8b4bd4c2d5cc605d0);
+        
+
+        marker_d2fc8800f8bd449cad6dc55f267ab4c9.bindPopup(popup_0beba18788f64ee288bdb82e2104594f)
+        ;
+
+        
+    
+    
+            var marker_ae43b878de8b40ec8ccf099ed9ae2d42 = L.marker(
+                [31.4608, 32.40927],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_8f964eca85124790b079c5bf9d4766a1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cfde168e30c24383acb711d8aca4aa6b = $(`<div id="html_cfde168e30c24383acb711d8aca4aa6b" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/WARSHIP-69-IMO-0-MMSI-368962000'>Link</a></div>`)[0];
+            popup_8f964eca85124790b079c5bf9d4766a1.setContent(html_cfde168e30c24383acb711d8aca4aa6b);
+        
+
+        marker_ae43b878de8b40ec8ccf099ed9ae2d42.bindPopup(popup_8f964eca85124790b079c5bf9d4766a1)
+        ;
+
+        
+    
+    
+            var marker_5926ef6b1428429da5204c009eb210e9 = L.marker(
+                [47.55376, -122.64506],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_42c2258c621343f0aaea44500dcc4600 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8460304db44948f68d7f8af3edf95880 = $(`<div id="html_8460304db44948f68d7f8af3edf95880" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/NAVY-UNIT-78-IMO-0-MMSI-303981000'>Link</a></div>`)[0];
+            popup_42c2258c621343f0aaea44500dcc4600.setContent(html_8460304db44948f68d7f8af3edf95880);
+        
+
+        marker_5926ef6b1428429da5204c009eb210e9.bindPopup(popup_42c2258c621343f0aaea44500dcc4600)
+        ;
+
+        
+    
+    
+            var marker_cbc17cfe1cf64482863d4e530ee73a67 = L.marker(
+                [47.55376, -122.64506],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_f9880464f07a4da782faeefd8f2952e3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_28eef1cfa38b45a7b33c91d7a57708d4 = $(`<div id="html_28eef1cfa38b45a7b33c91d7a57708d4" style="width: 100.0%; height: 100.0%;"><a href=''>Link</a></div>`)[0];
+            popup_f9880464f07a4da782faeefd8f2952e3.setContent(html_28eef1cfa38b45a7b33c91d7a57708d4);
+        
+
+        marker_cbc17cfe1cf64482863d4e530ee73a67.bindPopup(popup_f9880464f07a4da782faeefd8f2952e3)
+        ;
+
+        
+    
+    
+            var marker_b867bac00cec4b3789778c4da010aa83 = L.marker(
+                [32.71338, -117.19026],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_5a59a7400c6f4f5f80a017276dd067bc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4c0ececf2275469196057656824046be = $(`<div id="html_4c0ececf2275469196057656824046be" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/US-GOV-VESSEL-IMO-0-MMSI-366984000'>Link</a></div>`)[0];
+            popup_5a59a7400c6f4f5f80a017276dd067bc.setContent(html_4c0ececf2275469196057656824046be);
+        
+
+        marker_b867bac00cec4b3789778c4da010aa83.bindPopup(popup_5a59a7400c6f4f5f80a017276dd067bc)
+        ;
+
+        
+    
+    
+            var marker_69a82533850246e7b00d14ca7fe5806e = L.marker(
+                [32.70611, -117.18877],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_acab8c1b881b4a159f76b5404a67fbe2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_68f88a50fa384e86a96e7e073768a01f = $(`<div id="html_68f88a50fa384e86a96e7e073768a01f" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/WARSHIP-72-IMO-0-MMSI-369970406'>Link</a></div>`)[0];
+            popup_acab8c1b881b4a159f76b5404a67fbe2.setContent(html_68f88a50fa384e86a96e7e073768a01f);
+        
+
+        marker_69a82533850246e7b00d14ca7fe5806e.bindPopup(popup_acab8c1b881b4a159f76b5404a67fbe2)
+        ;
+
+        
+    
+    
+            var marker_6309284ba0614dbf8499384b7e7ec9bb = L.marker(
+                [32.70611, -117.18877],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_fe5792f434d64293a4a113340290bb46 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_16d4a502c6e44d35b0523a29983c8b00 = $(`<div id="html_16d4a502c6e44d35b0523a29983c8b00" style="width: 100.0%; height: 100.0%;"><a href=''>Link</a></div>`)[0];
+            popup_fe5792f434d64293a4a113340290bb46.setContent(html_16d4a502c6e44d35b0523a29983c8b00);
+        
+
+        marker_6309284ba0614dbf8499384b7e7ec9bb.bindPopup(popup_fe5792f434d64293a4a113340290bb46)
+        ;
+
+        
+    
+    
+            var marker_e64c6b7473914d798551b53321142d75 = L.marker(
+                [33.07798, -76.92029],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_9bc8935038f24a61924b254ff9a12e95 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fdbc7c3d1dad49f382b3bd4e85f401ec = $(`<div id="html_fdbc7c3d1dad49f382b3bd4e85f401ec" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/US-GOV-VESSEL-IMO-0-MMSI-338803000'>Link</a></div>`)[0];
+            popup_9bc8935038f24a61924b254ff9a12e95.setContent(html_fdbc7c3d1dad49f382b3bd4e85f401ec);
+        
+
+        marker_e64c6b7473914d798551b53321142d75.bindPopup(popup_9bc8935038f24a61924b254ff9a12e95)
+        ;
+
+        
+    
+    
+            var marker_1f3df08cce334f64a31c35922cf3f19b = L.marker(
+                [34.58638, 139.91545],
+                {}
+            ).addTo(map_60f2bce26238456e86b3b544a1410c9e);
+        
+    
+        var popup_d0df3a24d2704daa93087892ae124bc3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_69cd1e47c94c4d15b59490d0dc5c47da = $(`<div id="html_69cd1e47c94c4d15b59490d0dc5c47da" style="width: 100.0%; height: 100.0%;"><a href='https://www.vesselfinder.com/vessels/US-AIRCRAFTCARRIER-6-IMO-0-MMSI-369970739'>Link</a></div>`)[0];
+            popup_d0df3a24d2704daa93087892ae124bc3.setContent(html_69cd1e47c94c4d15b59490d0dc5c47da);
+        
+
+        marker_1f3df08cce334f64a31c35922cf3f19b.bindPopup(popup_d0df3a24d2704daa93087892ae124bc3)
+        ;
+
+        
+    
+</script>
