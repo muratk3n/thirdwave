@@ -1,20 +1,7 @@
-# Navy Location
+# US Navy Location
 
-
-
-```python
-def all_urls():
-    urls = []
-    for i in range(2):
-        url = 'https://www.vesselfinder.com/vessels?page=%d&type=7&flag=US' % i
-        resp = requests.get(url, headers=headers)  
-        soup = bs4.BeautifulSoup(resp.text,"lxml");
-        tds = soup.find_all("td", {"class": "v1"})
-        for x in tds:
-            urls.append(x.a.attrs['href'])
-    return urls
-```
-
+Locations for a few US aircraft carriers, and destroyers. To see the map
+click on the Output at the bottom.
 
 ```python
 import requests, re, bs4
@@ -75,14 +62,6 @@ for s in ships:
 m.save('navy-out.html')
 ```
 
-
-
-
-
-
-
-
-
-
+[Output](navy-out.html)
 
 
