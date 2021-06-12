@@ -7,12 +7,6 @@ will be more concise and equally effective"
 
 ---
 
-Marine tracking site.. might scrape this later
-
-[Link](https://www.vesselfinder.com/vessels?type=7&flag=US)
-
----
-
 Do not use region codes for filtering anymore, using target lat/lon
 coordinates. 
 
