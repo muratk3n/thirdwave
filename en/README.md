@@ -16,13 +16,15 @@ U.S. government debt declining on the day.
 
 ---
 
-A nascent martini... i like it
+A nascent martini... :)
 
 "I received a message that shook me like a nascent martini"
 
 ---
 
-"GameStop stock plummets 27 percent following earnings report The
+Couldnt they just fake earnings report with some good ol' people power?
+
+"GameStop stock plummets 27 percent following earnings report. The
 stock was among the first to get a huge Reddit and social media
 following earlier this year"
 
