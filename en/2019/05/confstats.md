@@ -177,7 +177,7 @@ for index, row in df4.iterrows():
     if str(row['Actor2Geo_Lat'])=='nan': continue
     if str(row['Actor1CountryCode'])=='nan': continue
     folium.Marker(
-        [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
+        [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
     ).add_to(m)
 
 m.save('conflict-out.html')
