@@ -35,7 +35,7 @@ virgin plastic’"
 
 ---
 
-Thats bcz they used the kung-fu vaccine.. it's no good
+Thats bcz they used the kung-fu vaccine
 
 "Chile capital enters lockdown – despite mass vaccination"
 
