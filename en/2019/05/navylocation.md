@@ -4,7 +4,7 @@ Locations for a few US aircraft carriers, and destroyers. To see the map
 click on the Output at the bottom.
 
 ```python
-import requests, re, bs4
+import requests, re
 import folium
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
