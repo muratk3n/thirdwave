@@ -14,9 +14,7 @@ başlar.
 
 ## En Son
 
-24/6 - [29 bin Yetmedi mi?](/2019/06/29bin.md)
-
-1/10 - [Hidrojen](/2018/10/hidrojen.md)
+1/6 - [Milli Söylem, Göçmenler, Anadolu](2020/07/gocebele-anadolu.md)
 
 ## Referans
 
