@@ -1,7 +1,8 @@
 # Tweets
 
-The antitrust bills target the empires of companies like Apple,
-Amazon, Facebook, Google and potentially Microsoft.
+"House Dems unveil bills to rein in Silicon Valley giants.. The
+antitrust bills target the empires of companies like Apple, Amazon,
+Facebook, Google and potentially Microsoft"
 
 [Link](https://www.politico.com/news/2021/06/11/house-bills-silicon-valley-493511)
 
@@ -27,8 +28,9 @@ decades"
 
 ---
 
-There is some crowding around Ukraine.. I dont have up-to-date info on
-Eisenhower, but some say now it is around Oman.
+There is around Ukraine..? In a geo average sense at least.. DB info
+is not up-to-date on USS Eisenhower, but some say now it is around
+Oman.
 
 ---
 
