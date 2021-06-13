@@ -71,7 +71,7 @@ Atlantic"
 
 ---
 
-This is good.. and a half a bil from US..  
+This is good.. and half a bil from US..
 
 "G-7 leaders to pledge 1 billion doses of Covid vaccines to low-income nations"
 
