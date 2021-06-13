@@ -69,11 +69,7 @@ Atlantic"
 
 ---
 
-This is good.. and a half a bil from US.. At the right time
-depatenting wld work too but I'll take this one too. US is pushing
-Pfizer to produce more.. they will completement their production? Now
-Pfizer essentially has one customer, with strict output expectations,
-and help... is this an effective (temporary) nationalization?
+This is good.. and a half a bil from US..  
 
 "G-7 leaders to pledge 1 billion doses of Covid vaccines to low-income nations"
 
