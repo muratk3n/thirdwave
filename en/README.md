@@ -28,9 +28,9 @@ decades"
 
 ---
 
-There is around Ukraine..? In a geo average sense at least.. DB info
-is not up-to-date on USS Eisenhower, but some say now it is around
-Oman.
+There is some focus around Ukraine..? In a geo average sense at
+least.. DB info is not up-to-date on USS Eisenhower, but some say now
+it is around Oman.
 
 ---
 
