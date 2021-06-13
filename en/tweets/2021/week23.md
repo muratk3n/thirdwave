@@ -1,5 +1,86 @@
 # Week 23
 
+Politico: despite the higher-than-expected inflation numbers, bond
+investors shrugged at the news, with long-term interest rates on
+U.S. government debt declining on the day.
+
+---
+
+A nascent martini... :)
+
+"I received a message that shook me like a nascent martini"
+
+---
+
+Couldnt they just fake a good earnings report with people power? 
+
+"GameStop stock plummets 27 percent following earnings report. The
+stock was among the first to get a huge Reddit and social media
+following earlier this year"
+
+---
+
+I am looking forward to Kenobi
+
+---
+
+Interesting tech.. so, no more green screens?
+
+<iframe width="230" src="https://www.youtube.com/embed/hsxQXs9bjbo?start=31&end=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+The Guardian: "Half of clothes sold by online fashion brands ‘made from
+virgin plastic’"
+
+---
+
+Thats bcz they used the kung-fu vaccine
+
+"Chile capital enters lockdown – despite mass vaccination"
+
+---
+
+BBC: "China has created a dystopian hellscape in Xinjiang, Amnesty
+report says"
+
+---
+
+Ok.. this makes more sense.. leaving.. to come back in, as part of a
+broader effort.
+
+WSJ: "France Ends Africa Military Operation to Join Broader Alliance"
+
+---
+
+WSJ: "Covid-19 Deaths This Year Have Already Eclipsed 2020's Toll"
+
+---
+
+WSJ: "Germany Shuts Door on Patent Trolls.. The nation removed a
+legislative quirk that had made it a prime destination for globally
+active patent litigators who increasingly target fast-growing tech
+companies"
+
+---
+
+Members can run the Conflict Stats report for any region, anytime they want
+
+---
+
+Adamentium vs vibranium.. now thats an interesting question..
+
+---
+
+"@alastair_hick
+
+Breakthrough research in nitrogen reduction to ammonia at high
+efficiency and rates from @DRMacFarlane"
+
+[Link](https://mobile.twitter.com/alastair_hick/status/1403096416868659201)
+
+---
+
 "@pauldauenhauer
 
 Opinion: The phrase 'in order to' can always be shorted to 'to' and it

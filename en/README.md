@@ -1,85 +1,91 @@
 # Tweets
 
----
+The antitrust bills target the empires of companies like Apple,
+Amazon, Facebook, Google and potentially Microsoft.
 
-Politico: despite the higher-than-expected inflation numbers, bond
-investors shrugged at the news, with long-term interest rates on
-U.S. government debt declining on the day.
-
----
-
-A nascent martini... :)
-
-"I received a message that shook me like a nascent martini"
+[Link](https://www.politico.com/news/2021/06/11/house-bills-silicon-valley-493511)
 
 ---
 
-Couldnt they just fake a good earnings report with people power? 
+"@JesseDrucker
 
-"GameStop stock plummets 27 percent following earnings report. The
-stock was among the first to get a huge Reddit and social media
-following earlier this year"
+MY LATEST: How private equity conquered the US tax system: IRS
+virtually never audits a $4.5 trillion industry"
 
----
-
-I am looking forward to Kenobi
+[Link](https://mobile.twitter.com/JesseDrucker/status/1403726363417366533)
 
 ---
 
-Interesting tech.. so, no more green screens?
+"@JohnOtis
 
-<iframe width="230" src="https://www.youtube.com/embed/hsxQXs9bjbo?start=31&end=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Colombian guerrillas and the Venezuelan military are ideological
+soulmates. But disputes over cocaine trafficking led to clashes
+between the two sides and Venezuela's worst military defeat in
+decades"
 
----
-
-The Guardian: "Half of clothes sold by online fashion brands ‘made from
-virgin plastic’"
-
----
-
-Thats bcz they used the kung-fu vaccine
-
-"Chile capital enters lockdown – despite mass vaccination"
+[Link](https://mobile.twitter.com/JohnOtis/status/1403473126646767621)
 
 ---
 
-BBC: "China has created a dystopian hellscape in Xinjiang, Amnesty
-report says"
+There is a lot of crowding around Ukraine! I dont have up-to-date info
+on Eisenhower, but some sources say now it is around Oman. Somewhat
+aay from the "theather" but closer to .. Iran?
 
 ---
 
-Ok.. this makes more sense.. leaving.. to come back in, as part of a
-broader effort.
+US Navy deployment map below, for a few carriers and destroyers, to
+give a rough idea of the focus.. 
 
-WSJ: "France Ends Africa Military Operation to Join Broader Alliance"
-
----
-
-WSJ: "Covid-19 Deaths This Year Have Already Eclipsed 2020's Toll"
+[Link](2019/05/navylocation.md)
 
 ---
 
-WSJ: "Germany Shuts Door on Patent Trolls.. The nation removed a
-legislative quirk that had made it a prime destination for globally
-active patent litigators who increasingly target fast-growing tech
-companies"
+I did the scraping, because... why the hell not?
 
 ---
 
-Members can run the Conflict Stats report for any region, anytime they want
+Super
+
+"@mtutek
+
+Going through students' lab assignment submissions and ran into this"
+
+<img width="340" src="https://pbs.twimg.com/media/E3l9RajXwAAxyUu?format=png&name=small"/>
 
 ---
 
-Adamentium vs vibranium.. now thats an interesting question..
+Exactly
+
+"[T]he fossil industry .. started to see the prospective future
+benefits. If the public wants hydrogen fuel, the fossil fuel and
+pipeline companies are the most likely producers"
+
+[Link](https://www.ft.com/content/97c55ce5-16a7-416f-b628-e81dc224e612)
 
 ---
 
-"@alastair_hick
+Politico.eu: "Iran and Venezuela are testing Biden with suspected
+weapons transfer.. Two Iranian warships are steaming across the
+Atlantic"
 
-Breakthrough research in nitrogen reduction to ammonia at high
-efficiency and rates from @DRMacFarlane"
+---
 
-[Link](https://mobile.twitter.com/alastair_hick/status/1403096416868659201)
+This is good.. and a half a bil from US.. At the right time
+depatenting wld work too but I'll take this one too. US is pushing
+Pfizer to produce more.. they will completement their production? Now
+Pfizer essentially has one customer, with strict output expectations,
+and help... is this an effective (temporary) nationalization?
+
+"G-7 leaders to pledge 1 billion doses of Covid vaccines to low-income nations"
+
+---
+
+"@CosmosMagazine
+
+Australian chemists have found a clean, efficient method of making
+large amounts of the critical agricultural product ammonia"
+
+[Link](https://cosmosmagazine.com/chemistry/clean-green-way-to-make-ammonia-fertilisers)
 
 ---
 
