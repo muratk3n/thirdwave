@@ -27,9 +27,8 @@ decades"
 
 ---
 
-There is a lot of crowding around Ukraine! I dont have up-to-date info
-on Eisenhower, but some sources say now it is around Oman. Somewhat
-aay from the "theather" but closer to .. Iran?
+There is some crowding around Ukraine.. I dont have up-to-date info on
+Eisenhower, but some say now it is around Oman.
 
 ---
 
