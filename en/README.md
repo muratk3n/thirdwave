@@ -39,7 +39,7 @@ give a rough idea of the focus..
 
 ---
 
-I did the scraping, because... why the hell not?
+I did the vessel db site scraping because.. why the hell not?
 
 ---
 
