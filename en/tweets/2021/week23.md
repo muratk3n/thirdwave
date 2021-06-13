@@ -93,7 +93,7 @@ coordinates.
 
 ---
 
-Conflict stats [update](2019/05/confstats.md#gdelt), past 5 days,
+Conflict stats [update](../../2019/05/confstats.md#gdelt), past 5 days,
 around Iraq and Syria. As before click on Output for the map.
 
 ---
@@ -531,7 +531,7 @@ overkill.
 
 ---
 
-The downtrend on the real unemployment [continued](2019/05/stats.md#unempl).
+The downtrend on the real unemployment [continued](../../2019/05/stats.md#unempl).
 The defunct unemployment number did its little fluctuation, threw ppl off,
 and they were shitting bricks for a month. If they followed better stats
 they would be not be shitting a William Shatner, it would just be a little
