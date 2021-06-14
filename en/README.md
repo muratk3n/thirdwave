@@ -43,8 +43,8 @@ No. Bcz I dont support issue voting in general.
 
 ---
 
-Great.. this new appr would also carry the legitimacy of a runoff IMO,
-with less cost.
+Great.. this new approach would also carry the legitimacy of a runoff
+IMO. 
 
 Politico: "Voting kicks off in a New York City mayor's race.. Voters
 are trying out ranked-choice voting for the first time... The new
