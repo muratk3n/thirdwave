@@ -96,8 +96,6 @@ Waste of good actor talent.
 
 ---
 
-This might just be the coolest song ever.. Freaky composition. 
-
 Reminiscence Quartet - Onde Anda Meu Amor \#music
 
 [Link](https://youtu.be/ShVK68PdpWY)
