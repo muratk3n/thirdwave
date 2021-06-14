@@ -31,8 +31,9 @@ in terms of actual policy, Biden Admin is slightly softer on Russia"
 No recall elections. No issue voting. No referandums. No direct
 democracy, until such time new tech / system does something
 drastically different, not merely slaps some wizbang appendage on the
-existing system which is not built for such granular interaction. It
-should all mainly revolve around the representatives.
+existing system which is not built for such granular
+interaction. Currentn system should be (mostly is) centered around the
+representatives.
 
 ---
 
