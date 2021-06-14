@@ -6,8 +6,8 @@ as the Israeli Prime Minister"
 ---
 
 "[S]ince 1999, when Hugo Chavez ushered in a socialist revolution,
-Venezuela allowed the rebels to use its territory in their fight
-against the Colombian government, which is a U.S. ally. Under
+Venezuela allowed the [Colombian] rebels to use its territory in their
+fight against the Colombian government, which is a U.S. ally. Under
 Colombia's 2016 peace agreement, most of the rebels disarmed, but some
 refused. And many of these guerrillas are thought to be smuggling
 Colombian cocaine through Venezuela in cahoots with the Venezuelan
