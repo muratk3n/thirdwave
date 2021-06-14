@@ -5,6 +5,29 @@ as the Israeli Prime Minister"
 
 ---
 
+"[S]ince 1999, when Hugo Chavez ushered in a socialist revolution,
+Venezuela allowed the rebels to use its territory in their fight
+against the Colombian government, which is a U.S. ally. Under
+Colombia's 2016 peace agreement, most of the rebels disarmed, but some
+refused. And many of these guerrillas are thought to be smuggling
+Colombian cocaine through Venezuela in cahoots with the Venezuelan
+army. McDermott claims the fighting broke out when one guerrilla
+faction tried to bypass the Venezuelan military and keep most or all
+of the cocaine profits"
+
+[Link](https://www.npr.org/2021/06/11/1005670674/behind-the-violence-between-venezuelan-forces-and-colombian-guerillas)
+
+---
+
+"@ianbremmer
+
+Trump was personally more aligned towards Putin than any recent US
+President (and look at the difference in [TIME covers](https://mobile.twitter.com/ianbremmer/status/1403344248297164800)..). 
+But that didn’t impact outcomes, because Trump Admin & GOP was hawkish. Indeed,
+in terms of actual policy, Biden Admin is slightly softer on Russia"
+
+---
+
 No recall elections. No issue voting. No referandums. No direct
 democracy, until such time new tech / system does something
 drastically different, not merely slaps some wizbang appendage on the
