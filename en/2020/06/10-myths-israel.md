@@ -2,8 +2,6 @@
 
 By Ilan Pappe
 
-<a name='madonna'/>
-
 Myth: The Jews Were a People Without Land
 
 The claim .. is that Palestine was a land without people, goes hand in
@@ -15,6 +13,8 @@ counterargument questions this genealogical connection. Quite a hefty
 scholarly effort has shown that the Jews of Roman Palestine remained
 on the land and were first converted to Christianity and then to
 Islam. ...
+
+<a name='land'/>
 
 [Some also say] Palestine was an empty land [when Jews 'came
 back']. In this story, by 1800 Palestine had become a desert, where

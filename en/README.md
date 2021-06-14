@@ -32,7 +32,7 @@ No recall elections. No issue voting. No referandums. No direct
 democracy, until such time new tech / system does something
 drastically different, not merely slaps some wizbang appendage on the
 existing system which is not built for such granular
-interaction. Currentn system should be (mostly is) centered around the
+interaction. Current system should be (mostly is) centered around the
 representatives.
 
 ---
