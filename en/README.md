@@ -49,7 +49,7 @@ Hey the effects on the movie *2010* weren't half bad.
 
 it must be serious then
 
-"Manhole covers welded shut"
+"Manhole covers were welded shut"
 
 ---
 
