@@ -10,6 +10,16 @@ import folium
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 ships = [
+    [368926053, 'USS Rafael Peralta (DDG-115)', 'NA-IMO-0-MMSI-368926053'],
+    [366996000, 'USS Mitscher (DDG-57)','MITSCHER-IMO-0-MMSI-366996000'],
+    [338807000, 'USS John Paul Jones (DDG-53)', 'US-GOV-VESSEL-IMO-0-MMSI-338807000'],
+    [338821000, 'USS WINSTON S. CHURCHILL (DDG-81)','GOVTVESSEL-IMO-0-MMSI-338821000'],
+    [367198000, 'USS The Sullivans (DDG-68)','US-WARSHIP-IMO-0-MMSI-367198000'],
+    [369921000, 'USS Mustin (DDG-89)','NA-IMO-0-MMSI-369921000'],
+    [367199000, 'USS Milius (DDG-69)','US-GOV-SHIP-IMO-0-MMSI-367199000'],
+    [369962000, 'USS James E. Williams (DDG-95)','US-GOVT-VESSEL-95-IMO-0-MMSI-369962000'],
+    [369970407, 'USS Halsey (DDG-97)','US-GOV-VESSEL-IMO-0-MMSI-369970407'],
+    [369952000, 'USS Chung-Hoon (DDG-93)','US-WARSHIP-IMO-0-MMSI-369952000'],
     [338813000, 'USS Iwo Jima (LHD-7)','US-GOVT-VESSEL-IMO-0-MMSI-338813000'],
     [368938000, 'USS Ross (DDG-71)','US-GOV-VESSEL-IMO-0-MMSI-368938000'],
     [366992000, 'USS Barry (DDG-52)','USGOVT-VESSEL--IMO-0-MMSI-366992000'],
@@ -22,13 +32,16 @@ ships = [
     [369970406, 'USS Abraham Lincoln (CVN-72)', 'WARSHIP-72-IMO-0-MMSI-369970406'],
     [338803000, 'USS Gerald R. Ford (CVN-78)', 'US-GOV-VESSEL-IMO-0-MMSI-338803000'],
     [369970739, 'USS AMERICA (LHA-6)', 'US-AIRCRAFTCARRIER-6-IMO-0-MMSI-369970739'],
-    ]
+]
 
 def ship_detail(url):
     resp = requests.get(url, headers=headers)  
     res = re.findall(r'Course / Speed</td><td class="v3">(.*?)&deg; / (.*?) kn</td>',resp.text)
     course,speed = res[0]
     res = re.findall(r'Position received.*?"red">(.*?) ago',resp.text,re.DOTALL)
+    name = ''
+    flat=0
+    flon=0
     if len(res)>0:
         ago = res[0]
         if 'mins' in ago: ago=0
@@ -37,12 +50,13 @@ def ship_detail(url):
         ago = ''
     res = re.findall(r'The current position of <strong>(.*?)</strong>',resp.text)
     name = res[0]
-    res = re.findall(r'at .*?coordinates (.*?) \/ (.*?)\) reported',resp.text)
+    res = re.findall(r'.*?coordinates (.*?) \/ (.*?)\) reported',resp.text)
     lat,lon = res[0]
     flat = float(lat[:-2])
     flon = float(lon[:-2])
     if "S" in lat: flat = flat*-1
     if "W" in lon: flon = flon*-1
+    
     return course,speed,ago,name,flat,flon
 
 m = folium.Map(location=[30, 30], zoom_start=2, tiles="Stamen Terrain")
@@ -53,10 +67,10 @@ for s in ships:
     url = s[2]
     if len(url)>0: 
         course,speed,ago,name,flat,flon = ship_detail(base + url)
-    folium.Marker(
-        [flat, flon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
-    ).add_to(m)
-    
+        folium.Marker(
+            [flat, flon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
+        ).add_to(m)
+        
 m.save('navy-out.html')
 ```
 
