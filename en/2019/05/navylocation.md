@@ -10,6 +10,10 @@ import folium
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 ships = [
+    [338912000, 'USS Shiloh (CG-67)', 'NA-IMO-0-MMSI-338912000'],
+    [338967000, 'USS Port Royal (CG-73)', 'US-GOV-VESSEL-IMO-0-MMSI-338967000'],
+    [368776000, 'USS Chancellorsville (CG-62)', 'US-WARSHIP-62-IMO-0-MMSI-368776000'],
+    [338834000, 'USS Antietam (CG-54)', 'NA-IMO-0-MMSI-338834000'],
     [368926053, 'USS Rafael Peralta (DDG-115)', 'NA-IMO-0-MMSI-368926053'],
     [366996000, 'USS Mitscher (DDG-57)','MITSCHER-IMO-0-MMSI-366996000'],
     [338807000, 'USS John Paul Jones (DDG-53)', 'US-GOV-VESSEL-IMO-0-MMSI-338807000'],
@@ -69,7 +73,6 @@ for s in ships:
         course,speed,ago,name,flat,flon = ship_detail(base + url)
         ttext = "%s (%s deg, %s kn) %s days ago" % (s[1],course,speed,ago)
         tpop = "<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (base+url)
-        print (tpop)
         folium.Marker(
             [flat, flon], popup=tpop, tooltip=ttext
         ).add_to(m)
