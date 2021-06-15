@@ -67,8 +67,11 @@ for s in ships:
     url = s[2]
     if len(url)>0: 
         course,speed,ago,name,flat,flon = ship_detail(base + url)
+        ttext = "%s (%s deg, %s kn) %s days ago" % (s[1],course,speed,ago)
+        tpop = "<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (base+url)
+        print (tpop)
         folium.Marker(
-            [flat, flon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % url, tooltip=s[1] + ' ' + ago + ' days ago'
+            [flat, flon], popup=tpop, tooltip=ttext
         ).add_to(m)
         
 m.save('navy-out.html')

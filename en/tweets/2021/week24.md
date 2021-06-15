@@ -139,7 +139,7 @@ it is around Oman.
 US Navy deployment map below, for a few carriers and destroyers, to
 give a rough idea of the focus.. 
 
-[Link](2019/05/navylocation.md)
+[Link](../../2019/05/navylocation.md)
 
 ---
 
