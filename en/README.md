@@ -62,7 +62,8 @@ Japan, and Vietnam / Singapore.
 
 ---
 
-Added a few more destroyers to the Navy location map, and guided missile cruisers.
+Navy location map update. Added more destroyers, and guided missile
+cruisers.
 
 [Link](2019/05/navylocation.md)
 
