@@ -75,7 +75,7 @@ cruisers.
 
 ---
 
-Conflict stat [update](../../2019/05/confstats.md#gdelt).
+Conflict stat [update](2019/05/confstats.md#gdelt).
 
 ---
 
