@@ -94,7 +94,7 @@ the "Suez Canal problem". 🤨
 
 ---
 
-And IBM has.. 1000 quibits?
+And IBM has.. 1000 qubits?
 
 How is this anything other than [academic interest](https://youtu.be/OGsu5MIzruw?t=98)?
 
