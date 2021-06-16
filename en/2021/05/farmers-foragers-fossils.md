@@ -43,6 +43,8 @@ biologicized.”...
 
 Foragers
 
+<a name='hierarchy'/>
+
 Everywhere from the Arctic to Australia, ethnographers have commented
 on foragers’ aversion to political hierarchy. (In the excellent
 Cambridge Encyclopedia 40 of Hunter-Gatherers, for instance, almost
