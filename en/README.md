@@ -18,8 +18,7 @@ I connected them dots.. Wapoosh 😉
 
 ---
 
-Aha.. USS RR was near Japan, my map's data was a month old. So it
-sailed to SCS
+Aha.. USS RR was near Japan, data is a month old. So it sailed to SCS
 
 NYT: "Even as NATO leaders met in Brussels, the American aircraft
 carrier Ronald Reagan and several other warships moved into the
@@ -85,7 +84,7 @@ as clean hydrogen in maritime and port operations"
 
 ---
 
-Of course tinker away.. tinkering is a good thing
+But of course tinker away.. tinkering is a good thing
 
 ---
 
