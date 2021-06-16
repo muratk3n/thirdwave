@@ -1,85 +1,106 @@
 # Tweets
 
-IMO it's a mistake to optimize for full-employment.
+Countries with too many illiberal muckers getting bombed by the
+threes.. is this a pattern?
+
+"Hungary 0-3 Portugal"
 
 ---
 
-It's true.. the unemployment rate is plateuing and looks like at a level
-higher than pre pandemic.
-
-"A large slice of workers laid off during the Covid pandemic are
-reporting that their jobs aren’t coming back"
-
-[Link](https://www.politico.com/newsletters/weekly-shift/2021/06/14/have-covid-layoffs-killed-some-jobs-for-good-795928)
+U know like [wapoosh](https://youtu.be/ZJbxXLl0BbM)
 
 ---
 
-"Hydrogen fuel company sets $84M plant for southeast Georgia.. A
-company that produces hydrogen to fuel vehicles and electric
-generators says it will invest .. to build a hydrogen refinery"
+I bet Biden ordered the carrier group weeks ago into SCS to coincide
+with this meeting.
 
-[Link](https://www.myjournalcourier.com/news/article/Hydrogen-fuel-company-sets-84M-plant-for-16239904.php)
-
----
-
-"@VolvoGroup Breaks Ground on State-of-the-Art Vehicle Propulsion Lab
-in the U.S. to Include Hydrogen-Based FuelCell Testing. $33 million
-expansion of its powertrain research and development site in
-Hagerstown, Maryland"
-
-[Link](https://bit.ly/3whN6Bk)
+I connected them dots.. Wa-poosh 😉
 
 ---
 
-"Queensland Government invest $2 Billion into Renewable Energy.. 2
-billion dollar Fund is a watershed moment in economic development of
-Queensland"
+Aha.. USS RR was near Japan, my map's data was a month old. So it
+sailed to SCS
 
-[Link](https://bit.ly/3viJ1vC)
+NYT: "Even as NATO leaders met in Brussels, the American aircraft
+carrier Ronald Reagan and several other warships moved into the
+disputed waters of the South China Sea, with the group’s commander,
+Rear Adm. Will Pennington, vowing to protect 'international law and
+rules-based order,' wording that echoed NATO’s communiqué. Hours later
+[.. CH] conducted their own show of force over waters south of Taiwan,
+the island democracy that China claims as its own. Only days before,
+the Group of 7 leaders, meeting in Cornwall, England, had for the
+first time issued a statement on Taiwan"
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🌎BREAKING: We&#39;re announcing the first-ever Energy Earthshot Initiative to reduce the cost of clean hydrogen by 80% within the next decade to help the U.S. compete in the global clean energy market, decrease GHG emissions and create more good-paying jobs. <a href="https://t.co/b1kc72whzE">https://t.co/b1kc72whzE</a> <a href="https://t.co/yAfdLIcDTr">pic.twitter.com/yAfdLIcDTr</a></p>&mdash; U.S. Department of Energy (@ENERGY) <a href="https://twitter.com/ENERGY/status/1401924670035746818?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-Hey the effects on the movie *2010* weren't half bad.
-
----
-
-it must be serious then
-
-"Manhole covers were welded shut"
+[Link](https://www.nytimes.com/2021/06/15/world/asia/china-nato-military.html)
 
 ---
 
-Novavax announces that its coronavirus vaccine is effective against variants
+Data can be noisy or missing (report delays, etc); so you try to piece
+it together from clues. An aircraft carrier (code CVN) never travels
+alone, it is accompanied by destroyers (code DG), and guided missile
+cruisers (code CG). So CG and DG presence can indicate a larger deployment.
 
 ---
 
-Zionism also carries the residue of the 30s. They were crushed by that
-nationalism, but in a bizarre reversal, they assumed it (the tortured
-imitating the torturer), and under the protective shield of their
-victimization nursed it to this day.
-
-See [people without a land, and a land without people](2020/06/10-myths-israel.md#land)
-
-Similar bullshit: "we arrived in the our lands, and there was noone
-there".
+Presence around South China Sea is more visible, on both ends, near
+Japan, and Vietnam / Singapore.
 
 ---
 
-Ethnic nationalism was en vogue then.. Some thought Germans "descended
-from Proto-Aryans, who [..]  dwelt on the North German Plain and may
-ultimately have originated on the lost continent of Atlantis". That
-*herrenvolk* business.. FROM ATLANTIS. Some dumb-ass shit right? Kinda
-similar to bunch of punks from Central Asia rolling into Anatolia,
-*finding it empty*, bringing civilization there, right? *tiggervolk*
+Added a few more destroyers to the Navy location map, and guided missile cruisers.
+
+[Link](2019/05/navylocation.md)
 
 ---
 
-Kemal wanted to adapt stuff from the West, yes. But he took some
-defunct ideas from 30s
+"Land Rover unveils hydrogen-powered Defender"
+
+[Link](https://www.h2-view.com/story/land-rover-unveils-hydrogen-powered-defender-commits-to-zero-tailpipe-emissions-by-2036/)
+
+---
+
+Conflict stat [update](../../2019/05/confstats.md#gdelt).
+
+---
+
+"Madrid Will Replace 1,000 Traditional Taxis With Hydrogen Vehicles"
+
+[Link](https://bit.ly/3gmSJJ3)
+
+---
+
+"@hazergroupltd
+
+Australia and Singapore are set to collaborate on a $30 million
+project to expedite the use of low-emission fuels and technology such
+as clean hydrogen in maritime and port operations"
+
+[Link](https://mobile.twitter.com/hazergroupltd/status/1404649991990358017)
+
+---
+
+"Bosch identifies hydrogen as a ‘megatrend’"
+
+[Link](https://www.h2-view.com/story/exclusive-bosch-identifies-hydrogen-as-a-megatrend/)
+
+---
+
+Of course tinker away.. tinkering is a good thing
+
+---
+
+I saw this tech anhcor on TV was going on about QC could have solved
+the "Suez Canal problem". 🤨
+
+---
+
+And IBM has.. 1000 quibits?
+
+How is this anything other than [academic interest](https://youtu.be/OGsu5MIzruw?t=98)?
+
+---
+
+IBM quant comp announcement?
 
 ---
 
