@@ -1,5 +1,21 @@
 # Tweets
 
+"@hazergroupltd
+
+Australia and Singapore are set to collaborate on a $30 million
+project to expedite the use of low-emission fuels and technology such
+as clean hydrogen in maritime and port operations"
+
+[Link](https://mobile.twitter.com/hazergroupltd/status/1404649991990358017)
+
+---
+
+"Bosch identifies hydrogen as a ‘megatrend’"
+
+[Link](https://www.h2-view.com/story/exclusive-bosch-identifies-hydrogen-as-a-megatrend/)
+
+---
+
 Countries with too many illiberal muckers getting bombed by the
 threes.. is this a pattern?
 
@@ -65,22 +81,6 @@ Conflict stat [update](../../2019/05/confstats.md#gdelt).
 "Madrid Will Replace 1,000 Traditional Taxis With Hydrogen Vehicles"
 
 [Link](https://bit.ly/3gmSJJ3)
-
----
-
-"@hazergroupltd
-
-Australia and Singapore are set to collaborate on a $30 million
-project to expedite the use of low-emission fuels and technology such
-as clean hydrogen in maritime and port operations"
-
-[Link](https://mobile.twitter.com/hazergroupltd/status/1404649991990358017)
-
----
-
-"Bosch identifies hydrogen as a ‘megatrend’"
-
-[Link](https://www.h2-view.com/story/exclusive-bosch-identifies-hydrogen-as-a-megatrend/)
 
 ---
 
