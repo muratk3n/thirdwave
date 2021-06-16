@@ -11,10 +11,10 @@ threes.. is this a pattern?
 
 ---
 
-I bet Biden ordered the carrier group weeks ago into SCS to coincide
-with this meeting.
+I bet WH ordered the carrier group weeks ago from Japan toward SCS to
+coincide with this meeting.
 
-I connected them dots.. Wa-poosh 😉
+I connected them dots.. Wapoosh 😉
 
 ---
 
