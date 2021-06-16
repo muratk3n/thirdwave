@@ -7,7 +7,7 @@ threes.. is this a pattern?
 
 ---
 
-U know like [wapoosh](https://youtu.be/ZJbxXLl0BbM)
+[Wapoosh](https://youtu.be/ZJbxXLl0BbM)
 
 ---
 
