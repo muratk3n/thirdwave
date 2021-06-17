@@ -1,5 +1,109 @@
 # Week 24
 
+"@hazergroupltd
+
+Australia and Singapore are set to collaborate on a $30 million
+project to expedite the use of low-emission fuels and technology such
+as clean hydrogen in maritime and port operations"
+
+[Link](https://mobile.twitter.com/hazergroupltd/status/1404649991990358017)
+
+---
+
+"Bosch identifies hydrogen as a ‘megatrend’"
+
+[Link](https://www.h2-view.com/story/exclusive-bosch-identifies-hydrogen-as-a-megatrend/)
+
+---
+
+Countries with too many illiberal muckers getting bombed by the
+threes.. is this a pattern?
+
+"Hungary 0-3 Portugal"
+
+---
+
+[Wapoosh](https://youtu.be/ZJbxXLl0BbM)
+
+---
+
+I bet WH ordered the carrier group weeks ago from Japan toward SCS to
+coincide with this meeting.
+
+I connected them dots.. Wapoosh 😉
+
+---
+
+Aha.. USS RR was near Japan, data is a month old. So it sailed to SCS
+
+NYT: "Even as NATO leaders met in Brussels, the American aircraft
+carrier Ronald Reagan and several other warships moved into the
+disputed waters of the South China Sea, with the group’s commander,
+Rear Adm. Will Pennington, vowing to protect 'international law and
+rules-based order,' wording that echoed NATO’s communiqué. Hours later
+[.. CH] conducted their own show of force over waters south of Taiwan,
+the island democracy that China claims as its own. Only days before,
+the Group of 7 leaders, meeting in Cornwall, England, had for the
+first time issued a statement on Taiwan"
+
+[Link](https://www.nytimes.com/2021/06/15/world/asia/china-nato-military.html)
+
+---
+
+Data can be noisy or missing (report delays, etc); so you try to piece
+it together from clues. An aircraft carrier (code CVN) never travels
+alone, it is accompanied by destroyers (code DG), and guided missile
+cruisers (code CG). So CG and DG presence can indicate a larger deployment.
+
+---
+
+Presence around South China Sea is more visible, on both ends, near
+Japan, and Vietnam / Singapore.
+
+---
+
+Navy location map update. Added more destroyers, and guided missile
+cruisers.
+
+[Link](2019/05/navylocation.md)
+
+---
+
+"Land Rover unveils hydrogen-powered Defender"
+
+[Link](https://www.h2-view.com/story/land-rover-unveils-hydrogen-powered-defender-commits-to-zero-tailpipe-emissions-by-2036/)
+
+---
+
+Conflict stat [update](2019/05/confstats.md#gdelt).
+
+---
+
+"Madrid Will Replace 1,000 Traditional Taxis With Hydrogen Vehicles"
+
+[Link](https://bit.ly/3gmSJJ3)
+
+---
+
+But of course tinker away.. tinkering is a good thing
+
+---
+
+I saw this tech anhcor on TV was going on about QC could have solved
+the "Suez Canal problem". 🤨
+
+---
+
+And IBM has.. 1000 qubits?
+
+How is this anything other than [academic interest](https://youtu.be/OGsu5MIzruw?t=98)?
+
+---
+
+IBM quant comp announcement?
+
+---
+
 IMO it's a mistake to optimize for full-employment.
 
 ---

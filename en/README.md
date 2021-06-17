@@ -1,106 +1,96 @@
 # Tweets
 
+"@APPEALtd
+
+@Shell_Australia says @APPEACONFERENCE that green hydrogen is going to
+take time, scale, and needs to dramatically reduce in cost. Blue
+hydrogen can assist by creating demand earlier at a better price point
+to get people used to using hydrogen first. #auspol"
+
+---
+
+Hey this is great. Instead of that Roman corksucking Otto-flavored
+peasant Islam, DE can do a better job grooming these people.
+
+"Imams Made in Germany Imams — trained in Germany and in the German
+language — has been a long time coming.. At last year's German Islam
+Conference, he called plans for the college good news for Muslims in
+Germany as well as the country overall, which has taken pains to
+reduce the influence of foreign-trained imams, especially from Turkey"
+
+---
+
+"‘Our only option’: Myanmar civilians take up arms for democracy"
+
+---
+
+<iframe width="300"  src="https://www.youtube.com/embed/bdqkbLFZo34?start=70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"The Senate confirmed Amazon critic and anti-monopoly advocate Lina
+Khan to the FTC — giving progressive Democrats a majority at the
+antitrust agency for the first time under Biden"
+
+[Link](https://www.politico.com/news/2021/06/15/khan-confirm-ftc-494609 … )
+
+---
+
+🤣 🤣 🤣 I love it
+
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&#39;Drink water&#39;<br><br>Cristiano Ronaldo removes Coca-Cola bottles at start of <a href="https://twitter.com/hashtag/Euro2020?src=hash&amp;ref_src=twsrc%5Etfw">#Euro2020</a> press conference <a href="https://t.co/2eBujl9vzk">pic.twitter.com/2eBujl9vzk</a></p>&mdash; Guardian sport (@guardian_sport) <a href="https://twitter.com/guardian_sport/status/1404726298237411331?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 "@hazergroupltd
 
-Australia and Singapore are set to collaborate on a $30 million
-project to expedite the use of low-emission fuels and technology such
-as clean hydrogen in maritime and port operations"
-
-[Link](https://mobile.twitter.com/hazergroupltd/status/1404649991990358017)
-
----
-
-"Bosch identifies hydrogen as a ‘megatrend’"
-
-[Link](https://www.h2-view.com/story/exclusive-bosch-identifies-hydrogen-as-a-megatrend/)
+Plans for Australia’s first ever hydrogen valley, located in NSW’s
+Hunter region, have taken steps forward with Australian energy
+company, @enosienergy working with authorities to ensure
+certifications for the project are met"
 
 ---
 
-Countries with too many illiberal muckers getting bombed by the
-threes.. is this a pattern?
-
-"Hungary 0-3 Portugal"
+Haha US saz 'shot', UK 'jab'.. and Australians call it 'jeb'. As in
+Jeb Bush.
 
 ---
 
-[Wapoosh](https://youtu.be/ZJbxXLl0BbM)
+Sweet. Lota innovation in Europe
+
+DW: "Spanish company offers 'green' disposable face mask"
+
+[Link](https://www.dw.com/en/spanish-company-offers-green-disposable-face-mask/av-57905166)
 
 ---
 
-I bet WH ordered the carrier group weeks ago from Japan toward SCS to
-coincide with this meeting.
-
-I connected them dots.. Wapoosh 😉
-
----
-
-Aha.. USS RR was near Japan, data is a month old. So it sailed to SCS
-
-NYT: "Even as NATO leaders met in Brussels, the American aircraft
-carrier Ronald Reagan and several other warships moved into the
-disputed waters of the South China Sea, with the group’s commander,
-Rear Adm. Will Pennington, vowing to protect 'international law and
-rules-based order,' wording that echoed NATO’s communiqué. Hours later
-[.. CH] conducted their own show of force over waters south of Taiwan,
-the island democracy that China claims as its own. Only days before,
-the Group of 7 leaders, meeting in Cornwall, England, had for the
-first time issued a statement on Taiwan"
-
-[Link](https://www.nytimes.com/2021/06/15/world/asia/china-nato-military.html)
+"Macron aims for 10 European tech giants valued at €100B by
+2030.. 'There is no sovereignty without local champions,' says French
+president"
 
 ---
 
-Data can be noisy or missing (report delays, etc); so you try to piece
-it together from clues. An aircraft carrier (code CVN) never travels
-alone, it is accompanied by destroyers (code DG), and guided missile
-cruisers (code CG). So CG and DG presence can indicate a larger deployment.
+"LAVO hydrogen storage solutions to assist DV achieve its #NetZero
+Emissions &amp; sustainability objectives"
+
+[Link](https://bit.ly/35qxujh)
 
 ---
 
-Presence around South China Sea is more visible, on both ends, near
-Japan, and Vietnam / Singapore.
+30s nationalism was beaten through war in Europe. TR branch wiggled
+its way out of that loss.. They hid in the cracks of the society like
+cockroach, occasionally getting out and stinking shit up. Zionists
+were already well protected behind their shield of victimization, they
+could not be criticized for anything, in fear of being called
+anti-Semite. That is at least two countries today who harbor a rotten
+form of nationalism, a kind that long should have been swept under the
+carpet. 
 
 ---
 
-Navy location map update. Added more destroyers, and guided missile
-cruisers.
+March away.. on the land of your great-great-great grandfather right? 🤨
 
-[Link](2019/05/navylocation.md)
-
----
-
-"Land Rover unveils hydrogen-powered Defender"
-
-[Link](https://www.h2-view.com/story/land-rover-unveils-hydrogen-powered-defender-commits-to-zero-tailpipe-emissions-by-2036/)
-
----
-
-Conflict stat [update](2019/05/confstats.md#gdelt).
-
----
-
-"Madrid Will Replace 1,000 Traditional Taxis With Hydrogen Vehicles"
-
-[Link](https://bit.ly/3gmSJJ3)
-
----
-
-But of course tinker away.. tinkering is a good thing
-
----
-
-I saw this tech anhcor on TV was going on about QC could have solved
-the "Suez Canal problem". 🤨
-
----
-
-And IBM has.. 1000 qubits?
-
-How is this anything other than [academic interest](https://youtu.be/OGsu5MIzruw?t=98)?
-
----
-
-IBM quant comp announcement?
+"Israeli nationalists march through Jerusalem's Old City"
 
 ---
 
