@@ -25,6 +25,12 @@ antitrust agency for the first time under Biden"
 
 ---
 
+🤣 🤣 🤣 
+
+Fortune: "Coca-Cola loses $4 billion in market value after Cristiano Ronaldo shuns Coke"
+
+---
+
 🤣 🤣 🤣 I love it
 
 <blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&#39;Drink water&#39;<br><br>Cristiano Ronaldo removes Coca-Cola bottles at start of <a href="https://twitter.com/hashtag/Euro2020?src=hash&amp;ref_src=twsrc%5Etfw">#Euro2020</a> press conference <a href="https://t.co/2eBujl9vzk">pic.twitter.com/2eBujl9vzk</a></p>&mdash; Guardian sport (@guardian_sport) <a href="https://twitter.com/guardian_sport/status/1404726298237411331?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
