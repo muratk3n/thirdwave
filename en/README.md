@@ -57,10 +57,8 @@ Hey this is great. Instead of that Romanized Ottocunt peasant Islam,
 DE can do a better job grooming these people.
 
 "Imams Made in Germany Imams — trained in Germany and in the German
-language — has been a long time coming.. At last year's German Islam
-Conference, he called plans for the college good news for Muslims in
-Germany as well as the country overall, which has taken pains to
-reduce the influence of foreign-trained imams, especially from Turkey"
+language [new plan] has taken pains to reduce the influence of
+foreign-trained imams, especially from Turkey"
 
 ---
 
