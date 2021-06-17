@@ -78,13 +78,12 @@ Emissions &amp; sustainability objectives"
 ---
 
 30s nationalism was beaten through war in Europe. TR branch wiggled
-its way out of that loss.. They hid in the cracks of the society like
-cockroach, occasionally getting out and stinking shit up. Zionists
-were already well protected behind their shield of victimization, they
-could not be criticized for anything, in fear of being called
-anti-Semite. That is at least two countries today who harbor a rotten
-form of nationalism, a kind that long should have been swept under the
-carpet. 
+its way out of that loss.. They hid in the cracks of the society,
+occasionally getting out and messing shit up. Zionists were already
+well protected behind their shield of victimization, they could not be
+criticized for anything, in fear of being called anti-Semite. That is
+at least two countries today who harbor a rotten form of nationalism,
+a kind that long should have been swept under the carpet.
 
 ---
 
