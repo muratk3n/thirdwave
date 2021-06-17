@@ -87,7 +87,7 @@ occasionally getting out and messing shit up. Zionists were already
 well protected behind their shield of victimization, they could not be
 criticized for anything, in fear of being called anti-Semite. That is
 at least two countries today who harbor a rotten form of nationalism,
-a kind that long should have been swept under the carpet.
+a kind that long should have been swept clean.
 
 ---
 
