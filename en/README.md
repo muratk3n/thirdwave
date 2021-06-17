@@ -9,17 +9,6 @@ to get people used to using hydrogen first. #auspol"
 
 ---
 
-Hey this is great. Instead of that Roman corksucking Otto-flavored
-peasant Islam, DE can do a better job grooming these people.
-
-"Imams Made in Germany Imams — trained in Germany and in the German
-language — has been a long time coming.. At last year's German Islam
-Conference, he called plans for the college good news for Muslims in
-Germany as well as the country overall, which has taken pains to
-reduce the influence of foreign-trained imams, especially from Turkey"
-
----
-
 "‘Our only option’: Myanmar civilians take up arms for democracy"
 
 ---
@@ -63,6 +52,18 @@ DW: "Spanish company offers 'green' disposable face mask"
 [Link](https://www.dw.com/en/spanish-company-offers-green-disposable-face-mask/av-57905166)
 
 ---
+
+Hey this is great. Instead of that Roman muckmucking Otto-flavored
+peasant Islam, DE can do a better job grooming these people.
+
+"Imams Made in Germany Imams — trained in Germany and in the German
+language — has been a long time coming.. At last year's German Islam
+Conference, he called plans for the college good news for Muslims in
+Germany as well as the country overall, which has taken pains to
+reduce the influence of foreign-trained imams, especially from Turkey"
+
+---
+
 
 "Macron aims for 10 European tech giants valued at €100B by
 2030.. 'There is no sovereignty without local champions,' says French
