@@ -40,8 +40,8 @@ certifications for the project are met"
 
 ---
 
-Haha US saz 'shot', UK 'jab'.. and Australians call it 'jeb'. As in
-Jeb Bush.
+US saz 'shot', UK 'jab'.. and Australians call it 'jeb'. As in Jeb
+Bush.
 
 ---
 
@@ -61,7 +61,6 @@ language [new plan] has taken pains to reduce the influence of
 foreign-trained imams, especially from Turkey"
 
 ---
-
 
 "Macron aims for 10 European tech giants valued at €100B by
 2030.. 'There is no sovereignty without local champions,' says French
