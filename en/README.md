@@ -1,99 +1,96 @@
 # Tweets
 
-"@APPEALtd
-
-@Shell_Australia says @APPEACONFERENCE that green hydrogen is going to
-take time, scale, and needs to dramatically reduce in cost. Blue
-hydrogen can assist by creating demand earlier at a better price point
-to get people used to using hydrogen first. #auspol"
+<blockquote width="300" class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> is trending again! A diverse mixture of taxis, scooters, trains, boats, buses, steel, a hydrogen office in BEIS, transport by pipeline and ship, green hydrogen production, a Norwegian hydrogen roadmap, and a new fuel cell. That&#39;s a lot of H2 news!<a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a> <a href="https://t.co/znV8akSOqW">pic.twitter.com/znV8akSOqW</a></p>&mdash; Jonny Scafidi (@jonafushi) <a href="https://twitter.com/jonafushi/status/1405433009730428933?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"‘Our only option’: Myanmar civilians take up arms for democracy"
+CNBC: "BMW starts European road tests of hydrogen fuel cell cars"
+
+[Link](https://www.cnbc.com/2021/06/17/bmw-starts-european-road-tests-of-hydrogen-fuel-cell-cars.html)
 
 ---
 
-<iframe width="300"  src="https://www.youtube.com/embed/bdqkbLFZo34?start=70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We can certainly fix the BEV problem -- by abandoning the f-ing tech.
+
+"Hybrid electric vehicles (HEV) contain approximately 85 pounds [of
+copper].. battery electric vehicles (BEVs) contain 183 pounds"
 
 ---
 
-"The Senate confirmed Amazon critic and anti-monopoly advocate Lina
-Khan to the FTC — giving progressive Democrats a majority at the
-antitrust agency for the first time under Biden"
-
-[Link](https://www.politico.com/news/2021/06/15/khan-confirm-ftc-494609 … )
+Copper is used heavily in panels, turbines; not much we can do there (unless
+we find pure chemical, photosynthesis-like process to generate H2 direct),
+but we can fix the grid problem. 
 
 ---
 
-🤣 🤣 🤣 
+Another reason to de-electrify and *not* use a grid for energy transportation
 
-Fortune: "Coca-Cola loses $4 billion in market value after Cristiano Ronaldo shuns Coke"
-
----
-
-🤣 🤣 🤣 I love it
-
-<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&#39;Drink water&#39;<br><br>Cristiano Ronaldo removes Coca-Cola bottles at start of <a href="https://twitter.com/hashtag/Euro2020?src=hash&amp;ref_src=twsrc%5Etfw">#Euro2020</a> press conference <a href="https://t.co/2eBujl9vzk">pic.twitter.com/2eBujl9vzk</a></p>&mdash; Guardian sport (@guardian_sport) <a href="https://twitter.com/guardian_sport/status/1404726298237411331?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"[G]rid energy storage installations rely on between 3 tons and 4 tons [of copper] per MW"
 
 ---
 
-"@hazergroupltd
-
-Plans for Australia’s first ever hydrogen valley, located in NSW’s
-Hunter region, have taken steps forward with Australian energy
-company, @enosienergy working with authorities to ensure
-certifications for the project are met"
+Copper shortfall? Damn
 
 ---
 
-US saz 'shot', UK 'jab'.. and Australians call it 'jeb'. As in Jeb
-Bush.
+"In an Australian first, renewable hydrogen will be delivered to 700
+homes in Mitchell Park when Australia’s largest electrolyser is
+switched on at Hydrogen Park South Australia (HyP SA) today. The
+commissioning of the Australian Gas Network’s electrolyser at HyP SA
+will see the 700 customers receive a blend of 5% renewable hydrogen
+and natural gas delivered through the existing gas network"
+
+[Link](https://www.premier.sa.gov.au/news/media-releases/news/now-were-cooking-with-hydrogen-gas)
 
 ---
 
-Sweet. Lota innovation in Europe
-
-DW: "Spanish company offers 'green' disposable face mask"
-
-[Link](https://www.dw.com/en/spanish-company-offers-green-disposable-face-mask/av-57905166)
+<blockquote width="300" class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">coming soon: Adblock Pro for VR™️</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1405320689020817411?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Hey this is great. Instead of that Romanized Ottocunt peasant Islam,
-DE can do a better job grooming these people.
+"@boztank [of Facebook VR]
 
-"Imams Made in Germany Imams — trained in Germany and in the German
-language [new plan] has taken pains to reduce the influence of
-foreign-trained imams, especially from Turkey"
+We’re starting a small test of in-headset ads with a few developers in
+the coming weeks" via @internetofshit
 
 ---
 
-"Macron aims for 10 European tech giants valued at €100B by
-2030.. 'There is no sovereignty without local champions,' says French
-president"
+Interesting topic:
+
+[Ammonia Refigration](2021/06/ammonia-refrigration.md)
 
 ---
 
-"LAVO hydrogen storage solutions to assist DV achieve its #NetZero
-Emissions &amp; sustainability objectives"
+That was a thoroughly enjoyable article .. Geek alert 🤓
 
-[Link](https://bit.ly/35qxujh)
-
----
-
-30s nationalism was beaten through war in Europe. TR branch wiggled
-its way out of that loss.. They hid in the cracks of the society,
-occasionally getting out and messing shit up. Zionists were already
-well protected behind their shield of victimization, they could not be
-criticized for anything, in fear of being called anti-Semite. That is
-at least two countries today who harbor a rotten form of nationalism,
-a kind that long should have been swept away.
+[Link](https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/)
 
 ---
 
-March away.. on the land of your great-great-great grandfather right? 🤨
+"@newyorkerunion
 
-"Israeli nationalists march through Jerusalem's Old City"
+We have averted a strike! After more than two and a half years of
+negotiations, @newyorkerunion , @p4kunion , and @ars_union are proud
+to announce that we have reached an agreement in principle on our
+first contracts. Here are some of our wins:
+
+Compensation: Wage increases of more than 10% for most @newyorkerunion
+members"
+
+---
+
+This guy is so sad. Go back to Philadelphia bitch
+
+"Israelis Wonder When or Whether Netanyahu Will Exit Official
+Residence.. Even after the new government took over on Sunday, the
+outgoing prime minister vowed to be back in office soon and hosted at
+least one former dignitary as if he were still running the show"
+
+---
+
+Shit is hypnotic
+
+<iframe width="300" src="https://www.youtube.com/embed/ImebhOJTLz0?start=118&end=213" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

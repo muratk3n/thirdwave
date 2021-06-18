@@ -1,5 +1,102 @@
 # Week 24
 
+"@APPEALtd
+
+@Shell_Australia says @APPEACONFERENCE that green hydrogen is going to
+take time, scale, and needs to dramatically reduce in cost. Blue
+hydrogen can assist by creating demand earlier at a better price point
+to get people used to using hydrogen first. #auspol"
+
+---
+
+"‘Our only option’: Myanmar civilians take up arms for democracy"
+
+---
+
+<iframe width="300"  src="https://www.youtube.com/embed/bdqkbLFZo34?start=70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+"The Senate confirmed Amazon critic and anti-monopoly advocate Lina
+Khan to the FTC — giving progressive Democrats a majority at the
+antitrust agency for the first time under Biden"
+
+[Link](https://www.politico.com/news/2021/06/15/khan-confirm-ftc-494609 … )
+
+---
+
+🤣 🤣 🤣 
+
+Fortune: "Coca-Cola loses $4 billion in market value after Cristiano Ronaldo shuns Coke"
+
+---
+
+🤣 🤣 🤣 I love it
+
+<blockquote width="200" class="twitter-tweet"><p lang="en" dir="ltr">&#39;Drink water&#39;<br><br>Cristiano Ronaldo removes Coca-Cola bottles at start of <a href="https://twitter.com/hashtag/Euro2020?src=hash&amp;ref_src=twsrc%5Etfw">#Euro2020</a> press conference <a href="https://t.co/2eBujl9vzk">pic.twitter.com/2eBujl9vzk</a></p>&mdash; Guardian sport (@guardian_sport) <a href="https://twitter.com/guardian_sport/status/1404726298237411331?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+"@hazergroupltd
+
+Plans for Australia’s first ever hydrogen valley, located in NSW’s
+Hunter region, have taken steps forward with Australian energy
+company, @enosienergy working with authorities to ensure
+certifications for the project are met"
+
+---
+
+US saz 'shot', UK 'jab'.. and Australians call it 'jeb'. As in Jeb
+Bush.
+
+---
+
+Sweet. Lota innovation in Europe
+
+DW: "Spanish company offers 'green' disposable face mask"
+
+[Link](https://www.dw.com/en/spanish-company-offers-green-disposable-face-mask/av-57905166)
+
+---
+
+Hey this is great. Instead of that Romanized Ottocunt peasant Islam,
+DE can do a better job grooming these people.
+
+"Imams Made in Germany Imams — trained in Germany and in the German
+language [new plan] has taken pains to reduce the influence of
+foreign-trained imams, especially from Turkey"
+
+---
+
+"Macron aims for 10 European tech giants valued at €100B by
+2030.. 'There is no sovereignty without local champions,' says French
+president"
+
+---
+
+"LAVO hydrogen storage solutions to assist DV achieve its #NetZero
+Emissions &amp; sustainability objectives"
+
+[Link](https://bit.ly/35qxujh)
+
+---
+
+30s nationalism was beaten through war in Europe. TR branch wiggled
+its way out of that loss.. They hid in the cracks of the society,
+occasionally getting out and messing shit up. Zionists were already
+well protected behind their shield of victimization, they could not be
+criticized for anything, in fear of being called anti-Semite. That is
+at least two countries today who harbor a rotten form of nationalism,
+a kind that long should have been swept away.
+
+---
+
+March away.. on the land of your great-great-great grandfather right? 🤨
+
+"Israeli nationalists march through Jerusalem's Old City"
+
+---
+
 "@hazergroupltd
 
 Australia and Singapore are set to collaborate on a $30 million
@@ -65,7 +162,7 @@ Japan, and Vietnam / Singapore.
 Navy location map update. Added more destroyers, and guided missile
 cruisers.
 
-[Link](2019/05/navylocation.md)
+[Link](../../2019/05/navylocation.md)
 
 ---
 
@@ -75,7 +172,7 @@ cruisers.
 
 ---
 
-Conflict stat [update](2019/05/confstats.md#gdelt).
+Conflict stat [update](../../2019/05/confstats.md#gdelt).
 
 ---
 
@@ -166,7 +263,7 @@ nationalism, but in a bizarre reversal, they assumed it (the tortured
 imitating the torturer), and under the protective shield of their
 victimization nursed it to this day.
 
-See [people without a land, and a land without people](2020/06/10-myths-israel.md#land)
+See [people without a land, and a land without people](../../2020/06/10-myths-israel.md#land)
 
 Similar bullshit: "we arrived in the our lands, and there was noone
 there".
