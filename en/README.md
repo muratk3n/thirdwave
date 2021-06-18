@@ -6,7 +6,7 @@ CNBC: "BMW starts European road tests of hydrogen fuel cell cars"
 
 ---
 
-We can certainly fix the BEV problem -- by abandoning the f-ing tech.
+We can certainly fix the BEV problem -- by abandoning the shoddy ass tech.
 
 "Hybrid electric vehicles (HEV) contain approximately 85 pounds [of
 copper].. battery electric vehicles (BEVs) contain 183 pounds"
