@@ -40,7 +40,7 @@ and natural gas delivered through the existing gas network"
 
 ---
 
-<blockquote width="300" class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">coming soon: Adblock Pro for VR™️</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1405320689020817411?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote width="300" class="twitter-tweet"><p lang="en" dir="ltr">can&#39;t wait to sit through my first unskippable 10 second VR ad when facebook has a bad quarter</p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1405652527018909699?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
