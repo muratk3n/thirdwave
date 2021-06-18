@@ -1,9 +1,5 @@
 # Tweets
 
-<blockquote width="300" class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> is trending again! A diverse mixture of taxis, scooters, trains, boats, buses, steel, a hydrogen office in BEIS, transport by pipeline and ship, green hydrogen production, a Norwegian hydrogen roadmap, and a new fuel cell. That&#39;s a lot of H2 news!<a href="https://twitter.com/hashtag/NetZero?src=hash&amp;ref_src=twsrc%5Etfw">#NetZero</a> <a href="https://t.co/znV8akSOqW">pic.twitter.com/znV8akSOqW</a></p>&mdash; Jonny Scafidi (@jonafushi) <a href="https://twitter.com/jonafushi/status/1405433009730428933?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 CNBC: "BMW starts European road tests of hydrogen fuel cell cars"
 
 [Link](https://www.cnbc.com/2021/06/17/bmw-starts-european-road-tests-of-hydrogen-fuel-cell-cars.html)
