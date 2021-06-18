@@ -120,6 +120,8 @@ Laz, a predominantly Muslim group closely related to the Mingrelian
 branch of the Georgian peoples, possess a long history of labor
 migration within the context of the Ottoman Empire...
 
+<a name='cup1'/>
+
 As mentioned earlier, elements of the CUP state (that is, members
 found in both the military and the bureaucracy) came to see the use of
 Muslim gangs as an effective tactic in their war against Orthodox
@@ -146,7 +148,6 @@ amplify local counterinsurgency efforts, the deployment of a unified
 body of paramilitaries would allow the central government to take the
 fight to provincial guerrillas and dissidents without involving
 regular elements of the Ottoman security establishment.
-
 
 The declaration of the Republic of Turkey in 1923 did not lead to an
 official change in policy towards immigrants with violent or criminal
