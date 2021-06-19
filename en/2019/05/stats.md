@@ -144,7 +144,6 @@ Data comes from the University of Michigan [survey](http://www.sca.isr.umich.edu
 ```python
 import pandas as pd
 pd.set_option('display.max_columns', None)
-#df = pd.read_csv('tbcpx1px5.csv',skiprows=4,header=None)
 df = pd.read_csv('http://www.sca.isr.umich.edu/files/tbcpx1px5.csv',skiprows=4,header=None)
 df1 = df[[0,1,3,5]]
 df1 = df1.dropna()
