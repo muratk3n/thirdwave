@@ -152,6 +152,25 @@ fight to provincial guerrillas and dissidents without involving
 regular elements of the Ottoman security establishment [which later led
 to the 'alleged' Armenian Genocide]...
 
+It is abundantly clear that officials and officers in the service of
+the Ottoman Empire were greatly concerned with the threats posed by
+bandits lurking in the countryside. But for all of the steps taken by
+the imperial government to minimize the supposed root causes of
+brigandage, it is also clear that Muslim bandits were not viewed as
+the sole or perhaps most paramount threats to the absolute security
+and existence of the state... As Istanbul lurched towards the outbreak
+of world war in 1914, the CUP government reasoned that the prospect of
+future revolts among Anatolia’s Christian populations (namely
+Armenians, Greeks, and Assyrians) could not be countered reflexively
+or passively. Aggressive, proactive steps had to be taken in order to
+stave off the kind of disaster that befell Ottoman Macedonia. Assuring
+the survival of the empire, in other words, meant eradicating these
+potentially disloyal segments of the Ottoman population before they
+took up arms. 61 In prosecuting such a bloody, and ostensibly
+illegal, stroke of action, elements of the CUP government recruited
+and utilized gangs and bandits as effective, but disposable,
+instruments of state violence...
+
 The declaration of the Republic of Turkey in 1923 did not lead to an
 official change in policy towards immigrants with violent or criminal
 proclivities. Efforts to limit the ability of immigrants to congregate
@@ -173,30 +192,4 @@ abandon even the use of minority terms or epithets (such as Laz,
 Albanian, or Kurd) with respect to the population... Nevertheless,
 behind closed doors, Turkish officials in the post-Ottoman era
 continued to view crime in part through the prism of ethnicity.
-
-It is abundantly clear that officials and officers in the service of
-the Ottoman Empire were greatly concerned with the threats posed by
-bandits lurking in the countryside. But for all of the steps taken by
-the imperial government to minimize the supposed root causes of
-brigandage, it is also clear that Muslim bandits were not viewed as
-the sole or perhaps most paramount threats to the absolute security
-and existence of the state... As Istanbul lurched towards the outbreak
-of world war in 1914, the CUP government reasoned that the prospect of
-future revolts among Anatolia’s Christian populations (namely
-Armenians, Greeks, and Assyrians) could not be countered reflexively
-or passively. Aggressive, proactive steps had to be taken in order to
-stave off the kind of disaster that befell Ottoman Macedonia. Assuring
-the survival of the empire, in other words, meant eradicating these
-potentially disloyal segments of the Ottoman population before they
-took up arms. 61 In prosecuting such a bloody, and ostensibly
-illegal, stroke of action, elements of the CUP government recruited
-and utilized gangs and bandits as effective, but disposable,
-instruments of state violence.
-
-
-
-
-
-
-
 
