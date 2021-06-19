@@ -149,7 +149,8 @@ of the Special Organization. Rather than a regional tactic meant to
 amplify local counterinsurgency efforts, the deployment of a unified
 body of paramilitaries would allow the central government to take the
 fight to provincial guerrillas and dissidents without involving
-regular elements of the Ottoman security establishment.
+regular elements of the Ottoman security establishment [which later led
+to the 'alleged' Armenian Genocide]...
 
 The declaration of the Republic of Turkey in 1923 did not lead to an
 official change in policy towards immigrants with violent or criminal
