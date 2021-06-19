@@ -48,9 +48,9 @@ the modern era political movements need leaders.
 
 ---
 
-Some of the "elites" talk in US is outdated, it [harks back](2021/03/private-government.md#elites)
+Some of the talk around the "elites" sound outdated, [harks back](2021/03/private-government.md#elites)
 to a time when there were like yeomen f-ing yeoman farmers and shit..
-not much industry.. U need an terminology update my brother.
+not much industry.. terminology update is needed
 
 ---
 
