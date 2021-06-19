@@ -43,8 +43,8 @@ Reuters: "Russian-annexed Crimea declares state of emergency over floods"
 ---
 
 Marx [missed](2011/03/integrators.md#marx) this point about
-"integrators" too and his followers got shit kicked out of them.. in
-the modern era political movements need leaders.
+"integrators" too and look what happened to his followers.. modern era
+political movements need leaders.
 
 ---
 
