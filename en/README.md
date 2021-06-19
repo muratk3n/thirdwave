@@ -16,7 +16,8 @@ will ever make A.I. more human-like"
 
 ---
 
-You could argue Ottomans themselves were [simple bandits](2021/06/org-crime-asia-minor.md#otto1)
+You could argue Ottomans were [simple bandits](2021/06/org-crime-asia-minor.md#otto1)
+themselves.
 
 ---
 
