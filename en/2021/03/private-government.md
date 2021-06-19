@@ -37,6 +37,8 @@ were not the emerging industrial proletariat, but artisans who
 operated their own enterprises. As such, they were simultaneously
 capitalists and workers...
 
+<a name='elites'/>
+
 In an economic context in which the self-employed find their status
 and opportunities threatened by powerful institutions, it does not
 make sense to pit workers against capitalists. Popular politics

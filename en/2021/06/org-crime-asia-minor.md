@@ -2,6 +2,8 @@
 
 From the book by Ryan Gingeras
 
+<a name='otto1'/>
+
 The Ottoman state itself, depending upon one's perspective, was born
 out of the raiding of Byzantine lands by horsemen loyal to Osman Bey,
 founder of the Ottoman household. The slow transformation of Osman's
