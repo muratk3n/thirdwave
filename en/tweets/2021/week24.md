@@ -111,7 +111,7 @@ to get people used to using hydrogen first. #auspol"
 Khan to the FTC — giving progressive Democrats a majority at the
 antitrust agency for the first time under Biden"
 
-[Link](https://www.politico.com/news/2021/06/15/khan-confirm-ftc-494609 … )
+[Link](https://www.politico.com/news/2021/06/15/khan-confirm-ftc-494609)
 
 ---
 
