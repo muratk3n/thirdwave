@@ -56,8 +56,8 @@ official actors.
 leaders of the late Ottoman state, as well as many of the founders of
 the Turkish Republic. Erik Jan Zürcher has convincingly demonstrated
 that the Young Turk generation of officers and bureaucrats were rooted
-in the events that transpired in Macedonia between the 1870s and
-1912. A majority of the seminal members of the Committee of the Union
+in the events that transpired in Macedonia between the 1870s and 1912.
+A majority of the seminal members of the Committee of the Union
 and Progress (CUP), the clandestine party that secretly organized the
 1908 revolution, were born in the southern Balkans. A great many more
 officers and officials who came to lead or serve the Young Turk state
