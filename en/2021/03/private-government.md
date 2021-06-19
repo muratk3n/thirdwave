@@ -27,6 +27,9 @@ have effective ways to talk about this fact, and hence about what
 kinds of authority bosses should and shouldn’t have over their
 workers....
 
+One issue.. continued to bother Paine near the end of his
+life: widespread poverty...
+
 [Thinker T. Paine] shows enormous faith in free markets and does not
 display a trace of the anti-capitalist class conflict that
 characterized nineteenth-century politics. [Why?] The answer is that
@@ -70,9 +73,6 @@ safety of consumer goods. Arcane financial instruments could not bring
 an economy to its knees in an era in which banking was primitive and
 much of the economy was not monetized....
 
-One issue, however, continued to bother Paine near the end of his
-life: widespread poverty...
-
 The Industrial Revolution shattered the egalitarian ideal of universal
 self-government in the realm of production. Economies of scale
 overwhelmed the economy of small proprietors, replacing them with
@@ -81,5 +81,7 @@ self-employment shrank dramatically in the course of the nineteenth
 century, and have continued to shrink to the present day. The
 Industrial Revolution also altered the nature of work and the
 relations between owners and workers in manufacturing, widening the
-gulf between the two.
+gulf between the two...
+
+
 
