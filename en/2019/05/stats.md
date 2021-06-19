@@ -135,6 +135,30 @@ DATE
 2021-05-01  4.992707
 ```
 
+<a name="infexp"/>
+
+Inflation Expection
+
+Data comes from the University of Michigan [survey](http://www.sca.isr.umich.edu/tables.html). 
+
+```python
+import pandas as pd
+pd.set_option('display.max_columns', None)
+#df = pd.read_csv('tbcpx1px5.csv',skiprows=4,header=None)
+df = pd.read_csv('http://www.sca.isr.umich.edu/files/tbcpx1px5.csv',skiprows=4,header=None)
+df1 = df[[0,1,3,5]]
+df1 = df1.dropna()
+df1.columns = ['Mon','Year','Next Year','Next 5 Years']
+df1['sdate'] = df1.apply(lambda x: x.Mon + "-" + str(int(x['Year'])),axis=1)
+df1['date'] = pd.to_datetime(df1.sdate)
+df1 = df1.set_index('date')
+df1[['Next Year','Next 5 Years']].plot()
+plt.savefig('infexp.png')
+```
+
+![](infexp.png)
+
+
 ## Wages and Unemployment
 
 <a name="nfp"/>
