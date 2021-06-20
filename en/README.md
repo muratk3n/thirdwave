@@ -5,9 +5,7 @@ A change... not nothing. Good leadership from folks at @BtSIsrael
 "@NewIsraelFund
 
 Thanks to work by @YeshDin @PHRIsrael and @BtSIsrael , the IDF
-practice of home invasions for 'intelligence gathering' is over.
-@dsokatch : 'I am gratified to see this appalling practice ending and
-grateful to our courageous grantees who helped to end it'"
+practice of home invasions for 'intelligence gathering' is over"
 
 ---
 
