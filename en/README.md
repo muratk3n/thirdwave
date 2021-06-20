@@ -42,9 +42,9 @@ Conflict stats [update](2019/05/confstats.md#gdelt)
 
 ---
 
-It appears consumer inflation expectation for next year is at 4.0,
-came down from 4.6. This stat can be important bcz expecting higher
-prices ppl can start ask higher wages, or raise prices in stores etc.
+Consumer infl expectation for next year is at 4.0, down from 4.6. This
+stat can be important, expecting higher prices ppl can start ask
+higher wages, or raise prices in stores etc.
 
 But I still dont see a runaway process here.
 
