@@ -32,7 +32,7 @@ largest naval exercise in the Pacific since Cold War"
 
 ---
 
-`pandas.to_datetime` is like magic
+`pandas.to_datetime` works like magic
 
 ---
 
