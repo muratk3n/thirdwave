@@ -16,12 +16,12 @@ will ever make A.I. more human-like"
 
 ---
 
-You could argue Ottomans were [simple bandits](2021/06/org-crime-asia-minor.md#otto1)
+You could argue Ottomans were [simple bandits](../../2021/06/org-crime-asia-minor.md#otto1)
 themselves.
 
 ---
 
-TR mafia, minorities, *çete*, the empire.. there is a [long history](2021/06/org-crime-asia-minor.md#cup1) here.
+TR mafia, minorities, *çete*, the empire.. there is a [long history](../../2021/06/org-crime-asia-minor.md#cup1) here.
 
 ---
 
@@ -43,13 +43,13 @@ Reuters: "Russian-annexed Crimea declares state of emergency over floods"
 
 ---
 
-Marx [missed](2011/03/integrators.md#marx) this point about
+Marx [missed](../../2011/03/integrators.md#marx) this point about
 "integrators" too and look what happened to his followers.. modern era
 political movements need leaders.
 
 ---
 
-Some of the talk around the "elites" sound outdated, [harks back](2021/03/private-government.md#elites)
+Some of the talk around the "elites" sound outdated, [harks back](../../2021/03/private-government.md#elites)
 to a time when there were like f-ing yeoman farmers and things..
 not much industry.. 
 
@@ -112,7 +112,7 @@ the coming weeks" via @internetofshit
 
 Interesting topic:
 
-[Ammonia Refigration](2021/06/ammonia-refrigration.md)
+[Ammonia Refigration](../../2021/06/ammonia-refrigration.md)
 
 ---
 

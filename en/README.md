@@ -1,21 +1,5 @@
 # Tweets
 
-There are f--ing ditches dug in Novhorodske, Ukraine, like WWII style,
-saw it on Oz ABC
-
----
-
-Navy map update now catches USS carrier Ron Reag near Malaysia. 
-
----
-
-Hah. US had a foray into SCS, RU did one in the Pacific. 
-
-"Ahead of Biden-Putin summit, Russia conducts what it calls its
-largest naval exercise in the Pacific since Cold War"
-
----
-
 Not bad. Good leadership from folks at @BtSIsrael
 
 "@NewIsraelFund
@@ -31,6 +15,22 @@ grateful to our courageous grantees who helped to end it'"
 is pulling antimissile batteries, aircraft and hundreds of troops from
 the Mideast as it focuses the armed services on challenges from China
 and Russia, administration officials said"
+
+---
+
+There are f--ing ditches dug in Novhorodske, Ukraine, like WWII style,
+saw it on Oz ABC
+
+---
+
+Navy map update now catches USS carrier Ron R near Malaysia. 
+
+---
+
+Hah. US had a foray into SCS, RU did one in the Pacific. 
+
+"Ahead of Biden-Putin summit, Russia conducts what it calls its
+largest naval exercise in the Pacific since Cold War"
 
 ---
 
