@@ -82,7 +82,7 @@ Australian wine exports, the government announces"
 
 Japan started the Meiji transformation around the same time as TR's
 *Tanzimat* reforms. Italy has a similar repulsive agro empire
-past. But both are way ahead. Why?
+past. Yet both are way ahead. Why?
 
 ---
 
