@@ -18,8 +18,8 @@ and Russia, administration officials said"
 
 ---
 
-There are f--ing ditches dug in Novhorodske, Ukraine, like WWII style,
-saw it on Oz ABC
+There are bleeping *ditches* dug in Novhorodske, Ukraine, like WWII
+style, saw it on Oz ABC
 
 ---
 
