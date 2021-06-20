@@ -23,7 +23,7 @@ style, saw it on Oz ABC
 
 ---
 
-Navy map update now catches USS carrier Ron R near Malaysia. 
+Navy map update now catches carrier USS R Reagan near Malaysia. System working.
 
 ---
 
