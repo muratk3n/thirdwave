@@ -1,61 +1,114 @@
 # Tweets
 
-Politico: "U.S. companies are pumping money into new technology
-equipment at a blistering pace.. The jump in corporate investment in
-computers and other information technology is the biggest the U.S. has
-seen in decades"
+There are f--ing ditches dug in Novhorodske, Ukraine, like WWII style,
+saw it on Oz ABC
 
 ---
 
-<iframe width="300"  src="https://www.youtube.com/embed/m3NVY0rE48s?start=10&end=191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Navy map update now catches USS carrier Ron Reag near Malaysia. 
 
 ---
 
-CNBC: "Computer scientists are questioning whether Alphabet’s DeepMind
-will ever make A.I. more human-like"
+Hah. US had a foray into SCS, RU did one in the Pacific. 
+
+"Ahead of Biden-Putin summit, Russia conducts what it calls its
+largest naval exercise in the Pacific since Cold War"
 
 ---
 
-You could argue Ottomans were [simple bandits](2021/06/org-crime-asia-minor.md#otto1)
-themselves.
+Not bad. Good leadership from folks at @BtSIsrael
+
+"@NewIsraelFund
+
+Thanks to work by @YeshDin @PHRIsrael and @BtSIsrael , the IDF
+practice of home invasions for 'intelligence gathering' is over.
+@dsokatch : 'I am gratified to see this appalling practice ending and
+grateful to our courageous grantees who helped to end it'"
 
 ---
 
-TR mafia, minorities, *çete*, the empire.. there is a [long history](2021/06/org-crime-asia-minor.md#cup1) here.
+"U.S. Military Steps Up Its Withdrawal From Middle East.. The Pentagon
+is pulling antimissile batteries, aircraft and hundreds of troops from
+the Mideast as it focuses the armed services on challenges from China
+and Russia, administration officials said"
 
 ---
 
-Jon Stew hit the nail on the head \#wuhan
+`pandas.to_datetime` is like magic
 
 ---
 
-"The Rusnano Group Will Develop Hydrogen Freight Trains.. Sinara
-Group, Rusnano, and Russian Railways have signed an agreement on the
-development of hydrogen locomotives for freight transport"
-
-[Link](https://bit.ly/2SCN2NW)
+Conflict stats [update](2019/05/confstats.md#gdelt)
 
 ---
 
-Reuters: "Russian-annexed Crimea declares state of emergency over floods"
+It appears consumer inflation expectation for next year is at 4.0,
+came down from 4.6. This stat can be important bcz expecting higher
+prices ppl can start ask higher wages, or raise prices in stores etc.
 
-<img width="300" src="https://www.reuters.com/resizer/qxDwFXkJFmYn8Gn6h7g8Aa1-yy8=/800x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TUCK4LRGJOWFHZ7N2CE7KH4I4.jpg"/>
-
----
-
-Marx [missed](2011/03/integrators.md#marx) this point about
-"integrators" too and look what happened to his followers.. modern era
-political movements need leaders.
+But I still dont see a runaway process here.
 
 ---
 
-Some of the talk around the "elites" sound outdated, [harks back](2021/03/private-government.md#elites)
-to a time when there were like f-ing yeoman farmers and things..
-not much industry.. 
+Let's [take a look](2019/05/stats.md#infexp)
+
+"How about consumer's inflation expectation?"
 
 ---
 
-[War on Drugs](https://youtu.be/LXmtsIYsYjY), CNBC
+"@USISPForum
+
+We are delighted to announce the launch of the #USIndia Hydrogen
+Taskforce with @ENERGY @mnreindia under the US-India Strategic Clean
+Energy Partnership. The hydrogen task force will help scale up
+technologies to produce hydrogen from renewable energy & fossil fuel
+sources"
+
+---
+
+"The Palestinian Authority said Friday it cancelled a swap deal that
+would have seen Israel provide it with one million Covid-19 jabs, as
+the doses were 'about to expire'"
+
+[Link](http://u.afp.com/UBRR)
+
+---
+
+"Australia is lodging a formal complaint with the World Trade
+Organization over China's imposition of anti-dumping duties on
+Australian wine exports, the government announces"
+
+[Link](http://u.afp.com/UBRH)
+
+---
+
+Japan started the Meiji transformation around the same time as TR's
+*Tanzimat*. Italy has similar agro empire past. Both are way
+ahead. Why?
+
+---
+
+Italy has 9 times the capability of Asia Minor, Japan is at 27. Obscene high
+numbers.
+
+```python
+import pandas as pd
+df = pd.read_csv('../../2020/07/gdpw.csv')
+df = df[df['country'].isin(['Turkey','Italy','Japan']) ]
+df['gdp'] = df.gdpcap * df.population
+df['mbindex'] = (df.gdpcap * df.gdp)/1e14
+
+tr = float(df[df.country=='Turkey'].mbindex)
+df['trbeaten'] = (df['mbindex'] / tr).astype(int)
+print (df[['country','trbeaten']])
+```
+
+```text
+   country  trbeaten
+33   Japan        27
+35   Italy         9
+87  Turkey         1
+```
 
 ---
 
