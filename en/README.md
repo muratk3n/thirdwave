@@ -1,6 +1,6 @@
 # Tweets
 
-Not bad. Good leadership from folks at @BtSIsrael
+A change... not nothing. Good leadership from folks at @BtSIsrael
 
 "@NewIsraelFund
 
