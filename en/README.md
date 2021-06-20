@@ -27,7 +27,7 @@ Navy map update now catches carrier USS R Reagan near Malaysia. System working.
 
 ---
 
-Hah. US had a foray into SCS, RU did one in the Pacific. 
+Hah. So US made a foray into SCS, RU in the Pacific. 
 
 "Ahead of Biden-Putin summit, Russia conducts what it calls its
 largest naval exercise in the Pacific since Cold War"
@@ -83,8 +83,8 @@ Australian wine exports, the government announces"
 ---
 
 Japan started the Meiji transformation around the same time as TR's
-*Tanzimat*. Italy has similar agro empire past. Both are way
-ahead. Why?
+*Tanzimat* reforms. Italy has a similar repulsive agro empire
+past. But both are way ahead. Why?
 
 ---
 
