@@ -19,8 +19,8 @@ dreams..
 
 ---
 
-My recommender came up with *Irrational Man*.. Was ok.. I liked the
-backdrop.. Joachim digs these weirdo psychodramas eh?
+My movie recommender came up with *Irrational Man*.. Was ok.. I liked
+the backdrop.. Joachim digs these weirdo psychodramas eh?
 
 ---
 
