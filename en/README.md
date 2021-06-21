@@ -94,7 +94,6 @@ df = data.DataReader(['CPIAUCNS','FYFSGDA188S'], 'fred', start, end)
 df['infyoy'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
 df['FYFSGDA188S'] = df['FYFSGDA188S'].fillna(method='ffill').rolling(window=10).mean()
 df1 = df[['FYFSGDA188S','infyoy']]
-print (df1)
 print (df1.corr())
 df1.columns = ['Gov Surp or Def','Inflation']
 df1.plot()
