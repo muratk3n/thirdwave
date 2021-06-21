@@ -117,11 +117,17 @@ print (df)
 [48 rows x 5 columns]
 ```
 
+```python
+m = folium.Map(location=[lat, lon], zoom_start=3, tiles="Stamen Terrain")
 
-
-
-
-
+import folium
+for index, row in df.iterrows():
+    folium.Marker(
+        [row['lat'], row['lon']], tooltip=str(row['mag']) + " " + str(row['ago']) + " days ago"
+    ).add_to(m)
+    
+m.save('equake-out.html')
+```
 
 
 
