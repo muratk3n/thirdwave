@@ -14,7 +14,6 @@ def get_eq(minx,maxx,miny,maxy):
     req+='&minlatitude=%d&maxlatitude=%d&minlongitude=%d&maxlongitude=%d'
     req+='&minmagnitude=3.0&orderby=time&limit=300'
     req = req % (start.isoformat(), today.isoformat(),miny,maxy,minx,maxx)
-    #print (req)
     qr = requests.get(req).json()
     res = []
     for i in range(len(qr['features'])):
@@ -27,9 +26,7 @@ def get_eq(minx,maxx,miny,maxy):
         res.append([d,s,lat,lon,rad,diff])
 
     import pandas as pd
-    #print (res)
     df = pd.DataFrame(res).sort_values(by=0)
-    #df.drop_duplicates(inplace=True)
     df = df.set_index(0)
     df.columns = ['mag','lat','lon','rad','ago']
     return df
