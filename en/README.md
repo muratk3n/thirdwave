@@ -19,13 +19,6 @@ dreams..
 
 ---
 
-Some Venezuella level shit is always possible of course but doesnt
-seem to be the case for US. So its not accurate to say '*there we go
-again*, printing begins and currency debased, inflation goes up, as
-before!'.
-
----
-
 My recommender came up with *Irrational Man*.. Was ok.. I liked the
 backdrop.. Joachim digs these weirdo psychodramas eh?
 
@@ -70,6 +63,13 @@ clean up our agriculture and maritime transport'"
 
 Situated in the city of Kawasaki the [Tokyu Hotels] is 30% powered by
 H2 derived from waste plastics"
+
+---
+
+Some Venezuella level shit is always possible of course but doesnt
+seem to be the case for US. So its not accurate to say '*there we go
+again*, printing begins and currency debased, inflation goes up, as
+before!'.
 
 ---
 
