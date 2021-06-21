@@ -202,3 +202,21 @@ North Korea will never negotiate away its nuclear arsenal, but it
 might accept limits on that arsenal in exchange for U.S. security
 assurances.
 
+<a name='ed'/>
+
+Education
+
+[C]ross-national data suggest that the American system of teacher
+recruitment, training, and accountability has been put together
+backward: it draws teachers from the bottom half of college classes;
+gives them minimal training; and when teachers fail to improve student
+performance, the government imposes rigid standards, hoping to do on
+the back end what it failed to create on the front end. By contrast,
+countries with top PISA scores, such as Japan, Singapore, and Finland,
+do the opposite: they select teachers from the top third of college
+classes, train them rigorously, and then give them the freedom and
+time to hone their skills and share best practices with other
+teachers. As Harvard’s Jal Mehta has shown, such methods largely
+obviate the need for external accountability, because 'selection and
+preparation on the front end makes extensive monitoring on the back
+end unnecessary.'

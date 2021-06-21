@@ -89,6 +89,7 @@ from pandas_datareader import data
 today = datetime.datetime.now()
 start=datetime.datetime(1970, 1, 1)
 end=datetime.datetime(today.year, today.month, today.day)
+# FYFSGDA188S surplus (+) or deficit (-) as percent of GDP
 df = data.DataReader(['CPIAUCNS','FYFSGDA188S'], 'fred', start, end)
 df['infyoy'] = (df.CPIAUCNS - df.CPIAUCNS.shift(12)) / df.CPIAUCNS.shift(12) * 100.0
 df['FYFSGDA188S'] = df['FYFSGDA188S'].fillna(method='ffill').rolling(window=10).mean()
