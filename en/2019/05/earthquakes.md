@@ -46,7 +46,6 @@ def to_bearing(lat,lon,brng,d):
 
 ```python
 lat,lon = 36.61626063822746, -56.04276502632696
-print (lat,lon)
 D = 5000
 lat1,lon1 = to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = to_bearing(lat,lon,np.deg2rad(225),D)
