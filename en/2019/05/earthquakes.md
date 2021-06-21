@@ -129,6 +129,6 @@ for index, row in df.iterrows():
 m.save('equake-out.html')
 ```
 
-
+[Output](equake-out.html)
 
 
