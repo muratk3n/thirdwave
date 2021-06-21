@@ -1,10 +1,10 @@
+# Earthquake Stat
 
 ```python
-from quakefeeds import QuakeFeed
 import requests, time, datetime
 import numpy as np, math
 
-def get_eq3(minx,maxx,miny,maxy):
+def get_eq(minx,maxx,miny,maxy):
     today = datetime.datetime.now()
     days = 7
     start = today - datetime.timedelta(days=days)
@@ -57,7 +57,7 @@ minx=np.min((lon1,lon2))
 maxx=np.max((lon1,lon2))
 miny=np.min((lat1,lat2))
 maxy=np.max((lat1,lat2))
-df = get_eq3(minx,maxx,miny,maxy)
+df = get_eq(minx,maxx,miny,maxy)
 ```
 
 
