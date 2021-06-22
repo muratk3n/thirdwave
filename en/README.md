@@ -74,8 +74,6 @@ But this is a bad decision point to be stuck with.  Do we cry for
 switchboard operators and want them to be "happy",
 "well-paid"?. No. That particular job is gone.
 
-Students need help, not people in jobs that should not even exist.
-
 ---
 
 Yes it is an either-or, either give kids prerecorded lectures, or teachers
