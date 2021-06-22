@@ -71,7 +71,8 @@ Therefore they come across as unskilled workers, "wage earners" which
 makes progs want to protect them.
 
 But this is a bad decision point to be stuck with. Do we care for the
-switchboard operators, want them to be "happy", "well-paid"?. No. 
+switchboard operators, want them to be "happy", "well-paid"?. No.
+This particular job is gone, outdated.
 
 ---
 
