@@ -1,7 +1,7 @@
 # Tweets
 
 
-UCDP/PRIO May file is out, [stat updated](2019/05/confstats.md). Afganistan,
+UCDP/PRIO May file [is out](2019/05/confstats.md). Afganistan,
 Yemen, Nigeria deaths increased.  Syria is getting hit by Israel more.
 
 ---
