@@ -78,6 +78,10 @@ Students need help, not people in jobs that should not even exist.
 
 ---
 
+Yes it is an either-or, either give kids prerecorded lectures, or teachers
+
+---
+
 I see some progs support teachers but not poor kids. Why is dat
 
 ---
