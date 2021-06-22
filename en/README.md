@@ -19,7 +19,7 @@ was in the Atlantic coast.
 
 ---
 
-Was it here?
+I bet it was here.
 
 Gotcha
 
