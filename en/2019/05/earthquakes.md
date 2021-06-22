@@ -1,4 +1,4 @@
-# Earthquake Stat
+# Earthquake Stats
 
 ```python
 import requests, time, datetime
