@@ -3,6 +3,7 @@
 ```python
 import requests, time, datetime
 import numpy as np, math
+import pandas as pd
 
 def get_eq(minx,maxx,miny,maxy):
     today = datetime.datetime.now()
@@ -25,7 +26,6 @@ def get_eq(minx,maxx,miny,maxy):
         diff = (d-start).days
         res.append([d,s,lat,lon,rad,diff])
 
-    import pandas as pd
     df = pd.DataFrame(res).sort_values(by=0)
     df = df.set_index(0)
     df.columns = ['mag','lat','lon','rad','ago']
@@ -33,8 +33,8 @@ def get_eq(minx,maxx,miny,maxy):
 
 def to_bearing(lat,lon,brng,d):
     R = 6378.1 #Radius of the Earth
-    lat1 = math.radians(lat) #Current lat point converted to radians
-    lon1 = math.radians(lon) #Current long point converted to radians    
+    lat1 = math.radians(lat)
+    lon1 = math.radians(lon)
     lat2 = math.asin( math.sin(lat1)*math.cos(d/R) +
          math.cos(lat1)*math.sin(d/R)*math.cos(brng))
     lon2 = lon1 + math.atan2(math.sin(brng)*math.sin(d/R)*math.cos(lat1),
