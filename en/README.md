@@ -66,7 +66,7 @@ for 70,000 in fast food"
 
 ---
 
-I see .. The overall quality of teachers [is low](2021/03/unrivaled-beckley.md#ed).
+I see .. The overall quality of teachers, especially in US, [is low](2021/03/unrivaled-beckley.md#ed).
 Therefore they come across as unskilled workers, "wage earners" which
 makes progs want to protect them.
 
