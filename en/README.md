@@ -64,10 +64,9 @@ for 70,000 in fast food"
 
 ---
 
-Here is what happens.. The overall quality of teachers [is
-low](2021/03/unrivaled-beckley.md#ed). Therefore they come across as
-unskilled workers, "working class" which makes some progs to want to
-protect them.
+I see .. The overall quality of teachers [is low](2021/03/unrivaled-beckley.md#ed).
+Therefore they come across as unskilled workers, "working class" which
+makes some progs to want to protect them.
 
 But this is a bad decision point to be stuck with.  Do we cry for
 switchboard operators and want them to be "happy",
@@ -77,8 +76,7 @@ Poor kids need help, not people in jobs that should not even exist.
 
 ---
 
-Why are some progs abandoning poor kids and siding with teachers (who
-are supposedly "working class")?
+I see some progs support teachers but not poor kids. Why is dat
 
 ---
 
