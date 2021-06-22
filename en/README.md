@@ -67,12 +67,11 @@ for 70,000 in fast food"
 ---
 
 I see .. The overall quality of teachers [is low](2021/03/unrivaled-beckley.md#ed).
-Therefore they come across as unskilled workers, "working class" which
-makes some progs to want to protect them.
+Therefore they come across as unskilled workers, "wage earners" which
+makes progs want to protect them.
 
-But this is a bad decision point to be stuck with.  Do we cry for
-switchboard operators and want them to be "happy",
-"well-paid"?. No. That particular job is gone.
+But this is a bad decision point to be stuck with. Do we care for the
+switchboard operators, want them to be "happy", "well-paid"?. No. 
 
 ---
 
