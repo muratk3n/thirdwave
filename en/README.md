@@ -1,6 +1,14 @@
 # Tweets
 
 
+"@josheidelson
+
+Speaking of 'cancelation,' U.S. workers can legally be fired for
+almost any reason, or no reason. A groundbreaking NYC law changes that
+for 70,000 in fast food"
+
+---
+
 UCDP/PRIO May file [is out](2019/05/confstats.md). Afganistan, Yemen,
 Nigeria deaths increased. 
 
@@ -55,14 +63,6 @@ Number 2 motor vehicle parts supplier in the world.
 
 CNBC: "Jaguar Land Rover is developing a hydrogen-powered vehicle and
 plans to test it out this year"
-
----
-
-"@josheidelson
-
-Speaking of 'cancelation,' U.S. workers can legally be fired for
-almost any reason, or no reason. A groundbreaking NYC law changes that
-for 70,000 in fast food"
 
 ---
 
