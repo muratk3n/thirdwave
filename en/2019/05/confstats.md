@@ -18,57 +18,68 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=4))
+print (overall_deaths(mon=5))
 ```
 
 ```text
                           incidents  deaths
 country                                    
-Afghanistan                     304    1350
-Nigeria                         122     409
-Somalia                          26     101
-Syria                            86      95
-Yemen (North Yemen)              61      89
-DR Congo (Zaire)                 86      50
-Philippines                      18      42
-Iraq                             19      39
-Cameroon                         30      37
-Mali                             26      36
-Pakistan                         14      21
-India                            26      19
-Burkina Faso                     16      14
-Mozambique                       11      13
-Colombia                          3      10
-Ukraine                          15       9
-Mexico                          296       9
-Ethiopia                         46       4
-South Sudan                      10       4
-Central African Republic          7       3
-Niger                            11       3
+Afghanistan                    1236    6473
+Yemen (North Yemen)              74    1676
+Nigeria                         266     551
+Chad                              6     440
+Somalia                          50     339
+Mali                             40     166
+Syria                           118     156
+Ethiopia                        132     138
+DR Congo (Zaire)                173     128
+Iraq                             61     109
+Burkina Faso                     43      71
+India                            47      57
+Mexico                          566      54
+Myanmar (Burma)                 131      50
+Central African Republic         23      48
+Israel                           35      44
+Philippines                      27      44
+Niger                            20      36
+Cameroon                         61      33
+Pakistan                         33      29
+Sudan                            13      22
+Iran                             11      22
+Turkey                           11      21
+Indonesia                        14      18
+Ukraine                          43      17
+Colombia                          9      17
+Mozambique                       23      17
+Tunisia                           5       8
+Kenya                            10       8
+Papua New Guinea                  2       7
+Thailand                          7       4
+Morocco                           1       3
 Ivory Coast                       2       3
-Russia (Soviet Union)             2       2
-Libya                             2       2
-Egypt                             8       2
-Tunisia                           2       2
-Burundi                           7       2
-Sudan                             8       1
-Indonesia                         2       1
-Thailand                          4       1
-Iran                              3       1
-Spain                             1       0
-Switzerland                       1       0
-South Africa                      3       0
-Malaysia                          1       0
-Papua New Guinea                  1       0
-Myanmar (Burma)                  83       0
-Austria                           1       0
-Malawi                            1       0
-Kenya                             2       0
-Germany                           1       0
-Chad                              4       0
-Canada                            1       0
+Egypt                            10       3
+Rwanda                            1       2
+Albania                           1       1
+Russia (Soviet Union)             1       1
+Algeria                           1       1
+Brazil                            6       1
+Venezuela                         1       1
+South Sudan                      17       0
+Uganda                            1       0
+Tajikistan                        5       0
+United States of America          8       0
+Lebanon                           1       0
+Peru                              1       0
+Libya                             2       0
+Kyrgyzstan                        2       0
+Haiti                             6       0
+Guinea                            1       0
+Guatemala                         1       0
+Ecuador                           1       0
+Burundi                           9       0
 Bangladesh                        1       0
-Azerbaijan                        1       0
+Armenia                           1       0
+Angola                            2       0
 Zimbabwe (Rhodesia)               1       0
 ```
 
@@ -85,17 +96,20 @@ def country_attacked(mon, country):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (country_attacked(3, 'Syria'))
+print (country_attacked(5, 'Syria'))
 ```
 
 ```text
-                           incidents  deaths
-side_b            country                   
-IS                Syria           19      61
-SDF               Syria           28      25
-Syrian insurgents Syria           20       6
-HTS               Syria            2       3
-Civilians         Syria           17       0
+                               incidents  deaths
+side_b                country                   
+IS                    Syria           29      90
+SDF                   Syria           37      36
+Syrian insurgents     Syria           32      19
+Government of Syria   Syria            3       9
+Hamza Division        Syria            1       2
+Al-Jabha al-Shamiyyah Syria            1       0
+Civilians             Syria           14       0
+Government of Israel  Syria            1       0
 ```
 
 <a name='gdelt'/>
