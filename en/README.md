@@ -2,7 +2,7 @@
 
 
 UCDP/PRIO May file [is out](2019/05/confstats.md). Afganistan, Yemen,
-Nigeria deaths increased. Syria was hit by Israel more on May.
+Nigeria deaths increased. Syria was hit by Israel more in May.
 
 ---
 
