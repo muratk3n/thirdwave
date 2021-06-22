@@ -143,7 +143,7 @@ largest naval exercise in the Pacific since Cold War"
 
 ---
 
-Conflict stats [update](2019/05/confstats.md#gdelt)
+Conflict stats [update](../../2019/05/confstats.md#gdelt)
 
 ---
 
@@ -155,7 +155,7 @@ But I still dont see a runaway process here.
 
 ---
 
-Let's [take a look](2019/05/stats.md#infexp)
+Let's [take a look](../../2019/05/stats.md#infexp)
 
 "How about consumer's inflation expectation?"
 
