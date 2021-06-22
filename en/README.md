@@ -75,7 +75,7 @@ switchboard operators, want them to be "happy", "well-paid"?. No.
 
 ---
 
-Yes it is an either-or, either give kids prerecorded lectures, or teachers
+Yes it is an either-or; either give kids prerecorded lectures, or teachers
 
 ---
 
