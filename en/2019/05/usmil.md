@@ -101,14 +101,12 @@ clat,clon=33.01136975577918, 40.98527636859822
 m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
 
 df = pd.read_csv("https://raw.githubusercontent.com/meflynn/troopdata/master/data-raw/basedata.csv",encoding = "ISO-8859-1", engine='python')
-df = df[['countryname','lat','lon']]
+df = df[['countryname','basename','lat','lon']]
 df = df.dropna()
 
 for index, row in df.iterrows():
-    folium.CircleMarker(location=[row['lat'], row['lon']],
-                        radius=6,
-			color='red',
-                        weight=1).add_to(m)
+    folium.Marker([row['lat'], row['lon']],tooltip=row['basename'] + " " + row['countryname']
+                  ).add_to(m)
 
 
 m.save('usbases-out.html')
