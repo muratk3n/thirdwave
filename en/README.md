@@ -76,7 +76,7 @@ separate political differences and economic links. In strategic
 rivalry, conflict leads. In systemic rivalry, conflict is limited to
 the political sphere. It is part of the EU’s political tradition to
 believe that politics and the economy can be insulated from each
-other. 
+other...
 
 Performing the same trick with China is far more difficult.. Over the
 past two years, it approved a barrage of new regulations limiting the
