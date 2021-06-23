@@ -8,5 +8,9 @@
 
 [Black People Shot by Police](blm-out.html)
 
-[US Navy Location](navylocation.md)
+[US Navy Location](usmil.md#navy)
+
+[US Bases](usmil.md#bases)
+
+
 
