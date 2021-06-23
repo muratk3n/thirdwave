@@ -128,7 +128,7 @@ now Venus), and Earth is also the only planet with life.
 
 "@VICE
 
-Scientists discovered tectonic motion on our sister planet [based on
+[Venus] Scientists discovered tectonic motion on our sister planet [based on
 existing data, they used a new model]"
 
 ---
