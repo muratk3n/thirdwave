@@ -90,6 +90,9 @@ m.save('navy-out.html')
 
 Bases
 
+Data from [here](https://github.com/meflynn/troopdata), itself based
+on David Vine's work.
+
 ```python
 import pandas as pd, folium
 
