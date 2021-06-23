@@ -14,6 +14,10 @@ acceptable behavior"
 
 ---
 
+AFP: "EU launches antitrust probe against Google over online advertising"
+
+---
+
 Members can run the earthquake report for any region, anytime
 
 ---
@@ -43,10 +47,6 @@ up 76% and 71% year over year"
 
 ---
 
-AFP: "EU launches antitrust probe against Google over online advertising"
-
----
-
 "GenCell Energy Successfully Deploys its Revolutionary A5 Off-Grid
 FuelCell Solution in Iceland. @gencellenergy A5 combines the
 advantages of low temperature #fuelcell with the ability to operate on
@@ -56,7 +56,7 @@ liquid ammonia fuel"
 
 ---
 
-"@airliquidegroup, @Airbus and Groupe ADP Partner to Prepare Paris
+"@Airbus, @airliquidegroup and Groupe ADP Partner to Prepare Paris
 Airports for the Hydrogen Era.. Agreement to prepare for arrival of
 hydrogen in airports by 2035 part of the development of
 hydrogen-powered commercial aircraft"
@@ -65,7 +65,7 @@ hydrogen-powered commercial aircraft"
 
 ---
 
-"The First #GreenHydrogen Production Project Is Launched in Lithuania"
+"The First Green Hydrogen Production Project Is Launched in Lithuania"
 
 [Link](https://bit.ly/3h5VT3d)
 
@@ -87,8 +87,8 @@ state subsidies and a public procurement tool...
 The deal included significant concessions from Beijing, including a
 greater level of market access and disciplines on state-owned
 enterprises, transparency of subsidies and rules prohibiting forced
-technology transfer. “By giving us a big gift, they hoped to prevent a
-united front with the Biden administration,” the official said.
+technology transfer. 'By giving us a big gift, they hoped to prevent a
+united front with the Biden administration,' the official said.
 
 What surprised China is that the EU never regarded the CAI as a
 political agreement. Having forced Beijing to concede on key points,
