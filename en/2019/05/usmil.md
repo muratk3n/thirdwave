@@ -88,7 +88,7 @@ m.save('navy-out.html')
 
 <a name='bases'/>
 
-Bases
+US Bases around the World
 
 Data from [here](https://github.com/meflynn/troopdata), itself based
 on David Vine's work.
