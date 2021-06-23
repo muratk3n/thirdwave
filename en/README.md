@@ -78,12 +78,11 @@ the political sphere. It is part of the EU’s political tradition to
 believe that politics and the economy can be insulated from each
 other...
 
-Performing the same trick with China is far more difficult.. Over the
-past two years, it approved a barrage of new regulations limiting the
-Chinese state’s ability to interfere with the framework of economic
-links between the two blocs. These include investment screening, trade
-defense instruments, a package against state subsidies and a public
-procurement tool...
+Over the past two years, [the EU] approved a barrage of new
+regulations limiting the Chinese state’s ability to interfere with the
+framework of economic links between the two blocs. These include
+investment screening, trade defense instruments, a package against
+state subsidies and a public procurement tool...
 
 The deal included significant concessions from Beijing, including a
 greater level of market access and disciplines on state-owned
