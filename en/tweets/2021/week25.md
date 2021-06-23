@@ -1,5 +1,89 @@
 # Week 25
 
+
+"@josheidelson
+
+Speaking of 'cancelation,' U.S. workers can legally be fired for
+almost any reason, or no reason. A groundbreaking NYC law changes that
+for 70,000 in fast food"
+
+---
+
+UCDP/PRIO May file [is out](2019/05/confstats.md). Afganistan, Yemen,
+Nigeria deaths increased. 
+
+---
+
+I looked in this general region bcz the Navy deploy map said that carrier
+was in the Atlantic coast.
+
+---
+
+I bet it was here.
+
+Gotcha
+
+<img width="340" src="https://pbs.twimg.com/media/E4ahdzaXwAMJ1x7?format=jpg&name=small"/>
+
+---
+
+Output at the bottom
+
+[Earthquake Stats](2019/05/earthquakes.md)
+
+---
+
+Ok.. ok.. you'll get an earthquake map
+
+---
+
+F24: "The United States Geological Survey recorded the explosion as a
+3.9 magnitude earthquake on Friday."
+
+---
+
+18 tons of TNT equivalent. No joke. 1 kg can destroy a car. 
+
+BBC: "US Navy uses 40,000lb explosive to test warship .. against its
+aircraft carrier, the USS Gerald R. Ford"
+
+---
+
+Number 1 motor vehicle parts supplier in the world.
+
+"Fuel-cell stack: mass production starting 2022: Bosch"
+
+---
+
+Number 2 motor vehicle parts supplier in the world.
+
+"Hydrogen fuel cells to compete with diesel truck engines by 2030: Cummins"
+
+---
+
+CNBC: "Jaguar Land Rover is developing a hydrogen-powered vehicle and
+plans to test it out this year"
+
+---
+
+I see .. The overall quality of teachers, especially in US, [is low](2021/03/unrivaled-beckley.md#ed).
+Therefore they come across as unskilled workers, "wage earners" which
+makes progs want to protect them.
+
+But this is a bad decision point to be stuck with. Do we care for the
+switchboard operators, want them to be "happy", "well-paid"?. No.
+This particular job is gone, outdated.
+
+---
+
+Yes it is an either-or; either give kids prerecorded lectures, or teachers
+
+---
+
+I see some progs support teachers but not poor kids. Why is dat
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> was recently featured in a speech by Trinidad &amp; Tobago&#39;s Prime Minister, Keith Rowley. With the Caribbean joint island nation said to be exploring feasibility and regulatory aspects of a hydrogen economy.<br><br>Read more here: <a href="https://t.co/7RZUIg4wZq">https://t.co/7RZUIg4wZq</a><a href="https://twitter.com/hashtag/hazergroupltd?src=hash&amp;ref_src=twsrc%5Etfw">#hazergroupltd</a> <a href="https://t.co/MuDaYRzDJI">pic.twitter.com/MuDaYRzDJI</a></p>&mdash; Hazer Group Ltd (@hazergroupltd) <a href="https://twitter.com/hazergroupltd/status/1406748843195179009?ref_src=twsrc%5Etfw">June 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
