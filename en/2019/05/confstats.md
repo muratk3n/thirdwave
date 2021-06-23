@@ -194,6 +194,17 @@ for index, row in df4.iterrows():
         [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
     ).add_to(m)
 
+# add US bases
+m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
+df = pd.read_csv('usbases.csv')
+for index, row in df.iterrows():
+    #folium.Marker([row['lat'], row['lon']]).add_to(m)
+    folium.CircleMarker(location=[row['lat'], row['lon']],
+                        radius=1,
+			color='red',
+                        weight=4).add_to(m)
+
+
 m.save('conflict-out.html')
 ```
 
