@@ -195,15 +195,16 @@ for index, row in df4.iterrows():
     ).add_to(m)
 
 # add US bases
-m = folium.Map(location=[clat, clon], zoom_start=4, tiles="Stamen Terrain")
 df = pd.read_csv('usbases.csv')
 for index, row in df.iterrows():
     #folium.Marker([row['lat'], row['lon']]).add_to(m)
     folium.CircleMarker(location=[row['lat'], row['lon']],
-                        radius=1,
+                        radius=6,
 			color='red',
-                        weight=4).add_to(m)
+                        weight=1).add_to(m)
 
+stitle = "<h3> Attacks in the ME <br/></h3> <h5>US Bases in <font color='red'>Red</font></h5>"
+m.get_root().html.add_child(folium.Element(stitle))
 
 m.save('conflict-out.html')
 ```
