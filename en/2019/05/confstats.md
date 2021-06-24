@@ -216,3 +216,24 @@ The output of the code is below
 
 [Output](conflict-out.html)
 
+
+### US Gun Violence
+
+```python
+import pandas as pd, zipfile
+with zipfile.ZipFile('mass-shooting-us.zip', 'r') as z:
+      df =  pd.read_csv(z.open('USmassshooting.csv'))
+
+df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
+df['DateYM'] = df.apply(lambda x: "%d%02d" % (x['Date'].year, x['Date'].month), axis=1)
+```
+
+```python
+g = df.groupby('DateYM').agg({'Incident ID':'count', '# Killed': 'sum'})
+g['# Killed (Avg)'] = g['# Killed'].rolling(10).mean()
+g.plot()
+plt.savefig('gunvio.png')
+```
+
+![](gunvio.png)
+
