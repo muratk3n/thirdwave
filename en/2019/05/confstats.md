@@ -221,7 +221,9 @@ The output of the code is below
 
 ### US Gun Violence
 
-Data came from the [Gun Violence Archive](https://www.gunviolencearchive.org)
+Data came from the [Gun Violence Archive](https://www.gunviolencearchive.org/reports),
+see data for "mass shootings - all years".
+
 
 ```python
 import pandas as pd, zipfile
@@ -230,9 +232,6 @@ with zipfile.ZipFile('mass-shooting-us.zip', 'r') as z:
 
 df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
 df['DateYM'] = df.apply(lambda x: "%d%02d" % (x['Date'].year, x['Date'].month), axis=1)
-```
-
-```python
 g = df.groupby('DateYM').agg({'Incident ID':'count', '# Killed': 'sum'})
 g['# Killed (Avg)'] = g['# Killed'].rolling(10).mean()
 g.plot()
