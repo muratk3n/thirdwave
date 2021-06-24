@@ -193,3 +193,104 @@ Albanian, or Kurd) with respect to the population... Nevertheless,
 behind closed doors, Turkish officials in the post-Ottoman era
 continued to view crime in part through the prism of ethnicity.
 
+<a name='deep'/>
+
+The failing political fortunes of Turkey’s more notorious gangsters
+has not impeded the illicit trafficking that helped to bring the
+Turkish underworld to life.  Like many other countries since the end
+of the Cold War, narcotics trafficking in and out of Turkey has grown
+more diverse and ever-more lucrative. Continued aillicit opium
+cultivation in Afghanistan, despite a brief dip in the late 1990s,
+remains a staple base for morphine and heroin production smuggled
+through Turkey. A vibrant “Balkan route” connecting Turkish
+wholesalers to retailers in Europe and elsewhere endures as a central
+conduit for heroin...
+
+Months before the 1980 coup, the Interior Ministry created a special
+department (the Ministry’s Department of Smuggling, or Kaçakçılık
+Daire Başbakanlığı) responsible for overseeing law enforcement issues
+(including intelligence) related to smuggling. 10 The office further
+expanded in 1995..
+
+At [around 2000] Sami Hoştan had become a household name in
+Turkey. Born in the Macedonian capital of Skopje in 1947, he arrived
+in Turkey at the age of seven and settled in the city of Istanbul
+(where he acquired the nickname Arnavut Sami, or Sami the
+Albanian). Over the course of his life he spent much of his time
+working in Europe, primarily in the Netherlands. 21 By the 1990s he
+had earned a reputation as a major investor and partner in several
+casinos in Istanbul as well as the Netherlands. His involvement in
+gambling, according to prosecutors in both Western Europe and Turkey,
+served to mask his involvement in the narcotics trade. In 1992, he was
+accused of smuggling close to 300 kilos of heroin into Holland and
+Germany...
+
+Although never convicted of any wrongdoing as a result of the scandal,
+government prosecutors have long maintained Arnavut Sami was one of a
+large cast of gangsters, politicians, and security personnel who
+helped to form a series of state-backed gangs (çetes) deployed against
+the PKK...
+
+The first indication of the complex and twisted web tying
+individuals... to the Susurluk scandal came as a direct result of the
+car crash that killed Abdullah Çatlı in November 1996 [others in the
+car, a police chief, head of a Kurdish tribe from the region of Urfa
+-also an MP-]... The plot thickened when press reports got wind of the
+presence of both weapons and official passports bearing Çatlı’s
+pictures and assumed aliases. The passports, which were reserved for
+special state employees, had been signed personally by the Minister of
+the Interior, Mehmet Ağar, a one time high-ranking DPS official who
+had recently been appointed to the Interior Ministry... Mehmet Ağar
+did stand trial in September 2011 and was found guilty of forming a
+criminal gang (even though this gang has never been implicated
+officially in any crime)...
+
+<a name='peker'/>
+
+Sedat Peker, who took the stand in the fall of 2011, was far more
+forthcoming in explaining his past dealings with high-ranking
+political officials and their connections to both Susurluk and
+Ergenekon. Before the court, Peker claimed to have intimate knowledge
+of the inner workings of the milieu that organized and executed the
+murders of several individuals in the 1990s. In his testimony (as well
+as in a public interview), he claimed that Hanefi Avcı, one-time DPS
+chief in Eskişehir and Diyarbakir, was 'an Ergenekon administrator'
+tasked with extra- judicial killings and provocations. 82 Peker also
+claimed that an agent from MİT, Korkut Eken, had ordered and helped
+finance the killings of Kurdish businessmen with links to the PKK. 8
+
+<a name='deepotto'/>
+
+Speaking more recently, Prime Minister Tayyip Erdoğan has given
+further credence to the existence of the deep state as a political
+force in Turkey. Speaking on television in January 2007, Erdoğan
+expressed his belief that the deep state “had always been there” and
+was a phenomenon carried over from the Ottomans...
+
+Tayyip Erdoğan, from at least one perspective, is correct in his
+appraisal of the Turkish deep state’s imperial roots. The power of the
+ayan (and their bandit retain- ers), as well as the CUP’s mobilization
+of provincial çetes, resembles contemporary state-criminal alliances
+similar to those seen in the wake of the Susurluk scandal.  Ankara’s
+recent need to recruit members of Turkey’s underworld for service
+against ASALA and the PKK resonate strongly in the assistance rendered
+by kidnappers, brigands, and killers as frontline troops and policemen
+(in the case of the seven- teenth, eighteenth, and nineteenth
+centuries) or clandestine assassins and storm troopers (as in the
+çetes of the Special Organization). A select number of outlaws in the
+Ottoman Empire and Turkey have benefited from such patronage,
+resulting in the marginalization of competing criminal interests and
+the entrenchment of illicit syndicates within the provincial and
+national political system (particularly in times of crisis).
+
+The rise of the opiate trade in the late Ottoman Empire marks an
+important juncture in terms of the evolution of the relationship
+between gangs and the state.  Since the nineteenth century, opium,
+morphine, and heroin have become staple products critical to
+Anatolia’s economy. The proceeds from this trade have sus- tained the
+livelihoods of agricultural workers, merchants, politicians, and
+crimi- nals alike for over two centuries now. After several decades of
+foreign dominance, Ankara has fought very hard, in one form or
+another, to maintain this industry in both its legal and (arguably)
+illicit forms.
+
