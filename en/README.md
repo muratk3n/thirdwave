@@ -55,10 +55,6 @@ about to change
 
 ---
 
-Bloomberg took quite a beating during primary for stop-and-frisk, didn't he?
-
----
-
 EA was against stop-and-frisk? Interesting.. 
 
 ---
