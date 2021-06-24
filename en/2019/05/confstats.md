@@ -129,7 +129,7 @@ are also added.
 
 ```python
 from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
-import pandas as pd, datetime
+import pandas as pd, datetime, numpy as np
 from zipfile import ZipFile
 from io import BytesIO
 import urllib.request as urllib2
@@ -200,7 +200,6 @@ for index, row in df4.iterrows():
 # add US bases
 df = pd.read_csv('usbases.csv')
 for index, row in df.iterrows():
-    #folium.Marker([row['lat'], row['lon']]).add_to(m)
     folium.CircleMarker(location=[row['lat'], row['lon']],
                         radius=6,
 			color='red',
