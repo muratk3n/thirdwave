@@ -51,7 +51,7 @@ about to change
 
 ---
 
-[All US bases](2019/05/usmil.md#bases) 
+US bases [around the world](2019/05/usmil.md#bases) 
 
 ---
 
