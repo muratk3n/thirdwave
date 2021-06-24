@@ -222,7 +222,7 @@ The output of the code is below
 ### US Gun Violence
 
 Data came from the [Gun Violence Archive](https://www.gunviolencearchive.org/reports),
-see data for "mass shootings - all years".
+see data for "mass shootings - all years". Plot is monthly incidents and deaths.
 
 
 ```python
@@ -234,9 +234,21 @@ df['Date'] = df.apply(lambda x: pd.to_datetime(x['Incident Date']), axis=1)
 df['DateYM'] = df.apply(lambda x: "%d%02d" % (x['Date'].year, x['Date'].month), axis=1)
 g = df.groupby('DateYM').agg({'Incident ID':'count', '# Killed': 'sum'})
 g['# Killed (Avg)'] = g['# Killed'].rolling(10).mean()
+print (g[['# Killed','# Killed (Avg)']].tail(5))
 g.plot()
 plt.savefig('gunvio.png')
 ```
+
+```text
+        # Killed  # Killed (Avg)
+DateYM                          
+202102        44            48.2
+202103        67            51.0
+202104        55            49.6
+202105        79            50.1
+202106        58            50.7
+```
+
 
 ![](gunvio.png)
 
