@@ -59,12 +59,6 @@ Bloomberg took quite a beating during primary for stop-and-frisk, didn't he?
 
 ---
 
-Well, front-runner..  let's wait and see. The first impression I had
-was the guy is going to walk around with double-barrel shotgun looking
-for crime.
-
----
-
 EA was against stop-and-frisk? Interesting.. 
 
 ---
