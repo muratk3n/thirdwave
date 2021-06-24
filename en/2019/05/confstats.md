@@ -221,6 +221,8 @@ The output of the code is below
 
 ### US Gun Violence
 
+Data came from the [Gun Violence Archive](https://www.gunviolencearchive.org)
+
 ```python
 import pandas as pd, zipfile
 with zipfile.ZipFile('mass-shooting-us.zip', 'r') as z:
