@@ -69,11 +69,6 @@ US gun violence increased? [Check](2019/05/confstats.md#usgun)
 
 ---
 
-HMS Defender is recently reported to be in the Persian Gulf BTW, not
-the Black Sea, accrd to marine tracking sites. So weird
-
----
-
 ♪♬ I shot the sheriff.. ♪♬ but I didn't shoot the deputy
 
 ---
