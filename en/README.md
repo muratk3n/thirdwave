@@ -86,10 +86,6 @@ Haha
 
 Who to believe...?
 
----
-
-😶
-
 WSJ: "U.K. Denies Russia Fired Warning Shots at Warship"
 
 ---
