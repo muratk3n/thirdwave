@@ -69,9 +69,8 @@ US gun violence increased? Let's check. [Here](2019/05/confstats.md#usgun)
 
 ---
 
-HMS Defender is recently reported to be docked at the Persian Gulf
-BTW, not in the Black Sea, accrd to various marine tracking sites. So
-weird
+HMS Defender is recently reported to be in the Persian Gulf BTW, not
+the Black Sea, accrd to marine tracking sites. So weird
 
 ---
 
