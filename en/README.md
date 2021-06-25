@@ -1,15 +1,6 @@
 # Tweets
 
 
-Music to my ears..
-
-The Atlantic: "How Disney Mismanaged the Star Wars Universe And how
-The Mandalorian can restore the true power of George Lucas’s galaxy"
-
-[Link](https://www.theatlantic.com/magazine/archive/2021/07/gross-altman-star-wars-mandalorian/619016/)
-
----
-
 AFP: "The British government said Thursday it will bring in an evening
 watershed for junk food adverts in a move to tackle the nation's
 obesity problem"
@@ -28,6 +19,15 @@ efficient membrane for the [H2 economy]"
 
 WSJ: "Covid-19's Silver Lining in Latin America: Millions of New Bank
 Accounts.. Government aid turbocharged growth in digital banking"
+
+---
+
+Music to my ears..
+
+The Atlantic: "How Disney Mismanaged the Star Wars Universe And how
+The Mandalorian can restore the true power of George Lucas’s galaxy"
+
+[Link](https://www.theatlantic.com/magazine/archive/2021/07/gross-altman-star-wars-mandalorian/619016/)
 
 ---
 
@@ -53,7 +53,7 @@ and improve efficiency of producing hydrogen using electrolyzers"
 US bases alongside attacks.
 
 Heavy US presence in Northeast Syria, an area that doesnt seem to get
-many attacks. Iraq US base on the other hand, is seeing some action.
+many attacks. Iraq is seeing some action..
 
 ---
 
