@@ -170,8 +170,6 @@
 
 [Graham-Cassidy](09/graham-cassidy.md)
 
-[Maria: Target Maga-Lago](09/maria-target-maga-lago.md)
-
 [The Ultimate Stimulus: Social Safety Net](09/the-ultimate-stimulus-social-safety-net.md)
 
 [#weird](09/weird.md)
