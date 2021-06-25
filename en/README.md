@@ -61,7 +61,7 @@ Yes there is an increase
 
 ---
 
-US gun violence increased? Let's check. [Here](2019/05/confstats.md#usgun)
+US gun violence increased? [Check](2019/05/confstats.md#usgun)
 
 ---
 
