@@ -26,13 +26,19 @@
 
 [Conflict Statistics](05/confstats.md)
 
+[Earthquake Stats](05/earthquakes.md)
+
 [Get On With It](05/geton.md)
+
+[Reports](05/reports.md)
 
 [Slippage, H2, the Transition](05/slippage.md)
 
 [Economy, Calculations, Data](05/stats.md)
 
 [Unfettered Capitalism](05/unfettered.md)
+
+[US Bases and Navy Locations](05/usmil.md)
 
 [AI and Functions](06/ai.md)
 

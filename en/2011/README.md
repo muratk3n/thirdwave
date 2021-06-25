@@ -60,8 +60,6 @@
 
 [Middle East after Hosni Mubarak: impact of a revolution](02/middle-east-after-hosni-mubarak-impact.md)
 
-[A New Form of Currency](02/new-form-of-currency.md)
-
 [Nokia](02/nokia.md)
 
 [Nokia's Suicide Note](02/nokias-suicide-note.md)
@@ -133,8 +131,6 @@
 [Rap Song](03/rap-song.md)
 
 [Rule of Law](03/rule-of-law.md)
-
-[Salman Khan's Plan](03/salman-khans-plan.md)
 
 [Zenga Zenga](03/zenga-zenga.md)
 
@@ -219,8 +215,6 @@
 [Zuckerberg](05/zuckerberg.md)
 
 [Analytical Shortcuts](06/analytical-shortcuts_11.md)
-
-[Bill Gates on Budgets](06/bill-gates-on-budgets.md)
 
 [China's Cell Phone Pirates Are Bringing Down Middle Eastern Governments](06/chinas-cell-phone-pirates-are-bringing.md)
 

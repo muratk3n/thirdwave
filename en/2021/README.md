@@ -32,5 +32,11 @@
 
 [Good Reductionism and Nonlinear Power](04/sum-greater-than-whole-reductionism.md)
 
+[Anatolia](05/anatolia.md)
+
 [Farmers, Foragers, Fossils](05/farmers-foragers-fossils.md)
+
+[Ammonia Refigration](06/ammonia-refrigration.md)
+
+[Organized Crime, Asia Minor](06/org-crime-asia-minor.md)
 

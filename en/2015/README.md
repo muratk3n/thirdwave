@@ -236,8 +236,6 @@
 
 [#dude](09/dude-gunnut.md)
 
-[Ed Tech in Kenya](09/ed-tech.md)
-
 [Enklave](09/enklave.md)
 
 [Feed the Poor, Starve the Beast](09/feed-poor-starve-beast.md)
