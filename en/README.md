@@ -1,77 +1,110 @@
 # Tweets
 
 
-Al Jazeera: "‘My Zionism’: Israel’s latest unsuccessful PR stunt Using
-token Black Israelis in Israeli PR will not help make Israeli
-apartheid more acceptable to the world"
+Music to my ears..
 
-[Link](https://www.aljazeera.com/opinions/2021/6/23/my-zionism-israels-latest-unsuccessful-pr-stunt)
+The Atlantic: "How Disney Mismanaged the Star Wars Universe And how
+The Mandalorian can restore the true power of George Lucas’s galaxy"
 
----
-
-"Wind turbines: How UK wants to become 'Saudi Arabia of wind'"
-
-[Link](https://www.bbc.co.uk/news/science-environment-57519392)
+[Link](https://www.theatlantic.com/magazine/archive/2021/07/gross-altman-star-wars-mandalorian/619016/)
 
 ---
 
-"US Sec. of State Blinken warns countries not to benefit from forced
-labour in Xinjiang"
+AFP: "The British government said Thursday it will bring in an evening
+watershed for junk food adverts in a move to tackle the nation's
+obesity problem"
+
+[Link](http://u.afp.com/U2VU)
 
 ---
 
-"@Wright_bus
+"Ionomr Innovations Inc. Breakthrough Aemion+ Membrane Now Available
+For Industrial Scale Green Hydrogen Electrolysis.. Highly stable,
+efficient membrane for the [H2 economy]"
 
-We're so proud to announce @MayorofLondon , @SadiqKhan , will today
-launch England’s first ever hydrogen double decker buses, manufactured
-by our team here at @Wright_bus , to help make the bus fleet
-zero-emission, and clean up London’s toxic air"
-
----
-
-The bases are not without local contraversy. Especially in Okinawa.
+[Link](https://bit.ly/3xNZcT9)
 
 ---
 
-There is a base on the Ascension Island! 
-
-Some mystery surrounding the Diego Garcia base.
-
-A docu claims Ramstein base (in Germany) is huge; and attacks into
-Iraq were supported logistically from there.
+WSJ: "Covid-19's Silver Lining in Latin America: Millions of New Bank
+Accounts.. Government aid turbocharged growth in digital banking"
 
 ---
 
-There isnt much of a presence in Greece, but I have a feeling that is
-about to change
+"@ACatInParis
+
+France, Germany propose Putin overture to a divided EU" via @FRANCE24"
+
+[Link](https://f24.my/7ma4.T )
 
 ---
 
-'Mericans everywhere!
+"@PlugPowerInc
+
+U.S. Senator Martin Heinrich (D-N.M.) has introduced the Advancing the
+Clean Hydrogen Future Act of 2021 establishing RDD&D to reduce cost
+and improve efficiency of producing hydrogen using electrolyzers"
+
+[Link](https://t.co/XPJMbqnPUZ?amp=1)
 
 ---
 
-US bases [around the world](2019/05/usmil.md#bases) 
+[ME attacks](2019/05/confstats.md#gdelt) GDELT update. Now plotting
+US bases alongside attacks.
+
+Heavy US presence in Northeast Syria, an area that doesnt seem to get
+many attacks. Iraq US base on the other hand, is seeing some action.
 
 ---
 
-EA was against stop-and-frisk? Interesting.. 
+Yes there is an increase
 
 ---
 
-I dont think training better teachers, in US context, is an option..
-US is no Finland.
+US gun violence increased? Let's check. [Here](2019/05/confstats.md#usgun)
 
 ---
 
-"@ZachandMattShow
+"US sanctions Chinese solar firms for Uighur human rights abuses"
 
-NYC Mayoral Frontrunner Eric Adams: 'With new technology you don’t
-need school children to be in a school building with a number of
-teachers. It’s just the opposite. You could have one teacher teach
-300-400 students.'"
+---
 
-[Link](https://twitter.com/zachandmattshow/status/1403437549025173508)
+HMS Defender is recently reported to be docked at the Persian Gulf BTW, in
+various marine tracking sites. So weird
+
+---
+
+♪♬ I shot the sheriff.. ♪♬ but I didn't shoot the deputy
+
+---
+
+They dropped bombs *near*, but did not shoot *at*?
+
+---
+
+Haha
+
+Who to believe...?
+
+---
+
+😶
+
+WSJ: "U.K. Denies Russia Fired Warning Shots at Warship"
+
+---
+
+NYT: "Russia Says It Fired Warning Shots at a U.K. Warship Near Crimea"
+
+---
+
+They force Britney Spears take lithium? There isn't enough lithium! There
+wont be any left for those f-ing batteries! Stop taking lithium as a
+drug!
+
+---
+
+"John McAfee: Anti-virus creator found dead in prison cell"
 
 ---
 

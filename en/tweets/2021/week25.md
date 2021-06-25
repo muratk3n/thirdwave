@@ -1,6 +1,80 @@
 # Week 25
 
 
+Al Jazeera: "‘My Zionism’: Israel’s latest unsuccessful PR stunt Using
+token Black Israelis in Israeli PR will not help make Israeli
+apartheid more acceptable to the world"
+
+[Link](https://www.aljazeera.com/opinions/2021/6/23/my-zionism-israels-latest-unsuccessful-pr-stunt)
+
+---
+
+"Wind turbines: How UK wants to become 'Saudi Arabia of wind'"
+
+[Link](https://www.bbc.co.uk/news/science-environment-57519392)
+
+---
+
+"US Sec. of State Blinken warns countries not to benefit from forced
+labour in Xinjiang"
+
+---
+
+"@Wright_bus
+
+We're so proud to announce @MayorofLondon , @SadiqKhan , will today
+launch England’s first ever hydrogen double decker buses, manufactured
+by our team here at @Wright_bus , to help make the bus fleet
+zero-emission, and clean up London’s toxic air"
+
+---
+
+The bases are not without local contraversy. Especially in Okinawa.
+
+---
+
+There is a base on the Ascension Island! 
+
+Some mystery surrounding the Diego Garcia base.
+
+A docu claims Ramstein base (in Germany) is huge; and attacks into
+Iraq were supported logistically from there.
+
+---
+
+There isnt much of a presence in Greece, but I have a feeling that is
+about to change
+
+---
+
+'Mericans everywhere!
+
+---
+
+US bases [around the world](2019/05/usmil.md#bases) 
+
+---
+
+EA was against stop-and-frisk? Interesting.. 
+
+---
+
+I dont think training better teachers, in US context, is an option..
+US is no Finland.
+
+---
+
+"@ZachandMattShow
+
+NYC Mayoral Frontrunner Eric Adams: 'With new technology you don’t
+need school children to be in a school building with a number of
+teachers. It’s just the opposite. You could have one teacher teach
+300-400 students.'"
+
+[Link](https://twitter.com/zachandmattshow/status/1403437549025173508)
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More and more people are saying this <a href="https://t.co/tL9qSdxu0J">https://t.co/tL9qSdxu0J</a></p>&mdash; Gabriel Zucman (@gabriel_zucman) <a href="https://twitter.com/gabriel_zucman/status/1407399987600896004?ref_src=twsrc%5Etfw">June 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
