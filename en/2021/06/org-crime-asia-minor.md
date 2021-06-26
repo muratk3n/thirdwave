@@ -191,7 +191,22 @@ to power, official organs of the Turkish government would eventually
 abandon even the use of minority terms or epithets (such as Laz,
 Albanian, or Kurd) with respect to the population... Nevertheless,
 behind closed doors, Turkish officials in the post-Ottoman era
-continued to view crime in part through the prism of ethnicity.
+continued to view crime in part through the prism of ethnicity...
+
+In surveying both the documentary evidence and the testimony and news
+reporting from this era, there is one aspect of counter-narcotics
+politics and policing in the Menderes era that remains somewhat
+elusive. According to contemporary sources, drug interdiction efforts
+undertaken by Aygün and the DPS may have similarly provided a vehicle
+for a more generalized pattern of domestic and foreign intelligence
+gathering. Moreover, particularly in the wake of his indictment by the
+military regime in 1960, there is some evidence that suggests that
+Kemal Aygün and the Democratic Party may have tapped the Turkish
+underworld to fill the ranks of privately armed gangs or paramilitary
+squads. While it is difficult to completely validate these latter
+claims, such a direct alliance formed between the ​Democratic Party and
+the urban thugs would have been in keeping with early trends from the
+late Ottoman and early Republican periods...
 
 <a name='deep'/>
 
@@ -245,32 +260,9 @@ did stand trial in September 2011 and was found guilty of forming a
 criminal gang (even though this gang has never been implicated
 officially in any crime)...
 
-<a name='peker'/>
-
-Sedat Peker, who took the stand in the fall of 2011, was far more
-forthcoming in explaining his past dealings with high-ranking
-political officials and their connections to both Susurluk and
-Ergenekon. Before the court, Peker claimed to have intimate knowledge
-of the inner workings of the milieu that organized and executed the
-murders of several individuals in the 1990s. In his testimony (as well
-as in a public interview), he claimed that Hanefi Avcı, one-time DPS
-chief in Eskişehir and Diyarbakir, was 'an Ergenekon administrator'
-tasked with extra- judicial killings and provocations. 82 Peker also
-claimed that an agent from MİT, Korkut Eken, had ordered and helped
-finance the killings of Kurdish businessmen with links to the PKK. 8
-
-<a name='deepotto'/>
-
-Speaking more recently, Prime Minister Tayyip Erdoğan has given
-further credence to the existence of the deep state as a political
-force in Turkey. Speaking on television in January 2007, Erdoğan
-expressed his belief that the deep state “had always been there” and
-was a phenomenon carried over from the Ottomans...
-
-Tayyip Erdoğan, from at least one perspective, is correct in his
-appraisal of the Turkish deep state’s imperial roots. The power of the
-ayan (and their bandit retain- ers), as well as the CUP’s mobilization
-of provincial çetes, resembles contemporary state-criminal alliances
+Turkish deep state’s imperial roots [is correct]. The power of the
+*ayan* (and their bandit retainers), as well as the CUP’s mobilization
+of provincial *çetes8, resembles contemporary state-criminal alliances
 similar to those seen in the wake of the Susurluk scandal.  Ankara’s
 recent need to recruit members of Turkey’s underworld for service
 against ASALA and the PKK resonate strongly in the assistance rendered
