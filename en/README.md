@@ -89,7 +89,7 @@ It was this
 
 ---
 
-This shit is constantly being dangled in front of people "change the
+This thing is constantly being dangled in front of people "change the
 subject", Trump used it for the same reason. Cant u find another way
 to "change the subject"?
 
