@@ -25,7 +25,7 @@ the commissioner of the Federal Housing Administration"
 
 ---
 
-Reports say Dutch was also adamantly against any RU overtures.
+Dutch was also adamantly against any RU overtures..
 
 "EU leaders have rejected a push by Germany and France to relaunch
 meetings with Russian President Vladimir Putin after fierce resistance
