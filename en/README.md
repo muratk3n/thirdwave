@@ -1,101 +1,107 @@
 # Tweets
 
+"Study Shows Shipping Green Hydrogen From Iceland to Rotterdam to be
+Realistic Before 2030. @PortOfRotterdam aims to become the major
+import hub for hydrogen to supply Europe"
 
-AFP: "The British government said Thursday it will bring in an evening
-watershed for junk food adverts in a move to tackle the nation's
-obesity problem"
-
-[Link](http://u.afp.com/U2VU)
-
----
-
-"Ionomr Innovations Inc. Breakthrough Aemion+ Membrane Now Available
-For Industrial Scale Green Hydrogen Electrolysis.. Highly stable,
-efficient membrane for the [H2 economy]"
-
-[Link](https://bit.ly/3xNZcT9)
+[Link](https://bit.ly/3d9QBCo)
 
 ---
 
-WSJ: "Covid-19's Silver Lining in Latin America: Millions of New Bank
-Accounts.. Government aid turbocharged growth in digital banking"
+So Occam was not the fist one to come up with his "razor"?
+
+Aristotle: "We may assume superiority, other things being equal, of
+the demonstration which derives from fewer postulates or hypothesis"
 
 ---
 
-Music to my ears..
-
-The Atlantic: "How Disney Mismanaged the Star Wars Universe And how
-The Mandalorian can restore the true power of George Lucas’s galaxy"
-
-[Link](https://www.theatlantic.com/magazine/archive/2021/07/gross-altman-star-wars-mandalorian/619016/)
+"The House Judiciary Committee advanced a bill that would make it
+easier to break up tech companies like Facebook and Google"
 
 ---
 
-"@ACatInParis
-
-France, Germany propose Putin overture to a divided EU" via @FRANCE24"
-
-[Link](https://f24.my/7ma4.T )
+"Biden will nominate housing nonprofit executive Julia Gordon to be
+the commissioner of the Federal Housing Administration"
 
 ---
 
-"@PlugPowerInc
+Reports say Dutch was also adamantly against any RU overtures.
 
-U.S. Senator Martin Heinrich (D-N.M.) has introduced the Advancing the
-Clean Hydrogen Future Act of 2021 establishing RDD&D to reduce cost
-and improve efficiency of producing hydrogen using electrolyzers"
+"EU leaders have rejected a push by Germany and France to relaunch
+meetings with Russian President Vladimir Putin after fierce resistance
+from member states worried about Moscow's aggression"
 
-[Link](https://t.co/XPJMbqnPUZ?amp=1)
-
----
-
-[ME attacks](2019/05/confstats.md#gdelt) GDELT update. Now plotting
-US bases alongside attacks.
-
-Heavy US presence in Northeast Syria, an area that doesnt seem to get
-many attacks. Iraq is seeing some action..
+[Link](http://u.afp.com/U2C9)
 
 ---
 
-Yes there is an increase
+Tarantino on films being too PC: “There has become a thing that’s gone
+on, especially in this last year, where ideology is more important
+than art"
 
 ---
 
-US gun violence increased? [Check](2019/05/confstats.md#usgun)
+Not so, the issue is one of categorization.
+
+After transitioning, eg male to female, an athlete does not become a
+female, s/he becomes a "female who used to be male". This is a new
+category, and they should compete under it.
+
+"Trans athletes being allowed to compete in their chosen gender is an
+issue of human rights"
 
 ---
 
-"US sanctions Chinese solar firms for Uighur human rights abuses"
+'Cloud-enabled' external (local) hard-drive gets deleted via
+Internet 🤣
+
+Increasing bizarre dependencies is so awesome..
+
+"[Western Digital] My Book Live users wake up to find their data
+deleted" via @internetofshit
+
+[Link](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
 
 ---
 
-♪♬ I shot the sheriff.. ♪♬ but I didn't shoot the deputy
+Oz is following a zero-tolerence covid strategy. Regional and federal
+gov are both conservative.
+
+"Central Sydney's streets are deserted as Australia's largest city
+begins a week-long lockdown to contain the highly contagious Delta
+coronavirus variant, with authorities warning broader restrictions
+could follow"
+
+[Link](http://u.afp.com/U6iq)
 
 ---
 
-They dropped bombs *near*, but did not shoot *at*?
+Im just kidding
 
 ---
 
-Haha
+It was this
 
-Who to believe...?
+<img width="340" src="https://pbs.twimg.com/media/E4ahdzaXwAMJ1x7?format=jpg&name=small"/>
 
-WSJ: "U.K. Denies Russia Fired Warning Shots at Warship"
-
----
-
-NYT: "Russia Says It Fired Warning Shots at a U.K. Warship Near Crimea"
+"Mystery of what caused South Florida condo collapse deepens"
 
 ---
 
-They force Britney Spears take lithium? There isn't enough lithium! There
-wont be any left for those f-ing batteries! Stop taking lithium as a
-drug!
+This shit is constantly being paraded around to "change the subject",
+Trump used it for the same reason. Cant u find another way to "change
+the subject"?
+
+My take [here](2015/08/ufo.md) is unchanged.
+
+"No firm conclusion on UFOs, says US intelligence report"
 
 ---
 
-"John McAfee: Anti-virus creator found dead in prison cell"
+Dude u got the shit kicked out of you.. it was terrible terrible
+showing..  Endemic of the garbage state the country is in..
+
+"Euro 2020: Turkey eliminated after Switzerland's 3-1 victory"
 
 ---
 

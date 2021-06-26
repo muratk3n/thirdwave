@@ -1,6 +1,104 @@
 # Week 25
 
 
+AFP: "The British government said Thursday it will bring in an evening
+watershed for junk food adverts in a move to tackle the nation's
+obesity problem"
+
+[Link](http://u.afp.com/U2VU)
+
+---
+
+"Ionomr Innovations Inc. Breakthrough Aemion+ Membrane Now Available
+For Industrial Scale Green Hydrogen Electrolysis.. Highly stable,
+efficient membrane for the [H2 economy]"
+
+[Link](https://bit.ly/3xNZcT9)
+
+---
+
+WSJ: "Covid-19's Silver Lining in Latin America: Millions of New Bank
+Accounts.. Government aid turbocharged growth in digital banking"
+
+---
+
+Music to my ears..
+
+The Atlantic: "How Disney Mismanaged the Star Wars Universe And how
+The Mandalorian can restore the true power of George Lucas’s galaxy"
+
+[Link](https://www.theatlantic.com/magazine/archive/2021/07/gross-altman-star-wars-mandalorian/619016/)
+
+---
+
+"@ACatInParis
+
+France, Germany propose Putin overture to a divided EU" via @FRANCE24"
+
+[Link](https://f24.my/7ma4.T )
+
+---
+
+"@PlugPowerInc
+
+U.S. Senator Martin Heinrich (D-N.M.) has introduced the Advancing the
+Clean Hydrogen Future Act of 2021 establishing RDD&D to reduce cost
+and improve efficiency of producing hydrogen using electrolyzers"
+
+[Link](https://t.co/XPJMbqnPUZ?amp=1)
+
+---
+
+[ME attacks](2019/05/confstats.md#gdelt) GDELT update. Now plotting
+US bases alongside attacks.
+
+Heavy US presence in Northeast Syria, an area that doesnt seem to get
+many attacks. Iraq is seeing some action..
+
+---
+
+Yes there is an increase
+
+---
+
+US gun violence increased? [Check](2019/05/confstats.md#usgun)
+
+---
+
+"US sanctions Chinese solar firms for Uighur human rights abuses"
+
+---
+
+♪♬ I shot the sheriff.. ♪♬ but I didn't shoot the deputy
+
+---
+
+They dropped bombs *near*, but did not shoot *at*?
+
+---
+
+Haha
+
+Who to believe...?
+
+WSJ: "U.K. Denies Russia Fired Warning Shots at Warship"
+
+---
+
+NYT: "Russia Says It Fired Warning Shots at a U.K. Warship Near Crimea"
+
+---
+
+They force Britney Spears take lithium? There isn't enough lithium! There
+wont be any left for those f-ing batteries! Stop taking lithium as a
+drug!
+
+---
+
+"John McAfee: Anti-virus creator found dead in prison cell"
+
+---
+
 Al Jazeera: "‘My Zionism’: Israel’s latest unsuccessful PR stunt Using
 token Black Israelis in Israeli PR will not help make Israeli
 apartheid more acceptable to the world"
