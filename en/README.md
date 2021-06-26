@@ -42,7 +42,7 @@ than art"
 
 ---
 
-Not it isn't. The issue is one of categorization.
+No it isn't. The issue is one of categorization.
 
 After transitioning, eg male to female, an athlete does not become a
 female, s/he becomes a "female who used to be male". This is a new
