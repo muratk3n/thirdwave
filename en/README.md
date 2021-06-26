@@ -25,7 +25,8 @@ the commissioner of the Federal Housing Administration"
 
 ---
 
-Dutch was also adamantly against any RU overtures..
+The Dutch was also adamantly against any RU overtures. "One word:
+MH17"? Damn.
 
 "EU leaders have rejected a push by Germany and France to relaunch
 meetings with Russian President Vladimir Putin after fierce resistance
