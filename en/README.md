@@ -88,9 +88,9 @@ It was this
 
 ---
 
-This shit is constantly being paraded around to "change the subject",
-Trump used it for the same reason. Cant u find another way to "change
-the subject"?
+This shit is constantly being dangled in front of people "change the
+subject", Trump used it for the same reason. Cant u find another way
+to "change the subject"?
 
 My take [here](2015/08/ufo.md) is unchanged.
 
