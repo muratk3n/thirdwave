@@ -49,7 +49,7 @@ and improve efficiency of producing hydrogen using electrolyzers"
 
 ---
 
-[ME attacks](2019/05/confstats.md#gdelt) GDELT update. Now plotting
+[ME attacks](../../2019/05/confstats.md#gdelt) GDELT update. Now plotting
 US bases alongside attacks.
 
 Heavy US presence in Northeast Syria, an area that doesnt seem to get
@@ -61,7 +61,7 @@ Yes there is an increase
 
 ---
 
-US gun violence increased? [Check](2019/05/confstats.md#usgun)
+US gun violence increased? [Check](../../2019/05/confstats.md#usgun)
 
 ---
 
@@ -149,7 +149,7 @@ about to change
 
 ---
 
-US bases [around the world](2019/05/usmil.md#bases) 
+US bases [around the world](../../2019/05/usmil.md#bases) 
 
 ---
 
@@ -337,7 +337,7 @@ for 70,000 in fast food"
 
 ---
 
-UCDP/PRIO May file [is out](2019/05/confstats.md). Afganistan, Yemen,
+UCDP/PRIO May file [is out](../../2019/05/confstats.md). Afganistan, Yemen,
 Nigeria deaths increased. 
 
 ---
@@ -357,7 +357,7 @@ Gotcha
 
 Output at the bottom
 
-[Earthquake Stats](2019/05/earthquakes.md)
+[Earthquake Stats](../../2019/05/earthquakes.md)
 
 ---
 
@@ -394,7 +394,7 @@ plans to test it out this year"
 
 ---
 
-I see .. The overall quality of teachers, especially in US, [is low](2021/03/unrivaled-beckley.md#ed).
+I see .. The overall quality of teachers, especially in US, [is low](../../2021/03/unrivaled-beckley.md#ed).
 Therefore they come across as unskilled workers, "wage earners" which
 makes progs want to protect them.
 
