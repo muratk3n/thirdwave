@@ -48,7 +48,7 @@ the goal of solving a research problem.. Throughout it all however, it
 always seemed to me Gowers was doing more work keeping the thing
 together than actually enjoying its results, he was putting more work
 in than he was getting out basically.. so the project is a fail. On
-focused work, you need focused experts of similar stature, so they can
+focused work, you need focused expert(s) of similar stature, so they can
 reach a fruitful result.. Creation requires intention. Only intention
 can put together the necessary pieces to generate nonlinear power. Bunch of
 jagoffs "coming together" in an ad-hoc fashion will not bring about
