@@ -1,108 +1,60 @@
 # Tweets
 
-"Study Shows Shipping Green Hydrogen From Iceland to Rotterdam to be
-Realistic Before 2030. @PortOfRotterdam aims to become the major
-import hub for hydrogen to supply Europe"
 
-[Link](https://bit.ly/3d9QBCo)
+Phys.org: "Researcher shows that black holes do not exist"
 
----
-
-So Occam was not the fist one to come up with his "razor"?
-
-Aristotle: "We may assume superiority, other things being equal, of
-the demonstration which derives from fewer postulates or hypothesis"
+[Link](https://phys.org/news/2014-09-black-holes.html)
 
 ---
 
-"The House Judiciary Committee advanced a bill that would make it
-easier to break up tech companies like Facebook and Google"
+"Key witness in Assange case admits to lies in indictment.. A major
+witness in the United States’ Department of Justice case against
+Julian Assange has admitted to fabricat­ing key accusations in the
+indictment against the Wikileaks founder"
 
 ---
 
-"Biden will nominate housing nonprofit executive Julia Gordon to be
-the commissioner of the Federal Housing Administration"
+Every big city needs to do this. Less traffic the better. Especially
+those f-ing scooters, small motorbikes (which multiplied due to
+pandemic, ppl staying in and ordering packages more), even bicycles
+need to be taken out of pedestrian zones.
+
+"Barcelona to expand 'superblocks' to city centre district. Introduced
+in 2016, the scheme transforms nine city blocks into so-called
+'​superblocks', where traffic is only allowed around the perimeter"
 
 ---
 
-The Dutch was also adamantly against any RU overtures. "One word:
-MH17"? Damn.
+Nils Petter Molvaer - Trip \#music
 
-"EU leaders have rejected a push by Germany and France to relaunch
-meetings with Russian President Vladimir Putin after fierce resistance
-from member states worried about Moscow's aggression"
-
-[Link](http://u.afp.com/U2C9)
+[Link](https://youtu.be/Wr4bkDBEnv4)
 
 ---
 
-Tarantino on films being too PC: “There has become a thing that’s gone
-on, especially in this last year, where ideology is more important
-than art"
+"@WhiteHouse
+
+The first Energy Earthshot on clean hydrogen, seeks to reduce the cost
+of clean hydrogen by 80% to $1 per kilogram in one decade"
 
 ---
 
-No it isn't. The issue is one of categorization.
-
-After transitioning, eg male to female, an athlete does not become a
-female, s/he becomes a "female who used to be male". This is a new
-category, and they should compete under it.
-
-"Trans athletes being allowed to compete in their chosen gender is an
-issue of human rights"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">London launches England&#39;s first <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a> <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a>-powered double decker buses for it <a href="https://twitter.com/hashtag/London?src=hash&amp;ref_src=twsrc%5Etfw">#London</a> fleet--London Mayor Kicks Off 20 new hydrogen <a href="https://twitter.com/hashtag/fuelcell?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcell</a> double-decker buses <a href="https://t.co/bCiG1CYM7j">https://t.co/bCiG1CYM7j</a> <a href="https://twitter.com/hashtag/HydrogenNow?src=hash&amp;ref_src=twsrc%5Etfw">#HydrogenNow</a> <a href="https://twitter.com/hashtag/FuelCellsNow?src=hash&amp;ref_src=twsrc%5Etfw">#FuelCellsNow</a> <a href="https://twitter.com/hashtag/zeroemissions?src=hash&amp;ref_src=twsrc%5Etfw">#zeroemissions</a> <a href="https://twitter.com/hashtag/fuelcells?src=hash&amp;ref_src=twsrc%5Etfw">#fuelcells</a> <a href="https://twitter.com/hashtag/decarbonise?src=hash&amp;ref_src=twsrc%5Etfw">#decarbonise</a> <a href="https://twitter.com/hashtag/cleanhydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#cleanhydrogen</a> <a href="https://twitter.com/hashtag/H2?src=hash&amp;ref_src=twsrc%5Etfw">#H2</a></p>&mdash; FuelCellsWorks (@fuelcellsworks) <a href="https://twitter.com/fuelcellsworks/status/1408687731648208900?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-'Cloud-enabled' external (local) hard-drive gets deleted via
-Internet 🤣
+It was tried, results aren't good. See Tom Gowers' [polymath project](https://en.wikipedia.org/wiki/Polymath_Project).
+PM was a designed to be a "massively collaborative mathematical project" with
+the goal of solving a research problem.. Throughout it all however, it
+always seemed to me Gowers was doing more work keeping the thing
+together than actually enjoying its results, he was putting more work
+in than he was getting out basically.. so the project is a fail. On
+focused work, you need focused experts of similar stature, so they can
+reach a fruitful result.. Creation requires intention. Only intention
+can put together the necessary pieces to generate nonlinear power. Bunch of
+jagoffs "coming together" in an ad-hoc fashion will not bring about
+major change.
 
-Increasing bizarre dependencies is so awesome..
-
-"[Western Digital] My Book Live users wake up to find their data
-deleted" via @internetofshit
-
-[Link](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
-
----
-
-Oz is following a zero-tolerence covid strategy. Regional and federal
-gov are both conservative.
-
-"Central Sydney's streets are deserted as Australia's largest city
-begins a week-long lockdown to contain the highly contagious Delta
-coronavirus variant, with authorities warning broader restrictions
-could follow"
-
-[Link](http://u.afp.com/U6iq)
-
----
-
-Im just kidding
-
----
-
-It was this
-
-<img width="340" src="https://pbs.twimg.com/media/E4ahdzaXwAMJ1x7?format=jpg&name=small"/>
-
-"Mystery of what caused South Florida condo collapse deepens"
-
----
-
-This thing is constantly being dangled in front of people to "change
-the subject", Trump used it for the same reason. Cant u find another
-way to "change the subject"?
-
-My take [here](2015/08/ufo.md) is unchanged.
-
-"No firm conclusion on UFOs, says US intelligence report"
-
----
-
-Dude u got the shit kicked out of you.. it was terrible terrible
-showing..  Endemic of the garbage state the country is in..
-
-"Euro 2020: Turkey eliminated after Switzerland's 3-1 victory"
+"Can 'people power' work in detailed research"
 
 ---
 

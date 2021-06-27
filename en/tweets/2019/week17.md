@@ -261,11 +261,18 @@ I do talk about greater access, say on ed. But my point for greater access is to
 
 ---
 
-Marketing. Shit sells better if you pander to the crowd. Tubers are the worst. They have to fill time, pander to crowd, act like the viewers are wonky, intelligent pol ops, when in fact they really aren't. You lay out minutae, help filtering, you _become_ their political leader.
+Marketing. Shit sells better if you pander to the crowd. Tubers are
+the worst. They have to fill time, pander to crowd, act like the
+viewers are wonky, intelligent pol ops, when in fact they really
+aren't. You lay out minutae, help filtering, you _become_ their
+political leader.
 
 ---
 
-Buttigieg didn't say Bernie and Trump supporters are the same. He said they were the result of ppl's misery. Did not call one good, the other bad, left that somewhat opaque, did not automatically praise Bernie... Hey, he is running for prez himself; why should he?
+Buttigieg didn't say Bernie and Trump supporters are the same. He said
+they were the result of ppl's misery. Did not call one good, the other
+bad, left that somewhat opaque, did not automatically praise
+Bernie... Hey, he is running for prez himself; why should he?
 
 ---
 
