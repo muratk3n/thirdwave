@@ -28,7 +28,7 @@ in 2016, the scheme transforms nine city blocks into so-called
 
 Nils Petter Molvaer - Trip \#music
 
-[Link](https://youtu.be/Wr4bkDBEnv4)
+[Link](https://youtu.be/Wr4bkDBEnv4?t=26)
 
 ---
 
