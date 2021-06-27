@@ -12,6 +12,8 @@ witness in the United States’ Department of Justice case against
 Julian Assange has admitted to fabricat­ing key accusations in the
 indictment against the Wikileaks founder"
 
+[Link](https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/)
+
 ---
 
 Every big city needs to do this. Less traffic the better. Especially
