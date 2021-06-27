@@ -18,8 +18,7 @@ indictment against the Wikileaks founder"
 
 Every big city needs to do this. Less traffic the better. Especially
 those f-ing scooters, small motorbikes (which multiplied due to
-pandemic, ppl staying in and ordering packages more), even bicycles
-need to be taken out of pedestrian zones.
+pandemic, ppl staying in and ordering packages more).
 
 "Barcelona to expand 'superblocks' to city centre district. Introduced
 in 2016, the scheme transforms nine city blocks into so-called
