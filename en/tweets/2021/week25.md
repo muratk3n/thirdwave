@@ -93,7 +93,7 @@ This thing is constantly being dangled in front of people to "change
 the subject", Trump used it for the same reason. Cant u find another
 way to "change the subject"?
 
-My take [here](2015/08/ufo.md) is unchanged.
+My take [here](../../2015/08/ufo.md) is unchanged.
 
 "No firm conclusion on UFOs, says US intelligence report"
 
