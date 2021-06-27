@@ -38,5 +38,7 @@
 
 [Ammonia Refigration](06/ammonia-refrigration.md)
 
+[Eternal Dawn](06/eternal-dawn-kemal.md)
+
 [Organized Crime, Asia Minor](06/org-crime-asia-minor.md)
 
