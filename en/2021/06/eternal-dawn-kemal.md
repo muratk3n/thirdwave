@@ -100,6 +100,8 @@ a Turkish-speaking Muslim of Jewish ancestry born in modern-day
 Greece, encapsulates the diversity and richness the Turkish Republic
 eventually sought to deny or destroy...
 
+<a name='cupethnic'/>
+
 Typifying the passions and contradictions within the CUP were the
 three men most instrumental in later propelling Mustafa Kemal to
 power. Like the Gazi himself, Kazım Karabekir, Ali Fethi Okyar, and
