@@ -2,7 +2,6 @@
 
 From the Ryan Gingeras book
 
-
 [Kemal] declared that Dolmabahçe was no longer “the palace of caliphs
 but truly the people’s palace.” “Here,” Kemal concluded, “I am elated
 to be solely the nation’s guest.” For the remainder of his life,
@@ -21,14 +20,28 @@ lived and died in a palace built for the departed Ottoman
 dynasty. Such an association flew in the face of the man’s reputation
 and achievements... 
 
-[During late Ottoman era] Rather than grant greater authority to
-trained professionals, like [a bureucrat, Cavid], in finding solutions
-to the challenges facing the nation, the empire’s ruling sovereign,
-Abdülhamid II, jealously guarded his power. The Great Powers of
-Europe, it often seemed, drew strength from the sultan’s predilection
-toward autocracy. As the government sank deeper into debt, and fell
-under ever greater foreign control, men such as Cavid sensed that the
-state teetered on the brink of collapse.
+[During late Ottoman era] The reign of the first Ottoman parliament,
+however, proved short-lived. A rising tide of domestic crises
+gradually bled the sultan’s patience with constitutional govern-
+ance. The outbreak of popular revolt among villagers and townsmen in
+Bosnia and Bulgaria in 1876 cast a shadow over the ascendant liberal
+order.  Rather than settle local and international apprehensions,
+state efforts to crush the uprisings provided an aggressive Russian
+government a casus belli to invade.  Under the guise of Istanbul’s
+humbling defeat in the Russo-Ottoman War of 1877, Abdülhamid II
+abrogated the constitution, suspended the parliament, and reinsti-
+tuted a stringent monarchical order over the state... [But then]
+Abdülhamid II’s authoritarian turn led to growing levels of militancy
+in the empire’s Balkan and Anatolian provinces...
+
+Rather than grant greater authority to trained professionals, like
+[like Mehmet Cavid], in finding solutions to the challenges facing the
+nation, the empire’s ruling sovereign, Abdülhamid II, jealously
+guarded his power. The Great Powers of Europe, it often seemed, drew
+strength from the sultan’s predilection toward autocracy. As the
+government sank deeper into debt, and fell under ever greater foreign
+control, men such as Cavid sensed that the state teetered on the brink
+of collapse.
 
 Fears of the empire’s imminent fall drove Mehmet Cavid into the
 company of like-minded officials and officers desperate for political
@@ -72,10 +85,10 @@ No appreciation for the early history of the Turkish Republic can
 begin without a proper understanding of the origins, desires, and
 tribulations of the Young Turks. Their era by no means constituted a
 mere placeholder or prologue to the dramatic events that occurred
-thereafter. Turkey, as it came to be defined philo- sophically, was
-the unintended offspring of this movement. The most profound
-attributes of Atatürk’s state, its thirst for radical social change,
-its predilection for chauvinistic nationalism, and its oligarchic
+thereafter. Turkey, as it came to be defined philosophically, was the
+unintended offspring of this movement. The most profound attributes of
+Atatürk’s state, its thirst for radical social change, its
+predilection for chauvinistic nationalism, and its oligarchic
 structure, descended directly from the CUP’s approach towards
 politics...
 
@@ -85,5 +98,24 @@ important aspects of the country’s origins and he embodies key traits
 of the empire that had preceded it. The complexity of his background,
 a Turkish-speaking Muslim of Jewish ancestry born in modern-day
 Greece, encapsulates the diversity and richness the Turkish Republic
-eventually sought to deny or destroy.
+eventually sought to deny or destroy...
+
+Typifying the passions and contradictions within the CUP were the
+three men most instrumental in later propelling Mustafa Kemal to
+power. Like the Gazi himself, Kazım Karabekir, Ali Fethi Okyar, and
+İsmet İnönü each joined the party as young officers serving in the
+Balkans. Ethnically and geographically the three men shared little in
+common. Ali Fethi was born of wealthy Albanian parents in the central
+Macedonian town of Prilip. As the sons of public servants, İsmet and
+Kazım spent only a portion of their youths in their hometowns of
+Istanbul and Izmir. Their respective fathers, the former a Kurd from
+Malatya and the latter a descendant of provincial Turk notability from
+Karaman, represented very different aspects of Anatolian society...
+
+[Kazim's] patriotism was partially born of a hatred towards Armenians
+that his family instilled in him at an early age. An attempt upon the
+life of Abdülhamid II by Armenian militants in 1905 helped crystalize
+his general suspicion towards non-Muslims in general. If an Armenian
+had killed the hated sultan, he and others would have grieved over the
+crime...
 
