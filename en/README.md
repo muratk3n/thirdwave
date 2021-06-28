@@ -1,21 +1,5 @@
 # Tweets
 
-
-Tug-of-war around the net-zero decision in AU? Gov coalition partner
-had a leadership change. Net0 was the culprit?
-
-"Climate change sceptic Barnaby Joyce, who was deputy prime minister
-from 2016 to 2018 but resigned after an extramarital affair with a
-former staffer, won a [gov coalition partner] National party
-leadership vote on Monday defeating incumbent Michael McCormack...
-
-Joyce, who will be sworn in as deputy prime minister on Tuesday, said
-his party will only support an energy policy that bolsters the
-government's appeal in regional Australia - which is heavily dependent
-on fossil fuel mining"
-
----
-
 Whichever tech is used to generate energy doesn't matter, produce
 renewable fuel, ship. H2 economy can handle all types of input.
 
@@ -94,6 +78,21 @@ plain ol' salt.
 Bioenzymatic Fuel Cells
 
 <iframe width="340" src="https://www.youtube.com/embed/2r48_g-yO4c?start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Tug-of-war around the net-zero decision in AU? Gov coalition partner
+had a leadership change. Net0 was the culprit?
+
+"Climate change sceptic Barnaby Joyce, who was deputy prime minister
+from 2016 to 2018 but resigned after an extramarital affair with a
+former staffer, won a [gov coalition partner] National party
+leadership vote on Monday defeating incumbent Michael McCormack...
+
+Joyce, who will be sworn in as deputy prime minister on Tuesday, said
+his party will only support an energy policy that bolsters the
+government's appeal in regional Australia - which is heavily dependent
+on fossil fuel mining"
 
 ---
 
