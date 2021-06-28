@@ -80,12 +80,6 @@ Because of, you know, like the Big Bang and the expanding universe? 😶
 
 ---
 
-I think I am approaching a "supermix", a go-to dish that has
-everything needed, based on cheap ingredients, cooked in a simple way
-and still tastes awesome.
-
----
-
 Salt's antibacterial abilities are overlooked.. For preserving meat
 dont we add salt (as well as drying)? Salt is added not bcz it tastes
 good (nat selection might have introduced that later on), we add salt
