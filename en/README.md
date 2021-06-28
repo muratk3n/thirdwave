@@ -45,7 +45,7 @@ Not good
 
 ---
 
-Sunight Refineries... CSP.. They focus sunlight into one spot through mirrors,
+Sunlight Refineries... CSP.. They focus sunlight into one spot through mirrors,
 generate heat.
 
 What is the efficiency of the system I wonder
