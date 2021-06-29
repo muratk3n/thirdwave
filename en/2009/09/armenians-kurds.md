@@ -162,8 +162,6 @@ a roaring trade with such dandies, forging Hamidiya badges for wear
 with lambskin busbies. As with the Hamidiya, the civil authorities
 found themselves powerless to curb them ...
 
-<a name='hamidiyaArmenian'/>
-
 Although most affrays initially were inter-tribal ones, it was the
 client peasantry, Muslim and Christian, which suffered most. Soon it
 became clear both that the Armenians were the primary targets, and
