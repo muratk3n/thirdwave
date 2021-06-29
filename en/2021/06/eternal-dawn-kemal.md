@@ -22,17 +22,17 @@ and achievements...
 
 [During late Ottoman era] The reign of the first Ottoman parliament,
 however, proved short-lived. A rising tide of domestic crises
-gradually bled the sultan’s patience with constitutional govern-
-ance. The outbreak of popular revolt among villagers and townsmen in
-Bosnia and Bulgaria in 1876 cast a shadow over the ascendant liberal
-order.  Rather than settle local and international apprehensions,
-state efforts to crush the uprisings provided an aggressive Russian
-government a casus belli to invade.  Under the guise of Istanbul’s
-humbling defeat in the Russo-Ottoman War of 1877, Abdülhamid II
-abrogated the constitution, suspended the parliament, and reinsti-
-tuted a stringent monarchical order over the state... [But then]
-Abdülhamid II’s authoritarian turn led to growing levels of militancy
-in the empire’s Balkan and Anatolian provinces...
+gradually bled the sultan’s patience with constitutional
+governance. The outbreak of popular revolt among villagers and
+townsmen in Bosnia and Bulgaria in 1876 cast a shadow over the
+ascendant liberal order.  Rather than settle local and international
+apprehensions, state efforts to crush the uprisings provided an
+aggressive Russian government a casus belli to invade.  Under the
+guise of Istanbul’s humbling defeat in the Russo-Ottoman War of 1877,
+Abdülhamid II abrogated the constitution, suspended the parliament,
+and reinsti- tuted a stringent monarchical order over the
+state... [But then] Abdülhamid II’s authoritarian turn led to growing
+levels of militancy in the empire’s Balkan and Anatolian provinces...
 
 Rather than grant greater authority to trained professionals, like
 [like Mehmet Cavid], in finding solutions to the challenges facing the
