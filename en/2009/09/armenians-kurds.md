@@ -115,8 +115,8 @@ status. Hamidiya tribes were exempted from one of the most unpopular
 measures of Ottoman centralization, the liability for conscription
 which was being introduced into the region for the very first
 time. Hamidiya chiefs were invited to send their sons to one of the
-.tribal schools established in both Istanbul and Kurdistan, in order
-to absorb them into the Ottoman establishment. ...
+tribal schools established in both Istanbul and Kurdistan, in order to
+absorb them into the Ottoman establishment. ...
 
 The ostensible purpose of the Hamidiya Cavalry was to provide a
 bulwark against the Russian threat. It was important to stiffen the
