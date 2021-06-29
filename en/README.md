@@ -42,10 +42,9 @@ bar"
 
 ---
 
-There was an assasination attempt on Hamit II (pre-CUP, Otto sultan),
-from the same post.
-
-Makes sense, bcz Armenian killings started during [his time](2009/09/armenians-kurds.md).
+There was an assasination attempt on Hamit II (pre-CUP, Otto
+sultan). Makes sense, bcz Armenian killings started during
+[his time](2009/09/armenians-kurds.md).
 
 ---
 
