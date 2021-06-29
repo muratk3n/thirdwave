@@ -92,6 +92,8 @@ repeated fights between one tribe and another, to increased banditry
 and to a serious decline in the economic condition of the country [pg
 49] ...
 
+<a name='hamidiya'/>
+
 In 1891 Sultan Abd al Hamid authorized the establishment of an
 irregular mounted force in eastern Anatolia, designating it after
 himself, the Hamidiya Cavalry. The intention was to imitate the
