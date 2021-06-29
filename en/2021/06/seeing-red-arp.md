@@ -5,20 +5,20 @@ Book by Halton Arp
 One useful aspect of the present book is that it illustrates what can
 develop from one simple assumption, such as the nature of
 extragalactic redshifts. Both sides in the dispute have complex,
-rather fully worked out views which they believe to be empiri- cally
+rather fully worked out views which they believe to be empirically
 supported and logically required. Yet one side must be completely and
-catastrophi- cally wrong. It makes one wonder, perhaps with profit,
-whether there are other uncer- tain assumptions on which much of our
+catastrophically wrong. It makes one wonder, perhaps with profit,
+whether there are other uncertain assumptions on which much of our
 lives are built, but of which we are innocently overconfident...
 
 It is currently believed that rigorous cosmology started in the early
 1920’s after Einstein wrote down the equations of general
 relativity. These essentially represented the conservation of mass,
-energy, momentum, etc. in the most general possible coordi- nate
+energy, momentum, etc. in the most general possible coordinate
 system. In 1922, the Russian mathematician, A. Friedmann, “solved”
-these equa- tions, i.e., showed how the system would behave in
-time. It is interesting to note that at first, Einstein felt this
-solution was incorrect. Later he said it was correct, but of no
+these equations, i.e., showed how the system would behave in time. It
+is interesting to note that at first, Einstein felt this solution was
+incorrect. Later he said it was correct, but of no
 consequence. Finally he accepted the validity of this solution, but
 was so unhappy with the fact that it was not a stable solution, i.e.,
 it either collapsed or expanded, that he retained the cosmological
@@ -31,7 +31,7 @@ really extragalactic, and a few years later announced that the
 redshifts of their spectral lines increased as they became
 fainter. This redshift-apparent magnitude relation for galaxies became
 known as the Hubble law (through lack of rigor, often referred to as
-the redshift- distance relation). At this point Einstein dropped his
+the redshift-distance relation). At this point Einstein dropped his
 cosmological constant as a great mistake, and adopted the view that
 his equations had been telling him all along, that the universe was
 expanding. Thus was born the Big Bang theory, according to which the
