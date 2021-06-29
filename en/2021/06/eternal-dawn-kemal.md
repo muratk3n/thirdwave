@@ -45,28 +45,19 @@ of collapse.
 
 Fears of the empire’s imminent fall drove Mehmet Cavid into the
 company of like-minded officials and officers desperate for political
-change. The men who came to surround him after he relocated to
-Salonika in the early 1900s similarly considered themselves
-professionals and loyal patriots. Through their education, each
-acquired a strong affection for the Ottoman nation. Though Cavid’s
-col- league and comrades often disagreed as to the content and
-character of Ottoman nationality, all vehemently agreed that the
-sultan needed to step aside or be removed for the empire to right
-itself...
-
-The party that Mehmet Cavid and his confederates established in
-Salonika, the Committee of Union and Progress (or CUP), seized power
-and came to command the empire as a whole. The Young Turks, as the
-foreign press often referred to them, took to governing with the same
-ferocity and conviction that propelled them to stage their dramatic
-revolution in 1908. Their desire to unify the nation and bring order
-to the state led them to confront dissent with increasing severity.
-The outbreak of the Great War proved a tipping point in their
-rule. Rather than bring the many peoples of the empire together as a
-“nation-in-arms,” the war, and the CUP’s management of it, wrought
-terrible chasms within society. By the armistice in 1918, large
-numbers of Ottoman citizens cast the Young Turks as the chief culprits
-for loss and suffering witnessed across the empire. The CUP’s
+change... The party that Mehmet Cavid and his confederates established
+in Salonika, the Committee of Union and Progress (or CUP), seized
+power and came to command the empire as a whole. The Young Turks, as
+the foreign press often referred to them, took to governing with the
+same ferocity and conviction that propelled them to stage their
+dramatic revolution in 1908. Their desire to unify the nation and
+bring order to the state led them to confront dissent with increasing
+severity.  The outbreak of the Great War proved a tipping point in
+their rule. Rather than bring the many peoples of the empire together
+as a “nation-in-arms,” the war, and the CUP’s management of it,
+wrought terrible chasms within society. By the armistice in 1918,
+large numbers of Ottoman citizens cast the Young Turks as the chief
+culprits for loss and suffering witnessed across the empire. The CUP’s
 revolution, from the perspective of 1918, was a false dawn. Rather
 than save the state, the Young Turks had condemned it.
 
