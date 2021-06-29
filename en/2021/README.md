@@ -42,3 +42,5 @@
 
 [Organized Crime, Asia Minor](06/org-crime-asia-minor.md)
 
+[Seeing Red](06/seeing-red-arp.md)
+
