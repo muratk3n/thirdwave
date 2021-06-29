@@ -147,8 +147,8 @@ further hardship for the latter. In several cases a Kurdish chief was
 not only commander of a Hamidiya regiment but also the local civil
 authority. .. [T]hose who sought recourse to government still found
 that the civil administration had no power to restrain the Hamidiya,
-who were answerable solely to the ",usbir of the Fourth Army in
-Erzerum. The "'tlsbir, Zakki Pasha, who happened to be the sultan's
+who were answerable solely to the "[chief] of the Fourth Army in
+Erzerum. The "[chief]" Zakki Pasha, who happened to be the sultan's
 brother-in-law, was subject not to the wali but direct to Istanbul. He
 was clearly using the Hamidiya as the instrument of a policy that had
 little in common with the brief of the civil administration of the
