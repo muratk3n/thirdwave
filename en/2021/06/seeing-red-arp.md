@@ -54,9 +54,8 @@ in the world had deliberately refused to look at, and in so doing,
 solved the riddle of the K effect—and at the same time laid the last
 flower on the grave of Big Bang cosmology.
 
-Looking back now, especially from the standpoint of the coming
-chapters, we can see that if the relativists had heeded the published
-observations, going back a decade before their theoretical
+Looking back now... we can see that if the relativists had heeded the
+published observations, going back a decade before their theoretical
 revelations, perhaps they would have decided that the universe was not
 necessarily exploding away from us in all directions...
 
