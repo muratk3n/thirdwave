@@ -67,7 +67,7 @@ The Big Bang Theory rests on surprisingly little..
 ---
 
 Cosmic Microwave Background? It is reflection from the sea at, like,
-bleeping Jersey Shore and birdshit on the antennas.
+freaking Jersey shore and birdshit on the antennas.
 
 [Link](https://youtu.be/5i6mCNgJNZs?t=326)
 
