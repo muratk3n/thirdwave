@@ -43,5 +43,29 @@ of cosmology has rested for the last 75 years. It is interesting to
 note, however, that Hubble, the observer, even up to his final lecture
 before the Royal Society, always held open the possibility that the
 redshift did not mean velocity of recession but might be caused by
-something else.
+something else...
+
+I think it is a supreme and delicious piece of irony that 85 years
+after the Director at Lick Observatory announced the K effect Margaret
+Burbidge, a senior professor at the University of California, went up
+Mount Hamilton on a winter night to that same Lick Observatory. She
+observed two quasars that all the biggest and most advanced telescopes
+in the world had deliberately refused to look at, and in so doing,
+solved the riddle of the K effect—and at the same time laid the last
+flower on the grave of Big Bang cosmology.
+
+Looking back now, especially from the standpoint of the coming
+chapters, we can see that if the relativists had heeded the published
+observations, going back a decade before their theoretical
+revelations, perhaps they would have decided that the universe was not
+necessarily exploding away from us in all directions...
+
+My career at the Observatories in Pasadena slightly overlapped Edwin
+Hubble’s.  He personally gave me my first job: to aid in determining
+the crucial distance scale in cosmology...
+
+The greatly publicized theory is black holes where everything falls
+in. But the observations show everything falling out!..
+
+
 
