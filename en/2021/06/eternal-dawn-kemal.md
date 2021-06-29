@@ -112,7 +112,7 @@ Macedonian town of Prilip. As the sons of public servants, İsmet and
 Kazım spent only a portion of their youths in their hometowns of
 Istanbul and Izmir. Their respective fathers, the former a Kurd from
 Malatya and the latter a descendant of provincial Turk notability from
-Karaman, represented very different aspects of Anatolian society...
+Karaman...
 
 [Kazim's] patriotism was partially born of a hatred towards Armenians
 that his family instilled in him at an early age. An attempt upon the
