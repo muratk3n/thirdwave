@@ -105,3 +105,10 @@ Istanbul and Izmir. Their respective fathers, the former a Kurd from
 Malatya and the latter a descendant of provincial Turk notability from
 Karaman...
 
+[Kazim's] patriotism was partially born of a hatred towards Armenians
+that his family instilled in him at an early age. An attempt upon the
+life of Abdülhamid II by Armenian militants in 1905 helped crystalize
+his general suspicion towards non-Muslims in general. If an Armenian
+had killed the hated sultan, he and others would have grieved over the
+crime...
+
