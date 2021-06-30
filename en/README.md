@@ -47,9 +47,9 @@ migration like this'"
 
 ---
 
-But later US leaders were sufficiently beaten up about AO; HW, Kerry,
-McCain.. so that's something. "Some countries" wld likely deny, even if
-proven, refuse to apologize for something like this.
+But later US leaders were sufficiently beaten up about it, about AO..
+HW, Kerry, McCain.. that's something. "Some countries" wld likely
+deny, even if proven, refuse to apologize for a mistake like this.
 
 ---
 
