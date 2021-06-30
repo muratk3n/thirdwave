@@ -56,7 +56,7 @@ deny, even if proven, refuse to apologize for a mistake like this.
 This is chemical warfare.. 
 
 No wonder Russkies are so into Whataboutism.. There is ample material
-for it suppiled by the other side.
+for it.
 
 "During the Vietnam War, the U.S military engaged in an aggressive
 program of chemical warfare codenamed Operation Ranch Hand. From 1961
