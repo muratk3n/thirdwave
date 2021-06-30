@@ -87,10 +87,6 @@ discovered the new petrol?"
 
 ---
 
-Typo in Chile CSP, 110 MW should be 210, w that eff is 30%.
-
-----
-
 "Hydrogen Fuel Cell Truck Market Poised for Rapid Growth, says
 Information Trends"
 
