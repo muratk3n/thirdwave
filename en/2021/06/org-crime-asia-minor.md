@@ -257,6 +257,18 @@ Ministry... Mehmet Ağar did stand trial in September 2011 and was
 found guilty of forming a criminal gang (even though this gang has
 never been implicated officially in any crime)...
 
+Sedat Peker, who took the stand in the fall of 2011, was far more
+forthcom- ing in explaining his past dealings with high-ranking
+political officials and their connections to both Susurluk and
+Ergenekon. Before the court, Peker claimed to have intimate knowledge
+of the inner workings of the milieu that organized and executed the
+murders of several individuals in the 1990s. In his testimony (as well
+as in a public interview), he claimed that Hanefi Avcı, one-time DPS
+chief in Eskişehir and Diyarbakir, was “an Ergenekon administrator”
+tasked with extra- judicial killings and provocations. 82 Peker also
+claimed that an agent from MİT, Korkut Eken, had ordered and helped
+finance the killings of Kurdish businessmen with links to the PKK...
+
 Turkish deep state’s imperial roots [is correct]. The power of the
 *ayan* (and their bandit retainers), as well as the CUP’s mobilization
 of provincial *çetes*, resembles contemporary state-criminal alliances
