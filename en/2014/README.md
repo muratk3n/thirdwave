@@ -228,11 +228,7 @@
 
 [One More Down](09/one-more-down.md)
 
-[Peak Oil After Shale](09/peak-oil-after-shale.md)
-
 [Shoshana Zuboff](09/shoshana-zuboff.md)
-
-[Shyp](09/shyp.md)
 
 [Software patents are crumbling, thanks to the Supreme Court](09/software-patents-are-crumbling-thanks.md)
 
@@ -249,10 +245,6 @@
 [#nice](10/nice.md)
 
 [#ouch](10/ouch.md)
-
-[Q&A - 7/10](10/q.md)
-
-[Q&A - 12/10](10/q_12.md)
 
 [The Empire Strikes Out](10/the-empire-strikes-out.md)
 
@@ -279,8 +271,6 @@
 [Heed your Speed](11/heed-for-speed.md)
 
 [Interactive notebooks: Sharing the code](11/interactive-notebooks-sharing-code.md)
-
-[Interesting Map](11/interesting-map.md)
 
 [JSTOR](11/jstor.md)
 

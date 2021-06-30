@@ -525,24 +525,6 @@ you. Maybe even effecting some change one way or another.
 
 News
 
-Shell was given permission by gov for Arctic exploration
-
-The Integrators must be scared
-
-.. because of the peak oil scenario. By the way, I reran the peak oil
-prediction that use numbers for 2014 and 2015 (projected) [geek] and
-using a new library for nonlinear regression that fits Hubbard's curve
-to the data that can also report confidence intervals for the
-parameters it finds [/geek], the result is 2011 for point estimation,
-and best case scenario has [2006, 2018] for 95% confidence
-interval. The conclusion is as before - we are at or past peak
-(mostly). Who's gonna make up the shortfall? Someone "has" to. Hence
-arctic drilling. Which is government sponsored terrorism BTW.
-
----
-
-News
-
 Pollsters failed to predict the UK election results.
 
 Their sample must be biased

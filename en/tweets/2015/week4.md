@@ -216,39 +216,6 @@ Great
 
 Link
 
-I've argued for a mighty long time that oil subsidies are a major
-problem given that the burning of fossil fuels — humans have increased
-global CO2 levels by a third since the beginning of our industrial age
-— has contributed and is contributing to widescale and dangerous
-climate change.
-
-In 2013 the IMF estimated that total fossil fuel subsidies worldwide
-amounted to $1.9 trillion [..]
-
-This means that renewable energy and especially solar — for all of its
-inherent advantages, such as being low-pollution, and taking advantage
-of continuous self-sustaining processes — faces an intriguing
-catch-22. Fossil fuels are being subsidised ostensibly because of
-people use them. If more of the world's energy consumption was
-renewables then they might attract the bulk of the subsidies, but they
-don't.
-
-But the more I think this through the less I worry. Renewable energy
-is not stuck in a bad equilibrium. The catch-22 is temporary. Those
-inherent advantages — and the inherent bother with fossil fuels,
-specifically that there is only a finite quantity of them in the
-ground, and that the easiest and cheapest stuff to extract has already
-are gradually been retrieved — are slowly but surely turning the tide
-in the favour of renewables.
-
-Yes
-
-Peak oil is real.
-
----
-
-Link
-
 A senior judge has recommended the introduction of digital
 technologies such as video and online filing to bring the criminal
 courts into the 21st century [..]

@@ -1,15 +1,5 @@
 # Solar Ammonia
 
-[Forbes](https://www.forbes.com/sites/energysource/2010/02/10/peak-oil-solution-the-simmons-plan/)
-
-[G]et ready for the Simmons Plan. This iteration has been hatched by
-Houston investment banker and Peak Oil worrywort Matt Simmons. The
-gist: 1. build the world’s biggest windfarm off the windy coast of
-Maine. 2. Use the electricity generated to desalinate and de-ionize
-sea water. 3. Use that water, plus electricity and air, to manufacture
-ammonia. 4. Pipe the ammonia to shore and use it to power a new
-generation of cars [he has done 1-3].
-
 [Link](http://www.ammoniaenergy.org/yaras-solar-ammonia-plant-a-key-step/)
 
 Yara’s Australian unit announced plans to build a pilot plant to

@@ -22,15 +22,11 @@
 
 [Jon Stewart Stand-up](01/jon-stewart-stand-up.md)
 
-[More on Peak Oil](01/more-on-peak-oil.md)
-
 [Movie created using a Game](01/movie-created-using-game.md)
 
 [Obama Impression](01/obama-impression.md)
 
 [Our institutions are limited by pre-digital technology](01/our-institutions-are-limited-by-pre.md)
-
-[Systemic Failures](01/systemic-failures.md)
 
 [You Are How You Work](01/you-are-how-you-work.md)
 
@@ -190,13 +186,9 @@
 
 [Mathematics and the Computer](05/mathematics-and-computer.md)
 
-[More Data = Better Models?](05/more-data-better-models.md)
-
 [More Data Is Better Than None](05/more-data-is-better-than-none.md)
 
 [Osama bin Laden Dead](05/osama-bin-laden-dead.md)
-
-[Peak Oil Confirmed](05/peak-oil-confirmed.md)
 
 [The service elevator](05/service-elevator.md)
 

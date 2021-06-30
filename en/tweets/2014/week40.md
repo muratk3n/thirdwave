@@ -167,22 +167,6 @@ unsurprisingly, they do.
 
 ---
 
-Question
-
-Why is the  talk always about peak, as in peak oil?
-
-The rest is unimportant
-
-Strategicos dont care about the day when "oil runs out" because by
-then everyone would have switched to something else already. By then
-price of oil could be $0, noone would care, there would be no
-demand. Peak is the important time, and hence the need to detect it
-(as Hubbard has done for US), because after that, it is about a
-shrinking pie, and there is always conflict about sharing such things,
-right?
-
----
-
 
 
 

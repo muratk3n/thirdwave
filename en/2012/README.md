@@ -336,8 +336,6 @@
 
 [Data Problems](11/data-problems.md)
 
-[Fracking and Peak Oil](11/fracking-and-peak-oil.md)
-
 [Getting Your Own House In Order](11/get-your-own-house-in-order.md)
 
 [How to Lie With Statistics](11/how-to-lie-with-statistics.md)

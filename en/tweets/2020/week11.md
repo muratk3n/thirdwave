@@ -63,21 +63,6 @@ S. Miller Band *Serenade* sounds Led Zeppelin-ish.
 
 ---
 
-Not sure if they r fighting renewables. Switch to that will be a legal
-matter pretty soon. Maybe they are trying to squeeze as much profits
-out of their fossil in the time left, on their own. US should've never
-been in this shit anyway after their Peak Oil moment. It behooves
-(very happy I get to use this word finally) US to find, develop
-something new, not cutting into the earnings of existing
-"petrocracies".
-
-"@VMRConstancio
-
-... Structural change in energy economics with Russia/Saudi Arabia
-aiming at US shale oil and expansion of renewables"
-
----
-
 "@ZeroHedgeRobot
 
 Attention NHTSA: Second Tesla In A Week Has Plowed Through Storefront
