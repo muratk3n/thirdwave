@@ -736,6 +736,19 @@ Name: Close, dtype: float64
 
 ![](oil.png)
 
+Oil Production
+
+```python
+import pandas as pd
+df = pd.read_csv('world-crude.csv',sep='\s', comment='#',index_col=0)
+df.columns = ['Production (mil barrels per day)']
+df.plot()
+plt.savefig('crude-production.png')
+```
+
+![](crude-production.png)
+
+
 <a name="credit"/>
 
 ## Private Debt to GDP Ratio
