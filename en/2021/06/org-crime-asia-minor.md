@@ -13,8 +13,8 @@ known for...
 <a name='otto2'/>
 
 It is in the seventeenth century that we see the initial signs of
-state decentral­ ization in the Ottoman lands. Unlike the classic
-cases of France or Great Britain, two states that developed more
+state decentralization in the Ottoman lands. Unlike the classic cases
+of France or Great Britain, two states that developed more
 consolidated, centralized forms of governance during the early modern
 period, Ottoman governance instead relied increasingly upon locally
 rooted power brokers as the main arbiters of imperial administration.
@@ -34,26 +34,26 @@ nation-states of Europe, a series of short-term, as opposed to
 long-term, strategies defined Istanbul’s responses to banditry and
 peasant rebellion during the seventeenth century. Among the strategies
 employed by the Ottoman capital was the recruitment of celalis,
-bandits, and would-be bandits into both the mili- tary and the
-provincial administration. 12 Militarily, such a policy did hold
-certain immediate benefits. As the Ottoman Empire engaged in grander
-military cam- paigns, campaigns that demanded larger numbers of foot
-soldiers equipped with firearms, employing bandits and peasant rebels
-provided a stopgap resource for filling the ranks. In an empire where
-the capital exerted increasingly less influence in local affairs,
-bandits and rebels emerged to become the sort of provincial power
-brokers that became synonymous with this age of decentralization. 13
-Men such as Ali Pasha of Jannina, the great ayan of the western
-Balkans at the turn of the eight- eenth century, assumed such heights
-through his earlier career as a bandit in what is today the
-borderlands of Albania and northern Greece...
+bandits, and would-be bandits into both the military and the
+provincial administration. Militarily, such a policy did hold certain
+immediate benefits. As the Ottoman Empire engaged in grander military
+campaigns, campaigns that demanded larger numbers of foot soldiers
+equipped with firearms, employing bandits and peasant rebels provided
+a stopgap resource for filling the ranks. In an empire where the
+capital exerted increasingly less influence in local affairs, bandits
+and rebels emerged to become the sort of provincial power brokers that
+became synonymous with this age of decentralization. Men such as Ali
+Pasha of Jannina, the great *ayan* of the western Balkans at the turn
+of the eighteenth century, assumed such heights through his earlier
+career as a bandit in what is today the borderlands of Albania and
+northern Greece...
 
 [Mahmut II's] drive towards state centralization, and state-run
 reform, resulted in the mass elimination or suppression of provincial
 *ayan* lords, rebellious janissaries, and recalcitrant tribes in
 various corners of the empire... [however b]anditry, as well as other
 forms of organized criminal behavior, did not subside with the rise of
-the modern Ottoman state [not 'political banditry' would rise]...
+the modern Ottoman state [now 'political banditry' would begin]...
 
 Ironically, the first faction to successfully utilize armed gangs
 [*çetes*] as a means of projecting political control over the region
