@@ -1,103 +1,91 @@
 # Tweets
 
+"Canada: Northern B.C. Switching Fleet of 65 Heavy-Duty #Trucks from Diesel to [H2]"
 
-Politico: Florida Gov. Ron DeSantis is rising fast in popularity,
-putting him on a collision course with the most powerful man in the
-GOP
-
----
-
-AFP: "Mexico's Supreme Court legalizes recreational marijuana use"
+[Link](https://bit.ly/3Ae74zA )
 
 ---
 
-I guess revisions are on the way
+"Spain: Reganosa & EDP Renováveis Investment of 780 million in Galicia
+Includes a 100 MW Electrolysis #Hydrogen (#H2) Production Plant"
 
-Politico: "White House prepping big assault on monopolies"
-
----
-
-"A US judge dismissed a blockbuster antitrust suit against Facebook
-saying the case failed to "plausibly" establish that the social
-network had created a monopoly - but allowed authorities the
-opportunity to refile the case with revisions"
+[Link](https://bit.ly/3dsxiVb)
 
 ---
 
-"From the Electrovan to trucks, airplanes and locomotives, GM is
-finally having its #hydrogen #fuelcell moment, with an assist from the
-Army"
+"ZeroAvia Expands its Hydrogen-Electric Aviation Program to 19-Seat
+Aircraft and Raises Additional $13 Million in Funding for Large Engine
+Development.. Secures two Dornier 228 aircraft for the next phase"
 
-[Link](https://twitter.com/GrahamCooley4/status/1409445796723019780)
-
----
-
-"NPROXX powers London’s first hydrogen ambulance - NPROXX London’s
-first hydrogen-powered ambulance is set to take to the road later this
-year, carrying an NPROXX hydrogen storage tank system that is capable
-of storing up to 8kg of compressed gas at a nominal pressure of 350
-bar"
-
-[Link](https://www.nproxx.com/nproxx-powers-londons-first-hydrogen-ambulance/)
+[Link](https://bit.ly/2UG5N3K)
 
 ---
 
-There was an assasination attempt on Hamid (pre-CUP, Otto
-sultan). Makes sense, bcz Armenian killings started during
-[his time](2009/09/armenians-kurds.md#hamidiya).
+Leibniz, Mach.. Sounds like another Britain-Continential sci food
+fight.. As it was with $y'$ vs $\frac{dy}{dt}$.
 
 ---
 
-The nationalistic party of late Otto, CUP, had a key member who used
-to be Jewish.
+🤔 🤔 🤔 🤔 🤔 🤔 
 
-Number-two guy in the Republic (a continuation of CUP in many ways)
-Ismet's father was Kurd.
-
-How did these people end up with extreme ethnic nationalism is beyond me.
-
-[Link](2021/06/eternal-dawn-kemal.md#cupethnic)
+<img width="340" src="https://pbs.twimg.com/media/E5E2EWvWYAIacXR?format=jpg&name=small"/>
 
 ---
 
-The Big Bang Theory rests on surprisingly little..
+"With more than 30 'hydrogen valleys' now up and running, Europe is
+learning valuable lessons that can inform global efforts to employ
+hydrogen as a source of energy, according to a new report"
 
-[Link](2021/06/seeing-red-arp.md)
-
----
-
-Cosmic Microwave Background? It is reflection from the sea at, like,
-freaking Jersey shore and birdshit on the antennas.
-
-[Link](https://youtu.be/5i6mCNgJNZs?t=326)
+[Link](https://sciencebusiness.net/how-europe-can-stay-heart-hydrogen-economy)
 
 ---
 
-"If the three record-busting low solar price tariffs recorded in the
-Middle East in the past 18 months are to be believed,
-renewables-powered hydrogen in prime sites in the region could already
-compete with gas-plus-CCS production, according to IRENA. Has the Gulf
-discovered the new petrol?"
+"@sfchronicle
 
-[Link](https://www.pv-magazine.com/2021/06/24/low-cost-renewable-hydrogen-may-already-be-in-reach/)
+Californians are fueling Austin's housing frenzy: 'We've never seen
+migration like this'"
 
 ---
 
-*After Earth*, good movie
+But later US leaders were sufficiently beaten up about AO; HW, Kerry,
+McCain.. so that's something. "Some countries" wld likely deny, even if
+proven, refuse to apologize for something like this.
 
 ---
 
-Typo in Chile CSP, 110 MW should be 210, w that eff is 30%.
+This is chemical warfare.. 
 
-----
+No wonder Russkies are so into Whataboutism.. There is ample material
+for it suppiled by the other side.
 
-"Hydrogen Fuel Cell Truck Market Poised for Rapid Growth, says
-Information Trends"
+"During the Vietnam War, the U.S military engaged in an aggressive
+program of chemical warfare codenamed Operation Ranch Hand. From 1961
+to 1971, the U.S. military sprayed a range of herbicides across more
+than 4.5 million acres of Vietnam to destroy the forest cover and food
+crops used by enemy North Vietnamese and Viet Cong troops...
 
+In addition to the massive environmental devastation of the
+U.S. defoliation program in Vietnam, that nation has reported that
+some 400,000 people were killed or maimed as a result of exposure to
+herbicides like Agent Orange"
+
+[Link](https://www.history.com/topics/vietnam-war/agent-orange-1)
 
 ---
-	
-"Nikola invests $50M to make hydrogen fuel in the Midwest"
+
+"@HydrogenEnergy
+
+The @PragmaFuelCells team is pleased to present the new generation of
+hydrogen bikes: the ALPHA NEO.  Stemming from the know-how of Pragma
+Industries, more performing, more ecological, & more competitive. A
+great development in light hydrogen mobility"
+
+[Link](http://urlr.me/YBVPg)
+
+---
+
+AFP: "At least 34 people in the Vancouver area have died suddenly in a
+record-smashing heat wave engulfing western Canada"
 
 ---
 

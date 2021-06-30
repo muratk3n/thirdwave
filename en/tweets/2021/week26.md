@@ -1,5 +1,106 @@
 # Week 26
 
+
+Politico: Florida Gov. Ron DeSantis is rising fast in popularity,
+putting him on a collision course with the most powerful man in the
+GOP
+
+---
+
+AFP: "Mexico's Supreme Court legalizes recreational marijuana use"
+
+---
+
+I guess revisions are on the way
+
+Politico: "White House prepping big assault on monopolies"
+
+---
+
+"A US judge dismissed a blockbuster antitrust suit against Facebook
+saying the case failed to "plausibly" establish that the social
+network had created a monopoly - but allowed authorities the
+opportunity to refile the case with revisions"
+
+---
+
+"From the Electrovan to trucks, airplanes and locomotives, GM is
+finally having its #hydrogen #fuelcell moment, with an assist from the
+Army"
+
+[Link](https://twitter.com/GrahamCooley4/status/1409445796723019780)
+
+---
+
+"NPROXX powers London’s first hydrogen ambulance - NPROXX London’s
+first hydrogen-powered ambulance is set to take to the road later this
+year, carrying an NPROXX hydrogen storage tank system that is capable
+of storing up to 8kg of compressed gas at a nominal pressure of 350
+bar"
+
+[Link](https://www.nproxx.com/nproxx-powers-londons-first-hydrogen-ambulance/)
+
+---
+
+There was an assasination attempt on Hamid (pre-CUP, Otto
+sultan). Makes sense, bcz Armenian killings started during
+[his time](2009/09/armenians-kurds.md#hamidiya).
+
+---
+
+The nationalistic party of late Otto, CUP, had a key member who used
+to be Jewish.
+
+Number-two guy in the Republic (a continuation of CUP in many ways)
+Ismet's father was Kurd.
+
+How did these people end up with extreme ethnic nationalism is beyond me.
+
+[Link](2021/06/eternal-dawn-kemal.md#cupethnic)
+
+---
+
+The Big Bang Theory rests on surprisingly little..
+
+[Link](2021/06/seeing-red-arp.md)
+
+---
+
+Cosmic Microwave Background? It is reflection from the sea at, like,
+freaking Jersey shore and birdshit on the antennas.
+
+[Link](https://youtu.be/5i6mCNgJNZs?t=326)
+
+---
+
+"If the three record-busting low solar price tariffs recorded in the
+Middle East in the past 18 months are to be believed,
+renewables-powered hydrogen in prime sites in the region could already
+compete with gas-plus-CCS production, according to IRENA. Has the Gulf
+discovered the new petrol?"
+
+[Link](https://www.pv-magazine.com/2021/06/24/low-cost-renewable-hydrogen-may-already-be-in-reach/)
+
+---
+
+*After Earth*, good movie
+
+---
+
+Typo in Chile CSP, 110 MW should be 210, w that eff is 30%.
+
+----
+
+"Hydrogen Fuel Cell Truck Market Poised for Rapid Growth, says
+Information Trends"
+
+
+---
+	
+"Nikola invests $50M to make hydrogen fuel in the Midwest"
+
+---
+
 Whichever tech is used to generate energy doesn't matter, produce
 renewable fuel, ship. H2 economy can handle all types of input.
 
