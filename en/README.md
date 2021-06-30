@@ -1,6 +1,7 @@
 # Tweets
 
-"Canada: Northern B.C. Switching Fleet of 65 Heavy-Duty #Trucks from Diesel to [H2]"
+"Canada: Northern B.C. Switching Fleet of 65 Heavy-Duty Trucks from
+Diesel to [H2]"
 
 [Link](https://bit.ly/3Ae74zA)
 
