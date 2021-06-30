@@ -21,8 +21,12 @@ Development.. Secures two Dornier 228 aircraft for the next phase"
 
 ---
 
-Leibniz, Mach.. Sounds like another Britain-Continential sci food
-fight.. As it was with $y'$ vs $\frac{dy}{dt}$.
+Another Britain-Continential sci food fight..? Maybe. As it was with $y'$ vs
+$\frac{dy}{dt}$?
+
+---
+
+Leibniz, Mach.. Some interesting ideas here.. .
 
 ---
 
