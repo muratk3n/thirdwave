@@ -33,7 +33,7 @@ Leibniz, Mach.. Some interesting ideas here.. .
 
 🤔 🤔 🤔 🤔 🤔 🤔 
 
-<img width="90%" src="https://pbs.twimg.com/media/E5E2EWvWYAIacXR?format=jpg&name=small"/>
+<img width="95%" src="https://pbs.twimg.com/media/E5E2EWvWYAIacXR?format=jpg&name=small"/>
 
 ---
 
