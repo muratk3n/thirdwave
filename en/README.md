@@ -2,12 +2,12 @@
 
 "Canada: Northern B.C. Switching Fleet of 65 Heavy-Duty #Trucks from Diesel to [H2]"
 
-[Link](https://bit.ly/3Ae74zA )
+[Link](https://bit.ly/3Ae74zA)
 
 ---
 
 "Spain: Reganosa & EDP Renováveis Investment of 780 million in Galicia
-Includes a 100 MW Electrolysis #Hydrogen (#H2) Production Plant"
+Includes a 100 MW Electrolysis Plant"
 
 [Link](https://bit.ly/3dsxiVb)
 
