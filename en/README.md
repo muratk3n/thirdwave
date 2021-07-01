@@ -12,7 +12,7 @@ Politico.eu: "UK waives travel restrictions for bankers and company bosses"
 
 ---
 
-OSM is a great piece of software and data..
+OSM is a great piece of software / data. A big loss for UK.
 
 The Guardian: "OpenStreetMap looks to relocate to EU due to Brexit
 limitations... Open-source UK tech company cites copyright issues,
