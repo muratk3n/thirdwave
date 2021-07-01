@@ -1,95 +1,101 @@
 # Tweets
 
-"Canada: Northern B.C. Switching Fleet of 65 Heavy-Duty Trucks from
-Diesel to [H2]"
+"@noevanhulst
 
-[Link](https://bit.ly/3Ae74zA)
-
----
-
-"Spain: Reganosa & EDP Renováveis Investment of 780 million in Galicia
-Includes a 100 MW Electrolysis Plant"
-
-[Link](https://bit.ly/3dsxiVb)
+This is great news! Official announcement that Dutch government
+intends to task @gasunie to re-purpose gas pipelines for #hydrogen
+transport and build #hydrogen backbone"
 
 ---
 
-"ZeroAvia Expands its Hydrogen-Electric Aviation Program to 19-Seat
-Aircraft and Raises Additional $13 Million in Funding for Large Engine
-Development.. Secures two Dornier 228 aircraft for the next phase"
-
-[Link](https://bit.ly/2UG5N3K)
+Politico.eu: "UK waives travel restrictions for bankers and company bosses"
 
 ---
 
-Another Britain-Continential sci food fight..? Maybe. As it was with $y'$ vs
-$\frac{dy}{dt}$?
+OSM is a great piece of software and data..
+
+The Guardian: "OpenStreetMap looks to relocate to EU due to Brexit
+limitations... Open-source UK tech company cites copyright issues,
+rising costs and prospect of more influence in EU. OpenStreetMap, the
+Wikipedia-for-maps organisation that seeks to create a free and
+open-source map of the globe, is considering relocating to the EU,
+almost 20 years after it was founded in the UK by the British
+entrepreneur Steve Coast"
 
 ---
 
-Leibniz, Mach.. Some interesting ideas here.. .
+"America’s First Black Billionaire [Robert L. Johnson] Wants His
+Reparations Check, Now"
 
 ---
 
-🤔 🤔 🤔 🤔 🤔 🤔 
+"@mtracey
 
-<img width="95%" src="https://pbs.twimg.com/media/E5E2EWvWYAIacXR?format=jpg&name=small"/>
-
----
-
-"With more than 30 'hydrogen valleys' now up and running, Europe is
-learning valuable lessons that can inform global efforts to employ
-hydrogen as a source of energy, according to a new report"
-
-[Link](https://sciencebusiness.net/how-europe-can-stay-heart-hydrogen-economy)
+All Adams said was that the unexplained addition of 100K+ votes to
+last week's total "raised serious questions." Within hours he was
+proven right"
 
 ---
 
-"@sfchronicle
-
-Californians are fueling Austin's housing frenzy: 'We've never seen
-migration like this'"
+Plus if it looks like SCOTUS is playing ball, that's a way of them
+keeping "the packing" at bay.
 
 ---
 
-But later US leaders were sufficiently beaten up about it, about AO..
-HW, Kerry, McCain.. that's something. 
+I wonder SCOTUS cons started protecting Obamacare to stave off
+something worse (for them).
 
 ---
 
-This is chemical warfare.. 
-
-No wonder Russkies are so into Whataboutism.. There is ample material
-for it.
-
-"During the Vietnam War, the U.S military engaged in an aggressive
-program of chemical warfare codenamed Operation Ranch Hand. From 1961
-to 1971, the U.S. military sprayed a range of herbicides across more
-than 4.5 million acres of Vietnam to destroy the forest cover and food
-crops used by enemy North Vietnamese and Viet Cong troops...
-
-In addition to the massive environmental devastation of the
-U.S. defoliation program in Vietnam, that nation has reported that
-some 400,000 people were killed or maimed as a result of exposure to
-herbicides like Agent Orange"
-
-[Link](https://www.history.com/topics/vietnam-war/agent-orange-1)
+[ME Conflit Stats](2019/05/confstats.md#gdelt)
 
 ---
 
-"@HydrogenEnergy
-
-The @PragmaFuelCells team is pleased to present the new generation of
-hydrogen bikes: the ALPHA NEO.  Stemming from the know-how of Pragma
-Industries, more performing, more ecological, & more competitive. A
-great development in light hydrogen mobility"
-
-[Link](http://urlr.me/YBVPg)
+The Intercept: "Nina Turner Opponent Shontel Brown Is Low-Key Pleading
+for Super PAC Support"
 
 ---
 
-AFP: "At least 34 people in the Vancouver area have died suddenly in a
-record-smashing heat wave engulfing western Canada"
+Of course
+
+"Hillary Clinton backs Shontel Brown"
+
+---
+
+Brother Cly.. not messing around here...
+
+"@nytimes
+
+Rep. James Clyburn... took a rare step into a party primary to endorse
+the leading opponent of Nina Turner"
+
+---
+
+Events in Egypt showed the weakness of 'political people power'
+argument.. These "Twitter, Facebook uprisings" resulted in
+dictatorship.
+
+Institutions matter..  After the Tahrir protests and fall of Mobarak,
+one of the few organized actors were the M. Brotherhood, which weren't
+representative, nor experienced enough to lead Egypt anywhere. In fact
+MB themselves were the result of the monkey show Mobarak put out there
+to lull the West into thinking he had an opposition. But when MB
+actually took power it was apparent they lacked the necessary support,
+and culture to bring about change.. Then they were taken down by the
+other institution more entrenched than theirs, the military, while the
+man on the street cheered on. 
+
+---
+
+Nationalism, and the mafia, [Part 3](2021/06/org-crime-asia-minor.md#deep)
+
+---
+
+Banditry [Part 2](2021/06/org-crime-asia-minor.md#otto2)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/energy_observer?ref_src=twsrc%5Etfw">@energy_observer</a> has set its sights on Asia with the <a href="https://twitter.com/hashtag/hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#hydrogen</a>-powered vessel expected to make port in Tokyo in December 2021. <a href="https://t.co/hTFybFuAKq">https://t.co/hTFybFuAKq</a></p>&mdash; Joanna Sampson (@JoSamps92) <a href="https://twitter.com/JoSamps92/status/1410186544804253700?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
