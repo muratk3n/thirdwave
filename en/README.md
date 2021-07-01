@@ -31,9 +31,9 @@ Reparations Check, Now"
 
 "@mtracey
 
-All Adams said was that the unexplained addition of 100K+ votes to
-last week's total "raised serious questions." Within hours he was
-proven right"
+All [NYC mayoral candidate] Adams said was that the unexplained
+addition of 100K+ votes to last week's total 'raised serious
+questions.' Within hours he was proven right"
 
 ---
 
