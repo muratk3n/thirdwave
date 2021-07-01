@@ -324,14 +324,3 @@ marginalization of competing criminal interests and the entrenchment
 of illicit syndicates within the provincial and national political
 system (particularly in times of crisis).
 
-The rise of the opiate trade in the late Ottoman Empire marks an
-important juncture in terms of the evolution of the relationship
-between gangs and the state. Since the nineteenth century, opium,
-morphine, and heroin have become staple products critical to
-Anatolia’s economy. The proceeds from this trade have sustained the
-livelihoods of agricultural workers, merchants, politicians, and
-criminals alike for over two centuries now. After several decades of
-foreign dominance, Ankara has fought very hard, in one form or
-another, to maintain this industry in both its legal and (arguably)
-illicit forms.
-
