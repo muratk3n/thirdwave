@@ -87,11 +87,11 @@ man on the street cheered on.
 
 ---
 
-Nationalism, and the mafia, [Part 3](2021/06/org-crime-asia-minor.md#deep)
+Nationalism, and the mafia, [Part 3](2021/06/org-crime-asia-minor.md#deep) \#TR
 
 ---
 
-Banditry [Part 2](2021/06/org-crime-asia-minor.md#otto2)
+Banditry [Part 2](2021/06/org-crime-asia-minor.md#otto2) \#TR
 
 ---
 
