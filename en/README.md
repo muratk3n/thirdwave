@@ -47,7 +47,7 @@ something worse (for them).
 
 ---
 
-[ME Conflit Stats](2019/05/confstats.md#gdelt)
+[ME Conflict Stats](2019/05/confstats.md#gdelt)
 
 ---
 
