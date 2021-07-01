@@ -18,7 +18,7 @@ def overall_deaths(mon):
    g.columns = ['incidents','deaths']
    return g.sort_values('deaths',ascending=False)
 
-print (overall_deaths(mon=5))
+print (overall_deaths(mon=5).head(20))
 ```
 
 ```text
@@ -44,43 +44,6 @@ Philippines                      27      44
 Niger                            20      36
 Cameroon                         61      33
 Pakistan                         33      29
-Sudan                            13      22
-Iran                             11      22
-Turkey                           11      21
-Indonesia                        14      18
-Ukraine                          43      17
-Colombia                          9      17
-Mozambique                       23      17
-Tunisia                           5       8
-Kenya                            10       8
-Papua New Guinea                  2       7
-Thailand                          7       4
-Morocco                           1       3
-Ivory Coast                       2       3
-Egypt                            10       3
-Rwanda                            1       2
-Albania                           1       1
-Russia (Soviet Union)             1       1
-Algeria                           1       1
-Brazil                            6       1
-Venezuela                         1       1
-South Sudan                      17       0
-Uganda                            1       0
-Tajikistan                        5       0
-United States of America          8       0
-Lebanon                           1       0
-Peru                              1       0
-Libya                             2       0
-Kyrgyzstan                        2       0
-Haiti                             6       0
-Guinea                            1       0
-Guatemala                         1       0
-Ecuador                           1       0
-Burundi                           9       0
-Bangladesh                        1       0
-Armenia                           1       0
-Angola                            2       0
-Zimbabwe (Rhodesia)               1       0
 ```
 
 Details for Specific Country
