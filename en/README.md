@@ -37,8 +37,8 @@ questions.' Within hours he was proven right"
 
 ---
 
-Plus if it looks like SCOTUS is playing ball, that'd be less of a reason
-to ponder packing the court.
+Plus if it looks like SCOTUS is playing ball, that'd be less of a
+reason to pack the court.
 
 ---
 
