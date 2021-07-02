@@ -45,7 +45,7 @@ Sonic Generation - Funky Solutions \#music
 
 ---
 
-Bezos is becoming Oprah of space travel
+Bezos is becoming the Oprah of space travel
 
 ---
 
