@@ -31,7 +31,7 @@ Transport Company--@hyzonmotors’s 154-ton hydrogen #fuelcell-powered
 truck expected to rank as heaviest #zeroemissions truck on
 record"
 
-https://bit.ly/3hmILXy
+[Link](https://bit.ly/3hmILXy)
 
 ---
 
