@@ -8,9 +8,9 @@ didn't work. The word is sullied too much.
 ---
 
 There is some outdated lingo around this issue.. Just because you call
-yourself "communist" that doesn't automatically mean your opponent
+yourself "communist" that doesn't automatically make your opponent
 "nationalist". Or said country isn't nationalist itself.. Nationalism
-can infect anyone.. 
+can infect anyone..
 
 "The Chinese Communist Party Has Always Been Nationalist"
 
