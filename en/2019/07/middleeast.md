@@ -14,11 +14,11 @@
 
 [The West Bank](../../2018/06/westbank.md)
 
-[Conflict Stats](../../2019/05/confstats.md)
-
-[Israel-TR](../../tweets/tweets/2018/week28.md#israeltr)
-
 [Armenians of Anatolia](../../2015/03/armenians-anatolia.md)
+
+[Organized Crime, Asia Minor](../../2021/06/org-crime-asia-minor.md)
+
+[Eternal Dawn](../../2021/06/eternal-dawn-kemal.md)
 
 [[⇪Up]](../..)
 
