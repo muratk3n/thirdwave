@@ -20,5 +20,7 @@
 
 [Eternal Dawn](../../2021/06/eternal-dawn-kemal.md)
 
+[Ottomans, Armenians, Kurds](../../2009/09/armenians-kurds.md)
+
 [[⇪Up]](../..)
 

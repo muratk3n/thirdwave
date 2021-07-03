@@ -1,4 +1,4 @@
-# Armenians, Kurds
+# Ottomans, Armenians, Kurds
 
 *A modern history of the Kurds*, David McDowall
 
