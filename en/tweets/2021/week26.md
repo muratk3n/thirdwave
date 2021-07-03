@@ -1,5 +1,54 @@
 # Week 26
 
+The Atlantic: "Democrats Have 1 Option Left... Today’s Supreme Court
+decision further weakening the Voting Rights Act affirmed that the
+only way Democrats can reverse the wave of restrictive voting laws in
+GOP-controlled states is to pass new federal voting rights by
+curtailing the Senate filibuster"
+
+---
+
+F24: "Wildfire burns down most of small town in Canada after record-breaking heat"
+
+---
+
+🤦‍♂️🤦‍♂️🤦‍♂️
+
+"The Department of Finance told state leaders that administering
+California's recall election of Gov. Gavin Newsom will cost roughly
+$276 million"
+
+[Link](https://www.politico.com/states/california/story/2021/07/01/california-close-to-deciding-recall-date-likely-in-september-1387727)
+
+---
+
+"Uruguay outlines a strategy to export and create a local #greenhydrogen market"
+
+---
+
+"Hyzon Motors to Supply World’s Heaviest #Hydrogen-Powered #Truck to
+Transport Company--@hyzonmotors’s 154-ton hydrogen #fuelcell-powered
+truck expected to rank as heaviest #zeroemissions truck on
+record"
+
+[Link](https://bit.ly/3hmILXy)
+
+---
+
+Sonic Generation - Funky Solutions \#music
+
+[Link](https://youtu.be/-D1l9GW3Cms)
+
+---
+
+"Germany and Chile to establish a Hydrogen Taskforce"
+
+---
+
+Bezos is becoming the Oprah of space travel
+
+---
+
 "@noevanhulst
 
 This is great news! Official announcement that Dutch government

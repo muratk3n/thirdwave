@@ -1,51 +1,63 @@
 # Tweets
 
-The Atlantic: "Democrats Have 1 Option Left... Today’s Supreme Court
-decision further weakening the Voting Rights Act affirmed that the
-only way Democrats can reverse the wave of restrictive voting laws in
-GOP-controlled states is to pass new federal voting rights by
-curtailing the Senate filibuster"
+
+"@micahuetricht
+
+These facts about NYPD pay and benefits are INSANE. 
+
+'Most NYPD officers retire in their mid-40s. If they live to be 80,
+they will collect close to 2 million dollars in pension payments on
+top of the roughly $2 million they earn during their active-duty
+years.'"
+
+[Link](https://twitter.com/micahuetricht/status/1411007930929922056)
 
 ---
 
-F24: "Wildfire burns down most of small town in Canada after record-breaking heat"
+Many of the WWII participants avoid the "N-word", like US. If a word
+in the neighborhood is needed patriotism is used instead. Some in
+Trump WH tried to bring it back, as in "economic natinoalism" but it
+didn't work. The word is sullied too much.
 
 ---
 
-🤦‍♂️🤦‍♂️🤦‍♂️
+There is some outdated lingo around this issue.. Just because you call
+yourself "communist" that doesn't automatically mean your opponent
+"nationalist". Or said country isn't nationalist itself.. Nationalism
+can infect anyone.. 
 
-"The Department of Finance told state leaders that administering
-California's recall election of Gov. Gavin Newsom will cost roughly
-$276 million"
+"The Chinese Communist Party Has Always Been Nationalist"
 
-[Link](https://www.politico.com/states/california/story/2021/07/01/california-close-to-deciding-recall-date-likely-in-september-1387727)
-
----
-
-"Uruguay outlines a strategy to export and create a local #greenhydrogen market"
+[Link](https://foreignpolicy.com/2021/07/01/chinese-communist-party-nationalist-centennial/)
 
 ---
 
-"Hyzon Motors to Supply World’s Heaviest #Hydrogen-Powered #Truck to
-Transport Company--@hyzonmotors’s 154-ton hydrogen #fuelcell-powered
-truck expected to rank as heaviest #zeroemissions truck on
-record"
-
-[Link](https://bit.ly/3hmILXy)
+Yea.. I was told not only EA was against SAF, he was the poster-child
+for its opposition. For the campaign however, he probably wanted to
+balance that image, that's why he was more "pro-cop", with all that
+carrying-a-gun talk etc \#ABC. 
 
 ---
 
-Sonic Generation - Funky Solutions \#music
-
-[Link](https://youtu.be/-D1l9GW3Cms)
+New Yorker: "Adams spoke out against [stop-and-frisk] abuses at its
+height, and testified in a federal trial that prompted the department
+to drastically reduce the number of stops its officers made. But, now
+that the fight has been won by the reformers, he has become a lonely
+voice speaking up for stop-and-frisk as a necessary police tactic if
+it is used in a limited and appropriate way"
 
 ---
 
-"Germany and Chile to establish a Hydrogen Taskforce"
+"@MinisterieEZK
+
+We can reuse our gas pipelines for hydrogen in a feasible, safe and
+cost-efficient way, according to the HyWay27 study. The cabinet is
+coming up with a plan to give existing #gas pipelines a sustainable,
+second life."
 
 ---
 
-Bezos is becoming the Oprah of space travel
+Zee PingPing looks like a man running a marketing scam for a fraudulant company
 
 ---
 
