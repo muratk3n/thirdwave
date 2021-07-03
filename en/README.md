@@ -5,7 +5,7 @@ in the neighborhood is rarely needed patriotism is used instead. Some
 in Trump WH tried to bring it back, as in "economic natinoalism" but
 it didn't work.
 
-Needless to day the word is everywhere in TR.
+Needless to say the word is everywhere in TR.
 
 ---
 
