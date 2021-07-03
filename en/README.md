@@ -1,19 +1,5 @@
 # Tweets
 
-
-"@micahuetricht
-
-These facts about NYPD pay and benefits are INSANE. 
-
-'Most NYPD officers retire in their mid-40s. If they live to be 80,
-they will collect close to 2 million dollars in pension payments on
-top of the roughly $2 million they earn during their active-duty
-years.'"
-
-[Link](https://twitter.com/micahuetricht/status/1411007930929922056)
-
----
-
 Many of the WWII participants avoid the "N-word", like US. If a word
 in the neighborhood is needed patriotism is used instead. Some in
 Trump WH tried to bring it back, as in "economic natinoalism" but it
