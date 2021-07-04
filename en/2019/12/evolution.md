@@ -19,43 +19,43 @@ differ from the way chimpanzees and gorillas evolved.
 The most striking thing is is that everybody in the world up to now
 has thought that we evolved something that was generally chimpanzee
 like it turns out that chimpanzees have evolved from something that's
-more human-like and so the evolution that we see is pretty much the
+more human-like. So the evolution that we see is pretty much the
 reverse of what we thought. The ancestor was completely different than
-anyone would have predicted and there's no way you convert it
+anyone would have predicted and there's no way you could have
 predicted by looking at either a modern human or looking at a modern
 chimpanzee. You had to have a fossil record [for the correct
 conclusion]. That's why our Pittacus is so exciting. What Lucy did was
-create a huge question and that question is is why did we evolve this
-weird form of locomotion which doesn't have a lot of advantages it's
-you you're pretty slow pretty awkward.  You're not as agile as a
-chimpanzee or gorilla you can't climb trees very much anymore so
-you're not as safe you can't nest in trees and yet the brain is no
+create a huge question, and that question is is why did we evolve this
+weird form of locomotion which doesn't have a lot of
+advantages. You're pretty slow, pretty awkward. You're not as agile as
+a chimpanzee or gorilla, you can't climb trees very much anymore, so
+you're not as safe. You can't nest in trees and yet the brain is no
 bigger so what the heck is going on?
 
 The other thing is that the male in her species has very small canines
-which is something unlike any higher primate all male higher primates
+which is something unlike any higher primate. All male higher primates
 have large what are called sectoral canines they project well above
-the other teeth and when they when the mouth closes they rub against
-one another and hone one another to keep them as sharp weapons when
+the other teeth and when they when the mouth closes, they rub against
+one another, and hone one another to keep them as sharp weapons. When
 you look at Lucy's species and you look at the canines they're the
 same height as the other teeth they don't hone and so the males could
 not have been using them as weapons. So the argument was is that the
 canine had reduced in size in order to make room and space and
-developmental energy and for the production of the large molars well
-those large molars are responsive living on open savannas where the
+developmental energy and for the production of the large molars? Well
+those large molars are [suitable for] living on open savannas where the
 food is very coarse a lot of his underground tubers things that wear
 away the dentition very rapidly.
 
-Ardipithecus gives us a whole new vision a million years before Lucy
-our Deepika's had really primitive molars they weren't large she was
-an armed omnivore not a Savannah dweller she lived in trees and in
+Ardipithecus gives us a whole new vision a million years before Lucy.
+Ardipithecus's had really primitive molars, they weren't large, she
+was an omnivore not a Savannah dweller. She lived in trees and in
 woodland and yet the male canines are small and she's becoming bipedal
-so we now have the key factor that bipedality and reduction of the
-canine evolved in concert with one another the male was became more
+so we now have the key factor, that bipedality and reduction of the
+canine evolved in concert with one another. The male was became more
 successful if he was less aggressive and more food supplying
-bipedality became an important carrying mechanism you didn't need a
+bipedality became an important carrying mechanism. You didn't need a
 lot of social cooperation because you were still arboreal and as a
-consequence this was a major adaptive breakthrough then once you were
+consequence this was a major adaptive breakthrough. Then once you were
 a pretty good biped and the females were all pretty cooperative with
 one another, and so are the males, then the species started to
 expand. Then we became a what is called a weed species which we've
