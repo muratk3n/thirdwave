@@ -29,11 +29,10 @@ Scottish Firm @LoganEnergy"
 
 ---
 
-
-It is incredible the amount of software infra available for this
-stuff.  All kinds of shapes are in so-called STL files. Scripting
-languages can read, manipulate them. Apply some rudimentary calc and
-science comes alive. 
+Did animation for the system too. It is incredible the amount of
+open-source software infra available for this stuff.  All kinds of
+shapes are in so-called STL files. Scripting languages can read,
+manipulate them. Apply some rudimentary calc and science comes alive.
 
 ---
 
@@ -47,7 +46,7 @@ Oh yea
 
 ---
 
-He is also "openly-Christian", in Holywood. .Another miracle.
+He is also "openly-Christian", in Holywood. Another miracle.
 
 ---
 
