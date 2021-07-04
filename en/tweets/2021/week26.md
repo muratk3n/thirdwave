@@ -1,5 +1,54 @@
 # Week 26
 
+Many of the WWII participants avoid the "N-word", like US. If a word
+in the neighborhood is rarely needed patriotism is used instead. Some
+in Trump WH tried to bring it back, as in "economic natinoalism" but
+it didn't work.
+
+Needless to say the word is everywhere in TR.
+
+---
+
+There is some outdated lingo around this issue.. Just because you call
+yourself "communist" that doesn't automatically make your opponent
+"nationalist". Or said country isn't nationalist itself.. Nationalism
+can infect anyone..
+
+"The Chinese Communist Party Has Always Been Nationalist"
+
+[Link](https://foreignpolicy.com/2021/07/01/chinese-communist-party-nationalist-centennial/)
+
+---
+
+Yea.. I was told not only EA was against SAF, he was the poster-child
+for its opposition. For the campaign however, he probably wanted to
+balance that image, that's why he was more "pro-cop", with all that
+carrying-a-gun talk etc \#ABC. 
+
+---
+
+New Yorker: "Adams spoke out against [stop-and-frisk] abuses at its
+height, and testified in a federal trial that prompted the department
+to drastically reduce the number of stops its officers made. But, now
+that the fight has been won by the reformers, he has become a lonely
+voice speaking up for stop-and-frisk as a necessary police tactic if
+it is used in a limited and appropriate way"
+
+---
+
+"@MinisterieEZK
+
+We can reuse our gas pipelines for hydrogen in a feasible, safe and
+cost-efficient way, according to the HyWay27 study. The cabinet is
+coming up with a plan to give existing #gas pipelines a sustainable,
+second life."
+
+---
+
+Zee PingPing looks like a man running a marketing scam for a fraudulant company
+
+---
+
 The Atlantic: "Democrats Have 1 Option Left... Today’s Supreme Court
 decision further weakening the Voting Rights Act affirmed that the
 only way Democrats can reverse the wave of restrictive voting laws in

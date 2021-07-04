@@ -1,51 +1,69 @@
 # Tweets
 
-Many of the WWII participants avoid the "N-word", like US. If a word
-in the neighborhood is rarely needed patriotism is used instead. Some
-in Trump WH tried to bring it back, as in "economic natinoalism" but
-it didn't work.
 
-Needless to say the word is everywhere in TR.
+F24: "Lightning strikes increase tenfold in Canada, sparking forest fires"
 
 ---
 
-There is some outdated lingo around this issue.. Just because you call
-yourself "communist" that doesn't automatically make your opponent
-"nationalist". Or said country isn't nationalist itself.. Nationalism
-can infect anyone..
-
-"The Chinese Communist Party Has Always Been Nationalist"
-
-[Link](https://foreignpolicy.com/2021/07/01/chinese-communist-party-nationalist-centennial/)
+"UK's largest chip plant to be acquired by Chinese-owned firm Nexperia
+amid global semiconductor shortage"
 
 ---
 
-Yea.. I was told not only EA was against SAF, he was the poster-child
-for its opposition. For the campaign however, he probably wanted to
-balance that image, that's why he was more "pro-cop", with all that
-carrying-a-gun talk etc \#ABC. 
+That's not the heavy metal sign, it is the "gray hyena" sign for those muckers
 
 ---
 
-New Yorker: "Adams spoke out against [stop-and-frisk] abuses at its
-height, and testified in a federal trial that prompted the department
-to drastically reduce the number of stops its officers made. But, now
-that the fight has been won by the reformers, he has become a lonely
-voice speaking up for stop-and-frisk as a necessary police tactic if
-it is used in a limited and appropriate way"
+Nationalists and the drug trade \#TR
+
+[Link](https://elpais.com/internacional/2021-06-28/la-nueva-ruta-de-la-cocaina-pasa-por-turquia.html?utm_medium=Social&utm_source=Twitter&ssm=TW_MX_CM#Echobox=1624895944)
 
 ---
 
-"@MinisterieEZK
-
-We can reuse our gas pipelines for hydrogen in a feasible, safe and
-cost-efficient way, according to the HyWay27 study. The cabinet is
-coming up with a plan to give existing #gas pipelines a sustainable,
-second life."
+WSJ: "China, India Move Troops to Border in Largest Buildup in Decades"
 
 ---
 
-Zee PingPing looks like a man running a marketing scam for a fraudulant company
+"Belfast #Hydrogen Refuelling Station to Be Built for £1.6 Million by
+Scottish Firm @LoganEnergy"
+
+---
+
+
+It is incredible the amount of software infra available for this
+stuff.  All kinds of shapes are in so-called STL files. Scripting
+languages can read, manipulate them. Apply some rudimentary calc and
+science comes alive. 
+
+---
+
+Great write-up from Pixar was helpful. 
+
+---
+
+Got it.. little $\dot{R}$ definition, little $\tilde \omega$ action then cross
+product becomes dot product, and ODE integrator takes result of that..
+Oh yea
+
+---
+
+He is also "openly-Christian", in Holywood. .Another miracle.
+
+---
+
+ParksRec guy is a major action star now.. He was really fat.. What
+kind of make-over coach do you go to to make that happen?
+
+---
+
+Haha there was that vibe yes. Still ok movie.. Strahavoski did well
+
+"Amazon's 'The Tomorrow War' is every sci-fi action movie mashed
+together... If you never thought someone would remake 'Independence
+Day' by way of 'Terminator' crossed with 'Starship Troopers,' you're
+not the only one"
+
+[Link](https://www.nbcnews.com/think/ncna1272857)
 
 ---
 
