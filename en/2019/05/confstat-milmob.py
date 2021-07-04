@@ -30,7 +30,7 @@ clat,clon=33.01136975577918, 40.98527636859822
 
 m = folium.Map(location=[clat, clon], zoom_start=3, tiles="Stamen Terrain")
 
-for i in range(3):
+for i in range(5):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
     url = base_conflict_url + "/%s.export.CSV.zip" % sd
@@ -43,16 +43,16 @@ for i in range(3):
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
     df3 = df2[(df2.EventCode==154) & (df2['Actor1Type1Code']=='MIL')]
-    dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
+    dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor1Geo_Lat','Actor1Geo_Long','url']].copy()
     dfs.append(dft)
 
 df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
-    if str(row['Actor2Geo_Lat'])=='nan': continue
+    if str(row['Actor1Geo_Lat'])=='nan': continue
     if str(row['Actor1CountryCode'])=='nan': continue
     folium.Marker(
-        [row['Actor2Geo_Lat'], row['Actor2Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
+        [row['Actor1Geo_Lat'], row['Actor1Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
     ).add_to(m)
 
 m.save('conflict-milmob.html')
