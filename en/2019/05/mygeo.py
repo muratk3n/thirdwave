@@ -1,5 +1,5 @@
 from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
-import numpy as np, numpy.linalg as lin
+import numpy as np, numpy.linalg as lin, math
 
 E = np.array([[0, 0, 1],[0, 1, 0],[-1, 0, 0]])
 
