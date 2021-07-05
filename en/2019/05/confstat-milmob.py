@@ -29,6 +29,11 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
+countries = pd.read_csv('countries.csv')
+countries['name2'] = countries.name.str.replace(' ','')
+countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
+cdict = countries.set_index('name2')['latlon'].to_dict()
+
 def tag_visible(element):
     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
         return False
@@ -44,6 +49,7 @@ def text_from_html(body):
 
 
 now = datetime.datetime.now()
+#now=datetime.datetime(2021, 7, 4)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
@@ -62,25 +68,40 @@ for i in range(5):
     df2 = df[range(len(conf_cols))]
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
-    df3 = df2[(df2.EventCode==154) & (df2['Actor1Type1Code']=='MIL')]
-    dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor1Geo_Lat','Actor1Geo_Long','url']].copy()
+    df3 = df2[(df2.EventCode==154)]
+    df3.drop_duplicates('url',inplace=True)
+    dft = df3[['EventCode','Actor1Geo_Lat','Actor1Geo_Long','url']].copy()
     dfs.append(dft)
 
 df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
+    if 'troop' not in row['url']: continue
     print (row['url'])
     try:
         resp = requests.get(row['url'], headers=headers, timeout=2)
         s = text_from_html(resp.text)
-        s = s[:2000]
-
-        countries = pd.read_csv('countries.csv')
-        countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
-        cdict = countries.set_index('name')['latlon'].to_dict()
+        s = s[:1000]
+        s = s.replace("New Zealand","NewZealand")
+        s = s.replace("United States","UnitedStates")
+        s = s.replace("United Arab Emirates","UnitedArabEmirates")
+        s = s.replace("Cayman Islands","CaymanIslands")
+        s = s.replace("Costa Rica","CostaRica")
+        s = s.replace("Dominican Republic","DominicanRepublic")
+        s = s.replace("El Salvador","ElSalvador")
+        s = s.replace("North Korea","NorthKorea")
+        s = s.replace("South Korea","SouthKorea")
+        s = s.replace("Saudi Arabia","SaudiArabia")
+        s = s.replace("Sierra Leone","SierraLeone")
+        s = s.replace("South Africa","SouthAfrica")
+        s = s.replace("Sri Lanka","SriLanka")
+        s = s.replace("Vatican City","VaticanCity")
+        s = s.replace("Burkina Faso","BurkinaFaso")
+        s = s.replace("East Timor","EastTimor")
+        s = s.replace("Hong Kong","HongKong")
+        s = s.replace("Papua New Guinea","PapuaNewGuinea")
 
         tokens = re.split("\s|(?<!\d)[,.](?!\d)",s)
-        print (tokens)
         c_in_tokens = defaultdict(int)
         for t in tokens: c_in_tokens[t] += 1
 
@@ -100,14 +121,13 @@ for index, row in df4.iterrows():
             ma = np.mean(total,axis=0)
             ma = ma / lin.norm(ma)
             lat,lon = mygeo.vec2latlon(ma)
-            print ('-------',lat,lon)        
         else:
             if str(row['Actor1Geo_Lat'])=='nan': continue
             if str(row['Actor1CountryCode'])=='nan': continue
             lat,lon = row['Actor1Geo_Lat'], row['Actor1Geo_Long']
         print (lat,lon)
         folium.Marker(
-            [lat,lon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
+            [lat,lon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url'])
         ).add_to(m)
     except:
         continue
