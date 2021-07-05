@@ -100,8 +100,10 @@ The output of the code is below
 
 ### GDELT, Troop Deployments
 
-Filtering on CAMEO code 154 (military deployment), attempting to extract
-geoloc from the text itself, and filtering for the word 'troop' in the URL.
+Filtering on CAMEO code 154 (military deployment), attempting to
+extract geoloc from the text itself, and filtering for the word
+'troop' in the URL.  No regional filtering, we attempt to find
+worldwide deployments, by all countries.
 
 [Script](confstat-milmob.py)
 
