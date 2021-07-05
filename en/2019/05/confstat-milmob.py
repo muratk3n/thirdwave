@@ -4,7 +4,7 @@ from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
 import pandas as pd, datetime, numpy as np
 from zipfile import ZipFile
 from io import BytesIO
-import urllib.request as urllib2, mygeo
+import urllib.request as urllib2, mygeo, sys
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 import urllib.request, folium, re, requests
@@ -30,8 +30,9 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 countries = pd.read_csv('countries.csv')
-countries['name2'] = countries.name.str.replace(' ','')
+countries['name'] = countries.name.str.replace(' ','')
 countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
+countries['name2'] = countries.apply(lambda x: x['name'].lower(),axis=1)
 cdict = countries.set_index('name2')['latlon'].to_dict()
 
 def tag_visible(element):
@@ -76,12 +77,13 @@ for i in range(5):
 df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
-    if 'troop' not in row['url']: continue
-    print (row['url'])
+    rowurl = row['url']
+    if 'troop' not in rowurl: continue
+    print (rowurl)
     try:
-        resp = requests.get(row['url'], headers=headers, timeout=2)
+        resp = requests.get(rowurl, headers=headers, timeout=4)
         s = text_from_html(resp.text)
-        s = s[:1000]
+        s = s[:2000]
         s = s.replace("New Zealand","NewZealand")
         s = s.replace("United States","UnitedStates")
         s = s.replace("United Arab Emirates","UnitedArabEmirates")
@@ -102,8 +104,13 @@ for index, row in df4.iterrows():
         s = s.replace("Papua New Guinea","PapuaNewGuinea")
 
         tokens = re.split("\s|(?<!\d)[,.](?!\d)",s)
+
+        for urlt in re.split("[/-]",rowurl): tokens.append(urlt)
+
+        tokens2 = [t.lower() for t in tokens]
+        
         c_in_tokens = defaultdict(int)
-        for t in tokens: c_in_tokens[t] += 1
+        for t in tokens2: c_in_tokens[t] += 1
 
         res = {}
         for t in c_in_tokens: 
@@ -130,7 +137,8 @@ for index, row in df4.iterrows():
             [lat,lon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url'])
         ).add_to(m)
     except:
+        print (sys.exc_info()[0])
         continue
-
+    
 m.save('conflict-milmob.html')
 
