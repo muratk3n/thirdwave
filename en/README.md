@@ -5,19 +5,6 @@
 
 ---
 
-No not even linguistic is required.. Tokenize text, look for all
-country names among tokens, get geo average of all existing country's
-coordinates. If country appears more than once, fine, it increases
-its weight, avg code is unchanged.
-
----
-
-[This](https://news.antiwar.com/2021/07/02/report-china-india-move-tens-of-thousands-of-troops-to-disputed-border/)
-article was geolocated in Australia.. very wrong. The event type code
-was right. Might have to DIY a text-to-geo script
-
----
-
 "The fence erected around the Capitol after the Jan. 6 riot will
 reportedly come down by July 9"
 
@@ -59,6 +46,26 @@ the Miami building collapse"
 
 Had you bought an average piece of land with an average home on July
 4, 1776 you would be up 7,999,900%"
+
+---
+
+Do not average raw lat/lon numbers.. 3D vectors are your friend.. convert,
+avg those, than back
+
+<img width="60%" src="https://www.navlab.net/nvector/nvector2_files/image019.png"/>
+
+---
+
+No not even linguistic is required.. Tokenize text, look for all
+country names among tokens, get geo average of all existing country's
+coordinates. If country appears more than once, fine, it increases
+its weight, avg code is unchanged.
+
+---
+
+[This](https://news.antiwar.com/2021/07/02/report-china-india-move-tens-of-thousands-of-troops-to-disputed-border/)
+article was geolocated in Australia.. very wrong. The event type code
+was right. Might DIY a text-to-geo script.
 
 ---
 
