@@ -64,8 +64,8 @@ its weight, avg code is unchanged.
 ---
 
 [This](https://news.antiwar.com/2021/07/02/report-china-india-move-tens-of-thousands-of-troops-to-disputed-border/)
-article was geolocated in Australia.. very wrong. The event type code
-was right. Might DIY a text-to-geo script.
+article was geolocated in Australia by GDELT.. very wrong. The event
+type code was right. Might DIY a text-to-geo script.
 
 ---
 
