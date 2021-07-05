@@ -1,9 +1,13 @@
+import numpy.linalg as lin, numpy as np
+from collections import defaultdict
 from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
 import pandas as pd, datetime, numpy as np
 from zipfile import ZipFile
 from io import BytesIO
-import urllib.request as urllib2
-import folium
+import urllib.request as urllib2, mygeo
+from bs4 import BeautifulSoup
+from bs4.element import Comment
+import urllib.request, folium, re, requests
 
 #base_conflict_url = "http://data.gdeltproject.org/events"
 base_conflict_url = "http://localhost:5000/static"
@@ -22,6 +26,22 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor1Geo_Long', 'Actor1Geo_FeatureID','Actor2Geo_Type', \
        'Actor2Geo_FullName','Actor2Geo_CountryCode', 'Actor2Geo_ADM1Code',\
        'Actor2Geo_Lat', 'Actor2Geo_Long']
+
+headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
+
+def tag_visible(element):
+    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+        return False
+    if isinstance(element, Comment):
+        return False
+    return True
+
+def text_from_html(body):
+    soup = BeautifulSoup(body, 'html.parser')
+    texts = soup.findAll(text=True)
+    visible_texts = filter(tag_visible, texts)  
+    return u" ".join(t.strip() for t in visible_texts)
+
 
 now = datetime.datetime.now()
 dfs = []
@@ -49,11 +69,48 @@ for i in range(5):
 df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
-    if str(row['Actor1Geo_Lat'])=='nan': continue
-    if str(row['Actor1CountryCode'])=='nan': continue
-    folium.Marker(
-        [row['Actor1Geo_Lat'], row['Actor1Geo_Long']], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
-    ).add_to(m)
+    print (row['url'])
+    try:
+        resp = requests.get(row['url'], headers=headers, timeout=2)
+        s = text_from_html(resp.text)
+        s = s[:2000]
+
+        countries = pd.read_csv('countries.csv')
+        countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
+        cdict = countries.set_index('name')['latlon'].to_dict()
+
+        tokens = re.split("\s|(?<!\d)[,.](?!\d)",s)
+        print (tokens)
+        c_in_tokens = defaultdict(int)
+        for t in tokens: c_in_tokens[t] += 1
+
+        res = {}
+        for t in c_in_tokens: 
+            if t in cdict: res[t] = c_in_tokens[t]
+
+        total = []
+        lat,lon=None,None
+        if len(res)>0:
+            for c in res:
+                lat,lon = cdict[c]
+                newcoord = mygeo.latlon2vec(lat,lon)
+                total.append(list(newcoord * res[c]))
+
+            total = np.array(total)
+            ma = np.mean(total,axis=0)
+            ma = ma / lin.norm(ma)
+            lat,lon = mygeo.vec2latlon(ma)
+            print ('-------',lat,lon)        
+        else:
+            if str(row['Actor1Geo_Lat'])=='nan': continue
+            if str(row['Actor1CountryCode'])=='nan': continue
+            lat,lon = row['Actor1Geo_Lat'], row['Actor1Geo_Long']
+        print (lat,lon)
+        folium.Marker(
+            [lat,lon], popup="<a href='%s' target='_blank' rel='noopener noreferrer'>Link</a>" % (row['url']), tooltip=row['Actor1CountryCode']
+        ).add_to(m)
+    except:
+        continue
 
 m.save('conflict-milmob.html')
 
