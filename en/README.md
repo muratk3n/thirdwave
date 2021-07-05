@@ -49,7 +49,7 @@ Had you bought an average piece of land with an average home on July
 
 ---
 
-Average raw lat/lon numbers is no good.. 3D vectors are your
+Averaging raw lat/lon numbers is no good.. 3D vectors are your
 friend.. convert, avg those, than back
 
 <img style="min-width: 300px" width="40%" src="https://www.navlab.net/nvector/nvector2_files/image019.png"/>
