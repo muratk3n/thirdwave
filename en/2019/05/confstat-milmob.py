@@ -9,8 +9,7 @@ from bs4 import BeautifulSoup
 from bs4.element import Comment
 import urllib.request, folium, re, requests
 
-#base_conflict_url = "http://data.gdeltproject.org/events"
-base_conflict_url = "http://localhost:5000/static"
+base_conflict_url = "http://data.gdeltproject.org/events"
 
 conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor1Code', 'Actor1Name', 'Actor1CountryCode', 'Actor1KnownGroupCode',\
@@ -50,7 +49,6 @@ def text_from_html(body):
 
 
 now = datetime.datetime.now()
-#now=datetime.datetime(2021, 7, 4)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
