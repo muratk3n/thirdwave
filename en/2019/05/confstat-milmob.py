@@ -35,7 +35,7 @@ countries['name2'] = countries.apply(lambda x: x['name'].lower(),axis=1)
 cdict = countries.set_index('name2')['latlon'].to_dict()
 
 def tag_visible(element):
-    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+    if element.parent.name in ['option','style', 'script', 'head', 'title', 'meta', '[document]']:
         return False
     if isinstance(element, Comment):
         return False
@@ -76,6 +76,7 @@ df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
     rowurl = row['url']
+    rowurl = "https://www.msn.com/en-xl/news/other/withdrawal-of-ethiopian-troops-from-abyei-requires-south-sudan-consents-addis-ababa/ar-BB18s9rm"
     if 'troop' not in rowurl: continue
     print (rowurl)
     try:
@@ -128,7 +129,6 @@ for index, row in df4.iterrows():
             lat,lon = mygeo.vec2latlon(ma)
         else:
             if str(row['Actor1Geo_Lat'])=='nan': continue
-            if str(row['Actor1CountryCode'])=='nan': continue
             lat,lon = row['Actor1Geo_Lat'], row['Actor1Geo_Long']
         print (lat,lon)
         folium.Marker(
@@ -137,6 +137,7 @@ for index, row in df4.iterrows():
     except:
         print (sys.exc_info()[0])
         continue
+    exit()
     
-m.save('conflict-milmob.html')
+#m.save('conflict-milmob.html')
 
