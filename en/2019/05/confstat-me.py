@@ -1,9 +1,8 @@
-from scipy import sin, cos, tan, arctan, arctan2, arccos, pi
 import pandas as pd, datetime, numpy as np
 from zipfile import ZipFile
 from io import BytesIO
 import urllib.request as urllib2
-import folium
+import folium, mygeo
 
 base_conflict_url = "http://data.gdeltproject.org/events"
 
@@ -30,15 +29,8 @@ how_far = 600.0
 
 m = folium.Map(location=[clat, clon], zoom_start=7, tiles="Stamen Terrain")
 
-def spherical_distance(lat1, long1, lat2, long2):
-    phi1 = 0.5*pi - lat1
-    phi2 = 0.5*pi - lat2
-    r = 0.5*(6378137 + 6356752) # mean radius in meters
-    t = sin(phi1)*sin(phi2)*cos(long1-long2) + cos(phi1)*cos(phi2)
-    return r * arccos(t) / 1000.
-
 def dist(x):
-    return spherical_distance(np.deg2rad(clat),np.deg2rad(clon),np.deg2rad(x['Actor2Geo_Lat']),np.deg2rad(x['Actor2Geo_Long']))
+    return mygeo.spherical_distance(np.deg2rad(clat),np.deg2rad(clon),np.deg2rad(x['Actor2Geo_Lat']),np.deg2rad(x['Actor2Geo_Long']))
 
 for i in range(5):
     d = now - datetime.timedelta(days=i+1)
