@@ -56,15 +56,13 @@ friend.. convert, avg those, than back
 
 ---
 
-No not even linguistic is required.. Tokenize text, look for all
-country names among tokens, get geo average of all existing country's
-coordinates. If country appears more than once, fine, it increases
-its weight, avg code is unchanged.
+Tokenize text, look for all country names among tokens, get geo
+average of all existing country's coordinates?
 
 ---
 
 [This](https://news.antiwar.com/2021/07/02/report-china-india-move-tens-of-thousands-of-troops-to-disputed-border/)
-article was geolocated in Australia by GDELT.. very wrong. The event
+article was geolocated in a weird place by GDELT.. The event
 type code was right. Might DIY a text-to-geo script.
 
 ---

@@ -96,6 +96,16 @@ The output of the code is below
 
 [Output](conflict-out.html)
 
+<a name='gdtroop'/>
+
+### GDELT, Troop Deployments
+
+Filtering on CAMEO code 154 (military deployment), attempting to extract
+geoloc from the text itself, and filtering for the word 'troop' in the URL.
+
+[Script](confstat-milmob.py)
+
+[Output](conflict-milmob.html)
 
 <a name='usgun'/>
 
