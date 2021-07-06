@@ -28,7 +28,7 @@ erupt again 'anytime soon'"
 
 ---
 
-They are filming Avatar 5, 6 now, and 2,3 are in post production?
+They are filming Avatar 4, 5 now, and 2,3 are in post production?
 
 ---
 
