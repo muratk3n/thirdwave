@@ -7,7 +7,6 @@
 
 ---
 
-
 This is hilarious 🤣 🤣 
 
 [Link](https://youtu.be/TTJz6__YePU)
@@ -50,7 +49,8 @@ Volga-Don Canal connects the Black Sea with the Caspian Sea.. ok.
 
 ---
 
-The infra bill doesn't look sufficient
+The infra bill looks insufficient. There is also bunch of shit in
+there that shouldn't be there.
 
 ---
 
