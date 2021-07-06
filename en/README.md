@@ -1,6 +1,5 @@
 # Tweets
 
-
 "Loop Energy to fuel 8-meter minibus with Mobility & Innovation a.s. in Slovakia"
 
 [Link](https://www.jeccomposites.com/news/loop-energy-to-fuel-8-meter-minibus-with-mobility-innovation-a-s-in-slovakia/)
@@ -38,10 +37,10 @@ Rumsfeld died, not many seemed to care. Sad.
 ---
 
 "The canal and its facilities were built by about 900,000 workers
-including some 100,000 German POWs and 100,000 gulag prisoners. A day
+including some 100,000 German POWs and 100,000 gulag prisoners. A day
 spent at the construction yard was counted as three days in prison,
 which spurred the prisoners to work. Several convicts were even
-awarded the Order of the Red Banner of Labour upon their release"
+awarded the Order of the Red Banner of Labour upon their release"
 
 ---
 
@@ -73,8 +72,9 @@ proposal due next week"
 
 ---
 
-There is only so much I can do if big guns come out like that against
-Nina Turner.  If this continues, the status will go up to "whoop-ass".
+There is only so much anyone can do if big guns come out like that
+against Nina Turner. If this continues, the status will go up to
+"whoop-ass".
 
 "Clyburn supported Nina Turner opponent.. so what? Shouldn't ppl be silent for unity?"
 
