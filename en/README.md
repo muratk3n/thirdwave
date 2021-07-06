@@ -6,9 +6,9 @@
 
 ---
 
-This is hilarious 🤣 🤣 
+This was hilarious 🤣 🤣 
 
-[Link](https://youtu.be/TTJz6__YePU)
+<iframe width="200" src="https://www.youtube.com/embed/TTJz6__YePU?start=1&end=196" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
