@@ -29,10 +29,16 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
 countries = pd.read_csv('countries.csv')
-countries['name'] = countries.name.str.replace(' ','')
 countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
-countries['name2'] = countries.apply(lambda x: x['name'].lower(),axis=1)
+countries['name2'] = countries.apply(lambda x: x['name'].replace(' ','').lower(),axis=1)
 cdict = countries.set_index('name2')['latlon'].to_dict()
+
+rlist = []
+for x in list(countries['name']):
+    a = x.lower()
+    b = a.replace(' ','')
+    if a == b: continue
+    rlist.append([a,b])
 
 def tag_visible(element):
     if element.parent.name in ['option','style', 'script', 'head', 'title', 'meta', '[document]']:
@@ -76,33 +82,16 @@ df4 = pd.concat(dfs,axis=0)
 
 for index, row in df4.iterrows():
     rowurl = row['url']
-    rowurl = "https://www.msn.com/en-xl/news/other/withdrawal-of-ethiopian-troops-from-abyei-requires-south-sudan-consents-addis-ababa/ar-BB18s9rm"
     if 'troop' not in rowurl: continue
     print (rowurl)
     try:
         resp = requests.get(rowurl, headers=headers, timeout=4)
         s = text_from_html(resp.text)
         s = s[:2000]
-        s = s.replace("New Zealand","NewZealand")
-        s = s.replace("United States","UnitedStates")
-        s = s.replace("United Arab Emirates","UnitedArabEmirates")
-        s = s.replace("Cayman Islands","CaymanIslands")
-        s = s.replace("Costa Rica","CostaRica")
-        s = s.replace("Dominican Republic","DominicanRepublic")
-        s = s.replace("El Salvador","ElSalvador")
-        s = s.replace("North Korea","NorthKorea")
-        s = s.replace("South Korea","SouthKorea")
-        s = s.replace("Saudi Arabia","SaudiArabia")
-        s = s.replace("Sierra Leone","SierraLeone")
-        s = s.replace("South Africa","SouthAfrica")
-        s = s.replace("Sri Lanka","SriLanka")
-        s = s.replace("Vatican City","VaticanCity")
-        s = s.replace("Burkina Faso","BurkinaFaso")
-        s = s.replace("East Timor","EastTimor")
-        s = s.replace("Hong Kong","HongKong")
-        s = s.replace("Papua New Guinea","PapuaNewGuinea")
-
         tokens = re.split("\s|(?<!\d)[,.](?!\d)",s)
+        s = s.lower()
+        for (a,b) in rlist:
+            s = s.replace(a,b)        
 
         for urlt in re.split("[/-]",rowurl): tokens.append(urlt)
 
