@@ -1,7 +1,7 @@
 # Tweets
 
 
-Open Source Guru, Hintjens: "I’m wwriting this in late 2011. In March,
+Open Source Guru, Hintjens: "I’m writing this in late 2011. In March,
 Microsoft paid Nokia about 1 billion dollars for a deal that gave
 Microsoft access to Nokia’s patents. A little later, HTC bought S3 for
 300 million dollars, to get access to S3’s patents, mainly because
