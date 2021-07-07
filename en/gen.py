@@ -7,4 +7,3 @@ for f in sorted(glob.glob(d + '/*/*.md')):
         ff = f.replace(d, '')[1:]
         print ("[%s](%s)\n" % (line[2:].strip(), ff))
         break
-    
