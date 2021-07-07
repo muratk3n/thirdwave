@@ -22,6 +22,7 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
        'Actor2Geo_Lat', 'Actor2Geo_Long']
 
 now = datetime.datetime.now()
+#now = datetime.datetime(2021,7,6)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
@@ -34,6 +35,7 @@ def dist(x):
 
 for i in range(5):
     d = now - datetime.timedelta(days=i+1)
+    print (d)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
     url = base_conflict_url + "/%s.export.CSV.zip" % sd
     r = urllib2.urlopen(url).read()

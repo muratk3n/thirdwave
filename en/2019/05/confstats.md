@@ -75,7 +75,7 @@ Civilians             Syria           14       0
 Government of Israel  Syria            1       0
 ```
 
-<a name='gdelt'/>
+<a name='gdeltme'/>
 
 ### GDELT
 

@@ -28,18 +28,6 @@ conf_cols = ['GlobalEventID', 'Day', 'MonthYear', 'Year', 'FractionDate',\
 
 headers = { 'User-Agent': 'UCWEB/2.0 (compatible; Googlebot/2.1; +google.com/bot.html)'}
 
-countries = pd.read_csv('countries.csv')
-countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
-countries['name2'] = countries.apply(lambda x: x['name'].replace(' ','').lower(),axis=1)
-cdict = countries.set_index('name2')['latlon'].to_dict()
-
-rlist = []
-for x in list(countries['name']):
-    a = x.lower()
-    b = a.replace(' ','')
-    if a == b: continue
-    rlist.append([a,b])
-
 def tag_visible(element):
     if element.parent.name in ['option','style', 'script', 'head', 'title', 'meta', '[document]']:
         return False
@@ -53,8 +41,20 @@ def text_from_html(body):
     visible_texts = filter(tag_visible, texts)  
     return u" ".join(t.strip() for t in visible_texts)
 
+countries = pd.read_csv('countries.csv')
+countries['latlon'] = countries.apply(lambda x: list(x[['latitude','longitude']]),axis=1)
+countries['name2'] = countries.apply(lambda x: x['name'].replace(' ','').lower(),axis=1)
+cdict = countries.set_index('name2')['latlon'].to_dict()
 
-now = datetime.datetime.now()
+rlist = []
+for x in list(countries['name']):
+    a = x.lower()
+    b = a.replace(' ','')
+    if a == b: continue
+    rlist.append([a,b])
+    
+#now = datetime.datetime.now()
+now = datetime.datetime(2021,7,6)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
@@ -126,7 +126,7 @@ for index, row in df4.iterrows():
     except:
         print (sys.exc_info()[0])
         continue
-    exit()
+
     
-#m.save('conflict-milmob.html')
+m.save('conflict-milmob.html')
 
