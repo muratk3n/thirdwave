@@ -424,8 +424,23 @@ be focused around the Agean..
 
 
 ```python
-import cartopy.crs as ccrs, cartopy, util
-df = util.get_eq3()
+import cartopy.crs as ccrs, cartopy
+from quakefeeds import QuakeFeed
+import requests, time, datetime
+
+def get_eq2():
+    feed = QuakeFeed("4.5", "month")
+    res = []
+    for i in range(len(feed)):
+        d = datetime.datetime.fromtimestamp(feed[i]['properties']['time']/1000.0)
+        s = feed[i]['properties']['mag']
+        res.append([d,s])
+    df = pd.DataFrame(res).sort_values(by=0)
+    df = df.set_index(0)
+    df.columns = ['Magnitude']
+    return df
+
+df = get_eq3()
 fig = plt.figure(figsize=(20, 20))
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 ax.set_global()

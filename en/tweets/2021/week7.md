@@ -495,8 +495,36 @@ But Japan surely gets a lot of quakes
 Retrieval [code](util.py)
 
 ```python
-import cartopy.crs as ccrs, cartopy, util
-df = util.get_eq1()
+import cartopy.crs as ccrs, cartopy
+import requests, time, datetime
+
+def get_eq1():
+    today = datetime.datetime.now()
+    days = 90
+    start = today - datetime.timedelta(days=days)
+
+    req = 'https://earthquake.usgs.gov/fdsnws'
+    req+='/event/1/query.geojson?starttime=%s&endtime=%s'
+    req+='&minmagnitude=4.5&orderby=time&limit=1000'
+    req = req % (start.isoformat(), today.isoformat())
+    qr = requests.get(req).json()
+    res = []
+    for i in range(len(qr['features'])):
+        lat = qr['features'][i]['geometry']['coordinates'][1]
+        lon = qr['features'][i]['geometry']['coordinates'][0]
+        rad = qr['features'][i]['geometry']['coordinates'][2]
+        d = datetime.datetime.fromtimestamp(qr['features'][i]['properties']['time']/1000.0)
+        s = np.float(qr['features'][i]['properties']['mag'])
+        diff = (d-start).days
+        res.append([d,s,lat,lon,rad,diff])
+
+    import pandas as pd
+    df = pd.DataFrame(res).sort_values(by=0)
+    df = df.set_index(0)
+    df.columns = ['mag','lat','lon','rad','ago']
+    return df
+
+df = get_eq1()
 fig = plt.figure(figsize=(20, 20))
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 ax.set_global()
