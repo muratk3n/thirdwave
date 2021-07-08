@@ -85,6 +85,11 @@ circle of extractive institutions"
 
 ---
 
+
+CNN: "Haiti President Jovenel Moise assassinated in attack on his residence"
+
+---
+
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the
 world. Key aspects of Second Wave society are the nuclear family, a
