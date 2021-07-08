@@ -1,116 +1,89 @@
 # Tweets
 
-Open Source Guru, Hintjens: "I’m writing this in late 2011. In March,
-Microsoft paid Nokia about 1 billion dollars for a deal that gave
-Microsoft access to Nokia’s patents. A little later, HTC bought S3 for
-300 million dollars, to get access to S3’s patents, mainly because
-Microsoft and Apple were attacking it. Then in July, a group of firms
-(Apple, Microsoft, Oracle, RIM, Sony, EMC, Ericsson) paid 4.5 billion
-dollars for a set of patents from Nortel. Google bid somewhat less,
-and lost the auction. In October, Sony paid 1.45 billion dollars for
-Ericsson’s patent portfolio. Then in November, Google got Motorola
-Mobility, and its patents, for 12.5 billion dollars.
 
-What’s staggering here is that in 2011, firms paid about 20 billion
-dollars for patent rights. In 2010, Apple spent 1.8 billion dollars in
-R&D. Google spent about 4 billion dollars. The total for the whole
-software industry can’t be much more than that 20 billion dollars...
+"Fuel cell truck market is primed to take off.. Information Trends has
+released a report showing strong potential in heavy-duty H2 vehicles"
 
-The patent wars for one segment of technology are costing as much as
-R&D into the future of all software technology combined"
-
-[Link](https://muratk3n.github.io/thirdwave/en/2014/06/welcome-to-software-patents.html)
+[Link](https://www.hydrogenfuelnews.com/fuel-cell-truck-market/8547371)
 
 ---
 
-"ITM Power
+Parliament make-up is golden. What it does, or fails to do means
+something. Netan will Netan, I bet he doesnt even care abt the law
+itself busy with his games, but still..
 
-The world will need some 306 million tons of green hydrogen to be
-produced every year if it is to achieve its #NetZero goals according
-to [IEA]"
+"The early-morning vote on Tuesday, which resulted in a 59-59 tie and
+brought an end to the so-called citizenship law, was Bennett’s first
+defeat as prime minister in the Knesset"
 
-[Link](https://lnkd.in/gj-wsev )
-
----
-
-DW: "Nuclear power produces few emissions, but its waste is highly
-toxic and difficult to store"
+[Link](https://www.france24.com/en/middle-east/20210707-how-israel-s-political-hodgepodge-helped-end-its-contentious-citizenship-law)
 
 ---
 
-"Audacity is now a Possible Spyware, Remove it ASAP.. The famous open
-source audio manipulation program was acquired by a company named Muse
-Group.. The parent company is a multi-national company and it has been
-trying to start a data-collection mechanism in the software"
+"Chinese Millennials Are Giving Up the Rat Race to ‘Lie Flat’"
+
+[Link](https://www.thedailybeast.com/how-lying-flat-took-chinas-overworked-millennials-by-storm?via=twitter_page)
 
 ---
 
-"Autonomous Vehicle .. Showcased in Tartu, created [in Estonia]"
+"@gabriel_zucman
 
-[Link](https://bit.ly/3hIfGFW)
+Top 0.00001% in 1913 = Rockfeller, Frick, Carnegie, Baker = 0.85% of
+total US wealth of the time according to contemporary estimates
 
----
-
-"@UKHFCA Presents Position Paper on 'The Case for #BlueHydrogen'"
-
-[Link](https://bit.ly/2UtHPsA)
+Top 0.00001% today = Bezos, Gates, Zuckerberg, ... = 1.35% of total US
+wealth according to real-time Forbes data"
 
 ---
 
-"[T]here are currently 147 #hydrogen stations around #Japan, with a
-target of 1,000 by 2030"
+"Eric Adams wins NYC’s Democratic mayoral primary, AP and CNN project"
 
 ---
 
-"@Fuelcellbus
-
-'In operation [H2] buses already cost no more than diesel buses, and
-have proven their reliability even in the lowest temperatures last
-winter'.  @WSWWuppertal continues to expand its hydrogen
-infrastructure"
+Inequality decrease continued.. with this trend the damage done during
+Clinton, W, and partially Obama time will be reversed in abt 15 years.
 
 ---
 
-
-"@Shell Starts up Europe’s Largest PEM Green Hydrogen
-Electrolyser. Electrolyser will ... produce up to 1,300 tonnes/yr"
-
-[Link](https://bit.ly/3AjR4fb)
+GINI [update](2019/05/stats.md#gini). 
 
 ---
 
-"@hazergroupltd
-
-Singapore is set to expand low-carbon hydrogen and carbon capture,
-utilisation and storage technologies"
-
-[Link](http://ow.ly/PUpH50Fnmc6)
+"Bin Salman, Al-Sisi discuss formation of Arab NATO [in Baghdad]" (2021/6)
 
 ---
 
-Dude ate nothing but ultra-processed food, his brain got funked
-
-[Link](https://youtu.be/T4PFt4czJw0?t=86)
+Troop deployments [update](../../2019/05/confstats.md#gdtroop)
 
 ---
 
-Fort Knox Five - The Sax Pusher \#music
-
-[Link](https://youtu.be/zPhb5xSLa0E)
+ME Conflict Stats [update](../../2019/05/confstats.md#gdeltme)
 
 ---
 
-The Big Bossa - Carnival Espirito \#music
-
-[Link](https://youtu.be/SAPMf4k79Kg)
+Gizmodo: "Abandoned Oil Pipelines Are a Disaster Waiting to Happen in the Gulf of Mexico"
 
 ---
 
-"The idea that people primarily drank beer throughout the Middle Ages
-is widespread -- and also wrong. A number of records from medieval
-times report that water was plentiful and common"
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">The Gulf of Mexico is literally on fire because a pipeline ruptured <a href="https://t.co/J4ur5MNyt1">pic.twitter.com/J4ur5MNyt1</a></p>&mdash; Brian Kahn (@blkahn) <a href="https://twitter.com/blkahn/status/1411074599803142146?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Link](https://history.howstuffworks.com/medieval-people-drink-beer-water.htm)
+---
+
+Good comparison w Dominican Republic (right next door). 
+
+Acemoglu: "Why is Haiti so poor?.. Haitians shocked the world with a
+formidable slave revolt in 1791, ultimately leading to independence
+from France. But this revolt did not lead to the development of
+inclusive institutions. To start with, the fight against the French,
+who attempted to retake their prize colony several times, was
+protracted and costly. Dubois, for example, argues that the fiscal
+needs imposed by this continued war made the abolition of slavery
+essentially impossible. It probably also stunted the subsequent
+political development of this new independent state by excessively
+militarizing its politics. But perhaps more important was the vicious
+circle of extractive institutions"
+
+[Link](http://whynationsfail.com/blog/2012/4/3/why-is-haiti-so-poor.html)
 
 ---
 
