@@ -8,9 +8,7 @@ released a report showing strong potential in heavy-duty H2 vehicles"
 
 ---
 
-Parliament make-up is golden. What it does, or fails to do means
-something. Netan will Netan, I bet he doesnt even care abt the law
-itself busy with his games, but still..
+Good things come out of parliament dynamics.. 
 
 "The early-morning vote on Tuesday, which resulted in a 59-59 tie and
 brought an end to the so-called citizenship law, was Bennett’s first
