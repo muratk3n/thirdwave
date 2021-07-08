@@ -51,11 +51,11 @@ GINI [update](2019/05/stats.md#gini).
 
 ---
 
-Troop deployments [update](../../2019/05/confstats.md#gdtroop)
+Troop deployments [update](2019/05/confstats.md#gdtroop)
 
 ---
 
-ME Conflict Stats [update](../../2019/05/confstats.md#gdeltme)
+ME Conflict Stats [update](2019/05/confstats.md#gdeltme)
 
 ---
 
