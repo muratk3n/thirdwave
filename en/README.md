@@ -67,7 +67,7 @@ Gizmodo: "Abandoned Oil Pipelines Are a Disaster Waiting to Happen in the Gulf o
 
 ---
 
-Good comparison w Dominican Republic (right next door). 
+Good Haiti comparison w Dominican Republic (right next door). 
 
 Acemoglu: "Why is Haiti so poor?.. Haitians shocked the world with a
 formidable slave revolt in 1791, ultimately leading to independence
