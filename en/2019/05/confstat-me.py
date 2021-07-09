@@ -47,6 +47,7 @@ for i in range(5):
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
     df3 = df2[(df2.EventCode==190)|(df2.EventCode==195)|(df2.EventCode==194)]
+    df3 = df3.reset_index()
     df3.loc[:,'dist'] = df3.apply(dist, axis=1)
     df3 = df3[df3.dist < how_far]
     dft = df3[['EventCode','Actor1CountryCode','Actor1Name','Actor2Name','Actor2Geo_Lat','Actor2Geo_Long','url']].copy()
