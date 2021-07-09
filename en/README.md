@@ -12,6 +12,20 @@ tricks" via @unzicker_a
 
 ---
 
+The energy requirements of a zombie makes no sense.. these fuckers are
+constantly on the move, dont really "eat" anything, or ppl even just
+turn them, how do they survive? If they truly lived on an energy
+input, then you'd see mellowed out mfkers wout it, there'd be these
+slow moving zombies.. 
+
+No they are probably a representation of something else.
+
+---
+
+Why is North Korea hit so hard by covid? One guess: malnutrition.
+
+---
+
 "@fauxRayDalio
 
 People would still rather invest in sh*tty China stocks than go to
