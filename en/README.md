@@ -14,9 +14,9 @@ tricks" via @unzicker_a
 
 The energy requirements of a zombie makes no sense.. these fuckers are
 constantly on the move, dont really "eat" anything, or ppl even just
-turn them, how do they survive? If they truly lived on an energy
-input, then you'd see mellowed out mfkers wout it, there'd be these
-slow moving zombies.. 
+turn them, where do they get that energy? If they truly lived on an
+energy input, then you'd see mellowed out mfkers wout it, there'd be
+these slow moving zombies..
 
 No they are probably a representation of something else.
 
