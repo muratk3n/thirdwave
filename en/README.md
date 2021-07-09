@@ -18,8 +18,6 @@ turn them, where do they get that energy? If they truly lived on an
 energy input, then you'd see mellowed out mfkers wout it, there'd be
 these slow moving zombies..
 
-No they are probably a representation of something else.
-
 ---
 
 Why is North Korea hit so hard by covid? One guess: malnutrition.
