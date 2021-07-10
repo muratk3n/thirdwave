@@ -109,6 +109,17 @@ worldwide deployments, by all countries.
 
 [Output](conflict-milmob.html)
 
+<a name='gdeltblm'/>
+
+### GDELT, BLM
+
+Scanning events of the the last month, attempts to find shooting of
+black people by the police.
+
+[Script](2019/05/blm.py)
+
+[Output](blm-out.html)
+
 <a name='usgun'/>
 
 ### US Gun Violence
