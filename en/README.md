@@ -10,12 +10,6 @@ Iran"
 
 ---
 
-Organic Audio - This Could Really Happen \#music
-
-[Link](https://youtu.be/rl_krznIndI)
-
----
-
 F24: "Deadly North American heat wave tests the limits of climate change models"
 
 [Link](https://www.france24.com/en/environment/20210709-deadly-north-american-heat-wave-tests-the-limits-of-climate-change-models)
