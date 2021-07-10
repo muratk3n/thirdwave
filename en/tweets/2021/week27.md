@@ -1,5 +1,49 @@
 # Week 27
 
+Oliver Consa: "Something is rotten in the state of [Quantum
+Electrodynamics. QED] is considered the most accurate theory in the
+history of science. However, this precision is based on a single
+experimental value: the anomalous magnetic moment of the electron
+(g-factor). An examination of QED history reveals that this value was
+obtained using illegitimate mathematical traps, manipulations and
+tricks" via @unzicker_a
+
+[Link](https://vixra.org/pdf/2002.0011v1.pdf)
+
+---
+
+The energy requirements of a zombie makes no sense.. these fuckers are
+constantly on the move, dont really "eat" anything, or ppl even just
+turn them, where do they get the energy? If they truly lived on an
+energy input, then you'd see mellowed out mfkers wout it, there'd be
+a lot of sleeping, napping zombies..
+
+---
+
+Why is North Korea hit so hard by covid? One guess: malnutrition.
+
+---
+
+"@fauxRayDalio
+
+People would still rather invest in sh*tty China stocks than go to
+Europe & India for investing ideas"
+
+---
+
+"@DriveH2
+
+.. @ENERGY today announced $52.5 million to fund 31 projects to
+advance next-generation clean hydrogen technologies and support DOE’s
+recently announced Hydrogen Energy Earthshot initiative"
+
+[Link](https://buff.ly/3AyNTAF)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just to show that we are living in a dystopian future, my bike helmet requires a software upgrade.</p>&mdash; Scott Bryan (@scottygb) <a href="https://twitter.com/scottygb/status/1412525602687574028?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 "Fuel cell truck market is primed to take off.. Information Trends has
 released a report showing strong potential in heavy-duty H2 vehicles"

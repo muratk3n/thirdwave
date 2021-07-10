@@ -1,47 +1,76 @@
 # Tweets
 
-Oliver Consa: "Something is rotten in the state of [Quantum
-Electrodynamics. QED] is considered the most accurate theory in the
-history of science. However, this precision is based on a single
-experimental value: the anomalous magnetic moment of the electron
-(g-factor). An examination of QED history reveals that this value was
-obtained using illegitimate mathematical traps, manipulations and
-tricks" via @unzicker_a
 
-[Link](https://vixra.org/pdf/2002.0011v1.pdf)
+"The United States on Friday announced sanctions against 34 companies
+and other entities involved with China's military and policy towards
+the Uyghur Muslim minority, and for facilitating exports to Russia and
+Iran"
+
+[Link](http://u.afp.com/ULE6)
 
 ---
 
-The energy requirements of a zombie makes no sense.. these fuckers are
-constantly on the move, dont really "eat" anything, or ppl even just
-turn them, where do they get the energy? If they truly lived on an
-energy input, then you'd see mellowed out mfkers wout it, there'd be
-a lot of sleeping, napping zombies..
+Organic Audio - This Could Really Happen \#music
+
+[Link](https://youtu.be/rl_krznIndI)
 
 ---
 
-Why is North Korea hit so hard by covid? One guess: malnutrition.
+F24: "Deadly North American heat wave tests the limits of climate change models"
+
+[Link](https://www.france24.com/en/environment/20210709-deadly-north-american-heat-wave-tests-the-limits-of-climate-change-models)
 
 ---
 
-"@fauxRayDalio
+To sum, the mere existence of these types means *less* for the rest.
 
-People would still rather invest in sh*tty China stocks than go to
-Europe & India for investing ideas"
+Acemoglu: "In this paper we develop a new perspective on the
+establishment of the monopoly of violence and the formation of the
+state. We build a model to explain the incentive of central states to
+eliminate non-state armed actors (paramilitaries) in a
+democracy... Since paramilitaries naturally have preferences over
+policies, when they choose to become involved in politics, this may
+reduce the incentives of the politicians they favor to eliminate
+them. The model predicts that in non- paramilitary areas policies are
+targeted to citizens while in paramilitary areas they cater to the
+preferences of paramilitaries. This implies that in paramilitary areas
+citizens obtain fewer public goods"
+
+[Link](https://economics.mit.edu/faculty/acemoglu/data/monopoly)
 
 ---
 
-"@DriveH2
+"@tobymuse
 
-.. @ENERGY today announced $52.5 million to fund 31 projects to
-advance next-generation clean hydrogen technologies and support DOE’s
-recently announced Hydrogen Energy Earthshot initiative"
-
-[Link](https://buff.ly/3AyNTAF)
+Colombia's ministry of defense says some of those detained for the
+killing of Haitian president are former soldiers. Colombian
+ex-soldiers pop up in conflicts across the world as mercenaries -
+they're exceptionally trained, all battle-hardened and cheaper than
+Americans"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just to show that we are living in a dystopian future, my bike helmet requires a software upgrade.</p>&mdash; Scott Bryan (@scottygb) <a href="https://twitter.com/scottygb/status/1412525602687574028?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Unfortunately I had to.. Little timestamp reverse eng, little
+`BytesIO` use.. it did the trick. 
+
+---
+
+`pandas_datareader` interface to Yahoo Finance is shot to shit. Will I
+have to recode the data retrieval from scratch?
+
+---
+
+I know what I'm doing on Sunday 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮
+
+---
+
+Down to nearly zero processed food intake, if you ignore bread. Spices
+are just dried veg, not much proc anyway. I dont even use minced beef
+bcz it introduces processing.
+
+---
+
+"Computational Aeroelasticity"
 
 ---
 
