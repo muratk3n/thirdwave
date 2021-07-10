@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2da4c32f5ade47fa8e5e68a513694972 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_2da4c32f5ade47fa8e5e68a513694972" ></div>
+        
+</body>
+<script>    
+    
+            var map_2da4c32f5ade47fa8e5e68a513694972 = L.map(
+                "map_2da4c32f5ade47fa8e5e68a513694972",
+                {
+                    center: [40.74832401970278, -98.51347361480249],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_9fae3ed6328e41e7a5130a708cc3038d = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+            var marker_8134c4be8ac54548ad55604700278142 = L.marker(
+                [32.7831, -96.8067],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_213fb763b480437b9a4a51b4053de3da = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0842d219c7e84776b5567a6e07fb0c1b = $(`<div id="html_0842d219c7e84776b5567a6e07fb0c1b" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/five-years-later-remembering-the-five-white-police-officers-murdered-by-blm-gunman-at-black-lives-matter-rally-in-dallas' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_213fb763b480437b9a4a51b4053de3da.setContent(html_0842d219c7e84776b5567a6e07fb0c1b);
+        
+
+        marker_8134c4be8ac54548ad55604700278142.bindPopup(popup_213fb763b480437b9a4a51b4053de3da)
+        ;
+
+        
+    
+    
+            var marker_0241138c6d6e41aeb965e334ac323bca = L.marker(
+                [32.799, -86.8073],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_0fa26875471c48879c12955e7ddc198f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_247ecf307bf3416083c114c43e5ea1b1 = $(`<div id="html_247ecf307bf3416083c114c43e5ea1b1" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/attack-on-sen-vivian-davis-figures-shots-fired-but-no-hit-usually-means-black-exuberance-not-gop-violence' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_0fa26875471c48879c12955e7ddc198f.setContent(html_247ecf307bf3416083c114c43e5ea1b1);
+        
+
+        marker_0241138c6d6e41aeb965e334ac323bca.bindPopup(popup_0fa26875471c48879c12955e7ddc198f)
+        ;
+
+        
+    
+    
+            var marker_ac4e37fd649c49149ffca14e1611319c = L.marker(
+                [36.1659, -86.7844],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_8cb7614b593d44bab39115dd9ca5e3c4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5f0341200245405184989a23390888d5 = $(`<div id="html_5f0341200245405184989a23390888d5" style="width: 100.0%; height: 100.0%;"><a href='https://mynorthwest.com/3009062/lawyer-ex-officer-reaches-plea-deal-in-black-mans-death/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_8cb7614b593d44bab39115dd9ca5e3c4.setContent(html_5f0341200245405184989a23390888d5);
+        
+
+        marker_ac4e37fd649c49149ffca14e1611319c.bindPopup(popup_8cb7614b593d44bab39115dd9ca5e3c4)
+        ;
+
+        
+    
+    
+            var marker_3306bfd58d714232b0494310ec2f5b33 = L.marker(
+                [42.1497, -74.9384],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_9d0c9241ba554fa1bd7a09897b96d59a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ae1ccbad786a406b9547fc8820bd8aad = $(`<div id="html_ae1ccbad786a406b9547fc8820bd8aad" style="width: 100.0%; height: 100.0%;"><a href='https://www.blacklistednews.com/article/80289/police-to-target-americans-for-their-ideological-beliefs-and.html' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_9d0c9241ba554fa1bd7a09897b96d59a.setContent(html_ae1ccbad786a406b9547fc8820bd8aad);
+        
+
+        marker_3306bfd58d714232b0494310ec2f5b33.bindPopup(popup_9d0c9241ba554fa1bd7a09897b96d59a)
+        ;
+
+        
+    
+    
+            var marker_aa0d156265b342ddb2c56dc59d6fce22 = L.marker(
+                [37.8044, -122.271],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_4ac5d07d045f4f8e86cf4462267c8f94 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0c80a191607e4dedb9bac0524a58e821 = $(`<div id="html_0c80a191607e4dedb9bac0524a58e821" style="width: 100.0%; height: 100.0%;"><a href='https://thyblackman.com/2021/07/01/progressive-whites-are-by-definition-bigots/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_4ac5d07d045f4f8e86cf4462267c8f94.setContent(html_0c80a191607e4dedb9bac0524a58e821);
+        
+
+        marker_aa0d156265b342ddb2c56dc59d6fce22.bindPopup(popup_4ac5d07d045f4f8e86cf4462267c8f94)
+        ;
+
+        
+    
+    
+            var marker_da32da15f782408cb8852981e4565771 = L.marker(
+                [39.1314, -84.5163],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_a09efa5a2a5e4ea2b5696add23c13a2b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_50dbe2bf46b44214a8749b883b0aac56 = $(`<div id="html_50dbe2bf46b44214a8749b883b0aac56" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/week-three-of-white-policeman-michael-slager-s-show-trial-for-shooting-black-petty-criminal-walter-scott-dead-cop-s-old-supe-he-was-a-very-good-officer' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_a09efa5a2a5e4ea2b5696add23c13a2b.setContent(html_50dbe2bf46b44214a8749b883b0aac56);
+        
+
+        marker_da32da15f782408cb8852981e4565771.bindPopup(popup_a09efa5a2a5e4ea2b5696add23c13a2b)
+        ;
+
+        
+    
+    
+            var marker_406d6993253344068a5d48c5262f6d3b = L.marker(
+                [31.105999999999998, -97.6475],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_6031503c81c44613b9141aa907cd2f7a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9c040a26911c4ec1897b058e67ec8ac3 = $(`<div id="html_9c040a26911c4ec1897b058e67ec8ac3" style="width: 100.0%; height: 100.0%;"><a href='https://abcnews.go.com/US/wireStory/family-black-man-slain-officer-sues-kansas-city-78557432' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_6031503c81c44613b9141aa907cd2f7a.setContent(html_9c040a26911c4ec1897b058e67ec8ac3);
+        
+
+        marker_406d6993253344068a5d48c5262f6d3b.bindPopup(popup_6031503c81c44613b9141aa907cd2f7a)
+        ;
+
+        
+    
+    
+            var marker_714a858d31304ed2b06f40bdaf241de9 = L.marker(
+                [42.1497, -74.9384],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_0ff0453812714ed98608e325d72d1510 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8e0daebe9f5f488999d57dc200d91357 = $(`<div id="html_8e0daebe9f5f488999d57dc200d91357" style="width: 100.0%; height: 100.0%;"><a href='https://thyblackman.com/2021/06/29/vp-kamala-harris-what-about-the-root-cause-of-urban-homicide/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_0ff0453812714ed98608e325d72d1510.setContent(html_8e0daebe9f5f488999d57dc200d91357);
+        
+
+        marker_714a858d31304ed2b06f40bdaf241de9.bindPopup(popup_0ff0453812714ed98608e325d72d1510)
+        ;
+
+        
+    
+    
+            var marker_bb20526acb624c5faca078ed2d6ca547 = L.marker(
+                [32.9866, -83.6487],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_ed34bf821c8d4925b6ed1dbd4066d6ae = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1a69f79bab6b4fd28224f332836486e9 = $(`<div id="html_1a69f79bab6b4fd28224f332836486e9" style="width: 100.0%; height: 100.0%;"><a href='https://www.fox5atlanta.com/news/family-of-unarmed-black-man-killed-by-trooper-calls-for-justice' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_ed34bf821c8d4925b6ed1dbd4066d6ae.setContent(html_1a69f79bab6b4fd28224f332836486e9);
+        
+
+        marker_bb20526acb624c5faca078ed2d6ca547.bindPopup(popup_ed34bf821c8d4925b6ed1dbd4066d6ae)
+        ;
+
+        
+    
+    
+            var marker_588179749506438c8ae3f9b1cf0fe0fb = L.marker(
+                [45.7326, -93.9196],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_453dcd99aa194fa9b790167a18f299da = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d004481a12234befbb9bf2564f30eedc = $(`<div id="html_d004481a12234befbb9bf2564f30eedc" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/1-year-after-4-murdered-10-wounded-on-juneteenth-in-charlotte-nc-no-black-witnesses-have-snitched-on-black-gunmen' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_453dcd99aa194fa9b790167a18f299da.setContent(html_d004481a12234befbb9bf2564f30eedc);
+        
+
+        marker_588179749506438c8ae3f9b1cf0fe0fb.bindPopup(popup_453dcd99aa194fa9b790167a18f299da)
+        ;
+
+        
+    
+    
+            var marker_7663b24c6a7744d5b2dc6fbd93c172e8 = L.marker(
+                [44.98, -93.2638],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_7eb63808b5c54bc68c655e6f7455b18a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_aa1073057dcf430aada8e43f38bfe195 = $(`<div id="html_aa1073057dcf430aada8e43f38bfe195" style="width: 100.0%; height: 100.0%;"><a href='https://www.visaliatimesdelta.com/story/news/nation/2021/06/25/derek-chauvin-sentencing-systemic-change-black-men-police/5334631001/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_7eb63808b5c54bc68c655e6f7455b18a.setContent(html_aa1073057dcf430aada8e43f38bfe195);
+        
+
+        marker_7663b24c6a7744d5b2dc6fbd93c172e8.bindPopup(popup_7eb63808b5c54bc68c655e6f7455b18a)
+        ;
+
+        
+    
+    
+            var marker_1bf876b3e56c41bab0801e0610e7582a = L.marker(
+                [39.0646, -105.32700000000001],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_9ccd817c07074854a2513e2968cd6b0e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_90e2c0785a574d56a59607b09ac0f9d0 = $(`<div id="html_90e2c0785a574d56a59607b09ac0f9d0" style="width: 100.0%; height: 100.0%;"><a href='https://pjmedia.com/news-and-politics/kevindowneyjr/2021/06/25/watch-daily-dose-of-downey-the-war-on-cops-heats-up-portland-mob-riots-for-dead-black-guy-until-learning-he-was-white-n1457196' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_9ccd817c07074854a2513e2968cd6b0e.setContent(html_90e2c0785a574d56a59607b09ac0f9d0);
+        
+
+        marker_1bf876b3e56c41bab0801e0610e7582a.bindPopup(popup_9ccd817c07074854a2513e2968cd6b0e)
+        ;
+
+        
+    
+    
+            var marker_fc4922e9a42a462694d7dd80d3b99fb8 = L.marker(
+                [38.4623, -92.302],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_fc1b7011e0114ca0b7b771c60d48738d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b029c2c7d17e49a58b2afa41b7d463a2 = $(`<div id="html_b029c2c7d17e49a58b2afa41b7d463a2" style="width: 100.0%; height: 100.0%;"><a href='https://www.wiredprnews.com/the-rise-in-u-s-crime-raises-fears-of-a-bloody-summer-and-calls-for-more-police-in-black-lives-matter-news/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_fc1b7011e0114ca0b7b771c60d48738d.setContent(html_b029c2c7d17e49a58b2afa41b7d463a2);
+        
+
+        marker_fc4922e9a42a462694d7dd80d3b99fb8.bindPopup(popup_fc1b7011e0114ca0b7b771c60d48738d)
+        ;
+
+        
+    
+    
+            var marker_456fb2d601944cbf8e1525664cd5740f = L.marker(
+                [15.0, -86.5],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_c1a0f1a051b04a94b0d5e1f987a4eda8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_af48cb7bd1d043fcb139acb68a9b13bf = $(`<div id="html_af48cb7bd1d043fcb139acb68a9b13bf" style="width: 100.0%; height: 100.0%;"><a href='https://lawandcrime.com/high-profile/judge-throws-out-murder-conviction-after-progressive-reform-da-sides-with-defense-over-exclusion-of-black-jurors/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_c1a0f1a051b04a94b0d5e1f987a4eda8.setContent(html_af48cb7bd1d043fcb139acb68a9b13bf);
+        
+
+        marker_456fb2d601944cbf8e1525664cd5740f.bindPopup(popup_c1a0f1a051b04a94b0d5e1f987a4eda8)
+        ;
+
+        
+    
+    
+            var marker_1a33337f3c3a435a8e144f8f0fd2dedb = L.marker(
+                [49.25, -123.133],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_56565127370a445faa55d6401eea3ea1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e8bd46b655e64a89a0fc4e8b3ce795a2 = $(`<div id="html_e8bd46b655e64a89a0fc4e8b3ce795a2" style="width: 100.0%; height: 100.0%;"><a href='https://www.dailymail.co.uk/news/article-9709151/Moment-cops-surrounded-angry-mob-screaming-racists-detained-black-man.html' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_56565127370a445faa55d6401eea3ea1.setContent(html_e8bd46b655e64a89a0fc4e8b3ce795a2);
+        
+
+        marker_1a33337f3c3a435a8e144f8f0fd2dedb.bindPopup(popup_56565127370a445faa55d6401eea3ea1)
+        ;
+
+        
+    
+    
+            var marker_38a0d05728b94edc900492d7b79327ae = L.marker(
+                [35.7721, -78.6386],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_cd36a0f7ce094a8e917f1af5bf7e3c06 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_37b35ad2fa5a47179283a6b33977b2f2 = $(`<div id="html_37b35ad2fa5a47179283a6b33977b2f2" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/let-freedom-ring-mass-black-on-black-shooting-at-oakland-the-2021-juneteenth-festival' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_cd36a0f7ce094a8e917f1af5bf7e3c06.setContent(html_37b35ad2fa5a47179283a6b33977b2f2);
+        
+
+        marker_38a0d05728b94edc900492d7b79327ae.bindPopup(popup_cd36a0f7ce094a8e917f1af5bf7e3c06)
+        ;
+
+        
+    
+    
+            var marker_7e6463b379834bc8b390831fd7248959 = L.marker(
+                [31.2336, -81.5332],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_82bd1abe712f4fe784a16537d8af0190 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_107a7b346a9c466d816439923692ef51 = $(`<div id="html_107a7b346a9c466d816439923692ef51" style="width: 100.0%; height: 100.0%;"><a href='https://www.washingtonexaminer.com/news/georgia-police-department-ahmaud-arbery-hires-black-police-chief' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_82bd1abe712f4fe784a16537d8af0190.setContent(html_107a7b346a9c466d816439923692ef51);
+        
+
+        marker_7e6463b379834bc8b390831fd7248959.bindPopup(popup_82bd1abe712f4fe784a16537d8af0190)
+        ;
+
+        
+    
+    
+            var marker_d1d61cf3c3d74f8695de134f99372f59 = L.marker(
+                [32.9866, -83.6487],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_3d3936734fee4d7c908e87cf25d9c0c9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f91baea7985e49b8bf8c77c87a42c45f = $(`<div id="html_f91baea7985e49b8bf8c77c87a42c45f" style="width: 100.0%; height: 100.0%;"><a href='https://www.dailymail.co.uk/news/article-9697085/Don-Lemon-says-living-two-different-realities-black-white-people.html' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_3d3936734fee4d7c908e87cf25d9c0c9.setContent(html_f91baea7985e49b8bf8c77c87a42c45f);
+        
+
+        marker_d1d61cf3c3d74f8695de134f99372f59.bindPopup(popup_3d3936734fee4d7c908e87cf25d9c0c9)
+        ;
+
+        
+    
+    
+            var marker_60174c22bafd4e058ddca600dc80f049 = L.marker(
+                [38.5816, -121.494],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_6d773c9507e349959091aceb27e60c38 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_eeb87a6a156d40c18d159debf9aedd8e = $(`<div id="html_eeb87a6a156d40c18d159debf9aedd8e" style="width: 100.0%; height: 100.0%;"><a href='http://www.msn.com/en-us/news/us/this-company-has-provided-permissive-policies-behind-high-profile-police-shootings-of-black-men-in-the-us/ar-AAL5JmQ' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_6d773c9507e349959091aceb27e60c38.setContent(html_eeb87a6a156d40c18d159debf9aedd8e);
+        
+
+        marker_60174c22bafd4e058ddca600dc80f049.bindPopup(popup_6d773c9507e349959091aceb27e60c38)
+        ;
+
+        
+    
+    
+            var marker_263aaad5b1ef425a86d8c281e71f3b8d = L.marker(
+                [42.1497, -74.9384],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_b0d1ba639585487998f6b4b4cdb32b09 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4bb2e513d0f44b32b61e5676ad9cda6c = $(`<div id="html_4bb2e513d0f44b32b61e5676ad9cda6c" style="width: 100.0%; height: 100.0%;"><a href='https://www.blackenterprise.com/one-woman-dead-three-injured-after-car-plows-into-police-brutality-protesters/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_b0d1ba639585487998f6b4b4cdb32b09.setContent(html_4bb2e513d0f44b32b61e5676ad9cda6c);
+        
+
+        marker_263aaad5b1ef425a86d8c281e71f3b8d.bindPopup(popup_b0d1ba639585487998f6b4b4cdb32b09)
+        ;
+
+        
+    
+    
+            var marker_6ed8cdf5e6b749bf8747a3b0897c99d7 = L.marker(
+                [32.9866, -83.6487],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_4a7b7c4cfb784ef2bf1b6826f08f7039 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_14ee0948413a48f2b20bf916fa3f2a7c = $(`<div id="html_14ee0948413a48f2b20bf916fa3f2a7c" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/black-gunman-murders-black-female-grocery-clerk-over-mask-argument-nyt-readers-blame-tucker-trump' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_4a7b7c4cfb784ef2bf1b6826f08f7039.setContent(html_14ee0948413a48f2b20bf916fa3f2a7c);
+        
+
+        marker_6ed8cdf5e6b749bf8747a3b0897c99d7.bindPopup(popup_4a7b7c4cfb784ef2bf1b6826f08f7039)
+        ;
+
+        
+    
+    
+            var marker_6f9bf23c33c6473a9989b43a5713f459 = L.marker(
+                [38.4623, -92.302],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_789f68cf88c1446fa98267f00d50026e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_096539cf2bce4ab4bac0f431c0883eaa = $(`<div id="html_096539cf2bce4ab4bac0f431c0883eaa" style="width: 100.0%; height: 100.0%;"><a href='https://www.slow-journalism.com/delayed-gratification-magazine/trump-vs-black-lives-matter-deray-mckesson' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_789f68cf88c1446fa98267f00d50026e.setContent(html_096539cf2bce4ab4bac0f431c0883eaa);
+        
+
+        marker_6f9bf23c33c6473a9989b43a5713f459.bindPopup(popup_789f68cf88c1446fa98267f00d50026e)
+        ;
+
+        
+    
+    
+            var marker_e3fe6053cc27438a81963f87717efa2f = L.marker(
+                [42.1497, -74.9384],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_daf7f260e1444c058673c108bbe6b4ae = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c700f6c0878045c6b2d177e34a34951f = $(`<div id="html_c700f6c0878045c6b2d177e34a34951f" style="width: 100.0%; height: 100.0%;"><a href='https://yourblackworld.net/2021/06/16/one-woman-dead-others-injured-in-minneapolis-after-a-driver-plows-into-peaceful-protesters/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_daf7f260e1444c058673c108bbe6b4ae.setContent(html_c700f6c0878045c6b2d177e34a34951f);
+        
+
+        marker_e3fe6053cc27438a81963f87717efa2f.bindPopup(popup_daf7f260e1444c058673c108bbe6b4ae)
+        ;
+
+        
+    
+    
+            var marker_ee4b0b5515ae48b980468c36055cb149 = L.marker(
+                [39.828175, -98.5795],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_ab92401538ce4c0c9ea6204d0d089048 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_461d8df4aae74d5d99d25e4e6c48b9d9 = $(`<div id="html_461d8df4aae74d5d99d25e4e6c48b9d9" style="width: 100.0%; height: 100.0%;"><a href='https://vdare.com/posts/pittsburgh-anchor-wendy-bell-fired-for-inflammatory-i-e-true-post-about-black-mass-shooting' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_ab92401538ce4c0c9ea6204d0d089048.setContent(html_461d8df4aae74d5d99d25e4e6c48b9d9);
+        
+
+        marker_ee4b0b5515ae48b980468c36055cb149.bindPopup(popup_ab92401538ce4c0c9ea6204d0d089048)
+        ;
+
+        
+    
+    
+            var marker_1f25aaef9e914bbb8290f645a72df1cf = L.marker(
+                [32.471, -85.0008],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_ce53248b64114e07a3591d3476560b97 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a20d263ac04d4b9bb369891715d914e9 = $(`<div id="html_a20d263ac04d4b9bb369891715d914e9" style="width: 100.0%; height: 100.0%;"><a href='https://scallywagandvagabond.com/2021/06/justin-tyran-roberts-columbus-ga-black-man-racial-shooting-5-wounded/' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_ce53248b64114e07a3591d3476560b97.setContent(html_a20d263ac04d4b9bb369891715d914e9);
+        
+
+        marker_1f25aaef9e914bbb8290f645a72df1cf.bindPopup(popup_ce53248b64114e07a3591d3476560b97)
+        ;
+
+        
+    
+    
+            var marker_5dc0e8ad04664e578043792ce099cd45 = L.marker(
+                [45.2505, -93.2508],
+                {}
+            ).addTo(map_2da4c32f5ade47fa8e5e68a513694972);
+        
+    
+        var popup_c0c52c2eaf8843f18538de90889b5e08 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fc6edb3d32bc474287857ad570f770d4 = $(`<div id="html_fc6edb3d32bc474287857ad570f770d4" style="width: 100.0%; height: 100.0%;"><a href='https://www.msn.com/en-us/news/us/undercover-deputies-who-fatally-shot-a-black-man-in-minneapolis-wont-be-identified/ar-AAKU0rF' target='_blank' rel='noopener noreferrer'>Link</a></div>`)[0];
+            popup_c0c52c2eaf8843f18538de90889b5e08.setContent(html_fc6edb3d32bc474287857ad570f770d4);
+        
+
+        marker_5dc0e8ad04664e578043792ce099cd45.bindPopup(popup_c0c52c2eaf8843f18538de90889b5e08)
+        ;
+
+        
+    
+</script>
