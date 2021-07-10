@@ -824,6 +824,8 @@ Freq: MS, Name: debt, dtype: float64
 
 # Wealth Inequality - GINI Index
 
+Code taken from [3]
+
 ```python
 import pandas as pd, datetime
 from pandas_datareader import data
@@ -887,4 +889,6 @@ References, Notes
 key in a `.quandl` file in the same directory as this file.
 
 [2] [Komlos](https://www.longfinance.net/news/pamphleteers/true-us-unemployment-rate-march-2019/)
+
+[3] [Mathworks](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/28080/versions/1/previews/gini.m/index.html)
 

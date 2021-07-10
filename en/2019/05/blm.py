@@ -74,6 +74,7 @@ for i in range(30):
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
     df3 = df2[(df2.EventCode==193)]
+    df3 = df3.reset_index()
     df3.drop_duplicates('url',inplace=True)
     df3.loc[:,'dist'] = df3.apply(dist, axis=1)
     df3 = df3[df3.dist < how_far]    
