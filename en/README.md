@@ -50,8 +50,8 @@ Americans"
 
 ---
 
-Unfortunately I had to.. Little timestamp reverse eng, little
-`BytesIO` use.. it did the trick. 
+I had to unfort'ly.. Little timestamp reverse eng, little `BytesIO`
+use.. it did the trick.
 
 ---
 
