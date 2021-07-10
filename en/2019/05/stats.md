@@ -397,14 +397,20 @@ DATE
 <a name="dollar"></a>
 
 ```python
-import pandas as pd, datetime
-from pandas_datareader import data
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
 
-import pandas_datareader.data as web
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader("DX-Y.NYB", 'yahoo', start, end)['Adj Close']
+end = datetime.datetime.now()
+start = datetime.datetime(1980, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/DX-Y.NYB?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
+
 print (df.tail(4))
 m,s = df.mean(),df.std()
 print (np.array([m-s,m+s]).T)
@@ -415,12 +421,12 @@ plt.savefig('dollar.png')
 
 ```text
 Date
-2021-05-25    89.639999
-2021-05-26    90.040001
-2021-05-27    89.970001
-2021-05-28    90.029999
+2021-07-06    92.550003
+2021-07-07    92.639999
+2021-07-08    92.360001
+2021-07-09    92.129997
 Name: Adj Close, dtype: float64
-[ 80.66856982 111.37755152]
+[ 80.67397112 111.34537021]
 ```
 
 ![](dollar.png)
@@ -647,13 +653,17 @@ DATE
 ## VIX
 
 ```python
-import pandas as pd, datetime
-import pandas_datareader.data as web
-
-today = datetime.datetime.now()
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+end = datetime.datetime.now()
 start=datetime.datetime(2000, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader("^VIX", 'yahoo', start, end)['Adj Close']
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/^VIX?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Adj Close']
 df.plot()
 plt.axvspan('01-03-2001', '27-10-2001', color='y', alpha=0.5, lw=0)
 plt.axvspan('22-12-2007', '09-05-2009', color='y', alpha=0.5, lw=0)
@@ -664,13 +674,13 @@ plt.savefig('vix.png')
 
 ```text
 Date
-2021-05-14    18.809999
-2021-05-17    19.719999
-2021-05-18    21.340000
-2021-05-19    22.180000
-2021-05-20    20.670000
-2021-05-21    20.150000
-2021-05-24    18.980000
+2021-06-30    15.830000
+2021-07-01    15.480000
+2021-07-02    15.070000
+2021-07-06    16.440001
+2021-07-07    16.200001
+2021-07-08    19.000000
+2021-07-09    16.180000
 Name: Adj Close, dtype: float64
 ```
 
@@ -683,12 +693,19 @@ Name: Adj Close, dtype: float64
 Futures, Continuous Contract, Front Month
 
 ```python
-import pandas_datareader.data as web, datetime
-today = datetime.datetime.now()
-start=datetime.datetime(1980, 1, 1)
-end=datetime.datetime(today.year, today.month, today.day)
-df = web.DataReader("CL=F", 'yahoo', start, end)
-df = df['Close']
+import pandas as pd, datetime, time as timelib
+import urllib.request as urllib2, io
+
+end = datetime.datetime.now()
+start = datetime.datetime(1980, 1, 1)
+start = int(timelib.mktime(start.timetuple()))
+end = int(timelib.mktime(end.timetuple()))
+base_fin_url = "https://query1.finance.yahoo.com/v7/finance/download"
+url = base_fin_url + "/CL=F?period1=" + str(start) + "&period2=" + str(end) + "&interval=1d&events=history&includeAdjustedClose=true"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,index_col='Date',parse_dates=True)['Close']
+
 print (df.tail(5))
 plt.plot(df.tail(1).index, df.tail(1),'ro')
 df.plot()
@@ -699,11 +716,11 @@ plt.savefig('oil.png')
 
 ```text
 Date
-2021-05-18    65.489998
-2021-05-19    63.360001
-2021-05-20    62.049999
-2021-05-21    63.580002
-2021-05-24    65.550003
+2021-07-02    75.160004
+2021-07-06    73.370003
+2021-07-07    72.199997
+2021-07-08    72.940002
+2021-07-09    74.559998
 Name: Close, dtype: float64
 ```
 
