@@ -185,7 +185,7 @@ print hurst(dfclim.Temp)
 
 <a name='carbon'/>
 
-# Carbon and Temparature
+## Carbon and Temparature
 
 Carbon levels in the atmosphere and global temparature increase relation.
 Carbon data comes from [here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
