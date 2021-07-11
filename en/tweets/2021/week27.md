@@ -1,5 +1,73 @@
 # Week 27
 
+
+"The United States on Friday announced sanctions against 34 companies
+and other entities involved with China's military and policy towards
+the Uyghur Muslim minority, and for facilitating exports to Russia and
+Iran"
+
+[Link](http://u.afp.com/ULE6)
+
+---
+
+F24: "Deadly North American heat wave tests the limits of climate change models"
+
+[Link](https://www.france24.com/en/environment/20210709-deadly-north-american-heat-wave-tests-the-limits-of-climate-change-models)
+
+---
+
+To sum, the mere existence of these types means *less* for the rest.
+
+Acemoglu: "In this paper we develop a new perspective on the
+establishment of the monopoly of violence and the formation of the
+state. We build a model to explain the incentive of central states to
+eliminate non-state armed actors (paramilitaries) in a
+democracy... Since paramilitaries naturally have preferences over
+policies, when they choose to become involved in politics, this may
+reduce the incentives of the politicians they favor to eliminate
+them. The model predicts that in non- paramilitary areas policies are
+targeted to citizens while in paramilitary areas they cater to the
+preferences of paramilitaries. This implies that in paramilitary areas
+citizens obtain fewer public goods"
+
+[Link](https://economics.mit.edu/faculty/acemoglu/data/monopoly)
+
+---
+
+"@tobymuse
+
+Colombia's ministry of defense says some of those detained for the
+killing of Haitian president are former soldiers. Colombian
+ex-soldiers pop up in conflicts across the world as mercenaries -
+they're exceptionally trained, all battle-hardened and cheaper than
+Americans"
+
+---
+
+I had to unfort'ly.. Little timestamp reverse eng, little `BytesIO`
+use.. it did the trick.
+
+---
+
+`pandas_datareader` interface to Yahoo Finance is shot to shit. Will I
+have to recode the data retrieval from scratch?
+
+---
+
+I know what I'm doing on Sunday night 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹
+
+---
+
+Down to nearly zero processed food intake, if you ignore bread. Spices
+are just dried veg, not much proc anyway. I dont even use minced beef
+bcz it introduces processing.
+
+---
+
+"Computational Aeroelasticity"
+
+---
+
 Oliver Consa: "Something is rotten in the state of [Quantum
 Electrodynamics. QED] is considered the most accurate theory in the
 history of science. However, this precision is based on a single

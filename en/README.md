@@ -1,70 +1,102 @@
 # Tweets
 
-
-"The United States on Friday announced sanctions against 34 companies
-and other entities involved with China's military and policy towards
-the Uyghur Muslim minority, and for facilitating exports to Russia and
-Iran"
-
-[Link](http://u.afp.com/ULE6)
-
----
-
-F24: "Deadly North American heat wave tests the limits of climate change models"
-
-[Link](https://www.france24.com/en/environment/20210709-deadly-north-american-heat-wave-tests-the-limits-of-climate-change-models)
+The Guardian: "US west heatwave: 31m people brace for record-breaking
+temperatures.. Las Vegas could surpass its record-high of 117 F [47 C]
+as residents of US west face very high risk of heat-related
+illness.. More than 31 million people across the US west and
+south-west are bracing for a brutal heatwave that could bring
+triple-digit [Fahrenheit] temperatures this weekend"
 
 ---
 
-To sum, the mere existence of these types means *less* for the rest.
+These ppl cant seem to catch a break. 
 
-Acemoglu: "In this paper we develop a new perspective on the
-establishment of the monopoly of violence and the formation of the
-state. We build a model to explain the incentive of central states to
-eliminate non-state armed actors (paramilitaries) in a
-democracy... Since paramilitaries naturally have preferences over
-policies, when they choose to become involved in politics, this may
-reduce the incentives of the politicians they favor to eliminate
-them. The model predicts that in non- paramilitary areas policies are
-targeted to citizens while in paramilitary areas they cater to the
-preferences of paramilitaries. This implies that in paramilitary areas
-citizens obtain fewer public goods"
+Clinton restored that guy to power BTW in 1994 (backed up by UN Sec
+Council decision -US mil deployed, dictators fleed wout fight-) but in
+the long run did the intervention help?
 
-[Link](https://economics.mit.edu/faculty/acemoglu/data/monopoly)
+The history of Haiti has much intervention, there seems to be a
+repetition set in around that particular dysfunction.
+
+Al Jazeera: "2004 – Political unrest forces Aristide to flee but the
+country descends into violence"
 
 ---
 
-"@tobymuse
+Al Jazeera: "2010 – A catastrophic earthquake kills between 100,000
+and 300,000 people, according to various estimates, causing widespread
+damage in Port-au-Prince and elsewhere. Despite an international
+relief effort, the country is all but overwhelmed, exacerbating
+political, social and economic problems"
 
-Colombia's ministry of defense says some of those detained for the
-killing of Haitian president are former soldiers. Colombian
-ex-soldiers pop up in conflicts across the world as mercenaries -
-they're exceptionally trained, all battle-hardened and cheaper than
-Americans"
-
----
-
-I had to unfort'ly.. Little timestamp reverse eng, little `BytesIO`
-use.. it did the trick.
+[Link](https://www.aljazeera.com/news/2021/7/7/haitis-turbulent-political-history-a-timeline)
 
 ---
 
-`pandas_datareader` interface to Yahoo Finance is shot to shit. Will I
-have to recode the data retrieval from scratch?
+Signals are increasingly distorted
+
+"@aaronclauset
+
+Increasingly, I dislike hearing 'Congratulations!' when someone says a
+paper got into a fancy venue. It sounds nice! But to me, it
+compliments the 'winning' (metadata) rather than the science
+(content), and furthers the gamification of science"
 
 ---
 
-I know what I'm doing on Sunday night 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹
+Article suggests changes were afoot among Dems a while back..
+Boushey demo'd some leadership
+
+[Link](https://nymag.com/intelligencer/2021/07/biden-big-left-gamble.html)
 
 ---
 
-Down to nearly zero processed food intake, if you ignore bread. Spices
-are just dried veg, not much proc anyway. I dont even use minced beef
-bcz it introduces processing.
+Another pollution related scandal in Germany? Unbelievable. Of course
+Volkswagen is also involved.
+
+"According to a story in Forbes this week, the fact that German
+authorities have been looking into the auto industry’s business
+dealing has caused industry leaders to engage in a mad-dash to be the
+first whistleblower... Indeed, it looks like Daimler grabbed the
+golden ring, which could save it billions, while Volkswagen, which
+thought it had won the honors, came in second and BMW is a distant
+third. Under European Union law, the first one to become a
+whistleblower usually comes away with little more than a slap on the
+wrist .. while number three pays the bulk, in this case, BMW"
+
+[Link](https://www.torquenews.com/3769/daimler-beats-vw-bmw-key-whistleblower-europe-car-cartel-probe)
 
 ---
 
-"Computational Aeroelasticity"
+BBC: "Venezuela: Battles rage between police and gangs in Caracas"
+
+---
+
+Imma have to go against the bear on that one.
+
+"Grizzly bear shot dead after killing woman in Montana..  local
+officials said that the bear involved in Ms Lokan's death was
+considered a public safety threat because of the nature of the attack"
+
+---
+
+GDELT BLM [update](2019/05/confstats.md#gdeltblm)
+
+---
+
+They exceeded that apparently so they generate more oxygen than CO2.
+According to DW docu Bhutan is now the greenest country on Earth.
+
+"As mandated in its constitution, Bhutan preserves (at all times) 60
+percent of its land under forest cover. " 
+
+---
+
+"TAQA Group and Abu Dhabi Ports Planning 2 GW Green Hydrogen to Ammonia
+Project.. Establishes KIZAD and Khalifa Port as an export hub for
+green hydrogen"
+
+[Link](https://bit.ly/3xuts60)
 
 ---
 
