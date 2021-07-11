@@ -32,8 +32,6 @@ political, social and economic problems"
 
 ---
 
-Signals are increasingly distorted
-
 "@aaronclauset
 
 Increasingly, I dislike hearing 'Congratulations!' when someone says a
