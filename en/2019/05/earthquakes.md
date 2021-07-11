@@ -36,7 +36,7 @@ def get_eq(minx,maxx,miny,maxy):
 ```python
 import mygeo
 
-lat,lon = 36.61626063822746, -56.04276502632696
+lat,lon = 32,30
 D = 5000
 lat1,lon1 = mygeo.to_bearing(lat,lon,np.deg2rad(45),D)
 lat2,lon2 = mygeo.to_bearing(lat,lon,np.deg2rad(225),D)
@@ -49,6 +49,8 @@ df = get_eq(minx,maxx,miny,maxy)
 
 
 ```python
+import folium
+
 m = folium.Map(location=[lat, lon], zoom_start=3, tiles="Stamen Terrain")
 
 import folium
