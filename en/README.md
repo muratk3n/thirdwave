@@ -49,7 +49,7 @@ Boushey demo'd some leadership
 ---
 
 Another pollution related scandal in Germany? Unbelievable. Of course
-Volkswagen is also involved.
+VW is involved.
 
 "According to a story in Forbes this week, the fact that German
 authorities have been looking into the auto industry’s business
