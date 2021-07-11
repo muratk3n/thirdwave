@@ -190,7 +190,9 @@ to gauge a relation between the two. Carbon data comes from
 [here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
 
 ```python
-import pandas as pd, urllib.request as urllib2, io
+import urllib.request as urllib2, io
+import pandas as pd
+
 url = "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
 r = urllib2.urlopen(url).read()
 file = io.BytesIO(r)
@@ -199,7 +201,6 @@ g1 = df.groupby(0)[3].mean()
 ```
 
 ```python
-import pandas as pd
 dfc = pd.read_csv('climate-giss.csv',index_col=0,parse_dates=True)
 dfc['year'] = dfc.apply(lambda x: x.name.year,axis=1)
 dfc['mon'] = dfc.apply(lambda x: x.name.month,axis=1)
@@ -216,8 +217,6 @@ ax2 = g['Temparature'].plot(color='red', grid=True, label='Temparature (C)',seco
 h1, l1 = ax1.get_legend_handles_labels()
 h2, l2 = ax2.get_legend_handles_labels()
 plt.legend(h1+h2, l1+l2, loc=2)
-fout = "out.png"
-
 plt.savefig('carbontemp.png')
 ```
 
