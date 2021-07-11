@@ -12,14 +12,6 @@ What Can I Do?
 
 [The surprising resurgence of hydrogen fuel](../../2018/11/the-surprising-resurgence-of-hydrogen.md)
 
-[Element One](../../2018/10/element-one.md)
-
-[Nexo](../../2018/09/hyunda-nexo-additions.md)
-
-[Nikola](../../2018/09/nikola.md)
-
-[Green Train](../../2018/12/train.md)
-
 Is It Real?
 
 [Temparature Increase](../../2015/08/temp-increase.md)
