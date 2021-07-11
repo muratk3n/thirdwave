@@ -13,10 +13,9 @@ These ppl cant seem to catch a break.
 
 Clinton restored that guy to power BTW in 1994 (backed up by UN Sec
 Council decision -US mil deployed, dictators fleed wout fight-) but in
-the long run did the intervention help?
-
-The history of Haiti has much intervention, there seems to be a
-repetition set in around that particular dysfunction.
+the long run did the intervention help?  H has much intervention,
+there seems to be a repetition set in around that particular
+dysfunction.
 
 Al Jazeera: "2004 – Political unrest forces Aristide to flee but the
 country descends into violence"
