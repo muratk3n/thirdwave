@@ -179,8 +179,6 @@ print hurst(dfclim.Temp)
 0.040611546891
 ```
 
-[Data](climate-giss.csv)
-
 ![](climate_01.png)
 
 <a name='carbon'/>
@@ -267,8 +265,3 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 
 The hypothesis is rejected at a very strong level. Carbon content in
 atmo *did* cause temparature increase.
-
-Reference
-
-[1] [Stackexchange](http://stats.stackexchange.com/questions/123116/interpretation-of-results-for-unitroot-test)
-
