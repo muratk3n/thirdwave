@@ -113,7 +113,7 @@ worldwide deployments, by all countries.
 
 ### GDELT, BLM
 
-Scanning events of the the last month and look for black deaths due to 
+Scanning events of the the last month looking for black deaths due to 
 police shootings.
 
 [Script](2019/05/blm.py)
