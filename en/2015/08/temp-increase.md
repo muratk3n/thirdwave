@@ -183,6 +183,91 @@ print hurst(dfclim.Temp)
 
 ![](climate_01.png)
 
+<a name='carbon'/>
+
+# Carbon and Temparature
+
+Carbon levels in the atmosphere and global temparature increase relation.
+Carbon data comes from [here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
+First a plot for both,
+
+```python
+import pandas as pd, urllib.request as urllib2, io
+url = "ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt"
+r = urllib2.urlopen(url).read()
+file = io.BytesIO(r)
+df = pd.read_csv(file,comment='#',header=None,sep='\s*')
+g1 = df.groupby(0)[3].mean()
+```
+
+```python
+import pandas as pd
+dfc = pd.read_csv('climate-giss.csv',index_col=0,parse_dates=True)
+dfc['year'] = dfc.apply(lambda x: x.name.year,axis=1)
+dfc['mon'] = dfc.apply(lambda x: x.name.month,axis=1)
+dfc['TempC'] = ((dfc.Temp-32)*5.0)/9.0
+g2 = dfc.groupby('year')['TempC'].mean()
+```
+
+```python
+g = pd.concat([g1, g2], axis=1).dropna()
+g.columns = ['Carbon','Temparature']
+
+ax1 = g['Carbon'].plot(color='blue', grid=True, label='Carbon (ppm)')
+ax2 = g['Temparature'].plot(color='red', grid=True, label='Temparature (C)',secondary_y=True)
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
+plt.legend(h1+h2, l1+l2, loc=2)
+fout = "out.png"
+
+plt.savefig('carbontemp.png')
+```
+
+![](carbontemp.png)
+
+Strong correlation, but does that mean causation?
+
+Running a Granger causality test, which tries to reject the hypothesis
+that second time series (carbon) does not cause the first series
+(temparature).
+
+```python
+import statsmodels.tsa.stattools as t
+res = t.grangercausalitytests(g[['Temparature','Carbon']],maxlag=3)
+print (res)
+```
+
+```text
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=34.1256 , p=0.0000  , df_denom=49, df_num=1
+ssr based chi2 test:   chi2=36.2149 , p=0.0000  , df=1
+likelihood ratio test: chi2=27.4837 , p=0.0000  , df=1
+parameter F test:         F=34.1256 , p=0.0000  , df_denom=49, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=11.4685 , p=0.0001  , df_denom=46, df_num=2
+ssr based chi2 test:   chi2=25.4301 , p=0.0000  , df=2
+likelihood ratio test: chi2=20.6321 , p=0.0000  , df=2
+parameter F test:         F=11.4685 , p=0.0001  , df_denom=46, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
+ssr based chi2 test:   chi2=18.6695 , p=0.0003  , df=3
+likelihood ratio test: chi2=15.8641 , p=0.0012  , df=3
+parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
+{1: ({'ssr_ftest': (34.12560659900744, 4.0997667759058264e-07, 49.0, 1), 'ssr_chi2test': (36.214929452007894, 1.7671160136200755e-09, 1), 'lrtest': (27.483689910062537, 1.584249217215468e-07, 1), 'params_ftest': (34.12560659900759, 4.099766775905632e-07, 49.0, 1.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b4946518>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b4946630>, array([[0., 1., 0.]])]), 2: ({'ssr_ftest': (11.468479812558117, 9.099787320501968e-05, 46.0, 2), 'ssr_chi2test': (25.43010741045496, 3.005538798970397e-06, 2), 'lrtest': (20.632104155556192, 3.309752413988568e-05, 2), 'params_ftest': (11.468479812556222, 9.099787320513459e-05, 46.0, 2.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b4946898>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b49469b0>, array([[0., 0., 1., 0., 0.],
+       [0., 0., 0., 1., 0.]])]), 3: ({'ssr_ftest': (5.351917020399335, 0.003196324450636187, 43.0, 3), 'ssr_chi2test': (18.669477978137216, 0.0003199702464963456, 3), 'lrtest': (15.864090764221487, 0.0012091064117637019, 3), 'params_ftest': (5.351917020398325, 0.0031963244506395256, 43.0, 3.0)}, [<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b4946c50>, <statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x7f54b4946d68>, array([[0., 0., 0., 1., 0., 0., 0.],
+       [0., 0., 0., 0., 1., 0., 0.],
+       [0., 0., 0., 0., 0., 1., 0.]])])}
+```
+
+The hypothesis is rejected, at obnoxiously strong levels. Carbon
+content in atmp does cause temparature increase.
+
 Reference
 
 [1] [Stackexchange](http://stats.stackexchange.com/questions/123116/interpretation-of-results-for-unitroot-test)
