@@ -164,9 +164,15 @@ print dfclim.head(4)
 ```
 
 ```python
-import sys; sys.path.append('../tser_mean')
-import hurst as h
-print h.hurst(dfclim.Temp)
+from numpy import log, polyfit, sqrt, std, subtract
+
+def hurst(ts):
+    lags = range(2, 100)
+    tau = [sqrt(std(subtract(ts[lag:], ts[:-lag]))) for lag in lags]
+    poly = polyfit(log(lags), log(tau), 1)
+    return poly[0]*2.0
+
+print hurst(dfclim.Temp)
 ```
 
 ```text
