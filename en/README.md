@@ -77,7 +77,7 @@ considered a public safety threat because of the nature of the attack"
 
 ---
 
-GDELT BLM [update](2019/05/confstats.md#gdeltblm)
+BLM stats [update](2019/05/confstats.md#gdeltblm)
 
 ---
 
