@@ -81,7 +81,7 @@ BLM stats [update](2019/05/confstats.md#gdeltblm)
 
 ---
 
-They exceeded that apparently so they generate more oxygen than CO2.
+They exceeded that apparently so they generate more $O_2$ than $CO_2$.
 According to DW docu Bhutan is now the greenest country on Earth.
 
 "As mandated in its constitution, Bhutan preserves (at all times) 60
