@@ -48,7 +48,7 @@ plt.hold(False)
 
 ![](climate_01.png)
 
-# ACF / PACF
+## ACF / PACF
 
 ```python
 import statsmodels.api as sm
