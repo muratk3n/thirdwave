@@ -185,9 +185,9 @@ print hurst(dfclim.Temp)
 
 ## Carbon and Temparature
 
-Carbon levels in the atmosphere and global temparature increase relation.
-Carbon data comes from [here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
-First a plot for both,
+Plotted carbon levels in the atmosphere and global temparature, trying
+to gauge a relation between the two. Carbon data comes from
+[here](https://climate.nasa.gov/vital-signs/carbon-dioxide/).
 
 ```python
 import pandas as pd, urllib.request as urllib2, io
@@ -264,4 +264,4 @@ parameter F test:         F=5.3519  , p=0.0032  , df_denom=43, df_num=3
 ```
 
 The hypothesis is rejected at a very strong level. Carbon content in
-atmo *did* cause temparature increase.
+atmo *did* cause a global increase in temparature.
