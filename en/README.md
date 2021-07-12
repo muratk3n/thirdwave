@@ -57,7 +57,7 @@ turns out I unwittingly changed the playback speed to 0.75.
 
 ---
 
-🤣 Just teasing.. 
+🤣 Just teasing man.. 
 
 ---
 
