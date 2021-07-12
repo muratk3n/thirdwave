@@ -4,10 +4,11 @@ FT: "Time to stop stock trading by US Congress representatives"
 
 ---
 
-Trying to reject a (null) hypothesis in stats is like proving guilt in
-a court system.. To prove something, one tries to disprove the
-opposite, at extremely high levels "beyond reasonable doubt", then can
-be more or less sure that the original statement is correct.
+Trying to reject a (null) hypothesis in stats is like demonstrating
+guilt (or disproving innocence) in a court system.. To prove
+something, one tries to disprove the opposite, at extremely high
+levels "beyond reasonable doubt", then can be more or less sure that
+the original statement is correct.
 
 ---
 
