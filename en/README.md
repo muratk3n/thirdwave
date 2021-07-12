@@ -17,7 +17,7 @@ The answer [is yes](2015/08/temp-increase.md#carbon)
 
 ---
 
-Guys from KTH Sweden. F-ing Tor mfker.. They got some game there.
+Guys from KTH Sweden. Effin Tor mfker.. They got some game there.
 
 ---
 
