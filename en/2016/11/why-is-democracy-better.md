@@ -161,13 +161,11 @@ fighters. Autocrats can hide the goings-on of a war, so they would
 never feel the pressure to finish, hence do not fight in a way that'll
 help them do so. The war drags on.
 
-<a name='status'/>
-
 Democratic Status 
 
 [Data](https://www.bti-project.org/en/meta/downloads.html) comes from
 the BTI Transformation Index that evaluates aspects of governance for
-selected countries, recentlyupdated for 2020.
+selected countries, recently updated for 2020.
 
 ```python
 import pandas as pd
@@ -185,6 +183,18 @@ plt.savefig('bti-compare.png')
 ```
 
 ![](bti-compare.png)
+
+<a name='btiall'/>
+
+```python
+import pandas as pd
+df = pd.read_stata('../../tweets/2020/BTI 2006-2020.dta')
+g = df.groupby('year').dem_stat.mean()
+g.plot()
+plt.savefig('bti-all.png')
+```
+
+![](bti-all.png)
 
 Democracy Barometer
 
