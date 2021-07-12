@@ -5,7 +5,7 @@ FT: "Time to stop stock trading by US Congress representatives"
 ---
 
 Trying to reject a (null) hypothesis in stats is like proving guilt in
-a court sysatem.. To prove something, we try to disprove the opposite,
+a court system.. To prove something, we try to disprove the opposite,
 at extremely high levels "beyond reasonable doubt", then we can be
 more or less sure that the original statement is correct, as much as can
 be gleaned from data at least.
