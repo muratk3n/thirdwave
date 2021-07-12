@@ -51,6 +51,17 @@ equations"
 
 ---
 
+"@bghayward
+
+ENG scored so early and didn’t seem to know what to do after
+that. Invited pressure and paid price, but this experience part of
+their growth. They will be back.
+
+ITA impeccable under Mancini and deserved winners. Outstanding all
+through tournament. Auguri!"
+
+---
+
 3-2, for Italy. 
 
 ---
