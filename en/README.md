@@ -1,11 +1,5 @@
 # Tweets
 
-
-YT channel folk had started to sound like drugged up all of a sudden
-turns out I unwittingly changed the playback speed to 0.75.
-
----
-
 FT: "Time to stop stock trading by US Congress representatives"
 
 ---
@@ -48,6 +42,11 @@ phenomena which are not carried by solutions of the Navier-Stokes
 equations"
 
 [Link](http://www.bcamath.org/documentos_public/archivos/publicaciones/kth-ctl-4044.pdf)
+
+---
+
+YT channel folk had started to sound like drugged up all of a sudden
+turns out I unwittingly changed the playback speed to 0.75.
 
 ---
 
