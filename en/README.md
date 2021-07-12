@@ -81,7 +81,7 @@ through tournament. Auguri!"
 ---
 
 "Bringing it home", sounds catchy. But I am rooting for the
-Quaquaalude for this one.
+Quaquaalude on this one.
 
 ---
 
