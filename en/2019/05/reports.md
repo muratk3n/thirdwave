@@ -6,7 +6,7 @@
 
 [Earthquakes](earthquakes.md)
 
-[Black People Shot by Police](blm-out.html)
+[Black People Shot by Police](confstats.md#gdeltblm)
 
 [US Navy Location](usmil.md#navy)
 
