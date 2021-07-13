@@ -49,8 +49,8 @@ ME conflict [stats](2019/05/confstats.md#gdeltme)
 ---
 
 "Fox News anchor Rob Schmitt cavalierly suggested on Friday night that
-vaccines are 'against nature' because some diseases are just “supposed
-to wipe out a certain amount of people” since that’s just the 'way
+vaccines are 'against nature' because some diseases are just 'supposed
+to wipe out a certain amount of people' since that’s just the 'way
 evolution goes'"
 
 [Link](https://trib.al/a15Ge60 )
