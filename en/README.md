@@ -1,92 +1,44 @@
 # Tweets
 
-FT: "Time to stop stock trading by US Congress representatives"
+"Siemens to Build One of #Germany’s Largest Carbon-Free #Hydrogen
+Generation Plants in Wunsiedel"
+
+[Link](https://bit.ly/3AUKmfR)
 
 ---
 
-Trying to reject a (null) hypothesis in stats is like demonstrating
-guilt (or disproving innocence) in a court system.. To prove
-something, one tries to disprove the opposite, at extremely high
-levels "beyond reasonable doubt", then can be more or less sure that
-the original statement is correct.
+"@mtracey
+
+Trump's consistently pro-vaccine messaging is really at odds with what
+heavily online MAGA types tend to say about the subject"
+
+[Link](https://mobile.twitter.com/mtracey/status/1414278337732784134)
 
 ---
 
-The answer [is yes](2015/08/temp-increase.md#carbon)
-
-"Does carbon levels in atmo cause temparature increase?"
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone knows already that Sci-Hub is the greatest contribution to science and humanity and etc.<br>Where is my Nobel Peace Prize then? I wonder</p>&mdash; Alexandra Elbakyan (@ringo_ring) <a href="https://twitter.com/ringo_ring/status/1414342378765307907?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-Guys from KTH Sweden. Effin Tor mfker.. They got some game there.
+That is [correct](2016/11/why-is-democracy-better.md#btiall). 
+
+The Independent: "2020 was 'another year of decline for liberal
+democracy,' said a recent report from the V-Dem Institute, a
+Sweden-based research center. 'The world is still more democratic than
+it was in the 1970s and 1980s, but the global decline in liberal
+democracy has been steep during the past 10 years.'"
 
 ---
 
-Assump was I cld take any shape (defined in a CAD file) apply virtual
-wind in a virtual wind tunnel and see the forces acting on it, with
-medium level computation. Not possible. At least not thru anything
-widely known. Paper below is from 2014.
+Didnt they just announce 'their own vaccine'?
 
-Which brings me back to  🤦‍♂
+I guess ppl did not believe their government.
 
----
-
-So much stuff is undone.. I thought we were further ahead in many
-things..  especially aerodynamics.
+"Cuban Protests Demand Freedom, Food, Covid-19 Vaccines"
 
 ---
 
-🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 
-
-"New Theory of Flight.. The new theory of drag and lift of a wing is
-fundamentally different from the textbook theory.. [The old]
-Prandtl-Kutta-Zhukovsky theory which was developed shortly after
-powered flight was shown to be possible by the Wright brothers in
-1903, breaking the perceived mathematical impossibility of powered
-flight based on Newton’s incorrect theory of lift from air hitting the
-wing from below. We find that the textbook theory of flight attributed
-to Prandtl-Kutta-Zhukovsky is incorrect, since it is based on
-phenomena which are not carried by solutions of the Navier-Stokes
-equations"
-
-[Link](http://www.bcamath.org/documentos_public/archivos/publicaciones/kth-ctl-4044.pdf)
-
----
-
-YT channel folk had started to sound like drugged up all of a sudden
-turns out I unwittingly changed the playback speed to 0.75.
-
----
-
-🤣 Just teasing man.. 
-
----
-
-Brexit has been discredited ONCE AGAIN
-
----
-
-"@bghayward
-
-ENG scored so early and didn’t seem to know what to do after
-that. Invited pressure and paid price, but this experience part of
-their growth. They will be back.
-
-ITA impeccable under Mancini and deserved winners. Outstanding all
-through tournament. Auguri!"
-
----
-
-3-2, for Italy. 
-
----
-
-"Bringing it home", sounds catchy. But I am rooting for the
-Quaquaalude on this one.
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">animated gif won&#39;t play on tricorder</p>&mdash; Riker Googling (@RikerGoogling) <a href="https://twitter.com/RikerGoogling/status/1414323747075489795?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ME conflict [stats](2019/05/confstats.md#gdeltme)
 
 ---
 
