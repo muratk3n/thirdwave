@@ -20,7 +20,7 @@ heavily online MAGA types tend to say about the subject"
 
 ---
 
-That is [correct](2016/11/why-is-democracy-better.md#btiall). 
+Until 2020 data BTI data confirms that [decline](2016/11/why-is-democracy-better.md#btiall). 
 
 The Independent: "2020 was 'another year of decline for liberal
 democracy,' said a recent report from the V-Dem Institute, a
