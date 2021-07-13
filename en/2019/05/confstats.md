@@ -79,9 +79,10 @@ Government of Israel  Syria            1       0
 
 ### GDELT
 
-GDELT uses natural language processing ("AI") to extract Actor -
-Action - Actor triplets. The result is not curated, there can be
-mistakes, but as an overall outlook, it can be useful.
+Iraq and Syria based conflict stats. GDELT uses natural language
+processing ("AI") to extract Actor - Action - Actor triplets. The
+result is not curated, there can be mistakes, but as an overall
+outlook, it can be useful.
 
 US military bases, Syria, reverse-engineered from [source](https://bit.ly/3gOBQHx),
 are also added.
