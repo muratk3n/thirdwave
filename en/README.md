@@ -20,8 +20,21 @@ heavily online MAGA types tend to say about the subject"
 
 ---
 
+Polity was a great dataset.. it's been having funding problems?
+
+"For the past twenty-five years, CSP/INSCR data resources, such as
+Polity, have been generously supported with funding from the US
+Government (through association with the Political Instability Task
+Force); that financial support was terminated on 29 February 2020."
+
+[Link](https://www.systemicpeace.org/inscrdata.html)
+
+---
+
 Up until 2020 BTI data confirms a [decline](2016/11/why-is-democracy-better.md#btiall). 
 The fall is not excessive but it is there.
+
+Polity results (underneath) shows pre 2000 status.
 
 The Independent: "2020 was 'another year of decline for liberal
 democracy,' said a recent report from the V-Dem Institute, a
