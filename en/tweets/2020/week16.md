@@ -353,42 +353,6 @@ collapsed, etc.
 
 ---
 
-That is actually incorrect. Democracy has been strengthening around
-the world. To see that clearly, let's look at the data, the Polity
-data set.
-
-[Main Page](http://www.systemicpeace.org/inscrdata.html), [Data](http://www.systemicpeace.org/inscr/p4v2018.xls), [Data - Local](p4v2018.xls)
-
-Their `DEMOC` and `AUTOC` columns contain the level of insititutional
-leanings of a country, `POLITY` column is one subtracted from the
-other, it ranges btw -10 and +10, the latter being full democracy.
-
-If we group per year and average each country, we see where the world
-is heading,
-
-
-```python
-import pandas as pd
-df = pd.read_excel('p4v2018.xls')
-df = df[df.polity > -10.0] # remove junk code -88
-polity = df.groupby('year')['polity'].mean()
-polity.plot()
-plt.savefig('polity.png')
-```
-
-<img width="340" src="https://pbs.twimg.com/media/EVy9iHGXgAAtkQo?format=png&name=small"/>
-
-It looks to me like things are improving. We are nowhere near +10, but
-around a 4.
-
-"@RichardHaass
-
-The global spread of democracy began leveling off some 15 years ago"
-
-[Link](https://mobile.twitter.com/RichardHaass/status/1250796366437199872)
-
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At this pace Wall Street will make new record highs once everybody is unemployed. <a href="https://t.co/dWMoOCaQ9m">pic.twitter.com/dWMoOCaQ9m</a></p>&mdash; Sven Henrich (@NorthmanTrader) <a href="https://twitter.com/NorthmanTrader/status/1250764674762768389?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
