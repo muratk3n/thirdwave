@@ -205,6 +205,7 @@ btw -10 and +10, the latter being full democracy.
 import pandas as pd
 df = pd.read_excel('../../tweets/2020/p4v2018.xls')
 df = df[df.polity > -10.0] # remove junk code -88
+df = df[df.year > 1950]
 polity = df.groupby('year')['polity'].mean()
 polity.plot()
 plt.savefig('polity-all.png')
