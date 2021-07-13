@@ -294,8 +294,6 @@
 
 [Syria](11/syria.md)
 
-[The Real Scandal](11/the-real-scandal.md)
-
 [Why Are Democracies Better?](11/why-is-democracy-better.md)
 
 [#bee](12/bee.md)
