@@ -14,10 +14,11 @@ emergency vehicle"
 
 ---
 
-Interesting theory.. dude claims the Islamic prayer direction changed,
-they plotted early mosques' direction, it points towards the city of
-Petra. The claim is Mohammad is even from that general region.. The
-famous "cave", going by its description, fits there too. Dam
+Interesting theory.. dude claims the Islamic prayer direction was
+changed early in its history, they plotted early mosques' direction,
+it points towards the city of Petra. The claim is Mohammad is even
+from that general region.. The famous "cave", going by its
+description, fits there too. Dam
 
 [Link](https://youtu.be/JOWFPTzK7D4?t=1828)
 
