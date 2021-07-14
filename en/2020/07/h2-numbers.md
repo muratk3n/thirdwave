@@ -11,40 +11,25 @@ lithium rich water is pumped, potable water resources also shift.
 The entire world reserve for lithium is estimated to be ~17 million
 tonnes.
 
-If everyone used batteries to store energy, below is the amt of
-lithium needed.. Single person consumes 10 KW of energy, 240 Kwh /
-day, to hold the energy required for a day, for everyone,
-
-```python
-consumption = 10 # kw, per person
-pop = 7.8e9 # world population
-daily_world_consumption = consumption*24*pop # kwh
-kg_lit_needed = daily_world_consumption / 70.0 * 60.0
-print ('needed', int(kg_lit_needed / 1e9)) # billion kg, million ton
-```
-
-```text
-needed 1604
-```
-
-Required litihum is over 90 TIMES of available reserves.
-
-How about today's energy consumption? According to
-[EIA](https://en.wikipedia.org/wiki/World_energy_consumption) ,
+According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
 estimated world energy consumption was 157,481 Terrawatt Hours in
 2013.
 
 ```python
-consumed = (157481. / (365*2)) * 1e9 # Kwh
-print ("%d mil. tons" % (consumed / 70.0 * 60.0 / 1e9))
+consumed = (157481. / (365)) * 1e9 # Kwh
+reserves = 17.0
+req = (consumed / 70.0 * 60.0 / 1e9)
+print ("%d mil. tons" % req)
+print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
 ```
 
 ```text
-184 mil. tons
+369 mil. tons
+4.60 percent of available reserves
 ```
 
 Storing today's energy consumption for half a day would require over
-ten times the amount of available lithium in the world.
+20 times the amount of available lithium in the world.
 
 BEV, Electricity
 
