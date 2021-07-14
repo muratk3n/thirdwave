@@ -16,9 +16,9 @@ estimated world energy consumption was 157,481 Terrawatt Hours in
 2013. If we were to store today's energy consumption one day in batteries,
 
 ```python
-consumed = (157481. / (365)) * 1e9 # Kwh
-reserves = 17.0
-req = (consumed / 70.0 * 60.0 / 1e9)
+consumed_one_day = (157481. / (365)) * 1e9 # Kwh
+reserves = 17.0 # mtones
+req = ((consumed_one_day / 70.0) * 60.0) / 1e9
 print ("%d mil. tons" % req)
 print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
 ```
