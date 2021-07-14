@@ -53,8 +53,8 @@ for x in list(countries['name']):
     if a == b: continue
     rlist.append([a,b])
     
-#now = datetime.datetime.now()
-now = datetime.datetime(2021,7,6)
+now = datetime.datetime.now()
+#now = datetime.datetime(2021,7,6)
 dfs = []
 
 clat,clon=33.01136975577918, 40.98527636859822
@@ -64,6 +64,7 @@ m = folium.Map(location=[clat, clon], zoom_start=3, tiles="Stamen Terrain")
 for i in range(5):
     d = now - datetime.timedelta(days=i+1)
     sd = "%d%02d%02d" % (d.year, d.month, d.day)
+    print (sd)
     url = base_conflict_url + "/%s.export.CSV.zip" % sd
     r = urllib2.urlopen(url).read()
     file = ZipFile(BytesIO(r))
@@ -74,6 +75,7 @@ for i in range(5):
     df2 = pd.concat((df2,urls),axis=1)    
     df2.columns = conf_cols + ['url']
     df3 = df2[(df2.EventCode==154)]
+    df3 = df3.reset_index()
     df3.drop_duplicates('url',inplace=True)
     dft = df3[['EventCode','Actor1Geo_Lat','Actor1Geo_Long','url']].copy()
     dfs.append(dft)
