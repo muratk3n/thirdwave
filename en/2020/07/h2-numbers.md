@@ -13,7 +13,7 @@ tonnes.
 
 According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
 estimated world energy consumption was 157,481 Terrawatt Hours in
-2013.
+2013. If we were to store today's energy consumption one day in batteries,
 
 ```python
 consumed = (157481. / (365)) * 1e9 # Kwh
@@ -28,8 +28,8 @@ print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
 4.60 percent of available reserves
 ```
 
-Storing today's energy consumption for half a day would require over
-20 times the amount of available lithium in the world.
+.. it would require over 20 times the amount of available lithium in
+the world.
 
 BEV, Electricity
 
