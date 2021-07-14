@@ -1,61 +1,102 @@
 # Tweets
 
-"Siemens to Build One of #Germany’s Largest Carbon-Free #Hydrogen
-Generation Plants in Wunsiedel"
 
-[Link](https://bit.ly/3AUKmfR)
-
----
-
-"@mtracey
-
-Trump's consistently pro-vaccine messaging is really at odds with what
-heavily online MAGA types tend to say about the subject"
-
-[Link](https://mobile.twitter.com/mtracey/status/1414278337732784134)
+Reuters: "Universal Hydrogen, a U.S. firm that aims to do for clean
+fuel what Nespresso did for coffee, is poised to announce preliminary
+hydrogen deals with airlines including Icelandair"
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone knows already that Sci-Hub is the greatest contribution to science and humanity and etc.<br>Where is my Nobel Peace Prize then? I wonder</p>&mdash; Alexandra Elbakyan (@ringo_ring) <a href="https://twitter.com/ringo_ring/status/1414342378765307907?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+"Cummins & others are funding design / creation of the 'H2Rescue'
+emergency vehicle"
+
+[Link](https://bit.ly/3r7fYKK)
 
 ---
 
-Polity was a great dataset.. it's been having funding problems?
+Interesting theory.. dude claims the Islamic prayer direction changed,
+they plotted early mosques' direction, it points towards the city of
+Petra. The claim is Mohammad is even from that general region.. The
+famous "cave", going by its description, fits there too. Dam
 
-"For the past twenty-five years, CSP/INSCR data resources, such as
-Polity, have been generously supported with funding from the US
-Government (through association with the Political Instability Task
-Force); that financial support was terminated on 29 February 2020."
-
-[Link](https://www.systemicpeace.org/inscrdata.html)
+[Link](https://youtu.be/JOWFPTzK7D4?t=1828)
 
 ---
 
-Up until 2020 BTI data confirms a [decline](2016/11/why-is-democracy-better.md#btiall)
-(2000-2020). The fall is not excessive but it is there.
+Cuba issue is toxic for Dems in Florida.. Treading carefully is
+advised.. Otherwise there is an *el voto* and it will be for
+*castigo*.
 
-Polity results (same page) shows pre 2000 status.
-
-The Independent: "2020 was 'another year of decline for liberal
-democracy,' said a recent report from the V-Dem Institute, a
-Sweden-based research center. 'The world is still more democratic than
-it was in the 1970s and 1980s, but the global decline in liberal
-democracy has been steep during the past 10 years.'"
+It says it right there in Spanish. Doesn't it sound more serious in
+Spanish?
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+EL VOTO CASTIGO
+
+"Approved by the Clinton Administration's Justice Department, the raid
+on April 22, 2000, to take custody of Elián González was emotional and
+dramatic—and so was its impact on Cuban-American voters. In the view
+of Miami-based pollster Sergio Bendixen, 'It was humiliating to
+Cuban-Americans, and the 2000 election was payback.' They called it
+*el voto castigo*, or 'the punishment vote.' Whom did Cuban-American
+voters punish? Democratic nominee Al Gore and his fellow Democrats"
+
+[Link](https://www.theatlantic.com/amp/article/377714/)
 
 ---
 
-"Fox News anchor Rob Schmitt cavalierly suggested on Friday night that
-vaccines are 'against nature' because some diseases are just 'supposed
-to wipe out a certain amount of people' since that’s just the 'way
-evolution goes'"
+AP News: "Hispanics account for one-fourth of the population of
+Florida, a critical presidential battleground, and 1 in every 5 of its
+13.8 million voters. The Pew Research Center estimates that nearly a
+third of Florida’s Hispanic voters have roots in Cuba"
 
-[Link](https://trib.al/a15Ge60 )
+[Link](https://apnews.com/article/ap-top-news-ca-state-wire-cuba-miami-fidel-castro-fd2466e6990775bf961ac332b1cc02ea)
 
 ---
+
+F24: "Covid-19 jab bookings surge in France as Macron announces new
+restrictions for the unvaccinated.. The Doctolib site reported what it
+said was a record 20,000 appointments being taken every minute on
+Monday evening. The site said early Tuesday morning that a total of
+926,000 people had booked a first jab through the platform over the
+course of Monday, 'an absolute record'"
+
+---
+
+I hear good things on the exec order.. hopefully staffing works out to
+enforce it..?
+
+[Link](https://prospect.org/economy/one-problem-with-bidens-executive-order-spree/)
+
+---
+
+"By late April, more than 80% of the world’s COVID-19 vaccines had
+gone to people in wealthy countries, with just 0.3% to people in
+low-income countries... Currently, older and medically vulnerable
+individuals are dying from COVID-19 disproportionately in poor
+countries, while young, healthy individuals are getting vaccinated in
+wealthy ones...
+
+What may be most pernicious about the COVAX scheme, however, is that
+rich countries and their pharmaceutical companies have repeatedly used
+it as a shield to deflect demands for IP waivers... Over 50 years ago,
+Kwame Nkrumah observed how aid is a ‘revolving credit’ which returns
+to countries of the global North in the form of increased profits. [To
+a certain extent] COVAX is being leveraged to protect corporate
+patents and profits..
+
+[A solution is] focused on pooling, temporary waivers, or suspension
+of IP"
+
+[Link](https://gh.bmj.com/content/6/6/e006504)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democratizing vaccine intellectual property and supporting countries in building manufacturing capacity will help achieve vaccine justice and overcome the COVID-19 pandemic and future pandemics. <a href="https://t.co/VRNJ439xlD">https://t.co/VRNJ439xlD</a></p>&mdash; George Soros (@georgesoros) <a href="https://twitter.com/georgesoros/status/1412351181674926080?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 
 Industrial Age society, the Second Wave began in Western Europe with
 the Industrial Revolution, and subsequently spread across the

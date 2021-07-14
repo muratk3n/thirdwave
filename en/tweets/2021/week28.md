@@ -1,5 +1,62 @@
 # Week 28
 
+"Siemens to Build One of #Germany’s Largest Carbon-Free #Hydrogen
+Generation Plants in Wunsiedel"
+
+[Link](https://bit.ly/3AUKmfR)
+
+---
+
+"@mtracey
+
+Trump's consistently pro-vaccine messaging is really at odds with what
+heavily online MAGA types tend to say about the subject"
+
+[Link](https://mobile.twitter.com/mtracey/status/1414278337732784134)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone knows already that Sci-Hub is the greatest contribution to science and humanity and etc.<br>Where is my Nobel Peace Prize then? I wonder</p>&mdash; Alexandra Elbakyan (@ringo_ring) <a href="https://twitter.com/ringo_ring/status/1414342378765307907?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+Polity was a great dataset.. it's been having funding problems?
+
+"For the past twenty-five years, CSP/INSCR data resources, such as
+Polity, have been generously supported with funding from the US
+Government (through association with the Political Instability Task
+Force); that financial support was terminated on 29 February 2020."
+
+[Link](https://www.systemicpeace.org/inscrdata.html)
+
+---
+
+Up until 2020 BTI data confirms a [decline](2016/11/why-is-democracy-better.md#btiall)
+(2000-2020). The fall is not excessive but it is there.
+
+Polity results (same page) shows pre 2000 status.
+
+The Independent: "2020 was 'another year of decline for liberal
+democracy,' said a recent report from the V-Dem Institute, a
+Sweden-based research center. 'The world is still more democratic than
+it was in the 1970s and 1980s, but the global decline in liberal
+democracy has been steep during the past 10 years.'"
+
+---
+
+ME conflict [stats](2019/05/confstats.md#gdeltme)
+
+---
+
+"Fox News anchor Rob Schmitt cavalierly suggested on Friday night that
+vaccines are 'against nature' because some diseases are just 'supposed
+to wipe out a certain amount of people' since that’s just the 'way
+evolution goes'"
+
+[Link](https://trib.al/a15Ge60 )
+
+---
+
 FT: "Time to stop stock trading by US Congress representatives"
 
 ---
