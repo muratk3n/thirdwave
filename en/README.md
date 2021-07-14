@@ -25,10 +25,8 @@ famous "cave", going by its description, fits there too. Dam
 
 Cuba issue is toxic for Dems in Florida.. Treading carefully is
 advised.. Otherwise there is an *el voto* and it will be for
-*castigo*.
-
-It says it right there in Spanish. Doesn't it sound more serious in
-Spanish?
+*castigo*. Says it right there in Spanish.. Doesn't it sound more
+serious in Spanish?
 
 ---
 
