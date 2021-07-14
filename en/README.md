@@ -45,10 +45,10 @@ voters punish? Democratic nominee Al Gore and his fellow Democrats"
 
 ---
 
-AP News: "Hispanics account for one-fourth of the population of
-Florida, a critical presidential battleground, and 1 in every 5 of its
-13.8 million voters. The Pew Research Center estimates that nearly a
-third of Florida’s Hispanic voters have roots in Cuba"
+AP: "Hispanics account for one-fourth of the population of Florida, a
+critical presidential battleground, and 1 in every 5 of its 13.8
+million voters. The Pew Research Center estimates that nearly a third
+of Florida’s Hispanic voters have roots in Cuba"
 
 [Link](https://apnews.com/article/ap-top-news-ca-state-wire-cuba-miami-fidel-castro-fd2466e6990775bf961ac332b1cc02ea)
 

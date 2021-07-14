@@ -31,7 +31,7 @@ Force); that financial support was terminated on 29 February 2020."
 
 ---
 
-Up until 2020 BTI data confirms a [decline](2016/11/why-is-democracy-better.md#btiall)
+Up until 2020 BTI data confirms a [decline](../../2016/11/why-is-democracy-better.md#btiall)
 (2000-2020). The fall is not excessive but it is there.
 
 Polity results (same page) shows pre 2000 status.
@@ -44,7 +44,7 @@ democracy has been steep during the past 10 years.'"
 
 ---
 
-ME conflict [stats](2019/05/confstats.md#gdeltme)
+ME conflict [stats](../../2019/05/confstats.md#gdeltme)
 
 ---
 
@@ -69,7 +69,7 @@ the original statement is correct.
 
 ---
 
-The answer [is yes](2015/08/temp-increase.md#carbon)
+The answer [is yes](../../2015/08/temp-increase.md#carbon)
 
 "Does carbon levels in atmo cause temparature increase?"
 
@@ -224,7 +224,7 @@ considered a public safety threat because of the nature of the attack"
 
 ---
 
-BLM stats [update](2019/05/confstats.md#gdeltblm)
+BLM stats [update](../../2019/05/confstats.md#gdeltblm)
 
 ---
 
