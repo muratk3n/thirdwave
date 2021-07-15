@@ -20,5 +20,7 @@ Is It Real?
 
 [The Math for Greenhouse Effect and Global Warming](../../2019/07/greenhouse-effect-math.md)
 
+[Historical Carbon Emissions](../../2021/07/historical-carbon-emissions.md)
+
 [[⇪Up]](../..)
 
