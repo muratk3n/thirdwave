@@ -5,12 +5,6 @@
 
 ---
 
-Leggo Beast - On Loan \#music
-
-[Link](https://youtu.be/Dn8oKQaB2eI)
-
----
-
 "@gbrl_dick
 
 Most attempts to integrate ‘computers’ & [IOT] functionality into
