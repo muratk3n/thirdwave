@@ -62,18 +62,6 @@ work around it. [#ABC](https://thumbs.gfycat.com/AncientAllBasenji-size_restrict
 
 ---
 
-Europeans, Oz, Uk got the muck outa there in a gif before US
-
----
-
-Just caught this in the troop deployment map.. Tali is like u r not welcome.
-
-"Taliban warn Turkey against extending troops in Afghanistan"
-
-[Link](https://www.dawn.com/news/1634853/taliban-warn-turkey-against-extending-troops-in-afghanistan)
-
----
-
 GDELT troop deployment [update](2019/05/confstats.md#gdtroop)
 
 ---
