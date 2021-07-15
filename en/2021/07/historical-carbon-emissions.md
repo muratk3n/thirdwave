@@ -1,13 +1,13 @@
 # Historical Carbon Emissions
 
-Units are thousans of metric tons. [Data](https://github.com/datasets/co2-fossil-by-nation).
-
 Summary: US is the worst polluter, followed by China, USSR, UK.. These
 countries are responsible for global warming.
 
 2014 has China with double carbon emissions of US. 
 
-### Annual Emissions, Every Country
+Units are thousans of metric tons. [Data](https://github.com/datasets/co2-fossil-by-nation).
+
+3### Annual Emissions, Every Country
 
 ```python
 import pandas as pd
@@ -21,7 +21,7 @@ plt.savefig('ghg1.png')
 
 ![](ghg1.png)
 
-### Top Polluters (Total Historical Emissions, 1751-2014
+### Top Polluters, All Time, 1751-2014
 
 ```python
 g = df.groupby('Country')['Total'].sum()
