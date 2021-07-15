@@ -71,7 +71,7 @@ having problems.
 
 U-oh. 
 
-"Armin Laschet’s tax comments divide German conservatives"
+"[New CDU leader] Armin Laschet’s tax comments divide German conservatives"
 
 ---
 
