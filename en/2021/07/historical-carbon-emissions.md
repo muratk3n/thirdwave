@@ -7,7 +7,7 @@ countries are responsible for global warming.
 
 Units are thousans of metric tons. [Data](https://github.com/datasets/co2-fossil-by-nation).
 
-### Annual Emissions, Every Country
+### Annual Emissions, All Countries
 
 ```python
 import pandas as pd
