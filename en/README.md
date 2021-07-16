@@ -60,8 +60,8 @@ into atmo, so they are responsible for global warming.
 
 Any green tech invented in these countries need to be shared with the
 rest of the world due to this offense. US polluted over 30 TIMES more
-compared to Indonesia. Top 10 polluters are responsible for 70% of
-historical carbon pollution.
+compared to Indonesia. Top 10 polluters are responsible for 70% of all
+cumulative carbon pollution since the 18th century.
 
 [Analysis](2021/07/historical-carbon-emissions.md)
 
