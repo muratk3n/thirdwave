@@ -74,14 +74,14 @@ int(102510260 / 2999862)
 Out[1]: 34
 ```
 
-Overall Share of Top 10 Polluters
+Overall Percentage Share of Top 10 Polluters
 
 ```python
-print ( "%0.2f" % (g.head(10).sum() / g.sum()) )
+print ( "%0.2f Percent" % (g.head(10).sum() / g.sum() * 100.0) )
 ```
 
 ```text
-0.69
+68.65 Percent
 ```
 
 ### Top Polluters 2014
