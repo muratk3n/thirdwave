@@ -31,34 +31,34 @@ print ("%0.2f percent of available reserves" % ((reserves / req)*100.0) )
 .. it would require over 20 times the amount of available lithium in
 the world.
 
-BEV, Electricity
+Driving
 
-The EV has an overall efficiency of about 60%. Electric grid
-efficiency is 40%, 60% x 40% gives a total of 24%.
+<a name='drivinga'/>
 
-<a name='ukcar'/>
-
-UK drove 303.7 billion miles in 2013. Take miles driven in half a day
-and assume energy it is stored in bat, with range 250 miles per 75 kwh
-bat, and 60kg of lithium per 70kWh,
+UK drove 303.7 billion miles in 2013. Take miles driven in one day and
+assume energy it is stored in bats, with range 250 miles per 75 kwh
+bat,
 
 ```python
-mday = 303e9 / (365.*2)
+uk_world_ratio = 113
+mday = 303e9 / 365
 lit = (mday / 250 * 60 / 1e3)
 print ("%d tons" % lit)
-print ("%0.2f mil tons needed globally" % (lit * 113 / 1e6))
+print ("%0.2f mil tons needed globally" % (lit * uk_world_ratio / 1e6))
 ```
 
 ```text
-99616 tons
-11.26 mil tons needed globally
+199232 tons
+22.51 mil tons needed globally
 ```
 
-given that UK has 113 of world population... If driving patterns
-double, world is screwed. Not much lith left over for freight, air
-travel, home usage, and the like.
+which exceeds available lithium reserves (given that UK has 1/113th of
+world population)... 
 
-H2 ve BE
+Grid and BEV
+
+The EV has an overall efficiency of about 60%. Electric grid
+efficiency is 40%, 60% x 40% gives a total of 24%.
 
 Assuming same electricity comes from panels to both processes,
 electrolysis is 80%, pipeline transfer is 97%, for FC car efficiency
