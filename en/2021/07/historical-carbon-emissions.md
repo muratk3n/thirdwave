@@ -64,12 +64,22 @@ ARGENTINA                              2013085
 Name: Total, dtype: int64
 ```
 
+US / Indo ratio
+
 ```python
 int(102510260 / 2999862)
 ```
 
 ```text
 Out[1]: 34
+```
+
+```python
+print ( "%0.2f" % (g.head(10).sum() / g.sum()) )
+```
+
+```text
+0.69
 ```
 
 ### Top Polluters 2014
