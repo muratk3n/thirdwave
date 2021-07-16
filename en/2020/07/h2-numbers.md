@@ -12,8 +12,8 @@ The entire world reserve for lithium is estimated to be ~17 million
 tonnes.
 
 According to [EIA](https://en.wikipedia.org/wiki/World_energy_consumption),
-estimated world energy consumption was 157,481 Terrawatt Hours in
-2013. If we were to store today's energy consumption one day in batteries,
+estimated world energy consumption was 157,481 Terrawatt Hours in 2013.
+If we were to store today's energy consumption one day in batteries,
 
 ```python
 consumed_one_day = (157481. / (365)) * 1e9 # Kwh
