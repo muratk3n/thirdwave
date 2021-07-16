@@ -1,81 +1,101 @@
 # Tweets
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At the core of the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> lies the need to fight climate change. <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> technologies are an important part of the overall solution to reduce emissions by at least 55% by 2030.<br>Our recently released 📽️: <a href="https://t.co/kQx3UMA77e">https://t.co/kQx3UMA77e</a><a href="https://twitter.com/hashtag/Fitfor55?src=hash&amp;ref_src=twsrc%5Etfw">#Fitfor55</a> <a href="https://twitter.com/hashtag/ClimateNeutralEU?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateNeutralEU</a> <a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://t.co/RiSi5EvBri">https://t.co/RiSi5EvBri</a> <a href="https://t.co/nDWHwpxJhh">pic.twitter.com/nDWHwpxJhh</a></p>&mdash; FCH JU (@fch_ju) <a href="https://twitter.com/fch_ju/status/1415296072583467008?ref_src=twsrc%5Etfw">July 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, for the first time in decades, <a href="https://twitter.com/AppropsDems?ref_src=twsrc%5Etfw">@AppropsDems</a> passed a budget without the <a href="https://twitter.com/hashtag/HydeAmendment?src=hash&amp;ref_src=twsrc%5Etfw">#HydeAmendment</a>.✨</p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1415753965929738255?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
-"@gbrl_dick
-
-Most attempts to integrate ‘computers’ & [IOT] functionality into
-consumer products make the consumer product dramatically worse lmao
-why does it keep happening??? no touch screens, just make a knob"
+31 C but feels like 37? yep that sounds abt right
 
 ---
 
-"EU unveils sweeping climate change plan.. It proposes taxing jet fuel
-and effectively banning the sale of petrol cars within 20 years"
+Lynne O'Donnell on ABC: "Taliban is the biggest drug cartel in the
+world".
+
+Other comments were interesting, on poppy production, how Taliban
+moved in AFG (started from South, spread elsewhere, following the
+fields)
 
 ---
 
-CNBC: "EU presents its plan to achieve carbon neutrality... The
-27-member bloc has vowed to become carbon neutral by 2050"
+"Solar Polar, a U.K.-based startup, has developed a low-cost, off-grid
+cooling and air conditioning system based on solar-diffusion
+absorption-refrigeration (DAR) technology that incorporates ammonia
+and hydrogen"
+
+[Link](http://ammonia21.com/articles/10112/u_k_engineers_develop_solar_powered_cooler_based_on_ammonia_diffusion_absorption)
 
 ---
 
-"Next-gen [British Columbia, Canada] hydrogen tech blazing trail to net zero"
+"New Zealand Signs #Hydrogen Agreement with Singapore"
 
-[Link](https://www.vantechjournal.com/p/bc-hydrogen-tech-net-zero)
-
----
-
-Eriksson, *Computational Differential Equations*: "Mathematical
-modeling has two basic dual aspects: one symbolic and the other
-constructive-numerical, which reflect the duality between the infinite
-and the finite, or the continuum and the discrete... However,
-beginning with the search for rigor in the foundations of calculus in
-the 19th century, a split between the symbolic and constructive
-aspects gradually developed. The split accelerated with the invention
-of the electronic computer in the 1940s, after which the constructive
-aspects were pursued in the new fields of numerical analysis and
-computing sciences, primarily developed outside departments of
-mathematics. The unfortunate result today is that symbolic mathematics
-and constructive-numerical mathematics by and large are separate
-disciplines and are rarely taught together. Typically, a student first
-meets calculus restricted to its symbolic form and then much later, in
-a different context, is confronted with the computational side. This
-state of affairs lacks a sound scientific motivation and causes severe
-difficulties in courses in physics, mechanics and applied sciences
-building on mathematical modeling"
+[Link](https://bit.ly/3B3pjYJ)
 
 ---
 
-There are raw feelings around Cuba in Florida.. not entirely baseless per
-history. Sometimes pol can shape opinion, sometimes can't, have to
-work around it. [#ABC](https://thumbs.gfycat.com/AncientAllBasenji-size_restricted.gif)
+AP: "Florida Gov. Ron DeSantis has received a single-​dose coronavirus
+vaccine, his office confirmed Wednesday [but kept mum, 4/2021]"
 
 ---
 
-GDELT troop deployment [update](2019/05/confstats.md#gdtroop)
+That's not how it works.. One general approach, the one that is
+simplest, do the most with least will dominate. H2 can replace that
+84%. Batteries cannot. There isn't enough lithium in the world [for
+it](2020/07/h2-numbers.md#lithium).
+
+"We could support 'a mix of solutions' for a net zero world, have a basket"
 
 ---
 
-The Guardian: "Amazon rainforest now emitting more CO2 than it absorbs"
+Forbes: "Fossil Fuels Still Supply 84 Percent Of World Energy..  as an
+overall share of energy consumption, oil remained on top with 33% of
+all energy consumption. The remainder of global energy consumption
+came from coal (27%), natural gas (24%), hydropower (6%), renewables
+(5%), and nuclear power (4%)"
 
 ---
 
-The new Green leader is getting smacked around too. The DE next gen is
-having problems.
+US, UK, China, USSR.. historically they pumped the most carbon into
+atmo, so they are responsible for global warming.
+
+Any green tech invented in these countries need to be shared with the
+rest of the world due to this offense. US polluted over 30 TIMES more
+compared to Indonesia.
+
+[Analysis](2021/07/historical-carbon-emissions.md)
 
 ---
 
-U-oh. 
-
-"[New CDU leader] Armin Laschet’s tax comments divide German conservatives"
+NSA spying on T. Carlson.. Wout warrant? 
 
 ---
 
-WSJ: "Explosion Kills at Least Nine Chinese Nationals in Pakistan"
+"@annietrev
+ 
+.. Today I opened the UK’s first Hydrogen Home in Gateshead, thanks to funding from @beisgovuk... "
+
+---
+
+"Brett McGurk .. senior [ME] policy official..  traveled to Baghdad
+last week [May 2021] to speak with Iraqi prime minister ..  about
+... the future of U.S. troops [in Iraq]. As of today, there are
+roughly 2,500 U.S. troops deployed to Iraq — down from nearly 6,000 in
+2016. In reality, however, the U.S. military is spending about as much
+time ducking rocket fire from an alphabet soup of Shia militias. The
+attacks on Iraqi military bases and airports that house U.S. personnel
+or contractors have gotten so frequent that a week free of rocket fire
+is almost considered an abnormality.
+
+According to a count by the AFP news agency, around 30 rocket, mortar,
+or bomb attacks on U.S.-linked facilities and coalition troop convoys
+have occurred since President Joe Biden’s inauguration on January 20"
+
+[Link](https://news.yahoo.com/time-u-leave-iraq-103027786.html)
+
+---
+
+Apparently if Trump had a second term that royal kerkuffle wld
+probably shape differently for Jordan.
 
 ---
 

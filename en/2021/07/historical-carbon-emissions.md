@@ -26,40 +26,50 @@ plt.savefig('ghg1.png')
 ```python
 g = df.groupby('Country')['Total'].sum()
 g = g.sort_values(ascending=False)
-print (g.head(20))
+print (g.head(30))
 ```
 
 ```text
 Country
-UNITED STATES OF AMERICA        102510260
-China                            47649834
-USSR                             30790355
-UNITED KINGDOM                   20500813
-JAPAN                            14585037
-GERMANY                          12764185
-INDIA                            11385351
-RUSSIAN FEDERATION               10466421
-FRANCE (INCLUDING MONACO)         9697149
-CANADA                            8038299
-FEDERAL REPUBLIC OF GERMANY       7492600
-POLAND                            6960097
-ITALY (INCLUDING SAN MARINO)      6032718
-SOUTH AFRICA                      5030416
-MEXICO                            4768665
-AUSTRALIA                         4252724
-ISLAMIC REPUBLIC OF IRAN          4028153
-REPUBLIC OF KOREA                 3824538
-SPAIN                             3529437
-BRAZIL                            3513002
+UNITED STATES OF AMERICA             102510260
+China                                 47649834
+USSR                                  30790355
+UNITED KINGDOM                        20500813
+JAPAN                                 14585037
+GERMANY                               12764185
+INDIA                                 11385351
+RUSSIAN FEDERATION                    10466421
+FRANCE (INCLUDING MONACO)              9697149
+CANADA                                 8038299
+FEDERAL REPUBLIC OF GERMANY            7492600
+POLAND                                 6960097
+ITALY (INCLUDING SAN MARINO)           6032718
+SOUTH AFRICA                           5030416
+MEXICO                                 4768665
+AUSTRALIA                              4252724
+ISLAMIC REPUBLIC OF IRAN               4028153
+REPUBLIC OF KOREA                      3824538
+SPAIN                                  3529437
+BRAZIL                                 3513002
+FORMER GERMAN DEMOCRATIC REPUBLIC      3323467
+SAUDI ARABIA                           3266162
+BELGIUM                                3184611
+CZECHOSLOVAKIA                         3068081
+INDONESIA                              2999862
+NETHERLANDS                            2966741
+UKRAINE                                2200321
+ROMANIA                                2188014
+TURKEY                                 2184948
+ARGENTINA                              2013085
 Name: Total, dtype: int64
 ```
 
 ```python
-int(102510260 / 9697149)
+int(102510260 / 2999862)
 ```
 
 ```text
-Out[1]: 10
+Out[1]: 34
 ```
 
 ### Top Polluters 2014
