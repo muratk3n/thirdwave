@@ -33,11 +33,11 @@ the world.
 
 Driving
 
-<a name='drivinga'/>
+<a name='driving'/>
 
 UK drove 303.7 billion miles in 2013. Take miles driven in one day and
 assume energy it is stored in bats, with range 250 miles per 75 kwh
-bat,
+bat, project it to world population,
 
 ```python
 uk_world_ratio = 113
