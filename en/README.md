@@ -40,8 +40,8 @@ vaccine, his office confirmed Wednesday [but kept mum, 4/2021]"
 
 That's not how it works.. One general approach, the one that is
 simplest, do the most with least will dominate. H2 can replace that
-84%. Batteries cannot. There isn't enough lithium in the world [for
-it](2020/07/h2-numbers.md#lithium).
+84%. Batteries cannot. There isn't enough lithium in the world
+[for it](2020/07/h2-numbers.md#lithium).
 
 "We could support 'a mix of solutions' for a net zero world, have a basket"
 
