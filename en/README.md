@@ -55,8 +55,8 @@ came from coal (27%), natural gas (24%), hydropower (6%), renewables
 
 ---
 
-US, UK, China, USSR.. historically they pumped the most carbon into
-atmo, so they are responsible for global warming.
+US, UK, China, Russians.. historically they pumped the most carbon
+into atmo, so they are responsible for global warming.
 
 Any green tech invented in these countries need to be shared with the
 rest of the world due to this offense. US polluted over 30 TIMES more
