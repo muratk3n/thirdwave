@@ -59,7 +59,7 @@ US, UK, China, Russians.. historically they pumped the most carbon
 into atmo, so they are responsible for global warming.
 
 Any green tech invented in these countries need to be shared with the
-rest of the world due to this offense. US polluted over 30 TIMES more
+rest of the world due to this offence. US polluted over 30 TIMES more
 compared to Indonesia. Top 10 polluters are responsible for 70% of all
 cumulative carbon pollution since the 18th century.
 
