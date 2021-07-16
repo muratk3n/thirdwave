@@ -66,9 +66,6 @@ compared to Indonesia.
 
 ---
 
-NSA spying on T. Carlson.. Wout warrant? 
-
----
 
 "@annietrev
  
@@ -77,9 +74,9 @@ NSA spying on T. Carlson.. Wout warrant?
 ---
 
 "Brett McGurk .. senior [ME] policy official..  traveled to Baghdad
-last week [May 2021] to speak with Iraqi prime minister ..  about
-... the future of U.S. troops [in Iraq]. As of today, there are
-roughly 2,500 U.S. troops deployed to Iraq — down from nearly 6,000 in
+last week [May 2021] to speak with Iraqi prime minister ..  about...
+the future of U.S. troops [in Iraq]. As of today, there are roughly
+2,500 U.S. troops deployed to Iraq — down from nearly 6,000 in
 2016. In reality, however, the U.S. military is spending about as much
 time ducking rocket fire from an alphabet soup of Shia militias. The
 attacks on Iraqi military bases and airports that house U.S. personnel
