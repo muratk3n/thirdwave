@@ -44,3 +44,5 @@
 
 [Seeing Red](06/seeing-red-arp.md)
 
+[Historical Carbon Emissions](07/historical-carbon-emissions.md)
+

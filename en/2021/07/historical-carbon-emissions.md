@@ -74,6 +74,8 @@ int(102510260 / 2999862)
 Out[1]: 34
 ```
 
+Overall Share of Top 10 Polluters
+
 ```python
 print ( "%0.2f" % (g.head(10).sum() / g.sum()) )
 ```
