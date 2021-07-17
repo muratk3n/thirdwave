@@ -1,102 +1,69 @@
 # Tweets
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, for the first time in decades, <a href="https://twitter.com/AppropsDems?ref_src=twsrc%5Etfw">@AppropsDems</a> passed a budget without the <a href="https://twitter.com/hashtag/HydeAmendment?src=hash&amp;ref_src=twsrc%5Etfw">#HydeAmendment</a>.✨</p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1415753965929738255?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Bloomberg: "Covid is still killing Americans faster than guns, cars and the flu combined"
 
 ---
 
-31 C but feels like 37? yep that sounds abt right
-
----
-
-Lynne O'Donnell on ABC: "Taliban is the biggest drug cartel in the
-world".
-
-Other comments were interesting, on poppy production, how Taliban
-moved in AFG (started from South, spread elsewhere, following the
-fields)
-
----
-
-"Solar Polar, a U.K.-based startup, has developed a low-cost, off-grid
-cooling and air conditioning system based on solar-diffusion
-absorption-refrigeration (DAR) technology that incorporates ammonia
-and hydrogen"
-
-[Link](http://ammonia21.com/articles/10112/u_k_engineers_develop_solar_powered_cooler_based_on_ammonia_diffusion_absorption)
-
----
-
-"New Zealand Signs #Hydrogen Agreement with Singapore"
-
-[Link](https://bit.ly/3B3pjYJ)
-
----
-
-AP: "Florida Gov. Ron DeSantis has received a single-​dose coronavirus
-vaccine, his office confirmed Wednesday [but kept mum, 4/2021]"
-
----
-
-That's not how it works.. One general approach, the one that is
-simplest, do the most with least will dominate. H2 can replace that
-84%. Batteries cannot. There isn't enough lithium in the world
-[for it](2020/07/h2-numbers.md#lithium).
-
-"We could support 'a mix of solutions' for a net zero world, have a basket"
-
----
-
-Forbes: "Fossil Fuels Still Supply 84 Percent Of World Energy..  as an
-overall share of energy consumption, oil remained on top with 33% of
-all energy consumption. The remainder of global energy consumption
-came from coal (27%), natural gas (24%), hydropower (6%), renewables
-(5%), and nuclear power (4%)"
-
----
-
-US, UK, China, Russians.. historically they pumped the most carbon
-into atmo, so they are responsible for global warming.
-
-Any green tech invented in these countries need to be shared with the
-rest of the world due to this offence. US polluted over 30 TIMES more
-compared to Indonesia. Top 10 polluters are responsible for 70% of all
-cumulative carbon pollution since the 18th century.
-
-Don't get me started on natural gas, fracking and 'flaring'.
-
-[Analysis](2021/07/historical-carbon-emissions.md)
-
----
-
-
-"@annietrev
+One cld monkey around with storage ratios etc and say 'barely enough' but
+that doesn't cut it for battling climate change. We don't have time to
+waste on band-aid, marginal solutions.
  
-.. Today I opened the UK’s first Hydrogen Home in Gateshead, thanks to funding from @beisgovuk... "
+---
+
+Lithium reserves [aren't even enough](2020/07/h2-numbers.md#driving) for cars.
 
 ---
 
-"Brett McGurk .. senior [ME] policy official..  traveled to Baghdad
-last week [May 2021] to speak with Iraqi prime minister ..  about...
-the future of U.S. troops [in Iraq]. As of today, there are roughly
-2,500 U.S. troops deployed to Iraq — down from nearly 6,000 in 2016.
-
-In reality, however, the U.S. military is spending about as much
-time ducking rocket fire from an alphabet soup of Shia militias. The
-attacks on Iraqi military bases and airports that house U.S. personnel
-or contractors have gotten so frequent that a week free of rocket fire
-is almost considered an abnormality.
-
-According to a count by the AFP news agency, around 30 rocket, mortar,
-or bomb attacks on U.S.-linked facilities and coalition troop convoys
-have occurred since President Joe Biden’s inauguration on January 20"
-
-[Link](https://news.yahoo.com/time-u-leave-iraq-103027786.html)
+I dont care abt ur language.. That's some funny shit
 
 ---
 
-Apparently if Trump had a second term that royal kerkuffle wld
-probably shape differently for Jordan.
+🤣 🤣 
+
+---
+
+Anwendungen für Rundungen
+
+---
+
+I'm da PDF mastah
+
+Have plathora of tools for PDFs. Can cut it in two (two-page becomes
+single page), append, extract.. Image only book in PDF? No problem.
+Apply OCR, it becomes searchable.
+
+---
+
+NYT: "Biden to restore protections for Tongass National Forest in Alaska"
+
+---
+
+Who da muck is this jackass lecturing ppl on guns, etc. DO you know
+better than Ronald Reagan? The man made a living of off guns (played a
+cowbow right?), then he *was shot* by an actual gun. He certainly knew
+more about guns than you. And he was for gun nut, was for gun
+control. Ronald F@#$ing Reagan - the founding father of modern
+conservatism.
+
+---
+
+Jacobin: "The Billionaire Space Race Is the Ultimate Symbol of Capitalist Decadence"
+
+[Link](https://jacobinmag.com/2021/07/billionaire-space-race-richard-branson-bezos-musk)
+
+---
+
+AFP: "The WHO chief called Thursday for China to cooperate better in
+the next phase of investigations into the origins of the Covid-19
+pandemic, demanding more access to raw data"
+
+---
+
+Finite Vol approaches are no good. I hear accuracy sucks too.
+
+"FV/FD spatial discretizations constitute non-Galerkin weak form
+decisions leading to nonlinear schemes via heuristic arguments"
 
 ---
 

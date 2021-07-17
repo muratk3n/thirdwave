@@ -1,6 +1,105 @@
 # Week 28
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, for the first time in decades, <a href="https://twitter.com/AppropsDems?ref_src=twsrc%5Etfw">@AppropsDems</a> passed a budget without the <a href="https://twitter.com/hashtag/HydeAmendment?src=hash&amp;ref_src=twsrc%5Etfw">#HydeAmendment</a>.✨</p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1415753965929738255?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+31 C but feels like 37? yep that sounds abt right
+
+---
+
+Lynne O'Donnell on ABC: "Taliban is the biggest drug cartel in the
+world".
+
+Other comments were interesting, on poppy production, how Taliban
+moved in AFG (started from South, spread elsewhere, following the
+fields)
+
+---
+
+"Solar Polar, a U.K.-based startup, has developed a low-cost, off-grid
+cooling and air conditioning system based on solar-diffusion
+absorption-refrigeration (DAR) technology that incorporates ammonia
+and hydrogen"
+
+[Link](http://ammonia21.com/articles/10112/u_k_engineers_develop_solar_powered_cooler_based_on_ammonia_diffusion_absorption)
+
+---
+
+"New Zealand Signs #Hydrogen Agreement with Singapore"
+
+[Link](https://bit.ly/3B3pjYJ)
+
+---
+
+AP: "Florida Gov. Ron DeSantis has received a single-​dose coronavirus
+vaccine, his office confirmed Wednesday [but kept mum, 4/2021]"
+
+---
+
+That's not how it works.. One general approach, the one that is
+simplest, do the most with least will dominate. H2 can replace that
+84%. Batteries cannot. There isn't enough lithium in the world
+[for it](2020/07/h2-numbers.md#lithium).
+
+"We could support 'a mix of solutions' for a net zero world, have a basket"
+
+---
+
+Forbes: "Fossil Fuels Still Supply 84 Percent Of World Energy..  as an
+overall share of energy consumption, oil remained on top with 33% of
+all energy consumption. The remainder of global energy consumption
+came from coal (27%), natural gas (24%), hydropower (6%), renewables
+(5%), and nuclear power (4%)"
+
+---
+
+US, UK, China, Russians.. historically they pumped the most carbon
+into atmo, so they are responsible for global warming.
+
+Any green tech invented in these countries need to be shared with the
+rest of the world due to this offence. US polluted over 30 TIMES more
+compared to Indonesia. Top 10 polluters are responsible for 70% of all
+cumulative carbon pollution since the 18th century.
+
+Don't get me started on natural gas, fracking and 'flaring'.
+
+[Analysis](2021/07/historical-carbon-emissions.md)
+
+---
+
+
+"@annietrev
+ 
+.. Today I opened the UK’s first Hydrogen Home in Gateshead, thanks to funding from @beisgovuk... "
+
+---
+
+"Brett McGurk .. senior [ME] policy official..  traveled to Baghdad
+last week [May 2021] to speak with Iraqi prime minister ..  about...
+the future of U.S. troops [in Iraq]. As of today, there are roughly
+2,500 U.S. troops deployed to Iraq — down from nearly 6,000 in 2016.
+
+In reality, however, the U.S. military is spending about as much
+time ducking rocket fire from an alphabet soup of Shia militias. The
+attacks on Iraqi military bases and airports that house U.S. personnel
+or contractors have gotten so frequent that a week free of rocket fire
+is almost considered an abnormality.
+
+According to a count by the AFP news agency, around 30 rocket, mortar,
+or bomb attacks on U.S.-linked facilities and coalition troop convoys
+have occurred since President Joe Biden’s inauguration on January 20"
+
+[Link](https://news.yahoo.com/time-u-leave-iraq-103027786.html)
+
+---
+
+Apparently if Trump had a second term that royal kerkuffle wld
+probably shape differently for Jordan.
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">At the core of the <a href="https://twitter.com/hashtag/EUGreenDeal?src=hash&amp;ref_src=twsrc%5Etfw">#EUGreenDeal</a> lies the need to fight climate change. <a href="https://twitter.com/hashtag/Hydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#Hydrogen</a> technologies are an important part of the overall solution to reduce emissions by at least 55% by 2030.<br>Our recently released 📽️: <a href="https://t.co/kQx3UMA77e">https://t.co/kQx3UMA77e</a><a href="https://twitter.com/hashtag/Fitfor55?src=hash&amp;ref_src=twsrc%5Etfw">#Fitfor55</a> <a href="https://twitter.com/hashtag/ClimateNeutralEU?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateNeutralEU</a> <a href="https://twitter.com/hashtag/CleanHydrogen?src=hash&amp;ref_src=twsrc%5Etfw">#CleanHydrogen</a> <a href="https://t.co/RiSi5EvBri">https://t.co/RiSi5EvBri</a> <a href="https://t.co/nDWHwpxJhh">pic.twitter.com/nDWHwpxJhh</a></p>&mdash; FCH JU (@fch_ju) <a href="https://twitter.com/fch_ju/status/1415296072583467008?ref_src=twsrc%5Etfw">July 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
