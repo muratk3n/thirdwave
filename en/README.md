@@ -43,7 +43,7 @@ Jacobin: "The Billionaire Space Race Is the Ultimate Symbol of Capitalist Decade
 
 ---
 
-Finite Vol approaches are no good. I hear accuracy sucks too.
+Finite Vol approaches 👎. I hear accuracy sucks too.
 
 "FV/FD spatial discretizations constitute non-Galerkin weak form
 decisions leading to nonlinear schemes via heuristic arguments"
@@ -57,7 +57,7 @@ through the roof (and it will) Singapore will be ready.
 
 ---
 
-The kung-fu vaccine is ineffective.
+The kung-fu vaccine is no good
 
 WSJ: "Hit Hard by Covid-19, Southeast Asian Countries Turn to Western
 Vaccines.. As vaccine supplies open up, Indonesia, Malaysia and the
