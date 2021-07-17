@@ -28,11 +28,7 @@ I dont care abt ur language.. That's some funny shit
 
 ---
 
-🤣 🤣 
-
----
-
-Anwendungen für Rundungen
+Anwendungen für Rundungen 🤣 🤣 
 
 ---
 
