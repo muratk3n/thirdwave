@@ -32,7 +32,7 @@ Anwendungen für Rundungen 🤣 🤣
 
 ---
 
-I'm da PDF mastah. Can cut it in two (two-page becomes single page),
+Da PDF mastah here. Can cut it in two (two-page becomes single page),
 append, extract.. Image only book in PDF? No problem.  Apply OCR.
 
 ---
