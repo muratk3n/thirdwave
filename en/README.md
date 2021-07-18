@@ -19,8 +19,6 @@ a big part of the population, and extreme inequality. If you had that
 kind of economic world that of course would breed nationalism and
 extremism"
 
-[Link](https://youtu.be/sVS1G3U2qOQ)
-
 ---
 
 Here I list it again; worst polluters in history, responsible for 70%
