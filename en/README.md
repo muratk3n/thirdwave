@@ -1,73 +1,71 @@
 # Tweets
 
+Beckley: "Yes history has shown that technological revolutions create
+prosperity *in the long run* but every single time one of these things
+has happened they have forced some workers into lower wage jobs or
+into unemployment in the short run, and the short run can actually
+last an entire lifetime. So if you study the industrial revolution you
+know the one of the biggest technological revolutions, for the first
+70 years of the industrial revolution in the Great Britain from 1770
+to 1840, average wages actually stagnated, and living standards
+declined.  The average height of men actually shrunk because they had
+less nutrition over that 70 years, even as output per worker expanded
+by nearly 50 percent, that's because the gains from mass mechanization
+during that time were largely captured by business elites...
 
-"Fusion Fuel Announces HEVO Ammonia Morocco Project. Morocco's Largest
-Green Hydrogen & Green Ammonia Project is expected to produce 183,000
-tons of green ammonia and abate 280,000 tons of CO2 annually"
+There could be a world where you would have sluggish growth, lots of
+debt, stagnant wages, for at least a big part of the population, and
+extreme inequality. If you had that kind of economic world that of
+course would breed nationalism and extremism"
 
-[Link](https://bit.ly/3B9zECs)
-
----
-
-Bloomberg: "Covid is still killing Americans faster than guns, cars
-and the flu combined"
-
----
-
-One cld monkey around with storage ratios etc and say 'barely enough' but
-that doesn't cut it for battling climate change. We don't have time to
-waste on band-aid, marginal solutions.
- 
----
-
-Lithium reserves [aren't even enough](2020/07/h2-numbers.md#driving) for cars.
+[Link](https://youtu.be/sVS1G3U2qOQ)
 
 ---
 
-I dont care abt ur language.. That's some funny shit
+Here I list it again; worst polluters in history, responsible for 70%
+of all carbon emissions, all time:
+
+US, China, UK, Japan, Germany, India, Russia, France, Canada.
 
 ---
 
-Anwendungen für Rundungen 🤣 🤣 
+Private equity millionaire's son is chosen to go to space by Bezos but
+he is "more of a fan" of the Tesla's monkey boy? Dude *who gives a
+shit*?
 
 ---
 
-Da PDF mastah here. Can cut it in two (two-page becomes single page),
-append, extract.. Image only book in PDF? No problem.  Apply OCR.
+"Switzerland's.. Migros [plans to] deliver... its goods with green
+hydrogen fuel-cell trucks"
+
+[Link](https://bit.ly/3AXdhjE)
 
 ---
 
-Jacobin: "The Billionaire Space Race Is the Ultimate Symbol of Capitalist Decadence"
-
-[Link](https://jacobinmag.com/2021/07/billionaire-space-race-richard-branson-bezos-musk)
+Providing "gonzo Internet" to Cuba.. good idea. 
 
 ---
 
-Finite Vol approaches 👎. I hear accuracy sucks too.
+I am not entirely convinced Cuban regime wants the ambargo to end..
+Why would they? It is the perfect scapegoat. 
 
-"FV/FD spatial discretizations constitute non-Galerkin weak form
-decisions leading to nonlinear schemes via heuristic arguments"
-
----
-
-IMO Singapore is looking to become a major H2 exporter itself. The H2
-deals it makes are way more than its own needs.. It is looking to pull
-as much to it as possible create the flow, then when this thing goes
-through the roof (and it will) Singapore will be ready.
+This observation was made by some during 90s for Fidel, it'd made
+sense to me.
 
 ---
 
-The kung-fu vaccine is no good
-
-WSJ: "Hit Hard by Covid-19, Southeast Asian Countries Turn to Western
-Vaccines.. As vaccine supplies open up, Indonesia, Malaysia and the
-Philippines are shifting away from their reliance on Chinese vaccines"
+Then of course there was [this](https://pbs.twimg.com/media/E6hGDLGWYAYVYiy?format=jpg&name=small)
+and [this](https://drive.google.com/uc?export=view&id=1xmUDnMkyVI1HWFgjp1J9erOw33eMzIKq)
+which very likely hurt Al Gore and later Hilary respectively in Florida.
 
 ---
 
-AFP: "The WHO chief called Thursday for China to cooperate better in
-the next phase of investigations into the origins of the Covid-19
-pandemic, demanding more access to raw data"
+There is an endless amt of examples where a Dem was screwed bcz of
+Cuba..  You could claim Clinton lost gov in 1980 partly bcz of
+Castro. Cuba sent refugees to US, Carter dumped them on Arkansas,
+there was a ruckus, Cubans escaped from camp and armed citizens nearly
+shot them to death. Some other factors were there, but this issue
+loomed large.
 
 ---
 

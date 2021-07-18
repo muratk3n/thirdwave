@@ -1,6 +1,76 @@
 # Week 28
 
 
+"Fusion Fuel Announces HEVO Ammonia Morocco Project. Morocco's Largest
+Green Hydrogen & Green Ammonia Project is expected to produce 183,000
+tons of green ammonia and abate 280,000 tons of CO2 annually"
+
+[Link](https://bit.ly/3B9zECs)
+
+---
+
+Bloomberg: "Covid is still killing Americans faster than guns, cars
+and the flu combined"
+
+---
+
+One cld monkey around with storage ratios etc and say 'barely enough' but
+that doesn't cut it for battling climate change. We don't have time to
+waste on band-aid, marginal solutions.
+ 
+---
+
+Lithium reserves [aren't even enough](2020/07/h2-numbers.md#driving) for cars.
+
+---
+
+I dont care abt ur language.. That's some funny shit
+
+---
+
+Anwendungen für Rundungen 🤣 🤣 
+
+---
+
+Da PDF mastah here. Can cut it in two (two-page becomes single page),
+append, extract.. Image only book in PDF? No problem.  Apply OCR.
+
+---
+
+Jacobin: "The Billionaire Space Race Is the Ultimate Symbol of Capitalist Decadence"
+
+[Link](https://jacobinmag.com/2021/07/billionaire-space-race-richard-branson-bezos-musk)
+
+---
+
+Finite Vol approaches 👎. I hear accuracy sucks too.
+
+"FV/FD spatial discretizations constitute non-Galerkin weak form
+decisions leading to nonlinear schemes via heuristic arguments"
+
+---
+
+IMO Singapore is looking to become a major H2 exporter itself. The H2
+deals it makes are way more than its own needs.. It is looking to pull
+as much to it as possible create the flow, then when this thing goes
+through the roof (and it will) Singapore will be ready.
+
+---
+
+The kung-fu vaccine is no good
+
+WSJ: "Hit Hard by Covid-19, Southeast Asian Countries Turn to Western
+Vaccines.. As vaccine supplies open up, Indonesia, Malaysia and the
+Philippines are shifting away from their reliance on Chinese vaccines"
+
+---
+
+AFP: "The WHO chief called Thursday for China to cooperate better in
+the next phase of investigations into the origins of the Covid-19
+pandemic, demanding more access to raw data"
+
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, for the first time in decades, <a href="https://twitter.com/AppropsDems?ref_src=twsrc%5Etfw">@AppropsDems</a> passed a budget without the <a href="https://twitter.com/hashtag/HydeAmendment?src=hash&amp;ref_src=twsrc%5Etfw">#HydeAmendment</a>.✨</p>&mdash; Katherine Clark (@RepKClark) <a href="https://twitter.com/RepKClark/status/1415753965929738255?ref_src=twsrc%5Etfw">July 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
