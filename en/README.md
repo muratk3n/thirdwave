@@ -4,14 +4,14 @@ Beckley: "Yes history has shown that technological revolutions create
 prosperity *in the long run* but every single time one of these things
 has happened they have forced some workers into lower wage jobs or
 into unemployment in the short run, and the short run can actually
-last an entire lifetime. So if you study the industrial revolution you
-know the one of the biggest technological revolutions, for the first
-70 years of the industrial revolution in the Great Britain from 1770
-to 1840, average wages actually stagnated, and living standards
-declined.  The average height of men actually shrunk because they had
-less nutrition over that 70 years, even as output per worker expanded
-by nearly 50 percent, that's because the gains from mass mechanization
-during that time were largely captured by business elites...
+last an entire lifetime. So if you study the Industrial Revolution,
+one of the biggest technological revolutions, for the first 70 years
+of the industrial revolution in the Great Britain from 1770 to 1840,
+average wages actually stagnated, and living standards declined.  The
+average height of men actually shrunk because they had less nutrition
+over that 70 years, even as output per worker expanded by nearly 50
+percent, that's because the gains from mass mechanization during that
+time were largely captured by business elites...
 
 There could be a world where you would have sluggish growth, lots of
 debt, stagnant wages, for at least a big part of the population, and
