@@ -43,13 +43,9 @@ hydrogen fuel-cell trucks"
 
 ---
 
-Providing "gonzo Internet" to Cuba.. good idea. 
-
----
-
 I am not entirely convinced Cuban regime wants the ambargo to end..
 Why would they? It is the perfect scapegoat. Some during the 90s did
-claim convincingly Castro was making moves in that sense, to keep the
+claim convincingly Castro was making moves for it, to keep the
 ambargo.
 
 ---
@@ -66,6 +62,10 @@ Castro. Cuba sent refugees to US, Carter dumped them on Arkansas,
 there was a ruckus, Cubans escaped from camp and armed citizens nearly
 shot them to death. Some other factors were there 2, but the refugee
 issue loomed large.
+
+---
+
+Providing "gonzo Internet" to Cuba.. good idea. 
 
 ---
 
