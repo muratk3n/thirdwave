@@ -54,9 +54,9 @@ sense to me.
 
 ---
 
-Then of course there was [this](https://pbs.twimg.com/media/E6hGDLGWYAYVYiy?format=jpg&name=small)
+Then there was [this](https://pbs.twimg.com/media/E6hGDLGWYAYVYiy?format=jpg&name=small)
 and [this](https://drive.google.com/uc?export=view&id=1xmUDnMkyVI1HWFgjp1J9erOw33eMzIKq)
-which very likely hurt Al Gore and later Hilary respectively in Florida.
+likely hurting Al Gore and later Hilary, respectively, in Florida.
 
 ---
 
