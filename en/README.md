@@ -60,7 +60,7 @@ which very likely hurt Al Gore and later Hilary respectively in Florida.
 
 ---
 
-There is an endless amt of examples where a Dem was screwed bcz of
+There are a boat load of examples where a Dem was screwed bcz of
 Cuba..  You could claim Clinton lost gov in 1980 partly bcz of
 Castro. Cuba sent refugees to US, Carter dumped them on Arkansas,
 there was a ruckus, Cubans escaped from camp and armed citizens nearly
