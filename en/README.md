@@ -65,7 +65,7 @@ Cuba..  You could claim Clinton lost gov in 1980 partly bcz of
 Castro. Cuba sent refugees to US, Carter dumped them on Arkansas,
 there was a ruckus, Cubans escaped from camp and armed citizens nearly
 shot them to death. Some other factors were there 2, but the refugee
-issue loomed large.
+issue loomed large, all thanks to Castro.
 
 ---
 
