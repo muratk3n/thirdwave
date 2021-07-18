@@ -1,7 +1,7 @@
 # Tweets
 
 Beckley: "Yes history has shown that technological revolutions create
-prosperity *in the long run* but every single time one of these things
+prosperity in the long run but every single time one of these things
 has happened they have forced some workers into lower wage jobs or
 into unemployment in the short run, and the short run can actually
 last an entire lifetime. So if you study the Industrial Revolution,
