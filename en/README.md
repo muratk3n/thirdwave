@@ -48,7 +48,9 @@ Providing "gonzo Internet" to Cuba.. good idea.
 ---
 
 I am not entirely convinced Cuban regime wants the ambargo to end..
-Why would they? It is the perfect scapegoat. 
+Why would they? It is the perfect scapegoat. Some during the 90s did
+claim convincingly Castro was making moves in that sense, to keep the
+ambargo.
 
 ---
 
