@@ -13,10 +13,11 @@ over that 70 years, even as output per worker expanded by nearly 50
 percent, that's because the gains from mass mechanization during that
 time were largely captured by business elites...
 
-There could be a world where you would have sluggish growth, lots of
-debt, stagnant wages, for at least a big part of the population, and
-extreme inequality. If you had that kind of economic world that of
-course would breed nationalism and extremism"
+[In our future, due to automation] there could be a world where you
+would have sluggish growth, lots of debt, stagnant wages, for at least
+a big part of the population, and extreme inequality. If you had that
+kind of economic world that of course would breed nationalism and
+extremism"
 
 [Link](https://youtu.be/sVS1G3U2qOQ)
 
