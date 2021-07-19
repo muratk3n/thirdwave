@@ -20,7 +20,7 @@ waste on band-aid, marginal solutions.
  
 ---
 
-Lithium reserves [aren't even enough](2020/07/h2-numbers.md#driving) for cars.
+Lithium reserves [aren't even enough](../../2020/07/h2-numbers.md#driving) for cars.
 
 ---
 
